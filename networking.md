@@ -28,10 +28,12 @@
 
 - https://www.chappell-university.com/lauras-lab
 - https://www.malware-traffic-analysis.net/
+- https://rufposten.de/blog/2019/12/05/privacy-analysis-of-tiktoks-app-and-website
 
 ### Telecommunications
 
 - [3G & 4G Frequency List](https://support.alwaysonlinewireless.com/hc/en-us/articles/115002446723-3G-4G-Frequency-List)
+- [A disaster-resilient communications network powered by the sun](https://disaster.radio)
 
 ### HTTP
 

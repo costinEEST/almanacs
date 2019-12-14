@@ -24,3 +24,15 @@
 
 - [Free SMS](https://twitter.com/OsintStash/status/1199785692274077696)
 - [Getting a Grasp on GoogleID’s](https://medium.com/week-in-osint/getting-a-grasp-on-googleids-77a8ab707e43) + [the twitter thread](https://twitter.com/Sector035/status/1201957515921121286)
+
+### Self hosted
+
+- https://selfhostedsource.tech/self-hosted/all
+
+### Tools
+
+- [5 Command Line Tools to Break Your Dependence on the GUI ](https://www.putorius.net/5-cool-command-line-tools.html)
+
+### Books
+
+- https://dottedsquirrel.com/everything-else/2020-reading-list-for-developers/

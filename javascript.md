@@ -6,6 +6,10 @@
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
+### AI
+
+- [Functions that will give you a feeling of how machines can actually "learn"](https://github.com/trekhleb/nano-neuron)
+
 ### Audio
 
 - [Turn your browser into an audio recorder.](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
