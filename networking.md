@@ -36,3 +36,7 @@
 ### HTTP
 
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586)
+
+### WebSockets
+
+- [Why did JSON-RPC over Websockets never displace the mindshare that HTTP/REST has?](https://twitter.com/pfrazee/status/1200079831066718208)
