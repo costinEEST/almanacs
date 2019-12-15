@@ -20,6 +20,8 @@
 ### Linux
 
 - [You may be vulnerable to hijacked VPN(OpenVPN/IPSec/Wireguard/etc) tunnels.](https://twitter.com/Ridgeback111/status/1202623324901302279)
+- [htop explained](https://peteris.rocks/blog/htop/)
+- http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html
 
 ### Mac
 

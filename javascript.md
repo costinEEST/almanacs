@@ -14,6 +14,10 @@
 
 - [Turn your browser into an audio recorder.](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
 
+### Canvas
+
+- https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript/
+
 ### XSS
 
 - [Bootstrap XSS Collection](https://gist.github.com/ccampean/bcbd042c887d62221ffce94db34436c5)

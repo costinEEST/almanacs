@@ -1,6 +1,7 @@
 ### Tools
 
 - [Visualizing missing data in databases](https://www.codediesel.com/data/visualizing-missing-data-in-databases/)
+- [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
 
 ### Hacks
 
