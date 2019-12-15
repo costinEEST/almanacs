@@ -34,6 +34,7 @@
 
 - [3G & 4G Frequency List](https://support.alwaysonlinewireless.com/hc/en-us/articles/115002446723-3G-4G-Frequency-List)
 - [A disaster-resilient communications network powered by the sun](https://disaster.radio)
+- [The Magical Science of Wi-Fi on Airplanes](https://onezero.medium.com/what-makes-it-possible-to-browse-the-internet-at-35-000-feet-1afaea83eb5)
 
 ### HTTP
 

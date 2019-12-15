@@ -4,6 +4,7 @@
 
 ### VS Code
 
+- https://github.com/viatsko/awesome-vscode
 - [VS Code Recipes](https://github.com/Microsoft/vscode-recipes)
 
 ### Bash
@@ -20,6 +21,11 @@
 
 - [You may be vulnerable to hijacked VPN(OpenVPN/IPSec/Wireguard/etc) tunnels.](https://twitter.com/Ridgeback111/status/1202623324901302279)
 
+### Mac
+
+- [Auto Wake Up, Auto play favorite music](https://blog.hoangnm.com/2016/02/29/auto-wake-up-autoplay-favourite-music)
+- https://github.com/nikitavoloboev/my-mac-os
+
 ### OSINT
 
 - [Free SMS](https://twitter.com/OsintStash/status/1199785692274077696)
@@ -32,7 +38,19 @@
 ### Tools
 
 - [5 Command Line Tools to Break Your Dependence on the GUI ](https://www.putorius.net/5-cool-command-line-tools.html)
+- [presentations for busy messy hackers](https://github.com/tmcw/big)
 
 ### Books
 
 - https://dottedsquirrel.com/everything-else/2020-reading-list-for-developers/
+- [A curated list of awesome book, tool and other resource for Product Managers.](https://github.com/hugo53/awesome-ProductManager)
+
+### Websites/Newsletters
+
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+- https://buttondown.email/swap/archive
+- [Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
+
+### Marketing
+
+- [Curated list to achieve visibility for your product](https://github.com/dehenne/awesome-visibility)

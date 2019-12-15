@@ -6,3 +6,5 @@
 ### UX
 
 - [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont)
+- https://blog.hoangnm.com/pageDir/Books
+- [UX Crash Course: 31 Fundamentals](https://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)

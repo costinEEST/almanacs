@@ -9,9 +9,14 @@
 - https://www.udemy.com/course/nestjs-course/
 - https://www.udemy.com/course/learning-koajs-by-building-rest-apis/
 
+### Cheat sheets
+
+- https://github.com/aliyr/Nodejs-Developer-Roadmap
+
 ### Tools
 
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
+- [Displays JSON files in a flat format.](https://github.com/soheilpro/catj)
 
 ### Authentication
 
@@ -24,3 +29,8 @@
 ### API
 
 - [Common API security pitfalls](https://pragmaticwebsecurity.com/talks/commonapisecuritypitfalls)
+
+### Security
+
+- [A Road Map for Node.js Security](https://nodesecroadmap.fyi)
+- [Security design pattern support for Node.js](https://github.com/mikesamuel/node-sec-patterns)
