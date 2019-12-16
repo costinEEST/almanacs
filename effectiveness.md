@@ -6,6 +6,7 @@
 
 - https://github.com/viatsko/awesome-vscode
 - [VS Code Recipes](https://github.com/Microsoft/vscode-recipes)
+- [Multi cursor](https://twitter.com/erikaybar_/status/1197293860239630337)
 
 ### Bash
 

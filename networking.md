@@ -29,6 +29,7 @@
 - https://www.chappell-university.com/lauras-lab
 - https://www.malware-traffic-analysis.net/
 - https://rufposten.de/blog/2019/12/05/privacy-analysis-of-tiktoks-app-and-website
+- [Free Proxy / VPN / TOR / Bad IP Detection Service via API and Web Interface](https://twitter.com/jedisct1/status/1206160385902030849) + https://github.com/blackdotsh/getIPIntel
 
 ### Telecommunications
 
