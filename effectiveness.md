@@ -42,6 +42,7 @@
 
 - [5 Command Line Tools to Break Your Dependence on the GUI ](https://www.putorius.net/5-cool-command-line-tools.html)
 - [presentations for busy messy hackers](https://github.com/tmcw/big)
+- [Joplin for notes taking](https://twitter.com/adulau/status/1195820269388148738)
 
 ### Books
 

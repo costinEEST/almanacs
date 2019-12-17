@@ -30,6 +30,7 @@
 - https://www.malware-traffic-analysis.net/
 - https://rufposten.de/blog/2019/12/05/privacy-analysis-of-tiktoks-app-and-website
 - [Free Proxy / VPN / TOR / Bad IP Detection Service via API and Web Interface](https://twitter.com/jedisct1/status/1206160385902030849) + https://github.com/blackdotsh/getIPIntel
+- https://www.alldaydevops.com/zap-in-ten
 
 ### Telecommunications
 
@@ -49,6 +50,7 @@
 ### WebSockets
 
 - [Why did JSON-RPC over Websockets never displace the mindshare that HTTP/REST has?](https://twitter.com/pfrazee/status/1200079831066718208)
+- https://medium.com/swlh/hacking-websocket-25d3cba6a4b9
 
 ### SSH
 
