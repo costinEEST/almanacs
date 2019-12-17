@@ -31,3 +31,7 @@
 - [JavaScript functions intended to be used as an XSS payload against a WordPress admin account.](https://github.com/hoodoer/WP-XSS-Admin-Funcs)
 - https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46
 - https://www.codedbrain.com/2019/11/intigriti-10k-followers-xss-challenge/
+- [XSS filter and WAF](https://twitter.com/RenwaX23/status/1204508145617387520)
+- [Detecting Chrome XSS Auditor Using <portal>](https://renwax23.github.io/X/xss_auditor/)
+- [Cloudflare XSS WAF bypass](https://twitter.com/RenwaX23/status/1147130091031449601)
+- https://github.com/RenwaX23/XSS-Payloads
