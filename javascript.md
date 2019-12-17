@@ -23,3 +23,7 @@
 - [Bootstrap XSS Collection](https://gist.github.com/ccampean/bcbd042c887d62221ffce94db34436c5)
 - [Account takeover on Grammarly through the combination of cookie manipulation and XSS](https://hackerone.com/reports/534450)
 - [Cross-Site Scripting (XSS) Cheat Sheet - 2019 Edition](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+- [XSS filter and WAF](https://twitter.com/RenwaX23/status/1204508145617387520)
+- [Detecting Chrome XSS Auditor Using <portal>](https://renwax23.github.io/X/xss_auditor/)
+- [Cloudflare XSS WAF bypass](https://twitter.com/RenwaX23/status/1147130091031449601)
+- https://github.com/RenwaX23/XSS-Payloads 
