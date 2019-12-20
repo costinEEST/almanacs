@@ -2,6 +2,8 @@
 
 - https://www.edx.org/course/web-accessibility-introduction
 - https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108
+- https://www.24a11y.com/2019/an-adventurers-guide-to-w3c-specs/
+- https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
 
 ### Unicode
 
@@ -14,6 +16,7 @@
 
 - [Design Systems London 2019](https://www.youtube.com/playlist?list=PLNC1kqILNVugoHglOCwa4bxhVDJp3lsBX)
 - [How a design system should begin?](https://twitter.com/matheus1lva/status/1200420309205233664)
+- [Expressive Design Systems](https://twitter.com/yeseniaa/status/1176543104708616194)
 
 ### Typography
 
@@ -26,6 +29,11 @@
 ### Illustrations
 
 - [Open source illustrations kit](https://illlustrations.co/)
+- https://github.com/melanierichards/resources/blob/master/resources/illo.md
+
+### Art
+- [Introduction to interactivity](https://everestpipkin.github.io/emsII/) + https://twitter.com/everestpipkin/status/1207502480042536960 
+- https://github.com/melanierichards/resources/blob/master/resources/pixel-art.md
 
 ### UX
 
@@ -38,3 +46,7 @@
 ### Performance
 
 - [future-web-perf by Vitaly Friedman](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf)
+- https://github.com/melanierichards/resources/blob/master/resources/performance.md
+
+### Miscellaneous
+- https://github.com/melanierichards/resources/blob/master/resources/misc.md

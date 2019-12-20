@@ -29,6 +29,7 @@
 ### API
 
 - [Common API security pitfalls](https://pragmaticwebsecurity.com/talks/commonapisecuritypitfalls)
+- [Mirage for mocking APIs](https://twitter.com/RomanSndlr/status/1207551729224605697)
 
 ### Security
 

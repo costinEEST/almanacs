@@ -8,6 +8,7 @@
 - [RE for beginners](https://www.begin.re/the-workshop)
 - [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
 - [A completely free, open source and online course about Reverse Engineering iOS Applications.](https://github.com/ivRodriguezCA/RE-iOS-Apps)
+- ["Reverse Engineering Intel x86/x64 binaries 101" class (using IDA)](https://github.com/0xdidu/Reverse-Engineering-Intel-x64-101)
 
 ### Tools
 

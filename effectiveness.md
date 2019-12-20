@@ -23,6 +23,7 @@
 - [You may be vulnerable to hijacked VPN(OpenVPN/IPSec/Wireguard/etc) tunnels.](https://twitter.com/Ridgeback111/status/1202623324901302279)
 - [htop explained](https://peteris.rocks/blog/htop/)
 - http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html
+- [Advanced Operating Systems and Virtualization](https://gist.githubusercontent.com/andreafioraldi/c6ab4765a3821bc6f07537ad4cdafa9e/raw/4351fe1e6235daf85647ad34d2b50df20a21da63/asov_checkshit_singlefile.txt) + https://twitter.com/andreafioraldi/status/1205857977518952448
 
 ### Mac
 

@@ -9,6 +9,7 @@
 ### Books
 
 - [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html)
+- [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
 
 ### AI
 

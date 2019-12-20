@@ -31,5 +31,6 @@
 ### Testing
 
 - https://www.udemy.com/course/react-testing-with-jest-and-enzyme
+- [UI Testing with React, Mirage, Jest and Testing Library](https://youtu.be/3taVrGZVCr8)
 
 ###
