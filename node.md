@@ -13,6 +13,10 @@
 
 - https://github.com/aliyr/Nodejs-Developer-Roadmap
 
+### Boilerplate
+
+- [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
+
 ### Tools
 
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
@@ -25,13 +29,29 @@
 - [Introduction to OAuth 2.0 and OpenID Connect](https://pragmaticwebsecurity.com/talks/introductionoauth.html)
 - [Passwords are so 1990 by Sam Bellen](https://www.youtube.com/watch?v=PQnpAO2yD5c)
 - [Authentication fundamentals: The basics | Azure Active Directory](https://youtu.be/fbSVgC8nGz4)
+- [The best website that teaches the value/need of 2FA to beginners](https://twitter.com/rauchg/status/1206662873776132096)
 
 ### API
 
 - [Common API security pitfalls](https://pragmaticwebsecurity.com/talks/commonapisecuritypitfalls)
 - [Mirage for mocking APIs](https://twitter.com/RomanSndlr/status/1207551729224605697)
+- https://www.freecodecamp.org/news/apis-for-beginners-full-course/
 
 ### Security
 
 - [A Road Map for Node.js Security](https://nodesecroadmap.fyi)
 - [Security design pattern support for Node.js](https://github.com/mikesamuel/node-sec-patterns)
+
+### Static site generators
+
+- [Dynamic from Static with Smart Deployment.](https://slides.com/mayashavin/deck-44de00/fullscreen#/) + https://twitter.com/cloudinary/status/1208172092312543232
+- [Markdown-based static site generator that works well with monorepos](https://twitter.com/captainsafia/status/1207459107004801024)
+
+### Boots
+
+- [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
+
+
+### Serverless
+
+- [Building and deploying modern websites and apps - GitHub Universe 2019](https://youtu.be/KlO5Ksk7baQ)

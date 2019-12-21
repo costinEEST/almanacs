@@ -7,6 +7,10 @@
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 - [After calling a useState setter, you don’t see the updated value in logic after it without using a useEffect](https://twitter.com/ken_wheeler/status/1200431889506435072)
 
+### Components
+
+- [Headless UI components](https://twitter.com/rauchg/status/1199157227677868032)
+
 ### Concurrent Mode/Suspense
 
 - https://github.com/chantastic/react-suspense-course

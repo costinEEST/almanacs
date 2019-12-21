@@ -6,9 +6,11 @@
 ### Courses
 
 - [Software Security is a Programming Languages Issue](http://www.pl-enthusiast.net/2018/08/13/security-programming-languages-issue/)
+- http://www.auxy.xyz/note/2019/05/01/PA-Note.html + https://github.com/Auxy233/program-analysis-note
 
 ### Books
 - [A collection of resources for learning type theory and type theory adjacent fields.](https://github.com/jozefg/learn-tt)
+- https://math.stackexchange.com/questions/3466976/online-reference-book-for-implementing-concepts-in-type-theory
 
 ### Articles
 

@@ -15,6 +15,9 @@
 - [Query the Unicode database from the command line, with good support for emojis](https://github.com/arp242/uni)
 - [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
 
+### CSS
+- https://youmightnotneed.com/css/
+
 ### Design Systems
 
 - [Design Systems London 2019](https://www.youtube.com/playlist?list=PLNC1kqILNVugoHglOCwa4bxhVDJp3lsBX)
@@ -50,6 +53,8 @@
 - https://axesslab.com/disabled-buttons-suck/
 - [Measuring User Happiness 4-week plan](https://gumroad.com/l/measuring-experiences)
 - [<img> lazy loading is an anti-pattern](https://twitter.com/Rich_Harris/status/1208040145385086982)
+- https://artyomavanesov.com/blog/how-ai-will-eat-ui
+- [ Next level Phone UX ](https://gist.github.com/rauchg/4a964035ecd52a6a33de289295c26e98) + https://phone-ux.now.sh/
 
 ### Performance
 
@@ -61,3 +66,4 @@
 - https://github.com/DovAmir/awesome-design-patterns/blob/master/README.md#front-end-development
 - https://pnowell.com/resources
 - https://trydesignlab.com/blog/2019-holiday-gift-guide-for-designers
+- http://digest.scottbelsky.com/

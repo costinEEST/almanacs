@@ -1,6 +1,7 @@
 ### Git
 
 - [2 useful Git CLI tips for code review](https://twitter.com/danburzo/status/1200022067044859905)
+- [checkout](https://twitter.com/mislav/status/1206937217194741760)
 
 ### VS Code
 
@@ -41,6 +42,7 @@
 
 ### Tools
 
+- https://speakerdeck.com/ladybenko/improving-as-developers?slide=31
 - [5 Command Line Tools to Break Your Dependence on the GUI ](https://www.putorius.net/5-cool-command-line-tools.html)
 - [presentations for busy messy hackers](https://github.com/tmcw/big)
 - [Joplin for notes taking](https://twitter.com/adulau/status/1195820269388148738)
