@@ -18,3 +18,10 @@ javascript:(() => window.location.href = `https://mail.google.com/mail/?view=cm&
 
 ### Cookies
 - [SameSite=Lax](https://twitter.com/RenwaX23/status/1206475064125853696)
+
+### CSP
+- [Next level anti-debugging technique using SourceMappingURL feature](https://twitter.com/WeizmanGal/status/1207355263491149825)
+
+### Exploits
+- [Awesome list of browser exploitation tutorials ](https://github.com/Escapingbug/awesome-browser-exploit)
+- [Browser logic vulnerabilities DB](https://github.com/Metnew/uxss-db)

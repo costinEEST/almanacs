@@ -31,6 +31,7 @@
 - https://rufposten.de/blog/2019/12/05/privacy-analysis-of-tiktoks-app-and-website
 - [Free Proxy / VPN / TOR / Bad IP Detection Service via API and Web Interface](https://twitter.com/jedisct1/status/1206160385902030849) + https://github.com/blackdotsh/getIPIntel
 - https://www.alldaydevops.com/zap-in-ten
+- [Wireshark accelerator keys cheatsheet](http://syn-bit.nl/files/wireshark-v3.0-keyboard-shortcuts.pdf)
 
 ### Telecommunications
 
@@ -41,6 +42,9 @@
 ### HTTP
 
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586)
+
+### DNS
+- [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
 
 ### Host header
 

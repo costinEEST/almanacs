@@ -7,6 +7,9 @@
 
 - [Software Security is a Programming Languages Issue](http://www.pl-enthusiast.net/2018/08/13/security-programming-languages-issue/)
 
+### Books
+- [A collection of resources for learning type theory and type theory adjacent fields.](https://github.com/jozefg/learn-tt)
+
 ### Articles
 
 - [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)

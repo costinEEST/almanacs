@@ -1,3 +1,6 @@
+### HTML
+- [Remembrance of Tags Past](https://hero35.com/css-minsk-js/2019/remembrance-of-tags-past)
+
 ### Accessibility
 
 - https://www.edx.org/course/web-accessibility-introduction
@@ -25,6 +28,10 @@
 - https://mycreativetype.com/
 - [line-height in Figma](https://twitter.com/argyleink/status/1206439509719564288)
 - https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
+- [Typography Resources: for Sketch & Web](https://pnowell.com/net-typography)
+
+### Animations
+- [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
 
 ### Illustrations
 
@@ -42,6 +49,7 @@
 - [UX Crash Course: 31 Fundamentals](https://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 - https://axesslab.com/disabled-buttons-suck/
 - [Measuring User Happiness 4-week plan](https://gumroad.com/l/measuring-experiences)
+- [<img> lazy loading is an anti-pattern](https://twitter.com/Rich_Harris/status/1208040145385086982)
 
 ### Performance
 
@@ -50,3 +58,6 @@
 
 ### Miscellaneous
 - https://github.com/melanierichards/resources/blob/master/resources/misc.md
+- https://github.com/DovAmir/awesome-design-patterns/blob/master/README.md#front-end-development
+- https://pnowell.com/resources
+- https://trydesignlab.com/blog/2019-holiday-gift-guide-for-designers

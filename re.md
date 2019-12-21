@@ -17,3 +17,7 @@
 ### Fuzzers
 
 - [Review for "Building Fast Fuzzers" paper](https://twitter.com/gamozolabs/status/1197256132210774017)
+
+
+### Miscellaneous
+- https://github.com/Auxy233/misc
