@@ -19,6 +19,11 @@
 
 - [You can preFetch lazy loaded React components](https://twitter.com/housecor/status/1200554167644966912)
 
+### Packages
+
+- [React Spring](https://twitter.com/EmmaWedekind/status/1207231921320865792)
+- [React Three Fiber](https://twitter.com/0xca0a/status/1204867532185853953)
+
 ### Podcasts
 
 - [React Round Up](https://devchat.tv/react-round-up/)

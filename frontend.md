@@ -20,6 +20,7 @@
 
 ### Design Systems
 
+- https://dev.to/devmodefm/design-systems-with-travis-gertz
 - [Design Systems London 2019](https://www.youtube.com/playlist?list=PLNC1kqILNVugoHglOCwa4bxhVDJp3lsBX)
 - [How a design system should begin?](https://twitter.com/matheus1lva/status/1200420309205233664)
 - [Expressive Design Systems](https://twitter.com/yeseniaa/status/1176543104708616194)
