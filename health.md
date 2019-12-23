@@ -16,3 +16,8 @@
 ### Applications
 
 - https://apps.apple.com/us/app/before-you-eat/id1475748617
+
+### Biology
+
+- [Biology Is Technology: The Promise, Peril, and New Business of Engineering Life](https://www.amazon.com/Biology-Technology-Promise-Business-Engineering/dp/0674060156)
+- [VCs investing in synthetic biology](https://twitter.com/chrissyfarr/status/1179827098413928454)
