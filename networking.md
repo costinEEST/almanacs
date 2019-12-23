@@ -33,6 +33,11 @@
 - https://www.alldaydevops.com/zap-in-ten
 - [Wireshark accelerator keys cheatsheet](http://syn-bit.nl/files/wireshark-v3.0-keyboard-shortcuts.pdf)
 
+
+### Routing
+
+- [Routing by internet-class](https://www.youtube.com/playlist?list=PLk97mPCd8nvZJs7DyfPgiUDovil2K7axM)
+
 ### Telecommunications
 
 - [3G & 4G Frequency List](https://support.alwaysonlinewireless.com/hc/en-us/articles/115002446723-3G-4G-Frequency-List)

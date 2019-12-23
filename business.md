@@ -31,6 +31,11 @@
 
 - [What everybody is saying.](https://twitter.com/AnkushChander/status/1206574511669166080)
 
+### Innovators
+
+- https://founders.simplecast.com/episodes/95-claude-shannon-a-mind-at-play-how-claude-shannon-invented-the-information-age + https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/147676669X + https://news.ycombinator.com/item?id=12079826 + https://www.amazon.com/Mathematical-Theory-Communication-Claude-Shannon/dp/0252725484 + https://spinlab.me/2017/07/30/claude-shannons-1952-lecture-on-creative-thinking/ + https://jamesclear.com/great-speeches/creative-thinking-by-claude-shannon
+- https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797
+
 ### Learning
 
 - [Make it stick](https://twitter.com/housecor/status/1206567954906800128)
@@ -38,3 +43,7 @@
 ### Essays
 
 - http://paulgraham.com/lesson.html + https://listle.io/embed/3996601668
+
+### Newsletters
+
+- [David's Notes](https://davidsnotes.substack.com/archive)
