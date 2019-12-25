@@ -27,6 +27,10 @@
 
 - https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript/
 
+### ES modules
+
+- [The envisioned future of ES Modules in the browser.](https://twitter.com/swyx/status/1208820201623437312)
+
 ### XSS
 
 - [Bootstrap XSS Collection](https://gist.github.com/ccampean/bcbd042c887d62221ffce94db34436c5)

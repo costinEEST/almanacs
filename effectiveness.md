@@ -61,3 +61,12 @@
 ### Marketing
 
 - [Curated list to achieve visibility for your product](https://github.com/dehenne/awesome-visibility)
+
+### Publishing
+
+- [How do people self publish books?](https://twitter.com/EmmaWedekind/status/1177325024887418880)
+- [Just Enough Co-Authoring in Leanpub.](https://leanpub.com/jeco-authoring)
+
+### Improvisation
+
+- https://trupaarthesium.ro/cursuri-de-teatru
