@@ -7,6 +7,7 @@
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
 ### TIL
+
 - [Get a full map of every event in the browser](https://medium.com/@weizmangal/list-every-event-that-exists-in-the-browser-b771579d9b04)
 - https://medium.com/@weizmangal/unload-and-beforeunload-events-and-how-to-easily-debug-them-both-cb40782b0018
 
@@ -26,6 +27,7 @@
 ### Canvas
 
 - https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript/
+- [A simple Christmas tree.](https://github.com/anvaka/atree)
 
 ### ES modules
 

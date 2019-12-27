@@ -6,39 +6,32 @@
 - https://www.amazon.com/Creative-Calling-Establish-Practice-Meaning/dp/0062879960
 - [Scale - Geoffrey West](https://twitter.com/ThomasADorfer/status/1206597474057674753)
 
+### Marketing
 
-### Inner game
+- [Curated list to achieve visibility for your product](https://github.com/dehenne/awesome-visibility)
 
-- [The Untethered Soul](https://twitter.com/russshanahan/status/1206578615758053376)
-- [Levels of Energy by Frederick Dodson. ](https://twitter.com/remouherek/status/1206564103994662912)
+### Publishing
+
+- [How do people self publish books?](https://twitter.com/EmmaWedekind/status/1177325024887418880)
+- [Just Enough Co-Authoring in Leanpub.](https://leanpub.com/jeco-authoring)
+
+### Startup
+
+- [Never Lost Again: The Google Mapping Revolution That Sparked New Industries and Augmented Our Reality.](https://www.amazon.com/Never-Lost-Again-Revolution-Industries/dp/0062673041)
 
 ### Investing
 
 - [The education of a value investor](https://twitter.com/hirwaadolphe/status/1206570768659877888)
-
-### Science fiction
-
-- [The Mezzanine](https://twitter.com/sewsueme/status/1206803619644923904)
-- [The Overstory by Richard Powers](https://twitter.com/robertwmcguire/status/1206578703783911427)
-- [Children of Time](https://twitter.com/BlastLogos/status/1206558816332066816)
 
 ### Geopolitics
 
 - https://en.wikipedia.org/wiki/Prisoners_of_Geography
 - [The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower ](https://www.goodreads.com/book/show/20696000-the-hundred-year-marathon)
 
-### Body language
-
-- [What everybody is saying.](https://twitter.com/AnkushChander/status/1206574511669166080)
-
 ### Innovators
 
 - https://founders.simplecast.com/episodes/95-claude-shannon-a-mind-at-play-how-claude-shannon-invented-the-information-age + https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/147676669X + https://news.ycombinator.com/item?id=12079826 + https://www.amazon.com/Mathematical-Theory-Communication-Claude-Shannon/dp/0252725484 + https://spinlab.me/2017/07/30/claude-shannons-1952-lecture-on-creative-thinking/ + https://jamesclear.com/great-speeches/creative-thinking-by-claude-shannon
 - https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797
-
-### Learning
-
-- [Make it stick](https://twitter.com/housecor/status/1206567954906800128)
 
 ### Essays
 

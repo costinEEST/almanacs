@@ -1,4 +1,5 @@
 ### HTML
+
 - [Remembrance of Tags Past](https://hero35.com/css-minsk-js/2019/remembrance-of-tags-past)
 
 ### Accessibility
@@ -16,6 +17,7 @@
 - [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
 
 ### CSS
+
 - https://youmightnotneed.com/css/
 
 ### Design Systems
@@ -35,6 +37,7 @@
 - [Typography Resources: for Sketch & Web](https://pnowell.com/net-typography)
 
 ### Animations
+
 - [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
 
 ### Illustrations
@@ -43,7 +46,8 @@
 - https://github.com/melanierichards/resources/blob/master/resources/illo.md
 
 ### Art
-- [Introduction to interactivity](https://everestpipkin.github.io/emsII/) + https://twitter.com/everestpipkin/status/1207502480042536960 
+
+- [Introduction to interactivity](https://everestpipkin.github.io/emsII/) + https://twitter.com/everestpipkin/status/1207502480042536960
 - https://github.com/melanierichards/resources/blob/master/resources/pixel-art.md
 
 ### UX
@@ -55,7 +59,8 @@
 - [Measuring User Happiness 4-week plan](https://gumroad.com/l/measuring-experiences)
 - [<img> lazy loading is an anti-pattern](https://twitter.com/Rich_Harris/status/1208040145385086982)
 - https://artyomavanesov.com/blog/how-ai-will-eat-ui
-- [ Next level Phone UX ](https://gist.github.com/rauchg/4a964035ecd52a6a33de289295c26e98) + https://phone-ux.now.sh/
+- [ Next level Phone UX ](https://gist.github.com/rauchg/4a964035ecd52a6a33de289295c26e98) + https://phone-ux.now.sh
+- https://trydesignlab.com/blog/tips-explain-ux-design-to-your-parents-this-christmas
 
 ### Performance
 
@@ -63,8 +68,10 @@
 - https://github.com/melanierichards/resources/blob/master/resources/performance.md
 
 ### Miscellaneous
+
 - https://github.com/melanierichards/resources/blob/master/resources/misc.md
 - https://github.com/DovAmir/awesome-design-patterns/blob/master/README.md#front-end-development
 - https://pnowell.com/resources
 - https://trydesignlab.com/blog/2019-holiday-gift-guide-for-designers
+- https://trydesignlab.com/blog/design-documentaries-holiday-watch-list-for-designers
 - http://digest.scottbelsky.com/

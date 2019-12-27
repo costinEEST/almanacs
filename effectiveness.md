@@ -14,6 +14,7 @@
 - [Put your previously typed command into clipboard.](https://twitter.com/chaignc/status/1199670722211254273)
 - [Useful bash one-liners for bio-informatics](https://github.com/stephenturner/oneliners)
 - [PC with Windows 10 embedded product key and wanna get it from within Linux](https://twitter.com/grufwub/status/1204511341219848194)
+- https://github.com/jgm/scripts
 
 ### Python
 
@@ -46,6 +47,7 @@
 - [5 Command Line Tools to Break Your Dependence on the GUI ](https://www.putorius.net/5-cool-command-line-tools.html)
 - [presentations for busy messy hackers](https://github.com/tmcw/big)
 - [Joplin for notes taking](https://twitter.com/adulau/status/1195820269388148738)
+- [An online graph editor that..](https://twitter.com/dan_abramov/status/1209920644462366720)
 
 ### Books
 
@@ -57,16 +59,3 @@
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://buttondown.email/swap/archive
 - [Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
-
-### Marketing
-
-- [Curated list to achieve visibility for your product](https://github.com/dehenne/awesome-visibility)
-
-### Publishing
-
-- [How do people self publish books?](https://twitter.com/EmmaWedekind/status/1177325024887418880)
-- [Just Enough Co-Authoring in Leanpub.](https://leanpub.com/jeco-authoring)
-
-### Improvisation
-
-- https://trupaarthesium.ro/cursuri-de-teatru
