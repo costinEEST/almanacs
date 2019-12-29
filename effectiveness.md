@@ -48,6 +48,7 @@
 - [presentations for busy messy hackers](https://github.com/tmcw/big)
 - [Joplin for notes taking](https://twitter.com/adulau/status/1195820269388148738)
 - [An online graph editor that..](https://twitter.com/dan_abramov/status/1209920644462366720)
+- [Ce scule folosiți pentru crearea de content video?](https://devforum.ro/t/ce-scule-folositi-pentru-crearea-de-content-video/12089)
 
 ### Books
 

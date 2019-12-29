@@ -1,6 +1,7 @@
 ### Extensions
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
+- https://robertheaton.com/2018/05/07/making-youtube-less-bad-for-you-using-css/
 
 ### Bookmarklets
 

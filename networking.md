@@ -44,6 +44,10 @@
 - [A disaster-resilient communications network powered by the sun](https://disaster.radio)
 - [The Magical Science of Wi-Fi on Airplanes](https://onezero.medium.com/what-makes-it-possible-to-browse-the-internet-at-35-000-feet-1afaea83eb5)
 
+### TCP
+
+- [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
+
 ### HTTP
 
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586)

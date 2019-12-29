@@ -15,6 +15,10 @@
 - [Don't Die Young: An Anatomist's Guide to Your Organs and Your Health.](https://www.amazon.com/Dont-Die-Young-Anatomists-Organs/dp/0747592802)
 - [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson/dp/0385539304)
 
+### Botany
+
+- http://www.editura-electra.ro/produs/ierburile-sacre-etnobotanica-magica-romaneasca
+
 ### Ketosis
 
 - [Behind the World's First Ketone Ester ft. Kieran Clarke || HVMN Enhancement Podcast: Ep. 48](https://youtu.be/qR4tf-np6jU)
