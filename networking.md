@@ -52,6 +52,10 @@
 
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586)
 
+### HTTP/3
+
+- https://twitter.com/jgbarah/status/1177480451193131009
+
 ### DNS
 - [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
 
