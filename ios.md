@@ -8,6 +8,10 @@
 - https://blog.hoangnm.com/ios%20development/2013/05/12/get-started-with-ios-programming
 - [iOS Tips and Tricks](https://blog.hoangnm.com/pageDir/iosTips)
 
+### Applications
+
+- [How to create a simple OS X app in plain C without any Objective-C.](https://github.com/jimon/osx_app_in_plain_c)
+
 ### Hardware
 
 - [How I built two iPhone 6S's from parts for $80 each](https://twitter.com/hackerfantastic/status/1211088686802096128)

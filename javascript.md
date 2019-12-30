@@ -29,9 +29,15 @@
 - https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript/
 - [A simple Christmas tree.](https://github.com/anvaka/atree)
 
-### ES modules
+### Modules
 
+- [History of ES modules.](https://gist.github.com/jkrems/769a8cd8806f7f57903b641c74b5f08a)
 - [The envisioned future of ES Modules in the browser.](https://twitter.com/swyx/status/1208820201623437312)
+- All differences between JavaScript modules, classic scripts, and CommonJS: [gist](https://gist.github.com/jkrems/b14894e0b8efde10aa10a28c652d3541) + [tweet](https://twitter.com/jankrems/status/1210644388105244672)
+
+### JSON.parse()
+
+- [JSON.parse w/o blocking main thread.](https://gist.github.com/jkrems/71df0bce1b95101b1417f909ce473075)
 
 ### XSS
 
