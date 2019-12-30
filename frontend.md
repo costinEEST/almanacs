@@ -44,6 +44,7 @@
 
 - [Open source illustrations kit](https://illlustrations.co/)
 - https://github.com/melanierichards/resources/blob/master/resources/illo.md
+- https://github.com/coreui/coreui-icons
 
 ### Art
 

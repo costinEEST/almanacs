@@ -32,6 +32,7 @@
 - [Free Proxy / VPN / TOR / Bad IP Detection Service via API and Web Interface](https://twitter.com/jedisct1/status/1206160385902030849) + https://github.com/blackdotsh/getIPIntel
 - https://www.alldaydevops.com/zap-in-ten
 - [Wireshark accelerator keys cheatsheet](http://syn-bit.nl/files/wireshark-v3.0-keyboard-shortcuts.pdf)
+- https://jayswan.github.io/2015/01/02/my-network-toolkit
 
 
 ### Routing

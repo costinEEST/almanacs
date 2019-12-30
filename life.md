@@ -29,14 +29,15 @@
 - [Intermittent Fasting: Transformational Technique | Cynthia Thurlow | TEDxGreenville](https://youtu.be/A6Dkt7zyImk)
 - https://peterattiamd.com/jasonfung + https://news.ycombinator.com/item?id=21802676
 
+### Sugar
+
+- [Is there a way to be prescribed a continuous glucose monitor without an insulin deficiency/diabetes?](https://twitter.com/Austen/status/1211144183018246144)
+
 ### Tea
 
 - [Empire of Tea: The Asian Leaf that Conquered the World](https://www.amazon.com/Empire-Tea-Asian-Conquered-World/dp/1780234406)
 
-### Thinking
-
-- [How to Understand Systems](https://news.ycombinator.com/item?id=19832048)
-
 ### Applications
 
 - https://apps.apple.com/us/app/before-you-eat/id1475748617
+- https://www.questionsdeforme.fr/les-3-applications-pour-manger-sain-equilibre-et-pas-cher

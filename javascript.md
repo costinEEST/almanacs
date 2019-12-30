@@ -52,3 +52,4 @@
 - [Detecting Chrome XSS Auditor Using <portal>](https://renwax23.github.io/X/xss_auditor/)
 - [Cloudflare XSS WAF bypass](https://twitter.com/RenwaX23/status/1147130091031449601)
 - https://github.com/RenwaX23/XSS-Payloads
+- https://medium.com/@terjanq/clobbering-the-clobbered-vol-2-fb199ad7ec41

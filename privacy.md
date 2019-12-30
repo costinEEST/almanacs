@@ -5,6 +5,7 @@
 - [[Windows 10] Digital License (HWID) & KMS38™ Generation](https://www.aiowares.com/showthread.php?tid=246)
 - https://github.com/W4RH4WK/Debloat-Windows-10
 - https://github.com/StevenBlack/hosts
+- https://github.com/Igglybuff/awesome-piracy#windows-10-privacy
 
 ### Software
 - https://github.com/melanierichards/resources/blob/master/resources/privacy-security.md

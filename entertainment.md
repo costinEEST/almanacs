@@ -30,3 +30,7 @@
 - https://en.wikipedia.org/wiki/Brave_New_World
 - https://en.wikipedia.org/wiki/The_True_Cost
 - https://www.moise.ro/2017/03/18/un-eseu-despre-obsolescenta-programata + https://arenait.ro/2019/10/13/despre-obsolescenta-programata.html
+
+### Communism
+
+- https://peregristorii.wordpress.com/2019/12/13/un-film-uimitor-croaziera-1980-regia-mircea-danieluc/

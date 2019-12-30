@@ -3,6 +3,10 @@
 - [Simply Leadership](https://leanpub.com/simplyleadership)
 - https://www.amazon.com/Call-Sign-Chaos-Learning-Lead-ebook/dp/B07SBRFVNH
 
+### Management
+
+- [Non-violent communication](https://twitter.com/sriramk/status/121108567813973196)
+
 ### Creativity
 
 - https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0805082115
@@ -23,6 +27,11 @@
 ### Learning
 
 - [Make it stick](https://twitter.com/housecor/status/1206567954906800128)
+
+
+### Thinking
+
+- [How to Understand Systems](https://news.ycombinator.com/item?id=19832048)
 
 ### Improvisation
 

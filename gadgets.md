@@ -5,3 +5,11 @@
 ### Kitchen
 
 - https://juneoven.com
+
+### Health
+
+- [9 Fitness and Health Gift Ideas 2020](https://youtu.be/G9n51Xtcm_A)
+
+### Recording
+
+- https://markshust.com/2019/12/28/ergonomic-workstation-programming-screencasting/
