@@ -19,6 +19,7 @@ javascript: (() =>
 ### APIs
 
 - [Trying out and demonstrating different browser APIs](https://github.com/vkallore/browser-apis)
+- https://github.com/willianjusten/awesome-audio-visualization
 
 ### Cookies
 

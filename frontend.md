@@ -39,6 +39,7 @@
 ### Animations
 
 - [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
+- https://github.com/willianjusten/awesome-svg + https://twitter.com/addyosmani/status/1210463389144645632
 
 ### Illustrations
 
