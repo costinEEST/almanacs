@@ -1,7 +1,8 @@
 ### Extensions
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
-- https://robertheaton.com/2018/05/07/making-youtube-less-bad-for-you-using-css/
+- https://robertheaton.com/2018/05/07/making-youtube-less-bad-for-you-using-css
+- https://mmazzarolo.com/blog/2019-01-13-another-tab/
 
 ### Bookmarklets
 
@@ -19,7 +20,6 @@ javascript: (() =>
 ### APIs
 
 - [Trying out and demonstrating different browser APIs](https://github.com/vkallore/browser-apis)
-- https://github.com/willianjusten/awesome-audio-visualization
 
 ### Cookies
 

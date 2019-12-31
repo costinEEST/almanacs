@@ -25,6 +25,14 @@
 
 - https://jumunteanu.wordpress.com/2014/01/17/7-carti-pentru-relationisti-sau-pentru-cei-interesati-in-psihologia-maselor-si-manipularea-acestora-prin-mijloacele-de-comunicare-4 + https://www.academia.edu/20833296/02._Edward_Bernays_-_Cristalizarea_opiniei_publice
 
+### Religion
+
+- [Misquoting Jesus by Bart D. Ehrman (2005)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#misquoting-jesus)
+
+### History
+
+- [Upheaval: Turning Points for Nations in Crisis by Jared Diamond (2019)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#upheaval)
+
 ### Consumerism
 
 - https://en.wikipedia.org/wiki/Brave_New_World

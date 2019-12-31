@@ -26,3 +26,4 @@
 
 - [Follow best practices, then standard follow you](https://github.com/hugo53/awesome-best-practices)
 - https://blog.hoangnm.com/translation/2018/09/05/note-on-system-design-series
+- https://arkwright.github.io/parallelized-decision-making.html

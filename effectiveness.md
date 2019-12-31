@@ -1,3 +1,7 @@
+### Typing
+
+- [About the space bar.](https://mmazzarolo.com/blog/2019-08-30-about-the-space-bar)
+
 ### Git
 
 - [2 useful Git CLI tips for code review](https://twitter.com/danburzo/status/1200022067044859905)
@@ -8,6 +12,7 @@
 - https://github.com/viatsko/awesome-vscode
 - [VS Code Recipes](https://github.com/Microsoft/vscode-recipes)
 - [Multi cursor](https://twitter.com/erikaybar_/status/1197293860239630337)
+- https://github.com/burkeholland/workshop-vs-code-can-do-that
 
 ### Bash
 
@@ -51,6 +56,8 @@
 - [An online graph editor that..](https://twitter.com/dan_abramov/status/1209920644462366720)
 - [Ce scule folosiți pentru crearea de content video?](https://devforum.ro/t/ce-scule-folositi-pentru-crearea-de-content-video/12089)
 - [What software do they use to make this diagram?](https://twitter.com/vysecurity/status/1210661290785402880)
+- [So you've done some talks/presentations and used software for your slides.](https://twitter.com/TejasKumar_/status/1211314304953307136)
+- [Encoding video for the web](https://gist.github.com/Vestride/278e13915894821e1d6f)
 
 ### Books
 

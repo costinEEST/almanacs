@@ -8,6 +8,7 @@
 - https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108
 - https://www.24a11y.com/2019/an-adventurers-guide-to-w3c-specs/
 - https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
+- https://mismatch.design/resources/accessibility-resources/2018/07/14/introduction-to-disability-and-accessibility/
 
 ### Unicode
 
@@ -19,6 +20,7 @@
 ### CSS
 
 - https://youmightnotneed.com/css/
+- [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
 
 ### Design Systems
 

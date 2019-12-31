@@ -23,6 +23,7 @@
 ### Audio
 
 - [Turn your browser into an audio recorder.](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
+- https://github.com/willianjusten/awesome-audio-visualization
 
 ### Canvas
 
@@ -35,9 +36,17 @@
 - [The envisioned future of ES Modules in the browser.](https://twitter.com/swyx/status/1208820201623437312)
 - All differences between JavaScript modules, classic scripts, and CommonJS: [gist](https://gist.github.com/jkrems/b14894e0b8efde10aa10a28c652d3541) + [tweet](https://twitter.com/jankrems/status/1210644388105244672)
 
+### Array.prototype.reduce()
+
+- [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
+
 ### JSON.parse()
 
 - [JSON.parse w/o blocking main thread.](https://gist.github.com/jkrems/71df0bce1b95101b1417f909ce473075)
+
+### Tools
+
+- [ESLint, Prettier, Stylelint, TypeScript and Semantic Release configs.](https://twitter.com/ManuelBieh/status/1211759353973354497)
 
 ### XSS
 

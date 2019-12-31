@@ -31,11 +31,17 @@
 - [Authentication fundamentals: The basics | Azure Active Directory](https://youtu.be/fbSVgC8nGz4)
 - [The best website that teaches the value/need of 2FA to beginners](https://twitter.com/rauchg/status/1206662873776132096)
 
+### Packages
+
+- [Authoring, publishing and working with commonjs and esm.](https://github.com/manuelbieh/authoring-modules-in-node)
+- [Create graphs from your CommonJS, AMD or ES6 module dependencies.](https://github.com/pahen/madge)
+
 ### API
 
 - [Common API security pitfalls](https://pragmaticwebsecurity.com/talks/commonapisecuritypitfalls)
 - [Mirage for mocking APIs](https://twitter.com/RomanSndlr/status/1207551729224605697)
 - https://www.freecodecamp.org/news/apis-for-beginners-full-course/
+- [Apollo REST Data Sources with the Countries API](https://github.com/MoonHighway/countries-datasources)
 
 ### Security
 
@@ -50,7 +56,6 @@
 ### Boots
 
 - [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
-
 
 ### Serverless
 

@@ -7,6 +7,11 @@
 
 - [Non-violent communication](https://twitter.com/sriramk/status/121108567813973196)
 
+### Mindfulness
+
+- https://www.amazon.com/Presence-Process-Healing-Journey-Awareness/dp/0825305373
+- [How to Do Nothing by Jenny Odell (2019)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#how-to-do-nothing)
+
 ### Creativity
 
 - https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0805082115
@@ -27,7 +32,7 @@
 ### Learning
 
 - [Make it stick](https://twitter.com/housecor/status/1206567954906800128)
-
+- https://www.gwern.net/Spaced-repetition
 
 ### Thinking
 
