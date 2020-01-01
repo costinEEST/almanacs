@@ -16,6 +16,10 @@
 - [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html)
 - [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
 
+### Talks
+
+- [Session Notes from JSCraftCamp2019](https://github.com/jscraftcamp/jscc19-sessions)
+
 ### AI
 
 - [Functions that will give you a feeling of how machines can actually "learn"](https://github.com/trekhleb/nano-neuron)
@@ -24,6 +28,9 @@
 
 - [Turn your browser into an audio recorder.](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
 - https://github.com/willianjusten/awesome-audio-visualization
+- https://divu.in/music-theory-and-generation-13965ba83eb9
+- http://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4 + https://open.spotify.com/playlist/27Ga7s7D4lFUWhZQZ8heqM
+- [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
 
 ### Canvas
 

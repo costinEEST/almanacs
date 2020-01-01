@@ -14,8 +14,13 @@
 - [Multi cursor](https://twitter.com/erikaybar_/status/1197293860239630337)
 - https://github.com/burkeholland/workshop-vs-code-can-do-that
 
+### LaTeX
+
+- [Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.](https://github.com/James-Yu/LaTeX-Workshop)
+
 ### Bash
 
+- [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli)
 - [Put your previously typed command into clipboard.](https://twitter.com/chaignc/status/1199670722211254273)
 - [Useful bash one-liners for bio-informatics](https://github.com/stephenturner/oneliners)
 - [PC with Windows 10 embedded product key and wanna get it from within Linux](https://twitter.com/grufwub/status/1204511341219848194)
@@ -58,14 +63,33 @@
 - [What software do they use to make this diagram?](https://twitter.com/vysecurity/status/1210661290785402880)
 - [So you've done some talks/presentations and used software for your slides.](https://twitter.com/TejasKumar_/status/1211314304953307136)
 - [Encoding video for the web](https://gist.github.com/Vestride/278e13915894821e1d6f)
+- https://devonzuegel.com/post/memex-my-personal-knowledge-base
+
+### Culture
+
+- https://awesometalks.party/category/company-culture
+- https://awesometalks.party/category/agile
 
 ### Books
 
 - https://dottedsquirrel.com/everything-else/2020-reading-list-for-developers/
 - [A curated list of awesome book, tool and other resource for Product Managers.](https://github.com/hugo53/awesome-ProductManager)
 
+### Minimalism
+
+- https://www.notion.so/Inventory-872bc0d28938412daa772b1544a5dfdc
+- [Cédric Waldburger](https://www.youtube.com/playlist?list=PLFtln-0KmkcMOAqDP4SF3Acd1t081neiu)
+
+### Writing
+
+- https://divu.in/writing-effective-software-137ac3c3c7c1
+- https://awesometalks.party/category/documentation
+- https://devonzuegel.com/post/comparison-of-text-editing-methods
+- https://devonzuegel.com/post/advice-on-writing
+
 ### Websites/Newsletters
 
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://buttondown.email/swap/archive
+- https://buttondown.email/devon/archive
 - [Resources for independent developers to make money](https://github.com/mezod/awesome-indie)

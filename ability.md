@@ -33,11 +33,19 @@
 
 - [Make it stick](https://twitter.com/housecor/status/1206567954906800128)
 - https://www.gwern.net/Spaced-repetition
+- [Anki setup for code and math cards](https://clementc.github.io/blog/2018/08/15/anki_setup)
+- https://devonzuegel.com/post/thoughts-on-spaced-repetition
 
 ### Thinking
 
 - [How to Understand Systems](https://news.ycombinator.com/item?id=19832048)
+- [Tools for thinking, and especially the future of books!](https://twitter.com/Meaningness/status/1210309788141117440)
 
 ### Improvisation
 
 - https://trupaarthesium.ro/cursuri-de-teatru
+
+
+### Cooking
+
+- https://divu.in/cooking

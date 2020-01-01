@@ -1,6 +1,8 @@
 ### Radio
 
 - https://rezo.blog/personal/2019/01/03/my-favorite-podcasts.html
+- https://devonzuegel.com/post/ode-to-audio-why-you-should-give-podcasts-and-audiobooks-a-chance + https://devonzuegel.com/post/podcast-audiobook-starter-kit
+- https://www.notion.so/tools-and-craft
 
 ### Board games
 
@@ -29,9 +31,18 @@
 
 - [Misquoting Jesus by Bart D. Ehrman (2005)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#misquoting-jesus)
 
+### Geography
+
+- [Uzina Mecanică Tohan Zărnești](https://goo.gl/maps/RKeFjZRjWTUtTnYs7)
+- https://devonzuegel.com/post/building-a-personal-map
+
 ### History
 
 - [Upheaval: Turning Points for Nations in Crisis by Jared Diamond (2019)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#upheaval)
+
+### Architecture
+
+- https://devonzuegel.com/post/cities-reading-list + https://twitter.com/michael_nielsen/status/975886747870441472
 
 ### Consumerism
 

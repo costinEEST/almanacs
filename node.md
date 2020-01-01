@@ -35,6 +35,7 @@
 
 - [Authoring, publishing and working with commonjs and esm.](https://github.com/manuelbieh/authoring-modules-in-node)
 - [Create graphs from your CommonJS, AMD or ES6 module dependencies.](https://github.com/pahen/madge)
+- [Packages and resources that work really well with https://github.com/zkat/npx](https://github.com/junosuarez/awesome-npx)
 
 ### API
 
@@ -42,6 +43,8 @@
 - [Mirage for mocking APIs](https://twitter.com/RomanSndlr/status/1207551729224605697)
 - https://www.freecodecamp.org/news/apis-for-beginners-full-course/
 - [Apollo REST Data Sources with the Countries API](https://github.com/MoonHighway/countries-datasources)
+- Hands-on Application Building with GraphQL: [repo](https://github.com/lowsky/-Hands-on-Application-Building-with-GraphQL) + [video course](https://learning.oreilly.com/videos/hands-on-application-building/9781788991865)
+-  Scaling Your GraphQL Client: [tweet](https://twitter.com/mahoneymattj/status/1163276557546414081) + [slides](https://speakerdeck.com/mjmahone/scaling-your-graphql-client)
 
 ### Security
 

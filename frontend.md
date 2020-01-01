@@ -37,6 +37,7 @@
 - [line-height in Figma](https://twitter.com/argyleink/status/1206439509719564288)
 - https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
 - [Typography Resources: for Sketch & Web](https://pnowell.com/net-typography)
+- How to implement max-font-size? [tweet](https://twitter.com/starsandrobots/status/1199757377286754309) + [stackoverflow](https://stackoverflow.com/questions/40528290/how-to-implement-max-font-size/53146935#53146935)
 
 ### Animations
 

@@ -24,6 +24,8 @@
 ### Server side rendering
 
 - https://arkwright.github.io/scaling-react-server-side-rendering.html
+- [ds - personal site manager - powered by next.js](https://github.com/divyenduz/ds)
+- [Like JSX, but native and fast.](https://github.com/esxjs/esx)
 
 ### State management
 
