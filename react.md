@@ -2,12 +2,15 @@
 
 - [Complete Intro to React v5](https://btholt.github.io/complete-intro-to-react-v5/)
 - https://github.com/kentcdodds/advanced-react-patterns-v2
+- https://github.com/r31gN/grasping-react-basics + https://github.com/r31gN/advanced-react
 
 ### Hooks
 
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 - [After calling a useState setter, you don’t see the updated value in logic after it without using a useEffect](https://twitter.com/ken_wheeler/status/1200431889506435072)
 - [Subscribe to a user's light/dark preference..](https://twitter.com/tannerlinsley/status/1211721986319110144)
+- [React Hooks — 👍](https://github.com/streamich/react-use)
+- https://github.com/at0g/hooks
 
 ### Context API
 
@@ -16,6 +19,10 @@
 ### Components
 
 - [Headless UI components](https://twitter.com/rauchg/status/1199157227677868032)
+
+### Patterns
+
+- [Reusable Code In React: Inheritance, Composition, Decorators and Mixins.](https://benmccormick.org/2019/02/11/reusable-react)
 
 ### Concurrent Mode/Suspense
 
@@ -39,6 +46,7 @@
 ### State management
 
 - https://arkwright.github.io/event-sourcing.html
+- https://www.infoq.com/presentations/react-redux-state-management
 
 ### React Native
 

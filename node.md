@@ -8,7 +8,8 @@
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/
 - https://www.udemy.com/course/nestjs-zero-to-hero/
 - https://www.udemy.com/course/nestjs-course/
-- https://www.udemy.com/course/learning-koajs-by-building-rest-apis/
+- https://www.udemy.com/course/learning-koajs-by-building-rest-apis
+- [TypeScript with Node.js by Zaiste](https://www.youtube.com/playlist?list=PLhXZp00uXBk72m_G7E2Bshzd7PDpaInE1)
 
 ### Cheat sheets
 

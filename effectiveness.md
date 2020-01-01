@@ -22,6 +22,7 @@
 
 - [Silly game to show off the new features of Vim 8.2](https://github.com/vim/killersheep)
 - Vim setup that includes several VSCode features: [tweet](https://twitter.com/benawad/status/1193911350541590528) + [video](https://youtu.be/gnupOrSEikQ)
+- [Vim screencasts by Greg Hurrell](https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
 
 ### LaTeX
 
@@ -80,6 +81,7 @@
 - https://awesometalks.party/category/documentation
 - https://devonzuegel.com/post/comparison-of-text-editing-methods
 - https://devonzuegel.com/post/advice-on-writing
+- https://lethain.com/learned-writing-book
 
 ### Learning
 

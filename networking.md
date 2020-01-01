@@ -82,6 +82,8 @@
 - https://stackoverflow.blog/2019/12/18/websockets-for-fun-and-profit/
 - [High Performance WebSocket](https://youtu.be/zgI0H28AgGY)
 - [Leah Hanson - Inside Websockets](https://youtu.be/9FqjRN4VYUU)
+- [The cutest little WebSocket wrapper! 🧦](https://github.com/lukeed/sockette)
+- [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
 
 ### SSH
 

@@ -7,6 +7,10 @@
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
+### Patterns
+
+- https://viorel.me/2019/simple-undo-redo-functionality-in-js-using-memento/
+
 ### TIL
 
 - [Get a full map of every event in the browser](https://medium.com/@weizmangal/list-every-event-that-exists-in-the-browser-b771579d9b04)
@@ -22,6 +26,7 @@
 ### Talks
 
 - [Session Notes from JSCraftCamp2019](https://github.com/jscraftcamp/jscc19-sessions)
+- [16-Bit Virtual Machine (series on YouTube)](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
 
 ### AI
 
@@ -36,6 +41,10 @@
 - [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
 - [FATpick is the tab player that listens.](https://www.fatpick.com/learn-to-play-guitar)
 - [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
+
+### Video
+
+- [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
 
 ### Canvas
 
@@ -70,12 +79,19 @@
 
 ### Web Components
 
-- https://briangrinstead.com/blog/firefox-webcomponents/
+- https://briangrinstead.com/blog/firefox-webcomponents
+- https://github.com/shawnbot/custom-elements
+
+### Testing
+
+- [End-to-end testing with NightwatchJS](https://www.youtube.com/playlist?list=PLHe-juD38yt4t38EsggDx2viWXz9Dc0OS)
 
 ### Tools
 
 - [ESLint, Prettier, Stylelint, TypeScript and Semantic Release configs.](https://twitter.com/ManuelBieh/status/1211759353973354497)
 - [I have noticed 23% reduction in bundle size..](https://twitter.com/kuldeepkeshwar/status/1206806003179642880)
+- https://www.youtube.com/user/samccone/playlists
+- [A simple middleware-style router for isomorphic JavaScript web apps.](https://github.com/kriasoft/universal-router)
 
 ### XSS
 

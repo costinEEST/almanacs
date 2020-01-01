@@ -8,7 +8,8 @@
 - https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108
 - https://www.24a11y.com/2019/an-adventurers-guide-to-w3c-specs/
 - https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
-- https://mismatch.design/resources/accessibility-resources/2018/07/14/introduction-to-disability-and-accessibility/
+- https://mismatch.design/resources/accessibility-resources/2018/07/14/introduction-to-disability-and-accessibility
+- [WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments. ](https://github.com/CoreyGinnivan/whocanuse)
 
 ### Unicode
 
@@ -37,6 +38,7 @@
 - [How a design system should begin?](https://twitter.com/matheus1lva/status/1200420309205233664)
 - [Expressive Design Systems](https://twitter.com/yeseniaa/status/1176543104708616194)
 - [My biggest frustration with the term "design system" is that it leaves way too much wiggle room for the status quo to pretend it's keeping up.](https://twitter.com/markdalgleish/status/1208657843693350914)
+- https://github.com/alexpate/awesome-design-systems
 
 ### Typography
 
@@ -64,6 +66,13 @@
 
 - [Introduction to interactivity](https://everestpipkin.github.io/emsII/) + https://twitter.com/everestpipkin/status/1207502480042536960
 - https://github.com/melanierichards/resources/blob/master/resources/pixel-art.md
+- [Fun with Ascii: Putting some console art on my site](https://benmccormick.org/ascii-kusty)
+
+### Charts
+
+- http://www.thefunctionalart.com
+- https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921
+- [Thread of books I have used and referenced when preparing and giving a #cartography and #GIS](https://twitter.com/ramiroaznar/status/1210269334830026755)
 
 ### UX
 
@@ -90,4 +99,5 @@
 - https://pnowell.com/resources
 - https://trydesignlab.com/blog/2019-holiday-gift-guide-for-designers
 - https://trydesignlab.com/blog/design-documentaries-holiday-watch-list-for-designers
-- http://digest.scottbelsky.com/
+- http://digest.scottbelsky.com
+- https://github.com/andrew--r/frontend-case-studies

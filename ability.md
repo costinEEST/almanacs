@@ -2,11 +2,14 @@
 
 - [Simply Leadership](https://leanpub.com/simplyleadership)
 - https://www.amazon.com/Call-Sign-Chaos-Learning-Lead-ebook/dp/B07SBRFVNH
+- https://benmccormick.org/2019-roundup
 
 ### Management
 
 - [Non-violent communication](https://twitter.com/sriramk/status/121108567813973196)
 - http://personalkanban.com/pk/personal-kanban-101
+- https://lethain.com/97-things-every-manager-should-know
+- https://benmccormick.org/2019-roundup 
 
 ### Mindfulness
 

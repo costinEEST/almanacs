@@ -3,6 +3,7 @@
 - https://rezo.blog/personal/2019/01/03/my-favorite-podcasts.html
 - https://devonzuegel.com/post/ode-to-audio-why-you-should-give-podcasts-and-audiobooks-a-chance + https://devonzuegel.com/post/podcast-audiobook-starter-kit
 - https://www.notion.so/tools-and-craft
+- https://softskills.audio 
 
 ### Board games
 
@@ -63,4 +64,14 @@
 ### Communism
 
 - https://peregristorii.wordpress.com/2019/12/13/un-film-uimitor-croaziera-1980-regia-mircea-danieluc
-- http://www.carteadelaora5.ro/ti-a-placut-serialul-cernobil-scenaristul-fenomenului-iti-recomanda-ce-sa-citesti-acum/
+- http://www.carteadelaora5.ro/ti-a-placut-serialul-cernobil-scenaristul-fenomenului-iti-recomanda-ce-sa-citesti-acum
+- [What happened to Romania’s revolutionaries 30 years on?](https://amp.ft.com/content/5e5460b6-1c29-11ea-9186-7348c2f183af)
+- [The children of the turning point](https://vimeo.com/24124392)
+
+### Skateboarding
+
+- [Professor Paul Schmitt](https://www.facebook.com/DanubeFootwear/posts/2239139673050235)
+
+### Chess
+
+- [A few snippets from ♟️ history](https://twitter.com/DorsaAmir/status/1199690290065530881)

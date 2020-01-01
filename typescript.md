@@ -7,3 +7,7 @@
 
 - [Typed functional programming in TypeScript in five minutes](https://github.com/typescript-fun/five-minutes-demo)
 - How domain modeling can help us to make our apps consistent & safe: [repo](https://github.com/gillchristian/modeling) + [slides](https://modeling.now.sh/)
+
+### References
+
+- https://github.com/rmolinamir/typescript-cheatsheet
