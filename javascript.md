@@ -1,6 +1,7 @@
 ### Quirks
 
 - [6 JavaScript WTFs and what to learn from them](https://dev.to/andreib123/6-javascript-wtfs-and-what-to-learn-from-them-406d)
+- [Function that prints itself (quine)](https://twitter.com/ryuhhnn/status/1212075258548834305)
 
 ### Algorithms
 
@@ -10,6 +11,8 @@
 
 - [Get a full map of every event in the browser](https://medium.com/@weizmangal/list-every-event-that-exists-in-the-browser-b771579d9b04)
 - https://medium.com/@weizmangal/unload-and-beforeunload-events-and-how-to-easily-debug-them-both-cb40782b0018
+- https://redd.one/blog/debounce-vs-throttle
+- [What does it mean “event-driven” in JavaScript and Node.js?](https://www.valentinog.com/blog/event)
 
 ### Books
 
@@ -31,6 +34,8 @@
 - https://divu.in/music-theory-and-generation-13965ba83eb9
 - http://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4 + https://open.spotify.com/playlist/27Ga7s7D4lFUWhZQZ8heqM
 - [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
+- [FATpick is the tab player that listens.](https://www.fatpick.com/learn-to-play-guitar)
+- [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
 
 ### Canvas
 
@@ -43,17 +48,34 @@
 - [The envisioned future of ES Modules in the browser.](https://twitter.com/swyx/status/1208820201623437312)
 - All differences between JavaScript modules, classic scripts, and CommonJS: [gist](https://gist.github.com/jkrems/b14894e0b8efde10aa10a28c652d3541) + [tweet](https://twitter.com/jankrems/status/1210644388105244672)
 
+### Default arguments
+
+- [.. I just realized that default args in JS can take an expression that makes use of previous args in the argument list!](https://twitter.com/mjackson/status/1207108228921741313)
+
 ### Array.prototype.reduce()
 
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
+
+### new Promise()
+
+- [What does this code print?](https://twitter.com/Swizec/status/1206624095816699906)
 
 ### JSON.parse()
 
 - [JSON.parse w/o blocking main thread.](https://gist.github.com/jkrems/71df0bce1b95101b1417f909ce473075)
 
+### Classes
+
+- [When are public instance fields executed?]https://twitter.com/rauschma/status/1205417503108878336
+
+### Web Components
+
+- https://briangrinstead.com/blog/firefox-webcomponents/
+
 ### Tools
 
 - [ESLint, Prettier, Stylelint, TypeScript and Semantic Release configs.](https://twitter.com/ManuelBieh/status/1211759353973354497)
+- [I have noticed 23% reduction in bundle size..](https://twitter.com/kuldeepkeshwar/status/1206806003179642880)
 
 ### XSS
 

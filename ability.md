@@ -6,6 +6,7 @@
 ### Management
 
 - [Non-violent communication](https://twitter.com/sriramk/status/121108567813973196)
+- http://personalkanban.com/pk/personal-kanban-101
 
 ### Mindfulness
 
@@ -20,6 +21,7 @@
 
 - [The Untethered Soul](https://twitter.com/russshanahan/status/1206578615758053376)
 - [Levels of Energy by Frederick Dodson. ](https://twitter.com/remouherek/status/1206564103994662912)
+- Can't Hurt Me. Master Your Mind and Defy the Odds: [hardcover](https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287) + [podcast](https://youtu.be/5tSTk1083VY)
 
 ### Emotional intelligence
 
@@ -28,18 +30,6 @@
 ### Body language
 
 - [What everybody is saying.](https://twitter.com/AnkushChander/status/1206574511669166080)
-
-### Learning
-
-- [Make it stick](https://twitter.com/housecor/status/1206567954906800128)
-- https://www.gwern.net/Spaced-repetition
-- [Anki setup for code and math cards](https://clementc.github.io/blog/2018/08/15/anki_setup)
-- https://devonzuegel.com/post/thoughts-on-spaced-repetition
-
-### Thinking
-
-- [How to Understand Systems](https://news.ycombinator.com/item?id=19832048)
-- [Tools for thinking, and especially the future of books!](https://twitter.com/Meaningness/status/1210309788141117440)
 
 ### Improvisation
 

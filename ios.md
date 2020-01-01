@@ -7,6 +7,7 @@
 
 - https://blog.hoangnm.com/ios%20development/2013/05/12/get-started-with-ios-programming
 - [iOS Tips and Tricks](https://blog.hoangnm.com/pageDir/iosTips)
+- https://rambo.codes/ios/quick-tip/2019/12/09/clearing-your-apps-launch-screen-cache-on-ios.html
 
 ### Applications
 
@@ -19,3 +20,8 @@
 ### Reverse engineering
 
 -  Tales of old: untethering iOS 11: https://twitter.com/hackerfantastic/status/1210985589685678080 + https://twitter.com/xerub/status/1210917374083375104
+
+
+### Community
+
+- [..find someone in the iOS community who has inspired you through a blog post, a conference presentation, a video, or somehow else, and send them an encouraging tweet.](https://twitter.com/twostraws/status/1208764380969611264)

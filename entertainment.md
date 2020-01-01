@@ -7,6 +7,11 @@
 ### Board games
 
 - https://www.amazon.com/Holstee-Reflection-Cards-Connections-Conversations/dp/B07JM14W5L
+- [Can anyone help me out with some boardgame/card game recommendations?](https://twitter.com/jaffathecake/status/1205808801762496513)
+
+### Basketball
+
+- [Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever.](https://www.amazon.com/Dream-Team-Greatest-Conquered-Basketball/dp/0345520491)
 
 ### Future
 
@@ -40,6 +45,11 @@
 
 - [Upheaval: Turning Points for Nations in Crisis by Jared Diamond (2019)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#upheaval)
 
+### Stoicism
+
+- [I. Epictetus](https://standardebooks.org/ebooks/epictetus/the-enchiridion/elizabeth-carter) + [II. Seneca](https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart) + [III. Marcus Aurelius](https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long)
+- [The Manual. A Philosopher's Guide to Life - Epictetus](https://www.indiebound.org/book/9781545461112)
+
 ### Architecture
 
 - https://devonzuegel.com/post/cities-reading-list + https://twitter.com/michael_nielsen/status/975886747870441472
@@ -52,4 +62,5 @@
 
 ### Communism
 
-- https://peregristorii.wordpress.com/2019/12/13/un-film-uimitor-croaziera-1980-regia-mircea-danieluc/
+- https://peregristorii.wordpress.com/2019/12/13/un-film-uimitor-croaziera-1980-regia-mircea-danieluc
+- http://www.carteadelaora5.ro/ti-a-placut-serialul-cernobil-scenaristul-fenomenului-iti-recomanda-ce-sa-citesti-acum/

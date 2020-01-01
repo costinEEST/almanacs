@@ -49,6 +49,10 @@
 
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
 
+### UDP
+
+- [Reinventing UDP Streaming with QUIC](https://twitter.com/SimmerVigor/status/1207008500125224961)
+
 ### HTTP
 
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586)
@@ -82,3 +86,7 @@
 ### SSH
 
 - [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained/)
+
+### Miscellaneous
+
+- https://github.com/alphaSeclab/awesome-network-stuff/blob/master/Readme_en.md

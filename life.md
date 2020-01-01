@@ -22,13 +22,19 @@
 
 ### Ketosis
 
+- [A Guide to Ketosis.](http://josepharcita.blogspot.com/2011/03/guide-to-ketosis.html?m=1)
 - [Behind the World's First Ketone Ester ft. Kieran Clarke || HVMN Enhancement Podcast: Ep. 48](https://youtu.be/qR4tf-np6jU)
 
-### Intermittent fasting
+### Fasting
 
 - https://twitter.com/elavenilee/status/1207653303028289537
 - [Intermittent Fasting: Transformational Technique | Cynthia Thurlow | TEDxGreenville](https://youtu.be/A6Dkt7zyImk)
 - https://peterattiamd.com/jasonfung + https://news.ycombinator.com/item?id=21802676
+- [Personal playlist](https://www.youtube.com/playlist?list=PLWIcRrPLCdUfEsFPi53bI3BeljwcIBIWl)
+
+### Aging
+
+- [Answering the ultimate question "what is the proximal cause of aging?".](https://www.ncbi.nlm.nih.gov/m/pubmed/23425777/)
 
 ### Sugar
 
@@ -42,3 +48,5 @@
 
 - https://apps.apple.com/us/app/before-you-eat/id1475748617
 - https://www.questionsdeforme.fr/les-3-applications-pour-manger-sain-equilibre-et-pas-cher
+- https://apps.apple.com/us/app/spar-get-better-at-stuff/id1109640290
+- [Youper - Emotional Health Assistant Powered by AI](https://www.youper.ai)

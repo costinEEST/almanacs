@@ -1,6 +1,7 @@
-### Articles
+### TIL
 
 - [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
+- [How do you sync .env files (project specific) that are git-ignored between different computers?](https://twitter.com/thekitze/status/1207718292149952512)
 
 ### Courses
 
@@ -21,6 +22,7 @@
 
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
 - [Displays JSON files in a flat format.](https://github.com/soheilpro/catj)
+- [A tinyURL service powered by node.js, express.js and a reddis database.](https://github.com/shahzeb1/nodejs-tinyURL)
 
 ### Authentication
 
@@ -39,6 +41,7 @@
 
 ### API
 
+- https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 - [Common API security pitfalls](https://pragmaticwebsecurity.com/talks/commonapisecuritypitfalls)
 - [Mirage for mocking APIs](https://twitter.com/RomanSndlr/status/1207551729224605697)
 - https://www.freecodecamp.org/news/apis-for-beginners-full-course/
@@ -59,7 +62,9 @@
 ### Boots
 
 - [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
+- https://jasonet.co/posts/build-your-own-probot 
 
 ### Serverless
 
 - [Building and deploying modern websites and apps - GitHub Universe 2019](https://youtu.be/KlO5Ksk7baQ)
+- [Would someone be willing to teach me how @netlify or @zeithq's deploy preview feature works?](https://twitter.com/TejasKumar_/status/1208378475771506688)

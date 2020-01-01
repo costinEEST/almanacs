@@ -22,12 +22,21 @@
 - https://youmightnotneed.com/css/
 - [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
 
+### Color
+
+- [Happy Hues - Curated colors in context.](https://www.happyhues.co)
+
+### Design
+
+- [Everybody calling the Cybertruck "brutalist" is wrong.](https://www.inverse.com/article/61479-cybertruck-brutalism-not-really)
+
 ### Design Systems
 
 - https://dev.to/devmodefm/design-systems-with-travis-gertz
 - [Design Systems London 2019](https://www.youtube.com/playlist?list=PLNC1kqILNVugoHglOCwa4bxhVDJp3lsBX)
 - [How a design system should begin?](https://twitter.com/matheus1lva/status/1200420309205233664)
 - [Expressive Design Systems](https://twitter.com/yeseniaa/status/1176543104708616194)
+- [My biggest frustration with the term "design system" is that it leaves way too much wiggle room for the status quo to pretend it's keeping up.](https://twitter.com/markdalgleish/status/1208657843693350914)
 
 ### Typography
 
@@ -43,6 +52,7 @@
 
 - [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
 - https://github.com/willianjusten/awesome-svg + https://twitter.com/addyosmani/status/1210463389144645632
+- https://speakerdeck.com/ange/an-introduction-to-inkscape
 
 ### Illustrations
 
@@ -71,6 +81,7 @@
 
 - [future-web-perf by Vitaly Friedman](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf)
 - https://github.com/melanierichards/resources/blob/master/resources/performance.md
+- https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
 
 ### Miscellaneous
 
