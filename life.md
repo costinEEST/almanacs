@@ -10,6 +10,8 @@
 - https://jasoncollins.blog/economics-and-evolutionary-biology-reading-list/
 - [Biology Is Technology: The Promise, Peril, and New Business of Engineering Life](https://www.amazon.com/Biology-Technology-Promise-Business-Engineering/dp/0674060156)
 - [VCs investing in synthetic biology](https://twitter.com/chrissyfarr/status/1179827098413928454)
+- https://github.com/Developer-Y/cs-video-courses#computational-biology
+- [I485 / H400 - Biologically Inspired Computation (Indiana University)](https://homes.sice.indiana.edu/rocha/academics/i-bic/index.php)
 
 ### Anatomy
 
@@ -19,6 +21,15 @@
 ### Botany
 
 - http://www.editura-electra.ro/produs/ierburile-sacre-etnobotanica-magica-romaneasca
+
+### Chemistry
+
+- [PiHKAL: A Chemical Love Story](https://en.wikipedia.org/wiki/PiHKAL) + [TIHKAL: The Continuation](https://en.wikipedia.org/wiki/TiHKAL)
+- https://github.com/Developer-Y/math-science-video-lectures#chemistry
+
+### Physics
+
+- https://github.com/Developer-Y/math-science-video-lectures#physics
 
 ### Ketosis
 

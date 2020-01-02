@@ -10,6 +10,14 @@
 - https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
 - https://mismatch.design/resources/accessibility-resources/2018/07/14/introduction-to-disability-and-accessibility
 - [WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments. ](https://github.com/CoreyGinnivan/whocanuse)
+- https://fotis.xyz/tags/a11y
+
+
+### Color
+
+- [Happy Hues - Curated colors in context.](https://www.happyhues.co)
+- [Get random, accessible color combinations](https://randoma11y.com)
+- https://corey.ginnivan.net/crash-courses
 
 ### Unicode
 
@@ -23,13 +31,11 @@
 - https://youmightnotneed.com/css/
 - [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
 
-### Color
-
-- [Happy Hues - Curated colors in context.](https://www.happyhues.co)
 
 ### Design
 
 - [Everybody calling the Cybertruck "brutalist" is wrong.](https://www.inverse.com/article/61479-cybertruck-brutalism-not-really)
+- [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)
 
 ### Design Systems
 
@@ -42,6 +48,7 @@
 
 ### Typography
 
+- https://www.amazon.com/Short-History-Printed-Word/dp/0881791547
 - [how we can improve showing numbers in a table or list and align them better with CSS typography options.](https://www.robinrendle.com/notes/the-smallest-difference.html)
 - [How to make fonts](https://twitter.com/hellonehha/status/1195987851252363264)
 - https://mycreativetype.com/
@@ -85,6 +92,7 @@
 - https://artyomavanesov.com/blog/how-ai-will-eat-ui
 - [ Next level Phone UX ](https://gist.github.com/rauchg/4a964035ecd52a6a33de289295c26e98) + https://phone-ux.now.sh
 - https://trydesignlab.com/blog/tips-explain-ux-design-to-your-parents-this-christmas
+- https://uxdesign.cc/what-it-takes-to-be-a-product-designer-424a4151261e
 
 ### Performance
 
@@ -101,3 +109,4 @@
 - https://trydesignlab.com/blog/design-documentaries-holiday-watch-list-for-designers
 - http://digest.scottbelsky.com
 - https://github.com/andrew--r/frontend-case-studies
+- https://github.com/fullstackio/30-days-of-web-development

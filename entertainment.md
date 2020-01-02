@@ -4,6 +4,7 @@
 - https://devonzuegel.com/post/ode-to-audio-why-you-should-give-podcasts-and-audiobooks-a-chance + https://devonzuegel.com/post/podcast-audiobook-starter-kit
 - https://www.notion.so/tools-and-craft
 - https://softskills.audio 
+- https://soundcloud.com/stephenwolfram/
 
 ### Board games
 
@@ -33,9 +34,10 @@
 
 - https://jumunteanu.wordpress.com/2014/01/17/7-carti-pentru-relationisti-sau-pentru-cei-interesati-in-psihologia-maselor-si-manipularea-acestora-prin-mijloacele-de-comunicare-4 + https://www.academia.edu/20833296/02._Edward_Bernays_-_Cristalizarea_opiniei_publice
 
-### Religion
+### Christianity
 
 - [Misquoting Jesus by Bart D. Ehrman (2005)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#misquoting-jesus)
+- [A Brief History of Thought: A Philosophical Guide to Living (Learning to Live)](https://www.amazon.com/Brief-History-Thought-Philosophical-Learning/dp/0062074245)
 
 ### Geography
 
@@ -50,10 +52,24 @@
 
 - [I. Epictetus](https://standardebooks.org/ebooks/epictetus/the-enchiridion/elizabeth-carter) + [II. Seneca](https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart) + [III. Marcus Aurelius](https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long)
 - [The Manual. A Philosopher's Guide to Life - Epictetus](https://www.indiebound.org/book/9781545461112)
+- [A Guide to The Good Life - William Irvine](https://youtu.be/BjScQSQpst8)
+
+### Philosophy
+
+- [Alain de Botton - The Consolations of Philosophy](https://www.youtube.com/playlist?list=PLxRuhrcSjnv2weFRcqOeCpk4Wy7_hay2j)
+
+### Qabalah
+
+- https://www.amazon.com/Mystical-Qabalah-Dion-Fortune/dp/1578631505
 
 ### Architecture
 
 - https://devonzuegel.com/post/cities-reading-list + https://twitter.com/michael_nielsen/status/975886747870441472
+
+### Advertising
+
+- [I. The Mechanical Bride: Folklore of Industrial Man](https://www.amazon.com/Mechanical-Bride-Folklore-Industrial-Man/dp/1584232439) + [II. The Gutenberg Galaxy](https://www.amazon.com/Gutenberg-Galaxy-Marshall-McLuhan/dp/144261269X) + [III. 
+Understanding Media: The Extensions of Man](https://www.amazon.com/Understanding-Media-Extensions-Marshall-McLuhan/dp/0262631598) + [	How Marshall McLuhan Became a Famous Media Scholar](https://news.ycombinator.com/item?id=13240799)
 
 ### Consumerism
 

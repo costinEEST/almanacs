@@ -10,6 +10,7 @@
 - http://personalkanban.com/pk/personal-kanban-101
 - https://lethain.com/97-things-every-manager-should-know
 - https://benmccormick.org/2019-roundup 
+- https://www.amazon.com/Chasing-Rabbit-Outdistance-Competition-Christensen-ebook/dp/B0015DWJ8M
 
 ### Mindfulness
 

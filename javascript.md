@@ -41,6 +41,8 @@
 - [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
 - [FATpick is the tab player that listens.](https://www.fatpick.com/learn-to-play-guitar)
 - [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
+- https://hilarymason.com/2017/02/17/bad-idea-fridays-an-app-for-talking-to-myself 
+- https://www.amazon.com/How-Listen-Jazz-Ted-Gioia/dp/0465060897
 
 ### Video
 
@@ -56,6 +58,7 @@
 - [History of ES modules.](https://gist.github.com/jkrems/769a8cd8806f7f57903b641c74b5f08a)
 - [The envisioned future of ES Modules in the browser.](https://twitter.com/swyx/status/1208820201623437312)
 - All differences between JavaScript modules, classic scripts, and CommonJS: [gist](https://gist.github.com/jkrems/b14894e0b8efde10aa10a28c652d3541) + [tweet](https://twitter.com/jankrems/status/1210644388105244672)
+- [How To Use Correctly JavaScript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries)
 
 ### Default arguments
 
@@ -68,6 +71,11 @@
 ### new Promise()
 
 - [What does this code print?](https://twitter.com/Swizec/status/1206624095816699906)
+- [Canceling long-running operations](https://haroen.me/presentations/en/canceling-async)
+
+### async await
+
+- Fast and maintainable patterns for fetching from a database: [tweet](https://twitter.com/sophiebits/status/1212555591056424960) + [blog post](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
 
 ### JSON.parse()
 
@@ -81,10 +89,15 @@
 
 - https://briangrinstead.com/blog/firefox-webcomponents
 - https://github.com/shawnbot/custom-elements
+- [React's Hooks API implemented for web components.](https://github.com/matthewp/haunted)
 
 ### Testing
 
 - [End-to-end testing with NightwatchJS](https://www.youtube.com/playlist?list=PLHe-juD38yt4t38EsggDx2viWXz9Dc0OS)
+
+### Virtual machines
+
+- [I want to embed an entire JS VM inside a browser.](https://twitter.com/garybernhardt/status/1212468714018242560)
 
 ### Tools
 

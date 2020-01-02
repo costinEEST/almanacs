@@ -25,6 +25,7 @@ javascript: (() =>
 ### APIs
 
 - [Trying out and demonstrating different browser APIs](https://github.com/vkallore/browser-apis)
+- https://github.com/deebloo/things-you-can-do-in-a-web-worker
 
 ### Cookies
 

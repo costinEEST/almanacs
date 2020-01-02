@@ -17,6 +17,7 @@
 - https://github.com/burkeholland/workshop-vs-code-can-do-that
 - https://github.com/fabiospampinato/vscode-todo-plus
 - vscode-graphiql-explorer, an extension for VSCode that integrates GraphiQL + OneGraph's Explorer to build+edit GraphQL operations: [tweet](https://twitter.com/___zth___/status/1206626640589205505) + [marketplace](https://marketplace.visualstudio.com/items?itemName=GabrielNordeborn.vscode-graphiql-explorer)
+- [Azure Blockchain Development Kit for Ethereum.](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
 
 ### Vim
 
@@ -82,18 +83,27 @@
 - https://devonzuegel.com/post/comparison-of-text-editing-methods
 - https://devonzuegel.com/post/advice-on-writing
 - https://lethain.com/learned-writing-book
+- [What We See When We Read - Peter Mendelsund](https://www.amazon.com/gp/customer-reviews/R2P9ZQ6EDF7WF6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0804171637)
+
+### Drawing
+
+- [Keys to Drawing by Bert Dodson](https://youtu.be/df9OewgNbiI)
 
 ### Learning
 
-- [Make it stick](https://twitter.com/housecor/status/1206567954906800128)
+- https://ncase.me/remember
 - https://www.gwern.net/Spaced-repetition
 - [Anki setup for code and math cards](https://clementc.github.io/blog/2018/08/15/anki_setup)
 - https://devonzuegel.com/post/thoughts-on-spaced-repetition
+- [Make it stick](https://twitter.com/housecor/status/1206567954906800128)
+- https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius 
 
 ### Thinking
 
 - [How to Understand Systems](https://news.ycombinator.com/item?id=19832048)
 - [Tools for thinking, and especially the future of books!](https://twitter.com/Meaningness/status/1210309788141117440)
+- [Psychology of Intelligence Analysis(see the reviews first)](https://www.amazon.com/Psychology-Intelligence-Analysis-Richards-Heuer/dp/B0016OST3O)
+- [Annie Duke – Wanna Bet? – [Invest Like the Best, EP.125]](http://investorfieldguide.com/annie)
 
 ### Reading
 

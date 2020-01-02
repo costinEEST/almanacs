@@ -5,3 +5,7 @@
 ### Optimizations
 
 - https://twitter.com/psobot/status/1204887283666685954
+
+### Miscellaneous
+
+- https://github.com/Developer-Y/all-things-java

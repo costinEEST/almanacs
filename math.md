@@ -11,6 +11,10 @@
 
 - [Introduction to Graph Theory (Dover Books on Mathematics)](https://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709)
 
+### Courses
+
+- https://github.com/Developer-Y/math-science-video-lectures#mathematics
+
 ### Miscellaneous
 
 - [Rocket Men by Robert Kurson](https://twitter.com/Yaz17657882/status/1206566643142258691)
