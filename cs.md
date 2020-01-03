@@ -35,6 +35,7 @@
 - https://www.peerlyst.com/posts/guide-for-programmers-how-to-generate-secure-random-numbers-pyotr-a-pavlensky
 - https://blog.hoangnm.com/translation/2018/09/05/note-on-system-design-series
 - https://arkwright.github.io/parallelized-decision-making.html
+- [The canonical spec for ulid](https://github.com/ulid/spec)
 
 ### Practice
 

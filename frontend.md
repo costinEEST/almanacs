@@ -11,6 +11,7 @@
 - https://mismatch.design/resources/accessibility-resources/2018/07/14/introduction-to-disability-and-accessibility
 - [WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments. ](https://github.com/CoreyGinnivan/whocanuse)
 - https://fotis.xyz/tags/a11y
+- https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me/
 
 
 ### Color
@@ -18,6 +19,7 @@
 - [Happy Hues - Curated colors in context.](https://www.happyhues.co)
 - [Get random, accessible color combinations](https://randoma11y.com)
 - https://corey.ginnivan.net/crash-courses
+- https://github.com/sw-yx/spark-joy#color-picking
 
 ### Unicode
 
@@ -40,6 +42,7 @@
 ### Design Systems
 
 - https://dev.to/devmodefm/design-systems-with-travis-gertz
+- [Design Systems with Storybook & React](https://frontendmasters.com/workshops/design-systems-storybook)
 - [Design Systems London 2019](https://www.youtube.com/playlist?list=PLNC1kqILNVugoHglOCwa4bxhVDJp3lsBX)
 - [How a design system should begin?](https://twitter.com/matheus1lva/status/1200420309205233664)
 - [Expressive Design Systems](https://twitter.com/yeseniaa/status/1176543104708616194)
@@ -49,6 +52,7 @@
 ### Typography
 
 - https://www.amazon.com/Short-History-Printed-Word/dp/0881791547
+- https://github.com/sw-yx/spark-joy#typography
 - [how we can improve showing numbers in a table or list and align them better with CSS typography options.](https://www.robinrendle.com/notes/the-smallest-difference.html)
 - [How to make fonts](https://twitter.com/hellonehha/status/1195987851252363264)
 - https://mycreativetype.com/
@@ -56,6 +60,7 @@
 - https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
 - [Typography Resources: for Sketch & Web](https://pnowell.com/net-typography)
 - How to implement max-font-size? [tweet](https://twitter.com/starsandrobots/status/1199757377286754309) + [stackoverflow](https://stackoverflow.com/questions/40528290/how-to-implement-max-font-size/53146935#53146935)
+- https://muffingroup.com/blog/best-free-fonts/
 
 ### Animations
 
@@ -110,3 +115,4 @@
 - http://digest.scottbelsky.com
 - https://github.com/andrew--r/frontend-case-studies
 - https://github.com/fullstackio/30-days-of-web-development
+- [✨😂easy ways to add design flair, user delight, and whimsy to your product.](https://github.com/sw-yx/spark-joy)

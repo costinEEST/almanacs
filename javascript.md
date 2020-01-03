@@ -85,6 +85,10 @@
 
 - [When are public instance fields executed?]https://twitter.com/rauschma/status/1205417503108878336
 
+### OOP
+
+- [When to use OOP; when to use FP](https://twitter.com/rauschma/status/1212996411324801026)
+
 ### Web Components
 
 - https://briangrinstead.com/blog/firefox-webcomponents

@@ -39,6 +39,7 @@
 - [Authoring, publishing and working with commonjs and esm.](https://github.com/manuelbieh/authoring-modules-in-node)
 - [Create graphs from your CommonJS, AMD or ES6 module dependencies.](https://github.com/pahen/madge)
 - [Packages and resources that work really well with https://github.com/zkat/npx](https://github.com/junosuarez/awesome-npx)
+- [Access the system clipboard (copy/paste) - cross-platform](https://github.com/sindresorhus/clipboard-cli)
 
 ### API
 
