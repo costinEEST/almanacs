@@ -4,6 +4,10 @@
 - [Make locally trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert)
 - [Shows the result of crt.sh](https://github.com/famasoon/crtsh)
 
+### References
+
+- https://github.com/OpenTechFund/CryptoTerminology
+
 ### Talks
 
 - [Theory and Practice of Cryptography](https://www.youtube.com/playlist?list=PL10875C2002F7E6F6)

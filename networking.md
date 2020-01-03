@@ -56,6 +56,7 @@
 ### HTTP
 
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586)
+- [HTTPLeaks - All possible ways, a website can leak HTTP requests](https://github.com/cure53/HTTPLeaks)
 
 ### HTTP/3
 

@@ -55,6 +55,7 @@
 
 - [A Road Map for Node.js Security](https://nodesecroadmap.fyi)
 - [Security design pattern support for Node.js](https://github.com/mikesamuel/node-sec-patterns)
+- https://github.com/ChALkeR/notes
 
 ### Static site generators
 
