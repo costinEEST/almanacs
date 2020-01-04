@@ -3,7 +3,7 @@
 - https://rezo.blog/personal/2019/01/03/my-favorite-podcasts.html
 - https://devonzuegel.com/post/ode-to-audio-why-you-should-give-podcasts-and-audiobooks-a-chance + https://devonzuegel.com/post/podcast-audiobook-starter-kit
 - https://www.notion.so/tools-and-craft
-- https://softskills.audio 
+- https://softskills.audio
 - https://soundcloud.com/stephenwolfram/
 
 ### Board games
@@ -14,6 +14,7 @@
 ### Basketball
 
 - [Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever.](https://www.amazon.com/Dream-Team-Greatest-Conquered-Basketball/dp/0345520491)
+- [Thinking Basketball (YouTube channel)](https://www.youtube.com/channel/UC3HPbvB6f58X_7SMIp6OPYw/playlists)
 
 ### Future
 
@@ -68,8 +69,8 @@
 
 ### Advertising
 
-- [I. The Mechanical Bride: Folklore of Industrial Man](https://www.amazon.com/Mechanical-Bride-Folklore-Industrial-Man/dp/1584232439) + [II. The Gutenberg Galaxy](https://www.amazon.com/Gutenberg-Galaxy-Marshall-McLuhan/dp/144261269X) + [III. 
-Understanding Media: The Extensions of Man](https://www.amazon.com/Understanding-Media-Extensions-Marshall-McLuhan/dp/0262631598) + [	How Marshall McLuhan Became a Famous Media Scholar](https://news.ycombinator.com/item?id=13240799)
+- [I. The Mechanical Bride: Folklore of Industrial Man](https://www.amazon.com/Mechanical-Bride-Folklore-Industrial-Man/dp/1584232439) + [II. The Gutenberg Galaxy](https://www.amazon.com/Gutenberg-Galaxy-Marshall-McLuhan/dp/144261269X) + [III.
+  Understanding Media: The Extensions of Man](https://www.amazon.com/Understanding-Media-Extensions-Marshall-McLuhan/dp/0262631598) + [ How Marshall McLuhan Became a Famous Media Scholar](https://news.ycombinator.com/item?id=13240799)
 
 ### Consumerism
 

@@ -41,7 +41,7 @@
 - [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
 - [FATpick is the tab player that listens.](https://www.fatpick.com/learn-to-play-guitar)
 - [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
-- https://hilarymason.com/2017/02/17/bad-idea-fridays-an-app-for-talking-to-myself 
+- https://hilarymason.com/2017/02/17/bad-idea-fridays-an-app-for-talking-to-myself
 - https://www.amazon.com/How-Listen-Jazz-Ted-Gioia/dp/0465060897
 
 ### Video
@@ -67,6 +67,10 @@
 ### Array.prototype.reduce()
 
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
+
+### new Date()
+
+- [One page calendar 2020](https://davebakker.io/onepagecalendar)
 
 ### new Promise()
 
@@ -109,6 +113,10 @@
 - [I have noticed 23% reduction in bundle size..](https://twitter.com/kuldeepkeshwar/status/1206806003179642880)
 - https://www.youtube.com/user/samccone/playlists
 - [A simple middleware-style router for isomorphic JavaScript web apps.](https://github.com/kriasoft/universal-router)
+
+### Games
+
+- [A isometric city builder in JavaScript.](https://github.com/victorqribeiro/isocity)
 
 ### XSS
 

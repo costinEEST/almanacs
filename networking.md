@@ -33,7 +33,7 @@
 - https://www.alldaydevops.com/zap-in-ten
 - [Wireshark accelerator keys cheatsheet](http://syn-bit.nl/files/wireshark-v3.0-keyboard-shortcuts.pdf)
 - https://jayswan.github.io/2015/01/02/my-network-toolkit
-
+- [What: A terminal tool to check what is taking up your bandwidth](https://github.com/imsnif/bandwhich)
 
 ### Routing
 
@@ -63,6 +63,7 @@
 - https://twitter.com/jgbarah/status/1177480451193131009
 
 ### DNS
+
 - [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
 
 ### Host header
@@ -76,7 +77,7 @@
 - https://github.com/facundofarias/awesome-websockets#protocols-and-apis
 - [Why did JSON-RPC over Websockets never displace the mindshare that HTTP/REST has?](https://twitter.com/pfrazee/status/1200079831066718208)
 - https://medium.com/swlh/hacking-websocket-25d3cba6a4b9
-- https://2018.pycon-au.org/talks/45211-a-beginners-guide-to-websockets 
+- https://2018.pycon-au.org/talks/45211-a-beginners-guide-to-websockets
 - [WiSH: WebSocket over HTTP](https://github.com/bidiweb/wish) + [video](https://learning.oreilly.com/videos/oscon-2017/9781491976227/9781491976227-video306784)
 - Redux + WebSockets: Let's build a real-time multiplayer game by Ian James: [part.1](https://learning.oreilly.com/videos/oscon-2018/9781492026075/9781492026075-video321523) + [part.2](https://learning.oreilly.com/videos/oscon-2018/9781492026075/9781492026075-video321917) + [part.3](https://learning.oreilly.com/videos/oscon-2018/9781492026075/9781492026075-video321916) + [part.4](https://learning.oreilly.com/videos/oscon-2018/9781492026075/9781492026075-video321915)
 - [WebSocket Tutorial - How WebSockets Work](https://youtu.be/pNxK8fPKstc)

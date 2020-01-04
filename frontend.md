@@ -13,7 +13,6 @@
 - https://fotis.xyz/tags/a11y
 - https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me/
 
-
 ### Color
 
 - [Happy Hues - Curated colors in context.](https://www.happyhues.co)
@@ -32,7 +31,6 @@
 
 - https://youmightnotneed.com/css/
 - [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
-
 
 ### Design
 
@@ -72,7 +70,7 @@
 
 - [Open source illustrations kit](https://illlustrations.co/)
 - https://github.com/melanierichards/resources/blob/master/resources/illo.md
-- https://github.com/coreui/coreui-icons
+- [Free icons - SVG, PNG, JavaScript & Icon Font - Over 1500 free vector icons · CoreUI Icons](https://github.com/coreui/coreui-icons)
 
 ### Art
 

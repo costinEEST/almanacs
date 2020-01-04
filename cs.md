@@ -13,6 +13,7 @@
 ### Talks
 
 - [GOTO 2016 • Pure Functional Programming in Excel • Felienne Hermans](https://youtu.be/0yKf8TrLUOw)
+- [Best Talks of 2019?](https://news.ycombinator.com/item?id=21858866)
 
 ### Books
 

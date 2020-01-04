@@ -22,7 +22,9 @@
 ### Startup
 
 - [Never Lost Again: The Google Mapping Revolution That Sparked New Industries and Augmented Our Reality.](https://www.amazon.com/Never-Lost-Again-Revolution-Industries/dp/0062673041)
-- [I grew Visa List to $5k per month in a year.](https://news.ycombinator.com/item?id=21796088)
+- [I grew Visa List to \$5k per month in a year.](https://news.ycombinator.com/item?id=21796088)
+- [Which is the most successful one-person business you heard of in 2019?](https://news.ycombinator.com/item?id=21908577)
+- [Some examples of people quickly accomplishing ambitious things together.](https://patrickcollison.com/fast)
 
 ### Investing
 
@@ -47,8 +49,8 @@
 - [What's a good book you read about a quirky, niche, or focused aspect of history?](https://twitter.com/chimeracoder/status/1207813952027156481)
 - [Recommendations on books and documentaries on tech companies/people?](https://news.ycombinator.com/item?id=17204467) + [What are some good tech documentaries to watch?](https://news.ycombinator.com/item?id=19188333)
 - [What are your favorite history of technology and innovation books?](https://twitter.com/hmason/status/636192085419409408) + [What's a good history of technology book?](https://news.ycombinator.com/item?id=18083620) + [What are your favorite books on the history of ideas and inventions?](https://news.ycombinator.com/item?id=13573664)
-- https://davepeck.org/2014/01/02/hacker-history-bookshelf + https://davepeck.org/2015/08/25/hacker-history-bookshelf-revisited 
-- [	Steve Jobs on why Xerox failed](https://news.ycombinator.com/item?id=18844370)
+- https://davepeck.org/2014/01/02/hacker-history-bookshelf + https://davepeck.org/2015/08/25/hacker-history-bookshelf-revisited
+- [ Steve Jobs on why Xerox failed](https://news.ycombinator.com/item?id=18844370)
 
 ### Essays
 

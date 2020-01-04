@@ -48,7 +48,8 @@
 
 - https://arkwright.github.io/event-sourcing.html
 - https://www.infoq.com/presentations/react-redux-state-management
-- https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c/
+- https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c
+- https://statecharts.github.io
 
 ### React Native
 

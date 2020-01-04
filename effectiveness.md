@@ -59,6 +59,8 @@
 - [Encoding video for the web](https://gist.github.com/Vestride/278e13915894821e1d6f)
 - https://devonzuegel.com/post/memex-my-personal-knowledge-base
 - outline - The fastest wiki and knowledge base for growing teams (Beautiful, feature rich, markdown compatible and open source): [tweet](https://twitter.com/binitamshah/status/1210950621131493377) + [repo](https://github.com/outline/outline)
+- [Self-hosted bookmark service.](https://github.com/sissbruecker/linkding)
+- [You Suck at Excel with Joel Spolsky](https://youtu.be/0nbkaYsR94c)
 
 ### Culture
 
@@ -84,6 +86,7 @@
 - https://devonzuegel.com/post/advice-on-writing
 - https://lethain.com/learned-writing-book
 - [What We See When We Read - Peter Mendelsund](https://www.amazon.com/gp/customer-reviews/R2P9ZQ6EDF7WF6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0804171637)
+- [Solo devs, how do you plan your development?](https://news.ycombinator.com/item?id=21905423)
 
 ### Drawing
 
@@ -96,7 +99,8 @@
 - [Anki setup for code and math cards](https://clementc.github.io/blog/2018/08/15/anki_setup)
 - https://devonzuegel.com/post/thoughts-on-spaced-repetition
 - [Make it stick](https://twitter.com/housecor/status/1206567954906800128)
-- https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius 
+- https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius
+- https://quanticdev.com/articles/most-valuable-thing-to-learn-in-one-hour
 
 ### Thinking
 

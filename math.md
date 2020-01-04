@@ -10,6 +10,7 @@
 ### Books
 
 - [Introduction to Graph Theory (Dover Books on Mathematics)](https://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709)
+- http://danaernst.com/resources/free-and-open-source-textbooks
 
 ### Courses
 

@@ -9,8 +9,6 @@
 ### Health
 
 - [9 Fitness and Health Gift Ideas 2020](https://youtu.be/G9n51Xtcm_A)
-- [Aspirator Complete C3 TotalCare EcoLine - SGJP3](https://shop.miele.ro/aspirator-complete-c3-totalcare-ecoline-sgjp3/pd/402)
-- [ROWENTA ASPIRATOR CU SAC SILENCE FORCE ANIMAL CARE 5**\*** RO6493EA](https://www.rowenta.ro/%C3%8ENGRIJIREA-LOCUIN%C8%9AEI/Aspiratoare-cu-sac/ASPIRATOR-CU-SAC-SILENCE-FORCE-ANIMAL-CARE-5-RO6493EA/p/2211400179)
 
 ### Recording
 

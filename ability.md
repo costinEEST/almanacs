@@ -12,6 +12,10 @@
 - https://benmccormick.org/2019-roundup 
 - https://www.amazon.com/Chasing-Rabbit-Outdistance-Competition-Christensen-ebook/dp/B0015DWJ8M
 
+### Parenting
+
+- https://www.amazon.com/Conscious-Parent-Transforming-Ourselves-Empowering/dp/1897238452
+
 ### Mindfulness
 
 - https://www.amazon.com/Presence-Process-Healing-Journey-Awareness/dp/0825305373
