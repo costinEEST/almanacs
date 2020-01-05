@@ -19,6 +19,12 @@
 
 - [Technology Strategy Patterns: Architecture as Strategy](https://learning.oreilly.com/library/view/technology-strategy-patterns/9781492040866)
 
+### Culture
+
+- https://awesometalks.party/category/company-culture
+- https://awesometalks.party/category/agile
+- [Do you know any SaaS businesses that have been equally public with their company culture and published a company manual?](https://twitter.com/arvidkahl/status/1213506047341715457)
+
 ### Startup
 
 - [Never Lost Again: The Google Mapping Revolution That Sparked New Industries and Augmented Our Reality.](https://www.amazon.com/Never-Lost-Again-Revolution-Industries/dp/0062673041)

@@ -50,10 +50,16 @@
 - https://www.infoq.com/presentations/react-redux-state-management
 - https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c
 - https://statecharts.github.io
+- [Immer over Immutable](https://twitter.com/acemarke/status/1213573285314809856)
 
 ### React Native
 
+- https://github.com/dabbott/react-native-express
+- https://github.com/wix/react-native-crash-course
+- https://www.manning.com/books/react-native-in-action
 - Run an app on 6 different platforms with the Exact same Codebase: [tweet](https://twitter.com/Baconbrix/status/1206583601648820224) + [talk](https://youtu.be/ykBxY01j_rA)
+- [Best way to share logic between a React web application and a React Native application?](https://twitter.com/gethackteam/status/1213527792144592896)
+- [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
 
 ### Packages
 
@@ -70,6 +76,7 @@
 
 - https://github.com/usfslk/ReactDarkMode
 - https://github.com/Zackazt/React-Chat-Tutorial
+- [Excalibur, drawing..](https://twitter.com/Vjeux/status/1212503324982792193) + https://twitter.com/Vjeux/status/1213259044724432896
 
 ### Charts
 

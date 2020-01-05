@@ -36,6 +36,7 @@
 - [Useful bash one-liners for bio-informatics](https://github.com/stephenturner/oneliners)
 - [PC with Windows 10 embedded product key and wanna get it from within Linux](https://twitter.com/grufwub/status/1204511341219848194)
 - https://github.com/jgm/scripts
+- [Clear the line.](https://twitter.com/chaignc/status/1213412331876732928)
 
 ### Mac
 
@@ -61,11 +62,7 @@
 - outline - The fastest wiki and knowledge base for growing teams (Beautiful, feature rich, markdown compatible and open source): [tweet](https://twitter.com/binitamshah/status/1210950621131493377) + [repo](https://github.com/outline/outline)
 - [Self-hosted bookmark service.](https://github.com/sissbruecker/linkding)
 - [You Suck at Excel with Joel Spolsky](https://youtu.be/0nbkaYsR94c)
-
-### Culture
-
-- https://awesometalks.party/category/company-culture
-- https://awesometalks.party/category/agile
+- [One of my favorite features of Evernote is its mobile document "scanner".](https://twitter.com/devonzuegel/status/1213576043694632963)
 
 ### Books
 

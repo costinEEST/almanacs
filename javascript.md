@@ -67,6 +67,7 @@
 ### Array.prototype.reduce()
 
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
+- https://twitter.com/jaffathecake/status/1213084405666910214
 
 ### new Date()
 

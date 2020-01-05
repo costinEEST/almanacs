@@ -31,6 +31,7 @@
 
 - https://youmightnotneed.com/css/
 - [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
+- https://github.com/shuhei/knowledge/blob/master/browser.md#css
 
 ### Design
 
@@ -102,6 +103,7 @@
 - [future-web-perf by Vitaly Friedman](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf)
 - https://github.com/melanierichards/resources/blob/master/resources/performance.md
 - https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
+- https://github.com/shuhei/knowledge/blob/master/web-perf.md
 
 ### Miscellaneous
 

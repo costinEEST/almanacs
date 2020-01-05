@@ -44,10 +44,12 @@
 - [3G & 4G Frequency List](https://support.alwaysonlinewireless.com/hc/en-us/articles/115002446723-3G-4G-Frequency-List)
 - [A disaster-resilient communications network powered by the sun](https://disaster.radio)
 - [The Magical Science of Wi-Fi on Airplanes](https://onezero.medium.com/what-makes-it-possible-to-browse-the-internet-at-35-000-feet-1afaea83eb5)
+- [Notes and resorce's for SDR/Wireless tech.](https://github.com/notpike/SDR-Notes)
 
 ### TCP
 
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
+- https://github.com/shuhei/knowledge/blob/master/network.md#tcp
 
 ### UDP
 
@@ -89,7 +91,8 @@
 
 ### SSH
 
-- [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained/)
+- [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained)
+- https://community.turgensec.com/ssh-hacking-guide
 
 ### Miscellaneous
 
