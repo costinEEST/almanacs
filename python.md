@@ -15,6 +15,10 @@
 
 - [How does Two-Factor Authentication - 2FA work?](https://youtu.be/yhoK8JelGgM)
 
+### Tools
+
+- Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier: [repo](https://github.com/byt3bl33d3r/WitnessMe) + [video](https://www.youtube.com/watch?v=xMeJoaEJshQ)
+
 ### Boots
 
 - https://github.com/musically-ut/first-timers-only-bot
