@@ -44,10 +44,16 @@
 - [3G & 4G Frequency List](https://support.alwaysonlinewireless.com/hc/en-us/articles/115002446723-3G-4G-Frequency-List)
 - [A disaster-resilient communications network powered by the sun](https://disaster.radio)
 - [The Magical Science of Wi-Fi on Airplanes](https://onezero.medium.com/what-makes-it-possible-to-browse-the-internet-at-35-000-feet-1afaea83eb5)
+- [Notes and resorce's for SDR/Wireless tech.](https://github.com/notpike/SDR-Notes)
+
+### 5G
+
+- https://ieeetv.ieee.org/conference-highlights/integrated-access-and-backhaul-in-5g-navid-abedini-ieee-sarnoff-symposium-2019
 
 ### TCP
 
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
+- https://github.com/shuhei/knowledge/blob/master/network.md#tcp
 
 ### UDP
 
@@ -87,11 +93,18 @@
 - [The cutest little WebSocket wrapper! 🧦](https://github.com/lukeed/sockette)
 - [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
 - https://simpl.info/websocket
+- https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html + https://youtu.be/lrPPMDNpgdY
+
+### P2P
+
+- https://github.com/kgryte/awesome-peer-to-peer
 
 ### SSH
 
-- [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained/)
+- [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained)
+- https://community.turgensec.com/ssh-hacking-guide
 
 ### Miscellaneous
 
 - https://github.com/alphaSeclab/awesome-network-stuff/blob/master/Readme_en.md
+- https://github.com/kdeldycke/awesome-falsehood#networks

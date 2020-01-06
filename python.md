@@ -9,6 +9,11 @@
 ### Quirks
 
 - Exploring Python through counter-intuitive snippets.](https://github.com/satwikkansal/wtfpython)
+- https://www.b-list.org/weblog/2018/nov/26/case/
+
+### Authentication
+
+- [How does Two-Factor Authentication - 2FA work?](https://youtu.be/yhoK8JelGgM)
 
 ### Boots
 

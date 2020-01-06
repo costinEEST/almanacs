@@ -4,7 +4,12 @@
 - https://devonzuegel.com/post/ode-to-audio-why-you-should-give-podcasts-and-audiobooks-a-chance + https://devonzuegel.com/post/podcast-audiobook-starter-kit
 - https://www.notion.so/tools-and-craft
 - https://softskills.audio
-- https://soundcloud.com/stephenwolfram/
+- https://soundcloud.com/stephenwolfram
+- https://www.listennotes.com/podcasts/stuff-to-blow-your/from-the-vault-the-dark-side-ekXr_6qTB9Q
+
+### Movies
+
+- [The Farewell (2019)](https://twitter.com/ourobororoboruo/status/1211559669094699009)
 
 ### Board games
 
@@ -30,6 +35,7 @@
 - [The Mezzanine](https://twitter.com/sewsueme/status/1206803619644923904)
 - [The Overstory by Richard Powers](https://twitter.com/robertwmcguire/status/1206578703783911427)
 - [Children of Time](https://twitter.com/BlastLogos/status/1206558816332066816)
+- [Cel mai iubit dintre pământeni (quote)](https://coltulcultural.wordpress.com/2020/01/05/citatul-de-duminica-farmecul-unei-fiinte-straine)
 
 ### Sociology
 
@@ -48,6 +54,10 @@
 ### History
 
 - [Upheaval: Turning Points for Nations in Crisis by Jared Diamond (2019)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#upheaval)
+
+### Archeology
+
+- ["Against the Grain" by James C. Scott](https://twitter.com/devonzuegel/status/1212414927777992705)
 
 ### Stoicism
 
@@ -84,6 +94,10 @@
 - http://www.carteadelaora5.ro/ti-a-placut-serialul-cernobil-scenaristul-fenomenului-iti-recomanda-ce-sa-citesti-acum
 - [What happened to Romania’s revolutionaries 30 years on?](https://amp.ft.com/content/5e5460b6-1c29-11ea-9186-7348c2f183af)
 - [The children of the turning point](https://vimeo.com/24124392)
+
+### Music
+
+- [Can anyone suggest a Guitar for beginners?](https://twitter.com/divyanshub024/status/1212427300345503744)
 
 ### Skateboarding
 

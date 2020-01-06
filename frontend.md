@@ -37,6 +37,7 @@
 
 - https://youmightnotneed.com/css/
 - [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
+- https://github.com/shuhei/knowledge/blob/master/browser.md#css
 
 ### Design
 
@@ -64,7 +65,8 @@
 - https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
 - [Typography Resources: for Sketch & Web](https://pnowell.com/net-typography)
 - How to implement max-font-size? [tweet](https://twitter.com/starsandrobots/status/1199757377286754309) + [stackoverflow](https://stackoverflow.com/questions/40528290/how-to-implement-max-font-size/53146935#53146935)
-- https://muffingroup.com/blog/best-free-fonts/
+- https://muffingroup.com/blog/best-free-fonts
+- https://github.com/RoelN/Font-Falsehoods
 
 ### Animations
 
@@ -108,6 +110,7 @@
 - [future-web-perf by Vitaly Friedman](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf)
 - https://github.com/melanierichards/resources/blob/master/resources/performance.md
 - https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
+- https://github.com/shuhei/knowledge/blob/master/web-perf.md
 
 ### Demos
 

@@ -11,3 +11,4 @@
 ### References
 
 - https://github.com/rmolinamir/typescript-cheatsheet
+- https://github.com/shuhei/knowledge/blob/master/typescript.md#detect-optional-fields

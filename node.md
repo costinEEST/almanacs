@@ -19,6 +19,10 @@
 
 - [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
 
+### .stream()
+
+- [Stream into the Future - Matteo Collina, NearForm](https://youtu.be/dEFdt_6fW-0)
+
 ### Tools
 
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
@@ -40,6 +44,7 @@
 - [Create graphs from your CommonJS, AMD or ES6 module dependencies.](https://github.com/pahen/madge)
 - [Packages and resources that work really well with https://github.com/zkat/npx](https://github.com/junosuarez/awesome-npx)
 - [Access the system clipboard (copy/paste) - cross-platform](https://github.com/sindresorhus/clipboard-cli)
+- [Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default.](https://github.com/dweinstein/node-google-play)
 
 ### API
 
@@ -51,7 +56,8 @@
 - [Apollo REST Data Sources with the Countries API](https://github.com/MoonHighway/countries-datasources)
 - Hands-on Application Building with GraphQL: [repo](https://github.com/lowsky/-Hands-on-Application-Building-with-GraphQL) + [video course](https://learning.oreilly.com/videos/hands-on-application-building/9781788991865)
 -  Scaling Your GraphQL Client: [tweet](https://twitter.com/mahoneymattj/status/1163276557546414081) + [slides](https://speakerdeck.com/mjmahone/scaling-your-graphql-client)
--  [Node scrapper for http://ctpcj.ro](https://github.com/Utwo/ctpcj-scraper)
+- [Node scrapper for http://ctpcj.ro](https://github.com/Utwo/ctpcj-scraper)
+- [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
 
 ### Security
 
@@ -75,3 +81,9 @@
 
 - [Building and deploying modern websites and apps - GitHub Universe 2019](https://youtu.be/KlO5Ksk7baQ)
 - [Would someone be willing to teach me how @netlify or @zeithq's deploy preview feature works?](https://twitter.com/TejasKumar_/status/1208378475771506688)
+- https://www.freecodecamp.org/news/complete-back-end-system-with-serverless
+- [Firebase Hosting in 6 steps.](https://twitter.com/rwieruch/status/1212773598492004352)
+
+### Miscellaneous
+
+- https://github.com/shuhei/knowledge/blob/master/nodejs.md

@@ -50,11 +50,20 @@
 - https://www.infoq.com/presentations/react-redux-state-management
 - https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c
 - https://statecharts.github.io
+<<<<<<< HEAD
 - https://github.com/stevekinney/react-state-management
+=======
+- [Immer over Immutable](https://twitter.com/acemarke/status/1213573285314809856)
+>>>>>>> fce2612d29a526a88208c6866d479a22c81fd13d
 
 ### React Native
 
+- https://github.com/dabbott/react-native-express
+- https://github.com/wix/react-native-crash-course
+- https://www.manning.com/books/react-native-in-action
 - Run an app on 6 different platforms with the Exact same Codebase: [tweet](https://twitter.com/Baconbrix/status/1206583601648820224) + [talk](https://youtu.be/ykBxY01j_rA)
+- [Best way to share logic between a React web application and a React Native application?](https://twitter.com/gethackteam/status/1213527792144592896)
+- [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
 
 ### Packages
 
@@ -73,6 +82,8 @@
 - https://github.com/Zackazt/React-Chat-Tutorial
 - https://github.com/codyogden/killedbygoogle
 - [A Youtube clone built in React, Redux, Redux-saga.](https://github.com/productioncoder/youtube-react)
+- [Excalibur, drawing..](https://twitter.com/Vjeux/status/1212503324982792193) + https://twitter.com/Vjeux/status/1213259044724432896
+- [Stay up to date with what is happening and what the users who you follow are working on Github.](https://github.com/arojunior/awesome-feed)
 
 ### Charts
 

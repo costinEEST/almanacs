@@ -67,6 +67,7 @@
 ### Array.prototype.reduce()
 
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
+- https://twitter.com/jaffathecake/status/1213084405666910214
 
 ### new Date()
 
@@ -102,6 +103,7 @@
 ### Testing
 
 - [End-to-end testing with NightwatchJS](https://www.youtube.com/playlist?list=PLHe-juD38yt4t38EsggDx2viWXz9Dc0OS)
+- https://testautomationu.applitools.com/jest-testing-tutorial/
 
 ### Virtual machines
 

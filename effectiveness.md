@@ -36,6 +36,9 @@
 - [Useful bash one-liners for bio-informatics](https://github.com/stephenturner/oneliners)
 - [PC with Windows 10 embedded product key and wanna get it from within Linux](https://twitter.com/grufwub/status/1204511341219848194)
 - https://github.com/jgm/scripts
+- [Clear the line.](https://twitter.com/chaignc/status/1213412331876732928)
+- [Check all gzip files in a directory tree.](https://twitter.com/rotnroll666/status/1211951342492753920)
+- [Get the number of cores on a machine.](https://twitter.com/ReplicaJune/status/1212645946867228672)
 
 ### Mac
 
@@ -57,15 +60,12 @@
 - [What software do they use to make this diagram?](https://twitter.com/vysecurity/status/1210661290785402880)
 - [So you've done some talks/presentations and used software for your slides.](https://twitter.com/TejasKumar_/status/1211314304953307136)
 - [Encoding video for the web](https://gist.github.com/Vestride/278e13915894821e1d6f)
+- https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html
 - https://devonzuegel.com/post/memex-my-personal-knowledge-base
 - outline - The fastest wiki and knowledge base for growing teams (Beautiful, feature rich, markdown compatible and open source): [tweet](https://twitter.com/binitamshah/status/1210950621131493377) + [repo](https://github.com/outline/outline)
 - [Self-hosted bookmark service.](https://github.com/sissbruecker/linkding)
 - [You Suck at Excel with Joel Spolsky](https://youtu.be/0nbkaYsR94c)
-
-### Culture
-
-- https://awesometalks.party/category/company-culture
-- https://awesometalks.party/category/agile
+- [One of my favorite features of Evernote is its mobile document "scanner".](https://twitter.com/devonzuegel/status/1213576043694632963)
 
 ### Books
 
