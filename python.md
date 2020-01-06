@@ -10,6 +10,10 @@
 
 - Exploring Python through counter-intuitive snippets.](https://github.com/satwikkansal/wtfpython)
 
+### Boots
+
+- https://github.com/musically-ut/first-timers-only-bot
+
 ### Security
 
 - [Got a shit shell?](https://twitter.com/Random_Robbie/status/1204041222542807043)

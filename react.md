@@ -50,6 +50,7 @@
 - https://www.infoq.com/presentations/react-redux-state-management
 - https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c
 - https://statecharts.github.io
+- https://github.com/stevekinney/react-state-management
 
 ### React Native
 
@@ -70,6 +71,8 @@
 
 - https://github.com/usfslk/ReactDarkMode
 - https://github.com/Zackazt/React-Chat-Tutorial
+- https://github.com/codyogden/killedbygoogle
+- [A Youtube clone built in React, Redux, Redux-saga.](https://github.com/productioncoder/youtube-react)
 
 ### Charts
 
