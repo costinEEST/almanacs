@@ -24,6 +24,7 @@
 ### Patterns
 
 - [Reusable Code In React: Inheritance, Composition, Decorators and Mixins.](https://benmccormick.org/2019/02/11/reusable-react)
+- [What are some React anti-patterns that you encounter often? Why are they dangerous?](https://twitter.com/TejasKumar_/status/1214259916376027137)
 
 ### Concurrent Mode/Suspense
 
@@ -50,11 +51,8 @@
 - https://www.infoq.com/presentations/react-redux-state-management
 - https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c
 - https://statecharts.github.io
-<<<<<<< HEAD
 - https://github.com/stevekinney/react-state-management
-=======
 - [Immer over Immutable](https://twitter.com/acemarke/status/1213573285314809856)
->>>>>>> fce2612d29a526a88208c6866d479a22c81fd13d
 
 ### React Native
 
