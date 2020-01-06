@@ -26,6 +26,7 @@ javascript: (() =>
 
 - [Trying out and demonstrating different browser APIs](https://github.com/vkallore/browser-apis)
 - https://github.com/deebloo/things-you-can-do-in-a-web-worker
+- [This repo contains a non exhaustive list of less-known features implemented in browsers today.](https://github.com/luruke/browser-2020)
 
 ### Cookies
 

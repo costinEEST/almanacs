@@ -77,6 +77,7 @@
 - https://github.com/usfslk/ReactDarkMode
 - https://github.com/Zackazt/React-Chat-Tutorial
 - [Excalibur, drawing..](https://twitter.com/Vjeux/status/1212503324982792193) + https://twitter.com/Vjeux/status/1213259044724432896
+- [Stay up to date with what is happening and what the users who you follow are working on Github.](https://github.com/arojunior/awesome-feed)
 
 ### Charts
 

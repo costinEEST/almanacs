@@ -56,6 +56,7 @@
 - [Apollo REST Data Sources with the Countries API](https://github.com/MoonHighway/countries-datasources)
 - Hands-on Application Building with GraphQL: [repo](https://github.com/lowsky/-Hands-on-Application-Building-with-GraphQL) + [video course](https://learning.oreilly.com/videos/hands-on-application-building/9781788991865)
 -  Scaling Your GraphQL Client: [tweet](https://twitter.com/mahoneymattj/status/1163276557546414081) + [slides](https://speakerdeck.com/mjmahone/scaling-your-graphql-client)
+- [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
 
 ### Security
 
@@ -78,6 +79,8 @@
 
 - [Building and deploying modern websites and apps - GitHub Universe 2019](https://youtu.be/KlO5Ksk7baQ)
 - [Would someone be willing to teach me how @netlify or @zeithq's deploy preview feature works?](https://twitter.com/TejasKumar_/status/1208378475771506688)
+- https://www.freecodecamp.org/news/complete-back-end-system-with-serverless
+- [Firebase Hosting in 6 steps.](https://twitter.com/rwieruch/status/1212773598492004352)
 
 ### Miscellaneous
 

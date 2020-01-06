@@ -65,3 +65,8 @@
 ### Newsletters
 
 - [David's Notes](https://davidsnotes.substack.com/archive)
+
+### Miscellaneous
+
+- https://github.com/kdeldycke/awesome-falsehood#business
+- https://github.com/kdeldycke/awesome-billing
