@@ -127,3 +127,4 @@
 - https://github.com/andrew--r/frontend-case-studies
 - https://github.com/fullstackio/30-days-of-web-development
 - [✨😂easy ways to add design flair, user delight, and whimsy to your product.](https://github.com/sw-yx/spark-joy)
+- https://github.com/JCGrant/awesome-hamartian-design

@@ -12,6 +12,7 @@
 - [VCs investing in synthetic biology](https://twitter.com/chrissyfarr/status/1179827098413928454)
 - https://github.com/Developer-Y/cs-video-courses#computational-biology
 - [I485 / H400 - Biologically Inspired Computation (Indiana University)](https://homes.sice.indiana.edu/rocha/academics/i-bic/index.php)
+- https://lostempireherbs.com/endocrine-disrupting-chemicals
 
 ### Anatomy
 

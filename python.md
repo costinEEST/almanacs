@@ -14,6 +14,7 @@
 ### Authentication
 
 - [How does Two-Factor Authentication - 2FA work?](https://youtu.be/yhoK8JelGgM)
+- [Become an Auth Boss. Learn about different authentication methodologies on the web. ](https://github.com/teesloane/Auth-Boss)
 
 ### Tools
 

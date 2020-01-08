@@ -52,4 +52,5 @@
 - https://github.com/kdeldycke/awesome-falsehood#meta
 - https://github.com/kdeldycke/awesome-falsehood#emails
 - https://github.com/kdeldycke/awesome-falsehood#dates-and-time
+- [The year 1900 was *not* a leap year](https://twitter.com/philwalton/status/1214268809122418688)
 - https://github.com/kdeldycke/awesome-falsehood#software-engineering

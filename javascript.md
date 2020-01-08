@@ -117,6 +117,10 @@
 - https://www.youtube.com/user/samccone/playlists
 - [A simple middleware-style router for isomorphic JavaScript web apps.](https://github.com/kriasoft/universal-router)
 
+### Maps
+
+- [A Web-based map of timezones as they are at a point in time. ](https://github.com/dbaron/timezone-map)
+
 ### Games
 
 - [A isometric city builder in JavaScript.](https://github.com/victorqribeiro/isocity)

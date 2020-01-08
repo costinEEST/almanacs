@@ -15,6 +15,7 @@
 ### Courses
 
 - https://github.com/Developer-Y/math-science-video-lectures#mathematics
+- https://github.com/ossu/computer-science#core-math + https://github.com/ossu/computer-science#advanced-math
 
 ### Miscellaneous
 
