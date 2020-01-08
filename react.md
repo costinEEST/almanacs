@@ -24,6 +24,7 @@
 ### Patterns
 
 - [Reusable Code In React: Inheritance, Composition, Decorators and Mixins.](https://benmccormick.org/2019/02/11/reusable-react)
+- [What are some React anti-patterns that you encounter often? Why are they dangerous?](https://twitter.com/TejasKumar_/status/1214259916376027137)
 
 ### Concurrent Mode/Suspense
 
@@ -50,6 +51,7 @@
 - https://www.infoq.com/presentations/react-redux-state-management
 - https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c
 - https://statecharts.github.io
+- https://github.com/stevekinney/react-state-management
 - [Immer over Immutable](https://twitter.com/acemarke/status/1213573285314809856)
 
 ### React Native
@@ -76,6 +78,8 @@
 
 - https://github.com/usfslk/ReactDarkMode
 - https://github.com/Zackazt/React-Chat-Tutorial
+- https://github.com/codyogden/killedbygoogle
+- [A Youtube clone built in React, Redux, Redux-saga.](https://github.com/productioncoder/youtube-react)
 - [Excalibur, drawing..](https://twitter.com/Vjeux/status/1212503324982792193) + https://twitter.com/Vjeux/status/1213259044724432896
 - [Stay up to date with what is happening and what the users who you follow are working on Github.](https://github.com/arojunior/awesome-feed)
 

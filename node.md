@@ -56,11 +56,13 @@
 - [Apollo REST Data Sources with the Countries API](https://github.com/MoonHighway/countries-datasources)
 - Hands-on Application Building with GraphQL: [repo](https://github.com/lowsky/-Hands-on-Application-Building-with-GraphQL) + [video course](https://learning.oreilly.com/videos/hands-on-application-building/9781788991865)
 -  Scaling Your GraphQL Client: [tweet](https://twitter.com/mahoneymattj/status/1163276557546414081) + [slides](https://speakerdeck.com/mjmahone/scaling-your-graphql-client)
+- [Node scrapper for http://ctpcj.ro](https://github.com/Utwo/ctpcj-scraper)
 - [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
 
 ### Security
 
 - [A Road Map for Node.js Security](https://nodesecroadmap.fyi)
+- https://github.com/lirantal/awesome-nodejs-security
 - [Security design pattern support for Node.js](https://github.com/mikesamuel/node-sec-patterns)
 - https://github.com/ChALkeR/notes
 

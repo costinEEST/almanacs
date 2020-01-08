@@ -2,6 +2,10 @@
 
 - [Remembrance of Tags Past](https://hero35.com/css-minsk-js/2019/remembrance-of-tags-past)
 
+### SEO
+
+- https://developers.google.com/search/docs/guides/intro-structured-data
+
 ### Accessibility
 
 - https://www.edx.org/course/web-accessibility-introduction
@@ -11,7 +15,8 @@
 - https://mismatch.design/resources/accessibility-resources/2018/07/14/introduction-to-disability-and-accessibility
 - [WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments. ](https://github.com/CoreyGinnivan/whocanuse)
 - https://fotis.xyz/tags/a11y
-- https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me/
+- https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me
+- https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
 
 ### Color
 
@@ -19,6 +24,7 @@
 - [Get random, accessible color combinations](https://randoma11y.com)
 - https://corey.ginnivan.net/crash-courses
 - https://github.com/sw-yx/spark-joy#color-picking
+- https://dribbble.com/shots/6454763-Color-Composition-Testing-Temp-late + https://twitter.com/JustinMezzell/status/1126168335140286464
 
 ### Unicode
 
@@ -105,6 +111,10 @@
 - https://github.com/melanierichards/resources/blob/master/resources/performance.md
 - https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
 - https://github.com/shuhei/knowledge/blob/master/web-perf.md
+
+### Demos
+
+- https://github.com/melanierichards/highlights
 
 ### Miscellaneous
 

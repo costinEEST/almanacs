@@ -92,7 +92,12 @@
 - [Leah Hanson - Inside Websockets](https://youtu.be/9FqjRN4VYUU)
 - [The cutest little WebSocket wrapper! 🧦](https://github.com/lukeed/sockette)
 - [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
+- https://simpl.info/websocket
 - https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html + https://youtu.be/lrPPMDNpgdY
+
+### P2P
+
+- https://github.com/kgryte/awesome-peer-to-peer
 
 ### SSH
 

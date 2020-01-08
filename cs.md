@@ -43,6 +43,7 @@
 - [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/Developer-Y/technical-interviews
+- https://github.com/karan/Projects
 
 ### Miscellaneous
 
