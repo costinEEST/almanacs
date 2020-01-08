@@ -99,6 +99,9 @@
 - https://briangrinstead.com/blog/firefox-webcomponents
 - https://github.com/shawnbot/custom-elements
 - [React's Hooks API implemented for web components.](https://github.com/matthewp/haunted)
+- https://github.com/paulirish/lite-youtube-embed 
+- https://github.com/luwes/lite-vimeo-embed
+- https://github.com/davatron5000/awesome-standalones
 
 ### Testing
 
@@ -135,3 +138,4 @@
 - [Cloudflare XSS WAF bypass](https://twitter.com/RenwaX23/status/1147130091031449601)
 - https://github.com/RenwaX23/XSS-Payloads
 - https://medium.com/@terjanq/clobbering-the-clobbered-vol-2-fb199ad7ec41
+- [Most advanced XSS scanner.](https://github.com/s0md3v/XSStrike)
