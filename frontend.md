@@ -86,11 +86,6 @@
 - https://github.com/melanierichards/resources/blob/master/resources/pixel-art.md
 - [Fun with Ascii: Putting some console art on my site](https://benmccormick.org/ascii-kusty)
 
-### Charts
-
-- http://www.thefunctionalart.com
-- https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921
-- [Thread of books I have used and referenced when preparing and giving a #cartography and #GIS](https://twitter.com/ramiroaznar/status/1210269334830026755)
 
 ### UX
 
