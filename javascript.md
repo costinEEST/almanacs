@@ -7,6 +7,10 @@
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
+### AST
+
+- https://github.com/pshrmn/notes/blob/master/ast/nodes.md
+
 ### Patterns
 
 - https://viorel.me/2019/simple-undo-redo-functionality-in-js-using-memento/
@@ -123,6 +127,13 @@
 ### Maps
 
 - [A Web-based map of timezones as they are at a point in time. ](https://github.com/dbaron/timezone-map)
+
+### Charts
+
+- http://www.thefunctionalart.com
+- https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921
+- [Thread of books I have used and referenced when preparing and giving a #cartography and #GIS](https://twitter.com/ramiroaznar/status/1210269334830026755)
+- https://github.com/pshrmn/notes/tree/master/d3
 
 ### Games
 

@@ -39,6 +39,11 @@
 
 - [How do I pass props to a route component?](https://twitter.com/ryanflorence/status/1206643654753783808)
 
+### Animations
+
+- https://github.com/pshrmn/notes/blob/master/react/animation.md
+- [Mobile First Animation in React](https://twitter.com/addyosmani/status/1214428544303915013)
+
 ### Server side rendering
 
 - https://arkwright.github.io/scaling-react-server-side-rendering.html
@@ -53,6 +58,10 @@
 - https://statecharts.github.io
 - https://github.com/stevekinney/react-state-management
 - [Immer over Immutable](https://twitter.com/acemarke/status/1213573285314809856)
+
+### PWA
+
+- [A cheat sheet for tailwind css built in react.js](https://github.com/ivan-rey-cv/tailwindcss-cheatsheet-react-pwa)
 
 ### React Native
 
