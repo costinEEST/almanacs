@@ -19,6 +19,10 @@
 
 - [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
 
+### Event loop
+
+- https://davidhettler.net/blog/event-loop-lag
+
 ### .stream()
 
 - [Stream into the Future - Matteo Collina, NearForm](https://youtu.be/dEFdt_6fW-0)
@@ -28,6 +32,7 @@
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
 - [Displays JSON files in a flat format.](https://github.com/soheilpro/catj)
 - [A tinyURL service powered by node.js, express.js and a reddis database.](https://github.com/shahzeb1/nodejs-tinyURL)
+- https://nodesource.com/blog/memory-leaks-demystified 
 
 ### Authentication
 

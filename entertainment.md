@@ -10,6 +10,7 @@
 ### Movies
 
 - [The Farewell (2019)](https://twitter.com/ourobororoboruo/status/1211559669094699009)
+- https://github.com/philsturgeon/awesome-earth#documentaries
 
 ### Board games
 
@@ -50,6 +51,7 @@
 
 - [Uzina Mecanică Tohan Zărnești](https://goo.gl/maps/RKeFjZRjWTUtTnYs7)
 - https://devonzuegel.com/post/building-a-personal-map
+- https://www.quora.com/What-is-visiting-Serbia-like
 
 ### History
 
@@ -64,6 +66,10 @@
 - [I. Epictetus](https://standardebooks.org/ebooks/epictetus/the-enchiridion/elizabeth-carter) + [II. Seneca](https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart) + [III. Marcus Aurelius](https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long)
 - [The Manual. A Philosopher's Guide to Life - Epictetus](https://www.indiebound.org/book/9781545461112)
 - [A Guide to The Good Life - William Irvine](https://youtu.be/BjScQSQpst8)
+
+### Buddhism
+
+- What Makes You Not a Buddhist: [review + some recommended books](https://www.goodreads.com/review/show/1820538290)
 
 ### Philosophy
 

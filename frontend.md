@@ -38,6 +38,7 @@
 - https://youmightnotneed.com/css/
 - [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
 - https://github.com/shuhei/knowledge/blob/master/browser.md#css
+- https://gist.github.com/pburtchaell/e702f441ba9b3f76f587
 
 ### Design
 
@@ -115,6 +116,7 @@
 ### Demos
 
 - https://github.com/melanierichards/highlights
+- [My personal website feat. Gatsby https://psb.design](https://github.com/pburtchaell/psb.design)
 
 ### Miscellaneous
 
