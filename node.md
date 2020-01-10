@@ -2,6 +2,7 @@
 
 - [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
 - [How do you sync .env files (project specific) that are git-ignored between different computers?](https://twitter.com/thekitze/status/1207718292149952512)
+- [nvm install node --reinstall-packages-from=node](https://twitter.com/mtliendo/status/1215382381026316290)
 
 ### Courses
 
@@ -33,6 +34,12 @@
 - [Displays JSON files in a flat format.](https://github.com/soheilpro/catj)
 - [A tinyURL service powered by node.js, express.js and a reddis database.](https://github.com/shahzeb1/nodejs-tinyURL)
 - https://nodesource.com/blog/memory-leaks-demystified 
+- [Authoring, publishing and working with commonjs and esm.](https://github.com/manuelbieh/authoring-modules-in-node)
+- [Create graphs from your CommonJS, AMD or ES6 module dependencies.](https://github.com/pahen/madge)
+- [Packages and resources that work really well with https://github.com/zkat/npx](https://github.com/junosuarez/awesome-npx)
+- [Access the system clipboard (copy/paste) - cross-platform](https://github.com/sindresorhus/clipboard-cli)
+- [Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default.](https://github.com/dweinstein/node-google-play)
+- [Download a web page to a local directory.](https://github.com/papandreou/bringhome)
 
 ### Authentication
 
@@ -43,13 +50,6 @@
 - [Authentication fundamentals: The basics | Azure Active Directory](https://youtu.be/fbSVgC8nGz4)
 - [The best website that teaches the value/need of 2FA to beginners](https://twitter.com/rauchg/status/1206662873776132096)
 
-### Packages
-
-- [Authoring, publishing and working with commonjs and esm.](https://github.com/manuelbieh/authoring-modules-in-node)
-- [Create graphs from your CommonJS, AMD or ES6 module dependencies.](https://github.com/pahen/madge)
-- [Packages and resources that work really well with https://github.com/zkat/npx](https://github.com/junosuarez/awesome-npx)
-- [Access the system clipboard (copy/paste) - cross-platform](https://github.com/sindresorhus/clipboard-cli)
-- [Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default.](https://github.com/dweinstein/node-google-play)
 
 ### API
 
@@ -92,3 +92,4 @@
 ### Miscellaneous
 
 - https://github.com/shuhei/knowledge/blob/master/nodejs.md
+- https://github.com/ElemeFE/node-interview

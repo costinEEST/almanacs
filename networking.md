@@ -99,6 +99,10 @@
 
 - https://github.com/kgryte/awesome-peer-to-peer
 
+### IFPS
+
+- https://github.com/ipfs-shipyard/ipfs-primer + https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/
+
 ### SSH
 
 - [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained)

@@ -15,6 +15,7 @@
 ### Parenting
 
 - https://www.amazon.com/Conscious-Parent-Transforming-Ourselves-Empowering/dp/1897238452
+- https://github.com/hackerkid/Mind-Expanding-Books#education
 
 ### Mindfulness
 
@@ -42,6 +43,7 @@
 ### Improvisation
 
 - https://trupaarthesium.ro/cursuri-de-teatru
+- https://github.com/hackerkid/Mind-Expanding-Books#theater-and-film
 
 
 ### Cooking

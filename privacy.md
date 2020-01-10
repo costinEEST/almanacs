@@ -8,4 +8,5 @@
 - https://jvns.ca/blog/how-tracking-pixels-work
 - https://andreyromanov.com/writing/2019/12/01/dns-adblock
 - [Public adblocking DoH server.](https://twitter.com/nys0s/status/1211570679151284224)
-- https://securityespresso.org/tutorials/2019/03/22/vpn-server-using-wireguard-on-ubuntu/
+- https://securityespresso.org/tutorials/2019/03/22/vpn-server-using-wireguard-on-ubuntu
+- [Encouraging wholesome media with filters.](https://trevordmiller.com/posts/media/)

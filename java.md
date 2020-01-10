@@ -6,10 +6,14 @@
 
 - https://twitter.com/psobot/status/1204887283666685954
 
-### Miscellaneous
+### Tools
 
-- https://github.com/Developer-Y/all-things-java
+- [Google Reader inspired self-hosted RSS reader.](https://github.com/Athou/commafeed)
 
 ### Security
 
 - [A quick methodology on testing / hacking SAP Applications for n00bz and bug bounty hunters.](https://github.com/shipcod3/mySapAdventures)
+
+### Miscellaneous
+
+- https://github.com/Developer-Y/all-things-java

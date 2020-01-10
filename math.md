@@ -17,6 +17,12 @@
 - https://github.com/Developer-Y/math-science-video-lectures#mathematics
 - https://github.com/ossu/computer-science#core-math + https://github.com/ossu/computer-science#advanced-math
 
+### Videos
+
+- [Tutorials by Inigo Quilez](https://www.youtube.com/playlist?list=PL0EpikNmjs2CYUMePMGh3IjjP4tQlYqji)
+- [CG Experiments and Demos by Inigo Quilez](https://www.youtube.com/playlist?list=PL0EpikNmjs2Dz45-Ru7Rfp8zQ48fI5QOa)
+- [Math by Inigo Quilez](https://www.youtube.com/playlist?list=PL0EpikNmjs2BQr3b2WtTlmhEWHs_Tcm1R)
+
 ### Miscellaneous
 
 - [Rocket Men by Robert Kurson](https://twitter.com/Yaz17657882/status/1206566643142258691)

@@ -1,6 +1,7 @@
 ### HTML
 
 - [Remembrance of Tags Past](https://hero35.com/css-minsk-js/2019/remembrance-of-tags-past)
+- https://vanillajspodcast.com/html-is-a-living-language
 
 ### SEO
 
@@ -25,6 +26,7 @@
 - https://corey.ginnivan.net/crash-courses
 - https://github.com/sw-yx/spark-joy#color-picking
 - https://dribbble.com/shots/6454763-Color-Composition-Testing-Temp-late + https://twitter.com/JustinMezzell/status/1126168335140286464
+- https://dribbble.com/stories/2020/01/08/color-palette-exploration
 
 ### Unicode
 
@@ -32,6 +34,7 @@
 - https://www.compart.com/en/unicode
 - [Query the Unicode database from the command line, with good support for emojis](https://github.com/arp242/uni)
 - [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
+- [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
 
 ### CSS
 
@@ -44,6 +47,8 @@
 
 - [Everybody calling the Cybertruck "brutalist" is wrong.](https://www.inverse.com/article/61479-cybertruck-brutalism-not-really)
 - [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)
+- https://www.abstract.com/blog/product-design-in-2020s
+- https://medium.com/swiggydesign/how-i-started-motion-design-using-high-school-physics-fa6cdbf12cde
 
 ### Design Systems
 
@@ -108,10 +113,16 @@
 - https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
 - https://github.com/shuhei/knowledge/blob/master/web-perf.md
 
-### Demos
+### Portfolios
 
 - https://github.com/melanierichards/highlights
 - [My personal website feat. Gatsby https://psb.design](https://github.com/pburtchaell/psb.design)
+
+### Inspire
+
+- https://dribbble.com/shots/9296597-Rotating-Cuboid-Form-CSS-Animation-Instant-Browser-Validation + https://codepen.io/leenalavanya/full/rNaYZJN
+- https://dribbble.com/shots/9323743-Furniture-Shopping-3D
+- https://dribbble.com/shots/9357635-Schedule-Demo-Exploration
 
 ### Miscellaneous
 
@@ -125,3 +136,5 @@
 - https://github.com/fullstackio/30-days-of-web-development
 - [✨😂easy ways to add design flair, user delight, and whimsy to your product.](https://github.com/sw-yx/spark-joy)
 - https://github.com/JCGrant/awesome-hamartian-design
+- [..articles in the frontend and web dev space that are timeless and changed your perspective in some way.](https://twitter.com/PKodmad/status/1194381059950927872)
+- https://github.com/neutraltone/awesome-stock-resources

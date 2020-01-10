@@ -12,6 +12,7 @@
 
 - [Our Magnificent Bastard Tongue: The Untold History of English.](https://www.amazon.com/Our-Magnificent-Bastard-Tongue-History/dp/1592404944)
 - [Books on Linguistics and TESOL](https://www.youtube.com/playlist?list=PLOY-0V_l_9x5zyZvaYnc-TuZjDuX-txNS)
+- https://github.com/hackerkid/Mind-Expanding-Books#language
 
 ### Applications
 

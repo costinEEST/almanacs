@@ -55,7 +55,8 @@
 - https://arkwright.github.io/event-sourcing.html
 - https://www.infoq.com/presentations/react-redux-state-management
 - https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c
-- https://statecharts.github.io
+- https://statecharts.github.io 
+- https://news.ycombinator.com/item?id=19269227 + https://www.goodreads.com/book/show/4589003-constructing-the-user-interface-with-statecharts + https://www.semanticscholar.org/paper/Constructing-the-User-Interface-with-Statecharts-Horrocks/84bf884f9ea305b52f316285ca66e7a028fde661
 - https://github.com/stevekinney/react-state-management
 - [Immer over Immutable](https://twitter.com/acemarke/status/1213573285314809856)
 
@@ -71,6 +72,7 @@
 - Run an app on 6 different platforms with the Exact same Codebase: [tweet](https://twitter.com/Baconbrix/status/1206583601648820224) + [talk](https://youtu.be/ykBxY01j_rA)
 - [Best way to share logic between a React web application and a React Native application?](https://twitter.com/gethackteam/status/1213527792144592896)
 - [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
+- https://github.com/victorkvarghese/react-native-messenger
 
 ### Packages
 

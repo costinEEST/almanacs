@@ -40,6 +40,7 @@
 - [Clear the line.](https://twitter.com/chaignc/status/1213412331876732928)
 - [Check all gzip files in a directory tree.](https://twitter.com/rotnroll666/status/1211951342492753920)
 - [Get the number of cores on a machine.](https://twitter.com/ReplicaJune/status/1212645946867228672)
+- [You can get a site's html and all of the page's dependencies with a single wget command.](https://twitter.com/philhawksworth/status/1214942635300982785)
 
 ### Mac
 
@@ -89,6 +90,7 @@
 - [What We See When We Read - Peter Mendelsund](https://www.amazon.com/gp/customer-reviews/R2P9ZQ6EDF7WF6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0804171637)
 - [Solo devs, how do you plan your development?](https://news.ycombinator.com/item?id=21905423)
 - [What's the right name for a document that projects costs & income over time given conversation/churn rates, growth etc?](https://twitter.com/jlongster/status/1214259525072642049)
+- https://github.com/hackerkid/Mind-Expanding-Books#writing
 
 ### Drawing
 
