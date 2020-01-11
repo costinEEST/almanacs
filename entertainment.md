@@ -11,6 +11,9 @@
 
 - [The Farewell (2019)](https://twitter.com/ourobororoboruo/status/1211559669094699009)
 - https://github.com/philsturgeon/awesome-earth#documentaries
+- https://www.youtube.com/user/CaptainDisillusion/playlists
+- https://www.youtube.com/user/everyframeapainting/playlists
+- https://www.youtube.com/user/engineerguyvideo/playlists
 
 ### Board games
 
@@ -73,15 +76,32 @@
 
 ### Philosophy
 
+- https://www.youtube.com/user/gbisadler/playlists
 - [Alain de Botton - The Consolations of Philosophy](https://www.youtube.com/playlist?list=PLxRuhrcSjnv2weFRcqOeCpk4Wy7_hay2j)
+- [What is Creativity? by Philosophy Tube](https://www.youtube.com/playlist?list=PLvoAL-KSZ32e_YiWc3ButEMXx3KuSa8kL)
 
 ### Qabalah
 
 - https://www.amazon.com/Mystical-Qabalah-Dion-Fortune/dp/1578631505
 
+
+### Painting/Drawing
+
+- https://www.youtube.com/user/marcobucci/playlists
+- https://www.youtube.com/user/ProkoTV/playlists + https://www.proko.com/library/#.XhkJciOxVPa
+
 ### Architecture
 
 - https://devonzuegel.com/post/cities-reading-list + https://twitter.com/michael_nielsen/status/975886747870441472
+- https://www.youtube.com/user/30by40/playlists
+
+### Build
+
+- https://www.youtube.com/user/MattRisinger/playlists
+- [Essential Craftsman](https://www.youtube.com/channel/UCzr30osBdTmuFUS8IfXtXmg/playlists)
+- [Six Points Wood Works](https://www.youtube.com/user/scott2640/playlists)
+- https://www.youtube.com/user/TipsfromaShipWright/playlists
+- https://www.youtube.com/user/urbanTrash/playlists
 
 ### Advertising
 
@@ -112,3 +132,6 @@
 ### Chess
 
 - [A few snippets from ♟️ history](https://twitter.com/DorsaAmir/status/1199690290065530881)
+- https://www.youtube.com/channel/UCqLLqbclDQ6IQg39Wsgy-4w/playlists
+- https://www.youtube.com/playlist?list=PLVWaFpMwtaGiBxi79IUqnqn67WF5g5PR4
+- https://www.youtube.com/results?search_query=svidler+chess24+playlist

@@ -12,3 +12,5 @@
 
 - https://japaniot.github.io/2020/01/01/how-i-automate-my-home-en
 - [Rhasspy (pronounced RAH-SPEE) is an open source, fully offline voice assistant toolkit for many languages that works well with Home Assistant, Hass.io, and Node-RED.](https://rhasspy.readthedocs.io/en/latest/)
+- https://www.youtube.com/user/greatscottlab/playlists
+- https://www.youtube.com/user/mcwhorpj/playlists

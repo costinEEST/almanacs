@@ -68,6 +68,7 @@
 - [Self-hosted bookmark service.](https://github.com/sissbruecker/linkding)
 - [You Suck at Excel with Joel Spolsky](https://youtu.be/0nbkaYsR94c)
 - [One of my favorite features of Evernote is its mobile document "scanner".](https://twitter.com/devonzuegel/status/1213576043694632963)
+- [CFCC - CTS 130 - Spreadsheets](https://www.youtube.com/playlist?list=PL9gfSIdua13hRbXvsJAgBWZOGrqeI0_ul)
 
 ### Books
 

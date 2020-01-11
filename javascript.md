@@ -47,6 +47,11 @@
 - [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
 - https://hilarymason.com/2017/02/17/bad-idea-fridays-an-app-for-talking-to-myself
 - https://www.amazon.com/How-Listen-Jazz-Ted-Gioia/dp/0465060897
+- [Technology Connections](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q/playlists)
+- [Sound by Tech Ingredients](https://www.youtube.com/playlist?list=PLzrI14lOlSqeCgDH9zJb-qRKem9fTT2Tj)
+- [Why analog audio within the accepted limits of human hearing (20 Hz to 20 kHz) can be reproduced with perfect fidelity using a 44.1 kHz 16 Bit digital signal.](https://youtu.be/cIQ9IXSUzuM)
+- [Marty Music](https://www.youtube.com/channel/UCmnlTWVJysjWPFiZhQ5uudg/playlists)
+- [Signals Music Studio](https://www.youtube.com/channel/UCRDDHLvQb8HjE2r7_ZuNtWA/playlists)
 
 ### Video
 

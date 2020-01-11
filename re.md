@@ -2,6 +2,7 @@
 
 - [Commands and Tools for Embedded Reverse Engineering](https://www.pentestpartners.com/security-blog/commands-and-tools-for-embedded-reverse-engineering)
 - https://www.slideshare.net/JayTurla2/building-your-car-hacking-labs-car-hacking-community-from-scratch
+- [scanlime](https://www.youtube.com/user/micahjd/playlists)
 
 ### Courses
 

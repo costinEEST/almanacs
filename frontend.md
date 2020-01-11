@@ -79,6 +79,8 @@
 - [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
 - https://github.com/willianjusten/awesome-svg + https://twitter.com/addyosmani/status/1210463389144645632
 - https://speakerdeck.com/ange/an-introduction-to-inkscape
+- https://slides.com/vincentntang/svg-everything-you-should-know-about-it#/svg-everything-you-should-know
+- https://slides.com/vincentntang/comparing-svg-canvas-webgl-css#/
 
 ### Illustrations
 

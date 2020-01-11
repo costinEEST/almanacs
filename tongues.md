@@ -7,6 +7,16 @@
 - https://viorel.me/2019/thoughts-on-learning-english
 - https://github.com/viorelsfetea/german-verbs-database
 
+### Videos
+
+- [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ/playlists) + https://seedlang.com
+- https://www.youtube.com/user/smartergerman/playlists 
+- [mandarin Corner](https://www.youtube.com/channel/UC2fAiRQHRQT9aj9P_ijYeow/playlists)
+- https://www.youtube.com/user/LinguisticsMarburg/playlists
+- https://www.youtube.com/user/NativLang/playlists
+- [The history of Norse Languages](https://www.youtube.com/playlist?list=PLATNGYBQ-TjrI_zstt5w13eB4IFIcuX_W)
+- https://www.youtube.com/user/GoNaturalEnglish/playlists
+
 
 ### Books
 

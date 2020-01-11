@@ -11,6 +11,7 @@
 ### Videos
 
 - [Algorithms behind Modern Storage Systems.](https://www.infoq.com/presentations/storage-algorithms)
+- [ CMU Database Group](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)
 
 ### Books
 

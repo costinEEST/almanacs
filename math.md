@@ -19,9 +19,27 @@
 
 ### Videos
 
+- https://www.youtube.com/user/standupmaths/videos
 - [Tutorials by Inigo Quilez](https://www.youtube.com/playlist?list=PL0EpikNmjs2CYUMePMGh3IjjP4tQlYqji)
 - [CG Experiments and Demos by Inigo Quilez](https://www.youtube.com/playlist?list=PL0EpikNmjs2Dz45-Ru7Rfp8zQ48fI5QOa)
 - [Math by Inigo Quilez](https://www.youtube.com/playlist?list=PL0EpikNmjs2BQr3b2WtTlmhEWHs_Tcm1R)
+- https://www.youtube.com/user/professorleonard57/playlists
+- https://www.youtube.com/results?search_query=%22gilbert+strang%22
+- [MathTheBeautiful](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists)
+- [Sandy Bultena has a great series on Euclid's elements](https://www.youtube.com/channel/UCnHh6XeLupJ5FHSKDh9eIMw/playlists)
+- [Error Correcting Codes (ECCs) by eigenchris](https://www.youtube.com/playlist?list=PLJHszsWbB6hqkOyFCQOAlQtfzC1G9sf2_)
+- [Tensors for Beginners by eigenchris](https://www.youtube.com/playlist?list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG)
+- [Tensor Calculus by eigenchris](https://www.youtube.com/playlist?list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
+- https://www.youtube.com/user/XylyXylyX/playlists
+- [High school math by Eddie Woo]https://www.youtube.com/user/misterwootube/playlists
+- https://projects.iq.harvard.edu/stat110/youtube
+- [Stephen Boyd Convex Optimization](https://www.youtube.com/playlist?list=PL3D9A62846A129C47)
+- [Tobias Osborne](https://www.youtube.com/channel/UCpHjg_Qmzxm3xaAWRrwQPCA/playlists)
+- [David Tong: Lectures on Quantum Field Theory](https://www.youtube.com/playlist?list=PL1C5310BB35555A1C)
+- https://www.youtube.com/user/njwildberger/playlists
+- https://www.youtube.com/user/ControlLectures/playlists
+- https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA/playlists
+- [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
 
 ### Miscellaneous
 

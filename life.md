@@ -13,11 +13,15 @@
 - https://github.com/Developer-Y/cs-video-courses#computational-biology
 - [I485 / H400 - Biologically Inspired Computation (Indiana University)](https://homes.sice.indiana.edu/rocha/academics/i-bic/index.php)
 - https://lostempireherbs.com/endocrine-disrupting-chemicals
+- https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078 + [Human Behavioral Biology (Robert Sapolsky)](https://www.youtube.com/playlist?list=PL150326949691B199)
+- [Biology by CrashCourse](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
+- [The Neuronal Basis of Consciousness Course - CNS/Bi/Psy 120](https://www.youtube.com/playlist?list=PL1DBCFC32CF6945EE)
 
 ### Anatomy
 
 - [Don't Die Young: An Anatomist's Guide to Your Organs and Your Health.](https://www.amazon.com/Dont-Die-Young-Anatomists-Organs/dp/0747592802)
 - [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson/dp/0385539304)
+- https://www.youtube.com/user/physicaltherapyvideo/playlists
 
 ### Botany
 
@@ -25,12 +29,29 @@
 
 ### Chemistry
 
+- https://www.youtube.com/user/periodicvideos/playlists
+- https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA/playlists
 - [PiHKAL: A Chemical Love Story](https://en.wikipedia.org/wiki/PiHKAL) + [TIHKAL: The Continuation](https://en.wikipedia.org/wiki/TiHKAL)
 - https://github.com/Developer-Y/math-science-video-lectures#chemistry
+- [Edible chem by NileRed](https://www.youtube.com/playlist?list=PLbaramj7Nly7bs5EiT3Hmlx4XudWHe6V0)
+- [Electrochemistry by NurdRage](https://www.youtube.com/playlist?list=PLU79801KtVAUCrIv5rJn3lEK_6IvekEa7)
 
 ### Physics
 
+- [ElectroBOOM101](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)
+- [The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
+- [Electric Circuits by Eugene Khutoryansky](https://www.youtube.com/playlist?list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
+- [More Electric Circuits by Eugene Khutoryansky](https://www.youtube.com/playlist?list=PLkyBCj4JhHt-4PnnwpbG-ZKV_EjX03DX8)
+- https://www.youtube.com/user/EEVblog/playlists
 - https://github.com/Developer-Y/math-science-video-lectures#physics
+- [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/playlists)
+- [Carl Sagan's "COSMOS"](https://www.youtube.com/playlist?list=PLKSi40WEKtMxykDBP8_vrC6bKXotys8KJ)
+- [Basics on Capacitors and Inductors by w2aew](https://www.youtube.com/playlist?list=PLB9A78ED3D7EF1AE5)
+- [Circuit Tutorials by w2aew](https://www.youtube.com/playlist?list=PL4ZSD4omd_Aw-ozOphzFCkhWMtBdyEIrP)
+- [8.01x - MIT Physics I: Classical Mechanics](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
+- [8.02x - MIT Physics II: Electricity and Magnetism](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+- [8.03 - MIT Physics III: Vibrations and Waves](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89)
+- [ Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw/playlists)
 
 ### Ketosis
 
