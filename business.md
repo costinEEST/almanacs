@@ -64,6 +64,7 @@
 - [ Steve Jobs on why Xerox failed](https://news.ycombinator.com/item?id=18844370)
 - [What's a good history of personal computers in the 80s?](https://twitter.com/kylemathews/status/1215802043048181760)
 - [Tools For Thought. The History and Future of Mind-Expanding Technology by Howard Rheingold](http://www.rheingold.com/texts/tft/) + [.pdf](http://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/22/Tools_For_Thought.pdf)
+- [Age of Invention by Anton Howes.](https://antonhowes.substack.com/archive)
 
 ### Essays
 
