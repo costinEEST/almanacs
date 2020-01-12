@@ -5,6 +5,10 @@
 - Chip Huyen: [Twitter](https://twitter.com/chipro), [Linkedin](https://www.linkedin.com/in/chiphuyen/)
 - https://interestingengineering.com/robert-downey-jrs-series-on-ai-is-available-on-youtube-right-now
 
+### References
+
+- https://github.com/Avik-Jain/100-Days-Of-ML-Code
+
 ### Books
 
 - [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF)
@@ -21,3 +25,4 @@
 ### Demos
 
 - https://github.com/emilwallner/Screenshot-to-code
+- [Using AI and machine learning to help with Quran memorization and recitation.](https://twitter.com/caveheraa/status/1215787383494332416)

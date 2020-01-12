@@ -8,3 +8,4 @@
 ### Google Cloud
 
 - [Set up a free server](https://twitter.com/s0md3v/status/1212115426697547777)
+- [Firebase app architectures, languages, tools & some GCP things! ](https://github.com/jthegedus/firebase-gcp-examples)

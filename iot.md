@@ -12,6 +12,10 @@
 
 - https://github.com/e1ioan/RaspberryPi-AxisYoutubeStreaming
 
+### Smartwatch
+
+- https://medium.com/@sayliambure/hacking-a-5-smartband-824763ab6e8f
+
 ### Miscellaneous
 
 - https://japaniot.github.io/2020/01/01/how-i-automate-my-home-en

@@ -10,13 +10,12 @@
 ### Videos
 
 - [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ/playlists) + https://seedlang.com
-- https://www.youtube.com/user/smartergerman/playlists 
+- https://www.youtube.com/user/smartergerman/playlists
 - [mandarin Corner](https://www.youtube.com/channel/UC2fAiRQHRQT9aj9P_ijYeow/playlists)
 - https://www.youtube.com/user/LinguisticsMarburg/playlists
 - https://www.youtube.com/user/NativLang/playlists
 - [The history of Norse Languages](https://www.youtube.com/playlist?list=PLATNGYBQ-TjrI_zstt5w13eB4IFIcuX_W)
 - https://www.youtube.com/user/GoNaturalEnglish/playlists
-
 
 ### Books
 
@@ -27,3 +26,4 @@
 ### Applications
 
 - https://medium.com/@GroundControl/introducing-benkyou-a-swipe-flashcard-app-for-learning-japanese-f6f278e05c8a + [Android](https://play.google.com/store/apps/details?id=fm.raf.benkyou)
+- https://tarjim.ly

@@ -10,3 +10,4 @@
 ### References
 
 - https://github.com/Tikam02/DevOps-Guide
+- https://github.com/trimstray/test-your-sysadmin-skills

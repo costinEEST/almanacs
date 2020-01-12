@@ -47,7 +47,8 @@
 - [Notes and resorce's for SDR/Wireless tech.](https://github.com/notpike/SDR-Notes)
 - [Ham Radio related by w2aew](https://www.youtube.com/playlist?list=PL535F3913B822E098)
 - https://hakin9.org/universal-radio-hacker-investigate-wireless-protocols-like-a-boss/
-- https://www.rtl-sdr.com/talk-journey-fm-rds-oona-raisanen/
+- https://www.rtl-sdr.com/talk-journey-fm-rds-oona-raisanen
+- https://github.com/0x90/wifi-arsenal
 
 ### 5G
 
@@ -97,6 +98,7 @@
 - [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
 - https://simpl.info/websocket
 - https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html + https://youtu.be/lrPPMDNpgdY
+- https://footstep.ninja/posts/websockets-testing + http://websocket.org/echo.html + https://install.advancedrestclient.com/install + https://kaazing.com/inspecting-websocket-traffic-with-chrome-developer-tools
 
 ### P2P
 

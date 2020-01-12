@@ -7,6 +7,8 @@
 ### References
 
 - https://github.com/OpenTechFund/CryptoTerminology
+- [Cryptographic Right Answers (gist)](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
+- [An Open Letter to Developers Everywhere (crypto-wrong-answers)](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 
 ### Talks
 

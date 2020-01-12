@@ -3,6 +3,7 @@
 - https://www.bleepingcomputer.com/news/microsoft/you-can-still-upgrade-to-windows-10-for-free-heres-how
 
 ### Internals
+
 - [How the compilation and linkage model works in windows at the assembly level.](https://twitter.com/0xrepnz/status/1204015835909689344)
 
 ### Users
@@ -17,10 +18,13 @@
 
 - [People ask you for the Wi-Fi password. Answer quickly.](https://github.com/RReverser/WiFi-Password)
 
-
 ### Clean up
 
 - [Windows 10 Digital License (HWID) & KMS38™ Generation](https://www.aiowares.com/showthread.php?tid=246)
 - https://github.com/W4RH4WK/Debloat-Windows-10
 - https://github.com/StevenBlack/hosts
 - https://github.com/Igglybuff/awesome-piracy#windows-10-privacy
+
+### Active directory
+
+- https://identityaccess.management/2019/12/30/active-directory-security-fundamentals/
