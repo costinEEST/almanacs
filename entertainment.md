@@ -64,6 +64,7 @@
 
 - [Upheaval: Turning Points for Nations in Crisis by Jared Diamond (2019)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#upheaval)
 - https://www.amazon.com/Ends-World-Apocalypses-Understand-Extinctions/dp/0062364812 
+- https://twitter.com/danielmamay/status/1211009053004062721
 
 ### Archeology
 
