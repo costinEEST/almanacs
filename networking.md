@@ -47,6 +47,7 @@
 - [Notes and resorce's for SDR/Wireless tech.](https://github.com/notpike/SDR-Notes)
 - [Ham Radio related by w2aew](https://www.youtube.com/playlist?list=PL535F3913B822E098)
 - https://hakin9.org/universal-radio-hacker-investigate-wireless-protocols-like-a-boss/
+- https://www.rtl-sdr.com/talk-journey-fm-rds-oona-raisanen/
 
 ### 5G
 
@@ -109,6 +110,10 @@
 
 - [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained)
 - https://community.turgensec.com/ssh-hacking-guide
+
+### SRP
+
+- https://www.onaralili.com/posts/srp
 
 ### Miscellaneous
 

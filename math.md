@@ -11,6 +11,10 @@
 
 - [Introduction to Graph Theory (Dover Books on Mathematics)](https://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709)
 - http://danaernst.com/resources/free-and-open-source-textbooks
+- [Mathematical Illustrations: A Manual of Geometry and PostScript](http://www.math.ubc.ca/~cass/graphics/manual)
+- https://www.amazon.com/Network-Science-Albert-L%C3%A1szl%C3%B3-Barab%C3%A1si/dp/1107076269
+- https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+- https://www.amazon.com/Think-Stats-Exploratory-Data-Analysis/dp/1491907339
 
 ### Courses
 

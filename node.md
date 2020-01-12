@@ -40,6 +40,11 @@
 - [Access the system clipboard (copy/paste) - cross-platform](https://github.com/sindresorhus/clipboard-cli)
 - [Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default.](https://github.com/dweinstein/node-google-play)
 - [Download a web page to a local directory.](https://github.com/papandreou/bringhome)
+- A command that will copy files from one directory to another and if there are two files with the same name it will rename it: [tweet](https://twitter.com/kentcdodds/status/1215785900413599744) + [gist](https://gist.github.com/kentcdodds/59daa81d46ba51b926a6a2f044aa5ad6)
+
+### Testing
+
+- https://github.com/doppelganger9/fruit-basket
 
 ### Authentication
 

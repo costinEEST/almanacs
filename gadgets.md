@@ -2,6 +2,10 @@
 
 - [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/better_with_bose/mark-rober.html?mc=25_SM_HP_SC_00_YT_markrober3) + [recommended by Mark Rober](https://youtu.be/a_TSR_v07m0)
 
+### Mouse
+
+- [.. attach your mouse to your computer with a wire so it could get power and you didn't need to change the batteries all the time.](https://twitter.com/seldo/status/1215719226188582913)
+
 ### Kitchen
 
 - https://juneoven.com
@@ -12,4 +16,8 @@
 
 ### Recording
 
-- https://markshust.com/2019/12/28/ergonomic-workstation-programming-screencasting/
+- https://markshust.com/2019/12/28/ergonomic-workstation-programming-screencasting
+
+### Miscellaneous
+
+- https://gedd.ski/post/favorite-gear/

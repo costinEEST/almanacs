@@ -4,6 +4,18 @@
 - https://robertheaton.com/2018/05/07/making-youtube-less-bad-for-you-using-css
 - https://mmazzarolo.com/blog/2019-01-13-another-tab
 - [A keyboard interface to the web, inspired by Kakoune](https://github.com/alexherbo2/krabby)
+- https://github.com/acorn/twitter-bookmarks-search
+- https://github.com/Kiwka/urban-dictionary-chrome-extension
+- [Generate a .sketchpalette file from any dribbble shot's color palette to be loaded in Sketch-Palette plugin.](https://github.com/amiechen/dribbble-sketch-palette)
+- [Puts an RSS/Atom subscribe button back in URL bar](https://github.com/shgysk8zer0/awesome-rss)
+- https://www.amie-chen.com/blog/making-paid-extension 
+- https://www.notion.so/Day-4-The-Danger-of-Chrome-Extensions-af93b84006ed48c18b807f512b6c0a07
+- [Reader Mode](https://twitter.com/ryzalyusoff/status/1195613015837687808)
+- https://www.onaralili.com/posts/maliciousbrowserextension + https://www.onaralili.com/posts/browser-extension-threat-modeling 
+- [SplitUp! is a browser extension allows a user to split tabs into a different window, save session, export tabs, supports multiple screens, dark mode etc.](https://github.com/onaralili/SplitUp)
+- https://github.com/learn-anything/firefox-extensions
+- https://github.com/learn-anything/chrome-extensions
+- https://github.com/stefanbuck/awesome-browser-extensions-for-github
 
 ### Bookmarklets
 
@@ -41,9 +53,14 @@ javascript: (() =>
 ### CSP
 
 - [Next level anti-debugging technique using SourceMappingURL feature](https://twitter.com/WeizmanGal/status/1207355263491149825)
+- https://github.com/nico3333fr/CSP-useful
 
 ### Exploits
 
 - [Awesome list of browser exploitation tutorials ](https://github.com/Escapingbug/awesome-browser-exploit)
 - [Browser logic vulnerabilities DB](https://github.com/Metnew/uxss-db)
 - [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://twitter.com/Qab/status/1209457592126324737)
+
+### Miscellaneous
+
+- https://github.com/vasanthk/how-web-works

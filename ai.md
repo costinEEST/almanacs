@@ -17,3 +17,7 @@
 ### Neural networks
 
 - https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
+
+### Demos
+
+- https://github.com/emilwallner/Screenshot-to-code

@@ -12,3 +12,7 @@
 
 - https://github.com/rmolinamir/typescript-cheatsheet
 - https://github.com/shuhei/knowledge/blob/master/typescript.md#detect-optional-fields
+
+### Practice
+
+- https://github.com/stevenmusumeche/advent-of-code-2019

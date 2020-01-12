@@ -6,6 +6,9 @@
 - https://softskills.audio
 - https://soundcloud.com/stephenwolfram
 - https://www.listennotes.com/podcasts/stuff-to-blow-your/from-the-vault-the-dark-side-ekXr_6qTB9Q
+- https://uibreakfast.com/category/podcast 
+- https://podcasts.apple.com/us/podcast/wireframe/id1437677219
+- https://anchor.fm/designhuddle/episodes/UX-Bites-Explains-How-He-Grew-An-Audience-on-Instagram-to-30K-Followers-in-90-days-e45he8
 
 ### Movies
 
@@ -55,10 +58,12 @@
 - [Uzina Mecanică Tohan Zărnești](https://goo.gl/maps/RKeFjZRjWTUtTnYs7)
 - https://devonzuegel.com/post/building-a-personal-map
 - https://www.quora.com/What-is-visiting-Serbia-like
+- https://www.outsideonline.com/2393036/50-best-hikes-us
 
 ### History
 
 - [Upheaval: Turning Points for Nations in Crisis by Jared Diamond (2019)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#upheaval)
+- https://www.amazon.com/Ends-World-Apocalypses-Understand-Extinctions/dp/0062364812 
 
 ### Archeology
 
@@ -120,6 +125,7 @@
 - http://www.carteadelaora5.ro/ti-a-placut-serialul-cernobil-scenaristul-fenomenului-iti-recomanda-ce-sa-citesti-acum
 - [What happened to Romania’s revolutionaries 30 years on?](https://amp.ft.com/content/5e5460b6-1c29-11ea-9186-7348c2f183af)
 - [The children of the turning point](https://vimeo.com/24124392)
+- https://peregristorii.wordpress.com/2020/01/11/carti-bune-citite-in-anul-2019
 
 ### Music
 
