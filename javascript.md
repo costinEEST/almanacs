@@ -3,13 +3,24 @@
 - [6 JavaScript WTFs and what to learn from them](https://dev.to/andreib123/6-javascript-wtfs-and-what-to-learn-from-them-406d)
 - [Function that prints itself (quine)](https://twitter.com/ryuhhnn/status/1212075258548834305)
 
+
+### Performance
+
+- https://rreverser.com/tabs-vs-space 
+- [tagname-vs-instanceof](https://twitter.com/diegohaz/status/1200565864287866887)
+
 ### Algorithms
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- https://github.com/humanwhocodes/computer-science-in-javascript
 
 ### AST
 
 - https://github.com/pshrmn/notes/blob/master/ast/nodes.md
+
+### Compilers
+
+- https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
 
 ### Patterns
 
@@ -21,6 +32,9 @@
 - https://medium.com/@weizmangal/unload-and-beforeunload-events-and-how-to-easily-debug-them-both-cb40782b0018
 - https://redd.one/blog/debounce-vs-throttle
 - [What does it mean “event-driven” in JavaScript and Node.js?](https://www.valentinog.com/blog/event)
+- https://github.com/Jam3/math-as-code
+- https://github.com/zenparsing/skert/tree/master/docs
+- https://dev.to/macmacky/70-javascript-interview-questions-5gfi
 
 ### Books
 
@@ -52,6 +66,10 @@
 - [Why analog audio within the accepted limits of human hearing (20 Hz to 20 kHz) can be reproduced with perfect fidelity using a 44.1 kHz 16 Bit digital signal.](https://youtu.be/cIQ9IXSUzuM)
 - [Marty Music](https://www.youtube.com/channel/UCmnlTWVJysjWPFiZhQ5uudg/playlists)
 - [Signals Music Studio](https://www.youtube.com/channel/UCRDDHLvQb8HjE2r7_ZuNtWA/playlists)
+- [Music: a Mathematical Offering](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
+- https://www.dkthehuman.com/music-apps 
+- https://wiki.nikitavoloboev.xyz/music
+- https://github.com/tholman/binary-music-player
 
 ### Video
 
@@ -69,6 +87,7 @@
 - All differences between JavaScript modules, classic scripts, and CommonJS: [gist](https://gist.github.com/jkrems/b14894e0b8efde10aa10a28c652d3541) + [tweet](https://twitter.com/jankrems/status/1210644388105244672)
 - [How To Use Correctly JavaScript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries)
 - [export default const Bar = () => { ... }](https://twitter.com/ManuelBieh/status/1214181034960572419)
+- [Reasons to avoid default exports](https://twitter.com/james_k_nelson/status/1215099907918295041)
 
 ### Default arguments
 
@@ -141,6 +160,8 @@
 - https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921
 - [Thread of books I have used and referenced when preparing and giving a #cartography and #GIS](https://twitter.com/ramiroaznar/status/1210269334830026755)
 - https://github.com/pshrmn/notes/tree/master/d3
+- https://speakerdeck.com/ashleydzick/modern-data-visualization-at-thatconference
+- [Modeling With Data](https://modelingwithdata.org/front.pdf)
 
 ### Games
 

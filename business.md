@@ -5,10 +5,14 @@
 - https://stratechery.com/2019/shopify-and-the-power-of-platforms/
 - https://www.amazon.com/Creative-Calling-Establish-Practice-Meaning/dp/0062879960
 - [Scale - Geoffrey West](https://twitter.com/ThomasADorfer/status/1206597474057674753)
+- https://www.getrevue.co/profile/designsprint/issues/three-excellent-off-the-radar-books-196694
+- [Setting the table](https://twitter.com/hyper_yolo/status/1208237487077740545)
+- https://mtlynch.io/book-reports
 
 ### Marketing
 
 - [Curated list to achieve visibility for your product](https://github.com/dehenne/awesome-visibility)
+- https://github.com/mmccaff/PlacesToPostYourStartup
 
 ### Publishing
 
@@ -31,6 +35,7 @@
 - [I grew Visa List to \$5k per month in a year.](https://news.ycombinator.com/item?id=21796088)
 - [Which is the most successful one-person business you heard of in 2019?](https://news.ycombinator.com/item?id=21908577)
 - [Some examples of people quickly accomplishing ambitious things together.](https://patrickcollison.com/fast)
+
 
 ### Investing
 
@@ -57,6 +62,8 @@
 - [What are your favorite history of technology and innovation books?](https://twitter.com/hmason/status/636192085419409408) + [What's a good history of technology book?](https://news.ycombinator.com/item?id=18083620) + [What are your favorite books on the history of ideas and inventions?](https://news.ycombinator.com/item?id=13573664)
 - https://davepeck.org/2014/01/02/hacker-history-bookshelf + https://davepeck.org/2015/08/25/hacker-history-bookshelf-revisited
 - [ Steve Jobs on why Xerox failed](https://news.ycombinator.com/item?id=18844370)
+- [What's a good history of personal computers in the 80s?](https://twitter.com/kylemathews/status/1215802043048181760)
+- [Tools For Thought. The History and Future of Mind-Expanding Technology by Howard Rheingold](http://www.rheingold.com/texts/tft/) + [.pdf](http://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/22/Tools_For_Thought.pdf)
 
 ### Essays
 

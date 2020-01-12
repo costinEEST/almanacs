@@ -8,6 +8,7 @@
 - [checkout](https://twitter.com/mislav/status/1206937217194741760)
 - [git-annex allows managing files with git, without checking the file contents into git.](https://git-annex.branchable.com)
 - [I still use a GUI (SourceTree) for most operations.](https://twitter.com/jaffathecake/status/1204343865785962496)
+- [git push origin HEAD](https://twitter.com/flexdinesh/status/1215119465068675072)
 
 ### VS Code
 
@@ -41,6 +42,7 @@
 - [Check all gzip files in a directory tree.](https://twitter.com/rotnroll666/status/1211951342492753920)
 - [Get the number of cores on a machine.](https://twitter.com/ReplicaJune/status/1212645946867228672)
 - [You can get a site's html and all of the page's dependencies with a single wget command.](https://twitter.com/philhawksworth/status/1214942635300982785)
+- [A command that will copy files from one directory to another and if there are two files with the same name it will rename it.](https://twitter.com/kentcdodds/status/1215744921287589888)
 
 ### Mac
 
@@ -69,6 +71,7 @@
 - [You Suck at Excel with Joel Spolsky](https://youtu.be/0nbkaYsR94c)
 - [One of my favorite features of Evernote is its mobile document "scanner".](https://twitter.com/devonzuegel/status/1213576043694632963)
 - [CFCC - CTS 130 - Spreadsheets](https://www.youtube.com/playlist?list=PL9gfSIdua13hRbXvsJAgBWZOGrqeI0_ul)
+- [Google Excel for accountability](https://twitter.com/kelseymwhelan/status/1080544082139795456)
 
 ### Books
 
@@ -92,6 +95,8 @@
 - [Solo devs, how do you plan your development?](https://news.ycombinator.com/item?id=21905423)
 - [What's the right name for a document that projects costs & income over time given conversation/churn rates, growth etc?](https://twitter.com/jlongster/status/1214259525072642049)
 - https://github.com/hackerkid/Mind-Expanding-Books#writing
+- https://elenawrites.online/writing
+- https://github.com/ocean1/awesome-thesis
 
 ### Drawing
 

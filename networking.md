@@ -46,6 +46,7 @@
 - [The Magical Science of Wi-Fi on Airplanes](https://onezero.medium.com/what-makes-it-possible-to-browse-the-internet-at-35-000-feet-1afaea83eb5)
 - [Notes and resorce's for SDR/Wireless tech.](https://github.com/notpike/SDR-Notes)
 - [Ham Radio related by w2aew](https://www.youtube.com/playlist?list=PL535F3913B822E098)
+- https://www.rtl-sdr.com/talk-journey-fm-rds-oona-raisanen/
 
 ### 5G
 
@@ -108,6 +109,10 @@
 
 - [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained)
 - https://community.turgensec.com/ssh-hacking-guide
+
+### SRP
+
+- https://www.onaralili.com/posts/srp 
 
 ### Miscellaneous
 

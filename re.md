@@ -3,6 +3,7 @@
 - [Commands and Tools for Embedded Reverse Engineering](https://www.pentestpartners.com/security-blog/commands-and-tools-for-embedded-reverse-engineering)
 - https://www.slideshare.net/JayTurla2/building-your-car-hacking-labs-car-hacking-community-from-scratch
 - [scanlime](https://www.youtube.com/user/micahjd/playlists)
+- [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://youtu.be/aHx-XUA6f9g)
 
 ### Courses
 
@@ -14,6 +15,7 @@
 ### Tools
 
 - https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md
+- https://www.coresecurity.com/article/reversing-and-exploiting-free-tools
 
 ### Fuzzers
 

@@ -3,9 +3,13 @@
 - [Remembrance of Tags Past](https://hero35.com/css-minsk-js/2019/remembrance-of-tags-past)
 - https://vanillajspodcast.com/html-is-a-living-language
 
-### SEO
+### Unicode
 
-- https://developers.google.com/search/docs/guides/intro-structured-data
+- https://www.unicode.org/charts/normalization/
+- https://www.compart.com/en/unicode
+- [Query the Unicode database from the command line, with good support for emojis](https://github.com/arp242/uni)
+- [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
+- [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
 
 ### Accessibility
 
@@ -18,6 +22,28 @@
 - https://fotis.xyz/tags/a11y
 - https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me
 - https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
+- https://spectrum.adobe.com/page/inclusive-design 
+
+### CSS
+
+- https://youmightnotneed.com/css/
+- [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
+- https://github.com/shuhei/knowledge/blob/master/browser.md#css
+- https://gist.github.com/pburtchaell/e702f441ba9b3f76f587
+- https://www.viget.com/articles/tips-for-your-tailwind-config
+- https://justmarkup.com/articles/2019-10-21-image-orientation
+- [You know how 100vh isn't actually 100% of the height of the visible space inside a viewport on mobile??](https://twitter.com/jensimmons/status/1215803697969684480)
+
+### SVG
+
+- https://github.com/donbright/font_to_svg
+- https://slides.com/vincentntang/svg-everything-you-should-know-about-it#/svg-everything-you-should-know
+- https://slides.com/vincentntang/comparing-svg-canvas-webgl-css
+- https://github.com/willianjusten/awesome-svg + https://twitter.com/addyosmani/status/1210463389144645632
+
+### SEO
+
+- https://developers.google.com/search/docs/guides/intro-structured-data
 
 ### Color
 
@@ -28,20 +54,6 @@
 - https://dribbble.com/shots/6454763-Color-Composition-Testing-Temp-late + https://twitter.com/JustinMezzell/status/1126168335140286464
 - https://dribbble.com/stories/2020/01/08/color-palette-exploration
 
-### Unicode
-
-- https://www.unicode.org/charts/normalization/
-- https://www.compart.com/en/unicode
-- [Query the Unicode database from the command line, with good support for emojis](https://github.com/arp242/uni)
-- [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
-- [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
-
-### CSS
-
-- https://youmightnotneed.com/css/
-- [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
-- https://github.com/shuhei/knowledge/blob/master/browser.md#css
-- https://gist.github.com/pburtchaell/e702f441ba9b3f76f587
 
 ### Design
 
@@ -49,6 +61,8 @@
 - [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)
 - https://www.abstract.com/blog/product-design-in-2020s
 - https://medium.com/swiggydesign/how-i-started-motion-design-using-high-school-physics-fa6cdbf12cde
+- https://medium.com/google-design/the-best-design-books-that-arent-explicitly-about-design-74fc96ce115e
+- [Geometric computation foundation for design](https://twitter.com/hyper_yolo/status/1188018751330897920)
 
 ### Design Systems
 
@@ -77,10 +91,8 @@
 ### Animations
 
 - [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
-- https://github.com/willianjusten/awesome-svg + https://twitter.com/addyosmani/status/1210463389144645632
-- https://speakerdeck.com/ange/an-introduction-to-inkscape
-- https://slides.com/vincentntang/svg-everything-you-should-know-about-it#/svg-everything-you-should-know
-- https://slides.com/vincentntang/comparing-svg-canvas-webgl-css#/
+- https://github.com/desandro/practical-ui-physics
+- https://speakerdeck.com/ange/an-introduction-to-inkscape 
 
 ### Illustrations
 
@@ -93,6 +105,13 @@
 - [Introduction to interactivity](https://everestpipkin.github.io/emsII/) + https://twitter.com/everestpipkin/status/1207502480042536960
 - https://github.com/melanierichards/resources/blob/master/resources/pixel-art.md
 - [Fun with Ascii: Putting some console art on my site](https://benmccormick.org/ascii-kusty)
+- [What are the best books or articles you've read on generative/computational design?](https://twitter.com/mrmrs_/status/1185923810069024768)
+- https://github.com/GeorgeGally/creative_coding
+- https://github.com/terkelg/awesome-creative-coding
+- https://github.com/nitin42/generative-art-tools
+- https://github.com/yuanchuan/talk/tree/gh-pages/generative-art-with-css
+- [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
+- http://tholman.com/post/toolsday-generative-art + http://tholman.com/post/generative-artistry + http://tholman.com/post/generative-art-speedrun 
 
 
 ### UX
@@ -114,17 +133,32 @@
 - https://github.com/melanierichards/resources/blob/master/resources/performance.md
 - https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
 - https://github.com/shuhei/knowledge/blob/master/web-perf.md
+- https://github.com/luruke/awesome-casestudy
 
 ### Portfolios
 
 - https://github.com/melanierichards/highlights
 - [My personal website feat. Gatsby https://psb.design](https://github.com/pburtchaell/psb.design)
 
+### Newsletters
+
+- https://www.getrevue.co/profile/designsprint
+
 ### Inspire
 
 - https://dribbble.com/shots/9296597-Rotating-Cuboid-Form-CSS-Animation-Instant-Browser-Validation + https://codepen.io/leenalavanya/full/rNaYZJN
 - https://dribbble.com/shots/9323743-Furniture-Shopping-3D
 - https://dribbble.com/shots/9357635-Schedule-Demo-Exploration
+- https://canals-amsterdam.nl 
+- https://github.com/tastejs/awesome-app-ideas
+- https://github.com/samsquire/ideas
+
+### Figma
+
+- https://contentreel.design 
+- https://www.figma.com/c/plugin/784880696244762700/API-%2F-JSON-Sync
+- https://github.com/jagtalon/figma-fast-copy
+- https://figma.bothrs.com/
 
 ### Miscellaneous
 

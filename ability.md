@@ -25,6 +25,7 @@
 ### Creativity
 
 - https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0805082115
+- https://www.amazon.com/Keep-Going-Ways-Creative-Times/dp/1523506644
 
 ### Inner game
 

@@ -38,6 +38,7 @@
 
 ### Physics
 
+- https://physicstravelguide.com 
 - [ElectroBOOM101](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)
 - [The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
 - [Electric Circuits by Eugene Khutoryansky](https://www.youtube.com/playlist?list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
@@ -57,6 +58,7 @@
 
 - [A Guide to Ketosis.](http://josepharcita.blogspot.com/2011/03/guide-to-ketosis.html?m=1)
 - [Behind the World's First Ketone Ester ft. Kieran Clarke || HVMN Enhancement Podcast: Ep. 48](https://youtu.be/qR4tf-np6jU)
+- https://isitketo.org
 
 ### Fasting
 

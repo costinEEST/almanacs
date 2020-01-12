@@ -13,6 +13,10 @@
 
 - [Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files.](https://github.com/tibold/svg-explorer-extension)
 
+### Powershell
+
+- [People ask you for the Wi-Fi password. Answer quickly.](https://github.com/RReverser/WiFi-Password)
+
 
 ### Clean up
 

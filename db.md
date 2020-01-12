@@ -2,6 +2,11 @@
 
 - [Visualizing missing data in databases](https://www.codediesel.com/data/visualizing-missing-data-in-databases/)
 - [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
+- https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files
+
+### TIL
+
+- SQL, NoSQL, and Scale - How DynamoDB scales where relational databases don't: [tweet](https://twitter.com/alexbdebrie/status/1214966652254732304) + [article](https://www.alexdebrie.com/posts/dynamodb-no-bad-queries/)
 
 ### Hacks
 

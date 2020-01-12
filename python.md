@@ -19,6 +19,7 @@
 ### Tools
 
 - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier: [repo](https://github.com/byt3bl33d3r/WitnessMe) + [video](https://www.youtube.com/watch?v=xMeJoaEJshQ)
+- https://github.com/bamos/reading-list
 
 ### Boots
 

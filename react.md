@@ -16,6 +16,7 @@
 ### Context API
 
 - https://tobea.dev/post/global-state-cleanliness-with-react-context
+- https://github.com/diegohaz/awesome-react-context
 
 ### Components
 
@@ -59,6 +60,7 @@
 - https://news.ycombinator.com/item?id=19269227 + https://www.goodreads.com/book/show/4589003-constructing-the-user-interface-with-statecharts + https://www.semanticscholar.org/paper/Constructing-the-User-Interface-with-Statecharts-Horrocks/84bf884f9ea305b52f316285ca66e7a028fde661
 - https://github.com/stevekinney/react-state-management
 - [Immer over Immutable](https://twitter.com/acemarke/status/1213573285314809856)
+- https://github.com/brucou/movie-search-app
 
 ### PWA
 
@@ -73,6 +75,7 @@
 - [Best way to share logic between a React web application and a React Native application?](https://twitter.com/gethackteam/status/1213527792144592896)
 - [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
 - https://github.com/victorkvarghese/react-native-messenger
+- https://medium.com/sanctuary-computer-inc/building-lightos-with-react-native-4b6e4ad1cd7f
 
 ### Packages
 
