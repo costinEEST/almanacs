@@ -30,6 +30,10 @@ javascript: (() =>
 - [This repo contains a non exhaustive list of less-known features implemented in browsers today.](https://github.com/luruke/browser-2020)
 - https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
 
+### CORS
+
+- https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html
+
 ### Cookies
 
 - [SameSite=Lax](https://twitter.com/RenwaX23/status/1206475064125853696)

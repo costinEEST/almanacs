@@ -46,6 +46,7 @@
 - [The Magical Science of Wi-Fi on Airplanes](https://onezero.medium.com/what-makes-it-possible-to-browse-the-internet-at-35-000-feet-1afaea83eb5)
 - [Notes and resorce's for SDR/Wireless tech.](https://github.com/notpike/SDR-Notes)
 - [Ham Radio related by w2aew](https://www.youtube.com/playlist?list=PL535F3913B822E098)
+- https://hakin9.org/universal-radio-hacker-investigate-wireless-protocols-like-a-boss/
 
 ### 5G
 

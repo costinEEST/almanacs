@@ -35,6 +35,7 @@
 - https://github.com/Developer-Y/math-science-video-lectures#chemistry
 - [Edible chem by NileRed](https://www.youtube.com/playlist?list=PLbaramj7Nly7bs5EiT3Hmlx4XudWHe6V0)
 - [Electrochemistry by NurdRage](https://www.youtube.com/playlist?list=PLU79801KtVAUCrIv5rJn3lEK_6IvekEa7)
+- https://www.amazon.com/Ten-Drugs-Powders-History-Medicine/dp/1419734407
 
 ### Physics
 
@@ -55,6 +56,7 @@
 
 ### Ketosis
 
+- https://www.facebook.com/groups/755526297805685/permalink/1902882243070079
 - [A Guide to Ketosis.](http://josepharcita.blogspot.com/2011/03/guide-to-ketosis.html?m=1)
 - [Behind the World's First Ketone Ester ft. Kieran Clarke || HVMN Enhancement Podcast: Ep. 48](https://youtu.be/qR4tf-np6jU)
 
