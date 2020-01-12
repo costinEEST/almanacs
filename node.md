@@ -33,7 +33,7 @@
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
 - [Displays JSON files in a flat format.](https://github.com/soheilpro/catj)
 - [A tinyURL service powered by node.js, express.js and a reddis database.](https://github.com/shahzeb1/nodejs-tinyURL)
-- https://nodesource.com/blog/memory-leaks-demystified 
+- https://nodesource.com/blog/memory-leaks-demystified
 - [Authoring, publishing and working with commonjs and esm.](https://github.com/manuelbieh/authoring-modules-in-node)
 - [Create graphs from your CommonJS, AMD or ES6 module dependencies.](https://github.com/pahen/madge)
 - [Packages and resources that work really well with https://github.com/zkat/npx](https://github.com/junosuarez/awesome-npx)
@@ -41,6 +41,7 @@
 - [Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default.](https://github.com/dweinstein/node-google-play)
 - [Download a web page to a local directory.](https://github.com/papandreou/bringhome)
 - A command that will copy files from one directory to another and if there are two files with the same name it will rename it: [tweet](https://twitter.com/kentcdodds/status/1215785900413599744) + [gist](https://gist.github.com/kentcdodds/59daa81d46ba51b926a6a2f044aa5ad6)
+- [Make the default export of a file executable in in Node.js! ](https://github.com/jonnyburger/xns)
 
 ### Testing
 
@@ -55,7 +56,6 @@
 - [Authentication fundamentals: The basics | Azure Active Directory](https://youtu.be/fbSVgC8nGz4)
 - [The best website that teaches the value/need of 2FA to beginners](https://twitter.com/rauchg/status/1206662873776132096)
 
-
 ### API
 
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
@@ -65,7 +65,7 @@
 - https://www.freecodecamp.org/news/apis-for-beginners-full-course/
 - [Apollo REST Data Sources with the Countries API](https://github.com/MoonHighway/countries-datasources)
 - Hands-on Application Building with GraphQL: [repo](https://github.com/lowsky/-Hands-on-Application-Building-with-GraphQL) + [video course](https://learning.oreilly.com/videos/hands-on-application-building/9781788991865)
--  Scaling Your GraphQL Client: [tweet](https://twitter.com/mahoneymattj/status/1163276557546414081) + [slides](https://speakerdeck.com/mjmahone/scaling-your-graphql-client)
+- Scaling Your GraphQL Client: [tweet](https://twitter.com/mahoneymattj/status/1163276557546414081) + [slides](https://speakerdeck.com/mjmahone/scaling-your-graphql-client)
 - [Node scrapper for http://ctpcj.ro](https://github.com/Utwo/ctpcj-scraper)
 - [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
 
@@ -85,7 +85,7 @@
 ### Boots
 
 - [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
-- https://jasonet.co/posts/build-your-own-probot 
+- https://jasonet.co/posts/build-your-own-probot
 
 ### Serverless
 

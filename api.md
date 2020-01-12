@@ -10,3 +10,4 @@
 ### Miscellaneous
 
 - https://github.com/n0shake/Public-APIs
+- https://dontkillmyapp.com/apidoc

@@ -3,10 +3,9 @@
 - [6 JavaScript WTFs and what to learn from them](https://dev.to/andreib123/6-javascript-wtfs-and-what-to-learn-from-them-406d)
 - [Function that prints itself (quine)](https://twitter.com/ryuhhnn/status/1212075258548834305)
 
-
 ### Performance
 
-- https://rreverser.com/tabs-vs-space 
+- https://rreverser.com/tabs-vs-space
 - [tagname-vs-instanceof](https://twitter.com/diegohaz/status/1200565864287866887)
 
 ### Algorithms
@@ -67,7 +66,7 @@
 - [Marty Music](https://www.youtube.com/channel/UCmnlTWVJysjWPFiZhQ5uudg/playlists)
 - [Signals Music Studio](https://www.youtube.com/channel/UCRDDHLvQb8HjE2r7_ZuNtWA/playlists)
 - [Music: a Mathematical Offering](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
-- https://www.dkthehuman.com/music-apps 
+- https://www.dkthehuman.com/music-apps
 - https://wiki.nikitavoloboev.xyz/music
 - https://github.com/tholman/binary-music-player
 
@@ -79,6 +78,10 @@
 
 - https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript/
 - [A simple Christmas tree.](https://github.com/anvaka/atree)
+
+### WebGL
+
+- https://alain.xyz/blog/raw-webgl
 
 ### Modules
 
@@ -128,7 +131,7 @@
 - https://briangrinstead.com/blog/firefox-webcomponents
 - https://github.com/shawnbot/custom-elements
 - [React's Hooks API implemented for web components.](https://github.com/matthewp/haunted)
-- https://github.com/paulirish/lite-youtube-embed 
+- https://github.com/paulirish/lite-youtube-embed
 - https://github.com/luwes/lite-vimeo-embed
 - https://github.com/davatron5000/awesome-standalones
 
@@ -138,6 +141,8 @@
 - https://testautomationu.applitools.com/jest-testing-tutorial
 - https://github.com/mojoaxel/awesome-regression-testing
 - https://24ways.org/2019/twelve-days-of-front-end-testing
+- [QA Wolf is a free and open source library to create Puppeteer/Jest browser tests and run them in CI.](https://github.com/qawolf/qawolf)
+- https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3
 
 ### Virtual machines
 

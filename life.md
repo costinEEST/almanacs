@@ -39,7 +39,7 @@
 
 ### Physics
 
-- https://physicstravelguide.com 
+- https://physicstravelguide.com
 - [ElectroBOOM101](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)
 - [The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
 - [Electric Circuits by Eugene Khutoryansky](https://www.youtube.com/playlist?list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
@@ -84,6 +84,7 @@
 ### Fitness
 
 - https://www.goodreads.com/book/show/33293328-overcoming-gravity
+- http://www.shapesense.com/fitness-exercise/calculators/running-calorie-burn-calculator.shtml
 
 ### Applications
 

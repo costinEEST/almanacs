@@ -56,15 +56,11 @@
 - https://arkwright.github.io/event-sourcing.html
 - https://www.infoq.com/presentations/react-redux-state-management
 - https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c
-- https://statecharts.github.io 
+- https://statecharts.github.io
 - https://news.ycombinator.com/item?id=19269227 + https://www.goodreads.com/book/show/4589003-constructing-the-user-interface-with-statecharts + https://www.semanticscholar.org/paper/Constructing-the-User-Interface-with-Statecharts-Horrocks/84bf884f9ea305b52f316285ca66e7a028fde661
 - https://github.com/stevekinney/react-state-management
 - [Immer over Immutable](https://twitter.com/acemarke/status/1213573285314809856)
 - https://github.com/brucou/movie-search-app
-
-### PWA
-
-- [A cheat sheet for tailwind css built in react.js](https://github.com/ivan-rey-cv/tailwindcss-cheatsheet-react-pwa)
 
 ### React Native
 
@@ -76,6 +72,8 @@
 - [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
 - https://github.com/victorkvarghese/react-native-messenger
 - https://medium.com/sanctuary-computer-inc/building-lightos-with-react-native-4b6e4ad1cd7f
+- [Analyse your React Native bundle in 1 command ](https://github.com/JonnyBurger/npx-visualize-bundle)
+- https://github.com/wcandillon/can-it-be-done-in-react-native
 
 ### Packages
 
@@ -96,6 +94,7 @@
 - [A Youtube clone built in React, Redux, Redux-saga.](https://github.com/productioncoder/youtube-react)
 - [Excalibur, drawing..](https://twitter.com/Vjeux/status/1212503324982792193) + https://twitter.com/Vjeux/status/1213259044724432896
 - [Stay up to date with what is happening and what the users who you follow are working on Github.](https://github.com/arojunior/awesome-feed)
+- https://github.com/axelra-ag/axelra-interview-challenge-frontend
 
 ### Charts
 

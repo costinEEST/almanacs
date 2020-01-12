@@ -22,7 +22,7 @@
 - https://fotis.xyz/tags/a11y
 - https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me
 - https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
-- https://spectrum.adobe.com/page/inclusive-design 
+- https://spectrum.adobe.com/page/inclusive-design
 
 ### CSS
 
@@ -40,6 +40,7 @@
 - https://slides.com/vincentntang/svg-everything-you-should-know-about-it#/svg-everything-you-should-know
 - https://slides.com/vincentntang/comparing-svg-canvas-webgl-css
 - https://github.com/willianjusten/awesome-svg + https://twitter.com/addyosmani/status/1210463389144645632
+- https://www.silvestar.codes/articles/how-to-animate-svg-signature/
 
 ### SEO
 
@@ -53,7 +54,6 @@
 - https://github.com/sw-yx/spark-joy#color-picking
 - https://dribbble.com/shots/6454763-Color-Composition-Testing-Temp-late + https://twitter.com/JustinMezzell/status/1126168335140286464
 - https://dribbble.com/stories/2020/01/08/color-palette-exploration
-
 
 ### Design
 
@@ -73,6 +73,7 @@
 - [Expressive Design Systems](https://twitter.com/yeseniaa/status/1176543104708616194)
 - [My biggest frustration with the term "design system" is that it leaves way too much wiggle room for the status quo to pretend it's keeping up.](https://twitter.com/markdalgleish/status/1208657843693350914)
 - https://github.com/alexpate/awesome-design-systems
+- https://abookapart.com/products/expressive-design-systems
 
 ### Typography
 
@@ -87,12 +88,13 @@
 - How to implement max-font-size? [tweet](https://twitter.com/starsandrobots/status/1199757377286754309) + [stackoverflow](https://stackoverflow.com/questions/40528290/how-to-implement-max-font-size/53146935#53146935)
 - https://muffingroup.com/blog/best-free-fonts
 - https://github.com/RoelN/Font-Falsehoods
+- [FontPair - Helps you pair Google Fonts together](https://fontpair.co)
 
 ### Animations
 
 - [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
 - https://github.com/desandro/practical-ui-physics
-- https://speakerdeck.com/ange/an-introduction-to-inkscape 
+- https://speakerdeck.com/ange/an-introduction-to-inkscape
 
 ### Illustrations
 
@@ -111,8 +113,7 @@
 - https://github.com/nitin42/generative-art-tools
 - https://github.com/yuanchuan/talk/tree/gh-pages/generative-art-with-css
 - [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
-- http://tholman.com/post/toolsday-generative-art + http://tholman.com/post/generative-artistry + http://tholman.com/post/generative-art-speedrun 
-
+- http://tholman.com/post/toolsday-generative-art + http://tholman.com/post/generative-artistry + http://tholman.com/post/generative-art-speedrun
 
 ### UX
 
@@ -149,13 +150,13 @@
 - https://dribbble.com/shots/9296597-Rotating-Cuboid-Form-CSS-Animation-Instant-Browser-Validation + https://codepen.io/leenalavanya/full/rNaYZJN
 - https://dribbble.com/shots/9323743-Furniture-Shopping-3D
 - https://dribbble.com/shots/9357635-Schedule-Demo-Exploration
-- https://canals-amsterdam.nl 
+- https://canals-amsterdam.nl
 - https://github.com/tastejs/awesome-app-ideas
 - https://github.com/samsquire/ideas
 
 ### Figma
 
-- https://contentreel.design 
+- https://contentreel.design
 - https://www.figma.com/c/plugin/784880696244762700/API-%2F-JSON-Sync
 - https://github.com/jagtalon/figma-fast-copy
 - https://figma.bothrs.com/

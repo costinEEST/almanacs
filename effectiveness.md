@@ -1,6 +1,7 @@
 ### Typing
 
 - [About the space bar.](https://mmazzarolo.com/blog/2019-08-30-about-the-space-bar)
+- https://github.com/dwyl/start-here#touch-typing
 
 ### Git
 
@@ -72,6 +73,7 @@
 - [One of my favorite features of Evernote is its mobile document "scanner".](https://twitter.com/devonzuegel/status/1213576043694632963)
 - [CFCC - CTS 130 - Spreadsheets](https://www.youtube.com/playlist?list=PL9gfSIdua13hRbXvsJAgBWZOGrqeI0_ul)
 - [Google Excel for accountability](https://twitter.com/kelseymwhelan/status/1080544082139795456)
+- https://github.com/cjbarber/ToolsOfTheTrade
 
 ### Books
 

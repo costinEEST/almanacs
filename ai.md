@@ -9,6 +9,10 @@
 
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
+### Tools
+
+- [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)
+
 ### Books
 
 - [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF)
@@ -21,6 +25,10 @@
 ### Neural networks
 
 - https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
+
+### CNN
+
+- https://github.com/murari023/awesome-background-subtraction
 
 ### Demos
 

@@ -5,3 +5,7 @@
 ### Books
 
 - https://github.com/mrzool/unix-as-ide
+
+### CLI
+
+- https://thenewstack.io/get-to-know-vi-a-text-editor-for-the-ages

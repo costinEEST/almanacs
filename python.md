@@ -7,6 +7,7 @@
 
 - https://github.com/changwookjun/StudyBook
 - https://github.com/trekhleb/learn-python
+- https://automatetheboringstuff.com/2e/
 
 ### Clean code
 

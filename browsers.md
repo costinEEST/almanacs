@@ -66,3 +66,4 @@ javascript: (() =>
 ### Miscellaneous
 
 - https://github.com/vasanthk/how-web-works
+- [The End of Indie Web Browsers: You Can (Not) Compete.](https://news.ycombinator.com/item?id=21992050)
