@@ -19,6 +19,7 @@
 ### Boilerplate
 
 - [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
+- [Open-source YouTube alternative that also supports image and audio uploads.](https://github.com/mayeaux/nodetube)
 
 ### Event loop
 

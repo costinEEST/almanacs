@@ -15,6 +15,7 @@
 - https://www.amazon.com/Network-Science-Albert-L%C3%A1szl%C3%B3-Barab%C3%A1si/dp/1107076269
 - https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 - https://www.amazon.com/Think-Stats-Exploratory-Data-Analysis/dp/1491907339
+- [Abramowitz and Stegun: Handbook of Mathematical Functions](http://people.math.sfu.ca/~cbm/aands/)
 
 ### Courses
 

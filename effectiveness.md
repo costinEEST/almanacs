@@ -99,6 +99,7 @@
 - https://github.com/hackerkid/Mind-Expanding-Books#writing
 - https://elenawrites.online/writing
 - https://github.com/ocean1/awesome-thesis
+- https://github.com/noffle/art-of-readme
 
 ### Drawing
 

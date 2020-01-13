@@ -17,6 +17,10 @@
 - https://github.com/learn-anything/chrome-extensions
 - https://github.com/stefanbuck/awesome-browser-extensions-for-github
 - https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo
+- [An HTTP Web Server for Chrome (chrome.sockets API)](https://github.com/kzahel/web-server-chrome)
+- [Chromebook app for forwarding connections from/to different ports and interfaces (or to internal android IP)](https://github.com/kzahel/connection-forwarder)
+- [A browser extension for custom keyboard shortcuts ](https://github.com/mikecrittenden/shortkeys)
+- https://github.com/pandawing/node-chrome-web-store-item-property
 
 ### Bookmarklets
 
