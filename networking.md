@@ -18,6 +18,7 @@
 - [Practical Packet Analysis, 3rd Edition. Using Wireshark to Solve Real-World Network Problems](https://nostarch.com/packetanalysis3)
 - https://www.amazon.co.uk/Wireshark-Workbook-Practice-Challenges-Solutions/dp/1893939642
 - https://www.chappell-university.com/post/free-tcp-analysis-poster
+- https://learning.oreilly.com/library/view/network-warrior-2nd/9781449307974/
 
 ### Communities
 
@@ -100,6 +101,7 @@
 - https://simpl.info/websocket
 - https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html + https://youtu.be/lrPPMDNpgdY
 - https://footstep.ninja/posts/websockets-testing + http://websocket.org/echo.html + https://install.advancedrestclient.com/install + https://kaazing.com/inspecting-websocket-traffic-with-chrome-developer-tools
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Sockets
 
 ### P2P
 
