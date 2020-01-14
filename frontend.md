@@ -68,6 +68,8 @@
 ### Design Systems
 
 - https://dev.to/devmodefm/design-systems-with-travis-gertz
+- https://www.smashingmagazine.com/design-systems-book
+- https://learning.oreilly.com/library/view/practical-ui-patterns/9781484249383
 - [Design Systems with Storybook & React](https://frontendmasters.com/workshops/design-systems-storybook)
 - [Design Systems London 2019](https://www.youtube.com/playlist?list=PLNC1kqILNVugoHglOCwa4bxhVDJp3lsBX)
 - [How a design system should begin?](https://twitter.com/matheus1lva/status/1200420309205233664)

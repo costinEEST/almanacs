@@ -1,12 +1,14 @@
 ### Books
 
 - https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910 
-- https://learning.oreilly.com/library/view/pro-d3js-use/9781484252031/
+- https://learning.oreilly.com/library/view/pro-d3js-use/9781484252031
+- [Fundamentals of Data Visualization by Claus O. Wilke](https://serialmentor.com/dataviz)
 
 ### Courses
 
 - https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568
 - [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&t=18606s)
+- https://www.udemy.com/course/masteringd3js/
 
 
 ### Talks
@@ -25,3 +27,4 @@
 - https://blockbuilder.org/search?thumb=true
 - https://www.informationisbeautifulawards.com
 - https://qz.com/re/data-visualization
+- [A collection of my data visualizations, mostly in Python.](https://github.com/aaronpenne/data_visualization)
