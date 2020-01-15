@@ -55,6 +55,7 @@
 - https://github.com/sw-yx/spark-joy#color-picking
 - https://dribbble.com/shots/6454763-Color-Composition-Testing-Temp-late + https://twitter.com/JustinMezzell/status/1126168335140286464
 - https://dribbble.com/stories/2020/01/08/color-palette-exploration
+- [leonardocolor.io is a web app for generating accessible color palettes using WCAG compliant contrast ratios.](https://github.com/adobe/leonardo)
 
 ### Design
 
@@ -178,3 +179,4 @@
 - https://github.com/JCGrant/awesome-hamartian-design
 - [..articles in the frontend and web dev space that are timeless and changed your perspective in some way.](https://twitter.com/PKodmad/status/1194381059950927872)
 - https://github.com/neutraltone/awesome-stock-resources
+- https://didoesdigital.com/project/code-for-designers/
