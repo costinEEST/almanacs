@@ -16,6 +16,7 @@
 ### AST
 
 - https://github.com/pshrmn/notes/blob/master/ast/nodes.md
+- https://github.com/kentcdodds/asts-workshop
 
 ### Compilers
 

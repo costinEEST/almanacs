@@ -77,6 +77,7 @@
 - https://github.com/lirantal/awesome-nodejs-security
 - [Security design pattern support for Node.js](https://github.com/mikesamuel/node-sec-patterns)
 - https://github.com/ChALkeR/notes
+- https://github.com/a0viedo/can-you-tell-if-your-node-app-is-healthy
 
 ### Static site generators
 

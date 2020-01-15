@@ -102,6 +102,8 @@
 - https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html + https://youtu.be/lrPPMDNpgdY
 - https://footstep.ninja/posts/websockets-testing + http://websocket.org/echo.html + https://install.advancedrestclient.com/install + https://kaazing.com/inspecting-websocket-traffic-with-chrome-developer-tools
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Sockets
+- https://www.peterbe.com/plog/websockets-vs-xhr-2019
+- [A pool of WebSocket connections. Supports reconnecting.](https://github.com/derhuerst/websocket-pool)
 
 ### P2P
 

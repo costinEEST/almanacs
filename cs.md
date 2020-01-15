@@ -45,6 +45,7 @@
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/Developer-Y/technical-interviews
 - https://github.com/karan/Projects
+- https://github.com/kdn251/interviews
 
 ### Miscellaneous
 

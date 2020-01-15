@@ -31,6 +31,10 @@ javascript: (() =>
   (window.location.href = `https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yourGmailAddress@gmail.com&su=${document.title}&body=${window.location.href}`))();
 ```
 
+### Engines
+
+- https://github.com/a0viedo/demystifying-js-engines
+
 ### Chrome
 
 - [When testing your redirects with Chrome, always test a 302 before a 301](https://twitter.com/Nick_Craver/status/1190228229979877378)
