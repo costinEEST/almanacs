@@ -104,6 +104,7 @@
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Sockets
 - https://www.peterbe.com/plog/websockets-vs-xhr-2019
 - [A pool of WebSocket connections. Supports reconnecting.](https://github.com/derhuerst/websocket-pool)
+- https://github.com/ehmicky/Notes/blob/master/RPC/Realtime/WebSocket/Server/WebSocket.protocol.txt
 
 ### P2P
 
