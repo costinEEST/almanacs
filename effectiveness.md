@@ -100,6 +100,7 @@
 - https://elenawrites.online/writing
 - https://github.com/ocean1/awesome-thesis
 - https://github.com/noffle/art-of-readme
+- https://github.com/springernature/frontend-playbook/blob/master/writing/README.md
 
 ### Drawing
 

@@ -23,6 +23,7 @@
 - https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me
 - https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
 - https://spectrum.adobe.com/page/inclusive-design
+- https://github.com/springernature/frontend-playbook/blob/master/accessibility/README.md
 
 ### CSS
 
@@ -131,6 +132,7 @@
 - [ Next level Phone UX ](https://gist.github.com/rauchg/4a964035ecd52a6a33de289295c26e98) + https://phone-ux.now.sh
 - https://trydesignlab.com/blog/tips-explain-ux-design-to-your-parents-this-christmas
 - https://uxdesign.cc/what-it-takes-to-be-a-product-designer-424a4151261e
+- https://github.com/hellerve/programming-talks#uxui
 
 ### Performance
 

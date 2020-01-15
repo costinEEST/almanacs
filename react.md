@@ -3,6 +3,7 @@
 - [Complete Intro to React v5](https://btholt.github.io/complete-intro-to-react-v5/)
 - https://github.com/kentcdodds/advanced-react-patterns-v2
 - https://github.com/r31gN/grasping-react-basics + https://github.com/r31gN/advanced-react
+- https://github.com/tylermcginnis/react-course
 
 ### Hooks
 
@@ -39,6 +40,7 @@
 ### Routing
 
 - [How do I pass props to a route component?](https://twitter.com/ryanflorence/status/1206643654753783808)
+- https://github.com/hinok/react-router-last-location
 
 ### Animations
 
@@ -95,10 +97,7 @@
 - [Excalibur, drawing..](https://twitter.com/Vjeux/status/1212503324982792193) + https://twitter.com/Vjeux/status/1213259044724432896
 - [Stay up to date with what is happening and what the users who you follow are working on Github.](https://github.com/arojunior/awesome-feed)
 - https://github.com/axelra-ag/axelra-interview-challenge-frontend
-
-### Charts
-
-- [Creating Animated Ch(art)s using D3 and React Hooks](https://github.com/monicawoj/react-advanced-london-d3-react-deck)
+- [Kanban Style Productivity Management Application with Customizable Boards, Lists and Cards to Make You More Productive.](https://github.com/dhruv-kumar-jha/productivity-frontend)
 
 ### Testing
 

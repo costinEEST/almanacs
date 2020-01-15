@@ -10,6 +10,10 @@
 
 - [Google Reader inspired self-hosted RSS reader.](https://github.com/Athou/commafeed)
 
+### Talks
+
+- https://github.com/hellerve/programming-talks#java--android
+
 ### Security
 
 - [A quick methodology on testing / hacking SAP Applications for n00bz and bug bounty hunters.](https://github.com/shipcod3/mySapAdventures)

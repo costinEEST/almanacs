@@ -2,6 +2,7 @@
 
 - [iOS Library List - A useful collection for iOS developers ](https://github.com/hugo53/iLL)
 - https://github.com/BohdanOrlov/ios-skills-matrix
+- https://github.com/onmyway133/fantastic-ios-architecture
 
 ### Tips
 
