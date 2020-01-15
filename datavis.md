@@ -10,6 +10,10 @@
 - [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&t=18606s)
 - https://www.udemy.com/course/masteringd3js
 
+### Best practices
+
+- https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf
+
 ### Tools
 
 - [Declarative and modular timeseries charting components for React.](https://github.com/esnet/react-timeseries-charts)

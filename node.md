@@ -15,6 +15,7 @@
 ### Cheat sheets
 
 - https://github.com/aliyr/Nodejs-Developer-Roadmap
+- https://github.com/dexteryy/spellbook-of-modern-webdev#nodejs
 
 ### Boilerplate
 
@@ -70,6 +71,7 @@
 - Scaling Your GraphQL Client: [tweet](https://twitter.com/mahoneymattj/status/1163276557546414081) + [slides](https://speakerdeck.com/mjmahone/scaling-your-graphql-client)
 - [Node scrapper for http://ctpcj.ro](https://github.com/Utwo/ctpcj-scraper)
 - [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
+- https://github.com/dexteryy/spellbook-of-modern-webdev#microservices--api-services-nodejs
 
 ### Security
 
@@ -101,3 +103,5 @@
 
 - https://github.com/shuhei/knowledge/blob/master/nodejs.md
 - https://github.com/ElemeFE/node-interview
+- https://github.com/dexteryy/spellbook-of-modern-webdev#server-side-libraries-nodejs
+- https://learn-anything.xyz/web-development/backend/nodejs

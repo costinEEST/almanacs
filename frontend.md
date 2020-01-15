@@ -24,6 +24,7 @@
 - https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
 - https://spectrum.adobe.com/page/inclusive-design
 - https://github.com/springernature/frontend-playbook/blob/master/accessibility/README.md
+- https://github.com/stringyland/a11y-learning-plan
 
 ### CSS
 
@@ -66,6 +67,8 @@
 - https://medium.com/swiggydesign/how-i-started-motion-design-using-high-school-physics-fa6cdbf12cde
 - https://medium.com/google-design/the-best-design-books-that-arent-explicitly-about-design-74fc96ce115e
 - [Geometric computation foundation for design](https://twitter.com/hyper_yolo/status/1188018751330897920)
+- [Building Beautiful UIs](https://bbuis.org)
+- https://didoesdigital.com/project/design-for-engineers
 
 ### Design Systems
 
@@ -141,6 +144,7 @@
 - https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
 - https://github.com/shuhei/knowledge/blob/master/web-perf.md
 - https://github.com/luruke/awesome-casestudy
+- https://github.com/micmro/performance-bookmarklet
 
 ### Portfolios
 

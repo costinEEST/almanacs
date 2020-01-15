@@ -14,6 +14,7 @@
 - https://github.com/rmolinamir/typescript-cheatsheet
 - https://github.com/shuhei/knowledge/blob/master/typescript.md#detect-optional-fields
 - https://blog.isquaredsoftware.com/2019/11/blogged-answers-learning-and-using-typescript 
+- https://github.com/antonjb/TypeScript-Learning-Plan
 
 ### Practice
 
