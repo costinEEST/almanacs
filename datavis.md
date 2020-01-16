@@ -3,6 +3,12 @@
 - https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910 
 - https://learning.oreilly.com/library/view/pro-d3js-use/9781484252031
 - [Fundamentals of Data Visualization by Claus O. Wilke](https://serialmentor.com/dataviz)
+- http://www.thefunctionalart.com
+- https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921
+- [Thread of books I have used and referenced when preparing and giving a #cartography and #GIS](https://twitter.com/ramiroaznar/status/1210269334830026755)
+- https://github.com/pshrmn/notes/tree/master/d3
+- https://speakerdeck.com/ashleydzick/modern-data-visualization-at-thatconference
+- [Modeling With Data](https://modelingwithdata.org/front.pdf)
 
 ### Courses
 

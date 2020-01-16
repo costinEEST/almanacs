@@ -4,6 +4,7 @@
 - https://github.com/kentcdodds/advanced-react-patterns-v2
 - https://github.com/r31gN/grasping-react-basics + https://github.com/r31gN/advanced-react
 - https://github.com/tylermcginnis/react-course
+- https://github.com/sibelius/relay-modern-course
 
 ### Hooks
 
@@ -27,6 +28,7 @@
 
 - [Reusable Code In React: Inheritance, Composition, Decorators and Mixins.](https://benmccormick.org/2019/02/11/reusable-react)
 - [What are some React anti-patterns that you encounter often? Why are they dangerous?](https://twitter.com/TejasKumar_/status/1214259916376027137)
+- [Component Base Role](https://gist.github.com/sibelius/593953c5f0ca8269668ded4c64f854be)
 
 ### Concurrent Mode/Suspense
 
@@ -87,6 +89,10 @@
 ### Podcasts
 
 - [React Round Up](https://devchat.tv/react-round-up/)
+
+### Debugging
+
+- https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug/
 
 ### Demos
 

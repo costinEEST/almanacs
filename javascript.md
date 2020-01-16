@@ -12,6 +12,7 @@
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - https://github.com/humanwhocodes/computer-science-in-javascript
+- https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
 
 ### AST
 
@@ -40,6 +41,7 @@
 
 - [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html)
 - [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
+- [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
 
 ### Talks
 
@@ -159,15 +161,6 @@
 ### Maps
 
 - [A Web-based map of timezones as they are at a point in time. ](https://github.com/dbaron/timezone-map)
-
-### Charts
-
-- http://www.thefunctionalart.com
-- https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921
-- [Thread of books I have used and referenced when preparing and giving a #cartography and #GIS](https://twitter.com/ramiroaznar/status/1210269334830026755)
-- https://github.com/pshrmn/notes/tree/master/d3
-- https://speakerdeck.com/ashleydzick/modern-data-visualization-at-thatconference
-- [Modeling With Data](https://modelingwithdata.org/front.pdf)
 
 ### Games
 

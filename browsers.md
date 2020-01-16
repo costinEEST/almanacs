@@ -34,6 +34,7 @@ javascript: (() =>
 ### Engines
 
 - https://github.com/a0viedo/demystifying-js-engines
+- https://github.com/thlorenz/v8-perf
 
 ### Chrome
 

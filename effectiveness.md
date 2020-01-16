@@ -75,6 +75,7 @@
 - [CFCC - CTS 130 - Spreadsheets](https://www.youtube.com/playlist?list=PL9gfSIdua13hRbXvsJAgBWZOGrqeI0_ul)
 - [Google Excel for accountability](https://twitter.com/kelseymwhelan/status/1080544082139795456)
 - https://github.com/cjbarber/ToolsOfTheTrade
+- [I need to build a presentation ..](https://twitter.com/tannerlinsley/status/1217607012416020480)
 
 ### Books
 
@@ -102,6 +103,7 @@
 - https://github.com/ocean1/awesome-thesis
 - https://github.com/noffle/art-of-readme
 - https://github.com/springernature/frontend-playbook/blob/master/writing/README.md
+- https://twitter.com/TaylorPearsonMe/status/1217845217757483008
 
 ### Drawing
 

@@ -16,6 +16,14 @@
 
 - https://medium.com/@sayliambure/hacking-a-5-smartband-824763ab6e8f
 
+### Firmware
+
+- https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks
+
+### Security
+
+- Backdooring a smart camera by creating a malicious firmware upgrade: [tweet](https://twitter.com/StackSmashing/status/1216738008441020416) + [repo](https://github.com/ghidraninja/wyze_scripts)
+
 ### Miscellaneous
 
 - https://japaniot.github.io/2020/01/01/how-i-automate-my-home-en

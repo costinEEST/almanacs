@@ -9,6 +9,7 @@
 - https://uibreakfast.com/category/podcast 
 - https://podcasts.apple.com/us/podcast/wireframe/id1437677219
 - https://anchor.fm/designhuddle/episodes/UX-Bites-Explains-How-He-Grew-An-Audience-on-Instagram-to-30K-Followers-in-90-days-e45he8
+- https://futureofcoding.org
 
 ### Movies
 

@@ -6,7 +6,7 @@
 
 ### Courses
 
-- https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/
+- https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide
 - https://www.udemy.com/course/nestjs-zero-to-hero/
 - https://www.udemy.com/course/nestjs-course/
 - https://www.udemy.com/course/learning-koajs-by-building-rest-apis
@@ -49,6 +49,8 @@
 ### Testing
 
 - https://github.com/doppelganger9/fruit-basket
+- https://engineering.klarna.com/6-lessons-learned-from-optimizing-the-performance-of-a-node-js-service-f163cac20473
+
 
 ### Authentication
 
