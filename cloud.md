@@ -12,3 +12,4 @@
 - [Firebase app architectures, languages, tools & some GCP things! ](https://github.com/jthegedus/firebase-gcp-examples)
 - https://medium.com/@Philmod/npm-release-automation-adb970e49066
 - https://medium.com/google-cloud/code-coverage-on-google-cloud-build-7fcf1b67f182
+- [.. Github API to collect metrics on the Node.js runtime to correlate it with survey in a Google Form. It is hosted on a Google Cloud Function.](https://github.com/asrivas/work-less-do-more)

@@ -85,6 +85,8 @@
 - [React Three Fiber](https://twitter.com/0xca0a/status/1204867532185853953)
 - [React Ideal Image](https://github.com/stereobooster/react-ideal-image/blob/master/introduction.md)
 - [React-Pivot is a data-grid component with pivot-table-like functionality for data display, filtering, and exploration.](https://github.com/davidguttman/react-pivot)
+- https://github.com/karadikid/shodan-react
+- https://github.com/codejamninja/react-ast
 
 ### Podcasts
 
@@ -104,6 +106,7 @@
 - [Stay up to date with what is happening and what the users who you follow are working on Github.](https://github.com/arojunior/awesome-feed)
 - https://github.com/axelra-ag/axelra-interview-challenge-frontend
 - [Kanban Style Productivity Management Application with Customizable Boards, Lists and Cards to Make You More Productive.](https://github.com/dhruv-kumar-jha/productivity-frontend)
+- https://github.com/jamischarles/chip8-emulator-react
 
 ### Testing
 

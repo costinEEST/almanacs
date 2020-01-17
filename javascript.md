@@ -22,6 +22,7 @@
 ### Compilers
 
 - https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
+- https://github.com/zenparsing/skert
 
 ### Patterns
 
@@ -157,10 +158,13 @@
 - [I have noticed 23% reduction in bundle size..](https://twitter.com/kuldeepkeshwar/status/1206806003179642880)
 - https://www.youtube.com/user/samccone/playlists
 - [A simple middleware-style router for isomorphic JavaScript web apps.](https://github.com/kriasoft/universal-router)
+- [A no-datastore, client-side paste service.](https://github.com/topaz/paste)
+- https://github.com/johnpolacek/mdx-deck-demo-greensock
 
 ### Maps
 
 - [A Web-based map of timezones as they are at a point in time. ](https://github.com/dbaron/timezone-map)
+- https://github.com/cedmax/flags
 
 ### Games
 
