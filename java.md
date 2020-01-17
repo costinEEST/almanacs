@@ -6,6 +6,11 @@
 
 - https://twitter.com/psobot/status/1204887283666685954
 
+### Algorithms
+
+- https://www.youtube.com/user/purpongie/playlists
+- https://github.com/williamfiset/Algorithms#geometry
+
 ### Tools
 
 - [Google Reader inspired self-hosted RSS reader.](https://github.com/Athou/commafeed)

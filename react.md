@@ -48,6 +48,7 @@
 
 - https://github.com/pshrmn/notes/blob/master/react/animation.md
 - [Mobile First Animation in React](https://twitter.com/addyosmani/status/1214428544303915013)
+- [Off Balance: Interactive Storytelling with React - Mihai Cernusca - React Rally 2019](http://mihaicernusca.com/off-balance)
 
 ### Server side rendering
 

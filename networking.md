@@ -112,7 +112,8 @@
 
 ### IFPS
 
-- https://github.com/ipfs-shipyard/ipfs-primer + https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/
+- https://github.com/ipfs-shipyard/ipfs-primer + https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content
+- https://www.scriptjunkie.us/2020/01/dispelling-decentralization-doubts + https://twitter.com/scriptjunkie1/status/1218213716648497152
 
 ### SSH
 

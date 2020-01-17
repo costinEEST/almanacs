@@ -62,6 +62,7 @@
 - [A Guide to Ketosis.](http://josepharcita.blogspot.com/2011/03/guide-to-ketosis.html?m=1)
 - [Behind the World's First Ketone Ester ft. Kieran Clarke || HVMN Enhancement Podcast: Ep. 48](https://youtu.be/qR4tf-np6jU)
 - https://isitketo.org
+- [How Keto Eased My PCOS — Jordan Swain [Adapt Event]](https://www.facebook.com/AdaptYourLife/videos/481025419270677)
 
 ### Fasting
 

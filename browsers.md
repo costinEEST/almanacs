@@ -21,6 +21,7 @@
 - [Chromebook app for forwarding connections from/to different ports and interfaces (or to internal android IP)](https://github.com/kzahel/connection-forwarder)
 - [A browser extension for custom keyboard shortcuts ](https://github.com/mikecrittenden/shortkeys)
 - https://github.com/pandawing/node-chrome-web-store-item-property
+- https://github.com/infokiller/web-search-navigator
 
 ### Bookmarklets
 
