@@ -2,6 +2,8 @@
 
 - [About the space bar.](https://mmazzarolo.com/blog/2019-08-30-about-the-space-bar)
 - https://github.com/dwyl/start-here#touch-typing
+- [Typey Type for Stenographers.](https://didoesdigital.com/typey-type)
+- https://github.com/manfredschulenburg/rasyti
 
 ### Git
 
@@ -28,6 +30,10 @@
 - Vim setup that includes several VSCode features: [tweet](https://twitter.com/benawad/status/1193911350541590528) + [video](https://youtu.be/gnupOrSEikQ)
 - [Vim screencasts by Greg Hurrell](https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
 - https://github.com/mhinz/vim-galore
+
+### tmux
+
+- https://nicknisi.com/posts/2015-11-02-tmux-for-presentation
 
 ### LaTeX
 

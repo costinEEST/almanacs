@@ -9,6 +9,8 @@
 - https://github.com/pshrmn/notes/tree/master/d3
 - https://speakerdeck.com/ashleydzick/modern-data-visualization-at-thatconference
 - [Modeling With Data](https://modelingwithdata.org/front.pdf)
+- [COMPLEX ANALYSIS. A Visual and Interactive Introduction](https://twitter.com/PonceCampuzano/status/1214850688506716160)
+- http://blog.yasiv.com/2016/04/storytelling-with-data-graph-analysis.html
 
 ### Courses
 

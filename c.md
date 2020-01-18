@@ -10,3 +10,7 @@
 ### Compilers
 
 - [A Compiler Writing Journey.](https://github.com/DoctorWkt/acwj)
+
+### Virtual machines
+
+- https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-systemvirtual-machine

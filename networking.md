@@ -69,6 +69,11 @@
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586)
 - [HTTPLeaks - All possible ways, a website can leak HTTP requests](https://github.com/cure53/HTTPLeaks)
 - [Mini HTTP guide for developers](https://news.ycombinator.com/item?id=21955953)
+- https://tldrsec.com/blog/appsec-cali-2019/#inducing-amnesia-in-browsers-the-clear-site-data-header
+
+### SSL
+
+- https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-certificate-authority
 
 ### HTTP/3
 
@@ -77,6 +82,7 @@
 ### DNS
 
 - [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
+- https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-dns-servers
 
 ### Host header
 
@@ -105,6 +111,7 @@
 - https://www.peterbe.com/plog/websockets-vs-xhr-2019
 - [A pool of WebSocket connections. Supports reconnecting.](https://github.com/derhuerst/websocket-pool)
 - https://github.com/ehmicky/Notes/blob/master/RPC/Realtime/WebSocket/Server/WebSocket.protocol.txt
+- [Comlink with WebSockets](https://twitter.com/DasSurma/status/1218207376899235840)
 
 ### P2P
 

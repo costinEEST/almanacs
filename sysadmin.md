@@ -16,6 +16,10 @@
 - https://github.com/Tikam02/DevOps-Guide
 - https://github.com/trimstray/test-your-sysadmin-skills
 
+### Monitoring
+
+- https://itnext.io/prometheus-for-beginners-5f20c2e89b6c
+
 ### CI/CD
 
 - https://www.gdcorner.com/2019/12/27/JenkinsHomeLab-P1-MasterSetup.html

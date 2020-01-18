@@ -66,7 +66,7 @@
 - https://github.com/stevekinney/react-state-management
 - [Immer over Immutable](https://twitter.com/acemarke/status/1213573285314809856)
 - https://github.com/brucou/movie-search-app
-
+- [XState presentation notes.](https://gist.github.com/fernandocortez/5e77d05e3866eccf0f8b371193918859)
 ### React Native
 
 - https://github.com/dabbott/react-native-express
@@ -79,6 +79,8 @@
 - https://medium.com/sanctuary-computer-inc/building-lightos-with-react-native-4b6e4ad1cd7f
 - [Analyse your React Native bundle in 1 command ](https://github.com/JonnyBurger/npx-visualize-bundle)
 - https://github.com/wcandillon/can-it-be-done-in-react-native
+- [A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android](https://github.com/Flaque/quirk)
+- [start building apps ..](https://twitter.com/danituits/status/1217950948976463872)
 
 ### Packages
 

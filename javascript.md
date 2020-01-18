@@ -18,11 +18,16 @@
 
 - https://github.com/pshrmn/notes/blob/master/ast/nodes.md
 - https://github.com/kentcdodds/asts-workshop
+- https://tldrsec.com/blog/appsec-cali-2019/#endpoint-finder-a-static-analysis-tool-to-find-web-endpoints
 
 ### Compilers
 
 - https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
 - https://github.com/zenparsing/skert
+
+### Interpreters
+
+- https://github.com/mezum/quickjs-cmake
 
 ### Patterns
 
@@ -113,6 +118,7 @@
 
 - [What does this code print?](https://twitter.com/Swizec/status/1206624095816699906)
 - [Canceling long-running operations](https://haroen.me/presentations/en/canceling-async)
+- https://medium.com/edge-coders/why-are-promises-better-than-callbacks-c16f8ff1ae1e
 
 ### async await
 

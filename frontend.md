@@ -29,7 +29,8 @@
 
 ### CSS
 
-- https://youmightnotneed.com/css/
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUcPyDx67bTPJBLauKMyfjlt
+- https://youmightnotneed.com/css
 - [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
 - https://github.com/shuhei/knowledge/blob/master/browser.md#css
 - https://gist.github.com/pburtchaell/e702f441ba9b3f76f587
@@ -37,6 +38,8 @@
 - https://justmarkup.com/articles/2019-10-21-image-orientation
 - [You know how 100vh isn't actually 100% of the height of the visible space inside a viewport on mobile??](https://twitter.com/jensimmons/status/1215803697969684480)
 - https://github.com/johnpolacek/the-case-for-atomic-css
+- https://css-tricks.com/css-only-carousel
+- [Power switch animation - Only CSS](https://codepen.io/milanraring/full/KKwRBQp)
 
 ### SVG
 
@@ -105,6 +108,8 @@
 - [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
 - https://github.com/desandro/practical-ui-physics
 - https://speakerdeck.com/ange/an-introduction-to-inkscape
+- https://css-tricks.com/animating-layouts-with-the-flip-technique
+- [10 things I hate about animation.](https://birtles.github.io/mozdev2019)
 
 ### Illustrations
 
@@ -147,6 +152,7 @@
 - https://github.com/shuhei/knowledge/blob/master/web-perf.md
 - https://github.com/luruke/awesome-casestudy
 - https://github.com/micmro/performance-bookmarklet
+- [Mobile Image Processing at London Web Perf Meetup, 2016](https://twitter.com/IacobanIulia/status/1218323157909737473)
 
 ### Portfolios
 

@@ -4,6 +4,10 @@
 - [How do you sync .env files (project specific) that are git-ignored between different computers?](https://twitter.com/thekitze/status/1207718292149952512)
 - [nvm install node --reinstall-packages-from=node](https://twitter.com/mtliendo/status/1215382381026316290)
 
+### Talks
+
+- [MNUG - Munich NodeJS User Group](http://mnug.de/videos.html)
+
 ### Courses
 
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide
@@ -11,6 +15,11 @@
 - https://www.udemy.com/course/nestjs-course/
 - https://www.udemy.com/course/learning-koajs-by-building-rest-apis
 - [TypeScript with Node.js by Zaiste](https://www.youtube.com/playlist?list=PLhXZp00uXBk72m_G7E2Bshzd7PDpaInE1)
+- https://khalilstemmler.com/articles/domain-driven-design-intro + https://github.com/stemmlerjs/white-label
+
+### Books
+
+- [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
 
 ### Cheat sheets
 
@@ -21,6 +30,11 @@
 
 - [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
 - [Open-source YouTube alternative that also supports image and audio uploads.](https://github.com/mayeaux/nodetube)
+
+### Debugging
+
+- [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
+- https://evilpacket.net/2019/leveraging-javascript-debuggers 
 
 ### Event loop
 
@@ -46,6 +60,8 @@
 - [Make the default export of a file executable in in Node.js! ](https://github.com/jonnyburger/xns)
 - https://github.com/przemyslawpluta/node-youtube-dl
 - [Node Task List: Interactive cli to list and run package.json scripts.](https://github.com/ruyadorno/ntl)
+- [Visualization of npm shows dependency graph of an npm package.](https://github.com/anvaka/npmgraph.an)
+- [CLI utility for displaying current network utilization by process, connection and remote IP/hostname.](https://twitter.com/mikeal/status/1217554555350798339)
 
 ### Testing
 
@@ -75,6 +91,14 @@
 - [Node scrapper for http://ctpcj.ro](https://github.com/Utwo/ctpcj-scraper)
 - [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
 - https://github.com/dexteryy/spellbook-of-modern-webdev#microservices--api-services-nodejs
+
+### Microservices
+
+- https://github.com/stemmlerjs/solid-email-microservice
+
+### Design patterns
+
+- [Hacker news-inspired forum app built with TypeScript & DDD from solidbook.io.](https://github.com/stemmlerjs/ddd-forum)
 
 ### Security
 

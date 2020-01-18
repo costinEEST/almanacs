@@ -24,6 +24,7 @@
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/)
 - https://lethain.com/handbook-relational-db-design-on-data-modeling 
 - https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
+- [beginners](https://twitter.com/samerbuna/status/1183771023054987264)
 
 ### Games
 
