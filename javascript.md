@@ -7,6 +7,8 @@
 
 - https://rreverser.com/tabs-vs-space
 - [tagname-vs-instanceof](https://twitter.com/diegohaz/status/1200565864287866887)
+- [Parsing JSON Really Quickly: Lessons Learned](https://youtu.be/wlvKAT7SZIQ)
+- https://philipwalton.com/articles/smaller-html-payloads-with-service-workers/
 
 ### Algorithms
 
@@ -19,6 +21,10 @@
 - https://github.com/pshrmn/notes/blob/master/ast/nodes.md
 - https://github.com/kentcdodds/asts-workshop
 - https://tldrsec.com/blog/appsec-cali-2019/#endpoint-finder-a-static-analysis-tool-to-find-web-endpoints
+
+### Obfuscation
+
+- https://www.perimeterx.com/blog/analyzing_magecart_malware_from_zero_to_hero
 
 ### Compilers
 
@@ -91,6 +97,7 @@
 ### WebGL
 
 - https://alain.xyz/blog/raw-webgl
+- [Minimal WebGL Library.](https://github.com/oframe/ogl)
 
 ### Modules
 
@@ -144,6 +151,7 @@
 - https://github.com/paulirish/lite-youtube-embed
 - https://github.com/luwes/lite-vimeo-embed
 - https://github.com/davatron5000/awesome-standalones
+- [Design System Stencil Example.](https://github.com/AJONPLLC/ajonp-stencil-example)
 
 ### Testing
 
@@ -166,6 +174,7 @@
 - [A simple middleware-style router for isomorphic JavaScript web apps.](https://github.com/kriasoft/universal-router)
 - [A no-datastore, client-side paste service.](https://github.com/topaz/paste)
 - https://github.com/johnpolacek/mdx-deck-demo-greensock
+- [Transforms PDF, Documents and Images into Enriched Structured Data.](https://github.com/axa-group/Parsr)
 
 ### Maps
 

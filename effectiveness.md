@@ -110,6 +110,7 @@
 - https://github.com/noffle/art-of-readme
 - https://github.com/springernature/frontend-playbook/blob/master/writing/README.md
 - https://twitter.com/TaylorPearsonMe/status/1217845217757483008
+- https://mkaz.blog/misc/notes-on-technical-writing
 
 ### Drawing
 

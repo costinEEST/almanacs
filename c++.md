@@ -6,6 +6,7 @@
 ### talks
 
 - https://github.com/hellerve/programming-talks#c-1
+- [C++ for Hackers](https://twitter.com/jalospinoso/status/1216416792635232256)
 
 ### Live coding
 

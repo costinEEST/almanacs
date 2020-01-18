@@ -51,3 +51,4 @@
 
 - [Rocket Men by Robert Kurson](https://twitter.com/Yaz17657882/status/1206566643142258691)
 - [What We Cannot Know: Explorations at the Edge of Knowledge ](https://www.amazon.com/What-Cannot-Know-Explorations-Knowledge-ebook/dp/B012LWZHWU)
+- [A calculator for the Terminal that renders beautiful math.](https://kary.us/nota)

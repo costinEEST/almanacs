@@ -10,6 +10,8 @@
 - https://podcasts.apple.com/us/podcast/wireframe/id1437677219
 - https://anchor.fm/designhuddle/episodes/UX-Bites-Explains-How-He-Grew-An-Audience-on-Instagram-to-30K-Followers-in-90-days-e45he8
 - https://futureofcoding.org
+- [The best technology podcast episodes](https://podnami.com)
+- [What were your most impactful podcast episodes from 2019?](https://news.ycombinator.com/item?id=22027315)
 
 ### Movies
 
@@ -99,6 +101,8 @@
 
 - https://www.youtube.com/user/marcobucci/playlists
 - https://www.youtube.com/user/ProkoTV/playlists + https://www.proko.com/library/#.XhkJciOxVPa
+- [Team Bradley](https://www.youtube.com/channel/UCYu89Q_krburzkoDSpm5xjw)
+- https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock
 
 ### Architecture
 
@@ -139,6 +143,10 @@
 ### Skateboarding
 
 - [Professor Paul Schmitt](https://www.facebook.com/DanubeFootwear/posts/2239139673050235)
+
+### Swimming
+
+- [How to Learn How to Surf](https://youtu.be/wn5KqWwP6uQ)
 
 ### Chess
 

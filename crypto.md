@@ -23,7 +23,7 @@
 ### Books
 
 - https://github.com/nakov/Practical-Cryptography-for-Developers-Book
-- [A Graduate Course in Applied Cryptography (Rev 2020)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf)
+- [A Graduate Course in Applied Cryptography (Rev 2020)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf) + https://toc.cryptobook.us
 
 ### Demos
 

@@ -50,6 +50,7 @@
 - https://hakin9.org/universal-radio-hacker-investigate-wireless-protocols-like-a-boss/
 - https://www.rtl-sdr.com/talk-journey-fm-rds-oona-raisanen
 - https://github.com/0x90/wifi-arsenal
+- [An Empirical Study of Wireless Carrier Authentication for SIM Swaps](https://www.issms2fasecure.com)
 
 ### 5G
 
@@ -74,6 +75,7 @@
 ### SSL
 
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-certificate-authority
+- [Lessons learned running SSL/TLS at scale (FOSDEM 2016)](https://youtu.be/9Ya8H-9Hrp4)
 
 ### HTTP/3
 

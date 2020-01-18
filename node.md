@@ -62,6 +62,7 @@
 - [Node Task List: Interactive cli to list and run package.json scripts.](https://github.com/ruyadorno/ntl)
 - [Visualization of npm shows dependency graph of an npm package.](https://github.com/anvaka/npmgraph.an)
 - [CLI utility for displaying current network utilization by process, connection and remote IP/hostname.](https://twitter.com/mikeal/status/1217554555350798339)
+- https://github.com/justjavac/awesome-node-utils
 
 ### Testing
 

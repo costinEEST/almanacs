@@ -3,6 +3,7 @@
 - [Crows could be the smartest animal other than primates](https://www.bbc.com/future/article/20191211-crows-could-be-the-smartest-animal-other-than-primates)
 - [Great White Sharks Are Completely Terrified of Orcas](https://www.smithsonianmag.com/smart-news/great-white-sharks-are-completely-terrified-orcas-180972009)
 - https://www.amazon.com/Extreme-Life-Sea-Stephen-Palumbi/dp/0691169810 + https://neal.fun/deep-sea
+- http://www.overcomingbias.com/2020/01/how-bees-argue.html
 
 ### Biology
 
@@ -17,16 +18,19 @@
 - [Biology by CrashCourse](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
 - [The Neuronal Basis of Consciousness Course - CNS/Bi/Psy 120](https://www.youtube.com/playlist?list=PL1DBCFC32CF6945EE)
 - [Exploring Different Species by Journey to the Microcosmos](https://www.youtube.com/playlist?list=PLf3BfsFyWWMF48QHimH7jxHQMX0Q5UpPS)
+- the microbe database(microbe.directory/developers): [github](https://github.com/microbe-directory/microbe-directory) + [bitbucket](https://bitbucket.org/account/signin/?next=/microbedb/microbedb)
 
 ### Anatomy
 
 - [Don't Die Young: An Anatomist's Guide to Your Organs and Your Health.](https://www.amazon.com/Dont-Die-Young-Anatomists-Organs/dp/0747592802)
 - [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson/dp/0385539304)
 - https://www.youtube.com/user/physicaltherapyvideo/playlists
+- https://inquisitivebiologist.wordpress.com/2019/03/21/book-review-lost-anatomies-the-evolution-of-the-human-form/
 
 ### Botany
 
 - http://www.editura-electra.ro/produs/ierburile-sacre-etnobotanica-magica-romaneasca
+- http://www.indefenseofplants.com/podcast/2018/11/11/ep-186-being-totally-obsessed-with-botany
 
 ### Chemistry
 
@@ -37,6 +41,7 @@
 - [Edible chem by NileRed](https://www.youtube.com/playlist?list=PLbaramj7Nly7bs5EiT3Hmlx4XudWHe6V0)
 - [Electrochemistry by NurdRage](https://www.youtube.com/playlist?list=PLU79801KtVAUCrIv5rJn3lEK_6IvekEa7)
 - https://www.amazon.com/Ten-Drugs-Powders-History-Medicine/dp/1419734407
+- https://youtu.be/favrMbfi1Pw + https://www.amazon.com/Demon-Machine-Paul-Davies/dp/024130959X
 
 ### Physics
 
@@ -56,6 +61,10 @@
 - [8.03 - MIT Physics III: Vibrations and Waves](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89)
 - [ Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw/playlists)
 
+### Food
+
+- https://www.healthline.com/nutrition/10-nutrients-you-cant-get-from-animal-foods
+
 ### Ketosis
 
 - https://www.facebook.com/groups/755526297805685/permalink/1902882243070079
@@ -70,6 +79,7 @@
 - [Intermittent Fasting: Transformational Technique | Cynthia Thurlow | TEDxGreenville](https://youtu.be/A6Dkt7zyImk)
 - https://peterattiamd.com/jasonfung + https://news.ycombinator.com/item?id=21802676
 - [Personal playlist](https://www.youtube.com/playlist?list=PLWIcRrPLCdUfEsFPi53bI3BeljwcIBIWl)
+- https://twitter.com/KetoAurelius/status/1216461099404595200
 
 ### Aging
 

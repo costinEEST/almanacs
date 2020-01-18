@@ -62,6 +62,7 @@
 - https://dribbble.com/shots/6454763-Color-Composition-Testing-Temp-late + https://twitter.com/JustinMezzell/status/1126168335140286464
 - https://dribbble.com/stories/2020/01/08/color-palette-exploration
 - [leonardocolor.io is a web app for generating accessible color palettes using WCAG compliant contrast ratios.](https://github.com/adobe/leonardo)
+- https://tsh.io/blog/why-should-you-use-hsl-color-representation-in-css
 - 
 
 ### Design
@@ -102,6 +103,7 @@
 - https://muffingroup.com/blog/best-free-fonts
 - https://github.com/RoelN/Font-Falsehoods
 - [FontPair - Helps you pair Google Fonts together](https://fontpair.co)
+- [A short history of body copy sizes on the Web.](https://fvsch.com/body-copy-sizes)
 
 ### Animations
 

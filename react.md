@@ -14,6 +14,7 @@
 - [Subscribe to a user's light/dark preference..](https://twitter.com/tannerlinsley/status/1211721986319110144)
 - [React Hooks — 👍](https://github.com/streamich/react-use)
 - https://github.com/at0g/hooks
+- https://github.com/latviancoder/hooks-by-example
 
 ### Context API
 
@@ -29,11 +30,13 @@
 - [Reusable Code In React: Inheritance, Composition, Decorators and Mixins.](https://benmccormick.org/2019/02/11/reusable-react)
 - [What are some React anti-patterns that you encounter often? Why are they dangerous?](https://twitter.com/TejasKumar_/status/1214259916376027137)
 - [Component Base Role](https://gist.github.com/sibelius/593953c5f0ca8269668ded4c64f854be)
+- [render prop](https://twitter.com/aweary/status/1217487206320730114)
 
 ### Concurrent Mode/Suspense
 
 - https://github.com/chantastic/react-suspense-course
 - My little React Suspense cache strategy: [tweet](https://twitter.com/ryanflorence/status/1206988974327128064) + [gist](https://gist.github.com/ryanflorence/e10cc9dbc0e259759ec942ba82e5b57c)
+- https://github.com/sw-yx/concurrent-react-notes
 
 ### Lazy
 
@@ -55,6 +58,8 @@
 - https://arkwright.github.io/scaling-react-server-side-rendering.html
 - [ds - personal site manager - powered by next.js](https://github.com/divyenduz/ds)
 - [Like JSX, but native and fast.](https://github.com/esxjs/esx)
+- [Next.js Example using Firestore, Firebase Hosting and Material UI.](https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs)
+- https://github.com/johnapost/nextjs-firebase-fns-demo
 
 ### State management
 
@@ -67,6 +72,8 @@
 - [Immer over Immutable](https://twitter.com/acemarke/status/1213573285314809856)
 - https://github.com/brucou/movie-search-app
 - [XState presentation notes.](https://gist.github.com/fernandocortez/5e77d05e3866eccf0f8b371193918859)
+- https://kentcdodds.com/blog/make-impossible-states-impossible
+
 ### React Native
 
 - https://github.com/dabbott/react-native-express
@@ -90,6 +97,8 @@
 - [React-Pivot is a data-grid component with pivot-table-like functionality for data display, filtering, and exploration.](https://github.com/davidguttman/react-pivot)
 - https://github.com/karadikid/shodan-react
 - https://github.com/codejamninja/react-ast
+- [A ReactJS-based Presentation Library.](https://github.com/FormidableLabs/spectacle)
+- https://github.com/wojtekmaj/react-datetimerange-picker
 
 ### Podcasts
 
@@ -97,7 +106,9 @@
 
 ### Debugging
 
-- https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug/
+- https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug
+- [Profiling React app rendering performance](https://youtu.be/iTrCNz1gRt0)
+- https://houssein.me/progressive-react
 
 ### Demos
 
@@ -110,6 +121,8 @@
 - https://github.com/axelra-ag/axelra-interview-challenge-frontend
 - [Kanban Style Productivity Management Application with Customizable Boards, Lists and Cards to Make You More Productive.](https://github.com/dhruv-kumar-jha/productivity-frontend)
 - https://github.com/jamischarles/chip8-emulator-react
+- [Cycling routes app built with React (hooks), styled-components, Leaflet and d3.](https://github.com/latviancoder/my-cycling-routes)
+- https://github.com/marmelab/react-admin
 
 ### Testing
 

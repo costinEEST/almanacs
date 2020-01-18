@@ -6,3 +6,4 @@
 ### Tools
 
 - [An extremely opinionated and highly personalized script to set up a new Mac machine, just the way I like it!](https://github.com/nnja/new-computer)
+- [dotfiles](https://twitter.com/jsjoeio/status/1216921686932504576)
