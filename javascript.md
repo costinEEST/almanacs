@@ -143,6 +143,10 @@
 
 - [When to use OOP; when to use FP](https://twitter.com/rauschma/status/1212996411324801026)
 
+### xor
+
+- https://twitter.com/rauschma/status/1218579324976140288
+
 ### Web Components
 
 - https://briangrinstead.com/blog/firefox-webcomponents

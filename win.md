@@ -1,6 +1,15 @@
-### TIL
+### How to
 
 - https://www.bleepingcomputer.com/news/microsoft/you-can-still-upgrade-to-windows-10-for-free-heres-how
+- https://twitter.com/JenMsft/status/1218526323271823360
+  
+### Talks
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeJrvjEuCygYk4QiTXQpOyW
+
+### Courses
+
+- https://www.pluralsight.com/authors/sami-laiho
 
 ### Internals
 
@@ -17,6 +26,10 @@
 ### Powershell
 
 - [People ask you for the Wi-Fi password. Answer quickly.](https://github.com/RReverser/WiFi-Password)
+
+### notepad.exe
+
+- https://twitter.com/JaekelEDV/status/942496501393223680 + https://www.groovypost.com/howto/5-groovy-things-about-notepad-exe
 
 ### Clean up
 

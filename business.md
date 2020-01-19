@@ -67,6 +67,7 @@
 - [Tools For Thought. The History and Future of Mind-Expanding Technology by Howard Rheingold](http://www.rheingold.com/texts/tft/) + [.pdf](http://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/22/Tools_For_Thought.pdf)
 - [Age of Invention by Anton Howes.](https://antonhowes.substack.com/archive)
 - [I asked Tony Fadell about the iPod timeline ..](https://twitter.com/patrickc/status/1216477318434050048)
+- [Gary Starkweather.](https://twitter.com/rauschma/status/1218576177444593665)
 
 ### Essays
 
