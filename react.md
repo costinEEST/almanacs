@@ -39,6 +39,10 @@
 
 - [Headless UI components](https://twitter.com/rauchg/status/1199157227677868032)
 - https://github.com/jquense/react-widgets
+- https://hugogiraudel.com/2020/01/17/accessible-links-and-buttons-with-react + https://gist.github.com/StevenLangbroek/bbf63723b3c87d88644eae34cb9a0d01
+- [Monolithic Components, Composable Components](https://gist.github.com/busypeoples/d5fe7d6ef3dfadcc20b5a2b0d0ef74a5)
+- [Making unrepresentable UI representations unrepresentable!](https://gist.github.com/busypeoples/5cfeea36f900f426fd08af6cfb0d2e99)
+- [Transforming Elements in React.](https://gist.github.com/busypeoples/3acfa392c8ce314d907c5772886ed3a8)
 
 ### Patterns
 
@@ -62,11 +66,12 @@
 - [How do I pass props to a route component?](https://twitter.com/ryanflorence/status/1206643654753783808)
 - https://github.com/hinok/react-router-last-location
 
-### Animations
+### CSS/Animations
 
 - https://github.com/pshrmn/notes/blob/master/react/animation.md
 - [Mobile First Animation in React](https://twitter.com/addyosmani/status/1214428544303915013)
 - [Off Balance: Interactive Storytelling with React - Mihai Cernusca - React Rally 2019](http://mihaicernusca.com/off-balance)
+- [Declarative Style Definitions Pt.1](https://gist.github.com/busypeoples/cc865934f22affd6795392e2f55fdaff)
 
 ### Server side rendering
 
@@ -105,6 +110,8 @@
 - [A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android](https://github.com/Flaque/quirk)
 - [start building apps ..](https://twitter.com/danituits/status/1217950948976463872)
 - https://github.com/sonnylazuardi/react-native-nike-running
+- [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://www.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)
+- [Building together.fit 🚧🔨💪](https://youtu.be/-_KIwWvFbHc) + https://ethan.link/blog/the-start-of-together-fit
 
 ### Packages
 

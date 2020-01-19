@@ -55,6 +55,7 @@
 
 - [Misquoting Jesus by Bart D. Ehrman (2005)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#misquoting-jesus)
 - [A Brief History of Thought: A Philosophical Guide to Living (Learning to Live)](https://www.amazon.com/Brief-History-Thought-Philosophical-Learning/dp/0062074245)
+- https://twitter.com/soenke_ahrens/status/1155167135485825024
 
 ### Geography
 

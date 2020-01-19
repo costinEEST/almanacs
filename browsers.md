@@ -33,6 +33,8 @@ javascript: (() =>
   (window.location.href = `https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yourGmailAddress@gmail.com&su=${document.title}&body=${window.location.href}`))();
 ```
 
+- [Speed Controls.](https://codepen.io/wilman/pen/ZWdEPX)
+
 ### Engines
 
 - https://github.com/a0viedo/demystifying-js-engines

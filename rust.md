@@ -1,6 +1,14 @@
 ### Tutorials
 
+- https://twitter.com/samaaron/status/1214649047002292224
 - https://github.com/Mercateo/rust-for-node-developers
+- [Rust Programming Tutorials by dcode](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
+- [Rust by Crazcalm's Tech Stack](https://www.youtube.com/playlist?list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X)
+- https://pascalprecht.github.io/posts/learning-rust
+
+### Algorithms
+
+- https://github.com/Mec-iS/rust-algos-illuminated
 
 ### Games
 

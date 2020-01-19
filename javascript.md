@@ -8,7 +8,8 @@
 - https://rreverser.com/tabs-vs-space
 - [tagname-vs-instanceof](https://twitter.com/diegohaz/status/1200565864287866887)
 - [Parsing JSON Really Quickly: Lessons Learned](https://youtu.be/wlvKAT7SZIQ)
-- https://philipwalton.com/articles/smaller-html-payloads-with-service-workers/
+- https://philipwalton.com/articles/smaller-html-payloads-with-service-workers
+- https://twitter.com/btmpl/status/1218456923684724736
 
 ### Algorithms
 
@@ -22,6 +23,7 @@
 - https://github.com/pshrmn/notes/blob/master/ast/nodes.md
 - https://github.com/kentcdodds/asts-workshop
 - https://tldrsec.com/blog/appsec-cali-2019/#endpoint-finder-a-static-analysis-tool-to-find-web-endpoints
+- [What did you build using Abstract syntax tree?](https://twitter.com/kuldeepkeshwar/status/1214800664460550144)
 
 ### Obfuscation
 
@@ -153,6 +155,10 @@
 ### xor
 
 - https://twitter.com/rauschma/status/1218579324976140288
+
+### new MutationObserver()
+
+- [syntax-fm-sticky-show-notes.user.js](https://gist.github.com/salembeats/8d1b73d2cf14ba012039ac844d0c79c6)
 
 ### Web Components
 

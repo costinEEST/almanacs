@@ -20,6 +20,10 @@
 - [How do people self publish books?](https://twitter.com/EmmaWedekind/status/1177325024887418880)
 - [Just Enough Co-Authoring in Leanpub.](https://leanpub.com/jeco-authoring)
 
+### Management
+
+- https://twitter.com/dabit3/status/1214711699145543680 + https://twitter.com/dan_abramov/status/1203486500731719681 + https://twitter.com/kurtiskemple/status/986746802073423873
+
 ### Strategy
 
 - [Technology Strategy Patterns: Architecture as Strategy](https://learning.oreilly.com/library/view/technology-strategy-patterns/9781492040866)
@@ -30,12 +34,13 @@
 - https://awesometalks.party/category/agile
 - [Do you know any SaaS businesses that have been equally public with their company culture and published a company manual?](https://twitter.com/arvidkahl/status/1213506047341715457)
 
-### Startup
+### Startups
 
 - [Never Lost Again: The Google Mapping Revolution That Sparked New Industries and Augmented Our Reality.](https://www.amazon.com/Never-Lost-Again-Revolution-Industries/dp/0062673041)
 - [I grew Visa List to \$5k per month in a year.](https://news.ycombinator.com/item?id=21796088)
 - [Which is the most successful one-person business you heard of in 2019?](https://news.ycombinator.com/item?id=21908577)
 - [Some examples of people quickly accomplishing ambitious things together.](https://patrickcollison.com/fast)
+- [Yahoo Pipes](https://twitter.com/jasvir/status/1199189359083130880)
 
 
 ### Investing

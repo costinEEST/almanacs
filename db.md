@@ -20,6 +20,7 @@
 
 - [Algorithms behind Modern Storage Systems.](https://www.infoq.com/presentations/storage-algorithms)
 - [ CMU Database Group](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)
+- [SQL Tutorial for Beginners by Ben Awad](https://twitter.com/benawad/status/1217109321902850048)
 
 ### Books
 

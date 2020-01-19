@@ -81,6 +81,10 @@
 - [Personal playlist](https://www.youtube.com/playlist?list=PLWIcRrPLCdUfEsFPi53bI3BeljwcIBIWl)
 - https://twitter.com/KetoAurelius/status/1216461099404595200
 
+### Fitness
+
+- https://www.julian.com/guide/muscle/intro
+
 ### Aging
 
 - [Answering the ultimate question "what is the proximal cause of aging?".](https://www.ncbi.nlm.nih.gov/m/pubmed/23425777/)

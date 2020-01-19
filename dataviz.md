@@ -11,6 +11,7 @@
 - [Modeling With Data](https://modelingwithdata.org/front.pdf)
 - [COMPLEX ANALYSIS. A Visual and Interactive Introduction](https://twitter.com/PonceCampuzano/status/1214850688506716160)
 - http://blog.yasiv.com/2016/04/storytelling-with-data-graph-analysis.html
+- https://www.evelina-judeikyte.com/home/2019-a-year-of-data-viz
 
 ### Courses
 
@@ -35,12 +36,14 @@
 
 ### Radio
 
-- https://www.visualisingdata.com/2020/01/explore-explain-a-new-video-and-podcast-series/
+- https://www.visualisingdata.com/2020/01/explore-explain-a-new-video-and-podcast-series
+- http://www.storytellingwithdata.com/podcast
 
 ### Demos
 
 - [Japanese Architectural Heritage](https://twitter.com/AlexanderVar7/status/1215763711496990722)
-- [#dataviz](https://twitter.com/search?q=%23dataviz)
+- [#dataviz](https://twitter.com/hashtag/dataviz)
+- [#MakeoverMonday](https://twitter.com/hashtag/MakeoverMonday)
 - https://observablehq.com/explore
 - https://blockbuilder.org/search?thumb=true
 - https://www.informationisbeautifulawards.com

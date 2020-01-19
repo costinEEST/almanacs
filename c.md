@@ -2,6 +2,7 @@
 
 - [Computer Science from the Bottom Up.](https://www.bottomupcs.com/index.xhtml)
 - [Think OS: A Brief Introduction to Operating Systems](https://greenteapress.com/wp/think-os)
+- [The C Programming Language by Brian Kernighan and Dennis Ritchie](https://twitter.com/oznova_/status/1214971707863101440)
 
 ### Talks
 
