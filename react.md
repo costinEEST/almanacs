@@ -6,6 +6,9 @@
 - https://github.com/tylermcginnis/react-course
 - https://github.com/sibelius/relay-modern-course
 - https://github.com/himynameisdave/safari-training-react
+- https://github.com/cyan33/learn-react-source-code
+- https://github.com/acdlite/react-fiber-architecture
+- https://github.com/mfrachet/create-frontend-framework
 
 ### Talks
 
@@ -24,6 +27,8 @@
 - [React Hooks — 👍](https://github.com/streamich/react-use)
 - https://github.com/at0g/hooks
 - https://github.com/latviancoder/hooks-by-example
+- https://beautifulinteractions.github.io/beautiful-react-hooks
+- https://github.com/mfrachet/use-socketio
 
 ### Context API
 
@@ -33,6 +38,7 @@
 ### Components
 
 - [Headless UI components](https://twitter.com/rauchg/status/1199157227677868032)
+- https://github.com/jquense/react-widgets
 
 ### Patterns
 
@@ -69,6 +75,7 @@
 - [Like JSX, but native and fast.](https://github.com/esxjs/esx)
 - [Next.js Example using Firestore, Firebase Hosting and Material UI.](https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs)
 - https://github.com/johnapost/nextjs-firebase-fns-demo
+- https://masteringnextjs.com
 
 ### State management
 
@@ -97,11 +104,12 @@
 - https://github.com/wcandillon/can-it-be-done-in-react-native
 - [A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android](https://github.com/Flaque/quirk)
 - [start building apps ..](https://twitter.com/danituits/status/1217950948976463872)
+- https://github.com/sonnylazuardi/react-native-nike-running
 
 ### Packages
 
 - [React Spring](https://twitter.com/EmmaWedekind/status/1207231921320865792)
-- [React Three Fiber](https://twitter.com/0xca0a/status/1204867532185853953)
+- [React Three Fiber](https://twitter.com/0xca0a/status/1204867532185853953) + https://github.com/drcmda/learnwithjason
 - [React Ideal Image](https://github.com/stereobooster/react-ideal-image/blob/master/introduction.md)
 - [React-Pivot is a data-grid component with pivot-table-like functionality for data display, filtering, and exploration.](https://github.com/davidguttman/react-pivot)
 - https://github.com/karadikid/shodan-react
@@ -128,6 +136,7 @@
 - https://github.com/jamischarles/chip8-emulator-react
 - [Cycling routes app built with React (hooks), styled-components, Leaflet and d3.](https://github.com/latviancoder/my-cycling-routes)
 - https://github.com/marmelab/react-admin
+- https://github.com/aboutjax/goneriding
 
 ### Testing
 

@@ -1,6 +1,7 @@
 ### Extensions
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
+- https://github.com/aeksco/react-typescript-chrome-extension-starter
 - https://robertheaton.com/2018/05/07/making-youtube-less-bad-for-you-using-css
 - https://mmazzarolo.com/blog/2019-01-13-another-tab
 - [A keyboard interface to the web, inspired by Kakoune](https://github.com/alexherbo2/krabby)

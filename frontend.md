@@ -65,7 +65,7 @@
 - https://dribbble.com/stories/2020/01/08/color-palette-exploration
 - [leonardocolor.io is a web app for generating accessible color palettes using WCAG compliant contrast ratios.](https://github.com/adobe/leonardo)
 - https://tsh.io/blog/why-should-you-use-hsl-color-representation-in-css
-- 
+- https://github.com/SlexAxton/css-colorguard
 
 ### Design
 
@@ -81,6 +81,7 @@
 ### Design Systems
 
 - https://dev.to/devmodefm/design-systems-with-travis-gertz
+- https://leerob.io/blog/style-guides-component-libraries-design-systems
 - https://www.smashingmagazine.com/design-systems-book
 - https://learning.oreilly.com/library/view/practical-ui-patterns/9781484249383
 - [Design Systems with Storybook & React](https://frontendmasters.com/workshops/design-systems-storybook)
@@ -133,6 +134,8 @@
 - https://github.com/yuanchuan/talk/tree/gh-pages/generative-art-with-css
 - [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
 - http://tholman.com/post/toolsday-generative-art + http://tholman.com/post/generative-artistry + http://tholman.com/post/generative-art-speedrun
+- https://github.com/erdavids/Generative-Art
+
 
 ### UX
 
@@ -162,6 +165,9 @@
 
 - https://github.com/melanierichards/highlights
 - [My personal website feat. Gatsby https://psb.design](https://github.com/pburtchaell/psb.design)
+- https://www.creative-portfolios.com
+- https://github.com/maxboeck/mxb
+- https://github.com/leerob/leerob.io
 
 ### Newsletters
 
@@ -181,7 +187,8 @@
 - https://contentreel.design
 - https://www.figma.com/c/plugin/784880696244762700/API-%2F-JSON-Sync
 - https://github.com/jagtalon/figma-fast-copy
-- https://figma.bothrs.com/
+- https://figma.bothrs.com
+- https://github.com/rsms/figma-plugins
 
 ### Miscellaneous
 
@@ -197,4 +204,7 @@
 - https://github.com/JCGrant/awesome-hamartian-design
 - [..articles in the frontend and web dev space that are timeless and changed your perspective in some way.](https://twitter.com/PKodmad/status/1194381059950927872)
 - https://github.com/neutraltone/awesome-stock-resources
-- https://didoesdigital.com/project/code-for-designers/
+- https://didoesdigital.com/project/code-for-designers
+- https://github.com/stevekinney/frontend-architecture-topics
+- https://github.com/baku89/ui-study
+- [A polyglot web converter.](https://github.com/ritz078/transform)

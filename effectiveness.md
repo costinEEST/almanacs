@@ -82,6 +82,7 @@
 - [Google Excel for accountability](https://twitter.com/kelseymwhelan/status/1080544082139795456)
 - https://github.com/cjbarber/ToolsOfTheTrade
 - [I need to build a presentation ..](https://twitter.com/tannerlinsley/status/1217607012416020480)
+- [This is probably the best web presentation tool so far!](https://github.com/ksky521/nodeppt)
 
 ### Books
 

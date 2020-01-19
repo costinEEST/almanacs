@@ -15,6 +15,7 @@
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - https://github.com/humanwhocodes/computer-science-in-javascript
 - https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
+- https://github.com/raphamorim/algorithms-playground
 
 ### AST
 
@@ -91,13 +92,19 @@
 
 ### Canvas
 
-- https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript/
+- https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript
 - [A simple Christmas tree.](https://github.com/anvaka/atree)
+- [Screenshots with JavaScript](https://github.com/niklasvh/html2canvas)
 
 ### WebGL
 
 - https://alain.xyz/blog/raw-webgl
 - [Minimal WebGL Library.](https://github.com/oframe/ogl)
+- https://github.com/brunoimbrizi/interactive-particles
+- https://github.com/lesnitsky/webgl-month
+- https://github.com/rezaali/webgl-tutorial
+- https://github.com/rezaali/webgl-sketches
+- https://github.com/stackgl/webgl-workshop
 
 ### Modules
 
@@ -157,6 +164,7 @@
 - https://github.com/davatron5000/awesome-standalones
 - [Design System Stencil Example.](https://github.com/AJONPLLC/ajonp-stencil-example)
 - [A custom element for a menu that scrolls horizontally or vertically.](https://github.com/stevenvachon/scrolling-menu)
+- [Custom elements](https://twitter.com/aerotwist/status/1183432513739513862)
 
 ### Testing
 
