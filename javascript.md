@@ -152,6 +152,7 @@
 - https://github.com/luwes/lite-vimeo-embed
 - https://github.com/davatron5000/awesome-standalones
 - [Design System Stencil Example.](https://github.com/AJONPLLC/ajonp-stencil-example)
+- [A custom element for a menu that scrolls horizontally or vertically.](https://github.com/stevenvachon/scrolling-menu)
 
 ### Testing
 

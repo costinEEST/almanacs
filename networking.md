@@ -118,6 +118,7 @@
 ### P2P
 
 - https://github.com/kgryte/awesome-peer-to-peer
+- https://github.com/kern/filepizza
 
 ### IFPS
 

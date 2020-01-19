@@ -5,6 +5,15 @@
 - https://github.com/r31gN/grasping-react-basics + https://github.com/r31gN/advanced-react
 - https://github.com/tylermcginnis/react-course
 - https://github.com/sibelius/relay-modern-course
+- https://github.com/himynameisdave/safari-training-react
+
+### Talks
+
+- https://github.com/tiaanduplessis/awesome-react-talks
+
+### Podcasts
+
+- [React Round Up](https://devchat.tv/react-round-up)
 
 ### Hooks
 
@@ -99,10 +108,6 @@
 - https://github.com/codejamninja/react-ast
 - [A ReactJS-based Presentation Library.](https://github.com/FormidableLabs/spectacle)
 - https://github.com/wojtekmaj/react-datetimerange-picker
-
-### Podcasts
-
-- [React Round Up](https://devchat.tv/react-round-up/)
 
 ### Debugging
 
