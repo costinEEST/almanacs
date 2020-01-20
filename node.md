@@ -20,6 +20,7 @@
 ### Books
 
 - [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
+- https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing-in-nodejs
 
 ### Cheat sheets
 
@@ -34,7 +35,7 @@
 ### Debugging
 
 - [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
-- https://evilpacket.net/2019/leveraging-javascript-debuggers 
+- https://evilpacket.net/2019/leveraging-javascript-debuggers
 
 ### Event loop
 
@@ -72,7 +73,6 @@
 ### Web servers
 
 - https://gist.github.com/willurd/5720255#gistcomment-3142965
-
 
 ### Authentication
 
