@@ -4,6 +4,7 @@
 - https://www.washingtonpost.com/technology/2019/12/17/what-does-your-car-know-about-you-we-hacked-chevy-find-out/
 
 ### Software
+
 - https://github.com/melanierichards/resources/blob/master/resources/privacy-security.md
 - https://robertheaton.com/2017/11/20/how-does-online-tracking-actually-work/
 - https://jvns.ca/blog/how-tracking-pixels-work
@@ -16,7 +17,9 @@
 ### Techniques
 
 - Studying the Resilience of Browser Fingerprinting to Block Crawlers: [tweet](https://twitter.com/xopek59/status/1218169607535693824) + [paper](https://hal.inria.fr/hal-02441653)
+-
 
 ### Social media
 
 - https://github.com/tycrek/degoogle
+- https://gavinr.com/three-tips-to-reduce-personal-data-tracking-in-2019

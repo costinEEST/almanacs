@@ -56,7 +56,8 @@
 - https://github.com/kdeldycke/awesome-falsehood#emails
 - https://github.com/kdeldycke/awesome-falsehood#dates-and-time
 - [The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head)](http://rudy.ca/doomsday.html)
-- [The year 1900 was *not* a leap year](https://twitter.com/philwalton/status/1214268809122418688)
+- [The year 1900 was _not_ a leap year](https://twitter.com/philwalton/status/1214268809122418688)
 - https://github.com/kdeldycke/awesome-falsehood#software-engineering
 - https://github.com/gruhn/awesome-naming
 - https://github.com/charlax/professional-programming
+- https://github.com/computationclub/computationclub.github.io

@@ -7,6 +7,7 @@
 ### Talks
 
 - [MNUG - Munich NodeJS User Group](http://mnug.de/videos.html)
+- https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine
 
 ### Courses
 
@@ -26,6 +27,7 @@
 
 - https://github.com/aliyr/Nodejs-Developer-Roadmap
 - https://github.com/dexteryy/spellbook-of-modern-webdev#nodejs
+- https://github.com/ArturJS/nodejs-certification-preparation
 
 ### Boilerplate
 
@@ -64,6 +66,7 @@
 - [Visualization of npm shows dependency graph of an npm package.](https://github.com/anvaka/npmgraph.an)
 - [CLI utility for displaying current network utilization by process, connection and remote IP/hostname.](https://twitter.com/mikeal/status/1217554555350798339)
 - https://github.com/justjavac/awesome-node-utils
+- https://github.com/bcoe/awesome-cross-platform-nodejs
 
 ### Testing
 
@@ -112,6 +115,7 @@
 - [Security design pattern support for Node.js](https://github.com/mikesamuel/node-sec-patterns)
 - https://github.com/ChALkeR/notes
 - https://github.com/a0viedo/can-you-tell-if-your-node-app-is-healthy
+- https://github.com/wahengchang/nodejs-security-must-know
 
 ### Static site generators
 
@@ -137,3 +141,4 @@
 - https://github.com/ElemeFE/node-interview
 - https://github.com/dexteryy/spellbook-of-modern-webdev#server-side-libraries-nodejs
 - https://learn-anything.xyz/web-development/backend/nodejs
+- [How I write backends.](https://github.com/fpereiro/backendlore)

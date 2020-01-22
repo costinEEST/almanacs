@@ -17,3 +17,7 @@
 ### Tools
 
 - Port scanner using the thread pool: [tweet](https://twitter.com/_tomsteele/status/1212651061611122688) + [gist](https://gist.github.com/tomsteele/338fa60b6ca2dd410f428d74e1717c1c)
+
+### Opinions
+
+- https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular

@@ -136,7 +136,6 @@
 - http://tholman.com/post/toolsday-generative-art + http://tholman.com/post/generative-artistry + http://tholman.com/post/generative-art-speedrun
 - https://github.com/erdavids/Generative-Art
 
-
 ### UX
 
 - [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont)
@@ -168,6 +167,7 @@
 - https://www.creative-portfolios.com
 - https://github.com/maxboeck/mxb
 - https://github.com/leerob/leerob.io
+- https://github.com/codebytere/codebytere.github.io
 
 ### Newsletters
 

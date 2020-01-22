@@ -9,6 +9,7 @@
 
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
+- https://towardsdatascience.com/natural-language-processing-for-web-developers-765be34b27d0
 
 ### Tools
 

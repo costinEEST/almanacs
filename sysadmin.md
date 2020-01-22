@@ -9,7 +9,8 @@
 
 ### Kubernetes
 
-- https://www.learncloudnative.com/blog/2020-01-06-build_your_own_netlify_like_deployment_for_react_apps_with_kubernetes/
+- https://www.learncloudnative.com/blog/2020-01-06-build_your_own_netlify_like_deployment_for_react_apps_with_kubernetes
+- [Open Source Curriculum for CNCF Certification Courses](https://github.com/cncf/curriculum)
 
 ### References
 

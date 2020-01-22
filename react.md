@@ -81,6 +81,7 @@
 - [Next.js Example using Firestore, Firebase Hosting and Material UI.](https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs)
 - https://github.com/johnapost/nextjs-firebase-fns-demo
 - https://masteringnextjs.com
+- https://github.com/mavropalias/Hero35
 
 ### State management
 
