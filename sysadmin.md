@@ -23,3 +23,4 @@
 ### CI/CD
 
 - https://www.gdcorner.com/2019/12/27/JenkinsHomeLab-P1-MasterSetup.html
+- https://medium.com/faun/pull-based-cd-pipelines-for-security-4e044b403f56

@@ -26,6 +26,7 @@
 ### Powershell
 
 - [People ask you for the Wi-Fi password. Answer quickly.](https://github.com/RReverser/WiFi-Password)
+- [Configuration Hardening Assessment PowerShell Script.](https://github.com/cutaway-security/chaps)
 
 ### notepad.exe
 

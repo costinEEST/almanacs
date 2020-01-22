@@ -5,6 +5,10 @@
 - [htop explained](https://peteris.rocks/blog/htop/)
 - https://chrisdown.name/2019/07/18/linux-memory-management-at-scale.html
 
+### Tools
+
+- [SimpleScreenRecorder, a screen recorder for Linux](https://github.com/MaartenBaert/ssr)
+
 ### TIL
 
 - http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html

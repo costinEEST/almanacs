@@ -208,3 +208,4 @@
 - https://github.com/stevekinney/frontend-architecture-topics
 - https://github.com/baku89/ui-study
 - [A polyglot web converter.](https://github.com/ritz078/transform)
+- [Software Engineering for Startups (course)](https://github.com/CMU-17-356/cmu-17-356.github.io)
