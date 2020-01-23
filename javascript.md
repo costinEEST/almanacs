@@ -51,6 +51,7 @@
 - https://github.com/Jam3/math-as-code
 - https://github.com/zenparsing/skert/tree/master/docs
 - https://dev.to/macmacky/70-javascript-interview-questions-5gfi
+- https://doesitmutate.xyz + https://stackoverflow.com/questions/9009879/which-javascript-array-functions-are-mutating/9009934#9009934
 
 ### Books
 

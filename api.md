@@ -14,3 +14,5 @@
 - https://github.com/n0shake/Public-APIs
 - https://dontkillmyapp.com/apidoc
 - https://tldrsec.com/blog/appsec-cali-2019/#preventing-mobile-app-and-api-abuse
+- https://phil.tech/2018/05/21/picking-an-api-paradigm-implementation
+- https://plus.codes

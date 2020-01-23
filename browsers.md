@@ -76,6 +76,10 @@ javascript: (() =>
 - [Browser logic vulnerabilities DB](https://github.com/Metnew/uxss-db)
 - [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://twitter.com/Qab/status/1209457592126324737)
 
+### Headless
+
+- [Node library to automate Chromium, Firefox and WebKit browsers.](https://github.com/microsoft/playwright)
+
 ### Miscellaneous
 
 - https://github.com/vasanthk/how-web-works
