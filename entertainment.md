@@ -13,6 +13,10 @@
 - [The best technology podcast episodes](https://podnami.com)
 - [What were your most impactful podcast episodes from 2019?](https://news.ycombinator.com/item?id=22027315)
 
+### Storytelling
+
+- [Out on the Wire: The Storytelling Secrets of the New Masters of Radio](https://www.amazon.com/dp/0385348436)
+
 ### Movies
 
 - [The Farewell (2019)](https://twitter.com/ourobororoboruo/status/1211559669094699009)

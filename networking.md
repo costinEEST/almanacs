@@ -77,6 +77,10 @@
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-certificate-authority
 - [Lessons learned running SSL/TLS at scale (FOSDEM 2016)](https://youtu.be/9Ya8H-9Hrp4)
 
+### HTTP2
+
+- https://github.com/bagder/http2-explained
+
 ### HTTP/3
 
 - https://twitter.com/jgbarah/status/1177480451193131009

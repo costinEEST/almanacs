@@ -5,3 +5,4 @@
 - https://www.nytimes.com/2011/10/07/opinion/the-man-who-inspired-jobs.html
 - https://magazine.polaroidoriginals.com/dr-land-10-magical-moments
 - https://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442
+- http://geemus.com/mentoring

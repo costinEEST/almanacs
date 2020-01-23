@@ -23,6 +23,7 @@
 ### Management
 
 - https://twitter.com/dabit3/status/1214711699145543680 + https://twitter.com/dan_abramov/status/1203486500731719681 + https://twitter.com/kurtiskemple/status/986746802073423873
+- [A collection of engineering ladders for reference and inspiration](https://github.com/bmoeskau/engineering-ladders)
 
 ### Strategy
 

@@ -38,6 +38,7 @@
 
 - [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
 - https://evilpacket.net/2019/leveraging-javascript-debuggers
+- https://github.com/tj/node-blocked
 
 ### Event loop
 
@@ -99,6 +100,7 @@
 - [Node scrapper for http://ctpcj.ro](https://github.com/Utwo/ctpcj-scraper)
 - [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
 - https://github.com/dexteryy/spellbook-of-modern-webdev#microservices--api-services-nodejs
+- https://legacy.gitbook.com/book/geemus/http-api-design/details
 
 ### Microservices
 

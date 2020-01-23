@@ -14,6 +14,7 @@
 ### Tools
 
 - [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)
+- [Recommender systems (or recommendation engines)](https://github.com/grahamjenson/list_of_recommender_systems)
 
 ### Courses
 

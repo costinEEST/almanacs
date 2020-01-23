@@ -124,6 +124,7 @@
 
 ### Art
 
+- https://www.amazon.com/Magic-Loss-Internet-as-Art-ebook/dp/B00P434HC0
 - [Introduction to interactivity](https://everestpipkin.github.io/emsII/) + https://twitter.com/everestpipkin/status/1207502480042536960
 - https://github.com/melanierichards/resources/blob/master/resources/pixel-art.md
 - [Fun with Ascii: Putting some console art on my site](https://benmccormick.org/ascii-kusty)

@@ -83,6 +83,7 @@
 - https://github.com/cjbarber/ToolsOfTheTrade
 - [I need to build a presentation ..](https://twitter.com/tannerlinsley/status/1217607012416020480)
 - [This is probably the best web presentation tool so far!](https://github.com/ksky521/nodeppt)
+- [Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.](https://github.com/yyx990803/build-your-own-mint)
 
 ### Books
 
