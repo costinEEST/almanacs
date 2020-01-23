@@ -8,8 +8,10 @@
 ### References
 
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
+- https://github.com/zotroneneis/machine_learning_basics
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
 - https://towardsdatascience.com/natural-language-processing-for-web-developers-765be34b27d0
+- https://github.com/abhat222/Data-Science--Cheat-Sheet/tree/master/Machine%20Learning
 
 ### Tools
 

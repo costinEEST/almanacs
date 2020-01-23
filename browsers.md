@@ -39,10 +39,12 @@ javascript: (() =>
 
 - https://github.com/a0viedo/demystifying-js-engines
 - https://github.com/thlorenz/v8-perf
+- https://github.com/hex13/javascript-visual-explanations#javascript-engines
 
 ### Chrome
 
 - [When testing your redirects with Chrome, always test a 302 before a 301](https://twitter.com/Nick_Craver/status/1190228229979877378)
+- https://github.com/jbranchaud/til#chrome
 
 ### Paywalls
 

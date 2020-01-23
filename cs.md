@@ -22,6 +22,7 @@
 - https://math.stackexchange.com/questions/3466976/online-reference-book-for-implementing-concepts-in-type-theory
 - [Quantum Computing: An Applied Approach](https://news.ycombinator.com/item?id=21803593) + https://twitter.com/mark_l_watson/status/1205506997241565185
 - https://github.com/hellerve/ptolemy/blob/master/done.md#books
+- https://github.com/amilajack/reading/tree/master/Event_Driven_Programming
 
 ### TIL
 

@@ -5,3 +5,4 @@
 - [A cheat sheet for tailwind css built in react.js](https://github.com/ivan-rey-cv/tailwindcss-cheatsheet-react-pwa)
 - [A Progressive Web App for local file sharing.](https://github.com/RobinLinus/snapdrop)
 - [A simple bus schedule.](https://github.com/Utwo/bus-pwa)
+- https://github.com/ayastreb/money-tracker

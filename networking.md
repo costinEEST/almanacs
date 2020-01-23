@@ -61,6 +61,11 @@
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
 - https://github.com/shuhei/knowledge/blob/master/network.md#tcp
 
+### IP
+
+- https://github.com/jbranchaud/til/blob/master/devops/resolve-the-public-ip-of-a-url.md + https://stackoverflow.com/a/44372558
+- https://github.com/jbranchaud/til/blob/master/devops/path-of-the-packets.md
+
 ### UDP
 
 - [Reinventing UDP Streaming with QUIC](https://twitter.com/SimmerVigor/status/1207008500125224961)
@@ -80,6 +85,7 @@
 ### HTTP2
 
 - https://github.com/bagder/http2-explained
+- https://github.com/hex13/javascript-visual-explanations#web-protocols
 
 ### HTTP/3
 

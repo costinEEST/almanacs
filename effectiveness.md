@@ -30,6 +30,7 @@
 - Vim setup that includes several VSCode features: [tweet](https://twitter.com/benawad/status/1193911350541590528) + [video](https://youtu.be/gnupOrSEikQ)
 - [Vim screencasts by Greg Hurrell](https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
 - https://github.com/mhinz/vim-galore
+- https://www.meetup.com/vim-chicago
 
 ### tmux
 
@@ -84,6 +85,7 @@
 - [I need to build a presentation ..](https://twitter.com/tannerlinsley/status/1217607012416020480)
 - [This is probably the best web presentation tool so far!](https://github.com/ksky521/nodeppt)
 - [Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.](https://github.com/yyx990803/build-your-own-mint)
+- https://hashrocket.com/blog/posts/generate-images-for-instagram
 
 ### Books
 
@@ -137,6 +139,7 @@
 - [Psychology of Intelligence Analysis(see the reviews first)](https://www.amazon.com/Psychology-Intelligence-Analysis-Richards-Heuer/dp/B0016OST3O)
 - [Annie Duke – Wanna Bet? – [Invest Like the Best, EP.125]](http://investorfieldguide.com/annie)
 - https://kevindelaplante.com/029-how-to-raise-a-critical-thinker
+- https://hashrocket.com/blog/posts/planning-poker-speed-mode
 
 ### Reading
 

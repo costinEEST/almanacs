@@ -11,4 +11,8 @@
 
 ### References
 
+- https://github.com/jbranchaud/til/blob/master/go/access-go-docs-offline.md
+
+### Opinions
+
 - https://github.com/ksimka/go-is-not-good

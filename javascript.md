@@ -52,12 +52,14 @@
 - https://github.com/zenparsing/skert/tree/master/docs
 - https://dev.to/macmacky/70-javascript-interview-questions-5gfi
 - https://doesitmutate.xyz + https://stackoverflow.com/questions/9009879/which-javascript-array-functions-are-mutating/9009934#9009934
+- https://github.com/jbranchaud/til#javascript
 
 ### Books
 
 - [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html)
 - [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
 - [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
+- https://github.com/amilajack/reading/tree/master/JavaScript
 
 ### Talks
 

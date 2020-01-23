@@ -43,6 +43,10 @@
 - [Monolithic Components, Composable Components](https://gist.github.com/busypeoples/d5fe7d6ef3dfadcc20b5a2b0d0ef74a5)
 - [Making unrepresentable UI representations unrepresentable!](https://gist.github.com/busypeoples/5cfeea36f900f426fd08af6cfb0d2e99)
 - [Transforming Elements in React.](https://gist.github.com/busypeoples/3acfa392c8ce314d907c5772886ed3a8)
+- https://github.com/jbranchaud/til/blob/master/react/who-is-your-favorite-child.md
+- https://github.com/jbranchaud/til/blob/master/react/use-a-ref-to-autofocus-an-input.md
+- https://github.com/jbranchaud/til/blob/master/react/read-only-input-elements.md
+- https://github.com/jbranchaud/til/blob/master/react/create-dynamically-named-custom-react-components.md
 
 ### Patterns
 
@@ -72,6 +76,7 @@
 - [Mobile First Animation in React](https://twitter.com/addyosmani/status/1214428544303915013)
 - [Off Balance: Interactive Storytelling with React - Mihai Cernusca - React Rally 2019](http://mihaicernusca.com/off-balance)
 - [Declarative Style Definitions Pt.1](https://gist.github.com/busypeoples/cc865934f22affd6795392e2f55fdaff)
+- https://github.com/jbranchaud/awesome-react-design-systems
 
 ### Server side rendering
 
@@ -113,6 +118,7 @@
 - https://github.com/sonnylazuardi/react-native-nike-running
 - [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://www.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)
 - [Building together.fit 🚧🔨💪](https://youtu.be/-_KIwWvFbHc) + https://ethan.link/blog/the-start-of-together-fit
+- https://github.com/jbranchaud/til/blob/master/react_native/avoid-the-notch-with-safeareaview.md
 
 ### Packages
 

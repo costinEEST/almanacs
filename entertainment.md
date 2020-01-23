@@ -24,6 +24,7 @@
 - https://www.youtube.com/user/CaptainDisillusion/playlists
 - https://www.youtube.com/user/everyframeapainting/playlists
 - https://www.youtube.com/user/engineerguyvideo/playlists
+- [Collection of 8000+ publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
 
 ### Board games
 

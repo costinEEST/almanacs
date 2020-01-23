@@ -40,6 +40,7 @@
 - https://github.com/johnpolacek/the-case-for-atomic-css
 - https://css-tricks.com/css-only-carousel
 - [Power switch animation - Only CSS](https://codepen.io/milanraring/full/KKwRBQp)
+- https://github.com/jbranchaud/til#css
 
 ### SVG
 
