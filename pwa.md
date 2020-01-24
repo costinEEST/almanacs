@@ -6,3 +6,8 @@
 - [A Progressive Web App for local file sharing.](https://github.com/RobinLinus/snapdrop)
 - [A simple bus schedule.](https://github.com/Utwo/bus-pwa)
 - https://github.com/ayastreb/money-tracker
+
+
+### Security
+
+- https://blog.nviso.eu/2020/01/16/deep-dive-into-the-security-of-progressive-web-apps/

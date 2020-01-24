@@ -51,6 +51,7 @@
 - https://www.rtl-sdr.com/talk-journey-fm-rds-oona-raisanen
 - https://github.com/0x90/wifi-arsenal
 - [An Empirical Study of Wireless Carrier Authentication for SIM Swaps](https://www.issms2fasecure.com)
+- https://nelsonslog.wordpress.com/2020/01/07/wireless-isp-resources
 
 ### 5G
 
