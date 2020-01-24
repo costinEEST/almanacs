@@ -55,6 +55,7 @@
 - https://developers.google.com/search/docs/guides/intro-structured-data
 - [Find broken links, missing images, etc within your HTML.](https://github.com/stevenvachon/broken-link-checker)
 - [🐿 Scurry around your site and find all those broken links.](https://github.com/JustinBeckwith/linkinator)
+- https://vasco3.gitbooks.io/hacks-n-notes/content/internet_marketing/seo.html
 
 ### Color
 

@@ -24,6 +24,7 @@
 - https://github.com/kentcdodds/asts-workshop
 - https://tldrsec.com/blog/appsec-cali-2019/#endpoint-finder-a-static-analysis-tool-to-find-web-endpoints
 - [What did you build using Abstract syntax tree?](https://twitter.com/kuldeepkeshwar/status/1214800664460550144)
+- [How to derive the static control flow graph from a JavaScript program's abstract syntax tree](https://github.com/mariusschulz/bachelors-thesis)
 
 ### Obfuscation
 
@@ -61,6 +62,7 @@
 - [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
 - [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
 - https://github.com/amilajack/reading/tree/master/JavaScript
+- [A General Theory of Reactivity](https://legacy.gitbook.com/book/kriskowal/gtor/details)
 
 ### Talks
 
@@ -101,6 +103,7 @@
 - https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript
 - [A simple Christmas tree.](https://github.com/anvaka/atree)
 - [Screenshots with JavaScript](https://github.com/niklasvh/html2canvas)
+- https://github.com/raphamorim/awesome-canvas
 
 ### WebGL
 

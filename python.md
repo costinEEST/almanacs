@@ -2,6 +2,7 @@
 
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
 - [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html)
+- [Build a Feed Reader in Python](https://www.youtube.com/playlist?list=PLmxT2pVYo5LBcv5nYKTIn-fblphtD_OJO)
 
 ### Books
 
@@ -38,3 +39,7 @@
 ### Security
 
 - [Got a shit shell?](https://twitter.com/Random_Robbie/status/1204041222542807043)
+
+### Standard library
+
+- https://treyhunner.com/2019/05/python-builtins-worth-learning

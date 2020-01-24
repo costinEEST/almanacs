@@ -9,6 +9,7 @@
 - https://github.com/cyan33/learn-react-source-code
 - https://github.com/acdlite/react-fiber-architecture
 - https://github.com/mfrachet/create-frontend-framework
+- https://github.com/fpereiro/reactnotes
 
 ### Talks
 
@@ -120,6 +121,7 @@
 - [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://www.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)
 - [Building together.fit 🚧🔨💪](https://youtu.be/-_KIwWvFbHc) + https://ethan.link/blog/the-start-of-together-fit
 - https://github.com/jbranchaud/til/blob/master/react_native/avoid-the-notch-with-safeareaview.md
+- https://github.com/unbug/react-native-train
 
 ### Packages
 

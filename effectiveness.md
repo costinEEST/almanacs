@@ -31,6 +31,7 @@
 - [Vim screencasts by Greg Hurrell](https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
 - https://github.com/mhinz/vim-galore
 - https://www.meetup.com/vim-chicago
+- https://legacy.gitbook.com/book/learnbyexample/vim-reference/details
 
 ### tmux
 

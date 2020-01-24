@@ -7,6 +7,7 @@
 
 - [Auto Price](https://devforum.ro/t/aplicatie-android-verificarea-pretului-de-piata-al-unui-autoturism/12053)
 - [NoConnect is a real-time messaging application like WhatsApp which does not rely on any traditional GSM/CDMA network or any kind of internet service to communicate with each other unlike WhatsApp.](https://twitter.com/Debloper/status/1206358762275004417)
+- https://github.com/wikimedia/apps-android-wikipedia
 
 ### Tools
 

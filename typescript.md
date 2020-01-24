@@ -17,10 +17,14 @@
 
 - https://github.com/rmolinamir/typescript-cheatsheet
 - https://github.com/shuhei/knowledge/blob/master/typescript.md#detect-optional-fields
-- https://blog.isquaredsoftware.com/2019/11/blogged-answers-learning-and-using-typescript 
+- https://blog.isquaredsoftware.com/2019/11/blogged-answers-learning-and-using-typescript
 - https://github.com/antonjb/TypeScript-Learning-Plan
 - https://khalilstemmler.com/articles/when-to-use-typescript-guide
 
 ### Practice
 
 - https://github.com/stevenmusumeche/advent-of-code-2019
+
+### Opinions
+
+- [I really wish TypeScript had better inference.](https://twitter.com/devongovett/status/1219663924989050881)

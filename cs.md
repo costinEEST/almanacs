@@ -4,6 +4,10 @@
 - [Everything you need to prepare for your technical interview](https://github.com/andreis/interview)
 - https://twitter.com/kenpex/status/1211796966495141888
 
+### Compilers
+
+- [Want to Write a Compiler? Just Read These Two Papers.](https://prog21.dadgum.com/30.html)
+
 ### Courses
 
 - [Software Security is a Programming Languages Issue](http://www.pl-enthusiast.net/2018/08/13/security-programming-languages-issue/)

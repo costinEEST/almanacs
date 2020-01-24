@@ -18,3 +18,4 @@
 - https://phil.tech/2018/05/21/picking-an-api-paradigm-implementation
 - https://plus.codes
 - https://shkspr.mobi/blog/2020/01/why-api-responses-should-be-signed
+- https://vasco3.gitbooks.io/hacks-n-notes/content/apis.html

@@ -27,3 +27,7 @@
 
 - https://medium.com/@GroundControl/introducing-benkyou-a-swipe-flashcard-app-for-learning-japanese-f6f278e05c8a + [Android](https://play.google.com/store/apps/details?id=fm.raf.benkyou)
 - https://tarjim.ly
+
+### Websites
+
+- http://www.alljapaneseallthetime.com/blog

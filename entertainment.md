@@ -51,6 +51,7 @@
 - [The Overstory by Richard Powers](https://twitter.com/robertwmcguire/status/1206578703783911427)
 - [Children of Time](https://twitter.com/BlastLogos/status/1206558816332066816)
 - [Cel mai iubit dintre pământeni (quote)](https://coltulcultural.wordpress.com/2020/01/05/citatul-de-duminica-farmecul-unei-fiinte-straine)
+- https://www.theatlantic.com/entertainment/archive/2020/01/the-witcher-is-absurd-thats-why-its-brilliant/604297/
 
 ### Sociology
 

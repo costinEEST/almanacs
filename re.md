@@ -15,7 +15,8 @@
 
 ### Books
 
-- https://learning.oreilly.com/library/view/the-ida-pro/9781593273750/
+- https://learning.oreilly.com/library/view/the-ida-pro/9781593273750
+- https://legacy.gitbook.com/book/dhavalkapil/heap-exploitation/details
 
 ### Tools
 
