@@ -40,6 +40,10 @@
 - https://evilpacket.net/2019/leveraging-javascript-debuggers
 - https://github.com/tj/node-blocked
 
+### Internals
+
+- https://blog.s1h.org/inside-node-executing-a-script 
+
 ### Event loop
 
 - https://davidhettler.net/blog/event-loop-lag
