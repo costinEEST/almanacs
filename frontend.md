@@ -137,6 +137,7 @@
 - [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
 - http://tholman.com/post/toolsday-generative-art + http://tholman.com/post/generative-artistry + http://tholman.com/post/generative-art-speedrun
 - https://github.com/erdavids/Generative-Art
+- https://yuinchien.com/origami-study
 
 ### UX
 

@@ -90,6 +90,7 @@
 ### HTTP/3
 
 - https://twitter.com/jgbarah/status/1177480451193131009
+- https://www.infoq.com/news/2020/01/http-3-status
 
 ### DNS
 

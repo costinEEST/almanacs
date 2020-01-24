@@ -68,6 +68,7 @@
 
 ### Ketosis
 
+- https://www.amazon.com/Keto-Answers-Simplifying-Everything-Confusing-ebook/dp/B07WH43FLB
 - https://www.facebook.com/groups/755526297805685/permalink/1902882243070079
 - [A Guide to Ketosis.](http://josepharcita.blogspot.com/2011/03/guide-to-ketosis.html?m=1)
 - [Behind the World's First Ketone Ester ft. Kieran Clarke || HVMN Enhancement Podcast: Ep. 48](https://youtu.be/qR4tf-np6jU)
@@ -89,10 +90,12 @@
 ### Aging
 
 - [Answering the ultimate question "what is the proximal cause of aging?".](https://www.ncbi.nlm.nih.gov/m/pubmed/23425777/)
+- https://www.reddit.com/r/longevity/comments/e2q84z/textbooks_courses_and_resources_on_aging
 
 ### Sugar
 
 - [Is there a way to be prescribed a continuous glucose monitor without an insulin deficiency/diabetes?](https://twitter.com/Austen/status/1211144183018246144)
+- [Why Did Mexico Surpass America in Obesity?](https://twitter.com/notyetagm/status/1220352727546580997)
 
 ### Sleep
 

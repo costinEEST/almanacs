@@ -41,6 +41,10 @@ javascript: (() =>
 - https://github.com/thlorenz/v8-perf
 - https://github.com/hex13/javascript-visual-explanations#javascript-engines
 
+### WebRTC
+
+- [Anyone do much with WebRTC?](https://twitter.com/tannerlinsley/status/1220121545621700609)
+
 ### Chrome
 
 - [When testing your redirects with Chrome, always test a 302 before a 301](https://twitter.com/Nick_Craver/status/1190228229979877378)
@@ -65,7 +69,8 @@ javascript: (() =>
 ### Cookies
 
 - [SameSite=Lax](https://twitter.com/RenwaX23/status/1206475064125853696)
-- https://www.troyhunt.com/promiscuous-cookies-and-their-impending-death-via-the-samesite-policy/
+- https://www.troyhunt.com/promiscuous-cookies-and-their-impending-death-via-the-samesite-policy
+- [Stealing Session Cookies with Tcpdump](https://nullprogram.com/blog/2016/06/23)
 
 ### CSP
 

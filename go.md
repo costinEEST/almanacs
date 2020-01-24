@@ -1,4 +1,5 @@
 ### Tutorials
+
 - https://github.com/miguelmota/golang-for-nodejs-developers
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent)
 
@@ -8,7 +9,6 @@
 - [🔍 gowitness - a golang, web screenshot utility using Chrome Headless.](https://github.com/sensepost/gowitness)
 - [Sqlvet performs static analysis on raw SQL queries in your Go code base. ](https://github.com/houqp/sqlvet)
 
-
 ### References
 
 - https://github.com/jbranchaud/til/blob/master/go/access-go-docs-offline.md
@@ -16,3 +16,4 @@
 ### Opinions
 
 - https://github.com/ksimka/go-is-not-good
+- [Go's Tooling is an Undervalued Technology](https://nullprogram.com/blog/2020/01/21)

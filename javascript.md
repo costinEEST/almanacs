@@ -53,6 +53,7 @@
 - https://dev.to/macmacky/70-javascript-interview-questions-5gfi
 - https://doesitmutate.xyz + https://stackoverflow.com/questions/9009879/which-javascript-array-functions-are-mutating/9009934#9009934
 - https://github.com/jbranchaud/til#javascript
+- https://github.com/mrtnzlml/meta/blob/master/docs/javascript.md#optional-chaining-gotchas + https://twitter.com/sseraphini/status/1220399410368172033
 
 ### Books
 
@@ -124,6 +125,10 @@
 
 - [.. I just realized that default args in JS can take an expression that makes use of previous args in the argument list!](https://twitter.com/mjackson/status/1207108228921741313)
 
+### new Uint8Array()
+
+- [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
+
 ### Array.prototype.reduce()
 
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
@@ -163,6 +168,10 @@
 
 - [syntax-fm-sticky-show-notes.user.js](https://gist.github.com/salembeats/8d1b73d2cf14ba012039ac844d0c79c6)
 
+### SPA
+
+- [io-ts is an integral part of building any well-behaved, robust SPA client](https://twitter.com/garybernhardt/status/1220115502162272256)
+
 ### Web Components
 
 - https://briangrinstead.com/blog/firefox-webcomponents
@@ -197,6 +206,7 @@
 - [A no-datastore, client-side paste service.](https://github.com/topaz/paste)
 - https://github.com/johnpolacek/mdx-deck-demo-greensock
 - [Transforms PDF, Documents and Images into Enriched Structured Data.](https://github.com/axa-group/Parsr)
+- [App that can do graphical editing of JSON files around 400MB?](https://twitter.com/deirdresm/status/1220144794669699183)
 
 ### Maps
 

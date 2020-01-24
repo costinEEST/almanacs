@@ -29,6 +29,7 @@
 - https://github.com/latviancoder/hooks-by-example
 - https://beautifulinteractions.github.io/beautiful-react-hooks
 - https://github.com/mfrachet/use-socketio
+- [Avoid race condition](https://twitter.com/BenLesh/status/1220019348133294080)
 
 ### Context API
 

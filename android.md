@@ -17,3 +17,8 @@
 ### APIs
 
 - [The reference implementation for designing the international payments experience with the TransferWise API.](https://github.com/transferwise/banks-reference-android)
+
+### Development
+
+- [Return the dimensions of the Window.](https://twitter.com/jlongster/status/1220364760316895233)
+- [How are you distributing your android app bundle? app.aab?](https://twitter.com/sseraphini/status/1220304089462067200)

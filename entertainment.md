@@ -6,7 +6,7 @@
 - https://softskills.audio
 - https://soundcloud.com/stephenwolfram
 - https://www.listennotes.com/podcasts/stuff-to-blow-your/from-the-vault-the-dark-side-ekXr_6qTB9Q
-- https://uibreakfast.com/category/podcast 
+- https://uibreakfast.com/category/podcast
 - https://podcasts.apple.com/us/podcast/wireframe/id1437677219
 - https://anchor.fm/designhuddle/episodes/UX-Bites-Explains-How-He-Grew-An-Audience-on-Instagram-to-30K-Followers-in-90-days-e45he8
 - https://futureofcoding.org
@@ -72,7 +72,7 @@
 ### History
 
 - [Upheaval: Turning Points for Nations in Crisis by Jared Diamond (2019)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#upheaval)
-- https://www.amazon.com/Ends-World-Apocalypses-Understand-Extinctions/dp/0062364812 
+- https://www.amazon.com/Ends-World-Apocalypses-Understand-Extinctions/dp/0062364812
 - https://twitter.com/danielmamay/status/1211009053004062721
 - https://twitter.com/MaxCRoser/status/1208050979318439936
 - https://twitter.com/danielmamay/status/1158144437542895618
@@ -101,7 +101,6 @@
 ### Qabalah
 
 - https://www.amazon.com/Mystical-Qabalah-Dion-Fortune/dp/1578631505
-
 
 ### Painting/Drawing
 
@@ -160,3 +159,7 @@
 - https://www.youtube.com/channel/UCqLLqbclDQ6IQg39Wsgy-4w/playlists
 - https://www.youtube.com/playlist?list=PLVWaFpMwtaGiBxi79IUqnqn67WF5g5PR4
 - https://www.youtube.com/results?search_query=svidler+chess24+playlist
+
+### Semiotics
+
+- https://twitter.com/leostera/status/1219964112022753285 + https://twitter.com/prathyvsh/status/1207378814201991175

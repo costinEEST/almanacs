@@ -23,3 +23,4 @@
 
 - https://github.com/tycrek/degoogle
 - https://gavinr.com/three-tips-to-reduce-personal-data-tracking-in-2019
+- [short list of privacy conferences and privacy advocates](https://twitter.com/aral/status/1219929929145573377)

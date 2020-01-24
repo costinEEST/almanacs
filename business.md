@@ -42,7 +42,7 @@
 - [Which is the most successful one-person business you heard of in 2019?](https://news.ycombinator.com/item?id=21908577)
 - [Some examples of people quickly accomplishing ambitious things together.](https://patrickcollison.com/fast)
 - [Yahoo Pipes](https://twitter.com/jasvir/status/1199189359083130880)
-
+- [A great book or course on this topic of technical design patterns for SaaS?](https://twitter.com/patio11/status/1219997892028448768)
 
 ### Investing
 
@@ -78,7 +78,7 @@
 ### Essays
 
 - http://paulgraham.com/lesson.html + https://listle.io/embed/3996601668
-- https://florentcrivello.com/index.php/2020/01/06/how-apple-sells-software-at-hardware-prices 
+- https://florentcrivello.com/index.php/2020/01/06/how-apple-sells-software-at-hardware-prices
 
 ### Newsletters
 
