@@ -172,6 +172,7 @@
 - https://github.com/maxboeck/mxb
 - https://github.com/leerob/leerob.io
 - https://github.com/codebytere/codebytere.github.io
+- https://tejaskumar.com/blog/1579543554591__5-things-i-love-about-my-website
 
 ### Newsletters
 

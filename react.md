@@ -49,6 +49,7 @@
 - https://github.com/jbranchaud/til/blob/master/react/use-a-ref-to-autofocus-an-input.md
 - https://github.com/jbranchaud/til/blob/master/react/read-only-input-elements.md
 - https://github.com/jbranchaud/til/blob/master/react/create-dynamically-named-custom-react-components.md
+- [What's your current favorite date range picker?](https://twitter.com/erikras/status/1219559846661541888)
 
 ### Patterns
 

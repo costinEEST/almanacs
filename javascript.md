@@ -93,6 +93,7 @@
 - https://www.dkthehuman.com/music-apps
 - https://wiki.nikitavoloboev.xyz/music
 - https://github.com/tholman/binary-music-player
+- [The Third Ear by Joachim-Ernst Berendt.](https://twitter.com/sivers/status/1219343046636077062)
 
 ### Video
 
