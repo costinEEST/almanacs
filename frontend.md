@@ -68,6 +68,7 @@
 - [leonardocolor.io is a web app for generating accessible color palettes using WCAG compliant contrast ratios.](https://github.com/adobe/leonardo)
 - https://tsh.io/blog/why-should-you-use-hsl-color-representation-in-css
 - https://github.com/SlexAxton/css-colorguard
+- https://www.kevinpeters.net/generating-color-schemas-as-developer-a-simple-guide
 
 ### Design
 

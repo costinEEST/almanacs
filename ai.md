@@ -12,6 +12,7 @@
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
 - https://towardsdatascience.com/natural-language-processing-for-web-developers-765be34b27d0
 - https://github.com/abhat222/Data-Science--Cheat-Sheet/tree/master/Machine%20Learning
+- [Full-on machine learning for 2020, what are the best resources?](https://news.ycombinator.com/item?id=21924298)
 
 ### Tools
 

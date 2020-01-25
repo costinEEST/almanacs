@@ -52,6 +52,7 @@
 - [Creating Animated Ch(art)s using D3 and React Hooks](https://github.com/monicawoj/react-advanced-london-d3-react-deck)
 - https://www.peterbe.com/plog/mdn-documents-size-tree-map
 - https://verekia.com/cities 
+- [Highest Paying Companies of 2019](https://www.levels.fyi/2019)
 
 ### Miscellaneous
 
