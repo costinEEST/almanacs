@@ -61,6 +61,7 @@
 
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
 - https://github.com/shuhei/knowledge/blob/master/network.md#tcp
+- https://notes.shichao.io/tcpv1/
 
 ### IP
 

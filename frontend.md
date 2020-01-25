@@ -154,6 +154,7 @@
 - https://trydesignlab.com/blog/tips-explain-ux-design-to-your-parents-this-christmas
 - https://uxdesign.cc/what-it-takes-to-be-a-product-designer-424a4151261e
 - https://github.com/hellerve/programming-talks#uxui
+- [How to Fix Mobile Dating Apps](https://matt.sh/fix-dating-apps)
 
 ### Performance
 

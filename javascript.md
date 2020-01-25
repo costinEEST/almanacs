@@ -10,6 +10,7 @@
 - [Parsing JSON Really Quickly: Lessons Learned](https://youtu.be/wlvKAT7SZIQ)
 - https://philipwalton.com/articles/smaller-html-payloads-with-service-workers
 - https://twitter.com/btmpl/status/1218456923684724736
+- https://medium.com/@WebReflection/a-basic-weakmap-performance-hint-e33c14908dff
 
 ### Algorithms
 
@@ -124,6 +125,10 @@
 - [How To Use Correctly JavaScript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries)
 - [export default const Bar = () => { ... }](https://twitter.com/ManuelBieh/status/1214181034960572419)
 - [Reasons to avoid default exports](https://twitter.com/james_k_nelson/status/1215099907918295041)
+
+### eval()
+
+- [Evaluating JavaScript code via import()](https://2ality.com/2019/10/eval-via-import.html)
 
 ### Default arguments
 

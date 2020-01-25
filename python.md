@@ -31,6 +31,8 @@
 - https://github.com/bamos/reading-list
 - https://github.com/pncnmnp/Markdown-to-HTML
 - [Animation engine for explanatory math videos.](https://github.com/3b1b/manim)
+- [Matt's Let's Encrypt Automation](https://github.com/mattsta/lematt)
+- [Replacing netstat's 90s C Code With Modern Python](https://matt.sh/netmatt)
 
 ### Boots
 

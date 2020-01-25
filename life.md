@@ -43,6 +43,7 @@
 - [Electrochemistry by NurdRage](https://www.youtube.com/playlist?list=PLU79801KtVAUCrIv5rJn3lEK_6IvekEa7)
 - https://www.amazon.com/Ten-Drugs-Powders-History-Medicine/dp/1419734407
 - https://youtu.be/favrMbfi1Pw + https://www.amazon.com/Demon-Machine-Paul-Davies/dp/024130959X
+- [Heroin documentaries](https://matt.sh/heroin)
 
 ### Physics
 

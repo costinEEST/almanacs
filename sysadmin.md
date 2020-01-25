@@ -12,6 +12,11 @@
 - https://www.learncloudnative.com/blog/2020-01-06-build_your_own_netlify_like_deployment_for_react_apps_with_kubernetes
 - [Open Source Curriculum for CNCF Certification Courses](https://github.com/cncf/curriculum)
 
+### Servers
+
+- [Building a Production Mail Server in 2018](https://matt.sh/email2018)
+- [Setting Web Server Options for 2018](https://matt.sh/web2018)
+
 ### References
 
 - https://github.com/Tikam02/DevOps-Guide

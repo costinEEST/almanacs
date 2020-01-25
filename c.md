@@ -15,3 +15,7 @@
 ### Virtual machines
 
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-systemvirtual-machine
+
+### Opinions
+
+- [How to C in 2016](https://matt.sh/howto-c)
