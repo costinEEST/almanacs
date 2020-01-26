@@ -12,6 +12,9 @@
 - [git-annex allows managing files with git, without checking the file contents into git.](https://git-annex.branchable.com)
 - [I still use a GUI (SourceTree) for most operations.](https://twitter.com/jaffathecake/status/1204343865785962496)
 - [git push origin HEAD](https://twitter.com/flexdinesh/status/1215119465068675072)
+- [git commit dependency analysis tool](https://github.com/aspiers/git-deps)
+- https://jwiegley.github.io/git-from-the-bottom-up
+- https://jeremykun.com/2020/01/14/the-communicative-value-of-using-git-well + 
 
 ### VS Code
 

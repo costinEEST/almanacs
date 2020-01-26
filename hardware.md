@@ -8,6 +8,7 @@
 
 ### Books
 
+- https://twitter.com/jeremyjkun/status/1208842557624471552
 - [What is your most obsolete technical book that you would not / will not get rid of, for sentimental reasons?](https://twitter.com/starsandrobots/status/1219504631438397441)
 
 ### Miscellaneous

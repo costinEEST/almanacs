@@ -25,3 +25,4 @@
 - https://gavinr.com/three-tips-to-reduce-personal-data-tracking-in-2019
 - [short list of privacy conferences and privacy advocates](https://twitter.com/aral/status/1219929929145573377)
 - https://nelsonslog.wordpress.com/2020/01/07/facial-recognition-for-the-public-yandex
+- https://github.com/good-lly/gdpr-documents

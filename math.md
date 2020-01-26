@@ -17,6 +17,7 @@
 - https://www.amazon.com/Think-Stats-Exploratory-Data-Analysis/dp/1491907339
 - [Abramowitz and Stegun: Handbook of Mathematical Functions](http://people.math.sfu.ca/~cbm/aands/)
 - https://github.com/Shraddha2702/Math-Concepts
+- [A Programmer's Introduction to Mathematics by Jeremy Kun](https://pimbook.org)
 
 ### Courses
 
