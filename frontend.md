@@ -71,6 +71,7 @@
 - https://github.com/SlexAxton/css-colorguard
 - https://www.kevinpeters.net/generating-color-schemas-as-developer-a-simple-guide
 - https://adamfuhrer.com/visualizing-every-pantone-color-of-the-year
+- https://www.rapidtables.com/web/color/html-color-codes.html
 
 ### Design
 

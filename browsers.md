@@ -86,7 +86,7 @@ javascript: (() =>
 
 ### Headless
 
-- [Node library to automate Chromium, Firefox and WebKit browsers.](https://github.com/microsoft/playwright)
+- [Node library to automate Chromium, Firefox and WebKit browsers.](https://github.com/microsoft/playwright) + [opinion](https://twitter.com/xopek59/status/1221460300387573760)
 
 ### Miscellaneous
 
