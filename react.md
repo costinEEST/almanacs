@@ -76,10 +76,11 @@
 ### CSS/Animations
 
 - https://github.com/pshrmn/notes/blob/master/react/animation.md
-- [Mobile First Animation in React](https://twitter.com/addyosmani/status/1214428544303915013)
+- [Mobile First Animation in React](https://twitter.com/addyosmani/status/1214428544303915013) + https://github.com/aholachek/react-animation-comparison
 - [Off Balance: Interactive Storytelling with React - Mihai Cernusca - React Rally 2019](http://mihaicernusca.com/off-balance)
 - [Declarative Style Definitions Pt.1](https://gist.github.com/busypeoples/cc865934f22affd6795392e2f55fdaff)
 - https://github.com/jbranchaud/awesome-react-design-systems
+- https://github.com/kettanaito/atomic-layout
 
 ### Server side rendering
 
@@ -135,6 +136,7 @@
 - [Cycling routes app built with React (hooks), styled-components, Leaflet and d3.](https://github.com/latviancoder/my-cycling-routes)
 - https://github.com/marmelab/react-admin
 - https://github.com/aboutjax/goneriding
+- https://github.com/phlntn/emojibuilder
 
 ### Testing
 

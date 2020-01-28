@@ -42,6 +42,7 @@
 - https://css-tricks.com/css-only-carousel
 - [Power switch animation - Only CSS](https://codepen.io/milanraring/full/KKwRBQp)
 - https://github.com/jbranchaud/til#css
+- https://brumm.af/shadows
 
 ### SVG
 
@@ -70,6 +71,8 @@
 - https://tsh.io/blog/why-should-you-use-hsl-color-representation-in-css
 - https://github.com/SlexAxton/css-colorguard
 - https://www.kevinpeters.net/generating-color-schemas-as-developer-a-simple-guide
+- https://adamfuhrer.com/visualizing-every-pantone-color-of-the-year
+- https://www.rapidtables.com/web/color/html-color-codes.html
 
 ### Design
 
@@ -84,6 +87,8 @@
 
 ### Design Systems
 
+- https://designsystemchecklist.com + https://twitter.com/JoshWComeau/status/1212416797254832130
+- https://www.learnstorybook.com 
 - https://dev.to/devmodefm/design-systems-with-travis-gertz
 - https://leerob.io/blog/style-guides-component-libraries-design-systems
 - https://www.smashingmagazine.com/design-systems-book
@@ -176,6 +181,7 @@
 - https://github.com/leerob/leerob.io
 - https://github.com/codebytere/codebytere.github.io
 - https://tejaskumar.com/blog/1579543554591__5-things-i-love-about-my-website
+- https://github.com/bchiang7/v4
 
 ### Newsletters
 

@@ -8,6 +8,7 @@
 ### Demos
 
 - https://github.com/hokein/electron-sample-apps
+- https://github.com/chrisknepper/android-messages-desktop
 
 ### Boilerplates
 

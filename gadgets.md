@@ -10,6 +10,10 @@
 
 - https://juneoven.com
 
+### Watches
+
+- https://adamfuhrer.com/accuracy-of-mechanical-watches
+
 ### Health
 
 - [9 Fitness and Health Gift Ideas 2020](https://youtu.be/G9n51Xtcm_A)

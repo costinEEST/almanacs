@@ -78,6 +78,8 @@
 - [Age of Invention by Anton Howes.](https://antonhowes.substack.com/archive)
 - [I asked Tony Fadell about the iPod timeline ..](https://twitter.com/patrickc/status/1216477318434050048)
 - [Gary Starkweather.](https://twitter.com/rauschma/status/1218576177444593665)
+- [The Idea Factory: Bell Labs and the Great Age of American.](https://www.goodreads.com/review/show/3043739089)
+- [Energy: A Human History](https://www.goodreads.com/review/show/3008690448)
 
 ### Essays
 
@@ -87,6 +89,7 @@
 ### Newsletters
 
 - [David's Notes](https://davidsnotes.substack.com/archive)
+- https://buttondown.email/computer-napkins/archive
 
 ### Miscellaneous
 

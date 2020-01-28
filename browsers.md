@@ -34,6 +34,7 @@ javascript: (() =>
 ```
 
 - [Speed Controls.](https://codepen.io/wilman/pen/ZWdEPX)
+- [Find out which element is scrolling.](https://gist.github.com/brumm/74fd7eaafd50c8477519)
 
 ### Engines
 
@@ -85,7 +86,7 @@ javascript: (() =>
 
 ### Headless
 
-- [Node library to automate Chromium, Firefox and WebKit browsers.](https://github.com/microsoft/playwright)
+- [Node library to automate Chromium, Firefox and WebKit browsers.](https://github.com/microsoft/playwright) + [opinion](https://twitter.com/xopek59/status/1221460300387573760)
 
 ### Miscellaneous
 
