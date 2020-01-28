@@ -26,6 +26,7 @@
 - https://github.com/springernature/frontend-playbook/blob/master/accessibility/README.md
 - https://github.com/stringyland/a11y-learning-plan
 - [.. audit](https://twitter.com/zcorpan/status/1217627504535576579)
+- https://www.vincit.fi/fi/software-development-450-words-per-minute
 
 ### CSS
 
