@@ -21,3 +21,4 @@
 - https://plus.codes
 - https://shkspr.mobi/blog/2020/01/why-api-responses-should-be-signed
 - https://vasco3.gitbooks.io/hacks-n-notes/content/apis.html
+- https://github.com/danburzo/toolbox#apis

@@ -26,7 +26,8 @@
 - [Don't Die Young: An Anatomist's Guide to Your Organs and Your Health.](https://www.amazon.com/Dont-Die-Young-Anatomists-Organs/dp/0747592802)
 - [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson/dp/0385539304)
 - https://www.youtube.com/user/physicaltherapyvideo/playlists
-- https://inquisitivebiologist.wordpress.com/2019/03/21/book-review-lost-anatomies-the-evolution-of-the-human-form/
+- https://inquisitivebiologist.wordpress.com/2019/03/21/book-review-lost-anatomies-the-evolution-of-the-human-form
+- https://www.techexplorist.com/trojan-horse-nanoparticle-eats-plaques-cause-heart-attacks/29530
 
 ### Botany
 

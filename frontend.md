@@ -50,7 +50,9 @@
 - https://slides.com/vincentntang/svg-everything-you-should-know-about-it#/svg-everything-you-should-know
 - https://slides.com/vincentntang/comparing-svg-canvas-webgl-css
 - https://github.com/willianjusten/awesome-svg + https://twitter.com/addyosmani/status/1210463389144645632
-- https://www.silvestar.codes/articles/how-to-animate-svg-signature/
+- https://www.silvestar.codes/articles/how-to-animate-svg-signature
+- https://jxnblk.github.io/paths
+- https://cloudfour.com/thinks/simple-svg-placeholder
 
 ### SEO
 
@@ -88,7 +90,7 @@
 ### Design Systems
 
 - https://designsystemchecklist.com + https://twitter.com/JoshWComeau/status/1212416797254832130
-- https://www.learnstorybook.com 
+- https://www.learnstorybook.com
 - https://dev.to/devmodefm/design-systems-with-travis-gertz
 - https://leerob.io/blog/style-guides-component-libraries-design-systems
 - https://www.smashingmagazine.com/design-systems-book
@@ -116,6 +118,7 @@
 - https://github.com/RoelN/Font-Falsehoods
 - [FontPair - Helps you pair Google Fonts together](https://fontpair.co)
 - [A short history of body copy sizes on the Web.](https://fvsch.com/body-copy-sizes)
+- https://github.com/danburzo/toolbox/blob/master/typefaces.md
 
 ### Animations
 

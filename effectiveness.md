@@ -14,7 +14,7 @@
 - [git push origin HEAD](https://twitter.com/flexdinesh/status/1215119465068675072)
 - [git commit dependency analysis tool](https://github.com/aspiers/git-deps)
 - https://jwiegley.github.io/git-from-the-bottom-up
-- https://jeremykun.com/2020/01/14/the-communicative-value-of-using-git-well + 
+- https://jeremykun.com/2020/01/14/the-communicative-value-of-using-git-well +
 
 ### VS Code
 
@@ -90,6 +90,7 @@
 - [This is probably the best web presentation tool so far!](https://github.com/ksky521/nodeppt)
 - [Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.](https://github.com/yyx990803/build-your-own-mint)
 - https://hashrocket.com/blog/posts/generate-images-for-instagram
+- Crop a single image to a certain aspect ratio in ImageMagick (7.0+): [tweet](https://twitter.com/danburzo/status/1222441121051267073) + [repo](https://github.com/danburzo/toolbox/blob/master/imagemagick.md)
 
 ### Books
 
@@ -104,6 +105,7 @@
 ### Writing
 
 - https://divu.in/writing-effective-software-137ac3c3c7c1
+- http://timharford.com/2020/01/book-of-the-week-2-dreyers-english
 - [Don't waste your time on file structure, use an editor with a good fuzzy search and move on.](https://twitter.com/aweary/status/1206763785777754117)
 - https://awesometalks.party/category/documentation
 - https://devonzuegel.com/post/comparison-of-text-editing-methods

@@ -6,6 +6,7 @@
 - https://devonzuegel.com/post/unconventional-strategies-for-practicing-spanish
 - https://viorel.me/2019/thoughts-on-learning-english
 - https://github.com/viorelsfetea/german-verbs-database
+- https://github.com/danburzo/toolbox#language
 
 ### Videos
 
