@@ -47,6 +47,7 @@
 - [Yahoo Pipes](https://twitter.com/jasvir/status/1199189359083130880)
 - [A great book or course on this topic of technical design patterns for SaaS?](https://twitter.com/patio11/status/1219997892028448768)
 - https://matt.sh/startup-books-a-rage-review
+- https://www.seancassidy.me/meditations-redux.html
 
 ### Investing
 

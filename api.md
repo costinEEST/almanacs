@@ -3,6 +3,7 @@
 - https://github.com/JMPerez/linkedin-to-json-resume
 - https://github.com/jamiebuilds/havetheybeenpwned
 - [Python library to interact with Google Sheets V4 API](https://github.com/socialpoint-labs/sheetfu)
+- [An unofficial client library for Google Music.](https://github.com/simon-weber/gmusicapi)
 - https://thisisnotlinkedin.com
 
 ### GraphQL
@@ -22,3 +23,11 @@
 - https://shkspr.mobi/blog/2020/01/why-api-responses-should-be-signed
 - https://vasco3.gitbooks.io/hacks-n-notes/content/apis.html
 - https://github.com/danburzo/toolbox#apis
+
+### Chemistry
+
+- https://github.com/darekkay/tip-of-the-day/tree/master/src/data-sources/chemical-elements-en
+
+### Geography
+
+- https://github.com/darekkay/tip-of-the-day/tree/master/src/data-sources/countries-en

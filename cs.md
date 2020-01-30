@@ -46,6 +46,10 @@
 - [The canonical spec for ulid](https://github.com/ulid/spec)
 - https://github.com/donnemartin/system-design-primer
 
+### Interviews
+
+- https://www.seancassidy.me/whats-the-length-of-shortest-bit-sequence-thats-never-been-sent-over-the-internet.html
+
 ### Practice
 
 - [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)

@@ -4,8 +4,9 @@
 - [Spotify PWA + Desktop shortcut + Media keys. Tutorial and Chrome Extension](https://github.com/JonnyBurger/light-spotify)
 - [A cheat sheet for tailwind css built in react.js](https://github.com/ivan-rey-cv/tailwindcss-cheatsheet-react-pwa)
 - [A Progressive Web App for local file sharing.](https://github.com/RobinLinus/snapdrop)
-- [A simple bus schedule.](https://github.com/Utwo/bus-pwa)
+- [A simple bus schedule made with Vue.](https://github.com/Utwo/bus-pwa)
 - https://github.com/ayastreb/money-tracker
+- [PWA notes made with Svelte](https://github.com/ayndqy/notecards)
 
 
 ### Security

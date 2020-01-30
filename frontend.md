@@ -53,6 +53,7 @@
 - https://www.silvestar.codes/articles/how-to-animate-svg-signature
 - https://jxnblk.github.io/paths
 - https://cloudfour.com/thinks/simple-svg-placeholder
+- [Take a string representing an SVG document or fragment, turn it into HAST JavaScript object.](https://github.com/Rich-Harris/svg-parser)
 
 ### SEO
 
@@ -60,11 +61,13 @@
 - [Find broken links, missing images, etc within your HTML.](https://github.com/stevenvachon/broken-link-checker)
 - [🐿 Scurry around your site and find all those broken links.](https://github.com/JustinBeckwith/linkinator)
 - https://vasco3.gitbooks.io/hacks-n-notes/content/internet_marketing/seo.html
+- https://github.com/darekkay/best-practices#seo
 
 ### Color
 
 - [Happy Hues - Curated colors in context.](https://www.happyhues.co)
 - [Get random, accessible color combinations](https://randoma11y.com)
+- https://darekkay.com/dev/color-tools.html
 - https://corey.ginnivan.net/crash-courses
 - https://github.com/sw-yx/spark-joy#color-picking
 - https://dribbble.com/shots/6454763-Color-Composition-Testing-Temp-late + https://twitter.com/JustinMezzell/status/1126168335140286464
@@ -226,3 +229,4 @@
 - https://github.com/baku89/ui-study
 - [A polyglot web converter.](https://github.com/ritz078/transform)
 - [Software Engineering for Startups (course)](https://github.com/CMU-17-356/cmu-17-356.github.io)
+- https://darekkay.com/blog/accessible-ui-frameworks

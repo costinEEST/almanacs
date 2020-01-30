@@ -8,7 +8,8 @@
 
 - https://github.com/changwookjun/StudyBook
 - https://github.com/trekhleb/learn-python
-- https://automatetheboringstuff.com/2e/
+- https://automatetheboringstuff.com/2e
+- [Getting Started Neo4j with Python (For Complete Beginners)](https://github.com/ybaktir/neo4ds/blob/master/Getting%20Started%20Neo4j%20with%20Python%20(For%20Complete%20Beginners).ipynb)
 
 ### Clean code
 

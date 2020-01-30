@@ -27,3 +27,4 @@
 ### Miscellaneous
 
 - https://github.com/Developer-Y/all-things-java
+- https://github.com/cxxr/better-java

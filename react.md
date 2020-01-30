@@ -11,6 +11,10 @@
 - https://github.com/mfrachet/create-frontend-framework
 - https://github.com/fpereiro/reactnotes
 
+### Books
+
+- https://softchris.github.io/books/react + https://github.com/softchris/react-book-repo
+
 ### Talks
 
 - https://github.com/tiaanduplessis/awesome-react-talks

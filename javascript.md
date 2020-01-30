@@ -26,6 +26,7 @@
 - https://tldrsec.com/blog/appsec-cali-2019/#endpoint-finder-a-static-analysis-tool-to-find-web-endpoints
 - [What did you build using Abstract syntax tree?](https://twitter.com/kuldeepkeshwar/status/1214800664460550144)
 - [How to derive the static control flow graph from a JavaScript program's abstract syntax tree](https://github.com/mariusschulz/bachelors-thesis)
+- [Hypertext Abstract Syntax Tree format.](https://github.com/syntax-tree/hast)
 
 ### Obfuscation
 
@@ -64,6 +65,7 @@
 - [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
 - https://github.com/amilajack/reading/tree/master/JavaScript
 - [A General Theory of Reactivity](https://legacy.gitbook.com/book/kriskowal/gtor/details)
+- [](https://softchris.github.io/books/rxjs)
 
 ### Talks
 
@@ -125,6 +127,10 @@
 - [How To Use Correctly JavaScript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries)
 - [export default const Bar = () => { ... }](https://twitter.com/ManuelBieh/status/1214181034960572419)
 - [Reasons to avoid default exports](https://twitter.com/james_k_nelson/status/1215099907918295041)
+
+### lexical scoping
+
+- https://ericlippert.com/2013/05/20/what-is-lexical-scoping
 
 ### eval()
 

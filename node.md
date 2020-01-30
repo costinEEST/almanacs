@@ -34,12 +34,15 @@
 
 - [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
 - [Open-source YouTube alternative that also supports image and audio uploads.](https://github.com/mayeaux/nodetube)
+- https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial
 
 ### Debugging
 
 - [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
 - https://evilpacket.net/2019/leveraging-javascript-debuggers
 - https://github.com/tj/node-blocked
+- https://nodesource.com/blog/memory-leaks-demystified
+- https://www.joyent.com/blog/walmart-node-js-memory-leak
 
 ### Internals
 
@@ -58,7 +61,6 @@
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
 - [Displays JSON files in a flat format.](https://github.com/soheilpro/catj)
 - [A tinyURL service powered by node.js, express.js and a reddis database.](https://github.com/shahzeb1/nodejs-tinyURL)
-- https://nodesource.com/blog/memory-leaks-demystified
 - [Authoring, publishing and working with commonjs and esm.](https://github.com/manuelbieh/authoring-modules-in-node)
 - [Create graphs from your CommonJS, AMD or ES6 module dependencies.](https://github.com/pahen/madge)
 - [Packages and resources that work really well with https://github.com/zkat/npx](https://github.com/junosuarez/awesome-npx)
@@ -130,6 +132,7 @@
 - [Markdown-based static site generator that works well with monorepos](https://twitter.com/captainsafia/status/1207459107004801024)
 - [Personal blog of Fotis Papadogeorgopoulos, built with Eleventy.](https://github.com/fpapado/fotis.xyz)
 - https://medium.com/@WebReflection/how-to-send-emails-from-static-websites-9a34ceb9416c
+- [Various ways to include comments on your static site.](https://darekkay.com/blog/static-site-comments)
 
 ### Boots
 

@@ -14,3 +14,7 @@
 ### Packages
 
 - [CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very usefull when you're sending emails.](https://github.com/tijsverkoyen/CssToInlineStyles)
+
+### Vulnerable functions
+
+- https://github.com/mm0r1/exploits

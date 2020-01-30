@@ -10,6 +10,10 @@
 - [Cryptographic Right Answers (gist)](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
 - [An Open Letter to Developers Everywhere (crypto-wrong-answers)](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 
+### Best practices
+
+- https://www.seancassidy.me/how-to-implement-crypto-poorly.html
+
 ### Talks
 
 - [Theory and Practice of Cryptography](https://www.youtube.com/playlist?list=PL10875C2002F7E6F6)

@@ -62,6 +62,7 @@ javascript: (() =>
 - https://github.com/deebloo/things-you-can-do-in-a-web-worker
 - [This repo contains a non exhaustive list of less-known features implemented in browsers today.](https://github.com/luruke/browser-2020)
 - https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
+- [new MutationObserver()](https://www.seancassidy.me/genius-blocker.html)
 
 ### CORS
 
@@ -92,3 +93,4 @@ javascript: (() =>
 
 - https://github.com/vasanthk/how-web-works
 - [The End of Indie Web Browsers: You Can (Not) Compete.](https://news.ycombinator.com/item?id=21992050)
+- [Shareable bookmarks.](https://github.com/darekkay/static-marks)
