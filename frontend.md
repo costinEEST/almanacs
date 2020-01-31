@@ -58,6 +58,7 @@
 - https://jxnblk.github.io/paths
 - https://cloudfour.com/thinks/simple-svg-placeholder
 - [Take a string representing an SVG document or fragment, turn it into HAST JavaScript object.](https://github.com/Rich-Harris/svg-parser)
+- https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp + https://twitter.com/Rich_Harris/status/1223277304819998721
 
 ### SEO
 
@@ -128,6 +129,8 @@
 - https://github.com/danburzo/toolbox/blob/master/typefaces.md
 - The Elements of Typographic Style Applied to the Web: [ebook](http://webtypography.net/toc) + [repo](https://github.com/clagnut/webtypography)
 - https://www.typewolf.com/typography-books
+- [What font should be on your book cover?](https://twitter.com/PulpLibrarian/status/1222125153066323968)
+- [CSS can check for a font installed locally before fetching it remotely!](https://twitter.com/argyleink/status/1223026734817087488)
 
 ### Animations
 

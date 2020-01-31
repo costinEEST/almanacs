@@ -9,6 +9,10 @@
 - [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
 - [ESP8266 Home Automation Projects](https://learning.oreilly.com/library/view/esp8266-home-automation/9781787282629) + https://myesp8266.blogspot.com/2018/09/esp8266-home-automation-projects-errata.html
 
+### Espruino
+
+- https://www.youtube.com/user/Espruino/playlists
+
 ### RaspberryPI
 
 - https://github.com/e1ioan/RaspberryPi-AxisYoutubeStreaming

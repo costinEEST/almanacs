@@ -5,6 +5,7 @@
 - [Python library to interact with Google Sheets V4 API](https://github.com/socialpoint-labs/sheetfu)
 - [An unofficial client library for Google Music.](https://github.com/simon-weber/gmusicapi)
 - https://thisisnotlinkedin.com
+- [A twitter unfollower for stale accounts.](https://github.com/wesbos/twitter-unfollower)
 
 ### GraphQL
 

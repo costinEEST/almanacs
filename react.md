@@ -147,6 +147,7 @@
 - https://github.com/aboutjax/goneriding
 - https://github.com/phlntn/emojibuilder
 - [A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. ](https://github.com/oldboyxx/jira_clone)
+- [Winamp 2 reimplemented for the browser.](https://github.com/captbaritone/webamp)
 
 ### Testing
 

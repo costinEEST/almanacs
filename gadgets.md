@@ -17,10 +17,13 @@
 ### Watches
 
 - https://adamfuhrer.com/accuracy-of-mechanical-watches
+- https://shop.espruino.com/banglejs + https://www.hackster.io/news/the-bangle-js-an-open-sourced-javascript-powered-smart-watch-6359962646c2 + https://cxlabs.sap.com/2019/11/11/labs-talk-feature-espruino-bluetooth-nfc-and-bangle-js-kickstarter/
 
 ### Health
 
 - [9 Fitness and Health Gift Ideas 2020](https://youtu.be/G9n51Xtcm_A)
+- [nRF52/nRF51 Fitness Trackers & Smartwatches Reverse Engineered for use as a Wearable Device Development Platform.](https://github.com/curtpw/nRF5x-device-reverse-engineering)
+- https://www.nearform.com/blog/banglejs-oss-open-health-wearables-js-tensorflow 
 
 ### Recording
 

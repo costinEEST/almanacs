@@ -12,6 +12,7 @@
 - https://futureofcoding.org
 - [The best technology podcast episodes](https://podnami.com)
 - [What were your most impactful podcast episodes from 2019?](https://news.ycombinator.com/item?id=22027315)
+- https://podcast.babeljs.io 
 
 ### Storytelling
 

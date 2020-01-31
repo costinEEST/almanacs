@@ -133,6 +133,7 @@
 - https://github.com/wahengchang/nodejs-security-must-know
 - [BLAKE3 hashing for JavaScript: native Node bindings (where available) and WebAssembly.](https://github.com/connor4312/blake3)
 - https://julienrenaux.fr/2019/12/20/github-actions-security-risk
+- [Performs secure device firmware updated over-the-air via Web-Bluetooth.](https://github.com/NordicPlayground/secure-dfu-web-bluetooth)
 
 ### Static site generators
 

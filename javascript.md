@@ -60,6 +60,9 @@
 - https://doesitmutate.xyz + https://stackoverflow.com/questions/9009879/which-javascript-array-functions-are-mutating/9009934#9009934
 - https://github.com/jbranchaud/til#javascript
 - https://github.com/mrtnzlml/meta/blob/master/docs/javascript.md#optional-chaining-gotchas + https://twitter.com/sseraphini/status/1220399410368172033
+- https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
+- https://github.com/daumann/ECMAScript-new-features-list
+- 
 
 ### Books
 
@@ -112,6 +115,7 @@
 - [Screenshots with JavaScript](https://github.com/niklasvh/html2canvas)
 - https://github.com/raphamorim/awesome-canvas
 - https://github.com/Rich-Harris/yootils/blob/master/src/canvas/sprite.ts
+- [HTML5 Canvas implementation for NodeJS backed by Puppeteer.](https://github.com/pshihn/puppet-canvas)
 
 ### WebGL
 
@@ -136,7 +140,6 @@
 
 - https://ericlippert.com/2013/05/20/what-is-lexical-scoping
 
-### eval()
 
 ### Math.random()
 
