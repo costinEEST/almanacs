@@ -20,6 +20,7 @@
 - https://blog.isquaredsoftware.com/2019/11/blogged-answers-learning-and-using-typescript
 - https://github.com/antonjb/TypeScript-Learning-Plan
 - https://khalilstemmler.com/articles/when-to-use-typescript-guide
+- https://github.com/niieani/typescript-vs-flowtype
 
 ### Practice
 

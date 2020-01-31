@@ -41,6 +41,7 @@ javascript: (() =>
 - https://github.com/a0viedo/demystifying-js-engines
 - https://github.com/thlorenz/v8-perf
 - https://github.com/hex13/javascript-visual-explanations#javascript-engines
+- https://deepu.tech/memory-management-in-v8
 
 ### WebRTC
 
@@ -88,6 +89,7 @@ javascript: (() =>
 ### Headless
 
 - [Node library to automate Chromium, Firefox and WebKit browsers.](https://github.com/microsoft/playwright) + [opinion](https://twitter.com/xopek59/status/1221460300387573760)
+- [Comparing Cypress and Puppeteer](https://swatinem.de/blog/cypress-puppeteer)
 
 ### Miscellaneous
 

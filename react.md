@@ -11,6 +11,10 @@
 - https://github.com/mfrachet/create-frontend-framework
 - https://github.com/fpereiro/reactnotes
 
+### Boilerplate
+
+- https://github.com/nice-boys/product-boilerplate
+
 ### Books
 
 - https://softchris.github.io/books/react + https://github.com/softchris/react-book-repo
@@ -54,6 +58,7 @@
 - https://github.com/jbranchaud/til/blob/master/react/read-only-input-elements.md
 - https://github.com/jbranchaud/til/blob/master/react/create-dynamically-named-custom-react-components.md
 - [What's your current favorite date range picker?](https://twitter.com/erikras/status/1219559846661541888)
+- https://github.com/samdenty/console-feed
 
 ### Patterns
 
@@ -141,6 +146,7 @@
 - https://github.com/marmelab/react-admin
 - https://github.com/aboutjax/goneriding
 - https://github.com/phlntn/emojibuilder
+- [A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. ](https://github.com/oldboyxx/jira_clone)
 
 ### Testing
 

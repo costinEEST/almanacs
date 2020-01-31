@@ -108,6 +108,7 @@
 - [A simple Christmas tree.](https://github.com/anvaka/atree)
 - [Screenshots with JavaScript](https://github.com/niklasvh/html2canvas)
 - https://github.com/raphamorim/awesome-canvas
+- https://github.com/Rich-Harris/yootils/blob/master/src/canvas/sprite.ts
 
 ### WebGL
 
@@ -133,6 +134,12 @@
 - https://ericlippert.com/2013/05/20/what-is-lexical-scoping
 
 ### eval()
+
+### Math.random()
+
+- https://github.com/Rich-Harris/yootils/blob/master/src/number/random.ts
+- https://github.com/Rich-Harris/yootils/blob/master/src/array/pickRandom.ts
+- https://github.com/Rich-Harris/yootils/blob/master/src/array/shuffle.ts
 
 - [Evaluating JavaScript code via import()](https://2ality.com/2019/10/eval-via-import.html)
 
@@ -175,6 +182,10 @@
 
 - [When to use OOP; when to use FP](https://twitter.com/rauschma/status/1212996411324801026)
 
+### new Map()
+
+- [Map.prototype.has() instead of Object.prototype.hasOwnProperty()](https://dev.to/mfulton26/comment/j060)
+
 ### xor
 
 - https://twitter.com/rauschma/status/1218579324976140288
@@ -207,6 +218,7 @@
 - https://24ways.org/2019/twelve-days-of-front-end-testing
 - [QA Wolf is a free and open source library to create Puppeteer/Jest browser tests and run them in CI.](https://github.com/qawolf/qawolf)
 - https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3
+- [uilicious](https://twitter.com/serrynaimo/status/1217779028838322177)
 
 ### Virtual machines
 
@@ -231,6 +243,7 @@
 - https://gavinr.com/arcgis-javascript-api-svelte-resources
 - https://github.com/danburzo/toolbox#geographical-data
 - https://github.com/danburzo/toolbox#mapping-1
+- https://cheeaun.com/blog/2019/02/building-busrouter-sg/
 
 ### Games
 

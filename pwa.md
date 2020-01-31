@@ -7,6 +7,7 @@
 - [A simple bus schedule made with Vue.](https://github.com/Utwo/bus-pwa)
 - https://github.com/ayastreb/money-tracker
 - [PWA notes made with Svelte](https://github.com/ayndqy/notecards)
+- [A product that tells you if it is Black Friday day or not.](https://github.com/shprink/isitblackfridayyet)
 
 
 ### Security

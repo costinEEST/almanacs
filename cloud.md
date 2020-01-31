@@ -8,6 +8,7 @@
 - A serverless email server on AWS using S3 and SES: [tweet](https://twitter.com/brianleroux/status/1214236551032393731) + [repo](https://github.com/0x4447/0x4447_product_s3_email)
 - https://m.signalvnoise.com/aws-s3-youre-out-of-order
 - [DNS on AWS](https://twitter.com/brianleroux/status/1218252704348172288)
+- https://nathandavison.com/blog/exploiting-email-address-parsing-with-aws-ses
 
 ### Google Cloud
 
@@ -21,3 +22,7 @@
 ### IBM
 
 - https://github.com/victorshinya/awesome-ibmcloud
+
+### Azure
+
+- https://www.nexmo.com/blog/2020/01/29/how-send-receive-sms-messages-with-node-js-azure-functions-dr

@@ -2,6 +2,7 @@
 
 - [Remembrance of Tags Past](https://hero35.com/css-minsk-js/2019/remembrance-of-tags-past)
 - https://vanillajspodcast.com/html-is-a-living-language
+- [HTML has native support for autocomplete-style dropdowns attached to inputs via the <datalist> element.](https://twitter.com/TejasKumar_/status/1194689434656088065)
 
 ### Unicode
 
@@ -10,6 +11,7 @@
 - [Query the Unicode database from the command line, with good support for emojis](https://github.com/arp242/uni)
 - [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
 - [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
+- https://twitter.com/clagnut/status/1222148873218658304
 
 ### Accessibility
 
@@ -43,6 +45,8 @@
 - [Power switch animation - Only CSS](https://codepen.io/milanraring/full/KKwRBQp)
 - https://github.com/jbranchaud/til#css
 - https://brumm.af/shadows
+- https://reading.supply/@jim/a-set-of-tactics-to-ensure-fast-css-object-model-creation-iCoP4G
+- https://reading.supply/@jim/performance-when-animating-styles-C8MySv
 
 ### SVG
 
@@ -122,6 +126,8 @@
 - [FontPair - Helps you pair Google Fonts together](https://fontpair.co)
 - [A short history of body copy sizes on the Web.](https://fvsch.com/body-copy-sizes)
 - https://github.com/danburzo/toolbox/blob/master/typefaces.md
+- The Elements of Typographic Style Applied to the Web: [ebook](http://webtypography.net/toc) + [repo](https://github.com/clagnut/webtypography)
+- https://www.typewolf.com/typography-books
 
 ### Animations
 
@@ -188,6 +194,7 @@
 - https://github.com/codebytere/codebytere.github.io
 - https://tejaskumar.com/blog/1579543554591__5-things-i-love-about-my-website
 - https://github.com/bchiang7/v4
+- https://github.com/cheeaun/branding
 
 ### Newsletters
 

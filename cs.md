@@ -71,3 +71,4 @@
 - https://github.com/gruhn/awesome-naming
 - https://github.com/charlax/professional-programming
 - https://github.com/computationclub/computationclub.github.io
+- [Path to a Software Architect ](https://github.com/justinamiller/SoftwareArchitect)

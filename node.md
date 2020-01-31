@@ -35,6 +35,7 @@
 - [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
 - [Open-source YouTube alternative that also supports image and audio uploads.](https://github.com/mayeaux/nodetube)
 - https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial
+- https://github.com/sahat/hackathon-starter
 
 ### Debugging
 
@@ -93,6 +94,7 @@
 - [Passwords are so 1990 by Sam Bellen](https://www.youtube.com/watch?v=PQnpAO2yD5c)
 - [Authentication fundamentals: The basics | Azure Active Directory](https://youtu.be/fbSVgC8nGz4)
 - [The best website that teaches the value/need of 2FA to beginners](https://twitter.com/rauchg/status/1206662873776132096)
+- https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql
 
 ### API
 
@@ -108,6 +110,10 @@
 - [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
 - https://github.com/dexteryy/spellbook-of-modern-webdev#microservices--api-services-nodejs
 - https://legacy.gitbook.com/book/geemus/http-api-design/details
+
+### Scrapping
+
+- https://levelup.gitconnected.com/anonymous-web-scrapping-with-node-js-tor-apify-and-cheerio-3b36ec6a45dc
 
 ### Microservices
 
@@ -125,6 +131,8 @@
 - https://github.com/ChALkeR/notes
 - https://github.com/a0viedo/can-you-tell-if-your-node-app-is-healthy
 - https://github.com/wahengchang/nodejs-security-must-know
+- [BLAKE3 hashing for JavaScript: native Node bindings (where available) and WebAssembly.](https://github.com/connor4312/blake3)
+- https://julienrenaux.fr/2019/12/20/github-actions-security-risk
 
 ### Static site generators
 

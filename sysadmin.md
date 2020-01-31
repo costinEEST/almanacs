@@ -8,6 +8,7 @@
 - [Resurrecting a Dead Library: Part Three - Rehabilitation](https://mtlynch.io/resurrecting-3/)
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
 - [Step by step instructions for building Docker images with Windows.](https://github.com/aerokube/windows-images)
+- [Data Science Docker Tutorial.](https://github.com/jonathanlimsc/ds-docker-tutorial)
 
 ### Kubernetes
 

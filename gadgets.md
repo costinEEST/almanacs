@@ -6,6 +6,10 @@
 
 - [.. attach your mouse to your computer with a wire so it could get power and you didn't need to change the batteries all the time.](https://twitter.com/seldo/status/1215719226188582913)
 
+### Monitors
+
+- [4k monitors](https://twitter.com/rogie/status/1221294864144318468)
+
 ### Kitchen
 
 - https://juneoven.com
