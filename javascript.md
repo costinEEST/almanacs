@@ -27,6 +27,8 @@
 - [What did you build using Abstract syntax tree?](https://twitter.com/kuldeepkeshwar/status/1214800664460550144)
 - [How to derive the static control flow graph from a JavaScript program's abstract syntax tree](https://github.com/mariusschulz/bachelors-thesis)
 - [Hypertext Abstract Syntax Tree format.](https://github.com/syntax-tree/hast)
+- https://lihautan.com/manipulating-ast-with-javascript 
+- https://twitter.com/flexdinesh/status/1196680010343432192
 
 ### Obfuscation
 
@@ -43,7 +45,8 @@
 
 ### Patterns
 
-- https://viorel.me/2019/simple-undo-redo-functionality-in-js-using-memento/
+- https://viorel.me/2019/simple-undo-redo-functionality-in-js-using-memento
+- https://lihautan.com/reactivity-in-web-frameworks-the-when 
 
 ### TIL
 
@@ -181,6 +184,10 @@
 ### OOP
 
 - [When to use OOP; when to use FP](https://twitter.com/rauschma/status/1212996411324801026)
+
+### Object.defineProperty()
+
+-https://lihautan.com/who-accessed-my-property
 
 ### new Map()
 

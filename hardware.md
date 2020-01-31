@@ -14,3 +14,4 @@
 ### Miscellaneous
 
 - https://github.com/jaredthecoder/awesome-vehicle-security
+- https://swatinem.de/blog/oil-immersion-cooling

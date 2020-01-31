@@ -10,7 +10,7 @@
 
 - SQL, NoSQL, and Scale - How DynamoDB scales where relational databases don't: [tweet](https://twitter.com/alexbdebrie/status/1214966652254732304) + [article](https://www.alexdebrie.com/posts/dynamodb-no-bad-queries/)
 - https://ovid.github.io/articles/database-design-standards.html
-
+- https://joshduff.com/2016-07-writing-sql.md
 ### Hacks
 
 - Tunneling traffic through MySQL service (or your mysqld is my new SOCKS5): [tweet](https://twitter.com/TheXC3LL/status/1203432035353845760) + [blog post](https://x-c3ll.github.io/posts/Pivoting-MySQL-Proxy/)

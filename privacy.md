@@ -13,6 +13,7 @@
 - https://securityespresso.org/tutorials/2019/03/22/vpn-server-using-wireguard-on-ubuntu
 - [Encouraging wholesome media with filters.](https://trevordmiller.com/posts/media/)
 - https://www.forbes.com/sites/thomasbrewster/2019/12/09/are-you-one-of-avasts-400-million-users-this-is-why-it-collects-and-sells-your-web-habits
+- https://github.com/tanhauhau/tanhauhau.github.io/blob/dev/content/notes/2019-10-14%20-%20DRM%20Digital%20rights%20management.md
 
 ### Techniques
 

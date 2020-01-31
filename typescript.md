@@ -29,3 +29,7 @@
 ### Opinions
 
 - [I really wish TypeScript had better inference.](https://twitter.com/devongovett/status/1219663924989050881)
+
+### Patterns
+
+- [Lets learn Dependency Injection.](https://swatinem.de/blog/learn-di)
