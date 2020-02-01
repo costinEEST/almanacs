@@ -12,6 +12,7 @@
 - [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
 - [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
 - https://twitter.com/clagnut/status/1222148873218658304
+- https://github.com/dannyfritz/commit-message-emoji
 
 ### Accessibility
 
@@ -41,12 +42,13 @@
 - https://justmarkup.com/articles/2019-10-21-image-orientation
 - [You know how 100vh isn't actually 100% of the height of the visible space inside a viewport on mobile??](https://twitter.com/jensimmons/status/1215803697969684480)
 - https://github.com/johnpolacek/the-case-for-atomic-css
-- https://css-tricks.com/css-only-carousel
+- https://css-tricks.com/css-only-carousel + https://schepp.dev/posts/css-only-carousel
 - [Power switch animation - Only CSS](https://codepen.io/milanraring/full/KKwRBQp)
 - https://github.com/jbranchaud/til#css
 - https://brumm.af/shadows
 - https://reading.supply/@jim/a-set-of-tactics-to-ensure-fast-css-object-model-creation-iCoP4G
 - https://reading.supply/@jim/performance-when-animating-styles-C8MySv
+- 
 
 ### SVG
 

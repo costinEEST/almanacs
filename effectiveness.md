@@ -17,6 +17,7 @@
 - https://jeremykun.com/2020/01/14/the-communicative-value-of-using-git-well 
 - https://github.com/tanhauhau/tanhauhau.github.io/blob/dev/content/notes/2019-09-17%20-%20git.md
 - https://lihautan.com/git-gudder
+- https://github.com/git-tips/tips
 
 ### VS Code
 

@@ -1,5 +1,6 @@
 ### Arduino
 
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUe2-bhkgFCCKwCyx_ZBzCcp
 - https://www.instructables.com/id/A-Beginners-Guide-to-Arduino
 - [Arduino Development on OpenBSD](https://jcs.org/2019/12/17/arduino)
 - [ESP32-Cam Quickstart with Arduino Code](https://youtu.be/Sb08leLWOgA)

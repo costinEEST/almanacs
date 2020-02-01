@@ -20,6 +20,7 @@
 - [Exploring Different Species by Journey to the Microcosmos](https://www.youtube.com/playlist?list=PLf3BfsFyWWMF48QHimH7jxHQMX0Q5UpPS)
 - the microbe database(microbe.directory/developers): [github](https://github.com/microbe-directory/microbe-directory) + [bitbucket](https://bitbucket.org/account/signin/?next=/microbedb/microbedb)
 - [Curated List of Biomarkers, Blood Tests, and Blood Tracking.](https://github.com/markwk/awesome-biomarkers)
+- https://github.com/kakoni/awesome-healthcare#bioinformatics
 
 ### Anatomy
 
@@ -29,6 +30,7 @@
 - https://inquisitivebiologist.wordpress.com/2019/03/21/book-review-lost-anatomies-the-evolution-of-the-human-form
 - https://www.techexplorist.com/trojan-horse-nanoparticle-eats-plaques-cause-heart-attacks/29530
 - https://www.sciencealert.com/researchers-transplant-lab-grown-heart-muscles-for-the-first-time
+- [Zygote Body 3D Anatomy Online Visualizer | Human Anatomy 3D](https://www.zygotebody.com)
 
 ### Botany
 
@@ -67,7 +69,13 @@
 
 ### Food
 
+- [Vitamins and minerals](https://docs.google.com/document/d/1PkVQ4A3MR8zR0YxGT1hCfGj5RavwIY6aTOkb7G-T4lU)
 - https://www.healthline.com/nutrition/10-nutrients-you-cant-get-from-animal-foods
+- https://www.health.harvard.edu/staying-healthy/listing_of_vitamins
+- https://www.accessdata.fda.gov/scripts/interactivenutritionfactslabel/factsheets/vitamin_and_mineral_chart.pdf
+- https://books.google.ro/books/about/Prescription_for_Nutritional_Healing.html?id=2s_q2y_J3rwC
+- https://masterpass.chrismasterjohnphd.com/dashboard
+- [Mr. Mineral | Minerals for Body, Brain and Business Optimization- Thomas DeLauer](https://www.youtube.com/playlist?list=PLFbLg_bIQgxC-NtGO7TzTTO0Lgd8R-Vop)
 
 ### Ketosis
 
@@ -89,6 +97,7 @@
 ### Fitness
 
 - https://www.julian.com/guide/muscle/intro
+- https://github.com/evexoio/awesome-health
 
 ### Aging
 
@@ -122,3 +131,4 @@
 - [Classify sleep from heart rate and acceleration via Apple Watch](https://github.com/ojwalch/sleep_classifiers)
 - [Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking.](https://github.com/woop/awesome-quantified-self)
 - [Meal Planner for calories and macros](https://github.com/vasco3/cheff)
+- https://github.com/yetanotherchris/awesome-mindhacking#journaling 
