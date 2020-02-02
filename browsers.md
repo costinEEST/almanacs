@@ -23,6 +23,7 @@
 - [A browser extension for custom keyboard shortcuts ](https://github.com/mikecrittenden/shortkeys)
 - https://github.com/pandawing/node-chrome-web-store-item-property
 - https://github.com/infokiller/web-search-navigator
+- [Browser Extension to full-text search your browsing history & bookmarks.](https://github.com/WorldBrain/Memex)
 
 ### Bookmarklets
 

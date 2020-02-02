@@ -33,3 +33,4 @@
 
 - https://github.com/darekkay/tip-of-the-day/tree/master/src/data-sources/countries-en
 - https://github.com/oldboyxx/Mapped-Country-Language-Codes
+- [Full list of timezones.](https://github.com/dmfilipenko/timezones.json)

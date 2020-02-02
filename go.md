@@ -13,6 +13,7 @@
 ### References
 
 - https://github.com/jbranchaud/til/blob/master/go/access-go-docs-offline.md
+- [Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place.](https://github.com/hoanhan101/ultimate-go)
 
 ### Opinions
 
