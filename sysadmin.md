@@ -9,12 +9,16 @@
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
 - [Step by step instructions for building Docker images with Windows.](https://github.com/aerokube/windows-images)
 - [Data Science Docker Tutorial.](https://github.com/jonathanlimsc/ds-docker-tutorial)
+- https://blog.alexellis.io/building-containers-without-docker 
+- https://pythonspeed.com/articles/alpine-docker-python
+- https://snikt.net/blog/2019/08/05/building-a-secure-torrent-download-station-by-combining-private-internet-access-pia-openvpn-and-transmission-through-docker 
 
 ### Kubernetes
 
 - https://www.learncloudnative.com/blog/2020-01-06-build_your_own_netlify_like_deployment_for_react_apps_with_kubernetes
 - [Open Source Curriculum for CNCF Certification Courses](https://github.com/cncf/curriculum)
 - https://vomtom.at/local-development-vs-virtual-box-vs-vagrant-vs-container-vs-docker-and-kubernetes
+- https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html
 
 ### Servers
 

@@ -32,3 +32,7 @@
 ### Demos
 
 - [Store a secret securely in a standalone HTML file.](https://github.com/derhuerst/html-vault)
+
+### Tools
+
+- [ Verifpal - cryptographic protocol analysis tool.](https://twitter.com/bblipp/status/1223289973836861440)

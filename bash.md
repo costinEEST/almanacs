@@ -1,6 +1,7 @@
 ### References
 
 - https://github.com/dylanaraps/pure-bash-bible
+- https://www.grymoire.com/Unix/Awk.html
 
 ### Books
 

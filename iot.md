@@ -17,6 +17,8 @@
 ### RaspberryPI
 
 - https://github.com/e1ioan/RaspberryPi-AxisYoutubeStreaming
+- https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server 
+- https://snikt.net/blog/2019/06/22/building-an-lte-access-point-with-a-raspberry-pi 
 
 ### Smartwatch
 

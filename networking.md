@@ -99,6 +99,10 @@
 - [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-dns-servers
 
+### Jaber
+
+- https://dino.im/blog/2020/01/dino-0.1-release
+
 ### Host header
 
 - https://sites.google.com/site/testsitehacking/10k-host-header

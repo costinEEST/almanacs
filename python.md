@@ -20,6 +20,7 @@
 - Exploring Python through counter-intuitive snippets.](https://github.com/satwikkansal/wtfpython)
 - https://www.b-list.org/weblog/2018/nov/26/case
 - https://twitter.com/jgerity/status/1207009338579132417
+- https://nkanaev.github.io/posts/polyglot
 
 ### Authentication
 

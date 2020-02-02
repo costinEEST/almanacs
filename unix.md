@@ -5,6 +5,7 @@
 ### Books
 
 - https://github.com/mrzool/unix-as-ide
+- [The Art of Unix Programming, reformatted.](https://www.arp242.net/taoup.html)
 
 ### CLI
 

@@ -19,3 +19,7 @@
 ### Opinions
 
 - [How to C in 2016](https://matt.sh/howto-c)
+
+### References
+
+- https://www.learn-c.org 
