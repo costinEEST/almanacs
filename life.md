@@ -21,6 +21,7 @@
 - the microbe database(microbe.directory/developers): [github](https://github.com/microbe-directory/microbe-directory) + [bitbucket](https://bitbucket.org/account/signin/?next=/microbedb/microbedb)
 - [Curated List of Biomarkers, Blood Tests, and Blood Tracking.](https://github.com/markwk/awesome-biomarkers)
 - https://github.com/kakoni/awesome-healthcare#bioinformatics
+- https://github.com/nikitavoloboev/knowledge/blob/master/biology/biology.md
 
 ### Anatomy
 
@@ -48,6 +49,7 @@
 - https://www.amazon.com/Ten-Drugs-Powders-History-Medicine/dp/1419734407
 - https://youtu.be/favrMbfi1Pw + https://www.amazon.com/Demon-Machine-Paul-Davies/dp/024130959X
 - [Heroin documentaries](https://matt.sh/heroin)
+- https://github.com/nikitavoloboev/knowledge/blob/master/chemistry/chemistry.md
 
 ### Physics
 

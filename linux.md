@@ -13,6 +13,7 @@
 
 - http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html
 - https://aster.cloud/2019/12/17/what-you-probably-didnt-know-about-sudo
+- https://github.com/jcsrb/til/tree/master/linux
 
 ### Embedded
 

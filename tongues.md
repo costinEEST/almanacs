@@ -7,6 +7,9 @@
 - https://viorel.me/2019/thoughts-on-learning-english
 - https://github.com/viorelsfetea/german-verbs-database
 - https://github.com/danburzo/toolbox#language
+- https://www.reddit.com/r/ChineseLanguage/comments/918c3b/free_rescources_for_beginners_and_advanced 
+- [A poem about pronunciation.](http://www.i18nguy.com/chaos.html)
+- https://github.com/jcsrb/til/tree/master/english
 
 ### Videos
 

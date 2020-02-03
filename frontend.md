@@ -13,6 +13,7 @@
 - [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
 - https://twitter.com/clagnut/status/1222148873218658304
 - https://github.com/dannyfritz/commit-message-emoji
+- https://github.com/jcsrb/til/blob/master/unicode/remove-byte-order-mark.md
 
 ### Accessibility
 
