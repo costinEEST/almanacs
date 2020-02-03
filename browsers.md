@@ -91,6 +91,7 @@ javascript: (() =>
 
 - [Node library to automate Chromium, Firefox and WebKit browsers.](https://github.com/microsoft/playwright) + [opinion](https://twitter.com/xopek59/status/1221460300387573760)
 - [Comparing Cypress and Puppeteer](https://swatinem.de/blog/cypress-puppeteer)
+- [Capture screenshots in multiple browsers!](https://github.com/juliangruber/capture-screenshot)
 
 ### Miscellaneous
 

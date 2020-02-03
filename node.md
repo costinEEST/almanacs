@@ -76,6 +76,7 @@
 - [CLI utility for displaying current network utilization by process, connection and remote IP/hostname.](https://twitter.com/mikeal/status/1217554555350798339)
 - https://github.com/justjavac/awesome-node-utils
 - https://github.com/bcoe/awesome-cross-platform-nodejs
+- Zero-dependency HTTP responders: [tweet](https://twitter.com/juliangruber/status/1222120717367611392) + [repo](https://github.com/juliangruber/http-responders)
 
 ### Testing
 

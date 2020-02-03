@@ -38,6 +38,7 @@
 - https://github.com/mhinz/vim-galore
 - https://www.meetup.com/vim-chicago
 - https://legacy.gitbook.com/book/learnbyexample/vim-reference/details
+- https://twitter.com/victordorneanu/status/1222158980627288064
 
 ### tmux
 

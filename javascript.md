@@ -135,6 +135,7 @@
 - [How To Use Correctly JavaScript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries)
 - [export default const Bar = () => { ... }](https://twitter.com/ManuelBieh/status/1214181034960572419)
 - [Reasons to avoid default exports](https://twitter.com/james_k_nelson/status/1215099907918295041)
+- [Differences between 〈script type=module〉and〈script〉](https://usefulangle.com/post/256/script-type-module-vs-script-javascript)
 
 ### lexical scoping
 

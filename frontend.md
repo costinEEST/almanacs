@@ -200,6 +200,7 @@
 - https://tejaskumar.com/blog/1579543554591__5-things-i-love-about-my-website
 - https://github.com/bchiang7/v4
 - https://github.com/cheeaun/branding
+- [samanthaming.com](https://twitter.com/samantha_ming/status/1221826254137065483)
 
 ### Newsletters
 
