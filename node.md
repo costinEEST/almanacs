@@ -162,3 +162,4 @@
 - https://github.com/dexteryy/spellbook-of-modern-webdev#server-side-libraries-nodejs
 - https://learn-anything.xyz/web-development/backend/nodejs
 - [How I write backends.](https://github.com/fpereiro/backendlore)
+- https://github.com/IonicaBizau/learning-nodejs
