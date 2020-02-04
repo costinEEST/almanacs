@@ -116,6 +116,7 @@
 - https://github.com/raphamorim/awesome-canvas
 - https://github.com/Rich-Harris/yootils/blob/master/src/canvas/sprite.ts
 - [HTML5 Canvas implementation for NodeJS backed by Puppeteer.](https://github.com/pshihn/puppet-canvas)
+- https://github.com/tsayen/dom-to-image
 
 ### WebGL
 
@@ -260,3 +261,7 @@
 ### Games
 
 - [A isometric city builder in JavaScript.](https://github.com/victorqribeiro/isocity)
+
+### Documentation
+
+- https://v8.dev/blog/understanding-ecmascript-part-1

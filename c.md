@@ -23,3 +23,5 @@
 ### References
 
 - https://www.learn-c.org 
+- https://github.com/rby90/Project-Based-Tutorials-in-C
+- https://github.com/tuvtran/project-based-learning#cc

@@ -24,6 +24,10 @@
 - https://github.com/pandawing/node-chrome-web-store-item-property
 - https://github.com/infokiller/web-search-navigator
 - [Browser Extension to full-text search your browsing history & bookmarks.](https://github.com/WorldBrain/Memex)
+- [Open Graph Preview - How people will see your site in the most popular social networks](https://chrome.google.com/webstore/detail/open-graph-preview/ehaigphokkgebnmdiicabhjhddkaekgh)
+- [Open New Tab, and write down every piece of your thought!](https://github.com/wildskyf/tab-notes)
+- https://shubhapradha.github.io/30daybookmarks
+- https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon
 
 ### Bookmarklets
 

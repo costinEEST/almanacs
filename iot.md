@@ -4,11 +4,13 @@
 - https://www.instructables.com/id/A-Beginners-Guide-to-Arduino
 - [Arduino Development on OpenBSD](https://jcs.org/2019/12/17/arduino)
 - [ESP32-Cam Quickstart with Arduino Code](https://youtu.be/Sb08leLWOgA)
+- https://arunoda.me/blog/building-a-connected-ammeter-with-arduino
 
 ### ESP8266
 
 - [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
 - [ESP8266 Home Automation Projects](https://learning.oreilly.com/library/view/esp8266-home-automation/9781787282629) + https://myesp8266.blogspot.com/2018/09/esp8266-home-automation-projects-errata.html
+- https://arunoda.me/blog/load-testing-an-esp8266
 
 ### Espruino
 
@@ -16,6 +18,7 @@
 
 ### RaspberryPI
 
+- https://hackclub.com/workshops/choose_your_pi
 - https://github.com/e1ioan/RaspberryPi-AxisYoutubeStreaming
 - https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server 
 - https://snikt.net/blog/2019/06/22/building-an-lte-access-point-with-a-raspberry-pi 

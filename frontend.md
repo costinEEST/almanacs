@@ -31,6 +31,7 @@
 - https://github.com/stringyland/a11y-learning-plan
 - [.. audit](https://twitter.com/zcorpan/status/1217627504535576579)
 - https://www.vincit.fi/fi/software-development-450-words-per-minute
+- https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html
 
 ### CSS
 
@@ -62,6 +63,7 @@
 - https://cloudfour.com/thinks/simple-svg-placeholder
 - [Take a string representing an SVG document or fragment, turn it into HAST JavaScript object.](https://github.com/Rich-Harris/svg-parser)
 - https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp + https://twitter.com/Rich_Harris/status/1223277304819998721
+- [A tool for generating flow line representations using SVG paths / poly lines](https://github.com/msurguy/flow-lines)
 
 ### SEO
 
@@ -202,6 +204,7 @@
 - https://github.com/bchiang7/v4
 - https://github.com/cheeaun/branding
 - [samanthaming.com](https://twitter.com/samantha_ming/status/1221826254137065483)
+- https://mherman.org/herman-resume.json
 
 ### Newsletters
 

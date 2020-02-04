@@ -19,6 +19,7 @@
 - [Open Source Curriculum for CNCF Certification Courses](https://github.com/cncf/curriculum)
 - https://vomtom.at/local-development-vs-virtual-box-vs-vagrant-vs-container-vs-docker-and-kubernetes
 - https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html
+- https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes
 
 ### Servers
 
