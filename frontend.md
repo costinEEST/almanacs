@@ -91,6 +91,7 @@
 
 ### Design
 
+- [Codify: Parametric and Computational Design in Landscape Architecture](https://books.google.ro/books?id=QT9ZDwAAQBAJ)
 - [Everybody calling the Cybertruck "brutalist" is wrong.](https://www.inverse.com/article/61479-cybertruck-brutalism-not-really)
 - [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)
 - https://www.abstract.com/blog/product-design-in-2020s
