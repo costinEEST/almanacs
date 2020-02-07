@@ -49,6 +49,7 @@
 ### Interviews
 
 - https://www.seancassidy.me/whats-the-length-of-shortest-bit-sequence-thats-never-been-sent-over-the-internet.html
+- https://thesquareplanet.com/blog/how-the-internet-works 
 
 ### Practice
 
@@ -73,3 +74,4 @@
 - https://github.com/computationclub/computationclub.github.io
 - [Path to a Software Architect ](https://github.com/justinamiller/SoftwareArchitect)
 - https://github.com/joho/awesome-code-review
+- [History of Science - Development of Algorithms](https://cgi.csc.liv.ac.uk/~ped/teachadmin/histsci/content.html)

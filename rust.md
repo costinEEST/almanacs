@@ -6,6 +6,10 @@
 - [Rust by Crazcalm's Tech Stack](https://www.youtube.com/playlist?list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X)
 - https://pascalprecht.github.io/posts/learning-rust
 
+### Talks
+
+- [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
+
 ### Algorithms
 
 - https://github.com/Mec-iS/rust-algos-illuminated
@@ -21,3 +25,5 @@
 ### Opinions
 
 - https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular
+- https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
+- https://thesquareplanet.com/blog/the-path-to-rust

@@ -56,6 +56,7 @@
 ### Economics
 
 - [Basic Economics: A Common Sense Guide to the Economy](https://www.amazon.com/Basic-Economics-Common-Sense-Economy/dp/0465002609)
+- [Looking for a Payment Provider?](https://twitter.com/findingmarbles/status/1225524171993690114)
 
 ### Geopolitics
 

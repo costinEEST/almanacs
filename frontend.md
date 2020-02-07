@@ -3,6 +3,7 @@
 - [Remembrance of Tags Past](https://hero35.com/css-minsk-js/2019/remembrance-of-tags-past)
 - https://vanillajspodcast.com/html-is-a-living-language
 - [HTML has native support for autocomplete-style dropdowns attached to inputs via the <datalist> element.](https://twitter.com/TejasKumar_/status/1194689434656088065)
+- [Make a custom select menu](https://twitter.com/scottjehl/status/1225507115172847618)
 
 ### Unicode
 

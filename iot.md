@@ -45,3 +45,4 @@
 - https://www.youtube.com/user/mcwhorpj/playlists
 - I Made My Own Image Sensor! (And Digital Camera): [video](https://youtu.be/PaXweP73NT4) + [repo](https://github.com/IdleHandsProject/diycamera)
 - [Peter Hoddie from Moddable presenting SES](https://youtu.be/-2UnCfy5NSs)
+- [IoT.js implementation of WebThing API (based on Mozilla-IoT's webthing-node)](https://github.com/rzr/webthing-iotjs/wiki)

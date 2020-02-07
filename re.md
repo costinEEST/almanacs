@@ -4,6 +4,7 @@
 - https://www.slideshare.net/JayTurla2/building-your-car-hacking-labs-car-hacking-community-from-scratch
 - [scanlime](https://www.youtube.com/user/micahjd/playlists)
 - [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://youtu.be/aHx-XUA6f9g)
+- https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk 
 
 ### Courses
 
