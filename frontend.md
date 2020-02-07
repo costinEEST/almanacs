@@ -228,6 +228,7 @@
 - https://github.com/jagtalon/figma-fast-copy
 - https://figma.bothrs.com
 - https://github.com/rsms/figma-plugins
+- https://github.com/thomas-lowry/figma-plugins-on-github
 
 ### Miscellaneous
 
