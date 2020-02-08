@@ -15,6 +15,11 @@
 - https://github.com/mmccaff/PlacesToPostYourStartup
 - https://github.com/rdp/open-source-how-to-popularize-your-project
 
+### Branding
+
+- https://twitter.com/david_perell/status/1226001494530514944
+- https://github.com/cheeaun/branding
+
 ### Publishing
 
 - [How do people self publish books?](https://twitter.com/EmmaWedekind/status/1177325024887418880)

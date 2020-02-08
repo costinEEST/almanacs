@@ -51,7 +51,7 @@
 - https://brumm.af/shadows
 - https://reading.supply/@jim/a-set-of-tactics-to-ensure-fast-css-object-model-creation-iCoP4G
 - https://reading.supply/@jim/performance-when-animating-styles-C8MySv
-- 
+-
 
 ### SVG
 
@@ -193,6 +193,7 @@
 - https://github.com/luruke/awesome-casestudy
 - https://github.com/micmro/performance-bookmarklet
 - [Mobile Image Processing at London Web Perf Meetup, 2016](https://twitter.com/IacobanIulia/status/1218323157909737473)
+- [Stop manifest.json from opening a new TLS.](https://twitter.com/TimVereecke/status/1225547620791341062)
 
 ### Portfolios
 
@@ -204,7 +205,6 @@
 - https://github.com/codebytere/codebytere.github.io
 - https://tejaskumar.com/blog/1579543554591__5-things-i-love-about-my-website
 - https://github.com/bchiang7/v4
-- https://github.com/cheeaun/branding
 - [samanthaming.com](https://twitter.com/samantha_ming/status/1221826254137065483)
 - https://mherman.org/herman-resume.json
 

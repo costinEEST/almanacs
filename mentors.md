@@ -7,3 +7,4 @@
 - https://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442
 - http://geemus.com/mentoring
 - https://wilsonminer.com
+- https://www.perell.com/recommendations + https://twitter.com/david_perell/status/1225454678508548096
