@@ -95,6 +95,7 @@
 - https://peterattiamd.com/jasonfung + https://news.ycombinator.com/item?id=21802676
 - [Personal playlist](https://www.youtube.com/playlist?list=PLWIcRrPLCdUfEsFPi53bI3BeljwcIBIWl)
 - https://twitter.com/KetoAurelius/status/1216461099404595200
+- https://www.siimland.co/products/metabolic-autophagy-book
 
 ### Fitness
 
