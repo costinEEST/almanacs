@@ -39,6 +39,7 @@
 ### Routing
 
 - [Routing by internet-class](https://www.youtube.com/playlist?list=PLk97mPCd8nvZJs7DyfPgiUDovil2K7axM)
+- https://github.com/bsclifton/home-router-config
 
 ### Telecommunications
 
@@ -79,6 +80,10 @@
 - [Mini HTTP guide for developers](https://news.ycombinator.com/item?id=21955953)
 - https://tldrsec.com/blog/appsec-cali-2019/#inducing-amnesia-in-browsers-the-clear-site-data-header
 
+### HTTPS
+
+- https://github.com/EFForg/https-everywhere
+
 ### SSL
 
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-certificate-authority
@@ -98,6 +103,7 @@
 
 - [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-dns-servers
+- [cloudflare_ddns_updater](https://gist.github.com/howanghk/f955764f33bf9db7a86c)
 
 ### Jaber
 

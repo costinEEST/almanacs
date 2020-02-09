@@ -28,3 +28,7 @@
 
 - https://github.com/Developer-Y/all-things-java
 - https://github.com/cxxr/better-java
+
+### Opinions
+
+- https://noncombatant.org/2014/07/31/why-i-love-java

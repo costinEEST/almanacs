@@ -27,7 +27,7 @@
 - [What did you build using Abstract syntax tree?](https://twitter.com/kuldeepkeshwar/status/1214800664460550144)
 - [How to derive the static control flow graph from a JavaScript program's abstract syntax tree](https://github.com/mariusschulz/bachelors-thesis)
 - [Hypertext Abstract Syntax Tree format.](https://github.com/syntax-tree/hast)
-- https://lihautan.com/manipulating-ast-with-javascript 
+- https://lihautan.com/manipulating-ast-with-javascript
 - https://twitter.com/flexdinesh/status/1196680010343432192
 
 ### Obfuscation
@@ -46,7 +46,7 @@
 ### Patterns
 
 - https://viorel.me/2019/simple-undo-redo-functionality-in-js-using-memento
-- https://lihautan.com/reactivity-in-web-frameworks-the-when 
+- https://lihautan.com/reactivity-in-web-frameworks-the-when
 
 ### TIL
 
@@ -62,7 +62,8 @@
 - https://github.com/mrtnzlml/meta/blob/master/docs/javascript.md#optional-chaining-gotchas + https://twitter.com/sseraphini/status/1220399410368172033
 - https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
 - https://github.com/daumann/ECMAScript-new-features-list
-- 
+- https://github.com/loverajoel/jstips
+-
 
 ### Books
 
@@ -141,7 +142,6 @@
 ### lexical scoping
 
 - https://ericlippert.com/2013/05/20/what-is-lexical-scoping
-
 
 ### Math.random()
 

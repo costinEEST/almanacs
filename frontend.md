@@ -51,6 +51,7 @@
 - https://brumm.af/shadows
 - https://reading.supply/@jim/a-set-of-tactics-to-ensure-fast-css-object-model-creation-iCoP4G
 - https://reading.supply/@jim/performance-when-animating-styles-C8MySv
+- http://fremycompany.com/BG/2016/Animate-width-from-zero-to-auto-kinda-895/
 -
 
 ### SVG
@@ -65,6 +66,8 @@
 - [Take a string representing an SVG document or fragment, turn it into HAST JavaScript object.](https://github.com/Rich-Harris/svg-parser)
 - https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp + https://twitter.com/Rich_Harris/status/1223277304819998721
 - [A tool for generating flow line representations using SVG paths / poly lines](https://github.com/msurguy/flow-lines)
+- https://github.com/edent/SuperTinyIcons
+- https://github.com/alrra/browser-logos
 
 ### SEO
 
@@ -183,6 +186,7 @@
 - https://uxdesign.cc/what-it-takes-to-be-a-product-designer-424a4151261e
 - https://github.com/hellerve/programming-talks#uxui
 - [How to Fix Mobile Dating Apps](https://matt.sh/fix-dating-apps)
+- [An open and organized directory of the best pieces about Product Management.](https://theproductindex.com)
 
 ### Performance
 

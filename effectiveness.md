@@ -14,7 +14,7 @@
 - [git push origin HEAD](https://twitter.com/flexdinesh/status/1215119465068675072)
 - [git commit dependency analysis tool](https://github.com/aspiers/git-deps)
 - https://jwiegley.github.io/git-from-the-bottom-up
-- https://jeremykun.com/2020/01/14/the-communicative-value-of-using-git-well 
+- https://jeremykun.com/2020/01/14/the-communicative-value-of-using-git-well
 - https://github.com/tanhauhau/tanhauhau.github.io/blob/dev/content/notes/2019-09-17%20-%20git.md
 - https://lihautan.com/git-gudder
 - https://github.com/git-tips/tips
@@ -127,6 +127,7 @@
 - https://mkaz.blog/misc/notes-on-technical-writing
 - https://www.quora.com/What-is-the-best-way-to-take-notes/answer/S%C3%B6nke-Ahrens + https://vimeo.com/275530205 + https://strengejacke.wordpress.com/2015/10/07/introduction-to-luhmanns-zettelkasten-thinking-and-its-technical-implementation + https://clerestory.netlify.com/zk + https://clerestory.netlify.com/zk1 + https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes + https://zettelkasten.de/posts/overview + https://www.amazon.com/Make-Stick-Peter-C-Brown-ebook/dp/B00JQ3FN7M + https://takesmartnotes.com/tools + https://www.amazon.com/review/create-review/ref=cm_cr_dp_d_wr_but_top?ie=UTF8&channel=glance-detail&asin=1542866502
 - https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016 + https://youtu.be/NNuG5xb4K_8
+- https://github.com/James-Yu/LaTeX-Workshop
 
 ### Drawing
 

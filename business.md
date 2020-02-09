@@ -32,6 +32,7 @@
 - [A collection of engineering ladders for reference and inspiration](https://github.com/bmoeskau/engineering-ladders)
 - [I think the movie Metallica: Some Kind of Monster should be _required viewing_ for cross-functional product teams.](https://twitter.com/mattlemay/status/1215735335348404224)
 - https://medium.com/@WebReflection/what-does-agile-mean-743d6742dae7
+- https://github.com/LappleApple/awesome-leading-and-managing
 
 ### Strategy
 

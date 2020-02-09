@@ -28,6 +28,7 @@
 - [Open New Tab, and write down every piece of your thought!](https://github.com/wildskyf/tab-notes)
 - https://shubhapradha.github.io/30daybookmarks
 - https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon
+- [Browser extension to find SVGs on a webpage and download or copy to clipboard.](https://github.com/rossmoody/svg-gobbler)
 
 ### Bookmarklets
 
@@ -56,6 +57,7 @@ javascript: (() =>
 
 - [When testing your redirects with Chrome, always test a 302 before a 301](https://twitter.com/Nick_Craver/status/1190228229979877378)
 - https://github.com/jbranchaud/til#chrome
+- https://github.com/Eloston/ungoogled-chromium
 
 ### Paywalls
 
@@ -102,3 +104,4 @@ javascript: (() =>
 - https://github.com/vasanthk/how-web-works
 - [The End of Indie Web Browsers: You Can (Not) Compete.](https://news.ycombinator.com/item?id=21992050)
 - [Shareable bookmarks.](https://github.com/darekkay/static-marks)
+- https://textslashplain.com/2020/02/09/demystifying-browsers

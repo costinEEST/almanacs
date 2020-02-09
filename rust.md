@@ -5,6 +5,7 @@
 - [Rust Programming Tutorials by dcode](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
 - [Rust by Crazcalm's Tech Stack](https://www.youtube.com/playlist?list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X)
 - https://pascalprecht.github.io/posts/learning-rust
+- https://github.com/ctjhoa/rust-learning
 
 ### Talks
 

@@ -2,6 +2,7 @@
 
 - https://enciphers.com/awesome-android-application-security
 - https://medium.com/@sarang6489/different-types-of-root-detection-techniques-in-android-57828aed7597
+- https://www.michalspacek.com/android-based-2fa-security-key
 
 ### Applications
 

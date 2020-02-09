@@ -1,7 +1,8 @@
 ### Hardware
 
 - [USB data blocker](https://www.zdnet.com/article/this-cheap-gadget-can-stop-your-smartphone-or-tablet-being-hacked-at-an-airport-hotel-or-cafe/)
-- https://www.washingtonpost.com/technology/2019/12/17/what-does-your-car-know-about-you-we-hacked-chevy-find-out/
+- https://www.washingtonpost.com/technology/2019/12/17/what-does-your-car-know-about-you-we-hacked-chevy-find-out
+- https://github.com/StevenBlack/hosts
 
 ### Software
 

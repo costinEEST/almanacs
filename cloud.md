@@ -9,6 +9,7 @@
 - https://m.signalvnoise.com/aws-s3-youre-out-of-order
 - [DNS on AWS](https://twitter.com/brianleroux/status/1218252704348172288)
 - https://nathandavison.com/blog/exploiting-email-address-parsing-with-aws-ses
+- [Understanding Isolates: The Future of Programming](https://twitter.com/eastdakota/status/1224555855493746688)
 
 ### Google Cloud
 

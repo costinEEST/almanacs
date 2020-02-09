@@ -9,7 +9,7 @@
 - https://github.com/changwookjun/StudyBook
 - https://github.com/trekhleb/learn-python
 - https://automatetheboringstuff.com/2e
-- [Getting Started Neo4j with Python (For Complete Beginners)](https://github.com/ybaktir/neo4ds/blob/master/Getting%20Started%20Neo4j%20with%20Python%20(For%20Complete%20Beginners).ipynb)
+- [Getting Started Neo4j with Python (For Complete Beginners)](<https://github.com/ybaktir/neo4ds/blob/master/Getting%20Started%20Neo4j%20with%20Python%20(For%20Complete%20Beginners).ipynb>)
 
 ### Clean code
 
@@ -21,6 +21,7 @@
 - https://www.b-list.org/weblog/2018/nov/26/case
 - https://twitter.com/jgerity/status/1207009338579132417
 - https://nkanaev.github.io/posts/polyglot
+- https://github.com/judy2k/stupid-python-tricks
 
 ### Authentication
 
