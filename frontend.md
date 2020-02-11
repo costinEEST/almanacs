@@ -195,7 +195,7 @@
 - https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
 - https://github.com/shuhei/knowledge/blob/master/web-perf.md
 - https://github.com/luruke/awesome-casestudy
-- https://github.com/micmro/performance-bookmarklet
+- https://github.com/fabkrum/web-performance-resources
 - [Mobile Image Processing at London Web Perf Meetup, 2016](https://twitter.com/IacobanIulia/status/1218323157909737473)
 - [Stop manifest.json from opening a new TLS.](https://twitter.com/TimVereecke/status/1225547620791341062)
 

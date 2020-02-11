@@ -19,6 +19,7 @@
 - https://github.com/stefanbuck/awesome-browser-extensions-for-github
 - https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo
 - [An HTTP Web Server for Chrome (chrome.sockets API)](https://github.com/kzahel/web-server-chrome)
+- https://github.com/janodvarko/webext-websocket-monitor
 - [Chromebook app for forwarding connections from/to different ports and interfaces (or to internal android IP)](https://github.com/kzahel/connection-forwarder)
 - [A browser extension for custom keyboard shortcuts ](https://github.com/mikecrittenden/shortkeys)
 - https://github.com/pandawing/node-chrome-web-store-item-property
@@ -41,6 +42,7 @@ javascript: (() =>
 
 - [Speed Controls.](https://codepen.io/wilman/pen/ZWdEPX)
 - [Find out which element is scrolling.](https://gist.github.com/brumm/74fd7eaafd50c8477519)
+- https://github.com/micmro/performance-bookmarklet
 
 ### Engines
 
@@ -58,6 +60,7 @@ javascript: (() =>
 - [When testing your redirects with Chrome, always test a 302 before a 301](https://twitter.com/Nick_Craver/status/1190228229979877378)
 - https://github.com/jbranchaud/til#chrome
 - https://github.com/Eloston/ungoogled-chromium
+- [Create HAR files from Chrome Debugging Protocol data.](https://github.com/sitespeedio/chrome-har)
 
 ### Paywalls
 
