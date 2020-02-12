@@ -63,7 +63,7 @@
 - https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
 - https://github.com/daumann/ECMAScript-new-features-list
 - https://github.com/loverajoel/jstips
--
+- https://quiz.typeofnan.dev 
 
 ### Books
 

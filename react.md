@@ -39,6 +39,7 @@
 - https://beautifulinteractions.github.io/beautiful-react-hooks
 - https://github.com/mfrachet/use-socketio
 - [Avoid race condition](https://twitter.com/BenLesh/status/1220019348133294080)
+- https://medium.com/@david.dalbusco/create-a-react-custom-hooks-for-your-web-components-f4319bb4bc35
 
 ### Context API
 
@@ -124,6 +125,7 @@
 - https://github.com/codejamninja/react-ast
 - [A ReactJS-based Presentation Library.](https://github.com/FormidableLabs/spectacle)
 - https://github.com/wojtekmaj/react-datetimerange-picker
+- https://github.com/hodgef/react-simple-keyboard
 
 ### Debugging
 

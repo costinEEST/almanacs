@@ -81,6 +81,8 @@
 
 ### Ketosis
 
+- https://perfectketo.com/guide/ultimate-start-guide-ketogenic-diet
+- https://www.ruled.me/guide-keto-diet
 - https://www.amazon.com/Keto-Answers-Simplifying-Everything-Confusing-ebook/dp/B07WH43FLB
 - https://www.facebook.com/groups/755526297805685/permalink/1902882243070079
 - [A Guide to Ketosis.](http://josepharcita.blogspot.com/2011/03/guide-to-ketosis.html?m=1)
