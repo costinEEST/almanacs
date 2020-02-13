@@ -3,6 +3,10 @@
 - https://github.com/jashmenn/cryptocurrencies-in-four-words
 - https://github.com/blockstack/reading-list
 
+### Boilerplate
+
+- https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit
+
 ### Security
 
 - [A blockchain-based DNS + HTTP server that fixes HTTPS security, and more!](https://github.com/okTurtles/dnschain)

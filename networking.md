@@ -137,6 +137,7 @@
 - [A pool of WebSocket connections. Supports reconnecting.](https://github.com/derhuerst/websocket-pool)
 - https://github.com/ehmicky/Notes/blob/master/RPC/Realtime/WebSocket/Server/WebSocket.protocol.txt
 - [Comlink with WebSockets](https://twitter.com/DasSurma/status/1218207376899235840)
+- [WebSockets vs Server-Sent Events](https://www.ably.io/blog/websockets-vs-sse)
 
 ### P2P
 

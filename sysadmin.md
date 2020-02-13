@@ -42,3 +42,4 @@
 - https://medium.com/faun/pull-based-cd-pipelines-for-security-4e044b403f56
 - [GitHub action for generating sequential build numbers.](https://github.com/einaregilsson/build-number)
 - https://dev.to/azure/learn-how-you-can-add-ci-cd-to-your-app-2o5a
+- [Building a Continuous Integration & Deployment Pipeline Using Docker (CI/CD)](https://www.taniarascia.com/continuous-integration-pipeline-docker)

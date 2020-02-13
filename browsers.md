@@ -30,6 +30,7 @@
 - https://shubhapradha.github.io/30daybookmarks
 - https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon
 - [Browser extension to find SVGs on a webpage and download or copy to clipboard.](https://github.com/rossmoody/svg-gobbler)
+- https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh
 
 ### Bookmarklets
 

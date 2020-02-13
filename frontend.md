@@ -254,3 +254,4 @@
 - [A polyglot web converter.](https://github.com/ritz078/transform)
 - [Software Engineering for Startups (course)](https://github.com/CMU-17-356/cmu-17-356.github.io)
 - https://darekkay.com/blog/accessible-ui-frameworks
+- [Google just released 1,000 new images of the most gorgeous landscapes in Google Earth View](https://edition.cnn.com/2020/02/12/tech/google-earth-view-trnd/index.html)
