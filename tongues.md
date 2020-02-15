@@ -36,3 +36,7 @@
 ### Websites
 
 - http://www.alljapaneseallthetime.com/blog
+
+### Communities
+
+- https://www.meetup.com/Deuscht-Lasst-uns-Deutsch-sprechen
