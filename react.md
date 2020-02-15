@@ -73,6 +73,7 @@
 - https://github.com/chantastic/react-suspense-course
 - My little React Suspense cache strategy: [tweet](https://twitter.com/ryanflorence/status/1206988974327128064) + [gist](https://gist.github.com/ryanflorence/e10cc9dbc0e259759ec942ba82e5b57c)
 - https://github.com/sw-yx/concurrent-react-notes
+- https://twitter.com/ReactEurope/status/1227924163714830337 + https://twitter.com/sseraphini/status/1228310393900216320 + https://react-europe-relay-workshop.now.sh
 
 ### Lazy
 
@@ -101,6 +102,7 @@
 - https://github.com/johnapost/nextjs-firebase-fns-demo
 - https://masteringnextjs.com
 - https://github.com/mavropalias/Hero35
+- [react-suspense-router in SSR.](https://twitter.com/dai_shi/status/1226884015669399559)
 
 ### State management
 

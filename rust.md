@@ -6,6 +6,7 @@
 - [Rust by Crazcalm's Tech Stack](https://www.youtube.com/playlist?list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X)
 - https://pascalprecht.github.io/posts/learning-rust
 - https://github.com/ctjhoa/rust-learning
+- https://twitter.com/jgvarandas/status/1228712766636204032
 
 ### Talks
 

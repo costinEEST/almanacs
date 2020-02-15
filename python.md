@@ -41,6 +41,10 @@
 
 - https://github.com/musically-ut/first-timers-only-bot
 
+### Servers
+
+- [Fun with sockets: let's write a webserver!](https://twitter.com/b0rk/status/1211762580655607808)
+
 ### Security
 
 - [Got a shit shell?](https://twitter.com/Random_Robbie/status/1204041222542807043)

@@ -1,6 +1,7 @@
 ### Books
 
 - https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910 
+- https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253 + https://learning.oreilly.com/library/view/storytelling-with-data/9781119621492
 - https://learning.oreilly.com/library/view/pro-d3js-use/9781484252031
 - [Fundamentals of Data Visualization by Claus O. Wilke](https://serialmentor.com/dataviz)
 - http://www.thefunctionalart.com

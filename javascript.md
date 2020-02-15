@@ -78,6 +78,7 @@
 
 - [Session Notes from JSCraftCamp2019](https://github.com/jscraftcamp/jscc19-sessions)
 - [16-Bit Virtual Machine (series on YouTube)](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
+- https://github.com/jscraftcamp/notes2018 + https://github.com/jscraftcamp/jscc19-sessions
 
 ### AI
 

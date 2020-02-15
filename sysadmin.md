@@ -12,6 +12,8 @@
 - https://blog.alexellis.io/building-containers-without-docker 
 - https://pythonspeed.com/articles/alpine-docker-python
 - https://snikt.net/blog/2019/08/05/building-a-secure-torrent-download-station-by-combining-private-internet-access-pia-openvpn-and-transmission-through-docker 
+- https://github.com/ignatandrei/Presentations/tree/master/2020/DockerForDevs
+- [Ways to spy on a docker container](https://twitter.com/b0rk/status/1210974057774157824)
 
 ### Kubernetes
 

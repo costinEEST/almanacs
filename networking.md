@@ -88,6 +88,7 @@
 
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-certificate-authority
 - [Lessons learned running SSL/TLS at scale (FOSDEM 2016)](https://youtu.be/9Ya8H-9Hrp4)
+- https://idea.popcount.org/2012-06-16-dissecting-ssl-handshake 
 
 ### HTTP2
 
@@ -138,6 +139,7 @@
 - https://github.com/ehmicky/Notes/blob/master/RPC/Realtime/WebSocket/Server/WebSocket.protocol.txt
 - [Comlink with WebSockets](https://twitter.com/DasSurma/status/1218207376899235840)
 - [WebSockets vs Server-Sent Events](https://www.ably.io/blog/websockets-vs-sse)
+- [WebSocket emulation - Node.js server](https://github.com/sockjs/sockjs-node)
 
 ### P2P
 

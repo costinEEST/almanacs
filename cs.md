@@ -27,6 +27,7 @@
 - [Quantum Computing: An Applied Approach](https://news.ycombinator.com/item?id=21803593) + https://twitter.com/mark_l_watson/status/1205506997241565185
 - https://github.com/hellerve/ptolemy/blob/master/done.md#books
 - https://github.com/amilajack/reading/tree/master/Event_Driven_Programming
+- [What tech books have really helped you?](https://twitter.com/b0rk/status/1207314600884101120)
 
 ### TIL
 

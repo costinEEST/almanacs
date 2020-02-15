@@ -5,6 +5,10 @@
 - [htop explained](https://peteris.rocks/blog/htop/)
 - https://chrisdown.name/2019/07/18/linux-memory-management-at-scale.html
 
+### Containers
+
+- [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)
+
 ### Tools
 
 - [SimpleScreenRecorder, a screen recorder for Linux](https://github.com/MaartenBaert/ssr)

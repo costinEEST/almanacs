@@ -51,8 +51,8 @@
 - https://brumm.af/shadows
 - https://reading.supply/@jim/a-set-of-tactics-to-ensure-fast-css-object-model-creation-iCoP4G
 - https://reading.supply/@jim/performance-when-animating-styles-C8MySv
-- http://fremycompany.com/BG/2016/Animate-width-from-zero-to-auto-kinda-895/
--
+- http://fremycompany.com/BG/2016/Animate-width-from-zero-to-auto-kinda-895
+- https://fossheim.io/writing/posts/css-polaroid-camera
 
 ### SVG
 

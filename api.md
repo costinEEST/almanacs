@@ -6,6 +6,7 @@
 - [An unofficial client library for Google Music.](https://github.com/simon-weber/gmusicapi)
 - https://thisisnotlinkedin.com
 - [A twitter unfollower for stale accounts.](https://github.com/wesbos/twitter-unfollower)
+- https://github.com/mathdroid/twitter-dev-salaries-scraper
 
 ### GraphQL
 

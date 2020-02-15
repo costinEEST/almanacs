@@ -69,6 +69,19 @@
 - [8.03 - MIT Physics III: Vibrations and Waves](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89)
 - [ Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw/playlists)
 
+### Sugar
+
+- [Is there a way to be prescribed a continuous glucose monitor without an insulin deficiency/diabetes?](https://twitter.com/Austen/status/1211144183018246144)
+- [Why Did Mexico Surpass America in Obesity?](https://twitter.com/notyetagm/status/1220352727546580997)
+
+### Sleep
+
+- https://www.huffpost.com/entry/15-ways-to-fall-asleep-faster_n_55dde3e7e4b04ae497054470
+
+### Tea
+
+- [Empire of Tea: The Asian Leaf that Conquered the World](https://www.amazon.com/Empire-Tea-Asian-Conquered-World/dp/1780234406)
+
 ### Food
 
 - [Vitamins and minerals](https://docs.google.com/document/d/1PkVQ4A3MR8zR0YxGT1hCfGj5RavwIY6aTOkb7G-T4lU)
@@ -89,7 +102,6 @@
 - [Behind the World's First Ketone Ester ft. Kieran Clarke || HVMN Enhancement Podcast: Ep. 48](https://youtu.be/qR4tf-np6jU)
 - https://isitketo.org
 - [How Keto Eased My PCOS — Jordan Swain [Adapt Event]](https://www.facebook.com/AdaptYourLife/videos/481025419270677)
-- [Dr. Berg Video Document](https://www.drberg.com/uploads/opt-pages-docs/BLOG_LIST.pdf)
 
 ### Fasting
 
@@ -104,29 +116,17 @@
 
 - https://www.julian.com/guide/muscle/intro
 - https://github.com/evexoio/awesome-health
+- https://www.goodreads.com/book/show/33293328-overcoming-gravity
+- http://www.shapesense.com/fitness-exercise/calculators/running-calorie-burn-calculator.shtml
 
 ### Aging
 
 - [Answering the ultimate question "what is the proximal cause of aging?".](https://www.ncbi.nlm.nih.gov/m/pubmed/23425777/)
 - https://www.reddit.com/r/longevity/comments/e2q84z/textbooks_courses_and_resources_on_aging
 
-### Sugar
+### Diseases
 
-- [Is there a way to be prescribed a continuous glucose monitor without an insulin deficiency/diabetes?](https://twitter.com/Austen/status/1211144183018246144)
-- [Why Did Mexico Surpass America in Obesity?](https://twitter.com/notyetagm/status/1220352727546580997)
-
-### Sleep
-
-- https://www.huffpost.com/entry/15-ways-to-fall-asleep-faster_n_55dde3e7e4b04ae497054470
-
-### Tea
-
-- [Empire of Tea: The Asian Leaf that Conquered the World](https://www.amazon.com/Empire-Tea-Asian-Conquered-World/dp/1780234406)
-
-### Fitness
-
-- https://www.goodreads.com/book/show/33293328-overcoming-gravity
-- http://www.shapesense.com/fitness-exercise/calculators/running-calorie-burn-calculator.shtml
+- https://github.com/CSSEGISandData/COVID-19
 
 ### Applications
 
