@@ -32,6 +32,7 @@
 - [Browser extension to find SVGs on a webpage and download or copy to clipboard.](https://github.com/rossmoody/svg-gobbler)
 - https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh
 - [A browser extension to quickly fill shopping carts with electronic components](https://github.com/kitspace/1clickBOM)
+- https://github.com/joachimesque/humanstxt-webextension
 
 ### Bookmarklets
 
