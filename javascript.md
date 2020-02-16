@@ -130,6 +130,10 @@
 - https://github.com/rezaali/webgl-sketches
 - https://github.com/stackgl/webgl-workshop
 
+### function () {}
+
+- https://github.com/you-dont-need/You-Dont-Need-Loops
+
 ### Modules
 
 - [History of ES modules.](https://gist.github.com/jkrems/769a8cd8806f7f57903b641c74b5f08a)
@@ -170,11 +174,16 @@
 
 - [One page calendar 2020](https://davebakker.io/onepagecalendar)
 
+### fetch()
+
+- https://danlevy.net/you-may-not-need-axios 
+
 ### new Promise()
 
 - [What does this code print?](https://twitter.com/Swizec/status/1206624095816699906)
 - [Canceling long-running operations](https://haroen.me/presentations/en/canceling-async)
 - https://medium.com/edge-coders/why-are-promises-better-than-callbacks-c16f8ff1ae1e
+- [Dev w/ Dan: Live refactoring using Functional Promises](https://youtu.be/CnJdzMF6GTo)
 
 ### async await
 
