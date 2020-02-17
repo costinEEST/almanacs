@@ -10,10 +10,12 @@
 - https://github.com/acdlite/react-fiber-architecture
 - https://github.com/mfrachet/create-frontend-framework
 - https://github.com/fpereiro/reactnotes
+- https://github.com/dasmata/workshop-react-2019
 
 ### Boilerplate
 
 - https://github.com/nice-boys/product-boilerplate
+- https://github.com/dasmata/styleguide
 
 ### Books
 
@@ -45,6 +47,7 @@
 
 - https://tobea.dev/post/global-state-cleanliness-with-react-context
 - https://github.com/diegohaz/awesome-react-context
+- https://twitter.com/sophiebits/status/1228942768543686656
 
 ### Components
 
