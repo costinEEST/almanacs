@@ -21,6 +21,7 @@
 - https://www.edx.org/course/web-accessibility-introduction
 - https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108
 - https://www.24a11y.com/2019/an-adventurers-guide-to-w3c-specs/
+- https://github.com/brunopulis/awesome-a11y
 - https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
 - https://mismatch.design/resources/accessibility-resources/2018/07/14/introduction-to-disability-and-accessibility
 - [WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments. ](https://github.com/CoreyGinnivan/whocanuse)
