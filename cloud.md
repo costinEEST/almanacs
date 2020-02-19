@@ -27,3 +27,8 @@
 ### Azure
 
 - https://www.nexmo.com/blog/2020/01/29/how-send-receive-sms-messages-with-node-js-azure-functions-dr
+
+### Platform independent
+
+- [Set up a personal VPN in the cloud.](https://github.com/trailofbits/algo)
+- https://github.com/Atarity/deploy-your-own-saas

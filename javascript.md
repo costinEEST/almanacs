@@ -119,6 +119,7 @@
 - https://github.com/Rich-Harris/yootils/blob/master/src/canvas/sprite.ts
 - [HTML5 Canvas implementation for NodeJS backed by Puppeteer.](https://github.com/pshihn/puppet-canvas)
 - https://github.com/tsayen/dom-to-image
+- [The better way to render text on HTML5 Canvas](https://github.com/geongeorge/Canvas-Txt)
 
 ### WebGL
 
@@ -219,13 +220,14 @@
 
 ### new RegExp()
 
+- https://ihateregex.io/playground + https://ihateregex.io/cheatsheet
 - https://www.regular-expressions.info/cookbook.html + https://learning.oreilly.com/library/view/regular-expressions-cookbook/9781449327453
 - https://github.com/LeaVerou/regexplained + https://youtu.be/M7vDtxaD7ZU
 - http://lea.verou.me/tag/regular-expressions
 - https://blog.codinghorror.com/excluding-matches-with-regular-expressions
 - https://regexone.com/references/javascript
-- https://ihateregex.io/cheatsheet
 - https://eloquentjavascript.net/09_regexp.html
+- [JavaScript Regular expressions made easy.](https://github.com/VerbalExpressions/JSVerbalExpressions)
 
 ### SPA
 
