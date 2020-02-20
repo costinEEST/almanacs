@@ -74,10 +74,6 @@
 - [Is there a way to be prescribed a continuous glucose monitor without an insulin deficiency/diabetes?](https://twitter.com/Austen/status/1211144183018246144)
 - [Why Did Mexico Surpass America in Obesity?](https://twitter.com/notyetagm/status/1220352727546580997)
 
-### Sleep
-
-- https://www.huffpost.com/entry/15-ways-to-fall-asleep-faster_n_55dde3e7e4b04ae497054470
-
 ### Tea
 
 - [Empire of Tea: The Asian Leaf that Conquered the World](https://www.amazon.com/Empire-Tea-Asian-Conquered-World/dp/1780234406)
@@ -137,4 +133,4 @@
 - [Classify sleep from heart rate and acceleration via Apple Watch](https://github.com/ojwalch/sleep_classifiers)
 - [Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking.](https://github.com/woop/awesome-quantified-self)
 - [Meal Planner for calories and macros](https://github.com/vasco3/cheff)
-- https://github.com/yetanotherchris/awesome-mindhacking#journaling 
+- https://github.com/yetanotherchris/awesome-mindhacking#journaling
