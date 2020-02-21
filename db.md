@@ -19,11 +19,15 @@
 - [Exploiting misconfigured firebase databases](https://github.com/Turr0n/firebase) + http://ghostlulz.com/google-exposed-firebase-database
 - https://medium.com/@knownsec404team/mysql-client-arbitrary-file-reading-attack-chain-extension-727bb63f578c
 
-### Videos
+### TV
 
 - [Algorithms behind Modern Storage Systems.](https://www.infoq.com/presentations/storage-algorithms)
 - [ CMU Database Group](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)
 - [SQL Tutorial for Beginners by Ben Awad](https://twitter.com/benawad/status/1217109321902850048)
+
+### Radio
+
+- [Why SQLite succeeded as a database.](https://changelog.com/podcast/201)
 
 ### Books
 
@@ -45,3 +49,7 @@
 
 - [Anyone tried Gun.js? Thoughts?](https://twitter.com/dabit3/status/1221949512878624768)
 - [EdgeDB is looking clean.](https://twitter.com/rauchg/status/1221985754059964416)
+
+### Miscellaneous
+
+- [What are some examples of good database schema designs?](https://news.ycombinator.com/item?id=22324691)

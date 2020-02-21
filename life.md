@@ -22,6 +22,7 @@
 - [Curated List of Biomarkers, Blood Tests, and Blood Tracking.](https://github.com/markwk/awesome-biomarkers)
 - https://github.com/kakoni/awesome-healthcare#bioinformatics
 - https://github.com/nikitavoloboev/knowledge/blob/master/biology/biology.md
+- [Biology - PhET Simulations](https://phet.colorado.edu/en/simulations/category/biology)
 
 ### Anatomy
 
@@ -50,6 +51,8 @@
 - https://youtu.be/favrMbfi1Pw + https://www.amazon.com/Demon-Machine-Paul-Davies/dp/024130959X
 - [Heroin documentaries](https://matt.sh/heroin)
 - https://github.com/nikitavoloboev/knowledge/blob/master/chemistry/chemistry.md
+- [Chemistry - PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry)
+
 
 ### Physics
 

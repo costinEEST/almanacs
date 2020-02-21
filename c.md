@@ -27,3 +27,4 @@
 - https://github.com/rby90/Project-Based-Tutorials-in-C
 - https://github.com/tuvtran/project-based-learning#cc
 - https://thesquareplanet.com/blog/smashing-the-stack-21st-century
+- [C in four functions.](https://github.com/rswier/c4)

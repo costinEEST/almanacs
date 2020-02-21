@@ -15,6 +15,7 @@
 - https://twitter.com/clagnut/status/1222148873218658304
 - https://github.com/dannyfritz/commit-message-emoji
 - https://github.com/jcsrb/til/blob/master/unicode/remove-byte-order-mark.md
+- [A database of Apple-supported emojis in JSON format.](https://github.com/meyer/emoji-db)
 
 ### Accessibility
 
@@ -226,6 +227,7 @@
 - https://canals-amsterdam.nl
 - https://github.com/tastejs/awesome-app-ideas
 - https://github.com/samsquire/ideas
+- [An interactive demo walk-through we built to give visitors a feel for what the Trevor.io platform does.](https://github.com/tagspace/trevor-demo)
 
 ### Figma
 
