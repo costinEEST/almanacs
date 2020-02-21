@@ -79,6 +79,7 @@
 - [HTTPLeaks - All possible ways, a website can leak HTTP requests](https://github.com/cure53/HTTPLeaks)
 - [Mini HTTP guide for developers](https://news.ycombinator.com/item?id=21955953)
 - https://tldrsec.com/blog/appsec-cali-2019/#inducing-amnesia-in-browsers-the-clear-site-data-header
+- [An activity diagram to describe the resolution of HTTP response status codes, given various headers.](https://github.com/for-GET/http-decision-diagram)
 
 ### HTTPS
 

@@ -212,6 +212,7 @@
 - https://github.com/bchiang7/v4
 - [samanthaming.com](https://twitter.com/samantha_ming/status/1221826254137065483)
 - https://mherman.org/herman-resume.json
+- https://github.com/rampatra/wedding-website
 
 ### Newsletters
 

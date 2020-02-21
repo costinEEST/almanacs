@@ -65,6 +65,7 @@
 - https://github.com/daumann/ECMAScript-new-features-list
 - https://github.com/loverajoel/jstips
 - https://quiz.typeofnan.dev 
+- [Learn built-in JavaScript methods by rolling your own!](https://github.com/nas5w/roll-your-own)
 
 ### Books
 
@@ -150,11 +151,12 @@
 
 - https://ericlippert.com/2013/05/20/what-is-lexical-scoping
 
-### Math.random()
+### Math
 
 - https://github.com/Rich-Harris/yootils/blob/master/src/number/random.ts
 - https://github.com/Rich-Harris/yootils/blob/master/src/array/pickRandom.ts
 - https://github.com/Rich-Harris/yootils/blob/master/src/array/shuffle.ts
+- https://macwright.org/2020/02/14/math-keeps-changing.html
 
 - [Evaluating JavaScript code via import()](https://2ality.com/2019/10/eval-via-import.html)
 
@@ -213,6 +215,7 @@
 ### xor
 
 - https://twitter.com/rauschma/status/1218579324976140288
+- https://dmitripavlutin.com/swap-variables-javascript/#4-bitwise-xor-operator
 
 ### new MutationObserver()
 
@@ -280,10 +283,6 @@
 - https://github.com/danburzo/toolbox#geographical-data
 - https://github.com/danburzo/toolbox#mapping-1
 - https://cheeaun.com/blog/2019/02/building-busrouter-sg/
-
-### Games
-
-- [A isometric city builder in JavaScript.](https://github.com/victorqribeiro/isocity)
 
 ### Documentation
 
