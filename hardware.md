@@ -21,3 +21,4 @@
 - https://github.com/jaredthecoder/awesome-vehicle-security
 - https://swatinem.de/blog/oil-immersion-cooling
 - [Wearable Technology Documentation.](https://www.kobakant.at/DIY)
+- [Demonstration of various hardware effects.](https://github.com/Kobzol/hardware-effects)

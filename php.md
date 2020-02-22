@@ -22,3 +22,7 @@
 ### Vulnerable functions
 
 - https://github.com/mm0r1/exploits
+
+### Miscellaneous
+
+- [Wikipedia replaced its markup parser in JavaScript with PHP and made faster.](https://phabricator.wikimedia.org/phame/post/view/189/parsoid_in_php_or_there_and_back_again)
