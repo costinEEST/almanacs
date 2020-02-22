@@ -151,6 +151,7 @@
 - https://speakerdeck.com/ange/an-introduction-to-inkscape
 - https://css-tricks.com/animating-layouts-with-the-flip-technique
 - [10 things I hate about animation.](https://birtles.github.io/mozdev2019)
+- https://rosenfeldmedia.com/books/designing-interface-animation/details/table-of-contents (coupon "UIANIMATE")
 
 ### Illustrations
 
