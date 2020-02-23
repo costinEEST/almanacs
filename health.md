@@ -16,6 +16,14 @@
 - https://joshmitteldorf.scienceblog.com/2018/08/01/the-most-effective-personal-anti-aging-program
 - [Can aging be programmed? A critical literature review](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12510)
 
+### Injuries
+
+- https://www.costinglavan.ro/vindeca-hernia 
+
+### Sports
+
+- [Cine a (mai) fost la sporturi de contact?](https://www.facebook.com/apostu.alin.claudiu/posts/1935540589911432)
+
 ### Tools
 
 - [A BitBar plugin that reminds you with sleep hygiene recommendations](https://github.com/edwardqiu/digital-zeitgebers)
