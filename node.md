@@ -111,6 +111,7 @@
 - [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
 - https://github.com/dexteryy/spellbook-of-modern-webdev#microservices--api-services-nodejs
 - https://legacy.gitbook.com/book/geemus/http-api-design/details
+- https://obem.be/2020/02/18/mining-my-mailbox-for-top-email-service-providers.html
 
 ### Scrapping
 

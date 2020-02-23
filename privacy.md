@@ -28,3 +28,4 @@
 - [short list of privacy conferences and privacy advocates](https://twitter.com/aral/status/1219929929145573377)
 - https://nelsonslog.wordpress.com/2020/01/07/facial-recognition-for-the-public-yandex
 - https://github.com/good-lly/gdpr-documents
+- [Why Amazon knows so much about you?](https://www.bbc.co.uk/news/extra/CLQYZENMBI/amazon-data)

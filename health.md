@@ -15,6 +15,9 @@
 - https://player.fm/series/the-ironman-executive/cracking-the-aging-code-with-josh-mitteldorf
 - https://joshmitteldorf.scienceblog.com/2018/08/01/the-most-effective-personal-anti-aging-program
 - [Can aging be programmed? A critical literature review](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12510)
+- [Undoing Aging by Science, Technology & the Future ](https://www.youtube.com/playlist?list=PL-7qI6NZpO3u8IWIDhIhHH5eczjs_2S2Z)
+- [Anti-Aging by Science, Technology & the Future](https://www.youtube.com/playlist?list=PL-7qI6NZpO3uDn2dTsRwWLb0jEuWU8bcI)
+- [SRF Education Video Lecture Course](https://www.youtube.com/playlist?list=PLvB8mhLViWhBoKvY_9eVtenBbOzelLANs)
 
 ### Injuries
 
@@ -27,3 +30,5 @@
 ### Tools
 
 - [A BitBar plugin that reminds you with sleep hygiene recommendations](https://github.com/edwardqiu/digital-zeitgebers)
+- [Conceptualizing Self-Tracking Tools and Data-Driven Technologies](https://datadrivenyou.com/quantified-self-mind-map)
+- https://github.com/woop/awesome-quantified-self#sleep

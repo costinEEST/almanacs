@@ -7,7 +7,9 @@
 
 ### Git
 
+- https://gitexplorer.com 
 - [2 useful Git CLI tips for code review](https://twitter.com/danburzo/status/1200022067044859905)
+- https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk 
 - [checkout](https://twitter.com/mislav/status/1206937217194741760)
 - [git-annex allows managing files with git, without checking the file contents into git.](https://git-annex.branchable.com)
 - [I still use a GUI (SourceTree) for most operations.](https://twitter.com/jaffathecake/status/1204343865785962496)
@@ -130,6 +132,7 @@
 - https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016 + https://youtu.be/NNuG5xb4K_8
 - https://github.com/James-Yu/LaTeX-Workshop
 - [If you could read only one writer — and one writer only — for the rest of your life, who would it be?](https://twitter.com/david_perell/status/1228165158876282882)
+- [Learning Technical Writing Using the Engineering Method by Norman Ramsey](https://www.cs.tufts.edu/~nr/pubs/learn.pdf)
 
 ### Drawing
 

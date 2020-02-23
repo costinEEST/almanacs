@@ -274,6 +274,7 @@
 - https://github.com/johnpolacek/mdx-deck-demo-greensock
 - [Transforms PDF, Documents and Images into Enriched Structured Data.](https://github.com/axa-group/Parsr)
 - [App that can do graphical editing of JSON files around 400MB?](https://twitter.com/deirdresm/status/1220144794669699183)
+- [A very compact representation of a placeholder for an image.](https://github.com/woltapp/blurhash/tree/master/TypeScript)
 
 ### Maps
 

@@ -134,6 +134,5 @@
 - https://apps.apple.com/us/app/spar-get-better-at-stuff/id1109640290
 - [Youper - Emotional Health Assistant Powered by AI](https://www.youper.ai)
 - [Classify sleep from heart rate and acceleration via Apple Watch](https://github.com/ojwalch/sleep_classifiers)
-- [Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking.](https://github.com/woop/awesome-quantified-self)
 - [Meal Planner for calories and macros](https://github.com/vasco3/cheff)
 - https://github.com/yetanotherchris/awesome-mindhacking#journaling
