@@ -54,6 +54,7 @@
 - https://thesquareplanet.com/blog/how-the-internet-works
 - https://github.com/Developer-Y/technical-interviews
 - https://github.com/kdn251/interviews
+- [Nodebook - Multi-Lang Web REPL + CLI Code runner](https://github.com/netgusto/nodebook)
 
 ### Practice
 

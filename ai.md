@@ -31,6 +31,7 @@
 - [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF)
 - https://twitter.com/Miles_Brundage/status/1177999361118277635 + https://twitter.com/jennyhbren/status/1164099257378492416
 - [Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way ](https://github.com/amitkaps/hackermath)
+- [An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013)](https://github.com/JWarmenhoven/ISLR-python)
 
 ### Videos
 

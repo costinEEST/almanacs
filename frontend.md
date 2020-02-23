@@ -190,6 +190,7 @@
 - https://github.com/hellerve/programming-talks#uxui
 - [How to Fix Mobile Dating Apps](https://matt.sh/fix-dating-apps)
 - [An open and organized directory of the best pieces about Product Management.](https://theproductindex.com)
+- https://alexanderell.is/posts/taking-over-my-clipboard
 
 ### Performance
 
@@ -215,10 +216,7 @@
 - [samanthaming.com](https://twitter.com/samantha_ming/status/1221826254137065483)
 - https://mherman.org/herman-resume.json
 - https://github.com/rampatra/wedding-website
-
-### Newsletters
-
-- https://www.getrevue.co/profile/designsprint
+- https://github.com/rdev/fivepointseven
 
 ### Inspire
 
