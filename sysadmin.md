@@ -14,6 +14,7 @@
 - https://snikt.net/blog/2019/08/05/building-a-secure-torrent-download-station-by-combining-private-internet-access-pia-openvpn-and-transmission-through-docker 
 - https://github.com/ignatandrei/Presentations/tree/master/2020/DockerForDevs
 - [Ways to spy on a docker container](https://twitter.com/b0rk/status/1210974057774157824)
+- [What security concerns should I have with Docker?](https://github.com/BretFisher/ama/issues/17)
 
 ### Kubernetes
 
