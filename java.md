@@ -23,6 +23,7 @@
 ### Security
 
 - [A quick methodology on testing / hacking SAP Applications for n00bz and bug bounty hunters.](https://github.com/shipcod3/mySapAdventures)
+- https://github.com/razvand/secure-programming-java
 
 ### Miscellaneous
 
