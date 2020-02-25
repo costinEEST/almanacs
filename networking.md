@@ -166,3 +166,4 @@
 - https://github.com/alphaSeclab/awesome-network-stuff/blob/master/Readme_en.md
 - https://github.com/kdeldycke/awesome-falsehood#networks
 - https://notes.eddyerburgh.me/computer-networking
+- [A short (and mostly wrong) history of computer networking](https://fasterthanli.me/blog/2019/making-our-own-ping)

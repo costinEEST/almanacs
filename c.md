@@ -4,9 +4,17 @@
 - [Think OS: A Brief Introduction to Operating Systems](https://greenteapress.com/wp/think-os)
 - [The C Programming Language by Brian Kernighan and Dennis Ritchie](https://twitter.com/oznova_/status/1214971707863101440)
 
+### Articles
+
+- [Reading files the hard way - Part 1 (node.js, C, rust, strace)](https://fasterthanli.me/blog/2019/reading-files-the-hard-way/)
+
 ### Talks
 
 - https://github.com/hellerve/programming-talks#c
+
+### Radio
+
+- [Program in C (Parody song)](https://fasterthanli.me/blog/2019/program-in-c)
 
 ### Compilers
 
