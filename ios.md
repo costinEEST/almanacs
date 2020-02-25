@@ -18,6 +18,10 @@
 
 - [How I built two iPhone 6S's from parts for $80 each](https://twitter.com/hackerfantastic/status/1211088686802096128)
 
+### Tools
+
+- [Virtual machines for iOS](https://github.com/utmapp/UTM)
+
 ### Reverse engineering
 
 -  Tales of old: untethering iOS 11: https://twitter.com/hackerfantastic/status/1210985589685678080 + https://twitter.com/xerub/status/1210917374083375104

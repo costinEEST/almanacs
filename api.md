@@ -15,6 +15,7 @@
 - https://tldrsec.com/blog/appsec-cali-2019/#an-attackers-view-of-serverless-and-graphql-apps
 - [GraphQL: The future of API's is here](https://youtu.be/mj850EuHQHs) + http://files.lifely.nl/graphql-the-future-of-apis-is-here.pdf
 - https://twitter.com/sarah_edo/status/1220381789165719553
+- https://twitter.com/HivarekarPranav/status/1231979599401078784
 
 ### Health
 
