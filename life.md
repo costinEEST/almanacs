@@ -123,9 +123,10 @@
 - [Answering the ultimate question "what is the proximal cause of aging?".](https://www.ncbi.nlm.nih.gov/m/pubmed/23425777/)
 - https://www.reddit.com/r/longevity/comments/e2q84z/textbooks_courses_and_resources_on_aging
 
-### Diseases
+### Viruses
 
 - https://github.com/CSSEGISandData/COVID-19
+- [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
 
 ### Applications
 
