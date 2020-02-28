@@ -77,6 +77,7 @@
 - https://github.com/justjavac/awesome-node-utils
 - https://github.com/bcoe/awesome-cross-platform-nodejs
 - Zero-dependency HTTP responders: [tweet](https://twitter.com/juliangruber/status/1222120717367611392) + [repo](https://github.com/juliangruber/http-responders)
+- [Prefer cwd instead of __dirname when configuring your Webpack.](https://twitter.com/sseraphini/status/1232667049949880320)
 
 ### Testing
 

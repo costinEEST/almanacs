@@ -70,6 +70,7 @@
 - [What are some React anti-patterns that you encounter often? Why are they dangerous?](https://twitter.com/TejasKumar_/status/1214259916376027137)
 - [Component Base Role](https://gist.github.com/sibelius/593953c5f0ca8269668ded4c64f854be)
 - [render prop](https://twitter.com/aweary/status/1217487206320730114)
+- [Advanced memoization and effects in React.](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
 
 ### Concurrent Mode/Suspense
 
@@ -86,6 +87,7 @@
 
 - [How do I pass props to a route component?](https://twitter.com/ryanflorence/status/1206643654753783808)
 - https://github.com/hinok/react-router-last-location
+- https://medium.com/better-programming/react-router-v6-in-two-minutes-a7a2963e2340
 
 ### CSS/Animations
 

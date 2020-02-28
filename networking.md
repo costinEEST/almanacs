@@ -40,6 +40,7 @@
 
 - [Routing by internet-class](https://www.youtube.com/playlist?list=PLk97mPCd8nvZJs7DyfPgiUDovil2K7axM)
 - https://github.com/bsclifton/home-router-config
+- https://medium.com/@cityhnet/cable-modem-jailbreaks-e98cce92698c
 
 ### Telecommunications
 

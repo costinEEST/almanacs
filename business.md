@@ -33,6 +33,7 @@
 - [I think the movie Metallica: Some Kind of Monster should be _required viewing_ for cross-functional product teams.](https://twitter.com/mattlemay/status/1215735335348404224)
 - https://medium.com/@WebReflection/what-does-agile-mean-743d6742dae7
 - https://github.com/LappleApple/awesome-leading-and-managing
+- https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a
 
 ### Strategy
 
@@ -55,6 +56,7 @@
 - https://matt.sh/startup-books-a-rage-review
 - https://www.seancassidy.me/meditations-redux.html
 - https://github.com/Atarity/How-To-Start-A-Startup
+- [When you make scooters but see four fintech companies get acquired in one week.](https://twitter.com/zck/status/1232374124380487681)
 
 ### Investing
 

@@ -14,11 +14,12 @@
 - http://www.auxy.xyz/note/2019/05/01/PA-Note.html + https://github.com/Auxy233/program-analysis-note
 - [Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30) + [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/en/book/show/530415) + https://jamesclear.com/great-speeches/learning-to-learn-by-richard-hamming
 
-### Talks
+### TV
 
 - [GOTO 2016 • Pure Functional Programming in Excel • Felienne Hermans](https://youtu.be/0yKf8TrLUOw)
 - [Best Talks of 2019?](https://news.ycombinator.com/item?id=21858866)
 - https://www.youtube.com/user/mycodeschool/playlists
+- [The Computers: The Remarkable Story of the ENIAC Programmers.](https://vimeo.com/ondemand/eniac6)
 
 ### Books
 

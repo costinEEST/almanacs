@@ -37,13 +37,18 @@
 - https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
 - [beginners](https://twitter.com/samerbuna/status/1183771023054987264)
 
-### Games
+### Relational databases
 
-- [SQL Murder Mystery](https://mystery.knightlab.com)
+- [Postgres is the perfect database.](https://twitter.com/Swizec/status/1232376212195966976)
+
 
 ### Real-time databases
 
 - [SapphireDb. An alternative to Firebase](https://sapphire-db.com/start/main)
+
+### Key-value databases
+
+- [Need a lightweight DB for a toy node project I'm working on. I always reach for DiskDB, but want to try something new.](https://twitter.com/wesbos/status/1232680811964649472)
 
 ### Demos
 
