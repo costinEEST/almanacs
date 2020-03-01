@@ -4,6 +4,7 @@
 - [Make locally trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert)
 - [Shows the result of crt.sh](https://github.com/famasoon/crtsh)
 - https://www.freecodecamp.org/news/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec
+- [Get HTTPS for free!](https://github.com/diafygi/gethttpsforfree)
 
 ### References
 
