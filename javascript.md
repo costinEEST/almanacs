@@ -233,6 +233,10 @@
 - https://eloquentjavascript.net/09_regexp.html
 - [JavaScript Regular expressions made easy.](https://github.com/VerbalExpressions/JSVerbalExpressions)
 
+### new Worker()
+
+- [Why don't we just move all JS to a web worker?](https://twitter.com/dan_abramov/status/1234297789938589696) + https://docs.google.com/document/d/1nu0EcVNC3jtmUVWL8Gs5eCj2p_984kamNhG2nS9gOC0/edit#heading=h.e6n21l1n04rc
+
 ### optional chaining
 
 - https://twitter.com/AdamRackis/status/1232693680873467904

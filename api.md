@@ -17,6 +17,10 @@
 - https://twitter.com/sarah_edo/status/1220381789165719553
 - https://twitter.com/HivarekarPranav/status/1231979599401078784
 
+### gRPC
+
+- [GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley](https://youtu.be/l_P6m3JTyp0)
+
 ### Health
 
 - https://github.com/Cazaimi/circadian-api

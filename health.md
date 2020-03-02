@@ -91,3 +91,4 @@
 - [Classify sleep from heart rate and acceleration via Apple Watch](https://github.com/ojwalch/sleep_classifiers)
 - [Meal Planner for calories and macros](https://github.com/vasco3/cheff)
 - https://github.com/yetanotherchris/awesome-mindhacking#journaling
+- [SkinVision - Detect Skin Cancer. Track your Moles.](https://play.google.com/store/apps/details?id=com.rubytribe.skinvision.ac)

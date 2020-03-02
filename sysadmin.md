@@ -48,3 +48,4 @@
 - [GitHub action for generating sequential build numbers.](https://github.com/einaregilsson/build-number)
 - https://dev.to/azure/learn-how-you-can-add-ci-cd-to-your-app-2o5a
 - [Building a Continuous Integration & Deployment Pipeline Using Docker (CI/CD)](https://www.taniarascia.com/continuous-integration-pipeline-docker)
+- [How to Setup and Deploy by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQrhICMaBrN0aNOrECA_RTUs-)

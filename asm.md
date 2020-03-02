@@ -5,3 +5,7 @@
 ### References
 
 - https://notes.shichao.io/asm
+
+### Books
+
+- [Programming With Ones and Zeros](https://www.hanshq.net/ones-and-zeros.html)
