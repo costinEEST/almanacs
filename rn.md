@@ -44,3 +44,4 @@
 - https://medium.com/sanctuary-computer-inc/building-lightos-with-react-native-4b6e4ad1cd7f
 - https://github.com/victorkvarghese/react-native-messenger
 - https://github.com/wcandillon/can-it-be-done-in-react-native
+- [Full stack & cross platform app customizable & themeable for any event or conference.](https://github.com/dabit3/conference-app-in-a-box)

@@ -42,6 +42,7 @@
 - https://github.com/mfrachet/use-socketio
 - [Avoid race condition](https://twitter.com/BenLesh/status/1220019348133294080)
 - https://medium.com/@david.dalbusco/create-a-react-custom-hooks-for-your-web-components-f4319bb4bc35
+- [Building an Accordion with React Hooks.](https://smellycode.com/accordion-in-reactjs)
 
 ### Context API
 
@@ -133,6 +134,7 @@
 - [A ReactJS-based Presentation Library.](https://github.com/FormidableLabs/spectacle)
 - https://github.com/wojtekmaj/react-datetimerange-picker
 - https://github.com/hodgef/react-simple-keyboard
+- https://react-hook-form.com
 
 ### Debugging
 
