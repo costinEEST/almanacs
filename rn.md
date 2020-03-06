@@ -38,6 +38,10 @@
 
 - [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://www.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)
 
+### Performance
+
+- https://medium.com/better-programming/4-lesser-known-performance-tips-to-improve-user-experience-in-react-native-apps-6f2dc8c45623
+
 
 ### Applications
 

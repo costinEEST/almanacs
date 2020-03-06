@@ -24,6 +24,7 @@
 ### VS Code
 
 - https://github.com/viatsko/awesome-vscode
+- https://github.com/microsoft/vscode-tips-and-tricks
 - [VS Code Recipes](https://github.com/Microsoft/vscode-recipes)
 - [Multi cursor](https://twitter.com/erikaybar_/status/1197293860239630337)
 - https://github.com/burkeholland/workshop-vs-code-can-do-that
@@ -32,6 +33,7 @@
 - vscode-graphiql-explorer, an extension for VSCode that integrates GraphiQL + OneGraph's Explorer to build+edit GraphQL operations: [tweet](https://twitter.com/___zth___/status/1206626640589205505) + [marketplace](https://marketplace.visualstudio.com/items?itemName=GabrielNordeborn.vscode-graphiql-explorer)
 - [Azure Blockchain Development Kit for Ethereum.](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
 - [Restart TS server](https://twitter.com/BenLesh/status/1234877859589709826)
+- https://kortina.nyc/essays/suping-up-vs-code-as-a-markdown-notebook
 
 ### Vim
 

@@ -26,6 +26,7 @@
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
 - https://github.com/bnorbert/Courses/blob/master/History%20Of%20Computer%20Science%20Project/A_brief_history_of_Machine_Learning.pdf
+- https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course
 
 ### Books
 
