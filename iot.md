@@ -6,6 +6,10 @@
 - [ESP32-Cam Quickstart with Arduino Code](https://youtu.be/Sb08leLWOgA)
 - https://arunoda.me/blog/building-a-connected-ammeter-with-arduino
 
+### ESP32
+
+- [Cloud Home Automation Series](https://twitter.com/binitamshah/status/1229349993829498882)
+
 ### ESP8266
 
 - [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
@@ -22,6 +26,7 @@
 - https://github.com/e1ioan/RaspberryPi-AxisYoutubeStreaming
 - https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server 
 - https://snikt.net/blog/2019/06/22/building-an-lte-access-point-with-a-raspberry-pi 
+- http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-04-is-that-a-wifi-sniffer-in-your-pocket-jacob-baines
 
 ### Smartwatch
 

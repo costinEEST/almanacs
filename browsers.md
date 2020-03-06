@@ -92,10 +92,11 @@ javascript: (() =>
 - https://blog.reconless.com/samesite-by-default
 - [Stealing Session Cookies with Tcpdump](https://nullprogram.com/blog/2016/06/23)
 
-### CSP
+### Content Security Policy
 
 - [Next level anti-debugging technique using SourceMappingURL feature](https://twitter.com/WeizmanGal/status/1207355263491149825)
 - https://github.com/nico3333fr/CSP-useful
+- https://csper.io/blog/other-csp-security
 
 ### Exploits
 

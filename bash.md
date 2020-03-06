@@ -13,3 +13,4 @@
 - [How big is your node_modules? (du -sh node_modules)](https://twitter.com/cpojer/status/1231602883759616000)
 - http://aleph.nu/blog/2011/refresh-browser-when-html-or-css-changes
 - [Get the size of a file using curl](https://twitter.com/WebReflection/status/1231278323487080449)
+- https://badshah.io/experiment/faster-nmap-scanning-with-the-help-of-gnu-parallel

@@ -93,6 +93,7 @@
 - [The Idea Factory: Bell Labs and the Great Age of American.](https://www.goodreads.com/review/show/3043739089)
 - [Energy: A Human History](https://www.goodreads.com/review/show/3008690448)
 - https://www.bbc.com/future/article/20200219-xia-peisu-the-computer-pioneer-who-built-modern-china
+- [What are some great ethnographies of technology users/communities?](https://twitter.com/devonzuegel/status/1228843148358500353)
 
 ### Essays
 

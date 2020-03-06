@@ -23,6 +23,7 @@
 ### Vulnerable functions
 
 - https://github.com/mm0r1/exploits
+- [From memory corruption to disable_functions bypass](https://twitter.com/binitamshah/status/1226793423014772737)
 
 ### Miscellaneous
 
