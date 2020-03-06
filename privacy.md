@@ -4,6 +4,7 @@
 - https://www.washingtonpost.com/technology/2019/12/17/what-does-your-car-know-about-you-we-hacked-chevy-find-out
 - https://github.com/StevenBlack/hosts
 - [Important Privacy Notice from Sony Mobile to Xperia users.](https://notice.indevice.sonymobile.com/en_gb)
+- https://github.com/alulsh/personal-security-checklist
 
 ### Software
 
