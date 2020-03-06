@@ -1,5 +1,9 @@
 ### Content
 
+* [Abilities](/ability.md)
+* [Artificial intelligence](/ai.md)
+* [Android](/android.md)
+* [Application Programmable Interface](api.md)
 1. [Computer Science](/cs.md)
 2. [Frontend](/frontend.md)
 3. [Javascript](/javascript.md)
