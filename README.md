@@ -1,6 +1,6 @@
 #### Why?
 
-##### I am using it as a way to create an online mind map with the things that I want to learn or experiment with. 
+##### I am using this list as a way to create an online mind map with the things that I want to learn or experiment with. 
 ##### It is also a dump of the browser bookmarks/Google documents/email.
 ##### Some links could be deleted if I don't find them relevant at some point in time.
 ##### Most of the links are listed here only for the potential of being useful someday.
