@@ -89,6 +89,7 @@ javascript: (() =>
 
 - [SameSite=Lax](https://twitter.com/RenwaX23/status/1206475064125853696)
 - https://www.troyhunt.com/promiscuous-cookies-and-their-impending-death-via-the-samesite-policy
+- https://blog.reconless.com/samesite-by-default
 - [Stealing Session Cookies with Tcpdump](https://nullprogram.com/blog/2016/06/23)
 
 ### CSP
