@@ -26,3 +26,7 @@
 - [Return the dimensions of the Window.](https://twitter.com/jlongster/status/1220364760316895233)
 - [How are you distributing your android app bundle? app.aab?](https://twitter.com/sseraphini/status/1220304089462067200)
 - [Building an Android App from the Command Line](https://www.hanshq.net/command-line-android.html)
+
+### TV
+
+- [Deep dive into MotionLayout by Bogdan Zurac](https://docs.google.com/presentation/d/1957szdWm2Uj1YSF8ffWS0_5UOjRN6cysLMWuVdeRT4s)

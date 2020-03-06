@@ -25,6 +25,7 @@
 - https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html
 - https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes
 - https://www.udemy.com/course/kubernetesmastery/?referralCode=7E09090AF9B79E6C283F
+- Command and KubeCTL. Real-World Kubernetes Security for Pentesters - [repo](https://github.com/antitree/cmd_and_kubectl_demos) + [slides](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg)
 
 ### Servers
 

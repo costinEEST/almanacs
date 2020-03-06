@@ -30,3 +30,5 @@
 - https://nelsonslog.wordpress.com/2020/01/07/facial-recognition-for-the-public-yandex
 - https://github.com/good-lly/gdpr-documents
 - [Why Amazon knows so much about you?](https://www.bbc.co.uk/news/extra/CLQYZENMBI/amazon-data)
+- https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954
+- https://johnopdenakker.com/how-to-control-your-online-exposure

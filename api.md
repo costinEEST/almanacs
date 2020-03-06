@@ -8,6 +8,7 @@
 - [A twitter unfollower for stale accounts.](https://github.com/wesbos/twitter-unfollower)
 - https://github.com/mathdroid/twitter-dev-salaries-scraper
 - https://github.com/vintagesucks/instagram-export
+- [Google Drive API Library](https://github.com/terence410/ts-google-drive)
 
 ### GraphQL
 
