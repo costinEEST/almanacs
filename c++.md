@@ -11,6 +11,7 @@
 ### Books
 
 - [The design and evolution of C++ by Bjarne Stroustrup](https://twitter.com/oznova_/status/1214971707863101440)
+- https://increment.com/software-architecture/primer-on-functional-architecture
 
 ### Live coding
 

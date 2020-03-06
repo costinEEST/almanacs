@@ -31,6 +31,7 @@
 - https://github.com/fabiospampinato/vscode-todo-plus
 - vscode-graphiql-explorer, an extension for VSCode that integrates GraphiQL + OneGraph's Explorer to build+edit GraphQL operations: [tweet](https://twitter.com/___zth___/status/1206626640589205505) + [marketplace](https://marketplace.visualstudio.com/items?itemName=GabrielNordeborn.vscode-graphiql-explorer)
 - [Azure Blockchain Development Kit for Ethereum.](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
+- [Restart TS server](https://twitter.com/BenLesh/status/1234877859589709826)
 
 ### Vim
 

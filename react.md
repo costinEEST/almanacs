@@ -165,6 +165,7 @@
 - https://www.udemy.com/course/react-testing-with-jest-and-enzyme
 - [UI Testing with React, Mirage, Jest and Testing Library](https://youtu.be/3taVrGZVCr8)
 - [Jest - A-Z by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQriFZkYhvhy1KFM21-l7VyL-)
+- [Test-Driven Development in React](https://www.youtube.com/playlist?list=PLXXnezSEtvNMlfJFd1Z2wilxymcOaVl9Q)
 
 ### Tooling
 

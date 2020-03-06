@@ -4,6 +4,10 @@
 - [Everything you need to prepare for your technical interview](https://github.com/andreis/interview)
 - https://twitter.com/kenpex/status/1211796966495141888
 
+### Data structures
+
+- https://blog.cloudflare.com/when-bloom-filters-dont-bloom
+
 ### Compilers
 
 - [Want to Write a Compiler? Just Read These Two Papers.](https://prog21.dadgum.com/30.html)
@@ -48,6 +52,7 @@
 - [The canonical spec for ulid](https://github.com/ulid/spec)
 - https://github.com/donnemartin/system-design-primer
 - [main thread IO](https://mikeconley.ca/blog/2019/05/16/a-few-words-on-main-thread-disk-access-for-general-audiences)
+- https://increment.com/software-architecture/primer-on-functional-architecture
 
 ### Interviews
 

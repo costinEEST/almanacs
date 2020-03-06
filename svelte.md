@@ -6,6 +6,7 @@
 ### Talks
 
 - https://www.slideshare.net/ChristofferNoring/learning-svelte
+- [Compile Svelte in your head (Part 1)](https://twitter.com/lihautan/status/1235004722970390529)
 
 
 ### Miscellaneous

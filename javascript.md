@@ -135,6 +135,7 @@
 ### function () {}
 
 - https://github.com/you-dont-need/You-Dont-Need-Loops
+- [Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
 
 ### Modules
 

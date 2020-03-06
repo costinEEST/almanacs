@@ -21,6 +21,10 @@
 
 - [Analyse your React Native bundle in 1 command ](https://github.com/JonnyBurger/npx-visualize-bundle)
 
+### Testing
+
+- [Test-Driven Development in React Native](https://www.youtube.com/playlist?list=PLXXnezSEtvNPZroRdvjhEVzOhURl572Lf)
+
 ### Development
 
 - Run an app on 6 different platforms with the Exact same Codebase: [tweet](https://twitter.com/Baconbrix/status/1206583601648820224) + [talk](https://youtu.be/ykBxY01j_rA)
@@ -45,3 +49,4 @@
 - https://github.com/victorkvarghese/react-native-messenger
 - https://github.com/wcandillon/can-it-be-done-in-react-native
 - [Full stack & cross platform app customizable & themeable for any event or conference.](https://github.com/dabit3/conference-app-in-a-box)
+- [A React Native module to interact with Apple Healthkit and Google Fit.](https://github.com/OvalMoney/react-native-fitness)

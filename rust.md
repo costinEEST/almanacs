@@ -7,6 +7,7 @@
 - https://pascalprecht.github.io/posts/learning-rust
 - https://github.com/ctjhoa/rust-learning
 - https://twitter.com/jgvarandas/status/1228712766636204032
+- https://deterministic.space/high-performance-rust.html
 
 ### Talks
 
