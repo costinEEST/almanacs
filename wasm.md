@@ -10,3 +10,7 @@
 ### Articles
 
 - [How to create polyglot HTML/JS/WebAssembly module](https://advancedsecurity.training/posts/webassembly-polyglot)
+
+### Opinions
+
+- [..used for surveillance](https://twitter.com/aral/status/1206173737730674688)
