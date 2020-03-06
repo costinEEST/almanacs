@@ -8,6 +8,7 @@
 - https://github.com/ctjhoa/rust-learning
 - https://twitter.com/jgvarandas/status/1228712766636204032
 - https://deterministic.space/high-performance-rust.html
+- https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust
 
 ### Talks
 

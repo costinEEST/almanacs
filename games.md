@@ -12,4 +12,8 @@
 
 - https://github.com/gabrielecirulli/2048
 
+### Development
+
+- [How Crash Bandicoot Hacked The Original Playstation | War Stories | Ars Technica](https://youtu.be/izxXGuVL21o)
+
 

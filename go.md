@@ -4,6 +4,10 @@
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent)
 - https://github.com/code-tutorials/golang-webapp
 
+### Courses
+
+- Write web applications in Go without using a framework: [book](https://leanpub.com/antitextbookGo) + (recordings)[https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4]
+
 ### Tools
 
 - [Repo of useful scripts](https://github.com/lc/hacks)

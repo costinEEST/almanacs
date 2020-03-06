@@ -152,6 +152,7 @@
 - [Make it stick](https://twitter.com/housecor/status/1206567954906800128)
 - https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius
 - https://quanticdev.com/articles/most-valuable-thing-to-learn-in-one-hour
+- https://superorganizers.substack.com/p/how-to-build-a-learning-machine
 
 ### Thinking
 

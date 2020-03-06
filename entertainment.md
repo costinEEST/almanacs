@@ -54,6 +54,7 @@
 - [Cel mai iubit dintre pământeni (quote)](https://coltulcultural.wordpress.com/2020/01/05/citatul-de-duminica-farmecul-unei-fiinte-straine)
 - https://www.theatlantic.com/entertainment/archive/2020/01/the-witcher-is-absurd-thats-why-its-brilliant/604297
 - [Learn about various sci-fi and fantasy worlds and their specific mechanics (money, politics, culture, climate etc) without having to read the entire novel?](https://twitter.com/anthilemoon/status/1221955242272706561)
+- [The Starship and the Canoe by Kenneth Brower](https://twitter.com/vgr/status/1234714328994988035)
 
 ### Sociology
 
