@@ -34,6 +34,7 @@
 - [Azure Blockchain Development Kit for Ethereum.](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
 - [Restart TS server](https://twitter.com/BenLesh/status/1234877859589709826)
 - https://kortina.nyc/essays/suping-up-vs-code-as-a-markdown-notebook
+- [A VS Code extension for visualizing data structures while debugging.](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
 
 ### Vim
 
@@ -101,6 +102,7 @@
 - [Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.](https://github.com/yyx990803/build-your-own-mint)
 - https://hashrocket.com/blog/posts/generate-images-for-instagram
 - Crop a single image to a certain aspect ratio in ImageMagick (7.0+): [tweet](https://twitter.com/danburzo/status/1222441121051267073) + [repo](https://github.com/danburzo/toolbox/blob/master/imagemagick.md)
+- https://github.com/aviaryan/awesome-no-login-web-apps
 
 ### Books
 

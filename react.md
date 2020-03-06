@@ -43,6 +43,7 @@
 - [Avoid race condition](https://twitter.com/BenLesh/status/1220019348133294080)
 - https://medium.com/@david.dalbusco/create-a-react-custom-hooks-for-your-web-components-f4319bb4bc35
 - [Building an Accordion with React Hooks.](https://smellycode.com/accordion-in-reactjs)
+- [A custom React Hook for fading in any element.](https://twitter.com/gabe_ragland/status/1233135570227879936)
 
 ### Context API
 
@@ -166,6 +167,7 @@
 - [UI Testing with React, Mirage, Jest and Testing Library](https://youtu.be/3taVrGZVCr8)
 - [Jest - A-Z by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQriFZkYhvhy1KFM21-l7VyL-)
 - [Test-Driven Development in React](https://www.youtube.com/playlist?list=PLXXnezSEtvNMlfJFd1Z2wilxymcOaVl9Q)
+- https://swizec.com/blog/mocking-and-testing-fetch-requests-with-jest/swizec/9338
 
 ### Tooling
 

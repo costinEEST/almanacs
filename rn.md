@@ -32,6 +32,7 @@
 - https://github.com/jbranchaud/til/blob/master/react_native/avoid-the-notch-with-safeareaview.md
 - https://arsfutura.co/magazine/deep-linking-in-react-native 
 - https://twitter.com/Baconbrix/status/1230406673669378048 + https://snack.expo.io/@bacon/app-store-elements
+- https://academy.infinite.red/p/installing-react-native-tutorial-on-macos
 
 
 ### Debugging

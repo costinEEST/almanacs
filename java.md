@@ -33,3 +33,7 @@
 ### Opinions
 
 - https://noncombatant.org/2014/07/31/why-i-love-java
+
+### Best practices
+
+- https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production 

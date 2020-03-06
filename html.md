@@ -9,6 +9,7 @@
 ### Accessibility
 
 - https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers
+- https://daverupert.com/2020/02/html-the-inaccessible-parts
 
 ### Radio
 

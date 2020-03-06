@@ -9,6 +9,21 @@
 - https://www.huffpost.com/entry/15-ways-to-fall-asleep-faster_n_55dde3e7e4b04ae497054470
 - https://www.quantifiedbob.com/best-biohacking-books/#biohacking-sleep
 
+
+### Fitness
+
+- https://www.julian.com/guide/muscle/intro
+- https://github.com/evexoio/awesome-health
+- https://www.goodreads.com/book/show/33293328-overcoming-gravity
+- http://www.shapesense.com/fitness-exercise/calculators/running-calorie-burn-calculator.shtml
+- [Cine a (mai) fost la sporturi de contact?](https://www.facebook.com/apostu.alin.claudiu/posts/1935540589911432)
+- [Building My Home Garage Gym](https://jamonholmgren.com/gym)
+
+
+### Injuries
+
+- https://www.costinglavan.ro/vindeca-hernia 
+
 ### Fasting
 
 - [β-Hydroxybutyrate Prevents Vascular Senescence through hnRNP A1-Mediated Upregulation of Oct4](https://www.sciencedirect.com/science/article/pii/S1097276518306051)
@@ -44,18 +59,6 @@
 
 - [Empire of Tea: The Asian Leaf that Conquered the World](https://www.amazon.com/Empire-Tea-Asian-Conquered-World/dp/1780234406)
 
-### Fitness
-
-- https://www.julian.com/guide/muscle/intro
-- https://github.com/evexoio/awesome-health
-- https://www.goodreads.com/book/show/33293328-overcoming-gravity
-- http://www.shapesense.com/fitness-exercise/calculators/running-calorie-burn-calculator.shtml
-- [Cine a (mai) fost la sporturi de contact?](https://www.facebook.com/apostu.alin.claudiu/posts/1935540589911432)
-
-
-### Injuries
-
-- https://www.costinglavan.ro/vindeca-hernia 
 
 ### Sugar
 
