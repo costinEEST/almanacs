@@ -9,7 +9,6 @@
 - https://www.huffpost.com/entry/15-ways-to-fall-asleep-faster_n_55dde3e7e4b04ae497054470
 - https://www.quantifiedbob.com/best-biohacking-books/#biohacking-sleep
 
-
 ### Fitness
 
 - https://www.julian.com/guide/muscle/intro
@@ -19,10 +18,9 @@
 - [Cine a (mai) fost la sporturi de contact?](https://www.facebook.com/apostu.alin.claudiu/posts/1935540589911432)
 - [Building My Home Garage Gym](https://jamonholmgren.com/gym)
 
-
 ### Injuries
 
-- https://www.costinglavan.ro/vindeca-hernia 
+- https://www.costinglavan.ro/vindeca-hernia
 
 ### Fasting
 
@@ -59,12 +57,15 @@
 
 - [Empire of Tea: The Asian Leaf that Conquered the World](https://www.amazon.com/Empire-Tea-Asian-Conquered-World/dp/1780234406)
 
-
 ### Sugar
 
 - [Is there a way to be prescribed a continuous glucose monitor without an insulin deficiency/diabetes?](https://twitter.com/Austen/status/1211144183018246144)
 - [Why Did Mexico Surpass America in Obesity?](https://twitter.com/notyetagm/status/1220352727546580997)
+- https://www.amazon.com/Diets-Because-Youre-Addicted-Sugar/dp/1607744864
 
+### Addictions
+
+- https://www.amazon.com/Hedonic-Eating-Pleasure-Affects-Behavior/dp/019933045X
 
 ### Ageing
 
