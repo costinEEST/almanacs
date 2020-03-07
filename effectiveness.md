@@ -7,9 +7,9 @@
 
 ### Git
 
-- https://gitexplorer.com 
+- https://gitexplorer.com
 - [2 useful Git CLI tips for code review](https://twitter.com/danburzo/status/1200022067044859905)
-- https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk 
+- https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk
 - [checkout](https://twitter.com/mislav/status/1206937217194741760)
 - [git-annex allows managing files with git, without checking the file contents into git.](https://git-annex.branchable.com)
 - [I still use a GUI (SourceTree) for most operations.](https://twitter.com/jaffathecake/status/1204343865785962496)
@@ -46,6 +46,7 @@
 - https://www.meetup.com/vim-chicago
 - https://legacy.gitbook.com/book/learnbyexample/vim-reference/details
 - https://twitter.com/victordorneanu/status/1222158980627288064
+- https://endler.dev/2018/ten-years-of-vim
 
 ### tmux
 

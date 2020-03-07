@@ -12,7 +12,6 @@
 - https://ovid.github.io/articles/database-design-standards.html
 - https://joshduff.com/2016-07-writing-sql.md
 
-
 ### Hacks
 
 - Tunneling traffic through MySQL service (or your mysqld is my new SOCKS5): [tweet](https://twitter.com/TheXC3LL/status/1203432035353845760) + [blog post](https://x-c3ll.github.io/posts/Pivoting-MySQL-Proxy/)
@@ -33,7 +32,7 @@
 
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work.](https://www.databass.dev/)
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/)
-- https://lethain.com/handbook-relational-db-design-on-data-modeling 
+- https://lethain.com/handbook-relational-db-design-on-data-modeling
 - https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
 - [beginners](https://twitter.com/samerbuna/status/1183771023054987264)
 
@@ -42,10 +41,10 @@
 - [Postgres is the perfect database.](https://twitter.com/Swizec/status/1232376212195966976)
 - [Postgres Explain Visualizer 2](https://github.com/dalibo/pev2)
 
-
 ### Real-time databases
 
 - [SapphireDb. An alternative to Firebase](https://sapphire-db.com/start/main)
+- [A lightweight cloud firestore library for the browser.](https://github.com/samuelgozi/firebase-firestore-lite)
 
 ### Key-value databases
 

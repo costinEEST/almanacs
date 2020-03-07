@@ -9,6 +9,7 @@
 - https://twitter.com/jgvarandas/status/1228712766636204032
 - https://deterministic.space/high-performance-rust.html
 - https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust
+- [A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.](https://github.com/mre/idiomatic-rust)
 
 ### Talks
 
@@ -25,6 +26,7 @@
 ### Tools
 
 - Port scanner using the thread pool: [tweet](https://twitter.com/_tomsteele/status/1212651061611122688) + [gist](https://gist.github.com/tomsteele/338fa60b6ca2dd410f428d74e1717c1c)
+- [What Is Rust Doing Behind the Curtains?](https://endler.dev/2018/cargo-inspect)
 
 ### Opinions
 

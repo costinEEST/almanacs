@@ -65,6 +65,7 @@
 - https://github.com/jbranchaud/til/blob/master/react/create-dynamically-named-custom-react-components.md
 - [What's your current favorite date range picker?](https://twitter.com/erikras/status/1219559846661541888)
 - https://github.com/samdenty/console-feed
+- [Simple react component for swipe events on touch.](https://github.com/moubi/swipeable-react)
 
 ### Patterns
 

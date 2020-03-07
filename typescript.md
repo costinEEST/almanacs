@@ -25,6 +25,7 @@
 ### Practice
 
 - https://github.com/stevenmusumeche/advent-of-code-2019
+- [📚 Functions and algorithms implemented purely with TypeScript's type system ](https://github.com/ronami/meta-typing)
 
 ### Opinions
 

@@ -36,6 +36,7 @@
 - [Image to text chrome extension](https://github.com/fxnoob/image-to-text) + https://youtu.be/27vNfF-K52c
 - [Chrome extension to minimize the UI of YouTube.](https://github.com/AjayRajGvr/Minimal-YTube)
 - [I am wondering why es modules are not well supported when building @ChromiumDev extensions?](https://twitter.com/daKmoR/status/1231357595358842880)
+- [😷 A browser extension that puts masks on faces on the internet.](https://github.com/moklick/face-mask-browser-extension)
 
 ### Bookmarklets
 

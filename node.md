@@ -47,7 +47,7 @@
 
 ### Internals
 
-- https://blog.s1h.org/inside-node-executing-a-script 
+- https://blog.s1h.org/inside-node-executing-a-script
 
 ### Event loop
 
@@ -77,7 +77,8 @@
 - https://github.com/justjavac/awesome-node-utils
 - https://github.com/bcoe/awesome-cross-platform-nodejs
 - Zero-dependency HTTP responders: [tweet](https://twitter.com/juliangruber/status/1222120717367611392) + [repo](https://github.com/juliangruber/http-responders)
-- [Prefer cwd instead of __dirname when configuring your Webpack.](https://twitter.com/sseraphini/status/1232667049949880320)
+- [Prefer cwd instead of \_\_dirname when configuring your Webpack.](https://twitter.com/sseraphini/status/1232667049949880320)
+- [Node.js library to bypass cloudflare's anti-ddos page.](https://github.com/codemanki/cloudscraper)
 
 ### Testing
 
