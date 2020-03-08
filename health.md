@@ -32,15 +32,17 @@
 - https://twitter.com/KetoAurelius/status/1216461099404595200
 - https://www.siimland.co/products/metabolic-autophagy-book
 
-### Food
+### Supplements
 
 - [Vitamins and minerals](https://docs.google.com/document/d/1PkVQ4A3MR8zR0YxGT1hCfGj5RavwIY6aTOkb7G-T4lU)
+- https://www.foundmyfitness.com/topics/creatine 
 - https://www.healthline.com/nutrition/10-nutrients-you-cant-get-from-animal-foods
 - https://www.health.harvard.edu/staying-healthy/listing_of_vitamins
 - https://www.accessdata.fda.gov/scripts/interactivenutritionfactslabel/factsheets/vitamin_and_mineral_chart.pdf
 - https://books.google.ro/books/about/Prescription_for_Nutritional_Healing.html?id=2s_q2y_J3rwC
 - https://masterpass.chrismasterjohnphd.com/dashboard
 - [Mr. Mineral | Minerals for Body, Brain and Business Optimization- Thomas DeLauer](https://www.youtube.com/playlist?list=PLFbLg_bIQgxC-NtGO7TzTTO0Lgd8R-Vop)
+- [În București, de unde vă procurați stevie, turmeric, fulgi de drojdie inactivă?](https://www.facebook.com/groups/755526297805685/permalink/3994212310603718)
 
 ### Ketosis
 
@@ -52,6 +54,8 @@
 - [Behind the World's First Ketone Ester ft. Kieran Clarke || HVMN Enhancement Podcast: Ep. 48](https://youtu.be/qR4tf-np6jU)
 - https://isitketo.org
 - [How Keto Eased My PCOS — Jordan Swain [Adapt Event]](https://www.facebook.com/AdaptYourLife/videos/481025419270677)
+- [În București: mai există alte restaurante keto/low carb, în afară de MASA - CASA ?](https://www.facebook.com/groups/755526297805685/permalink/3902770676414549)
+- [The Magic Pill (2017)](https://www.netflix.com/ro-en/title/80238655)
 
 ### Tea
 
@@ -77,6 +81,7 @@
 - [SRF Education Video Lecture Course](https://www.youtube.com/playlist?list=PLvB8mhLViWhBoKvY_9eVtenBbOzelLANs)
 - [Answering the ultimate question "what is the proximal cause of aging?".](https://www.ncbi.nlm.nih.gov/m/pubmed/23425777/)
 - https://www.reddit.com/r/longevity/comments/e2q84z/textbooks_courses_and_resources_on_aging
+- https://www.naomiwhittel.com/benefits-of-autophagy
 
 ### Viruses
 

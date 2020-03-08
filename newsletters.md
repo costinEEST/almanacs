@@ -1,6 +1,16 @@
 ### Design
 
 - [Design Sprint Newsletter by Jake Knapp](https://www.getrevue.co/profile/designsprint)
+- [matthewstrom.com](https://buttondown.email/mattstrom/archive)
+
+
+### Data visualization
+
+- https://alignedleft.com/resources/process-blogs + https://alignedleft.com/resources/data-newsletters
+
+### Web performance
+
+- [Perf.mail from Calibre](https://us2.campaign-archive.com/home/?u=9067434ef642e9c92aa7453d2&id=7cba5dc7bd)
 
 
 ### Health

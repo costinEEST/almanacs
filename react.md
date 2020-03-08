@@ -74,6 +74,7 @@
 - [Component Base Role](https://gist.github.com/sibelius/593953c5f0ca8269668ded4c64f854be)
 - [render prop](https://twitter.com/aweary/status/1217487206320730114)
 - [Advanced memoization and effects in React.](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
+- [Accept `children` as a function (a.k.a. render props) and `as` prop](https://twitter.com/diegohaz/status/1236383871580717056)
 
 ### Concurrent Mode/Suspense
 

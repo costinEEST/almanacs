@@ -10,6 +10,8 @@
 - https://github.com/vintagesucks/instagram-export
 - [Google Drive API Library](https://github.com/terence410/ts-google-drive)
 - [github(dot)com/USERNAME.png](https://twitter.com/mtliendo/status/1234911134932709376)
+- [An app script that will filter your email from where in the world it was sent from](https://github.com/benjojo/Gmail_GeoIPTagger)
+- https://blog.filippo.io/gmail-bot-with-apps-script-and-typescript
 
 ### GraphQL
 

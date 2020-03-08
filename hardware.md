@@ -1,6 +1,7 @@
 ### Talks
 
 - https://github.com/hellerve/programming-talks#hardware
+- [Review and analysis of bulb. By electronupdate](https://www.youtube.com/playlist?list=PLv9WfM3NgK2xFHrD9BJ4-4CEbRpbe6DFP)
 
 ### Courses
 

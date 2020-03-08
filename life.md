@@ -5,26 +5,6 @@
 - https://www.amazon.com/Extreme-Life-Sea-Stephen-Palumbi/dp/0691169810 + https://neal.fun/deep-sea
 - http://www.overcomingbias.com/2020/01/how-bees-argue.html
 
-### Biology
-
-- [The Fundamentals of Neuroscience | Harvard University](https://www.mcb80x.org/)
-- https://jasoncollins.blog/economics-and-evolutionary-biology-reading-list/
-- [Biology Is Technology: The Promise, Peril, and New Business of Engineering Life](https://www.amazon.com/Biology-Technology-Promise-Business-Engineering/dp/0674060156)
-- [VCs investing in synthetic biology](https://twitter.com/chrissyfarr/status/1179827098413928454)
-- https://github.com/Developer-Y/cs-video-courses#computational-biology
-- [I485 / H400 - Biologically Inspired Computation (Indiana University)](https://homes.sice.indiana.edu/rocha/academics/i-bic/index.php)
-- https://lostempireherbs.com/endocrine-disrupting-chemicals
-- https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078 + [Human Behavioral Biology (Robert Sapolsky)](https://www.youtube.com/playlist?list=PL150326949691B199)
-- [Biology by CrashCourse](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
-- [The Neuronal Basis of Consciousness Course - CNS/Bi/Psy 120](https://www.youtube.com/playlist?list=PL1DBCFC32CF6945EE)
-- [Exploring Different Species by Journey to the Microcosmos](https://www.youtube.com/playlist?list=PLf3BfsFyWWMF48QHimH7jxHQMX0Q5UpPS)
-- the microbe database(microbe.directory/developers): [github](https://github.com/microbe-directory/microbe-directory) + [bitbucket](https://bitbucket.org/account/signin/?next=/microbedb/microbedb)
-- [Curated List of Biomarkers, Blood Tests, and Blood Tracking.](https://github.com/markwk/awesome-biomarkers)
-- https://github.com/kakoni/awesome-healthcare#bioinformatics
-- https://github.com/nikitavoloboev/knowledge/blob/master/biology/biology.md
-- [Biology - PhET Simulations](https://phet.colorado.edu/en/simulations/category/biology)
-- [DNA Learning Center](https://www.google.com/search?q=dna%20learning%20center)
-
 ### Anatomy
 
 - [Don't Die Young: An Anatomist's Guide to Your Organs and Your Health.](https://www.amazon.com/Dont-Die-Young-Anatomists-Organs/dp/0747592802)

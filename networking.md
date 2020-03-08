@@ -59,16 +59,24 @@
 
 - https://ieeetv.ieee.org/conference-highlights/integrated-access-and-backhaul-in-5g-navid-abedini-ieee-sarnoff-symposium-2019
 
+### IP
+
+- https://github.com/jbranchaud/til/blob/master/devops/resolve-the-public-ip-of-a-url.md + https://stackoverflow.com/a/44372558
+- https://github.com/jbranchaud/til/blob/master/devops/path-of-the-packets.md
+
+### Domain Name System
+
+- [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
+- https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-dns-servers
+- [cloudflare_ddns_updater](https://gist.github.com/howanghk/f955764f33bf9db7a86c)
+- https://blog.benjojo.co.uk/post/ISPs-sharing-DNS-query-data
+- https://sockpuppet.org/blog/2015/01/15/against-dnssec
+
 ### TCP
 
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
 - https://github.com/shuhei/knowledge/blob/master/network.md#tcp
 - https://notes.shichao.io/tcpv1/
-
-### IP
-
-- https://github.com/jbranchaud/til/blob/master/devops/resolve-the-public-ip-of-a-url.md + https://stackoverflow.com/a/44372558
-- https://github.com/jbranchaud/til/blob/master/devops/path-of-the-packets.md
 
 ### UDP
 
@@ -102,12 +110,6 @@
 
 - https://twitter.com/jgbarah/status/1177480451193131009
 - https://www.infoq.com/news/2020/01/http-3-status
-
-### DNS
-
-- [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
-- https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-dns-servers
-- [cloudflare_ddns_updater](https://gist.github.com/howanghk/f955764f33bf9db7a86c)
 
 ### Jaber
 

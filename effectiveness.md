@@ -139,6 +139,8 @@
 - https://github.com/James-Yu/LaTeX-Workshop
 - [If you could read only one writer — and one writer only — for the rest of your life, who would it be?](https://twitter.com/david_perell/status/1228165158876282882)
 - [Learning Technical Writing Using the Engineering Method by Norman Ramsey](https://www.cs.tufts.edu/~nr/pubs/learn.pdf)
+- [Markdeep is a technology for writing plain text documents that will look good in any web browser, whether local or remote.  It supports diagrams, calendars, equations, and other features as extensions of Markdown syntax.](https://casual-effects.com/markdeep)
+- https://blog.jethro.dev/posts/how_to_take_smart_notes_org
 
 ### Drawing
 

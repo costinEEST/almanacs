@@ -23,6 +23,8 @@
 - http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html
 - https://aster.cloud/2019/12/17/what-you-probably-didnt-know-about-sudo
 - https://github.com/jcsrb/til/tree/master/linux
+- https://nelsonslog.wordpress.com/2020/02/21/upgrading-from-an-unsupported-ubuntu
+- https://www.thegeekdiary.com/understanding-proc-meminfo-file-analyzing-memory-utilization-in-linux
 
 ### Embedded
 
