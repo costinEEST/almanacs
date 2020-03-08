@@ -9,8 +9,9 @@
 - [Non-violent communication](https://twitter.com/sriramk/status/121108567813973196)
 - http://personalkanban.com/pk/personal-kanban-101
 - https://lethain.com/97-things-every-manager-should-know
-- https://benmccormick.org/2019-roundup 
+- https://benmccormick.org/2019-roundup
 - https://www.amazon.com/Chasing-Rabbit-Outdistance-Competition-Christensen-ebook/dp/B0015DWJ8M
+- [TIM FERRISS 17 Lectii care mi-au schimbat viata](https://www.evernote.com/shard/s314/client/snv?noteGuid=cf3f3a95-81d9-42f1-8406-2a859d65fe02&noteKey=6646ca63cdf29e62ba3cc343ee1c31fd&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs314%2Fsh%2Fcf3f3a95-81d9-42f1-8406-2a859d65fe02%2F6646ca63cdf29e62ba3cc343ee1c31fd&title=TIM%2BFERRISS%2B17%2BLectii%2Bcare%2Bmi-au%2Bschimbat%2Bviata)
 
 ### Parenting
 
@@ -45,7 +46,6 @@
 
 - https://trupaarthesium.ro/cursuri-de-teatru
 - https://github.com/hackerkid/Mind-Expanding-Books#theater-and-film
-
 
 ### Cooking
 
