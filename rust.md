@@ -2,6 +2,7 @@
 
 - https://twitter.com/samaaron/status/1214649047002292224
 - https://github.com/Mercateo/rust-for-node-developers
+- [Rust for Node.js developers.](https://gioyik.com/s/rust-node-connecttech)
 - [Rust Programming Tutorials by dcode](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
 - [Rust by Crazcalm's Tech Stack](https://www.youtube.com/playlist?list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X)
 - https://pascalprecht.github.io/posts/learning-rust
@@ -33,3 +34,4 @@
 - https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular
 - https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
 - https://thesquareplanet.com/blog/the-path-to-rust
+- [Why Rust is awesome?](https://gioyik.com/s/rust-increible-devfest)

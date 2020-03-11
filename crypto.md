@@ -5,6 +5,7 @@
 - [Shows the result of crt.sh](https://github.com/famasoon/crtsh)
 - https://www.freecodecamp.org/news/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec
 - [Get HTTPS for free!](https://github.com/diafygi/gethttpsforfree)
+- https://github.com/dakshshah96/local-cert-generator
 
 ### References
 

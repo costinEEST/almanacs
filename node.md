@@ -43,7 +43,9 @@
 - https://evilpacket.net/2019/leveraging-javascript-debuggers
 - https://github.com/tj/node-blocked
 - https://nodesource.com/blog/memory-leaks-demystified
+- https://gioyik.com/s/memory-chronicles-manage-trace-fix-memory-leaks
 - https://www.joyent.com/blog/walmart-node-js-memory-leak
+- [Profile & Analyze Node.js Applications.](https://gioyik.com/s/profile-analyze-nodejs-applications)
 
 ### Internals
 

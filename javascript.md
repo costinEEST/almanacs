@@ -234,6 +234,7 @@
 - https://regexone.com/references/javascript
 - https://eloquentjavascript.net/09_regexp.html
 - [JavaScript Regular expressions made easy.](https://github.com/VerbalExpressions/JSVerbalExpressions)
+- [Tokenizer with built-in error-handling.](https://twitter.com/RReverser/status/1237493010935558144)
 
 ### new Worker()
 
@@ -258,6 +259,8 @@
 - [Design System Stencil Example.](https://github.com/AJONPLLC/ajonp-stencil-example)
 - [A custom element for a menu that scrolls horizontally or vertically.](https://github.com/stevenvachon/scrolling-menu)
 - [Custom elements](https://twitter.com/aerotwist/status/1183432513739513862)
+- https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft + https://twitter.com/erikkroes/status/1237370013566279680
+- https://slideslive.com/38918861/lightning-ui-platform-web-components-and-beyond
 
 ### Testing
 

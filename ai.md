@@ -58,3 +58,4 @@
 - [An adblocker for live radio streams and podcasts. Machine learning meets Shazam.](https://github.com/adblockradio/adblockradio)
 - [Search/personalization as a service to small-medium businesses && automation in screening](https://www.getrevue.co/profile/swap/issues/weekly-update-1-225258)
 - [Removing people from complex backgrounds in real time using TensorFlow.js in the web browser.](https://github.com/jasonmayes/Real-Time-Person-Removal)
+- [Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.](https://github.com/UniversalDataTool/universal-data-tool)

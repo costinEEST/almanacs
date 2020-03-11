@@ -14,6 +14,7 @@
 - https://www.techexplorist.com/trojan-horse-nanoparticle-eats-plaques-cause-heart-attacks/29530
 - https://www.sciencealert.com/researchers-transplant-lab-grown-heart-muscles-for-the-first-time
 - [Zygote Body 3D Anatomy Online Visualizer | Human Anatomy 3D](https://www.zygotebody.com)
+- [Kenhub - Learn Human Anatomy](https://www.youtube.com/user/kenHubCOM/playlists)
 
 ### Botany
 
