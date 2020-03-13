@@ -98,7 +98,7 @@
 
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-certificate-authority
 - [Lessons learned running SSL/TLS at scale (FOSDEM 2016)](https://youtu.be/9Ya8H-9Hrp4)
-- https://idea.popcount.org/2012-06-16-dissecting-ssl-handshake 
+- https://idea.popcount.org/2012-06-16-dissecting-ssl-handshake
 - [Erik Hjelmvik - TLS Interception and Decryption](https://youtu.be/_V6tT4eP1SI)
 
 ### HTTP2
@@ -172,3 +172,4 @@
 - https://github.com/kdeldycke/awesome-falsehood#networks
 - https://notes.eddyerburgh.me/computer-networking
 - [A short (and mostly wrong) history of computer networking](https://fasterthanli.me/blog/2019/making-our-own-ping)
+- https://blog.cloudflare.com/the-history-of-the-url

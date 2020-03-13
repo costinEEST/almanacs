@@ -64,8 +64,9 @@
 - https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
 - https://github.com/daumann/ECMAScript-new-features-list
 - https://github.com/loverajoel/jstips
-- https://quiz.typeofnan.dev 
+- https://quiz.typeofnan.dev
 - [Learn built-in JavaScript methods by rolling your own!](https://github.com/nas5w/roll-your-own)
+- [Future JavaScript: what is still missing?](https://2ality.com/2019/01/future-js.html)
 
 ### Books
 
@@ -182,7 +183,7 @@
 
 ### fetch()
 
-- https://danlevy.net/you-may-not-need-axios 
+- https://danlevy.net/you-may-not-need-axios
 
 ### new Promise()
 
