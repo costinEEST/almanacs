@@ -77,7 +77,7 @@
 - [Visualization of npm shows dependency graph of an npm package.](https://github.com/anvaka/npmgraph.an)
 - [CLI utility for displaying current network utilization by process, connection and remote IP/hostname.](https://twitter.com/mikeal/status/1217554555350798339)
 - https://github.com/justjavac/awesome-node-utils
-- https://github.com/bcoe/awesome-cross-platform-nodejs
+- https://github.com/bcoe/awesome-cross-platform-nodejs + https://github.com/ehmicky/cross-platform-node-guide
 - Zero-dependency HTTP responders: [tweet](https://twitter.com/juliangruber/status/1222120717367611392) + [repo](https://github.com/juliangruber/http-responders)
 - [Prefer cwd instead of \_\_dirname when configuring your Webpack.](https://twitter.com/sseraphini/status/1232667049949880320)
 - [Node.js library to bypass cloudflare's anti-ddos page.](https://github.com/codemanki/cloudscraper)
@@ -91,6 +91,7 @@
 
 - https://gist.github.com/willurd/5720255#gistcomment-3142965
 - https://www.slideshare.net/Codemotion/paulo-lopes-10-things-i-learned-making-the-fastest-js-server-runtime-in-the-world-codemotion-amsterdam-2019
+- [MyDrive is an Open Source Cloud Server (Similar To Google Drive), built with Node.JS, Express, React, and MongoDB.](https://github.com/subnub/myDrive)
 
 ### Authentication
 
