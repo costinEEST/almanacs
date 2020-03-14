@@ -30,6 +30,11 @@
 
 - https://github.com/Cazaimi/circadian-api
 
+### Geography
+
+- [City data repository for mapnificent.net](https://github.com/mapnificent/mapnificent_cities) + https://stefanwehrmeyer.com/projects/mapnificent
+- [Dear map people,](https://twitter.com/tmcw/status/1133165834677866496)
+
 ### Miscellaneous
 
 - https://github.com/n0shake/Public-APIs
