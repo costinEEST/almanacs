@@ -70,6 +70,7 @@
 - [A tool for generating flow line representations using SVG paths / poly lines](https://github.com/msurguy/flow-lines)
 - https://github.com/edent/SuperTinyIcons
 - https://github.com/alrra/browser-logos
+- [Turn real code into faux code.](https://github.com/knutsynstad/faux-code-generator)
 
 ### SEO
 
@@ -158,6 +159,7 @@
 - [Open source illustrations kit](https://illlustrations.co/)
 - https://github.com/melanierichards/resources/blob/master/resources/illo.md
 - [Free icons - SVG, PNG, JavaScript & Icon Font - Over 1500 free vector icons · CoreUI Icons](https://github.com/coreui/coreui-icons)
+- [Open Peeps, Hand-Drawn Illustration Library.](https://www.openpeeps.com)
 
 ### Art
 

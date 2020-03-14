@@ -9,9 +9,9 @@
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
 - [Step by step instructions for building Docker images with Windows.](https://github.com/aerokube/windows-images)
 - [Data Science Docker Tutorial.](https://github.com/jonathanlimsc/ds-docker-tutorial)
-- https://blog.alexellis.io/building-containers-without-docker 
+- https://blog.alexellis.io/building-containers-without-docker
 - https://pythonspeed.com/articles/alpine-docker-python
-- https://snikt.net/blog/2019/08/05/building-a-secure-torrent-download-station-by-combining-private-internet-access-pia-openvpn-and-transmission-through-docker 
+- https://snikt.net/blog/2019/08/05/building-a-secure-torrent-download-station-by-combining-private-internet-access-pia-openvpn-and-transmission-through-docker
 - https://github.com/ignatandrei/Presentations/tree/master/2020/DockerForDevs
 - [Ways to spy on a docker container](https://twitter.com/b0rk/status/1210974057774157824)
 - [What security concerns should I have with Docker?](https://github.com/BretFisher/ama/issues/17)
@@ -51,3 +51,7 @@
 - https://dev.to/azure/learn-how-you-can-add-ci-cd-to-your-app-2o5a
 - [Building a Continuous Integration & Deployment Pipeline Using Docker (CI/CD)](https://www.taniarascia.com/continuous-integration-pipeline-docker)
 - [How to Setup and Deploy by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQrhICMaBrN0aNOrECA_RTUs-)
+
+### Site Reliability Engineering
+
+- [Techniques and numbers for estimating system's performance from first-principles.](https://github.com/sirupsen/napkin-math)

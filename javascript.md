@@ -181,6 +181,10 @@
 
 - [One page calendar 2020](https://davebakker.io/onepagecalendar)
 
+### setInterval()
+
+- [setInterval implementation with setTimeout](https://github.com/n0ruSh/blogs/blob/master/articles/Implement%20setInterval%20with%20setTimeout.md)
+
 ### fetch()
 
 - https://danlevy.net/you-may-not-need-axios

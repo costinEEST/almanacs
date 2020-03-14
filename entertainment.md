@@ -74,6 +74,7 @@
 - https://www.outsideonline.com/2393036/50-best-hikes-us
 - Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time [tweet](https://twitter.com/Sirupsen/status/1201893869421506563) + [review](https://www.goodreads.com/review/show/3067236973)
 - https://inquisitivebiologist.wordpress.com/2019/05/26/book-review-origins-how-the-earth-made-us + https://twitter.com/inqbiol/status/1225731427171491840
+- https://random.country
 
 ### History
 
