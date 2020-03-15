@@ -19,6 +19,7 @@
 
 - https://twitter.com/david_perell/status/1226001494530514944
 - https://github.com/cheeaun/branding
+- http://kiwiagency.ro/blog/recomandare-de-carte-small-data-de-martin-lindstrom
 
 ### Publishing
 
