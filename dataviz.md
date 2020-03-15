@@ -57,6 +57,7 @@
 - [Highest Paying Companies of 2019](https://www.levels.fyi/2019)
 - [Life - a timeline of important events in my life](https://github.com/cheeaun/life)
 - https://blog.datawrapper.de/best-hip-hop-songs-of-all-time-visualized + https://twitter.com/sjockers/status/1206937996806754304 + https://github.com/sjockers/bbc-best-rapmusic
+- https://www.visualcapitalist.com/history-of-pandemics-deadliest
 
 ### Miscellaneous
 

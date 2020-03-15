@@ -10,6 +10,7 @@
 - https://github.com/hokein/electron-sample-apps
 - https://github.com/chrisknepper/android-messages-desktop
 - [SwiftnessX - A cross-platform note-taking & target-tracking app for penetration testers.](https://github.com/ehrishirajsharma/SwiftnessX)
+- [Sing karaoke, any song, any language](https://github.com/youkaclub/youka-desktop)
 
 ### Boilerplates
 

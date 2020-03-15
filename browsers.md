@@ -37,6 +37,7 @@
 - [Chrome extension to minimize the UI of YouTube.](https://github.com/AjayRajGvr/Minimal-YTube)
 - [I am wondering why es modules are not well supported when building @ChromiumDev extensions?](https://twitter.com/daKmoR/status/1231357595358842880)
 - [😷 A browser extension that puts masks on faces on the internet.](https://github.com/moklick/face-mask-browser-extension)
+- [An extension to check if .git is exposed in visited websites.](https://github.com/davtur19/DotGit)
 
 ### Bookmarklets
 
@@ -104,6 +105,7 @@ javascript: (() =>
 - [Awesome list of browser exploitation tutorials ](https://github.com/Escapingbug/awesome-browser-exploit)
 - [Browser logic vulnerabilities DB](https://github.com/Metnew/uxss-db)
 - [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://twitter.com/Qab/status/1209457592126324737)
+- [Software-based Side-Channel Attacks and Defenses in Restricted Environments (PhD thesis)](https://misc0110.net/web/files/phd_thesis.pdf)
 
 ### Headless
 

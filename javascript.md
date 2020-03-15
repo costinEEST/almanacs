@@ -240,6 +240,7 @@
 - https://eloquentjavascript.net/09_regexp.html
 - [JavaScript Regular expressions made easy.](https://github.com/VerbalExpressions/JSVerbalExpressions)
 - [Tokenizer with built-in error-handling.](https://twitter.com/RReverser/status/1237493010935558144)
+- https://portswigger.net/daily-swig/blind-regex-injection-theoretical-exploit-offers-new-way-to-force-web-apps-to-spill-secrets
 
 ### new Worker()
 

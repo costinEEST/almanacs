@@ -89,6 +89,7 @@
 - [Mini HTTP guide for developers](https://news.ycombinator.com/item?id=21955953)
 - https://tldrsec.com/blog/appsec-cali-2019/#inducing-amnesia-in-browsers-the-clear-site-data-header
 - [An activity diagram to describe the resolution of HTTP response status codes, given various headers.](https://github.com/for-GET/http-decision-diagram)
+- https://textslashplain.com/2019/10/16/privacy-tweaks-limiting-referrer
 
 ### HTTPS
 
