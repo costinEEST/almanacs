@@ -111,6 +111,7 @@
 
 - https://twitter.com/jgbarah/status/1177480451193131009
 - https://www.infoq.com/news/2020/01/http-3-status
+- [A QUIC look at HTTP/3](https://lwn.net/SubscriberLink/814522/ab3bfaa8f75c60ce)
 
 ### Jaber
 

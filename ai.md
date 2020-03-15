@@ -15,6 +15,7 @@
 - https://github.com/abhat222/Data-Science--Cheat-Sheet/tree/master/Machine%20Learning
 - [Full-on machine learning for 2020, what are the best resources?](https://news.ycombinator.com/item?id=21924298)
 - https://github.com/leandromineti/awesome-healthmetrics
+- https://theaisummer.com/Deep-Learning-Algorithms
 
 ### Tools
 

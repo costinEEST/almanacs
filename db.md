@@ -5,6 +5,7 @@
 - https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files
 - [Build minimum viable admin panels quickly with just SQL](https://github.com/forbesmyester/esqlate)
 - [Analyzing node.js on GitHub with BigQuery](https://jbeckwith.com/2016/08/13/bigquery-github)
+- https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it
 
 ### TIL
 

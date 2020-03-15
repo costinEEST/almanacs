@@ -25,3 +25,4 @@
 - https://github.com/nikitavoloboev/knowledge/blob/master/biology/biology.md
 - [Biology - PhET Simulations](https://phet.colorado.edu/en/simulations/category/biology)
 - [DNA Learning Center](https://www.google.com/search?q=dna%20learning%20center)
+- https://medium.com/@bert.hubert/dna-the-code-of-life-12db4a17c66d

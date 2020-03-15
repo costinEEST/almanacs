@@ -57,6 +57,10 @@
 - [În București: mai există alte restaurante keto/low carb, în afară de MASA - CASA ?](https://www.facebook.com/groups/755526297805685/permalink/3902770676414549)
 - [The Magic Pill (2017)](https://www.netflix.com/ro-en/title/80238655)
 
+### Mushrooms
+
+- https://ciupercar.ro
+
 ### Tea
 
 - [Empire of Tea: The Asian Leaf that Conquered the World](https://www.amazon.com/Empire-Tea-Asian-Conquered-World/dp/1780234406)
@@ -85,7 +89,7 @@
 
 ### Viruses
 
-- https://github.com/CSSEGISandData/COVID-19
+- https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
 
 ### Tools

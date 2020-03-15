@@ -75,6 +75,7 @@
 - [render prop](https://twitter.com/aweary/status/1217487206320730114)
 - [Advanced memoization and effects in React.](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
 - [Accept `children` as a function (a.k.a. render props) and `as` prop](https://twitter.com/diegohaz/status/1236383871580717056)
+- https://alligator.io/react/keep-react-fast
 
 ### Concurrent Mode/Suspense
 
@@ -101,6 +102,7 @@
 - [Declarative Style Definitions Pt.1](https://gist.github.com/busypeoples/cc865934f22affd6795392e2f55fdaff)
 - https://github.com/jbranchaud/awesome-react-design-systems
 - https://github.com/kettanaito/atomic-layout
+- [Virtual DOOM is a first-person 3D demo that uses the DOM as its render engine.](https://github.com/ath92/virtual-doom)
 
 ### Server side rendering
 

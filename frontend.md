@@ -176,6 +176,7 @@
 - http://tholman.com/post/toolsday-generative-art + http://tholman.com/post/generative-artistry + http://tholman.com/post/generative-art-speedrun
 - https://github.com/erdavids/Generative-Art
 - https://yuinchien.com/origami-study
+- http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html
 
 ### UX
 

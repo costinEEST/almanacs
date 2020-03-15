@@ -15,3 +15,5 @@
 - http://aleph.nu/blog/2011/refresh-browser-when-html-or-css-changes
 - [Get the size of a file using curl](https://twitter.com/WebReflection/status/1231278323487080449)
 - https://badshah.io/experiment/faster-nmap-scanning-with-the-help-of-gnu-parallel
+- https://www.linuxjournal.com/content/job-control-bash-feature-you-only-think-you-dont-need
+- https://serversuit.com/community/blog/view/why-are-there-single-and-double-brackets-in-bash-what-s-the-difference.html

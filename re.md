@@ -24,6 +24,7 @@
 
 - https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md
 - https://www.coresecurity.com/article/reversing-and-exploiting-free-tools
+- [AvastSvc.exe contained a full, unSandboxEd JavaScript/DOM implementation](https://github.com/taviso/avscript)
 
 ### Fuzzers
 

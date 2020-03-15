@@ -70,6 +70,10 @@ javascript: (() =>
 - https://github.com/Eloston/ungoogled-chromium
 - [Create HAR files from Chrome Debugging Protocol data.](https://github.com/sitespeedio/chrome-har)
 
+### Brave
+
+- https://rudism.com/the-brave-browser-is-brilliant
+
 ### Paywalls
 
 - [How to Get Around Newspaper Paywalls in 2019](https://t.co/pVtMutYzns)

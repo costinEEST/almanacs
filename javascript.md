@@ -38,6 +38,7 @@
 ### Compilers
 
 - https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
+- https://github.com/jamiebuilds/the-super-tiny-compiler
 - https://github.com/zenparsing/skert
 
 ### Interpreters
@@ -112,6 +113,7 @@
 ### Video
 
 - [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
+- https://www.twilio.com/blog/open-source-video-apps-reactjs-ios-android
 
 ### Canvas
 
@@ -195,6 +197,7 @@
 - [Canceling long-running operations](https://haroen.me/presentations/en/canceling-async)
 - https://medium.com/edge-coders/why-are-promises-better-than-callbacks-c16f8ff1ae1e
 - [Dev w/ Dan: Live refactoring using Functional Promises](https://youtu.be/CnJdzMF6GTo)
+- https://twitter.com/sebmarkbage/status/1237943285223546886
 
 ### async await
 

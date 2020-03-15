@@ -20,6 +20,7 @@
 - https://github.com/tanhauhau/tanhauhau.github.io/blob/dev/content/notes/2019-09-17%20-%20git.md
 - https://lihautan.com/git-gudder
 - https://github.com/git-tips/tips
+- https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow
 
 ### VS Code
 
@@ -104,6 +105,7 @@
 - https://hashrocket.com/blog/posts/generate-images-for-instagram
 - Crop a single image to a certain aspect ratio in ImageMagick (7.0+): [tweet](https://twitter.com/danburzo/status/1222441121051267073) + [repo](https://github.com/danburzo/toolbox/blob/master/imagemagick.md)
 - https://github.com/aviaryan/awesome-no-login-web-apps
+- [What's so hard about PDF text extraction?](https://www.filingdb.com/pdf-text-extraction)
 
 ### Books
 
@@ -176,3 +178,7 @@
 - https://buttondown.email/swap/archive
 - https://buttondown.email/devon/archive
 - [Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
+
+### Remote working
+
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide)
