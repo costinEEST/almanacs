@@ -3,6 +3,7 @@
 - https://www.ldeming.com/how-to-help
 - [Biology Is Technology: The Promise, Peril, and New Business of Engineering Life](https://www.amazon.com/Biology-Technology-Promise-Business-Engineering/dp/0674060156)
 - https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078 + [Human Behavioral Biology (Robert Sapolsky)](https://www.youtube.com/playlist?list=PL150326949691B199)
+- http://index-of.co.uk/Bio-Informatics
 
 ### Courses
 
