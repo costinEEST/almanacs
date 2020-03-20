@@ -202,6 +202,7 @@
 ### async await
 
 - Fast and maintainable patterns for fetching from a database: [tweet](https://twitter.com/sophiebits/status/1212555591056424960) + [blog post](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
+- https://github.com/Lemoncode/async-javascript-fundamentals
 
 ### JSON.parse()
 
@@ -297,6 +298,8 @@
 - [Transforms PDF, Documents and Images into Enriched Structured Data.](https://github.com/axa-group/Parsr)
 - [App that can do graphical editing of JSON files around 400MB?](https://twitter.com/deirdresm/status/1220144794669699183)
 - [A very compact representation of a placeholder for an image.](https://github.com/woltapp/blurhash/tree/master/TypeScript)
+- [If you ever modify files in your node_modules ..](https://twitter.com/hackergrrl/status/1240807846570127360)
+- Clean up all node_modules in projects - [tweet](https://twitter.com/swyx/status/1064672618450579457) + [gist](https://gist.github.com/zephraph/9169b9de4568b858f4b0e45fc41218b7)
 
 ### Maps
 

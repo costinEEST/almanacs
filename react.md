@@ -11,6 +11,7 @@
 - https://github.com/mfrachet/create-frontend-framework
 - https://github.com/fpereiro/reactnotes
 - https://github.com/dasmata/workshop-react-2019
+- https://github.com/Lemoncode/react-lab-sessions
 
 ### Boilerplate
 
@@ -38,6 +39,7 @@
 - [React Hooks — 👍](https://github.com/streamich/react-use)
 - https://github.com/at0g/hooks
 - https://github.com/latviancoder/hooks-by-example
+- https://github.com/Lemoncode/react-hooks-by-example
 - https://beautifulinteractions.github.io/beautiful-react-hooks
 - https://github.com/mfrachet/use-socketio
 - [Avoid race condition](https://twitter.com/BenLesh/status/1220019348133294080)
@@ -50,6 +52,7 @@
 - https://tobea.dev/post/global-state-cleanliness-with-react-context
 - https://github.com/diegohaz/awesome-react-context
 - https://twitter.com/sophiebits/status/1228942768543686656
+- https://github.com/Lemoncode/react-context-typescript
 
 ### Components
 
@@ -76,6 +79,7 @@
 - [Advanced memoization and effects in React.](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
 - [Accept `children` as a function (a.k.a. render props) and `as` prop](https://twitter.com/diegohaz/status/1236383871580717056)
 - https://alligator.io/react/keep-react-fast
+- https://github.com/Lemoncode/render-props-typescript
 
 ### Concurrent Mode/Suspense
 
@@ -114,6 +118,7 @@
 - https://masteringnextjs.com
 - https://github.com/mavropalias/Hero35
 - [react-suspense-router in SSR.](https://twitter.com/dai_shi/status/1226884015669399559)
+- https://twitter.com/benawad/status/1239615944298815488
 
 ### State management
 
@@ -143,8 +148,8 @@
 
 ### Debugging
 
+- [Application Performance](https://www.youtube.com/playlist?list=PLWIcRrPLCdUd0VC6ah9mPKHxzpPjcm86P)
 - https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug
-- [Profiling React app rendering performance](https://youtu.be/iTrCNz1gRt0)
 - https://houssein.me/progressive-react
 
 ### Demos
@@ -172,7 +177,10 @@
 - [Jest - A-Z by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQriFZkYhvhy1KFM21-l7VyL-)
 - [Test-Driven Development in React](https://www.youtube.com/playlist?list=PLXXnezSEtvNMlfJFd1Z2wilxymcOaVl9Q)
 - https://swizec.com/blog/mocking-and-testing-fetch-requests-with-jest/swizec/9338
+- https://github.com/Lemoncode/react-testing-by-example
+- [Repository to learn BDD and e2e using cypress ](https://github.com/Lemoncode/cypress-by-example)
 
 ### Tooling
 
 - [tsc --watch nodemon dist/src/index.js](https://twitter.com/benawad/status/1211700652549779456)
+- https://github.com/Lemoncode/react-typescript-samples
