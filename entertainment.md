@@ -154,6 +154,8 @@
 
 - [Can anyone suggest a Guitar for beginners?](https://twitter.com/divyanshub024/status/1212427300345503744)
 - https://noncombatant.org/2014/11/16/valuemusic-16-nov-2014-guitar-mania
+- https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9
+- [The musical time machine](https://radiooooo.com)
 
 ### Skateboarding
 

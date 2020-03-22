@@ -26,6 +26,7 @@
 - [9 Fitness and Health Gift Ideas 2020](https://youtu.be/G9n51Xtcm_A)
 - [nRF52/nRF51 Fitness Trackers & Smartwatches Reverse Engineered for use as a Wearable Device Development Platform.](https://github.com/curtpw/nRF5x-device-reverse-engineering)
 - https://www.nearform.com/blog/banglejs-oss-open-health-wearables-js-tensorflow 
+- https://www.carryology.com/liking/industry/human-interface-a-guide-to-backpack-harness-innovation
 
 ### Recording
 
@@ -33,4 +34,4 @@
 
 ### Miscellaneous
 
-- https://gedd.ski/post/favorite-gear/
+- https://gedd.ski/post/favorite-gear

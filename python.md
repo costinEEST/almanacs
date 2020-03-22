@@ -12,6 +12,10 @@
 - [Getting Started Neo4j with Python (For Complete Beginners)](<https://github.com/ybaktir/neo4ds/blob/master/Getting%20Started%20Neo4j%20with%20Python%20(For%20Complete%20Beginners).ipynb>)
 - Interactive Structure and Interpretation of Computer Programs: [repo](https://github.com/IIIIllllIIIIllllIIIIllllIIIIllllIIIIll/isicp) + [site](http://www.xuanji.li/isicp)
 
+### References
+
+- https://github.com/gto76/python-cheatsheet
+
 ### Networking
 
 - https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks
@@ -41,6 +45,7 @@
 - [Animation engine for explanatory math videos.](https://github.com/3b1b/manim)
 - [Matt's Let's Encrypt Automation](https://github.com/mattsta/lematt)
 - [Replacing netstat's 90s C Code With Modern Python](https://matt.sh/netmatt)
+- [How to use Jupyter Notebooks in 2020.](https://ljvmiranda921.github.io/notebook/2020/03/06/jupyter-notebooks-in-2020)
 
 ### Boots
 

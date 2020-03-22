@@ -114,6 +114,8 @@
 
 - [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
 - https://www.twilio.com/blog/open-source-video-apps-reactjs-ios-android
+- [A multi-platform open-source video conferencing system.](https://jitsi.org) + https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian
+- [OpenVidu is an open-source project under Apache 2.0 license built on top of WebRTC.](https://openvidu.io)
 
 ### Canvas
 
@@ -173,6 +175,10 @@
 
 - [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
 
+### new ArrayBuffer()
+
+- [Is there a way to compress an array buffer in js in the browser those days without having a pure js implementation (by using browser)?](https://twitter.com/Vjeux/status/1239176661133742083)
+
 ### Array.prototype.reduce()
 
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
@@ -198,6 +204,7 @@
 - https://medium.com/edge-coders/why-are-promises-better-than-callbacks-c16f8ff1ae1e
 - [Dev w/ Dan: Live refactoring using Functional Promises](https://youtu.be/CnJdzMF6GTo)
 - https://twitter.com/sebmarkbage/status/1237943285223546886
+- https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript
 
 ### async await
 
@@ -228,6 +235,10 @@
 
 - https://twitter.com/rauschma/status/1218579324976140288
 - https://dmitripavlutin.com/swap-variables-javascript/#4-bitwise-xor-operator
+
+### optional chaining operator
+
+- https://www.ksharifbd.com/blog/optional-chaining-and-nullish-coalescing-operators-what-why-and-how
 
 ### new MutationObserver()
 
@@ -301,6 +312,7 @@
 - [A very compact representation of a placeholder for an image.](https://github.com/woltapp/blurhash/tree/master/TypeScript)
 - [If you ever modify files in your node_modules ..](https://twitter.com/hackergrrl/status/1240807846570127360)
 - Clean up all node_modules in projects - [tweet](https://twitter.com/swyx/status/1064672618450579457) + [gist](https://gist.github.com/zephraph/9169b9de4568b858f4b0e45fc41218b7)
+- [Uppload is a better JavaScript image uploader with 30+ plugins](https://github.com/elninotech/uppload)
 
 ### Maps
 

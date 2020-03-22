@@ -23,6 +23,7 @@
 ### RaspberryPI
 
 - https://hackclub.com/workshops/choose_your_pi
+- https://qmacro.org/2020/03/22/starting-out-with-raspberry-pi-experiments
 - https://github.com/e1ioan/RaspberryPi-AxisYoutubeStreaming
 - https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server 
 - https://snikt.net/blog/2019/06/22/building-an-lte-access-point-with-a-raspberry-pi 

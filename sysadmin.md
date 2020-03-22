@@ -18,6 +18,7 @@
 - [Container networking](https://twitter.com/b0rk/status/1232800388404760581)
 - https://github.com/Lemoncode/Docker-for-Windows
 - https://hackarandas.com/blog/2020/03/17/hacking-docker-remotely
+- https://www.jeffgeerling.com/blog/2020/be-careful-docker-might-be-exposing-ports-world
 
 ### Kubernetes
 
@@ -54,6 +55,7 @@
 - [Building a Continuous Integration & Deployment Pipeline Using Docker (CI/CD)](https://www.taniarascia.com/continuous-integration-pipeline-docker)
 - [How to Setup and Deploy by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQrhICMaBrN0aNOrECA_RTUs-)
 - https://devforth.io/blog/step-by-step-guide-to-modern-secure-ci-setup
+- https://www.freecodecamp.org/news/metrics-driven-development
 
 ### Site Reliability Engineering
 

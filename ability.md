@@ -34,6 +34,8 @@
 - [The Untethered Soul](https://twitter.com/russshanahan/status/1206578615758053376)
 - [Levels of Energy by Frederick Dodson. ](https://twitter.com/remouherek/status/1206564103994662912)
 - Can't Hurt Me. Master Your Mind and Defy the Odds: [hardcover](https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287) + [podcast](https://youtu.be/5tSTk1083VY)
+- [Transactional Analysis with Dave Spenceley](http://www.psihoterapieat.ro)
+- https://www.nlp-institutes.net/daniel-bichis
 
 ### Emotional intelligence
 

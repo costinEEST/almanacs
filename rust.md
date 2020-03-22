@@ -35,3 +35,4 @@
 - https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
 - https://thesquareplanet.com/blog/the-path-to-rust
 - [Why Rust is awesome?](https://gioyik.com/s/rust-increible-devfest)
+- https://christine.website/blog/how-i-start-rust-2020-03-15

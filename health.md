@@ -90,7 +90,7 @@
 
 ### Viruses
 
-- https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com
+- https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
 
 ### Tools

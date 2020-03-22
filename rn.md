@@ -35,6 +35,8 @@
 - https://twitter.com/Baconbrix/status/1230406673669378048 + https://snack.expo.io/@bacon/app-store-elements
 - https://academy.infinite.red/p/installing-react-native-tutorial-on-macos
 - https://zenorocha.com/the-technology-stack-i-used-to-build-my-first-mobile-app
+- https://thoughtbot.com/blog/best-practices-while-developing-a-react-native-app
+- https://foxbox.com/blog/react-native-getting-started
 
 
 ### Debugging
@@ -44,6 +46,7 @@
 ### Performance
 
 - https://medium.com/better-programming/4-lesser-known-performance-tips-to-improve-user-experience-in-react-native-apps-6f2dc8c45623
+- https://bullet-train.io/blog/react-native-performance-monitor
 
 
 ### Applications

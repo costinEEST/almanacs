@@ -36,6 +36,7 @@
 - [Restart TS server](https://twitter.com/BenLesh/status/1234877859589709826)
 - https://kortina.nyc/essays/suping-up-vs-code-as-a-markdown-notebook
 - [A VS Code extension for visualizing data structures while debugging.](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
+- https://www.stevefenton.co.uk/2020/03/easy-api-testing-with-rest-client-extension-for-visual-studio-code
 
 ### Vim
 
@@ -69,6 +70,7 @@
 - [Get the number of cores on a machine.](https://twitter.com/ReplicaJune/status/1212645946867228672)
 - [You can get a site's html and all of the page's dependencies with a single wget command.](https://twitter.com/philhawksworth/status/1214942635300982785)
 - [A command that will copy files from one directory to another and if there are two files with the same name it will rename it.](https://twitter.com/kentcdodds/status/1215744921287589888)
+- wget -m -np -c -U "gimme" -R "index.html*" "http://index-of.es/EBooks/"
 
 ### Mac
 

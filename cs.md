@@ -87,3 +87,4 @@
 - [History of Science - Development of Algorithms](https://cgi.csc.liv.ac.uk/~ped/teachadmin/histsci/content.html)
 - https://github.com/vicoyeh/One-Click-to-Be-Pro
 - https://github.com/kylelobo/The-Documentation-Compendium
+- https://blog.jessfraz.com/post/the-life-of-a-data-byte

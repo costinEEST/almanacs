@@ -78,7 +78,6 @@
 - [render prop](https://twitter.com/aweary/status/1217487206320730114)
 - [Advanced memoization and effects in React.](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
 - [Accept `children` as a function (a.k.a. render props) and `as` prop](https://twitter.com/diegohaz/status/1236383871580717056)
-- https://alligator.io/react/keep-react-fast
 - https://github.com/Lemoncode/render-props-typescript
 
 ### Concurrent Mode/Suspense
@@ -91,6 +90,7 @@
 ### Lazy
 
 - [You can preFetch lazy loaded React components](https://twitter.com/housecor/status/1200554167644966912)
+- [I have more than 600 routes with lazy chunks ..](https://twitter.com/HoracioSystem/status/1239912711577899011)
 
 ### Routing
 
@@ -107,6 +107,7 @@
 - https://github.com/jbranchaud/awesome-react-design-systems
 - https://github.com/kettanaito/atomic-layout
 - [Virtual DOOM is a first-person 3D demo that uses the DOM as its render engine.](https://github.com/ath92/virtual-doom)
+- [From @emotioncss to @tailwindcss](https://twitter.com/kentcdodds/status/1240420669965271040)
 
 ### Server side rendering
 
@@ -132,6 +133,7 @@
 - https://github.com/brucou/movie-search-app
 - [XState presentation notes.](https://gist.github.com/fernandocortez/5e77d05e3866eccf0f8b371193918859)
 - https://kentcdodds.com/blog/make-impossible-states-impossible
+- https://medium.com/javascript-in-plain-english/improve-your-redux-skills-by-writing-custom-middleware-32a70b9dfb25
 
 ### Packages
 
@@ -150,7 +152,9 @@
 
 - [Application Performance](https://www.youtube.com/playlist?list=PLWIcRrPLCdUd0VC6ah9mPKHxzpPjcm86P)
 - https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug
+- https://alligator.io/react/keep-react-fast
 - https://houssein.me/progressive-react
+- https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d
 
 ### Demos
 
