@@ -41,3 +41,7 @@
 ### Tools
 
 - [ Verifpal - cryptographic protocol analysis tool.](https://twitter.com/bblipp/status/1223289973836861440)
+
+### History
+
+- https://onezero.medium.com/the-untold-story-of-the-man-that-made-mainstream-encryption-possible-231c749d5005

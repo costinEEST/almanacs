@@ -34,6 +34,7 @@
 - https://arsfutura.co/magazine/deep-linking-in-react-native 
 - https://twitter.com/Baconbrix/status/1230406673669378048 + https://snack.expo.io/@bacon/app-store-elements
 - https://academy.infinite.red/p/installing-react-native-tutorial-on-macos
+- https://zenorocha.com/the-technology-stack-i-used-to-build-my-first-mobile-app
 
 
 ### Debugging

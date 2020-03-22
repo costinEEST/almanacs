@@ -3,6 +3,7 @@
 - [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
 - [How do you sync .env files (project specific) that are git-ignored between different computers?](https://twitter.com/thekitze/status/1207718292149952512)
 - [nvm install node --reinstall-packages-from=node](https://twitter.com/mtliendo/status/1215382381026316290)
+- https://www.heroku.com/podcasts/codeish/51-best-practices-in-error-handling
 
 ### Talks
 

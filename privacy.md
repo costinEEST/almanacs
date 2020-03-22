@@ -5,6 +5,7 @@
 - https://github.com/StevenBlack/hosts
 - [Important Privacy Notice from Sony Mobile to Xperia users.](https://notice.indevice.sonymobile.com/en_gb)
 - [🔒 A curated checklist of 100+ tips for protecting digital security and privacy in 2020 ](https://github.com/alulsh/personal-security-checklist)
+- https://this-pin-can-be-easily-guessed.github.io/index.html
 
 ### Software
 

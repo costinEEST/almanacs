@@ -106,6 +106,7 @@
 - Crop a single image to a certain aspect ratio in ImageMagick (7.0+): [tweet](https://twitter.com/danburzo/status/1222441121051267073) + [repo](https://github.com/danburzo/toolbox/blob/master/imagemagick.md)
 - https://github.com/aviaryan/awesome-no-login-web-apps
 - [What's so hard about PDF text extraction?](https://www.filingdb.com/pdf-text-extraction)
+- [How to Enable VLC's Best Hidden Features](https://lifehacker.com/the-best-hidden-features-of-vlc-1654434241)
 
 ### Books
 

@@ -53,6 +53,7 @@
 ### Security
 
 - [Got a shit shell?](https://twitter.com/Random_Robbie/status/1204041222542807043)
+- https://github.com/justinsteven/advisories/blob/master/2020_visual_studio_code_python_pythonpath_code_execution.md
 
 ### Standard library
 

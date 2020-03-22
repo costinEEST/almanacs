@@ -18,6 +18,7 @@
 - Tunneling traffic through MySQL service (or your mysqld is my new SOCKS5): [tweet](https://twitter.com/TheXC3LL/status/1203432035353845760) + [blog post](https://x-c3ll.github.io/posts/Pivoting-MySQL-Proxy/)
 - [Exploiting misconfigured firebase databases](https://github.com/Turr0n/firebase) + http://ghostlulz.com/google-exposed-firebase-database
 - https://medium.com/@knownsec404team/mysql-client-arbitrary-file-reading-attack-chain-extension-727bb63f578c
+- [Executing Python inside MSSQL using sp_execute_external_script](https://gist.github.com/james-otten/63389189ee73376268c5eb676946ada5)
 
 ### TV
 
