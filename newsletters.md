@@ -1,3 +1,11 @@
+### Accessibility
+
+- [T12t](https://us14.campaign-archive.com/home/?u=23907132d7bd3ae259858b057&id=b8c09bd7b1)
+
+### Business
+
+- [Sergiu Biriș](https://us20.campaign-archive.com/home/?u=7fc44f22e7fb41560c5ec4a08&id=e046ca20a2)
+
 ### Design
 
 - [Design Sprint Newsletter by Jake Knapp](https://www.getrevue.co/profile/designsprint)

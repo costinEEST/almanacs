@@ -48,6 +48,7 @@
 - https://www.youtube.com/user/ControlLectures/playlists
 - https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA/playlists
 - [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
+- [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg/videos)
 
 ### Miscellaneous
 

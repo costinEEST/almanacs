@@ -93,6 +93,7 @@
 - https://gist.github.com/willurd/5720255#gistcomment-3142965
 - https://www.slideshare.net/Codemotion/paulo-lopes-10-things-i-learned-making-the-fastest-js-server-runtime-in-the-world-codemotion-amsterdam-2019
 - [MyDrive is an Open Source Cloud Server (Similar To Google Drive), built with Node.JS, Express, React, and MongoDB.](https://github.com/subnub/myDrive)
+- [Visualizing data from your Node JS app with Prometheus + Grafana](https://sergeypotekhin.com/visualizing-data-from-the-node-js-app)
 
 ### Authentication
 

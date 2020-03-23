@@ -3,6 +3,7 @@
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
 - [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html)
 - [Build a Feed Reader in Python](https://www.youtube.com/playlist?list=PLmxT2pVYo5LBcv5nYKTIn-fblphtD_OJO)
+- [Write yourself a Git!](https://wyag.thb.lt)
 
 ### Books
 

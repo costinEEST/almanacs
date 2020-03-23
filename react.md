@@ -152,6 +152,7 @@
 
 - [Application Performance](https://www.youtube.com/playlist?list=PLWIcRrPLCdUd0VC6ah9mPKHxzpPjcm86P)
 - https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug
+- https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f
 - https://alligator.io/react/keep-react-fast
 - https://houssein.me/progressive-react
 - https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d

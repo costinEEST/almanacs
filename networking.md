@@ -35,7 +35,7 @@
 - [Wireshark accelerator keys cheatsheet](http://syn-bit.nl/files/wireshark-v3.0-keyboard-shortcuts.pdf)
 - https://jayswan.github.io/2015/01/02/my-network-toolkit
 - [What: A terminal tool to check what is taking up your bandwidth](https://github.com/imsnif/bandwhich)
-- [Load this PCAP file in Wireshark and get more than 50 network protocols available to look at, deep-dive or debug](https://weberblog.net/the-ultimate-pcap)
+- [Load this PCAP file in Wireshark and get more than 50 network protocols available to look at, deep-dive or debug](https://weberblog.net/the-ultimate-pcap) + https://weberblog.net/wireshark-layer-2-3-pcap-analysis-w-challenges-ccnp-switch
 
 ### Routing
 
@@ -176,3 +176,4 @@
 - https://notes.eddyerburgh.me/computer-networking
 - [A short (and mostly wrong) history of computer networking](https://fasterthanli.me/blog/2019/making-our-own-ping)
 - https://blog.cloudflare.com/the-history-of-the-url
+- http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers

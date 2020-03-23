@@ -24,6 +24,7 @@
 
 - https://github.com/mm0r1/exploits
 - [From memory corruption to disable_functions bypass](https://twitter.com/binitamshah/status/1226793423014772737)
+- https://medium.com/@asdqwedev/remote-image-upload-leads-to-rce-inject-malicious-code-to-php-gd-image-90e1e8b2aada
 
 ### Miscellaneous
 

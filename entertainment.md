@@ -85,6 +85,7 @@
 - https://twitter.com/MaxCRoser/status/1208050979318439936
 - https://twitter.com/danielmamay/status/1158144437542895618
 - https://twitter.com/monicaMedHist/status/1149342569458876417
+- https://lithub.com/what-we-can-learn-and-should-unlearn-from-albert-camuss-the-plague 
 
 ### Archeology
 
