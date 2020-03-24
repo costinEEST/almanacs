@@ -85,7 +85,7 @@
 - https://twitter.com/MaxCRoser/status/1208050979318439936
 - https://twitter.com/danielmamay/status/1158144437542895618
 - https://twitter.com/monicaMedHist/status/1149342569458876417
-- https://lithub.com/what-we-can-learn-and-should-unlearn-from-albert-camuss-the-plague 
+- https://lithub.com/what-we-can-learn-and-should-unlearn-from-albert-camuss-the-plague
 
 ### Archeology
 
@@ -157,6 +157,7 @@
 - https://noncombatant.org/2014/11/16/valuemusic-16-nov-2014-guitar-mania
 - https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9
 - [The musical time machine](https://radiooooo.com)
+- [Royalty free songs](https://www.youtube.com/audiolibrary)
 
 ### Skateboarding
 
