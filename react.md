@@ -12,6 +12,7 @@
 - https://github.com/fpereiro/reactnotes
 - https://github.com/dasmata/workshop-react-2019
 - https://github.com/Lemoncode/react-lab-sessions
+- https://github.com/ReactTraining/react-router-5-course
 
 ### Boilerplate
 

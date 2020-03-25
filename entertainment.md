@@ -76,6 +76,7 @@
 - https://inquisitivebiologist.wordpress.com/2019/05/26/book-review-origins-how-the-earth-made-us + https://twitter.com/inqbiol/status/1225731427171491840
 - https://random.country
 - https://en.wikipedia.org/wiki/Down_Under_(book)
+- https://www.outsideonline.com/2404906/backpacking-outdoor-maps-guide
 
 ### History
 
@@ -86,6 +87,10 @@
 - https://twitter.com/danielmamay/status/1158144437542895618
 - https://twitter.com/monicaMedHist/status/1149342569458876417
 - https://lithub.com/what-we-can-learn-and-should-unlearn-from-albert-camuss-the-plague
+
+### Mithology
+
+- [Greek mythology](https://www.theoi.com)
 
 ### Archeology
 
