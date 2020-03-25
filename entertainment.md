@@ -18,15 +18,6 @@
 
 - [Out on the Wire: The Storytelling Secrets of the New Masters of Radio](https://www.amazon.com/dp/0385348436)
 
-### Movies
-
-- [The Farewell (2019)](https://twitter.com/ourobororoboruo/status/1211559669094699009)
-- https://github.com/philsturgeon/awesome-earth#documentaries
-- https://www.youtube.com/user/CaptainDisillusion/playlists
-- https://www.youtube.com/user/everyframeapainting/playlists
-- https://www.youtube.com/user/engineerguyvideo/playlists
-- [Collection of 8000+ publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
-
 ### Board games
 
 - https://www.amazon.com/Holstee-Reflection-Cards-Connections-Conversations/dp/B07JM14W5L
@@ -55,10 +46,14 @@
 - https://www.theatlantic.com/entertainment/archive/2020/01/the-witcher-is-absurd-thats-why-its-brilliant/604297
 - [Learn about various sci-fi and fantasy worlds and their specific mechanics (money, politics, culture, climate etc) without having to read the entire novel?](https://twitter.com/anthilemoon/status/1221955242272706561)
 - [The Starship and the Canoe by Kenneth Brower](https://twitter.com/vgr/status/1234714328994988035)
+- [F. Scott Fitzgerald - Marele Gatsby](https://humanitas.ro/assets/pdf/F-Scott-Fitzgerald_Marele-Gatsby.pdf)
+- [James Joyce - Portret al artistului la tinerete](https://humanitas.ro/assets/pdf/James-Joyce_Portret-al-artistului.pdf)
 
 ### Sociology
 
 - https://jumunteanu.wordpress.com/2014/01/17/7-carti-pentru-relationisti-sau-pentru-cei-interesati-in-psihologia-maselor-si-manipularea-acestora-prin-mijloacele-de-comunicare-4 + https://www.academia.edu/20833296/02._Edward_Bernays_-_Cristalizarea_opiniei_publice
+
+
 
 ### Christianity
 
@@ -111,6 +106,11 @@
 - https://www.youtube.com/user/gbisadler/playlists
 - [Alain de Botton - The Consolations of Philosophy](https://www.youtube.com/playlist?list=PLxRuhrcSjnv2weFRcqOeCpk4Wy7_hay2j)
 - [What is Creativity? by Philosophy Tube](https://www.youtube.com/playlist?list=PLvoAL-KSZ32e_YiWc3ButEMXx3KuSa8kL)
+- [Friedrich Nietzsche - Ecce homo](https://humanitas.ro/assets/pdf/Friedrich-Nietzsche_Ecce-homo.pdf)
+- [Sfântul Augustin, Despre minciună](https://humanitas.ro/assets/pdf/Sfantul-Augustin_Despre-minciuna.pdf)
+- [G.K. Chesterton - Ereticii](https://humanitas.ro/assets/pdf/G-K-Chesterton_Ereticii.pdf)
+- [Platon - Phaidon](https://humanitas.ro/assets/pdf/Platon_Phaidon.pdf)
+- [Platon - Theaitetos](https://humanitas.ro/assets/pdf/Platon_Theaitetos.pdf)
 
 ### Qabalah
 
@@ -155,14 +155,6 @@
 - [The children of the turning point](https://vimeo.com/24124392)
 - https://peregristorii.wordpress.com/2020/01/11/carti-bune-citite-in-anul-2019
 - https://cscott.net/Books/#communism
-
-### Music
-
-- [Can anyone suggest a Guitar for beginners?](https://twitter.com/divyanshub024/status/1212427300345503744)
-- https://noncombatant.org/2014/11/16/valuemusic-16-nov-2014-guitar-mania
-- https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9
-- [The musical time machine](https://radiooooo.com)
-- [Royalty free songs](https://www.youtube.com/audiolibrary)
 
 ### Skateboarding
 

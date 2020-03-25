@@ -87,36 +87,6 @@
 
 - [Functions that will give you a feeling of how machines can actually "learn"](https://github.com/trekhleb/nano-neuron)
 
-### Audio
-
-- [Turn your browser into an audio recorder.](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
-- https://github.com/willianjusten/awesome-audio-visualization
-- https://divu.in/music-theory-and-generation-13965ba83eb9
-- http://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4 + https://open.spotify.com/playlist/27Ga7s7D4lFUWhZQZ8heqM
-- [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
-- [FATpick is the tab player that listens.](https://www.fatpick.com/learn-to-play-guitar)
-- [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
-- https://hilarymason.com/2017/02/17/bad-idea-fridays-an-app-for-talking-to-myself
-- https://www.amazon.com/How-Listen-Jazz-Ted-Gioia/dp/0465060897
-- [Technology Connections](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q/playlists)
-- [Sound by Tech Ingredients](https://www.youtube.com/playlist?list=PLzrI14lOlSqeCgDH9zJb-qRKem9fTT2Tj)
-- [Why analog audio within the accepted limits of human hearing (20 Hz to 20 kHz) can be reproduced with perfect fidelity using a 44.1 kHz 16 Bit digital signal.](https://youtu.be/cIQ9IXSUzuM)
-- [Marty Music](https://www.youtube.com/channel/UCmnlTWVJysjWPFiZhQ5uudg/playlists)
-- [Signals Music Studio](https://www.youtube.com/channel/UCRDDHLvQb8HjE2r7_ZuNtWA/playlists)
-- [Music: a Mathematical Offering](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
-- https://www.dkthehuman.com/music-apps
-- https://wiki.nikitavoloboev.xyz/music
-- https://github.com/tholman/binary-music-player
-- [The Third Ear by Joachim-Ernst Berendt.](https://twitter.com/sivers/status/1219343046636077062)
-- [Audio over Bluetooth](https://twitter.com/binitamshah/status/1226789575797833730)
-
-### Video
-
-- [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
-- https://www.twilio.com/blog/open-source-video-apps-reactjs-ios-android
-- [A multi-platform open-source video conferencing system.](https://jitsi.org) + https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian
-- [OpenVidu is an open-source project under Apache 2.0 license built on top of WebRTC.](https://openvidu.io)
-
 ### Canvas
 
 - https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript
@@ -256,6 +226,7 @@
 - [JavaScript Regular expressions made easy.](https://github.com/VerbalExpressions/JSVerbalExpressions)
 - [Tokenizer with built-in error-handling.](https://twitter.com/RReverser/status/1237493010935558144)
 - https://portswigger.net/daily-swig/blind-regex-injection-theoretical-exploit-offers-new-way-to-force-web-apps-to-spill-secrets
+- [Re-implementation of ECMA-262 (JavaScript) RegExp](https://github.com/MakeNowJust/rerejs)
 
 ### new Worker()
 

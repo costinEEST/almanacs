@@ -7,6 +7,7 @@
 - [A isometric city builder in JavaScript.](https://github.com/victorqribeiro/isocity)
 - [SQL Murder Mystery](https://mystery.knightlab.com)
 - https://github.com/elliot-nelson/elliot-nelson.github.io/blob/master/js13k.md
+- https://www.fastcompany.com/90470524/how-scientists-are-crowdsourcing-a-coronavirus-vaccine
 
 ### Mobile based
 

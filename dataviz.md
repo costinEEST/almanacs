@@ -32,6 +32,7 @@
 - [Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.](https://github.com/esnet/react-network-diagrams)
 - [Everyone is doing storytelling apps, scrollytelling, storymaps type apps.](https://twitter.com/KiriCarini/status/1222196646957633537)
 - https://github.com/Lemoncode/d3js-typescript-examples
+- https://github.com/willianjusten/awesome-audio-visualization
 
 
 ### Talks

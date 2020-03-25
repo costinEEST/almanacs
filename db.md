@@ -47,6 +47,7 @@
 
 - [SapphireDb. An alternative to Firebase](https://sapphire-db.com/start/main)
 - [A lightweight cloud firestore library for the browser.](https://github.com/samuelgozi/firebase-firestore-lite)
+- [Sync Postgres data between databases](https://github.com/ankane/pgsync)
 
 ### Key-value databases
 

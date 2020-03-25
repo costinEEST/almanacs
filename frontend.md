@@ -240,6 +240,11 @@
 - https://figma.bothrs.com
 - https://github.com/rsms/figma-plugins
 - https://github.com/thomas-lowry/figma-plugins-on-github
+- https://www.figma.com/blog/plugins-to-help-you-design-with-real-content
+
+### Tailwind
+
+- https://github.com/creativetimofficial/tailwind-starter-kit
 
 ### Miscellaneous
 

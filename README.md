@@ -74,6 +74,7 @@
 - [Swift](swift.md)
 - [System administrator](sysadmin.md)
 - [Spoken languages](tongues.md)
+- [Television](tv.md)
 - [Typescript](typescript.md)
 - [UNIX](unix.md)
 - [Virtual reality](vr.md)
@@ -81,3 +82,5 @@
 - [Web browser](browsers.md)
 - [Windows OS](win.md)
 - [WordPress](wordpress.md)
+- [Working with audio files](audio.md)
+- [Working with video files](video.md)
