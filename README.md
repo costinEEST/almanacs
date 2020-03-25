@@ -52,6 +52,7 @@
 - [Malware](malware.md)
 - [Mathematics](math.md)
 - [Mentors](mentors.md)
+- [Music](music.md)
 - [Newsletters](newsletters.md)
 - [Nim](nim.md)
 - [NodeJS](node.md)
@@ -83,4 +84,5 @@
 - [Windows OS](win.md)
 - [WordPress](wordpress.md)
 - [Working with audio files](audio.md)
+- [Working with image files](image.md)
 - [Working with video files](video.md)

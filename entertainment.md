@@ -83,9 +83,10 @@
 - https://twitter.com/monicaMedHist/status/1149342569458876417
 - https://lithub.com/what-we-can-learn-and-should-unlearn-from-albert-camuss-the-plague
 
-### Mithology
+### Mythology
 
 - [Greek mythology](https://www.theoi.com)
+- [Johann Wolfgang Goethe, Faust](https://humanitas.ro/assets/pdf/Goethe_Faust.pdf)
 
 ### Archeology
 
@@ -109,8 +110,11 @@
 - [Friedrich Nietzsche - Ecce homo](https://humanitas.ro/assets/pdf/Friedrich-Nietzsche_Ecce-homo.pdf)
 - [Sfântul Augustin, Despre minciună](https://humanitas.ro/assets/pdf/Sfantul-Augustin_Despre-minciuna.pdf)
 - [G.K. Chesterton - Ereticii](https://humanitas.ro/assets/pdf/G-K-Chesterton_Ereticii.pdf)
-- [Platon - Phaidon](https://humanitas.ro/assets/pdf/Platon_Phaidon.pdf)
 - [Platon - Theaitetos](https://humanitas.ro/assets/pdf/Platon_Theaitetos.pdf)
+- [Friedrich Nietzsche, Dincolo de bine și de rău](https://humanitas.ro/assets/pdf/Friedrich-Nietzsche_Dincolo-de-bine-si-de-rau.pdf)
+- [Platon, Banchetul sau Despre iubire](https://humanitas.ro/assets/pdf/Platon_Banchetul.pdf)
+- [Platon, Phaidros sau Despre frumos](https://humanitas.ro/assets/pdf/Platon_Phaidros.pdf)
+- [Platon - Phaidon](https://humanitas.ro/assets/pdf/Platon_Phaidon.pdf)
 
 ### Qabalah
 

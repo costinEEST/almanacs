@@ -8,3 +8,4 @@
 - [A multi-platform open-source video conferencing system.](https://jitsi.org) + https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian
 - [OpenVidu is an open-source project under Apache 2.0 license built on top of WebRTC.](https://openvidu.io)
 - https://www.notion.so/Screen-Making-WFH-Work-57df16351a884bca8027f049698eb2ce
+- [Take Remote Worker/Educator webcam video calls to the next level with OBS, NDI Tools, and Elgato Stream Deck](https://www.hanselman.com/blog/TakeRemoteWorkerEducatorWebcamVideoCallsToTheNextLevelWithOBSNDIToolsAndElgatoStreamDeck.aspx)

@@ -269,3 +269,4 @@
 - [Google just released 1,000 new images of the most gorgeous landscapes in Google Earth View](https://edition.cnn.com/2020/02/12/tech/google-earth-view-trnd/index.html)
 - https://www.hanshq.net/html-validation-with-curl.html
 - https://www.freecodecamp.org/news/what-is-cached-data
+- [The 8 best chatbot builders in 2020: For marketers, customer support, and more](https://zapier.com/blog/best-chatbot-builders)

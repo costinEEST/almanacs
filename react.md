@@ -47,6 +47,7 @@
 - https://medium.com/@david.dalbusco/create-a-react-custom-hooks-for-your-web-components-f4319bb4bc35
 - [Building an Accordion with React Hooks.](https://smellycode.com/accordion-in-reactjs)
 - [A custom React Hook for fading in any element.](https://twitter.com/gabe_ragland/status/1233135570227879936)
+- https://techblog.commercetools.com/five-practical-tips-when-using-react-hooks-in-production-990a79745229
 
 ### Context API
 

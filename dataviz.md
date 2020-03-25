@@ -65,3 +65,4 @@
 ### Miscellaneous
 
 - https://github.com/ivanreese/visual-programming-codex
+- [Data Visualization and Art Process Blogs](https://alignedleft.com/resources/process-blogs)

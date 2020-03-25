@@ -14,11 +14,16 @@
 
 ### Data visualization
 
-- https://alignedleft.com/resources/process-blogs + https://alignedleft.com/resources/data-newsletters
+- https://alignedleft.com/resources/data-newsletters
+
+### Typescript
+
+- [TypeScript Weekly from Marius Schulz](https://us14.campaign-archive.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42)
 
 ### Web development
 
 - [rendezvous with cassidoo](https://buttondown.email/cassidoo/archive)
+- [React Status](https://react.statuscode.com/issues)
 
 ### Web performance
 
