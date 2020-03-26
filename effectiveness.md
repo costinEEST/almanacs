@@ -164,15 +164,6 @@
 - https://quanticdev.com/articles/most-valuable-thing-to-learn-in-one-hour
 - https://superorganizers.substack.com/p/how-to-build-a-learning-machine
 
-### Thinking
-
-- [How to Understand Systems](https://news.ycombinator.com/item?id=19832048)
-- [Tools for thinking, and especially the future of books!](https://twitter.com/Meaningness/status/1210309788141117440)
-- [Psychology of Intelligence Analysis(see the reviews first)](https://www.amazon.com/Psychology-Intelligence-Analysis-Richards-Heuer/dp/B0016OST3O)
-- [Annie Duke – Wanna Bet? – [Invest Like the Best, EP.125]](http://investorfieldguide.com/annie)
-- https://kevindelaplante.com/029-how-to-raise-a-critical-thinker
-- https://hashrocket.com/blog/posts/planning-poker-speed-mode
-
 ### Reading
 
 - [How to Mark a Book By Mortimer J. Adler, Ph.D.](http://chuma.cas.usf.edu/~pinsky/mark_a_book.htm)

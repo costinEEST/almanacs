@@ -76,6 +76,7 @@
 - [System administrator](sysadmin.md)
 - [Spoken languages](tongues.md)
 - [Television](tv.md)
+- [Thinking](think.md)
 - [Typescript](typescript.md)
 - [UNIX](unix.md)
 - [Virtual reality](vr.md)
