@@ -12,6 +12,10 @@
 - https://github.com/razvand/linux-fundamentals + https://github.com/razvand/linux-advanced
 - Hal Pomeranz - Linux Forensics Intro: [archive.org](https://archive.org/details/HalLinuxForensics) + [torrent](https://ia801406.us.archive.org/6/items/HalLinuxForensics/HalLinuxForensics_archive.torrent)
 
+### Radio
+
+- https://ma.ttias.be/syscast/9-linux-vs-bsd
+
 ### Containers
 
 - [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)

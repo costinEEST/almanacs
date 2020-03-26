@@ -270,3 +270,4 @@
 - https://www.hanshq.net/html-validation-with-curl.html
 - https://www.freecodecamp.org/news/what-is-cached-data
 - [The 8 best chatbot builders in 2020: For marketers, customer support, and more](https://zapier.com/blog/best-chatbot-builders)
+- https://andreasbm.github.io/web-skills

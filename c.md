@@ -12,6 +12,7 @@
 ### Talks
 
 - https://github.com/hellerve/programming-talks#c
+- [Modern Memory Safety: C/C++ Vulnerability Discovery, Exploitation, Hardening](https://github.com/struct/mms)
 
 ### Radio
 

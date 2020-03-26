@@ -64,6 +64,7 @@
 - [The education of a value investor](https://twitter.com/hirwaadolphe/status/1206570768659877888)
 - [Commercial open-source software](https://twitter.com/andy_matuschak/status/1235073448105279490)
 - [Algorithmic trading (books).](https://twitter.com/infinitesimal_p/status/1241450272154693632)
+- [I want to learn about stocks and investment.](https://twitter.com/cotufa82/status/1242960305635954689)
 
 ### Economics
 

@@ -6,6 +6,7 @@
 - [Important Privacy Notice from Sony Mobile to Xperia users.](https://notice.indevice.sonymobile.com/en_gb)
 - [🔒 A curated checklist of 100+ tips for protecting digital security and privacy in 2020 ](https://github.com/alulsh/personal-security-checklist)
 - https://this-pin-can-be-easily-guessed.github.io/index.html
+- [Uncovering The CIA's Operation To Steal State Secrets](https://podcasts.apple.com/us/podcast/fresh-air/id214089682?i=1000467576663&mc_cid=0c0d31527f&mc_eid=2b9e8b6990)
 
 ### Software
 

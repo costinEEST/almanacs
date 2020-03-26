@@ -40,3 +40,4 @@
 
 - [AppSec Ezine Public Repository.](https://github.com/Simpsonpt/AppSecEzine)
 - [EdOverflow](https://us20.campaign-archive.com/home/?u=9644b6e6c0558cb3849b83293&id=daeaf4f8cc)
+- https://github.com/n00py/ReadingList/blob/master/feedly.xml

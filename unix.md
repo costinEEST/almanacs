@@ -18,3 +18,4 @@
 - [Illustrated jq tutorial](https://mosermichael.github.io/jq-illustrated/dir/content.html)
 - https://blog.balthazar-rouberol.com/text-processing-in-the-shell
 - [The most surprising Unix programs.](https://minnie.tuhs.org/pipermail/tuhs/2020-March/020664.html)
+- http://cb.vu/unixtoolbox.xhtml
