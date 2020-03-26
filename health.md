@@ -90,8 +90,12 @@
 
 ### Viruses
 
-- https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus
+- https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus +https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
+
+### Radiation
+
+- https://phibetaiota.net/2020/02/arthur-firstenberg-the-invisible-rainbow-a-history-of-electricity-and-life-radiation-sickness-explains-all-past-and-present-flu-outbreaks-including-wuhan-virus-and-radiation-sickness-on-cruise-shi + https://podcasts.apple.com/gb/podcast/progressive-commentary-hour-invisible-rainbow-being/id453549934?i=1000467436348
 
 ### Tools
 
