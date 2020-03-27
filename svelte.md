@@ -13,8 +13,12 @@
 
 - https://github.com/ryanatkn/awesome-svelte-resources
 - https://github.com/CalvinWalzel/awesome-svelte
-- [Why Svelte is our choice for a large web project in 2020.](https://github.com/feltcoop/why-svelte)
 
 ### Communities
 
 - https://github.com/sveltejs/community
+
+### Opinions
+
+- [Why Svelte is our choice for a large web project in 2020.](https://github.com/feltcoop/why-svelte)
+- https://www.ryanprior.com/posts/svelte-is-unappealing

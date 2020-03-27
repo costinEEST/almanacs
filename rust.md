@@ -36,3 +36,4 @@
 - https://thesquareplanet.com/blog/the-path-to-rust
 - [Why Rust is awesome?](https://gioyik.com/s/rust-increible-devfest)
 - https://christine.website/blog/how-i-start-rust-2020-03-15
+- [Two Years With Rust](http://brooker.co.za/blog/2020/03/22/rust.html)

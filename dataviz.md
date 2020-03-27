@@ -16,6 +16,7 @@
 
 ### Courses
 
+- https://observablehq.com/@d3/learn-d3
 - https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568
 - [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&t=18606s)
 - https://www.udemy.com/course/masteringd3js

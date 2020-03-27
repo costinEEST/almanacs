@@ -297,7 +297,8 @@
 - https://gavinr.com/arcgis-javascript-api-svelte-resources
 - https://github.com/danburzo/toolbox#geographical-data
 - https://github.com/danburzo/toolbox#mapping-1
-- https://cheeaun.com/blog/2019/02/building-busrouter-sg/
+- https://cheeaun.com/blog/2019/02/building-busrouter-sg
+- [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
 
 ### Documentation
 

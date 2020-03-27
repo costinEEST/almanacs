@@ -42,6 +42,7 @@
 
 - [Postgres is the perfect database.](https://twitter.com/Swizec/status/1232376212195966976)
 - [Postgres Explain Visualizer 2](https://github.com/dalibo/pev2)
+- [Simplify: Move Code Into Database Functions](https://sivers.org/pg)
 
 ### Real-time databases
 

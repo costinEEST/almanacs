@@ -18,6 +18,7 @@
 
 ### Botany
 
+- https://plantepedia.wordpress.com
 - http://www.editura-electra.ro/produs/ierburile-sacre-etnobotanica-magica-romaneasca
 - http://www.indefenseofplants.com/podcast/2018/11/11/ep-186-being-totally-obsessed-with-botany
 - https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant
