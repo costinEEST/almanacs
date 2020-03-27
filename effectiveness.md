@@ -22,6 +22,7 @@
 - https://github.com/git-tips/tips
 - https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow
 - https://github.com/pluralsight/git-internals-pdf
+- [Setting up Git identities](https://news.ycombinator.com/item?id=22672491)
 
 ### VS Code
 

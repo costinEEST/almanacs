@@ -2,6 +2,10 @@
 
 - [ Server Infrastructure for Global Rebellion.](https://media.ccc.de/v/36c3-11008-server_infrastructure_for_global_rebellion)
 
+### Ansible
+
+- https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-new-series-on-youtube
+
 ### Docker
 
 - Sharing SQLite databases across containers is surprisingly brilliant: [tweet](https://twitter.com/rbranson/status/1214648084761739266?) + [article](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)

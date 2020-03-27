@@ -19,3 +19,4 @@
 - https://blog.balthazar-rouberol.com/text-processing-in-the-shell
 - [The most surprising Unix programs.](https://minnie.tuhs.org/pipermail/tuhs/2020-March/020664.html)
 - http://cb.vu/unixtoolbox.xhtml
+- https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe

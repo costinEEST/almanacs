@@ -19,3 +19,7 @@
 - [How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
 - [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
 
+### Creators
+
+- https://www.dicebreaker.com/topics/richard-garfield/feature/richard-garfield-interview-making-games
+

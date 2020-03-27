@@ -39,6 +39,7 @@
 - [😷 A browser extension that puts masks on faces on the internet.](https://github.com/moklick/face-mask-browser-extension)
 - [An extension to check if .git is exposed in visited websites.](https://github.com/davtur19/DotGit)
 - [SourceKit for Safari is a browser extension for GitHub, that enables IDE features on your browser such as symbol navigator, go to definition and documentation on hover.](https://github.com/kishikawakatsumi/SourceKitForSafari)
+- [Zoom Redirector is a browser extension that transparently redirects any meeting links to use Zoom's browser based web client.](https://news.ycombinator.com/item?id=22659216)
 
 ### Bookmarklets
 

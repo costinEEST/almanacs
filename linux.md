@@ -39,3 +39,7 @@
 ### Security
 
 - [You may be vulnerable to hijacked VPN(OpenVPN/IPSec/Wireguard/etc) tunnels.](https://twitter.com/Ridgeback111/status/1202623324901302279)
+
+### Opinions
+
+- [How can a intermediate-beginner learn Unix/Linux and programming?](https://news.ycombinator.com/item?id=22649291)
