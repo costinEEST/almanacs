@@ -237,7 +237,11 @@
 
 - https://twitter.com/AdamRackis/status/1232693680873467904
 
-### SPA
+### Document Object Model
+
+- [Everything you (n)ever wanted to know about touch and pointer events](https://github.com/patrickhlauke/getting-touchy-presentation)
+
+### Single-page application
 
 - [io-ts is an integral part of building any well-behaved, robust SPA client](https://twitter.com/garybernhardt/status/1220115502162272256)
 
