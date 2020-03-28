@@ -4,6 +4,8 @@
 - https://www.youtube.com/user/CaptainDisillusion/playlists
 - https://www.youtube.com/user/everyframeapainting/playlists
 - https://www.youtube.com/user/engineerguyvideo/playlists
+- https://www.trezireainteligentei.ro/above-majestic-2018-implicatiile-unui-program-spatial-secret
+- [The Platform (2019)](https://www.facebook.com/cris.popanda/posts/3723542934354531)
 
 ### Documentaries
 

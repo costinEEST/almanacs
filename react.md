@@ -55,7 +55,7 @@
 - https://github.com/diegohaz/awesome-react-context
 - https://twitter.com/sophiebits/status/1228942768543686656
 - https://github.com/Lemoncode/react-context-typescript
-
+- [Performant, scalable, testable and resilient state management using the Context API.](https://www.vorillaz.com/the-art-of-state-management)
 ### Components
 
 - [Headless UI components](https://twitter.com/rauchg/status/1199157227677868032)

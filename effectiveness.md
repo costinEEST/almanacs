@@ -39,6 +39,7 @@
 - https://kortina.nyc/essays/suping-up-vs-code-as-a-markdown-notebook
 - [A VS Code extension for visualizing data structures while debugging.](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
 - https://www.stevefenton.co.uk/2020/03/easy-api-testing-with-rest-client-extension-for-visual-studio-code
+- [Remote Development with a Chromebook in 2020](https://www.marcolancini.it/2020/blog-remote-development-chromebook)
 
 ### Vim
 

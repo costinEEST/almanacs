@@ -31,6 +31,7 @@
 - https://github.com/jcsrb/til/tree/master/linux
 - https://nelsonslog.wordpress.com/2020/02/21/upgrading-from-an-unsupported-ubuntu
 - https://www.thegeekdiary.com/understanding-proc-meminfo-file-analyzing-memory-utilization-in-linux
+- https://diablohorn.com/2014/02/27/qp-stop-video-recording-your-command-line-i-want-to-grep-it
 
 ### Embedded
 

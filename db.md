@@ -6,6 +6,7 @@
 - [Build minimum viable admin panels quickly with just SQL](https://github.com/forbesmyester/esqlate)
 - [Analyzing node.js on GitHub with BigQuery](https://jbeckwith.com/2016/08/13/bigquery-github)
 - https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it
+- https://medium.com/@woj_ciech/leaklooker-gui-discover-browse-and-monitor-database-source-code-leaks-f4b82bbb48fe + https://github.com/woj-ciech/LeakLooker
 
 ### TIL
 

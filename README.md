@@ -61,6 +61,7 @@
 - [Perl](perl.md)
 - [PHP: Hypertext Preprocessor](php.md)
 - [Polymath](polymath.md)
+- [PowerShell](ps1.md)
 - [Privacy](privacy.md)
 - [Processing](processing.md)
 - [Progressive web applications](pwa.md)

@@ -10,6 +10,8 @@
 - [DNS on AWS](https://twitter.com/brianleroux/status/1218252704348172288)
 - https://nathandavison.com/blog/exploiting-email-address-parsing-with-aws-ses
 - [Understanding Isolates: The Future of Programming](https://twitter.com/eastdakota/status/1224555855493746688)
+- [How to run up an IoT MQTT cloud based system, including sensors, database and a website, in a short time.](https://www.hackster.io/claudiuivan1/mqtt-broker-for-real-time-data-db28d4)
+- https://www.marcolancini.it/2020/blog-mapping-moving-clouds-with-cartography
 
 ### Google Cloud
 

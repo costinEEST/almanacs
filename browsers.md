@@ -40,6 +40,8 @@
 - [An extension to check if .git is exposed in visited websites.](https://github.com/davtur19/DotGit)
 - [SourceKit for Safari is a browser extension for GitHub, that enables IDE features on your browser such as symbol navigator, go to definition and documentation on hover.](https://github.com/kishikawakatsumi/SourceKitForSafari)
 - [Zoom Redirector is a browser extension that transparently redirects any meeting links to use Zoom's browser based web client.](https://news.ycombinator.com/item?id=22659216)
+- A Chrome extension static analysis tool to help aide in security reviews: [repo](https://github.com/mandatoryprogrammer/tarnish) + [blog post](https://www.kitploit.com/2019/10/tarnish-chrome-extension-static.html)
+- https://thehackerblog.com/kicking-the-rims-a-guide-for-securely-writing-and-auditing-chrome-extensions/index.html
 
 ### Bookmarklets
 
