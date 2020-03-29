@@ -90,7 +90,7 @@
 
 ### Viruses
 
-- https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus +https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs
+- https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus + https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs + https://londonreal.tv/the-truth-behind-the-coronavirus-pandemic-covid-19-lockdown-the-economic-crash-david-icke
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
 
 ### Radiation
@@ -110,3 +110,9 @@
 - [Meal Planner for calories and macros](https://github.com/vasco3/cheff)
 - https://github.com/yetanotherchris/awesome-mindhacking#journaling
 - [SkinVision - Detect Skin Cancer. Track your Moles.](https://play.google.com/store/apps/details?id=com.rubytribe.skinvision.ac)
+
+
+### DYI
+
+- [VentilatorPAL is a high-quality but low-cost, open source ventilator that can be bought or built by anyone for a fraction of the cost of commercial ventilators.](https://freebreathing.org)
+- [Make a face mask](https://makefacemasks.com)

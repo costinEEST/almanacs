@@ -23,6 +23,8 @@
 - https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow
 - https://github.com/pluralsight/git-internals-pdf
 - [Setting up Git identities](https://news.ycombinator.com/item?id=22672491)
+- [What are some of your favorite @github tips and tricks?](https://twitter.com/jsjoeio/status/1243979940669857794)
+- https://gpanders.com/posts/creating-your-own-git-server
 
 ### VS Code
 

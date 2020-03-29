@@ -16,6 +16,7 @@
 - [Accessibility (on and off the web) by Patrick Lauke](https://www.youtube.com/playlist?list=PLA8C2C7DAACC4DC54)
 - [Accessability by Daniel Persson](https://www.youtube.com/playlist?list=PLP2v7zU48xOLvqCvx7KoA9wfu4gbWta37)
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUcrZXXM8kDBaIVx1N66ZX_p
+- https://www.a11ywithlindsey.com/blog/7-ways-tweets-more-accessible
 
 ### Radio
 

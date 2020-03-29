@@ -41,6 +41,7 @@
 ### Tools
 
 - [ Verifpal - cryptographic protocol analysis tool.](https://twitter.com/bblipp/status/1223289973836861440)
+- [padding-oracle-attacker: modern, parallel implementation in TypeScript](https://github.com/KishanBagaria/padding-oracle-attacker)
 
 ### History
 

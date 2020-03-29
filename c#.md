@@ -6,3 +6,7 @@
 ### Talks
 
 - Writing parsers in C#: [video](https://www.youtube.com/watch?v=_yz1DRNpmPo) + [slides](https://www.slideshare.net/AlexeyGolub/alexey-golub-writing-parsers-in-c-3shape-meetup)
+
+### Security
+
+- https://www.cyberark.com/threat-research-blog/thick-client-penetration-testing-methodology

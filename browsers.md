@@ -77,10 +77,16 @@ javascript: (() =>
 - https://github.com/Eloston/ungoogled-chromium
 - [Create HAR files from Chrome Debugging Protocol data.](https://github.com/sitespeedio/chrome-har)
 - [Output a video file from screenshot frames within a Chrome DevTools JSON trace file.](https://github.com/justinribeiro/devtools-to-video)
+- [This tool downloads, installs, and configures a shiny new copy of Chromium.](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/march/autochrome)
 
 ### Brave
 
 - https://rudism.com/the-brave-browser-is-brilliant
+
+### Firefox
+
+- [making Firefox stop polluting your Burp session with superfluous requests](https://www.blackhillsinfosec.com/towards-quieter-firefox) + https://twitter.com/egyp7/status/1196497265743056898
+- [An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.](https://github.com/ghacksuserjs/ghacks-user.js)
 
 ### Paywalls
 

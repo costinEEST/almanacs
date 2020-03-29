@@ -243,6 +243,7 @@
 - https://github.com/rsms/figma-plugins
 - https://github.com/thomas-lowry/figma-plugins-on-github
 - https://www.figma.com/blog/plugins-to-help-you-design-with-real-content
+- https://www.skillshare.com/classes/Streamline-your-workflow-The-efficient-UIUX-design-process-in-Figma/1199486748 
 
 ### Tailwind
 

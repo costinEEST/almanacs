@@ -85,6 +85,7 @@
 
 ### Mythology
 
+- [Mythologica](https://www.youtube.com/user/delmonikos/playlists)
 - [Greek mythology](https://www.theoi.com)
 - [Johann Wolfgang Goethe, Faust](https://humanitas.ro/assets/pdf/Goethe_Faust.pdf)
 
