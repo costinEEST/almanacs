@@ -72,6 +72,8 @@
 - [Basic Economics: A Common Sense Guide to the Economy](https://www.amazon.com/Basic-Economics-Common-Sense-Economy/dp/0465002609)
 - [Looking for a Payment Provider?](https://twitter.com/findingmarbles/status/1225524171993690114)
 - [Book recommendations for understanding financial systems?](https://news.ycombinator.com/item?id=22573204)
+- https://radu-iliescu.blogspot.com/search/label/economie
+- [E. F. Schumacher, Un îndrumar pentru cei dezorientaţi (recenzie)](https://radu-iliescu.blogspot.com/2016/05/e-f-schumacher-un-indrumar-pentru-cei.html)
 
 ### Geopolitics
 
