@@ -76,6 +76,7 @@ javascript: (() =>
 - https://github.com/jbranchaud/til#chrome
 - https://github.com/Eloston/ungoogled-chromium
 - [Create HAR files from Chrome Debugging Protocol data.](https://github.com/sitespeedio/chrome-har)
+- [Output a video file from screenshot frames within a Chrome DevTools JSON trace file.](https://github.com/justinribeiro/devtools-to-video)
 
 ### Brave
 
