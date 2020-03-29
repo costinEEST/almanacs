@@ -234,6 +234,7 @@
 ### Document Object Model
 
 - [Everything you (n)ever wanted to know about touch and pointer events](https://github.com/patrickhlauke/getting-touchy-presentation)
+- https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage
 
 ### Single-page application
 
