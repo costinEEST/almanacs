@@ -196,6 +196,7 @@
 - [How to Fix Mobile Dating Apps](https://matt.sh/fix-dating-apps)
 - [An open and organized directory of the best pieces about Product Management.](https://theproductindex.com)
 - https://alexanderell.is/posts/taking-over-my-clipboard
+- https://www.indiehackers.com/post/secret-google-ux-playbooks-e603154154
 
 ### Performance
 
@@ -243,7 +244,7 @@
 - https://github.com/rsms/figma-plugins
 - https://github.com/thomas-lowry/figma-plugins-on-github
 - https://www.figma.com/blog/plugins-to-help-you-design-with-real-content
-- https://www.skillshare.com/classes/Streamline-your-workflow-The-efficient-UIUX-design-process-in-Figma/1199486748 
+- https://www.skillshare.com/classes/Streamline-your-workflow-The-efficient-UIUX-design-process-in-Figma/1199486748
 
 ### Tailwind
 
