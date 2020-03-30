@@ -15,9 +15,12 @@
 - https://www.sciencealert.com/researchers-transplant-lab-grown-heart-muscles-for-the-first-time
 - [Zygote Body 3D Anatomy Online Visualizer | Human Anatomy 3D](https://www.zygotebody.com)
 - [Kenhub - Learn Human Anatomy](https://www.youtube.com/user/kenHubCOM/playlists)
+- https://www.reddit.com/r/askscience/comments/fm2z8x/if_a_heart_is_a_muscle_why_doesnt_it_ever_get
+- https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work
 
 ### Botany
 
+- https://plantepedia.wordpress.com
 - http://www.editura-electra.ro/produs/ierburile-sacre-etnobotanica-magica-romaneasca
 - http://www.indefenseofplants.com/podcast/2018/11/11/ep-186-being-totally-obsessed-with-botany
 - https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant

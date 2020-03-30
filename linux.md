@@ -10,7 +10,7 @@
 
 - https://github.com/razvand/posix-system-programming
 - https://github.com/razvand/linux-fundamentals + https://github.com/razvand/linux-advanced
-- Hal Pomeranz - Linux Forensics Intro: [archive.org](https://archive.org/details/HalLinuxForensics) + [torrent](https://ia801406.us.archive.org/6/items/HalLinuxForensics/HalLinuxForensics_archive.torrent)
+- Hal Pomeranz - Linux Forensics Intro: [archive.org](https://archive.org/details/HalLinuxForensics) + [torrent](https://ia801406.us.archive.org/6/items/HalLinuxForensics/HalLinuxForensics_archive.torrent) + [oneDrive](https://onedrive.live.com/?authkey=%21AG%5FKRwGLhvEVVgM&id=83C438C3CA7085EF%211480&cid=83C438C3CA7085EF)
 
 ### Radio
 
@@ -31,6 +31,8 @@
 - https://github.com/jcsrb/til/tree/master/linux
 - https://nelsonslog.wordpress.com/2020/02/21/upgrading-from-an-unsupported-ubuntu
 - https://www.thegeekdiary.com/understanding-proc-meminfo-file-analyzing-memory-utilization-in-linux
+- https://diablohorn.com/2014/02/27/qp-stop-video-recording-your-command-line-i-want-to-grep-it
+- Linux Command Line Dojo with Hal Pomeranz: [slides](http://www.deer-run.com/~hal/CLDojo.pdf) + [video](https://www.youtube.com/watch?v=-jNkjuWMFrk)
 
 ### Embedded
 
@@ -39,3 +41,8 @@
 ### Security
 
 - [You may be vulnerable to hijacked VPN(OpenVPN/IPSec/Wireguard/etc) tunnels.](https://twitter.com/Ridgeback111/status/1202623324901302279)
+- https://github.com/ernw/hardening/blob/master/operating_system/linux/ERNW_Hardening_Linux.md
+
+### Opinions
+
+- [How can a intermediate-beginner learn Unix/Linux and programming?](https://news.ycombinator.com/item?id=22649291)

@@ -1,7 +1,3 @@
-### SSRF
-
-- [SSRF in Depth ](http://www.auxy.xyz/web%20security/2017/07/06/all-ssrf-knowledge.html)
-
 ### Patterns
 
 - https://github.com/kamranahmedse/design-patterns-for-humans
@@ -25,6 +21,7 @@
 - https://github.com/mm0r1/exploits
 - [From memory corruption to disable_functions bypass](https://twitter.com/binitamshah/status/1226793423014772737)
 - https://medium.com/@asdqwedev/remote-image-upload-leads-to-rce-inject-malicious-code-to-php-gd-image-90e1e8b2aada
+- https://www.blackarrow.net/disable-functions-bypasses-and-php-exploitation
 
 ### Miscellaneous
 

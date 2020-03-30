@@ -6,6 +6,7 @@
 - [Build minimum viable admin panels quickly with just SQL](https://github.com/forbesmyester/esqlate)
 - [Analyzing node.js on GitHub with BigQuery](https://jbeckwith.com/2016/08/13/bigquery-github)
 - https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it
+- https://medium.com/@woj_ciech/leaklooker-gui-discover-browse-and-monitor-database-source-code-leaks-f4b82bbb48fe + https://github.com/woj-ciech/LeakLooker
 
 ### TIL
 
@@ -32,6 +33,7 @@
 
 ### Books
 
+- https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work.](https://www.databass.dev/)
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/)
 - https://lethain.com/handbook-relational-db-design-on-data-modeling
@@ -42,6 +44,7 @@
 
 - [Postgres is the perfect database.](https://twitter.com/Swizec/status/1232376212195966976)
 - [Postgres Explain Visualizer 2](https://github.com/dalibo/pev2)
+- [Simplify: Move Code Into Database Functions](https://sivers.org/pg)
 
 ### Real-time databases
 

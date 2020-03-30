@@ -10,6 +10,7 @@
 ### Internals
 
 - [Understanding the bin, sbin, usr/bin , usr/sbin split.](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
+- https://toroid.org/unix-pipe-implementation
 
 
 ### CLI
@@ -19,3 +20,5 @@
 - https://blog.balthazar-rouberol.com/text-processing-in-the-shell
 - [The most surprising Unix programs.](https://minnie.tuhs.org/pipermail/tuhs/2020-March/020664.html)
 - http://cb.vu/unixtoolbox.xhtml
+- https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe
+- https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet

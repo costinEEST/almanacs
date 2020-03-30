@@ -20,3 +20,7 @@
 - [Turn your browser into an audio recorder.](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
 - https://www.dkthehuman.com/music-apps
 - https://github.com/tholman/binary-music-player
+
+### Security
+
+- [SurfingAttack: Interactive Hidden Attack on VoiceAssistants Using Ultrasonic Guided Waves](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24068.pdf)

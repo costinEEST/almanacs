@@ -45,7 +45,7 @@
 - https://shkspr.mobi/blog/2020/01/why-api-responses-should-be-signed
 - https://vasco3.gitbooks.io/hacks-n-notes/content/apis.html
 - https://github.com/danburzo/toolbox#apis
-- https://github.com/smodnix/31-days-of-API-Security-Tips + https://docs.google.com/spreadsheets/d/1jn3JnWzQFZW41gKo5Fhxwf2ke2w-pvrpCGhBmKhyIBE
+- https://github.com/smodnix/31-days-of-API-Security-Tips + https://docs.google.com/spreadsheets/d/1jn3JnWzQFZW41gKo5Fhxwf2ke2w-pvrpCGhBmKhyIBE + https://drive.google.com/file/d/1iMGqUUpaiQrEys4IOETwgxti8AiShomZ/view
 
 ### Chemistry
 

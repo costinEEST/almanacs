@@ -8,3 +8,4 @@
 - http://geemus.com/mentoring
 - https://wilsonminer.com
 - https://www.perell.com/recommendations + https://twitter.com/david_perell/status/1225454678508548096
+- https://www.afr.com/work-and-careers/leaders/15-books-ray-dalio-says-you-should-read-to-understand-today-s-world-20190916-p52rnp

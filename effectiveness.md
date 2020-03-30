@@ -22,6 +22,9 @@
 - https://github.com/git-tips/tips
 - https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow
 - https://github.com/pluralsight/git-internals-pdf
+- [Setting up Git identities](https://news.ycombinator.com/item?id=22672491)
+- [What are some of your favorite @github tips and tricks?](https://twitter.com/jsjoeio/status/1243979940669857794)
+- https://gpanders.com/posts/creating-your-own-git-server
 
 ### VS Code
 
@@ -38,6 +41,7 @@
 - https://kortina.nyc/essays/suping-up-vs-code-as-a-markdown-notebook
 - [A VS Code extension for visualizing data structures while debugging.](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
 - https://www.stevefenton.co.uk/2020/03/easy-api-testing-with-rest-client-extension-for-visual-studio-code
+- [Remote Development with a Chromebook in 2020](https://www.marcolancini.it/2020/blog-remote-development-chromebook)
 
 ### Vim
 

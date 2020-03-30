@@ -39,6 +39,9 @@
 - [😷 A browser extension that puts masks on faces on the internet.](https://github.com/moklick/face-mask-browser-extension)
 - [An extension to check if .git is exposed in visited websites.](https://github.com/davtur19/DotGit)
 - [SourceKit for Safari is a browser extension for GitHub, that enables IDE features on your browser such as symbol navigator, go to definition and documentation on hover.](https://github.com/kishikawakatsumi/SourceKitForSafari)
+- [Zoom Redirector is a browser extension that transparently redirects any meeting links to use Zoom's browser based web client.](https://news.ycombinator.com/item?id=22659216)
+- A Chrome extension static analysis tool to help aide in security reviews: [repo](https://github.com/mandatoryprogrammer/tarnish) + [blog post](https://www.kitploit.com/2019/10/tarnish-chrome-extension-static.html)
+- https://thehackerblog.com/kicking-the-rims-a-guide-for-securely-writing-and-auditing-chrome-extensions/index.html
 
 ### Bookmarklets
 
@@ -73,10 +76,17 @@ javascript: (() =>
 - https://github.com/jbranchaud/til#chrome
 - https://github.com/Eloston/ungoogled-chromium
 - [Create HAR files from Chrome Debugging Protocol data.](https://github.com/sitespeedio/chrome-har)
+- [Output a video file from screenshot frames within a Chrome DevTools JSON trace file.](https://github.com/justinribeiro/devtools-to-video)
+- [This tool downloads, installs, and configures a shiny new copy of Chromium.](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/march/autochrome)
 
 ### Brave
 
 - https://rudism.com/the-brave-browser-is-brilliant
+
+### Firefox
+
+- [making Firefox stop polluting your Burp session with superfluous requests](https://www.blackhillsinfosec.com/towards-quieter-firefox) + https://twitter.com/egyp7/status/1196497265743056898
+- [An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.](https://github.com/ghacksuserjs/ghacks-user.js)
 
 ### Paywalls
 

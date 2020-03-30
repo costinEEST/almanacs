@@ -20,6 +20,7 @@
 - https://www.forbes.com/sites/thomasbrewster/2019/12/09/are-you-one-of-avasts-400-million-users-this-is-why-it-collects-and-sells-your-web-habits
 - https://github.com/tanhauhau/tanhauhau.github.io/blob/dev/content/notes/2019-10-14%20-%20DRM%20Digital%20rights%20management.md
 - [ZOOM monitors the activity on your computer and collects data on the programs running and captures which window you have focus on.](https://twitter.com/Ouren/status/1241398181205889024)
+- [Private Kit: Safe Paths- Can we slow the spread without giving up individual privacy? ](http://safepaths.mit.edu)
 
 ### Techniques
 

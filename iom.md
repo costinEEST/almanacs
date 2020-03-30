@@ -11,6 +11,7 @@
 ### Security
 
 - [A blockchain-based DNS + HTTP server that fixes HTTPS security, and more!](https://github.com/okTurtles/dnschain)
+- https://mtlynch.io/stole-siacoins + https://decks.mtlynch.io/nerds-2020
 
 ### Bitcoin
 

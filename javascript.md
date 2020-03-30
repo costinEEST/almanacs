@@ -35,16 +35,6 @@
 
 - https://www.perimeterx.com/blog/analyzing_magecart_malware_from_zero_to_hero
 
-### Compilers
-
-- https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
-- https://github.com/jamiebuilds/the-super-tiny-compiler
-- https://github.com/zenparsing/skert
-
-### Interpreters
-
-- https://github.com/mezum/quickjs-cmake
-
 ### Patterns
 
 - https://viorel.me/2019/simple-undo-redo-functionality-in-js-using-memento
@@ -210,6 +200,10 @@
 
 - https://www.ksharifbd.com/blog/optional-chaining-and-nullish-coalescing-operators-what-why-and-how
 
+### new IntersectionObserver()
+
+- [Using the Intersection Observer web API to improve performance.](https://www.growingwiththeweb.com/2018/01/intersection-observer.html)
+
 ### new MutationObserver()
 
 - [syntax-fm-sticky-show-notes.user.js](https://gist.github.com/salembeats/8d1b73d2cf14ba012039ac844d0c79c6)
@@ -240,6 +234,7 @@
 ### Document Object Model
 
 - [Everything you (n)ever wanted to know about touch and pointer events](https://github.com/patrickhlauke/getting-touchy-presentation)
+- https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage
 
 ### Single-page application
 
@@ -272,6 +267,22 @@
 ### Virtual machines
 
 - [I want to embed an entire JS VM inside a browser.](https://twitter.com/garybernhardt/status/1212468714018242560)
+- [16-Bit Virtual Machine](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
+- https://github.com/Knevari/js-virtual-machine
+
+### Compilers
+
+- https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
+- https://github.com/jamiebuilds/the-super-tiny-compiler
+- https://github.com/zenparsing/skert
+
+### Parsers
+
+- [Parser Combinators From Scratch](https://www.youtube.com/playlist?list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU)
+
+### Interpreters
+
+- https://github.com/mezum/quickjs-cmake
 
 ### Tools
 
@@ -297,7 +308,8 @@
 - https://gavinr.com/arcgis-javascript-api-svelte-resources
 - https://github.com/danburzo/toolbox#geographical-data
 - https://github.com/danburzo/toolbox#mapping-1
-- https://cheeaun.com/blog/2019/02/building-busrouter-sg/
+- https://cheeaun.com/blog/2019/02/building-busrouter-sg
+- [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
 
 ### Documentation
 

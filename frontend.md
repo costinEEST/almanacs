@@ -107,6 +107,7 @@
 - [Geometric computation foundation for design](https://twitter.com/hyper_yolo/status/1188018751330897920)
 - [Building Beautiful UIs](https://bbuis.org)
 - https://didoesdigital.com/project/design-for-engineers
+- https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html
 
 ### Design Systems
 
@@ -221,6 +222,7 @@
 - https://mherman.org/herman-resume.json
 - https://github.com/rampatra/wedding-website
 - https://github.com/rdev/fivepointseven
+- https://weblium.com/blog/website-redesign-step-by-step-process-tips-and-examples
 
 ### Inspire
 
@@ -241,6 +243,7 @@
 - https://github.com/rsms/figma-plugins
 - https://github.com/thomas-lowry/figma-plugins-on-github
 - https://www.figma.com/blog/plugins-to-help-you-design-with-real-content
+- https://www.skillshare.com/classes/Streamline-your-workflow-The-efficient-UIUX-design-process-in-Figma/1199486748 
 
 ### Tailwind
 

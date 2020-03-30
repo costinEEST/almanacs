@@ -85,8 +85,17 @@
 
 ### Mythology
 
+- [Mythologica](https://www.youtube.com/user/delmonikos/playlists)
 - [Greek mythology](https://www.theoi.com)
 - [Johann Wolfgang Goethe, Faust](https://humanitas.ro/assets/pdf/Goethe_Faust.pdf)
+
+### Mysticism
+
+- [René Guénon](https://radu-iliescu.blogspot.com/search/label/Ren%C3%A9%20Gu%C3%A9non)
+
+### Qabalah
+
+- https://www.amazon.com/Mystical-Qabalah-Dion-Fortune/dp/1578631505
 
 ### Archeology
 
@@ -102,6 +111,10 @@
 
 - What Makes You Not a Buddhist: [review + some recommended books](https://www.goodreads.com/review/show/1820538290)
 
+### Islam
+
+- https://radu-iliescu.blogspot.com/search/label/islam
+
 ### Philosophy
 
 - https://www.youtube.com/user/gbisadler/playlists
@@ -115,10 +128,6 @@
 - [Platon, Banchetul sau Despre iubire](https://humanitas.ro/assets/pdf/Platon_Banchetul.pdf)
 - [Platon, Phaidros sau Despre frumos](https://humanitas.ro/assets/pdf/Platon_Phaidros.pdf)
 - [Platon - Phaidon](https://humanitas.ro/assets/pdf/Platon_Phaidon.pdf)
-
-### Qabalah
-
-- https://www.amazon.com/Mystical-Qabalah-Dion-Fortune/dp/1578631505
 
 ### Painting/Drawing
 
