@@ -11,6 +11,7 @@
 ### Compilers
 
 - [Want to Write a Compiler? Just Read These Two Papers.](https://prog21.dadgum.com/30.html)
+- https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html
 
 ### Courses
 
