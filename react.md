@@ -56,6 +56,8 @@
 - https://twitter.com/sophiebits/status/1228942768543686656
 - https://github.com/Lemoncode/react-context-typescript
 - [Performant, scalable, testable and resilient state management using the Context API.](https://www.vorillaz.com/the-art-of-state-management)
+
+
 ### Components
 
 - [Headless UI components](https://twitter.com/rauchg/status/1199157227677868032)
@@ -136,6 +138,7 @@
 - [XState presentation notes.](https://gist.github.com/fernandocortez/5e77d05e3866eccf0f8b371193918859)
 - https://kentcdodds.com/blog/make-impossible-states-impossible
 - https://medium.com/javascript-in-plain-english/improve-your-redux-skills-by-writing-custom-middleware-32a70b9dfb25
+- [MobX & React in 2020](https://github.com/leighhalliday/mobx2020)
 
 ### Packages
 
@@ -181,6 +184,7 @@
 
 - https://www.udemy.com/course/react-testing-with-jest-and-enzyme
 - [UI Testing with React, Mirage, Jest and Testing Library](https://youtu.be/3taVrGZVCr8)
+- [Testing React by Leigh Halliday](https://www.youtube.com/playlist?list=PL8fumNHsC-3NaPNxh2bous6bBDWwJ4r1-)
 - [Jest - A-Z by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQriFZkYhvhy1KFM21-l7VyL-)
 - [Test-Driven Development in React](https://www.youtube.com/playlist?list=PLXXnezSEtvNMlfJFd1Z2wilxymcOaVl9Q)
 - https://swizec.com/blog/mocking-and-testing-fetch-requests-with-jest/swizec/9338

@@ -8,6 +8,7 @@
 - https://www.getrevue.co/profile/designsprint/issues/three-excellent-off-the-radar-books-196694
 - [Setting the table](https://twitter.com/hyper_yolo/status/1208237487077740545)
 - https://mtlynch.io/book-reports
+- [Books that have foundationally formed your product thinking?](https://twitter.com/acoustik/status/1245119429349748736)
 
 ### Marketing
 
