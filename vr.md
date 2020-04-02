@@ -5,3 +5,7 @@
 ### Books
 
 - [Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation Spatial Computing](https://www.amazon.com/gp/product/1492044199)
+
+### People
+
+- [Fabien Bénétou](https://twitter.com/utopiah)
