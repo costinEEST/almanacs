@@ -88,7 +88,6 @@
 
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586)
 - [HTTPLeaks - All possible ways, a website can leak HTTP requests](https://github.com/cure53/HTTPLeaks)
-- [Mini HTTP guide for developers](https://news.ycombinator.com/item?id=21955953)
 - https://tldrsec.com/blog/appsec-cali-2019/#inducing-amnesia-in-browsers-the-clear-site-data-header
 - [An activity diagram to describe the resolution of HTTP response status codes, given various headers.](https://github.com/for-GET/http-decision-diagram)
 - https://textslashplain.com/2019/10/16/privacy-tweaks-limiting-referrer

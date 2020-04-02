@@ -70,10 +70,14 @@
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/karan/Projects
 
-### Miscellaneous
+### Domain-Driven Design
 
 - [A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources ](https://github.com/heynickc/awesome-ddd)
 - [A learning path about Clean Code, TDD, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture.](https://github.com/joebew42/study-path)
+- https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S + https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8 
+
+### Miscellaneous
+
 - https://swizec.com/blog/a-holiday-compsci-reading-list-for-you-%f0%9f%8e%85/swizec/9265
 - https://github.com/kdeldycke/awesome-falsehood#meta
 - https://github.com/kdeldycke/awesome-falsehood#emails
