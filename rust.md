@@ -28,6 +28,7 @@
 
 - Port scanner using the thread pool: [tweet](https://twitter.com/_tomsteele/status/1212651061611122688) + [gist](https://gist.github.com/tomsteele/338fa60b6ca2dd410f428d74e1717c1c)
 - [What Is Rust Doing Behind the Curtains?](https://endler.dev/2018/cargo-inspect)
+- [MeiliSearch: Zero-config alternative to Elasticsearch, made in Rust](https://github.com/meilisearch/MeiliSearch)
 
 ### Opinions
 

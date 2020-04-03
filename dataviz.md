@@ -62,6 +62,7 @@
 - [Life - a timeline of important events in my life](https://github.com/cheeaun/life)
 - https://blog.datawrapper.de/best-hip-hop-songs-of-all-time-visualized + https://twitter.com/sjockers/status/1206937996806754304 + https://github.com/sjockers/bbc-best-rapmusic
 - https://www.visualcapitalist.com/history-of-pandemics-deadliest
+- https://github.com/danburzo/rocoviz + https://github.com/wokalski/covid-19charts.com
 
 ### Miscellaneous
 

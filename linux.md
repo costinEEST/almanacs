@@ -1,3 +1,18 @@
+### Books
+
+- https://gumroad.com/l/gnu_awk + https://leanpub.com/gnu_awk
+
+### Courses
+
+- https://github.com/razvand/posix-system-programming
+- https://github.com/razvand/linux-fundamentals + https://github.com/razvand/linux-advanced
+- Hal Pomeranz - Linux Forensics Intro: [archive.org](https://archive.org/details/HalLinuxForensics) + [torrent](https://ia801406.us.archive.org/6/items/HalLinuxForensics/HalLinuxForensics_archive.torrent) + [oneDrive](https://onedrive.live.com/?authkey=%21AG%5FKRwGLhvEVVgM&id=83C438C3CA7085EF%211480&cid=83C438C3CA7085EF)
+
+
+### Containers
+
+- [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)
+
 ### Internals
 
 - [Linux: a Portable Operating System. Linus Torvalds's Master's Thesis (1997)](https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf)
@@ -6,19 +21,10 @@
 - https://chrisdown.name/2019/07/18/linux-memory-management-at-scale.html
 - [A book-in-progress about the linux kernel and its insides.](https://0xax.gitbooks.io/linux-insides/content)
 
-### Courses
-
-- https://github.com/razvand/posix-system-programming
-- https://github.com/razvand/linux-fundamentals + https://github.com/razvand/linux-advanced
-- Hal Pomeranz - Linux Forensics Intro: [archive.org](https://archive.org/details/HalLinuxForensics) + [torrent](https://ia801406.us.archive.org/6/items/HalLinuxForensics/HalLinuxForensics_archive.torrent) + [oneDrive](https://onedrive.live.com/?authkey=%21AG%5FKRwGLhvEVVgM&id=83C438C3CA7085EF%211480&cid=83C438C3CA7085EF)
-
 ### Radio
 
 - https://ma.ttias.be/syscast/9-linux-vs-bsd
 
-### Containers
-
-- [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)
 
 ### Tools
 

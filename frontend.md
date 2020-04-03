@@ -96,6 +96,10 @@
 - https://adamfuhrer.com/visualizing-every-pantone-color-of-the-year
 - https://www.rapidtables.com/web/color/html-color-codes.html
 
+### Branding
+
+- https://www.fastcompany.com/90125752/the-ingenious-way-tv-logos-were-made-before-computers
+
 ### Design
 
 - [Codify: Parametric and Computational Design in Landscape Architecture](https://books.google.ro/books?id=QT9ZDwAAQBAJ)
@@ -245,6 +249,7 @@
 - https://github.com/thomas-lowry/figma-plugins-on-github
 - https://www.figma.com/blog/plugins-to-help-you-design-with-real-content
 - https://www.skillshare.com/classes/Streamline-your-workflow-The-efficient-UIUX-design-process-in-Figma/1199486748
+- https://setproduct.com/blog/figma-plugins-productivity-boost
 
 ### Tailwind
 

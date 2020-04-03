@@ -61,3 +61,4 @@
 - https://github.com/wcandillon/can-it-be-done-in-react-native
 - [Full stack & cross platform app customizable & themeable for any event or conference.](https://github.com/dabit3/conference-app-in-a-box)
 - [A React Native module to interact with Apple Healthkit and Google Fit.](https://github.com/OvalMoney/react-native-fitness)
+- https://github.com/kafkas/coronamap
