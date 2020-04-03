@@ -42,7 +42,7 @@
 - [Routing by internet-class](https://www.youtube.com/playlist?list=PLk97mPCd8nvZJs7DyfPgiUDovil2K7axM)
 - https://github.com/bsclifton/home-router-config
 - https://medium.com/@cityhnet/cable-modem-jailbreaks-e98cce92698c
-- https://0x90.psaux.io/2020/03/22/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-III/
+- https://0x90.psaux.io/2020/03/22/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-III
 
 ### Telecommunications
 
@@ -60,11 +60,13 @@
 ### 5G
 
 - https://ieeetv.ieee.org/conference-highlights/integrated-access-and-backhaul-in-5g-navid-abedini-ieee-sarnoff-symposium-2019
+- https://www.cccblog.org/2020/04/01/5g-security-and-privacy-a-research-roadmap 
 
 ### IP
 
 - https://github.com/jbranchaud/til/blob/master/devops/resolve-the-public-ip-of-a-url.md + https://stackoverflow.com/a/44372558
 - https://github.com/jbranchaud/til/blob/master/devops/path-of-the-packets.md
+- https://medium.com/lotus-fruit/socket-programming-the-bizarre-tcp-ip-port-0-saga-cafc82252923
 
 ### Domain Name System
 

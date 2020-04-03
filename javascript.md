@@ -170,6 +170,7 @@
 
 - Fast and maintainable patterns for fetching from a database: [tweet](https://twitter.com/sophiebits/status/1212555591056424960) + [blog post](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
 - https://github.com/Lemoncode/async-javascript-fundamentals
+- [waitForFrame: a little async utility to wait for an animation frame](https://twitter.com/alexandereardon/status/1245870136659066882)
 
 ### JSON.parse()
 
@@ -191,14 +192,20 @@
 
 - [Map.prototype.has() instead of Object.prototype.hasOwnProperty()](https://dev.to/mfulton26/comment/j060)
 
-### xor
+### new WeakMap()
 
-- https://twitter.com/rauschma/status/1218579324976140288
+- https://chrisrng.svbtle.com/using-weakmap-for-private-properties
+
+### bitwise operators
+
+- [xor](https://twitter.com/rauschma/status/1218579324976140288)
 - https://dmitripavlutin.com/swap-variables-javascript/#4-bitwise-xor-operator
+- https://chrisrng.svbtle.com/bitwise-operators-in-javascript
 
 ### optional chaining operator
 
 - https://www.ksharifbd.com/blog/optional-chaining-and-nullish-coalescing-operators-what-why-and-how
+- https://twitter.com/AdamRackis/status/1232693680873467904
 
 ### new IntersectionObserver()
 
@@ -226,10 +233,6 @@
 
 - [Why don't we just move all JS to a web worker?](https://twitter.com/dan_abramov/status/1234297789938589696) + https://docs.google.com/document/d/1nu0EcVNC3jtmUVWL8Gs5eCj2p_984kamNhG2nS9gOC0/edit#heading=h.e6n21l1n04rc
 - [Is ServiceWorker intended to be a SharedWorker that works offline?](https://twitter.com/jlongster/status/1241010515071111168)
-
-### optional chaining
-
-- https://twitter.com/AdamRackis/status/1232693680873467904
 
 ### Document Object Model
 

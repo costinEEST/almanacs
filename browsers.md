@@ -117,6 +117,7 @@ javascript: (() =>
 - [Next level anti-debugging technique using SourceMappingURL feature](https://twitter.com/WeizmanGal/status/1207355263491149825)
 - https://github.com/nico3333fr/CSP-useful
 - https://csper.io/blog/other-csp-security
+- https://www.secjuice.com/hiding-javascript-in-png-csp-bypass + https://twitter.com/Menin_TheMiddle/status/1244325611440615426
 
 ### Exploits
 

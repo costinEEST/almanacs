@@ -51,6 +51,10 @@
 - [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
 - [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg/videos)
 
+### Mathematicians
+
+- [Évariste Galois](https://twitter.com/3blue1brown/status/1245468127061610496) + https://www.damninteresting.com/radical-solutions
+
 ### Miscellaneous
 
 - [Rocket Men by Robert Kurson](https://twitter.com/Yaz17657882/status/1206566643142258691)
