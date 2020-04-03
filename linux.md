@@ -1,6 +1,7 @@
 ### Books
 
 - https://gumroad.com/l/gnu_awk + https://leanpub.com/gnu_awk
+- https://leanpub.com/anti-reverse-engineering-linux
 
 ### Courses
 
