@@ -114,6 +114,10 @@
 - https://www.infoq.com/news/2020/01/http-3-status
 - [A QUIC look at HTTP/3](https://lwn.net/SubscriberLink/814522/ab3bfaa8f75c60ce)
 
+### Secure Shell
+
+- https://gravitational.com/blog/how-to-ssh-properly 
+
 ### Jaber
 
 - https://dino.im/blog/2020/01/dino-0.1-release
