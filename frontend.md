@@ -112,6 +112,7 @@
 - [Building Beautiful UIs](https://bbuis.org)
 - https://didoesdigital.com/project/design-for-engineers
 - https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html
+- https://briefbox.me recommended by [Thomas Lowry](https://twitter.com/negativespaceca)
 
 ### Design Systems
 
