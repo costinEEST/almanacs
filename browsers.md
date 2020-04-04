@@ -138,3 +138,4 @@ javascript: (() =>
 - [The End of Indie Web Browsers: You Can (Not) Compete.](https://news.ycombinator.com/item?id=21992050)
 - [Shareable bookmarks.](https://github.com/darekkay/static-marks)
 - https://textslashplain.com/2020/02/09/demystifying-browsers
+- https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-browsers-1

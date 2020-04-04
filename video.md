@@ -1,3 +1,7 @@
+### <video></video>
+
+- [Video Killed My Data Plan](https://docs.google.com/presentation/d/1JPBSDqCpKK1nq9Wpo-NKmXNb1ZyCUKZhcfcdkXTRAA0)
+
 ### References
 
 - [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
@@ -10,3 +14,4 @@
 - https://www.notion.so/Screen-Making-WFH-Work-57df16351a884bca8027f049698eb2ce
 - [Take Remote Worker/Educator webcam video calls to the next level with OBS, NDI Tools, and Elgato Stream Deck](https://www.hanselman.com/blog/TakeRemoteWorkerEducatorWebcamVideoCallsToTheNextLevelWithOBSNDIToolsAndElgatoStreamDeck.aspx)
 - [Which videoconference system would allow all meeting attendees to share their desktops with only the person running the meeting?](https://twitter.com/richinseattle/status/1242954077832507392)
+- https://www.scriptjunkie.us/2020/02/stream-securely-simply-and-privately-preserving-live-video-evidence + https://github.com/scriptjunkie/private-record-live

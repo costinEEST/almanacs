@@ -8,6 +8,18 @@
 - https://github.com/dakshshah96/local-cert-generator
 - [Best Practices for ACME Client Operations. Considerations for Long-Running TLS Certificate Management Software.](https://docs.https.dev/acme-ops)
 
+### Standards
+
+- [Introduction to GPG/PGP](ftp://ftp.gnupg.org/people/neal/an-advanced-introduction-to-gnupg/openpgp/openpgp.pdf) + https://twitter.com/binarymist/status/1148732727371296768
+
+### Transport Layer Security
+
+- https://github.com/trimstray/nginx-admins-handbook/blob/master/doc/SSL_TLS_BASICS.md
+- https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-certificate-authority
+- [Lessons learned running SSL/TLS at scale (FOSDEM 2016)](https://youtu.be/9Ya8H-9Hrp4)
+- https://idea.popcount.org/2012-06-16-dissecting-ssl-handshake
+- [Erik Hjelmvik - TLS Interception and Decryption](https://youtu.be/_V6tT4eP1SI)
+
 ### References
 
 - https://github.com/OpenTechFund/CryptoTerminology

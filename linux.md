@@ -10,7 +10,6 @@
 - https://github.com/razvand/linux-fundamentals + https://github.com/razvand/linux-advanced
 - Hal Pomeranz - Linux Forensics Intro: [archive.org](https://archive.org/details/HalLinuxForensics) + [torrent](https://ia801406.us.archive.org/6/items/HalLinuxForensics/HalLinuxForensics_archive.torrent) + [oneDrive](https://onedrive.live.com/?authkey=%21AG%5FKRwGLhvEVVgM&id=83C438C3CA7085EF%211480&cid=83C438C3CA7085EF)
 
-
 ### Containers
 
 - [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)
@@ -26,7 +25,6 @@
 ### Radio
 
 - https://ma.ttias.be/syscast/9-linux-vs-bsd
-
 
 ### Tools
 
@@ -50,6 +48,8 @@
 
 - [You may be vulnerable to hijacked VPN(OpenVPN/IPSec/Wireguard/etc) tunnels.](https://twitter.com/Ridgeback111/status/1202623324901302279)
 - https://github.com/ernw/hardening/blob/master/operating_system/linux/ERNW_Hardening_Linux.md
+- https://github.com/trimstray/the-practical-linux-hardening-guide
+- https://github.com/trimstray/linux-hardening-checklist
 
 ### Opinions
 

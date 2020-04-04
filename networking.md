@@ -37,6 +37,10 @@
 - [What: A terminal tool to check what is taking up your bandwidth](https://github.com/imsnif/bandwhich)
 - [Load this PCAP file in Wireshark and get more than 50 network protocols available to look at, deep-dive or debug](https://weberblog.net/the-ultimate-pcap) + https://weberblog.net/wireshark-layer-2-3-pcap-analysis-w-challenges-ccnp-switch
 
+### The Open Systems Interconnection model
+
+- https://github.com/bkimminich/it-security-lecture/blob/master/slides/01-04-network_security.md#osi-network-layer-model
+
 ### Routing
 
 - [Routing by internet-class](https://www.youtube.com/playlist?list=PLk97mPCd8nvZJs7DyfPgiUDovil2K7axM)
@@ -60,7 +64,7 @@
 ### 5G
 
 - https://ieeetv.ieee.org/conference-highlights/integrated-access-and-backhaul-in-5g-navid-abedini-ieee-sarnoff-symposium-2019
-- https://www.cccblog.org/2020/04/01/5g-security-and-privacy-a-research-roadmap 
+- https://www.cccblog.org/2020/04/01/5g-security-and-privacy-a-research-roadmap
 
 ### IP
 
@@ -88,22 +92,26 @@
 
 ### HTTP
 
+- https://github.com/trimstray/nginx-admins-handbook/blob/master/doc/HTTP_BASICS.md
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586)
 - [HTTPLeaks - All possible ways, a website can leak HTTP requests](https://github.com/cure53/HTTPLeaks)
-- https://tldrsec.com/blog/appsec-cali-2019/#inducing-amnesia-in-browsers-the-clear-site-data-header
 - [An activity diagram to describe the resolution of HTTP response status codes, given various headers.](https://github.com/for-GET/http-decision-diagram)
+
+### HTTP headers
+
+- https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-http-headers--web-linters
+- https://learning.oreilly.com/library/view/http-the-definitive/1565925092
+- https://github.com/bigcompany/know-your-http#know-your-http-headers
 - https://textslashplain.com/2019/10/16/privacy-tweaks-limiting-referrer
+- https://tldrsec.com/blog/appsec-cali-2019/#inducing-amnesia-in-browsers-the-clear-site-data-header
+- https://sites.google.com/site/testsitehacking/10k-host-header
+- https://lightningsecurity.io/blog/host-header-injection
+- [User-Agent](https://webplatform.news/issues/2020-03-19)
+- https://speakerdeck.com/triblondon/headers-for-hackers + https://www.slideshare.net/JSFestUA/js-fest-2019-andrew-betts-headers-for-hackers
 
 ### HTTPS
 
 - https://github.com/EFForg/https-everywhere
-
-### Transport Layer Security
-
-- https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-certificate-authority
-- [Lessons learned running SSL/TLS at scale (FOSDEM 2016)](https://youtu.be/9Ya8H-9Hrp4)
-- https://idea.popcount.org/2012-06-16-dissecting-ssl-handshake
-- [Erik Hjelmvik - TLS Interception and Decryption](https://youtu.be/_V6tT4eP1SI)
 
 ### HTTP2
 
@@ -118,16 +126,11 @@
 
 ### Secure Shell
 
-- https://gravitational.com/blog/how-to-ssh-properly 
+- https://gravitational.com/blog/how-to-ssh-properly
 
 ### Jaber
 
 - https://dino.im/blog/2020/01/dino-0.1-release
-
-### Host header
-
-- https://sites.google.com/site/testsitehacking/10k-host-header
-- https://lightningsecurity.io/blog/host-header-injection/
 
 ### WebSockets
 

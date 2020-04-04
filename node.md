@@ -121,6 +121,7 @@
 - https://github.com/dexteryy/spellbook-of-modern-webdev#microservices--api-services-nodejs
 - https://legacy.gitbook.com/book/geemus/http-api-design/details
 - https://obem.be/2020/02/18/mining-my-mailbox-for-top-email-service-providers.html
+- [The Web API Design Guidelines for Happy Developers](https://leanpub.com/thewebapinntux/read_full)
 
 ### Scrapping
 
