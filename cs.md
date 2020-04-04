@@ -50,6 +50,7 @@
 - [Follow best practices, then standard follow you](https://github.com/hugo53/awesome-best-practices)
 - https://www.peerlyst.com/posts/guide-for-programmers-how-to-generate-secure-random-numbers-pyotr-a-pavlensky
 - https://blog.hoangnm.com/translation/2018/09/05/note-on-system-design-series
+- https://www.freecodecamp.org/news/systems-design-for-interviews
 - https://arkwright.github.io/parallelized-decision-making.html
 - [The canonical spec for ulid](https://github.com/ulid/spec)
 - https://github.com/donnemartin/system-design-primer

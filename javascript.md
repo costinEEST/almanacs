@@ -2,6 +2,7 @@
 
 - [6 JavaScript WTFs and what to learn from them](https://dev.to/andreib123/6-javascript-wtfs-and-what-to-learn-from-them-406d)
 - [Function that prints itself (quine)](https://twitter.com/ryuhhnn/status/1212075258548834305)
+- https://blogtitle.github.io/i-am-switching-to-js + https://blogtitle.github.io/lets-talk-about-javascript
 
 ### Performance
 
@@ -131,6 +132,12 @@
 
 - [.. I just realized that default args in JS can take an expression that makes use of previous args in the argument list!](https://twitter.com/mjackson/status/1207108228921741313)
 
+### Array.prototype.reduce()
+
+- [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
+- https://twitter.com/jaffathecake/status/1213084405666910214
+- https://alexanderell.is/posts/javascript-array-reduce
+
 ### new Uint8Array()
 
 - [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
@@ -139,11 +146,9 @@
 
 - [Is there a way to compress an array buffer in js in the browser those days without having a pure js implementation (by using browser)?](https://twitter.com/Vjeux/status/1239176661133742083)
 
-### Array.prototype.reduce()
+### new SharedArrayBuffer()
 
-- [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
-- https://twitter.com/jaffathecake/status/1213084405666910214
-- https://alexanderell.is/posts/javascript-array-reduce
+- https://blogtitle.github.io/using-javascript-sharedarraybuffers-and-atomics
 
 ### new Date()
 
@@ -171,6 +176,7 @@
 - Fast and maintainable patterns for fetching from a database: [tweet](https://twitter.com/sophiebits/status/1212555591056424960) + [blog post](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
 - https://github.com/Lemoncode/async-javascript-fundamentals
 - [waitForFrame: a little async utility to wait for an animation frame](https://twitter.com/alexandereardon/status/1245870136659066882)
+- [Wrapper for an array of promises that can fine control how to run them?](https://twitter.com/sseraphini/status/1245427739169079296)
 
 ### JSON.parse()
 
@@ -238,6 +244,7 @@
 
 - [Everything you (n)ever wanted to know about touch and pointer events](https://github.com/patrickhlauke/getting-touchy-presentation)
 - https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage
+- https://chrisrng.svbtle.com/using-url-createobjecturl
 
 ### Single-page application
 

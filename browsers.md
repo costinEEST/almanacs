@@ -42,6 +42,7 @@
 - [Zoom Redirector is a browser extension that transparently redirects any meeting links to use Zoom's browser based web client.](https://news.ycombinator.com/item?id=22659216)
 - A Chrome extension static analysis tool to help aide in security reviews: [repo](https://github.com/mandatoryprogrammer/tarnish) + [blog post](https://www.kitploit.com/2019/10/tarnish-chrome-extension-static.html)
 - https://thehackerblog.com/kicking-the-rims-a-guide-for-securely-writing-and-auditing-chrome-extensions/index.html
+- [IE Tab exactly emulates IE by using the IE rendering engine directly within Chrome.](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
 
 ### Bookmarklets
 
@@ -125,6 +126,7 @@ javascript: (() =>
 - [Browser logic vulnerabilities DB](https://github.com/Metnew/uxss-db)
 - [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://twitter.com/Qab/status/1209457592126324737)
 - [Software-based Side-Channel Attacks and Defenses in Restricted Environments (PhD thesis)](https://misc0110.net/web/files/phd_thesis.pdf)
+- https://www.ryanpickren.com/webcam-hacking + https://twitter.com/domenic/status/1245871443729985536
 
 ### Headless
 

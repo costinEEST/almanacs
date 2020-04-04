@@ -29,6 +29,7 @@
 ### Health
 
 - https://github.com/Cazaimi/circadian-api
+- [FoodData Central (FDC)](https://fdc.nal.usda.gov/about-us.html) + https://github.com/USDA/USDA-APIs/issues/92
 
 ### Geography
 

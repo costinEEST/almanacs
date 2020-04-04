@@ -11,6 +11,8 @@
 - [A poem about pronunciation.](http://www.i18nguy.com/chaos.html)
 - https://github.com/jcsrb/til/tree/master/english
 - [IATE is the European Union’s official terminology database, containing translations for words and phrases.](https://iate.europa.eu/download-iate)
+- https://rawlangs.wordpress.com/2013/04/23/ten-ways-to-learn-greek-for-free
+- https://yonatanmatanyah.wordpress.com/category/learning-hebrew
 
 ### Videos
 
@@ -21,12 +23,16 @@
 - https://www.youtube.com/user/NativLang/playlists
 - [The history of Norse Languages](https://www.youtube.com/playlist?list=PLATNGYBQ-TjrI_zstt5w13eB4IFIcuX_W)
 - https://www.youtube.com/user/GoNaturalEnglish/playlists
+- https://www.futurelearn.com/courses/explore-english-shakespeare
+- [English for Emails by British Council](https://www.youtube.com/playlist?list=PLm7J5yZ2yc3lSzvNTBA4Vssy6a2CaOjS3)
+- [#LearnALanguage – with Britain's most multilingual student by British Council](https://www.youtube.com/playlist?list=PLaALxC_iM0-YOHikUMmmV-rbSgMc9Ei1W)
 
 ### Books
 
 - [Our Magnificent Bastard Tongue: The Untold History of English.](https://www.amazon.com/Our-Magnificent-Bastard-Tongue-History/dp/1592404944)
 - [Books on Linguistics and TESOL](https://www.youtube.com/playlist?list=PLOY-0V_l_9x5zyZvaYnc-TuZjDuX-txNS)
 - https://github.com/hackerkid/Mind-Expanding-Books#language
+- https://twitter.com/IntermarkLS/status/1245449234813456385
 
 ### Applications
 

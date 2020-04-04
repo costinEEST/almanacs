@@ -42,4 +42,8 @@
 
 ### Active directory
 
-- https://identityaccess.management/2019/12/30/active-directory-security-fundamentals/
+- https://identityaccess.management/2019/12/30/active-directory-security-fundamentals
+
+### Opinions
+
+- [Windows Subsystem for Linux](https://twitter.com/n_o_t_h_a_n_k_s/status/1245345174944964608)

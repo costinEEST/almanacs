@@ -15,3 +15,4 @@
 - [Take Remote Worker/Educator webcam video calls to the next level with OBS, NDI Tools, and Elgato Stream Deck](https://www.hanselman.com/blog/TakeRemoteWorkerEducatorWebcamVideoCallsToTheNextLevelWithOBSNDIToolsAndElgatoStreamDeck.aspx)
 - [Which videoconference system would allow all meeting attendees to share their desktops with only the person running the meeting?](https://twitter.com/richinseattle/status/1242954077832507392)
 - https://www.scriptjunkie.us/2020/02/stream-securely-simply-and-privately-preserving-live-video-evidence + https://github.com/scriptjunkie/private-record-live
+- [Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.](https://github.com/popcorn-official/popcorn-desktop)
