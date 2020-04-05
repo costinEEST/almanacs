@@ -13,6 +13,7 @@
 
 - https://github.com/ryanatkn/awesome-svelte-resources
 - https://github.com/CalvinWalzel/awesome-svelte
+- https://lihautan.com/the-svelte-compiler-handbook
 
 ### Communities
 

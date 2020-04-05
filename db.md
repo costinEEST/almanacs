@@ -44,13 +44,14 @@
 
 - [Postgres is the perfect database.](https://twitter.com/Swizec/status/1232376212195966976)
 - [Postgres Explain Visualizer 2](https://github.com/dalibo/pev2)
+- [Sync Postgres data between databases](https://github.com/ankane/pgsync)
 - [Simplify: Move Code Into Database Functions](https://sivers.org/pg)
 
 ### Real-time databases
 
 - [SapphireDb. An alternative to Firebase](https://sapphire-db.com/start/main)
 - [A lightweight cloud firestore library for the browser.](https://github.com/samuelgozi/firebase-firestore-lite)
-- [Sync Postgres data between databases](https://github.com/ankane/pgsync)
+- [You've got 100k requests/minute coming in, that need to return immediately, and you need to put a record in a database for every one.](https://twitter.com/erikras/status/1246710418191646720)
 
 ### Key-value databases
 

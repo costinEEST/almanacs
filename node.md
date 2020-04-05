@@ -122,6 +122,7 @@
 - https://legacy.gitbook.com/book/geemus/http-api-design/details
 - https://obem.be/2020/02/18/mining-my-mailbox-for-top-email-service-providers.html
 - [The Web API Design Guidelines for Happy Developers](https://leanpub.com/thewebapinntux/read_full)
+- [An easy, promise based, way to test passwords securely against the Pwned Passwords API v2 in Node.](https://speakerdeck.com/philnash/fantastic-passwords-and-where-to-find-them-at-wfhconf?slide=38) + https://github.com/philnash/pwned.js
 
 ### Scrapping
 

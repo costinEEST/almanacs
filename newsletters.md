@@ -24,6 +24,7 @@
 
 ### Web development
 
+- [Harry Wolff](https://tinyletter.com/hswolff/archive)
 - [rendezvous with cassidoo](https://buttondown.email/cassidoo/archive)
 - [stefanjudis](https://tinyletter.com/stefanjudis/archive)
 - [React Status](https://react.statuscode.com/issues)

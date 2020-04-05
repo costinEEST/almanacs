@@ -104,6 +104,10 @@
 - https://github.com/you-dont-need/You-Dont-Need-Loops
 - [Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
 
+### spread/destructure operator
+
+- https://twitter.com/BenLesh/status/1240674545725513728
+
 ### Modules
 
 - [History of ES modules.](https://gist.github.com/jkrems/769a8cd8806f7f57903b641c74b5f08a)
@@ -114,6 +118,7 @@
 - [Reasons to avoid default exports](https://twitter.com/james_k_nelson/status/1215099907918295041)
 - [Differences between 〈script type=module〉and〈script〉](https://usefulangle.com/post/256/script-type-module-vs-script-javascript)
 - [You Might Not Need Webpack - With Ryan Lanciaux](https://youtu.be/KXDPESIwVVU)
+- [Is there an equivalent of process.env.NODE_ENV for browsers?](https://twitter.com/boriscoder/status/1246469107874217984)
 
 ### lexical scoping
 
@@ -137,6 +142,7 @@
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
 - https://twitter.com/jaffathecake/status/1213084405666910214
 - https://alexanderell.is/posts/javascript-array-reduce
+- https://www.matthewgerstman.com/tech/reduce-reduce-reduce
 
 ### new Uint8Array()
 

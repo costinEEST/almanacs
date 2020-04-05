@@ -90,6 +90,7 @@
 - My little React Suspense cache strategy: [tweet](https://twitter.com/ryanflorence/status/1206988974327128064) + [gist](https://gist.github.com/ryanflorence/e10cc9dbc0e259759ec942ba82e5b57c)
 - https://github.com/sw-yx/concurrent-react-notes
 - https://twitter.com/ReactEurope/status/1227924163714830337 + https://twitter.com/sseraphini/status/1228310393900216320 + https://react-europe-relay-workshop.now.sh
+- https://twitter.com/addyosmani/status/1241303537746726913
 
 ### Lazy
 
@@ -156,6 +157,7 @@
 ### Debugging
 
 - [Application Performance](https://www.youtube.com/playlist?list=PLWIcRrPLCdUd0VC6ah9mPKHxzpPjcm86P)
+- https://www.matthewgerstman.com/tech/performance-testing-anonymous-functions
 - https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug
 - https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f
 - https://alligator.io/react/keep-react-fast

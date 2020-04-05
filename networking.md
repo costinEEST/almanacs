@@ -4,6 +4,7 @@
 
 ### Videos
 
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUdM5w5thzXQdyVi_MPcktVC
 - [Nicholas Andre](https://www.youtube.com/user/mrnickandre/videos)
 - [CompTIA Network+ Certification Video Course](https://youtu.be/vrh0epPAC5w)
 - https://www.udemy.com/course/ssl-complete-guide/
@@ -102,6 +103,7 @@
 - https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-http-headers--web-linters
 - https://learning.oreilly.com/library/view/http-the-definitive/1565925092
 - https://github.com/bigcompany/know-your-http#know-your-http-headers
+- https://speakerdeck.com/stefanjudis/http-headers-for-the-responsible-developer
 - https://textslashplain.com/2019/10/16/privacy-tweaks-limiting-referrer
 - https://tldrsec.com/blog/appsec-cali-2019/#inducing-amnesia-in-browsers-the-clear-site-data-header
 - https://sites.google.com/site/testsitehacking/10k-host-header
