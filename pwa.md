@@ -1,3 +1,7 @@
+### Case studies
+
+- https://formidable.com/work/starbucks-progressive-web-app + https://realtalkjavascript.simplecast.com/episodes/episode-74-react-at-starbucks-with-cher
+
 ### Demos
 
 - [Generate a fake app to replace any addictive app](https://github.com/sandoche/Detoxify-app)
@@ -9,6 +13,8 @@
 - [PWA notes made with Svelte](https://github.com/ayndqy/notecards)
 - [A product that tells you if it is Black Friday day or not.](https://github.com/shprink/isitblackfridayyet)
 - [Gamified Meditation PWA](https://github.com/giekaton/vipassana-app)
+- [The classical thinking errors list and the CBT app.](https://github.com/giekaton/thinking-bugs)
+- https://github.com/jgw96/web-whiteboard
 
 ### Security
 

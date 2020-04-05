@@ -8,6 +8,7 @@
 - [An extremely opinionated and highly personalized script to set up a new Mac machine, just the way I like it!](https://github.com/nnja/new-computer)
 - [dotfiles](https://twitter.com/jsjoeio/status/1216921686932504576)
 - [An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)
+- [Darwin/macOS emulation layer for Linux.](https://github.com/darlinghq/darling)
 
 ### References
 

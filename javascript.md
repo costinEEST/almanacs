@@ -3,6 +3,7 @@
 - [6 JavaScript WTFs and what to learn from them](https://dev.to/andreib123/6-javascript-wtfs-and-what-to-learn-from-them-406d)
 - [Function that prints itself (quine)](https://twitter.com/ryuhhnn/status/1212075258548834305)
 - https://blogtitle.github.io/i-am-switching-to-js + https://blogtitle.github.io/lets-talk-about-javascript
+- [Setting or accessing via non-integers will set or access a variable associated with that array's object property collection.](https://twitter.com/ProvablyFlarnie/status/1243658638830362624)
 
 ### Performance
 
@@ -35,6 +36,7 @@
 ### Obfuscation
 
 - https://www.perimeterx.com/blog/analyzing_magecart_malware_from_zero_to_hero
+- [How an anti ad-blocker works: Reverse-engineering BlockAdBlock](https://xy2.dev/article/re-bab)
 
 ### Patterns
 
@@ -104,6 +106,12 @@
 - https://github.com/you-dont-need/You-Dont-Need-Loops
 - [Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
 
+### function\* () {}
+
+- https://swizec.com/blog/finally-a-practical-use-case-for-javascript-generators/swizec/9036
+- https://swizec.com/blog/advent-code-day-15-dueling-javascript-generators/swizec/7973
+- https://twitter.com/mjackson/status/1244736662875193345
+
 ### spread/destructure operator
 
 - https://twitter.com/BenLesh/status/1240674545725513728
@@ -133,7 +141,7 @@
 
 - [Evaluating JavaScript code via import()](https://2ality.com/2019/10/eval-via-import.html)
 
-### Default arguments
+### default arguments
 
 - [.. I just realized that default args in JS can take an expression that makes use of previous args in the argument list!](https://twitter.com/mjackson/status/1207108228921741313)
 
@@ -164,10 +172,6 @@
 
 - [setInterval implementation with setTimeout](https://github.com/n0ruSh/blogs/blob/master/articles/Implement%20setInterval%20with%20setTimeout.md)
 
-### fetch()
-
-- https://danlevy.net/you-may-not-need-axios
-
 ### new Promise()
 
 - [What does this code print?](https://twitter.com/Swizec/status/1206624095816699906)
@@ -176,6 +180,7 @@
 - [Dev w/ Dan: Live refactoring using Functional Promises](https://youtu.be/CnJdzMF6GTo)
 - https://twitter.com/sebmarkbage/status/1237943285223546886
 - https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript
+- https://www.blueskyonmars.com/2015/10/01/side-effects-vs-promises
 
 ### async await
 
@@ -248,9 +253,11 @@
 
 ### Document Object Model
 
+- https://danlevy.net/you-may-not-need-axios
 - [Everything you (n)ever wanted to know about touch and pointer events](https://github.com/patrickhlauke/getting-touchy-presentation)
 - https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage
 - https://chrisrng.svbtle.com/using-url-createobjecturl
+- [POST data to the server even inside onbeforeunload, etc where XHR/fetch isn't reliable.](https://twitter.com/_jayphelps/status/1244794448237735936)
 
 ### Single-page application
 

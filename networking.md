@@ -80,6 +80,7 @@
 - [cloudflare_ddns_updater](https://gist.github.com/howanghk/f955764f33bf9db7a86c)
 - https://blog.benjojo.co.uk/post/ISPs-sharing-DNS-query-data
 - https://sockpuppet.org/blog/2015/01/15/against-dnssec
+- [Maza – Like Pi-hole but local and using your operating system](https://news.ycombinator.com/item?id=22717650)
 
 ### TCP
 

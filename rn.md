@@ -7,6 +7,7 @@
 - https://github.com/dabbott/react-native-express
 - https://github.com/wix/react-native-crash-course
 - [CS50's Mobile App Development with React Native](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course)
+- https://learn.handlebarlabs.com/courses/enrolled
 
 ### Books
 
@@ -16,7 +17,6 @@
 ### Boilerplates
 
 - [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
-
 
 ### Tools
 
@@ -32,13 +32,13 @@
 - Run an app on 6 different platforms with the Exact same Codebase: [tweet](https://twitter.com/Baconbrix/status/1206583601648820224) + [talk](https://youtu.be/ykBxY01j_rA)
 - [Best way to share logic between a React web application and a React Native application?](https://twitter.com/gethackteam/status/1213527792144592896)
 - https://github.com/jbranchaud/til/blob/master/react_native/avoid-the-notch-with-safeareaview.md
-- https://arsfutura.co/magazine/deep-linking-in-react-native 
+- https://arsfutura.co/magazine/deep-linking-in-react-native
 - https://twitter.com/Baconbrix/status/1230406673669378048 + https://snack.expo.io/@bacon/app-store-elements
 - https://academy.infinite.red/p/installing-react-native-tutorial-on-macos
 - https://zenorocha.com/the-technology-stack-i-used-to-build-my-first-mobile-app
 - https://thoughtbot.com/blog/best-practices-while-developing-a-react-native-app
 - https://foxbox.com/blog/react-native-getting-started
-
+- https://twitter.com/mosdnk/status/1235607048026456064
 
 ### Debugging
 
@@ -48,7 +48,6 @@
 
 - https://medium.com/better-programming/4-lesser-known-performance-tips-to-improve-user-experience-in-react-native-apps-6f2dc8c45623
 - https://bullet-train.io/blog/react-native-performance-monitor
-
 
 ### Applications
 

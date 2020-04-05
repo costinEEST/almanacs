@@ -34,8 +34,8 @@
 
 ### Supplements
 
-- [Vitamins and minerals](https://docs.google.com/document/d/1PkVQ4A3MR8zR0YxGT1hCfGj5RavwIY6aTOkb7G-T4lU)
-- https://www.foundmyfitness.com/topics/creatine 
+- [Vitamins and minerals](https://gist.github.com/ccampean/ad8cf467626ba983b9ef6e79dd4dbf8f)
+- https://www.foundmyfitness.com/topics/creatine
 - https://www.healthline.com/nutrition/10-nutrients-you-cant-get-from-animal-foods
 - https://www.health.harvard.edu/staying-healthy/listing_of_vitamins
 - https://www.accessdata.fda.gov/scripts/interactivenutritionfactslabel/factsheets/vitamin_and_mineral_chart.pdf
@@ -90,7 +90,8 @@
 
 ### Viruses
 
-- https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus + https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs + https://londonreal.tv/the-truth-behind-the-coronavirus-pandemic-covid-19-lockdown-the-economic-crash-david-icke
+- https://formular.sts.ro + https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus + https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs + https://londonreal.tv/the-truth-behind-the-coronavirus-pandemic-covid-19-lockdown-the-economic-crash-david-icke + [CORONAVIRUS: Sfatul psihologului Daniel David
+  ](https://www.crowdcast.io/e/daniel-david-live/1)
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
 
 ### Radiation
@@ -110,7 +111,6 @@
 - [Meal Planner for calories and macros](https://github.com/vasco3/cheff)
 - https://github.com/yetanotherchris/awesome-mindhacking#journaling
 - [SkinVision - Detect Skin Cancer. Track your Moles.](https://play.google.com/store/apps/details?id=com.rubytribe.skinvision.ac)
-
 
 ### DYI
 

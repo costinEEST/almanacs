@@ -7,12 +7,13 @@
 
 - [Sergiu Biriș](https://us20.campaign-archive.com/home/?u=7fc44f22e7fb41560c5ec4a08&id=e046ca20a2)
 - [Human Finance SRL](https://us19.campaign-archive.com/home/?u=224b34ca20549631ee1243970&id=b44f21a826)
+- [David Senra](https://davidsnotes.substack.com/archive)
+- https://buttondown.email/computer-napkins/archive
 
 ### Design
 
 - [Design Sprint Newsletter by Jake Knapp](https://www.getrevue.co/profile/designsprint)
 - [matthewstrom.com](https://buttondown.email/mattstrom/archive)
-
 
 ### Data visualization
 
@@ -35,7 +36,6 @@
 
 - [Perf.mail from Calibre](https://us2.campaign-archive.com/home/?u=9067434ef642e9c92aa7453d2&id=7cba5dc7bd)
 
-
 ### Health
 
 - [Quantified Bob Updates](https://us12.campaign-archive.com/home/?u=96812e559fe41fd1b9fd55794&id=edb4b26575)
@@ -48,3 +48,4 @@
 - [EdOverflow](https://us20.campaign-archive.com/home/?u=9644b6e6c0558cb3849b83293&id=daeaf4f8cc)
 - [Pentesterland](https://us17.campaign-archive.com/home/?u=c96186f202807d5842ac45ae3&id=3a6d8d225b)
 - https://github.com/n00py/ReadingList/blob/master/feedly.xml
+- [Scott Helme](https://ifttt.com/applets/457742p-send-me-an-email-when-scott-helme-blogs)

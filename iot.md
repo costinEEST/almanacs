@@ -24,9 +24,10 @@
 
 - https://hackclub.com/workshops/choose_your_pi
 - https://qmacro.org/2020/03/22/starting-out-with-raspberry-pi-experiments
+- https://quanticdev.com/articles/raspberry-pi-guide-for-developers
 - https://github.com/e1ioan/RaspberryPi-AxisYoutubeStreaming
-- https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server 
-- https://snikt.net/blog/2019/06/22/building-an-lte-access-point-with-a-raspberry-pi 
+- https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server
+- https://snikt.net/blog/2019/06/22/building-an-lte-access-point-with-a-raspberry-pi
 - http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-04-is-that-a-wifi-sniffer-in-your-pocket-jacob-baines
 
 ### Smartwatch

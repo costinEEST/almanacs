@@ -46,12 +46,18 @@
 - [Postgres Explain Visualizer 2](https://github.com/dalibo/pev2)
 - [Sync Postgres data between databases](https://github.com/ankane/pgsync)
 - [Simplify: Move Code Into Database Functions](https://sivers.org/pg)
+- https://daniel-upton.com/articles/introduction-to-cassandra-for-sql-folk
+- https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database
 
 ### Real-time databases
 
 - [SapphireDb. An alternative to Firebase](https://sapphire-db.com/start/main)
 - [A lightweight cloud firestore library for the browser.](https://github.com/samuelgozi/firebase-firestore-lite)
 - [You've got 100k requests/minute coming in, that need to return immediately, and you need to put a record in a database for every one.](https://twitter.com/erikras/status/1246710418191646720)
+
+### In memory databases
+
+- [What is easy to do with Redis?](https://twitter.com/mattkrick/status/1245037667034624000)
 
 ### Key-value databases
 

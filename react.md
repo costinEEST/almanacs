@@ -26,6 +26,7 @@
 ### Talks
 
 - https://github.com/tiaanduplessis/awesome-react-talks
+- https://github.com/Shopee/shopee-react-knowledgeable/issues/184
 
 ### Podcasts
 
@@ -56,7 +57,6 @@
 - https://twitter.com/sophiebits/status/1228942768543686656
 - https://github.com/Lemoncode/react-context-typescript
 - [Performant, scalable, testable and resilient state management using the Context API.](https://www.vorillaz.com/the-art-of-state-management)
-
 
 ### Components
 
@@ -102,6 +102,7 @@
 - [How do I pass props to a route component?](https://twitter.com/ryanflorence/status/1206643654753783808)
 - https://github.com/hinok/react-router-last-location
 - https://medium.com/better-programming/react-router-v6-in-two-minutes-a7a2963e2340
+- [React Router v4, v5 and v6](https://www.twitch.tv/videos/580762054)
 
 ### CSS/Animations
 
@@ -181,6 +182,9 @@
 - https://github.com/phlntn/emojibuilder
 - [A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. ](https://github.com/oldboyxx/jira_clone)
 - [Winamp 2 reimplemented for the browser.](https://github.com/captbaritone/webamp)
+- [Peer-to-peer file transfers in your browser, using WebRTC.](https://github.com/kern/filepizza)
+- https://blog.mgechev.com/2014/09/03/webrtc-peer-to-peer-chat-with-react
+- https://webrtc.ventures/2018/04/file-transfers-small-demonstration-webrtc-react-redux + https://github.com/agilityfeat/file-transfer-demo
 
 ### Testing
 
@@ -192,6 +196,7 @@
 - https://swizec.com/blog/mocking-and-testing-fetch-requests-with-jest/swizec/9338
 - https://github.com/Lemoncode/react-testing-by-example
 - [Repository to learn BDD and e2e using cypress ](https://github.com/Lemoncode/cypress-by-example)
+- https://leanpub.com/mastering-tdd-with-react
 
 ### Tooling
 

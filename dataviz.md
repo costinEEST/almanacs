@@ -1,6 +1,6 @@
 ### Books
 
-- https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910 
+- https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910
 - https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253 + https://learning.oreilly.com/library/view/storytelling-with-data/9781119621492
 - https://learning.oreilly.com/library/view/pro-d3js-use/9781484252031
 - [Fundamentals of Data Visualization by Claus O. Wilke](https://serialmentor.com/dataviz)
@@ -13,6 +13,7 @@
 - [COMPLEX ANALYSIS. A Visual and Interactive Introduction](https://twitter.com/PonceCampuzano/status/1214850688506716160)
 - http://blog.yasiv.com/2016/04/storytelling-with-data-graph-analysis.html
 - https://www.evelina-judeikyte.com/home/2019-a-year-of-data-viz
+- https://www.amazon.co.uk/Observe-Collect-Draw-Visual-Journal/dp/1616897147
 
 ### Courses
 
@@ -35,7 +36,6 @@
 - https://github.com/Lemoncode/d3js-typescript-examples
 - https://github.com/willianjusten/awesome-audio-visualization
 
-
 ### Talks
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeao8hSw3tegcabrp8vV55t
@@ -57,7 +57,7 @@
 - [A collection of my data visualizations, mostly in Python.](https://github.com/aaronpenne/data_visualization)
 - [Creating Animated Ch(art)s using D3 and React Hooks](https://github.com/monicawoj/react-advanced-london-d3-react-deck)
 - https://www.peterbe.com/plog/mdn-documents-size-tree-map
-- https://verekia.com/cities 
+- https://verekia.com/cities
 - [Highest Paying Companies of 2019](https://www.levels.fyi/2019)
 - [Life - a timeline of important events in my life](https://github.com/cheeaun/life)
 - https://blog.datawrapper.de/best-hip-hop-songs-of-all-time-visualized + https://twitter.com/sjockers/status/1206937996806754304 + https://github.com/sjockers/bbc-best-rapmusic

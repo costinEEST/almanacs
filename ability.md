@@ -18,6 +18,7 @@
 
 - https://www.amazon.com/Conscious-Parent-Transforming-Ourselves-Empowering/dp/1897238452
 - https://github.com/hackerkid/Mind-Expanding-Books#education
+- [What are some great books about homeschooling?](https://twitter.com/devonzuegel/status/1244396902558253056)
 
 ### Mindfulness
 

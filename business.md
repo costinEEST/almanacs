@@ -108,12 +108,8 @@
 - http://paulgraham.com/lesson.html + https://listle.io/embed/3996601668
 - https://florentcrivello.com/index.php/2020/01/06/how-apple-sells-software-at-hardware-prices
 
-### Newsletters
-
-- [David's Notes](https://davidsnotes.substack.com/archive)
-- https://buttondown.email/computer-napkins/archive
-
 ### Miscellaneous
 
 - https://github.com/kdeldycke/awesome-falsehood#business
 - https://github.com/kdeldycke/awesome-billing
+- [Discover the Open Source projects your organization is using that need financial support.](https://backyourstack.com)

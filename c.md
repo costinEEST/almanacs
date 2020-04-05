@@ -38,3 +38,4 @@
 - https://github.com/tuvtran/project-based-learning#cc
 - https://thesquareplanet.com/blog/smashing-the-stack-21st-century
 - [C in four functions.](https://github.com/rswier/c4)
+- https://github.com/reberhardt7/cplayground
