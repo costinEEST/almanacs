@@ -18,3 +18,4 @@
 - https://badshah.io/experiment/faster-nmap-scanning-with-the-help-of-gnu-parallel
 - https://www.linuxjournal.com/content/job-control-bash-feature-you-only-think-you-dont-need
 - https://serversuit.com/community/blog/view/why-are-there-single-and-double-brackets-in-bash-what-s-the-difference.html
+- https://tomnomnom.com/talks/bug-bounties-with-bash-virsec.pdf

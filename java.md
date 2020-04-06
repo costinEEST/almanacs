@@ -38,3 +38,4 @@
 ### Best practices
 
 - https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production 
+- https://www.slideshare.net/mariofusco/lets-make-a-contract-the-art-of-designing-a-java-api + https://twitter.com/ftomasse/status/1246831973567475713
