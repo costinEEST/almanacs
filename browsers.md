@@ -134,6 +134,10 @@ javascript: (() =>
 - [Comparing Cypress and Puppeteer](https://swatinem.de/blog/cypress-puppeteer)
 - [Capture screenshots in multiple browsers!](https://github.com/juliangruber/capture-screenshot)
 
+### Unicode
+
+- [Using untranslatable Unicode in place of a "?" when attacking URL parsers for SSRF/OAuth issues.](https://twitter.com/samwcyo/status/1246997498981494784)
+
 ### Miscellaneous
 
 - https://github.com/vasanthk/how-web-works

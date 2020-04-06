@@ -57,21 +57,6 @@
 - http://fremycompany.com/BG/2016/Animate-width-from-zero-to-auto-kinda-895
 - https://fossheim.io/writing/posts/css-polaroid-camera
 
-### SVG
-
-- https://github.com/donbright/font_to_svg
-- https://slides.com/vincentntang/svg-everything-you-should-know-about-it#/svg-everything-you-should-know
-- https://slides.com/vincentntang/comparing-svg-canvas-webgl-css
-- https://github.com/willianjusten/awesome-svg + https://twitter.com/addyosmani/status/1210463389144645632
-- https://www.silvestar.codes/articles/how-to-animate-svg-signature
-- https://jxnblk.github.io/paths
-- https://cloudfour.com/thinks/simple-svg-placeholder
-- [Take a string representing an SVG document or fragment, turn it into HAST JavaScript object.](https://github.com/Rich-Harris/svg-parser)
-- https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp + https://twitter.com/Rich_Harris/status/1223277304819998721
-- [A tool for generating flow line representations using SVG paths / poly lines](https://github.com/msurguy/flow-lines)
-- https://github.com/edent/SuperTinyIcons
-- https://github.com/alrra/browser-logos
-- [Turn real code into faux code.](https://github.com/knutsynstad/faux-code-generator)
 
 ### SEO
 
@@ -114,6 +99,9 @@
 - https://didoesdigital.com/project/design-for-engineers
 - https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html
 - https://briefbox.me recommended by [Thomas Lowry](https://twitter.com/negativespaceca)
+- https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922
+- https://www.sebastien-gabriel.com/designers-guide-to-dpi
+- https://trongnguyen.co/books-for-product-designers
 
 ### Design Systems
 
@@ -185,6 +173,7 @@
 - https://github.com/erdavids/Generative-Art
 - https://yuinchien.com/origami-study
 - http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html
+- [New Way of Seeing: The History of Art in 57 Works by Kelly Grovier](https://www.goodreads.com/book/show/40554488-new-way-of-seeing)
 
 ### UX
 
@@ -253,6 +242,7 @@
 - https://www.figma.com/blog/plugins-to-help-you-design-with-real-content
 - https://www.skillshare.com/classes/Streamline-your-workflow-The-efficient-UIUX-design-process-in-Figma/1199486748
 - https://setproduct.com/blog/figma-plugins-productivity-boost
+- https://trydesignlab.com/figma-101-course/lessons
 
 ### Tailwind
 

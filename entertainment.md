@@ -88,6 +88,7 @@
 - [Mythologica](https://www.youtube.com/user/delmonikos/playlists)
 - [Greek mythology](https://www.theoi.com)
 - [Johann Wolfgang Goethe, Faust](https://humanitas.ro/assets/pdf/Goethe_Faust.pdf)
+- [Circe, by Madeline Miller](https://www.worldcat.org/title/circe/oclc/1029842077)
 
 ### Mysticism
 

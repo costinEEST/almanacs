@@ -5,6 +5,7 @@
 - [Build a Feed Reader in Python](https://www.youtube.com/playlist?list=PLmxT2pVYo5LBcv5nYKTIn-fblphtD_OJO)
 - [Write yourself a Git!](https://wyag.thb.lt)
 - [An introduction to Python and programming for wanna-be data scientists](https://github.com/webartifex/intro-to-python)
+- https://realpython.com/account/purchases
 
 ### Books
 

@@ -1,3 +1,8 @@
+### Grocery
+
+- https://andranistor.ro/2020/03/26/de-unde-cumparam-alimente-cand-nu-mai-merg-aplicatiile-cunoscute
+- https://mamamag.ro/producatorii-locali-de-alimente-de-la-care-ne-aprovizionam-in-autoizolare
+
 ### Sleep
 
 - https://www.quora.com/What-are-some-good-chronobiology-books
@@ -90,8 +95,7 @@
 
 ### Viruses
 
-- https://formular.sts.ro + https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus + https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs + https://londonreal.tv/the-truth-behind-the-coronavirus-pandemic-covid-19-lockdown-the-economic-crash-david-icke + [CORONAVIRUS: Sfatul psihologului Daniel David
-  ](https://www.crowdcast.io/e/daniel-david-live/1)
+- https://formular.sts.ro + https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus + https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs + https://londonreal.tv/the-truth-behind-the-coronavirus-pandemic-covid-19-lockdown-the-economic-crash-david-icke + [CORONAVIRUS: Sfatul psihologului Daniel David](https://www.crowdcast.io/e/daniel-david-live/1) + [A recent Nature paper reveal a remarkable trick SARS-Cov-2 learned that makes it nastier than the first SARS.](https://twitter.com/PeterKolchinsky/status/1246975275021348865)
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
 
 ### Radiation

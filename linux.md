@@ -1,5 +1,7 @@
 ### Books
 
+- https://learning.oreilly.com/library/view/linux-basics-for/9781492069485
+- https://learning.oreilly.com/library/view/working-with-linux/9781787129184
 - https://gumroad.com/l/gnu_awk + https://leanpub.com/gnu_awk
 - https://leanpub.com/anti-reverse-engineering-linux
 
@@ -9,6 +11,7 @@
 - https://github.com/razvand/posix-system-programming
 - https://github.com/razvand/linux-fundamentals + https://github.com/razvand/linux-advanced
 - Hal Pomeranz - Linux Forensics Intro: [archive.org](https://archive.org/details/HalLinuxForensics) + [torrent](https://ia801406.us.archive.org/6/items/HalLinuxForensics/HalLinuxForensics_archive.torrent) + [oneDrive](https://onedrive.live.com/?authkey=%21AG%5FKRwGLhvEVVgM&id=83C438C3CA7085EF%211480&cid=83C438C3CA7085EF)
+- https://github.com/cirosantilli/x86-bare-metal-examples
 
 ### Containers
 
@@ -28,7 +31,7 @@
 
 ### Tools
 
-- [SimpleScreenRecorder, a screen recorder for Linux](https://github.com/MaartenBaert/ssr)
+- https://geekflare.com/run-linux-from-a-web-browser
 
 ### TIL
 

@@ -52,6 +52,10 @@
 
 - https://github.com/murari023/awesome-background-subtraction
 
+### Deep learning
+
+- [Background Matting is a project that uses deep learning to turn any background into a green screen with just a handheld camera.](https://github.com/senguptaumd/Background-Matting)
+
 ### Demos
 
 - https://github.com/emilwallner/Screenshot-to-code

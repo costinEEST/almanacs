@@ -27,3 +27,4 @@
 
 - [Wikipedia replaced its markup parser in JavaScript with PHP and made faster.](https://phabricator.wikimedia.org/phame/post/view/189/parsoid_in_php_or_there_and_back_again)
 - https://www.synacktiv.com/ressources/modern_php_security_sec4dev.pdf
+- https://ihackyou3000.com/2019/12/22/lesser-known-web-attacklkwa-walk-through + https://github.com/weev3/LKWA

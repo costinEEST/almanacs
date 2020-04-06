@@ -11,7 +11,8 @@
 
 ### Books
 
-- https://learning.oreilly.com/library/view/effective-typescript/9781492053736/
+- https://learning.oreilly.com/library/view/effective-typescript/9781492053736
+- https://github.com/enricopolanski/functional-programming
 
 ### References
 

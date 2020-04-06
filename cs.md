@@ -34,6 +34,7 @@
 - https://github.com/hellerve/ptolemy/blob/master/done.md#books
 - https://github.com/amilajack/reading/tree/master/Event_Driven_Programming
 - [What tech books have really helped you?](https://twitter.com/b0rk/status/1207314600884101120)
+- https://github.com/kamranahmedse/design-patterns-for-humans
 
 ### TIL
 

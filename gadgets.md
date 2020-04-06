@@ -4,6 +4,10 @@
 - https://www.youtube.com/playlist?list=PLZUHdmBGD3CJyJY8cWR2ZGxqP_LUpckQw
 - https://benfrain.com/sony-wh-1000xm3-noise-cancelling-headphones-review
 
+### Laptops
+
+- [Why Chrome OS?](https://twitter.com/WebReflection/status/1244374562139242497)
+
 ### Mouse
 
 - [.. attach your mouse to your computer with a wire so it could get power and you didn't need to change the batteries all the time.](https://twitter.com/seldo/status/1215719226188582913)

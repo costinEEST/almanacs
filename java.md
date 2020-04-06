@@ -15,6 +15,7 @@
 
 - [Google Reader inspired self-hosted RSS reader.](https://github.com/Athou/commafeed)
 - [Run Node.js on Android by rewrite Node.js in Java](https://github.com/InstantWebP2P/node-android)
+- https://0xdf.gitlab.io/2020/04/02/jar-files-analysis-and-modifications.html
 
 ### Talks
 

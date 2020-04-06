@@ -17,6 +17,7 @@
 - [Kenhub - Learn Human Anatomy](https://www.youtube.com/user/kenHubCOM/playlists)
 - https://www.reddit.com/r/askscience/comments/fm2z8x/if_a_heart_is_a_muscle_why_doesnt_it_ever_get
 - https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work
+- [Basic Physiology by Alila Medical Media](https://www.youtube.com/playlist?list=PLJIs8ZcKXHUy7zyDIGhZVIflbfulNFif0)
 
 ### Botany
 

@@ -54,6 +54,8 @@
 - https://legacy.gitbook.com/book/learnbyexample/vim-reference/details
 - https://twitter.com/victordorneanu/status/1222158980627288064
 - https://endler.dev/2018/ten-years-of-vim
+- [Vim by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYB46G6HR6hERWjKCiHTLjxt)
+- [Vim Un-Alphabet by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
 
 ### tmux
 

@@ -159,6 +159,7 @@
 - https://medium.com/@WebReflection/how-to-send-emails-from-static-websites-9a34ceb9416c
 - [Various ways to include comments on your static site.](https://darekkay.com/blog/static-site-comments)
 - A statically generated blog example using Next.js and Markdown: [repo](https://github.com/zeit/next.js/tree/canary/examples/blog-starter) + [tweet](https://twitter.com/timneutkens/status/1240277123451047936)
+- https://kezzbracey.com/posts/2020/01/19/eleventy-plus-vscode-plus-gitlab-plus-cloudways
 
 ### Boots
 
