@@ -12,6 +12,7 @@
 ### CSS grid
 
 - https://www.learnwithjason.dev/let-s-learn-css-grid
+- [Grid by example, Rachael Andrew](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR)
 
 ### Demos
 

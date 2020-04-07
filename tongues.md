@@ -39,6 +39,7 @@
 - https://medium.com/@GroundControl/introducing-benkyou-a-swipe-flashcard-app-for-learning-japanese-f6f278e05c8a + [Android](https://play.google.com/store/apps/details?id=fm.raf.benkyou)
 - https://tarjim.ly
 - https://www.britishcouncil.org/voices-magazine/five-digital-resources-autonomous-english-language-practice
+- https://foosoft.net/tags/japanese
 
 ### Websites
 

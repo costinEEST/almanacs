@@ -41,6 +41,7 @@
 ### The Open Systems Interconnection model
 
 - https://github.com/bkimminich/it-security-lecture/blob/master/slides/01-04-network_security.md#osi-network-layer-model
+- https://github.com/jivoi/offsec_pdfs/blob/master/OSI-model.jpg
 
 ### Routing
 
@@ -86,7 +87,8 @@
 
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
 - https://github.com/shuhei/knowledge/blob/master/network.md#tcp
-- https://notes.shichao.io/tcpv1/
+- https://notes.shichao.io/tcpv1
+- https://github.com/jivoi/pentest/blob/master/notes/ipv6_tcpip_pocketguide.pdf
 
 ### UDP
 

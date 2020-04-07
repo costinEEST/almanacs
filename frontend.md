@@ -119,27 +119,6 @@
 - https://github.com/alexpate/awesome-design-systems
 - https://abookapart.com/products/expressive-design-systems
 
-### Typography
-
-- https://www.amazon.com/Short-History-Printed-Word/dp/0881791547
-- https://github.com/sw-yx/spark-joy#typography
-- [how we can improve showing numbers in a table or list and align them better with CSS typography options.](https://www.robinrendle.com/notes/the-smallest-difference.html)
-- [How to make fonts](https://twitter.com/hellonehha/status/1195987851252363264)
-- https://mycreativetype.com/
-- [line-height in Figma](https://twitter.com/argyleink/status/1206439509719564288)
-- https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
-- [Typography Resources: for Sketch & Web](https://pnowell.com/net-typography)
-- How to implement max-font-size? [tweet](https://twitter.com/starsandrobots/status/1199757377286754309) + [stackoverflow](https://stackoverflow.com/questions/40528290/how-to-implement-max-font-size/53146935#53146935)
-- https://muffingroup.com/blog/best-free-fonts
-- https://github.com/RoelN/Font-Falsehoods
-- [FontPair - Helps you pair Google Fonts together](https://fontpair.co)
-- [A short history of body copy sizes on the Web.](https://fvsch.com/body-copy-sizes)
-- https://github.com/danburzo/toolbox/blob/master/typefaces.md
-- The Elements of Typographic Style Applied to the Web: [ebook](http://webtypography.net/toc) + [repo](https://github.com/clagnut/webtypography)
-- https://www.typewolf.com/typography-books
-- [What font should be on your book cover?](https://twitter.com/PulpLibrarian/status/1222125153066323968)
-- [CSS can check for a font installed locally before fetching it remotely!](https://twitter.com/argyleink/status/1223026734817087488)
-- [Use & Modify is a personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces.](https://usemodify.com)
 
 ### Animations
 
@@ -243,6 +222,12 @@
 - https://www.skillshare.com/classes/Streamline-your-workflow-The-efficient-UIUX-design-process-in-Figma/1199486748
 - https://setproduct.com/blog/figma-plugins-productivity-boost
 - https://trydesignlab.com/figma-101-course/lessons
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUemCRhYYvlFle4vhfVcJu9Q
+- [[BEGINNER] The Complete Figma UX/UI App Design Course - Selfstudy Space](https://www.youtube.com/playlist?list=PLFW6ct83_wC-2m1zPcJr6NBaH-7WVC87G)
+- [Learn Figma for UX/UI Design master course - Selfstudy Space](https://www.youtube.com/playlist?list=PLFW6ct83_wC_N-IrrU60lH4G0dV6u1B4n)
+- [How to Build an Inbox UI - Build UX](https://www.youtube.com/playlist?list=PLKFUh46KjXES8mh_heA1WxQd98Wpekfuh)
+- [How to Build a Nutrition Website - Build UX](https://www.youtube.com/playlist?list=PLKFUh46KjXESnnC7TZwd_qc-GwdPRiOnl)
+- [Build UX How Tos - Build UX](https://www.youtube.com/playlist?list=PLKFUh46KjXERWsJTTGT5rdqtD6XWmd726)
 
 ### Tailwind
 
@@ -273,3 +258,4 @@
 - https://www.freecodecamp.org/news/what-is-cached-data
 - [The 8 best chatbot builders in 2020: For marketers, customer support, and more](https://zapier.com/blog/best-chatbot-builders)
 - https://andreasbm.github.io/web-skills
+- https://github.com/bcherny/frontend-interview-questions

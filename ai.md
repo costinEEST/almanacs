@@ -16,6 +16,7 @@
 - [Full-on machine learning for 2020, what are the best resources?](https://news.ycombinator.com/item?id=21924298)
 - https://github.com/leandromineti/awesome-healthmetrics
 - https://theaisummer.com/Deep-Learning-Algorithms
+- https://github.com/jivoi/awesome-ml-for-cybersecurity
 
 ### Tools
 

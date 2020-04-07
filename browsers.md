@@ -43,6 +43,7 @@
 - A Chrome extension static analysis tool to help aide in security reviews: [repo](https://github.com/mandatoryprogrammer/tarnish) + [blog post](https://www.kitploit.com/2019/10/tarnish-chrome-extension-static.html)
 - https://thehackerblog.com/kicking-the-rims-a-guide-for-securely-writing-and-auditing-chrome-extensions/index.html
 - [IE Tab exactly emulates IE by using the IE rendering engine directly within Chrome.](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
+- [Browser extension that replaces the new tab page with Anki flashcards](https://github.com/corollari/ankiTab)
 
 ### Bookmarklets
 

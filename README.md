@@ -82,6 +82,7 @@
 - [Television](tv.md)
 - [Thinking](think.md)
 - [Typescript](typescript.md)
+- [Typography](typography.md)
 - [UNIX](unix.md)
 - [Virtual reality](vr.md)
 - [Web assembly](wasm.md)
