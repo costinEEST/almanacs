@@ -36,6 +36,7 @@
 - [Personal playlist](https://www.youtube.com/playlist?list=PLWIcRrPLCdUfEsFPi53bI3BeljwcIBIWl)
 - https://twitter.com/KetoAurelius/status/1216461099404595200
 - https://www.siimland.co/products/metabolic-autophagy-book
+- [An Evolutionary Perspective on Why Food Overconsumption Impairs Cognition - Mark P. Mattson](https://www.gwern.net/docs/longevity/2019-mattson.pdf)
 
 ### Supplements
 
