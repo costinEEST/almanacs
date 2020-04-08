@@ -1,6 +1,7 @@
 ### Machine Learning
 
 - [Mathematics for Machine Learning by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
+- [(Whistled) melody detection workshop. First presented at LauzHack Days (Nov 13, 2018).](https://github.com/ebezzam/melody-detection)
 
 ### Calculus
 

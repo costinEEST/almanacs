@@ -49,6 +49,7 @@
 - [Building an Accordion with React Hooks.](https://smellycode.com/accordion-in-reactjs)
 - [A custom React Hook for fading in any element.](https://twitter.com/gabe_ragland/status/1233135570227879936)
 - https://techblog.commercetools.com/five-practical-tips-when-using-react-hooks-in-production-990a79745229
+- useAbortController: [tweet](https://twitter.com/kentcdodds/status/1246219272562421760) + [gist](https://gist.github.com/kentcdodds/b36572b6e9227207e6c71fd80e63f3b4)
 
 ### Context API
 
@@ -94,6 +95,7 @@
 
 ### Lazy
 
+- https://dev.to/thekashey/react-code-splitting-in2019-3cmg
 - [You can preFetch lazy loaded React components](https://twitter.com/housecor/status/1200554167644966912)
 - [I have more than 600 routes with lazy chunks ..](https://twitter.com/HoracioSystem/status/1239912711577899011)
 
@@ -155,6 +157,7 @@
 - https://github.com/hodgef/react-simple-keyboard
 - https://react-hook-form.com
 - [A React Renderer for SSD1306 OLED chip on Raspberry Pi.](https://github.com/doodlewind/react-ssd1306)
+- [A modern keyboard shortcut library written in Typescript.](https://github.com/reasonink/clack-react)
 
 ### Debugging
 
@@ -203,3 +206,4 @@
 
 - [tsc --watch nodemon dist/src/index.js](https://twitter.com/benawad/status/1211700652549779456)
 - https://github.com/Lemoncode/react-typescript-samples
+- https://daveceddia.com/tailwind-create-react-app

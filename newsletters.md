@@ -50,3 +50,4 @@
 - https://github.com/n00py/ReadingList/blob/master/feedly.xml
 - [Scott Helme](https://ifttt.com/applets/457742p-send-me-an-email-when-scott-helme-blogs)
 - [Daniel Miessler](https://us8.campaign-archive.com/home/?u=6a9e465ab1570df8aaecb2292&id=49fdb7d723)
+- [InfoCon is a community supported, non-commercial archive of all the past hacking related convention material.](https://infocon.org/infocon.org-css/infoconorg-cons.rss)

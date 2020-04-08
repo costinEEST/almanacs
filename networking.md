@@ -16,6 +16,7 @@
 
 ### Books
 
+- [TCP/IP Guide - Charles M. Kozierok](https://learning.oreilly.com/library/view/tcpip-guide/9781593270476)
 - [Practical Packet Analysis, 3rd Edition. Using Wireshark to Solve Real-World Network Problems](https://nostarch.com/packetanalysis3)
 - https://www.amazon.co.uk/Wireshark-Workbook-Practice-Challenges-Solutions/dp/1893939642
 - https://www.chappell-university.com/post/free-tcp-analysis-poster

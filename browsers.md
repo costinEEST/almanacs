@@ -44,6 +44,7 @@
 - https://thehackerblog.com/kicking-the-rims-a-guide-for-securely-writing-and-auditing-chrome-extensions/index.html
 - [IE Tab exactly emulates IE by using the IE rendering engine directly within Chrome.](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
 - [Browser extension that replaces the new tab page with Anki flashcards](https://github.com/corollari/ankiTab)
+- [A tool that transforms Firefox browsers into a penetration testing suite.](https://github.com/mazen160/Firefox-Security-Toolkit)
 
 ### Bookmarklets
 

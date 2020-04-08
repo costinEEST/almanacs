@@ -1,4 +1,3 @@
-
 ### Books
 
 - http://tutorials.jenkov.com/svg/index.html
@@ -18,3 +17,7 @@
 - https://github.com/edent/SuperTinyIcons
 - https://github.com/alrra/browser-logos
 - [Turn real code into faux code.](https://github.com/knutsynstad/faux-code-generator)
+
+### Tools
+
+- [Make nice animated diagrams.](https://twitter.com/jlongster/status/1247530020928499714)

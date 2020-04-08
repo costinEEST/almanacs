@@ -40,6 +40,10 @@
 - https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
 - [beginners](https://twitter.com/samerbuna/status/1183771023054987264)
 
+### Courses
+
+- [SQLBolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com)
+
 ### Relational databases
 
 - [Postgres is the perfect database.](https://twitter.com/Swizec/status/1232376212195966976)
