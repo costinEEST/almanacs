@@ -29,6 +29,7 @@
 - https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server
 - https://snikt.net/blog/2019/06/22/building-an-lte-access-point-with-a-raspberry-pi
 - http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-04-is-that-a-wifi-sniffer-in-your-pocket-jacob-baines
+- https://alternativebit.fr/posts/ultimate-writer
 
 ### Smartwatch
 

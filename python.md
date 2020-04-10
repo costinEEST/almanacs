@@ -15,6 +15,7 @@
 - [Getting Started Neo4j with Python (For Complete Beginners)](<https://github.com/ybaktir/neo4ds/blob/master/Getting%20Started%20Neo4j%20with%20Python%20(For%20Complete%20Beginners).ipynb>)
 - Interactive Structure and Interpretation of Computer Programs: [repo](https://github.com/IIIIllllIIIIllllIIIIllllIIIIllllIIIIll/isicp) + [site](http://www.xuanji.li/isicp)
 - https://devforum.ro/t/noncs-intro-to-python-and-programming/12853
+- [Foundations of Python Network Programming (Apress)](https://github.com/brandon-rhodes/fopnp)
 
 ### References
 
@@ -28,6 +29,7 @@
 ### Clean code
 
 - https://docs.quantifiedcode.com/python-anti-patterns/index.html
+- https://python-patterns.guide
 
 ### Quirks
 

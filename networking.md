@@ -63,6 +63,7 @@
 - https://github.com/0x90/wifi-arsenal
 - [An Empirical Study of Wireless Carrier Authentication for SIM Swaps](https://www.issms2fasecure.com)
 - https://nelsonslog.wordpress.com/2020/01/07/wireless-isp-resources
+- [How Antennas Work](http://www.antenna-theory.com/m/index.php) + https://news.ycombinator.com/item?id=22785015
 
 ### 5G
 

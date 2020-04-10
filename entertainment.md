@@ -72,6 +72,7 @@
 - https://random.country
 - https://en.wikipedia.org/wiki/Down_Under_(book)
 - https://www.outsideonline.com/2404906/backpacking-outdoor-maps-guide
+- [A map of the world's virtual museums.](https://virtualmuseums.io) + https://news.ycombinator.com/item?id=22777326
 
 ### History
 
@@ -136,6 +137,7 @@
 - https://www.youtube.com/user/ProkoTV/playlists + https://www.proko.com/library/#.XhkJciOxVPa
 - [Team Bradley](https://www.youtube.com/channel/UCYu89Q_krburzkoDSpm5xjw)
 - https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock
+- [ScribbleX – Create some art with friends.](https://scribblex.com)
 
 ### Architecture
 

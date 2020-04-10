@@ -34,6 +34,14 @@
 - https://github.com/Cazaimi/circadian-api
 - [FoodData Central (FDC)](https://fdc.nal.usda.gov/about-us.html) + https://github.com/USDA/USDA-APIs/issues/92
 
+### Weather
+
+- Get the weather from terminal
+```
+curl v2.wttr.in/Bucharest
+```
+
+
 ### Geography
 
 - [City data repository for mapnificent.net](https://github.com/mapnificent/mapnificent_cities) + https://stefanwehrmeyer.com/projects/mapnificent

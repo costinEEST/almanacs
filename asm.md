@@ -7,3 +7,7 @@
 
 - https://notes.shichao.io/asm
 
+### Tutorials
+
+- https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation
+

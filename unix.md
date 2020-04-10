@@ -22,3 +22,4 @@
 - http://cb.vu/unixtoolbox.xhtml
 - https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe
 - https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet
+- [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma) + https://news.ycombinator.com/item?id=22778988

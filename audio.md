@@ -21,6 +21,7 @@
 - [Turn your browser into an audio recorder.](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
 - https://www.dkthehuman.com/music-apps
 - https://github.com/tholman/binary-music-player
+- [A music discovery site used in over 1M videos and games.](http://dig.ccmixter.org) + https://news.ycombinator.com/item?id=22810514
 
 ### Security
 

@@ -8,6 +8,8 @@
 - [SQL Murder Mystery](https://mystery.knightlab.com)
 - https://github.com/elliot-nelson/elliot-nelson.github.io/blob/master/js13k.md
 - https://www.fastcompany.com/90470524/how-scientists-are-crowdsourcing-a-coronavirus-vaccine
+- [A site to keep track of critters you can catch in Animal Crossing](https://ac-catch.com) + https://news.ycombinator.com/item?id=22780124
+- [Chess and Video Chat, no login required](https://rootshirechess.glitch.me) + https://news.ycombinator.com/item?id=22790728
 
 ### Mobile based
 
