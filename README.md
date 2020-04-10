@@ -27,6 +27,7 @@
 - [Cascading Style Sheets](css.md)
 - [Data visualization](dataviz.md)
 - [Databases](db.md)
+- [Design](design.md)
 - [Effectiveness](effectiveness.md)
 - [Electron](electron.md)
 - [Elixir](elixir.md)
