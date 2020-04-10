@@ -16,6 +16,7 @@
 
 ### Demos
 
+- https://csslayout.io/patterns
 - [Basic todo app functionality without using JavaScript.](https://github.com/mattzeunert/CSS-Todo-App)
 
 ### TV

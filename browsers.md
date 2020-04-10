@@ -70,9 +70,11 @@ javascript: (() =>
 - https://github.com/hex13/javascript-visual-explanations#javascript-engines
 - https://deepu.tech/memory-management-in-v8
 
-### WebRTC
+### WebRTC (Web Real-Time Communication)
 
 - [Anyone do much with WebRTC?](https://twitter.com/tannerlinsley/status/1220121545621700609)
+- [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
+- https://github.com/whatismyinternalip/whatismyinternalip.github.io
 
 ### Chrome
 

@@ -154,6 +154,7 @@
 - [Markdeep is a technology for writing plain text documents that will look good in any web browser, whether local or remote.  It supports diagrams, calendars, equations, and other features as extensions of Markdown syntax.](https://casual-effects.com/markdeep)
 - https://blog.jethro.dev/posts/how_to_take_smart_notes_org
 - [Technical Writing Courses](https://developers.google.com/tech-writing)
+- https://medium.com/@gregsramblings/how-i-tamed-gmail-at-work-a0bd66a17a63
 
 ### Drawing
 

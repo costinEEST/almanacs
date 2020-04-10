@@ -153,7 +153,6 @@
 - [High Performance WebSocket](https://youtu.be/zgI0H28AgGY)
 - [Leah Hanson - Inside Websockets](https://youtu.be/9FqjRN4VYUU)
 - [The cutest little WebSocket wrapper! 🧦](https://github.com/lukeed/sockette)
-- [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
 - https://simpl.info/websocket
 - https://www.christian-schneider.net/CrossSiteWebSocketHijacking.html + https://youtu.be/lrPPMDNpgdY
 - https://footstep.ninja/posts/websockets-testing + http://websocket.org/echo.html + https://install.advancedrestclient.com/install + https://kaazing.com/inspecting-websocket-traffic-with-chrome-developer-tools
