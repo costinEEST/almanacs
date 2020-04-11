@@ -23,6 +23,7 @@
 ### Tools
 
 - [Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files.](https://github.com/tibold/svg-explorer-extension)
+- https://gitlab.com/massgrave/microsoft-activation-scripts
 
 ### Powershell
 

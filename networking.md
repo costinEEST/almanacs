@@ -115,6 +115,7 @@
 - https://lightningsecurity.io/blog/host-header-injection
 - [User-Agent](https://webplatform.news/issues/2020-03-19)
 - https://speakerdeck.com/triblondon/headers-for-hackers + https://www.slideshare.net/JSFestUA/js-fest-2019-andrew-betts-headers-for-hackers
+- [HTTP reverse proxies, normalize](https://twitter.com/defparam/status/1243892627512098817)
 
 ### HTTPS
 

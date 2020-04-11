@@ -14,7 +14,6 @@
 - [How to Build a Nutrition Website - Build UX](https://www.youtube.com/playlist?list=PLKFUh46KjXESnnC7TZwd_qc-GwdPRiOnl)
 - https://trydesignlab.com/figma-101-course/lessons
 - [Figma Tips - Envato Tuts+](https://www.youtube.com/playlist?list=PLgGbWId6zgaUeFJ4y8s6BNmPN-APWpB3N)
-- [Figma for Developers - Gregory Schmidt](https://www.youtube.com/playlist?list=PL7e8VJ_ZN6epq-oiYOufiuPI-fpDC2Mby)
 
 
 ### TV

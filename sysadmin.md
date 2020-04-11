@@ -54,6 +54,7 @@
 
 ### CI/CD
 
+- https://learning.oreilly.com/library/view/advanced-microservices-a/9781484228869
 - https://www.gdcorner.com/2019/12/27/JenkinsHomeLab-P1-MasterSetup.html
 - https://medium.com/faun/pull-based-cd-pipelines-for-security-4e044b403f56
 - [GitHub action for generating sequential build numbers.](https://github.com/einaregilsson/build-number)

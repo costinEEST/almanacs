@@ -98,3 +98,4 @@
 - https://github.com/kylelobo/The-Documentation-Compendium
 - https://blog.jessfraz.com/post/the-life-of-a-data-byte
 - https://thecomputation.com/2020/03/19/brief-history-of-quantum-computing.html
+- https://github.com/watson/awesome-computer-history

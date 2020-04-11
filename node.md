@@ -96,6 +96,7 @@
 - [MyDrive is an Open Source Cloud Server (Similar To Google Drive), built with Node.JS, Express, React, and MongoDB.](https://github.com/subnub/myDrive)
 - [Visualizing data from your Node JS app with Prometheus + Grafana](https://sergeypotekhin.com/visualizing-data-from-the-node-js-app)
 - https://dev.to/mattkrick/replacing-express-with-uwebsockets-48ph
+- [Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.](https://github.com/IntrinsicLabs/osgood)
 
 ### Authentication
 
@@ -110,6 +111,7 @@
 ### API
 
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+- https://github.com/tlhunter/consumer-centric-api-design
 - https://github.com/Developer-Y/Scalable-Software-Architecture#api-design
 - [Common API security pitfalls](https://pragmaticwebsecurity.com/talks/commonapisecuritypitfalls)
 - [Mirage for mocking APIs](https://twitter.com/RomanSndlr/status/1207551729224605697)

@@ -52,6 +52,7 @@
 ### Sociology
 
 - https://jumunteanu.wordpress.com/2014/01/17/7-carti-pentru-relationisti-sau-pentru-cei-interesati-in-psihologia-maselor-si-manipularea-acestora-prin-mijloacele-de-comunicare-4 + https://www.academia.edu/20833296/02._Edward_Bernays_-_Cristalizarea_opiniei_publice
+- https://en.wikipedia.org/wiki/The_Presentation_of_Self_in_Everyday_Life
 
 
 
