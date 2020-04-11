@@ -14,3 +14,13 @@
 ### TV
 
 - [Design – Vox](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5ciSdIo4uRt26NRxmVs0TTQ)
+- [Rams - Gary Hustwit](https://vimeo.com/404760526)
+- [Urbanized - Gary Hustwit](https://vimeo.com/402413663)
+- https://www.hustwit.com/objectified
+- https://www.hustwit.com/helvetica
+- [Abstract. The Art of Design (2017)](https://www.netflix.com/ro-en/title/80057883)
+- https://designthinkingmovie.com
+- [Milton Glaser: To Inform and Delight (2008)](https://www.youtube.com/watch?v=jZ1YHqgZzGQ)
+- [Design Disruptors (2016)](https://www.designdisruptors.com/dd)
+- [vimeo.com/microsoftdesign/connecting](https://vimeo.com/52861634)
+- https://www.ohyouprettythings.com/free
