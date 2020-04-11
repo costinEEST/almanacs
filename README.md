@@ -34,6 +34,7 @@
 - [Elm](elm.md)
 - [Entertainment](entertainment.md)
 - [F#](f#.md)
+- [Figma (the collaborative interface design tool)](figma.md)
 - [Front-end development](frontend.md)
 - [Gadgets](gadgets.md)
 - [Go](go.md)

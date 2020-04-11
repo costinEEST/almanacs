@@ -100,8 +100,6 @@
 - https://didoesdigital.com/project/design-for-engineers
 - https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html
 - https://briefbox.me recommended by [Thomas Lowry](https://twitter.com/negativespaceca)
-- https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922
-- https://www.sebastien-gabriel.com/designers-guide-to-dpi
 - https://trongnguyen.co/books-for-product-designers
 
 ### Design Systems
@@ -210,25 +208,6 @@
 - https://github.com/tastejs/awesome-app-ideas
 - https://github.com/samsquire/ideas
 - [An interactive demo walk-through we built to give visitors a feel for what the Trevor.io platform does.](https://github.com/tagspace/trevor-demo)
-
-### Figma
-
-- https://contentreel.design
-- https://www.figma.com/c/plugin/784880696244762700/API-%2F-JSON-Sync
-- https://github.com/jagtalon/figma-fast-copy
-- https://figma.bothrs.com
-- https://github.com/rsms/figma-plugins
-- https://github.com/thomas-lowry/figma-plugins-on-github
-- https://www.figma.com/blog/plugins-to-help-you-design-with-real-content
-- https://www.skillshare.com/classes/Streamline-your-workflow-The-efficient-UIUX-design-process-in-Figma/1199486748
-- https://setproduct.com/blog/figma-plugins-productivity-boost
-- https://trydesignlab.com/figma-101-course/lessons
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUemCRhYYvlFle4vhfVcJu9Q
-- [[BEGINNER] The Complete Figma UX/UI App Design Course - Selfstudy Space](https://www.youtube.com/playlist?list=PLFW6ct83_wC-2m1zPcJr6NBaH-7WVC87G)
-- [Learn Figma for UX/UI Design master course - Selfstudy Space](https://www.youtube.com/playlist?list=PLFW6ct83_wC_N-IrrU60lH4G0dV6u1B4n)
-- [How to Build an Inbox UI - Build UX](https://www.youtube.com/playlist?list=PLKFUh46KjXES8mh_heA1WxQd98Wpekfuh)
-- [How to Build a Nutrition Website - Build UX](https://www.youtube.com/playlist?list=PLKFUh46KjXESnnC7TZwd_qc-GwdPRiOnl)
-- [Build UX How Tos - Build UX](https://www.youtube.com/playlist?list=PLKFUh46KjXERWsJTTGT5rdqtD6XWmd726)
 
 ### Tailwind
 

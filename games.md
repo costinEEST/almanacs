@@ -16,6 +16,10 @@
 - https://github.com/gabrielecirulli/2048
 - [What are some good iOS multi player games to play casually with friends while we’re sheltered-in?](https://twitter.com/_ryannystrom/status/1241172934414213121)
 
+### Desktop based
+
+- [Shenzhen I/O is a puzzle game that teaches how to build circuits and write assembly code based on provided elements.](http://www.zachtronics.com/shenzhen-io)
+
 ### Development
 
 - [How Crash Bandicoot Hacked The Original Playstation | War Stories | Ars Technica](https://youtu.be/izxXGuVL21o)
@@ -23,7 +27,8 @@
 - [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
 - [Make A Game In Unity With No Experience](https://www.youtube.com/playlist?list=PLUtKzyIe0aB3TZfe2wsIgJgGZW5G_NAxa)
 
-### Creators
+### The creators
 
 - https://www.dicebreaker.com/topics/richard-garfield/feature/richard-garfield-interview-making-games
+- http://www.zachtronics.com/podcast
 

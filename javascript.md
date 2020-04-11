@@ -61,6 +61,7 @@
 - https://quiz.typeofnan.dev
 - [Learn built-in JavaScript methods by rolling your own!](https://github.com/nas5w/roll-your-own)
 - [Future JavaScript: what is still missing?](https://2ality.com/2019/01/future-js.html)
+- https://medium.com/@bluepnume/how-many-keywords-can-you-place-in-a-row-in-javascript-fa9046b4c1ff
 
 ### Books
 

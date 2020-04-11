@@ -3,6 +3,10 @@
 - https://colornamer.netlify.com
 - [ Overly descriptive color palettes.](https://colors.lol) inspired by https://github.com/joemfox/colorschemer
 
+### Measurement units
+
+- http://www.gregoryschmidt.ca/writing/when-is-a-pixel-not-a-pixel-pixels-points-dps
+
 ### Properties explained
 
 - [min-content, max-content, fit-content](https://twitter.com/tunetheweb/status/1238753219574202369)

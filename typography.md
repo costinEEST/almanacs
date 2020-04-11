@@ -1,3 +1,12 @@
+### CSS
+
+- [CSS can check for a font installed locally before fetching it remotely!](https://twitter.com/argyleink/status/1223026734817087488)
+
+### Fonts
+
+- [Pretty cool alternative collection of fonts.](https://typespecimens.io)
+- https://app.programmingfonts.org
+
 
 ### Miscellaneous
 
@@ -18,7 +27,6 @@
 - The Elements of Typographic Style Applied to the Web: [ebook](http://webtypography.net/toc) + [repo](https://github.com/clagnut/webtypography)
 - https://www.typewolf.com/typography-books
 - [What font should be on your book cover?](https://twitter.com/PulpLibrarian/status/1222125153066323968)
-- [CSS can check for a font installed locally before fetching it remotely!](https://twitter.com/argyleink/status/1223026734817087488)
 - [Use & Modify is a personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces.](https://usemodify.com)
 
 ### TV
