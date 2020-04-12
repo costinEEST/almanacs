@@ -43,6 +43,7 @@
 ### Courses
 
 - [SQLBolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com)
+- https://www.sqlhabit.com/blog/posts/how-to-detect-recurring-payments-with-sql
 
 ### Relational databases
 

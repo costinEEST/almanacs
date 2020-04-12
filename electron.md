@@ -4,6 +4,7 @@
 - [An example Electron app with a backend server all wired up via IPC.](https://github.com/jlongster/electron-with-server-example)
 - [A free and open source code snippets manager for developers. ](https://github.com/antonreshetov/massCode)
 - https://github.com/leerob/youtube-to-mp3
+- https://github.com/jitsi/jitsi-meet-electron
 
 ### Demos
 

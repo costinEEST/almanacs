@@ -1,9 +1,10 @@
 ### AWS
 
+- [Cloudcraft – Draw AWS diagrams](https://cloudcraft.co)
 - [📙 Amazon Web Services — a practical guide.](https://github.com/open-guides/og-aws)
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools + https://twitter.com/ToniBlyx/status/1207073852968316928 + https://blyx.com/2018/07/18/my-arsenal-of-aws-security-tools
 - https://gumroad.com/l/aws-good-parts + https://hassenchaieb.com/aws-good-parts
-- https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-exam-with-this-free-10-hour-course
+- https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-exam-with-this-free-10-hour-course + https://www.freecodecamp.org/news/pass-the-aws-developer-associate-exam-with-this-free-16-hour-course
 - https://gameanalytics.com/blog/reduce-costs-https-api-aws.html
 - A serverless email server on AWS using S3 and SES: [tweet](https://twitter.com/brianleroux/status/1214236551032393731) + [repo](https://github.com/0x4447/0x4447_product_s3_email)
 - https://m.signalvnoise.com/aws-s3-youre-out-of-order
@@ -34,5 +35,6 @@
 
 ### Platform independent
 
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 - [Set up a personal VPN in the cloud.](https://github.com/trailofbits/algo)
 - https://github.com/Atarity/deploy-your-own-saas

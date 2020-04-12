@@ -53,9 +53,10 @@
 - [Matt's Let's Encrypt Automation](https://github.com/mattsta/lematt)
 - [Replacing netstat's 90s C Code With Modern Python](https://matt.sh/netmatt)
 - [How to use Jupyter Notebooks in 2020.](https://ljvmiranda921.github.io/notebook/2020/03/06/jupyter-notebooks-in-2020)
-- https://www.slideshare.net/MichaelFelch/offensive-python-for-pentesting 
+- https://www.slideshare.net/MichaelFelch/offensive-python-for-pentesting
 - https://github.com/ustayready/python-pentesting
 - [FUSE: Finding File Upload Bugs via Penetration Testing](https://github.com/WSP-LAB/FUSE)
+- https://elder.dev/posts/open-source-virtual-background
 
 ### Boots
 

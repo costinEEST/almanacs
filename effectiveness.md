@@ -5,27 +5,6 @@
 - [Typey Type for Stenographers.](https://didoesdigital.com/typey-type)
 - https://github.com/manfredschulenburg/rasyti
 
-### Git
-
-- https://gitexplorer.com
-- [2 useful Git CLI tips for code review](https://twitter.com/danburzo/status/1200022067044859905)
-- https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk
-- [checkout](https://twitter.com/mislav/status/1206937217194741760)
-- [git-annex allows managing files with git, without checking the file contents into git.](https://git-annex.branchable.com)
-- [I still use a GUI (SourceTree) for most operations.](https://twitter.com/jaffathecake/status/1204343865785962496)
-- [git push origin HEAD](https://twitter.com/flexdinesh/status/1215119465068675072)
-- [git commit dependency analysis tool](https://github.com/aspiers/git-deps)
-- https://jwiegley.github.io/git-from-the-bottom-up
-- https://jeremykun.com/2020/01/14/the-communicative-value-of-using-git-well
-- https://github.com/tanhauhau/tanhauhau.github.io/blob/dev/content/notes/2019-09-17%20-%20git.md
-- https://lihautan.com/git-gudder
-- https://github.com/git-tips/tips
-- https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow
-- https://github.com/pluralsight/git-internals-pdf
-- [Setting up Git identities](https://news.ycombinator.com/item?id=22672491)
-- [What are some of your favorite @github tips and tricks?](https://twitter.com/jsjoeio/status/1243979940669857794)
-- https://gpanders.com/posts/creating-your-own-git-server
-
 ### VS Code
 
 - https://github.com/viatsko/awesome-vscode
@@ -77,7 +56,7 @@
 - [Get the number of cores on a machine.](https://twitter.com/ReplicaJune/status/1212645946867228672)
 - [You can get a site's html and all of the page's dependencies with a single wget command.](https://twitter.com/philhawksworth/status/1214942635300982785)
 - [A command that will copy files from one directory to another and if there are two files with the same name it will rename it.](https://twitter.com/kentcdodds/status/1215744921287589888)
-- wget -m -np -c -U "gimme" -R "index.html*" "http://index-of.es/EBooks/"
+- wget -m -np -c -U "gimme" -R "index.html\*" "http://index-of.es/EBooks/"
 
 ### Mac
 
@@ -116,6 +95,7 @@
 - https://github.com/aviaryan/awesome-no-login-web-apps
 - [What's so hard about PDF text extraction?](https://www.filingdb.com/pdf-text-extraction)
 - [How to Enable VLC's Best Hidden Features](https://lifehacker.com/the-best-hidden-features-of-vlc-1654434241)
+- https://www.toolboxtoolbox.com
 
 ### Books
 
@@ -151,7 +131,7 @@
 - https://github.com/James-Yu/LaTeX-Workshop
 - [If you could read only one writer — and one writer only — for the rest of your life, who would it be?](https://twitter.com/david_perell/status/1228165158876282882)
 - [Learning Technical Writing Using the Engineering Method by Norman Ramsey](https://www.cs.tufts.edu/~nr/pubs/learn.pdf)
-- [Markdeep is a technology for writing plain text documents that will look good in any web browser, whether local or remote.  It supports diagrams, calendars, equations, and other features as extensions of Markdown syntax.](https://casual-effects.com/markdeep)
+- [Markdeep is a technology for writing plain text documents that will look good in any web browser, whether local or remote. It supports diagrams, calendars, equations, and other features as extensions of Markdown syntax.](https://casual-effects.com/markdeep)
 - https://blog.jethro.dev/posts/how_to_take_smart_notes_org
 - [Technical Writing Courses](https://developers.google.com/tech-writing)
 - https://medium.com/@gregsramblings/how-i-tamed-gmail-at-work-a0bd66a17a63
@@ -159,6 +139,7 @@
 ### Drawing
 
 - [Keys to Drawing by Bert Dodson](https://youtu.be/df9OewgNbiI)
+- https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box
 
 ### Learning
 

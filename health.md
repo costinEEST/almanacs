@@ -62,6 +62,7 @@
 - [How Keto Eased My PCOS — Jordan Swain [Adapt Event]](https://www.facebook.com/AdaptYourLife/videos/481025419270677)
 - [În București: mai există alte restaurante keto/low carb, în afară de MASA - CASA ?](https://www.facebook.com/groups/755526297805685/permalink/3902770676414549)
 - [The Magic Pill (2017)](https://www.netflix.com/ro-en/title/80238655)
+- https://www.udemy.com/course/ketosis-and-if-for-fat-loss/?referralCode=92E9B7EAFC36975B08A0
 
 ### Mushrooms
 

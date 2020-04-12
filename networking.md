@@ -91,6 +91,7 @@
 - https://github.com/shuhei/knowledge/blob/master/network.md#tcp
 - https://notes.shichao.io/tcpv1
 - https://github.com/jivoi/pentest/blob/master/notes/ipv6_tcpip_pocketguide.pdf
+- [MUST, SHOULD, DON'T CARE: TCP Conformance in the Wild](https://arxiv.org/abs/2002.05400v1)
 
 ### UDP
 
@@ -128,9 +129,11 @@
 
 ### HTTP/3
 
+- https://http3-explained.haxx.se/en
 - https://twitter.com/jgbarah/status/1177480451193131009
 - https://www.infoq.com/news/2020/01/http-3-status
 - [A QUIC look at HTTP/3](https://lwn.net/SubscriberLink/814522/ab3bfaa8f75c60ce)
+- https://www.bram.us/2020/04/08/how-to-enable-http3-in-chrome-firefox-safari
 
 ### Secure Shell
 

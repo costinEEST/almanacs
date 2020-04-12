@@ -35,6 +35,7 @@
 - [Entertainment](entertainment.md)
 - [F#](f#.md)
 - [Figma (the collaborative interface design tool)](figma.md)
+- [Furniture](furniture.md)
 - [Front-end development](frontend.md)
 - [Gadgets](gadgets.md)
 - [Go](go.md)

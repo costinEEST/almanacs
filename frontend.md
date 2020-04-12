@@ -57,7 +57,6 @@
 - http://fremycompany.com/BG/2016/Animate-width-from-zero-to-auto-kinda-895
 - https://fossheim.io/writing/posts/css-polaroid-camera
 
-
 ### SEO
 
 - https://developers.google.com/search/docs/guides/intro-structured-data
@@ -65,6 +64,7 @@
 - [🐿 Scurry around your site and find all those broken links.](https://github.com/JustinBeckwith/linkinator)
 - https://vasco3.gitbooks.io/hacks-n-notes/content/internet_marketing/seo.html
 - https://github.com/darekkay/best-practices#seo
+- [Curs Super SEO pentru eCommerce](https://academia.gomag.ro/biblioteca?access=67)
 
 ### Color
 
@@ -118,7 +118,6 @@
 - https://github.com/alexpate/awesome-design-systems
 - https://abookapart.com/products/expressive-design-systems
 
-
 ### Animations
 
 - [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
@@ -127,6 +126,7 @@
 - https://css-tricks.com/animating-layouts-with-the-flip-technique
 - [10 things I hate about animation.](https://birtles.github.io/mozdev2019)
 - https://rosenfeldmedia.com/books/designing-interface-animation/details/table-of-contents (coupon "UIANIMATE")
+- [Create 2D animations](https://medium.com/rive/announcing-rive-1326ad92e403)
 
 ### Illustrations
 
@@ -134,6 +134,8 @@
 - https://github.com/melanierichards/resources/blob/master/resources/illo.md
 - [Free icons - SVG, PNG, JavaScript & Icon Font - Over 1500 free vector icons · CoreUI Icons](https://github.com/coreui/coreui-icons)
 - [Open Peeps, Hand-Drawn Illustration Library.](https://www.openpeeps.com)
+- [iconmonstr - Free simple icons for your next project](https://iconmonstr.com)
+- https://undraw.co/illustrations
 
 ### Art
 

@@ -26,9 +26,9 @@
 - [How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
 - [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
 - [Make A Game In Unity With No Experience](https://www.youtube.com/playlist?list=PLUtKzyIe0aB3TZfe2wsIgJgGZW5G_NAxa)
+- https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course
 
 ### The creators
 
 - https://www.dicebreaker.com/topics/richard-garfield/feature/richard-garfield-interview-making-games
 - http://www.zachtronics.com/podcast
-

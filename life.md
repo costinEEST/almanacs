@@ -27,6 +27,7 @@
 - http://www.editura-electra.ro/produs/ierburile-sacre-etnobotanica-magica-romaneasca
 - http://www.indefenseofplants.com/podcast/2018/11/11/ep-186-being-totally-obsessed-with-botany
 - https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant
+- https://www.1800flowers.com/blog/flower-travels/virtual-garden-and-museum-tours-you-can-take-from-home
 
 ### Chemistry
 
@@ -41,7 +42,6 @@
 - [Heroin documentaries](https://matt.sh/heroin)
 - https://github.com/nikitavoloboev/knowledge/blob/master/chemistry/chemistry.md
 - [Chemistry - PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry)
-
 
 ### Physics
 

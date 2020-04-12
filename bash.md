@@ -4,6 +4,7 @@
 - https://www.grymoire.com/Unix/Awk.html
 - [Bash Quick References](https://shellmagic.xyz)
 - https://wiki.bash-hackers.org
+- https://elder.dev/posts/safer-bash
 
 ### Books
 

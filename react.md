@@ -74,6 +74,7 @@
 - [What's your current favorite date range picker?](https://twitter.com/erikras/status/1219559846661541888)
 - https://github.com/samdenty/console-feed
 - [Simple react component for swipe events on touch.](https://github.com/moubi/swipeable-react)
+- [Accessible custom select component](https://twitter.com/devongovett/status/1248304777588441088)
 
 ### Patterns
 

@@ -7,6 +7,9 @@
 - [Pretty cool alternative collection of fonts.](https://typespecimens.io)
 - https://app.programmingfonts.org
 
+### Tools
+
+- [Choose the font for your design](https://fontflipper.com)
 
 ### Miscellaneous
 
