@@ -143,6 +143,7 @@ javascript: (() =>
 ### Unicode
 
 - [Using untranslatable Unicode in place of a "?" when attacking URL parsers for SSRF/OAuth issues.](https://twitter.com/samwcyo/status/1246997498981494784)
+- https://medium.com/swlh/hacking-the-web-with-unicode-73d0f0c97aab
 
 ### Miscellaneous
 

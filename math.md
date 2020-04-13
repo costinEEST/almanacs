@@ -21,6 +21,7 @@
 - [A Programmer's Introduction to Mathematics by Jeremy Kun](https://pimbook.org)
 - https://yurichev.com/writings/Math-for-programmers.pdf
 - https://www.neilwithdata.com/mathematics-self-learner
+- [Any book to study mathematics from first principles?](https://twitter.com/dan_abramov/status/1249344084981972992)
 
 ### Courses
 
