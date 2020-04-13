@@ -135,6 +135,7 @@
 - https://blog.jethro.dev/posts/how_to_take_smart_notes_org
 - [Technical Writing Courses](https://developers.google.com/tech-writing)
 - https://medium.com/@gregsramblings/how-i-tamed-gmail-at-work-a0bd66a17a63
+- [Writing a Book with Pandoc, Make, and Vim](https://keleshev.com/my-book-writing-setup) + https://news.ycombinator.com/item?id=22854332
 
 ### Drawing
 

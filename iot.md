@@ -41,6 +41,7 @@
 
 ### Security
 
+- https://github.com/V33RU/IoTSecurity101
 - Backdooring a smart camera by creating a malicious firmware upgrade: [tweet](https://twitter.com/StackSmashing/status/1216738008441020416) + [repo](https://github.com/ghidraninja/wyze_scripts)
 - [Lecture notes for the Hardware and Embedded Systems Security lecture.](https://github.com/david-oswald/hwsec_lecture_notes) + https://twitter.com/sublevado/status/1219153201326366720
 - https://payatu.com/blog/Arun-Magesh/iot-security-part-4-bluetooth-low-energy-101

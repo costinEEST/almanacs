@@ -1,6 +1,7 @@
 ### AWS
 
 - [Cloudcraft – Draw AWS diagrams](https://cloudcraft.co)
+- Build your first Serverless app using AWS Lambda and React - https://serverless-stack.com + https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMjvMVHPvTZpzHSbNcxZgnvjx
 - [📙 Amazon Web Services — a practical guide.](https://github.com/open-guides/og-aws)
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools + https://twitter.com/ToniBlyx/status/1207073852968316928 + https://blyx.com/2018/07/18/my-arsenal-of-aws-security-tools
 - https://gumroad.com/l/aws-good-parts + https://hassenchaieb.com/aws-good-parts
@@ -28,6 +29,7 @@
 ### IBM
 
 - https://github.com/victorshinya/awesome-ibmcloud
+- Introduction to @IBMcloudant - [tweet](https://twitter.com/glynn_bird/status/1248217903276732419) + [video series](https://www.youtube.com/playlist?list=PLJa_sXrJUZb-Y4Q_5y3yPC8m5RxS5q-_J)
 
 ### Azure
 

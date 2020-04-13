@@ -10,3 +10,4 @@
 - https://www.perell.com/recommendations + https://twitter.com/david_perell/status/1225454678508548096
 - https://www.afr.com/work-and-careers/leaders/15-books-ray-dalio-says-you-should-read-to-understand-today-s-world-20190916-p52rnp
 - https://www.fastcompany.com/90470846/andreessen-horowitz-cofounder-ben-horowitz-gives-us-his-reading-list + https://www.goodbooks.io/people/ben-horowitz
+- [Cory House](http://outlierdeveloper.com/audiobooks) + https://github.com/coryhouse/timeless-skills

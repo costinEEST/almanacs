@@ -44,6 +44,7 @@
 ### Websites
 
 - http://www.alljapaneseallthetime.com/blog
+- https://thewordcat.wordpress.com/2020/04/08/japanese-language-resources
 
 ### Communities
 

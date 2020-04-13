@@ -7,6 +7,7 @@
 - https://github.com/jashmenn/cryptocurrencies-in-four-words
 - https://github.com/blockstack/reading-list
 - https://github.com/protofire/blockchain-learning-path
+- [State and Payment: Power-Up Your App Using JS with Infura.](https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMjrrrtKtSvHRVtLzFGlpqBzn)
 
 ### Boilerplate
 

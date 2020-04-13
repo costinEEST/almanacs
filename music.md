@@ -17,3 +17,7 @@
 ### Songs
 
 - [Why are song lyrics so often about love (or heartbreak)?](https://twitter.com/devonzuegel/status/1244386611657228288)
+
+### Jazz
+
+- https://www.montreuxjazzfestival.com/en/50-concerts-to-stream

@@ -57,6 +57,7 @@
 - https://github.com/ustayready/python-pentesting
 - [FUSE: Finding File Upload Bugs via Penetration Testing](https://github.com/WSP-LAB/FUSE)
 - https://elder.dev/posts/open-source-virtual-background
+- [Automate pulling Springer's free books.](https://github.com/octonion/springer)
 
 ### Boots
 
