@@ -141,6 +141,7 @@
 
 - [Keys to Drawing by Bert Dodson](https://youtu.be/df9OewgNbiI)
 - https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box
+- [Is it possible to write a lecture in real time on an iPad?](https://twitter.com/math3ma/status/1237510003856003072)
 
 ### Learning
 

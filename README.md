@@ -38,6 +38,7 @@
 - [Furniture](furniture.md)
 - [Front-end development](frontend.md)
 - [Gadgets](gadgets.md)
+- [Git](git.md)
 - [Go](go.md)
 - [Hardware](hardware.md)
 - [Haskell](haskell.md)
