@@ -117,6 +117,7 @@
 - [User-Agent](https://webplatform.news/issues/2020-03-19)
 - https://speakerdeck.com/triblondon/headers-for-hackers + https://www.slideshare.net/JSFestUA/js-fest-2019-andrew-betts-headers-for-hackers
 - [HTTP reverse proxies, normalize](https://twitter.com/defparam/status/1243892627512098817)
+- [Why is it necessary to use the correct HTTP status code? Specifically asking about redirects (301 or 302)](https://twitter.com/kentcdodds/status/1249723789006397442)
 
 ### HTTPS
 

@@ -2,6 +2,7 @@
 
 - https://andranistor.ro/2020/03/26/de-unde-cumparam-alimente-cand-nu-mai-merg-aplicatiile-cunoscute
 - https://mamamag.ro/producatorii-locali-de-alimente-de-la-care-ne-aprovizionam-in-autoizolare
+- https://ligiapop.com/2012/05/04/microferme-si-producatori-bio-locali
 
 ### Sleep
 

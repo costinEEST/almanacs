@@ -20,3 +20,14 @@
 - https://www.linuxjournal.com/content/job-control-bash-feature-you-only-think-you-dont-need
 - https://serversuit.com/community/blog/view/why-are-there-single-and-double-brackets-in-bash-what-s-the-difference.html
 - https://tomnomnom.com/talks/bug-bounties-with-bash-virsec.pdf
+- [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli)
+- [Put your previously typed command into clipboard.](https://twitter.com/chaignc/status/1199670722211254273)
+- [Useful bash one-liners for bio-informatics](https://github.com/stephenturner/oneliners)
+- [PC with Windows 10 embedded product key and wanna get it from within Linux](https://twitter.com/grufwub/status/1204511341219848194)
+- https://github.com/jgm/scripts
+- [Clear the line.](https://twitter.com/chaignc/status/1213412331876732928)
+- [Check all gzip files in a directory tree.](https://twitter.com/rotnroll666/status/1211951342492753920)
+- [Get the number of cores on a machine.](https://twitter.com/ReplicaJune/status/1212645946867228672)
+- [You can get a site's html and all of the page's dependencies with a single wget command.](https://twitter.com/philhawksworth/status/1214942635300982785)
+- [A command that will copy files from one directory to another and if there are two files with the same name it will rename it.](https://twitter.com/kentcdodds/status/1215744921287589888)
+- wget -m -np -c -U "gimme" -R "index.html\*" "http://index-of.es/EBooks/"
