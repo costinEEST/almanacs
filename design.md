@@ -18,6 +18,7 @@
 - [Design – Vox](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5ciSdIo4uRt26NRxmVs0TTQ)
 - [Rams - Gary Hustwit](https://vimeo.com/404760526)
 - [Urbanized - Gary Hustwit](https://vimeo.com/402413663)
+- [Workplace -  Gary Hustwit](https://vimeo.com/407343244)
 - https://www.hustwit.com/objectified
 - https://www.hustwit.com/helvetica
 - [Abstract. The Art of Design (2017)](https://www.netflix.com/ro-en/title/80057883)
