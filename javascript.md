@@ -325,6 +325,7 @@
 - Clean up all node_modules in projects - [tweet](https://twitter.com/swyx/status/1064672618450579457) + [gist](https://gist.github.com/zephraph/9169b9de4568b858f4b0e45fc41218b7)
 - [Uppload is a better JavaScript image uploader with 30+ plugins](https://github.com/elninotech/uppload)
 - https://softeng.oicr.on.ca/bob_tiernay/2017/02/13/JSON-Like-a-Boss-with-jq
+- [How can I tell webpack, "Whenever I import @blueprintjs/core, also import blueprintjs/core/lib/css/blueprint.css first"?](https://twitter.com/sophiebits/status/1249853629093179392)
 
 ### Maps
 
