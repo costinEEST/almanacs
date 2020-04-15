@@ -45,6 +45,10 @@
 - [SQLBolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com)
 - https://www.sqlhabit.com/blog/posts/how-to-detect-recurring-payments-with-sql
 
+### NoSQL
+
+- https://github.com/riyazwalikar/injection-attacks-nosql-talk
+
 ### Relational databases
 
 - [Postgres is the perfect database.](https://twitter.com/Swizec/status/1232376212195966976)

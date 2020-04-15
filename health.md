@@ -23,6 +23,7 @@
 - http://www.shapesense.com/fitness-exercise/calculators/running-calorie-burn-calculator.shtml
 - [Cine a (mai) fost la sporturi de contact?](https://www.facebook.com/apostu.alin.claudiu/posts/1935540589911432)
 - [Building My Home Garage Gym](https://jamonholmgren.com/gym)
+- [Site that generates random workout routines.](https://github.com/diracdeltas/random-training)
 
 ### Injuries
 

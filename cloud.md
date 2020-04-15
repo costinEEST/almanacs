@@ -34,6 +34,7 @@
 ### Azure
 
 - https://www.nexmo.com/blog/2020/01/29/how-send-receive-sms-messages-with-node-js-azure-functions-dr
+- https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
 
 ### Platform independent
 

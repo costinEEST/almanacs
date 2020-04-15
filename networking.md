@@ -118,6 +118,7 @@
 - https://speakerdeck.com/triblondon/headers-for-hackers + https://www.slideshare.net/JSFestUA/js-fest-2019-andrew-betts-headers-for-hackers
 - [HTTP reverse proxies, normalize](https://twitter.com/defparam/status/1243892627512098817)
 - [Why is it necessary to use the correct HTTP status code? Specifically asking about redirects (301 or 302)](https://twitter.com/kentcdodds/status/1249723789006397442)
+- https://hacks.mozilla.org/2020/04/twitter-direct-message-caching-and-firefox
 
 ### HTTPS
 
@@ -125,7 +126,7 @@
 
 ### HTTP2
 
-- https://github.com/bagder/http2-explained
+- https://github.com/bagder/http2-explained + https://daniel.haxx.se/http2
 - https://github.com/hex13/javascript-visual-explanations#web-protocols
 
 ### HTTP/3
