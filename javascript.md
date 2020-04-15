@@ -62,6 +62,7 @@
 - [Learn built-in JavaScript methods by rolling your own!](https://github.com/nas5w/roll-your-own)
 - [Future JavaScript: what is still missing?](https://2ality.com/2019/01/future-js.html)
 - https://medium.com/@bluepnume/how-many-keywords-can-you-place-in-a-row-in-javascript-fa9046b4c1ff
+- https://www.reddit.com/r/Slackers/comments/ex5mmt/cool_ways_to_generate_strings_in_javascript
 
 ### Books
 
@@ -168,6 +169,7 @@
 ### new Date()
 
 - [One page calendar 2020](https://davebakker.io/onepagecalendar)
+- [Wondering how to best display the current time (hh:mm) on a web page.](https://twitter.com/rauschma/status/1228056819567910914)
 
 ### setInterval()
 

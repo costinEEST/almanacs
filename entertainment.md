@@ -54,8 +54,6 @@
 - https://jumunteanu.wordpress.com/2014/01/17/7-carti-pentru-relationisti-sau-pentru-cei-interesati-in-psihologia-maselor-si-manipularea-acestora-prin-mijloacele-de-comunicare-4 + https://www.academia.edu/20833296/02._Edward_Bernays_-_Cristalizarea_opiniei_publice
 - https://en.wikipedia.org/wiki/The_Presentation_of_Self_in_Everyday_Life
 
-
-
 ### Christianity
 
 - [Misquoting Jesus by Bart D. Ehrman (2005)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#misquoting-jesus)
@@ -74,6 +72,7 @@
 - https://en.wikipedia.org/wiki/Down_Under_(book)
 - https://www.outsideonline.com/2404906/backpacking-outdoor-maps-guide
 - [A map of the world's virtual museums.](https://virtualmuseums.io) + https://news.ycombinator.com/item?id=22777326
+- [Autostrada A10](https://www.youtube.com/channel/UCB900RmT-yVwbe4XxehSAFw/videos)
 
 ### History
 
@@ -139,6 +138,8 @@
 - [Team Bradley](https://www.youtube.com/channel/UCYu89Q_krburzkoDSpm5xjw)
 - https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock
 - [ScribbleX – Create some art with friends.](https://scribblex.com)
+- https://store.steampowered.com/app/442070/Drawful_2
+- http://www.openculture.com/2020/02/old-book-illustrations-download.html
 
 ### Architecture
 

@@ -11,6 +11,7 @@
 
 - https://twitter.com/jeremyjkun/status/1208842557624471552
 - [What is your most obsolete technical book that you would not / will not get rid of, for sentimental reasons?](https://twitter.com/starsandrobots/status/1219504631438397441)
+- https://ultimateelectronicsbook.com
 
 ### Playground
 
@@ -25,3 +26,4 @@
 - [Demonstration of various hardware effects.](https://github.com/Kobzol/hardware-effects)
 - [Mechanical Ventilator Milano (MVM): A Novel Mechanical Ventilator Designed for Mass Scale Production in Response to the COVID-19 Pandemics](https://arxiv.org/abs/2003.10405)
 - https://www.instructables.com/id/The-Pandemic-Ventilator
+- [Lasersaur -- open source laser cutter](https://github.com/nortd/lasersaur)

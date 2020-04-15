@@ -59,6 +59,7 @@
 - https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database
 - https://leontrolski.github.io/nested-sql.html
 - https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
+- https://thedataguy.in/internals-of-google-cloud-spanner
 
 ### Real-time databases
 

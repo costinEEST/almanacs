@@ -21,6 +21,7 @@
 - [Anatomy & Human Body - Tykato Fitness ](https://www.youtube.com/playlist?list=PLRpkzoMo7s2bVD4B5AqASGJfCQUFXfnNP)
 - [Gut Check: Exploring Your Microbiome](https://www.coursera.org/learn/microbiome)
 - https://www.youtube.com/user/Campbellteaching/playlists
+- [Ninja Nerd Science](https://www.youtube.com/channel/UC6QYFutt9cluQ3uSM963_KQ/playlists)
 
 ### Botany
 
@@ -61,3 +62,4 @@
 - [8.02x - MIT Physics II: Electricity and Magnetism](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 - [8.03 - MIT Physics III: Vibrations and Waves](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89)
 - [ Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw/playlists)
+- https://ciechanow.ski/gears

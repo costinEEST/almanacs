@@ -12,7 +12,6 @@
 - [Understanding the bin, sbin, usr/bin , usr/sbin split.](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 - https://toroid.org/unix-pipe-implementation
 
-
 ### CLI
 
 - https://thenewstack.io/get-to-know-vi-a-text-editor-for-the-ages
@@ -23,3 +22,8 @@
 - https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe
 - https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet
 - [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma) + https://news.ycombinator.com/item?id=22778988
+
+### Flavours
+
+- https://genneko.github.io/playing-with-bsd/hardware/freebsd-on-thinkpad-t480
+- https://www.jeremymorgan.com/blog/freebsd/freebsd-developer-2020

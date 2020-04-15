@@ -69,14 +69,14 @@
 ### Practice
 
 - [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
-- https://github.com/danistefanovic/build-your-own-x
+- https://github.com/danistefanovic/build-your-own-x + https://github.com/tuvtran/project-based-learning + https://github.com/AlgoryL/Projects-from-Scratch + [“Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918) + [What are some books where the reader learns by building projects?](https://news.ycombinator.com/item?id=22299180)
 - https://github.com/karan/Projects
 
 ### Domain-Driven Design
 
 - [A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources ](https://github.com/heynickc/awesome-ddd)
 - [A learning path about Clean Code, TDD, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture.](https://github.com/joebew42/study-path)
-- https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S + https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8 
+- https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S + https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8
 
 ### Miscellaneous
 
@@ -84,7 +84,7 @@
 - https://github.com/kdeldycke/awesome-falsehood#meta
 - https://github.com/kdeldycke/awesome-falsehood#emails
 - https://github.com/kdeldycke/awesome-falsehood#dates-and-time
-- [You advocate a ________ approach to calendar reform @ Things Of Interest](https://qntm.org/calendar)
+- [You advocate a **\_\_\_\_** approach to calendar reform @ Things Of Interest](https://qntm.org/calendar)
 - [The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head)](http://rudy.ca/doomsday.html)
 - [The year 1900 was _not_ a leap year](https://twitter.com/philwalton/status/1214268809122418688)
 - https://github.com/kdeldycke/awesome-falsehood#software-engineering

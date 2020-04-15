@@ -19,3 +19,5 @@
 - [What are some of your favorite @github tips and tricks?](https://twitter.com/jsjoeio/status/1243979940669857794)
 - https://gpanders.com/posts/creating-your-own-git-server
 - https://ses4j.github.io/2020/04/01/git-alias-recent-branches
+- https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
+- https://www.welcometothejungle.com/en/articles/btc-history-git

@@ -21,3 +21,4 @@
 ### Tools
 
 - [Make nice animated diagrams.](https://twitter.com/jlongster/status/1247530020928499714)
+- https://www.getmotion.io/blog/where-are-all-the-animated-svgs

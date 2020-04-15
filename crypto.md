@@ -7,6 +7,7 @@
 - [Get HTTPS for free!](https://github.com/diafygi/gethttpsforfree)
 - https://github.com/dakshshah96/local-cert-generator
 - [Best Practices for ACME Client Operations. Considerations for Long-Running TLS Certificate Management Software.](https://docs.https.dev/acme-ops)
+- https://ma.ttias.be/the-end-of-extended-validation-certificates + https://www.aaronpeters.nl/blog/ev-certificates-make-the-web-slow-and-unreliable
 
 ### Standards
 
