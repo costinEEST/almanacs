@@ -4,6 +4,7 @@
 - [The Handbook of Healthcare Delivery Systems (reviewed by Gregory Schmidt)](https://www.youtube.com/playlist?list=PL7e8VJ_ZN6eqd8ceHTM3OYoThy21yIoJO)
 - https://www.amazon.com/Biomimicry-Innovation-Inspired-Janine-Benyus/dp/0060533226
 - https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879
+- https://twitter.com/rjs/status/1246161738069753856
 
 ### Graphic design
 
@@ -18,7 +19,7 @@
 - [Design – Vox](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5ciSdIo4uRt26NRxmVs0TTQ)
 - [Rams - Gary Hustwit](https://vimeo.com/404760526)
 - [Urbanized - Gary Hustwit](https://vimeo.com/402413663)
-- [Workplace -  Gary Hustwit](https://vimeo.com/407343244)
+- [Workplace - Gary Hustwit](https://vimeo.com/407343244)
 - https://www.hustwit.com/objectified
 - https://www.hustwit.com/helvetica
 - [Abstract. The Art of Design (2017)](https://www.netflix.com/ro-en/title/80057883)

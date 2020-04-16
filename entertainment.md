@@ -143,6 +143,8 @@
 
 ### Architecture
 
+- https://www.amazon.com/Battle-Life-Beauty-Earth-World-Systems/dp/0199898073
+- https://www.amazon.com/The-Original-Green-Unlocking-Sustainability/dp/1931871116
 - https://devonzuegel.com/post/cities-reading-list + https://twitter.com/michael_nielsen/status/975886747870441472
 - https://www.youtube.com/user/30by40/playlists
 
