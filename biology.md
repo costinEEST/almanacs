@@ -10,7 +10,7 @@
 
 - [Biology by CrashCourse](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
 - [Exploring Different Species by Journey to the Microcosmos](https://www.youtube.com/playlist?list=PLf3BfsFyWWMF48QHimH7jxHQMX0Q5UpPS)
-
+- https://www.edx.org/course/the-science-and-business-of-biotechnology
 
 ### Miscellaneous
 

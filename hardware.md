@@ -6,6 +6,7 @@
 ### Courses
 
 - https://www.instructables.com/class/Electronics-Class
+- https://www.youtube.com/user/AddOhms/playlists
 
 ### Books
 

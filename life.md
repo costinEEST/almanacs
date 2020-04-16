@@ -44,6 +44,7 @@
 - [Heroin documentaries](https://matt.sh/heroin)
 - https://github.com/nikitavoloboev/knowledge/blob/master/chemistry/chemistry.md
 - [Chemistry - PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry)
+- https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms
 
 ### Physics
 

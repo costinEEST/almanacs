@@ -2,7 +2,7 @@
 
 - https://www.bleepingcomputer.com/news/microsoft/you-can-still-upgrade-to-windows-10-for-free-heres-how
 - https://twitter.com/JenMsft/status/1218526323271823360
-  
+
 ### Talks
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeJrvjEuCygYk4QiTXQpOyW
@@ -24,6 +24,7 @@
 
 - [Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files.](https://github.com/tibold/svg-explorer-extension)
 - https://gitlab.com/massgrave/microsoft-activation-scripts
+- https://www.zdnet.com/google-amp/article/dell-releases-new-tool-to-detect-bios-attacks
 
 ### Powershell
 

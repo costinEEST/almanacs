@@ -50,6 +50,7 @@
 - https://github.com/bsclifton/home-router-config
 - https://medium.com/@cityhnet/cable-modem-jailbreaks-e98cce92698c
 - https://0x90.psaux.io/2020/03/22/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-III
+- https://www.blackhillsinfosec.com/home-network-design-part-2
 
 ### Telecommunications
 
