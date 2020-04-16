@@ -1,3 +1,7 @@
+### Courses
+
+- [Internet of Things: Foundations and Applications (2015)](http://dret.net/lectures/iot-spring15)
+
 ### Arduino
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUe2-bhkgFCCKwCyx_ZBzCcp

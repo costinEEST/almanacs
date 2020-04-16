@@ -8,6 +8,10 @@
 
 - Write web applications in Go without using a framework: [book](https://leanpub.com/antitextbookGo) + (recordings)[https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4]
 
+### TV
+
+- [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/playlists)
+
 ### Tools
 
 - [Repo of useful scripts](https://github.com/lc/hacks)
@@ -17,6 +21,7 @@
 - [A Chrome cookie dumping utility.](https://github.com/CCob/gookies)
 - [Human readable entropy.](https://gitlab.com/NebulousLabs/entropy-mnemonics)
 - [Running Golang on the browser with WebAssembly and TinyGo](https://marianogappa.github.io/software/2020/04/01/webassembly-tinygo-cheesse)
+- [A workshop covering all the tools gophers use in their day to day life](https://github.com/campoy/go-tooling-workshop)
 
 ### References
 

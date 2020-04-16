@@ -17,6 +17,7 @@
 - https://github.com/leandromineti/awesome-healthmetrics
 - https://theaisummer.com/Deep-Learning-Algorithms
 - https://github.com/jivoi/awesome-ml-for-cybersecurity
+- https://github.com/src-d/awesome-machine-learning-on-source-code
 
 ### Tools
 

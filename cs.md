@@ -77,6 +77,7 @@
 - [A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources ](https://github.com/heynickc/awesome-ddd)
 - [A learning path about Clean Code, TDD, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture.](https://github.com/joebew42/study-path)
 - https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S + https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8
+- https://eventmodeling.org/resources
 
 ### Miscellaneous
 

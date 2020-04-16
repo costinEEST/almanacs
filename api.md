@@ -37,27 +37,15 @@
 ### Weather
 
 - Get the weather from terminal
+
 ```
 curl v2.wttr.in/Bucharest
 ```
-
 
 ### Geography
 
 - [City data repository for mapnificent.net](https://github.com/mapnificent/mapnificent_cities) + https://stefanwehrmeyer.com/projects/mapnificent
 - [Dear map people,](https://twitter.com/tmcw/status/1133165834677866496)
-
-### Miscellaneous
-
-- https://github.com/n0shake/Public-APIs
-- https://dontkillmyapp.com/apidoc
-- https://tldrsec.com/blog/appsec-cali-2019/#preventing-mobile-app-and-api-abuse
-- https://phil.tech/2018/05/21/picking-an-api-paradigm-implementation
-- https://plus.codes
-- https://shkspr.mobi/blog/2020/01/why-api-responses-should-be-signed
-- https://vasco3.gitbooks.io/hacks-n-notes/content/apis.html
-- https://github.com/danburzo/toolbox#apis
-- https://github.com/smodnix/31-days-of-API-Security-Tips + https://docs.google.com/spreadsheets/d/1jn3JnWzQFZW41gKo5Fhxwf2ke2w-pvrpCGhBmKhyIBE + https://drive.google.com/file/d/1iMGqUUpaiQrEys4IOETwgxti8AiShomZ/view
 
 ### Chemistry
 
@@ -68,3 +56,17 @@ curl v2.wttr.in/Bucharest
 - https://github.com/darekkay/tip-of-the-day/tree/master/src/data-sources/countries-en
 - https://github.com/oldboyxx/Mapped-Country-Language-Codes
 - [Full list of timezones.](https://github.com/dmfilipenko/timezones.json)
+
+### Miscellaneous
+
+- https://github.com/n0shake/Public-APIs
+- http://algermissen.io/classification_of_http_apis.html + http://algermissen.io/2019/03/rest-design-essentials
+- https://github.com/algermissen/rest-discuss-archive
+- https://dontkillmyapp.com/apidoc
+- https://tldrsec.com/blog/appsec-cali-2019/#preventing-mobile-app-and-api-abuse
+- https://phil.tech/2018/05/21/picking-an-api-paradigm-implementation
+- https://plus.codes
+- https://shkspr.mobi/blog/2020/01/why-api-responses-should-be-signed
+- https://vasco3.gitbooks.io/hacks-n-notes/content/apis.html
+- https://github.com/danburzo/toolbox#apis
+- https://github.com/smodnix/31-days-of-API-Security-Tips + https://docs.google.com/spreadsheets/d/1jn3JnWzQFZW41gKo5Fhxwf2ke2w-pvrpCGhBmKhyIBE + https://drive.google.com/file/d/1iMGqUUpaiQrEys4IOETwgxti8AiShomZ/view

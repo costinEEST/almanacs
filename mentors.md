@@ -12,3 +12,4 @@
 - https://www.fastcompany.com/90470846/andreessen-horowitz-cofounder-ben-horowitz-gives-us-his-reading-list + https://www.goodbooks.io/people/ben-horowitz
 - [Cory House](http://outlierdeveloper.com/audiobooks) + https://github.com/coryhouse/timeless-skills
 - [Andrew Chen](https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMjqjzlnvwlxFddJZjLhsTxfr)
+- http://davewascha.com/#reading

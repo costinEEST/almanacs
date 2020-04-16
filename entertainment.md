@@ -59,6 +59,11 @@
 - [Misquoting Jesus by Bart D. Ehrman (2005)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#misquoting-jesus)
 - [A Brief History of Thought: A Philosophical Guide to Living (Learning to Live)](https://www.amazon.com/Brief-History-Thought-Philosophical-Learning/dp/0062074245)
 - https://twitter.com/soenke_ahrens/status/1155167135485825024
+- [How the movement of Jesus became a global religion and what are the archaeological sources of Christianity before Constantine the Great.](https://www.facebook.com/szabo.t.csaba/videos/3083415848344683)
+- [Ante Pacem: Archaeological Evidence of Church Life Before Constantine - Graydon F. Snyder](https://books.google.ro/books/about/Ante_Pacem.html?id=F4kcAAAAMAAJ)
+- https://www.academia.edu/37604059/Peter_Brown_The_Rise_and_Function_of_the_Holy_Man_in_Late_Antiquity_1971-1997_Journal_of_Early_Christian_Studies_6_3_1998_353-376
+- [Big Gods: How Religion Transformed Cooperation and Conflict - Ara Norenzayan](https://www.goodreads.com/book/show/17942053-big-gods)
+- [Religious Experience Reconsidered: A Building-Block Approach to the Study of Religion and Other Special Things - Ann Taves](https://www.amazon.com/Religious-Experience-Reconsidered-Building-Block-Approach/dp/0691140871)
 
 ### Geography
 
@@ -147,6 +152,7 @@
 - https://www.amazon.com/The-Original-Green-Unlocking-Sustainability/dp/1931871116
 - https://devonzuegel.com/post/cities-reading-list + https://twitter.com/michael_nielsen/status/975886747870441472
 - https://www.youtube.com/user/30by40/playlists
+- https://blog.archisnapper.com/best-apps-for-architects-2020
 
 ### Build
 
