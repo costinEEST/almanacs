@@ -59,6 +59,7 @@
 - [Lisp](lisp.md)
 - [Mac OS](mac.md)
 - [Malware](malware.md)
+- [Markdown](markdown.md)
 - [Mathematics](math.md)
 - [Mentors](mentors.md)
 - [Music](music.md)
@@ -100,3 +101,4 @@
 - [Working with audio files](audio.md)
 - [Working with image files](image.md)
 - [Working with video files](video.md)
+- [XML (Extensible Markup Language)](xml.md)
