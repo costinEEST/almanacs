@@ -4,7 +4,7 @@
 - https://www.slideshare.net/JayTurla2/building-your-car-hacking-labs-car-hacking-community-from-scratch
 - [scanlime](https://www.youtube.com/user/micahjd/playlists)
 - [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://youtu.be/aHx-XUA6f9g)
-- https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk 
+- https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk
 
 ### Courses
 
@@ -14,6 +14,7 @@
 - ["Reverse Engineering Intel x86/x64 binaries 101" class (using IDA)](https://github.com/0xdidu/Reverse-Engineering-Intel-x64-101)
 - [Reverse engineering course by Z0F. Focuses on x64 Windows.](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 - [Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories.](https://github.com/malrev/ABD)
+- https://skybulk.github.io/syllabus
 
 ### Books
 
@@ -25,6 +26,7 @@
 - https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md
 - https://www.coresecurity.com/article/reversing-and-exploiting-free-tools
 - [AvastSvc.exe contained a full, unSandboxEd JavaScript/DOM implementation](https://github.com/taviso/avscript)
+- https://unprovable.github.io/jekyll/update/2016/11/04/Frida-For-All.html
 
 ### Fuzzers
 
@@ -34,3 +36,4 @@
 
 - https://github.com/Auxy233/misc
 - https://pwn.college
+- https://unprovable.github.io/jekyll/update/2016/11/03/BoF-Tutorial-Update.html
