@@ -47,6 +47,7 @@
 - [A tool that transforms Firefox browsers into a penetration testing suite.](https://github.com/mazen160/Firefox-Security-Toolkit)
 - https://github.com/aaronjanse/dns-over-wikipedia
 - https://github.com/makaroni4/youtube_time_tracker
+- [VoiceFiller Speech To Text for Website Forms](https://chrome.google.com/webstore/detail/voicefiller-speech-to-tex/mgafhkmkdcbkjajcblfijmlpiknfhffl/)
 
 ### Bookmarklets
 
@@ -76,6 +77,7 @@ javascript: (() =>
 - [Anyone do much with WebRTC?](https://twitter.com/tannerlinsley/status/1220121545621700609)
 - [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
 - https://github.com/whatismyinternalip/whatismyinternalip.github.io
+- [The various ways your RTC may be crushed; a presentation on RTC DoS attacks - Enable Security](https://www.youtube.com/playlist?list=PLfoovPTqAipVGa__xPSatN9qKC22nTKl7)
 
 ### Chrome
 

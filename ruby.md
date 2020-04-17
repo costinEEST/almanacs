@@ -8,6 +8,10 @@
 - https://legacy.gitbook.com/book/rubyfu/rubyfu/details
 - https://legacy.gitbook.com/book/learnbyexample/ruby-scripting/details
 
+### Practice
+
+- https://github.com/alexpeattie/letsencrypt-fromscratch
+
 ### References
 
 - https://github.com/franzejr/best-ruby

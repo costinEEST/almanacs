@@ -59,6 +59,11 @@
 - https://elder.dev/posts/open-source-virtual-background
 - [Automate pulling Springer's free books.](https://github.com/octonion/springer)
 
+### Testing
+
+- https://www.abhaybhargav.com/tdd-for-serverless-my-setup
+- https://www.abhaybhargav.com/security-automation-with-a-markdown-file
+
 ### Boots
 
 - https://github.com/musically-ut/first-timers-only-bot

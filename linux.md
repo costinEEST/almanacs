@@ -18,6 +18,7 @@
 ### Containers
 
 - [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)
+- [A workshop on Linux containers: Rebuild Docker from Scratch.](https://github.com/Fewbytes/rubber-docker)
 
 ### Internals
 
@@ -55,6 +56,7 @@
 - https://github.com/ernw/hardening/blob/master/operating_system/linux/ERNW_Hardening_Linux.md
 - https://github.com/trimstray/the-practical-linux-hardening-guide
 - https://github.com/trimstray/linux-hardening-checklist
+- https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit
 
 ### Opinions
 

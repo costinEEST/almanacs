@@ -33,3 +33,7 @@
 ### References
 
 - https://allthetags.com
+
+### Security
+
+- [HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors](https://html5sec.org)
