@@ -26,6 +26,7 @@
 - https://www.futurelearn.com/courses/explore-english-shakespeare
 - [English for Emails by British Council](https://www.youtube.com/playlist?list=PLm7J5yZ2yc3lSzvNTBA4Vssy6a2CaOjS3)
 - [#LearnALanguage – with Britain's most multilingual student by British Council](https://www.youtube.com/playlist?list=PLaALxC_iM0-YOHikUMmmV-rbSgMc9Ei1W)
+  [Pronunciation Tutorials - MimicMethod](https://www.youtube.com/playlist?list=PLe8oyXzXqjDuPUXWXRqibx8grJUTN0vAy)
 
 ### Books
 

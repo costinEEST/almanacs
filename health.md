@@ -52,6 +52,11 @@
 - [Mr. Mineral | Minerals for Body, Brain and Business Optimization- Thomas DeLauer](https://www.youtube.com/playlist?list=PLFbLg_bIQgxC-NtGO7TzTTO0Lgd8R-Vop)
 - [În București, de unde vă procurați stevie, turmeric, fulgi de drojdie inactivă?](https://www.facebook.com/groups/755526297805685/permalink/3994212310603718)
 
+### Vegetables
+
+- https://www.cristianmargarit.ro/2014/10/despre-antinutrienti-si-toxine-naturale-mancare
+- [Lectins - clistbus](https://www.youtube.com/playlist?list=PLy5C4b2v0Bq0vTRUziPB_RB3ZJu1Mmplj)
+
 ### Ketosis
 
 - https://perfectketo.com/guide/ultimate-start-guide-ketogenic-diet

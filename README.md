@@ -97,6 +97,7 @@
 - [Web assembly](wasm.md)
 - [Web browser](browsers.md)
 - [Windows OS](win.md)
+- [Wireshark (Open-source packet analyzer)](wireshark.md)
 - [WordPress](wordpress.md)
 - [Working with audio files](audio.md)
 - [Working with image files](image.md)

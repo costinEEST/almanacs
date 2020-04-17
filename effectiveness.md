@@ -5,8 +5,13 @@
 - [Typey Type for Stenographers.](https://didoesdigital.com/typey-type)
 - https://github.com/manfredschulenburg/rasyti
 
+### Searching
+
+- [Recon Lab: Ethical Google Hacking - Securing The Stack](https://www.youtube.com/playlist?list=PLP91MtCof9klPenCxTzBTfRctceWYNN9t)
+
 ### VS Code
 
+- https://www.youtube.com/watch?v=oeFLeAs3plM&list=PLWIcRrPLCdUethIDPGPwe-Lqnw1J8hzsX
 - https://github.com/viatsko/awesome-vscode
 - https://github.com/microsoft/vscode-tips-and-tricks
 - [VS Code Recipes](https://github.com/Microsoft/vscode-recipes)

@@ -13,6 +13,8 @@
 - [The musical time machine](https://radiooooo.com)
 - [Royalty free songs](https://www.youtube.com/audiolibrary)
 - http://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4 + https://open.spotify.com/playlist/27Ga7s7D4lFUWhZQZ8heqM
+- [Music Theory Distilled - Casey Connor ](https://www.youtube.com/playlist?list=PL618khw0A-t4q9AEsgmfHjqklmkx-PGKq)
+- [Modes and Music Theory - Signals Music Studio](https://www.youtube.com/playlist?list=PLTR7Cy9Sv285kV3pohsMtUg_O_50oDyoR)
 
 ### Songs
 

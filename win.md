@@ -6,6 +6,7 @@
 ### Talks
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeJrvjEuCygYk4QiTXQpOyW
+- [Using Windows 10 - Technical Previews and How Tos! - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdI26ZdgX-F8aAKnh9sq6on)
 
 ### Courses
 

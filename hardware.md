@@ -2,6 +2,7 @@
 
 - https://github.com/hellerve/programming-talks#hardware
 - [Review and analysis of bulb. By electronupdate](https://www.youtube.com/playlist?list=PLv9WfM3NgK2xFHrD9BJ4-4CEbRpbe6DFP)
+- [March is for Makers - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdpNzI3uaAu-kqWvH4BttLQ)
 
 ### Courses
 

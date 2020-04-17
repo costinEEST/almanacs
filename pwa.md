@@ -1,3 +1,7 @@
+### Courses
+
+- [Progressive Web App Training - Google Chrome Developers](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
+
 ### Case studies
 
 - https://formidable.com/work/starbucks-progressive-web-app + https://realtalkjavascript.simplecast.com/episodes/episode-74-react-at-starbucks-with-cher
