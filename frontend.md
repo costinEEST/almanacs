@@ -243,3 +243,4 @@
 - [The 8 best chatbot builders in 2020: For marketers, customer support, and more](https://zapier.com/blog/best-chatbot-builders)
 - https://andreasbm.github.io/web-skills
 - https://github.com/bcherny/frontend-interview-questions
+- [UI Design Daily | Weekly FREE UI resources straight to your inbox](https://uidesigndaily.com)

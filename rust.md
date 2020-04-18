@@ -1,3 +1,7 @@
+### Best practices
+
+- https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust + (https://news.ycombinator.com/item?id=22818150)
+
 ### Tutorials
 
 - https://twitter.com/samaaron/status/1214649047002292224

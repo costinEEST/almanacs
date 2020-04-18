@@ -13,3 +13,4 @@
 - [Cory House](http://outlierdeveloper.com/audiobooks) + https://github.com/coryhouse/timeless-skills
 - [Andrew Chen](https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMjqjzlnvwlxFddJZjLhsTxfr)
 - http://davewascha.com/#reading
+- [Aaron Swartz Hackathon 2017 - Code Therapy](https://www.youtube.com/playlist?list=PL7RY3c_PbOzFz2spZTMS3PBkNEfwXgOTW)
