@@ -6,7 +6,7 @@
 
 ##### Some links could be deleted if I don't find them relevant at some point in time.
 
-##### Most of the links are listed here only for the potential of being useful someday.
+##### Most of the links are listed here for the potential of being useful someday.
 
 - [Abilities](ability.md)
 - [Artificial intelligence](ai.md)
@@ -14,8 +14,10 @@
 - [Angular](angular.md)
 - [Application Programmable Interface](api.md)
 - [Apparel](apparel.md)
+- [Architecture](architecture.md)
 - [Assembly](asm.md)
 - [Bash](bash.md)
+- [Basketball](basketball.md)
 - [Biology](biology.md)
 - [Burp Suite](burp.md)
 - [Business](business.md)

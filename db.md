@@ -48,10 +48,12 @@
 ### NoSQL
 
 - https://github.com/riyazwalikar/injection-attacks-nosql-talk
+- [A Primer on the DynamoDB NoSQL database.](https://www.dynamodbguide.com)
 
 ### Relational databases
 
 - [Postgres is the perfect database.](https://twitter.com/Swizec/status/1232376212195966976)
+- http://postgresguide.com
 - [Postgres Explain Visualizer 2](https://github.com/dalibo/pev2)
 - [Sync Postgres data between databases](https://github.com/ankane/pgsync)
 - [Simplify: Move Code Into Database Functions](https://sivers.org/pg)

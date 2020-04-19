@@ -39,6 +39,7 @@
 ### Talks
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeao8hSw3tegcabrp8vV55t
+- https://www.youtube.com/user/currankelleher/playlists
 
 ### Radio
 

@@ -64,6 +64,7 @@
 - https://www.academia.edu/37604059/Peter_Brown_The_Rise_and_Function_of_the_Holy_Man_in_Late_Antiquity_1971-1997_Journal_of_Early_Christian_Studies_6_3_1998_353-376
 - [Big Gods: How Religion Transformed Cooperation and Conflict - Ara Norenzayan](https://www.goodreads.com/book/show/17942053-big-gods)
 - [Religious Experience Reconsidered: A Building-Block Approach to the Study of Religion and Other Special Things - Ann Taves](https://www.amazon.com/Religious-Experience-Reconsidered-Building-Block-Approach/dp/0691140871)
+- How Jesus Became a Christ - https://youtu.be/K8jdGNXIgfk + https://www.youtube.com/playlist?list=PLm7uyPwcHexJKzQVzfMyLT0epfOTYXm3N
 
 ### Geography
 
@@ -88,6 +89,7 @@
 - https://twitter.com/danielmamay/status/1158144437542895618
 - https://twitter.com/monicaMedHist/status/1149342569458876417
 - https://lithub.com/what-we-can-learn-and-should-unlearn-from-albert-camuss-the-plague
+- [Eastory](https://www.youtube.com/channel/UCElybFZ60Hk1NSjgCf7I2sg/playlists)
 
 ### Mythology
 
@@ -117,6 +119,7 @@
 ### Buddhism
 
 - What Makes You Not a Buddhist: [review + some recommended books](https://www.goodreads.com/review/show/1820538290)
+- [Dalai Lama - Bridging Buddhism & Science - ACI Dharma România](https://www.youtube.com/playlist?list=PLb771hFqA1oTskt3tJ8nF73bxlTlbhZ-o)
 
 ### Islam
 
@@ -145,14 +148,6 @@
 - [ScribbleX – Create some art with friends.](https://scribblex.com)
 - https://store.steampowered.com/app/442070/Drawful_2
 - http://www.openculture.com/2020/02/old-book-illustrations-download.html
-
-### Architecture
-
-- https://www.amazon.com/Battle-Life-Beauty-Earth-World-Systems/dp/0199898073
-- https://www.amazon.com/The-Original-Green-Unlocking-Sustainability/dp/1931871116
-- https://devonzuegel.com/post/cities-reading-list + https://twitter.com/michael_nielsen/status/975886747870441472
-- https://www.youtube.com/user/30by40/playlists
-- https://blog.archisnapper.com/best-apps-for-architects-2020
 
 ### Build
 

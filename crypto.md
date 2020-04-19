@@ -56,6 +56,7 @@
 ### Practice
 
 - [CryptoHack – A fun platform for learning cryptography](https://cryptohack.org)
+- [Cryptopals on Twitch - Filippo Valsorda](https://www.youtube.com/playlist?list=PLwiyx1dc3P2KoKsYdbZQutKvozOPjDilr)
 
 ### Tools
 

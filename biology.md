@@ -11,6 +11,8 @@
 - [Biology by CrashCourse](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
 - [Exploring Different Species by Journey to the Microcosmos](https://www.youtube.com/playlist?list=PLf3BfsFyWWMF48QHimH7jxHQMX0Q5UpPS)
 - https://www.edx.org/course/the-science-and-business-of-biotechnology
+- https://www.youtube.com/user/bozemanbiology/playlists
+- [Bioengineering 101 Class - Josiah Zayner](https://www.youtube.com/playlist?list=PLNAhY1w2w78qIZLdi1Y69q1_fo0PVolRA)
 
 ### Miscellaneous
 

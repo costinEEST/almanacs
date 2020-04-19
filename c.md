@@ -15,6 +15,7 @@
 - https://github.com/hellerve/programming-talks#c
 - [Modern Memory Safety: C/C++ Vulnerability Discovery, Exploitation, Hardening](https://github.com/struct/mms)
 - [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+- [Buffer Overflows - Code with Nick ](https://www.youtube.com/playlist?list=PLLTI453cNzfn2_9Q9KXb9lbF233gvsQOJ)
 
 ### Radio
 

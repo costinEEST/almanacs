@@ -21,6 +21,7 @@
 - [An introduction to Accessible Rich Internet Applications](https://github.com/patrickhlauke/aria)
 - https://www.a11ywithlindsey.com/blog/7-ways-tweets-more-accessible
 - https://github.com/mgifford/a11y-contracting
+- [Accessibility Talks](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/playlists)
 
 ### Radio
 

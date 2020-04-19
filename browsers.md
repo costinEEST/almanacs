@@ -48,6 +48,7 @@
 - https://github.com/aaronjanse/dns-over-wikipedia
 - https://github.com/makaroni4/youtube_time_tracker
 - [VoiceFiller Speech To Text for Website Forms](https://chrome.google.com/webstore/detail/voicefiller-speech-to-tex/mgafhkmkdcbkjajcblfijmlpiknfhffl/)
+- [Google Chrome Extension. Record All Browsing in Screenshots & Full Text.](https://github.com/idibidiart/AllSeeingEye)
 
 ### Bookmarklets
 
@@ -72,15 +73,6 @@ javascript: (() =>
 - https://github.com/hex13/javascript-visual-explanations#javascript-engines
 - https://deepu.tech/memory-management-in-v8
 
-### WebRTC (Web Real-Time Communication)
-
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeu5vBImsX2mMBacbomDrig
-- [WebRTC Boston](https://www.youtube.com/channel/UCOYrKr3E50aY5VhHey-MrzA/playlists)
-- [Anyone do much with WebRTC?](https://twitter.com/tannerlinsley/status/1220121545621700609)
-- [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
-- https://github.com/whatismyinternalip/whatismyinternalip.github.io
-- [The various ways your RTC may be crushed; a presentation on RTC DoS attacks - Enable Security](https://www.youtube.com/playlist?list=PLfoovPTqAipVGa__xPSatN9qKC22nTKl7)
-
 ### Chrome
 
 - [When testing your redirects with Chrome, always test a 302 before a 301](https://twitter.com/Nick_Craver/status/1190228229979877378)
@@ -100,19 +92,6 @@ javascript: (() =>
 - [An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.](https://github.com/ghacksuserjs/ghacks-user.js)
 - [Listing changes in Firefox default preferences. The diffs are created using 64-bit Firefoxes (en-US) on Windows.](https://github.com/earthlng/FFprefs-diffs)
 
-### Paywalls
-
-- [How to Get Around Newspaper Paywalls in 2019](https://t.co/pVtMutYzns)
-
-### APIs
-
-- https://github.com/samdutton/simpl
-- [Trying out and demonstrating different browser APIs](https://github.com/vkallore/browser-apis)
-- https://github.com/deebloo/things-you-can-do-in-a-web-worker
-- [This repo contains a non exhaustive list of less-known features implemented in browsers today.](https://github.com/luruke/browser-2020)
-- https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
-- [new MutationObserver()](https://www.seancassidy.me/genius-blocker.html)
-
 ### CORS
 
 - https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html
@@ -130,6 +109,25 @@ javascript: (() =>
 - https://github.com/nico3333fr/CSP-useful
 - https://csper.io/blog/other-csp-security
 - https://www.secjuice.com/hiding-javascript-in-png-csp-bypass + https://twitter.com/Menin_TheMiddle/status/1244325611440615426
+
+### WebRTC (Web Real-Time Communication)
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeu5vBImsX2mMBacbomDrig
+- [WebRTC Boston](https://www.youtube.com/channel/UCOYrKr3E50aY5VhHey-MrzA/playlists)
+- [Anyone do much with WebRTC?](https://twitter.com/tannerlinsley/status/1220121545621700609)
+- [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
+- https://github.com/whatismyinternalip/whatismyinternalip.github.io
+- [The various ways your RTC may be crushed; a presentation on RTC DoS attacks - Enable Security](https://www.youtube.com/playlist?list=PLfoovPTqAipVGa__xPSatN9qKC22nTKl7)
+
+### APIs
+
+- https://github.com/samdutton/simpl
+- [How to Get Around Newspaper Paywalls in 2019](https://t.co/pVtMutYzns)
+- [Trying out and demonstrating different browser APIs](https://github.com/vkallore/browser-apis)
+- https://github.com/deebloo/things-you-can-do-in-a-web-worker
+- [This repo contains a non exhaustive list of less-known features implemented in browsers today.](https://github.com/luruke/browser-2020)
+- https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
+- [new MutationObserver()](https://www.seancassidy.me/genius-blocker.html)
 
 ### Exploits
 

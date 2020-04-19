@@ -3,6 +3,8 @@
 - https://andranistor.ro/2020/03/26/de-unde-cumparam-alimente-cand-nu-mai-merg-aplicatiile-cunoscute
 - https://mamamag.ro/producatorii-locali-de-alimente-de-la-care-ne-aprovizionam-in-autoizolare
 - https://ligiapop.com/2012/05/04/microferme-si-producatori-bio-locali
+- https://shop.greensense.ro/fructe-crude/17-nuci-macadamia.html#/3-gramaj-1kg
+- https://shop.greensense.ro/fructe-crude/3-nuci-pecan.html#/3-gramaj-1kg
 
 ### Sleep
 
@@ -56,6 +58,7 @@
 
 - https://www.cristianmargarit.ro/2014/10/despre-antinutrienti-si-toxine-naturale-mancare
 - [Lectins - clistbus](https://www.youtube.com/playlist?list=PLy5C4b2v0Bq0vTRUziPB_RB3ZJu1Mmplj)
+- [Jennifer Fugo talks about gluten free](https://www.youtube.com/user/jenfugo/playlists)
 
 ### Ketosis
 
