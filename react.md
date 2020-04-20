@@ -59,6 +59,7 @@
 - https://twitter.com/sophiebits/status/1228942768543686656
 - https://github.com/Lemoncode/react-context-typescript
 - [Performant, scalable, testable and resilient state management using the Context API.](https://www.vorillaz.com/the-art-of-state-management)
+- [What’s your favorite resource for understanding React component composition to avoid prop drilling and managing shared state in complex components?](https://twitter.com/jhooks/status/1251636235375800320)
 
 ### Components
 

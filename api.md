@@ -1,6 +1,6 @@
 ### Social platforms
 
-- https://github.com/JMPerez/linkedin-to-json-resume
+- https://github.com/JMPerez/linkedin-to-json-resume + [So I have 1,825 LinkedIn connection requests... and no way to batch approve or deny them...](https://twitter.com/kentcdodds/status/1251865245133365250)
 - https://github.com/jamiebuilds/havetheybeenpwned
 - [Python library to interact with Google Sheets V4 API](https://github.com/socialpoint-labs/sheetfu)
 - [An unofficial client library for Google Music.](https://github.com/simon-weber/gmusicapi)
