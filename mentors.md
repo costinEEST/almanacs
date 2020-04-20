@@ -14,3 +14,4 @@
 - [Andrew Chen](https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMjqjzlnvwlxFddJZjLhsTxfr)
 - http://davewascha.com/#reading
 - [Aaron Swartz Hackathon 2017 - Code Therapy](https://www.youtube.com/playlist?list=PL7RY3c_PbOzFz2spZTMS3PBkNEfwXgOTW)
+- https://www.nytimes.com/2017/01/01/us/huston-smith-author-of-the-worlds-religions-dies-at-97.html

@@ -1,5 +1,6 @@
 ### Grocery
 
+- [What is Organics? - Paul Chek](https://www.youtube.com/playlist?list=PLZupSfb-NVbpltzWP1zcpVH7Nzd16_cQG)
 - https://andranistor.ro/2020/03/26/de-unde-cumparam-alimente-cand-nu-mai-merg-aplicatiile-cunoscute
 - https://mamamag.ro/producatorii-locali-de-alimente-de-la-care-ne-aprovizionam-in-autoizolare
 - https://ligiapop.com/2012/05/04/microferme-si-producatori-bio-locali
@@ -19,6 +20,7 @@
 
 ### Fitness
 
+- [Movement As Medicine 1-7 - Paul Chek](https://www.youtube.com/playlist?list=PLZupSfb-NVbqeLSTfY6jGmKStAWw2LQ57)
 - https://www.julian.com/guide/muscle/intro
 - https://github.com/evexoio/awesome-health
 - https://www.goodreads.com/book/show/33293328-overcoming-gravity
@@ -26,6 +28,11 @@
 - [Cine a (mai) fost la sporturi de contact?](https://www.facebook.com/apostu.alin.claudiu/posts/1935540589911432)
 - [Building My Home Garage Gym](https://jamonholmgren.com/gym)
 - [Site that generates random workout routines.](https://github.com/diracdeltas/random-training)
+- [HOW TO CORRECT POSTURE - Jeremy Ethier](https://www.youtube.com/playlist?list=PLFBizIyYw93eg07IPpRQYgoNtQ9W6ECtV)
+- [Grupe deficitare - Marius Mitrache](https://www.youtube.com/playlist?list=PLEyLSg7prXmEJ_UYLpELgaMSbOPoYthRR)
+- [Antrenamente acasa - Marius Mitrache](https://www.youtube.com/playlist?list=PLEyLSg7prXmE93v3fT6AkBsJmTDNc37o4)
+- [Workout Theory - Pietro Boselli](https://www.youtube.com/playlist?list=PLPem8DMLJzQNZf7TE8dKhzJOGa8bao24S)
+- [Exercise Anatomy - Pietro Boselli](https://www.youtube.com/playlist?list=PLPem8DMLJzQPB3gzfXBoCNPlG1Wf6ByFI)
 
 ### Injuries
 

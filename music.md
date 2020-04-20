@@ -15,6 +15,9 @@
 - http://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4 + https://open.spotify.com/playlist/27Ga7s7D4lFUWhZQZ8heqM
 - [Music Theory Distilled - Casey Connor ](https://www.youtube.com/playlist?list=PL618khw0A-t4q9AEsgmfHjqklmkx-PGKq)
 - [Modes and Music Theory - Signals Music Studio](https://www.youtube.com/playlist?list=PLTR7Cy9Sv285kV3pohsMtUg_O_50oDyoR)
+- [Salsa Musicality & Analysis - Marius & Elena Oficial](https://www.youtube.com/playlist?list=PL7iSzWmAf8ttW0TOYeRV9aUvPFphXcrSy)
+- [Bachata Analysis & Musicality - Marius & Elena Oficial](https://www.youtube.com/playlist?list=PL7iSzWmAf8ttkj9BGpgaIfT-v-ehTF53b)
+- [Polyphonic](https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ/playlists)
 
 ### Songs
 

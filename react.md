@@ -14,6 +14,7 @@
 - https://github.com/Lemoncode/react-lab-sessions
 - https://github.com/ReactTraining/react-router-5-course
 - https://github.com/bramus/react-from-scratch-exercises
+- [GraphQL, Apollo, ReactJS.](https://academy.nomadcoders.co/p/offline-apollo-kr)
 
 ### Boilerplate
 
@@ -51,6 +52,7 @@
 - [A custom React Hook for fading in any element.](https://twitter.com/gabe_ragland/status/1233135570227879936)
 - https://techblog.commercetools.com/five-practical-tips-when-using-react-hooks-in-production-990a79745229
 - useAbortController: [tweet](https://twitter.com/kentcdodds/status/1246219272562421760) + [gist](https://gist.github.com/kentcdodds/b36572b6e9227207e6c71fd80e63f3b4)
+- [React Hooks Tutorial | Build Yelp in React - productioncoder](https://www.youtube.com/playlist?list=PL1Nml43UBm6fmZZDeu-FDt5pozS2rSuff)
 
 ### Context API
 
@@ -60,6 +62,7 @@
 - https://github.com/Lemoncode/react-context-typescript
 - [Performant, scalable, testable and resilient state management using the Context API.](https://www.vorillaz.com/the-art-of-state-management)
 - [What’s your favorite resource for understanding React component composition to avoid prop drilling and managing shared state in complex components?](https://twitter.com/jhooks/status/1251636235375800320)
+- https://academy.nomadcoders.co/p/antiredux-new-react-context-api
 
 ### Components
 

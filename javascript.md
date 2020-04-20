@@ -238,6 +238,7 @@
 ### new RegExp()
 
 - https://ihateregex.io/playground + https://ihateregex.io/cheatsheet
+- https://www.debuggex.com + https://youtu.be/hprXxJHQVfQ
 - https://www.regular-expressions.info/cookbook.html + https://learning.oreilly.com/library/view/regular-expressions-cookbook/9781449327453
 - https://github.com/LeaVerou/regexplained + https://youtu.be/M7vDtxaD7ZU
 - http://lea.verou.me/tag/regular-expressions

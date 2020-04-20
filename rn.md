@@ -1,6 +1,7 @@
 ### Talks
 
 - https://github.com/tiaanduplessis/awesome-react-native-talks
+- [The App - William Candillon](https://www.youtube.com/playlist?list=PLkOyNuxGl9jz8XYVtbZzwc8tiBas9Zde-)
 
 ### Courses
 

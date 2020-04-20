@@ -67,3 +67,4 @@
 - [Removing people from complex backgrounds in real time using TensorFlow.js in the web browser.](https://github.com/jasonmayes/Real-Time-Person-Removal)
 - [Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.](https://github.com/UniversalDataTool/universal-data-tool)
 - [Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy.](https://github.com/bjoernkarmann/project_alias)
+- [AI Projects - Will Kwan](https://www.youtube.com/playlist?list=PLhYmet_wsdVHARIgDLSXpXcs2-XlR0oJ1)

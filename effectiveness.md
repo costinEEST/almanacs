@@ -27,20 +27,6 @@
 - https://www.stevefenton.co.uk/2020/03/easy-api-testing-with-rest-client-extension-for-visual-studio-code
 - [Remote Development with a Chromebook in 2020](https://www.marcolancini.it/2020/blog-remote-development-chromebook)
 
-### Vim
-
-- http://howivim.com/2016/damian-conway + https://learning.oreilly.com/videos/mastering-vim/9781491908334 + https://learning.oreilly.com/videos/scripting-vim/9781491996287
-- [Silly game to show off the new features of Vim 8.2](https://github.com/vim/killersheep)
-- Vim setup that includes several VSCode features: [tweet](https://twitter.com/benawad/status/1193911350541590528) + [video](https://youtu.be/gnupOrSEikQ)
-- [Vim screencasts by Greg Hurrell](https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
-- https://github.com/mhinz/vim-galore
-- https://www.meetup.com/vim-chicago
-- https://legacy.gitbook.com/book/learnbyexample/vim-reference/details
-- https://twitter.com/victordorneanu/status/1222158980627288064
-- https://endler.dev/2018/ten-years-of-vim
-- [Vim by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYB46G6HR6hERWjKCiHTLjxt)
-- [Vim Un-Alphabet by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
-
 ### tmux
 
 - https://nicknisi.com/posts/2015-11-02-tmux-for-presentation

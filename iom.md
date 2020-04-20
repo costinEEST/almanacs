@@ -1,6 +1,7 @@
 ### Courses
 
 - https://learn.consensys.net/index
+- https://academy.nomadcoders.co/p/build-a-blockchain-with-typescript
 
 ### References
 

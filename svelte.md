@@ -2,12 +2,13 @@
 
 - https://github.com/doppelganger9/blog
 
-
 ### Talks
 
 - https://www.slideshare.net/ChristofferNoring/learning-svelte
 - [Compile Svelte in your head (Part 1)](https://twitter.com/lihautan/status/1235004722970390529)
-
+- [Svelte Master](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA/playlists)
+- [Svelte Society](https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw)
+- [Sveltecasts](https://www.youtube.com/channel/UCIfNB1TN_Wh40hMh62Hcitw)
 
 ### Miscellaneous
 

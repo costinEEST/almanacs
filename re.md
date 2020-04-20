@@ -5,6 +5,7 @@
 - [scanlime](https://www.youtube.com/user/micahjd/playlists)
 - [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://youtu.be/aHx-XUA6f9g)
 - https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk
+- [Mobile Security - LiveOverflow](https://www.youtube.com/watch?v=iJFnYBJJiuQ&list=PLhixgUqwRTjxHFDl0OykeqZ-VvnClfDpT)
 
 ### Courses
 
@@ -15,6 +16,7 @@
 - [Reverse engineering course by Z0F. Focuses on x64 Windows.](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 - [Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories.](https://github.com/malrev/ABD)
 - https://skybulk.github.io/syllabus
+- [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 
 ### Books
 

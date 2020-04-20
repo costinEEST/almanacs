@@ -10,6 +10,7 @@
 - [MNUG - Munich NodeJS User Group](http://mnug.de/videos.html)
 - https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine
 - https://twitter.com/MaksymRybak/status/1219313534670077952
+- [Deno - TypeWithMe](https://www.youtube.com/playlist?list=PLlYJBXwGoczE6l8lm0AaFe62EtI3th41L)
 
 ### Courses
 

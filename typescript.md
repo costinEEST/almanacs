@@ -2,6 +2,7 @@
 
 - https://www.udemy.com/course/understanding-typescript
 - [Typed Functional Programming in Typescript](https://typescript.fun)
+- [Typescript concepts - TypeWithMe](https://www.youtube.com/playlist?list=PLlYJBXwGoczG73vrUpl4G8WonVS5uNHjn)
 
 ### Presentations
 

@@ -79,6 +79,7 @@
 - https://www.outsideonline.com/2404906/backpacking-outdoor-maps-guide
 - [A map of the world's virtual museums.](https://virtualmuseums.io) + https://news.ycombinator.com/item?id=22777326
 - [Autostrada A10](https://www.youtube.com/channel/UCB900RmT-yVwbe4XxehSAFw/videos)
+- https://www.youtube.com/user/Wendoverproductions/playlists
 
 ### History
 
