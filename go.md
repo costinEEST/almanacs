@@ -23,6 +23,7 @@
 - [Human readable entropy.](https://gitlab.com/NebulousLabs/entropy-mnemonics)
 - [Running Golang on the browser with WebAssembly and TinyGo](https://marianogappa.github.io/software/2020/04/01/webassembly-tinygo-cheesse)
 - [A workshop covering all the tools gophers use in their day to day life](https://github.com/campoy/go-tooling-workshop)
+- [Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. ](https://github.com/claudiodangelis/qrcp)
 
 ### References
 

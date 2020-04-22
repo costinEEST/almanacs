@@ -174,6 +174,7 @@
 - https://alligator.io/react/keep-react-fast
 - https://houssein.me/progressive-react
 - https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d
+- https://felixgerschau.com/react-performance-react-memo
 
 ### Demos
 

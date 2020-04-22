@@ -12,6 +12,8 @@
 - https://www.instructables.com/class/Electronics-Class
 - https://www.youtube.com/user/AddOhms/playlists
 - https://github.com/unprovable/PentestHardware
+- https://twitter.com/___Sh4rk___/status/1252926852324380672
+- https://blog.bradfieldcs.com/learn-how-computers-work-e7d33dba0238
 
 ### Books
 
