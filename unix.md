@@ -28,3 +28,4 @@
 
 - https://genneko.github.io/playing-with-bsd/hardware/freebsd-on-thinkpad-t480
 - https://www.jeremymorgan.com/blog/freebsd/freebsd-developer-2020
+- https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html

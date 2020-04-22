@@ -32,3 +32,4 @@
 - [You can get a site's html and all of the page's dependencies with a single wget command.](https://twitter.com/philhawksworth/status/1214942635300982785)
 - [A command that will copy files from one directory to another and if there are two files with the same name it will rename it.](https://twitter.com/kentcdodds/status/1215744921287589888)
 - wget -m -np -c -U "gimme" -R "index.html\*" "http://index-of.es/EBooks/"
+- [Rename files in linux / bash using mv command without typing the full name two times](https://gist.github.com/premek/6e70446cfc913d3c929d7cdbfe896fef)

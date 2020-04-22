@@ -91,6 +91,7 @@ javascript: (() =>
 - [making Firefox stop polluting your Burp session with superfluous requests](https://www.blackhillsinfosec.com/towards-quieter-firefox) + https://twitter.com/egyp7/status/1196497265743056898
 - [An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.](https://github.com/ghacksuserjs/ghacks-user.js)
 - [Listing changes in Firefox default preferences. The diffs are created using 64-bit Firefoxes (en-US) on Windows.](https://github.com/earthlng/FFprefs-diffs)
+- https://blog.mozilla.org/data/2020/03/16/understanding-default-browser-trends
 
 ### CORS
 

@@ -12,6 +12,7 @@
 ### Standards
 
 - [Introduction to GPG/PGP](ftp://ftp.gnupg.org/people/neal/an-advanced-introduction-to-gnupg/openpgp/openpgp.pdf) + https://twitter.com/binarymist/status/1148732727371296768
+- https://cheapskatesguide.org/articles/encrypted-email.html
 
 ### Transport Layer Security
 
