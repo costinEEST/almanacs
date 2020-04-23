@@ -104,6 +104,8 @@
 - [Energy: A Human History](https://www.goodreads.com/review/show/3008690448)
 - https://www.bbc.com/future/article/20200219-xia-peisu-the-computer-pioneer-who-built-modern-china
 - [What are some great ethnographies of technology users/communities?](https://twitter.com/devonzuegel/status/1228843148358500353)
+- https://florentcrivello.com/index.php/2020/02/24/general-magic-and-silicon-valley-common-wisdom
+- [The missing star history graph of github repos.](https://github.com/timqian/star-history)
 
 ### Essays
 

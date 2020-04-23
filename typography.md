@@ -10,6 +10,7 @@
 ### Tools
 
 - [Choose the font for your design](https://fontflipper.com)
+- [Highly customizable and minimal font previewer written in bash.](https://github.com/sdushantha/fontpreview)
 
 ### Miscellaneous
 

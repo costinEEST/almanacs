@@ -31,7 +31,7 @@
 
 ### Social media
 
-- https://github.com/tycrek/degoogle
+- https://github.com/tycrek/degoogle + https://www.wired.com/story/google-tracks-you-privacy
 - https://gavinr.com/three-tips-to-reduce-personal-data-tracking-in-2019
 - [short list of privacy conferences and privacy advocates](https://twitter.com/aral/status/1219929929145573377)
 - https://nelsonslog.wordpress.com/2020/01/07/facial-recognition-for-the-public-yandex

@@ -25,6 +25,7 @@
 - https://hackarandas.com/blog/2020/03/17/hacking-docker-remotely
 - https://www.jeffgeerling.com/blog/2020/be-careful-docker-might-be-exposing-ports-world
 - https://www.todaysoftmag.ro/article/3138/crearea-de-dockerfile-uri-eficiente
+- [Docker implemented in around 100 lines of bash.](https://github.com/p8952/bocker)
 
 ### Kubernetes
 

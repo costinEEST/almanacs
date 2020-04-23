@@ -23,6 +23,7 @@
 - https://www.udemy.com/course/masteringd3js
 - [Using React (Hooks) with D3](https://www.youtube.com/playlist?list=PLDZ4p-ENjbiPo4WH7KdHjh_EMI7Ic8b2B)
 - https://reactfordataviz.com/articles/corona-simulation
+- [ Data Journalism and Visualization with Free Tools](https://journalismcourses.org/resource/DATA0819.html)
 
 ### Best practices
 

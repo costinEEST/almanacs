@@ -8,11 +8,14 @@
 - https://www.udemy.com/course/hands-on-linux-self-hosted-wordpress-for-linux-beginners
 - https://wordpress.tv/2019/10/08/the-history-of-wordpress-in-four-minutes
 
+### Opinions
+
+- https://kevq.uk/the-case-for-wordpress
+
 ### Plugins
 
 - [WordPress audit log that track user changes in WordPress admin using a nice activity feed.](https://github.com/bonny/WordPress-Simple-History)
 - https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
-
 
 ### Security
 

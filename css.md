@@ -22,10 +22,15 @@
 
 - https://csslayout.io/patterns
 - [Basic todo app functionality without using JavaScript.](https://github.com/mattzeunert/CSS-Todo-App)
+- https://github.com/trueskawka/css-drawings
 
 ### Layout
 
 - https://courses.kevinpowell.co/courses/conquering-responsive-layouts
+
+### Tools
+
+- [Creating tiny zines using HTML/CSS layout.](https://github.com/trueskawka/css-zines)
 
 ### TV
 

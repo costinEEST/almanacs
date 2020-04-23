@@ -30,6 +30,7 @@
 - http://www.indefenseofplants.com/podcast/2018/11/11/ep-186-being-totally-obsessed-with-botany
 - https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant
 - https://www.1800flowers.com/blog/flower-travels/virtual-garden-and-museum-tours-you-can-take-from-home
+- https://www.foxnews.com/science/chernobyl-fungi-eats-radiation
 
 ### Chemistry
 

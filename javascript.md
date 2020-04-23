@@ -184,6 +184,7 @@
 - https://twitter.com/sebmarkbage/status/1237943285223546886
 - https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript
 - https://www.blueskyonmars.com/2015/10/01/side-effects-vs-promises
+- https://twitter.com/jasnell/status/1252999617190391808 + https://eng.lifion.com/promise-allpocalypse-cfb6741298a7
 
 ### async await
 

@@ -136,6 +136,7 @@
 - [Open Peeps, Hand-Drawn Illustration Library.](https://www.openpeeps.com)
 - [iconmonstr - Free simple icons for your next project](https://iconmonstr.com)
 - https://undraw.co/illustrations
+- https://remixicon.com
 
 ### Art
 
@@ -186,6 +187,7 @@
 - [Stop manifest.json from opening a new TLS.](https://twitter.com/TimVereecke/status/1225547620791341062)
 - [Quick tips you can give fellow developers to help them improve performance in their web apps?](https://twitter.com/davidwalshblog/status/1242209784172085249)
 - https://www.debugbear.com/blog/performant-front-end-architecture
+- https://calibreapp.com/blog/performance-for-designers-images
 
 ### Portfolios
 

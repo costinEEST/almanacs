@@ -5,6 +5,7 @@
 - [A free and open source code snippets manager for developers. ](https://github.com/antonreshetov/massCode)
 - https://github.com/leerob/youtube-to-mp3
 - https://github.com/jitsi/jitsi-meet-electron
+- [Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.](https://github.com/agalwood/Motrix)
 
 ### Demos
 
