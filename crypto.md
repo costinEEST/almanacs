@@ -49,6 +49,12 @@
 - https://github.com/nakov/Practical-Cryptography-for-Developers-Book
 - [A Graduate Course in Applied Cryptography (Rev 2020)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf) + https://toc.cryptobook.us
 - https://cscott.net/Books/#crypto
+- https://book.keybase.io
+- https://blog.cryptographyengineering.com/2011/11/23/digital-fortress-i-read-it-so-you-dont + https://twitter.com/LindellYehuda/status/1251577233929576448
+
+### Courses
+
+- [Introduction to Cryptography (89-656), in Hebrew](https://www.youtube.com/playlist?list=PLM96W_EHEqh4ImClhKxuH4Fqm_Ieiok_B) + https://u.cs.biu.ac.il/~lindell/89-656/main-89-656.html
 
 ### Demos
 

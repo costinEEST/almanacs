@@ -32,3 +32,4 @@
 
 - https://www.dicebreaker.com/topics/richard-garfield/feature/richard-garfield-interview-making-games
 - http://www.zachtronics.com/podcast
+- [Any recommended demoscene or books?](https://twitter.com/angealbertini/status/1250737612626833408)

@@ -11,6 +11,7 @@
 
 - [Understanding the bin, sbin, usr/bin , usr/sbin split.](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 - https://toroid.org/unix-pipe-implementation
+- https://papers.freebsd.org/2020/FOSDEM/losh-Hidden_early_history_of_Unix.files/slides.pdf
 
 ### CLI
 
@@ -29,3 +30,4 @@
 - https://genneko.github.io/playing-with-bsd/hardware/freebsd-on-thinkpad-t480
 - https://www.jeremymorgan.com/blog/freebsd/freebsd-developer-2020
 - https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html
+- [Slides, figures, and other material for teaching using tracing and observability on FreeBSD](https://github.com/teachbsd/course)

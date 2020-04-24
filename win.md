@@ -36,6 +36,11 @@
 
 - https://twitter.com/JaekelEDV/status/942496501393223680 + https://www.groovypost.com/howto/5-groovy-things-about-notepad-exe
 
+### Security
+
+- [Windows Post-Exploitation / Malware Forward Engineering](https://github.com/zerosum0x0/defcon-25-workshop/blob/master/DEFCON25.pdf)
+- https://www.volexity.com/wp-content/uploads/2020/04/Volexity-Cyber-Session-September-2019-Windows10DFIR.pdf + https://www.volexity.com/company/resources/windows-10-dfir-challenges-andrew-case
+
 ### Clean up
 
 - [Windows 10 Digital License (HWID) & KMS38™ Generation](https://www.aiowares.com/showthread.php?tid=246)

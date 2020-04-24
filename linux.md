@@ -55,6 +55,7 @@
 - [You may be vulnerable to hijacked VPN(OpenVPN/IPSec/Wireguard/etc) tunnels.](https://twitter.com/Ridgeback111/status/1202623324901302279)
 - https://github.com/ernw/hardening/blob/master/operating_system/linux/ERNW_Hardening_Linux.md
 - https://github.com/trimstray/the-practical-linux-hardening-guide
+- [Hardened Debian GNU/Linux and CentOS 8 distro auditing.](https://github.com/hardenedlinux/harbian-audit)
 - https://github.com/trimstray/linux-hardening-checklist
 - https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit
 

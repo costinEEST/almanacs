@@ -39,6 +39,7 @@
 - [What: A terminal tool to check what is taking up your bandwidth](https://github.com/imsnif/bandwhich)
 - [Load this PCAP file in Wireshark and get more than 50 network protocols available to look at, deep-dive or debug](https://weberblog.net/the-ultimate-pcap) + https://weberblog.net/wireshark-layer-2-3-pcap-analysis-w-challenges-ccnp-switch
 - https://www.ckn.io/blog/2017/11/14/wireguard-vpn-typical-setup
+- [Building an OpenBSD Wireguard server.](https://twitter.com/andersonc0d3/status/1250767620745449473)
 
 ### The Open Systems Interconnection model
 
@@ -52,6 +53,7 @@
 - https://medium.com/@cityhnet/cable-modem-jailbreaks-e98cce92698c
 - https://0x90.psaux.io/2020/03/22/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-III
 - https://www.blackhillsinfosec.com/home-network-design-part-2
+- https://www.pentestpartners.com/security-blog/hardware-router-ctf + https://twitter.com/Yekki_1/status/1237358042720632832
 
 ### Telecommunications
 
@@ -86,6 +88,7 @@
 - https://blog.benjojo.co.uk/post/ISPs-sharing-DNS-query-data
 - https://sockpuppet.org/blog/2015/01/15/against-dnssec
 - [Maza – Like Pi-hole but local and using your operating system](https://news.ycombinator.com/item?id=22717650)
+- https://twitter.com/andersonc0d3/status/1253009058652729345 + https://hackerone.com/reports/541169
 
 ### TCP
 

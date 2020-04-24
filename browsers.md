@@ -81,6 +81,7 @@ javascript: (() =>
 - [Create HAR files from Chrome Debugging Protocol data.](https://github.com/sitespeedio/chrome-har)
 - [Output a video file from screenshot frames within a Chrome DevTools JSON trace file.](https://github.com/justinribeiro/devtools-to-video)
 - [This tool downloads, installs, and configures a shiny new copy of Chromium.](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/march/autochrome)
+- [Harden your Chrome browser via enterprise policy.](https://github.com/mandatoryprogrammer/ChromeGalvanizer)
 
 ### Brave
 
@@ -92,6 +93,7 @@ javascript: (() =>
 - [An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.](https://github.com/ghacksuserjs/ghacks-user.js)
 - [Listing changes in Firefox default preferences. The diffs are created using 64-bit Firefoxes (en-US) on Windows.](https://github.com/earthlng/FFprefs-diffs)
 - https://blog.mozilla.org/data/2020/03/16/understanding-default-browser-trends
+- [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
 
 ### CORS
 
@@ -138,6 +140,7 @@ javascript: (() =>
 - [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://twitter.com/Qab/status/1209457592126324737)
 - [Software-based Side-Channel Attacks and Defenses in Restricted Environments (PhD thesis)](https://misc0110.net/web/files/phd_thesis.pdf)
 - https://www.ryanpickren.com/webcam-hacking + https://twitter.com/domenic/status/1245871443729985536
+- [Building a 1-day Exploit for Google Chrome](https://twitter.com/theori_io/status/980272605117612033)
 
 ### Headless
 

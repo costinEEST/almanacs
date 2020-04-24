@@ -9,5 +9,6 @@
 
 ### Tutorials
 
+- http://www.davespace.co.uk/arm/introduction-to-arm
 - https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation
-
+- https://johv.dk/blog/bare-metal-assembly-tutorial.html

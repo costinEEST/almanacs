@@ -39,3 +39,4 @@
 - https://github.com/Auxy233/misc
 - https://pwn.college
 - https://unprovable.github.io/jekyll/update/2016/11/03/BoF-Tutorial-Update.html
+- https://axcheron.github.io/linux-shellcode-101-from-hell-to-shell

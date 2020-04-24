@@ -250,6 +250,7 @@
 - [Tokenizer with built-in error-handling.](https://twitter.com/RReverser/status/1237493010935558144)
 - https://portswigger.net/daily-swig/blind-regex-injection-theoretical-exploit-offers-new-way-to-force-web-apps-to-spill-secrets
 - [Re-implementation of ECMA-262 (JavaScript) RegExp](https://github.com/MakeNowJust/rerejs)
+- https://github.com/mattnotmax/cyberchef-recipes
 
 ### new Worker()
 
