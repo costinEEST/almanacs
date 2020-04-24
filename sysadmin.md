@@ -26,6 +26,7 @@
 - https://www.jeffgeerling.com/blog/2020/be-careful-docker-might-be-exposing-ports-world
 - https://www.todaysoftmag.ro/article/3138/crearea-de-dockerfile-uri-eficiente
 - [Docker implemented in around 100 lines of bash.](https://github.com/p8952/bocker)
+- https://medium.com/@logicbomb_1/docker-registries-and-their-secrets-47147106e09
 
 ### Kubernetes
 
