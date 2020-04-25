@@ -113,6 +113,7 @@
 
 ### Stoicism
 
+- https://tim.blog/2009/04/13/stoicism-101-a-practical-guide-for-entrepreneurs
 - [I. Epictetus](https://standardebooks.org/ebooks/epictetus/the-enchiridion/elizabeth-carter) + [II. Seneca](https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart) + [III. Marcus Aurelius](https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long)
 - [The Manual. A Philosopher's Guide to Life - Epictetus](https://www.indiebound.org/book/9781545461112)
 - [A Guide to The Good Life - William Irvine](https://youtu.be/BjScQSQpst8)

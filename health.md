@@ -60,6 +60,7 @@
 - https://masterpass.chrismasterjohnphd.com/dashboard
 - [Mr. Mineral | Minerals for Body, Brain and Business Optimization- Thomas DeLauer](https://www.youtube.com/playlist?list=PLFbLg_bIQgxC-NtGO7TzTTO0Lgd8R-Vop)
 - [În București, de unde vă procurați stevie, turmeric, fulgi de drojdie inactivă?](https://www.facebook.com/groups/755526297805685/permalink/3994212310603718)
+- https://www.emag.ro/puterea-vitaminei-d-sarfraz-zaidi-9786068784007/pd/DQV543BBM
 
 ### Vegetables
 
@@ -95,6 +96,15 @@
 - [Why Did Mexico Surpass America in Obesity?](https://twitter.com/notyetagm/status/1220352727546580997)
 - https://www.amazon.com/Diets-Because-Youre-Addicted-Sugar/dp/1607744864
 
+### Skin
+
+- https://www.google.com/search?q=mucocutaneous+triad
+- https://www.emag.ro/totul-despre-alergii-earl-mindell-dr-pamela-wartian-smith-9786067890921/pd/DPDZGNBBM
+
+### Gut
+
+- [Microbiome - YourekaScience](https://www.youtube.com/playlist?list=PLCjag94GB6w17vSjb5pgjM-HSpVK0IkPH)
+
 ### Addictions
 
 - https://www.amazon.com/Hedonic-Eating-Pleasure-Affects-Behavior/dp/019933045X
@@ -111,6 +121,8 @@
 - https://www.reddit.com/r/longevity/comments/e2q84z/textbooks_courses_and_resources_on_aging
 - https://www.naomiwhittel.com/benefits-of-autophagy
 - http://sureshrattan.com/category/offers/lectures-workshops-list/videos
+- https://www.foundmyfitness.com/episodes/elissa-epel + https://youtu.be/IEz1P4i1P7s + https://podcastnotes.org/ben-greenfield-fitness/thomas-delaurer-ben-greenfield-muscle-strength
+- [Longevity - YourekaScience](https://www.youtube.com/playlist?list=PLCjag94GB6w1p5-FTEshIf-Vl_p8dNiqa)
 
 ### Viruses
 

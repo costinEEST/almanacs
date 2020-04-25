@@ -26,3 +26,7 @@
 ### Jazz
 
 - https://www.montreuxjazzfestival.com/en/50-concerts-to-stream
+
+### Rock
+
+- https://www.emag.ro/timpul-chitarelor-florian-pitis-dorin-liviu-zaharia-si-epoca-folk-doru-ionescu-eik978-606-711-711-0/pd/D7G8NFBBM + https://carturesti.ro/carte/timpul-chitarelor-cornel-chiriac-si-epoca-beat-1041696 + https://www.facebook.com/tvrplus/posts/2102991826466028 + https://www.facebook.com/FlorinChilianOfficial/posts/248015428618478

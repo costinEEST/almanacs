@@ -155,6 +155,7 @@
 - https://yuinchien.com/origami-study
 - http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html
 - [New Way of Seeing: The History of Art in 57 Works by Kelly Grovier](https://www.goodreads.com/book/show/40554488-new-way-of-seeing)
+- [30 Films Every Art Lover Should See](https://arte8lusso.net/art/filmaboutart)
 
 ### UX
 
