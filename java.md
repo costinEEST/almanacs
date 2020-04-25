@@ -1,15 +1,11 @@
-### Versions
+### Courses
 
-- [Collection of information about the history of Java primarily from a technical point of view.](https://github.com/marchof/java-almanac)
+- https://hyperskill.org/onboarding/?track=java
 
-### Optimizations
+### Best practices
 
-- https://twitter.com/psobot/status/1204887283666685954
-
-### Algorithms
-
-- https://www.youtube.com/user/purpongie/playlists
-- https://github.com/williamfiset/Algorithms#geometry
+- https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production
+- https://www.slideshare.net/mariofusco/lets-make-a-contract-the-art-of-designing-a-java-api + https://twitter.com/ftomasse/status/1246831973567475713
 
 ### Tools
 
@@ -35,7 +31,15 @@
 
 - https://noncombatant.org/2014/07/31/why-i-love-java
 
-### Best practices
+### Versions
 
-- https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production 
-- https://www.slideshare.net/mariofusco/lets-make-a-contract-the-art-of-designing-a-java-api + https://twitter.com/ftomasse/status/1246831973567475713
+- [Collection of information about the history of Java primarily from a technical point of view.](https://github.com/marchof/java-almanac)
+
+### Optimizations
+
+- https://twitter.com/psobot/status/1204887283666685954
+
+### Algorithms
+
+- https://www.youtube.com/user/purpongie/playlists
+- https://github.com/williamfiset/Algorithms#geometry

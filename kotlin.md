@@ -5,3 +5,7 @@
 ### Demos
 
 - https://github.com/tipsy/profile-summary-for-github
+
+### Practice
+
+- https://hyperskill.org/onboarding/?track=kotlin

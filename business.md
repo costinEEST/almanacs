@@ -60,6 +60,7 @@
 - https://github.com/Atarity/How-To-Start-A-Startup
 - [When you make scooters but see four fintech companies get acquired in one week.](https://twitter.com/zck/status/1232374124380487681)
 - https://www.cake.co/conversations/VXHSjBG/the-untold-origin-story-of-ebay-that-i-lived-and-the-times-that-could-have-killed-it
+- https://microconf.com/ultimate-saas-crash-course + https://www.youtube.com/playlist?list=PLwcQbu9cKWclSZ5X1D2BFr3t4jBzpiSoi
 
 ### Investing
 

@@ -13,6 +13,7 @@
 - SQL, NoSQL, and Scale - How DynamoDB scales where relational databases don't: [tweet](https://twitter.com/alexbdebrie/status/1214966652254732304) + [article](https://www.alexdebrie.com/posts/dynamodb-no-bad-queries/)
 - https://ovid.github.io/articles/database-design-standards.html
 - https://joshduff.com/2016-07-writing-sql.md
+- [Things I wished more developers knew about databases.](https://news.ycombinator.com/item?id=22942278)
 
 ### Hacks
 
