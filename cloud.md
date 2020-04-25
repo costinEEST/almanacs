@@ -14,6 +14,7 @@
 - [Understanding Isolates: The Future of Programming](https://twitter.com/eastdakota/status/1224555855493746688)
 - [How to run up an IoT MQTT cloud based system, including sensors, database and a website, in a short time.](https://www.hackster.io/claudiuivan1/mqtt-broker-for-real-time-data-db28d4)
 - https://www.marcolancini.it/2020/blog-mapping-moving-clouds-with-cartography
+- [Build an auto-updating Excel spreadsheet with stock market data using Python, AWS, and the API for the IEX stock exchange.](https://www.freecodecamp.org/news/auto-updating-excel-python-aws)
 
 ### Google Cloud
 

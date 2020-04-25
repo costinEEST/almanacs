@@ -142,16 +142,6 @@
 - [Platon, Phaidros sau Despre frumos](https://humanitas.ro/assets/pdf/Platon_Phaidros.pdf)
 - [Platon - Phaidon](https://humanitas.ro/assets/pdf/Platon_Phaidon.pdf)
 
-### Painting/Drawing
-
-- https://www.youtube.com/user/marcobucci/playlists
-- https://www.youtube.com/user/ProkoTV/playlists + https://www.proko.com/library/#.XhkJciOxVPa
-- [Team Bradley](https://www.youtube.com/channel/UCYu89Q_krburzkoDSpm5xjw)
-- https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock
-- [ScribbleX – Create some art with friends.](https://scribblex.com)
-- https://store.steampowered.com/app/442070/Drawful_2
-- http://www.openculture.com/2020/02/old-book-illustrations-download.html
-
 ### Build
 
 - https://www.youtube.com/user/MattRisinger/playlists

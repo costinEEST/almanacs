@@ -128,6 +128,7 @@
 
 - https://formular.sts.ro + https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus + https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs + https://londonreal.tv/the-truth-behind-the-coronavirus-pandemic-covid-19-lockdown-the-economic-crash-david-icke + [CORONAVIRUS: Sfatul psihologului Daniel David](https://www.crowdcast.io/e/daniel-david-live/1) + [A recent Nature paper reveal a remarkable trick SARS-Cov-2 learned that makes it nastier than the first SARS.](https://twitter.com/PeterKolchinsky/status/1246975275021348865)
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
+- [Virology Lectures 2020 - Vincent Racaniello](https://www.youtube.com/playlist?list=PLGhmZX2NKiNldpyRUBBEzNoWL0Cso1jip)
 
 ### Radiation
 
