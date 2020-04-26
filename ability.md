@@ -19,6 +19,8 @@
 - https://www.amazon.com/Conscious-Parent-Transforming-Ourselves-Empowering/dp/1897238452
 - https://github.com/hackerkid/Mind-Expanding-Books#education
 - [What are some great books about homeschooling?](https://twitter.com/devonzuegel/status/1244396902558253056)
+- [The 3 Key Steps To Intuitive Eating, Ego Dissolution, Raising & Educating Children In A Modern Era & More With Paul Chek.](https://bengreenfieldfitness.com/podcast/lifestyle-podcasts/paul-chek)
+- https://www.amazon.com/Vaccines-Autoimmunity-Changing-Childhood-Illness/dp/1603587772
 
 ### Mindfulness
 

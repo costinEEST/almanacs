@@ -13,7 +13,6 @@
 - [Android](android.md)
 - [Angular](angular.md)
 - [API (Application programming interface)](api.md)
-- [Application Programmable Interface](api.md)
 - [Apparel](apparel.md)
 - [Architecture](architecture.md)
 - [Assembly](asm.md)

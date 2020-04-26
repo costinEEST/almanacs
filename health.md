@@ -20,6 +20,7 @@
 
 ### Fitness
 
+- https://chekinstitute.com/podcast-episode-notes/ep-18-evolve-yourself-physically
 - [Movement As Medicine 1-7 - Paul Chek](https://www.youtube.com/playlist?list=PLZupSfb-NVbqeLSTfY6jGmKStAWw2LQ57)
 - https://www.julian.com/guide/muscle/intro
 - https://github.com/evexoio/awesome-health
@@ -64,6 +65,8 @@
 
 ### Vegetables
 
+- https://chekinstitute.com/blog/eating-animals-a-moral-question
+- https://wellnessforce.com/the-science-of-why-vegans-get-sick
 - https://www.cristianmargarit.ro/2014/10/despre-antinutrienti-si-toxine-naturale-mancare
 - [Lectins - clistbus](https://www.youtube.com/playlist?list=PLy5C4b2v0Bq0vTRUziPB_RB3ZJu1Mmplj)
 - [Jennifer Fugo talks about gluten free](https://www.youtube.com/user/jenfugo/playlists)
@@ -133,6 +136,7 @@
 ### Radiation
 
 - https://phibetaiota.net/2020/02/arthur-firstenberg-the-invisible-rainbow-a-history-of-electricity-and-life-radiation-sickness-explains-all-past-and-present-flu-outbreaks-including-wuhan-virus-and-radiation-sickness-on-cruise-shi + https://podcasts.apple.com/gb/podcast/progressive-commentary-hour-invisible-rainbow-being/id453549934?i=1000467436348
+- https://thetruthaboutcancer.com/are-microwaves-safe
 
 ### Tools
 

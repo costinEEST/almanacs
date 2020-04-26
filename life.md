@@ -22,6 +22,7 @@
 - [Gut Check: Exploring Your Microbiome](https://www.coursera.org/learn/microbiome)
 - https://www.youtube.com/user/Campbellteaching/playlists
 - [Ninja Nerd Science](https://www.youtube.com/channel/UC6QYFutt9cluQ3uSM963_KQ/playlists)
+- https://www.amazon.com/Dorlands-Illustrated-Medical-Dictionary-33e/dp/1455756431
 
 ### Botany
 
@@ -33,6 +34,8 @@
 - https://www.foxnews.com/science/chernobyl-fungi-eats-radiation
 - https://www.brainpickings.org/2016/09/26/the-hidden-life-of-trees-peter-wohlleben
 - [Fruit Trenches: Cultivating Subtropical Plants in Freezing Temperatures ](https://news.ycombinator.com/item?id=22887931)
+- https://www.amazon.com/Farmers-Forty-Centuries-Organic-Farming/dp/0486436098
+- https://www.amazon.com/Paramagnetism-Rediscovering-Natures-Secret-Growth-ebook/dp/B00V5K0WVG
 
 ### Chemistry
 
