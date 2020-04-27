@@ -40,6 +40,7 @@
 - [Load this PCAP file in Wireshark and get more than 50 network protocols available to look at, deep-dive or debug](https://weberblog.net/the-ultimate-pcap) + https://weberblog.net/wireshark-layer-2-3-pcap-analysis-w-challenges-ccnp-switch
 - https://www.ckn.io/blog/2017/11/14/wireguard-vpn-typical-setup
 - [Building an OpenBSD Wireguard server.](https://twitter.com/andersonc0d3/status/1250767620745449473)
+- https://tailscale.com/blog/why-not-why-not-wireguard
 
 ### The Open Systems Interconnection model
 

@@ -5,6 +5,7 @@
 ### Opinions
 
 - https://helgeklein.com/blog/2014/11/hate-powershell
+- https://code.joejag.com/2020/a-month-with-powershell.html
 
 ### TV
 

@@ -16,6 +16,7 @@
 - [Apparel](apparel.md)
 - [Architecture](architecture.md)
 - [Assembly](asm.md)
+- [Astronomy](astronomy.md)
 - [Bash](bash.md)
 - [Basketball](basketball.md)
 - [Biology](biology.md)
