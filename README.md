@@ -65,6 +65,7 @@
 - [Lisp](lisp.md)
 - [Mac OS](mac.md)
 - [Malware](malware.md)
+- [Maps](maps.md)
 - [Markdown](markdown.md)
 - [Mathematics](math.md)
 - [Mentors](mentors.md)

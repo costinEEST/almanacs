@@ -157,6 +157,7 @@
 
 ### Static site generators
 
+- https://tatianamac.com/tags/Eleventy
 - [Dynamic from Static with Smart Deployment.](https://slides.com/mayashavin/deck-44de00/fullscreen#/) + https://twitter.com/cloudinary/status/1208172092312543232
 - [Markdown-based static site generator that works well with monorepos](https://twitter.com/captainsafia/status/1207459107004801024)
 - [Personal blog of Fotis Papadogeorgopoulos, built with Eleventy.](https://github.com/fpapado/fotis.xyz)

@@ -34,6 +34,7 @@
 ### References
 
 - https://allthetags.com
+- https://www.goodemailcode.com
 
 ### Security
 

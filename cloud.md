@@ -15,6 +15,7 @@
 - [How to run up an IoT MQTT cloud based system, including sensors, database and a website, in a short time.](https://www.hackster.io/claudiuivan1/mqtt-broker-for-real-time-data-db28d4)
 - https://www.marcolancini.it/2020/blog-mapping-moving-clouds-with-cartography
 - [Build an auto-updating Excel spreadsheet with stock market data using Python, AWS, and the API for the IEX stock exchange.](https://www.freecodecamp.org/news/auto-updating-excel-python-aws)
+- [Building cmdchallenge using Lambda and API Gateway in the AWS free-tier with Docker and Go](https://www.jarv.org/building-cmdchallenge.html)
 
 ### Google Cloud
 

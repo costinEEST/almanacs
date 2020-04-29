@@ -6,6 +6,7 @@
 
 - https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-new-series-on-youtube
 - [Security Automation with Ansible 2](https://learning.oreilly.com/library/view/security-automation-with/9781788394512)
+- [Automate the install of various tools and environment settings using Ansible.](https://github.com/DiabloHorn/env-automata)
 
 ### Docker
 

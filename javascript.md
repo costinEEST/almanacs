@@ -333,17 +333,6 @@
 - https://softeng.oicr.on.ca/bob_tiernay/2017/02/13/JSON-Like-a-Boss-with-jq
 - [How can I tell webpack, "Whenever I import @blueprintjs/core, also import blueprintjs/core/lib/css/blueprint.css first"?](https://twitter.com/sophiebits/status/1249853629093179392)
 
-### Maps
-
-- [A Web-based map of timezones as they are at a point in time. ](https://github.com/dbaron/timezone-map)
-- https://github.com/cedmax/flags
-- [Simple apps made with ArcGIS API for JavaScript](https://github.com/RalucaNicola/JSAPI_demos)
-- https://gavinr.com/arcgis-javascript-api-svelte-resources
-- https://github.com/danburzo/toolbox#geographical-data
-- https://github.com/danburzo/toolbox#mapping-1
-- https://cheeaun.com/blog/2019/02/building-busrouter-sg
-- [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
-
 ### Documentation
 
 - https://v8.dev/blog/understanding-ecmascript-part-1

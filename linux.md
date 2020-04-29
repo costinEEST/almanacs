@@ -8,6 +8,7 @@
 ### Courses
 
 - https://linuxjourney.com
+- https://cmdchallenge.com
 - https://github.com/razvand/posix-system-programming
 - https://github.com/razvand/linux-fundamentals + https://github.com/razvand/linux-advanced
 - Hal Pomeranz - Linux Forensics Intro: [archive.org](https://archive.org/details/HalLinuxForensics) + [torrent](https://ia801406.us.archive.org/6/items/HalLinuxForensics/HalLinuxForensics_archive.torrent) + [oneDrive](https://onedrive.live.com/?authkey=%21AG%5FKRwGLhvEVVgM&id=83C438C3CA7085EF%211480&cid=83C438C3CA7085EF)
@@ -38,6 +39,7 @@
 
 ### TIL
 
+- https://www.jarv.org/191-hello-worlds.html
 - http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html
 - https://aster.cloud/2019/12/17/what-you-probably-didnt-know-about-sudo
 - https://github.com/jcsrb/til/tree/master/linux

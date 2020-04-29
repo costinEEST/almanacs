@@ -25,3 +25,8 @@
 ### Github
 
 - https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly
+
+### Tools
+
+- [Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog)
+- [A syntax-highlighter for git and diff output](https://github.com/dandavison/delta)

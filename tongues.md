@@ -51,6 +51,10 @@
 
 - https://www.meetup.com/Deuscht-Lasst-uns-Deutsch-sprechen
 
+### Tibetan
+
+- [Tibetan Language Channel](https://www.youtube.com/channel/UCBOk5M9QQKfjg3-5HFl8sxA/playlists)
+
 ### Polyglots
 
 - [Joseph Justus Scaliger](https://sententiaeantiquae.com/2020/03/06/skip-sleep-blast-through-homer) + https://twitter.com/nntaleb/status/1236017035534008320

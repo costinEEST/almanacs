@@ -13,6 +13,7 @@
 - [An app script that will filter your email from where in the world it was sent from](https://github.com/benjojo/Gmail_GeoIPTagger)
 - https://blog.filippo.io/gmail-bot-with-apps-script-and-typescript
 - [Scrape the Twitter Frontend API without authentication.](https://github.com/bisguzar/twitter-scraper)
+- [GMail tasks over OAuth2 API using Google's API Client](https://github.com/abhishekkr/gmail-helper)
 
 ### GraphQL
 
