@@ -1,7 +1,12 @@
+### Animations
+
+- [Web Animation Essentials: CSS Animations and Transitions](https://courses.rachelnabors.com/courses/16861)
+
 ### Color
 
 - https://colornamer.netlify.com
-- [ Overly descriptive color palettes.](https://colors.lol) inspired by https://github.com/joemfox/colorschemer
+- [Overly descriptive color palettes.](https://colors.lol) inspired by https://github.com/joemfox/colorschemer
+- [Calico is a small utility written in Haskell which is cat but for colors.](https://github.com/ix/calico)
 
 ### Measurement units
 

@@ -131,6 +131,7 @@
 ### Scrapping
 
 - https://levelup.gitconnected.com/anonymous-web-scrapping-with-node-js-tor-apify-and-cheerio-3b36ec6a45dc
+- https://www.twilio.com/blog/4-tools-for-web-scraping-in-node-js
 
 ### Micro services
 

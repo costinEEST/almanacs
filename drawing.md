@@ -1,3 +1,7 @@
+### Courses
+
+- [Practical Cartooning for Technical Folk](https://courses.rachelnabors.com/p/practical-cartooning)
+
 ### Miscellaneous
 
 - https://www.youtube.com/user/marcobucci/playlists

@@ -1,3 +1,18 @@
+### Books
+
+- https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
+- [Database Internals: A Deep Dive into How Distributed Data Systems Work.](https://www.databass.dev/)
+- [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/)
+- https://lethain.com/handbook-relational-db-design-on-data-modeling
+- https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
+- [beginners](https://twitter.com/samerbuna/status/1183771023054987264)
+
+### Courses
+
+- [SQLBolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com)
+- https://www.sqlhabit.com/blog/posts/how-to-detect-recurring-payments-with-sql
+- https://blog.bradfieldcs.com/how-to-learn-about-database-systems-40c7432f471d
+
 ### Tools
 
 - [Visualizing missing data in databases](https://www.codediesel.com/data/visualizing-missing-data-in-databases/)
@@ -31,21 +46,6 @@
 ### Radio
 
 - [Why SQLite succeeded as a database.](https://changelog.com/podcast/201)
-
-### Books
-
-- https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
-- [Database Internals: A Deep Dive into How Distributed Data Systems Work.](https://www.databass.dev/)
-- [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/)
-- https://lethain.com/handbook-relational-db-design-on-data-modeling
-- https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
-- [beginners](https://twitter.com/samerbuna/status/1183771023054987264)
-
-### Courses
-
-- [SQLBolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com)
-- https://www.sqlhabit.com/blog/posts/how-to-detect-recurring-payments-with-sql
-- https://blog.bradfieldcs.com/how-to-learn-about-database-systems-40c7432f471d
 
 ### NoSQL
 
@@ -87,3 +87,4 @@
 ### Miscellaneous
 
 - [What are some examples of good database schema designs?](https://news.ycombinator.com/item?id=22324691)
+- https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html#rule-11-which-database-technology-to-choose
