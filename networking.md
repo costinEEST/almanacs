@@ -55,6 +55,7 @@
 - https://0x90.psaux.io/2020/03/22/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-III
 - https://www.blackhillsinfosec.com/home-network-design-part-2
 - https://www.pentestpartners.com/security-blog/hardware-router-ctf + https://twitter.com/Yekki_1/status/1237358042720632832
+- https://genneko.github.io/playing-with-bsd/networking/freebsd-wireguard-jail
 
 ### Telecommunications
 
@@ -98,6 +99,7 @@
 - https://notes.shichao.io/tcpv1
 - https://github.com/jivoi/pentest/blob/master/notes/ipv6_tcpip_pocketguide.pdf
 - [MUST, SHOULD, DON'T CARE: TCP Conformance in the Wild](https://arxiv.org/abs/2002.05400v1)
+- https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work
 
 ### UDP
 

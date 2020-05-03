@@ -47,6 +47,7 @@
 - https://www.thegeekdiary.com/understanding-proc-meminfo-file-analyzing-memory-utilization-in-linux
 - https://diablohorn.com/2014/02/27/qp-stop-video-recording-your-command-line-i-want-to-grep-it
 - Linux Command Line Dojo with Hal Pomeranz: [slides](http://www.deer-run.com/~hal/CLDojo.pdf) + [video](https://www.youtube.com/watch?v=-jNkjuWMFrk)
+- https://ma.ttias.be/different-ways-of-writing-crontab-syntax
 
 ### Embedded
 

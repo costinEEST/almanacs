@@ -41,6 +41,7 @@
 - Command and KubeCTL. Real-World Kubernetes Security for Pentesters - [repo](https://github.com/antitree/cmd_and_kubectl_demos) + [slides](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg)
 - [Kubernetes & Containers - IBM Developer Romania meetup](https://www.slideshare.net/secret/I2R9szfsFOo9xz)
 - https://www.marcolancini.it/2019/blog-deploy-kubernetes-lab + https://github.com/marco-lancini/offensive-infrastructure
+- https://crypt.codemancers.com/posts/2020-04-27-encrypting-and-storing-kubernetes-secrets-in-git
 
 ### Servers
 

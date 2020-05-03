@@ -11,6 +11,7 @@
 - [dotfiles](https://twitter.com/jsjoeio/status/1216921686932504576)
 - [An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)
 - [Darwin/macOS emulation layer for Linux.](https://github.com/darlinghq/darling)
+- [A color blindness simulator for Mac and iOS](https://github.com/michelf/sim-daltonism)
 
 ### References
 
