@@ -131,6 +131,7 @@ javascript: (() =>
 - [This repo contains a non exhaustive list of less-known features implemented in browsers today.](https://github.com/luruke/browser-2020)
 - https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
 - [new MutationObserver()](https://www.seancassidy.me/genius-blocker.html)
+- https://github.com/AurelioDeRosa/HTML5-API-demos
 
 ### Exploits
 

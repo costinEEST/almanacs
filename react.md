@@ -122,6 +122,7 @@
 - https://github.com/kettanaito/atomic-layout
 - [Virtual DOOM is a first-person 3D demo that uses the DOM as its render engine.](https://github.com/ath92/virtual-doom)
 - [From @emotioncss to @tailwindcss](https://twitter.com/kentcdodds/status/1240420669965271040)
+- https://joshwcomeau.com/react/prefers-reduced-motion
 
 ### Server side rendering
 

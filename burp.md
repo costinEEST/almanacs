@@ -5,3 +5,7 @@
 ### Courses
 
 - [Installing, configuring and using Burp-Suite 2 Free Community Edition and Pro editions - webpwnized](https://www.youtube.com/playlist?list=PLZOToVAK85MoBg65au9EeFkK7qwzppcnU)
+
+### Extensions
+
+- https://blog.silentsignal.eu/2020/05/04/decrypting-and-analyzing-https-traffic-without-mitm + https://m1el.github.io/oculus-tls-extract
