@@ -28,7 +28,8 @@
 - https://www.todaysoftmag.ro/article/3138/crearea-de-dockerfile-uri-eficiente
 - [Docker implemented in around 100 lines of bash.](https://github.com/p8952/bocker)
 - https://medium.com/@logicbomb_1/docker-registries-and-their-secrets-47147106e09
-  https://docker-saigon.github.io/post/Docker-Internals
+- https://docker-saigon.github.io/post/Docker-Internals
+- https://www.smarthomebeginner.com/run-pihole-in-docker-on-ubuntu-with-reverse-proxy
 
 ### Kubernetes
 
