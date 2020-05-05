@@ -34,6 +34,7 @@
 
 ### References
 
+- http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
 - https://allthetags.com
 - https://www.goodemailcode.com
 

@@ -24,6 +24,7 @@
 - [Any book to study mathematics from first principles?](https://twitter.com/dan_abramov/status/1249344084981972992)
 - Linear Algebra Done Right - http://linear.axler.net/LADRvideos.html + https://link.springer.com/book/10.1007/978-3-319-11080-6 + https://mega.nz/file/70xXHK6A
 - [At the Interface of Algebra and Statistics - Tai-Danae Bradley](https://twitter.com/math3ma/status/1249862830670729217)
+- [3D Math Primer For Graphics and Game Development (Wordware Game Math Library)](https://www.amazon.com/Primer-Graphics-Development-Wordware-Library/dp/1556229119)
 
 ### Courses
 

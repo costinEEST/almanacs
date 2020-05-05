@@ -217,6 +217,10 @@
 
 - https://chrisrng.svbtle.com/using-weakmap-for-private-properties
 
+### new Set()
+
+- https://github.com/terkelg/zet
+
 ### bitwise operators
 
 - [xor](https://twitter.com/rauschma/status/1218579324976140288)

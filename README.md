@@ -116,3 +116,7 @@
 - [Working with image files](image.md)
 - [Working with video files](video.md)
 - [XML (Extensible Markup Language)](xml.md)
+
+### Similar projects
+
+- https://github.com/RichardLitt/meta-knowledge

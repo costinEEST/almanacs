@@ -49,6 +49,7 @@
 - https://github.com/makaroni4/youtube_time_tracker
 - [VoiceFiller Speech To Text for Website Forms](https://chrome.google.com/webstore/detail/voicefiller-speech-to-tex/mgafhkmkdcbkjajcblfijmlpiknfhffl/)
 - [Google Chrome Extension. Record All Browsing in Screenshots & Full Text.](https://github.com/idibidiart/AllSeeingEye)
+- [A Chrome extension to provide a QR code of the current Page Url.](https://github.com/SgiobairOg/qrer)
 
 ### Bookmarklets
 

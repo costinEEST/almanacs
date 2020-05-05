@@ -80,6 +80,7 @@
 - [A map of the world's virtual museums.](https://virtualmuseums.io) + https://news.ycombinator.com/item?id=22777326
 - [Autostrada A10](https://www.youtube.com/channel/UCB900RmT-yVwbe4XxehSAFw/videos)
 - https://www.youtube.com/user/Wendoverproductions/playlists
+- https://github.com/yoshuawuyts/knowledge/blob/master/life/cities.md
 
 ### History
 
