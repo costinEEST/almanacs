@@ -27,6 +27,7 @@
 - [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
 - [Make A Game In Unity With No Experience](https://www.youtube.com/playlist?list=PLUtKzyIe0aB3TZfe2wsIgJgGZW5G_NAxa)
 - https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course
+- https://yoshuawuyts.gitbooks.io/knowledge/content/art/game-theory.html
 
 ### The creators
 
