@@ -59,6 +59,7 @@
 - [FUSE: Finding File Upload Bugs via Penetration Testing](https://github.com/WSP-LAB/FUSE)
 - https://elder.dev/posts/open-source-virtual-background
 - [Automate pulling Springer's free books.](https://github.com/octonion/springer)
+- [This is a list of repositories and libraries that allow for scripted downloading of online content.](https://github.com/Kickball/awesome-dl)
 
 ### Testing
 

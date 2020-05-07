@@ -17,6 +17,7 @@
 - [min-content, max-content, fit-content](https://twitter.com/tunetheweb/status/1238753219574202369)
 - [use the box-shadow property to created a layered component.](https://fossheim.io/writing/posts/css-box-shadow-animation)
 - [How They Fit Together: Transform, Translate, Rotate, Scale, and Offset](https://danielcwilson.com/blog/2020/02/motion-path-transforms)
+- https://justmarkup.com/articles/2020-04-15-css-property-in-a-tweet
 
 ### CSS grid
 
