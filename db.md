@@ -9,7 +9,7 @@
 
 ### Courses
 
-- [SQLBolt - Learn SQL with simple, interactive exercises.](https://sqlbolt.com)
+- https://news.ycombinator.com/item?id=23070491
 - https://www.sqlhabit.com/blog/posts/how-to-detect-recurring-payments-with-sql
 - https://blog.bradfieldcs.com/how-to-learn-about-database-systems-40c7432f471d
 
