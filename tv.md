@@ -13,6 +13,10 @@
 - https://docuart.ro/documentare
 - https://github.com/philsturgeon/awesome-earth#documentaries
 
+### Interviews
+
+- [Paul Chek on How To Live Fully and Save The World](https://gist.github.com/ccampean/476b4d56b2fd87eb183c3fee0317cb07#paul-chek-on-how-to-live-fully-and-save-the-world)
+
 ### Tools
 
 - [Collection of 8000+ publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
