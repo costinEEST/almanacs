@@ -27,6 +27,7 @@
 ### Playground
 
 - https://www.tinkercad.com/circuits
+- https://medium.com/@jonathanberi/a-makers-equipment-list-4f8509d0d769
 
 ### Miscellaneous
 

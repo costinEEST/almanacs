@@ -3,6 +3,7 @@
 - https://github.com/appcypher/awesome-wasm-langs
 - https://github.com/appcypher/awesome-wasm-runtimes
 - http://schellcode.github.io/webassembly-without-emscripten
+- [non-web WebAssembly projects that I find interesting.](https://twitter.com/beriberikix/status/1258554615529738242)
 
 ### Courses
 

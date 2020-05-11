@@ -17,3 +17,4 @@
 ### Boilerplates
 
 - https://github.com/nonoesp/electron-quick-start
+- https://medium.com/@jonathanberi/a-no-nonsense-guide-to-webpack-electron-webassembly-part-2-e5d262d0dc41
