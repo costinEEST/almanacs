@@ -147,6 +147,10 @@
 
 - [.. I just realized that default args in JS can take an expression that makes use of previous args in the argument list!](https://twitter.com/mjackson/status/1207108228921741313)
 
+### Object.prototype
+
+- [Why assignment will look for setters in the prototype chain, but not for regular value properties?](https://twitter.com/dan_abramov/status/1259518085347885057)
+
 ### Array.prototype.reduce()
 
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
