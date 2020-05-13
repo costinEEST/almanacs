@@ -36,6 +36,10 @@
 
 - [Perf.mail from Calibre](https://us2.campaign-archive.com/home/?u=9067434ef642e9c92aa7453d2&id=7cba5dc7bd)
 
+### Writing
+
+- https://www.writethedocs.org/blog/archive/tag/newsletter
+
 ### Health
 
 - [Quantified Bob Updates](https://us12.campaign-archive.com/home/?u=96812e559fe41fd1b9fd55794&id=edb4b26575)

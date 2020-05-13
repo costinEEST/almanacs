@@ -12,6 +12,7 @@
 - [An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)
 - [Darwin/macOS emulation layer for Linux.](https://github.com/darlinghq/darling)
 - [A color blindness simulator for Mac and iOS](https://github.com/michelf/sim-daltonism)
+- [What are the best designed apps and websites for iPad in your opinion?](https://twitter.com/rauchg/status/1260324646223667200)
 
 ### References
 

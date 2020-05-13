@@ -273,6 +273,7 @@
 - https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage
 - https://chrisrng.svbtle.com/using-url-createobjecturl
 - [POST data to the server even inside onbeforeunload, etc where XHR/fetch isn't reliable.](https://twitter.com/_jayphelps/status/1244794448237735936)
+- [Async DOM listeners](https://twitter.com/WebReflection/status/1260474785894666242)
 
 ### Single-page application
 
