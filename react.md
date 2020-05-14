@@ -209,6 +209,7 @@
 - https://github.com/Lemoncode/react-testing-by-example
 - [Repository to learn BDD and e2e using cypress ](https://github.com/Lemoncode/cypress-by-example)
 - https://leanpub.com/mastering-tdd-with-react
+- https://developers.redhat.com/blog/2020/04/28/contract-first-development-create-a-mock-back-end-for-realistic-data-interactions-with-react
 
 ### Tooling
 

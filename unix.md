@@ -12,6 +12,7 @@
 - [Understanding the bin, sbin, usr/bin , usr/sbin split.](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 - https://toroid.org/unix-pipe-implementation
 - https://papers.freebsd.org/2020/FOSDEM/losh-Hidden_early_history_of_Unix.files/slides.pdf
+- https://venam.nixers.net/blog/unix/2020/05/02/time-on-unix.html
 
 ### CLI
 
