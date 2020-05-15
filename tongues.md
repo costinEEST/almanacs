@@ -46,6 +46,7 @@
 
 - http://www.alljapaneseallthetime.com/blog
 - https://thewordcat.wordpress.com/2020/04/08/japanese-language-resources
+- https://radiolingua.com/2013/01/lesson-01-coffee-break-german
 
 ### Communities
 
