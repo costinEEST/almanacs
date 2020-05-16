@@ -6,6 +6,7 @@
 
 - [Pretty cool alternative collection of fonts.](https://typespecimens.io)
 - https://app.programmingfonts.org
+- https://vanschneider.com/the-best-totally-free-web-fonts-typefaces
 
 ### Tools
 

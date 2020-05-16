@@ -5,6 +5,7 @@
 ### Demos
 
 - https://github.com/tipsy/profile-summary-for-github
+- https://benwiser.com/blog/My-blog-is-now-generated-by-Google-Docs.html
 
 ### Practice
 

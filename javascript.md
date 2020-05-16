@@ -113,6 +113,7 @@
 - https://swizec.com/blog/finally-a-practical-use-case-for-javascript-generators/swizec/9036
 - https://swizec.com/blog/advent-code-day-15-dueling-javascript-generators/swizec/7973
 - https://twitter.com/mjackson/status/1244736662875193345
+- https://twitter.com/jedschmidt/status/1254932318336081920 + [Turning callbacks into async iterators](https://gist.github.com/jed/f8444ae8e6e40e08a7b29944840ac20d)
 
 ### spread/destructure operator
 
@@ -283,6 +284,7 @@
 
 - https://briangrinstead.com/blog/firefox-webcomponents
 - https://github.com/shawnbot/custom-elements
+- https://github.com/thepassle/generic-components
 - [React's Hooks API implemented for web components.](https://github.com/matthewp/haunted)
 - https://github.com/paulirish/lite-youtube-embed
 - https://github.com/luwes/lite-vimeo-embed

@@ -1,3 +1,7 @@
+### <meta />
+
+- https://textslashplain.com/2020/05/15/meta-charset
+
 ### <select></select>
 
 - https://sarahmhigley.com/writing/select-your-poison

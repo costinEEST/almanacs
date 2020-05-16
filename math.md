@@ -62,7 +62,7 @@
 ### Mathematicians
 
 - [Évariste Galois](https://twitter.com/3blue1brown/status/1245468127061610496) + https://www.damninteresting.com/radical-solutions
-- [John Horton Conway (1937-2020)](https://www.scottaaronson.com/blog/?p=4732)
+- [John Horton Conway (1937-2020)](https://www.scottaaronson.com/blog/?p=4732) + http://raganwald.com/2020/05/03/fractran.html
 
 ### Miscellaneous
 

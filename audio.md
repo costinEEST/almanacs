@@ -22,6 +22,7 @@
 - https://www.dkthehuman.com/music-apps
 - https://github.com/tholman/binary-music-player
 - [A music discovery site used in over 1M videos and games.](http://dig.ccmixter.org) + https://news.ycombinator.com/item?id=22810514
+- Interactive articulatory speech synthesizer - https://dood.al/pinktrombone + https://experiments.withgoogle.com/pink-trombone + https://github.com/zakaton/Pink-Trombone + https://github.com/evykassirer/pink-trombone-bangbangcon
 
 ### TV
 

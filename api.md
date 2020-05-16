@@ -14,6 +14,8 @@
 - https://blog.filippo.io/gmail-bot-with-apps-script-and-typescript
 - [Scrape the Twitter Frontend API without authentication.](https://github.com/bisguzar/twitter-scraper)
 - [GMail tasks over OAuth2 API using Google's API Client](https://github.com/abhishekkr/gmail-helper)
+- [Instant lyrics for your current Spotify track!](https://github.com/gedrick/SpotifyKaraoke)
+- [Backup your Slack chat messages (direct messages, group messages, joined channels) to your local computer without any extra permissions or apps.](https://github.com/t-tran/slack-chat-backup)
 
 ### GraphQL
 

@@ -6,6 +6,7 @@
 - https://lethain.com/handbook-relational-db-design-on-data-modeling
 - https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
 - [beginners](https://twitter.com/samerbuna/status/1183771023054987264)
+- [Advanced SQL and database books and resources](https://news.ycombinator.com/item?id=23138297)
 
 ### Courses
 

@@ -51,6 +51,7 @@
 - [Google Chrome Extension. Record All Browsing in Screenshots & Full Text.](https://github.com/idibidiart/AllSeeingEye)
 - [A Chrome extension to provide a QR code of the current Page Url.](https://github.com/SgiobairOg/qrer)
 - [Core Web Vitals Chrome extension measures: Largest ContentFull Paint, First Input Delay, Cumulative Layout Shift](https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha)
+- https://github.com/vinothsparrow/iframe-broker + https://github.com/Sjord/messpostage
 
 ### Bookmarklets
 
@@ -65,6 +66,7 @@ javascript: (() =>
 - [Find out which element is scrolling.](https://gist.github.com/brumm/74fd7eaafd50c8477519)
 - https://github.com/micmro/performance-bookmarklet
 - https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii
+- https://alan.norbauer.com/articles/bookcision/
 
 ### Engines
 
@@ -84,6 +86,7 @@ javascript: (() =>
 - [Output a video file from screenshot frames within a Chrome DevTools JSON trace file.](https://github.com/justinribeiro/devtools-to-video)
 - [This tool downloads, installs, and configures a shiny new copy of Chromium.](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/march/autochrome)
 - [Harden your Chrome browser via enterprise policy.](https://github.com/mandatoryprogrammer/ChromeGalvanizer)
+- https://blittle.github.io/chrome-dev-tools + https://github.com/blittle/chrome-dev-tools
 
 ### Brave
 
@@ -163,3 +166,4 @@ javascript: (() =>
 - [Shareable bookmarks.](https://github.com/darekkay/static-marks)
 - https://textslashplain.com/2020/02/09/demystifying-browsers
 - https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-browsers-1
+- https://alan.norbauer.com/articles/browser-debugging-tricks

@@ -36,3 +36,7 @@
 ### TV
 
 - [Deep dive into MotionLayout by Bogdan Zurac](https://docs.google.com/presentation/d/1957szdWm2Uj1YSF8ffWS0_5UOjRN6cysLMWuVdeRT4s)
+
+### Opinions
+
+- https://www.tbray.org/ongoing/When/202x/2020/02/09/Why-Android
