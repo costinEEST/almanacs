@@ -70,6 +70,7 @@
 - https://www.cristianmargarit.ro/2014/10/despre-antinutrienti-si-toxine-naturale-mancare
 - [Lectins - clistbus](https://www.youtube.com/playlist?list=PLy5C4b2v0Bq0vTRUziPB_RB3ZJu1Mmplj)
 - [Jennifer Fugo talks about gluten free](https://www.youtube.com/user/jenfugo/playlists)
+- https://mdlingo.com/a-guide-to-coconut-products-water-milk-cream-oil-butter
 
 ### Ketosis
 
@@ -88,6 +89,7 @@
 ### Mushrooms
 
 - https://ciupercar.ro
+- [Mushrooms and Truffles: Historical Biofactories for Complementary Medicine in Africa and in the Middle East](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3854548)
 
 ### Tea
 
