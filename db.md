@@ -7,6 +7,7 @@
 - https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
 - [beginners](https://twitter.com/samerbuna/status/1183771023054987264)
 - [Advanced SQL and database books and resources](https://news.ycombinator.com/item?id=23138297)
+- [The DynamoDB Book: Data Modeling with NoSQL and DynamoDB](https://news.ycombinator.com/item?id=23193093)
 
 ### Courses
 

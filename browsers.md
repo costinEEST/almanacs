@@ -52,6 +52,7 @@
 - [A Chrome extension to provide a QR code of the current Page Url.](https://github.com/SgiobairOg/qrer)
 - [Core Web Vitals Chrome extension measures: Largest ContentFull Paint, First Input Delay, Cumulative Layout Shift](https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha)
 - https://github.com/vinothsparrow/iframe-broker + https://github.com/Sjord/messpostage
+- [WorldBrain's Memex: Bookmarking for the power users of the web](https://news.ycombinator.com/item?id=23227186)
 
 ### Bookmarklets
 

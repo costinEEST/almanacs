@@ -32,6 +32,7 @@
 - [Mechanical Ventilator Milano (MVM): A Novel Mechanical Ventilator Designed for Mass Scale Production in Response to the COVID-19 Pandemics](https://arxiv.org/abs/2003.10405)
 - https://www.instructables.com/id/The-Pandemic-Ventilator
 - [Lasersaur -- open source laser cutter](https://github.com/nortd/lasersaur)
+- https://github.com/hardenedlinux/firmware-anatomy/blob/master/hack_ME/hw_security.md
 
 ### Talks
 
