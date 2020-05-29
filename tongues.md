@@ -26,7 +26,8 @@
 - https://www.futurelearn.com/courses/explore-english-shakespeare
 - [English for Emails by British Council](https://www.youtube.com/playlist?list=PLm7J5yZ2yc3lSzvNTBA4Vssy6a2CaOjS3)
 - [#LearnALanguage – with Britain's most multilingual student by British Council](https://www.youtube.com/playlist?list=PLaALxC_iM0-YOHikUMmmV-rbSgMc9Ei1W)
-  [Pronunciation Tutorials - MimicMethod](https://www.youtube.com/playlist?list=PLe8oyXzXqjDuPUXWXRqibx8grJUTN0vAy)
+- [Pronunciation Tutorials - MimicMethod](https://www.youtube.com/playlist?list=PLe8oyXzXqjDuPUXWXRqibx8grJUTN0vAy)
+- [Spanish With Paul](https://www.youtube.com/user/learnspanishvideos/playlists)
 
 ### Books
 
@@ -48,6 +49,7 @@
 - https://thewordcat.wordpress.com/2020/04/08/japanese-language-resources
 - https://radiolingua.com/2013/01/lesson-01-coffee-break-german
 - [Learn to Pronounce Sounds in American English](https://pronuncian.com/sounds)
+- https://lindiebotes.com/language-resources
 
 ### Communities
 
