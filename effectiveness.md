@@ -81,6 +81,7 @@
 
 ### Writing
 
+- [Readings and notes on the past, present, and future of books](https://github.com/jlevy/on-books)
 - https://divu.in/writing-effective-software-137ac3c3c7c1
 - http://timharford.com/2020/01/book-of-the-week-2-dreyers-english
 - [Don't waste your time on file structure, use an editor with a good fuzzy search and move on.](https://twitter.com/aweary/status/1206763785777754117)

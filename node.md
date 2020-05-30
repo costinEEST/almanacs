@@ -21,6 +21,7 @@
 - [TypeScript with Node.js by Zaiste](https://www.youtube.com/playlist?list=PLhXZp00uXBk72m_G7E2Bshzd7PDpaInE1)
 - https://khalilstemmler.com/articles/domain-driven-design-intro + https://github.com/stemmlerjs/white-label
 - https://www.freecodecamp.org/news/learn-the-pern-stack-full-course
+- https://github.com/cmda-bt/be-course-17-18
 
 ### Books
 
