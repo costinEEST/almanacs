@@ -43,6 +43,7 @@
 - [Kubernetes & Containers - IBM Developer Romania meetup](https://www.slideshare.net/secret/I2R9szfsFOo9xz)
 - https://www.marcolancini.it/2019/blog-deploy-kubernetes-lab + https://github.com/marco-lancini/offensive-infrastructure
 - https://crypt.codemancers.com/posts/2020-04-27-encrypting-and-storing-kubernetes-secrets-in-git
+- https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular
 
 ### Servers
 
@@ -60,6 +61,7 @@
 ### Monitoring
 
 - https://itnext.io/prometheus-for-beginners-5f20c2e89b6c
+- https://github.com/yolossn/Prometheus-Basics
 - [Free Grafana Complete course for beginners - I.T Security Labs](https://www.youtube.com/playlist?list=PLyJqGMYm0vnO9osZ-EBV6iu2l10muE2A-)
 - [SQL powered operating system instrumentation, monitoring, and analytics.](https://github.com/osquery/osquery)
 - https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf

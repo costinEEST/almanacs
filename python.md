@@ -20,6 +20,7 @@
 
 ### References
 
+- https://cjolowicz.github.io/posts/hypermodern-python-01-setup
 - https://github.com/gto76/python-cheatsheet
 - https://pyvideo.org/europython-2016/designing-a-pythonic-interface.html + https://twitter.com/kushaldas/status/1246801300307636224
 

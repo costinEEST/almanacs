@@ -1,3 +1,7 @@
+### Books
+
+- https://www.google.com/search?q=Andrew+Loomis+free+archive+ebooks
+
 ### Courses
 
 - [Practical Cartooning for Technical Folk](https://courses.rachelnabors.com/p/practical-cartooning)

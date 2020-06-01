@@ -37,6 +37,7 @@
 - https://medium.com/@WebReflection/what-does-agile-mean-743d6742dae7
 - https://github.com/LappleApple/awesome-leading-and-managing
 - https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a
+- https://www.sachinrekhi.com/top-resources-for-product-managers
 
 ### Strategy
 

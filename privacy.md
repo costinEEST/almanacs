@@ -28,6 +28,7 @@
 - Studying the Resilience of Browser Fingerprinting to Block Crawlers: [tweet](https://twitter.com/xopek59/status/1218169607535693824) + [paper](https://hal.inria.fr/hal-02441653)
 - https://medium.com/@vmsp/blocking-your-adblocker-967d1c6e48f2
 - https://foosoft.net/posts/decrapifying-the-twitter-timeline/index.html
+- https://www.bellingcat.com/news/2020/05/18/military-and-intelligence-personnel-can-be-tracked-with-the-untappd-beer-app
 
 ### Social media
 
