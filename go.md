@@ -4,6 +4,7 @@
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent)
 - https://github.com/code-tutorials/golang-webapp
 - https://notes.eatonphil.com/database-basics.html + https://news.ycombinator.com/item?id=22850817
+- [Diving into Go by building a CLI application](https://news.ycombinator.com/item?id=23318137)
 
 ### Courses
 

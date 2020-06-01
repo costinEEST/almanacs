@@ -178,6 +178,7 @@
 - [WebSockets vs Server-Sent Events](https://www.ably.io/blog/websockets-vs-sse)
 - [WebSocket emulation - Node.js server](https://github.com/sockjs/sockjs-node)
 - https://thinkloveshare.com/en/hacking/reverse_xsshell
+- [Why Is This Website Port Scanning Me?](https://news.ycombinator.com/item?id=23246170)
 
 ### P2P
 

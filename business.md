@@ -15,6 +15,7 @@
 - [Curated list to achieve visibility for your product](https://github.com/dehenne/awesome-visibility)
 - https://github.com/mmccaff/PlacesToPostYourStartup
 - https://github.com/rdp/open-source-how-to-popularize-your-project
+- https://github.com/LisaDziuba/Marketing-for-Engineers
 
 ### Branding
 

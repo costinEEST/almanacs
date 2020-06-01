@@ -111,6 +111,7 @@
 - [Writing a Book with Pandoc, Make, and Vim](https://keleshev.com/my-book-writing-setup) + https://news.ycombinator.com/item?id=22854332
 - [Write.md - Sharable, distraction free markdown editor.](https://www.producthunt.com/posts/write-md)
 - https://github.com/sixhobbits/technical-writing
+- [Obsidian – A knowledge base that works on local Markdown files](https://news.ycombinator.com/item?id=23324598)
 
 ### Drawing
 

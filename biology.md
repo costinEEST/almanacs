@@ -13,6 +13,7 @@
 - https://www.edx.org/course/the-science-and-business-of-biotechnology
 - https://www.youtube.com/user/bozemanbiology/playlists
 - [Bioengineering 101 Class - Josiah Zayner](https://www.youtube.com/playlist?list=PLNAhY1w2w78qIZLdi1Y69q1_fo0PVolRA)
+- https://learn.genetics.utah.edu + https://news.ycombinator.com/item?id=23295590
 
 ### Miscellaneous
 

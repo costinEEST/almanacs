@@ -28,6 +28,7 @@
 - [Make A Game In Unity With No Experience](https://www.youtube.com/playlist?list=PLUtKzyIe0aB3TZfe2wsIgJgGZW5G_NAxa)
 - https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course
 - https://yoshuawuyts.gitbooks.io/knowledge/content/art/game-theory.html
+- https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game
 
 ### The creators
 

@@ -53,6 +53,7 @@
 - [Core Web Vitals Chrome extension measures: Largest ContentFull Paint, First Input Delay, Cumulative Layout Shift](https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha)
 - https://github.com/vinothsparrow/iframe-broker + https://github.com/Sjord/messpostage
 - [WorldBrain's Memex: Bookmarking for the power users of the web](https://news.ycombinator.com/item?id=23227186)
+- [A Firefox add-on to strip Google search results of 'blacklisted' URLs](https://news.ycombinator.com/item?id=23295989)
 
 ### Bookmarklets
 
