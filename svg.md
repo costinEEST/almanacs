@@ -2,6 +2,10 @@
 
 - http://tutorials.jenkov.com/svg/index.html
 
+### Icons
+
+- [Remix Icon - Open source icon library](https://remixicon.com)
+
 ### Tutorials
 
 - https://github.com/donbright/font_to_svg

@@ -136,7 +136,6 @@
 - [Open Peeps, Hand-Drawn Illustration Library.](https://www.openpeeps.com)
 - [iconmonstr - Free simple icons for your next project](https://iconmonstr.com)
 - https://undraw.co/illustrations
-- https://remixicon.com
 
 ### Art
 
