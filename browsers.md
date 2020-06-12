@@ -54,6 +54,7 @@
 - https://github.com/vinothsparrow/iframe-broker + https://github.com/Sjord/messpostage
 - [WorldBrain's Memex: Bookmarking for the power users of the web](https://news.ycombinator.com/item?id=23227186)
 - [A Firefox add-on to strip Google search results of 'blacklisted' URLs](https://news.ycombinator.com/item?id=23295989)
+- [Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.](https://github.com/kickscondor/fraidycat)
 
 ### Bookmarklets
 

@@ -260,6 +260,7 @@
 - https://portswigger.net/daily-swig/blind-regex-injection-theoretical-exploit-offers-new-way-to-force-web-apps-to-spill-secrets
 - [Re-implementation of ECMA-262 (JavaScript) RegExp](https://github.com/MakeNowJust/rerejs)
 - https://github.com/mattnotmax/cyberchef-recipes
+- [Regular expression that remove second occurrence of a character in a string.](https://stackoverflow.com/a/18258553)
 
 ### new Worker()
 

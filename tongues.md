@@ -55,6 +55,14 @@
 
 - https://www.meetup.com/Deuscht-Lasst-uns-Deutsch-sprechen
 
+### Chinese
+
+- https://neustadt.fr/essays/china-one-nation-how-many-languages
+
+### German
+
+- https://neustadt.fr/essays/teaching-myself-german
+
 ### Tibetan
 
 - [Tibetan Language Channel](https://www.youtube.com/channel/UCBOk5M9QQKfjg3-5HFl8sxA/playlists)
