@@ -6,7 +6,8 @@
 - https://captmeelo.com/pentest/2020/02/24/bypass-okhttp-cert-pinning.html + https://www.reddit.com/r/netsec/comments/f8pegs/bypassing_okhttp_certificate_pinning
 - [Android application penetration testing using some of the common tools.](https://github.com/riddhi-shree/nullCommunity/blob/master/Android/README.md)
 - https://twitter.com/lorenzofb/status/1229740603983921158
-- [Android Hacking - B3nac Sec](https://www.youtube.com/playlist?list=PLrIM_Ohh4UNNT1vfBGn4FwGzH-k8QqHpt)
+- [Android Hacking - B3nac Sec](https://www.youtube.com/playlist?list=PLrIM_Ohh4UNNT1vfBGn4FwGzH-k8QqHpt) + https://github.com/B3nac/InjuredAndroid
+- https://github.com/B3nac/Android-Reports-and-Resources
 
 ### Applications
 

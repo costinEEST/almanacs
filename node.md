@@ -157,6 +157,7 @@
 - https://github.com/Lemoncode/web-security-fundamentals
 - [A step by step workshop to exploit various vulnerabilities in Node.js and Java applications](https://github.com/snyk/exploit-workshop)
 - [Express.js web security challenge](https://twitter.com/gynvael/status/1260499214225809409) + https://oshogbo.vexillium.org/blog/76
+- https://github.com/adamtlangley/Data-Over-DNS
 
 ### Static site generators
 
