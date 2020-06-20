@@ -39,6 +39,7 @@
 ### Tools
 
 - [Creating tiny zines using HTML/CSS layout.](https://github.com/trueskawka/css-zines)
+- [An extensive list of CSS/JS browserhacks from all over the interwebs.](https://github.com/4ae9b8/browserhacks)
 
 ### TV
 

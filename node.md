@@ -131,6 +131,7 @@
 
 ### Scrapping
 
+- https://www.scrapingbee.com/blog/web-scraping-javascript
 - https://levelup.gitconnected.com/anonymous-web-scrapping-with-node-js-tor-apify-and-cheerio-3b36ec6a45dc
 - https://www.twilio.com/blog/4-tools-for-web-scraping-in-node-js
 
@@ -138,6 +139,7 @@
 
 - https://github.com/stemmlerjs/solid-email-microservice
 - [A micro service development architecture based on nest.js.](https://github.com/notadd/notadd)
+- [Flatend – Quickly build microservices using P2P networking in Node/Go](https://news.ycombinator.com/item?id=23561904)
 
 ### Design patterns
 
@@ -162,6 +164,7 @@
 ### Static site generators
 
 - https://tatianamac.com/tags/Eleventy
+- https://sgolem.com/building-an-easy-on-the-eyes-ikea-style-blog-in-no-time-for-free-again
 - [Dynamic from Static with Smart Deployment.](https://slides.com/mayashavin/deck-44de00/fullscreen#/) + https://twitter.com/cloudinary/status/1208172092312543232
 - [Markdown-based static site generator that works well with monorepos](https://twitter.com/captainsafia/status/1207459107004801024)
 - [Personal blog of Fotis Papadogeorgopoulos, built with Eleventy.](https://github.com/fpapado/fotis.xyz)

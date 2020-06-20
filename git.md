@@ -1,3 +1,7 @@
+### Courses
+
+- https://github.com/pingcap/talent-plan/blob/master/courses/tp103-open-source-community.md
+
 ### Videos
 
 - https://trevordmiller.com/videos

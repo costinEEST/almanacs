@@ -10,6 +10,7 @@
 
 - Write web applications in Go without using a framework: [book](https://leanpub.com/antitextbookGo) + (recordings)[https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4]
 - https://github.com/inancgumus/learngo
+- https://github.com/pingcap/talent-plan#series-3-distributed-database
 
 ### TV
 

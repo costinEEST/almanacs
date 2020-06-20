@@ -2,6 +2,10 @@
 
 - https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust + (https://news.ycombinator.com/item?id=22818150)
 
+### Courses
+
+- https://github.com/pingcap/talent-plan#series-2-rust-programming
+
 ### Tutorials
 
 - https://twitter.com/samaaron/status/1214649047002292224

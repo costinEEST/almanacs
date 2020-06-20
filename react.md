@@ -123,6 +123,7 @@
 - [Virtual DOOM is a first-person 3D demo that uses the DOM as its render engine.](https://github.com/ath92/virtual-doom)
 - [From @emotioncss to @tailwindcss](https://twitter.com/kentcdodds/status/1240420669965271040)
 - https://joshwcomeau.com/react/prefers-reduced-motion
+- https://sgolem.com/atomic-design-with-react-and-bit-simplify-a-complex-ui
 
 ### Server side rendering
 
@@ -151,6 +152,7 @@
 - https://medium.com/javascript-in-plain-english/improve-your-redux-skills-by-writing-custom-middleware-32a70b9dfb25
 - [MobX & React in 2020](https://github.com/leighhalliday/mobx2020)
 - https://tgvashworth.com/2016/09/03/some-ways-to-think-about-state.html
+- https://sgolem.com/complex-app-logic-with-redux-and-redux-saga-write-an-authentication-monitor
 
 ### Packages
 
