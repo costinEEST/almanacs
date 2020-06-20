@@ -1,3 +1,7 @@
+### Books
+
+- https://www.scribd.com/doc/309687372/An-Introduction-to-Tonal-Theory-Peter-Westergaard
+
 ### Instruments
 
 - [Can anyone suggest a Guitar for beginners?](https://twitter.com/divyanshub024/status/1212427300345503744)

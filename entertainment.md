@@ -92,6 +92,7 @@
 - https://twitter.com/monicaMedHist/status/1149342569458876417
 - https://lithub.com/what-we-can-learn-and-should-unlearn-from-albert-camuss-the-plague
 - [Eastory](https://www.youtube.com/channel/UCElybFZ60Hk1NSjgCf7I2sg/playlists)
+- https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism
 
 ### Mythology
 

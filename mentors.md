@@ -16,3 +16,11 @@
 - [Aaron Swartz Hackathon 2017 - Code Therapy](https://www.youtube.com/playlist?list=PL7RY3c_PbOzFz2spZTMS3PBkNEfwXgOTW)
 - https://www.nytimes.com/2017/01/01/us/huston-smith-author-of-the-worlds-religions-dies-at-97.html
 - [John Berardi](https://www.precisionnutrition.com/6-books-on-coaching)
+
+### Patrick Collison
+
+- [Which five books have influenced you the most? (In terms of shaping your worldview.)](https://twitter.com/patrickc/status/929862403763798016)
+
+### Keith Rabois
+
+- https://medium.com/@rabois/reading-list-604c88ecefa4
