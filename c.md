@@ -5,6 +5,7 @@
 - [Think OS: A Brief Introduction to Operating Systems](https://greenteapress.com/wp/think-os)
 - [The C Programming Language by Brian Kernighan and Dennis Ritchie](https://twitter.com/oznova_/status/1214971707863101440)
 - https://nostarch.com/Effective_C + [C Experts Panel – Ask us anything about C](https://news.ycombinator.com/item?id=22865357)
+- https://blog.dpc.dev/writing-solid-code-steve-maguire
 
 ### Articles
 

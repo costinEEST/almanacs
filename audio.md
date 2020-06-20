@@ -1,3 +1,7 @@
+### Books
+
+- https://blog.dpc.dev/digital-signal-processing-steven-w-smith
+
 ### References
 
 - https://divu.in/music-theory-and-generation-13965ba83eb9

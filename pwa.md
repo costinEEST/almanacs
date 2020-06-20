@@ -5,6 +5,7 @@
 ### Case studies
 
 - https://formidable.com/work/starbucks-progressive-web-app + https://realtalkjavascript.simplecast.com/episodes/episode-74-react-at-starbucks-with-cher
+- https://github.com/dominiccooney/Service-Worker-Performance
 
 ### Demos
 

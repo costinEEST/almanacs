@@ -150,6 +150,7 @@
 - https://kentcdodds.com/blog/make-impossible-states-impossible
 - https://medium.com/javascript-in-plain-english/improve-your-redux-skills-by-writing-custom-middleware-32a70b9dfb25
 - [MobX & React in 2020](https://github.com/leighhalliday/mobx2020)
+- https://tgvashworth.com/2016/09/03/some-ways-to-think-about-state.html
 
 ### Packages
 

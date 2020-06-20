@@ -36,6 +36,10 @@
 
 - https://lab.html5test.com
 
+### TV
+
+- https://tgvashworth.com/2016/06/03/frontend-reading-list.html
+
 ### References
 
 - http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf

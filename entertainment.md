@@ -48,6 +48,7 @@
 - [The Starship and the Canoe by Kenneth Brower](https://twitter.com/vgr/status/1234714328994988035)
 - [F. Scott Fitzgerald - Marele Gatsby](https://humanitas.ro/assets/pdf/F-Scott-Fitzgerald_Marele-Gatsby.pdf)
 - [James Joyce - Portret al artistului la tinerete](https://humanitas.ro/assets/pdf/James-Joyce_Portret-al-artistului.pdf)
+- [Story Genius - Lisa Cron](https://blog.dpc.dev/story-genius)
 
 ### Sociology
 
