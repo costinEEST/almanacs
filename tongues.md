@@ -58,6 +58,7 @@
 ### Chinese
 
 - https://neustadt.fr/essays/china-one-nation-how-many-languages
+- https://lindiebotes.com/2020/06/26/how-to-learn-chinese-characters
 
 ### German
 

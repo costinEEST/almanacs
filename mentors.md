@@ -17,6 +17,10 @@
 - https://www.nytimes.com/2017/01/01/us/huston-smith-author-of-the-worlds-religions-dies-at-97.html
 - [John Berardi](https://www.precisionnutrition.com/6-books-on-coaching)
 
+### Derek Sivers
+
+- https://store.sivers.org/1
+
 ### Patrick Collison
 
 - [Which five books have influenced you the most? (In terms of shaping your worldview.)](https://twitter.com/patrickc/status/929862403763798016)

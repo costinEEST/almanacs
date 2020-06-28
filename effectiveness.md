@@ -112,6 +112,7 @@
 - [Write.md - Sharable, distraction free markdown editor.](https://www.producthunt.com/posts/write-md)
 - https://github.com/sixhobbits/technical-writing
 - [Obsidian – A knowledge base that works on local Markdown files](https://news.ycombinator.com/item?id=23324598)
+- https://www.garron.blog/posts/typora-markdown-editor.html
 
 ### Drawing
 
