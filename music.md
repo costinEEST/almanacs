@@ -6,6 +6,7 @@
 
 - [Can anyone suggest a Guitar for beginners?](https://twitter.com/divyanshub024/status/1212427300345503744)
 - https://noncombatant.org/2014/11/16/valuemusic-16-nov-2014-guitar-mania
+- https://web.archive.org/web/20150610200755/http://11thmuse.com/Taragot.pdf
 
 ### Tools
 
@@ -30,6 +31,7 @@
 ### Jazz
 
 - https://www.montreuxjazzfestival.com/en/50-concerts-to-stream
+- https://en.wikipedia.org/wiki/Music_of_Romania#Jazz
 
 ### Rock
 
