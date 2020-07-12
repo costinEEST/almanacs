@@ -10,6 +10,7 @@
 
 ### Books
 
+- [ The Art and Craft of Problem Solving - Paul Zeitz](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
 - [Introduction to Graph Theory (Dover Books on Mathematics)](https://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709)
 - http://danaernst.com/resources/free-and-open-source-textbooks
 - [Mathematical Illustrations: A Manual of Geometry and PostScript](http://www.math.ubc.ca/~cass/graphics/manual)
