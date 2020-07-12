@@ -60,9 +60,17 @@
 - https://neustadt.fr/essays/china-one-nation-how-many-languages
 - https://lindiebotes.com/2020/06/26/how-to-learn-chinese-characters
 
+### Danish
+
+- https://sokolova.dk + https://twitter.com/sokolovadk
+
 ### German
 
 - https://neustadt.fr/essays/teaching-myself-german
+
+### Japanese
+
+- http://schuessler.org/i-memorize-things
 
 ### Tibetan
 
