@@ -7,6 +7,7 @@
 - [An introduction to Python and programming for wanna-be data scientists](https://github.com/webartifex/intro-to-python)
 - https://realpython.com/account/purchases
 - https://hyperskill.org/onboarding/?track=python
+- https://github.com/polyrand/learn/tree/main/lambda_calculus
 
 ### Books
 

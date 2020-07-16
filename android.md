@@ -22,6 +22,7 @@
 - https://captmeelo.com/pentest/2019/12/30/lesser-known-tools-for-android-pentest.html
 - https://nelsonslog.wordpress.com/2019/05/04/gps-logger-app-for-android
 - [UI to manipulate Android Java Classes and Methods at Runtime.](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
+- [Extract endpoints from APK files](https://github.com/ndelphit/apkurlgrep)
 
 ### APIs
 

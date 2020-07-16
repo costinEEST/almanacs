@@ -50,6 +50,7 @@
 - https://gioyik.com/s/memory-chronicles-manage-trace-fix-memory-leaks
 - https://www.joyent.com/blog/walmart-node-js-memory-leak
 - [Profile & Analyze Node.js Applications.](https://gioyik.com/s/profile-analyze-nodejs-applications)
+- [JS Memory Analysor is a tool to detect memory leaks for Javascript/NodeJS.](https://github.com/alibaba/JS-Memory-Analysor)
 
 ### Internals
 

@@ -90,6 +90,7 @@ javascript: (() =>
 - [This tool downloads, installs, and configures a shiny new copy of Chromium.](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/march/autochrome)
 - [Harden your Chrome browser via enterprise policy.](https://github.com/mandatoryprogrammer/ChromeGalvanizer)
 - https://blittle.github.io/chrome-dev-tools + https://github.com/blittle/chrome-dev-tools
+- [Extract relative urls from a heap snapshot](https://github.com/smiegles/extract-relative-url-heapsnapshot)
 
 ### Brave
 
@@ -106,6 +107,7 @@ javascript: (() =>
 ### CORS
 
 - https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html
+- [Authenticated CORS with Access-Control-Allow-Origin: \*](https://blog.bi.tk/chrome-cors)
 
 ### Cookies
 
