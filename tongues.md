@@ -64,6 +64,10 @@
 
 - https://sokolova.dk + https://twitter.com/sokolovadk
 
+### English
+
+- [The English and their History - Robert Tombs](https://www.goodreads.com/book/show/23569457-the-english-and-their-history)
+
 ### German
 
 - https://neustadt.fr/essays/teaching-myself-german
@@ -71,6 +75,7 @@
 ### Japanese
 
 - http://schuessler.org/i-memorize-things
+- [Japanese English: Language and Culture Contact - James Stanlaw](https://www.goodreads.com/book/show/405436.Japanese_English)
 
 ### Tibetan
 

@@ -7,6 +7,7 @@
 - [What is your most obsolete technical book that you would not / will not get rid of, for sentimental reasons?](https://twitter.com/starsandrobots/status/1219504631438397441)
 - https://ultimateelectronicsbook.com
 - [What are some good resources to learn how electricity works?](https://news.ycombinator.com/item?id=23562181)
+- [The Digital Flood: The Diffusion of Information Technology Across the U.S., Europe, and Asia - James W. Cortada](https://www.amazon.com/Digital-Flood-Diffusion-Information-Technology/dp/0199921555)
 
 ### Courses
 
