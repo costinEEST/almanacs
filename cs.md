@@ -25,6 +25,7 @@
 - [Best Talks of 2019?](https://news.ycombinator.com/item?id=21858866)
 - https://www.youtube.com/user/mycodeschool/playlists
 - [The Computers: The Remarkable Story of the ENIAC Programmers.](https://vimeo.com/ondemand/eniac6)
+- https://www.deconstructconf.com/2017/dan-grossman-the-cs-undergrad-curriculum-of-2017
 
 ### Books
 
@@ -100,3 +101,4 @@
 - https://blog.jessfraz.com/post/the-life-of-a-data-byte
 - https://thecomputation.com/2020/03/19/brief-history-of-quantum-computing.html
 - https://github.com/watson/awesome-computer-history
+- http://www.starling-software.com/employment/programmer-competency-matrix.html

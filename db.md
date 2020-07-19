@@ -25,6 +25,7 @@
 - [Analyzing node.js on GitHub with BigQuery](https://jbeckwith.com/2016/08/13/bigquery-github)
 - https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it
 - https://medium.com/@woj_ciech/leaklooker-gui-discover-browse-and-monitor-database-source-code-leaks-f4b82bbb48fe + https://github.com/woj-ciech/LeakLooker
+- https://blog.codepen.io/2018/06/07/need-to-store-some-data
 
 ### TIL
 
@@ -46,6 +47,7 @@
 - [Algorithms behind Modern Storage Systems.](https://www.infoq.com/presentations/storage-algorithms)
 - [ CMU Database Group](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)
 - [SQL Tutorial for Beginners by Ben Awad](https://twitter.com/benawad/status/1217109321902850048)
+- https://www.deconstructconf.com/2018/jumana-bahrainwala-how-to-scale-relational-database-migrations
 
 ### Radio
 

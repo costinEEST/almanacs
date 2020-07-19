@@ -10,6 +10,10 @@
 - [David Senra](https://davidsnotes.substack.com/archive)
 - https://buttondown.email/computer-napkins/archive
 
+### Biology
+
+- https://csvoss.substack.com/archive
+
 ### Design
 
 - [Design Sprint Newsletter by Jake Knapp](https://www.getrevue.co/profile/designsprint)

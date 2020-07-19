@@ -15,6 +15,10 @@
 - https://www.amazon.com/Order-without-Design-Markets-Cities/dp/0262038765 + https://twitter.com/devonzuegel/status/1252260210204262400
 - https://blas.com/tag/architecture
 
+### Brochures
+
+- https://sothebysrealty.ro/catalogs/1
+
 ### TV
 
 - https://www.youtube.com/user/30by40/playlists

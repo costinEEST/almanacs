@@ -27,6 +27,7 @@
 - https://github.com/mgifford/a11y-contracting
 - [Accessibility Talks](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/playlists)
 - https://accessibility-for-teams.com
+- https://docs.google.com/presentation/d/1N412OH3sI0zPHA9HV128l6jpQObNhVeGXWZLqgWkGtQ
 
 ### Radio
 
@@ -42,6 +43,7 @@
 
 ### References
 
+- https://css-tricks.com/how-to-section-your-html
 - http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
 - https://allthetags.com
 - https://www.goodemailcode.com

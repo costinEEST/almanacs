@@ -59,3 +59,4 @@
 ### Cooking
 
 - https://divu.in/cooking
+- [Make Pizza: Instructional Videos - The Pizza Book](https://www.youtube.com/playlist?list=PLhpdihPT7EFVGJzIMaEjIdsd5dDxbUs-p)

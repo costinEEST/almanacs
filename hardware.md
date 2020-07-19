@@ -38,12 +38,13 @@
 - [USB in a NutShell](https://www.beyondlogic.org/usbnutshell/usb1.shtml)
 - https://shkspr.mobi/blog/2020/05/building-a-physical-blink-tag
 
-### Talks
+### TV
 
 - https://github.com/hellerve/programming-talks#hardware
 - [Review and analysis of bulb. By electronupdate](https://www.youtube.com/playlist?list=PLv9WfM3NgK2xFHrD9BJ4-4CEbRpbe6DFP)
 - [March is for Makers - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdpNzI3uaAu-kqWvH4BttLQ)
 - [N-O-D-E](https://www.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA/playlists)
+- [Shenzhen I/O - Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
 
 ### Tools
 

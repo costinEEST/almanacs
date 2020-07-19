@@ -6,6 +6,7 @@
 - https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879
 - https://twitter.com/rjs/status/1246161738069753856
 - http://web.eecs.utk.edu/~azh/blog/booksformystudents.html
+- [Degreeless.design - Everything I Learned in Design School](https://www.degreeless.design)
 
 ### Graphic design
 

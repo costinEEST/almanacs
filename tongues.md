@@ -35,6 +35,7 @@
 - [Books on Linguistics and TESOL](https://www.youtube.com/playlist?list=PLOY-0V_l_9x5zyZvaYnc-TuZjDuX-txNS)
 - https://github.com/hackerkid/Mind-Expanding-Books#language
 - https://twitter.com/IntermarkLS/status/1245449234813456385
+- https://www.cntraveler.com/gallery/22-ambassadors-recommend-the-one-book-to-read-before-visiting-their-country
 
 ### Applications
 

@@ -1,9 +1,10 @@
 ### Animals
 
-- [Crows could be the smartest animal other than primates](https://www.bbc.com/future/article/20191211-crows-could-be-the-smartest-animal-other-than-primates)
 - [Great White Sharks Are Completely Terrified of Orcas](https://www.smithsonianmag.com/smart-news/great-white-sharks-are-completely-terrified-orcas-180972009)
 - https://www.amazon.com/Extreme-Life-Sea-Stephen-Palumbi/dp/0691169810 + https://neal.fun/deep-sea
 - http://www.overcomingbias.com/2020/01/how-bees-argue.html
+- https://www.nationalgeographic.com/environment/2019/01/termites-protect-rainforests-climate-drought
+- https://www.bbc.com/future/article/20191211-crows-could-be-the-smartest-animal-other-than-primates
 
 ### Anatomy
 
@@ -55,6 +56,7 @@
 ### Physics
 
 - https://physicstravelguide.com
+- https://www.amazon.com/Electromagnetic-Theory-Oliver-Heaviside/dp/1549664514
 - [ElectroBOOM101](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)
 - [The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
 - [Electric Circuits by Eugene Khutoryansky](https://www.youtube.com/playlist?list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)

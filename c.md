@@ -12,12 +12,13 @@
 - [Reading files the hard way - Part 1 (node.js, C, rust, strace)](https://fasterthanli.me/blog/2019/reading-files-the-hard-way/)
 - [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
 
-### Talks
+### TV
 
 - https://github.com/hellerve/programming-talks#c
 - [Modern Memory Safety: C/C++ Vulnerability Discovery, Exploitation, Hardening](https://github.com/struct/mms)
 - [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 - [Buffer Overflows - Code with Nick ](https://www.youtube.com/playlist?list=PLLTI453cNzfn2_9Q9KXb9lbF233gvsQOJ)
+- https://www.deconstructconf.com/2017/joe-damato-all-programmers-must-learn-c-and-assembly
 
 ### Radio
 

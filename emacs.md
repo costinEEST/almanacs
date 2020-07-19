@@ -6,3 +6,4 @@
 ### Miscellaneous
 
 - https://twitter.com/victordorneanu/status/1222158980627288064
+- https://manuel.is/posts/how-emacs-saved-my-wrist

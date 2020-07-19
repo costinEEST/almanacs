@@ -105,7 +105,6 @@
 - [I asked Tony Fadell about the iPod timeline ..](https://twitter.com/patrickc/status/1216477318434050048)
 - [Gary Starkweather.](https://twitter.com/rauschma/status/1218576177444593665)
 - [The Idea Factory: Bell Labs and the Great Age of American.](https://www.goodreads.com/review/show/3043739089)
-- [Energy: A Human History](https://www.goodreads.com/review/show/3008690448)
 - https://www.bbc.com/future/article/20200219-xia-peisu-the-computer-pioneer-who-built-modern-china
 - [What are some great ethnographies of technology users/communities?](https://twitter.com/devonzuegel/status/1228843148358500353)
 - https://florentcrivello.com/index.php/2020/02/24/general-magic-and-silicon-valley-common-wisdom

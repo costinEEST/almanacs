@@ -20,6 +20,11 @@
 - https://github.com/humanwhocodes/computer-science-in-javascript
 - https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
 - https://github.com/raphamorim/algorithms-playground
+- https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day
+
+### Data structures
+
+- https://areknawo.com/rocking-js-data-structures
 
 ### AST
 
@@ -306,6 +311,7 @@
 - [QA Wolf is a free and open source library to create Puppeteer/Jest browser tests and run them in CI.](https://github.com/qawolf/qawolf)
 - https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3
 - [uilicious](https://twitter.com/serrynaimo/status/1217779028838322177)
+- [Testing keyboard, mouse and touch input with JavaScript](http://distributedlife.com/til/testing-input-javascript.html)
 
 ### Virtual machines
 
