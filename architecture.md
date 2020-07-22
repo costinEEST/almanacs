@@ -14,6 +14,7 @@
 - https://devonzuegel.com/post/cities-reading-list + https://twitter.com/michael_nielsen/status/975886747870441472
 - https://www.amazon.com/Order-without-Design-Markets-Cities/dp/0262038765 + https://twitter.com/devonzuegel/status/1252260210204262400
 - https://blas.com/tag/architecture
+- [Universe of Stone: Chartres Cathedral and the Triumph of the Medieval Mind - Philip Ball](https://www.amazon.co.uk/Universe-Stone-Chartres-Cathedral-Medieval/dp/0099499444)
 
 ### Brochures
 

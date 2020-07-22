@@ -66,6 +66,7 @@
 - [Big Gods: How Religion Transformed Cooperation and Conflict - Ara Norenzayan](https://www.goodreads.com/book/show/17942053-big-gods)
 - [Religious Experience Reconsidered: A Building-Block Approach to the Study of Religion and Other Special Things - Ann Taves](https://www.amazon.com/Religious-Experience-Reconsidered-Building-Block-Approach/dp/0691140871)
 - How Jesus Became a Christ - https://youtu.be/K8jdGNXIgfk + https://www.youtube.com/playlist?list=PLm7uyPwcHexJKzQVzfMyLT0epfOTYXm3N
+- [The Secret History of Science and Religion](https://www.bbc.co.uk/programmes/m000614g/episodes/player) + https://www.amazon.com/Atheists-Origin-Species-Nick-Spencer/dp/1472902963 + https://www.abc.net.au/religion/the-problem-with-yuval-noah-harari/12451764
 
 ### Geography
 

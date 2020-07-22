@@ -1,6 +1,8 @@
 ### Books
 
 - https://www.scribd.com/doc/309687372/An-Introduction-to-Tonal-Theory-Peter-Westergaard
+- https://www.oliversacks.com/books-by-oliver-sacks/musicophilia
+- https://www.amazon.co.uk/Music-Instinct-Works-Cant-Without/dp/0099535440
 
 ### Instruments
 

@@ -72,3 +72,4 @@
 - [8.03 - MIT Physics III: Vibrations and Waves](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89)
 - [ Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw/playlists)
 - https://ciechanow.ski/gears
+- https://www.amazon.co.uk/Beyond-Weird-Philip-Ball/dp/1847924573
