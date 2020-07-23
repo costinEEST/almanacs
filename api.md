@@ -16,6 +16,8 @@
 - [GMail tasks over OAuth2 API using Google's API Client](https://github.com/abhishekkr/gmail-helper)
 - [Instant lyrics for your current Spotify track!](https://github.com/gedrick/SpotifyKaraoke)
 - [Backup your Slack chat messages (direct messages, group messages, joined channels) to your local computer without any extra permissions or apps.](https://github.com/t-tran/slack-chat-backup)
+- [Find books from Google Play Books](https://github.com/liyasthomas/books)
+- [This app uses the API of other websites and gives you an RSS feed in return.](https://github.com/stefansundin/rssbox)
 
 ### GraphQL
 
@@ -36,6 +38,7 @@
 
 - https://github.com/Cazaimi/circadian-api
 - [FoodData Central (FDC)](https://fdc.nal.usda.gov/about-us.html) + https://github.com/USDA/USDA-APIs/issues/92
+- https://github.com/ChickenKyiv/awesome-food-open-source
 
 ### Weather
 

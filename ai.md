@@ -49,6 +49,7 @@
 
 - https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
 - https://github.com/amzn/computer-vision-basics-in-microsoft-excel
+- https://github.com/AgaMiko/bird-recognition-review
 
 ### CNN
 

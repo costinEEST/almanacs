@@ -56,6 +56,7 @@
 - [A Firefox add-on to strip Google search results of 'blacklisted' URLs](https://news.ycombinator.com/item?id=23295989)
 - [Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.](https://github.com/kickscondor/fraidycat)
 - [Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.](https://github.com/checkly/puppeteer-recorder)
+- [Keyboard glee for your web.](https://github.com/glee/glee)
 
 ### Bookmarklets
 

@@ -124,6 +124,7 @@
 - [From @emotioncss to @tailwindcss](https://twitter.com/kentcdodds/status/1240420669965271040)
 - https://joshwcomeau.com/react/prefers-reduced-motion
 - https://sgolem.com/atomic-design-with-react-and-bit-simplify-a-complex-ui
+- https://github.com/JacobParis/sliding-sidebar
 
 ### Server side rendering
 

@@ -37,6 +37,7 @@
 - [Everyone is doing storytelling apps, scrollytelling, storymaps type apps.](https://twitter.com/KiriCarini/status/1222196646957633537)
 - https://github.com/Lemoncode/d3js-typescript-examples
 - https://github.com/willianjusten/awesome-audio-visualization
+- [A data visualization curriculum of interactive notebooks.](https://github.com/uwdata/visualization-curriculum)
 
 ### Talks
 

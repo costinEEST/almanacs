@@ -47,6 +47,7 @@
 
 - https://viorel.me/2019/simple-undo-redo-functionality-in-js-using-memento
 - https://lihautan.com/reactivity-in-web-frameworks-the-when
+- https://github.com/staltz/frontmania-rxjs-workshop
 
 ### TIL
 
@@ -68,6 +69,7 @@
 - [Future JavaScript: what is still missing?](https://2ality.com/2019/01/future-js.html)
 - https://medium.com/@bluepnume/how-many-keywords-can-you-place-in-a-row-in-javascript-fa9046b4c1ff
 - https://www.reddit.com/r/Slackers/comments/ex5mmt/cool_ways_to_generate_strings_in_javascript
+- https://github.com/madhadron/mvc_for_the_web
 
 ### Books
 
@@ -202,6 +204,7 @@
 - https://github.com/Lemoncode/async-javascript-fundamentals
 - [waitForFrame: a little async utility to wait for an animation frame](https://twitter.com/alexandereardon/status/1245870136659066882)
 - [Wrapper for an array of promises that can fine control how to run them?](https://twitter.com/sseraphini/status/1245427739169079296)
+- [Comparing various async patterns for a single demo](https://github.com/getify/A-Tale-Of-Three-Lists)
 
 ### JSON.parse()
 
@@ -266,6 +269,7 @@
 - [Re-implementation of ECMA-262 (JavaScript) RegExp](https://github.com/MakeNowJust/rerejs)
 - https://github.com/mattnotmax/cyberchef-recipes
 - [Regular expression that remove second occurrence of a character in a string.](https://stackoverflow.com/a/18258553)
+- [Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language.](https://github.com/francisrstokes/super-expressive)
 
 ### new Worker()
 
@@ -281,6 +285,8 @@
 - https://chrisrng.svbtle.com/using-url-createobjecturl
 - [POST data to the server even inside onbeforeunload, etc where XHR/fetch isn't reliable.](https://twitter.com/_jayphelps/status/1244794448237735936)
 - [Async DOM listeners](https://twitter.com/WebReflection/status/1260474785894666242)
+- [.dom is a tiny (512 byte) template engine that uses virtual DOM and some of react principles.](https://github.com/wavesoft/dot-dom)
+- https://www.malgol.com/how-to-reload-an-iframe-in-javascript
 
 ### Single-page application
 

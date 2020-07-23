@@ -65,6 +65,7 @@
 - https://vasco3.gitbooks.io/hacks-n-notes/content/internet_marketing/seo.html
 - https://github.com/darekkay/best-practices#seo
 - [Curs Super SEO pentru eCommerce](https://academia.gomag.ro/biblioteca?access=67)
+- https://www.linkedin.com/pulse/200-unsolicited-seo-tips-mark-williams-cook
 
 ### Color
 

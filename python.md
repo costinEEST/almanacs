@@ -60,6 +60,7 @@
 ### Servers
 
 - [Fun with sockets: let's write a webserver!](https://twitter.com/b0rk/status/1211762580655607808)
+- [A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.](https://github.com/mirumee/saleor)
 
 ### Standard library
 
@@ -81,6 +82,7 @@
 - https://elder.dev/posts/open-source-virtual-background
 - [Automate pulling Springer's free books.](https://github.com/octonion/springer)
 - [This is a list of repositories and libraries that allow for scripted downloading of online content.](https://github.com/Kickball/awesome-dl)
+- [A framework to track the evolution of Operating Systems over time.](https://github.com/Wenzel/oswatcher)
 
 ### Testing
 

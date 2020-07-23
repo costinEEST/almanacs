@@ -9,6 +9,7 @@
 - [Arduino Development on OpenBSD](https://jcs.org/2019/12/17/arduino)
 - [ESP32-Cam Quickstart with Arduino Code](https://youtu.be/Sb08leLWOgA)
 - https://arunoda.me/blog/building-a-connected-ammeter-with-arduino
+- [A decentralized system of synchronized lights to coordinate urban mobility swarms.](https://github.com/aberke/city-science-bike-swarm)
 
 ### ESP32
 

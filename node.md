@@ -40,6 +40,7 @@
 - [Open-source YouTube alternative that also supports image and audio uploads.](https://github.com/mayeaux/nodetube)
 - https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial
 - https://github.com/sahat/hackathon-starter
+- https://github.com/Jiratech/boilerplates-express-typescript-openapi
 
 ### Debugging
 
@@ -86,6 +87,7 @@
 - Zero-dependency HTTP responders: [tweet](https://twitter.com/juliangruber/status/1222120717367611392) + [repo](https://github.com/juliangruber/http-responders)
 - [Prefer cwd instead of \_\_dirname when configuring your Webpack.](https://twitter.com/sseraphini/status/1232667049949880320)
 - [Node.js library to bypass cloudflare's anti-ddos page.](https://github.com/codemanki/cloudscraper)
+- [Search your starred repositories on GitHub for a keyword.](https://github.com/Link-/starred_search)
 
 ### Testing
 
@@ -100,6 +102,8 @@
 - [Visualizing data from your Node JS app with Prometheus + Grafana](https://sergeypotekhin.com/visualizing-data-from-the-node-js-app)
 - https://dev.to/mattkrick/replacing-express-with-uwebsockets-48ph
 - [Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.](https://github.com/IntrinsicLabs/osgood)
+- [A state-of-the-art user-space network driver written in idiomatic JavaScript.](https://github.com/ixy-languages/ixy.js)
+- https://github.com/justincampbell/url-shorteners
 
 ### Authentication
 
@@ -135,6 +139,7 @@
 - https://www.scrapingbee.com/blog/web-scraping-javascript
 - https://levelup.gitconnected.com/anonymous-web-scrapping-with-node-js-tor-apify-and-cheerio-3b36ec6a45dc
 - https://www.twilio.com/blog/4-tools-for-web-scraping-in-node-js
+- [Scrapes the web serial Worm and its sequel Ward into an eBook format.](https://github.com/domenic/worm-scraper)
 
 ### Micro services
 
