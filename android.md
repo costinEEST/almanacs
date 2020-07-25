@@ -8,6 +8,7 @@
 - https://twitter.com/lorenzofb/status/1229740603983921158
 - [Android Hacking - B3nac Sec](https://www.youtube.com/playlist?list=PLrIM_Ohh4UNNT1vfBGn4FwGzH-k8QqHpt) + https://github.com/B3nac/InjuredAndroid
 - https://github.com/B3nac/Android-Reports-and-Resources
+- https://yasoob.me/posts/reverse-engineering-android-apps-apktool + https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android
 
 ### Applications
 
@@ -34,6 +35,8 @@
 - [How are you distributing your android app bundle? app.aab?](https://twitter.com/sseraphini/status/1220304089462067200)
 - [Building an Android App from the Command Line](https://www.hanshq.net/command-line-android.html)
 - https://github.com/ardovic/Open-Source-Android-Weather-App
+- https://niftylettuce.com/posts/android-local-testing
+- https://roadmap.sh/android
 
 ### TV
 
@@ -42,3 +45,4 @@
 ### Opinions
 
 - https://www.tbray.org/ongoing/When/202x/2020/02/09/Why-Android
+- https://niftylettuce.com/posts/google-free-android-setup

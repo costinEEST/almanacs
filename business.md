@@ -114,6 +114,7 @@
 
 - http://paulgraham.com/lesson.html + https://listle.io/embed/3996601668
 - https://florentcrivello.com/index.php/2020/01/06/how-apple-sells-software-at-hardware-prices
+- [Why does DARPA work?](https://benjaminreinhardt.com/wddw)
 
 ### Miscellaneous
 

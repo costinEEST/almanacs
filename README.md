@@ -67,6 +67,7 @@
 - [Life sciences / real sciences](life.md)
 - [Linux](linux.md)
 - [Lisp](lisp.md)
+- [Lua](lua.md)
 - [Mac OS](mac.md)
 - [Malware](malware.md)
 - [Maps](maps.md)

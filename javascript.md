@@ -78,7 +78,8 @@
 - [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
 - https://github.com/amilajack/reading/tree/master/JavaScript
 - [A General Theory of Reactivity](https://legacy.gitbook.com/book/kriskowal/gtor/details)
-- [](https://softchris.github.io/books/rxjs)
+- https://softchris.github.io/books/rxjs
+- https://gumroad.com/l/jstestingbeginners
 
 ### Talks
 
@@ -256,6 +257,7 @@
 ### new RegExp()
 
 - https://ihateregex.io/playground + https://ihateregex.io/cheatsheet
+- https://regexcrossword.com
 - https://www.debuggex.com + https://youtu.be/hprXxJHQVfQ
 - https://www.regular-expressions.info/cookbook.html + https://learning.oreilly.com/library/view/regular-expressions-cookbook/9781449327453
 - https://github.com/LeaVerou/regexplained + https://youtu.be/M7vDtxaD7ZU
@@ -356,6 +358,7 @@
 - [Uppload is a better JavaScript image uploader with 30+ plugins](https://github.com/elninotech/uppload)
 - https://softeng.oicr.on.ca/bob_tiernay/2017/02/13/JSON-Like-a-Boss-with-jq
 - [How can I tell webpack, "Whenever I import @blueprintjs/core, also import blueprintjs/core/lib/css/blueprint.css first"?](https://twitter.com/sophiebits/status/1249853629093179392)
+- https://zach.codes/es6-import-nodejs-on-the-frontend
 
 ### Documentation
 

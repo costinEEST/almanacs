@@ -31,6 +31,7 @@
 - https://github.com/bnorbert/Courses/blob/master/History%20Of%20Computer%20Science%20Project/A_brief_history_of_Machine_Learning.pdf
 - https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course
 - https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course
+- https://laconicml.com/free-artificial-intelligence-courses
 
 ### Books
 
@@ -50,6 +51,7 @@
 - https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
 - https://github.com/amzn/computer-vision-basics-in-microsoft-excel
 - https://github.com/AgaMiko/bird-recognition-review
+- https://www.digitalocean.com/community/tutorials/how-to-trick-a-neural-network-in-python-3
 
 ### CNN
 
@@ -70,3 +72,4 @@
 - [Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy.](https://github.com/bjoernkarmann/project_alias)
 - [AI Projects - Will Kwan](https://www.youtube.com/playlist?list=PLhYmet_wsdVHARIgDLSXpXcs2-XlR0oJ1)
 - https://github.com/cchen156/Learning-to-See-in-the-Dark
+- https://medium.com/analytics-vidhya/sentiment-analysis-of-restaurant-reviews-542727dc24e2

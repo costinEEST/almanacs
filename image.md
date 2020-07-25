@@ -5,6 +5,7 @@
 ### Formats
 
 - https://www.media.mit.edu/pia/Research/deepview/exif.html
+- https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python
 
 ### Tools
 

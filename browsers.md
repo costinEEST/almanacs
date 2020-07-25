@@ -57,6 +57,10 @@
 - [Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.](https://github.com/kickscondor/fraidycat)
 - [Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.](https://github.com/checkly/puppeteer-recorder)
 - [Keyboard glee for your web.](https://github.com/glee/glee)
+- [Hunt the most starred projects on any date on GitHub.](https://github.com/kamranahmedse/githunt)
+- [Google Chrome translation extension.](https://github.com/artemave/translate_onhover)
+- [Awesome Screenshot Minus](https://github.com/rojer/a-s-minus)
+- https://zonksec.com/blog/chrome-extension-to-detect-fake-tweets
 
 ### Bookmarklets
 

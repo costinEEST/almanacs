@@ -7,11 +7,17 @@
 
 - https://github.com/changwookjun/StudyBook
 - https://github.com/trekhleb/learn-python
+- https://book.pythontips.com/en/latest
 - https://automatetheboringstuff.com/2e
 - [Getting Started Neo4j with Python (For Complete Beginners)](<https://github.com/ybaktir/neo4ds/blob/master/Getting%20Started%20Neo4j%20with%20Python%20(For%20Complete%20Beginners).ipynb>)
 - Interactive Structure and Interpretation of Computer Programs: [repo](https://github.com/IIIIllllIIIIllllIIIIllllIIIIllllIIIIll/isicp) + [site](http://www.xuanji.li/isicp)
 - https://devforum.ro/t/noncs-intro-to-python-and-programming/12853
 - [Foundations of Python Network Programming (Apress)](https://github.com/brandon-rhodes/fopnp)
+
+### Boots
+
+- https://github.com/musically-ut/first-timers-only-bot
+- https://github.com/yasoob/fb-messenger-bot
 
 ### Clean code
 
@@ -83,12 +89,10 @@
 - [Automate pulling Springer's free books.](https://github.com/octonion/springer)
 - [This is a list of repositories and libraries that allow for scripted downloading of online content.](https://github.com/Kickball/awesome-dl)
 - [A framework to track the evolution of Operating Systems over time.](https://github.com/Wenzel/oswatcher)
+- [An in-browser Python profile viewer.](https://github.com/jiffyclub/snakeviz)
+- https://raw.githubusercontent.com/matplotlib/cheatsheets/master/cheatsheets-1.png
 
 ### Testing
 
 - https://www.abhaybhargav.com/tdd-for-serverless-my-setup
 - https://www.abhaybhargav.com/security-automation-with-a-markdown-file
-
-### Boots
-
-- https://github.com/musically-ut/first-timers-only-bot

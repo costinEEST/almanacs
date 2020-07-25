@@ -114,6 +114,9 @@
 - https://github.com/sixhobbits/technical-writing
 - [Obsidian – A knowledge base that works on local Markdown files](https://news.ycombinator.com/item?id=23324598)
 - https://www.garron.blog/posts/typora-markdown-editor.html
+- https://jonathanbuys.com/Setting_Up_Webster's_Dictionary + https://www.websters1913.com
+- https://www.dschapman.com/notes/reading-and-writing-parallel
+- [Notes on WWHF Workshop ‘How To How-To’](https://ianlee1521.com/2020/03/13/wwhf-how-to-howto)
 
 ### Drawing
 

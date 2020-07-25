@@ -14,6 +14,7 @@
 - [SwiftnessX - A cross-platform note-taking & target-tracking app for penetration testers.](https://github.com/ehrishirajsharma/SwiftnessX)
 - [Sing karaoke, any song, any language](https://github.com/youkaclub/youka-desktop)
 - [A modern Library Genesis book browser.](https://github.com/Samin100/Alexandria)
+- [GitHub notifications on your menu bar. Available on macOS, Windows & Linux.](https://github.com/manosim/gitify)
 
 ### Boilerplates
 

@@ -169,6 +169,8 @@
 - https://react-hook-form.com
 - [A React Renderer for SSD1306 OLED chip on Raspberry Pi.](https://github.com/doodlewind/react-ssd1306)
 - [A modern keyboard shortcut library written in Typescript.](https://github.com/reasonink/clack-react)
+- [A beautiful and flexible guitar component for React.](https://github.com/4lejandrito/react-guitar)
+- [Excel-like DataGrid component for React JS.](https://github.com/rowsncolumns/grid)
 
 ### Debugging
 
@@ -201,6 +203,7 @@
 - [Peer-to-peer file transfers in your browser, using WebRTC.](https://github.com/kern/filepizza)
 - https://blog.mgechev.com/2014/09/03/webrtc-peer-to-peer-chat-with-react
 - https://webrtc.ventures/2018/04/file-transfers-small-demonstration-webrtc-react-redux + https://github.com/agilityfeat/file-transfer-demo
+- https://github.com/Loeka1234/typescript-url-shortener-frontend
 
 ### Testing
 
@@ -214,6 +217,7 @@
 - [Repository to learn BDD and e2e using cypress ](https://github.com/Lemoncode/cypress-by-example)
 - https://leanpub.com/mastering-tdd-with-react
 - https://developers.redhat.com/blog/2020/04/28/contract-first-development-create-a-mock-back-end-for-realistic-data-interactions-with-react
+- https://jkettmann.com/beginners-guide-to-testing-react
 
 ### Tooling
 

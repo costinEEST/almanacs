@@ -77,6 +77,7 @@
 - [How to Setup and Deploy by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQrhICMaBrN0aNOrECA_RTUs-)
 - https://devforth.io/blog/step-by-step-guide-to-modern-secure-ci-setup
 - https://www.freecodecamp.org/news/metrics-driven-development
+- https://theresnomon.co/what-modern-ci-cd-should-look-like-e6f50594c2d2
 
 ### Site Reliability Engineering
 

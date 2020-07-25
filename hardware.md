@@ -50,3 +50,4 @@
 ### Tools
 
 - https://nelsonslog.wordpress.com/2020/05/27/power-monitoring-generator-well
+- [Multi platform circuit layout and schematic drawing tool.](https://github.com/bancika/diy-layout-creator)

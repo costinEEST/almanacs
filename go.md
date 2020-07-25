@@ -6,12 +6,14 @@
 - https://notes.eatonphil.com/database-basics.html + https://news.ycombinator.com/item?id=22850817
 - [Diving into Go by building a CLI application](https://news.ycombinator.com/item?id=23318137)
 - [GoLD stack (Golang, Lambda and DynamoDB)](https://dev.to/prozz/introduction-to-the-gold-stack-5b66)
+- https://golangbot.com/learn-golang-series
 
 ### Courses
 
 - Write web applications in Go without using a framework: [book](https://leanpub.com/antitextbookGo) + (recordings)[https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4]
 - https://github.com/inancgumus/learngo
 - https://github.com/pingcap/talent-plan#series-3-distributed-database
+- https://empijei.science/talks.html
 
 ### TV
 
@@ -29,6 +31,8 @@
 - [A workshop covering all the tools gophers use in their day to day life](https://github.com/campoy/go-tooling-workshop)
 - [Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. ](https://github.com/claudiodangelis/qrcp)
 - [patchbay.pub – Poor man's ngrok/IFTTT/serverless](https://news.ycombinator.com/item?id=21639066)
+- [Peer authenticated WebRTC.](https://github.com/saljam/webwormhole) + https://twitter.com/FiloSottile/status/1255583253240709120
+- https://twitter.com/mikispag/status/1255164681121136642
 
 ### References
 

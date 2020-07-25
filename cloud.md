@@ -17,6 +17,7 @@
 - [Build an auto-updating Excel spreadsheet with stock market data using Python, AWS, and the API for the IEX stock exchange.](https://www.freecodecamp.org/news/auto-updating-excel-python-aws)
 - [Building cmdchallenge using Lambda and API Gateway in the AWS free-tier with Docker and Go](https://www.jarv.org/building-cmdchallenge.html)
 - https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide
+- [How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
 
 ### Google Cloud
 

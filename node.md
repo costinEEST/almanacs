@@ -33,6 +33,7 @@
 - https://github.com/aliyr/Nodejs-Developer-Roadmap
 - https://github.com/dexteryy/spellbook-of-modern-webdev#nodejs
 - https://github.com/ArturJS/nodejs-certification-preparation
+- https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners
 
 ### Boilerplate
 
@@ -184,6 +185,7 @@
 
 - [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
 - https://jasonet.co/posts/build-your-own-probot
+- https://github.com/srepollock/quote-bot-twitter + https://medium.com/swlh/how-i-built-a-serverless-aws-lambda-twitter-bot-in-nodejs-in-a-single-day-6901f8df13f0
 
 ### Serverless
 

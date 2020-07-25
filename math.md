@@ -27,6 +27,7 @@
 - [At the Interface of Algebra and Statistics - Tai-Danae Bradley](https://twitter.com/math3ma/status/1249862830670729217)
 - [3D Math Primer For Graphics and Game Development (Wordware Game Math Library)](https://www.amazon.com/Primer-Graphics-Development-Wordware-Library/dp/1556229119)
 - https://www.amazon.com/History-Mathematical-Notations-Dover-Mathematics/dp/0486677664
+- [Teach Yourself Logic: A Study Guide](https://www.logicmatters.net/tyl) + https://en.wikipedia.org/wiki/How_to_Solve_It + https://www.edx.org/course/paradox-and-infinity + https://omereingold.wordpress.com/cs-154-introduction-to-automata-and-complexity-theory
 
 ### Courses
 
@@ -60,6 +61,9 @@
 - [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg/videos)
 - [The Art of Math: A No-Nonsense Guide - Ilya (Ilusha) Tsinis ](https://www.youtube.com/playlist?list=PLtMJUI0rs4e5BLanthvCYmW5EeFs6wY3z)
 - [The Free Will Lectures - John Conway (2009)](https://www.youtube.com/playlist?list=PLhsb6tmzSpixUGjmJq6g9iPm73pMWnPnH)
+- ["CS Theory Toolkit" -- graduate course 15-751 taught at Carnegie Mellon University (CMU) in Spring 2020.](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
+- https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills
+- https://www.youtube.com/c/EasyTheory/playlists
 
 ### Mathematicians
 

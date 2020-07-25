@@ -5,6 +5,7 @@
 - http://www.overcomingbias.com/2020/01/how-bees-argue.html
 - https://www.nationalgeographic.com/environment/2019/01/termites-protect-rainforests-climate-drought
 - https://www.bbc.com/future/article/20191211-crows-could-be-the-smartest-animal-other-than-primates
+- https://www.inverse.com/science/ultra-black-fish-discovery
 
 ### Anatomy
 
@@ -73,3 +74,4 @@
 - [ Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw/playlists)
 - https://ciechanow.ski/gears
 - https://www.amazon.co.uk/Beyond-Weird-Philip-Ball/dp/1847924573
+- [The Spinning Magnet: The Force That Created the Modern World--and Could Destroy It - Alanna Mitchell](https://www.goodreads.com/en/book/show/35754738) + https://youtu.be/wnexzUxUNX4

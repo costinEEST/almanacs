@@ -41,6 +41,7 @@
 - https://www.ckn.io/blog/2017/11/14/wireguard-vpn-typical-setup
 - [Building an OpenBSD Wireguard server.](https://twitter.com/andersonc0d3/status/1250767620745449473)
 - https://tailscale.com/blog/why-not-why-not-wireguard
+- [Stop your video calls from stuttering](https://www.benkuhn.net/vcnet)
 
 ### The Open Systems Interconnection model
 
@@ -70,6 +71,7 @@
 - [An Empirical Study of Wireless Carrier Authentication for SIM Swaps](https://www.issms2fasecure.com)
 - https://nelsonslog.wordpress.com/2020/01/07/wireless-isp-resources
 - [How Antennas Work](http://www.antenna-theory.com/m/index.php) + https://news.ycombinator.com/item?id=22785015
+- [Wireless is a trap](https://www.benkuhn.net/wireless)
 
 ### 5G
 
@@ -208,3 +210,4 @@
 - [A short (and mostly wrong) history of computer networking](https://fasterthanli.me/blog/2019/making-our-own-ping)
 - https://blog.cloudflare.com/the-history-of-the-url
 - http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers
+- https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio

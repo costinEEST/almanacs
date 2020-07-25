@@ -6,6 +6,7 @@
 
 - https://github.com/mrzool/unix-as-ide
 - [The Art of Unix Programming, reformatted.](https://www.arp242.net/taoup.html)
+- https://www.allthingsdistributed.com/2020/07/the-os-classics.html
 
 ### Internals
 
