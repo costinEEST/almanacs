@@ -10,6 +10,7 @@
 - https://noncombatant.org/2014/11/16/valuemusic-16-nov-2014-guitar-mania
 - https://web.archive.org/web/20150610200755/http://11thmuse.com/Taragot.pdf
 - http://diy-fever.com/reviews/guitar-reviews
+- [Nahre Sol (piano)](https://www.youtube.com/c/NahreSol/playlists)
 
 ### Tools
 
@@ -30,6 +31,7 @@
 ### Songs
 
 - [Why are song lyrics so often about love (or heartbreak)?](https://twitter.com/devonzuegel/status/1244386611657228288)
+- https://www.youtube.com/c/SoundFieldPBS/playlists
 
 ### Jazz
 
