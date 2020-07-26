@@ -9,6 +9,7 @@
 - https://github.com/wix/react-native-crash-course
 - [CS50's Mobile App Development with React Native](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course)
 - https://learn.handlebarlabs.com/courses/enrolled
+- https://github.com/screensyt/beat-react-native
 
 ### Books
 

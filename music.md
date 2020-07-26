@@ -27,6 +27,7 @@
 - [Salsa Musicality & Analysis - Marius & Elena Oficial](https://www.youtube.com/playlist?list=PL7iSzWmAf8ttW0TOYeRV9aUvPFphXcrSy)
 - [Bachata Analysis & Musicality - Marius & Elena Oficial](https://www.youtube.com/playlist?list=PL7iSzWmAf8ttkj9BGpgaIfT-v-ehTF53b)
 - [Polyphonic](https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ/playlists)
+- [Ishkur's Guide to Electronic Music.](https://music.ishkur.com)
 
 ### Songs
 

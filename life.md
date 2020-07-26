@@ -75,3 +75,5 @@
 - https://ciechanow.ski/gears
 - https://www.amazon.co.uk/Beyond-Weird-Philip-Ball/dp/1847924573
 - [The Spinning Magnet: The Force That Created the Modern World--and Could Destroy It - Alanna Mitchell](https://www.goodreads.com/en/book/show/35754738) + https://youtu.be/wnexzUxUNX4
+- [Engineering Connections with Richard Hammond - Science Documentary Series](https://www.youtube.com/playlist?list=PLBThhL8p7IfkXJNkrGlhAYlMX5vuOVoat)
+- https://phys.org/news/2020-07-lightest-electromagnetic-shielding-material-world.html

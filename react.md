@@ -15,6 +15,8 @@
 - https://github.com/ReactTraining/react-router-5-course
 - https://github.com/bramus/react-from-scratch-exercises
 - [GraphQL, Apollo, ReactJS.](https://academy.nomadcoders.co/p/offline-apollo-kr)
+- https://marko-knoebl.github.io/slides/overview-react-topics.html
+- https://github.com/nikgraf/2020-05-react-advanced
 
 ### Boilerplate
 

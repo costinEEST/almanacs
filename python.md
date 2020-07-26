@@ -13,6 +13,7 @@
 - Interactive Structure and Interpretation of Computer Programs: [repo](https://github.com/IIIIllllIIIIllllIIIIllllIIIIllllIIIIll/isicp) + [site](http://www.xuanji.li/isicp)
 - https://devforum.ro/t/noncs-intro-to-python-and-programming/12853
 - [Foundations of Python Network Programming (Apress)](https://github.com/brandon-rhodes/fopnp)
+- [Exercises in Programming Style](http://tagide.com/EPSBook)
 
 ### Boots
 
@@ -35,6 +36,7 @@
 - https://realpython.com/account/purchases
 - https://hyperskill.org/onboarding/?track=python
 - https://github.com/polyrand/learn/tree/main/lambda_calculus
+- https://marko-knoebl.github.io/slides/index.html
 
 ### Data structures
 

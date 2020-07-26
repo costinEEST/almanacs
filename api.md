@@ -63,6 +63,10 @@ curl v2.wttr.in/Bucharest
 - https://github.com/oldboyxx/Mapped-Country-Language-Codes
 - [Full list of timezones.](https://github.com/dmfilipenko/timezones.json)
 
+### Languages
+
+- [Microsoft Translator Text API v3.](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-NodeJS)
+
 ### Miscellaneous
 
 - https://github.com/n0shake/Public-APIs

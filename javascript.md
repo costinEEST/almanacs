@@ -13,6 +13,7 @@
 - https://philipwalton.com/articles/smaller-html-payloads-with-service-workers
 - https://twitter.com/btmpl/status/1218456923684724736
 - https://medium.com/@WebReflection/a-basic-weakmap-performance-hint-e33c14908dff
+- https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c
 
 ### Algorithms
 

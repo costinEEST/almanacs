@@ -28,6 +28,7 @@
 - [htop explained](https://peteris.rocks/blog/htop/)
 - https://chrisdown.name/2019/07/18/linux-memory-management-at-scale.html
 - [A book-in-progress about the linux kernel and its insides.](https://0xax.gitbooks.io/linux-insides/content)
+- [Supplementary material for the paper "Analyzing a Decade of Linux System Calls".](https://github.com/corpaul/decade_of_systemcalls)
 
 ### Radio
 
@@ -49,6 +50,7 @@
 - https://diablohorn.com/2014/02/27/qp-stop-video-recording-your-command-line-i-want-to-grep-it
 - Linux Command Line Dojo with Hal Pomeranz: [slides](http://www.deer-run.com/~hal/CLDojo.pdf) + [video](https://www.youtube.com/watch?v=-jNkjuWMFrk)
 - https://ma.ttias.be/different-ways-of-writing-crontab-syntax
+- [Linux Distributions Timeline.](https://github.com/FabioLolix/LinuxTimeline)
 
 ### Embedded
 
