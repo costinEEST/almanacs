@@ -167,6 +167,7 @@
 - [A step by step workshop to exploit various vulnerabilities in Node.js and Java applications](https://github.com/snyk/exploit-workshop)
 - [Express.js web security challenge](https://twitter.com/gynvael/status/1260499214225809409) + https://oshogbo.vexillium.org/blog/76
 - https://github.com/adamtlangley/Data-Over-DNS
+- [Hacking with Environment Variables](https://www.elttam.com/blog/env)
 
 ### Static site generators
 
@@ -193,6 +194,7 @@
 - [Would someone be willing to teach me how @netlify or @zeithq's deploy preview feature works?](https://twitter.com/TejasKumar_/status/1208378475771506688)
 - https://www.freecodecamp.org/news/complete-back-end-system-with-serverless
 - [Firebase Hosting in 6 steps.](https://twitter.com/rwieruch/status/1212773598492004352)
+- [How to make simple Geolocation service using Cloudflare Workers.](https://maxkostinevich.com/blog/serverless-geolocation)
 
 ### Miscellaneous
 

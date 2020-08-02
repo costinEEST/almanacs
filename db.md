@@ -70,6 +70,7 @@
 - https://leontrolski.github.io/nested-sql.html
 - https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
 - https://thedataguy.in/internals-of-google-cloud-spanner
+- [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
 
 ### Real-time databases
 
