@@ -18,11 +18,13 @@
 - https://theaisummer.com/Deep-Learning-Algorithms
 - https://github.com/jivoi/awesome-ml-for-cybersecurity
 - https://github.com/src-d/awesome-machine-learning-on-source-code
+- https://github.com/mrdbourke/machine-learning-roadmap
 
 ### Tools
 
 - [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)
 - [Recommender systems (or recommendation engines)](https://github.com/grahamjenson/list_of_recommender_systems)
+- [Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.](https://github.com/KartikChugh/Otto)
 
 ### Courses
 

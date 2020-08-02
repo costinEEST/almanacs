@@ -18,6 +18,7 @@
 - [Building cmdchallenge using Lambda and API Gateway in the AWS free-tier with Docker and Go](https://www.jarv.org/building-cmdchallenge.html)
 - https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide
 - [How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
+- https://www.freecodecamp.org/news/how-to-make-a-store-in-one-day-aws-react-stripe
 
 ### Google Cloud
 
