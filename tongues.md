@@ -28,6 +28,7 @@
 - [#LearnALanguage – with Britain's most multilingual student by British Council](https://www.youtube.com/playlist?list=PLaALxC_iM0-YOHikUMmmV-rbSgMc9Ei1W)
 - [Pronunciation Tutorials - MimicMethod](https://www.youtube.com/playlist?list=PLe8oyXzXqjDuPUXWXRqibx8grJUTN0vAy)
 - [Spanish With Paul](https://www.youtube.com/user/learnspanishvideos/playlists)
+- [The Development of Writing - The Oriental Institute](https://www.youtube.com/playlist?list=PLmXaxHgt2ww-5iaGS85AavCctyfM252wu)
 
 ### Books
 

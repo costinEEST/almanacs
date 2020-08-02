@@ -102,6 +102,7 @@
 - [Greek mythology](https://www.theoi.com)
 - [Johann Wolfgang Goethe, Faust](https://humanitas.ro/assets/pdf/Goethe_Faust.pdf)
 - [Circe, by Madeline Miller](https://www.worldcat.org/title/circe/oclc/1029842077)
+- [Joseph Campbell Foundation Mythological RoundTables of OPUS at Pacifica Graduate Institute](https://www.youtube.com/playlist?list=PLFmuBnNReE1X5t57vQ7cAusSlb-YDw3db)
 
 ### Mysticism
 

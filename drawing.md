@@ -5,6 +5,7 @@
 ### Courses
 
 - [Practical Cartooning for Technical Folk](https://courses.rachelnabors.com/p/practical-cartooning)
+- https://elespejohumeante.wordpress.com/bibliografia-para-historia-del-dibujo
 
 ### Miscellaneous
 
