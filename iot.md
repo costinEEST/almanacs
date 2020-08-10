@@ -36,6 +36,7 @@
 - http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-04-is-that-a-wifi-sniffer-in-your-pocket-jacob-baines
 - https://alternativebit.fr/posts/ultimate-writer
 - https://mtlynch.io/tinypilot/#how-to-build-your-own-tinypilot
+- https://github.com/brandonskerritt/How-I-Hacked-Your-Pi-Hole
 
 ### Smartwatch
 

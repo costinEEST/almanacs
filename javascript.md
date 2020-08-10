@@ -139,6 +139,7 @@
 - [Differences between 〈script type=module〉and〈script〉](https://usefulangle.com/post/256/script-type-module-vs-script-javascript)
 - [You Might Not Need Webpack - With Ryan Lanciaux](https://youtu.be/KXDPESIwVVU)
 - [Is there an equivalent of process.env.NODE_ENV for browsers?](https://twitter.com/boriscoder/status/1246469107874217984)
+- https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1
 
 ### lexical scoping
 

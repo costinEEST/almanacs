@@ -1,3 +1,7 @@
+### Blood
+
+- https://www.redpenreviews.org/reviews/eat-right-4-your-type-the-individualized-blood-type-diet-solution
+
 ### Grocery
 
 - [What is Organics? - Paul Chek](https://www.youtube.com/playlist?list=PLZupSfb-NVbpltzWP1zcpVH7Nzd16_cQG)

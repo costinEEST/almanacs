@@ -206,6 +206,7 @@
 - https://blog.mgechev.com/2014/09/03/webrtc-peer-to-peer-chat-with-react
 - https://webrtc.ventures/2018/04/file-transfers-small-demonstration-webrtc-react-redux + https://github.com/agilityfeat/file-transfer-demo
 - https://github.com/Loeka1234/typescript-url-shortener-frontend
+- https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutorial-building-firebase-chat-app-react-hooks
 
 ### Testing
 
@@ -220,6 +221,7 @@
 - https://leanpub.com/mastering-tdd-with-react
 - https://developers.redhat.com/blog/2020/04/28/contract-first-development-create-a-mock-back-end-for-realistic-data-interactions-with-react
 - https://jkettmann.com/beginners-guide-to-testing-react
+- https://katifrantz.com/course/react-testing-masterclass?license=dd88e19a-ab0d-4442-87ba-6e9051896bf0 + https://github.com/bahdcoder/testingreact.dev
 
 ### Tooling
 

@@ -52,6 +52,7 @@
 - https://radiolingua.com/2013/01/lesson-01-coffee-break-german
 - [Learn to Pronounce Sounds in American English](https://pronuncian.com/sounds)
 - https://lindiebotes.com/language-resources
+- https://www.inverse.com/innovation/neural-stimulation-language-device
 
 ### Communities
 

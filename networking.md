@@ -39,6 +39,7 @@
 - [What: A terminal tool to check what is taking up your bandwidth](https://github.com/imsnif/bandwhich)
 - [Load this PCAP file in Wireshark and get more than 50 network protocols available to look at, deep-dive or debug](https://weberblog.net/the-ultimate-pcap) + https://weberblog.net/wireshark-layer-2-3-pcap-analysis-w-challenges-ccnp-switch
 - https://www.ckn.io/blog/2017/11/14/wireguard-vpn-typical-setup
+- https://zach.codes/setting-up-wireguard
 - [Building an OpenBSD Wireguard server.](https://twitter.com/andersonc0d3/status/1250767620745449473)
 - https://tailscale.com/blog/why-not-why-not-wireguard
 - [Stop your video calls from stuttering](https://www.benkuhn.net/vcnet)
