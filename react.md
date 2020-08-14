@@ -17,6 +17,7 @@
 - [GraphQL, Apollo, ReactJS.](https://academy.nomadcoders.co/p/offline-apollo-kr)
 - https://marko-knoebl.github.io/slides/overview-react-topics.html
 - https://github.com/nikgraf/2020-05-react-advanced
+- https://www.contentful.com/developers/videos/learn-graphql
 
 ### Boilerplate
 

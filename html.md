@@ -51,3 +51,4 @@
 ### Security
 
 - [HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors](https://html5sec.org)
+- https://research.securitum.com/marginwidth-marginheight-the-unexpected-cross-origin-communication-channel

@@ -4,6 +4,7 @@
 - [How do you sync .env files (project specific) that are git-ignored between different computers?](https://twitter.com/thekitze/status/1207718292149952512)
 - [nvm install node --reinstall-packages-from=node](https://twitter.com/mtliendo/status/1215382381026316290)
 - https://www.heroku.com/podcasts/codeish/51-best-practices-in-error-handling
+- https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood
 
 ### Talks
 

@@ -20,6 +20,7 @@
 - [use the box-shadow property to created a layered component.](https://fossheim.io/writing/posts/css-box-shadow-animation)
 - [How They Fit Together: Transform, Translate, Rotate, Scale, and Offset](https://danielcwilson.com/blog/2020/02/motion-path-transforms)
 - https://justmarkup.com/articles/2020-04-15-css-property-in-a-tweet
+- https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements
 
 ### CSS grid
 

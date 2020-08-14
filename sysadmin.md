@@ -30,6 +30,7 @@
 - https://medium.com/@logicbomb_1/docker-registries-and-their-secrets-47147106e09
 - https://docker-saigon.github.io/post/Docker-Internals
 - https://www.smarthomebeginner.com/run-pihole-in-docker-on-ubuntu-with-reverse-proxy
+- https://knowledgebase.veeral-patel.com/docker%20+%20kubernetes/docker-security
 
 ### Kubernetes
 

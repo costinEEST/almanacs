@@ -103,6 +103,7 @@
 - https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html
 - https://briefbox.me recommended by [Thomas Lowry](https://twitter.com/negativespaceca)
 - https://trongnguyen.co/books-for-product-designers
+- [100 Landing Page hot tips](https://mobile.twitter.com/robhope/status/1265278107088347136)
 
 ### Design Systems
 
@@ -216,6 +217,7 @@
 - https://github.com/tastejs/awesome-app-ideas
 - https://github.com/samsquire/ideas
 - [An interactive demo walk-through we built to give visitors a feel for what the Trevor.io platform does.](https://github.com/tagspace/trevor-demo)
+- https://trello.com/b/A4OmiAWb/100-no-code-resources
 
 ### Tailwind
 

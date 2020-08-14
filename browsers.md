@@ -61,6 +61,7 @@
 - [Google Chrome translation extension.](https://github.com/artemave/translate_onhover)
 - [Awesome Screenshot Minus](https://github.com/rojer/a-s-minus)
 - https://zonksec.com/blog/chrome-extension-to-detect-fake-tweets
+- [Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
 
 ### Bookmarklets
 
@@ -128,6 +129,7 @@ javascript: (() =>
 - https://github.com/nico3333fr/CSP-useful
 - https://csper.io/blog/other-csp-security
 - https://www.secjuice.com/hiding-javascript-in-png-csp-bypass + https://twitter.com/Menin_TheMiddle/status/1244325611440615426
+- https://tldrsec.com/blog/content-security-policy-going-from-idea-to-afterthought
 
 ### WebRTC (Web Real-Time Communication)
 
