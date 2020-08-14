@@ -83,6 +83,7 @@
 - [Autostrada A10](https://www.youtube.com/channel/UCB900RmT-yVwbe4XxehSAFw/videos)
 - https://www.youtube.com/user/Wendoverproductions/playlists
 - https://github.com/yoshuawuyts/knowledge/blob/master/life/cities.md
+- [We, the Navigators: The Ancient Art of Landfinding in the Pacific - David Lewis](https://www.goodreads.com/book/show/758833.We_the_Navigators)
 
 ### History
 

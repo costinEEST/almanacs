@@ -73,6 +73,7 @@
 - https://nelsonslog.wordpress.com/2020/01/07/wireless-isp-resources
 - [How Antennas Work](http://www.antenna-theory.com/m/index.php) + https://news.ycombinator.com/item?id=22785015
 - [Wireless is a trap](https://www.benkuhn.net/wireless)
+- [A crash course on hacking satellites](https://news.ycombinator.com/item?id=24072829)
 
 ### 5G
 

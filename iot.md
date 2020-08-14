@@ -37,6 +37,7 @@
 - https://alternativebit.fr/posts/ultimate-writer
 - https://mtlynch.io/tinypilot/#how-to-build-your-own-tinypilot
 - https://github.com/brandonskerritt/How-I-Hacked-Your-Pi-Hole
+- https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi + https://news.ycombinator.com/item?id=24022751
 
 ### Smartwatch
 
