@@ -62,6 +62,7 @@
 - [Awesome Screenshot Minus](https://github.com/rojer/a-s-minus)
 - https://zonksec.com/blog/chrome-extension-to-detect-fake-tweets
 - [Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
+- https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi
 
 ### Bookmarklets
 

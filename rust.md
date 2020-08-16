@@ -19,6 +19,7 @@
 - https://deterministic.space/high-performance-rust.html
 - https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust
 - [A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.](https://github.com/mre/idiomatic-rust)
+- https://github.com/rust-lang/rustlings
 
 ### Talks
 

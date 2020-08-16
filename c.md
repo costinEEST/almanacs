@@ -11,6 +11,7 @@
 
 - [Reading files the hard way - Part 1 (node.js, C, rust, strace)](https://fasterthanli.me/blog/2019/reading-files-the-hard-way/)
 - [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
+- [Pros and cons of dynamic linking versus static linking](https://distrowatch.com/weekly.php?issue=20200810#qa)
 
 ### TV
 

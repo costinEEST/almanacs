@@ -34,6 +34,7 @@
 - wget -m -np -c -U "gimme" -R "index.html\*" "http://index-of.es/EBooks/"
 - [Rename files in linux / bash using mv command without typing the full name two times](https://gist.github.com/premek/6e70446cfc913d3c929d7cdbfe896fef)
 - https://redandblack.io/blog/2020/bash-prompt-with-updating-time
+- https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html
 
 ### Tools
 

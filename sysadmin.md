@@ -66,6 +66,7 @@
 - [Free Grafana Complete course for beginners - I.T Security Labs](https://www.youtube.com/playlist?list=PLyJqGMYm0vnO9osZ-EBV6iu2l10muE2A-)
 - [SQL powered operating system instrumentation, monitoring, and analytics.](https://github.com/osquery/osquery)
 - https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf
+- https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics
 
 ### CI/CD
 

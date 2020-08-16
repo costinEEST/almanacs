@@ -69,6 +69,7 @@
 
 ### Vegetables
 
+- https://incredibleromania.com/curs-de-culegator-din-flora-spontana-foraging
 - https://chekinstitute.com/blog/eating-animals-a-moral-question
 - https://wellnessforce.com/the-science-of-why-vegans-get-sick
 - https://www.cristianmargarit.ro/2014/10/despre-antinutrienti-si-toxine-naturale-mancare
@@ -94,6 +95,7 @@
 
 - https://ciupercar.ro
 - [Mushrooms and Truffles: Historical Biofactories for Complementary Medicine in Africa and in the Middle East](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3854548)
+- https://incredibleromania.com/magazinul-culegatorului/cursuri-cumpar/curs-de-ciuperci-salbatice-comestibile
 
 ### Tea
 
