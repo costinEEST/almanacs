@@ -23,12 +23,14 @@
 - https://github.com/antonjb/TypeScript-Learning-Plan
 - https://khalilstemmler.com/articles/when-to-use-typescript-guide
 - https://github.com/niieani/typescript-vs-flowtype
+- https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc
 
 ### Practice
 
 - https://github.com/stevenmusumeche/advent-of-code-2019
 - [📚 Functions and algorithms implemented purely with TypeScript's type system ](https://github.com/ronami/meta-typing)
 - https://github.com/mdevils/typescript-exercises
+- https://ts-engine.dev
 
 ### Opinions
 

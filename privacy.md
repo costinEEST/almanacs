@@ -29,6 +29,7 @@
 - https://medium.com/@vmsp/blocking-your-adblocker-967d1c6e48f2
 - https://foosoft.net/posts/decrapifying-the-twitter-timeline/index.html
 - https://www.bellingcat.com/news/2020/05/18/military-and-intelligence-personnel-can-be-tracked-with-the-untappd-beer-app
+- https://csjourney.com/vuvuzela-scalable-private-messaging-traffic-analysis-paper
 
 ### Social media
 

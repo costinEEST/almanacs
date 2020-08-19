@@ -34,6 +34,7 @@
 - https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course
 - https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course
 - https://laconicml.com/free-artificial-intelligence-courses
+- [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
 
 ### Books
 
@@ -41,6 +42,7 @@
 - https://twitter.com/Miles_Brundage/status/1177999361118277635 + https://twitter.com/jennyhbren/status/1164099257378492416
 - [Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way ](https://github.com/amitkaps/hackermath)
 - [An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013)](https://github.com/JWarmenhoven/ISLR-python)
+- [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/user/introduction.html)
 
 ### Videos
 

@@ -6,6 +6,9 @@
 - https://www.nationalgeographic.com/environment/2019/01/termites-protect-rainforests-climate-drought
 - https://www.bbc.com/future/article/20191211-crows-could-be-the-smartest-animal-other-than-primates
 - https://www.inverse.com/science/ultra-black-fish-discovery
+- https://www.flickr.com/photos/usgsbiml + https://www.gbif.org/dataset/f519367d-6b9d-411c-b319-99424741e7de + https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/The%20Very%20Handy%20Manual%20-%202015.pdf
+- https://inquisitivebiologist.com/2020/06/18/book-review-desert-navigator-the-journey-of-an-ant
+- https://inquisitivebiologist.com/2020/08/19/book-review-the-secret-life-of-flies
 
 ### Anatomy
 
@@ -38,6 +41,7 @@
 - [Fruit Trenches: Cultivating Subtropical Plants in Freezing Temperatures ](https://news.ycombinator.com/item?id=22887931)
 - https://www.amazon.com/Farmers-Forty-Centuries-Organic-Farming/dp/0486436098
 - https://www.amazon.com/Paramagnetism-Rediscovering-Natures-Secret-Growth-ebook/dp/B00V5K0WVG
+- https://www.technologynetworks.com/applied-sciences/videos/chernobyl-fungus-eats-nuclear-radiation-via-radiosynthesis-338464
 
 ### Chemistry
 

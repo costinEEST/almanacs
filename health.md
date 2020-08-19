@@ -76,6 +76,7 @@
 - [Lectins - clistbus](https://www.youtube.com/playlist?list=PLy5C4b2v0Bq0vTRUziPB_RB3ZJu1Mmplj)
 - [Jennifer Fugo talks about gluten free](https://www.youtube.com/user/jenfugo/playlists)
 - https://mdlingo.com/a-guide-to-coconut-products-water-milk-cream-oil-butter
+- https://inquisitivebiologist.com/2019/11/25/book-review-slime-how-algae-created-us-plague-us-and-just-might-save-us
 
 ### Ketosis
 
@@ -96,6 +97,7 @@
 - https://ciupercar.ro
 - [Mushrooms and Truffles: Historical Biofactories for Complementary Medicine in Africa and in the Middle East](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3854548)
 - https://incredibleromania.com/magazinul-culegatorului/cursuri-cumpar/curs-de-ciuperci-salbatice-comestibile
+- https://inquisitivebiologist.com/2019/11/04/book-review-fungipedia-a-brief-compendium-of-mushroom-lore
 
 ### Tea
 
@@ -106,6 +108,7 @@
 - [Is there a way to be prescribed a continuous glucose monitor without an insulin deficiency/diabetes?](https://twitter.com/Austen/status/1211144183018246144)
 - [Why Did Mexico Surpass America in Obesity?](https://twitter.com/notyetagm/status/1220352727546580997)
 - https://www.amazon.com/Diets-Because-Youre-Addicted-Sugar/dp/1607744864
+- https://inquisitivebiologist.com/2018/05/17/book-review-the-rise-of-yeast-how-the-sugar-fungus-shaped-civilisation
 
 ### Skin
 
