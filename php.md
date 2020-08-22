@@ -14,6 +14,7 @@
 
 - http://xml.mherman.org
 - [PHP Secure Configuration Checker.](https://github.com/sektioneins/pcc)
+- [Laravel setup using Docker - Andrew Schmelyun](https://www.youtube.com/playlist?list=PL36CGZHZJqsWXjf4GeQBLUl7CK1dodKuC)
 
 ### Vulnerable functions
 

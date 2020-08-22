@@ -97,6 +97,9 @@
 - [Eastory](https://www.youtube.com/channel/UCElybFZ60Hk1NSjgCf7I2sg/playlists)
 - https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism
 - https://inquisitivebiologist.com/2019/10/17/book-review-the-science-of-roman-history-biology-climate-and-the-future-of-the-past
+- https://www.exurbe.com/history-book-recommendations
+- https://meltingasphalt.com/what-im-reading
+- https://academyofideas.com/books
 
 ### Mythology
 

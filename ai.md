@@ -35,6 +35,7 @@
 - https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course
 - https://laconicml.com/free-artificial-intelligence-courses
 - [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
+- https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477
 
 ### Books
 

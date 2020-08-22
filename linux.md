@@ -51,6 +51,7 @@
 - Linux Command Line Dojo with Hal Pomeranz: [slides](http://www.deer-run.com/~hal/CLDojo.pdf) + [video](https://www.youtube.com/watch?v=-jNkjuWMFrk)
 - https://ma.ttias.be/different-ways-of-writing-crontab-syntax
 - [Linux Distributions Timeline.](https://github.com/FabioLolix/LinuxTimeline)
+- https://github.com/kmille/linux-debugging
 
 ### Embedded
 

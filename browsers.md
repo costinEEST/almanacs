@@ -77,7 +77,8 @@ javascript: (() =>
 - [Find out which element is scrolling.](https://gist.github.com/brumm/74fd7eaafd50c8477519)
 - https://github.com/micmro/performance-bookmarklet
 - https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii
-- https://alan.norbauer.com/articles/bookcision/
+- https://alan.norbauer.com/articles/bookcision
+- https://emanuelduss.ch/2020/06/humble-book-bundle-download-bookmarklet
 
 ### Engines
 

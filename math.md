@@ -28,6 +28,7 @@
 - [3D Math Primer For Graphics and Game Development (Wordware Game Math Library)](https://www.amazon.com/Primer-Graphics-Development-Wordware-Library/dp/1556229119)
 - https://www.amazon.com/History-Mathematical-Notations-Dover-Mathematics/dp/0486677664
 - [Teach Yourself Logic: A Study Guide](https://www.logicmatters.net/tyl) + https://en.wikipedia.org/wiki/How_to_Solve_It + https://www.edx.org/course/paradox-and-infinity + https://omereingold.wordpress.com/cs-154-introduction-to-automata-and-complexity-theory
+- https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf + https://news.ycombinator.com/item?id=24194543
 
 ### Courses
 

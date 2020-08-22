@@ -72,6 +72,7 @@
 - https://thedataguy.in/internals-of-google-cloud-spanner
 - [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
 - https://knowledgepill.it/posts/postgresql-basics-guide
+- [Self-taught webdev with lots of free time. What should I learn?](https://news.ycombinator.com/item?id=24130286)
 
 ### Real-time databases
 

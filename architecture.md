@@ -25,3 +25,4 @@
 
 - https://www.youtube.com/user/30by40/playlists
 - https://www.re-thinkingthefuture.com/article/20-great-movies-every-architect-should-watch
+- https://www.classicist.org/articles/the-art-of-making-places-a-panel-discussion-on-ciudad-cayala

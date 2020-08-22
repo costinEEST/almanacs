@@ -21,6 +21,7 @@
 - https://www.youtube.com/watch?v=pwaWilO_Pig
 - https://www.huffpost.com/entry/15-ways-to-fall-asleep-faster_n_55dde3e7e4b04ae497054470
 - https://www.quantifiedbob.com/best-biohacking-books/#biohacking-sleep
+- https://highintensityhealth.com/snacking-before-bed-may-slow-weight-loss-fat-oxidation
 
 ### Fitness
 
@@ -98,6 +99,7 @@
 - [Mushrooms and Truffles: Historical Biofactories for Complementary Medicine in Africa and in the Middle East](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3854548)
 - https://incredibleromania.com/magazinul-culegatorului/cursuri-cumpar/curs-de-ciuperci-salbatice-comestibile
 - https://inquisitivebiologist.com/2019/11/04/book-review-fungipedia-a-brief-compendium-of-mushroom-lore
+- https://bioneers.org/will-mushrooms-be-magic-for-threatened-bees
 
 ### Tea
 

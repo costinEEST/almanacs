@@ -38,6 +38,7 @@
 - https://github.com/hardenedlinux/firmware-anatomy/blob/master/hack_ME/hw_security.md
 - [USB in a NutShell](https://www.beyondlogic.org/usbnutshell/usb1.shtml)
 - https://shkspr.mobi/blog/2020/05/building-a-physical-blink-tag
+- [I made a mechanical keyboard with 3D-printed switches](https://news.ycombinator.com/item?id=24081046)
 
 ### TV
 

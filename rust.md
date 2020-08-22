@@ -5,6 +5,7 @@
 ### Courses
 
 - https://github.com/pingcap/talent-plan#series-2-rust-programming
+- [Kosmonaut: web browser from scratch in Rust](https://news.ycombinator.com/item?id=24170201)
 
 ### Tutorials
 

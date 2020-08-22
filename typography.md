@@ -1,6 +1,7 @@
 ### CSS
 
 - [CSS can check for a font installed locally before fetching it remotely!](https://twitter.com/argyleink/status/1223026734817087488)
+- https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202
 
 ### Fonts
 

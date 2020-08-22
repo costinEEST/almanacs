@@ -29,7 +29,7 @@
 ### Courses
 
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
-- [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html)
+- [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html) + https://mobile.twitter.com/spatialthoughts/status/1296821055604969473
 - [Build a Feed Reader in Python](https://www.youtube.com/playlist?list=PLmxT2pVYo5LBcv5nYKTIn-fblphtD_OJO)
 - [Write yourself a Git!](https://wyag.thb.lt)
 - [An introduction to Python and programming for wanna-be data scientists](https://github.com/webartifex/intro-to-python)
