@@ -3,6 +3,7 @@
 - [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/better_with_bose/mark-rober.html?mc=25_SM_HP_SC_00_YT_markrober3) + [recommended by Mark Rober](https://youtu.be/a_TSR_v07m0)
 - https://www.youtube.com/playlist?list=PLZUHdmBGD3CJyJY8cWR2ZGxqP_LUpckQw
 - https://benfrain.com/sony-wh-1000xm3-noise-cancelling-headphones-review
+- https://akshaykhandalkar.wordpress.com/2018/02/09/5-best-headphones-for-study-and-work
 
 ### Laptops
 

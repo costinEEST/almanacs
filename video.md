@@ -20,3 +20,4 @@
 - [SimpleScreenRecorder, a screen recorder for Linux](https://github.com/MaartenBaert/ssr)
 - https://bernd.dev/2020/04/trim-videos-instantly
 - [Adding subtitles to your videos the easy way](https://bernd.dev/2020/04/adding-subtitles)
+- https://battlepenguin.com/tech/moving-from-youtube-to-peertube

@@ -29,6 +29,7 @@
 - [Find all GraphQL queries in your codebase that use a certain field.](https://gist.github.com/stubailo/7a2071c4e568a185726c583073695bc0)
 - https://medium.com/@the.bilal.rizwan/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696
 - https://lab.wallarm.com/graphql-batching-attack
+- https://gitlab.com/dee-see/graphql-path-enum + https://blog.deesee.xyz/graphql/security/2020/04/13/graphql-permission-testing.html
 
 ### gRPC
 

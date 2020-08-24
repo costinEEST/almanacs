@@ -135,6 +135,7 @@
 - https://obem.be/2020/02/18/mining-my-mailbox-for-top-email-service-providers.html
 - [The Web API Design Guidelines for Happy Developers](https://leanpub.com/thewebapinntux/read_full)
 - [An easy, promise based, way to test passwords securely against the Pwned Passwords API v2 in Node.](https://speakerdeck.com/philnash/fantastic-passwords-and-where-to-find-them-at-wfhconf?slide=38) + https://github.com/philnash/pwned.js
+- [Extracts subdomains from a specified domain using api.recon.de](https://github.com/JR0ch17/ardse)
 
 ### Scrapping
 
@@ -197,6 +198,7 @@
 - https://www.freecodecamp.org/news/complete-back-end-system-with-serverless
 - [Firebase Hosting in 6 steps.](https://twitter.com/rwieruch/status/1212773598492004352)
 - [How to make simple Geolocation service using Cloudflare Workers.](https://maxkostinevich.com/blog/serverless-geolocation)
+- https://www.raymondcamden.com/2020/08/16/migrating-from-node-and-express-to-the-jamstack-part-3
 
 ### Miscellaneous
 

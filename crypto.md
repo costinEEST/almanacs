@@ -24,6 +24,7 @@
 - [Erik Hjelmvik - TLS Interception and Decryption](https://youtu.be/_V6tT4eP1SI)
 - [What goes into providing free automatic SSL at scale?](https://twitter.com/rauchg/status/1246894998731100160)
 - [Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni)
+- https://github.com/jmdx/TLS-poison
 
 ### References
 
