@@ -189,6 +189,7 @@
 
 - https://github.com/kgryte/awesome-peer-to-peer
 - https://github.com/kern/filepizza
+- https://hacked.camera + https://mobile.twitter.com/Gekko09/status/1291476293566058496
 
 ### IFPS
 

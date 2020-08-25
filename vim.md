@@ -6,6 +6,7 @@
 - https://github.com/mhinz/vim-galore
 - https://legacy.gitbook.com/book/learnbyexample/vim-reference/details
 - https://endler.dev/2018/ten-years-of-vim
+- https://felixge.de/2013/08/08/vim-trick-open-current-line-on-github
 
 ### TV
 
