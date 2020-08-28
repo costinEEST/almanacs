@@ -64,6 +64,7 @@
 - [Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
 - https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi
 - https://www.i-dont-care-about-cookies.eu
+- [Search the information available on a webpage using natural language instead of an exact string match. ](https://github.com/model-zoo/shift-ctrl-f)
 
 ### Bookmarklets
 

@@ -180,6 +180,7 @@
 - [The children of the turning point](https://vimeo.com/24124392)
 - https://peregristorii.wordpress.com/2020/01/11/carti-bune-citite-in-anul-2019
 - https://cscott.net/Books/#communism
+- [Authoritarian Ruling Elites Database](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QZ9BSA) + https://sites.google.com/view/austinsmatthews/teaching
 
 ### Skateboarding
 
