@@ -31,6 +31,7 @@
 - https://yoshuawuyts.gitbooks.io/knowledge/content/art/game-theory.html
 - https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game
 - [A replayable arcade shooter with a focus on build theorycrafting made using Lua and LÖVE.](https://github.com/a327ex/BYTEPATH)
+- https://www.riotgames.com/en/urf-academy/curriculum-guide
 
 ### The creators
 

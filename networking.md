@@ -95,6 +95,7 @@
 - https://sockpuppet.org/blog/2015/01/15/against-dnssec
 - [Maza – Like Pi-hole but local and using your operating system](https://news.ycombinator.com/item?id=22717650)
 - https://twitter.com/andersonc0d3/status/1253009058652729345 + https://hackerone.com/reports/541169
+- https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic
 
 ### TCP
 

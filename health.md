@@ -92,6 +92,7 @@
 - [În București: mai există alte restaurante keto/low carb, în afară de MASA - CASA ?](https://www.facebook.com/groups/755526297805685/permalink/3902770676414549)
 - [The Magic Pill (2017)](https://www.netflix.com/ro-en/title/80238655)
 - https://www.udemy.com/course/ketosis-and-if-for-fat-loss/?referralCode=92E9B7EAFC36975B08A0
+- https://www.amazon.com/Ketones-Fourth-Fuel-Warburg-Fountain-ebook/dp/B08G8TFQKS
 
 ### Mushrooms
 
@@ -127,6 +128,7 @@
 
 ### Ageing
 
+- https://www.ldeming.com/longevityfaq
 - https://player.fm/series/the-ironman-executive/cracking-the-aging-code-with-josh-mitteldorf
 - https://joshmitteldorf.scienceblog.com/2018/08/01/the-most-effective-personal-anti-aging-program
 - [Can aging be programmed? A critical literature review](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12510)

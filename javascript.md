@@ -274,6 +274,7 @@
 - https://github.com/mattnotmax/cyberchef-recipes
 - [Regular expression that remove second occurrence of a character in a string.](https://stackoverflow.com/a/18258553)
 - [Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language.](https://github.com/francisrstokes/super-expressive)
+- https://stackoverflow.com/questions/770523/escaping-strings-in-javascript/22837870
 
 ### new Worker()
 
