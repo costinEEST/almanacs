@@ -143,6 +143,7 @@ javascript: (() =>
 - [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
 - https://github.com/whatismyinternalip/whatismyinternalip.github.io
 - [The various ways your RTC may be crushed; a presentation on RTC DoS attacks - Enable Security](https://www.youtube.com/playlist?list=PLfoovPTqAipVGa__xPSatN9qKC22nTKl7)
+- https://twitter.com/iggredible/status/1300240215789821954
 
 ### APIs
 

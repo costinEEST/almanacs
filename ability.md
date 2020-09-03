@@ -4,6 +4,7 @@
 - https://www.amazon.com/Call-Sign-Chaos-Learning-Lead-ebook/dp/B07SBRFVNH
 - https://benmccormick.org/2019-roundup
 - [Cincinnatus and the Citizen-Servant Ideal: The Roman Legend's Life, Times, and Legacy - Michael J. Hillyard](https://books.google.ro/books/about/Cincinnatus_and_the_Citizen_Servant_Idea.html?id=ksOyQMMZtZAC)
+- https://www.patkua.com/blog/book-recommendations-by-engineering-leaders
 
 ### Management
 

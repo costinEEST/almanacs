@@ -106,6 +106,7 @@
 - [Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.](https://github.com/IntrinsicLabs/osgood)
 - [A state-of-the-art user-space network driver written in idiomatic JavaScript.](https://github.com/ixy-languages/ixy.js)
 - https://github.com/justincampbell/url-shorteners
+- https://realtalkjavascript.simplecast.com/episodes/episode-96-expressway-to-fastify-with-matteo-collina
 
 ### Authentication
 

@@ -10,6 +10,7 @@
 - https://github.com/B3nac/Android-Reports-and-Resources
 - https://yasoob.me/posts/reverse-engineering-android-apps-apktool + https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android
 - https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html
+- https://epic.blog/reverse-engineering/2020/07/27/reverse-engineering-android-app.html
 
 ### Applications
 

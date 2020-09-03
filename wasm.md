@@ -11,6 +11,7 @@
 
 ### Articles
 
+- https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics
 - [How to create polyglot HTML/JS/WebAssembly module](https://advancedsecurity.training/posts/webassembly-polyglot)
 
 ### Opinions

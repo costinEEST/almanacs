@@ -51,6 +51,7 @@
 
 - https://medium.com/better-programming/4-lesser-known-performance-tips-to-improve-user-experience-in-react-native-apps-6f2dc8c45623
 - https://bullet-train.io/blog/react-native-performance-monitor
+- https://engineering.tableau.com/react-native-performance-learnings-85f47ba38acb
 
 ### Applications
 
