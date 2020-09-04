@@ -1,3 +1,34 @@
+### APIs
+
+- https://github.com/samdutton/simpl
+- [How to Get Around Newspaper Paywalls in 2019](https://t.co/pVtMutYzns)
+- [Trying out and demonstrating different browser APIs](https://github.com/vkallore/browser-apis)
+- https://github.com/deebloo/things-you-can-do-in-a-web-worker
+- [This repo contains a non exhaustive list of less-known features implemented in browsers today.](https://github.com/luruke/browser-2020)
+- https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
+- [new MutationObserver()](https://www.seancassidy.me/genius-blocker.html)
+- https://github.com/AurelioDeRosa/HTML5-API-demos
+- https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn
+
+### Engines
+
+- https://github.com/a0viedo/demystifying-js-engines
+- https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers
+- https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers
+- https://github.com/thlorenz/v8-perf
+- https://github.com/hex13/javascript-visual-explanations#javascript-engines
+- https://deepu.tech/memory-management-in-v8
+
+### Exploits
+
+- [Awesome list of browser exploitation tutorials ](https://github.com/Escapingbug/awesome-browser-exploit)
+- [Browser Exploitation - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
+- [Browser logic vulnerabilities DB](https://github.com/Metnew/uxss-db)
+- [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://twitter.com/Qab/status/1209457592126324737)
+- [Software-based Side-Channel Attacks and Defenses in Restricted Environments (PhD thesis)](https://misc0110.net/web/files/phd_thesis.pdf)
+- https://www.ryanpickren.com/webcam-hacking + https://twitter.com/domenic/status/1245871443729985536
+- [Building a 1-day Exploit for Google Chrome](https://twitter.com/theori_io/status/980272605117612033)
+
 ### Extensions
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
@@ -82,15 +113,6 @@ javascript: (() =>
 - https://alan.norbauer.com/articles/bookcision
 - https://emanuelduss.ch/2020/06/humble-book-bundle-download-bookmarklet
 
-### Engines
-
-- https://github.com/a0viedo/demystifying-js-engines
-- https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers
-- https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers
-- https://github.com/thlorenz/v8-perf
-- https://github.com/hex13/javascript-visual-explanations#javascript-engines
-- https://deepu.tech/memory-management-in-v8
-
 ### Chrome
 
 - [When testing your redirects with Chrome, always test a 302 before a 301](https://twitter.com/Nick_Craver/status/1190228229979877378)
@@ -144,27 +166,6 @@ javascript: (() =>
 - https://github.com/whatismyinternalip/whatismyinternalip.github.io
 - [The various ways your RTC may be crushed; a presentation on RTC DoS attacks - Enable Security](https://www.youtube.com/playlist?list=PLfoovPTqAipVGa__xPSatN9qKC22nTKl7)
 - https://twitter.com/iggredible/status/1300240215789821954
-
-### APIs
-
-- https://github.com/samdutton/simpl
-- [How to Get Around Newspaper Paywalls in 2019](https://t.co/pVtMutYzns)
-- [Trying out and demonstrating different browser APIs](https://github.com/vkallore/browser-apis)
-- https://github.com/deebloo/things-you-can-do-in-a-web-worker
-- [This repo contains a non exhaustive list of less-known features implemented in browsers today.](https://github.com/luruke/browser-2020)
-- https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
-- [new MutationObserver()](https://www.seancassidy.me/genius-blocker.html)
-- https://github.com/AurelioDeRosa/HTML5-API-demos
-
-### Exploits
-
-- [Awesome list of browser exploitation tutorials ](https://github.com/Escapingbug/awesome-browser-exploit)
-- [Browser Exploitation - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
-- [Browser logic vulnerabilities DB](https://github.com/Metnew/uxss-db)
-- [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://twitter.com/Qab/status/1209457592126324737)
-- [Software-based Side-Channel Attacks and Defenses in Restricted Environments (PhD thesis)](https://misc0110.net/web/files/phd_thesis.pdf)
-- https://www.ryanpickren.com/webcam-hacking + https://twitter.com/domenic/status/1245871443729985536
-- [Building a 1-day Exploit for Google Chrome](https://twitter.com/theori_io/status/980272605117612033)
 
 ### Headless
 

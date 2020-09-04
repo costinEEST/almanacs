@@ -312,6 +312,7 @@
 - https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft + https://twitter.com/erikkroes/status/1237370013566279680
 - https://slideslive.com/38918861/lightning-ui-platform-web-components-and-beyond
 - [WCFactory - Bryan Ollendyke](https://www.youtube.com/playlist?list=PLJQupiji7J5cAv7Jfr1V8FvUTx_jJrmCl)
+- https://github.com/mateusortiz/webcomponents-the-right-way
 
 ### Testing
 

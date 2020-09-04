@@ -40,6 +40,7 @@
 - https://github.com/ardovic/Open-Source-Android-Weather-App
 - https://niftylettuce.com/posts/android-local-testing
 - https://roadmap.sh/android
+- [Inspecting Android HTTP with a fake VPN](https://httptoolkit.tech/blog/inspecting-android-http)
 
 ### TV
 

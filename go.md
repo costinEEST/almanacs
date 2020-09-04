@@ -47,3 +47,4 @@
 - [Go's Tooling is an Undervalued Technology](https://nullprogram.com/blog/2020/01/21)
 - https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride
 - https://github.com/SuperPaintman/the-evolution-of-a-go-programmer
+- https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy
