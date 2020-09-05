@@ -201,6 +201,7 @@
 
 - [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained)
 - https://community.turgensec.com/ssh-hacking-guide
+- https://sysdogs.com/on-secure-shell-security
 
 ### SRP
 

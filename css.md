@@ -23,6 +23,11 @@
 - https://justmarkup.com/articles/2020-04-15-css-property-in-a-tweet
 - https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements
 
+### CSS variables
+
+- https://increment.com/frontend/a-users-guide-to-css-variables
+- https://www.sarasoueidan.com/blog/style-settings-with-css-variables
+
 ### CSS grid
 
 - https://www.learnwithjason.dev/let-s-learn-css-grid

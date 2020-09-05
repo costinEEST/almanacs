@@ -44,6 +44,7 @@
 - [Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way ](https://github.com/amitkaps/hackermath)
 - [An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013)](https://github.com/JWarmenhoven/ISLR-python)
 - [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/user/introduction.html)
+- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
 ### Videos
 

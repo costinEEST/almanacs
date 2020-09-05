@@ -28,6 +28,7 @@
 ### Compilers
 
 - [A Compiler Writing Journey.](https://github.com/DoctorWkt/acwj)
+- https://github.com/seven1m/malcc
 
 ### Virtual machines
 

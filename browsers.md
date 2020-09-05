@@ -9,6 +9,7 @@
 - [new MutationObserver()](https://www.seancassidy.me/genius-blocker.html)
 - https://github.com/AurelioDeRosa/HTML5-API-demos
 - https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn
+- https://webkit.org/blog/10855/async-clipboard-api
 
 ### Engines
 

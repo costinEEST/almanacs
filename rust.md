@@ -21,6 +21,7 @@
 - https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust
 - [A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.](https://github.com/mre/idiomatic-rust)
 - https://github.com/rust-lang/rustlings
+- [Mal (Make a Lisp) in Rust](https://github.com/seven1m/mal-rust)
 
 ### Talks
 

@@ -121,3 +121,4 @@
 - https://github.com/kdeldycke/awesome-falsehood#business
 - https://github.com/kdeldycke/awesome-billing
 - [Discover the Open Source projects your organization is using that need financial support.](https://backyourstack.com)
+- http://jpkoning.blogspot.com/2019/08/starbucks-monetary-superpower.html
