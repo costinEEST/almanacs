@@ -35,6 +35,7 @@
 - [Rename files in linux / bash using mv command without typing the full name two times](https://gist.github.com/premek/6e70446cfc913d3c929d7cdbfe896fef)
 - https://redandblack.io/blog/2020/bash-prompt-with-updating-time
 - https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html
+- https://github.com/qazbnm456/awesome-security-trivia/blob/master/Ways-to-list-or-cat-directories-and-files.md
 
 ### Tools
 

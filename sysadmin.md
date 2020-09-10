@@ -68,6 +68,7 @@
 - [SQL powered operating system instrumentation, monitoring, and analytics.](https://github.com/osquery/osquery)
 - https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf
 - https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics
+- https://janikvonrotz.ch/2020/09/07/monitor-cron-jobs-with-prometheus-grafana-and-node-exporter
 
 ### CI/CD
 

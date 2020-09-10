@@ -67,6 +67,7 @@
 
 - [CryptoHack – A fun platform for learning cryptography](https://cryptohack.org)
 - [Cryptopals on Twitch - Filippo Valsorda](https://www.youtube.com/playlist?list=PLwiyx1dc3P2KoKsYdbZQutKvozOPjDilr)
+- https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html
 
 ### Tools
 
@@ -76,3 +77,4 @@
 ### History
 
 - https://onezero.medium.com/the-untold-story-of-the-man-that-made-mainstream-encryption-possible-231c749d5005
+- https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html

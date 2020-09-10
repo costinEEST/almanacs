@@ -53,6 +53,7 @@ curl v2.wttr.in/Bucharest
 
 - [City data repository for mapnificent.net](https://github.com/mapnificent/mapnificent_cities) + https://stefanwehrmeyer.com/projects/mapnificent
 - [Dear map people,](https://twitter.com/tmcw/status/1133165834677866496)
+- [ISO 3166-1 alpha-2 country code to country name conversion with a simple Javascript implementation, an array and a function.](https://gist.github.com/maephisto/9228207)
 
 ### Chemistry
 

@@ -29,3 +29,5 @@
 - https://www.synacktiv.com/ressources/modern_php_security_sec4dev.pdf
 - https://ihackyou3000.com/2019/12/22/lesser-known-web-attacklkwa-walk-through + https://github.com/weev3/LKWA
 - https://alanstorm.com/category/php-internals
+- https://github.com/qazbnm456/awesome-security-trivia#lang-php
+- https://websec.wordpress.com/talks

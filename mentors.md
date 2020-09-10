@@ -17,6 +17,10 @@
 - https://www.nytimes.com/2017/01/01/us/huston-smith-author-of-the-worlds-religions-dies-at-97.html
 - [John Berardi](https://www.precisionnutrition.com/6-books-on-coaching)
 
+### Aaron Swartz
+
+- https://www.versobooks.com/blogs/2577-a-hacktivist-reading-list-aaron-swartz-s-recommended-reading
+
 ### Derek Sivers
 
 - https://store.sivers.org/1
