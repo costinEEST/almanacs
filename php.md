@@ -31,3 +31,4 @@
 - https://alanstorm.com/category/php-internals
 - https://github.com/qazbnm456/awesome-security-trivia#lang-php
 - https://websec.wordpress.com/talks
+- https://www.youtube.com/c/DavehIo/playlists

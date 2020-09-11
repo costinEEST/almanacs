@@ -20,6 +20,7 @@
 
 - [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)
 - [A workshop on Linux containers: Rebuild Docker from Scratch.](https://github.com/Fewbytes/rubber-docker)
+- https://twitter.com/gkcs_/status/1300887808748347393
 
 ### Internals
 
@@ -29,6 +30,7 @@
 - https://chrisdown.name/2019/07/18/linux-memory-management-at-scale.html
 - [A book-in-progress about the linux kernel and its insides.](https://0xax.gitbooks.io/linux-insides/content)
 - [Supplementary material for the paper "Analyzing a Decade of Linux System Calls".](https://github.com/corpaul/decade_of_systemcalls)
+- [Unikernels and Virtual Machines - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf0dMrMDrq7VT1GwHCib9Sc0)
 
 ### Radio
 

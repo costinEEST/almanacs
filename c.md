@@ -20,6 +20,8 @@
 - [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 - [Buffer Overflows - Code with Nick ](https://www.youtube.com/playlist?list=PLLTI453cNzfn2_9Q9KXb9lbF233gvsQOJ)
 - https://www.deconstructconf.com/2017/joe-damato-all-programmers-must-learn-c-and-assembly
+- [FreeDOS programming](https://www.youtube.com/playlist?list=PLzuACU-W7Omo3VEnMKuM0IPupdOHFDzL3) + https://www.freedos.org/books/cprogramming
+- [OpenGL Screencasts and Tutorials - David Parker](https://www.youtube.com/playlist?list=PL2330214740B33712) + https://www.programmingtil.com/topics/opengl
 
 ### Radio
 
@@ -47,3 +49,4 @@
 - [C in four functions.](https://github.com/rswier/c4)
 - https://github.com/reberhardt7/cplayground
 - https://github.com/h0mbre/Learning-C
+- https://github.com/lk-geimfari/awesomo/blob/master/languages/C.md

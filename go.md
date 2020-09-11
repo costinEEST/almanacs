@@ -15,6 +15,7 @@
 - https://github.com/inancgumus/learngo
 - https://github.com/pingcap/talent-plan#series-3-distributed-database
 - https://empijei.science/talks.html
+- https://www.adsbynimbus.com/tech-blog/dynamic-programming + https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf
 
 ### TV
 

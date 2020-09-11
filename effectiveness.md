@@ -70,6 +70,7 @@
 - [What's so hard about PDF text extraction?](https://www.filingdb.com/pdf-text-extraction)
 - [How to Enable VLC's Best Hidden Features](https://lifehacker.com/the-best-hidden-features-of-vlc-1654434241)
 - https://www.toolboxtoolbox.com
+- https://www.metabeta.com/articles/starter-kit-for-startups-looking-to-automate-operations
 
 ### Books
 

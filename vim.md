@@ -16,3 +16,5 @@
 - [Vim Meetups - thoughtbot](https://www.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs)
 - [Vim by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYB46G6HR6hERWjKCiHTLjxt)
 - https://www.meetup.com/vim-chicago
+- https://www.youtube.com/c/ThePrimeagen/playlists
+- [A Decade of Vim - Semicolon&Sons](https://www.youtube.com/playlist?list=PLpkoC9yJXDKkm4MStIQoieUPwNjO4Rb_M)

@@ -19,6 +19,7 @@
 - https://twitter.com/___Sh4rk___/status/1252926852324380672
 - https://blog.bradfieldcs.com/learn-how-computers-work-e7d33dba0238
 - https://github.com/maldroid/hardware-hacking + https://maldroid.github.io/hardware-hacking
+- https://github.com/geohot/fromthetransistor
 
 ### Playground
 

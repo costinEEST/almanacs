@@ -38,3 +38,7 @@
 - https://www.dicebreaker.com/topics/richard-garfield/feature/richard-garfield-interview-making-games
 - http://www.zachtronics.com/podcast
 - [Any recommended demoscene or books?](https://twitter.com/angealbertini/status/1250737612626833408)
+
+### Opinions
+
+- https://blog.vivekhaldar.com/post/50585082117/games-as-a-hook-into-cs

@@ -41,6 +41,7 @@
 ### Data structures
 
 - https://akshayr.me/blog/articles/python-dictionaries
+- [K-d Tree in Python - Tsoding](https://www.youtube.com/playlist?list=PLguYJK7ydFE7R7KqRRVXw23kOrn6jiwqi)
 
 ### Networking
 

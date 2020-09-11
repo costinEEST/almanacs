@@ -15,6 +15,7 @@
 - https://papers.freebsd.org/2020/FOSDEM/losh-Hidden_early_history_of_Unix.files/slides.pdf
 - https://venam.nixers.net/blog/unix/2020/05/02/time-on-unix.html
 - [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files)
+- https://blog.vivekhaldar.com/post/617189040564928512/how-unix-won
 
 ### CLI
 

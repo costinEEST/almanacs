@@ -41,6 +41,8 @@
 - https://niftylettuce.com/posts/android-local-testing
 - https://roadmap.sh/android
 - [Inspecting Android HTTP with a fake VPN](https://httptoolkit.tech/blog/inspecting-android-http)
+- [Turn your Python application into an Android APK](https://github.com/kivy/python-for-android)
+- https://github.com/buckyroberts/Source-Code-from-Tutorials/tree/master/Android_Beginners
 
 ### TV
 

@@ -65,6 +65,7 @@
 - ["CS Theory Toolkit" -- graduate course 15-751 taught at Carnegie Mellon University (CMU) in Spring 2020.](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
 - https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills
 - https://www.youtube.com/c/EasyTheory/playlists
+- https://github.com/davidwparker/programmingtil-3d-math + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaxVxzRaSKs1gSSJMknhwrL
 
 ### Mathematicians
 

@@ -1,6 +1,7 @@
 ### Animations
 
 - [Web Animation Essentials: CSS Animations and Transitions](https://courses.rachelnabors.com/courses/16861)
+- [Website Deconstructions - Ihatetomatoes](https://www.youtube.com/playlist?list=PLkEZWD8wbltl7OXS1CipiXZ0QjYEl5bL2)
 
 ### Color
 

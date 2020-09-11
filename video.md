@@ -21,3 +21,4 @@
 - https://bernd.dev/2020/04/trim-videos-instantly
 - [Adding subtitles to your videos the easy way](https://bernd.dev/2020/04/adding-subtitles)
 - https://battlepenguin.com/tech/moving-from-youtube-to-peertube
+- https://blog.vivekhaldar.com/post/627079113078865921/automatically-edit-out-silence-dead-air-from
