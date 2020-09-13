@@ -54,3 +54,4 @@
 
 - https://nelsonslog.wordpress.com/2020/05/27/power-monitoring-generator-well
 - [Multi platform circuit layout and schematic drawing tool.](https://github.com/bancika/diy-layout-creator)
+- https://hackaday.com/2020/09/08/teardown-mini-gps-jammer + https://twitter.com/hackaday/status/1303338848940945408

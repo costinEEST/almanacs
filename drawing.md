@@ -1,6 +1,7 @@
 ### Books
 
 - https://www.google.com/search?q=Andrew+Loomis+free+archive+ebooks
+- [Alla Prima II Everything I Know about Painting--And More - Richard Schmid with Katie Swatland](https://www.amazon.com/gp/product/096621174X)
 
 ### Courses
 

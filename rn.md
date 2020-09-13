@@ -42,6 +42,7 @@
 - https://foxbox.com/blog/react-native-getting-started
 - https://twitter.com/mosdnk/status/1235607048026456064
 - https://heartbeat.fritz.ai/integrating-google-sign-in-provider-with-a-react-native-app-a064dd1efaf4
+- https://unicorn-utterances.com/posts/data-storage-options-in-react-native
 
 ### Debugging
 

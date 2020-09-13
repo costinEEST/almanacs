@@ -26,6 +26,7 @@
 - https://www.youtube.com/user/mycodeschool/playlists
 - [The Computers: The Remarkable Story of the ENIAC Programmers.](https://vimeo.com/ondemand/eniac6)
 - https://www.deconstructconf.com/2017/dan-grossman-the-cs-undergrad-curriculum-of-2017
+- [Intro to Quantum Computing - HACKADAY](https://www.youtube.com/playlist?list=PL_tws4AXg7avHFquKAB6q6cep2pnueLpM)
 
 ### Books
 
@@ -36,6 +37,7 @@
 - https://github.com/amilajack/reading/tree/master/Event_Driven_Programming
 - [What tech books have really helped you?](https://twitter.com/b0rk/status/1207314600884101120)
 - https://github.com/kamranahmedse/design-patterns-for-humans
+- http://danluu.com/google-sre-book
 
 ### TIL
 

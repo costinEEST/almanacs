@@ -230,3 +230,4 @@
 - [tsc --watch nodemon dist/src/index.js](https://twitter.com/benawad/status/1211700652549779456)
 - https://github.com/Lemoncode/react-typescript-samples
 - https://daveceddia.com/tailwind-create-react-app
+- https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free
