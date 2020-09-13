@@ -38,6 +38,7 @@
 - [What tech books have really helped you?](https://twitter.com/b0rk/status/1207314600884101120)
 - https://github.com/kamranahmedse/design-patterns-for-humans
 - http://danluu.com/google-sre-book
+- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) + https://news.ycombinator.com/item?id=24335564
 
 ### TIL
 

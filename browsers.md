@@ -97,6 +97,7 @@
 - https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi
 - https://www.i-dont-care-about-cookies.eu
 - [Search the information available on a webpage using natural language instead of an exact string match. ](https://github.com/model-zoo/shift-ctrl-f)
+- https://chromeextensionkit.com + https://news.ycombinator.com/item?id=24423023
 
 ### Bookmarklets
 

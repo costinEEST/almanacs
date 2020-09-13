@@ -59,6 +59,7 @@
 - https://www.blackhillsinfosec.com/home-network-design-part-2
 - https://www.pentestpartners.com/security-blog/hardware-router-ctf + https://twitter.com/Yekki_1/status/1237358042720632832
 - https://genneko.github.io/playing-with-bsd/networking/freebsd-wireguard-jail
+- https://kamila.is//teaching/how-routers-work + https://news.ycombinator.com/item?id=24435454
 
 ### Telecommunications
 
@@ -217,3 +218,4 @@
 - https://blog.cloudflare.com/the-history-of-the-url
 - http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers
 - https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio
+- [Getting Fiber to My Town](https://news.ycombinator.com/item?id=24424910)

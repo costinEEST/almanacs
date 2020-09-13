@@ -15,10 +15,11 @@
 - [Foundations of Python Network Programming (Apress)](https://github.com/brandon-rhodes/fopnp)
 - [Exercises in Programming Style](http://tagide.com/EPSBook)
 
-### Boots
+### Bots
 
 - https://github.com/musically-ut/first-timers-only-bot
 - https://github.com/yasoob/fb-messenger-bot
+- https://github.com/snori74/auto-luc
 
 ### Clean code
 

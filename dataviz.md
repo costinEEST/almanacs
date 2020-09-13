@@ -38,7 +38,7 @@
 - https://github.com/Lemoncode/d3js-typescript-examples
 - https://github.com/willianjusten/awesome-audio-visualization
 - [A data visualization curriculum of interactive notebooks.](https://github.com/uwdata/visualization-curriculum)
-- [To design and develop an interactive globe](https://stripe.com/blog/globe)
+- [To design and develop an interactive globe](https://stripe.com/blog/globe) + https://news.ycombinator.com/item?id=24350546
 
 ### Talks
 

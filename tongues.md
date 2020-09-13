@@ -73,6 +73,10 @@
 
 - [The English and their History - Robert Tombs](https://www.goodreads.com/book/show/23569457-the-english-and-their-history)
 
+### French
+
+- https://lindiebotes.com/2020/09/12/weekly-french-studyroutine
+
 ### German
 
 - https://neustadt.fr/essays/teaching-myself-german

@@ -15,6 +15,7 @@
 - https://github.com/cirosantilli/x86-bare-metal-examples
 - [NDG Linux Essentials 0220 wr](https://373583482.netacad.com/courses/974184)
 - https://blcsystems.com/red-hat-free-courses
+- https://www.reddit.com/r/linuxupskillchallenge + https://news.ycombinator.com/item?id=24380969
 
 ### Containers
 

@@ -11,6 +11,8 @@
 - [A site to keep track of critters you can catch in Animal Crossing](https://ac-catch.com) + https://news.ycombinator.com/item?id=22780124
 - [Chess and Video Chat, no login required](https://rootshirechess.glitch.me) + https://news.ycombinator.com/item?id=22790728
 - [Pure Skill Minesweeper](https://news.ycombinator.com/item?id=24181772)
+- https://itsmattkc.com/etc/snakeqr + https://news.ycombinator.com/item?id=24374570
+- https://www.youtube.com/c/Frankslaboratory/playlists?disable_polymer=true
 
 ### Mobile based
 
@@ -31,7 +33,7 @@
 - https://yoshuawuyts.gitbooks.io/knowledge/content/art/game-theory.html
 - https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game
 - [A replayable arcade shooter with a focus on build theorycrafting made using Lua and LÖVE.](https://github.com/a327ex/BYTEPATH)
-- https://www.riotgames.com/en/urf-academy/curriculum-guide
+- https://www.riotgames.com/en/urf-academy/curriculum-guide + https://news.ycombinator.com/item?id=24309234
 
 ### The creators
 
