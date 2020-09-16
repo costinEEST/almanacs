@@ -56,6 +56,7 @@
 - https://techblog.commercetools.com/five-practical-tips-when-using-react-hooks-in-production-990a79745229
 - useAbortController: [tweet](https://twitter.com/kentcdodds/status/1246219272562421760) + [gist](https://gist.github.com/kentcdodds/b36572b6e9227207e6c71fd80e63f3b4)
 - [React Hooks Tutorial | Build Yelp in React - productioncoder](https://www.youtube.com/playlist?list=PL1Nml43UBm6fmZZDeu-FDt5pozS2rSuff)
+- https://dev.to/poeticgeek/concrete-example-for-react-useimperativehandle-52l8
 
 ### Context API
 
@@ -157,6 +158,7 @@
 - [MobX & React in 2020](https://github.com/leighhalliday/mobx2020)
 - https://tgvashworth.com/2016/09/03/some-ways-to-think-about-state.html
 - https://sgolem.com/complex-app-logic-with-redux-and-redux-saga-write-an-authentication-monitor
+- [The trading client GUI is a single page app (SPA) built using Typescript, React, Redux and Styled components.](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)
 
 ### Packages
 

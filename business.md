@@ -53,6 +53,7 @@
 
 ### Startups
 
+- https://www.ycombinator.com/library
 - [Never Lost Again: The Google Mapping Revolution That Sparked New Industries and Augmented Our Reality.](https://www.amazon.com/Never-Lost-Again-Revolution-Industries/dp/0062673041)
 - [I grew Visa List to \$5k per month in a year.](https://news.ycombinator.com/item?id=21796088)
 - [Which is the most successful one-person business you heard of in 2019?](https://news.ycombinator.com/item?id=21908577)

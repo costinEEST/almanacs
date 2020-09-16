@@ -18,6 +18,7 @@
 - [How the compilation and linkage model works in windows at the assembly level.](https://twitter.com/0xrepnz/status/1204015835909689344)
 - ["technically Windows is open source"](https://twitter.com/Yannayli/status/1228269110640959489)
 - https://osandamalith.com/2020/07/19/exploring-the-ms-dos-stub
+- https://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index
 
 ### Users
 

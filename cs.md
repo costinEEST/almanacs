@@ -39,6 +39,7 @@
 - https://github.com/kamranahmedse/design-patterns-for-humans
 - http://danluu.com/google-sre-book
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) + https://news.ycombinator.com/item?id=24335564
+- https://hackernoon.com/5-books-that-ramp-up-your-systems-thinking-ability-74fa76f86dce
 
 ### TIL
 
