@@ -15,6 +15,7 @@
 - http://xml.mherman.org
 - [PHP Secure Configuration Checker.](https://github.com/sektioneins/pcc)
 - [Laravel setup using Docker - Andrew Schmelyun](https://www.youtube.com/playlist?list=PL36CGZHZJqsWXjf4GeQBLUl7CK1dodKuC)
+- [A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems.](https://github.com/gellin/bantam)
 
 ### Vulnerable functions
 

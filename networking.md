@@ -204,6 +204,7 @@
 - [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained)
 - https://community.turgensec.com/ssh-hacking-guide
 - https://sysdogs.com/on-secure-shell-security
+- https://susam.in/blog/file-transfer-with-ssh-tee-and-base64
 
 ### SRP
 
