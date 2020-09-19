@@ -79,6 +79,10 @@
 
 ### German
 
+### Hungarian
+
+http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
+
 - https://neustadt.fr/essays/teaching-myself-german
 
 ### Japanese
@@ -87,6 +91,14 @@
 - [Japanese English: Language and Culture Contact - James Stanlaw](https://www.goodreads.com/book/show/405436.Japanese_English)
 - [An introduction to Japanese](https://pomax.github.io/nrGrammar)
 
+### Korean
+
+- https://www.youtube.com/c/ArirangCoKrTV/playlists
+
+### Latin
+
+- http://alexalejandre.com/language/latin
+
 ### Tibetan
 
 - [Tibetan Language Channel](https://www.youtube.com/channel/UCBOk5M9QQKfjg3-5HFl8sxA/playlists)
@@ -94,3 +106,10 @@
 ### Polyglots
 
 - [Joseph Justus Scaliger](https://sententiaeantiquae.com/2020/03/06/skip-sleep-blast-through-homer) + https://twitter.com/nntaleb/status/1236017035534008320
+
+### Romanian
+
+- http://alexalejandre.com/language/romanian
+- http://alexalejandre.com/language/16.Limba%20Rom%c3%a2n%c4%83.%20Curs%20superior.pdf
+- http://alexalejandre.com/language/03.Introduction%20to%20Romanian.pdf + https://www.studmed.ru/seiver-george-o-introduction-to-romanian_508aa438e3a.html + https://www.amazon.com/Introduction-Romanian-George-Seiver/dp/B0000CIK7N
+- http://alexalejandre.com/language/01.Colloquial%20Romanian.pdf +

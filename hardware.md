@@ -20,6 +20,7 @@
 - https://blog.bradfieldcs.com/learn-how-computers-work-e7d33dba0238
 - https://github.com/maldroid/hardware-hacking + https://maldroid.github.io/hardware-hacking
 - https://github.com/geohot/fromthetransistor
+- https://www.linkedin.com/posts/omutlu_digital-design-computer-architecture-lecture-activity-6712019755299028993-u0vz
 
 ### Playground
 
