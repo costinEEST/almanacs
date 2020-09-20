@@ -167,6 +167,7 @@
 - [Meal Planner for calories and macros](https://github.com/vasco3/cheff)
 - https://github.com/yetanotherchris/awesome-mindhacking#journaling
 - [SkinVision - Detect Skin Cancer. Track your Moles.](https://play.google.com/store/apps/details?id=com.rubytribe.skinvision.ac)
+- https://blog.elifiner.com/how-i-built-an-app-to-fix-my-depression + https://news.ycombinator.com/item?id=24439612
 
 ### DYI
 

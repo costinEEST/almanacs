@@ -97,6 +97,7 @@
 - [A framework to track the evolution of Operating Systems over time.](https://github.com/Wenzel/oswatcher)
 - [An in-browser Python profile viewer.](https://github.com/jiffyclub/snakeviz)
 - https://raw.githubusercontent.com/matplotlib/cheatsheets/master/cheatsheets-1.png
+- [Geometric Algebra for Python](https://github.com/pygae/clifford)
 
 ### Testing
 

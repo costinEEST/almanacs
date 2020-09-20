@@ -98,6 +98,7 @@
 - https://www.i-dont-care-about-cookies.eu
 - [Search the information available on a webpage using natural language instead of an exact string match. ](https://github.com/model-zoo/shift-ctrl-f)
 - https://chromeextensionkit.com + https://news.ycombinator.com/item?id=24423023
+- [Chrome extension that helps you learn a language without even trying.](https://jointoucan.com)
 
 ### Bookmarklets
 

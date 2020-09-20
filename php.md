@@ -33,3 +33,4 @@
 - https://github.com/qazbnm456/awesome-security-trivia#lang-php
 - https://websec.wordpress.com/talks
 - https://www.youtube.com/c/DavehIo/playlists
+- [A simple URL shortener for PHP](https://github.com/mikecao/shorty)

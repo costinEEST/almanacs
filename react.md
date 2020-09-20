@@ -210,6 +210,7 @@
 - https://webrtc.ventures/2018/04/file-transfers-small-demonstration-webrtc-react-redux + https://github.com/agilityfeat/file-transfer-demo
 - https://github.com/Loeka1234/typescript-url-shortener-frontend
 - https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutorial-building-firebase-chat-app-react-hooks
+- [I created an open-source alternative to Google Analytics using React, Redux and Next](https://github.com/mikecao/umami) + https://medium.com/@caozilla/how-i-wrote-umami-in-30-days-a290372b80e4
 
 ### Testing
 

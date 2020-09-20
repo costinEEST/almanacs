@@ -100,6 +100,7 @@
 - https://www.exurbe.com/history-book-recommendations
 - https://meltingasphalt.com/what-im-reading
 - https://academyofideas.com/books
+- https://www.sonyasupposedly.com/brutality-books + https://news.ycombinator.com/item?id=24458522
 
 ### Mythology
 

@@ -81,3 +81,4 @@
 - [AI Projects - Will Kwan](https://www.youtube.com/playlist?list=PLhYmet_wsdVHARIgDLSXpXcs2-XlR0oJ1)
 - https://github.com/cchen156/Learning-to-See-in-the-Dark
 - https://medium.com/analytics-vidhya/sentiment-analysis-of-restaurant-reviews-542727dc24e2
+- [Build a DIY license plate reader with machine learning](https://github.com/cortexlabs/cortex/tree/master/examples/tensorflow/license-plate-reader) + https://news.ycombinator.com/item?id=24493248

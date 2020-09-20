@@ -96,5 +96,6 @@
 
 ### Miscellaneous
 
+- [Database of Databases](https://dbdb.io/) + https://news.ycombinator.com/item?id=24494403
 - [What are some examples of good database schema designs?](https://news.ycombinator.com/item?id=22324691)
 - https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html#rule-11-which-database-technology-to-choose
