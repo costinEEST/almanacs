@@ -13,3 +13,4 @@
 - [Psychology of Intelligence Analysis(see the reviews first)](https://www.amazon.com/Psychology-Intelligence-Analysis-Richards-Heuer/dp/B0016OST3O)
 - [Annie Duke – Wanna Bet? – [Invest Like the Best, EP.125]](http://investorfieldguide.com/annie)
 - https://hashrocket.com/blog/posts/planning-poker-speed-mode
+- https://github.com/antifragility-corps/awesome-antifragile

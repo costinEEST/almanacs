@@ -10,6 +10,7 @@
 - https://github.com/protofire/blockchain-learning-path
 - [State and Payment: Power-Up Your App Using JS with Infura.](https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMjrrrtKtSvHRVtLzFGlpqBzn)
 - https://hackernoon.com/how-to-create-your-own-cryptocurrency-tips-to-get-started-947ba92f79f9
+- https://www.amazon.com/Mastering-Blockchain-distributed-consensus-cryptocurrencies/dp/1839213191
 
 ### Boilerplate
 

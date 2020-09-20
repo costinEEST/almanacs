@@ -52,3 +52,4 @@
 
 - https://www.tbray.org/ongoing/When/202x/2020/02/09/Why-Android
 - https://niftylettuce.com/posts/google-free-android-setup
+- [Android is holding back the Java library and language ecosystem.](https://twitter.com/JakeWharton/status/1174020113466568704)

@@ -53,6 +53,7 @@
 - [Learn to Pronounce Sounds in American English](https://pronuncian.com/sounds)
 - https://lindiebotes.com/language-resources
 - https://www.inverse.com/innovation/neural-stimulation-language-device
+- https://github.com/RichardLitt/low-resource-languages
 
 ### Communities
 
@@ -90,6 +91,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - http://schuessler.org/i-memorize-things
 - [Japanese English: Language and Culture Contact - James Stanlaw](https://www.goodreads.com/book/show/405436.Japanese_English)
 - [An introduction to Japanese](https://pomax.github.io/nrGrammar)
+- https://tynan.com/done-with-kanji
 
 ### Korean
 
