@@ -148,6 +148,7 @@
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
 - [Virology Lectures 2020 - Vincent Racaniello](https://www.youtube.com/playlist?list=PLGhmZX2NKiNldpyRUBBEzNoWL0Cso1jip)
 - https://www.alexirpan.com/2020/05/17/corona-chernobyl.html
+- https://mailchi.mp/667e9af04cfa/spitting-image?e=12229ba061 + https://www.protocols.io/workspaces/coronavirus-method-development-community + https://youtu.be/CbzwyigvfRY
 
 ### Radiation
 

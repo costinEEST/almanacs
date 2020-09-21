@@ -34,3 +34,4 @@
 - https://websec.wordpress.com/talks
 - https://www.youtube.com/c/DavehIo/playlists
 - [A simple URL shortener for PHP](https://github.com/mikecao/shorty)
+- https://wildbit.com/blog/2016/11/01/how-we-chose-craft-cms-for-products-websites

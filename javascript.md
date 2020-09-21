@@ -325,6 +325,7 @@
 - https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3
 - [uilicious](https://twitter.com/serrynaimo/status/1217779028838322177)
 - [Testing keyboard, mouse and touch input with JavaScript](http://distributedlife.com/til/testing-input-javascript.html)
+- https://www.testcraft.io/end-to-end-testing
 
 ### Virtual machines
 

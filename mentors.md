@@ -16,6 +16,7 @@
 - [Aaron Swartz Hackathon 2017 - Code Therapy](https://www.youtube.com/playlist?list=PL7RY3c_PbOzFz2spZTMS3PBkNEfwXgOTW)
 - https://www.nytimes.com/2017/01/01/us/huston-smith-author-of-the-worlds-religions-dies-at-97.html
 - [John Berardi](https://www.precisionnutrition.com/6-books-on-coaching)
+- https://www.cnbc.com/2020/09/18/bill-gates-difference-between-elon-musk-and-steve-jobs-as-leaders.html
 
 ### Aaron Swartz
 

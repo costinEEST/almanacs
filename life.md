@@ -42,6 +42,7 @@
 - https://www.amazon.com/Farmers-Forty-Centuries-Organic-Farming/dp/0486436098
 - https://www.amazon.com/Paramagnetism-Rediscovering-Natures-Secret-Growth-ebook/dp/B00V5K0WVG
 - https://www.technologynetworks.com/applied-sciences/videos/chernobyl-fungus-eats-nuclear-radiation-via-radiosynthesis-338464
+- [Scientists find 'secret molecule' that allows bacteria to exhale electricity](https://www.livescience.com/electron-breathing-geobacter-microbes.html)
 
 ### Chemistry
 

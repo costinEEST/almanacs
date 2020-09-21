@@ -1,6 +1,7 @@
 ### Books
 
 - https://blog.dpc.dev/digital-signal-processing-steven-w-smith
+- https://electrokits.ro/carti-electronica-c-4/carti-electronica-ro-c-4_5/tanarul-audioamator-p-639.html
 
 ### References
 
@@ -29,6 +30,7 @@
 - Interactive articulatory speech synthesizer - https://dood.al/pinktrombone + https://experiments.withgoogle.com/pink-trombone + https://github.com/zakaton/Pink-Trombone + https://github.com/evykassirer/pink-trombone-bangbangcon
 - [An online synthesizer with over 100 different instruments and unique drum patterns with dynamic sound kits.](https://midi.city)
 - [How Music Works. Interactive Music Theory Lessons](https://www.lightnote.co)
+- https://skins.webamp.org
 
 ### TV
 

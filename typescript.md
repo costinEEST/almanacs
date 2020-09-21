@@ -37,6 +37,7 @@
 - [I really wish TypeScript had better inference.](https://twitter.com/devongovett/status/1219663924989050881)
 - [TypeScript vs. PureScript vs. ReasonML vs. Elm](https://hasura.io/blog/why-we-chose-typescript-for-hasura-console)
 - https://typing-is-hard.ch
+- https://valand.dev/blog/post/from-rust-to-typescript
 
 ### Patterns
 

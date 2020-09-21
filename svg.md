@@ -29,3 +29,4 @@
 - https://www.getmotion.io/blog/where-are-all-the-animated-svgs
 - [Blob shapes generator.](https://github.com/lokesh-coder/blobs.app)
 - https://www.svgbackgrounds.com
+- [Free svg background generator for your websites, blogs and app.](https://bgjar.com)
