@@ -35,6 +35,7 @@
 - [patchbay.pub – Poor man's ngrok/IFTTT/serverless](https://news.ycombinator.com/item?id=21639066)
 - [Peer authenticated WebRTC.](https://github.com/saljam/webwormhole) + https://twitter.com/FiloSottile/status/1255583253240709120
 - https://twitter.com/mikispag/status/1255164681121136642
+- [A really small static web server for Docker](https://github.com/PierreZ/goStatic)
 
 ### References
 

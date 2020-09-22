@@ -46,6 +46,7 @@
 - [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/user/introduction.html)
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - https://www.linkedin.com/posts/arnuld-on-data_how-id-start-learning-machine-learning-again-activity-6707557261012795392-nEG1
+- https://github.com/lyhue1991/eat_tensorflow2_in_30_days
 
 ### Videos
 

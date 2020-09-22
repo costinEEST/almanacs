@@ -201,6 +201,7 @@
 - https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript
 - https://www.blueskyonmars.com/2015/10/01/side-effects-vs-promises
 - https://twitter.com/jasnell/status/1252999617190391808 + https://eng.lifion.com/promise-allpocalypse-cfb6741298a7
+- https://medium.com/@arsenyyankovsky/effective-limited-parallel-execution-in-javascript-ea2a1fb9a632 + https://www.npmjs.com/package/@supercharge/promise-pool
 
 ### async await
 
@@ -370,3 +371,4 @@
 ### Documentation
 
 - https://v8.dev/blog/understanding-ecmascript-part-1
+- https://readspecwith.us

@@ -101,6 +101,7 @@
 - https://incredibleromania.com/magazinul-culegatorului/cursuri-cumpar/curs-de-ciuperci-salbatice-comestibile
 - https://inquisitivebiologist.com/2019/11/04/book-review-fungipedia-a-brief-compendium-of-mushroom-lore
 - https://bioneers.org/will-mushrooms-be-magic-for-threatened-bees
+- https://www.foragingwildmushrooms.com/
 
 ### Tea
 

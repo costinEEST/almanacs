@@ -107,6 +107,7 @@
 - [A state-of-the-art user-space network driver written in idiomatic JavaScript.](https://github.com/ixy-languages/ixy.js)
 - https://github.com/justincampbell/url-shorteners
 - https://realtalkjavascript.simplecast.com/episodes/episode-96-expressway-to-fastify-with-matteo-collina
+- https://futurestud.io/learningpaths/learn-hapi
 
 ### Authentication
 
