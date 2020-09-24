@@ -129,6 +129,7 @@
 - https://joshwcomeau.com/react/prefers-reduced-motion
 - https://sgolem.com/atomic-design-with-react-and-bit-simplify-a-complex-ui
 - https://github.com/JacobParis/sliding-sidebar
+- https://medium.com/14islands/progressive-enhancement-with-webgl-and-react-71cd19e66d4 + https://twitter.com/ffdead/status/1307023551380283393
 
 ### Server side rendering
 
@@ -159,6 +160,7 @@
 - https://tgvashworth.com/2016/09/03/some-ways-to-think-about-state.html
 - https://sgolem.com/complex-app-logic-with-redux-and-redux-saga-write-an-authentication-monitor
 - [The trading client GUI is a single page app (SPA) built using Typescript, React, Redux and Styled components.](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)
+- https://www.sitepoint.com/replace-redux-react-hooks-context-api
 
 ### Packages
 

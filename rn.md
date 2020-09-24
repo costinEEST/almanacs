@@ -2,6 +2,7 @@
 
 - https://github.com/tiaanduplessis/awesome-react-native-talks
 - [The App - William Candillon](https://www.youtube.com/playlist?list=PLkOyNuxGl9jz8XYVtbZzwc8tiBas9Zde-)
+- https://blog.bam.tech/developer-news/what-to-watch-react-native-europe-2020
 
 ### Courses
 
@@ -43,6 +44,7 @@
 - https://twitter.com/mosdnk/status/1235607048026456064
 - https://heartbeat.fritz.ai/integrating-google-sign-in-provider-with-a-react-native-app-a064dd1efaf4
 - https://unicorn-utterances.com/posts/data-storage-options-in-react-native
+- https://blog.usejournal.com/how-i-reduced-my-react-native-v0-63-app-size-from-63mb-to-8-3mb-87-b39af5370fbe
 
 ### Debugging
 

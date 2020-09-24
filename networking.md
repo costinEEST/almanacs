@@ -136,10 +136,12 @@
 - [HTTP reverse proxies, normalize](https://twitter.com/defparam/status/1243892627512098817)
 - [Why is it necessary to use the correct HTTP status code? Specifically asking about redirects (301 or 302)](https://twitter.com/kentcdodds/status/1249723789006397442)
 - https://hacks.mozilla.org/2020/04/twitter-direct-message-caching-and-firefox
+- https://github.com/BlackFan/content-type-research + https://twitter.com/Black2Fan/status/1296439754599407618
 
 ### HTTPS
 
 - https://github.com/EFForg/https-everywhere
+- https://howhttps.works/episodes
 
 ### HTTP2
 

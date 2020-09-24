@@ -29,6 +29,8 @@
 - [Remote Development with a Chromebook in 2020](https://www.marcolancini.it/2020/blog-remote-development-chromebook)
 - https://channel9.msdn.com/Events/Build/2020/BOD103
 - https://addyosmani.com/blog/visualize-data-structures-vscode
+- https://blog.robenkleene.com/2020/09/21/the-era-of-visual-studio-code
+- https://www.toptal.com/visual-studio/vscode-tips-power-users
 
 ### tmux
 

@@ -106,3 +106,4 @@
 - https://thecomputation.com/2020/03/19/brief-history-of-quantum-computing.html
 - https://github.com/watson/awesome-computer-history
 - http://www.starling-software.com/employment/programmer-competency-matrix.html
+- [Automated program analysis of software](https://twitter.com/seanhn/status/1306709517602824193)

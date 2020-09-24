@@ -315,6 +315,7 @@
 - https://slideslive.com/38918861/lightning-ui-platform-web-components-and-beyond
 - [WCFactory - Bryan Ollendyke](https://www.youtube.com/playlist?list=PLJQupiji7J5cAv7Jfr1V8FvUTx_jJrmCl)
 - https://github.com/mateusortiz/webcomponents-the-right-way
+- https://blog.bitsrc.io/web-component-why-you-should-stick-to-react-c56d879a30e1
 
 ### Testing
 

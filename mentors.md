@@ -17,6 +17,7 @@
 - https://www.nytimes.com/2017/01/01/us/huston-smith-author-of-the-worlds-religions-dies-at-97.html
 - [John Berardi](https://www.precisionnutrition.com/6-books-on-coaching)
 - https://www.cnbc.com/2020/09/18/bill-gates-difference-between-elon-musk-and-steve-jobs-as-leaders.html
+- https://www.vox.com/the-goods/2020/9/18/18253896/ruth-bader-ginsburg-style-size
 
 ### Aaron Swartz
 

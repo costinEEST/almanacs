@@ -90,6 +90,7 @@
 - [Prefer cwd instead of \_\_dirname when configuring your Webpack.](https://twitter.com/sseraphini/status/1232667049949880320)
 - [Node.js library to bypass cloudflare's anti-ddos page.](https://github.com/codemanki/cloudscraper)
 - [Search your starred repositories on GitHub for a keyword.](https://github.com/Link-/starred_search)
+- https://maximorlov.com/pm2-to-docker-automatic-restarts
 
 ### Testing
 

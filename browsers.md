@@ -127,6 +127,7 @@ javascript: (() =>
 - [Harden your Chrome browser via enterprise policy.](https://github.com/mandatoryprogrammer/ChromeGalvanizer)
 - https://blittle.github.io/chrome-dev-tools + https://github.com/blittle/chrome-dev-tools
 - [Extract relative urls from a heap snapshot](https://github.com/smiegles/extract-relative-url-heapsnapshot)
+- [A tool to capture communication between Chromium processes on Windows in real-time using Wireshark, by capturing data sent over named pipes.](https://github.com/tomer8007/chromium-ipc-sniffer)
 
 ### Brave
 

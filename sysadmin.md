@@ -59,6 +59,7 @@
 - https://github.com/trimstray/test-your-sysadmin-skills
 - https://github.com/binhnguyennus/awesome-scalability
 - [Site Reliability Engineering: Building Secure and Reliable Systems](https://landing.google.com/sre/books)
+- [Principles of System Administration by Jan Schaumann](https://www.netmeister.org/book) + https://stevens.netmeister.org/615
 
 ### Monitoring
 

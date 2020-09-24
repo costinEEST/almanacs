@@ -38,6 +38,7 @@
 - https://hyperskill.org/onboarding/?track=python
 - https://github.com/polyrand/learn/tree/main/lambda_calculus
 - https://marko-knoebl.github.io/slides/index.html
+- https://github.com/ForrestKnight/open-source-cs-python
 
 ### Data structures
 
