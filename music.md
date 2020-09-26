@@ -48,3 +48,4 @@
 ### Rap
 
 - [Lyrical Breakdowns - Behind That Suit](https://www.youtube.com/playlist?list=PLeOfpS14yhmFk0wvWMLQYkArbkxEhDLRM)
+- https://sandymaguire.me/blog/rap-guide

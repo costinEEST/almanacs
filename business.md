@@ -112,6 +112,7 @@
 - https://florentcrivello.com/index.php/2020/02/24/general-magic-and-silicon-valley-common-wisdom
 - [The missing star history graph of github repos.](https://github.com/timqian/star-history)
 - https://www.harpercollins.com/products/how-innovation-works-matt-ridley?variant=32117444444194 + https://nav.al/matt-ridley + http://www.rationaloptimist.com/blog/naval-interview
+- [The Knowledge: How to Rebuild Our World from Scratch by Lewis Dartnell](https://news.ycombinator.com/item?id=22347884)
 
 ### Essays
 
