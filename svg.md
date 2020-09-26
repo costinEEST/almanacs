@@ -5,6 +5,7 @@
 ### Icons
 
 - [Remix Icon - Open source icon library](https://remixicon.com)
+- https://github.com/mono-company/mono-icons
 
 ### Tutorials
 

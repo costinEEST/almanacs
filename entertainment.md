@@ -13,6 +13,7 @@
 - [The best technology podcast episodes](https://podnami.com)
 - [What were your most impactful podcast episodes from 2019?](https://news.ycombinator.com/item?id=22027315)
 - https://podcast.babeljs.io
+- https://www.perell.com/blog/how-i-produce-a-podcast
 
 ### Storytelling
 
@@ -198,6 +199,10 @@
 - https://www.youtube.com/channel/UCqLLqbclDQ6IQg39Wsgy-4w/playlists
 - https://www.youtube.com/playlist?list=PLVWaFpMwtaGiBxi79IUqnqn67WF5g5PR4
 - https://www.youtube.com/results?search_query=svidler+chess24+playlist
+
+### Golf
+
+- [Bryson DeChambeau might be the most innovative athlete in the world right now.](https://twitter.com/david_perell/status/1307811967428702208)
 
 ### Semiotics
 

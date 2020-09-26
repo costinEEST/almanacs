@@ -194,3 +194,4 @@ javascript: (() =>
 - https://textslashplain.com/2020/02/09/demystifying-browsers
 - https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-browsers-1
 - https://alan.norbauer.com/articles/browser-debugging-tricks
+- https://textslashplain.com/2020/09/25/web-debugging-watching-element-changes
