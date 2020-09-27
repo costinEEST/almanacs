@@ -50,6 +50,7 @@
 - [F. Scott Fitzgerald - Marele Gatsby](https://humanitas.ro/assets/pdf/F-Scott-Fitzgerald_Marele-Gatsby.pdf)
 - [James Joyce - Portret al artistului la tinerete](https://humanitas.ro/assets/pdf/James-Joyce_Portret-al-artistului.pdf)
 - [Story Genius - Lisa Cron](https://blog.dpc.dev/story-genius)
+- https://www.atlasobscura.com/articles/one-of-the-earliest-science-fiction-books-was-written-in-the-1600s-by-a-duchess + https://news.ycombinator.com/item?id=23894582
 
 ### Sociology
 
@@ -85,6 +86,7 @@
 - https://www.youtube.com/user/Wendoverproductions/playlists
 - https://github.com/yoshuawuyts/knowledge/blob/master/life/cities.md
 - [We, the Navigators: The Ancient Art of Landfinding in the Pacific - David Lewis](https://www.goodreads.com/book/show/758833.We_the_Navigators)
+- https://en.wikipedia.org/wiki/Mao_Kun_map + https://news.ycombinator.com/item?id=23955026
 
 ### History
 

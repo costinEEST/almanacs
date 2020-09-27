@@ -35,7 +35,7 @@
 - https://snikt.net/blog/2019/06/22/building-an-lte-access-point-with-a-raspberry-pi
 - http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-04-is-that-a-wifi-sniffer-in-your-pocket-jacob-baines
 - https://alternativebit.fr/posts/ultimate-writer
-- https://mtlynch.io/tinypilot/#how-to-build-your-own-tinypilot
+- https://mtlynch.io/tinypilot/#how-to-build-your-own-tinypilot + https://mtlynch.io/tinypilot/#building-a-kvm-over-ip-with-raspberry-pi + https://news.ycombinator.com/item?id=23927380
 - https://github.com/brandonskerritt/How-I-Hacked-Your-Pi-Hole
 - https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi + https://news.ycombinator.com/item?id=24022751
 - https://felixge.de/2015/03/05/go-raspberry-pi-powered-alarm-clock

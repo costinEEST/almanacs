@@ -49,21 +49,19 @@
 curl v2.wttr.in/Bucharest
 ```
 
-### Geography
-
-- [City data repository for mapnificent.net](https://github.com/mapnificent/mapnificent_cities) + https://stefanwehrmeyer.com/projects/mapnificent
-- [Dear map people,](https://twitter.com/tmcw/status/1133165834677866496)
-- [ISO 3166-1 alpha-2 country code to country name conversion with a simple Javascript implementation, an array and a function.](https://gist.github.com/maephisto/9228207)
-
 ### Chemistry
 
 - https://github.com/darekkay/tip-of-the-day/tree/master/src/data-sources/chemical-elements-en
 
 ### Geography
 
+- [City data repository for mapnificent.net](https://github.com/mapnificent/mapnificent_cities) + https://stefanwehrmeyer.com/projects/mapnificent
+- [Dear map people,](https://twitter.com/tmcw/status/1133165834677866496)
+- [ISO 3166-1 alpha-2 country code to country name conversion with a simple Javascript implementation, an array and a function.](https://gist.github.com/maephisto/9228207)
 - https://github.com/darekkay/tip-of-the-day/tree/master/src/data-sources/countries-en
 - https://github.com/oldboyxx/Mapped-Country-Language-Codes
 - [Full list of timezones.](https://github.com/dmfilipenko/timezones.json)
+- [A PHP client for Apple's Find My iPhone service.](https://github.com/tylerhall/sosumi)
 
 ### Languages
 

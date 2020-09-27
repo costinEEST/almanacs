@@ -1,6 +1,7 @@
 ### Approaches
 
 - https://joshwcomeau.com/performance/embracing-modern-image-formats
+- [BBS Graphics History: Pretty awesome, until the web showed up](https://news.ycombinator.com/item?id=23916050)
 
 ### Formats
 

@@ -4,6 +4,7 @@
 - Brandon Rohrer: [Twitter](https://twitter.com/_brohrer_), [Linkedin](https://www.linkedin.com/in/brohrer/)
 - Chip Huyen: [Twitter](https://twitter.com/chipro), [Linkedin](https://www.linkedin.com/in/chiphuyen/)
 - https://interestingengineering.com/robert-downey-jrs-series-on-ai-is-available-on-youtube-right-now
+- [Joscha Bach: Artificial Consciousness and the Nature of Reality](https://news.ycombinator.com/item?id=23923183)
 
 ### References
 
@@ -47,6 +48,8 @@
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - https://www.linkedin.com/posts/arnuld-on-data_how-id-start-learning-machine-learning-again-activity-6707557261012795392-nEG1
 - https://github.com/lyhue1991/eat_tensorflow2_in_30_days
+- https://mentorcruise.com/books/ml + https://news.ycombinator.com/item?id=23997301
+- https://builtin.com/data-science/data-science-books + https://news.ycombinator.com/item?id=23936249
 
 ### Videos
 
