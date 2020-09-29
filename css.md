@@ -55,6 +55,7 @@
 
 - ["Making Things Better: Redefining the Technical Possibilities of CSS" by Rachel Andrew](https://aneventapart.com/news/post/making-things-better-aea-video)
 - [Know a good "CSS from Scratch" course you can recommend?](https://twitter.com/adamwathan/status/1244795112691060736)
+- https://www.twitch.tv/kevinpowellcss
 
 ### Security
 

@@ -18,6 +18,8 @@
 ### Storytelling
 
 - [Out on the Wire: The Storytelling Secrets of the New Masters of Radio](https://www.amazon.com/dp/0385348436)
+- https://nicholasreese.com/persuasive-storytelling
+- https://www.theatlantic.com/health/archive/2015/08/life-stories-narrative-psychology-redemption-mental-health/400796/
 
 ### Board games
 

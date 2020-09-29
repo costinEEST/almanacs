@@ -28,6 +28,7 @@
 - https://www.youtube.com/user/Campbellteaching/playlists
 - [Ninja Nerd Science](https://www.youtube.com/channel/UC6QYFutt9cluQ3uSM963_KQ/playlists)
 - https://www.amazon.com/Dorlands-Illustrated-Medical-Dictionary-33e/dp/1455756431
+- www.anatomytrains.com
 
 ### Botany
 
@@ -82,3 +83,4 @@
 - [The Spinning Magnet: The Force That Created the Modern World--and Could Destroy It - Alanna Mitchell](https://www.goodreads.com/en/book/show/35754738) + https://youtu.be/wnexzUxUNX4
 - [Engineering Connections with Richard Hammond - Science Documentary Series](https://www.youtube.com/playlist?list=PLBThhL8p7IfkXJNkrGlhAYlMX5vuOVoat)
 - https://phys.org/news/2020-07-lightest-electromagnetic-shielding-material-world.html
+- https://open.umn.edu/opentextbooks/subjects/engineering
