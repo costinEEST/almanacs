@@ -191,7 +191,7 @@ javascript: (() =>
 - https://github.com/vasanthk/how-web-works
 - [The End of Indie Web Browsers: You Can (Not) Compete.](https://news.ycombinator.com/item?id=21992050)
 - [Shareable bookmarks.](https://github.com/darekkay/static-marks)
-- https://textslashplain.com/2020/02/09/demystifying-browsers
+- https://textslashplain.com/2020/02/09/demystifying-browsers + https://textslashplain.com/2020/09/29/debugging-browsers-tools-and-techniques
 - https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-browsers-1
 - https://alan.norbauer.com/articles/browser-debugging-tricks
 - https://textslashplain.com/2020/09/25/web-debugging-watching-element-changes

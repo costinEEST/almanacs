@@ -2,6 +2,7 @@
 
 - https://docuart.ro/documentare
 - https://github.com/philsturgeon/awesome-earth#documentaries
+- https://anamariaonisei.ro/trei-perspective-din-culisele-filmului-acasa-cel-mai-premiat-documentar-romanesc-al-anului-de-ce-si-unde-sa-l-vedeti
 
 ### Interviews
 
