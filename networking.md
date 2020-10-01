@@ -77,6 +77,7 @@
 - [Wireless is a trap](https://www.benkuhn.net/wireless)
 - [A crash course on hacking satellites](https://news.ycombinator.com/item?id=24072829)
 - http://k0lwc.com/new-ham-radio-onboard-the-iss-is-on-the-air + https://news.ycombinator.com/item?id=24484336
+- https://www.universal-sci.com/headlines/2018/10/25/it-could-be-possible-to-transfer-data-through-gravitational-waves + https://twitter.com/binitamshah/status/1310189410990747649
 
 ### 5G
 

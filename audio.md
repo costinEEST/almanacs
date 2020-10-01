@@ -31,6 +31,7 @@
 - [An online synthesizer with over 100 different instruments and unique drum patterns with dynamic sound kits.](https://midi.city)
 - [How Music Works. Interactive Music Theory Lessons](https://www.lightnote.co)
 - https://skins.webamp.org
+- [Wave-share : Serverless, peer-to-peer, local file sharing through sound](https://github.com/ggerganov/wave-share) + https://twitter.com/binitamshah/status/1309833255181377536
 
 ### TV
 
