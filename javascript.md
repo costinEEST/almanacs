@@ -39,6 +39,7 @@
 - https://lihautan.com/manipulating-ast-with-javascript
 - https://twitter.com/flexdinesh/status/1196680010343432192
 - [A blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript](https://github.com/KFlash/seafox)
+- https://sibelius.github.io/talk-maringa-ast
 
 ### Obfuscation
 

@@ -148,6 +148,7 @@
 ### Philosophy
 
 - https://www.youtube.com/user/gbisadler/playlists
+- https://www.philosophybro.com
 - [Alain de Botton - The Consolations of Philosophy](https://www.youtube.com/playlist?list=PLxRuhrcSjnv2weFRcqOeCpk4Wy7_hay2j)
 - [What is Creativity? by Philosophy Tube](https://www.youtube.com/playlist?list=PLvoAL-KSZ32e_YiWc3ButEMXx3KuSa8kL)
 - [Friedrich Nietzsche - Ecce homo](https://humanitas.ro/assets/pdf/Friedrich-Nietzsche_Ecce-homo.pdf)

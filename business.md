@@ -113,6 +113,7 @@
 - [The missing star history graph of github repos.](https://github.com/timqian/star-history)
 - https://www.harpercollins.com/products/how-innovation-works-matt-ridley?variant=32117444444194 + https://nav.al/matt-ridley + http://www.rationaloptimist.com/blog/naval-interview
 - [The Knowledge: How to Rebuild Our World from Scratch by Lewis Dartnell](https://news.ycombinator.com/item?id=22347884)
+- https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022
 
 ### Essays
 
@@ -121,6 +122,7 @@
 - [Why does DARPA work?](https://benjaminreinhardt.com/wddw)
 - https://www.theverge.com/21459906/bittorrent-tron-acquisition-justin-sun-us-china
 - https://www.geekwire.com/2020/amazon-jumps-virtual-tourism-offering-live-one-one-experiences-around-world
+- http://www.uky.edu/~eushe2/Pajares/OnFailingG.html
 
 ### Miscellaneous
 

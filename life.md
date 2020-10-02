@@ -63,6 +63,7 @@
 ### Physics
 
 - https://physicstravelguide.com
+- https://www.feynmanlectures.caltech.edu
 - https://www.amazon.com/Electromagnetic-Theory-Oliver-Heaviside/dp/1549664514
 - [ElectroBOOM101](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)
 - [The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
