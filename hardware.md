@@ -53,6 +53,8 @@
 - [N-O-D-E](https://www.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA/playlists)
 - [Shenzhen I/O - Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
 - https://www.youtube.com/c/lockpickinglawyer/playlists
+- https://www.youtube.com/c/jeriellsworth/playlists
+- [Computer History - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc5y3yXGO1VDXtzLeVcr5kCl)
 
 ### Tools
 

@@ -9,6 +9,7 @@
 - [Setting the table](https://twitter.com/hyper_yolo/status/1208237487077740545)
 - https://mtlynch.io/book-reports
 - [Books that have foundationally formed your product thinking?](https://twitter.com/acoustik/status/1245119429349748736)
+- [Reinventing Discovery: The New Era of Networked Science By Michael Nielsen](http://backreaction.blogspot.com/2012/03/book-review-reinventing-discovery-by.html)
 
 ### Marketing
 

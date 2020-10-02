@@ -29,6 +29,7 @@
 - https://www.amazon.com/History-Mathematical-Notations-Dover-Mathematics/dp/0486677664
 - [Teach Yourself Logic: A Study Guide](https://www.logicmatters.net/tyl) + https://en.wikipedia.org/wiki/How_to_Solve_It + https://www.edx.org/course/paradox-and-infinity + https://omereingold.wordpress.com/cs-154-introduction-to-automata-and-complexity-theory
 - https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf + https://news.ycombinator.com/item?id=24194543
+- https://www.basicbooks.com/titles/sabine-hossenfelder/lost-in-math/9781541646766 + http://backreaction.blogspot.com/2020/06/physicists-still-lost-in-math.html
 
 ### Courses
 
@@ -80,3 +81,4 @@
 - [A calculator for the Terminal that renders beautiful math.](https://kary.us/nota)
 - https://unprovable.github.io/jekyll/update/2016/11/13/Maths-For-Hackers-The-Hacker-Theorem.html + https://unprovable.github.io/jekyll/update/2016/11/18/Maths-For-Hackers-The-Recursion-Theorem.html + https://unprovable.github.io/jekyll/update/2016/11/20/Maths-For-Hackers-Enumeration-and-Insight.html
 - https://primes.utm.edu/primes/home.php + https://primes.utm.edu/primes/download.php + https://primes.utm.edu/lists/small/ + https://primes.utm.edu/primes/search.php
+- [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov) + http://backreaction.blogspot.com/2010/05/abramowitzstegun-goes-online.html

@@ -64,6 +64,8 @@
 
 - https://physicstravelguide.com
 - https://www.feynmanlectures.caltech.edu
+- http://backreaction.blogspot.com/2012/09/book-review-universe-within-by-neil.html
+- http://backreaction.blogspot.com/2019/02/book-review-breakfast-with-einstein-by.html + http://backreaction.blogspot.com/2015/07/book-review-eureka-by-chad-orzel.html + http://backreaction.blogspot.com/2012/04/book-review-how-to-teach-relativity-to.html
 - https://www.amazon.com/Electromagnetic-Theory-Oliver-Heaviside/dp/1549664514
 - [ElectroBOOM101](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)
 - [The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
@@ -85,3 +87,5 @@
 - [Engineering Connections with Richard Hammond - Science Documentary Series](https://www.youtube.com/playlist?list=PLBThhL8p7IfkXJNkrGlhAYlMX5vuOVoat)
 - https://phys.org/news/2020-07-lightest-electromagnetic-shielding-material-world.html
 - https://open.umn.edu/opentextbooks/subjects/engineering
+- https://blog.jessfraz.com/post/battery-day + https://twitter.com/jessfraz/status/1311086559832145921 + https://twitter.com/jessfraz/status/1308069671778750464 + https://silanano.com/news/futureofenergystorage + https://twitter.com/SilaGene/status/1301197888333123586
+- https://www.youtube.com/c/SabineHossenfelder/playlists

@@ -123,6 +123,7 @@
 - https://jonathanbuys.com/Setting_Up_Webster's_Dictionary + https://www.websters1913.com
 - https://www.dschapman.com/notes/reading-and-writing-parallel
 - [Notes on WWHF Workshop ‘How To How-To’](https://ianlee1521.com/2020/03/13/wwhf-how-to-howto)
+- https://github.com/mnielsen/notes-on-writing
 
 ### Drawing
 

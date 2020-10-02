@@ -110,6 +110,7 @@
 - https://github.com/jivoi/pentest/blob/master/notes/ipv6_tcpip_pocketguide.pdf
 - [MUST, SHOULD, DON'T CARE: TCP Conformance in the Wild](https://arxiv.org/abs/2002.05400v1)
 - https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work
+- [Notes on networking observability commnads](https://aunfl0w.github.io/2019/netcommands)
 
 ### UDP
 

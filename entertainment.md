@@ -19,7 +19,11 @@
 
 - [Out on the Wire: The Storytelling Secrets of the New Masters of Radio](https://www.amazon.com/dp/0385348436)
 - https://nicholasreese.com/persuasive-storytelling
-- https://www.theatlantic.com/health/archive/2015/08/life-stories-narrative-psychology-redemption-mental-health/400796/
+- https://www.theatlantic.com/health/archive/2015/08/life-stories-narrative-psychology-redemption-mental-health/400796
+
+### Public speaking
+
+- https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018 + https://youtu.be/Unzc731iCUY + https://www.memoriesofpatrickwinston.com
 
 ### Board games
 
@@ -58,6 +62,10 @@
 
 - https://jumunteanu.wordpress.com/2014/01/17/7-carti-pentru-relationisti-sau-pentru-cei-interesati-in-psihologia-maselor-si-manipularea-acestora-prin-mijloacele-de-comunicare-4 + https://www.academia.edu/20833296/02._Edward_Bernays_-_Cristalizarea_opiniei_publice
 - https://en.wikipedia.org/wiki/The_Presentation_of_Self_in_Everyday_Life
+
+### Atheism
+
+- http://backreaction.blogspot.com/2009/01/book-review-god-delusion-by-richard.html
 
 ### Christianity
 

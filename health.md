@@ -2,6 +2,10 @@
 
 - https://www.redpenreviews.org/reviews/eat-right-4-your-type-the-individualized-blood-type-diet-solution
 
+### Books
+
+- [The Disease Delusion: Conquering the Causes of Chronic Illness for a Healthier, Longer, and Happier Life - Jeffrey Bland](https://www.amazon.com/gp/customer-reviews/R2SC5L9GQGZVXH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0062290738)
+
 ### Grocery
 
 - [What is Organics? - Paul Chek](https://www.youtube.com/playlist?list=PLZupSfb-NVbpltzWP1zcpVH7Nzd16_cQG)
@@ -102,6 +106,8 @@
 - https://inquisitivebiologist.com/2019/11/04/book-review-fungipedia-a-brief-compendium-of-mushroom-lore
 - https://bioneers.org/will-mushrooms-be-magic-for-threatened-bees
 - https://www.foragingwildmushrooms.com/
+- https://inquisitivebiologist.com/2020/10/02/book-review-entangled-life-how-fungi-make-our-worlds-change-our-minds-and-shape-our-futures + https://www.youtube.com/user/merlinsheldrake/playlists
+- https://www.youtube.com/user/radmycology/playlists + https://chthaeus.com/collections/books-1/products/radical-mycology-a-treatise-on-seeing-working-with-fungi
 
 ### Tea
 

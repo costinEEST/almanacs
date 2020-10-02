@@ -23,6 +23,7 @@
 - [What are some great books about homeschooling?](https://twitter.com/devonzuegel/status/1244396902558253056)
 - [The 3 Key Steps To Intuitive Eating, Ego Dissolution, Raising & Educating Children In A Modern Era & More With Paul Chek.](https://bengreenfieldfitness.com/podcast/lifestyle-podcasts/paul-chek)
 - https://www.amazon.com/Vaccines-Autoimmunity-Changing-Childhood-Illness/dp/1603587772
+- http://backreaction.blogspot.com/2012/08/why-does-baby-cry-fact-sheet.html
 
 ### Mindfulness
 
