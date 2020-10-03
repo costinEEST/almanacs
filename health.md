@@ -71,6 +71,9 @@
 - [Mr. Mineral | Minerals for Body, Brain and Business Optimization- Thomas DeLauer](https://www.youtube.com/playlist?list=PLFbLg_bIQgxC-NtGO7TzTTO0Lgd8R-Vop)
 - [În București, de unde vă procurați stevie, turmeric, fulgi de drojdie inactivă?](https://www.facebook.com/groups/755526297805685/permalink/3994212310603718)
 - https://www.emag.ro/puterea-vitaminei-d-sarfraz-zaidi-9786068784007/pd/DQV543BBM
+- [Iron Overload - Matt Blackburn](https://www.youtube.com/playlist?list=PLM1VQBlR_OgvFYPr0vJkWkwpDAT-_CEmf)
+- [Magnesium - Matt Blackburn](https://www.youtube.com/playlist?list=PLM1VQBlR_Ogt1A0EHmzyxxKq9qsPD6cL-)
+- [Ketogains Suggested Products](https://www.amazon.com/shop/influencer-5dcb908c?listId=L6NGBTQPLMEJ)
 
 ### Vegetables
 
