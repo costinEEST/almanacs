@@ -34,6 +34,7 @@
 
 - [Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever.](https://www.amazon.com/Dream-Team-Greatest-Conquered-Basketball/dp/0345520491)
 - [Thinking Basketball (YouTube channel)](https://www.youtube.com/channel/UC3HPbvB6f58X_7SMIp6OPYw/playlists)
+- [The Complete History and Strategy of The NBA](https://www.acquired.fm/episodes/the-nba)
 
 ### Future
 
@@ -97,6 +98,7 @@
 - https://github.com/yoshuawuyts/knowledge/blob/master/life/cities.md
 - [We, the Navigators: The Ancient Art of Landfinding in the Pacific - David Lewis](https://www.goodreads.com/book/show/758833.We_the_Navigators)
 - https://en.wikipedia.org/wiki/Mao_Kun_map + https://news.ycombinator.com/item?id=23955026
+- https://dinosaurpictures.org/ancient-earth#400
 
 ### History
 

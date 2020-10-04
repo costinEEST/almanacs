@@ -6,3 +6,7 @@
 ### Applications
 
 - [My daughter and I made a site to explore the photos from the ISS](https://news.ycombinator.com/item?id=23519439)
+
+### News
+
+- [Black holes: Cosmic signal rattles Earth after 7 billion years](https://www.bbc.com/news/science-environment-53993937)

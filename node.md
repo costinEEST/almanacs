@@ -109,6 +109,7 @@
 - https://github.com/justincampbell/url-shorteners
 - https://realtalkjavascript.simplecast.com/episodes/episode-96-expressway-to-fastify-with-matteo-collina
 - https://futurestud.io/learningpaths/learn-hapi
+- https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc
 
 ### Authentication
 

@@ -370,6 +370,8 @@
 - [How can I tell webpack, "Whenever I import @blueprintjs/core, also import blueprintjs/core/lib/css/blueprint.css first"?](https://twitter.com/sophiebits/status/1249853629093179392)
 - https://zach.codes/es6-import-nodejs-on-the-frontend
 - https://spaceraccoon.github.io/webpack-exploder
+- https://www.debugbear.com/blog/is-the-web-getting-slower
+- https://github.com/felixturner/three-webpack-boilerplate
 
 ### Documentation
 

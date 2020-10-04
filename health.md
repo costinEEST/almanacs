@@ -6,6 +6,8 @@
 
 - [The Disease Delusion: Conquering the Causes of Chronic Illness for a Healthier, Longer, and Happier Life - Jeffrey Bland](https://www.amazon.com/gp/customer-reviews/R2SC5L9GQGZVXH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0062290738)
 - [Book reviews heart attack stroke prevention weight loss - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xQaTKb5QTizgOHbRFuKVUu)
+- http://nutriblog.ro/4043/carti-despre-dieta-ketogenica-low-carb-scrise-limba-romana.html
+- https://www.scribd.com/book/420546368/Dieta-ketogenica + https://books.google.ro/books?id=-xGnDwAAQBAJ
 
 ### Cholesterol
 

@@ -20,6 +20,7 @@
 - https://github.com/jivoi/awesome-ml-for-cybersecurity
 - https://github.com/src-d/awesome-machine-learning-on-source-code
 - https://github.com/mrdbourke/machine-learning-roadmap
+- https://medium.com/javascript-in-plain-english/ml-for-js-devs-in-10-minutes-46794782762e
 
 ### Tools
 
@@ -37,6 +38,7 @@
 - https://laconicml.com/free-artificial-intelligence-courses
 - [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
 - https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477
+- [JavaScript for Data Science](https://js4ds.org)
 
 ### Books
 

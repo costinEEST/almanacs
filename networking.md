@@ -101,6 +101,7 @@
 - https://twitter.com/andersonc0d3/status/1253009058652729345 + https://hackerone.com/reports/541169
 - https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic
 - [WireHole: Set up Pihole, WireGuard, and Unbound instantly](https://github.com/IAmStoxe/wirehole) + https://news.ycombinator.com/item?id=24425424
+- https://howdns.works/episodes
 
 ### TCP
 

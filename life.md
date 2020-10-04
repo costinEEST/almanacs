@@ -9,6 +9,7 @@
 - https://www.flickr.com/photos/usgsbiml + https://www.gbif.org/dataset/f519367d-6b9d-411c-b319-99424741e7de + https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/The%20Very%20Handy%20Manual%20-%202015.pdf
 - https://inquisitivebiologist.com/2020/06/18/book-review-desert-navigator-the-journey-of-an-ant
 - https://inquisitivebiologist.com/2020/08/19/book-review-the-secret-life-of-flies
+- https://www.sciencemag.org/news/2020/09/survive-frigid-nights-hummingbirds-cool-themselves-record-low-temperatures
 
 ### Anatomy
 

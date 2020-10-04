@@ -130,6 +130,7 @@
 - https://sgolem.com/atomic-design-with-react-and-bit-simplify-a-complex-ui
 - https://github.com/JacobParis/sliding-sidebar
 - https://medium.com/14islands/progressive-enhancement-with-webgl-and-react-71cd19e66d4 + https://twitter.com/ffdead/status/1307023551380283393
+- [To design and develop an interactive globe using Three.js](https://stripe.com/blog/globe) + https://twitter.com/narrowd/status/1300838489869742080
 
 ### Server side rendering
 
@@ -161,6 +162,7 @@
 - https://sgolem.com/complex-app-logic-with-redux-and-redux-saga-write-an-authentication-monitor
 - [The trading client GUI is a single page app (SPA) built using Typescript, React, Redux and Styled components.](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)
 - https://www.sitepoint.com/replace-redux-react-hooks-context-api
+- https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines
 
 ### Packages
 
@@ -189,6 +191,7 @@
 - https://houssein.me/progressive-react
 - https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d
 - https://felixgerschau.com/react-performance-react-memo
+- https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance
 
 ### Demos
 

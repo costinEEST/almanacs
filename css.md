@@ -60,3 +60,7 @@
 ### Security
 
 - http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-09-http-covert-channel-using-only-htmlcss-thomas-slota-william-york
+
+### Communities
+
+- https://twitter.com/zehf/status/1310664033234808833

@@ -38,6 +38,7 @@
 
 - https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly
 - https://felixge.de/2013/03/11/the-pull-request-hack
+- https://rahuldkjain.github.io/gh-profile-readme-generator + https://github.com/rahuldkjain/github-profile-readme-generator
 
 ### Tools
 

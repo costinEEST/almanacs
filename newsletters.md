@@ -35,10 +35,16 @@
 - [React Status](https://react.statuscode.com/issues)
 - [User Interfacing by Adam Conrad](https://userinterfacing.substack.com/archive)
 - [Growing with the Web by Daniel Imms](https://us3.campaign-archive.com/home/?u=81a68a3e0636ace89d3b470e3&id=1d3b725b48)
+- [Python Monthly](https://zerotomastery.io/blog/?tag=PM)
+- [Web Developer Monthly](https://zerotomastery.io/blog/?tag=WDM)
 
 ### Web performance
 
 - [Perf.mail from Calibre](https://us2.campaign-archive.com/home/?u=9067434ef642e9c92aa7453d2&id=7cba5dc7bd)
+
+### Artificial intelligence
+
+- [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)
 
 ### Writing
 
