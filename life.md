@@ -29,6 +29,8 @@
 - [Ninja Nerd Science](https://www.youtube.com/channel/UC6QYFutt9cluQ3uSM963_KQ/playlists)
 - https://www.amazon.com/Dorlands-Illustrated-Medical-Dictionary-33e/dp/1455756431
 - www.anatomytrains.com
+- [Brains to Gains - The Muscle PhD](https://www.youtube.com/playlist?list=PLmiXBKJgM-GuNUykEDLcMiEK2jHrwhq1Z)
+- [Plateau Busters - The Muscle PhD](https://www.youtube.com/playlist?list=PLmiXBKJgM-GsIXN847rITImkm51Pd7fiJ)
 
 ### Botany
 
@@ -59,6 +61,7 @@
 - https://github.com/nikitavoloboev/knowledge/blob/master/chemistry/chemistry.md
 - [Chemistry - PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry)
 - https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms
+- https://pt.kle.cz/en_US/index.html + https://github.com/petrkle/periodic-table
 
 ### Physics
 

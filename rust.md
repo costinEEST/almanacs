@@ -1,6 +1,7 @@
 ### Best practices
 
 - https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust + (https://news.ycombinator.com/item?id=22818150)
+- http://rcvalle.blog/2020/09/16/rust-lang-exploit-mitigations
 
 ### Courses
 

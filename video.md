@@ -23,3 +23,4 @@
 - https://battlepenguin.com/tech/moving-from-youtube-to-peertube
 - https://blog.vivekhaldar.com/post/627079113078865921/automatically-edit-out-silence-dead-air-from
 - https://tyler.io/diy-video-hosting + https://news.ycombinator.com/item?id=23894827
+- [How to make video calls almost as good as face-to-face](https://www.benkuhn.net/vc)

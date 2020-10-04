@@ -3,6 +3,9 @@
 - https://docuart.ro/documentare
 - https://github.com/philsturgeon/awesome-earth#documentaries
 - https://anamariaonisei.ro/trei-perspective-din-culisele-filmului-acasa-cel-mai-premiat-documentar-romanesc-al-anului-de-ce-si-unde-sa-l-vedeti
+- [BBC History Documentaries - Lois Clark-Johnston](https://www.youtube.com/playlist?list=PL2XMHriRjzy0-VocW_OoTdVA9o_GuJcE0&app=desktop)
+- [African History - Lois Clark-Johnston](https://www.youtube.com/playlist?list=PL2XMHriRjzy34dpdMKQKmNWrByrjd9Sin)
+- [African Diaspora History - Lois Clark-Johnston](https://www.youtube.com/playlist?list=PL2XMHriRjzy2ppx6sDiv_66ryEXx8XrS2)
 
 ### Interviews
 

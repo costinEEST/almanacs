@@ -10,6 +10,7 @@
 - https://mtlynch.io/book-reports
 - [Books that have foundationally formed your product thinking?](https://twitter.com/acoustik/status/1245119429349748736)
 - [Reinventing Discovery: The New Era of Networked Science By Michael Nielsen](http://backreaction.blogspot.com/2012/03/book-review-reinventing-discovery-by.html)
+- ["Where’s my Flying Car - A memoir of Futures Past" by J Storrs Hall](https://twitter.com/Ben_Reinhardt/status/1302657377573965832)
 
 ### Marketing
 
@@ -131,3 +132,4 @@
 - https://github.com/kdeldycke/awesome-billing
 - [Discover the Open Source projects your organization is using that need financial support.](https://backyourstack.com)
 - http://jpkoning.blogspot.com/2019/08/starbucks-monetary-superpower.html
+- [How Kanye West negotiated a better shoe deal than Michael Jordan](https://twitter.com/JoePompliano/status/1298057084550995970)

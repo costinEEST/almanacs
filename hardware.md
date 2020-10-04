@@ -28,6 +28,7 @@
 
 - https://www.tinkercad.com/circuits
 - https://medium.com/@jonathanberi/a-makers-equipment-list-4f8509d0d769
+- https://twitter.com/wimremes/status/1312374577683673089
 
 ### Miscellaneous
 
@@ -44,6 +45,7 @@
 - https://shkspr.mobi/blog/2020/05/building-a-physical-blink-tag
 - [I made a mechanical keyboard with 3D-printed switches](https://news.ycombinator.com/item?id=24081046)
 - https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun + https://news.ycombinator.com/item?id=23888923
+- http://www.ganssle.com
 
 ### TV
 

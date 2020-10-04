@@ -5,6 +5,23 @@
 ### Books
 
 - [The Disease Delusion: Conquering the Causes of Chronic Illness for a Healthier, Longer, and Happier Life - Jeffrey Bland](https://www.amazon.com/gp/customer-reviews/R2SC5L9GQGZVXH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0062290738)
+- [Book reviews heart attack stroke prevention weight loss - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xQaTKb5QTizgOHbRFuKVUu)
+
+### Cholesterol
+
+- [#CholesterolScience - Dave Feldman](https://www.youtube.com/playlist?list=PLWNQLvi9Q_zuigCB6JPmDQuR3TwfJO3QX)
+
+### Diseases
+
+- https://prevmedhealth.com/the-end-of-alzheimers-by-dale-bredesen + https://youtu.be/wekW6wVpQFw
+- [Alzheimer’s Dementia - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zqQxkYNBB1fcr34jmXg9_0)
+- [New model for Alzheimer’s - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z7G9VtDVphcQvVqHgqA3lB)
+- [How to diagnose diabetes - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9ykKqG1sIejMutqMLaatSGH)
+- [How to prevent Alzheimer’s and cognitive decline - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9wVPKIgxe3NYlXCbSi73tyS)
+- [Diabetes science - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zsbsPab5bwq0Ky6xqwYgur)
+- [Gum disease, periodontal disease - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z08cPCCcf298wh6jOfftnl)
+- [gingivitis, periodontitis & heart disease - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xnbbJvE9y4iat16_rQVm2L)
+- [Calcifying Nanoparticles - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LFssuFNroVieEEWvs8fXjQr)
 
 ### Grocery
 
@@ -26,6 +43,8 @@
 - https://www.huffpost.com/entry/15-ways-to-fall-asleep-faster_n_55dde3e7e4b04ae497054470
 - https://www.quantifiedbob.com/best-biohacking-books/#biohacking-sleep
 - https://highintensityhealth.com/snacking-before-bed-may-slow-weight-loss-fat-oxidation
+- [Ford brewer sleep](https://www.youtube.com/playlist?list=PL0TLaocCMc9wkkJ0_lVNSRVvsoYH7QDBM)
+- [Home sleep studies - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z1wfXgDNilmpXY7YQklqqA)
 
 ### Fitness
 
@@ -43,6 +62,7 @@
 - [Antrenamente acasa - Marius Mitrache](https://www.youtube.com/playlist?list=PLEyLSg7prXmE93v3fT6AkBsJmTDNc37o4)
 - [Workout Theory - Pietro Boselli](https://www.youtube.com/playlist?list=PLPem8DMLJzQNZf7TE8dKhzJOGa8bao24S)
 - [Exercise Anatomy - Pietro Boselli](https://www.youtube.com/playlist?list=PLPem8DMLJzQPB3gzfXBoCNPlG1Wf6ByFI)
+- [Lactate threshold training health biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z8z0O-Oqm9wUsfywDOgQgU)
 
 ### Injuries
 
@@ -58,6 +78,7 @@
 - https://twitter.com/KetoAurelius/status/1216461099404595200
 - https://www.siimland.co/products/metabolic-autophagy-book
 - [An Evolutionary Perspective on Why Food Overconsumption Impairs Cognition - Mark P. Mattson](https://www.gwern.net/docs/longevity/2019-mattson.pdf)
+- [Autophagy - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xF85LzBWl7OcjmLQuAq7Uh)
 
 ### Supplements
 
@@ -74,6 +95,9 @@
 - [Iron Overload - Matt Blackburn](https://www.youtube.com/playlist?list=PLM1VQBlR_OgvFYPr0vJkWkwpDAT-_CEmf)
 - [Magnesium - Matt Blackburn](https://www.youtube.com/playlist?list=PLM1VQBlR_Ogt1A0EHmzyxxKq9qsPD6cL-)
 - [Ketogains Suggested Products](https://www.amazon.com/shop/influencer-5dcb908c?listId=L6NGBTQPLMEJ)
+- [Should I take Aspirin? - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xfwHQsPNIRrGCghvvh0uLV)
+- [Aspirin - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9wdGJ4lybaQWvoj7C_m3xDV)
+- https://www.thoughtco.com/elements-in-the-human-body-p2-602188
 
 ### Vegetables
 
@@ -100,6 +124,7 @@
 - [The Magic Pill (2017)](https://www.netflix.com/ro-en/title/80238655)
 - https://www.udemy.com/course/ketosis-and-if-for-fat-loss/?referralCode=92E9B7EAFC36975B08A0
 - https://www.amazon.com/Ketones-Fourth-Fuel-Warburg-Fountain-ebook/dp/B08G8TFQKS
+- [Biomarkers, Metabolism, Biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9x2q-9uV9zcGfQ6Pi6Oj-_s)
 
 ### Mushrooms
 
@@ -122,6 +147,9 @@
 - [Why Did Mexico Surpass America in Obesity?](https://twitter.com/notyetagm/status/1220352727546580997)
 - https://www.amazon.com/Diets-Because-Youre-Addicted-Sugar/dp/1607744864
 - https://inquisitivebiologist.com/2018/05/17/book-review-the-rise-of-yeast-how-the-sugar-fungus-shaped-civilisation
+- [Ghrelin, the only known hunger hormone - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9w_vQBQgWVFneHt8r2Gvvkr)
+- [Insulin Resistance - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zUgj26Wns9yLYMq559Luru)
+- [Hormonal theory of weight management - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9wlbcBO4wBL2M2-_3C9FSVh)
 
 ### Skin
 
@@ -131,10 +159,12 @@
 ### Gut
 
 - [Microbiome - YourekaScience](https://www.youtube.com/playlist?list=PLCjag94GB6w17vSjb5pgjM-HSpVK0IkPH)
+- [The gut biome and heart health - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9weTI4NF9TBxCenYKgUU8DS)
 
 ### Addictions
 
 - https://www.amazon.com/Hedonic-Eating-Pleasure-Affects-Behavior/dp/019933045X
+- [Mindful eating and food addiction - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zc29LI75JIkt-aUvG-ETIh)
 
 ### Ageing
 
@@ -151,6 +181,11 @@
 - http://sureshrattan.com/category/offers/lectures-workshops-list/videos
 - https://www.foundmyfitness.com/episodes/elissa-epel + https://youtu.be/IEz1P4i1P7s + https://podcastnotes.org/ben-greenfield-fitness/thomas-delaurer-ben-greenfield-muscle-strength
 - [Longevity - YourekaScience](https://www.youtube.com/playlist?list=PLCjag94GB6w1p5-FTEshIf-Vl_p8dNiqa)
+- [Mitochondria - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xcAWAI60AWk89crbEkcQ0Z)
+- [Life Purpose & Longevity - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9yZ2mbJTPiXd1jOHhTPTqgx)
+- [Longevity - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zAoQZKBD8d1kPUqAB7PMuV)
+- [David Sinclair - Harvard Longevity Prof, author of Lifespan, & Joe Rogan guest - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9y66aEswCVyVLLgngYx3htY)
+- [MTHFR - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z0lcffgTrggdLrVPfp1Eu3)
 
 ### Viruses
 
@@ -179,6 +214,14 @@
 - https://github.com/yetanotherchris/awesome-mindhacking#journaling
 - [SkinVision - Detect Skin Cancer. Track your Moles.](https://play.google.com/store/apps/details?id=com.rubytribe.skinvision.ac)
 - https://blog.elifiner.com/how-i-built-an-app-to-fix-my-depression + https://news.ycombinator.com/item?id=24439612
+- [Functional medicine - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xIR0CRwKuGkNPXd_uJcF1f)
+- [Follow The Physiology - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LHpgxqaIeeXaTEcHsTsDbo2)
+- [How to Detoxify Your Brain & Body - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LH5xMlqdLQVlF_nD6BaXGY3)
+- [Mold, Candida, Yeast. - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LFvQOTlvvmoAbCqO0himSx5)
+
+### Miscellaneous
+
+- [Lifestyle & Disease -History of preventive medicine - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z_1YOf0VfvSOAJ2wsTr9tg)
 
 ### DYI
 

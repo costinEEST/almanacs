@@ -215,6 +215,7 @@
 ### JSON.parse()
 
 - [JSON.parse w/o blocking main thread.](https://gist.github.com/jkrems/71df0bce1b95101b1417f909ce473075)
+- https://speakerdeck.com/wa7son/nodejsday-2020-javascript-prototypes-behind-the-scenes?slide=41
 
 ### Classes
 
