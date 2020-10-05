@@ -70,3 +70,4 @@
 - https://github.com/kafkas/coronamap
 - https://github.com/MohGovIL/hamagen-react-native
 - [tiny english dictionary for android and ios](https://github.com/dongyuwei/tiny_english_dictionary)
+- [Netflix UI Clone with React Native & Expo || web support](https://github.com/calebnance/expo-netflix)

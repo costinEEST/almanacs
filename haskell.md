@@ -1,6 +1,7 @@
 ### Practice
 
 - https://github.com/sjsyrek/haskell-study-startup
+- https://typeclasses.com/beginner-crash-course
 
 ### Radio
 

@@ -372,6 +372,7 @@
 - https://spaceraccoon.github.io/webpack-exploder
 - https://www.debugbear.com/blog/is-the-web-getting-slower
 - https://github.com/felixturner/three-webpack-boilerplate
+- https://github.com/lukejacksonn/perflink
 
 ### Documentation
 

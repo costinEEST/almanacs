@@ -16,6 +16,7 @@
 - https://github.com/ryanatkn/awesome-svelte-resources
 - https://github.com/CalvinWalzel/awesome-svelte
 - https://lihautan.com/the-svelte-compiler-handbook
+- https://github.com/codechips/svelte-parcel-vs-rollup-vs-webpack
 
 ### Communities
 

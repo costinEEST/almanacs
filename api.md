@@ -30,6 +30,7 @@
 - https://medium.com/@the.bilal.rizwan/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696
 - https://lab.wallarm.com/graphql-batching-attack
 - https://gitlab.com/dee-see/graphql-path-enum + https://blog.deesee.xyz/graphql/security/2020/04/13/graphql-permission-testing.html
+- https://github.com/APIs-guru/graphql-apis
 
 ### gRPC
 
