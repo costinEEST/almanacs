@@ -15,6 +15,7 @@
 - [Sing karaoke, any song, any language](https://github.com/youkaclub/youka-desktop)
 - [A modern Library Genesis book browser.](https://github.com/Samin100/Alexandria)
 - [GitHub notifications on your menu bar. Available on macOS, Windows & Linux.](https://github.com/manosim/gitify)
+- [Upcount is a painless cross-platform invoicing application, built with React & Electron and simplicity in mind.](https://github.com/madisvain/upcount)
 
 ### Boilerplates
 

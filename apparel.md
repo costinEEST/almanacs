@@ -10,3 +10,4 @@
 ### Miscellaneous
 
 - https://backpacking.tdhopper.com
+- https://om.co/2015/04/27/brunello-cucinelli-2

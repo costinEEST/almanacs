@@ -1,7 +1,12 @@
+### Books
+
+- https://medium.com/@mwichary/shift-happens-5b049f5a93a8
+
 ### CSS
 
 - [CSS can check for a font installed locally before fetching it remotely!](https://twitter.com/argyleink/status/1223026734817087488)
 - https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202
+- https://www.figma.com/blog/when-fonts-fall
 
 ### Fonts
 
@@ -14,6 +19,7 @@
 - [Choose the font for your design](https://fontflipper.com)
 - [Highly customizable and minimal font previewer written in bash.](https://github.com/sdushantha/fontpreview)
 - [A simple website which uses Typefont library to match the font of an image.](https://github.com/dcorvasce/typefont-matcher)
+- [Calligrapher converts typed text into handwritten-style text. Users can adjust the speed, legibility, stroke width, and style of writing. The generated text can be downloaded as an SVG file.](https://www.calligrapher.ai)
 
 ### Miscellaneous
 

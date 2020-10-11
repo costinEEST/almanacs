@@ -44,3 +44,4 @@
 
 - https://gedd.ski/post/favorite-gear
 - https://nelsonslog.wordpress.com/2020/09/03/half-a-new-gaming-pc
+- https://cra.mr/optimizing-for-wfh

@@ -18,3 +18,7 @@
 
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide
 - https://github.com/ernw/hardening/tree/master/operating_system/osx
+
+### Security
+
+- https://twitter.com/lordx64/status/1314614366361264130

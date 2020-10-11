@@ -20,6 +20,7 @@
 - https://github.com/thlorenz/v8-perf
 - https://github.com/hex13/javascript-visual-explanations#javascript-engines
 - https://deepu.tech/memory-management-in-v8
+- https://twitter.com/awesomekling/status/1314552767021813760
 
 ### Exploits
 
@@ -130,6 +131,7 @@ javascript: (() =>
 - https://blittle.github.io/chrome-dev-tools + https://github.com/blittle/chrome-dev-tools
 - [Extract relative urls from a heap snapshot](https://github.com/smiegles/extract-relative-url-heapsnapshot)
 - [A tool to capture communication between Chromium processes on Windows in real-time using Wireshark, by capturing data sent over named pipes.](https://github.com/tomer8007/chromium-ipc-sniffer)
+- [Hidden Features of Chrome DevTools](https://martinheinz.dev/blog/33)
 
 ### Brave
 
@@ -187,6 +189,17 @@ javascript: (() =>
 
 - [Using untranslatable Unicode in place of a "?" when attacking URL parsers for SSRF/OAuth issues.](https://twitter.com/samwcyo/status/1246997498981494784)
 - https://medium.com/swlh/hacking-the-web-with-unicode-73d0f0c97aab
+- https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses
+- https://www.unicode.org/charts/normalization/
+- https://www.compart.com/en/unicode
+- [Query the Unicode database from the command line, with good support for emojis](https://github.com/arp242/uni)
+- [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
+- [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
+- https://twitter.com/clagnut/status/1222148873218658304
+- https://github.com/dannyfritz/commit-message-emoji
+- https://github.com/jcsrb/til/blob/master/unicode/remove-byte-order-mark.md
+- [A database of Apple-supported emojis in JSON format.](https://github.com/meyer/emoji-db)
+- [Convert an emoji text string into space separated unicode values.](https://twitter.com/alvaroefe/status/1246579099209957377)
 
 ### Miscellaneous
 

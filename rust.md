@@ -53,3 +53,4 @@
 - [Two Years With Rust](http://brooker.co.za/blog/2020/03/22/rust.html)
 - https://joeprevite.com/rust-lang-ecosystem
 - https://matklad.github.io//2020/09/20/why-not-rust.html
+- [An opinionated history of programming languages](https://artagnon.com/articles/pl)

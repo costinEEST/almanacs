@@ -34,6 +34,7 @@
 - https://joshduff.com/2016-07-writing-sql.md
 - [Things I wished more developers knew about databases.](https://news.ycombinator.com/item?id=22942278)
 - [Using SQL to find my best photo of a pelican according to Apple Photos](https://news.ycombinator.com/item?id=23271053)
+- https://gbl08ma.com/time-for-a-wtf-mysql-moment
 
 ### Hacks
 

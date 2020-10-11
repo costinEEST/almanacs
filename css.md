@@ -12,10 +12,12 @@
 - [A Short History of Color Theory](https://news.ycombinator.com/item?id=23164709)
 - [A tool to sort the named CSS colors in a way that it shows related colors together](https://enes.in/sorted-colors)
 - https://contrast-triangle.com
+- https://adamschwartz.co/magic-of-css/chapters/4-color
 
 ### Measurement units
 
 - http://www.gregoryschmidt.ca/writing/when-is-a-pixel-not-a-pixel-pixels-points-dps
+- https://wattenberger.com/blog/css-percents
 
 ### Properties explained
 
@@ -24,6 +26,7 @@
 - [How They Fit Together: Transform, Translate, Rotate, Scale, and Offset](https://danielcwilson.com/blog/2020/02/motion-path-transforms)
 - https://justmarkup.com/articles/2020-04-15-css-property-in-a-tweet
 - https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements
+- https://ishadeed.com/article/finding-the-root-cause
 
 ### CSS variables
 
@@ -34,6 +37,7 @@
 
 - https://www.learnwithjason.dev/let-s-learn-css-grid
 - [Grid by example, Rachael Andrew](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR)
+- https://piccalil.li/tutorial/build-a-responsive-media-browser-with-css
 
 ### Demos
 

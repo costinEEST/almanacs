@@ -45,6 +45,7 @@
 - https://heartbeat.fritz.ai/integrating-google-sign-in-provider-with-a-react-native-app-a064dd1efaf4
 - https://unicorn-utterances.com/posts/data-storage-options-in-react-native
 - https://blog.usejournal.com/how-i-reduced-my-react-native-v0-63-app-size-from-63mb-to-8-3mb-87-b39af5370fbe
+- https://drop.engineering/demystifying-react-natives-animated-api-part-1-681da7ca4661
 
 ### Debugging
 
@@ -55,6 +56,7 @@
 - https://medium.com/better-programming/4-lesser-known-performance-tips-to-improve-user-experience-in-react-native-apps-6f2dc8c45623
 - https://bullet-train.io/blog/react-native-performance-monitor
 - https://engineering.tableau.com/react-native-performance-learnings-85f47ba38acb
+- [Electron vs C++ vs RN](https://twitter.com/tanaypratap/status/1313309380398391296)
 
 ### Applications
 

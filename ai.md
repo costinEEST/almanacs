@@ -8,6 +8,7 @@
 
 ### References
 
+- https://twitter.com/binitamshah/status/1312760070183153665
 - https://github.com/leandromineti/ml-knowledge-graph
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - https://github.com/zotroneneis/machine_learning_basics
@@ -27,6 +28,7 @@
 - [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)
 - [Recommender systems (or recommendation engines)](https://github.com/grahamjenson/list_of_recommender_systems)
 - [Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.](https://github.com/KartikChugh/Otto)
+- https://calv.info/gpt-3-real-magic + https://twitter.com/calvinfo/status/1286332337563684865
 
 ### Courses
 
@@ -39,6 +41,7 @@
 - [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
 - https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477
 - [JavaScript for Data Science](https://js4ds.org)
+- https://www.freecodecamp.org/news/hands-on-data-science-course
 
 ### Books
 

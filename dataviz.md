@@ -15,6 +15,7 @@
 - http://blog.yasiv.com/2016/04/storytelling-with-data-graph-analysis.html
 - https://www.evelina-judeikyte.com/home/2019-a-year-of-data-viz
 - https://www.amazon.co.uk/Observe-Collect-Draw-Visual-Journal/dp/1616897147
+- https://blog.codinghorror.com/reading-with-edward-tufte + https://medium.com/@karlsluis/beyond-tufte-fd93cbcec6af
 
 ### Courses
 

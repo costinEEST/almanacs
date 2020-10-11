@@ -31,3 +31,7 @@
 - [Biology - PhET Simulations](https://phet.colorado.edu/en/simulations/category/biology)
 - [DNA Learning Center](https://www.google.com/search?q=dna%20learning%20center)
 - https://medium.com/@bert.hubert/dna-the-code-of-life-12db4a17c66d
+
+### Teachers
+
+- https://www.perell.com/podcast/joe-henrich-what-makes-society-smart + http://hci.ucsd.edu/102b/readings/WeirdestPeople.pdf + https://medium.com/conversations-with-tyler/joe-henrich-culture-evolution-weird-psychology-social-norms-9756a97850ce + https://youtu.be/dRUyfW0ECNg

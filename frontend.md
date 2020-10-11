@@ -5,19 +5,6 @@
 - [HTML has native support for autocomplete-style dropdowns attached to inputs via the <datalist> element.](https://twitter.com/TejasKumar_/status/1194689434656088065)
 - [Make a custom select menu](https://twitter.com/scottjehl/status/1225507115172847618)
 
-### Unicode
-
-- https://www.unicode.org/charts/normalization/
-- https://www.compart.com/en/unicode
-- [Query the Unicode database from the command line, with good support for emojis](https://github.com/arp242/uni)
-- [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
-- [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
-- https://twitter.com/clagnut/status/1222148873218658304
-- https://github.com/dannyfritz/commit-message-emoji
-- https://github.com/jcsrb/til/blob/master/unicode/remove-byte-order-mark.md
-- [A database of Apple-supported emojis in JSON format.](https://github.com/meyer/emoji-db)
-- [Convert an emoji text string into space separated unicode values.](https://twitter.com/alvaroefe/status/1246579099209957377)
-
 ### Accessibility
 
 - https://www.edx.org/course/web-accessibility-introduction

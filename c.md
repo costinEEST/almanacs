@@ -30,7 +30,7 @@
 
 ### Compilers
 
-- [A Compiler Writing Journey.](https://github.com/DoctorWkt/acwj)
+- [A Compiler Writing Journey.](https://github.com/DoctorWkt/acwj) + https://twitter.com/binitamshah/status/1312760842119569409
 - https://github.com/seven1m/malcc
 
 ### Virtual machines
@@ -51,3 +51,4 @@
 - https://github.com/reberhardt7/cplayground
 - https://github.com/h0mbre/Learning-C
 - https://github.com/lk-geimfari/awesomo/blob/master/languages/C.md
+- [Operating Systems Fall 2020 (CS 301)](https://nipunbatra.github.io/os2020)

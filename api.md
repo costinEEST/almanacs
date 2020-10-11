@@ -63,6 +63,7 @@ curl v2.wttr.in/Bucharest
 - https://github.com/oldboyxx/Mapped-Country-Language-Codes
 - [Full list of timezones.](https://github.com/dmfilipenko/timezones.json)
 - [A PHP client for Apple's Find My iPhone service.](https://github.com/tylerhall/sosumi)
+- https://github.com/eveporcello/simple-strava-sample + https://moonhighway.com/incorporating-rest-data
 
 ### Languages
 
@@ -83,3 +84,4 @@ curl v2.wttr.in/Bucharest
 - https://github.com/smodnix/31-days-of-API-Security-Tips + https://docs.google.com/spreadsheets/d/1jn3JnWzQFZW41gKo5Fhxwf2ke2w-pvrpCGhBmKhyIBE + https://drive.google.com/file/d/1iMGqUUpaiQrEys4IOETwgxti8AiShomZ/view
 - [A simple node.js module that uses Google Books API to find books by ISBN.](https://github.com/palmerabollo/node-isbn)
 - [Bible API](https://news.ycombinator.com/item?id=23737601)
+- https://github.com/jswest/kiss-list-refresh/blob/master/public/data.json.js

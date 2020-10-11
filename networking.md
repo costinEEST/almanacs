@@ -83,6 +83,7 @@
 
 - https://ieeetv.ieee.org/conference-highlights/integrated-access-and-backhaul-in-5g-navid-abedini-ieee-sarnoff-symposium-2019
 - https://www.cccblog.org/2020/04/01/5g-security-and-privacy-a-research-roadmap
+- https://blog.acolyer.org/2020/10/05/understanding-operational-5g
 
 ### IP
 
@@ -102,6 +103,7 @@
 - https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic
 - [WireHole: Set up Pihole, WireGuard, and Unbound instantly](https://github.com/IAmStoxe/wirehole) + https://news.ycombinator.com/item?id=24425424
 - https://howdns.works/episodes
+- [Scaling the Root of the DNS](https://www.potaroo.net/ispcol/2020-09/root.html)
 
 ### TCP
 
@@ -227,3 +229,4 @@
 - http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers
 - https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio
 - [Getting Fiber to My Town](https://news.ycombinator.com/item?id=24424910)
+- [Easy to use device that connects to a WiFi access point, to become a hotspot.](https://twitter.com/bendechrai/status/1314886551529119744)

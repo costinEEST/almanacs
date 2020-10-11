@@ -57,6 +57,7 @@
 - useAbortController: [tweet](https://twitter.com/kentcdodds/status/1246219272562421760) + [gist](https://gist.github.com/kentcdodds/b36572b6e9227207e6c71fd80e63f3b4)
 - [React Hooks Tutorial | Build Yelp in React - productioncoder](https://www.youtube.com/playlist?list=PL1Nml43UBm6fmZZDeu-FDt5pozS2rSuff)
 - https://dev.to/poeticgeek/concrete-example-for-react-useimperativehandle-52l8
+- [I've never once found a need for useReducer()](https://twitter.com/erikras/status/1314673077070987270)
 
 ### Context API
 
@@ -239,3 +240,4 @@
 - https://github.com/Lemoncode/react-typescript-samples
 - https://daveceddia.com/tailwind-create-react-app
 - https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free
+- https://blog.bitsrc.io/using-service-workers-with-react-27a4c5e2d1a9
