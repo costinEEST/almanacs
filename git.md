@@ -40,6 +40,7 @@
 - https://felixge.de/2013/03/11/the-pull-request-hack
 - https://rahuldkjain.github.io/gh-profile-readme-generator + https://github.com/rahuldkjain/github-profile-readme-generator
 - https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source
+- https://ryangjchandler.co.uk/articles/running-github-actions-for-certain-commit-messages
 
 ### Tools
 

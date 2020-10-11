@@ -65,3 +65,4 @@
 - I Made My Own Image Sensor! (And Digital Camera): [video](https://youtu.be/PaXweP73NT4) + [repo](https://github.com/IdleHandsProject/diycamera)
 - [Peter Hoddie from Moddable presenting SES](https://youtu.be/-2UnCfy5NSs)
 - [IoT.js implementation of WebThing API (based on Mozilla-IoT's webthing-node)](https://github.com/rzr/webthing-iotjs/wiki)
+- [I'm building an IoT solution (consuming sensor data), but can't use MQTT. Is Redis PubSub a valid IoT use case?](https://twitter.com/julian_duque/status/1309514620403679233)

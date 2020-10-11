@@ -100,6 +100,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 ### Latin
 
 - http://alexalejandre.com/language/latin
+- https://en.wikipedia.org/wiki/Otium
 
 ### Tibetan
 

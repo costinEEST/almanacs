@@ -330,6 +330,7 @@
 - [uilicious](https://twitter.com/serrynaimo/status/1217779028838322177)
 - [Testing keyboard, mouse and touch input with JavaScript](http://distributedlife.com/til/testing-input-javascript.html)
 - https://www.testcraft.io/end-to-end-testing
+- https://www.perfecto.io/blog/cypress-vs-selenium-whats-right-cross-browser-testing-solution-you
 
 ### Virtual machines
 
