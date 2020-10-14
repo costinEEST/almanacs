@@ -114,6 +114,7 @@
 - [MUST, SHOULD, DON'T CARE: TCP Conformance in the Wild](https://arxiv.org/abs/2002.05400v1)
 - https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work
 - [Notes on networking observability commnads](https://aunfl0w.github.io/2019/netcommands)
+- [TCP Ports list (3498 ports in list)](https://www.gasmi.net/tcp.php)
 
 ### UDP
 

@@ -99,6 +99,7 @@
 - [We, the Navigators: The Ancient Art of Landfinding in the Pacific - David Lewis](https://www.goodreads.com/book/show/758833.We_the_Navigators)
 - https://en.wikipedia.org/wiki/Mao_Kun_map + https://news.ycombinator.com/item?id=23955026
 - https://dinosaurpictures.org/ancient-earth#400
+- [Map shows every country that the Danube River borders or passes through.](https://twitter.com/simongerman600/status/1315714863516323842) + https://en.wikipedia.org/wiki/A_Time_of_Gifts + https://www.theguardian.com/books/2016/oct/22/why-claudio-magriss-danube-is-a-timely-elegy-for-lost-europe +
 
 ### History
 
@@ -116,6 +117,7 @@
 - https://meltingasphalt.com/what-im-reading
 - https://academyofideas.com/books
 - https://www.sonyasupposedly.com/brutality-books + https://news.ycombinator.com/item?id=24458522
+- https://fermatslibrary.com/s/a-market-economy-in-the-early-roman-empire
 
 ### Mythology
 

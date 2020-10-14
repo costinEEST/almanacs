@@ -7,6 +7,7 @@
 
 - https://github.com/pingcap/talent-plan#series-2-rust-programming
 - [Kosmonaut: web browser from scratch in Rust](https://news.ycombinator.com/item?id=24170201)
+- [TCP/IP Fundamentals](https://lowlvl.org) + https://twitter.com/nbaksalyar/status/1307665001570762752
 
 ### Tutorials
 
@@ -23,6 +24,7 @@
 - [A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.](https://github.com/mre/idiomatic-rust)
 - https://github.com/rust-lang/rustlings
 - [Mal (Make a Lisp) in Rust](https://github.com/seven1m/mal-rust)
+- https://loige.co/learning-rust-through-open-source-and-live-code-reviews
 
 ### Talks
 
@@ -54,3 +56,4 @@
 - https://joeprevite.com/rust-lang-ecosystem
 - https://matklad.github.io//2020/09/20/why-not-rust.html
 - [An opinionated history of programming languages](https://artagnon.com/articles/pl)
+- http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon + https://twitter.com/bcantrill/status/1315342432918097926

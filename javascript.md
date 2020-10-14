@@ -374,6 +374,7 @@
 - https://www.debugbear.com/blog/is-the-web-getting-slower
 - https://github.com/felixturner/three-webpack-boilerplate
 - https://github.com/lukejacksonn/perflink
+- [world smallest office suite](https://zserge.com/posts/awfice)
 
 ### Documentation
 

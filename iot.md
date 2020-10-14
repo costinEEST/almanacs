@@ -39,6 +39,7 @@
 - https://github.com/brandonskerritt/How-I-Hacked-Your-Pi-Hole
 - https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi + https://news.ycombinator.com/item?id=24022751
 - https://felixge.de/2015/03/05/go-raspberry-pi-powered-alarm-clock
+- [Running your own Read Later Service with Raspberry Pi and Pinboard](https://christianhans.info/12791/running-your-own-read-later-service-with-raspberry-pi-and-pinboard)
 
 ### Smartwatch
 

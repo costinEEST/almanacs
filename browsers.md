@@ -132,6 +132,7 @@ javascript: (() =>
 - [Extract relative urls from a heap snapshot](https://github.com/smiegles/extract-relative-url-heapsnapshot)
 - [A tool to capture communication between Chromium processes on Windows in real-time using Wireshark, by capturing data sent over named pipes.](https://github.com/tomer8007/chromium-ipc-sniffer)
 - [Hidden Features of Chrome DevTools](https://martinheinz.dev/blog/33)
+- https://www.mattzeunert.com/2016/03/17/devtools-never-pause-here.html
 
 ### Brave
 

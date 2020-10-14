@@ -7,6 +7,7 @@
 ### Color
 
 - https://colornamer.netlify.com
+- https://www.w3.org/TR/css-color-4/#valdef-color-aliceblue
 - [Overly descriptive color palettes.](https://colors.lol) inspired by https://github.com/joemfox/colorschemer
 - [Calico is a small utility written in Haskell which is cat but for colors.](https://github.com/ix/calico)
 - [A Short History of Color Theory](https://news.ycombinator.com/item?id=23164709)

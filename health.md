@@ -224,6 +224,7 @@
 ### Miscellaneous
 
 - [Lifestyle & Disease -History of preventive medicine - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z_1YOf0VfvSOAJ2wsTr9tg)
+- https://singularityhub.com/2020/10/13/scientists-found-a-new-way-to-control-the-brain-with-light-no-surgery-required
 
 ### DYI
 

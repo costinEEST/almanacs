@@ -58,6 +58,7 @@
 - [React Hooks Tutorial | Build Yelp in React - productioncoder](https://www.youtube.com/playlist?list=PL1Nml43UBm6fmZZDeu-FDt5pozS2rSuff)
 - https://dev.to/poeticgeek/concrete-example-for-react-useimperativehandle-52l8
 - [I've never once found a need for useReducer()](https://twitter.com/erikras/status/1314673077070987270)
+- https://www.benmvp.com/blog/four-characters-optimize-react-component
 
 ### Context API
 
@@ -164,6 +165,7 @@
 - [The trading client GUI is a single page app (SPA) built using Typescript, React, Redux and Styled components.](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)
 - https://www.sitepoint.com/replace-redux-react-hooks-context-api
 - https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines
+- https://dev.to/dabit3/react-state-6-ways-2bem
 
 ### Packages
 
