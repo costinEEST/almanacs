@@ -42,3 +42,4 @@
 - https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954
 - https://johnopdenakker.com/how-to-control-your-online-exposure
 - https://rolisz.ro/2020/04/11/moving-away-from-gmail + https://news.ycombinator.com/item?id=22843326
+- https://www.freecodecamp.org/news/white-pages-removal-remove-information-spokeo-peoplefinder-whitepages-opt-out +

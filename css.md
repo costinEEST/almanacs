@@ -29,6 +29,10 @@
 - https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements
 - https://ishadeed.com/article/finding-the-root-cause
 
+### Pseudo classes
+
+- [Giving users and developers more control over focus](https://blog.chromium.org/2020/09/giving-users-and-developers-more.html)
+
 ### CSS variables
 
 - https://increment.com/frontend/a-users-guide-to-css-variables
@@ -50,6 +54,7 @@
 
 - https://courses.kevinpowell.co/courses/conquering-responsive-layouts
 - https://moderncss.dev
+- https://kilianvalkhof.com/2020/css-html/full-bleed-layout-using-simple-css
 
 ### Tools
 

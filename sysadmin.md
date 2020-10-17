@@ -46,6 +46,8 @@
 - https://crypt.codemancers.com/posts/2020-04-27-encrypting-and-storing-kubernetes-secrets-in-git
 - https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular
 - A Kubernetes node connectivity monitoring tool: https://github.com/Stono/kconmon + https://twitter.com/karlstoney/status/1279754867876286464
+- https://www.freecodecamp.org/news/course-on-docker-and-kubernetes
+- [Single-package fully conformant lightweight Kubernetes that works on 42 flavours of Linux.](https://github.com/ubuntu/microk8s)
 
 ### Servers
 

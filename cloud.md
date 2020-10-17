@@ -30,6 +30,7 @@
 - [.. Github API to collect metrics on the Node.js runtime to correlate it with survey in a Google Form. It is hosted on a Google Cloud Function.](https://github.com/asrivas/work-less-do-more)
 - https://medium.com/google-cloud/no-localhost-no-problem-using-google-cloud-shell-as-my-full-time-development-environment-22d5a1942439
 - https://medium.com/python-for-the-utopian/how-to-setup-gsuite-when-your-domain-is-at-zeit-co-600f98801e6b
+- https://www.freecodecamp.org/news/google-cloud-platform-from-zero-to-hero
 
 ### IBM
 

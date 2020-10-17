@@ -172,6 +172,7 @@
 - [Platon, Phaidros sau Despre frumos](https://humanitas.ro/assets/pdf/Platon_Phaidros.pdf)
 - [Platon - Phaidon](https://humanitas.ro/assets/pdf/Platon_Phaidon.pdf)
 - https://www.notion.so/A-Beginner-s-Guide-to-becoming-a-First-Principles-Thinker-637ab7236c8f49978f37457fa565edba + https://mobile.twitter.com/ayushswrites/status/1300482237683478529
+- [History of Philosophy - Summarized & Visualized](https://www.denizcemonduygu.com/philo) + https://twitter.com/denizcemonduygu/status/1049634375313309696
 
 ### Build
 

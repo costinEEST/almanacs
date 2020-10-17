@@ -12,6 +12,7 @@
 ### Opinions
 
 - https://kevq.uk/the-case-for-wordpress
+- https://w3c.studio24.net/updates/on-not-choosing-wordpress
 
 ### Plugins
 

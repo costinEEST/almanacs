@@ -13,6 +13,7 @@
 ### Accessibility
 
 - https://www.paciellogroup.com/the-history-of-digital-accessibility-and-why-it-matters
+- https://blog.sapegin.me/all/accessibility-testing
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUcrZXXM8kDBaIVx1N66ZX_p
 - https://github.com/coryhouse/a11y
 - [Accessability by Daniel Persson](https://www.youtube.com/playlist?list=PLP2v7zU48xOLvqCvx7KoA9wfu4gbWta37)

@@ -1,6 +1,6 @@
 ### Books
 
-- https://www.ldeming.com/how-to-help
+- https://www.ldeming.com/how-to-help + https://ldeming.posthaven.com/tips-for-newcomers-to-longevity-biotech + https://twitter.com/LauraDeming/status/1317248506738868225
 - [Biology Is Technology: The Promise, Peril, and New Business of Engineering Life](https://www.amazon.com/Biology-Technology-Promise-Business-Engineering/dp/0674060156)
 - https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078 + [Human Behavioral Biology (Robert Sapolsky)](https://www.youtube.com/playlist?list=PL150326949691B199)
 - http://index-of.co.uk/Bio-Informatics
