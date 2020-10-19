@@ -32,6 +32,7 @@
 ### Pseudo classes
 
 - [Giving users and developers more control over focus](https://blog.chromium.org/2020/09/giving-users-and-developers-more.html)
+- https://matthiasott.com/notes/focus-visible-is-here + https://twitter.com/m_ott/status/1314917091523342338
 
 ### CSS variables
 

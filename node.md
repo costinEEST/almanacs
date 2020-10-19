@@ -28,6 +28,7 @@
 
 - [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
 - https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing-in-nodejs
+- https://twitter.com/loige/status/1312531675109232640
 
 ### Cheat sheets
 
@@ -63,9 +64,10 @@
 
 - https://davidhettler.net/blog/event-loop-lag
 
-### .stream()
+### Streams
 
 - [Stream into the Future - Matteo Collina, NearForm](https://youtu.be/dEFdt_6fW-0)
+- https://twitter.com/djgrant_/status/1296395202056327172
 
 ### Tools
 
