@@ -36,6 +36,7 @@
 - https://github.com/dexteryy/spellbook-of-modern-webdev#nodejs
 - https://github.com/ArturJS/nodejs-certification-preparation
 - https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners
+- [Project for learning Node.js internals](https://github.com/danbev/learning-nodejs)
 
 ### Boilerplate
 
@@ -55,6 +56,7 @@
 - https://www.joyent.com/blog/walmart-node-js-memory-leak
 - [Profile & Analyze Node.js Applications.](https://gioyik.com/s/profile-analyze-nodejs-applications)
 - [JS Memory Analysor is a tool to detect memory leaks for Javascript/NodeJS.](https://github.com/alibaba/JS-Memory-Analysor)
+- https://github.com/lrlna/sketchin/blob/master/guides/tracing.md
 
 ### Internals
 
@@ -63,11 +65,13 @@
 ### Event loop
 
 - https://davidhettler.net/blog/event-loop-lag
+- https://github.com/lrlna/sketchin/blob/master/zines/js-event-loop.md
 
 ### Streams
 
 - [Stream into the Future - Matteo Collina, NearForm](https://youtu.be/dEFdt_6fW-0)
 - https://twitter.com/djgrant_/status/1296395202056327172
+- https://github.com/lrlna/sketchin/blob/master/guides/node-streams.md
 
 ### Tools
 

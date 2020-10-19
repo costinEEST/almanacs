@@ -112,3 +112,4 @@
 - [Automated program analysis of software](https://twitter.com/seanhn/status/1306709517602824193)
 - [The Hitchhiker’s Guide to Compression](https://go-compression.github.io)
 - https://github.com/Droogans/unmaintainable-code
+- https://github.com/danbev/learning-quantum-computing

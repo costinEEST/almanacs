@@ -73,6 +73,7 @@
 - https://medium.com/@bluepnume/how-many-keywords-can-you-place-in-a-row-in-javascript-fa9046b4c1ff
 - https://www.reddit.com/r/Slackers/comments/ex5mmt/cool_ways_to_generate_strings_in_javascript
 - https://github.com/madhadron/mvc_for_the_web
+- https://github.com/danbev/learning-js
 
 ### Books
 
@@ -178,6 +179,7 @@
 ### new ArrayBuffer()
 
 - [Is there a way to compress an array buffer in js in the browser those days without having a pure js implementation (by using browser)?](https://twitter.com/Vjeux/status/1239176661133742083)
+- https://github.com/lrlna/sketchin/blob/master/guides/typed-arrays.md
 
 ### new SharedArrayBuffer()
 
@@ -331,6 +333,7 @@
 - [Testing keyboard, mouse and touch input with JavaScript](http://distributedlife.com/til/testing-input-javascript.html)
 - https://www.testcraft.io/end-to-end-testing
 - https://www.perfecto.io/blog/cypress-vs-selenium-whats-right-cross-browser-testing-solution-you
+- [Using deferred promise to test websockets](https://gist.github.com/sibelius/ffa492c5b08eb11d1d818374150a3295) + https://twitter.com/sseraphini/status/1318241910738325510
 
 ### Virtual machines
 

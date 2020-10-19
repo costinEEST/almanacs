@@ -21,6 +21,8 @@
 - https://github.com/hex13/javascript-visual-explanations#javascript-engines
 - https://deepu.tech/memory-management-in-v8
 - https://twitter.com/awesomekling/status/1314552767021813760
+- https://github.com/danbev/learning-v8
+- https://github.com/danbev/learning-libuv
 
 ### Exploits
 

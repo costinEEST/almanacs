@@ -60,6 +60,7 @@
 
 - https://github.com/riyazwalikar/injection-attacks-nosql-talk
 - [A Primer on the DynamoDB NoSQL database.](https://www.dynamodbguide.com)
+- https://github.com/lrlna/sketchin/blob/master/zines/mongodb101.md
 
 ### Relational databases
 

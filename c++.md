@@ -2,7 +2,6 @@
 
 - [HNTerm is a small console application written in C++ for browsing Hacker News. ](https://github.com/ggerganov/imtui/tree/master/examples/hnterm)
 
-
 ### talks
 
 - https://github.com/hellerve/programming-talks#c-1
@@ -20,6 +19,7 @@
 ### References
 
 - https://github.com/AnthonyCalandra/modern-cpp-features
+- https://github.com/danbev/learning-cpp
 
 ### Implementations
 

@@ -52,3 +52,4 @@
 - https://github.com/h0mbre/Learning-C
 - https://github.com/lk-geimfari/awesomo/blob/master/languages/C.md
 - [Operating Systems Fall 2020 (CS 301)](https://nipunbatra.github.io/os2020)
+- https://github.com/danbev/learning-c

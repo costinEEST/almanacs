@@ -8,6 +8,7 @@
 ### Courses
 
 - https://github.com/pventuzelo/wasm_workshop
+- https://github.com/danbev/learning-wasi
 
 ### Articles
 

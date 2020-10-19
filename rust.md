@@ -25,6 +25,8 @@
 - https://github.com/rust-lang/rustlings
 - [Mal (Make a Lisp) in Rust](https://github.com/seven1m/mal-rust)
 - https://loige.co/learning-rust-through-open-source-and-live-code-reviews
+- https://github.com/lrlna/sketchin#zines
+- https://github.com/danbev/learning-rust
 
 ### Talks
 

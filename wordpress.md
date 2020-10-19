@@ -23,3 +23,4 @@
 
 - https://github.com/kacperszurek/presentations/blob/master/WordCamp-Polska-2015-WordPress-security-in-examples.pdf
 - [Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp.](https://github.com/kacperszurek/burp_wp)
+- [A Wordpress Honeypot](https://github.com/gbrindisi/wordpot)
