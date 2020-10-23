@@ -31,6 +31,7 @@
 - https://lab.wallarm.com/graphql-batching-attack
 - https://gitlab.com/dee-see/graphql-path-enum + https://blog.deesee.xyz/graphql/security/2020/04/13/graphql-permission-testing.html
 - https://github.com/APIs-guru/graphql-apis
+- https://github.com/sibelius/relay-workshop/tree/master/solutions
 
 ### gRPC
 

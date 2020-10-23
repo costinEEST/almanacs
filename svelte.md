@@ -26,3 +26,4 @@
 
 - [Why Svelte is our choice for a large web project in 2020.](https://github.com/feltcoop/why-svelte)
 - https://www.ryanprior.com/posts/svelte-is-unappealing
+- https://www.swyx.io/svelte-sites-react-apps

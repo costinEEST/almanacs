@@ -34,3 +34,7 @@
 ### Keith Rabois
 
 - https://medium.com/@rabois/reading-list-604c88ecefa4
+
+### Rory Sutherland
+
+- https://www.edge.org/conversation/rory_sutherland-things-to-hang-on-your-mental-mug-tree + https://www.youtube.com/watch?v=uHbdFn9UyDY + https://youtu.be/zUeJoS3cTu8

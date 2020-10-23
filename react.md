@@ -60,6 +60,7 @@
 - https://dev.to/poeticgeek/concrete-example-for-react-useimperativehandle-52l8
 - [I've never once found a need for useReducer()](https://twitter.com/erikras/status/1314673077070987270)
 - https://www.benmvp.com/blog/four-characters-optimize-react-component
+- https://jclem.net/posts/pan-zoom-canvas-react
 
 ### Context API
 
@@ -70,6 +71,7 @@
 - [Performant, scalable, testable and resilient state management using the Context API.](https://www.vorillaz.com/the-art-of-state-management)
 - [What’s your favorite resource for understanding React component composition to avoid prop drilling and managing shared state in complex components?](https://twitter.com/jhooks/status/1251636235375800320)
 - https://academy.nomadcoders.co/p/antiredux-new-react-context-api
+- https://jclem.net/posts/building-a-router-in-react
 
 ### Components
 
@@ -97,6 +99,7 @@
 - [Advanced memoization and effects in React.](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
 - [Accept `children` as a function (a.k.a. render props) and `as` prop](https://twitter.com/diegohaz/status/1236383871580717056)
 - https://github.com/Lemoncode/render-props-typescript
+- https://github.com/danburzo/react-recipes
 
 ### Concurrent Mode/Suspense
 
@@ -220,6 +223,7 @@
 - https://github.com/Loeka1234/typescript-url-shortener-frontend
 - https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutorial-building-firebase-chat-app-react-hooks
 - [I created an open-source alternative to Google Analytics using React, Redux and Next](https://github.com/mikecao/umami) + https://medium.com/@caozilla/how-i-wrote-umami-in-30-days-a290372b80e4
+- [Plain-text note-taking app for the web with Markdown support.](https://github.com/taniarascia/takenote)
 
 ### Testing
 
@@ -244,3 +248,4 @@
 - https://daveceddia.com/tailwind-create-react-app
 - https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free
 - https://blog.bitsrc.io/using-service-workers-with-react-27a4c5e2d1a9
+- https://www.smashingmagazine.com/2020/10/tasks-react-app-web-workers

@@ -47,6 +47,10 @@
 - https://blog.usejournal.com/how-i-reduced-my-react-native-v0-63-app-size-from-63mb-to-8-3mb-87-b39af5370fbe
 - https://drop.engineering/demystifying-react-natives-animated-api-part-1-681da7ca4661
 
+### Packages
+
+- https://github.com/mmazzarolo/react-native-dialog
+
 ### Debugging
 
 - [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://www.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)

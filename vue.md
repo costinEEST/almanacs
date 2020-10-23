@@ -9,3 +9,4 @@
 ### Opinions
 
 - https://bypaulshen.com/posts/comparing-vue-and-react
+- https://hswolff.com/blog/what-vuejs-does-better-than-react

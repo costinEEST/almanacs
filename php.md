@@ -16,6 +16,7 @@
 - [PHP Secure Configuration Checker.](https://github.com/sektioneins/pcc)
 - [Laravel setup using Docker - Andrew Schmelyun](https://www.youtube.com/playlist?list=PL36CGZHZJqsWXjf4GeQBLUl7CK1dodKuC)
 - [A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems.](https://github.com/gellin/bantam)
+- https://www.codediesel.com/php/quickly-extract-urls-from-a-xml-sitemap-file
 
 ### Vulnerable functions
 
@@ -36,3 +37,4 @@
 - [A simple URL shortener for PHP](https://github.com/mikecao/shorty)
 - https://wildbit.com/blog/2016/11/01/how-we-chose-craft-cms-for-products-websites
 - https://github.com/tylerhall/simple-php-framework
+- https://www.freecodecamp.org/news/create-an-mvc-framework-from-scratch-with-php
