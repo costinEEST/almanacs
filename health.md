@@ -125,7 +125,7 @@
 - [În București: mai există alte restaurante keto/low carb, în afară de MASA - CASA ?](https://www.facebook.com/groups/755526297805685/permalink/3902770676414549)
 - [The Magic Pill (2017)](https://www.netflix.com/ro-en/title/80238655)
 - https://www.udemy.com/course/ketosis-and-if-for-fat-loss/?referralCode=92E9B7EAFC36975B08A0
-- https://www.amazon.com/Ketones-Fourth-Fuel-Warburg-Fountain-ebook/dp/B08G8TFQKS
+- https://www.amazon.com/Ketones-Fourth-Fuel-Warburg-Fountain-ebook/dp/B08G8TFQKS + https://youtu.be/9ler8ksUAfE + https://twitter.com/briannastubbs/status/1225209323522936832 + https://medium.com/@travischristofferson/richard-bud-veech-the-unknown-scientist-behind-the-ketogenic-diet-craze-dies-at-84-ff1f7c9b91ea + https://youtu.be/WV_jip-Yhe4
 - [Biomarkers, Metabolism, Biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9x2q-9uV9zcGfQ6Pi6Oj-_s)
 
 ### Mushrooms

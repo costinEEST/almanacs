@@ -11,6 +11,7 @@
 - https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn
 - https://webkit.org/blog/10855/async-clipboard-api
 - https://formidable.com/blog/2020/resize-observer
+- https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web + https://twitter.com/webkit/status/1318256785447211009
 
 ### Engines
 

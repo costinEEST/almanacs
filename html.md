@@ -59,6 +59,7 @@
 - https://allthetags.com
 - https://www.goodemailcode.com
 - https://meiert.com/en/blog/minimal-web-development
+- https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 
 ### Security
 

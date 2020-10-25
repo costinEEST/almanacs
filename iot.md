@@ -1,6 +1,7 @@
 ### Courses
 
 - [Internet of Things: Foundations and Applications (2015)](http://dret.net/lectures/iot-spring15)
+- https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems
 
 ### Arduino
 
@@ -67,3 +68,4 @@
 - [Peter Hoddie from Moddable presenting SES](https://youtu.be/-2UnCfy5NSs)
 - [IoT.js implementation of WebThing API (based on Mozilla-IoT's webthing-node)](https://github.com/rzr/webthing-iotjs/wiki)
 - [I'm building an IoT solution (consuming sensor data), but can't use MQTT. Is Redis PubSub a valid IoT use case?](https://twitter.com/julian_duque/status/1309514620403679233)
+- https://jaycarlson.net/embedded-linux + https://twitter.com/jaydcarlson/status/1316917799755960320

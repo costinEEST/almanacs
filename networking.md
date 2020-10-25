@@ -162,6 +162,9 @@
 - https://www.infoq.com/news/2020/01/http-3-status
 - [A QUIC look at HTTP/3](https://lwn.net/SubscriberLink/814522/ab3bfaa8f75c60ce)
 - https://www.bram.us/2020/04/08/how-to-enable-http3-in-chrome-firefox-safari
+- https://engineering.fb.com/networking-traffic/how-facebook-is-bringing-quic-to-billions
+- https://scorpil.com/post/the-long-road-to-http3
+- https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp
 
 ### Secure Shell
 

@@ -33,6 +33,7 @@
 ### TIL
 
 - https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx
+- [git diff --color-moved](https://twitter.com/rsms/status/1317189664936128512)
 
 ### Github
 
