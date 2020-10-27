@@ -3,6 +3,7 @@
 - [Web Animation Essentials: CSS Animations and Transitions](https://courses.rachelnabors.com/courses/16861)
 - [Website Deconstructions - Ihatetomatoes](https://www.youtube.com/playlist?list=PLkEZWD8wbltl7OXS1CipiXZ0QjYEl5bL2)
 - [Why CSS ::before doesn't work on inputs and images](https://webplatform.news/issues/2020-08-26)
+- https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web
 
 ### Color
 
@@ -41,9 +42,11 @@
 
 ### CSS grid
 
+- https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo
 - https://www.learnwithjason.dev/let-s-learn-css-grid
 - [Grid by example, Rachael Andrew](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR)
 - https://piccalil.li/tutorial/build-a-responsive-media-browser-with-css
+- https://frontend.horse/articles/thinking-outside-the-box-with-css-grid
 
 ### Demos
 

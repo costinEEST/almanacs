@@ -32,6 +32,7 @@
 - https://blog.robenkleene.com/2020/09/21/the-era-of-visual-studio-code
 - https://www.toptal.com/visual-studio/vscode-tips-power-users
 - https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour
+- https://twitter.com/SaraSoueidan/status/1320644057228595200
 
 ### tmux
 

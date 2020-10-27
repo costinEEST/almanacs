@@ -1,3 +1,7 @@
+### Books
+
+- https://github.com/preslavmihaylov/booknotes/tree/master/java/java-concurrency-in-practice
+
 ### Courses
 
 - https://hyperskill.org/onboarding/?track=java
