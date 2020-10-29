@@ -3,6 +3,11 @@
 - [T12t](https://us14.campaign-archive.com/home/?u=23907132d7bd3ae259858b057&id=b8c09bd7b1)
 - [Nielsen Norman Group](https://us4.campaign-archive.com/home/?u=538d934a891681a5d850bb4e5&id=7f29a2b335)
 
+### Artificial intelligence
+
+- [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)
+- []()
+
 ### Business
 
 - [Sergiu Biriș](https://us20.campaign-archive.com/home/?u=7fc44f22e7fb41560c5ec4a08&id=e046ca20a2)
@@ -41,10 +46,6 @@
 ### Web performance
 
 - [Perf.mail from Calibre](https://us2.campaign-archive.com/home/?u=9067434ef642e9c92aa7453d2&id=7cba5dc7bd)
-
-### Artificial intelligence
-
-- [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)
 
 ### Writing
 

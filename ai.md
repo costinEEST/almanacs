@@ -5,6 +5,7 @@
 - Chip Huyen: [Twitter](https://twitter.com/chipro), [Linkedin](https://www.linkedin.com/in/chiphuyen/)
 - https://interestingengineering.com/robert-downey-jrs-series-on-ai-is-available-on-youtube-right-now
 - [Joscha Bach: Artificial Consciousness and the Nature of Reality](https://news.ycombinator.com/item?id=23923183)
+- [Jürgen Schmidhuber](https://twitter.com/SchmidhuberAI)
 
 ### References
 
@@ -22,6 +23,7 @@
 - https://github.com/src-d/awesome-machine-learning-on-source-code
 - https://github.com/mrdbourke/machine-learning-roadmap
 - https://medium.com/javascript-in-plain-english/ml-for-js-devs-in-10-minutes-46794782762e
+- https://twitter.com/EmilWallner/status/1301565902765293574
 
 ### Tools
 
@@ -56,6 +58,7 @@
 - https://github.com/lyhue1991/eat_tensorflow2_in_30_days
 - https://mentorcruise.com/books/ml + https://news.ycombinator.com/item?id=23997301
 - https://builtin.com/data-science/data-science-books + https://news.ycombinator.com/item?id=23936249
+- https://twitter.com/EmilWallner/status/1314581326209613826
 
 ### Videos
 
@@ -93,3 +96,4 @@
 - https://medium.com/analytics-vidhya/sentiment-analysis-of-restaurant-reviews-542727dc24e2
 - [Build a DIY license plate reader with machine learning](https://github.com/cortexlabs/cortex/tree/master/examples/tensorflow/license-plate-reader) + https://news.ycombinator.com/item?id=24493248
 - [A curated list of awesome machine learning projects built with Google's Teachable Machine.](https://github.com/SashiDo/awesome-teachable-machine)
+- [ML Art - A curated showcase of creative machine learning artworks and projects](https://mlart.co)

@@ -11,6 +11,7 @@
 - https://web.archive.org/web/20150610200755/http://11thmuse.com/Taragot.pdf
 - http://diy-fever.com/reviews/guitar-reviews
 - [Nahre Sol (piano)](https://www.youtube.com/c/NahreSol/playlists)
+- http://www.pianopractice.org
 
 ### Tools
 

@@ -27,6 +27,8 @@
 - https://loige.co/learning-rust-through-open-source-and-live-code-reviews
 - https://github.com/lrlna/sketchin#zines
 - https://github.com/danbev/learning-rust
+- https://fasterthanli.me/series/making-our-own-executable-packer
+- https://fasterthanli.me/series/making-our-own-ping
 
 ### Talks
 
