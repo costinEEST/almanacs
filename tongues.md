@@ -80,6 +80,10 @@
 
 ### German
 
+### Greek
+
+- http://persarazvan.blogspot.com/p/studiu-limbi-clasice.html
+
 ### Hungarian
 
 http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
@@ -101,6 +105,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 
 - http://alexalejandre.com/language/latin
 - https://en.wikipedia.org/wiki/Otium
+- https://twitter.com/philip_mcneill/status/1322524744755875840
 
 ### Tibetan
 

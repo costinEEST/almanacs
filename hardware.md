@@ -23,6 +23,8 @@
 - https://github.com/maldroid/hardware-hacking + https://maldroid.github.io/hardware-hacking
 - https://github.com/geohot/fromthetransistor
 - https://www.linkedin.com/posts/omutlu_digital-design-computer-architecture-lecture-activity-6712019755299028993-u0vz
+- [18-642 Embedded System Software Engineering, Fall 2020 | Prof. Philip Koopman](https://course.ece.cmu.edu/~ece642)
+- [OS Internals and Deep Your Understanding of x86 Architecture also a good prepare for Hypervisors](https://twitter.com/astrovax_/status/1320526877442846720) + http://opensecuritytraining.info/IntroX86.html + https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177
 
 ### Playground
 

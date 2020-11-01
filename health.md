@@ -196,6 +196,7 @@
 - [Virology Lectures 2020 - Vincent Racaniello](https://www.youtube.com/playlist?list=PLGhmZX2NKiNldpyRUBBEzNoWL0Cso1jip)
 - https://www.alexirpan.com/2020/05/17/corona-chernobyl.html
 - https://mailchi.mp/667e9af04cfa/spitting-image?e=12229ba061 + https://www.protocols.io/workspaces/coronavirus-method-development-community + https://youtu.be/CbzwyigvfRY
+- [Judy A. Mikovits](https://twitter.com/o_rips/status/1320587067601031169)
 
 ### Radiation
 

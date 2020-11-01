@@ -171,6 +171,7 @@
 - https://www.sitepoint.com/replace-redux-react-hooks-context-api
 - https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines
 - https://dev.to/dabit3/react-state-6-ways-2bem
+- https://daveceddia.com/freebies/guide-to-react-state-management.pdf
 
 ### Packages
 

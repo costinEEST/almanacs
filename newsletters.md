@@ -42,6 +42,7 @@
 - [Growing with the Web by Daniel Imms](https://us3.campaign-archive.com/home/?u=81a68a3e0636ace89d3b470e3&id=1d3b725b48)
 - [Python Monthly](https://zerotomastery.io/blog/?tag=PM)
 - [Web Developer Monthly](https://zerotomastery.io/blog/?tag=WDM)
+- [Web Component Bytes by Chris Haynes](https://tinyletter.com/wcbytes/archive)
 
 ### Web performance
 

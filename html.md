@@ -45,6 +45,7 @@
 ### Tools
 
 - https://lab.html5test.com
+- https://livedom.lab.xss.academy + https://twitter.com/SecurityMB/status/1318988961990193153
 
 ### TV
 

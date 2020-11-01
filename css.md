@@ -4,6 +4,7 @@
 - [Website Deconstructions - Ihatetomatoes](https://www.youtube.com/playlist?list=PLkEZWD8wbltl7OXS1CipiXZ0QjYEl5bL2)
 - [Why CSS ::before doesn't work on inputs and images](https://webplatform.news/issues/2020-08-26)
 - https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web
+- https://ferrumpipe.com
 
 ### Color
 
@@ -64,6 +65,7 @@
 
 - [Creating tiny zines using HTML/CSS layout.](https://github.com/trueskawka/css-zines)
 - [An extensive list of CSS/JS browserhacks from all over the interwebs.](https://github.com/4ae9b8/browserhacks)
+- https://www.magicpattern.design/tools/css-backgrounds
 
 ### TV
 

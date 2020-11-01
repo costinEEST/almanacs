@@ -23,6 +23,7 @@
 - https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
 - https://github.com/raphamorim/algorithms-playground
 - https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day
+- https://shihn.ca/posts/2020/roughjs-algorithms
 
 ### Data structures
 
@@ -320,6 +321,7 @@
 - [WCFactory - Bryan Ollendyke](https://www.youtube.com/playlist?list=PLJQupiji7J5cAv7Jfr1V8FvUTx_jJrmCl)
 - https://github.com/mateusortiz/webcomponents-the-right-way
 - https://blog.bitsrc.io/web-component-why-you-should-stick-to-react-c56d879a30e1
+- https://twitter.com/btopro/status/1224356404380733440
 
 ### Testing
 
