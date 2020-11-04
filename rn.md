@@ -3,6 +3,7 @@
 - https://github.com/tiaanduplessis/awesome-react-native-talks
 - [The App - William Candillon](https://www.youtube.com/playlist?list=PLkOyNuxGl9jz8XYVtbZzwc8tiBas9Zde-)
 - https://blog.bam.tech/developer-news/what-to-watch-react-native-europe-2020
+- https://www.reactnativeradio.com/episodes/177-challenges-of-building-rn-apps-in-ios-vs-android
 
 ### Courses
 
@@ -46,6 +47,8 @@
 - https://unicorn-utterances.com/posts/data-storage-options-in-react-native
 - https://blog.usejournal.com/how-i-reduced-my-react-native-v0-63-app-size-from-63mb-to-8-3mb-87-b39af5370fbe
 - https://drop.engineering/demystifying-react-natives-animated-api-part-1-681da7ca4661
+- https://thepaulo.medium.com/a-simple-continuous-deployment-of-a-react-native-app-to-google-play-bda85eaa954c
+- https://mmazzarolo.com/blog/2020-10-24-adding-react-native-web
 
 ### Packages
 

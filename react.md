@@ -172,6 +172,7 @@
 - https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines
 - https://dev.to/dabit3/react-state-6-ways-2bem
 - https://daveceddia.com/freebies/guide-to-react-state-management.pdf
+- https://changelog.com/posts/when-and-when-not-to-reach-for-redux
 
 ### Packages
 
@@ -226,6 +227,7 @@
 - https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutorial-building-firebase-chat-app-react-hooks
 - [I created an open-source alternative to Google Analytics using React, Redux and Next](https://github.com/mikecao/umami) + https://medium.com/@caozilla/how-i-wrote-umami-in-30-days-a290372b80e4
 - [Plain-text note-taking app for the web with Markdown support.](https://github.com/taniarascia/takenote)
+- https://github.com/jsolano/react-sudoku-solver
 
 ### Testing
 
@@ -251,3 +253,4 @@
 - https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free
 - https://blog.bitsrc.io/using-service-workers-with-react-27a4c5e2d1a9
 - https://www.smashingmagazine.com/2020/10/tasks-react-app-web-workers
+- https://marlom.dev/upgrade-to-react-17-and-webpack-5

@@ -6,6 +6,7 @@
 - https://interestingengineering.com/robert-downey-jrs-series-on-ai-is-available-on-youtube-right-now
 - [Joscha Bach: Artificial Consciousness and the Nature of Reality](https://news.ycombinator.com/item?id=23923183)
 - [Jürgen Schmidhuber](https://twitter.com/SchmidhuberAI)
+- https://twitter.com/svpino/status/1320722226069573634
 
 ### References
 
@@ -24,6 +25,8 @@
 - https://github.com/mrdbourke/machine-learning-roadmap
 - https://medium.com/javascript-in-plain-english/ml-for-js-devs-in-10-minutes-46794782762e
 - https://twitter.com/EmilWallner/status/1301565902765293574
+- https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+- https://towardsdatascience.com/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f
 
 ### Tools
 

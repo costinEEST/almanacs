@@ -15,6 +15,7 @@
 - https://medium.com/@WebReflection/a-basic-weakmap-performance-hint-e33c14908dff
 - https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c
 - [Accelerating JavaScript (in the browser)](https://hyphaebeast.club/writing/accelerating-js)
+- https://www.chandlerprall.com/post/request-animation-frame-is-not-your-logics-friend
 
 ### Algorithms
 
@@ -24,6 +25,7 @@
 - https://github.com/raphamorim/algorithms-playground
 - https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day
 - https://shihn.ca/posts/2020/roughjs-algorithms
+- https://github.com/excelbrium/algorithms-and-data-structures + https://www.notion.so/JS-Knowledge-5b3b764a595e4494beed9aa96d707efb
 
 ### Data structures
 
@@ -249,6 +251,7 @@
 - [xor](https://twitter.com/rauschma/status/1218579324976140288)
 - https://dmitripavlutin.com/swap-variables-javascript/#4-bitwise-xor-operator
 - https://chrisrng.svbtle.com/bitwise-operators-in-javascript
+- https://dev.to/oliverjumpertz/xor-bitwise-xor-and-using-it-to-solve-an-algorithm-challenge-14oa
 
 ### optional chaining operator
 
@@ -379,7 +382,6 @@
 - https://www.debugbear.com/blog/is-the-web-getting-slower
 - https://github.com/felixturner/three-webpack-boilerplate
 - https://github.com/lukejacksonn/perflink
-- [world smallest office suite](https://zserge.com/posts/awfice)
 
 ### Documentation
 

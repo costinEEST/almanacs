@@ -38,3 +38,7 @@
 ### Rory Sutherland
 
 - https://www.edge.org/conversation/rory_sutherland-things-to-hang-on-your-mental-mug-tree + https://www.youtube.com/watch?v=uHbdFn9UyDY + https://youtu.be/zUeJoS3cTu8
+
+### Edsger W. Dijkstra
+
+- https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders

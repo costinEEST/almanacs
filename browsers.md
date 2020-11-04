@@ -105,6 +105,7 @@
 - https://chromeextensionkit.com + https://news.ycombinator.com/item?id=24423023
 - [Chrome extension that helps you learn a language without even trying.](https://jointoucan.com)
 - [Really simple and secure ads blocking for Chrome](https://github.com/petrkle/block-it-yourself)
+- https://mmazzarolo.com/blog/2020-08-29-jira-express
 
 ### Bookmarklets
 
@@ -121,6 +122,7 @@ javascript: (() =>
 - https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii
 - https://alan.norbauer.com/articles/bookcision
 - https://emanuelduss.ch/2020/06/humble-book-bundle-download-bookmarklet
+- [world smallest office suite](https://zserge.com/posts/awfice)
 
 ### Chrome
 
