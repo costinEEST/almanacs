@@ -24,6 +24,7 @@
 - https://khalilstemmler.com/articles/domain-driven-design-intro + https://github.com/stemmlerjs/white-label
 - https://www.freecodecamp.org/news/learn-the-pern-stack-full-course
 - https://github.com/cmda-bt/be-course-17-18
+- https://jamesqquick.hashnode.dev/build-an-authenticated-jamstack-app-with-nextjs-airtable-tailwind-css-and-auth0
 
 ### Books
 

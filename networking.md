@@ -79,6 +79,7 @@
 - http://k0lwc.com/new-ham-radio-onboard-the-iss-is-on-the-air + https://news.ycombinator.com/item?id=24484336
 - https://www.universal-sci.com/headlines/2018/10/25/it-could-be-possible-to-transfer-data-through-gravitational-waves + https://twitter.com/binitamshah/status/1310189410990747649
 - https://victoria.dev/blog/wpa-key-wpa2-wpa3-and-wep-key-wi-fi-security-explained
+- - https://www.theverge.com/2019/8/12/20800798/tesla-model-3-rfid-chip-keycard-amiedd-video-watch-body-hacking-body-modification
 
 ### 5G
 

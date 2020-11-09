@@ -49,6 +49,7 @@
 - https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun + https://news.ycombinator.com/item?id=23888923
 - http://www.ganssle.com
 - [Nvidia to Acquire Arm for \$40B](https://news.ycombinator.com/item?id=24464807)
+- https://chrissymorgan.co.uk/2020/11/07/dvr-security-evolution
 
 ### TV
 

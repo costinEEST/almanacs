@@ -47,6 +47,7 @@
 - [Emacs](emacs.md)
 - [F#](f#.md)
 - [Figma](figma.md)
+- [File formats](document.md)
 - [Flutter](flutter.md)
 - [Front-end development](frontend.md)
 - [Furniture](furniture.md)
