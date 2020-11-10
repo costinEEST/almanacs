@@ -68,3 +68,20 @@
 - https://research.securitum.com/marginwidth-marginheight-the-unexpected-cross-origin-communication-channel
 - https://blog.bhanuteja.dev/noopener-noreferrer-and-nofollow-when-to-use-them-how-can-these-prevent-phishing-attacks-ckdzyjvqa0057des1hyyo3sfy
 - [mailto:?attach](https://mobile.twitter.com/jensvoid/status/1295357952480751616)
+
+### Unicode
+
+- [Using untranslatable Unicode in place of a "?" when attacking URL parsers for SSRF/OAuth issues.](https://twitter.com/samwcyo/status/1246997498981494784)
+- https://medium.com/swlh/hacking-the-web-with-unicode-73d0f0c97aab
+- https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses
+- https://www.unicode.org/charts/normalization/
+- https://www.compart.com/en/unicode
+- [Query the Unicode database from the command line, with good support for emojis](https://github.com/arp242/uni)
+- [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
+- [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
+- https://twitter.com/clagnut/status/1222148873218658304
+- https://github.com/dannyfritz/commit-message-emoji
+- https://github.com/jcsrb/til/blob/master/unicode/remove-byte-order-mark.md
+- [A database of Apple-supported emojis in JSON format.](https://github.com/meyer/emoji-db)
+- [Convert an emoji text string into space separated unicode values.](https://twitter.com/alvaroefe/status/1246579099209957377)
+- https://parkerhiggins.net/2013/01/writing-the-prince-symbol-in-unicode

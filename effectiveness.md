@@ -77,6 +77,7 @@
 - [How to Enable VLC's Best Hidden Features](https://lifehacker.com/the-best-hidden-features-of-vlc-1654434241)
 - https://www.toolboxtoolbox.com
 - https://www.metabeta.com/articles/starter-kit-for-startups-looking-to-automate-operations
+- https://www.freecodecamp.org/news/learn-microsoft-excel
 
 ### Books
 

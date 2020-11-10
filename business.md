@@ -53,6 +53,7 @@
 - https://awesometalks.party/category/company-culture
 - https://awesometalks.party/category/agile
 - [Do you know any SaaS businesses that have been equally public with their company culture and published a company manual?](https://twitter.com/arvidkahl/status/1213506047341715457)
+- https://www.fastcompany.com/90572511/6-must-read-books-for-startup-leaders-navigating-the-pandemic
 
 ### Startups
 

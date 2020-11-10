@@ -9,3 +9,4 @@
 ### Extensions
 
 - https://blog.silentsignal.eu/2020/05/04/decrypting-and-analyzing-https-traffic-without-mitm + https://m1el.github.io/oculus-tls-extract
+- https://github.com/wagiro/BurpBounty + https://twitter.com/egarme/status/1002078124014821377 + https://burpbounty.net/wp-content/uploads/2020/10/BurpBounty_Ekoparty_2020_ENG.pdf

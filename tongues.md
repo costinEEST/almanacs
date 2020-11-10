@@ -106,6 +106,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - http://alexalejandre.com/language/latin
 - https://en.wikipedia.org/wiki/Otium
 - https://twitter.com/philip_mcneill/status/1322524744755875840
+- [Emblems of love, in four languages : dedicated to the ladies](https://archive.org/details/emblemsofloveinf00ayre)
 
 ### Tibetan
 

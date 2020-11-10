@@ -19,6 +19,7 @@
 - https://github.com/nikgraf/2020-05-react-advanced
 - https://www.contentful.com/developers/videos/learn-graphql
 - https://www.freecodecamp.org/news/learn-how-to-use-react-and-graphql-to-make-a-full-stack-social-network
+- https://www.freecodecamp.org/news/solidify-your-react-skills-by-building-15-projects
 
 ### Boilerplate
 

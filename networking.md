@@ -80,6 +80,7 @@
 - https://www.universal-sci.com/headlines/2018/10/25/it-could-be-possible-to-transfer-data-through-gravitational-waves + https://twitter.com/binitamshah/status/1310189410990747649
 - https://victoria.dev/blog/wpa-key-wpa2-wpa3-and-wep-key-wi-fi-security-explained
 - - https://www.theverge.com/2019/8/12/20800798/tesla-model-3-rfid-chip-keycard-amiedd-video-watch-body-hacking-body-modification
+- https://github.com/koutto/pi-pwnbox-rogueap/wiki
 
 ### 5G
 
@@ -92,6 +93,7 @@
 - https://github.com/jbranchaud/til/blob/master/devops/resolve-the-public-ip-of-a-url.md + https://stackoverflow.com/a/44372558
 - https://github.com/jbranchaud/til/blob/master/devops/path-of-the-packets.md
 - https://medium.com/lotus-fruit/socket-programming-the-bizarre-tcp-ip-port-0-saga-cafc82252923
+- https://samy.pl/slipstream + https://twitter.com/samykamkar/status/1322671073893126144 + https://youtu.be/1Ajwdb2kqWk + https://youtu.be/8cXOERg-soY
 
 ### Domain Name System
 

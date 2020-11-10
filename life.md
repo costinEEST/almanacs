@@ -47,6 +47,8 @@
 - https://www.amazon.com/Paramagnetism-Rediscovering-Natures-Secret-Growth-ebook/dp/B00V5K0WVG
 - https://www.technologynetworks.com/applied-sciences/videos/chernobyl-fungus-eats-nuclear-radiation-via-radiosynthesis-338464
 - [Scientists find 'secret molecule' that allows bacteria to exhale electricity](https://www.livescience.com/electron-breathing-geobacter-microbes.html)
+- [Ernst Haeckel's Kunstformen der Natur (Artforms of Nature) (1904)](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
+- [U.S. Department of Agriculture (USDA) Pomological Watercolor Collection](https://usdawatercolors.nal.usda.gov/pom/home.xhtml)
 
 ### Chemistry
 
