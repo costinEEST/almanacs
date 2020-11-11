@@ -2,6 +2,7 @@
 
 - [Complete Intro to React v5](https://btholt.github.io/complete-intro-to-react-v5/)
 - https://github.com/kentcdodds/advanced-react-patterns-v2
+- https://github.com/eggheadio/eggheadio-course-notes/tree/master/simplify-react-apps-with-react-hooks
 - https://github.com/r31gN/grasping-react-basics + https://github.com/r31gN/advanced-react
 - https://github.com/tylermcginnis/react-course
 - https://github.com/sibelius/relay-modern-course
@@ -25,6 +26,7 @@
 
 - https://github.com/nice-boys/product-boilerplate
 - https://github.com/dasmata/styleguide
+- [Folder structure](https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346)
 
 ### Books
 

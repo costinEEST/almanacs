@@ -77,7 +77,8 @@
 - https://www.reddit.com/r/Slackers/comments/ex5mmt/cool_ways_to_generate_strings_in_javascript
 - https://github.com/madhadron/mvc_for_the_web
 - https://github.com/danbev/learning-js
-- https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please/
+- https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please
+- https://abdulapopoola.com/2020/11/11/avoid-bugs-by-understanding-hole-processing-in-js-arrays
 
 ### Books
 

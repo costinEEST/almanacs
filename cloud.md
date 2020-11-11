@@ -32,6 +32,7 @@
 - https://medium.com/python-for-the-utopian/how-to-setup-gsuite-when-your-domain-is-at-zeit-co-600f98801e6b
 - https://www.freecodecamp.org/news/google-cloud-platform-from-zero-to-hero
 - [How to start a tech startup for \$0 with Google Cloud Platform and other services](https://geshan.com.np/blog/2020/10/start-tech-startup)
+- https://www.protocol.com/kelsey-hightower-google-cloud
 
 ### IBM
 

@@ -73,6 +73,7 @@
 - https://github.com/kdn251/interviews
 - [Nodebook - Multi-Lang Web REPL + CLI Code runner](https://github.com/netgusto/nodebook)
 - https://evaluate.underjord.io/web
+- https://interviews.school
 
 ### Practice
 
@@ -113,3 +114,4 @@
 - [The Hitchhiker’s Guide to Compression](https://go-compression.github.io)
 - https://github.com/Droogans/unmaintainable-code
 - https://github.com/danbev/learning-quantum-computing
+- https://github.com/nocomplexity/ArchitecturePlaybook

@@ -18,7 +18,7 @@
 - https://github.com/a0viedo/demystifying-js-engines
 - https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers
 - https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers
-- https://github.com/thlorenz/v8-perf
+- [Notes and resources related to V8 and thus Node.js performance.](https://github.com/thlorenz/v8-perf)
 - https://github.com/hex13/javascript-visual-explanations#javascript-engines
 - https://deepu.tech/memory-management-in-v8
 - https://twitter.com/awesomekling/status/1314552767021813760

@@ -24,6 +24,7 @@
 - https://github.com/alrra/browser-logos
 - [Turn real code into faux code.](https://github.com/knutsynstad/faux-code-generator)
 - https://css-tricks.com/heres-how-i-solved-a-weird-bug-using-tried-and-true-debugging-strategies
+- [How to work with SVG icons](https://fvsch.com/svg-icons)
 
 ### Tools
 

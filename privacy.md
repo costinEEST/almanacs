@@ -43,3 +43,4 @@
 - https://johnopdenakker.com/how-to-control-your-online-exposure
 - https://rolisz.ro/2020/04/11/moving-away-from-gmail + https://news.ycombinator.com/item?id=22843326
 - https://www.freecodecamp.org/news/white-pages-removal-remove-information-spokeo-peoplefinder-whitepages-opt-out +
+- [@BotSentinel - just enter an account handle and it instantly analyses their tweets, giving an assessment of the extent to which it is questionable, disruptive or problematic account.](https://twitter.com/docrussjackson/status/1323246492304506880)

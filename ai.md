@@ -34,6 +34,7 @@
 - [Recommender systems (or recommendation engines)](https://github.com/grahamjenson/list_of_recommender_systems)
 - [Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.](https://github.com/KartikChugh/Otto)
 - https://calv.info/gpt-3-real-magic + https://twitter.com/calvinfo/status/1286332337563684865
+- [Smart Upscaler can upscale images up to 3000x3000px.](https://icons8.com/upscaler)
 
 ### Courses
 

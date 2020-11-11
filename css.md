@@ -16,6 +16,7 @@
 - [A tool to sort the named CSS colors in a way that it shows related colors together](https://enes.in/sorted-colors)
 - https://contrast-triangle.com
 - https://adamschwartz.co/magic-of-css/chapters/4-color
+- https://twitter.com/bucciblog/status/1325851426527080448
 
 ### Measurement units
 
@@ -66,6 +67,7 @@
 - [Creating tiny zines using HTML/CSS layout.](https://github.com/trueskawka/css-zines)
 - [An extensive list of CSS/JS browserhacks from all over the interwebs.](https://github.com/4ae9b8/browserhacks)
 - https://www.magicpattern.design/tools/css-backgrounds
+- https://patrickbrosset.com/articles/2016-05-27-visual-Tools--Prototyping-in-the-browser
 
 ### TV
 

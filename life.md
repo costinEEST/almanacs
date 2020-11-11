@@ -65,6 +65,7 @@
 - [Chemistry - PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry)
 - https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms
 - https://pt.kle.cz/en_US/index.html + https://github.com/petrkle/periodic-table
+- https://en.wikipedia.org/wiki/The_Periodic_Table_%28short_story_collection%29
 
 ### Physics
 
