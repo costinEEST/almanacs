@@ -13,7 +13,7 @@
 - https://nathandavison.com/blog/exploiting-email-address-parsing-with-aws-ses
 - [Understanding Isolates: The Future of Programming](https://twitter.com/eastdakota/status/1224555855493746688)
 - [How to run up an IoT MQTT cloud based system, including sensors, database and a website, in a short time.](https://www.hackster.io/claudiuivan1/mqtt-broker-for-real-time-data-db28d4)
-- https://www.marcolancini.it/2020/blog-mapping-moving-clouds-with-cartography
+- https://www.marcolancini.it/2020/blog-mapping-moving-clouds-with-cartography + https://eng.lyft.com/iam-whatever-you-say-iam-febce59d1e3b + https://www.youtube.com/watch?v=ZukUmZSKSek + https://www.slideshare.net/ErkangZheng/overcoming-the-old-ways-of-working-with-devsecops-culture-data-graph-and-query
 - [Build an auto-updating Excel spreadsheet with stock market data using Python, AWS, and the API for the IEX stock exchange.](https://www.freecodecamp.org/news/auto-updating-excel-python-aws)
 - [Building cmdchallenge using Lambda and API Gateway in the AWS free-tier with Docker and Go](https://www.jarv.org/building-cmdchallenge.html)
 - https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide

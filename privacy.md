@@ -22,6 +22,8 @@
 - [ZOOM monitors the activity on your computer and collects data on the programs running and captures which window you have focus on.](https://twitter.com/Ouren/status/1241398181205889024)
 - [Private Kit: Safe Paths- Can we slow the spread without giving up individual privacy? ](http://safepaths.mit.edu)
 - https://www.obsessivefacts.com/blog/2020-04-04-the-javascript-black-hole.html + https://news.ycombinator.com/item?id=22805239
+- [automated censorship evasion for the client-side and server-side](https://github.com/Kkevsterrr/geneva) + https://geneva.cs.umd.edu/posts/server-side
+- [Wheregoes - A tool for tracing the redirect path of URLs](https://wheregoes.com)
 
 ### Techniques
 

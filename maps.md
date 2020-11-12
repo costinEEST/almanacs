@@ -1,6 +1,7 @@
 ### Courses
 
 - [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
+- https://twitter.com/undertheraedar/status/1240191782790496256
 
 ### Demos
 

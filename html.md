@@ -37,6 +37,7 @@
 ### Progressive Enhancement
 
 - https://gomakethings.com/progressive-enhancement-graceful-degradation-and-asynchronously-loading-css
+- https://quii.dev/How_my_website_works
 
 ### Radio
 

@@ -44,6 +44,7 @@
 - https://www.udemy.com/course/kubernetesmastery/?referralCode=7E09090AF9B79E6C283F
 - Command and KubeCTL. Real-World Kubernetes Security for Pentesters - [repo](https://github.com/antitree/cmd_and_kubectl_demos) + [slides](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg)
 - [Kubernetes & Containers - IBM Developer Romania meetup](https://www.slideshare.net/secret/I2R9szfsFOo9xz)
+- https://www.marcolancini.it/2018/blog-learn-kubernetes
 - https://www.marcolancini.it/2019/blog-deploy-kubernetes-lab + https://github.com/marco-lancini/offensive-infrastructure
 - https://crypt.codemancers.com/posts/2020-04-27-encrypting-and-storing-kubernetes-secrets-in-git
 - https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular
@@ -51,6 +52,7 @@
 - https://www.freecodecamp.org/news/course-on-docker-and-kubernetes
 - [Single-package fully conformant lightweight Kubernetes that works on 42 flavours of Linux.](https://github.com/ubuntu/microk8s)
 - https://www.antitree.com/2020/11/when-list-is-a-lie-in-kubernetes
+- https://github.com/gosoon/source-code-reading-notes
 
 ### Servers
 

@@ -12,12 +12,13 @@
 - https://webkit.org/blog/10855/async-clipboard-api
 - https://formidable.com/blog/2020/resize-observer
 - https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web + https://twitter.com/webkit/status/1318256785447211009
+- https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html
 
 ### Engines
 
 - https://github.com/a0viedo/demystifying-js-engines
 - https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers
-- https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers
+- https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers + https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode
 - [Notes and resources related to V8 and thus Node.js performance.](https://github.com/thlorenz/v8-perf)
 - https://github.com/hex13/javascript-visual-explanations#javascript-engines
 - https://deepu.tech/memory-management-in-v8

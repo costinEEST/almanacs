@@ -8,6 +8,7 @@
 - [GoLD stack (Golang, Lambda and DynamoDB)](https://dev.to/prozz/introduction-to-the-gold-stack-5b66)
 - https://golangbot.com/learn-golang-series
 - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine
+- https://github.com/quii/learn-go-with-tests
 
 ### Courses
 
@@ -56,3 +57,4 @@
 
 - https://github.com/trailofbits/not-going-anywhere
 - https://github.com/lojikil/kyoto-go-nihilism
+- https://posts.specterops.io/malware-development-pt-1-dynamic-module-loading-in-go-1121f07f3a5a

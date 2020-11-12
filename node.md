@@ -99,6 +99,7 @@
 - [Node.js library to bypass cloudflare's anti-ddos page.](https://github.com/codemanki/cloudscraper)
 - [Search your starred repositories on GitHub for a keyword.](https://github.com/Link-/starred_search)
 - https://maximorlov.com/pm2-to-docker-automatic-restarts
+- https://blog.bitsrc.io/npm-clients-that-are-better-than-the-original-cd54ed0f5fe7
 
 ### Testing
 
@@ -156,6 +157,7 @@
 - https://levelup.gitconnected.com/anonymous-web-scrapping-with-node-js-tor-apify-and-cheerio-3b36ec6a45dc
 - https://www.twilio.com/blog/4-tools-for-web-scraping-in-node-js
 - [Scrapes the web serial Worm and its sequel Ward into an eBook format.](https://github.com/domenic/worm-scraper)
+- https://www.openfaas.com/blog/puppeteer-scraping
 
 ### Micro services
 
@@ -183,6 +185,7 @@
 - [Express.js web security challenge](https://twitter.com/gynvael/status/1260499214225809409) + https://oshogbo.vexillium.org/blog/76
 - https://github.com/adamtlangley/Data-Over-DNS
 - [Hacking with Environment Variables](https://www.elttam.com/blog/env)
+- https://www.loginradius.com/engineering/blog/using-pgp-encryption-with-nodejs
 
 ### Static site generators
 

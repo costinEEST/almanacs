@@ -16,6 +16,7 @@
 ### Tools
 
 - https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9
+- https://www.onlinemusictools.com
 
 ### References
 

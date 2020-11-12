@@ -82,6 +82,7 @@
 - - https://www.theverge.com/2019/8/12/20800798/tesla-model-3-rfid-chip-keycard-amiedd-video-watch-body-hacking-body-modification
 - https://github.com/koutto/pi-pwnbox-rogueap/wiki
 - [RF data exfiltration from airgapped systems using Ethernet cable as an antenna, and nic as modulator, receiver at 100m.](https://github.com/sq5bpf/etherify) + https://lipkowski.com/etherify + https://twitter.com/dragosr/status/1325828826404802566
+- https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727
 
 ### 5G
 

@@ -72,3 +72,7 @@
 ### Tools
 
 - https://vimtricks.substack.com/archive
+
+### Politics
+
+- [A newsletter by Bill Bishop, an expert on Chinese politics.](https://sinocism.com/archive) + https://twitter.com/niubi

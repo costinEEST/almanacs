@@ -6,6 +6,7 @@
 
 - https://github.com/hellerve/programming-talks#c-1
 - [C++ for Hackers](https://twitter.com/jalospinoso/status/1216416792635232256)
+- https://media.ccc.de/v/34c3-8848-type_confusion_discovery_abuse_and_protection
 
 ### Books
 
