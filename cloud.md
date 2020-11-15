@@ -23,7 +23,7 @@
 ### Google Cloud
 
 - https://github.com/gregsramblings/google-cloud-4-words
-- [Set up a free server](https://twitter.com/s0md3v/status/1212115426697547777)
+- [Set up a free server](https://twitter.com/s0md3v/status/1212115426697547777) + https://dev.to/phocks/how-to-get-a-free-google-server-forever-1fpf
 - [Firebase app architectures, languages, tools & some GCP things! ](https://github.com/jthegedus/firebase-gcp-examples)
 - https://medium.com/@Philmod/npm-release-automation-adb970e49066
 - https://medium.com/google-cloud/code-coverage-on-google-cloud-build-7fcf1b67f182

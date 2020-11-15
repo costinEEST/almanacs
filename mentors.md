@@ -35,6 +35,10 @@
 
 - https://medium.com/@rabois/reading-list-604c88ecefa4
 
+### Kevin Kelly
+
+- https://www.perell.com/podcast/kevin-kelly-seeing-the-future +https://youtu.be/ynt37tTdvGU
+
 ### Rory Sutherland
 
 - https://www.edge.org/conversation/rory_sutherland-things-to-hang-on-your-mental-mug-tree + https://www.youtube.com/watch?v=uHbdFn9UyDY + https://youtu.be/zUeJoS3cTu8

@@ -52,6 +52,7 @@
 - https://cstheory.stackexchange.com/questions/4074/what-lecture-notes-should-everyone-read
 - https://medium.com/@hinchman_amanda/null-pointer-references-the-billion-dollar-mistake-1e616534d485 + https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare
 - https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license
+- https://begriffs.com/posts/2020-08-31-portable-stable-software.html
 
 ### Should know
 
