@@ -7,6 +7,7 @@
 - [Remix Icon - Open source icon library](https://remixicon.com)
 - https://github.com/mono-company/mono-icons
 - https://github.com/bytedance/IconPark
+- https://phosphoricons.com
 
 ### Tutorials
 

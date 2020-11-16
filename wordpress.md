@@ -1,6 +1,7 @@
 ### Boilerplate
 
 - https://github.com/razvanFrandes/wp_default
+- https://github.com/colbyfayock/next-wordpress-starter
 
 ### Videos
 

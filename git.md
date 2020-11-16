@@ -29,6 +29,7 @@
 - https://ses4j.github.io/2020/04/01/git-alias-recent-branches
 - https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
 - https://www.welcometothejungle.com/en/articles/btc-history-git
+- https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git
 
 ### TIL
 
