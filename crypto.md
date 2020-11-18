@@ -50,6 +50,7 @@
 - [S(T|N)ARKs.](https://twitter.com/mstrakastrak/status/1215099753991569409)
 - https://github.com/lrlna/sketchin/blob/master/guides/libsodium.md
 - https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110
+- [Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography](https://martin.kleppmann.com/papers/curve25519.pdf)
 
 ### Books
 

@@ -86,3 +86,4 @@ curl v2.wttr.in/Bucharest
 - [A simple node.js module that uses Google Books API to find books by ISBN.](https://github.com/palmerabollo/node-isbn)
 - [Bible API](https://news.ycombinator.com/item?id=23737601)
 - https://github.com/jswest/kiss-list-refresh/blob/master/public/data.json.js
+- [A demo app that showcases some of Typesense's features using the MusicBrainz songs database.](https://github.com/typesense/showcase-songs-search)

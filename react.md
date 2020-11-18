@@ -66,6 +66,9 @@
 - https://www.benmvp.com/blog/four-characters-optimize-react-component
 - https://jclem.net/posts/pan-zoom-canvas-react
 - [useHeight](https://twitter.com/devongovett/status/1327247372179689473)
+- [Dancing between state and effects - a real-world use case](https://github.com/facebook/react/issues/15240)
+- https://github.com/slorber/use-async-setState
+- https://blog.axlight.com/posts/how-i-developed-react-hooks-for-web-workers
 
 ### Context API
 
