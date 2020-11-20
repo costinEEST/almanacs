@@ -31,12 +31,16 @@
 - [Teach Yourself Logic: A Study Guide](https://www.logicmatters.net/tyl) + https://en.wikipedia.org/wiki/How_to_Solve_It + https://www.edx.org/course/paradox-and-infinity + https://omereingold.wordpress.com/cs-154-introduction-to-automata-and-complexity-theory
 - https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf + https://news.ycombinator.com/item?id=24194543
 - https://www.basicbooks.com/titles/sabine-hossenfelder/lost-in-math/9781541646766 + http://backreaction.blogspot.com/2020/06/physicists-still-lost-in-math.html
+- https://www.neilwithdata.com/mathematics-self-learner
 
 ### Courses
 
 - https://github.com/Developer-Y/math-science-video-lectures#mathematics
 - https://github.com/ossu/computer-science#core-math + https://github.com/ossu/computer-science#advanced-math
 - https://twitter.com/FedericoArdila/status/1241414233444810753 + https://www.youtube.com/user/federicoelmatematico/playlists
+- [Cambridge Mathematics Lecture Notes](https://github.com/dalcde/cam-notes)
+- [Notes for courses taken at Harvard (2015--2019)](https://github.com/Dongryul-Kim/harvard_notes)
+- http://abel.math.harvard.edu/pamphlets/courses.html
 
 ### Videos
 

@@ -91,6 +91,7 @@
 
 - https://en.wikipedia.org/wiki/Prisoners_of_Geography
 - [The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower ](https://www.goodreads.com/book/show/20696000-the-hundred-year-marathon)
+- [Technics and Civilization - Lewis Mumford](https://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273)
 
 ### Innovators
 

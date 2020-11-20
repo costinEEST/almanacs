@@ -8,6 +8,7 @@
 - https://github.com/mono-company/mono-icons
 - https://github.com/bytedance/IconPark
 - https://phosphoricons.com
+- [Free SVG icons for popular brands](http://simpleicons.org)
 
 ### Tutorials
 

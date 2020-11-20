@@ -138,6 +138,7 @@
 - https://www.foragingwildmushrooms.com/
 - https://inquisitivebiologist.com/2020/10/02/book-review-entangled-life-how-fungi-make-our-worlds-change-our-minds-and-shape-our-futures + https://www.youtube.com/user/merlinsheldrake/playlists
 - https://www.youtube.com/user/radmycology/playlists + https://chthaeus.com/collections/books-1/products/radical-mycology-a-treatise-on-seeing-working-with-fungi
+- https://www.mycoworks.com/resources
 
 ### Tea
 

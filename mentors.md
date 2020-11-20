@@ -18,6 +18,7 @@
 - [John Berardi](https://www.precisionnutrition.com/6-books-on-coaching)
 - https://www.cnbc.com/2020/09/18/bill-gates-difference-between-elon-musk-and-steve-jobs-as-leaders.html
 - https://www.vox.com/the-goods/2020/9/18/18253896/ruth-bader-ginsburg-style-size
+- https://en.wikipedia.org/wiki/List_of_autodidacts
 
 ### Aaron Swartz
 

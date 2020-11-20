@@ -121,6 +121,7 @@
 - https://academyofideas.com/books
 - https://www.sonyasupposedly.com/brutality-books + https://news.ycombinator.com/item?id=24458522
 - https://fermatslibrary.com/s/a-market-economy-in-the-early-roman-empire
+- [A History of Private Life, Volume I: From Pagan Rome to Byzantium](https://www.amazon.com/History-Private-Life-Pagan-Byzantium/dp/0674399749)
 
 ### Mythology
 
@@ -221,6 +222,7 @@
 - https://www.youtube.com/channel/UCqLLqbclDQ6IQg39Wsgy-4w/playlists
 - https://www.youtube.com/playlist?list=PLVWaFpMwtaGiBxi79IUqnqn67WF5g5PR4
 - https://www.youtube.com/results?search_query=svidler+chess24+playlist
+- https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years + https://news.ycombinator.com/item?id=25108800
 
 ### Golf
 

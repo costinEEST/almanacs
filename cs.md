@@ -116,3 +116,4 @@
 - https://github.com/Droogans/unmaintainable-code
 - https://github.com/danbev/learning-quantum-computing
 - https://github.com/nocomplexity/ArchitecturePlaybook
+- [How Aristotle Created the Computer](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697)

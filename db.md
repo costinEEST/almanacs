@@ -8,6 +8,7 @@
 - [beginners](https://twitter.com/samerbuna/status/1183771023054987264)
 - [Advanced SQL and database books and resources](https://news.ycombinator.com/item?id=23138297)
 - [The DynamoDB Book: Data Modeling with NoSQL and DynamoDB](https://news.ycombinator.com/item?id=23193093)
+- https://www.neilwithdata.com/advanced-sql
 
 ### Courses
 
@@ -80,6 +81,8 @@
 - https://knowledgepill.it/posts/postgresql-basics-guide
 - [Self-taught webdev with lots of free time. What should I learn?](https://news.ycombinator.com/item?id=24130286)
 - [Postgres Observability](https://pgstats.dev)
+- https://tomcam.github.io/postgres + https://news.ycombinator.com/item?id=25113440
+- https://postgresqlco.nf/en/doc/param + https://news.ycombinator.com/item?id=25024224
 
 ### Real-time databases
 

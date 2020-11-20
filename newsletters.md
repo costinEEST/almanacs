@@ -53,6 +53,10 @@
 
 - https://www.writethedocs.org/blog/archive/tag/newsletter
 
+### Ecology
+
+- [Carbon Removal Updates](https://tito.co/archive) + https://coda.io/@tito/carbon-removal-101
+
 ### Health
 
 - [Quantified Bob Updates](https://us12.campaign-archive.com/home/?u=96812e559fe41fd1b9fd55794&id=edb4b26575)

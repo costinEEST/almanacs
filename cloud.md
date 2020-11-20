@@ -19,6 +19,7 @@
 - https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide
 - [How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
 - https://www.freecodecamp.org/news/how-to-make-a-store-in-one-day-aws-react-stripe
+- https://frantic.im/back-to-rails + https://news.ycombinator.com/item?id=25100397
 
 ### Google Cloud
 

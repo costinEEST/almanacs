@@ -5,6 +5,7 @@
 - https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078 + [Human Behavioral Biology (Robert Sapolsky)](https://www.youtube.com/playlist?list=PL150326949691B199)
 - http://index-of.co.uk/Bio-Informatics
 - https://inquisitivebiologist.com/2019/08/16/book-review-unravelling-the-double-helix-the-lost-heroes-of-dna
+- https://jsomers.net/i-should-have-loved-biology + https://news.ycombinator.com/item?id=25136422
 
 ### Courses
 
@@ -31,6 +32,7 @@
 - [Biology - PhET Simulations](https://phet.colorado.edu/en/simulations/category/biology)
 - [DNA Learning Center](https://www.google.com/search?q=dna%20learning%20center)
 - https://medium.com/@bert.hubert/dna-the-code-of-life-12db4a17c66d
+- https://a16z.com/2019/10/28/biology-eating-world-a16z-manifesto + https://news.ycombinator.com/item?id=21385796
 
 ### Teachers
 

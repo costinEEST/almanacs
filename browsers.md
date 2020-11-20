@@ -182,6 +182,7 @@ javascript: (() =>
 - https://github.com/whatismyinternalip/whatismyinternalip.github.io
 - [The various ways your RTC may be crushed; a presentation on RTC DoS attacks - Enable Security](https://www.youtube.com/playlist?list=PLfoovPTqAipVGa__xPSatN9qKC22nTKl7)
 - https://twitter.com/iggredible/status/1300240215789821954
+- [browser-based internal network scanner that detects victim's LAN IP (loops back via WebRTC)](http://samy.pl/webscan) + https://twitter.com/samykamkar/status/1329124348779667456
 
 ### WebGL
 

@@ -19,3 +19,7 @@
 ### TV
 
 - https://somethingaboutmaps.wordpress.com/2020/03/19/how-to-do-map-stuff
+
+### Miscellaneous
+
+- https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01

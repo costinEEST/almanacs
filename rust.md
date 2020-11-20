@@ -3,6 +3,10 @@
 - https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust + (https://news.ycombinator.com/item?id=22818150)
 - http://rcvalle.blog/2020/09/16/rust-lang-exploit-mitigations
 
+### Books
+
+https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=25122178
+
 ### Courses
 
 - https://github.com/pingcap/talent-plan#series-2-rust-programming

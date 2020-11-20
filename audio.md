@@ -21,6 +21,7 @@
 - https://ourmachinery.com/post/writing-a-low-level-sound-system
 - [16,000 BBC Sound Effects (WAV format)](http://bbcsfx.acropolis.org.uk)
 - https://dwayne.xyz/post/audio-visualizations-web-audio-api
+- [Digital sound processing tutorial for the braindead!](http://yehar.com/blog/?p=121) + https://news.ycombinator.com/item?id=25024835
 
 ### Tools
 
