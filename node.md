@@ -225,3 +225,4 @@
 - [How I write backends.](https://github.com/fpereiro/backendlore)
 - https://github.com/IonicaBizau/learning-nodejs
 - [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+- [Scripting Languages I: Node.js, Python, PHP, Ruby](https://hyperpolyglot.org/scripting)

@@ -32,6 +32,8 @@
 - https://www.smarthomebeginner.com/run-pihole-in-docker-on-ubuntu-with-reverse-proxy
 - https://knowledgebase.veeral-patel.com/docker%20+%20kubernetes/docker-security
 - https://geshan.com.np/blog/2020/10/docker-build-example-faster-docker-build
+- https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman
+- https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code
 
 ### Kubernetes
 
@@ -53,6 +55,7 @@
 - [Single-package fully conformant lightweight Kubernetes that works on 42 flavours of Linux.](https://github.com/ubuntu/microk8s)
 - https://www.antitree.com/2020/11/when-list-is-a-lie-in-kubernetes
 - https://github.com/gosoon/source-code-reading-notes
+- https://www.datadoghq.com/container-report
 
 ### Servers
 
@@ -94,3 +97,4 @@
 ### Site Reliability Engineering
 
 - [Techniques and numbers for estimating system's performance from first-principles.](https://github.com/sirupsen/napkin-math)
+- https://www.gremlin.com/community/tutorials/chaos-engineering-tools-comparison

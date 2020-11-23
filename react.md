@@ -69,6 +69,7 @@
 - [Dancing between state and effects - a real-world use case](https://github.com/facebook/react/issues/15240)
 - https://github.com/slorber/use-async-setState
 - https://blog.axlight.com/posts/how-i-developed-react-hooks-for-web-workers
+- [useEffectCallback custom hook is super helpful when you need to use callback props as dependencies on useEffect and other hooks](https://twitter.com/diegohaz/status/1324168516061245441) + https://codesandbox.io/s/react-useeffectcallback-yimwp
 
 ### Context API
 

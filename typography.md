@@ -13,6 +13,7 @@
 - [Pretty cool alternative collection of fonts.](https://typespecimens.io)
 - https://app.programmingfonts.org
 - https://vanschneider.com/the-best-totally-free-web-fonts-typefaces
+- [List of fonts for coding](https://github.com/Gaafar/dev-fonts)
 
 ### Tools
 

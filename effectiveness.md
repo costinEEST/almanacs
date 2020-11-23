@@ -5,6 +5,7 @@
 - [Typey Type for Stenographers.](https://didoesdigital.com/typey-type)
 - https://github.com/manfredschulenburg/rasyti
 - https://www.artofchording.com + https://news.ycombinator.com/item?id=24182336
+- https://vasilishynkarenka.com/how-to-type-3x-faster
 
 ### Searching
 
@@ -129,12 +130,6 @@
 - [Notes on WWHF Workshop ‘How To How-To’](https://ianlee1521.com/2020/03/13/wwhf-how-to-howto)
 - https://github.com/mnielsen/notes-on-writing
 - https://www.freecodecamp.org/news/how-to-improve-your-cover-letter
-
-### Drawing
-
-- [Keys to Drawing by Bert Dodson](https://youtu.be/df9OewgNbiI)
-- https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box
-- [Is it possible to write a lecture in real time on an iPad?](https://twitter.com/math3ma/status/1237510003856003072)
 
 ### Learning
 

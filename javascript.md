@@ -79,6 +79,7 @@
 - https://github.com/danbev/learning-js
 - https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please
 - https://abdulapopoola.com/2020/11/11/avoid-bugs-by-understanding-hole-processing-in-js-arrays
+- https://programming-idioms.org/cheatsheet/JS
 
 ### Books
 

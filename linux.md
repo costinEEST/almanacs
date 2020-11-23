@@ -74,3 +74,4 @@
 
 - [How can a intermediate-beginner learn Unix/Linux and programming?](https://news.ycombinator.com/item?id=22649291)
 - [Why I Prefer systemd Timers Over Cron](https://trstringer.com/systemd-timer-vs-cronjob)
+- [Moving from MacBook to Linux](https://monadical.com/posts/moving-to-linux-desktop.html)

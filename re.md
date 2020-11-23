@@ -9,6 +9,7 @@
 - [How to hack a TV and a cable remote control to listen to anyone's conversation at home](https://twitter.com/binitamshah/status/1314571634750058496) + https://www.guardicore.com/wp-content/uploads/2020/07/WarezTheRemote-Comcast-Report.pdf
 - [Hard disk hacking - Hooking up JTAG](https://twitter.com/Theophite/status/1312864397837164544) + https://spritesmods.com/?art=hddhack&page=3
 - [Reverse engineering my cable modem and turning it into an SDR](https://stdw.github.io/cm-sdr)
+- https://astralvx.com/dma-explained
 
 ### Courses
 
