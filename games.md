@@ -13,6 +13,7 @@
 - [Pure Skill Minesweeper](https://news.ycombinator.com/item?id=24181772)
 - https://itsmattkc.com/etc/snakeqr + https://news.ycombinator.com/item?id=24374570
 - https://www.youtube.com/c/Frankslaboratory/playlists?disable_polymer=true
+- http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive
 
 ### Mobile based
 

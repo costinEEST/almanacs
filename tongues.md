@@ -37,6 +37,8 @@
 - https://github.com/hackerkid/Mind-Expanding-Books#language
 - https://twitter.com/IntermarkLS/status/1245449234813456385
 - https://www.cntraveler.com/gallery/22-ambassadors-recommend-the-one-book-to-read-before-visiting-their-country
+- [Indo-European languages from Uni Göttingen.](https://spw.uni-goettingen.de/projects/aig)
+- [Early Indo-European Online](https://lrc.la.utexas.edu/eieol)
 
 ### Applications
 
@@ -74,6 +76,11 @@
 
 - [The English and their History - Robert Tombs](https://www.goodreads.com/book/show/23569457-the-english-and-their-history)
 
+### Farsi
+
+- https://sites.fas.harvard.edu/~iranian
+- http://sites.fas.harvard.edu/~iranian/OldPersian/index.html
+
 ### French
 
 - https://lindiebotes.com/2020/09/12/weekly-french-studyroutine
@@ -107,6 +114,10 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - https://en.wikipedia.org/wiki/Otium
 - https://twitter.com/philip_mcneill/status/1322524744755875840
 - [Emblems of love, in four languages : dedicated to the ladies](https://archive.org/details/emblemsofloveinf00ayre)
+
+### Spanish
+
+- https://www.mezzoguild.com/spanish-apps
 
 ### Tibetan
 

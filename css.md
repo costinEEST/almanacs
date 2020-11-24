@@ -31,6 +31,7 @@
 - https://justmarkup.com/articles/2020-04-15-css-property-in-a-tweet
 - https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements
 - https://ishadeed.com/article/finding-the-root-cause
+- https://css-tricks.com/a-complete-guide-to-css-gradients
 
 ### Pseudo classes
 

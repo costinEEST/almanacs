@@ -14,6 +14,7 @@
 - https://app.programmingfonts.org
 - https://vanschneider.com/the-best-totally-free-web-fonts-typefaces
 - [List of fonts for coding](https://github.com/Gaafar/dev-fonts)
+- https://www.thecut.com/2020/08/the-reason-comic-sans-is-a-public-good.html
 
 ### Tools
 

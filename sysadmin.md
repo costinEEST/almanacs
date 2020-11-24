@@ -56,6 +56,7 @@
 - https://www.antitree.com/2020/11/when-list-is-a-lie-in-kubernetes
 - https://github.com/gosoon/source-code-reading-notes
 - https://www.datadoghq.com/container-report
+- https://dev.to/sarmadsaleem/container-orchestration-tools-explained-1c4i
 
 ### Servers
 
