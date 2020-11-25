@@ -12,6 +12,7 @@
 - http://diy-fever.com/reviews/guitar-reviews
 - [Nahre Sol (piano)](https://www.youtube.com/c/NahreSol/playlists)
 - http://www.pianopractice.org
+- https://kevinmartinjose.com/2019/01/27/lessons-from-learning-to-play-the-violin
 
 ### Tools
 

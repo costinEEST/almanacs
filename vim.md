@@ -9,6 +9,7 @@
 - https://felixge.de/2013/08/08/vim-trick-open-current-line-on-github
 - https://irian.to/blogs/why-i-use-vim
 - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1)
+- https://kevinmartinjose.com/2020/11/22/vimcharm-approximating-pycharm-on-vim
 
 ### TV
 

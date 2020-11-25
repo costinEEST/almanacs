@@ -40,6 +40,7 @@
 ### Podcasts
 
 - [React Round Up](https://devchat.tv/react-round-up)
+- https://www.digitalprimates.net/blog/making-authentication-in-react-apps-easy-with-useauth
 
 ### Hooks
 
@@ -70,6 +71,7 @@
 - https://github.com/slorber/use-async-setState
 - https://blog.axlight.com/posts/how-i-developed-react-hooks-for-web-workers
 - [useEffectCallback custom hook is super helpful when you need to use callback props as dependencies on useEffect and other hooks](https://twitter.com/diegohaz/status/1324168516061245441) + https://codesandbox.io/s/react-useeffectcallback-yimwp
+- https://maxrozen.com/race-conditions-fetching-data-react-with-useeffect
 
 ### Context API
 
@@ -159,6 +161,7 @@
 - https://github.com/mavropalias/Hero35
 - [react-suspense-router in SSR.](https://twitter.com/dai_shi/status/1226884015669399559)
 - https://twitter.com/benawad/status/1239615944298815488
+- https://github.com/chec/commercejs-nextjs-demo-store
 
 ### State management
 
