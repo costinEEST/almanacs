@@ -50,6 +50,7 @@
 - http://www.ganssle.com
 - [Nvidia to Acquire Arm for \$40B](https://news.ycombinator.com/item?id=24464807)
 - https://chrissymorgan.co.uk/2020/11/07/dvr-security-evolution
+- https://www.zdnet.com/article/my-biggest-apple-m1-question-whats-intel-been-doing-all-these-years + https://www.singhkays.com/blog/apple-silicon-m1-black-magic
 
 ### TV
 

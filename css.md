@@ -5,6 +5,7 @@
 - [Why CSS ::before doesn't work on inputs and images](https://webplatform.news/issues/2020-08-26)
 - https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web
 - https://ferrumpipe.com
+- https://jeremenichelli.io/2016/04/always-animate-translate-instead-of-positions
 
 ### Color
 
@@ -32,6 +33,11 @@
 - https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements
 - https://ishadeed.com/article/finding-the-root-cause
 - https://css-tricks.com/a-complete-guide-to-css-gradients
+- https://dev.opera.com/articles/css-will-change-property + https://aerotwist.com/blog/bye-bye-layer-hacks
+
+### Selectors
+
+- https://jeremenichelli.io/2015/11/the-first-child-reset
 
 ### Pseudo classes
 

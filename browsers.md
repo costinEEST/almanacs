@@ -152,6 +152,7 @@ javascript: (() =>
 - [Listing changes in Firefox default preferences. The diffs are created using 64-bit Firefoxes (en-US) on Windows.](https://github.com/earthlng/FFprefs-diffs)
 - https://blog.mozilla.org/data/2020/03/16/understanding-default-browser-trends
 - [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
+- https://honzajavorek.cz/blog/how-i-consume-content
 
 ### CORS
 

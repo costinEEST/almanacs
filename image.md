@@ -3,6 +3,7 @@
 - https://joshwcomeau.com/performance/embracing-modern-image-formats
 - [BBS Graphics History: Pretty awesome, until the web showed up](https://news.ycombinator.com/item?id=23916050)
 - https://underjord.io/live-server-push-without-js.html
+- https://www.singhkays.com/blog/its-time-replace-gifs-with-av1-video
 
 ### Formats
 

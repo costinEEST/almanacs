@@ -72,6 +72,7 @@
 - https://blog.axlight.com/posts/how-i-developed-react-hooks-for-web-workers
 - [useEffectCallback custom hook is super helpful when you need to use callback props as dependencies on useEffect and other hooks](https://twitter.com/diegohaz/status/1324168516061245441) + https://codesandbox.io/s/react-useeffectcallback-yimwp
 - https://maxrozen.com/race-conditions-fetching-data-react-with-useeffect
+- https://github.com/GoogleChromeLabs/react-adaptive-hooks
 
 ### Context API
 
@@ -152,6 +153,7 @@
 
 ### Server side rendering
 
+- https://jeremenichelli.io/2020/05/a-progressive-search-experience-in-next
 - https://arkwright.github.io/scaling-react-server-side-rendering.html
 - [ds - personal site manager - powered by next.js](https://github.com/divyenduz/ds)
 - [Like JSX, but native and fast.](https://github.com/esxjs/esx)
@@ -240,6 +242,7 @@
 - [I created an open-source alternative to Google Analytics using React, Redux and Next](https://github.com/mikecao/umami) + https://medium.com/@caozilla/how-i-wrote-umami-in-30-days-a290372b80e4
 - [Plain-text note-taking app for the web with Markdown support.](https://github.com/taniarascia/takenote)
 - https://github.com/jsolano/react-sudoku-solver
+- https://github.com/shaneosullivan/react-url-decoder
 
 ### Testing
 
@@ -259,6 +262,7 @@
 
 ### Tooling
 
+- https://survivejs.com/webpack
 - [tsc --watch nodemon dist/src/index.js](https://twitter.com/benawad/status/1211700652549779456)
 - https://github.com/Lemoncode/react-typescript-samples
 - https://daveceddia.com/tailwind-create-react-app

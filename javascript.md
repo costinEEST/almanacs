@@ -314,6 +314,9 @@
 
 ### Web Components
 
+- https://jeremenichelli.io/2017/10/the-web-components-experience
+- https://css-tricks.com/building-progress-ring-quickly
+- [A recipe for style preprocessors and Shadow DOM](https://github.com/jeremenichelli/movies-web-components)
 - https://briangrinstead.com/blog/firefox-webcomponents
 - https://github.com/shawnbot/custom-elements
 - https://github.com/thepassle/generic-components

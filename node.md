@@ -201,6 +201,7 @@
 - https://kezzbracey.com/posts/2020/01/19/eleventy-plus-vscode-plus-gitlab-plus-cloudways
 - https://github.com/accessible-app/accessible-app_com
 - https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app
+- - [A Next.js site using new SSG support with a Notion backed blog](https://github.com/ijjk/notion-blog)
 
 ### Boots
 

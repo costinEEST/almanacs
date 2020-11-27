@@ -5,6 +5,7 @@
 ### References
 
 - [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
+- https://www.singhkays.com/blog/av1-wiki-resources-tools
 
 ### Tools
 
@@ -25,3 +26,4 @@
 - https://tyler.io/diy-video-hosting + https://news.ycombinator.com/item?id=23894827
 - [How to make video calls almost as good as face-to-face](https://www.benkuhn.net/vc)
 - https://twitter.com/thomasdarimont/status/1310329696446488579 + https://www.youtube.com/watch?v=Bdoi7BDhrWc + https://gist.github.com/vivekhaldar/92368f35da2d8bb8f12734d840d11cfa
+- https://www.singhkays.com/blog/docker-image-av1-ffmpeg-libaom
