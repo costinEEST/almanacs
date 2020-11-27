@@ -20,6 +20,10 @@
 
 - https://csvoss.substack.com/archive
 
+### Internet of money
+
+- https://blockchannel.substack.com/archive?sort=new
+
 ### Design
 
 - [Design Sprint Newsletter by Jake Knapp](https://www.getrevue.co/profile/designsprint)

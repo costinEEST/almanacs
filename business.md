@@ -12,6 +12,7 @@
 - [Reinventing Discovery: The New Era of Networked Science By Michael Nielsen](http://backreaction.blogspot.com/2012/03/book-review-reinventing-discovery-by.html)
 - ["Where’s my Flying Car - A memoir of Futures Past" by J Storrs Hall](https://twitter.com/Ben_Reinhardt/status/1302657377573965832)
 - https://www.amazon.com/Perfect-Store-Inside-eBay/dp/0316164933
+- https://www.scribd.com/doc/182219705/Great-Wall-of-Numbers-Business-Opportunities-Challenges-in-China
 
 ### Marketing
 

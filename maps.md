@@ -23,3 +23,4 @@
 ### Miscellaneous
 
 - https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01
+- https://edition.cnn.com/2020/11/19/world/first-global-map-bee-species-scn-trnd/index.html

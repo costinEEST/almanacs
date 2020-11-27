@@ -103,3 +103,4 @@
 - [A curated list of awesome machine learning projects built with Google's Teachable Machine.](https://github.com/SashiDo/awesome-teachable-machine)
 - [ML Art - A curated showcase of creative machine learning artworks and projects](https://mlart.co)
 - https://towardsdatascience.com/create-your-own-smart-baby-monitor-with-a-raspberrypi-and-tensorflow-5b25713410ca
+- https://github.com/nashory/gans-awesome-applications

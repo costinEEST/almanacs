@@ -10,6 +10,7 @@
 
 - https://legacy.gitbook.com/book/learnbyexample/command-line-text-processing/details
 - [An example driven introduction to bioinformatics using shell scripting by Francisco M. Couto](http://labs.rd.ciencias.ulisboa.pt/book)
+- https://github.com/bobbyiliev/introduction-to-bash-scripting
 
 ### TIL
 

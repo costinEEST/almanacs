@@ -18,6 +18,10 @@
 - [A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems.](https://github.com/gellin/bantam)
 - https://www.codediesel.com/php/quickly-extract-urls-from-a-xml-sitemap-file
 
+### TV
+
+- [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://www.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)
+
 ### Vulnerable functions
 
 - https://github.com/mm0r1/exploits

@@ -34,6 +34,7 @@
 - https://www.toptal.com/visual-studio/vscode-tips-power-users
 - https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour
 - https://twitter.com/SaraSoueidan/status/1320644057228595200
+- https://devdojo.com/bobbyiliev/top-10-vscode-shortcuts-for-mac-and-windows-to-help-you-be-more-productive
 
 ### tmux
 

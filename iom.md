@@ -1,7 +1,17 @@
+### Books
+
+- https://unchainedpodcast.com/resources
+- https://www.ofnumbers.com/2018/07/17/cryptocurrency-and-blockchain-related-book-reviews
+- https://www.dappuniversity.com/articles/the-complete-blockchain-developer-resource-list#books
+- https://github.com/loomnetwork/soliditycookbook.com
+
 ### Courses
 
+- https://www.dappuniversity.com/videos/1njYc9ZO6WQ
 - https://learn.consensys.net/index
 - https://academy.nomadcoders.co/p/build-a-blockchain-with-typescript
+- https://cryptoeconomics.study/en
+- https://github.com/loomnetwork/cryptozombie-lessons + https://github.com/loomnetwork/cryptozombies-lesson-code
 
 ### References
 
@@ -11,6 +21,8 @@
 - [State and Payment: Power-Up Your App Using JS with Infura.](https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMjrrrtKtSvHRVtLzFGlpqBzn)
 - https://hackernoon.com/how-to-create-your-own-cryptocurrency-tips-to-get-started-947ba92f79f9
 - https://www.amazon.com/Mastering-Blockchain-distributed-consensus-cryptocurrencies/dp/1839213191
+- https://github.com/reiver/blockchain-reading-list
+- https://github.com/Scanate/EthList
 
 ### Boilerplate
 
@@ -35,3 +47,8 @@
 ### Demos
 
 - https://github.com/saleemrashid/do-i-need-a-blockchain
+
+### People
+
+- [Nick Szabo](http://unenumerated.blogspot.com)
+- [Emin Gün Sirer](https://hackingdistributed.com)

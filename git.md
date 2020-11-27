@@ -46,6 +46,8 @@
 - https://ryangjchandler.co.uk/articles/running-github-actions-for-certain-commit-messages
 - https://dev.to/oliverjumpertz/setting-up-jenkins-to-handle-github-pull-requests-5bjc
 - https://begriffs.com/posts/2018-06-05-mailing-list-vs-github.html
+- https://quanticdev.com/articles/how-to-use-github
+- https://quanticdev.com/articles/website-with-github-pages
 
 ### Tools
 

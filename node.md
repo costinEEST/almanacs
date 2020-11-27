@@ -164,6 +164,7 @@
 - https://github.com/stemmlerjs/solid-email-microservice
 - [A micro service development architecture based on nest.js.](https://github.com/notadd/notadd)
 - [Flatend – Quickly build microservices using P2P networking in Node/Go](https://news.ycombinator.com/item?id=23561904)
+- https://hackernoon.com/learn-how-to-use-webhooks-by-connecting-nodejs-ifttt-and-twitter-k0w3121
 
 ### Design patterns
 
@@ -215,6 +216,7 @@
 - [Firebase Hosting in 6 steps.](https://twitter.com/rwieruch/status/1212773598492004352)
 - [How to make simple Geolocation service using Cloudflare Workers.](https://maxkostinevich.com/blog/serverless-geolocation)
 - https://www.raymondcamden.com/2020/08/16/migrating-from-node-and-express-to-the-jamstack-part-3
+- https://medium.com/lambda-store/terminal-chat-application-using-serverless-redis-1feec78cbfa
 
 ### Miscellaneous
 
@@ -226,3 +228,4 @@
 - https://github.com/IonicaBizau/learning-nodejs
 - [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [Scripting Languages I: Node.js, Python, PHP, Ruby](https://hyperpolyglot.org/scripting)
+- https://quanticdev.com/articles/automating-my-youtube-uploads-using-nodejs

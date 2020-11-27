@@ -31,7 +31,7 @@
 ### Tools
 
 - [Make nice animated diagrams.](https://twitter.com/jlongster/status/1247530020928499714)
-- https://www.getmotion.io/blog/where-are-all-the-animated-svgs
 - [Blob shapes generator.](https://github.com/lokesh-coder/blobs.app)
 - https://www.svgbackgrounds.com
 - [Free svg background generator for your websites, blogs and app.](https://bgjar.com)
+- https://getloaf.io/blog/where-are-all-the-animated-svgs

@@ -4,6 +4,7 @@
 - [Function that prints itself (quine)](https://twitter.com/ryuhhnn/status/1212075258548834305)
 - https://blogtitle.github.io/i-am-switching-to-js + https://blogtitle.github.io/lets-talk-about-javascript
 - [Setting or accessing via non-integers will set or access a variable associated with that array's object property collection.](https://twitter.com/ProvablyFlarnie/status/1243658638830362624)
+- [String#split can NEVER return an empty array, which is wrong](https://twitter.com/SeaRyanC/status/1331656278104440833)
 
 ### Performance
 
@@ -80,6 +81,7 @@
 - https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please
 - https://abdulapopoola.com/2020/11/11/avoid-bugs-by-understanding-hole-processing-in-js-arrays
 - https://programming-idioms.org/cheatsheet/JS
+- https://github.com/sadanandpai/javascript-code-challenges
 
 ### Books
 
