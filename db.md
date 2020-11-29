@@ -37,6 +37,7 @@
 - [Things I wished more developers knew about databases.](https://news.ycombinator.com/item?id=22942278)
 - [Using SQL to find my best photo of a pelican according to Apple Photos](https://news.ycombinator.com/item?id=23271053)
 - https://gbl08ma.com/time-for-a-wtf-mysql-moment
+- https://blog.jooq.org/2019/11/13/stop-mapping-stuff-in-your-middleware-use-sqls-xml-or-json-operators-instead + https://twitter.com/lukaseder/status/1331897735361028097
 
 ### Hacks
 

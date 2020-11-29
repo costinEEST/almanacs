@@ -35,6 +35,7 @@
 - https://eng.wealthfront.com/2020/10/01/building-a-truly-accessible-clickable-div
 - https://localizejs.com/articles/why-using-flag-icons-can-confuse-your-users
 - https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/1-getting-started-lessons/3-accessibility/README.md
+- https://designmodo.com/email-accessibility
 
 ### Progressive Enhancement
 

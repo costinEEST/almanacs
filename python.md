@@ -101,6 +101,7 @@
 - [An in-browser Python profile viewer.](https://github.com/jiffyclub/snakeviz)
 - https://raw.githubusercontent.com/matplotlib/cheatsheets/master/cheatsheets-1.png
 - [Geometric Algebra for Python](https://github.com/pygae/clifford)
+- [An extensively configurable tool providing a summary of the changes between two files or directories, ignoring all the fluff you don't care about.](https://github.com/airbus-seclab/diffware)
 
 ### Testing
 

@@ -33,3 +33,4 @@
 - [Design Disruptors (2016)](https://www.designdisruptors.com/dd)
 - [vimeo.com/microsoftdesign/connecting](https://vimeo.com/52861634)
 - https://www.ohyouprettythings.com/free
+- https://www.domestika.org/en/blog/5606-7-masters-of-graphic-design-share-their-industry-insider-secrets

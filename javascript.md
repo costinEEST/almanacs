@@ -44,6 +44,7 @@
 - https://twitter.com/flexdinesh/status/1196680010343432192
 - [A blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript](https://github.com/KFlash/seafox)
 - https://sibelius.github.io/talk-maringa-ast
+- https://dev.to/kwelch/automating-the-pain-away-bnb
 
 ### Obfuscation
 
@@ -155,6 +156,8 @@
 - https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1
 - [Evaluating JavaScript code via import](https://2ality.com/2019/10/eval-via-import.html)
 - [State of esm-cdn's and development workflows](https://jkrishna.dev/post/dependencies)
+- [Re-exports are bad for loading and runtime performance.](https://twitter.com/iamakulov/status/1331551351214645251)
+- [ESM-CJS interop test](https://github.com/sokra/interop-test) + https://sokra.github.io/interop-test
 
 ### lexical scoping
 
@@ -362,6 +365,7 @@
 - [I want to embed an entire JS VM inside a browser.](https://twitter.com/garybernhardt/status/1212468714018242560)
 - [16-Bit Virtual Machine](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
 - https://github.com/Knevari/js-virtual-machine
+- https://github.com/fraxken/VM-Resources
 
 ### Compilers
 
@@ -400,6 +404,7 @@
 - https://github.com/felixturner/three-webpack-boilerplate
 - https://github.com/lukejacksonn/perflink
 - https://jkrishna.dev/post/lerna
+- https://souporserious.com/use-babel-to-statically-analyze-jsx
 
 ### Documentation
 
