@@ -49,6 +49,7 @@
 ### Networking
 
 - https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks
+- https://backdrifting.net/post/001_implementing_traceroute
 
 ### Quirks
 

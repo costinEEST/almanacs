@@ -46,6 +46,7 @@
 
 ### Algorithms
 
+- https://backdrifting.net/post/003_diffie_hellman
 - https://github.com/B-Con/crypto-algorithms
 - [S(T|N)ARKs.](https://twitter.com/mstrakastrak/status/1215099753991569409)
 - https://github.com/lrlna/sketchin/blob/master/guides/libsodium.md

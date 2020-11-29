@@ -43,3 +43,4 @@
 
 - [Resource monitor that shows usage and stats for processor, memory, disks, network and processes.](https://github.com/aristocratos/bashtop)
 - [Feed the hundreds of millions of domains in the Common Crawl to zgrab.](https://github.com/lsb/zgrab-the-web)
+- https://github.com/stefanjudis/extract-media + https://twitter.com/mathias/status/1332251741602111488

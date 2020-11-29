@@ -134,12 +134,13 @@
 - https://swizec.com/blog/advent-code-day-15-dueling-javascript-generators/swizec/7973
 - https://twitter.com/mjackson/status/1244736662875193345
 - https://twitter.com/jedschmidt/status/1254932318336081920 + [Turning callbacks into async iterators](https://gist.github.com/jed/f8444ae8e6e40e08a7b29944840ac20d)
+- [for-of, early termination, iterators, and generators](https://gist.github.com/rauschma/fd2518d14a7b1b7b39751d9ac85e6c20)
 
-### spread/destructure operator
+### spread/destructuring operator
 
 - https://twitter.com/BenLesh/status/1240674545725513728
 
-### Modules
+### modules
 
 - [History of ES modules.](https://gist.github.com/jkrems/769a8cd8806f7f57903b641c74b5f08a)
 - [The envisioned future of ES Modules in the browser.](https://twitter.com/swyx/status/1208820201623437312)
@@ -151,6 +152,8 @@
 - [You Might Not Need Webpack - With Ryan Lanciaux](https://youtu.be/KXDPESIwVVU)
 - [Is there an equivalent of process.env.NODE_ENV for browsers?](https://twitter.com/boriscoder/status/1246469107874217984)
 - https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1
+- [Evaluating JavaScript code via import](https://2ality.com/2019/10/eval-via-import.html)
+- [State of esm-cdn's and development workflows](https://jkrishna.dev/post/dependencies)
 
 ### lexical scoping
 
@@ -162,8 +165,6 @@
 - https://github.com/Rich-Harris/yootils/blob/master/src/array/pickRandom.ts
 - https://github.com/Rich-Harris/yootils/blob/master/src/array/shuffle.ts
 - https://macwright.org/2020/02/14/math-keeps-changing.html
-
-- [Evaluating JavaScript code via import()](https://2ality.com/2019/10/eval-via-import.html)
 
 ### default arguments
 
@@ -197,6 +198,7 @@
 
 - [One page calendar 2020](https://davebakker.io/onepagecalendar)
 - [Wondering how to best display the current time (hh:mm) on a web page.](https://twitter.com/rauschma/status/1228056819567910914)
+- https://twitter.com/rauschma/status/1330881310039175169
 
 ### setInterval()
 
@@ -246,6 +248,7 @@
 ### new WeakMap()
 
 - https://chrisrng.svbtle.com/using-weakmap-for-private-properties
+- https://twitter.com/MarijnJH/status/1328364495459192832
 
 ### new Set()
 
@@ -295,6 +298,10 @@
 
 - [Why don't we just move all JS to a web worker?](https://twitter.com/dan_abramov/status/1234297789938589696) + https://docs.google.com/document/d/1nu0EcVNC3jtmUVWL8Gs5eCj2p_984kamNhG2nS9gOC0/edit#heading=h.e6n21l1n04rc
 - [Is ServiceWorker intended to be a SharedWorker that works offline?](https://twitter.com/jlongster/status/1241010515071111168)
+
+### IndexDB
+
+- https://twitter.com/tgroshon/status/1332499610192015362
 
 ### Document Object Model
 
@@ -347,6 +354,7 @@
 - https://www.testcraft.io/end-to-end-testing
 - https://www.perfecto.io/blog/cypress-vs-selenium-whats-right-cross-browser-testing-solution-you
 - [Using deferred promise to test websockets](https://gist.github.com/sibelius/ffa492c5b08eb11d1d818374150a3295) + https://twitter.com/sseraphini/status/1318241910738325510
+- https://github.com/JanVanRyswyck/awesome-talks#test-driven-development
 
 ### Virtual machines
 
@@ -390,6 +398,7 @@
 - https://www.debugbear.com/blog/is-the-web-getting-slower
 - https://github.com/felixturner/three-webpack-boilerplate
 - https://github.com/lukejacksonn/perflink
+- https://jkrishna.dev/post/lerna
 
 ### Documentation
 

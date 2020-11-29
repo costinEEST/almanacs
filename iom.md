@@ -52,3 +52,8 @@
 
 - [Nick Szabo](http://unenumerated.blogspot.com)
 - [Emin Gün Sirer](https://hackingdistributed.com)
+- [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me)
+
+### TV
+
+- https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies

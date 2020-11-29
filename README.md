@@ -39,6 +39,7 @@
 - [Design](design.md)
 - [Drawing](drawing.md)
 - [Ecology](eco.md)
+- [Emotional intelligence](eq.md)
 - [Effectiveness](effectiveness.md)
 - [Electron](electron.md)
 - [Elixir](elixir.md)

@@ -66,6 +66,10 @@ curl v2.wttr.in/Bucharest
 - [A PHP client for Apple's Find My iPhone service.](https://github.com/tylerhall/sosumi)
 - https://github.com/eveporcello/simple-strava-sample + https://moonhighway.com/incorporating-rest-data
 
+### Shopping
+
+- https://twitter.com/ryanflorence/status/1332403896208146433
+
 ### Languages
 
 - [Microsoft Translator Text API v3.](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-NodeJS)

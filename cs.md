@@ -27,6 +27,7 @@
 - [The Computers: The Remarkable Story of the ENIAC Programmers.](https://vimeo.com/ondemand/eniac6)
 - https://www.deconstructconf.com/2017/dan-grossman-the-cs-undergrad-curriculum-of-2017
 - [Intro to Quantum Computing - HACKADAY](https://www.youtube.com/playlist?list=PL_tws4AXg7avHFquKAB6q6cep2pnueLpM)
+- https://github.com/JanVanRyswyck/awesome-talks#computer-history
 
 ### Books
 

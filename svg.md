@@ -27,6 +27,7 @@
 - [Turn real code into faux code.](https://github.com/knutsynstad/faux-code-generator)
 - https://css-tricks.com/heres-how-i-solved-a-weird-bug-using-tried-and-true-debugging-strategies
 - [How to work with SVG icons](https://fvsch.com/svg-icons)
+- [Creating UI Components in SVG](https://twitter.com/sarah_edo/status/1331251022715445248)
 
 ### Tools
 

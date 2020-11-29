@@ -24,6 +24,7 @@
 - https://www.obsessivefacts.com/blog/2020-04-04-the-javascript-black-hole.html + https://news.ycombinator.com/item?id=22805239
 - [automated censorship evasion for the client-side and server-side](https://github.com/Kkevsterrr/geneva) + https://geneva.cs.umd.edu/posts/server-side
 - [Wheregoes - A tool for tracing the redirect path of URLs](https://wheregoes.com)
+- https://themarkup.org/google-the-giant/2020/11/19/as-antitrust-pressure-mounts-google-to-pull-back-benefit-to-news-sites-that-adopted-its-preferred-mobile-technology + https://twitter.com/themarkup/status/1329409297281781760
 
 ### Techniques
 
@@ -47,3 +48,4 @@
 - https://rolisz.ro/2020/04/11/moving-away-from-gmail + https://news.ycombinator.com/item?id=22843326
 - https://www.freecodecamp.org/news/white-pages-removal-remove-information-spokeo-peoplefinder-whitepages-opt-out +
 - [@BotSentinel - just enter an account handle and it instantly analyses their tweets, giving an assessment of the extent to which it is questionable, disruptive or problematic account.](https://twitter.com/docrussjackson/status/1323246492304506880)
+- https://sneak.berlin/20201031/goodbye-twitter
