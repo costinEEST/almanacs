@@ -9,6 +9,7 @@
 - [Advanced SQL and database books and resources](https://news.ycombinator.com/item?id=23138297)
 - [The DynamoDB Book: Data Modeling with NoSQL and DynamoDB](https://news.ycombinator.com/item?id=23193093)
 - https://www.neilwithdata.com/advanced-sql
+- https://github.com/bevacqua/reads#databasessearch
 
 ### Courses
 

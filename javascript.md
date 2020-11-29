@@ -112,6 +112,7 @@
 - [HTML5 Canvas implementation for NodeJS backed by Puppeteer.](https://github.com/pshihn/puppet-canvas)
 - https://github.com/tsayen/dom-to-image
 - [The better way to render text on HTML5 Canvas](https://github.com/geongeorge/Canvas-Txt)
+- https://github.com/sunify/canvas-playground
 
 ### WebGL
 

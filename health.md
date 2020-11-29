@@ -84,13 +84,13 @@
 
 ### Supplements
 
-- [Vitamins and minerals](https://gist.github.com/ccampean/ad8cf467626ba983b9ef6e79dd4dbf8f)
+- https://www.health.harvard.edu/staying-healthy/listing_of_vitamins
+- https://masterpass.chrismasterjohnphd.com/dashboard
+- [Vitamins and minerals](https://gist.github.com/costinEEST/ad8cf467626ba983b9ef6e79dd4dbf8f)
 - https://www.foundmyfitness.com/topics/creatine
 - https://www.healthline.com/nutrition/10-nutrients-you-cant-get-from-animal-foods
-- https://www.health.harvard.edu/staying-healthy/listing_of_vitamins
 - https://www.accessdata.fda.gov/scripts/interactivenutritionfactslabel/factsheets/vitamin_and_mineral_chart.pdf
 - https://books.google.ro/books/about/Prescription_for_Nutritional_Healing.html?id=2s_q2y_J3rwC
-- https://masterpass.chrismasterjohnphd.com/dashboard
 - [Mr. Mineral | Minerals for Body, Brain and Business Optimization- Thomas DeLauer](https://www.youtube.com/playlist?list=PLFbLg_bIQgxC-NtGO7TzTTO0Lgd8R-Vop)
 - [În București, de unde vă procurați stevie, turmeric, fulgi de drojdie inactivă?](https://www.facebook.com/groups/755526297805685/permalink/3994212310603718)
 - https://www.emag.ro/puterea-vitaminei-d-sarfraz-zaidi-9786068784007/pd/DQV543BBM

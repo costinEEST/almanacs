@@ -26,7 +26,7 @@
 - [C#](c#.md)
 - [C++](c++.md)
 - [Cars](cars.md)
-- [Cascading Style Sheets](css.md)
+- [CSS](css.md)
 - [Climbing](climbing.md)
 - [Cloud](cloud.md)
 - [Cobol](cobol.md)
