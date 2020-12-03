@@ -25,6 +25,7 @@
 - https://khalilstemmler.com/articles/when-to-use-typescript-guide
 - https://github.com/niieani/typescript-vs-flowtype
 - https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc
+- https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale + https://youtu.be/B4_SlXkGDd4
 
 ### Practice
 

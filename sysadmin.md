@@ -57,6 +57,7 @@
 - https://github.com/gosoon/source-code-reading-notes
 - https://www.datadoghq.com/container-report
 - https://dev.to/sarmadsaleem/container-orchestration-tools-explained-1c4i
+- https://adambard.com/blog/transitioning-from-docker-machines-to-kubernetes
 
 ### Servers
 

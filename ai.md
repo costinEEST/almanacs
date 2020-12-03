@@ -104,3 +104,8 @@
 - [ML Art - A curated showcase of creative machine learning artworks and projects](https://mlart.co)
 - https://towardsdatascience.com/create-your-own-smart-baby-monitor-with-a-raspberrypi-and-tensorflow-5b25713410ca
 - https://github.com/nashory/gans-awesome-applications
+
+### Opinions
+
+- https://thinkml.ai/top-5-ai-achievements-of-2020
+- https://www.hyro.ai/post/gpt-3-vs-existing-conversational-ai-solutions

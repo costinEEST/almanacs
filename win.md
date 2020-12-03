@@ -3,6 +3,7 @@
 - https://www.bleepingcomputer.com/news/microsoft/you-can-still-upgrade-to-windows-10-for-free-heres-how
 - https://twitter.com/JenMsft/status/1218526323271823360
 - [Where you can download a Windows XP, or even Windows 98 iso from?](https://twitter.com/SeanWrightSec/status/1255916099176206336)
+- https://nelsonslog.wordpress.com/2020/11/30/windows-10-sound-output-devices
 
 ### Talks
 

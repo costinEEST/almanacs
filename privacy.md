@@ -34,6 +34,7 @@
 - https://www.bellingcat.com/news/2020/05/18/military-and-intelligence-personnel-can-be-tracked-with-the-untappd-beer-app
 - https://csjourney.com/vuvuzela-scalable-private-messaging-traffic-analysis-paper
 - https://simonwillison.net/2020/Nov/14/personal-data-warehouses + https://news.ycombinator.com/item?id=25090218
+- https://www.gov.uk/guidance/protect-domains-that-dont-send-email
 
 ### Social media
 

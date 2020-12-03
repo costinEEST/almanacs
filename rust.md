@@ -65,3 +65,4 @@ https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=
 - https://matklad.github.io//2020/09/20/why-not-rust.html
 - [An opinionated history of programming languages](https://artagnon.com/articles/pl)
 - http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon + https://twitter.com/bcantrill/status/1315342432918097926
+- https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help

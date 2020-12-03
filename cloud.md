@@ -20,6 +20,7 @@
 - [How can I quickly trim my AWS bill?](https://news.ycombinator.com/item?id=23798347)
 - https://www.freecodecamp.org/news/how-to-make-a-store-in-one-day-aws-react-stripe
 - https://frantic.im/back-to-rails + https://news.ycombinator.com/item?id=25100397
+- https://summitroute.com/blog/2020/11/24/setting_up_personal_gsuite_backups_on_aws
 
 ### Google Cloud
 

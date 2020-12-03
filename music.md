@@ -3,6 +3,7 @@
 - https://www.scribd.com/doc/309687372/An-Introduction-to-Tonal-Theory-Peter-Westergaard
 - https://www.oliversacks.com/books-by-oliver-sacks/musicophilia
 - https://www.amazon.co.uk/Music-Instinct-Works-Cant-Without/dp/0099535440
+- https://www.fundatiacaleavictoriei.ro/produs/muzica-clasica-si-opera-doua-carti-de-tiberiu-soare
 
 ### Instruments
 
@@ -43,6 +44,7 @@
 - https://en.wikipedia.org/wiki/Music_of_Romania#Jazz
 - [Jazz - enjoytv romania](https://www.youtube.com/playlist?list=PLM-C90vmncosaw4a4uMtdYFIjQcG7vOlq)
 - http://diy-fever.com/reviews/picks
+- http://sanuuitam.blogspot.com/2020/12/cel-mai-important-jazzman-roman.html
 
 ### Rock
 

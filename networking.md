@@ -149,6 +149,7 @@
 - [Why is it necessary to use the correct HTTP status code? Specifically asking about redirects (301 or 302)](https://twitter.com/kentcdodds/status/1249723789006397442)
 - https://hacks.mozilla.org/2020/04/twitter-direct-message-caching-and-firefox
 - https://github.com/BlackFan/content-type-research + https://twitter.com/Black2Fan/status/1296439754599407618
+- [Avoid 301 and 302, use 303 and 307](https://youtu.be/G9PpImUEeUA?t=702)
 
 ### HTTPS
 

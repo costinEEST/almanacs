@@ -22,6 +22,7 @@
 - [The classical thinking errors list and the CBT app.](https://github.com/giekaton/thinking-bugs)
 - https://github.com/jgw96/web-whiteboard
 - https://github.com/AmruthPillai/Reactive-Resume
+- https://samselikoff.com/blog/8-tips-to-make-your-website-feel-like-an-ios-app
 
 ### Security
 

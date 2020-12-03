@@ -29,6 +29,7 @@
 - [CSS](css.md)
 - [Climbing](climbing.md)
 - [Cloud](cloud.md)
+- [Clojure](clojure.md)
 - [Cobol](cobol.md)
 - [Computer networking](networking.md)
 - [Computer science](cs.md)

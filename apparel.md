@@ -11,3 +11,4 @@
 
 - https://backpacking.tdhopper.com
 - https://om.co/2015/04/27/brunello-cucinelli-2
+- [New Pricing Based on Perceived Purchasing Power (PPP)](https://us7.campaign-archive.com/?u=ed5431da1419c47c5af5ab594&id=2575947ce8)

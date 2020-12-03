@@ -37,6 +37,7 @@
 - [git diff --color-moved](https://twitter.com/rsms/status/1317189664936128512)
 - [A pure JavaScript implementation of git for node and browsers!](https://github.com/isomorphic-git/isomorphic-git)
 - https://github.com/shaneosullivan/git-shortcuts
+- https://httptoolkit.tech/blog/find-best-git-aliases
 
 ### Github
 

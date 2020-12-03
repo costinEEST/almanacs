@@ -18,6 +18,7 @@
 - https://contrast-triangle.com
 - https://adamschwartz.co/magic-of-css/chapters/4-color
 - https://twitter.com/bucciblog/status/1325851426527080448
+- https://www.amazon.com/Color-David-Kastan/dp/0300171870
 
 ### Measurement units
 

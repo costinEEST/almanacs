@@ -56,6 +56,7 @@
 - https://viorel.me/2019/simple-undo-redo-functionality-in-js-using-memento
 - https://lihautan.com/reactivity-in-web-frameworks-the-when
 - https://github.com/staltz/frontmania-rxjs-workshop
+- https://adambard.com/blog/javascript-design-pattern-binding-functions
 
 ### TIL
 
@@ -169,6 +170,7 @@
 - https://github.com/Rich-Harris/yootils/blob/master/src/array/pickRandom.ts
 - https://github.com/Rich-Harris/yootils/blob/master/src/array/shuffle.ts
 - https://macwright.org/2020/02/14/math-keeps-changing.html
+- https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library
 
 ### default arguments
 
@@ -269,6 +271,7 @@
 
 - https://www.ksharifbd.com/blog/optional-chaining-and-nullish-coalescing-operators-what-why-and-how
 - https://twitter.com/AdamRackis/status/1232693680873467904
+- https://h3manth.com/new/blog/2020/nullish-coalescing-vs-logical-or
 
 ### new IntersectionObserver()
 
@@ -405,8 +408,10 @@
 - https://github.com/lukejacksonn/perflink
 - https://jkrishna.dev/post/lerna
 - https://souporserious.com/use-babel-to-statically-analyze-jsx
+- [What You Need To Know About npm Workspaces](https://hyperfoo.io/posts/npm-7-workspaces-1)
 
 ### Documentation
 
 - https://v8.dev/blog/understanding-ecmascript-part-1
 - https://readspecwith.us
+- https://adambard.com/blog/on-library-versioning

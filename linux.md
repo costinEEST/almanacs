@@ -56,6 +56,7 @@
 - https://ma.ttias.be/different-ways-of-writing-crontab-syntax
 - [Linux Distributions Timeline.](https://github.com/FabioLolix/LinuxTimeline)
 - https://github.com/kmille/linux-debugging
+- https://linuxcommandlibrary.com/basic/oneliners.html
 
 ### Embedded
 
