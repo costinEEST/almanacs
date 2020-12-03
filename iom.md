@@ -43,6 +43,7 @@
 
 - [Blockchain & Smart Contracts by Loredana Cirstea](https://www.youtube.com/playlist?list=PL323JufuD9JDCW5Nl2gM8fCDm8Om3lsLA)
 - https://www.youtube.com/c/JacksonKelley/playlists
+- [Educational sandbox for building on web3. Visually understand how Ethereum works. ~ Austin Griffith](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 
 ### Demos
 
