@@ -57,6 +57,7 @@
 - https://lihautan.com/reactivity-in-web-frameworks-the-when
 - https://github.com/staltz/frontmania-rxjs-workshop
 - https://adambard.com/blog/javascript-design-pattern-binding-functions
+- https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges
 
 ### TIL
 

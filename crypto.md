@@ -43,6 +43,7 @@
 
 - [Theory and Practice of Cryptography](https://www.youtube.com/playlist?list=PL10875C2002F7E6F6)
 - [ Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+- [Workshop on Elliptic Curve Cryptography ECC 2020](https://eccworkshop.org/2020)
 
 ### Algorithms
 
