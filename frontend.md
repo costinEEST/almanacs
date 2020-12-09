@@ -208,10 +208,6 @@
 - [An interactive demo walk-through we built to give visitors a feel for what the Trevor.io platform does.](https://github.com/tagspace/trevor-demo)
 - https://trello.com/b/A4OmiAWb/100-no-code-resources
 
-### Tailwind
-
-- https://github.com/creativetimofficial/tailwind-starter-kit
-
 ### Miscellaneous
 
 - https://github.com/melanierichards/resources/blob/master/resources/misc.md

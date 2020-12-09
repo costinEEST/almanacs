@@ -76,6 +76,8 @@
 - [An extensive list of CSS/JS browserhacks from all over the interwebs.](https://github.com/4ae9b8/browserhacks)
 - https://www.magicpattern.design/tools/css-backgrounds
 - https://patrickbrosset.com/articles/2016-05-27-visual-Tools--Prototyping-in-the-browser
+- https://www.swyx.io/why-tailwind
+- https://github.com/creativetimofficial/tailwind-starter-kit
 
 ### TV
 

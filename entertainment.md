@@ -179,6 +179,7 @@
 - https://www.notion.so/A-Beginner-s-Guide-to-becoming-a-First-Principles-Thinker-637ab7236c8f49978f37457fa565edba + https://mobile.twitter.com/ayushswrites/status/1300482237683478529
 - [History of Philosophy - Summarized & Visualized](https://www.denizcemonduygu.com/philo) + https://twitter.com/denizcemonduygu/status/1049634375313309696
 - https://philosophynow.org/issues/122/Robert_Pirsig_and_His_Metaphysics_of_Quality + https://en.wikipedia.org/wiki/Pirsig%27s_Metaphysics_of_Quality
+- https://anamariaonisei.ro/cele-mai-bune-podcasturi-despre-filozofie-care-iti-raspund-intrebarilor-importante-despre-viata
 
 ### Build
 

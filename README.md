@@ -92,6 +92,7 @@
 - [Progressive web applications](pwa.md)
 - [Prolog](prolog.md)
 - [Python](python.md)
+- [Racket](racket.md)
 - [Reverse engineering](re.md)
 - [React](react.md)
 - [ReasonML](reasonml.md)

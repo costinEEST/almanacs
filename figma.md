@@ -22,6 +22,10 @@
 - [Build UX How Tos - Build UX](https://www.youtube.com/playlist?list=PLKFUh46KjXERWsJTTGT5rdqtD6XWmd726)
 - https://www.learnwithjason.dev/introduction-to-figma-for-developers
 
+### Tutorials
+
+- https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7
+
 ### Plugins
 
 - https://github.com/rsms/figma-plugins
