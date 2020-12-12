@@ -8,6 +8,7 @@
 - [Book reviews heart attack stroke prevention weight loss - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xQaTKb5QTizgOHbRFuKVUu)
 - http://nutriblog.ro/4043/carti-despre-dieta-ketogenica-low-carb-scrise-limba-romana.html
 - https://www.scribd.com/book/420546368/Dieta-ketogenica + https://books.google.ro/books?id=-xGnDwAAQBAJ
+- [The Magick of Food: Rituals, Offerings & Why We Eat Together ~ Gwion Raven](https://www.amazon.com/Magick-Food-Rituals-Offerings-Together/dp/0738760854)
 
 ### Cholesterol
 

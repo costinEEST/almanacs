@@ -271,3 +271,4 @@
 - https://blog.bitsrc.io/using-service-workers-with-react-27a4c5e2d1a9
 - https://www.smashingmagazine.com/2020/10/tasks-react-app-web-workers
 - https://marlom.dev/upgrade-to-react-17-and-webpack-5
+- https://dusaitis.com/bundle-your-react-app-with-rollup-js

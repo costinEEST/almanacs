@@ -44,6 +44,7 @@
 - https://www.typewolf.com/typography-books
 - [What font should be on your book cover?](https://twitter.com/PulpLibrarian/status/1222125153066323968)
 - [Use & Modify is a personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces.](https://usemodify.com)
+- https://wicki.io/posts/2020-11-goodbye-google-fonts
 
 ### TV
 
