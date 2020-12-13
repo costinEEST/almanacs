@@ -38,6 +38,7 @@
 - [A pure JavaScript implementation of git for node and browsers!](https://github.com/isomorphic-git/isomorphic-git)
 - https://github.com/shaneosullivan/git-shortcuts
 - https://httptoolkit.tech/blog/find-best-git-aliases
+- [Git hook is the new Husky](https://dev.to/krzysztofkaczy9/do-you-really-need-husky-247b)
 
 ### Github
 

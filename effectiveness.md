@@ -131,6 +131,7 @@
 - [Notes on WWHF Workshop ‘How To How-To’](https://ianlee1521.com/2020/03/13/wwhf-how-to-howto)
 - https://github.com/mnielsen/notes-on-writing
 - https://www.freecodecamp.org/news/how-to-improve-your-cover-letter
+- https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125
 
 ### Learning
 

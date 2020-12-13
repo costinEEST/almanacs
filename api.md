@@ -32,6 +32,7 @@
 - https://gitlab.com/dee-see/graphql-path-enum + https://blog.deesee.xyz/graphql/security/2020/04/13/graphql-permission-testing.html
 - https://github.com/APIs-guru/graphql-apis
 - https://github.com/sibelius/relay-workshop/tree/master/solutions
+- https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a
 
 ### gRPC
 

@@ -13,6 +13,7 @@
 - https://formidable.com/blog/2020/resize-observer
 - https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web + https://twitter.com/webkit/status/1318256785447211009
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html
+- https://iandunn.name/2019/11/29/minimal-cachestorage-cache-api-example
 
 ### Engines
 

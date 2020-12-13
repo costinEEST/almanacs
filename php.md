@@ -42,3 +42,4 @@
 - https://wildbit.com/blog/2016/11/01/how-we-chose-craft-cms-for-products-websites
 - https://github.com/tylerhall/simple-php-framework
 - https://www.freecodecamp.org/news/create-an-mvc-framework-from-scratch-with-php
+- https://iandunn.name/2020/04/24/array-of-countries-indexed-by-continent
