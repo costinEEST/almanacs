@@ -65,6 +65,7 @@
 - https://cjolowicz.github.io/posts/hypermodern-python-01-setup
 - https://github.com/gto76/python-cheatsheet
 - https://pyvideo.org/europython-2016/designing-a-pythonic-interface.html + https://twitter.com/kushaldas/status/1246801300307636224
+- https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech
 
 ### Security
 
@@ -104,6 +105,7 @@
 - [Geometric Algebra for Python](https://github.com/pygae/clifford)
 - [An extensively configurable tool providing a summary of the changes between two files or directories, ignoring all the fluff you don't care about.](https://github.com/airbus-seclab/diffware)
 - [Undeleting a file overwritten with mv](https://behind.pretix.eu/2020/11/28/undelete-flv-file)
+
 
 ### Testing
 

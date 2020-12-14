@@ -217,6 +217,7 @@
 - https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d
 - https://felixgerschau.com/react-performance-react-memo
 - https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance
+- https://nosleepjavascript.com/react-performance
 
 ### Demos
 

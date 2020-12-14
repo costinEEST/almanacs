@@ -209,6 +209,7 @@
 - [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
 - https://jasonet.co/posts/build-your-own-probot
 - https://github.com/srepollock/quote-bot-twitter + https://medium.com/swlh/how-i-built-a-serverless-aws-lambda-twitter-bot-in-nodejs-in-a-single-day-6901f8df13f0
+- [A bitcoin trading bot written in node](https://github.com/askmike/gekko)
 
 ### Serverless
 

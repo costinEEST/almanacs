@@ -33,6 +33,7 @@
 - https://github.com/APIs-guru/graphql-apis
 - https://github.com/sibelius/relay-workshop/tree/master/solutions
 - https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a
+- https://cult.honeypot.io/originals/graphql-the-documentary
 
 ### gRPC
 
