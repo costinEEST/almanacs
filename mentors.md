@@ -47,3 +47,7 @@
 ### Edsger W. Dijkstra
 
 - https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders
+
+### Ryan Holiday
+
+- https://www.perell.com/podcast/ryan-holiday
