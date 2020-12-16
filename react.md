@@ -73,6 +73,7 @@
 - [useEffectCallback custom hook is super helpful when you need to use callback props as dependencies on useEffect and other hooks](https://twitter.com/diegohaz/status/1324168516061245441) + https://codesandbox.io/s/react-useeffectcallback-yimwp
 - https://maxrozen.com/race-conditions-fetching-data-react-with-useeffect
 - https://github.com/GoogleChromeLabs/react-adaptive-hooks
+- https://www.lorenzweiss.de/common_mistakes_react_hooks
 
 ### Context API
 
@@ -261,6 +262,7 @@
 - https://jkettmann.com/beginners-guide-to-testing-react
 - https://katifrantz.com/course/react-testing-masterclass?license=dd88e19a-ab0d-4442-87ba-6e9051896bf0 + https://github.com/bahdcoder/testingreact.dev
 - https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps
+- https://kentcdodds.com/blog/stop-mocking-fetch
 
 ### Tooling
 

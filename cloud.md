@@ -54,3 +54,4 @@
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 - [Set up a personal VPN in the cloud.](https://github.com/trailofbits/algo)
 - https://github.com/Atarity/deploy-your-own-saas
+- [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.](https://github.com/cloudquery/cloudquery)

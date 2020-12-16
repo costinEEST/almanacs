@@ -128,6 +128,10 @@
 - https://github.com/rezaali/webgl-sketches
 - https://github.com/stackgl/webgl-workshop
 
+### void
+
+- [A case for using void in modern JavaScript](https://gist.github.com/slikts/dee3702357765dda3d484d8888d3029e)
+
 ### function () {}
 
 - https://github.com/you-dont-need/You-Dont-Need-Loops

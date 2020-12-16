@@ -4,6 +4,7 @@
 - https://twitter.com/JenMsft/status/1218526323271823360
 - [Where you can download a Windows XP, or even Windows 98 iso from?](https://twitter.com/SeanWrightSec/status/1255916099176206336)
 - https://nelsonslog.wordpress.com/2020/11/30/windows-10-sound-output-devices
+- [Replicating bash functions in Windows](https://gist.github.com/slikts/3f677287335589015cb8140f208b7c6d)
 
 ### Talks
 
@@ -30,6 +31,7 @@
 - [Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files.](https://github.com/tibold/svg-explorer-extension)
 - https://gitlab.com/massgrave/microsoft-activation-scripts
 - https://www.zdnet.com/google-amp/article/dell-releases-new-tool-to-detect-bios-attacks
+- [Linuxifying Windows for development](https://gist.github.com/slikts/63abbeb63b72b3f515c70258bfc19a44)
 
 ### Powershell
 
