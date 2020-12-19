@@ -226,6 +226,7 @@
 - https://www.youtube.com/playlist?list=PLVWaFpMwtaGiBxi79IUqnqn67WF5g5PR4
 - https://www.youtube.com/results?search_query=svidler+chess24+playlist
 - https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years + https://news.ycombinator.com/item?id=25108800
+- https://aeon.co/essays/playing-chess-is-an-essential-life-lesson-in-concentration
 
 ### Golf
 

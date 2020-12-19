@@ -85,6 +85,8 @@
 - [Perl](perl.md)
 - [PhotoShop](photoshop.md)
 - [PHP](php.md)
+- [Poetry](poetry.md)
+- [Poker](poker.md)
 - [Polymath](polymath.md)
 - [PowerShell](ps1.md)
 - [Privacy](privacy.md)
