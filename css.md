@@ -7,6 +7,10 @@
 - https://ferrumpipe.com
 - https://jeremenichelli.io/2016/04/always-animate-translate-instead-of-positions
 
+### Books
+
+- https://debuggingcss.com
+
 ### Color
 
 - https://colornamer.netlify.com
@@ -19,6 +23,7 @@
 - https://adamschwartz.co/magic-of-css/chapters/4-color
 - https://twitter.com/bucciblog/status/1325851426527080448
 - https://www.amazon.com/Color-David-Kastan/dp/0300171870
+- https://twitter.com/JaimeeBanksOS/status/1333274992067436546
 
 ### Measurement units
 

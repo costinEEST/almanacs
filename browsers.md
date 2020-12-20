@@ -141,6 +141,7 @@ javascript: (() =>
 - [A tool to capture communication between Chromium processes on Windows in real-time using Wireshark, by capturing data sent over named pipes.](https://github.com/tomer8007/chromium-ipc-sniffer)
 - [Hidden Features of Chrome DevTools](https://martinheinz.dev/blog/33)
 - https://www.mattzeunert.com/2016/03/17/devtools-never-pause-here.html
+- [The feature was launched as AMP Stories, which has now been rebranded to Web Stories.](https://news.ycombinator.com/item?id=25377695)
 
 ### Brave
 
@@ -166,6 +167,8 @@ javascript: (() =>
 - https://www.troyhunt.com/promiscuous-cookies-and-their-impending-death-via-the-samesite-policy
 - https://blog.reconless.com/samesite-by-default
 - [Stealing Session Cookies with Tcpdump](https://nullprogram.com/blog/2016/06/23)
+- [How to Store Session Tokens in a Browser (and the impacts of each)](https://blog.ropnop.com/storing-tokens-in-browser)
+- https://rudism.com/cookie-monster
 
 ### Content Security Policy
 
@@ -189,6 +192,7 @@ javascript: (() =>
 ### WebGL
 
 - https://github.com/davidwparker/programmingtil-webgl + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl
+- https://www.pheelicks.com/speaking
 
 ### Headless
 

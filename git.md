@@ -58,3 +58,4 @@
 - [Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog)
 - [A syntax-highlighter for git and diff output](https://github.com/dandavison/delta)
 - [Seriously am I the only one around here using SourceTree?](https://twitter.com/AdamRackis/status/1315682500971298817)
+- [Radicle: A peer-to-peer alternative to GitHub](https://news.ycombinator.com/item?id=25313010)

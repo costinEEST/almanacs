@@ -28,3 +28,7 @@
 - https://twitter.com/thomasdarimont/status/1310329696446488579 + https://www.youtube.com/watch?v=Bdoi7BDhrWc + https://gist.github.com/vivekhaldar/92368f35da2d8bb8f12734d840d11cfa
 - https://www.singhkays.com/blog/docker-image-av1-ffmpeg-libaom
 - https://benfrain.com/a-home-video-studio-everything-you-need-to-record-edit-and-publish-video-for-courses-and-youtube
+
+### Opinions
+
+- https://rudism.com/a-proposal-for-a-decentralized-youtube-alternative

@@ -201,6 +201,7 @@
 - https://mailchi.mp/667e9af04cfa/spitting-image?e=12229ba061 + https://www.protocols.io/workspaces/coronavirus-method-development-community + https://youtu.be/CbzwyigvfRY
 - [Judy A. Mikovits](https://twitter.com/o_rips/status/1320587067601031169)
 - https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system
+- https://www.amazon.com/Apollos-Arrow-Profound-Enduring-Coronavirus/dp/0316628212
 
 ### Radiation
 

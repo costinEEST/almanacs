@@ -45,6 +45,7 @@
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeao8hSw3tegcabrp8vV55t
 - https://www.youtube.com/user/currankelleher/playlists
+- https://www.serendipidata.com/posts/data-visualization-video-inspiration
 
 ### Radio
 

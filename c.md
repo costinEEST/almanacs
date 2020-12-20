@@ -43,6 +43,7 @@
 ### Opinions
 
 - [How to C in 2016](https://matt.sh/howto-c)
+- https://github.com/mkirchner/linked-list-good-taste + [Linus Torvalds' linked list argument for good taste, explained](https://news.ycombinator.com/item?id=25326552)
 
 ### References
 

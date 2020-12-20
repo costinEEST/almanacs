@@ -3,6 +3,7 @@
 - [Great White Sharks Are Completely Terrified of Orcas](https://www.smithsonianmag.com/smart-news/great-white-sharks-are-completely-terrified-orcas-180972009)
 - https://www.amazon.com/Extreme-Life-Sea-Stephen-Palumbi/dp/0691169810 + https://neal.fun/deep-sea
 - http://www.overcomingbias.com/2020/01/how-bees-argue.html
+- https://www.nationalgeographic.com/animals/2020/12/honeybees-use-tools-dung-repels-giant-hornets + https://news.ycombinator.com/item?id=25380002
 - https://www.nationalgeographic.com/environment/2019/01/termites-protect-rainforests-climate-drought
 - https://www.bbc.com/future/article/20191211-crows-could-be-the-smartest-animal-other-than-primates
 - https://www.inverse.com/science/ultra-black-fish-discovery
