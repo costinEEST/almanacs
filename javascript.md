@@ -227,6 +227,7 @@
 - https://www.blueskyonmars.com/2015/10/01/side-effects-vs-promises
 - https://twitter.com/jasnell/status/1252999617190391808 + https://eng.lifion.com/promise-allpocalypse-cfb6741298a7
 - https://medium.com/@arsenyyankovsky/effective-limited-parallel-execution-in-javascript-ea2a1fb9a632 + https://www.npmjs.com/package/@supercharge/promise-pool
+- https://advancedweb.hu/what-is-the-async-disposer-pattern-in-javascript
 
 ### async await
 
@@ -415,6 +416,7 @@
 - https://jkrishna.dev/post/lerna
 - https://souporserious.com/use-babel-to-statically-analyze-jsx
 - [What You Need To Know About npm Workspaces](https://hyperfoo.io/posts/npm-7-workspaces-1)
+- [Measure and compare JavaScript libraries](https://moiva.io)
 
 ### Documentation
 

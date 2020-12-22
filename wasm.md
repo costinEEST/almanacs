@@ -15,6 +15,7 @@
 - https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics
 - [How to create polyglot HTML/JS/WebAssembly module](https://advancedsecurity.training/posts/webassembly-polyglot)
 - [Going from JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly)
+- https://codeburst.io/getting-started-with-react-and-webassembly-using-hooks-441818c91608
 
 ### Opinions
 

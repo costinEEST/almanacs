@@ -58,3 +58,4 @@
 - https://github.com/lk-geimfari/awesomo/blob/master/languages/C.md
 - [Operating Systems Fall 2020 (CS 301)](https://nipunbatra.github.io/os2020)
 - https://github.com/danbev/learning-c
+- [Why JavaScript months start from 0](https://www.hillelwayne.com/post/always-more-history)
