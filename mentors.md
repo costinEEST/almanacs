@@ -24,6 +24,10 @@
 
 - https://www.versobooks.com/blogs/2577-a-hacktivist-reading-list-aaron-swartz-s-recommended-reading
 
+### Daniel Zărnescu
+
+- https://www.cristinachipurici.ro/2020/10/15/daniel-zarnescu-cristina-chipurici-podcast
+
 ### Derek Sivers
 
 - https://store.sivers.org/1
