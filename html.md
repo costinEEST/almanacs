@@ -1,14 +1,4 @@
-### <meta />
 
-- https://textslashplain.com/2020/05/15/meta-charset
-
-### <select></select>
-
-- https://sarahmhigley.com/writing/select-your-poison
-
-### <button></button>
-
-- https://ishadeed.com/article/styling-the-good-old-button
 
 ### Accessibility
 
@@ -36,11 +26,49 @@
 - https://localizejs.com/articles/why-using-flag-icons-can-confuse-your-users
 - https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/1-getting-started-lessons/3-accessibility/README.md
 - https://designmodo.com/email-accessibility
+- https://gomakethings.com/the-difference-between-aria-label-aria-labelledby-and-aria-describedby
+- https://adamsilver.io/articles/avoiding-tab-styles-for-navigation
+
+### <button></button>
+
+- https://ishadeed.com/article/styling-the-good-old-button
+
+
+### <details></details>
+
+- https://css-tricks.com/exploring-what-the-details-and-summary-elements-can-do
+
+### <meta />
+
+- https://textslashplain.com/2020/05/15/meta-charset
+
+### <select></select>
+
+- https://sarahmhigley.com/writing/select-your-poison
+
+### Performance
+
+- [future-web-perf by Vitaly Friedman](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf)
+- https://github.com/melanierichards/resources/blob/master/resources/performance.md
+- https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
+- https://github.com/shuhei/knowledge/blob/master/web-perf.md
+- https://github.com/luruke/awesome-casestudy
+- https://github.com/fabkrum/web-performance-resources
+- [Mobile Image Processing at London Web Perf Meetup, 2016](https://twitter.com/IacobanIulia/status/1218323157909737473)
+- [Stop manifest.json from opening a new TLS.](https://twitter.com/TimVereecke/status/1225547620791341062)
+- [Quick tips you can give fellow developers to help them improve performance in their web apps?](https://twitter.com/davidwalshblog/status/1242209784172085249)
+- https://www.debugbear.com/blog/performant-front-end-architecture
+- https://calibreapp.com/blog/performance-for-designers-images
+- https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews
 
 ### Progressive Enhancement
 
 - https://gomakethings.com/progressive-enhancement-graceful-degradation-and-asynchronously-loading-css
 - https://quii.dev/How_my_website_works
+- https://christianheilmann.com/2020/11/26/back-to-basics-creating-a-clickable-card-interface-in-plain-html-css-and-javascript + https://github.com/codepo8/full-card-click
+- [Put the contents of a textarea into localStorage if the user leaves the page before submitting the form.](https://adactio.com/journal/17516)
+- https://jross.me/progressively-delivering-new-image-formats-with-css-and-cloudflare-workers
+- https://polypane.app/blog/creating-websites-with-prefers-reduced-data
 
 ### Radio
 
@@ -51,6 +79,8 @@
 - https://lab.html5test.com
 - https://livedom.lab.xss.academy + https://twitter.com/SecurityMB/status/1318988961990193153
 - [Browser support on link and script events](https://pie.gd/test/script-link-events)
+- [Beautiful image placeholders, without the hassle](https://github.com/joe-bell/plaiceholder)
+- [A very compact representation of a placeholder for an image.](https://github.com/woltapp/blurhash)
 
 ### TV
 
@@ -66,6 +96,7 @@
 - https://www.goodemailcode.com
 - https://meiert.com/en/blog/minimal-web-development
 - https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
+- [top of a page](https://twitter.com/simonhearne/status/1259927098040467457)
 
 ### Security
 

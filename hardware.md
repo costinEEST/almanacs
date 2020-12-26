@@ -62,6 +62,7 @@
 - https://www.youtube.com/c/lockpickinglawyer/playlists
 - https://www.youtube.com/c/jeriellsworth/playlists
 - [Computer History - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc5y3yXGO1VDXtzLeVcr5kCl)
+- http://thatmakershow.com
 
 ### Tools
 

@@ -40,6 +40,7 @@
 - https://ishadeed.com/article/finding-the-root-cause
 - https://css-tricks.com/a-complete-guide-to-css-gradients
 - https://dev.opera.com/articles/css-will-change-property + https://aerotwist.com/blog/bye-bye-layer-hacks
+- https://www.bram.us/2020/11/30/native-aspect-ratio-boxes-in-css-thanks-to-aspect-ratio
 
 ### Selectors
 
@@ -62,6 +63,7 @@
 - [Grid by example, Rachael Andrew](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR)
 - https://piccalil.li/tutorial/build-a-responsive-media-browser-with-css
 - https://frontend.horse/articles/thinking-outside-the-box-with-css-grid
+- https://calendartricks.com/a-calendar-in-three-lines-of-css
 
 ### Demos
 

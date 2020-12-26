@@ -167,19 +167,6 @@
 - [User Experience Fundamentals - The Team W](https://www.youtube.com/playlist?list=PLXyx-Y-4xxNRANuIRlC7GnsvlMOOuCVzZ)
 - https://growth.design/case-studies/tiktok-feed-psychology
 
-### Performance
-
-- [future-web-perf by Vitaly Friedman](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf)
-- https://github.com/melanierichards/resources/blob/master/resources/performance.md
-- https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
-- https://github.com/shuhei/knowledge/blob/master/web-perf.md
-- https://github.com/luruke/awesome-casestudy
-- https://github.com/fabkrum/web-performance-resources
-- [Mobile Image Processing at London Web Perf Meetup, 2016](https://twitter.com/IacobanIulia/status/1218323157909737473)
-- [Stop manifest.json from opening a new TLS.](https://twitter.com/TimVereecke/status/1225547620791341062)
-- [Quick tips you can give fellow developers to help them improve performance in their web apps?](https://twitter.com/davidwalshblog/status/1242209784172085249)
-- https://www.debugbear.com/blog/performant-front-end-architecture
-- https://calibreapp.com/blog/performance-for-designers-images
 
 ### Portfolios
 

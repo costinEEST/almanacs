@@ -21,6 +21,7 @@
 - https://github.com/musically-ut/first-timers-only-bot
 - https://github.com/yasoob/fb-messenger-bot
 - https://github.com/snori74/auto-luc
+- https://www.freecodecamp.org/news/create-a-discord-bot-with-python
 
 ### Clean code
 

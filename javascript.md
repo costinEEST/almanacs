@@ -85,7 +85,7 @@
 - https://abdulapopoola.com/2020/11/11/avoid-bugs-by-understanding-hole-processing-in-js-arrays
 - https://programming-idioms.org/cheatsheet/JS
 - https://github.com/sadanandpai/javascript-code-challenges
-- https://ui.dev/creating-your-own-array
+- https://ui.dev/creating-your-own-array + https://twitter.com/jcubic/status/1342179006683209728
 
 ### Books
 

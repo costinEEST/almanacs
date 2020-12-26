@@ -37,6 +37,7 @@
 
 - [Why are song lyrics so often about love (or heartbreak)?](https://twitter.com/devonzuegel/status/1244386611657228288)
 - https://www.youtube.com/c/SoundFieldPBS/playlists
+- [Sound Exploder podcast series](https://twitter.com/asinnema/status/1342252228976013314)
 
 ### Jazz
 
