@@ -82,6 +82,8 @@
 - [Algorithmic trading (books).](https://twitter.com/infinitesimal_p/status/1241450272154693632)
 - [I want to learn about stocks and investment.](https://twitter.com/cotufa82/status/1242960305635954689)
 - [Warren Buffett's Secret Millionaires Club](https://www.youtube.com/user/SecretMillionaires/playlists)
+- https://www.thinknewfound.com/podcast
+- [Diversification - More than What (Corey Hoffstein)](https://vimeo.com/374948821)
 
 ### Economics
 

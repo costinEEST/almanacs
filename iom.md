@@ -4,6 +4,8 @@
 - https://www.ofnumbers.com/2018/07/17/cryptocurrency-and-blockchain-related-book-reviews
 - https://www.dappuniversity.com/articles/the-complete-blockchain-developer-resource-list#books
 - https://github.com/loomnetwork/soliditycookbook.com
+- https://aantonop.com/customer-account/downloads
+- https://www.scribd.com/book/424830075/Handbook-of-Blockchain-Digital-Finance-and-Inclusion-Cryptocurrency-FinTech-InsurTech-Regulation-ChinaTech-Mobile-Security-and-Distributed-Le
 
 ### Courses
 
@@ -55,7 +57,10 @@
 - [Emin Gün Sirer](https://hackingdistributed.com)
 - [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me)
 - https://www.coindesk.com/most-influential/2020
+- [Koroush AK](https://koroushak.substack.com/about)
+- https://newsletter.banklesshq.com/about
 
 ### TV
 
 - https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies
+- [Decentralization: DeFi, DID, DEX and more (aantonop)](https://www.youtube.com/playlist?list=PLPQwGV1aLnTsWvo0ieJLN-UINWUjr10a7)
