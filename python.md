@@ -22,6 +22,7 @@
 - https://github.com/yasoob/fb-messenger-bot
 - https://github.com/snori74/auto-luc
 - https://www.freecodecamp.org/news/create-a-discord-bot-with-python
+- [Simple Bot to Track Balances using Python, SQLite, & Flask ](https://github.com/CryptoGnome/Crypto-Tracker)
 
 ### Clean code
 
@@ -60,6 +61,7 @@
 - https://twitter.com/jgerity/status/1207009338579132417
 - https://nkanaev.github.io/posts/polyglot
 - https://github.com/judy2k/stupid-python-tricks
+- https://smarx.com/posts/2020/12/memoization-in-one-line-of-python
 
 ### References
 

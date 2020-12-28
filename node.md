@@ -212,6 +212,7 @@
 - https://github.com/srepollock/quote-bot-twitter + https://medium.com/swlh/how-i-built-a-serverless-aws-lambda-twitter-bot-in-nodejs-in-a-single-day-6901f8df13f0
 - [A bitcoin trading bot written in node](https://github.com/askmike/gekko)
 
+
 ### Serverless
 
 - [Building and deploying modern websites and apps - GitHub Universe 2019](https://youtu.be/KlO5Ksk7baQ)

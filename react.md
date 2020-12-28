@@ -114,6 +114,7 @@
 - [Accept `children` as a function (a.k.a. render props) and `as` prop](https://twitter.com/diegohaz/status/1236383871580717056)
 - https://github.com/Lemoncode/render-props-typescript
 - https://github.com/danburzo/react-recipes
+- https://unicorn-utterances.com/posts/react-refs-complete-story
 
 ### Concurrent Mode/Suspense
 
@@ -166,6 +167,10 @@
 - [react-suspense-router in SSR.](https://twitter.com/dai_shi/status/1226884015669399559)
 - https://twitter.com/benawad/status/1239615944298815488
 - https://github.com/chec/commercejs-nextjs-demo-store
+
+### Server components
+
+- https://dev.to/swyx/an-annotated-guide-to-the-react-server-components-demo-2a83
 
 ### State management
 

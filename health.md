@@ -202,6 +202,7 @@
 - [Judy A. Mikovits](https://twitter.com/o_rips/status/1320587067601031169)
 - https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system
 - https://www.amazon.com/Apollos-Arrow-Profound-Enduring-Coronavirus/dp/0316628212
+- https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2020
 
 ### Radiation
 

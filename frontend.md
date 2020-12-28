@@ -184,6 +184,7 @@
 - https://github.com/rdev/fivepointseven
 - https://weblium.com/blog/website-redesign-step-by-step-process-tips-and-examples
 - [Adil Majid](https://blog.adilmajid.com) for the minimalist approach
+- [William Entriken](https://phor.net/bookmarks), almost no CSS
 
 ### Inspire
 

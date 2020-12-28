@@ -146,10 +146,6 @@
 - https://quanticdev.com/articles/most-valuable-thing-to-learn-in-one-hour
 - https://superorganizers.substack.com/p/how-to-build-a-learning-machine
 
-### Reading
-
-- [How to Mark a Book By Mortimer J. Adler, Ph.D.](http://chuma.cas.usf.edu/~pinsky/mark_a_book.htm)
-
 ### Websites/Newsletters
 
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit

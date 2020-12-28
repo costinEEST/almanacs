@@ -46,3 +46,4 @@
 ### Security
 
 - [SurfingAttack: Interactive Hidden Attack on VoiceAssistants Using Ultrasonic Guided Waves](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24068.pdf)
+- [Keytap2 - acoustic keyboard eavesdropping based on language n-gram frequencies](https://github.com/ggerganov/kbd-audio/discussions/31) + https://youtu.be/q2gxPcPg8IM + https://twitter.com/roman_soft/status/1339580193497870336 + http://int3pids.blogspot.com/2012/05/plaidctf-2012-traitor-200-pts.html

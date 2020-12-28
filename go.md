@@ -1,3 +1,8 @@
+### Boots
+
+- - https://smarx.com/posts/2020/09/shove-it-up-your-bot-an-intro-to-slack-bots + https://github.com/smarx/shoveitupyourbot
+
+
 ### Tutorials
 
 - https://github.com/miguelmota/golang-for-nodejs-developers
@@ -9,6 +14,7 @@
 - https://golangbot.com/learn-golang-series
 - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine
 - https://github.com/quii/learn-go-with-tests
+- https://github.com/gophertuts/go-basics
 
 ### Courses
 

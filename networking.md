@@ -84,6 +84,7 @@
 - [RF data exfiltration from airgapped systems using Ethernet cable as an antenna, and nic as modulator, receiver at 100m.](https://github.com/sq5bpf/etherify) + https://lipkowski.com/etherify + https://twitter.com/dragosr/status/1325828826404802566
 - https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727
 - [A Twilio-powered interactive talk radio platform](https://capiche.fm) + https://news.ycombinator.com/item?id=25424103
+- [Transmits AM radio on computers without radio transmitting hardware.](https://github.com/fulldecent/system-bus-radio)
 
 ### 5G
 
