@@ -6,3 +6,4 @@
 
 - https://phor.net/reading-list
 - https://lokeshdhakar.com/notes
+- https://highlights.melanie-richards.com + https://github.com/melanierichards/highlights

@@ -224,6 +224,8 @@
 - https://felixgerschau.com/react-performance-react-memo
 - https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance
 - https://nosleepjavascript.com/react-performance
+- https://imkev.dev/react-rendering-order
+- https://github.com/tryshchenko/es6-generators-benchmark
 
 ### Demos
 

@@ -29,6 +29,7 @@
 - https://gomakethings.com/the-difference-between-aria-label-aria-labelledby-and-aria-describedby
 - https://adamsilver.io/articles/avoiding-tab-styles-for-navigation
 - https://github.com/fabkrum/accessibility-resources
+- https://twitter.com/mmatuzo/status/1343807665533820929
 
 ### <button></button>
 
@@ -47,20 +48,25 @@
 
 - https://sarahmhigley.com/writing/select-your-poison
 
+
+### <title></title>
+
+- https://twitter.com/tunetheweb/status/1343848054571593729 + https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute
+
+
 ### Performance
 
+- https://github.com/fabkrum/web-performance-resources
 - [future-web-perf by Vitaly Friedman](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf)
-- https://github.com/melanierichards/resources/blob/master/resources/performance.md
 - https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
 - https://github.com/shuhei/knowledge/blob/master/web-perf.md
-- https://github.com/luruke/awesome-casestudy
-- https://github.com/fabkrum/web-performance-resources
 - [Mobile Image Processing at London Web Perf Meetup, 2016](https://twitter.com/IacobanIulia/status/1218323157909737473)
 - [Stop manifest.json from opening a new TLS.](https://twitter.com/TimVereecke/status/1225547620791341062)
 - [Quick tips you can give fellow developers to help them improve performance in their web apps?](https://twitter.com/davidwalshblog/status/1242209784172085249)
 - https://www.debugbear.com/blog/performant-front-end-architecture
 - https://calibreapp.com/blog/performance-for-designers-images
-- https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews
+- https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews + https://calendar.perfplanet.com/2020/learnings-from-setting-up-a-performance-device-lab
+
 
 ### Progressive Enhancement
 

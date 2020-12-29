@@ -331,6 +331,7 @@
 - [.dom is a tiny (512 byte) template engine that uses virtual DOM and some of react principles.](https://github.com/wavesoft/dot-dom)
 - https://www.malgol.com/how-to-reload-an-iframe-in-javascript
 - [Avoid appending to innerHTML](https://twitter.com/jaffathecake/status/1322136845199810560)
+- https://github.com/Schepp/async-document.write
 
 ### Single-page application
 

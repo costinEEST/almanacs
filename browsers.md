@@ -193,6 +193,7 @@ javascript: (() =>
 
 - https://github.com/davidwparker/programmingtil-webgl + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl
 - https://www.pheelicks.com/speaking
+- https://github.com/luruke/awesome-casestudy
 
 ### Headless
 
