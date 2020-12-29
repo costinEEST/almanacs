@@ -58,6 +58,7 @@
 - https://github.com/staltz/frontmania-rxjs-workshop
 - https://adambard.com/blog/javascript-design-pattern-binding-functions
 - https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges
+- https://twitter.com/mgechev/status/1340082705086726144
 
 ### TIL
 
@@ -307,6 +308,7 @@
 - [Regular expression that remove second occurrence of a character in a string.](https://stackoverflow.com/a/18258553)
 - [Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language.](https://github.com/francisrstokes/super-expressive)
 - https://stackoverflow.com/questions/770523/escaping-strings-in-javascript/22837870
+- https://github.com/kevva/credit-card-regex
 
 ### new Worker()
 
@@ -328,6 +330,7 @@
 - [Async DOM listeners](https://twitter.com/WebReflection/status/1260474785894666242)
 - [.dom is a tiny (512 byte) template engine that uses virtual DOM and some of react principles.](https://github.com/wavesoft/dot-dom)
 - https://www.malgol.com/how-to-reload-an-iframe-in-javascript
+- [Avoid appending to innerHTML](https://twitter.com/jaffathecake/status/1322136845199810560)
 
 ### Single-page application
 

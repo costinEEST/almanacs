@@ -7,6 +7,7 @@
 - https://aantonop.com/customer-account/downloads
 - https://www.scribd.com/book/424830075/Handbook-of-Blockchain-Digital-Finance-and-Inclusion-Cryptocurrency-FinTech-InsurTech-Regulation-ChinaTech-Mobile-Security-and-Distributed-Le
 - https://ethereumbook.info + https://github.com/ethereumbook/ethereumbook
+- https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X
 
 ### Courses
 

@@ -64,6 +64,9 @@
 - [Building a Production Mail Server in 2018](https://matt.sh/email2018)
 - [Setting Web Server Options for 2018](https://matt.sh/web2018)
 - https://miguelmota.com/blog/getting-started-with-wireguard
+- [Creates Wireguard configuration for hub and peers with ease](https://github.com/burghardt/easy-wg-quick)
+- https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://selfhostedsource.tech/self-hosted/all
 
 ### References
 

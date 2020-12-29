@@ -26,6 +26,7 @@
 - [Wheregoes - A tool for tracing the redirect path of URLs](https://wheregoes.com)
 - https://themarkup.org/google-the-giant/2020/11/19/as-antitrust-pressure-mounts-google-to-pull-back-benefit-to-news-sites-that-adopted-its-preferred-mobile-technology + https://twitter.com/themarkup/status/1329409297281781760
 - https://www.haaretz.com/israel-news/tech-news/.premium-israeli-spy-tech-firm-says-it-can-break-into-signal-app-previously-considered-safe-1.9368581
+- https://github.com/Igglybuff/awesome-piracy
 
 ### Techniques
 
@@ -37,6 +38,7 @@
 - https://simonwillison.net/2020/Nov/14/personal-data-warehouses + https://news.ycombinator.com/item?id=25090218
 - https://www.gov.uk/guidance/protect-domains-that-dont-send-email
 - https://github.com/adilmajid/privacy-for-the-paranoid
+- https://github.com/bslassey/ip-blindness
 
 ### Social media
 

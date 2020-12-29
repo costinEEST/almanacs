@@ -109,6 +109,7 @@
 - [Geometric Algebra for Python](https://github.com/pygae/clifford)
 - [An extensively configurable tool providing a summary of the changes between two files or directories, ignoring all the fluff you don't care about.](https://github.com/airbus-seclab/diffware)
 - [Undeleting a file overwritten with mv](https://behind.pretix.eu/2020/11/28/undelete-flv-file)
+- [get things from one computer to another, safely](https://github.com/warner/magic-wormhole)
 
 
 ### Testing

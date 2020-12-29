@@ -5,3 +5,4 @@
 ### Reviews
 
 - https://phor.net/reading-list
+- https://lokeshdhakar.com/notes

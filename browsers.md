@@ -120,7 +120,7 @@ javascript: (() =>
 
 - [Speed Controls.](https://codepen.io/wilman/pen/ZWdEPX)
 - [Find out which element is scrolling.](https://gist.github.com/brumm/74fd7eaafd50c8477519)
-- https://github.com/micmro/performance-bookmarklet
+- [Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.](https://github.com/micmro/performance-bookmarklet)
 - https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii
 - https://alan.norbauer.com/articles/bookcision
 - https://emanuelduss.ch/2020/06/humble-book-bundle-download-bookmarklet
@@ -199,6 +199,7 @@ javascript: (() =>
 - [Node library to automate Chromium, Firefox and WebKit browsers.](https://github.com/microsoft/playwright) + [opinion](https://twitter.com/xopek59/status/1221460300387573760)
 - [Comparing Cypress and Puppeteer](https://swatinem.de/blog/cypress-puppeteer)
 - [Capture screenshots in multiple browsers!](https://github.com/juliangruber/capture-screenshot)
+- [Puppeteer example scripts for running Headless Chrome from Node.](https://github.com/checkly/puppeteer-examples)
 
 ### Miscellaneous
 

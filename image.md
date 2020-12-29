@@ -16,6 +16,7 @@
 - [A frame by frame GIF editor with Photoshop vibes](https://news.ycombinator.com/item?id=22696179)
 - [Photo Realistic QR-Codes](https://news.ycombinator.com/item?id=24158125)
 - [Recovers JPG images from SD cards and hard drives.](https://github.com/saintmarina/undelete_jpg)
+- [Serving WebP images with htaccess](https://github.com/vincentorback/WebP-images-with-htaccess)
 
 ### Photos
 

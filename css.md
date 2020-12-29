@@ -24,6 +24,8 @@
 - https://twitter.com/bucciblog/status/1325851426527080448
 - https://www.amazon.com/Color-David-Kastan/dp/0300171870
 - https://twitter.com/JaimeeBanksOS/status/1333274992067436546
+- [A color palette generator for design systems.](https://twitter.com/lokesh/status/1206591284908969984) + https://lokeshdhakar.com/projects/color-stacks
+
 
 ### Measurement units
 
@@ -85,7 +87,8 @@
 - https://patrickbrosset.com/articles/2016-05-27-visual-Tools--Prototyping-in-the-browser
 - https://www.swyx.io/why-tailwind
 - https://github.com/creativetimofficial/tailwind-starter-kit
-
+- [Grab the color palette from an image using just Javascript. Works in the browser and in Node.](https://github.com/lokesh/color-thief)
+  
 ### TV
 
 - ["Making Things Better: Redefining the Technical Possibilities of CSS" by Rachel Andrew](https://aneventapart.com/news/post/making-things-better-aea-video)
