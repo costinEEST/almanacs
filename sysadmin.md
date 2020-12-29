@@ -58,6 +58,8 @@
 - https://www.datadoghq.com/container-report
 - https://dev.to/sarmadsaleem/container-orchestration-tools-explained-1c4i
 - https://adambard.com/blog/transitioning-from-docker-machines-to-kubernetes
+- https://github.com/external-secrets/kubernetes-external-secrets
+- https://github.com/vinta/simple-project-on-k8s
 
 ### Servers
 

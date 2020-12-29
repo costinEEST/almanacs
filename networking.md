@@ -157,6 +157,7 @@
 
 - https://github.com/EFForg/https-everywhere
 - https://howhttps.works/episodes
+- https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html
 
 ### HTTP2
 
