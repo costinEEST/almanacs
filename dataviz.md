@@ -40,6 +40,7 @@
 - https://github.com/willianjusten/awesome-audio-visualization
 - [A data visualization curriculum of interactive notebooks.](https://github.com/uwdata/visualization-curriculum)
 - [To design and develop an interactive globe](https://stripe.com/blog/globe) + https://news.ycombinator.com/item?id=24350546
+- https://jsvine.github.io/intro-to-visidata/the-big-picture/visidata-in-60-seconds + https://news.ycombinator.com/item?id=25322091
 
 ### Talks
 

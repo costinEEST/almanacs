@@ -48,6 +48,7 @@
 - https://highintensityhealth.com/snacking-before-bed-may-slow-weight-loss-fat-oxidation
 - [Ford brewer sleep](https://www.youtube.com/playlist?list=PL0TLaocCMc9wkkJ0_lVNSRVvsoYH7QDBM)
 - [Home sleep studies - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z1wfXgDNilmpXY7YQklqqA)
+- [Sleep duration is associated with white matter microstructure and cognitive performance in healthy adults](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25132) + https://news.ycombinator.com/item?id=25246419
 
 ### Fitness
 
@@ -202,7 +203,7 @@
 - [Judy A. Mikovits](https://twitter.com/o_rips/status/1320587067601031169)
 - https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system
 - https://www.amazon.com/Apollos-Arrow-Profound-Enduring-Coronavirus/dp/0316628212
-- https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2020
+- https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2020 + https://news.ycombinator.com/item?id=25356485
 
 ### Radiation
 

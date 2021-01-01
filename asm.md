@@ -6,6 +6,7 @@
 ### References
 
 - https://notes.shichao.io/asm
+- [x86, x64, ARM? I Just Want to Download my Program!](https://marinhero.com/posts/architectures)
 
 ### Tutorials
 

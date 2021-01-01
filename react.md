@@ -103,6 +103,7 @@
 - [Simple react component for swipe events on touch.](https://github.com/moubi/swipeable-react)
 - [Accessible custom select component](https://twitter.com/devongovett/status/1248304777588441088)
 - https://github.com/duetds/date-picker#usage-with-react
+- https://jeffchen.dev/posts/Detecting-Widows-In-React
 
 ### Patterns
 
@@ -194,6 +195,11 @@
 - https://dev.to/dabit3/react-state-6-ways-2bem
 - https://daveceddia.com/freebies/guide-to-react-state-management.pdf
 - https://changelog.com/posts/when-and-when-not-to-reach-for-redux
+
+
+### Preact
+
+- https://github.com/jchen1/website
 
 ### Packages
 

@@ -67,6 +67,7 @@
 - https://lindiebotes.com/2020/06/26/how-to-learn-chinese-characters
 - https://www.youtube.com/c/%E9%98%BF%E7%A6%8FThomas/playlists
 - https://ralphammer.com/the-book-of-change
+- https://sites.google.com/stanford.edu/cantonese/language-resources + https://twitter.com/kginlum/status/1334213475011231744
 
 ### Danish
 

@@ -11,6 +11,7 @@
 - [ESP32-Cam Quickstart with Arduino Code](https://youtu.be/Sb08leLWOgA)
 - https://arunoda.me/blog/building-a-connected-ammeter-with-arduino
 - [A decentralized system of synchronized lights to coordinate urban mobility swarms.](https://github.com/aberke/city-science-bike-swarm)
+- https://blog.yifangu.com/2020/12/30/wasmino-wasm-arduino-running-arduino-code-in-browser
 
 ### ESP32
 

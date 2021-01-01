@@ -11,6 +11,8 @@
 - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1)
 - https://kevinmartinjose.com/2020/11/22/vimcharm-approximating-pycharm-on-vim
 - https://news.ycombinator.com/item?id=25371020 + https://rudism.com/vim-creep
+- https://thevaluable.dev/vim-intermediate
+- [A terminal-based workflow for research, writing, and programming](https://news.ycombinator.com/item?id=25297268)
 
 ### TV
 

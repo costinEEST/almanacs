@@ -67,6 +67,7 @@ curl v2.wttr.in/Bucharest
 - [Full list of timezones.](https://github.com/dmfilipenko/timezones.json)
 - [A PHP client for Apple's Find My iPhone service.](https://github.com/tylerhall/sosumi)
 - https://github.com/eveporcello/simple-strava-sample + https://moonhighway.com/incorporating-rest-data
+- https://github.com/apilayer/restcountries
 
 ### Shopping
 
@@ -75,6 +76,7 @@ curl v2.wttr.in/Bucharest
 ### Languages
 
 - [Microsoft Translator Text API v3.](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-NodeJS)
+- https://github.com/cortexlabs/cortex/tree/translator-example/examples/model-caching/python/translator
 
 ### Miscellaneous
 

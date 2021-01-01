@@ -45,6 +45,7 @@
 - [A blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript](https://github.com/KFlash/seafox)
 - https://sibelius.github.io/talk-maringa-ast
 - https://dev.to/kwelch/automating-the-pain-away-bnb
+- https://hachibu.net/talks/2020/exploring-javascript-tagged-template-strings
 
 ### Obfuscation
 
@@ -332,6 +333,7 @@
 - https://www.malgol.com/how-to-reload-an-iframe-in-javascript
 - [Avoid appending to innerHTML](https://twitter.com/jaffathecake/status/1322136845199810560)
 - https://github.com/Schepp/async-document.write
+- https://hachibu.net/posts/2020/keyboard-events-tldr
 
 ### Single-page application
 

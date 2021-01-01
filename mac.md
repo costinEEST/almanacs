@@ -5,6 +5,11 @@
 - [Auto Wake Up, Auto play favorite music](https://blog.hoangnm.com/2016/02/29/auto-wake-up-autoplay-favourite-music)
 - https://github.com/nikitavoloboev/my-mac-os
 
+
+### Hardware
+
+- https://www.macrumors.com/2020/12/29/apple-researching-keyboards-with-displays-on-keys
+
 ### Tools
 
 - [An extremely opinionated and highly personalized script to set up a new Mac machine, just the way I like it!](https://github.com/nnja/new-computer)

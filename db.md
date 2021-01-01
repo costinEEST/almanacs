@@ -10,6 +10,7 @@
 - [The DynamoDB Book: Data Modeling with NoSQL and DynamoDB](https://news.ycombinator.com/item?id=23193093)
 - https://www.neilwithdata.com/advanced-sql
 - https://github.com/bevacqua/reads#databasessearch
+- [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077)
 
 ### Courses
 

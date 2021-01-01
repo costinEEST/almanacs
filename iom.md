@@ -19,6 +19,7 @@
 
 ### References
 
+- https://www.coingecko.com/en/glossary
 - https://github.com/jashmenn/cryptocurrencies-in-four-words
 - https://github.com/blockstack/reading-list
 - https://github.com/protofire/blockchain-learning-path

@@ -15,6 +15,7 @@
 - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine
 - https://github.com/quii/learn-go-with-tests
 - https://github.com/gophertuts/go-basics
+- https://marinhero.com/posts/port-scanning
 
 ### Courses
 

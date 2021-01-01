@@ -21,6 +21,7 @@
 - https://www.trezireainteligentei.ro/above-majestic-2018-implicatiile-unui-program-spatial-secret
 - [The Platform (2019)](https://www.facebook.com/cris.popanda/posts/3723542934354531)
 - https://respiro.ro/books/carti/52-de-filme-respiro
+- https://en.wikipedia.org/wiki/Studio_Ghibli#Feature_films
 
 ### Tools
 
