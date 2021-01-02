@@ -58,6 +58,7 @@
 - https://www.fastcompany.com/90572511/6-must-read-books-for-startup-leaders-navigating-the-pandemic
 - https://github.com/JanVanRyswyck/awesome-talks#methodologies
 - https://github.com/bevacqua/reads#education-and-culture
+- https://www.jessesquires.com/blog/2020/11/26/radical-readings-for-the-tech-worker
 
 ### Startups
 

@@ -32,7 +32,7 @@
 - https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf + https://news.ycombinator.com/item?id=24194543
 - https://www.basicbooks.com/titles/sabine-hossenfelder/lost-in-math/9781541646766 + http://backreaction.blogspot.com/2020/06/physicists-still-lost-in-math.html
 - https://www.neilwithdata.com/mathematics-self-learner
-- https://csgordon.github.io/books.html
+- https://csgordon.github.io/books.html + https://news.ycombinator.com/item?id=25572852
 
 ### Courses
 

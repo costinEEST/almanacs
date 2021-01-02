@@ -57,6 +57,7 @@
 - [Linux Distributions Timeline.](https://github.com/FabioLolix/LinuxTimeline)
 - https://github.com/kmille/linux-debugging
 - https://linuxcommandlibrary.com/basic/oneliners.html
+- https://github.com/YuCheLiu/Comptia_Linux_mindMap/blob/master/Linux_mindmap_pdf.pdf
 
 ### Embedded
 

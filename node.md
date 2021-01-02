@@ -19,6 +19,7 @@
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide
 - https://www.udemy.com/course/nestjs-zero-to-hero/
 - https://www.udemy.com/course/nestjs-course/
+- [Serverless Framework Bootcamp: Node.js, AWS & Microservices](https://www.udemy.com/course/serverless-framework)
 - https://www.udemy.com/course/learning-koajs-by-building-rest-apis
 - [TypeScript with Node.js by Zaiste](https://www.youtube.com/playlist?list=PLhXZp00uXBk72m_G7E2Bshzd7PDpaInE1)
 - https://khalilstemmler.com/articles/domain-driven-design-intro + https://github.com/stemmlerjs/white-label
