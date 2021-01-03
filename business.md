@@ -59,6 +59,7 @@
 - https://github.com/JanVanRyswyck/awesome-talks#methodologies
 - https://github.com/bevacqua/reads#education-and-culture
 - https://www.jessesquires.com/blog/2020/11/26/radical-readings-for-the-tech-worker
+- https://hennyportman.wordpress.com/2018/11/11/review-the-culture-map-decoding-how-people-think-lead-and-get-things-done-across-cultures
 
 ### Startups
 

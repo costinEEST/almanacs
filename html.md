@@ -128,3 +128,6 @@
 - [A database of Apple-supported emojis in JSON format.](https://github.com/meyer/emoji-db)
 - [Convert an emoji text string into space separated unicode values.](https://twitter.com/alvaroefe/status/1246579099209957377)
 - https://parkerhiggins.net/2013/01/writing-the-prince-symbol-in-unicode
+- https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode
+- https://mathiasbynens.be/notes/javascript-unicode
+- https://gosecure.github.io/presentations/2020-05-unicode-northsec/unicode_v3_northsec.pdf + https://twitter.com/Agarri_FR/status/1264295901834752001

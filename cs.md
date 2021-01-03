@@ -77,6 +77,7 @@
 - [Nodebook - Multi-Lang Web REPL + CLI Code runner](https://github.com/netgusto/nodebook)
 - https://evaluate.underjord.io/web
 - https://interviews.school
+- https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager
 
 ### Practice
 

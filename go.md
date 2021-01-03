@@ -45,12 +45,14 @@
 - https://twitter.com/mikispag/status/1255164681121136642
 - [A really small static web server for Docker](https://github.com/PierreZ/goStatic)
 - [A modern alternative to fail2ban](https://github.com/crowdsecurity/crowdsec)
+- [Go library to capture desktop to image](https://github.com/kbinani/screenshot)
 
 ### References
 
 - [Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place.](https://github.com/hoanhan101/ultimate-go)
 - https://github.com/jbranchaud/til/blob/master/go/access-go-docs-offline.md
 - https://github.com/pebbe/HowToGo
+- https://github.com/l-lin/architecture-cheat-sheet
 
 ### Opinions
 

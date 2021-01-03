@@ -60,6 +60,7 @@
 ### Debugging
 
 - [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://www.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)
+- https://blog.assetnote.io/bug-bounty/2020/02/01/expanding-attack-surface-react-native + https://twitter.com/infosec_au/status/1223900898889355264
 
 ### Performance
 

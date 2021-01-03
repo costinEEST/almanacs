@@ -14,6 +14,7 @@
 
 - [Introduction to GPG/PGP](ftp://ftp.gnupg.org/people/neal/an-advanced-introduction-to-gnupg/openpgp/openpgp.pdf) + https://twitter.com/binarymist/status/1148732727371296768
 - https://cheapskatesguide.org/articles/encrypted-email.html
+- https://unix-ninja.com/p/attacking_google_authenticator + https://twitter.com/adam_baldwin/status/1341470342666014720
 
 ### Transport Layer Security
 

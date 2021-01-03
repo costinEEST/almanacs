@@ -1,6 +1,7 @@
 ### Books
 
 - http://tutorials.jenkov.com/svg/index.html
+- [Using SVG with CSS3 and HTML5: Supplementary Material](https://oreillymedia.github.io/Using_SVG/index.html) + https://github.com/oreillymedia/Using_SVG
 
 ### Icons
 
@@ -10,6 +11,7 @@
 - https://phosphoricons.com
 - [Free SVG icons for popular brands](http://simpleicons.org)
 - [Free quality illustrations customized to your branding](https://2.flexiple.com/scale/all-illustrations)
+- [Twitter SVG Logo](https://gist.github.com/mbostock/3094619)
 
 ### Tutorials
 

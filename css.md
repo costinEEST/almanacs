@@ -72,12 +72,14 @@
 - https://csslayout.io/patterns
 - [Basic todo app functionality without using JavaScript.](https://github.com/mattzeunert/CSS-Todo-App)
 - https://github.com/trueskawka/css-drawings
+- [Styled input range (slider/progress) by Mihai-Cristian Voinea](https://codepen.io/mihai-cristian-voinea/pen/RwPgxeG)
 
 ### Layout
 
 - https://courses.kevinpowell.co/courses/conquering-responsive-layouts
 - https://moderncss.dev
 - https://kilianvalkhof.com/2020/css-html/full-bleed-layout-using-simple-css
+- https://blog.benestudio.co/custom-file-upload-button-with-pure-css-5aacf39aa0a + https://codepen.io/adambene/pen/xRWrXN
 
 ### Tools
 
@@ -88,6 +90,8 @@
 - https://www.swyx.io/why-tailwind
 - https://github.com/creativetimofficial/tailwind-starter-kit
 - [Grab the color palette from an image using just Javascript. Works in the browser and in Node.](https://github.com/lokesh/color-thief)
+- [Visualize Sass HSL color functions in real-time without compiling.](https://sassme.jim-nielsen.com) + https://github.com/jimniels/sassme
+- [A design tool for comparing colors.](https://bl.ocks.org/curran/c130b1d3d68a375c8eb41371f2c2a75b)
   
 ### TV
 

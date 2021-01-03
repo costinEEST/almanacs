@@ -29,6 +29,7 @@
 - https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it
 - https://medium.com/@woj_ciech/leaklooker-gui-discover-browse-and-monitor-database-source-code-leaks-f4b82bbb48fe + https://github.com/woj-ciech/LeakLooker
 - https://blog.codepen.io/2018/06/07/need-to-store-some-data
+- [SQLmap guide](https://twitter.com/HusseiN98D/status/1238545584644149250) + http://www.it-docs.net/ddata/4956.pdf
 
 ### TIL
 

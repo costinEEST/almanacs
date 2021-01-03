@@ -22,6 +22,8 @@
 - https://frantic.im/back-to-rails + https://news.ycombinator.com/item?id=25100397
 - https://summitroute.com/blog/2020/11/24/setting_up_personal_gsuite_backups_on_aws
 - [ConsoleMe consolidates the management of multiple AWS accounts into a single interface.](https://github.com/Netflix/consoleme)
+- https://oliverwainwright.io/backup-wordpress-to-aws-s3
+- https://oliverwainwright.io/aws-cert-resources
 
 ### Google Cloud
 

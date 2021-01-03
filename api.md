@@ -80,6 +80,7 @@ curl v2.wttr.in/Bucharest
 
 ### Miscellaneous
 
+- https://github.com/vicziani/learnwebservices
 - https://github.com/n0shake/Public-APIs
 - http://algermissen.io/classification_of_http_apis.html + http://algermissen.io/2019/03/rest-design-essentials
 - https://github.com/algermissen/rest-discuss-archive

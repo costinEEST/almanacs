@@ -132,6 +132,7 @@
 - https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125
 - [Computer-Assisted Reporting and Data Journalism Syllabuses, compiled by Dan Nguyen](https://github.com/dannguyen/journalism-syllabi)
 - https://melanie-richards.com/blog/art-of-brevity
+- [This Book Was Self-Published: A Technical Guide by Michael Bazzell](https://www.amazon.com/gp/product/B08J7B9Y7H)
 
 ### Learning
 

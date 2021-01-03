@@ -288,3 +288,4 @@
 - https://www.smashingmagazine.com/2020/10/tasks-react-app-web-workers
 - https://marlom.dev/upgrade-to-react-17-and-webpack-5
 - https://dusaitis.com/bundle-your-react-app-with-rollup-js
+- https://blog.jim-nielsen.com/2020/react-without-build-tools

@@ -39,6 +39,7 @@
 - https://www.riotgames.com/en/urf-academy/curriculum-guide + https://news.ycombinator.com/item?id=24309234
 - http://foundationsofgameenginedev.com
 - https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh
+- https://twitter.com/debelbot/status/1129376538170929152 + https://youtu.be/JcyyeAww2wc
 
 ### The creators
 

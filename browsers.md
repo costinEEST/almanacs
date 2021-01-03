@@ -14,6 +14,7 @@
 - https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web + https://twitter.com/webkit/status/1318256785447211009
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html
 - https://iandunn.name/2019/11/29/minimal-cachestorage-cache-api-example
+- https://stackoverflow.com/questions/16808486/explanation-of-window-performance-javascript
 
 ### Engines
 
@@ -108,6 +109,7 @@
 - [Chrome extension that helps you learn a language without even trying.](https://jointoucan.com)
 - [Really simple and secure ads blocking for Chrome](https://github.com/petrkle/block-it-yourself)
 - https://mmazzarolo.com/blog/2020-08-29-jira-express
+- [Chrome extension to track the activities of your favorite web novels](https://github.com/l-lin/wn-tracker-chrome) + https://github.com/l-lin/wn-tracker-api
 
 ### Bookmarklets
 

@@ -58,6 +58,7 @@
 - https://github.com/kmille/linux-debugging
 - https://linuxcommandlibrary.com/basic/oneliners.html
 - https://github.com/YuCheLiu/Comptia_Linux_mindMap/blob/master/Linux_mindmap_pdf.pdf
+- https://drfits.com/lan-connection-is-not-working-on-linux
 
 ### Embedded
 

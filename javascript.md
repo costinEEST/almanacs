@@ -285,6 +285,7 @@
 ### new IntersectionObserver()
 
 - [Using the Intersection Observer web API to improve performance.](https://www.growingwiththeweb.com/2018/01/intersection-observer.html)
+- [Intersection Observer by Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOmWeHkUz34FxIFP8I8X1ae)
 
 ### new MutationObserver()
 
@@ -334,6 +335,7 @@
 - [Avoid appending to innerHTML](https://twitter.com/jaffathecake/status/1322136845199810560)
 - https://github.com/Schepp/async-document.write
 - https://hachibu.net/posts/2020/keyboard-events-tldr
+- [bypass document.write](https://twitter.com/LiveOverflow/status/1319325896545865728)
 
 ### Single-page application
 

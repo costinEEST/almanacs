@@ -22,12 +22,13 @@
 
 - [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://www.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)
 
-### Vulnerable functions
+### Security
 
 - https://github.com/mm0r1/exploits
 - [From memory corruption to disable_functions bypass](https://twitter.com/binitamshah/status/1226793423014772737)
 - https://medium.com/@asdqwedev/remote-image-upload-leads-to-rce-inject-malicious-code-to-php-gd-image-90e1e8b2aada
 - https://www.blackarrow.net/disable-functions-bypasses-and-php-exploitation
+- https://srcincite.io/assets/out-of-hand-attacks-against-php-environments.pdf + https://twitter.com/steventseeley/status/1344356457186291713
 
 ### Miscellaneous
 
