@@ -10,6 +10,8 @@
 - https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X
 - https://github.com/oliverwainwright/cryptocurrency
 - https://hantuzun.com/posts/the-science-of-blockchains
+- https://www.amazon.com/Out-Ether-Amazing-Ethereum-Destroyed/dp/B08CGYC2NR + https://twitter.com/JamesJohnBeck/status/1332812058400845828
+- https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet-ebook/dp/B07X8HS2WC
 
 ### Courses
 
@@ -21,6 +23,7 @@
 
 ### References
 
+- [A quick reference for symbols and conventions used in the Ethereum Yellow Paper](https://github.com/benjaminion/YellowPaper_CheatSheet)
 - https://www.coingecko.com/en/glossary
 - https://github.com/jashmenn/cryptocurrencies-in-four-words
 - https://github.com/blockstack/reading-list
@@ -68,6 +71,7 @@
 - [Educational sandbox for building on web3. Visually understand how Ethereum works. ~ Austin Griffith](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 - [An Educational Drag-and-Drop Programming For Web3](https://eth.build)
 - https://github.com/monosux/ethereum-block-by-date
+- [What are the best live contracts  that a new solidity dev should be learning from?](https://twitter.com/musatheredguard/status/1340344406260535296)
 
 ### Demos
 
