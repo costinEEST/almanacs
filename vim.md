@@ -1,3 +1,7 @@
+### Books
+
+- https://leanpub.com/boostyourcodingfuwithvscodeandvim
+
 ### Miscellaneous
 
 - http://howivim.com/2016/damian-conway + https://learning.oreilly.com/videos/mastering-vim/9781491908334 + https://learning.oreilly.com/videos/scripting-vim/9781491996287

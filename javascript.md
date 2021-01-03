@@ -88,6 +88,7 @@
 - https://programming-idioms.org/cheatsheet/JS
 - https://github.com/sadanandpai/javascript-code-challenges
 - https://ui.dev/creating-your-own-array + https://twitter.com/jcubic/status/1342179006683209728
+- [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
 
 ### Books
 

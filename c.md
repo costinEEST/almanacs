@@ -44,6 +44,7 @@
 
 - [How to C in 2016](https://matt.sh/howto-c)
 - https://github.com/mkirchner/linked-list-good-taste + [Linus Torvalds' linked list argument for good taste, explained](https://news.ycombinator.com/item?id=25326552)
+- https://skeeto.s3.amazonaws.com/share/onward17-essays2.pdf
 
 ### References
 
@@ -59,3 +60,4 @@
 - [Operating Systems Fall 2020 (CS 301)](https://nipunbatra.github.io/os2020)
 - https://github.com/danbev/learning-c
 - [Why JavaScript months start from 0](https://www.hillelwayne.com/post/always-more-history)
+- [Minimalist C Libraries](https://nullprogram.com/blog/2018/06/10)

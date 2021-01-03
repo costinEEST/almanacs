@@ -49,6 +49,7 @@
 
 - [Technology Strategy Patterns: Architecture as Strategy](https://learning.oreilly.com/library/view/technology-strategy-patterns/9781492040866)
 - https://www.singhkays.com/blog/how-spotify-is-killing-the-open-podcast-ecosystem
+- https://medium.com/@harrikiljander/operation-elop-6f2b043f52c5
 
 ### Culture
 
