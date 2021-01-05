@@ -190,12 +190,14 @@ javascript: (() =>
 - [The various ways your RTC may be crushed; a presentation on RTC DoS attacks - Enable Security](https://www.youtube.com/playlist?list=PLfoovPTqAipVGa__xPSatN9qKC22nTKl7)
 - https://twitter.com/iggredible/status/1300240215789821954
 - [browser-based internal network scanner that detects victim's LAN IP (loops back via WebRTC)](http://samy.pl/webscan) + https://twitter.com/samykamkar/status/1329124348779667456
+- [A self contained OBS -> FTL -> WebRTC live streaming server.](https://github.com/GRVYDEV/Project-lightspeed)
 
 ### WebGL
 
 - https://github.com/davidwparker/programmingtil-webgl + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl
 - https://www.pheelicks.com/speaking
 - https://github.com/luruke/awesome-casestudy
+- https://github.blog/2020-12-21-how-we-built-the-github-globe
 
 ### Headless
 

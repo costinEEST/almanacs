@@ -73,6 +73,7 @@
 - [Basic todo app functionality without using JavaScript.](https://github.com/mattzeunert/CSS-Todo-App)
 - https://github.com/trueskawka/css-drawings
 - [Styled input range (slider/progress) by Mihai-Cristian Voinea](https://codepen.io/mihai-cristian-voinea/pen/RwPgxeG)
+- [WICKEDBLOCKS are a growing collection of more than 120 layout blocks and components built with Tailwind CSS V2 ready to copy paste on your Tailwind project.](https://blocks.wickedtemplates.com)
 
 ### Layout
 

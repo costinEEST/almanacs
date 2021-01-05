@@ -97,3 +97,4 @@ curl v2.wttr.in/Bucharest
 - https://github.com/jswest/kiss-list-refresh/blob/master/public/data.json.js
 - [A demo app that showcases some of Typesense's features using the MusicBrainz songs database.](https://github.com/typesense/showcase-songs-search) + [Instantly search 2M cooking recipes using Typesense Search (an open source alternative to Algolia / ElasticSearch)](https://news.ycombinator.com/item?id=25365397) + [Instantly search 28M books from OpenLibrary](https://news.ycombinator.com/item?id=25414389)
 - https://github.com/francescocarlucci/job-offers-http-headers
+- https://blog.idrisolubisi.com/35-free-public-apis-to-improve-productivity

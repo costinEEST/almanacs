@@ -152,6 +152,7 @@
 - [An easy, promise based, way to test passwords securely against the Pwned Passwords API v2 in Node.](https://speakerdeck.com/philnash/fantastic-passwords-and-where-to-find-them-at-wfhconf?slide=38) + https://github.com/philnash/pwned.js
 - [Extracts subdomains from a specified domain using api.recon.de](https://github.com/JR0ch17/ardse)
 - [Suggestions for books about API design?](https://news.ycombinator.com/item?id=24383180)
+- https://lucjan.medium.com/free-url-shortener-with-cloudflare-workers-125eaf87b1ec
 
 ### Scrapping
 

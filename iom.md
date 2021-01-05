@@ -38,6 +38,7 @@
 - https://github.com/ConsenSys/smart-contract-best-practices
 - [A library for interacting with hardware wallets from JS/TS.](https://github.com/shapeshift/hdwallet)
 - https://medium.com/consensys-diligence
+- https://www.freecodecamp.org/news/build-a-blockchain-in-golang-from-scratch
 
 ### Boilerplate
 
@@ -59,6 +60,7 @@
 - https://www.youtube.com/playlist?list=PLG1Zq5_UTbOxFaQAKE5N5Hi2Nvv-O35Cu
 - https://shayan.es/#lectures
 - https://github.com/crytic/building-secure-contracts
+- https://www.theblockcrypto.com/linked/89843/2017-parity-wallet-hacker-begins-moving-eth
 
 ### Bitcoin
 

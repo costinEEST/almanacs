@@ -29,6 +29,7 @@
 - https://twitter.com/EmilWallner/status/1301565902765293574
 - https://github.com/AMAI-GmbH/AI-Expert-Roadmap
 - https://towardsdatascience.com/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f
+- https://github.com/dformoso/machine-learning-mindmap
 
 ### Tools
 
@@ -87,6 +88,10 @@
 ### Deep learning
 
 - [Background Matting is a project that uses deep learning to turn any background into a green screen with just a handheld camera.](https://github.com/senguptaumd/Background-Matting)
+
+### Papers
+
+- [Software engineering for artificial intelligence and machine learning software: A systematic literature review](https://arxiv.org/ftp/arxiv/papers/2011/2011.03751.pdf)
 
 ### Demos
 

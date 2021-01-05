@@ -12,6 +12,7 @@
 - [Free SVG icons for popular brands](http://simpleicons.org)
 - [Free quality illustrations customized to your branding](https://2.flexiple.com/scale/all-illustrations)
 - [Twitter SVG Logo](https://gist.github.com/mbostock/3094619)
+- [Browse 300.000+ SVG Vectors and Icons](https://www.svgrepo.com)
 
 ### Tutorials
 
