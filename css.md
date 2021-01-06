@@ -43,7 +43,7 @@
 - https://css-tricks.com/a-complete-guide-to-css-gradients
 - https://dev.opera.com/articles/css-will-change-property + https://aerotwist.com/blog/bye-bye-layer-hacks
 - https://www.bram.us/2020/11/30/native-aspect-ratio-boxes-in-css-thanks-to-aspect-ratio
-
+- https://kilianvalkhof.com/2021/css-html/you-want-overflow-auto-not-overflow-scroll
 ### Selectors
 
 - https://jeremenichelli.io/2015/11/the-first-child-reset

@@ -363,6 +363,7 @@
 - https://github.com/mateusortiz/webcomponents-the-right-way
 - https://blog.bitsrc.io/web-component-why-you-should-stick-to-react-c56d879a30e1
 - https://twitter.com/btopro/status/1224356404380733440
+- https://nolanlawson.com/2021/01/03/options-for-styling-web-components
 
 ### Testing
 

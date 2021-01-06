@@ -32,3 +32,4 @@
 
 - https://github.com/gdarko/wp-batch-processing
 - https://waclawjacek.com/check-wordpress-plugin-dependencies
+- https://swizec.com/blog/lessons-from-migrating-a-14-year-old-blog-with-1500-posts-to-gatsby
