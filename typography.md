@@ -23,6 +23,8 @@
 - [Highly customizable and minimal font previewer written in bash.](https://github.com/sdushantha/fontpreview)
 - [A simple website which uses Typefont library to match the font of an image.](https://github.com/dcorvasce/typefont-matcher)
 - [Calligrapher converts typed text into handwritten-style text. Users can adjust the speed, legibility, stroke width, and style of writing. The generated text can be downloaded as an SVG file.](https://www.calligrapher.ai)
+- [Convert Google Fonts to Self-Hosted fonts](https://wicki.io/google-fonts-converter) + https://wicki.io/posts/2020-11-goodbye-google-fonts + https://news.ycombinator.com/item?id=25300396
+
 
 ### Miscellaneous
 
@@ -44,7 +46,6 @@
 - https://www.typewolf.com/typography-books
 - [What font should be on your book cover?](https://twitter.com/PulpLibrarian/status/1222125153066323968)
 - [Use & Modify is a personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces.](https://usemodify.com)
-- https://wicki.io/posts/2020-11-goodbye-google-fonts
 
 ### TV
 
