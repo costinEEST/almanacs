@@ -72,6 +72,7 @@
 - https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech
 - https://tenthousandmeters.com/blog/python-behind-the-scenes-6-how-python-object-system-works + https://news.ycombinator.com/item?id=25384433
 - https://github.com/vinta/awesome-python
+- https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb
 
 ### Security
 
