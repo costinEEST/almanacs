@@ -79,6 +79,7 @@
 - https://evaluate.underjord.io/web
 - https://interviews.school
 - https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager
+- https://www.forbes.com/sites/carminegallo/2020/11/01/watch-bill-gates-give-brilliant-30-second-answers-to-common-job-interview-questions 
 
 ### Practice
 

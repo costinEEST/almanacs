@@ -52,6 +52,7 @@
 - https://github.com/amandeepmittal/react-native-examples
 - https://github.com/shaneosullivan/ReactNativeExampleBrowserExtension
 - https://www.ably.io/topic/websockets-react-native
+- [Resources for React Native NativeModules development with Swift](https://twitter.com/mrousavy/status/1346493463571927041)
 
 ### Packages
 

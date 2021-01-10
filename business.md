@@ -77,6 +77,9 @@
 - [When you make scooters but see four fintech companies get acquired in one week.](https://twitter.com/zck/status/1232374124380487681)
 - https://www.cake.co/conversations/VXHSjBG/the-untold-origin-story-of-ebay-that-i-lived-and-the-times-that-could-have-killed-it
 - https://microconf.com/ultimate-saas-crash-course + https://www.youtube.com/playlist?list=PLwcQbu9cKWclSZ5X1D2BFr3t4jBzpiSoi
+- https://netinterest.substack.com/p/hip-to-be-square + https://twitter.com/david_perell/status/1348023291332669441
+- https://www.cbinsights.com/research/report/elon-musk-companies-disruption
+- https://www.visualcapitalist.com/tesla-bears-a-short-short-story
 
 ### Investing
 

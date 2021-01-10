@@ -74,6 +74,7 @@
 - https://github.com/trueskawka/css-drawings
 - [Styled input range (slider/progress) by Mihai-Cristian Voinea](https://codepen.io/mihai-cristian-voinea/pen/RwPgxeG)
 - [WICKEDBLOCKS are a growing collection of more than 120 layout blocks and components built with Tailwind CSS V2 ready to copy paste on your Tailwind project.](https://blocks.wickedtemplates.com)
+- https://twitter.com/search?q=(from%3Akevinjpowell)%20%23csstipoftheday + https://codepen.io/collection/nJzQBY
 
 ### Layout
 
@@ -100,6 +101,7 @@
 - [Know a good "CSS from Scratch" course you can recommend?](https://twitter.com/adamwathan/status/1244795112691060736)
 - https://www.twitch.tv/kevinpowellcss
 - [Apple Music on macOS](https://twitter.com/freetonik/status/1322144670886100992)
+- https://www.liviuvasilescu.ro/blog/ziua-vignelli
 
 ### Security
 

@@ -193,6 +193,7 @@
 - [MTHFR - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z0lcffgTrggdLrVPfp1Eu3)
 - https://www.discovermagazine.com/health/liz-parrish-is-patient-zero-in-her-own-anti-aging-experiment
 - https://en.wikipedia.org/wiki/List_of_living_centenarians
+- https://www.gowinglife.com/top-10-health-and-longevity-innovations-in-2020
 
 ### Viruses
 
@@ -205,6 +206,7 @@
 - https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system
 - https://www.amazon.com/Apollos-Arrow-Profound-Enduring-Coronavirus/dp/0316628212
 - https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2020 + https://news.ycombinator.com/item?id=25356485
+- [COVID-19 Changed Science Forever - The Atlantic](https://amp.theatlantic.com/amp/article/617262)
 
 ### Radiation
 

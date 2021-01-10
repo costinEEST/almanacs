@@ -104,6 +104,7 @@
 - [Accessible custom select component](https://twitter.com/devongovett/status/1248304777588441088)
 - https://github.com/duetds/date-picker#usage-with-react
 - https://jeffchen.dev/posts/Detecting-Widows-In-React
+- https://github.com/jxom/awesome-react-headless-components
 
 ### Patterns
 

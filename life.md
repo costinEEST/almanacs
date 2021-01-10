@@ -50,6 +50,7 @@
 - [Scientists find 'secret molecule' that allows bacteria to exhale electricity](https://www.livescience.com/electron-breathing-geobacter-microbes.html)
 - [Ernst Haeckel's Kunstformen der Natur (Artforms of Nature) (1904)](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
 - [U.S. Department of Agriculture (USDA) Pomological Watercolor Collection](https://usdawatercolors.nal.usda.gov/pom/home.xhtml)
+- https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html
 
 ### Chemistry
 

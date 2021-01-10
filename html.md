@@ -30,6 +30,7 @@
 - https://adamsilver.io/articles/avoiding-tab-styles-for-navigation
 - https://github.com/fabkrum/accessibility-resources
 - https://twitter.com/mmatuzo/status/1343807665533820929
+- https://hearmeoutcc.com/deaf-person-feel-included
 
 ### <button></button>
 

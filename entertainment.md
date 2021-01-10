@@ -189,6 +189,7 @@
 - [Six Points Wood Works](https://www.youtube.com/user/scott2640/playlists)
 - https://www.youtube.com/user/TipsfromaShipWright/playlists
 - https://www.youtube.com/user/urbanTrash/playlists
+- https://constructionphysics.substack.com/p/book-review-industrialized-building
 
 ### Advertising
 
