@@ -20,12 +20,14 @@
 - https://github.com/mmccaff/PlacesToPostYourStartup
 - https://github.com/rdp/open-source-how-to-popularize-your-project
 - https://github.com/LisaDziuba/Marketing-for-Engineers
+- https://marketingexamples.com + https://twitter.com/GoodMarketingHQ
 
 ### Branding
 
 - https://twitter.com/david_perell/status/1226001494530514944
 - https://github.com/cheeaun/branding
 - http://kiwiagency.ro/blog/recomandare-de-carte-small-data-de-martin-lindstrom
+- https://www.itsnicethat.com/news/burger-king-rebrand-jkr-graphic-design-070121
 
 ### Publishing
 
@@ -80,6 +82,7 @@
 - https://netinterest.substack.com/p/hip-to-be-square + https://twitter.com/david_perell/status/1348023291332669441
 - https://www.cbinsights.com/research/report/elon-musk-companies-disruption
 - https://www.visualcapitalist.com/tesla-bears-a-short-short-story
+- [I was at Amazon in 2000 when the internet bubble popped.](https://twitter.com/danrose999/status/1347677573900242944)
 
 ### Investing
 
@@ -132,6 +135,7 @@
 - https://www.harpercollins.com/products/how-innovation-works-matt-ridley?variant=32117444444194 + https://nav.al/matt-ridley + http://www.rationaloptimist.com/blog/naval-interview
 - [The Knowledge: How to Rebuild Our World from Scratch by Lewis Dartnell](https://news.ycombinator.com/item?id=22347884)
 - https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022
+- [Spacecadet have put together all the 2020 recaps and 2021 trend reports doing the rounds.](http://spacecadet.ventures/2021roundup)
 
 ### Essays
 

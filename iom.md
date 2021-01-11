@@ -62,6 +62,7 @@
 - https://github.com/crytic/building-secure-contracts
 - https://www.theblockcrypto.com/linked/89843/2017-parity-wallet-hacker-begins-moving-eth
 
+
 ### Bitcoin
 
 - https://github.com/jashmenn/bitcoin-reading-list
@@ -75,6 +76,7 @@
 - [An Educational Drag-and-Drop Programming For Web3](https://eth.build)
 - https://github.com/monosux/ethereum-block-by-date
 - [What are the best live contracts  that a new solidity dev should be learning from?](https://twitter.com/musatheredguard/status/1340344406260535296)
+- https://twitter.com/0xDexter0us/status/1348334269161115650
 
 ### Demos
 

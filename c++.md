@@ -22,6 +22,7 @@
 - https://github.com/AnthonyCalandra/modern-cpp-features
 - https://github.com/danbev/learning-cpp
 - https://www.avabodh.com/cxxin/cxx.html
+- https://github.com/changkun/modern-cpp-tutorial
 
 ### Implementations
 

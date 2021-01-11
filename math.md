@@ -33,6 +33,7 @@
 - https://www.basicbooks.com/titles/sabine-hossenfelder/lost-in-math/9781541646766 + http://backreaction.blogspot.com/2020/06/physicists-still-lost-in-math.html
 - https://www.neilwithdata.com/mathematics-self-learner
 - https://csgordon.github.io/books.html + https://news.ycombinator.com/item?id=25572852
+- https://math.recipes/main.html + https://sat-smt.codes/main.html
 
 ### Courses
 

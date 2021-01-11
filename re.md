@@ -48,3 +48,4 @@
 - https://unprovable.github.io/jekyll/update/2016/11/03/BoF-Tutorial-Update.html
 - https://axcheron.github.io/linux-shellcode-101-from-hell-to-shell
 - [Reverse Engineering Snapchat (Part I): Obfuscation Techniques](https://news.ycombinator.com/item?id=23557998)
+- https://yurichev.com/club

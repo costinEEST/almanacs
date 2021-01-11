@@ -9,6 +9,7 @@
 - http://nutriblog.ro/4043/carti-despre-dieta-ketogenica-low-carb-scrise-limba-romana.html
 - https://www.scribd.com/book/420546368/Dieta-ketogenica + https://books.google.ro/books?id=-xGnDwAAQBAJ
 - [The Magick of Food: Rituals, Offerings & Why We Eat Together ~ Gwion Raven](https://www.amazon.com/Magick-Food-Rituals-Offerings-Together/dp/0738760854)
+- http://istrosbooks.com/products/books/our-daily-bread-110
 
 ### Cholesterol
 
@@ -207,6 +208,7 @@
 - https://www.amazon.com/Apollos-Arrow-Profound-Enduring-Coronavirus/dp/0316628212
 - https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2020 + https://news.ycombinator.com/item?id=25356485
 - [COVID-19 Changed Science Forever - The Atlantic](https://amp.theatlantic.com/amp/article/617262)
+- https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines
 
 ### Radiation
 

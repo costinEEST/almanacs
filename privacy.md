@@ -27,6 +27,7 @@
 - https://themarkup.org/google-the-giant/2020/11/19/as-antitrust-pressure-mounts-google-to-pull-back-benefit-to-news-sites-that-adopted-its-preferred-mobile-technology + https://twitter.com/themarkup/status/1329409297281781760
 - https://www.haaretz.com/israel-news/tech-news/.premium-israeli-spy-tech-firm-says-it-can-break-into-signal-app-previously-considered-safe-1.9368581
 - https://github.com/Igglybuff/awesome-piracy
+- https://github.com/kiprotect/klaro
 
 ### Techniques
 

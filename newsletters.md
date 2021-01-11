@@ -15,10 +15,15 @@
 - [Human Finance SRL](https://us19.campaign-archive.com/home/?u=224b34ca20549631ee1243970&id=b44f21a826)
 - [David Senra](https://davidsnotes.substack.com/archive)
 - https://buttondown.email/computer-napkins/archive
+- [Brandient](https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5)
 
 ### Biology
 
 - https://csvoss.substack.com/archive
+
+### History
+
+- [Istros Books](https://us4.campaign-archive.com/home/?u=33d3c9258f5909052eb60647b&id=4b1e62c805)
 
 ### Internet of money
 

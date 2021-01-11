@@ -427,6 +427,7 @@
 - https://souporserious.com/use-babel-to-statically-analyze-jsx
 - [What You Need To Know About npm Workspaces](https://hyperfoo.io/posts/npm-7-workspaces-1)
 - [Measure and compare JavaScript libraries](https://moiva.io)
+- [Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.](https://github.com/sverweij/dependency-cruiser)
 
 ### Documentation
 

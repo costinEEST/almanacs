@@ -103,6 +103,7 @@
 - [Map shows every country that the Danube River borders or passes through.](https://twitter.com/simongerman600/status/1315714863516323842) + https://en.wikipedia.org/wiki/A_Time_of_Gifts + https://www.theguardian.com/books/2016/oct/22/why-claudio-magriss-danube-is-a-timely-elegy-for-lost-europe +
 - [The al-Ṯurayyā Project features an interactive map of the early Islamic world, with 2,000 named locations — from Damascus to Baghdad and beyond — and historical routes between them.](https://althurayya.github.io) + https://twitter.com/JajRK/status/1299889379817775106
 - https://anamariaonisei.ro/cele-mai-frumoase-tururi-virtuale-gratuite-de-la-muzeee-si-la-atractii-turistice-pana-la-plimbari-in-natura-si-parcuri-de-distractii
+- https://www.amazon.com/Elsewhere-Journey-into-Our-Islands-ebook/dp/B08KRML8VQ
 
 ### History
 

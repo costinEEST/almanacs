@@ -133,6 +133,7 @@
 - [Computer-Assisted Reporting and Data Journalism Syllabuses, compiled by Dan Nguyen](https://github.com/dannguyen/journalism-syllabi)
 - https://melanie-richards.com/blog/art-of-brevity
 - [This Book Was Self-Published: A Technical Guide by Michael Bazzell](https://www.amazon.com/gp/product/B08J7B9Y7H)
+- https://hachibu.net/posts/2020/how-i-manage-my-random-daily-notes
 
 ### Learning
 

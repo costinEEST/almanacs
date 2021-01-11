@@ -44,6 +44,7 @@
 - https://dev.opera.com/articles/css-will-change-property + https://aerotwist.com/blog/bye-bye-layer-hacks
 - https://www.bram.us/2020/11/30/native-aspect-ratio-boxes-in-css-thanks-to-aspect-ratio
 - https://kilianvalkhof.com/2021/css-html/you-want-overflow-auto-not-overflow-scroll
+- https://schepp.dev/posts/smooth-scrolling-and-page-search
 ### Selectors
 
 - https://jeremenichelli.io/2015/11/the-first-child-reset
@@ -75,6 +76,7 @@
 - [Styled input range (slider/progress) by Mihai-Cristian Voinea](https://codepen.io/mihai-cristian-voinea/pen/RwPgxeG)
 - [WICKEDBLOCKS are a growing collection of more than 120 layout blocks and components built with Tailwind CSS V2 ready to copy paste on your Tailwind project.](https://blocks.wickedtemplates.com)
 - https://twitter.com/search?q=(from%3Akevinjpowell)%20%23csstipoftheday + https://codepen.io/collection/nJzQBY
+- https://codepen.io/2020/popular/pens/10
 
 ### Layout
 
