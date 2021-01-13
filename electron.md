@@ -8,6 +8,7 @@
 - [Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.](https://github.com/agalwood/Motrix)
 - [OpenMTP - Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp) + https://www.inputmag.com/guides/theres-finally-an-alternative-to-googles-horrible-android-file-transfer-app
 - [Make any web page a desktop application](https://github.com/jiahaog/nativefier)
+- [MagicPad is an encryption suite for beginners.](https://github.com/hyundotio/magicpad)
 
 ### Demos
 

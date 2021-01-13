@@ -73,6 +73,8 @@
 - https://tenthousandmeters.com/blog/python-behind-the-scenes-6-how-python-object-system-works + https://news.ycombinator.com/item?id=25384433
 - https://github.com/vinta/awesome-python
 - https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb
+- https://thehazarika.com/blog/programming/how-to-reverse-engineer-web-apps
+
 
 ### Security
 

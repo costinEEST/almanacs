@@ -17,6 +17,7 @@
 - [Photo Realistic QR-Codes](https://news.ycombinator.com/item?id=24158125)
 - [Recovers JPG images from SD cards and hard drives.](https://github.com/saintmarina/undelete_jpg)
 - [Serving WebP images with htaccess](https://github.com/vincentorback/WebP-images-with-htaccess)
+- https://github.com/nosolosw/snippets/blob/master/mp4-to-gif.sh
 
 ### Photos
 

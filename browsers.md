@@ -144,6 +144,7 @@ javascript: (() =>
 - [Hidden Features of Chrome DevTools](https://martinheinz.dev/blog/33)
 - https://www.mattzeunert.com/2016/03/17/devtools-never-pause-here.html
 - [The feature was launched as AMP Stories, which has now been rebranded to Web Stories.](https://news.ycombinator.com/item?id=25377695)
+- https://github.com/IAIK/ChromeZero
 
 ### Brave
 

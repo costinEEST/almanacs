@@ -159,6 +159,7 @@
 
 ### Server side rendering
 
+- https://medium.com/javascript-in-plain-english/intro-to-react-server-side-rendering-3c2af3782d08
 - https://jeremenichelli.io/2020/05/a-progressive-search-experience-in-next
 - https://arkwright.github.io/scaling-react-server-side-rendering.html
 - [ds - personal site manager - powered by next.js](https://github.com/divyenduz/ds)
@@ -197,6 +198,7 @@
 - https://dev.to/dabit3/react-state-6-ways-2bem
 - https://daveceddia.com/freebies/guide-to-react-state-management.pdf
 - https://changelog.com/posts/when-and-when-not-to-reach-for-redux
+- https://blog.logrocket.com/refactoring-redux-app-to-use-recoil + https://github.com/ohansemmanuel/benutzer/tree/recoil-multiple-user + https://github.com/ohansemmanuel/benutzer/tree/redux-multi-users
 
 
 ### Preact
@@ -291,3 +293,4 @@
 - https://marlom.dev/upgrade-to-react-17-and-webpack-5
 - https://dusaitis.com/bundle-your-react-app-with-rollup-js
 - https://blog.jim-nielsen.com/2020/react-without-build-tools
+- https://github.com/rauschma/minimal-react

@@ -13,6 +13,7 @@
 - [IATE is the European Union’s official terminology database, containing translations for words and phrases.](https://iate.europa.eu/download-iate)
 - https://rawlangs.wordpress.com/2013/04/23/ten-ways-to-learn-greek-for-free
 - https://yonatanmatanyah.wordpress.com/category/learning-hebrew
+- http://nosolosoftware.com/how-i-learned-the-nato-phonetic-alphabet
 
 ### Videos
 

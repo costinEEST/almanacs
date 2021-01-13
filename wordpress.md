@@ -2,6 +2,7 @@
 
 - https://github.com/razvanFrandes/wp_default
 - https://github.com/colbyfayock/next-wordpress-starter
+- https://github.com/nosolosw/understanding-gutenberg
 
 ### Videos
 
