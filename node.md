@@ -32,6 +32,7 @@
 - [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
 - https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing-in-nodejs
 - https://twitter.com/loige/status/1312531675109232640
+- https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition
 
 ### Cheat sheets
 
@@ -102,6 +103,7 @@
 - https://maximorlov.com/pm2-to-docker-automatic-restarts
 - https://blog.bitsrc.io/npm-clients-that-are-better-than-the-original-cd54ed0f5fe7
 - https://adambard.com/blog/self-hosted-readability-on-heroku-with-nodejs
+- [A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)](https://github.com/mikaelbr/node-notifier)
 
 ### Testing
 

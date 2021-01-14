@@ -28,3 +28,7 @@
 ### Opinions
 
 - https://getloaf.io/blog/why-i-chose-electronjs
+
+### Security
+
+- [Hacking Modern Desktop apps with XSS and RCE](https://training.7asecurity.com/ma/webinar/desktop-xss-rce/lab1)

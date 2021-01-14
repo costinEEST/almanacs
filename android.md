@@ -1,5 +1,6 @@
 ### Security
 
+- https://github.com/anantshri/Android_Security + https://twitter.com/anantshri/status/1345757424616054790
 - https://enciphers.com/awesome-android-application-security
 - https://medium.com/@sarang6489/different-types-of-root-detection-techniques-in-android-57828aed7597
 - https://www.michalspacek.com/android-based-2fa-security-key

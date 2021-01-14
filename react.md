@@ -263,6 +263,7 @@
 - [Plain-text note-taking app for the web with Markdown support.](https://github.com/taniarascia/takenote)
 - https://github.com/jsolano/react-sudoku-solver
 - https://github.com/shaneosullivan/react-url-decoder
+- https://github.com/rogierslag/tools
 
 ### Testing
 

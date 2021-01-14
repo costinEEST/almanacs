@@ -60,6 +60,7 @@
 - https://adambard.com/blog/javascript-design-pattern-binding-functions
 - https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges
 - https://twitter.com/mgechev/status/1340082705086726144
+- https://github.com/mikaelbr/awesome-es2015-proxy
 
 ### TIL
 

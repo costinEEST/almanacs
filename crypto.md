@@ -89,3 +89,8 @@
 
 - https://onezero.medium.com/the-untold-story-of-the-man-that-made-mainstream-encryption-possible-231c749d5005
 - https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html
+
+### People
+
+- https://dev.to/cossacklabs/schneier-on-cryptography-live-interview-4mi7
+- https://github.com/vixentael/my-talks + https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8
