@@ -33,6 +33,7 @@ https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=
 - https://github.com/danbev/learning-rust
 - https://fasterthanli.me/series/making-our-own-executable-packer
 - https://fasterthanli.me/series/making-our-own-ping
+- https://github.com/theseus-os/Theseus
 
 ### Talks
 
@@ -66,3 +67,4 @@ https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=
 - [An opinionated history of programming languages](https://artagnon.com/articles/pl)
 - http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon + https://twitter.com/bcantrill/status/1315342432918097926
 - https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help
+- https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming

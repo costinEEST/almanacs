@@ -15,6 +15,7 @@
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html
 - https://iandunn.name/2019/11/29/minimal-cachestorage-cache-api-example
 - https://stackoverflow.com/questions/16808486/explanation-of-window-performance-javascript
+- https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities
 
 ### Engines
 

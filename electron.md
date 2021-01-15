@@ -9,6 +9,7 @@
 - [OpenMTP - Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp) + https://www.inputmag.com/guides/theres-finally-an-alternative-to-googles-horrible-android-file-transfer-app
 - [Make any web page a desktop application](https://github.com/jiahaog/nativefier)
 - [MagicPad is an encryption suite for beginners.](https://github.com/hyundotio/magicpad)
+- [Emoji searcher but as a menubar app.](https://github.com/muan/mojibar)
 
 ### Demos
 
@@ -19,6 +20,7 @@
 - [A modern Library Genesis book browser.](https://github.com/Samin100/Alexandria)
 - [GitHub notifications on your menu bar. Available on macOS, Windows & Linux.](https://github.com/manosim/gitify)
 - [Upcount is a painless cross-platform invoicing application, built with React & Electron and simplicity in mind.](https://github.com/madisvain/upcount)
+- https://github.com/jlord/git-it-electron
 
 ### Boilerplates
 
@@ -32,3 +34,4 @@
 ### Security
 
 - [Hacking Modern Desktop apps with XSS and RCE](https://training.7asecurity.com/ma/webinar/desktop-xss-rce/lab1)
+- https://github.com/doyensec/awesome-electronjs-hacking

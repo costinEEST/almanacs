@@ -115,7 +115,7 @@
 - https://github.com/kylelobo/The-Documentation-Compendium
 - https://blog.jessfraz.com/post/the-life-of-a-data-byte
 - https://thecomputation.com/2020/03/19/brief-history-of-quantum-computing.html
-- https://github.com/watson/awesome-computer-history
+- https://github.com/watson/awesome-computer-history + https://dave.cheney.net/category/internets-of-interest + https://dave.cheney.net/category/history
 - http://www.starling-software.com/employment/programmer-competency-matrix.html
 - [Automated program analysis of software](https://twitter.com/seanhn/status/1306709517602824193)
 - [The Hitchhiker’s Guide to Compression](https://go-compression.github.io)

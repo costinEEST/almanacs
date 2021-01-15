@@ -74,6 +74,7 @@
 - https://github.com/vinta/awesome-python
 - https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb
 - https://thehazarika.com/blog/programming/how-to-reverse-engineer-web-apps
+- https://www.samueltaylor.org/articles/speed-up-web-scraping.html
 
 
 ### Security

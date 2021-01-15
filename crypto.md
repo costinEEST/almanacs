@@ -68,6 +68,7 @@
 ### Courses
 
 - [Introduction to Cryptography (89-656), in Hebrew](https://www.youtube.com/playlist?list=PLM96W_EHEqh4ImClhKxuH4Fqm_Ieiok_B) + https://u.cs.biu.ac.il/~lindell/89-656/main-89-656.html
+- [Introduction to Cryptography - 1s2017](https://docs.google.com/spreadsheets/d/11_dfB1B1iTqjfMBjoWBtLkD14kCxDHsw-wsUbvIfaNg/pubhtml)
 
 ### Demos
 

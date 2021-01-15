@@ -14,6 +14,7 @@
 - https://itsmattkc.com/etc/snakeqr + https://news.ycombinator.com/item?id=24374570
 - https://www.youtube.com/c/Frankslaboratory/playlists?disable_polymer=true
 - http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive
+- https://www.freecodecamp.org/news/20-award-winning-games-explained-code-breakdown
 
 ### Mobile based
 
