@@ -24,6 +24,8 @@
 - [ConsoleMe consolidates the management of multiple AWS accounts into a single interface.](https://github.com/Netflix/consoleme)
 - https://oliverwainwright.io/backup-wordpress-to-aws-s3
 - https://oliverwainwright.io/aws-cert-resources
+- https://github.com/awslabs/aws-well-architected-labs
+- https://github.com/mykter/aws-security-cert-service-notes
 
 ### Google Cloud
 

@@ -1,5 +1,6 @@
 ### Courses
 
+- https://github.com/k88hudson/git-flight-rules
 - https://github.com/pingcap/talent-plan/blob/master/courses/tp103-open-source-community.md
 
 ### Videos
@@ -52,6 +53,7 @@
 - https://begriffs.com/posts/2018-06-05-mailing-list-vs-github.html
 - https://quanticdev.com/articles/how-to-use-github
 - https://quanticdev.com/articles/website-with-github-pages
+- https://github.com/tiimgreen/github-cheat-sheet
 
 ### Tools
 

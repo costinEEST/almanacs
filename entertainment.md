@@ -196,7 +196,7 @@
 ### Advertising
 
 - [I. The Mechanical Bride: Folklore of Industrial Man](https://www.amazon.com/Mechanical-Bride-Folklore-Industrial-Man/dp/1584232439) + [II. The Gutenberg Galaxy](https://www.amazon.com/Gutenberg-Galaxy-Marshall-McLuhan/dp/144261269X) + [III.
-  Understanding Media: The Extensions of Man](https://www.amazon.com/Understanding-Media-Extensions-Marshall-McLuhan/dp/0262631598) + [ How Marshall McLuhan Became a Famous Media Scholar](https://news.ycombinator.com/item?id=13240799)
+  Understanding Media: The Extensions of Man](https://www.amazon.com/Understanding-Media-Extensions-Marshall-McLuhan/dp/0262631598) + [ How Marshall McLuhan Became a Famous Media Scholar](https://news.ycombinator.com/item?id=13240799) + https://nextnature.net/story/2009/the-playboy-interview-marshall-mcluhan
 
 ### Consumerism
 

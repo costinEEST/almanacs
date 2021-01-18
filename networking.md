@@ -230,6 +230,7 @@
 - https://sysdogs.com/on-secure-shell-security
 - https://susam.in/blog/file-transfer-with-ssh-tee-and-base64
 - https://blog.fox-it.com/2020/11/11/decrypting-openssh-sessions-for-fun-and-profit
+- [Copy files to a Vagrant VM via SCP.](https://github.com/invernizzi/vagrant-scp)
 
 ### SRP
 

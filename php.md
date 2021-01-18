@@ -30,6 +30,7 @@
 - https://www.blackarrow.net/disable-functions-bypasses-and-php-exploitation
 - https://srcincite.io/assets/out-of-hand-attacks-against-php-environments.pdf + https://twitter.com/steventseeley/status/1344356457186291713
 - https://github.com/padraic/phpsecurity
+- https://github.com/GoSecure/php7-opcache-override
 
 ### Miscellaneous
 
@@ -45,3 +46,4 @@
 - https://github.com/tylerhall/simple-php-framework
 - https://www.freecodecamp.org/news/create-an-mvc-framework-from-scratch-with-php
 - https://iandunn.name/2020/04/24/array-of-countries-indexed-by-continent
+- https://www.codediesel.com/php/reading-ssl-certificates-in-php

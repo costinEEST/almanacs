@@ -38,6 +38,7 @@
 - [Software-based Side-Channel Attacks and Defenses in Restricted Environments (PhD thesis)](https://misc0110.net/web/files/phd_thesis.pdf)
 - https://www.ryanpickren.com/webcam-hacking + https://twitter.com/domenic/status/1245871443729985536
 - [Building a 1-day Exploit for Google Chrome](https://twitter.com/theori_io/status/980272605117612033)
+- https://github.com/qazbnm456/awesome-cve-poc
 
 ### Extensions
 
@@ -160,10 +161,11 @@ javascript: (() =>
 - [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
 - https://honzajavorek.cz/blog/how-i-consume-content
 
-### CORS
+### Cross-origin resource sharing
 
 - https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html
 - [Authenticated CORS with Access-Control-Allow-Origin: \*](https://blog.bi.tk/chrome-cors)
+- https://github.com/RUB-NDS/CORStest
 
 ### Cookies
 
@@ -182,7 +184,7 @@ javascript: (() =>
 - https://www.secjuice.com/hiding-javascript-in-png-csp-bypass + https://twitter.com/Menin_TheMiddle/status/1244325611440615426
 - https://tldrsec.com/blog/content-security-policy-going-from-idea-to-afterthought
 
-### WebRTC (Web Real-Time Communication)
+### Web Real-Time Communication
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeu5vBImsX2mMBacbomDrig
 - [WebRTC Boston](https://www.youtube.com/channel/UCOYrKr3E50aY5VhHey-MrzA/playlists)
@@ -193,6 +195,8 @@ javascript: (() =>
 - https://twitter.com/iggredible/status/1300240215789821954
 - [browser-based internal network scanner that detects victim's LAN IP (loops back via WebRTC)](http://samy.pl/webscan) + https://twitter.com/samykamkar/status/1329124348779667456
 - [A self contained OBS -> FTL -> WebRTC live streaming server.](https://github.com/GRVYDEV/Project-lightspeed)
+- [Share a terminal session over WebRTC](https://github.com/maxmcd/webtty)
+- https://github.com/webrtc-for-the-curious/webrtc-for-the-curious
 
 ### WebGL
 

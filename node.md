@@ -193,6 +193,7 @@
 - https://github.com/adamtlangley/Data-Over-DNS
 - [Hacking with Environment Variables](https://www.elttam.com/blog/env)
 - https://www.loginradius.com/engineering/blog/using-pgp-encryption-with-nodejs
+- https://github.com/ukncsc/zero-trust-architecture
 
 ### Static site generators
 

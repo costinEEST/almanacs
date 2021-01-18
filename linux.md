@@ -22,6 +22,7 @@
 - [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)
 - [A workshop on Linux containers: Rebuild Docker from Scratch.](https://github.com/Fewbytes/rubber-docker)
 - https://twitter.com/gkcs_/status/1300887808748347393
+- https://zserge.com/posts/kvm + https://zserge.com/posts/containers + https://twitter.com/phil_eaton/status/1260756629265489922
 
 ### Internals
 
@@ -72,6 +73,9 @@
 - [Hardened Debian GNU/Linux and CentOS 8 distro auditing.](https://github.com/hardenedlinux/harbian-audit)
 - https://github.com/trimstray/linux-hardening-checklist
 - https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit
+- https://github.com/a13xp0p0v/linux-kernel-defence-map
+- https://github.com/milabs/awesome-linux-rootkits
+- https://github.com/maxking/linux-security-papers
 
 ### Opinions
 

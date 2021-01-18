@@ -117,3 +117,7 @@
 - https://thinkml.ai/top-5-ai-achievements-of-2020
 - https://www.hyro.ai/post/gpt-3-vs-existing-conversational-ai-solutions
 - https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa
+
+### Security
+
+- [Unencrypted PCIe traffic, to leak DNN models.](https://arxiv.org/pdf/2006.12784v1.pdf)

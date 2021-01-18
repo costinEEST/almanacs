@@ -1,6 +1,7 @@
 ### Books
 
 - https://nostarch.com/Effective_C
+- [Angrave's Crowd-Sourced System Programming Book used at UIUC](https://github.com/angrave/SystemProgramming/wiki)
 - [Computer Science from the Bottom Up.](https://www.bottomupcs.com/index.xhtml)
 - [Free System Programming Textbook (Illinois CS241)](http://cs241.cs.illinois.edu/coursebook/index.html) + https://news.ycombinator.com/item?id=22798616
 - [Think OS: A Brief Introduction to Operating Systems](https://greenteapress.com/wp/think-os)

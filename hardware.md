@@ -53,6 +53,7 @@
 - https://www.zdnet.com/article/my-biggest-apple-m1-question-whats-intel-been-doing-all-these-years + https://www.singhkays.com/blog/apple-silicon-m1-black-magic
 - https://twitter.com/AllAboutCircuit + https://www.allaboutcircuits.com/education
 - https://dave.cheney.net/category/hardware-hacking
+- [VoltJockey: Breaching TrustZone by Software-Controlled Voltage Manipulation over Multi-core Frequencies](https://dl.acm.org/doi/10.1145/3319535.3354201) + http://web.archive.org/web/20201027140618/http://voltjockey.com
 
 
 ### TV

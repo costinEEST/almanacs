@@ -26,7 +26,6 @@
 - [The most surprising Unix programs.](https://minnie.tuhs.org/pipermail/tuhs/2020-March/020664.html)
 - http://cb.vu/unixtoolbox.xhtml
 - https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe
-- https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet
 - [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma) + https://news.ycombinator.com/item?id=22778988
 - https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb + https://news.ycombinator.com/item?id=20293579
 

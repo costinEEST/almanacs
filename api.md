@@ -72,6 +72,7 @@ curl v2.wttr.in/Bucharest
 ### Shopping
 
 - https://twitter.com/ryanflorence/status/1332403896208146433
+- [curl cryptocurrencies exchange rates](https://github.com/chubin/rate.sx)
 
 ### Languages
 

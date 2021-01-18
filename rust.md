@@ -68,3 +68,4 @@ https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=
 - http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon + https://twitter.com/bcantrill/status/1315342432918097926
 - https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help
 - https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming
+- https://twitter.com/aionescu/status/1272194529815416833

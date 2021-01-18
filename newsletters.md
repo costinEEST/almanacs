@@ -6,7 +6,10 @@
 ### Artificial intelligence
 
 - [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)
-- []()
+
+### Books
+
+- [Leanpub Reader Mailing List](https://us3.campaign-archive.com/home/?u=d9dae16c3f9f533e6c9e48efb&id=92096ddde9)
 
 ### Business
 

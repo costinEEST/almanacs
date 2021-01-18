@@ -83,6 +83,7 @@
 - https://github.com/justinsteven/advisories/blob/master/2020_visual_studio_code_python_pythonpath_code_execution.md
 - https://healeycodes.com/privacy-focused-analytics-from-scratch
 - [Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators](https://www.jvt.me/posts/2020/09/01/against-online-tooling)
+- https://slides.com/csalazar/secure-software-development-using-python
 
 ### Servers
 

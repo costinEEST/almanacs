@@ -41,6 +41,7 @@
 - https://github.com/qazbnm456/awesome-security-trivia/blob/master/Ways-to-list-or-cat-directories-and-files.md
 - https://work.lisk.in/2020/11/20/even-faster-bash-startup.html
 - https://iandunn.name/2020/05/08/use-z-to-quickly-cd-to-frequent-recent-folders
+- https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet#lbwh-anchor
 
 ### Tools
 

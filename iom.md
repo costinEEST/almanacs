@@ -56,7 +56,7 @@
 - https://iphelix.medium.com
 - https://www.damnvulnerabledefi.xyz
 - https://capturetheether.com
-- https://ethernaut.openzeppelin.com
+- https://ethernaut.openzeppelin.com + https://github.com/OpenZeppelin/ethernaut
 - https://www.youtube.com/playlist?list=PLG1Zq5_UTbOxFaQAKE5N5Hi2Nvv-O35Cu
 - https://shayan.es/#lectures
 - https://github.com/crytic/building-secure-contracts

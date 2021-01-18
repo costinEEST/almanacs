@@ -49,3 +49,9 @@
 - https://axcheron.github.io/linux-shellcode-101-from-hell-to-shell
 - [Reverse Engineering Snapchat (Part I): Obfuscation Techniques](https://news.ycombinator.com/item?id=23557998)
 - https://yurichev.com/club
+- https://github.com/shellphish/how2heap
+- https://github.com/michalmalik/linux-re-101
+
+### Radio
+
+- https://blog.firosolutions.com/2020/11/security-headlines-dynaguard
