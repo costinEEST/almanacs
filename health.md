@@ -147,6 +147,10 @@
 
 - [Empire of Tea: The Asian Leaf that Conquered the World](https://www.amazon.com/Empire-Tea-Asian-Conquered-World/dp/1780234406)
 
+### Coffee
+
+- https://blackwells.co.uk/bookshop/product/Lonely-Planets-Global-Coffee-Tour-by-Mike-Higgins-editor-Nick-Mee-editor-Yolanda-Zappaterra-editor/9781787013599
+
 ### Sugar
 
 - [Is there a way to be prescribed a continuous glucose monitor without an insulin deficiency/diabetes?](https://twitter.com/Austen/status/1211144183018246144)
@@ -166,6 +170,7 @@
 
 - [Microbiome - YourekaScience](https://www.youtube.com/playlist?list=PLCjag94GB6w17vSjb5pgjM-HSpVK0IkPH)
 - [The gut biome and heart health - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9weTI4NF9TBxCenYKgUU8DS)
+- https://chriskresser.com/sibo-what-causes-it-and-why-its-so-hard-to-treat + https://pubmed.ncbi.nlm.nih.gov/33361039
 
 ### Addictions
 

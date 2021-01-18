@@ -62,3 +62,4 @@
 - https://github.com/danbev/learning-c
 - [Why JavaScript months start from 0](https://www.hillelwayne.com/post/always-more-history)
 - [Minimalist C Libraries](https://nullprogram.com/blog/2018/06/10)
+- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo) + https://news.ycombinator.com/item?id=25712949
