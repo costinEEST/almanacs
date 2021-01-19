@@ -197,6 +197,7 @@ javascript: (() =>
 - [A self contained OBS -> FTL -> WebRTC live streaming server.](https://github.com/GRVYDEV/Project-lightspeed)
 - [Share a terminal session over WebRTC](https://github.com/maxmcd/webtty)
 - https://github.com/webrtc-for-the-curious/webrtc-for-the-curious
+- [A Progressive Web App for local file sharing](https://github.com/RobinLinus/snapdrop)
 
 ### WebGL
 

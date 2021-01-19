@@ -48,6 +48,8 @@
 - [Inspecting Android HTTP with a fake VPN](https://httptoolkit.tech/blog/inspecting-android-http)
 - [Turn your Python application into an Android APK](https://github.com/kivy/python-for-android)
 - https://github.com/buckyroberts/Source-Code-from-Tutorials/tree/master/Android_Beginners
+- https://github.com/thealeksandr/PFLockScreen-Android
+- https://speakerdeck.com/andreidiaconu/android-training-in-10-sessions
 
 ### TV
 

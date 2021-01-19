@@ -1,6 +1,8 @@
 ### Patterns
 
 - https://github.com/kamranahmedse/design-patterns-for-humans
+- https://github.com/domnikl/DesignPatternsPHP
+- http://ilyes.me/orm/doctrine/symfony/design/database/2018/02/22/ORM-is-not-ROM.html
 
 ### Object injection
 

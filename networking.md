@@ -183,6 +183,10 @@
 
 - https://dino.im/blog/2020/01/dino-0.1-release
 
+### Server Sent Events
+
+- https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug + https://twitter.com/b0rk/status/1348998823180382208
+
 ### WebSockets
 
 - ![alt text](https://miro.medium.com/max/2503/1*xG6z--Cc_556TAfhVD17tQ.png "Comparison of WebSockets, Server-Sent Events and Long polling")

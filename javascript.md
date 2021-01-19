@@ -61,6 +61,7 @@
 - https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges
 - https://twitter.com/mgechev/status/1340082705086726144
 - https://github.com/mikaelbr/awesome-es2015-proxy
+- https://tobireif.com/posts/observing_changes_using_ES6_proxies
 
 ### TIL
 

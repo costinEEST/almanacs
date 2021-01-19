@@ -15,6 +15,7 @@
 - https://devforum.ro/t/noncs-intro-to-python-and-programming/12853
 - [Foundations of Python Network Programming (Apress)](https://github.com/brandon-rhodes/fopnp)
 - [Exercises in Programming Style](http://tagide.com/EPSBook)
+- https://github.com/thewhitetulip/build-app-with-python-antitextbook
 
 ### Bots
 

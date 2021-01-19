@@ -53,6 +53,7 @@
 - https://github.com/jbranchaud/til/blob/master/go/access-go-docs-offline.md
 - https://github.com/pebbe/HowToGo
 - https://github.com/l-lin/architecture-cheat-sheet
+- https://github.com/enocom/gopher-reading-list
 
 ### Opinions
 

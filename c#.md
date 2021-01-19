@@ -10,3 +10,7 @@
 ### Security
 
 - https://www.cyberark.com/threat-research-blog/thick-client-penetration-testing-methodology
+
+### Miscellaneous
+
+- https://github.com/futurice/windows-app-development-best-practices

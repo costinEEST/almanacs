@@ -23,6 +23,7 @@
 - https://github.com/jgw96/web-whiteboard
 - https://github.com/AmruthPillai/Reactive-Resume
 - https://samselikoff.com/blog/8-tips-to-make-your-website-feel-like-an-ios-app
+- https://github.com/alexandrunastase/json-formatter-live
 
 ### Security
 

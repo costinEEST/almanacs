@@ -45,9 +45,11 @@
 - https://www.bram.us/2020/11/30/native-aspect-ratio-boxes-in-css-thanks-to-aspect-ratio
 - https://kilianvalkhof.com/2021/css-html/you-want-overflow-auto-not-overflow-scroll
 - https://schepp.dev/posts/smooth-scrolling-and-page-search
+
 ### Selectors
 
 - https://jeremenichelli.io/2015/11/the-first-child-reset
+- https://jaketracey.com/styling-accessible-html-file-inputs
 
 ### Pseudo classes
 
@@ -84,6 +86,7 @@
 - https://moderncss.dev
 - https://kilianvalkhof.com/2020/css-html/full-bleed-layout-using-simple-css
 - https://blog.benestudio.co/custom-file-upload-button-with-pure-css-5aacf39aa0a + https://codepen.io/adambene/pen/xRWrXN
+- https://responsibleweb.app + https://github.com/joyheron/responsible-web-apps
 
 ### Tools
 

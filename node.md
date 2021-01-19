@@ -104,6 +104,7 @@
 - https://blog.bitsrc.io/npm-clients-that-are-better-than-the-original-cd54ed0f5fe7
 - https://adambard.com/blog/self-hosted-readability-on-heroku-with-nodejs
 - [A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)](https://github.com/mikaelbr/node-notifier)
+- [Free Modern URL Shortener.](https://github.com/thedevs-network/kutt)
 
 ### Testing
 
