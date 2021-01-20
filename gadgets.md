@@ -45,6 +45,7 @@
 ### Recording
 
 - https://markshust.com/2019/12/28/ergonomic-workstation-programming-screencasting
+- https://twitter.com/cassiozen/status/1349071222638862338
 
 ### Miscellaneous
 

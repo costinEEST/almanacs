@@ -137,6 +137,14 @@
 
 - [A case for using void in modern JavaScript](https://gist.github.com/slikts/dee3702357765dda3d484d8888d3029e)
 
+### null
+
+- https://github.com/sindresorhus/meta/discussions/7
+
+### undefined 
+
+- https://2ality.com/2013/05/history-undefined.html
+
 ### function () {}
 
 - https://github.com/you-dont-need/You-Dont-Need-Loops

@@ -171,6 +171,7 @@
 - [react-suspense-router in SSR.](https://twitter.com/dai_shi/status/1226884015669399559)
 - https://twitter.com/benawad/status/1239615944298815488
 - https://github.com/chec/commercejs-nextjs-demo-store
+- [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://github.com/dijonmusters/e-commerce-in-25-days)
 
 ### Server components
 
