@@ -101,6 +101,7 @@
 - [A General Theory of Reactivity](https://legacy.gitbook.com/book/kriskowal/gtor/details)
 - https://softchris.github.io/books/rxjs
 - https://gumroad.com/l/jstestingbeginners
+- https://github.com/PacktPublishing/Hands-on-JavaScript-for-Python-Developers
 
 ### Talks
 

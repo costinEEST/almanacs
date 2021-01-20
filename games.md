@@ -15,6 +15,7 @@
 - https://www.youtube.com/c/Frankslaboratory/playlists?disable_polymer=true
 - http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive
 - https://www.freecodecamp.org/news/20-award-winning-games-explained-code-breakdown
+- https://github.com/yrgo/awesome-educational-games
 
 ### Mobile based
 
