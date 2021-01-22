@@ -31,6 +31,7 @@
 - https://towardsdatascience.com/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f
 - https://github.com/dformoso/machine-learning-mindmap
 - [Visual Studio Code extension to quickly generate docstrings for Python functions using AI](https://github.com/graykode/ai-docstring)
+- [Learn OpenCV : C++ and Python Examples](https://github.com/spmallick/learnopencv)
 
 ### Tools
 

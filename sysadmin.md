@@ -65,6 +65,7 @@
 - https://adambard.com/blog/transitioning-from-docker-machines-to-kubernetes
 - https://github.com/external-secrets/kubernetes-external-secrets
 - https://github.com/vinta/simple-project-on-k8s
+- https://github.com/geerlingguy/kubernetes-101 + https://kube101.jeffgeerling.com/
 
 ### Servers
 

@@ -18,3 +18,7 @@
 
 - https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming
 - https://github.com/jakerockland/go-vs-swift
+
+### TV
+
+- https://kaitlin.dev/speaking
