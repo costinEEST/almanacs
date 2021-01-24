@@ -98,3 +98,4 @@
 - https://open.umn.edu/opentextbooks/subjects/engineering
 - https://blog.jessfraz.com/post/battery-day + https://twitter.com/jessfraz/status/1311086559832145921 + https://twitter.com/jessfraz/status/1308069671778750464 + https://silanano.com/news/futureofenergystorage + https://twitter.com/SilaGene/status/1301197888333123586
 - https://www.youtube.com/c/SabineHossenfelder/playlists
+- [Does anyone know of coursework / materials for optics that convey a good intuition for how light moves?](https://twitter.com/LauraDeming/status/1353031120326021126)

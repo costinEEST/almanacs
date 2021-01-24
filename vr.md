@@ -14,6 +14,7 @@
 - [Dilmer Valecillos](https://twitter.com/Dilmerv)
 - [Fabien Bénétou](https://twitter.com/utopiah)
 - [Timmy Kokke](https://www.linkedin.com/in/timmykokke)
+- [Kelly Peng](https://www.kellypeng.com/blog/resources)
 
 ### Radio
 

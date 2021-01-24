@@ -97,3 +97,4 @@
 
 - https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies
 - [Decentralization: DeFi, DID, DEX and more (aantonop)](https://www.youtube.com/playlist?list=PLPQwGV1aLnTsWvo0ieJLN-UINWUjr10a7)
+- [Cryptocurrency ~  EEVblog2](https://www.youtube.com/playlist?list=PL24OiKqd2iN-OmtJC-r71geFQggMFXTFp)
