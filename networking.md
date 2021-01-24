@@ -152,6 +152,7 @@
 - https://hacks.mozilla.org/2020/04/twitter-direct-message-caching-and-firefox
 - https://github.com/BlackFan/content-type-research + https://twitter.com/Black2Fan/status/1296439754599407618
 - [Avoid 301 and 302, use 303 and 307](https://youtu.be/G9PpImUEeUA?t=702)
+- https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis
 
 ### HTTPS
 

@@ -5,6 +5,7 @@
 - [nvm install node --reinstall-packages-from=node](https://twitter.com/mtliendo/status/1215382381026316290)
 - https://www.heroku.com/podcasts/codeish/51-best-practices-in-error-handling
 - https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood
+- https://joshtronic.com/2021/01/17/recursively-create-directories-with-nodejs
 
 ### Talks
 
@@ -65,6 +66,7 @@
 ### Internals
 
 - https://blog.s1h.org/inside-node-executing-a-script
+- https://blog.logrocket.com/node-js-crypto-module-a-tutorial
 
 ### Event loop
 
@@ -134,6 +136,7 @@
 - [Authentication fundamentals: The basics | Azure Active Directory](https://youtu.be/fbSVgC8nGz4)
 - [The best website that teaches the value/need of 2FA to beginners](https://twitter.com/rauchg/status/1206662873776132096)
 - https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql
+- https://github.com/adrianhajdin/project_mern_memories + https://www.youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu
 
 ### API
 
@@ -209,7 +212,8 @@
 - https://kezzbracey.com/posts/2020/01/19/eleventy-plus-vscode-plus-gitlab-plus-cloudways
 - https://github.com/accessible-app/accessible-app_com
 - https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app
-- - [A Next.js site using new SSG support with a Notion backed blog](https://github.com/ijjk/notion-blog)
+- [A Next.js site using new SSG support with a Notion backed blog](https://github.com/ijjk/notion-blog)
+- [A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark](https://github.com/nodejs/nodejs.dev)
 
 ### Boots
 

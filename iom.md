@@ -81,6 +81,7 @@
 ### Demos
 
 - https://github.com/saleemrashid/do-i-need-a-blockchain
+- https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain
 
 ### People
 

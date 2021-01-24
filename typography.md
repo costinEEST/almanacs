@@ -16,6 +16,7 @@
 - [List of fonts for coding](https://github.com/Gaafar/dev-fonts)
 - https://www.thecut.com/2020/08/the-reason-comic-sans-is-a-public-good.html
 - [Curated list of Google Fonts](https://twitter.com/mackenziechild/status/1332384565835534336) + https://www.notion.so/e873b52e0cc54f2981acc430417ba61d?v=05acdd40b0564920be69f5347f619bc3
+- https://www.zeichenschatz.net/typografie/how-to-pick-a-typeface-for-user-interface-and-app-design.html
 
 ### Tools
 

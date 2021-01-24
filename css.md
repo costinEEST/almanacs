@@ -45,6 +45,7 @@
 - https://www.bram.us/2020/11/30/native-aspect-ratio-boxes-in-css-thanks-to-aspect-ratio
 - https://kilianvalkhof.com/2021/css-html/you-want-overflow-auto-not-overflow-scroll
 - https://schepp.dev/posts/smooth-scrolling-and-page-search
+- https://www.bram.us/2021/01/11/nested-media-queries
 
 ### Selectors
 
@@ -69,6 +70,7 @@
 - https://piccalil.li/tutorial/build-a-responsive-media-browser-with-css
 - https://frontend.horse/articles/thinking-outside-the-box-with-css-grid
 - https://calendartricks.com/a-calendar-in-three-lines-of-css
+- https://melanie-richards.com/blog/css-grid-sticky
 
 ### Demos
 
