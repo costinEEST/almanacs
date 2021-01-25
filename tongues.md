@@ -93,6 +93,7 @@
 
 - https://www.byzantineambassador.com/greek-and-latin
 - http://persarazvan.blogspot.com/p/studiu-limbi-clasice.html
+- https://dannybate.com/2021/01/18/from-english-to-greek-in-two-rules + https://twitter.com/DannyBate4/status/1352341590673649665
 
 ### Hungarian
 
