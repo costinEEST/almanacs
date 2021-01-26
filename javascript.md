@@ -62,6 +62,7 @@
 - https://twitter.com/mgechev/status/1340082705086726144
 - https://github.com/mikaelbr/awesome-es2015-proxy
 - https://tobireif.com/posts/observing_changes_using_ES6_proxies
+- [Functional Core, Imperative Shell ~ Lachlan Miller](https://www.youtube.com/playlist?list=PLC2LZCNWKL9a7b7Ufx0ngo9xH_b8j9ZlA)
 
 ### TIL
 
@@ -439,6 +440,7 @@
 - [What You Need To Know About npm Workspaces](https://hyperfoo.io/posts/npm-7-workspaces-1)
 - [Measure and compare JavaScript libraries](https://moiva.io)
 - [Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.](https://github.com/sverweij/dependency-cruiser)
+- https://lachlan-miller.me/articles/decoding-variable-length-quantity-vlq-for-source-maps
 
 ### Documentation
 

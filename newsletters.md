@@ -33,6 +33,9 @@
 
 - https://blockchannel.substack.com/archive?sort=new
 - [Jimmy Song](https://jimmysong.substack.com/archive)
+- [Anthony Sassano](https://thedailygwei.substack.com/archive)
+- [Camila Russo](https://thedefiant.substack.com/archive)
+- [Ryan Sean Adams](https://newsletter.banklesshq.com/archive)
 
 ### Design
 
