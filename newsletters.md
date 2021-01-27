@@ -36,6 +36,8 @@
 - [Anthony Sassano](https://thedailygwei.substack.com/archive)
 - [Camila Russo](https://thedefiant.substack.com/archive)
 - [Ryan Sean Adams](https://newsletter.banklesshq.com/archive)
+- [Koroush AK](https://koroushak.substack.com/archive)
+- [Sebastien Couture](https://epicenter.tv/subscribe)
 
 ### Design
 
