@@ -26,6 +26,8 @@
 - https://oliverwainwright.io/aws-cert-resources
 - https://github.com/awslabs/aws-well-architected-labs
 - https://github.com/mykter/aws-security-cert-service-notes
+- [OpenID authenticated access to a static website hosted in an s3 bucket.](https://github.com/wolfeidau/website-openid-proxy)
+- https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf
 
 ### Google Cloud
 

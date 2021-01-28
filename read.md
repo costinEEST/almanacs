@@ -9,3 +9,4 @@
 - https://highlights.melanie-richards.com + https://github.com/melanierichards/highlights
 - http://jsomers.net/#books
 - https://www.gwern.net/Book-reviews
+- https://thecreativeindependent.com/library

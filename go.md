@@ -1,3 +1,9 @@
+### Books
+
+- https://github.com/dreddsa5dies/automateGo
+- https://github.com/dreddsa5dies/networkGo
+- 
+
 ### Boots
 
 - - https://smarx.com/posts/2020/09/shove-it-up-your-bot-an-intro-to-slack-bots + https://github.com/smarx/shoveitupyourbot
@@ -46,6 +52,8 @@
 - [A really small static web server for Docker](https://github.com/PierreZ/goStatic)
 - [A modern alternative to fail2ban](https://github.com/crowdsecurity/crowdsec)
 - [Go library to capture desktop to image](https://github.com/kbinani/screenshot)
+- https://github.com/dreddsa5dies/goHackTools
+- [Visualize Go Dependency Trees](https://github.com/KyleBanks/depth)
 
 ### References
 
@@ -54,6 +62,9 @@
 - https://github.com/pebbe/HowToGo
 - https://github.com/l-lin/architecture-cheat-sheet
 - https://github.com/enocom/gopher-reading-list
+- https://github.com/parsiya/Go-Security
+- https://github.com/parsiya/Hacking-with-Go
+- https://github.com/dreddsa5dies/algorithm
 
 ### Opinions
 

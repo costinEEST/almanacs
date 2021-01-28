@@ -11,6 +11,7 @@
 - [Reverse engineering my cable modem and turning it into an SDR](https://stdw.github.io/cm-sdr)
 - https://astralvx.com/dma-explained
 - https://www.atredis.com/blog/2020/11/4/garmin-forerunner-235-dion-blazakis + https://twitter.com/justdionysus/status/1328749149437747205
+- https://github.com/Yossioren/AttacksonImplementationsCourseBook
 
 ### Courses
 

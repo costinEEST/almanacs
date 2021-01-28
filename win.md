@@ -50,6 +50,7 @@
 
 - [Windows Post-Exploitation / Malware Forward Engineering](https://github.com/zerosum0x0/defcon-25-workshop/blob/master/DEFCON25.pdf)
 - https://www.volexity.com/wp-content/uploads/2020/04/Volexity-Cyber-Session-September-2019-Windows10DFIR.pdf + https://www.volexity.com/company/resources/windows-10-dfir-challenges-andrew-case
+- https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
 
 ### Clean up
 

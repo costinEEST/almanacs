@@ -112,6 +112,7 @@
 - [Really simple and secure ads blocking for Chrome](https://github.com/petrkle/block-it-yourself)
 - https://mmazzarolo.com/blog/2020-08-29-jira-express
 - [Chrome extension to track the activities of your favorite web novels](https://github.com/l-lin/wn-tracker-chrome) + https://github.com/l-lin/wn-tracker-api
+- https://github.com/jiripospisil/chrome-ext-downloader
 
 ### Bookmarklets
 
@@ -184,6 +185,10 @@ javascript: (() =>
 - https://www.secjuice.com/hiding-javascript-in-png-csp-bypass + https://twitter.com/Menin_TheMiddle/status/1244325611440615426
 - https://tldrsec.com/blog/content-security-policy-going-from-idea-to-afterthought
 
+### Same Origin Policy
+
+- https://parsiya.net/blog/2020-11-01-the-same-origin-policy-gone-wild
+
 ### Web Real-Time Communication
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeu5vBImsX2mMBacbomDrig
@@ -212,6 +217,7 @@ javascript: (() =>
 - [Comparing Cypress and Puppeteer](https://swatinem.de/blog/cypress-puppeteer)
 - [Capture screenshots in multiple browsers!](https://github.com/juliangruber/capture-screenshot)
 - [Puppeteer example scripts for running Headless Chrome from Node.](https://github.com/checkly/puppeteer-examples)
+- https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison
 
 ### Miscellaneous
 
@@ -222,3 +228,7 @@ javascript: (() =>
 - https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-browsers-1
 - https://alan.norbauer.com/articles/browser-debugging-tricks
 - https://textslashplain.com/2020/09/25/web-debugging-watching-element-changes
+  
+### History
+
+- https://webinista.com/updates/flash-end-of-life + https://twitter.com/mattmay/status/1344728355912880129 + http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive 

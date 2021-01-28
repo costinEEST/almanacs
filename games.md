@@ -27,6 +27,8 @@
 ### Desktop based
 
 - [Shenzhen I/O is a puzzle game that teaches how to build circuits and write assembly code based on provided elements.](http://www.zachtronics.com/shenzhen-io)
+- [Flappy bird in JS using Raylib](https://github.com/arthurmassanes/flappy)
+
 
 ### Development
 

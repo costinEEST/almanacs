@@ -447,3 +447,4 @@
 - https://v8.dev/blog/understanding-ecmascript-part-1
 - https://readspecwith.us
 - https://adambard.com/blog/on-library-versioning
+- https://timothygu.me/es-howto + https://github.com/TimothyGu/es-howto

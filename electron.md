@@ -21,6 +21,7 @@
 - [GitHub notifications on your menu bar. Available on macOS, Windows & Linux.](https://github.com/manosim/gitify)
 - [Upcount is a painless cross-platform invoicing application, built with React & Electron and simplicity in mind.](https://github.com/madisvain/upcount)
 - https://github.com/jlord/git-it-electron
+- [A hierarchical note taking app. Built as an Express app but also includes Electron packaging.](https://github.com/zadam/trilium)
 
 ### Boilerplates
 
@@ -35,3 +36,4 @@
 
 - [Hacking Modern Desktop apps with XSS and RCE](https://training.7asecurity.com/ma/webinar/desktop-xss-rce/lab1)
 - https://github.com/doyensec/awesome-electronjs-hacking
+- https://parsiya.net/blog/2021-01-08-a-novel-way-to-bypass-executable-signature-checks-with-electron + https://twitter.com/CryptoGangsta/status/1347847661844451330

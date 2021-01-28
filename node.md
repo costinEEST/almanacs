@@ -62,6 +62,7 @@
 - [Profile & Analyze Node.js Applications.](https://gioyik.com/s/profile-analyze-nodejs-applications)
 - [JS Memory Analysor is a tool to detect memory leaks for Javascript/NodeJS.](https://github.com/alibaba/JS-Memory-Analysor)
 - https://github.com/lrlna/sketchin/blob/master/guides/tracing.md
+- https://bhattsameer.github.io/2021/01/01/client-side-encryption-bypass-part-1.html
 
 ### Internals
 
@@ -78,6 +79,7 @@
 - [Stream into the Future - Matteo Collina, NearForm](https://youtu.be/dEFdt_6fW-0)
 - https://twitter.com/djgrant_/status/1296395202056327172
 - https://github.com/lrlna/sketchin/blob/master/guides/node-streams.md
+- https://developer.mongodb.com/how-to/capturing-hacker-news-mentions-nodejs-mongodb
 
 ### Tools
 
@@ -198,6 +200,8 @@
 - [Hacking with Environment Variables](https://www.elttam.com/blog/env)
 - https://www.loginradius.com/engineering/blog/using-pgp-encryption-with-nodejs
 - https://github.com/ukncsc/zero-trust-architecture
+- https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps + https://twitter.com/albinowax/status/1353631953703100416
+
 
 ### Static site generators
 

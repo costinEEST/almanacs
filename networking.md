@@ -112,6 +112,7 @@
 - [WireHole: Set up Pihole, WireGuard, and Unbound instantly](https://github.com/IAmStoxe/wirehole) + https://news.ycombinator.com/item?id=24425424
 - https://howdns.works/episodes
 - [Scaling the Root of the DNS](https://www.potaroo.net/ispcol/2020-09/root.html)
+- https://www.antitree.com/2013/02/22/how-tor-does-dns-the-breaking-bad-way
 
 ### TCP
 
@@ -179,6 +180,7 @@
 ### Secure Shell
 
 - https://gravitational.com/blog/how-to-ssh-properly
+- https://twitter.com/infosec_scarlet/status/1354528499105636353
 
 ### Jaber
 

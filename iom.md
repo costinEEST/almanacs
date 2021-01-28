@@ -61,6 +61,7 @@
 - https://shayan.es/#lectures
 - https://github.com/crytic/building-secure-contracts
 - https://www.theblockcrypto.com/linked/89843/2017-parity-wallet-hacker-begins-moving-eth
+- [Tineola: Taking a Bite Out of Enterprise Blockchain](https://github.com/tineola/tineola)
 
 
 ### Bitcoin

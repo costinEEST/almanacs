@@ -32,6 +32,7 @@
 - https://css-tricks.com/heres-how-i-solved-a-weird-bug-using-tried-and-true-debugging-strategies
 - [How to work with SVG icons](https://fvsch.com/svg-icons)
 - [Creating UI Components in SVG](https://twitter.com/sarah_edo/status/1331251022715445248)
+- https://www.aleksandrhovhannisyan.com/blog/svg-tutorial-how-to-code-svg-icons-by-hand
 
 ### Tools
 
