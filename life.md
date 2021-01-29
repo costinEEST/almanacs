@@ -33,6 +33,7 @@
 - www.anatomytrains.com
 - [Brains to Gains - The Muscle PhD](https://www.youtube.com/playlist?list=PLmiXBKJgM-GuNUykEDLcMiEK2jHrwhq1Z)
 - [Plateau Busters - The Muscle PhD](https://www.youtube.com/playlist?list=PLmiXBKJgM-GsIXN847rITImkm51Pd7fiJ)
+- https://spectrum.ieee.org/the-human-os/biomedical/devices/3d-printing-bone-directly-into-the-body
 
 ### Botany
 

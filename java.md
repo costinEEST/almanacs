@@ -44,6 +44,7 @@
 ### Optimizations
 
 - https://twitter.com/psobot/status/1204887283666685954
+- https://delitescere.medium.com/hotwire-html-over-the-wire-2c733487268c
 
 ### Algorithms
 

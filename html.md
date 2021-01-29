@@ -32,6 +32,8 @@
 - https://twitter.com/mmatuzo/status/1343807665533820929
 - https://hearmeoutcc.com/deaf-person-feel-included
 - https://jaketracey.com/accessible-inverted-colors
+- https://thoughtbot.com/blog/improving-the-usability-and-accessibility-of-a-healthcare-website-by-being-mindful-of-reading-level
+- [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av)
 
 ### <button></button>
 
@@ -46,6 +48,10 @@
 ### <meta />
 
 - https://textslashplain.com/2020/05/15/meta-charset
+
+### <input type="checkbox" />
+
+- https://html5accessibility.com/stuff/2021/01/24/a-simple-custom
 
 ### <select></select>
 
