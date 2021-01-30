@@ -10,3 +10,4 @@
 - http://jsomers.net/#books
 - https://www.gwern.net/Book-reviews
 - https://thecreativeindependent.com/library
+- https://chad.is/reading
