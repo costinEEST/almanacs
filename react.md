@@ -156,6 +156,7 @@
 - https://medium.com/14islands/progressive-enhancement-with-webgl-and-react-71cd19e66d4 + https://twitter.com/ffdead/status/1307023551380283393
 - [To design and develop an interactive globe using Three.js](https://stripe.com/blog/globe) + https://twitter.com/narrowd/status/1300838489869742080
 - https://twitter.com/sseraphini/status/1326864292868665352
+- https://www.joshwcomeau.com/css/styled-components
 
 ### Server side rendering
 
@@ -176,6 +177,7 @@
 ### Server components
 
 - https://dev.to/swyx/an-annotated-guide-to-the-react-server-components-demo-2a83
+- https://www.bitnative.com/2021/01/24/react-server-components-in-5-minutes
 
 ### State management
 

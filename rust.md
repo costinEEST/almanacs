@@ -69,3 +69,4 @@ https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=
 - https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help
 - https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming
 - https://twitter.com/aionescu/status/1272194529815416833
+- https://macwright.com/2021/01/15/rust.html + https://news.ycombinator.com/item?id=25798008

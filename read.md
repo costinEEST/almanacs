@@ -11,3 +11,4 @@
 - https://www.gwern.net/Book-reviews
 - https://thecreativeindependent.com/library
 - https://chad.is/reading
+- https://taylorpearson.me/bookreview

@@ -1,3 +1,8 @@
+### Practice
+
+- https://github.com/Boruch-Baum/emacs-crossword + https://news.ycombinator.com/item?id=25829851
+
+
 ### TV
 
 - [Emacs Meetups - thoughtbot](https://www.youtube.com/playlist?list=PL8tzorAO7s0he-pp7Y_JDl7-Kz2Qlr_Pj)

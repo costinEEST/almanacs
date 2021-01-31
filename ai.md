@@ -68,7 +68,7 @@
 - https://mentorcruise.com/books/ml + https://news.ycombinator.com/item?id=23997301
 - https://builtin.com/data-science/data-science-books + https://news.ycombinator.com/item?id=23936249
 - https://twitter.com/EmilWallner/status/1314581326209613826
-
+- [The Hundred-Page Machine Learning Book by Andriy Burkov](http://themlbook.com) + https://news.ycombinator.com/item?id=25905899
 ### Videos
 
 - [RL Course by David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)

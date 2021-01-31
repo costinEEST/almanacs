@@ -28,6 +28,7 @@
 - https://github.com/cheeaun/branding
 - http://kiwiagency.ro/blog/recomandare-de-carte-small-data-de-martin-lindstrom
 - https://www.itsnicethat.com/news/burger-king-rebrand-jkr-graphic-design-070121
+- https://www.achangeofbrand.com/episodes
 
 ### Publishing
 

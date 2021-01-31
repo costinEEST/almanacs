@@ -6,6 +6,7 @@
 - https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web
 - https://ferrumpipe.com
 - https://jeremenichelli.io/2016/04/always-animate-translate-instead-of-positions
+- https://thewholesome.dev/p/8-frontend-coding-ideas-that-will
 
 ### Books
 
