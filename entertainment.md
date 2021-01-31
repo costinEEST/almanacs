@@ -231,6 +231,8 @@
 - https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years + https://news.ycombinator.com/item?id=25108800
 - https://aeon.co/essays/playing-chess-is-an-essential-life-lesson-in-concentration
 - https://radioromaniacultural.ro/documentar-gambitul-damei-sau-o-scurta-istorie-a-sahului
+- [Olimpiu G. Urcan](https://twitter.com/olimpiuurcan)
+- https://www.chesshistory.com
 
 ### Golf
 

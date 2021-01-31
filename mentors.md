@@ -59,3 +59,7 @@
 ### Ryan Holiday
 
 - https://www.perell.com/podcast/ryan-holiday
+
+### Joe McCray
+
+- https://www.slideshare.net/joemccray/presentations
