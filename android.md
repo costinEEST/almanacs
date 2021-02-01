@@ -31,6 +31,7 @@
 - [UI to manipulate Android Java Classes and Methods at Runtime.](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 - [Extract endpoints from APK files](https://github.com/ndelphit/apkurlgrep)
 - [Android File Transfer For Linux (FreeBSD and Mac OS X!)](https://github.com/whoozle/android-file-transfer-linux)
+- [APRSdroid - Geo-Location for Radio Amateurs](https://github.com/ge0rg/aprsdroid)
 
 ### APIs
 

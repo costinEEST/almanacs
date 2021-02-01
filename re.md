@@ -52,6 +52,7 @@
 - https://yurichev.com/club
 - https://github.com/shellphish/how2heap
 - https://github.com/michalmalik/linux-re-101
+- https://github.com/jeFF0Falltrades/Tutorials
 
 ### Radio
 

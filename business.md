@@ -47,6 +47,7 @@
 - https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a
 - https://www.sachinrekhi.com/top-resources-for-product-managers
 - https://tgvashworth.com/2020/02/24/product-management-reading-list.html
+- https://mikemcdonald.co/pm-course
 
 ### Strategy
 
