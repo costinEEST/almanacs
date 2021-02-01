@@ -21,6 +21,7 @@
 - [NoConnect is a real-time messaging application like WhatsApp which does not rely on any traditional GSM/CDMA network or any kind of internet service to communicate with each other unlike WhatsApp.](https://twitter.com/Debloper/status/1206358762275004417)
 - https://github.com/wikimedia/apps-android-wikipedia
 - https://arstechnica.com/gadgets/2020/08/android-is-now-the-worlds-largest-earthquake-detection-network
+- [hebrew interlinear old testament](https://github.com/stefankmitph/hiot) + https://github.com/peace-shillong/Hebrew-Interlinear-Old-Testament-Android
 
 ### Tools
 

@@ -210,6 +210,7 @@ javascript: (() =>
 - https://www.pheelicks.com/speaking
 - https://github.com/luruke/awesome-casestudy
 - https://github.blog/2020-12-21-how-we-built-the-github-globe
+- https://formidable.com/blog/2021/future-ui
 
 ### Headless
 

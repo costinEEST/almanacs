@@ -68,6 +68,10 @@
 - [Computer History - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc5y3yXGO1VDXtzLeVcr5kCl)
 - http://thatmakershow.com
 
+### Radio
+
+- https://podcasts.apple.com/us/podcast/the-story-of-how-tsmc-came-to-dominate-the-world/id1056200096?i=1000506468665
+
 ### Tools
 
 - https://nelsonslog.wordpress.com/2020/05/27/power-monitoring-generator-well

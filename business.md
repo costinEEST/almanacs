@@ -48,6 +48,8 @@
 - https://www.sachinrekhi.com/top-resources-for-product-managers
 - https://tgvashworth.com/2020/02/24/product-management-reading-list.html
 - https://mikemcdonald.co/pm-course
+- https://abdulapopoola.com/2021/02/01/how-to-run-better-stand-ups
+
 
 ### Strategy
 

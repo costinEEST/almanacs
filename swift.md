@@ -7,6 +7,10 @@
 - https://www.hackingwithswift.com/quick-start/understanding-swift
 - https://www.jessesquires.com/blog/2020/12/28/resources-for-learning-about-compilers-and-llvm
 
+### Development
+
+- [Clippy from Microsoft Office is back and runs on macOS](https://github.com/Cosmo/Clippy)
+
 ### Practice
 
 - https://github.com/soapyigu/Swift-30-Projects

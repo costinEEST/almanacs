@@ -38,6 +38,7 @@
 - [Ryan Sean Adams](https://newsletter.banklesshq.com/archive)
 - [Koroush AK](https://koroushak.substack.com/archive)
 - [Sebastien Couture](https://epicenter.tv/subscribe)
+- [EthHub Weekly](https://ethhub.substack.com/archive)
 
 ### Design
 
