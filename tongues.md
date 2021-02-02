@@ -69,6 +69,7 @@
 - https://www.youtube.com/c/%E9%98%BF%E7%A6%8FThomas/playlists
 - https://ralphammer.com/the-book-of-change
 - https://sites.google.com/stanford.edu/cantonese/language-resources + https://twitter.com/kginlum/status/1334213475011231744
+- [Cross-language homonyms between English and Chinese](https://mcc.id.au/blog/2020/07/homoyin)
 
 ### Danish
 
