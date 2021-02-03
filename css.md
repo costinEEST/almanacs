@@ -72,6 +72,7 @@
 - https://frontend.horse/articles/thinking-outside-the-box-with-css-grid
 - https://calendartricks.com/a-calendar-in-three-lines-of-css
 - https://melanie-richards.com/blog/css-grid-sticky
+- https://www.jayfreestone.com/writing/bulletproof-flag
 
 ### Demos
 

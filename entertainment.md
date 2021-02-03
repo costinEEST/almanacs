@@ -233,6 +233,7 @@
 - https://radioromaniacultural.ro/documentar-gambitul-damei-sau-o-scurta-istorie-a-sahului
 - [Olimpiu G. Urcan](https://twitter.com/olimpiuurcan)
 - https://www.chesshistory.com
+- https://www.europeana.eu/en/blog/checkmate-7-fascinating-facts-about-chess
 
 ### Golf
 

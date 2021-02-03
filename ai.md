@@ -32,6 +32,7 @@
 - https://github.com/dformoso/machine-learning-mindmap
 - [Visual Studio Code extension to quickly generate docstrings for Python functions using AI](https://github.com/graykode/ai-docstring)
 - [Learn OpenCV : C++ and Python Examples](https://github.com/spmallick/learnopencv)
+- https://github.com/eugeneyan/applied-ml
 
 ### Tools
 
