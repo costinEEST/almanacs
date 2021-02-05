@@ -55,6 +55,7 @@
 - [JavaScript for Data Science](https://js4ds.org)
 - https://www.freecodecamp.org/news/hands-on-data-science-course
 - https://course.elementsofai.com
+- https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning
 
 ### Books
 

@@ -63,6 +63,7 @@
 - https://github.com/mikaelbr/awesome-es2015-proxy
 - https://tobireif.com/posts/observing_changes_using_ES6_proxies
 - [Functional Core, Imperative Shell ~ Lachlan Miller](https://www.youtube.com/playlist?list=PLC2LZCNWKL9a7b7Ufx0ngo9xH_b8j9ZlA)
+- https://github.com/you-dont-need/You-Dont-Need-Loops
 
 ### TIL
 
@@ -324,6 +325,7 @@
 - [Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language.](https://github.com/francisrstokes/super-expressive)
 - https://stackoverflow.com/questions/770523/escaping-strings-in-javascript/22837870
 - https://github.com/kevva/credit-card-regex
+- https://github.com/ziishaned/learn-regex
 
 ### new Worker()
 

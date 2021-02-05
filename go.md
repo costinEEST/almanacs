@@ -2,11 +2,16 @@
 
 - https://github.com/dreddsa5dies/automateGo
 - https://github.com/dreddsa5dies/networkGo
+- https://github.com/dariubs/GoBooks
 - 
 
 ### Boots
 
 - - https://smarx.com/posts/2020/09/shove-it-up-your-bot-an-intro-to-slack-bots + https://github.com/smarx/shoveitupyourbot
+
+### Data structures
+
+- https://github.com/TheAlgorithms/Go
 
 
 ### Tutorials
@@ -19,9 +24,12 @@
 - [GoLD stack (Golang, Lambda and DynamoDB)](https://dev.to/prozz/introduction-to-the-gold-stack-5b66)
 - https://golangbot.com/learn-golang-series
 - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine
-- https://github.com/quii/learn-go-with-tests
 - https://github.com/gophertuts/go-basics
 - https://marinhero.com/posts/port-scanning
+
+### Testing
+
+- https://github.com/quii/learn-go-with-tests
 
 ### Courses
 

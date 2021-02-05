@@ -31,6 +31,7 @@
 - https://python-patterns.guide
 - https://hakibenita.com/python-dependency-injection
 - https://leanpub.com/clean-architectures-in-python
+- https://github.com/faif/python-patterns
 
 ### Courses
 

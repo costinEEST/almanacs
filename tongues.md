@@ -30,6 +30,7 @@
 - [Pronunciation Tutorials - MimicMethod](https://www.youtube.com/playlist?list=PLe8oyXzXqjDuPUXWXRqibx8grJUTN0vAy)
 - [Spanish With Paul](https://www.youtube.com/user/learnspanishvideos/playlists)
 - [The Development of Writing - The Oriental Institute](https://www.youtube.com/playlist?list=PLmXaxHgt2ww-5iaGS85AavCctyfM252wu)
+- [Brian Loo Soon Hua](https://www.youtube.com/channel/UC06QVomuK9XKcU7-qsM67uQ/playlists)
 
 ### Books
 
@@ -57,6 +58,7 @@
 - https://lindiebotes.com/language-resources
 - https://www.inverse.com/innovation/neural-stimulation-language-device
 - https://github.com/RichardLitt/low-resource-languages
+- http://languagestolearn.com/resources
 
 ### Communities
 
@@ -82,6 +84,10 @@
 ### English
 
 - [The English and their History - Robert Tombs](https://www.goodreads.com/book/show/23569457-the-english-and-their-history)
+- http://www.arrantpedantry.com/2014/12/01/celtic-and-the-history-of-the-english-language
+- [At the Coal-Face of Standardization’: Uncovering the Role of Copy Editors in Standardizing the English Language (thesis)](https://www.arrantpedantry.com/wp-content/uploads/2013/05/Jonathon-Owen-thesis.pdf)
+- http://languagestolearn.com/has-english-become-the-21st-centurys-linguistic-bully
+- [What The English?!](https://www.youtube.com/playlist?list=PLxDXDxbE93MyXaHPbZmJNkmIkVtP7dz3p)
 
 ### Farsi
 

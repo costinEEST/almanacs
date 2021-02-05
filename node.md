@@ -1,3 +1,42 @@
+
+### Books
+
+- [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
+- https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing-in-nodejs
+- https://twitter.com/loige/status/1312531675109232640
+- https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition
+
+### Boots
+
+- [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
+- https://jasonet.co/posts/build-your-own-probot
+- https://github.com/srepollock/quote-bot-twitter + https://medium.com/swlh/how-i-built-a-serverless-aws-lambda-twitter-bot-in-nodejs-in-a-single-day-6901f8df13f0
+- [A bitcoin trading bot written in node](https://github.com/askmike/gekko)
+
+### Boilerplate
+
+- https://github.com/microsoft/nodejs-guidelines
+- https://github.com/microsoft/TypeScript-Node-Starter
+- https://github.com/juicycleff/ultimate-backend
+- [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
+- [Open-source YouTube alternative that also supports image and audio uploads.](https://github.com/mayeaux/nodetube)
+- https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial
+- https://github.com/sahat/hackathon-starter
+- https://github.com/Jiratech/boilerplates-express-typescript-openapi
+
+### Debugging
+
+- [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
+- https://evilpacket.net/2019/leveraging-javascript-debuggers
+- https://github.com/tj/node-blocked
+- https://nodesource.com/blog/memory-leaks-demystified
+- https://gioyik.com/s/memory-chronicles-manage-trace-fix-memory-leaks
+- https://www.joyent.com/blog/walmart-node-js-memory-leak
+- [Profile & Analyze Node.js Applications.](https://gioyik.com/s/profile-analyze-nodejs-applications)
+- [JS Memory Analysor is a tool to detect memory leaks for Javascript/NodeJS.](https://github.com/alibaba/JS-Memory-Analysor)
+- https://github.com/lrlna/sketchin/blob/master/guides/tracing.md
+- https://bhattsameer.github.io/2021/01/01/client-side-encryption-bypass-part-1.html
+
 ### TIL
 
 - [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
@@ -28,13 +67,6 @@
 - https://github.com/cmda-bt/be-course-17-18
 - https://jamesqquick.hashnode.dev/build-an-authenticated-jamstack-app-with-nextjs-airtable-tailwind-css-and-auth0
 
-### Books
-
-- [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
-- https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing-in-nodejs
-- https://twitter.com/loige/status/1312531675109232640
-- https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition
-
 ### Cheat sheets
 
 - https://github.com/aliyr/Nodejs-Developer-Roadmap
@@ -42,27 +74,6 @@
 - https://github.com/ArturJS/nodejs-certification-preparation
 - https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners
 - [Project for learning Node.js internals](https://github.com/danbev/learning-nodejs)
-
-### Boilerplate
-
-- [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
-- [Open-source YouTube alternative that also supports image and audio uploads.](https://github.com/mayeaux/nodetube)
-- https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial
-- https://github.com/sahat/hackathon-starter
-- https://github.com/Jiratech/boilerplates-express-typescript-openapi
-
-### Debugging
-
-- [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
-- https://evilpacket.net/2019/leveraging-javascript-debuggers
-- https://github.com/tj/node-blocked
-- https://nodesource.com/blog/memory-leaks-demystified
-- https://gioyik.com/s/memory-chronicles-manage-trace-fix-memory-leaks
-- https://www.joyent.com/blog/walmart-node-js-memory-leak
-- [Profile & Analyze Node.js Applications.](https://gioyik.com/s/profile-analyze-nodejs-applications)
-- [JS Memory Analysor is a tool to detect memory leaks for Javascript/NodeJS.](https://github.com/alibaba/JS-Memory-Analysor)
-- https://github.com/lrlna/sketchin/blob/master/guides/tracing.md
-- https://bhattsameer.github.io/2021/01/01/client-side-encryption-bypass-part-1.html
 
 ### Internals
 
@@ -161,6 +172,7 @@
 - [Extracts subdomains from a specified domain using api.recon.de](https://github.com/JR0ch17/ardse)
 - [Suggestions for books about API design?](https://news.ycombinator.com/item?id=24383180)
 - https://lucjan.medium.com/free-url-shortener-with-cloudflare-workers-125eaf87b1ec
+- [An experimental blogging application developed with Docker, Deno, Oak and MySQL](https://github.com/fhsinchy/deno-blog)
 
 ### Scrapping
 
@@ -218,13 +230,6 @@
 - https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app
 - [A Next.js site using new SSG support with a Notion backed blog](https://github.com/ijjk/notion-blog)
 - [A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark](https://github.com/nodejs/nodejs.dev)
-
-### Boots
-
-- [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
-- https://jasonet.co/posts/build-your-own-probot
-- https://github.com/srepollock/quote-bot-twitter + https://medium.com/swlh/how-i-built-a-serverless-aws-lambda-twitter-bot-in-nodejs-in-a-single-day-6901f8df13f0
-- [A bitcoin trading bot written in node](https://github.com/askmike/gekko)
 
 
 ### Serverless

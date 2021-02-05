@@ -23,6 +23,7 @@
 - [A workshop on Linux containers: Rebuild Docker from Scratch.](https://github.com/Fewbytes/rubber-docker)
 - https://twitter.com/gkcs_/status/1300887808748347393
 - https://zserge.com/posts/kvm + https://zserge.com/posts/containers + https://twitter.com/phil_eaton/status/1260756629265489922
+- https://github.com/Friz-zy/awesome-linux-containers
 
 ### Internals
 

@@ -22,6 +22,7 @@
 - [Upcount is a painless cross-platform invoicing application, built with React & Electron and simplicity in mind.](https://github.com/madisvain/upcount)
 - https://github.com/jlord/git-it-electron
 - [A hierarchical note taking app. Built as an Express app but also includes Electron packaging.](https://github.com/zadam/trilium)
+- [A virtual Apple Macintosh with System 8, running in Electron.](https://github.com/felixrieseberg/macintosh.js)
 
 ### Boilerplates
 

@@ -37,11 +37,14 @@
 - https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman
 - https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code
 - http://blog.boreas.ro/2018/09/data-science-environment-with-docker.html
+- https://github.com/BretFisher/node-docker-good-defaults
+- https://github.com/fhsinchy/the-docker-handbook + https://github.com/fhsinchy/docker-handbook-projects
 
 ### Kubernetes
 
 - https://twitter.com/oliverjumpertz/status/1318082918896500746
 - http://blog.boreas.ro/2018/08/learn-cloud-native-docker-k8s-istio.html
+- https://github.com/fhsinchy/kubernetes-handbook-projects
 - https://danielmoka.com/2020/04/28/kubernetes-the-big-picture
 - https://www.learncloudnative.com/blog/2020-01-06-build_your_own_netlify_like_deployment_for_react_apps_with_kubernetes
 - [Open Source Curriculum for CNCF Certification Courses](https://github.com/cncf/curriculum)
