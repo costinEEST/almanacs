@@ -47,6 +47,7 @@
 - [Jazz - enjoytv romania](https://www.youtube.com/playlist?list=PLM-C90vmncosaw4a4uMtdYFIjQcG7vOlq)
 - http://diy-fever.com/reviews/picks
 - http://sanuuitam.blogspot.com/2020/12/cel-mai-important-jazzman-roman.html
+- https://news.ycombinator.com/item?id=25999692
 
 ### Rock
 

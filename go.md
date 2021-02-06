@@ -62,6 +62,7 @@
 - [Go library to capture desktop to image](https://github.com/kbinani/screenshot)
 - https://github.com/dreddsa5dies/goHackTools
 - [Visualize Go Dependency Trees](https://github.com/KyleBanks/depth)
+- [A plain-text file format and command line tool for time tracking](https://github.com/jotaen/klog) + https://news.ycombinator.com/item?id=25995838
 
 ### References
 

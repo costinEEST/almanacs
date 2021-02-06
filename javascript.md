@@ -326,6 +326,7 @@
 - https://stackoverflow.com/questions/770523/escaping-strings-in-javascript/22837870
 - https://github.com/kevva/credit-card-regex
 - https://github.com/ziishaned/learn-regex
+- https://blog.superhuman.com/how-to-eliminate-regular-expression-denial-of-service + https://speakerdeck.com/lmt_swallow/revisiting-redos-a-rough-idea-of-data-exfiltration-by-redos-and-side-channel-techniques + https://twitter.com/y0n3uchy/status/1225008844809486336
 
 ### new Worker()
 

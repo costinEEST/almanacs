@@ -114,6 +114,7 @@
 - [ML Art - A curated showcase of creative machine learning artworks and projects](https://mlart.co)
 - https://towardsdatascience.com/create-your-own-smart-baby-monitor-with-a-raspberrypi-and-tensorflow-5b25713410ca
 - https://github.com/nashory/gans-awesome-applications
+- [Automating my job by using GPT-3 to generate database-ready SQL to answer business questions(https://blog.seekwell.io/gpt3) + https://news.ycombinator.com/item?id=25930190
 
 ### Opinions
 

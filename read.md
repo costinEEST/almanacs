@@ -2,6 +2,10 @@
 
 - [How to Mark a Book By Mortimer J. Adler, Ph.D.](https://web.archive.org/web/20200213203215/http://chuma.cas.usf.edu/~pinsky/mark_a_book.htm)
 
+### Tools
+
+- [A usable eBook reader inside a browser (azw3, mobi, ePub, pdf)](https://news.ycombinator.com/item?id=25948797)
+
 ### Reviews
 
 - https://phor.net/reading-list

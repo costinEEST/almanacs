@@ -20,7 +20,7 @@
 - https://buttondown.email/computer-napkins/archive
 - [Brandient](https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5)
 - [Roditor Food Market](https://us2.campaign-archive.com/home/?u=1ae9247870a083038851025e0&id=17c09f57ca)
-
+- [Sahil Bloom](https://sahilbloom.substack.com/archive)
 ### Biology
 
 - https://csvoss.substack.com/archive

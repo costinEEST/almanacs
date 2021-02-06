@@ -97,6 +97,7 @@
 ### French
 
 - https://lindiebotes.com/2020/09/12/weekly-french-studyroutine
+- https://tvtropes.org/pmwiki/pmwiki.php/Main/EverythingSoundsSexierInFrench
 
 ### German
 

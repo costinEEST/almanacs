@@ -13,6 +13,12 @@
 - https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production
 - https://www.slideshare.net/mariofusco/lets-make-a-contract-the-art-of-designing-a-java-api + https://twitter.com/ftomasse/status/1246831973567475713
 
+### Data structures
+
+- https://www.youtube.com/user/purpongie/playlists
+- https://github.com/williamfiset/Algorithms#geometry
+- https://github.com/anthonynsimon/java-ds-algorithms
+
 ### Tools
 
 - [Google Reader inspired self-hosted RSS reader.](https://github.com/Athou/commafeed)
@@ -36,6 +42,7 @@
 ### Opinions
 
 - https://noncombatant.org/2014/07/31/why-i-love-java
+- https://www.infoq.com/news/2021/01/java-turns-25 + https://news.ycombinator.com/item?id=25881704
 
 ### Versions
 
@@ -46,7 +53,4 @@
 - https://twitter.com/psobot/status/1204887283666685954
 - https://delitescere.medium.com/hotwire-html-over-the-wire-2c733487268c
 
-### Algorithms
 
-- https://www.youtube.com/user/purpongie/playlists
-- https://github.com/williamfiset/Algorithms#geometry

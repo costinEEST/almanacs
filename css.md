@@ -31,6 +31,7 @@
 ### Measurement units
 
 - http://www.gregoryschmidt.ca/writing/when-is-a-pixel-not-a-pixel-pixels-points-dps
+- https://shkspr.mobi/blog/2021/02/just-because-i-have-a-vertical-screen-doesnt-mean-im-on-a-phone + https://news.ycombinator.com/item?id=26000405
 - https://wattenberger.com/blog/css-percents
 
 ### Properties explained

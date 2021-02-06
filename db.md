@@ -10,7 +10,7 @@
 - [The DynamoDB Book: Data Modeling with NoSQL and DynamoDB](https://news.ycombinator.com/item?id=23193093)
 - https://www.neilwithdata.com/advanced-sql
 - https://github.com/bevacqua/reads#databasessearch
-- [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077)
+- [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077) + https://news.ycombinator.com/item?id=25987664
 
 ### Courses
 
@@ -41,6 +41,7 @@
 - https://gbl08ma.com/time-for-a-wtf-mysql-moment
 - https://blog.jooq.org/2019/11/13/stop-mapping-stuff-in-your-middleware-use-sqls-xml-or-json-operators-instead + https://twitter.com/lukaseder/status/1331897735361028097
 - https://materialize.com/kafka-is-not-a-database + https://news.ycombinator.com/item?id=25346851
+- https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss + https://news.ycombinator.com/item?id=25870482
 
 ### Hacks
 
