@@ -15,6 +15,7 @@
 ### Courses
 
 - https://news.ycombinator.com/item?id=23070491
+- [CMPT 354: Database Systems and Structures (Summer 1998)](https://www2.cs.sfu.ca/CourseCentral/354/zaiane/material/notes/contents.html)
 - https://www.sqlhabit.com/blog/posts/how-to-detect-recurring-payments-with-sql
 - https://blog.bradfieldcs.com/how-to-learn-about-database-systems-40c7432f471d
 - [Introduction to Databases - Jennifer Widom - Stanford](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0)

@@ -13,6 +13,7 @@
 - https://www.amazon.com/Out-Ether-Amazing-Ethereum-Destroyed/dp/B08CGYC2NR + https://twitter.com/JamesJohnBeck/status/1332812058400845828
 - https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet-ebook/dp/B07X8HS2WC
 - https://paulmillr.com/posts/libertarian-reading-list
+- [Introducing Blockchain Programming with Lisp by Boro Sitnikovski](https://leanpub.com/gibl)
 
 ### Courses
 

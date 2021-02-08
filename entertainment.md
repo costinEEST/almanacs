@@ -234,6 +234,7 @@
 - [Olimpiu G. Urcan](https://twitter.com/olimpiuurcan)
 - https://www.chesshistory.com
 - https://www.europeana.eu/en/blog/checkmate-7-fascinating-facts-about-chess
+- https://twitter.com/tlakomy/status/1358162226352451587
 
 ### Golf
 

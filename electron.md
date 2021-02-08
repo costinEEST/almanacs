@@ -23,6 +23,7 @@
 - https://github.com/jlord/git-it-electron
 - [A hierarchical note taking app. Built as an Express app but also includes Electron packaging.](https://github.com/zadam/trilium)
 - [A virtual Apple Macintosh with System 8, running in Electron.](https://github.com/felixrieseberg/macintosh.js)
+- [Deskreen turns any device with a web browser into a secondary screen for your computer](https://github.com/pavlobu/deskreen)
 
 ### Boilerplates
 

@@ -21,6 +21,7 @@
 - [ScribbleX – Create some art with friends.](https://scribblex.com)
 - https://store.steampowered.com/app/442070/Drawful_2
 - http://www.openculture.com/2020/02/old-book-illustrations-download.html
+- https://eclecticlight.co/painting-topics
 
 ### Comics
 

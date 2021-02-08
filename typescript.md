@@ -33,6 +33,7 @@
 - [📚 Functions and algorithms implemented purely with TypeScript's type system ](https://github.com/ronami/meta-typing)
 - https://github.com/mdevils/typescript-exercises
 - https://ts-engine.dev
+- https://startup-cto.net/10-bad-typescript-habits-to-break-this-year
 
 ### Opinions
 

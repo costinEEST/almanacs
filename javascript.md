@@ -17,6 +17,7 @@
 - https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c
 - [Accelerating JavaScript (in the browser)](https://hyphaebeast.club/writing/accelerating-js)
 - https://www.chandlerprall.com/post/request-animation-frame-is-not-your-logics-friend
+- https://felixgerschau.com/javascript-memory-management
 
 ### Algorithms
 

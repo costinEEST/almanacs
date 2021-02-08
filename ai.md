@@ -9,6 +9,7 @@
 - https://twitter.com/svpino/status/1320722226069573634
 - https://sararobinson.dev/2020/11/17/writing-a-technical-book.html
 - [Daniel Etzold](https://etzold.io)
+- [Noor Siddiqui](https://progressstudies.school/the-torch-of-progress-ep-7-with-noor-siddiqui)
 
 ### References
 

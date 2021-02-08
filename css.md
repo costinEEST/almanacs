@@ -7,6 +7,7 @@
 - https://ferrumpipe.com
 - https://jeremenichelli.io/2016/04/always-animate-translate-instead-of-positions
 - https://thewholesome.dev/p/8-frontend-coding-ideas-that-will
+- https://github.com/argyleink/transition.css
 
 ### Books
 
@@ -84,6 +85,7 @@
 - [WICKEDBLOCKS are a growing collection of more than 120 layout blocks and components built with Tailwind CSS V2 ready to copy paste on your Tailwind project.](https://blocks.wickedtemplates.com)
 - https://twitter.com/search?q=(from%3Akevinjpowell)%20%23csstipoftheday + https://codepen.io/collection/nJzQBY
 - https://codepen.io/2020/popular/pens/10
+- [13 Tips to improve Landing Page Design.](https://twitter.com/IndieHackers/status/1358746146508845058)
 
 ### Layout
 
