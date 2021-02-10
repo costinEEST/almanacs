@@ -69,6 +69,7 @@
 - https://bullet-train.io/blog/react-native-performance-monitor
 - https://engineering.tableau.com/react-native-performance-learnings-85f47ba38acb
 - [Electron vs C++ vs RN](https://twitter.com/tanaypratap/status/1313309380398391296)
+- https://blog.crowdbotics.com/react-native-performance-do-and-dont
 
 ### Applications
 

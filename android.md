@@ -22,6 +22,7 @@
 - https://github.com/wikimedia/apps-android-wikipedia
 - https://arstechnica.com/gadgets/2020/08/android-is-now-the-worlds-largest-earthquake-detection-network
 - [hebrew interlinear old testament](https://github.com/stefankmitph/hiot) + https://github.com/peace-shillong/Hebrew-Interlinear-Old-Testament-Android
+- https://www.androidpolice.com/2021/01/16/gboard-emoji-kitchen-how-to-examples
 
 ### Tools
 

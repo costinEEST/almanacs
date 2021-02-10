@@ -15,6 +15,8 @@
 - https://trydesignlab.com/figma-101-course/lessons
 - [Figma Tips - Envato Tuts+](https://www.youtube.com/playlist?list=PLgGbWId6zgaUeFJ4y8s6BNmPN-APWpB3N)
 - [Learn figma - lalayeye](https://www.youtube.com/playlist?list=PLG1PjQUyPyLW5Te_WEHB9yzSI4ME8xO1S)
+- https://www.figmacrashcourse.com + https://www.youtube.com/playlist?list=PLWlUJU11tp4fVibQ468jiMlgjvYyRE_xE
+- [How to make a "Question Mark" icon](https://twitter.com/steveschoger/status/1358852316808552453)
 
 ### TV
 

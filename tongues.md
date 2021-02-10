@@ -134,6 +134,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 ### Spanish
 
 - https://www.mezzoguild.com/spanish-apps
+- https://www.youtube.com/c/ChristianBurgosKorea/playlists
 
 ### Tibetan
 

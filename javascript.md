@@ -279,6 +279,7 @@
 
 - https://chrisrng.svbtle.com/using-weakmap-for-private-properties
 - https://twitter.com/MarijnJH/status/1328364495459192832
+- [How to detect if an object has been garbage collected in Javascript](http://stevehanov.ca/blog/?id=148)
 
 ### new Set()
 
