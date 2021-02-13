@@ -213,6 +213,7 @@
 - https://www.loginradius.com/engineering/blog/using-pgp-encryption-with-nodejs
 - https://github.com/ukncsc/zero-trust-architecture
 - https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps + https://twitter.com/albinowax/status/1353631953703100416
+- [Dependency Confusion](https://twitter.com/bradleymeck/status/1359882487674077189) + https://twitter.com/alxbrsn/status/1359852094950436866 + https://twitter.com/alxbrsn/status/1359200840876257287
 
 
 ### Static site generators

@@ -396,6 +396,7 @@
 - https://www.perfecto.io/blog/cypress-vs-selenium-whats-right-cross-browser-testing-solution-you
 - [Using deferred promise to test websockets](https://gist.github.com/sibelius/ffa492c5b08eb11d1d818374150a3295) + https://twitter.com/sseraphini/status/1318241910738325510
 - https://github.com/JanVanRyswyck/awesome-talks#test-driven-development
+- [Software quality and software testing.](https://github.com/ligurio/software-quality-wiki/wiki)
 
 ### Virtual machines
 

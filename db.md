@@ -90,6 +90,7 @@
 - [Postgres Observability](https://pgstats.dev)
 - https://tomcam.github.io/postgres + https://news.ycombinator.com/item?id=25113440
 - https://postgresqlco.nf/en/doc/param + https://news.ycombinator.com/item?id=25024224
+- But nobody writes production applications with SQLite, right? https://litestream.io/blog/why-i-built-litestream + https://twitter.com/benbjohnson/status/1359906563285254149 + https://twitter.com/benbjohnson/status/1359944904588353537
 
 ### Real-time databases
 

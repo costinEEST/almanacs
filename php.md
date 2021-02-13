@@ -33,6 +33,7 @@
 - https://srcincite.io/assets/out-of-hand-attacks-against-php-environments.pdf + https://twitter.com/steventseeley/status/1344356457186291713
 - https://github.com/padraic/phpsecurity
 - https://github.com/GoSecure/php7-opcache-override
+- https://blog.packagist.com/preventing-dependency-hijacking
 
 ### Miscellaneous
 

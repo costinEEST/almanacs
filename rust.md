@@ -11,6 +11,10 @@
 
 https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=25122178
 
+### Community
+
+-https://twitter.com/siscia_/status/1360113669884039170
+
 ### Courses
 
 - https://github.com/pingcap/talent-plan#series-2-rust-programming

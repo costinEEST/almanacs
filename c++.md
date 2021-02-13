@@ -28,3 +28,7 @@
 ### Implementations
 
 - https://github.com/ssloy/tinyrenderer/wiki
+
+### Community
+
+- https://twitter.com/merni_/status/1359781105931583488

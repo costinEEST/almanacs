@@ -202,6 +202,7 @@
 - https://daveceddia.com/freebies/guide-to-react-state-management.pdf
 - https://changelog.com/posts/when-and-when-not-to-reach-for-redux
 - https://blog.logrocket.com/refactoring-redux-app-to-use-recoil + https://github.com/ohansemmanuel/benutzer/tree/recoil-multiple-user + https://github.com/ohansemmanuel/benutzer/tree/redux-multi-users
+- [7Guis in React](https://github.com/andrewgreenh/7guis)
 
 
 ### Preact

@@ -17,6 +17,7 @@
 ### Tutorials
 
 - https://github.com/miguelmota/golang-for-nodejs-developers
+- [Packaging Go server software for Windows](https://twitter.com/benbjohnson/status/1360605093834424321)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent)
 - https://github.com/code-tutorials/golang-webapp
 - https://notes.eatonphil.com/database-basics.html + https://news.ycombinator.com/item?id=22850817
@@ -63,6 +64,7 @@
 - https://github.com/dreddsa5dies/goHackTools
 - [Visualize Go Dependency Trees](https://github.com/KyleBanks/depth)
 - [A plain-text file format and command line tool for time tracking](https://github.com/jotaen/klog) + https://news.ycombinator.com/item?id=25995838
+- [Check for dependency confusion vulnerabilities in multiple package management systems ](https://github.com/visma-prodsec/confused) + https://twitter.com/joohoi/status/1359467575441301504
 
 ### References
 
