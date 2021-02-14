@@ -11,7 +11,7 @@
 - https://wordpress.tv/2019/10/08/the-history-of-wordpress-in-four-minutes
 - https://www.freecodecamp.org/news/learn-how-to-create-your-own-wordpress-theme-from-scratch
 - https://iandunn.name/2019/12/26/the-simplest-way-to-build-a-gutenberg-block
-
+- [How to Start Block Development with Scaffolding](https://gziolo.pl/2021/02/14/wordcamp-india-2021)
 ### Opinions
 
 - https://kevq.uk/the-case-for-wordpress

@@ -16,6 +16,7 @@
 - https://iandunn.name/2019/11/29/minimal-cachestorage-cache-api-example
 - https://stackoverflow.com/questions/16808486/explanation-of-window-performance-javascript
 - https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities
+- https://engineering.q42.nl/passwordless-authentication
 
 ### Engines
 
@@ -176,6 +177,7 @@ javascript: (() =>
 - [Stealing Session Cookies with Tcpdump](https://nullprogram.com/blog/2016/06/23)
 - [How to Store Session Tokens in a Browser (and the impacts of each)](https://blog.ropnop.com/storing-tokens-in-browser)
 - https://rudism.com/cookie-monster
+- [Browser fingerprinting via favicon!](https://github.com/jonasstrehle/supercookie)
 
 ### Content Security Policy
 

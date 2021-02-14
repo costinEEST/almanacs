@@ -105,6 +105,7 @@
 - https://softchris.github.io/books/rxjs
 - https://gumroad.com/l/jstestingbeginners
 - https://github.com/PacktPublishing/Hands-on-JavaScript-for-Python-Developers
+- https://github.com/javascript-society/javascript-path
 
 ### Talks
 
@@ -447,6 +448,7 @@
 - [Measure and compare JavaScript libraries](https://moiva.io)
 - [Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.](https://github.com/sverweij/dependency-cruiser)
 - https://lachlan-miller.me/articles/decoding-variable-length-quantity-vlq-for-source-maps
+- [webpack is all written on top of its own plugins](https://matheus1lva.substack.com/p/webpack-plugins)
 
 ### Documentation
 

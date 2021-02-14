@@ -20,6 +20,7 @@
 - [A color blindness simulator for Mac and iOS](https://github.com/michelf/sim-daltonism)
 - [What are the best designed apps and websites for iPad in your opinion?](https://twitter.com/rauchg/status/1260324646223667200)
 - https://dev.to/kopiro/how-to-install-kali-on-a-usb-stick-with-pure-efi-boot-on-a-mac-and-with-virtualization-via-usb-on-virtualbox-2md2
+- https://dannys.cloud/automatically-setup-macbook-development
 
 ### References
 

@@ -17,6 +17,7 @@
 - [Learn figma - lalayeye](https://www.youtube.com/playlist?list=PLG1PjQUyPyLW5Te_WEHB9yzSI4ME8xO1S)
 - https://www.figmacrashcourse.com + https://www.youtube.com/playlist?list=PLWlUJU11tp4fVibQ468jiMlgjvYyRE_xE
 - [How to make a "Question Mark" icon](https://twitter.com/steveschoger/status/1358852316808552453)
+- https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma
 
 ### TV
 

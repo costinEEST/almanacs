@@ -28,6 +28,7 @@
 - https://github.com/mykter/aws-security-cert-service-notes
 - [OpenID authenticated access to a static website hosted in an s3 bucket.](https://github.com/wolfeidau/website-openid-proxy)
 - https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf
+- https://scalesec.com/aws-series/best-practices-for-serverless-endpoints-on-aws
 
 ### Google Cloud
 

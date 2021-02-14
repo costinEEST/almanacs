@@ -39,6 +39,7 @@
 - http://blog.boreas.ro/2018/09/data-science-environment-with-docker.html
 - https://github.com/BretFisher/node-docker-good-defaults
 - https://github.com/fhsinchy/the-docker-handbook + https://github.com/fhsinchy/docker-handbook-projects
+- https://madhuakula.com/content + https://speakerdeck.com/madhuakula/a-practical-guide-to-writing-secure-dockerfiles-wearedevelopers-container-day-2021
 
 ### Kubernetes
 

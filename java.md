@@ -33,6 +33,7 @@
 
 - [A quick methodology on testing / hacking SAP Applications for n00bz and bug bounty hunters.](https://github.com/shipcod3/mySapAdventures)
 - https://github.com/razvand/secure-programming-java
+- https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2
 
 ### Miscellaneous
 

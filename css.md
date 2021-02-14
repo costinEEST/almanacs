@@ -27,7 +27,13 @@
 - https://www.amazon.com/Color-David-Kastan/dp/0300171870
 - https://twitter.com/JaimeeBanksOS/status/1333274992067436546
 - [A color palette generator for design systems.](https://twitter.com/lokesh/status/1206591284908969984) + https://lokeshdhakar.com/projects/color-stacks
+- https://www.freecodecamp.org/news/designing-in-color-abd358660a7b/
 
+
+### Community
+
+- https://twitter.com/zehf/status/1310664033234808833
+- [Kevin Powell](https://www.youtube.com/kepowob/playlists)
 
 ### Measurement units
 
@@ -95,6 +101,7 @@
 - https://kilianvalkhof.com/2020/css-html/full-bleed-layout-using-simple-css
 - https://blog.benestudio.co/custom-file-upload-button-with-pure-css-5aacf39aa0a + https://codepen.io/adambene/pen/xRWrXN
 - https://responsibleweb.app + https://github.com/joyheron/responsible-web-apps
+- [Minimal snippets for modern CSS layouts and components](https://smolcss.dev)
 
 ### Tools
 
@@ -120,6 +127,4 @@
 
 - http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-09-http-covert-channel-using-only-htmlcss-thomas-slota-william-york
 
-### Communities
 
-- https://twitter.com/zehf/status/1310664033234808833

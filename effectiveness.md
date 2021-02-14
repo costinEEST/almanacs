@@ -36,6 +36,7 @@
 - https://twitter.com/SaraSoueidan/status/1320644057228595200
 - https://devdojo.com/bobbyiliev/top-10-vscode-shortcuts-for-mac-and-windows-to-help-you-be-more-productive
 - ["HTML" as the identifier for your PHP heredoc/nowdoc strings](https://twitter.com/LiamHammett/status/1342857802574950400)
+- https://github.com/shd101wyy/markdown-preview-enhanced
 
 ### tmux
 

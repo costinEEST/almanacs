@@ -64,6 +64,7 @@
 - [Python Monthly](https://zerotomastery.io/blog/?tag=PM)
 - [Web Developer Monthly](https://zerotomastery.io/blog/?tag=WDM)
 - [Web Component Bytes by Chris Haynes](https://tinyletter.com/wcbytes/archive)
+- [Your window into the magical world of SVG.](https://buttondown.email/viewBox/archive)
 
 ### Web performance
 

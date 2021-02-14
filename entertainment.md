@@ -123,6 +123,7 @@
 - https://www.sonyasupposedly.com/brutality-books + https://news.ycombinator.com/item?id=24458522
 - https://fermatslibrary.com/s/a-market-economy-in-the-early-roman-empire
 - [A History of Private Life, Volume I: From Pagan Rome to Byzantium](https://www.amazon.com/History-Private-Life-Pagan-Byzantium/dp/0674399749)
+- https://going-medieval.com/subject-index-table-of-contents
 
 ### Mythology
 

@@ -173,6 +173,7 @@
 - [Suggestions for books about API design?](https://news.ycombinator.com/item?id=24383180)
 - https://lucjan.medium.com/free-url-shortener-with-cloudflare-workers-125eaf87b1ec
 - [An experimental blogging application developed with Docker, Deno, Oak and MySQL](https://github.com/fhsinchy/deno-blog)
+- https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it
 
 ### Scrapping
 
@@ -214,6 +215,7 @@
 - https://github.com/ukncsc/zero-trust-architecture
 - https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps + https://twitter.com/albinowax/status/1353631953703100416
 - [Dependency Confusion](https://twitter.com/bradleymeck/status/1359882487674077189) + https://twitter.com/alxbrsn/status/1359852094950436866 + https://twitter.com/alxbrsn/status/1359200840876257287
+- https://www.slideshare.net/madhuakula/node-js-reverse-shell
 
 
 ### Static site generators
