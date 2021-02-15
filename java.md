@@ -7,6 +7,7 @@
 
 - https://hyperskill.org/onboarding/?track=java
 - https://www.freecodecamp.org/news/learn-to-develop-and-android-app-no-experience-required
+- https://rockthejvm.com
 
 ### Best practices
 

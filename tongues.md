@@ -73,6 +73,10 @@
 - https://sites.google.com/stanford.edu/cantonese/language-resources + https://twitter.com/kginlum/status/1334213475011231744
 - [Cross-language homonyms between English and Chinese](https://mcc.id.au/blog/2020/07/homoyin)
 
+### Arabic
+
+- [LearnArabicwithMaha](https://www.youtube.com/playlist?list=PLDE670F8915C5902A)
+
 ### Danish
 
 - https://sokolova.dk + https://twitter.com/sokolovadk
@@ -133,8 +137,10 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 
 ### Spanish
 
+- https://www.youtube.com/c/SpanishWithPaul/playlists
 - https://www.mezzoguild.com/spanish-apps
 - https://www.youtube.com/c/ChristianBurgosKorea/playlists
+- https://www.youtube.com/playlist?list=PLTpetkN815Qyuc2RbC1kxxMQvxjQ3RnYG
 
 ### Tibetan
 

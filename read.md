@@ -16,3 +16,4 @@
 - https://thecreativeindependent.com/library
 - https://chad.is/reading
 - https://taylorpearson.me/bookreview
+- [Søren Birkemeyer](https://annualbeta.com/bookshelf)

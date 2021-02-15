@@ -44,6 +44,7 @@
 
 - [Design Sprint Newsletter by Jake Knapp](https://www.getrevue.co/profile/designsprint)
 - [matthewstrom.com](https://buttondown.email/mattstrom/archive)
+- [Eugene Fedorenko](https://us5.campaign-archive.com/home/?u=83da65c877f13a622c18a7fbf&id=ded3ad2e0d)
 
 ### Data visualization
 

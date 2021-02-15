@@ -22,6 +22,8 @@
 - [The Platform (2019)](https://www.facebook.com/cris.popanda/posts/3723542934354531)
 - https://respiro.ro/books/carti/52-de-filme-respiro
 - https://en.wikipedia.org/wiki/Studio_Ghibli#Feature_films
+- https://electricliterature.com/19-books-coming-to-tv-and-film-in-2021
+- https://www.theguardian.com/travel/2021/jan/12/10-best-virtual-travel-experiences-2021-film-festivals-street-tours-wine-tasting
 
 ### Tools
 

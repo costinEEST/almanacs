@@ -18,6 +18,7 @@
 ### Mouse
 
 - [.. attach your mouse to your computer with a wire so it could get power and you didn't need to change the batteries all the time.](https://twitter.com/seldo/status/1215719226188582913)
+- https://daninovac.com/cel-mai-bun-mouse-programare-logitech-mx-3
 
 ### Monitors
 
