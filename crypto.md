@@ -35,6 +35,7 @@
 - [An Open Letter to Developers Everywhere (crypto-wrong-answers)](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 - [Some really smart people in security shared their favorite papers or articles.](https://twitter.com/grittygrease/status/1028769194643353600)
 - https://digitalbunker.dev/2020/09/30/understanding-how-uuids-are-generated
+- [A collection of secure encryption examples for encrypting strings and binary data.](https://github.com/luke-park/SecureCompatibleEncryptionExamples)
 
 ### Best practices
 

@@ -74,6 +74,7 @@
 - https://maxrozen.com/race-conditions-fetching-data-react-with-useeffect
 - https://github.com/GoogleChromeLabs/react-adaptive-hooks
 - https://www.lorenzweiss.de/common_mistakes_react_hooks
+- https://github.com/CSFrequency/react-firebase-hooks
 
 ### Context API
 
@@ -142,6 +143,10 @@
 
 ### CSS/Animations
 
+- https://www.robinwieruch.de/react-css-styling
+- https://www.pluralsight.com/courses/react-components-styling
+- [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js) + https://css-tricks.com/the-differing-perspectives-on-css-in-js
+- https://dreith.com/blog/a-few-gripes-with-styled-components + https://www.reddit.com/r/reactjs/comments/ekh9p9/what_do_you_think_about_plan_css_vs_css_modules
 - https://github.com/pshrmn/notes/blob/master/react/animation.md
 - [Mobile First Animation in React](https://twitter.com/addyosmani/status/1214428544303915013) + https://github.com/aholachek/react-animation-comparison
 - [Off Balance: Interactive Storytelling with React - Mihai Cernusca - React Rally 2019](http://mihaicernusca.com/off-balance)
@@ -156,7 +161,6 @@
 - https://medium.com/14islands/progressive-enhancement-with-webgl-and-react-71cd19e66d4 + https://twitter.com/ffdead/status/1307023551380283393
 - [To design and develop an interactive globe using Three.js](https://stripe.com/blog/globe) + https://twitter.com/narrowd/status/1300838489869742080
 - https://twitter.com/sseraphini/status/1326864292868665352
-- https://www.joshwcomeau.com/css/styled-components
 
 ### Server side rendering
 

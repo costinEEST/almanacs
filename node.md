@@ -1,3 +1,44 @@
+### Authentication
+
+- [Authenticating your single page apps using JSON Web Tokens](https://www.mydevsecops.io/post/knock-knock-who-s-there-authenticating-your-single-page-apps-using-json-web-tokens)
+- [The parts of JWT security nobody talks about](https://pragmaticwebsecurity.com/talks/jwtsecurity.html)
+- [Introduction to OAuth 2.0 and OpenID Connect](https://pragmaticwebsecurity.com/talks/introductionoauth.html)
+- [Passwords are so 1990 by Sam Bellen](https://www.youtube.com/watch?v=PQnpAO2yD5c)
+- [Authentication fundamentals: The basics | Azure Active Directory](https://youtu.be/fbSVgC8nGz4)
+- [The best website that teaches the value/need of 2FA to beginners](https://twitter.com/rauchg/status/1206662873776132096)
+- https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql
+- https://github.com/adrianhajdin/project_mern_memories + https://www.youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu
+- https://www.slideshare.net/2botech/nordic-apis-platform-summit-oauth-and-openid-connect-for-microservices + https://nordicapis.com/how-to-control-user-identity-within-microservices
+- https://www.slideshare.net/2botech/the-jsonbased-identity-protocol-suite + https://auth0.com/resources/ebooks/jwt-handbook
+- https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why + https://news.ycombinator.com/item?id=22354534
+- https://levelup.gitconnected.com/secure-jwts-with-backend-for-frontend-9b7611ad2afb + https://gist.github.com/h3yduck/ff401b32b92c14ef66879c52135b11d7
+- - https://dreith.com/blog/an-approach-to-JWT-authentication
+
+### API
+
+- https://www.manning.com/books/understanding-api-security
+- https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+- https://github.com/tlhunter/consumer-centric-api-design
+- https://github.com/Developer-Y/Scalable-Software-Architecture#api-design
+- [Common API security pitfalls](https://pragmaticwebsecurity.com/talks/commonapisecuritypitfalls)
+- [Mirage for mocking APIs](https://twitter.com/RomanSndlr/status/1207551729224605697)
+- https://www.freecodecamp.org/news/apis-for-beginners-full-course/
+- [Apollo REST Data Sources with the Countries API](https://github.com/MoonHighway/countries-datasources)
+- Hands-on Application Building with GraphQL: [repo](https://github.com/lowsky/-Hands-on-Application-Building-with-GraphQL) + [video course](https://learning.oreilly.com/videos/hands-on-application-building/9781788991865)
+- Scaling Your GraphQL Client: [tweet](https://twitter.com/mahoneymattj/status/1163276557546414081) + [slides](https://speakerdeck.com/mjmahone/scaling-your-graphql-client)
+- [Node scrapper for http://ctpcj.ro](https://github.com/Utwo/ctpcj-scraper)
+- [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
+- https://github.com/dexteryy/spellbook-of-modern-webdev#microservices--api-services-nodejs
+- https://legacy.gitbook.com/book/geemus/http-api-design/details
+- https://obem.be/2020/02/18/mining-my-mailbox-for-top-email-service-providers.html
+- [The Web API Design Guidelines for Happy Developers](https://leanpub.com/thewebapinntux/read_full)
+- [An easy, promise based, way to test passwords securely against the Pwned Passwords API v2 in Node.](https://speakerdeck.com/philnash/fantastic-passwords-and-where-to-find-them-at-wfhconf?slide=38) + https://github.com/philnash/pwned.js
+- [Extracts subdomains from a specified domain using api.recon.de](https://github.com/JR0ch17/ardse)
+- [Suggestions for books about API design?](https://news.ycombinator.com/item?id=24383180)
+- https://lucjan.medium.com/free-url-shortener-with-cloudflare-workers-125eaf87b1ec
+- [An experimental blogging application developed with Docker, Deno, Oak and MySQL](https://github.com/fhsinchy/deno-blog)
+- https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it
+
 
 ### Books
 
@@ -120,6 +161,8 @@
 - https://adambard.com/blog/self-hosted-readability-on-heroku-with-nodejs
 - [A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)](https://github.com/mikaelbr/node-notifier)
 - [Free Modern URL Shortener.](https://github.com/thedevs-network/kutt)
+- [Vantage = CLI + SSH + REPL for your live node app](https://github.com/dthree/vantage)
+- [A simple, distributed task scheduler and runner with a web based UI.](https://github.com/jhuckaby/Cronicle)
 
 ### Testing
 
@@ -139,41 +182,6 @@
 - https://realtalkjavascript.simplecast.com/episodes/episode-96-expressway-to-fastify-with-matteo-collina
 - https://futurestud.io/learningpaths/learn-hapi
 - https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc
-
-### Authentication
-
-- [Authenticating your single page apps using JSON Web Tokens](https://www.mydevsecops.io/post/knock-knock-who-s-there-authenticating-your-single-page-apps-using-json-web-tokens)
-- [The parts of JWT security nobody talks about](https://pragmaticwebsecurity.com/talks/jwtsecurity.html)
-- [Introduction to OAuth 2.0 and OpenID Connect](https://pragmaticwebsecurity.com/talks/introductionoauth.html)
-- [Passwords are so 1990 by Sam Bellen](https://www.youtube.com/watch?v=PQnpAO2yD5c)
-- [Authentication fundamentals: The basics | Azure Active Directory](https://youtu.be/fbSVgC8nGz4)
-- [The best website that teaches the value/need of 2FA to beginners](https://twitter.com/rauchg/status/1206662873776132096)
-- https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql
-- https://github.com/adrianhajdin/project_mern_memories + https://www.youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu
-
-### API
-
-- https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
-- https://github.com/tlhunter/consumer-centric-api-design
-- https://github.com/Developer-Y/Scalable-Software-Architecture#api-design
-- [Common API security pitfalls](https://pragmaticwebsecurity.com/talks/commonapisecuritypitfalls)
-- [Mirage for mocking APIs](https://twitter.com/RomanSndlr/status/1207551729224605697)
-- https://www.freecodecamp.org/news/apis-for-beginners-full-course/
-- [Apollo REST Data Sources with the Countries API](https://github.com/MoonHighway/countries-datasources)
-- Hands-on Application Building with GraphQL: [repo](https://github.com/lowsky/-Hands-on-Application-Building-with-GraphQL) + [video course](https://learning.oreilly.com/videos/hands-on-application-building/9781788991865)
-- Scaling Your GraphQL Client: [tweet](https://twitter.com/mahoneymattj/status/1163276557546414081) + [slides](https://speakerdeck.com/mjmahone/scaling-your-graphql-client)
-- [Node scrapper for http://ctpcj.ro](https://github.com/Utwo/ctpcj-scraper)
-- [TEACH ME ANYTHING - Wrapping and Securing a Rest API in GraphQL](https://youtu.be/B7aBnxaxsfU)
-- https://github.com/dexteryy/spellbook-of-modern-webdev#microservices--api-services-nodejs
-- https://legacy.gitbook.com/book/geemus/http-api-design/details
-- https://obem.be/2020/02/18/mining-my-mailbox-for-top-email-service-providers.html
-- [The Web API Design Guidelines for Happy Developers](https://leanpub.com/thewebapinntux/read_full)
-- [An easy, promise based, way to test passwords securely against the Pwned Passwords API v2 in Node.](https://speakerdeck.com/philnash/fantastic-passwords-and-where-to-find-them-at-wfhconf?slide=38) + https://github.com/philnash/pwned.js
-- [Extracts subdomains from a specified domain using api.recon.de](https://github.com/JR0ch17/ardse)
-- [Suggestions for books about API design?](https://news.ycombinator.com/item?id=24383180)
-- https://lucjan.medium.com/free-url-shortener-with-cloudflare-workers-125eaf87b1ec
-- [An experimental blogging application developed with Docker, Deno, Oak and MySQL](https://github.com/fhsinchy/deno-blog)
-- https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it
 
 ### Scrapping
 

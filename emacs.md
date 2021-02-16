@@ -1,6 +1,7 @@
 ### Practice
 
 - https://github.com/Boruch-Baum/emacs-crossword + https://news.ycombinator.com/item?id=25829851
+- https://github.com/serras/emacs-haskell-tutorial
 
 
 ### TV

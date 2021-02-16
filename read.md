@@ -17,3 +17,4 @@
 - https://chad.is/reading
 - https://taylorpearson.me/bookreview
 - [Søren Birkemeyer](https://annualbeta.com/bookshelf)
+- [Jake Trent](https://jaketrent.com/book)

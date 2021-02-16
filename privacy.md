@@ -41,6 +41,7 @@
 - https://www.gov.uk/guidance/protect-domains-that-dont-send-email
 - https://github.com/adilmajid/privacy-for-the-paranoid
 - https://github.com/bslassey/ip-blindness
+- https://github.com/Lissy93/personal-security-checklist
 
 ### Social media
 

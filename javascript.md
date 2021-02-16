@@ -449,6 +449,7 @@
 - [Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.](https://github.com/sverweij/dependency-cruiser)
 - https://lachlan-miller.me/articles/decoding-variable-length-quantity-vlq-for-source-maps
 - [webpack is all written on top of its own plugins](https://matheus1lva.substack.com/p/webpack-plugins)
+- [Cash is a cross-platform implementation of Unix shell commands written in straight ES6.](https://github.com/dthree/cash)
 
 ### Documentation
 
