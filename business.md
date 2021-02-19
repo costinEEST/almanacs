@@ -50,6 +50,8 @@
 - https://mikemcdonald.co/pm-course
 - https://abdulapopoola.com/2021/02/01/how-to-run-better-stand-ups
 - [A list of engineering manager resource links.](https://github.com/ryanburgess/engineer-manager)
+- https://adamconrad.dev/blog/how-i-applied-the-engineering-management-curriculum
+- https://github.com/jesselpalmer/the-engineering-managers-booklist
 
 
 ### Strategy

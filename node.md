@@ -12,7 +12,11 @@
 - https://www.slideshare.net/2botech/the-jsonbased-identity-protocol-suite + https://auth0.com/resources/ebooks/jwt-handbook
 - https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why + https://news.ycombinator.com/item?id=22354534
 - https://levelup.gitconnected.com/secure-jwts-with-backend-for-frontend-9b7611ad2afb + https://gist.github.com/h3yduck/ff401b32b92c14ef66879c52135b11d7
-- - https://dreith.com/blog/an-approach-to-JWT-authentication
+- https://dreith.com/blog/an-approach-to-JWT-authentication
+- [Refreshing tokens with JWT](https://gist.github.com/ziluvatar/a3feb505c4c0ec37059054537b38fc48)
+- [The Nuts and Bolts of OAuth 2.0](https://aaronparecki.com/2020/12/22/14/oauth)
+- https://app.pluralsight.com/library/courses/oauth-2-getting-started
+- https://www.scottbrady91.com/OAuth/OAuth-is-Not-Authentication + https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization
 
 ### API
 

@@ -1,3 +1,7 @@
+### Community
+
+- [Chiu-Ki Chan](http://chiuki.github.io)
+
 ### Security
 
 - https://github.com/anantshri/Android_Security + https://twitter.com/anantshri/status/1345757424616054790
@@ -53,6 +57,7 @@
 - https://github.com/buckyroberts/Source-Code-from-Tutorials/tree/master/Android_Beginners
 - https://github.com/thealeksandr/PFLockScreen-Android
 - https://speakerdeck.com/andreidiaconu/android-training-in-10-sessions
+- https://tinyletter.com/sqisland/letters/square-island-start-developing-for-android
 
 ### TV
 

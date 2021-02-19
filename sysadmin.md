@@ -44,6 +44,7 @@
 ### Kubernetes
 
 - https://twitter.com/oliverjumpertz/status/1318082918896500746
+- https://github.com/ciriarte/pank8s + https://pank8s.dev
 - http://blog.boreas.ro/2018/08/learn-cloud-native-docker-k8s-istio.html
 - https://github.com/fhsinchy/kubernetes-handbook-projects
 - https://danielmoka.com/2020/04/28/kubernetes-the-big-picture

@@ -21,6 +21,11 @@
 - [Brandient](https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5)
 - [Roditor Food Market](https://us2.campaign-archive.com/home/?u=1ae9247870a083038851025e0&id=17c09f57ca)
 - [Sahil Bloom](https://sahilbloom.substack.com/archive)
+
+### Buddhism
+
+- [Prietenii Editurii Rabten](https://us9.campaign-archive.com/home/?u=631f68b23c06eceac05035aff&id=194eb176a7)
+
 ### Biology
 
 - https://csvoss.substack.com/archive

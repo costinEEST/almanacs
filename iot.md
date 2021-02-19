@@ -60,6 +60,7 @@
 - [Lecture notes for the Hardware and Embedded Systems Security lecture.](https://github.com/david-oswald/hwsec_lecture_notes) + https://twitter.com/sublevado/status/1219153201326366720
 - https://payatu.com/blog/Arun-Magesh/iot-security-part-4-bluetooth-low-energy-101
 - [IoT Security Techniques - Andrew Tierney](https://www.youtube.com/playlist?list=PLxzQqOO_sw9Pj46OJiXb1yvniUkqOhFo9)
+- https://afitnerd.com/2020/08/09/man-in-the-middle-yourself
 
 ### Miscellaneous
 

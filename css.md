@@ -102,6 +102,7 @@
 - https://blog.benestudio.co/custom-file-upload-button-with-pure-css-5aacf39aa0a + https://codepen.io/adambene/pen/xRWrXN
 - https://responsibleweb.app + https://github.com/joyheron/responsible-web-apps
 - [Minimal snippets for modern CSS layouts and components](https://smolcss.dev)
+- [Your cheat sheet for float, clear and defer](https://www.princexml.com/howcome/2021/guides/float/index.html)
 
 ### Tools
 
