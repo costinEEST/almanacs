@@ -9,6 +9,7 @@
 
 - https://www.media.mit.edu/pia/Research/deepview/exif.html
 - https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python
+- https://www.industrialempathy.com/posts/avif-webp-quality-settings + https://twitter.com/cramforce/status/1363182846731382790
 
 ### Tools
 

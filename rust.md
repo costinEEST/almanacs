@@ -4,7 +4,8 @@
 
 ### Best practices
 
-- https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust + (https://news.ycombinator.com/item?id=22818150)
+- https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust + (https://news.ycombinator.com/item?id=22818150) 
+- [A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.](https://github.com/mre/idiomatic-rust)
 - http://rcvalle.blog/2020/09/16/rust-lang-exploit-mitigations
 
 ### Books
@@ -33,7 +34,6 @@ https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=
 - https://twitter.com/jgvarandas/status/1228712766636204032
 - https://deterministic.space/high-performance-rust.html
 - https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust
-- [A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.](https://github.com/mre/idiomatic-rust)
 - https://github.com/rust-lang/rustlings
 - [Mal (Make a Lisp) in Rust](https://github.com/seven1m/mal-rust)
 - https://loige.co/learning-rust-through-open-source-and-live-code-reviews

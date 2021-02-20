@@ -136,6 +136,7 @@
 - https://twitter.com/djgrant_/status/1296395202056327172
 - https://github.com/lrlna/sketchin/blob/master/guides/node-streams.md
 - https://developer.mongodb.com/how-to/capturing-hacker-news-mentions-nodejs-mongodb
+- https://2ality.com/2019/11/nodejs-streams-async-iteration.html
 
 ### Tools
 

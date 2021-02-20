@@ -1,3 +1,10 @@
+
+### Community
+
+- https://github.com/sveltejs/community
+- [Tan Li Hau](https://www.youtube.com/channel/UCbmC3HP3FaAFdcZkui8YoMQ/playlists)
+
+
 ### Portfolios
 
 - https://github.com/doppelganger9/blog
@@ -17,10 +24,6 @@
 - https://github.com/CalvinWalzel/awesome-svelte
 - https://lihautan.com/the-svelte-compiler-handbook
 - https://github.com/codechips/svelte-parcel-vs-rollup-vs-webpack
-
-### Communities
-
-- https://github.com/sveltejs/community
 
 ### Opinions
 

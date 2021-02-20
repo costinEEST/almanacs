@@ -84,6 +84,7 @@
 ### Dutch
 
 - https://github.com/Saffron97/Dutch-Vocab-Practice
+- https://artem-tyurin.medium.com/self-studying-dutch-to-pass-inburgering-exam-53d63cb3238
 
 ### English
 

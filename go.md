@@ -27,6 +27,7 @@
 - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine
 - https://github.com/gophertuts/go-basics
 - https://marinhero.com/posts/port-scanning
+- [Pre-rendering static websites with wget](https://apex.sh/blog/post/pre-render-wget)
 
 ### Testing
 
