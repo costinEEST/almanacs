@@ -100,3 +100,4 @@ curl v2.wttr.in/Bucharest
 - https://github.com/francescocarlucci/job-offers-http-headers
 - https://blog.idrisolubisi.com/35-free-public-apis-to-improve-productivity
 - https://github.com/Rolstenhouse/unofficial-apis
+- https://paperswithcode.com/api/v1/docs + https://github.com/paperswithcode/paperswithcode-data + https://paperswithcode.com/datasets

@@ -21,6 +21,7 @@
 - https://github.com/rdp/open-source-how-to-popularize-your-project
 - https://github.com/LisaDziuba/Marketing-for-Engineers
 - https://marketingexamples.com + https://twitter.com/GoodMarketingHQ
+- https://www.esquire.com/entertainment/a35500985/who-is-beeple-mike-winkelmann-nft-interview
 
 ### Branding
 
@@ -59,6 +60,7 @@
 - [Technology Strategy Patterns: Architecture as Strategy](https://learning.oreilly.com/library/view/technology-strategy-patterns/9781492040866)
 - https://www.singhkays.com/blog/how-spotify-is-killing-the-open-podcast-ecosystem
 - https://medium.com/@harrikiljander/operation-elop-6f2b043f52c5
+- https://www.protocol.com/chess-streaming-twitch-hikaru-botez
 
 ### Culture
 

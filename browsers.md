@@ -132,6 +132,7 @@ javascript: (() =>
 - https://emanuelduss.ch/2020/06/humble-book-bundle-download-bookmarklet
 - [world smallest office suite](https://zserge.com/posts/awfice)
 - https://catalin.red/copy-clipboard-js
+- [Bookmarklets for sending emails and adding todo items](https://sashko.dev/bookmarklets)
 
 ### Chrome
 
@@ -213,6 +214,7 @@ javascript: (() =>
 - https://github.com/luruke/awesome-casestudy
 - https://github.blog/2020-12-21-how-we-built-the-github-globe
 - https://formidable.com/blog/2021/future-ui
+- https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1
 
 ### Headless
 
