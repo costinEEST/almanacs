@@ -55,6 +55,8 @@
 - https://www.ably.io/topic/websockets-react-native
 - [Resources for React Native NativeModules development with Swift](https://twitter.com/mrousavy/status/1346493463571927041)
 - https://github.com/infinitered/open-source/blob/master/Continuous-Deployment-Setup-React-Native.md + https://reactnativeradio.com/episodes/rnr-190-tips-and-tricks-for-the-app-store-and-play-store + https://twitter.com/ReactNativeRdio/status/1363938251975716865
+- [Programmatically reloading a React Native app](https://twitter.com/Baconbrix/status/1362923980580036610)
+- [A podcast episode (and a very unbiased one) compared differences between Flutter & React Native ](https://twitter.com/AdityaPahilwani/status/1363088350693974016)
 
 ### Packages
 

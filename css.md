@@ -55,6 +55,7 @@
 - https://kilianvalkhof.com/2021/css-html/you-want-overflow-auto-not-overflow-scroll
 - https://schepp.dev/posts/smooth-scrolling-and-page-search
 - https://www.bram.us/2021/01/11/nested-media-queries
+- https://www.zachleat.com/web/fluid-images
 
 ### Selectors
 

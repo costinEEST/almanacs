@@ -34,6 +34,7 @@
 - https://github.com/sibelius/relay-workshop/tree/master/solutions
 - https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a
 - https://cult.honeypot.io/originals/graphql-the-documentary
+- https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
 
 ### gRPC
 

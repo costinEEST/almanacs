@@ -32,6 +32,10 @@
 
 - https://store.sivers.org/1
 
+### Jeffrey Preston Bezos
+
+- https://sahilbloom.substack.com/p/the-bezos-regret-minimization-framework
+
 ### Patrick Collison
 
 - [Which five books have influenced you the most? (In terms of shaping your worldview.)](https://twitter.com/patrickc/status/929862403763798016)

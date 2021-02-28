@@ -81,6 +81,7 @@
 - [JS Memory Analysor is a tool to detect memory leaks for Javascript/NodeJS.](https://github.com/alibaba/JS-Memory-Analysor)
 - https://github.com/lrlna/sketchin/blob/master/guides/tracing.md
 - https://bhattsameer.github.io/2021/01/01/client-side-encryption-bypass-part-1.html
+- https://www.jackhoy.com/web-applications/2020/10/21/debugging-memory-leaks-in-nodejs.html
 
 ### TIL
 
@@ -227,7 +228,7 @@
 - https://www.loginradius.com/engineering/blog/using-pgp-encryption-with-nodejs
 - https://github.com/ukncsc/zero-trust-architecture
 - https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps + https://twitter.com/albinowax/status/1353631953703100416
-- [Dependency Confusion](https://twitter.com/bradleymeck/status/1359882487674077189) + https://twitter.com/alxbrsn/status/1359852094950436866 + https://twitter.com/alxbrsn/status/1359200840876257287
+- [Dependency Confusion](https://twitter.com/bradleymeck/status/1359882487674077189) + https://twitter.com/alxbrsn/status/1359852094950436866 + https://twitter.com/alxbrsn/status/1359200840876257287 + https://www.kernelcrypt.com/posts/depedency-confusion-explained + https://github.blog/2021-02-12-avoiding-npm-substitution-attacks
 - https://www.slideshare.net/madhuakula/node-js-reverse-shell
 
 

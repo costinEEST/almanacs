@@ -355,6 +355,8 @@
 - https://github.com/Schepp/async-document.write
 - https://hachibu.net/posts/2020/keyboard-events-tldr
 - [bypass document.write](https://twitter.com/LiveOverflow/status/1319325896545865728)
+- https://css-tricks.com/using-abortcontroller-as-an-alternative-for-removing-event-listeners
+- https://benfrain.com/building-a-table-of-contents-with-active-indicator-using-javascript-intersection-observers
 
 ### Single-page application
 
@@ -383,6 +385,7 @@
 - https://twitter.com/btopro/status/1224356404380733440
 - https://nolanlawson.com/2021/01/03/options-for-styling-web-components
 - https://academind.com/tutorials/adding-web-components-to-any-app
+- [Vanilla Web Components. A place for framework-free, transpiler-free, scaffolding-free web components.](https://github.com/vanillawc/vanillawc)
 
 ### Testing
 

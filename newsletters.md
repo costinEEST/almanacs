@@ -3,6 +3,10 @@
 - [T12t](https://us14.campaign-archive.com/home/?u=23907132d7bd3ae259858b057&id=b8c09bd7b1)
 - [Nielsen Norman Group](https://us4.campaign-archive.com/home/?u=538d934a891681a5d850bb4e5&id=7f29a2b335)
 
+### Architecture
+
+- [Pro Patrimonio](https://us5.campaign-archive.com/home/?u=57f50bdf2c77a5bb1add2a851&id=42c6c16a1d)
+
 ### Artificial intelligence
 
 - [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)
@@ -54,6 +58,7 @@
 ### Data visualization
 
 - https://alignedleft.com/resources/data-newsletters
+- [Studio Interrobang](https://us18.campaign-archive.com/home/?u=da42de3a9b43f1584f5b0c7d2&id=cb6b0eca26)
 
 ### Typescript
 

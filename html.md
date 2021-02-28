@@ -113,6 +113,7 @@
 - https://meiert.com/en/blog/minimal-web-development
 - https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 - [top of a page](https://twitter.com/simonhearne/status/1259927098040467457)
+- https://web.dev/building-a-tabs-component
 
 ### Security
 

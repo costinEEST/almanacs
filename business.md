@@ -53,6 +53,7 @@
 - [A list of engineering manager resource links.](https://github.com/ryanburgess/engineer-manager)
 - https://adamconrad.dev/blog/how-i-applied-the-engineering-management-curriculum
 - https://github.com/jesselpalmer/the-engineering-managers-booklist
+- https://naz.dev/posts/the-art-of-growth-skills
 
 
 ### Strategy

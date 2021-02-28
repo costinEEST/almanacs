@@ -23,6 +23,11 @@
 - https://cryptoeconomics.study/en
 - https://cryptozombies.io + https://github.com/loomnetwork/cryptozombie-lessons + https://github.com/loomnetwork/cryptozombies-lesson-code
 
+### DApps 
+
+- [Less-techy: What is Web 3.0?](http://gavwood.com/web3lt.html)
+- [ĐApps: What Web 3.0 Looks Like](http://gavwood.com/dappsweb3.html)
+
 ### References
 
 - [A quick reference for symbols and conventions used in the Ethereum Yellow Paper](https://github.com/benjaminion/YellowPaper_CheatSheet)

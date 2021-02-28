@@ -44,6 +44,7 @@
 - https://felixge.de/2015/03/05/go-raspberry-pi-powered-alarm-clock
 - [Running your own Read Later Service with Raspberry Pi and Pinboard](https://christianhans.info/12791/running-your-own-read-later-service-with-raspberry-pi-and-pinboard)
 - [Track the location of every Wi-Fi device (📱) in your house using Raspberry Pis and FIND](https://github.com/schollz/find-lf)
+- [Explore the basics of machine learning by building your own teachable object at home.](https://github.com/googlecreativelab/alto)
 
 ### Smartwatch
 

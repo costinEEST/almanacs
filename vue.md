@@ -1,6 +1,7 @@
 ### Books
 
 - https://labs.thisdot.co/resources/ACompleteGuideToVueJSeBook
+- [Marcus Herrmann ~ Accessible Vue](https://leanpub.com/accessible-vue/c/3LCDLHvsLRl3)
 
 ### Demos
 
