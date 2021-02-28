@@ -386,6 +386,7 @@
 - https://nolanlawson.com/2021/01/03/options-for-styling-web-components
 - https://academind.com/tutorials/adding-web-components-to-any-app
 - [Vanilla Web Components. A place for framework-free, transpiler-free, scaffolding-free web components.](https://github.com/vanillawc/vanillawc)
+- https://github.com/Apress/frameworkless-front-end-development 
 
 ### Testing
 
@@ -415,6 +416,7 @@
 - https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
 - https://github.com/jamiebuilds/the-super-tiny-compiler
 - https://github.com/zenparsing/skert
+- https://github.com/lkesteloot/turbopascal + https://news.ycombinator.com/item?id=26207624
 
 ### Parsers
 

@@ -30,6 +30,7 @@
 
 - https://github.com/nonoesp/electron-quick-start
 - https://medium.com/@jonathanberi/a-no-nonsense-guide-to-webpack-electron-webassembly-part-2-e5d262d0dc41
+- https://www.infoq.com/articles/firebase-electron-native-app + https://github.com/david-asher/electron-firebase + https://twitter.com/InfoQ/status/1346804146519859202
 
 ### Opinions
 

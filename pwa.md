@@ -7,6 +7,7 @@
 - https://formidable.com/work/starbucks-progressive-web-app + https://realtalkjavascript.simplecast.com/episodes/episode-74-react-at-starbucks-with-cher
 - https://github.com/dominiccooney/Service-Worker-Performance
 - https://medium.com/samsung-internet-dev/improve-device-integration-for-your-web-app-in-just-a-few-minutes-cca413c4f0f
+- [A boilerplate to create a complete journal system with backend, frontend, PWA and apps.](https://github.com/save91/my-journal)
 
 ### Demos
 

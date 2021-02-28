@@ -27,6 +27,7 @@
 
 - [Less-techy: What is Web 3.0?](http://gavwood.com/web3lt.html)
 - [ĐApps: What Web 3.0 Looks Like](http://gavwood.com/dappsweb3.html)
+- https://github.com/francesco-strazzullo/ethereum-dapps-examples
 
 ### References
 

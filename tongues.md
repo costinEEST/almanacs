@@ -124,6 +124,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - [Japanese English: Language and Culture Contact - James Stanlaw](https://www.goodreads.com/book/show/405436.Japanese_English)
 - [An introduction to Japanese](https://pomax.github.io/nrGrammar)
 - https://tynan.com/done-with-kanji
+- https://www.lingq.com/blog/how-to-learn-japanese-with-lingq
 
 ### Korean
 

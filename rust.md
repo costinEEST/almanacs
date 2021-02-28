@@ -61,6 +61,7 @@ https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=
 - [What Is Rust Doing Behind the Curtains?](https://endler.dev/2018/cargo-inspect)
 - [MeiliSearch: Zero-config alternative to Elasticsearch, made in Rust](https://github.com/meilisearch/MeiliSearch)
 - https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
+- [Tauri: An Electron alternative written in Rust ](https://news.ycombinator.com/item?id=26194990)
 
 ### Opinions
 

@@ -39,6 +39,8 @@
 - [Public API to transform youtube videos into mp3 and youtube channels into rss feeds.](https://github.com/yashha/youtube-mp3-rss-api)
 - [Klio is an ecosystem that allows you to process audio files – or any binary files – easily and at scale.](https://github.com/spotify/klio)
 - [JackTrip WebRTC: high quality, uncompressed, ultra-low delay audio streaming](https://github.com/JackTrip-webrtc/JackTrip-webrtc)
+- https://pitchfork.com/thepitch/decolonizing-electronic-music-starts-with-its-software + https://twitter.com/tarikbarri/status/1365629440697507841
+
 
 ### TV
 

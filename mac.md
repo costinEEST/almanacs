@@ -22,6 +22,7 @@
 - https://dev.to/kopiro/how-to-install-kali-on-a-usb-stick-with-pure-efi-boot-on-a-mac-and-with-virtualization-via-usb-on-virtualbox-2md2
 - https://dannys.cloud/automatically-setup-macbook-development
 - https://afitnerd.com/2015/08/10/killing-distractions-mac-automator-style
+- https://yakim.nl/articles/voiceover-testing
 
 ### References
 

@@ -35,6 +35,7 @@
 - https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a
 - https://cult.honeypot.io/originals/graphql-the-documentary
 - https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
+- [GRANDcase.FM is a podcast application built using GRANDstack (GraphQL, React, Apollo, Neo4j Database)](https://github.com/johnymontana/grandcast.fm)
 
 ### gRPC
 

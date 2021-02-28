@@ -94,6 +94,7 @@
 - https://twitter.com/search?q=(from%3Akevinjpowell)%20%23csstipoftheday + https://codepen.io/collection/nJzQBY
 - https://codepen.io/2020/popular/pens/10
 - [13 Tips to improve Landing Page Design.](https://twitter.com/IndieHackers/status/1358746146508845058)
+- https://dev.to/karmasakshi/make-your-pwas-look-handsome-on-ios-1o08
 
 ### Layout
 

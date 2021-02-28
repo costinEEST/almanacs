@@ -12,8 +12,12 @@
 
 ### Books
 
-- https://learning.oreilly.com/library/view/effective-typescript/9781492053736
+- https://learning.oreilly.com/library/view/effective-typescript/9781492053736 + https://twitter.com/AdamRackis/status/1366058541925113863
 - https://github.com/enricopolanski/functional-programming
+
+### Cinema
+
+- [Ethan Arrowood](https://github.com/Ethan-Arrowood/talks)
 
 ### References
 

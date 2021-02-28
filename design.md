@@ -9,17 +9,8 @@
 - [Degreeless.design - Everything I Learned in Design School](https://www.degreeless.design)
 - https://github.com/bevacqua/reads#artdesign
 
-### Graphic design
 
-- https://www.amazon.com/Grid-Systems-Graphic-Design-Communication/dp/3721201450 - mentioned in https://learning.oreilly.com/library/view/graphic-icons-visionaries/9780133156195 and https://learning.oreilly.com/library/view/the-language-of/9781592536764
-- [Gráphagos: Evolutionary Algorithm as a Model for the Creative Process and as a Tool to Create Graphic Design Products | by Deniz Cem Önduygu](http://denizcemonduygu.com/thesis)
-
-### User experience
-
-- [Conversational design is very popular with chat bots.](https://uxpamagazine.org/the-art-of-designing-conversational-interfaces-book-review)
-- https://github.com/bevacqua/reads#user-experienceinteraction-designusability
-
-### TV
+### Cinema
 
 - [Design – Vox](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5ciSdIo4uRt26NRxmVs0TTQ)
 - [Rams - Gary Hustwit](https://vimeo.com/404760526)
@@ -34,3 +25,18 @@
 - [vimeo.com/microsoftdesign/connecting](https://vimeo.com/52861634)
 - https://www.ohyouprettythings.com/free
 - https://www.domestika.org/en/blog/5606-7-masters-of-graphic-design-share-their-industry-insider-secrets
+
+### Courses
+
+- - https://blog.awaxman.com/product-design-resources
+
+
+### Graphic design
+
+- https://www.amazon.com/Grid-Systems-Graphic-Design-Communication/dp/3721201450 - mentioned in https://learning.oreilly.com/library/view/graphic-icons-visionaries/9780133156195 and https://learning.oreilly.com/library/view/the-language-of/9781592536764
+- [Gráphagos: Evolutionary Algorithm as a Model for the Creative Process and as a Tool to Create Graphic Design Products | by Deniz Cem Önduygu](http://denizcemonduygu.com/thesis)
+
+### User experience
+
+- [Conversational design is very popular with chat bots.](https://uxpamagazine.org/the-art-of-designing-conversational-interfaces-book-review)
+- https://github.com/bevacqua/reads#user-experienceinteraction-designusability
