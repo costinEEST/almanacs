@@ -15,6 +15,7 @@ https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=
 ### Community
 
 -https://twitter.com/siscia_/status/1360113669884039170
+־ [Systems with JT](https://www.youtube.com/user/giard321/playlists)
 
 ### Courses
 

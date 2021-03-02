@@ -28,6 +28,10 @@
 - https://www.professormesser.com/category/free-a-plus-training/a-plus-study-group
 - https://twitter.com/malware_traffic
 
+### Courses
+
+- [CS 450: Introduction to Networking](https://www.cs.uic.edu/~ckanich/cs450/s17/syllabus.html)
+
 ### Tools
 
 - https://www.chappell-university.com/lauras-lab
@@ -155,6 +159,7 @@
 - https://github.com/BlackFan/content-type-research + https://twitter.com/Black2Fan/status/1296439754599407618
 - [Avoid 301 and 302, use 303 and 307](https://youtu.be/G9PpImUEeUA?t=702)
 - https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis
+- [Cache your CORS, for performance & profit](https://httptoolkit.tech/blog/cache-your-cors)
 
 ### HTTPS
 

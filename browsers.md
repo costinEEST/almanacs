@@ -114,6 +114,7 @@
 - https://mmazzarolo.com/blog/2020-08-29-jira-express
 - [Chrome extension to track the activities of your favorite web novels](https://github.com/l-lin/wn-tracker-chrome) + https://github.com/l-lin/wn-tracker-api
 - https://github.com/jiripospisil/chrome-ext-downloader
+- [Create modern cross-browser extensions with no build configuration.](https://github.com/cezaraugusto/extension-create)
 
 ### Bookmarklets
 
@@ -136,6 +137,7 @@ javascript: (() =>
 
 ### Chrome
 
+- https://kayce.basqu.es/portfolio
 - [When testing your redirects with Chrome, always test a 302 before a 301](https://twitter.com/Nick_Craver/status/1190228229979877378)
 - https://github.com/jbranchaud/til#chrome
 - https://github.com/Eloston/ungoogled-chromium

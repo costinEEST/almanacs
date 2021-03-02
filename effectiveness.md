@@ -136,6 +136,7 @@
 - [This Book Was Self-Published: A Technical Guide by Michael Bazzell](https://www.amazon.com/gp/product/B08J7B9Y7H)
 - https://hachibu.net/posts/2020/how-i-manage-my-random-daily-notes
 - [simplenoteapp First Impressions](https://twitter.com/jsjoeio/status/1354518287980371970)
+- [A list of Developer Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
 
 ### Learning
 

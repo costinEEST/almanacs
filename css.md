@@ -56,6 +56,7 @@
 - https://schepp.dev/posts/smooth-scrolling-and-page-search
 - https://www.bram.us/2021/01/11/nested-media-queries
 - https://www.zachleat.com/web/fluid-images
+- [@scroll-timeline](https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1)
 
 ### Selectors
 
@@ -117,6 +118,7 @@
 - [Grab the color palette from an image using just Javascript. Works in the browser and in Node.](https://github.com/lokesh/color-thief)
 - [Visualize Sass HSL color functions in real-time without compiling.](https://sassme.jim-nielsen.com) + https://github.com/jimniels/sassme
 - [A design tool for comparing colors.](https://bl.ocks.org/curran/c130b1d3d68a375c8eb41371f2c2a75b)
+- [A generator to create the "frosted glass aesthetic" which combines a partially transparent background with backdrop-filter to create the effect.](https://glassmorphism.com)
   
 ### TV
 

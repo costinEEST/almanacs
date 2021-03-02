@@ -89,6 +89,7 @@
 - https://github.com/binhnguyennus/awesome-scalability
 - [Site Reliability Engineering: Building Secure and Reliable Systems](https://landing.google.com/sre/books)
 - [Principles of System Administration by Jan Schaumann](https://www.netmeister.org/book) + https://stevens.netmeister.org/615
+- https://chan.dev/posts/a-non-comprehensive-guide-to-yaml-for-folks-who-like-json-just-fine
 
 ### Monitoring
 

@@ -183,6 +183,7 @@
 
 - https://dev.to/swyx/an-annotated-guide-to-the-react-server-components-demo-2a83
 - https://www.bitnative.com/2021/01/24/react-server-components-in-5-minutes
+- https://chan.dev/posts/react-server-components-announcement-notes
 
 ### State management
 
@@ -230,6 +231,7 @@
 - [A modern keyboard shortcut library written in Typescript.](https://github.com/reasonink/clack-react)
 - [A beautiful and flexible guitar component for React.](https://github.com/4lejandrito/react-guitar)
 - [Excel-like DataGrid component for React JS.](https://github.com/rowsncolumns/grid)
+- [Perfect freehand is a library for creating freehand paths](https://github.com/steveruizok/perfect-freehand)
 
 ### Debugging
 

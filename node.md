@@ -271,3 +271,4 @@
 - [Scripting Languages I: Node.js, Python, PHP, Ruby](https://hyperpolyglot.org/scripting)
 - https://quanticdev.com/articles/automating-my-youtube-uploads-using-nodejs
 - https://github.com/snipcart/node-js-ecommerce-koajs
+- https://simonplend.com/talk-at-js-monthly-london-make-the-most-of-modern-javascript-with-fastify

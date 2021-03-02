@@ -19,6 +19,10 @@
 - [Why Chrome OS?](https://twitter.com/WebReflection/status/1244374562139242497)
 - [Reviews ~ Just Josh](https://www.youtube.com/playlist?list=PLUkjpFwWO9XkPWBing0cgdzKHUfewUVpu)
 
+### Microphone
+
+- https://chan.dev/posts/a-bargain-mic-for-yellers
+
 ### Mouse
 
 - [.. attach your mouse to your computer with a wire so it could get power and you didn't need to change the batteries all the time.](https://twitter.com/seldo/status/1215719226188582913)

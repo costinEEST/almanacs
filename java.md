@@ -8,6 +8,7 @@
 - https://hyperskill.org/onboarding/?track=java
 - https://www.freecodecamp.org/news/learn-to-develop-and-android-app-no-experience-required
 - https://rockthejvm.com
+- [CS 342: Software Design (Summer 2017)](https://www.cs.uic.edu/~psnyder/cs342-summer2017/syllabus)
 
 ### Best practices
 
