@@ -20,3 +20,5 @@
 - [Søren Birkemeyer](https://annualbeta.com/bookshelf)
 - [Jake Trent](https://jaketrent.com/book)
 - https://benmccormick.org/reviews-archive
+- [Tomas Laurinavicius](https://tomaslau.com/books)
+- [Steph Smith](https://stephsmith.io/books)

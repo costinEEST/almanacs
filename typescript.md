@@ -38,6 +38,7 @@
 - https://github.com/mdevils/typescript-exercises
 - https://ts-engine.dev
 - https://startup-cto.net/10-bad-typescript-habits-to-break-this-year
+- https://github.com/dsherret/ts-ast-viewer
 
 ### Opinions
 
