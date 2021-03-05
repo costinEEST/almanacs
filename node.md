@@ -125,6 +125,7 @@
 
 - https://blog.s1h.org/inside-node-executing-a-script
 - https://blog.logrocket.com/node-js-crypto-module-a-tutorial
+- [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
 
 ### Event loop
 
@@ -169,6 +170,7 @@
 - [Free Modern URL Shortener.](https://github.com/thedevs-network/kutt)
 - [Vantage = CLI + SSH + REPL for your live node app](https://github.com/dthree/vantage)
 - [A simple, distributed task scheduler and runner with a web based UI.](https://github.com/jhuckaby/Cronicle)
+- [a very small v8 javascript runtime for linux only](https://github.com/just-js/just)
 
 ### Testing
 

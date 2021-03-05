@@ -25,6 +25,7 @@
 - [Brandient](https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5)
 - [Roditor Food Market](https://us2.campaign-archive.com/home/?u=1ae9247870a083038851025e0&id=17c09f57ca)
 - [Sahil Bloom](https://sahilbloom.substack.com/archive)
+- [Dan from TLDR](https://www.tldrnewsletter.com/archives)
 
 ### Buddhism
 
@@ -76,6 +77,7 @@
 - [Web Developer Monthly](https://zerotomastery.io/blog/?tag=WDM)
 - [Web Component Bytes by Chris Haynes](https://tinyletter.com/wcbytes/archive)
 - [Your window into the magical world of SVG.](https://buttondown.email/viewBox/archive)
+- [deararchitects](https://us17.campaign-archive.com/home/?u=219daa24bb0e9b48aea4bcfcf&id=6d0addbd4c)
 
 ### Web performance
 

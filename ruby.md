@@ -7,6 +7,7 @@
 
 - https://legacy.gitbook.com/book/rubyfu/rubyfu/details
 - https://legacy.gitbook.com/book/learnbyexample/ruby-scripting/details
+- [Ruby under a microscope](https://eddyerburgh.me/books-i-enjoyed-in-2019)
 
 ### Practice
 

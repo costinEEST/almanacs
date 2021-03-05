@@ -292,6 +292,7 @@
 - https://katifrantz.com/course/react-testing-masterclass?license=dd88e19a-ab0d-4442-87ba-6e9051896bf0 + https://github.com/bahdcoder/testingreact.dev
 - https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps
 - https://kentcdodds.com/blog/stop-mocking-fetch
+- [A book on outside-in test driven development on the frontend, in React and Vue.](https://outsidein.dev)
 
 ### Tooling
 
