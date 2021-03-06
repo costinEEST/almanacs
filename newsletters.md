@@ -39,6 +39,11 @@
 
 - [Istros Books](https://us4.campaign-archive.com/home/?u=33d3c9258f5909052eb60647b&id=4b1e62c805)
 
+
+### Hardware 
+
+- [Deep into the Forest. Deep Tech for a Better Future](https://deepforest.substack.com)
+
 ### Internet of money
 
 - https://blockchannel.substack.com/archive?sort=new
@@ -49,6 +54,7 @@
 - [Koroush AK](https://koroushak.substack.com/archive)
 - [Sebastien Couture](https://epicenter.tv/subscribe)
 - [EthHub Weekly](https://ethhub.substack.com/archive)
+- [Unchained Podcast](https://us19.campaign-archive.com/home/?u=0085a41334b3edf854fd51f9b&id=027df1b806)
 
 ### Design
 

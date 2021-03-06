@@ -12,6 +12,7 @@
 - https://github.com/wagiro/BurpBounty + https://twitter.com/egarme/status/1002078124014821377 + https://burpbounty.net/wp-content/uploads/2020/10/BurpBounty_Ekoparty_2020_ENG.pdf
 - https://github.com/doyensec/burpdeveltraining
 - [an epic thread for AutoRepeater!](https://twitter.com/ngkogkos/status/1350498063555719175)
+- [Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily in order to ease application security people work and allow them perform an automatic authorization tests](https://github.com/Quitten/Autorize)
 
 ### TV
 

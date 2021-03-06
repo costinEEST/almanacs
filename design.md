@@ -28,7 +28,11 @@
 
 ### Courses
 
-- - https://blog.awaxman.com/product-design-resources
+- https://blog.awaxman.com/product-design-resources
+
+### Communities
+
+- https://www.facebook.com/lectiadedesign
 
 
 ### Graphic design

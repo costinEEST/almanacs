@@ -17,6 +17,10 @@
 
 - https://www.pluralsight.com/authors/sami-laiho
 
+### Communities
+
+- [FreeDOS](https://www.facebook.com/groups/freedos)
+
 ### Internals
 
 - [How the compilation and linkage model works in windows at the assembly level.](https://twitter.com/0xrepnz/status/1204015835909689344)

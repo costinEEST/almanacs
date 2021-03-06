@@ -27,6 +27,10 @@
 - [OS Internals and Deep Your Understanding of x86 Architecture also a good prepare for Hypervisors](https://twitter.com/astrovax_/status/1320526877442846720) + http://opensecuritytraining.info/IntroX86.html + https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177
 - [The Hardware/Software Interface Class by Luis Ceze and Gaetano Borriello](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL)
 
+### Transistors
+
+- [How to Build a Transistor](https://twitter.com/rbhar90/status/1367901014771126277)
+
 ### Playground
 
 - https://www.tinkercad.com/circuits
