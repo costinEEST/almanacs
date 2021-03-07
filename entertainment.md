@@ -223,6 +223,10 @@
 
 - [How to Learn How to Surf](https://youtu.be/wn5KqWwP6uQ)
 
+### Climbing
+
+- https://scattered-thoughts.net/blog/2017/07/07/notes-on-training-for-climbing
+
 ### Chess
 
 - [A few snippets from ♟️ history](https://twitter.com/DorsaAmir/status/1199690290065530881)

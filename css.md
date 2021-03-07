@@ -12,6 +12,7 @@
 ### Books
 
 - https://debuggingcss.com
+- https://leanpub.com/css-optimization-basics
 
 ### Color
 

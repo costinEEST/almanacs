@@ -8,6 +8,7 @@
 - http://web.eecs.utk.edu/~azh/blog/booksformystudents.html
 - [Degreeless.design - Everything I Learned in Design School](https://www.degreeless.design)
 - https://github.com/bevacqua/reads#artdesign
+- https://scattered-thoughts.net/blog/2016/04/17/notes-on-calm-technology-principles-and-patterns-for-non-intrusive-design
 
 
 ### Cinema

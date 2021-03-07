@@ -42,6 +42,7 @@
 - [Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.](https://github.com/KartikChugh/Otto)
 - https://calv.info/gpt-3-real-magic + https://twitter.com/calvinfo/status/1286332337563684865
 - [Smart Upscaler can upscale images up to 3000x3000px.](https://icons8.com/upscaler)
+- https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers
 
 ### Courses
 

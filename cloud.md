@@ -3,6 +3,7 @@
 - [Cloudcraft – Draw AWS diagrams](https://cloudcraft.co)
 - Build your first Serverless app using AWS Lambda and React - https://serverless-stack.com + https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMjvMVHPvTZpzHSbNcxZgnvjx
 - [📙 Amazon Web Services — a practical guide.](https://github.com/open-guides/og-aws)
+- https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools + https://twitter.com/ToniBlyx/status/1207073852968316928 + https://blyx.com/2018/07/18/my-arsenal-of-aws-security-tools
 - https://gumroad.com/l/aws-good-parts + https://hassenchaieb.com/aws-good-parts
 - https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-exam-with-this-free-10-hour-course + https://www.freecodecamp.org/news/pass-the-aws-developer-associate-exam-with-this-free-16-hour-course

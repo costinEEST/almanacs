@@ -111,6 +111,7 @@
 - [Book recommendations for understanding financial systems?](https://news.ycombinator.com/item?id=22573204)
 - https://radu-iliescu.blogspot.com/search/label/economie
 - [E. F. Schumacher, Un îndrumar pentru cei dezorientaţi (recenzie)](https://radu-iliescu.blogspot.com/2016/05/e-f-schumacher-un-indrumar-pentru-cei.html)
+- https://www.bloomberg.com/news/audio/2021-01-17/why-the-cost-of-shipping-goods-from-china-is-soaring-podcast
 
 ### Geopolitics
 

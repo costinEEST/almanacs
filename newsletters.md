@@ -43,6 +43,7 @@
 ### Hardware 
 
 - [Deep into the Forest. Deep Tech for a Better Future](https://deepforest.substack.com)
+- [Kevin Lynagh](https://tinyletter.com/kevinlynagh/archive)
 
 ### Internet of money
 

@@ -80,3 +80,4 @@ https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=
 - https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming
 - https://twitter.com/aionescu/status/1272194529815416833
 - https://macwright.com/2021/01/15/rust.html + https://news.ycombinator.com/item?id=25798008
+- [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun](https://kevinlynagh.com/rust-zig)
