@@ -52,9 +52,9 @@ https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=
 
 - https://github.com/Mec-iS/rust-algos-illuminated
 
-### Games
+### Practice
 
-- [A game boy emulator as an introduction to Rust and Web Assembly for JavaScripters](https://twitter.com/sgrove/status/1210595000926367745)
+- https://github.com/AxlLind/AdventOfCode2020
 
 ### Tools
 

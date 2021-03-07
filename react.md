@@ -75,6 +75,7 @@
 - https://github.com/GoogleChromeLabs/react-adaptive-hooks
 - https://www.lorenzweiss.de/common_mistakes_react_hooks
 - https://github.com/CSFrequency/react-firebase-hooks
+- https://github.com/imbhargav5/rooks
 
 ### Context API
 
@@ -293,6 +294,7 @@
 - https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps
 - https://kentcdodds.com/blog/stop-mocking-fetch
 - [A book on outside-in test driven development on the frontend, in React and Vue.](https://outsidein.dev)
+- https://github.com/jfairbank/redux-saga-test-plan
 
 ### Tooling
 

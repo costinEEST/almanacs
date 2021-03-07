@@ -16,6 +16,8 @@
 - http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive
 - https://www.freecodecamp.org/news/20-award-winning-games-explained-code-breakdown
 - https://github.com/yrgo/awesome-educational-games
+- [A game boy emulator as an introduction to Rust and Web Assembly for JavaScripters](https://twitter.com/sgrove/status/1210595000926367745)
+
 
 ### Mobile based
 

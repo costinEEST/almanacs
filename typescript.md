@@ -4,6 +4,10 @@
 - [Typed Functional Programming in Typescript](https://typescript.fun)
 - [Typescript concepts - TypeWithMe](https://www.youtube.com/playlist?list=PLlYJBXwGoczG73vrUpl4G8WonVS5uNHjn)
 
+### Community
+
+- [Remo Jansen](https://www.remojansen.com/#talks)
+
 ### Presentations
 
 - [Typed functional programming in TypeScript in five minutes](https://github.com/typescript-fun/five-minutes-demo)
@@ -11,7 +15,8 @@
 
 ### Books
 
-- https://learning.oreilly.com/library/view/effective-typescript/9781492053736 + https://twitter.com/AdamRackis/status/1366058541925113863
+- http://orta.io/notes/recommendations/books#TypeScript
+- https://learning.oreilly.com/library/view/effective-typescript/9781492053736 + https://twitter.com/AdamRackis/status/1366058541925113863 + https://github.com/danvk/literate-ts
 - https://github.com/enricopolanski/functional-programming
 
 ### Cinema
