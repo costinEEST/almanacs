@@ -127,6 +127,7 @@
 - https://github.com/tsayen/dom-to-image
 - [The better way to render text on HTML5 Canvas](https://github.com/geongeorge/Canvas-Txt)
 - https://github.com/sunify/canvas-playground
+- https://github.com/desandro/practical-ui-physics
 
 ### WebGL
 
@@ -162,6 +163,7 @@
 - https://twitter.com/mjackson/status/1244736662875193345
 - https://twitter.com/jedschmidt/status/1254932318336081920 + [Turning callbacks into async iterators](https://gist.github.com/jed/f8444ae8e6e40e08a7b29944840ac20d)
 - [for-of, early termination, iterators, and generators](https://gist.github.com/rauschma/fd2518d14a7b1b7b39751d9ac85e6c20)
+- https://jeffy.info/2019/03/22/that-time-i-used-a-generator.html
 
 ### spread/destructuring operator
 
@@ -361,6 +363,7 @@
 ### Single-page application
 
 - [io-ts is an integral part of building any well-behaved, robust SPA client](https://twitter.com/garybernhardt/status/1220115502162272256)
+- [A case study on viable techniques for vanilla web development. ](https://github.com/morris/vanilla-todo)
 
 ### Web Components
 

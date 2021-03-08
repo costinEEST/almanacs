@@ -2,14 +2,22 @@
 
 - [Progressive Web App Training - Google Chrome Developers](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 
-### Case studies
+### Boilerplate
+
+- https://github.com/localnerve/react-pwa-reference
+
+### Case study
 
 - https://formidable.com/work/starbucks-progressive-web-app + https://realtalkjavascript.simplecast.com/episodes/episode-74-react-at-starbucks-with-cher
 - https://github.com/dominiccooney/Service-Worker-Performance
 - https://medium.com/samsung-internet-dev/improve-device-integration-for-your-web-app-in-just-a-few-minutes-cca413c4f0f
 - [A boilerplate to create a complete journal system with backend, frontend, PWA and apps.](https://github.com/save91/my-journal)
 
-### Demos
+### Development
+
+- [Deploy a PWA to as an Android Package to the Google Play Store](https://github.com/fireship-io/169-pwa-trusted-web-activity)
+
+### Demo
 
 - [Generate a fake app to replace any addictive app](https://github.com/sandoche/Detoxify-app)
 - [Spotify PWA + Desktop shortcut + Media keys. Tutorial and Chrome Extension](https://github.com/JonnyBurger/light-spotify)

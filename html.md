@@ -35,6 +35,7 @@
 - https://thoughtbot.com/blog/improving-the-usability-and-accessibility-of-a-healthcare-website-by-being-mindful-of-reading-level
 - [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av)
 - https://kittygiraudel.com/2021/02/17/hiding-content-responsibly
+- https://github.com/fejes713/accessibility-guide
 
 ### <button></button>
 

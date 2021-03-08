@@ -46,6 +46,7 @@
 - [A library for interacting with hardware wallets from JS/TS.](https://github.com/shapeshift/hdwallet)
 - https://medium.com/consensys-diligence
 - https://www.freecodecamp.org/news/build-a-blockchain-in-golang-from-scratch
+- [Blockchain Cryptocurrency Implemented with Node & TypeScript](https://github.com/fireship-io/node-blockchain)
 
 ### Boilerplate
 

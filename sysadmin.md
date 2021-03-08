@@ -114,6 +114,7 @@
 - https://devforth.io/blog/step-by-step-guide-to-modern-secure-ci-setup
 - https://www.freecodecamp.org/news/metrics-driven-development
 - https://theresnomon.co/what-modern-ci-cd-should-look-like-e6f50594c2d2
+- [Continuous Deployment with AWS and GitHub Actions](https://www.gauntface.com/blog/2020/static-site-hosting-on-aws)
 
 ### Site Reliability Engineering
 

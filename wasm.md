@@ -18,6 +18,7 @@
 - https://codeburst.io/getting-started-with-react-and-webassembly-using-hooks-441818c91608
 - https://medium.com/@robaboukhalil/webassembly-and-simd-7a7daa4f2ecd
 - https://mpetroff.net/2021/02/space-efficient-embedding-of-webassembly-in-javascript
+- https://github.com/fireship-io/react-wasm-gif-maker
 
 ### Opinions
 

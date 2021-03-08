@@ -90,6 +90,7 @@
 - [A Twilio-powered interactive talk radio platform](https://capiche.fm) + https://news.ycombinator.com/item?id=25424103
 - [Transmits AM radio on computers without radio transmitting hardware.](https://github.com/fulldecent/system-bus-radio)
 - https://github.com/zbetcheckin/Security_list#wireless--radio-signal_strength
+- https://www.bit-101.com/blog/2020/10/i-think-bluetooth-is-finally-ok/
 
 ### 5G
 
@@ -160,6 +161,7 @@
 - [Avoid 301 and 302, use 303 and 307](https://youtu.be/G9PpImUEeUA?t=702)
 - https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis
 - [Cache your CORS, for performance & profit](https://httptoolkit.tech/blog/cache-your-cors)
+- https://jeffy.info/2019/07/22/exposing-cors-headers.html
 
 ### HTTPS
 

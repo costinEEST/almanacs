@@ -8,11 +8,12 @@
 - https://jeremenichelli.io/2016/04/always-animate-translate-instead-of-positions
 - https://thewholesome.dev/p/8-frontend-coding-ideas-that-will
 - https://github.com/argyleink/transition.css
+- [A reference for the render impact of mutating CSS properties.](https://github.com/GoogleChromeLabs/css-triggers)
 
 ### Books
 
 - https://debuggingcss.com
-- https://leanpub.com/css-optimization-basics
+- https://leanpub.com/css-optimization-basics + https://github.com/j9t/css-optimization-basics
 
 ### Color
 
@@ -35,6 +36,7 @@
 
 - https://twitter.com/zehf/status/1310664033234808833
 - [Kevin Powell](https://www.youtube.com/kepowob/playlists)
+- https://github.com/micromata/awesome-css-learning
 
 ### Measurement units
 
@@ -73,6 +75,8 @@
 
 - https://increment.com/frontend/a-users-guide-to-css-variables
 - https://www.sarasoueidan.com/blog/style-settings-with-css-variables
+- https://github.com/notoriousb1t/awesome-css-variables
+
 
 ### CSS grid
 

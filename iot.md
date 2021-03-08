@@ -46,6 +46,7 @@
 - [Track the location of every Wi-Fi device (📱) in your house using Raspberry Pis and FIND](https://github.com/schollz/find-lf)
 - [Explore the basics of machine learning by building your own teachable object at home.](https://github.com/googlecreativelab/alto)
 - [Raspberry Pi Computing: Temperature Measurement](https://leanpub.com/rpctemp)
+- https://www.bit-101.com/blog/2021/02/raspberry-pi-pico-what-ive-learned
 
 ### Smartwatch
 
