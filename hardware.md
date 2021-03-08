@@ -10,6 +10,11 @@
 - [The Digital Flood: The Diffusion of Information Technology Across the U.S., Europe, and Asia - James W. Cortada](https://www.amazon.com/Digital-Flood-Diffusion-Information-Technology/dp/0199921555)
 - https://news.ycombinator.com/item?id=22347230 + https://yahnd.com/academy/r/coursera.org/learn/build-a-computer + https://hackernewsbooks.com/book/the-elements-of-computing-systems-building-a-modern-computer-from-first-principles/24e53c653bf36dcdf40f5704a4973d37
 - [The Soul of a New Machine: Rethinking the Computer](https://news.ycombinator.com/item?id=23975445)
+- https://mightyohm.com/blog/2008/12/the-greatest-electronics-book-ever-written
+
+### Community
+
+- http://mightyohm.com/wiki
 
 ### Courses
 

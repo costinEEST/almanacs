@@ -90,6 +90,10 @@
 
 - [Perf.mail from Calibre](https://us2.campaign-archive.com/home/?u=9067434ef642e9c92aa7453d2&id=7cba5dc7bd)
 
+### Typography
+
+- [I Love Typography](https://news.ilovetypography.com/archive)
+
 ### Writing
 
 - https://www.writethedocs.org/blog/archive/tag/newsletter
