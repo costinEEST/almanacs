@@ -244,6 +244,7 @@
 - [Follow The Physiology - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LHpgxqaIeeXaTEcHsTsDbo2)
 - [How to Detoxify Your Brain & Body - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LH5xMlqdLQVlF_nD6BaXGY3)
 - [Mold, Candida, Yeast. - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LFvQOTlvvmoAbCqO0himSx5)
+- [How did you fix your posterior chain?](https://github.com/jasoncwarner/ama/issues/35)
 
 ### Miscellaneous
 

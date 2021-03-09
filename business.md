@@ -54,6 +54,8 @@
 - https://adamconrad.dev/blog/how-i-applied-the-engineering-management-curriculum
 - https://github.com/jesselpalmer/the-engineering-managers-booklist
 - https://naz.dev/posts/the-art-of-growth-skills
+- https://github.com/jasoncwarner/ama/issues/2#issuecomment-618099083
+- https://github.com/jasoncwarner/ama/issues/4
 
 
 ### Strategy

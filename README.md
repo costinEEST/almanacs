@@ -47,6 +47,7 @@
 - [Elm](elm.md)
 - [Entertainment](entertainment.md)
 - [Emacs](emacs.md)
+- [Erlang](erlang.md)
 - [F#](f#.md)
 - [Figma](figma.md)
 - [File formats](document.md)
