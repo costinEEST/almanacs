@@ -68,6 +68,7 @@
 - https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial
 - https://github.com/sahat/hackathon-starter
 - https://github.com/Jiratech/boilerplates-express-typescript-openapi
+- https://github.com/guidesmiths/microservice-typescript-boilerplate
 
 ### Debugging
 
@@ -251,6 +252,7 @@
 - https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app
 - [A Next.js site using new SSG support with a Notion backed blog](https://github.com/ijjk/notion-blog)
 - [A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark](https://github.com/nodejs/nodejs.dev)
+- [Building a Static Gatsby-based Website with TypeScript](https://jeffrafter.com/gatsby-with-typescript)
 
 
 ### Serverless

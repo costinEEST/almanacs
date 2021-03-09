@@ -37,6 +37,7 @@
 - https://devdojo.com/bobbyiliev/top-10-vscode-shortcuts-for-mac-and-windows-to-help-you-be-more-productive
 - ["HTML" as the identifier for your PHP heredoc/nowdoc strings](https://twitter.com/LiamHammett/status/1342857802574950400)
 - https://github.com/shd101wyy/markdown-preview-enhanced
+- [get all the list of extensions in your visual studio code editor.](https://gokul.site/uses)
 
 ### tmux
 

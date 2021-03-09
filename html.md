@@ -47,6 +47,10 @@
 
 - https://css-tricks.com/exploring-what-the-details-and-summary-elements-can-do
 
+### <head></head>
+
+- https://github.com/audreyfeldroy/favicon-cheat-sheet
+
 ### <meta />
 
 - https://textslashplain.com/2020/05/15/meta-charset

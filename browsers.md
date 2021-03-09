@@ -116,6 +116,7 @@
 - https://github.com/jiripospisil/chrome-ext-downloader
 - [Create modern cross-browser extensions with no build configuration.](https://github.com/cezaraugusto/extension-create)
 - [Posta is a tool for researching Cross-document Messaging communication. It allows you to track, explore and exploit postMessage vulnerabilities, and includes features such as replaying messages sent between windows within any attached browser.](https://github.com/benso-io/posta)
+- [A boilerplate project to quickly build a Chrome extension using TypeScript and React (built using webpack).](https://github.com/martellaj/chrome-extension-react-typescript-boilerplate)
 
 ### Bookmarklets
 

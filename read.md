@@ -22,3 +22,4 @@
 - https://benmccormick.org/reviews-archive
 - [Tomas Laurinavicius](https://tomaslau.com/books)
 - [Steph Smith](https://stephsmith.io/books)
+- [Ramón Morcillo](https://github.com/reymon359/book-sentences)
