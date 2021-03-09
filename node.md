@@ -127,6 +127,7 @@
 - https://blog.s1h.org/inside-node-executing-a-script
 - https://blog.logrocket.com/node-js-crypto-module-a-tutorial
 - [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
+- https://github.com/ejdaly/node-threads-example
 
 ### Event loop
 
@@ -253,6 +254,7 @@
 - [A Next.js site using new SSG support with a Notion backed blog](https://github.com/ijjk/notion-blog)
 - [A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark](https://github.com/nodejs/nodejs.dev)
 - [Building a Static Gatsby-based Website with TypeScript](https://jeffrafter.com/gatsby-with-typescript)
+- https://github.com/erikkroes/corona-roadmap
 
 
 ### Serverless

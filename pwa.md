@@ -21,6 +21,9 @@
 ### Development
 
 - https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa
+- [Utilities for common patterns that help you build your Progressive Web App](https://github.com/thepassle/pwa-helpers)
+- https://dev.to/thepassle/the-mental-gymnastics-of-service-worker-257g
+- https://dev.to/thepassle/lessons-learned-building-a-covid-19-pwa-57fi
 - [Deploy a PWA to as an Android Package to the Google Play Store](https://github.com/fireship-io/169-pwa-trusted-web-activity)
 - [A boilerplate to create a complete journal system with backend, frontend, PWA and apps.](https://github.com/save91/my-journal)
 - https://github.com/PWA-POLICE/pwa-bugs
@@ -43,6 +46,7 @@
 - https://samselikoff.com/blog/8-tips-to-make-your-website-feel-like-an-ios-app
 - https://github.com/alexandrunastase/json-formatter-live
 - [QR Code Scanner - a simple, fast and useful progressive web application](https://github.com/gokulkrishh/qrcodescan.in)
+- [Orthodox Calendar PWA](https://github.com/dimaip/calendar)
 
 ### Security
 

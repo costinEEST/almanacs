@@ -390,6 +390,7 @@
 - https://academind.com/tutorials/adding-web-components-to-any-app
 - [Vanilla Web Components. A place for framework-free, transpiler-free, scaffolding-free web components.](https://github.com/vanillawc/vanillawc)
 - https://github.com/Apress/frameworkless-front-end-development 
+- [A tiny color picker custom element for modern web apps (2.7 KB)](https://github.com/web-padawan/vanilla-colorful)
 
 ### Testing
 
