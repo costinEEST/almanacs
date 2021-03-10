@@ -40,6 +40,7 @@
 - https://github.com/BretFisher/node-docker-good-defaults
 - https://github.com/fhsinchy/the-docker-handbook + https://github.com/fhsinchy/docker-handbook-projects
 - https://madhuakula.com/content + https://speakerdeck.com/madhuakula/a-practical-guide-to-writing-secure-dockerfiles-wearedevelopers-container-day-2021
+- [A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3](https://github.com/dockersamples/docker-swarm-visualizer)
 
 ### Kubernetes
 
@@ -115,6 +116,7 @@
 - https://www.freecodecamp.org/news/metrics-driven-development
 - https://theresnomon.co/what-modern-ci-cd-should-look-like-e6f50594c2d2
 - [Continuous Deployment with AWS and GitHub Actions](https://www.gauntface.com/blog/2020/static-site-hosting-on-aws)
+- [Do you run automated cypress / e2e tests on a local dev server on your CI pipeline?](https://twitter.com/onderceylan/status/1364877359665582080)
 
 ### Site Reliability Engineering
 

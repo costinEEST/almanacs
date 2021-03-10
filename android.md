@@ -58,6 +58,7 @@
 - https://github.com/thealeksandr/PFLockScreen-Android
 - https://speakerdeck.com/andreidiaconu/android-training-in-10-sessions
 - https://tinyletter.com/sqisland/letters/square-island-start-developing-for-android
+- https://github.com/android/architecture-components-samples
 
 ### TV
 

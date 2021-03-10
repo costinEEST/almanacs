@@ -17,6 +17,7 @@
 - https://stackoverflow.com/questions/16808486/explanation-of-window-performance-javascript
 - https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities
 - https://engineering.q42.nl/passwordless-authentication
+- [Add support for a StreamDeck to Google Meet using WebHID](https://github.com/petele/StreamDeck-Meet)
 
 ### Engines
 
@@ -219,6 +220,7 @@ javascript: (() =>
 - https://github.blog/2020-12-21-how-we-built-the-github-globe
 - https://formidable.com/blog/2021/future-ui
 - https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1
+- https://webglfundamentals.org + https://twitter.com/redblobgames/status/1369123816719360000
 
 ### Headless
 
@@ -227,6 +229,7 @@ javascript: (() =>
 - [Capture screenshots in multiple browsers!](https://github.com/juliangruber/capture-screenshot)
 - [Puppeteer example scripts for running Headless Chrome from Node.](https://github.com/checkly/puppeteer-examples)
 - https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison
+- [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
 
 ### Miscellaneous
 

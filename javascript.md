@@ -107,6 +107,10 @@
 - https://github.com/PacktPublishing/Hands-on-JavaScript-for-Python-Developers
 - https://github.com/javascript-society/javascript-path
 
+### Course
+
+- https://learnjavascript.online
+
 ### Talks
 
 - [Session Notes from JSCraftCamp2019](https://github.com/jscraftcamp/jscc19-sessions) + [JavaScript Craftcamp 2018](https://github.com/jscraftcamp/notes2018)
@@ -460,6 +464,7 @@
 - https://lachlan-miller.me/articles/decoding-variable-length-quantity-vlq-for-source-maps
 - [webpack is all written on top of its own plugins](https://matheus1lva.substack.com/p/webpack-plugins)
 - [Cash is a cross-platform implementation of Unix shell commands written in straight ES6.](https://github.com/dthree/cash)
+- https://github.com/iamakulov/awesome-webpack-perf
 
 ### Documentation
 

@@ -101,7 +101,7 @@
 - [Deno - TypeWithMe](https://www.youtube.com/playlist?list=PLlYJBXwGoczE6l8lm0AaFe62EtI3th41L)
 - https://www.slideshare.net/tshemsedinov/presentations
 
-### Courses
+### Course
 
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide
 - https://www.udemy.com/course/nestjs-zero-to-hero/
@@ -113,6 +113,7 @@
 - https://www.freecodecamp.org/news/learn-the-pern-stack-full-course
 - https://github.com/cmda-bt/be-course-17-18
 - https://jamesqquick.hashnode.dev/build-an-authenticated-jamstack-app-with-nextjs-airtable-tailwind-css-and-auth0
+- [7-month web development program covering HTML, CSS, Javascript, Node, and React!](https://github.com/HackYourFuture/curriculum)
 
 ### Cheat sheets
 
@@ -179,6 +180,7 @@
 
 - https://github.com/doppelganger9/fruit-basket
 - https://engineering.klarna.com/6-lessons-learned-from-optimizing-the-performance-of-a-node-js-service-f163cac20473
+- https://github.com/giltayar/microservices-are-made-for-testing
 
 ### Web servers
 
@@ -203,6 +205,7 @@
 - https://www.openfaas.com/blog/puppeteer-scraping
 - https://github.com/TwilioDevEd/webhooks-course + https://www.freecodecamp.org/news/the-ultimate-webhooks-course-for-beginners 
 - https://github.com/known-css/known-css-properties
+- https://github.com/BruceDone/awesome-crawler#javascript
 
 ### Micro services
 
@@ -238,7 +241,7 @@
 - https://www.slideshare.net/madhuakula/node-js-reverse-shell
 
 
-### Static site generators
+### Static site generator
 
 - https://tatianamac.com/tags/Eleventy
 - https://sgolem.com/building-an-easy-on-the-eyes-ikea-style-blog-in-no-time-for-free-again
@@ -255,6 +258,8 @@
 - [A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark](https://github.com/nodejs/nodejs.dev)
 - [Building a Static Gatsby-based Website with TypeScript](https://jeffrafter.com/gatsby-with-typescript)
 - https://github.com/erikkroes/corona-roadmap
+- https://github.com/google/eleventy-high-performance-blog
+- [Source code for mxb.dev, built with Eleventy.](https://github.com/maxboeck/mxb)
 
 
 ### Serverless

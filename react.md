@@ -1,5 +1,6 @@
-### Courses
+### Course
 
+- https://react-tutorial.app
 - [Complete Intro to React v5](https://btholt.github.io/complete-intro-to-react-v5/)
 - https://github.com/kentcdodds/advanced-react-patterns-v2
 - https://github.com/eggheadio/eggheadio-course-notes/tree/master/simplify-react-apps-with-react-hooks
@@ -77,6 +78,7 @@
 - https://www.lorenzweiss.de/common_mistakes_react_hooks
 - https://github.com/CSFrequency/react-firebase-hooks
 - https://github.com/imbhargav5/rooks
+- [Gyro-web: Accessing the device orientation in JavaScript](https://trekhleb.dev/blog/2021/gyro-web)
 
 ### Context API
 
@@ -168,6 +170,7 @@
 ### Server side rendering
 
 - https://medium.com/javascript-in-plain-english/intro-to-react-server-side-rendering-3c2af3782d08
+- https://emergent.systems/posts/ssr-in-react
 - https://jeremenichelli.io/2020/05/a-progressive-search-experience-in-next
 - https://arkwright.github.io/scaling-react-server-side-rendering.html
 - [ds - personal site manager - powered by next.js](https://github.com/divyenduz/ds)

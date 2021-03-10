@@ -27,6 +27,10 @@
 - [Deploy a PWA to as an Android Package to the Google Play Store](https://github.com/fireship-io/169-pwa-trusted-web-activity)
 - [A boilerplate to create a complete journal system with backend, frontend, PWA and apps.](https://github.com/save91/my-journal)
 - https://github.com/PWA-POLICE/pwa-bugs
+- https://github.com/onderceylan/pwa-asset-generator
+- [Tips for working with ServiceWorker](https://github.com/popeindustries/sw-tips)
+- [ServiceWorker Testing made easy ](https://github.com/popeindustries/sw-tester)
+- https://github.com/google-developer-training/pwa-training-labs
 
 ### Demo
 
@@ -47,6 +51,7 @@
 - https://github.com/alexandrunastase/json-formatter-live
 - [QR Code Scanner - a simple, fast and useful progressive web application](https://github.com/gokulkrishh/qrcodescan.in)
 - [Orthodox Calendar PWA](https://github.com/dimaip/calendar)
+- [Links Detector makes printed links clickable via your smartphone camera.](https://github.com/trekhleb/links-detector)
 
 ### Security
 

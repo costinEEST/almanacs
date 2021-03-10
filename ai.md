@@ -34,6 +34,8 @@
 - [Visual Studio Code extension to quickly generate docstrings for Python functions using AI](https://github.com/graykode/ai-docstring)
 - [Learn OpenCV : C++ and Python Examples](https://github.com/spmallick/learnopencv)
 - https://github.com/eugeneyan/applied-ml
+- [Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
+- https://github.com/GokuMohandas/madewithml
 
 ### Tools
 

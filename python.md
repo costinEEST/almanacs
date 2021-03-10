@@ -7,7 +7,6 @@
 ### Books
 
 - https://github.com/changwookjun/StudyBook
-- https://github.com/trekhleb/learn-python
 - https://book.pythontips.com/en/latest
 - https://automatetheboringstuff.com/2e
 - [Getting Started Neo4j with Python (For Complete Beginners)](<https://github.com/ybaktir/neo4ds/blob/master/Getting%20Started%20Neo4j%20with%20Python%20(For%20Complete%20Beginners).ipynb>)
@@ -33,7 +32,7 @@
 - https://leanpub.com/clean-architectures-in-python
 - https://github.com/faif/python-patterns
 
-### Courses
+### Course
 
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
 - [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html) + https://mobile.twitter.com/spatialthoughts/status/1296821055604969473
@@ -46,6 +45,7 @@
 - https://marko-knoebl.github.io/slides/index.html
 - https://github.com/ForrestKnight/open-source-cs-python
 - https://www.freecodecamp.org/news/opencv-full-course
+- https://github.com/trekhleb/learn-python
 
 ### Data structures
 

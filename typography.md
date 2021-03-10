@@ -30,6 +30,7 @@
 - [A simple website which uses Typefont library to match the font of an image.](https://github.com/dcorvasce/typefont-matcher)
 - [Calligrapher converts typed text into handwritten-style text. Users can adjust the speed, legibility, stroke width, and style of writing. The generated text can be downloaded as an SVG file.](https://www.calligrapher.ai)
 - [Convert Google Fonts to Self-Hosted fonts](https://wicki.io/google-fonts-converter) + https://wicki.io/posts/2020-11-goodbye-google-fonts + https://news.ycombinator.com/item?id=25300396
+- [Downloads a set of web fonts specified by @font-face rules in a CSS file.](https://github.com/mmastrac/webfont-dl)
 
 
 ### Miscellaneous
