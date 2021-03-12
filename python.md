@@ -16,6 +16,7 @@
 - [Foundations of Python Network Programming (Apress)](https://github.com/brandon-rhodes/fopnp)
 - [Exercises in Programming Style](http://tagide.com/EPSBook)
 - https://github.com/thewhitetulip/build-app-with-python-antitextbook
+- https://www.debuggingbook.org + https://www.youtube.com/playlist?list=PL6dh-k4faL8ok2aD64kEm6zmUPbfTznJy
 
 ### Bots
 
