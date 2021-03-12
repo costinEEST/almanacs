@@ -98,6 +98,7 @@
 
 - https://sites.fas.harvard.edu/~iranian
 - http://sites.fas.harvard.edu/~iranian/OldPersian/index.html
+- https://github.com/omid/Persian-Calendar-for-Gnome-Shell
 
 ### French
 

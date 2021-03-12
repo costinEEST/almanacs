@@ -20,6 +20,10 @@
 - https://mpetroff.net/2021/02/space-efficient-embedding-of-webassembly-in-javascript
 - https://github.com/fireship-io/react-wasm-gif-maker
 
+### Tools
+
+- [JS parser in Web Assembly / C](https://github.com/samthor/gumnut)
+
 ### Opinions
 
 - [Used for surveillance](https://twitter.com/aral/status/1206173737730674688)

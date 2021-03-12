@@ -123,4 +123,5 @@
 - https://github.com/danbev/learning-quantum-computing
 - https://github.com/nocomplexity/ArchitecturePlaybook
 - [How Aristotle Created the Computer](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697)
-- 
+- https://github.com/kettanaito/naming-cheatsheet
+- [Laws, Theories, Principles and Patterns that developers will find useful.](https://github.com/dwmkerr/hacker-laws)

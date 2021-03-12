@@ -36,6 +36,8 @@
 - https://cult.honeypot.io/originals/graphql-the-documentary
 - https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
 - [GRANDcase.FM is a podcast application built using GRANDstack (GraphQL, React, Apollo, Neo4j Database)](https://github.com/johnymontana/grandcast.fm)
+- https://github.com/Shopify/graphql-design-tutorial
+- [Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.](https://github.com/enisdenjo/graphql-ws)
 
 ### gRPC
 

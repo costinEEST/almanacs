@@ -36,6 +36,7 @@
 - https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc
 - https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale + https://youtu.be/B4_SlXkGDd4
 - https://github.com/bedemiralp/how-do-they-use-x-at-y#typescript
+- [TypeScript toolkit for building end-to-end typesafe APIs](https://github.com/trpc/trpc)
 
 ### Practice
 

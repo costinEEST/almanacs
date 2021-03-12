@@ -95,6 +95,8 @@
 - https://www.cbinsights.com/research/report/elon-musk-companies-disruption
 - https://www.visualcapitalist.com/tesla-bears-a-short-short-story
 - [I was at Amazon in 2000 when the internet bubble popped.](https://twitter.com/danrose999/status/1347677573900242944)
+- https://github.com/KrishMunot/awesome-startup
+- [A list of startups that have employee-friendly terms for exercising your options past 90 days.](https://github.com/holman/extended-exercise-windows)
 
 ### Investing
 
@@ -144,7 +146,6 @@
 - https://www.bbc.com/future/article/20200219-xia-peisu-the-computer-pioneer-who-built-modern-china
 - [What are some great ethnographies of technology users/communities?](https://twitter.com/devonzuegel/status/1228843148358500353)
 - https://florentcrivello.com/index.php/2020/02/24/general-magic-and-silicon-valley-common-wisdom
-- [The missing star history graph of github repos.](https://github.com/timqian/star-history)
 - https://www.harpercollins.com/products/how-innovation-works-matt-ridley?variant=32117444444194 + https://nav.al/matt-ridley + http://www.rationaloptimist.com/blog/naval-interview
 - [The Knowledge: How to Rebuild Our World from Scratch by Lewis Dartnell](https://news.ycombinator.com/item?id=22347884)
 - https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022

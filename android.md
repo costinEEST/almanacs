@@ -27,6 +27,8 @@
 - https://arstechnica.com/gadgets/2020/08/android-is-now-the-worlds-largest-earthquake-detection-network
 - [hebrew interlinear old testament](https://github.com/stefankmitph/hiot) + https://github.com/peace-shillong/Hebrew-Interlinear-Old-Testament-Android
 - https://www.androidpolice.com/2021/01/16/gboard-emoji-kitchen-how-to-examples
+- [Save For Offline is an Android app for saving full webpages for offline reading, with lots of features and options.](https://github.com/JonasCz/save-for-offline)
+- [Simple, scalable, cross-platform and effective solution against government censorship for Android](https://github.com/krlvm/PowerTunnel-Android)
 
 ### Tools
 

@@ -3,6 +3,7 @@
 - [How does Two-Factor Authentication - 2FA work?](https://youtu.be/yhoK8JelGgM)
 - [Become an Auth Boss. Learn about different authentication methodologies on the web. ](https://github.com/teesloane/Auth-Boss)
 - https://adambard.com/blog/programatically-liquidating-my-steam-inventory
+- https://github.com/mjhea0/awesome-fastapi
 
 ### Books
 

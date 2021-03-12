@@ -41,6 +41,7 @@
 - https://github.com/fhsinchy/the-docker-handbook + https://github.com/fhsinchy/docker-handbook-projects
 - https://madhuakula.com/content + https://speakerdeck.com/madhuakula/a-practical-guide-to-writing-secure-dockerfiles-wearedevelopers-container-day-2021
 - [A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3](https://github.com/dockersamples/docker-swarm-visualizer)
+- https://github.com/prakhar1989/docker-curriculum
 
 ### Kubernetes
 
@@ -73,6 +74,7 @@
 - https://github.com/vinta/simple-project-on-k8s
 - https://github.com/geerlingguy/kubernetes-101 + https://kube101.jeffgeerling.com
 - https://www.todaysoftmag.ro/article/3327/micro-servicii-folosind-helm
+- https://github.com/eon01/kubernetes-workshop
 
 ### Servers
 
@@ -91,6 +93,7 @@
 - [Site Reliability Engineering: Building Secure and Reliable Systems](https://landing.google.com/sre/books)
 - [Principles of System Administration by Jan Schaumann](https://www.netmeister.org/book) + https://stevens.netmeister.org/615
 - https://chan.dev/posts/a-non-comprehensive-guide-to-yaml-for-folks-who-like-json-just-fine
+- https://github.com/bregman-arie/devops-exercises
 
 ### Monitoring
 

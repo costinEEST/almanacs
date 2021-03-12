@@ -36,6 +36,7 @@
 - https://github.com/eugeneyan/applied-ml
 - [Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 - https://github.com/GokuMohandas/madewithml
+- https://github.com/chiphuyen/machine-learning-systems-design
 
 ### Tools
 

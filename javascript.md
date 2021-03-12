@@ -1,5 +1,6 @@
 ### Quirks
 
+- https://github.com/aemkei/jsfuck
 - [6 JavaScript WTFs and what to learn from them](https://dev.to/andreib123/6-javascript-wtfs-and-what-to-learn-from-them-406d)
 - [Function that prints itself (quine)](https://twitter.com/ryuhhnn/status/1212075258548834305)
 - https://blogtitle.github.io/i-am-switching-to-js + https://blogtitle.github.io/lets-talk-about-javascript
@@ -110,6 +111,7 @@
 ### Course
 
 - https://learnjavascript.online
+- https://github.com/sophi-li/OKRs-self-learning
 
 ### Talks
 
@@ -119,29 +121,6 @@
 ### AI
 
 - [Functions that will give you a feeling of how machines can actually "learn"](https://github.com/trekhleb/nano-neuron)
-
-### Canvas
-
-- https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript
-- [A simple Christmas tree.](https://github.com/anvaka/atree)
-- [Screenshots with JavaScript](https://github.com/niklasvh/html2canvas)
-- https://github.com/raphamorim/awesome-canvas
-- https://github.com/Rich-Harris/yootils/blob/master/src/canvas/sprite.ts
-- [HTML5 Canvas implementation for NodeJS backed by Puppeteer.](https://github.com/pshihn/puppet-canvas)
-- https://github.com/tsayen/dom-to-image
-- [The better way to render text on HTML5 Canvas](https://github.com/geongeorge/Canvas-Txt)
-- https://github.com/sunify/canvas-playground
-- https://github.com/desandro/practical-ui-physics
-
-### WebGL
-
-- https://alain.xyz/blog/raw-webgl
-- [Minimal WebGL Library.](https://github.com/oframe/ogl)
-- https://github.com/brunoimbrizi/interactive-particles
-- https://github.com/lesnitsky/webgl-month
-- https://github.com/rezaali/webgl-tutorial
-- https://github.com/rezaali/webgl-sketches
-- https://github.com/stackgl/webgl-workshop
 
 ### void
 

@@ -42,7 +42,9 @@
 - https://lucjan.medium.com/free-url-shortener-with-cloudflare-workers-125eaf87b1ec
 - [An experimental blogging application developed with Docker, Deno, Oak and MySQL](https://github.com/fhsinchy/deno-blog)
 - https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it
-
+- [API library for Node.js that interacts with the Philips Hue Bridge to control Lights, schedules, sensors and the various other features of the Hue Bridge.](https://github.com/peter-murray/node-hue-api)
+- [A serverless wrapper for the private Notion API. It provides fast and easy access to your Notion content. Ideal to make Notion your CMS.](https://github.com/splitbee/notion-api-worker)
+- https://github.com/afteracademy/nodejs-backend-architecture-typescript
 
 ### Books
 
@@ -69,6 +71,9 @@
 - https://github.com/sahat/hackathon-starter
 - https://github.com/Jiratech/boilerplates-express-typescript-openapi
 - https://github.com/guidesmiths/microservice-typescript-boilerplate
+- https://github.com/mddanishyusuf/gumroad-coffee-template
+- https://github.com/ryands17/fastify-prisma
+- https://github.com/timsuchanek/covid19-vaccinations-prisma
 
 ### Debugging
 
@@ -175,6 +180,8 @@
 - [Vantage = CLI + SSH + REPL for your live node app](https://github.com/dthree/vantage)
 - [A simple, distributed task scheduler and runner with a web based UI.](https://github.com/jhuckaby/Cronicle)
 - [a very small v8 javascript runtime for linux only](https://github.com/just-js/just)
+- [PNG image decoder and encoder written entirely in JavaScript](https://github.com/image-js/fast-png)
+- [Convert javascript fetch requests to curl](https://github.com/leoek/fetch-to-curl)
 
 ### Testing
 
@@ -206,6 +213,7 @@
 - https://github.com/TwilioDevEd/webhooks-course + https://www.freecodecamp.org/news/the-ultimate-webhooks-course-for-beginners 
 - https://github.com/known-css/known-css-properties
 - https://github.com/BruceDone/awesome-crawler#javascript
+- https://github.com/JonasCz/How-To-Prevent-Scraping
 
 ### Micro services
 
@@ -213,6 +221,7 @@
 - [A micro service development architecture based on nest.js.](https://github.com/notadd/notadd)
 - [Flatend – Quickly build microservices using P2P networking in Node/Go](https://news.ycombinator.com/item?id=23561904)
 - https://hackernoon.com/learn-how-to-use-webhooks-by-connecting-nodejs-ifttt-and-twitter-k0w3121
+- [cote lets you write zero-configuration microservices in Node.js without nginx, haproxy, redis, rabbitmq or anything else. ](https://github.com/dashersw/cote)
 
 ### Design patterns
 

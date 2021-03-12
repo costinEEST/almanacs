@@ -29,6 +29,16 @@
 - https://github.com/nice-boys/product-boilerplate
 - https://github.com/dasmata/styleguide
 - [Folder structure](https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346)
+- https://github.com/netlify/next-on-netlify
+- https://github.com/eggheadio/egghead-next
+- https://github.com/cruip/tailwind-landing-page-template
+- https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
+- https://github.com/serverless-nextjs/serverless-next.js
+- https://github.com/kkemple/theworst.dev
+- https://github.com/graphql-boilerplates/react-fullstack-graphql
+- https://github.com/wutali/nextjs-netlify-blog-template
+- https://github.com/joelhooks/next-typescript-tailwind-mdx-starter
+- https://github.com/helloiamelliot/elliot-serverless-ecommerce
 
 ### Books
 
@@ -79,6 +89,7 @@
 - https://github.com/CSFrequency/react-firebase-hooks
 - https://github.com/imbhargav5/rooks
 - [Gyro-web: Accessing the device orientation in JavaScript](https://trekhleb.dev/blog/2021/gyro-web)
+- https://github.com/wellyshen/use-web-animations
 
 ### Context API
 
@@ -91,7 +102,7 @@
 - https://academy.nomadcoders.co/p/antiredux-new-react-context-api
 - https://jclem.net/posts/building-a-router-in-react
 
-### Components
+### Component
 
 - [Headless UI components](https://twitter.com/rauchg/status/1199157227677868032)
 - https://github.com/jquense/react-widgets
@@ -111,7 +122,7 @@
 - https://jeffchen.dev/posts/Detecting-Widows-In-React
 - https://github.com/jxom/awesome-react-headless-components
 
-### Patterns
+### Pattern
 
 - [Reusable Code In React: Inheritance, Composition, Decorators and Mixins.](https://benmccormick.org/2019/02/11/reusable-react)
 - [What are some React anti-patterns that you encounter often? Why are they dangerous?](https://twitter.com/TejasKumar_/status/1214259916376027137)
@@ -166,6 +177,7 @@
 - [To design and develop an interactive globe using Three.js](https://stripe.com/blog/globe) + https://twitter.com/narrowd/status/1300838489869742080
 - https://twitter.com/sseraphini/status/1326864292868665352
 - https://js.plainenglish.io/chakra-the-react-component-library-you-need-7e383a105a90
+- https://github.com/abhimanyuPathania/seven-guis
 
 ### Server side rendering
 
@@ -184,12 +196,13 @@
 - https://github.com/chec/commercejs-nextjs-demo-store
 - [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://github.com/dijonmusters/e-commerce-in-25-days)
 
-### Server components
+### Server component
 
 - https://dev.to/swyx/an-annotated-guide-to-the-react-server-components-demo-2a83
 - https://www.bitnative.com/2021/01/24/react-server-components-in-5-minutes
 - https://chan.dev/posts/react-server-components-announcement-notes
 - https://wooorm.com/server-components-mdx-demo
+- https://github.com/nikolasburk/server-components-demo-with-prisma + https://twitter.com/nikolasburk/status/1347231065602187272
 
 ### State management
 
@@ -277,7 +290,7 @@
 - https://github.com/Loeka1234/typescript-url-shortener-frontend
 - https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutorial-building-firebase-chat-app-react-hooks
 - [I created an open-source alternative to Google Analytics using React, Redux and Next](https://github.com/mikecao/umami) + https://medium.com/@caozilla/how-i-wrote-umami-in-30-days-a290372b80e4
-- [Plain-text note-taking app for the web with Markdown support.](https://github.com/taniarascia/takenote)
+- [Plain-text note-taking app for the web with Markdown support. TakeNote was created with TypeScript, React, Redux, Node, Express, Codemirror, Webpack, Jest, Cypress, Feather Icons, ESLint, and Mousetrap, among other awesome open-source software.](https://github.com/taniarascia/takenote)
 - https://github.com/jsolano/react-sudoku-solver
 - https://github.com/shaneosullivan/react-url-decoder
 - https://github.com/rogierslag/tools

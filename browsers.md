@@ -137,6 +137,12 @@
 - [Create modern cross-browser extensions with no build configuration.](https://github.com/cezaraugusto/extension-create)
 - [Posta is a tool for researching Cross-document Messaging communication. It allows you to track, explore and exploit postMessage vulnerabilities, and includes features such as replaying messages sent between windows within any attached browser.](https://github.com/benso-io/posta)
 - [A boilerplate project to quickly build a Chrome extension using TypeScript and React (built using webpack).](https://github.com/martellaj/chrome-extension-react-typescript-boilerplate)
+- [Screenity is a feature-packed screen and camera recorder for Chrome.](https://github.com/alyssaxuu/screenity)
+- [Transform all your mailto and tel link in a beautiful modal with more possibilities! Open directly Gmail, Outlook and Yahoo for emails; Telegram, WhatsApp or Skype for phone numbers.](https://github.com/manzinello/mailgo)
+- https://github.com/iamadamdev/bypass-paywalls-chrome
+- [The missing star history graph of github repos](https://github.com/timqian/star-history)
+- [Extension to block Service Workers registration in Chrome](https://github.com/clod81/block_service_workers)
+- [Chrome Extension to export all accessible cookies of the current Tab](https://github.com/cookiengineer/me-want-cookies)
 
 ### Bookmarklets
 
@@ -232,6 +238,20 @@ javascript: (() =>
 - [A Progressive Web App for local file sharing](https://github.com/RobinLinus/snapdrop)
 - https://github.com/delapuente/presentations#webrtc--web-components
 
+### Canvas
+
+- https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript
+- [A simple Christmas tree.](https://github.com/anvaka/atree)
+- [Screenshots with JavaScript](https://github.com/niklasvh/html2canvas)
+- https://github.com/raphamorim/awesome-canvas
+- https://github.com/Rich-Harris/yootils/blob/master/src/canvas/sprite.ts
+- [HTML5 Canvas implementation for NodeJS backed by Puppeteer.](https://github.com/pshihn/puppet-canvas)
+- https://github.com/tsayen/dom-to-image
+- [The better way to render text on HTML5 Canvas](https://github.com/geongeorge/Canvas-Txt)
+- https://github.com/sunify/canvas-playground
+- https://github.com/desandro/practical-ui-physics
+- [Canvas + JSX + Hooks](https://github.com/jchn/redraw)
+
 ### WebGL
 
 - https://github.com/davidwparker/programmingtil-webgl + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl
@@ -241,6 +261,14 @@ javascript: (() =>
 - https://formidable.com/blog/2021/future-ui
 - https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1
 - https://webglfundamentals.org + https://twitter.com/redblobgames/status/1369123816719360000
+- https://alain.xyz/blog/raw-webgl
+- [Minimal WebGL Library](https://github.com/oframe/ogl)
+- https://github.com/brunoimbrizi/interactive-particles
+- https://github.com/lesnitsky/webgl-month
+- https://github.com/rezaali/webgl-tutorial
+- https://github.com/rezaali/webgl-sketches
+- https://github.com/stackgl/webgl-workshop
+
 
 ### Headless
 
@@ -260,6 +288,9 @@ javascript: (() =>
 - https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-browsers-1
 - https://alan.norbauer.com/articles/browser-debugging-tricks
 - https://textslashplain.com/2020/09/25/web-debugging-watching-element-changes
+
+### Tools
+- [quiver is a modern, graphical editor for commutative and pasting diagrams, capable of rendering high-quality diagrams for screen viewing, and exporting to LaTeX](https://github.com/varkor/quiver)
   
 ### History
 
