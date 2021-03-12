@@ -305,15 +305,6 @@
 - https://twitter.com/AdamRackis/status/1232693680873467904
 - https://h3manth.com/new/blog/2020/nullish-coalescing-vs-logical-or
 
-### new IntersectionObserver()
-
-- [Using the Intersection Observer web API to improve performance.](https://www.growingwiththeweb.com/2018/01/intersection-observer.html)
-- [Intersection Observer by Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOmWeHkUz34FxIFP8I8X1ae)
-
-### new MutationObserver()
-
-- [syntax-fm-sticky-show-notes.user.js](https://gist.github.com/salembeats/8d1b73d2cf14ba012039ac844d0c79c6)
-
 ### new RegExp()
 
 - https://ihateregex.io/playground + https://ihateregex.io/cheatsheet
@@ -336,11 +327,6 @@
 - https://github.com/kevva/credit-card-regex
 - https://github.com/ziishaned/learn-regex
 - https://blog.superhuman.com/how-to-eliminate-regular-expression-denial-of-service + https://speakerdeck.com/lmt_swallow/revisiting-redos-a-rough-idea-of-data-exfiltration-by-redos-and-side-channel-techniques + https://twitter.com/y0n3uchy/status/1225008844809486336
-
-### new Worker()
-
-- [Why don't we just move all JS to a web worker?](https://twitter.com/dan_abramov/status/1234297789938589696) + https://docs.google.com/document/d/1nu0EcVNC3jtmUVWL8Gs5eCj2p_984kamNhG2nS9gOC0/edit#heading=h.e6n21l1n04rc
-- [Is ServiceWorker intended to be a SharedWorker that works offline?](https://twitter.com/jlongster/status/1241010515071111168)
 
 ### IndexDB
 
@@ -465,6 +451,7 @@
 - [webpack is all written on top of its own plugins](https://matheus1lva.substack.com/p/webpack-plugins)
 - [Cash is a cross-platform implementation of Unix shell commands written in straight ES6.](https://github.com/dthree/cash)
 - https://github.com/iamakulov/awesome-webpack-perf
+- https://www.learnwithjason.dev/lets-learn-esbuild
 
 ### Documentation
 

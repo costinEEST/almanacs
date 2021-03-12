@@ -189,6 +189,7 @@
 - https://dev.to/swyx/an-annotated-guide-to-the-react-server-components-demo-2a83
 - https://www.bitnative.com/2021/01/24/react-server-components-in-5-minutes
 - https://chan.dev/posts/react-server-components-announcement-notes
+- https://wooorm.com/server-components-mdx-demo
 
 ### State management
 
@@ -282,6 +283,7 @@
 - https://github.com/rogierslag/tools
 - [Invite-Only FOMO Auth with React & Firebase](https://github.com/fireship-io/invite-only-phone-auth)
 - [React, Next.js, and Firebase by building a social blogging community from scratch](https://github.com/fireship-io/next-firebase-course)
+- [70+ open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
 
 ### Testing
 
@@ -315,3 +317,4 @@
 - https://dusaitis.com/bundle-your-react-app-with-rollup-js
 - https://blog.jim-nielsen.com/2020/react-without-build-tools
 - https://github.com/rauschma/minimal-react
+- https://github.com/yakkomajuri/react-from-scratch

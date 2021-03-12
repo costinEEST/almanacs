@@ -9,9 +9,12 @@
 - http://rcvalle.blog/2020/09/16/rust-lang-exploit-mitigations
 - https://github.com/bedemiralp/how-do-they-use-x-at-y#rust
 
-### Books
+### Book
 
-https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=25122178
+- https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=25122178
+- https://github.com/cfsamson/book-green-threads-explained
+- https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+
 
 ### Community
 

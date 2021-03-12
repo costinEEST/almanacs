@@ -9,27 +9,22 @@
 ### Course
 
 - [Progressive Web App Training - Google Chrome Developers](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
-- https://www.udemy.com/course/create-custom-service-worker-without-ejecting-from-cra
 
 ### Case study
 
 - [Learn why and how other developers have used the web to create amazing web experiences for their users.](https://developers.google.com/web/showcase)
 - https://formidable.com/work/starbucks-progressive-web-app + https://realtalkjavascript.simplecast.com/episodes/episode-74-react-at-starbucks-with-cher
-- https://github.com/dominiccooney/Service-Worker-Performance
 - https://medium.com/samsung-internet-dev/improve-device-integration-for-your-web-app-in-just-a-few-minutes-cca413c4f0f
 
 ### Development
 
 - https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa
 - [Utilities for common patterns that help you build your Progressive Web App](https://github.com/thepassle/pwa-helpers)
-- https://dev.to/thepassle/the-mental-gymnastics-of-service-worker-257g
 - https://dev.to/thepassle/lessons-learned-building-a-covid-19-pwa-57fi
 - [Deploy a PWA to as an Android Package to the Google Play Store](https://github.com/fireship-io/169-pwa-trusted-web-activity)
 - [A boilerplate to create a complete journal system with backend, frontend, PWA and apps.](https://github.com/save91/my-journal)
 - https://github.com/PWA-POLICE/pwa-bugs
 - https://github.com/onderceylan/pwa-asset-generator
-- [Tips for working with ServiceWorker](https://github.com/popeindustries/sw-tips)
-- [ServiceWorker Testing made easy ](https://github.com/popeindustries/sw-tester)
 - https://github.com/google-developer-training/pwa-training-labs
 
 ### Demo
