@@ -139,6 +139,7 @@
 - [simplenoteapp First Impressions](https://twitter.com/jsjoeio/status/1354518287980371970)
 - [A list of Developer Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
 - https://blacusens.ro/2020/12/de-ce-sa-faci-un-curs-de-scris-si-cateva-recomandari
+- http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc + https://news.ycombinator.com/item?id=26394564
 
 ### Learning
 

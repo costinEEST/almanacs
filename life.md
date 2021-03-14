@@ -11,6 +11,7 @@
 - https://inquisitivebiologist.com/2020/06/18/book-review-desert-navigator-the-journey-of-an-ant
 - https://inquisitivebiologist.com/2020/08/19/book-review-the-secret-life-of-flies
 - https://www.sciencemag.org/news/2020/09/survive-frigid-nights-hummingbirds-cool-themselves-record-low-temperatures
+- https://www.youtube.com/c/MeatEaterTV/playlists
 
 ### Anatomy
 
@@ -100,3 +101,4 @@
 - https://blog.jessfraz.com/post/battery-day + https://twitter.com/jessfraz/status/1311086559832145921 + https://twitter.com/jessfraz/status/1308069671778750464 + https://silanano.com/news/futureofenergystorage + https://twitter.com/SilaGene/status/1301197888333123586
 - https://www.youtube.com/c/SabineHossenfelder/playlists
 - [Does anyone know of coursework / materials for optics that convey a good intuition for how light moves?](https://twitter.com/LauraDeming/status/1353031120326021126)
+- http://animatedengines.com + https://news.ycombinator.com/item?id=26368939

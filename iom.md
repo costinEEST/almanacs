@@ -28,6 +28,7 @@
 - [Less-techy: What is Web 3.0?](http://gavwood.com/web3lt.html)
 - [ĐApps: What Web 3.0 Looks Like](http://gavwood.com/dappsweb3.html)
 - https://github.com/francesco-strazzullo/ethereum-dapps-examples
+- [OrbitDB is a serverless, distributed, peer-to-peer database.](https://orbitdb.org) + https://news.ycombinator.com/item?id=26310094
 
 ### References
 
@@ -82,6 +83,9 @@
 
 - https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
 - https://www.mofi.net/nfts-blockchain-powered-art-trading-cards-music-and-more + https://opensea.io/assets/0xabefbc9fd2f806065b4f3c237d4b59d9a97bcac7/1953 + https://twitter.com/iamDCinvestor/status/1370362042616537090
+- https://seths.blog/2021/03/nfts-are-a-dangerous-trap
+- https://thehustle.co/why-nfts-are-suddenly-selling-for-millions-of-dollars
+- [Noah Bradley](https://rarible.com/thesinofman)
 
 ### Smart contracts
 

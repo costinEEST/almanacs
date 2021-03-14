@@ -30,6 +30,8 @@
 - [OpenID authenticated access to a static website hosted in an s3 bucket.](https://github.com/wolfeidau/website-openid-proxy)
 - https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf
 - https://scalesec.com/aws-series/best-practices-for-serverless-endpoints-on-aws
+- https://wellarchitectedlabs.com
+- https://aws.amazon.com/blogs/security/essential-security-for-everyone-building-a-secure-aws-foundation
 
 ### Google Cloud
 
@@ -58,6 +60,10 @@
 - https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
 - https://techcommunity.microsoft.com/t5/azure-security-center/become-an-azure-security-center-ninja/ba-p/1608761
 - https://github.com/ddneves/awesome-azure-learning
+
+### Cloudflare
+
+- https://areknawo.com/cloudflare-workers-the-best-serverless-faas-platform
 
 
 ### Platform independent

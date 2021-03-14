@@ -126,6 +126,7 @@
 - [A design tool for comparing colors.](https://bl.ocks.org/curran/c130b1d3d68a375c8eb41371f2c2a75b)
 - [A generator to create the "frosted glass aesthetic" which combines a partially transparent background with backdrop-filter to create the effect.](https://glassmorphism.com)
 - [VS Code extension that lets you open a CSS Flexbox cheatsheet directly in the editor.](https://github.com/dzhavat/css-flexbox-cheatsheet)
+- [Conic.css - nice, simple conic gradients](https://conic.style)
   
 ### TV
 

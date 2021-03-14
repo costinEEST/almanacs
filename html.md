@@ -37,6 +37,7 @@
 - https://kittygiraudel.com/2021/02/17/hiding-content-responsibly
 - https://github.com/fejes713/accessibility-guide
 - https://github.com/marcysutton/no-mouse-days
+- https://www.callumhart.com/blog/an-accessible-current-page-navigation-state
 
 ### <button></button>
 

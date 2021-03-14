@@ -13,6 +13,10 @@
 - [Sveltecasts](https://www.youtube.com/channel/UCIfNB1TN_Wh40hMh62Hcitw)
 - [Cypress Component Testing for Svelte - gleb bahmutov](https://www.youtube.com/playlist?list=PLP9o9QNnQuAa50lwW3cUql5sgdKIWkapp)
 
+### Development
+
+- [Svelte NodeGUI, a lightweight Electron alternative with native UI](https://github.com/nodegui/svelte-nodegui) + https://news.ycombinator.com/item?id=26361423
+
 ### Demo
 
 - https://github.com/geoffrich/svelte-stories

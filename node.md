@@ -46,6 +46,7 @@
 - [A serverless wrapper for the private Notion API. It provides fast and easy access to your Notion content. Ideal to make Notion your CMS.](https://github.com/splitbee/notion-api-worker)
 - https://github.com/afteracademy/nodejs-backend-architecture-typescript
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+- https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design + https://news.ycombinator.com/item?id=26225373
 
 ### Book
 
@@ -185,6 +186,7 @@
 - [a very small v8 javascript runtime for linux only](https://github.com/just-js/just)
 - [PNG image decoder and encoder written entirely in JavaScript](https://github.com/image-js/fast-png)
 - [Convert javascript fetch requests to curl](https://github.com/leoek/fetch-to-curl)
+- [Convert email newsletters into Atom feeds](https://github.com/leafac/kill-the-newsletter)
 
 ### Testing
 
