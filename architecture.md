@@ -18,6 +18,7 @@
 - https://blas.com/tag/architecture
 - [Universe of Stone: Chartres Cathedral and the Triumph of the Medieval Mind - Philip Ball](https://www.amazon.co.uk/Universe-Stone-Chartres-Cathedral-Medieval/dp/0099499444)
 - [Thinking Architecture, 3rd Edition: Zumthor, Peter](https://www.amazon.com/gp/product/3034605854)
+- [The Art of Classic Planning: Building Beautiful and Enduring Communities: Buras, Nir Haim](https://www.amazon.com/Art-Classic-Planning-Beautiful-Communities/dp/0674919246)
 
 ### Brochures
 

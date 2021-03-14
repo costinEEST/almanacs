@@ -36,6 +36,7 @@
 - [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av)
 - https://kittygiraudel.com/2021/02/17/hiding-content-responsibly
 - https://github.com/fejes713/accessibility-guide
+- https://github.com/marcysutton/no-mouse-days
 
 ### <button></button>
 
@@ -147,3 +148,4 @@
 - https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode
 - https://mathiasbynens.be/notes/javascript-unicode
 - https://gosecure.github.io/presentations/2020-05-unicode-northsec/unicode_v3_northsec.pdf + https://twitter.com/Agarri_FR/status/1264295901834752001
+- https://vladris.com/blog/2018/11/18/notes-on-encoding-text.html

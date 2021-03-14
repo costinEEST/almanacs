@@ -45,8 +45,9 @@
 - [API library for Node.js that interacts with the Philips Hue Bridge to control Lights, schedules, sensors and the various other features of the Hue Bridge.](https://github.com/peter-murray/node-hue-api)
 - [A serverless wrapper for the private Notion API. It provides fast and easy access to your Notion content. Ideal to make Notion your CMS.](https://github.com/splitbee/notion-api-worker)
 - https://github.com/afteracademy/nodejs-backend-architecture-typescript
+- [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
 
-### Books
+### Book
 
 - [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
 - https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing-in-nodejs
@@ -98,7 +99,7 @@
 - https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood
 - https://joshtronic.com/2021/01/17/recursively-create-directories-with-nodejs
 
-### Talks
+### Cinema
 
 - [MNUG - Munich NodeJS User Group](http://mnug.de/videos.html)
 - https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine
@@ -108,6 +109,7 @@
 
 ### Course
 
+- https://github.com/wolfejw86/architecture-learning-path
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide
 - https://www.udemy.com/course/nestjs-zero-to-hero/
 - https://www.udemy.com/course/nestjs-course/
@@ -119,6 +121,7 @@
 - https://github.com/cmda-bt/be-course-17-18
 - https://jamesqquick.hashnode.dev/build-an-authenticated-jamstack-app-with-nextjs-airtable-tailwind-css-and-auth0
 - [7-month web development program covering HTML, CSS, Javascript, Node, and React!](https://github.com/HackYourFuture/curriculum)
+- [Rapid API Development with NodeJS, Fastify, Postgresql, and Swagger ~ Jay Wolfe](https://www.youtube.com/playlist?list=PLU_22oKqONin7yagFMm3x1tJihYaIVVwa) + https://jaywolfe.dev/blog/rapidly-build-a-nodejs-rest-api-with-fastify-postgresql-and-swagger-documentation
 
 ### Cheat sheets
 
@@ -214,6 +217,8 @@
 - https://github.com/known-css/known-css-properties
 - https://github.com/BruceDone/awesome-crawler#javascript
 - https://github.com/JonasCz/How-To-Prevent-Scraping
+- https://github.com/adamschwartz/web.scraper.workers.dev
+
 
 ### Micro services
 
@@ -269,6 +274,7 @@
 - https://github.com/erikkroes/corona-roadmap
 - https://github.com/google/eleventy-high-performance-blog
 - [Source code for mxb.dev, built with Eleventy.](https://github.com/maxboeck/mxb)
+- https://jaywolfe.dev/blog/how-i-quickly-create-static-website-hosting-using-only-an-aws-s3-bucket
 
 
 ### Serverless

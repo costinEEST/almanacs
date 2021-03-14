@@ -178,6 +178,7 @@
 - https://twitter.com/sseraphini/status/1326864292868665352
 - https://js.plainenglish.io/chakra-the-react-component-library-you-need-7e383a105a90
 - https://github.com/abhimanyuPathania/seven-guis
+- [Evolution simulator using simple 2D physics.](https://github.com/jefflinse/critters)
 
 ### Server side rendering
 

@@ -37,6 +37,7 @@
 - [Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 - https://github.com/GokuMohandas/madewithml
 - https://github.com/chiphuyen/machine-learning-systems-design
+- https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
 ### Tools
 

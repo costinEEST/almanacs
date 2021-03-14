@@ -42,3 +42,4 @@
 - https://www.svgbackgrounds.com
 - [Free svg background generator for your websites, blogs and app.](https://bgjar.com)
 - https://getloaf.io/blog/where-are-all-the-animated-svgs
+- https://twitter.com/JoshWComeau/status/1329507065908367363 + https://notchris.net/patterns

@@ -47,6 +47,7 @@
 - https://medium.com/consensys-diligence
 - https://www.freecodecamp.org/news/build-a-blockchain-in-golang-from-scratch
 - [Blockchain Cryptocurrency Implemented with Node & TypeScript](https://github.com/fireship-io/node-blockchain)
+- [A blockchain implementation in 200 lines of code](https://github.com/lhartikk/naivechain)
 
 ### Boilerplate
 
@@ -76,6 +77,11 @@
 
 - https://github.com/jashmenn/bitcoin-reading-list
 - [How to keep bitcoin running in offline environments.](https://twitter.com/nwoodfine/status/1214238101796638721)
+
+### Non fungible tokens
+
+- https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
+- https://www.mofi.net/nfts-blockchain-powered-art-trading-cards-music-and-more + https://opensea.io/assets/0xabefbc9fd2f806065b4f3c237d4b59d9a97bcac7/1953 + https://twitter.com/iamDCinvestor/status/1370362042616537090
 
 ### Smart contracts
 

@@ -17,6 +17,7 @@
 - [Exercises in Programming Style](http://tagide.com/EPSBook)
 - https://github.com/thewhitetulip/build-app-with-python-antitextbook
 - https://www.debuggingbook.org + https://www.youtube.com/playlist?list=PL6dh-k4faL8ok2aD64kEm6zmUPbfTznJy
+- https://opendatascience.com/dissecting-the-software-designing-approach-of-design-by-contract + https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214
 
 ### Bots
 
@@ -48,6 +49,7 @@
 - https://github.com/ForrestKnight/open-source-cs-python
 - https://www.freecodecamp.org/news/opencv-full-course
 - https://github.com/trekhleb/learn-python
+- https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform
 
 ### Data structures
 
@@ -80,6 +82,8 @@
 - https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb
 - https://thehazarika.com/blog/programming/how-to-reverse-engineer-web-apps
 - https://www.samueltaylor.org/articles/speed-up-web-scraping.html
+- [Tinkerer is a blogging engine/static website generator powered by Sphinx.](https://github.com/vladris/tinkerer)
+- [Sunfish: a Python Chess Engine in 111 lines of code](https://github.com/thomasahle/sunfish)
 
 
 ### Security

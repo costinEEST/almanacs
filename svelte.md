@@ -4,12 +4,7 @@
 - https://github.com/sveltejs/community
 - [Tan Li Hau](https://www.youtube.com/channel/UCbmC3HP3FaAFdcZkui8YoMQ/playlists)
 
-
-### Portfolios
-
-- https://github.com/doppelganger9/blog
-
-### Talks
+### Cinema
 
 - https://www.slideshare.net/ChristofferNoring/learning-svelte
 - [Compile Svelte in your head (Part 1)](https://twitter.com/lihautan/status/1235004722970390529)
@@ -18,6 +13,16 @@
 - [Sveltecasts](https://www.youtube.com/channel/UCIfNB1TN_Wh40hMh62Hcitw)
 - [Cypress Component Testing for Svelte - gleb bahmutov](https://www.youtube.com/playlist?list=PLP9o9QNnQuAa50lwW3cUql5sgdKIWkapp)
 
+### Demo
+
+- https://github.com/geoffrich/svelte-stories
+
+
+### Portfolio
+
+- https://github.com/doppelganger9/blog
+
+
 ### Miscellaneous
 
 - https://github.com/ryanatkn/awesome-svelte-resources
@@ -25,7 +30,7 @@
 - https://lihautan.com/the-svelte-compiler-handbook
 - https://github.com/codechips/svelte-parcel-vs-rollup-vs-webpack
 
-### Opinions
+### Opinion
 
 - [Why Svelte is our choice for a large web project in 2020.](https://github.com/feltcoop/why-svelte)
 - https://www.ryanprior.com/posts/svelte-is-unappealing

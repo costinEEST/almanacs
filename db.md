@@ -19,6 +19,7 @@
 - https://www.sqlhabit.com/blog/posts/how-to-detect-recurring-payments-with-sql
 - https://blog.bradfieldcs.com/how-to-learn-about-database-systems-40c7432f471d
 - [Introduction to Databases - Jennifer Widom - Stanford](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0)
+- https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free
 
 ### Tools
 

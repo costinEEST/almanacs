@@ -10,6 +10,7 @@
 ### Artificial intelligence
 
 - [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)
+- [True Positive Weekly](https://aiweekly.substack.com/archive)
 
 ### Books
 

@@ -17,6 +17,7 @@
 - https://blcsystems.com/red-hat-free-courses
 - https://www.reddit.com/r/linuxupskillchallenge + https://news.ycombinator.com/item?id=24380969
 - [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux) + https://news.ycombinator.com/item?id=26002335
+- https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation
 
 ### Containers
 

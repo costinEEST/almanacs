@@ -1,4 +1,4 @@
-### Courses
+### Course
 
 - https://www.udemy.com/course/understanding-typescript
 - [Typed Functional Programming in Typescript](https://typescript.fun)
@@ -13,11 +13,12 @@
 - [Typed functional programming in TypeScript in five minutes](https://github.com/typescript-fun/five-minutes-demo)
 - How domain modeling can help us to make our apps consistent & safe: [repo](https://github.com/gillchristian/modeling) + [slides](https://modeling.now.sh/)
 
-### Books
+### Book
 
 - http://orta.io/notes/recommendations/books#TypeScript
 - https://learning.oreilly.com/library/view/effective-typescript/9781492053736 + https://twitter.com/AdamRackis/status/1366058541925113863 + https://github.com/danvk/literate-ts
 - https://github.com/enricopolanski/functional-programming
+- https://vladris.com/blog/2019/04/28/programming-with-types.html
 
 ### Cinema
 
@@ -37,6 +38,7 @@
 - https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale + https://youtu.be/B4_SlXkGDd4
 - https://github.com/bedemiralp/how-do-they-use-x-at-y#typescript
 - [TypeScript toolkit for building end-to-end typesafe APIs](https://github.com/trpc/trpc)
+- [Create TypeScript based NPM Packages with CI/CD Automatic Publishing Through Github Actions](https://github.com/wolfejw86/my-awesome-package-test)
 
 ### Practice
 
