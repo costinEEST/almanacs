@@ -46,6 +46,7 @@
 - [How to C in 2016](https://matt.sh/howto-c)
 - https://github.com/mkirchner/linked-list-good-taste + [Linus Torvalds' linked list argument for good taste, explained](https://news.ycombinator.com/item?id=25326552)
 - https://skeeto.s3.amazonaws.com/share/onward17-essays2.pdf
+- [It's not OK to ship software in memory-unsafe languages.](https://twitter.com/tqbf/status/1354170650806657024)
 
 ### References
 
@@ -64,3 +65,7 @@
 - [Minimalist C Libraries](https://nullprogram.com/blog/2018/06/10)
 - [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo) + https://news.ycombinator.com/item?id=25712949
 - https://www.freecodecamp.org/news/boost-programming-skills-read-git-code
+
+### Security
+
+- [Baron Samedit: Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)

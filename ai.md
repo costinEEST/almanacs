@@ -38,6 +38,7 @@
 - https://github.com/GokuMohandas/madewithml
 - https://github.com/chiphuyen/machine-learning-systems-design
 - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+- https://github.com/hoya012/awesome-anomaly-detection
 
 ### Tools
 

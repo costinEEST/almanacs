@@ -76,6 +76,7 @@
 - https://github.com/mddanishyusuf/gumroad-coffee-template
 - https://github.com/ryands17/fastify-prisma
 - https://github.com/timsuchanek/covid19-vaccinations-prisma
+- [A setup for a node express api with typescript](https://github.com/tommarien/ts-node-api-2019)
 
 ### Debugging
 
@@ -220,6 +221,7 @@
 - https://github.com/BruceDone/awesome-crawler#javascript
 - https://github.com/JonasCz/How-To-Prevent-Scraping
 - https://github.com/adamschwartz/web.scraper.workers.dev
+- https://github.com/microsoft/TypeScript-DOM-lib-generator
 
 
 ### Micro services

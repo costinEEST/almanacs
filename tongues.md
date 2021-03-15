@@ -59,6 +59,7 @@
 - https://www.inverse.com/innovation/neural-stimulation-language-device
 - https://github.com/RichardLitt/low-resource-languages
 - http://languagestolearn.com/resources
+- https://psyche.co/guides/how-to-approach-the-lifelong-project-of-language-learning
 
 ### Communities
 

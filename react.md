@@ -39,6 +39,7 @@
 - https://github.com/wutali/nextjs-netlify-blog-template
 - https://github.com/joelhooks/next-typescript-tailwind-mdx-starter
 - https://github.com/helloiamelliot/elliot-serverless-ecommerce
+- https://github.com/tommarien/react-playground
 
 ### Books
 

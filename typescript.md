@@ -7,6 +7,7 @@
 ### Community
 
 - [Remo Jansen](https://www.remojansen.com/#talks)
+- [Stefan Baumgartner](https://fettblog.eu/archive/typescript)
 
 ### Presentations
 
@@ -39,6 +40,7 @@
 - https://github.com/bedemiralp/how-do-they-use-x-at-y#typescript
 - [TypeScript toolkit for building end-to-end typesafe APIs](https://github.com/trpc/trpc)
 - [Create TypeScript based NPM Packages with CI/CD Automatic Publishing Through Github Actions](https://github.com/wolfejw86/my-awesome-package-test)
+- https://github.com/bcherny/json-schema-to-typescript
 
 ### Practice
 

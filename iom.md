@@ -86,6 +86,7 @@
 - https://seths.blog/2021/03/nfts-are-a-dangerous-trap
 - https://thehustle.co/why-nfts-are-suddenly-selling-for-millions-of-dollars
 - [Noah Bradley](https://rarible.com/thesinofman)
+- [What are NFTs and why are some worth millions?](https://www.bbc.com/news/technology-56371912)
 
 ### Smart contracts
 

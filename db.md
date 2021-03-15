@@ -118,3 +118,4 @@
 - [What are some examples of good database schema designs?](https://news.ycombinator.com/item?id=22324691)
 - https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html#rule-11-which-database-technology-to-choose
 - https://metaduck.com/the-history-of-databases-a-summary
+- https://github.com/pingcap/awesome-database-learning
