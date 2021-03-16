@@ -25,7 +25,7 @@
 - [A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems.](https://github.com/gellin/bantam)
 - https://www.codediesel.com/php/quickly-extract-urls-from-a-xml-sitemap-file
 - [World countries in JSON, CSV, XML and Yaml. Any help is welcome!](https://github.com/mledoze/countries)
-
+- [Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.](https://github.com/serbanghita/Mobile-Detect)
 
 ### Security
 

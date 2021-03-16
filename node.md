@@ -47,6 +47,7 @@
 - https://github.com/afteracademy/nodejs-backend-architecture-typescript
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
 - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design + https://news.ycombinator.com/item?id=26225373
+- [Instagram clone made with NodeJS & Express & Prisma](https://github.com/filippobarcellos/instagram-clone-api)
 
 ### Book
 
@@ -77,6 +78,7 @@
 - https://github.com/ryands17/fastify-prisma
 - https://github.com/timsuchanek/covid19-vaccinations-prisma
 - [A setup for a node express api with typescript](https://github.com/tommarien/ts-node-api-2019)
+- https://github.com/vagr9k/gatsby-advanced-starter
 
 ### Debugging
 
@@ -188,6 +190,7 @@
 - [PNG image decoder and encoder written entirely in JavaScript](https://github.com/image-js/fast-png)
 - [Convert javascript fetch requests to curl](https://github.com/leoek/fetch-to-curl)
 - [Convert email newsletters into Atom feeds](https://github.com/leafac/kill-the-newsletter)
+- [Ultra-fast MessagePack implementation with extension for record and structural cloning](https://github.com/kriszyp/msgpackr) + https://dev.doctorevidence.com/building-the-fastest-js-de-serializer-a413a2b4fb72
 
 ### Testing
 
@@ -280,6 +283,7 @@
 - [Source code for mxb.dev, built with Eleventy.](https://github.com/maxboeck/mxb)
 - https://jaywolfe.dev/blog/how-i-quickly-create-static-website-hosting-using-only-an-aws-s3-bucket
 - https://github.com/leandrotk/publisher + https://www.freecodecamp.org/news/automating-my-blog-posts-publishing-process-with-typescript
+- [‎Personal website running on Gatsby, React, and Node](https://github.com/taniarascia/taniarascia.com)
 
 
 ### Serverless

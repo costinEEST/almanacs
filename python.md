@@ -51,6 +51,10 @@
 - https://github.com/trekhleb/learn-python
 - https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform
 
+### Cinema
+
+- https://github.com/s16h/py-must-watch
+
 ### Data structures
 
 - https://akshayr.me/blog/articles/python-dictionaries

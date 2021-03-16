@@ -66,6 +66,7 @@
 - https://tobireif.com/posts/observing_changes_using_ES6_proxies
 - [Functional Core, Imperative Shell ~ Lachlan Miller](https://www.youtube.com/playlist?list=PLC2LZCNWKL9a7b7Ufx0ngo9xH_b8j9ZlA)
 - https://github.com/you-dont-need/You-Dont-Need-Loops
+- https://github.com/lucamezzalira/awesome-reactive-programming
 
 ### TIL
 
@@ -233,6 +234,7 @@
 - https://twitter.com/jasnell/status/1252999617190391808 + https://eng.lifion.com/promise-allpocalypse-cfb6741298a7
 - https://medium.com/@arsenyyankovsky/effective-limited-parallel-execution-in-javascript-ea2a1fb9a632 + https://www.npmjs.com/package/@supercharge/promise-pool
 - https://advancedweb.hu/what-is-the-async-disposer-pattern-in-javascript
+- [how to handle api timeout using fetch](https://gist.github.com/sibelius/624ebc0e1a7e4784140b78f4b214e9f5)
 
 ### async await
 

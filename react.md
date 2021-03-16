@@ -300,6 +300,7 @@
 - [Invite-Only FOMO Auth with React & Firebase](https://github.com/fireship-io/invite-only-phone-auth)
 - [React, Next.js, and Firebase by building a social blogging community from scratch](https://github.com/fireship-io/next-firebase-course)
 - [70+ open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
+- [Instagram clone built with React & React Query](https://github.com/filippobarcellos/instagram-clone-react)
 
 ### Testing
 
@@ -320,6 +321,8 @@
 - [A book on outside-in test driven development on the frontend, in React and Vue.](https://outsidein.dev)
 - https://github.com/jfairbank/redux-saga-test-plan
 - https://leandrotk.github.io/2020/06/ux-studies-with-react-typescript-and-testing-library/index.html + https://github.com/leandrotk/react-testing-library-recipes + https://leandrotk.github.io/2020/10/basic-recipes-for-react-testing-library
+- https://gumroad.com/l/beginners-guide-to-react-testing
+- https://github.com/kentcdodds/react-testing-library-examples
 
 ### Tooling
 

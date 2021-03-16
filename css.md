@@ -91,7 +91,7 @@
 - https://polypane.app/blog/faking-container-queries-with-css-grid
 - https://fjolt.com/article/a-guide-to-css-grid
 
-### Demos
+### Demo
 
 - https://csslayout.io/patterns
 - [Basic todo app functionality without using JavaScript.](https://github.com/mattzeunert/CSS-Todo-App)
@@ -102,6 +102,7 @@
 - https://codepen.io/2020/popular/pens/10
 - [13 Tips to improve Landing Page Design.](https://twitter.com/IndieHackers/status/1358746146508845058)
 - https://dev.to/karmasakshi/make-your-pwas-look-handsome-on-ios-1o08
+- https://github.com/l-hammer/You-need-to-know-css
 
 ### Layout
 

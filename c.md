@@ -65,6 +65,7 @@
 - [Minimalist C Libraries](https://nullprogram.com/blog/2018/06/10)
 - [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo) + https://news.ycombinator.com/item?id=25712949
 - https://www.freecodecamp.org/news/boost-programming-skills-read-git-code
+- [The Success and Failure of Ninja](http://neugierig.org/software/blog/2020/05/ninja.html)
 
 ### Security
 

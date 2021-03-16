@@ -102,3 +102,4 @@
 - https://www.youtube.com/c/SabineHossenfelder/playlists
 - [Does anyone know of coursework / materials for optics that convey a good intuition for how light moves?](https://twitter.com/LauraDeming/status/1353031120326021126)
 - http://animatedengines.com + https://news.ycombinator.com/item?id=26368939
+- https://github.com/Apress/physics-for-javascript-games-animation-simulations
