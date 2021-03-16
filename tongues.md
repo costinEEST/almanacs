@@ -127,6 +127,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - [An introduction to Japanese](https://pomax.github.io/nrGrammar)
 - https://tynan.com/done-with-kanji
 - https://www.lingq.com/blog/how-to-learn-japanese-with-lingq
+- https://github.com/leandrotk/nihongo
 
 ### Korean
 

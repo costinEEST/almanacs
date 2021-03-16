@@ -14,6 +14,7 @@
 - https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=25122178
 - https://github.com/cfsamson/book-green-threads-explained
 - https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+- https://github.com/lambda-magic/plt-books/tree/master/Rust
 
 
 ### Community

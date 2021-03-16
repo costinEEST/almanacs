@@ -17,6 +17,7 @@
 ### Book
 
 - http://orta.io/notes/recommendations/books#TypeScript
+- [Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://github.com/danvk/effective-typescript)
 - https://learning.oreilly.com/library/view/effective-typescript/9781492053736 + https://twitter.com/AdamRackis/status/1366058541925113863 + https://github.com/danvk/literate-ts
 - https://github.com/enricopolanski/functional-programming
 - https://vladris.com/blog/2019/04/28/programming-with-types.html
@@ -41,6 +42,7 @@
 - [TypeScript toolkit for building end-to-end typesafe APIs](https://github.com/trpc/trpc)
 - [Create TypeScript based NPM Packages with CI/CD Automatic Publishing Through Github Actions](https://github.com/wolfejw86/my-awesome-package-test)
 - https://github.com/bcherny/json-schema-to-typescript
+- https://github.com/leandrotk/thinking-in-types + https://github.com/leandrotk/advanced-typescript
 
 ### Practice
 

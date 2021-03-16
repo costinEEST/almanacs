@@ -27,6 +27,7 @@
 - https://github.com/onderceylan/pwa-asset-generator
 - https://github.com/google-developer-training/pwa-training-labs
 - https://github.com/GeekyAndFun/pwa-docs
+- https://leandrotk.github.io/2021/01/optimizing-the-performance-of-a-react-progressive-web-app/index.html
 
 ### Demo
 

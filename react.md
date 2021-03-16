@@ -40,6 +40,7 @@
 - https://github.com/joelhooks/next-typescript-tailwind-mdx-starter
 - https://github.com/helloiamelliot/elliot-serverless-ecommerce
 - https://github.com/tommarien/react-playground
+- https://github.com/flarnie/Intro-To-React-And-TypeScript
 
 ### Books
 
@@ -318,6 +319,7 @@
 - https://kentcdodds.com/blog/stop-mocking-fetch
 - [A book on outside-in test driven development on the frontend, in React and Vue.](https://outsidein.dev)
 - https://github.com/jfairbank/redux-saga-test-plan
+- https://leandrotk.github.io/2020/06/ux-studies-with-react-typescript-and-testing-library/index.html + https://github.com/leandrotk/react-testing-library-recipes + https://leandrotk.github.io/2020/10/basic-recipes-for-react-testing-library
 
 ### Tooling
 
@@ -333,3 +335,4 @@
 - https://blog.jim-nielsen.com/2020/react-without-build-tools
 - https://github.com/rauschma/minimal-react
 - https://github.com/yakkomajuri/react-from-scratch
+- https://github.com/HearTao/ts-react-hooks-tools

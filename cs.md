@@ -46,6 +46,8 @@
 - https://hackernoon.com/5-books-that-ramp-up-your-systems-thinking-ability-74fa76f86dce
 - https://thoughtbot.com/playbook
 - https://twitter.com/lhochstein/status/1299169229531357184
+- [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)
+
 
 ### TIL
 
@@ -81,6 +83,7 @@
 - https://interviews.school
 - https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager
 - https://www.forbes.com/sites/carminegallo/2020/11/01/watch-bill-gates-give-brilliant-30-second-answers-to-common-job-interview-questions 
+- https://github.com/mgechev/google-interview-preparation-problems
 
 ### Practice
 
@@ -108,7 +111,6 @@
 - https://github.com/gruhn/awesome-naming
 - https://github.com/charlax/professional-programming
 - https://github.com/computationclub/computationclub.github.io
-- [Path to a Software Architect ](https://github.com/justinamiller/SoftwareArchitect)
 - https://github.com/joho/awesome-code-review
 - [History of Science - Development of Algorithms](https://cgi.csc.liv.ac.uk/~ped/teachadmin/histsci/content.html)
 - https://github.com/vicoyeh/One-Click-to-Be-Pro

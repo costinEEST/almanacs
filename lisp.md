@@ -1,6 +1,7 @@
 ### Books
 
 - https://github.com/ashok-khanna/common-lisp-by-example
+- https://github.com/lambda-magic/plt-books/tree/master/Lisp
 
 ### Opinions
 

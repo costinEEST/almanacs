@@ -279,6 +279,10 @@ javascript: (() =>
 - https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison
 - [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
 
+### Performance
+
+- https://github.com/leandrotk/web-performance-studies
+
 ### Miscellaneous
 
 - https://github.com/vasanthk/how-web-works
@@ -289,7 +293,7 @@ javascript: (() =>
 - https://alan.norbauer.com/articles/browser-debugging-tricks
 - https://textslashplain.com/2020/09/25/web-debugging-watching-element-changes
 
-### Tools
+### Tool
 - [quiver is a modern, graphical editor for commutative and pasting diagrams, capable of rendering high-quality diagrams for screen viewing, and exporting to LaTeX](https://github.com/varkor/quiver)
   
 ### History

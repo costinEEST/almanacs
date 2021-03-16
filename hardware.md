@@ -16,6 +16,7 @@
 ### Community
 
 - http://mightyohm.com/wiki
+- https://github.com/mhxion/awesome-discord-communities#electrical
 
 ### Courses
 

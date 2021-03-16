@@ -54,3 +54,4 @@
 - https://iandunn.name/2020/04/24/array-of-countries-indexed-by-continent
 - https://www.codediesel.com/php/reading-ssl-certificates-in-php
 - https://github.com/alexeymezenin/laravel-best-practices
+- https://github.com/cyberglot/awesome-answers#php

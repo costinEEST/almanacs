@@ -131,10 +131,10 @@
 - https://github.com/dexteryy/spellbook-of-modern-webdev#nodejs
 - https://github.com/ArturJS/nodejs-certification-preparation
 - https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners
-- [Project for learning Node.js internals](https://github.com/danbev/learning-nodejs)
 
 ### Internals
 
+- [Project for learning Node.js internals](https://github.com/danbev/learning-nodejs)
 - https://blog.s1h.org/inside-node-executing-a-script
 - https://blog.logrocket.com/node-js-crypto-module-a-tutorial
 - [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
@@ -279,6 +279,7 @@
 - https://github.com/google/eleventy-high-performance-blog
 - [Source code for mxb.dev, built with Eleventy.](https://github.com/maxboeck/mxb)
 - https://jaywolfe.dev/blog/how-i-quickly-create-static-website-hosting-using-only-an-aws-s3-bucket
+- https://github.com/leandrotk/publisher + https://www.freecodecamp.org/news/automating-my-blog-posts-publishing-process-with-typescript
 
 
 ### Serverless

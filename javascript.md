@@ -107,6 +107,7 @@
 - https://gumroad.com/l/jstestingbeginners
 - https://github.com/PacktPublishing/Hands-on-JavaScript-for-Python-Developers
 - https://github.com/javascript-society/javascript-path
+- https://github.com/qcmaude/refactoring-at-scale
 
 ### Course
 
@@ -378,6 +379,7 @@
 - [Using deferred promise to test websockets](https://gist.github.com/sibelius/ffa492c5b08eb11d1d818374150a3295) + https://twitter.com/sseraphini/status/1318241910738325510
 - https://github.com/JanVanRyswyck/awesome-talks#test-driven-development
 - [Software quality and software testing.](https://github.com/ligurio/software-quality-wiki/wiki)
+- https://github.com/NoriSte/ui-testing-best-practices
 
 ### Virtual machines
 
