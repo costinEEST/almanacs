@@ -23,7 +23,7 @@
 - https://dwayne.xyz/post/audio-visualizations-web-audio-api
 - [Digital sound processing tutorial for the braindead!](http://yehar.com/blog/?p=121) + https://news.ycombinator.com/item?id=25024835
 
-### Tools
+### Tool
 
 - [FATpick is the tab player that listens.](https://www.fatpick.com/learn-to-play-guitar)
 - [Turn your browser into an audio recorder.](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
@@ -40,6 +40,7 @@
 - [Klio is an ecosystem that allows you to process audio files – or any binary files – easily and at scale.](https://github.com/spotify/klio)
 - [JackTrip WebRTC: high quality, uncompressed, ultra-low delay audio streaming](https://github.com/JackTrip-webrtc/JackTrip-webrtc)
 - https://pitchfork.com/thepitch/decolonizing-electronic-music-starts-with-its-software + https://twitter.com/tarikbarri/status/1365629440697507841
+- [Free full-featured web-based audio & waveform editing tool](https://github.com/pkalogiros/AudioMass)
 
 
 ### TV

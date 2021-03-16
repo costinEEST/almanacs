@@ -57,6 +57,7 @@
 - [TypeScript vs. PureScript vs. ReasonML vs. Elm](https://hasura.io/blog/why-we-chose-typescript-for-hasura-console)
 - https://typing-is-hard.ch
 - https://valand.dev/blog/post/from-rust-to-typescript
+- [Generics or Type Assertion?](https://twitter.com/wesbos/status/1369673186720309249)
 
 ### Patterns
 

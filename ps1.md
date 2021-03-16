@@ -1,6 +1,7 @@
 ### Resources
 
 - https://diablohorn.com/2016/02/06/powershell-overview-and-introduction
+- https://github.com/alexcoman/labs/tree/master/powershell
 
 ### Opinions
 

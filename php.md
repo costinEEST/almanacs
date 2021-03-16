@@ -1,3 +1,8 @@
+### Cinema
+
+- [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://www.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)
+
+
 ### Patterns
 
 - https://github.com/kamranahmedse/design-patterns-for-humans
@@ -8,21 +13,19 @@
 
 - [Intro to PHP Deserialization / Object Injection](https://youtu.be/HaW15aMzBUM)
 
-### Packages
+### Package
 
 - [CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very usefull when you're sending emails.](https://github.com/tijsverkoyen/CssToInlineStyles)
 
-### Tools
+### Tool
 
 - http://xml.mherman.org
 - [PHP Secure Configuration Checker.](https://github.com/sektioneins/pcc)
 - [Laravel setup using Docker - Andrew Schmelyun](https://www.youtube.com/playlist?list=PL36CGZHZJqsWXjf4GeQBLUl7CK1dodKuC)
 - [A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems.](https://github.com/gellin/bantam)
 - https://www.codediesel.com/php/quickly-extract-urls-from-a-xml-sitemap-file
+- [World countries in JSON, CSV, XML and Yaml. Any help is welcome!](https://github.com/mledoze/countries)
 
-### TV
-
-- [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://www.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)
 
 ### Security
 

@@ -333,7 +333,7 @@
 ### Single-page application
 
 - [io-ts is an integral part of building any well-behaved, robust SPA client](https://twitter.com/garybernhardt/status/1220115502162272256)
-- [A case study on viable techniques for vanilla web development. ](https://github.com/morris/vanilla-todo)
+- [A case study on viable techniques for vanilla web development.](https://github.com/morris/vanilla-todo)
 
 ### Web Components
 
@@ -361,6 +361,7 @@
 - [Vanilla Web Components. A place for framework-free, transpiler-free, scaffolding-free web components.](https://github.com/vanillawc/vanillawc)
 - https://github.com/Apress/frameworkless-front-end-development 
 - [A tiny color picker custom element for modern web apps (2.7 KB)](https://github.com/web-padawan/vanilla-colorful)
+- https://github.com/WICG/virtual-scroller
 
 ### Testing
 

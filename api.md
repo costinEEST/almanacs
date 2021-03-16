@@ -18,6 +18,7 @@
 - [Backup your Slack chat messages (direct messages, group messages, joined channels) to your local computer without any extra permissions or apps.](https://github.com/t-tran/slack-chat-backup)
 - [Find books from Google Play Books](https://github.com/liyasthomas/books)
 - [This app uses the API of other websites and gives you an RSS feed in return.](https://github.com/stefansundin/rssbox)
+- https://github.com/adyz/youtube-parse-history
 
 ### GraphQL
 

@@ -7,6 +7,7 @@
 - https://elder.dev/posts/safer-bash
 - https://betterdev.blog/minimal-safe-bash-script-template + https://news.ycombinator.com/item?id=25428621
 - https://drewdevault.com/2020/12/12/Shell-literacy.html + https://news.ycombinator.com/item?id=25399058
+- https://github.com/alexcoman/labs/tree/master/bash
 
 ### Books
 
