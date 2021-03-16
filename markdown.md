@@ -4,6 +4,7 @@
 - https://begriffs.com/posts/2020-07-16-generating-mime-email.html + https://github.com/begriffs/mimedown
 - [A PHP tool that helps you write eBooks in markdown and convert to PDF.](https://github.com/themsaid/ibis)
 - [Fusuma makes slides with Markdown easily.](https://github.com/hiroppy/fusuma)
+- [Convert a single markdown file into lectures, slides, and outlines.](https://github.com/bmschmidt/MarkdownLectures)
 
 ### References
 

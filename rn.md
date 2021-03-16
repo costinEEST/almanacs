@@ -75,6 +75,7 @@
 - https://engineering.tableau.com/react-native-performance-learnings-85f47ba38acb
 - [Electron vs C++ vs RN](https://twitter.com/tanaypratap/status/1313309380398391296)
 - https://blog.crowdbotics.com/react-native-performance-do-and-dont
+- https://blog.inkdrop.info/how-i-improved-my-react-native-app-50x-faster-13d566061e84
 
 ### Applications
 

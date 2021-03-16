@@ -162,6 +162,7 @@
 - https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis
 - [Cache your CORS, for performance & profit](https://httptoolkit.tech/blog/cache-your-cors)
 - https://jeffy.info/2019/07/22/exposing-cors-headers.html
+- https://dewcode.medium.com/finding-bugs-at-limited-scopes-programs-single-domain-websites-d3c2ff396edf
 
 ### HTTPS
 

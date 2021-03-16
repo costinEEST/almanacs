@@ -47,6 +47,10 @@
 - https://github.com/bevacqua/reads#user-experienceinteraction-designusability
 - https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7
 
+### Portfolio
+
+- [Wei Gao](https://aworkinprogress.dev)
+
 ### Tools
 
 - https://github.com/goabstract/Awesome-Design-Tools

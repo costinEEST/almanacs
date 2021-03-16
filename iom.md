@@ -50,6 +50,7 @@
 - [Blockchain Cryptocurrency Implemented with Node & TypeScript](https://github.com/fireship-io/node-blockchain)
 - [A blockchain implementation in 200 lines of code](https://github.com/lhartikk/naivechain)
 - [Website for comparing total daily fees of various blockchain protocols.](https://github.com/dmihal/crypto-fees)
+- https://patrickgallagher.dev/blog/2021/02/14/5-minute-defi-0
 
 ### Boilerplate
 
@@ -84,7 +85,7 @@
 
 - https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
 - https://www.mofi.net/nfts-blockchain-powered-art-trading-cards-music-and-more + https://opensea.io/assets/0xabefbc9fd2f806065b4f3c237d4b59d9a97bcac7/1953 + https://twitter.com/iamDCinvestor/status/1370362042616537090
-- https://seths.blog/2021/03/nfts-are-a-dangerous-trap
+- https://seths.blog/2021/03/nfts-are-a-dangerous-trap + https://twitter.com/kelseyhightower/status/1368661020655251458 + https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans
 - https://thehustle.co/why-nfts-are-suddenly-selling-for-millions-of-dollars
 - [Noah Bradley](https://rarible.com/thesinofman)
 - [What are NFTs and why are some worth millions?](https://www.bbc.com/news/technology-56371912)
@@ -98,6 +99,7 @@
 - https://github.com/monosux/ethereum-block-by-date
 - [What are the best live contracts  that a new solidity dev should be learning from?](https://twitter.com/musatheredguard/status/1340344406260535296)
 - https://twitter.com/0xDexter0us/status/1348334269161115650
+- [Any good ways to decrypt in solidity?](https://twitter.com/DennisonBertram/status/1371619906920325121)
 
 ### Demos
 

@@ -49,6 +49,7 @@
 - https://twitter.com/awesomekling/status/1314552767021813760
 - https://github.com/danbev/learning-v8
 - https://github.com/danbev/learning-libuv
+- https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore
 
 ### Exploits
 
@@ -268,6 +269,7 @@ javascript: (() =>
 - https://github.com/rezaali/webgl-tutorial
 - https://github.com/rezaali/webgl-sketches
 - https://github.com/stackgl/webgl-workshop
+- [Javascript and the next decade of data programming](http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu)
 
 
 ### Headless

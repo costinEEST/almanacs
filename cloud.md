@@ -72,3 +72,4 @@
 - [Set up a personal VPN in the cloud.](https://github.com/trailofbits/algo)
 - https://github.com/Atarity/deploy-your-own-saas
 - [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.](https://github.com/cloudquery/cloudquery)
+- https://github.com/Hacking-the-Cloud/hackingthe.cloud
