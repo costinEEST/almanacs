@@ -23,6 +23,7 @@
 - https://www.freecodecamp.org/news/learn-how-to-use-react-and-graphql-to-make-a-full-stack-social-network
 - https://www.freecodecamp.org/news/solidify-your-react-skills-by-building-15-projects
 - https://github.com/fireship-io/firebase-security-course
+- https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
 
 ### Boilerplate
 

@@ -29,6 +29,7 @@
 - https://www.androidpolice.com/2021/01/16/gboard-emoji-kitchen-how-to-examples
 - [Save For Offline is an Android app for saving full webpages for offline reading, with lots of features and options.](https://github.com/JonasCz/save-for-offline)
 - [Simple, scalable, cross-platform and effective solution against government censorship for Android](https://github.com/krlvm/PowerTunnel-Android)
+- [An Open-Source Android application that allows you to send and receive files over available connections, and offers unique features like sharing over HTTP, pausing and resuming transfers](https://github.com/trebleshot/android)
 
 ### Tools
 
@@ -40,6 +41,7 @@
 - [Extract endpoints from APK files](https://github.com/ndelphit/apkurlgrep)
 - [Android File Transfer For Linux (FreeBSD and Mac OS X!)](https://github.com/whoozle/android-file-transfer-linux)
 - [APRSdroid - Geo-Location for Radio Amateurs](https://github.com/ge0rg/aprsdroid)
+- https://github.com/piotrpolak/android-http-server
 
 ### APIs
 

@@ -58,6 +58,8 @@
 - [Programmatically reloading a React Native app](https://twitter.com/Baconbrix/status/1362923980580036610)
 - [A podcast episode (and a very unbiased one) compared differences between Flutter & React Native ](https://twitter.com/AdityaPahilwani/status/1363088350693974016)
 - https://github.com/bedemiralp/how-do-they-use-x-at-y#react-native
+- https://medium.com/picovoice/add-voice-recognition-to-react-native-without-adding-the-cloud-af9e299336e4
+- https://sarathkcm.me/blog/lazy-loading-react-native-components-from-a-server
 
 ### Packages
 

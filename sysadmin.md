@@ -105,6 +105,7 @@
 - https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics
 - https://janikvonrotz.ch/2020/09/07/monitor-cron-jobs-with-prometheus-grafana-and-node-exporter
 - [Enables you to visualize your physical network in form of graph with zero manual error](https://github.com/varchashva/LetsMapYourNetwork)
+- https://nelsonslog.wordpress.com/2021/03/17/telegraf-influxdb-grafana
 
 ### CI/CD
 
