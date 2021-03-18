@@ -324,6 +324,7 @@
 - https://leandrotk.github.io/2020/06/ux-studies-with-react-typescript-and-testing-library/index.html + https://github.com/leandrotk/react-testing-library-recipes + https://leandrotk.github.io/2020/10/basic-recipes-for-react-testing-library
 - https://gumroad.com/l/beginners-guide-to-react-testing
 - https://github.com/kentcdodds/react-testing-library-examples
+- [Fast is beautiful and Jest is much faster than Cypress. Cypress gives you ultimate confidence when shipping. Jest gives you rapid feedback during development.](https://twitter.com/MaOberlehner/status/1372182887462793218)
 
 ### Tooling
 

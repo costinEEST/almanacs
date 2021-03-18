@@ -29,6 +29,7 @@
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide
 - https://github.com/ernw/hardening/tree/master/operating_system/osx
 - https://github.com/eieioxyz/Beyond-Dotfiles-in-100-Seconds
+- [Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond)
 
 ### Security
 

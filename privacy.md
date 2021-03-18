@@ -31,6 +31,8 @@
 - https://github.com/kiprotect/klaro
 - https://www.haaretz.com/israel-news/tech-news/.premium-israeli-spy-tech-firm-says-it-can-break-into-signal-app-previously-considered-safe-1.9368581 + http://web.archive.org/web/20201210150311/https://www.cellebrite.com/en/blog/cellebrites-new-solution-for-decrypting-the-signal-app + https://cf-media.cellebrite.com/wp-content/uploads/2020/09/ProductOverview_Cellebrite_Physical_Analyzer_A4_web.pdf
 - [GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs](https://github.com/SadeghHayeri/GreenTunnel)
+- https://twitter.com/mikispag/status/1255164681121136642
+- [A collection of interesting new networks and tech aiming at decentralisation (in some form).](https://github.com/redecentralize/alternative-internet)
 
 ### Techniques
 
@@ -44,6 +46,7 @@
 - https://github.com/adilmajid/privacy-for-the-paranoid
 - https://github.com/bslassey/ip-blindness
 - https://github.com/Lissy93/personal-security-checklist
+- [I don't think SMS is legit 2FA](https://twitter.com/sherrod_im/status/1372259376690511873)
 
 ### Social media
 

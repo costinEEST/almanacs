@@ -49,7 +49,10 @@
 
 ### Portfolio
 
+- https://brianlovin.com/writing/product-design-portfolios
 - [Wei Gao](https://aworkinprogress.dev)
+- [Paco Coursey](https://paco.sh)
+- [Kuldar Kalvik](https://github.com/kuldar/kuldar-2020)
 
 ### Tools
 

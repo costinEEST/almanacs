@@ -42,6 +42,7 @@
 - [Android File Transfer For Linux (FreeBSD and Mac OS X!)](https://github.com/whoozle/android-file-transfer-linux)
 - [APRSdroid - Geo-Location for Radio Amateurs](https://github.com/ge0rg/aprsdroid)
 - https://github.com/piotrpolak/android-http-server
+- [Scanning APK file for URIs, endpoints & secrets.](https://github.com/dwisiswant0/apkleaks)
 
 ### APIs
 

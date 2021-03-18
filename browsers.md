@@ -213,6 +213,7 @@ javascript: (() =>
 
 ### Content Security Policy
 
+- https://twitter.com/manicode/status/1371849647468208130
 - [Next level anti-debugging technique using SourceMappingURL feature](https://twitter.com/WeizmanGal/status/1207355263491149825)
 - https://github.com/nico3333fr/CSP-useful
 - https://csper.io/blog/other-csp-security

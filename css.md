@@ -104,6 +104,7 @@
 - [13 Tips to improve Landing Page Design.](https://twitter.com/IndieHackers/status/1358746146508845058)
 - https://dev.to/karmasakshi/make-your-pwas-look-handsome-on-ios-1o08
 - https://github.com/l-hammer/You-need-to-know-css
+- https://github.com/alexcican/lab/
 
 ### Layout
 
@@ -121,7 +122,7 @@
 - [An extensive list of CSS/JS browserhacks from all over the interwebs.](https://github.com/4ae9b8/browserhacks)
 - https://www.magicpattern.design/tools/css-backgrounds
 - https://patrickbrosset.com/articles/2016-05-27-visual-Tools--Prototyping-in-the-browser
-- https://www.swyx.io/why-tailwind
+- https://www.swyx.io/why-tailwind + https://markus.oberlehner.net/blog/tailwind-css-the-antifragile-css-framework
 - https://github.com/creativetimofficial/tailwind-starter-kit
 - [Grab the color palette from an image using just Javascript. Works in the browser and in Node.](https://github.com/lokesh/color-thief)
 - [Visualize Sass HSL color functions in real-time without compiling.](https://sassme.jim-nielsen.com) + https://github.com/jimniels/sassme

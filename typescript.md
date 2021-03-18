@@ -49,6 +49,7 @@
 - https://ckgrafico.medium.com/learning-typescript-why-im-doing-this-46b80c343fba
 - https://github.com/danielrbradley/alexa-typescript-demo
 - [Is it possible to write valid JS which runs differently when interpreted as TS?](https://twitter.com/jasvir/status/1171119075939930112) + https://medium.com/@jasvir/monoglots-when-a-subset-is-not-1604e3a51d9
+- [infer](https://twitter.com/renatorib_/status/1372209255412023298)
 
 ### Practice
 
