@@ -144,6 +144,7 @@
 - [The missing star history graph of github repos](https://github.com/timqian/star-history)
 - [Extension to block Service Workers registration in Chrome](https://github.com/clod81/block_service_workers)
 - [Chrome Extension to export all accessible cookies of the current Tab](https://github.com/cookiengineer/me-want-cookies)
+- [Spectroscope, identifies resources which are exempt from default protections enabled in Google Chrome (Cross-Origin Read Blocking, SameSite cookies) and which can be embedded cross-site.](https://chrome.google.com/webstore/detail/spectroscope/idppnaadbabknjeaifkegolcciafchpp)
 
 ### Bookmarklets
 

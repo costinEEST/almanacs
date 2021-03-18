@@ -49,6 +49,7 @@
 - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design + https://news.ycombinator.com/item?id=26225373
 - [Instagram clone made with NodeJS & Express & Prisma](https://github.com/filippobarcellos/instagram-clone-api)
 - [Why Bedrock uses Prisma as its ORM](https://bedrock.mxstbr.com/tools/prisma)
+- https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30
 
 ### Book
 

@@ -75,6 +75,7 @@
 - https://github.com/geerlingguy/kubernetes-101 + https://kube101.jeffgeerling.com
 - https://www.todaysoftmag.ro/article/3327/micro-servicii-folosind-helm
 - https://github.com/eon01/kubernetes-workshop
+- [Three scripts to demonstrate resource exhaustion from within a Kubernetes cluster, including allocating all remaining RAM, allocating all remaining disk space, and fork bombing](https://github.com/uchi-mata/dostainer)
 
 ### Servers
 

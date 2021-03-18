@@ -58,6 +58,7 @@
 - https://github.com/settings/security-log?q=action:user.failed_login
 - https://github.com/boyney123/github-actions
 - https://github.com/sdras/awesome-actions
+- [A GitHub App for enforcing approval policies on pull requests that goes beyond what GitHub natively supports](https://github.com/palantir/policy-bot)
 
 ### Tools
 
