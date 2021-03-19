@@ -67,6 +67,8 @@
 - [Functional Core, Imperative Shell ~ Lachlan Miller](https://www.youtube.com/playlist?list=PLC2LZCNWKL9a7b7Ufx0ngo9xH_b8j9ZlA)
 - https://github.com/you-dont-need/You-Dont-Need-Loops
 - https://github.com/lucamezzalira/awesome-reactive-programming
+- [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- https://lucasfcosta.com/talks/2019-09-20-A-Fun-Introduction-To-Lambda-Calculus.html
 
 ### TIL
 

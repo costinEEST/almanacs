@@ -89,6 +89,8 @@
 - https://thehustle.co/why-nfts-are-suddenly-selling-for-millions-of-dollars
 - [Noah Bradley](https://rarible.com/thesinofman)
 - [What are NFTs and why are some worth millions?](https://www.bbc.com/news/technology-56371912)
+- https://opensea.io/blog/guides/non-fungible-tokens
+- https://www.kapwing.com/resources/how-to-create-and-sell-nft-crypto-art
 
 ### Smart contracts
 

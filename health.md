@@ -131,6 +131,7 @@
 - https://www.udemy.com/course/ketosis-and-if-for-fat-loss/?referralCode=92E9B7EAFC36975B08A0
 - https://www.amazon.com/Ketones-Fourth-Fuel-Warburg-Fountain-ebook/dp/B08G8TFQKS + https://youtu.be/9ler8ksUAfE + https://twitter.com/briannastubbs/status/1225209323522936832 + https://medium.com/@travischristofferson/richard-bud-veech-the-unknown-scientist-behind-the-ketogenic-diet-craze-dies-at-84-ff1f7c9b91ea + https://youtu.be/WV_jip-Yhe4
 - [Biomarkers, Metabolism, Biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9x2q-9uV9zcGfQ6Pi6Oj-_s)
+- [Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss)
 
 ### Mushrooms
 

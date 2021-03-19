@@ -71,6 +71,7 @@
 - https://valand.dev/blog/post/from-rust-to-typescript
 - [Generics or Type Assertion?](https://twitter.com/wesbos/status/1369673186720309249)
 - [If you're having a type inference issue with a 3rd party library, don't try to force it by shoving types into generics](https://twitter.com/BenLesh/status/1025156281936408576)
+- [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
 
 ### Patterns
 

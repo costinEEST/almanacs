@@ -24,6 +24,10 @@
 
 - https://www.versobooks.com/blogs/2577-a-hacktivist-reading-list-aaron-swartz-s-recommended-reading
 
+#### Alan Turing
+
+- [ACM A.M. Turing Award](https://www.youtube.com/user/TheOfficialACM/playlists?view=50&sort=dd&shelf_id=2)
+
 ### Daniel Zărnescu
 
 - https://www.cristinachipurici.ro/2020/10/15/daniel-zarnescu-cristina-chipurici-podcast

@@ -37,6 +37,7 @@
 - [Supplementary material for the paper "Analyzing a Decade of Linux System Calls".](https://github.com/corpaul/decade_of_systemcalls)
 - [Unikernels and Virtual Machines - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf0dMrMDrq7VT1GwHCib9Sc0)
 - https://github.com/danbev/learning-linux-kernel
+- https://github.com/cirosantilli/arm-assembly-cheat
 
 ### Radio
 

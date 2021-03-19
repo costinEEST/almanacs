@@ -33,6 +33,8 @@
 
 ### Books
 
+- [Concurrent Programming for Scalable Web Architectures](https://github.com/berb/diploma-thesis)
+- [Programming Models for Distributed Computation](https://github.com/heathermiller/dist-prog-book)
 - [A collection of resources for learning type theory and type theory adjacent fields.](https://github.com/jozefg/learn-tt)
 - https://math.stackexchange.com/questions/3466976/online-reference-book-for-implementing-concepts-in-type-theory
 - [Quantum Computing: An Applied Approach](https://news.ycombinator.com/item?id=21803593) + https://twitter.com/mark_l_watson/status/1205506997241565185
@@ -47,6 +49,7 @@
 - https://thoughtbot.com/playbook
 - https://twitter.com/lhochstein/status/1299169229531357184
 - [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)
+- https://github.com/onlurking/category-theory-for-programmers
 
 
 ### TIL

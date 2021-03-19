@@ -50,6 +50,7 @@
 
 ### Tools
 
+- https://github.com/cjbarber/ToolsOfTheTrade
 - https://speakerdeck.com/ladybenko/improving-as-developers?slide=31
 - [5 Command Line Tools to Break Your Dependence on the GUI ](https://www.putorius.net/5-cool-command-line-tools.html)
 - [presentations for busy messy hackers](https://github.com/tmcw/big)
@@ -67,7 +68,6 @@
 - [One of my favorite features of Evernote is its mobile document "scanner".](https://twitter.com/devonzuegel/status/1213576043694632963)
 - [CFCC - CTS 130 - Spreadsheets](https://www.youtube.com/playlist?list=PL9gfSIdua13hRbXvsJAgBWZOGrqeI0_ul)
 - [Google Excel for accountability](https://twitter.com/kelseymwhelan/status/1080544082139795456)
-- https://github.com/cjbarber/ToolsOfTheTrade
 - [I need to build a presentation ..](https://twitter.com/tannerlinsley/status/1217607012416020480)
 - [This is probably the best web presentation tool so far!](https://github.com/ksky521/nodeppt)
 - [Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.](https://github.com/yyx990803/build-your-own-mint)

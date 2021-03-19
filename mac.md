@@ -23,6 +23,7 @@
 - https://dannys.cloud/automatically-setup-macbook-development
 - https://afitnerd.com/2015/08/10/killing-distractions-mac-automator-style
 - https://yakim.nl/articles/voiceover-testing
+- [Instant audio feedback for typing. macOS version. (Rust)](https://github.com/yingDev/Tickeys)
 
 ### References
 

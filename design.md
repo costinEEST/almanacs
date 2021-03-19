@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - https://jennywen.ca/books
 - [The Handbook of Healthcare Delivery Systems (reviewed by Gregory Schmidt)](https://www.youtube.com/playlist?list=PL7e8VJ_ZN6eqd8ceHTM3OYoThy21yIoJO)
@@ -27,11 +27,11 @@
 - https://www.ohyouprettythings.com/free
 - https://www.domestika.org/en/blog/5606-7-masters-of-graphic-design-share-their-industry-insider-secrets
 
-### Courses
+### Course
 
 - https://blog.awaxman.com/product-design-resources
 
-### Communities
+### Community
 
 - https://www.facebook.com/lectiadedesign
 
@@ -40,6 +40,11 @@
 
 - https://www.amazon.com/Grid-Systems-Graphic-Design-Communication/dp/3721201450 - mentioned in https://learning.oreilly.com/library/view/graphic-icons-visionaries/9780133156195 and https://learning.oreilly.com/library/view/the-language-of/9781592536764
 - [Gráphagos: Evolutionary Algorithm as a Model for the Creative Process and as a Tool to Create Graphic Design Products | by Deniz Cem Önduygu](http://denizcemonduygu.com/thesis)
+- https://www.creativeboom.com/inspiration/50-of-the-best-blogs-for-graphic-design-inspiration
+
+### Inspire
+
+- https://www.designboom.com/art/artsupplies-worlds-most-googled-artists-03-10-2021
 
 ### User experience
 
