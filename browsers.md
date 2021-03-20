@@ -240,6 +240,7 @@ javascript: (() =>
 - https://github.com/webrtc-for-the-curious/webrtc-for-the-curious
 - [A Progressive Web App for local file sharing](https://github.com/RobinLinus/snapdrop)
 - https://github.com/delapuente/presentations#webrtc--web-components
+- https://github.com/kgryte/awesome-peer-to-peer#resources
 
 ### Canvas
 

@@ -107,6 +107,8 @@
 - [Warren Buffett's Secret Millionaires Club](https://www.youtube.com/user/SecretMillionaires/playlists)
 - https://www.thinknewfound.com/podcast
 - [Diversification - More than What (Corey Hoffstein)](https://vimeo.com/374948821)
+- https://diff.substack.com/p/understanding-coinbase
+- [Roblox: How the children's game became a $30bn bet on the Metaverse](https://www.bbc.com/news/technology-56345586)
 
 ### Economics
 

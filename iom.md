@@ -17,11 +17,25 @@
 
 ### Courses
 
+- https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide
 - https://www.dappuniversity.com/videos/1njYc9ZO6WQ
 - https://learn.consensys.net/index
 - https://academy.nomadcoders.co/p/build-a-blockchain-with-typescript
 - https://cryptoeconomics.study/en
 - https://cryptozombies.io + https://github.com/loomnetwork/cryptozombie-lessons + https://github.com/loomnetwork/cryptozombies-lesson-code
+
+### Community
+
+- [Nick Szabo](http://unenumerated.blogspot.com)
+- [Emin Gün Sirer](https://hackingdistributed.com)
+- [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me)
+- [Loredana Cirstea](https://twitter.com/lorecirstea)
+- https://www.coindesk.com/most-influential/2020
+- [Koroush AK](https://koroushak.substack.com/about)
+- https://newsletter.banklesshq.com/about
+- [Shayan Eskandari](https://medium.com/@sbetamc)
+- [Julien Klepatch](https://dev.to/jklepatch)
+
 
 ### DApps 
 
@@ -51,10 +65,15 @@
 - [A blockchain implementation in 200 lines of code](https://github.com/lhartikk/naivechain)
 - [Website for comparing total daily fees of various blockchain protocols.](https://github.com/dmihal/crypto-fees)
 - https://patrickgallagher.dev/blog/2021/02/14/5-minute-defi-0
+- [where did you get started learning #smartcontracts and solidity?](https://twitter.com/PatrickAlphaC/status/1365849986714468352)
+- [Want to learn how to build on Ethereum?](https://twitter.com/austingriffith/status/1331259787388932097)
 
 ### Boilerplate
 
 - https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit
+- [A template to build a decentralised application using ethereum, buidler, svelte and thegraph](https://github.com/wighawag/jolly-roger)
+- https://github.com/wighawag/template-ethereum-contracts
+- https://github.com/atkinsonholly/Drizzle-tutorial-with-React-Hooks
 
 ### Security
 
@@ -74,6 +93,7 @@
 - https://github.com/crytic/building-secure-contracts
 - https://www.theblockcrypto.com/linked/89843/2017-parity-wallet-hacker-begins-moving-eth
 - [Tineola: Taking a Bite Out of Enterprise Blockchain](https://github.com/tineola/tineola)
+- https://ronan.eth.link/blog/ethereum-gas-dangers
 
 
 ### Bitcoin
@@ -91,6 +111,7 @@
 - [What are NFTs and why are some worth millions?](https://www.bbc.com/news/technology-56371912)
 - https://opensea.io/blog/guides/non-fungible-tokens
 - https://www.kapwing.com/resources/how-to-create-and-sell-nft-crypto-art
+- https://hackernoon.com/tokenizing-our-virtual-future-a-deep-dive-into-non-fungible-tokens-go4h3wjj
 
 ### Smart contracts
 
@@ -108,19 +129,12 @@
 - https://github.com/saleemrashid/do-i-need-a-blockchain
 - https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain
 
-### People
-
-- [Nick Szabo](http://unenumerated.blogspot.com)
-- [Emin Gün Sirer](https://hackingdistributed.com)
-- [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me)
-- [Loredana Cirstea](https://twitter.com/lorecirstea)
-- https://www.coindesk.com/most-influential/2020
-- [Koroush AK](https://koroushak.substack.com/about)
-- https://newsletter.banklesshq.com/about
-- [Shayan Eskandari](https://medium.com/@sbetamc)
-
 ### TV
 
 - https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies
 - [Decentralization: DeFi, DID, DEX and more (aantonop)](https://www.youtube.com/playlist?list=PLPQwGV1aLnTsWvo0ieJLN-UINWUjr10a7)
 - [Cryptocurrency ~  EEVblog2](https://www.youtube.com/playlist?list=PL24OiKqd2iN-OmtJC-r71geFQggMFXTFp)
+
+### Opinions
+
+- https://www.ribbonfarm.com/2017/10/10/the-blockchain-man

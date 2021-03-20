@@ -49,11 +49,11 @@
 - https://fasterthanli.me/series/making-our-own-ping
 - https://github.com/theseus-os/Theseus
 
-### Talks
+### Cinema
 
 - [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
 
-### Algorithms
+### Algorithm
 
 - https://github.com/Mec-iS/rust-algos-illuminated
 
@@ -61,7 +61,11 @@
 
 - https://github.com/AxlLind/AdventOfCode2020
 
-### Tools
+### Podcast
+
+- [Servo and Rust with Jack Moffitt](https://metajack.im/2016/11/21/servo-interview-on-the-changelog)
+
+### Tool
 
 - Port scanner using the thread pool: [tweet](https://twitter.com/_tomsteele/status/1212651061611122688) + [gist](https://gist.github.com/tomsteele/338fa60b6ca2dd410f428d74e1717c1c)
 - [What Is Rust Doing Behind the Curtains?](https://endler.dev/2018/cargo-inspect)

@@ -108,6 +108,8 @@
 
 ### German
 
+- https://www.lingq.com/en/forum/offenes-deutsches-forum-open-forum-in-german/crossing-boundaries-in-german
+
 ### Greek
 
 - https://www.byzantineambassador.com/greek-and-latin

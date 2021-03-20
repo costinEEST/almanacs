@@ -131,3 +131,4 @@
 - https://github.com/kettanaito/naming-cheatsheet
 - [Laws, Theories, Principles and Patterns that developers will find useful.](https://github.com/dwmkerr/hacker-laws)
 - [Collection of quotes on notation design & how it affects thought.](https://github.com/hypotext/notation)
+- [Dan North thinks that Bob Martin's SOLID principles are bogus](https://dannorth.net/2021/03/16/cupid-the-back-story)

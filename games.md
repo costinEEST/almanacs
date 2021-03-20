@@ -19,6 +19,7 @@
 - [A game boy emulator as an introduction to Rust and Web Assembly for JavaScripters](https://twitter.com/sgrove/status/1210595000926367745)
 - [A React Game using h,j,k,l for movement](https://github.com/wdjungst/vimmy)
 - https://github.com/Hexlet/interactive-courses
+- https://github.com/michaljaz/web-minecraft
 
 
 ### Mobile based

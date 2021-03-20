@@ -85,6 +85,7 @@
 - https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride
 - https://github.com/SuperPaintman/the-evolution-of-a-go-programmer
 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy
+- https://fettblog.eu/learning-rust-and-go
 
 ### Security
 
