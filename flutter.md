@@ -5,6 +5,7 @@
 ### Course
 
 - https://www.pluralsight.com/courses/debugging-testing-publishing-flutter-app
+- https://github.com/aaachris/world_of_beer
 
 ### Security
 

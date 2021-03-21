@@ -20,6 +20,7 @@
 - [A React Game using h,j,k,l for movement](https://github.com/wdjungst/vimmy)
 - https://github.com/Hexlet/interactive-courses
 - https://github.com/michaljaz/web-minecraft
+- https://github.com/eder13/Snake-in-JS-in-190-Lines
 
 
 ### Mobile based

@@ -14,6 +14,7 @@
 - https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet-ebook/dp/B07X8HS2WC
 - https://paulmillr.com/posts/libertarian-reading-list
 - [Introducing Blockchain Programming with Lisp by Boro Sitnikovski](https://leanpub.com/gibl)
+- https://github.com/miguelmota/ethereum-development-with-go-book
 
 ### Courses
 
@@ -67,6 +68,7 @@
 - https://patrickgallagher.dev/blog/2021/02/14/5-minute-defi-0
 - [where did you get started learning #smartcontracts and solidity?](https://twitter.com/PatrickAlphaC/status/1365849986714468352)
 - [Want to learn how to build on Ethereum?](https://twitter.com/austingriffith/status/1331259787388932097)
+- [What are some good ethereum web tools?](https://twitter.com/thegostep/status/1353745295973228545)
 
 ### Boilerplate
 
@@ -94,6 +96,7 @@
 - https://www.theblockcrypto.com/linked/89843/2017-parity-wallet-hacker-begins-moving-eth
 - [Tineola: Taking a Bite Out of Enterprise Blockchain](https://github.com/tineola/tineola)
 - https://ronan.eth.link/blog/ethereum-gas-dangers
+- [*Always* use a strong password for your MetaMask software wallet.](https://twitter.com/miguelmotah/status/1369091946354929669)
 
 
 ### Bitcoin
@@ -112,6 +115,8 @@
 - https://opensea.io/blog/guides/non-fungible-tokens
 - https://www.kapwing.com/resources/how-to-create-and-sell-nft-crypto-art
 - https://hackernoon.com/tokenizing-our-virtual-future-a-deep-dive-into-non-fungible-tokens-go4h3wjj
+- [How do you buy/sell/trade NFTs today?](https://twitter.com/vasa_develop/status/1371846217785819136)
+- https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans
 
 ### Smart contracts
 

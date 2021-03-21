@@ -36,7 +36,7 @@
 ### Courses
 
 - Write web applications in Go without using a framework: [book](https://leanpub.com/antitextbookGo) + (recordings)[https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4]
-- https://github.com/inancgumus/learngo
+- [1000+ Hand-Crafted Go Examples, Exercises, and Quizzes](https://github.com/inancgumus/learngo)
 - https://github.com/pingcap/talent-plan#series-3-distributed-database
 - https://empijei.science/talks.html
 - https://www.adsbynimbus.com/tech-blog/dynamic-programming + https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf
@@ -78,7 +78,7 @@
 - https://github.com/parsiya/Hacking-with-Go
 - https://github.com/dreddsa5dies/algorithm
 
-### Opinions
+### Opinion
 
 - https://github.com/ksimka/go-is-not-good
 - [Go's Tooling is an Undervalued Technology](https://nullprogram.com/blog/2020/01/21)

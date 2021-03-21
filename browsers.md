@@ -273,6 +273,7 @@ javascript: (() =>
 - https://github.com/rezaali/webgl-sketches
 - https://github.com/stackgl/webgl-workshop
 - [Javascript and the next decade of data programming](http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu)
+- https://www.amazon.com/Learning-Three-js-JavaScript-Library-Second/dp/1784392219
 
 
 ### Headless

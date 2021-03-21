@@ -42,6 +42,7 @@
 - https://madhuakula.com/content + https://speakerdeck.com/madhuakula/a-practical-guide-to-writing-secure-dockerfiles-wearedevelopers-container-day-2021
 - [A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3](https://github.com/dockersamples/docker-swarm-visualizer)
 - https://github.com/prakhar1989/docker-curriculum
+- [A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)
 
 ### Kubernetes
 

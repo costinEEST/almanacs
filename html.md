@@ -38,6 +38,7 @@
 - https://github.com/fejes713/accessibility-guide
 - https://github.com/marcysutton/no-mouse-days
 - https://www.callumhart.com/blog/an-accessible-current-page-navigation-state
+- https://overlayfactsheet.com
 
 ### <button></button>
 
@@ -51,6 +52,7 @@
 
 ### <head></head>
 
+- https://htmlhead.dev
 - https://github.com/audreyfeldroy/favicon-cheat-sheet
 
 ### <meta />
@@ -93,6 +95,7 @@
 - [Put the contents of a textarea into localStorage if the user leaves the page before submitting the form.](https://adactio.com/journal/17516)
 - https://jross.me/progressively-delivering-new-image-formats-with-css-and-cloudflare-workers
 - https://polypane.app/blog/creating-websites-with-prefers-reduced-data
+- https://blog.jim-nielsen.com/2021/progressively-enhanced-search
 
 ### Radio
 

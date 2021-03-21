@@ -19,6 +19,7 @@
 - [Recovers JPG images from SD cards and hard drives.](https://github.com/saintmarina/undelete_jpg)
 - [Serving WebP images with htaccess](https://github.com/vincentorback/WebP-images-with-htaccess)
 - https://github.com/nosolosw/snippets/blob/master/mp4-to-gif.sh
+- [Get image size without full download.](https://github.com/nodeca/probe-image-size)
 
 ### Photos
 

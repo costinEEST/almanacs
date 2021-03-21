@@ -226,6 +226,7 @@
 - https://thinkloveshare.com/en/hacking/reverse_xsshell
 - [Why Is This Website Port Scanning Me?](https://news.ycombinator.com/item?id=23246170)
 - https://medium.com/@stestagg/stealing-secrets-from-developers-using-websockets-254f98d577a0
+- https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278
 
 ### P2P
 
