@@ -113,6 +113,7 @@
 - https://twitter.com/MaksymRybak/status/1219313534670077952
 - [Deno - TypeWithMe](https://www.youtube.com/playlist?list=PLlYJBXwGoczE6l8lm0AaFe62EtI3th41L)
 - https://www.slideshare.net/tshemsedinov/presentations
+- [Fullstack Code Challenge with Node, GraphQL and Relay](https://www.youtube.com/playlist?list=PLgzzeV46F4nMW3HSrx1hRSwD9-bgYVuO7)
 
 ### Course
 
