@@ -2,10 +2,15 @@
 
 - https://github.com/raywenderlich/swift-algorithm-club
 
-### Books
+### Book
 
 - https://www.hackingwithswift.com/quick-start/understanding-swift
 - https://www.jessesquires.com/blog/2020/12/28/resources-for-learning-about-compilers-and-llvm
+
+### Cinema
+
+- https://kaitlin.dev/speaking
+
 
 ### Development
 
@@ -18,11 +23,12 @@
 - https://www.hackingwithswift.com/100/swiftui
 - https://www.hackingwithswift.com/100
 
-### Opinions
+### Opinion
 
 - https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming
 - https://github.com/jakerockland/go-vs-swift
 
-### TV
+### Reference
 
-- https://kaitlin.dev/speaking
+- https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
+

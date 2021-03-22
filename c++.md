@@ -24,6 +24,7 @@
 
 - [HNTerm is a small console application written in C++ for browsing Hacker News. ](https://github.com/ggerganov/imtui/tree/master/examples/hnterm)
 - https://gourav.io/blog/setup-vscode-to-run-debug-c-cpp-code
+- [Easy to use C++17 HTTP Server with no compromise on performances.](https://github.com/matt-42/lithium)
 
 
 ### Reference

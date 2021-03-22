@@ -88,6 +88,7 @@
 - https://www.samueltaylor.org/articles/speed-up-web-scraping.html
 - [Tinkerer is a blogging engine/static website generator powered by Sphinx.](https://github.com/vladris/tinkerer)
 - [Sunfish: a Python Chess Engine in 111 lines of code](https://github.com/thomasahle/sunfish)
+- https://github.com/mebeim/aoc
 
 
 ### Security

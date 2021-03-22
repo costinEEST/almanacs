@@ -22,6 +22,7 @@
 - https://learning.oreilly.com/library/view/effective-typescript/9781492053736 + https://twitter.com/AdamRackis/status/1366058541925113863 + https://github.com/danvk/literate-ts
 - https://github.com/enricopolanski/functional-programming
 - https://vladris.com/blog/2019/04/28/programming-with-types.html
+- https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node
 
 ### Cinema
 
