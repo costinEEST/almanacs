@@ -53,6 +53,7 @@
 - https://github.com/shellphish/how2heap
 - https://github.com/michalmalik/linux-re-101
 - https://github.com/jeFF0Falltrades/Tutorials
+- [Restoring Picroma Plasma Without Patching it and Reverse Engineering an Unknown Instruction Set](https://github.com/ChrisMiuchiz/Plasma-Writeup)
 
 ### Radio
 

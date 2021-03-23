@@ -288,6 +288,7 @@
 - https://jaywolfe.dev/blog/how-i-quickly-create-static-website-hosting-using-only-an-aws-s3-bucket
 - https://github.com/leandrotk/publisher + https://www.freecodecamp.org/news/automating-my-blog-posts-publishing-process-with-typescript
 - [‎Personal website running on Gatsby, React, and Node](https://github.com/taniarascia/taniarascia.com)
+- https://github.com/colinhemphill/nextjs-resume
 
 
 ### Serverless

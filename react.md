@@ -24,6 +24,7 @@
 - https://www.freecodecamp.org/news/solidify-your-react-skills-by-building-15-projects
 - https://github.com/fireship-io/firebase-security-course
 - https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
+- [NextJS and Serverless ~ James Perkins](https://www.youtube.com/playlist?list=PL5G1JGPXq1sQDMAV9BdlUJV9RfkZPSpVb)
 
 ### Boilerplate
 
@@ -183,6 +184,7 @@
 - https://github.com/abhimanyuPathania/seven-guis
 - [Evolution simulator using simple 2D physics.](https://github.com/jefflinse/critters)
 - https://github.com/Flow11/death-stranding-ui
+- https://steveruiz.me/posts/rotating-icon-button
 
 ### Server side rendering
 

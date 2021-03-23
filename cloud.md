@@ -48,6 +48,8 @@
 - https://www.protocol.com/kelsey-hightower-google-cloud
 - https://medium.com/graphicacy/capturing-user-emails-in-google-sheets-for-primarycast-b3eaf7a38979
 - [A Google engineer's experience with the company as it navigated these issues, giving an inside look at how Google Cloud became what it is today.](https://twitter.com/MohapatraHemant/status/1343969802080030720)
+- [Google Cloud Function that takes a url, converts the article at that url to audio using Cloud Text-To-Speech, then stores it in a Cloud Storage bucket.](https://github.com/malob/article-to-audio-cloud-function)
+- [Rewrite of article-to-audio-cloud-function and generate-podcast-rss-cloud-function, in a functional style using TypeScript and fp-ts.](https://github.com/malob/serverless-tts-podcast)
 
 ### IBM
 
