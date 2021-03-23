@@ -56,3 +56,4 @@
 - https://www.codediesel.com/php/reading-ssl-certificates-in-php
 - https://github.com/alexeymezenin/laravel-best-practices
 - https://github.com/cyberglot/awesome-answers#php
+- [A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.](https://github.com/PrivateBin/PrivateBin)

@@ -259,6 +259,7 @@
 - [A beautiful and flexible guitar component for React.](https://github.com/4lejandrito/react-guitar)
 - [Excel-like DataGrid component for React JS.](https://github.com/rowsncolumns/grid)
 - [Perfect freehand is a library for creating freehand paths](https://github.com/steveruizok/perfect-freehand)
+- [Social media share buttons and share counts for React](https://github.com/nygardk/react-share)
 
 ### Debugging
 

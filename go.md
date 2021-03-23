@@ -67,6 +67,7 @@
 - [A plain-text file format and command line tool for time tracking](https://github.com/jotaen/klog) + https://news.ycombinator.com/item?id=25995838
 - [Check for dependency confusion vulnerabilities in multiple package management systems ](https://github.com/visma-prodsec/confused) + https://twitter.com/joohoi/status/1359467575441301504
 - [Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
+- [Make JSON greppable!](https://github.com/tomnomnom/gron)
 
 ### References
 

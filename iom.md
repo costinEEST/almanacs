@@ -15,6 +15,7 @@
 - https://paulmillr.com/posts/libertarian-reading-list
 - [Introducing Blockchain Programming with Lisp by Boro Sitnikovski](https://leanpub.com/gibl)
 - https://github.com/miguelmota/ethereum-development-with-go-book
+- https://github.com/PacktPublishing/Learn-Python-by-Building-a-Blockchain-Cryptocurrency
 
 ### Courses
 
@@ -69,6 +70,8 @@
 - [where did you get started learning #smartcontracts and solidity?](https://twitter.com/PatrickAlphaC/status/1365849986714468352)
 - [Want to learn how to build on Ethereum?](https://twitter.com/austingriffith/status/1331259787388932097)
 - [What are some good ethereum web tools?](https://twitter.com/thegostep/status/1353745295973228545)
+- [A simple blockchain in Javascript.](https://github.com/Savjee/SavjeeCoin)
+- https://github.com/nambrot/blockchain-in-js
 
 ### Boilerplate
 

@@ -141,6 +141,7 @@
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586)
 - [HTTPLeaks - All possible ways, a website can leak HTTP requests](https://github.com/cure53/HTTPLeaks)
 - [An activity diagram to describe the resolution of HTTP response status codes, given various headers.](https://github.com/for-GET/http-decision-diagram)
+- [HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.](https://github.com/for-GET/know-your-http-well)
 
 ### HTTP headers
 

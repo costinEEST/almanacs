@@ -15,6 +15,7 @@
 - https://github.com/cfsamson/book-green-threads-explained
 - https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 - https://github.com/lambda-magic/plt-books/tree/master/Rust
+- https://github.com/sger/RustBooks
 
 
 ### Community
@@ -27,6 +28,7 @@
 - https://github.com/pingcap/talent-plan#series-2-rust-programming
 - [Kosmonaut: web browser from scratch in Rust](https://news.ycombinator.com/item?id=24170201)
 - [TCP/IP Fundamentals](https://lowlvl.org) + https://twitter.com/nbaksalyar/status/1307665001570762752
+- https://github.com/integer32llc/rust-in-motion-videos
 
 ### Tutorials
 

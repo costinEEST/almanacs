@@ -119,3 +119,4 @@
 - https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html#rule-11-which-database-technology-to-choose
 - https://metaduck.com/the-history-of-databases-a-summary
 - https://github.com/pingcap/awesome-database-learning
+- https://github.com/madd86/awesome-system-design

@@ -69,6 +69,7 @@
 - https://github.com/lucamezzalira/awesome-reactive-programming
 - [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - https://lucasfcosta.com/talks/2019-09-20-A-Fun-Introduction-To-Lambda-Calculus.html
+- https://github.com/hemanth/functional-programming-jargon
 
 ### TIL
 

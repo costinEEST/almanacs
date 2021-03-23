@@ -195,6 +195,9 @@
 - [Convert javascript fetch requests to curl](https://github.com/leoek/fetch-to-curl)
 - [Convert email newsletters into Atom feeds](https://github.com/leafac/kill-the-newsletter)
 - [Ultra-fast MessagePack implementation with extension for record and structural cloning](https://github.com/kriszyp/msgpackr) + https://dev.doctorevidence.com/building-the-fastest-js-de-serializer-a413a2b4fb72
+- [A express package to list all registered endoints and its verbs](https://github.com/AlbertoFdzM/express-list-endpoints)
+- [Express view helper inspired by PHP's var_dump()](https://github.com/alessioalex/express-var-dump)
+- [A modern, minimalist, and lightweight URL shortener using Node.js and Redis](https://github.com/dotzero/node-url-shortener)
 
 ### Testing
 
@@ -314,3 +317,4 @@
 - https://quanticdev.com/articles/automating-my-youtube-uploads-using-nodejs
 - https://github.com/snipcart/node-js-ecommerce-koajs
 - https://simonplend.com/talk-at-js-monthly-london-make-the-most-of-modern-javascript-with-fastify
+- https://jg.gg/2020/09/30/choosing-your-tech-stack-2020-edition-2/
