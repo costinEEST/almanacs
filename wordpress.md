@@ -20,6 +20,7 @@
 - [How to Start Block Development with Scaffolding](https://gziolo.pl/2021/02/14/wordcamp-india-2021)
 - [Grzegorz Ziolkowski - How Modern JS Influences WordPress [WordSesh APAC 2020]](https://gziolo.pl/2021/02/27/wordsesh-apac-2020)
 - [Headless WordPress Forms](https://twitter.com/jasonbahl/status/1370767810561904640)
+- https://www.youtube.com/c/WPCasts/playlists
 
 
 ### Opinion
@@ -32,6 +33,7 @@
 - [WordPress audit log that track user changes in WordPress admin using a nice activity feed.](https://github.com/bonny/WordPress-Simple-History)
 - https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
 - [Put your WordPress site in headless mode -- wp-admin, wp-rest-api and wp-graphql only.](https://github.com/Shelob9/headless-mode)
+- https://github.com/woocommerce/woocommerce-gutenberg-products-block
 
 ### Security
 

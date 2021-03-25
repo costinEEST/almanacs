@@ -81,12 +81,13 @@
 - [The Hundred-Page Machine Learning Book by Andriy Burkov](http://themlbook.com) + https://news.ycombinator.com/item?id=25905899
 - [Data Science in Julia for Hackers](https://notamonadtutorial.com/how-we-wrote-a-hands-on-bayesian-data-science-book-in-6-months-a97c73a510b5)
 
-### Videos
+### Cinema
 
 - [RL Course by David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 - [CS294-112 Fall 2017 (deep RL course)](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz/playlists)
 - [Machine Learning and Programming - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf15KhhTGnSRgniYwcXFS-rK)
+- [Building a Machine Learning Based Web App Firewall/IPS from Scratch | Debasish Mandal](https://www.youtube.com/playlist?list=PLKwUZp9HwWoA7AjUeuWnvQdNXcQ7bF3e1) + http://www.debasish.in/2020/10/videobuilding-machine-learning-based.html
 
 ### Neural networks
 

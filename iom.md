@@ -137,11 +137,14 @@
 - https://github.com/saleemrashid/do-i-need-a-blockchain
 - https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain
 
-### TV
+### Cinema
 
 - https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies
 - [Decentralization: DeFi, DID, DEX and more (aantonop)](https://www.youtube.com/playlist?list=PLPQwGV1aLnTsWvo0ieJLN-UINWUjr10a7)
 - [Cryptocurrency ~  EEVblog2](https://www.youtube.com/playlist?list=PL24OiKqd2iN-OmtJC-r71geFQggMFXTFp)
+- [Digital Currency | thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCB3bm4ZuFAm4eADj0VMy_D)
+- [Blockchain Course | Arthur Gervais](https://www.youtube.com/playlist?list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
+- [Blockchain Security | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22gfyqgXMuYyWVSFklxHSzk)
 
 ### Opinions
 

@@ -11,6 +11,10 @@
 - [The Magick of Food: Rituals, Offerings & Why We Eat Together ~ Gwion Raven](https://www.amazon.com/Magick-Food-Rituals-Offerings-Together/dp/0738760854)
 - http://istrosbooks.com/products/books/our-daily-bread-110
 
+### Cinema
+
+- [Benefits of Turmeric | NutritionFacts.org](https://www.youtube.com/playlist?list=PL5TLzNi5fYd9JWJdWb4rgzaMrPLoF8S7c)
+
 ### Cholesterol
 
 - [#CholesterolScience - Dave Feldman](https://www.youtube.com/playlist?list=PLWNQLvi9Q_zuigCB6JPmDQuR3TwfJO3QX)
