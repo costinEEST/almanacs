@@ -22,6 +22,7 @@
 - https://store.steampowered.com/app/442070/Drawful_2
 - http://www.openculture.com/2020/02/old-book-illustrations-download.html
 - https://eclecticlight.co/painting-topics
+- https://twitter.com/visual_linguist/status/1373665959790190611 + http://www.thevisuallinguist.com/2021/03/from-learning-to-draw-to-acquiring.html
 
 ### Comics
 

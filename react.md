@@ -163,6 +163,7 @@
 ### CSS/Animations
 
 - https://www.robinwieruch.de/react-css-styling
+- [Use CSS Variables instead of React Context](https://epicreact.dev/css-variables)
 - https://www.pluralsight.com/courses/react-components-styling
 - [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js) + https://css-tricks.com/the-differing-perspectives-on-css-in-js
 - https://dreith.com/blog/a-few-gripes-with-styled-components + https://www.reddit.com/r/reactjs/comments/ekh9p9/what_do_you_think_about_plan_css_vs_css_modules
