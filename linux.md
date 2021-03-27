@@ -48,6 +48,7 @@
 - https://geekflare.com/run-linux-from-a-web-browser
 - [Linux Productivity Tools (2019)](https://news.ycombinator.com/item?id=23229241)
 - https://github.com/alexandrunastase/ro-de-keyboard-layout
+- [outrun: Execute a local command using the processing power of another Linux machine.](https://github.com/Overv/outrun)
 
 ### TIL
 

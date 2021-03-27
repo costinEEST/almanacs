@@ -1,6 +1,7 @@
 ### Book
 
 - [The design and evolution of C++ by Bjarne Stroustrup](https://twitter.com/oznova_/status/1214971707863101440)
+- [Modern OpenGL guide](https://github.com/Overv/Open.GL)
 
 ### Community
 

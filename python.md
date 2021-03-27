@@ -133,6 +133,7 @@
 - [get things from one computer to another, safely](https://github.com/warner/magic-wormhole)
 - [Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect](https://github.com/sdushantha/wifi-password)
 - https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial
+- [Tool to recover the RSA/ECDSA public key used to sign JWT tokens](https://github.com/FlorianPicca/JWT-Key-Recovery)
 
 
 ### Testing

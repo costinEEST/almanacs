@@ -1,11 +1,15 @@
-### Books
+### Artist
+
+- https://www.impact.ro/rodion-rosca-a-murit-parintele-muzicii-electronice-romanesti-rapus-de-o-boala-crunta-155639.html
+
+### Book
 
 - https://www.scribd.com/doc/309687372/An-Introduction-to-Tonal-Theory-Peter-Westergaard
 - https://www.oliversacks.com/books-by-oliver-sacks/musicophilia
 - https://www.amazon.co.uk/Music-Instinct-Works-Cant-Without/dp/0099535440
 - https://www.fundatiacaleavictoriei.ro/produs/muzica-clasica-si-opera-doua-carti-de-tiberiu-soare
 
-### Instruments
+### Instrument
 
 - [Can anyone suggest a Guitar for beginners?](https://twitter.com/divyanshub024/status/1212427300345503744)
 - https://noncombatant.org/2014/11/16/valuemusic-16-nov-2014-guitar-mania
@@ -14,13 +18,14 @@
 - [Nahre Sol (piano)](https://www.youtube.com/c/NahreSol/playlists)
 - http://www.pianopractice.org
 - https://kevinmartinjose.com/2019/01/27/lessons-from-learning-to-play-the-violin
+- https://expmag.com/2021/03/it-looks-like-a-saxophone-but-plays-512-notes-many-youve-never-heard-before
 
-### Tools
+### Tool
 
 - https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9
 - https://www.onlinemusictools.com
 
-### References
+### Reference
 
 - [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
 - [The musical time machine](https://radiooooo.com)

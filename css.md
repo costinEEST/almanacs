@@ -29,7 +29,8 @@
 - https://www.amazon.com/Color-David-Kastan/dp/0300171870
 - https://twitter.com/JaimeeBanksOS/status/1333274992067436546
 - [A color palette generator for design systems.](https://twitter.com/lokesh/status/1206591284908969984) + https://lokeshdhakar.com/projects/color-stacks
-- https://www.freecodecamp.org/news/designing-in-color-abd358660a7b/
+- https://www.freecodecamp.org/news/designing-in-color-abd358660a7b
+- [Math & data behind color spaces and color conversions.](https://github.com/colorjs/color-space)
 
 
 ### Community

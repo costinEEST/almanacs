@@ -1,4 +1,4 @@
-### Documentaries
+### Documentary
 
 - https://docuart.ro/documentare
 - https://github.com/philsturgeon/awesome-earth#documentaries
@@ -7,12 +7,13 @@
 - [African History - Lois Clark-Johnston](https://www.youtube.com/playlist?list=PL2XMHriRjzy34dpdMKQKmNWrByrjd9Sin)
 - [African Diaspora History - Lois Clark-Johnston](https://www.youtube.com/playlist?list=PL2XMHriRjzy2ppx6sDiv_66ryEXx8XrS2)
 - http://pialogue.info/books/Century-of-the-Self.php
+- https://www.esquire.com/entertainment/movies/g35338893/best-documentaries-of-2021
 
-### Interviews
+### Interview
 
 - [Paul Chek on How To Live Fully and Save The World](https://gist.github.com/ccampean/476b4d56b2fd87eb183c3fee0317cb07#paul-chek-on-how-to-live-fully-and-save-the-world)
 
-### Movies
+### Movie
 
 - [The Farewell (2019)](https://twitter.com/ourobororoboruo/status/1211559669094699009)
 - https://www.youtube.com/user/CaptainDisillusion/playlists

@@ -218,6 +218,7 @@
 - https://realtalkjavascript.simplecast.com/episodes/episode-96-expressway-to-fastify-with-matteo-collina
 - https://futurestud.io/learningpaths/learn-hapi
 - https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc
+- https://github.com/simonplend/talks/tree/main/make-the-most-of-modern-javascript-with-fastify
 
 ### Scrapping
 

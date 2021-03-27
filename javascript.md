@@ -399,7 +399,7 @@
 - https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
 - https://github.com/jamiebuilds/the-super-tiny-compiler
 - https://github.com/zenparsing/skert
-- https://github.com/lkesteloot/turbopascal + https://news.ycombinator.com/item?id=26207624
+- https://github.com/lkesteloot/turbopascal + https://news.ycombinator.com/item?id=26207624 + https://www.teamten.com/lawrence/projects/turbo_pascal_compiler
 
 ### Parsers
 
@@ -441,6 +441,7 @@
 - [Cash is a cross-platform implementation of Unix shell commands written in straight ES6.](https://github.com/dthree/cash)
 - https://github.com/iamakulov/awesome-webpack-perf
 - https://www.learnwithjason.dev/lets-learn-esbuild
+- https://areknawo.com/top-js-rich-text-editor-frameworks-for-2021
 
 ### Documentation
 

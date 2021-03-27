@@ -80,6 +80,7 @@
 - [CryptoHack – A fun platform for learning cryptography](https://cryptohack.org)
 - [Cryptopals on Twitch - Filippo Valsorda](https://www.youtube.com/playlist?list=PLwiyx1dc3P2KoKsYdbZQutKvozOPjDilr)
 - https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html
+- [Recovering a full PEM Private Key when half of it is redacted](https://blog.cryptohack.org/twitter-secrets)
 
 ### Tools
 

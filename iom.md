@@ -100,6 +100,7 @@
 - [Tineola: Taking a Bite Out of Enterprise Blockchain](https://github.com/tineola/tineola)
 - https://ronan.eth.link/blog/ethereum-gas-dangers
 - [*Always* use a strong password for your MetaMask software wallet.](https://twitter.com/miguelmotah/status/1369091946354929669)
+- https://rya.nc/forensic-bitcoin-cracking.html
 
 
 ### Bitcoin
