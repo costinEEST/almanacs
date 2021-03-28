@@ -89,6 +89,7 @@
 - [Tinkerer is a blogging engine/static website generator powered by Sphinx.](https://github.com/vladris/tinkerer)
 - [Sunfish: a Python Chess Engine in 111 lines of code](https://github.com/thomasahle/sunfish)
 - https://github.com/mebeim/aoc
+- https://github.com/rasulkireev/builtwithdjango
 
 
 ### Security
@@ -134,6 +135,7 @@
 - [Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect](https://github.com/sdushantha/wifi-password)
 - https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial
 - [Tool to recover the RSA/ECDSA public key used to sign JWT tokens](https://github.com/FlorianPicca/JWT-Key-Recovery)
+- [Scrape Facebook public pages without an API key](https://github.com/kevinzg/facebook-scraper)
 
 
 ### Testing

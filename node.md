@@ -17,6 +17,7 @@
 - [The Nuts and Bolts of OAuth 2.0](https://aaronparecki.com/2020/12/22/14/oauth)
 - https://app.pluralsight.com/library/courses/oauth-2-getting-started
 - https://www.scottbrady91.com/OAuth/OAuth-is-Not-Authentication + https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization
+- [Authentication system using NextJS, GraphQL, Apollo Client, Apollo Server, MongoDB, Nginx, Docker, Docker-Compose and Kubernetes](https://github.com/nreoch25/nextjs-graphql-auth)
 
 ### API
 
@@ -83,29 +84,6 @@
 - https://github.com/vagr9k/gatsby-advanced-starter
 - https://github.com/focusaurus/express_code_structure
 
-### Debugging
-
-- [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
-- https://evilpacket.net/2019/leveraging-javascript-debuggers
-- https://github.com/tj/node-blocked
-- https://nodesource.com/blog/memory-leaks-demystified
-- https://gioyik.com/s/memory-chronicles-manage-trace-fix-memory-leaks
-- https://www.joyent.com/blog/walmart-node-js-memory-leak
-- [Profile & Analyze Node.js Applications.](https://gioyik.com/s/profile-analyze-nodejs-applications)
-- [JS Memory Analysor is a tool to detect memory leaks for Javascript/NodeJS.](https://github.com/alibaba/JS-Memory-Analysor)
-- https://github.com/lrlna/sketchin/blob/master/guides/tracing.md
-- https://bhattsameer.github.io/2021/01/01/client-side-encryption-bypass-part-1.html
-- https://www.jackhoy.com/web-applications/2020/10/21/debugging-memory-leaks-in-nodejs.html
-
-### TIL
-
-- [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
-- [How do you sync .env files (project specific) that are git-ignored between different computers?](https://twitter.com/thekitze/status/1207718292149952512)
-- [nvm install node --reinstall-packages-from=node](https://twitter.com/mtliendo/status/1215382381026316290)
-- https://www.heroku.com/podcasts/codeish/51-best-practices-in-error-handling
-- https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood
-- https://joshtronic.com/2021/01/17/recursively-create-directories-with-nodejs
-
 ### Cinema
 
 - [MNUG - Munich NodeJS User Group](http://mnug.de/videos.html)
@@ -130,6 +108,7 @@
 - https://jamesqquick.hashnode.dev/build-an-authenticated-jamstack-app-with-nextjs-airtable-tailwind-css-and-auth0
 - [7-month web development program covering HTML, CSS, Javascript, Node, and React!](https://github.com/HackYourFuture/curriculum)
 - [Rapid API Development with NodeJS, Fastify, Postgresql, and Swagger ~ Jay Wolfe](https://www.youtube.com/playlist?list=PLU_22oKqONin7yagFMm3x1tJihYaIVVwa) + https://jaywolfe.dev/blog/rapidly-build-a-nodejs-rest-api-with-fastify-postgresql-and-swagger-documentation
+- [A workshop for security experts who like JavaScript and javascripters who like (in)security.](https://github.com/jesusprubio/node-for-ninjas)
 
 ### Cheat sheets
 
@@ -137,6 +116,29 @@
 - https://github.com/dexteryy/spellbook-of-modern-webdev#nodejs
 - https://github.com/ArturJS/nodejs-certification-preparation
 - https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners
+
+### Debugging
+
+- [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
+- https://evilpacket.net/2019/leveraging-javascript-debuggers
+- https://github.com/tj/node-blocked
+- https://nodesource.com/blog/memory-leaks-demystified
+- https://gioyik.com/s/memory-chronicles-manage-trace-fix-memory-leaks
+- https://www.joyent.com/blog/walmart-node-js-memory-leak
+- [Profile & Analyze Node.js Applications.](https://gioyik.com/s/profile-analyze-nodejs-applications)
+- [JS Memory Analysor is a tool to detect memory leaks for Javascript/NodeJS.](https://github.com/alibaba/JS-Memory-Analysor)
+- https://github.com/lrlna/sketchin/blob/master/guides/tracing.md
+- https://bhattsameer.github.io/2021/01/01/client-side-encryption-bypass-part-1.html
+- https://www.jackhoy.com/web-applications/2020/10/21/debugging-memory-leaks-in-nodejs.html
+
+### TIL
+
+- [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
+- [How do you sync .env files (project specific) that are git-ignored between different computers?](https://twitter.com/thekitze/status/1207718292149952512)
+- [nvm install node --reinstall-packages-from=node](https://twitter.com/mtliendo/status/1215382381026316290)
+- https://www.heroku.com/podcasts/codeish/51-best-practices-in-error-handling
+- https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood
+- https://joshtronic.com/2021/01/17/recursively-create-directories-with-nodejs
 
 ### Internals
 
@@ -198,6 +200,8 @@
 - [A express package to list all registered endoints and its verbs](https://github.com/AlbertoFdzM/express-list-endpoints)
 - [Express view helper inspired by PHP's var_dump()](https://github.com/alessioalex/express-var-dump)
 - [A modern, minimalist, and lightweight URL shortener using Node.js and Redis](https://github.com/dotzero/node-url-shortener)
+- [A youtube downloader written in Javascript.](https://github.com/fent/node-ytdl)
+- https://github.com/jesusprubio/awesome-nodejs-pentest
 
 ### Testing
 
@@ -233,6 +237,7 @@
 - https://github.com/JonasCz/How-To-Prevent-Scraping
 - https://github.com/adamschwartz/web.scraper.workers.dev
 - https://github.com/microsoft/TypeScript-DOM-lib-generator
+- https://github.com/facundoolano/google-play-scraper
 
 
 ### Micro services
@@ -268,6 +273,7 @@
 - https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps + https://twitter.com/albinowax/status/1353631953703100416
 - [Dependency Confusion](https://twitter.com/bradleymeck/status/1359882487674077189) + https://twitter.com/alxbrsn/status/1359852094950436866 + https://twitter.com/alxbrsn/status/1359200840876257287 + https://www.kernelcrypt.com/posts/depedency-confusion-explained + https://github.blog/2021-02-12-avoiding-npm-substitution-attacks
 - https://www.slideshare.net/madhuakula/node-js-reverse-shell
+- [More than 100 security checks for your Node.js API](https://github.com/jesusprubio/strong-node)
 
 
 ### Static site generator

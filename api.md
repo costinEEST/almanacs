@@ -19,6 +19,7 @@
 - [Find books from Google Play Books](https://github.com/liyasthomas/books)
 - [This app uses the API of other websites and gives you an RSS feed in return.](https://github.com/stefansundin/rssbox)
 - https://github.com/adyz/youtube-parse-history
+- [Google Play Unofficial Python API](https://github.com/NoMore201/googleplay-api)
 
 ### GraphQL
 

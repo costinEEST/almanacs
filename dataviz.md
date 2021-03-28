@@ -44,6 +44,7 @@
 - [To design and develop an interactive globe](https://stripe.com/blog/globe) + https://news.ycombinator.com/item?id=24350546
 - https://jsvine.github.io/intro-to-visidata/the-big-picture/visidata-in-60-seconds + https://news.ycombinator.com/item?id=25322091
 - [React component to create interactive D3 tree graphs](https://github.com/bkrem/react-d3-tree)
+- https://github.com/anvaka/graph-drawing-libraries
 
 ### Talks
 

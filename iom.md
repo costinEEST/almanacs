@@ -45,6 +45,7 @@
 - [ĐApps: What Web 3.0 Looks Like](http://gavwood.com/dappsweb3.html)
 - https://github.com/francesco-strazzullo/ethereum-dapps-examples
 - [OrbitDB is a serverless, distributed, peer-to-peer database.](https://orbitdb.org) + https://news.ycombinator.com/item?id=26310094
+- [Build Backend for dApp with Node.js and Webpack](https://github.com/olisystems/dApp-nodeJS-webpack)
 
 ### References
 
@@ -72,6 +73,7 @@
 - [What are some good ethereum web tools?](https://twitter.com/thegostep/status/1353745295973228545)
 - [A simple blockchain in Javascript.](https://github.com/Savjee/SavjeeCoin)
 - https://github.com/nambrot/blockchain-in-js
+- [The cryptocurrency price tool on CLI.](https://github.com/bichenkk/coinmon)
 
 ### Boilerplate
 

@@ -1,3 +1,7 @@
+### Community
+
+- [PinePhone User’s Group](https://www.facebook.com/groups/490766952100168)
+
 ### Hardware
 
 - [USB data blocker](https://www.zdnet.com/article/this-cheap-gadget-can-stop-your-smartphone-or-tablet-being-hacked-at-an-airport-hotel-or-cafe/)

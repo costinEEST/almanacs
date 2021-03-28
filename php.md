@@ -27,6 +27,7 @@
 - [World countries in JSON, CSV, XML and Yaml. Any help is welcome!](https://github.com/mledoze/countries)
 - [Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.](https://github.com/serbanghita/Mobile-Detect)
 - [An exploration of the colors used by the ten most popular sites](https://github.com/Paul-Hebert/web_colors)
+- https://github.com/cubiclesoft/ultimate-web-scraper
 
 ### Security
 
