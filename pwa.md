@@ -5,19 +5,27 @@
 ### Book
 
 - [pwas-the-future-of-the-mobile-web](https://twitter.com/tomayac/status/1067505747456638976)
+- https://github.com/gauntface/web-push-book
 
 ### Course
 
 - [Progressive Web App Training - Google Chrome Developers](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 
+
 ### Case study
 
+- https://devblogs.microsoft.com/sustainable-software/green-energy-efficient-progressive-web-apps
 - [Learn why and how other developers have used the web to create amazing web experiences for their users.](https://developers.google.com/web/showcase)
 - https://formidable.com/work/starbucks-progressive-web-app + https://realtalkjavascript.simplecast.com/episodes/episode-74-react-at-starbucks-with-cher
 - https://medium.com/samsung-internet-dev/improve-device-integration-for-your-web-app-in-just-a-few-minutes-cca413c4f0f
 
+### Cinema
+
+- https://www.youtube.com/c/PWABuilder/videos
+
 ### Development
 
+- https://firt.dev/pwa-2021
 - https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa
 - [Utilities for common patterns that help you build your Progressive Web App](https://github.com/thepassle/pwa-helpers)
 - https://dev.to/thepassle/lessons-learned-building-a-covid-19-pwa-57fi
@@ -28,6 +36,9 @@
 - https://github.com/google-developer-training/pwa-training-labs
 - https://github.com/GeekyAndFun/pwa-docs
 - https://leandrotk.github.io/2021/01/optimizing-the-performance-of-a-react-progressive-web-app/index.html
+- https://medium.com/pwabuilder/building-pwas-with-web-components-33f986bf8e4c
+- [what library are you using to build them?](https://twitter.com/HarveyRamer/status/1375176619590057988)
+
 
 ### Demo
 
@@ -49,6 +60,8 @@
 - [QR Code Scanner - a simple, fast and useful progressive web application](https://github.com/gokulkrishh/qrcodescan.in)
 - [Orthodox Calendar PWA](https://github.com/dimaip/calendar)
 - [Links Detector makes printed links clickable via your smartphone camera.](https://github.com/trekhleb/links-detector)
+- [Collaborative whiteboard PWA](https://github.com/jgw96/liveCanvas)
+- https://github.com/jgw96/voice-notes
 
 ### Security
 

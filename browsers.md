@@ -1,5 +1,6 @@
 ### APIs
 
+- https://github.com/NOtherDev/whatwebcando
 - https://github.com/samdutton/simpl
 - [How to Get Around Newspaper Paywalls in 2019](https://t.co/pVtMutYzns)
 - [Trying out and demonstrating different browser APIs](https://github.com/vkallore/browser-apis)
@@ -275,6 +276,7 @@ javascript: (() =>
 - https://github.com/stackgl/webgl-workshop
 - [Javascript and the next decade of data programming](http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu) + https://github.com/rofrol/awesome-wgpu
 - https://www.amazon.com/Learning-Three-js-JavaScript-Library-Second/dp/1784392219
+- https://www.davrous.com/2020/03/22/understanding-shaders-the-secret-sauce-of-3d-engines
 
 
 ### Headless
@@ -289,6 +291,7 @@ javascript: (() =>
 ### Performance
 
 - https://github.com/leandrotk/web-performance-studies
+- https://www.davrous.com/2020/03/20/frame-variable-refresh-rates-or-why-tesla-is-responsible-for-the-60-fps-war
 
 ### Miscellaneous
 

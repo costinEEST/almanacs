@@ -63,6 +63,7 @@
 
 - https://github.com/AxlLind/AdventOfCode2020
 - https://github.com/danvk/aoc2020 + https://medium.com/@danvdk/advent-of-code-2020-this-time-in-rust-7904559e24bc
+- https://kerkour.com/blog/rust-for-web-development-2-years-later
 
 ### Podcast
 

@@ -72,6 +72,7 @@
 ### References
 
 - [Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place.](https://github.com/hoanhan101/ultimate-go)
+- [The ecosystem of the Go programming language](https://henvic.dev/posts/go)
 - https://github.com/jbranchaud/til/blob/master/go/access-go-docs-offline.md
 - https://github.com/pebbe/HowToGo
 - https://github.com/l-lin/architecture-cheat-sheet

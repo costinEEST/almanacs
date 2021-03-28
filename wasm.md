@@ -23,6 +23,7 @@
 ### Tools
 
 - [JS parser in Web Assembly / C](https://github.com/samthor/gumnut)
+- https://github.com/GoogleChromeLabs/wasm-feature-detect
 
 ### Opinions
 

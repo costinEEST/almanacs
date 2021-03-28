@@ -135,6 +135,7 @@
 
 ### Unicode
 
+- https://github.com/sindresorhus/is-unicode-supported
 - [Using untranslatable Unicode in place of a "?" when attacking URL parsers for SSRF/OAuth issues.](https://twitter.com/samwcyo/status/1246997498981494784)
 - https://medium.com/swlh/hacking-the-web-with-unicode-73d0f0c97aab
 - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses

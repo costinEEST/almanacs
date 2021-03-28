@@ -120,3 +120,4 @@
 - https://metaduck.com/the-history-of-databases-a-summary
 - https://github.com/pingcap/awesome-database-learning
 - https://github.com/madd86/awesome-system-design
+- https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html

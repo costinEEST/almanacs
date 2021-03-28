@@ -442,6 +442,8 @@
 - https://github.com/iamakulov/awesome-webpack-perf
 - https://www.learnwithjason.dev/lets-learn-esbuild
 - https://areknawo.com/top-js-rich-text-editor-frameworks-for-2021
+- [Tiny 200 byte functional event emitter / pubsub.](https://github.com/developit/mitt)
+- [Cross-browser utils for working with binary Blobs](https://github.com/nolanlawson/blob-util)
 
 ### Documentation
 

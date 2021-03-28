@@ -1,6 +1,6 @@
 ### Artist
 
-- https://www.impact.ro/rodion-rosca-a-murit-parintele-muzicii-electronice-romanesti-rapus-de-o-boala-crunta-155639.html
+- https://www.impact.ro/rodion-rosca-a-murit-parintele-muzicii-electronice-romanesti-rapus-de-o-boala-crunta-155639.html + https://www.eclecticfm.ro/rodion-ga-behind-curtain-lost-album + https://www.clujulcultural.ro/foto-video-rodion-ga-la-electric-castle-ce-sa-fac-daca-sunt-condamnat-la-succes + https://www.theguardian.com/music/2018/apr/11/rodion-ga-lost-musical-superstar-of-ceausescu-romania-rodion-rosca
 
 ### Book
 

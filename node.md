@@ -161,6 +161,7 @@
 - https://developer.mongodb.com/how-to/capturing-hacker-news-mentions-nodejs-mongodb
 - https://2ality.com/2019/11/nodejs-streams-async-iteration.html
 - https://github.com/lmammino/streams-examples
+- [Turn Node.js Events into Async Iterables.](https://github.com/danstarns/for-emit-of)
 
 ### Tools
 
@@ -223,6 +224,7 @@
 - https://futurestud.io/learningpaths/learn-hapi
 - https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc
 - https://github.com/simonplend/talks/tree/main/make-the-most-of-modern-javascript-with-fastify
+- [LeonAI has migrated from Express.js to @fastifyjs](https://twitter.com/louistiti_fr/status/1374978615696183296)
 
 ### Scrapping
 

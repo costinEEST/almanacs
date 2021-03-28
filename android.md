@@ -43,6 +43,7 @@
 - [APRSdroid - Geo-Location for Radio Amateurs](https://github.com/ge0rg/aprsdroid)
 - https://github.com/piotrpolak/android-http-server
 - [Scanning APK file for URIs, endpoints & secrets.](https://github.com/dwisiswant0/apkleaks)
+- https://bandarra.me/2021/02/04/webadb-Adb-Over-Usb-Resources
 
 ### APIs
 

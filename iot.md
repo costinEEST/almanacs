@@ -17,6 +17,7 @@
 ### ESP32
 
 - [Cloud Home Automation Series](https://twitter.com/binitamshah/status/1229349993829498882)
+- https://hackaday.com/2021/02/08/hands-on-the-risc-v-esp32-c3-will-be-your-new-esp8266
 
 ### ESP8266
 
