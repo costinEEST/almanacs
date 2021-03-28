@@ -2,7 +2,7 @@
 
 - [You don't need to be a .pcap reading God, just learn the fundamentals](https://twitter.com/Teck923/status/1205155221271433217)
 
-### Videos
+### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUdM5w5thzXQdyVi_MPcktVC
 - [Nicholas Andre](https://www.youtube.com/user/mrnickandre/videos)
@@ -10,7 +10,8 @@
 - https://www.udemy.com/course/ssl-complete-guide/
 - https://www.udemy.com/course/setup-your-own-web-hosting-environment/
 - https://www.udemy.com/course/secure-shell-fundamentals-learn-ssh-by-configuring-it/
-- https://www.udemy.com/course/sshcourse/
+- https://www.udemy.com/course/sshcourse
+- [Ben Eater's videos on low level networking stuff](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) + https://eater.net/inet
 
 * https://chrissanders.org/2019/05/infosec-mental-models/
 

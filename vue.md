@@ -6,6 +6,7 @@
 ### Cinema
 
 - [Rahul Kadyan](https://znck.me/speaks)
+- https://twitter.com/TekGadgt/status/1374961006405947395
 
 ### Demo
 

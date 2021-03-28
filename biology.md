@@ -7,6 +7,7 @@
 - https://inquisitivebiologist.com/2019/08/16/book-review-unravelling-the-double-helix-the-lost-heroes-of-dna
 - https://jsomers.net/i-should-have-loved-biology + https://news.ycombinator.com/item?id=25136422
 - https://minutes.substack.com/p/biotech-for-the-biocurious + https://twitter.com/shaklakhani/status/1371582498229121029
+- https://ldeming.posthaven.com/understanding-biology-quickly + https://bionumbers.hms.harvard.edu/search.aspx
 
 ### Courses
 

@@ -31,6 +31,7 @@
 - [A color palette generator for design systems.](https://twitter.com/lokesh/status/1206591284908969984) + https://lokeshdhakar.com/projects/color-stacks
 - https://www.freecodecamp.org/news/designing-in-color-abd358660a7b
 - [Math & data behind color spaces and color conversions.](https://github.com/colorjs/color-space)
+- https://www.benbenandblue.com/episodes/2018/4/17/bbb-14-color
 
 
 ### Community
@@ -131,6 +132,7 @@
 - [A generator to create the "frosted glass aesthetic" which combines a partially transparent background with backdrop-filter to create the effect.](https://glassmorphism.com)
 - [VS Code extension that lets you open a CSS Flexbox cheatsheet directly in the editor.](https://github.com/dzhavat/css-flexbox-cheatsheet)
 - [Conic.css - nice, simple conic gradients](https://conic.style)
+- [amazing generators](https://twitter.com/Prathkum/status/1374726453649100809)
   
 ### TV
 

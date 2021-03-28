@@ -24,3 +24,8 @@
 
 - https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01
 - https://edition.cnn.com/2020/11/19/world/first-global-map-bee-species-scn-trnd/index.html
+
+### Radio
+
+- https://newbooksnetwork.com/mark-monmonier-connections-and-content-reflections-on-networks-and-the-history-of-cartography-esri-press-2019
+- https://newbooksnetwork.com/matthew-edney-cartography-the-ideal-and-its-history-u-chicago-press-2019/

@@ -332,6 +332,7 @@
 - https://gumroad.com/l/beginners-guide-to-react-testing
 - https://github.com/kentcdodds/react-testing-library-examples
 - [Fast is beautiful and Jest is much faster than Cypress. Cypress gives you ultimate confidence when shipping. Jest gives you rapid feedback during development.](https://twitter.com/MaOberlehner/status/1372182887462793218)
+- https://github.com/ahmadnassri/i-jest-you-not + https://twitter.com/AhmadNassri/status/1375094293917003780
 
 ### Tooling
 

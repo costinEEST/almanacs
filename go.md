@@ -3,6 +3,7 @@
 - https://github.com/dreddsa5dies/automateGo
 - https://github.com/dreddsa5dies/networkGo
 - https://github.com/dariubs/GoBooks
+- https://twitter.com/MaximilienAld/status/1374762632499052548 + https://www.practical-go-lessons.com
 - 
 
 ### Boots

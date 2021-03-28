@@ -36,6 +36,7 @@
 
 ### AST
 
+- https://unicorn-utterances.com/posts/how-computers-speak
 - https://github.com/pshrmn/notes/blob/master/ast/nodes.md
 - https://github.com/kentcdodds/asts-workshop
 - https://tldrsec.com/blog/appsec-cali-2019/#endpoint-finder-a-static-analysis-tool-to-find-web-endpoints

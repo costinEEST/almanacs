@@ -1,6 +1,7 @@
 ### Alternative
 
 - [NextJS + Strapi Crash Course](https://www.youtube.com/playlist?list=PL5G1JGPXq1sQdQGUE8zWVOZk4OrvMxsrJ) + https://twitter.com/itsakeller/status/1372583258794377220
+- [Favorite (Headless) CMS and why?](https://twitter.com/jamesqquick/status/1374751439084519429)
 
 ### Boilerplate
 
@@ -21,6 +22,10 @@
 - [Grzegorz Ziolkowski - How Modern JS Influences WordPress [WordSesh APAC 2020]](https://gziolo.pl/2021/02/27/wordsesh-apac-2020)
 - [Headless WordPress Forms](https://twitter.com/jasonbahl/status/1370767810561904640)
 - https://www.youtube.com/c/WPCasts/playlists
+
+### Development
+
+- https://www.ezoic.com/how-fast-wordpress-site-ads-leap
 
 
 ### Opinion

@@ -23,3 +23,4 @@
 
 - [HTML-embeddable x86_64 emulator](https://github.com/bordplate/js86)
 - [x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86)
+- [VisUAL - A highly visual ARM emulator](https://salmanarif.bitbucket.io/visual)

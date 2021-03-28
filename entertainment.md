@@ -104,6 +104,7 @@
 - [The al-Ṯurayyā Project features an interactive map of the early Islamic world, with 2,000 named locations — from Damascus to Baghdad and beyond — and historical routes between them.](https://althurayya.github.io) + https://twitter.com/JajRK/status/1299889379817775106
 - https://anamariaonisei.ro/cele-mai-frumoase-tururi-virtuale-gratuite-de-la-muzeee-si-la-atractii-turistice-pana-la-plimbari-in-natura-si-parcuri-de-distractii
 - https://www.amazon.com/Elsewhere-Journey-into-Our-Islands-ebook/dp/B08KRML8VQ
+- [Can someone answer me why we need time zones? Why not just have one universal time?](https://twitter.com/mkobach/status/1374552316041326594)
 
 ### History
 

@@ -49,6 +49,7 @@
 - [Explore the basics of machine learning by building your own teachable object at home.](https://github.com/googlecreativelab/alto)
 - [Raspberry Pi Computing: Temperature Measurement](https://leanpub.com/rpctemp)
 - https://www.bit-101.com/blog/2021/02/raspberry-pi-pico-what-ive-learned
+- https://www.alexanderjsingleton.com/hack-to-spy-building-a-raspberry-spy-pi
 
 ### Smartwatch
 

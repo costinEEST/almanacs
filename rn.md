@@ -60,6 +60,8 @@
 - https://github.com/bedemiralp/how-do-they-use-x-at-y#react-native
 - https://medium.com/picovoice/add-voice-recognition-to-react-native-without-adding-the-cloud-af9e299336e4
 - https://sarathkcm.me/blog/lazy-loading-react-native-components-from-a-server
+- [React Native Templates & Apps & UI Themes & Components for easier start.](https://github.com/venits/react-native-market) + https://twitter.com/tony_venits/status/1374812426265317379
+- [add option to build only active architectures on android](https://github.com/react-native-community/cli/pull/1388) + https://twitter.com/janicduplessis/status/1374886100263665666
 
 ### Packages
 
