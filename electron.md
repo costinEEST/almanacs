@@ -11,6 +11,7 @@
 - [MagicPad is an encryption suite for beginners.](https://github.com/hyundotio/magicpad)
 - [Emoji searcher but as a menubar app.](https://github.com/muan/mojibar)
 - [Electron JS Browser To Find XSS Vulnerabilities Automatically](https://github.com/RenwaX23/XSSTRON)
+- https://cameronnokes.com/blog/how-to-know-if-a-desktop-app-uses-electron
 
 ### Demos
 

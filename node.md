@@ -59,12 +59,13 @@
 - https://twitter.com/loige/status/1312531675109232640
 - https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition
 
-### Boots
+### Bot
 
 - [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
 - https://jasonet.co/posts/build-your-own-probot
 - https://github.com/srepollock/quote-bot-twitter + https://medium.com/swlh/how-i-built-a-serverless-aws-lambda-twitter-bot-in-nodejs-in-a-single-day-6901f8df13f0
 - [A bitcoin trading bot written in node](https://github.com/askmike/gekko)
+- https://github.com/ccnokes/ron-swanson-quotes-slack-bot
 
 ### Boilerplate
 
@@ -163,6 +164,14 @@
 - https://github.com/lmammino/streams-examples
 - [Turn Node.js Events into Async Iterables.](https://github.com/danstarns/for-emit-of)
 
+### Promise
+
+- https://www.nearform.com/blog/broked-promises-james-snell-tech-talk-video
+
+### async
+
+- https://simonplend.com/are-you-using-promises-and-async-await-safely-in-node-js
+
 ### Tools
 
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
@@ -240,6 +249,7 @@
 - https://github.com/adamschwartz/web.scraper.workers.dev
 - https://github.com/microsoft/TypeScript-DOM-lib-generator
 - https://github.com/facundoolano/google-play-scraper
+- https://github.com/mathieudutour/medium-to-own-blog
 
 
 ### Micro services

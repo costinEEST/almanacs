@@ -45,7 +45,7 @@
 - [Notes for courses taken at Harvard (2015--2019)](https://github.com/Dongryul-Kim/harvard_notes)
 - http://abel.math.harvard.edu/pamphlets/courses.html
 
-### Videos
+### Cinema
 
 - https://www.youtube.com/user/standupmaths/videos
 - [Tutorials by Inigo Quilez](https://www.youtube.com/playlist?list=PL0EpikNmjs2CYUMePMGh3IjjP4tQlYqji)
@@ -75,6 +75,7 @@
 - https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills
 - https://www.youtube.com/c/EasyTheory/playlists
 - https://github.com/davidwparker/programmingtil-3d-math + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaxVxzRaSKs1gSSJMknhwrL
+- https://www.youtube.com/c/SyberMath/playlists
 
 ### Mathematicians
 

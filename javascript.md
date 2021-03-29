@@ -268,6 +268,7 @@
 ### new Map()
 
 - [Map.prototype.has() instead of Object.prototype.hasOwnProperty()](https://dev.to/mfulton26/comment/j060)
+- https://cameronnokes.com/blog/create-lodash.memoize-from-scratch
 
 ### new WeakMap()
 

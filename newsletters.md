@@ -88,6 +88,7 @@
 - [Your window into the magical world of SVG.](https://buttondown.email/viewBox/archive)
 - [deararchitects](https://us17.campaign-archive.com/home/?u=219daa24bb0e9b48aea4bcfcf&id=6d0addbd4c)
 - https://github.com/sourabh-joshi/awesome-quincy-larson-emails
+- [Kevin Cunningham](https://p.kevincunningham.co.uk/posts)
 
 ### Web performance
 

@@ -26,6 +26,7 @@
 ### Development
 
 - https://www.ezoic.com/how-fast-wordpress-site-ads-leap
+- https://mikejolley.com/2021/03/02/headless-wordpress-cookie-based-login-using-graphql
 
 
 ### Opinion

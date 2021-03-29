@@ -68,6 +68,7 @@
 - [Java](java.md)
 - [Javascript](javascript.md)
 - [Kotlin](kotlin.md)
+- [Learn (how to)](learn.md)
 - [Life sciences / real sciences](life.md)
 - [Linux](linux.md)
 - [Lisp](lisp.md)

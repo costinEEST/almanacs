@@ -9,6 +9,7 @@
 - https://drewdevault.com/2020/12/12/Shell-literacy.html + https://news.ycombinator.com/item?id=25399058
 - https://github.com/alexcoman/labs/tree/master/bash
 - https://lucasfcosta.com/2019/04/07/streams-introduction.html
+- https://github.com/rothgar/mastering-zsh
 
 ### Book
 
