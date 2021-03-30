@@ -47,6 +47,8 @@
 - https://www.tinkercad.com/circuits
 - https://medium.com/@jonathanberi/a-makers-equipment-list-4f8509d0d769
 - https://twitter.com/wimremes/status/1312374577683673089
+- [A digital logic designer and circuit simulator](https://github.com/hneemann/Digital)
+- [Q is a quantum circuit simulator, drag-and-drop circuit editor](https://github.com/stewdio/q.js)
 
 ### Miscellaneous
 

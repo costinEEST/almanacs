@@ -371,6 +371,7 @@
 - https://github.com/Apress/frameworkless-front-end-development 
 - [A tiny color picker custom element for modern web apps (2.7 KB)](https://github.com/web-padawan/vanilla-colorful)
 - https://github.com/WICG/virtual-scroller
+- https://blog.medblocks.org/2021-03-28-frontend-frameworks-why-you-should-reconsider + https://twitter.com/sidharth_ramesh/status/1376053744886902784
 
 ### Testing
 

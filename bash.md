@@ -47,6 +47,7 @@
 - https://iandunn.name/2020/05/08/use-z-to-quickly-cd-to-frequent-recent-folders
 - https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet#lbwh-anchor
 - https://www.twilio.com/blog/zsh-tricks-to-blow-your-mind + https://news.ycombinator.com/item?id=26175894
+- https://lanziani.com/blog/read-file-in-chunks-in-bash.html
 
 ### Tools
 

@@ -79,6 +79,7 @@
 - https://observablehq.com/collection/@mkfreeman/building-art-tools
 - https://adambard.com/blog/plotting-reddit-post-frequencies-with-d3
 - https://github.com/Wattenberger/Wattenberger-2019/tree/master/src/components/Blog/posts/D3AndReact + https://twitter.com/Wattenberger/status/1375063666840772615
+- [Tablou de vizualizare a licitatiilor publice si achizitiilor directe](https://github.com/ciocan/sicap-explorer)
 
 ### Miscellaneous
 

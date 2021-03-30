@@ -38,6 +38,7 @@
 - [ServiceWorker Testing made easy ](https://github.com/popeindustries/sw-tester)
 - https://dev.to/thepassle/the-mental-gymnastics-of-service-worker-257g
 - https://github.com/dominiccooney/Service-Worker-Performance
+- https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb + https://twitter.com/XssPayloads/status/1376382674173112320
 
 ### Engines
 
@@ -147,6 +148,7 @@
 - [Extension to block Service Workers registration in Chrome](https://github.com/clod81/block_service_workers)
 - [Chrome Extension to export all accessible cookies of the current Tab](https://github.com/cookiengineer/me-want-cookies)
 - [Spectroscope, identifies resources which are exempt from default protections enabled in Google Chrome (Cross-Origin Read Blocking, SameSite cookies) and which can be embedded cross-site.](https://chrome.google.com/webstore/detail/spectroscope/idppnaadbabknjeaifkegolcciafchpp)
+- https://github.com/juanlizarazo/a-better-linkedin-chrome-extension
 
 ### Bookmarklets
 
@@ -222,6 +224,7 @@ javascript: (() =>
 - https://csper.io/blog/other-csp-security
 - https://www.secjuice.com/hiding-javascript-in-png-csp-bypass + https://twitter.com/Menin_TheMiddle/status/1244325611440615426
 - https://tldrsec.com/blog/content-security-policy-going-from-idea-to-afterthought
+- https://sensepost.com/blog/2021/from-500-to-account-takeover + https://twitter.com/XssPayloads/status/1376389308207226881
 
 ### Same Origin Policy
 
@@ -292,6 +295,7 @@ javascript: (() =>
 
 - https://github.com/leandrotk/web-performance-studies
 - https://www.davrous.com/2020/03/20/frame-variable-refresh-rates-or-why-tesla-is-responsible-for-the-60-fps-war
+- https://ethanmarcotte.com/wrote/au-revoir-mon-ampmour
 
 ### Miscellaneous
 

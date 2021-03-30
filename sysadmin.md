@@ -126,6 +126,7 @@
 - https://theresnomon.co/what-modern-ci-cd-should-look-like-e6f50594c2d2
 - [Continuous Deployment with AWS and GitHub Actions](https://www.gauntface.com/blog/2020/static-site-hosting-on-aws)
 - [Do you run automated cypress / e2e tests on a local dev server on your CI pipeline?](https://twitter.com/onderceylan/status/1364877359665582080)
+- [How to print out credentials from Jenkins secrets](https://lanziani.com/blog/jenkins-credentials.html)
 
 ### Site Reliability Engineering
 

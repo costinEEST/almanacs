@@ -120,6 +120,10 @@
 
 http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 
+### Hindi
+
+- [How to Speak Hindi | Anil Mahato](https://www.youtube.com/playlist?list=PLDC40D4D8C4E28BC3)
+
 - https://neustadt.fr/essays/teaching-myself-german
 
 ### Japanese

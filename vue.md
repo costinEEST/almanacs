@@ -18,4 +18,5 @@
 - https://hswolff.com/blog/what-vuejs-does-better-than-react
 - https://hswolff.com/blog/things-i-dont-like-about-vuejs-as-a-react-engineer
 - [React Hooks vs Vue 3 Composition API](https://academy.esveo.com/en/blog/Yr)
+- https://www.getrevue.co/profile/masteringjs/issues/building-and-testing-email-templating-using-vue-257729
 

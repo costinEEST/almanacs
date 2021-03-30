@@ -89,6 +89,7 @@
 - [deararchitects](https://us17.campaign-archive.com/home/?u=219daa24bb0e9b48aea4bcfcf&id=6d0addbd4c)
 - https://github.com/sourabh-joshi/awesome-quincy-larson-emails
 - [Kevin Cunningham](https://p.kevincunningham.co.uk/posts)
+- [Valeri Karpov](https://www.getrevue.co/profile/masteringjs)
 
 ### Web performance
 
