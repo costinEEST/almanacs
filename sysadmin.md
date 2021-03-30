@@ -1,7 +1,9 @@
-### Talks
+### Cinema
 
 - [ Server Infrastructure for Global Rebellion.](https://media.ccc.de/v/36c3-11008-server_infrastructure_for_global_rebellion)
 - https://github.com/techno-tim/youtube-videos
+- [Managing AWS with Terraform](https://www.youtube.com/playlist?list=PLI8rNSktL2DR9yk5lMxpFcnOHI29-W6N3)
+- [A Packer Primer](https://www.youtube.com/playlist?list=PLI8rNSktL2DSOM8dfvYnkhPLeTRLu8zrf)
 
 ### Ansible
 

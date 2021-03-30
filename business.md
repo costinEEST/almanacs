@@ -172,3 +172,8 @@
 - [How Kanye West negotiated a better shoe deal than Michael Jordan](https://twitter.com/JoePompliano/status/1298057084550995970)
 - https://www.kalzumeus.com/2012/01/23/salary-negotiation + https://lethain.com/forty-year-career
 - [30+ books I recommend for PhDs](https://fromphdtolife.com/resources/recommended-reading)
+
+
+### Radio
+
+- https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020

@@ -17,6 +17,7 @@
 
 - http://mightyohm.com/wiki
 - https://github.com/mhxion/awesome-discord-communities#electrical
+- [Forrest M. Mims III](https://en.wikipedia.org/wiki/Forrest_Mims)
 
 ### Courses
 

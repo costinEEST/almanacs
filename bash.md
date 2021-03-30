@@ -1,16 +1,3 @@
-### References
-
-- https://github.com/dylanaraps/pure-bash-bible
-- https://www.grymoire.com/Unix/Awk.html
-- [Bash Quick References](https://shellmagic.xyz)
-- https://wiki.bash-hackers.org
-- https://elder.dev/posts/safer-bash
-- https://betterdev.blog/minimal-safe-bash-script-template + https://news.ycombinator.com/item?id=25428621
-- https://drewdevault.com/2020/12/12/Shell-literacy.html + https://news.ycombinator.com/item?id=25399058
-- https://github.com/alexcoman/labs/tree/master/bash
-- https://lucasfcosta.com/2019/04/07/streams-introduction.html
-- https://github.com/rothgar/mastering-zsh
-
 ### Book
 
 - https://legacy.gitbook.com/book/learnbyexample/command-line-text-processing/details
@@ -48,6 +35,9 @@
 - https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet#lbwh-anchor
 - https://www.twilio.com/blog/zsh-tricks-to-blow-your-mind + https://news.ycombinator.com/item?id=26175894
 - https://lanziani.com/blog/read-file-in-chunks-in-bash.html
+- Clean up all node_modules in projects - [tweet](https://twitter.com/swyx/status/1064672618450579457) + [gist](https://gist.github.com/zephraph/9169b9de4568b858f4b0e45fc41218b7)
+- [I have node_modules folders clogging up my system.](https://twitter.com/dolearning/status/1372481620259770373)
+
 
 ### Tools
 
@@ -56,3 +46,16 @@
 - https://github.com/stefanjudis/extract-media + https://twitter.com/mathias/status/1332251741602111488
 - [Shell script downloading videos embedded in tweets](https://gist.github.com/ngregoire/43891d80fde3c6cbb1a52a5a6468fe41)
 - [Pure bash script to test and wait on the availability of a TCP host and port](https://github.com/vishnubob/wait-for-it)
+
+### References
+
+- https://github.com/dylanaraps/pure-bash-bible
+- https://www.grymoire.com/Unix/Awk.html
+- [Bash Quick References](https://shellmagic.xyz)
+- https://wiki.bash-hackers.org
+- https://elder.dev/posts/safer-bash
+- https://betterdev.blog/minimal-safe-bash-script-template + https://news.ycombinator.com/item?id=25428621
+- https://drewdevault.com/2020/12/12/Shell-literacy.html + https://news.ycombinator.com/item?id=25399058
+- https://github.com/alexcoman/labs/tree/master/bash
+- https://lucasfcosta.com/2019/04/07/streams-introduction.html
+- https://github.com/rothgar/mastering-zsh
