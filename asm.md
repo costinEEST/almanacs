@@ -1,8 +1,8 @@
 ### Books
 
+- https://github.com/mytechnotalent/Reverse-Engineering-Tutorial + https://0xinfection.github.io/reversing
 - [Programming With Ones and Zeros](https://www.hanshq.net/ones-and-zeros.html)
 - https://keleshev.com/compiling-to-assembly-from-scratch-the-book
-- https://github.com/mytechnotalent/Reverse-Engineering-Tutorial + https://0xinfection.github.io/reversing
 
 ### References
 

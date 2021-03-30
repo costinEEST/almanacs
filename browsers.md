@@ -68,6 +68,7 @@
 ### Extensions
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
+- [Identify technology on websites.](https://github.com/AliasIO/wappalyzer)
 - https://github.com/aeksco/react-typescript-chrome-extension-starter
 - https://robertheaton.com/2018/05/07/making-youtube-less-bad-for-you-using-css
 - https://mmazzarolo.com/blog/2019-01-13-another-tab
@@ -246,6 +247,7 @@ javascript: (() =>
 - [A Progressive Web App for local file sharing](https://github.com/RobinLinus/snapdrop)
 - https://github.com/delapuente/presentations#webrtc--web-components
 - https://github.com/kgryte/awesome-peer-to-peer#resources
+- https://github.com/EnableSecurity/awesome-rtc-hacking
 
 ### Canvas
 

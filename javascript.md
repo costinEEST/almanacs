@@ -447,6 +447,7 @@
 - https://areknawo.com/top-js-rich-text-editor-frameworks-for-2021
 - [Tiny 200 byte functional event emitter / pubsub.](https://github.com/developit/mitt)
 - [Cross-browser utils for working with binary Blobs](https://github.com/nolanlawson/blob-util)
+- [I have node_modules folders clogging up my system.](https://twitter.com/dolearning/status/1372481620259770373)
 
 ### Documentation
 

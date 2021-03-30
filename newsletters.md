@@ -35,6 +35,7 @@
 ### Biology
 
 - https://csvoss.substack.com/archive
+- [Biotech Without Borders](https://us16.campaign-archive.com/home/?u=2aafc95ab831ff84383e5b4a2&id=fa2a5447f8)
 
 ### History
 

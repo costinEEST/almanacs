@@ -39,6 +39,7 @@
 - https://github.com/padraic/phpsecurity
 - https://github.com/GoSecure/php7-opcache-override
 - https://blog.packagist.com/preventing-dependency-hijacking
+- [WAF bypassing](https://twitter.com/0xInfection/status/1340758820042256384)
 
 ### Miscellaneous
 

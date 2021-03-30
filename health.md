@@ -225,6 +225,7 @@
 - https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2020 + https://news.ycombinator.com/item?id=25356485
 - [COVID-19 Changed Science Forever - The Atlantic](https://amp.theatlantic.com/amp/article/617262)
 - https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines
+- [Journal Club - Deep Dives into the Primary Literature | Youtube Microbiology Journal Club](https://www.youtube.com/playlist?list=PLASpI360FnueQxqPuoxjYuypW5evZxeKm)
 
 ### Radiation
 

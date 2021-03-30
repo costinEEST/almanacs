@@ -142,3 +142,4 @@
 
 - https://www.abhaybhargav.com/tdd-for-serverless-my-setup
 - https://www.abhaybhargav.com/security-automation-with-a-markdown-file
+- https://github.com/mytechnotalent/Selenium-For-Everyone

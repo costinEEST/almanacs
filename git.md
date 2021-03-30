@@ -44,6 +44,7 @@
 
 ### Github
 
+- https://twitter.com/0xInfection/status/1353345861976252417 + https://0xinfection.medium.com/utilizing-ci-cds-to-the-fullest-for-fun-and-profit-78f73d505fd0
 - https://sneak.berlin/20200307/the-case-against-microsoft-and-github
 - https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly
 - https://felixge.de/2013/03/11/the-pull-request-hack

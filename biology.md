@@ -8,6 +8,7 @@
 - https://jsomers.net/i-should-have-loved-biology + https://news.ycombinator.com/item?id=25136422
 - https://minutes.substack.com/p/biotech-for-the-biocurious + https://twitter.com/shaklakhani/status/1371582498229121029
 - https://ldeming.posthaven.com/understanding-biology-quickly + https://bionumbers.hms.harvard.edu/search.aspx
+- [What's Your Bio Strategy?: How to Prepare Your Business for Synthetic Biology](https://www.amazon.com/Whats-Your-Bio-Strategy-Synthetic/dp/0999313614)
 
 ### Courses
 
@@ -17,6 +18,16 @@
 - https://www.youtube.com/user/bozemanbiology/playlists
 - [Bioengineering 101 Class - Josiah Zayner](https://www.youtube.com/playlist?list=PLNAhY1w2w78qIZLdi1Y69q1_fo0PVolRA)
 - https://learn.genetics.utah.edu + https://news.ycombinator.com/item?id=23295590
+- https://www.edx.org/course/the-science-and-business-of-biotechnology
+
+### Community
+
+- [Ellen Jorgensen](http://www.biotechwithoutborders.org)
+- [Michael Retchin](https://twitter.com/MichaelRetchin/status/1365712597463490560)
+
+### Cinema
+
+- https://www.pbs.org/kenburns/the-gene
 
 ### Miscellaneous
 
