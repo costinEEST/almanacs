@@ -79,6 +79,7 @@
 - [Markdown](markdown.md)
 - [Mathematics](math.md)
 - [Mentors](mentors.md)
+- [Microsoft Excel](excel.md)
 - [Music](music.md)
 - [Newsletters](newsletters.md)
 - [Nim](nim.md)
