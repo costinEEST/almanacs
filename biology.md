@@ -19,6 +19,7 @@
 - [Bioengineering 101 Class - Josiah Zayner](https://www.youtube.com/playlist?list=PLNAhY1w2w78qIZLdi1Y69q1_fo0PVolRA)
 - https://learn.genetics.utah.edu + https://news.ycombinator.com/item?id=23295590
 - https://www.edx.org/course/the-science-and-business-of-biotechnology
+- https://github.com/Developer-Y/cs-video-courses#computational-biology
 
 ### Community
 
@@ -28,6 +29,7 @@
 ### Cinema
 
 - https://www.pbs.org/kenburns/the-gene
+- [Signalling Theory and the Genetic Code](https://www.youtube.com/playlist?list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o) + https://twitter.com/StatedClearly/status/1349828940232355850
 
 ### Miscellaneous
 

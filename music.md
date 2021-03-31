@@ -9,6 +9,10 @@
 - https://www.amazon.co.uk/Music-Instinct-Works-Cant-Without/dp/0099535440
 - https://www.fundatiacaleavictoriei.ro/produs/muzica-clasica-si-opera-doua-carti-de-tiberiu-soare
 
+### Cinema
+
+- https://en.m.wikipedia.org/wiki/Behind_the_Music
+
 ### Instrument
 
 - [Can anyone suggest a Guitar for beginners?](https://twitter.com/divyanshub024/status/1212427300345503744)

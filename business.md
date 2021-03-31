@@ -13,6 +13,8 @@
 - ["Where’s my Flying Car - A memoir of Futures Past" by J Storrs Hall](https://twitter.com/Ben_Reinhardt/status/1302657377573965832)
 - https://www.amazon.com/Perfect-Store-Inside-eBay/dp/0316164933
 - https://www.scribd.com/doc/182219705/Great-Wall-of-Numbers-Business-Opportunities-Challenges-in-China
+- [What are the best decion making books?](https://twitter.com/susanneknoll/status/1149193156854001665)
+- [history of science and tech books](https://twitter.com/ljxie/status/1344703388030791680)
 
 ### Marketing
 
@@ -56,6 +58,8 @@
 - https://naz.dev/posts/the-art-of-growth-skills
 - https://github.com/jasoncwarner/ama/issues/2#issuecomment-618099083
 - https://github.com/jasoncwarner/ama/issues/4
+- [How intelligence & environmental factors impact how we receive, interpret & share info](https://twitter.com/briannekimmel/status/1202037982313639936)
+- [What are some good resources for designing product teams?](https://twitter.com/kylemathews/status/1205253131451265024)
 
 
 ### Strategy
@@ -98,9 +102,11 @@
 - [I was at Amazon in 2000 when the internet bubble popped.](https://twitter.com/danrose999/status/1347677573900242944)
 - https://github.com/KrishMunot/awesome-startup
 - [A list of startups that have employee-friendly terms for exercising your options past 90 days.](https://github.com/holman/extended-exercise-windows)
+- [tired of dunking on Parler](https://twitter.com/sarahmei/status/1348466213987315712)
 
 ### Investing
 
+- https://twitter.com/TimJonesBI/status/1333060108981592065
 - [The education of a value investor](https://twitter.com/hirwaadolphe/status/1206570768659877888)
 - [Commercial open-source software](https://twitter.com/andy_matuschak/status/1235073448105279490)
 - [Algorithmic trading (books).](https://twitter.com/infinitesimal_p/status/1241450272154693632)

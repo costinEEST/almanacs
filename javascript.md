@@ -113,6 +113,7 @@
 - https://github.com/PacktPublishing/Hands-on-JavaScript-for-Python-Developers
 - https://github.com/javascript-society/javascript-path
 - https://github.com/qcmaude/refactoring-at-scale
+- [The First 20 Years](http://www.wirfs-brock.com/allen/posts/866) + https://twitter.com/awbjs/status/1238213231929245696
 
 ### Course
 
@@ -145,6 +146,7 @@
 
 - https://github.com/you-dont-need/You-Dont-Need-Loops
 - [Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
+- [Abusing Function.toString() to basically do macros](https://twitter.com/pfrazee/status/1203415397489348608) + https://codepen.io/pfrazee/pen/NWPGOMg?editors=0011
 
 ### function\* () {}
 
@@ -229,6 +231,7 @@
 ### new Promise()
 
 - [What does this code print?](https://twitter.com/Swizec/status/1206624095816699906)
+- [wrapper for an array of promises that can fine control how to run them?](https://twitter.com/sseraphini/status/1245427739169079296)
 - [Canceling long-running operations](https://haroen.me/presentations/en/canceling-async)
 - https://medium.com/edge-coders/why-are-promises-better-than-callbacks-c16f8ff1ae1e
 - [Dev w/ Dan: Live refactoring using Functional Promises](https://youtu.be/CnJdzMF6GTo)
@@ -239,14 +242,15 @@
 - https://medium.com/@arsenyyankovsky/effective-limited-parallel-execution-in-javascript-ea2a1fb9a632 + https://www.npmjs.com/package/@supercharge/promise-pool
 - https://advancedweb.hu/what-is-the-async-disposer-pattern-in-javascript
 - [how to handle api timeout using fetch](https://gist.github.com/sibelius/624ebc0e1a7e4784140b78f4b214e9f5)
+- https://github.com/magento/baler/blob/f6dc98d71/src/magentoFS.ts#L42 + https://twitter.com/drewml/status/1266096641494433792
 
 ### async await
 
 - Fast and maintainable patterns for fetching from a database: [tweet](https://twitter.com/sophiebits/status/1212555591056424960) + [blog post](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
 - https://github.com/Lemoncode/async-javascript-fundamentals
 - [waitForFrame: a little async utility to wait for an animation frame](https://twitter.com/alexandereardon/status/1245870136659066882)
-- [Wrapper for an array of promises that can fine control how to run them?](https://twitter.com/sseraphini/status/1245427739169079296)
 - [Comparing various async patterns for a single demo](https://github.com/getify/A-Tale-Of-Three-Lists)
+- [Does anyone have a fetch wrapper that packs in sane error handling?](https://twitter.com/tannerlinsley/status/1275823695051673601) + https://hassansin.github.io/Why-return-await-Is-a-Bad-Idea
 
 ### JSON.parse()
 
@@ -273,7 +277,6 @@
 ### new WeakMap()
 
 - https://chrisrng.svbtle.com/using-weakmap-for-private-properties
-- https://twitter.com/MarijnJH/status/1328364495459192832
 - [How to detect if an object has been garbage collected in Javascript](http://stevehanov.ca/blog/?id=148)
 
 ### new Set()
@@ -338,6 +341,9 @@
 - [bypass document.write](https://twitter.com/LiveOverflow/status/1319325896545865728)
 - https://css-tricks.com/using-abortcontroller-as-an-alternative-for-removing-event-listeners
 - https://benfrain.com/building-a-table-of-contents-with-active-indicator-using-javascript-intersection-observers
+- [What is document.domain?](https://twitter.com/zcorpan/status/1202958734949060608)
+- [appending multiple elements to the DOM?](https://twitter.com/paul_irish/status/1169841234438848519)
+- [Find out which element is scrolling](https://gist.github.com/brumm/74fd7eaafd50c8477519) + https://twitter.com/funkensturm/status/1222616188485799937
 
 ### Single-page application
 
@@ -445,6 +451,8 @@
 - https://areknawo.com/top-js-rich-text-editor-frameworks-for-2021
 - [Tiny 200 byte functional event emitter / pubsub.](https://github.com/developit/mitt)
 - [Cross-browser utils for working with binary Blobs](https://github.com/nolanlawson/blob-util)
+- https://github.com/privatenumber/minification-benchmarks
+- https://github.com/evanw/source-map-visualization
 
 ### Documentation
 

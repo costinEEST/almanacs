@@ -3,8 +3,8 @@
 - [What books about hardware hacking would your recommend?](https://twitter.com/gynvael/status/1250749898296709121)
 - https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282
 - https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
-- https://twitter.com/jeremyjkun/status/1208842557624471552
 - [What is your most obsolete technical book that you would not / will not get rid of, for sentimental reasons?](https://twitter.com/starsandrobots/status/1219504631438397441)
+- [What's the best book for someone who wants to get into electronics?](https://twitter.com/jeremyjkun/status/1208842557624471552)
 - https://ultimateelectronicsbook.com
 - [What are some good resources to learn how electricity works?](https://news.ycombinator.com/item?id=23562181)
 - [The Digital Flood: The Diffusion of Information Technology Across the U.S., Europe, and Asia - James W. Cortada](https://www.amazon.com/Digital-Flood-Diffusion-Information-Technology/dp/0199921555)
@@ -18,6 +18,7 @@
 - http://mightyohm.com/wiki
 - https://github.com/mhxion/awesome-discord-communities#electrical
 - [Forrest M. Mims III](https://en.wikipedia.org/wiki/Forrest_Mims)
+- [Razvan T. Coloja](https://twitter.com/cypresstwist)
 
 ### Courses
 

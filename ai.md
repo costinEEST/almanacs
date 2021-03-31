@@ -12,6 +12,7 @@
 - [Noor Siddiqui](https://progressstudies.school/the-torch-of-progress-ep-7-with-noor-siddiqui)
 - https://twitter.com/amitness/status/1288713405700780033
 - [Letiția Pârcălăbescu](https://www.youtube.com/c/AICoffeeBreak/playlists)
+- [Machine Learning & User Experience (MLUX)](https://www.meetup.com/MLUXmeetup)
 
 ### References
 
@@ -43,6 +44,7 @@
 - https://github.com/hoya012/awesome-anomaly-detection
 - https://github.com/alex-movila/My-Public-AI-Presentations
 - https://www.notion.so/Rishabh-Anand-ceb23e08fecf4afb8732fe0f55039f90 + https://twitter.com/rishabh16_/status/1366810566493310976
+- https://github.com/Developer-Y/cs-video-courses#image-processing-and-computer-vision
 
 ### Tools
 
@@ -85,6 +87,7 @@
 - [The Hundred-Page Machine Learning Book by Andriy Burkov](http://themlbook.com) + https://news.ycombinator.com/item?id=25905899
 - [Data Science in Julia for Hackers](https://notamonadtutorial.com/how-we-wrote-a-hands-on-bayesian-data-science-book-in-6-months-a97c73a510b5)
 - [ Recurrent Attentive Neural Process for Time Series Clustering (Master Thesis)](https://docs.google.com/presentation/d/1anMlTRTguPB0dUG7t3u5dgV6xuAaU9XadWFFX_dn7oE)
+- https://uxplanet.org/designer-friendly-resources-to-study-ai-and-machine-learning-1-6106e257faeb
 
 ### Cinema
 

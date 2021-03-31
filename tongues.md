@@ -146,6 +146,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - https://twitter.com/philip_mcneill/status/1322524744755875840
 - [Emblems of love, in four languages : dedicated to the ladies](https://archive.org/details/emblemsofloveinf00ayre)
 - https://twitter.com/DannyBate4/status/1370405688372047876
+- [Learning Latin the Ancient Way | Eleanor Dickey](https://twitter.com/prathyvsh/status/1185363307575689216)
 
 ### Spanish
 

@@ -21,7 +21,7 @@
 - [Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30) + [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/en/book/show/530415) + https://jamesclear.com/great-speeches/learning-to-learn-by-richard-hamming
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
 
-### TV
+### Cinema
 
 - [GOTO 2016 • Pure Functional Programming in Excel • Felienne Hermans](https://youtu.be/0yKf8TrLUOw)
 - [Best Talks of 2019?](https://news.ycombinator.com/item?id=21858866)
@@ -30,6 +30,7 @@
 - https://www.deconstructconf.com/2017/dan-grossman-the-cs-undergrad-curriculum-of-2017
 - [Intro to Quantum Computing - HACKADAY](https://www.youtube.com/playlist?list=PL_tws4AXg7avHFquKAB6q6cep2pnueLpM)
 - https://github.com/JanVanRyswyck/awesome-talks#computer-history
+- https://github.com/Developer-Y/cs-video-courses#quantum-computing
 
 ### Books
 
@@ -90,6 +91,7 @@
 
 ### Practice
 
+- [A collaborative book on algorithms](https://github.com/algorithm-archivists/algorithm-archive)
 - [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 - https://github.com/danistefanovic/build-your-own-x + https://github.com/tuvtran/project-based-learning + https://github.com/AlgoryL/Projects-from-Scratch + ["Write your own" or "Build your own" software projects](https://news.ycombinator.com/item?id=16591918) + [What are some books where the reader learns by building projects?](https://news.ycombinator.com/item?id=22299180)
 - https://github.com/karan/Projects

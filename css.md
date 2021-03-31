@@ -97,6 +97,7 @@
 ### FlexBox
 
 - https://github.com/philipwalton/flexbugs
+- [My incomplete mental model for flexbox's main axis](https://twitter.com/pomber/status/1281339741682753542)
 
 ### Demo
 
@@ -137,6 +138,7 @@
 - [VS Code extension that lets you open a CSS Flexbox cheatsheet directly in the editor.](https://github.com/dzhavat/css-flexbox-cheatsheet)
 - [Conic.css - nice, simple conic gradients](https://conic.style)
 - [amazing generators](https://twitter.com/Prathkum/status/1374726453649100809)
+- [What's the best (simple) tool for creating animations?](https://twitter.com/kylemathews/status/1203140798302154752)
   
 ### TV
 

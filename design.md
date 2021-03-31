@@ -9,6 +9,8 @@
 - [Degreeless.design - Everything I Learned in Design School](https://www.degreeless.design)
 - https://github.com/bevacqua/reads#artdesign
 - https://scattered-thoughts.net/blog/2016/04/17/notes-on-calm-technology-principles-and-patterns-for-non-intrusive-design
+- https://www.amazon.com/Codify-Parametric-Computational-Landscape-Architecture/dp/1138125032 + https://twitter.com/mrmrs_/status/1225211023306756104
+- [What are the best ways/resources to teach backend developers to learn to build beautiful landing pages?](https://twitter.com/some1else/status/1266361213321125888)
 
 
 ### Cinema
@@ -29,11 +31,13 @@
 
 ### Course
 
+- https://matthewstrom.com/ethics
 - https://blog.awaxman.com/product-design-resources
 
 ### Community
 
 - https://www.facebook.com/lectiadedesign
+- [I hear a lot about how Stripe is the perfect example of good design.](https://twitter.com/kentcdodds/status/1219641103579779072)
 
 
 ### Graphic design

@@ -4,6 +4,7 @@
 - https://github.com/dreddsa5dies/networkGo
 - https://github.com/dariubs/GoBooks
 - https://twitter.com/MaximilienAld/status/1374762632499052548 + https://www.practical-go-lessons.com
+- https://github.com/davecheney/the-zen-of-go
 - 
 
 ### Boots
@@ -66,9 +67,10 @@
 - https://github.com/dreddsa5dies/goHackTools
 - [Visualize Go Dependency Trees](https://github.com/KyleBanks/depth)
 - [A plain-text file format and command line tool for time tracking](https://github.com/jotaen/klog) + https://news.ycombinator.com/item?id=25995838
-- [Check for dependency confusion vulnerabilities in multiple package management systems ](https://github.com/visma-prodsec/confused) + https://twitter.com/joohoi/status/1359467575441301504
+- [Check for dependency confusion vulnerabilities in multiple package management systems](https://github.com/visma-prodsec/confused) + https://twitter.com/joohoi/status/1359467575441301504
 - [Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
 - [Make JSON greppable!](https://github.com/tomnomnom/gron)
+- [Share your terminal as a web application](https://github.com/yudai/gotty)
 
 ### References
 
@@ -81,6 +83,8 @@
 - https://github.com/parsiya/Go-Security
 - https://github.com/parsiya/Hacking-with-Go
 - https://github.com/dreddsa5dies/algorithm
+- https://github.com/SerifAndSemaphore/go-serverless-list
+- https://github.com/system-pclub/go-concurrency-bugs
 
 ### Opinion
 

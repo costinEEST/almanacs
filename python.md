@@ -59,6 +59,7 @@
 
 - https://akshayr.me/blog/articles/python-dictionaries
 - [K-d Tree in Python - Tsoding](https://www.youtube.com/playlist?list=PLguYJK7ydFE7R7KqRRVXw23kOrn6jiwqi)
+- [Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures](https://github.com/MTrajK/coding-problems)
 
 ### Networking
 
@@ -136,6 +137,7 @@
 - https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial
 - [Tool to recover the RSA/ECDSA public key used to sign JWT tokens](https://github.com/FlorianPicca/JWT-Key-Recovery)
 - [Scrape Facebook public pages without an API key](https://github.com/kevinzg/facebook-scraper)
+- https://github.com/httpie/httpie
 
 
 ### Testing

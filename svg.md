@@ -14,6 +14,7 @@
 - [Twitter SVG Logo](https://gist.github.com/mbostock/3094619)
 - [Browse 300.000+ SVG Vectors and Icons](https://www.svgrepo.com)
 - [Open source emojis for designers, developers and everyone else!](https://github.com/hfg-gmuend/openmoji)
+- https://github.com/alrra/browser-logos
 
 ### Tutorials
 
@@ -28,7 +29,6 @@
 - https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp + https://twitter.com/Rich_Harris/status/1223277304819998721
 - [A tool for generating flow line representations using SVG paths / poly lines](https://github.com/msurguy/flow-lines)
 - https://github.com/edent/SuperTinyIcons
-- https://github.com/alrra/browser-logos
 - [Turn real code into faux code.](https://github.com/knutsynstad/faux-code-generator)
 - https://css-tricks.com/heres-how-i-solved-a-weird-bug-using-tried-and-true-debugging-strategies
 - [How to work with SVG icons](https://fvsch.com/svg-icons)

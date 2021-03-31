@@ -262,6 +262,7 @@ javascript: (() =>
 - https://github.com/sunify/canvas-playground
 - https://github.com/desandro/practical-ui-physics
 - [Canvas + JSX + Hooks](https://github.com/jchn/redraw)
+- [Visual Web Development (2021) | Radu Mariescu-Istodor](https://www.youtube.com/playlist?list=PLB0Tybl0UNfb3hTHPfEIg1SPw_-Ca9iIw)
 
 ### WebGL
 

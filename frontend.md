@@ -5,25 +5,6 @@
 - [HTML has native support for autocomplete-style dropdowns attached to inputs via the <datalist> element.](https://twitter.com/TejasKumar_/status/1194689434656088065)
 - [Make a custom select menu](https://twitter.com/scottjehl/status/1225507115172847618)
 
-### Accessibility
-
-- https://www.edx.org/course/web-accessibility-introduction
-- https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108
-- https://www.24a11y.com/2019/an-adventurers-guide-to-w3c-specs/
-- https://github.com/brunopulis/awesome-a11y
-- https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
-- https://mismatch.design/resources/accessibility-resources/2018/07/14/introduction-to-disability-and-accessibility
-- [WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments. ](https://github.com/CoreyGinnivan/whocanuse)
-- https://fotis.xyz/tags/a11y
-- https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me
-- https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
-- https://spectrum.adobe.com/page/inclusive-design
-- https://github.com/springernature/frontend-playbook/blob/master/accessibility/README.md
-- https://github.com/stringyland/a11y-learning-plan
-- [.. audit](https://twitter.com/zcorpan/status/1217627504535576579)
-- https://www.vincit.fi/fi/software-development-450-words-per-minute
-- https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html
-- https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren
 
 ### CSS
 

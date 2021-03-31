@@ -84,6 +84,9 @@
 - [A setup for a node express api with typescript](https://github.com/tommarien/ts-node-api-2019)
 - https://github.com/vagr9k/gatsby-advanced-starter
 - https://github.com/focusaurus/express_code_structure
+- https://github.com/Nilomiranda/relay-social + https://twitter.com/Nilomiranda/status/1241465671608918017
+- https://github.com/covidgreen/covid-green-backend-api + [Can anyone recommend some beginner friendly @fastifyjs
+](https://twitter.com/simonplend/status/1347482545831731203)
 
 ### Cinema
 
@@ -212,6 +215,7 @@
 - [A modern, minimalist, and lightweight URL shortener using Node.js and Redis](https://github.com/dotzero/node-url-shortener)
 - [A youtube downloader written in Javascript.](https://github.com/fent/node-ytdl)
 - https://github.com/jesusprubio/awesome-nodejs-pentest
+- [Check the TLS protocol support of one or more web servers](https://github.com/styfle/tls-check)
 
 ### Testing
 
@@ -311,6 +315,8 @@
 - https://github.com/leandrotk/publisher + https://www.freecodecamp.org/news/automating-my-blog-posts-publishing-process-with-typescript
 - [‎Personal website running on Gatsby, React, and Node](https://github.com/taniarascia/taniarascia.com)
 - https://github.com/colinhemphill/nextjs-resume
+- https://www.hawksworx.com/blog/eleventail-a-helper-for-tailwindcss-and-eleventy
+- https://github.com/jakearchibald/jakearchibald.com + https://twitter.com/jaffathecake/status/1263371682313654273
 
 
 ### Serverless

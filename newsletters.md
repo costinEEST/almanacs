@@ -1,3 +1,7 @@
+### Tips
+
+- [feeds/videos.xml?channel_id={{CHANNEL_ID}}](https://twitter.com/pawelgrzybek/status/1240249320336695296)
+
 ### Accessibility
 
 - [T12t](https://us14.campaign-archive.com/home/?u=23907132d7bd3ae259858b057&id=b8c09bd7b1)
@@ -31,6 +35,7 @@
 ### Buddhism
 
 - [Prietenii Editurii Rabten](https://us9.campaign-archive.com/home/?u=631f68b23c06eceac05035aff&id=194eb176a7)
+- [Dunhuang Foundation](https://us10.campaign-archive.com/home/?u=069b842b10e7ad40bfba99e7f&id=c2f585d33a)
 
 ### Biology
 
@@ -62,7 +67,7 @@
 ### Design
 
 - [Design Sprint Newsletter by Jake Knapp](https://www.getrevue.co/profile/designsprint)
-- [matthewstrom.com](https://buttondown.email/mattstrom/archive)
+- [Matthew Ström](https://buttondown.email/mattstrom/archive)
 - [Eugene Fedorenko](https://us5.campaign-archive.com/home/?u=83da65c877f13a622c18a7fbf&id=ded3ad2e0d)
 
 ### Data visualization
@@ -91,6 +96,7 @@
 - https://github.com/sourabh-joshi/awesome-quincy-larson-emails
 - [Kevin Cunningham](https://p.kevincunningham.co.uk/posts)
 - [Valeri Karpov](https://www.getrevue.co/profile/masteringjs)
+- https://danburzo.ro/rolodex
 
 ### Web performance
 
@@ -128,6 +134,12 @@
 
 - https://vimtricks.substack.com/archive
 
+### Math
+
+- [Jeremy Kun](https://buttondown.email/j2kun/archive)
+
 ### Politics
 
 - [A newsletter by Bill Bishop, an expert on Chinese politics.](https://sinocism.com/archive) + https://twitter.com/niubi
+
+

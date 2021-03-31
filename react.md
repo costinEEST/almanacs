@@ -60,6 +60,7 @@
 
 ### Hooks
 
+- https://twitter.com/tylermcginnis/status/1169667360795459584
 - https://github.com/rehooks/awesome-react-hooks
 - https://github.com/donavon/hook-flow
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
@@ -94,12 +95,13 @@
 - https://github.com/imbhargav5/rooks
 - [Gyro-web: Accessing the device orientation in JavaScript](https://trekhleb.dev/blog/2021/gyro-web)
 - https://github.com/wellyshen/use-web-animations
+- [how does setting state cause code in ReactDOM to run?](https://twitter.com/sophiebits/status/1211008868446134272)
 
 ### Context API
 
 - https://tobea.dev/post/global-state-cleanliness-with-react-context
 - https://github.com/diegohaz/awesome-react-context
-- https://twitter.com/sophiebits/status/1228942768543686656
+- [That React Component Right Under Your Context Provider Should Probably Use `React.memo`](https://twitter.com/sophiebits/status/1228942768543686656)
 - https://github.com/Lemoncode/react-context-typescript
 - [Performant, scalable, testable and resilient state management using the Context API.](https://www.vorillaz.com/the-art-of-state-management)
 - [What’s your favorite resource for understanding React component composition to avoid prop drilling and managing shared state in complex components?](https://twitter.com/jhooks/status/1251636235375800320)
@@ -125,6 +127,7 @@
 - https://github.com/duetds/date-picker#usage-with-react
 - https://jeffchen.dev/posts/Detecting-Widows-In-React
 - https://github.com/jxom/awesome-react-headless-components
+- [A component that copies some text to the clipboard when it is clicked.](https://gist.github.com/alexanderson1993/8538c0f408227bc6f7e95a34f8b35944) + https://twitter.com/ralex1993/status/1354908479652327427
 
 ### Pattern
 

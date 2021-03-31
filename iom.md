@@ -25,6 +25,7 @@
 - https://academy.nomadcoders.co/p/build-a-blockchain-with-typescript
 - https://cryptoeconomics.study/en
 - https://cryptozombies.io + https://github.com/loomnetwork/cryptozombie-lessons + https://github.com/loomnetwork/cryptozombies-lesson-code
+- https://github.com/Developer-Y/cs-video-courses#misc
 
 ### Community
 

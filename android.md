@@ -2,6 +2,10 @@
 
 - [Chiu-Ki Chan](http://chiuki.github.io)
 
+### Courses
+
+- [Mobile Application Development (5th bullet)](https://github.com/Developer-Y/cs-video-courses#software-engineering)
+
 ### Security
 
 - https://github.com/anantshri/Android_Security + https://twitter.com/anantshri/status/1345757424616054790

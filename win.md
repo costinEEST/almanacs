@@ -63,7 +63,7 @@
 - https://github.com/W4RH4WK/Debloat-Windows-10
 - https://github.com/StevenBlack/hosts
 - https://github.com/Igglybuff/awesome-piracy#windows-10-privacy
-- https://gist.github.com/mackwage/08604751462126599d7e52f233490efe
+- https://gist.github.com/mackwage/08604751462126599d7e52f233490efe + https://twitter.com/dragosr/status/1259482957166731264
 
 ### Active directory
 

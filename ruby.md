@@ -23,3 +23,4 @@
 - [Listen to your favorite Youtube channels as audio podcasts offline.](https://github.com/sergio-fry/youtube-fetcher)
 - https://ankane.org/ruby-ml-for-python-coders
 - https://github.com/mtarnovan/romanianvalidators
+- [gem for determining whether a given URL is considered an IDN homograph attack](https://github.com/kickstarter/ruby-homograph-detector)

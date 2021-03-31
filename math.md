@@ -35,6 +35,7 @@
 - https://www.neilwithdata.com/mathematics-self-learner
 - https://csgordon.github.io/books.html + https://news.ycombinator.com/item?id=25572852
 - https://math.recipes/main.html + https://sat-smt.codes/main.html
+- [Bumping into some little known but cool computer history books lately.](https://twitter.com/prathyvsh/status/1199258119362117633)
 
 ### Courses
 

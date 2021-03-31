@@ -1,3 +1,39 @@
+### Algorithms
+
+- https://backdrifting.net/post/003_diffie_hellman
+- https://github.com/B-Con/crypto-algorithms
+- [S(T|N)ARKs.](https://twitter.com/mstrakastrak/status/1215099753991569409)
+- https://github.com/lrlna/sketchin/blob/master/guides/libsodium.md
+- https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110
+- [Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography](https://martin.kleppmann.com/papers/curve25519.pdf)
+- https://owlspace.xyz/cybersec/steam-login
+- https://thehazarika.com/blog/programming/rsa-cryptosystem
+- https://github.com/TheAlgorithms/Algorithms-Explanation/tree/master/en/Ciphers
+
+### Best practices
+
+- https://www.seancassidy.me/how-to-implement-crypto-poorly.html
+
+### Books
+
+- https://github.com/nakov/Practical-Cryptography-for-Developers-Book
+- [A Graduate Course in Applied Cryptography (Rev 2020)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf) + https://toc.cryptobook.us
+- https://cscott.net/Books/#crypto
+- https://book.keybase.io
+- https://blog.cryptographyengineering.com/2011/11/23/digital-fortress-i-read-it-so-you-dont + https://twitter.com/LindellYehuda/status/1251577233929576448
+- https://twitter.com/InsiderPhD/status/1338901012535513094
+
+### Courses
+
+- [Introduction to Cryptography (89-656), in Hebrew](https://www.youtube.com/playlist?list=PLM96W_EHEqh4ImClhKxuH4Fqm_Ieiok_B) + https://u.cs.biu.ac.il/~lindell/89-656/main-89-656.html
+- [Introduction to Cryptography - 1s2017](https://docs.google.com/spreadsheets/d/11_dfB1B1iTqjfMBjoWBtLkD14kCxDHsw-wsUbvIfaNg/pubhtml)
+
+### Cinema
+
+- [Theory and Practice of Cryptography](https://www.youtube.com/playlist?list=PL10875C2002F7E6F6)
+- [ Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+- [Workshop on Elliptic Curve Cryptography ECC 2020](https://eccworkshop.org/2020)
+
 ### Certificates
 
 - [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki)
@@ -9,6 +45,10 @@
 - [Best Practices for ACME Client Operations. Considerations for Long-Running TLS Certificate Management Software.](https://docs.https.dev/acme-ops)
 - https://ma.ttias.be/the-end-of-extended-validation-certificates + https://www.aaronpeters.nl/blog/ev-certificates-make-the-web-slow-and-unreliable
 - https://emilymstark.com/2020/07/20/certificate-transparency-a-birds-eye-view.html
+
+### Demos
+
+- [Store a secret securely in a standalone HTML file.](https://github.com/derhuerst/html-vault)
 
 ### Standards
 
@@ -37,43 +77,6 @@
 - https://digitalbunker.dev/2020/09/30/understanding-how-uuids-are-generated
 - [A collection of secure encryption examples for encrypting strings and binary data.](https://github.com/luke-park/SecureCompatibleEncryptionExamples)
 
-### Best practices
-
-- https://www.seancassidy.me/how-to-implement-crypto-poorly.html
-
-### Talks
-
-- [Theory and Practice of Cryptography](https://www.youtube.com/playlist?list=PL10875C2002F7E6F6)
-- [ Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
-- [Workshop on Elliptic Curve Cryptography ECC 2020](https://eccworkshop.org/2020)
-
-### Algorithms
-
-- https://backdrifting.net/post/003_diffie_hellman
-- https://github.com/B-Con/crypto-algorithms
-- [S(T|N)ARKs.](https://twitter.com/mstrakastrak/status/1215099753991569409)
-- https://github.com/lrlna/sketchin/blob/master/guides/libsodium.md
-- https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110
-- [Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography](https://martin.kleppmann.com/papers/curve25519.pdf)
-- https://owlspace.xyz/cybersec/steam-login
-- https://thehazarika.com/blog/programming/rsa-cryptosystem
-
-### Books
-
-- https://github.com/nakov/Practical-Cryptography-for-Developers-Book
-- [A Graduate Course in Applied Cryptography (Rev 2020)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf) + https://toc.cryptobook.us
-- https://cscott.net/Books/#crypto
-- https://book.keybase.io
-- https://blog.cryptographyengineering.com/2011/11/23/digital-fortress-i-read-it-so-you-dont + https://twitter.com/LindellYehuda/status/1251577233929576448
-
-### Courses
-
-- [Introduction to Cryptography (89-656), in Hebrew](https://www.youtube.com/playlist?list=PLM96W_EHEqh4ImClhKxuH4Fqm_Ieiok_B) + https://u.cs.biu.ac.il/~lindell/89-656/main-89-656.html
-- [Introduction to Cryptography - 1s2017](https://docs.google.com/spreadsheets/d/11_dfB1B1iTqjfMBjoWBtLkD14kCxDHsw-wsUbvIfaNg/pubhtml)
-
-### Demos
-
-- [Store a secret securely in a standalone HTML file.](https://github.com/derhuerst/html-vault)
 
 ### Practice
 

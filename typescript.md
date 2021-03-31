@@ -53,6 +53,8 @@
 - [infer](https://twitter.com/renatorib_/status/1372209255412023298)
 - [DDD & Event Sourcing Basics In TypeScript](https://github.com/jamesmh/event-sourcing-typescript-lessons)
 - [pkg TS rewrite](https://github.com/vercel/pkg/pull/1099)
+- [How would one build their own Typescript compiler?](https://twitter.com/tannerlinsley/status/1202745654939922434)
+- https://github.com/graphql/graphql-js/issues/2104 + https://twitter.com/GraphQL/status/1377277442860183553
 
 ### Practice
 
