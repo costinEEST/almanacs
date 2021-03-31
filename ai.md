@@ -1,4 +1,4 @@
-### People
+### Community
 
 - Suzana Ilić: [Twitter](https://twitter.com/suzatweet), [Linkedin](https://www.linkedin.com/in/suzanailic/)
 - Brandon Rohrer: [Twitter](https://twitter.com/_brohrer_), [Linkedin](https://www.linkedin.com/in/brohrer/)
@@ -10,6 +10,8 @@
 - https://sararobinson.dev/2020/11/17/writing-a-technical-book.html
 - [Daniel Etzold](https://etzold.io)
 - [Noor Siddiqui](https://progressstudies.school/the-torch-of-progress-ep-7-with-noor-siddiqui)
+- https://twitter.com/amitness/status/1288713405700780033
+- [Letiția Pârcălăbescu](https://www.youtube.com/c/AICoffeeBreak/playlists)
 
 ### References
 
@@ -40,6 +42,7 @@
 - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 - https://github.com/hoya012/awesome-anomaly-detection
 - https://github.com/alex-movila/My-Public-AI-Presentations
+- https://www.notion.so/Rishabh-Anand-ceb23e08fecf4afb8732fe0f55039f90 + https://twitter.com/rishabh16_/status/1366810566493310976
 
 ### Tools
 
@@ -81,6 +84,7 @@
 - https://twitter.com/EmilWallner/status/1314581326209613826
 - [The Hundred-Page Machine Learning Book by Andriy Burkov](http://themlbook.com) + https://news.ycombinator.com/item?id=25905899
 - [Data Science in Julia for Hackers](https://notamonadtutorial.com/how-we-wrote-a-hands-on-bayesian-data-science-book-in-6-months-a97c73a510b5)
+- [ Recurrent Attentive Neural Process for Time Series Clustering (Master Thesis)](https://docs.google.com/presentation/d/1anMlTRTguPB0dUG7t3u5dgV6xuAaU9XadWFFX_dn7oE)
 
 ### Cinema
 
