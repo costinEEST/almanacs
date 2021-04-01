@@ -80,6 +80,7 @@
 - https://adambard.com/blog/plotting-reddit-post-frequencies-with-d3
 - https://github.com/Wattenberger/Wattenberger-2019/tree/master/src/components/Blog/posts/D3AndReact + https://twitter.com/Wattenberger/status/1375063666840772615
 - [Tablou de vizualizare a licitatiilor publice si achizitiilor directe](https://github.com/ciocan/sicap-explorer)
+- https://observablehq.com/@philschatz/united-states-coronavirus-daily-cases-map-covid-19
 
 ### Miscellaneous
 

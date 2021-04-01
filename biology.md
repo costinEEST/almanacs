@@ -25,11 +25,16 @@
 
 - [Ellen Jorgensen](http://www.biotechwithoutborders.org)
 - [Michael Retchin](https://twitter.com/MichaelRetchin/status/1365712597463490560)
+- [Simon Barnett](https://twitter.com/sbarnettARK)
 
 ### Cinema
 
 - https://www.pbs.org/kenburns/the-gene
 - [Signalling Theory and the Genetic Code](https://www.youtube.com/playlist?list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o) + https://twitter.com/StatedClearly/status/1349828940232355850
+
+### Genomics
+
+- https://medium.com/@sbarnettARK/proteomics-primer-1-seer-190c942b244c
 
 ### Miscellaneous
 
@@ -52,3 +57,9 @@
 ### Teachers
 
 - https://www.perell.com/podcast/joe-henrich-what-makes-society-smart + http://hci.ucsd.edu/102b/readings/WeirdestPeople.pdf + https://medium.com/conversations-with-tyler/joe-henrich-culture-evolution-weird-psychology-social-norms-9756a97850ce + https://youtu.be/dRUyfW0ECNg
+
+### Radio
+
+- https://celadonbooks.com/interviews/genome-odyssey-euan-ashley-interview
+- https://ark-invest.com/podcast/understanding-mrna-conversations-with-moderna-and-arcturus-therapeutics + https://twitter.com/aurmanARK/status/1356383891909705730
+- https://carlzimmer.com/podcasts

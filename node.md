@@ -96,6 +96,7 @@
 - [Deno - TypeWithMe](https://www.youtube.com/playlist?list=PLlYJBXwGoczE6l8lm0AaFe62EtI3th41L)
 - https://www.slideshare.net/tshemsedinov/presentations
 - [Fullstack Code Challenge with Node, GraphQL and Relay](https://www.youtube.com/playlist?list=PLgzzeV46F4nMW3HSrx1hRSwD9-bgYVuO7)
+- [Node JS Performance Optimizations](https://www.youtube.com/playlist?list=PLISqeoHsXJYAIfu4-mgNY0tloWz2uut1t)
 
 ### Course
 
@@ -134,6 +135,7 @@
 - https://github.com/lrlna/sketchin/blob/master/guides/tracing.md
 - https://bhattsameer.github.io/2021/01/01/client-side-encryption-bypass-part-1.html
 - https://www.jackhoy.com/web-applications/2020/10/21/debugging-memory-leaks-in-nodejs.html
+- https://pawelgrzybek.com/from-express-to-fastify-in-node-js
 
 ### TIL
 
@@ -157,7 +159,7 @@
 - https://davidhettler.net/blog/event-loop-lag
 - https://github.com/lrlna/sketchin/blob/master/zines/js-event-loop.md
 
-### Streams
+### Stream
 
 - [Stream into the Future - Matteo Collina, NearForm](https://youtu.be/dEFdt_6fW-0)
 - https://twitter.com/djgrant_/status/1296395202056327172
@@ -174,6 +176,10 @@
 ### async
 
 - https://simonplend.com/are-you-using-promises-and-async-await-safely-in-node-js
+
+### Thread
+
+- https://dev.to/johnjardincodes/managing-multiple-threads-in-node-js-3mpc
 
 ### Tools
 

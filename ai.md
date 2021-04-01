@@ -45,6 +45,7 @@
 - https://github.com/alex-movila/My-Public-AI-Presentations
 - https://www.notion.so/Rishabh-Anand-ceb23e08fecf4afb8732fe0f55039f90 + https://twitter.com/rishabh16_/status/1366810566493310976
 - https://github.com/Developer-Y/cs-video-courses#image-processing-and-computer-vision
+- [Resources for conservation, development, and documentation of low resource (human) languages.](https://github.com/RichardLitt/low-resource-languages)
 
 ### Tools
 

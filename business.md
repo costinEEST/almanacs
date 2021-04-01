@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - [Tell-all company origin story](https://twitter.com/SachinMonga/status/1178522941954220033)
 - [I'm recommending my team read these five books.](https://twitter.com/dcancel/status/1206918216309706752)
@@ -15,6 +15,10 @@
 - https://www.scribd.com/doc/182219705/Great-Wall-of-Numbers-Business-Opportunities-Challenges-in-China
 - [What are the best decion making books?](https://twitter.com/susanneknoll/status/1149193156854001665)
 - [history of science and tech books](https://twitter.com/ljxie/status/1344703388030791680)
+
+### Cinema
+
+- [Technology History | ColdFusion](https://www.youtube.com/playlist?list=PL0iVR8sl9TiWhylpe3dyKKPRvTJHX3Ns7)
 
 ### Marketing
 

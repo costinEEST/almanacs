@@ -1,3 +1,7 @@
+### Cinema
+
+- [Markdown Showdown | Scott Spence](https://www.youtube.com/playlist?list=PLGi_uHe_v04B4xmHjNV7KTesFbqL7x1Xq)
+
 ### Tools
 
 - [embedmd: embed code into markdown and keep everything in sync.](https://github.com/campoy/embedmd)

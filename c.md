@@ -10,6 +10,7 @@
 - https://blog.dpc.dev/writing-solid-code-steve-maguire
 - https://modernc.gforge.inria.fr + https://news.ycombinator.com/item?id=24361469
 - https://github.com/preslavmihaylov/booknotes/tree/master/architecture/clean-architecture
+- [Pointers on C by Kenneth Reek](https://twitter.com/EigenPuff/status/1376223216310444037)
 
 ### Articles
 
@@ -66,6 +67,7 @@
 - [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo) + https://news.ycombinator.com/item?id=25712949
 - https://www.freecodecamp.org/news/boost-programming-skills-read-git-code
 - [The Success and Failure of Ninja](http://neugierig.org/software/blog/2020/05/ninja.html)
+- [An open source kernel and OS for music production](https://github.com/Morpheu5/tOfuS)
 
 ### Security
 

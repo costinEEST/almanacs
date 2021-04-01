@@ -25,6 +25,7 @@
 - https://github.com/fireship-io/firebase-security-course
 - https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
 - [NextJS and Serverless ~ James Perkins](https://www.youtube.com/playlist?list=PL5G1JGPXq1sQDMAV9BdlUJV9RfkZPSpVb)
+- https://twitter.com/brian_lovin/status/1377346382084763650
 
 ### Boilerplate
 
@@ -43,6 +44,8 @@
 - https://github.com/helloiamelliot/elliot-serverless-ecommerce
 - https://github.com/tommarien/react-playground
 - https://github.com/flarnie/Intro-To-React-And-TypeScript
+- [Has anyone done a successful transition from an out of date create-react-app to the next.js?](https://twitter.com/bdougieYO/status/1377298188361682944)
+- [Example project on how to send emails in Next.js with Sendgrid and Dynamic Templates ](https://github.com/hunterbecton/sendgrid-next-js)
 
 ### Books
 

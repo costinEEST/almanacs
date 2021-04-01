@@ -91,6 +91,7 @@
 - [Sunfish: a Python Chess Engine in 111 lines of code](https://github.com/thomasahle/sunfish)
 - https://github.com/mebeim/aoc
 - https://github.com/rasulkireev/builtwithdjango
+- https://www.ianbicking.org/blog/2018/11/viewing-python-execution-source-code-rewriting.html
 
 
 ### Security

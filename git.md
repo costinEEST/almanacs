@@ -60,6 +60,7 @@
 - https://github.com/boyney123/github-actions
 - https://github.com/sdras/awesome-actions
 - [A GitHub App for enforcing approval policies on pull requests that goes beyond what GitHub natively supports](https://github.com/palantir/policy-bot)
+- [Create a semantic release workflow with Lerna, Conventional Commits and GitHub Actions](https://github.com/jonwa/lerna-release-workflow)
 
 ### Tools
 

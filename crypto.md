@@ -22,6 +22,7 @@
 - https://book.keybase.io
 - https://blog.cryptographyengineering.com/2011/11/23/digital-fortress-i-read-it-so-you-dont + https://twitter.com/LindellYehuda/status/1251577233929576448
 - https://twitter.com/InsiderPhD/status/1338901012535513094
+- [Concrete Abstract Algebra by Niels Lauritzen](https://twitter.com/morpheu5/status/1376166695988039682)
 
 ### Courses
 

@@ -9,6 +9,7 @@
 - https://blog.hoangnm.com/ios%20development/2013/05/12/get-started-with-ios-programming
 - [iOS Tips and Tricks](https://blog.hoangnm.com/pageDir/iosTips)
 - https://rambo.codes/ios/quick-tip/2019/12/09/clearing-your-apps-launch-screen-cache-on-ios.html
+- https://lux.camera/iphone-12-camera-review + https://twitter.com/sdw/status/1377291408755716099
 
 ### Applications
 
@@ -24,6 +25,7 @@
 
 - [Virtual machines for iOS](https://github.com/utmapp/UTM)
 - https://blog.prototypr.io/a-designers-guide-to-switching-from-ios-to-android-c4c54fb03786
+- [music app for iPad](https://github.com/Morpheu5/SecondStudy-iPad)
 
 ### Reverse engineering
 

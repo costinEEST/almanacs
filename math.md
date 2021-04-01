@@ -8,7 +8,7 @@
 
 - https://www.amazon.com/Infinite-Powers-Calculus-Reveals-Universe/dp/1328879984
 - [Open-source textbooks on calculus, linear algebra, differential equations, real analysis, abstract algebra, combinatorics, and introduction to proof -- a partial list](https://twitter.com/stevenstrogatz/status/1208199688362610688)
-- https://github.com/nadvornix/calculus-made-easy
+- https://github.com/nadvornix/calculus-made-easy + https://twitter.com/helenczerski/status/1375915057905856513
 
 ### Books
 

@@ -14,6 +14,7 @@
 
 - [Typed functional programming in TypeScript in five minutes](https://github.com/typescript-fun/five-minutes-demo)
 - How domain modeling can help us to make our apps consistent & safe: [repo](https://github.com/gillchristian/modeling) + [slides](https://modeling.now.sh/)
+- [Understanding TypeScript's Structural Type System](https://spin.atomicobject.com/2018/09/28/typescript-strange-loop-2018)
 
 ### Book
 
@@ -26,6 +27,7 @@
 
 ### Cinema
 
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
 - [Ethan Arrowood](https://github.com/Ethan-Arrowood/talks)
 
 ### References
@@ -55,6 +57,7 @@
 - [pkg TS rewrite](https://github.com/vercel/pkg/pull/1099)
 - [How would one build their own Typescript compiler?](https://twitter.com/tannerlinsley/status/1202745654939922434)
 - https://github.com/graphql/graphql-js/issues/2104 + https://twitter.com/GraphQL/status/1377277442860183553
+- https://github.com/Quramy/lerna-yarn-workspaces-example
 
 ### Practice
 

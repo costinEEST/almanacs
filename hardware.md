@@ -35,6 +35,7 @@
 - [18-642 Embedded System Software Engineering, Fall 2020 | Prof. Philip Koopman](https://course.ece.cmu.edu/~ece642)
 - [OS Internals and Deep Your Understanding of x86 Architecture also a good prepare for Hypervisors](https://twitter.com/astrovax_/status/1320526877442846720) + http://opensecuritytraining.info/IntroX86.html + https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177
 - [The Hardware/Software Interface Class by Luis Ceze and Gaetano Borriello](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL)
+- [Proiectarea cu Microprocesoare](https://ocw.cs.pub.ro/courses/pm)
 
 ### Resistors
 

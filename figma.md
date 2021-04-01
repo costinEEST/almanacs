@@ -19,7 +19,7 @@
 - [How to make a "Question Mark" icon](https://twitter.com/steveschoger/status/1358852316808552453)
 - https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma
 
-### TV
+### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUemCRhYYvlFle4vhfVcJu9Q
 - [Build UX How Tos - Build UX](https://www.youtube.com/playlist?list=PLKFUh46KjXERWsJTTGT5rdqtD6XWmd726)
@@ -39,3 +39,4 @@
 - https://github.com/jagtalon/figma-fast-copy
 - https://www.figma.com/blog/plugins-to-help-you-design-with-real-content
 - https://setproduct.com/blog/figma-plugins-productivity-boost
+

@@ -11,6 +11,7 @@
 - https://scattered-thoughts.net/blog/2016/04/17/notes-on-calm-technology-principles-and-patterns-for-non-intrusive-design
 - https://www.amazon.com/Codify-Parametric-Computational-Landscape-Architecture/dp/1138125032 + https://twitter.com/mrmrs_/status/1225211023306756104
 - [What are the best ways/resources to teach backend developers to learn to build beautiful landing pages?](https://twitter.com/some1else/status/1266361213321125888)
+- [Design history through the books I own](https://www.designswarm.com/catastrophiccandour)
 
 
 ### Cinema

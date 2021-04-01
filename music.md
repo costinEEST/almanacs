@@ -12,6 +12,7 @@
 ### Cinema
 
 - https://en.m.wikipedia.org/wiki/Behind_the_Music
+- [Un virus numit OPERĂ. Luminița Arvunescu în dialog cu...](https://www.youtube.com/playlist?list=PLMa4FslxW4Ilm51MJiFUDgOHvDT4KhHcp)
 
 ### Instrument
 
@@ -23,6 +24,7 @@
 - http://www.pianopractice.org
 - https://kevinmartinjose.com/2019/01/27/lessons-from-learning-to-play-the-violin
 - https://expmag.com/2021/03/it-looks-like-a-saxophone-but-plays-512-notes-many-youve-never-heard-before
+- [Ukulele build | Matthias Wandel](https://www.youtube.com/playlist?list=PLSnvVtM4lBIXzkp-7ouf6NVfS7fOLGfuN)
 
 ### Tool
 
@@ -69,3 +71,7 @@
 - [Lyrical Breakdowns - Behind That Suit](https://www.youtube.com/playlist?list=PLeOfpS14yhmFk0wvWMLQYkArbkxEhDLRM)
 - https://sandymaguire.me/blog/rap-guide
 - https://soulislove.com/kategori/rap
+
+### Radio
+
+- [Ultimate Study Music Playlist |  Thomas Frank](https://www.youtube.com/playlist?list=PLx65qkgCWNJIs3FPaj8JZhduXSpQ_ZfvL)

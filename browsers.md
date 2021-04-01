@@ -42,6 +42,7 @@
 
 ### Engines
 
+- https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf
 - https://github.com/a0viedo/demystifying-js-engines
 - https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers
 - https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers + https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode
@@ -150,6 +151,7 @@
 - [Chrome Extension to export all accessible cookies of the current Tab](https://github.com/cookiengineer/me-want-cookies)
 - [Spectroscope, identifies resources which are exempt from default protections enabled in Google Chrome (Cross-Origin Read Blocking, SameSite cookies) and which can be embedded cross-site.](https://chrome.google.com/webstore/detail/spectroscope/idppnaadbabknjeaifkegolcciafchpp)
 - https://github.com/juanlizarazo/a-better-linkedin-chrome-extension
+- [Firefox Voice is a browser extension that allows you to give voice commands to your browser](https://github.com/mozilla-extensions/firefox-voice) + https://news.ycombinator.com/item?id=24040539
 
 ### Bookmarklets
 

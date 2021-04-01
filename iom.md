@@ -75,6 +75,8 @@
 - [A simple blockchain in Javascript.](https://github.com/Savjee/SavjeeCoin)
 - https://github.com/nambrot/blockchain-in-js
 - [The cryptocurrency price tool on CLI.](https://github.com/bichenkk/coinmon)
+- https://github.com/gdamdam/awesome-decentralized-web
+- https://21lessons.com/rabbithole
 
 ### Boilerplate
 

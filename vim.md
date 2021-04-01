@@ -1,6 +1,18 @@
-### Books
+### Book
 
 - https://leanpub.com/boostyourcodingfuwithvscodeandvim
+
+### Cinema
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeDHRwyHSn2Ndflm2TezXGU
+- [Vim Un-Alphabet by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
+- [Vim screencasts by Greg Hurrell](https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
+- [Vim Meetups - thoughtbot](https://www.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs)
+- [Vim by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYB46G6HR6hERWjKCiHTLjxt)
+- https://www.meetup.com/vim-chicago
+- https://www.youtube.com/c/ThePrimeagen/playlists
+- [A Decade of Vim - Semicolon&Sons](https://www.youtube.com/playlist?list=PLpkoC9yJXDKkm4MStIQoieUPwNjO4Rb_M)
+- https://reasonablypolymorphic.com/expert-level-vim + https://www.youtube.com/watch?v=Q-D5mtp2yIc
 
 ### Miscellaneous
 
@@ -19,13 +31,4 @@
 - [A terminal-based workflow for research, writing, and programming](https://news.ycombinator.com/item?id=25297268)
 - [A very light, yet efficient command line note taking tool](https://gist.github.com/nongiach/125b4b3cc8931464ea08446f5f436fec) + https://twitter.com/chaignc/status/1347974060312027141
 
-### TV
 
-- [Vim Un-Alphabet by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
-- [Vim screencasts by Greg Hurrell](https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
-- [Vim Meetups - thoughtbot](https://www.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs)
-- [Vim by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYB46G6HR6hERWjKCiHTLjxt)
-- https://www.meetup.com/vim-chicago
-- https://www.youtube.com/c/ThePrimeagen/playlists
-- [A Decade of Vim - Semicolon&Sons](https://www.youtube.com/playlist?list=PLpkoC9yJXDKkm4MStIQoieUPwNjO4Rb_M)
-- https://reasonablypolymorphic.com/expert-level-vim + https://www.youtube.com/watch?v=Q-D5mtp2yIc
