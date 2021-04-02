@@ -87,6 +87,7 @@
 - [Objective-C](objective-c.md)
 - [Penetration testing](pentest.md)
 - [Perl](perl.md)
+- [Philosophy](philosophy.md)
 - [PhotoShop](photoshop.md)
 - [PHP](php.md)
 - [Poetry](poetry.md)
@@ -130,6 +131,7 @@
 - [Working with audio files](audio.md)
 - [Working with image files](image.md)
 - [Working with video files](video.md)
+- [Writing](write.md)
 - [XML](xml.md)
 
 ### Similar projects

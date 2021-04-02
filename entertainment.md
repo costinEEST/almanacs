@@ -166,26 +166,6 @@
 - https://radu-iliescu.blogspot.com/search/label/islam
 - https://www.academia.edu/37298049/The_Architecture_of_Pilgrimage_A_study_on_the_Ziyara_Bogal_and_charismatic_authority_in_the_Tijaniyya
 
-### Philosophy
-
-- https://www.youtube.com/user/gbisadler/playlists
-- https://www.philosophybro.com
-- [Alain de Botton - The Consolations of Philosophy](https://www.youtube.com/playlist?list=PLxRuhrcSjnv2weFRcqOeCpk4Wy7_hay2j)
-- [What is Creativity? by Philosophy Tube](https://www.youtube.com/playlist?list=PLvoAL-KSZ32e_YiWc3ButEMXx3KuSa8kL)
-- [Friedrich Nietzsche - Ecce homo](https://humanitas.ro/assets/pdf/Friedrich-Nietzsche_Ecce-homo.pdf)
-- [Sfântul Augustin, Despre minciună](https://humanitas.ro/assets/pdf/Sfantul-Augustin_Despre-minciuna.pdf)
-- [G.K. Chesterton - Ereticii](https://humanitas.ro/assets/pdf/G-K-Chesterton_Ereticii.pdf)
-- [Platon - Theaitetos](https://humanitas.ro/assets/pdf/Platon_Theaitetos.pdf)
-- [Friedrich Nietzsche, Dincolo de bine și de rău](https://humanitas.ro/assets/pdf/Friedrich-Nietzsche_Dincolo-de-bine-si-de-rau.pdf)
-- [Platon, Banchetul sau Despre iubire](https://humanitas.ro/assets/pdf/Platon_Banchetul.pdf)
-- [Platon, Phaidros sau Despre frumos](https://humanitas.ro/assets/pdf/Platon_Phaidros.pdf)
-- [Platon - Phaidon](https://humanitas.ro/assets/pdf/Platon_Phaidon.pdf)
-- https://www.notion.so/A-Beginner-s-Guide-to-becoming-a-First-Principles-Thinker-637ab7236c8f49978f37457fa565edba + https://mobile.twitter.com/ayushswrites/status/1300482237683478529
-- [History of Philosophy - Summarized & Visualized](https://www.denizcemonduygu.com/philo) + https://twitter.com/denizcemonduygu/status/1049634375313309696
-- https://philosophynow.org/issues/122/Robert_Pirsig_and_His_Metaphysics_of_Quality + https://en.wikipedia.org/wiki/Pirsig%27s_Metaphysics_of_Quality
-- https://anamariaonisei.ro/cele-mai-bune-podcasturi-despre-filozofie-care-iti-raspund-intrebarilor-importante-despre-viata
-- http://edithhall.co.uk/aristotle
-
 ### Build
 
 - https://www.youtube.com/user/MattRisinger/playlists
