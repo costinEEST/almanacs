@@ -36,15 +36,18 @@
 - https://csgordon.github.io/books.html + https://news.ycombinator.com/item?id=25572852
 - https://math.recipes/main.html + https://sat-smt.codes/main.html
 - [Bumping into some little known but cool computer history books lately.](https://twitter.com/prathyvsh/status/1199258119362117633)
+- https://github.com/jaybutera/Abstract-Algebra
 
 ### Courses
 
+- https://github.com/llSourcell/learn_math_fast
 - https://github.com/Developer-Y/math-science-video-lectures#mathematics
 - https://github.com/ossu/computer-science#core-math + https://github.com/ossu/computer-science#advanced-math
 - https://twitter.com/FedericoArdila/status/1241414233444810753 + https://www.youtube.com/user/federicoelmatematico/playlists
 - [Cambridge Mathematics Lecture Notes](https://github.com/dalcde/cam-notes)
 - [Notes for courses taken at Harvard (2015--2019)](https://github.com/Dongryul-Kim/harvard_notes)
 - http://abel.math.harvard.edu/pamphlets/courses.html
+- https://github.com/hongshin/DiscreteMath
 
 ### Cinema
 
@@ -86,6 +89,7 @@
 
 ### Miscellaneous
 
+- https://github.com/llSourcell/Mathematics_for_Beginners
 - [Rocket Men by Robert Kurson](https://twitter.com/Yaz17657882/status/1206566643142258691)
 - [What We Cannot Know: Explorations at the Edge of Knowledge ](https://www.amazon.com/What-Cannot-Know-Explorations-Knowledge-ebook/dp/B012LWZHWU)
 - [A calculator for the Terminal that renders beautiful math.](https://kary.us/nota)

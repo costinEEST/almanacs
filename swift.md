@@ -1,4 +1,4 @@
-### Algorithms
+### Algorithm
 
 - https://github.com/raywenderlich/swift-algorithm-club
 

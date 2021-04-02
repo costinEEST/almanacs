@@ -19,6 +19,7 @@
 - https://www.cnbc.com/2020/09/18/bill-gates-difference-between-elon-musk-and-steve-jobs-as-leaders.html
 - https://www.vox.com/the-goods/2020/9/18/18253896/ruth-bader-ginsburg-style-size
 - https://en.wikipedia.org/wiki/List_of_autodidacts
+- https://github.com/rekihattori/awesome-programmers
 
 ### Aaron Swartz
 
@@ -56,6 +57,10 @@
 ### Kevin Kelly
 
 - https://www.perell.com/podcast/kevin-kelly-seeing-the-future +https://youtu.be/ynt37tTdvGU
+
+### Richard Hamming
+
+- https://twitter.com/iantay_/status/1375945517486669824 + https://www.notion.so/blog/a-roundtable-on-richard-hamming
 
 ### Rory Sutherland
 

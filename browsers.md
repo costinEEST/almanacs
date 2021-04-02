@@ -152,6 +152,9 @@
 - [Spectroscope, identifies resources which are exempt from default protections enabled in Google Chrome (Cross-Origin Read Blocking, SameSite cookies) and which can be embedded cross-site.](https://chrome.google.com/webstore/detail/spectroscope/idppnaadbabknjeaifkegolcciafchpp)
 - https://github.com/juanlizarazo/a-better-linkedin-chrome-extension
 - [Firefox Voice is a browser extension that allows you to give voice commands to your browser](https://github.com/mozilla-extensions/firefox-voice) + https://news.ycombinator.com/item?id=24040539
+- [ArchiveFox is a Firefox extension developed to use ArchiveBox without leaving the browser.](https://github.com/layderv/archivefox)
+- https://github.com/dkthehuman/extension-starter-kit
+- [Between Simplified Chinese (ZH-CN or GB2312) and Traditional Chinese (ZH-TW or BIG5)](https://github.com/DoctorLai/Simplified-and-Traditional-Chinese)
 
 ### Bookmarklets
 

@@ -10,8 +10,9 @@
 - https://ldeming.posthaven.com/understanding-biology-quickly + https://bionumbers.hms.harvard.edu/search.aspx
 - [What's Your Bio Strategy?: How to Prepare Your Business for Synthetic Biology](https://www.amazon.com/Whats-Your-Bio-Strategy-Synthetic/dp/0999313614)
 
-### Courses
+### Course
 
+- https://github.com/llSourcell/Learn_Synthetic_Biology
 - [Biology by CrashCourse](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
 - [Exploring Different Species by Journey to the Microcosmos](https://www.youtube.com/playlist?list=PLf3BfsFyWWMF48QHimH7jxHQMX0Q5UpPS)
 - https://www.edx.org/course/the-science-and-business-of-biotechnology
@@ -31,6 +32,7 @@
 
 - https://www.pbs.org/kenburns/the-gene
 - [Signalling Theory and the Genetic Code](https://www.youtube.com/playlist?list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o) + https://twitter.com/StatedClearly/status/1349828940232355850
+- https://github.com/llSourcell/Molecular_Dharma_Episode_Schedule
 
 ### Genomics
 

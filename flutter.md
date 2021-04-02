@@ -11,6 +11,12 @@
 
 - [Robert Brunhage](https://robertbrunhage.com)
 
+### Development
+
+- https://github.com/llSourcell/How-to-Build-a-Biomedical-Startup
+- https://github.com/llSourcell/How_to_Build_a_healthcare_startup
+
+
 ### Security
 
 - https://blog.tst.sh/reverse-engineering-flutter-apps-part-1

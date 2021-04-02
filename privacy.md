@@ -38,6 +38,7 @@
 - https://twitter.com/mikispag/status/1255164681121136642
 - [A collection of interesting new networks and tech aiming at decentralisation (in some form).](https://github.com/redecentralize/alternative-internet)
 - https://github.com/vlvagerviwager/protect-your-privacy
+- https://github.com/veeral-patel/how-to-secure-anything
 
 ### Techniques
 

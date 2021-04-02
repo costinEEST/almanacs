@@ -47,9 +47,13 @@
 - https://github.com/francesco-strazzullo/ethereum-dapps-examples
 - [OrbitDB is a serverless, distributed, peer-to-peer database.](https://orbitdb.org) + https://news.ycombinator.com/item?id=26310094
 - [Build Backend for dApp with Node.js and Webpack](https://github.com/olisystems/dApp-nodeJS-webpack)
+- [An Ethereum DApp in the spirit of the Reddit Button](https://github.com/ttumiel/recursive-bet)
+- [A 3 part workshop on Ethereum and DApps.](https://github.com/CryptoSoc/truffle-workshop)
 
 ### References
 
+- https://github.com/llSourcell/Learn_Blockchain_in_2_months
+- https://github.com/llSourcell/Simple_Blockchain_in_5_Minutes
 - [A quick reference for symbols and conventions used in the Ethereum Yellow Paper](https://github.com/benjaminion/YellowPaper_CheatSheet)
 - https://www.coingecko.com/en/glossary
 - https://github.com/jashmenn/cryptocurrencies-in-four-words
@@ -77,6 +81,10 @@
 - [The cryptocurrency price tool on CLI.](https://github.com/bichenkk/coinmon)
 - https://github.com/gdamdam/awesome-decentralized-web
 - https://21lessons.com/rabbithole
+- https://github.com/llSourcell/decentralized_social_network
+- https://github.com/llSourcell/how_to_build_a_bitcoin_startup
+- https://github.com/jaredtumiel/Crypto-Resources
+- https://github.com/gianlucatruda/crypto-workshop
 
 ### Boilerplate
 
@@ -155,3 +163,7 @@
 ### Opinions
 
 - https://www.ribbonfarm.com/2017/10/10/the-blockchain-man
+
+### Radio
+
+- https://www.podtangent.com/e/006-libra-crypto-and-the-future-of-humanity

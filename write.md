@@ -4,4 +4,8 @@
 
 ### Tool
 
-- [Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.](https://foambubble.github.io/foam)
+- https://github.com/BolajiAyodeji/awesome-technical-writing
+
+### Miscellaneous
+
+- https://mundyreimer.github.io/blog/representation-notation-thought

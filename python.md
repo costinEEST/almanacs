@@ -18,6 +18,7 @@
 - https://github.com/thewhitetulip/build-app-with-python-antitextbook
 - https://www.debuggingbook.org + https://www.youtube.com/playlist?list=PL6dh-k4faL8ok2aD64kEm6zmUPbfTznJy
 - https://opendatascience.com/dissecting-the-software-designing-approach-of-design-by-contract + https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214
+- https://github.com/jakevdp/PythonDataScienceHandbook
 
 ### Bots
 
@@ -61,6 +62,10 @@
 - [K-d Tree in Python - Tsoding](https://www.youtube.com/playlist?list=PLguYJK7ydFE7R7KqRRVXw23kOrn6jiwqi)
 - [Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures](https://github.com/MTrajK/coding-problems)
 
+### Development
+
+- https://github.com/llSourcell/Watch-Me-Build-an-Education-Startup
+
 ### Networking
 
 - https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks
@@ -92,6 +97,10 @@
 - https://github.com/mebeim/aoc
 - https://github.com/rasulkireev/builtwithdjango
 - https://www.ianbicking.org/blog/2018/11/viewing-python-execution-source-code-rewriting.html
+
+### Scraping
+
+- https://github.com/Adithya93/webScraping
 
 
 ### Security
@@ -139,6 +148,7 @@
 - [Tool to recover the RSA/ECDSA public key used to sign JWT tokens](https://github.com/FlorianPicca/JWT-Key-Recovery)
 - [Scrape Facebook public pages without an API key](https://github.com/kevinzg/facebook-scraper)
 - https://github.com/httpie/httpie
+- [Open source self-hosted web archiving.](https://github.com/ArchiveBox/ArchiveBox)
 
 
 ### Testing

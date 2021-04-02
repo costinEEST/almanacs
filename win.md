@@ -68,6 +68,8 @@
 ### Active directory
 
 - https://identityaccess.management/2019/12/30/active-directory-security-fundamentals
+- https://github.com/infosecn1nja/AD-Attack-Defense
+- https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 
 ### Opinions
 

@@ -20,6 +20,7 @@
 - [This app uses the API of other websites and gives you an RSS feed in return.](https://github.com/stefansundin/rssbox)
 - https://github.com/adyz/youtube-parse-history
 - [Google Play Unofficial Python API](https://github.com/NoMore201/googleplay-api)
+- https://github.com/weskerfoot/DeleteFB
 
 ### GraphQL
 

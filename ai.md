@@ -46,6 +46,10 @@
 - https://www.notion.so/Rishabh-Anand-ceb23e08fecf4afb8732fe0f55039f90 + https://twitter.com/rishabh16_/status/1366810566493310976
 - https://github.com/Developer-Y/cs-video-courses#image-processing-and-computer-vision
 - [Resources for conservation, development, and documentation of low resource (human) languages.](https://github.com/RichardLitt/low-resource-languages)
+- https://github.com/terryum/awesome-deep-learning-papers
+- [A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.](https://github.com/ageron/handson-ml)
+- https://github.com/firmai/industry-machine-learning
+- https://github.com/aaronwangy/Data-Science-Cheatsheet
 
 ### Tools
 
@@ -59,6 +63,9 @@
 
 ### Courses
 
+- [Unconventional Ways to Learn More Online](https://jaredtumiel.github.io/blog/2020/05/12/three-rules.html)
+- https://ttumiel.github.io/blog/getting-into-ml
+- https://github.com/CryptoSoc/fastai-lessons
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
 - https://github.com/bnorbert/Courses/blob/master/History%20Of%20Computer%20Science%20Project/A_brief_history_of_Machine_Learning.pdf
@@ -112,6 +119,7 @@
 ### Deep learning
 
 - [Background Matting is a project that uses deep learning to turn any background into a green screen with just a handheld camera.](https://github.com/senguptaumd/Background-Matting)
+- [An educational resource to help anyone learn deep reinforcement learning.](https://github.com/openai/spinningup)
 
 ### Papers
 

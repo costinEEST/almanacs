@@ -4,6 +4,7 @@
 - [An example driven introduction to bioinformatics using shell scripting by Francisco M. Couto](http://labs.rd.ciencias.ulisboa.pt/book)
 - https://github.com/bobbyiliev/introduction-to-bash-scripting
 - https://github.com/miguelmota/bash-streams-handbook
+- https://github.com/denysdovhan/bash-handbook
 
 ### TIL
 

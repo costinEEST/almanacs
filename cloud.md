@@ -32,6 +32,7 @@
 - https://scalesec.com/aws-series/best-practices-for-serverless-endpoints-on-aws
 - https://wellarchitectedlabs.com
 - https://aws.amazon.com/blogs/security/essential-security-for-everyone-building-a-secure-aws-foundation
+- https://github.com/llSourcell/Build-a-Cybersecurity-Startup
 
 ### Google Cloud
 

@@ -1,3 +1,28 @@
+### Book
+
+- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.amazon.com/gp/product/1542866502)
+
+### Community
+
+- 
+
 ### Method
 
 - https://www.supermemo.com/en/archives1990-2015/articles/20rules
+
+### Tool
+
+- [Sync flashcards from Roam Research to Anki](https://github.com/chronologos/roam-to-anki)
+- https://www.iantay.dev/post/spaced-repetition
+- [Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.](https://foambubble.github.io/foam)
+- [Automatic RoamResearch backup to Git](https://github.com/MatthieuBizien/roam-to-git)
+- https://github.com/MatthieuBizien/roam-to-git-demo
+- https://github.com/Roam-Research/issues
+- https://github.com/c-okelly/anki-remote-decks
+- https://github.com/linuz90/better-roam-research
+- https://github.com/everruler12/roam2github
+- https://mundyreimer.github.io/resources
+
+### Radio
+
+- https://twitter.com/jnearestn/status/1293188174387089408 + https://www.podtangent.com/e/027-7-practices-to-survive-the-2020-apocalypse
