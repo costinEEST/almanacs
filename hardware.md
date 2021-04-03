@@ -13,6 +13,18 @@
 - https://mightyohm.com/blog/2008/12/the-greatest-electronics-book-ever-written
 - https://www.cetola.net/2017/11/12/electronics-for-the-autodidactic
 
+### Cinema
+
+- https://github.com/hellerve/programming-talks#hardware
+- [Review and analysis of bulb. By electronupdate](https://www.youtube.com/playlist?list=PLv9WfM3NgK2xFHrD9BJ4-4CEbRpbe6DFP)
+- [March is for Makers - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdpNzI3uaAu-kqWvH4BttLQ)
+- [N-O-D-E](https://www.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA/playlists)
+- [Shenzhen I/O - Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
+- https://www.youtube.com/c/lockpickinglawyer/playlists
+- https://www.youtube.com/c/jeriellsworth/playlists
+- [Computer History - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc5y3yXGO1VDXtzLeVcr5kCl)
+- http://thatmakershow.com
+
 ### Community
 
 - http://mightyohm.com/wiki
@@ -36,6 +48,7 @@
 - [OS Internals and Deep Your Understanding of x86 Architecture also a good prepare for Hypervisors](https://twitter.com/astrovax_/status/1320526877442846720) + http://opensecuritytraining.info/IntroX86.html + https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177
 - [The Hardware/Software Interface Class by Luis Ceze and Gaetano Borriello](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL)
 - [Proiectarea cu Microprocesoare](https://ocw.cs.pub.ro/courses/pm)
+- [Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y)
 
 ### Resistors
 
@@ -75,19 +88,7 @@
 - https://twitter.com/AllAboutCircuit + https://www.allaboutcircuits.com/education
 - https://dave.cheney.net/category/hardware-hacking
 - [VoltJockey: Breaching TrustZone by Software-Controlled Voltage Manipulation over Multi-core Frequencies](https://dl.acm.org/doi/10.1145/3319535.3354201) + http://web.archive.org/web/20201027140618/http://voltjockey.com
-
-
-### TV
-
-- https://github.com/hellerve/programming-talks#hardware
-- [Review and analysis of bulb. By electronupdate](https://www.youtube.com/playlist?list=PLv9WfM3NgK2xFHrD9BJ4-4CEbRpbe6DFP)
-- [March is for Makers - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdpNzI3uaAu-kqWvH4BttLQ)
-- [N-O-D-E](https://www.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA/playlists)
-- [Shenzhen I/O - Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
-- https://www.youtube.com/c/lockpickinglawyer/playlists
-- https://www.youtube.com/c/jeriellsworth/playlists
-- [Computer History - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc5y3yXGO1VDXtzLeVcr5kCl)
-- http://thatmakershow.com
+- https://github.com/LowLevelJavaScript/Learning-Resources
 
 ### Radio
 

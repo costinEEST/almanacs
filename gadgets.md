@@ -8,6 +8,7 @@
 
 ### Headphones
 
+- https://www.avstore.ro/casti-hi-fi/casti-meze-99-classics-over-ear
 - [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/better_with_bose/mark-rober.html?mc=25_SM_HP_SC_00_YT_markrober3) + [recommended by Mark Rober](https://youtu.be/a_TSR_v07m0)
 - https://www.youtube.com/playlist?list=PLZUHdmBGD3CJyJY8cWR2ZGxqP_LUpckQw
 - https://benfrain.com/sony-wh-1000xm3-noise-cancelling-headphones-review
@@ -18,6 +19,10 @@
 
 - [Why Chrome OS?](https://twitter.com/WebReflection/status/1244374562139242497)
 - [Reviews ~ Just Josh](https://www.youtube.com/playlist?list=PLUkjpFwWO9XkPWBing0cgdzKHUfewUVpu)
+
+### Keyboard
+
+- https://www.amazon.com/Keychron-Wireless-Bluetooth-Mechanical-Keyboard/dp/B07Y9Y69N7
 
 ### Microphone
 

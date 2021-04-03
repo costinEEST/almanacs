@@ -244,6 +244,7 @@
 - https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc
 - https://github.com/simonplend/talks/tree/main/make-the-most-of-modern-javascript-with-fastify
 - [LeonAI has migrated from Express.js to @fastifyjs](https://twitter.com/louistiti_fr/status/1374978615696183296)
+- https://www.freecodecamp.org/news/free-8-hour-node-express-course
 
 ### Scrapping
 

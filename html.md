@@ -173,3 +173,4 @@
 - https://mathiasbynens.be/notes/javascript-unicode
 - https://gosecure.github.io/presentations/2020-05-unicode-northsec/unicode_v3_northsec.pdf + https://twitter.com/Agarri_FR/status/1264295901834752001
 - https://vladris.com/blog/2018/11/18/notes-on-encoding-text.html
+- https://cormullion.github.io/pages/2020-10-09-asterisk

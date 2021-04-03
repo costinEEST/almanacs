@@ -1,3 +1,48 @@
+### Books
+
+- [Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook)
+- [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF)
+- https://twitter.com/Miles_Brundage/status/1177999361118277635 + https://twitter.com/jennyhbren/status/1164099257378492416
+- [Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way ](https://github.com/amitkaps/hackermath)
+- [An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013)](https://github.com/JWarmenhoven/ISLR-python)
+- [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/user/introduction.html)
+- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- https://www.linkedin.com/posts/arnuld-on-data_how-id-start-learning-machine-learning-again-activity-6707557261012795392-nEG1
+- https://github.com/lyhue1991/eat_tensorflow2_in_30_days
+- https://mentorcruise.com/books/ml + https://news.ycombinator.com/item?id=23997301
+- https://builtin.com/data-science/data-science-books + https://news.ycombinator.com/item?id=23936249
+- https://twitter.com/EmilWallner/status/1314581326209613826
+- [The Hundred-Page Machine Learning Book by Andriy Burkov](http://themlbook.com) + https://news.ycombinator.com/item?id=25905899
+- [Data Science in Julia for Hackers](https://notamonadtutorial.com/how-we-wrote-a-hands-on-bayesian-data-science-book-in-6-months-a97c73a510b5)
+- [ Recurrent Attentive Neural Process for Time Series Clustering (Master Thesis)](https://docs.google.com/presentation/d/1anMlTRTguPB0dUG7t3u5dgV6xuAaU9XadWFFX_dn7oE)
+- https://uxplanet.org/designer-friendly-resources-to-study-ai-and-machine-learning-1-6106e257faeb
+
+### Course
+
+- [Unconventional Ways to Learn More Online](https://jaredtumiel.github.io/blog/2020/05/12/three-rules.html)
+- https://ttumiel.github.io/blog/getting-into-ml
+- https://github.com/CryptoSoc/fastai-lessons
+- https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
+- https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
+- https://github.com/bnorbert/Courses/blob/master/History%20Of%20Computer%20Science%20Project/A_brief_history_of_Machine_Learning.pdf
+- https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course
+- https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course
+- https://laconicml.com/free-artificial-intelligence-courses
+- [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
+- https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477
+- [JavaScript for Data Science](https://js4ds.org)
+- https://www.freecodecamp.org/news/hands-on-data-science-course
+- https://course.elementsofai.com
+- https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning
+
+### Cinema
+
+- [RL Course by David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
+- [CS294-112 Fall 2017 (deep RL course)](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz/playlists)
+- [Machine Learning and Programming - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf15KhhTGnSRgniYwcXFS-rK)
+- [Building a Machine Learning Based Web App Firewall/IPS from Scratch | Debasish Mandal](https://www.youtube.com/playlist?list=PLKwUZp9HwWoA7AjUeuWnvQdNXcQ7bF3e1) + http://www.debasish.in/2020/10/videobuilding-machine-learning-based.html
+
 ### Community
 
 - Suzana Ilić: [Twitter](https://twitter.com/suzatweet), [Linkedin](https://www.linkedin.com/in/suzanailic/)
@@ -61,49 +106,6 @@
 - https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers
 - [End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow](https://github.com/zzw922cn/Automatic_Speech_Recognition)
 
-### Courses
-
-- [Unconventional Ways to Learn More Online](https://jaredtumiel.github.io/blog/2020/05/12/three-rules.html)
-- https://ttumiel.github.io/blog/getting-into-ml
-- https://github.com/CryptoSoc/fastai-lessons
-- https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
-- https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
-- https://github.com/bnorbert/Courses/blob/master/History%20Of%20Computer%20Science%20Project/A_brief_history_of_Machine_Learning.pdf
-- https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course
-- https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course
-- https://laconicml.com/free-artificial-intelligence-courses
-- [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
-- https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477
-- [JavaScript for Data Science](https://js4ds.org)
-- https://www.freecodecamp.org/news/hands-on-data-science-course
-- https://course.elementsofai.com
-- https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning
-
-### Books
-
-- [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF)
-- https://twitter.com/Miles_Brundage/status/1177999361118277635 + https://twitter.com/jennyhbren/status/1164099257378492416
-- [Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way ](https://github.com/amitkaps/hackermath)
-- [An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013)](https://github.com/JWarmenhoven/ISLR-python)
-- [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/user/introduction.html)
-- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
-- https://www.linkedin.com/posts/arnuld-on-data_how-id-start-learning-machine-learning-again-activity-6707557261012795392-nEG1
-- https://github.com/lyhue1991/eat_tensorflow2_in_30_days
-- https://mentorcruise.com/books/ml + https://news.ycombinator.com/item?id=23997301
-- https://builtin.com/data-science/data-science-books + https://news.ycombinator.com/item?id=23936249
-- https://twitter.com/EmilWallner/status/1314581326209613826
-- [The Hundred-Page Machine Learning Book by Andriy Burkov](http://themlbook.com) + https://news.ycombinator.com/item?id=25905899
-- [Data Science in Julia for Hackers](https://notamonadtutorial.com/how-we-wrote-a-hands-on-bayesian-data-science-book-in-6-months-a97c73a510b5)
-- [ Recurrent Attentive Neural Process for Time Series Clustering (Master Thesis)](https://docs.google.com/presentation/d/1anMlTRTguPB0dUG7t3u5dgV6xuAaU9XadWFFX_dn7oE)
-- https://uxplanet.org/designer-friendly-resources-to-study-ai-and-machine-learning-1-6106e257faeb
-
-### Cinema
-
-- [RL Course by David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
-- [CS294-112 Fall 2017 (deep RL course)](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
-- [Two Minute Papers](https://www.youtube.com/user/keeroyz/playlists)
-- [Machine Learning and Programming - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf15KhhTGnSRgniYwcXFS-rK)
-- [Building a Machine Learning Based Web App Firewall/IPS from Scratch | Debasish Mandal](https://www.youtube.com/playlist?list=PLKwUZp9HwWoA7AjUeuWnvQdNXcQ7bF3e1) + http://www.debasish.in/2020/10/videobuilding-machine-learning-based.html
 
 ### Neural networks
 

@@ -80,6 +80,7 @@
 - https://www.youtube.com/c/EasyTheory/playlists
 - https://github.com/davidwparker/programmingtil-3d-math + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaxVxzRaSKs1gSSJMknhwrL
 - https://www.youtube.com/c/SyberMath/playlists
+- [Introduction to Complex Analysis | Petra Bonfert-Taylor](https://www.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ)
 
 ### Mathematicians
 

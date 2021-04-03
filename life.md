@@ -55,6 +55,7 @@
 - [Ernst Haeckel's Kunstformen der Natur (Artforms of Nature) (1904)](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
 - [U.S. Department of Agriculture (USDA) Pomological Watercolor Collection](https://usdawatercolors.nal.usda.gov/pom/home.xhtml)
 - https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html
+- [The Archive of Healing is the largest digital collection of cross-cultural approaches to healing.](https://archiveofhealing.com) + https://www.smithsonianmag.com/smart-news/new-digital-archive-showcases-collection-alternative-healing-methods-180977374
 
 ### Chemistry
 
@@ -72,3 +73,4 @@
 - https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms
 - https://pt.kle.cz/en_US/index.html + https://github.com/petrkle/periodic-table
 - https://en.wikipedia.org/wiki/The_Periodic_Table_%28short_story_collection%29
+- https://www.amazon.com/Lithium-Doctor-Breakthrough-Walter-Brown/dp/1631491997 + https://twitter.com/curiouswavefn/status/1378034347479986176

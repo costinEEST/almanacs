@@ -120,6 +120,8 @@
 
 - https://github.com/jashmenn/bitcoin-reading-list
 - [How to keep bitcoin running in offline environments.](https://twitter.com/nwoodfine/status/1214238101796638721)
+- https://github.com/chaincodelabs/bitcoin-curriculum
+- [A treasure trove of transcripts associated with Bitcoin and Lightning Network](https://btctranscripts.com)
 
 ### Non fungible tokens
 
@@ -134,6 +136,7 @@
 - https://hackernoon.com/tokenizing-our-virtual-future-a-deep-dive-into-non-fungible-tokens-go4h3wjj
 - [How do you buy/sell/trade NFTs today?](https://twitter.com/vasa_develop/status/1371846217785819136)
 - https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans
+- https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace
 
 ### Smart contracts
 
@@ -166,4 +169,6 @@
 
 ### Radio
 
+- https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant
 - https://www.podtangent.com/e/006-libra-crypto-and-the-future-of-humanity
+- https://podcast.chaincode.com

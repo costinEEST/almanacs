@@ -49,6 +49,7 @@
 - [Linux Productivity Tools (2019)](https://news.ycombinator.com/item?id=23229241)
 - https://github.com/alexandrunastase/ro-de-keyboard-layout
 - [outrun: Execute a local command using the processing power of another Linux machine.](https://github.com/Overv/outrun)
+- [Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.](https://github.com/nicolargo/glances)
 
 ### TIL
 

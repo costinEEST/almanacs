@@ -317,6 +317,7 @@ javascript: (() =>
 
 ### Tool
 - [quiver is a modern, graphical editor for commutative and pasting diagrams, capable of rendering high-quality diagrams for screen viewing, and exporting to LaTeX](https://github.com/varkor/quiver)
+- [rrweb is an open source web session replay library, which provides easy-to-use APIs to record user's interactions and replay it remotely.](https://github.com/rrweb-io/rrweb)
   
 ### History
 

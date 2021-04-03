@@ -24,6 +24,7 @@
 - https://afitnerd.com/2015/08/10/killing-distractions-mac-automator-style
 - [How to start testing screen reader support using VoiceOver](https://yakim.nl/articles/voiceover-testing)
 - [Instant audio feedback for typing. macOS version. (Rust)](https://github.com/yingDev/Tickeys)
+- [A solution to use the Apple Wireless Keyboard on Windows.](https://github.com/kud/apple-french-keyboard-windows)
 
 ### References
 

@@ -60,6 +60,7 @@
 - https://github.com/RichardLitt/low-resource-languages
 - http://languagestolearn.com/resources
 - https://psyche.co/guides/how-to-approach-the-lifelong-project-of-language-learning
+- https://thelanguagenerds.com/feast-your-eyes-on-magnificent-linguistic-family-tree
 
 ### Communities
 
@@ -109,6 +110,8 @@
 ### German
 
 - https://www.lingq.com/en/forum/offenes-deutsches-forum-open-forum-in-german/crossing-boundaries-in-german
+- https://divu.in/german/learn
+- https://divu.in/german/words
 
 ### Greek
 

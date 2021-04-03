@@ -28,6 +28,7 @@
 ### Tutorials
 
 - https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7
+- https://souporserious.com/getting-started-with-figma-webhooks
 
 ### Plugins
 

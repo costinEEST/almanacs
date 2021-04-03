@@ -41,6 +41,7 @@
 ### Virtual machines
 
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-systemvirtual-machine
+- [Codecast C learning platform (formerly fioi-recorder).](https://github.com/France-ioi/codecast)
 
 ### Opinions
 

@@ -37,6 +37,7 @@
 ### Genomics
 
 - https://medium.com/@sbarnettARK/proteomics-primer-1-seer-190c942b244c
+- https://www.theatlantic.com/ideas/archive/2021/03/how-mrna-technology-could-change-world/618431
 
 ### Miscellaneous
 

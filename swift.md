@@ -32,4 +32,5 @@
 ### Reference
 
 - https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
+- [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
 

@@ -86,9 +86,11 @@ curl v2.wttr.in/Bucharest
 
 - [Microsoft Translator Text API v3.](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-NodeJS)
 - https://github.com/cortexlabs/cortex/tree/translator-example/examples/model-caching/python/translator
+- [A simple front-end for OCR with Google Vision API.](https://github.com/llll-org/vizor)
 
 ### Miscellaneous
 
+- [What is the single best book any of y'all have ever read about API design?](https://twitter.com/ShortJared/status/1377331662275534848)
 - https://github.com/vicziani/learnwebservices
 - https://github.com/n0shake/Public-APIs
 - http://algermissen.io/classification_of_http_apis.html + http://algermissen.io/2019/03/rest-design-essentials
