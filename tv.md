@@ -8,6 +8,7 @@
 - [African Diaspora History - Lois Clark-Johnston](https://www.youtube.com/playlist?list=PL2XMHriRjzy2ppx6sDiv_66ryEXx8XrS2)
 - http://pialogue.info/books/Century-of-the-Self.php
 - https://www.esquire.com/entertainment/movies/g35338893/best-documentaries-of-2021
+- https://abacusnoir.blog/2021/03/01/watching-adam-curtis
 
 ### Interview
 

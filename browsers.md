@@ -155,6 +155,7 @@
 - [ArchiveFox is a Firefox extension developed to use ArchiveBox without leaving the browser.](https://github.com/layderv/archivefox)
 - https://github.com/dkthehuman/extension-starter-kit
 - [Between Simplified Chinese (ZH-CN or GB2312) and Traditional Chinese (ZH-TW or BIG5)](https://github.com/DoctorLai/Simplified-and-Traditional-Chinese)
+- https://github.com/giuseppeg/is-nextjs-site-extension
 
 ### Bookmarklets
 

@@ -344,6 +344,7 @@
 - [What is document.domain?](https://twitter.com/zcorpan/status/1202958734949060608)
 - [appending multiple elements to the DOM?](https://twitter.com/paul_irish/status/1169841234438848519)
 - [Find out which element is scrolling](https://gist.github.com/brumm/74fd7eaafd50c8477519) + https://twitter.com/funkensturm/status/1222616188485799937
+- [is there a way to debug dom events in a timeline?](https://twitter.com/sseraphini/status/1377218954851201025)
 
 ### Single-page application
 
@@ -453,6 +454,7 @@
 - [Cross-browser utils for working with binary Blobs](https://github.com/nolanlawson/blob-util)
 - https://github.com/privatenumber/minification-benchmarks
 - https://github.com/evanw/source-map-visualization
+- https://github.com/RunDevelopment/eslint-plugin-clean-regex
 
 ### Documentation
 

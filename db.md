@@ -44,6 +44,7 @@
 - https://blog.jooq.org/2019/11/13/stop-mapping-stuff-in-your-middleware-use-sqls-xml-or-json-operators-instead + https://twitter.com/lukaseder/status/1331897735361028097
 - https://materialize.com/kafka-is-not-a-database + https://news.ycombinator.com/item?id=25346851
 - https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss + https://news.ycombinator.com/item?id=25870482
+- [Do you prefer SQL or NoSQL databases?](https://twitter.com/rafrasenberg/status/1376454875224113152)
 
 ### Hacks
 
