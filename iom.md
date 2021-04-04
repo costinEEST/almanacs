@@ -85,6 +85,7 @@
 - https://github.com/llSourcell/how_to_build_a_bitcoin_startup
 - https://github.com/jaredtumiel/Crypto-Resources
 - https://github.com/gianlucatruda/crypto-workshop
+- [The block chain and the CAP Theorem](https://www.goland.org/blockchain_and_cap)
 
 ### Boilerplate
 
@@ -123,6 +124,7 @@
 - https://github.com/chaincodelabs/bitcoin-curriculum
 - [A treasure trove of transcripts associated with Bitcoin and Lightning Network](https://btctranscripts.com)
 - https://github.com/alexk111/awesome-bitcoin-payment-processors
+- [40 hours of actionable bitcoin discussion available for free without ads, sponsors, or paywalls](https://keybase.pub/mattodell/Citadel-Dispatch/Video)
 
 ### Non fungible tokens
 

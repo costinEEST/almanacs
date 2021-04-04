@@ -41,6 +41,7 @@
 
 - https://csvoss.substack.com/archive
 - [Biotech Without Borders](https://us16.campaign-archive.com/home/?u=2aafc95ab831ff84383e5b4a2&id=fa2a5447f8)
+- [Romanian Society of Bioinformatics](https://us17.campaign-archive.com/home/?u=1e432a2bd29548641f4428e61&id=9bb817dd4e)
 
 ### History
 

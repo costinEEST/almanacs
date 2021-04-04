@@ -27,6 +27,7 @@
 - [Ellen Jorgensen](http://www.biotechwithoutborders.org)
 - [Michael Retchin](https://twitter.com/MichaelRetchin/status/1365712597463490560)
 - [Simon Barnett](https://twitter.com/sbarnettARK)
+- [Yuzhen Ye](https://homes.luddy.indiana.edu/yye/lab/teaching.php)
 
 ### Cinema
 
