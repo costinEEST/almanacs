@@ -153,6 +153,7 @@
 - https://blog.logrocket.com/node-js-crypto-module-a-tutorial
 - [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
 - https://github.com/ejdaly/node-threads-example
+- [How to create full path with node's fs.mkdirSync?](https://stackoverflow.com/a/40686853/1904223)
 
 ### Event loop
 

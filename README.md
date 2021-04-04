@@ -122,6 +122,7 @@
 - [UNIX](unix.md)
 - [Vim](vim.md)
 - [Virtual reality](vr.md)
+- [Visual Studio Code](vsc.md)
 - [Vue](vue.md)
 - [Web assembly](wasm.md)
 - [Web browser](browsers.md)

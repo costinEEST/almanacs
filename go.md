@@ -9,7 +9,8 @@
 
 ### Boots
 
-- - https://smarx.com/posts/2020/09/shove-it-up-your-bot-an-intro-to-slack-bots + https://github.com/smarx/shoveitupyourbot
+- https://smarx.com/posts/2020/09/shove-it-up-your-bot-an-intro-to-slack-bots + https://github.com/smarx/shoveitupyourbot
+- [A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.](https://github.com/thrasher-corp/gocryptotrader)
 
 ### Data structures
 
@@ -42,6 +43,7 @@
 - https://github.com/pingcap/talent-plan#series-3-distributed-database
 - https://empijei.science/talks.html
 - https://www.adsbynimbus.com/tech-blog/dynamic-programming + https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf
+- [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 
 ### TV
 

@@ -97,6 +97,7 @@
 - https://github.com/mebeim/aoc
 - https://github.com/rasulkireev/builtwithdjango
 - https://www.ianbicking.org/blog/2018/11/viewing-python-execution-source-code-rewriting.html
+- https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE
 
 ### Scraping
 

@@ -41,6 +41,7 @@
 - [JackTrip WebRTC: high quality, uncompressed, ultra-low delay audio streaming](https://github.com/JackTrip-webrtc/JackTrip-webrtc)
 - https://pitchfork.com/thepitch/decolonizing-electronic-music-starts-with-its-software + https://twitter.com/tarikbarri/status/1365629440697507841
 - [Free full-featured web-based audio & waveform editing tool](https://github.com/pkalogiros/AudioMass)
+- [Auto-Editor is a command line application for automatically editing video and audio by analyzing where sections are silent and cutting them up.](https://github.com/WyattBlue/auto-editor)
 
 
 ### TV

@@ -122,6 +122,7 @@
 - [How to keep bitcoin running in offline environments.](https://twitter.com/nwoodfine/status/1214238101796638721)
 - https://github.com/chaincodelabs/bitcoin-curriculum
 - [A treasure trove of transcripts associated with Bitcoin and Lightning Network](https://btctranscripts.com)
+- https://github.com/alexk111/awesome-bitcoin-payment-processors
 
 ### Non fungible tokens
 
@@ -166,6 +167,7 @@
 ### Opinions
 
 - https://www.ribbonfarm.com/2017/10/10/the-blockchain-man
+- [@stephsmithio's great writeup on the merits of BitClout](https://twitter.com/nateliason/status/1378022491923304453)
 
 ### Radio
 

@@ -11,35 +11,6 @@
 
 - [Recon Lab: Ethical Google Hacking - Securing The Stack](https://www.youtube.com/playlist?list=PLP91MtCof9klPenCxTzBTfRctceWYNN9t)
 
-### VS Code
-
-- https://www.youtube.com/watch?v=oeFLeAs3plM&list=PLWIcRrPLCdUethIDPGPwe-Lqnw1J8hzsX
-- https://github.com/viatsko/awesome-vscode
-- https://github.com/microsoft/vscode-tips-and-tricks
-- [VS Code Recipes](https://github.com/Microsoft/vscode-recipes)
-- [Multi cursor](https://twitter.com/erikaybar_/status/1197293860239630337)
-- https://github.com/burkeholland/workshop-vs-code-can-do-that
-- https://twitter.com/JoshWComeau/status/1214973754226479104
-- https://github.com/fabiospampinato/vscode-todo-plus
-- vscode-graphiql-explorer, an extension for VSCode that integrates GraphiQL + OneGraph's Explorer to build+edit GraphQL operations: [tweet](https://twitter.com/___zth___/status/1206626640589205505) + [marketplace](https://marketplace.visualstudio.com/items?itemName=GabrielNordeborn.vscode-graphiql-explorer)
-- [Azure Blockchain Development Kit for Ethereum.](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
-- [Restart TS server](https://twitter.com/BenLesh/status/1234877859589709826)
-- https://kortina.nyc/essays/suping-up-vs-code-as-a-markdown-notebook
-- [A VS Code extension for visualizing data structures while debugging.](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
-- https://www.stevefenton.co.uk/2020/03/easy-api-testing-with-rest-client-extension-for-visual-studio-code
-- [Remote Development with a Chromebook in 2020](https://www.marcolancini.it/2020/blog-remote-development-chromebook)
-- https://channel9.msdn.com/Events/Build/2020/BOD103
-- https://addyosmani.com/blog/visualize-data-structures-vscode
-- https://blog.robenkleene.com/2020/09/21/the-era-of-visual-studio-code
-- https://www.toptal.com/visual-studio/vscode-tips-power-users
-- https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour
-- https://twitter.com/SaraSoueidan/status/1320644057228595200
-- https://devdojo.com/bobbyiliev/top-10-vscode-shortcuts-for-mac-and-windows-to-help-you-be-more-productive
-- ["HTML" as the identifier for your PHP heredoc/nowdoc strings](https://twitter.com/LiamHammett/status/1342857802574950400)
-- https://github.com/shd101wyy/markdown-preview-enhanced
-- [get all the list of extensions in your visual studio code editor.](https://gokul.site/uses)
-- [VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor.](https://github.com/microsoft/codetour)
-
 ### tmux
 
 - https://nicknisi.com/posts/2015-11-02-tmux-for-presentation

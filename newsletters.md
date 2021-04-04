@@ -97,6 +97,7 @@
 - [Kevin Cunningham](https://p.kevincunningham.co.uk/posts)
 - [Valeri Karpov](https://www.getrevue.co/profile/masteringjs)
 - https://danburzo.ro/rolodex
+- [Josh Sherman](https://us4.campaign-archive.com/home/?u=374a1419f1381c14c8bc92119&id=91dbdd5c9b)
 
 ### Web performance
 
