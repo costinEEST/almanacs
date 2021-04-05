@@ -1,3 +1,14 @@
+### Algorithms
+
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- https://github.com/humanwhocodes/computer-science-in-javascript
+- https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
+- https://github.com/raphamorim/algorithms-playground
+- https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day
+- https://shihn.ca/posts/2020/roughjs-algorithms
+- https://github.com/excelbrium/algorithms-and-data-structures + https://www.notion.so/JS-Knowledge-5b3b764a595e4494beed9aa96d707efb
+- https://github.com/RobinLinus/prime-counting-function
+
 ### Quirks
 
 - https://github.com/aemkei/jsfuck
@@ -19,16 +30,6 @@
 - [Accelerating JavaScript (in the browser)](https://hyphaebeast.club/writing/accelerating-js)
 - https://www.chandlerprall.com/post/request-animation-frame-is-not-your-logics-friend
 - https://felixgerschau.com/javascript-memory-management
-
-### Algorithms
-
-- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
-- https://github.com/humanwhocodes/computer-science-in-javascript
-- https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
-- https://github.com/raphamorim/algorithms-playground
-- https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day
-- https://shihn.ca/posts/2020/roughjs-algorithms
-- https://github.com/excelbrium/algorithms-and-data-structures + https://www.notion.so/JS-Knowledge-5b3b764a595e4494beed9aa96d707efb
 
 ### Data structures
 

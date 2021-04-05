@@ -30,6 +30,7 @@
 - https://benfrain.com/a-home-video-studio-everything-you-need-to-record-edit-and-publish-video-for-courses-and-youtube
 - [How to automatically cut silence in videos](https://flaviocopes.com/cut-silence-videos)
 - https://www.taylorbell.com/txt/code/ffmpeg-video-trimming
+- https://github.com/cyburgee/ffmpeg-guide
 
 ### Opinions
 

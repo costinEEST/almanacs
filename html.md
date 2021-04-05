@@ -126,6 +126,7 @@
 - [Browser support on link and script events](https://pie.gd/test/script-link-events)
 - [Beautiful image placeholders, without the hassle](https://github.com/joe-bell/plaiceholder)
 - [A very compact representation of a placeholder for an image.](https://github.com/woltapp/blurhash)
+- [Easy to use share buttons that load fast and don't track you](https://github.com/RobinLinus/share-the-love)
 
 ### TV
 

@@ -1,3 +1,17 @@
+### Book
+
+- http://orta.io/notes/recommendations/books#TypeScript
+- [Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://github.com/danvk/effective-typescript)
+- https://learning.oreilly.com/library/view/effective-typescript/9781492053736 + https://www.oreilly.com/catalog/errata.csp?isbn=0636920261544 + https://twitter.com/AdamRackis/status/1366058541925113863 + https://github.com/danvk/literate-ts
+- https://github.com/enricopolanski/functional-programming
+- https://vladris.com/blog/2019/04/28/programming-with-types.html
+- https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node
+
+### Cinema
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
+- [Ethan Arrowood](https://github.com/Ethan-Arrowood/talks)
+
 ### Course
 
 - https://www.udemy.com/course/understanding-typescript
@@ -16,21 +30,33 @@
 - How domain modeling can help us to make our apps consistent & safe: [repo](https://github.com/gillchristian/modeling) + [slides](https://modeling.now.sh/)
 - [Understanding TypeScript's Structural Type System](https://spin.atomicobject.com/2018/09/28/typescript-strange-loop-2018)
 
-### Book
+### Opinions
 
-- http://orta.io/notes/recommendations/books#TypeScript
-- [Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://github.com/danvk/effective-typescript)
-- https://learning.oreilly.com/library/view/effective-typescript/9781492053736 + https://www.oreilly.com/catalog/errata.csp?isbn=0636920261544 + https://twitter.com/AdamRackis/status/1366058541925113863 + https://github.com/danvk/literate-ts
-- https://github.com/enricopolanski/functional-programming
-- https://vladris.com/blog/2019/04/28/programming-with-types.html
-- https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node
+- [I really wish TypeScript had better inference.](https://twitter.com/devongovett/status/1219663924989050881)
+- [TypeScript vs. PureScript vs. ReasonML vs. Elm](https://hasura.io/blog/why-we-chose-typescript-for-hasura-console)
+- https://typing-is-hard.ch
+- https://valand.dev/blog/post/from-rust-to-typescript
+- [Generics or Type Assertion?](https://twitter.com/wesbos/status/1369673186720309249)
+- [If you're having a type inference issue with a 3rd party library, don't try to force it by shoving types into generics](https://twitter.com/BenLesh/status/1025156281936408576)
+- [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
 
-### Cinema
+### Patterns
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
-- [Ethan Arrowood](https://github.com/Ethan-Arrowood/talks)
+- [Lets learn Dependency Injection.](https://swatinem.de/blog/learn-di)
 
-### References
+### Practice
+
+- https://github.com/stevenmusumeche/advent-of-code-2019
+- [📚 Functions and algorithms implemented purely with TypeScript's type system ](https://github.com/ronami/meta-typing)
+- https://github.com/mdevils/typescript-exercises
+- https://ts-engine.dev
+- https://startup-cto.net/10-bad-typescript-habits-to-break-this-year
+- https://github.com/dsherret/ts-ast-viewer
+- https://dev.doctorevidence.com/efficient-node-development-with-typescript-10a6d390129d
+- [TypeScript build examples and workflows.](https://github.com/serbanghita/TypeScript-Builds)
+- [Just migrated a project from Flow to TypeScript.](https://twitter.com/satya164/status/1071953492544233472)
+
+### Reference
 
 - [TypeScript style guide](https://ts.dev/style)
 - https://github.com/rmolinamir/typescript-cheatsheet
@@ -58,29 +84,5 @@
 - [How would one build their own Typescript compiler?](https://twitter.com/tannerlinsley/status/1202745654939922434)
 - https://github.com/graphql/graphql-js/issues/2104 + https://twitter.com/GraphQL/status/1377277442860183553
 - https://github.com/Quramy/lerna-yarn-workspaces-example
-
-### Practice
-
-- https://github.com/stevenmusumeche/advent-of-code-2019
-- [📚 Functions and algorithms implemented purely with TypeScript's type system ](https://github.com/ronami/meta-typing)
-- https://github.com/mdevils/typescript-exercises
-- https://ts-engine.dev
-- https://startup-cto.net/10-bad-typescript-habits-to-break-this-year
-- https://github.com/dsherret/ts-ast-viewer
-- https://dev.doctorevidence.com/efficient-node-development-with-typescript-10a6d390129d
-- [TypeScript build examples and workflows.](https://github.com/serbanghita/TypeScript-Builds)
-- [Just migrated a project from Flow to TypeScript.](https://twitter.com/satya164/status/1071953492544233472)
-
-### Opinions
-
-- [I really wish TypeScript had better inference.](https://twitter.com/devongovett/status/1219663924989050881)
-- [TypeScript vs. PureScript vs. ReasonML vs. Elm](https://hasura.io/blog/why-we-chose-typescript-for-hasura-console)
-- https://typing-is-hard.ch
-- https://valand.dev/blog/post/from-rust-to-typescript
-- [Generics or Type Assertion?](https://twitter.com/wesbos/status/1369673186720309249)
-- [If you're having a type inference issue with a 3rd party library, don't try to force it by shoving types into generics](https://twitter.com/BenLesh/status/1025156281936408576)
-- [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
-
-### Patterns
-
-- [Lets learn Dependency Injection.](https://swatinem.de/blog/learn-di)
+- https://wapl.es/typescript/2019/03/14/xml-jsx-sitemaps-in-typescript.html
+- https://dev.to/43081j/strongly-typed-event-emitters-using-eventtarget-in-typescript-3658

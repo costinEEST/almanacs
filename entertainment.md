@@ -82,6 +82,7 @@
 - How Jesus Became a Christ - https://youtu.be/K8jdGNXIgfk + https://www.youtube.com/playlist?list=PLm7uyPwcHexJKzQVzfMyLT0epfOTYXm3N
 - [The Secret History of Science and Religion](https://www.bbc.co.uk/programmes/m000614g/episodes/player) + https://www.amazon.com/Atheists-Origin-Species-Nick-Spencer/dp/1472902963 + https://www.abc.net.au/religion/the-problem-with-yuval-noah-harari/12451764
 - https://www.theguardian.com/lifeandstyle/2021/mar/28/secular-pilgrims-why-ancient-trails-still-pack-a-spiritual-punch
+- [What does Jordan Peterson mean by "the traditional insistence on the androgyny of Christ"?](https://twitter.com/entactogeneses/status/1338289377022251010)
 
 ### Geography
 

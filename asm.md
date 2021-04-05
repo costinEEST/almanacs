@@ -18,6 +18,7 @@
 - https://medium.com/dailyjs/writing-a-game-boy-assembler-in-node-js-4063162fd931
 - https://twitter.com/binitamshah/status/1300644185410695169
 - https://github.com/danbev/learning-assembly
+- https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick + https://twitter.com/_can1357/status/1374209069137989633
 
 ### Tools
 

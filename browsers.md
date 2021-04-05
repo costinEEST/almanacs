@@ -1,5 +1,6 @@
 ### APIs
 
+- [A site to test the interaction of web APIs and browser permissions.](https://github.com/chromium/permission.site)
 - https://github.com/NOtherDev/whatwebcando
 - https://github.com/samdutton/simpl
 - [How to Get Around Newspaper Paywalls in 2019](https://t.co/pVtMutYzns)
@@ -250,7 +251,6 @@ javascript: (() =>
 - [A self contained OBS -> FTL -> WebRTC live streaming server.](https://github.com/GRVYDEV/Project-lightspeed)
 - [Share a terminal session over WebRTC](https://github.com/maxmcd/webtty)
 - https://github.com/webrtc-for-the-curious/webrtc-for-the-curious
-- [A Progressive Web App for local file sharing](https://github.com/RobinLinus/snapdrop)
 - https://github.com/delapuente/presentations#webrtc--web-components
 - https://github.com/kgryte/awesome-peer-to-peer#resources
 - https://github.com/EnableSecurity/awesome-rtc-hacking
