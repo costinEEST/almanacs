@@ -65,6 +65,7 @@
 - [Paco Coursey](https://paco.sh)
 - [Kuldar Kalvik](https://github.com/kuldar/kuldar-2020)
 - [Colin Hemphill](https://github.com/colinhemphill/colinhemphill-website)
+- https://zthall.com/2017/06/11/narrows-crossfit-casestudy
 
 ### Tools
 

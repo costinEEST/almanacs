@@ -26,6 +26,7 @@
 - https://kevinmartinjose.com/2019/01/27/lessons-from-learning-to-play-the-violin
 - https://expmag.com/2021/03/it-looks-like-a-saxophone-but-plays-512-notes-many-youve-never-heard-before
 - [Ukulele build | Matthias Wandel](https://www.youtube.com/playlist?list=PLSnvVtM4lBIXzkp-7ouf6NVfS7fOLGfuN)
+- https://github.com/Voluntari-Noi/guitar-lessons
 
 ### Tool
 

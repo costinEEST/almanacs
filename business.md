@@ -28,6 +28,7 @@
 - https://github.com/LisaDziuba/Marketing-for-Engineers
 - https://marketingexamples.com + https://twitter.com/GoodMarketingHQ
 - https://www.esquire.com/entertainment/a35500985/who-is-beeple-mike-winkelmann-nft-interview
+- [7 lessons from people that taught me more than any business/marketing class I've ever taken](https://twitter.com/alexgarcia_atx/status/1377448291047243776)
 
 ### Branding
 
