@@ -65,6 +65,7 @@
 ### Development
 
 - https://github.com/llSourcell/Watch-Me-Build-an-Education-Startup
+- [Full-stack web app gratitude journal with sentiment analysis, SMS reminders using Twilio API, various data visualizations of streaks, moods, and common phrases. [WIP]](https://github.com/mashikro/my-smart-journal)
 
 ### Networking
 
@@ -98,6 +99,7 @@
 - https://github.com/rasulkireev/builtwithdjango
 - https://www.ianbicking.org/blog/2018/11/viewing-python-execution-source-code-rewriting.html
 - https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE
+- https://github.com/geoffbacon/regular-expressions-in-python
 
 ### Scraping
 

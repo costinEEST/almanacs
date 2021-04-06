@@ -271,6 +271,7 @@
 - [Flatend – Quickly build microservices using P2P networking in Node/Go](https://news.ycombinator.com/item?id=23561904)
 - https://hackernoon.com/learn-how-to-use-webhooks-by-connecting-nodejs-ifttt-and-twitter-k0w3121
 - [cote lets you write zero-configuration microservices in Node.js without nginx, haproxy, redis, rabbitmq or anything else. ](https://github.com/dashersw/cote)
+- [If you ever wanted to gain atomicity for a series of service calls, sagas may be the right choice.](https://twitter.com/AndreyPechkurov/status/1375877582315458569) + https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
 
 ### Design patterns
 

@@ -190,6 +190,7 @@
 - https://github.com/Rich-Harris/yootils/blob/master/src/array/shuffle.ts
 - https://macwright.org/2020/02/14/math-keeps-changing.html
 - https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library
+- https://apechkurov.medium.com/v8-deep-dives-random-thoughts-on-math-random-fb155075e9e5
 
 ### default arguments
 

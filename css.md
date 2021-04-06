@@ -9,6 +9,7 @@
 - https://thewholesome.dev/p/8-frontend-coding-ideas-that-will
 - https://github.com/argyleink/transition.css
 - [A reference for the render impact of mutating CSS properties.](https://github.com/GoogleChromeLabs/css-triggers)
+- https://shud.in/posts/on-ui-animations
 
 ### Books
 
@@ -140,13 +141,14 @@
 - [amazing generators](https://twitter.com/Prathkum/status/1374726453649100809)
 - [What's the best (simple) tool for creating animations?](https://twitter.com/kylemathews/status/1203140798302154752)
   
-### TV
+### Cinema
 
 - ["Making Things Better: Redefining the Technical Possibilities of CSS" by Rachel Andrew](https://aneventapart.com/news/post/making-things-better-aea-video)
 - [Know a good "CSS from Scratch" course you can recommend?](https://twitter.com/adamwathan/status/1244795112691060736)
 - https://www.twitch.tv/kevinpowellcss
 - [Apple Music on macOS](https://twitter.com/freetonik/status/1322144670886100992)
 - https://www.liviuvasilescu.ro/blog/ziua-vignelli
+- [Tailwind CSS: From Zero to Production | Tailwind Labs](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 
 ### Security
 

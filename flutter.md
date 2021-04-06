@@ -15,6 +15,7 @@
 
 - https://github.com/llSourcell/How-to-Build-a-Biomedical-Startup
 - https://github.com/llSourcell/How_to_Build_a_healthcare_startup
+- [Web platform support: Flutter or ReactNative?](https://twitter.com/sebastienlorber/status/1367424075619049474)
 
 
 ### Security

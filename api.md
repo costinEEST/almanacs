@@ -42,6 +42,7 @@
 - https://github.com/Shopify/graphql-design-tutorial
 - [Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.](https://github.com/enisdenjo/graphql-ws)
 - [Want to learn about GraphQL hacking?](https://twitter.com/drunkrhin0/status/1375038146409271300)
+- https://github.com/devknoll/graphql-resources
 
 ### gRPC
 

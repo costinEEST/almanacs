@@ -146,7 +146,7 @@
 - [A boilerplate project to quickly build a Chrome extension using TypeScript and React (built using webpack).](https://github.com/martellaj/chrome-extension-react-typescript-boilerplate)
 - [Screenity is a feature-packed screen and camera recorder for Chrome.](https://github.com/alyssaxuu/screenity)
 - [Transform all your mailto and tel link in a beautiful modal with more possibilities! Open directly Gmail, Outlook and Yahoo for emails; Telegram, WhatsApp or Skype for phone numbers.](https://github.com/manzinello/mailgo)
-- https://github.com/iamadamdev/bypass-paywalls-chrome
+- https://github.com/iamadamdev/bypass-paywalls-chrome + https://github.com/iamadamdev/bypass-paywalls-firefox
 - [The missing star history graph of github repos](https://github.com/timqian/star-history)
 - [Extension to block Service Workers registration in Chrome](https://github.com/clod81/block_service_workers)
 - [Chrome Extension to export all accessible cookies of the current Tab](https://github.com/cookiengineer/me-want-cookies)
@@ -157,6 +157,7 @@
 - https://github.com/dkthehuman/extension-starter-kit
 - [Between Simplified Chinese (ZH-CN or GB2312) and Traditional Chinese (ZH-TW or BIG5)](https://github.com/DoctorLai/Simplified-and-Traditional-Chinese)
 - https://github.com/giuseppeg/is-nextjs-site-extension
+- [Track changes in a specific tab and get a notification when something happens](https://github.com/impronunciable/domification)
 
 ### Bookmarklets
 

@@ -51,6 +51,7 @@
 
 - https://component.gallery
 - https://www.designboom.com/art/artsupplies-worlds-most-googled-artists-03-10-2021
+- https://spectrum.mit.edu/winter-2017/neri-oxmans-krebs-cycle-of-creativity
 
 ### User experience
 

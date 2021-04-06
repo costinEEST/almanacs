@@ -56,6 +56,7 @@
 ### Cinema
 
 - [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
+- [An aggregation of links that summarize RustConf 2020.](https://github.com/poteto/rustconf-2020)
 
 ### Algorithm
 

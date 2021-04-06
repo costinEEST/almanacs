@@ -58,6 +58,7 @@
 - https://twitter.com/amitness/status/1288713405700780033
 - [Letiția Pârcălăbescu](https://www.youtube.com/c/AICoffeeBreak/playlists)
 - [Machine Learning & User Experience (MLUX)](https://www.meetup.com/MLUXmeetup)
+- [Heather Knight](http://www.marilynmonrobot.com/about)
 
 ### References
 
@@ -105,6 +106,7 @@
 - [Smart Upscaler can upscale images up to 3000x3000px.](https://icons8.com/upscaler)
 - https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers
 - [End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow](https://github.com/zzw922cn/Automatic_Speech_Recognition)
+- [HRI '21: Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction](https://github.com/WafaJohal/hri2021-pdf-downloader)
 
 
 ### Neural networks
@@ -122,6 +124,7 @@
 
 - [Background Matting is a project that uses deep learning to turn any background into a green screen with just a handheld camera.](https://github.com/senguptaumd/Background-Matting)
 - [An educational resource to help anyone learn deep reinforcement learning.](https://github.com/openai/spinningup)
+- [Reinforcement Learning + Deep Learning](https://github.com/andri27-ts/Reinforcement-Learning)
 
 ### Papers
 

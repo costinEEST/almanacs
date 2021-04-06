@@ -62,6 +62,7 @@
 - [A GitHub App for enforcing approval policies on pull requests that goes beyond what GitHub natively supports](https://github.com/palantir/policy-bot)
 - [Create a semantic release workflow with Lerna, Conventional Commits and GitHub Actions](https://github.com/jonwa/lerna-release-workflow)
 - [A small package of software which will help you configure an automated build and publish process, using Travis CI and GitHub Pages.](https://github.com/ewanmellor/gh-publisher)
+- https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html
 
 ### Tools
 

@@ -9,4 +9,5 @@
 
 ### Miscellaneous
 
+- https://medium.com/hackernoon/how-to-solve-programmers-block-18363c040656
 - https://mundyreimer.github.io/blog/representation-notation-thought

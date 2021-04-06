@@ -74,3 +74,4 @@
 ### Opinions
 
 - [Windows Subsystem for Linux](https://twitter.com/n_o_t_h_a_n_k_s/status/1245345174944964608)
+- https://blog.usejournal.com/windows-95-how-does-it-look-today-feda837922d9 + https://news.ycombinator.com/item?id=26676957 + https://twitter.com/flaviocopes/status/1378269064091553793

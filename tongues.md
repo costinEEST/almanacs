@@ -74,6 +74,7 @@
 - https://ralphammer.com/the-book-of-change
 - https://sites.google.com/stanford.edu/cantonese/language-resources + https://twitter.com/kginlum/status/1334213475011231744
 - [Cross-language homonyms between English and Chinese](https://mcc.id.au/blog/2020/07/homoyin)
+- https://github.com/signsinchina
 
 ### Arabic
 
@@ -172,6 +173,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - http://alexalejandre.com/language/16.Limba%20Rom%c3%a2n%c4%83.%20Curs%20superior.pdf
 - http://alexalejandre.com/language/03.Introduction%20to%20Romanian.pdf + https://www.studmed.ru/seiver-george-o-introduction-to-romanian_508aa438e3a.html + https://www.amazon.com/Introduction-Romanian-George-Seiver/dp/B0000CIK7N
 - http://alexalejandre.com/language/01.Colloquial%20Romanian.pdf
+- [Istoriile lui Roderick](https://hroderic.wordpress.com)
 
 ### Russian
 

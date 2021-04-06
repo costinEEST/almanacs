@@ -10,6 +10,8 @@
 - https://www.scribd.com/book/420546368/Dieta-ketogenica + https://books.google.ro/books?id=-xGnDwAAQBAJ
 - [The Magick of Food: Rituals, Offerings & Why We Eat Together ~ Gwion Raven](https://www.amazon.com/Magick-Food-Rituals-Offerings-Together/dp/0738760854)
 - http://istrosbooks.com/products/books/our-daily-bread-110
+- https://flaviocopes.com/repetive-strain-injury + https://twitter.com/flaviocopes/status/1378999932191977473
+- https://inquisitivebiologist.com/2021/04/06/book-review-how-to-make-a-vaccine-an-essential-guide-for-covid-19-beyond
 
 ### Cinema
 

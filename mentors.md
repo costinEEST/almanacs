@@ -23,6 +23,7 @@
 
 ### Aaron Swartz
 
+- https://archive.org/details/AaronSwartzAProgrammableWeb + http://www.cs.rpi.edu/~hendler/ProgrammableWebSwartz2009.html + https://shud.in/posts/aaron-swartz-a-programmable-web
 - https://www.versobooks.com/blogs/2577-a-hacktivist-reading-list-aaron-swartz-s-recommended-reading
 
 #### Alan Turing
