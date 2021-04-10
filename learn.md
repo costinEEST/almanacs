@@ -27,3 +27,7 @@
 ### Radio
 
 - https://twitter.com/jnearestn/status/1293188174387089408 + https://www.podtangent.com/e/027-7-practices-to-survive-the-2020-apocalypse
+
+### Opinions
+
+- [Most of learning is just finding, revealing, then making sense that which is already inside you.](https://twitter.com/paulportesi/status/1380765616085213191)

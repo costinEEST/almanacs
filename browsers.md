@@ -158,6 +158,7 @@
 - [Between Simplified Chinese (ZH-CN or GB2312) and Traditional Chinese (ZH-TW or BIG5)](https://github.com/DoctorLai/Simplified-and-Traditional-Chinese)
 - https://github.com/giuseppeg/is-nextjs-site-extension
 - [Track changes in a specific tab and get a notification when something happens](https://github.com/impronunciable/domification)
+- [A Chrome Extension to export all words from a Memrise course to a CSV file.](https://github.com/raineorshine/memrise-export)
 
 ### Bookmarklets
 

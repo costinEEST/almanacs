@@ -8,6 +8,8 @@
 - https://shihn.ca/posts/2020/roughjs-algorithms
 - https://github.com/excelbrium/algorithms-and-data-structures + https://www.notion.so/JS-Knowledge-5b3b764a595e4494beed9aa96d707efb
 - https://github.com/RobinLinus/prime-counting-function
+- [An Introduction to Scalability and Memory](https://www.youtube.com/playlist?list=PLK_e420JFUuYa-nMGoEeJqsplPvJZTOL5) + [Recursion for the Rest of Us](https://www.youtube.com/playlist?list=PLK_e420JFUuaDfQUnWXoc-rTXg6TzGDh2) + https://github.com/Haseeb-Qureshi/cs-fundamentals
+
 
 ### Quirks
 

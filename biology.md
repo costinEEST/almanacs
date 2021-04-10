@@ -39,6 +39,7 @@
 
 - https://medium.com/@sbarnettARK/proteomics-primer-1-seer-190c942b244c
 - https://www.theatlantic.com/ideas/archive/2021/03/how-mrna-technology-could-change-world/618431
+- https://horizon.scienceblog.com/1690/qa-biontech-vaccine-is-only-mrna-1-0-this-is-just-the-beginning-say-co-founders
 
 ### Miscellaneous
 

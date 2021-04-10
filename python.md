@@ -113,6 +113,7 @@
 - https://healeycodes.com/privacy-focused-analytics-from-scratch
 - [Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators](https://www.jvt.me/posts/2020/09/01/against-online-tooling)
 - https://slides.com/csalazar/secure-software-development-using-python
+- [Defeating Google's audio reCaptcha with 85% accuracy.](https://github.com/ecthros/uncaptcha)
 
 ### Servers
 
@@ -130,7 +131,6 @@
 - https://github.com/bamos/reading-list
 - https://github.com/pncnmnp/Markdown-to-HTML
 - [Animation engine for explanatory math videos.](https://github.com/3b1b/manim)
-- [Matt's Let's Encrypt Automation](https://github.com/mattsta/lematt)
 - [Replacing netstat's 90s C Code With Modern Python](https://matt.sh/netmatt)
 - [How to use Jupyter Notebooks in 2020.](https://ljvmiranda921.github.io/notebook/2020/03/06/jupyter-notebooks-in-2020)
 - https://www.slideshare.net/MichaelFelch/offensive-python-for-pentesting

@@ -31,6 +31,7 @@
 - [How to automatically cut silence in videos](https://flaviocopes.com/cut-silence-videos)
 - https://www.taylorbell.com/txt/code/ffmpeg-video-trimming
 - https://github.com/cyburgee/ffmpeg-guide
+- https://thesquareplanet.com/blog/livestream-tips
 
 ### Opinions
 

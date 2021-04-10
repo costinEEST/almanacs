@@ -9,6 +9,7 @@
 - https://www.oliversacks.com/books-by-oliver-sacks/musicophilia
 - https://www.amazon.co.uk/Music-Instinct-Works-Cant-Without/dp/0099535440
 - https://www.fundatiacaleavictoriei.ro/produs/muzica-clasica-si-opera-doua-carti-de-tiberiu-soare
+- https://www.technovelty.org/review/jazz-piano-comping-for-the-beginning-jazz-improvisor.html
 
 ### Cinema
 

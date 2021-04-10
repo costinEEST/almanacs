@@ -151,6 +151,8 @@
 - [What are the best live contracts  that a new solidity dev should be learning from?](https://twitter.com/musatheredguard/status/1340344406260535296)
 - https://twitter.com/0xDexter0us/status/1348334269161115650
 - [Any good ways to decrypt in solidity?](https://twitter.com/DennisonBertram/status/1371619906920325121)
+- https://github.com/raineorshine/solidity-by-example
+- https://github.com/raineorshine/solidity-repl
 
 ### Demos
 

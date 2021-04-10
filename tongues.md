@@ -61,6 +61,7 @@
 - http://languagestolearn.com/resources
 - https://psyche.co/guides/how-to-approach-the-lifelong-project-of-language-learning
 - https://thelanguagenerds.com/feast-your-eyes-on-magnificent-linguistic-family-tree
+- https://library.teachyourself.com
 
 ### Communities
 
@@ -96,6 +97,10 @@
 - [At the Coal-Face of Standardization’: Uncovering the Role of Copy Editors in Standardizing the English Language (thesis)](https://www.arrantpedantry.com/wp-content/uploads/2013/05/Jonathon-Owen-thesis.pdf)
 - http://languagestolearn.com/has-english-become-the-21st-centurys-linguistic-bully
 - [What The English?!](https://www.youtube.com/playlist?list=PLxDXDxbE93MyXaHPbZmJNkmIkVtP7dz3p)
+
+### Esperanto
+
+- [Chuck Smith on Why You Should Learn Esperanto](https://www.fluentin3months.com/podcast/38)
 
 ### Farsi
 
@@ -151,6 +156,10 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - [Emblems of love, in four languages : dedicated to the ladies](https://archive.org/details/emblemsofloveinf00ayre)
 - https://twitter.com/DannyBate4/status/1370405688372047876
 - [Learning Latin the Ancient Way | Eleanor Dickey](https://twitter.com/prathyvsh/status/1185363307575689216)
+
+### Serbian
+
+- [Learn Serbian in a few minutes | Teacher_Suzana](https://www.youtube.com/playlist?list=PLVnag7rRuuY2yoo1lSoHxRC5kRjI0ZX-P)
 
 ### Spanish
 

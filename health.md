@@ -139,6 +139,10 @@
 - [Biomarkers, Metabolism, Biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9x2q-9uV9zcGfQ6Pi6Oj-_s)
 - [Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss)
 
+### Meat
+
+- https://www.timesofisrael.com/for-2-million-years-humans-ate-meat-and-little-else-study
+
 ### Mushrooms
 
 - https://ciupercar.ro

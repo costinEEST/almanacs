@@ -68,6 +68,7 @@
 - [Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni)
 - https://github.com/jmdx/TLS-poison
 - [Project for learning about OpenSSL.](https://github.com/danbev/learning-libcrypto)
+- [Matt's Let's Encrypt Automation](https://github.com/mattsta/lematt)
 
 ### References
 

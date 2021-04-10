@@ -33,7 +33,7 @@
 
 - https://github.com/AnthonyCalandra/modern-cpp-features
 - https://github.com/danbev/learning-cpp
-- https://www.avabodh.com/cxxin/cxx.html
+- [C++ Internals](https://www.avabodh.com/cxxin/cxx.html)
 - https://github.com/changkun/modern-cpp-tutorial
 - [How can I detect which C++ compiler is used?](https://twitter.com/foonathan/status/1351251411779133440) + https://quuxplusone.github.io/blog/2021/01/13/conversion-operator-lookup
 

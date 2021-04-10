@@ -53,7 +53,7 @@
 ### References
 
 - https://www.learn-c.org
-- https://www.avabodh.com/cin/cin.html
+- [C Internals](https://www.avabodh.com/cin/cin.html)
 - https://github.com/tuhdo/os01
 - https://github.com/rby90/Project-Based-Tutorials-in-C
 - https://thesquareplanet.com/blog/smashing-the-stack-21st-century
