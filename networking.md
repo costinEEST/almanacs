@@ -91,7 +91,8 @@
 - [A Twilio-powered interactive talk radio platform](https://capiche.fm) + https://news.ycombinator.com/item?id=25424103
 - [Transmits AM radio on computers without radio transmitting hardware.](https://github.com/fulldecent/system-bus-radio)
 - https://github.com/zbetcheckin/Security_list#wireless--radio-signal_strength
-- https://www.bit-101.com/blog/2020/10/i-think-bluetooth-is-finally-ok/
+- https://www.bit-101.com/blog/2020/10/i-think-bluetooth-is-finally-ok
+- https://kyk13.com/antennas-for-helium
 
 ### 5G
 

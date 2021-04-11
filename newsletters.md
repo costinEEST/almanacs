@@ -31,6 +31,7 @@
 - [Roditor Food Market](https://us2.campaign-archive.com/home/?u=1ae9247870a083038851025e0&id=17c09f57ca)
 - [Sahil Bloom](https://sahilbloom.substack.com/archive)
 - [Dan from TLDR](https://www.tldrnewsletter.com/archives)
+- [Ken Norton](https://newsletter.bringthedonuts.com/archive)
 
 ### Buddhism
 

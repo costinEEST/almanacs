@@ -12,6 +12,7 @@
 - [The Soul of a New Machine: Rethinking the Computer](https://news.ycombinator.com/item?id=23975445)
 - https://mightyohm.com/blog/2008/12/the-greatest-electronics-book-ever-written
 - https://www.cetola.net/2017/11/12/electronics-for-the-autodidactic
+- [how cars works](https://www.sae.org/publications/books/content/bosch10)
 
 ### Cinema
 

@@ -1,3 +1,7 @@
+### Book
+
+- https://booksaveur.com/collections/editura-publisol/products/air-majesty-michael-jordan-de-emil-hossu-longin-precomanda-20-mai-2021
+
 ### Cinema
 
 - https://www.youtube.com/user/bballbreakdown/playlists

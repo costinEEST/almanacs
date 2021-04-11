@@ -2,7 +2,7 @@
 
 - https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work.](https://www.databass.dev/)
-- [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/)
+- [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/) + [What are must-know concepts for back end development?](https://news.ycombinator.com/item?id=18961793)
 - https://lethain.com/handbook-relational-db-design-on-data-modeling
 - https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
 - [beginners](https://twitter.com/samerbuna/status/1183771023054987264)
@@ -123,3 +123,4 @@
 - https://github.com/pingcap/awesome-database-learning
 - https://github.com/madd86/awesome-system-design
 - https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html
+- https://rawrmaan.com/why-parse-failed

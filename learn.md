@@ -5,11 +5,12 @@
 
 ### Community
 
-- 
+- [Piotr Wozniak](https://www.wired.com/2008/04/ff-wozniak)
 
 ### Method
 
 - https://www.supermemo.com/en/archives1990-2015/articles/20rules
+- https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn + https://news.ycombinator.com/item?id=23492358
 
 ### Tool
 
@@ -23,6 +24,7 @@
 - https://github.com/linuz90/better-roam-research
 - https://github.com/everruler12/roam2github
 - https://mundyreimer.github.io/resources
+- https://vaclavkosar.com/productivity/Quizrecall-Learn-any-text-with-automatically-generated-quiz
 
 ### Radio
 

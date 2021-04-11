@@ -25,6 +25,7 @@
 ### Public speaking
 
 - https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018 + https://youtu.be/Unzc731iCUY + https://www.memoriesofpatrickwinston.com
+- [50 patterns for responsive communication](http://www.ankn.uaf.edu/curriculum/AxeHandleAcademy/rc/50patterns.htm)
 
 ### Board games
 
@@ -127,6 +128,7 @@
 - https://fermatslibrary.com/s/a-market-economy-in-the-early-roman-empire
 - [A History of Private Life, Volume I: From Pagan Rome to Byzantium](https://www.amazon.com/History-Private-Life-Pagan-Byzantium/dp/0674399749)
 - https://going-medieval.com/subject-index-table-of-contents
+- https://acesounderglass.com/2019/10/16/epistemic-spot-checks-the-fall-of-rome
 
 ### Mythology
 
@@ -261,6 +263,7 @@
 - Can't Hurt Me. Master Your Mind and Defy the Odds: [hardcover](https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287) + [podcast](https://youtu.be/5tSTk1083VY)
 - [Transactional Analysis with Dave Spenceley](http://www.psihoterapieat.ro)
 - https://www.nlp-institutes.net/daniel-bichis
+- https://acesounderglass.com/2018/04/14/self-help-epistemic-spot-check-results
 
 ### Body language
 

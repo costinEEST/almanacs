@@ -11,6 +11,7 @@
 ### Players
 
 - https://www.forcingfunction.com/lunch-hour/garrett-adelstein + https://twitter.com/GmanPoker/status/1331284290475159553
+- [Haseeb Qureshi](https://haseebq.com/glossary) + https://www.youtube.com/c/HaseebQureshi/playlists
 
 ### Radio
 

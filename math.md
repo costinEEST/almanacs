@@ -23,7 +23,7 @@
 - https://github.com/Shraddha2702/Math-Concepts
 - [A Programmer's Introduction to Mathematics by Jeremy Kun](https://pimbook.org)
 - https://yurichev.com/writings/Math-for-programmers.pdf
-- https://www.neilwithdata.com/mathematics-self-learner
+- https://www.neilwithdata.com/mathematics-self-learner + https://news.ycombinator.com/item?id=22400375
 - [Any book to study mathematics from first principles?](https://twitter.com/dan_abramov/status/1249344084981972992)
 - Linear Algebra Done Right - http://linear.axler.net/LADRvideos.html + https://link.springer.com/book/10.1007/978-3-319-11080-6 + https://mega.nz/file/70xXHK6A
 - [At the Interface of Algebra and Statistics - Tai-Danae Bradley](https://twitter.com/math3ma/status/1249862830670729217)
@@ -32,7 +32,6 @@
 - [Teach Yourself Logic: A Study Guide](https://www.logicmatters.net/tyl) + https://en.wikipedia.org/wiki/How_to_Solve_It + https://www.edx.org/course/paradox-and-infinity + https://omereingold.wordpress.com/cs-154-introduction-to-automata-and-complexity-theory
 - https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf + https://news.ycombinator.com/item?id=24194543
 - https://www.basicbooks.com/titles/sabine-hossenfelder/lost-in-math/9781541646766 + http://backreaction.blogspot.com/2020/06/physicists-still-lost-in-math.html
-- https://www.neilwithdata.com/mathematics-self-learner
 - https://csgordon.github.io/books.html + https://news.ycombinator.com/item?id=25572852
 - https://math.recipes/main.html + https://sat-smt.codes/main.html
 - [Bumping into some little known but cool computer history books lately.](https://twitter.com/prathyvsh/status/1199258119362117633)

@@ -26,7 +26,7 @@
 - https://cryptoeconomics.study/en
 - https://cryptozombies.io + https://github.com/loomnetwork/cryptozombie-lessons + https://github.com/loomnetwork/cryptozombies-lesson-code
 - https://github.com/Developer-Y/cs-video-courses#misc
-
+- https://medium.com/free-code-camp/the-authoritative-guide-to-blockchain-development-855ab65b58bc + https://haseebq.com/introduction-to-cryptocurrency
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUfiNFwggn-4POpQdwkBTetA
@@ -96,6 +96,7 @@
 - https://github.com/jaredtumiel/Crypto-Resources
 - https://github.com/gianlucatruda/crypto-workshop
 - [The block chain and the CAP Theorem](https://www.goland.org/blockchain_and_cap)
+- https://github.com/Haseeb-Qureshi/lets-build-a-blockchain
 
 ### Boilerplate
 
@@ -125,6 +126,9 @@
 - https://ronan.eth.link/blog/ethereum-gas-dangers
 - [*Always* use a strong password for your MetaMask software wallet.](https://twitter.com/miguelmotah/status/1369091946354929669)
 - https://rya.nc/forensic-bitcoin-cracking.html
+- https://github.com/ConsenSys/blockchainSecurityDB
+- https://github.com/fergarrui/ethereum-security
+- https://github.com/PeterBorah/smart-contract-security-examples
 
 
 ### Bitcoin

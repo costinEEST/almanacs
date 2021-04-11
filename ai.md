@@ -16,6 +16,8 @@
 - [Data Science in Julia for Hackers](https://notamonadtutorial.com/how-we-wrote-a-hands-on-bayesian-data-science-book-in-6-months-a97c73a510b5)
 - [ Recurrent Attentive Neural Process for Time Series Clustering (Master Thesis)](https://docs.google.com/presentation/d/1anMlTRTguPB0dUG7t3u5dgV6xuAaU9XadWFFX_dn7oE)
 - https://uxplanet.org/designer-friendly-resources-to-study-ai-and-machine-learning-1-6106e257faeb
+- [Learning Theory from First Principles](https://francisbach.com/i-am-writing-a-book)
+- https://andrewnc.github.io/blog/everyday_data_science.html
 
 ### Course
 

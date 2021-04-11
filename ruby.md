@@ -13,6 +13,8 @@
 ### Practice
 
 - https://github.com/alexpeattie/letsencrypt-fromscratch
+- https://github.com/Haseeb-Qureshi/Algorithms-Study-Group
+- https://github.com/Haseeb-Qureshi/crypto-challenges
 
 ### Reference
 

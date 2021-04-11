@@ -59,6 +59,7 @@
 - [Any recommended demoscene or books?](https://twitter.com/angealbertini/status/1250737612626833408)
 - https://www.independent.co.uk/arts-entertainment/games/sid-meier-interview-civilisation-memoir-autobiography-b404968.html
 - https://arstechnica.com/video/watch/war-stories-myst
+- [Tennis for Two](https://www.aps.org/publications/apsnews/200810/physicshistory.cfm)
 
 ### Opinions
 

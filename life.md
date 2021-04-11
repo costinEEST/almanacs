@@ -75,3 +75,4 @@
 - https://pt.kle.cz/en_US/index.html + https://github.com/petrkle/periodic-table
 - https://en.wikipedia.org/wiki/The_Periodic_Table_%28short_story_collection%29
 - https://www.amazon.com/Lithium-Doctor-Breakthrough-Walter-Brown/dp/1631491997 + https://twitter.com/curiouswavefn/status/1378034347479986176
+- [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory](https://www.amazon.com/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861)

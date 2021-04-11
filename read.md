@@ -12,6 +12,7 @@
 - https://sirupsen.com/read
 - https://github.com/jlevy/on-books
 - https://michaelcurzi.substack.com/p/19-how-to-run-a-book-group
+- https://supermemo.guru/wiki/Incremental_reading
 
 ### Tools
 
