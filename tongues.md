@@ -97,6 +97,7 @@
 - [At the Coal-Face of Standardization’: Uncovering the Role of Copy Editors in Standardizing the English Language (thesis)](https://www.arrantpedantry.com/wp-content/uploads/2013/05/Jonathon-Owen-thesis.pdf)
 - http://languagestolearn.com/has-english-become-the-21st-centurys-linguistic-bully
 - [What The English?!](https://www.youtube.com/playlist?list=PLxDXDxbE93MyXaHPbZmJNkmIkVtP7dz3p)
+- [The Surprising History of 'Freelance'](https://www.merriam-webster.com/words-at-play)
 
 ### Esperanto
 

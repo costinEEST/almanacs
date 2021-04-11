@@ -47,6 +47,7 @@
 - [Polyphonic](https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ/playlists)
 - [Ishkur's Guide to Electronic Music.](https://music.ishkur.com)
 - https://www.classicfm.com/discover-music/why-is-a-cd-74-minutes
+- https://www.beatportal.com/features/beatports-definitive-guide-to-techno
 
 ### Songs
 

@@ -52,6 +52,7 @@
 - https://fasterthanli.me/series/making-our-own-ping
 - https://github.com/theseus-os/Theseus
 - https://wapl.es/rust/2017/10/06/git2-rs-cloning-private-github-repos.html
+- https://nightly.fluvio.io/blog/2021/04/node-bindgen-tuples
 
 ### Cinema
 

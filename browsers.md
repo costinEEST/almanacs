@@ -307,6 +307,7 @@ javascript: (() =>
 - https://github.com/leandrotk/web-performance-studies
 - https://www.davrous.com/2020/03/20/frame-variable-refresh-rates-or-why-tesla-is-responsible-for-the-60-fps-war
 - https://ethanmarcotte.com/wrote/au-revoir-mon-ampmour
+- [A Node.js command line tool that crawls a domain and gathers lighthouse performance data for every page.](https://github.com/cloudfour/lighthouse-parade)
 
 ### Miscellaneous
 
