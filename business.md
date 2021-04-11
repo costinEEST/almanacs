@@ -22,6 +22,7 @@
 
 ### Marketing
 
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUdTpa8U_pAfqZY9mYoh_WnB
 - [Curated list to achieve visibility for your product](https://github.com/dehenne/awesome-visibility)
 - https://github.com/mmccaff/PlacesToPostYourStartup
 - https://github.com/rdp/open-source-how-to-popularize-your-project
@@ -65,6 +66,22 @@
 - https://github.com/jasoncwarner/ama/issues/4
 - [How intelligence & environmental factors impact how we receive, interpret & share info](https://twitter.com/briannekimmel/status/1202037982313639936)
 - [What are some good resources for designing product teams?](https://twitter.com/kylemathews/status/1205253131451265024)
+- [Non-violent communication](https://twitter.com/sriramk/status/121108567813973196)
+- http://personalkanban.com/pk/personal-kanban-101
+- https://lethain.com/97-things-every-manager-should-know
+- https://lethain.com/staff-plus-eng-resources
+- https://benmccormick.org/2019-roundup
+- https://www.amazon.com/Chasing-Rabbit-Outdistance-Competition-Christensen-ebook/dp/B0015DWJ8M
+- [TIM FERRISS 17 Lectii care mi-au schimbat viata](https://www.evernote.com/shard/s314/client/snv?noteGuid=cf3f3a95-81d9-42f1-8406-2a859d65fe02&noteKey=6646ca63cdf29e62ba3cc343ee1c31fd&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs314%2Fsh%2Fcf3f3a95-81d9-42f1-8406-2a859d65fe02%2F6646ca63cdf29e62ba3cc343ee1c31fd&title=TIM%2BFERRISS%2B17%2BLectii%2Bcare%2Bmi-au%2Bschimbat%2Bviata)
+
+### Leadership
+
+- [Simply Leadership](https://leanpub.com/simplyleadership)
+- https://www.amazon.com/Call-Sign-Chaos-Learning-Lead-ebook/dp/B07SBRFVNH
+- https://benmccormick.org/2019-roundup
+- [Cincinnatus and the Citizen-Servant Ideal: The Roman Legend's Life, Times, and Legacy - Michael J. Hillyard](https://books.google.ro/books/about/Cincinnatus_and_the_Citizen_Servant_Idea.html?id=ksOyQMMZtZAC)
+- https://www.patkua.com/blog/book-recommendations-by-engineering-leaders
+- [Meaning making and leadership | Luke McBain](https://www.youtube.com/playlist?list=PLoQL7TYFGA1pgi5Ejf8wcN35pUgoXbw12)
 
 
 ### Strategy

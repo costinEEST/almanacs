@@ -59,6 +59,7 @@
 
 ### Chemistry
 
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUe_xIGI_L9D5D7qL6UCymlS
 - https://www.youtube.com/user/periodicvideos/playlists
 - https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA/playlists
 - [PiHKAL: A Chemical Love Story](https://en.wikipedia.org/wiki/PiHKAL) + [TIHKAL: The Continuation](https://en.wikipedia.org/wiki/TiHKAL)

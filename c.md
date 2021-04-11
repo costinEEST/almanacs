@@ -12,14 +12,9 @@
 - https://github.com/preslavmihaylov/booknotes/tree/master/architecture/clean-architecture
 - [Pointers on C by Kenneth Reek](https://twitter.com/EigenPuff/status/1376223216310444037)
 
-### Articles
+### Cinema
 
-- [Reading files the hard way - Part 1 (node.js, C, rust, strace)](https://fasterthanli.me/blog/2019/reading-files-the-hard-way/)
-- [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
-- [Pros and cons of dynamic linking versus static linking](https://distrowatch.com/weekly.php?issue=20200810#qa)
-
-### TV
-
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeCP-KM-pekj30JVzmSKhpK
 - https://github.com/hellerve/programming-talks#c
 - [Modern Memory Safety: C/C++ Vulnerability Discovery, Exploitation, Hardening](https://github.com/struct/mms)
 - [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
@@ -27,6 +22,13 @@
 - https://www.deconstructconf.com/2017/joe-damato-all-programmers-must-learn-c-and-assembly
 - [FreeDOS programming](https://www.youtube.com/playlist?list=PLzuACU-W7Omo3VEnMKuM0IPupdOHFDzL3) + https://www.freedos.org/books/cprogramming
 - [OpenGL Screencasts and Tutorials - David Parker](https://www.youtube.com/playlist?list=PL2330214740B33712) + https://www.programmingtil.com/topics/opengl
+
+### Articles
+
+- [Reading files the hard way - Part 1 (node.js, C, rust, strace)](https://fasterthanli.me/blog/2019/reading-files-the-hard-way/)
+- [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
+- [Pros and cons of dynamic linking versus static linking](https://distrowatch.com/weekly.php?issue=20200810#qa)
+
 
 ### Radio
 

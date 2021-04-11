@@ -5,6 +5,10 @@
 - http://schellcode.github.io/webassembly-without-emscripten
 - [non-web WebAssembly projects that I find interesting.](https://twitter.com/beriberikix/status/1258554615529738242)
 
+### Cinema
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUfon-MOtDK215ztJyviV3Fq
+
 ### Courses
 
 - https://github.com/pventuzelo/wasm_workshop

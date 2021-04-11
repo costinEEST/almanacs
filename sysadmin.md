@@ -15,6 +15,7 @@
 
 ### Docker
 
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUfCf28fye4PN3EXqGMLxxy9
 - Sharing SQLite databases across containers is surprisingly brilliant: [tweet](https://twitter.com/rbranson/status/1214648084761739266?) + [article](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
 - [Resurrecting a Dead Library: Part Three - Rehabilitation](https://mtlynch.io/resurrecting-3/)
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b

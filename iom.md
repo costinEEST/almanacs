@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - https://unchainedpodcast.com/resources
 - https://www.ofnumbers.com/2018/07/17/cryptocurrency-and-blockchain-related-book-reviews
@@ -17,7 +17,7 @@
 - https://github.com/miguelmota/ethereum-development-with-go-book
 - https://github.com/PacktPublishing/Learn-Python-by-Building-a-Blockchain-Cryptocurrency
 
-### Courses
+### Course
 
 - https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide
 - https://www.dappuniversity.com/videos/1njYc9ZO6WQ
@@ -26,6 +26,16 @@
 - https://cryptoeconomics.study/en
 - https://cryptozombies.io + https://github.com/loomnetwork/cryptozombie-lessons + https://github.com/loomnetwork/cryptozombies-lesson-code
 - https://github.com/Developer-Y/cs-video-courses#misc
+
+### Cinema
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUfiNFwggn-4POpQdwkBTetA
+- https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies
+- [Decentralization: DeFi, DID, DEX and more (aantonop)](https://www.youtube.com/playlist?list=PLPQwGV1aLnTsWvo0ieJLN-UINWUjr10a7)
+- [Cryptocurrency ~  EEVblog2](https://www.youtube.com/playlist?list=PL24OiKqd2iN-OmtJC-r71geFQggMFXTFp)
+- [Digital Currency | thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCB3bm4ZuFAm4eADj0VMy_D)
+- [Blockchain Course | Arthur Gervais](https://www.youtube.com/playlist?list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
+- [Blockchain Security | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22gfyqgXMuYyWVSFklxHSzk)
 
 ### Community
 
@@ -158,15 +168,6 @@
 
 - https://github.com/saleemrashid/do-i-need-a-blockchain
 - https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain
-
-### Cinema
-
-- https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies
-- [Decentralization: DeFi, DID, DEX and more (aantonop)](https://www.youtube.com/playlist?list=PLPQwGV1aLnTsWvo0ieJLN-UINWUjr10a7)
-- [Cryptocurrency ~  EEVblog2](https://www.youtube.com/playlist?list=PL24OiKqd2iN-OmtJC-r71geFQggMFXTFp)
-- [Digital Currency | thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCB3bm4ZuFAm4eADj0VMy_D)
-- [Blockchain Course | Arthur Gervais](https://www.youtube.com/playlist?list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
-- [Blockchain Security | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22gfyqgXMuYyWVSFklxHSzk)
 
 ### Opinions
 

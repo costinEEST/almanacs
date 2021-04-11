@@ -8,7 +8,6 @@
 
 ##### Most of the links are listed here for the potential of being useful someday.
 
-- [Abilities](ability.md)
 - [Artificial intelligence](ai.md)
 - [Android](android.md)
 - [Angular](angular.md)

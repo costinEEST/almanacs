@@ -2,6 +2,10 @@
 
 - [Creating a Culture of Innovation](https://www.designswarm.com/books/creatingaculture)
 
+### Cinema
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUe5jlxhxEfjXm57bXxhixea
+
 ### Tool
 
 - https://github.com/BolajiAyodeji/awesome-technical-writing
