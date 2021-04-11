@@ -97,6 +97,7 @@
 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy
 - https://fettblog.eu/learning-rust-and-go
 - https://thenewstack.io/rust-vs-go-why-theyre-better-together
+- [Asynchronous programming: callback -> promise/async/await -> fibres/coroutines](https://twitter.com/doubaokun/status/1380570950924652548)
 
 ### Security
 

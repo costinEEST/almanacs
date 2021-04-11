@@ -15,6 +15,8 @@
 - https://www.scribd.com/doc/182219705/Great-Wall-of-Numbers-Business-Opportunities-Challenges-in-China
 - [What are the best decion making books?](https://twitter.com/susanneknoll/status/1149193156854001665)
 - [history of science and tech books](https://twitter.com/ljxie/status/1344703388030791680)
+- https://www.notion.so/Computing-History-Hub-be72f307fc2e4b05abe3dc67eb937521 + https://twitter.com/mollyfmielke/status/1369691574095863809
+- https://github.com/watson/awesome-computer-history + https://dave.cheney.net/category/internets-of-interest + https://dave.cheney.net/category/history
 
 ### Cinema
 

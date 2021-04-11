@@ -66,6 +66,7 @@
 
 - https://github.com/llSourcell/Watch-Me-Build-an-Education-Startup
 - [Full-stack web app gratitude journal with sentiment analysis, SMS reminders using Twilio API, various data visualizations of streaks, moods, and common phrases. [WIP]](https://github.com/mashikro/my-smart-journal)
+- [brew install pyenv](https://twitter.com/sbarnea/status/1380755339134504961)
 
 ### Networking
 

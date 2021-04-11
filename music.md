@@ -65,6 +65,7 @@
 - http://diy-fever.com/reviews/picks
 - http://sanuuitam.blogspot.com/2020/12/cel-mai-important-jazzman-roman.html
 - https://news.ycombinator.com/item?id=25999692
+- https://99percentinvisible.org/episode/the-real-book + https://news.ycombinator.com/item?id=26737142
 
 ### Rock
 

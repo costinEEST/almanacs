@@ -112,7 +112,8 @@
 - [13 Tips to improve Landing Page Design.](https://twitter.com/IndieHackers/status/1358746146508845058)
 - https://dev.to/karmasakshi/make-your-pwas-look-handsome-on-ios-1o08
 - https://github.com/l-hammer/You-need-to-know-css
-- https://github.com/alexcican/lab/
+- https://github.com/alexcican/lab
+- [Full Screen Vertical Scroll Snap](https://codepen.io/tobias_buschor/pen/OJWzXQN)
 
 ### Layout
 
@@ -140,6 +141,7 @@
 - [Conic.css - nice, simple conic gradients](https://conic.style)
 - [amazing generators](https://twitter.com/Prathkum/status/1374726453649100809)
 - [What's the best (simple) tool for creating animations?](https://twitter.com/kylemathews/status/1203140798302154752)
+- https://davidwalsh.name/detect-overflow-elements
   
 ### Cinema
 

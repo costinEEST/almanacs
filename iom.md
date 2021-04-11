@@ -97,6 +97,7 @@
 - https://github.com/gianlucatruda/crypto-workshop
 - [The block chain and the CAP Theorem](https://www.goland.org/blockchain_and_cap)
 - https://github.com/Haseeb-Qureshi/lets-build-a-blockchain
+- https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 + https://twitter.com/dabit3/status/1380556264162361345
 
 ### Boilerplate
 
@@ -154,6 +155,7 @@
 - [How do you buy/sell/trade NFTs today?](https://twitter.com/vasa_develop/status/1371846217785819136)
 - https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace
+- https://twitter.com/nntaleb/status/1380991387076849673
 
 ### Smart contracts
 
@@ -177,6 +179,8 @@
 
 - https://www.ribbonfarm.com/2017/10/10/the-blockchain-man
 - [@stephsmithio's great writeup on the merits of BitClout](https://twitter.com/nateliason/status/1378022491923304453)
+- [what will be the relationship between tokens and communities?](https://twitter.com/dazuck/status/1380157939433009159)
+- https://twitter.com/wlazar/status/1380935750150090756 + https://www.preethikasireddy.com/post/will-helium-finally-make-iot-a-reality
 
 ### Radio
 

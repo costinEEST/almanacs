@@ -14,6 +14,10 @@
 - [A Decade of Vim - Semicolon&Sons](https://www.youtube.com/playlist?list=PLpkoC9yJXDKkm4MStIQoieUPwNjO4Rb_M)
 - https://reasonablypolymorphic.com/expert-level-vim + https://www.youtube.com/watch?v=Q-D5mtp2yIc
 
+### Community
+
+- https://mschade.me/notes-vim-from-essentials-to-mastery-by-wnodom
+
 ### Miscellaneous
 
 - http://howivim.com/2016/damian-conway + https://learning.oreilly.com/videos/mastering-vim/9781491908334 + https://learning.oreilly.com/videos/scripting-vim/9781491996287

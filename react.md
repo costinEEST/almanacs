@@ -100,6 +100,10 @@
 - https://github.com/wellyshen/use-web-animations
 - [how does setting state cause code in ReactDOM to run?](https://twitter.com/sophiebits/status/1211008868446134272)
 
+### Lifecycle methods
+
+- [getSnapshotBeforeUpdate](https://twitter.com/sebmarkbage/status/1380539161690640384) + https://github.com/charbelrami/baby-yoda/blob/6591f29208f324e84cae5fe401fecfe75c46f23f/src/index.js#L63
+
 ### Context API
 
 - https://tobea.dev/post/global-state-cleanliness-with-react-context
