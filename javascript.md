@@ -218,6 +218,10 @@
 - [Is there a way to compress an array buffer in js in the browser those days without having a pure js implementation (by using browser)?](https://twitter.com/Vjeux/status/1239176661133742083)
 - https://github.com/lrlna/sketchin/blob/master/guides/typed-arrays.md
 
+### new BigInt64Array()
+
+- https://github.com/VSADX/true-binary-for-float64
+
 ### new SharedArrayBuffer()
 
 - https://blogtitle.github.io/using-javascript-sharedarraybuffers-and-atomics
@@ -261,9 +265,10 @@
 - [JSON.parse w/o blocking main thread.](https://gist.github.com/jkrems/71df0bce1b95101b1417f909ce473075)
 - https://speakerdeck.com/wa7son/nodejsday-2020-javascript-prototypes-behind-the-scenes?slide=41
 
-### Classes
+### class
 
 - [When are public instance fields executed?]https://twitter.com/rauschma/status/1205417503108878336
+- https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078
 
 ### OOP
 
@@ -349,6 +354,7 @@
 - [appending multiple elements to the DOM?](https://twitter.com/paul_irish/status/1169841234438848519)
 - [Find out which element is scrolling](https://gist.github.com/brumm/74fd7eaafd50c8477519) + https://twitter.com/funkensturm/status/1222616188485799937
 - [is there a way to debug dom events in a timeline?](https://twitter.com/sseraphini/status/1377218954851201025)
+- [A zero friction custom elements like primitive.](https://github.com/WebReflection/builtin-elements)
 
 ### Single-page application
 

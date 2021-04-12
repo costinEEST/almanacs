@@ -33,6 +33,7 @@
 - https://www.freecodecamp.org/news/designing-in-color-abd358660a7b
 - [Math & data behind color spaces and color conversions.](https://github.com/colorjs/color-space)
 - https://www.benbenandblue.com/episodes/2018/4/17/bbb-14-color
+- https://www.sarasoueidan.com/blog/hex-rgb-to-hsl
 
 
 ### Community
@@ -79,6 +80,7 @@
 - https://increment.com/frontend/a-users-guide-to-css-variables
 - https://www.sarasoueidan.com/blog/style-settings-with-css-variables
 - https://github.com/notoriousb1t/awesome-css-variables
+- [CSS Vars + HSL colors = a powerful color system.](https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables)
 
 
 ### CSS grid

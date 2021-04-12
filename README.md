@@ -67,7 +67,7 @@
 - [Java](java.md)
 - [Javascript](javascript.md)
 - [Kotlin](kotlin.md)
-- [Learn (how to)](learn.md)
+- [Learn!](learn.md)
 - [Life sciences / real sciences](life.md)
 - [Linux](linux.md)
 - [Lisp](lisp.md)
@@ -103,7 +103,7 @@
 - [Reverse engineering](re.md)
 - [React](react.md)
 - [React Native](rn.md)
-- [Reading](read.md)
+- [Read!](read.md)
 - [ReasonML](reasonml.md)
 - [Ruby](ruby.md)
 - [Rust](rust.md)
@@ -132,7 +132,7 @@
 - [Working with audio files](audio.md)
 - [Working with image files](image.md)
 - [Working with video files](video.md)
-- [Writing](write.md)
+- [Write!](write.md)
 - [XML](xml.md)
 
 ### Similar projects

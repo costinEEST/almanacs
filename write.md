@@ -1,10 +1,15 @@
 ### Book
 
 - [Creating a Culture of Innovation](https://www.designswarm.com/books/creatingaculture)
+- https://www.amazon.com/Writing-Came-About-Denise-Schmandt-Besserat/dp/0292777043
 
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUe5jlxhxEfjXm57bXxhixea
+
+### Community
+
+- [Denise Schmandt-Besserat](https://en.wikipedia.org/wiki/Denise_Schmandt-Besserat#Career)
 
 ### Tool
 
