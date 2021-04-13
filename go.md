@@ -87,6 +87,7 @@
 - https://github.com/dreddsa5dies/algorithm
 - https://github.com/SerifAndSemaphore/go-serverless-list
 - https://github.com/system-pclub/go-concurrency-bugs
+- https://github.com/juanpablopizarro/golang-bootcamp
 
 ### Opinion
 

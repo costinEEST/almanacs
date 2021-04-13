@@ -159,6 +159,8 @@
 - https://github.com/giuseppeg/is-nextjs-site-extension
 - [Track changes in a specific tab and get a notification when something happens](https://github.com/impronunciable/domification)
 - [A Chrome Extension to export all words from a Memrise course to a CSV file.](https://github.com/raineorshine/memrise-export)
+- [Chrome extension that allows you to monitor, browse and filter all DOM changes.](https://github.com/kdzwinel/DOMListenerExtension)
+- [Chrome extension for easily manipulating URL query parameters, written in Elm.](https://github.com/OliverJAsh/chrome-query-params)
 
 ### Bookmarklets
 

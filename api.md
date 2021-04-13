@@ -23,6 +23,7 @@
 - https://github.com/weskerfoot/DeleteFB
 - [Generates a simple text list of your availability from your Google Calendar](https://github.com/raineorshine/simplifiedavailability)
 - [Amazon Scraper. Scrape products from the amazon search result or reviews from the specific product ](https://github.com/drawrowfly/amazon-product-api)
+- [Collection of Stoic Wisdom](https://github.com/TomFrink/StoicPage)
 
 ### GraphQL
 

@@ -90,6 +90,10 @@
 
 - https://twitter.com/tunetheweb/status/1343848054571593729 + https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute
 
+### Landing page
+
+- [Free Next.js landing page template for SaaS products, online services and more.](https://github.com/jkytoela/next-startd)
+
 
 ### Performance
 

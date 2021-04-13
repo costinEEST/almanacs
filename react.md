@@ -289,6 +289,7 @@
 
 ### Demos
 
+- https://github.com/SergiuAlexandruPop/crwn-clothing
 - https://github.com/usfslk/ReactDarkMode
 - https://github.com/Zackazt/React-Chat-Tutorial
 - https://github.com/codyogden/killedbygoogle
@@ -318,6 +319,7 @@
 - [React, Next.js, and Firebase by building a social blogging community from scratch](https://github.com/fireship-io/next-firebase-course)
 - [70+ open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
 - [Instagram clone built with React & React Query](https://github.com/filippobarcellos/instagram-clone-react)
+- https://github.com/BenoitAverty/realworld-remix.run
 
 ### Testing
 

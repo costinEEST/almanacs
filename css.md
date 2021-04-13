@@ -126,6 +126,7 @@
 - https://responsibleweb.app + https://github.com/joyheron/responsible-web-apps
 - [Minimal snippets for modern CSS layouts and components](https://smolcss.dev)
 - [Your cheat sheet for float, clear and defer](https://www.princexml.com/howcome/2021/guides/float/index.html)
+- [Minimal snippets for modern CSS layouts and components](https://github.com/5t3ph/smolcss)
 
 ### Tools
 
@@ -153,6 +154,7 @@
 - [Apple Music on macOS](https://twitter.com/freetonik/status/1322144670886100992)
 - https://www.liviuvasilescu.ro/blog/ziua-vignelli
 - [Tailwind CSS: From Zero to Production | Tailwind Labs](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
+- https://github.com/tailwindlabs/tailwindcss-from-zero-to-production
 
 ### Security
 

@@ -16,6 +16,7 @@
 ### Package
 
 - [CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very usefull when you're sending emails.](https://github.com/tijsverkoyen/CssToInlineStyles)
+- [A simple class that allows for querying a web server for information about a resource, w/o actually downloading that file or document](https://github.com/pes10k/PES-HTTP-Info)
 
 ### Tool
 
@@ -60,3 +61,4 @@
 - https://github.com/cyberglot/awesome-answers#php
 - [A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.](https://github.com/PrivateBin/PrivateBin)
 - [a solar powered network of servers that host a distributed web platform.](https://github.com/alexnathanson/solar-protocol) + https://twitter.com/tegabrain/status/1371902477080133634
+- [Testing building REST in PHP](https://github.com/sibelius/php-api)

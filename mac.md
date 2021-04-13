@@ -25,6 +25,7 @@
 - [How to start testing screen reader support using VoiceOver](https://yakim.nl/articles/voiceover-testing)
 - [Instant audio feedback for typing. macOS version. (Rust)](https://github.com/yingDev/Tickeys)
 - [A solution to use the Apple Wireless Keyboard on Windows.](https://github.com/kud/apple-french-keyboard-windows)
+- [Secure Web Server for iOS, tvOS and macOS](https://github.com/Building42/Telegraph)
 
 ### References
 

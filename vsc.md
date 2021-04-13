@@ -2,6 +2,10 @@
 
 - [Visual Studio Code Setup series | Zell Liew](https://www.youtube.com/playlist?list=PLht38HefjmzGWN0CUHGqjliTSuhXFTDG5)
 
+### Extension
+
+- [Poimandres is a minimal, frameless dark-theme inspired mostly by blueberry.](https://github.com/drcmda/poimandres-theme)
+
 ### Miscellaneous
 
 - https://www.youtube.com/watch?v=oeFLeAs3plM&list=PLWIcRrPLCdUethIDPGPwe-Lqnw1J8hzsX

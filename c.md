@@ -72,6 +72,7 @@
 - https://www.freecodecamp.org/news/boost-programming-skills-read-git-code
 - [The Success and Failure of Ninja](http://neugierig.org/software/blog/2020/05/ninja.html)
 - [An open source kernel and OS for music production](https://github.com/Morpheu5/tOfuS)
+- [Test the speed of common mathematical operations](https://github.com/elgw/math_ops_speed)
 
 ### Security
 

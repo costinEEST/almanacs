@@ -355,6 +355,7 @@
 - [Find out which element is scrolling](https://gist.github.com/brumm/74fd7eaafd50c8477519) + https://twitter.com/funkensturm/status/1222616188485799937
 - [is there a way to debug dom events in a timeline?](https://twitter.com/sseraphini/status/1377218954851201025)
 - [A zero friction custom elements like primitive.](https://github.com/WebReflection/builtin-elements)
+- [DOM event data scraped from MDN](https://github.com/eddyerburgh/dom-event-types)
 
 ### Single-page application
 
@@ -406,6 +407,7 @@
 - https://github.com/JanVanRyswyck/awesome-talks#test-driven-development
 - [Software quality and software testing.](https://github.com/ligurio/software-quality-wiki/wiki)
 - https://github.com/NoriSte/ui-testing-best-practices
+- https://github.com/CodingItWrong/javascript-tdd-exercises
 
 ### Virtual machines
 

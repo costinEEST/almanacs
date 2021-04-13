@@ -100,7 +100,6 @@
 
 ### Course
 
-- https://github.com/wolfejw86/architecture-learning-path
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide
 - https://www.udemy.com/course/nestjs-zero-to-hero/
 - https://www.udemy.com/course/nestjs-course/
@@ -353,3 +352,5 @@
 - https://github.com/snipcart/node-js-ecommerce-koajs
 - https://simonplend.com/talk-at-js-monthly-london-make-the-most-of-modern-javascript-with-fastify
 - https://jg.gg/2020/09/30/choosing-your-tech-stack-2020-edition-2/
+- https://github.com/wolfejw86/architecture-learning-path
+- [Geographical forum app for groups and teams to share and discuss locations](https://github.com/axelpale/georap)
