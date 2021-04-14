@@ -19,7 +19,7 @@
 - [A usable eBook reader inside a browser (azw3, mobi, ePub, pdf)](https://news.ycombinator.com/item?id=25948797)
 - [Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.](https://github.com/burtonator/polar-bookshelf)
 
-### Reviews
+### Review
 
 - [Nat Eliason](https://www.nateliason.com/notes)
 - https://phor.net/reading-list
@@ -37,3 +37,4 @@
 - [Steph Smith](https://stephsmith.io/books)
 - [Ramón Morcillo](https://github.com/reymon359/book-sentences)
 - https://matthewstrom.com/reading
+- [Maggie Appleton](https://maggieappleton.com/library)

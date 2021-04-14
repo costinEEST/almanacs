@@ -184,6 +184,7 @@
 - [The Knowledge: How to Rebuild Our World from Scratch by Lewis Dartnell](https://news.ycombinator.com/item?id=22347884)
 - https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022
 - [Spacecadet have put together all the 2020 recaps and 2021 trend reports doing the rounds.](http://spacecadet.ventures/2021roundup)
+- https://www.businessinsider.com/larry-page-the-untold-story-2014-4
 
 ### Essays
 

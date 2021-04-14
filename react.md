@@ -196,6 +196,7 @@
 - [Evolution simulator using simple 2D physics.](https://github.com/jefflinse/critters)
 - https://github.com/Flow11/death-stranding-ui
 - https://steveruiz.me/posts/rotating-icon-button
+- https://javascript.plainenglish.io/three-js-with-react-functional-component-9e66e08dbeac
 
 ### Server side rendering
 

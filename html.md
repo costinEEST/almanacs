@@ -56,6 +56,7 @@
 - https://www.vincit.fi/fi/software-development-450-words-per-minute
 - https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html
 - https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren
+- https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality
 
 
 ### <button></button>
@@ -72,6 +73,7 @@
 
 - [A list of everything that *could* go in the head of your document](https://github.com/joshbuchea/HEAD)
 - https://github.com/audreyfeldroy/favicon-cheat-sheet
+- https://www.matuzo.at/blog/html-boilerplate
 
 ### <meta />
 
@@ -149,6 +151,7 @@
 - [top of a page](https://twitter.com/simonhearne/status/1259927098040467457)
 - https://web.dev/building-a-tabs-component
 - [Rock-solid transactional email templates for applications.](https://github.com/wildbit/postmark-templates)
+- https://gerardkcohen.github.io/periodic-table-of-semantics.html
 
 ### Security
 

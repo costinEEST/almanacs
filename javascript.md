@@ -10,6 +10,22 @@
 - https://github.com/RobinLinus/prime-counting-function
 - [An Introduction to Scalability and Memory](https://www.youtube.com/playlist?list=PLK_e420JFUuYa-nMGoEeJqsplPvJZTOL5) + [Recursion for the Rest of Us](https://www.youtube.com/playlist?list=PLK_e420JFUuaDfQUnWXoc-rTXg6TzGDh2) + https://github.com/Haseeb-Qureshi/cs-fundamentals
 
+### AST
+
+- https://unicorn-utterances.com/posts/how-computers-speak
+- https://github.com/pshrmn/notes/blob/master/ast/nodes.md
+- https://github.com/kentcdodds/asts-workshop
+- https://tldrsec.com/blog/appsec-cali-2019/#endpoint-finder-a-static-analysis-tool-to-find-web-endpoints
+- [What did you build using Abstract syntax tree?](https://twitter.com/kuldeepkeshwar/status/1214800664460550144)
+- [How to derive the static control flow graph from a JavaScript program's abstract syntax tree](https://github.com/mariusschulz/bachelors-thesis)
+- [Hypertext Abstract Syntax Tree format.](https://github.com/syntax-tree/hast)
+- https://lihautan.com/manipulating-ast-with-javascript
+- https://twitter.com/flexdinesh/status/1196680010343432192
+- [A blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript](https://github.com/KFlash/seafox)
+- https://sibelius.github.io/talk-maringa-ast
+- https://dev.to/kwelch/automating-the-pain-away-bnb
+- https://hachibu.net/talks/2020/exploring-javascript-tagged-template-strings
+- https://medium.com/aia-sg-techblog/understanding-how-babel-works-d6ca363bce1e
 
 ### Quirks
 
@@ -36,22 +52,6 @@
 ### Data structures
 
 - https://areknawo.com/rocking-js-data-structures
-
-### AST
-
-- https://unicorn-utterances.com/posts/how-computers-speak
-- https://github.com/pshrmn/notes/blob/master/ast/nodes.md
-- https://github.com/kentcdodds/asts-workshop
-- https://tldrsec.com/blog/appsec-cali-2019/#endpoint-finder-a-static-analysis-tool-to-find-web-endpoints
-- [What did you build using Abstract syntax tree?](https://twitter.com/kuldeepkeshwar/status/1214800664460550144)
-- [How to derive the static control flow graph from a JavaScript program's abstract syntax tree](https://github.com/mariusschulz/bachelors-thesis)
-- [Hypertext Abstract Syntax Tree format.](https://github.com/syntax-tree/hast)
-- https://lihautan.com/manipulating-ast-with-javascript
-- https://twitter.com/flexdinesh/status/1196680010343432192
-- [A blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript](https://github.com/KFlash/seafox)
-- https://sibelius.github.io/talk-maringa-ast
-- https://dev.to/kwelch/automating-the-pain-away-bnb
-- https://hachibu.net/talks/2020/exploring-javascript-tagged-template-strings
 
 ### Obfuscation
 
@@ -292,6 +292,10 @@
 
 - https://github.com/terkelg/zet
 
+### new Proxy()
+
+- https://dev.to/clementvidal/use-es6-proxy-for-isolated-context-intercommunication-mc1
+
 ### bitwise operators
 
 - [xor](https://twitter.com/rauschma/status/1218579324976140288)
@@ -431,7 +435,7 @@
 
 - https://github.com/mezum/quickjs-cmake
 
-### Tools
+### Tool
 
 - [ESLint, Prettier, Stylelint, TypeScript and Semantic Release configs.](https://twitter.com/ManuelBieh/status/1211759353973354497)
 - [Using sourcemaps on production without exposing the source code 🕵️‍](https://itnext.io/using-sourcemaps-on-production-without-revealing-the-source-code-%EF%B8%8F-d41e78e20c89)
@@ -467,6 +471,7 @@
 - https://github.com/privatenumber/minification-benchmarks
 - https://github.com/evanw/source-map-visualization
 - https://github.com/RunDevelopment/eslint-plugin-clean-regex
+- https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts
 
 ### Documentation
 
