@@ -29,10 +29,13 @@
 - [Ukulele build | Matthias Wandel](https://www.youtube.com/playlist?list=PLSnvVtM4lBIXzkp-7ouf6NVfS7fOLGfuN)
 - https://github.com/Voluntari-Noi/guitar-lessons
 
+
 ### Tool
 
 - https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9
 - https://www.onlinemusictools.com
+- [Yousician | Learn Guitar, Piano, Ukulele With The Songs you Love](https://yousician.com)
+
 
 ### Reference
 

@@ -20,6 +20,7 @@
 
 ### Community
 
+- [Yoshua Wuyts](https://www.youtube.com/c/YoshuaWuyts/playlists)
 - https://twitter.com/siscia_/status/1360113669884039170
 ־ [Systems with JT](https://www.youtube.com/user/giard321/playlists)
 - https://loige.co/where-to-go-to-learn-rust-in-2021

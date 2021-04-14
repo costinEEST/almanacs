@@ -1,6 +1,7 @@
 ### Miscellaneous
 
 - https://physicstravelguide.com
+- https://blas.com/on-physics
 - https://www.feynmanlectures.caltech.edu
 - http://backreaction.blogspot.com/2012/09/book-review-universe-within-by-neil.html
 - http://backreaction.blogspot.com/2019/02/book-review-breakfast-with-einstein-by.html + http://backreaction.blogspot.com/2015/07/book-review-eureka-by-chad-orzel.html + http://backreaction.blogspot.com/2012/04/book-review-how-to-teach-relativity-to.html
