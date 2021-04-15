@@ -13,6 +13,8 @@
 - https://github.com/jlevy/on-books
 - https://michaelcurzi.substack.com/p/19-how-to-run-a-book-group
 - https://supermemo.guru/wiki/Incremental_reading
+- ['How to read a (good) book in one hour' by Chris Kelty](https://savageminds.org/2007/10/01/how-to-read-a-good-book-in-one-hour)
+- ['How to Read a Book' by Paul Edwards](http://utminers.utep.edu/trcurry/howtoread.pdf)
 
 ### Tools
 

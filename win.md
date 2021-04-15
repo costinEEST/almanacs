@@ -39,6 +39,7 @@
 - https://www.zdnet.com/google-amp/article/dell-releases-new-tool-to-detect-bios-attacks
 - [Linuxifying Windows for development](https://gist.github.com/slikts/63abbeb63b72b3f515c70258bfc19a44)
 - https://github.com/ChrisTitusTech/win10script
+- [Unicode character search for macOS & Windows.](https://github.com/ueberdosis/glyphfinder)
 
 
 ### Powershell

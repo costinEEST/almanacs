@@ -116,6 +116,7 @@
 - https://github.com/l-hammer/You-need-to-know-css
 - https://github.com/alexcican/lab
 - [Full Screen Vertical Scroll Snap](https://codepen.io/tobias_buschor/pen/OJWzXQN)
+- https://github.com/PuruVJ/macos-web + https://twitter.com/leeerob/status/1382422353787817985
 
 ### Layout
 

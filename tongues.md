@@ -158,6 +158,10 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - https://twitter.com/DannyBate4/status/1370405688372047876
 - [Learning Latin the Ancient Way | Eleanor Dickey](https://twitter.com/prathyvsh/status/1185363307575689216)
 
+### Portuguese
+
+- [Faxina, a Portuguese language narrative podcast exploring the lives of Brazilian migrant house cleaners living and working in the United States](https://www.faxinapodcast.com)
+
 ### Serbian
 
 - [Learn Serbian in a few minutes | Teacher_Suzana](https://www.youtube.com/playlist?list=PLVnag7rRuuY2yoo1lSoHxRC5kRjI0ZX-P)

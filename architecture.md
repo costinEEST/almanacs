@@ -8,7 +8,7 @@
 
 - https://blog.archisnapper.com/best-apps-for-architects-2020
 
-### Books
+### Book
 
 - https://www.amazon.com/Battle-Life-Beauty-Earth-World-Systems/dp/0199898073
 - [Get Your House Right: Architectural Elements to Use & Avoid ~ Marianne Cusato](https://www.amazon.com/Get-Your-House-Right-Architectural/dp/1402791038) + https://medium.com/@simon.sarris/designing-a-new-old-home-part-2-2a5ea1a1b2b3
@@ -19,6 +19,8 @@
 - [Universe of Stone: Chartres Cathedral and the Triumph of the Medieval Mind - Philip Ball](https://www.amazon.co.uk/Universe-Stone-Chartres-Cathedral-Medieval/dp/0099499444)
 - [Thinking Architecture, 3rd Edition: Zumthor, Peter](https://www.amazon.com/gp/product/3034605854)
 - [The Art of Classic Planning: Building Beautiful and Enduring Communities: Buras, Nir Haim](https://www.amazon.com/Art-Classic-Planning-Beautiful-Communities/dp/0674919246)
+- [The Architecture and Landscape of Health: A Historical Perspective on Therapeutic Places 1790-1940](https://www.amazon.com/Architecture-Landscape-Health-Perspective-Architectural/dp/113862537X)
+- https://ascholarlyskater.com/2017/11/30/guide-renaissance-architecture
 
 ### Brochures
 

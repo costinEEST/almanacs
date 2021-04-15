@@ -23,6 +23,7 @@
 ### Keyboard
 
 - https://www.amazon.com/Keychron-Wireless-Bluetooth-Mechanical-Keyboard/dp/B07Y9Y69N7
+- https://twitter.com/lucalanziani/status/1382410416823934987
 
 ### Microphone
 
