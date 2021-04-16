@@ -117,6 +117,7 @@
 - https://github.com/amzn/computer-vision-basics-in-microsoft-excel
 - https://github.com/AgaMiko/bird-recognition-review
 - https://www.digitalocean.com/community/tutorials/how-to-trick-a-neural-network-in-python-3
+- https://github.com/Kayzaks/HackingNeuralNetworks
 
 ### CNN
 

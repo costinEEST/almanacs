@@ -39,6 +39,7 @@
 - [A collection of interesting new networks and tech aiming at decentralisation (in some form).](https://github.com/redecentralize/alternative-internet)
 - https://github.com/vlvagerviwager/protect-your-privacy
 - https://github.com/veeral-patel/how-to-secure-anything
+- https://github.com/nikitavoloboev/privacy-respecting
 
 ### Techniques
 

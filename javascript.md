@@ -1,6 +1,7 @@
-### Algorithms
+### Algorithm
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [Classic algorithms and data structures implemented in JavaScript](https://github.com/felipernb/algorithms.js)
 - https://github.com/humanwhocodes/computer-science-in-javascript
 - https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
 - https://github.com/raphamorim/algorithms-playground
@@ -74,6 +75,7 @@
 - [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - https://lucasfcosta.com/talks/2019-09-20-A-Fun-Introduction-To-Lambda-Calculus.html + https://twitter.com/prathyvsh/status/1188787773441888257
 - https://github.com/hemanth/functional-programming-jargon
+- https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
 
 ### TIL
 

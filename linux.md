@@ -7,7 +7,7 @@
 
 ### Courses
 
-- https://linuxjourney.com
+- https://linuxjourney.com + https://github.com/cindyq/linuxjourney
 - https://cmdchallenge.com
 - https://github.com/razvand/posix-system-programming
 - https://github.com/razvand/linux-fundamentals + https://github.com/razvand/linux-advanced

@@ -1,5 +1,6 @@
 ### Books
 
+- http://astocko.com/post/c-resources
 - https://nostarch.com/Effective_C
 - [Angrave's Crowd-Sourced System Programming Book used at UIUC](https://github.com/angrave/SystemProgramming/wiki)
 - [Computer Science from the Bottom Up.](https://www.bottomupcs.com/index.xhtml)
@@ -73,6 +74,7 @@
 - [The Success and Failure of Ninja](http://neugierig.org/software/blog/2020/05/ninja.html)
 - [An open source kernel and OS for music production](https://github.com/Morpheu5/tOfuS)
 - [Test the speed of common mathematical operations](https://github.com/elgw/math_ops_speed)
+- [A curated list of awesome bitwise operations and tricks](https://github.com/keon/awesome-bits)
 
 ### Security
 

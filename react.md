@@ -321,6 +321,7 @@
 - [70+ open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
 - [Instagram clone built with React & React Query](https://github.com/filippobarcellos/instagram-clone-react)
 - https://github.com/BenoitAverty/realworld-remix.run
+- https://github.com/vladnicula/timezone-manager
 
 ### Testing
 

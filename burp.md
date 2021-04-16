@@ -13,6 +13,7 @@
 - https://github.com/doyensec/burpdeveltraining
 - [an epic thread for AutoRepeater!](https://twitter.com/ngkogkos/status/1350498063555719175)
 - [Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily in order to ease application security people work and allow them perform an automatic authorization tests](https://github.com/Quitten/Autorize)
+- https://github.com/snoopysecurity/awesome-burp-extensions
 
 ### TV
 
