@@ -98,6 +98,7 @@
 - [The block chain and the CAP Theorem](https://www.goland.org/blockchain_and_cap)
 - https://github.com/Haseeb-Qureshi/lets-build-a-blockchain
 - https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 + https://twitter.com/dabit3/status/1380556264162361345
+- [Best resources to learn about Ethereum](https://twitter.com/draecomino/status/1370809424772788224)
 
 ### Boilerplate
 

@@ -109,6 +109,7 @@
 - https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers
 - [End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow](https://github.com/zzw922cn/Automatic_Speech_Recognition)
 - [HRI '21: Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction](https://github.com/WafaJohal/hri2021-pdf-downloader)
+- [*AlephBERT*, a Hebrew pretrained language model to start off your Hebrew NLP Application](https://twitter.com/rtsarfaty/status/1381562132723085315)
 
 
 ### Neural networks
