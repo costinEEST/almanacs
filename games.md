@@ -51,6 +51,7 @@
 - http://foundationsofgameenginedev.com
 - https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh
 - https://twitter.com/debelbot/status/1129376538170929152 + https://youtu.be/JcyyeAww2wc
+- https://www.freecodecamp.org/news/game-development-for-beginners-unity-course
 
 ### The creators
 

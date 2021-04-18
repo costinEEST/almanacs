@@ -34,6 +34,7 @@
 - [Math & data behind color spaces and color conversions.](https://github.com/colorjs/color-space)
 - https://www.benbenandblue.com/episodes/2018/4/17/bbb-14-color
 - https://www.sarasoueidan.com/blog/hex-rgb-to-hsl
+- [Color: A Visual History From Newton to Modern Color Matching Guides](https://www.fastcompany.com/90310951/the-secret-history-of-color)
 
 
 ### Community

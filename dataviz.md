@@ -17,6 +17,7 @@
 - https://www.amazon.co.uk/Observe-Collect-Draw-Visual-Journal/dp/1616897147
 - https://blog.codinghorror.com/reading-with-edward-tufte + https://medium.com/@karlsluis/beyond-tufte-fd93cbcec6af
 - [Data Visualization in Society by Martin Engebretsen and Helen Kennedy](https://www.jstor.org/stable/j.ctvzgb8c7)
+- https://antonz.org/dataviz-guide
 
 ### Courses
 

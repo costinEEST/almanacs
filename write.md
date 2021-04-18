@@ -3,6 +3,7 @@
 - [Creating a Culture of Innovation](https://www.designswarm.com/books/creatingaculture)
 - https://www.amazon.com/Writing-Came-About-Denise-Schmandt-Besserat/dp/0292777043
 - [Writing to Learn: How to Write - and Think - Clearly About Any Subject at All by William Zinsser](https://www.amazon.com/gp/product/B00BOQEBFE)
+- https://www.amazon.com/How-Do-Things-Words-Lectures/dp/0674411528 + https://youtu.be/2lQHHcNp618
 
 ### Cinema
 

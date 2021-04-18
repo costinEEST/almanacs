@@ -69,6 +69,7 @@
 - https://github.com/jmdx/TLS-poison
 - [Project for learning about OpenSSL.](https://github.com/danbev/learning-libcrypto)
 - [Matt's Let's Encrypt Automation](https://github.com/mattsta/lematt)
+- [TLS Mastery](https://news.ycombinator.com/item?id=26760032)
 
 ### References
 

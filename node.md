@@ -169,6 +169,7 @@
 - https://github.com/lmammino/streams-examples
 - [Turn Node.js Events into Async Iterables.](https://github.com/danstarns/for-emit-of)
 - https://blog.logrocket.com/online-radio-server-pure-node-js
+- https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express
 
 ### Promise
 

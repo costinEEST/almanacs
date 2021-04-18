@@ -1,5 +1,7 @@
 ### Documentary
 
+- https://www.theatlantic.com/culture/archive/2021/04/problem-nature-documentaries/618553
+- https://www.dailymail.co.uk/sciencetech/article-9475639/Nature-documentaries-present-animals-lives-soap-operas-study-says.html
 - https://docuart.ro/documentare
 - https://github.com/philsturgeon/awesome-earth#documentaries
 - https://anamariaonisei.ro/trei-perspective-din-culisele-filmului-acasa-cel-mai-premiat-documentar-romanesc-al-anului-de-ce-si-unde-sa-l-vedeti
