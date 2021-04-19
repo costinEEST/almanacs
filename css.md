@@ -11,7 +11,11 @@
 - [A reference for the render impact of mutating CSS properties.](https://github.com/GoogleChromeLabs/css-triggers)
 - https://shud.in/posts/on-ui-animations
 
-### Books
+### Approach
+
+- https://css-tricks.com/building-a-scalable-css-architecture-with-bem-and-utility-classes
+
+### Book
 
 - https://debuggingcss.com
 - https://leanpub.com/css-optimization-basics + https://github.com/j9t/css-optimization-basics
@@ -65,16 +69,16 @@
 - https://www.bram.us/2021/01/11/nested-media-queries
 - https://www.zachleat.com/web/fluid-images
 - [@scroll-timeline](https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1)
+- https://justmarkup.com/articles/2020-04-15-css-property-in-a-tweet
 
-### Selectors
+### Selector
 
 - https://jeremenichelli.io/2015/11/the-first-child-reset
 - https://jaketracey.com/styling-accessible-html-file-inputs
-
-### Pseudo classes
-
 - [Giving users and developers more control over focus](https://blog.chromium.org/2020/09/giving-users-and-developers-more.html)
 - https://matthiasott.com/notes/focus-visible-is-here + https://twitter.com/m_ott/status/1314917091523342338
+- https://www.bram.us/2021/04/15/identify-and-extract-pseudo-element-selectors-from-built-in-html-elements-using-devtools 
+
 
 ### CSS variables
 

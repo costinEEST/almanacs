@@ -288,7 +288,7 @@
 - https://imkev.dev/react-rendering-order
 - https://github.com/tryshchenko/es6-generators-benchmark
 
-### Demos
+### Demo
 
 - https://github.com/SergiuAlexandruPop/crwn-clothing
 - https://github.com/usfslk/ReactDarkMode
@@ -322,6 +322,7 @@
 - [Instagram clone built with React & React Query](https://github.com/filippobarcellos/instagram-clone-react)
 - https://github.com/BenoitAverty/realworld-remix.run
 - https://github.com/vladnicula/timezone-manager
+- [The open-source Calendly alternative.](https://github.com/calendso/calendso)
 
 ### Testing
 

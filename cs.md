@@ -135,3 +135,4 @@
 - [Collection of quotes on notation design & how it affects thought.](https://github.com/hypotext/notation)
 - [Dan North thinks that Bob Martin's SOLID principles are bogus](https://dannorth.net/2021/03/16/cupid-the-back-story)
 - https://github.com/huyingjie/Checklist-Checklist
+- [Software Licenses in Plain English](https://tldrlegal.com)

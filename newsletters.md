@@ -47,6 +47,7 @@
 ### History
 
 - [Istros Books](https://us4.campaign-archive.com/home/?u=33d3c9258f5909052eb60647b&id=4b1e62c805)
+- [Gonçalo Morais](https://www.heroesofcomputer.science)
 
 
 ### Hardware 

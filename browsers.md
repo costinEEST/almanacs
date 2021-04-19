@@ -227,6 +227,7 @@ javascript: (() =>
 - [How to Store Session Tokens in a Browser (and the impacts of each)](https://blog.ropnop.com/storing-tokens-in-browser)
 - https://rudism.com/cookie-monster
 - [Browser fingerprinting via favicon!](https://github.com/jonasstrehle/supercookie)
+- https://seirdy.one/2021/04/16/permissions-policy-floc-misinfo.html
 
 ### Content Security Policy
 

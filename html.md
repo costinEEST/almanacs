@@ -133,6 +133,7 @@
 - [Beautiful image placeholders, without the hassle](https://github.com/joe-bell/plaiceholder)
 - [A very compact representation of a placeholder for an image.](https://github.com/woltapp/blurhash)
 - [Easy to use share buttons that load fast and don't track you](https://github.com/RobinLinus/share-the-love)
+- https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools
 
 ### TV
 
@@ -152,6 +153,7 @@
 - https://web.dev/building-a-tabs-component
 - [Rock-solid transactional email templates for applications.](https://github.com/wildbit/postmark-templates)
 - https://gerardkcohen.github.io/periodic-table-of-semantics.html
+- https://justmarkup.com/articles/2021-04-13-html-elements-in-a-tweet
 
 ### Security
 

@@ -54,6 +54,7 @@
 - https://spectrum.mit.edu/winter-2017/neri-oxmans-krebs-cycle-of-creativity
 - https://github.com/open-source-ideas/open-source-ideas
 - [How to design almost any UI element. A curated list of 58 articles](https://twitter.com/vponamariov/status/1381584285300359169)
+- https://github.com/nordicgiant2/awesome-landing-page
 
 
 ### User experience

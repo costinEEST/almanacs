@@ -45,9 +45,11 @@
 - https://www.adsbynimbus.com/tech-blog/dynamic-programming + https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf
 - [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 
-### TV
+### Cinema
 
 - [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/playlists)
+- [Code Club | Bitfield Consulting](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3)
+- [Golang University 101 - Learn Golang | Bitfield Consulting](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
 
 ### Tools
 
