@@ -62,6 +62,7 @@
 - https://psyche.co/guides/how-to-approach-the-lifelong-project-of-language-learning
 - https://thelanguagenerds.com/feast-your-eyes-on-magnificent-linguistic-family-tree
 - https://library.teachyourself.com
+- https://www.rhapsodyinlingo.com/en/2020/06/06/glossika-ai-review
 
 ### Communities
 
