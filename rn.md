@@ -1,9 +1,10 @@
-### Talks
+### Cinema
 
 - https://github.com/tiaanduplessis/awesome-react-native-talks
 - [The App - William Candillon](https://www.youtube.com/playlist?list=PLkOyNuxGl9jz8XYVtbZzwc8tiBas9Zde-)
 - https://blog.bam.tech/developer-news/what-to-watch-react-native-europe-2020
 - https://www.reactnativeradio.com/episodes/177-challenges-of-building-rn-apps-in-ios-vs-android
+- [Learn how to build the beginnings of a Minecraft clone using Expo and React Native.](https://www.youtube.com/playlist?list=PLY1aWv2j4oDEQVEcd6a8LswmmxJS_Az9e)
 
 ### Courses
 
@@ -22,6 +23,7 @@
 
 - [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
 - https://github.com/entria/entria-fullstack
+- https://github.com/Naturalclar/expo-typescript-starter
 
 ### Tools
 
@@ -80,11 +82,14 @@
 - https://github.com/jsoendermann/rn-section-list-get-item-layout
 - https://github.com/ivpusic/react-native-image-crop-picker
 - [Render SVG images in React Native from an URL or static file](https://github.com/vault-development/react-native-svg-uri)
+- [Make an interactive step by step tour guide for your react-native app](https://github.com/xcarpentier/rn-tourguide)
+- [Easily link to other apps with React Native.](https://github.com/FiberJW/react-native-app-link)
 
 ### Debugging
 
 - [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://www.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)
 - https://blog.assetnote.io/bug-bounty/2020/02/01/expanding-attack-surface-react-native + https://twitter.com/infosec_au/status/1223900898889355264
+- https://github.com/IjzerenHein/react-native-bundle-visualizer
 
 ### Performance
 
@@ -110,3 +115,5 @@
 - https://github.com/MohGovIL/hamagen-react-native
 - [tiny english dictionary for android and ios](https://github.com/dongyuwei/tiny_english_dictionary)
 - [Netflix UI Clone with React Native & Expo || web support](https://github.com/calebnance/expo-netflix)
+- [Unofficial Clubhouse client, Supports Android & IOS, Written in React Native.](https://github.com/arnnis/Clubreact)
+- [A Slack client with WhatsApp like UI](https://github.com/arnnis/sup)

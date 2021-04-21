@@ -26,6 +26,7 @@
 - [Virtual machines for iOS](https://github.com/utmapp/UTM)
 - https://blog.prototypr.io/a-designers-guide-to-switching-from-ios-to-android-c4c54fb03786
 - [music app for iPad](https://github.com/Morpheu5/SecondStudy-iPad)
+- https://github.com/EvanBacon/cocoapods-xcode10-tutorial
 
 ### Reverse engineering
 
