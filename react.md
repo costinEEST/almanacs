@@ -272,6 +272,8 @@
 - [Excel-like DataGrid component for React JS.](https://github.com/rowsncolumns/grid)
 - [Perfect freehand is a library for creating freehand paths](https://github.com/steveruizok/perfect-freehand)
 - [Social media share buttons and share counts for React](https://github.com/nygardk/react-share)
+- https://github.com/cwise89/react-detect-offline
+- [Transform SVGs into React components](https://github.com/gregberge/svgr)
 
 ### Debugging
 

@@ -57,6 +57,7 @@
 - https://www.cnet.com/how-to/stolen-or-lost-android-phone-heres-how-to-recover-it-fast
 - [How the Web Audio API is used for browser fingerprinting](https://fingerprintjs.com/blog/audio-fingerprinting)
 - [Browser Fingerprinting via getClientRects and AudioContext](https://github.com/RobinLinus/ubercookie)
+- https://github.com/anttiviljami/browser-autofill-phishing
 
 ### Social media
 

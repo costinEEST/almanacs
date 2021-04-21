@@ -21,6 +21,7 @@
 ### Boilerplates
 
 - [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
+- https://github.com/entria/entria-fullstack
 
 ### Tools
 
@@ -65,10 +66,20 @@
 - [add option to build only active architectures on android](https://github.com/react-native-community/cli/pull/1388) + https://twitter.com/janicduplessis/status/1374886100263665666
 - [configure my Linux pc to run rn projects as android?](https://twitter.com/daniloab_/status/1382092342958698497)
 - [keyboardShouldPersistTaps](https://medium.com/idopterlabs/fixing-the-most-annoying-rn-bug-i-know-7e2ecf79c53f)
+- https://github.com/filipemerker/flatlist-performance-tips
+- https://github.com/fangwei716/30-days-of-react-native
 
 ### Packages
 
 - https://github.com/mmazzarolo/react-native-dialog
+- [set of primitives around building React applications, regardless of Platform.](https://github.com/lelandrichardson/react-primitives)
+- https://github.com/williamtran29/react-native-fingerprint-identify
+- https://github.com/kaddyadriano/react-native-imageedit
+- https://github.com/vivaxy/react-native-auto-height-image
+- https://github.com/shahen94/react-native-video-processing
+- https://github.com/jsoendermann/rn-section-list-get-item-layout
+- https://github.com/ivpusic/react-native-image-crop-picker
+- [Render SVG images in React Native from an URL or static file](https://github.com/vault-development/react-native-svg-uri)
 
 ### Debugging
 

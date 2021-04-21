@@ -36,6 +36,7 @@
 - https://www.freecodecamp.org/news/hands-on-data-science-course
 - https://course.elementsofai.com
 - https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning
+- https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
 
 ### Cinema
 
@@ -133,6 +134,8 @@
 ### Papers
 
 - [Software engineering for artificial intelligence and machine learning software: A systematic literature review](https://arxiv.org/ftp/arxiv/papers/2011/2011.03751.pdf)
+- [Towards the First Machine Translation System for SumerianTransliterations](https://www.aclweb.org/anthology/2020.coling-main.308.pdf)
+- https://github.com/louisfb01/Best_AI_paper_2020
 
 ### Demos
 

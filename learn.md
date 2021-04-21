@@ -11,6 +11,8 @@
 
 - https://www.supermemo.com/en/archives1990-2015/articles/20rules
 - https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn + https://news.ycombinator.com/item?id=23492358
+- https://gduverger.com/email-your-memory
+
 
 ### Tool
 

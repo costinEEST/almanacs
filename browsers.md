@@ -20,6 +20,7 @@
 - https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities
 - https://engineering.q42.nl/passwordless-authentication
 - [Add support for a StreamDeck to Google Meet using WebHID](https://github.com/petele/StreamDeck-Meet)
+- [Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.](https://github.com/localForage/localForage)
 
 ### new IntersectionObserver()
 

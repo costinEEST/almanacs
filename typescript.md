@@ -7,6 +7,12 @@
 - https://vladris.com/blog/2019/04/28/programming-with-types.html
 - https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node
 
+
+### Boilerplate
+
+- https://github.com/Divlo/create-fullstack-app
+
+
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
@@ -56,6 +62,7 @@
 - https://dev.doctorevidence.com/efficient-node-development-with-typescript-10a6d390129d
 - [TypeScript build examples and workflows.](https://github.com/serbanghita/TypeScript-Builds)
 - [Just migrated a project from Flow to TypeScript.](https://twitter.com/satya164/status/1071953492544233472)
+
 
 ### Reference
 

@@ -379,7 +379,7 @@
 - [React's Hooks API implemented for web components.](https://github.com/matthewp/haunted)
 - https://github.com/paulirish/lite-youtube-embed
 - https://github.com/luwes/lite-vimeo-embed
-- https://github.com/davatron5000/awesome-standalones
+- [A curated list of awesome framework-agnostic standalone web components](https://github.com/davatron5000/awesome-standalones)
 - [Design System Stencil Example.](https://github.com/AJONPLLC/ajonp-stencil-example)
 - [A custom element for a menu that scrolls horizontally or vertically.](https://github.com/stevenvachon/scrolling-menu)
 - [Custom elements](https://twitter.com/aerotwist/status/1183432513739513862)
@@ -482,3 +482,7 @@
 - https://adambard.com/blog/on-library-versioning
 - https://timothygu.me/es-howto + https://github.com/TimothyGu/es-howto
 - [Underscore.js annotated source](https://web.archive.org/web/20151205080537/http://documentcloud.github.io:80/underscore/docs/underscore.html)
+
+### Opinions
+
+- [Building better developers by specifying criteria of success](https://github.com/prettydiff/wisdom)

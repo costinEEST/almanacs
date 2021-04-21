@@ -138,4 +138,5 @@
 
 ### Similar projects
 
-- https://github.com/RichardLitt/meta-knowledge
+- [Richard Littauer](https://github.com/RichardLitt/meta-knowledge)
+- [Charlike Mike Reagent](https://github.com/tunnckoCore/resources)

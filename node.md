@@ -66,6 +66,7 @@
 - https://github.com/srepollock/quote-bot-twitter + https://medium.com/swlh/how-i-built-a-serverless-aws-lambda-twitter-bot-in-nodejs-in-a-single-day-6901f8df13f0
 - [A bitcoin trading bot written in node](https://github.com/askmike/gekko)
 - https://github.com/ccnokes/ron-swanson-quotes-slack-bot
+- https://github.com/gulzar1996/auto-like-my-gf-insta-pic
 
 ### Boilerplate
 
@@ -113,6 +114,7 @@
 - [7-month web development program covering HTML, CSS, Javascript, Node, and React!](https://github.com/HackYourFuture/curriculum)
 - [Rapid API Development with NodeJS, Fastify, Postgresql, and Swagger ~ Jay Wolfe](https://www.youtube.com/playlist?list=PLU_22oKqONin7yagFMm3x1tJihYaIVVwa) + https://jaywolfe.dev/blog/rapidly-build-a-nodejs-rest-api-with-fastify-postgresql-and-swagger-documentation
 - [A workshop for security experts who like JavaScript and javascripters who like (in)security.](https://github.com/jesusprubio/node-for-ninjas)
+- https://github.com/sodium-friends/learntocrypto
 
 ### Cheat sheets
 
@@ -224,6 +226,7 @@
 - [A youtube downloader written in Javascript.](https://github.com/fent/node-ytdl)
 - https://github.com/jesusprubio/awesome-nodejs-pentest
 - [Check the TLS protocol support of one or more web servers](https://github.com/styfle/tls-check)
+- [Capture website screenshots](https://github.com/sindresorhus/pageres)
 
 ### Testing
 

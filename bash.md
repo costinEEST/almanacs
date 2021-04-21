@@ -60,3 +60,4 @@
 - https://github.com/alexcoman/labs/tree/master/bash
 - https://lucasfcosta.com/2019/04/07/streams-introduction.html
 - https://github.com/rothgar/mastering-zsh
+- https://github.com/NARKOZ/hacker-scripts

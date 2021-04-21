@@ -29,6 +29,8 @@
 
 ### References
 
+- https://isapplesiliconready.com/for/developer
+- https://amanhimself.dev/blog/setup-macbook-m1
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide
 - https://github.com/ernw/hardening/tree/master/operating_system/osx
 - https://github.com/eieioxyz/Beyond-Dotfiles-in-100-Seconds

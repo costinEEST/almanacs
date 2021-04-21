@@ -57,7 +57,6 @@
 - [Learn to Pronounce Sounds in American English](https://pronuncian.com/sounds)
 - https://lindiebotes.com/language-resources
 - https://www.inverse.com/innovation/neural-stimulation-language-device
-- https://github.com/RichardLitt/low-resource-languages
 - http://languagestolearn.com/resources
 - https://psyche.co/guides/how-to-approach-the-lifelong-project-of-language-learning
 - https://thelanguagenerds.com/feast-your-eyes-on-magnificent-linguistic-family-tree
