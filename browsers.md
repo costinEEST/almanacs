@@ -229,6 +229,9 @@ javascript: (() =>
 - https://rudism.com/cookie-monster
 - [Browser fingerprinting via favicon!](https://github.com/jonasstrehle/supercookie)
 - https://seirdy.one/2021/04/16/permissions-policy-floc-misinfo.html
+- https://brave.com/why-brave-disables-floc
+- https://dev.to/sgolovine/opt-your-netlify-vercel-or-github-pages-site-out-of-google-s-floc-network-3nhl
+- https://amifloced.org
 
 ### Content Security Policy
 

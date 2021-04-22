@@ -25,12 +25,13 @@
 ־ [Systems with JT](https://www.youtube.com/user/giard321/playlists)
 - https://loige.co/where-to-go-to-learn-rust-in-2021
 
-### Courses
+### Course
 
 - https://github.com/pingcap/talent-plan#series-2-rust-programming
 - [Kosmonaut: web browser from scratch in Rust](https://news.ycombinator.com/item?id=24170201)
 - [TCP/IP Fundamentals](https://lowlvl.org) + https://twitter.com/nbaksalyar/status/1307665001570762752
 - https://github.com/integer32llc/rust-in-motion-videos
+- https://docs.microsoft.com/en-gb/learn/paths/rust-first-steps
 
 ### Tutorials
 

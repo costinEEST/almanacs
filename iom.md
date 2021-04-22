@@ -159,6 +159,7 @@
 - https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace
 - https://twitter.com/nntaleb/status/1380991387076849673
+- https://thatkimparker.medium.com/most-artists-are-not-making-money-off-nfts-and-here-are-some-graphs-to-prove-it-c65718d4a1b8
 
 ### Smart contracts
 
