@@ -1,3 +1,7 @@
+### Book
+
+- https://book.babashka.org
+
 ### Community
 
 - https://twitter.com/daslu_/status/1376835468336193540

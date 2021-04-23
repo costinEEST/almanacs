@@ -85,6 +85,7 @@
 - https://cfe.dev/events/deploying-your-first-kubernetes-cluster
 - https://www.infoq.com/articles/distributed-systems-kubernetes
 - https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer
+- https://securityboulevard.com/2019/11/kubernetes-pentest-methodology-part-3
 
 ### Servers
 

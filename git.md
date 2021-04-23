@@ -74,3 +74,8 @@
 - [Radicle: A peer-to-peer alternative to GitHub](https://news.ycombinator.com/item?id=25313010)
 - [Fast and powerful Git hooks manager for any type of projects.](https://github.com/Arkweid/lefthook)
 - [Is there a nice git diff visual tool?](https://twitter.com/Lachlan19900/status/1348782429230678016)
+
+### Security
+
+- https://justi.cz/security/2021/04/20/cocoapods-rce.html
+- https://blog.ryotak.me/post/homebrew-security-incident-en

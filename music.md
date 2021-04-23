@@ -51,6 +51,7 @@
 - [Ishkur's Guide to Electronic Music.](https://music.ishkur.com)
 - https://www.classicfm.com/discover-music/why-is-a-cd-74-minutes
 - https://www.beatportal.com/features/beatports-definitive-guide-to-techno
+- https://daily.jstor.org/the-heretical-origins-of-the-sonnet
 
 ### Songs
 

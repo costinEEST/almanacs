@@ -24,6 +24,7 @@
 - https://www.deconstructconf.com/2017/joe-damato-all-programmers-must-learn-c-and-assembly
 - [FreeDOS programming](https://www.youtube.com/playlist?list=PLzuACU-W7Omo3VEnMKuM0IPupdOHFDzL3) + https://www.freedos.org/books/cprogramming
 - [OpenGL Screencasts and Tutorials - David Parker](https://www.youtube.com/playlist?list=PL2330214740B33712) + https://www.programmingtil.com/topics/opengl
+- [Quantifying Memory Unsafety and Reactions to It](https://www.usenix.org/conference/enigma2021/presentation/gaynor)
 
 ### Articles
 

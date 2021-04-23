@@ -75,6 +75,7 @@
 - [Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
 - [Make JSON greppable!](https://github.com/tomnomnom/gron)
 - [Share your terminal as a web application](https://github.com/yudai/gotty)
+- [Go library to capture desktop to image](https://github.com/kbinani/screenshot)
 
 ### References
 
