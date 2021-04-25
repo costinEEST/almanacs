@@ -46,6 +46,7 @@
 - https://github.com/flarnie/Intro-To-React-And-TypeScript
 - [Has anyone done a successful transition from an out of date create-react-app to the next.js?](https://twitter.com/bdougieYO/status/1377298188361682944)
 - [Example project on how to send emails in Next.js with Sendgrid and Dynamic Templates ](https://github.com/hunterbecton/sendgrid-next-js)
+- https://github.com/frankdilo/personal-blog-template
 
 ### Books
 
@@ -326,6 +327,8 @@
 - https://github.com/vladnicula/timezone-manager
 - [The open-source Calendly alternative.](https://github.com/calendso/calendso)
 - https://www.joshwcomeau.com/blog/how-i-built-my-blog
+- https://github.com/filipemerker/micro-frontend-talk-example
+- https://github.com/Hendrixer/production-grade-nextjs
 
 ### Testing
 

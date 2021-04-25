@@ -51,6 +51,7 @@
 - [Instagram clone made with NodeJS & Express & Prisma](https://github.com/filippobarcellos/instagram-clone-api)
 - [Why Bedrock uses Prisma as its ORM](https://bedrock.mxstbr.com/tools/prisma)
 - https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30
+- https://dev.to/noclat/build-a-full-api-with-next-js-1ke
 
 ### Book
 
@@ -227,6 +228,7 @@
 - https://github.com/jesusprubio/awesome-nodejs-pentest
 - [Check the TLS protocol support of one or more web servers](https://github.com/styfle/tls-check)
 - [Capture website screenshots](https://github.com/sindresorhus/pageres)
+- https://maecapozzi.com/how-to-locally-test-an-npm-package
 
 ### Testing
 

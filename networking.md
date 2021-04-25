@@ -93,6 +93,7 @@
 - https://github.com/zbetcheckin/Security_list#wireless--radio-signal_strength
 - https://www.bit-101.com/blog/2020/10/i-think-bluetooth-is-finally-ok
 - https://kyk13.com/antennas-for-helium
+- https://github.com/stevesong/awesome-connectivity-info
 
 ### 5G
 

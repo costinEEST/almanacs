@@ -38,7 +38,7 @@
 - https://leandrotk.github.io/2021/01/optimizing-the-performance-of-a-react-progressive-web-app/index.html
 - https://medium.com/pwabuilder/building-pwas-with-web-components-33f986bf8e4c
 - [what library are you using to build them?](https://twitter.com/HarveyRamer/status/1375176619590057988)
-
+- https://itnext.io/publishing-a-progressive-web-app-pwa-on-the-playstore-what-works-and-what-doesnt-in-2021-c4cfea5a7601
 
 ### Demo
 

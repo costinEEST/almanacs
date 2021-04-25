@@ -162,6 +162,8 @@
 - [A Chrome Extension to export all words from a Memrise course to a CSV file.](https://github.com/raineorshine/memrise-export)
 - [Chrome extension that allows you to monitor, browse and filter all DOM changes.](https://github.com/kdzwinel/DOMListenerExtension)
 - [Chrome extension for easily manipulating URL query parameters, written in Elm.](https://github.com/OliverJAsh/chrome-query-params)
+- [WebExtension that adds ability search all your bookmarked tweets!](https://github.com/flybayer/twitter-bookmarks-search)
+- [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 
 ### Bookmarklets
 
@@ -228,10 +230,16 @@ javascript: (() =>
 - [How to Store Session Tokens in a Browser (and the impacts of each)](https://blog.ropnop.com/storing-tokens-in-browser)
 - https://rudism.com/cookie-monster
 - [Browser fingerprinting via favicon!](https://github.com/jonasstrehle/supercookie)
+
+### Federated Learning of Cohorts
+
 - https://seirdy.one/2021/04/16/permissions-policy-floc-misinfo.html
 - https://brave.com/why-brave-disables-floc
 - https://dev.to/sgolovine/opt-your-netlify-vercel-or-github-pages-site-out-of-google-s-floc-network-3nhl
 - https://amifloced.org
+- https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern
+- https://plausible.io/blog/google-floc
+- https://vivaldi.com/blog/no-google-vivaldi-users-will-not-get-floced
 
 ### Content Security Policy
 

@@ -318,6 +318,7 @@
 
 ### new RegExp()
 
+- https://www.johndcook.com/blog/2008/01/14/tips-for-learning-regular-expressions
 - https://ihateregex.io/playground + https://ihateregex.io/cheatsheet
 - https://regexcrossword.com
 - https://www.debuggex.com + https://youtu.be/hprXxJHQVfQ

@@ -1,6 +1,6 @@
 #### Community
 
-
+- https://academyofideas.com/books/#propaganda-and-brainwashing
 
 ### Cinema
 

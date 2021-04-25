@@ -77,3 +77,4 @@
 - https://github.com/Atarity/deploy-your-own-saas
 - [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.](https://github.com/cloudquery/cloudquery)
 - https://github.com/Hacking-the-Cloud/hackingthe.cloud
+- https://github.com/100DaysOfCloud/100DaysOfCloudIdeas

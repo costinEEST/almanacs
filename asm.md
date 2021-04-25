@@ -3,6 +3,7 @@
 - https://github.com/mytechnotalent/Reverse-Engineering-Tutorial + https://0xinfection.github.io/reversing
 - [Programming With Ones and Zeros](https://www.hanshq.net/ones-and-zeros.html)
 - https://keleshev.com/compiling-to-assembly-from-scratch-the-book
+- [Isn't the 'Reverse Engineering for Beginners' book outdated already?](https://yurichev.com/news/20210424_outdated_RE4B)
 
 ### References
 
