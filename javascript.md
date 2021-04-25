@@ -125,6 +125,11 @@
 - https://learnjavascript.online
 - https://github.com/sophi-li/OKRs-self-learning
 
+
+### Paper
+
+- [Who invents the word "scope chain" in ECMA-262 1st edition?](https://twitter.com/Huxpro/status/1363224910898688000)
+
 ### Talks
 
 - [Session Notes from JSCraftCamp2019](https://github.com/jscraftcamp/jscc19-sessions) + [JavaScript Craftcamp 2018](https://github.com/jscraftcamp/notes2018)

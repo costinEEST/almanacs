@@ -6,6 +6,7 @@
 ### Cinema
 
 - https://twitter.com/haskellhutt/status/1375384976938663936 + [Functional programming in Haskell, by Professor Graham Hutton from the University of Nottingham.](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3) + http://www.cs.nott.ac.uk/~pszgmh/pih.html
+- https://huangxuan.me/2018/09/27/avoiding-success-at-all-cost
 
 ### Practice
 

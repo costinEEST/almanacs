@@ -76,6 +76,7 @@
 - [An open source kernel and OS for music production](https://github.com/Morpheu5/tOfuS)
 - [Test the speed of common mathematical operations](https://github.com/elgw/math_ops_speed)
 - [A curated list of awesome bitwise operations and tricks](https://github.com/keon/awesome-bits)
+- https://huangxuan.me/2020/06/19/data-rep-int
 
 ### Security
 

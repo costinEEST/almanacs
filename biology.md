@@ -9,6 +9,7 @@
 - https://minutes.substack.com/p/biotech-for-the-biocurious + https://twitter.com/shaklakhani/status/1371582498229121029
 - https://ldeming.posthaven.com/understanding-biology-quickly + https://bionumbers.hms.harvard.edu/search.aspx
 - [What's Your Bio Strategy?: How to Prepare Your Business for Synthetic Biology](https://www.amazon.com/Whats-Your-Bio-Strategy-Synthetic/dp/0999313614)
+- https://www.goodreads.com/blog/show/2071-famed-biographer-walter-isaacson-on-gene-editing-science-and-good-book
 
 ### Course
 

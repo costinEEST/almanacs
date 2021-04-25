@@ -19,3 +19,4 @@
 - https://christine.website/blog/org-mode-flow-2020-09-08
 - https://sachachua.com/blog/2014/05/emacs-chat-christopher-wellons
 - https://www.murilopereira.com/how-to-open-a-file-in-emacs + https://news.ycombinator.com/item?id=25760381
+- https://huangxuan.me/2019/09/08/spacemacs-workflow

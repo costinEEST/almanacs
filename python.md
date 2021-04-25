@@ -101,6 +101,7 @@
 - https://www.ianbicking.org/blog/2018/11/viewing-python-execution-source-code-rewriting.html
 - https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE
 - https://github.com/geoffbacon/regular-expressions-in-python
+- https://huangxuan.me/2017/12/12/halting-problem
 
 ### Scraping
 
