@@ -5,10 +5,12 @@
 - [Writing to Learn: How to Write - and Think - Clearly About Any Subject at All by William Zinsser](https://www.amazon.com/gp/product/B00BOQEBFE)
 - https://www.amazon.com/How-Do-Things-Words-Lectures/dp/0674411528 + https://youtu.be/2lQHHcNp618
 - [On (technical/scientific) writing](https://yurichev.com/news/20200801_on_writing)
+- https://www.amazon.com/Cuneiform-Irving-L-Finkel/dp/0714111880
 
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUe5jlxhxEfjXm57bXxhixea
+- https://www.google.com/search?q=Cuneiform+written+by+Irving+Finkel
 
 ### Community
 
