@@ -26,6 +26,7 @@
 - https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
 - [NextJS and Serverless ~ James Perkins](https://www.youtube.com/playlist?list=PL5G1JGPXq1sQDMAV9BdlUJV9RfkZPSpVb)
 - https://twitter.com/brian_lovin/status/1377346382084763650
+- [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://www.youtube.com/playlist?list=PLFGFKs8nQ3EbG-ykV8xc1mBt99sqq2Ssx) + https://github.com/dijonmusters/e-commerce-in-25-days
 
 ### Boilerplate
 
@@ -275,6 +276,7 @@
 - [Social media share buttons and share counts for React](https://github.com/nygardk/react-share)
 - https://github.com/cwise89/react-detect-offline
 - [Transform SVGs into React components](https://github.com/gregberge/svgr)
+- [Generic Styler for geodata](https://github.com/geostyler/geostyler)
 
 ### Debugging
 
@@ -329,6 +331,9 @@
 - https://www.joshwcomeau.com/blog/how-i-built-my-blog
 - https://github.com/filipemerker/micro-frontend-talk-example
 - https://github.com/Hendrixer/production-grade-nextjs
+- https://jonmeyers.io/blog/build-a-saas-platform-with-stripe
+
+
 
 ### Testing
 

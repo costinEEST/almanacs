@@ -18,6 +18,7 @@
 - https://www.notion.so/Computing-History-Hub-be72f307fc2e4b05abe3dc67eb937521 + https://twitter.com/mollyfmielke/status/1369691574095863809
 - https://github.com/watson/awesome-computer-history + https://dave.cheney.net/category/internets-of-interest + https://dave.cheney.net/category/history
 - [Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Customers](https://www.amazon.com/Hidden-Plain-Sight-Extraordinary-Tomorrows/dp/0062125699)
+- [A curriculum developed around the television series, Halt and Catch Fire (2014-2017), a fictional narrative about people working in tech during the 1980s-1990s.](https://github.com/ablwr/halt-and-catch-fire-syllabus)
 
 ### Cinema
 

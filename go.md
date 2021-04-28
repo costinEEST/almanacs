@@ -36,7 +36,7 @@
 
 - https://github.com/quii/learn-go-with-tests
 
-### Courses
+### Course
 
 - Write web applications in Go without using a framework: [book](https://leanpub.com/antitextbookGo) + (recordings)[https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4]
 - [1000+ Hand-Crafted Go Examples, Exercises, and Quizzes](https://github.com/inancgumus/learngo)
@@ -44,6 +44,7 @@
 - https://empijei.science/talks.html
 - https://www.adsbynimbus.com/tech-blog/dynamic-programming + https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf
 - [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+- https://github.com/martensonbj/fem-intro-to-go
 
 ### Cinema
 
@@ -91,6 +92,7 @@
 - https://github.com/SerifAndSemaphore/go-serverless-list
 - https://github.com/system-pclub/go-concurrency-bugs
 - https://github.com/juanpablopizarro/golang-bootcamp
+- https://github.com/monochromegane/go_design_pattern
 
 ### Opinion
 

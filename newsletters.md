@@ -143,6 +143,7 @@
 ### Tools
 
 - https://vimtricks.substack.com/archive
+- [Sami Laiho](https://us7.campaign-archive.com/home/?u=e13c84c9564fa4b2cb6afcb15&id=318e3d92bc)
 
 ### Math
 

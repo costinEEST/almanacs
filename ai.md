@@ -37,6 +37,7 @@
 - https://course.elementsofai.com
 - https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
+- https://github.com/lexfridman/mit-deep-learning
 
 ### Cinema
 

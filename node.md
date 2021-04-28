@@ -123,6 +123,7 @@
 - https://github.com/dexteryy/spellbook-of-modern-webdev#nodejs
 - https://github.com/ArturJS/nodejs-certification-preparation
 - https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners
+- https://github.com/kryz81/awesome-nodejs-learning
 
 ### Debugging
 
@@ -360,3 +361,4 @@
 - https://jg.gg/2020/09/30/choosing-your-tech-stack-2020-edition-2/
 - https://github.com/wolfejw86/architecture-learning-path
 - [Geographical forum app for groups and teams to share and discuss locations](https://github.com/axelpale/georap)
+- https://github.com/feross/awesome-mad-science

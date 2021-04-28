@@ -10,6 +10,7 @@
 - https://github.com/excelbrium/algorithms-and-data-structures + https://www.notion.so/JS-Knowledge-5b3b764a595e4494beed9aa96d707efb
 - https://github.com/RobinLinus/prime-counting-function
 - [An Introduction to Scalability and Memory](https://www.youtube.com/playlist?list=PLK_e420JFUuYa-nMGoEeJqsplPvJZTOL5) + [Recursion for the Rest of Us](https://www.youtube.com/playlist?list=PLK_e420JFUuaDfQUnWXoc-rTXg6TzGDh2) + https://github.com/Haseeb-Qureshi/cs-fundamentals
+- https://github.com/jasonwebb/morphogenesis-resources
 
 ### AST
 
@@ -124,7 +125,7 @@
 
 - https://learnjavascript.online
 - https://github.com/sophi-li/OKRs-self-learning
-
+- https://github.com/andreasbm/web-skills
 
 ### Paper
 
@@ -402,6 +403,7 @@
 - [A tiny color picker custom element for modern web apps (2.7 KB)](https://github.com/web-padawan/vanilla-colorful)
 - https://github.com/WICG/virtual-scroller
 - https://blog.medblocks.org/2021-03-28-frontend-frameworks-why-you-should-reconsider + https://twitter.com/sidharth_ramesh/status/1376053744886902784
+- https://github.com/runem/web-component-analyzer
 
 ### Testing
 
@@ -480,6 +482,7 @@
 - https://github.com/evanw/source-map-visualization
 - https://github.com/RunDevelopment/eslint-plugin-clean-regex
 - https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts
+- [Tool for decrypting stack traces coming from the minified JS code.](https://github.com/software-mansion-labs/stack-beautifier)
 
 ### Documentation
 

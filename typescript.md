@@ -94,3 +94,4 @@
 - https://github.com/Quramy/lerna-yarn-workspaces-example
 - https://wapl.es/typescript/2019/03/14/xml-jsx-sitemaps-in-typescript.html
 - https://dev.to/43081j/strongly-typed-event-emitters-using-eventtarget-in-typescript-3658
+- [A SQL database implemented purely in TypeScript type annotations.](https://github.com/codemix/ts-sql)

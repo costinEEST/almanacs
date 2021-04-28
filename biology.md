@@ -59,6 +59,7 @@
 - [DNA Learning Center](https://www.google.com/search?q=dna%20learning%20center)
 - https://medium.com/@bert.hubert/dna-the-code-of-life-12db4a17c66d
 - https://a16z.com/2019/10/28/biology-eating-world-a16z-manifesto + https://news.ycombinator.com/item?id=21385796
+- https://berthub.eu/articles/posts/what-is-life
 
 ### Teachers
 

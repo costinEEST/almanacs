@@ -62,3 +62,4 @@
 - [Calligraphy | Pedro Amado](https://www.youtube.com/playlist?list=PLEz9y19-UrRYtG5jiDmlOlsTXnZJ7HKN6)
 - [Shani Avni](https://www.shaniavni.com/#comp-jjrbxl0r)
 - [The History and Art of Flourishing with Lynne Yun](https://www.crowdcast.io/e/history-of-flourishing)
+- https://github.com/learn-anything/talks#typography

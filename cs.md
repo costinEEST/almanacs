@@ -32,7 +32,7 @@
 - https://github.com/JanVanRyswyck/awesome-talks#computer-history
 - https://github.com/Developer-Y/cs-video-courses#quantum-computing
 
-### Books
+### Book
 
 - [Concurrent Programming for Scalable Web Architectures](https://github.com/berb/diploma-thesis)
 - [Programming Models for Distributed Computation](https://github.com/heathermiller/dist-prog-book)
@@ -51,6 +51,7 @@
 - https://twitter.com/lhochstein/status/1299169229531357184
 - [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)
 - https://github.com/onlurking/category-theory-for-programmers
+- https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books
 
 
 ### TIL

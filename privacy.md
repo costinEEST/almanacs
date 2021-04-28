@@ -43,6 +43,7 @@
 
 ### Techniques
 
+- https://github.com/Lissy93/personal-security-checklist
 - Studying the Resilience of Browser Fingerprinting to Block Crawlers: [tweet](https://twitter.com/xopek59/status/1218169607535693824) + [paper](https://hal.inria.fr/hal-02441653)
 - https://medium.com/@vmsp/blocking-your-adblocker-967d1c6e48f2
 - https://foosoft.net/posts/decrapifying-the-twitter-timeline/index.html
@@ -52,7 +53,6 @@
 - https://www.gov.uk/guidance/protect-domains-that-dont-send-email
 - https://github.com/adilmajid/privacy-for-the-paranoid
 - https://github.com/bslassey/ip-blindness
-- https://github.com/Lissy93/personal-security-checklist
 - [I don't think SMS is legit 2FA](https://twitter.com/sherrod_im/status/1372259376690511873)
 - https://www.cnet.com/how-to/stolen-or-lost-android-phone-heres-how-to-recover-it-fast
 - [How the Web Audio API is used for browser fingerprinting](https://fingerprintjs.com/blog/audio-fingerprinting)

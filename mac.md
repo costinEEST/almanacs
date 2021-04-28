@@ -26,6 +26,10 @@
 - [Instant audio feedback for typing. macOS version. (Rust)](https://github.com/yingDev/Tickeys)
 - [A solution to use the Apple Wireless Keyboard on Windows.](https://github.com/kud/apple-french-keyboard-windows)
 - [Secure Web Server for iOS, tvOS and macOS](https://github.com/Building42/Telegraph)
+- https://github.com/uetchy/mac-battery-inspector
+- [A native Node.js module for enumerating over macOS system display information](https://github.com/codebytere/node-mac-displays)
+- [Mac menu bar app for common adb tools](https://github.com/naman14/adb-tools-mac)
+- [The easiest way to install and switch between multiple versions of Xcode - with a mouse click.](https://github.com/RobotsAndPencils/XcodesApp)
 
 ### References
 

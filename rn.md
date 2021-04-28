@@ -6,13 +6,14 @@
 - https://www.reactnativeradio.com/episodes/177-challenges-of-building-rn-apps-in-ios-vs-android
 - [Learn how to build the beginnings of a Minecraft clone using Expo and React Native.](https://www.youtube.com/playlist?list=PLY1aWv2j4oDEQVEcd6a8LswmmxJS_Az9e)
 
-### Courses
+### Course
 
 - https://github.com/dabbott/react-native-express
 - https://github.com/wix/react-native-crash-course
 - [CS50's Mobile App Development with React Native](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course)
 - https://learn.handlebarlabs.com/courses/enrolled
 - https://github.com/screensyt/beat-react-native
+- https://github.com/react-made-native-easy/book
 
 ### Books
 
@@ -24,6 +25,7 @@
 - [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
 - https://github.com/entria/entria-fullstack
 - https://github.com/Naturalclar/expo-typescript-starter
+- https://elazizi.com/how-to-structure-a-react-native-project
 
 ### Tools
 
@@ -70,9 +72,11 @@
 - [keyboardShouldPersistTaps](https://medium.com/idopterlabs/fixing-the-most-annoying-rn-bug-i-know-7e2ecf79c53f)
 - https://github.com/filipemerker/flatlist-performance-tips
 - https://github.com/fangwei716/30-days-of-react-native
+- https://around25.com/blog/handling-offline-mode-in-react-native
 
 ### Packages
 
+- https://twitter.com/calintamas2/status/1255568420470431744
 - https://github.com/mmazzarolo/react-native-dialog
 - [set of primitives around building React applications, regardless of Platform.](https://github.com/lelandrichardson/react-primitives)
 - https://github.com/williamtran29/react-native-fingerprint-identify
@@ -84,6 +88,8 @@
 - [Render SVG images in React Native from an URL or static file](https://github.com/vault-development/react-native-svg-uri)
 - [Make an interactive step by step tour guide for your react-native app](https://github.com/xcarpentier/rn-tourguide)
 - [Easily link to other apps with React Native.](https://github.com/FiberJW/react-native-app-link)
+- https://github.com/alexbrazier/react-native-network-logger
+- https://github.com/emeraldsanto/react-native-encrypted-storage
 
 ### Debugging
 

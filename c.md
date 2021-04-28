@@ -13,6 +13,7 @@
 - https://github.com/preslavmihaylov/booknotes/tree/master/architecture/clean-architecture
 - [Pointers on C by Kenneth Reek](https://twitter.com/EigenPuff/status/1376223216310444037)
 - [What should a systems/low-level software engineer know?](https://news.ycombinator.com/item?id=18881649)
+- [Markdown source for Michael Abrash's Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book)
 
 ### Cinema
 
@@ -77,6 +78,7 @@
 - [Test the speed of common mathematical operations](https://github.com/elgw/math_ops_speed)
 - [A curated list of awesome bitwise operations and tricks](https://github.com/keon/awesome-bits)
 - https://huangxuan.me/2020/06/19/data-rep-int
+- https://github.com/cfenollosa/os-tutorial
 
 ### Security
 

@@ -14,6 +14,7 @@
 - [A decentralized system of synchronized lights to coordinate urban mobility swarms.](https://github.com/aberke/city-science-bike-swarm)
 - https://blog.yifangu.com/2020/12/30/wasmino-wasm-arduino-running-arduino-code-in-browser
 - https://medium.com/@Hossman333/building-a-custom-led-word-clock-bfb3ba390e15 + https://github.com/Hossman333/word-clock
+- https://github.com/joeycastillo/The-Open-Book
 
 ### ESP32
 
