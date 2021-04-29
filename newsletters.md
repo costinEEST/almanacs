@@ -106,6 +106,7 @@
 - [Josh Sherman](https://us4.campaign-archive.com/home/?u=374a1419f1381c14c8bc92119&id=91dbdd5c9b)
 - [Josh Comeau](https://www.joshwcomeau.com/newsletter-issues/001)
 - [Vincent Voyer](https://nextjsnews.com)
+- [Softbinator Foundation](https://us2.campaign-archive.com/home/?u=a8f550154253f6574139ed3ae&id=7d076fb650)
 
 ### Web performance
 
