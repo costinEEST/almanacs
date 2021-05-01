@@ -13,6 +13,7 @@
 
 ### Approach
 
+- https://calibreapp.com/blog/css-performance
 - https://css-tricks.com/building-a-scalable-css-architecture-with-bem-and-utility-classes
 
 ### Book
@@ -86,6 +87,7 @@
 - https://www.sarasoueidan.com/blog/style-settings-with-css-variables
 - https://github.com/notoriousb1t/awesome-css-variables
 - [CSS Vars + HSL colors = a powerful color system.](https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables)
+- [Dark mode in 5 minutes, with inverted lightness variables](https://lea.verou.me/2021/03/inverted-lightness-variables)
 
 
 ### CSS grid

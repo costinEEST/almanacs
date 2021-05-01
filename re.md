@@ -27,10 +27,11 @@
 - https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra + https://github.com/wrongbaud/hackaday-u + https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi
 - https://www.udemy.com/user/cristina-gheorghisan
 
-### Books
+### Book
 
 - https://learning.oreilly.com/library/view/the-ida-pro/9781593273750
 - https://legacy.gitbook.com/book/dhavalkapil/heap-exploitation/details
+- https://guidedhacking.com/threads/game-hacking-fundamentals-the-game-hacking-book.16550 + https://twitter.com/GuidedHacking/status/1388298251070287872
 
 ### Tools
 

@@ -40,3 +40,4 @@
 - [Ramón Morcillo](https://github.com/reymon359/book-sentences)
 - https://matthewstrom.com/reading
 - [Maggie Appleton](https://maggieappleton.com/library)
+- [Paramdeo Singh](https://paramdeo.com/bookshelf)

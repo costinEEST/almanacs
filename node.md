@@ -253,6 +253,7 @@
 - https://github.com/simonplend/talks/tree/main/make-the-most-of-modern-javascript-with-fastify
 - [LeonAI has migrated from Express.js to @fastifyjs](https://twitter.com/louistiti_fr/status/1374978615696183296)
 - https://www.freecodecamp.org/news/free-8-hour-node-express-course
+- https://www.freecodecamp.org/news/the-nginx-handbook
 
 ### Scrapping
 
@@ -296,6 +297,7 @@
 - https://julienrenaux.fr/2019/12/20/github-actions-security-risk
 - [Performs secure device firmware updated over-the-air via Web-Bluetooth.](https://github.com/NordicPlayground/secure-dfu-web-bluetooth)
 - https://github.com/Lemoncode/web-security-fundamentals
+- https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js
 - [A step by step workshop to exploit various vulnerabilities in Node.js and Java applications](https://github.com/snyk/exploit-workshop)
 - [Express.js web security challenge](https://twitter.com/gynvael/status/1260499214225809409) + https://oshogbo.vexillium.org/blog/76
 - https://github.com/adamtlangley/Data-Over-DNS

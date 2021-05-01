@@ -28,6 +28,7 @@
 ### Microphone
 
 - https://chan.dev/posts/a-bargain-mic-for-yellers
+- https://github.com/filmgirl/podcasting-resources
 
 ### Mouse
 

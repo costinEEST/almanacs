@@ -116,10 +116,12 @@
 - [What’s your favorite resource for understanding React component composition to avoid prop drilling and managing shared state in complex components?](https://twitter.com/jhooks/status/1251636235375800320)
 - https://academy.nomadcoders.co/p/antiredux-new-react-context-api
 - https://jclem.net/posts/building-a-router-in-react
+- https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state
 
 ### Component
 
 - [Headless UI components](https://twitter.com/rauchg/status/1199157227677868032)
+- [Completely unstyled, fully accessible UI components](https://headlessui.dev)
 - https://github.com/jquense/react-widgets
 - https://hugogiraudel.com/2020/01/17/accessible-links-and-buttons-with-react + https://gist.github.com/StevenLangbroek/bbf63723b3c87d88644eae34cb9a0d01
 - [Monolithic Components, Composable Components](https://gist.github.com/busypeoples/d5fe7d6ef3dfadcc20b5a2b0d0ef74a5)

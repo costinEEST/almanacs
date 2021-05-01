@@ -32,3 +32,4 @@
 ### Opinions
 
 - [Used for surveillance](https://twitter.com/aral/status/1206173737730674688)
+- https://surma.dev/things/js-to-asc

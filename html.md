@@ -29,7 +29,7 @@
 - https://gomakethings.com/the-difference-between-aria-label-aria-labelledby-and-aria-describedby
 - https://adamsilver.io/articles/avoiding-tab-styles-for-navigation
 - https://github.com/fabkrum/accessibility-resources
-- https://twitter.com/mmatuzo/status/1343807665533820929
+- [code snippet to help us all make better websites.](https://twitter.com/mmatuzo/status/1343807665533820929)
 - https://hearmeoutcc.com/deaf-person-feel-included
 - https://jaketracey.com/accessible-inverted-colors
 - https://thoughtbot.com/blog/improving-the-usability-and-accessibility-of-a-healthcare-website-by-being-mindful-of-reading-level
@@ -68,6 +68,10 @@
 ### <details></details>
 
 - https://css-tricks.com/exploring-what-the-details-and-summary-elements-can-do
+
+### <dl></dl>
+
+- https://dorper.me/articles/dldt.aspx
 
 ### <head></head>
 
@@ -134,6 +138,7 @@
 - [A very compact representation of a placeholder for an image.](https://github.com/woltapp/blurhash)
 - [Easy to use share buttons that load fast and don't track you](https://github.com/RobinLinus/share-the-love)
 - https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools
+- https://github.com/damianfrizzi/fetoolkit
 
 ### TV
 

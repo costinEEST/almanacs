@@ -5,7 +5,7 @@
 - https://adambard.com/blog/programatically-liquidating-my-steam-inventory
 - https://github.com/mjhea0/awesome-fastapi
 
-### Books
+### Book
 
 - https://github.com/changwookjun/StudyBook
 - https://book.pythontips.com/en/latest
@@ -19,6 +19,7 @@
 - https://www.debuggingbook.org + https://www.youtube.com/playlist?list=PL6dh-k4faL8ok2aD64kEm6zmUPbfTznJy
 - https://opendatascience.com/dissecting-the-software-designing-approach-of-design-by-contract + https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214
 - https://github.com/jakevdp/PythonDataScienceHandbook
+- https://github.com/pamoroso/free-python-books
 
 ### Bots
 

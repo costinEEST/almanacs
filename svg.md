@@ -16,6 +16,7 @@
 - [Open source emojis for designers, developers and everyone else!](https://github.com/hfg-gmuend/openmoji)
 - https://github.com/alrra/browser-logos
 - [SVG and PNG renders of all countries' flags.](https://github.com/hampusborgos/country-flags)
+- https://storyset.com
 
 ### Tutorials
 

@@ -164,6 +164,7 @@
 - [Chrome extension for easily manipulating URL query parameters, written in Elm.](https://github.com/OliverJAsh/chrome-query-params)
 - [WebExtension that adds ability search all your bookmarked tweets!](https://github.com/flybayer/twitter-bookmarks-search)
 - [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
+- https://charliegerard.dev/project/dark-mode-clap-extension
 
 ### Bookmarklets
 
@@ -220,6 +221,7 @@ javascript: (() =>
 - https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html
 - [Authenticated CORS with Access-Control-Allow-Origin: \*](https://blog.bi.tk/chrome-cors)
 - https://github.com/RUB-NDS/CORStest
+- https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices
 
 ### Cookies
 
@@ -234,12 +236,14 @@ javascript: (() =>
 ### Federated Learning of Cohorts
 
 - https://seirdy.one/2021/04/16/permissions-policy-floc-misinfo.html
-- https://brave.com/why-brave-disables-floc
+- https://brave.com/why-brave-disables-floc + https://github.com/brave/brave-core/pull/8468
 - https://dev.to/sgolovine/opt-your-netlify-vercel-or-github-pages-site-out-of-google-s-floc-network-3nhl
 - https://amifloced.org
 - https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern
 - https://plausible.io/blog/google-floc
 - https://vivaldi.com/blog/no-google-vivaldi-users-will-not-get-floced
+- https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network + https://twitter.com/tomayac/status/1383337100041359365
+- https://spreadprivacy.com/block-floc-with-duckduckgo
 
 ### Content Security Policy
 

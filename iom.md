@@ -133,6 +133,7 @@
 - https://github.com/ConsenSys/blockchainSecurityDB
 - https://github.com/fergarrui/ethereum-security
 - https://github.com/PeterBorah/smart-contract-security-examples
+- https://www.troyhunt.com/i-now-own-the-coinhive-domain-heres-how-im-fighting-cryptojacking-and-doing-good-things-with-content-security-policies
 
 
 ### Bitcoin

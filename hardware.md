@@ -52,6 +52,10 @@
 - [Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y)
 - [32 bit RISC-V homemade CPU out of discrete components](https://hackaday.io/project/178826-pineapple-one) + https://twitter.com/ten_filip/status/1377657517707296774
 
+### Chip
+
+- https://www.theinformation.com/articles/amazon-steps-up-silicon-ambitions-with-new-networking-chip
+
 ### Resistors
 
 - [Realizing a Non-Standard Resistance Value](https://twitter.com/TheJoeBamberg/status/1362129411928039425)
