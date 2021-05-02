@@ -2,7 +2,7 @@
 
 - https://www.redpenreviews.org/reviews/eat-right-4-your-type-the-individualized-blood-type-diet-solution
 
-### Books
+### Book
 
 - [The Disease Delusion: Conquering the Causes of Chronic Illness for a Healthier, Longer, and Happier Life - Jeffrey Bland](https://www.amazon.com/gp/customer-reviews/R2SC5L9GQGZVXH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0062290738)
 - [Book reviews heart attack stroke prevention weight loss - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xQaTKb5QTizgOHbRFuKVUu)
@@ -12,6 +12,7 @@
 - http://istrosbooks.com/products/books/our-daily-bread-110
 - https://flaviocopes.com/repetive-strain-injury + https://twitter.com/flaviocopes/status/1378999932191977473
 - https://inquisitivebiologist.com/2021/04/06/book-review-how-to-make-a-vaccine-an-essential-guide-for-covid-19-beyond
+
 
 ### Cinema
 
@@ -158,6 +159,7 @@
 ### Alcohol
 
 - https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened + https://news.ycombinator.com/item?id=25887200
+- [Uncorking the Past The Quest for Wine, Beer, and Other Alcoholic Beverages |  Patrick E. McGovern](https://www.ucpress.edu/book.php?isbn=9780520267985)
 
 ### Tea
 
