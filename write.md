@@ -31,3 +31,8 @@
 - https://medium.com/hackernoon/how-to-solve-programmers-block-18363c040656
 - https://mundyreimer.github.io/blog/representation-notation-thought
 - https://studyhall.xyz/the-art-of-writing-obituaries-during-a-plague
+
+
+### Radio
+
+- https://blacusens.ro/2021/04/marian-coman-trebuie-sa-pleci-la-drum-fara-asteptari-zest-54

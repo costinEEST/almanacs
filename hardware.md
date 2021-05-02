@@ -55,6 +55,7 @@
 ### Chip
 
 - https://www.theinformation.com/articles/amazon-steps-up-silicon-ambitions-with-new-networking-chip
+- [Want cliff notes on the chip shortage?](https://twitter.com/_MG_/status/1388321639524229120)
 
 ### Resistors
 
@@ -109,3 +110,7 @@
 - [Hardware, and someday firmware, for acoustic piano to MIDI controller conversion.](https://github.com/jkominek/piano-conversion)
 - [How do scanning tunneling microscopes work?](https://futureofmatter.com/stm.html)
 - [Resistor calculator (series and parallel)](https://www.qsl.net/in3otd/parallr.html)
+
+### History
+
+- http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1964_09-10.pdf + https://twitter.com/paulg/status/1376082495041589250

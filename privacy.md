@@ -5,6 +5,7 @@
 
 ### Community
 
+- [Lea Kissner](https://twitter.com/LeaKissner/status/1384539395005448201)
 - [PinePhone User’s Group](https://www.facebook.com/groups/490766952100168)
 
 ### Hardware
@@ -45,6 +46,7 @@
 - https://github.com/vlvagerviwager/protect-your-privacy
 - https://github.com/veeral-patel/how-to-secure-anything
 - https://github.com/nikitavoloboev/privacy-respecting
+- [Large-scale abuse of contact discovery in mobile messengers](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf)
 
 ### Techniques
 
@@ -63,6 +65,7 @@
 - [How the Web Audio API is used for browser fingerprinting](https://fingerprintjs.com/blog/audio-fingerprinting)
 - [Browser Fingerprinting via getClientRects and AudioContext](https://github.com/RobinLinus/ubercookie)
 - https://github.com/anttiviljami/browser-autofill-phishing
+- https://k3tan.com/starting-a-new-digital-identity + https://news.ycombinator.com/item?id=26888067
 
 ### Social media
 

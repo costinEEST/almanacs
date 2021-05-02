@@ -52,6 +52,7 @@
 - https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh
 - https://twitter.com/debelbot/status/1129376538170929152 + https://youtu.be/JcyyeAww2wc
 - https://www.freecodecamp.org/news/game-development-for-beginners-unity-course
+- https://www.polygon.com/interviews/22397934/indie-games-hand-drawn-artists-cozy-grove + https://news.ycombinator.com/item?id=26931084
 
 ### The creators
 

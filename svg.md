@@ -13,7 +13,6 @@
 - [Free quality illustrations customized to your branding](https://2.flexiple.com/scale/all-illustrations)
 - [Twitter SVG Logo](https://gist.github.com/mbostock/3094619)
 - [Browse 300.000+ SVG Vectors and Icons](https://www.svgrepo.com)
-- [Open source emojis for designers, developers and everyone else!](https://github.com/hfg-gmuend/openmoji)
 - https://github.com/alrra/browser-logos
 - [SVG and PNG renders of all countries' flags.](https://github.com/hampusborgos/country-flags)
 - https://storyset.com

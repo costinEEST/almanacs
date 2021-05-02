@@ -1,3 +1,8 @@
+### ARM
+
+- https://github.com/endrazine/wcc/wiki/wsh-with-ARM + https://twitter.com/endrazine/status/764288816123301889
+- [How to be a spooky ARMv8m hardware debugger](https://www.labbott.name/blog/2020/10/07/debugger.html)
+
 ### Books
 
 - https://github.com/mytechnotalent/Reverse-Engineering-Tutorial + https://0xinfection.github.io/reversing

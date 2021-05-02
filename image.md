@@ -6,6 +6,10 @@
 - https://www.singhkays.com/blog/its-time-replace-gifs-with-av1-video
 - [Content-aware image resizer and object remover based on Seam Carving algorithm](https://github.com/trekhleb/js-image-carver)
 
+### Community
+
+- https://www.facebook.com/groups/urbanstreetphotographygroup
+
 ### Formats
 
 - https://www.media.mit.edu/pia/Research/deepview/exif.html

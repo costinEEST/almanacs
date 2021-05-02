@@ -157,6 +157,8 @@
 - [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
 - https://github.com/ejdaly/node-threads-example
 - [How to create full path with node's fs.mkdirSync?](https://stackoverflow.com/a/40686853/1904223)
+- https://simonplend.com/how-does-middleware-work-in-express
+- https://twitter.com/loige/status/1388888755495387137
 
 ### Event loop
 
@@ -182,6 +184,7 @@
 ### async
 
 - https://simonplend.com/are-you-using-promises-and-async-await-safely-in-node-js
+- https://slides.com/lucianomammino/finding-a-lost-song-with-nodejs-and-async-iterators
 
 ### Thread
 
@@ -230,12 +233,15 @@
 - [Check the TLS protocol support of one or more web servers](https://github.com/styfle/tls-check)
 - [Capture website screenshots](https://github.com/sindresorhus/pageres)
 - https://maecapozzi.com/how-to-locally-test-an-npm-package
+- https://github.com/zapolnoch/node-tesseract-ocr
+- [Check your npm module for unused dependencies](https://github.com/depcheck/depcheck)
 
 ### Testing
 
 - https://github.com/doppelganger9/fruit-basket
 - https://engineering.klarna.com/6-lessons-learned-from-optimizing-the-performance-of-a-node-js-service-f163cac20473
 - https://github.com/giltayar/microservices-are-made-for-testing
+- [Build an HTTPS-intercepting JavaScript proxy](https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp)
 
 ### Web servers
 
@@ -308,6 +314,8 @@
 - [Dependency Confusion](https://twitter.com/bradleymeck/status/1359882487674077189) + https://twitter.com/alxbrsn/status/1359852094950436866 + https://twitter.com/alxbrsn/status/1359200840876257287 + https://www.kernelcrypt.com/posts/depedency-confusion-explained + https://github.blog/2021-02-12-avoiding-npm-substitution-attacks
 - https://www.slideshare.net/madhuakula/node-js-reverse-shell
 - [More than 100 security checks for your Node.js API](https://github.com/jesusprubio/strong-node)
+- https://www.acunetix.com/blog/web-security-zone/remote-debuggers-as-an-attack-vector
+- [do a visualisation of the dependencies and vulnerabilities in a nice format using a graph database.](https://javi-dr.medium.com/how-to-create-a-software-bill-of-materials-in-neo4j-5888c0f3c461) + https://github.com/javixeneize/Neo4J_BOM
 
 
 ### Static site generator

@@ -15,6 +15,7 @@
 - https://razvanz.carto.com/me
 - https://github.com/fostulbucuresti/fostulbucuresti.github.io + http://fostulbucuresti.github.io
 - [A simple CLI tool to generate satellite images of a location](https://news.ycombinator.com/item?id=23948672) + https://github.com/plant99/felicette
+- [A new way to make maps with OpenStreetMap](https://protomaps.com/blog/new-way-to-make-maps) + https://news.ycombinator.com/item?id=26918259
 
 ### TV
 

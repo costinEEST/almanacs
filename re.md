@@ -13,6 +13,9 @@
 - https://www.atredis.com/blog/2020/11/4/garmin-forerunner-235-dion-blazakis + https://twitter.com/justdionysus/status/1328749149437747205
 - https://github.com/Yossioren/AttacksonImplementationsCourseBook
 - https://www.bastibl.net/traffic-lights
+- https://standa-note.blogspot.com/2021/04/reverse-engineering-absolute-uefi.html + https://twitter.com/standa_t/status/1381612039219544071
+- [Exploiting Undocumented Hardware Blocks in the LPC55S69](https://oxide.computer/blog/lpc55) + https://twitter.com/openlabbott/status/1388177330577813504 + https://twitter.com/kc8apf/status/1388169336506839045 + https://twitter.com/bcantrill/status/1388181932068929538
+- [New x86 micro-op vulnerability breaks all known Spectre defenses](https://twitter.com/FreeBSDHelp/status/1388280497097252866)
 
 ### Courses
 
@@ -32,6 +35,10 @@
 - https://learning.oreilly.com/library/view/the-ida-pro/9781593273750
 - https://legacy.gitbook.com/book/dhavalkapil/heap-exploitation/details
 - https://guidedhacking.com/threads/game-hacking-fundamentals-the-game-hacking-book.16550 + https://twitter.com/GuidedHacking/status/1388298251070287872
+
+### Community
+
+- [Jonathan Brossard](https://www.slideshare.net/endrazine/presentations)
 
 ### Tools
 

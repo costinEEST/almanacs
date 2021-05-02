@@ -11,6 +11,7 @@
 - [Convert a single markdown file into lectures, slides, and outlines.](https://github.com/bmschmidt/MarkdownLectures)
 - https://github.com/raineorshine/karabiner-config-to-markdown
 - https://github.com/textlint/markdown-to-ast
+- [Create Slideshows with Markdown](https://mark.show) + https://news.ycombinator.com/item?id=26931098
 
 ### References
 

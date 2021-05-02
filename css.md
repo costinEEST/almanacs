@@ -10,6 +10,7 @@
 - https://github.com/argyleink/transition.css
 - [A reference for the render impact of mutating CSS properties.](https://github.com/GoogleChromeLabs/css-triggers)
 - https://shud.in/posts/on-ui-animations
+- https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108
 
 ### Approach
 
@@ -20,6 +21,16 @@
 
 - https://debuggingcss.com
 - https://leanpub.com/css-optimization-basics + https://github.com/j9t/css-optimization-basics
+
+### Cinema
+
+- ["Making Things Better: Redefining the Technical Possibilities of CSS" by Rachel Andrew](https://aneventapart.com/news/post/making-things-better-aea-video)
+- [Know a good "CSS from Scratch" course you can recommend?](https://twitter.com/adamwathan/status/1244795112691060736)
+- https://www.twitch.tv/kevinpowellcss
+- [Apple Music on macOS](https://twitter.com/freetonik/status/1322144670886100992)
+- https://www.liviuvasilescu.ro/blog/ziua-vignelli
+- [Tailwind CSS: From Zero to Production | Tailwind Labs](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
+- https://github.com/tailwindlabs/tailwindcss-from-zero-to-production
 
 ### Color
 
@@ -40,6 +51,7 @@
 - https://www.benbenandblue.com/episodes/2018/4/17/bbb-14-color
 - https://www.sarasoueidan.com/blog/hex-rgb-to-hsl
 - [Color: A Visual History From Newton to Modern Color Matching Guides](https://www.fastcompany.com/90310951/the-secret-history-of-color)
+- [why something is a certain color](https://twitter.com/szeloof/status/1388874206486597648)
 
 
 ### Community
@@ -71,6 +83,7 @@
 - https://www.zachleat.com/web/fluid-images
 - [@scroll-timeline](https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1)
 - https://justmarkup.com/articles/2020-04-15-css-property-in-a-tweet
+- https://noti.st/rachelandrew/VeraEX/understanding-display
 
 ### Selector
 
@@ -83,11 +96,17 @@
 
 ### CSS variables
 
+- https://piccalil.li/tutorial/getting-started-with-css-custom-properties
 - https://increment.com/frontend/a-users-guide-to-css-variables
 - https://www.sarasoueidan.com/blog/style-settings-with-css-variables
 - https://github.com/notoriousb1t/awesome-css-variables
 - [CSS Vars + HSL colors = a powerful color system.](https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables)
 - [Dark mode in 5 minutes, with inverted lightness variables](https://lea.verou.me/2021/03/inverted-lightness-variables)
+
+### Container queries
+
+- https://css.oddbird.net/rwd/query/explainer
+- [Designing With Container Queries](https://www.twitch.tv/videos/998378164)
 
 
 ### CSS grid
@@ -124,6 +143,11 @@
 - https://github.com/alexcican/lab
 - [Full Screen Vertical Scroll Snap](https://codepen.io/tobias_buschor/pen/OJWzXQN)
 - https://github.com/PuruVJ/macos-web + https://twitter.com/leeerob/status/1382422353787817985
+- https://markodenic.com/css-tips
+
+### Media query
+
+- https://polypane.app/blog/overlooked-breakpoints-in-responsive-design
 
 ### Layout
 
@@ -135,6 +159,7 @@
 - [Minimal snippets for modern CSS layouts and components](https://smolcss.dev)
 - [Your cheat sheet for float, clear and defer](https://www.princexml.com/howcome/2021/guides/float/index.html)
 - [Minimal snippets for modern CSS layouts and components](https://github.com/5t3ph/smolcss)
+- https://adrianroselli.com/2021/04/sortable-table-columns.html
 
 ### Tools
 
@@ -154,18 +179,13 @@
 - [What's the best (simple) tool for creating animations?](https://twitter.com/kylemathews/status/1203140798302154752)
 - https://davidwalsh.name/detect-overflow-elements
   
-### Cinema
-
-- ["Making Things Better: Redefining the Technical Possibilities of CSS" by Rachel Andrew](https://aneventapart.com/news/post/making-things-better-aea-video)
-- [Know a good "CSS from Scratch" course you can recommend?](https://twitter.com/adamwathan/status/1244795112691060736)
-- https://www.twitch.tv/kevinpowellcss
-- [Apple Music on macOS](https://twitter.com/freetonik/status/1322144670886100992)
-- https://www.liviuvasilescu.ro/blog/ziua-vignelli
-- [Tailwind CSS: From Zero to Production | Tailwind Labs](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
-- https://github.com/tailwindlabs/tailwindcss-from-zero-to-production
 
 ### Security
 
 - http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-09-http-covert-channel-using-only-htmlcss-thomas-slota-william-york
+
+### Opinion
+
+- https://wiki.csswg.org/ideas/mistakes
 
 

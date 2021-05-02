@@ -12,7 +12,7 @@
 - http://istrosbooks.com/products/books/our-daily-bread-110
 - https://flaviocopes.com/repetive-strain-injury + https://twitter.com/flaviocopes/status/1378999932191977473
 - https://inquisitivebiologist.com/2021/04/06/book-review-how-to-make-a-vaccine-an-essential-guide-for-covid-19-beyond
-
+- https://inquisitivebiologist.com/2021/04/20/book-review-we-know-it-when-we-see-it-what-the-neurobiology-of-vision-tells-us-about-how-we-think
 
 ### Cinema
 

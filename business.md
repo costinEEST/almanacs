@@ -19,6 +19,7 @@
 - https://github.com/watson/awesome-computer-history + https://dave.cheney.net/category/internets-of-interest + https://dave.cheney.net/category/history
 - [Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Customers](https://www.amazon.com/Hidden-Plain-Sight-Extraordinary-Tomorrows/dp/0062125699)
 - [A curriculum developed around the television series, Halt and Catch Fire (2014-2017), a fictional narrative about people working in tech during the 1980s-1990s.](https://github.com/ablwr/halt-and-catch-fire-syllabus)
+- https://inquisitivebiologist.com/2021/04/14/book-review-the-european-guilds-an-economic-analysis
 
 ### Cinema
 
@@ -129,6 +130,8 @@
 - https://github.com/KrishMunot/awesome-startup
 - [A list of startups that have employee-friendly terms for exercising your options past 90 days.](https://github.com/holman/extended-exercise-windows)
 - [tired of dunking on Parler](https://twitter.com/sarahmei/status/1348466213987315712)
+- https://business-review.eu/news/the-story-of-uipath-how-it-became-romanias-first-unicorn-164248
+- https://www.johnnunemaker.com/speakerdeck
 
 ### Investing
 

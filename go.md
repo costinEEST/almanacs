@@ -104,6 +104,7 @@
 - https://fettblog.eu/learning-rust-and-go
 - https://thenewstack.io/rust-vs-go-why-theyre-better-together
 - [Asynchronous programming: callback -> promise/async/await -> fibres/coroutines](https://twitter.com/doubaokun/status/1380570950924652548)
+- [Is Learning GO worth It if you know Node.js?](https://news.ycombinator.com/item?id=26939626)
 
 ### Security
 

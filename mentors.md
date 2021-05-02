@@ -12,6 +12,17 @@
 - [ACM A.M. Turing Award](https://www.youtube.com/user/TheOfficialACM/playlists?view=50&sort=dd&shelf_id=2)
 - https://twitter.com/phalpern/status/1373003682124607492
 
+### Daniel Kaminsky
+
+- https://twitter.com/dakami/status/1213734316712161280
+- https://twitter.com/Riana_Crypto/status/1385995103517372417
+- https://twitter.com/marcwrogers/status/1385961838735597572 + https://news.ycombinator.com/item?id=26925044
+- https://securityconversations.com/remembering-dan-kaminsky-1979-2021
+- https://www.nytimes.com/2021/04/27/technology/daniel-kaminsky-dead.html
+- https://www.seattletimes.com/nation-world/daniel-kaminsky-internet-security-savior-dies-at-42
+- https://www.theregister.com/2021/04/25/dan_kaminsky_obituary
+- https://duo.com/decipher/hacker-history-how-dan-kaminsky-almost-broke-the-internet
+
 ### Daniel Zărnescu
 
 - https://www.cristinachipurici.ro/2020/10/15/daniel-zarnescu-cristina-chipurici-podcast

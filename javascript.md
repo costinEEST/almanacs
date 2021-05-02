@@ -77,6 +77,7 @@
 - https://lucasfcosta.com/talks/2019-09-20-A-Fun-Introduction-To-Lambda-Calculus.html + https://twitter.com/prathyvsh/status/1188787773441888257
 - https://github.com/hemanth/functional-programming-jargon
 - https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+- [Proxies are the closest thing JavaScript has to a Macro.](https://twitter.com/rauchg/status/1388231666771001346) + https://github.com/justjavac/proxy-www + https://vimeo.com/364362111 + https://gist.github.com/davidsharp/9184a2e501f5e6704717031bb4951312
 
 ### TIL
 
@@ -106,6 +107,7 @@
 - https://github.com/sadanandpai/javascript-code-challenges
 - https://ui.dev/creating-your-own-array + https://twitter.com/jcubic/status/1342179006683209728
 - [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
+- [a valid IPv6 address and a syntactically valid JavaScript program that runs to completion](https://twitter.com/mathias/status/1138770431681449984)
 
 ### Books
 
@@ -483,6 +485,8 @@
 - https://github.com/RunDevelopment/eslint-plugin-clean-regex
 - https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts
 - [Tool for decrypting stack traces coming from the minified JS code.](https://github.com/software-mansion-labs/stack-beautifier)
+- [Convert an object's keys to snake case](https://github.com/bendrucker/snakecase-keys)
+- https://glebbahmutov.com/blog/npm-tips-and-trics
 
 ### Documentation
 

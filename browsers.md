@@ -165,6 +165,7 @@
 - [WebExtension that adds ability search all your bookmarked tweets!](https://github.com/flybayer/twitter-bookmarks-search)
 - [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 - https://charliegerard.dev/project/dark-mode-clap-extension
+- https://parsiya.net/blog/2021-04-30-testing-extensions-in-chromium-browsers-nordpass + https://twitter.com/CryptoGangsta/status/1388253367395225602
 
 ### Bookmarklets
 
@@ -328,6 +329,8 @@ javascript: (() =>
 - https://www.davrous.com/2020/03/20/frame-variable-refresh-rates-or-why-tesla-is-responsible-for-the-60-fps-war
 - https://ethanmarcotte.com/wrote/au-revoir-mon-ampmour
 - [A Node.js command line tool that crawls a domain and gathers lighthouse performance data for every page.](https://github.com/cloudfour/lighthouse-parade)
+- [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls)
+- https://webvitals.dev/cls
 
 ### Miscellaneous
 

@@ -38,6 +38,7 @@
 - [Unikernels and Virtual Machines - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf0dMrMDrq7VT1GwHCib9Sc0)
 - https://github.com/danbev/learning-linux-kernel
 - https://github.com/cirosantilli/arm-assembly-cheat
+- https://www.labbott.name/blog/2017/11/15/some-reading
 
 ### Radio
 

@@ -1,3 +1,7 @@
+### Book
+
+- [The Melodramatic Imagination: Balzac, Henry James, Melodrama, and the Mode of Excess | Peter Brooks](https://www.amazon.com/Melodramatic-Imagination-Balzac-Melodrama-Excess/dp/0300065531)
+
 #### Community
 
 - https://academyofideas.com/books/#propaganda-and-brainwashing
@@ -38,6 +42,6 @@
 - [Tomas Laurinavicius](https://tomaslau.com/books)
 - [Steph Smith](https://stephsmith.io/books)
 - [Ramón Morcillo](https://github.com/reymon359/book-sentences)
-- https://matthewstrom.com/reading
+- [Matthew Ström](https://matthewstrom.com/reading)
 - [Maggie Appleton](https://maggieappleton.com/library)
 - [Paramdeo Singh](https://paramdeo.com/bookshelf)

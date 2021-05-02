@@ -32,6 +32,7 @@
 - https://www.taylorbell.com/txt/code/ffmpeg-video-trimming
 - https://github.com/cyburgee/ffmpeg-guide
 - https://thesquareplanet.com/blog/livestream-tips
+- [the best way to make video-PoCs](https://threadit.app) + https://twitter.com/sirdarckcat/status/1388611387556044800
 
 ### Opinions
 

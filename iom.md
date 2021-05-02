@@ -180,12 +180,13 @@
 - https://github.com/saleemrashid/do-i-need-a-blockchain
 - https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain
 
-### Opinions
+### Opinion
 
 - https://www.ribbonfarm.com/2017/10/10/the-blockchain-man
 - [@stephsmithio's great writeup on the merits of BitClout](https://twitter.com/nateliason/status/1378022491923304453)
 - [what will be the relationship between tokens and communities?](https://twitter.com/dazuck/status/1380157939433009159)
 - https://twitter.com/wlazar/status/1380935750150090756 + https://www.preethikasireddy.com/post/will-helium-finally-make-iot-a-reality
+- https://leung-btc.medium.com/len-sassaman-and-satoshi-e483c85c2b10
 
 ### Radio
 

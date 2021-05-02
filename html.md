@@ -189,3 +189,5 @@
 - https://gosecure.github.io/presentations/2020-05-unicode-northsec/unicode_v3_northsec.pdf + https://twitter.com/Agarri_FR/status/1264295901834752001
 - https://vladris.com/blog/2018/11/18/notes-on-encoding-text.html
 - https://cormullion.github.io/pages/2020-10-09-asterisk
+- https://tonsky.me/blog/emoji
+- [Open source emojis for designers, developers and everyone else!](https://github.com/hfg-gmuend/openmoji)

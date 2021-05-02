@@ -14,6 +14,7 @@
 - https://www.youtube.com/c/MeatEaterTV/playlists
 - https://www.tiktok.com/@texasbeeworks
 - https://www.ias.ac.in/Publications/e-Books/Experiments_in_Animal_Behaviour + https://twitter.com/RichardDawkins/status/1375426769780609027
+- [Fishing App and Fishing Tools | Fishbrain](https://fishbrain.com)
 
 ### Anatomy
 
@@ -77,3 +78,5 @@
 - https://www.amazon.com/Lithium-Doctor-Breakthrough-Walter-Brown/dp/1631491997 + https://twitter.com/curiouswavefn/status/1378034347479986176
 - [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory](https://www.amazon.com/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861)
 - https://www.youtube.com/c/DoodlesintheMembrane/playlists + https://twitter.com/in_doodles
+- https://inquisitivebiologist.com/2021/04/29/book-review-the-rare-metals-war-the-dark-side-of-clean-energy-and-digital-technologies
+- https://inquisitivebiologist.com/2021/04/29/book-review-the-elements-of-power-gadgets-guns-and-the-struggle-for-a-sustainable-future-in-the-rare-metal-age

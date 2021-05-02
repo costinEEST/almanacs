@@ -12,6 +12,7 @@
 - https://www.supermemo.com/en/archives1990-2015/articles/20rules
 - https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn + https://news.ycombinator.com/item?id=23492358
 - https://gduverger.com/email-your-memory
+- [How do you organize your knowledge?](https://news.ycombinator.com/item?id=26935838)
 
 
 ### Tool
@@ -27,6 +28,10 @@
 - https://github.com/everruler12/roam2github
 - https://mundyreimer.github.io/resources
 - https://vaclavkosar.com/productivity/Quizrecall-Learn-any-text-with-automatically-generated-quiz
+
+### Theory
+
+- https://en.wikipedia.org/wiki/Semantic_satiation + https://news.ycombinator.com/item?id=26915742
 
 ### Radio
 

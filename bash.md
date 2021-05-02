@@ -48,6 +48,8 @@
 - https://github.com/stefanjudis/extract-media + https://twitter.com/mathias/status/1332251741602111488
 - [Shell script downloading videos embedded in tweets](https://gist.github.com/ngregoire/43891d80fde3c6cbb1a52a5a6468fe41)
 - [Pure bash script to test and wait on the availability of a TCP host and port](https://github.com/vishnubob/wait-for-it)
+- [Deploy a reverse login shell with a single command (fully automated) - and access the shell remotely - encrypted - and via TOR if you like.](https://www.gsocket.io/deploy)
+- [ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
 
 ### References
 
@@ -62,3 +64,5 @@
 - https://lucasfcosta.com/2019/04/07/streams-introduction.html
 - https://github.com/rothgar/mastering-zsh
 - https://github.com/NARKOZ/hacker-scripts
+- https://lobste.rs/s/bsv2yp/do_you_use_nodejs_for_scripting_instead
+- https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html + https://news.ycombinator.com/item?id=26899531

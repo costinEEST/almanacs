@@ -11,20 +11,6 @@
 - https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box
 - https://www.openculture.com/the-elements-of-drawing-a-free-course-from-oxford
 
-### Miscellaneous
-
-- [Is it possible to write a lecture in real time on an iPad?](https://twitter.com/math3ma/status/1237510003856003072)
-- https://www.youtube.com/user/marcobucci/playlists
-- https://www.youtube.com/user/ProkoTV/playlists + https://www.proko.com/library/#.XhkJciOxVPa
-- [Team Bradley](https://www.youtube.com/channel/UCYu89Q_krburzkoDSpm5xjw)
-- https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock
-- [ScribbleX – Create some art with friends.](https://scribblex.com)
-- https://store.steampowered.com/app/442070/Drawful_2
-- http://www.openculture.com/2020/02/old-book-illustrations-download.html
-- https://eclecticlight.co/painting-topics
-- https://twitter.com/visual_linguist/status/1373665959790190611 + http://www.thevisuallinguist.com/2021/03/from-learning-to-draw-to-acquiring.html
-- [a thread why everything you know about learning to draw is wrong](https://twitter.com/visual_linguist/status/1373665959790190611)
-
 ### Comics
 
 - https://www.cat-animation.com/resources
@@ -38,3 +24,19 @@
 - https://procreate.art
 - https://www.skillshare.com/classes/Watercolor-and-Glitter-Magic-in-Procreate-Combine-Paint-and-Photo-Texture/2019344916
 - https://witeboard.com
+- https://artvsentropy.wordpress.com/2021/04/26/igeneration-interview
+- [What diagrams do you use in software development?](https://news.ycombinator.com/item?id=26940593)
+
+### Miscellaneous
+
+- [Is it possible to write a lecture in real time on an iPad?](https://twitter.com/math3ma/status/1237510003856003072)
+- https://www.youtube.com/user/marcobucci/playlists
+- https://www.youtube.com/user/ProkoTV/playlists + https://www.proko.com/library/#.XhkJciOxVPa
+- [Team Bradley](https://www.youtube.com/channel/UCYu89Q_krburzkoDSpm5xjw)
+- https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock
+- [ScribbleX – Create some art with friends.](https://scribblex.com)
+- https://store.steampowered.com/app/442070/Drawful_2
+- http://www.openculture.com/2020/02/old-book-illustrations-download.html
+- https://eclecticlight.co/painting-topics
+- https://twitter.com/visual_linguist/status/1373665959790190611 + http://www.thevisuallinguist.com/2021/03/from-learning-to-draw-to-acquiring.html
+- [a thread why everything you know about learning to draw is wrong](https://twitter.com/visual_linguist/status/1373665959790190611)

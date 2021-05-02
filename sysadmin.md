@@ -47,6 +47,8 @@
 - [A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3](https://github.com/dockersamples/docker-swarm-visualizer)
 - https://github.com/prakhar1989/docker-curriculum
 - [A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)
+- https://medium.com/miro-engineering/a-practical-guide-to-writing-secure-dockerfiles-bf561224dd80
+- https://ricardoanderegg.com/posts/git-push-deployments-docker-tags + https://news.ycombinator.com/item?id=26935725
 
 ### Kubernetes
 
