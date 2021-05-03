@@ -52,6 +52,7 @@
 - [Why Bedrock uses Prisma as its ORM](https://bedrock.mxstbr.com/tools/prisma)
 - https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30
 - https://dev.to/noclat/build-a-full-api-with-next-js-1ke
+- [Coding a YouTube Descriptions Updater | Devon Crawford](https://www.youtube.com/playlist?list=PLhsehOUFGYaV1ontAkXqax-U9hdWrwZVS)
 
 ### Book
 

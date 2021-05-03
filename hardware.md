@@ -51,6 +51,7 @@
 - [Proiectarea cu Microprocesoare](https://ocw.cs.pub.ro/courses/pm)
 - [Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y)
 - [32 bit RISC-V homemade CPU out of discrete components](https://hackaday.io/project/178826-pineapple-one) + https://twitter.com/ten_filip/status/1377657517707296774
+- [CS 6501: Hardware Security](http://www.cs.virginia.edu/~av6ds/classes/cs6501/fa20)
 
 ### Chip
 
@@ -96,6 +97,7 @@
 - https://dave.cheney.net/category/hardware-hacking
 - [VoltJockey: Breaching TrustZone by Software-Controlled Voltage Manipulation over Multi-core Frequencies](https://dl.acm.org/doi/10.1145/3319535.3354201) + http://web.archive.org/web/20201027140618/http://voltjockey.com
 - https://github.com/LowLevelJavaScript/Learning-Resources
+- [GoodWatch](https://twitter.com/travisgoodspeed/status/940263089982902272)
 
 ### Radio
 

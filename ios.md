@@ -11,6 +11,10 @@
 - https://mobilityarena.com/ios-apps-are-larger-than-android-apps
 - [SwissCovid is the official contact tracing app of Switzerland.](https://github.com/DP-3T/dp3t-app-ios-ch)
 
+### Cinema
+
+- https://www.youtube.com/c/fce365official/playlists
+
 ### Hardware
 
 - [How I built two iPhone 6S's from parts for $80 each](https://twitter.com/hackerfantastic/status/1211088686802096128)
@@ -22,7 +26,7 @@
 - [music app for iPad](https://github.com/Morpheu5/SecondStudy-iPad)
 - https://github.com/EvanBacon/cocoapods-xcode10-tutorial
 
-### Reverse engineering
+### Security
 
 -  Tales of old: untethering iOS 11: https://twitter.com/hackerfantastic/status/1210985589685678080 + https://twitter.com/xerub/status/1210917374083375104
 -  https://twitter.com/GestureState/status/1315572167199817729 + https://abjurato.github.io/stories/kindleEbooks.html

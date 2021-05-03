@@ -14,6 +14,7 @@
 - [Pointers on C by Kenneth Reek](https://twitter.com/EigenPuff/status/1376223216310444037)
 - [What should a systems/low-level software engineer know?](https://news.ycombinator.com/item?id=18881649)
 - [Markdown source for Michael Abrash's Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book)
+- [Has anyone had experience with these books on learning C?](https://twitter.com/alicegoldfuss/status/947330656089944064)
 
 ### Cinema
 
@@ -26,6 +27,7 @@
 - [FreeDOS programming](https://www.youtube.com/playlist?list=PLzuACU-W7Omo3VEnMKuM0IPupdOHFDzL3) + https://www.freedos.org/books/cprogramming
 - [OpenGL Screencasts and Tutorials - David Parker](https://www.youtube.com/playlist?list=PL2330214740B33712) + https://www.programmingtil.com/topics/opengl
 - [Quantifying Memory Unsafety and Reactions to It](https://www.usenix.org/conference/enigma2021/presentation/gaynor)
+- https://github.com/DevonCrawford/Video-Editing-Automation + https://www.youtube.com/playlist?list=PLhsehOUFGYaV3tJaEuWOeN1SI7eUEs7la
 
 ### Articles
 

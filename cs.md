@@ -23,6 +23,7 @@
 
 ### Cinema
 
+- https://github.com/emschwartz/awesome-recurse
 - [GOTO 2016 • Pure Functional Programming in Excel • Felienne Hermans](https://youtu.be/0yKf8TrLUOw)
 - [Best Talks of 2019?](https://news.ycombinator.com/item?id=21858866)
 - https://www.youtube.com/user/mycodeschool/playlists
@@ -77,8 +78,9 @@
 - [main thread IO](https://mikeconley.ca/blog/2019/05/16/a-few-words-on-main-thread-disk-access-for-general-audiences)
 - https://increment.com/software-architecture/primer-on-functional-architecture
 
-### Interviews
+### Interview
 
+- https://www.youtube.com/c/NickWhite/playlists
 - https://www.seancassidy.me/whats-the-length-of-shortest-bit-sequence-thats-never-been-sent-over-the-internet.html
 - https://thesquareplanet.com/blog/how-the-internet-works
 - https://github.com/Developer-Y/technical-interviews
@@ -92,6 +94,7 @@
 
 ### Practice
 
+- https://jeffzh4ng.com/essays/thoughts-on-teachyourselfcs.html
 - [A collaborative book on algorithms](https://github.com/algorithm-archivists/algorithm-archive)
 - [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 - https://github.com/danistefanovic/build-your-own-x + https://github.com/tuvtran/project-based-learning + https://github.com/AlgoryL/Projects-from-Scratch + ["Write your own" or "Build your own" software projects](https://news.ycombinator.com/item?id=16591918) + [What are some books where the reader learns by building projects?](https://news.ycombinator.com/item?id=22299180)

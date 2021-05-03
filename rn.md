@@ -124,3 +124,4 @@
 - [Netflix UI Clone with React Native & Expo || web support](https://github.com/calebnance/expo-netflix)
 - [Unofficial Clubhouse client, Supports Android & IOS, Written in React Native.](https://github.com/arnnis/Clubreact)
 - [A Slack client with WhatsApp like UI](https://github.com/arnnis/sup)
+- [Fullstack Twitter 🐦 clone](https://github.com/jeffzh4ng/fwitter)
