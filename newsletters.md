@@ -39,6 +39,10 @@
 - [Prietenii Editurii Rabten](https://us9.campaign-archive.com/home/?u=631f68b23c06eceac05035aff&id=194eb176a7)
 - [Dunhuang Foundation](https://us10.campaign-archive.com/home/?u=069b842b10e7ad40bfba99e7f&id=c2f585d33a)
 
+### Judaism
+
+- [Jewish Studies Weekly](https://us13.campaign-archive.com/home/?u=f000ad8783f4985c05ec1a11c&id=df05eee35a)
+
 ### Biology
 
 - https://csvoss.substack.com/archive
@@ -70,6 +74,7 @@
 - [Unchained Podcast](https://us19.campaign-archive.com/home/?u=0085a41334b3edf854fd51f9b&id=027df1b806)
 - [Julien Klepatch](https://us15.campaign-archive.com/home/?u=2f01eeef2bea88629b369b507&id=b8c2661966)
 - https://thecryptoinsider.substack.com
+- [Modern Fi LLC](https://us12.campaign-archive.com/home/?u=63d79e017888d9e2fed9be2aa&id=0ff34cd8d2)
 
 ### Design
 

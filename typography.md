@@ -25,6 +25,7 @@
 
 ### Tools
 
+- https://www.fontshare.com
 - [Choose the font for your design](https://fontflipper.com)
 - [Highly customizable and minimal font previewer written in bash.](https://github.com/sdushantha/fontpreview)
 - [A simple website which uses Typefont library to match the font of an image.](https://github.com/dcorvasce/typefont-matcher)

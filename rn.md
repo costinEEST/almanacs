@@ -1,3 +1,23 @@
+### Applications
+
+- https://github.com/sonnylazuardi/react-native-nike-running
+- [start building apps ..](https://twitter.com/danituits/status/1217950948976463872)
+- [Building together.fit 🚧🔨💪](https://youtu.be/-_KIwWvFbHc) + https://ethan.link/blog/the-start-of-together-fit
+- [A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android](https://github.com/Flaque/quirk)
+- https://medium.com/sanctuary-computer-inc/building-lightos-with-react-native-4b6e4ad1cd7f
+- https://github.com/victorkvarghese/react-native-messenger
+- https://github.com/wcandillon/can-it-be-done-in-react-native
+- [Full stack & cross platform app customizable & themeable for any event or conference.](https://github.com/dabit3/conference-app-in-a-box)
+- [A React Native module to interact with Apple Healthkit and Google Fit.](https://github.com/OvalMoney/react-native-fitness)
+- https://github.com/kafkas/coronamap
+- https://github.com/MohGovIL/hamagen-react-native
+- [tiny english dictionary for android and ios](https://github.com/dongyuwei/tiny_english_dictionary)
+- [Netflix UI Clone with React Native & Expo || web support](https://github.com/calebnance/expo-netflix)
+- [Unofficial Clubhouse client, Supports Android & IOS, Written in React Native.](https://github.com/arnnis/Clubreact)
+- [A Slack client with WhatsApp like UI](https://github.com/arnnis/sup)
+- [Fullstack Twitter 🐦 clone](https://github.com/jeffzh4ng/fwitter)
+- https://github.com/The-Assembly/Build-a-Restaurant-App-with-React-Native
+
 ### Cinema
 
 - https://github.com/tiaanduplessis/awesome-react-native-talks
@@ -32,6 +52,7 @@
 - [Analyse your React Native bundle in 1 command ](https://github.com/JonnyBurger/npx-visualize-bundle)
 - [How can I read an android config from build gradle from the js?](https://github.com/ismaeldcom/react-native-build-config)
 - [https://figma-to-react.vercel.app](https://twitter.com/tomsoderlund/status/1375826499438264324)
+- https://medium.com/react-native-school/navigating-xcode-for-react-native-developers-with-a-web-background-a1ee4d6ae4a8
 
 ### Testing
 
@@ -73,6 +94,7 @@
 - https://github.com/filipemerker/flatlist-performance-tips
 - https://github.com/fangwei716/30-days-of-react-native
 - https://around25.com/blog/handling-offline-mode-in-react-native
+- https://medium.com/@IbanDasca/coding-a-react-native-app-from-an-ipad-using-a-remote-work-station-314c1a500092
 
 ### Packages
 
@@ -106,22 +128,6 @@
 - https://blog.crowdbotics.com/react-native-performance-do-and-dont
 - https://blog.inkdrop.info/how-i-improved-my-react-native-app-50x-faster-13d566061e84
 - https://www.infoq.com/news/2021/03/react-native-064-hermes
+- https://aditya01.hashnode.dev/how-to-make-your-react-native-app-more-performant
 
-### Applications
 
-- https://github.com/sonnylazuardi/react-native-nike-running
-- [start building apps ..](https://twitter.com/danituits/status/1217950948976463872)
-- [Building together.fit 🚧🔨💪](https://youtu.be/-_KIwWvFbHc) + https://ethan.link/blog/the-start-of-together-fit
-- [A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android](https://github.com/Flaque/quirk)
-- https://medium.com/sanctuary-computer-inc/building-lightos-with-react-native-4b6e4ad1cd7f
-- https://github.com/victorkvarghese/react-native-messenger
-- https://github.com/wcandillon/can-it-be-done-in-react-native
-- [Full stack & cross platform app customizable & themeable for any event or conference.](https://github.com/dabit3/conference-app-in-a-box)
-- [A React Native module to interact with Apple Healthkit and Google Fit.](https://github.com/OvalMoney/react-native-fitness)
-- https://github.com/kafkas/coronamap
-- https://github.com/MohGovIL/hamagen-react-native
-- [tiny english dictionary for android and ios](https://github.com/dongyuwei/tiny_english_dictionary)
-- [Netflix UI Clone with React Native & Expo || web support](https://github.com/calebnance/expo-netflix)
-- [Unofficial Clubhouse client, Supports Android & IOS, Written in React Native.](https://github.com/arnnis/Clubreact)
-- [A Slack client with WhatsApp like UI](https://github.com/arnnis/sup)
-- [Fullstack Twitter 🐦 clone](https://github.com/jeffzh4ng/fwitter)

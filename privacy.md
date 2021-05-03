@@ -6,6 +6,7 @@
 ### Community
 
 - [Lea Kissner](https://twitter.com/LeaKissner/status/1384539395005448201)
+- [Güneş Acar](https://gunesacar.net)
 - [PinePhone User’s Group](https://www.facebook.com/groups/490766952100168)
 
 ### Hardware
@@ -66,6 +67,7 @@
 - [Browser Fingerprinting via getClientRects and AudioContext](https://github.com/RobinLinus/ubercookie)
 - https://github.com/anttiviljami/browser-autofill-phishing
 - https://k3tan.com/starting-a-new-digital-identity + https://news.ycombinator.com/item?id=26888067
+- [HOW TO WHITELIST OUR EMAIL](https://drmowll.lpages.co/de-whitelist)
 
 ### Social media
 

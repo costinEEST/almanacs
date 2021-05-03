@@ -27,6 +27,7 @@
 
 - https://www.ezoic.com/how-fast-wordpress-site-ads-leap
 - https://mikejolley.com/2021/03/02/headless-wordpress-cookie-based-login-using-graphql
+- https://learnetto.com/tutorials/how-to-use-headless-wordpress-with-next-js-and-graphql
 
 
 ### Opinion

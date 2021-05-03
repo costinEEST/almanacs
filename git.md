@@ -65,6 +65,7 @@
 - https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html
 - https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-packages-with-GitHub-Actions
 - https://hibbard.eu/tweet-javascript-github-action
+- https://dotfiles.github.io/inspiration
 
 ### Tools
 

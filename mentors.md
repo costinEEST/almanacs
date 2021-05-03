@@ -22,6 +22,7 @@
 - https://www.seattletimes.com/nation-world/daniel-kaminsky-internet-security-savior-dies-at-42
 - https://www.theregister.com/2021/04/25/dan_kaminsky_obituary
 - https://duo.com/decipher/hacker-history-how-dan-kaminsky-almost-broke-the-internet
+- https://www.facebook.com/dragosr/posts/10157757325730588
 
 ### Daniel Zărnescu
 

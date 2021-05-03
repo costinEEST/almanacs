@@ -16,6 +16,7 @@
 - https://www.cat-animation.com/resources
 - https://adevarul.ro/cultura/arte/portret-bedefil-adrian-cioroianu-fan-bd-state-vechi-1_5266158ec7b855ff5665c2d1/index.html
 - https://adevarul.ro/cultura/arte/portret-bedefil-profesorul-ion-manolescu-umberto-eco-benzii-desenate-romanesti-1_52ca8a94c7b855ff563fc332/index.html
+- [I get to draw birds!](https://twitter.com/hootalex/status/1364594215875969028)
 
 
 ### Tool
