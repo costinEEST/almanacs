@@ -52,6 +52,7 @@
 - https://www.classicfm.com/discover-music/why-is-a-cd-74-minutes
 - https://www.beatportal.com/features/beatports-definitive-guide-to-techno
 - https://daily.jstor.org/the-heretical-origins-of-the-sonnet
+- https://www.beatportal.com/features/beatports-definitive-guide-to-techno + https://news.ycombinator.com/item?id=26977869
 
 ### Songs
 

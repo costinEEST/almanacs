@@ -17,6 +17,7 @@
 - [A Slack client with WhatsApp like UI](https://github.com/arnnis/sup)
 - [Fullstack Twitter 🐦 clone](https://github.com/jeffzh4ng/fwitter)
 - https://github.com/The-Assembly/Build-a-Restaurant-App-with-React-Native
+- https://medium.com/geekculture/10-apps-that-use-react-native-debeef2114ff
 
 ### Cinema
 
@@ -25,6 +26,7 @@
 - https://blog.bam.tech/developer-news/what-to-watch-react-native-europe-2020
 - https://www.reactnativeradio.com/episodes/177-challenges-of-building-rn-apps-in-ios-vs-android
 - [Learn how to build the beginnings of a Minecraft clone using Expo and React Native.](https://www.youtube.com/playlist?list=PLY1aWv2j4oDEQVEcd6a8LswmmxJS_Az9e)
+- [How To Animated |  evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6)
 
 ### Course
 
@@ -95,6 +97,8 @@
 - https://github.com/fangwei716/30-days-of-react-native
 - https://around25.com/blog/handling-offline-mode-in-react-native
 - https://medium.com/@IbanDasca/coding-a-react-native-app-from-an-ipad-using-a-remote-work-station-314c1a500092
+- https://github.com/vickOnRails/react-native-casestudies
+- https://johnwcassidy.medium.com/the-architecture-of-good-user-flow-6d658c6e3111
 
 ### Packages
 
@@ -118,6 +122,8 @@
 - [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://www.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)
 - https://blog.assetnote.io/bug-bounty/2020/02/01/expanding-attack-surface-react-native + https://twitter.com/infosec_au/status/1223900898889355264
 - https://github.com/IjzerenHein/react-native-bundle-visualizer
+- https://medium.com/game-development-stuff/how-to-profile-debug-ios-and-android-react-native-projects-db2141980072
+- https://www.instamobile.io/react-native-tutorials/full-clean-react-native-project
 
 ### Performance
 
@@ -129,5 +135,6 @@
 - https://blog.inkdrop.info/how-i-improved-my-react-native-app-50x-faster-13d566061e84
 - https://www.infoq.com/news/2021/03/react-native-064-hermes
 - https://aditya01.hashnode.dev/how-to-make-your-react-native-app-more-performant
+- https://callstack.com/blog/hermes-performance-on-ios
 
 

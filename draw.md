@@ -27,6 +27,7 @@
 - https://witeboard.com
 - https://artvsentropy.wordpress.com/2021/04/26/igeneration-interview
 - [What diagrams do you use in software development?](https://news.ycombinator.com/item?id=26940593)
+- https://blog.excalidraw.com/introducing-excalidraw-plus + https://news.ycombinator.com/item?id=27034119
 
 ### Miscellaneous
 

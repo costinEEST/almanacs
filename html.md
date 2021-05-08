@@ -57,6 +57,8 @@
 - https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html
 - https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren
 - https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality
+- https://www.prnewswire.com/news-releases/wix-launches-first-of-its-kind-accessibility-tool-to-help-make-the-web-accessible-for-everyone-301282874.html
+- [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable)
 
 
 ### <button></button>
@@ -78,6 +80,7 @@
 - [A list of everything that *could* go in the head of your document](https://github.com/joshbuchea/HEAD)
 - https://github.com/audreyfeldroy/favicon-cheat-sheet
 - https://www.matuzo.at/blog/html-boilerplate
+- https://koddsson.com/posts/emoji-favicon
 
 ### <meta />
 
@@ -139,6 +142,7 @@
 - [Easy to use share buttons that load fast and don't track you](https://github.com/RobinLinus/share-the-love)
 - https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools
 - https://github.com/damianfrizzi/fetoolkit
+- https://www.tpgi.com/seeing-the-wood-for-the-trees-demystifying-markup-in-2021
 
 ### TV
 
@@ -177,6 +181,7 @@
 - https://www.compart.com/en/unicode
 - [Query the Unicode database from the command line, with good support for emojis](https://github.com/arp242/uni)
 - [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
+- [Make emoji searchable with this keyword library.](https://github.com/muan/emojilib)
 - [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
 - https://twitter.com/clagnut/status/1222148873218658304
 - https://github.com/dannyfritz/commit-message-emoji
