@@ -86,6 +86,7 @@
 - [Nim](nim.md)
 - [Node](node.md)
 - [Objective-C](objective-c.md)
+- [OCaml](ocaml.md)
 - [Penetration testing](pentest.md)
 - [Perl](perl.md)
 - [Philosophy](philosophy.md)

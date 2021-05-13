@@ -2,6 +2,10 @@
 
 - https://github.com/endrazine/wcc/wiki/wsh-with-ARM + https://twitter.com/endrazine/status/764288816123301889
 - [How to be a spooky ARMv8m hardware debugger](https://www.labbott.name/blog/2020/10/07/debugger.html)
+- https://blog.randallhyde.com/index.php/2021/03/14/the-imac-pro-m1
+- https://gumroad.com/l/Arm-cheatsheet-2020-version
+- https://www.androidauthority.com/arm-vs-x86-key-differences-explained-568718
+- https://levelup.gitconnected.com/intel-x86-vs-arm-architecture-and-all-key-differences-explained-fb54a04788dc
 
 ### Book
 
@@ -23,6 +27,10 @@
 - https://notes.shichao.io/asm
 - [x86, x64, ARM? I Just Want to Download my Program!](https://marinhero.com/posts/architectures)
 - https://hackaday.com/2021/03/26/undocumented-x86-instructions-allow-microcode-access
+
+### RISC-V
+
+- https://blog.randallhyde.com/index.php/2021/01/17/cisc-vs-risc-the-definition
 
 ### Tutorials
 

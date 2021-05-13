@@ -8,6 +8,7 @@
 - https://twitter.com/merni_/status/1359781105931583488
 - https://increment.com/software-architecture/primer-on-functional-architecture
 - [Yacob (Kobi) Cohen-Arazi](https://twitter.com/kobi_ca)
+- [Matt Godbolt](https://www.youtube.com/c/MattGodbolt/playlists)
 
 ### Cinema
 

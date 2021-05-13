@@ -432,6 +432,7 @@
 - [16-Bit Virtual Machine](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
 - https://github.com/Knevari/js-virtual-machine
 - https://github.com/fraxken/VM-Resources
+- [Emulation in JavaScript | Matt Godbolt](https://www.youtube.com/playlist?list=PL2HVqYf7If8c3E0_m4KH6nwpcclY7eSqf)
 
 ### Compilers
 
