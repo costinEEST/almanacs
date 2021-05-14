@@ -112,6 +112,7 @@
 - [Hardware, and someday firmware, for acoustic piano to MIDI controller conversion.](https://github.com/jkominek/piano-conversion)
 - [How do scanning tunneling microscopes work?](https://futureofmatter.com/stm.html)
 - [Resistor calculator (series and parallel)](https://www.qsl.net/in3otd/parallr.html)
+- [Hardware stuff (PCI, AGP, VGA, HDD, etc etc)](http://alexfru.narod.ru/elinks.html#hdwstuff)
 
 ### History
 
