@@ -9,6 +9,8 @@
 - [Inside The Muse - Semicolon&Sons](https://www.youtube.com/watch?v=aCzT-LQI6x0&list=PLpkoC9yJXDKlGz7SPwofn1joJH9nAABmX)
 - [Programming With Nothing](https://github.com/tomstuart/nothing)
 - [Ruby under a microscope](https://eddyerburgh.me/books-i-enjoyed-in-2019)
+- [Automate YouTube Video Production with Ruby on Rails using the YouTube API | CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6ILDUeteD-A_q6Ja4SH8v95)
+- [Stock app | CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6JOyF7jKb4aZsX0l6eDARp1)
 
 ### Practice
 

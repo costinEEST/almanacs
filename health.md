@@ -22,6 +22,10 @@
 
 - [#CholesterolScience - Dave Feldman](https://www.youtube.com/playlist?list=PLWNQLvi9Q_zuigCB6JPmDQuR3TwfJO3QX)
 
+### Dairy
+
+- https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study
+
 ### Diseases
 
 - https://prevmedhealth.com/the-end-of-alzheimers-by-dale-bredesen + https://youtu.be/wekW6wVpQFw
@@ -42,6 +46,10 @@
 - https://ligiapop.com/2012/05/04/microferme-si-producatori-bio-locali
 - https://shop.greensense.ro/fructe-crude/17-nuci-macadamia.html#/3-gramaj-1kg
 - https://shop.greensense.ro/fructe-crude/3-nuci-pecan.html#/3-gramaj-1kg
+
+### Sex
+
+- https://www.theguardian.com/books/2021/may/14/oh-yes-the-best-books-about-sex
 
 ### Sleep
 
@@ -155,6 +163,7 @@
 - https://inquisitivebiologist.com/2020/10/02/book-review-entangled-life-how-fungi-make-our-worlds-change-our-minds-and-shape-our-futures + https://www.youtube.com/user/merlinsheldrake/playlists
 - https://www.youtube.com/user/radmycology/playlists + https://chthaeus.com/collections/books-1/products/radical-mycology-a-treatise-on-seeing-working-with-fungi
 - https://www.mycoworks.com/resources
+- [Fungi on Mars? Evidence of Growth and Behavior from Sequential Images](https://news.ycombinator.com/item?id=27065361)
 
 ### Alcohol
 
@@ -184,6 +193,7 @@
 
 - https://www.google.com/search?q=mucocutaneous+triad
 - https://www.emag.ro/totul-despre-alergii-earl-mindell-dr-pamela-wartian-smith-9786067890921/pd/DPDZGNBBM
+- [Skin Problems - Dr. Vivek Joshi](https://www.youtube.com/playlist?list=PLtOL-RbYxicYoYdlSJFMTzwuqjq12mrkW)
 
 ### Gut
 
@@ -264,6 +274,7 @@
 
 - [Lifestyle & Disease -History of preventive medicine - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z_1YOf0VfvSOAJ2wsTr9tg)
 - https://singularityhub.com/2020/10/13/scientists-found-a-new-way-to-control-the-brain-with-light-no-surgery-required
+- https://www.npr.org/sections/health-shots/2021/05/12/996141182/paralyzed-man-communicates-by-imagining-handwriting
 
 ### DYI
 

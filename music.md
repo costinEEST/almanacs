@@ -10,6 +10,7 @@
 - https://www.amazon.co.uk/Music-Instinct-Works-Cant-Without/dp/0099535440
 - https://www.fundatiacaleavictoriei.ro/produs/muzica-clasica-si-opera-doua-carti-de-tiberiu-soare
 - https://www.technovelty.org/review/jazz-piano-comping-for-the-beginning-jazz-improvisor.html
+- https://www.atlasobscura.com/articles/who-is-deben-bhattacharya-ethnomusicologist + [Paris to Calcutta: Men and Music on the Desert Road | Deben Bhattacharya](https://www.soundohm.com/product/paris-to-calcutta-men-and)
 
 ### Cinema
 
@@ -29,6 +30,7 @@
 - [Ukulele build | Matthias Wandel](https://www.youtube.com/playlist?list=PLSnvVtM4lBIXzkp-7ouf6NVfS7fOLGfuN)
 - https://github.com/Voluntari-Noi/guitar-lessons
 - [Flute | Matt Godbolt](https://www.youtube.com/playlist?list=PL2HVqYf7If8fbWCYhJTffhMlsjc6rre4y)
+- https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano + https://news.ycombinator.com/item?id=27085922
 
 
 ### Tool

@@ -33,6 +33,7 @@
 - https://wellarchitectedlabs.com
 - https://aws.amazon.com/blogs/security/essential-security-for-everyone-building-a-secure-aws-foundation
 - https://github.com/llSourcell/Build-a-Cybersecurity-Startup
+- [Switching to CloudFlare Pages, from AWS S3 + CloudFlare DNS](https://cri.dev/posts/2021-04-13-switching-to-cloudflare-pages-first-impressions-review)
 
 ### Google Cloud
 

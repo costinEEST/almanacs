@@ -1,6 +1,7 @@
 ### Books
 
 - [Energy: A Human History](https://www.goodreads.com/review/show/3008690448)
+- [Eco-friendly Guides](https://www.earthlover.co/resources)
 
 ### Opinions
 

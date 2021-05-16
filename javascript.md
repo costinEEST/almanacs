@@ -372,6 +372,7 @@
 - [is there a way to debug dom events in a timeline?](https://twitter.com/sseraphini/status/1377218954851201025)
 - [A zero friction custom elements like primitive.](https://github.com/WebReflection/builtin-elements)
 - [DOM event data scraped from MDN](https://github.com/eddyerburgh/dom-event-types)
+- https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html + https://news.ycombinator.com/item?id=27129858
 
 ### Single-page application
 
@@ -425,6 +426,7 @@
 - [Software quality and software testing.](https://github.com/ligurio/software-quality-wiki/wiki)
 - https://github.com/NoriSte/ui-testing-best-practices
 - https://github.com/CodingItWrong/javascript-tdd-exercises
+- https://www.freecodecamp.org/news/types-of-software-testing
 
 ### Virtual machines
 

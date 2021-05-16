@@ -11,6 +11,7 @@
 - http://pialogue.info/books/Century-of-the-Self.php
 - https://www.esquire.com/entertainment/movies/g35338893/best-documentaries-of-2021
 - https://abacusnoir.blog/2021/03/01/watching-adam-curtis
+- http://aarc.ro/articol/2-documentare-romanesti-pe-lista-celor-mai-bune-documentare-din-toate-timpu
 
 ### Interview
 

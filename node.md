@@ -140,6 +140,7 @@
 - https://bhattsameer.github.io/2021/01/01/client-side-encryption-bypass-part-1.html
 - https://www.jackhoy.com/web-applications/2020/10/21/debugging-memory-leaks-in-nodejs.html
 - https://pawelgrzybek.com/from-express-to-fastify-in-node-js
+- [The Case of the 50ms request](https://news.ycombinator.com/item?id=27053941)
 
 ### TIL
 
@@ -160,6 +161,7 @@
 - [How to create full path with node's fs.mkdirSync?](https://stackoverflow.com/a/40686853/1904223)
 - https://simonplend.com/how-does-middleware-work-in-express
 - https://twitter.com/loige/status/1388888755495387137
+https://mitar.tnode.com/post/json-decoding-in-node-is-fast/
 
 ### Event loop
 

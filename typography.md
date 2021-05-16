@@ -5,6 +5,17 @@
 - https://www.printmag.com/post/the-daily-heller-an-overdue-arab-design-history-book-part-1   
 - https://www.printmag.com/post/the-daily-heller-an-overdue-arab-design-history-book-part-2
 
+### Cinema
+
+- https://www.youtube.com/user/TypographyGuru/playlists
+- [Type ref & Inspiration | Pedro Amado](https://www.youtube.com/playlist?list=PLEz9y19-UrRajPM9PTV4xZK8h5x6fzeLG)
+- [Calligraphy | Pedro Amado](https://www.youtube.com/playlist?list=PLEz9y19-UrRYtG5jiDmlOlsTXnZJ7HKN6)
+- [Shani Avni](https://www.shaniavni.com/#comp-jjrbxl0r)
+- [The History and Art of Flourishing with Lynne Yun](https://www.crowdcast.io/e/history-of-flourishing)
+- https://github.com/learn-anything/talks#typography
+- https://www.freecodecamp.org/news/how-to-design-good-typography
+
+
 ### CSS
 
 - https://simonhearne.com/2021/layout-shifts-webfonts
@@ -57,11 +68,3 @@
 - [Use & Modify is a personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces.](https://usemodify.com)
 - https://designmodo.com/font-psychology
 
-### Cinema
-
-- https://www.youtube.com/user/TypographyGuru/playlists
-- [Type ref & Inspiration | Pedro Amado](https://www.youtube.com/playlist?list=PLEz9y19-UrRajPM9PTV4xZK8h5x6fzeLG)
-- [Calligraphy | Pedro Amado](https://www.youtube.com/playlist?list=PLEz9y19-UrRYtG5jiDmlOlsTXnZJ7HKN6)
-- [Shani Avni](https://www.shaniavni.com/#comp-jjrbxl0r)
-- [The History and Art of Flourishing with Lynne Yun](https://www.crowdcast.io/e/history-of-flourishing)
-- https://github.com/learn-anything/talks#typography

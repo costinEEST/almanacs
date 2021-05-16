@@ -53,6 +53,7 @@
 - [Color: A Visual History From Newton to Modern Color Matching Guides](https://www.fastcompany.com/90310951/the-secret-history-of-color)
 - [why something is a certain color](https://twitter.com/szeloof/status/1388874206486597648)
 - [Full Spectrum: How the Science of Color Made Us Modern by Adam Rogers](https://www.wired.com/story/how-pixar-uses-hyper-colors-to-hack-your-brain)
+- https://www.popsci.com/science/ask-us-anything-why-cant-we-see-more-colors
 
 
 ### Community

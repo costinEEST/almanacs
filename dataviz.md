@@ -18,6 +18,7 @@
 - https://blog.codinghorror.com/reading-with-edward-tufte + https://medium.com/@karlsluis/beyond-tufte-fd93cbcec6af
 - [Data Visualization in Society by Martin Engebretsen and Helen Kennedy](https://www.jstor.org/stable/j.ctvzgb8c7)
 - https://antonz.org/dataviz-guide
+- [R for applied epidemiology and public health](https://news.ycombinator.com/item?id=27106489)
 
 ### Courses
 

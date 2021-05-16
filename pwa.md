@@ -62,6 +62,7 @@
 - [Links Detector makes printed links clickable via your smartphone camera.](https://github.com/trekhleb/links-detector)
 - [Collaborative whiteboard PWA](https://github.com/jgw96/liveCanvas)
 - https://github.com/jgw96/voice-notes
+- [A 64-step drum sequencer I built using React and Redux](https://github.com/drumnickydrum/sequencer64) + https://news.ycombinator.com/item?id=27112573
 
 ### Security
 

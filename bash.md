@@ -66,3 +66,4 @@
 - https://github.com/NARKOZ/hacker-scripts
 - https://lobste.rs/s/bsv2yp/do_you_use_nodejs_for_scripting_instead
 - https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html + https://news.ycombinator.com/item?id=26899531
+- [JavaScript for Shell Scripting](https://github.com/google/zx) + https://news.ycombinator.com/item?id=27072515 

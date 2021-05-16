@@ -102,6 +102,7 @@
 ### Landing page
 
 - [Free Next.js landing page template for SaaS products, online services and more.](https://github.com/jkytoela/next-startd)
+- [What I learnt roasting 200 landing pages in 12 months](https://news.ycombinator.com/item?id=27140440)
 
 
 ### Performance

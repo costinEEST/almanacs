@@ -166,6 +166,7 @@
 - [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 - https://charliegerard.dev/project/dark-mode-clap-extension
 - https://parsiya.net/blog/2021-04-30-testing-extensions-in-chromium-browsers-nordpass + https://twitter.com/CryptoGangsta/status/1388253367395225602
+- [Chrome extension recommends local businesses while shopping on Amazon or eBay](https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj) + https://news.ycombinator.com/item?id=27086582
 
 ### Bookmarklets
 

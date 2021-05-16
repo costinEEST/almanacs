@@ -63,6 +63,7 @@
 
 - [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
 - [An aggregation of links that summarize RustConf 2020.](https://github.com/poteto/rustconf-2020)
+- [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
 
 ### Algorithm
 

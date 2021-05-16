@@ -15,6 +15,8 @@
 - https://www.tiktok.com/@texasbeeworks
 - https://www.ias.ac.in/Publications/e-Books/Experiments_in_Animal_Behaviour + https://twitter.com/RichardDawkins/status/1375426769780609027
 - [Fishing App and Fishing Tools | Fishbrain](https://fishbrain.com)
+- https://www.outsideonline.com/2423441/dog-days-summer
+- https://mindcraftstories.ro/mediu/povesti-cu-viespi-micii-carausi-de-glod-si-fauritorii-de-hartie
 
 ### Anatomy
 
@@ -80,3 +82,4 @@
 - https://www.youtube.com/c/DoodlesintheMembrane/playlists + https://twitter.com/in_doodles
 - https://inquisitivebiologist.com/2021/04/29/book-review-the-rare-metals-war-the-dark-side-of-clean-energy-and-digital-technologies
 - https://inquisitivebiologist.com/2021/04/29/book-review-the-elements-of-power-gadgets-guns-and-the-struggle-for-a-sustainable-future-in-the-rare-metal-age
+- https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-solid-state-lithium-battery
