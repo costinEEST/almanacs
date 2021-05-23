@@ -23,6 +23,7 @@
 - https://github.com/raineorshine/qwerty-to-colemak
 - https://www.mouseless.app
 - [Naive linter for English prose for developers](https://github.com/btford/write-good)
+- [Romanian (Programmers) Layout](kbdlayout.info/KBDROPR)
 
 ### Miscellaneous
 

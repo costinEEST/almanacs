@@ -7,6 +7,10 @@
 - https://www.pluralsight.com/courses/debugging-testing-publishing-flutter-app
 - https://github.com/aaachris/world_of_beer
 
+### Cinema
+
+- [Flutter Workshop - 24.2.20 | Moti Bar-Tov](https://www.youtube.com/playlist?list=PL0yJa47FxnHXAnKr-SVywWEknvyvIhS0Q)
+
 ### Community
 
 - [Robert Brunhage](https://robertbrunhage.com)

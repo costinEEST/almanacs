@@ -82,6 +82,7 @@
 - https://huangxuan.me/2020/06/19/data-rep-int
 - https://github.com/cfenollosa/os-tutorial
 - https://www.labbott.name/blog/2016/05/10/zero-size-arrays-in-c
+- [A guide to Windows application development using w64devkit](https://nullprogram.com/blog/2021/03/11)
 
 ### Security
 

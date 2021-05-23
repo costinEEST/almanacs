@@ -15,7 +15,7 @@
 
 * https://chrissanders.org/2019/05/infosec-mental-models/
 
-### Books
+### Book
 
 - [TCP/IP Guide - Charles M. Kozierok](https://learning.oreilly.com/library/view/tcpip-guide/9781593270476)
 - [Practical Packet Analysis, 3rd Edition. Using Wireshark to Solve Real-World Network Problems](https://nostarch.com/packetanalysis3)
@@ -23,6 +23,7 @@
 - https://www.chappell-university.com/post/free-tcp-analysis-poster
 - https://learning.oreilly.com/library/view/network-warrior-2nd/9781449307974
 - https://twitter.com/varcharr/status/1303354695902203905
+- [How to Hack Like a PORNSTAR: A step by step process for breaking into a BANK](https://www.amazon.com/dp/B01MTDLGQQ)
 
 ### Communities
 
