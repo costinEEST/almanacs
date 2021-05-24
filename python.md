@@ -4,6 +4,7 @@
 - [Become an Auth Boss. Learn about different authentication methodologies on the web. ](https://github.com/teesloane/Auth-Boss)
 - https://adambard.com/blog/programatically-liquidating-my-steam-inventory
 - https://github.com/mjhea0/awesome-fastapi
+- https://blog.thea.codes/building-a-stateless-api-proxy
 
 ### Book
 
@@ -69,6 +70,7 @@
 - [Full-stack web app gratitude journal with sentiment analysis, SMS reminders using Twilio API, various data visualizations of streaks, moods, and common phrases. [WIP]](https://github.com/mashikro/my-smart-journal)
 - [brew install pyenv](https://twitter.com/sbarnea/status/1380755339134504961)
 - [Turn (almost) any Python command line program into a full GUI application with one line](https://github.com/chriskiehl/Gooey)
+- https://nuculabs.dev/2021/05/18/fastapi-uvicorn-logging-in-production
 
 ### Networking
 

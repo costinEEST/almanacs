@@ -17,6 +17,7 @@
 - [Fishing App and Fishing Tools | Fishbrain](https://fishbrain.com)
 - https://www.outsideonline.com/2423441/dog-days-summer
 - https://mindcraftstories.ro/mediu/povesti-cu-viespi-micii-carausi-de-glod-si-fauritorii-de-hartie
+- https://www.nationalgeographic.com/animals/article/bumblebees-bite-plants-flower-early
 
 ### Anatomy
 

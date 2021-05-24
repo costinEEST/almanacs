@@ -63,6 +63,8 @@
 - [Collaborative whiteboard PWA](https://github.com/jgw96/liveCanvas)
 - https://github.com/jgw96/voice-notes
 - [A 64-step drum sequencer I built using React and Redux](https://github.com/drumnickydrum/sequencer64) + https://news.ycombinator.com/item?id=27112573
+- [Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.](https://github.com/magento/pwa-studio)
+- [Example e-commerce site to explore PWA (Progressive Web App) use cases.](https://github.com/GoogleChromeLabs/sample-pie-shop)
 
 ### Security
 

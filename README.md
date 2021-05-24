@@ -142,3 +142,4 @@
 
 - [Richard Littauer](https://github.com/RichardLitt/meta-knowledge)
 - [Charlike Mike Reagent](https://github.com/tunnckoCore/resources)
+- [Jakob Cosoroabă](https://github.com/jcsrb/til)

@@ -66,6 +66,7 @@
 
 - https://github.com/llSourcell/Learn_Blockchain_in_2_months
 - https://github.com/llSourcell/Simple_Blockchain_in_5_Minutes
+- https://www.freecodecamp.org/news/what-is-web3
 - [A quick reference for symbols and conventions used in the Ethereum Yellow Paper](https://github.com/benjaminion/YellowPaper_CheatSheet)
 - https://www.coingecko.com/en/glossary
 - https://github.com/jashmenn/cryptocurrencies-in-four-words

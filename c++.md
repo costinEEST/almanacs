@@ -23,6 +23,7 @@
 
 - https://www.udemy.com/course/free-learn-c-tutorial-beginners
 - https://github.com/harrisrobin/Udacity-CPlusPlus-Nanodegree
+- https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin
 
 ### Tool
 

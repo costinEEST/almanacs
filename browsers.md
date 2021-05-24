@@ -204,6 +204,7 @@ javascript: (() =>
 - https://www.mattzeunert.com/2016/03/17/devtools-never-pause-here.html
 - [The feature was launched as AMP Stories, which has now been rebranded to Web Stories.](https://news.ycombinator.com/item?id=25377695)
 - https://github.com/IAIK/ChromeZero
+- [Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning.](https://webcaptioner.com)
 
 ### Brave
 
@@ -332,6 +333,7 @@ javascript: (() =>
 - [A Node.js command line tool that crawls a domain and gathers lighthouse performance data for every page.](https://github.com/cloudfour/lighthouse-parade)
 - [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls)
 - https://webvitals.dev/cls
+- [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes)
 
 ### Miscellaneous
 

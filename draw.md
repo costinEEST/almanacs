@@ -43,3 +43,4 @@
 - https://eclecticlight.co/painting-topics
 - https://twitter.com/visual_linguist/status/1373665959790190611 + http://www.thevisuallinguist.com/2021/03/from-learning-to-draw-to-acquiring.html
 - [a thread why everything you know about learning to draw is wrong](https://twitter.com/visual_linguist/status/1373665959790190611)
+- https://www.domestika.org/en/blog/4097-more-than-270-000-free-nature-illustrations-from-the-biodiversity-heritage-library

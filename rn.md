@@ -18,6 +18,7 @@
 - [Fullstack Twitter 🐦 clone](https://github.com/jeffzh4ng/fwitter)
 - https://github.com/The-Assembly/Build-a-Restaurant-App-with-React-Native
 - https://medium.com/geekculture/10-apps-that-use-react-native-debeef2114ff
+- [iOS & Android flashcards app for learning German words faster](https://github.com/antoniocosentino/flippingCards)
 
 ### Cinema
 
@@ -99,6 +100,7 @@
 - https://medium.com/@IbanDasca/coding-a-react-native-app-from-an-ipad-using-a-remote-work-station-314c1a500092
 - https://github.com/vickOnRails/react-native-casestudies
 - https://johnwcassidy.medium.com/the-architecture-of-good-user-flow-6d658c6e3111
+- https://javascript.plainenglish.io/creating-an-app-icon-is-easy-270dc57c18a0
 
 ### Packages
 
@@ -136,5 +138,6 @@
 - https://www.infoq.com/news/2021/03/react-native-064-hermes
 - https://aditya01.hashnode.dev/how-to-make-your-react-native-app-more-performant
 - https://callstack.com/blog/hermes-performance-on-ios
+- https://blog.bam.tech/developer-news/measuring-and-improving-react-native-apps-startup-time
 
 
