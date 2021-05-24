@@ -90,6 +90,7 @@
 - https://github.com/Nilomiranda/relay-social + https://twitter.com/Nilomiranda/status/1241465671608918017
 - https://github.com/covidgreen/covid-green-backend-api + [Can anyone recommend some beginner friendly @fastifyjs
 ](https://twitter.com/simonplend/status/1347482545831731203)
+- https://github.com/simonplend/workshop-get-started-with-fastify
 
 ### Cinema
 
@@ -99,7 +100,7 @@
 - [Deno - TypeWithMe](https://www.youtube.com/playlist?list=PLlYJBXwGoczE6l8lm0AaFe62EtI3th41L)
 - https://www.slideshare.net/tshemsedinov/presentations
 - [Fullstack Code Challenge with Node, GraphQL and Relay](https://www.youtube.com/playlist?list=PLgzzeV46F4nMW3HSrx1hRSwD9-bgYVuO7)
-- [Node JS Performance Optimizations](https://www.youtube.com/playlist?list=PLISqeoHsXJYAIfu4-mgNY0tloWz2uut1t)
+- [Node JS Performance Optimizations | Bleeding Code](https://www.youtube.com/playlist?list=PLISqeoHsXJYAIfu4-mgNY0tloWz2uut1t) + https://github.com/bleedingcode/nodejs-performance-optimizations
 
 ### Course
 
