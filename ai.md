@@ -38,6 +38,7 @@
 - https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
 - https://github.com/lexfridman/mit-deep-learning
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w) + https://twitter.com/jure/status/1382743017283493889 + https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 
 ### Cinema
 

@@ -18,6 +18,7 @@
 - https://www.outsideonline.com/2423441/dog-days-summer
 - https://mindcraftstories.ro/mediu/povesti-cu-viespi-micii-carausi-de-glod-si-fauritorii-de-hartie
 - https://www.nationalgeographic.com/animals/article/bumblebees-bite-plants-flower-early
+- [Dog training |  Eric Bell](https://www.youtube.com/playlist?list=PLB8JqSBrZCVG7z_YtwYEWNnaDGuLmt-Xh)
 
 ### Anatomy
 

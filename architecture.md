@@ -21,6 +21,7 @@
 - [The Art of Classic Planning: Building Beautiful and Enduring Communities: Buras, Nir Haim](https://www.amazon.com/Art-Classic-Planning-Beautiful-Communities/dp/0674919246)
 - [The Architecture and Landscape of Health: A Historical Perspective on Therapeutic Places 1790-1940](https://www.amazon.com/Architecture-Landscape-Health-Perspective-Architectural/dp/113862537X)
 - https://ascholarlyskater.com/2017/11/30/guide-renaissance-architecture
+- https://lethain.com/timeless-way-of-building
 
 ### Brochures
 

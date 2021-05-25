@@ -55,12 +55,13 @@
 - https://github.com/qazbnm456/awesome-security-trivia#sql
 - https://dev.to/hacubu/how-to-use-google-sheets-as-a-database-responsibly-3ohk
 
-### TV
+### Cinema
 
 - [Algorithms behind Modern Storage Systems.](https://www.infoq.com/presentations/storage-algorithms)
 - [ CMU Database Group](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)
 - [SQL Tutorial for Beginners by Ben Awad](https://twitter.com/benawad/status/1217109321902850048)
 - https://www.deconstructconf.com/2018/jumana-bahrainwala-how-to-scale-relational-database-migrations
+- [RethinkDB | Eric Bell](https://www.youtube.com/playlist?list=PLB8JqSBrZCVEG0_KFbzPtFlwhXUFEFwoh)
 
 ### Radio
 
@@ -100,6 +101,10 @@
 - [A lightweight cloud firestore library for the browser.](https://github.com/samuelgozi/firebase-firestore-lite)
 - [You've got 100k requests/minute coming in, that need to return immediately, and you need to put a record in a database for every one.](https://twitter.com/erikras/status/1246710418191646720)
 
+### Graph databases
+
+- https://www.arangodb.com/learn/first-day/udemy
+
 ### In memory databases
 
 - [What is easy to do with Redis?](https://twitter.com/mattkrick/status/1245037667034624000)
@@ -124,3 +129,4 @@
 - https://github.com/madd86/awesome-system-design
 - https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html
 - https://rawrmaan.com/why-parse-failed
+- [Database As a Service](https://twitter.com/philipcdavis/status/1396972736761630720)

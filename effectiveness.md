@@ -73,7 +73,6 @@
 - https://awesometalks.party/category/documentation
 - https://devonzuegel.com/post/comparison-of-text-editing-methods
 - https://devonzuegel.com/post/advice-on-writing
-- https://lethain.com/learned-writing-book
 - [What We See When We Read - Peter Mendelsund](https://www.amazon.com/gp/customer-reviews/R2P9ZQ6EDF7WF6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0804171637)
 - [Solo devs, how do you plan your development?](https://news.ycombinator.com/item?id=21905423)
 - [What's the right name for a document that projects costs & income over time given conversation/churn rates, growth etc?](https://twitter.com/jlongster/status/1214259525072642049)

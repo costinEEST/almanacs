@@ -6,6 +6,7 @@
 - https://gumroad.com/l/Arm-cheatsheet-2020-version
 - https://www.androidauthority.com/arm-vs-x86-key-differences-explained-568718
 - https://levelup.gitconnected.com/intel-x86-vs-arm-architecture-and-all-key-differences-explained-fb54a04788dc
+- https://www.arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm
 
 ### Book
 

@@ -24,6 +24,7 @@
 - https://www.mouseless.app
 - [Naive linter for English prose for developers](https://github.com/btford/write-good)
 - [Romanian (Programmers) Layout](kbdlayout.info/KBDROPR)
+- https://lethain.com/self-publishing-staff-engineer
 
 ### Miscellaneous
 
