@@ -32,10 +32,14 @@
 
 ### Cinema
 
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUe2RDl_soTaxj1KVuuQFOUX
 - https://www.pbs.org/kenburns/the-gene
 - [Signalling Theory and the Genetic Code](https://www.youtube.com/playlist?list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o) + https://twitter.com/StatedClearly/status/1349828940232355850
 - https://github.com/llSourcell/Molecular_Dharma_Episode_Schedule
 - https://aklectures.com/subject/biology/immune-system
+- [Studying biology | Dr Bhavsar Biology](https://www.youtube.com/playlist?list=PLQR2uBWlxskA0QqZ6PWnw8L39EpasMZof)
+- [Biological molocules | Dr Bhavsar Biology](https://www.youtube.com/playlist?list=PLQR2uBWlxskC_vND25huSfnCiaRHIrArH)
+- https://www.ibiology.org/genetics-and-gene-regulation/experiment-meselson-and-stahl
 
 ### Genomics
 
@@ -43,6 +47,7 @@
 - https://www.theatlantic.com/ideas/archive/2021/03/how-mrna-technology-could-change-world/618431
 - https://horizon.scienceblog.com/1690/qa-biontech-vaccine-is-only-mrna-1-0-this-is-just-the-beginning-say-co-founders
 - https://singularityhub.com/2021/05/11/a-new-gene-editing-tool-rivals-crispr-and-can-make-millions-of-edits-at-once
+- [Guarded Command Programming + Cell Signaling + Micro-Colony Simulation](https://depts.washington.edu/soslab/gro)
 
 ### Miscellaneous
 
@@ -66,6 +71,8 @@
 ### Teachers
 
 - https://www.perell.com/podcast/joe-henrich-what-makes-society-smart + http://hci.ucsd.edu/102b/readings/WeirdestPeople.pdf + https://medium.com/conversations-with-tyler/joe-henrich-culture-evolution-weird-psychology-social-norms-9756a97850ce + https://youtu.be/dRUyfW0ECNg
+- [Dr Bhavsar's A level Biology Flashcards](https://www.brainscape.com/p/2WID3-LH-8XB8T)
+- https://www.shomusbiology.com/bio-materials.html + https://www.youtube.com/c/SumanBhattacharjeeShomusBiologyOnline/playlists
 
 ### Radio
 

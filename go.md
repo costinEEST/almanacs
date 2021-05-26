@@ -7,6 +7,7 @@
 - https://github.com/davecheney/the-zen-of-go
 - [The Ultimate Go Notebook](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/edit)
 - [Go With The Domain. Building Modern Business Software in Go](https://news.ycombinator.com/item?id=27140724)
+- https://livebook.manning.com/book/go-in-action
 
 ### Boots
 
