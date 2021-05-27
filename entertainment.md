@@ -264,6 +264,7 @@
 - [Transactional Analysis with Dave Spenceley](http://www.psihoterapieat.ro)
 - https://www.nlp-institutes.net/daniel-bichis
 - https://acesounderglass.com/2018/04/14/self-help-epistemic-spot-check-results
+- [Awakening from the Meaning Crisis | John Vervaeke](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
 
 ### Body language
 

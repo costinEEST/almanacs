@@ -40,6 +40,11 @@
 - [Studying biology | Dr Bhavsar Biology](https://www.youtube.com/playlist?list=PLQR2uBWlxskA0QqZ6PWnw8L39EpasMZof)
 - [Biological molocules | Dr Bhavsar Biology](https://www.youtube.com/playlist?list=PLQR2uBWlxskC_vND25huSfnCiaRHIrArH)
 - https://www.ibiology.org/genetics-and-gene-regulation/experiment-meselson-and-stahl
+- [Biotech | Ciro Santilli](https://www.youtube.com/playlist?list=PLcZOZrP1P_V6dkJ8gXmlYh35HT5e2STIz)
+- [Biomedical Animation by wehi.tv | WEHImovies](https://www.youtube.com/playlist?list=PLD0444BD542B4D7D9)
+- [Basic Physiology | Alila Medical Media](https://www.youtube.com/playlist?list=PLJIs8ZcKXHUy7zyDIGhZVIflbfulNFif0)
+- [Bioinformatics-along | Simon Cockell](https://www.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9)
+- [Bio Hacking Chip Implants | Amie DD](https://www.youtube.com/playlist?list=PL9iNdDEmD5jbIxHl5wGZlUs019e3ogl7E)
 
 ### Genomics
 
