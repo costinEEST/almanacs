@@ -1,6 +1,7 @@
 ### Book
 
 - https://github.com/learnyouanelm/learnyouanelm.github.io
+- https://github.com/alpacaaa/elm-to-purescript-cheatsheet
 
 ### Cinema
 

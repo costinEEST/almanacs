@@ -106,6 +106,7 @@
 - https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE
 - https://github.com/geoffbacon/regular-expressions-in-python
 - https://huangxuan.me/2017/12/12/halting-problem
+- https://github.com/alhassy/PythonCheatSheet
 
 ### Scraping
 

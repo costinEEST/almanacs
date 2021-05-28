@@ -12,9 +12,10 @@
 
 - https://github.com/sjsyrek/haskell-study-startup
 - https://typeclasses.com/beginner-crash-course
-- https://github.com/i-am-tom/haskell-exercises
+- [A little course to learn about some of the more obscure GHC extensions.](https://github.com/i-am-tom/haskell-exercises)
 - https://github.com/qfpl/applied-fp-course
 - https://github.com/tonymorris/fp-course
+- https://github.com/alpacaaa/zero-bullshit-haskell
 
 ### Radio
 
