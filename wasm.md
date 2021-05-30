@@ -4,6 +4,7 @@
 - https://github.com/appcypher/awesome-wasm-runtimes
 - http://schellcode.github.io/webassembly-without-emscripten
 - [non-web WebAssembly projects that I find interesting.](https://twitter.com/beriberikix/status/1258554615529738242)
+- https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071
 
 ### Cinema
 

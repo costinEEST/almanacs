@@ -193,6 +193,7 @@
 - [Ghrelin, the only known hunger hormone - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9w_vQBQgWVFneHt8r2Gvvkr)
 - [Insulin Resistance - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zUgj26Wns9yLYMq559Luru)
 - [Hormonal theory of weight management - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9wlbcBO4wBL2M2-_3C9FSVh)
+- [Understanding the Warburg Effect: The Metabolic Requirements of Cell Proliferation.](https://sci-hub.do/https://science.sciencemag.org/content/324/5930/1029.abstract)
 
 ### Skin
 

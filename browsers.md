@@ -21,6 +21,7 @@
 - https://engineering.q42.nl/passwordless-authentication
 - [Add support for a StreamDeck to Google Meet using WebHID](https://github.com/petele/StreamDeck-Meet)
 - [Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.](https://github.com/localForage/localForage)
+- [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
 
 ### new IntersectionObserver()
 
@@ -205,6 +206,7 @@ javascript: (() =>
 - [The feature was launched as AMP Stories, which has now been rebranded to Web Stories.](https://news.ycombinator.com/item?id=25377695)
 - https://github.com/IAIK/ChromeZero
 - [Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning.](https://webcaptioner.com)
+- [How to get sites you use daily out of your browser](https://twitter.com/cramforce/status/1385369724662403072)
 
 ### Brave
 

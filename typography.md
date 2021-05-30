@@ -34,6 +34,7 @@
 - https://www.zeichenschatz.net/typografie/how-to-pick-a-typeface-for-user-interface-and-app-design.html
 - https://github.com/ubuwaits/beautiful-web-type
 - https://meta.stackexchange.com/questions/364048/we-are-switching-to-system-fonts-on-may-10-2021 + https://news.ycombinator.com/item?id=27063991
+- [bitmap Chinese fonts from the 70s and 80s](https://library.stanford.edu/node/172367) + https://twitter.com/tsmullaney/status/1390320518566354946
 
 ### Tools
 

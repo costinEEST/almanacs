@@ -281,6 +281,7 @@
 
 - [When are public instance fields executed?]https://twitter.com/rauschma/status/1205417503108878336
 - https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078
+- https://www.mgaudet.ca/technical/2021/5/4/implementing-private-fields-for-javascript
 
 ### OOP
 

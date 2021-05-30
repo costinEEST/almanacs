@@ -18,6 +18,7 @@
 - https://uxplanet.org/designer-friendly-resources-to-study-ai-and-machine-learning-1-6106e257faeb
 - [Learning Theory from First Principles](https://francisbach.com/i-am-writing-a-book)
 - https://andrewnc.github.io/blog/everyday_data_science.html
+- https://www.amazon.com/Architects-Intelligence-truth-people-building-ebook/dp/B07H8L8T2J
 
 ### Course
 

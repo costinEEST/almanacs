@@ -69,6 +69,7 @@
 - [A bitcoin trading bot written in node](https://github.com/askmike/gekko)
 - https://github.com/ccnokes/ron-swanson-quotes-slack-bot
 - https://github.com/gulzar1996/auto-like-my-gf-insta-pic
+- https://autocode.com/guides/how-to-build-a-discord-bot
 
 ### Boilerplate
 
@@ -162,7 +163,8 @@
 - [How to create full path with node's fs.mkdirSync?](https://stackoverflow.com/a/40686853/1904223)
 - https://simonplend.com/how-does-middleware-work-in-express
 - https://twitter.com/loige/status/1388888755495387137
-https://mitar.tnode.com/post/json-decoding-in-node-is-fast/
+https://mitar.tnode.com/post/json-decoding-in-node-is-fast
+- https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js
 
 ### Event loop
 
@@ -180,6 +182,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast/
 - [Turn Node.js Events into Async Iterables.](https://github.com/danstarns/for-emit-of)
 - https://blog.logrocket.com/online-radio-server-pure-node-js
 - https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express
+- https://github.com/lmammino/streams-workshop
 
 ### Promise
 
@@ -320,6 +323,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast/
 - [More than 100 security checks for your Node.js API](https://github.com/jesusprubio/strong-node)
 - https://www.acunetix.com/blog/web-security-zone/remote-debuggers-as-an-attack-vector
 - [do a visualisation of the dependencies and vulnerabilities in a nice format using a graph database.](https://javi-dr.medium.com/how-to-create-a-software-bill-of-materials-in-neo4j-5888c0f3c461) + https://github.com/javixeneize/Neo4J_BOM
+- [Node.js HTTP server performance](https://twitter.com/lukeed05/status/1396307201606651913) + https://twitter.com/bradleymeck/status/1397919169576804361
 
 
 ### Static site generator

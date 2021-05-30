@@ -54,6 +54,8 @@
 - [why something is a certain color](https://twitter.com/szeloof/status/1388874206486597648)
 - [Full Spectrum: How the Science of Color Made Us Modern by Adam Rogers](https://www.wired.com/story/how-pixar-uses-hyper-colors-to-hack-your-brain)
 - https://www.popsci.com/science/ask-us-anything-why-cant-we-see-more-colors
+- https://en.m.wikipedia.org/wiki/Shades_of_yellow#Cyber_yellow
+- https://twitter.com/CSS__Cafe/status/1397955842406748161 + https://www.youtube.com/watch?v=mAw75_quIf8 + https://www.meetup.com/CSS-Cafe/events/278134039
 
 
 ### Community
@@ -86,6 +88,8 @@
 - [@scroll-timeline](https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1)
 - https://justmarkup.com/articles/2020-04-15-css-property-in-a-tweet
 - https://noti.st/rachelandrew/VeraEX/understanding-display
+- https://www.oddbird.net/2021/05/14/support-unknown
+- [fit-content and fit-content()](https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html)
 
 ### Selector
 
@@ -109,6 +113,7 @@
 
 - https://css.oddbird.net/rwd/query/explainer
 - [Designing With Container Queries](https://www.twitch.tv/videos/998378164)
+- https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries
 
 
 ### CSS grid
@@ -124,6 +129,7 @@
 - https://polypane.app/blog/faking-container-queries-with-css-grid
 - https://fjolt.com/article/a-guide-to-css-grid
 - https://noti.st/rachelandrew/Mny9Vg/grid-content-re-ordering-and-accessibility
+- https://codepen.io/TurkAysenur/full/gOmMgpx
 
 ### FlexBox
 
@@ -146,6 +152,7 @@
 - [Full Screen Vertical Scroll Snap](https://codepen.io/tobias_buschor/pen/OJWzXQN)
 - https://github.com/PuruVJ/macos-web + https://twitter.com/leeerob/status/1382422353787817985
 - https://markodenic.com/css-tips
+- [cool conic-gradient() patterns!](https://twitter.com/anatudor/status/1398218970281525249)
 
 ### Media query
 

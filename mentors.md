@@ -2,6 +2,10 @@
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUf5L0Iv0UtsWkaXQGjEUGYa
 
+### Aristotle
+
+- https://fivebooks.com/best-books/aristotle-edith-hall
+
 ### Aaron Swartz
 
 - https://archive.org/details/AaronSwartzAProgrammableWeb + http://www.cs.rpi.edu/~hendler/ProgrammableWebSwartz2009.html + https://shud.in/posts/aaron-swartz-a-programmable-web

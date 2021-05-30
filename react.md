@@ -335,6 +335,7 @@
 - https://github.com/filipemerker/micro-frontend-talk-example
 - https://github.com/Hendrixer/production-grade-nextjs
 - https://jonmeyers.io/blog/build-a-saas-platform-with-stripe
+- https://jonmeyers.io/courses/build-an-e-commerce-platform-in-25-days-using-next-js-netlify-and-stripe
 
 
 

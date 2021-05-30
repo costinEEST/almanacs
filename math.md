@@ -3,6 +3,7 @@
 - [Mathematics for Machine Learning by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
 - [(Whistled) melody detection workshop. First presented at LauzHack Days (Nov 13, 2018).](https://github.com/ebezzam/melody-detection)
 - [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
+- https://seyonechithrananda.com/Biodojo-Sessions-Math-for-Machine-Learning-0549626788c648309695b4ee3dad8f13
 
 ### Calculus
 

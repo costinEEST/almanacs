@@ -22,6 +22,7 @@
 
 ### Courses
 
+- [W209 Information Visualization course of the Masters in Data Science at UC Berkeley](https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) + https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides
 - https://observablehq.com/@d3/learn-d3
 - https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568
 - [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&t=18606s)

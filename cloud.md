@@ -38,7 +38,7 @@
 
 ### Google Cloud
 
-- [The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words)
+- [The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words) + https://twitter.com/gregsramblings/status/1366841332312907780
 - [Set up a free server](https://twitter.com/s0md3v/status/1212115426697547777) + https://dev.to/phocks/how-to-get-a-free-google-server-forever-1fpf
 - [Firebase app architectures, languages, tools & some GCP things! ](https://github.com/jthegedus/firebase-gcp-examples)
 - https://medium.com/@Philmod/npm-release-automation-adb970e49066

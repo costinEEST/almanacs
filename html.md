@@ -197,3 +197,4 @@
 - https://cormullion.github.io/pages/2020-10-09-asterisk
 - https://tonsky.me/blog/emoji
 - [Open source emojis for designers, developers and everyone else!](https://github.com/hfg-gmuend/openmoji)
+- https://github.com/ikatyang/emoji-cheat-sheet

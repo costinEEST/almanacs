@@ -16,6 +16,7 @@
 
 - https://en.m.wikipedia.org/wiki/Behind_the_Music
 - [Un virus numit OPERĂ. Luminița Arvunescu în dialog cu...](https://www.youtube.com/playlist?list=PLMa4FslxW4Ilm51MJiFUDgOHvDT4KhHcp)
+- ["Music 5" (Fundamentals of musicianship)](https://www.facebook.com/stoyan.stefanov/posts/10159085546820960)
 
 ### Instrument
 
