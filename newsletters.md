@@ -8,6 +8,10 @@
 - [Nielsen Norman Group](https://us4.campaign-archive.com/home/?u=538d934a891681a5d850bb4e5&id=7f29a2b335)
 - [Chris Ashton](https://ashton.codes/category/frequent11y)
 
+### Archeology
+
+- [Archaeology Podcast Network](https://us16.campaign-archive.com/home/?u=f036e9c7166c0027796dc55ae&id=3201b12312)
+
 ### Architecture
 
 - [Pro Patrimonio](https://us5.campaign-archive.com/home/?u=57f50bdf2c77a5bb1add2a851&id=42c6c16a1d)
@@ -38,6 +42,10 @@
 
 - [Prietenii Editurii Rabten](https://us9.campaign-archive.com/home/?u=631f68b23c06eceac05035aff&id=194eb176a7)
 - [Dunhuang Foundation](https://us10.campaign-archive.com/home/?u=069b842b10e7ad40bfba99e7f&id=c2f585d33a)
+
+### Cloud
+
+- https://offbynone.io/issues
 
 ### Judaism
 

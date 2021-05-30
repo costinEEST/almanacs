@@ -25,6 +25,7 @@
 - [Naive linter for English prose for developers](https://github.com/btford/write-good)
 - [Romanian (Programmers) Layout](kbdlayout.info/KBDROPR)
 - https://lethain.com/self-publishing-staff-engineer
+- [Ludwig is the first sentence search engine that helps you write better English by giving you contextualized examples taken from reliable sources.](https://ludwig.guru)
 
 ### Miscellaneous
 

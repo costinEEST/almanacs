@@ -48,6 +48,7 @@
 - https://github.com/veeral-patel/how-to-secure-anything
 - https://github.com/nikitavoloboev/privacy-respecting
 - [Large-scale abuse of contact discovery in mobile messengers](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf)
+- [A more privacy-friendly blog](https://vincent.bernat.ch/en/blog/2018-more-privacy-blog)
 
 ### Techniques
 

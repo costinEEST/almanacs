@@ -129,6 +129,7 @@
 - [A History of Private Life, Volume I: From Pagan Rome to Byzantium](https://www.amazon.com/History-Private-Life-Pagan-Byzantium/dp/0674399749)
 - https://going-medieval.com/subject-index-table-of-contents
 - https://acesounderglass.com/2019/10/16/epistemic-spot-checks-the-fall-of-rome
+- https://www.caseyliss.com/2021/3/1/black-history-month
 
 ### Mythology
 
@@ -158,6 +159,7 @@
 - [The Manual. A Philosopher's Guide to Life - Epictetus](https://www.indiebound.org/book/9781545461112)
 - [A Guide to The Good Life - William Irvine](https://youtu.be/BjScQSQpst8)
 - https://www.youtube.com/c/TheStoa/playlists
+- [Stoicism Book Reviews | Ethan Schwandt - The Mind Map Guy](https://www.youtube.com/playlist?list=PLus5uUwK9fLFT-RuA9bNzI9Qx8lRIYWU_)
 
 ### Buddhism
 

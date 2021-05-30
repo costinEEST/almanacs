@@ -119,6 +119,7 @@
 - [Easily link to other apps with React Native.](https://github.com/FiberJW/react-native-app-link)
 - https://github.com/alexbrazier/react-native-network-logger
 - https://github.com/emeraldsanto/react-native-encrypted-storage
+- https://www.reactnativeschool.com/how-to-reset-react-native-cache-npm-ios-android-and-more
 
 ### Debugging
 

@@ -8,6 +8,7 @@
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUfon-MOtDK215ztJyviV3Fq
+- [How music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth)
 
 ### Courses
 

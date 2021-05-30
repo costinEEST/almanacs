@@ -201,6 +201,7 @@
 - https://github.com/Flow11/death-stranding-ui
 - https://steveruiz.me/posts/rotating-icon-button
 - https://javascript.plainenglish.io/three-js-with-react-functional-component-9e66e08dbeac
+- [Learn @framer Motion in 10 Tweets](https://twitter.com/willjohnsonio/status/1396857844973064202)
 
 ### Server side rendering
 
@@ -377,3 +378,4 @@
 - https://github.com/rauschma/minimal-react
 - https://github.com/yakkomajuri/react-from-scratch
 - https://github.com/HearTao/ts-react-hooks-tools
+- [A boilerplate for SSR'd Vite, React 17, and TypeScript 4.3](https://blog.jonlu.ca/posts/vite)

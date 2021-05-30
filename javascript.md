@@ -270,6 +270,7 @@
 - [waitForFrame: a little async utility to wait for an animation frame](https://twitter.com/alexandereardon/status/1245870136659066882)
 - [Comparing various async patterns for a single demo](https://github.com/getify/A-Tale-Of-Three-Lists)
 - [Does anyone have a fetch wrapper that packs in sane error handling?](https://twitter.com/tannerlinsley/status/1275823695051673601) + https://hassansin.github.io/Why-return-await-Is-a-Bad-Idea
+- https://davidwells.io/blog/cleaner-async-await-code-without-try-catch
 
 ### JSON.parse()
 

@@ -95,6 +95,7 @@
 - https://www.bit-101.com/blog/2020/10/i-think-bluetooth-is-finally-ok
 - https://kyk13.com/antennas-for-helium
 - https://github.com/stevesong/awesome-connectivity-info
+- https://singularityhub.com/2021/05/23/nikola-tesla-5g-network-could-realize-his-dream-of-wireless-electricity
 
 ### 5G
 

@@ -33,18 +33,6 @@
 - https://blog.codepen.io/2018/06/07/need-to-store-some-data
 - [SQLmap guide](https://twitter.com/HusseiN98D/status/1238545584644149250) + http://www.it-docs.net/ddata/4956.pdf
 
-### TIL
-
-- SQL, NoSQL, and Scale - How DynamoDB scales where relational databases don't: [tweet](https://twitter.com/alexbdebrie/status/1214966652254732304) + [article](https://www.alexdebrie.com/posts/dynamodb-no-bad-queries/)
-- https://ovid.github.io/articles/database-design-standards.html
-- https://joshduff.com/2016-07-writing-sql.md
-- [Things I wished more developers knew about databases.](https://news.ycombinator.com/item?id=22942278)
-- [Using SQL to find my best photo of a pelican according to Apple Photos](https://news.ycombinator.com/item?id=23271053)
-- https://gbl08ma.com/time-for-a-wtf-mysql-moment
-- https://blog.jooq.org/2019/11/13/stop-mapping-stuff-in-your-middleware-use-sqls-xml-or-json-operators-instead + https://twitter.com/lukaseder/status/1331897735361028097
-- https://materialize.com/kafka-is-not-a-database + https://news.ycombinator.com/item?id=25346851
-- https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss + https://news.ycombinator.com/item?id=25870482
-- [Do you prefer SQL or NoSQL databases?](https://twitter.com/rafrasenberg/status/1376454875224113152)
 
 ### Hacks
 
@@ -130,3 +118,14 @@
 - https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html
 - https://rawrmaan.com/why-parse-failed
 - [Database As a Service](https://twitter.com/philipcdavis/status/1396972736761630720)
+- SQL, NoSQL, and Scale - How DynamoDB scales where relational databases don't: [tweet](https://twitter.com/alexbdebrie/status/1214966652254732304) + [article](https://www.alexdebrie.com/posts/dynamodb-no-bad-queries/)
+- https://ovid.github.io/articles/database-design-standards.html
+- https://joshduff.com/2016-07-writing-sql.md
+- [Things I wished more developers knew about databases.](https://news.ycombinator.com/item?id=22942278)
+- [Using SQL to find my best photo of a pelican according to Apple Photos](https://news.ycombinator.com/item?id=23271053)
+- https://gbl08ma.com/time-for-a-wtf-mysql-moment
+- https://blog.jooq.org/2019/11/13/stop-mapping-stuff-in-your-middleware-use-sqls-xml-or-json-operators-instead + https://twitter.com/lukaseder/status/1331897735361028097
+- https://materialize.com/kafka-is-not-a-database + https://news.ycombinator.com/item?id=25346851
+- https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss + https://news.ycombinator.com/item?id=25870482
+- [Do you prefer SQL or NoSQL databases?](https://twitter.com/rafrasenberg/status/1376454875224113152)
+- https://romanorac.github.io/data/analytics/2019/11/11/5-mistakes-sql-queries.html

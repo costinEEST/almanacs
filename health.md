@@ -169,6 +169,11 @@
 
 - https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened + https://news.ycombinator.com/item?id=25887200
 - [Uncorking the Past The Quest for Wine, Beer, and Other Alcoholic Beverages |  Patrick E. McGovern](https://www.ucpress.edu/book.php?isbn=9780520267985)
+- https://www.dailymail.co.uk/sciencetech/article-9618659/Vegetarians-drink-smoke-appear-healthier-carnivores-study-finds.html
+
+### Cannabis
+
+- [#81 – Debra Kimless, M.D. & Steve Goldner, J.D.: Cannabis – the latest science on CBD & THC](https://peterattiamd.com/debrakimless-stevegoldner)
 
 ### Tea
 
@@ -194,6 +199,7 @@
 - https://www.google.com/search?q=mucocutaneous+triad
 - https://www.emag.ro/totul-despre-alergii-earl-mindell-dr-pamela-wartian-smith-9786067890921/pd/DPDZGNBBM
 - [Skin Problems - Dr. Vivek Joshi](https://www.youtube.com/playlist?list=PLtOL-RbYxicYoYdlSJFMTzwuqjq12mrkW)
+- [Podcast - Chemist Confessions](https://www.youtube.com/playlist?list=PLldQkxjc7bYnFkUtOw8Y07yCyBnaF4ddx)
 
 ### Gut
 
@@ -275,6 +281,7 @@
 - [Lifestyle & Disease -History of preventive medicine - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z_1YOf0VfvSOAJ2wsTr9tg)
 - https://singularityhub.com/2020/10/13/scientists-found-a-new-way-to-control-the-brain-with-light-no-surgery-required
 - https://www.npr.org/sections/health-shots/2021/05/12/996141182/paralyzed-man-communicates-by-imagining-handwriting
+- [Geology helps map kidney stone formation from tiny to troublesome](https://www.sciencedaily.com/releases/2021/05/210525203814.htm)
 
 ### DYI
 

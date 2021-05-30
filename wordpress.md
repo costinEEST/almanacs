@@ -34,6 +34,7 @@
 
 - https://kevq.uk/the-case-for-wordpress
 - https://w3c.studio24.net/updates/on-not-choosing-wordpress
+- https://www.buzzsprout.com/1724287/8500051-mullenweg-and-biilmann-the-future-of-wordpress
 
 ### Plugin
 
