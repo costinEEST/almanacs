@@ -57,6 +57,7 @@
 
 - https://www.theinformation.com/articles/amazon-steps-up-silicon-ambitions-with-new-networking-chip
 - [Want cliff notes on the chip shortage?](https://twitter.com/_MG_/status/1388321639524229120)
+- [What Every Programmer Should Know About Memory | Ulrich Drepper](https://www.gwern.net/docs/cs/2007-drepper.pdf)
 
 ### Resistors
 
@@ -73,6 +74,7 @@
 - https://twitter.com/wimremes/status/1312374577683673089
 - [A digital logic designer and circuit simulator](https://github.com/hneemann/Digital)
 - [Q is a quantum circuit simulator, drag-and-drop circuit editor](https://github.com/stewdio/q.js)
+- https://incoherency.co.uk/blog/stories/scamp-lives.html + https://en.wikipedia.org/wiki/National_Semiconductor_SC/MP
 
 ### Miscellaneous
 
@@ -113,6 +115,7 @@
 - [How do scanning tunneling microscopes work?](https://futureofmatter.com/stm.html)
 - [Resistor calculator (series and parallel)](https://www.qsl.net/in3otd/parallr.html)
 - [Hardware stuff (PCI, AGP, VGA, HDD, etc etc)](http://alexfru.narod.ru/elinks.html#hdwstuff)
+- https://incoherency.co.uk/blog/cad-dojo
 
 ### History
 
