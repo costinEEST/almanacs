@@ -1,4 +1,4 @@
-### Courses
+### Course
 
 - https://github.com/openmainframeproject/cobol-programming-course
 
@@ -6,6 +6,7 @@
 
 - https://github.com/azac/cobol-on-wheelchair
 - [Build and modernize your COBOL applications for Linux on x86](https://www.ibm.com/products/cobol-compiler-linux-x86)
+- [Cobol Friends | IBM Developer](https://www.youtube.com/playlist?list=PLzpeuWUENMK2-pANOj6C1aXyd8puKqhT2)
 
 
 ### Security

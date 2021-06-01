@@ -221,6 +221,10 @@ javascript: (() =>
 - [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
 - https://honzajavorek.cz/blog/how-i-consume-content
 
+### Opera
+
+- [Standalone client for proxies of Opera VPN](https://github.com/Snawoot/opera-proxy)
+
 ### Cross-origin resource sharing
 
 - https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html

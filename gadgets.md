@@ -72,3 +72,4 @@
 - https://cra.mr/optimizing-for-wfh
 - https://scottspence.com/2020/05/30/first-time-pc-build
 - https://quanticdev.com/articles/max-value-pc-build-guide
+- https://wincent.com/blog/building-a-pc

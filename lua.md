@@ -1,6 +1,7 @@
 ### Tutorials
 
 - https://emilua.gitlab.io/blog/post/comparing-emilua-to-nodejs
+- https://wincent.com/tags/lua
 
 ### Tools
 
