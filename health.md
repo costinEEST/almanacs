@@ -164,6 +164,7 @@
 - https://www.youtube.com/user/radmycology/playlists + https://chthaeus.com/collections/books-1/products/radical-mycology-a-treatise-on-seeing-working-with-fungi
 - https://www.mycoworks.com/resources
 - [Fungi on Mars? Evidence of Growth and Behavior from Sequential Images](https://news.ycombinator.com/item?id=27065361)
+- https://en.wikipedia.org/wiki/Mushroom_poisoning + https://namyco.org/docs/Mushroom_Poisoning_in_North_America_2015-2016.pdf
 
 ### Alcohol
 
