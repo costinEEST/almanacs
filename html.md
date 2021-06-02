@@ -136,6 +136,7 @@
 ### Tools
 
 - https://lab.html5test.com
+- https://learn.better.dev/courses/faster-coding-with-emmet
 - https://livedom.lab.xss.academy + https://twitter.com/SecurityMB/status/1318988961990193153
 - [Browser support on link and script events](https://pie.gd/test/script-link-events)
 - [Beautiful image placeholders, without the hassle](https://github.com/joe-bell/plaiceholder)

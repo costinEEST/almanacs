@@ -142,4 +142,8 @@
 - https://callstack.com/blog/hermes-performance-on-ios
 - https://blog.bam.tech/developer-news/measuring-and-improving-react-native-apps-startup-time
 
+### Radio
+
+- https://reactnativeradio.com/episodes/rnr-198-machine-learning-and-react-native + https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
+
 

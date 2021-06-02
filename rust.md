@@ -17,6 +17,9 @@
 - https://github.com/lambda-magic/plt-books/tree/master/Rust
 - https://github.com/sger/RustBooks
 
+### Bot
+
+- [discord-to-trello bot](https://bitbucket.org/delan/dis2ello)
 
 ### Community
 
@@ -64,6 +67,7 @@
 - [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
 - [An aggregation of links that summarize RustConf 2020.](https://github.com/poteto/rustconf-2020)
 - [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
+- https://learnrust.today + https://www.youtube.com/watch?v=B5xYBrxVSiE&list=PL7FkKqUcfw1AoNvuQAvld2Q47gaDKHBRW
 
 ### Algorithm
 

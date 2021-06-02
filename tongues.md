@@ -173,6 +173,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - https://www.youtube.com/c/ChristianBurgosKorea/playlists
 - https://www.youtube.com/playlist?list=PLTpetkN815Qyuc2RbC1kxxMQvxjQ3RnYG
 - http://alexfru.narod.ru/lang/spanish/spanish.html
+- https://urish.medium.com/i-taught-myself-spanish-this-is-how-2c453a8202af
 
 ### Tibetan
 

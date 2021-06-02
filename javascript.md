@@ -212,6 +212,11 @@
 
 - [Why assignment will look for setters in the prototype chain, but not for regular value properties?](https://twitter.com/dan_abramov/status/1259518085347885057)
 
+### Array.prototype
+
+- [Cheat sheet: JavaScript Array methods](https://gist.github.com/rauschma/6cdeb4af7586aa03baed2f925e0a084b)
+
+
 ### Array.prototype.reduce()
 
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
@@ -410,6 +415,7 @@
 - https://github.com/WICG/virtual-scroller
 - https://blog.medblocks.org/2021-03-28-frontend-frameworks-why-you-should-reconsider + https://twitter.com/sidharth_ramesh/status/1376053744886902784
 - https://github.com/runem/web-component-analyzer
+- [Live Coding lit-element, SVG and Web Components with Uri Shaked](https://www.youtube.com/playlist?list=PLLomdjsHtJTzJpHEYhw3Du9kO9mgypE79)
 
 ### Testing
 

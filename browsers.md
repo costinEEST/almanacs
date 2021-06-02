@@ -22,6 +22,7 @@
 - [Add support for a StreamDeck to Google Meet using WebHID](https://github.com/petele/StreamDeck-Meet)
 - [Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.](https://github.com/localForage/localForage)
 - [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
+- [Proposal for an API which would allow grabbing a screenshot.](https://github.com/eladalon1983/mediacapture-screenshot)
 
 ### new IntersectionObserver()
 
@@ -168,6 +169,7 @@
 - https://charliegerard.dev/project/dark-mode-clap-extension
 - https://parsiya.net/blog/2021-04-30-testing-extensions-in-chromium-browsers-nordpass + https://twitter.com/CryptoGangsta/status/1388253367395225602
 - [Chrome extension recommends local businesses while shopping on Amazon or eBay](https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj) + https://news.ycombinator.com/item?id=27086582
+- [Firefox extension for a button that temporarily disables your proxy settings (Quick Proxy Toggle)](https://bitbucket.org/delan/togpac)
 
 ### Bookmarklets
 
@@ -299,6 +301,7 @@ javascript: (() =>
 - https://github.com/desandro/practical-ui-physics
 - [Canvas + JSX + Hooks](https://github.com/jchn/redraw)
 - [Visual Web Development (2021) | Radu Mariescu-Istodor](https://www.youtube.com/playlist?list=PLB0Tybl0UNfb3hTHPfEIg1SPw_-Ca9iIw)
+- [A library for capturing web page self screenshots](https://github.com/TomasHubelbauer/selfie)
 
 ### WebGL
 

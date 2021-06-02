@@ -121,6 +121,7 @@
 - [Josh Comeau](https://www.joshwcomeau.com/newsletter-issues/001)
 - [Vincent Voyer](https://nextjsnews.com)
 - [Softbinator Foundation](https://us2.campaign-archive.com/home/?u=a8f550154253f6574139ed3ae&id=7d076fb650)
+- [Mads Brodt](https://top3-in-tech.netlify.app)
 
 ### Web performance
 

@@ -15,6 +15,7 @@
 - https://blog.yifangu.com/2020/12/30/wasmino-wasm-arduino-running-arduino-code-in-browser
 - https://medium.com/@Hossman333/building-a-custom-led-word-clock-bfb3ba390e15 + https://github.com/Hossman333/word-clock
 - https://github.com/joeycastillo/The-Open-Book
+- [A curated collection of Arduino coding examples](https://github.com/wokwi/good-arduino-code) + https://goodarduinocode.com
 
 ### ESP32
 
@@ -52,6 +53,7 @@
 - [Raspberry Pi Computing: Temperature Measurement](https://leanpub.com/rpctemp)
 - https://www.bit-101.com/blog/2021/02/raspberry-pi-pico-what-ive-learned
 - https://www.alexanderjsingleton.com/hack-to-spy-building-a-raspberry-spy-pi
+- [Create an emulator for the new Raspberry Pi Pico MCU, the RP2020. We'll do it in JavaScript, from scratch.](https://www.youtube.com/playlist?list=PLLomdjsHtJTxT-vdJHwa3z62dFXZnzYBm)
 
 ### Smartwatch
 
@@ -81,3 +83,4 @@
 - [IoT.js implementation of WebThing API (based on Mozilla-IoT's webthing-node)](https://github.com/rzr/webthing-iotjs/wiki)
 - [I'm building an IoT solution (consuming sensor data), but can't use MQTT. Is Redis PubSub a valid IoT use case?](https://twitter.com/julian_duque/status/1309514620403679233)
 - https://jaycarlson.net/embedded-linux + https://twitter.com/jaydcarlson/status/1316917799755960320
+- https://blog.wokwi.com/hardware-crowdfunding-behind-the-scenes

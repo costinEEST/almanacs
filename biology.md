@@ -72,6 +72,7 @@
 - https://medium.com/@bert.hubert/dna-the-code-of-life-12db4a17c66d
 - https://a16z.com/2019/10/28/biology-eating-world-a16z-manifesto + https://news.ycombinator.com/item?id=21385796
 - https://berthub.eu/articles/posts/what-is-life
+- [ODFM, an omics data resource from microorganisms associated with fermented foods](https://www.nature.com/articles/s41597-021-00895-x) + [Omics Database of Fermentative Microbes provides "genome, metagenome, metataxonome, and (meta)transcriptome sequences" of bacteria and other microorganisms associated with a variety of fermented foods.](https://odfm.wikim.re.kr)
 
 ### Teachers
 

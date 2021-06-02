@@ -75,6 +75,7 @@
 - [A digital logic designer and circuit simulator](https://github.com/hneemann/Digital)
 - [Q is a quantum circuit simulator, drag-and-drop circuit editor](https://github.com/stewdio/q.js)
 - https://incoherency.co.uk/blog/stories/scamp-lives.html + https://en.wikipedia.org/wiki/National_Semiconductor_SC/MP
+- https://urish.medium.com/introducing-easyeda-2-kicad-37489da1dfa7
 
 ### Miscellaneous
 

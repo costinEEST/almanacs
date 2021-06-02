@@ -22,6 +22,7 @@
 - [The Architecture and Landscape of Health: A Historical Perspective on Therapeutic Places 1790-1940](https://www.amazon.com/Architecture-Landscape-Health-Perspective-Architectural/dp/113862537X)
 - https://ascholarlyskater.com/2017/11/30/guide-renaissance-architecture
 - https://lethain.com/timeless-way-of-building
+- [Essay: A Search for Beauty / A Struggle with Complexity | Christopher Alexander](https://dreamsongs.com/Files/urbansci-526122-nice-appendix.pdf) + https://twitter.com/stefanlesser/status/1374751813736542215
 
 ### Brochures
 
