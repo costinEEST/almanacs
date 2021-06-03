@@ -1,4 +1,4 @@
-### Vocabularies
+### Vocabulary
 
 - [Vietnamese vocabulary list](https://github.com/hugo53/words-vi)
 - https://www.quora.com/How-come-Vietnamese-is-the-easiest-language-in-the-world-yet-not-many-people-learn-it
@@ -15,7 +15,7 @@
 - https://yonatanmatanyah.wordpress.com/category/learning-hebrew
 - http://nosolosoftware.com/how-i-learned-the-nato-phonetic-alphabet
 
-### Videos
+### Cinema
 
 - [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ/playlists) + https://seedlang.com
 - https://www.youtube.com/user/smartergerman/playlists
@@ -42,14 +42,14 @@
 - [Indo-European languages from Uni Göttingen.](https://spw.uni-goettingen.de/projects/aig)
 - [Early Indo-European Online](https://lrc.la.utexas.edu/eieol)
 
-### Applications
+### Application
 
 - https://medium.com/@GroundControl/introducing-benkyou-a-swipe-flashcard-app-for-learning-japanese-f6f278e05c8a + [Android](https://play.google.com/store/apps/details?id=fm.raf.benkyou)
 - https://tarjim.ly
 - https://www.britishcouncil.org/voices-magazine/five-digital-resources-autonomous-english-language-practice
 - https://foosoft.net/tags/japanese
 
-### Websites
+### Tool
 
 - http://www.alljapaneseallthetime.com/blog
 - https://thewordcat.wordpress.com/2020/04/08/japanese-language-resources
@@ -62,6 +62,7 @@
 - https://thelanguagenerds.com/feast-your-eyes-on-magnificent-linguistic-family-tree
 - https://library.teachyourself.com
 - https://www.rhapsodyinlingo.com/en/2020/06/06/glossika-ai-review
+- https://lindiebotes.com/2021/06/02/8-free-language-learning-tools-you-can-integrate-into-your-life
 
 ### Communities
 
