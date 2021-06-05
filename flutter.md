@@ -2,6 +2,8 @@
 
 - [A time tracking app that respects your privacy and the gets the job done without being fancy.](https://github.com/hamaluik/timecop)
 
+- https://www.amazon.com/Flutter-Complete-Reference-Create-beautiful-ebook
+
 ### Course
 
 - https://www.pluralsight.com/courses/debugging-testing-publishing-flutter-app
