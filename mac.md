@@ -10,6 +10,7 @@
 
 - https://www.macrumors.com/2020/12/29/apple-researching-keyboards-with-displays-on-keys
 - https://rosenzweig.io/blog/asahi-gpu-part-1.html
+- https://www.freecodecamp.org/news/build-a-hackintosh
 
 ### Tools
 

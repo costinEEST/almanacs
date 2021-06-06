@@ -170,6 +170,8 @@
 - https://parsiya.net/blog/2021-04-30-testing-extensions-in-chromium-browsers-nordpass + https://twitter.com/CryptoGangsta/status/1388253367395225602
 - [Chrome extension recommends local businesses while shopping on Amazon or eBay](https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj) + https://news.ycombinator.com/item?id=27086582
 - [Firefox extension for a button that temporarily disables your proxy settings (Quick Proxy Toggle)](https://bitbucket.org/delan/togpac)
+- [Chrome extension that will help Romanian driving license learners to pass their exam.](https://github.com/70mmy/drpciv-helper)
+- https://news.ycombinator.com/item?id=27327892 + [Many temptations of an open-source chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
 
 ### Bookmarklets
 

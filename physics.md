@@ -36,3 +36,7 @@
 ### Engine
 
 - https://www.wired.co.uk/article/internal-combution-engine-obituary
+
+### Radio
+
+- [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html) + https://news.ycombinator.com/item?id=27322636

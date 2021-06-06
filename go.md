@@ -79,6 +79,7 @@
 - [Make JSON greppable!](https://github.com/tomnomnom/gron)
 - [Share your terminal as a web application](https://github.com/yudai/gotty)
 - [Go library to capture desktop to image](https://github.com/kbinani/screenshot)
+- [make your own YouTube TV player](https://github.com/cbix/gotubecast)
 
 ### References
 

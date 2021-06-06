@@ -28,8 +28,9 @@
 
 - https://sothebysrealty.ro/catalogs/1
 
-### TV
+### Cinema
 
 - https://www.youtube.com/user/30by40/playlists
 - https://www.re-thinkingthefuture.com/article/20-great-movies-every-architect-should-watch
 - https://www.classicist.org/articles/the-art-of-making-places-a-panel-discussion-on-ciudad-cayala
+- [Creating Sustainable Cities By Design](https://www.asianscientist.com/2021/05/features/asias-changemakers-jason-pomeroy-singapore)

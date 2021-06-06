@@ -166,6 +166,7 @@
 
 ### Innovators
 
+- https://www.notion.so/Progress-Studies-101-7089d11646d144928ded1274e1b03755
 - https://learning.oreilly.com/library/view/the-innovators-toolkit/9781118331873/
 - https://founders.simplecast.com/episodes/95-claude-shannon-a-mind-at-play-how-claude-shannon-invented-the-information-age + https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/147676669X + https://news.ycombinator.com/item?id=12079826 + https://www.amazon.com/Mathematical-Theory-Communication-Claude-Shannon/dp/0252725484 + https://spinlab.me/2017/07/30/claude-shannons-1952-lecture-on-creative-thinking/ + https://jamesclear.com/great-speeches/creative-thinking-by-claude-shannon
 - https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797

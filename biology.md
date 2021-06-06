@@ -53,6 +53,7 @@
 - https://horizon.scienceblog.com/1690/qa-biontech-vaccine-is-only-mrna-1-0-this-is-just-the-beginning-say-co-founders
 - https://singularityhub.com/2021/05/11/a-new-gene-editing-tool-rivals-crispr-and-can-make-millions-of-edits-at-once
 - [Guarded Command Programming + Cell Signaling + Micro-Colony Simulation](https://depts.washington.edu/soslab/gro)
+- https://www.freethink.com/articles/human-genome-sequencing
 
 ### Miscellaneous
 

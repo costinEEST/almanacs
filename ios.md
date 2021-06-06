@@ -25,6 +25,7 @@
 - https://blog.prototypr.io/a-designers-guide-to-switching-from-ios-to-android-c4c54fb03786
 - [music app for iPad](https://github.com/Morpheu5/SecondStudy-iPad)
 - https://github.com/EvanBacon/cocoapods-xcode10-tutorial
+- [Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store](https://github.com/majd/ipatool)
 
 ### Security
 

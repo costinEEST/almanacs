@@ -71,6 +71,7 @@
 - [brew install pyenv](https://twitter.com/sbarnea/status/1380755339134504961)
 - [Turn (almost) any Python command line program into a full GUI application with one line](https://github.com/chriskiehl/Gooey)
 - https://nuculabs.dev/2021/05/18/fastapi-uvicorn-logging-in-production
+- [Unofficial DRPCIV API (trimite requesturi periodic pentru a vedea daca s-au eliberat locuri)](https://github.com/vbadita/programare_drpciv)
 
 ### Networking
 

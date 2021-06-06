@@ -40,6 +40,7 @@
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
 - https://github.com/lexfridman/mit-deep-learning
 - [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w) + https://twitter.com/jure/status/1382743017283493889 + https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+- https://www.freecodecamp.org/news/advanced-computer-vision-with-python
 
 ### Cinema
 
@@ -165,6 +166,7 @@
 - https://thinkml.ai/top-5-ai-achievements-of-2020
 - https://www.hyro.ai/post/gpt-3-vs-existing-conversational-ai-solutions
 - https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa
+- [Microsoft president: Orwell’s 1984 could happen in 2024](https://www.bbc.com/news/technology-57122120)
 
 ### Security
 

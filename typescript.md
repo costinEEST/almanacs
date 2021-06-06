@@ -11,6 +11,7 @@
 ### Boilerplate
 
 - https://github.com/Divlo/create-fullstack-app
+- https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node
 
 
 ### Cinema

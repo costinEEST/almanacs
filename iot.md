@@ -84,3 +84,4 @@
 - [I'm building an IoT solution (consuming sensor data), but can't use MQTT. Is Redis PubSub a valid IoT use case?](https://twitter.com/julian_duque/status/1309514620403679233)
 - https://jaycarlson.net/embedded-linux + https://twitter.com/jaydcarlson/status/1316917799755960320
 - https://blog.wokwi.com/hardware-crowdfunding-behind-the-scenes
+- [Learing FreeRTOS by doing a project](https://github.com/tiberiucorbu/solar-energy-logger)

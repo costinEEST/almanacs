@@ -1,6 +1,7 @@
 ### Book
 
 - https://book.babashka.org
+- https://kimh.github.io/clojure-by-example + https://news.ycombinator.com/item?id=27273911
 
 ### Community
 

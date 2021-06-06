@@ -53,6 +53,7 @@
 - https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30
 - https://dev.to/noclat/build-a-full-api-with-next-js-1ke
 - [Coding a YouTube Descriptions Updater | Devon Crawford](https://www.youtube.com/playlist?list=PLhsehOUFGYaV1ontAkXqax-U9hdWrwZVS)
+- [Write Express middleware and route handlers using async/await](https://github.com/therootcompany/async-router)
 
 ### Book
 
@@ -102,6 +103,7 @@
 - https://www.slideshare.net/tshemsedinov/presentations
 - [Fullstack Code Challenge with Node, GraphQL and Relay](https://www.youtube.com/playlist?list=PLgzzeV46F4nMW3HSrx1hRSwD9-bgYVuO7)
 - [Node JS Performance Optimizations | Bleeding Code](https://www.youtube.com/playlist?list=PLISqeoHsXJYAIfu4-mgNY0tloWz2uut1t) + https://github.com/bleedingcode/nodejs-performance-optimizations
+- [Free SSL with Greenlock v2 (Let's Encrypt for Node.js)](https://www.youtube.com/playlist?list=PLZaEVINf2Bq_lrS-OOzTUJB4q3HxarlXk)
 
 ### Course
 
@@ -187,6 +189,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 ### Promise
 
 - https://www.nearform.com/blog/broked-promises-james-snell-tech-talk-video
+- https://www.nearform.com/blog/optimise-node-js-performance-avoiding-broken-promises
 
 ### async
 
@@ -242,6 +245,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://maecapozzi.com/how-to-locally-test-an-npm-package
 - https://github.com/zapolnoch/node-tesseract-ocr
 - [Check your npm module for unused dependencies](https://github.com/depcheck/depcheck)
+- https://www.aspecto.io/blog/lerna-hello-world-how-to-create-a-monorepo-for-multiple-node-packages
+- https://blog.bitsrc.io/how-i-analyzed-all-npm-dependency-licenses-in-one-go-18de0f7244bc + https://github.com/davglass/license-checker
 
 ### Testing
 
@@ -283,6 +288,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/microsoft/TypeScript-DOM-lib-generator
 - https://github.com/facundoolano/google-play-scraper
 - https://github.com/mathieudutour/medium-to-own-blog
+- [drpciv-crawler](https://github.com/AdiCutitoiu/chestionare-auto)
 
 
 ### Micro services

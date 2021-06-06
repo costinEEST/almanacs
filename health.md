@@ -2,6 +2,10 @@
 
 - https://www.redpenreviews.org/reviews/eat-right-4-your-type-the-individualized-blood-type-diet-solution
 
+### Brain
+
+- https://psyche.co/guides/how-to-stop-overthinking-with-help-from-metacognitive-strategies
+
 ### Book
 
 - [The Disease Delusion: Conquering the Causes of Chronic Illness for a Healthier, Longer, and Happier Life - Jeffrey Bland](https://www.amazon.com/gp/customer-reviews/R2SC5L9GQGZVXH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0062290738)
@@ -100,6 +104,7 @@
 - https://www.siimland.co/products/metabolic-autophagy-book
 - [An Evolutionary Perspective on Why Food Overconsumption Impairs Cognition - Mark P. Mattson](https://www.gwern.net/docs/longevity/2019-mattson.pdf)
 - [Autophagy - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xF85LzBWl7OcjmLQuAq7Uh)
+- [Intermittent Fasting Improves Long Term Memory](https://neurosciencenews.com/intermittent-fasting-neurogenesis-memory-18522)
 
 ### Supplements
 
@@ -252,6 +257,8 @@
 - [COVID-19 Changed Science Forever - The Atlantic](https://amp.theatlantic.com/amp/article/617262)
 - https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines
 - [Journal Club - Deep Dives into the Primary Literature | Youtube Microbiology Journal Club](https://www.youtube.com/playlist?list=PLASpI360FnueQxqPuoxjYuypW5evZxeKm)
+- [Now proven against coronavirus, mRNA can do so much more](https://edition.cnn.com/2021/06/01/health/mrna-vaccines-covid-future/index.html)
+- https://www.wired.co.uk/article/mrna-vaccine-revolution-katalin-kariko
 
 ### Radiation
 

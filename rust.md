@@ -92,6 +92,7 @@
 - [MeiliSearch: Zero-config alternative to Elasticsearch, made in Rust](https://github.com/meilisearch/MeiliSearch)
 - https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
 - [Tauri: An Electron alternative written in Rust ](https://news.ycombinator.com/item?id=26194990)
+- [Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals ](https://github.com/PaddiM8/kalker) + https://news.ycombinator.com/item?id=27333772
 
 ### Opinions
 

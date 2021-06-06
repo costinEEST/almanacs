@@ -103,6 +103,7 @@
 - https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 + https://twitter.com/dabit3/status/1380556264162361345
 - [Best resources to learn about Ethereum](https://twitter.com/draecomino/status/1370809424772788224)
 - https://blog.coinbase.com/understanding-web-3-a-user-controlled-internet-a39c21cf83f3
+- https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf
 
 ### Boilerplate
 
@@ -164,6 +165,8 @@
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace
 - https://twitter.com/nntaleb/status/1380991387076849673
 - https://thatkimparker.medium.com/most-artists-are-not-making-money-off-nfts-and-here-are-some-graphs-to-prove-it-c65718d4a1b8
+- https://cointelegraph.com/magazine/2020/03/24/immutable-trash-crypto-art-censorship-meaning
+- https://www.theouterrealm.io/blog/a-short-history-of-nft-trash-art
 
 ### Smart contracts
 

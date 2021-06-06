@@ -50,6 +50,7 @@
 - https://medium.com/miro-engineering/a-practical-guide-to-writing-secure-dockerfiles-bf561224dd80
 - https://ricardoanderegg.com/posts/git-push-deployments-docker-tags + https://news.ycombinator.com/item?id=26935725
 - https://cri.dev/posts/2021-05-14-self-hosting-with-nginx-docker-compose-linode-digitalocean
+- https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose + https://news.ycombinator.com/item?id=27359081
 
 ### Kubernetes
 

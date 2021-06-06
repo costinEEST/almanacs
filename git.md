@@ -41,6 +41,7 @@
 - https://github.com/shaneosullivan/git-shortcuts
 - https://httptoolkit.tech/blog/find-best-git-aliases
 - [Git hook is the new Husky](https://dev.to/krzysztofkaczy9/do-you-really-need-husky-247b)
+- https://www.joepurnell.dev/blog/git-stash-a-personal-reminder
 
 ### Github
 
@@ -66,6 +67,7 @@
 - https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-packages-with-GitHub-Actions
 - https://hibbard.eu/tweet-javascript-github-action
 - https://dotfiles.github.io/inspiration
+- [Use GitHub Actions for more inclusive words](https://www.stevemar.net/words-really-matter)
 
 ### Tools
 

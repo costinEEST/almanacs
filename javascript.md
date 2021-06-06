@@ -416,6 +416,7 @@
 - https://blog.medblocks.org/2021-03-28-frontend-frameworks-why-you-should-reconsider + https://twitter.com/sidharth_ramesh/status/1376053744886902784
 - https://github.com/runem/web-component-analyzer
 - [Live Coding lit-element, SVG and Web Components with Uri Shaked](https://www.youtube.com/playlist?list=PLLomdjsHtJTzJpHEYhw3Du9kO9mgypE79)
+- [a configuration for webcomponents build for IE11 to Chrome](https://github.com/tiberiucorbu/es5-esnext-webcomponent-project-starter)
 
 ### Testing
 

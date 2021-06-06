@@ -1,13 +1,28 @@
+### Application
+
+- [Auto Price](https://devforum.ro/t/aplicatie-android-verificarea-pretului-de-piata-al-unui-autoturism/12053)
+- [NoConnect is a real-time messaging application like WhatsApp which does not rely on any traditional GSM/CDMA network or any kind of internet service to communicate with each other unlike WhatsApp.](https://twitter.com/Debloper/status/1206358762275004417)
+- https://github.com/wikimedia/apps-android-wikipedia
+- https://arstechnica.com/gadgets/2020/08/android-is-now-the-worlds-largest-earthquake-detection-network
+- [hebrew interlinear old testament](https://github.com/stefankmitph/hiot) + https://github.com/peace-shillong/Hebrew-Interlinear-Old-Testament-Android
+- https://www.androidpolice.com/2021/01/16/gboard-emoji-kitchen-how-to-examples
+- [Save For Offline is an Android app for saving full webpages for offline reading, with lots of features and options.](https://github.com/JonasCz/save-for-offline)
+- [Simple, scalable, cross-platform and effective solution against government censorship for Android](https://github.com/krlvm/PowerTunnel-Android)
+- [An Open-Source Android application that allows you to send and receive files over available connections, and offers unique features like sharing over HTTP, pausing and resuming transfers](https://github.com/trebleshot/android)
+- [A book cataloging tool for Android phones.](https://github.com/eleybourn/Book-Catalogue)
+- https://github.com/pcqpcq/open-source-android-apps
+
 ### Community
 
 - [Chiu-Ki Chan](http://chiuki.github.io)
 
-### Courses
+### Course
 
 - [Mobile Application Development (5th bullet)](https://github.com/Developer-Y/cs-video-courses#software-engineering)
 
 ### Security
 
+- [MOBISEC - Mobile Security Course](https://mobisec.reyammer.io)
 - https://github.com/anantshri/Android_Security + https://twitter.com/anantshri/status/1345757424616054790
 - https://enciphers.com/awesome-android-application-security
 - https://medium.com/@sarang6489/different-types-of-root-detection-techniques-in-android-57828aed7597
@@ -24,18 +39,6 @@
 - https://www.slideshare.net/abrahamaranguren/pwning-mobile-apps-without-root-or-jailbreak-136622746
 - https://nelsonslog.wordpress.com/2021/06/01/android-scoped-storage-syncthing-gpslogger
 
-### Applications
-
-- [Auto Price](https://devforum.ro/t/aplicatie-android-verificarea-pretului-de-piata-al-unui-autoturism/12053)
-- [NoConnect is a real-time messaging application like WhatsApp which does not rely on any traditional GSM/CDMA network or any kind of internet service to communicate with each other unlike WhatsApp.](https://twitter.com/Debloper/status/1206358762275004417)
-- https://github.com/wikimedia/apps-android-wikipedia
-- https://arstechnica.com/gadgets/2020/08/android-is-now-the-worlds-largest-earthquake-detection-network
-- [hebrew interlinear old testament](https://github.com/stefankmitph/hiot) + https://github.com/peace-shillong/Hebrew-Interlinear-Old-Testament-Android
-- https://www.androidpolice.com/2021/01/16/gboard-emoji-kitchen-how-to-examples
-- [Save For Offline is an Android app for saving full webpages for offline reading, with lots of features and options.](https://github.com/JonasCz/save-for-offline)
-- [Simple, scalable, cross-platform and effective solution against government censorship for Android](https://github.com/krlvm/PowerTunnel-Android)
-- [An Open-Source Android application that allows you to send and receive files over available connections, and offers unique features like sharing over HTTP, pausing and resuming transfers](https://github.com/trebleshot/android)
-- [A book cataloging tool for Android phones.](https://github.com/eleybourn/Book-Catalogue)
 
 ### Tools
 

@@ -1,4 +1,4 @@
-### Applications
+### Application
 
 - https://github.com/sonnylazuardi/react-native-nike-running
 - [start building apps ..](https://twitter.com/danituits/status/1217950948976463872)
@@ -19,6 +19,7 @@
 - https://github.com/The-Assembly/Build-a-Restaurant-App-with-React-Native
 - https://medium.com/geekculture/10-apps-that-use-react-native-debeef2114ff
 - [iOS & Android flashcards app for learning German words faster](https://github.com/antoniocosentino/flippingCards)
+- [Rocket.Chat mobile clients](https://github.com/RocketChat/Rocket.Chat.ReactNative)
 
 ### Cinema
 

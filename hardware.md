@@ -117,6 +117,7 @@
 - [Resistor calculator (series and parallel)](https://www.qsl.net/in3otd/parallr.html)
 - [Hardware stuff (PCI, AGP, VGA, HDD, etc etc)](http://alexfru.narod.ru/elinks.html#hdwstuff)
 - https://incoherency.co.uk/blog/cad-dojo
+- https://www.diybookscanner.org + https://news.ycombinator.com/item?id=27361815
 
 ### History
 

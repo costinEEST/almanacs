@@ -2,6 +2,7 @@
 
 - [Energy: A Human History](https://www.goodreads.com/review/show/3008690448)
 - [Eco-friendly Guides](https://www.earthlover.co/resources)
+- https://intelligence.wundermanthompson.com/2021/04/new-trend-report-regeneration-rising-sustainability-futures
 
 ### Opinions
 
