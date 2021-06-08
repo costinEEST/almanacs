@@ -68,6 +68,7 @@
 - https://hibbard.eu/tweet-javascript-github-action
 - https://dotfiles.github.io/inspiration
 - [Use GitHub Actions for more inclusive words](https://www.stevemar.net/words-really-matter)
+- https://dev.to/frontendphil/using-github-actions-and-vercel-for-end-to-end-tests-4l36
 
 ### Tools
 

@@ -16,6 +16,7 @@
 
 - https://calibreapp.com/blog/css-performance
 - https://css-tricks.com/building-a-scalable-css-architecture-with-bem-and-utility-classes
+- https://experiencinginformation.com/2012/07/22/the-first-responsive-design-website-audi-circa-2002
 
 ### Book
 
@@ -187,6 +188,7 @@
 - [amazing generators](https://twitter.com/Prathkum/status/1374726453649100809)
 - [What's the best (simple) tool for creating animations?](https://twitter.com/kylemathews/status/1203140798302154752)
 - https://davidwalsh.name/detect-overflow-elements
+- https://github.com/sachin1092/awesome-material
   
 
 ### Security
@@ -196,5 +198,9 @@
 ### Opinion
 
 - https://wiki.csswg.org/ideas/mistakes
+
+### Radio
+
+- https://modernweb.podbean.com/e/s08e012-modern-web-podcast-modern-css-accessibility-with-stephanie-eckles
 
 

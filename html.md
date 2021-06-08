@@ -59,6 +59,12 @@
 - https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality
 - https://www.prnewswire.com/news-releases/wix-launches-first-of-its-kind-accessibility-tool-to-help-make-the-web-accessible-for-everyone-301282874.html
 - [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable)
+- [Practical accessibility, part 1: Markup semantics & ARIA](https://www.filamentgroup.com/lab/practical-accessibility-1-semantics)
+- https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components
+
+### <address></address>
+
+- http://html5doctor.com/the-address-element
 
 
 ### <button></button>

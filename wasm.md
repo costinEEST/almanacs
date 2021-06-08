@@ -25,6 +25,8 @@
 - https://medium.com/@robaboukhalil/webassembly-and-simd-7a7daa4f2ecd
 - https://mpetroff.net/2021/02/space-efficient-embedding-of-webassembly-in-javascript
 - https://github.com/fireship-io/react-wasm-gif-maker
+- https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
+- https://pascalpares.appspot.ovh/webassembly-for-javascript-developers
 
 ### Tools
 

@@ -105,7 +105,7 @@
 
 - [Harry Wolff](https://tinyletter.com/hswolff/archive)
 - [rendezvous with cassidoo](https://buttondown.email/cassidoo/archive)
-- [stefanjudis](https://www.stefanjudis.com/topics/newsletter)
+- [Stefan Judis](https://www.stefanjudis.com/topics/newsletter)
 - [React Status](https://react.statuscode.com/issues)
 - [User Interfacing by Adam Conrad](https://userinterfacing.substack.com/archive)
 - [Growing with the Web by Daniel Imms](https://us3.campaign-archive.com/home/?u=81a68a3e0636ace89d3b470e3&id=1d3b725b48)
