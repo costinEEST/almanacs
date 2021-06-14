@@ -70,6 +70,7 @@
 - http://www.gregoryschmidt.ca/writing/when-is-a-pixel-not-a-pixel-pixels-points-dps
 - https://shkspr.mobi/blog/2021/02/just-because-i-have-a-vertical-screen-doesnt-mean-im-on-a-phone + https://news.ycombinator.com/item?id=26000405
 - https://wattenberger.com/blog/css-percents
+- [Does Safari 15 finally fix viewport height?](https://lukechannings.com/blog/2021-06-09-does-safari-15-fix-the-vh-bug)
 
 ### Properties explained
 
@@ -136,6 +137,7 @@
 
 - https://github.com/philipwalton/flexbugs
 - [My incomplete mental model for flexbox's main axis](https://twitter.com/pomber/status/1281339741682753542)
+- https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6
 
 ### Demo
 

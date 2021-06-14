@@ -40,6 +40,7 @@
 
 - https://www.facebook.com/lectiadedesign
 - [I hear a lot about how Stripe is the perfect example of good design.](https://twitter.com/kentcdodds/status/1219641103579779072)
+- https://github.com/julesforrest/womenwhodesign
 
 
 ### Graphic design
