@@ -32,6 +32,7 @@
 - https://www.liviuvasilescu.ro/blog/ziua-vignelli
 - [Tailwind CSS: From Zero to Production | Tailwind Labs](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 - https://github.com/tailwindlabs/tailwindcss-from-zero-to-production
+- [Design for Safari 15](https://developer.apple.com/videos/play/wwdc2021/10029)
 
 ### Color
 
@@ -116,6 +117,7 @@
 - https://css.oddbird.net/rwd/query/explainer
 - [Designing With Container Queries](https://www.twitch.tv/videos/998378164)
 - https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries
+- https://mxb.dev/blog/media-queries-in-times-of-container-queries
 
 
 ### CSS grid
