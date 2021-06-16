@@ -14,6 +14,7 @@
 - https://rawlangs.wordpress.com/2013/04/23/ten-ways-to-learn-greek-for-free
 - https://yonatanmatanyah.wordpress.com/category/learning-hebrew
 - http://nosolosoftware.com/how-i-learned-the-nato-phonetic-alphabet
+- https://www.danielde.dev/blog/surprising-shared-word-etymologies 
 
 ### Cinema
 

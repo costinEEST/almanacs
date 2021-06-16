@@ -12,6 +12,7 @@
 ### Cinema
 
 - [Flutter Workshop - 24.2.20 | Moti Bar-Tov](https://www.youtube.com/playlist?list=PL0yJa47FxnHXAnKr-SVywWEknvyvIhS0Q)
+- [Learn Flutter Like A PRO 2021 Edition](https://twitter.com/imthepk/status/1332272360100044800)
 
 ### Community
 
