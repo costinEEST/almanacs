@@ -53,6 +53,7 @@
 - https://www.freecodecamp.org/news/opencv-full-course
 - https://github.com/trekhleb/learn-python
 - https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform
+- https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days
 
 ### Cinema
 

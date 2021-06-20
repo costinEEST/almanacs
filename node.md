@@ -202,6 +202,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 ### Tools
 
+- https://bret.io/projects/package-automation
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
 - [Displays JSON files in a flat format.](https://github.com/soheilpro/catj)
 - [A tinyURL service powered by node.js, express.js and a reddis database.](https://github.com/shahzeb1/nodejs-tinyURL)

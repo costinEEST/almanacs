@@ -78,6 +78,9 @@
 - https://sites.google.com/stanford.edu/cantonese/language-resources + https://twitter.com/kginlum/status/1334213475011231744
 - [Cross-language homonyms between English and Chinese](https://mcc.id.au/blog/2020/07/homoyin)
 - https://github.com/signsinchina
+- [Through Chinese Characters, learn Chinese, Korean and Japanese](https://www.youtube.com/playlist?list=PLLQcDG6MBpwhBEhBydyFjDAndO7_2CKpU)
+- https://www.youtube.com/playlist?list=PLuIhQdwUVqqqQ1XgELAXd1qLrc5an6Vgf
+- https://www.youtube.com/playlist?list=PLuIhQdwUVqqotxScb7W419m3hOsEzSw48
 
 ### Arabic
 
@@ -121,6 +124,7 @@
 - https://www.lingq.com/en/forum/offenes-deutsches-forum-open-forum-in-german/crossing-boundaries-in-german
 - https://divu.in/german/learn
 - https://divu.in/german/words
+- https://www.youtube.com/playlist?list=PLuIhQdwUVqqoHpBI5yAX8yfbc2ap7SkFX
 
 ### Greek
 
@@ -146,10 +150,13 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - https://tynan.com/done-with-kanji
 - https://www.lingq.com/blog/how-to-learn-japanese-with-lingq
 - https://github.com/leandrotk/nihongo
+- [Learn Japanese From Zero!](https://www.youtube.com/c/yesjapan/playlists)
+- https://www.youtube.com/playlist?list=PLuIhQdwUVqqpq-aOnrEUjEq2oidCXbp9J
 
 ### Korean
 
 - https://www.youtube.com/c/ArirangCoKrTV/playlists
+- https://www.youtube.com/playlist?list=PLuIhQdwUVqqrn1VUPmi3wIMKfoAR_ebUy
 
 ### Latin
 

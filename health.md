@@ -41,6 +41,7 @@
 - [Gum disease, periodontal disease - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z08cPCCcf298wh6jOfftnl)
 - [gingivitis, periodontitis & heart disease - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xnbbJvE9y4iat16_rQVm2L)
 - [Calcifying Nanoparticles - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LFssuFNroVieEEWvs8fXjQr)
+- https://medicalfuturist.com/technologies-that-will-shape-the-future-of-cancer-care
 
 ### Grocery
 

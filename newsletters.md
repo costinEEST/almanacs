@@ -37,6 +37,7 @@
 - [Sahil Bloom](https://sahilbloom.substack.com/archive)
 - [Dan from TLDR](https://www.tldrnewsletter.com/archives)
 - [Ken Norton](https://newsletter.bringthedonuts.com/archive)
+- [Meșter în mașini | Autocritica.ro](https://us7.campaign-archive.com/home/?u=09d606eba7825d461db3fcdb0&id=4c8cb54482)
 
 ### Buddhism
 

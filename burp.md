@@ -20,3 +20,7 @@
 - [Getting Started with Burp Suite & Webapp Pentesting | BB King](https://www.youtube.com/watch?v=xKudsnN3gkE&t=1868s)
 - [BOUNTY THURSDAYS - BURP 1.7 or 2.0 + more sweet stuff!](https://youtu.be/qnddz5iew1A)
 - https://twitter.com/pentagridsec/status/1372112849661726720 + https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication
+
+### Practice
+
+- https://defparam.medium.com/ios-app-testing-through-burp-on-corellium-fe59ed849516
