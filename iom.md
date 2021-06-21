@@ -44,7 +44,7 @@
 - [Nick Szabo](http://unenumerated.blogspot.com)
 - [Emin Gün Sirer](https://hackingdistributed.com)
 - [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me)
-- [Loredana Cirstea](https://twitter.com/lorecirstea)
+- [Loredana Cirstea](https://github.com/loredanacirstea/CV/blob/master/Ethereum.md)
 - https://www.coindesk.com/most-influential/2020
 - [Koroush AK](https://koroushak.substack.com/about)
 - https://newsletter.banklesshq.com/about

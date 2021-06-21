@@ -71,6 +71,7 @@
 - https://github.com/ccnokes/ron-swanson-quotes-slack-bot
 - https://github.com/gulzar1996/auto-like-my-gf-insta-pic
 - https://autocode.com/guides/how-to-build-a-discord-bot
+- https://dev.to/tanishqxyz/how-i-made-a-telegram-bot-to-report-gumroad-sales-in-less-than-30-mins-53ke
 
 ### Boilerplate
 

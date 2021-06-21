@@ -103,6 +103,7 @@
 - https://johnwcassidy.medium.com/the-architecture-of-good-user-flow-6d658c6e3111
 - https://javascript.plainenglish.io/creating-an-app-icon-is-easy-270dc57c18a0
 - [Monitor and measure React Native performance](https://github.com/oblador/react-native-performance)
+- https://brooklinmyers.medium.com/react-native-understanding-threads-e026c7d62bb2
 
 ### Packages
 

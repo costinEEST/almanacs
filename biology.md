@@ -86,3 +86,4 @@
 - https://celadonbooks.com/interviews/genome-odyssey-euan-ashley-interview
 - https://ark-invest.com/podcast/understanding-mrna-conversations-with-moderna-and-arcturus-therapeutics + https://twitter.com/aurmanARK/status/1356383891909705730
 - https://carlzimmer.com/podcasts
+- https://a16z-live.simplecast.com/episodes/its-time-to-heal-14-the-mrna-revolution-with-moderna-ceo-stephane-bancel

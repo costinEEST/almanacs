@@ -26,3 +26,4 @@
 - https://philosophynow.org/issues/122/Robert_Pirsig_and_His_Metaphysics_of_Quality + https://en.wikipedia.org/wiki/Pirsig%27s_Metaphysics_of_Quality
 - https://anamariaonisei.ro/cele-mai-bune-podcasturi-despre-filozofie-care-iti-raspund-intrebarilor-importante-despre-viata
 - http://edithhall.co.uk/aristotle
+- [Respice post te. Hominem te esse memento. Memento mori!](https://twitter.com/SahilBloom/status/1366072879213813762)

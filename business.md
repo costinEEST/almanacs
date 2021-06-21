@@ -205,6 +205,7 @@
 - https://www.theverge.com/21459906/bittorrent-tron-acquisition-justin-sun-us-china
 - https://www.geekwire.com/2020/amazon-jumps-virtual-tourism-offering-live-one-one-experiences-around-world
 - http://www.uky.edu/~eushe2/Pajares/OnFailingG.html
+- 
 
 ### Miscellaneous
 
@@ -216,6 +217,7 @@
 - https://www.kalzumeus.com/2012/01/23/salary-negotiation + https://lethain.com/forty-year-career
 - [30+ books I recommend for PhDs](https://fromphdtolife.com/resources/recommended-reading)
 - https://www.esquire.com/lifestyle/g35995934/greatest-moments-internet-history
+- https://cavesocial.com/alibaba
 
 
 ### Radio
