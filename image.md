@@ -5,6 +5,7 @@
 - https://underjord.io/live-server-push-without-js.html
 - https://www.singhkays.com/blog/its-time-replace-gifs-with-av1-video
 - [Content-aware image resizer and object remover based on Seam Carving algorithm](https://github.com/trekhleb/js-image-carver)
+- https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens
 
 ### Community
 

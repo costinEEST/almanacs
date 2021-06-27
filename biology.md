@@ -75,6 +75,7 @@
 - https://berthub.eu/articles/posts/what-is-life
 - [ODFM, an omics data resource from microorganisms associated with fermented foods](https://www.nature.com/articles/s41597-021-00895-x) + [Omics Database of Fermentative Microbes provides "genome, metagenome, metataxonome, and (meta)transcriptome sequences" of bacteria and other microorganisms associated with a variety of fermented foods.](https://odfm.wikim.re.kr)
 
+
 ### Teachers
 
 - https://www.perell.com/podcast/joe-henrich-what-makes-society-smart + http://hci.ucsd.edu/102b/readings/WeirdestPeople.pdf + https://medium.com/conversations-with-tyler/joe-henrich-culture-evolution-weird-psychology-social-norms-9756a97850ce + https://youtu.be/dRUyfW0ECNg

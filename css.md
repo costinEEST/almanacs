@@ -33,6 +33,7 @@
 - [Tailwind CSS: From Zero to Production | Tailwind Labs](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 - https://github.com/tailwindlabs/tailwindcss-from-zero-to-production
 - [Design for Safari 15](https://developer.apple.com/videos/play/wwdc2021/10029)
+- https://courses.joshwcomeau.com/video-archive/css-for-js
 
 ### Color
 
@@ -58,6 +59,7 @@
 - https://www.popsci.com/science/ask-us-anything-why-cant-we-see-more-colors
 - https://en.m.wikipedia.org/wiki/Shades_of_yellow#Cyber_yellow
 - https://twitter.com/CSS__Cafe/status/1397955842406748161 + https://www.youtube.com/watch?v=mAw75_quIf8 + https://www.meetup.com/CSS-Cafe/events/278134039
+- [Generate themes for your site, the Curves editor lets you edit color scales across channels for HSL, HSV, LAB, RGB, and LCH.](https://components.ai/theme?tab=editor)
 
 
 ### Community

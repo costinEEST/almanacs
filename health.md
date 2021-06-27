@@ -219,6 +219,7 @@
 
 - https://www.amazon.com/Hedonic-Eating-Pleasure-Affects-Behavior/dp/019933045X
 - [Mindful eating and food addiction - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zc29LI75JIkt-aUvG-ETIh)
+- https://bigthink.com/sex-relationships/love-addiciton
 
 ### Ageing
 

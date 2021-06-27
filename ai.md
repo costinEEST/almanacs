@@ -134,6 +134,7 @@
 - [Background Matting is a project that uses deep learning to turn any background into a green screen with just a handheld camera.](https://github.com/senguptaumd/Background-Matting)
 - [An educational resource to help anyone learn deep reinforcement learning.](https://github.com/openai/spinningup)
 - [Reinforcement Learning + Deep Learning](https://github.com/andri27-ts/Reinforcement-Learning)
+- [A deep database of medical abbreviations and acronyms for natural language processing](https://github.com/lisavirginia/clinical-abbreviations/tree/master/metainventory) + https://www.nature.com/articles/s41597-021-00929-4
 
 ### Papers
 

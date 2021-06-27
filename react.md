@@ -280,6 +280,7 @@
 - https://github.com/cwise89/react-detect-offline
 - [Transform SVGs into React components](https://github.com/gregberge/svgr)
 - [Generic Styler for geodata](https://github.com/geostyler/geostyler)
+- [ Easily migrate your existing React codebase to use i18n](https://github.com/sibelius/ast-i18n)
 
 ### Debugging
 
