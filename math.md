@@ -98,6 +98,7 @@
 - https://unprovable.github.io/jekyll/update/2016/11/13/Maths-For-Hackers-The-Hacker-Theorem.html + https://unprovable.github.io/jekyll/update/2016/11/18/Maths-For-Hackers-The-Recursion-Theorem.html + https://unprovable.github.io/jekyll/update/2016/11/20/Maths-For-Hackers-Enumeration-and-Insight.html
 - https://primes.utm.edu/primes/home.php + https://primes.utm.edu/primes/download.php + https://primes.utm.edu/lists/small/ + https://primes.utm.edu/primes/search.php
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov) + http://backreaction.blogspot.com/2010/05/abramowitzstegun-goes-online.html
+- https://amilajack.com/the-languages-of-mathematics
 
 ### Teacher
 
