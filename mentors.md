@@ -16,6 +16,10 @@
 - [ACM A.M. Turing Award](https://www.youtube.com/user/TheOfficialACM/playlists?view=50&sort=dd&shelf_id=2)
 - https://twitter.com/phalpern/status/1373003682124607492
 
+### Amjad Masad
+
+- https://intuitiveexplanations.com/tech/replit
+
 ### Daniel Kaminsky
 
 - https://twitter.com/dakami/status/1213734316712161280

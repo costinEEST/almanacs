@@ -249,6 +249,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Check your npm module for unused dependencies](https://github.com/depcheck/depcheck)
 - https://www.aspecto.io/blog/lerna-hello-world-how-to-create-a-monorepo-for-multiple-node-packages
 - https://blog.bitsrc.io/how-i-analyzed-all-npm-dependency-licenses-in-one-go-18de0f7244bc + https://github.com/davglass/license-checker
+- https://github.com/raxod502/python-in-a-box
 
 ### Testing
 

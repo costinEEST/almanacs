@@ -16,6 +16,7 @@
 - https://github.com/alrra/browser-logos
 - [SVG and PNG renders of all countries' flags.](https://github.com/hampusborgos/country-flags)
 - https://storyset.com
+- https://healthicons.org
 
 ### Tutorials
 

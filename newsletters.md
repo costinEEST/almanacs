@@ -1,3 +1,7 @@
+### Apparel
+
+- [The Kicks You Wear](https://kyw.substack.com/archive)
+
 ### Tips
 
 - [feeds/videos.xml?channel_id={{CHANNEL_ID}}](https://twitter.com/pawelgrzybek/status/1240249320336695296)

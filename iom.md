@@ -180,6 +180,7 @@
 - [Any good ways to decrypt in solidity?](https://twitter.com/DennisonBertram/status/1371619906920325121)
 - https://github.com/raineorshine/solidity-by-example
 - https://github.com/raineorshine/solidity-repl
+- https://b3nac.com/posts/2021-06-14-A-Not-So-Safe-safeTransferFrom-Implementation.html
 
 ### Demos
 

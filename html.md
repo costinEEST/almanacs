@@ -178,6 +178,7 @@
 - https://research.securitum.com/marginwidth-marginheight-the-unexpected-cross-origin-communication-channel
 - https://blog.bhanuteja.dev/noopener-noreferrer-and-nofollow-when-to-use-them-how-can-these-prevent-phishing-attacks-ckdzyjvqa0057des1hyyo3sfy
 - [mailto:?attach](https://mobile.twitter.com/jensvoid/status/1295357952480751616)
+- https://labs.bishopfox.com/tech-blog/lexss-bypassing-lexical-parsing-security-controls
 
 ### Unicode
 

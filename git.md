@@ -70,6 +70,7 @@
 - [Use GitHub Actions for more inclusive words](https://www.stevemar.net/words-really-matter)
 - https://dev.to/frontendphil/using-github-actions-and-vercel-for-end-to-end-tests-4l36
 - https://www.jclem.net/posts/2019-01-28-hey-siri-deploy-my-elixir-app
+- [Run your GitHub Actions locally](https://github.com/nektos/act)
 
 ### Tools
 

@@ -104,6 +104,7 @@
 - https://javascript.plainenglish.io/creating-an-app-icon-is-easy-270dc57c18a0
 - [Monitor and measure React Native performance](https://github.com/oblador/react-native-performance)
 - https://brooklinmyers.medium.com/react-native-understanding-threads-e026c7d62bb2
+- https://www.shopify.com/partners/blog/react-native-accessibility
 
 ### Packages
 
@@ -122,6 +123,7 @@
 - https://github.com/alexbrazier/react-native-network-logger
 - https://github.com/emeraldsanto/react-native-encrypted-storage
 - https://www.reactnativeschool.com/how-to-reset-react-native-cache-npm-ios-android-and-more
+- [Initiate immediate phone call for React Native on iOS and Android.](https://github.com/tuanlv89/react-native-immediate-call-library)
 
 ### Debugging
 

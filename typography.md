@@ -24,6 +24,7 @@
 - https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202
 - https://www.figma.com/blog/when-fonts-fall
 - https://moderncss.dev/generating-font-size-css-rules-and-creating-a-fluid-type-scale
+- https://pixelambacht.nl/2021/optical-size-hidden-superpower
 
 ### Fonts
 

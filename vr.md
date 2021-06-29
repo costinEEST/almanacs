@@ -6,6 +6,7 @@
 ### Course
 
 - [Introduction to mixed realities 2020-2021](https://profs.info.uaic.ro/~adiftene/Scoala/2021/IMR)
+- [Create mixed reality experiences for the Microsoft HoloLens 2 using Unreal Engine.](https://www.unrealengine.com/en-US/onlinelearning-courses/hololens-2-mixed-reality-production-for-unreal-engine)
 
 ### Community
 
