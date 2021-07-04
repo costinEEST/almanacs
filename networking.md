@@ -124,6 +124,7 @@
 - https://howdns.works/episodes
 - [Scaling the Root of the DNS](https://www.potaroo.net/ispcol/2020-09/root.html)
 - https://www.antitree.com/2013/02/22/how-tor-does-dns-the-breaking-bad-way
+- https://tech.ovoenergy.com/how-we-prevented-subdomain-takeovers-and-saved-000s + https://github.com/ovotech/domain-protect
 
 ### TCP
 

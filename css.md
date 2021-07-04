@@ -37,6 +37,7 @@
 
 ### Color
 
+- https://en.wikipedia.org/wiki/Louis_Cheskin#Bibliography
 - https://colornamer.netlify.com
 - https://www.w3.org/TR/css-color-4/#valdef-color-aliceblue
 - [Overly descriptive color palettes.](https://colors.lol) inspired by https://github.com/joemfox/colorschemer
@@ -60,6 +61,7 @@
 - https://en.m.wikipedia.org/wiki/Shades_of_yellow#Cyber_yellow
 - https://twitter.com/CSS__Cafe/status/1397955842406748161 + https://www.youtube.com/watch?v=mAw75_quIf8 + https://www.meetup.com/CSS-Cafe/events/278134039
 - [Generate themes for your site, the Curves editor lets you edit color scales across channels for HSL, HSV, LAB, RGB, and LCH.](https://components.ai/theme?tab=editor)
+- https://blog.jim-nielsen.com/2021/css-system-colors
 
 
 ### Community
@@ -124,6 +126,8 @@
 
 ### CSS grid
 
+- https://layout.bradwoods.io
+- https://grid.layoutit.com
 - https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo
 - https://www.learnwithjason.dev/let-s-learn-css-grid
 - [Grid by example, Rachael Andrew](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR)

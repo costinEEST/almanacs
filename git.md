@@ -71,6 +71,8 @@
 - https://dev.to/frontendphil/using-github-actions-and-vercel-for-end-to-end-tests-4l36
 - https://www.jclem.net/posts/2019-01-28-hey-siri-deploy-my-elixir-app
 - [Run your GitHub Actions locally](https://github.com/nektos/act)
+- [Automated Github Backups with ECS and S3](https://www.marcolancini.it/2021/blog-github-backups-with-ecs)
+- https://github.com/useful-forks/useful-forks.github.io
 
 ### Tools
 
@@ -81,6 +83,7 @@
 - [Fast and powerful Git hooks manager for any type of projects.](https://github.com/Arkweid/lefthook)
 - [Is there a nice git diff visual tool?](https://twitter.com/Lachlan19900/status/1348782429230678016)
 - [A viewer for git and diff output](https://github.com/dandavison/delta)
+- https://bridgecrew.io/blog/using-yor-for-ownership-mapping-using-yaml-tag-groups
 
 ### Security
 

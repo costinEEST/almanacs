@@ -8,3 +8,7 @@
 ### History
 
 - https://news.ycombinator.com/item?id=27374893 + [A data visualization celebrating the work of the great Italian design studios](https://www.cardesignhistory.com)
+
+### Opinions
+
+- https://www.spectator.co.uk/article/why-i-wont-buy-a-tesla

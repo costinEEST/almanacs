@@ -25,6 +25,7 @@
 - https://www.figma.com/blog/when-fonts-fall
 - https://moderncss.dev/generating-font-size-css-rules-and-creating-a-fluid-type-scale
 - https://pixelambacht.nl/2021/optical-size-hidden-superpower
+- https://www.smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors
 
 ### Fonts
 

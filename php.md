@@ -63,3 +63,5 @@
 - [A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.](https://github.com/PrivateBin/PrivateBin)
 - [a solar powered network of servers that host a distributed web platform.](https://github.com/alexnathanson/solar-protocol) + https://twitter.com/tegabrain/status/1371902477080133634
 - [Testing building REST in PHP](https://github.com/sibelius/php-api)
+- https://php.watch/articles/php-regex-readability
+- https://freek.dev/1940-why-and-how-you-should-remove-inactive-users-and-teams

@@ -38,6 +38,7 @@
 - https://cloudfuzz.github.io/android-kernel-exploitation + https://twitter.com/B3nac/status/1340379517420859393
 - https://www.slideshare.net/abrahamaranguren/pwning-mobile-apps-without-root-or-jailbreak-136622746
 - https://nelsonslog.wordpress.com/2021/06/01/android-scoped-storage-syncthing-gpslogger
+- [Android App Permission data of 2.2 million applications from Google Playstore.](https://github.com/gauthamp10/android-permissions-dataset)
 
 
 ### Tools

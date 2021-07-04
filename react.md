@@ -48,15 +48,17 @@
 - [Has anyone done a successful transition from an out of date create-react-app to the next.js?](https://twitter.com/bdougieYO/status/1377298188361682944)
 - [Example project on how to send emails in Next.js with Sendgrid and Dynamic Templates ](https://github.com/hunterbecton/sendgrid-next-js)
 - https://github.com/frankdilo/personal-blog-template
+- https://ashleemboyer.com/how-i-added-an-rss-feed-to-my-nextjs-site
 
 ### Books
 
 - https://softchris.github.io/books/react + https://github.com/softchris/react-book-repo
 
-### Talks
+### Cinema
 
 - https://github.com/tiaanduplessis/awesome-react-talks
 - https://github.com/Shopee/shopee-react-knowledgeable/issues/184
+- [Build an Accessible React Component Series](https://www.youtube.com/playlist?list=PLOmKTF_wUDoydvtwWrzEw7DZ9VboV51py)
 
 ### Podcasts
 
@@ -281,6 +283,7 @@
 - [Transform SVGs into React components](https://github.com/gregberge/svgr)
 - [Generic Styler for geodata](https://github.com/geostyler/geostyler)
 - [ Easily migrate your existing React codebase to use i18n](https://github.com/sibelius/ast-i18n)
+- [A React component to make correcting automated transcriptions of audio and video easier and faster.](https://github.com/bbc/react-transcript-editor)
 
 ### Debugging
 

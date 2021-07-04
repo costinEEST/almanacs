@@ -61,6 +61,7 @@
 - [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable)
 - [Practical accessibility, part 1: Markup semantics & ARIA](https://www.filamentgroup.com/lab/practical-accessibility-1-semantics)
 - https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components
+- https://kittygiraudel.com/2021/04/05/an-accessible-toggle
 
 ### <address></address>
 

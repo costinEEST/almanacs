@@ -67,6 +67,7 @@
 - https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
 - https://techcommunity.microsoft.com/t5/azure-security-center/become-an-azure-security-center-ninja/ba-p/1608761
 - https://github.com/ddneves/awesome-azure-learning
+- https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900
 
 ### Cloudflare
 

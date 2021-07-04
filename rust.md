@@ -93,6 +93,7 @@
 - https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
 - [Tauri: An Electron alternative written in Rust ](https://news.ycombinator.com/item?id=26194990)
 - [Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals ](https://github.com/PaddiM8/kalker) + https://news.ycombinator.com/item?id=27333772
+- https://github.com/reacherhq/check-if-email-exists
 
 ### Opinions
 

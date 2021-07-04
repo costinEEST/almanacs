@@ -30,3 +30,7 @@
 ### Photos
 
 - [Free stock photos · Pexels](https://www.pexels.com)
+
+### Security
+
+- https://github.com/barrracud4/image-upload-exploits + https://book.hacktricks.xyz/pentesting-web/file-upload + https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/File_upload_bugs.xmind
