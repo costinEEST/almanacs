@@ -178,6 +178,7 @@
 ### modules
 
 - [History of ES modules.](https://gist.github.com/jkrems/769a8cd8806f7f57903b641c74b5f08a)
+- https://guybedford.com/es-module-preloading-integrity
 - [The envisioned future of ES Modules in the browser.](https://twitter.com/swyx/status/1208820201623437312)
 - All differences between JavaScript modules, classic scripts, and CommonJS: [gist](https://gist.github.com/jkrems/b14894e0b8efde10aa10a28c652d3541) + [tweet](https://twitter.com/jankrems/status/1210644388105244672)
 - [How To Use Correctly JavaScript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries)

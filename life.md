@@ -86,3 +86,4 @@
 - https://inquisitivebiologist.com/2021/04/29/book-review-the-rare-metals-war-the-dark-side-of-clean-energy-and-digital-technologies
 - https://inquisitivebiologist.com/2021/04/29/book-review-the-elements-of-power-gadgets-guns-and-the-struggle-for-a-sustainable-future-in-the-rare-metal-age
 - https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-solid-state-lithium-battery
+- [Cosmetic Chemistry | Lab Muffin Beauty Science](https://www.youtube.com/playlist?list=PLbpMGOFlpHNDt2fEM04062eM8Yk1oX_KF)

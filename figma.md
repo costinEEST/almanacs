@@ -4,6 +4,7 @@
 - [eLearning application - Online resources](https://gumroad.com/l/fAIbb)
 - [Gadgets App - Figma Freebie](https://gumroad.com/l/lqxqg)
 - [Watchly - Ecommerce UI Kit - DEMO Screens](https://gumroad.com/l/fRODT)
+- [The Design Encyclopedia – Figma UI Kit & Design System](https://www.designencyclopedia.io)
 
 ### Courses
 

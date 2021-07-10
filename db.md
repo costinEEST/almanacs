@@ -11,6 +11,7 @@
 - https://www.neilwithdata.com/advanced-sql
 - https://github.com/bevacqua/reads#databasessearch
 - [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077) + https://news.ycombinator.com/item?id=25987664
+- https://caitiem.com/2017/09/07/getting-started-with-distributed-systems
 
 ### Courses
 

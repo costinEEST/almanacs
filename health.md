@@ -190,6 +190,7 @@
 ### Coffee
 
 - https://blackwells.co.uk/bookshop/product/Lonely-Planets-Global-Coffee-Tour-by-Mike-Higgins-editor-Nick-Mee-editor-Yolanda-Zappaterra-editor/9781787013599
+- https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up
 
 ### Sugar
 
@@ -261,6 +262,7 @@
 - [Journal Club - Deep Dives into the Primary Literature | Youtube Microbiology Journal Club](https://www.youtube.com/playlist?list=PLASpI360FnueQxqPuoxjYuypW5evZxeKm)
 - [Now proven against coronavirus, mRNA can do so much more](https://edition.cnn.com/2021/06/01/health/mrna-vaccines-covid-future/index.html)
 - https://www.wired.co.uk/article/mrna-vaccine-revolution-katalin-kariko
+- [The Global Virome in One Network (VIRION), an open-source atlas of the vertebrate virome.](https://twitter.com/viralemergence/status/1394270587267264518) + https://github.com/viralemergence/virion#how-we-built-virion
 
 ### Radiation
 
