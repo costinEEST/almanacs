@@ -19,6 +19,7 @@
 - https://mindcraftstories.ro/mediu/povesti-cu-viespi-micii-carausi-de-glod-si-fauritorii-de-hartie
 - https://www.nationalgeographic.com/animals/article/bumblebees-bite-plants-flower-early
 - [Dog training |  Eric Bell](https://www.youtube.com/playlist?list=PLB8JqSBrZCVG7z_YtwYEWNnaDGuLmt-Xh)
+- https://przekroj.pl/en/science/chatty-nature-mikolaj-golachowski
 
 ### Anatomy
 

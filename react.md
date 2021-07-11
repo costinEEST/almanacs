@@ -103,6 +103,7 @@
 - [Gyro-web: Accessing the device orientation in JavaScript](https://trekhleb.dev/blog/2021/gyro-web)
 - https://github.com/wellyshen/use-web-animations
 - [how does setting state cause code in ReactDOM to run?](https://twitter.com/sophiebits/status/1211008868446134272)
+- https://github.com/schoenwaldnils/web-vitals-react-hook
 
 ### Lifecycle methods
 

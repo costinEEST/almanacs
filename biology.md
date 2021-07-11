@@ -74,6 +74,7 @@
 - https://a16z.com/2019/10/28/biology-eating-world-a16z-manifesto + https://news.ycombinator.com/item?id=21385796
 - https://berthub.eu/articles/posts/what-is-life
 - [ODFM, an omics data resource from microorganisms associated with fermented foods](https://www.nature.com/articles/s41597-021-00895-x) + [Omics Database of Fermentative Microbes provides "genome, metagenome, metataxonome, and (meta)transcriptome sequences" of bacteria and other microorganisms associated with a variety of fermented foods.](https://odfm.wikim.re.kr)
+- [Leonardo Da Vinci: New family tree spans 21 generations, 690 years, finds 14 living male descendants](https://www.eurekalert.org/pub_releases/2021-07/tca-ldv070221.php)
 
 
 ### Teachers

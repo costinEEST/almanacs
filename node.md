@@ -250,6 +250,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://www.aspecto.io/blog/lerna-hello-world-how-to-create-a-monorepo-for-multiple-node-packages
 - https://blog.bitsrc.io/how-i-analyzed-all-npm-dependency-licenses-in-one-go-18de0f7244bc + https://github.com/davglass/license-checker
 - https://github.com/raxod502/python-in-a-box
+- [Ship a JS file with Node.js in a box](https://github.com/mongodb-js/boxednode)
 
 ### Testing
 

@@ -5,6 +5,7 @@
 ### Extension
 
 - [Poimandres is a minimal, frameless dark-theme inspired mostly by blueberry.](https://github.com/drcmda/poimandres-theme)
+- https://www.stefanjudis.com/snippets/a-vs-code-extensions-manifest
 
 ### Miscellaneous
 
