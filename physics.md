@@ -1,3 +1,7 @@
+### Book
+
+- [Physics from Symmetry (Undergraduate Lecture Notes in Physics) | Jakob Schwichtenberg](https://twitter.com/curiouswavefn/status/1413564602420371459) + https://twitter.com/ketrenzo/status/1380623969166880773
+
 ### Miscellaneous
 
 - https://physicstravelguide.com

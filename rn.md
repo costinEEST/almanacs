@@ -132,6 +132,7 @@
 - https://github.com/IjzerenHein/react-native-bundle-visualizer
 - https://medium.com/game-development-stuff/how-to-profile-debug-ios-and-android-react-native-projects-db2141980072
 - https://www.instamobile.io/react-native-tutorials/full-clean-react-native-project
+- [An HTTP network request monitor for React Native with in-app interface for iOS and Android with no native code](https://github.com/alexbrazier/react-native-network-logger)
 
 ### Performance
 

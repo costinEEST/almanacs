@@ -24,3 +24,4 @@
 ### Practice
 
 - https://defparam.medium.com/ios-app-testing-through-burp-on-corellium-fe59ed849516
+- https://web.archive.org/web/20210704020737/https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail

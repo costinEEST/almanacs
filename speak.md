@@ -170,6 +170,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 ### Portuguese
 
 - [Faxina, a Portuguese language narrative podcast exploring the lives of Brazilian migrant house cleaners living and working in the United States](https://www.faxinapodcast.com)
+- https://aiydreen.com/portuguese
 
 ### Serbian
 
@@ -203,3 +204,4 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 ### Russian
 
 - https://twitter.com/in_ukraine_we + https://www.instagram.com/in_ukraine_we_dont_say
+- https://aiydreen.com/russian
