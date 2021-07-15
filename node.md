@@ -18,6 +18,7 @@
 - https://app.pluralsight.com/library/courses/oauth-2-getting-started
 - https://www.scottbrady91.com/OAuth/OAuth-is-Not-Authentication + https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization
 - [Authentication system using NextJS, GraphQL, Apollo Client, Apollo Server, MongoDB, Nginx, Docker, Docker-Compose and Kubernetes](https://github.com/nreoch25/nextjs-graphql-auth)
+- https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-system-782a7f2c840f + https://news.ycombinator.com/item?id=27580153
 
 ### API
 
@@ -94,6 +95,7 @@
 - https://github.com/covidgreen/covid-green-backend-api + [Can anyone recommend some beginner friendly @fastifyjs
 ](https://twitter.com/simonplend/status/1347482545831731203)
 - https://github.com/simonplend/workshop-get-started-with-fastify
+- https://github.com/ljlm0402/typescript-express-starter
 
 ### Cinema
 
