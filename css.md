@@ -34,6 +34,7 @@
 - https://github.com/tailwindlabs/tailwindcss-from-zero-to-production
 - [Design for Safari 15](https://developer.apple.com/videos/play/wwdc2021/10029)
 - https://courses.joshwcomeau.com/video-archive/css-for-js
+- [Designing in the Browser](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
 
 ### Color
 
@@ -66,9 +67,11 @@
 
 ### Community
 
+- [Amit Sheen](https://www.youtube.com/playlist?list=PLobGLCa6IPmhHCZn3q0GFs5hNimxgzjMK)
 - https://twitter.com/zehf/status/1310664033234808833
 - [Kevin Powell](https://www.youtube.com/kepowob/playlists)
 - https://github.com/micromata/awesome-css-learning
+- [Jhey Tompkins](https://www.youtube.com/c/JheyTompkins/playlists)
 
 ### Measurement units
 

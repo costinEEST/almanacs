@@ -64,6 +64,7 @@
 - https://github.com/lrlna/sketchin/blob/master/zines/mongodb101.md
 - https://www.bugsnag.com/blog/getting-started-with-mongodb
 - https://github.com/dabit3/dynamodb-documentclient-cheat-sheet
+- https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial
 
 ### Relational databases
 

@@ -128,6 +128,7 @@
 - [Vincent Voyer](https://nextjsnews.com)
 - [Softbinator Foundation](https://us2.campaign-archive.com/home/?u=a8f550154253f6574139ed3ae&id=7d076fb650)
 - [Mads Brodt](https://top3-in-tech.netlify.app)
+- [Jhey Tompkins](https://www.getrevue.co/profile/jh3y#archive)
 
 ### Web performance
 
