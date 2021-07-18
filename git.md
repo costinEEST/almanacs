@@ -73,6 +73,7 @@
 - [Run your GitHub Actions locally](https://github.com/nektos/act)
 - [Automated Github Backups with ECS and S3](https://www.marcolancini.it/2021/blog-github-backups-with-ecs)
 - https://github.com/useful-forks/useful-forks.github.io
+- https://ospfranco.github.io/post/2021/05/04/build-react-native-app-on-github-actions
 
 ### Tools
 

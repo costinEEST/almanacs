@@ -46,3 +46,4 @@
 - [Matthew Ström](https://matthewstrom.com/reading)
 - [Maggie Appleton](https://maggieappleton.com/library)
 - [Paramdeo Singh](https://paramdeo.com/bookshelf)
+- https://doriantaylor.com/book

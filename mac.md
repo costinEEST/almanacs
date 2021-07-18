@@ -32,6 +32,7 @@
 - [Mac menu bar app for common adb tools](https://github.com/naman14/adb-tools-mac)
 - [The easiest way to install and switch between multiple versions of Xcode - with a mouse click.](https://github.com/RobotsAndPencils/XcodesApp)
 - https://www.swyx.io/new-mac-setup-2021
+- https://ospfranco.github.io/post/2021/05/24/how-to-get-the-wifi-password-on-macos
 
 ### References
 

@@ -38,6 +38,7 @@
 - https://learn.handlebarlabs.com/courses/enrolled
 - https://github.com/screensyt/beat-react-native
 - https://github.com/react-made-native-easy/book
+- https://www.newline.co/courses/building-react-native-apps-for-mac
 
 ### Books
 

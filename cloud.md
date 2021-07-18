@@ -36,6 +36,7 @@
 - [Switching to CloudFlare Pages, from AWS S3 + CloudFlare DNS](https://cri.dev/posts/2021-04-13-switching-to-cloudflare-pages-first-impressions-review)
 - [AWS Pentesting | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22PkfO-zJNKOwiE1dSkmGDP)
 - [A collection of DevOps tools including shell & python scripts that automate the boring stuff in AWS.](https://github.com/dannysteenman/aws-toolbox)
+- [The Understanding Modern Cloud Architecture Series](https://www.youtube.com/playlist?list=PLesRB-DxZa8Zj9fNuvPwdL7-M39Ncrou0)
 
 ### Google Cloud
 
