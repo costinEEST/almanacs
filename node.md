@@ -253,6 +253,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://blog.bitsrc.io/how-i-analyzed-all-npm-dependency-licenses-in-one-go-18de0f7244bc + https://github.com/davglass/license-checker
 - https://github.com/raxod502/python-in-a-box
 - [Ship a JS file with Node.js in a box](https://github.com/mongodb-js/boxednode)
+- [Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.](https://github.com/vercel/ncc)
+- https://github.com/andreasonny83/unique-names-generator
 
 ### Testing
 

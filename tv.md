@@ -36,6 +36,7 @@
 ### Tools
 
 - [Collection of 8000+ publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
+- [Search by word or phrase for TV, movies, and music clips](https://yarn.co)
 
 ### TV series
 

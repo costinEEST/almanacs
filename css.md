@@ -63,6 +63,7 @@
 - https://twitter.com/CSS__Cafe/status/1397955842406748161 + https://www.youtube.com/watch?v=mAw75_quIf8 + https://www.meetup.com/CSS-Cafe/events/278134039
 - [Generate themes for your site, the Curves editor lets you edit color scales across channels for HSL, HSV, LAB, RGB, and LCH.](https://components.ai/theme?tab=editor)
 - https://blog.jim-nielsen.com/2021/css-system-colors
+- https://baselinehq.com/blog/colourblindness-information-ui-design-red-green-problems-tips-tricks.html
 
 
 ### Community
