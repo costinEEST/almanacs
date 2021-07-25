@@ -6,6 +6,7 @@
 #### Community
 
 - https://academyofideas.com/books/#propaganda-and-brainwashing
+- https://mostrecommendedbooks.com/experts
 
 ### Cinema
 
@@ -47,3 +48,4 @@
 - [Maggie Appleton](https://maggieappleton.com/library)
 - [Paramdeo Singh](https://paramdeo.com/bookshelf)
 - https://doriantaylor.com/book
+- [Sergio Mattei](https://matteing.com/books)

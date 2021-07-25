@@ -111,8 +111,6 @@
 ### Course
 
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide
-- https://www.udemy.com/course/nestjs-zero-to-hero/
-- https://www.udemy.com/course/nestjs-course/
 - [Serverless Framework Bootcamp: Node.js, AWS & Microservices](https://www.udemy.com/course/serverless-framework)
 - https://www.udemy.com/course/learning-koajs-by-building-rest-apis
 - [TypeScript with Node.js by Zaiste](https://www.youtube.com/playlist?list=PLhXZp00uXBk72m_G7E2Bshzd7PDpaInE1)
@@ -188,6 +186,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://blog.logrocket.com/online-radio-server-pure-node-js
 - https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express
 - https://github.com/lmammino/streams-workshop
+- https://github.com/stephenplusplus/stream-faqs
+- https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5
 
 ### Promise
 
@@ -334,7 +334,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps + https://twitter.com/albinowax/status/1353631953703100416
 - [Dependency Confusion](https://twitter.com/bradleymeck/status/1359882487674077189) + https://twitter.com/alxbrsn/status/1359852094950436866 + https://twitter.com/alxbrsn/status/1359200840876257287 + https://www.kernelcrypt.com/posts/depedency-confusion-explained + https://github.blog/2021-02-12-avoiding-npm-substitution-attacks
 - https://www.slideshare.net/madhuakula/node-js-reverse-shell
-- [More than 100 security checks for your Node.js API](https://github.com/jesusprubio/strong-node)
+- [More than 100 security checks for your Node.js API. Focused on Express and Hapi environments.](https://github.com/jesusprubio/strong-node)
 - https://www.acunetix.com/blog/web-security-zone/remote-debuggers-as-an-attack-vector
 - [do a visualisation of the dependencies and vulnerabilities in a nice format using a graph database.](https://javi-dr.medium.com/how-to-create-a-software-bill-of-materials-in-neo4j-5888c0f3c461) + https://github.com/javixeneize/Neo4J_BOM
 - [Node.js HTTP server performance](https://twitter.com/lukeed05/status/1396307201606651913) + https://twitter.com/bradleymeck/status/1397919169576804361

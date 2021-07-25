@@ -11,6 +11,10 @@
 - https://archive.org/details/AaronSwartzAProgrammableWeb + http://www.cs.rpi.edu/~hendler/ProgrammableWebSwartz2009.html + https://shud.in/posts/aaron-swartz-a-programmable-web
 - https://www.versobooks.com/blogs/2577-a-hacktivist-reading-list-aaron-swartz-s-recommended-reading
 
+### Anthony Bourdain
+
+- https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain + https://news.ycombinator.com/item?id=27852432
+
 #### Alan Turing
 
 - [ACM A.M. Turing Award](https://www.youtube.com/user/TheOfficialACM/playlists?view=50&sort=dd&shelf_id=2)

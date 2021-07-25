@@ -21,6 +21,7 @@
 - [A curriculum developed around the television series, Halt and Catch Fire (2014-2017), a fictional narrative about people working in tech during the 1980s-1990s.](https://github.com/ablwr/halt-and-catch-fire-syllabus)
 - https://inquisitivebiologist.com/2021/04/14/book-review-the-european-guilds-an-economic-analysis
 - [The Year 1000: When Explorers Connected the World – and Globalization Began](https://twitter.com/xhgMattia/status/1386964720738000898)
+- https://www.econtalk.org/iain-mcgilchrist-on-the-divided-brain-and-the-master-and-his-emissary
 
 ### Cinema
 

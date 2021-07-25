@@ -167,6 +167,7 @@
 - https://thatkimparker.medium.com/most-artists-are-not-making-money-off-nfts-and-here-are-some-graphs-to-prove-it-c65718d4a1b8
 - https://cointelegraph.com/magazine/2020/03/24/immutable-trash-crypto-art-censorship-meaning
 - https://www.theouterrealm.io/blog/a-short-history-of-nft-trash-art
+- https://timdaub.github.io/2021/07/21/nfts-are-coming-for-instagram
 
 ### Smart contracts
 

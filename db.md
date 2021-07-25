@@ -13,7 +13,7 @@
 - [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077) + https://news.ycombinator.com/item?id=25987664
 - https://caitiem.com/2017/09/07/getting-started-with-distributed-systems
 
-### Courses
+### Course
 
 - https://news.ycombinator.com/item?id=23070491
 - [CMPT 354: Database Systems and Structures (Summer 1998)](https://www2.cs.sfu.ca/CourseCentral/354/zaiane/material/notes/contents.html)
@@ -21,6 +21,7 @@
 - https://blog.bradfieldcs.com/how-to-learn-about-database-systems-40c7432f471d
 - [Introduction to Databases - Jennifer Widom - Stanford](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0)
 - https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free
+- https://www.freecodecamp.org/news/learn-to-use-the-mysql-database
 
 ### Tools
 

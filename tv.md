@@ -12,6 +12,7 @@
 - https://www.esquire.com/entertainment/movies/g35338893/best-documentaries-of-2021
 - https://abacusnoir.blog/2021/03/01/watching-adam-curtis
 - http://aarc.ro/articol/2-documentare-romanesti-pe-lista-celor-mai-bune-documentare-din-toate-timpu
+- https://aeon.co/videos/a-deadpan-treatise-on-the-craft-of-pencil-sharpening-from-a-master-artisan
 
 ### Interview
 
@@ -32,6 +33,7 @@
 - https://www.theguardian.com/travel/2021/jan/12/10-best-virtual-travel-experiences-2021-film-festivals-street-tours-wine-tasting
 - https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time
 - https://www.thewoodsatparkside.com/5-must-see-movies-about-drug-addiction
+- https://www.pastemagazine.com/movies/dystopian-movies/best-dystopian-movies-of-all-time-1/#50-the-running-man
 
 ### Tools
 

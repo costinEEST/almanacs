@@ -103,6 +103,7 @@
 - http://languagestolearn.com/has-english-become-the-21st-centurys-linguistic-bully
 - [What The English?!](https://www.youtube.com/playlist?list=PLxDXDxbE93MyXaHPbZmJNkmIkVtP7dz3p)
 - [The Surprising History of 'Freelance'](https://www.merriam-webster.com/words-at-play)
+- [A JSON representation of Webster's Unabridged Dictionary](https://github.com/adambom/dictionary)
 
 ### Esperanto
 

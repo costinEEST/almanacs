@@ -30,6 +30,7 @@
 - [vimeo.com/microsoftdesign/connecting](https://vimeo.com/52861634)
 - https://www.ohyouprettythings.com/free
 - https://www.domestika.org/en/blog/5606-7-masters-of-graphic-design-share-their-industry-insider-secrets
+- https://davidhoang.substack.com/p/talks-that-shaped-my-philosophies
 
 ### Course
 
@@ -49,6 +50,9 @@
 - [Gráphagos: Evolutionary Algorithm as a Model for the Creative Process and as a Tool to Create Graphic Design Products | by Deniz Cem Önduygu](http://denizcemonduygu.com/thesis)
 - https://www.creativeboom.com/inspiration/50-of-the-best-blogs-for-graphic-design-inspiration
 - https://gridless.design
+- [what are your go-to places for graphic design history?](https://twitter.com/alistairhall/status/1405446603796881410)
+- https://www.logodesignlove.com/coca-cola-logo
+- https://www.fastcompany.com/90656667/the-best-olympic-logos-of-all-time-according-to-design-experts
 
 ### Inspire
 
@@ -69,6 +73,7 @@
 - https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7
 - https://uxtools.co/challenges
 - https://growth.design/psychology + https://news.ycombinator.com/item?id=27004714
+- [2020 will mark 4 years since I made a career change into UX/UI Design with little/no previous experience designing apps & websites.](https://twitter.com/chrysking/status/1214301681502044160)
 
 ### Portfolio
 
@@ -78,6 +83,11 @@
 - [Kuldar Kalvik](https://github.com/kuldar/kuldar-2020)
 - [Colin Hemphill](https://github.com/colinhemphill/colinhemphill-website)
 - https://zthall.com/2017/06/11/narrows-crossfit-casestudy
+- https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios
+
+### Theory
+
+- https://www.toptal.com/designers/ui/gestalt-principles-of-design
 
 ### Tools
 

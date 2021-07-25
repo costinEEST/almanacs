@@ -109,6 +109,7 @@
 - https://anamariaonisei.ro/cele-mai-frumoase-tururi-virtuale-gratuite-de-la-muzeee-si-la-atractii-turistice-pana-la-plimbari-in-natura-si-parcuri-de-distractii
 - https://www.amazon.com/Elsewhere-Journey-into-Our-Islands-ebook/dp/B08KRML8VQ
 - [Can someone answer me why we need time zones? Why not just have one universal time?](https://twitter.com/mkobach/status/1374552316041326594)
+- https://restofworld.org/2021/beyond-silicon-valley
 
 ### History
 
@@ -152,6 +153,7 @@
 ### Archeology
 
 - ["Against the Grain" by James C. Scott](https://twitter.com/devonzuegel/status/1212414927777992705)
+- [1177 B.C. The Year Civilization Collapsed](https://paulskallas.substack.com/p/14-lindy-talk-w-prof-eric-cline)
 
 ### Stoicism
 

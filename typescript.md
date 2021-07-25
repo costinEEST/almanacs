@@ -65,6 +65,7 @@
 - https://dev.doctorevidence.com/efficient-node-development-with-typescript-10a6d390129d
 - [TypeScript build examples and workflows.](https://github.com/serbanghita/TypeScript-Builds)
 - [Just migrated a project from Flow to TypeScript.](https://twitter.com/satya164/status/1071953492544233472)
+- https://blog.ghaiklor.com/2021/07/19/let-us-improve-your-skill-set-when-working-with-typescript + https://github.com/ghaiklor/type-challenges-solutions
 
 
 ### Reference

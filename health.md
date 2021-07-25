@@ -18,6 +18,7 @@
 - https://flaviocopes.com/repetive-strain-injury + https://twitter.com/flaviocopes/status/1378999932191977473
 - https://inquisitivebiologist.com/2021/04/06/book-review-how-to-make-a-vaccine-an-essential-guide-for-covid-19-beyond
 - https://inquisitivebiologist.com/2021/04/20/book-review-we-know-it-when-we-see-it-what-the-neurobiology-of-vision-tells-us-about-how-we-think
+- [books that we have read and helped us get started with the ketogenic way of eating.](https://www.amazon.com/shop/mexican_keto_journey?listId=2XBJADZ4G6AAE)
 
 ### Cinema
 
@@ -264,6 +265,7 @@
 - [Now proven against coronavirus, mRNA can do so much more](https://edition.cnn.com/2021/06/01/health/mrna-vaccines-covid-future/index.html)
 - https://www.wired.co.uk/article/mrna-vaccine-revolution-katalin-kariko
 - [The Global Virome in One Network (VIRION), an open-source atlas of the vertebrate virome.](https://twitter.com/viralemergence/status/1394270587267264518) + https://github.com/viralemergence/virion#how-we-built-virion
+- https://www.sciencemag.org/news/2020/01/ancient-viruses-found-tibetan-glacier
 
 ### Radiation
 
