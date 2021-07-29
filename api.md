@@ -25,6 +25,7 @@
 - [Amazon Scraper. Scrape products from the amazon search result or reviews from the specific product ](https://github.com/drawrowfly/amazon-product-api)
 - [Collection of Stoic Wisdom](https://github.com/TomFrink/StoicPage)
 - [Hacker News daily top 10 posts](https://github.com/headllines/hackernews-daily)
+- [Get RSS Feeds for YouTube channels and playlists](https://github.com/faraixyz/youtube-x-rss)
 
 ### GraphQL
 

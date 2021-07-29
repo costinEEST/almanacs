@@ -42,6 +42,7 @@
 - https://github.com/GoSecure/php7-opcache-override
 - https://blog.packagist.com/preventing-dependency-hijacking
 - [WAF bypassing](https://twitter.com/0xInfection/status/1340758820042256384)
+- [XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.](https://github.com/s4n7h0/xvwa)
 
 ### Miscellaneous
 

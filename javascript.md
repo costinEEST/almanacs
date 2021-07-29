@@ -111,7 +111,7 @@
 
 ### Books
 
-- [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html)
+- [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html) + https://github.com/source-academy/sicp
 - [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
 - [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
 - https://github.com/amilajack/reading/tree/master/JavaScript
@@ -502,6 +502,7 @@
 - [Tool for decrypting stack traces coming from the minified JS code.](https://github.com/software-mansion-labs/stack-beautifier)
 - [Convert an object's keys to snake case](https://github.com/bendrucker/snakecase-keys)
 - https://glebbahmutov.com/blog/npm-tips-and-trics
+- [Simple monorepos via npm workspaces and TypeScript project references](https://2ality.com/2021/07/simple-monorepos.html)
 
 ### Documentation
 

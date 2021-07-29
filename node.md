@@ -93,9 +93,10 @@
 - https://github.com/focusaurus/express_code_structure
 - https://github.com/Nilomiranda/relay-social + https://twitter.com/Nilomiranda/status/1241465671608918017
 - https://github.com/covidgreen/covid-green-backend-api + [Can anyone recommend some beginner friendly @fastifyjs
-](https://twitter.com/simonplend/status/1347482545831731203)
+](https://twitter.com/simonplend/status/1347482545831731203) + https://simonplend.com/how-to-migrate-your-app-from-express-to-fastify
 - https://github.com/simonplend/workshop-get-started-with-fastify
 - https://github.com/ljlm0402/typescript-express-starter
+- https://github.com/timofeysie/nextjs-markdown-blog
 
 ### Cinema
 
@@ -188,6 +189,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/lmammino/streams-workshop
 - https://github.com/stephenplusplus/stream-faqs
 - https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5
+- [O-Stream - provides an intuitive interface for node streams, in typescript.](https://gitlab.com/itayronen/o-stream)
 
 ### Promise
 
@@ -198,6 +200,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 - https://simonplend.com/are-you-using-promises-and-async-await-safely-in-node-js
 - https://slides.com/lucianomammino/finding-a-lost-song-with-nodejs-and-async-iterators
+- https://yarin.dev/nodejs-cpu-bound-tasks-worker-threads
 
 ### Thread
 
@@ -262,6 +265,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://engineering.klarna.com/6-lessons-learned-from-optimizing-the-performance-of-a-node-js-service-f163cac20473
 - https://github.com/giltayar/microservices-are-made-for-testing
 - [Build an HTTPS-intercepting JavaScript proxy](https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp)
+- [Code-coverage using Node.js' built in functionality that's compatible with Istanbul's reporters.](https://github.com/bcoe/c8)
 
 ### Web servers
 

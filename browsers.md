@@ -192,6 +192,7 @@ javascript: (() =>
 - [world smallest office suite](https://zserge.com/posts/awfice)
 - https://catalin.red/copy-clipboard-js
 - [Bookmarklets for sending emails and adding todo items](https://sashko.dev/bookmarklets)
+- https://www.farai.xyz/notes/tech-tips/please-archive-content
 
 ### Chrome
 

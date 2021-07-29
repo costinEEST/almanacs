@@ -50,6 +50,7 @@
 - [Large-scale abuse of contact discovery in mobile messengers](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf)
 - [A more privacy-friendly blog](https://vincent.bernat.ch/en/blog/2018-more-privacy-blog)
 - [Candiru is a secretive Israel-based company that sells spyware exclusively to governments.](https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus)
+- [Node.js module to help you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics](https://github.com/yeoman/insight)
 
 ### Techniques
 

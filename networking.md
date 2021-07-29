@@ -126,7 +126,7 @@
 - https://www.antitree.com/2013/02/22/how-tor-does-dns-the-breaking-bad-way
 - https://tech.ovoenergy.com/how-we-prevented-subdomain-takeovers-and-saved-000s + https://github.com/ovotech/domain-protect
 
-### TCP
+### TCP/UDP
 
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
 - https://github.com/shuhei/knowledge/blob/master/network.md#tcp
@@ -136,10 +136,9 @@
 - https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work
 - [Notes on networking observability commnads](https://aunfl0w.github.io/2019/netcommands)
 - [TCP Ports list (3498 ports in list)](https://www.gasmi.net/tcp.php)
-
-### UDP
-
 - [Reinventing UDP Streaming with QUIC](https://twitter.com/SimmerVigor/status/1207008500125224961)
+- https://blog.ikuamike.io/posts/2021/netcat
+
 
 ### HTTP
 
