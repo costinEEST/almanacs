@@ -38,6 +38,7 @@
 - [Digital Currency | thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCB3bm4ZuFAm4eADj0VMy_D)
 - [Blockchain Course | Arthur Gervais](https://www.youtube.com/playlist?list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
 - [Blockchain Security | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22gfyqgXMuYyWVSFklxHSzk)
+- [DeFi Tutorials with DeFi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg/playlists)
 
 ### Community
 

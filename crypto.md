@@ -81,12 +81,14 @@
 - [Some really smart people in security shared their favorite papers or articles.](https://twitter.com/grittygrease/status/1028769194643353600)
 - https://digitalbunker.dev/2020/09/30/understanding-how-uuids-are-generated
 - [A collection of secure encryption examples for encrypting strings and binary data.](https://github.com/luke-park/SecureCompatibleEncryptionExamples)
+- https://github.com/SalusaSecondus/CryptoGotchas
 
 
 ### Practice
 
 - [CryptoHack – A fun platform for learning cryptography](https://cryptohack.org)
 - [Cryptopals on Twitch - Filippo Valsorda](https://www.youtube.com/playlist?list=PLwiyx1dc3P2KoKsYdbZQutKvozOPjDilr)
+- [Crypto design and it includes many challenges with historic or "obscure" procedures and machines.](https://www.mysterytwisterc3.org/en)
 - https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html
 - [Recovering a full PEM Private Key when half of it is redacted](https://blog.cryptohack.org/twitter-secrets)
 

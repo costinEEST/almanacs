@@ -137,7 +137,7 @@
 - [Notes on networking observability commnads](https://aunfl0w.github.io/2019/netcommands)
 - [TCP Ports list (3498 ports in list)](https://www.gasmi.net/tcp.php)
 - [Reinventing UDP Streaming with QUIC](https://twitter.com/SimmerVigor/status/1207008500125224961)
-- https://blog.ikuamike.io/posts/2021/netcat
+- https://blog.ikuamike.io/posts/2021/netcat + https://news.ycombinator.com/item?id=27973020
 
 
 ### HTTP

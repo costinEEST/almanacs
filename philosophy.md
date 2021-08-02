@@ -1,3 +1,7 @@
+### Book
+
+- [Doing Good Better | William MacAskill](https://blog.foolip.org/2015/09/28/the-life-you-can-save)
+
 ### Community
 
 - [Philosophy Organizations on Twitter](https://truesciphi.org/phiorg_fol.html)
@@ -27,3 +31,7 @@
 - https://anamariaonisei.ro/cele-mai-bune-podcasturi-despre-filozofie-care-iti-raspund-intrebarilor-importante-despre-viata
 - http://edithhall.co.uk/aristotle
 - [Respice post te. Hominem te esse memento. Memento mori!](https://twitter.com/SahilBloom/status/1366072879213813762)
+
+### Radio
+
+- https://blog.foolip.org/2015/10/09/more-podcast-recommendations

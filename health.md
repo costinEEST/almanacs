@@ -266,6 +266,7 @@
 - https://www.wired.co.uk/article/mrna-vaccine-revolution-katalin-kariko
 - [The Global Virome in One Network (VIRION), an open-source atlas of the vertebrate virome.](https://twitter.com/viralemergence/status/1394270587267264518) + https://github.com/viralemergence/virion#how-we-built-virion
 - https://www.sciencemag.org/news/2020/01/ancient-viruses-found-tibetan-glacier
+- https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need
 
 ### Radiation
 

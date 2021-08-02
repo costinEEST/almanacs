@@ -33,6 +33,7 @@
 - https://github.com/Voluntari-Noi/guitar-lessons
 - [Flute | Matt Godbolt](https://www.youtube.com/playlist?list=PL2HVqYf7If8fbWCYhJTffhMlsjc6rre4y)
 - https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano + https://news.ycombinator.com/item?id=27085922
+- https://transylvanianow.com/restoring-transylvanian-pipe-organ-heritage-builder-endre-denes
 
 
 ### Tool
@@ -40,6 +41,7 @@
 - https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9
 - https://www.onlinemusictools.com
 - [Yousician | Learn Guitar, Piano, Ukulele With The Songs you Love](https://yousician.com)
+- [The Lomax Digital Archive provides free access to audio/visual collections compiled across seven decades by folklorist Alan Lomax (1915–2002) and his father John A. Lomax (1867–1948).](https://archive.culturalequity.org)
 
 
 ### Reference
@@ -58,6 +60,7 @@
 - https://www.beatportal.com/features/beatports-definitive-guide-to-techno
 - https://daily.jstor.org/the-heretical-origins-of-the-sonnet
 - https://www.beatportal.com/features/beatports-definitive-guide-to-techno + https://news.ycombinator.com/item?id=26977869
+- https://en.wikipedia.org/wiki/Constantin_Br%C4%83iloiu
 
 ### Songs
 
@@ -92,3 +95,4 @@
 ### Radio
 
 - [Ultimate Study Music Playlist |  Thomas Frank](https://www.youtube.com/playlist?list=PLx65qkgCWNJIs3FPaj8JZhduXSpQ_ZfvL)
+- https://www.romania-muzical.ro/arhiva-emisiuni/o-istorie-subiectiva-a-muzicii-romaneti/5521/2018

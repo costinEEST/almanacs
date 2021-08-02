@@ -99,6 +99,7 @@
 - https://www.singhkays.com/blog/how-spotify-is-killing-the-open-podcast-ecosystem
 - https://medium.com/@harrikiljander/operation-elop-6f2b043f52c5
 - https://www.protocol.com/chess-streaming-twitch-hikaru-botez
+- https://rebelmarkets.substack.com/p/the-history-and-future-of-airpods
 
 ### Culture
 

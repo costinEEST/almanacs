@@ -123,6 +123,7 @@
 - [Enables you to visualize your physical network in form of graph with zero manual error](https://github.com/varchashva/LetsMapYourNetwork)
 - https://nelsonslog.wordpress.com/2021/03/17/telegraf-influxdb-grafana
 - https://blog.zsec.uk/locking-down-ssh-the-right-way
+- [How to achieve enterprise-grade attack-surface monitoring with open source software](https://hakluke.com/open-source-asm-spiderfoot)
 
 ### CI/CD
 

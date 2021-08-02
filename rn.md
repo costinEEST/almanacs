@@ -107,6 +107,8 @@
 - https://brooklinmyers.medium.com/react-native-understanding-threads-e026c7d62bb2
 - https://www.shopify.com/partners/blog/react-native-accessibility
 - https://github.com/ReactNativeSchool/react-native-ecommerce-app
+- https://medium.com/simform-engineering/how-to-set-up-different-environments-in-react-native-9f7902ebf282 + https://github.com/mobile-simformsolutions/react-native-environments
+- https://medium.com/@davidjasonharding/developing-a-react-native-app-on-an-m1-mac-without-rosetta-29fcc7314d70
 
 ### Packages
 

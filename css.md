@@ -184,6 +184,8 @@
 - [Your cheat sheet for float, clear and defer](https://www.princexml.com/howcome/2021/guides/float/index.html)
 - [Minimal snippets for modern CSS layouts and components](https://github.com/5t3ph/smolcss)
 - https://adrianroselli.com/2021/04/sortable-table-columns.html
+- https://alistapart.com/article/designing-for-the-unexpected
+
 
 ### Tools
 

@@ -342,7 +342,7 @@
 - https://github.com/Hendrixer/production-grade-nextjs
 - https://jonmeyers.io/blog/build-a-saas-platform-with-stripe
 - https://jonmeyers.io/courses/build-an-e-commerce-platform-in-25-days-using-next-js-netlify-and-stripe
-
+- [windows 11 in react](https://github.com/blueedgetechno/windows11)
 
 
 ### Testing
@@ -386,3 +386,4 @@
 - https://github.com/yakkomajuri/react-from-scratch
 - https://github.com/HearTao/ts-react-hooks-tools
 - [A boilerplate for SSR'd Vite, React 17, and TypeScript 4.3](https://blog.jonlu.ca/posts/vite)
+- https://javascript.plainenglish.io/10-ways-to-host-your-react-app-for-free-cf91fe615177

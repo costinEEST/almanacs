@@ -12,6 +12,8 @@
 
 - https://github.com/Divlo/create-fullstack-app
 - https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node
+- https://github.com/CodelyTV/typescript-ddd-example
+- https://github.com/bitjson/typescript-starter
 
 
 ### Cinema

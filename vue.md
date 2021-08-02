@@ -17,6 +17,10 @@
 
 - [A simple URL shortener.](https://github.com/herbievine/swooosh)
 
+### Development
+
+- [Vue Storefront is the most popular and most advanced Frontend Platform for eCommerce](https://github.com/vuestorefront/vue-storefront)
+
 ### Opinion
 
 - https://bypaulshen.com/posts/comparing-vue-and-react
