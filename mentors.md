@@ -24,6 +24,10 @@
 
 - https://intuitiveexplanations.com/tech/replit
 
+### Claude Shannon
+
+- https://www.amazon.com/Bit-Player-John-Hutton/dp/B08D291YQS
+
 ### Daniel Kaminsky
 
 - https://twitter.com/dakami/status/1213734316712161280
@@ -51,6 +55,10 @@
 ### Patrick Collison
 
 - [Which five books have influenced you the most? (In terms of shaping your worldview.)](https://twitter.com/patrickc/status/929862403763798016)
+
+### Peter D. Mitchell
+
+- https://www.nobelprize.org/prizes/chemistry/1978/mitchell/biographical
 
 ### Peter Thiel
 

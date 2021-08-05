@@ -1,6 +1,8 @@
 ### Book
 
 - [Physics from Symmetry (Undergraduate Lecture Notes in Physics) | Jakob Schwichtenberg](https://twitter.com/curiouswavefn/status/1413564602420371459) + https://twitter.com/ketrenzo/status/1380623969166880773
+- [Spacetime and Geometry: An Introduction to General Relativity | Sean Carroll](https://www.amazon.com/Spacetime-Geometry-Introduction-General-Relativity/dp/0805387323)
+- [Geometrical Methods of Mathematical Physics | Bernard F. Schutz](https://www.amazon.com/Geometrical-Methods-Mathematical-Physics-Bernard/dp/0521298873)
 
 ### Miscellaneous
 
