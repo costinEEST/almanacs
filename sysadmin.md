@@ -99,6 +99,7 @@
 - [Creates Wireguard configuration for hub and peers with ease](https://github.com/burghardt/easy-wg-quick)
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://selfhostedsource.tech/self-hosted/all
+- https://joshtronic.com/2021/08/01/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
 
 ### References
 

@@ -301,6 +301,7 @@
 - https://nosleepjavascript.com/react-performance
 - https://imkev.dev/react-rendering-order
 - https://github.com/tryshchenko/es6-generators-benchmark
+- https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score
 
 ### Demo
 

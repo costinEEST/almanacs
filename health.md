@@ -6,6 +6,7 @@
 
 - https://psyche.co/guides/how-to-stop-overthinking-with-help-from-metacognitive-strategies
 - [Psilocybin induces rapid and persistent growth of dendritic spines in frontal cortex in vivo](https://www.cell.com/neuron/fulltext/S0896-6273(21)00423-2?_)
+- https://www.amazon.com/Livewired-Inside-Story-Ever-Changing-Brain/dp/030790749X + https://eagleman.com/books/livewired/
 
 ### Book
 

@@ -22,6 +22,8 @@
 - https://inquisitivebiologist.com/2021/04/14/book-review-the-european-guilds-an-economic-analysis
 - [The Year 1000: When Explorers Connected the World – and Globalization Began](https://twitter.com/xhgMattia/status/1386964720738000898)
 - https://www.econtalk.org/iain-mcgilchrist-on-the-divided-brain-and-the-master-and-his-emissary
+- https://eandt.theiet.org/content/articles/2019/10/book-review-beyond-the-valley-how-innovators-around-the-world-are-overcoming-inequalities-and-shaping-the-technology-of-tomorrow
+- https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years + https://youtu.be/CZIINXhGDcs
 
 ### Cinema
 
@@ -82,6 +84,7 @@
 - https://www.amazon.com/Chasing-Rabbit-Outdistance-Competition-Christensen-ebook/dp/B0015DWJ8M
 - [TIM FERRISS 17 Lectii care mi-au schimbat viata](https://www.evernote.com/shard/s314/client/snv?noteGuid=cf3f3a95-81d9-42f1-8406-2a859d65fe02&noteKey=6646ca63cdf29e62ba3cc343ee1c31fd&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs314%2Fsh%2Fcf3f3a95-81d9-42f1-8406-2a859d65fe02%2F6646ca63cdf29e62ba3cc343ee1c31fd&title=TIM%2BFERRISS%2B17%2BLectii%2Bcare%2Bmi-au%2Bschimbat%2Bviata)
 - [“Earn influence, don’t mandate it” – a conversation with Figma’s Devdatta Akhawe](https://material.security/blog/earn-influence-dont-mandate-it--a-conversation)
+- [reading-for-product-managers.md](https://gist.github.com/simpsoka/5794e07d4dd34c9bbc70de26c0402552)
 
 ### Leadership
 
@@ -208,6 +211,7 @@
 - https://www.theverge.com/21459906/bittorrent-tron-acquisition-justin-sun-us-china
 - https://www.geekwire.com/2020/amazon-jumps-virtual-tourism-offering-live-one-one-experiences-around-world
 - http://www.uky.edu/~eushe2/Pajares/OnFailingG.html
+- https://www.researchgate.net/publication/265637998_How_Nokia_Failed_to_Nail_the_Smartphone_Market
 - 
 
 ### Miscellaneous

@@ -33,6 +33,10 @@
 ### Theory
 
 - https://en.wikipedia.org/wiki/Semantic_satiation + https://news.ycombinator.com/item?id=26915742
+- https://www.researchgate.net/publication/325792070_Laptop_versus_longhand_note_taking_effects_on_lecture_notes_and_achievement
+- https://www.researchgate.net/publication/330599365_Note_This_How_to_Improve_Student_Note_Taking
+- https://www.researchgate.net/publication/320364005_An_integrative_review_of_the_cognitive_costs_and_benefits_of_note-taking
+- [The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking](https://journals.sagepub.com/doi/10.1177/0956797614524581)
 
 ### Radio
 
