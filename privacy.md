@@ -71,6 +71,7 @@
 - https://github.com/anttiviljami/browser-autofill-phishing
 - https://k3tan.com/starting-a-new-digital-identity + https://news.ycombinator.com/item?id=26888067
 - [HOW TO WHITELIST OUR EMAIL](https://drmowll.lpages.co/de-whitelist)
+- https://theintercept.com/2021/07/27/pegasus-nso-spyware-security
 
 ### Social media
 

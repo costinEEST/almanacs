@@ -140,3 +140,4 @@
 - [Dan North thinks that Bob Martin's SOLID principles are bogus](https://dannorth.net/2021/03/16/cupid-the-back-story)
 - https://github.com/huyingjie/Checklist-Checklist
 - [Software Licenses in Plain English](https://tldrlegal.com)
+- https://games.greggman.com/game/zip-rant

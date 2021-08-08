@@ -32,6 +32,10 @@
 - http://edithhall.co.uk/aristotle
 - [Respice post te. Hominem te esse memento. Memento mori!](https://twitter.com/SahilBloom/status/1366072879213813762)
 
+### Stoicism
+
+- https://figsinwinter.blog/2021/07/30/how-to-live-a-good-life-two-examples
+
 ### Radio
 
 - https://blog.foolip.org/2015/10/09/more-podcast-recommendations

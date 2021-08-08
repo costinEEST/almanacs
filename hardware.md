@@ -101,6 +101,7 @@
 - [VoltJockey: Breaching TrustZone by Software-Controlled Voltage Manipulation over Multi-core Frequencies](https://dl.acm.org/doi/10.1145/3319535.3354201) + http://web.archive.org/web/20201027140618/http://voltjockey.com
 - https://github.com/LowLevelJavaScript/Learning-Resources
 - [GoodWatch](https://twitter.com/travisgoodspeed/status/940263089982902272)
+- https://elevation.fandom.com/wiki/List_of_elevator_special_modes
 
 ### Radio
 
