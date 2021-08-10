@@ -34,6 +34,7 @@
 - https://thesquareplanet.com/blog/livestream-tips
 - [the best way to make video-PoCs](https://threadit.app) + https://twitter.com/sirdarckcat/status/1388611387556044800
 - [Converting Videos to GIF in Bash](https://coderose.io/video2gif)
+- [Take out your phone, and teach. Classcamp is the easiest way to create an online course.](https://www.classcamp.com)
 
 ### Opinions
 

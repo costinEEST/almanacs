@@ -109,6 +109,8 @@
 - https://github.com/ReactNativeSchool/react-native-ecommerce-app
 - https://medium.com/simform-engineering/how-to-set-up-different-environments-in-react-native-9f7902ebf282 + https://github.com/mobile-simformsolutions/react-native-environments
 - https://medium.com/@davidjasonharding/developing-a-react-native-app-on-an-m1-mac-without-rosetta-29fcc7314d70
+- https://medium.com/unibuddy/tracking-time-spent-in-react-native-b2f10398b0f5
+- https://github.com/ximxim/RNDeepLinkAuth + https://medium.com/@azim.ahmed7/react-navigation-deep-linking-with-authentication-9056eb4a0456
 
 ### Packages
 
@@ -137,6 +139,7 @@
 - https://medium.com/game-development-stuff/how-to-profile-debug-ios-and-android-react-native-projects-db2141980072
 - https://www.instamobile.io/react-native-tutorials/full-clean-react-native-project
 - [An HTTP network request monitor for React Native with in-app interface for iOS and Android with no native code](https://github.com/alexbrazier/react-native-network-logger)
+- https://www.echowaves.com/post/a-bug-that-made-me-a-better-developer + https://medium.com/@echowaves/a-bug-that-made-me-a-better-developer-707b9dfa50ab
 
 ### Performance
 

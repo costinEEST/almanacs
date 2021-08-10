@@ -70,6 +70,7 @@
 - https://www.theguardian.com/membership/2021/feb/01/reverberate-guardian-new-podcast-songs-music-soundtrack-history
 - https://bolero.mentine.net/?lang=en#trackZero
 - https://www.classical-music.com/features/works/what-are-the-saddest-pieces-of-classical-music
+- https://faroutmagazine.co.uk/greatest-protest-songs-ever-bob-dylan-nina-simone-public-enemy
 
 ### Jazz
 

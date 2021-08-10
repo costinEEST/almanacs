@@ -13,6 +13,7 @@
 - https://abacusnoir.blog/2021/03/01/watching-adam-curtis
 - http://aarc.ro/articol/2-documentare-romanesti-pe-lista-celor-mai-bune-documentare-din-toate-timpu
 - https://aeon.co/videos/a-deadpan-treatise-on-the-craft-of-pencil-sharpening-from-a-master-artisan
+- [Dealt (2017). Prepare to be inspired and amazed by Richard Turner, one of the world's most renowned card magicians, who met adversity head-on and refused to let his disability define him.](https://www.amazon.com/gp/product/B076HDXMX8)
 
 ### Interview
 

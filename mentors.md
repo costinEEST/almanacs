@@ -14,6 +14,7 @@
 ### Anthony Bourdain
 
 - https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain + https://news.ycombinator.com/item?id=27852432
+- https://www.newyorker.com/books/double-take/sunday-reading-remembering-anthony-bourdain
 
 #### Alan Turing
 
