@@ -247,6 +247,7 @@ javascript: (() =>
 - [How to Store Session Tokens in a Browser (and the impacts of each)](https://blog.ropnop.com/storing-tokens-in-browser)
 - https://rudism.com/cookie-monster
 - [Browser fingerprinting via favicon!](https://github.com/jonasstrehle/supercookie)
+- [Exploring the SameSite cookie attribute for preventing CSRF](https://simonwillison.net/2021/Aug/3/samesite)
 
 ### Federated Learning of Cohorts
 

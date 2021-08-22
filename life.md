@@ -20,7 +20,13 @@
 - https://www.nationalgeographic.com/animals/article/bumblebees-bite-plants-flower-early
 - [Dog training |  Eric Bell](https://www.youtube.com/playlist?list=PLB8JqSBrZCVG7z_YtwYEWNnaDGuLmt-Xh)
 - https://przekroj.pl/en/science/chatty-nature-mikolaj-golachowski
-- https://www.amazon.com/Missing-Lynx-Future-Britains-Mammals/dp/1472957342/
+- https://www.amazon.com/Missing-Lynx-Future-Britains-Mammals/dp/1472957342
+- https://www.scribd.com/document/59708597/Atlasul-pe%C8%99tilor-din-apele-R-P-R-1963
+- [Ghid de monitorizare a speciilor de pesti](https://www.ibiol.ro/posmediu/pdf/Ghiduri/Ghid%20de%20monitorizare%20a%20speciilor%20de%20pesti.pdf)
+- http://www.ddni.ro/manager/editor/UserFiles/File/Publications/Books/2007_Atlasul_pestilor
+- https://www.totpescuit.ro/cum-as-fi-pescuit-la-dunare/#comment-436
+- [Atlasul peştilor din Rezervaţia Biosferei Delta Dunării | Vasile Oţel](https://books.google.ro/books/about/Atlasul_pe%C5%9Ftilor_din_Rezerva%C5%A3ia_Biosfe.html?id=3za5rQEACAAJ)
+
 
 ### Anatomy
 
