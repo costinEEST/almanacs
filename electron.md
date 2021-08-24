@@ -29,6 +29,7 @@
 - [Deskreen turns any device with a web browser into a secondary screen for your computer](https://github.com/pavlobu/deskreen)
 - [A third party music application for Netease Music](https://github.com/qier222/YesPlayMusic)
 - [A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK) ](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
+- [Spent some time bundling Ordinary Puzzles with Electron (using React Native for Web)](https://github.com/mmazzarolo/ordinary-puzzles-app/pull/49)
 
 ### Boilerplates
 

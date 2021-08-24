@@ -58,6 +58,7 @@
 - [How can I read an android config from build gradle from the js?](https://github.com/ismaeldcom/react-native-build-config)
 - [https://figma-to-react.vercel.app](https://twitter.com/tomsoderlund/status/1375826499438264324)
 - https://medium.com/react-native-school/navigating-xcode-for-react-native-developers-with-a-web-background-a1ee4d6ae4a8
+- https://github.com/IRONKAGE/Device-Script-React-Native + https://ironkage.medium.com/run-any-ios-simulator-on-react-narive-fec0739a79e9
 
 ### Testing
 
@@ -111,6 +112,7 @@
 - https://medium.com/@davidjasonharding/developing-a-react-native-app-on-an-m1-mac-without-rosetta-29fcc7314d70
 - https://medium.com/unibuddy/tracking-time-spent-in-react-native-b2f10398b0f5
 - https://github.com/ximxim/RNDeepLinkAuth + https://medium.com/@azim.ahmed7/react-navigation-deep-linking-with-authentication-9056eb4a0456
+- https://around25.com/blog/how-to-implement-push-notifications-in-react-native
 
 ### Packages
 
@@ -130,6 +132,7 @@
 - https://github.com/emeraldsanto/react-native-encrypted-storage
 - https://www.reactnativeschool.com/how-to-reset-react-native-cache-npm-ios-android-and-more
 - [Initiate immediate phone call for React Native on iOS and Android.](https://github.com/tuanlv89/react-native-immediate-call-library)
+- [Use ESBuild to make your React Native code bundle faster.](https://github.com/EvanBacon/metro-minify-esbuild)
 
 ### Debugging
 
@@ -153,6 +156,7 @@
 - https://aditya01.hashnode.dev/how-to-make-your-react-native-app-more-performant
 - https://callstack.com/blog/hermes-performance-on-ios
 - https://blog.bam.tech/developer-news/measuring-and-improving-react-native-apps-startup-time
+- [One of the biggest misconceptions about React Native is that it has worse performance than native iOS/Android](https://twitter.com/Ashoat/status/1425906197992026114)
 
 ### Radio
 
