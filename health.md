@@ -174,6 +174,7 @@
 - https://www.mycoworks.com/resources
 - [Fungi on Mars? Evidence of Growth and Behavior from Sequential Images](https://news.ycombinator.com/item?id=27065361)
 - https://en.wikipedia.org/wiki/Mushroom_poisoning + https://namyco.org/docs/Mushroom_Poisoning_in_North_America_2015-2016.pdf
+- https://www.magicmushroommap.com
 
 ### Alcohol
 

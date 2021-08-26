@@ -49,6 +49,7 @@
 - [Example project on how to send emails in Next.js with Sendgrid and Dynamic Templates ](https://github.com/hunterbecton/sendgrid-next-js)
 - https://github.com/frankdilo/personal-blog-template
 - https://ashleemboyer.com/how-i-added-an-rss-feed-to-my-nextjs-site
+- https://github.com/paulintrognon/paulintrognon.fr
 
 ### Books
 
@@ -105,6 +106,7 @@
 - [how does setting state cause code in ReactDOM to run?](https://twitter.com/sophiebits/status/1211008868446134272)
 - https://github.com/schoenwaldnils/web-vitals-react-hook
 - https://github.com/bring-shrubbery/use-cookie-consent
+- https://devtrium.com/posts/how-keyboard-shortcut
 
 ### Lifecycle methods
 

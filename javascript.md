@@ -129,6 +129,7 @@
 - https://learnjavascript.online
 - https://github.com/sophi-li/OKRs-self-learning
 - https://github.com/andreasbm/web-skills
+- https://github.com/eggheadio/eggheadio-course-notes
 
 ### Paper
 

@@ -13,6 +13,7 @@
 - [What are the best ways/resources to teach backend developers to learn to build beautiful landing pages?](https://twitter.com/some1else/status/1266361213321125888)
 - [Design history through the books I own](https://www.designswarm.com/catastrophiccandour)
 - https://kit.co/mrbenburns/design-books
+- https://uxplanet.org/dont-make-me-think-20-wise-thoughts-about-usability-from-steve-krug-876b563f1d63
 
 
 ### Cinema

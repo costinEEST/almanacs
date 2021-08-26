@@ -123,6 +123,7 @@
 - [Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators](https://www.jvt.me/posts/2020/09/01/against-online-tooling)
 - https://slides.com/csalazar/secure-software-development-using-python
 - [Defeating Google's audio reCaptcha with 85% accuracy.](https://github.com/ecthros/uncaptcha)
+- [Use AI to detect bots using a neural network (e.g. PyBrain), and determine which requests during a DDoS are legitimate.](https://github.com/SaveTheRbtz/junk/tree/master/neural_networks_vs_ddos)
 
 ### Servers
 

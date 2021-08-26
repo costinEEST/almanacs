@@ -37,6 +37,8 @@
 - [AWS Pentesting | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22PkfO-zJNKOwiE1dSkmGDP)
 - [A collection of DevOps tools including shell & python scripts that automate the boring stuff in AWS.](https://github.com/dannysteenman/aws-toolbox)
 - [The Understanding Modern Cloud Architecture Series](https://www.youtube.com/playlist?list=PLesRB-DxZa8Zj9fNuvPwdL7-M39Ncrou0)
+- https://www.figma.com/blog/inside-figma-securing-internal-web-apps + https://tldrsec.com/blog/appsec-cali-2019/#the-call-is-coming-from-inside-the-house-lessons-in-securing-internal-apps + https://tldrsec.com/blog/appsec-cali-2019/#lessons-learned-from-the-devsecops-trenches
+- https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need
 
 ### Google Cloud
 

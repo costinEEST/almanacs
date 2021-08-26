@@ -87,3 +87,7 @@
 ### Security
 
 - [Baron Samedit: Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
+
+### Tool
+
+- https://earthly.dev/blog/jq-select + https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century

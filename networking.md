@@ -50,6 +50,7 @@
 - [Building an OpenBSD Wireguard server.](https://twitter.com/andersonc0d3/status/1250767620745449473)
 - https://tailscale.com/blog/why-not-why-not-wireguard
 - [Stop your video calls from stuttering](https://www.benkuhn.net/vcnet)
+- [What are folks using to allow remote workers to access devices/servers on the corporate intranet? Just paid for @Tailscale](https://twitter.com/tessalau/status/1250595471589957633)
 
 ### The Open Systems Interconnection model
 

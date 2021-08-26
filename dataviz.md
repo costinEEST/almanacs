@@ -20,6 +20,12 @@
 - https://antonz.org/dataviz-guide
 - [R for applied epidemiology and public health](https://news.ycombinator.com/item?id=27106489)
 
+### Cinema
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeao8hSw3tegcabrp8vV55t
+- https://www.youtube.com/user/currankelleher/playlists
+- https://www.serendipidata.com/posts/data-visualization-video-inspiration
+
 ### Courses
 
 - [W209 Information Visualization course of the Masters in Data Science at UC Berkeley](https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) + https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides
@@ -49,11 +55,6 @@
 - [React component to create interactive D3 tree graphs](https://github.com/bkrem/react-d3-tree)
 - https://github.com/anvaka/graph-drawing-libraries
 
-### Talks
-
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeao8hSw3tegcabrp8vV55t
-- https://www.youtube.com/user/currankelleher/playlists
-- https://www.serendipidata.com/posts/data-visualization-video-inspiration
 
 ### Radio
 
