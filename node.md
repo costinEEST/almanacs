@@ -74,6 +74,8 @@
 - https://github.com/gulzar1996/auto-like-my-gf-insta-pic
 - https://autocode.com/guides/how-to-build-a-discord-bot
 - https://dev.to/tanishqxyz/how-i-made-a-telegram-bot-to-report-gumroad-sales-in-less-than-30-mins-53ke
+- [Bot to help me RSVP on a specific Football meetup group.](https://github.com/divyenduz/footybot)
+- https://www.freecodecamp.org/news/discord-ai-chatbot
 
 ### Boilerplate
 

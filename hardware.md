@@ -58,6 +58,7 @@
 - https://www.theinformation.com/articles/amazon-steps-up-silicon-ambitions-with-new-networking-chip
 - [Want cliff notes on the chip shortage?](https://twitter.com/_MG_/status/1388321639524229120)
 - [What Every Programmer Should Know About Memory | Ulrich Drepper](https://www.gwern.net/docs/cs/2007-drepper.pdf)
+- https://www.cnbc.com/2021/08/24/bosch-says-semiconductor-supply-chains-in-car-industry-no-longer-work.html
 
 ### Resistors
 

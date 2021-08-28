@@ -16,7 +16,7 @@
 - https://github.com/pventuzelo/wasm_workshop
 - https://github.com/danbev/learning-wasi
 
-### Tutorials
+### Development
 
 - https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics
 - [How to create polyglot HTML/JS/WebAssembly module](https://advancedsecurity.training/posts/webassembly-polyglot)
@@ -27,6 +27,7 @@
 - https://github.com/fireship-io/react-wasm-gif-maker
 - https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
 - https://pascalpares.appspot.ovh/webassembly-for-javascript-developers
+- [SQLite + Twitter + WASM](https://divyendusingh.com/experiments/wasm/twitter-sqlite)
 
 ### Tools
 

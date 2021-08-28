@@ -49,6 +49,7 @@
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz/playlists)
 - [Machine Learning and Programming - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf15KhhTGnSRgniYwcXFS-rK)
 - [Building a Machine Learning Based Web App Firewall/IPS from Scratch | Debasish Mandal](https://www.youtube.com/playlist?list=PLKwUZp9HwWoA7AjUeuWnvQdNXcQ7bF3e1) + http://www.debasish.in/2020/10/videobuilding-machine-learning-based.html
+- https://divyendusingh.com/machine-learning-literacy
 
 ### Community
 

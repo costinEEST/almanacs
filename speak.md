@@ -127,6 +127,7 @@
 - https://divu.in/german/learn
 - https://divu.in/german/words
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqoHpBI5yAX8yfbc2ap7SkFX
+- https://divyendusingh.com/german/learn
 
 ### Greek
 

@@ -50,6 +50,7 @@
 - https://github.com/frankdilo/personal-blog-template
 - https://ashleemboyer.com/how-i-added-an-rss-feed-to-my-nextjs-site
 - https://github.com/paulintrognon/paulintrognon.fr
+- [GPT-3 Powered Serverless App using NextJS & React](https://github.com/harish-garg/nextjs-reactjs-gpt-3)
 
 ### Books
 

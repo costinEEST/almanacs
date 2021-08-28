@@ -39,6 +39,7 @@
 - https://github.com/screensyt/beat-react-native
 - https://github.com/react-made-native-easy/book
 - https://www.newline.co/courses/building-react-native-apps-for-mac
+- https://www.udemy.com/course/full-stack-mobile-application-development-master-class
 
 ### Books
 

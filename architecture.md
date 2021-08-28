@@ -34,3 +34,9 @@
 - https://www.re-thinkingthefuture.com/article/20-great-movies-every-architect-should-watch
 - https://www.classicist.org/articles/the-art-of-making-places-a-panel-discussion-on-ciudad-cayala
 - [Creating Sustainable Cities By Design](https://www.asianscientist.com/2021/05/features/asias-changemakers-jason-pomeroy-singapore)
+
+
+
+### Opinion
+
+- https://www.theguardian.com/environment/2021/aug/27/what-will-our-eco-friendly-homes-of-the-future-look-like

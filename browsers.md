@@ -291,6 +291,7 @@ javascript: (() =>
 - https://github.com/delapuente/presentations#webrtc--web-components
 - https://github.com/kgryte/awesome-peer-to-peer#resources
 - https://github.com/EnableSecurity/awesome-rtc-hacking
+- [Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop](https://github.com/szimek/sharedrop)
 
 ### Canvas
 

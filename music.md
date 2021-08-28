@@ -17,6 +17,7 @@
 
 - https://en.m.wikipedia.org/wiki/Behind_the_Music
 - [Un virus numit OPERĂ. Luminița Arvunescu în dialog cu...](https://www.youtube.com/playlist?list=PLMa4FslxW4Ilm51MJiFUDgOHvDT4KhHcp)
+- https://www.scena9.ro/article/documentare-muzica-netflix-hbo-go-amazon-prime
 - ["Music 5" (Fundamentals of musicianship)](https://www.facebook.com/stoyan.stefanov/posts/10159085546820960)
 
 ### Instrument
@@ -60,7 +61,8 @@
 - https://www.beatportal.com/features/beatports-definitive-guide-to-techno
 - https://daily.jstor.org/the-heretical-origins-of-the-sonnet
 - https://www.beatportal.com/features/beatports-definitive-guide-to-techno + https://news.ycombinator.com/item?id=26977869
-- https://en.wikipedia.org/wiki/Constantin_Br%C4%83iloiu
+- [Constantin Brăiloiu](https://en.wikipedia.org/wiki/Constantin_Br%C4%83iloiu)
+- https://divyendusingh.com/music-theory-and-generation
 
 ### Songs
 
