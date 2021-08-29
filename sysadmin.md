@@ -15,6 +15,7 @@
 
 ### Docker
 
+- https://github.com/scottslowe/learning-tools/tree/main/docker
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUfCf28fye4PN3EXqGMLxxy9
 - Sharing SQLite databases across containers is surprisingly brilliant: [tweet](https://twitter.com/rbranson/status/1214648084761739266?) + [article](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
 - [Resurrecting a Dead Library: Part Three - Rehabilitation](https://mtlynch.io/resurrecting-3/)
@@ -51,6 +52,8 @@
 - https://ricardoanderegg.com/posts/git-push-deployments-docker-tags + https://news.ycombinator.com/item?id=26935725
 - https://cri.dev/posts/2021-05-14-self-hosting-with-nginx-docker-compose-linode-digitalocean
 - https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose + https://news.ycombinator.com/item?id=27359081
+- https://www.aaron-powell.com/talks/docker-from-scratch
+- https://app.pluralsight.com/paths/skills/managing-docker-in-production
 
 ### Kubernetes
 
@@ -142,6 +145,7 @@
 - [Do you run automated cypress / e2e tests on a local dev server on your CI pipeline?](https://twitter.com/onderceylan/status/1364877359665582080)
 - [How to print out credentials from Jenkins secrets](https://lanziani.com/blog/jenkins-credentials.html)
 - https://www.freecodecamp.org/news/devops-engineering-course-for-beginners
+- https://app.pluralsight.com/library/courses/building-modern-ci-cd-pipeline-jenkins
 
 ### Site Reliability Engineering
 

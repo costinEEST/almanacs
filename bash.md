@@ -6,6 +6,11 @@
 - https://github.com/miguelmota/bash-streams-handbook
 - https://github.com/denysdovhan/bash-handbook
 - https://github.com/thewhitetulip/awk-anti-textbook
+- https://github.com/inputsh/awesome-linux#books
+
+### Course
+
+- https://app.pluralsight.com/paths/skill/shell-scripting-with-bash-and-z-shell
 
 ### TIL
 

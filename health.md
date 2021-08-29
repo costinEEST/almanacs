@@ -25,6 +25,10 @@
 
 - [Benefits of Turmeric | NutritionFacts.org](https://www.youtube.com/playlist?list=PL5TLzNi5fYd9JWJdWb4rgzaMrPLoF8S7c)
 
+### Community
+
+- https://github.com/aarvanet/longevity-events + https://github.com/aarvanet/longevity-news
+
 ### Cholesterol
 
 - [#CholesterolScience - Dave Feldman](https://www.youtube.com/playlist?list=PLWNQLvi9Q_zuigCB6JPmDQuR3TwfJO3QX)

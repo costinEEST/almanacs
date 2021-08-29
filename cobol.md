@@ -1,6 +1,7 @@
 ### Course
 
 - https://github.com/openmainframeproject/cobol-programming-course
+- https://app.pluralsight.com/library/courses/learning-cobol-programming-vscode-2
 
 ### Development
 

@@ -126,6 +126,7 @@
 - [Rapid API Development with NodeJS, Fastify, Postgresql, and Swagger ~ Jay Wolfe](https://www.youtube.com/playlist?list=PLU_22oKqONin7yagFMm3x1tJihYaIVVwa) + https://jaywolfe.dev/blog/rapidly-build-a-nodejs-rest-api-with-fastify-postgresql-and-swagger-documentation
 - [A workshop for security experts who like JavaScript and javascripters who like (in)security.](https://github.com/jesusprubio/node-for-ninjas)
 - https://github.com/sodium-friends/learntocrypto
+- https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs
 
 ### Cheat sheets
 
@@ -306,7 +307,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [drpciv-crawler](https://github.com/AdiCutitoiu/chestionare-auto)
 
 
-### Micro services
+### Micro service
 
 - https://github.com/stemmlerjs/solid-email-microservice
 - [A micro service development architecture based on nest.js.](https://github.com/notadd/notadd)
@@ -314,6 +315,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://hackernoon.com/learn-how-to-use-webhooks-by-connecting-nodejs-ifttt-and-twitter-k0w3121
 - [cote lets you write zero-configuration microservices in Node.js without nginx, haproxy, redis, rabbitmq or anything else. ](https://github.com/dashersw/cote)
 - [If you ever wanted to gain atomicity for a series of service calls, sagas may be the right choice.](https://twitter.com/AndreyPechkurov/status/1375877582315458569) + https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
+- [React/Node.js/GraphQL Microservices App](https://www.youtube.com/playlist?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6)
 
 ### Design patterns
 

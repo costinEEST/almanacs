@@ -162,6 +162,7 @@
 - [Scrape Facebook public pages without an API key](https://github.com/kevinzg/facebook-scraper)
 - https://github.com/httpie/httpie
 - [Open source self-hosted web archiving.](https://github.com/ArchiveBox/ArchiveBox)
+- [How to Google Any Selected Text with a Keyboard Shortcut](https://github.com/codezri/googlezri)
 
 
 ### Testing
