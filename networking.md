@@ -195,6 +195,7 @@
 - https://engineering.fb.com/networking-traffic/how-facebook-is-bringing-quic-to-billions
 - https://scorpil.com/post/the-long-road-to-http3
 - https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp
+- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls
 
 ### Secure Shell
 

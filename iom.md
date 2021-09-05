@@ -27,7 +27,8 @@
 - https://cryptozombies.io + https://github.com/loomnetwork/cryptozombie-lessons + https://github.com/loomnetwork/cryptozombies-lesson-code
 - https://github.com/Developer-Y/cs-video-courses#misc
 - https://medium.com/free-code-camp/the-authoritative-guide-to-blockchain-development-855ab65b58bc + https://haseebq.com/introduction-to-cryptocurrency
-- [MIT 15.S12 Blockchain and Money, Fall 2018 | Gary Gensler](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn) + https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/
+- [MIT 15.S12 Blockchain and Money, Fall 2018 | Gary Gensler](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn) + https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018
+- https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development
 
 ### Cinema
 

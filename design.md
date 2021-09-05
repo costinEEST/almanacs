@@ -90,6 +90,7 @@
 
 - https://www.toptal.com/designers/ui/gestalt-principles-of-design
 
-### Tools
+### Tool
 
 - https://github.com/goabstract/Awesome-Design-Tools
+- https://andybudd.com/archives/2021/08/a-future-of-design-without-designers

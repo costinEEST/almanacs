@@ -174,6 +174,7 @@
 https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js
 
+
 ### Event loop
 
 - https://davidhettler.net/blog/event-loop-lag
@@ -288,6 +289,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [LeonAI has migrated from Express.js to @fastifyjs](https://twitter.com/louistiti_fr/status/1374978615696183296)
 - https://www.freecodecamp.org/news/free-8-hour-node-express-course
 - https://www.freecodecamp.org/news/the-nginx-handbook
+- [Example on how to implement an HTTP/2 client and server in Node.js](https://github.com/sohamkamani/node-http2-example)
 
 ### Scrapping
 

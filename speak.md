@@ -64,6 +64,7 @@
 - https://library.teachyourself.com
 - https://www.rhapsodyinlingo.com/en/2020/06/06/glossika-ai-review
 - https://lindiebotes.com/2021/06/02/8-free-language-learning-tools-you-can-integrate-into-your-life
+- https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages
 
 ### Communities
 
