@@ -37,6 +37,7 @@
 - https://math.recipes/main.html + https://sat-smt.codes/main.html
 - [Bumping into some little known but cool computer history books lately.](https://twitter.com/prathyvsh/status/1199258119362117633)
 - https://github.com/jaybutera/Abstract-Algebra
+- https://greenteapress.com/wp/think-complexity-2e
 
 ### Courses
 

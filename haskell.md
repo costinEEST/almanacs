@@ -20,6 +20,7 @@
 - https://github.com/qfpl/applied-fp-course
 - https://github.com/tonymorris/fp-course
 - https://github.com/alpacaaa/zero-bullshit-haskell
+- https://github.com/Guilherme775/Haskell4Noobs
 
 ### Radio
 

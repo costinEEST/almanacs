@@ -40,6 +40,7 @@
 - [Blockchain Course | Arthur Gervais](https://www.youtube.com/playlist?list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
 - [Blockchain Security | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22gfyqgXMuYyWVSFklxHSzk)
 - [DeFi Tutorials with DeFi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg/playlists)
+- [Learn Solidity (0.5) by Examples | Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)
 
 ### Community
 
@@ -106,6 +107,12 @@
 - [Best resources to learn about Ethereum](https://twitter.com/draecomino/status/1370809424772788224)
 - https://blog.coinbase.com/understanding-web-3-a-user-controlled-internet-a39c21cf83f3
 - https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf
+- [Learning Path Web3](https://gist.github.com/sibelius/176ba11de6c001b3bf9dc81a4ecd4db2)
+- https://thedailyape.notion.site/Resources-for-beginners-cd838d1024d84d86a23a35c21bab43ba + https://twitter.com/Darrenlautf/status/1434877372700901384
+- https://thedailyape.notion.site/thedailyape/Directory-c96c0b6727c0433a962e897ef43efb7e
+- https://github.com/OffcierCia/ultimate-defi-research-base
+- https://github.com/OffcierCia/DeFi-Developer-Road-Map
+- [What's the best beginner guide to DeFi?](https://twitter.com/PaulRBerg/status/1412081828614246400)
 
 ### Boilerplate
 
@@ -113,33 +120,6 @@
 - [A template to build a decentralised application using ethereum, buidler, svelte and thegraph](https://github.com/wighawag/jolly-roger)
 - https://github.com/wighawag/template-ethereum-contracts
 - https://github.com/atkinsonholly/Drizzle-tutorial-with-React-Hooks
-
-### Security
-
-- [A blockchain-based DNS + HTTP server that fixes HTTPS security, and more!](https://github.com/okTurtles/dnschain)
-- https://mtlynch.io/stole-siacoins + https://decks.mtlynch.io/nerds-2020
-- https://www.ethicalhacker.net/features/book-reviews/book-review-investigating-cryptocurrencies
-- https://twitter.com/solidity_lang/status/1260539034964766720
-- https://twitter.com/samczsun/status/1335683213977677825 + https://www.youtube.com/watch?v=95_RmIAqRy0 + https://arxiv.org/abs/2009.14021
-- https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec
-- https://twitter.com/msolomon44/status/1334902739273306112
-- https://iphelix.medium.com
-- https://www.damnvulnerabledefi.xyz
-- https://capturetheether.com
-- https://ethernaut.openzeppelin.com + https://github.com/OpenZeppelin/ethernaut
-- https://www.youtube.com/playlist?list=PLG1Zq5_UTbOxFaQAKE5N5Hi2Nvv-O35Cu
-- https://shayan.es/#lectures
-- https://github.com/crytic/building-secure-contracts
-- https://www.theblockcrypto.com/linked/89843/2017-parity-wallet-hacker-begins-moving-eth
-- [Tineola: Taking a Bite Out of Enterprise Blockchain](https://github.com/tineola/tineola)
-- https://ronan.eth.link/blog/ethereum-gas-dangers
-- [*Always* use a strong password for your MetaMask software wallet.](https://twitter.com/miguelmotah/status/1369091946354929669)
-- https://rya.nc/forensic-bitcoin-cracking.html
-- https://github.com/ConsenSys/blockchainSecurityDB
-- https://github.com/fergarrui/ethereum-security
-- https://github.com/PeterBorah/smart-contract-security-examples
-- https://www.troyhunt.com/i-now-own-the-coinhive-domain-heres-how-im-fighting-cryptojacking-and-doing-good-things-with-content-security-policies
-- [Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity](https://github.com/pubkey/eth-crypto)
 
 
 ### Bitcoin
@@ -170,6 +150,9 @@
 - https://cointelegraph.com/magazine/2020/03/24/immutable-trash-crypto-art-censorship-meaning
 - https://www.theouterrealm.io/blog/a-short-history-of-nft-trash-art
 - https://timdaub.github.io/2021/07/21/nfts-are-coming-for-instagram
+- https://www.udemy.com/course/nft-trading-course
+- https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum
+- [Worry you are going to fat finger an address sending ETH or an NFT?](https://github.com/bennycio/safe-transfer)
 
 ### Smart contracts
 
@@ -203,3 +186,32 @@
 - https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant
 - https://www.podtangent.com/e/006-libra-crypto-and-the-future-of-humanity
 - https://podcast.chaincode.com
+
+
+### Security
+
+- [A blockchain-based DNS + HTTP server that fixes HTTPS security, and more!](https://github.com/okTurtles/dnschain)
+- https://mtlynch.io/stole-siacoins + https://decks.mtlynch.io/nerds-2020
+- https://www.ethicalhacker.net/features/book-reviews/book-review-investigating-cryptocurrencies
+- https://twitter.com/solidity_lang/status/1260539034964766720
+- https://twitter.com/samczsun/status/1335683213977677825 + https://www.youtube.com/watch?v=95_RmIAqRy0 + https://arxiv.org/abs/2009.14021
+- https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec
+- https://twitter.com/msolomon44/status/1334902739273306112
+- https://iphelix.medium.com
+- https://www.damnvulnerabledefi.xyz
+- https://capturetheether.com
+- https://ethernaut.openzeppelin.com + https://github.com/OpenZeppelin/ethernaut
+- https://www.youtube.com/playlist?list=PLG1Zq5_UTbOxFaQAKE5N5Hi2Nvv-O35Cu
+- https://shayan.es/#lectures
+- https://github.com/crytic/building-secure-contracts
+- https://www.theblockcrypto.com/linked/89843/2017-parity-wallet-hacker-begins-moving-eth
+- [Tineola: Taking a Bite Out of Enterprise Blockchain](https://github.com/tineola/tineola)
+- https://ronan.eth.link/blog/ethereum-gas-dangers
+- [*Always* use a strong password for your MetaMask software wallet.](https://twitter.com/miguelmotah/status/1369091946354929669)
+- https://rya.nc/forensic-bitcoin-cracking.html
+- https://github.com/ConsenSys/blockchainSecurityDB
+- https://github.com/fergarrui/ethereum-security
+- https://github.com/PeterBorah/smart-contract-security-examples
+- https://www.troyhunt.com/i-now-own-the-coinhive-domain-heres-how-im-fighting-cryptojacking-and-doing-good-things-with-content-security-policies
+- [Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity](https://github.com/pubkey/eth-crypto)
+- https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum

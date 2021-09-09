@@ -339,6 +339,7 @@ javascript: (() =>
 - [Puppeteer example scripts for running Headless Chrome from Node.](https://github.com/checkly/puppeteer-examples)
 - https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison
 - [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
+- https://github.com/humanwhocodes/puppeteer-data-extractor
 
 ### Performance
 

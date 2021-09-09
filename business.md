@@ -94,7 +94,7 @@
 - [Cincinnatus and the Citizen-Servant Ideal: The Roman Legend's Life, Times, and Legacy - Michael J. Hillyard](https://books.google.ro/books/about/Cincinnatus_and_the_Citizen_Servant_Idea.html?id=ksOyQMMZtZAC)
 - https://www.patkua.com/blog/book-recommendations-by-engineering-leaders
 - [Meaning making and leadership | Luke McBain](https://www.youtube.com/playlist?list=PLoQL7TYFGA1pgi5Ejf8wcN35pUgoXbw12)
-
+- https://www.udemy.com/course/the-complete-leadership-mastery-course
 
 ### Strategy
 
@@ -142,6 +142,7 @@
 - https://business-review.eu/news/the-story-of-uipath-how-it-became-romanias-first-unicorn-164248
 - https://www.johnnunemaker.com/speakerdeck
 - https://www.economica.net/sanopass-a-atras-in-aprilie-investitii-de-peste-845-000-de-euro-prin-platforma-de-crowdfunding-seedblink_508360.html
+- [Answers to the most common questions from thousands of founders from Idea to Seed](https://pioneer.app/codex)
 
 ### Investing
 
