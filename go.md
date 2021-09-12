@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - https://github.com/dreddsa5dies/automateGo
 - https://github.com/dreddsa5dies/networkGo
@@ -8,6 +8,7 @@
 - [The Ultimate Go Notebook](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/edit)
 - [Go With The Domain. Building Modern Business Software in Go](https://news.ycombinator.com/item?id=27140724)
 - https://livebook.manning.com/book/go-in-action
+- [Code listings accompanying the 'For the Love of Go' book](https://github.com/bitfield/ftl-code)
 
 ### Boots
 
@@ -34,6 +35,7 @@
 - https://marinhero.com/posts/port-scanning
 - [Pre-rendering static websites with wget](https://apex.sh/blog/post/pre-render-wget)
 - https://nuculabs.dev/2021/08/28/improving-the-throughput-of-a-producer-%e2%9c%88/
+- http://nathan.vegas/blog/errgroup-promise-all.html
 
 ### Testing
 

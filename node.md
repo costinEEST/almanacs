@@ -56,6 +56,8 @@
 - https://dev.to/noclat/build-a-full-api-with-next-js-1ke
 - [Coding a YouTube Descriptions Updater | Devon Crawford](https://www.youtube.com/playlist?list=PLhsehOUFGYaV1ontAkXqax-U9hdWrwZVS)
 - [Write Express middleware and route handlers using async/await](https://github.com/therootcompany/async-router)
+- https://fly.io/blog/api-tokens-a-tedious-survey
+
 
 ### Book
 
@@ -100,6 +102,7 @@
 - https://github.com/simonplend/workshop-get-started-with-fastify
 - https://github.com/ljlm0402/typescript-express-starter
 - https://github.com/timofeysie/nextjs-markdown-blog
+- https://github.com/ryansonshine/typescript-npm-package-template
 
 ### Cinema
 
@@ -263,6 +266,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Ship a JS file with Node.js in a box](https://github.com/mongodb-js/boxednode)
 - [Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.](https://github.com/vercel/ncc)
 - https://github.com/andreasonny83/unique-names-generator
+- https://github.com/mscdex/ssh2
+- [timefind lets you find the exact moment that something was added to a website.](https://github.com/Cykelero/timefind)
 
 ### Testing
 
@@ -307,6 +312,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/facundoolano/google-play-scraper
 - https://github.com/mathieudutour/medium-to-own-blog
 - [drpciv-crawler](https://github.com/AdiCutitoiu/chestionare-auto)
+- https://www.zenrows.com/blog/web-scraping-with-javascript-and-nodejs
 
 
 ### Micro service
@@ -349,7 +355,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://www.acunetix.com/blog/web-security-zone/remote-debuggers-as-an-attack-vector
 - [do a visualisation of the dependencies and vulnerabilities in a nice format using a graph database.](https://javi-dr.medium.com/how-to-create-a-software-bill-of-materials-in-neo4j-5888c0f3c461) + https://github.com/javixeneize/Neo4J_BOM
 - [Node.js HTTP server performance](https://twitter.com/lukeed05/status/1396307201606651913) + https://twitter.com/bradleymeck/status/1397919169576804361
-
+- https://arstechnica.com/information-technology/2021/09/npm-package-with-3-million-weekly-downloads-had-a-severe-vulnerability
 
 ### Static site generator
 

@@ -135,6 +135,7 @@
 - https://jross.me/progressively-delivering-new-image-formats-with-css-and-cloudflare-workers
 - https://polypane.app/blog/creating-websites-with-prefers-reduced-data
 - https://blog.jim-nielsen.com/2021/progressively-enhanced-search
+- https://www.ctnicholas.dev/articles/dark-mode-by-sunlight
 
 ### Radio
 
@@ -153,10 +154,11 @@
 - https://github.com/damianfrizzi/fetoolkit
 - https://www.tpgi.com/seeing-the-wood-for-the-trees-demystifying-markup-in-2021
 
-### TV
+### Cinema
 
 - https://tgvashworth.com/2016/06/03/frontend-reading-list.html
 - [Environmental User Interfaces - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc7JsHHB2R-wihnNbFX2BwPE) + https://bobburrough.com/public/post/surely_you_cant_be_serious_bob
+- https://www.better.dev/intro-to-faster-with-emmet
 
 ### References
 

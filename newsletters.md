@@ -132,6 +132,7 @@
 - [Jhey Tompkins](https://www.getrevue.co/profile/jh3y#archive)
 - https://github.com/zudochkin/awesome-newsletters
 - [Josh Sherman](https://us4.campaign-archive.com/home/?u=374a1419f1381c14c8bc92119&id=91dbdd5c9b)
+- https://golangweekly.com/issues
 
 ### Web performance
 

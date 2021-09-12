@@ -36,6 +36,7 @@
 - https://github.com/shd101wyy/markdown-preview-enhanced
 - [get all the list of extensions in your visual studio code editor.](https://gokul.site/uses)
 - [VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor.](https://github.com/microsoft/codetour)
+- https://nelsonslog.wordpress.com/2021/09/10/switching-to-vs-code
 
 ### Tool
 

@@ -37,6 +37,7 @@
 - https://www.researchgate.net/publication/330599365_Note_This_How_to_Improve_Student_Note_Taking
 - https://www.researchgate.net/publication/320364005_An_integrative_review_of_the_cognitive_costs_and_benefits_of_note-taking
 - [The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking](https://journals.sagepub.com/doi/10.1177/0956797614524581)
+- https://www.strangeloopcanon.com/p/the-architecture-of-knowledge
 
 ### Radio
 

@@ -420,6 +420,7 @@
 - https://github.com/runem/web-component-analyzer
 - [Live Coding lit-element, SVG and Web Components with Uri Shaked](https://www.youtube.com/playlist?list=PLLomdjsHtJTzJpHEYhw3Du9kO9mgypE79)
 - [a configuration for webcomponents build for IE11 to Chrome](https://github.com/tiberiucorbu/es5-esnext-webcomponent-project-starter)
+- https://www.ctnicholas.dev/articles/reactive-framework-in-40-lines
 
 ### Testing
 
@@ -504,6 +505,7 @@
 - [Convert an object's keys to snake case](https://github.com/bendrucker/snakecase-keys)
 - https://glebbahmutov.com/blog/npm-tips-and-trics
 - [Simple monorepos via npm workspaces and TypeScript project references](https://2ality.com/2021/07/simple-monorepos.html)
+- https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers
 
 ### Documentation
 

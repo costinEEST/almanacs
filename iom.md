@@ -180,6 +180,7 @@
 - [what will be the relationship between tokens and communities?](https://twitter.com/dazuck/status/1380157939433009159)
 - https://twitter.com/wlazar/status/1380935750150090756 + https://www.preethikasireddy.com/post/will-helium-finally-make-iot-a-reality
 - https://leung-btc.medium.com/len-sassaman-and-satoshi-e483c85c2b10
+- https://noorsiddiqui.com/centralized-vs-decentralized-web
 
 ### Radio
 

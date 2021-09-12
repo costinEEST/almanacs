@@ -26,6 +26,9 @@
 - https://twitter.com/gkcs_/status/1300887808748347393
 - https://zserge.com/posts/kvm + https://zserge.com/posts/containers + https://twitter.com/phil_eaton/status/1260756629265489922
 - https://github.com/Friz-zy/awesome-linux-containers
+- [What Is a Standard Container (2021 edition)](https://iximiuz.com/en/posts/oci-containers)
+- [Containers history lesson](https://twitter.com/iximiuz/status/1436659599776616453)
+- [How to grasp Containers and Docker (Mega Thread)](https://twitter.com/iximiuz/status/1423984739514454033)
 
 ### Internals
 

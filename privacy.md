@@ -51,6 +51,7 @@
 - [A more privacy-friendly blog](https://vincent.bernat.ch/en/blog/2018-more-privacy-blog)
 - [Candiru is a secretive Israel-based company that sells spyware exclusively to governments.](https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus)
 - [Node.js module to help you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics](https://github.com/yeoman/insight)
+- [A proof of work based captcha similar to friendly captcha, but lightweight, self-hosted and GPLv3 licensed.](https://git.sequentialread.com/forest/pow-captcha)
 
 ### Techniques
 
@@ -72,6 +73,7 @@
 - https://k3tan.com/starting-a-new-digital-identity + https://news.ycombinator.com/item?id=26888067
 - [HOW TO WHITELIST OUR EMAIL](https://drmowll.lpages.co/de-whitelist)
 - https://theintercept.com/2021/07/27/pegasus-nso-spyware-security
+- [How to find hidden cameras in AirBnBs](https://www.tiktok.com/@malwaretech/video/7002804220126661893)
 
 ### Social media
 

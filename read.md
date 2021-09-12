@@ -26,6 +26,7 @@
 
 - [A usable eBook reader inside a browser (azw3, mobi, ePub, pdf)](https://news.ycombinator.com/item?id=25948797)
 - [Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.](https://github.com/burtonator/polar-bookshelf)
+- https://goula.sh/days/2021-03-26
 
 ### Review
 

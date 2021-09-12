@@ -56,6 +56,9 @@
 - https://singularityhub.com/2021/05/11/a-new-gene-editing-tool-rivals-crispr-and-can-make-millions-of-edits-at-once
 - [Guarded Command Programming + Cell Signaling + Micro-Colony Simulation](https://depts.washington.edu/soslab/gro)
 - https://www.freethink.com/articles/human-genome-sequencing
+- https://noorsiddiqui.com/how-gene-therapy-works
+- https://noorsiddiqui.com/what-is-in-your-genome
+- https://noorsiddiqui.com/what-is-chip-seq-atac-seq
 
 ### Miscellaneous
 

@@ -26,6 +26,7 @@
 - [Collection of Stoic Wisdom](https://github.com/TomFrink/StoicPage)
 - [Hacker News daily top 10 posts](https://github.com/headllines/hackernews-daily)
 - [Get RSS Feeds for YouTube channels and playlists](https://github.com/faraixyz/youtube-x-rss)
+- https://www.ctnicholas.dev/articles/integrate-twitter-newsletters-with-api-routes
 
 ### GraphQL
 

@@ -54,6 +54,7 @@
 - https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose + https://news.ycombinator.com/item?id=27359081
 - https://www.aaron-powell.com/talks/docker-from-scratch
 - https://app.pluralsight.com/paths/skills/managing-docker-in-production
+- https://matduggan.com/are-dockerfiles-good-enough
 
 ### Kubernetes
 
@@ -93,6 +94,7 @@
 - https://www.infoq.com/articles/distributed-systems-kubernetes
 - https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer
 - https://securityboulevard.com/2019/11/kubernetes-pentest-methodology-part-3
+- [Learn Kubernetes one Twitter thread at the time!](https://twitter.com/danielepolencic/status/1298543151901155330)
 
 ### Servers
 
