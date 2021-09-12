@@ -11,6 +11,7 @@
 - [What's Your Bio Strategy?: How to Prepare Your Business for Synthetic Biology](https://www.amazon.com/Whats-Your-Bio-Strategy-Synthetic/dp/0999313614)
 - https://www.goodreads.com/blog/show/2071-famed-biographer-walter-isaacson-on-gene-editing-science-and-good-book
 - https://inquisitivebiologist.com/2021/08/23/book-review-the-cheating-cell-how-evolution-helps-us-understand-and-treat-cancer
+- https://www.bookdepository.com/Philosopher-on-Wall-Street-David-Ewing-Duncan/9781626348714
 
 ### Course
 

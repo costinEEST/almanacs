@@ -507,6 +507,7 @@
 - https://glebbahmutov.com/blog/npm-tips-and-trics
 - [Simple monorepos via npm workspaces and TypeScript project references](https://2ality.com/2021/07/simple-monorepos.html)
 - https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers
+- [Writing custom ESLint rules without publishing to NPM](https://stevenpetryk.com/blog/custom-eslint-rules)
 
 ### Documentation
 

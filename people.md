@@ -93,6 +93,10 @@
 
 - https://www.slideshare.net/joemccray/presentations
 
+### Satya Nadella
+
+- https://mastersofscale.com/nadella
+
 ### Steve Jobs
 
 - https://www.theverge.com/22639629/tim-cook-apple-ten-years-decade-steve-jobs-legacy

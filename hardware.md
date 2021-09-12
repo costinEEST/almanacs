@@ -52,9 +52,11 @@
 - [Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y)
 - [32 bit RISC-V homemade CPU out of discrete components](https://hackaday.io/project/178826-pineapple-one) + https://twitter.com/ten_filip/status/1377657517707296774
 - [CS 6501: Hardware Security](http://www.cs.virginia.edu/~av6ds/classes/cs6501/fa20)
+- https://www.udemy.com/course/digital-circuits-system-design-with-vhdl
 
 ### Chip
 
+- https://siliconpr0n.org
 - https://www.theinformation.com/articles/amazon-steps-up-silicon-ambitions-with-new-networking-chip
 - [Want cliff notes on the chip shortage?](https://twitter.com/_MG_/status/1388321639524229120)
 - [What Every Programmer Should Know About Memory | Ulrich Drepper](https://www.gwern.net/docs/cs/2007-drepper.pdf)

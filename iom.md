@@ -30,6 +30,7 @@
 - [MIT 15.S12 Blockchain and Money, Fall 2018 | Gary Gensler](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn) + https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018
 - https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development
 - https://www.udemy.com/course/delving-into-blockchain-use-cases-a-detailed-overview
+- https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert
 
 ### Cinema
 

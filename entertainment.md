@@ -272,6 +272,7 @@
 - https://www.nlp-institutes.net/daniel-bichis
 - https://acesounderglass.com/2018/04/14/self-help-epistemic-spot-check-results
 - [Awakening from the Meaning Crisis | John Vervaeke](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
+- https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172
 
 ### Body language
 

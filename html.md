@@ -62,6 +62,7 @@
 - [Practical accessibility, part 1: Markup semantics & ARIA](https://www.filamentgroup.com/lab/practical-accessibility-1-semantics)
 - https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components
 - https://kittygiraudel.com/2021/04/05/an-accessible-toggle
+- https://github.com/ericwbailey/a11y-syntax-highlighting
 
 ### <address></address>
 
