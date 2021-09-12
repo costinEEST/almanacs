@@ -3,13 +3,15 @@
 - https://github.com/preslavmihaylov/booknotes/tree/master/java/java-concurrency-in-practice
 - [Java Programming for Kids](http://yfain.github.io/Java4Kids)
 
-### Courses
+### Course
 
 - https://hyperskill.org/onboarding/?track=java
 - https://www.freecodecamp.org/news/learn-to-develop-and-android-app-no-experience-required
 - https://rockthejvm.com
 - [CS 342: Software Design (Summer 2017)](https://www.cs.uic.edu/~psnyder/cs342-summer2017/syllabus)
 - https://www.dgitacademy.com/courses
+- https://www.udemy.com/course/java-latest-programming-from-zero-java13-java12-java11-java10-java9-j8
+- https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification
 
 ### Best practices
 

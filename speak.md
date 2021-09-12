@@ -188,6 +188,8 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - https://www.youtube.com/playlist?list=PLTpetkN815Qyuc2RbC1kxxMQvxjQ3RnYG
 - http://alexfru.narod.ru/lang/spanish/spanish.html
 - https://urish.medium.com/i-taught-myself-spanish-this-is-how-2c453a8202af
+- https://www.udemy.com/course/learn-spanish-now
+- https://www.udemy.com/course/spanish-for-beginners-the-ultimate-course-level-1
 
 ### Tibetan
 

@@ -28,6 +28,7 @@
 - [Ludwig is the first sentence search engine that helps you write better English by giving you contextualized examples taken from reliable sources.](https://ludwig.guru)
 - http://blog.dornea.nu/2021/06/13/note-taking-in-2021
 - [checks your word against swear words and unwanted associations in 19 languages.](http://wordsafety.com)
+- [Generate Add to Calendar  links and event reminder buttons for Google Calendar, Outlook, Microsoft Office 365, Android, Apple and Yahoo Calendars.](https://www.labnol.org/apps/calendar.html)
 
 ### Miscellaneous
 

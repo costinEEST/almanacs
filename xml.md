@@ -1,6 +1,7 @@
-### Courses
+### Course
 
 - [XML Foundations (2013)](http://dret.net/lectures/xml-fall13)
+- https://www.udemy.com/course/uncle-rats-xxe-handbook
 
 ### Security
 

@@ -13,6 +13,7 @@
 - https://www.youtube.com/c/ThePrimeagen/playlists
 - [A Decade of Vim - Semicolon&Sons](https://www.youtube.com/playlist?list=PLpkoC9yJXDKkm4MStIQoieUPwNjO4Rb_M)
 - https://reasonablypolymorphic.com/expert-level-vim + https://www.youtube.com/watch?v=Q-D5mtp2yIc
+- https://www.labnol.org/internet/learning-vim-for-beginners/28820
 
 ### Community
 

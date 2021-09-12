@@ -58,6 +58,7 @@
 - https://github.com/danbev/learning-libuv
 - https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore
 - [a very small v8 javascript runtime for linux only](https://github.com/just-js/just)
+- https://mrale.ph/v8/resources.html
 
 ### Exploits
 

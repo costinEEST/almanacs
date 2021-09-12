@@ -30,9 +30,10 @@
 - https://www.professormesser.com/category/free-a-plus-training/a-plus-study-group
 - https://twitter.com/malware_traffic
 
-### Courses
+### Course
 
 - [CS 450: Introduction to Networking](https://www.cs.uic.edu/~ckanich/cs450/s17/syllabus.html)
+- https://www.udemy.com/course/network-engineer-taster-courses
 
 ### Tools
 

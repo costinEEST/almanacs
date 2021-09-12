@@ -29,6 +29,7 @@
 - https://medium.com/free-code-camp/the-authoritative-guide-to-blockchain-development-855ab65b58bc + https://haseebq.com/introduction-to-cryptocurrency
 - [MIT 15.S12 Blockchain and Money, Fall 2018 | Gary Gensler](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn) + https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018
 - https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development
+- https://www.udemy.com/course/delving-into-blockchain-use-cases-a-detailed-overview
 
 ### Cinema
 
@@ -113,6 +114,7 @@
 - https://github.com/OffcierCia/ultimate-defi-research-base
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
 - [What's the best beginner guide to DeFi?](https://twitter.com/PaulRBerg/status/1412081828614246400)
+- https://github.com/jsjoeio/web3-cheatsheet
 
 ### Boilerplate
 
@@ -153,6 +155,8 @@
 - https://www.udemy.com/course/nft-trading-course
 - https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum
 - [Worry you are going to fat finger an address sending ETH or an NFT?](https://github.com/bennycio/safe-transfer)
+- [Let's learn about NFTs](https://twitter.com/jsjoeio/status/1429218955546152972)
+- [Interview with an NFT artist](https://twitter.com/jsjoeio/status/1431290807852486661)
 
 ### Smart contracts
 
@@ -167,6 +171,7 @@
 - https://github.com/raineorshine/solidity-by-example
 - https://github.com/raineorshine/solidity-repl
 - https://b3nac.com/posts/2021-06-14-A-Not-So-Safe-safeTransferFrom-Implementation.html
+- https://twitter.com/jsjoeio/status/1427287794699759622
 
 ### Demos
 

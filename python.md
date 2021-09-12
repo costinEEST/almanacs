@@ -54,6 +54,7 @@
 - https://github.com/trekhleb/learn-python
 - https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform
 - https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days
+- https://www.udemy.com/course/master-in-advance-python
 
 ### Cinema
 

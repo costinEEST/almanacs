@@ -455,6 +455,7 @@
 - https://github.com/jamiebuilds/the-super-tiny-compiler
 - https://github.com/zenparsing/skert
 - https://github.com/lkesteloot/turbopascal + https://news.ycombinator.com/item?id=26207624 + https://www.teamten.com/lawrence/projects/turbo_pascal_compiler
+- https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers + https://youtu.be/r76ZjdzFExg
 
 ### Parsers
 

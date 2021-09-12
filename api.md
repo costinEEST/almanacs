@@ -123,3 +123,4 @@ curl v2.wttr.in/Bucharest
 - [Wikipedia Interface for Node.js](https://github.com/dijs/wiki)
 - https://blog.webpagetest.org/posts/the-webpagetest-api-has-gone-public
 - https://www.freecodecamp.org/news/low-code-tutorial
+- https://github.com/arainho/awesome-api-security

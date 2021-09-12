@@ -154,4 +154,4 @@
 - [Techniques and numbers for estimating system's performance from first-principles.](https://github.com/sirupsen/napkin-math)
 - https://www.gremlin.com/community/tutorials/chaos-engineering-tools-comparison
 - https://github.com/michael-kehoe/awesome-sre-cheatsheets
-- https://github.com/stack72/ops-books
+- [Book Recommendations for the Infrastructure Engineer](https://github.com/stack72/ops-books)

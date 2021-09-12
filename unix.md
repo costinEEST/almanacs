@@ -1,13 +1,14 @@
-### Courses
-
-- [CS 2043 - Unix Tools & Scripting (Cornell University)](http://www.cs.cornell.edu/courses/cs2043/2014sp/)
-- [A beginner's guide to the development, usage and history of the UNIX operating system.](https://github.com/avindra/unix-info) + https://dra.vin/unix-info + https://twitter.com/avindra/status/1361782941437820934
-
-### Books
+### Book
 
 - https://github.com/mrzool/unix-as-ide
 - [The Art of Unix Programming, reformatted.](https://www.arp242.net/taoup.html)
 - https://www.allthingsdistributed.com/2020/07/the-os-classics.html
+
+### Course
+
+- [CS 2043 - Unix Tools & Scripting (Cornell University)](http://www.cs.cornell.edu/courses/cs2043/2014sp/)
+- [A beginner's guide to the development, usage and history of the UNIX operating system.](https://github.com/avindra/unix-info) + https://dra.vin/unix-info + https://twitter.com/avindra/status/1361782941437820934
+- https://www.udemy.com/course/unix-for-testers-automate-unix-in-test-automation-selenium
 
 ### Internals
 

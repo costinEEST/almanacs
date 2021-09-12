@@ -19,6 +19,8 @@
 ### Course
 
 - [Mobile Application Development (5th bullet)](https://github.com/Developer-Y/cs-video-courses#software-engineering)
+- https://www.udemy.com/course/android-bug-bounty-hunting-hunt-like-a-rat
+- 
 
 ### Security
 
