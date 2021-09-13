@@ -48,6 +48,8 @@
 ### Derek Sivers
 
 - https://store.sivers.org/1
+- https://sivers.com/d
+- https://100mba.net/mba1843
 
 ### Jeffrey Preston Bezos
 

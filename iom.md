@@ -134,6 +134,12 @@
 - https://github.com/alexk111/awesome-bitcoin-payment-processors
 - [40 hours of actionable bitcoin discussion available for free without ads, sponsors, or paywalls](https://keybase.pub/mattodell/Citadel-Dispatch/Video)
 
+### Solana
+
+- https://www.theblockcrypto.com/post/117205/anatoly-yakovenko-unpacks-solanas-rise-memes-and-nft-snafus
+- https://blog.neodyme.io/posts/solana_common_pitfalls
+- https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction
+
 ### Non fungible tokens
 
 - https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053

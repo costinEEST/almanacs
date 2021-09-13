@@ -49,6 +49,12 @@
 - [Bioinformatics-along | Simon Cockell](https://www.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9)
 - [Bio Hacking Chip Implants | Amie DD](https://www.youtube.com/playlist?list=PL9iNdDEmD5jbIxHl5wGZlUs019e3ogl7E)
 
+### Epigenetics
+
+- [Diet, Genes and Your Health: Unlock Your Genetic Potential with the Science of Epigenetics](https://youtu.be/LRa39HQtE4c)
+- https://www.amazon.com/Epigenetics-Second-C-David-Allis/dp/1936113597 + https://www.ibiology.org/genetics-and-gene-regulation/epigenetics
+- https://online.stanford.edu/courses/xgen207-epigenetics-and-microbiomics-precision-health
+
 ### Genomics
 
 - https://medium.com/@sbarnettARK/proteomics-primer-1-seer-190c942b244c
