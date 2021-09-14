@@ -83,12 +83,14 @@
 - https://www.youtube.com/c/SyberMath/playlists
 - [Introduction to Complex Analysis | Petra Bonfert-Taylor](https://www.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ)
 - [A strange determinant – Timothy Gowers solves a problem](https://news.ycombinator.com/item?id=26915862)
+- https://www.youtube.com/c/InigoQuilez/playlists
 
 ### Mathematicians
 
 - [Évariste Galois](https://twitter.com/3blue1brown/status/1245468127061610496) + https://www.damninteresting.com/radical-solutions
 - [John Horton Conway (1937-2020)](https://www.scottaaronson.com/blog/?p=4732) + http://raganwald.com/2020/05/03/fractran.html
 - http://martin-gardner.org/MATHEMATICIAN.html
+- https://www.iquilezles.org/www/index.htm
 
 ### Miscellaneous
 

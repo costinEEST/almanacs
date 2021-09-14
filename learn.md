@@ -3,6 +3,7 @@
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.amazon.com/gp/product/1542866502)
 - https://www.amazon.com/Productive-Thinking-Max-Wertheimer/dp/0226893766
 - [Learning Masterclass |  Ethan Schwandt - The Mind Map Guy](https://www.youtube.com/playlist?list=PLus5uUwK9fLFb9bykGTf4bLdqdtHVeNYN)
+- https://aliabdaal.com/stic-framework
 
 ### Community
 

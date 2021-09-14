@@ -130,6 +130,7 @@
 - [A workshop for security experts who like JavaScript and javascripters who like (in)security.](https://github.com/jesusprubio/node-for-ninjas)
 - https://github.com/sodium-friends/learntocrypto
 - https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs
+- https://github.com/simonplend/workshop-get-started-with-fastify + https://simonplend.com/workshop-recording-get-started-with-fastify
 
 ### Cheat sheets
 

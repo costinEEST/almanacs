@@ -89,6 +89,7 @@
 - [Julien Klepatch](https://us15.campaign-archive.com/home/?u=2f01eeef2bea88629b369b507&id=b8c2661966)
 - https://thecryptoinsider.substack.com
 - [Modern Fi LLC](https://us12.campaign-archive.com/home/?u=63d79e017888d9e2fed9be2aa&id=0ff34cd8d2)
+- [Web3Coach](https://us19.campaign-archive.com/home/?u=0adf077591251fc41bf4c12c9&id=8e4d58de3c)
 
 ### Design
 

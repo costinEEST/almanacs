@@ -19,6 +19,7 @@
 - [Un virus numit OPERĂ. Luminița Arvunescu în dialog cu...](https://www.youtube.com/playlist?list=PLMa4FslxW4Ilm51MJiFUDgOHvDT4KhHcp)
 - https://www.scena9.ro/article/documentare-muzica-netflix-hbo-go-amazon-prime
 - ["Music 5" (Fundamentals of musicianship)](https://www.facebook.com/stoyan.stefanov/posts/10159085546820960)
+- https://www.youtube.com/c/ShutianCheng/playlists
 
 ### Instrument
 

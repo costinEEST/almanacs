@@ -112,6 +112,7 @@
 - [Can someone answer me why we need time zones? Why not just have one universal time?](https://twitter.com/mkobach/status/1374552316041326594)
 - https://restofworld.org/2021/beyond-silicon-valley
 - https://www.strangeloopcanon.com/p/the-endearing-mythology-of-a-flat
+- https://www.amazon.com/Firmament-Science-Weather-Climate-Surrounds-ebook/dp/B092LN5DQ1
 
 ### History
 

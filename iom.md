@@ -66,6 +66,13 @@
 - [Build Backend for dApp with Node.js and Webpack](https://github.com/olisystems/dApp-nodeJS-webpack)
 - [An Ethereum DApp in the spirit of the Reddit Button](https://github.com/ttumiel/recursive-bet)
 - [A 3 part workshop on Ethereum and DApps.](https://github.com/CryptoSoc/truffle-workshop)
+- [Staking DApp for Eat The Blocks Projects hackathon #2.](https://github.com/assafom/eatthestake)
+
+### De-fi
+
+- https://github.com/OffcierCia/DeFi-Developer-Road-Map
+- https://github.com/gweicz/defi-toolkit
+
 
 ### References
 
@@ -133,6 +140,7 @@
 - [A treasure trove of transcripts associated with Bitcoin and Lightning Network](https://btctranscripts.com)
 - https://github.com/alexk111/awesome-bitcoin-payment-processors
 - [40 hours of actionable bitcoin discussion available for free without ads, sponsors, or paywalls](https://keybase.pub/mattodell/Citadel-Dispatch/Video)
+- https://uncommoncore.co/wp-content/uploads/2019/10/A-model-for-Bitcoins-security-and-the-declining-block-subsidy-v1.02.pdf
 
 ### Solana
 
@@ -164,6 +172,7 @@
 - [Worry you are going to fat finger an address sending ETH or an NFT?](https://github.com/bennycio/safe-transfer)
 - [Let's learn about NFTs](https://twitter.com/jsjoeio/status/1429218955546152972)
 - [Interview with an NFT artist](https://twitter.com/jsjoeio/status/1431290807852486661)
+- https://github.com/aquario-crypto/Awesome_NFTs
 
 ### Smart contracts
 
@@ -199,6 +208,7 @@
 - https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant
 - https://www.podtangent.com/e/006-libra-crypto-and-the-future-of-humanity
 - https://podcast.chaincode.com
+- [Sean O’Connor: How Blockchains Make Transactions Costless, and How that Transforms Society](https://twitter.com/EricJorgenson/status/1437786584896655372)
 
 
 ### Security
