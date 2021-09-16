@@ -52,6 +52,7 @@
 - https://github.com/entria/entria-fullstack
 - https://github.com/Naturalclar/expo-typescript-starter
 - https://elazizi.com/how-to-structure-a-react-native-project
+- https://mmazzarolo.com/blog/2021-09-11-running-react-native-everywhere
 
 ### Tools
 

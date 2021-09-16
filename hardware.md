@@ -33,7 +33,7 @@
 - [Forrest M. Mims III](https://en.wikipedia.org/wiki/Forrest_Mims)
 - [Razvan T. Coloja](https://twitter.com/cypresstwist)
 
-### Courses
+### Course
 
 - https://www.instructables.com/id/Basic-Electronics
 - https://www.instructables.com/id/How-to-solder
@@ -53,6 +53,7 @@
 - [32 bit RISC-V homemade CPU out of discrete components](https://hackaday.io/project/178826-pineapple-one) + https://twitter.com/ten_filip/status/1377657517707296774
 - [CS 6501: Hardware Security](http://www.cs.virginia.edu/~av6ds/classes/cs6501/fa20)
 - https://www.udemy.com/course/digital-circuits-system-design-with-vhdl
+- https://www.udemy.com/course/computer-fundamentals-u
 
 ### Chip
 

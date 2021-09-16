@@ -20,7 +20,7 @@
 
 - [Mobile Application Development (5th bullet)](https://github.com/Developer-Y/cs-video-courses#software-engineering)
 - https://www.udemy.com/course/android-bug-bounty-hunting-hunt-like-a-rat
-- 
+- https://www.udemy.com/course/google-associate-android-developer-certification-2021
 
 ### Security
 
@@ -59,6 +59,7 @@
 - https://bandarra.me/2021/02/04/webadb-Adb-Over-Usb-Resources
 - [Docker-Android is a docker image built to be used for everything related to mobile website testing and Android project.](https://github.com/budtmo/docker-android)
 - [Run QEMU Android in a Docker](https://github.com/sickcodes/dock-droid)
+- https://www.eff.org/deeplinks/2021/09/introducing-apkeep-eff-threat-labs-new-apk-downloader
 
 ### APIs
 

@@ -20,6 +20,7 @@
 - https://www.scena9.ro/article/documentare-muzica-netflix-hbo-go-amazon-prime
 - ["Music 5" (Fundamentals of musicianship)](https://www.facebook.com/stoyan.stefanov/posts/10159085546820960)
 - https://www.youtube.com/c/ShutianCheng/playlists
+- [Music Theory | Brad Harrison Music](https://www.youtube.com/playlist?list=PLDaNGknQ_wTh3eXyjB0smdEYSvqa-wJ1_)
 
 ### Instrument
 

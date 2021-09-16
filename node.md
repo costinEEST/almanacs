@@ -269,6 +269,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/andreasonny83/unique-names-generator
 - https://github.com/mscdex/ssh2
 - [timefind lets you find the exact moment that something was added to a website.](https://github.com/Cykelero/timefind)
+- [Video encoding / transcoding / converting](https://github.com/75lb/handbrake-js)
 
 ### Testing
 
@@ -394,6 +395,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [How to make simple Geolocation service using Cloudflare Workers.](https://maxkostinevich.com/blog/serverless-geolocation)
 - https://www.raymondcamden.com/2020/08/16/migrating-from-node-and-express-to-the-jamstack-part-3
 - https://medium.com/lambda-store/terminal-chat-application-using-serverless-redis-1feec78cbfa
+- https://dev.to/crtr0/building-a-virtual-conference-ticket-with-begin-aws-puppeteer-hgk
 
 ### Miscellaneous
 

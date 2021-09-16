@@ -37,6 +37,7 @@
 - https://github.com/hellerve/programming-talks#java--android
 - [Comparing programming languages | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYhKCP2zuXqe2ubiXab5az36)
 - [build a basic translation platform using Java, Springboot, TypeScript, React and MYSQL | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYjWVQi6oyf332N4R7ZG-AOS)
+- https://www.youtube.com/c/JavaChallengers/playlists
 
 ### Security
 
