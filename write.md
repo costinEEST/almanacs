@@ -38,6 +38,7 @@
 - https://mundyreimer.github.io/blog/representation-notation-thought
 - https://studyhall.xyz/the-art-of-writing-obituaries-during-a-plague
 - https://medium.com/curious/write-down-10-ideas-per-day-and-it-can-rewire-your-brain-48c096a1d30
+- https://www.christopherbiscardi.com/content-production
 
 
 ### Radio

@@ -103,6 +103,7 @@
 - https://github.com/ljlm0402/typescript-express-starter
 - https://github.com/timofeysie/nextjs-markdown-blog
 - https://github.com/ryansonshine/typescript-npm-package-template
+- [a project to create your own personal podcast feed](https://github.com/inian/personal-casts)
 
 ### Cinema
 
@@ -177,6 +178,7 @@
 - https://twitter.com/loige/status/1388888755495387137
 https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js
+- [Advanced vm/sandbox for Node.js](https://github.com/patriksimek/vm2)
 
 
 ### Event loop
@@ -210,6 +212,9 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://simonplend.com/are-you-using-promises-and-async-await-safely-in-node-js
 - https://slides.com/lucianomammino/finding-a-lost-song-with-nodejs-and-async-iterators
 - https://yarin.dev/nodejs-cpu-bound-tasks-worker-threads
+- https://giuseppegurgone.com/synchronizing-async-functions
+- [Make an asynchronous function synchronous](https://github.com/sindresorhus/make-synchronous)
+- [Turns async function into sync via JavaScript wrapper of Node event loop](https://github.com/abbr/deasync)
 
 ### Thread
 
@@ -270,6 +275,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/mscdex/ssh2
 - [timefind lets you find the exact moment that something was added to a website.](https://github.com/Cykelero/timefind)
 - [Video encoding / transcoding / converting](https://github.com/75lb/handbrake-js)
+- [A lightweight node.js module to recursively read files in a directory using ES6 Promises.](https://github.com/guatedude2/node-readfiles)
+- [Embed data in other data and easily extract it when needed](https://github.com/sindresorhus/subsume)
 
 ### Testing
 
@@ -326,6 +333,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [cote lets you write zero-configuration microservices in Node.js without nginx, haproxy, redis, rabbitmq or anything else. ](https://github.com/dashersw/cote)
 - [If you ever wanted to gain atomicity for a series of service calls, sagas may be the right choice.](https://twitter.com/AndreyPechkurov/status/1375877582315458569) + https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
 - [React/Node.js/GraphQL Microservices App](https://www.youtube.com/playlist?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6)
+- https://github.com/PacktPublishing/Developing-Microservices-With-Nodejs
 
 ### Design patterns
 

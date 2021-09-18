@@ -116,6 +116,7 @@
 - https://chan.dev/posts/a-non-comprehensive-guide-to-yaml-for-folks-who-like-json-just-fine
 - https://github.com/bregman-arie/devops-exercises
 - [YAML parses numbers as a base-60 value](https://twitter.com/MeBeiM/status/1373763490465333248)
+- https://blog.sophaskins.net/blog/setting-up-a-home-hypervisor
 
 ### Monitoring
 

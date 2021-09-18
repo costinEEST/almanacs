@@ -49,6 +49,7 @@
 
 - https://github.com/Developer-Y/all-things-java
 - https://github.com/cxxr/better-java
+- [Shows shipwreck locations on a map; each wreck can be clicked for further information](https://github.com/lauriharpf/shipwrecks)
 
 ### Opinions
 

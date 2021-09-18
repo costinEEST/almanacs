@@ -67,6 +67,7 @@
 - [An Ethereum DApp in the spirit of the Reddit Button](https://github.com/ttumiel/recursive-bet)
 - [A 3 part workshop on Ethereum and DApps.](https://github.com/CryptoSoc/truffle-workshop)
 - [Staking DApp for Eat The Blocks Projects hackathon #2.](https://github.com/assafom/eatthestake)
+- https://github.com/thecryptoshed/eth-dapp-developer-roadmap
 
 ### De-fi
 
@@ -123,6 +124,7 @@
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
 - [What's the best beginner guide to DeFi?](https://twitter.com/PaulRBerg/status/1412081828614246400)
 - https://github.com/jsjoeio/web3-cheatsheet
+- https://lukekanies.com/series-blockchain-without-blockchain/
 
 ### Boilerplate
 
@@ -141,12 +143,14 @@
 - https://github.com/alexk111/awesome-bitcoin-payment-processors
 - [40 hours of actionable bitcoin discussion available for free without ads, sponsors, or paywalls](https://keybase.pub/mattodell/Citadel-Dispatch/Video)
 - https://uncommoncore.co/wp-content/uploads/2019/10/A-model-for-Bitcoins-security-and-the-declining-block-subsidy-v1.02.pdf
+- https://twitter.com/summerofbitcoin/status/1436371656570654720 + https://blog.summerofbitcoin.org/#archive
 
 ### Solana
 
 - https://www.theblockcrypto.com/post/117205/anatoly-yakovenko-unpacks-solanas-rise-memes-and-nft-snafus
 - https://blog.neodyme.io/posts/solana_common_pitfalls
 - https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction
+- [Protocol and application framework for decentralized NFT minting, storefronts, and sales.](https://github.com/metaplex-foundation/metaplex)
 
 ### Non fungible tokens
 
@@ -188,6 +192,10 @@
 - https://github.com/raineorshine/solidity-repl
 - https://b3nac.com/posts/2021-06-14-A-Not-So-Safe-safeTransferFrom-Implementation.html
 - https://twitter.com/jsjoeio/status/1427287794699759622
+
+### Ethereum
+
+- [Code samples for the Ethereum for Web Developers book](https://github.com/spalladino/ethereum-samples)
 
 ### Demos
 
@@ -238,3 +246,4 @@
 - https://www.troyhunt.com/i-now-own-the-coinhive-domain-heres-how-im-fighting-cryptojacking-and-doing-good-things-with-content-security-policies
 - [Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity](https://github.com/pubkey/eth-crypto)
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
+- https://github.com/openblocksec/blocksec-incidents

@@ -11,3 +11,4 @@
 - https://www.youtube.com/c/OurChangingClimate/playlists + https://ethical.net/our-changing-climate/why-biodiversity-is-collapsing-worldwide
 - https://bobburrough.com/public/post/renewable_energy_for_consumer_devices
 - https://www.bbc.com/future/article/20210706-how-flooded-coal-mines-could-heat-homes
+- https://iscoada.com/eseu/avocado-cocaina-si-ulei-de-palmier

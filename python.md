@@ -164,7 +164,8 @@
 - https://github.com/httpie/httpie
 - [Open source self-hosted web archiving.](https://github.com/ArchiveBox/ArchiveBox)
 - [How to Google Any Selected Text with a Keyboard Shortcut](https://github.com/codezri/googlezri)
-- [ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code](https://github.com/nexB/scancode-toolkit) + https://scancode-licensedb.aboutcode.org/
+- [ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code](https://github.com/nexB/scancode-toolkit) + https://scancode-licensedb.aboutcode.org
+- [A Python package that creates name suggestions for companies, software, etc.](https://github.com/AlexEngelhardt/startup-name-generator)
 
 
 

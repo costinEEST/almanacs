@@ -135,6 +135,7 @@
 - [Josh Sherman](https://us4.campaign-archive.com/home/?u=374a1419f1381c14c8bc92119&id=91dbdd5c9b)
 - https://golangweekly.com/issues
 - [Amit Agarwal](https://www.getrevue.co/profile/labnol)
+- [Jon Kuperman](https://buttondown.email/jkup/archive)
 
 ### Web performance
 

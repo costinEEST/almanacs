@@ -3,6 +3,7 @@
 - https://www.facebook.com/liliana.chiaburu
 - [Christopher Alexander](http://www.patternlanguage.com/ca/ca.html) + https://www.goodreads.com/book/show/13690365-the-battle-for-the-life-and-beauty-of-the-earth
 - [I.M. Pei: Building China Modern](https://www.brianfunck.com/i-m-pei)
+- https://issuu.com/dictionaruar/docs/dictionar_arhitecti_si_cladiri_ac_u
 
 ### Applications
 

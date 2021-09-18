@@ -5,7 +5,7 @@
 - https://gumroad.com/l/gnu_awk + https://leanpub.com/gnu_awk
 - https://leanpub.com/anti-reverse-engineering-linux
 
-### Courses
+### Course
 
 - https://linuxjourney.com + https://github.com/cindyq/linuxjourney
 - https://cmdchallenge.com
@@ -18,6 +18,7 @@
 - https://www.reddit.com/r/linuxupskillchallenge + https://news.ycombinator.com/item?id=24380969
 - [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux) + https://news.ycombinator.com/item?id=26002335
 - https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation
+- https://www.freecodecamp.org/news/linux-essentials-for-hackers
 
 ### Containers
 

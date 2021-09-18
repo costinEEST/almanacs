@@ -256,6 +256,7 @@
 - https://www.discovermagazine.com/health/liz-parrish-is-patient-zero-in-her-own-anti-aging-experiment
 - https://en.wikipedia.org/wiki/List_of_living_centenarians
 - https://www.gowinglife.com/top-10-health-and-longevity-innovations-in-2020
+- https://mariakonovalenko.wordpress.com/2015/06/17/the-mtor-story-part-1-what-makes-this-important-pro-aging-molecule-active
 
 ### Viruses
 

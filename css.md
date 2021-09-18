@@ -74,6 +74,7 @@
 - [Kevin Powell](https://www.youtube.com/kepowob/playlists)
 - https://github.com/micromata/awesome-css-learning
 - [Jhey Tompkins](https://www.youtube.com/c/JheyTompkins/playlists)
+- https://github.com/hendurhance/ui-ux
 
 ### Measurement units
 
@@ -102,6 +103,8 @@
 - https://noti.st/rachelandrew/VeraEX/understanding-display
 - https://www.oddbird.net/2021/05/14/support-unknown
 - [fit-content and fit-content()](https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html)
+- https://web.archive.org/web/20160806230624/http://colinaarts.com/articles/inline-block-and-you
+- https://web.archive.org/web/20161029155622/https://colinaarts.com/articles/the-magic-of-overflow-hidden
 
 ### Selector
 

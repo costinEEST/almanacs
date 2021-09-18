@@ -86,6 +86,7 @@
 - https://news.ycombinator.com/item?id=25999692
 - https://99percentinvisible.org/episode/the-real-book + https://news.ycombinator.com/item?id=26737142
 - https://en.wikipedia.org/wiki/Jazz_Age
+- https://blog.sophaskins.net/blog/jazz-albums-for-the-socially-distanced
 
 ### Rock
 

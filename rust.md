@@ -81,6 +81,7 @@
 - https://github.com/danvk/aoc2020 + https://medium.com/@danvdk/advent-of-code-2020-this-time-in-rust-7904559e24bc
 - https://kerkour.com/blog/rust-for-web-development-2-years-later
 - https://github.com/MondayMorningHaskell/RustBeginners
+- [Migrate C code to Rust](https://github.com/immunant/c2rust)
 
 ### Podcast
 

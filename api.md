@@ -51,6 +51,7 @@
 - https://github.com/devknoll/graphql-resources
 - [Obtain GraphQL API schema despite disabled introspection!](https://github.com/nikitastupin/clairvoyance)
 - https://blog.doyensec.com/2021/05/20/graphql-csrf.html
+- https://ethicalhacking.sh/posts/try-hack-me-graphql
 
 ### gRPC
 
@@ -124,3 +125,4 @@ curl v2.wttr.in/Bucharest
 - https://blog.webpagetest.org/posts/the-webpagetest-api-has-gone-public
 - https://www.freecodecamp.org/news/low-code-tutorial
 - https://github.com/arainho/awesome-api-security
+- https://github.com/yosriady/api-development-tools

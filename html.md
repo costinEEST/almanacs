@@ -154,6 +154,8 @@
 - https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools
 - https://github.com/damianfrizzi/fetoolkit
 - https://www.tpgi.com/seeing-the-wood-for-the-trees-demystifying-markup-in-2021
+- [Converts Kindle E-Books to HTML files](https://github.com/d10r/kindle-fetch)
+- https://github.com/mame/world-flag-search
 
 ### Cinema
 

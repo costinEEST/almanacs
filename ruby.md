@@ -21,6 +21,7 @@
 ### Reference
 
 - https://github.com/franzejr/best-ruby
+- https://twitter.com/Khazaara/status/1436674315211132928
 
 ### Tool
 

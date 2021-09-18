@@ -32,6 +32,7 @@
 - [Spanish With Paul](https://www.youtube.com/user/learnspanishvideos/playlists)
 - [The Development of Writing - The Oriental Institute](https://www.youtube.com/playlist?list=PLmXaxHgt2ww-5iaGS85AavCctyfM252wu)
 - [Brian Loo Soon Hua](https://www.youtube.com/channel/UC06QVomuK9XKcU7-qsM67uQ/playlists)
+- [TESOL and TPRS Course (For Language Teachers)](https://www.udemy.com/course/tesol-and-tprs-course-)
 
 ### Books
 
@@ -82,6 +83,7 @@
 - [Through Chinese Characters, learn Chinese, Korean and Japanese](https://www.youtube.com/playlist?list=PLLQcDG6MBpwhBEhBydyFjDAndO7_2CKpU)
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqqQ1XgELAXd1qLrc5an6Vgf
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqotxScb7W419m3hOsEzSw48
+- https://guhanmandarim.com.br/mandarim-live
 
 ### Arabic
 

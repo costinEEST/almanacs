@@ -46,6 +46,7 @@
 - [I have node_modules folders clogging up my system.](https://twitter.com/dolearning/status/1372481620259770373)
 - [Opt + click to place your cursor wherever in Terminal](https://twitter.com/leonte_dev/status/1264140864751878144)
 - https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign + https://blog.gnclmorais.com/run-copied-cli-commands-with-a-leading-dollar-sign-safer
+- [How to reduce the node_modules folder size?](https://twitter.com/Raynos/status/1436655636125736962)
 
 
 ### Tools

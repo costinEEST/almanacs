@@ -38,6 +38,7 @@
 - [VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor.](https://github.com/microsoft/codetour)
 - https://nelsonslog.wordpress.com/2021/09/10/switching-to-vs-code
 - https://dev.to/5t3ph/build-tools-and-extensions-i-use-in-front-end-projects-2ko5
+- https://github.com/TomaszWaszczyk/shortcuts-productive-hacks
 
 ### Tool
 
