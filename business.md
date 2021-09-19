@@ -28,6 +28,7 @@
 ### Cinema
 
 - [Technology History | ColdFusion](https://www.youtube.com/playlist?list=PL0iVR8sl9TiWhylpe3dyKKPRvTJHX3Ns7)
+- [Want to do an MBA for free ?](https://twitter.com/sahilypatel/status/1414565655471280132)
 
 ### Marketing
 
@@ -86,6 +87,7 @@
 - [TIM FERRISS 17 Lectii care mi-au schimbat viata](https://www.evernote.com/shard/s314/client/snv?noteGuid=cf3f3a95-81d9-42f1-8406-2a859d65fe02&noteKey=6646ca63cdf29e62ba3cc343ee1c31fd&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs314%2Fsh%2Fcf3f3a95-81d9-42f1-8406-2a859d65fe02%2F6646ca63cdf29e62ba3cc343ee1c31fd&title=TIM%2BFERRISS%2B17%2BLectii%2Bcare%2Bmi-au%2Bschimbat%2Bviata)
 - [“Earn influence, don’t mandate it” – a conversation with Figma’s Devdatta Akhawe](https://material.security/blog/earn-influence-dont-mandate-it--a-conversation)
 - [reading-for-product-managers.md](https://gist.github.com/simpsoka/5794e07d4dd34c9bbc70de26c0402552)
+- https://github.com/ProductHired/open-product-management
 
 ### Leadership
 

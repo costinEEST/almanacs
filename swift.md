@@ -20,6 +20,7 @@
 - https://github.com/heckj/swiftui-notes
 - https://github.com/aslanyanhaik/youtube-iOS
 - https://github.com/fastred/Optimizing-Swift-Build-Times
+- [A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics (Face & Touch ID) and MVVM Architecture.](https://github.com/sameersyd/Expenso-iOS)
 
 ### Practice
 

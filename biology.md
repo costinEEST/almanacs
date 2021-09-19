@@ -12,6 +12,7 @@
 - https://www.goodreads.com/blog/show/2071-famed-biographer-walter-isaacson-on-gene-editing-science-and-good-book
 - https://inquisitivebiologist.com/2021/08/23/book-review-the-cheating-cell-how-evolution-helps-us-understand-and-treat-cancer
 - https://www.bookdepository.com/Philosopher-on-Wall-Street-David-Ewing-Duncan/9781626348714
+- [Is there any visually appealing biology science fiction?](https://twitter.com/LauraDeming/status/1438267984934424576)
 
 ### Course
 
@@ -102,3 +103,4 @@
 - https://ark-invest.com/podcast/understanding-mrna-conversations-with-moderna-and-arcturus-therapeutics + https://twitter.com/aurmanARK/status/1356383891909705730
 - https://carlzimmer.com/podcasts
 - https://a16z-live.simplecast.com/episodes/its-time-to-heal-14-the-mrna-revolution-with-moderna-ceo-stephane-bancel
+- https://beaglelanded.com/podcasts/walter-isaacson-code-breaker

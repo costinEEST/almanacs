@@ -25,6 +25,7 @@
 - https://www.amazon.com/Keychron-Wireless-Bluetooth-Mechanical-Keyboard/dp/B07Y9Y69N7
 - https://twitter.com/lucalanziani/status/1382410416823934987
 - https://www.aaron-powell.com/posts/2021-07-29-keyboard-first-impressions-zsa-moonlander
+- https://twitter.com/akinncar/status/1438114099066458114
 
 ### Microphone
 
@@ -74,3 +75,7 @@
 - https://scottspence.com/2020/05/30/first-time-pc-build
 - https://quanticdev.com/articles/max-value-pc-build-guide
 - https://wincent.com/blog/building-a-pc
+
+### Webcam
+
+- https://opalcamera.com + https://twitter.com/nikitonsky/status/1437334446231916544 + https://news.ycombinator.com/item?id=28463493

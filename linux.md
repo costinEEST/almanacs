@@ -43,6 +43,7 @@
 - https://github.com/danbev/learning-linux-kernel
 - https://github.com/cirosantilli/arm-assembly-cheat
 - https://www.labbott.name/blog/2017/11/15/some-reading
+- [Linux kernel concurrency cheat sheet](https://twitter.com/vegard_no/status/1437477945271111682)
 
 ### Radio
 

@@ -43,6 +43,7 @@
 - https://blog.packagist.com/preventing-dependency-hijacking
 - [WAF bypassing](https://twitter.com/0xInfection/status/1340758820042256384)
 - [XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.](https://github.com/s4n7h0/xvwa)
+- https://0xboku.com/2021/09/14/0dayappsecBeginnerGuide.html
 
 ### Miscellaneous
 

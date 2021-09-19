@@ -38,6 +38,7 @@
 - [Bumping into some little known but cool computer history books lately.](https://twitter.com/prathyvsh/status/1199258119362117633)
 - https://github.com/jaybutera/Abstract-Algebra
 - https://greenteapress.com/wp/think-complexity-2e
+- [physics/math books that don't just recycle known arguments/history but present either a new viewpoint or lesser-known aspects of history?](https://twitter.com/curiouswavefn/status/1436809822704324609)
 
 ### Courses
 
@@ -102,6 +103,7 @@
 - https://primes.utm.edu/primes/home.php + https://primes.utm.edu/primes/download.php + https://primes.utm.edu/lists/small/ + https://primes.utm.edu/primes/search.php
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov) + http://backreaction.blogspot.com/2010/05/abramowitzstegun-goes-online.html
 - https://amilajack.com/the-languages-of-mathematics
+- [Skateboard Tricks and Topological Flips](https://arxiv.org/abs/2108.06307)
 
 ### Teacher
 

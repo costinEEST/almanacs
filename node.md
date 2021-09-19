@@ -158,6 +158,7 @@
 - https://www.jackhoy.com/web-applications/2020/10/21/debugging-memory-leaks-in-nodejs.html
 - https://pawelgrzybek.com/from-express-to-fastify-in-node-js
 - [The Case of the 50ms request](https://news.ycombinator.com/item?id=27053941)
+- [Timezones are hard](https://twitter.com/matteocollina/status/1438073525051473923)
 
 ### TIL
 
@@ -279,6 +280,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Video encoding / transcoding / converting](https://github.com/75lb/handbrake-js)
 - [A lightweight node.js module to recursively read files in a directory using ES6 Promises.](https://github.com/guatedude2/node-readfiles)
 - [Embed data in other data and easily extract it when needed](https://github.com/sindresorhus/subsume)
+- [Easily install, configure and compose Node.js ESM loaders.](https://github.com/targos/multiloader) + https://twitter.com/giltayar/status/1437273836899164160
 
 ### Testing
 
@@ -306,6 +308,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://www.freecodecamp.org/news/free-8-hour-node-express-course
 - https://www.freecodecamp.org/news/the-nginx-handbook
 - [Example on how to implement an HTTP/2 client and server in Node.js](https://github.com/sohamkamani/node-http2-example)
+- https://jaxenter.com/load-balancing-round-robin-164101.html + https://twitter.com/Kikobeats/status/1437770919456514057
 
 ### Scrapping
 

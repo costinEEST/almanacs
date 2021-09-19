@@ -1,9 +1,13 @@
-### Books
+### Book
 
 - https://blog.dpc.dev/digital-signal-processing-steven-w-smith
 - https://electrokits.ro/carti-electronica-c-4/carti-electronica-ro-c-4_5/tanarul-audioamator-p-639.html
 
-### References
+### Cinema
+
+- [Sound Design | Aidin Robbins](https://www.youtube.com/playlist?list=PLWPee627x2SbTbBub80dqKxM4pvQxUrx2)
+
+### Reference
 
 - https://divu.in/music-theory-and-generation-13965ba83eb9
 - [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
@@ -23,6 +27,7 @@
 - https://dwayne.xyz/post/audio-visualizations-web-audio-api
 - [Digital sound processing tutorial for the braindead!](http://yehar.com/blog/?p=121) + https://news.ycombinator.com/item?id=25024835
 - [CatMeows: A Publicly-Available Dataset of Cat Vocalizations](https://zenodo.org/record/4008297)
+- https://geoffthegreygeek.com/category/understanding-audio
 
 ### Tool
 
@@ -43,6 +48,7 @@
 - https://pitchfork.com/thepitch/decolonizing-electronic-music-starts-with-its-software + https://twitter.com/tarikbarri/status/1365629440697507841
 - [Free full-featured web-based audio & waveform editing tool](https://github.com/pkalogiros/AudioMass)
 - [Auto-Editor is a command line application for automatically editing video and audio by analyzing where sections are silent and cutting them up.](https://github.com/WyattBlue/auto-editor)
+- [My Cinematic SOUND DESIGN Process - Adobe Premiere Pro Tutorial | Aidin Robbins](https://youtu.be/MQ4kYSyBgcc)
 
 
 ### TV

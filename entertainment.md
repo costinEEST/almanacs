@@ -61,6 +61,8 @@
 - [James Joyce - Portret al artistului la tinerete](https://humanitas.ro/assets/pdf/James-Joyce_Portret-al-artistului.pdf)
 - [Story Genius - Lisa Cron](https://blog.dpc.dev/story-genius)
 - https://www.atlasobscura.com/articles/one-of-the-earliest-science-fiction-books-was-written-in-the-1600s-by-a-duchess + https://news.ycombinator.com/item?id=23894582
+- https://en.wikipedia.org/wiki/White_Noise_(novel)
+- [Schools offer History classes. What if they also offered Future classes?](https://twitter.com/devonzuegel/status/1287594829904596992) + https://en.wikipedia.org/wiki/Psychohistory_(fictional)
 
 ### Sociology
 
@@ -86,6 +88,8 @@
 - https://www.theguardian.com/lifeandstyle/2021/mar/28/secular-pilgrims-why-ancient-trails-still-pack-a-spiritual-punch
 - [What does Jordan Peterson mean by "the traditional insistence on the androgyny of Christ"?](https://twitter.com/entactogeneses/status/1338289377022251010)
 - [The Good Christian Ruler in the First Millennium](https://www.degruyter.com/document/doi/10.1515/9783110725612/html) + https://twitter.com/LaurySarti/status/1417929541834715143
+- https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.2.x.asciidoc
+- https://www.amazon.com/Christian-Encounter-Muhammad-Theologians-Interpreted/dp/1350191213
 
 ### Geography
 
@@ -236,6 +240,7 @@
 - https://www.chesshistory.com
 - https://www.europeana.eu/en/blog/checkmate-7-fascinating-facts-about-chess
 - https://twitter.com/tlakomy/status/1358162226352451587
+- [One Problem, 500 Arrows | GMHikaru](https://youtu.be/2pZSozuQAS0)
 
 ### Golf
 

@@ -52,6 +52,8 @@
 - [Obtain GraphQL API schema despite disabled introspection!](https://github.com/nikitastupin/clairvoyance)
 - https://blog.doyensec.com/2021/05/20/graphql-csrf.html
 - https://ethicalhacking.sh/posts/try-hack-me-graphql
+- https://github.com/clintonwoo/hackernews-react-graphql
+- [A TODO App with Relay | JSer](https://www.youtube.com/playlist?list=PLvx8w9g4qv_oIjs-sNY5MX3tcM7Spa8qP) + https://www.youtube.com/watch?v=yRni-IPRn90
 
 ### gRPC
 

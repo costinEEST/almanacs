@@ -175,6 +175,7 @@
 - https://jeffy.info/2019/07/22/exposing-cors-headers.html
 - https://dewcode.medium.com/finding-bugs-at-limited-scopes-programs-single-domain-websites-d3c2ff396edf
 - https://github.com/pfrazee/http-template-literal
+- https://pokeinthe.io/2021/09/13/cache-control-recommendations + https://twitter.com/CubicleApril/status/1437466733762256901
 
 ### HTTPS
 
@@ -254,6 +255,7 @@
 - https://github.com/ipfs-shipyard/ipfs-primer + https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content + https://legacy.gitbook.com/book/flyingzumwalt/ipfs-primer/details
 - https://www.scriptjunkie.us/2020/01/dispelling-decentralization-doubts + https://twitter.com/scriptjunkie1/status/1218213716648497152
 - [A Blog Hosted On ENS+IPFS Powered By Svelte+Sapper](https://ronan.eth.link/blog/blog-hosted-on-ens-ipfs)
+- https://hackmd.io/@aimeez/H15SJ7zJv
 
 ### SSH
 

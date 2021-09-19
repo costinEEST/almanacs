@@ -88,6 +88,7 @@
 - https://observablehq.com/@philschatz/united-states-coronavirus-daily-cases-map-covid-19
 - [My Programming Languages Spectrum](https://huangxuan.me/2020/05/05/pl-chart)
 - [Minimalist Ethereum Price](https://tanishq.xyz/staticETH)
+- [Map & Explore your organization's System Architecture](https://github.com/CondeNast/fyi)
 
 ### Miscellaneous
 

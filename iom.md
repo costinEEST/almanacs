@@ -16,6 +16,7 @@
 - [Introducing Blockchain Programming with Lisp by Boro Sitnikovski](https://leanpub.com/gibl)
 - https://github.com/miguelmota/ethereum-development-with-go-book
 - https://github.com/PacktPublishing/Learn-Python-by-Building-a-Blockchain-Cryptocurrency
+- [COMS 6998-006: Foundations of Blockchains](https://timroughgarden.github.io/fob21)
 
 ### Course
 
@@ -56,6 +57,7 @@
 - https://newsletter.banklesshq.com/about
 - [Shayan Eskandari](https://medium.com/@sbetamc)
 - [Julien Klepatch](https://dev.to/jklepatch)
+- [Who are the under-appreciated heroes of Ethereum?](https://twitter.com/jinglejamOP/status/1436458822952886272)
 
 
 ### DApps 
@@ -152,6 +154,9 @@
 - https://blog.neodyme.io/posts/solana_common_pitfalls
 - https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction
 - [Protocol and application framework for decentralized NFT minting, storefronts, and sales.](https://github.com/metaplex-foundation/metaplex)
+- https://github.com/CristinaSolana/solana-developer-resources
+- https://2501babe.github.io/posts/solana101.html
+- [Ethereum <> Solana 🧵on technical differences.](https://twitter.com/Web3Coach/status/1436758232069025792)
 
 ### Non fungible tokens
 

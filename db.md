@@ -36,6 +36,7 @@
 - [SQLmap guide](https://twitter.com/HusseiN98D/status/1238545584644149250) + http://www.it-docs.net/ddata/4956.pdf
 - [The Open Source Airtable Alternative. Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.](https://github.com/nocodb/nocodb) + https://news.ycombinator.com/item?id=27303783
 - [A Node.js powered tool that wraps pgdump and pgrestore then lets you share database dumps using git.](https://github.com/sdelements/flan)
+- [GUI to interact with databases](https://twitter.com/taylor_atx/status/1435384700529520645)
 
 
 ### Hacks
@@ -87,6 +88,7 @@
 - https://tomcam.github.io/postgres + https://news.ycombinator.com/item?id=25113440
 - https://postgresqlco.nf/en/doc/param + https://news.ycombinator.com/item?id=25024224
 - But nobody writes production applications with SQLite, right? https://litestream.io/blog/why-i-built-litestream + https://twitter.com/benbjohnson/status/1359906563285254149 + https://twitter.com/benbjohnson/status/1359944904588353537
+- https://github.com/ABZ-Aaron/CheatSheets
 
 ### Real-time databases
 

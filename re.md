@@ -18,7 +18,8 @@
 - [New x86 micro-op vulnerability breaks all known Spectre defenses](https://twitter.com/FreeBSDHelp/status/1388280497097252866) + https://twitter.com/IanColdwater/status/1388989153501581312 + https://comparch.org/2021/05/01/i-see-dead-uops-thoughts-on-the-latest-spectre-paper-targeting-uop-caches
 - https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network + https://trmm.net/tpm-sniffing
 - [Hacking Microcontroller Firmware through a USB](https://github.com/oct0xor/presentations/blob/master/2019-01-Hacking%20Microcontroller%20Firmware%20through%20a%20USB.pdf)
-- [Low Level PC/Server Attack & Defense — By @XenoKovah of @DarkMentorLLC](https://darkmentor.com/timeline.html)
+- [Low Level PC/Server Attack & Defense — By @XenoKovah of @DarkMentorLLC](https://darkmentor.com/timeline.html) + https://gitlab.com/XenoKovah/low-level_security_timeline
+- https://www.driverentry.com + https://twitter.com/yarden_shafir/status/1437686447293747200
 
 ### Courses
 

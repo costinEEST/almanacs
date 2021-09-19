@@ -74,6 +74,9 @@
 - [Automated Github Backups with ECS and S3](https://www.marcolancini.it/2021/blog-github-backups-with-ecs)
 - https://github.com/useful-forks/useful-forks.github.io
 - https://ospfranco.github.io/post/2021/05/04/build-react-native-app-on-github-actions
+- https://github.com/yangshun/delete-github-forks
+- [Bot that invites people to a private GitHub repo from a Discord channel](https://twitter.com/jarredsumner/status/1437508095144464387)
+- [Given I cannot find how to flick a project in @travisci, I started transitioning to @github Actions](https://twitter.com/shlomif/status/1431906145053073408)
 
 ### Tools
 

@@ -16,6 +16,7 @@
 - https://www.media.mit.edu/pia/Research/deepview/exif.html
 - https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python
 - https://www.industrialempathy.com/posts/avif-webp-quality-settings + https://twitter.com/cramforce/status/1363182846731382790
+- https://www.zachleat.com/web/vector-raster-split + https://twitter.com/zachleat/status/1430944481965182976
 
 ### Tools
 
@@ -26,6 +27,7 @@
 - [Serving WebP images with htaccess](https://github.com/vincentorback/WebP-images-with-htaccess)
 - https://github.com/nosolosw/snippets/blob/master/mp4-to-gif.sh
 - [Get image size without full download.](https://github.com/nodeca/probe-image-size)
+- [Web2Img is a tool to bundle your web files into a single image, and extract them via Service Worker at runtime.](https://github.com/EtherDream/web2img)
 
 ### Photos
 

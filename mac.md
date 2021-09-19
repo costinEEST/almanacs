@@ -42,6 +42,8 @@
 - https://github.com/ernw/hardening/tree/master/operating_system/osx
 - https://github.com/eieioxyz/Beyond-Dotfiles-in-100-Seconds
 - [Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond)
+- [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary)
+- [sudo nvram boot-args=”-v” before applying a patch.](https://twitter.com/Dave_Maynor/status/1438220468650139652)
 
 ### Security
 
