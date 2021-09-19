@@ -68,6 +68,7 @@
 - [Restoring Picroma Plasma Without Patching it and Reverse Engineering an Unknown Instruction Set](https://github.com/ChrisMiuchiz/Plasma-Writeup)
 - [iOS Reverse Engineering](https://github.com/kpwn/iOSRE)
 - https://noorsiddiqui.com/greatest-hits-in-sidechannel-attacks
+- https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance
 
 ### Radio
 

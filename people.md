@@ -40,6 +40,7 @@
 - https://www.theregister.com/2021/04/25/dan_kaminsky_obituary
 - https://duo.com/decipher/hacker-history-how-dan-kaminsky-almost-broke-the-internet
 - https://www.facebook.com/dragosr/posts/10157757325730588
+- [DEFCONConference](https://www.youtube.com/playlist?list=PL9fPq3eQfaaC-2LgmH8MlMi41ryw8ty2l)
 
 ### Daniel Zărnescu
 

@@ -31,6 +31,7 @@
 - https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development
 - https://www.udemy.com/course/delving-into-blockchain-use-cases-a-detailed-overview
 - https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert
+- [Full-stack blockchain programming course! A backend + frontend with Node.js, Jest, Express, React, Heroku, & more!](https://www.udemy.com/course/build-blockchain-full-stack)
 
 ### Cinema
 

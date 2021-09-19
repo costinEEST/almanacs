@@ -78,6 +78,7 @@
 - https://dev.to/tanishqxyz/how-i-made-a-telegram-bot-to-report-gumroad-sales-in-less-than-30-mins-53ke
 - [Bot to help me RSVP on a specific Football meetup group.](https://github.com/divyenduz/footybot)
 - https://www.freecodecamp.org/news/discord-ai-chatbot
+- [Create Telegram bot with NodeJS and Firebase Cloud Functions](https://www.udemy.com/course/telegram-firebase-bot) + https://www.youtube.com/playlist?list=PLhMX5hA0NWUQoRqYNFBE35NlUn1J915M0
 
 ### Boilerplate
 
@@ -115,6 +116,7 @@
 - [Fullstack Code Challenge with Node, GraphQL and Relay](https://www.youtube.com/playlist?list=PLgzzeV46F4nMW3HSrx1hRSwD9-bgYVuO7)
 - [Node JS Performance Optimizations | Bleeding Code](https://www.youtube.com/playlist?list=PLISqeoHsXJYAIfu4-mgNY0tloWz2uut1t) + https://github.com/bleedingcode/nodejs-performance-optimizations
 - [Free SSL with Greenlock v2 (Let's Encrypt for Node.js)](https://www.youtube.com/playlist?list=PLZaEVINf2Bq_lrS-OOzTUJB4q3HxarlXk)
+- [Build a Node.js web app with no frameworks from scratch (frameworkless.js) | Mike Timofiiv](https://www.youtube.com/playlist?list=PL6GJH3ZLo67Viu3OrB7w-NhHGXBHt8btZ)
 
 ### Course
 

@@ -147,6 +147,7 @@
 
 ### Investing
 
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUfvSw0xxQU1yzmsV2DrQWow
 - https://twitter.com/TimJonesBI/status/1333060108981592065
 - [The education of a value investor](https://twitter.com/hirwaadolphe/status/1206570768659877888)
 - [Commercial open-source software](https://twitter.com/andy_matuschak/status/1235073448105279490)
