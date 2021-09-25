@@ -64,6 +64,7 @@
 - https://kittygiraudel.com/2021/04/05/an-accessible-toggle
 - https://github.com/ericwbailey/a11y-syntax-highlighting
 - https://giuseppegurgone.com/twitter-html
+- https://a11yrules.com/podcast/default-focus-outlines-dont-remove-them
 
 ### <address></address>
 

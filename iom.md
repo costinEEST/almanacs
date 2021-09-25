@@ -135,6 +135,7 @@
 - [A template to build a decentralised application using ethereum, buidler, svelte and thegraph](https://github.com/wighawag/jolly-roger)
 - https://github.com/wighawag/template-ethereum-contracts
 - https://github.com/atkinsonholly/Drizzle-tutorial-with-React-Hooks
+- [Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier](https://github.com/paulrberg/solidity-template)
 
 
 ### Bitcoin
@@ -157,6 +158,12 @@
 - https://github.com/CristinaSolana/solana-developer-resources
 - https://2501babe.github.io/posts/solana101.html
 - [Ethereum <> Solana 🧵on technical differences.](https://twitter.com/Web3Coach/status/1436758232069025792)
+
+### Solidity
+
+- https://learnxinyminutes.com/docs/solidity
+- https://github.com/manojpramesh/solidity-cheatsheet
+- https://buildspace.so/solidity
 
 ### Non fungible tokens
 
@@ -183,6 +190,7 @@
 - [Let's learn about NFTs](https://twitter.com/jsjoeio/status/1429218955546152972)
 - [Interview with an NFT artist](https://twitter.com/jsjoeio/status/1431290807852486661)
 - https://github.com/aquario-crypto/Awesome_NFTs
+- https://buildspace.so/build-nfts
 
 ### Smart contracts
 
@@ -202,6 +210,8 @@
 ### Ethereum
 
 - [Code samples for the Ethereum for Web Developers book](https://github.com/spalladino/ethereum-samples)
+- [Joseph’s How to become an Ethereum Developer Guide](https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew)
+- https://github.com/paulrberg/create-eth-app
 
 ### Demos
 

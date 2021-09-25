@@ -1,8 +1,13 @@
-### Books
+### Book
 
 - [Energy: A Human History](https://www.goodreads.com/review/show/3008690448)
 - [Eco-friendly Guides](https://www.earthlover.co/resources)
 - https://intelligence.wundermanthompson.com/2021/04/new-trend-report-regeneration-rising-sustainability-futures
+- https://www.goodreads.com/review/list/18982209?shelf=ecology
+
+### Course
+
+- https://www.udemy.com/course/environment-and-ethics-a-basic-course
 
 ### Opinions
 

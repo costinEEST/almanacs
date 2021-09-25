@@ -281,6 +281,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [A lightweight node.js module to recursively read files in a directory using ES6 Promises.](https://github.com/guatedude2/node-readfiles)
 - [Embed data in other data and easily extract it when needed](https://github.com/sindresorhus/subsume)
 - [Easily install, configure and compose Node.js ESM loaders.](https://github.com/targos/multiloader) + https://twitter.com/giltayar/status/1437273836899164160
+- [Mailtrain is a self hosted newsletter application built on Node.js (v14+) and MySQL (v8+) or MariaDB (v10+)](https://github.com/Mailtrain-org/mailtrain)
 
 ### Testing
 

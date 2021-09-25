@@ -13,6 +13,7 @@
 - https://inquisitivebiologist.com/2021/08/23/book-review-the-cheating-cell-how-evolution-helps-us-understand-and-treat-cancer
 - https://www.bookdepository.com/Philosopher-on-Wall-Street-David-Ewing-Duncan/9781626348714
 - [Is there any visually appealing biology science fiction?](https://twitter.com/LauraDeming/status/1438267984934424576)
+- https://www.goodreads.com/review/list/18982209?shelf=biology
 
 ### Course
 
@@ -25,6 +26,7 @@
 - https://learn.genetics.utah.edu + https://news.ycombinator.com/item?id=23295590
 - https://www.edx.org/course/the-science-and-business-of-biotechnology
 - https://github.com/Developer-Y/cs-video-courses#computational-biology
+- https://www.udemy.com/course/learn-molecular-docking-become-competent-in-drug-design
 
 ### Community
 

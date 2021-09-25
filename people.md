@@ -29,6 +29,11 @@
 
 - https://www.amazon.com/Bit-Player-John-Hutton/dp/B08D291YQS
 
+### David Bohm
+
+- https://en.wikipedia.org/wiki/Bohm_Dialogue
+- https://www.brainpickings.org/2016/12/05/david-bohm-on-dialogue
+
 ### Daniel Kaminsky
 
 - https://twitter.com/dakami/status/1213734316712161280

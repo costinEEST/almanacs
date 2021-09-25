@@ -5,3 +5,4 @@
 ### Tool
 
 - https://twitter.com/EntosAI/status/1435302658886098947 + https://www.entos.ai/envision
+- https://www.udemy.com/course/chemicalprocess-engineering-drawingsdiagrams

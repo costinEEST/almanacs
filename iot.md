@@ -28,6 +28,8 @@
 - [ESP8266 Home Automation Projects](https://learning.oreilly.com/library/view/esp8266-home-automation/9781787282629) + https://myesp8266.blogspot.com/2018/09/esp8266-home-automation-projects-errata.html
 - https://arunoda.me/blog/load-testing-an-esp8266
 - [Framework for IoT projects implementing HTTPS requests, a React web interface, WiFi manager, live dashboard, configuration manager, file manager and OTA updates.](https://github.com/maakbaas/esp8266-iot-framework)
+- https://www.udemy.com/course/making-home-automation-iot-projects-with-nodemcu-ios-11
+- [Making a Wi-Fi RC Car from Scratch with ESP8266 NodeMCU and iOS 12 | Jeffrey App](https://www.youtube.com/playlist?list=PLMlO1PGnzRobxbGv-iWVTJ4w_BBgU7MR8)
 
 ### Espruino
 

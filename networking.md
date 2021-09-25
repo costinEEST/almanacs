@@ -24,6 +24,7 @@
 - https://learning.oreilly.com/library/view/network-warrior-2nd/9781449307974
 - https://twitter.com/varcharr/status/1303354695902203905
 - [How to Hack Like a PORNSTAR: A step by step process for breaking into a BANK](https://www.amazon.com/dp/B01MTDLGQQ)
+- https://www.ipspace.net/Books
 
 ### Communities
 
@@ -34,6 +35,7 @@
 
 - [CS 450: Introduction to Networking](https://www.cs.uic.edu/~ckanich/cs450/s17/syllabus.html)
 - https://www.udemy.com/course/network-engineer-taster-courses
+- https://www.udemy.com/course/tcp-http-spdy-deep-dive
 
 ### Tools
 
@@ -281,3 +283,4 @@
 - https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio
 - [Getting Fiber to My Town](https://news.ycombinator.com/item?id=24424910)
 - [Easy to use device that connects to a WiFi access point, to become a hotspot.](https://twitter.com/bendechrai/status/1314886551529119744)
+- https://www.ipspace.net/Category:History

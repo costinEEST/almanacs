@@ -241,6 +241,7 @@
 - https://www.europeana.eu/en/blog/checkmate-7-fascinating-facts-about-chess
 - https://twitter.com/tlakomy/status/1358162226352451587
 - [One Problem, 500 Arrows | GMHikaru](https://youtu.be/2pZSozuQAS0)
+- [Paul Morphy](https://twitter.com/CupOJoseph/status/1440818308320677894)
 
 ### Golf
 

@@ -64,6 +64,7 @@
 - [Biotech Without Borders](https://us16.campaign-archive.com/home/?u=2aafc95ab831ff84383e5b4a2&id=fa2a5447f8)
 - [Romanian Society of Bioinformatics](https://us17.campaign-archive.com/home/?u=1e432a2bd29548641f4428e61&id=9bb817dd4e)
 - [BioDojo](https://thebiodojo.substack.com/archive)
+- [The ODIN](https://us14.campaign-archive.com/home/?u=cc0fafea28551627b92bbc168&id=fac116480b)
 
 ### History
 
@@ -91,6 +92,7 @@
 - https://thecryptoinsider.substack.com
 - [Modern Fi LLC](https://us12.campaign-archive.com/home/?u=63d79e017888d9e2fed9be2aa&id=0ff34cd8d2)
 - [Web3Coach](https://us19.campaign-archive.com/home/?u=0adf077591251fc41bf4c12c9&id=8e4d58de3c)
+- [Joseph Schiarizzi](https://www.getrevue.co/profile/cupojoseph)
 
 ### Design
 

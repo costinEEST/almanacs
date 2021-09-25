@@ -65,6 +65,7 @@
 - https://blog.jim-nielsen.com/2021/css-system-colors
 - https://baselinehq.com/blog/colourblindness-information-ui-design-red-green-problems-tips-tricks.html
 - https://www.uxmatters.com/mt/archives/2021/09/color-and-universal-design.php
+- https://accessiblepalette.com
 
 
 ### Community
@@ -75,6 +76,7 @@
 - https://github.com/micromata/awesome-css-learning
 - [Jhey Tompkins](https://www.youtube.com/c/JheyTompkins/playlists)
 - https://github.com/hendurhance/ui-ux
+- https://bootcamp.uxdesign.cc/ui-ux-visual-designers-behind-great-games-1bd1b2724001
 
 ### Measurement units
 
@@ -105,6 +107,7 @@
 - [fit-content and fit-content()](https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html)
 - https://web.archive.org/web/20160806230624/http://colinaarts.com/articles/inline-block-and-you
 - https://web.archive.org/web/20161029155622/https://colinaarts.com/articles/the-magic-of-overflow-hidden
+- https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer
 
 ### Selector
 
