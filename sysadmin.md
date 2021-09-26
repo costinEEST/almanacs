@@ -95,6 +95,7 @@
 - https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer
 - https://securityboulevard.com/2019/11/kubernetes-pentest-methodology-part-3
 - [Learn Kubernetes one Twitter thread at the time!](https://twitter.com/danielepolencic/status/1298543151901155330)
+- https://github.com/diegolnasc/kubernetes-best-practices
 
 ### Servers
 

@@ -71,6 +71,7 @@
 - https://techcommunity.microsoft.com/t5/azure-security-center/become-an-azure-security-center-ninja/ba-p/1608761
 - https://github.com/ddneves/awesome-azure-learning
 - https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900
+- https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan
 
 ### Cloudflare
 

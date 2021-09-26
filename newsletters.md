@@ -44,6 +44,7 @@
 - [Meșter în mașini | Autocritica.ro](https://us7.campaign-archive.com/home/?u=09d606eba7825d461db3fcdb0&id=4c8cb54482)
 - https://www.thedeeptechrevolution.gridscapital.com
 - [Chris Hladczuk](https://www.getrevue.co/profile/chrishlad#archive)
+- [Prashant Bagga](https://us4.campaign-archive.com/home/?u=f80b1bc87f246a92fee9bfceb&id=8573422726)
 
 ### Buddhism
 

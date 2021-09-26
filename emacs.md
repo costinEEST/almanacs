@@ -10,6 +10,7 @@
 - https://zaiste.net/courses/emacs-doom + https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj
 - https://emacsconf.org/2020/talks + https://news.ycombinator.com/item?id=25324311
 - [Stefan learns emacs](https://www.youtube.com/playlist?list=PLkp6BbeMCOm3OHBUUFSHmsJDsaKiKvmm3)
+- https://github.com/daviwil/emacs-from-scratch
 
 ### Miscellaneous
 

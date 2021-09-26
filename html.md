@@ -81,6 +81,10 @@
 
 - https://css-tricks.com/exploring-what-the-details-and-summary-elements-can-do
 
+### <div></div>
+
+- https://www.matuzo.at/blog/element-diversity
+
 ### <dl></dl>
 
 - https://dorper.me/articles/dldt.aspx

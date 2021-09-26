@@ -28,6 +28,7 @@
 ־ [Systems with JT](https://www.youtube.com/user/giard321/playlists)
 - https://loige.co/where-to-go-to-learn-rust-in-2021
 - [Dave Herman](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
+- [Stefan Baumgartner](https://buttondown.email/oida/archive)
 
 ### Course
 

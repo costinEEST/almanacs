@@ -30,6 +30,7 @@
 - [Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.](https://github.com/serbanghita/Mobile-Detect)
 - [An exploration of the colors used by the ten most popular sites](https://github.com/Paul-Hebert/web_colors)
 - https://github.com/cubiclesoft/ultimate-web-scraper
+- https://christoph-rumpel.com/2021/9/the-video-course-launch-that-made-me-belive-in-myself-again
 
 ### Security
 

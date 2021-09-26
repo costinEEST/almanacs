@@ -355,6 +355,7 @@ javascript: (() =>
 
 ### Miscellaneous
 
+- https://wiki.systemcrafters.net/guix/browsers
 - https://github.com/vasanthk/how-web-works
 - [The End of Indie Web Browsers: You Can (Not) Compete.](https://news.ycombinator.com/item?id=21992050)
 - [Shareable bookmarks.](https://github.com/darekkay/static-marks)

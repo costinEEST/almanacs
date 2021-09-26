@@ -60,6 +60,7 @@
 ### Jeffrey Preston Bezos
 
 - https://sahilbloom.substack.com/p/the-bezos-regret-minimization-framework
+- https://www.businessinsider.com/jeff-bezos-amazon-history-facts-2017-4
 
 ### Patrick Collison
 

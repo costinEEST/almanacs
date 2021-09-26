@@ -90,6 +90,7 @@
 - [The Good Christian Ruler in the First Millennium](https://www.degruyter.com/document/doi/10.1515/9783110725612/html) + https://twitter.com/LaurySarti/status/1417929541834715143
 - https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.2.x.asciidoc
 - https://www.amazon.com/Christian-Encounter-Muhammad-Theologians-Interpreted/dp/1350191213
+- https://univie.academia.edu/AdrianPirtea
 
 ### Geography
 

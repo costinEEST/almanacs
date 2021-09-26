@@ -109,6 +109,7 @@
 - [A JSON representation of Webster's Unabridged Dictionary](https://github.com/adambom/dictionary)
 - [What's the difference between discipline and domain?](https://comparewords.com/discipline/domain)
 - https://www.udemy.com/course/english-verb-tenses-for-spanish-speakers
+- https://www.amazon.com/Complete-English-Beginner-Intermediate-Course/dp/1473627923
 
 ### Esperanto
 
