@@ -91,6 +91,7 @@
 - [ODFM, an omics data resource from microorganisms associated with fermented foods](https://www.nature.com/articles/s41597-021-00895-x) + [Omics Database of Fermentative Microbes provides "genome, metagenome, metataxonome, and (meta)transcriptome sequences" of bacteria and other microorganisms associated with a variety of fermented foods.](https://odfm.wikim.re.kr)
 - [Leonardo Da Vinci: New family tree spans 21 generations, 690 years, finds 14 living male descendants](https://www.eurekalert.org/pub_releases/2021-07/tca-ldv070221.php)
 - https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome
+- https://www.slashgear.com/mits-latest-glowing-plants-pave-the-way-for-passive-lighting-in-smart-cities-20691625
 
 
 ### Teachers

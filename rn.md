@@ -20,6 +20,7 @@
 - https://medium.com/geekculture/10-apps-that-use-react-native-debeef2114ff
 - [iOS & Android flashcards app for learning German words faster](https://github.com/antoniocosentino/flippingCards)
 - [Rocket.Chat mobile clients](https://github.com/RocketChat/Rocket.Chat.ReactNative)
+- https://www.makeuseof.com/react-native-blockchain-apps
 
 ### Cinema
 

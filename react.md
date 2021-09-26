@@ -53,6 +53,7 @@
 - [GPT-3 Powered Serverless App using NextJS & React](https://github.com/harish-garg/nextjs-reactjs-gpt-3)
 - [Deno + React: No build, no bundle, all streaming](https://github.com/exhibitionist-digital/ultra) + https://twitter.com/mutual__respect/status/1433240796451409923
 - https://github.com/Financial-Times/dotcom-page-kit
+- https://auth0.com/blog/streamlining-a-react-monorepo
 
 ### Books
 

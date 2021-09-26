@@ -30,6 +30,7 @@
 
 ### GraphQL
 
+- https://twitter.com/HolyBugx/status/1441460070387261440
 - https://www.musumeche.com/fishing + https://github.com/stevenmusumeche/salty-solutions
 - https://tldrsec.com/blog/appsec-cali-2019/#an-attackers-view-of-serverless-and-graphql-apps
 - [GraphQL: The future of API's is here](https://youtu.be/mj850EuHQHs) + http://files.lifely.nl/graphql-the-future-of-apis-is-here.pdf
@@ -128,3 +129,4 @@ curl v2.wttr.in/Bucharest
 - https://www.freecodecamp.org/news/low-code-tutorial
 - https://github.com/arainho/awesome-api-security
 - https://github.com/yosriady/api-development-tools
+- https://www.osohq.com/developers/authorization-academy

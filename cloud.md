@@ -39,6 +39,7 @@
 - [The Understanding Modern Cloud Architecture Series](https://www.youtube.com/playlist?list=PLesRB-DxZa8Zj9fNuvPwdL7-M39Ncrou0)
 - https://www.figma.com/blog/inside-figma-securing-internal-web-apps + https://tldrsec.com/blog/appsec-cali-2019/#the-call-is-coming-from-inside-the-house-lessons-in-securing-internal-apps + https://tldrsec.com/blog/appsec-cali-2019/#lessons-learned-from-the-devsecops-trenches
 - https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need
+- http://ramimac.me/security/syndicated/cloudsec/extended-aws-security-ramp-up
 
 ### Google Cloud
 

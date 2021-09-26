@@ -212,6 +212,7 @@
 - [Code samples for the Ethereum for Web Developers book](https://github.com/spalladino/ethereum-samples)
 - [Joseph’s How to become an Ethereum Developer Guide](https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew)
 - https://github.com/paulrberg/create-eth-app
+- https://docs.chain.link/docs/hackathon-resources
 
 ### Demos
 

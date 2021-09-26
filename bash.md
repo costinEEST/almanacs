@@ -59,6 +59,7 @@
 - [Deploy a reverse login shell with a single command (fully automated) - and access the shell remotely - encrypted - and via TOR if you like.](https://www.gsocket.io/deploy)
 - [ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
 - https://nuculabs.dev/2021/09/22/fzf-a-command-line-fuzzy-finder
+- https://github.com/WizardTim/cheatsheets/blob/master/youtube-dl.md
 
 ### References
 

@@ -99,6 +99,7 @@
 - [Workout Theory - Pietro Boselli](https://www.youtube.com/playlist?list=PLPem8DMLJzQNZf7TE8dKhzJOGa8bao24S)
 - [Exercise Anatomy - Pietro Boselli](https://www.youtube.com/playlist?list=PLPem8DMLJzQPB3gzfXBoCNPlG1Wf6ByFI)
 - [Lactate threshold training health biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z8z0O-Oqm9wUsfywDOgQgU)
+- https://darebee.com/programs/30-days-of-yoga.html
 
 ### Injuries
 

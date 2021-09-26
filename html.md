@@ -65,6 +65,7 @@
 - https://github.com/ericwbailey/a11y-syntax-highlighting
 - https://giuseppegurgone.com/twitter-html
 - https://a11yrules.com/podcast/default-focus-outlines-dont-remove-them
+- https://www.stefanjudis.com/useful-accessibility-resources
 
 ### <address></address>
 

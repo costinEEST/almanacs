@@ -55,6 +55,7 @@
 - https://www.aaron-powell.com/talks/docker-from-scratch
 - https://app.pluralsight.com/paths/skills/managing-docker-in-production
 - https://matduggan.com/are-dockerfiles-good-enough
+- https://github.com/detectify/Varnish-H2-Request-Smuggling
 
 ### Kubernetes
 

@@ -20,6 +20,7 @@
 - [Authentication system using NextJS, GraphQL, Apollo Client, Apollo Server, MongoDB, Nginx, Docker, Docker-Compose and Kubernetes](https://github.com/nreoch25/nextjs-graphql-auth)
 - https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-system-782a7f2c840f + https://news.ycombinator.com/item?id=27580153
 - https://www.aspecto.io/blog/microservices-authentication-strategies-theory-to-practice
+- http://ramimac.me/security/syndicated/offensive-authorization-code
 
 ### API
 
