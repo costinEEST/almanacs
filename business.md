@@ -25,6 +25,7 @@
 - https://eandt.theiet.org/content/articles/2019/10/book-review-beyond-the-valley-how-innovators-around-the-world-are-overcoming-inequalities-and-shaping-the-technology-of-tomorrow
 - https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years + https://youtu.be/CZIINXhGDcs
 - https://www.amazon.com/Obliquity-goals-best-achieved-indirectly/dp/B00DO9HMB4
+- [Curating content on the interaction between technology and culture.](https://twitter.com/prathyvsh/status/1442138650632855558)
 
 ### Cinema
 

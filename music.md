@@ -12,6 +12,8 @@
 - https://www.technovelty.org/review/jazz-piano-comping-for-the-beginning-jazz-improvisor.html
 - https://www.atlasobscura.com/articles/who-is-deben-bhattacharya-ethnomusicologist + [Paris to Calcutta: Men and Music on the Desert Road | Deben Bhattacharya](https://www.soundohm.com/product/paris-to-calcutta-men-and)
 - http://openmusictheory.com/contents.html
+- https://www.goodreads.com/author/show/1259336.Viorel_Cosma
+- https://www.amazon.com/Manele-Romania-Expression-Ethnomusicologies-Modernities/dp/1442267070
 
 ### Cinema
 
