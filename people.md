@@ -81,9 +81,18 @@
 
 - https://www.perell.com/podcast/kevin-kelly-seeing-the-future +https://youtu.be/ynt37tTdvGU
 
+### Ray Dalio
+
+- https://www.businessinsider.com/ray-dalio-book-recommendations-for-college-students-and-investors-2019-8
+
 ### Richard Hamming
 
 - https://twitter.com/iantay_/status/1375945517486669824 + https://www.notion.so/blog/a-roundtable-on-richard-hamming
+
+### Robert Augustus Masters
+
+- https://www.robertmasters.com/interviews
+- https://www.consciouslife.com/robert-augustus-masters-phd
 
 ### Rory Sutherland
 

@@ -422,6 +422,7 @@
 - [a configuration for webcomponents build for IE11 to Chrome](https://github.com/tiberiucorbu/es5-esnext-webcomponent-project-starter)
 - https://www.ctnicholas.dev/articles/reactive-framework-in-40-lines
 - https://github.com/philhawksworth/html-time
+- [Web component server-side rendering](https://github.com/matthewp/ocean)
 
 ### Testing
 

@@ -75,6 +75,7 @@
 - [HOW TO WHITELIST OUR EMAIL](https://drmowll.lpages.co/de-whitelist)
 - https://theintercept.com/2021/07/27/pegasus-nso-spyware-security
 - [How to find hidden cameras in AirBnBs](https://www.tiktok.com/@malwaretech/video/7002804220126661893)
+- https://textslashplain.com/2021/09/21/determining-os-platform-version
 
 ### Social media
 

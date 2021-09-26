@@ -58,6 +58,7 @@
 - [Pure bash script to test and wait on the availability of a TCP host and port](https://github.com/vishnubob/wait-for-it)
 - [Deploy a reverse login shell with a single command (fully automated) - and access the shell remotely - encrypted - and via TOR if you like.](https://www.gsocket.io/deploy)
 - [ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
+- https://nuculabs.dev/2021/09/22/fzf-a-command-line-fuzzy-finder
 
 ### References
 

@@ -160,6 +160,9 @@
 - [Diversification - More than What (Corey Hoffstein)](https://vimeo.com/374948821)
 - https://diff.substack.com/p/understanding-coinbase
 - [Roblox: How the children's game became a $30bn bet on the Metaverse](https://www.bbc.com/news/technology-56345586)
+- https://www.udemy.com/course/introduction-to-value-growth-investing
+- https://www.udemy.com/course/value-growth-investing-academy
+- https://valuegrowthinvesting.teachable.com/courses
 
 ### Economics
 
