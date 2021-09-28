@@ -215,3 +215,4 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 
 - https://twitter.com/in_ukraine_we + https://www.instagram.com/in_ukraine_we_dont_say
 - https://aiydreen.com/russian
+- https://www.udemy.com/course/russian-alphabet-mastery

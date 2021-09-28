@@ -1,3 +1,7 @@
+### Course
+
+- https://www.udemy.com/course/udemy-bootcamphow-to-quickly-creat-a-good-course-unofficial
+
 ### <video></video>
 
 - [Video Killed My Data Plan](https://docs.google.com/presentation/d/1JPBSDqCpKK1nq9Wpo-NKmXNb1ZyCUKZhcfcdkXTRAA0)
@@ -7,6 +11,7 @@
 - [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
 - https://www.singhkays.com/blog/av1-wiki-resources-tools
 - https://github.com/WizardTim/cheatsheets/blob/master/ffmpeg.md
+- https://blog.youtube/inside-youtube/on-youtubes-recommendation-system
 
 ### Tools
 

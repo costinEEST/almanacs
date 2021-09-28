@@ -165,6 +165,7 @@
 - [Automating my job by using GPT-3 to generate database-ready SQL to answer business questions(https://blog.seekwell.io/gpt3) + https://news.ycombinator.com/item?id=25930190
 - https://einstein.digitalhumans.com
 - [Automatically tagging Belgian politician when they use their phone on the daily livestreams. With the help of AI.](https://driesdepoorter.be/theflemishscrollers)
+- https://nathanielbd.github.io/posts/hacking-the-normie-test
 
 ### Opinions
 
@@ -172,6 +173,7 @@
 - https://www.hyro.ai/post/gpt-3-vs-existing-conversational-ai-solutions
 - https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa
 - [Microsoft president: Orwell’s 1984 could happen in 2024](https://www.bbc.com/news/technology-57122120)
+- https://www.leonlinsx.com/doctor-gpt3
 
 ### Security
 

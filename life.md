@@ -71,6 +71,7 @@
 - [The Archive of Healing is the largest digital collection of cross-cultural approaches to healing.](https://archiveofhealing.com) + https://www.smithsonianmag.com/smart-news/new-digital-archive-showcases-collection-alternative-healing-methods-180977374
 - [How Many Plants - Indoor and House Plant Resource](https://howmanyplants.com)
 - https://www.scena9.ro/article/canepa-expozitie-material-textile
+- [Braiding Sweetgrass Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants By Robin Wall Kimmerer](https://milkweed.org/book/braiding-sweetgrass)
 
 ### Chemistry
 

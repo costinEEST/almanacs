@@ -53,6 +53,7 @@
 - [Node.js module to help you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics](https://github.com/yeoman/insight)
 - [A proof of work based captcha similar to friendly captcha, but lightweight, self-hosted and GPLv3 licensed.](https://git.sequentialread.com/forest/pow-captcha)
 - https://plausible.io/blog/google-analytics-adblockers-missing-data
+- https://github.com/bhdresh/Whatsapp-IP-leak
 
 ### Techniques
 
@@ -76,6 +77,8 @@
 - https://theintercept.com/2021/07/27/pegasus-nso-spyware-security
 - [How to find hidden cameras in AirBnBs](https://www.tiktok.com/@malwaretech/video/7002804220126661893)
 - https://textslashplain.com/2021/09/21/determining-os-platform-version
+- https://www.wired.com/story/mastermind-cia-disguise
+- https://github.com/bhdresh/SocialEngineeringPayloads
 
 ### Social media
 

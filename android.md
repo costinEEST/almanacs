@@ -43,6 +43,7 @@
 - [Android App Permission data of 2.2 million applications from Google Playstore.](https://github.com/gauthamp10/android-permissions-dataset)
 - https://github.com/B3nac/Android-Reports-and-Resources
 - [Android pentesting | hyd3sec](https://www.youtube.com/playlist?list=PLXAaWemFrhwlV5KulQMT6nsOVLPaG_yUa)
+- https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 
 
 ### Tools
