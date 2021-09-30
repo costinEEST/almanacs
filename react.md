@@ -171,6 +171,7 @@
 - https://github.com/sw-yx/concurrent-react-notes
 - https://twitter.com/ReactEurope/status/1227924163714830337 + https://twitter.com/sseraphini/status/1228310393900216320 + https://react-europe-relay-workshop.now.sh
 - https://twitter.com/addyosmani/status/1241303537746726913
+- https://yagmurcetintas.com/journal/whats-new-in-react-18
 
 ### Lazy
 

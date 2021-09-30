@@ -2,6 +2,7 @@
 
 - https://github.com/preslavmihaylov/booknotes/tree/master/java/java-concurrency-in-practice
 - [Java Programming for Kids](http://yfain.github.io/Java4Kids)
+- [Grokking the Java Interview](https://javinpaul.gumroad.com/l/QqjGH)
 
 ### Course
 

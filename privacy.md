@@ -3,6 +3,10 @@
 - https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack
 - [Massive security breach at US universities.](https://dorper.me/articles/unileak.aspx)
 
+### Cinema
+
+- https://chriswiegman.com/2021/09/privacy-vs-security
+
 ### Community
 
 - [Lea Kissner](https://twitter.com/LeaKissner/status/1384539395005448201)

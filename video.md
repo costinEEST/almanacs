@@ -43,6 +43,7 @@
 - [Take out your phone, and teach. Classcamp is the easiest way to create an online course.](https://www.classcamp.com)
 - [Intro to Rive](https://www.twitch.tv/videos/1143131164) + https://rive.app/resources
 - [Screen recording software for Mac recommendations?](https://twitter.com/jkup/status/1436083927861633024)
+- https://github.com/readme/featured/open-source-filmmaking
 
 ### Opinions
 

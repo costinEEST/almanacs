@@ -11,6 +11,7 @@
 - [A reference for the render impact of mutating CSS properties.](https://github.com/GoogleChromeLabs/css-triggers)
 - https://shud.in/posts/on-ui-animations
 - https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108
+- https://whistlr.info/2021/box-model-animation
 
 ### Approach
 
@@ -35,6 +36,7 @@
 - [Design for Safari 15](https://developer.apple.com/videos/play/wwdc2021/10029)
 - https://courses.joshwcomeau.com/video-archive/css-for-js
 - [Designing in the Browser](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
+- https://inclusivedesign24.org/2021/schedule
 
 ### Color
 
@@ -66,6 +68,7 @@
 - https://baselinehq.com/blog/colourblindness-information-ui-design-red-green-problems-tips-tricks.html
 - https://www.uxmatters.com/mt/archives/2021/09/color-and-universal-design.php
 - https://accessiblepalette.com
+- https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems
 
 
 ### Community
