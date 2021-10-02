@@ -175,6 +175,7 @@
 - https://news.ycombinator.com/item?id=27327892 + [Many temptations of an open-source chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
 - https://github.com/raxod502/github-email-backlog
 - [Find secrets that leak into JavaScript, as well as sensitive files exposed like like .git or .env](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension) + https://trufflesecurity.com/blog/trufflehog-the-chrome-extension
+- [Kanban style New Tab Page extension with your bookmarks and powerful search](https://github.com/d3ward/b2ntp)
 
 ### Bookmarklets
 

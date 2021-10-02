@@ -2,6 +2,10 @@
 
 - https://github.com/lambda-magic/plt-books/tree/master/Elixir
 
+### Cinema
+
+- https://shyr.io/talks/blockchain-based-file-storage
+
 ### Course
 
 - https://github.com/leandrotk/functional-programming-learning-path/tree/master/elixir

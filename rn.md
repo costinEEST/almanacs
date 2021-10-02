@@ -47,7 +47,7 @@
 - https://www.manning.com/books/react-native-in-action
 - https://github.com/unbug/react-native-train
 
-### Boilerplates
+### Boilerplate
 
 - [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
 - https://github.com/entria/entria-fullstack
@@ -55,13 +55,14 @@
 - https://elazizi.com/how-to-structure-a-react-native-project
 - https://mmazzarolo.com/blog/2021-09-11-running-react-native-everywhere
 
-### Tools
+### Tool
 
 - [Analyse your React Native bundle in 1 command ](https://github.com/JonnyBurger/npx-visualize-bundle)
 - [How can I read an android config from build gradle from the js?](https://github.com/ismaeldcom/react-native-build-config)
 - [https://figma-to-react.vercel.app](https://twitter.com/tomsoderlund/status/1375826499438264324)
 - https://medium.com/react-native-school/navigating-xcode-for-react-native-developers-with-a-web-background-a1ee4d6ae4a8
 - https://github.com/IRONKAGE/Device-Script-React-Native + https://ironkage.medium.com/run-any-ios-simulator-on-react-narive-fec0739a79e9
+- [Exit,close,kill,shutdown app completely for React Native on iOS and Android.](https://github.com/wumke/react-native-exit-app)
 
 ### Testing
 

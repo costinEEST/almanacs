@@ -99,6 +99,7 @@
 - https://github.com/system-pclub/go-concurrency-bugs
 - https://github.com/juanpablopizarro/golang-bootcamp
 - https://github.com/monochromegane/go_design_pattern
+- [Handy commands to run in Go projects](https://github.com/nikolaydubina/go-recipes)
 
 ### Opinion
 

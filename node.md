@@ -58,6 +58,7 @@
 - [Coding a YouTube Descriptions Updater | Devon Crawford](https://www.youtube.com/playlist?list=PLhsehOUFGYaV1ontAkXqax-U9hdWrwZVS)
 - [Write Express middleware and route handlers using async/await](https://github.com/therootcompany/async-router)
 - https://fly.io/blog/api-tokens-a-tedious-survey
+- [Use Swagger v2 JSON Collections to generate Postman v1 collections which include sample request bodies](https://github.com/djfdyuruiry/swagger2-postman-generator)
 
 
 ### Book
@@ -220,11 +221,11 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Make an asynchronous function synchronous](https://github.com/sindresorhus/make-synchronous)
 - [Turns async function into sync via JavaScript wrapper of Node event loop](https://github.com/abbr/deasync)
 
-### Thread
+### Threads
 
 - https://dev.to/johnjardincodes/managing-multiple-threads-in-node-js-3mpc
 
-### Tools
+### Tool
 
 - https://bret.io/projects/package-automation
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
@@ -283,6 +284,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Embed data in other data and easily extract it when needed](https://github.com/sindresorhus/subsume)
 - [Easily install, configure and compose Node.js ESM loaders.](https://github.com/targos/multiloader) + https://twitter.com/giltayar/status/1437273836899164160
 - [Mailtrain is a self hosted newsletter application built on Node.js (v14+) and MySQL (v8+) or MariaDB (v10+)](https://github.com/Mailtrain-org/mailtrain)
+- [A wrapper around yarn audit that fixes many issues](https://github.com/djfdyuruiry/improved-yarn-audit)
 
 ### Testing
 
@@ -330,6 +332,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/mathieudutour/medium-to-own-blog
 - [drpciv-crawler](https://github.com/AdiCutitoiu/chestionare-auto)
 - https://www.zenrows.com/blog/web-scraping-with-javascript-and-nodejs
+- [Crawls meta data and apks from google play](https://github.com/uw-swag/swag-crawler)
 
 
 ### Micro service

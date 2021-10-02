@@ -138,6 +138,7 @@
 - [Reinforcement Learning + Deep Learning](https://github.com/andri27-ts/Reinforcement-Learning)
 - [A deep database of medical abbreviations and acronyms for natural language processing](https://github.com/lisavirginia/clinical-abbreviations/tree/master/metainventory) + https://www.nature.com/articles/s41597-021-00929-4
 - [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+- [List of satellite image training datasets with annotations for computer vision and deep learning](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 
 ### Papers
 

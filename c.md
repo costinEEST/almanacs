@@ -15,6 +15,7 @@
 - [What should a systems/low-level software engineer know?](https://news.ycombinator.com/item?id=18881649)
 - [Markdown source for Michael Abrash's Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book)
 - [Has anyone had experience with these books on learning C?](https://twitter.com/alicegoldfuss/status/947330656089944064)
+- https://github.com/gerasdf/InsecureProgramming
 
 ### Cinema
 

@@ -8,6 +8,7 @@
 - [A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.](https://github.com/mre/idiomatic-rust)
 - http://rcvalle.blog/2020/09/16/rust-lang-exploit-mitigations
 - https://github.com/bedemiralp/how-do-they-use-x-at-y#rust
+- [How to minimize Rust binary size](https://github.com/johnthagen/min-sized-rust)
 
 ### Book
 
@@ -62,6 +63,7 @@
 - https://nightly.fluvio.io/blog/2021/04/node-bindgen-tuples
 - [Educational blog posts for Rust beginners](https://github.com/pretzelhammer/rust-blog)
 - [A guide to writing a DNS Server from scratch in Rust](https://github.com/EmilHernvall/dnsguide)
+- https://ricky.codes/blog/posts/publishing-to-the-peer-to-peer-web
 
 ### Cinema
 
@@ -97,6 +99,8 @@
 - [Tauri: An Electron alternative written in Rust ](https://news.ycombinator.com/item?id=26194990)
 - [Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals ](https://github.com/PaddiM8/kalker) + https://news.ycombinator.com/item?id=27333772
 - https://github.com/reacherhq/check-if-email-exists
+- [Return an emoji representing the current moon phase.](https://github.com/rickycodes/moonmoji)
+- [Yet another remote desktop software](https://github.com/rustdesk/rustdesk)
 
 ### Opinions
 

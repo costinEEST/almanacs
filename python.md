@@ -159,7 +159,7 @@
 - [Geometric Algebra for Python](https://github.com/pygae/clifford)
 - [An extensively configurable tool providing a summary of the changes between two files or directories, ignoring all the fluff you don't care about.](https://github.com/airbus-seclab/diffware)
 - [Undeleting a file overwritten with mv](https://behind.pretix.eu/2020/11/28/undelete-flv-file)
-- [get things from one computer to another, safely](https://github.com/warner/magic-wormhole)
+- [get things from one computer to another, safely](https://github.com/warner/magic-wormhole) + https://github.com/magic-wormhole/magic-wormhole
 - [Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect](https://github.com/sdushantha/wifi-password)
 - https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial
 - [Tool to recover the RSA/ECDSA public key used to sign JWT tokens](https://github.com/FlorianPicca/JWT-Key-Recovery)

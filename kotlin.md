@@ -10,6 +10,10 @@
 - https://github.com/tipsy/profile-summary-for-github
 - https://benwiser.com/blog/My-blog-is-now-generated-by-Google-Docs.html
 
+### Development
+
+- https://shyr.io/talks/deploying-with-kubernetes + https://github.com/sheharyarn/io19-k8s-kotlin-app
+
 ### Practice
 
 - https://hyperskill.org/onboarding/?track=kotlin

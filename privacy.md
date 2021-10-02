@@ -58,6 +58,7 @@
 - [A proof of work based captcha similar to friendly captcha, but lightweight, self-hosted and GPLv3 licensed.](https://git.sequentialread.com/forest/pow-captcha)
 - https://plausible.io/blog/google-analytics-adblockers-missing-data
 - https://github.com/bhdresh/Whatsapp-IP-leak
+- [Vytal shows you what traces your browser leaves behind while surfing the web](https://github.com/z0ccc/Vytal)
 
 ### Techniques
 

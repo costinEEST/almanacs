@@ -123,6 +123,7 @@
 - https://github.com/qcmaude/refactoring-at-scale
 - [The First 20 Years](http://www.wirfs-brock.com/allen/posts/866) + https://twitter.com/awbjs/status/1238213231929245696
 - [Functional Programming Made Easier | Charles Scalfani](https://leanpub.com/fp-made-easier) + https://news.ycombinator.com/item?id=27537626
+- https://github.com/yiailake/book#javascript
 
 ### Course
 
