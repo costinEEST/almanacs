@@ -22,6 +22,7 @@
 - https://inquisitivebiologist.com/2021/04/20/book-review-we-know-it-when-we-see-it-what-the-neurobiology-of-vision-tells-us-about-how-we-think
 - [books that we have read and helped us get started with the ketogenic way of eating.](https://www.amazon.com/shop/mexican_keto_journey?listId=2XBJADZ4G6AAE)
 - [The Abolition of Aging: The forthcoming radical extension of healthy human longevity](https://www.amazon.com/dp/B01G5QAYJ4)
+- [Chinese Medicine and Healing An Illustrated History Edited by TJ Hinrichs Linda L. Barnes](https://www.hup.harvard.edu/catalog.php?isbn=9780674047372)
 
 ### Cinema
 
@@ -31,6 +32,15 @@
 ### Community
 
 - https://github.com/aarvanet/longevity-events + https://github.com/aarvanet/longevity-news
+
+### Consciousness
+
+- https://www.amazon.com/Metazoa-Animal-Life-Birth-Mind/dp/0374207941
+- https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311 + https://twitter.com/curiouswavefn/status/1432888533933453318
+
+### Cooking
+
+- https://www.amazon.com/Taste-My-Life-Through-Food/dp/1982168013
 
 
 ### Cholesterol

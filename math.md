@@ -85,6 +85,7 @@
 - [Introduction to Complex Analysis | Petra Bonfert-Taylor](https://www.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ)
 - [A strange determinant – Timothy Gowers solves a problem](https://news.ycombinator.com/item?id=26915862)
 - https://www.youtube.com/c/InigoQuilez/playlists
+- [Roger Penrose explains Godel's incompleteness theorem in 3 minutes](https://twitter.com/curiouswavefn/status/1405017632659570691)
 
 ### Mathematicians
 
@@ -108,3 +109,4 @@
 ### Teacher
 
 - https://simonaileapop.wordpress.com/2013/01/01/profesorului-gheba-omul-care-a-scos-la-tabla-tara-intreaga
+- [Liping Ma](https://twitter.com/stevenstrogatz/status/1445373622898630665)

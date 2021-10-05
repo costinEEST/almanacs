@@ -85,6 +85,7 @@
 - https://github.com/cfenollosa/os-tutorial
 - https://www.labbott.name/blog/2016/05/10/zero-size-arrays-in-c
 - [A guide to Windows application development using w64devkit](https://nullprogram.com/blog/2021/03/11)
+- ["class" and "template", among other things, are legal function/variable/struct names in C](https://twitter.com/azonenberg/status/1445172332054528002)
 
 ### Security
 
