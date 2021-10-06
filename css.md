@@ -154,6 +154,7 @@
 - https://fjolt.com/article/a-guide-to-css-grid
 - https://noti.st/rachelandrew/Mny9Vg/grid-content-re-ordering-and-accessibility
 - https://codepen.io/TurkAysenur/full/gOmMgpx
+- https://github.com/PrathamKumar14/CSS-Layout-Notes
 
 ### FlexBox
 

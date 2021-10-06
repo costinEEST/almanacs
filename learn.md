@@ -30,6 +30,7 @@
 - https://github.com/everruler12/roam2github
 - https://mundyreimer.github.io/resources
 - https://vaclavkosar.com/productivity/Quizrecall-Learn-any-text-with-automatically-generated-quiz
+- https://github.com/nikitavoloboev/knowledge/blob/main/anki/anki.md
 
 ### Theory
 

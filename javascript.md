@@ -271,6 +271,7 @@
 - [how to handle api timeout using fetch](https://gist.github.com/sibelius/624ebc0e1a7e4784140b78f4b214e9f5)
 - https://github.com/magento/baler/blob/f6dc98d71/src/magentoFS.ts#L42 + https://twitter.com/drewml/status/1266096641494433792
 - [TDD Javascript promise implementation conformant to the Promises/A+ spec](https://github.com/jeffzh4ng/promise-implementation)
+- https://www.mauriciopoppe.com/notes/computer-science/computation/promises
 
 ### async await
 

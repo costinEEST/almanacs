@@ -172,6 +172,7 @@
 
 ### References
 
+- https://github.com/raunofreiberg/ui-playbook
 - [Guidance for designing ethically humane digital products through patterns focused on user well-being.](https://humanebydesign.com)
 - https://css-tricks.com/how-to-section-your-html
 - http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf

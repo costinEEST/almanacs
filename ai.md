@@ -19,6 +19,7 @@
 - [Learning Theory from First Principles](https://francisbach.com/i-am-writing-a-book)
 - https://andrewnc.github.io/blog/everyday_data_science.html
 - https://www.amazon.com/Architects-Intelligence-truth-people-building-ebook/dp/B07H8L8T2J
+- https://github.com/PacktPublishing/Machine-Learning-with-Amazon-SageMaker-Cookbook
 
 ### Course
 

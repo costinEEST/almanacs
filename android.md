@@ -62,6 +62,7 @@
 - [Docker-Android is a docker image built to be used for everything related to mobile website testing and Android project.](https://github.com/budtmo/docker-android)
 - [Run QEMU Android in a Docker](https://github.com/sickcodes/dock-droid)
 - https://www.eff.org/deeplinks/2021/09/introducing-apkeep-eff-threat-labs-new-apk-downloader
+- https://github.com/robertying/openssl-curl-android
 
 ### APIs
 

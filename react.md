@@ -1,6 +1,7 @@
 ### Course
 
 - https://react-tutorial.app
+- https://github.com/alan2207/bulletproof-react
 - [Complete Intro to React v5](https://btholt.github.io/complete-intro-to-react-v5/)
 - https://github.com/kentcdodds/advanced-react-patterns-v2
 - https://github.com/eggheadio/eggheadio-course-notes/tree/master/simplify-react-apps-with-react-hooks
@@ -64,6 +65,7 @@
 - https://github.com/tiaanduplessis/awesome-react-talks
 - https://github.com/Shopee/shopee-react-knowledgeable/issues/184
 - [Build an Accessible React Component Series](https://www.youtube.com/playlist?list=PLOmKTF_wUDoydvtwWrzEw7DZ9VboV51py)
+- https://github.com/zpao/building-react-from-scratch
 
 ### Podcasts
 
@@ -231,6 +233,7 @@
 - https://twitter.com/benawad/status/1239615944298815488
 - https://github.com/chec/commercejs-nextjs-demo-store
 - [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://github.com/dijonmusters/e-commerce-in-25-days)
+- https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/javascript/js-libraries/react/nextjs.md
 
 ### Server component
 
@@ -294,6 +297,7 @@
 - [Generic Styler for geodata](https://github.com/geostyler/geostyler)
 - [ Easily migrate your existing React codebase to use i18n](https://github.com/sibelius/ast-i18n)
 - [A React component to make correcting automated transcriptions of audio and video easier and faster.](https://github.com/bbc/react-transcript-editor)
+- https://github.com/nikitavoloboev/knowledge/blob/main/languages/internationalization.md
 
 ### Debugging
 

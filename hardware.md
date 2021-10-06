@@ -54,6 +54,7 @@
 - [CS 6501: Hardware Security](http://www.cs.virginia.edu/~av6ds/classes/cs6501/fa20)
 - https://www.udemy.com/course/digital-circuits-system-design-with-vhdl
 - https://www.udemy.com/course/computer-fundamentals-u
+- https://github.com/mithi/robotics-coursework
 
 ### Chip
 
@@ -107,6 +108,7 @@
 - https://github.com/LowLevelJavaScript/Learning-Resources
 - [GoodWatch](https://twitter.com/travisgoodspeed/status/940263089982902272)
 - https://elevation.fandom.com/wiki/List_of_elevator_special_modes
+- [A curated list of data oriented design resources.](https://github.com/dbartolini/data-oriented-design) + https://www.polymonster.co.uk/blog/dod-ecs + https://www.amazon.com/Data-oriented-design-engineering-resources-schedules/dp/1916478700
 
 ### Radio
 

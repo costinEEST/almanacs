@@ -30,6 +30,9 @@
 - [checks your word against swear words and unwanted associations in 19 languages.](http://wordsafety.com)
 - [Generate Add to Calendar  links and event reminder buttons for Google Calendar, Outlook, Microsoft Office 365, Android, Apple and Yahoo Calendars.](https://www.labnol.org/apps/calendar.html)
 - https://filipedonadio.com/6-useful-templates-for-obsidian + https://www.youtube.com/playlist?list=PLGwf8YptbOQc7qxpOHOY1dEbxNp5kGKJ2
+- https://github.com/nikitavoloboev/knowledge/blob/main/keyboards/qmk.md
+- https://github.com/nikitavoloboev/knowledge/blob/main/tools/dendron.md
+- https://github.com/nikitavoloboev/knowledge/blob/main/tools/obsidian.md
 
 ### Miscellaneous
 

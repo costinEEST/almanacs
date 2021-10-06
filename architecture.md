@@ -36,6 +36,9 @@
 - https://www.classicist.org/articles/the-art-of-making-places-a-panel-discussion-on-ciudad-cayala
 - [Creating Sustainable Cities By Design](https://www.asianscientist.com/2021/05/features/asias-changemakers-jason-pomeroy-singapore)
 
+### Community
+
+- https://github.com/nikitavoloboev/knowledge/blob/main/art/architecture.md
 
 
 ### Opinion

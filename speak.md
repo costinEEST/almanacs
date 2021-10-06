@@ -50,6 +50,7 @@
 - https://tarjim.ly
 - https://www.britishcouncil.org/voices-magazine/five-digital-resources-autonomous-english-language-practice
 - https://foosoft.net/tags/japanese
+- https://github.com/nikitavoloboev/knowledge/blob/main/languages/languages.md
 
 ### Tool
 
@@ -84,6 +85,7 @@
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqqQ1XgELAXd1qLrc5an6Vgf
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqotxScb7W419m3hOsEzSw48
 - https://guhanmandarim.com.br/mandarim-live
+- https://github.com/nikitavoloboev/knowledge/blob/main/languages/chinese.md
 
 ### Arabic
 
@@ -110,6 +112,7 @@
 - [What's the difference between discipline and domain?](https://comparewords.com/discipline/domain)
 - https://www.udemy.com/course/english-verb-tenses-for-spanish-speakers
 - https://www.amazon.com/Complete-English-Beginner-Intermediate-Course/dp/1473627923
+- https://github.com/nikitavoloboev/knowledge/blob/main/languages/english/english.md
 
 ### Esperanto
 
@@ -216,3 +219,4 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - https://twitter.com/in_ukraine_we + https://www.instagram.com/in_ukraine_we_dont_say
 - https://aiydreen.com/russian
 - https://www.udemy.com/course/russian-alphabet-mastery
+- https://github.com/nikitavoloboev/knowledge/blob/main/languages/russian.md

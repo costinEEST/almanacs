@@ -333,6 +333,7 @@ javascript: (() =>
 - https://www.davrous.com/2020/03/22/understanding-shaders-the-secret-sauce-of-3d-engines
 - [an experiment to make something like "vvvv" in javascript, html and webgl.](https://github.com/idflood/ThreeNodes.js)
 - https://xem.github.io/articles/webgl-guide.html + https://twitter.com/MaximeEuziere/status/1261643172582653954
+- https://github.com/spite/virtual-webcam
 
 
 ### Headless

@@ -55,6 +55,7 @@
 - [A more privacy-friendly blog](https://vincent.bernat.ch/en/blog/2018-more-privacy-blog)
 - [Candiru is a secretive Israel-based company that sells spyware exclusively to governments.](https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus)
 - [Node.js module to help you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics](https://github.com/yeoman/insight)
+- https://github.com/DavidWells/analytics
 - [A proof of work based captcha similar to friendly captcha, but lightweight, self-hosted and GPLv3 licensed.](https://git.sequentialread.com/forest/pow-captcha)
 - https://plausible.io/blog/google-analytics-adblockers-missing-data
 - https://github.com/bhdresh/Whatsapp-IP-leak

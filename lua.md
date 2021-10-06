@@ -1,3 +1,7 @@
+### Cinema
+
+- [Why (and why not) Lua, Roberto Ierusalimschy, PUC-Rio: LiM'19 talk 1](https://youtu.be/XxcSvnEIUq4)
+
 ### Tutorials
 
 - https://emilua.gitlab.io/blog/post/comparing-emilua-to-nodejs
