@@ -23,6 +23,7 @@
 - https://github.com/eder13/Snake-in-JS-in-190-Lines
 - [Farmhand – an open source, multiplayer farming game PWA](https://github.com/jeremyckahn/farmhand) + https://twitter.com/hn_frontpage/status/1369023516406931462
 - https://unixgame.io/unix50 + https://news.ycombinator.com/item?id=27319540
+- https://github.com/ThomasOrlita/ASCIIAdventures
 
 
 ### Mobile based

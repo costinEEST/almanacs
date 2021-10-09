@@ -27,6 +27,8 @@
 - https://edition.cnn.com/2020/11/19/world/first-global-map-bee-species-scn-trnd/index.html
 - [High Quality GeoJSON maps programmatically generated.](https://github.com/simonepri/geo-maps)
 - https://github.com/nikitavoloboev/knowledge/blob/main/geography/spatial-analysis.md
+- [Reversing Google's 3D satellite mode](https://github.com/retroplasma/earth-reverse-engineering)
+- [Reverse-engineering Flyover (3D satellite mode) from Apple Maps.](https://github.com/retroplasma/flyover-reverse-engineering)
 
 ### Radio
 

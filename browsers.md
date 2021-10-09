@@ -70,6 +70,7 @@
 - https://www.ryanpickren.com/webcam-hacking + https://twitter.com/domenic/status/1245871443729985536
 - [Building a 1-day Exploit for Google Chrome](https://twitter.com/theori_io/status/980272605117612033)
 - https://github.com/qazbnm456/awesome-cve-poc
+- https://github.com/allpaca/chrome-sbx-db
 
 ### Extensions
 
@@ -176,6 +177,8 @@
 - https://github.com/raxod502/github-email-backlog
 - [Find secrets that leak into JavaScript, as well as sensitive files exposed like like .git or .env](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension) + https://trufflesecurity.com/blog/trufflehog-the-chrome-extension
 - [Kanban style New Tab Page extension with your bookmarks and powerful search](https://github.com/d3ward/b2ntp)
+- https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate
+- [I wanted to see how much time I was spending on each website and set limits for certain ones.](https://github.com/cupcakearmy/ora)
 
 ### Bookmarklets
 
@@ -196,6 +199,7 @@ javascript: (() =>
 - https://catalin.red/copy-clipboard-js
 - [Bookmarklets for sending emails and adding todo items](https://sashko.dev/bookmarklets)
 - https://www.farai.xyz/notes/tech-tips/please-archive-content
+- https://github.com/ThomasOrlita/awesome-bookmarklets
 
 ### Chrome
 

@@ -74,3 +74,8 @@
 ### Radio
 
 - https://blog.firosolutions.com/2020/11/security-headlines-dynaguard
+
+### Writeup
+
+- https://itzsomebody.xyz/2021/07/11/javaisez3-writeup.html
+- https://inaradu.com/hwio-cts20

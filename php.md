@@ -31,6 +31,7 @@
 - [An exploration of the colors used by the ten most popular sites](https://github.com/Paul-Hebert/web_colors)
 - https://github.com/cubiclesoft/ultimate-web-scraper
 - https://christoph-rumpel.com/2021/9/the-video-course-launch-that-made-me-belive-in-myself-again
+- [The definitive self-hosted URL shortener](https://github.com/shlinkio/shlink)
 
 ### Security
 

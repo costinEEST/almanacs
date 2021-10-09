@@ -36,6 +36,7 @@
 - [CS 450: Introduction to Networking](https://www.cs.uic.edu/~ckanich/cs450/s17/syllabus.html)
 - https://www.udemy.com/course/network-engineer-taster-courses
 - https://www.udemy.com/course/tcp-http-spdy-deep-dive
+- [Distributed Systems (CS 7610)](http://cnitarot.github.io/courses/ds_Fall_2020/index.html)
 
 ### Tools
 

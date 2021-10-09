@@ -27,6 +27,7 @@
 - [Hacker News daily top 10 posts](https://github.com/headllines/hackernews-daily)
 - [Get RSS Feeds for YouTube channels and playlists](https://github.com/faraixyz/youtube-x-rss)
 - https://www.ctnicholas.dev/articles/integrate-twitter-newsletters-with-api-routes
+- https://github.com/odomojuli/RegExAPI
 
 ### GraphQL
 
@@ -100,6 +101,7 @@ curl v2.wttr.in/Bucharest
 - [Microsoft Translator Text API v3.](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-NodeJS)
 - https://github.com/cortexlabs/cortex/tree/translator-example/examples/model-caching/python/translator
 - [A simple front-end for OCR with Google Vision API.](https://github.com/llll-org/vizor)
+- [Free Dictionary API](https://github.com/meetDeveloper/freeDictionaryAPI)
 
 ### Miscellaneous
 

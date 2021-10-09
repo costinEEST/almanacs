@@ -213,6 +213,7 @@
 - [Joseph’s How to become an Ethereum Developer Guide](https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew)
 - https://github.com/paulrberg/create-eth-app
 - https://docs.chain.link/docs/hackathon-resources
+- https://github.com/tintinweb/smart-contract-sanctuary
 
 ### Demos
 
@@ -264,3 +265,4 @@
 - [Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity](https://github.com/pubkey/eth-crypto)
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
 - https://github.com/openblocksec/blocksec-incidents
+- [Blockchain Hacking QuickStart Guide](https://start.blockchainhax.com) + https://www.slideshare.net/dafthack/getting-started-in-blockchain-security-and-smart-contract-auditing
