@@ -6,6 +6,7 @@
 ### Cinema
 
 - https://chriswiegman.com/2021/09/privacy-vs-security
+- https://www.udemy.com/course/learn-digital-forensics-beginner-to-advanced-2021
 
 ### Community
 

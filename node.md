@@ -25,6 +25,7 @@
 ### API
 
 - https://www.manning.com/books/understanding-api-security
+- https://adriancitu.com/2021/10/08/book-review-api-security-in-action
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 - https://github.com/tlhunter/consumer-centric-api-design
 - https://github.com/Developer-Y/Scalable-Software-Architecture#api-design

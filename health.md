@@ -37,6 +37,7 @@
 
 - https://www.amazon.com/Metazoa-Animal-Life-Birth-Mind/dp/0374207941
 - https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311 + https://twitter.com/curiouswavefn/status/1432888533933453318
+- https://www.theguardian.com/books/2021/sep/29/top-10-books-about-human-consciousness-charles-foster-being-a-human
 
 ### Cooking
 
@@ -232,6 +233,7 @@
 - https://www.emag.ro/totul-despre-alergii-earl-mindell-dr-pamela-wartian-smith-9786067890921/pd/DPDZGNBBM
 - [Skin Problems - Dr. Vivek Joshi](https://www.youtube.com/playlist?list=PLtOL-RbYxicYoYdlSJFMTzwuqjq12mrkW)
 - [Podcast - Chemist Confessions](https://www.youtube.com/playlist?list=PLldQkxjc7bYnFkUtOw8Y07yCyBnaF4ddx)
+- https://www.vox.com/science-and-health/22710533/nobel-prize-2021-ardem-patapoutian-touch
 
 ### Gut
 

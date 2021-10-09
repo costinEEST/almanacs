@@ -1,6 +1,7 @@
 ### Course
 
 - https://www.udemy.com/course/udemy-bootcamphow-to-quickly-creat-a-good-course-unofficial
+- https://www.udemy.com/course/complete-graphics-design-and-video-editing-masterclass
 
 ### <video></video>
 

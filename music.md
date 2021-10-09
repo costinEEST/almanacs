@@ -24,6 +24,7 @@
 - https://www.youtube.com/c/ShutianCheng/playlists
 - [Music Theory | Brad Harrison Music](https://www.youtube.com/playlist?list=PLDaNGknQ_wTh3eXyjB0smdEYSvqa-wJ1_)
 - https://www.udemy.com/course/acoustic-guitar-for-beginners
+- https://www.udemy.com/course/beginnerselectronicmusictheory
 
 ### Instrument
 
