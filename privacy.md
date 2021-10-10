@@ -24,6 +24,7 @@
 - https://this-pin-can-be-easily-guessed.github.io/index.html
 - [Uncovering The CIA's Operation To Steal State Secrets](https://podcasts.apple.com/us/podcast/fresh-air/id214089682?i=1000467576663&mc_cid=0c0d31527f&mc_eid=2b9e8b6990)
 - https://www.pcmag.com/news/google-free-android-smartphones-are-now-available-in-the-us
+- https://www.tomsguide.com/news/android-ios-data-collection
 
 ### Software
 
@@ -86,6 +87,7 @@
 - https://textslashplain.com/2021/09/21/determining-os-platform-version
 - https://www.wired.com/story/mastermind-cia-disguise
 - https://github.com/bhdresh/SocialEngineeringPayloads
+- https://0xbadad.blogspot.com/2020/09/detecting-every-antidetectmulti-login.html
 
 ### Social media
 

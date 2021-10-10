@@ -91,6 +91,7 @@
 - https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.2.x.asciidoc
 - https://www.amazon.com/Christian-Encounter-Muhammad-Theologians-Interpreted/dp/1350191213
 - https://univie.academia.edu/AdrianPirtea
+- [The Bible’s Prehistory, Purpose, and Political Future](https://www.coursera.org/learn/bible-history)
 
 ### Geography
 

@@ -56,6 +56,7 @@
 - https://ethicalhacking.sh/posts/try-hack-me-graphql
 - https://github.com/clintonwoo/hackernews-react-graphql
 - [A TODO App with Relay | JSer](https://www.youtube.com/playlist?list=PLvx8w9g4qv_oIjs-sNY5MX3tcM7Spa8qP) + https://www.youtube.com/watch?v=yRni-IPRn90
+- https://securitycafe.ro/2021/10/01/practical-graphql-attack-vectors
 
 ### gRPC
 

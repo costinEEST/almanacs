@@ -1,6 +1,7 @@
 ### Cinema
 
 - [Visual Studio Code Setup series | Zell Liew](https://www.youtube.com/playlist?list=PLht38HefjmzGWN0CUHGqjliTSuhXFTDG5)
+- https://www.udemy.com/course/mastering-visual-studio-code
 
 ### Extension
 

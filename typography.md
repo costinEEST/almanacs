@@ -77,4 +77,5 @@
 - https://designmodo.com/font-psychology
 - https://reaganray.com/2021/04/23/best-picture-lettering.html
 - https://bigthink.com/strange-maps/united-fonts-of-america
+- https://designregression.com/article/line-length-revisited-following-the-research
 

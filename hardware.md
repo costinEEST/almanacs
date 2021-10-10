@@ -114,7 +114,7 @@
 
 - https://podcasts.apple.com/us/podcast/the-story-of-how-tsmc-came-to-dominate-the-world/id1056200096?i=1000506468665
 
-### Tools
+### Tool
 
 - https://nelsonslog.wordpress.com/2020/05/27/power-monitoring-generator-well
 - [Multi platform circuit layout and schematic drawing tool.](https://github.com/bancika/diy-layout-creator)
@@ -126,6 +126,7 @@
 - [Hardware stuff (PCI, AGP, VGA, HDD, etc etc)](http://alexfru.narod.ru/elinks.html#hdwstuff)
 - https://incoherency.co.uk/blog/cad-dojo
 - https://www.diybookscanner.org + https://news.ycombinator.com/item?id=27361815
+- https://nelsonslog.wordpress.com/2021/10/03/usb-charging-in-2021
 
 ### History
 

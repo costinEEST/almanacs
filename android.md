@@ -21,6 +21,8 @@
 - [Mobile Application Development (5th bullet)](https://github.com/Developer-Y/cs-video-courses#software-engineering)
 - https://www.udemy.com/course/android-bug-bounty-hunting-hunt-like-a-rat
 - https://www.udemy.com/course/google-associate-android-developer-certification-2021
+- https://www.udemy.com/course/a-beginners-guide-to-android-app-development
+- https://www.udemy.com/course/absolute-java-basics-for-android
 
 ### Security
 

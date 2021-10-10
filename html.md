@@ -66,6 +66,8 @@
 - https://giuseppegurgone.com/twitter-html
 - https://a11yrules.com/podcast/default-focus-outlines-dont-remove-them
 - https://www.stefanjudis.com/useful-accessibility-resources
+- https://www.sarasoueidan.com/blog/in-quest-of-search
+- https://devyarns.com/logical-focus-order
 
 ### <address></address>
 

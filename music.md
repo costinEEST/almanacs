@@ -2,6 +2,7 @@
 
 - https://www.impact.ro/rodion-rosca-a-murit-parintele-muzicii-electronice-romanesti-rapus-de-o-boala-crunta-155639.html + https://www.eclecticfm.ro/rodion-ga-behind-curtain-lost-album + https://www.clujulcultural.ro/foto-video-rodion-ga-la-electric-castle-ce-sa-fac-daca-sunt-condamnat-la-succes + https://www.theguardian.com/music/2018/apr/11/rodion-ga-lost-musical-superstar-of-ceausescu-romania-rodion-rosca + [Imagini din vis | Dream Images | Documentary Film | CINEPUB](https://youtu.be/2iGzd2gVc_4)
 - https://www.g4media.ro/cele-mai-frumoase-melodii-interpretate-de-cornelia-catanga-nelu-ploiesteanu-si-gabi-lunca-si-scurt-istoric-al-vietii-acestora-titanii-muzicii-lautaresti-au-murit-in-urma-infectarii-cu-covid-19-la-ca.html
+- https://www.contributors.ro/interviu-cu-soprana-angela-gheorghiu-in-romania-am-invatat-o-falsa-istorie-muzicii-fabricata-si-comandata
 
 ### Book
 

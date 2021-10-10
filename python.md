@@ -56,6 +56,8 @@
 - https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days
 - https://www.udemy.com/course/master-in-advance-python
 - https://www.freecodecamp.org/news/how-to-automate-things-using-python
+- https://www.udemy.com/course/django-for-wordpress-developers
+- https://www.udemy.com/course/python-for-bioinformatics-self-learning-course
 
 ### Cinema
 
@@ -75,6 +77,7 @@
 - [Turn (almost) any Python command line program into a full GUI application with one line](https://github.com/chriskiehl/Gooey)
 - https://nuculabs.dev/2021/05/18/fastapi-uvicorn-logging-in-production
 - [Unofficial DRPCIV API (trimite requesturi periodic pentru a vedea daca s-au eliberat locuri)](https://github.com/vbadita/programare_drpciv)
+- https://nelsonslog.wordpress.com/2021/10/01/syncthing-status-from-the-command-line
 
 ### Networking
 

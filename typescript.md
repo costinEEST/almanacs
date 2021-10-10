@@ -22,6 +22,7 @@
 - [Ethan Arrowood](https://github.com/Ethan-Arrowood/talks)
 - [Data Structures in Typescript | Jeff Zhang](https://www.youtube.com/playlist?list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd) + https://github.com/jeffzh4ng/iruka
 - [Object Oriented Typescript | Jeff Zhang](https://www.youtube.com/playlist?list=PLn4fTSbSpY5eY_M1mKWxGa9pViEodofKy)
+- https://www.udemy.com/course/typescript-design-patterns
 
 ### Course
 

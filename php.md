@@ -2,6 +2,7 @@
 
 - [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://www.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)
 - https://www.youtube.com/c/CarlosBuenosvinosZamora/playlists
+- https://www.udemy.com/course/learn-php-5-and-7-this-way-to-rise-above-and-beyond-competition
 
 
 ### Patterns

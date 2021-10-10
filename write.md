@@ -11,6 +11,7 @@
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUe5jlxhxEfjXm57bXxhixea
 - https://www.google.com/search?q=Cuneiform+written+by+Irving+Finkel
+- https://www.udemy.com/course/teaching_philosophy
 
 ### Community
 

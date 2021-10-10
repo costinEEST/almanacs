@@ -379,6 +379,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Node.js HTTP server performance](https://twitter.com/lukeed05/status/1396307201606651913) + https://twitter.com/bradleymeck/status/1397919169576804361
 - https://arstechnica.com/information-technology/2021/09/npm-package-with-3-million-weekly-downloads-had-a-severe-vulnerability
 
+
 ### Static site generator
 
 - https://tatianamac.com/tags/Eleventy

@@ -7,6 +7,7 @@
 - https://github.com/denysdovhan/bash-handbook
 - https://github.com/thewhitetulip/awk-anti-textbook
 - https://github.com/inputsh/awesome-linux#books
+- https://github.com/learnbyexample/cli_text_processing_coreutils
 
 ### Course
 

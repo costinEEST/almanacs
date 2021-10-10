@@ -5,6 +5,10 @@
 - [Learning Masterclass |  Ethan Schwandt - The Mind Map Guy](https://www.youtube.com/playlist?list=PLus5uUwK9fLFb9bykGTf4bLdqdtHVeNYN)
 - https://aliabdaal.com/stic-framework
 
+### Cinema
+
+- https://www.udemy.com/course/jack-of-all-trades
+
 ### Community
 
 - [Piotr Wozniak](https://www.wired.com/2008/04/ff-wozniak)

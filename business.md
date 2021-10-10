@@ -31,6 +31,8 @@
 
 - [Technology History | ColdFusion](https://www.youtube.com/playlist?list=PL0iVR8sl9TiWhylpe3dyKKPRvTJHX3Ns7)
 - [Want to do an MBA for free ?](https://twitter.com/sahilypatel/status/1414565655471280132)
+- https://www.udemy.com/course/beginners-guide-use-bubble-to-build-an-app-without-coding
+- https://www.udemy.com/course/learn-how-to-use-zapier-to-automate-your-business
 
 ### Marketing
 

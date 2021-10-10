@@ -201,6 +201,7 @@
 - https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened + https://news.ycombinator.com/item?id=25887200
 - [Uncorking the Past The Quest for Wine, Beer, and Other Alcoholic Beverages |  Patrick E. McGovern](https://www.ucpress.edu/book.php?isbn=9780520267985)
 - https://www.dailymail.co.uk/sciencetech/article-9618659/Vegetarians-drink-smoke-appear-healthier-carnivores-study-finds.html
+- https://edition.cnn.com/2021/09/29/business/scotland-pea-based-gin-arbikie-climate-hnk-spc-intl
 
 ### Cannabis
 
@@ -318,6 +319,7 @@
 - [Mold, Candida, Yeast. - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LFvQOTlvvmoAbCqO0himSx5)
 - [How did you fix your posterior chain?](https://github.com/jasoncwarner/ama/issues/35)
 - https://darebee.com/mealplans.html
+- [Classifying brain activity using low-cost biosensors and automated time tracking](https://github.com/ErikBjare/thesis)
 
 ### Miscellaneous
 
@@ -325,6 +327,7 @@
 - https://singularityhub.com/2020/10/13/scientists-found-a-new-way-to-control-the-brain-with-light-no-surgery-required
 - https://www.npr.org/sections/health-shots/2021/05/12/996141182/paralyzed-man-communicates-by-imagining-handwriting
 - [Geology helps map kidney stone formation from tiny to troublesome](https://www.sciencedaily.com/releases/2021/05/210525203814.htm)
+- https://nelsonslog.wordpress.com/2021/10/10/co2-sensing-and-air-circulation
 
 ### DYI
 

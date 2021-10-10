@@ -78,6 +78,7 @@
 - https://github.com/hemanth/functional-programming-jargon
 - https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
 - [Proxies are the closest thing JavaScript has to a Macro.](https://twitter.com/rauchg/status/1388231666771001346) + https://github.com/justjavac/proxy-www + https://vimeo.com/364362111 + https://gist.github.com/davidsharp/9184a2e501f5e6704717031bb4951312
+- https://www.better.dev/understanding-memoization-in-javascript
 
 ### TIL
 
@@ -215,6 +216,7 @@
 ### Object.prototype
 
 - [Why assignment will look for setters in the prototype chain, but not for regular value properties?](https://twitter.com/dan_abramov/status/1259518085347885057)
+- [Exploiting Client-Side Prototype Pollution in the wild](https://blog.s1r1us.ninja/research/PP)
 
 ### Array.prototype
 

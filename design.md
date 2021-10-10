@@ -14,6 +14,7 @@
 - [Design history through the books I own](https://www.designswarm.com/catastrophiccandour)
 - https://kit.co/mrbenburns/design-books
 - https://uxplanet.org/dont-make-me-think-20-wise-thoughts-about-usability-from-steve-krug-876b563f1d63
+- https://asktog.com/atc/principles-of-interaction-design
 
 
 ### Cinema
@@ -43,6 +44,7 @@
 - https://www.facebook.com/lectiadedesign
 - [I hear a lot about how Stripe is the perfect example of good design.](https://twitter.com/kentcdodds/status/1219641103579779072)
 - https://github.com/julesforrest/womenwhodesign
+- https://zehfernandes.com/work/brazilians-who-design
 
 
 ### Graphic design

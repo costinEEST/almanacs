@@ -113,6 +113,7 @@
 - https://www.udemy.com/course/english-verb-tenses-for-spanish-speakers
 - https://www.amazon.com/Complete-English-Beginner-Intermediate-Course/dp/1473627923
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/english/english.md
+- https://www.udemy.com/course/the-complete-english-idioms-course-master-english-idioms
 
 ### Esperanto
 
@@ -220,3 +221,7 @@ http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - https://aiydreen.com/russian
 - https://www.udemy.com/course/russian-alphabet-mastery
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/russian.md
+
+### Rare
+
+- https://www.nytimes.com/2021/10/06/us/marie-wilcox-dead.html + https://emergencemagazine.org/feature/language-keepers/#/chapter/wukchumni

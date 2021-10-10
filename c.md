@@ -29,6 +29,7 @@
 - [OpenGL Screencasts and Tutorials - David Parker](https://www.youtube.com/playlist?list=PL2330214740B33712) + https://www.programmingtil.com/topics/opengl
 - [Quantifying Memory Unsafety and Reactions to It](https://www.usenix.org/conference/enigma2021/presentation/gaynor)
 - https://github.com/DevonCrawford/Video-Editing-Automation + https://www.youtube.com/playlist?list=PLhsehOUFGYaV3tJaEuWOeN1SI7eUEs7la
+- https://www.udemy.com/course/an-introduction-to-debugging-c-and-java
 
 ### Articles
 
@@ -86,6 +87,7 @@
 - https://www.labbott.name/blog/2016/05/10/zero-size-arrays-in-c
 - [A guide to Windows application development using w64devkit](https://nullprogram.com/blog/2021/03/11)
 - ["class" and "template", among other things, are legal function/variable/struct names in C](https://twitter.com/azonenberg/status/1445172332054528002)
+- https://github.com/aknooh/Simple-File-System-in-C
 
 ### Security
 
@@ -94,3 +96,4 @@
 ### Tool
 
 - https://earthly.dev/blog/jq-select + https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century
+- [weggli is a fast and robust semantic search tool for C and C++ codebases.](https://github.com/googleprojectzero/weggli)

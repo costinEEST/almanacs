@@ -9,6 +9,8 @@
 - [Go With The Domain. Building Modern Business Software in Go](https://news.ycombinator.com/item?id=27140724)
 - https://livebook.manning.com/book/go-in-action
 - [Code listings accompanying the 'For the Love of Go' book](https://github.com/bitfield/ftl-code)
+- https://www.amazon.com/Learning-Go-programming-Vladimir-Vivien/dp/1784395439
+- https://github.com/PacktPublishing/Creative-DIY-Microcontroller-Projects-with-TinyGo-and-WebAssembly
 
 ### Boots
 
@@ -84,6 +86,11 @@
 - [Go library to capture desktop to image](https://github.com/kbinani/screenshot)
 - [make your own YouTube TV player](https://github.com/cbix/gotubecast)
 
+
+### Radio
+
+- [Go on hardware: TinyGo in the wild](https://twitter.com/GoTimeFM/status/1443592475990388738)
+
 ### References
 
 - [Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place.](https://github.com/hoanhan101/ultimate-go)
@@ -113,6 +120,7 @@
 - [Asynchronous programming: callback -> promise/async/await -> fibres/coroutines](https://twitter.com/doubaokun/status/1380570950924652548)
 - [Is Learning GO worth It if you know Node.js?](https://news.ycombinator.com/item?id=26939626)
 - [I am more excited by Zig than by Rust.](https://twitter.com/mitchellh/status/1435670230215192579)
+- https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html
 
 ### Security
 

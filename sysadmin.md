@@ -97,6 +97,7 @@
 - https://securityboulevard.com/2019/11/kubernetes-pentest-methodology-part-3
 - [Learn Kubernetes one Twitter thread at the time!](https://twitter.com/danielepolencic/status/1298543151901155330)
 - https://github.com/diegolnasc/kubernetes-best-practices
+- https://blog.softwheel.io/what-is-under-the-hood-of-kubernetes-1/
 
 ### Servers
 
@@ -151,6 +152,8 @@
 - [How to print out credentials from Jenkins secrets](https://lanziani.com/blog/jenkins-credentials.html)
 - https://www.freecodecamp.org/news/devops-engineering-course-for-beginners
 - https://app.pluralsight.com/library/courses/building-modern-ci-cd-pipeline-jenkins
+- https://earthly.dev/blog/migrating-from-travis
+- https://www.udemy.com/course/learn-complete-devops-with-python-docker-kubernetes-git
 
 ### Site Reliability Engineering
 

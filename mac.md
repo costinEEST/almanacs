@@ -12,7 +12,7 @@
 - https://rosenzweig.io/blog/asahi-gpu-part-1.html
 - https://www.freecodecamp.org/news/build-a-hackintosh
 
-### Tools
+### Tool
 
 - [An extremely opinionated and highly personalized script to set up a new Mac machine, just the way I like it!](https://github.com/nnja/new-computer)
 - [dotfiles](https://twitter.com/jsjoeio/status/1216921686932504576)
@@ -33,6 +33,7 @@
 - [The easiest way to install and switch between multiple versions of Xcode - with a mouse click.](https://github.com/RobotsAndPencils/XcodesApp)
 - https://www.swyx.io/new-mac-setup-2021
 - https://ospfranco.github.io/post/2021/05/24/how-to-get-the-wifi-password-on-macos
+- [Keyboard Maestro macros I use (~ 1400 macros)](https://nikitavoloboev.gumroad.com/l/kmmacros)
 
 ### References
 

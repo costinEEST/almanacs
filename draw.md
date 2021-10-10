@@ -3,13 +3,14 @@
 - https://www.google.com/search?q=Andrew+Loomis+free+archive+ebooks
 - [Alla Prima II Everything I Know about Painting--And More - Richard Schmid with Katie Swatland](https://www.amazon.com/gp/product/096621174X)
 
-### Courses
+### Course
 
 - [Practical Cartooning for Technical Folk](https://courses.rachelnabors.com/p/practical-cartooning)
 - https://elespejohumeante.wordpress.com/bibliografia-para-historia-del-dibujo
 - [Keys to Drawing by Bert Dodson](https://youtu.be/df9OewgNbiI)
 - https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box
 - https://www.openculture.com/the-elements-of-drawing-a-free-course-from-oxford
+- https://www.udemy.com/course/diploma-in-fine-arts-drawing-certification
 
 ### Comics
 

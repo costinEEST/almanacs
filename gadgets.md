@@ -26,6 +26,7 @@
 - https://twitter.com/lucalanziani/status/1382410416823934987
 - https://www.aaron-powell.com/posts/2021-07-29-keyboard-first-impressions-zsa-moonlander
 - https://twitter.com/akinncar/status/1438114099066458114
+- https://blog.royalsloth.eu/posts/best-tool-for-the-job
 
 ### Microphone
 

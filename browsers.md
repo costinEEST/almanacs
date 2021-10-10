@@ -315,6 +315,7 @@ javascript: (() =>
 - [Canvas + JSX + Hooks](https://github.com/jchn/redraw)
 - [Visual Web Development (2021) | Radu Mariescu-Istodor](https://www.youtube.com/playlist?list=PLB0Tybl0UNfb3hTHPfEIg1SPw_-Ca9iIw)
 - [A library for capturing web page self screenshots](https://github.com/TomasHubelbauer/selfie)
+- https://bkardell.com/blog/OffscreenCanvas.html
 
 ### WebGL
 

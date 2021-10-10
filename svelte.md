@@ -41,3 +41,7 @@
 - https://www.ryanprior.com/posts/svelte-is-unappealing
 - https://www.swyx.io/svelte-sites-react-apps
 - https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript
+
+### Radio
+
+- https://syntax.fm/show/390/from-react-to-sveltekit

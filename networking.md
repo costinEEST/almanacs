@@ -110,6 +110,7 @@
 - https://ieeetv.ieee.org/conference-highlights/integrated-access-and-backhaul-in-5g-navid-abedini-ieee-sarnoff-symposium-2019
 - https://www.cccblog.org/2020/04/01/5g-security-and-privacy-a-research-roadmap
 - https://blog.acolyer.org/2020/10/05/understanding-operational-5g
+- https://www.udemy.com/course/5g-overview
 
 ### IP
 
