@@ -27,6 +27,7 @@
 - https://www.edx.org/course/the-science-and-business-of-biotechnology
 - https://github.com/Developer-Y/cs-video-courses#computational-biology
 - https://www.udemy.com/course/learn-molecular-docking-become-competent-in-drug-design
+- https://www.udemy.com/course/the-complete-high-school-and-college-biology
 
 ### Community
 

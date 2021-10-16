@@ -11,6 +11,7 @@
 - https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box
 - https://www.openculture.com/the-elements-of-drawing-a-free-course-from-oxford
 - https://www.udemy.com/course/diploma-in-fine-arts-drawing-certification
+- https://www.udemy.com/course/engineering-drawing-graphics
 
 ### Comics
 

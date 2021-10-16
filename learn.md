@@ -8,6 +8,7 @@
 ### Cinema
 
 - https://www.udemy.com/course/jack-of-all-trades
+- https://www.udemy.com/course/modern-mind-mapping-for-beginners-software-based-course
 
 ### Community
 

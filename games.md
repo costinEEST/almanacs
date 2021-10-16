@@ -58,6 +58,7 @@
 - https://www.polygon.com/interviews/22397934/indie-games-hand-drawn-artists-cozy-grove + https://news.ycombinator.com/item?id=26931084
 - [An OpenGL RTS game engine written in C](https://github.com/eduard-permyakov/permafrost-engine) + https://news.ycombinator.com/item?id=27132334
 - https://github.com/rby90/game-clone-challenges
+- https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial
 
 ### The creators
 

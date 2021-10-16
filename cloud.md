@@ -40,6 +40,7 @@
 - https://www.figma.com/blog/inside-figma-securing-internal-web-apps + https://tldrsec.com/blog/appsec-cali-2019/#the-call-is-coming-from-inside-the-house-lessons-in-securing-internal-apps + https://tldrsec.com/blog/appsec-cali-2019/#lessons-learned-from-the-devsecops-trenches
 - https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need
 - http://ramimac.me/security/syndicated/cloudsec/extended-aws-security-ramp-up
+- https://www.freecodecamp.org/news/amazon-virtual-private-cloud-course
 
 ### Google Cloud
 
