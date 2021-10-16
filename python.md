@@ -29,6 +29,7 @@
 - https://github.com/snori74/auto-luc
 - https://www.freecodecamp.org/news/create-a-discord-bot-with-python
 - [Simple Bot to Track Balances using Python, SQLite, & Flask ](https://github.com/CryptoGnome/Crypto-Tracker)
+- [tell me how the waves are based on weather data and local knowledge](https://ronaldlangeveld.com/oracle-bot) + https://github.com/ronaldlangeveld/localsurferbot
 
 ### Clean code
 

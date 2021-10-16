@@ -14,6 +14,7 @@
 - https://www.dgitacademy.com/courses
 - https://www.udemy.com/course/java-latest-programming-from-zero-java13-java12-java11-java10-java9-j8
 - https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification
+- https://vladmihalcea.teachable.com/courses
 
 ### Best practices
 
@@ -34,6 +35,7 @@
 - https://0xdf.gitlab.io/2020/04/02/jar-files-analysis-and-modifications.html
 - [Java-based desktop text editor with live preview, string interpolation, and formulas](https://github.com/DaveJarvis/keenwrite)
 - https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html
+- [IntelliJ IDEA Developer Guide](https://amigoscode.com/courses/enrolled/667200)
 
 ### Cinema
 

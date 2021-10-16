@@ -1,3 +1,7 @@
+### Book
+
+- https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 + https://craphound.com/category/destroy + https://www.goodreads.com/review/show/3525601035
+
 ### Breach
 
 - https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack

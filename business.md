@@ -33,6 +33,8 @@
 - [Want to do an MBA for free ?](https://twitter.com/sahilypatel/status/1414565655471280132)
 - https://www.udemy.com/course/beginners-guide-use-bubble-to-build-an-app-without-coding
 - https://www.udemy.com/course/learn-how-to-use-zapier-to-automate-your-business
+- [Simple cultural training & sensitization to deal with business people from various national cultures, management styles](https://www.udemy.com/course/cross-cultural-management-made-easy)
+- https://www.udemy.com/course/analytics-of-pricing-and-revenue-with-excel-python
 
 ### Marketing
 
