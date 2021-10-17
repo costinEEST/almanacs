@@ -137,6 +137,7 @@
 - [Designing With Container Queries](https://www.twitch.tv/videos/998378164)
 - https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries
 - https://mxb.dev/blog/media-queries-in-times-of-container-queries
+- https://github.com/sturobson/Awesome-Container-Queries
 
 
 ### CSS grid

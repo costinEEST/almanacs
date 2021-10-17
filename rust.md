@@ -125,3 +125,4 @@
 - [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun](https://kevinlynagh.com/rust-zig)
 - [Rust is the biggest leap for me as an engineer in 20 years.](https://twitter.com/rikarends/status/1380993153516310529)
 - https://noncombatant.org/2021/04/09/prioritizing-memory-safety-migrations
+- https://github.com/readme/featured/rust-programming

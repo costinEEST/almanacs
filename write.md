@@ -13,6 +13,8 @@
 - https://www.google.com/search?q=Cuneiform+written+by+Irving+Finkel
 - https://www.udemy.com/course/teaching_philosophy
 - https://www.udemy.com/course/complete-gmail-productivity-course-more-productive-email
+- https://github.com/James-Yu/LaTeX-Workshop
+- https://www.udemy.com/course/masteringlatex
 
 ### Community
 

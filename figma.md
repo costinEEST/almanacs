@@ -20,6 +20,7 @@
 - [How to make a "Question Mark" icon](https://twitter.com/steveschoger/status/1358852316808552453)
 - https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma
 - https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma
+- https://www.udemy.com/course/learn-figma-ui-ux
 
 ### Cinema
 

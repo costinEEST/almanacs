@@ -191,6 +191,7 @@
 - [Interview with an NFT artist](https://twitter.com/jsjoeio/status/1431290807852486661)
 - https://github.com/aquario-crypto/Awesome_NFTs
 - https://buildspace.so/build-nfts
+- https://www.udemy.com/course/build-an-nft-marketplace-from-scratch-blockchain-dapp
 
 ### Smart contracts
 

@@ -119,6 +119,10 @@
 
 - https://www.theverge.com/22639629/tim-cook-apple-ten-years-decade-steve-jobs-legacy
 
+### Tai Lopez
+
+- https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970
+
 
 ### Miscellaneous
 

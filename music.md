@@ -26,6 +26,7 @@
 - [Music Theory | Brad Harrison Music](https://www.youtube.com/playlist?list=PLDaNGknQ_wTh3eXyjB0smdEYSvqa-wJ1_)
 - https://www.udemy.com/course/acoustic-guitar-for-beginners
 - https://www.udemy.com/course/beginnerselectronicmusictheory
+- https://www.salon.com/2021/10/16/25-great-rockumentaries-every-music-and-movie-fan-should-see_partner
 
 ### Instrument
 

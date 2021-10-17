@@ -56,6 +56,7 @@
 - [what are your go-to places for graphic design history?](https://twitter.com/alistairhall/status/1405446603796881410)
 - https://www.logodesignlove.com/coca-cola-logo
 - https://www.fastcompany.com/90656667/the-best-olympic-logos-of-all-time-according-to-design-experts
+- https://lithub.com/the-25-most-iconic-book-covers-in-history
 
 ### Inspire
 

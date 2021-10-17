@@ -69,7 +69,6 @@
 - [Java](java.md)
 - [Javascript](javascript.md)
 - [Kotlin](kotlin.md)
-- [Latex](latex.md)
 - [Learn!](learn.md)
 - [Life sciences / real sciences](life.md)
 - [Linux](linux.md)
