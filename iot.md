@@ -21,6 +21,7 @@
 
 - [Cloud Home Automation Series](https://twitter.com/binitamshah/status/1229349993829498882)
 - https://hackaday.com/2021/02/08/hands-on-the-risc-v-esp32-c3-will-be-your-new-esp8266
+- https://savjee.be/2021/10/i-built-a-co2-sensor-and-it-terrifies-me
 
 ### ESP8266
 
@@ -30,6 +31,7 @@
 - [Framework for IoT projects implementing HTTPS requests, a React web interface, WiFi manager, live dashboard, configuration manager, file manager and OTA updates.](https://github.com/maakbaas/esp8266-iot-framework)
 - https://www.udemy.com/course/making-home-automation-iot-projects-with-nodemcu-ios-11
 - [Making a Wi-Fi RC Car from Scratch with ESP8266 NodeMCU and iOS 12 | Jeffrey App](https://www.youtube.com/playlist?list=PLMlO1PGnzRobxbGv-iWVTJ4w_BBgU7MR8)
+- https://cri.dev/posts/2020-09-03-DIY-IoT-door-monitor-with-ESP8266
 
 ### Espruino
 

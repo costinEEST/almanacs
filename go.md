@@ -59,7 +59,7 @@
 - [Code Club | Bitfield Consulting](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3)
 - [Golang University 101 - Learn Golang | Bitfield Consulting](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
 
-### Tools
+### Tool
 
 - [Repo of useful scripts](https://github.com/lc/hacks)
 - [🔍 gowitness - a golang, web screenshot utility using Chrome Headless.](https://github.com/sensepost/gowitness)
@@ -85,6 +85,7 @@
 - [Share your terminal as a web application](https://github.com/yudai/gotty)
 - [Go library to capture desktop to image](https://github.com/kbinani/screenshot)
 - [make your own YouTube TV player](https://github.com/cbix/gotubecast)
+- [Download Youtube Video in Golang](https://github.com/kkdai/youtube)
 
 
 ### Radio

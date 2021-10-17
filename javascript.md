@@ -446,6 +446,7 @@
 - https://github.com/NoriSte/ui-testing-best-practices
 - https://github.com/CodingItWrong/javascript-tdd-exercises
 - https://www.freecodecamp.org/news/types-of-software-testing
+- https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date
 
 ### Virtual machines
 

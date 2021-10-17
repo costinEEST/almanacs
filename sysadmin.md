@@ -4,6 +4,7 @@
 - https://github.com/techno-tim/youtube-videos
 - [Managing AWS with Terraform](https://www.youtube.com/playlist?list=PLI8rNSktL2DR9yk5lMxpFcnOHI29-W6N3)
 - [A Packer Primer](https://www.youtube.com/playlist?list=PLI8rNSktL2DSOM8dfvYnkhPLeTRLu8zrf)
+- https://github.com/cloudcommunity/Free-Certifications
 
 ### Ansible
 

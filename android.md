@@ -24,29 +24,6 @@
 - https://www.udemy.com/course/a-beginners-guide-to-android-app-development
 - https://www.udemy.com/course/absolute-java-basics-for-android
 
-### Security
-
-- [MOBISEC - Mobile Security Course](https://mobisec.reyammer.io)
-- https://github.com/anantshri/Android_Security + https://twitter.com/anantshri/status/1345757424616054790
-- https://enciphers.com/awesome-android-application-security
-- https://medium.com/@sarang6489/different-types-of-root-detection-techniques-in-android-57828aed7597
-- https://www.michalspacek.com/android-based-2fa-security-key
-- https://captmeelo.com/pentest/2020/02/24/bypass-okhttp-cert-pinning.html + https://www.reddit.com/r/netsec/comments/f8pegs/bypassing_okhttp_certificate_pinning
-- [Android application penetration testing using some of the common tools.](https://github.com/riddhi-shree/nullCommunity/blob/master/Android/README.md)
-- https://twitter.com/lorenzofb/status/1229740603983921158
-- [Android Hacking - B3nac Sec](https://www.youtube.com/playlist?list=PLrIM_Ohh4UNNT1vfBGn4FwGzH-k8QqHpt) + https://github.com/B3nac/InjuredAndroid
-- https://github.com/B3nac/Android-Reports-and-Resources
-- https://yasoob.me/posts/reverse-engineering-android-apps-apktool + https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android
-- https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html
-- https://epic.blog/reverse-engineering/2020/07/27/reverse-engineering-android-app.html
-- https://cloudfuzz.github.io/android-kernel-exploitation + https://twitter.com/B3nac/status/1340379517420859393
-- https://www.slideshare.net/abrahamaranguren/pwning-mobile-apps-without-root-or-jailbreak-136622746
-- https://nelsonslog.wordpress.com/2021/06/01/android-scoped-storage-syncthing-gpslogger
-- [Android App Permission data of 2.2 million applications from Google Playstore.](https://github.com/gauthamp10/android-permissions-dataset)
-- https://github.com/B3nac/Android-Reports-and-Resources
-- [Android pentesting | hyd3sec](https://www.youtube.com/playlist?list=PLXAaWemFrhwlV5KulQMT6nsOVLPaG_yUa)
-- https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
-
 
 ### Tools
 
@@ -99,3 +76,27 @@
 - https://niftylettuce.com/posts/google-free-android-setup
 - [Android is holding back the Java library and language ecosystem.](https://twitter.com/JakeWharton/status/1174020113466568704)
 - https://techcrunch.com/2021/06/02/huawei-officially-launches-android-alternative-harmonyos-for-smartphones
+- https://github.com/zyrikby/android_permission_evolution
+
+### Security
+
+- [MOBISEC - Mobile Security Course](https://mobisec.reyammer.io)
+- https://github.com/anantshri/Android_Security + https://twitter.com/anantshri/status/1345757424616054790
+- https://enciphers.com/awesome-android-application-security
+- https://medium.com/@sarang6489/different-types-of-root-detection-techniques-in-android-57828aed7597
+- https://www.michalspacek.com/android-based-2fa-security-key
+- https://captmeelo.com/pentest/2020/02/24/bypass-okhttp-cert-pinning.html + https://www.reddit.com/r/netsec/comments/f8pegs/bypassing_okhttp_certificate_pinning
+- [Android application penetration testing using some of the common tools.](https://github.com/riddhi-shree/nullCommunity/blob/master/Android/README.md)
+- https://twitter.com/lorenzofb/status/1229740603983921158
+- [Android Hacking - B3nac Sec](https://www.youtube.com/playlist?list=PLrIM_Ohh4UNNT1vfBGn4FwGzH-k8QqHpt) + https://github.com/B3nac/InjuredAndroid
+- https://github.com/B3nac/Android-Reports-and-Resources
+- https://yasoob.me/posts/reverse-engineering-android-apps-apktool + https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android
+- https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html
+- https://epic.blog/reverse-engineering/2020/07/27/reverse-engineering-android-app.html
+- https://cloudfuzz.github.io/android-kernel-exploitation + https://twitter.com/B3nac/status/1340379517420859393
+- https://www.slideshare.net/abrahamaranguren/pwning-mobile-apps-without-root-or-jailbreak-136622746
+- https://nelsonslog.wordpress.com/2021/06/01/android-scoped-storage-syncthing-gpslogger
+- [Android App Permission data of 2.2 million applications from Google Playstore.](https://github.com/gauthamp10/android-permissions-dataset)
+- https://github.com/B3nac/Android-Reports-and-Resources
+- [Android pentesting | hyd3sec](https://www.youtube.com/playlist?list=PLXAaWemFrhwlV5KulQMT6nsOVLPaG_yUa)
+- https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet

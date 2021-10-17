@@ -43,6 +43,21 @@
 - https://www.freecodecamp.org/news/amazon-virtual-private-cloud-course
 - https://www.udemy.com/course/containercrashcourse
 
+### Azure
+
+- https://www.nexmo.com/blog/2020/01/29/how-send-receive-sms-messages-with-node-js-azure-functions-dr
+- https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
+- https://techcommunity.microsoft.com/t5/azure-security-center/become-an-azure-security-center-ninja/ba-p/1608761
+- https://github.com/ddneves/awesome-azure-learning
+- https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900
+- https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan
+- https://www.udemy.com/course/automate-reactjs-springboot-cicd-pipelines-on-azuredevops
+
+### Cloudflare
+
+- https://cri.dev/posts/2021-04-05-currently-self-hosting-apps
+- https://areknawo.com/cloudflare-workers-the-best-serverless-faas-platform
+
 ### Google Cloud
 
 - [The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words) + https://twitter.com/gregsramblings/status/1366841332312907780
@@ -66,20 +81,6 @@
 
 - https://github.com/victorshinya/awesome-ibmcloud
 - Introduction to @IBMcloudant - [tweet](https://twitter.com/glynn_bird/status/1248217903276732419) + [video series](https://www.youtube.com/playlist?list=PLJa_sXrJUZb-Y4Q_5y3yPC8m5RxS5q-_J)
-
-### Azure
-
-- https://www.nexmo.com/blog/2020/01/29/how-send-receive-sms-messages-with-node-js-azure-functions-dr
-- https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
-- https://techcommunity.microsoft.com/t5/azure-security-center/become-an-azure-security-center-ninja/ba-p/1608761
-- https://github.com/ddneves/awesome-azure-learning
-- https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900
-- https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan
-- https://www.udemy.com/course/automate-reactjs-springboot-cicd-pipelines-on-azuredevops
-
-### Cloudflare
-
-- https://areknawo.com/cloudflare-workers-the-best-serverless-faas-platform
 
 
 ### Platform independent

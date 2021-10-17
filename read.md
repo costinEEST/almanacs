@@ -22,11 +22,12 @@
 - ['How to read a (good) book in one hour' by Chris Kelty](https://savageminds.org/2007/10/01/how-to-read-a-good-book-in-one-hour)
 - ['How to Read a Book' by Paul Edwards](http://utminers.utep.edu/trcurry/howtoread.pdf)
 
-### Tools
+### Tool
 
 - [A usable eBook reader inside a browser (azw3, mobi, ePub, pdf)](https://news.ycombinator.com/item?id=25948797)
 - [Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.](https://github.com/burtonator/polar-bookshelf)
 - https://goula.sh/days/2021-03-26
+- https://cri.dev/posts/2021-02-09-my-reading-stack-miniflux-rss-pocket
 
 ### Review
 

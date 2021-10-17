@@ -129,6 +129,7 @@
 - [An Evolutionary Perspective on Why Food Overconsumption Impairs Cognition - Mark P. Mattson](https://www.gwern.net/docs/longevity/2019-mattson.pdf)
 - [Autophagy - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xF85LzBWl7OcjmLQuAq7Uh)
 - [Intermittent Fasting Improves Long Term Memory](https://neurosciencenews.com/intermittent-fasting-neurogenesis-memory-18522)
+- https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention
 
 ### Supplements
 

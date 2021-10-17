@@ -15,6 +15,7 @@
 - https://www.udemy.com/course/java-latest-programming-from-zero-java13-java12-java11-java10-java9-j8
 - https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification
 - https://vladmihalcea.teachable.com/courses
+- https://github.com/amigoscode/java-functional-programming
 
 ### Best practices
 

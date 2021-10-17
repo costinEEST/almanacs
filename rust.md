@@ -1,6 +1,7 @@
 ### API
 
 - [A microservice framework for building scalable applications](https://github.com/juicycleff/ultimate)
+- https://github.com/jtroo/rust-spa-auth
 
 ### Best practices
 
@@ -17,6 +18,7 @@
 - https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 - https://github.com/lambda-magic/plt-books/tree/master/Rust
 - https://github.com/sger/RustBooks
+- https://github.com/lborb/book
 
 ### Bot
 
@@ -64,6 +66,7 @@
 - [Educational blog posts for Rust beginners](https://github.com/pretzelhammer/rust-blog)
 - [A guide to writing a DNS Server from scratch in Rust](https://github.com/EmilHernvall/dnsguide)
 - https://ricky.codes/blog/posts/publishing-to-the-peer-to-peer-web
+- [updns is a simple DNS proxy server](https://github.com/wyhaya/updns)
 
 ### Cinema
 
@@ -75,6 +78,7 @@
 ### Algorithm
 
 - https://github.com/Mec-iS/rust-algos-illuminated
+- https://github.com/TheAlgorithms/Rust
 
 ### Practice
 

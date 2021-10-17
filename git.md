@@ -32,6 +32,7 @@
 - https://www.welcometothejungle.com/en/articles/btc-history-git
 - https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git
 - https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer
+- https://www.mikestreety.co.uk/blog/git-clone-a-repository-without-the-history
 
 ### TIL
 

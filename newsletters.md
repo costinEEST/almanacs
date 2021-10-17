@@ -144,6 +144,7 @@
 - https://golangweekly.com/issues
 - [Amit Agarwal](https://www.getrevue.co/profile/labnol)
 - [Jon Kuperman](https://buttondown.email/jkup/archive)
+- [Xavier Decuyper](https://newsletter.savjee.be/#archive)
 
 ### Web performance
 

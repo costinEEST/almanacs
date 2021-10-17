@@ -55,6 +55,7 @@
 - https://www.udemy.com/course/digital-circuits-system-design-with-vhdl
 - https://www.udemy.com/course/computer-fundamentals-u
 - https://github.com/mithi/robotics-coursework
+- https://github.com/kitspace/awesome-electronics
 
 ### Chip
 

@@ -82,6 +82,7 @@
 - [Bot to help me RSVP on a specific Football meetup group.](https://github.com/divyenduz/footybot)
 - https://www.freecodecamp.org/news/discord-ai-chatbot
 - [Create Telegram bot with NodeJS and Firebase Cloud Functions](https://www.udemy.com/course/telegram-firebase-bot) + https://www.youtube.com/playlist?list=PLhMX5hA0NWUQoRqYNFBE35NlUn1J915M0
+- https://github.com/christian-fei/simple-telegram-message
 
 ### Boilerplate
 
@@ -108,6 +109,7 @@
 - https://github.com/timofeysie/nextjs-markdown-blog
 - https://github.com/ryansonshine/typescript-npm-package-template
 - [a project to create your own personal podcast feed](https://github.com/inian/personal-casts)
+- https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction
 
 ### Cinema
 
