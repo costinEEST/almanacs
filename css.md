@@ -69,10 +69,12 @@
 - https://www.uxmatters.com/mt/archives/2021/09/color-and-universal-design.php
 - https://accessiblepalette.com
 - https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems
+- https://daverupert.com/2021/10/alpha-paintlet
 
 
 ### Community
 
+- https://noti.st/rachelandrew
 - [Amit Sheen](https://www.youtube.com/playlist?list=PLobGLCa6IPmhHCZn3q0GFs5hNimxgzjMK)
 - https://twitter.com/zehf/status/1310664033234808833
 - [Kevin Powell](https://www.youtube.com/kepowob/playlists)
@@ -115,6 +117,7 @@
 
 ### Selector
 
+- https://www.w3.org/2021/10/TPAC/demos/css-nesting.html
 - https://jeremenichelli.io/2015/11/the-first-child-reset
 - https://jaketracey.com/styling-accessible-html-file-inputs
 - [Giving users and developers more control over focus](https://blog.chromium.org/2020/09/giving-users-and-developers-more.html)
@@ -138,6 +141,7 @@
 - https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries
 - https://mxb.dev/blog/media-queries-in-times-of-container-queries
 - https://github.com/sturobson/Awesome-Container-Queries
+- [Improving CSS Architecture with Cascade Layers, Container Queries, Scope](https://www.w3.org/2021/10/TPAC/demos/css-architecture.html)
 
 
 ### CSS grid

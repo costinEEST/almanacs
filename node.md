@@ -336,6 +336,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [drpciv-crawler](https://github.com/AdiCutitoiu/chestionare-auto)
 - https://www.zenrows.com/blog/web-scraping-with-javascript-and-nodejs
 - [Crawls meta data and apks from google play](https://github.com/uw-swag/swag-crawler)
+- https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
 
 
 ### Micro service

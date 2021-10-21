@@ -360,6 +360,7 @@ javascript: (() =>
 - [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls)
 - https://webvitals.dev/cls
 - [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes)
+- https://calibreapp.com/tools/core-web-vitals-checker
 
 ### Miscellaneous
 

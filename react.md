@@ -78,6 +78,7 @@
 - https://twitter.com/tylermcginnis/status/1169667360795459584
 - https://github.com/rehooks/awesome-react-hooks
 - https://github.com/donavon/hook-flow
+- https://thoughtspile.github.io/2021/10/18/non-react-state
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 - [After calling a useState setter, you don’t see the updated value in logic after it without using a useEffect](https://twitter.com/ken_wheeler/status/1200431889506435072)
 - [Subscribe to a user's light/dark preference..](https://twitter.com/tannerlinsley/status/1211721986319110144)

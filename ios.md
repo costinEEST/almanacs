@@ -26,6 +26,7 @@
 - [music app for iPad](https://github.com/Morpheu5/SecondStudy-iPad)
 - https://github.com/EvanBacon/cocoapods-xcode10-tutorial
 - [Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store](https://github.com/majd/ipatool)
+- https://faisalmemon.github.io/ios-crash-dump-analysis-book/en + https://twitter.com/patrickwardle/status/1451006222887370752
 
 ### Security
 

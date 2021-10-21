@@ -90,6 +90,7 @@
 - [My Programming Languages Spectrum](https://huangxuan.me/2020/05/05/pl-chart)
 - [Minimalist Ethereum Price](https://tanishq.xyz/staticETH)
 - [Map & Explore your organization's System Architecture](https://github.com/CondeNast/fyi)
+- [GitLab analysis of OWASP Top 10 changes from 2004 to 1021](https://public.flourish.studio/visualisation/7574790)
 
 ### Miscellaneous
 
