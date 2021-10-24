@@ -73,6 +73,7 @@
 - https://www.pentestpartners.com/security-blog/hardware-router-ctf + https://twitter.com/Yekki_1/status/1237358042720632832
 - https://genneko.github.io/playing-with-bsd/networking/freebsd-wireguard-jail
 - https://kamila.is//teaching/how-routers-work + https://news.ycombinator.com/item?id=24435454
+- https://medium.com/extend/installing-ip-cameras-or-how-i-started-monitoring-my-cats-aeb6415c682b
 
 ### Telecommunications
 
@@ -120,6 +121,7 @@
 - https://github.com/jbranchaud/til/blob/master/devops/path-of-the-packets.md
 - https://medium.com/lotus-fruit/socket-programming-the-bizarre-tcp-ip-port-0-saga-cafc82252923
 - https://samy.pl/slipstream + https://twitter.com/samykamkar/status/1322671073893126144 + https://youtu.be/1Ajwdb2kqWk + https://youtu.be/8cXOERg-soY
+- [get an IP in a geographical location or country](https://www.netmeister.org/gip)
 
 ### Domain Name System
 
@@ -136,6 +138,8 @@
 - [Scaling the Root of the DNS](https://www.potaroo.net/ispcol/2020-09/root.html)
 - https://www.antitree.com/2013/02/22/how-tor-does-dns-the-breaking-bad-way
 - https://tech.ovoenergy.com/how-we-prevented-subdomain-takeovers-and-saved-000s + https://github.com/ovotech/domain-protect
+- https://www.netmeister.org/blog/hostnames.html
+- [Compare public DNS resolver results](https://www.netmeister.org/puddy)
 
 ### TCP/UDP
 
@@ -190,6 +194,7 @@
 - https://github.com/EFForg/https-everywhere
 - https://howhttps.works/episodes
 - https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html
+- [fetch the TLS cert from a given site](https://www.netmeister.org/whatsthatcert)
 
 ### HTTP2
 

@@ -3,6 +3,10 @@
 - https://www.udemy.com/course/udemy-bootcamphow-to-quickly-creat-a-good-course-unofficial
 - https://www.udemy.com/course/complete-graphics-design-and-video-editing-masterclass
 
+### Community
+
+- https://www.youtube.com/c/ThomasFlight/playlists
+
 ### <video></video>
 
 - [Video Killed My Data Plan](https://docs.google.com/presentation/d/1JPBSDqCpKK1nq9Wpo-NKmXNb1ZyCUKZhcfcdkXTRAA0)

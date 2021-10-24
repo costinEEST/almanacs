@@ -448,6 +448,7 @@
 - https://github.com/CodingItWrong/javascript-tdd-exercises
 - https://www.freecodecamp.org/news/types-of-software-testing
 - https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date
+- https://github.com/giltayar/mapping-out-territory
 
 ### Virtual machines
 

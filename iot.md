@@ -16,6 +16,7 @@
 - https://medium.com/@Hossman333/building-a-custom-led-word-clock-bfb3ba390e15 + https://github.com/Hossman333/word-clock
 - https://github.com/joeycastillo/The-Open-Book
 - [A curated collection of Arduino coding examples](https://github.com/wokwi/good-arduino-code) + https://goodarduinocode.com
+- https://dafnamordechai.wixsite.com/iotwitharduino/the-workshop
 
 ### ESP32
 

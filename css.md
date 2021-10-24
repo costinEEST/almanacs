@@ -82,6 +82,7 @@
 - [Jhey Tompkins](https://www.youtube.com/c/JheyTompkins/playlists)
 - https://github.com/hendurhance/ui-ux
 - https://bootcamp.uxdesign.cc/ui-ux-visual-designers-behind-great-games-1bd1b2724001
+- https://github.com/nucliweb/People-You-Should-Follow-on-CodePen
 
 ### Measurement units
 
