@@ -28,6 +28,7 @@
 - https://github.com/Developer-Y/cs-video-courses#computational-biology
 - https://www.udemy.com/course/learn-molecular-docking-become-competent-in-drug-design
 - https://www.udemy.com/course/the-complete-high-school-and-college-biology
+- [Finding Hidden Messages in DNA (Bioinformatics I)](https://www.coursera.org/learn/dna-analysis) + https://leanpub.com/findinghiddenmessagesindna
 
 ### Community
 

@@ -4,6 +4,7 @@
 - [Eco-friendly Guides](https://www.earthlover.co/resources)
 - https://intelligence.wundermanthompson.com/2021/04/new-trend-report-regeneration-rising-sustainability-futures
 - https://www.goodreads.com/review/list/18982209?shelf=ecology
+- [PENTRU AGRICULTURA. ECOLOGICĂ. (culturi de câmp). BORIS BOINCEAN](https://eco-tiras.org/books/Ro-2.pdf)
 
 ### Course
 

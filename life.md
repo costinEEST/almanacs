@@ -26,6 +26,17 @@
 - http://www.ddni.ro/manager/editor/UserFiles/File/Publications/Books/2007_Atlasul_pestilor
 - https://www.totpescuit.ro/cum-as-fi-pescuit-la-dunare/#comment-436
 - [Atlasul peştilor din Rezervaţia Biosferei Delta Dunării | Vasile Oţel](https://books.google.ro/books/about/Atlasul_pe%C5%9Ftilor_din_Rezerva%C5%A3ia_Biosfe.html?id=3za5rQEACAAJ)
+- https://www.printrecarti.ro/petre-banarescu + https://danikurzeluk.blogspot.com/2010/05/in-memoriam-acad-dr-doc-petru-mihai.html
+- [Sergiu Carausu](https://ibn.idsi.md/sites/default/files/imag_file/Si%20in%20Moldova%20se%20nasc%20oameni%20prof%20dr%20Sergiu%20Carausu%20(1907-1997).pdf) + https://www.printrecarti.ro/s-carausu
+- https://www.targulcartii.ro/george-d-vasiliu + https://www.printrecarti.ro/george-vasiliu
+- https://www.printrecarti.ro/th-busnita
+- https://www.targulcartii.ro/i-radulescu + https://www.printrecarti.ro/ion-radulescu
+- https://www.printrecarti.ro/laurentiu-lustun
+- https://www.printrecarti.ro/dan-manoleli
+- http://d2ouvy59p0dg6k.cloudfront.net/downloads/carti_de_joc.pdf
+- https://www.wikiwand.com/ro/Cartea_Ro%C8%99ie_a_Republicii_Moldova#/Bibliografie
+- https://issuu.com/aorr.ong/docs/pestii_nistrului_de_mijloc_si_de_jos
+- https://www.eco-tiras.org/books/RDB-fish-final.pdf
 
 
 ### Anatomy

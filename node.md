@@ -21,6 +21,7 @@
 - https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-system-782a7f2c840f + https://news.ycombinator.com/item?id=27580153
 - https://www.aspecto.io/blog/microservices-authentication-strategies-theory-to-practice
 - http://ramimac.me/security/syndicated/offensive-authorization-code
+- https://github.com/fiatjaf/awesome-loginless
 
 ### API
 
@@ -293,6 +294,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Embed data in other data and easily extract it when needed](https://github.com/sindresorhus/subsume)
 - [Mailtrain is a self hosted newsletter application built on Node.js (v14+) and MySQL (v8+) or MariaDB (v10+)](https://github.com/Mailtrain-org/mailtrain)
 - [A wrapper around yarn audit that fixes many issues](https://github.com/djfdyuruiry/improved-yarn-audit)
+- https://www.stefanjudis.com/today-i-learned/npm-root-locates-the-global-node-modules-directory
 
 ### Testing
 

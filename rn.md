@@ -118,6 +118,7 @@
 - https://medium.com/unibuddy/tracking-time-spent-in-react-native-b2f10398b0f5
 - https://github.com/ximxim/RNDeepLinkAuth + https://medium.com/@azim.ahmed7/react-navigation-deep-linking-with-authentication-9056eb4a0456
 - https://around25.com/blog/how-to-implement-push-notifications-in-react-native
+- https://engineering.brigad.co/react-native-monorepos-code-sharing-f6c08172b417
 
 ### Packages
 

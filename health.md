@@ -294,6 +294,7 @@
 - https://www.sciencemag.org/news/2020/01/ancient-viruses-found-tibetan-glacier
 - https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need
 - [The tangled history of mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w)
+- https://savjee.be/videos/simply-explained/mrna-vaccines-questions-and-misconceptions
 
 ### Radiation
 

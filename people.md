@@ -15,6 +15,7 @@
 
 - https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain + https://news.ycombinator.com/item?id=27852432
 - https://www.newyorker.com/books/double-take/sunday-reading-remembering-anthony-bourdain
+- https://www.focusfeatures.com/roadrunner
 
 #### Alan Turing
 
@@ -106,6 +107,10 @@
 ### Ryan Holiday
 
 - https://www.perell.com/podcast/ryan-holiday
+
+### Jacques-Yves Cousteau
+
+- https://films.nationalgeographic.com/becoming-cousteau
 
 ### Joe McCray
 

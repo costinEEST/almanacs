@@ -6,6 +6,7 @@
 ### Cinema
 
 - [Sound Design | Aidin Robbins](https://www.youtube.com/playlist?list=PLWPee627x2SbTbBub80dqKxM4pvQxUrx2)
+- https://www.youtube.com/c/TomasGeorge/playlists
 
 ### Reference
 

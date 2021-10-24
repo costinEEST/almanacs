@@ -269,6 +269,8 @@
 - https://www.scriptjunkie.us/2020/01/dispelling-decentralization-doubts + https://twitter.com/scriptjunkie1/status/1218213716648497152
 - [A Blog Hosted On ENS+IPFS Powered By Svelte+Sapper](https://ronan.eth.link/blog/blog-hosted-on-ens-ipfs)
 - https://hackmd.io/@aimeez/H15SJ7zJv
+- [How IPFS is broken](https://fiatjaf.com/d5031e5b.html)
+
 
 ### SSH
 

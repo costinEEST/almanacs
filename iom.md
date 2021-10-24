@@ -127,7 +127,8 @@
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
 - [What's the best beginner guide to DeFi?](https://twitter.com/PaulRBerg/status/1412081828614246400)
 - https://github.com/jsjoeio/web3-cheatsheet
-- https://lukekanies.com/series-blockchain-without-blockchain/
+- https://lukekanies.com/series-blockchain-without-blockchain
+- https://github.com/fiatjaf/awesome-lnurl
 
 ### Boilerplate
 

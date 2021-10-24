@@ -51,6 +51,10 @@
 - [Prietenii Editurii Rabten](https://us9.campaign-archive.com/home/?u=631f68b23c06eceac05035aff&id=194eb176a7)
 - [Dunhuang Foundation](https://us10.campaign-archive.com/home/?u=069b842b10e7ad40bfba99e7f&id=c2f585d33a)
 
+### Constructions
+
+- [Brian Potter](https://constructionphysics.substack.com/archive)
+
 ### Cloud
 
 - https://offbynone.io/issues
@@ -193,5 +197,9 @@
 ### Politics
 
 - [A newsletter by Bill Bishop, an expert on Chinese politics.](https://sinocism.com/archive) + https://twitter.com/niubi
+
+### Social sciences
+
+- [Luke Burgis](https://archive.feedblitz.com/1110672)
 
 
