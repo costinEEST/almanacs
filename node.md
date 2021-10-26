@@ -72,6 +72,7 @@
 
 ### Bot
 
+- [Supercharge Your Slack Productivity: Discover hacks and tips for managing and automating your workflow with Slack and Slack bots](https://www.amazon.com/Supercharge-Your-Slack-Productivity-automating/dp/1800569629)
 - [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
 - https://jasonet.co/posts/build-your-own-probot
 - https://github.com/srepollock/quote-bot-twitter + https://medium.com/swlh/how-i-built-a-serverless-aws-lambda-twitter-bot-in-nodejs-in-a-single-day-6901f8df13f0

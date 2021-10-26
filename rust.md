@@ -19,6 +19,7 @@
 - https://github.com/lambda-magic/plt-books/tree/master/Rust
 - https://github.com/sger/RustBooks
 - https://github.com/lborb/book
+- https://github.com/Dhghomon/easy_rust
 
 ### Bot
 

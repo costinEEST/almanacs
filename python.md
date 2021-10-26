@@ -6,6 +6,10 @@
 - https://github.com/mjhea0/awesome-fastapi
 - https://blog.thea.codes/building-a-stateless-api-proxy
 
+### Algorithms
+
+- https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634 + https://www.dailycodingproblem.com/blog/archives
+
 ### Book
 
 - https://github.com/changwookjun/StudyBook

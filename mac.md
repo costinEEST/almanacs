@@ -11,6 +11,7 @@
 - https://www.macrumors.com/2020/12/29/apple-researching-keyboards-with-displays-on-keys
 - https://rosenzweig.io/blog/asahi-gpu-part-1.html
 - https://www.freecodecamp.org/news/build-a-hackintosh
+- [Is the latest MacBook Pro a good/valid option for Android development?](https://twitter.com/JorgeCastilloPr/status/1452254270653403150)
 
 ### Tool
 

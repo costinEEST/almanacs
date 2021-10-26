@@ -51,3 +51,4 @@
 - [Paramdeo Singh](https://paramdeo.com/bookshelf)
 - https://doriantaylor.com/book
 - [Sergio Mattei](https://matteing.com/books)
+- [Engin Arslan](https://www.enginarslan.com/library)

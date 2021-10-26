@@ -12,6 +12,10 @@
 - [A book cataloging tool for Android phones.](https://github.com/eleybourn/Book-Catalogue)
 - https://github.com/pcqpcq/open-source-android-apps
 
+### Book
+
+- [Jetpack Compose internals](https://leanpub.com/composeinternals) + https://twitter.com/JorgeCastilloPr/status/1420427677044035592
+
 ### Community
 
 - [Chiu-Ki Chan](http://chiuki.github.io)
