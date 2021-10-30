@@ -364,6 +364,7 @@ javascript: (() =>
 
 ### Miscellaneous
 
+- [Web Browser Engineering](http://browser.engineering)
 - https://wiki.systemcrafters.net/guix/browsers
 - https://github.com/vasanthk/how-web-works
 - [The End of Indie Web Browsers: You Can (Not) Compete.](https://news.ycombinator.com/item?id=21992050)
@@ -372,6 +373,7 @@ javascript: (() =>
 - https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-browsers-1
 - https://alan.norbauer.com/articles/browser-debugging-tricks
 - https://textslashplain.com/2020/09/25/web-debugging-watching-element-changes
+- https://github.com/styfle/breaking-changes-web
 
 ### Tool
 - [quiver is a modern, graphical editor for commutative and pasting diagrams, capable of rendering high-quality diagrams for screen viewing, and exporting to LaTeX](https://github.com/varkor/quiver)

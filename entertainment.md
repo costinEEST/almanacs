@@ -194,6 +194,7 @@
 - https://www.youtube.com/user/urbanTrash/playlists
 - https://constructionphysics.substack.com/p/book-review-industrialized-building
 - [A little bit of everything from woodcarving, woodworking projects, crafts](https://www.youtube.com/c/DougOutside/playlists)
+- https://quakkels.com/posts/hand-tool-woodworking
 
 ### Advertising
 

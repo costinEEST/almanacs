@@ -5,6 +5,7 @@
 ### Aristotle
 
 - https://fivebooks.com/best-books/aristotle-edith-hall
+- https://quakkels.com/posts/developing-strength-of-character
 
 ### Aaron Swartz
 

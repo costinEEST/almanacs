@@ -52,6 +52,8 @@
 - https://www.adsbynimbus.com/tech-blog/dynamic-programming + https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf
 - [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - https://github.com/martensonbj/fem-intro-to-go
+- [Web Architecture, Git, Curl, Interfaces, Context, Error Handling, & Escape Analysis](https://www.udemy.com/course/learn-golang)
+- [Mastering Go Modules, gRPC, Crawling, and Collaboration with Git](https://www.udemy.com/course/golang-tutorial)
 
 ### Cinema
 

@@ -30,6 +30,7 @@
 - [What Is a Standard Container (2021 edition)](https://iximiuz.com/en/posts/oci-containers)
 - [Containers history lesson](https://twitter.com/iximiuz/status/1436659599776616453)
 - [How to grasp Containers and Docker (Mega Thread)](https://twitter.com/iximiuz/status/1423984739514454033)
+- https://sysdig.com/blog/container-security-best-practices
 
 ### Internals
 
@@ -56,6 +57,7 @@
 - https://github.com/alexandrunastase/ro-de-keyboard-layout
 - [outrun: Execute a local command using the processing power of another Linux machine.](https://github.com/Overv/outrun)
 - [Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.](https://github.com/nicolargo/glances)
+- https://quakkels.com/posts/my-favorite-tools-on-linux
 
 ### TIL
 

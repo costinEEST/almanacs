@@ -240,6 +240,7 @@
 - [30+ books I recommend for PhDs](https://fromphdtolife.com/resources/recommended-reading)
 - https://www.esquire.com/lifestyle/g35995934/greatest-moments-internet-history
 - https://cavesocial.com/alibaba
+- [Simulate retirement plans using historical data and gain the confidence you need to retire.](https://github.com/jamesplease/fi-calc-guide)
 
 
 ### Radio

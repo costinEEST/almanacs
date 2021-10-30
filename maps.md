@@ -29,6 +29,7 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/geography/spatial-analysis.md
 - [Reversing Google's 3D satellite mode](https://github.com/retroplasma/earth-reverse-engineering)
 - [Reverse-engineering Flyover (3D satellite mode) from Apple Maps.](https://github.com/retroplasma/flyover-reverse-engineering)
+- http://geoportal.ancpi.ro/portal/apps/webappviewer/index.html?id=faeba2d173374445b1f13512bd477bb2 + https://data.gov.ro/dataset/unitati-administrative
 
 ### Radio
 
