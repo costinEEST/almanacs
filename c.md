@@ -49,6 +49,7 @@
 - https://github.com/seven1m/malcc
 - https://godbolt.org
 - [Getting the maximum of your C compiler, for security](https://airbus-seclab.github.io/c-compiler-security) + https://twitter.com/AirbusSecLab/status/1432681320833036294
+- [Advanced compilers](https://github.com/sampsyo/cs6120)
 
 ### Virtual machines
 
@@ -98,3 +99,4 @@
 
 - https://earthly.dev/blog/jq-select + https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century
 - [weggli is a fast and robust semantic search tool for C and C++ codebases.](https://github.com/googleprojectzero/weggli)
+- [Software Engineering for Systems Hackers | David G. Andersen](http://www.cs.cmu.edu/~dga/systems-se.pdf)

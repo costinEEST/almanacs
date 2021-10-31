@@ -92,6 +92,7 @@
 - https://www.wired.com/story/mastermind-cia-disguise
 - https://github.com/bhdresh/SocialEngineeringPayloads
 - https://0xbadad.blogspot.com/2020/09/detecting-every-antidetectmulti-login.html
+- [Do you think you are safe using private browsing or incognito mode?](https://github.com/gautamkrishnar/nothing-private)
 
 ### Social media
 

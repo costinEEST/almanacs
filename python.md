@@ -124,6 +124,7 @@
 ### Scraping
 
 - https://github.com/Adithya93/webScraping
+- [Powerful and flexible Instagram scraping library for Python, providing easy-to-use and expressive tools for accessing data programmatically](https://github.com/chris-greening/instascrape)
 
 
 ### Security

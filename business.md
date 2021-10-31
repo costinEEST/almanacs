@@ -104,6 +104,7 @@
 - https://www.patkua.com/blog/book-recommendations-by-engineering-leaders
 - [Meaning making and leadership | Luke McBain](https://www.youtube.com/playlist?list=PLoQL7TYFGA1pgi5Ejf8wcN35pUgoXbw12)
 - https://www.udemy.com/course/the-complete-leadership-mastery-course
+- https://github.com/gabiduarte/awesome-techleads
 
 ### Strategy
 

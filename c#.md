@@ -25,3 +25,5 @@
 ### Miscellaneous
 
 - https://github.com/futurice/windows-app-development-best-practices
+- [Coding Guidelines for C#](https://github.com/justinamiller/Coding-Standards)
+- https://github.com/justinamiller/DotNet-Coding-Guidelines

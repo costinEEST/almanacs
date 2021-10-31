@@ -1,3 +1,7 @@
+### Community
+
+- [I want to watch some excellent explainer videos.](https://twitter.com/davidmcraney/status/1452993213850136585)
+
 ### Documentary
 
 - https://www.theatlantic.com/culture/archive/2021/04/problem-nature-documentaries/618553
@@ -35,6 +39,7 @@
 - https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time
 - https://www.thewoodsatparkside.com/5-must-see-movies-about-drug-addiction
 - https://www.pastemagazine.com/movies/dystopian-movies/best-dystopian-movies-of-all-time-1/#50-the-running-man
+- [It's almost time for my annual horror movie marathon](https://twitter.com/hasufl/status/1450856931590033412)
 
 ### Tools
 

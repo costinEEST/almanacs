@@ -7,6 +7,10 @@
 
 - https://twitter.com/daslu_/status/1376835468336193540
 
+### Practice
+
+- https://github.com/tbsschroeder/clojure-webshop-app
+
 
 ### Opinions
 

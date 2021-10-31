@@ -61,6 +61,7 @@
 - [Write Express middleware and route handlers using async/await](https://github.com/therootcompany/async-router)
 - https://fly.io/blog/api-tokens-a-tedious-survey
 - [Use Swagger v2 JSON Collections to generate Postman v1 collections which include sample request bodies](https://github.com/djfdyuruiry/swagger2-postman-generator)
+- https://github.com/xsadia/koa-todo-api
 
 
 ### Book
@@ -357,6 +358,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [If you ever wanted to gain atomicity for a series of service calls, sagas may be the right choice.](https://twitter.com/AndreyPechkurov/status/1375877582315458569) + https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
 - [React/Node.js/GraphQL Microservices App](https://www.youtube.com/playlist?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6)
 - https://github.com/PacktPublishing/Developing-Microservices-With-Nodejs
+- https://github.com/justinamiller/Microservices-Architecture-Guidelines
 
 ### Design patterns
 

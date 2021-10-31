@@ -114,6 +114,7 @@
 - https://blog.acolyer.org/2020/10/05/understanding-operational-5g
 - https://www.udemy.com/course/5g-overview
 - https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols
+- [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org) + https://www.youtube.com/playlist?list=PLsLX2lpKnQUv6nako9_whmzQ3Me-_59PC
 
 ### IP
 
@@ -153,6 +154,7 @@
 - [TCP Ports list (3498 ports in list)](https://www.gasmi.net/tcp.php)
 - [Reinventing UDP Streaming with QUIC](https://twitter.com/SimmerVigor/status/1207008500125224961)
 - https://blog.ikuamike.io/posts/2021/netcat + https://news.ycombinator.com/item?id=27973020
+- [TCP congestion control](https://twitter.com/_drbruced/status/1447691496849764357) + https://github.com/SystemsApproach/tcpcc + https://tcpcc.systemsapproach.org
 
 
 ### HTTP
@@ -297,3 +299,4 @@
 - [Getting Fiber to My Town](https://news.ycombinator.com/item?id=24424910)
 - [Easy to use device that connects to a WiFi access point, to become a hotspot.](https://twitter.com/bendechrai/status/1314886551529119744)
 - https://www.ipspace.net/Category:History
+- https://cseweb.ucsd.edu//~varghese/networkdesignautomationvision.pdf + [Did we learn anything from the Facebook outage?](https://twitter.com/_drbruced/status/1452747573127618562)

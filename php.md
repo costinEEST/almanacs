@@ -21,6 +21,10 @@
 - [CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very usefull when you're sending emails.](https://github.com/tijsverkoyen/CssToInlineStyles)
 - [A simple class that allows for querying a web server for information about a resource, w/o actually downloading that file or document](https://github.com/pes10k/PES-HTTP-Info)
 
+### Practice
+
+- https://codeopinion.com/php-upload-large-file-bug
+
 ### Tool
 
 - http://xml.mherman.org

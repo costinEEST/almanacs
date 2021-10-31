@@ -21,6 +21,9 @@
 - https://github.com/tonymorris/fp-course
 - https://github.com/alpacaaa/zero-bullshit-haskell
 - https://github.com/Guilherme775/Haskell4Noobs
+- [Basic Todo list for demonstrating CQRS/Command Sourcing](https://github.com/Eventuria/demonstration-gsd)
+- https://github.com/folivetti/Category4Programmers
+- https://github.com/bitemyapp/learnhaskell
 
 ### Radio
 

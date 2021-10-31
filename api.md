@@ -91,6 +91,9 @@ curl v2.wttr.in/Bucharest
 - [A PHP client for Apple's Find My iPhone service.](https://github.com/tylerhall/sosumi)
 - https://github.com/eveporcello/simple-strava-sample + https://moonhighway.com/incorporating-rest-data
 - https://github.com/apilayer/restcountries
+- [Brazilian Zip Code/Postal Code](https://github.com/daniserafs/CepInfo)
+- https://github.com/BrasilAPI/BrasilAPI
+- https://github.com/brazilian-utils/brazilian-utils
 
 ### Shopping
 

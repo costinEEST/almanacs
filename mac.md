@@ -35,6 +35,7 @@
 - https://www.swyx.io/new-mac-setup-2021
 - https://ospfranco.github.io/post/2021/05/24/how-to-get-the-wifi-password-on-macos
 - [Keyboard Maestro macros I use (~ 1400 macros)](https://nikitavoloboev.gumroad.com/l/kmmacros)
+- https://github.com/ovflowd/do-you-miss-your-calendar-events
 
 ### References
 

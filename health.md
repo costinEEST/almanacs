@@ -131,6 +131,10 @@
 - [Intermittent Fasting Improves Long Term Memory](https://neurosciencenews.com/intermittent-fasting-neurogenesis-memory-18522)
 - https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention
 
+### Hormones
+
+- [Psychology Hacks to Activate Your Happiness Chemicals](https://twitter.com/UpSkillYourLife/status/1452278343743725578)
+
 ### Supplements
 
 - https://www.health.harvard.edu/staying-healthy/listing_of_vitamins

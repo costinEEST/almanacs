@@ -32,6 +32,7 @@
 - [Intro to Quantum Computing - HACKADAY](https://www.youtube.com/playlist?list=PL_tws4AXg7avHFquKAB6q6cep2pnueLpM)
 - https://github.com/JanVanRyswyck/awesome-talks#computer-history
 - https://github.com/Developer-Y/cs-video-courses#quantum-computing
+- [ Event-Driven Information Systems](https://www.youtube.com/channel/UCSoUh4ikepF3LkMchruSSaQ/playlists)
 
 ### Book
 

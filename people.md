@@ -31,6 +31,11 @@
 
 - https://www.amazon.com/Bit-Player-John-Hutton/dp/B08D291YQS
 
+
+### Chris Sacca
+
+- https://twitter.com/sacca/status/1447600320205529089
+
 ### David Bohm
 
 - https://en.wikipedia.org/wiki/Bohm_Dialogue
@@ -88,6 +93,10 @@
 
 - https://www.businessinsider.com/ray-dalio-book-recommendations-for-college-students-and-investors-2019-8
 
+### Rick Hickey
+
+- https://github.com/tallesl/Rich-Hickey-fanclub
+
 ### Richard Hamming
 
 - https://twitter.com/iantay_/status/1375945517486669824 + https://www.notion.so/blog/a-roundtable-on-richard-hamming
@@ -128,6 +137,10 @@
 ### Tai Lopez
 
 - https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970
+
+### Thomas Aquinas
+
+- https://twitter.com/curiouswavefn/status/1453030427980025863
 
 
 ### Miscellaneous

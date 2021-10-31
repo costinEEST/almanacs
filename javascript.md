@@ -507,7 +507,7 @@
 - https://areknawo.com/top-js-rich-text-editor-frameworks-for-2021
 - [Tiny 200 byte functional event emitter / pubsub.](https://github.com/developit/mitt)
 - [Cross-browser utils for working with binary Blobs](https://github.com/nolanlawson/blob-util)
-- https://github.com/privatenumber/minification-benchmarks
+- [JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler](https://github.com/privatenumber/minification-benchmarks)
 - https://github.com/evanw/source-map-visualization
 - https://github.com/RunDevelopment/eslint-plugin-clean-regex
 - https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts
@@ -517,6 +517,7 @@
 - [Simple monorepos via npm workspaces and TypeScript project references](https://2ality.com/2021/07/simple-monorepos.html)
 - https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers
 - [Writing custom ESLint rules without publishing to NPM](https://stevenpetryk.com/blog/custom-eslint-rules)
+- [What's the best tool to build a monorepo?](https://twitter.com/douglasdemoura/status/1452723004954353664)
 
 ### Documentation
 
@@ -526,6 +527,7 @@
 - https://timothygu.me/es-howto + https://github.com/TimothyGu/es-howto
 - [Underscore.js annotated source](https://web.archive.org/web/20151205080537/http://documentcloud.github.io:80/underscore/docs/underscore.html)
 
-### Opinions
+### Opinion
 
 - [Building better developers by specifying criteria of success](https://github.com/prettydiff/wisdom)
+- https://github.com/justinamiller/SoftwareArchitect
