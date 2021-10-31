@@ -43,6 +43,7 @@
 - https://httptoolkit.tech/blog/find-best-git-aliases
 - [Git hook is the new Husky](https://dev.to/krzysztofkaczy9/do-you-really-need-husky-247b)
 - https://www.joepurnell.dev/blog/git-stash-a-personal-reminder
+- https://remimercier.com/how-to-use-git-bisect
 
 ### Github
 
@@ -83,6 +84,7 @@
 - https://awsteele.com/blog/2021/09/15/aws-federation-comes-to-github-actions.html
 - [View Your Repository On the Web. GH Action that renders all Markdown documents into HTML documents to view them as a website.](https://github.com/jerry-sky/vyrow)
 - https://ophirharpaz.github.io/posts/two-github-accounts-one-computer
+- https://blog.mifi.no/2021/01/10/example-github-action-workflow-to-auto-push-a-specified-directory-to-a-different-github-repo/
 
 ### Tools
 

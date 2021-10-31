@@ -176,6 +176,7 @@
 - https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa
 - [Microsoft president: Orwell’s 1984 could happen in 2024](https://www.bbc.com/news/technology-57122120)
 - https://www.leonlinsx.com/doctor-gpt3
+- [A curated list to track current scary usages of AI](https://github.com/daviddao/awful-ai)
 
 ### Security
 

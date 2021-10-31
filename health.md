@@ -8,6 +8,7 @@
 - [Psilocybin induces rapid and persistent growth of dendritic spines in frontal cortex in vivo](https://www.cell.com/neuron/fulltext/S0896-6273(21)00423-2?_)
 - https://www.amazon.com/Livewired-Inside-Story-Ever-Changing-Brain/dp/030790749X + https://eagleman.com/books/livewired
 - https://www.riedlanna.com/cognitivesciencemap.html
+- [Consuming memes during the COVID pandemic: Effects of memes and meme type on COVID-related stress and coping efficacy](https://psycnet.apa.org/record/2021-92499-001)
 
 ### Book
 
@@ -200,6 +201,7 @@
 - [Fungi on Mars? Evidence of Growth and Behavior from Sequential Images](https://news.ycombinator.com/item?id=27065361)
 - https://en.wikipedia.org/wiki/Mushroom_poisoning + https://namyco.org/docs/Mushroom_Poisoning_in_North_America_2015-2016.pdf
 - https://www.magicmushroommap.com
+- https://hyperallergic.com/686707/a-psychedelic-history-of-mushrooms-as-medicine
 
 ### Alcohol
 

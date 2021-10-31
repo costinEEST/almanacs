@@ -138,6 +138,10 @@
 - [How to achieve enterprise-grade attack-surface monitoring with open source software](https://hakluke.com/open-source-asm-spiderfoot)
 - [A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
 
+### Vagrant
+
+- [Visual Studio Code and Vagrant](https://twitter.com/iximiuz/status/1441090080760762374) + https://iximiuz.com/en/posts/how-to-setup-development-environment/#vscode-remote-vagrant
+
 ### CI/CD
 
 - https://learning.oreilly.com/library/view/advanced-microservices-a/9781484228869

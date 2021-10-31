@@ -51,6 +51,7 @@
 - https://github.com/readme/featured/open-source-filmmaking
 - https://iscoada.com/text/fenomenul-video-in-romania-anilor-80-intre-secretul-lui-polichinelle-si-operatiunea-mica-publicitate
 - [Design 3D illustrations for your next project.](https://morflax.com/mesh)
+- [The swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 
 ### Opinions
 

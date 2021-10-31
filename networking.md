@@ -74,6 +74,7 @@
 - https://genneko.github.io/playing-with-bsd/networking/freebsd-wireguard-jail
 - https://kamila.is//teaching/how-routers-work + https://news.ycombinator.com/item?id=24435454
 - https://medium.com/extend/installing-ip-cameras-or-how-i-started-monitoring-my-cats-aeb6415c682b
+- [Computer Networking in Layman's Terms](https://twitter.com/iximiuz/status/1450864740645941248)
 
 ### Telecommunications
 

@@ -147,7 +147,8 @@
 
 ### Hungarian
 
-http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
+- http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
+- [Witch Trials in Hungary 1529–1768](https://twitter.com/TheHungarianFor/status/1454910612509704192)
 
 ### Hindi
 

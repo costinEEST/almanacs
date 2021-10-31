@@ -37,6 +37,7 @@
 - https://www.wikiwand.com/ro/Cartea_Ro%C8%99ie_a_Republicii_Moldova#/Bibliografie
 - https://issuu.com/aorr.ong/docs/pestii_nistrului_de_mijloc_si_de_jos
 - https://www.eco-tiras.org/books/RDB-fish-final.pdf
+- https://www.macleans.ca/society/environment/gordon-stenhouse-grizzly-whisperer-on-humans-sharing-the-world-with-bears
 
 
 ### Anatomy

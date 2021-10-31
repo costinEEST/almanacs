@@ -68,6 +68,8 @@
 
 - https://sahilbloom.substack.com/p/the-bezos-regret-minimization-framework
 - https://www.businessinsider.com/jeff-bezos-amazon-history-facts-2017-4
+- https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world + https://gist.github.com/chitchcock/1281611 + https://youtu.be/xDdkc_RwKYI + https://www.nfx.com/post/founders-list-amazon-google-rant
+- https://salon.thefamily.co/11-notes-on-amazon-part-1-cf49d610f195
 
 ### Patrick Collison
 
@@ -165,3 +167,7 @@
 - https://www.vox.com/the-goods/2020/9/18/18253896/ruth-bader-ginsburg-style-size
 - https://en.wikipedia.org/wiki/List_of_autodidacts
 - https://github.com/rekihattori/awesome-programmers
+
+### Umberto Eco
+
+- https://dilemaveche.ro/sectiune/societate/articol/ulise-in-tesatura-topografiilor-simbolice

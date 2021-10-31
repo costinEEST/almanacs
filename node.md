@@ -239,6 +239,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 ### Tool
 
+- [List any node_modules directories in your system, as well as the space they take up](https://github.com/voidcosmos/npkill)
 - https://bret.io/projects/package-automation
 - [SSH2 client and server modules written in pure JavaScript for node.js](https://github.com/mscdex/ssh2)
 - [Displays JSON files in a flat format.](https://github.com/soheilpro/catj)
@@ -297,6 +298,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Mailtrain is a self hosted newsletter application built on Node.js (v14+) and MySQL (v8+) or MariaDB (v10+)](https://github.com/Mailtrain-org/mailtrain)
 - [A wrapper around yarn audit that fixes many issues](https://github.com/djfdyuruiry/improved-yarn-audit)
 - https://www.stefanjudis.com/today-i-learned/npm-root-locates-the-global-node-modules-directory
+- [Move desktop mouse and keyboard using NodeJS](https://gist.github.com/zt4ff/741c98081f5802997fca1244b0a1b6bf)
 
 ### Testing
 

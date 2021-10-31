@@ -56,6 +56,7 @@
 - https://github.com/Financial-Times/dotcom-page-kit
 - https://auth0.com/blog/streamlining-a-react-monorepo
 - https://blog.spencerwoo.com/2021/02/nextjs-blog-notion
+- https://github.com/jamesqquick/React-and-Serverless-Fullstack-Web-Development
 
 ### Books
 

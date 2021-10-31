@@ -37,6 +37,7 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/keyboards/qmk.md
 - https://github.com/nikitavoloboev/knowledge/blob/main/tools/dendron.md
 - https://github.com/nikitavoloboev/knowledge/blob/main/tools/obsidian.md
+- [A high-performance data index and query language over Markdown files for Obsidian](https://github.com/blacksmithgu/obsidian-dataview)
 
 ### Miscellaneous
 
@@ -47,6 +48,7 @@
 - https://studyhall.xyz/the-art-of-writing-obituaries-during-a-plague
 - https://medium.com/curious/write-down-10-ideas-per-day-and-it-can-rewire-your-brain-48c096a1d30
 - https://www.christopherbiscardi.com/content-production
+- https://www.smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills
 
 
 ### Radio

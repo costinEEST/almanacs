@@ -193,6 +193,7 @@
 - https://github.com/aquario-crypto/Awesome_NFTs
 - https://buildspace.so/build-nfts
 - https://www.udemy.com/course/build-an-nft-marketplace-from-scratch-blockchain-dapp
+- https://github.com/KirstenPomales/The-State-of-NFT-Environmental-Impact-Reduction
 
 ### Smart contracts
 

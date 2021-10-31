@@ -22,6 +22,7 @@
 
 ### Containers
 
+- https://iximiuz.com/en/posts/learn-by-doing-platforms + https://twitter.com/b0rk/status/1444814295188099077
 - [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)
 - [A workshop on Linux containers: Rebuild Docker from Scratch.](https://github.com/Fewbytes/rubber-docker)
 - https://twitter.com/gkcs_/status/1300887808748347393
@@ -31,6 +32,7 @@
 - [Containers history lesson](https://twitter.com/iximiuz/status/1436659599776616453)
 - [How to grasp Containers and Docker (Mega Thread)](https://twitter.com/iximiuz/status/1423984739514454033)
 - https://sysdig.com/blog/container-security-best-practices
+- https://iximiuz.com/en/posts/containers-vs-pods
 
 ### Internals
 

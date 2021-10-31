@@ -35,6 +35,7 @@
 - https://www.udemy.com/course/learn-how-to-use-zapier-to-automate-your-business
 - [Simple cultural training & sensitization to deal with business people from various national cultures, management styles](https://www.udemy.com/course/cross-cultural-management-made-easy)
 - https://www.udemy.com/course/analytics-of-pricing-and-revenue-with-excel-python
+- [Whiteboard Videos (NFX Essays)](https://www.youtube.com/playlist?list=PLsJrGp31IOefcwlyFN9F6YPUFCNlM51hs)
 
 ### Marketing
 

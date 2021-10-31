@@ -18,3 +18,8 @@
 - https://bobburrough.com/public/post/renewable_energy_for_consumer_devices
 - https://www.bbc.com/future/article/20210706-how-flooded-coal-mines-could-heat-homes
 - https://iscoada.com/eseu/avocado-cocaina-si-ulei-de-palmier
+
+### Reference
+
+- [A curated list of ground-truth forest datasets for the machine learning and forestry community](https://github.com/blutjens/awesome-forests)
+- [A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources](https://github.com/protontypes/open-sustainable-technology)
