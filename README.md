@@ -112,6 +112,7 @@
 - [Ruby](ruby.md)
 - [Rust](rust.md)
 - [Speak!](speak.md)
+- [Sports](sport.md)
 - [Scalable Vector Graphics](svg.md)
 - [Statistics](statistics.md)
 - [Survival skills](survival.md)
