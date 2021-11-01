@@ -43,6 +43,7 @@
 - [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w) + https://twitter.com/jure/status/1382743017283493889 + https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 - https://www.freecodecamp.org/news/advanced-computer-vision-with-python
 - https://www.udemy.com/course/learn-machine-learning-in-21-days
+- https://inst.eecs.berkeley.edu/~cs188/su21
 
 ### Cinema
 

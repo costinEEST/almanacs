@@ -60,6 +60,7 @@
 - [outrun: Execute a local command using the processing power of another Linux machine.](https://github.com/Overv/outrun)
 - [Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.](https://github.com/nicolargo/glances)
 - https://quakkels.com/posts/my-favorite-tools-on-linux
+- https://nelsonslog.wordpress.com/2021/10/31/a-simple-systemd-unit-file
 
 ### TIL
 

@@ -3,6 +3,7 @@
 - [Algorithms and data structures as visual animations.](https://www.chrislaux.com)
 - [Everything you need to prepare for your technical interview](https://github.com/andreis/interview)
 - https://twitter.com/kenpex/status/1211796966495141888
+- https://fermatslibrary.com/s/perfect-numbers
 
 ### Data structures
 

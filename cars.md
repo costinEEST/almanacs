@@ -17,3 +17,4 @@
 ### Opinions
 
 - https://www.spectator.co.uk/article/why-i-wont-buy-a-tesla
+- https://honda.asko.ro/blog/profesiile-conduc-it-honda

@@ -179,6 +179,8 @@
 - [Kanban style New Tab Page extension with your bookmarks and powerful search](https://github.com/d3ward/b2ntp)
 - https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate
 - [I wanted to see how much time I was spending on each website and set limits for certain ones.](https://github.com/cupcakearmy/ora)
+- [Forces Apple docs to open in Objective-C](https://github.com/dimitarnestorov/apple-docs-force-default-language) + https://twitter.com/dimitarnestorov/status/1280734520891912192
+- [A tweak that enables iOS safari to load chrome extensions](https://github.com/xuan32546/iOS-Safari-Extension)
 
 ### Bookmarklets
 

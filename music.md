@@ -28,6 +28,10 @@
 - https://www.udemy.com/course/beginnerselectronicmusictheory
 - https://www.salon.com/2021/10/16/25-great-rockumentaries-every-music-and-movie-fan-should-see_partner
 
+### Community
+
+- [Vanzari instrumente muzicale second-hand](https://www.facebook.com/groups/vanzari.second)
+
 ### Instrument
 
 - [Can anyone suggest a Guitar for beginners?](https://twitter.com/divyanshub024/status/1212427300345503744)
