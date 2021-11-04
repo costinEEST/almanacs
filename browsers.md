@@ -339,7 +339,7 @@ javascript: (() =>
 - https://github.com/rezaali/webgl-tutorial
 - https://github.com/rezaali/webgl-sketches
 - https://github.com/stackgl/webgl-workshop
-- [Javascript and the next decade of data programming](http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu) + https://github.com/rofrol/awesome-wgpu
+- [Javascript and the next decade of data programming](http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu) + https://github.com/rofrol/awesome-wgpu + https://github.com/danbev/learning-gpgpu
 - https://www.amazon.com/Learning-Three-js-JavaScript-Library-Second/dp/1784392219
 - https://www.davrous.com/2020/03/22/understanding-shaders-the-secret-sauce-of-3d-engines
 - [an experiment to make something like "vvvv" in javascript, html and webgl.](https://github.com/idflood/ThreeNodes.js)

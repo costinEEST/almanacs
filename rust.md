@@ -41,6 +41,7 @@
 - [TCP/IP Fundamentals](https://lowlvl.org) + https://twitter.com/nbaksalyar/status/1307665001570762752
 - https://github.com/integer32llc/rust-in-motion-videos
 - https://docs.microsoft.com/en-gb/learn/paths/rust-first-steps
+- https://github.com/yoshuawuyts/rust-for-js-peeps
 
 ### Tutorials
 

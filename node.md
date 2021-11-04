@@ -114,6 +114,7 @@
 - https://github.com/ryansonshine/typescript-npm-package-template
 - [a project to create your own personal podcast feed](https://github.com/inian/personal-casts)
 - https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction
+- [Simple HTTP Rest example using express](https://github.com/nodeshift-starters/nodejs-rest-http)
 
 ### Cinema
 
@@ -207,8 +208,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 ### Stream
 
-- [Stream into the Future - Matteo Collina, NearForm](https://youtu.be/dEFdt_6fW-0)
-- https://twitter.com/djgrant_/status/1296395202056327172
+- [Stream into the Future - Matteo Collina](https://youtu.be/dEFdt_6fW-0) + https://twitter.com/djgrant_/status/1296395202056327172
 - https://github.com/lrlna/sketchin/blob/master/guides/node-streams.md
 - https://developer.mongodb.com/how-to/capturing-hacker-news-mentions-nodejs-mongodb
 - https://2ality.com/2019/11/nodejs-streams-async-iteration.html
@@ -368,6 +368,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 ### Design patterns
 
+- https://github.com/nodeshift/nodejs-reference-architecture
 - [Hacker news-inspired forum app built with TypeScript & DDD from solidbook.io.](https://github.com/stemmlerjs/ddd-forum)
 
 ### Security
