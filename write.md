@@ -6,6 +6,7 @@
 - https://www.amazon.com/How-Do-Things-Words-Lectures/dp/0674411528 + https://youtu.be/2lQHHcNp618
 - [On (technical/scientific) writing](https://yurichev.com/news/20200801_on_writing)
 - https://www.amazon.com/Cuneiform-Irving-L-Finkel/dp/0714111880
+- https://www.academia.edu/44800810/Good_With_Words_By_PATRICK_BARRY + https://www.coursera.org/specializations/good-with-words + https://www.youtube.com/playlist?list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRDnaf 
 
 ### Cinema
 

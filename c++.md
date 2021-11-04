@@ -41,6 +41,7 @@
 - [How can I detect which C++ compiler is used?](https://twitter.com/foonathan/status/1351251411779133440) + https://quuxplusone.github.io/blog/2021/01/13/conversion-operator-lookup
 - https://huangxuan.me/2020/06/21/data-rep-float
 - https://dmiller.dev/blog/2020/8/25/c-interfaces-and-templates
+- https://blog.m-ou.se/compile-time-unit-arithmetic
 
 ### Implementations
 

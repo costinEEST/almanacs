@@ -16,6 +16,7 @@
 ### Course
 
 - https://news.ycombinator.com/item?id=23070491
+- https://www.udemy.com/course/database-engines-crash-course
 - [CMPT 354: Database Systems and Structures (Summer 1998)](https://www2.cs.sfu.ca/CourseCentral/354/zaiane/material/notes/contents.html)
 - https://www.sqlhabit.com/blog/posts/how-to-detect-recurring-payments-with-sql
 - https://blog.bradfieldcs.com/how-to-learn-about-database-systems-40c7432f471d

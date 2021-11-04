@@ -270,3 +270,4 @@
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
 - https://github.com/openblocksec/blocksec-incidents
 - [Blockchain Hacking QuickStart Guide](https://start.blockchainhax.com) + https://www.slideshare.net/dafthack/getting-started-in-blockchain-security-and-smart-contract-auditing
+- https://infosecadalid.com/2021/09/14/smart-contracts-and-cybersecurity

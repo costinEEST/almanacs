@@ -70,6 +70,7 @@
 - https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing-in-nodejs
 - https://twitter.com/loige/status/1312531675109232640
 - https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition
+- https://github.com/Fictizia/Master-en-Programacion-FullStack-con-JavaScript-y-Node.js_ed3
 
 ### Bot
 
@@ -196,6 +197,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://gils-blog.tayar.org/tags/esm
 - https://github.com/giltayar/ah-theyre-here-esm-nodejs
 - [Easily install, configure and compose Node.js ESM loaders.](https://github.com/targos/multiloader) + https://twitter.com/giltayar/status/1437273836899164160
+- [What is the best way to check if a node module/file is being called like a script instead of requiring it?](https://twitter.com/sseraphini/status/1455954446656098310)
 
 
 ### Event loop
@@ -308,6 +310,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Build an HTTPS-intercepting JavaScript proxy](https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp)
 - [Code-coverage using Node.js' built in functionality that's compatible with Istanbul's reporters.](https://github.com/bcoe/c8)
 - [Memory leak testing for node.](https://github.com/andywer/leakage)
+- [The globals are still node globals, but since they’re created in two different context they fail instanceof checks](https://twitter.com/matteocollina/status/1453029660925861901)
+- [Why mocha?](https://twitter.com/RogersKonnor/status/1453205169995403268) + 
 
 ### Web servers
 

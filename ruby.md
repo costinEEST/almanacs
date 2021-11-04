@@ -29,3 +29,4 @@
 - https://ankane.org/ruby-ml-for-python-coders
 - https://github.com/mtarnovan/romanianvalidators
 - [gem for determining whether a given URL is considered an IDN homograph attack](https://github.com/kickstarter/ruby-homograph-detector)
+- https://github.com/a6b8/ascii-to-svg-generator-for-ruby

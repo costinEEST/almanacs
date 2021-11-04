@@ -5,6 +5,10 @@
 - https://gumroad.com/l/gnu_awk + https://leanpub.com/gnu_awk
 - https://leanpub.com/anti-reverse-engineering-linux
 
+### Cinema
+
+- [Writing a Hypervisor to be able to run MacOS inside it | Hector Martin](https://www.youtube.com/playlist?list=PL68XxS4_ek4ab49xb5qcODWQETyC5vbHi)
+
 ### Course
 
 - https://linuxjourney.com + https://github.com/cindyq/linuxjourney

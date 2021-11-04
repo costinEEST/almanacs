@@ -33,8 +33,11 @@
 - [The Development of Writing - The Oriental Institute](https://www.youtube.com/playlist?list=PLmXaxHgt2ww-5iaGS85AavCctyfM252wu)
 - [Brian Loo Soon Hua](https://www.youtube.com/channel/UC06QVomuK9XKcU7-qsM67uQ/playlists)
 - [TESOL and TPRS Course (For Language Teachers)](https://www.udemy.com/course/tesol-and-tprs-course-)
+- [Good with Words: Speaking and Presenting | Michigan Law](https://www.youtube.com/playlist?list=PL7g_CQSlG4S8IV8xVtg8Gc8GWlSubUFl0)
+- https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018 + https://youtu.be/Unzc731iCUY + https://www.memoriesofpatrickwinston.com
 
-### Books
+
+### Book
 
 - [Our Magnificent Bastard Tongue: The Untold History of English.](https://www.amazon.com/Our-Magnificent-Bastard-Tongue-History/dp/1592404944)
 - [Books on Linguistics and TESOL](https://www.youtube.com/playlist?list=PLOY-0V_l_9x5zyZvaYnc-TuZjDuX-txNS)
@@ -43,6 +46,7 @@
 - https://www.cntraveler.com/gallery/22-ambassadors-recommend-the-one-book-to-read-before-visiting-their-country
 - [Indo-European languages from Uni Göttingen.](https://spw.uni-goettingen.de/projects/aig)
 - [Early Indo-European Online](https://lrc.la.utexas.edu/eieol)
+- [Responsive Communication. Patterns for Making Sense](http://www.ankn.uaf.edu/curriculum/AxeHandleAcademy/rc/50patterns.htm)
 
 ### Application
 
@@ -227,3 +231,11 @@
 ### Rare
 
 - https://www.nytimes.com/2021/10/06/us/marie-wilcox-dead.html + https://emergencemagazine.org/feature/language-keepers/#/chapter/wukchumni
+
+
+### Storytelling
+
+- [Out on the Wire: The Storytelling Secrets of the New Masters of Radio](https://www.amazon.com/dp/0385348436)
+- https://nicholasreese.com/persuasive-storytelling
+- https://www.theatlantic.com/health/archive/2015/08/life-stories-narrative-psychology-redemption-mental-health/400796
+- https://blog.raeez.com/story-telling

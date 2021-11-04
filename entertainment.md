@@ -15,18 +15,6 @@
 - https://podcast.babeljs.io
 - https://www.perell.com/blog/how-i-produce-a-podcast
 
-### Storytelling
-
-- [Out on the Wire: The Storytelling Secrets of the New Masters of Radio](https://www.amazon.com/dp/0385348436)
-- https://nicholasreese.com/persuasive-storytelling
-- https://www.theatlantic.com/health/archive/2015/08/life-stories-narrative-psychology-redemption-mental-health/400796
-- https://blog.raeez.com/story-telling
-
-### Public speaking
-
-- https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018 + https://youtu.be/Unzc731iCUY + https://www.memoriesofpatrickwinston.com
-- [50 patterns for responsive communication](http://www.ankn.uaf.edu/curriculum/AxeHandleAcademy/rc/50patterns.htm)
-
 ### Board games
 
 - https://www.amazon.com/Holstee-Reflection-Cards-Connections-Conversations/dp/B07JM14W5L

@@ -236,6 +236,10 @@ javascript: (() =>
 - [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
 - https://honzajavorek.cz/blog/how-i-consume-content
 
+### Safari
+
+- [In my app when a user clicks play, I remove all audio elements, swap them with fresh ones, and attempt to autoplay for the user.](https://twitter.com/RogersKonnor/status/1453596502098644994) + https://github.com/cableready/audio_operations
+
 ### Opera
 
 - [Standalone client for proxies of Opera VPN](https://github.com/Snawoot/opera-proxy)

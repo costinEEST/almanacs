@@ -25,6 +25,7 @@
 - https://opendatascience.com/dissecting-the-software-designing-approach-of-design-by-contract + https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214
 - https://github.com/jakevdp/PythonDataScienceHandbook
 - https://github.com/pamoroso/free-python-books
+- https://github.com/PacktPublishing/Learning-Python-Networking-Second-Edition
 
 ### Bots
 

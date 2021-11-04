@@ -366,6 +366,7 @@
 
 - https://www.manning.com/books/testing-javascript-applications
 - https://www.udemy.com/course/react-testing-with-jest-and-enzyme
+- https://github.com/zamarrowski/Curso-React-Testing-GraphQL
 - [UI Testing with React, Mirage, Jest and Testing Library](https://youtu.be/3taVrGZVCr8)
 - [Testing React by Leigh Halliday](https://www.youtube.com/playlist?list=PL8fumNHsC-3NaPNxh2bous6bBDWwJ4r1-)
 - [Jest - A-Z by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQriFZkYhvhy1KFM21-l7VyL-)
