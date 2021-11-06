@@ -8,6 +8,7 @@
 
 - https://www.pluralsight.com/courses/debugging-testing-publishing-flutter-app
 - https://github.com/aaachris/world_of_beer
+- https://github.com/mikeukay/books_admin
 
 ### Cinema
 

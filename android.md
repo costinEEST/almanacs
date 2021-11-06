@@ -68,6 +68,7 @@
 - https://tinyletter.com/sqisland/letters/square-island-start-developing-for-android
 - https://github.com/android/architecture-components-samples
 - [A list of an android lib's make your coding life easier](https://github.com/CreatorB/Android-Library)
+- [App for picture maintenance](https://github.com/timitoc/groupicture)
 
 ### TV
 

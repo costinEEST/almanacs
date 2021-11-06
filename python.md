@@ -6,9 +6,11 @@
 - https://github.com/mjhea0/awesome-fastapi
 - https://blog.thea.codes/building-a-stateless-api-proxy
 
-### Algorithms
+### Algorithm
 
 - https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634 + https://www.dailycodingproblem.com/blog/archives
+- https://github.com/donnemartin/interactive-coding-challenges
+- https://github.com/joswha/interviewpreparation
 
 ### Book
 
@@ -65,6 +67,7 @@
 - https://www.freecodecamp.org/news/how-to-automate-things-using-python
 - https://www.udemy.com/course/django-for-wordpress-developers
 - https://www.udemy.com/course/python-for-bioinformatics-self-learning-course
+- https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
 
 ### Cinema
 
@@ -91,6 +94,7 @@
 - https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks
 - https://backdrifting.net/post/001_implementing_traceroute
 - [Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡](https://github.com/schollz/howmanypeoplearearound)
+- [Impacket is a collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
 
 ### Quirks
 
@@ -126,6 +130,7 @@
 
 - https://github.com/Adithya93/webScraping
 - [Powerful and flexible Instagram scraping library for Python, providing easy-to-use and expressive tools for accessing data programmatically](https://github.com/chris-greening/instascrape)
+- https://github.com/KalmykAlex/emag_crawler
 
 
 ### Security
@@ -139,6 +144,7 @@
 - [Use AI to detect bots using a neural network (e.g. PyBrain), and determine which requests during a DDoS are legitimate.](https://github.com/SaveTheRbtz/junk/tree/master/neural_networks_vs_ddos)
 - https://github.com/johnjhacking/Buffer-Overflow-Guide
 - https://github.com/jorritfolmer/vulnerable-api
+- https://github.com/andresriancho/race-condition-exploit
 
 ### Servers
 
@@ -150,7 +156,7 @@
 - https://treyhunner.com/2019/05/python-builtins-worth-learning
 - https://medium.com/@vmsp/less-known-bits-of-the-python-standard-library-46dc88490115
 
-### Tools
+### Tool
 
 - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier: [repo](https://github.com/byt3bl33d3r/WitnessMe) + [video](https://www.youtube.com/watch?v=xMeJoaEJshQ)
 - https://github.com/bamos/reading-list
@@ -180,7 +186,8 @@
 - [How to Google Any Selected Text with a Keyboard Shortcut](https://github.com/codezri/googlezri)
 - [ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code](https://github.com/nexB/scancode-toolkit) + https://scancode-licensedb.aboutcode.org
 - [A Python package that creates name suggestions for companies, software, etc.](https://github.com/AlexEngelhardt/startup-name-generator)
-
+- https://github.com/siddhesh/find-unicode-control
+- https://github.com/iosifache/scripts/tree/main/md_to_latex
 
 
 ### Testing

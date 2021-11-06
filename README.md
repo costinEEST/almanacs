@@ -111,6 +111,7 @@
 - [ReasonML](reasonml.md)
 - [Ruby](ruby.md)
 - [Rust](rust.md)
+- [Scala](scala.md)
 - [Speak!](speak.md)
 - [Sports](sport.md)
 - [Scalable Vector Graphics](svg.md)

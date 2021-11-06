@@ -107,6 +107,7 @@
 - https://github.com/reacherhq/check-if-email-exists
 - [Return an emoji representing the current moon phase.](https://github.com/rickycodes/moonmoji)
 - [Yet another remote desktop software](https://github.com/rustdesk/rustdesk)
+- https://kerkour.com/blog/rust-reproducible-cross-compilation-with-docker
 
 ### Opinions
 

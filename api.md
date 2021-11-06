@@ -28,6 +28,7 @@
 - [Get RSS Feeds for YouTube channels and playlists](https://github.com/faraixyz/youtube-x-rss)
 - https://www.ctnicholas.dev/articles/integrate-twitter-newsletters-with-api-routes
 - https://github.com/odomojuli/RegExAPI
+- https://github.com/ping/instagram_private_api
 
 ### GraphQL
 
@@ -67,6 +68,7 @@
 - https://github.com/Cazaimi/circadian-api
 - [FoodData Central (FDC)](https://fdc.nal.usda.gov/about-us.html) + https://github.com/USDA/USDA-APIs/issues/92
 - https://github.com/ChickenKyiv/awesome-food-open-source
+- https://github.com/openfoodfacts/openfoodfacts-python
 
 ### Weather
 

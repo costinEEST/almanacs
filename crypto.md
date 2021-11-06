@@ -26,12 +26,13 @@
 - https://www.amazon.com/Battle-Wits-Complete-Story-Codebreaking/dp/0743217349
 - https://www.amazon.com/Memoirs-American-Cryptologic-Pioneer-Cryptography/dp/0894122738
 
-### Courses
+### Course
 
 - [Introduction to Cryptography (89-656), in Hebrew](https://www.youtube.com/playlist?list=PLM96W_EHEqh4ImClhKxuH4Fqm_Ieiok_B) + https://u.cs.biu.ac.il/~lindell/89-656/main-89-656.html
 - [Introduction to Cryptography - 1s2017](https://docs.google.com/spreadsheets/d/11_dfB1B1iTqjfMBjoWBtLkD14kCxDHsw-wsUbvIfaNg/pubhtml)
 - https://github.com/mikong/stanford-cryptography
 - https://github.com/mithi/simple-cryptography
+- https://github.com/iosifache/CryptographyProjects
 
 ### Cinema
 

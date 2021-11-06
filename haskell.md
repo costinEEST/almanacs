@@ -24,6 +24,7 @@
 - [Basic Todo list for demonstrating CQRS/Command Sourcing](https://github.com/Eventuria/demonstration-gsd)
 - https://github.com/folivetti/Category4Programmers
 - https://github.com/bitemyapp/learnhaskell
+- https://github.com/google/haskell-trainings
 
 ### Radio
 

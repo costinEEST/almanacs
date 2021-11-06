@@ -15,10 +15,6 @@
 
 - https://nicknisi.com/posts/2015-11-02-tmux-for-presentation
 
-### LaTeX
-
-- [Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.](https://github.com/James-Yu/LaTeX-Workshop)
-
 
 ### Tools
 

@@ -142,6 +142,7 @@
 - https://tech.ovoenergy.com/how-we-prevented-subdomain-takeovers-and-saved-000s + https://github.com/ovotech/domain-protect
 - https://www.netmeister.org/blog/hostnames.html
 - [Compare public DNS resolver results](https://www.netmeister.org/puddy)
+- [c-ares: asynchronous DNS resolver library](https://github.com/danbev/learning-cares)
 
 ### TCP/UDP
 

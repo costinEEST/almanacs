@@ -71,6 +71,7 @@
 - https://twitter.com/loige/status/1312531675109232640
 - https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition
 - https://github.com/Fictizia/Master-en-Programacion-FullStack-con-JavaScript-y-Node.js_ed3
+- https://github.com/joswha/Secure-Coding-Handbook
 
 ### Bot
 
@@ -87,6 +88,7 @@
 - https://www.freecodecamp.org/news/discord-ai-chatbot
 - [Create Telegram bot with NodeJS and Firebase Cloud Functions](https://www.udemy.com/course/telegram-firebase-bot) + https://www.youtube.com/playlist?list=PLhMX5hA0NWUQoRqYNFBE35NlUn1J915M0
 - https://github.com/christian-fei/simple-telegram-message
+- [A simple Telegram ↔ IRC gateway](https://github.com/FruitieX/teleirc)
 
 ### Boilerplate
 
@@ -152,6 +154,10 @@
 - https://github.com/ArturJS/nodejs-certification-preparation
 - https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners
 - https://github.com/kryz81/awesome-nodejs-learning
+
+### Community
+
+- https://github.com/nodejs/web-server-frameworks#web-server-frameworks-team-members
 
 ### Debugging
 

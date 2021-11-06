@@ -13,7 +13,7 @@
 - https://github.com/Divlo/create-fullstack-app
 - https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node
 - https://github.com/CodelyTV/typescript-ddd-example
-- https://github.com/bitjson/typescript-starter
+- [Quickly create and configure a new library or Node.js project](https://github.com/bitjson/typescript-starter)
 
 
 ### Cinema
@@ -69,6 +69,7 @@
 - [TypeScript build examples and workflows.](https://github.com/serbanghita/TypeScript-Builds)
 - [Just migrated a project from Flow to TypeScript.](https://twitter.com/satya164/status/1071953492544233472)
 - https://blog.ghaiklor.com/2021/07/19/let-us-improve-your-skill-set-when-working-with-typescript + https://github.com/ghaiklor/type-challenges-solutions + https://blog.beraliv.dev/2021-04-04-type-challenges
+- [TypeScript paths with Node.js without any additional bundling/transformation step](https://github.com/fox1t/ts-paths-node-native)
 
 
 ### Reference
@@ -102,6 +103,7 @@
 - https://wapl.es/typescript/2019/03/14/xml-jsx-sitemaps-in-typescript.html
 - https://dev.to/43081j/strongly-typed-event-emitters-using-eventtarget-in-typescript-3658
 - [A SQL database implemented purely in TypeScript type annotations.](https://github.com/codemix/ts-sql)
+- https://github.com/ghoullier/awesome-template-literal-types
 
 ### Tool
 

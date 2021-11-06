@@ -11,6 +11,10 @@
 
 - [Daniel Duggan](https://www.patreon.com/_RastaMouse)
 
+### Practice
+
+- https://github.com/Necula-Horatiu/How-you-type
+
 
 ### Tool
 

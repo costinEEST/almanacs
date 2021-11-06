@@ -39,6 +39,7 @@
 - https://github.com/jaybutera/Abstract-Algebra
 - https://greenteapress.com/wp/think-complexity-2e
 - [physics/math books that don't just recycle known arguments/history but present either a new viewpoint or lesser-known aspects of history?](https://twitter.com/curiouswavefn/status/1436809822704324609)
+- https://www.amazon.com/Mysticism-modern-mathematics-Hastings-Berkeley/dp/1418181862
 
 ### Courses
 

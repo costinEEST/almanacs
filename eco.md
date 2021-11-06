@@ -23,3 +23,4 @@
 
 - [A curated list of ground-truth forest datasets for the machine learning and forestry community](https://github.com/blutjens/awesome-forests)
 - [A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources](https://github.com/protontypes/open-sustainable-technology)
+- https://kerkour.com/blog/fight-climate-change-as-a-technologist + https://twitter.com/SylvainKerkour/status/1443252509670318084

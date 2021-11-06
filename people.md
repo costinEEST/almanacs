@@ -143,6 +143,7 @@
 ### Thomas Aquinas
 
 - https://twitter.com/curiouswavefn/status/1453030427980025863
+- https://humanitas.ro/humanitas/carte/patimile-sfantului-tommaso-daquino
 
 
 ### Miscellaneous

@@ -94,6 +94,7 @@
 - [Leonardo Da Vinci: New family tree spans 21 generations, 690 years, finds 14 living male descendants](https://www.eurekalert.org/pub_releases/2021-07/tca-ldv070221.php)
 - https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome
 - https://www.slashgear.com/mits-latest-glowing-plants-pave-the-way-for-passive-lighting-in-smart-cities-20691625
+- [3d engine implementation in DNA code](https://github.com/pallada-92/dna-3d-engine)
 
 
 ### Teachers

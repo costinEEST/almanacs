@@ -94,6 +94,8 @@
 - https://0xbadad.blogspot.com/2020/09/detecting-every-antidetectmulti-login.html
 - [Do you think you are safe using private browsing or incognito mode?](https://github.com/gautamkrishnar/nothing-private)
 - https://www.axios.com/soros-hoffman-disinformation-tara-mcgowan-b1e7cb89-a4f7-4281-8e0a-3877fe8a3944.html + https://www.anotheracronym.org
+- https://github.com/jonaslejon/tor-fingerprint
+- https://github.com/tylerault/flashdetect
 
 ### Social media
 

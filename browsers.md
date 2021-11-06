@@ -181,6 +181,7 @@
 - [I wanted to see how much time I was spending on each website and set limits for certain ones.](https://github.com/cupcakearmy/ora)
 - [Forces Apple docs to open in Objective-C](https://github.com/dimitarnestorov/apple-docs-force-default-language) + https://twitter.com/dimitarnestorov/status/1280734520891912192
 - [A tweak that enables iOS safari to load chrome extensions](https://github.com/xuan32546/iOS-Safari-Extension)
+- https://github.com/mhadidg/refined-linkedin-feed
 
 ### Bookmarklets
 
@@ -382,7 +383,7 @@ javascript: (() =>
 - https://github.com/styfle/breaking-changes-web
 
 ### Tool
-- [quiver is a modern, graphical editor for commutative and pasting diagrams, capable of rendering high-quality diagrams for screen viewing, and exporting to LaTeX](https://github.com/varkor/quiver)
+
 - [rrweb is an open source web session replay library, which provides easy-to-use APIs to record user's interactions and replay it remotely.](https://github.com/rrweb-io/rrweb)
   
 ### History

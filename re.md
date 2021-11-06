@@ -21,7 +21,7 @@
 - [Low Level PC/Server Attack & Defense — By @XenoKovah of @DarkMentorLLC](https://darkmentor.com/timeline.html) + https://gitlab.com/XenoKovah/low-level_security_timeline
 - https://www.driverentry.com + https://twitter.com/yarden_shafir/status/1437686447293747200
 
-### Courses
+### Course
 
 - [RE for beginners](https://www.begin.re/the-workshop) + https://twitter.com/OphirHarpaz/status/1272605739589283842
 - [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
@@ -33,6 +33,7 @@
 - [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra + https://github.com/wrongbaud/hackaday-u + https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi
 - https://www.udemy.com/user/cristina-gheorghisan
+- https://github.com/iosifache/BinExpLabs
 
 ### Book
 

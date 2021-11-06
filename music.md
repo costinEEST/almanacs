@@ -48,6 +48,7 @@
 - https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano + https://news.ycombinator.com/item?id=27085922
 - https://transylvanianow.com/restoring-transylvanian-pipe-organ-heritage-builder-endre-denes
 - https://arstechnica.com/science/2021/09/study-confirms-superior-sound-of-a-stradivari-is-due-to-the-varnish
+- http://www.laboratoruldemuzica.ro/dictionar + https://www.youtube.com/playlist?list=PLLy7dwV_5aUlP7kiMAUUiVquZIt2eSot4
 
 
 ### Tool

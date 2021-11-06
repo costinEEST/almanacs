@@ -39,6 +39,11 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/tools/dendron.md
 - https://github.com/nikitavoloboev/knowledge/blob/main/tools/obsidian.md
 - [A high-performance data index and query language over Markdown files for Obsidian](https://github.com/blacksmithgu/obsidian-dataview)
+- [SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://github.com/SwiftLaTeX/SwiftLaTeX)
+- [Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.](https://github.com/James-Yu/LaTeX-Workshop)
+- [quiver is a modern, graphical editor for commutative and pasting diagrams, capable of rendering high-quality diagrams for screen viewing, and exporting to LaTeX](https://github.com/varkor/quiver)
+- [Fast math typesetting for the web](https://github.com/KaTeX/KaTeX)
+- https://github.com/brolani/tools/blob/master/report-generator/gen-report.sh
 
 ### Miscellaneous
 

@@ -130,6 +130,8 @@
 - https://github.com/jsjoeio/web3-cheatsheet
 - https://lukekanies.com/series-blockchain-without-blockchain
 - https://github.com/fiatjaf/awesome-lnurl
+- https://github.com/dgryski/awesome-consensus
+- [Atomic cross-chain swaps for Chia and its forks](https://github.com/Yakuhito/yakuSwap)
 
 ### Boilerplate
 
@@ -166,6 +168,11 @@
 - https://learnxinyminutes.com/docs/solidity
 - https://github.com/manojpramesh/solidity-cheatsheet
 - https://buildspace.so/solidity
+- https://github.com/crytic/not-so-smart-contracts
+- https://github.com/sigp/solidity-security-blog
+- https://github.com/ajlopez/SoliditySamples
+- https://github.com/willitscale/learning-solidity
+- https://github.com/Rari-Capital/solcurity
 
 ### Non fungible tokens
 
@@ -223,6 +230,7 @@
 
 - https://github.com/saleemrashid/do-i-need-a-blockchain
 - https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain
+- https://github.com/shark0der/next-block-base-fee
 
 ### Opinion
 

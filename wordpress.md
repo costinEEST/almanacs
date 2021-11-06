@@ -29,7 +29,8 @@
 - https://mikejolley.com/2021/03/02/headless-wordpress-cookie-based-login-using-graphql
 - https://learnetto.com/tutorials/how-to-use-headless-wordpress-with-next-js-and-graphql
 - [Visualize the WordPress Template Hierarchy](https://wphierarchy.com)
-- https://cfe.dev/sessions/wordpress-headless-workflow/
+- https://cfe.dev/sessions/wordpress-headless-workflow
+- [Built with Next.js, headless WordPress and Netlify](https://bejamas.io/blog/backlinko-case-study)
 
 
 ### Opinion

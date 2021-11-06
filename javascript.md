@@ -251,6 +251,7 @@
 - [One page calendar 2020](https://davebakker.io/onepagecalendar)
 - [Wondering how to best display the current time (hh:mm) on a web page.](https://twitter.com/rauschma/status/1228056819567910914)
 - https://twitter.com/rauschma/status/1330881310039175169
+- https://github.com/andreigasparovici/npm-time-ago-ro
 
 ### setInterval()
 
@@ -448,6 +449,8 @@
 - https://www.freecodecamp.org/news/types-of-software-testing
 - https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date
 - https://github.com/giltayar/mapping-out-territory
+- [A collection of public resources about how software companies test their software](https://github.com/abhivaikar/howtheytest)
+
 
 ### Virtual machines
 
@@ -517,6 +520,7 @@
 - https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers
 - [Writing custom ESLint rules without publishing to NPM](https://stevenpetryk.com/blog/custom-eslint-rules)
 - [What's the best tool to build a monorepo?](https://twitter.com/douglasdemoura/status/1452723004954353664)
+- [A way to manage your versioning and changelogs with a focus on monorepos](https://github.com/atlassian/changesets)
 
 ### Documentation
 

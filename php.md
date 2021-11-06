@@ -38,6 +38,7 @@
 - https://github.com/cubiclesoft/ultimate-web-scraper
 - https://christoph-rumpel.com/2021/9/the-video-course-launch-that-made-me-belive-in-myself-again
 - [The definitive self-hosted URL shortener](https://github.com/shlinkio/shlink)
+- https://github.com/Cloud-Compiler-API/Cloud-Compiler-API
 
 ### Security
 
@@ -52,6 +53,7 @@
 - [WAF bypassing](https://twitter.com/0xInfection/status/1340758820042256384)
 - [XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.](https://github.com/s4n7h0/xvwa)
 - https://0xboku.com/2021/09/14/0dayappsecBeginnerGuide.html
+- https://github.com/flozz/p0wny-shell
 
 ### Miscellaneous
 

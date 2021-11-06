@@ -20,6 +20,9 @@
 - https://andrewnc.github.io/blog/everyday_data_science.html
 - https://www.amazon.com/Architects-Intelligence-truth-people-building-ebook/dp/B07H8L8T2J
 - https://github.com/PacktPublishing/Machine-Learning-with-Amazon-SageMaker-Cookbook
+- https://www.amazon.com/2062-World-that-AI-Made-ebook/dp/B07B3RDQJH + http://www.cse.unsw.edu.au/~tw/#books
+- [Jacques Attali | Scurtă istorie a viitorului](https://www.polirom.ro/web/polirom/ebook/-/ebook/6081) + [Jacques Attali | Cum să ne apărăm de crizele următoare](https://www.polirom.ro/web/polirom/ebook/-/ebook/7065)
+- https://bogdanbocse.com/embodied-computational-calculus + https://bogdanbocse.com/embodied-computational-calculus
 
 ### Course
 
@@ -148,6 +151,8 @@
 - [Software engineering for artificial intelligence and machine learning software: A systematic literature review](https://arxiv.org/ftp/arxiv/papers/2011/2011.03751.pdf)
 - [Towards the First Machine Translation System for SumerianTransliterations](https://www.aclweb.org/anthology/2020.coling-main.308.pdf)
 - https://github.com/louisfb01/Best_AI_paper_2020
+- [Platform for Automatic Analysis of Malicious Applications Using Artificial Intelligence Algorithms](https://github.com/iosifache/BachelorThesis) + https://github.com/iosifache/dike
+- [Detecting Fake Accounts on Social Media](https://github.com/emanuelcovaci/twittop)
 
 ### Demos
 
@@ -170,6 +175,7 @@
 - https://einstein.digitalhumans.com
 - [Automatically tagging Belgian politician when they use their phone on the daily livestreams. With the help of AI.](https://driesdepoorter.be/theflemishscrollers)
 - https://nathanielbd.github.io/posts/hacking-the-normie-test
+- https://github.com/KayO-GH/Ashesi-DSC-Tensorflow-Workshop
 
 ### Opinions
 
