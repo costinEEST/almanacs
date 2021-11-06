@@ -42,6 +42,7 @@
 - [Typed functional programming in TypeScript in five minutes](https://github.com/typescript-fun/five-minutes-demo)
 - How domain modeling can help us to make our apps consistent & safe: [repo](https://github.com/gillchristian/modeling) + [slides](https://modeling.now.sh/)
 - [Understanding TypeScript's Structural Type System](https://spin.atomicobject.com/2018/09/28/typescript-strange-loop-2018)
+- https://github.com/michalczukm/typescript-who-even-need-template-literal-types-presentation
 
 ### Opinions
 
@@ -70,6 +71,7 @@
 - [Just migrated a project from Flow to TypeScript.](https://twitter.com/satya164/status/1071953492544233472)
 - https://blog.ghaiklor.com/2021/07/19/let-us-improve-your-skill-set-when-working-with-typescript + https://github.com/ghaiklor/type-challenges-solutions + https://blog.beraliv.dev/2021-04-04-type-challenges
 - [TypeScript paths with Node.js without any additional bundling/transformation step](https://github.com/fox1t/ts-paths-node-native)
+- https://www.placemark.io/post/good-magic-with-typescript + https://twitter.com/placemarkio/status/1454102660731265033
 
 
 ### Reference

@@ -109,9 +109,9 @@
 - [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
 - [a valid IPv6 address and a syntactically valid JavaScript program that runs to completion](https://twitter.com/mathias/status/1138770431681449984)
 
-### Books
+### Book
 
-- [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html) + https://github.com/source-academy/sicp
+- [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html) + https://github.com/source-academy/sicp + https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1
 - [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
 - [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
 - https://github.com/amilajack/reading/tree/master/JavaScript

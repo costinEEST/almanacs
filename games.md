@@ -77,3 +77,7 @@
 
 - https://blog.vivekhaldar.com/post/50585082117/games-as-a-hook-into-cs
 - [On the Perceived Inevitability of Unreal](http://alextardif.com/Unreal.html) + https://twitter.com/longbool/status/1385028668116848640
+
+### Security
+
+- https://guidedhacking.com/threads/the-history-of-game-hacking-aimbots.18758

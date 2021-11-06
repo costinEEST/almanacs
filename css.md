@@ -18,6 +18,7 @@
 - https://calibreapp.com/blog/css-performance
 - https://css-tricks.com/building-a-scalable-css-architecture-with-bem-and-utility-classes
 - https://experiencinginformation.com/2012/07/22/the-first-responsive-design-website-audi-circa-2002
+- https://web.dev/learn/design
 
 ### Book
 
@@ -70,7 +71,7 @@
 - https://accessiblepalette.com
 - https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems
 - https://daverupert.com/2021/10/alpha-paintlet
-
+- [https://observablehq.com/@danburzo/css-gradient-line](https://observablehq.com/@danburzo/css-gradient-line)
 
 ### Community
 
@@ -194,6 +195,7 @@
 
 ### Layout
 
+- https://web.dev/patterns/layout
 - https://courses.kevinpowell.co/courses/conquering-responsive-layouts
 - https://moderncss.dev
 - https://kilianvalkhof.com/2020/css-html/full-bleed-layout-using-simple-css

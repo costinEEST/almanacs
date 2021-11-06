@@ -57,6 +57,8 @@
 - https://www.onlinemusictools.com
 - [Yousician | Learn Guitar, Piano, Ukulele With The Songs you Love](https://yousician.com)
 - [The Lomax Digital Archive provides free access to audio/visual collections compiled across seven decades by folklorist Alan Lomax (1915–2002) and his father John A. Lomax (1867–1948).](https://archive.culturalequity.org)
+- https://learningmusic.ableton.com
+- https://learningsynths.ableton.com
 
 
 ### Reference

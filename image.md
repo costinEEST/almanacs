@@ -18,7 +18,7 @@
 - https://www.industrialempathy.com/posts/avif-webp-quality-settings + https://twitter.com/cramforce/status/1363182846731382790
 - https://www.zachleat.com/web/vector-raster-split + https://twitter.com/zachleat/status/1430944481965182976
 
-### Tools
+### Tool
 
 - [Poor man's document camera for videoconference.](https://news.ycombinator.com/item?id=22660301)
 - [A frame by frame GIF editor with Photoshop vibes](https://news.ycombinator.com/item?id=22696179)
@@ -28,6 +28,7 @@
 - https://github.com/nosolosw/snippets/blob/master/mp4-to-gif.sh
 - [Get image size without full download.](https://github.com/nodeca/probe-image-size)
 - [Web2Img is a tool to bundle your web files into a single image, and extract them via Service Worker at runtime.](https://github.com/EtherDream/web2img)
+- [CleanUp.pictures, a web app and open-source project that lets you remove objects from images. It uses LaMa, an open-source model from Samsung’s AI Lab to automatically & acurately redraw the areas that you delete](https://cleanup.pictures)
 
 ### Photos
 
