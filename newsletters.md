@@ -198,6 +198,7 @@
 
 - [A newsletter by Bill Bishop, an expert on Chinese politics.](https://sinocism.com/archive) + https://twitter.com/niubi
 - [Romanian Dispatch](https://us17.campaign-archive.com/home/?u=afe17686523fcfd2ed8ff4853&id=4a2e90f17a)
+- [Ediție săptămânală despre dezinformare](https://newsletter.misreport.ro)
 
 ### Social sciences
 

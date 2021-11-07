@@ -91,6 +91,7 @@
 - https://kerkour.com/blog/rust-for-web-development-2-years-later
 - https://github.com/MondayMorningHaskell/RustBeginners
 - [Migrate C code to Rust](https://github.com/immunant/c2rust)
+- https://github.com/imsnif/terminal-anatomy-code-examples + https://twitter.com/im_snif/status/1455494315602546694
 
 ### Podcast
 

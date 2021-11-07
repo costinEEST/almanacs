@@ -62,6 +62,7 @@
 - https://fly.io/blog/api-tokens-a-tedious-survey
 - [Use Swagger v2 JSON Collections to generate Postman v1 collections which include sample request bodies](https://github.com/djfdyuruiry/swagger2-postman-generator)
 - https://github.com/xsadia/koa-todo-api
+- https://github.com/simonplend/talks/tree/main/improving-your-applications-with-abortcontroller
 
 
 ### Book
@@ -213,6 +214,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 - https://davidhettler.net/blog/event-loop-lag
 - https://github.com/lrlna/sketchin/blob/master/zines/js-event-loop.md
+- https://whistlr.info/2021/block-nodejs-main-thread
 
 ### Buffer
 

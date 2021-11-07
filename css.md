@@ -72,6 +72,7 @@
 - https://wildbit.com/blog/2021/09/16/accessible-palette-stop-using-hsl-for-color-systems
 - https://daverupert.com/2021/10/alpha-paintlet
 - [https://observablehq.com/@danburzo/css-gradient-line](https://observablehq.com/@danburzo/css-gradient-line)
+- https://courses.joshwcomeau.com/css-for-js/treasure-trove/014-color-palettes
 
 ### Community
 
@@ -116,6 +117,7 @@
 - https://web.archive.org/web/20160806230624/http://colinaarts.com/articles/inline-block-and-you
 - https://web.archive.org/web/20161029155622/https://colinaarts.com/articles/the-magic-of-overflow-hidden
 - https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer
+- https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1
 
 ### Selector
 
@@ -206,6 +208,7 @@
 - [Minimal snippets for modern CSS layouts and components](https://github.com/5t3ph/smolcss)
 - https://adrianroselli.com/2021/04/sortable-table-columns.html
 - https://alistapart.com/article/designing-for-the-unexpected
+- https://noti.st/rachelandrew/3IBB4Z/css-layout-from-the-inside-out
 
 
 ### Tools

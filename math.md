@@ -107,6 +107,7 @@
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov) + http://backreaction.blogspot.com/2010/05/abramowitzstegun-goes-online.html
 - https://amilajack.com/the-languages-of-mathematics
 - [Skateboard Tricks and Topological Flips](https://arxiv.org/abs/2108.06307)
+- https://github.com/Pomax/BezierInfo-2
 
 ### Teacher
 

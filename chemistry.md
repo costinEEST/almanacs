@@ -7,6 +7,7 @@
 - https://www.udemy.com/course/the-complete-high-school-and-college-chemistry
 - https://cop.tfm.ro/about-sabatier-reaction-and-reactors
 - [Michael Faraday's The Chemical History of a Candle](https://www.youtube.com/playlist?list=PL0INsTTU1k2UCpOfRuMDR-wlvWkLan1_r)
+- [Chemistry | Weizmann Institute of Science](https://www.youtube.com/playlist?list=PL1C9C01629CCE4F81)
 
 ### Community
 

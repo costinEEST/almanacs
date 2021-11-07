@@ -18,6 +18,7 @@
 - https://bobburrough.com/public/post/renewable_energy_for_consumer_devices
 - https://www.bbc.com/future/article/20210706-how-flooded-coal-mines-could-heat-homes
 - https://iscoada.com/eseu/avocado-cocaina-si-ulei-de-palmier
+- https://www.theguardian.com/food/2021/nov/01/end-of-the-avocado-why-chefs-ditching-the-unsustainable-fruit
 
 ### Reference
 

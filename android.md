@@ -70,10 +70,11 @@
 - [A list of an android lib's make your coding life easier](https://github.com/CreatorB/Android-Library)
 - [App for picture maintenance](https://github.com/timitoc/groupicture)
 
-### TV
+### Cinema
 
 - [Deep dive into MotionLayout by Bogdan Zurac](https://docs.google.com/presentation/d/1957szdWm2Uj1YSF8ffWS0_5UOjRN6cysLMWuVdeRT4s)
 - https://www.youtube.com/playlist?list=PLFW6ct83_wC9CYqIRaR1jUwrz_hBgAX8Q
+- [Web Challenges #CTF #hpAndro | Android AppSec](https://www.youtube.com/playlist?list=PLY47jY-dcCPWerJCAPw2GOJxUvmRe5Zho)
 
 ### Opinions
 
@@ -105,3 +106,4 @@
 - https://github.com/B3nac/Android-Reports-and-Resources
 - [Android pentesting | hyd3sec](https://www.youtube.com/playlist?list=PLXAaWemFrhwlV5KulQMT6nsOVLPaG_yUa)
 - https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+- [A minimalistic android backdoor](https://github.com/Ch0pin/AndroidWebDoor)

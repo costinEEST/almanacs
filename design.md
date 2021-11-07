@@ -58,6 +58,7 @@
 - https://www.logodesignlove.com/coca-cola-logo
 - https://www.fastcompany.com/90656667/the-best-olympic-logos-of-all-time-according-to-design-experts
 - https://lithub.com/the-25-most-iconic-book-covers-in-history
+- https://www.shutterstock.com/blog/graphic-design-movements-throughout-history
 
 ### Inspire
 
@@ -68,6 +69,7 @@
 - [How to design almost any UI element. A curated list of 58 articles](https://twitter.com/vponamariov/status/1381584285300359169)
 - https://github.com/nordicgiant2/awesome-landing-page
 - https://github.com/CreativeCodeBerlin/creative-coding-minilist
+- [Screenlane - Web & mobile UI design inspiration](https://screenlane.com)
 
 
 ### User experience

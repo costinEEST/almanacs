@@ -68,6 +68,7 @@
 - https://www.stefanjudis.com/useful-accessibility-resources
 - https://www.sarasoueidan.com/blog/in-quest-of-search
 - https://devyarns.com/logical-focus-order
+- https://alvaromontoro.com/blog/67979/creating-accessible-css-art
 
 ### <address></address>
 
@@ -187,6 +188,10 @@
 - [Rock-solid transactional email templates for applications.](https://github.com/wildbit/postmark-templates)
 - https://gerardkcohen.github.io/periodic-table-of-semantics.html
 - https://justmarkup.com/articles/2021-04-13-html-elements-in-a-tweet
+
+### Semantic
+
+- https://uselessdivs.com/blog/a-short-guide-to-help-you-pick-the-correct-html-tag
 
 ### Security
 

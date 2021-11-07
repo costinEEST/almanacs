@@ -389,6 +389,7 @@
 - [A zero friction custom elements like primitive.](https://github.com/WebReflection/builtin-elements)
 - [DOM event data scraped from MDN](https://github.com/eddyerburgh/dom-event-types)
 - https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html + https://news.ycombinator.com/item?id=27129858
+- https://whistlr.info/2020/understanding-load
 
 ### Single-page application
 
@@ -429,6 +430,7 @@
 - https://www.ctnicholas.dev/articles/reactive-framework-in-40-lines
 - https://github.com/philhawksworth/html-time
 - [Web component server-side rendering](https://github.com/matthewp/ocean)
+- https://whistlr.info/2021/disposable-web-components
 
 ### Testing
 

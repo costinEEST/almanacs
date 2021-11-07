@@ -44,4 +44,5 @@
 - https://github.com/jagtalon/figma-fast-copy
 - https://www.figma.com/blog/plugins-to-help-you-design-with-real-content
 - https://setproduct.com/blog/figma-plugins-productivity-boost
+- https://www.marcandrew.me/20-awesome-figma-plugins-to-improve-your-workflow
 

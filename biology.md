@@ -53,6 +53,8 @@
 - [Basic Physiology | Alila Medical Media](https://www.youtube.com/playlist?list=PLJIs8ZcKXHUy7zyDIGhZVIflbfulNFif0)
 - [Bioinformatics-along | Simon Cockell](https://www.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9)
 - [Bio Hacking Chip Implants | Amie DD](https://www.youtube.com/playlist?list=PL9iNdDEmD5jbIxHl5wGZlUs019e3ogl7E)
+- [Cell Biology Lecture Series | Weizmann Institute of Science](https://www.youtube.com/playlist?list=PLcDxx1De7CZ0O9_K7uQCdBzVRrH_x5oLa)
+- [Systems biology | Weizmann Institute of Science](https://www.youtube.com/playlist?list=PL0EF0E201934F5813)
 
 ### Epigenetics
 

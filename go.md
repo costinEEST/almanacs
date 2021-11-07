@@ -11,6 +11,7 @@
 - [Code listings accompanying the 'For the Love of Go' book](https://github.com/bitfield/ftl-code)
 - https://www.amazon.com/Learning-Go-programming-Vladimir-Vivien/dp/1784395439
 - https://github.com/PacktPublishing/Creative-DIY-Microcontroller-Projects-with-TinyGo-and-WebAssembly
+- https://tumregels.github.io/Network-Programming-with-Go/
 
 ### Boots
 

@@ -18,6 +18,10 @@
 - [A curated collection of Arduino coding examples](https://github.com/wokwi/good-arduino-code) + https://goodarduinocode.com
 - https://dafnamordechai.wixsite.com/iotwitharduino/the-workshop
 
+### CLP5010
+
+- https://whistlr.info/2021/smart-switches + https://gist.github.com/samthor/42f41372dfeb942b0e419e238d72f752
+
 ### ESP32
 
 - [Cloud Home Automation Series](https://twitter.com/binitamshah/status/1229349993829498882)
