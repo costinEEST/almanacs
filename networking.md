@@ -266,6 +266,8 @@
 - https://github.com/kern/filepizza
 - https://hacked.camera + https://mobile.twitter.com/Gekko09/status/1291476293566058496
 - https://backdrifting.net/post/042_p2p_models + https://twitter.com/illegaldaydream/status/1330305884770213888
+- https://github.com/derhuerst/build-wikipedia-feed
+- https://github.com/hypercore-protocol/p2p-multiwriter-with-autobase
 
 ### IFPS
 

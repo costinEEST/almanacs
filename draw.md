@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - https://www.google.com/search?q=Andrew+Loomis+free+archive+ebooks
 - [Alla Prima II Everything I Know about Painting--And More - Richard Schmid with Katie Swatland](https://www.amazon.com/gp/product/096621174X)
@@ -13,6 +13,10 @@
 - https://www.openculture.com/the-elements-of-drawing-a-free-course-from-oxford
 - https://www.udemy.com/course/diploma-in-fine-arts-drawing-certification
 - https://www.udemy.com/course/engineering-drawing-graphics
+
+### Cinema
+
+- [Quick Coloring Tricks | Color with Kurt](https://www.youtube.com/playlist?list=PLJyhITEA-P5gKgurHnxU9LAtZKBWhnTd4)
 
 ### Comics
 

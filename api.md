@@ -69,6 +69,7 @@
 - [FoodData Central (FDC)](https://fdc.nal.usda.gov/about-us.html) + https://github.com/USDA/USDA-APIs/issues/92
 - https://github.com/ChickenKyiv/awesome-food-open-source
 - https://github.com/openfoodfacts/openfoodfacts-python
+- [A modern DICOM visualizer powered by Sethealth](https://github.com/sethealth/openviewhealth)
 
 ### Weather
 
@@ -96,6 +97,9 @@ curl v2.wttr.in/Bucharest
 - [Brazilian Zip Code/Postal Code](https://github.com/daniserafs/CepInfo)
 - https://github.com/BrasilAPI/BrasilAPI
 - https://github.com/brazilian-utils/brazilian-utils
+- https://github.com/public-transport/hafas-client
+- [A clean REST API wrapping around the Deutsche Bahn HAFAS API](https://github.com/derhuerst/db-rest)
+- [List of JavaScript modules for Berlin & Brandenburg public transport](https://github.com/derhuerst/vbb-modules)
 
 ### Shopping
 

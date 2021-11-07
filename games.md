@@ -63,6 +63,7 @@
 - https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial
 - https://github.com/lettier/3d-game-shaders-for-beginners
 - [Simple game using nasm](https://github.com/timitoc/Asm-Game-Grepit)
+- https://github.com/angle943/react-minesweeper-ts + https://www.youtube.com/playlist?list=PLXzMwWvud3xQHiuDrx9b3UzPxzZUbyEWi
 
 ### The creators
 

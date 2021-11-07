@@ -35,7 +35,7 @@
 - [TESOL and TPRS Course (For Language Teachers)](https://www.udemy.com/course/tesol-and-tprs-course-)
 - [Good with Words: Speaking and Presenting | Michigan Law](https://www.youtube.com/playlist?list=PL7g_CQSlG4S8IV8xVtg8Gc8GWlSubUFl0)
 - https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018 + https://youtu.be/Unzc731iCUY + https://www.memoriesofpatrickwinston.com
-
+- [Micro-Lectures - Phonetics | The Virtual Linguistics Campus](https://www.youtube.com/playlist?list=PLRIMXVU7SGRIeAGqlQqzbsErDMgZWkuqh)
 
 ### Book
 

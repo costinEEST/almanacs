@@ -27,6 +27,7 @@
 - https://www.udemy.com/course/acoustic-guitar-for-beginners
 - https://www.udemy.com/course/beginnerselectronicmusictheory
 - https://www.salon.com/2021/10/16/25-great-rockumentaries-every-music-and-movie-fan-should-see_partner
+- [Listening to Music with Craig Wright | YaleCourses](https://www.youtube.com/playlist?list=PLh9mgdi4rNezhx8YiGIV8I22ICSuzslja)
 
 ### Community
 

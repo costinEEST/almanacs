@@ -24,6 +24,10 @@
 - [CS 3330: Undergraduate Computer Architecture](http://www.cs.virginia.edu/~av6ds/classes/cs3330/sp21)
 - [CS 6354: Graduate Computer Architecture](http://www.cs.virginia.edu/~av6ds/classes/cs6354/fa19)
 
+### Cinema
+
+- [Ray Seyfarth | Michael Harris](https://www.youtube.com/playlist?list=PLOOO61Feqafvf-nnjJaLVdj9OZGnz_CG1)
+
 ### References
 
 - https://notes.shichao.io/asm

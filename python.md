@@ -72,6 +72,7 @@
 ### Cinema
 
 - https://github.com/s16h/py-must-watch
+- [Python programming for finance | sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
 
 ### Data structures
 

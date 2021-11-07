@@ -117,6 +117,7 @@
 - [a project to create your own personal podcast feed](https://github.com/inian/personal-casts)
 - https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction
 - [Simple HTTP Rest example using express](https://github.com/nodeshift-starters/nodejs-rest-http)
+- [Single Page App boilerplate for the NERDS stack - Node, Express, React/Redux, Databases with SQL (PostgreSQL)](https://github.com/dye784/NERDS-starterpack)
 
 ### Cinema
 
@@ -129,6 +130,7 @@
 - [Node JS Performance Optimizations | Bleeding Code](https://www.youtube.com/playlist?list=PLISqeoHsXJYAIfu4-mgNY0tloWz2uut1t) + https://github.com/bleedingcode/nodejs-performance-optimizations
 - [Free SSL with Greenlock v2 (Let's Encrypt for Node.js)](https://www.youtube.com/playlist?list=PLZaEVINf2Bq_lrS-OOzTUJB4q3HxarlXk)
 - [Build a Node.js web app with no frameworks from scratch (frameworkless.js) | Mike Timofiiv](https://www.youtube.com/playlist?list=PL6GJH3ZLo67Viu3OrB7w-NhHGXBHt8btZ)
+- [OAuth/OpenID | Nat Sakimura](https://www.youtube.com/playlist?list=PLRUD_uiAYejRvQWkS2xjgFW20lRLp4snN)
 
 ### Course
 
@@ -211,6 +213,10 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 - https://davidhettler.net/blog/event-loop-lag
 - https://github.com/lrlna/sketchin/blob/master/zines/js-event-loop.md
+
+### Buffer
+
+- [Output a buffer in emojis](https://github.com/pfrazee/base-emoji)
 
 ### Stream
 
@@ -307,6 +313,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [A wrapper around yarn audit that fixes many issues](https://github.com/djfdyuruiry/improved-yarn-audit)
 - https://www.stefanjudis.com/today-i-learned/npm-root-locates-the-global-node-modules-directory
 - [Move desktop mouse and keyboard using NodeJS](https://gist.github.com/zt4ff/741c98081f5802997fca1244b0a1b6bf)
+- [Hydrate a REPL with new globals from a file's exports](https://github.com/davidmarkclements/hrepl)
 
 ### Testing
 

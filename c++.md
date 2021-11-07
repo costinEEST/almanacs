@@ -42,6 +42,7 @@
 - https://huangxuan.me/2020/06/21/data-rep-float
 - https://dmiller.dev/blog/2020/8/25/c-interfaces-and-templates
 - https://blog.m-ou.se/compile-time-unit-arithmetic
+- https://github.com/tobanteAudio/juce-cookbook
 
 ### Implementations
 

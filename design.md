@@ -33,6 +33,7 @@
 - https://www.ohyouprettythings.com/free
 - https://www.domestika.org/en/blog/5606-7-masters-of-graphic-design-share-their-industry-insider-secrets
 - https://davidhoang.substack.com/p/talks-that-shaped-my-philosophies
+- [Logo theory | Will Paterson](https://www.youtube.com/playlist?list=PLLuEl8fyPVgOl1HDi4_qZSieM_JLTWz7u)
 
 ### Course
 

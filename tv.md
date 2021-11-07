@@ -26,6 +26,7 @@
 ### Inspire
 
 - https://www.youtube.com/playlist?list=FL6XlvVH63g0H54HSJubURQA
+- [Meaning of Life Symposium | Manolis Kellis](https://www.youtube.com/playlist?list=PLypiXJdtIca7i8IrNye4IenjnUCP9LF35)
 
 ### Movie
 

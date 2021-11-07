@@ -16,6 +16,7 @@
 - https://github.com/fostulbucuresti/fostulbucuresti.github.io + http://fostulbucuresti.github.io
 - [A simple CLI tool to generate satellite images of a location](https://news.ycombinator.com/item?id=23948672) + https://github.com/plant99/felicette
 - [A new way to make maps with OpenStreetMap](https://protomaps.com/blog/new-way-to-make-maps) + https://news.ycombinator.com/item?id=26918259
+- [Interactive map of Berlin that shows 🕶 shade areas, 💨 wind and 🌡 temperature intensities across the day](https://github.com/technologiestiftung/erfrischungskarte-frontend)
 
 ### TV
 
@@ -30,6 +31,7 @@
 - [Reversing Google's 3D satellite mode](https://github.com/retroplasma/earth-reverse-engineering)
 - [Reverse-engineering Flyover (3D satellite mode) from Apple Maps.](https://github.com/retroplasma/flyover-reverse-engineering)
 - http://geoportal.ancpi.ro/portal/apps/webappviewer/index.html?id=faeba2d173374445b1f13512bd477bb2 + https://data.gov.ro/dataset/unitati-administrative
+- [Taiwan Hiking Maps](https://github.com/alpha-rudy/taiwan-topo)
 
 ### Radio
 

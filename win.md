@@ -8,10 +8,11 @@
 - https://willi.am/blog/2016/08/11/docker-for-windows-dealing-with-windows-line-endings
 - https://stackoverflow.com/questions/48198/how-can-you-find-out-which-process-is-listening-on-a-port-on-windows
 
-### Talks
+### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeJrvjEuCygYk4QiTXQpOyW
 - [Using Windows 10 - Technical Previews and How Tos! - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdI26ZdgX-F8aAKnh9sq6on)
+- [Operating Systems and You - Becoming a Power User | Qwiklabs-Courses](https://www.youtube.com/playlist?list=PLWbKFGwwAIAdkHHOtJe2zMWloBTlTIzXV)
 
 ### Courses
 
