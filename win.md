@@ -7,6 +7,7 @@
 - [Replicating bash functions in Windows](https://gist.github.com/slikts/3f677287335589015cb8140f208b7c6d)
 - https://willi.am/blog/2016/08/11/docker-for-windows-dealing-with-windows-line-endings
 - https://stackoverflow.com/questions/48198/how-can-you-find-out-which-process-is-listening-on-a-port-on-windows
+- https://github.com/shayne/wsl2-hacks
 
 ### Cinema
 

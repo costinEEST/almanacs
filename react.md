@@ -31,6 +31,7 @@
 
 ### Boilerplate
 
+- https://github.com/UnlyEd/next-right-now
 - https://github.com/nice-boys/product-boilerplate
 - https://github.com/dasmata/styleguide
 - [Folder structure](https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346)

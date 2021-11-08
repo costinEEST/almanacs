@@ -22,6 +22,7 @@
 - https://www.aspecto.io/blog/microservices-authentication-strategies-theory-to-practice
 - http://ramimac.me/security/syndicated/offensive-authorization-code
 - https://github.com/fiatjaf/awesome-loginless
+- https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js
 
 ### API
 
@@ -119,7 +120,8 @@
 - https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction
 - [Simple HTTP Rest example using express](https://github.com/nodeshift-starters/nodejs-rest-http)
 - [Single Page App boilerplate for the NERDS stack - Node, Express, React/Redux, Databases with SQL (PostgreSQL)](https://github.com/dye784/NERDS-starterpack)
-
+- https://github.com/santiq/bulletproof-nodejs
+- [Build your Typescript Node.js projects using blazing fast esbuild](https://github.com/a7ul/esbuild-node-tsc)
 ### Cinema
 
 - [MNUG - Munich NodeJS User Group](http://mnug.de/videos.html)
@@ -316,6 +318,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://www.stefanjudis.com/today-i-learned/npm-root-locates-the-global-node-modules-directory
 - [Move desktop mouse and keyboard using NodeJS](https://gist.github.com/zt4ff/741c98081f5802997fca1244b0a1b6bf)
 - [Hydrate a REPL with new globals from a file's exports](https://github.com/davidmarkclements/hrepl)
+- https://github.com/bencevans/screenshot-desktop
 
 ### Testing
 
@@ -380,6 +383,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [React/Node.js/GraphQL Microservices App](https://www.youtube.com/playlist?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6)
 - https://github.com/PacktPublishing/Developing-Microservices-With-Nodejs
 - https://github.com/justinamiller/Microservices-Architecture-Guidelines
+- https://blog.bitsrc.io/building-a-reactive-architecture-around-redis-bc53662b81c8
 
 ### Design patterns
 

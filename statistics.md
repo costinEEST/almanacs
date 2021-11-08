@@ -9,3 +9,8 @@
 ### Courses
 
 - [A visual introduction to probability and statistics.](https://seeing-theory.brown.edu)
+
+
+### Reference
+
+- [Developer industry stats and where to find them](https://github.com/sw-yx/tracking)

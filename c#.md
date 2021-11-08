@@ -2,6 +2,7 @@
 
 - https://vladris.com/blog/2020/12/29/recommendations.html
 - [The Little ASP.NET Core Book, a friendly introduction to web programming and ASP.NET Core 2.0](https://github.com/nbarbettini/little-aspnetcore-book)
+- https://github.com/MarkPThomas/HeadFirst-OOAD
 
 ### Cinema
 
@@ -31,3 +32,7 @@
 - https://github.com/futurice/windows-app-development-best-practices
 - [Coding Guidelines for C#](https://github.com/justinamiller/Coding-Standards)
 - https://github.com/justinamiller/DotNet-Coding-Guidelines
+
+### Opinion
+
+- https://www.chestiiautomate.ro/2021/09/12/functionalitati-din-c-pe-care-as-vrea-sa-le-am-in-java

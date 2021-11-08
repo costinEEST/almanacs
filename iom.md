@@ -77,7 +77,8 @@
 
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
 - https://github.com/gweicz/defi-toolkit
-
+- https://github.com/Nachoxt17/DeFi-Farming-Yielding-Tutorial
+- https://github.com/OffcierCia/ultimate-defi-research-base
 
 ### References
 
@@ -124,14 +125,14 @@
 - [Learning Path Web3](https://gist.github.com/sibelius/176ba11de6c001b3bf9dc81a4ecd4db2)
 - https://thedailyape.notion.site/Resources-for-beginners-cd838d1024d84d86a23a35c21bab43ba + https://twitter.com/Darrenlautf/status/1434877372700901384
 - https://thedailyape.notion.site/thedailyape/Directory-c96c0b6727c0433a962e897ef43efb7e
-- https://github.com/OffcierCia/ultimate-defi-research-base
-- https://github.com/OffcierCia/DeFi-Developer-Road-Map
 - [What's the best beginner guide to DeFi?](https://twitter.com/PaulRBerg/status/1412081828614246400)
 - https://github.com/jsjoeio/web3-cheatsheet
 - https://lukekanies.com/series-blockchain-without-blockchain
 - https://github.com/fiatjaf/awesome-lnurl
 - https://github.com/dgryski/awesome-consensus
 - [Atomic cross-chain swaps for Chia and its forks](https://github.com/Yakuhito/yakuSwap)
+- https://github.com/input-output-hk/essential-cardano
+- https://github.com/McCoady/Blockchain-Dev-101
 
 ### Boilerplate
 

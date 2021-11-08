@@ -155,6 +155,7 @@
 - https://www.johnnunemaker.com/speakerdeck
 - https://www.economica.net/sanopass-a-atras-in-aprilie-investitii-de-peste-845-000-de-euro-prin-platforma-de-crowdfunding-seedblink_508360.html
 - [Answers to the most common questions from thousands of founders from Idea to Seed](https://pioneer.app/codex)
+- https://graphics.stanford.edu/~dk/google_name_origin.html#:~:text=In%201996%2C%20Larry%20Page%20and,Tamara%20Munzner%2C%20and%20Lucas%20Pereira.
 
 ### Investing
 
