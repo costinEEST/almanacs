@@ -40,3 +40,7 @@
 ### Radio
 
 - https://blog.foolip.org/2015/10/09/more-podcast-recommendations
+
+### Reference
+
+- https://github.com/ashleygwilliams/philosophy_club

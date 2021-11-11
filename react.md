@@ -28,6 +28,7 @@
 - [NextJS and Serverless ~ James Perkins](https://www.youtube.com/playlist?list=PL5G1JGPXq1sQDMAV9BdlUJV9RfkZPSpVb)
 - https://twitter.com/brian_lovin/status/1377346382084763650
 - [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://www.youtube.com/playlist?list=PLFGFKs8nQ3EbG-ykV8xc1mBt99sqq2Ssx) + https://github.com/dijonmusters/e-commerce-in-25-days
+- https://github.com/tannerlinsley/react-query-essentials
 
 ### Boilerplate
 

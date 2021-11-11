@@ -524,6 +524,7 @@
 - [Writing custom ESLint rules without publishing to NPM](https://stevenpetryk.com/blog/custom-eslint-rules)
 - [What's the best tool to build a monorepo?](https://twitter.com/douglasdemoura/status/1452723004954353664)
 - [A way to manage your versioning and changelogs with a focus on monorepos](https://github.com/atlassian/changesets)
+- https://github.com/stevekinney/frontend-architecture-topics
 
 ### Documentation
 

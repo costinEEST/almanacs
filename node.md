@@ -68,12 +68,12 @@
 
 ### Book
 
-- [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
-- https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing-in-nodejs
-- https://twitter.com/loige/status/1312531675109232640
+- https://github.com/PacktPublishing/Node.js-14-Cookbook
 - https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition
-- https://github.com/Fictizia/Master-en-Programacion-FullStack-con-JavaScript-y-Node.js_ed3
 - https://github.com/joswha/Secure-Coding-Handbook
+- https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing-in-nodejs
+- https://github.com/Fictizia/Master-en-Programacion-FullStack-con-JavaScript-y-Node.js_ed3
+- [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
 
 ### Bot
 

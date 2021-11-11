@@ -194,7 +194,6 @@
 - [..articles in the frontend and web dev space that are timeless and changed your perspective in some way.](https://twitter.com/PKodmad/status/1194381059950927872)
 - https://github.com/neutraltone/awesome-stock-resources
 - https://didoesdigital.com/project/code-for-designers
-- https://github.com/stevekinney/frontend-architecture-topics
 - https://github.com/baku89/ui-study
 - [A polyglot web converter.](https://github.com/ritz078/transform)
 - [Software Engineering for Startups (course)](https://github.com/CMU-17-356/cmu-17-356.github.io)
