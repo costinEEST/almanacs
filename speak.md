@@ -119,6 +119,7 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/english/english.md
 - https://www.udemy.com/course/the-complete-english-idioms-course-master-english-idioms
 - https://www.futurelearn.com/courses/explore-english-shakespeare
+- https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers
 
 ### Esperanto
 

@@ -128,7 +128,12 @@
 - https://incoherency.co.uk/blog/cad-dojo
 - https://www.diybookscanner.org + https://news.ycombinator.com/item?id=27361815
 - https://nelsonslog.wordpress.com/2021/10/03/usb-charging-in-2021
+- https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB
 
 ### History
 
 - http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1964_09-10.pdf + https://twitter.com/paulg/status/1376082495041589250
+
+### Reference
+
+- https://github.com/SoCFPGA-learning/General/blob/main/resources.md

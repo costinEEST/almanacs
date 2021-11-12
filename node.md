@@ -444,6 +444,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/colinhemphill/nextjs-resume
 - https://www.hawksworx.com/blog/eleventail-a-helper-for-tailwindcss-and-eleventy
 - https://github.com/jakearchibald/jakearchibald.com + https://twitter.com/jaffathecake/status/1263371682313654273
+- https://dev.to/stowball/creating-a-production-ready-eleventy-project-with-webpack-babel-and-sass-35ep
 
 
 ### Serverless

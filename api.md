@@ -100,6 +100,7 @@ curl v2.wttr.in/Bucharest
 - https://github.com/public-transport/hafas-client
 - [A clean REST API wrapping around the Deutsche Bahn HAFAS API](https://github.com/derhuerst/db-rest)
 - [List of JavaScript modules for Berlin & Brandenburg public transport](https://github.com/derhuerst/vbb-modules)
+- [Postcode & Geolocation API for the UK](https://github.com/ideal-postcodes/postcodes.io)
 
 ### Shopping
 

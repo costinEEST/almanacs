@@ -28,6 +28,7 @@
 - https://www.smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors
 - https://elisehe.in/2021/03/13/fluid-type
 - https://pimpmytype.com/font-size
+- https://github.com/zachleat/web-font-loading-recipes
 
 ### Fonts
 

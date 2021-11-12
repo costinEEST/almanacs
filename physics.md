@@ -49,3 +49,7 @@
 ### Radio
 
 - [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html) + https://news.ycombinator.com/item?id=27322636
+
+### Reference
+
+- https://www.freeingenergy.com/understanding-the-basics-of-electricity-by-thinking-of-it-as-water

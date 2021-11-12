@@ -17,6 +17,7 @@
 - https://www.singhkays.com/blog/av1-wiki-resources-tools
 - https://github.com/WizardTim/cheatsheets/blob/master/ffmpeg.md
 - https://blog.youtube/inside-youtube/on-youtubes-recommendation-system
+- https://github.com/eggheadio/how-to-egghead
 
 ### Tool
 
