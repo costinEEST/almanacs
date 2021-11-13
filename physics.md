@@ -4,6 +4,7 @@
 - [Spacetime and Geometry: An Introduction to General Relativity | Sean Carroll](https://www.amazon.com/Spacetime-Geometry-Introduction-General-Relativity/dp/0805387323)
 - [Geometrical Methods of Mathematical Physics | Bernard F. Schutz](https://www.amazon.com/Geometrical-Methods-Mathematical-Physics-Bernard/dp/0521298873)
 - https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X
+- https://www.scribd.com/doc/262317806/Buna-Ziua-Domnule-Ampere-Tomas-Borec
 
 ### Miscellaneous
 

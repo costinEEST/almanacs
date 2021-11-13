@@ -1,3 +1,7 @@
+### Book
+
+- https://www.scribd.com/document/496829075/XML-JSON-Programming-For-Beginners-Learn-Coding-Fast-by-Yao-Ray-Z-lib-org
+
 ### Course
 
 - [XML Foundations (2013)](http://dret.net/lectures/xml-fall13)
