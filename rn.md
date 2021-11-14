@@ -30,6 +30,7 @@
 - https://www.reactnativeradio.com/episodes/177-challenges-of-building-rn-apps-in-ios-vs-android
 - [Learn how to build the beginnings of a Minecraft clone using Expo and React Native.](https://www.youtube.com/playlist?list=PLY1aWv2j4oDEQVEcd6a8LswmmxJS_Az9e)
 - [How To Animated |  evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6)
+- [React Native Live | Infinite Red](https://www.youtube.com/playlist?list=PLFHvL21g9bk1VLtNYIDk8VrPyN3hyWl44)
 
 ### Course
 
@@ -63,6 +64,7 @@
 - https://medium.com/react-native-school/navigating-xcode-for-react-native-developers-with-a-web-background-a1ee4d6ae4a8
 - https://github.com/IRONKAGE/Device-Script-React-Native + https://ironkage.medium.com/run-any-ios-simulator-on-react-narive-fec0739a79e9
 - [Exit,close,kill,shutdown app completely for React Native on iOS and Android.](https://github.com/wumke/react-native-exit-app)
+- https://github.com/ReactNativeSchool/codepush-github-actions-demo/tree/main/.github/workflows
 
 ### Testing
 

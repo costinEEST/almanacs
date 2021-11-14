@@ -453,6 +453,7 @@
 - https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date
 - https://github.com/giltayar/mapping-out-territory
 - [A collection of public resources about how software companies test their software](https://github.com/abhivaikar/howtheytest)
+- [take a js/ts file as input and generate a jest unit test file next to it with all imports mocked and tests stubs for every class method and function exported](https://github.com/egm0121/jest-test-gen)
 
 
 ### Virtual machines

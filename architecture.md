@@ -28,6 +28,7 @@
 ### Brochures
 
 - https://sothebysrealty.ro/catalogs/1
+- [Passipedia - The Passive House Resource](https://passipedia.org/start)
 
 ### Cinema
 

@@ -113,12 +113,18 @@
 - https://eventmodeling.org/resources
 - https://tilkov.com/post/2021/03/01/ddd-is-overrated
 
+### Encoding
+
+- [Top UTF-8 Decoders](https://gist.github.com/chadbrewbaker/5ec5fbe06d294da95b15d17b70b4d4a3)
+- https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities + https://twitter.com/rossjanderson/status/1454962928923418626
+
 ### Miscellaneous
 
 - https://swizec.com/blog/a-holiday-compsci-reading-list-for-you-%f0%9f%8e%85/swizec/9265
 - https://github.com/kdeldycke/awesome-falsehood#meta
 - https://github.com/kdeldycke/awesome-falsehood#emails
 - https://github.com/kdeldycke/awesome-falsehood#dates-and-time
+- https://blog.scottlogic.com/2021/09/14/120-years-timezone.html
 - [You advocate a **\_\_\_\_** approach to calendar reform @ Things Of Interest](https://qntm.org/calendar)
 - [The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head)](http://rudy.ca/doomsday.html)
 - [The year 1900 was _not_ a leap year](https://twitter.com/philwalton/status/1214268809122418688)

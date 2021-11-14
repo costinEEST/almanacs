@@ -319,6 +319,9 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Move desktop mouse and keyboard using NodeJS](https://gist.github.com/zt4ff/741c98081f5802997fca1244b0a1b6bf)
 - [Hydrate a REPL with new globals from a file's exports](https://github.com/davidmarkclements/hrepl)
 - https://github.com/bencevans/screenshot-desktop
+- [Check your npm modules for unused and duplicate dependencies fast](https://github.com/CryogenicPlanet/depp)
+- [Generates sunrise and sunset calendar items in CSV form for import to your favorite calendar program](https://github.com/scottnonnenberg/suncsv)
+
 
 ### Testing
 

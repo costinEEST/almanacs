@@ -86,6 +86,10 @@
 - https://bootcamp.uxdesign.cc/ui-ux-visual-designers-behind-great-games-1bd1b2724001
 - https://github.com/nucliweb/People-You-Should-Follow-on-CodePen
 
+### Design system
+
+- [Do you love design systems and magic?](https://twitter.com/danmall/status/1450825066502148102)
+
 ### Measurement units
 
 - http://www.gregoryschmidt.ca/writing/when-is-a-pixel-not-a-pixel-pixels-points-dps
@@ -118,6 +122,7 @@
 - https://web.archive.org/web/20161029155622/https://colinaarts.com/articles/the-magic-of-overflow-hidden
 - https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer
 - https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1
+- https://samuelkraft.com/blog/safari-15-bottom-tab-bars-web
 
 ### Selector
 

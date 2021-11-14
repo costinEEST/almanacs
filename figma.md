@@ -33,6 +33,7 @@
 
 - https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7
 - https://souporserious.com/getting-started-with-figma-webhooks
+- https://svitlasystems.medium.com/how-to-create-complex-data-tables-in-figma-3bf3d537154d
 
 ### Plugins
 
@@ -45,4 +46,5 @@
 - https://www.figma.com/blog/plugins-to-help-you-design-with-real-content
 - https://setproduct.com/blog/figma-plugins-productivity-boost
 - https://www.marcandrew.me/20-awesome-figma-plugins-to-improve-your-workflow
+- https://ibuildmyideas.substack.com/p/automating-figma
 

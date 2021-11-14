@@ -31,6 +31,7 @@
 - [Quantifying Memory Unsafety and Reactions to It](https://www.usenix.org/conference/enigma2021/presentation/gaynor)
 - https://github.com/DevonCrawford/Video-Editing-Automation + https://www.youtube.com/playlist?list=PLhsehOUFGYaV3tJaEuWOeN1SI7eUEs7la
 - https://www.udemy.com/course/an-introduction-to-debugging-c-and-java
+- https://blog.robertelder.org/regular-expressions + https://www.youtube.com/playlist?list=PLp31D6HATKfdc5PSJTx7rIvlTLCSM5nDi
 
 ### Articles
 

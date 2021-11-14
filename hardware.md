@@ -65,6 +65,7 @@
 - [What Every Programmer Should Know About Memory | Ulrich Drepper](https://www.gwern.net/docs/cs/2007-drepper.pdf)
 - https://www.cnbc.com/2021/08/24/bosch-says-semiconductor-supply-chains-in-car-industry-no-longer-work.html
 - http://blog.notdot.net/2012/10/Build-your-own-FPGA
+- https://blog.robertelder.org/how-to-make-a-cpu
 
 ### Resistors
 
@@ -133,6 +134,7 @@
 ### History
 
 - http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1964_09-10.pdf + https://twitter.com/paulg/status/1376082495041589250
+- https://panic.com/blog/a-prototype-original-ipod
 
 ### Reference
 

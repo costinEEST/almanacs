@@ -46,6 +46,7 @@
 - [Run QEMU Android in a Docker](https://github.com/sickcodes/dock-droid)
 - https://www.eff.org/deeplinks/2021/09/introducing-apkeep-eff-threat-labs-new-apk-downloader
 - https://github.com/robertying/openssl-curl-android
+- [The Android Device Database](http://newandroidbook.com/ddb)
 
 ### APIs
 
@@ -86,6 +87,7 @@
 
 ### Security
 
+- https://madaidans-insecurities.github.io/android.html
 - [MOBISEC - Mobile Security Course](https://mobisec.reyammer.io)
 - https://github.com/anantshri/Android_Security + https://twitter.com/anantshri/status/1345757424616054790
 - https://enciphers.com/awesome-android-application-security

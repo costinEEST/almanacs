@@ -5,6 +5,8 @@
 - https://intelligence.wundermanthompson.com/2021/04/new-trend-report-regeneration-rising-sustainability-futures
 - https://www.goodreads.com/review/list/18982209?shelf=ecology
 - [PENTRU AGRICULTURA. ECOLOGICĂ. (culturi de câmp). BORIS BOINCEAN](https://eco-tiras.org/books/Ro-2.pdf)
+- [What is your favorite book on energy or climate?](https://twitter.com/gilbeaq/status/1210963374776958981)
+- https://net-zero.blog/bookshelf/sustainable-energy-without-the-hot-air
 
 ### Course
 
@@ -19,6 +21,10 @@
 - https://www.bbc.com/future/article/20210706-how-flooded-coal-mines-could-heat-homes
 - https://iscoada.com/eseu/avocado-cocaina-si-ulei-de-palmier
 - https://www.theguardian.com/food/2021/nov/01/end-of-the-avocado-why-chefs-ditching-the-unsustainable-fruit
+
+### Radio
+
+- [Relishing the shear amount of great climate-tech podcasts](https://twitter.com/ndrewwang/status/1458891592903925761)
 
 ### Reference
 

@@ -4,6 +4,7 @@
 - [iOS Tips and Tricks](https://blog.hoangnm.com/pageDir/iosTips)
 - https://rambo.codes/ios/quick-tip/2019/12/09/clearing-your-apps-launch-screen-cache-on-ios.html
 - https://lux.camera/iphone-12-camera-review + https://twitter.com/sdw/status/1377291408755716099
+- https://www.loopinsight.com/2021/11/11/how-to-teach-siri-to-pronounce-names-correctly-in-ios-15/
 
 ### Applications
 

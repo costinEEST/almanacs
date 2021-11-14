@@ -38,6 +38,7 @@
 - [Simple Bot to Track Balances using Python, SQLite, & Flask ](https://github.com/CryptoGnome/Crypto-Tracker)
 - [tell me how the waves are based on weather data and local knowledge](https://ronaldlangeveld.com/oracle-bot) + https://github.com/ronaldlangeveld/localsurferbot
 - https://github.com/SnirShechter/delete-slack-messages-script
+- [An automated Twitter Bot that Tweets random Battery Simulations and replies to requested Battery Simulations on Twitter](https://github.com/pybamm-team/BattBot)
 
 ### Clean code
 
@@ -147,8 +148,9 @@
 - https://github.com/jorritfolmer/vulnerable-api
 - https://github.com/andresriancho/race-condition-exploit
 
-### Servers
+### Server
 
+- [Python comes with a built-in HTTP server and SMTP server](https://twitter.com/ohmypy/status/1451560687436767240)
 - [Fun with sockets: let's write a webserver!](https://twitter.com/b0rk/status/1211762580655607808)
 - [A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.](https://github.com/mirumee/saleor)
 

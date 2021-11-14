@@ -89,6 +89,7 @@
 
 ### Security
 
+- https://madaidans-insecurities.github.io/guides/linux-hardening.html
 - [You may be vulnerable to hijacked VPN(OpenVPN/IPSec/Wireguard/etc) tunnels.](https://twitter.com/Ridgeback111/status/1202623324901302279)
 - https://github.com/ernw/hardening/blob/master/operating_system/linux/ERNW_Hardening_Linux.md
 - https://github.com/trimstray/the-practical-linux-hardening-guide

@@ -110,3 +110,4 @@
 ### Tool
 
 - https://github.com/juanluispaz/ts-sql-query
+- https://mmazzarolo.com/blog/2021-11-06-speed-up-your-typescript-monorepo-with-esbuild

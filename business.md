@@ -26,6 +26,7 @@
 - https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years + https://youtu.be/CZIINXhGDcs
 - https://www.amazon.com/Obliquity-goals-best-achieved-indirectly/dp/B00DO9HMB4
 - [Curating content on the interaction between technology and culture.](https://twitter.com/prathyvsh/status/1442138650632855558)
+- https://www.amazon.com/Company-History-Revolutionary-Library-Chronicles/dp/0812972872
 
 ### Cinema
 
@@ -119,6 +120,7 @@
 ### Culture
 
 - https://awesometalks.party/category/company-culture
+- https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395
 - https://awesometalks.party/category/agile
 - [Stripe: Thinking Like a Civilization](https://www.readthegeneralist.com/briefing/stripe)
 - [Do you know any SaaS businesses that have been equally public with their company culture and published a company manual?](https://twitter.com/arvidkahl/status/1213506047341715457)
@@ -156,6 +158,7 @@
 - https://www.economica.net/sanopass-a-atras-in-aprilie-investitii-de-peste-845-000-de-euro-prin-platforma-de-crowdfunding-seedblink_508360.html
 - [Answers to the most common questions from thousands of founders from Idea to Seed](https://pioneer.app/codex)
 - https://graphics.stanford.edu/~dk/google_name_origin.html#:~:text=In%201996%2C%20Larry%20Page%20and,Tamara%20Munzner%2C%20and%20Lucas%20Pereira.
+- https://blakeir.com/notes/alex-zhu-tiktok
 
 ### Investing
 
@@ -245,6 +248,11 @@
 - https://www.esquire.com/lifestyle/g35995934/greatest-moments-internet-history
 - https://cavesocial.com/alibaba
 - [Simulate retirement plans using historical data and gain the confidence you need to retire.](https://github.com/jamesplease/fi-calc-guide)
+
+### Opinion
+
+- https://www.matthewball.vc/the-metaverse-primer
+- [Apple, Its Control Over the iPhone, and The Internet](https://www.matthewball.vc/all/applemetaverse)
 
 
 ### Radio

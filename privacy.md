@@ -1,3 +1,8 @@
+### Accelerated Mobile Pages (AMP)
+
+- https://wptavern.com/amp-has-irreparably-damaged-publishers-trust-in-google-led-initiatives + https://twitter.com/robinberjon/status/1457103873764732946
+
+
 ### Book
 
 - https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 + https://craphound.com/category/destroy + https://www.goodreads.com/review/show/3525601035
@@ -20,6 +25,7 @@
 
 ### Hardware
 
+- https://madaidans-insecurities.github.io/security-privacy-advice.html
 - [USB data blocker](https://www.zdnet.com/article/this-cheap-gadget-can-stop-your-smartphone-or-tablet-being-hacked-at-an-airport-hotel-or-cafe/)
 - https://www.washingtonpost.com/technology/2019/12/17/what-does-your-car-know-about-you-we-hacked-chevy-find-out
 - https://github.com/StevenBlack/hosts
@@ -96,9 +102,11 @@
 - https://www.axios.com/soros-hoffman-disinformation-tara-mcgowan-b1e7cb89-a4f7-4281-8e0a-3877fe8a3944.html + https://www.anotheracronym.org
 - https://github.com/jonaslejon/tor-fingerprint
 - https://github.com/tylerault/flashdetect
+- https://madaidans-insecurities.github.io/browser-tracking.html
 
 ### Social media
 
+- https://madaidans-insecurities.github.io/messengers.html
 - https://github.com/tycrek/degoogle + https://www.wired.com/story/google-tracks-you-privacy
 - https://gavinr.com/three-tips-to-reduce-personal-data-tracking-in-2019
 - [short list of privacy conferences and privacy advocates](https://twitter.com/aral/status/1219929929145573377)

@@ -73,6 +73,10 @@
 - [Staking DApp for Eat The Blocks Projects hackathon #2.](https://github.com/assafom/eatthestake)
 - https://github.com/thecryptoshed/eth-dapp-developer-roadmap
 
+### Decentralized Autonomous Organizations
+
+- https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf
+
 ### De-fi
 
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
@@ -175,8 +179,11 @@
 - https://github.com/willitscale/learning-solidity
 - https://github.com/Rari-Capital/solcurity
 
+
 ### Non fungible tokens
 
+- https://cdixon.org/2021/02/27/NFTs-and-a-thousand-true-fans
+- https://blakeir.com/blog/full-time-fan
 - https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
 - https://www.mofi.net/nfts-blockchain-powered-art-trading-cards-music-and-more + https://opensea.io/assets/0xabefbc9fd2f806065b4f3c237d4b59d9a97bcac7/1953 + https://twitter.com/iamDCinvestor/status/1370362042616537090
 - https://seths.blog/2021/03/nfts-are-a-dangerous-trap + https://twitter.com/kelseyhightower/status/1368661020655251458 + https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans
@@ -203,6 +210,7 @@
 - https://buildspace.so/build-nfts
 - https://www.udemy.com/course/build-an-nft-marketplace-from-scratch-blockchain-dapp
 - https://github.com/KirstenPomales/The-State-of-NFT-Environmental-Impact-Reduction
+- [dataset of 7 million transactions of non-fungible tokens (NFTs) on the Ethereum blockchain. The dataset covers April to late September 2021, spans 9,000 NFT projects, and records each transaction’s sender, receiver, value, timestamp, and location in the blockchain](https://github.com/bugout-dev/moonstream/blob/main/datasets/nfts/papers/ethereum-nfts.pdf) + https://github.com/bugout-dev/moonstream + https://www.kaggle.com/simiotic/ethereum-nfts + https://twitter.com/atbeme/status/1451361968460238851
 
 ### Smart contracts
 

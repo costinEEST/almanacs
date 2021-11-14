@@ -9,6 +9,7 @@
 - https://www.amazon.com/Livewired-Inside-Story-Ever-Changing-Brain/dp/030790749X + https://eagleman.com/books/livewired
 - https://www.riedlanna.com/cognitivesciencemap.html
 - [Consuming memes during the COVID pandemic: Effects of memes and meme type on COVID-related stress and coping efficacy](https://psycnet.apa.org/record/2021-92499-001)
+- [the earliest executable image of a human brain](https://qntm.org/mmacevedo)
 
 ### Book
 
@@ -98,6 +99,7 @@
 ### Fitness
 
 - https://chekinstitute.com/podcast-episode-notes/ep-18-evolve-yourself-physically
+- https://www.changemakeracademy.com/articles/health-fitness-continuing-education
 - [Movement As Medicine 1-7 - Paul Chek](https://www.youtube.com/playlist?list=PLZupSfb-NVbqeLSTfY6jGmKStAWw2LQ57)
 - https://www.julian.com/guide/muscle/intro
 - https://github.com/evexoio/awesome-health
@@ -301,6 +303,7 @@
 - https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need
 - [The tangled history of mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w)
 - https://savjee.be/videos/simply-explained/mrna-vaccines-questions-and-misconceptions
+- [Covid-19: From Vaccination to Medication](https://ssm-live.com/MPFORUM2021)
 
 ### Radiation
 

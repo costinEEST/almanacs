@@ -2,6 +2,7 @@
 
 - [The design and evolution of C++ by Bjarne Stroustrup](https://twitter.com/oznova_/status/1214971707863101440)
 - [Modern OpenGL guide](https://github.com/Overv/Open.GL)
+- https://twitter.com/cpphl/status/1454501395068035077 + https://www.packtpub.com/product/the-art-of-writing-efficient-programs/9781800208117
 
 ### Community
 

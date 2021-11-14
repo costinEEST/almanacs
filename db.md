@@ -26,8 +26,9 @@
 - https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free
 - https://www.freecodecamp.org/news/learn-to-use-the-mysql-database
 
-### Tools
+### Tool
 
+- https://sqlime.org + https://github.com/nalgeon/sqlime + https://twitter.com/ohmypy/status/1441389585129377798
 - [Visualizing missing data in databases](https://www.codediesel.com/data/visualizing-missing-data-in-databases/)
 - [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
 - https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files

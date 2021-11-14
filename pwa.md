@@ -18,6 +18,7 @@
 - [Learn why and how other developers have used the web to create amazing web experiences for their users.](https://developers.google.com/web/showcase)
 - https://formidable.com/work/starbucks-progressive-web-app + https://realtalkjavascript.simplecast.com/episodes/episode-74-react-at-starbucks-with-cher
 - https://medium.com/samsung-internet-dev/improve-device-integration-for-your-web-app-in-just-a-few-minutes-cca413c4f0f
+- https://web.dev/clipchamp
 
 ### Cinema
 
@@ -40,6 +41,7 @@
 - [what library are you using to build them?](https://twitter.com/HarveyRamer/status/1375176619590057988)
 - https://itnext.io/publishing-a-progressive-web-app-pwa-on-the-playstore-what-works-and-what-doesnt-in-2021-c4cfea5a7601
 - https://blogs.windows.com/msedgedev/2021/10/19/pwa-summit-learn-progressive-web-apps-documentation
+- https://www.aaron-gustafson.com/notebook/enhancing-the-manifest
 
 ### Demo
 

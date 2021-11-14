@@ -1,6 +1,10 @@
-### Books
+### Book
 
 - https://www.amazon.com/Dan-Gookins-Guide-Curl-Programming-ebook/dp/B07ZS294W6
+
+### Tool
+
+- [HTTP client devtool, similar to Postman or Insomnia, but completely text-based](https://github.com/sharat87/prestige)
 
 ### Tutorials
 

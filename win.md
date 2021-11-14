@@ -44,6 +44,7 @@
 - [Unicode character search for macOS & Windows.](https://github.com/ueberdosis/glyphfinder)
 - https://mihail-gaberov.eu/how-to-run-docker-on-windows-10-home-edition
 - https://nelsonslog.wordpress.com/2021/09/09/scripting-windows-sound-and-display-settings
+- https://github.com/xelemental/Mind-Maps/tree/main/Windows
 
 
 ### Powershell

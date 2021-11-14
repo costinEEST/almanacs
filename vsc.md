@@ -43,4 +43,5 @@
 
 ### Tool
 
+- https://vscode.dev
 - [A simple script to automate downloading, installing and restarting Visual Studio Code.](https://github.com/moeenz/vscode-updater)

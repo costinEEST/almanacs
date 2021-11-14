@@ -6,6 +6,7 @@
 
 - https://fivebooks.com/best-books/aristotle-edith-hall
 - https://quakkels.com/posts/developing-strength-of-character
+- https://cdixon.org/2017/02/20/aristotle-computer
 
 ### Aaron Swartz
 
@@ -27,6 +28,15 @@
 
 - https://intuitiveexplanations.com/tech/replit
 
+### Bill Gurley
+
+-https://blakeir.com/notes/bill-gurley-benchmark
+
+### Bill Campbell
+
+- https://www.slideshare.net/ericschmidt/trillion-dollar-coach-book-bill-campbell
+- https://www.trilliondollarcoach.com
+
 ### Claude Shannon
 
 - https://www.amazon.com/Bit-Player-John-Hutton/dp/B08D291YQS
@@ -40,6 +50,10 @@
 
 - https://en.wikipedia.org/wiki/Bohm_Dialogue
 - https://www.brainpickings.org/2016/12/05/david-bohm-on-dialogue
+
+### David Rockefeller
+
+- https://blakeir.com/reading-list/october-2021/david-rockefellers-rolodex-was-the-stuff-of-legend
 
 ### Daniel Kaminsky
 
@@ -70,6 +84,10 @@
 - https://www.businessinsider.com/jeff-bezos-amazon-history-facts-2017-4
 - https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world + https://gist.github.com/chitchcock/1281611 + https://youtu.be/xDdkc_RwKYI + https://www.nfx.com/post/founders-list-amazon-google-rant
 - https://salon.thefamily.co/11-notes-on-amazon-part-1-cf49d610f195
+
+### John Collison
+
+- https://blakeir.com/notes/john-collison-stripe
 
 ### Patrick Collison
 
@@ -131,6 +149,10 @@
 ### Satya Nadella
 
 - https://mastersofscale.com/nadella
+
+### Socrates
+
+- [Sarah Fielding's Xenophon](https://edithorial.blogspot.com/2015/08/an-18th-century-detective-trail-sarah.html)
 
 ### Steve Jobs
 

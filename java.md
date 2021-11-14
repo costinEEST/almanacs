@@ -51,6 +51,10 @@
 - https://github.com/razvand/secure-programming-java
 - https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2
 
+### Microservice
+
+- https://www.goodreads.com/en/book/show/34372564-microservice-patterns
+
 ### Miscellaneous
 
 - https://github.com/Developer-Y/all-things-java
@@ -65,6 +69,7 @@
 ### Versions
 
 - [Collection of information about the history of Java primarily from a technical point of view.](https://github.com/marchof/java-almanac)
+- https://github.com/cosminpopescu14/Life_After_Java8 + https://www.reddit.com/r/java/comments/qpzmdy/java_ecosystem_vs_net_6/
 
 ### Optimizations
 

@@ -42,6 +42,7 @@
 - https://guidedhacking.com/threads/game-hacking-fundamentals-the-game-hacking-book.16550 + https://twitter.com/GuidedHacking/status/1388298251070287872
 - [A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.](https://github.com/mytechnotalent/Hacking-Windows)
 - https://leanpub.com/anti-reverse-engineering-linux + https://github.com/antire-book/antire_book
+- [A Beginner’s Guide to Understanding Game Hacking Techniques](https://gamehacking.academy/GameHackingAcademy.pdf) + https://gamehacking.academy
 
 ### Community
 

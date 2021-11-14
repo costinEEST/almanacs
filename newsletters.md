@@ -25,7 +25,7 @@
 - [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)
 - [True Positive Weekly](https://aiweekly.substack.com/archive)
 
-### Books
+### Book
 
 - [Leanpub Reader Mailing List](https://us3.campaign-archive.com/home/?u=d9dae16c3f9f533e6c9e48efb&id=92096ddde9)
 
@@ -50,6 +50,11 @@
 
 - [Prietenii Editurii Rabten](https://us9.campaign-archive.com/home/?u=631f68b23c06eceac05035aff&id=194eb176a7)
 - [Dunhuang Foundation](https://us10.campaign-archive.com/home/?u=069b842b10e7ad40bfba99e7f&id=c2f585d33a)
+
+### Chemistry
+
+- [Battery Modeling Webinar](https://us18.campaign-archive.com/home/?u=e3dd1920324b4db3a51b620ca&id=4e19a481ac)
+- https://intercalationstation.substack.com/archive
 
 ### Constructions
 
@@ -99,6 +104,11 @@
 - [Web3Coach](https://us19.campaign-archive.com/home/?u=0adf077591251fc41bf4c12c9&id=8e4d58de3c)
 - [Joseph Schiarizzi](https://www.getrevue.co/profile/cupojoseph)
 
+### Investing
+
+- [Dylan Patel](https://semianalysis.substack.com)
+- [Handsoff Investor](https://handsoff.substack.com/archive)
+
 ### Design
 
 - [Design Sprint Newsletter by Jake Knapp](https://www.getrevue.co/profile/designsprint)
@@ -111,6 +121,7 @@
 - [Studio Interrobang](https://us18.campaign-archive.com/home/?u=da42de3a9b43f1584f5b0c7d2&id=cb6b0eca26)
 - https://www.data-is-plural.com/archive
 - [Jer Thorp](https://tinyletter.com/blprnt/archive)
+- https://dataelixir.com
 
 ### Databases
 
@@ -149,6 +160,7 @@
 - [Amit Agarwal](https://www.getrevue.co/profile/labnol)
 - [Jon Kuperman](https://buttondown.email/jkup/archive)
 - [Xavier Decuyper](https://newsletter.savjee.be/#archive)
+- [Alex Kondov](https://us2.campaign-archive.com/home/?u=fca75767fa83fa3473478b4ca&id=495bb9068f)
 
 ### Web performance
 

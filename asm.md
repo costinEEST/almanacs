@@ -3,7 +3,7 @@
 - https://github.com/endrazine/wcc/wiki/wsh-with-ARM + https://twitter.com/endrazine/status/764288816123301889
 - [How to be a spooky ARMv8m hardware debugger](https://www.labbott.name/blog/2020/10/07/debugger.html)
 - https://blog.randallhyde.com/index.php/2021/03/14/the-imac-pro-m1
-- https://gumroad.com/l/Arm-cheatsheet-2020-version
+- https://gumroad.com/l/Arm-cheatsheet-2020-version + https://github.com/xelemental/Mind-Maps/tree/main/ARM
 - https://www.androidauthority.com/arm-vs-x86-key-differences-explained-568718
 - https://levelup.gitconnected.com/intel-x86-vs-arm-architecture-and-all-key-differences-explained-fb54a04788dc
 - https://www.arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm
@@ -38,6 +38,7 @@
 ### RISC-V
 
 - https://blog.randallhyde.com/index.php/2021/01/17/cisc-vs-risc-the-definition
+- [A mind map for beginners overview regarding RISC-V Architecture](https://github.com/xelemental/Mind-Maps/tree/main/RISC-V) + https://twitter.com/ElementalX2/status/1383099988230606857
 
 ### Tutorials
 

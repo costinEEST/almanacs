@@ -41,6 +41,7 @@
 - https://github.com/cruip/tailwind-landing-page-template
 - https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
 - https://github.com/serverless-nextjs/serverless-next.js
+- [An open source guide for building and deploying full-stack apps using Serverless and React on AWS](https://github.com/AnomalyInnovations/serverless-stack-com)
 - https://github.com/kkemple/theworst.dev
 - https://github.com/graphql-boilerplates/react-fullstack-graphql
 - https://github.com/wutali/nextjs-netlify-blog-template
@@ -362,6 +363,7 @@
 - https://jonmeyers.io/courses/build-an-e-commerce-platform-in-25-days-using-next-js-netlify-and-stripe
 - [windows 11 in react](https://github.com/blueedgetechno/windows11)
 - https://product.voxmedia.com/2020/10/23/21520222/building-an-in-browser-image-editor-with-react
+- [Personal website build with Chakra UI, NextJS and Airtable](https://github.com/wirtzdan/website)
 
 
 ### Testing
@@ -407,3 +409,4 @@
 - https://github.com/HearTao/ts-react-hooks-tools
 - [A boilerplate for SSR'd Vite, React 17, and TypeScript 4.3](https://blog.jonlu.ca/posts/vite)
 - https://javascript.plainenglish.io/10-ways-to-host-your-react-app-for-free-cf91fe615177
+- https://www.tpjnorton.com/blog/posts/next-js-12-performance-test-builds-appear-to-be-slower-not-faster

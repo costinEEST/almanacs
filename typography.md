@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - https://medium.com/@mwichary/shift-happens-5b049f5a93a8
 - https://www.dropbox.com/s/whg7jvdatx1ovzx/Calligraphy%20Guide%20Sheets.zip
@@ -43,6 +43,11 @@
 - https://meta.stackexchange.com/questions/364048/we-are-switching-to-system-fonts-on-may-10-2021 + https://news.ycombinator.com/item?id=27063991
 - [bitmap Chinese fonts from the 70s and 80s](https://library.stanford.edu/node/172367) + https://twitter.com/tsmullaney/status/1390320518566354946
 - [Why do fashion brands and magazines use so much Bodoni & Didot?](https://ilovetypography.com/2021/07/15/ask-ilt-fashion-fonts)
+- https://www.fastcompany.com/90693444/jony-ives-first-major-design-since-leaving-apple-isnt-what-youd-expect
+
+### History
+
+- https://www.women-in-type.com
 
 ### Tools
 
@@ -78,5 +83,8 @@
 - https://designmodo.com/font-psychology
 - https://reaganray.com/2021/04/23/best-picture-lettering.html
 - https://bigthink.com/strange-maps/united-fonts-of-america
-- https://designregression.com/article/line-length-revisited-following-the-research
 
+
+### Opinion
+
+- [Longer line lengths on screens no longer considered harmful](https://designregression.com/article/line-length-revisited-following-the-research)
