@@ -191,6 +191,8 @@
 - [A Python package that creates name suggestions for companies, software, etc.](https://github.com/AlexEngelhardt/startup-name-generator)
 - https://github.com/siddhesh/find-unicode-control
 - https://github.com/iosifache/scripts/tree/main/md_to_latex
+- [Search and play phrases from movies and audiobooks](https://github.com/kelciour/playphrase)
+- https://github.com/wkhtmltopdf/wkhtmltopdf
 
 
 ### Testing

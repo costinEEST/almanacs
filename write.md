@@ -61,3 +61,7 @@
 ### Radio
 
 - https://blacusens.ro/2021/04/marian-coman-trebuie-sa-pleci-la-drum-fara-asteptari-zest-54
+
+### Opinion
+
+- https://buffer.com/resources/writing-great-tweets-scientific-guide

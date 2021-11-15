@@ -50,6 +50,8 @@
 - [Free full-featured web-based audio & waveform editing tool](https://github.com/pkalogiros/AudioMass)
 - [Auto-Editor is a command line application for automatically editing video and audio by analyzing where sections are silent and cutting them up.](https://github.com/WyattBlue/auto-editor)
 - [My Cinematic SOUND DESIGN Process - Adobe Premiere Pro Tutorial | Aidin Robbins](https://youtu.be/MQ4kYSyBgcc)
+- [AwesomeTTS text-to-speech add-on for Anki](https://github.com/AwesomeTTS/awesometts-anki-addon)
+- https://github.com/emesterhazy/glossika-to-anki
 
 
 ### TV

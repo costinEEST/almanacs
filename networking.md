@@ -293,6 +293,10 @@
 
 - https://www.onaralili.com/posts/srp
 
+### MAC
+
+- https://github.com/RichardLitt/knowledge/blob/master/general/things-to-do-without-internet.md + https://github.com/feross/spoof
+
 ### Miscellaneous
 
 - https://github.com/alphaSeclab/awesome-network-stuff/blob/master/Readme_en.md

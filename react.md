@@ -364,6 +364,7 @@
 - [windows 11 in react](https://github.com/blueedgetechno/windows11)
 - https://product.voxmedia.com/2020/10/23/21520222/building-an-in-browser-image-editor-with-react
 - [Personal website build with Chakra UI, NextJS and Airtable](https://github.com/wirtzdan/website)
+- https://github.com/nlaz/flashcards-for-developers
 
 
 ### Testing

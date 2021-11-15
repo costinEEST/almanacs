@@ -141,6 +141,7 @@
 - [Working with video files](video.md)
 - [Write!](write.md)
 - [XML](xml.md)
+- [Zig](zig.md)
 
 ### Similar projects
 

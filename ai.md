@@ -154,6 +154,7 @@
 - [Platform for Automatic Analysis of Malicious Applications Using Artificial Intelligence Algorithms](https://github.com/iosifache/BachelorThesis) + https://github.com/iosifache/dike
 - [Detecting Fake Accounts on Social Media](https://github.com/emanuelcovaci/twittop)
 - https://github.com/patrickcgray/awesome-deep-ecology
+- [Code and real data for "Enhancing Human Learning via Spaced Repetition Optimization", PNAS 2019](https://github.com/Networks-Learning/memorize)
 
 ### Demos
 

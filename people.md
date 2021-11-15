@@ -87,6 +87,11 @@
 
 ### John Collison
 
+### Jordan Peterson
+
+- https://github.com/azer/notebook/blob/master/maps-of-meaning.md
+- https://tim.blog/2021/03/01/jordan-peterson
+
 - https://blakeir.com/notes/john-collison-stripe
 
 ### Patrick Collison

@@ -79,3 +79,4 @@
 - https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html + https://news.ycombinator.com/item?id=26899531
 - [JavaScript for Shell Scripting](https://github.com/google/zx) + https://news.ycombinator.com/item?id=27072515 
 - https://github.com/alexanderepstein/Bash-Snippets
+- https://publish.obsidian.md/davidgasquez/Handbook/Automation

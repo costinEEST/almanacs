@@ -28,12 +28,14 @@
 
 - [Ray Seyfarth | Michael Harris](https://www.youtube.com/playlist?list=PLOOO61Feqafvf-nnjJaLVdj9OZGnz_CG1)
 
-### References
+
+### Miscellaneous
 
 - https://notes.shichao.io/asm
 - [x86, x64, ARM? I Just Want to Download my Program!](https://marinhero.com/posts/architectures)
 - https://hackaday.com/2021/03/26/undocumented-x86-instructions-allow-microcode-access
 - [Links for advanced programmers](http://alexfru.narod.ru/elinks.html#advanced)
+- https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/assembly.md
 
 ### RISC-V
 

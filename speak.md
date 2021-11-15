@@ -55,6 +55,7 @@
 - https://www.britishcouncil.org/voices-magazine/five-digital-resources-autonomous-english-language-practice
 - https://foosoft.net/tags/japanese
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/languages.md
+- https://en.wikipedia.org/wiki/List_of_language_self-study_programs
 
 ### Tool
 
@@ -90,6 +91,10 @@
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqotxScb7W419m3hOsEzSw48
 - https://guhanmandarim.com.br/mandarim-live
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/chinese.md
+- https://github.com/prasannavl/knowledge/blob/master/language/basics.md#chinese
+- https://wannabe-polyglot.com/2016/12/31/learning-to-hear-tones.html
+- https://ai.glossika.com/blog/aged-30-he-speaks-19-languages-learn-his-one-secret-to-learn-any-language + https://www.foreverastudent.com/p/book_4.html
+- https://www.youtube.com/user/theforeverastudent/playlists
 
 ### Arabic
 
@@ -120,6 +125,7 @@
 - https://www.udemy.com/course/the-complete-english-idioms-course-master-english-idioms
 - https://www.futurelearn.com/courses/explore-english-shakespeare
 - https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers
+- [Dictionary of English medical terms for LibreOffice/OpenOffice/Android/Word](https://github.com/glutanimate/wordlist-medicalterms-en)
 
 ### Esperanto
 
@@ -154,6 +160,7 @@
 
 - http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - [Witch Trials in Hungary 1529–1768](https://twitter.com/TheHungarianFor/status/1454910612509704192)
+- https://www.lucalampariello.com/language-learning-resources/#tve-jump-1760460354b
 
 ### Hindi
 
@@ -171,6 +178,12 @@
 - https://github.com/leandrotk/nihongo
 - [Learn Japanese From Zero!](https://www.youtube.com/c/yesjapan/playlists)
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqpq-aOnrEUjEq2oidCXbp9J
+- https://blog.gaijinpot.com/free-apps-for-studying-japanese
+- https://tokyocheapo.com/entertainment/recommended-resources-for-learning-japanese
+- https://funjapaneselearning.com/anki-tutorial-carmilla
+- https://github.com/narze/knowledge/blob/master/japanese.md
+- [Drawing area widget for Anki to practice Kanji writing](https://github.com/pigoz/anki-canvas)
+- https://github.com/migaku-official/Migaku-Japanese-Addon
 
 ### Korean
 
@@ -205,6 +218,11 @@
 - https://urish.medium.com/i-taught-myself-spanish-this-is-how-2c453a8202af
 - https://www.udemy.com/course/learn-spanish-now
 - https://www.udemy.com/course/spanish-for-beginners-the-ultimate-course-level-1
+- https://www.lucalampariello.com/language-learning-resources/#tve-jump-1764962854d
+- https://travel-lingual.com/best-programs-to-learn-spanish
+- https://autolingual.com/glossika-spanish
+- https://spanishhackers.com/glossika-full-review-pros-and-cons
+- [Pau Ninja: el podcast](https://www.youtube.com/channel/UC5ePjvY8eRFQpoUvw_nrl4Q/playlists) + https://www.amazon.com/Aprender-idiomas-sin-tonter%C3%ADas-aprender-ebook/dp/B078KVT9MX + https://medium.com/@pau_writes
 
 ### Tibetan
 
@@ -213,6 +231,10 @@
 ### Polyglots
 
 - [Joseph Justus Scaliger](https://sententiaeantiquae.com/2020/03/06/skip-sleep-blast-through-homer) + https://twitter.com/nntaleb/status/1236017035534008320
+
+### Polish
+
+- https://github.com/slowernews/notebook/blob/master/on-polish-language.md
 
 ### Romanian
 

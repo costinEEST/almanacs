@@ -75,6 +75,7 @@
 
 ### Techniques
 
+- https://github.com/nicksp/til/blob/master/random/01-password-manager.md
 - https://github.com/Lissy93/personal-security-checklist
 - Studying the Resilience of Browser Fingerprinting to Block Crawlers: [tweet](https://twitter.com/xopek59/status/1218169607535693824) + [paper](https://hal.inria.fr/hal-02441653)
 - https://medium.com/@vmsp/blocking-your-adblocker-967d1c6e48f2

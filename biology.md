@@ -73,6 +73,7 @@
 - https://noorsiddiqui.com/how-gene-therapy-works
 - https://noorsiddiqui.com/what-is-in-your-genome
 - https://noorsiddiqui.com/what-is-chip-seq-atac-seq
+- https://publish.obsidian.md/davidgasquez/Handbook/DNA+Genetic+Testing+and+Analysis
 
 ### Miscellaneous
 

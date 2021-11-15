@@ -46,3 +46,7 @@
 ### Opinion
 
 - https://www.theguardian.com/environment/2021/aug/27/what-will-our-eco-friendly-homes-of-the-future-look-like
+
+### Miscellaneous
+
+- https://github.com/nikitavoloboev/knowledge/blob/main/art/architecture.md

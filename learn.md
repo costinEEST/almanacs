@@ -9,6 +9,8 @@
 
 - https://www.udemy.com/course/jack-of-all-trades
 - https://www.udemy.com/course/modern-mind-mapping-for-beginners-software-based-course
+- https://www.youtube.com/c/Glutanimate/playlists
+- https://www.youtube.com/theanking/playlists
 
 ### Community
 
@@ -36,6 +38,9 @@
 - https://mundyreimer.github.io/resources
 - https://vaclavkosar.com/productivity/Quizrecall-Learn-any-text-with-automatically-generated-quiz
 - https://github.com/nikitavoloboev/knowledge/blob/main/anki/anki.md
+- https://writing.brosencephalon.com/who-and-what-is-brosencephalon-2c4f6890f718 + https://www.brosencephalon.com
+- https://github.com/JASchilz/AnkiSyncDuolingo
+
 
 ### Theory
 

@@ -121,6 +121,7 @@
 
 - https://awesometalks.party/category/company-culture
 - https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395
+- https://github.com/nikitavoloboev/knowledge/blob/main/business/startups/values.md
 - https://awesometalks.party/category/agile
 - [Stripe: Thinking Like a Civilization](https://www.readthegeneralist.com/briefing/stripe)
 - [Do you know any SaaS businesses that have been equally public with their company culture and published a company manual?](https://twitter.com/arvidkahl/status/1213506047341715457)

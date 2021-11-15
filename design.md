@@ -15,6 +15,7 @@
 - https://kit.co/mrbenburns/design-books
 - https://uxplanet.org/dont-make-me-think-20-wise-thoughts-about-usability-from-steve-krug-876b563f1d63
 - https://asktog.com/atc/principles-of-interaction-design
+- https://en.wikipedia.org/wiki/Kenya_Hara#Books + https://www.ndc.co.jp/hara/en/books
 
 
 ### Cinema
