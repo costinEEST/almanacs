@@ -5,6 +5,7 @@
 ### Cinema
 
 - https://shyr.io/talks/blockchain-based-file-storage
+- https://www.youtube.com/c/AlchemistCamp/playlists
 
 ### Course
 

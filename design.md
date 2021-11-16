@@ -93,6 +93,7 @@
 - https://zthall.com/2017/06/11/narrows-crossfit-casestudy
 - https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios
 - [Dimitar Nestorov](https://dimitarnestorov.com)
+- [Sagir Khan](https://sagirk.com/#philosophy)
 
 ### Theory
 
