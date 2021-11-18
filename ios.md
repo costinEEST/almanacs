@@ -6,11 +6,12 @@
 - https://lux.camera/iphone-12-camera-review + https://twitter.com/sdw/status/1377291408755716099
 - https://www.loopinsight.com/2021/11/11/how-to-teach-siri-to-pronounce-names-correctly-in-ios-15/
 
-### Applications
+### Application
 
 - [How to create a simple OS X app in plain C without any Objective-C.](https://github.com/jimon/osx_app_in_plain_c)
 - https://mobilityarena.com/ios-apps-are-larger-than-android-apps
 - [SwissCovid is the official contact tracing app of Switzerland.](https://github.com/DP-3T/dp3t-app-ios-ch)
+- [thesis: comparing methods of teaching emotions to people on the Autism spectrum](http://www.lizziesiegle.xyz/thesis.pdf)
 
 ### Cinema
 

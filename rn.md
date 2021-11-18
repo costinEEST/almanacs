@@ -121,6 +121,7 @@
 - https://github.com/ximxim/RNDeepLinkAuth + https://medium.com/@azim.ahmed7/react-navigation-deep-linking-with-authentication-9056eb4a0456
 - https://around25.com/blog/how-to-implement-push-notifications-in-react-native
 - https://engineering.brigad.co/react-native-monorepos-code-sharing-f6c08172b417
+- https://github.com/sallar/booksy-app
 
 ### Packages
 

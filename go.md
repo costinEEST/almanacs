@@ -83,12 +83,13 @@
 - [Visualize Go Dependency Trees](https://github.com/KyleBanks/depth)
 - [A plain-text file format and command line tool for time tracking](https://github.com/jotaen/klog) + https://news.ycombinator.com/item?id=25995838
 - [Check for dependency confusion vulnerabilities in multiple package management systems](https://github.com/visma-prodsec/confused) + https://twitter.com/joohoi/status/1359467575441301504
-- [Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
+- [Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana](https://github.com/mattermost/focalboard)
 - [Make JSON greppable!](https://github.com/tomnomnom/gron)
 - [Share your terminal as a web application](https://github.com/yudai/gotty)
 - [Go library to capture desktop to image](https://github.com/kbinani/screenshot)
 - [make your own YouTube TV player](https://github.com/cbix/gotubecast)
 - [Download Youtube Video in Golang](https://github.com/kkdai/youtube)
+- [A node.js version management utility for Windows](https://github.com/coreybutler/nvm-windows)
 
 
 ### Radio

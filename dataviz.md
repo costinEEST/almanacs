@@ -43,6 +43,7 @@
 ### Best practices
 
 - https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf
+- [list of people and resources in Accessibility and Data Visualization](https://github.com/dataviza11y/resources)
 
 ### Tools
 

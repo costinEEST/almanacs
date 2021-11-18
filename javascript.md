@@ -54,6 +54,8 @@
 ### Data structures
 
 - https://areknawo.com/rocking-js-data-structures
+- https://github.com/Yomguithereal/mnemonist
+- https://github.com/jamiebuilds/itsy-bitsy-data-structures
 
 ### Obfuscation
 
@@ -471,6 +473,7 @@
 - https://github.com/zenparsing/skert
 - https://github.com/lkesteloot/turbopascal + https://news.ycombinator.com/item?id=26207624 + https://www.teamten.com/lawrence/projects/turbo_pascal_compiler
 - https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers + https://youtu.be/r76ZjdzFExg
+- https://twitter.com/Aayyushhh/status/1452752483596464130 + https://twitter.com/maxkoretskyi/status/1206604253965324288 + https://www.slideshare.net/secret/7URGTJH8P6JUiG + https://twitter.com/poledesfetes/status/1230151645914390528
 
 ### Parsers
 

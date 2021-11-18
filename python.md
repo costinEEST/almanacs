@@ -193,6 +193,7 @@
 - https://github.com/iosifache/scripts/tree/main/md_to_latex
 - [Search and play phrases from movies and audiobooks](https://github.com/kelciour/playphrase)
 - https://github.com/wkhtmltopdf/wkhtmltopdf
+- [control your PC's mouse and keyboard via voice controls, entirely based on pitch and volume](https://github.com/CopperPanMan/Voice-Mouse-Controller-for-PC)
 
 
 ### Testing

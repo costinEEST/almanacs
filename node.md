@@ -91,6 +91,7 @@
 - [Create Telegram bot with NodeJS and Firebase Cloud Functions](https://www.udemy.com/course/telegram-firebase-bot) + https://www.youtube.com/playlist?list=PLhMX5hA0NWUQoRqYNFBE35NlUn1J915M0
 - https://github.com/christian-fei/simple-telegram-message
 - [A simple Telegram ↔ IRC gateway](https://github.com/FruitieX/teleirc)
+- https://github.com/tracy-and-matt/awesome-twitch-dev#javascript-nodejs
 
 ### Boilerplate
 
@@ -122,6 +123,8 @@
 - [Single Page App boilerplate for the NERDS stack - Node, Express, React/Redux, Databases with SQL (PostgreSQL)](https://github.com/dye784/NERDS-starterpack)
 - https://github.com/santiq/bulletproof-nodejs
 - [Build your Typescript Node.js projects using blazing fast esbuild](https://github.com/a7ul/esbuild-node-tsc)
+
+
 ### Cinema
 
 - [MNUG - Munich NodeJS User Group](http://mnug.de/videos.html)
@@ -134,6 +137,7 @@
 - [Free SSL with Greenlock v2 (Let's Encrypt for Node.js)](https://www.youtube.com/playlist?list=PLZaEVINf2Bq_lrS-OOzTUJB4q3HxarlXk)
 - [Build a Node.js web app with no frameworks from scratch (frameworkless.js) | Mike Timofiiv](https://www.youtube.com/playlist?list=PL6GJH3ZLo67Viu3OrB7w-NhHGXBHt8btZ)
 - [OAuth/OpenID | Nat Sakimura](https://www.youtube.com/playlist?list=PLRUD_uiAYejRvQWkS2xjgFW20lRLp4snN)
+- [Franziska Hinkelmann](https://www.youtube.com/user/MrFhinkel/playlists)
 
 ### Course
 
@@ -151,6 +155,10 @@
 - https://github.com/sodium-friends/learntocrypto
 - https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs
 - https://github.com/simonplend/workshop-get-started-with-fastify + https://simonplend.com/workshop-recording-get-started-with-fastify
+
+### Command line
+
+- [can't find where you put that console.log?](https://twitter.com/davidmarkclem/status/1455850282294915074)
 
 ### Cheat sheets
 
@@ -210,6 +218,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/giltayar/ah-theyre-here-esm-nodejs
 - [Easily install, configure and compose Node.js ESM loaders.](https://github.com/targos/multiloader) + https://twitter.com/giltayar/status/1437273836899164160
 - [What is the best way to check if a node module/file is being called like a script instead of requiring it?](https://twitter.com/sseraphini/status/1455954446656098310)
+- [Publish JS project as dual ES modules and CommonJS package to npm](https://github.com/ai/dual-publish)
 
 
 ### Event loop
@@ -321,6 +330,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/bencevans/screenshot-desktop
 - [Check your npm modules for unused and duplicate dependencies fast](https://github.com/CryogenicPlanet/depp)
 - [Generates sunrise and sunset calendar items in CSV form for import to your favorite calendar program](https://github.com/scottnonnenberg/suncsv)
+- [Simple, private file sharing from the makers of Firefox](https://github.com/mozilla/send)
+- ["Will I break you" - a tool for testing dependents](https://github.com/pkgjs/wiby)
 
 
 ### Testing
@@ -372,7 +383,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [drpciv-crawler](https://github.com/AdiCutitoiu/chestionare-auto)
 - https://www.zenrows.com/blog/web-scraping-with-javascript-and-nodejs
 - [Crawls meta data and apks from google play](https://github.com/uw-swag/swag-crawler)
-- https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
+- https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021
+- [Identify NPM libraries included in Javascript files](https://bundlescanner.com)
 
 
 ### Micro service

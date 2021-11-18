@@ -45,3 +45,4 @@
 
 - https://vscode.dev
 - [A simple script to automate downloading, installing and restarting Visual Studio Code.](https://github.com/moeenz/vscode-updater)
+- [One second to read GitHub code with VS Code](https://github.com/conwnet/github1s)

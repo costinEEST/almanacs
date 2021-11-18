@@ -25,6 +25,7 @@
 - [Introduction to Databases - Jennifer Widom - Stanford](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0)
 - https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free
 - https://www.freecodecamp.org/news/learn-to-use-the-mysql-database
+- https://github.com/AlisdairO/pgexercises
 
 ### Tool
 
@@ -140,3 +141,4 @@
 - https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss + https://news.ycombinator.com/item?id=25870482
 - [Do you prefer SQL or NoSQL databases?](https://twitter.com/rafrasenberg/status/1376454875224113152)
 - https://romanorac.github.io/data/analytics/2019/11/11/5-mistakes-sql-queries.html
+- https://twitter.com/tlhunter/status/1459624433488850945

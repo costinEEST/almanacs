@@ -69,6 +69,7 @@
 - [Development tools to build, optimize and deploy Progressive Web Applications for Magento 2.](https://github.com/magento/pwa-studio)
 - [Example e-commerce site to explore PWA (Progressive Web App) use cases.](https://github.com/GoogleChromeLabs/sample-pie-shop)
 - https://github.com/abnersn/WorkoutTracker
+- https://gitlab.com/keraf/progressive-capitalist
 
 ### Security
 

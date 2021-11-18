@@ -168,3 +168,4 @@
 - https://www.gremlin.com/community/tutorials/chaos-engineering-tools-comparison
 - https://github.com/michael-kehoe/awesome-sre-cheatsheets
 - [Book Recommendations for the Infrastructure Engineer](https://github.com/stack72/ops-books)
+- [A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice SRE](https://github.com/upgundecha/howtheysre)

@@ -178,6 +178,7 @@
 - https://github.com/ajlopez/SoliditySamples
 - https://github.com/willitscale/learning-solidity
 - https://github.com/Rari-Capital/solcurity
+- https://github.com/James-Sangalli/learn-solidity-with-examples
 
 
 ### Non fungible tokens
