@@ -103,3 +103,4 @@
 
 - https://github.com/goabstract/Awesome-Design-Tools
 - https://andybudd.com/archives/2021/08/a-future-of-design-without-designers
+- https://dev.to/nyxtom/how-to-build-a-product-without-much-design-background-i66

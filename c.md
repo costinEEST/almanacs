@@ -92,6 +92,7 @@
 - ["class" and "template", among other things, are legal function/variable/struct names in C](https://twitter.com/azonenberg/status/1445172332054528002)
 - https://github.com/aknooh/Simple-File-System-in-C
 - [Helper functions for C](https://github.com/iosifache/CCookbook)
+- [URL Decoder written in C](https://gist.github.com/darkain/23da34f00ebf3f1572322df3605be51f)
 
 ### Security
 

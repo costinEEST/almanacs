@@ -64,3 +64,4 @@
 - https://chrislema.com/headless-woocommerce
 - https://mikejolley.com/2021/03/08/headless-wordpress-log-out-using-graphql-reactjs + https://twitter.com/mikejolley/status/1368995014135717900
 - https://www.wpgraphql.com/2021/03/09/gutenberg-and-decoupled-applications
+- https://github.com/lonekorean/wordpress-export-to-markdown

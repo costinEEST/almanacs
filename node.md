@@ -64,6 +64,10 @@
 - [Use Swagger v2 JSON Collections to generate Postman v1 collections which include sample request bodies](https://github.com/djfdyuruiry/swagger2-postman-generator)
 - https://github.com/xsadia/koa-todo-api
 - https://github.com/simonplend/talks/tree/main/improving-your-applications-with-abortcontroller
+- https://github.com/javieraviles/node-typescript-koa-rest
+- https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md
+- https://github.com/sudheerj/javascript-interview-questions
+- https://gist.github.com/paulfranco/9f88a2879b7b7d88de5d1921aef2093b
 
 
 ### Book
@@ -385,6 +389,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Crawls meta data and apks from google play](https://github.com/uw-swag/swag-crawler)
 - https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021
 - [Identify NPM libraries included in Javascript files](https://bundlescanner.com)
+- https://github.com/NikolaiT/Crawling-Infrastructure
 
 
 ### Micro service

@@ -47,6 +47,7 @@
 - https://www.eff.org/deeplinks/2021/09/introducing-apkeep-eff-threat-labs-new-apk-downloader
 - https://github.com/robertying/openssl-curl-android
 - [The Android Device Database](http://newandroidbook.com/ddb)
+- [web app to generate a generic privacy policy for your Android/iOS apps](https://github.com/nisrulz/app-privacy-policy-generator)
 
 ### APIs
 

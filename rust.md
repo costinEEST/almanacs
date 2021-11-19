@@ -92,6 +92,10 @@
 - https://github.com/MondayMorningHaskell/RustBeginners
 - [Migrate C code to Rust](https://github.com/immunant/c2rust)
 - https://github.com/imsnif/terminal-anatomy-code-examples + https://twitter.com/im_snif/status/1455494315602546694
+- https://dev.to/nyxtom/10-awesome-rust-crates-and-resources-to-learn-ef4
+- https://github.com/Nercury/rust-and-opengl-lessons
+- https://github.com/bwasty/learn-opengl-rs
+- https://github.com/dtolnay/proc-macro-workshop
 
 ### Podcast
 
@@ -109,6 +113,7 @@
 - [Return an emoji representing the current moon phase.](https://github.com/rickycodes/moonmoji)
 - [Yet another remote desktop software](https://github.com/rustdesk/rustdesk)
 - https://kerkour.com/blog/rust-reproducible-cross-compilation-with-docker
+- https://github.com/kbknapp/cargo-outdated
 
 ### Opinions
 
