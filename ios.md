@@ -5,6 +5,7 @@
 - https://rambo.codes/ios/quick-tip/2019/12/09/clearing-your-apps-launch-screen-cache-on-ios.html
 - https://lux.camera/iphone-12-camera-review + https://twitter.com/sdw/status/1377291408755716099
 - https://www.loopinsight.com/2021/11/11/how-to-teach-siri-to-pronounce-names-correctly-in-ios-15/
+- https://proteas.github.io/xcode/2021/11/18/xcode-tips-for-ios-security-researcher.html
 
 ### Application
 
@@ -30,6 +31,7 @@
 - [Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store](https://github.com/majd/ipatool)
 - https://faisalmemon.github.io/ios-crash-dump-analysis-book/en + https://twitter.com/patrickwardle/status/1451006222887370752
 - [A free, self-hosted, cross-platform service to sign and install iOS apps, all without a computer](https://github.com/SignTools/SignTools)
+- https://github.com/kenp-io/not-for-iphone-usb-c
 
 ### Security
 

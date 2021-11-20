@@ -39,6 +39,7 @@
 - [Pre-rendering static websites with wget](https://apex.sh/blog/post/pre-render-wget)
 - https://nuculabs.dev/2021/08/28/improving-the-throughput-of-a-producer-%e2%9c%88/
 - http://nathan.vegas/blog/errgroup-promise-all.html
+- [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md) + https://twitter.com/felixge/status/1435537024388304900
 
 ### Testing
 
@@ -55,6 +56,7 @@
 - https://github.com/martensonbj/fem-intro-to-go
 - [Web Architecture, Git, Curl, Interfaces, Context, Error Handling, & Escape Analysis](https://www.udemy.com/course/learn-golang)
 - [Mastering Go Modules, gRPC, Crawling, and Collaboration with Git](https://www.udemy.com/course/golang-tutorial)
+- https://www.golang.dk/courses/build-cloud-apps-in-go
 
 ### Cinema
 

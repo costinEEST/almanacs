@@ -8,6 +8,7 @@
 - https://willi.am/blog/2016/08/11/docker-for-windows-dealing-with-windows-line-endings
 - https://stackoverflow.com/questions/48198/how-can-you-find-out-which-process-is-listening-on-a-port-on-windows
 - https://github.com/shayne/wsl2-hacks
+- https://github.com/binarymist/command-line/blob/master/windows.md
 
 ### Cinema
 

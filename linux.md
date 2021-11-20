@@ -66,7 +66,7 @@
 - https://quakkels.com/posts/my-favorite-tools-on-linux
 - https://nelsonslog.wordpress.com/2021/10/31/a-simple-systemd-unit-file
 
-### TIL
+### Reference
 
 - https://www.jarv.org/191-hello-worlds.html
 - http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html
@@ -82,6 +82,7 @@
 - https://linuxcommandlibrary.com/basic/oneliners.html
 - https://github.com/YuCheLiu/Comptia_Linux_mindMap/blob/master/Linux_mindmap_pdf.pdf
 - https://drfits.com/lan-connection-is-not-working-on-linux
+- https://github.com/binarymist/command-line/blob/master/linux.md
 
 ### Embedded
 

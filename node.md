@@ -127,7 +127,7 @@
 - [Single Page App boilerplate for the NERDS stack - Node, Express, React/Redux, Databases with SQL (PostgreSQL)](https://github.com/dye784/NERDS-starterpack)
 - https://github.com/santiq/bulletproof-nodejs
 - [Build your Typescript Node.js projects using blazing fast esbuild](https://github.com/a7ul/esbuild-node-tsc)
-
+- https://github.com/benedmunds/Node-Express-MVR-Example
 
 ### Cinema
 

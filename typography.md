@@ -44,6 +44,7 @@
 - [bitmap Chinese fonts from the 70s and 80s](https://library.stanford.edu/node/172367) + https://twitter.com/tsmullaney/status/1390320518566354946
 - [Why do fashion brands and magazines use so much Bodoni & Didot?](https://ilovetypography.com/2021/07/15/ask-ilt-fashion-fonts)
 - https://www.fastcompany.com/90693444/jony-ives-first-major-design-since-leaving-apple-isnt-what-youd-expect
+- https://github.com/ryanoasis/nerd-fonts
 
 ### History
 

@@ -64,6 +64,7 @@
 
 ### References
 
+- https://github.com/k4m4/terminals-are-sexy
 - https://github.com/dylanaraps/pure-bash-bible
 - https://www.grymoire.com/Unix/Awk.html
 - [Bash Quick References](https://shellmagic.xyz)

@@ -127,6 +127,10 @@
 
 - https://postgresweekly.com/issues
 
+### Geopolitics
+
+- [Peter Zeihan](https://us11.campaign-archive.com/home/?u=de2bc41f8324e6955ef65e0c9&id=5654564be1) + http://zeihan.com/newsletter
+
 ### Typescript
 
 - [TypeScript Weekly from Marius Schulz](https://us14.campaign-archive.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42)

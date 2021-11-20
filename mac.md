@@ -37,6 +37,7 @@
 - [Keyboard Maestro macros I use (~ 1400 macros)](https://nikitavoloboev.gumroad.com/l/kmmacros)
 - https://github.com/ovflowd/do-you-miss-your-calendar-events
 - ["How I saved a year of our family pictures from a dead hard drive." saved ars forum](https://gist.github.com/chitchcock/fa356af5cb6393951b9f)
+- https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder
 
 ### References
 

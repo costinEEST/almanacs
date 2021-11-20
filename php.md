@@ -1,3 +1,7 @@
+### Algorithm
+
+- https://github.com/doganoo/PHPAlgorithms
+
 ### Cinema
 
 - [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://www.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)

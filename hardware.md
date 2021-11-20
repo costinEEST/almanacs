@@ -1,5 +1,6 @@
-### Books
+### Book
 
+- https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle0
 - [What books about hardware hacking would your recommend?](https://twitter.com/gynvael/status/1250749898296709121)
 - https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282
 - https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266

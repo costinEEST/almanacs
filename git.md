@@ -7,9 +7,10 @@
 
 - https://trevordmiller.com/videos
 
-### Miscellaneous
+### Reference
 
 - https://gitexplorer.com
+- https://github.com/binarymist/command-line/blob/master/git.md
 - [2 useful Git CLI tips for code review](https://twitter.com/danburzo/status/1200022067044859905)
 - https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk
 - [checkout](https://twitter.com/mislav/status/1206937217194741760)
@@ -84,7 +85,8 @@
 - https://awsteele.com/blog/2021/09/15/aws-federation-comes-to-github-actions.html
 - [View Your Repository On the Web. GH Action that renders all Markdown documents into HTML documents to view them as a website.](https://github.com/jerry-sky/vyrow)
 - https://ophirharpaz.github.io/posts/two-github-accounts-one-computer
-- https://blog.mifi.no/2021/01/10/example-github-action-workflow-to-auto-push-a-specified-directory-to-a-different-github-repo/
+- https://blog.mifi.no/2021/01/10/example-github-action-workflow-to-auto-push-a-specified-directory-to-a-different-github-repo
+- https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5
 
 ### Tools
 

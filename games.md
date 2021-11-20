@@ -82,3 +82,4 @@
 ### Security
 
 - https://guidedhacking.com/threads/the-history-of-game-hacking-aimbots.18758
+- https://github.com/dsasmblr/game-hacking

@@ -25,3 +25,4 @@
 ### Tool
 
 - [An Emacs framework for the stubborn martian hacker](https://github.com/hlissner/doom-emacs)
+- https://github.com/bnbeckwith/writegood-mode

@@ -45,6 +45,7 @@
 - [Fast math typesetting for the web](https://github.com/KaTeX/KaTeX)
 - https://github.com/brolani/tools/blob/master/report-generator/gen-report.sh
 - [Takes every HTML file in the html directory and turns it into a PDF, EPUB, and MOBI file.](https://github.com/baldurbjarnason/book-tricks)
+- [Trigger an action on an element with a keyboard shortcut](https://github.com/github/hotkey)
 
 ### Miscellaneous
 
