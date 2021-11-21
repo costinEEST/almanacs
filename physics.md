@@ -7,6 +7,10 @@
 - https://www.scribd.com/doc/262317806/Buna-Ziua-Domnule-Ampere-Tomas-Borec
 - [Every Life Is on Fire: How Thermodynamics Explains the Origins of Living Things | Jeremy England](https://www.amazon.com/gp/product/B083JYRMSF)
 
+### Cinema
+
+- [UC Berkeley: PHYS 10 - Physics for Future Presidents | CosmoLearning.org](https://www.youtube.com/playlist?list=PLaLOVNqqD-2Ep5N9os9jWMSkxK_TLki9h)
+
 ### Miscellaneous
 
 - https://physicstravelguide.com

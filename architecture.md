@@ -12,6 +12,7 @@
 ### Book
 
 - https://www.amazon.com/Battle-Life-Beauty-Earth-World-Systems/dp/0199898073
+- https://www.amazon.com/101-Things-Learned-Architecture-School-ebook/dp/B08S74443T + https://twitter.com/1mehmetaliak/status/1455635310415601671
 - [Get Your House Right: Architectural Elements to Use & Avoid ~ Marianne Cusato](https://www.amazon.com/Get-Your-House-Right-Architectural/dp/1402791038) + https://medium.com/@simon.sarris/designing-a-new-old-home-part-2-2a5ea1a1b2b3
 - https://www.amazon.com/The-Original-Green-Unlocking-Sustainability/dp/1931871116
 - https://devonzuegel.com/post/cities-reading-list + https://twitter.com/michael_nielsen/status/975886747870441472
@@ -37,6 +38,7 @@
 - https://www.re-thinkingthefuture.com/article/20-great-movies-every-architect-should-watch
 - https://www.classicist.org/articles/the-art-of-making-places-a-panel-discussion-on-ciudad-cayala
 - [Creating Sustainable Cities By Design](https://www.asianscientist.com/2021/05/features/asias-changemakers-jason-pomeroy-singapore)
+- [Ohio State: History of Architecture I with Prof. Jacqueline Gargus | CosmoLearning](https://www.youtube.com/playlist?list=PLaLOVNqqD-2HUsGTv_GQ3opJoPPjdM9S6)
 
 ### Community
 

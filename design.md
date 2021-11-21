@@ -99,6 +99,7 @@
 ### Theory
 
 - https://www.toptal.com/designers/ui/gestalt-principles-of-design
+- https://davidhoang.substack.com/p/applying-growth-design-and-prototyping
 
 ### Tool
 

@@ -60,6 +60,7 @@
 - [Julien Klepatch](https://dev.to/jklepatch)
 - [Who are the under-appreciated heroes of Ethereum?](https://twitter.com/jinglejamOP/status/1436458822952886272)
 - https://github.com/denisnazarov/awesome-crypto-trackers
+- https://twitter.com/WeekInEthNews
 
 
 ### DApps 
@@ -250,6 +251,7 @@
 - https://github.com/MrToph/replaying-ethereum-hacks
 - https://github.com/cawfree/create-react-native-dapp
 - https://github.com/fvictorio/hardhat-examples
+- [The ultimate guide to L2s on Ethereum](https://mirror.xyz/dcbuilder.eth/QX_ELJBQBm1Iq45ktPsz8pWLZN1C52DmEtH09boZuo0)
 
 ### Demos
 
@@ -306,3 +308,4 @@
 - https://infosecadalid.com/2021/09/14/smart-contracts-and-cybersecurity
 - https://github.com/MrToph/capture-the-ether
 - https://cmichel.io/how-to-become-a-smart-contract-auditor + https://twitter.com/cmichelio/status/1454471156157886478
+- https://mudit.blog/twitter-threads + https://mudit.blog/live-stream-auditing-smart-contracts

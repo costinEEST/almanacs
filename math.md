@@ -46,7 +46,7 @@
 - [Geometry & Art: How Mathematics Transformed Art During the Renaissance by David G. Wade](https://www.goodreads.com/review/show/3902871925)
 - [Books on Islamic Geometry & related topics](https://www.samiramian.uk/books)
 
-### Courses
+### Course
 
 - https://github.com/llSourcell/learn_math_fast
 - https://github.com/Developer-Y/math-science-video-lectures#mathematics
@@ -56,6 +56,7 @@
 - [Notes for courses taken at Harvard (2015--2019)](https://github.com/Dongryul-Kim/harvard_notes)
 - http://abel.math.harvard.edu/pamphlets/courses.html
 - https://github.com/hongshin/DiscreteMath
+- https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen  https://www.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq
 
 ### Cinema
 

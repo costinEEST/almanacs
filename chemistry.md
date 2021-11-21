@@ -61,6 +61,7 @@
 ### Tool
 
 - https://periodictable.com + https://theodoregray.com/PeriodicTable
+- https://usefulcharts.com/products/alternative-periodic-table
 - https://twitter.com/EntosAI/status/1435302658886098947 + https://www.entos.ai/envision
 - https://www.udemy.com/course/chemicalprocess-engineering-drawingsdiagrams
 - http://lacey.se/2019/07/18/two-new-web-apps

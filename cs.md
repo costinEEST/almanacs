@@ -35,6 +35,7 @@
 - https://github.com/JanVanRyswyck/awesome-talks#computer-history
 - https://github.com/Developer-Y/cs-video-courses#quantum-computing
 - [ Event-Driven Information Systems](https://www.youtube.com/channel/UCSoUh4ikepF3LkMchruSSaQ/playlists)
+- [Ohio State: EE 481 - Engineering Ethics with Kevin Passino | CosmoLearning.org Engineering](https://www.youtube.com/playlist?list=PLaLOVNqqD-2E5EYdtKlA5VWdsLNl0FEYH)
 
 ### Book
 
@@ -56,6 +57,7 @@
 - [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)
 - https://github.com/onlurking/category-theory-for-programmers
 - https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books
+- http://nature-of-order.stefan-lesser.com/alexanders-foreword-to-patterns-of-software
 
 
 ### TIL

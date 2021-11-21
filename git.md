@@ -1,9 +1,10 @@
-### Courses
+### Course
 
 - https://github.com/k88hudson/git-flight-rules
 - https://github.com/pingcap/talent-plan/blob/master/courses/tp103-open-source-community.md
+- https://www.freecodecamp.org/news/advanced-git-interactive-rebase-cherry-picking-reflog-and-more
 
-### Videos
+### Cinema
 
 - https://trevordmiller.com/videos
 
@@ -87,6 +88,7 @@
 - https://ophirharpaz.github.io/posts/two-github-accounts-one-computer
 - https://blog.mifi.no/2021/01/10/example-github-action-workflow-to-auto-push-a-specified-directory-to-a-different-github-repo
 - https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5
+- [Generate releases based on semantic version labels on pull requests](https://github.com/intuit/auto)
 
 ### Tools
 

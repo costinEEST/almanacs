@@ -107,6 +107,7 @@
 - https://madaidans-insecurities.github.io/browser-tracking.html
 - https://mauromorales.com/2021/04/04/dedicating-a-device-for-accessing-your-social-networks
 - [tracking using etags instead of cookies (or localstorage or anything else)](https://github.com/lucb1e/cookielesscookies)
+- https://www.proofpoint.com/us/blog/email-and-cloud-threats/what-can-cyber-criminal-learn-about-you-using-your-mobile-number
 
 ### Social media
 

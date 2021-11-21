@@ -1,3 +1,11 @@
+### Alcohol
+
+- https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened + https://news.ycombinator.com/item?id=25887200
+- [Uncorking the Past The Quest for Wine, Beer, and Other Alcoholic Beverages |  Patrick E. McGovern](https://www.ucpress.edu/book.php?isbn=9780520267985)
+- https://www.dailymail.co.uk/sciencetech/article-9618659/Vegetarians-drink-smoke-appear-healthier-carnivores-study-finds.html
+- https://edition.cnn.com/2021/09/29/business/scotland-pea-based-gin-arbikie-climate-hnk-spc-intl
+- [Out of the Bottle: Wine Science](https://www.youtube.com/playlist?list=PLB2w1JNHV4HSIgrPiBjGGMNeQvCsHekbb)
+
 ### Blood
 
 - https://www.redpenreviews.org/reviews/eat-right-4-your-type-the-individualized-blood-type-diet-solution
@@ -40,6 +48,7 @@
 - https://www.amazon.com/Metazoa-Animal-Life-Birth-Mind/dp/0374207941
 - https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311 + https://twitter.com/curiouswavefn/status/1432888533933453318
 - https://www.theguardian.com/books/2021/sep/29/top-10-books-about-human-consciousness-charles-foster-being-a-human
+- https://peterattiamd.com/rickdoblin
 
 ### Cooking
 
@@ -66,6 +75,7 @@
 - [gingivitis, periodontitis & heart disease - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xnbbJvE9y4iat16_rQVm2L)
 - [Calcifying Nanoparticles - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LFssuFNroVieEEWvs8fXjQr)
 - https://medicalfuturist.com/technologies-that-will-shape-the-future-of-cancer-care
+- https://www.amazon.com/Real-Anthony-Fauci-Democracy-Childrens/dp/1510766804
 
 ### Grocery
 
@@ -75,6 +85,11 @@
 - https://ligiapop.com/2012/05/04/microferme-si-producatori-bio-locali
 - https://shop.greensense.ro/fructe-crude/17-nuci-macadamia.html#/3-gramaj-1kg
 - https://shop.greensense.ro/fructe-crude/3-nuci-pecan.html#/3-gramaj-1kg
+
+### Gluten
+
+- https://cresthospital.co.nz/hospital/specialist-directory/dr-kamran-rostami + https://twitter.com/KamranRostami15
+- [Jennifer Fugo talks about gluten free](https://www.youtube.com/user/jenfugo/playlists)
 
 ### Sex
 
@@ -164,7 +179,6 @@
 - https://wellnessforce.com/the-science-of-why-vegans-get-sick
 - https://www.cristianmargarit.ro/2014/10/despre-antinutrienti-si-toxine-naturale-mancare
 - [Lectins - clistbus](https://www.youtube.com/playlist?list=PLy5C4b2v0Bq0vTRUziPB_RB3ZJu1Mmplj)
-- [Jennifer Fugo talks about gluten free](https://www.youtube.com/user/jenfugo/playlists)
 - https://mdlingo.com/a-guide-to-coconut-products-water-milk-cream-oil-butter
 - https://inquisitivebiologist.com/2019/11/25/book-review-slime-how-algae-created-us-plague-us-and-just-might-save-us
 
@@ -205,12 +219,6 @@
 - https://www.magicmushroommap.com
 - https://hyperallergic.com/686707/a-psychedelic-history-of-mushrooms-as-medicine
 
-### Alcohol
-
-- https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened + https://news.ycombinator.com/item?id=25887200
-- [Uncorking the Past The Quest for Wine, Beer, and Other Alcoholic Beverages |  Patrick E. McGovern](https://www.ucpress.edu/book.php?isbn=9780520267985)
-- https://www.dailymail.co.uk/sciencetech/article-9618659/Vegetarians-drink-smoke-appear-healthier-carnivores-study-finds.html
-- https://edition.cnn.com/2021/09/29/business/scotland-pea-based-gin-arbikie-climate-hnk-spc-intl
 
 ### Cannabis
 

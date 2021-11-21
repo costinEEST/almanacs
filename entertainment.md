@@ -107,6 +107,7 @@
 - https://restofworld.org/2021/beyond-silicon-valley
 - https://www.strangeloopcanon.com/p/the-endearing-mythology-of-a-flat
 - https://www.amazon.com/Firmament-Science-Weather-Climate-Surrounds-ebook/dp/B092LN5DQ1
+- [Plaid Avenger: GEOG 1014 - Geography of World Regions | CosmoLearning Geography](https://www.youtube.com/playlist?list=PLaLOVNqqD-2F5X2eC4jjlXuqMmXqmWusB)
 
 ### History
 
@@ -130,6 +131,8 @@
 - https://acesounderglass.com/2019/10/16/epistemic-spot-checks-the-fall-of-rome
 - https://www.caseyliss.com/2021/3/1/black-history-month
 - https://en.wikipedia.org/wiki/From_Dawn_to_Decadence
+- https://www.youtube.com/playlist?list=PLaLOVNqqD-2HKHtfe4No8Sua_3JEvRHGe  https://cosmolearning.org/courses/medieval-europe-500-1500
+- [Bilkent: HCIV-102 History of Civilization II | CosmoLearning History](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FzHv8-N93sSiMIfmST-Gzf)
 
 ### Mythology
 

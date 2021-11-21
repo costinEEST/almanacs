@@ -64,6 +64,10 @@
 
 - https://offbynone.io/issues
 
+### Drawing
+
+- [Clarissa Grandi](https://us1.campaign-archive.com/home/?u=b02fe4323315fe24b98ed99ae&id=111a72a557)
+
 ### Judaism
 
 - [Jewish Studies Weekly](https://us13.campaign-archive.com/home/?u=f000ad8783f4985c05ec1a11c&id=df05eee35a)
