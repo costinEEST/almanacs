@@ -16,6 +16,7 @@
 - https://uxplanet.org/dont-make-me-think-20-wise-thoughts-about-usability-from-steve-krug-876b563f1d63
 - https://asktog.com/atc/principles-of-interaction-design
 - https://en.wikipedia.org/wiki/Kenya_Hara#Books + https://www.ndc.co.jp/hara/en/books
+- [Designa: Technical Secrets of the Traditional Visual Arts](https://www.goodreads.com/en/book/show/20613528) + https://twitter.com/jackrusher/status/1395766428301676545
 
 
 ### Cinema

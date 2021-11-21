@@ -6,6 +6,7 @@
 ### Community
 
 - https://twitter.com/daslu_/status/1376835468336193540
+- [Anybody else working in Clojure to create generative art?](https://twitter.com/jackrusher/status/1461062820976594958)
 
 ### Practice
 

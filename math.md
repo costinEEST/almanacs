@@ -12,9 +12,10 @@
 - [Open-source textbooks on calculus, linear algebra, differential equations, real analysis, abstract algebra, combinatorics, and introduction to proof -- a partial list](https://twitter.com/stevenstrogatz/status/1208199688362610688)
 - https://github.com/nadvornix/calculus-made-easy + https://twitter.com/helenczerski/status/1375915057905856513
 
-### Books
+### Book
 
 - [ The Art and Craft of Problem Solving - Paul Zeitz](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
+- https://www.amazon.com/Quadrivium-Classical-Liberal-Geometry-Cosmology-ebook/dp/B08FF2C3ZV
 - [Introduction to Graph Theory (Dover Books on Mathematics)](https://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709)
 - http://danaernst.com/resources/free-and-open-source-textbooks
 - [Mathematical Illustrations: A Manual of Geometry and PostScript](http://www.math.ubc.ca/~cass/graphics/manual)
@@ -41,6 +42,9 @@
 - https://greenteapress.com/wp/think-complexity-2e
 - [physics/math books that don't just recycle known arguments/history but present either a new viewpoint or lesser-known aspects of history?](https://twitter.com/curiouswavefn/status/1436809822704324609)
 - https://www.amazon.com/Mysticism-modern-mathematics-Hastings-Berkeley/dp/1418181862
+- https://www.goodreads.com/book/show/6221915-exploring-mathematics-with-mathematica
+- [Geometry & Art: How Mathematics Transformed Art During the Renaissance by David G. Wade](https://www.goodreads.com/review/show/3902871925)
+- [Books on Islamic Geometry & related topics](https://www.samiramian.uk/books)
 
 ### Courses
 

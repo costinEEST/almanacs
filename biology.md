@@ -14,6 +14,7 @@
 - https://www.bookdepository.com/Philosopher-on-Wall-Street-David-Ewing-Duncan/9781626348714
 - [Is there any visually appealing biology science fiction?](https://twitter.com/LauraDeming/status/1438267984934424576)
 - https://www.goodreads.com/review/list/18982209?shelf=biology
+- https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312
 
 ### Course
 

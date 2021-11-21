@@ -212,6 +212,7 @@
 - https://www.udemy.com/course/build-an-nft-marketplace-from-scratch-blockchain-dapp
 - https://github.com/KirstenPomales/The-State-of-NFT-Environmental-Impact-Reduction
 - [dataset of 7 million transactions of non-fungible tokens (NFTs) on the Ethereum blockchain. The dataset covers April to late September 2021, spans 9,000 NFT projects, and records each transaction’s sender, receiver, value, timestamp, and location in the blockchain](https://github.com/bugout-dev/moonstream/blob/main/datasets/nfts/papers/ethereum-nfts.pdf) + https://github.com/bugout-dev/moonstream + https://www.kaggle.com/simiotic/ethereum-nfts + https://twitter.com/atbeme/status/1451361968460238851
+- https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html
 
 ### Smart contracts
 

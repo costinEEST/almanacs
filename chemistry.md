@@ -10,6 +10,7 @@
 
 - [When Topology Meets Chemistry: A Topological Look at Molecular Chirality | Erica Flapan](https://www.amazon.com/When-Topology-Meets-Chemistry-Topological/dp/0521664829)
 - https://twitter.com/IBchemmilam/status/1458952437360910340
+- https://www.amazon.com/Elements-Visual-Exploration-Every-Universe-ebook/dp/B011IZNWZU + https://www.amazon.com/Molecules-Architecture-Everything-Theodore-Gray-ebook/dp/B01FRASA5O + https://www.amazon.com/Reactions-Illustrated-Exploration-Elements-Molecules-ebook/dp/B01N6ZBGUB
 
 ### Cinema
 
@@ -59,6 +60,7 @@
 
 ### Tool
 
+- https://periodictable.com + https://theodoregray.com/PeriodicTable
 - https://twitter.com/EntosAI/status/1435302658886098947 + https://www.entos.ai/envision
 - https://www.udemy.com/course/chemicalprocess-engineering-drawingsdiagrams
 - http://lacey.se/2019/07/18/two-new-web-apps

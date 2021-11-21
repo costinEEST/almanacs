@@ -331,6 +331,7 @@
 - [How did you fix your posterior chain?](https://github.com/jasoncwarner/ama/issues/35)
 - https://darebee.com/mealplans.html
 - [Classifying brain activity using low-cost biosensors and automated time tracking](https://github.com/ErikBjare/thesis)
+- https://cardiobot.swiftwithmajid.com
 
 ### Miscellaneous
 

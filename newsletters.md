@@ -109,6 +109,10 @@
 - [Dylan Patel](https://semianalysis.substack.com)
 - [Handsoff Investor](https://handsoff.substack.com/archive)
 
+### iOS
+
+- [Marius Constantinescu](https://github.com/iOS-Goodies/iOS-Goodies)
+
 ### Design
 
 - [Design Sprint Newsletter by Jake Knapp](https://www.getrevue.co/profile/designsprint)

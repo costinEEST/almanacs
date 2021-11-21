@@ -113,6 +113,7 @@
 - [React Native](rn.md)
 - [Read!](read.md)
 - [ReasonML](reasonml.md)
+- [Rhetoric](rhetoric.md)
 - [Ruby](ruby.md)
 - [Rust](rust.md)
 - [Scala](scala.md)

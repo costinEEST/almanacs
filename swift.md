@@ -1,6 +1,7 @@
 ### Algorithm
 
 - https://github.com/raywenderlich/swift-algorithm-club
+- https://github.com/ochococo/Design-Patterns-In-Swift
 
 ### Book
 
@@ -11,6 +12,7 @@
 
 - https://kaitlin.dev/speaking
 - [A video series on functional programming and the Swift programming language.](https://www.pointfree.co)
+- https://github.com/Lascorbe/CocoaConferences
 
 
 ### Development
@@ -42,4 +44,5 @@
 - https://github.com/BohdanOrlov/ios-skills-matrix
 - [iOS Library List - A useful collection for iOS developers](https://github.com/hugo53/iLL)
 - https://github.com/onmyway133/fantastic-ios-architecture
+- https://github.com/JohnSundell/SwiftTips
 
