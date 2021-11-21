@@ -194,6 +194,7 @@
 - [Search and play phrases from movies and audiobooks](https://github.com/kelciour/playphrase)
 - https://github.com/wkhtmltopdf/wkhtmltopdf
 - [control your PC's mouse and keyboard via voice controls, entirely based on pitch and volume](https://github.com/CopperPanMan/Voice-Mouse-Controller-for-PC)
+- https://github.com/jvns/pandas-cookbook
 
 
 ### Testing

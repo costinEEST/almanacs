@@ -237,6 +237,7 @@ javascript: (() =>
 - https://blog.mozilla.org/data/2020/03/16/understanding-default-browser-trends
 - [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
 - https://honzajavorek.cz/blog/how-i-consume-content
+- https://timvisee.com/blog/firefox-tricks-quantumbar
 
 ### Safari
 

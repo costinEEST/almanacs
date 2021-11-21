@@ -96,6 +96,7 @@
 - https://github.com/Nercury/rust-and-opengl-lessons
 - https://github.com/bwasty/learn-opengl-rs
 - https://github.com/dtolnay/proc-macro-workshop
+- https://github.com/timvisee/advent-of-code-2020
 
 ### Podcast
 
@@ -114,6 +115,7 @@
 - [Yet another remote desktop software](https://github.com/rustdesk/rustdesk)
 - https://kerkour.com/blog/rust-reproducible-cross-compilation-with-docker
 - https://github.com/kbknapp/cargo-outdated
+- [Easily and securely share files from the command line](https://github.com/timvisee/ffsend) + https://twitter.com/CKsTechNews/status/1374998403646685189
 
 ### Opinions
 

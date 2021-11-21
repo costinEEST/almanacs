@@ -390,7 +390,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021
 - [Identify NPM libraries included in Javascript files](https://bundlescanner.com)
 - https://github.com/NikolaiT/Crawling-Infrastructure
-
+- [Creates a static snapshot of a website. Sort of like wget's mirror mode, but with nice urls](https://github.com/remy/snap)
 
 ### Micro service
 

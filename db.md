@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work.](https://www.databass.dev/)
@@ -14,6 +14,7 @@
 - https://caitiem.com/2017/09/07/getting-started-with-distributed-systems
 - [Streaming Systems. The What, Where, When, and How of Large-Scale Data Processing by Tyler Akidau, Slava Chernyak, and Reuven Lax](http://streamingsystems.net)
 - https://github.com/mhadidg/software-architecture-books#streaming-and-messaging
+- https://github.com/karlseguin/the-little-mongodb-book
 
 ### Course
 
@@ -42,6 +43,7 @@
 - [The Open Source Airtable Alternative. Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.](https://github.com/nocodb/nocodb) + https://news.ycombinator.com/item?id=27303783
 - [A Node.js powered tool that wraps pgdump and pgrestore then lets you share database dumps using git.](https://github.com/sdelements/flan)
 - [GUI to interact with databases](https://twitter.com/taylor_atx/status/1435384700529520645)
+- [View SQLite file online](https://github.com/inloop/sqlite-viewer)
 
 
 ### Hacks

@@ -62,6 +62,7 @@
 ### gRPC
 
 - [GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley](https://youtu.be/l_P6m3JTyp0)
+- [A collection of public Ethereum APIs](https://github.com/prysmaticlabs/ethereumapis)
 
 ### Health
 
@@ -144,3 +145,4 @@ curl v2.wttr.in/Bucharest
 - https://github.com/arainho/awesome-api-security
 - https://github.com/yosriady/api-development-tools
 - https://www.osohq.com/developers/authorization-academy
+- [The Museum of Modern Art (MoMA) collection data](https://github.com/MuseumofModernArt/collection)

@@ -59,6 +59,7 @@
 - [Shayan Eskandari](https://medium.com/@sbetamc)
 - [Julien Klepatch](https://dev.to/jklepatch)
 - [Who are the under-appreciated heroes of Ethereum?](https://twitter.com/jinglejamOP/status/1436458822952886272)
+- https://github.com/denisnazarov/awesome-crypto-trackers
 
 
 ### DApps 
@@ -137,6 +138,8 @@
 - [Atomic cross-chain swaps for Chia and its forks](https://github.com/Yakuhito/yakuSwap)
 - https://github.com/input-output-hk/essential-cardano
 - https://github.com/McCoady/Blockchain-Dev-101
+- https://github.com/decrypto-org/blockchain-papers
+- https://github.com/Mechanism-Labs/MetaAnalysis-of-Alternative-Consensus-Protocols
 
 ### Boilerplate
 
@@ -167,6 +170,7 @@
 - https://github.com/CristinaSolana/solana-developer-resources
 - https://2501babe.github.io/posts/solana101.html
 - [Ethereum <> Solana 🧵on technical differences.](https://twitter.com/Web3Coach/status/1436758232069025792)
+- https://github.com/ilmoi/solana-onboarding
 
 ### Solidity
 
@@ -179,6 +183,8 @@
 - https://github.com/willitscale/learning-solidity
 - https://github.com/Rari-Capital/solcurity
 - https://github.com/James-Sangalli/learn-solidity-with-examples
+- [Solidity 0.8.X AST parsing and analysis in Rust](https://github.com/camden-smallwood/solidity-rs)
+- https://github.com/thedarkjester/SolidityGasSamples
 
 
 ### Non fungible tokens
