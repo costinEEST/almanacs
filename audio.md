@@ -7,6 +7,7 @@
 
 - [Sound Design | Aidin Robbins](https://www.youtube.com/playlist?list=PLWPee627x2SbTbBub80dqKxM4pvQxUrx2)
 - https://www.youtube.com/c/TomasGeorge/playlists
+- [Web Audio Conf](https://www.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw/playlists)
 
 ### Reference
 
@@ -52,11 +53,9 @@
 - [My Cinematic SOUND DESIGN Process - Adobe Premiere Pro Tutorial | Aidin Robbins](https://youtu.be/MQ4kYSyBgcc)
 - [AwesomeTTS text-to-speech add-on for Anki](https://github.com/AwesomeTTS/awesometts-anki-addon)
 - https://github.com/emesterhazy/glossika-to-anki
+- [A small server that downloads and transcodes MP3s and then serves them via range requests](https://github.com/lukekarrys/yt-streaming-audio-server)
+- https://github.com/bryanjenningz/record-audio
 
-
-### TV
-
-- [Web Audio Conf](https://www.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw/playlists)
 
 ### Security
 

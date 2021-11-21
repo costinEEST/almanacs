@@ -15,3 +15,4 @@
 ### Reference
 
 - [Developer industry stats and where to find them](https://github.com/sw-yx/tracking)
+- https://github.com/prathyvsh/probability-statistics-reading-list

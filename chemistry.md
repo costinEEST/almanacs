@@ -1,3 +1,11 @@
+### Battery
+
+- https://www.anthropocenemagazine.org/2021/09/a-spoonful-of-sugar-makes-a-better-battery
+- https://www.intercalation.co/resources + https://twitter.com/IntercalationSt/status/1437695386374873090
+- https://science.slashdot.org/story/21/11/12/221222/chemists-discover-new-way-to-harness-energy-from-ammonia + https://phys.org/news/2021-11-chemists-harness-energy-ammonia.html
+- https://www.amazon.com/Empires-Light-Edison-Westinghouse-Electrify/dp/0375758844
+- https://www.purdue.edu/newsroom/releases/2021/Q4/electric-vehicles-could-fully-recharge-in-under-5-minutes-with-new-charging-station-cable-design.html
+
 ### Book
 
 - [When Topology Meets Chemistry: A Topological Look at Molecular Chirality | Erica Flapan](https://www.amazon.com/When-Topology-Meets-Chemistry-Topological/dp/0521664829)
@@ -23,6 +31,32 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/chemistry/chemistry.md
 - https://hardware.slashdot.org/story/17/04/19/016213/the-slashdot-interview-with-lithium-ion-battery-inventor-john-b-goodenough
 
+
+### Miscellaneous
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUe_xIGI_L9D5D7qL6UCymlS
+- https://www.youtube.com/user/periodicvideos/playlists
+- https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA/playlists
+- [PiHKAL: A Chemical Love Story](https://en.wikipedia.org/wiki/PiHKAL) + [TIHKAL: The Continuation](https://en.wikipedia.org/wiki/TiHKAL)
+- https://github.com/Developer-Y/math-science-video-lectures#chemistry
+- [Edible chem by NileRed](https://www.youtube.com/playlist?list=PLbaramj7Nly7bs5EiT3Hmlx4XudWHe6V0)
+- [Electrochemistry by NurdRage](https://www.youtube.com/playlist?list=PLU79801KtVAUCrIv5rJn3lEK_6IvekEa7)
+- https://www.amazon.com/Ten-Drugs-Powders-History-Medicine/dp/1419734407
+- https://youtu.be/favrMbfi1Pw + https://www.amazon.com/Demon-Machine-Paul-Davies/dp/024130959X
+- [Heroin documentaries](https://matt.sh/heroin)
+- https://github.com/nikitavoloboev/knowledge/blob/master/chemistry/chemistry.md
+- [Chemistry - PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry)
+- https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms
+- https://pt.kle.cz/en_US/index.html + https://github.com/petrkle/periodic-table
+- https://en.wikipedia.org/wiki/The_Periodic_Table_%28short_story_collection%29
+- https://www.amazon.com/Lithium-Doctor-Breakthrough-Walter-Brown/dp/1631491997 + https://twitter.com/curiouswavefn/status/1378034347479986176
+- [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory](https://www.amazon.com/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861)
+- https://www.youtube.com/c/DoodlesintheMembrane/playlists + https://twitter.com/in_doodles
+- https://inquisitivebiologist.com/2021/04/29/book-review-the-rare-metals-war-the-dark-side-of-clean-energy-and-digital-technologies
+- https://inquisitivebiologist.com/2021/04/29/book-review-the-elements-of-power-gadgets-guns-and-the-struggle-for-a-sustainable-future-in-the-rare-metal-age
+- https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-solid-state-lithium-battery
+- [Cosmetic Chemistry | Lab Muffin Beauty Science](https://www.youtube.com/playlist?list=PLbpMGOFlpHNDt2fEM04062eM8Yk1oX_KF)
+
 ### Tool
 
 - https://twitter.com/EntosAI/status/1435302658886098947 + https://www.entos.ai/envision
@@ -31,15 +65,8 @@
 - https://twitter.com/batterymodel/status/1437435682293784577
 - http://sciwiki.io/index.php?title=Tools
 
-### Battery
-
-- https://www.anthropocenemagazine.org/2021/09/a-spoonful-of-sugar-makes-a-better-battery
-- https://www.intercalation.co/resources + https://twitter.com/IntercalationSt/status/1437695386374873090
-- https://science.slashdot.org/story/21/11/12/221222/chemists-discover-new-way-to-harness-energy-from-ammonia + https://phys.org/news/2021-11-chemists-harness-energy-ammonia.html
-- https://www.amazon.com/Empires-Light-Edison-Westinghouse-Electrify/dp/0375758844
-- https://www.purdue.edu/newsroom/releases/2021/Q4/electric-vehicles-could-fully-recharge-in-under-5-minutes-with-new-charging-station-cable-design.html
-
 ### Radio
 
 - [Cell Siders](https://open.spotify.com/show/2I2gNULTcq4MxEfJ8zu0uR)
 - https://anchor.fm/battery-associates
+

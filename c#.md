@@ -15,6 +15,7 @@
 ### Practice
 
 - https://github.com/Necula-Horatiu/How-you-type
+- https://github.com/martijnboland/LeanAspNetCore-React
 
 
 ### Tool

@@ -228,6 +228,10 @@
 - https://b3nac.com/posts/2021-06-14-A-Not-So-Safe-safeTransferFrom-Implementation.html
 - https://twitter.com/jsjoeio/status/1427287794699759622
 
+### Eos
+
+- https://github.com/MrToph/KingOfEos + https://cmichel.io/categories/EOS
+
 ### Ethereum
 
 - [Code samples for the Ethereum for Web Developers book](https://github.com/spalladino/ethereum-samples)
@@ -235,6 +239,10 @@
 - https://github.com/paulrberg/create-eth-app
 - https://docs.chain.link/docs/hackathon-resources
 - https://github.com/tintinweb/smart-contract-sanctuary
+- https://github.com/loredanacirstea/articles
+- https://github.com/MrToph/replaying-ethereum-hacks
+- https://github.com/cawfree/create-react-native-dapp
+- https://github.com/fvictorio/hardhat-examples
 
 ### Demos
 
@@ -289,3 +297,5 @@
 - https://github.com/openblocksec/blocksec-incidents
 - [Blockchain Hacking QuickStart Guide](https://start.blockchainhax.com) + https://www.slideshare.net/dafthack/getting-started-in-blockchain-security-and-smart-contract-auditing
 - https://infosecadalid.com/2021/09/14/smart-contracts-and-cybersecurity
+- https://github.com/MrToph/capture-the-ether
+- https://cmichel.io/how-to-become-a-smart-contract-auditor + https://twitter.com/cmichelio/status/1454471156157886478

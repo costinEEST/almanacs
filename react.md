@@ -355,7 +355,7 @@
 - [Instagram clone built with React & React Query](https://github.com/filippobarcellos/instagram-clone-react)
 - https://github.com/BenoitAverty/realworld-remix.run
 - https://github.com/vladnicula/timezone-manager
-- [The open-source Calendly alternative.](https://github.com/calendso/calendso)
+- [The open-source Calendly alternative](https://github.com/calendso/calendso)
 - https://www.joshwcomeau.com/blog/how-i-built-my-blog
 - https://github.com/filipemerker/micro-frontend-talk-example
 - https://github.com/Hendrixer/production-grade-nextjs

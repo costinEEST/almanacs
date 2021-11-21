@@ -9,8 +9,10 @@
 ##### Most of the links are listed here for the potential of being useful someday.
 
 - [Artificial intelligence](ai.md)
+- [Anatomy](anatomy.md)
 - [Android](android.md)
 - [Angular](angular.md)
+- [Animals](animals.md)
 - [API](api.md)
 - [Apparel](apparel.md)
 - [Architecture](architecture.md)
@@ -20,6 +22,7 @@
 - [Basketball](basketball.md)
 - [Biology](biology.md)
 - [Blender](blender.md)
+- [Botany](botany.md)
 - [Burp Suite](burp.md)
 - [Business](business.md)
 - [C](c.md)
