@@ -18,6 +18,7 @@
 - https://www.riedlanna.com/cognitivesciencemap.html
 - [Consuming memes during the COVID pandemic: Effects of memes and meme type on COVID-related stress and coping efficacy](https://psycnet.apa.org/record/2021-92499-001)
 - [the earliest executable image of a human brain](https://qntm.org/mmacevedo)
+- [educating the public about neurodiversity](https://github.com/alvarlagerlof/neurodiversity)
 
 ### Book
 
@@ -33,6 +34,12 @@
 - [books that we have read and helped us get started with the ketogenic way of eating.](https://www.amazon.com/shop/mexican_keto_journey?listId=2XBJADZ4G6AAE)
 - [The Abolition of Aging: The forthcoming radical extension of healthy human longevity](https://www.amazon.com/dp/B01G5QAYJ4)
 - [Chinese Medicine and Healing An Illustrated History Edited by TJ Hinrichs Linda L. Barnes](https://www.hup.harvard.edu/catalog.php?isbn=9780674047372)
+- https://www.amazon.com/Toxin-Solution-Products-Destroying-Health/dp/0062427458
+- https://www.amazon.com/Hunter-Gatherers-Guide-21st-Century-Evolution-Challenges/dp/1800750749
+
+### Carbohydrates
+
+- https://www.amazon.com/Epi-paleo-Rx-Prescription-Disease-Reversal/dp/0989057739
 
 ### Cinema
 
@@ -90,6 +97,10 @@
 
 - https://cresthospital.co.nz/hospital/specialist-directory/dr-kamran-rostami + https://twitter.com/KamranRostami15
 - [Jennifer Fugo talks about gluten free](https://www.youtube.com/user/jenfugo/playlists)
+
+### Heart
+
+- [Human Heart, Cosmic Heart: A Doctor’s Quest to Understand, Treat, and Prevent Cardiovascular Disease | Thomas Cowan](https://www.amazon.com/gp/customer-reviews/R31P5U3OKDHYDX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=1603586199)
 
 ### Sex
 
