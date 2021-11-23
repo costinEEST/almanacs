@@ -56,6 +56,7 @@
 - https://foosoft.net/tags/japanese
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/languages.md
 - https://en.wikipedia.org/wiki/List_of_language_self-study_programs
+- [Learn new vocabulary without any effort · checknlearn](https://checknlearn.com)
 
 ### Tool
 

@@ -108,6 +108,7 @@
 - https://singularityhub.com/2021/05/23/nikola-tesla-5g-network-could-realize-his-dream-of-wireless-electricity
 - [What I learned of the VOIP hacker scene by setting up a SIP Honeypot](https://shufflingbytes.com/posts/sip-honeypot)
 - https://github.com/W00t3k/Awesome-Cellular-Hacking
+- [tools to facilitate the analysis of the DJI drone WiFi communication protocol](https://github.com/Toemsel/dji-wifi-tools)
 
 ### 5G
 

@@ -23,6 +23,7 @@
 - http://ramimac.me/security/syndicated/offensive-authorization-code
 - https://github.com/fiatjaf/awesome-loginless
 - https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js
+- https://www.udemy.com/course/oauth-2-simplified
 
 ### API
 

@@ -1,3 +1,7 @@
+### Cinema
+
+- [Bob Martin - The Future of Programming](https://youtu.be/ecIWPzGEbFc)
+
 ### Devevlopment
 
 - [Wibble Quest an iPhone Text Adventure Game Framework](http://orta.io/WibbleQuest/index.html) + https://github.com/orta/WibbleQuest
