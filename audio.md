@@ -55,6 +55,7 @@
 - https://github.com/emesterhazy/glossika-to-anki
 - [A small server that downloads and transcodes MP3s and then serves them via range requests](https://github.com/lukekarrys/yt-streaming-audio-server)
 - https://github.com/bryanjenningz/record-audio
+- [A mini Spotify player with WebGL visualizations](https://github.com/dvx/lofi)
 
 
 ### Security

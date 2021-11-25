@@ -56,6 +56,7 @@
 - https://areknawo.com/rocking-js-data-structures
 - https://github.com/Yomguithereal/mnemonist
 - https://github.com/jamiebuilds/itsy-bitsy-data-structures
+- [Data structures for high-performance JavaScript applications](https://github.com/zandaqo/structurae)
 
 ### Obfuscation
 
@@ -256,6 +257,10 @@
 - https://twitter.com/rauschma/status/1330881310039175169
 - https://github.com/andreigasparovici/npm-time-ago-ro
 
+### new Error()
+
+- https://wbinnssmith.com/blog/subclassing-error-in-modern-javascript
+
 ### setInterval()
 
 - [setInterval implementation with setTimeout](https://github.com/n0ruSh/blogs/blob/master/articles/Implement%20setInterval%20with%20setTimeout.md)
@@ -362,6 +367,7 @@
 - https://github.com/ziishaned/learn-regex
 - https://blog.superhuman.com/how-to-eliminate-regular-expression-denial-of-service + https://speakerdeck.com/lmt_swallow/revisiting-redos-a-rough-idea-of-data-exfiltration-by-redos-and-side-channel-techniques + https://twitter.com/y0n3uchy/status/1225008844809486336
 - [Build a habit of using search() or match() functions of String, when working with global regexes, instead of relying on test()](https://blog.rebased.pl/2021/03/16/a-regular-expression-surprise-in-javascript.html)
+- https://github.com/jawj/web-scraping-for-researchers
 
 ### IndexDB
 
@@ -436,6 +442,7 @@
 
 ### Testing
 
+- https://github.com/umaar/learn-browser-testing
 - [End-to-end testing with NightwatchJS](https://www.youtube.com/playlist?list=PLHe-juD38yt4t38EsggDx2viWXz9Dc0OS)
 - https://testautomationu.applitools.com/jest-testing-tutorial
 - https://github.com/mojoaxel/awesome-regression-testing
@@ -529,6 +536,7 @@
 - [What's the best tool to build a monorepo?](https://twitter.com/douglasdemoura/status/1452723004954353664)
 - [A way to manage your versioning and changelogs with a focus on monorepos](https://github.com/atlassian/changesets)
 - https://github.com/stevekinney/frontend-architecture-topics
+- https://github.com/RobinCsl/awesome-js-tooling-not-in-js
 
 ### Documentation
 

@@ -72,6 +72,7 @@
 - https://github.com/nordicgiant2/awesome-landing-page
 - https://github.com/CreativeCodeBerlin/creative-coding-minilist
 - [Screenlane - Web & mobile UI design inspiration](https://screenlane.com)
+- [An open source crowdfunding tool built on Shopify](https://github.com/cmod/craigstarter)
 
 
 ### User experience

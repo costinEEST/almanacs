@@ -110,6 +110,7 @@
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://selfhostedsource.tech/self-hosted/all
 - https://joshtronic.com/2021/08/01/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
+- [Personal server configuration with k3s](https://github.com/erebe/personal-server)
 
 ### References
 

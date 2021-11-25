@@ -11,6 +11,11 @@
 
 - [UC Berkeley: PHYS 10 - Physics for Future Presidents | CosmoLearning.org](https://www.youtube.com/playlist?list=PLaLOVNqqD-2Ep5N9os9jWMSkxK_TLki9h)
 
+### Course
+
+- [ME101: Introduction to Mechanical Engineering](https://github.com/saylordotorg/course_me101)
+- [ME302: Mechatronics](https://github.com/saylordotorg/course_me302)
+
 ### Miscellaneous
 
 - https://physicstravelguide.com

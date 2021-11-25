@@ -84,6 +84,7 @@
 
 ### Practice
 
+- https://github.com/integer32llc/rust-playground
 - https://ferrous-systems.github.io/teaching-material
 - https://github.com/AxlLind/AdventOfCode2020
 - https://github.com/lmammino/rust-advent

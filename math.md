@@ -53,7 +53,7 @@
 - https://github.com/ossu/computer-science#core-math + https://github.com/ossu/computer-science#advanced-math
 - https://twitter.com/FedericoArdila/status/1241414233444810753 + https://www.youtube.com/user/federicoelmatematico/playlists
 - [Cambridge Mathematics Lecture Notes](https://github.com/dalcde/cam-notes)
-- [Notes for courses taken at Harvard (2015--2019)](https://github.com/Dongryul-Kim/harvard_notes)
+- [Notes for courses taken at Harvard (2015--2019)](https://github.com/sujeet-Kim/harvard_notes)
 - http://abel.math.harvard.edu/pamphlets/courses.html
 - https://github.com/hongshin/DiscreteMath
 - https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen  https://www.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq

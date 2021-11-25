@@ -12,6 +12,7 @@
 ### Course
 
 - https://app.pluralsight.com/paths/skill/shell-scripting-with-bash-and-z-shell
+- https://github.com/lhunath/guide.bash.academy
 
 ### TIL
 

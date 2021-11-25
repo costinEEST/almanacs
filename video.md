@@ -55,6 +55,7 @@
 - [The swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 - [media downloader and library for various sites](https://github.com/blackjack4494/yt-dlc)
 - https://zoomcorder.com
+- [A PoC for USB video out from the DJI FPV Goggles, inspired by The Video Out Club](https://github.com/fpv-wtf/voc-poc)
 
 ### Opinions
 

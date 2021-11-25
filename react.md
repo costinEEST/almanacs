@@ -366,6 +366,7 @@
 - https://product.voxmedia.com/2020/10/23/21520222/building-an-in-browser-image-editor-with-react
 - [Personal website build with Chakra UI, NextJS and Airtable](https://github.com/wirtzdan/website)
 - https://github.com/nlaz/flashcards-for-developers
+- [Print a QR code for connecting to your WiFi](https://github.com/bndw/wifi-card)
 
 
 ### Testing

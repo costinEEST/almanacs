@@ -44,6 +44,8 @@
 - [A Node.js powered tool that wraps pgdump and pgrestore then lets you share database dumps using git.](https://github.com/sdelements/flan)
 - [GUI to interact with databases](https://twitter.com/taylor_atx/status/1435384700529520645)
 - [View SQLite file online](https://github.com/inloop/sqlite-viewer)
+- [PgTyped automatically generates types and interfaces for your SQL queries by using your running Postgres database as the source of type information](https://github.com/adelsz/pgtyped)
+- [Convert an Apple Healthkit export zip to a SQLite database](https://github.com/dogsheep/healthkit-to-sqlite)
 
 
 ### Hacks
@@ -120,6 +122,7 @@
 
 - [Anyone tried Gun.js? Thoughts?](https://twitter.com/dabit3/status/1221949512878624768)
 - [EdgeDB is looking clean.](https://twitter.com/rauchg/status/1221985754059964416)
+- [An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB](https://github.com/pubkey/client-side-databases)
 
 ### Miscellaneous
 
@@ -144,3 +147,4 @@
 - [Do you prefer SQL or NoSQL databases?](https://twitter.com/rafrasenberg/status/1376454875224113152)
 - https://romanorac.github.io/data/analytics/2019/11/11/5-mistakes-sql-queries.html
 - https://twitter.com/tlhunter/status/1459624433488850945
+- https://github.com/sujeet-agrahari/awesome-database-design

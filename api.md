@@ -92,6 +92,7 @@ curl v2.wttr.in/Bucharest
 - https://github.com/darekkay/tip-of-the-day/tree/master/src/data-sources/countries-en
 - https://github.com/oldboyxx/Mapped-Country-Language-Codes
 - [Full list of timezones.](https://github.com/dmfilipenko/timezones.json)
+- https://www.felix-schwarz.org/blog/2015/03/calculating-sunrise-sunset-without-core-location
 - [A PHP client for Apple's Find My iPhone service.](https://github.com/tylerhall/sosumi)
 - https://github.com/eveporcello/simple-strava-sample + https://moonhighway.com/incorporating-rest-data
 - https://github.com/apilayer/restcountries

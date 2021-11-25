@@ -26,16 +26,7 @@
 - http://fremycompany.com/BG/2016/Animate-width-from-zero-to-auto-kinda-895
 - https://fossheim.io/writing/posts/css-polaroid-camera
 
-### SEO
 
-- https://www.smashingmagazine.com/smashing-guide-search-engine-optimization
-- https://developers.google.com/search/docs/guides/intro-structured-data
-- [Find broken links, missing images, etc within your HTML.](https://github.com/stevenvachon/broken-link-checker)
-- [🐿 Scurry around your site and find all those broken links.](https://github.com/JustinBeckwith/linkinator)
-- https://vasco3.gitbooks.io/hacks-n-notes/content/internet_marketing/seo.html
-- https://github.com/darekkay/best-practices#seo
-- [Curs Super SEO pentru eCommerce](https://academia.gomag.ro/biblioteca?access=67)
-- https://www.linkedin.com/pulse/200-unsolicited-seo-tips-mark-williams-cook
 
 ### Color
 

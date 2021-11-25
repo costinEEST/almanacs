@@ -15,6 +15,7 @@
 ### Book
 
 - https://github.com/changwookjun/StudyBook
+- https://github.com/jackdoe/programming-for-kids
 - https://book.pythontips.com/en/latest
 - https://automatetheboringstuff.com/2e
 - [Getting Started Neo4j with Python (For Complete Beginners)](<https://github.com/ybaktir/neo4ds/blob/master/Getting%20Started%20Neo4j%20with%20Python%20(For%20Complete%20Beginners).ipynb>)
@@ -195,6 +196,7 @@
 - https://github.com/wkhtmltopdf/wkhtmltopdf
 - [control your PC's mouse and keyboard via voice controls, entirely based on pitch and volume](https://github.com/CopperPanMan/Voice-Mouse-Controller-for-PC)
 - https://github.com/jvns/pandas-cookbook
+- [A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 
 
 ### Testing

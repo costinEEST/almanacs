@@ -31,6 +31,7 @@
 - [A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK) ](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
 - [Spent some time bundling Ordinary Puzzles with Electron (using React Native for Web)](https://github.com/mmazzarolo/ordinary-puzzles-app/pull/49)
 - https://gitlab.com/keraf/electron-web-com-poc
+- [An extensible desktop mail app built on the modern web](https://github.com/nylas/nylas-mail)
 
 ### Boilerplates
 

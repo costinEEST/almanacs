@@ -27,7 +27,8 @@
 - https://www.udemy.com/course/google-associate-android-developer-certification-2021
 - https://www.udemy.com/course/a-beginners-guide-to-android-app-development
 - https://www.udemy.com/course/absolute-java-basics-for-android
-
+- https://github.com/amitshekhariitbhu/awesome-android-complete-reference
+- https://github.com/androiddevnotes/awesome-android-learning-resources
 
 ### Tools
 

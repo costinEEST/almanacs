@@ -32,6 +32,8 @@
 - https://faisalmemon.github.io/ios-crash-dump-analysis-book/en + https://twitter.com/patrickwardle/status/1451006222887370752
 - [A free, self-hosted, cross-platform service to sign and install iOS apps, all without a computer](https://github.com/SignTools/SignTools)
 - https://github.com/kenp-io/not-for-iphone-usb-c
+- https://github.com/jphong1111/awesome-ios-developer
+- https://github.com/738/awesome-apple-watch
 
 ### Security
 

@@ -153,7 +153,7 @@
 
 - https://devchat.tv/js-jabber/jsj-421-semantic-html-with-bruce-lawson
 
-### Tools
+### Tool
 
 - https://lab.html5test.com
 - https://learn.better.dev/courses/faster-coding-with-emmet
@@ -167,6 +167,7 @@
 - https://www.tpgi.com/seeing-the-wood-for-the-trees-demystifying-markup-in-2021
 - [Converts Kindle E-Books to HTML files](https://github.com/d10r/kindle-fetch)
 - https://github.com/mame/world-flag-search
+- [Convert Word documents (.docx files) to HTML](https://github.com/mwilliamson/mammoth.js)
 
 ### Cinema
 

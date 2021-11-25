@@ -186,6 +186,7 @@
 - https://github.com/James-Sangalli/learn-solidity-with-examples
 - [Solidity 0.8.X AST parsing and analysis in Rust](https://github.com/camden-smallwood/solidity-rs)
 - https://github.com/thedarkjester/SolidityGasSamples
+- https://github.com/fravoll/solidity-patterns
 
 
 ### Non fungible tokens

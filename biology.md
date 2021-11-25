@@ -76,6 +76,7 @@
 - https://noorsiddiqui.com/what-is-in-your-genome
 - https://noorsiddiqui.com/what-is-chip-seq-atac-seq
 - https://publish.obsidian.md/davidgasquez/Handbook/DNA+Genetic+Testing+and+Analysis
+- https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273
 
 ### Miscellaneous
 

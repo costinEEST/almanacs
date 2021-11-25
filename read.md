@@ -53,3 +53,4 @@
 - [Sergio Mattei](https://matteing.com/books)
 - [Engin Arslan](https://www.enginarslan.com/library)
 - [Terence Eden](https://shkspr.mobi/blog/tag/book-review)
+- [Charlotte Dann](https://github.com/pouretrebelle/chareads.com)

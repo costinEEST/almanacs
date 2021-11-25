@@ -36,6 +36,8 @@
 - [Uncovering The CIA's Operation To Steal State Secrets](https://podcasts.apple.com/us/podcast/fresh-air/id214089682?i=1000467576663&mc_cid=0c0d31527f&mc_eid=2b9e8b6990)
 - https://www.pcmag.com/news/google-free-android-smartphones-are-now-available-in-the-us
 - https://www.tomsguide.com/news/android-ios-data-collection
+- https://www.ftm.eu/articles/xiaomi-phones-spy-on-their-users
+- [Alibaba and Xiaomi: the downward spiral of surveillance capitalism | Gabi Cirlig](https://www.nohat.it/static/slides/alibaba_and_xiaomi_cirlig.pdf)
 
 ### Software
 
@@ -109,6 +111,8 @@
 - https://mauromorales.com/2021/04/04/dedicating-a-device-for-accessing-your-social-networks
 - [tracking using etags instead of cookies (or localstorage or anything else)](https://github.com/lucb1e/cookielesscookies)
 - https://www.proofpoint.com/us/blog/email-and-cloud-threats/what-can-cyber-criminal-learn-about-you-using-your-mobile-number
+- [Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing](https://github.com/fingerprintjs/external-protocol-flooding)
+- https://github.com/niespodd/browser-fingerprinting
 
 ### Social media
 

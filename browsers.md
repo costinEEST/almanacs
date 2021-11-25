@@ -28,6 +28,7 @@
 
 - [Using the Intersection Observer web API to improve performance.](https://www.growingwiththeweb.com/2018/01/intersection-observer.html)
 - [Intersection Observer by Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOmWeHkUz34FxIFP8I8X1ae)
+- https://github.com/snewcomer/intersection-observer-admin
 
 ### new MutationObserver()
 
@@ -139,7 +140,7 @@
 - [Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
 - https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi
 - https://www.i-dont-care-about-cookies.eu
-- [Search the information available on a webpage using natural language instead of an exact string match. ](https://github.com/model-zoo/shift-ctrl-f)
+- [Search the information available on a webpage using natural language instead of an exact string match](https://github.com/model-zoo/shift-ctrl-f)
 - https://chromeextensionkit.com + https://news.ycombinator.com/item?id=24423023
 - [Chrome extension that helps you learn a language without even trying.](https://jointoucan.com)
 - [Really simple and secure ads blocking for Chrome](https://github.com/petrkle/block-it-yourself)
@@ -182,6 +183,8 @@
 - [Forces Apple docs to open in Objective-C](https://github.com/dimitarnestorov/apple-docs-force-default-language) + https://twitter.com/dimitarnestorov/status/1280734520891912192
 - [A tweak that enables iOS safari to load chrome extensions](https://github.com/xuan32546/iOS-Safari-Extension)
 - https://github.com/mhadidg/refined-linkedin-feed
+- [This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019](https://github.com/fanfare/googleimagesrestored)
+- [ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy](https://github.com/ClearURLs/Addon)
 
 ### Bookmarklets
 
@@ -203,6 +206,7 @@ javascript: (() =>
 - [Bookmarklets for sending emails and adding todo items](https://sashko.dev/bookmarklets)
 - https://www.farai.xyz/notes/tech-tips/please-archive-content
 - https://github.com/ThomasOrlita/awesome-bookmarklets
+- [Script Kit. Automate Anything](https://github.com/johnlindquist/kit)
 
 ### Chrome
 
@@ -223,6 +227,7 @@ javascript: (() =>
 - https://github.com/IAIK/ChromeZero
 - [Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning.](https://webcaptioner.com)
 - [How to get sites you use daily out of your browser](https://twitter.com/cramforce/status/1385369724662403072)
+- [Getting Started With Chrome DevTools Protocol](https://github.com/aslushnikov/getting-started-with-cdp)
 
 ### Brave
 
@@ -287,9 +292,21 @@ javascript: (() =>
 - https://tldrsec.com/blog/content-security-policy-going-from-idea-to-afterthought
 - https://sensepost.com/blog/2021/from-500-to-account-takeover + https://twitter.com/XssPayloads/status/1376389308207226881
 
-### Same Origin Policy
+### Same Origin Policy (SOP)
 
 - https://parsiya.net/blog/2020-11-01-the-same-origin-policy-gone-wild
+
+### Search Engine Optimization (SEO)
+
+- https://www.smashingmagazine.com/smashing-guide-search-engine-optimization
+- https://developers.google.com/search/docs/guides/intro-structured-data
+- [Find broken links, missing images, etc within your HTML.](https://github.com/stevenvachon/broken-link-checker)
+- [🐿 Scurry around your site and find all those broken links.](https://github.com/JustinBeckwith/linkinator)
+- https://vasco3.gitbooks.io/hacks-n-notes/content/internet_marketing/seo.html
+- https://github.com/darekkay/best-practices#seo
+- [Curs Super SEO pentru eCommerce](https://academia.gomag.ro/biblioteca?access=67)
+- https://www.linkedin.com/pulse/200-unsolicited-seo-tips-mark-williams-cook
+- [The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
 
 ### Web Real-Time Communication
 
@@ -327,6 +344,8 @@ javascript: (() =>
 - [Visual Web Development (2021) | Radu Mariescu-Istodor](https://www.youtube.com/playlist?list=PLB0Tybl0UNfb3hTHPfEIg1SPw_-Ca9iIw)
 - [A library for capturing web page self screenshots](https://github.com/TomasHubelbauer/selfie)
 - https://bkardell.com/blog/OffscreenCanvas.html
+- https://github.com/mattdesl/workshop-generative-art
+- https://github.com/psenough/teach_yourself_demoscene_in_14_days
 
 ### WebGL
 

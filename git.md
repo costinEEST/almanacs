@@ -90,6 +90,8 @@
 - https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5
 - [Generate releases based on semantic version labels on pull requests](https://github.com/intuit/auto)
 - https://roadie.io/blog/avoid-leaking-github-org-data
+- https://github.com/nelsontky/gh-pages-url-shortener
+- [The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions](https://github.com/actionsflow/actionsflow)
 
 ### Tools
 

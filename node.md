@@ -129,6 +129,7 @@
 - https://github.com/santiq/bulletproof-nodejs
 - [Build your Typescript Node.js projects using blazing fast esbuild](https://github.com/a7ul/esbuild-node-tsc)
 - https://github.com/benedmunds/Node-Express-MVR-Example
+- https://github.com/sujeet-agrahari/node-express-clean-architecture
 
 ### Cinema
 
@@ -337,6 +338,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Generates sunrise and sunset calendar items in CSV form for import to your favorite calendar program](https://github.com/scottnonnenberg/suncsv)
 - [Simple, private file sharing from the makers of Firefox](https://github.com/mozilla/send)
 - ["Will I break you" - a tool for testing dependents](https://github.com/pkgjs/wiby)
+- [Node-dev is a development tool for Node.js that automatically restarts the node process when a file is modified](https://github.com/fgnass/node-dev)
 
 
 ### Testing
@@ -348,7 +350,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Code-coverage using Node.js' built in functionality that's compatible with Istanbul's reporters.](https://github.com/bcoe/c8)
 - [Memory leak testing for node.](https://github.com/andywer/leakage)
 - [The globals are still node globals, but since they’re created in two different context they fail instanceof checks](https://twitter.com/matteocollina/status/1453029660925861901)
-- [Why mocha?](https://twitter.com/RogersKonnor/status/1453205169995403268) + 
+- [Why mocha?](https://twitter.com/RogersKonnor/status/1453205169995403268)
+- https://github.com/kentcdodds/testing-node-apps
 
 ### Web servers
 
@@ -381,7 +384,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/known-css/known-css-properties
 - https://github.com/BruceDone/awesome-crawler#javascript
 - https://github.com/JonasCz/How-To-Prevent-Scraping
-- https://github.com/adamschwartz/web.scraper.workers.dev
+- [Scrape websites for text by CSS selector](https://github.com/adamschwartz/web.scraper.workers.dev)
 - https://github.com/microsoft/TypeScript-DOM-lib-generator
 - https://github.com/facundoolano/google-play-scraper
 - https://github.com/mathieudutour/medium-to-own-blog
@@ -392,6 +395,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Identify NPM libraries included in Javascript files](https://bundlescanner.com)
 - https://github.com/NikolaiT/Crawling-Infrastructure
 - [Creates a static snapshot of a website. Sort of like wget's mirror mode, but with nice urls](https://github.com/remy/snap)
+- [A JavaScript library for generating random user agents with data that's updated daily](https://github.com/intoli/user-agents)
 
 ### Micro service
 

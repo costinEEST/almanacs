@@ -141,3 +141,4 @@
 ### Reference
 
 - https://github.com/SoCFPGA-learning/General/blob/main/resources.md
+- [How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art)
