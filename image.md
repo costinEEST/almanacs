@@ -31,6 +31,7 @@
 - [CleanUp.pictures, a web app and open-source project that lets you remove objects from images. It uses LaMa, an open-source model from Samsung’s AI Lab to automatically & acurately redraw the areas that you delete](https://cleanup.pictures)
 - [Create beautiful images of your code](https://www.producthunt.com/posts/ray-so)
 - [Generate pretty images of code](https://github.com/stevebauman/showcode)
+- https://itnext.io/getting-image-metadata-exif-using-node-js-bd14aeee981d
 
 
 ### Photos

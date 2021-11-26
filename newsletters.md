@@ -36,7 +36,6 @@
 - [Human Finance SRL](https://us19.campaign-archive.com/home/?u=224b34ca20549631ee1243970&id=b44f21a826)
 - [David Senra](https://davidsnotes.substack.com/archive)
 - https://buttondown.email/computer-napkins/archive
-- [Brandient](https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5)
 - [Roditor Food Market](https://us2.campaign-archive.com/home/?u=1ae9247870a083038851025e0&id=17c09f57ca)
 - [Sahil Bloom](https://sahilbloom.substack.com/archive)
 - [Dan from TLDR](https://www.tldrnewsletter.com/archives)
@@ -119,9 +118,10 @@
 
 ### Design
 
-- [Design Sprint Newsletter by Jake Knapp](https://www.getrevue.co/profile/designsprint)
+- [Jake Knapp](https://www.getrevue.co/profile/designsprint)
 - [Matthew Ström](https://buttondown.email/mattstrom/archive)
 - [Eugene Fedorenko](https://us5.campaign-archive.com/home/?u=83da65c877f13a622c18a7fbf&id=ded3ad2e0d)
+- [Brandient](https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5) + https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5
 
 ### Data visualization
 

@@ -15,6 +15,7 @@
 - [Streaming Systems. The What, Where, When, and How of Large-Scale Data Processing by Tyler Akidau, Slava Chernyak, and Reuven Lax](http://streamingsystems.net)
 - https://github.com/mhadidg/software-architecture-books#streaming-and-messaging
 - https://github.com/karlseguin/the-little-mongodb-book
+- [Curious moon. Learn PostgreSQL the way the pros do | Rob Conery](https://bigmachine.io/products/a-curious-moon)
 
 ### Course
 
