@@ -2,6 +2,10 @@
 
 - https://github.com/doganoo/PHPAlgorithms
 
+### Book
+
+- [Building modern applications with PHP 8.1](https://front-line-php.com) + https://spatie.be/videos/front-line-php
+
 ### Cinema
 
 - [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://www.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)
@@ -82,3 +86,4 @@
 - [Testing building REST in PHP](https://github.com/sibelius/php-api)
 - https://php.watch/articles/php-regex-readability
 - https://freek.dev/1940-why-and-how-you-should-remove-inactive-users-and-teams
+- https://front-line-php.com/cheat-sheet

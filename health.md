@@ -19,6 +19,7 @@
 - [Consuming memes during the COVID pandemic: Effects of memes and meme type on COVID-related stress and coping efficacy](https://psycnet.apa.org/record/2021-92499-001)
 - [the earliest executable image of a human brain](https://qntm.org/mmacevedo)
 - [educating the public about neurodiversity](https://github.com/alvarlagerlof/neurodiversity)
+- https://aeon.co/essays/dreams-are-a-precious-resource-dont-let-advertisers-hack-them
 
 ### Book
 
