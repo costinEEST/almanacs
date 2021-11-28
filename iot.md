@@ -27,6 +27,7 @@
 - [Cloud Home Automation Series](https://twitter.com/binitamshah/status/1229349993829498882)
 - https://hackaday.com/2021/02/08/hands-on-the-risc-v-esp32-c3-will-be-your-new-esp8266
 - https://savjee.be/2021/10/i-built-a-co2-sensor-and-it-terrifies-me
+- [Driver for the SSD1306 and SH1106 based 128x64, 128x32, 64x48 pixel OLED display running on ESP8266/ESP32](https://github.com/ThingPulse/esp8266-oled-ssd1306)
 
 ### ESP8266
 

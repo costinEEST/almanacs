@@ -9,6 +9,7 @@
 - https://www.arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm
 - https://www.youtube.com/playlist?list=PLWMUVtnFsZu6cj_L8NLtePvA7uCgjBH3s
 - https://www.youtube.com/playlist?list=PLWMUVtnFsZu6tA3pja3r7ocQmAmhDQ5cK
+- http://daskunkee.blogspot.com/2020/02/tech-esp32-programming-from-arm64.html
 
 ### Book
 

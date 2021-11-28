@@ -284,6 +284,7 @@
 - [TDD Javascript promise implementation conformant to the Promises/A+ spec](https://github.com/jeffzh4ng/promise-implementation)
 - https://www.mauriciopoppe.com/notes/computer-science/computation/promises
 - https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch
+- https://philbooth.me/blog/back-off-and-retry-using-javascript-arrays-and-promises
 
 ### async await
 

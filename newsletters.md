@@ -190,6 +190,10 @@
 
 - [Carbon Removal Updates](https://tito.co/archive) + https://coda.io/@tito/carbon-removal-101
 
+### Food
+
+- [Alliance to Feed the Earth in Disasters](https://us13.campaign-archive.com/home/?u=5c0ca1b06a66c60ef3a65e546&id=1a56e9e1a5)
+
 ### Health
 
 - [Quantified Bob Updates](https://us12.campaign-archive.com/home/?u=96812e559fe41fd1b9fd55794&id=edb4b26575)

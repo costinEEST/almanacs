@@ -93,7 +93,7 @@
 - https://github.com/nelsontky/gh-pages-url-shortener
 - [The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions](https://github.com/actionsflow/actionsflow)
 
-### Tools
+### Tool
 
 - [Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog)
 - [A syntax-highlighter for git and diff output](https://github.com/dandavison/delta)
@@ -104,6 +104,7 @@
 - [A viewer for git and diff output](https://github.com/dandavison/delta)
 - https://bridgecrew.io/blog/using-yor-for-ownership-mapping-using-yaml-tag-groups
 - [A build tool for NPM monorepos](https://github.com/giltayar/bilt)
+- https://philbooth.me/blog/build-a-better-release-script + 
 
 ### Security
 

@@ -122,6 +122,9 @@
 - https://around25.com/blog/how-to-implement-push-notifications-in-react-native
 - https://engineering.brigad.co/react-native-monorepos-code-sharing-f6c08172b417
 - https://github.com/sallar/booksy-app
+- https://medium.com/nerd-for-tech/matts-tidbits-103-launching-an-app-from-a-url-c27da66cd52c
+- https://medium.com/@nima-ahmadi/layout-animations-in-react-native-bee7644c13ae
+- https://medium.com/nerd-for-tech/react-native-two-important-lessons-i-learned-the-hard-way-3a524bbcef48
 
 ### Packages
 

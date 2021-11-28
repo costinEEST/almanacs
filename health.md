@@ -37,6 +37,7 @@
 - [Chinese Medicine and Healing An Illustrated History Edited by TJ Hinrichs Linda L. Barnes](https://www.hup.harvard.edu/catalog.php?isbn=9780674047372)
 - https://www.amazon.com/Toxin-Solution-Products-Destroying-Health/dp/0062427458
 - https://www.amazon.com/Hunter-Gatherers-Guide-21st-Century-Evolution-Challenges/dp/1800750749
+- https://www.appropedia.org/Feeding_Everyone_No_Matter_What
 
 ### Carbohydrates
 
