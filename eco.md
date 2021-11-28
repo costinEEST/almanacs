@@ -21,6 +21,7 @@
 - https://www.bbc.com/future/article/20210706-how-flooded-coal-mines-could-heat-homes
 - https://iscoada.com/eseu/avocado-cocaina-si-ulei-de-palmier
 - https://www.theguardian.com/food/2021/nov/01/end-of-the-avocado-why-chefs-ditching-the-unsustainable-fruit
+- https://github.com/balupton/plant-vs-animal-products
 
 ### Radio
 

@@ -147,3 +147,4 @@ curl v2.wttr.in/Bucharest
 - https://github.com/yosriady/api-development-tools
 - https://www.osohq.com/developers/authorization-academy
 - [The Museum of Modern Art (MoMA) collection data](https://github.com/MuseumofModernArt/collection)
+- [REST API of election and ballot information in the United States](https://github.com/open-austin/ballotapi)

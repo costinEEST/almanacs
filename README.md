@@ -103,6 +103,7 @@
 - [PowerShell](ps1.md)
 - [Privacy](privacy.md)
 - [Processing](processing.md)
+- [Psychology](psychology.md)
 - [Progressive web applications](pwa.md)
 - [Prolog](prolog.md)
 - [Python](python.md)

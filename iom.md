@@ -61,6 +61,7 @@
 - [Who are the under-appreciated heroes of Ethereum?](https://twitter.com/jinglejamOP/status/1436458822952886272)
 - https://github.com/denisnazarov/awesome-crypto-trackers
 - https://twitter.com/WeekInEthNews
+- [Telegram groups](https://gist.github.com/balupton/dc2bda09f326262793a9e73189e75105)
 
 
 ### DApps 
@@ -187,6 +188,7 @@
 - [Solidity 0.8.X AST parsing and analysis in Rust](https://github.com/camden-smallwood/solidity-rs)
 - https://github.com/thedarkjester/SolidityGasSamples
 - https://github.com/fravoll/solidity-patterns
+- https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 
 
 ### Non fungible tokens

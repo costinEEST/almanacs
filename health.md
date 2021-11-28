@@ -353,6 +353,8 @@
 - https://darebee.com/mealplans.html
 - [Classifying brain activity using low-cost biosensors and automated time tracking](https://github.com/ErikBjare/thesis)
 - https://cardiobot.swiftwithmajid.com
+- [Life tracking resources](https://gist.github.com/balupton/3d66217f3351886a0ca9188547b27d5b)
+- [Vax.Codes - Free QR Codes for Covid-19 Test and Vaccine Recipients](https://github.com/open-austin/vax-codes)
 
 ### Miscellaneous
 

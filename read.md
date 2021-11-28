@@ -2,6 +2,7 @@
 
 - [The Melodramatic Imagination: Balzac, Henry James, Melodrama, and the Mode of Excess | Peter Brooks](https://www.amazon.com/Melodramatic-Imagination-Balzac-Melodrama-Excess/dp/0300065531)
 - https://tonymorley.libib.com/i/required-reading-humanprogress
+- https://gist.github.com/balupton/35bb4356285869b7034a
 
 #### Community
 

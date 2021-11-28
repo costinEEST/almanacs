@@ -7,6 +7,7 @@
 - https://emilua.gitlab.io/blog/post/comparing-emilua-to-nodejs
 - https://wincent.com/tags/lua
 - https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/lua.md
+- https://github.com/coodict/lua-in-one-pic
 
 ### Security
 
@@ -16,4 +17,5 @@
 ### Tools
 
 - [Lua REPL that gives you a feel for its internals](https://github.com/paileyq/lua-feels)
+
 

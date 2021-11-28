@@ -15,6 +15,7 @@
 - [Timmy Kokke](https://www.linkedin.com/in/timmykokke)
 - [Kelly Peng](https://www.kellypeng.com/blog/resources)
 - [Dragos Silion](https://twitter.com/silidragos)
+- https://github.com/tobiasbueschel/awesome-WebAR
 
 ### Cinema
 
@@ -26,6 +27,12 @@
 - [I got my entire Svelte UI running inside my @aframevr scene.](https://twitter.com/devonsbradley/status/1218339257586077696)
 - https://twitter.com/thespite/status/1331655224793194499
 - https://www.facebook.com/flyoverzone + www.flyoverzone.com
+
+### Development
+
+- https://github.com/chenjd/Unity-ARFoundation-HandDetection
+- https://github.com/dilmerv/ARDraw
+- https://github.com/dilmerv/UnityARFoundationEssentials
 
 
 ### Radio

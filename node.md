@@ -194,6 +194,7 @@
 - https://pawelgrzybek.com/from-express-to-fastify-in-node-js
 - [The Case of the 50ms request](https://news.ycombinator.com/item?id=27053941)
 - [Timezones are hard](https://twitter.com/matteocollina/status/1438073525051473923)
+- https://github.com/thlorenz/v8-perf
 
 ### TIL
 
@@ -500,3 +501,4 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/wolfejw86/architecture-learning-path
 - [Geographical forum app for groups and teams to share and discuss locations](https://github.com/axelpale/georap)
 - https://github.com/feross/awesome-mad-science
+- https://gist.github.com/balupton/d6531a2f48dba896a1bced86e8b1636c

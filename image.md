@@ -32,6 +32,7 @@
 - [Create beautiful images of your code](https://www.producthunt.com/posts/ray-so)
 - [Generate pretty images of code](https://github.com/stevebauman/showcode)
 - https://itnext.io/getting-image-metadata-exif-using-node-js-bd14aeee981d
+- [An image processing library for Node written entirely in JavaScript, with zero native dependencies](https://github.com/oliver-moran/jimp)
 
 
 ### Photos

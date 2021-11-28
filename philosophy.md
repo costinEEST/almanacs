@@ -45,3 +45,4 @@
 ### Reference
 
 - https://github.com/ashleygwilliams/philosophy_club
+- [Understanding Society](https://gist.github.com/balupton/f0a7f7bf49c849a8a5f5e7021f2dc273)

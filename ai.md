@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - [Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook)
 - [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF)
@@ -23,6 +23,7 @@
 - https://www.amazon.com/2062-World-that-AI-Made-ebook/dp/B07B3RDQJH + http://www.cse.unsw.edu.au/~tw/#books
 - [Jacques Attali | Scurtă istorie a viitorului](https://www.polirom.ro/web/polirom/ebook/-/ebook/6081) + [Jacques Attali | Cum să ne apărăm de crizele următoare](https://www.polirom.ro/web/polirom/ebook/-/ebook/7065)
 - https://bogdanbocse.com/embodied-computational-calculus + https://bogdanbocse.com/embodied-computational-calculus
+- https://github.com/zslucky/awesome-AI-books
 
 ### Course
 
@@ -47,6 +48,7 @@
 - https://www.freecodecamp.org/news/advanced-computer-vision-with-python
 - https://www.udemy.com/course/learn-machine-learning-in-21-days
 - https://inst.eecs.berkeley.edu/~cs188/su21
+- https://github.com/rainyear/Oxford-Machine-Learning-Course-2015
 
 ### Cinema
 

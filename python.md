@@ -29,6 +29,7 @@
 - https://github.com/jakevdp/PythonDataScienceHandbook
 - https://github.com/pamoroso/free-python-books
 - https://github.com/PacktPublishing/Learning-Python-Networking-Second-Edition
+- https://github.com/ethan-funny/explore-python
 
 ### Bots
 
@@ -108,7 +109,7 @@
 - https://github.com/judy2k/stupid-python-tricks
 - https://smarx.com/posts/2020/12/memoization-in-one-line-of-python
 
-### References
+### Reference
 
 - https://cjolowicz.github.io/posts/hypermodern-python-01-setup
 - https://github.com/gto76/python-cheatsheet
@@ -128,12 +129,17 @@
 - https://github.com/geoffbacon/regular-expressions-in-python
 - https://huangxuan.me/2017/12/12/halting-problem
 - https://github.com/alhassy/PythonCheatSheet
+- https://github.com/sfermigier/awesome-functional-python
+- https://github.com/rainyear/pytips
+- https://github.com/rainyear/CPython-Internals-Lecture-Notes
+- https://github.com/coodict/python3-in-one-pic
 
 ### Scraping
 
 - https://github.com/Adithya93/webScraping
 - [Powerful and flexible Instagram scraping library for Python, providing easy-to-use and expressive tools for accessing data programmatically](https://github.com/chris-greening/instascrape)
 - https://github.com/KalmykAlex/emag_crawler
+- https://github.com/shengqiangzhang/examples-of-web-crawlers
 
 
 ### Security
@@ -197,7 +203,7 @@
 - [control your PC's mouse and keyboard via voice controls, entirely based on pitch and volume](https://github.com/CopperPanMan/Voice-Mouse-Controller-for-PC)
 - https://github.com/jvns/pandas-cookbook
 - [A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
-
+- https://github.com/x-hw/amazing-qr
 
 ### Testing
 

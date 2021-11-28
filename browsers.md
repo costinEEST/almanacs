@@ -7,7 +7,6 @@
 - [Trying out and demonstrating different browser APIs](https://github.com/vkallore/browser-apis)
 - https://github.com/deebloo/things-you-can-do-in-a-web-worker
 - [This repo contains a non exhaustive list of less-known features implemented in browsers today.](https://github.com/luruke/browser-2020)
-- https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
 - [new MutationObserver()](https://www.seancassidy.me/genius-blocker.html)
 - https://github.com/AurelioDeRosa/HTML5-API-demos
 - https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn
@@ -44,6 +43,8 @@
 - https://dev.to/thepassle/the-mental-gymnastics-of-service-worker-257g
 - https://github.com/dominiccooney/Service-Worker-Performance
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb + https://twitter.com/XssPayloads/status/1376382674173112320
+- https://github.com/offlinefirst/research
+
 
 ### Engines
 
@@ -308,7 +309,7 @@ javascript: (() =>
 - https://www.linkedin.com/pulse/200-unsolicited-seo-tips-mark-williams-cook
 - [The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
 
-### Web Real-Time Communication
+### Web Real-Time Communication (WebRTC)
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeu5vBImsX2mMBacbomDrig
 - [WebRTC Boston](https://www.youtube.com/channel/UCOYrKr3E50aY5VhHey-MrzA/playlists)
@@ -327,6 +328,7 @@ javascript: (() =>
 - [Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop](https://github.com/szimek/sharedrop)
 - https://github.com/muaz-khan/WebRTC-Experiment
 - https://github.com/adamavenir/talkto
+- https://github.com/diafygi/webrtc-ips
 
 ### Canvas
 
@@ -412,3 +414,10 @@ javascript: (() =>
 ### History
 
 - https://webinista.com/updates/flash-end-of-life + https://twitter.com/mattmay/status/1344728355912880129 + http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive 
+
+### WebCryptoAPI
+
+- https://docs.google.com/presentation/d/1LbJcPulQ_a4utqNCUoGCk8GTQbchN2BL_kAF3DNJQbo
+- https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
+- https://github.com/diafygi/webcrypto-examples
+- [Bring your own filesystem, a javascript library that allows users to connect their own data storage backend to your webapp](https://github.com/diafygi/byoFS)

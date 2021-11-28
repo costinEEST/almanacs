@@ -40,6 +40,8 @@
 - https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder
 - [Query all macOS Address Book contacts](https://github.com/derhuerst/os-x-contacts)
 - [Prevents your Mac from going to sleep](https://github.com/newmarcel/KeepingYouAwake)
+- [Nginx+Lua config that converts Eventbrite API to iCalenadar format](https://github.com/diafygi/eb-to-ical)
+
 
 ### References
 
@@ -51,6 +53,7 @@
 - [Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond)
 - [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary)
 - [sudo nvram boot-args=”-v” before applying a patch.](https://twitter.com/Dave_Maynor/status/1438220468650139652)
+- [MacOS / Linux Filesystem Adventures](https://gist.github.com/balupton/8b6e9ce0738b35ff2bc764c21dea7a51)
 
 ### Security
 
