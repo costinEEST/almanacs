@@ -20,6 +20,10 @@
 
 - [Pro Patrimonio](https://us5.campaign-archive.com/home/?u=57f50bdf2c77a5bb1add2a851&id=42c6c16a1d)
 
+### Art
+
+- [The National Arts Club](https://us19.campaign-archive.com/home/?u=36de95fdf00c57337d2408ebc&id=f9c2c1789e)
+
 ### Artificial intelligence
 
 - [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)

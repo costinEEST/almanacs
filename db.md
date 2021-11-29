@@ -57,6 +57,7 @@
 - [Executing Python inside MSSQL using sp_execute_external_script](https://gist.github.com/james-otten/63389189ee73376268c5eb676946ada5)
 - https://github.com/qazbnm456/awesome-security-trivia#sql
 - https://dev.to/hacubu/how-to-use-google-sheets-as-a-database-responsibly-3ohk
+- https://github.com/cldrn/InsecureProgrammingDB
 
 ### Cinema
 

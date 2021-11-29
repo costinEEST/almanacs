@@ -132,6 +132,7 @@
 - https://www.diybookscanner.org + https://news.ycombinator.com/item?id=27361815
 - https://nelsonslog.wordpress.com/2021/10/03/usb-charging-in-2021
 - https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB
+- https://redteamer.tips/physical-shenanigans-with-computers-part-1-gearing-up
 
 ### History
 

@@ -13,6 +13,7 @@
 - [Automate the install of various tools and environment settings using Ansible.](https://github.com/DiabloHorn/env-automata)
 - https://github.com/techno-tim/ansible-homelab
 - https://github.com/mytechnotalent/Ansible-For-Everyone
+- https://redteamer.tips/automating-red-team-infrastructure-with-ansible-part-1-raw-infrastructure
 
 ### Docker
 

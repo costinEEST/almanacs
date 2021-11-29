@@ -1,4 +1,8 @@
-### Courses
+### Book
+
+- https://www.i-programmer.info/bookreviews/143-security/15036-practical-iot-hacking-no-starch-press.html
+
+### Course
 
 - [Internet of Things: Foundations and Applications (2015)](http://dret.net/lectures/iot-spring15)
 - https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems
