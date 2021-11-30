@@ -79,6 +79,7 @@
 - https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing-in-nodejs
 - https://github.com/Fictizia/Master-en-Programacion-FullStack-con-JavaScript-y-Node.js_ed3
 - [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
+- https://github.com/jscomplete/book-node-beyond-basics
 
 ### Bot
 

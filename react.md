@@ -367,6 +367,7 @@
 - [Personal website build with Chakra UI, NextJS and Airtable](https://github.com/wirtzdan/website)
 - https://github.com/nlaz/flashcards-for-developers
 - [Print a QR code for connecting to your WiFi](https://github.com/bndw/wifi-card)
+- [A tool to enable PR authors to tell a story with their changes](https://github.com/tbroadley/narrated-diffs)
 
 
 ### Testing

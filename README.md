@@ -57,6 +57,7 @@
 - [File formats](document.md)
 - [Flutter](flutter.md)
 - [Fortran](fortran.md)
+- [Free and open-source software](foss.md)
 - [Front-end development](frontend.md)
 - [Furniture](furniture.md)
 - [Gadgets](gadgets.md)

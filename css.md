@@ -216,7 +216,7 @@
 - https://noti.st/rachelandrew/3IBB4Z/css-layout-from-the-inside-out
 
 
-### Tools
+### Tool
 
 - [Creating tiny zines using HTML/CSS layout.](https://github.com/trueskawka/css-zines)
 - [An extensive list of CSS/JS browserhacks from all over the interwebs.](https://github.com/4ae9b8/browserhacks)
@@ -234,6 +234,7 @@
 - [What's the best (simple) tool for creating animations?](https://twitter.com/kylemathews/status/1203140798302154752)
 - https://davidwalsh.name/detect-overflow-elements
 - https://github.com/sachin1092/awesome-material
+- https://github.com/davidgilbertson/know-it-all
   
 
 ### Security

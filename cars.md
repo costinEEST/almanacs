@@ -15,7 +15,13 @@
 - https://www.facebook.com/ClubRetromobil/photos/ion-camarasescu-1882-1953-unul-din-primii-piloti-romani-membru-fondator-acr-edit/1121840574645395 + https://adevarul.ro/locale/calarasi/boierul-dalga-murit-sarac--povestea-trista-ion-camarasescu-mosier-baragan-inchis-sighet-1_5f3653115163ec4271f5fbb3/index.html + https://www.printrecarti.ro/120446-ion-camarasescu-ghidul-drumurilor-din-romania.html
 - https://www.europeana.eu/en/blog/electric-cars-in-history
 
+
+### Miscellaneous
+
+- [A big library of civilian cars you can fork or download for your server](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack)
+
 ### Opinions
 
 - https://www.spectator.co.uk/article/why-i-wont-buy-a-tesla
 - https://honda.asko.ro/blog/profesiile-conduc-it-honda
+

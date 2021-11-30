@@ -122,7 +122,7 @@
 
 - [Free Next.js landing page template for SaaS products, online services and more.](https://github.com/jkytoela/next-startd)
 - [What I learnt roasting 200 landing pages in 12 months](https://news.ycombinator.com/item?id=27140440)
-
+- [Listing of community-curated resources to find topical remote freelance](https://github.com/engineerapart/TheRemoteFreelancer)
 
 ### Performance
 

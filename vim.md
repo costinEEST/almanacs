@@ -18,6 +18,7 @@
 ### Community
 
 - https://mschade.me/notes-vim-from-essentials-to-mastery-by-wnodom
+- https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup
 
 ### Miscellaneous
 

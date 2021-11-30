@@ -145,6 +145,7 @@
 - https://www.reactnativeschool.com/how-to-reset-react-native-cache-npm-ios-android-and-more
 - [Initiate immediate phone call for React Native on iOS and Android.](https://github.com/tuanlv89/react-native-immediate-call-library)
 - [Use ESBuild to make your React Native code bundle faster.](https://github.com/EvanBacon/metro-minify-esbuild)
+- https://github.com/DylanVann/react-native-fast-image
 
 ### Debugging
 
