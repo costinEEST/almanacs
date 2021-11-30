@@ -101,7 +101,8 @@
 - https://securityboulevard.com/2019/11/kubernetes-pentest-methodology-part-3
 - [Learn Kubernetes one Twitter thread at the time!](https://twitter.com/danielepolencic/status/1298543151901155330)
 - https://github.com/diegolnasc/kubernetes-best-practices
-- https://blog.softwheel.io/what-is-under-the-hood-of-kubernetes-1/
+- https://blog.softwheel.io/what-is-under-the-hood-of-kubernetes-1
+- https://github.com/knrt10/kubernetes-basicLearning
 
 ### Servers
 

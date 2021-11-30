@@ -1,3 +1,15 @@
+### Book
+
+- https://dougbrignole.com/product/autographed-copy-the-physics-of-resistance-exercise-print-book
+
+### Cinema
+
+- [SmartTraining365 Biomechanics](https://www.youtube.com/channel/UCh_8DNqrT_rJ2NbNHUNrTxA/videos)
+
+### Fitness
+
+- https://dougbrignole.com/16-biomechanical-factors
+
 ### Miscellaneous
 
 - [Don't Die Young: An Anatomist's Guide to Your Organs and Your Health.](https://www.amazon.com/Dont-Die-Young-Anatomists-Organs/dp/0747592802)

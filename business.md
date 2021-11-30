@@ -101,6 +101,7 @@
 
 ### Leadership
 
+- https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y
 - [Simply Leadership](https://leanpub.com/simplyleadership)
 - https://www.amazon.com/Call-Sign-Chaos-Learning-Lead-ebook/dp/B07SBRFVNH
 - https://benmccormick.org/2019-roundup

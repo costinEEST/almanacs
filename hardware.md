@@ -68,13 +68,15 @@
 - https://www.cnbc.com/2021/08/24/bosch-says-semiconductor-supply-chains-in-car-industry-no-longer-work.html
 - http://blog.notdot.net/2012/10/Build-your-own-FPGA
 - https://blog.robertelder.org/how-to-make-a-cpu
+- [Intel | Advent Of Computing](https://www.youtube.com/playlist?list=PLoKM3Qfxoe0mQOLtmoufTAv5-pqVU0sVm)
 
-### Resistors
+### Resistor
 
 - [Realizing a Non-Standard Resistance Value](https://twitter.com/TheJoeBamberg/status/1362129411928039425)
 
-### Transistors
+### Transistor
 
+- https://www.youtube.com/playlist?list=PLoKM3Qfxoe0lrsY5lMl0iiJwNeJ2g-fgy
 - [How to Build a Transistor](https://twitter.com/rbhar90/status/1367901014771126277)
 
 ### Playground

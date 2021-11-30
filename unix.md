@@ -12,6 +12,10 @@
 - https://www.netmeister.org/book + [CS615 -- System Administration](https://stevens.netmeister.org/615)
 - [CS631 - Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631)
 
+### Cinema
+
+- https://www.youtube.com/playlist?list=PLoKM3Qfxoe0mTWQnjNghk2Ofzfp2x68zN
+
 ### Internals
 
 - [Understanding the bin, sbin, usr/bin , usr/sbin split.](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)

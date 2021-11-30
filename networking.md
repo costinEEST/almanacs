@@ -12,8 +12,8 @@
 - https://www.udemy.com/course/secure-shell-fundamentals-learn-ssh-by-configuring-it/
 - https://www.udemy.com/course/sshcourse
 - [Ben Eater's videos on low level networking stuff](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) + https://eater.net/inet
-
-* https://chrissanders.org/2019/05/infosec-mental-models/
+* https://chrissanders.org/2019/05/infosec-mental-models
+* https://www.youtube.com/playlist?list=PLoKM3Qfxoe0nI7MxT0UWA5cXcYRD1-EO2
 
 ### Book
 

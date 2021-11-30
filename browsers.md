@@ -22,6 +22,7 @@
 - [Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.](https://github.com/localForage/localForage)
 - [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
 - [Proposal for an API which would allow grabbing a screenshot.](https://github.com/eladalon1983/mediacapture-screenshot)
+- [Why IndexedDB is slow and what to use instead](https://rxdb.info/slow-indexeddb.html)
 
 ### new IntersectionObserver()
 

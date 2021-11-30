@@ -98,6 +98,7 @@
 - https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager
 - https://www.forbes.com/sites/carminegallo/2020/11/01/watch-bill-gates-give-brilliant-30-second-answers-to-common-job-interview-questions 
 - https://github.com/mgechev/google-interview-preparation-problems
+- https://github.com/anushka23g/Complete-Placement-Preparation
 
 ### Practice
 
@@ -119,6 +120,13 @@
 
 - [Top UTF-8 Decoders](https://gist.github.com/chadbrewbaker/5ec5fbe06d294da95b15d17b70b4d4a3)
 - https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities + https://twitter.com/rossjanderson/status/1454962928923418626
+
+
+### History
+
+- https://twobithistory.org/timeline.html
+- https://computerhistory.org/timelines
+- https://adventofcomputing.com/resources.html
 
 ### Miscellaneous
 
