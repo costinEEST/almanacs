@@ -41,6 +41,8 @@
 - [tell me how the waves are based on weather data and local knowledge](https://ronaldlangeveld.com/oracle-bot) + https://github.com/ronaldlangeveld/localsurferbot
 - https://github.com/SnirShechter/delete-slack-messages-script
 - [An automated Twitter Bot that Tweets random Battery Simulations and replies to requested Battery Simulations on Twitter](https://github.com/pybamm-team/BattBot)
+- https://github.com/nicbou/berlin-bot
+- https://github.com/karlicoss/fbmessengerexport
 
 ### Clean code
 
@@ -141,6 +143,17 @@
 - https://github.com/KalmykAlex/emag_crawler
 - https://github.com/shengqiangzhang/examples-of-web-crawlers
 - [Google Answers to Google Questions](https://github.com/allenai/gooaq)
+- [Reignition: Nick Land's Writings (2011-)](https://github.com/cyborg-nomade/reignition)
+- https://beepb00p.xyz/my-data.html
+- https://github.com/karlicoss/goodrexport
+- [Collects personal data from different sources, displays it as a daily diary](https://github.com/nicbou/timeline)
+- https://github.com/barrucadu/quantified-self-scripts
+- https://github.com/davenicoll/hackernews-to-raindrop
+- [Get your Hacker News data](https://github.com/romaintailhurat/hns)
+- https://github.com/amjd/HN-Saved-Links-Export
+- https://github.com/thisisgvrt/fitbit-timescaledb-exporter
+- https://github.com/seanbreckenridge/google_takeout_parser
+- [Human Programming Interface](https://github.com/karlicoss/HPI)
 
 
 ### Security

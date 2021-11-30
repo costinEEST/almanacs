@@ -45,7 +45,7 @@
 - https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf
 - [list of people and resources in Accessibility and Data Visualization](https://github.com/dataviza11y/resources)
 
-### Tools
+### Tool
 
 - [Declarative and modular timeseries charting components for React.](https://github.com/esnet/react-timeseries-charts)
 - [Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.](https://github.com/esnet/react-network-diagrams)
@@ -57,6 +57,7 @@
 - https://jsvine.github.io/intro-to-visidata/the-big-picture/visidata-in-60-seconds + https://news.ycombinator.com/item?id=25322091
 - [React component to create interactive D3 tree graphs](https://github.com/bkrem/react-d3-tree)
 - https://github.com/anvaka/graph-drawing-libraries
+- [Location Intelligence & Data Visualization tool](https://github.com/CartoDB/cartodb)
 
 
 ### Radio

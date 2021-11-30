@@ -186,6 +186,10 @@
 - https://github.com/mhadidg/refined-linkedin-feed
 - [This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019](https://github.com/fanfare/googleimagesrestored)
 - [ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy](https://github.com/ClearURLs/Addon)
+- [web surfing copilot by enhancing your browsing history, improving your web exploration experience, and integrating with your knowledge base](https://beepb00p.xyz/promnesia.html)
+- [A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers](https://github.com/webrecorder/archiveweb.page)
+- https://github.com/albertz/chrome-ext-google-takeout-downloader
+- https://github.com/eloquence/freeyourstuff.cc
 
 ### Bookmarklets
 

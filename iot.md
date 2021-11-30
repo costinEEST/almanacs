@@ -101,3 +101,4 @@
 - https://jaycarlson.net/embedded-linux + https://twitter.com/jaydcarlson/status/1316917799755960320
 - https://blog.wokwi.com/hardware-crowdfunding-behind-the-scenes
 - [Learing FreeRTOS by doing a project](https://github.com/tiberiucorbu/solar-energy-logger)
+- https://github.com/danielsundermeier/knowledge/tree/master/home-automation

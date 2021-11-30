@@ -17,6 +17,7 @@
 - https://chriswiegman.com/2021/09/privacy-vs-security
 - https://www.udemy.com/course/learn-digital-forensics-beginner-to-advanced-2021
 - https://www.youtube.com/c/SpyCollectionChannel/playlists
+- https://www.youtube.com/c/TheHatedOne/playlists
 
 ### Community
 
@@ -132,3 +133,4 @@
 - https://axbom.com/clubhouse-overview
 - https://www.wsj.com/articles/the-facebook-files-11631713039
 - https://www.msn.com/en-us/news/technology/feds-order-google-to-track-people-searching-certain-names-or-details/ar-AAPbECM
+- https://github.com/bionic/how-to-export-personal-data

@@ -15,6 +15,7 @@
 
 - [ME101: Introduction to Mechanical Engineering](https://github.com/saylordotorg/course_me101)
 - [ME302: Mechatronics](https://github.com/saylordotorg/course_me302)
+- https://github.com/johnwstanford/feynman_lecture_notes
 
 ### Miscellaneous
 

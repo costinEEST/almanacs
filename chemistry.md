@@ -5,6 +5,7 @@
 - https://science.slashdot.org/story/21/11/12/221222/chemists-discover-new-way-to-harness-energy-from-ammonia + https://phys.org/news/2021-11-chemists-harness-energy-ammonia.html
 - https://www.amazon.com/Empires-Light-Edison-Westinghouse-Electrify/dp/0375758844
 - https://www.purdue.edu/newsroom/releases/2021/Q4/electric-vehicles-could-fully-recharge-in-under-5-minutes-with-new-charging-station-cable-design.html
+- https://github.com/danielsundermeier/knowledge/tree/master/energy
 
 ### Book
 

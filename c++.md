@@ -44,6 +44,7 @@
 - https://dmiller.dev/blog/2020/8/25/c-interfaces-and-templates
 - https://blog.m-ou.se/compile-time-unit-arithmetic
 - https://github.com/tobanteAudio/juce-cookbook
+- https://github.com/MattPD/cpplinks
 
 ### Implementations
 

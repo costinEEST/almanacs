@@ -48,6 +48,8 @@
 - https://github.com/brolani/tools/blob/master/report-generator/gen-report.sh
 - [Takes every HTML file in the html directory and turns it into a PDF, EPUB, and MOBI file.](https://github.com/baldurbjarnason/book-tricks)
 - [Trigger an action on an element with a keyboard shortcut](https://github.com/github/hotkey)
+- [A list of command line tools for manipulating structured text data](https://github.com/dbohdan/structured-text-tools)
+- https://lyz-code.github.io/blue-book/writing/writing/
 
 ### Miscellaneous
 

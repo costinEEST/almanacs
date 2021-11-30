@@ -50,6 +50,7 @@
 - [7 lessons from people that taught me more than any business/marketing class I've ever taken](https://twitter.com/alexgarcia_atx/status/1377448291047243776)
 - https://www.udemy.com/course/the-growth-hacker-interviews
 - https://buzzsumo.com/blog/top-100-content-marketers
+- https://github.com/danielsundermeier/knowledge/blob/master/business/business.md
 
 ### Branding
 

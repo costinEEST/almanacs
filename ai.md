@@ -114,7 +114,7 @@
 - https://github.com/firmai/industry-machine-learning
 - https://github.com/aaronwangy/Data-Science-Cheatsheet
 
-### Tools
+### Tool
 
 - [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)
 - [Recommender systems (or recommendation engines)](https://github.com/grahamjenson/list_of_recommender_systems)
@@ -126,6 +126,7 @@
 - [HRI '21: Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction](https://github.com/WafaJohal/hri2021-pdf-downloader)
 - [*AlephBERT*, a Hebrew pretrained language model to start off your Hebrew NLP Application](https://twitter.com/rtsarfaty/status/1381562132723085315)
 - https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+- [Free Software Social Friendly AI for general use, but esp for those w/ poverty, homelessness, disabilty or illness](https://github.com/aindilis/free-life-planner)
 
 ### Neural networks
 

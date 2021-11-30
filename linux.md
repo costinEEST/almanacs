@@ -24,6 +24,10 @@
 - https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation
 - https://www.freecodecamp.org/news/linux-essentials-for-hackers
 
+### Cronjob
+
+- https://beepb00p.xyz/scheduler.html
+
 ### Containers
 
 - https://iximiuz.com/en/posts/learn-by-doing-platforms + https://twitter.com/b0rk/status/1444814295188099077

@@ -150,3 +150,4 @@
 - https://romanorac.github.io/data/analytics/2019/11/11/5-mistakes-sql-queries.html
 - https://twitter.com/tlhunter/status/1459624433488850945
 - https://github.com/sujeet-agrahari/awesome-database-design
+- [Against unnecessary databases](https://beepb00p.xyz/unnecessary-db.html)
