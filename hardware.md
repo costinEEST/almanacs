@@ -119,6 +119,7 @@
 ### Radio
 
 - https://podcasts.apple.com/us/podcast/the-story-of-how-tsmc-came-to-dominate-the-world/id1056200096?i=1000506468665
+- https://tlbh.it/002_https_tlbh_dot_it_CR.html
 
 ### Tool
 

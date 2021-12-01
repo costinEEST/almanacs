@@ -15,6 +15,7 @@
 ### Book
 
 - [ The Art and Craft of Problem Solving - Paul Zeitz](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
+- [Concrete Mathematics: A Foundation for Computer Science (2nd Edition)](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)
 - https://www.amazon.com/Quadrivium-Classical-Liberal-Geometry-Cosmology-ebook/dp/B08FF2C3ZV
 - [Introduction to Graph Theory (Dover Books on Mathematics)](https://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709)
 - http://danaernst.com/resources/free-and-open-source-textbooks

@@ -173,6 +173,7 @@
 - https://2501babe.github.io/posts/solana101.html
 - [Ethereum <> Solana 🧵on technical differences.](https://twitter.com/Web3Coach/status/1436758232069025792)
 - https://github.com/ilmoi/solana-onboarding
+- https://github.com/solana-dev-adv/solana-cookbook/projects/1
 
 ### Solidity
 

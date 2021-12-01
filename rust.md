@@ -33,6 +33,7 @@
 - https://loige.co/where-to-go-to-learn-rust-in-2021
 - [Dave Herman](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
 - [Stefan Baumgartner](https://buttondown.email/oida/archive)
+- [Michael Groncki](https://twitter.com/i/lists/1396059618586075137)
 
 ### Course
 

@@ -54,3 +54,8 @@
 
 - https://levelup.gitconnected.com/want-to-be-a-software-developer-learn-c-first-and-thank-me-later-30a447f32037
 
+### Radio
+
+- https://tlbh.it/001_deref_char_star_0_eq_0.html
+- https://tlbh.it/003_builtin_expect_bang_bang_x_0.html
+

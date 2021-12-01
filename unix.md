@@ -37,6 +37,8 @@
 - [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma) + https://news.ycombinator.com/item?id=22778988
 - https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb + https://news.ycombinator.com/item?id=20293579
 - [A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day](https://github.com/cli-guidelines/cli-guidelines)
+- [Determining file versions using 'join' command](https://yurichev.com/news/20211016_join)
+
 
 ### Flavours
 
