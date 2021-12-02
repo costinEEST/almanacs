@@ -236,6 +236,7 @@
 - https://twitter.com/tlakomy/status/1358162226352451587
 - [One Problem, 500 Arrows | GMHikaru](https://youtu.be/2pZSozuQAS0)
 - [Paul Morphy](https://twitter.com/CupOJoseph/status/1440818308320677894)
+- https://github.com/niklasf/chess-openings
 
 ### Golf
 

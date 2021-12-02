@@ -191,6 +191,8 @@
 - [A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers](https://github.com/webrecorder/archiveweb.page)
 - https://github.com/albertz/chrome-ext-google-takeout-downloader
 - https://github.com/eloquence/freeyourstuff.cc
+- https://github.com/felladrin/linkedin-autoconnect-chrome-extension
+- [A blazing fast & offline frontend playground](https://github.com/chinchang/web-maker)
 
 ### Bookmarklets
 

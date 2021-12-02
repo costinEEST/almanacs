@@ -99,6 +99,7 @@
 - https://github.com/bwasty/learn-opengl-rs
 - https://github.com/dtolnay/proc-macro-workshop
 - https://github.com/timvisee/advent-of-code-2020
+- https://vino.dev/blog/node-to-rust-day-1-rustup
 
 ### Podcast
 

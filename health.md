@@ -364,6 +364,7 @@
 - https://www.npr.org/sections/health-shots/2021/05/12/996141182/paralyzed-man-communicates-by-imagining-handwriting
 - [Geology helps map kidney stone formation from tiny to troublesome](https://www.sciencedaily.com/releases/2021/05/210525203814.htm)
 - https://nelsonslog.wordpress.com/2021/10/10/co2-sensing-and-air-circulation
+- https://chrismasterjohnphd.com/blog/2009/01/16/the-rockfeller-foundations-molecular-vision-of-life-how-the-aims-of-eugenics-social-control-and-human-engineering-shaped-molecular-biology-and-20th-century-science
 
 ### DYI
 

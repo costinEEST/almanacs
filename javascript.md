@@ -149,6 +149,10 @@
 
 - [Functions that will give you a feeling of how machines can actually "learn"](https://github.com/trekhleb/nano-neuron)
 
+### BigInt
+
+- https://github.com/juanelas/bigint-crypto-utils
+
 ### void
 
 - [A case for using void in modern JavaScript](https://gist.github.com/slikts/dee3702357765dda3d484d8888d3029e)

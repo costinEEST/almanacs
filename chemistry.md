@@ -6,6 +6,8 @@
 - https://www.amazon.com/Empires-Light-Edison-Westinghouse-Electrify/dp/0375758844
 - https://www.purdue.edu/newsroom/releases/2021/Q4/electric-vehicles-could-fully-recharge-in-under-5-minutes-with-new-charging-station-cable-design.html
 - https://github.com/danielsundermeier/knowledge/tree/master/energy
+- https://online.stanford.edu/courses/xeiet203-building-energy-efficiency-technology-policy-finance
+- https://online.stanford.edu/courses/xeiet237-transforming-grid-ai-renewables-storage-evs-and-prosumers
 
 ### Book
 

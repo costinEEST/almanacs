@@ -154,6 +154,7 @@
 - https://github.com/thisisgvrt/fitbit-timescaledb-exporter
 - https://github.com/seanbreckenridge/google_takeout_parser
 - [Human Programming Interface](https://github.com/karlicoss/HPI)
+- https://github.com/piotrantosz/google-arts-crawler
 
 
 ### Security

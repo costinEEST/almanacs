@@ -343,6 +343,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Simple, private file sharing from the makers of Firefox](https://github.com/mozilla/send)
 - ["Will I break you" - a tool for testing dependents](https://github.com/pkgjs/wiby)
 - [Node-dev is a development tool for Node.js that automatically restarts the node process when a file is modified](https://github.com/fgnass/node-dev)
+- [utility library to create and run Advent of Code solutions](https://github.com/caderek/aocrunner)
 
 
 ### Testing
@@ -401,6 +402,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/NikolaiT/Crawling-Infrastructure
 - [Creates a static snapshot of a website. Sort of like wget's mirror mode, but with nice urls](https://github.com/remy/snap)
 - [A JavaScript library for generating random user agents with data that's updated daily](https://github.com/intoli/user-agents)
+- [FIDE (International Chess Federation) ratings pages scraper](https://github.com/xRuiAlves/fide-ratings-scraper)
 
 ### Micro service
 
