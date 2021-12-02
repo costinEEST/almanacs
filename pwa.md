@@ -42,6 +42,7 @@
 - https://itnext.io/publishing-a-progressive-web-app-pwa-on-the-playstore-what-works-and-what-doesnt-in-2021-c4cfea5a7601
 - https://blogs.windows.com/msedgedev/2021/10/19/pwa-summit-learn-progressive-web-apps-documentation
 - https://www.aaron-gustafson.com/notebook/enhancing-the-manifest
+- https://github.com/karlhorky/pwa-tricks
 
 ### Demo
 

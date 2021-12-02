@@ -74,7 +74,6 @@
 - https://github.com/mikaelbr/awesome-es2015-proxy
 - https://tobireif.com/posts/observing_changes_using_ES6_proxies
 - [Functional Core, Imperative Shell ~ Lachlan Miller](https://www.youtube.com/playlist?list=PLC2LZCNWKL9a7b7Ufx0ngo9xH_b8j9ZlA)
-- https://github.com/you-dont-need/You-Dont-Need-Loops
 - https://github.com/lucamezzalira/awesome-reactive-programming
 - [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - https://lucasfcosta.com/talks/2019-09-20-A-Fun-Introduction-To-Lambda-Calculus.html + https://twitter.com/prathyvsh/status/1188787773441888257
@@ -177,6 +176,10 @@
 - https://twitter.com/jedschmidt/status/1254932318336081920 + [Turning callbacks into async iterators](https://gist.github.com/jed/f8444ae8e6e40e08a7b29944840ac20d)
 - [for-of, early termination, iterators, and generators](https://gist.github.com/rauschma/fd2518d14a7b1b7b39751d9ac85e6c20)
 - https://jeffy.info/2019/03/22/that-time-i-used-a-generator.html
+
+### string
+
+- https://github.com/kay-is/awesome-tagged-templates
 
 ### spread/destructuring operator
 

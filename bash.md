@@ -82,3 +82,4 @@
 - [JavaScript for Shell Scripting](https://github.com/google/zx) + https://news.ycombinator.com/item?id=27072515 
 - https://github.com/alexanderepstein/Bash-Snippets
 - https://publish.obsidian.md/davidgasquez/Handbook/Automation
+- https://github.com/you-dont-need/You-Dont-Need-GUI

@@ -69,7 +69,9 @@
 - https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md
 - https://github.com/sudheerj/javascript-interview-questions
 - https://gist.github.com/paulfranco/9f88a2879b7b7d88de5d1921aef2093b
-
+- [Fast and simple way to check any HTTP Headers](https://github.com/UlisesGascon/check-my-headers)
+- https://github.com/Eomm/fastify-in-practice
+- https://github.com/PacktPublishing/Accelerate-Web-Development-with-Fastify
 
 ### Book
 
@@ -354,6 +356,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [The globals are still node globals, but since they’re created in two different context they fail instanceof checks](https://twitter.com/matteocollina/status/1453029660925861901)
 - [Why mocha?](https://twitter.com/RogersKonnor/status/1453205169995403268)
 - https://github.com/kentcdodds/testing-node-apps
+- https://github.com/testjavascript/nodejs-integration-tests-best-practices
 
 ### Web servers
 
@@ -444,6 +447,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [do a visualisation of the dependencies and vulnerabilities in a nice format using a graph database.](https://javi-dr.medium.com/how-to-create-a-software-bill-of-materials-in-neo4j-5888c0f3c461) + https://github.com/javixeneize/Neo4J_BOM
 - [Node.js HTTP server performance](https://twitter.com/lukeed05/status/1396307201606651913) + https://twitter.com/bradleymeck/status/1397919169576804361
 - https://arstechnica.com/information-technology/2021/09/npm-package-with-3-million-weekly-downloads-had-a-severe-vulnerability
+- https://github.com/onsecru/jwt-hacking-challenges
 
 
 ### Static site generator

@@ -258,12 +258,13 @@ javascript: (() =>
 
 - [Standalone client for proxies of Opera VPN](https://github.com/Snawoot/opera-proxy)
 
-### Cross-origin resource sharing
+### Cross-origin resource sharing (CORS)
 
 - https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html
 - [Authenticated CORS with Access-Control-Allow-Origin: \*](https://blog.bi.tk/chrome-cors)
 - https://github.com/RUB-NDS/CORStest
 - https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices
+- https://github.com/onsecru/cors_playground
 
 ### Cookies
 
