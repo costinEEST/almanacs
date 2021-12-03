@@ -43,6 +43,7 @@
 - https://github.com/integer32llc/rust-in-motion-videos
 - https://docs.microsoft.com/en-gb/learn/paths/rust-first-steps
 - https://github.com/yoshuawuyts/rust-for-js-peeps
+- https://www.freecodecamp.org/news/rust-in-replit
 
 ### Tutorials
 

@@ -8,6 +8,10 @@
 - https://www.hackingwithswift.com/quick-start/understanding-swift
 - https://www.jessesquires.com/blog/2020/12/28/resources-for-learning-about-compilers-and-llvm
 
+### Course
+
+- https://www.hackingwithswift.com/100/swiftui
+
 ### Cinema
 
 - https://kaitlin.dev/speaking
@@ -29,8 +33,6 @@
 
 - https://github.com/soapyigu/Swift-30-Projects
 - https://www.apple.com/swift/playgrounds
-- https://www.hackingwithswift.com/100/swiftui
-- https://www.hackingwithswift.com/100
 
 ### Opinion
 

@@ -52,6 +52,7 @@
 - https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900
 - https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan
 - https://www.udemy.com/course/automate-reactjs-springboot-cicd-pipelines-on-azuredevops
+- [A collection of scripts for assessing Microsoft Azure security](https://github.com/NetSPI/MicroBurst)
 
 ### Cloudflare
 

@@ -114,6 +114,7 @@
 - https://www.proofpoint.com/us/blog/email-and-cloud-threats/what-can-cyber-criminal-learn-about-you-using-your-mobile-number
 - [Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing](https://github.com/fingerprintjs/external-protocol-flooding)
 - https://github.com/niespodd/browser-fingerprinting
+- https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks
 
 ### Social media
 
