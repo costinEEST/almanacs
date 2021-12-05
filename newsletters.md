@@ -197,6 +197,9 @@
 ### Food
 
 - [Alliance to Feed the Earth in Disasters](https://us13.campaign-archive.com/home/?u=5c0ca1b06a66c60ef3a65e546&id=1a56e9e1a5)
+- [Alexis deBoschnek](https://alexisdeboschnek.substack.com)
+- [Andy Ricker](https://andyricker.substack.com/archive)
+- [Ruth Reichl](https://ruthreichl.substack.com/archive)
 
 ### Health
 

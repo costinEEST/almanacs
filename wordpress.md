@@ -32,6 +32,7 @@
 - [Visualize the WordPress Template Hierarchy](https://wphierarchy.com)
 - https://cfe.dev/sessions/wordpress-headless-workflow
 - [Built with Next.js, headless WordPress and Netlify](https://bejamas.io/blog/backlinko-case-study)
+- https://wpengine.com/blog/faust-js-the-framework-for-headless-wordpress
 
 
 ### Opinion

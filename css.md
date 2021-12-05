@@ -38,6 +38,8 @@
 - https://courses.joshwcomeau.com/video-archive/css-for-js
 - [Designing in the Browser](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
 - https://inclusivedesign24.org/2021/schedule
+- [CSS Layout from the inside out](https://2021.stateofthebrowser.com/speakers/rachel-andrew)
+- https://codepen.io/rachelandrew/full/2c48047f0816fa9050ec139256a2e8ba + https://www.youtube.com/watch?v=yMEjLBKyvEg
 
 ### Color
 

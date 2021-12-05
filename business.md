@@ -136,6 +136,7 @@
 ### Startups
 
 - https://www.ycombinator.com/library
+- https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/winning-formula-how-europes-top-tech-start-ups-get-it-right
 - https://startupbookmarks.com
 - [Never Lost Again: The Google Mapping Revolution That Sparked New Industries and Augmented Our Reality.](https://www.amazon.com/Never-Lost-Again-Revolution-Industries/dp/0062673041)
 - [I grew Visa List to \$5k per month in a year.](https://news.ycombinator.com/item?id=21796088)

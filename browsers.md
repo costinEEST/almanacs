@@ -316,6 +316,7 @@ javascript: (() =>
 - [Curs Super SEO pentru eCommerce](https://academia.gomag.ro/biblioteca?access=67)
 - https://www.linkedin.com/pulse/200-unsolicited-seo-tips-mark-williams-cook
 - [The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
+- https://ahrefs.com/blog/seo-glossary
 
 ### Web Real-Time Communication (WebRTC)
 

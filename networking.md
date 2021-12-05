@@ -109,6 +109,7 @@
 - [What I learned of the VOIP hacker scene by setting up a SIP Honeypot](https://shufflingbytes.com/posts/sip-honeypot)
 - https://github.com/W00t3k/Awesome-Cellular-Hacking
 - [tools to facilitate the analysis of the DJI drone WiFi communication protocol](https://github.com/Toemsel/dji-wifi-tools)
+- https://www.logsign.com/blog/warxing-in-cyber-security
 
 ### 5G
 

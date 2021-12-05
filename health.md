@@ -49,6 +49,10 @@
 - https://www.udemy.com/course/tai-chi-chen-style-for-beginner-strengthens-mind-and-body
 - [Cultivating the Breath as a Symbol](https://goula.sh/days/2021-03-13)
 
+### Course
+
+- https://www.udemy.com/course/nutrition-masterclass-course
+
 ### Community
 
 - https://github.com/aarvanet/longevity-events + https://github.com/aarvanet/longevity-news
