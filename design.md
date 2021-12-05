@@ -17,6 +17,7 @@
 - https://asktog.com/atc/principles-of-interaction-design
 - https://en.wikipedia.org/wiki/Kenya_Hara#Books + https://www.ndc.co.jp/hara/en/books
 - [Designa: Technical Secrets of the Traditional Visual Arts](https://www.goodreads.com/en/book/show/20613528) + https://twitter.com/jackrusher/status/1395766428301676545
+- https://www.amazon.com/Non-Designers-Design-Book-Non-Designers-ebook/dp/B00PWDFWEE
 
 
 ### Cinema
@@ -41,6 +42,8 @@
 
 - https://matthewstrom.com/ethics
 - https://blog.awaxman.com/product-design-resources
+- https://hackdesign.org/lessons
+- https://www.designacademy.io/free-course
 
 ### Community
 
