@@ -52,11 +52,12 @@
 - https://github.com/Apress/physics-for-javascript-games-animation-simulations
 - https://github.com/llSourcell/Learn_Physics_in_2_Months
 - https://guzey.com/where-does-talent-come-from
-- https://ciechanow.ski/naval-architecture + 
+- https://ciechanow.ski/naval-architecture 
 
 ### Engine
 
 - https://www.wired.co.uk/article/internal-combution-engine-obituary
+- https://ciechanow.ski/internal-combustion-engine + https://twitter.com/BCiechanowski/status/1387790984356917249
 
 ### Radio
 

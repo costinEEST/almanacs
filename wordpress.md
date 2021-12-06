@@ -10,6 +10,7 @@
 - https://github.com/nosolosw/understanding-gutenberg
 - https://github.com/colbyfayock/next-wordpress-starter + https://twitter.com/itsakeller/status/1372583256286187523
 - https://github.com/Shelob9/react-wordpress-testing
+- https://github.com/LearnWebCode/brads-boilerplate-wordpress
 
 ### Cinema
 

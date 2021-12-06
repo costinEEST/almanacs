@@ -193,6 +193,7 @@
 - https://github.com/eloquence/freeyourstuff.cc
 - https://github.com/felladrin/linkedin-autoconnect-chrome-extension
 - [A blazing fast & offline frontend playground](https://github.com/chinchang/web-maker)
+- https://github.com/ffmpegwasm/chrome-extension-app
 
 ### Bookmarklets
 
@@ -357,6 +358,7 @@ javascript: (() =>
 - https://bkardell.com/blog/OffscreenCanvas.html
 - https://github.com/mattdesl/workshop-generative-art
 - https://github.com/psenough/teach_yourself_demoscene_in_14_days
+- [procedurally generated fish drawings](https://github.com/LingDong-/fishdraw)
 
 ### WebGL
 

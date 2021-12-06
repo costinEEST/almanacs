@@ -70,7 +70,8 @@
 - https://medium.com/@hinchman_amanda/null-pointer-references-the-billion-dollar-mistake-1e616534d485 + https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare
 - https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license
 - https://begriffs.com/posts/2020-08-31-portable-stable-software.html
-- https://ciechanow.ski/exposing-floating-point
+- https://ciechanow.ski/exposing-floating-point + https://twitter.com/BCiechanowski/status/1080175361583865856
+- https://blog.ngzhian.com/ieee754.html
 
 ### Should know
 

@@ -18,3 +18,4 @@
 - https://adambard.com/blog/ten-reasons-to-use-clojure
 - https://jeffchen.dev/posts/Why-Clojure
 - https://abacusnoir.blog/2021/02/12/rust-go-clojure
+- https://blog.ngzhian.com/a-history-of-clojure.html

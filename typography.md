@@ -61,6 +61,7 @@
 - [Convert Google Fonts to Self-Hosted fonts](https://wicki.io/google-fonts-converter) + https://wicki.io/posts/2020-11-goodbye-google-fonts + https://news.ycombinator.com/item?id=25300396
 - [Downloads a set of web fonts specified by @font-face rules in a CSS file.](https://github.com/mmastrac/webfont-dl)
 - [A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets](https://github.com/majodev/google-webfonts-helper)
+- [What I learned about fonts on Linux](https://blog.ngzhian.com/what-i-learned-about-fonts.html)
 
 
 ### Miscellaneous

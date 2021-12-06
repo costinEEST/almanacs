@@ -58,6 +58,7 @@
 
 - https://www.notion.so/Inventory-872bc0d28938412daa772b1544a5dfdc
 - [Cédric Waldburger](https://www.youtube.com/playlist?list=PLFtln-0KmkcMOAqDP4SF3Acd1t081neiu)
+- https://jcbl.ws/loving-the-things-i-have
 
 ### Writing
 

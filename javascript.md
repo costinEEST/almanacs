@@ -11,6 +11,7 @@
 - https://github.com/RobinLinus/prime-counting-function
 - [An Introduction to Scalability and Memory](https://www.youtube.com/playlist?list=PLK_e420JFUuYa-nMGoEeJqsplPvJZTOL5) + [Recursion for the Rest of Us](https://www.youtube.com/playlist?list=PLK_e420JFUuaDfQUnWXoc-rTXg6TzGDh2) + https://github.com/Haseeb-Qureshi/cs-fundamentals
 - https://github.com/jasonwebb/morphogenesis-resources + https://thatcreativecode.page
+- https://github.com/imposters-handbook/videos
 
 ### AST
 
@@ -135,6 +136,7 @@
 - https://learnjavascript.online
 - https://github.com/sophi-li/OKRs-self-learning
 - https://github.com/eggheadio/eggheadio-course-notes
+- https://egghead.io/courses/functional-programming-concepts-in-purescript
 
 ### Paper
 
@@ -546,6 +548,8 @@
 - [A way to manage your versioning and changelogs with a focus on monorepos](https://github.com/atlassian/changesets)
 - https://github.com/stevekinney/frontend-architecture-topics
 - https://github.com/RobinCsl/awesome-js-tooling-not-in-js
+- https://blog.ngzhian.com/simple-live-reload.html
+- https://blog.ngzhian.com/emscripten-cmake.html
 
 ### Documentation
 

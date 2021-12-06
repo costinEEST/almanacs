@@ -2,15 +2,25 @@
 
 - https://github.com/lambda-magic/plt-books/tree/master/Haskell
 - https://github.com/leandrotk/functional-programming-learning-path/tree/master/haskell
+- [Learning Haskell by building a simple static blog generator](https://github.com/soupi/learn-haskell-blog-generator)
+
+### Community
+
+- https://blog.ngzhian.com/bookmarks-for-a-programming-language-enthusiast.html
+- [A self hosted website for announcing group events](https://github.com/soupi/gathering)
+- https://github.com/erkmos/haskell-companies
 
 ### Cinema
 
 - https://twitter.com/haskellhutt/status/1375384976938663936 + [Functional programming in Haskell, by Professor Graham Hutton from the University of Nottingham.](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3) + http://www.cs.nott.ac.uk/~pszgmh/pih.html
 - https://huangxuan.me/2018/09/27/avoiding-success-at-all-cost
+- [Vincent Orr](https://www.youtube.com/channel/UCbKpj2hZ0CFXLatyx615JNw/playlists)
+- [Strema: a compiler targeting JavaScript in Haskell](https://www.youtube.com/playlist?list=PLhMOOgDOKD4IkQM75GkAnXI-fpIrDAnsu) + https://gitlab.com/gilmi/strema
 
 ### Compiler
 
 - [Self-hosting compiler from a Haskell-like Lisp directly to x86-64, from scratch.](https://intuitiveexplanations.com/tech/kalyn) + https://github.com/raxod502/kalyn
+- https://github.com/soupi/rfc/blob/master/fun-compilers.md
 
 ### Practice
 
@@ -25,16 +35,16 @@
 - https://github.com/folivetti/Category4Programmers
 - https://github.com/bitemyapp/learnhaskell
 - https://github.com/google/haskell-trainings
+- https://github.com/kowainik/learn4haskell
+- https://github.com/tssm/up-to-date-real-world-haskell
+- https://github.com/graninas/software-design-in-haskell
 
 ### Radio
 
 - https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones
 
-### TV
-
-- https://www.youtube.com/channel/UCbKpj2hZ0CFXLatyx615JNw/playlists
-
 
 ### Opinions
 
 - https://github.com/cyberglot/awesome-answers#haskell
+- https://github.com/soupi/haskell-study-plan
