@@ -48,6 +48,7 @@
 - [Benefits of Turmeric | NutritionFacts.org](https://www.youtube.com/playlist?list=PL5TLzNi5fYd9JWJdWb4rgzaMrPLoF8S7c)
 - https://www.udemy.com/course/tai-chi-chen-style-for-beginner-strengthens-mind-and-body
 - [Cultivating the Breath as a Symbol](https://goula.sh/days/2021-03-13)
+- [Educational/Tips | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8qU_CVwuipR5R5ezRVk9EwF)
 
 ### Course
 
@@ -67,6 +68,8 @@
 ### Cooking
 
 - https://www.amazon.com/Taste-My-Life-Through-Food/dp/1982168013
+- [Low Carb and Keto Favorites | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8r5FuCmgNpYrVtQxxiyIJik)
+- [Two Ingredient Recipes | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8rVascvm5-Y1K_aRHMIcUWX)
 
 
 ### Cholesterol
@@ -104,6 +107,8 @@
 
 - https://cresthospital.co.nz/hospital/specialist-directory/dr-kamran-rostami + https://twitter.com/KamranRostami15
 - [Jennifer Fugo talks about gluten free](https://www.youtube.com/user/jenfugo/playlists)
+- https://mindovermunch.com/blog/are-grains-bad-for-you
+- https://www.amazon.com/No-Grain-Pain-Eliminating-Chronic-ebook/dp/B00UDCHX4Q + [Is It Gluten Free? | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCVrvzUo510KTWnUbmUEh81t) + https://www.glutenfreesociety.org/gluten-mimicking-foods
 
 ### Heart
 
@@ -171,7 +176,7 @@
 
 - [Psychology Hacks to Activate Your Happiness Chemicals](https://twitter.com/UpSkillYourLife/status/1452278343743725578)
 
-### Supplements
+### Supplement
 
 - https://www.health.harvard.edu/staying-healthy/listing_of_vitamins
 - https://masterpass.chrismasterjohnphd.com/dashboard
@@ -189,6 +194,8 @@
 - [Should I take Aspirin? - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xfwHQsPNIRrGCghvvh0uLV)
 - [Aspirin - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9wdGJ4lybaQWvoj7C_m3xDV)
 - https://www.thoughtco.com/elements-in-the-human-body-p2-602188
+- [Nutrition Crash Courses - The Ultimate Nutritional Information Library | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCW_HnOrI_LLZi_uaYCUCsQP)
+- [Vitamins and Minerals | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCUJ1FLWcYRKrVz4hbyRSLFj)
 
 ### Vegetables
 
@@ -216,6 +223,7 @@
 - https://www.amazon.com/Ketones-Fourth-Fuel-Warburg-Fountain-ebook/dp/B08G8TFQKS + https://youtu.be/9ler8ksUAfE + https://twitter.com/briannastubbs/status/1225209323522936832 + https://medium.com/@travischristofferson/richard-bud-veech-the-unknown-scientist-behind-the-ketogenic-diet-craze-dies-at-84-ff1f7c9b91ea + https://youtu.be/WV_jip-Yhe4
 - [Biomarkers, Metabolism, Biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9x2q-9uV9zcGfQ6Pi6Oj-_s)
 - [Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss)
+- [Keto diet | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCVr0OWbPNgohdrUSaA3NhY5)
 
 ### Meat
 
@@ -270,6 +278,7 @@
 - [Skin Problems - Dr. Vivek Joshi](https://www.youtube.com/playlist?list=PLtOL-RbYxicYoYdlSJFMTzwuqjq12mrkW)
 - [Podcast - Chemist Confessions](https://www.youtube.com/playlist?list=PLldQkxjc7bYnFkUtOw8Y07yCyBnaF4ddx)
 - https://www.vox.com/science-and-health/22710533/nobel-prize-2021-ardem-patapoutian-touch
+- https://www.amazon.com/Its-Not-Just-Acne-Healthier-ebook/dp/B092LVV638
 
 ### Gut
 
