@@ -8,6 +8,7 @@
 - https://github.com/danielsundermeier/knowledge/tree/master/energy
 - https://online.stanford.edu/courses/xeiet203-building-energy-efficiency-technology-policy-finance
 - https://online.stanford.edu/courses/xeiet237-transforming-grid-ai-renewables-storage-evs-and-prosumers
+- https://www.udemy.com/user/akshaygill
 
 ### Book
 

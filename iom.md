@@ -143,6 +143,7 @@
 - https://github.com/McCoady/Blockchain-Dev-101
 - https://github.com/decrypto-org/blockchain-papers
 - https://github.com/Mechanism-Labs/MetaAnalysis-of-Alternative-Consensus-Protocols
+- https://medium.com/starkware/redefining-scalability-5aa11ffc5880
 
 ### Boilerplate
 
