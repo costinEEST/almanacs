@@ -26,6 +26,7 @@
 - [Introduction to Computer Systems](http://www.cs.cmu.edu/~213) + https://twitter.com/CardosoDiegoS/status/1182860992683872256
 - [CS 3330: Undergraduate Computer Architecture](http://www.cs.virginia.edu/~av6ds/classes/cs3330/sp21)
 - [CS 6354: Graduate Computer Architecture](http://www.cs.virginia.edu/~av6ds/classes/cs6354/fa19)
+- [Introduction to Assembly | Irvin Lemus](https://github.com/infosecirvin/assembly)
 
 ### Cinema
 

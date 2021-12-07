@@ -1,9 +1,10 @@
-### Books
+### Book
 
 - https://learning.oreilly.com/library/view/linux-basics-for/9781492069485
 - https://learning.oreilly.com/library/view/working-with-linux/9781787129184
 - https://gumroad.com/l/gnu_awk + https://leanpub.com/gnu_awk
 - https://leanpub.com/anti-reverse-engineering-linux
+- https://github.com/linuxboot/book
 
 ### Cinema
 
@@ -55,6 +56,7 @@
 - https://github.com/cirosantilli/arm-assembly-cheat
 - https://www.labbott.name/blog/2017/11/15/some-reading
 - [Linux kernel concurrency cheat sheet](https://twitter.com/vegard_no/status/1437477945271111682)
+- https://github.com/oreboot/oreboot
 
 ### Radio
 

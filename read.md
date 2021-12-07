@@ -22,6 +22,7 @@
 - https://supermemo.guru/wiki/Incremental_reading
 - ['How to read a (good) book in one hour' by Chris Kelty](https://savageminds.org/2007/10/01/how-to-read-a-good-book-in-one-hour)
 - ['How to Read a Book' by Paul Edwards](http://utminers.utep.edu/trcurry/howtoread.pdf)
+- https://blog.jessfraz.com/post/the-art-of-automation
 
 ### Tool
 
@@ -56,3 +57,4 @@
 - [Engin Arslan](https://www.enginarslan.com/library)
 - [Terence Eden](https://shkspr.mobi/blog/tag/book-review)
 - [Charlotte Dann](https://github.com/pouretrebelle/chareads.com)
+- [Jessie Frazelle](https://blog.jessfraz.com/post/books)

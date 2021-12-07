@@ -86,6 +86,7 @@
 - https://github.com/gweicz/defi-toolkit
 - https://github.com/Nachoxt17/DeFi-Farming-Yielding-Tutorial
 - https://github.com/OffcierCia/ultimate-defi-research-base
+- [DeFi MOOC - Stablecoins Guest Lecture (Ariah Klages-Mundt)](https://www.youtube.com/playlist?list=PLX9yxQIwhmpYSYMNOpp25I1RXu7AKuKC9)
 
 ### References
 
@@ -154,6 +155,11 @@
 
 ### Bitcoin
 
+- https://www.coindesk.com/podcasts/coindesk-podcast-network/exploring-bitcoins-lightning-network + https://www.coindesk.com/reports/an-in-depth-look-into-the-lightning-network-as-a-bitcoin-scaling-solution + https://www.youtube.com/c/RenePickhardt/playlists
+- https://github.com/bcongdon/awesome-lightning-network
+- https://github.com/t-bast/lightning-docs
+- https://github.com/chaincodelabs/lightning-curriculum
+- [Study materials for Bitcoin & Lightning Protocol](https://github.com/chaincodelabs/seminars)
 - https://github.com/jashmenn/bitcoin-reading-list
 - [How to keep bitcoin running in offline environments.](https://twitter.com/nwoodfine/status/1214238101796638721)
 - https://github.com/chaincodelabs/bitcoin-curriculum
@@ -162,6 +168,7 @@
 - [40 hours of actionable bitcoin discussion available for free without ads, sponsors, or paywalls](https://keybase.pub/mattodell/Citadel-Dispatch/Video)
 - https://uncommoncore.co/wp-content/uploads/2019/10/A-model-for-Bitcoins-security-and-the-declining-block-subsidy-v1.02.pdf
 - https://twitter.com/summerofbitcoin/status/1436371656570654720 + https://blog.summerofbitcoin.org/#archive
+- https://teachbitcoin.io/curriculum + https://github.com/teachbitcoin/teachbitcoin.github.io
 
 ### Solana
 

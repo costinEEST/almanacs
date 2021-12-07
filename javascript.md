@@ -137,6 +137,7 @@
 - https://github.com/sophi-li/OKRs-self-learning
 - https://github.com/eggheadio/eggheadio-course-notes
 - https://egghead.io/courses/functional-programming-concepts-in-purescript
+- https://github.com/nicoespeon/refactoringjavascript.dev
 
 ### Paper
 
@@ -383,6 +384,7 @@
 ### IndexDB
 
 - https://twitter.com/tgroshon/status/1332499610192015362
+- https://just-be.dev/posts/export-import-indexeddb
 
 ### Document Object Model
 

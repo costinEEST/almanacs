@@ -113,6 +113,7 @@
 - [A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.](https://github.com/ageron/handson-ml)
 - https://github.com/firmai/industry-machine-learning
 - https://github.com/aaronwangy/Data-Science-Cheatsheet
+- https://github.com/lschmelzeisen/talk-supervised-learning-tensorflow
 
 ### Tool
 

@@ -280,6 +280,7 @@ javascript: (() =>
 - https://rudism.com/cookie-monster
 - [Browser fingerprinting via favicon!](https://github.com/jonasstrehle/supercookie)
 - [Exploring the SameSite cookie attribute for preventing CSRF](https://simonwillison.net/2021/Aug/3/samesite)
+- https://github.com/defaultnamehere/cookie_crimes
 
 ### Federated Learning of Cohorts
 

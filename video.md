@@ -56,6 +56,7 @@
 - [media downloader and library for various sites](https://github.com/blackjack4494/yt-dlc)
 - https://zoomcorder.com
 - [A PoC for USB video out from the DJI FPV Goggles, inspired by The Video Out Club](https://github.com/fpv-wtf/voc-poc)
+- [Fast and simple video download library and CLI tool written in Go](https://github.com/iawia002/annie)
 
 ### Opinions
 

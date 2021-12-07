@@ -18,6 +18,10 @@
 - [A video series on functional programming and the Swift programming language.](https://www.pointfree.co)
 - https://github.com/Lascorbe/CocoaConferences
 
+### Demo
+
+- [macOS status monitoring app](https://github.com/gao-sun/eul)
+
 
 ### Development
 

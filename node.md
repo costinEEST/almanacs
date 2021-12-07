@@ -421,6 +421,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/PacktPublishing/Developing-Microservices-With-Nodejs
 - https://github.com/justinamiller/Microservices-Architecture-Guidelines
 - https://blog.bitsrc.io/building-a-reactive-architecture-around-redis-bc53662b81c8
+- https://samnewman.io/books/building_microservices_2nd_edition
 
 ### Design patterns
 
