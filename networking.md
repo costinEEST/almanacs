@@ -302,6 +302,7 @@
 
 ### Miscellaneous
 
+- https://github.com/jbenet/random-ideas/issues
 - https://github.com/alphaSeclab/awesome-network-stuff/blob/master/Readme_en.md
 - https://github.com/kdeldycke/awesome-falsehood#networks
 - https://notes.eddyerburgh.me/computer-networking

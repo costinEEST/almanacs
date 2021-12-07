@@ -34,6 +34,7 @@
 - [Dave Herman](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
 - [Stefan Baumgartner](https://buttondown.email/oida/archive)
 - [Michael Groncki](https://twitter.com/i/lists/1396059618586075137)
+- [Wesley Moore](https://github.com/wezm/read-rust)
 
 ### Course
 
@@ -120,6 +121,7 @@
 - https://kerkour.com/blog/rust-reproducible-cross-compilation-with-docker
 - https://github.com/kbknapp/cargo-outdated
 - [Easily and securely share files from the command line](https://github.com/timvisee/ffsend) + https://twitter.com/CKsTechNews/status/1374998403646685189
+- https://www.wezm.net/v2/posts/2020/100-rust-binaries
 
 ### Opinions
 
@@ -142,3 +144,4 @@
 - https://noncombatant.org/2021/04/09/prioritizing-memory-safety-migrations
 - https://github.com/readme/featured/rust-programming
 - https://blog.m-ou.se/rust-is-not-a-company
+- https://fishrock123.github.io/practical-rust-slides/api-expectations

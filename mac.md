@@ -54,6 +54,7 @@
 - [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary)
 - [sudo nvram boot-args=”-v” before applying a patch.](https://twitter.com/Dave_Maynor/status/1438220468650139652)
 - [MacOS / Linux Filesystem Adventures](https://gist.github.com/balupton/8b6e9ce0738b35ff2bc764c21dea7a51)
+- https://github.com/jonathanong/osx-webdev-setup
 
 ### Security
 

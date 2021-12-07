@@ -563,3 +563,4 @@
 
 - [Building better developers by specifying criteria of success](https://github.com/prettydiff/wisdom)
 - https://github.com/justinamiller/SoftwareArchitect
+- https://kevin.burke.dev/kevin/faker-js-problems

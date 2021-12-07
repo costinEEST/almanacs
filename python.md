@@ -155,6 +155,7 @@
 - https://github.com/seanbreckenridge/google_takeout_parser
 - [Human Programming Interface](https://github.com/karlicoss/HPI)
 - https://github.com/piotrantosz/google-arts-crawler
+- https://github.com/MarcelloLins/ServerlessCrawler-VancouverRealState
 
 
 ### Security

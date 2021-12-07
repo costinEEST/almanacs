@@ -29,6 +29,7 @@
 - [Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.](https://github.com/burtonator/polar-bookshelf)
 - https://goula.sh/days/2021-03-26
 - https://cri.dev/posts/2021-02-09-my-reading-stack-miniflux-rss-pocket
+- [Turn any web page into a clean view](https://github.com/luin/readability)
 
 ### Review
 

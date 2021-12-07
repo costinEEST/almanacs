@@ -43,6 +43,7 @@
 ### Opinions
 
 - https://getloaf.io/blog/why-i-chose-electronjs
+- https://www.nearform.com/blog/architecting-electron-applications-for-60fps
 
 ### Security
 

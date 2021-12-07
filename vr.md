@@ -22,6 +22,7 @@
 ### Cinema
 
 - [Augmented and Virtual Reality ~ Adrian Iftene](https://www.youtube.com/playlist?list=PLddW60TN_y-WsMfQoEcz-O-6QdZJ8wZ3y)
+- [WebXR Basics | WebXR](https://www.youtube.com/playlist?list=PLW2iP2Rz9wsKTPwDEW1KhxcWkuwur_E9t)
 
 
 ### Demo

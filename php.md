@@ -64,6 +64,7 @@
 - https://0xboku.com/2021/09/14/0dayappsecBeginnerGuide.html
 - https://github.com/flozz/p0wny-shell
 - https://github.com/nettitude/xss_payloads
+- https://kevin.burke.dev/kevin/things-to-use-instead-of-jwt
 
 ### Miscellaneous
 

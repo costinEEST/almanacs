@@ -39,7 +39,7 @@
 - https://www.aleksandrhovhannisyan.com/blog/svg-tutorial-how-to-code-svg-icons-by-hand
 - [Which SVG technique performs best for way too many icons?](https://cloudfour.com/thinks/svg-icon-stress-test)
 
-### Tools
+### Tool
 
 - [Make nice animated diagrams.](https://twitter.com/jlongster/status/1247530020928499714)
 - [Blob shapes generator.](https://github.com/lokesh-coder/blobs.app)
@@ -47,3 +47,4 @@
 - [Free svg background generator for your websites, blogs and app.](https://bgjar.com)
 - https://getloaf.io/blog/where-are-all-the-animated-svgs
 - https://twitter.com/JoshWComeau/status/1329507065908367363 + https://notchris.net/patterns
+- [Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette](https://github.com/boringdesigners/boring-avatars)

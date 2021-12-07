@@ -107,6 +107,7 @@
 - https://dev.to/43081j/strongly-typed-event-emitters-using-eventtarget-in-typescript-3658
 - [A SQL database implemented purely in TypeScript type annotations.](https://github.com/codemix/ts-sql)
 - https://github.com/ghoullier/awesome-template-literal-types
+- [A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler](https://github.com/sandersn/mini-typescript)
 
 ### Tool
 

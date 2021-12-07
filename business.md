@@ -51,6 +51,8 @@
 - https://www.udemy.com/course/the-growth-hacker-interviews
 - https://buzzsumo.com/blog/top-100-content-marketers
 - https://github.com/danielsundermeier/knowledge/blob/master/business/business.md
+- https://jongleberry.com/posts/where-to-share-referral-codes
+- [collected advice for beginner indie hackers, focused on pricing, landing pages](https://github.com/sw-yx/launch-cheatsheet)
 
 ### Branding
 
@@ -163,6 +165,7 @@
 - [Answers to the most common questions from thousands of founders from Idea to Seed](https://pioneer.app/codex)
 - https://graphics.stanford.edu/~dk/google_name_origin.html#:~:text=In%201996%2C%20Larry%20Page%20and,Tamara%20Munzner%2C%20and%20Lucas%20Pereira.
 - https://blakeir.com/notes/alex-zhu-tiktok
+- 
 
 ### Investing
 

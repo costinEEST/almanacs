@@ -60,7 +60,7 @@
 
 - https://ma.ttias.be/syscast/9-linux-vs-bsd
 
-### Tools
+### Tool
 
 - https://geekflare.com/run-linux-from-a-web-browser
 - [Linux Productivity Tools (2019)](https://news.ycombinator.com/item?id=23229241)
@@ -69,6 +69,7 @@
 - [Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.](https://github.com/nicolargo/glances)
 - https://quakkels.com/posts/my-favorite-tools-on-linux
 - https://nelsonslog.wordpress.com/2021/10/31/a-simple-systemd-unit-file
+- https://jvns.ca/blog/2017/09/03/network-interfaces
 
 ### Reference
 
@@ -87,6 +88,7 @@
 - https://github.com/YuCheLiu/Comptia_Linux_mindMap/blob/master/Linux_mindmap_pdf.pdf
 - https://drfits.com/lan-connection-is-not-working-on-linux
 - https://github.com/binarymist/command-line/blob/master/linux.md
+- https://www.wezm.net/v2/posts/2020/github-emoji-linux
 
 ### Embedded
 

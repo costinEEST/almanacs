@@ -78,6 +78,7 @@
 - https://scottspence.com/2020/05/30/first-time-pc-build
 - https://quanticdev.com/articles/max-value-pc-build-guide
 - https://wincent.com/blog/building-a-pc
+- https://jongleberry.com/posts/travel-gear-2021
 
 ### Webcam
 

@@ -236,10 +236,14 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://davidhettler.net/blog/event-loop-lag
 - https://github.com/lrlna/sketchin/blob/master/zines/js-event-loop.md
 - https://whistlr.info/2021/block-nodejs-main-thread
+- https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c
+- https://stackoverflow.com/questions/15349733/setimmediate-vs-nexttick
 
 ### Buffer
 
 - [Output a buffer in emojis](https://github.com/pfrazee/base-emoji)
+- https://kevin.burke.dev/kevin/node-js-string-encoding
+- [Proposal for future Node.js streaming data APIs: "Bytes over Buffers"](https://fishrock123.github.io/nodejs-collab-summit-montreal-2019) + https://github.com/Fishrock123/bob
 
 ### Stream
 
@@ -403,6 +407,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Creates a static snapshot of a website. Sort of like wget's mirror mode, but with nice urls](https://github.com/remy/snap)
 - [A JavaScript library for generating random user agents with data that's updated daily](https://github.com/intoli/user-agents)
 - [FIDE (International Chess Federation) ratings pages scraper](https://github.com/xRuiAlves/fide-ratings-scraper)
+- https://github.com/sw-yx/brain/blob/master/R%20-%20Product/Automation%20Notes.md
 
 ### Micro service
 
@@ -509,3 +514,4 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Geographical forum app for groups and teams to share and discuss locations](https://github.com/axelpale/georap)
 - https://github.com/feross/awesome-mad-science
 - https://gist.github.com/balupton/d6531a2f48dba896a1bced86e8b1636c
+- https://jinoantony.com/blog/async-vs-sync-nodejs-a-simple-benchmark

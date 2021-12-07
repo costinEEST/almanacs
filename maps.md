@@ -33,6 +33,7 @@
 - [Reverse-engineering Flyover (3D satellite mode) from Apple Maps.](https://github.com/retroplasma/flyover-reverse-engineering)
 - http://geoportal.ancpi.ro/portal/apps/webappviewer/index.html?id=faeba2d173374445b1f13512bd477bb2 + https://data.gov.ro/dataset/unitati-administrative
 - [Taiwan Hiking Maps](https://github.com/alpha-rudy/taiwan-topo)
+- [A global collection of address, cadastral parcel and building footprint data sources](https://github.com/openaddresses/openaddresses)
 
 ### Radio
 

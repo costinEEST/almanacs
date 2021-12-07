@@ -194,6 +194,7 @@
 - https://github.com/felladrin/linkedin-autoconnect-chrome-extension
 - [A blazing fast & offline frontend playground](https://github.com/chinchang/web-maker)
 - https://github.com/ffmpegwasm/chrome-extension-app
+- https://github.com/gordalina/gmail-unsubscribe
 
 ### Bookmarklets
 
@@ -292,7 +293,7 @@ javascript: (() =>
 - https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network + https://twitter.com/tomayac/status/1383337100041359365
 - https://spreadprivacy.com/block-floc-with-duckduckgo
 
-### Content Security Policy
+### Content Security Policy (CSP)
 
 - https://twitter.com/manicode/status/1371849647468208130
 - [Next level anti-debugging technique using SourceMappingURL feature](https://twitter.com/WeizmanGal/status/1207355263491149825)
@@ -301,6 +302,7 @@ javascript: (() =>
 - https://www.secjuice.com/hiding-javascript-in-png-csp-bypass + https://twitter.com/Menin_TheMiddle/status/1244325611440615426
 - https://tldrsec.com/blog/content-security-policy-going-from-idea-to-afterthought
 - https://sensepost.com/blog/2021/from-500-to-account-takeover + https://twitter.com/XssPayloads/status/1376389308207226881
+- https://twitter.com/blipsofadoug/status/1125223582974533633
 
 ### Same Origin Policy (SOP)
 
