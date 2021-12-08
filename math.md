@@ -58,6 +58,7 @@
 - http://abel.math.harvard.edu/pamphlets/courses.html
 - https://github.com/hongshin/DiscreteMath
 - https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen  https://www.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq
+- https://www.udemy.com/course/math-for-unreal-engine + https://www.youtube.com/playlist?list=PLsyGu3bA_w_CmxrMvj9Hbcnr6rwpkt7c5
 
 ### Cinema
 

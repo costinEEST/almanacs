@@ -57,6 +57,7 @@
 - https://www.labbott.name/blog/2017/11/15/some-reading
 - [Linux kernel concurrency cheat sheet](https://twitter.com/vegard_no/status/1437477945271111682)
 - https://github.com/oreboot/oreboot
+- https://github.com/danidiaz/variegated-reading-lists/tree/main/Linux_internals
 
 ### Radio
 

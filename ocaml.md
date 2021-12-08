@@ -1,6 +1,7 @@
 ### Book
 
 - https://dev.realworldocaml.org
+- https://github.com/bobzhang/ocaml-book
 
 ### Practice
 

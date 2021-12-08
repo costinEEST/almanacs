@@ -190,6 +190,7 @@
 - [Rock-solid transactional email templates for applications.](https://github.com/wildbit/postmark-templates)
 - https://gerardkcohen.github.io/periodic-table-of-semantics.html
 - https://justmarkup.com/articles/2021-04-13-html-elements-in-a-tweet
+- https://github.com/hail2u/html-best-practices
 
 ### Semantic
 

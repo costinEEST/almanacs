@@ -17,6 +17,7 @@
 
 - https://github.com/Necula-Horatiu/How-you-type
 - https://github.com/martijnboland/LeanAspNetCore-React
+- https://github.com/wesdoyle/design-patterns-explained-with-food + https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x
 
 
 ### Tool

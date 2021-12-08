@@ -187,6 +187,7 @@
 ### string
 
 - https://github.com/kay-is/awesome-tagged-templates
+- https://www.acuriousanimal.com/blog/20211205/javascript-handle-unicode
 
 ### spread/destructuring operator
 
@@ -411,6 +412,7 @@
 - [DOM event data scraped from MDN](https://github.com/eddyerburgh/dom-event-types)
 - https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html + https://news.ycombinator.com/item?id=27129858
 - https://whistlr.info/2020/understanding-load
+- [DOM Traversing and Scraping using GraphQL](https://github.com/syrusakbary/gdom)
 
 ### Single-page application
 

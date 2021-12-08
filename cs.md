@@ -100,6 +100,7 @@
 - https://www.forbes.com/sites/carminegallo/2020/11/01/watch-bill-gates-give-brilliant-30-second-answers-to-common-job-interview-questions 
 - https://github.com/mgechev/google-interview-preparation-problems
 - https://github.com/anushka23g/Complete-Placement-Preparation
+- https://github.com/VGraupera/1on1-questions
 
 ### Practice
 

@@ -114,6 +114,7 @@
 - https://github.com/firmai/industry-machine-learning
 - https://github.com/aaronwangy/Data-Science-Cheatsheet
 - https://github.com/lschmelzeisen/talk-supervised-learning-tensorflow
+- https://github.com/vidhanbhonsle/Image-Recognition-with-IBM-and-HERE-Workshop
 
 ### Tool
 

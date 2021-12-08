@@ -38,6 +38,8 @@
 - https://github.com/kowainik/learn4haskell
 - https://github.com/tssm/up-to-date-real-world-haskell
 - https://github.com/graninas/software-design-in-haskell
+- https://github.com/cohomolo-gy/haskell-resources
+- https://github.com/ocharles/zero-to-quake-3
 
 ### Radio
 

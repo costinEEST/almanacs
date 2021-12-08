@@ -8,6 +8,7 @@
 - [Sound Design | Aidin Robbins](https://www.youtube.com/playlist?list=PLWPee627x2SbTbBub80dqKxM4pvQxUrx2)
 - https://www.youtube.com/c/TomasGeorge/playlists
 - [Web Audio Conf](https://www.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw/playlists)
+- [Building Collaborative Music Apps](https://www.youtube.com/watch?v=TCVuLh5Io9A)
 
 ### Reference
 
@@ -56,6 +57,7 @@
 - [A small server that downloads and transcodes MP3s and then serves them via range requests](https://github.com/lukekarrys/yt-streaming-audio-server)
 - https://github.com/bryanjenningz/record-audio
 - [A mini Spotify player with WebGL visualizations](https://github.com/dvx/lofi)
+- [How I organise and import new music](https://blog.vararu.org/new-music)
 
 
 ### Security

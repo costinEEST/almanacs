@@ -7,6 +7,8 @@
 ### Cinema
 
 - https://trevordmiller.com/videos
+- [GitHub API/automation questions](https://github.com/gr2m/helpdesk)
+- https://andrewhoglund.com/code/talks/github/js/2020/05/08/building-automations-with-graphql-and-github-apps.html
 
 ### Reference
 
@@ -49,6 +51,8 @@
 
 ### Github
 
+- https://github.com/rafgraph/spa-github-pages
+- [Handbook for Octokit maintainers and GitHub integrators](https://github.com/octokit/handbook)
 - https://twitter.com/0xInfection/status/1353345861976252417 + https://0xinfection.medium.com/utilizing-ci-cds-to-the-fullest-for-fun-and-profit-78f73d505fd0
 - https://sneak.berlin/20200307/the-case-against-microsoft-and-github
 - https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly

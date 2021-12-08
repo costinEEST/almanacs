@@ -35,6 +35,7 @@
 - [Stefan Baumgartner](https://buttondown.email/oida/archive)
 - [Michael Groncki](https://twitter.com/i/lists/1396059618586075137)
 - [Wesley Moore](https://github.com/wezm/read-rust)
+- https://github.com/bnjbvr/rouille
 
 ### Course
 

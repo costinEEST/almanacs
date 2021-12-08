@@ -96,6 +96,7 @@
 - [URL Decoder written in C](https://gist.github.com/darkain/23da34f00ebf3f1572322df3605be51f)
 - https://github.com/ksluckow/awesome-symbolic-execution
 - https://lemire.me/blog/2021/11/30/can-you-safely-parse-a-double-and-then-cast-to-a-float
+- https://github.com/NullProgrammer/File-Handling
 
 ### Security
 

@@ -59,6 +59,8 @@
 - [A TODO App with Relay | JSer](https://www.youtube.com/playlist?list=PLvx8w9g4qv_oIjs-sNY5MX3tcM7Spa8qP) + https://www.youtube.com/watch?v=yRni-IPRn90
 - https://securitycafe.ro/2021/10/01/practical-graphql-attack-vectors
 - https://github.com/datastaxdevs/workshop-graphql-netflix
+- https://andrewhoglund.com/talks/2021/09/29/migrating-githubs-global-ids.html
+- https://andrewhoglund.com/code/talks/2020/09/21/from-0-to-openapi.html
 
 ### gRPC
 

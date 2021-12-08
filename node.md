@@ -82,6 +82,7 @@
 - https://github.com/Fictizia/Master-en-Programacion-FullStack-con-JavaScript-y-Node.js_ed3
 - [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
 - https://github.com/jscomplete/book-node-beyond-basics
+- [Multithreaded JavaScript](https://github.com/MultithreadedJSBook/code-samples)
 
 ### Bot
 
@@ -238,6 +239,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://whistlr.info/2021/block-nodejs-main-thread
 - https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c
 - https://stackoverflow.com/questions/15349733/setimmediate-vs-nexttick
+- https://www.dynatrace.com/news/blog/all-you-need-to-know-to-really-understand-the-node-js-event-loop-and-its-metrics
 
 ### Buffer
 
@@ -273,6 +275,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://giuseppegurgone.com/synchronizing-async-functions
 - [Make an asynchronous function synchronous](https://github.com/sindresorhus/make-synchronous)
 - [Turns async function into sync via JavaScript wrapper of Node event loop](https://github.com/abbr/deasync)
+- [alway use asyncIterator.return() or .throw() in a finally block if you want to ensure there is nothing left there to process](https://twitter.com/matteocollina/status/1392056092482576385)
 
 ### Threads
 
@@ -382,6 +385,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://www.freecodecamp.org/news/the-nginx-handbook
 - [Example on how to implement an HTTP/2 client and server in Node.js](https://github.com/sohamkamani/node-http2-example)
 - https://jaxenter.com/load-balancing-round-robin-164101.html + https://twitter.com/Kikobeats/status/1437770919456514057
+- https://leanpub.com/thenodejsclustermodule
 
 ### Scrapping
 

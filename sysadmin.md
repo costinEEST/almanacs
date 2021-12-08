@@ -143,6 +143,7 @@
 - [How to achieve enterprise-grade attack-surface monitoring with open source software](https://hakluke.com/open-source-asm-spiderfoot)
 - [A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
 - [GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser](https://github.com/allinurl/goaccess)
+- https://nelsonslog.wordpress.com/2021/12/07/influxdb-1-8-schemas
 
 ### Vagrant
 

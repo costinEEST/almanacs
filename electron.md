@@ -32,6 +32,7 @@
 - [Spent some time bundling Ordinary Puzzles with Electron (using React Native for Web)](https://github.com/mmazzarolo/ordinary-puzzles-app/pull/49)
 - https://gitlab.com/keraf/electron-web-com-poc
 - [An extensible desktop mail app built on the modern web](https://github.com/nylas/nylas-mail)
+- [Menubar app that shows dollar to peruvian sol exchange rate](https://github.com/cristianbgp/electron-dollarpe)
 
 ### Boilerplates
 

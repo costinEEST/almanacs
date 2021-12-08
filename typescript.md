@@ -14,6 +14,7 @@
 - https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node
 - https://github.com/CodelyTV/typescript-ddd-example
 - [Quickly create and configure a new library or Node.js project](https://github.com/bitjson/typescript-starter)
+- [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 
 
 ### Cinema
