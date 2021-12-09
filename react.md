@@ -414,3 +414,4 @@
 - [A boilerplate for SSR'd Vite, React 17, and TypeScript 4.3](https://blog.jonlu.ca/posts/vite)
 - https://javascript.plainenglish.io/10-ways-to-host-your-react-app-for-free-cf91fe615177
 - https://www.tpjnorton.com/blog/posts/next-js-12-performance-test-builds-appear-to-be-slower-not-faster
+- https://devtails.xyz/how-to-set-up-server-side-rendering-ssr-with-react-and-esbuild

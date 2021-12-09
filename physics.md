@@ -58,6 +58,7 @@
 
 - https://www.wired.co.uk/article/internal-combution-engine-obituary
 - https://ciechanow.ski/internal-combustion-engine + https://twitter.com/BCiechanowski/status/1387790984356917249
+- https://alternativepureenergy.ro/pret-generator-magneti-permanenti-pmg + https://youtu.be/jIBMp4OvbSM + https://youtu.be/XjC5_xtifro
 
 ### Radio
 

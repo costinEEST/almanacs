@@ -171,6 +171,7 @@
 - https://github.com/johnjhacking/Buffer-Overflow-Guide
 - https://github.com/jorritfolmer/vulnerable-api
 - https://github.com/andresriancho/race-condition-exploit
+- https://github.com/ochronasec/ochrona_python_vulnerabilities
 
 ### Server
 

@@ -35,6 +35,7 @@
 - [Forrest M. Mims III](https://en.wikipedia.org/wiki/Forrest_Mims)
 - [Razvan T. Coloja](https://twitter.com/cypresstwist)
 - https://twitter.com/Siliconinsid
+- https://github.com/iiab/internet-in-a-box
 
 ### Course
 

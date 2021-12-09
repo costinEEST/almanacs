@@ -38,6 +38,7 @@
 - https://www.amazon.com/Toxin-Solution-Products-Destroying-Health/dp/0062427458
 - https://www.amazon.com/Hunter-Gatherers-Guide-21st-Century-Evolution-Challenges/dp/1800750749
 - https://www.appropedia.org/Feeding_Everyone_No_Matter_What
+- [Wellbeing: A Cultural History of Healthy Living | Klaus Bergdolt](https://www.amazon.com/Wellbeing-Cultural-History-Healthy-Living/dp/074562913X) + https://www.wiley.com/en-us/Wellbeing:+A+Cultural+History+of+Healthy+Living-p-9780745629131
 
 ### Carbohydrates
 
@@ -70,6 +71,7 @@
 - https://www.amazon.com/Taste-My-Life-Through-Food/dp/1982168013
 - [Low Carb and Keto Favorites | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8r5FuCmgNpYrVtQxxiyIJik)
 - [Two Ingredient Recipes | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8rVascvm5-Y1K_aRHMIcUWX)
+- https://shepherd.com/best-books/food-history
 
 
 ### Cholesterol

@@ -123,6 +123,7 @@
 - https://github.com/kbknapp/cargo-outdated
 - [Easily and securely share files from the command line](https://github.com/timvisee/ffsend) + https://twitter.com/CKsTechNews/status/1374998403646685189
 - https://www.wezm.net/v2/posts/2020/100-rust-binaries
+- https://ahal.ca/blog/2021/ls-replacement
 
 ### Opinions
 

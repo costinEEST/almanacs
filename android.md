@@ -113,3 +113,4 @@
 - [Android pentesting | hyd3sec](https://www.youtube.com/playlist?list=PLXAaWemFrhwlV5KulQMT6nsOVLPaG_yUa)
 - https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 - [A minimalistic android backdoor](https://github.com/Ch0pin/AndroidWebDoor)
+- https://ctrsec.io/index.php/2021/09/29/weak-key-cryptography-in-real-world-english

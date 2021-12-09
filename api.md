@@ -111,6 +111,7 @@ curl v2.wttr.in/Bucharest
 
 - https://twitter.com/ryanflorence/status/1332403896208146433
 - [curl cryptocurrencies exchange rates](https://github.com/chubin/rate.sx)
+- [REST API Design Guide of the National Bank of Belgium](https://github.com/NationalBankBelgium/REST-API-Design-Guide)
 
 ### Languages
 
@@ -123,6 +124,7 @@ curl v2.wttr.in/Bucharest
 ### Miscellaneous
 
 - [What is the single best book any of y'all have ever read about API design?](https://twitter.com/ShortJared/status/1377331662275534848)
+- [Concepts that matter for the the Web](https://github.com/dret/webconcepts) + https://webconcepts.info/concepts
 - https://github.com/vicziani/learnwebservices
 - https://github.com/n0shake/Public-APIs
 - http://algermissen.io/classification_of_http_apis.html + http://algermissen.io/2019/03/rest-design-essentials

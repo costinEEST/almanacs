@@ -35,7 +35,7 @@
 
 - https://samsaffron.com/archive/2019/03/31/why-i-stuck-with-windows-for-6-years-while-developing-discourse
 
-### Tools
+### Tool
 
 - [Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files.](https://github.com/tibold/svg-explorer-extension)
 - https://gitlab.com/massgrave/microsoft-activation-scripts
@@ -46,6 +46,7 @@
 - https://mihail-gaberov.eu/how-to-run-docker-on-windows-10-home-edition
 - https://nelsonslog.wordpress.com/2021/09/09/scripting-windows-sound-and-display-settings
 - https://github.com/xelemental/Mind-Maps/tree/main/Windows
+- https://ahal.ca/blog/2021/mozilla-build-windows-terminal
 
 
 ### Powershell

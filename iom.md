@@ -160,6 +160,7 @@
 - https://github.com/bcongdon/awesome-lightning-network
 - https://github.com/t-bast/lightning-docs
 - https://github.com/chaincodelabs/lightning-curriculum
+- https://github.com/fiatjaf/awesome-lnurl
 - [Study materials for Bitcoin & Lightning Protocol](https://github.com/chaincodelabs/seminars)
 - https://github.com/jashmenn/bitcoin-reading-list
 - [How to keep bitcoin running in offline environments.](https://twitter.com/nwoodfine/status/1214238101796638721)

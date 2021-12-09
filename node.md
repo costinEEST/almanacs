@@ -199,6 +199,7 @@
 - [The Case of the 50ms request](https://news.ycombinator.com/item?id=27053941)
 - [Timezones are hard](https://twitter.com/matteocollina/status/1438073525051473923)
 - https://github.com/thlorenz/v8-perf
+- https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html
 
 ### TIL
 

@@ -115,6 +115,9 @@
 - [Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing](https://github.com/fingerprintjs/external-protocol-flooding)
 - https://github.com/niespodd/browser-fingerprinting
 - https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks
+- https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how
+- https://zetter.substack.com/p/former-nsa-hacker-describes-being
+- https://theconversation.com/how-hackers-can-use-message-mirroring-apps-to-see-all-your-sms-texts-and-bypass-2fa-security-165817
 
 ### Social media
 

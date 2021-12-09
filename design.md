@@ -18,6 +18,7 @@
 - https://en.wikipedia.org/wiki/Kenya_Hara#Books + https://www.ndc.co.jp/hara/en/books
 - [Designa: Technical Secrets of the Traditional Visual Arts](https://www.goodreads.com/en/book/show/20613528) + https://twitter.com/jackrusher/status/1395766428301676545
 - https://www.amazon.com/Non-Designers-Design-Book-Non-Designers-ebook/dp/B00PWDFWEE
+- https://shepherd.com/best-books/visual-branding
 
 
 ### Cinema
@@ -51,6 +52,7 @@
 - [I hear a lot about how Stripe is the perfect example of good design.](https://twitter.com/kentcdodds/status/1219641103579779072)
 - https://github.com/julesforrest/womenwhodesign
 - https://zehfernandes.com/work/brazilians-who-design
+- https://www.davidairey.com/resources
 
 
 ### Graphic design

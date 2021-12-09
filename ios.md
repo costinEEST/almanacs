@@ -40,6 +40,7 @@
 -  Tales of old: untethering iOS 11: https://twitter.com/hackerfantastic/status/1210985589685678080 + https://twitter.com/xerub/status/1210917374083375104
 -  https://twitter.com/GestureState/status/1315572167199817729 + https://abjurato.github.io/stories/kindleEbooks.html
 -  https://github.com/Billy-Ellis/Exploit-Challenges
+-  https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html
 
 
 ### Community

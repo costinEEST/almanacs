@@ -143,7 +143,7 @@
 
 - [Who invents the word "scope chain" in ECMA-262 1st edition?](https://twitter.com/Huxpro/status/1363224910898688000)
 
-### Talks
+### Cinema
 
 - [Session Notes from JSCraftCamp2019](https://github.com/jscraftcamp/jscc19-sessions) + [JavaScript Craftcamp 2018](https://github.com/jscraftcamp/notes2018)
 - [16-Bit Virtual Machine (series on YouTube)](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
@@ -236,10 +236,7 @@
 ### Array.prototype
 
 - [Cheat sheet: JavaScript Array methods](https://gist.github.com/rauschma/6cdeb4af7586aa03baed2f925e0a084b)
-
-
-### Array.prototype.reduce()
-
+- [Array.from works with any iterable](https://twitter.com/loige/status/1439310192743747591)
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
 - https://twitter.com/jaffathecake/status/1213084405666910214
 - https://alexanderell.is/posts/javascript-array-reduce
@@ -361,6 +358,7 @@
 - https://www.johndcook.com/blog/2008/01/14/tips-for-learning-regular-expressions
 - https://ihateregex.io/playground + https://ihateregex.io/cheatsheet
 - https://regexcrossword.com
+- https://github.com/aykutkardas/regexlearn.com
 - https://www.debuggex.com + https://youtu.be/hprXxJHQVfQ
 - https://www.regular-expressions.info/cookbook.html + https://learning.oreilly.com/library/view/regular-expressions-cookbook/9781449327453
 - https://github.com/LeaVerou/regexplained + https://youtu.be/M7vDtxaD7ZU

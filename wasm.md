@@ -29,10 +29,11 @@
 - https://pascalpares.appspot.ovh/webassembly-for-javascript-developers
 - [SQLite + Twitter + WASM](https://divyendusingh.com/experiments/wasm/twitter-sqlite)
 
-### Tools
+### Tool
 
 - [JS parser in Web Assembly / C](https://github.com/samthor/gumnut)
 - https://github.com/GoogleChromeLabs/wasm-feature-detect
+- https://github.com/fiatjaf/jq-web
 
 ### Opinions
 
