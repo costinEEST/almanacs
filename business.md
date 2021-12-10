@@ -166,6 +166,7 @@
 - https://graphics.stanford.edu/~dk/google_name_origin.html#:~:text=In%201996%2C%20Larry%20Page%20and,Tamara%20Munzner%2C%20and%20Lucas%20Pereira.
 - https://blakeir.com/notes/alex-zhu-tiktok
 - [Netscape went out of business when it decided to rewrite its browser from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i)
+- https://www.visualcapitalist.com/the-worlds-biggest-startups-top-unicorns-of-2021
 
 ### Investing
 

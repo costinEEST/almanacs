@@ -72,7 +72,7 @@
 - [Low Carb and Keto Favorites | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8r5FuCmgNpYrVtQxxiyIJik)
 - [Two Ingredient Recipes | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8rVascvm5-Y1K_aRHMIcUWX)
 - https://shepherd.com/best-books/food-history
-
+- [Flavours of Romania | Catalin Fodoreanu](https://www.youtube.com/playlist?list=PLOcodIKqXP5ARcdh8aqJ_zLwiu3wmG_1F)
 
 ### Cholesterol
 
@@ -341,6 +341,7 @@
 - [The tangled history of mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w)
 - https://savjee.be/videos/simply-explained/mrna-vaccines-questions-and-misconceptions
 - [Covid-19: From Vaccination to Medication](https://ssm-live.com/MPFORUM2021)
+- https://www.newyorker.com/news/q-and-a/how-south-african-researchers-identified-the-omicron-variant-of-covid
 
 ### Radiation
 

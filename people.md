@@ -7,6 +7,11 @@
 - https://fivebooks.com/best-books/aristotle-edith-hall
 - https://quakkels.com/posts/developing-strength-of-character
 - https://cdixon.org/2017/02/20/aristotle-computer
+- https://www.academia.edu/49894848/Aristotel_Etica_nicomahica_tr_Stella_Petecel_1998_1988_
+- https://www.academia.edu/49895210/Aristotel_Metafizica_tr_%C8%98tefan_Bezdechi_1965_
+- https://www.academia.edu/49977807/Aristotel_Organon_vol_1_tr_Mircea_Florian_1997_1957_
+- https://www.academia.edu/49977753/Aristotel_Organon_vol_2_tr_Mircea_Florian_1998_1958_
+- https://www.academia.edu/49977571/Ammonius_Stephanus_Comentarii_la_Tratatul_Despre_Interpretare_al_lui_Aristotel_tr_C_Noica_1971_
 
 ### Aaron Swartz
 
@@ -114,6 +119,10 @@
 
 - https://www.perell.com/podcast/kevin-kelly-seeing-the-future +https://youtu.be/ynt37tTdvGU
 
+### Marc Aureliu
+
+- [Marc Aureliu versus Caesar și L. Aurelius Commodus | Vasile Pârvan](https://www.academia.edu/44818835/Vasile_P%C3%A2rvan_Marc_Aureliu_versus_Caesar_%C8%99i_L_Aurelius_Commodus_1909_2007_)
+
 ### Ray Dalio
 
 - https://www.businessinsider.com/ray-dalio-book-recommendations-for-college-students-and-investors-2019-8
@@ -195,6 +204,7 @@
 - https://www.vox.com/the-goods/2020/9/18/18253896/ruth-bader-ginsburg-style-size
 - https://en.wikipedia.org/wiki/List_of_autodidacts
 - https://github.com/rekihattori/awesome-programmers
+- https://memoryandconscience.eu/centuryofmartyrs
 
 ### Umberto Eco
 

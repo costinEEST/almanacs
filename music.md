@@ -81,7 +81,7 @@
 - [Constantin Brăiloiu](https://en.wikipedia.org/wiki/Constantin_Br%C4%83iloiu)
 - https://divyendusingh.com/music-theory-and-generation
 
-### Songs
+### Song
 
 - [Why are song lyrics so often about love (or heartbreak)?](https://twitter.com/devonzuegel/status/1244386611657228288)
 - https://www.youtube.com/c/SoundFieldPBS/playlists
@@ -91,6 +91,7 @@
 - https://www.classical-music.com/features/works/what-are-the-saddest-pieces-of-classical-music
 - https://faroutmagazine.co.uk/greatest-protest-songs-ever-bob-dylan-nina-simone-public-enemy
 - https://faroutmagazine.co.uk/george-harrison-the-beatles-20-best-songs
+- https://laughingsquid.com/how-paul-mccartney-composed-get-back
 
 ### Jazz
 

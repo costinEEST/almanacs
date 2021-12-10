@@ -26,6 +26,7 @@
 - https://www.youtube.com/user/currankelleher/playlists
 - https://www.serendipidata.com/posts/data-visualization-video-inspiration
 - [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/z3tt/OutlierConf2021)
+- https://laughingsquid.com/ten-tallest-skyscrapers
 
 ### Courses
 

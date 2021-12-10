@@ -2,6 +2,10 @@
 
 - https://www.amazon.co.uk/Birds-Britannica-Mark-Cocker/dp/0701169079
 
+### Picture
+
+- https://www.flickr.com/photos/biodivlibrary/albums
+
 ### Miscellaneous
 
 - [Great White Sharks Are Completely Terrified of Orcas](https://www.smithsonianmag.com/smart-news/great-white-sharks-are-completely-terrified-orcas-180972009)
@@ -42,3 +46,6 @@
 - https://issuu.com/aorr.ong/docs/pestii_nistrului_de_mijloc_si_de_jos
 - https://www.eco-tiras.org/books/RDB-fish-final.pdf
 - https://www.macleans.ca/society/environment/gordon-stenhouse-grizzly-whisperer-on-humans-sharing-the-world-with-bears
+- https://www.bbcearth.com/news/is-yellow-the-happiest-colour
+- https://www.biographic.com/when-turtles-fly
+- https://www.zmescience.com/science/biology/arctic-foxes-gardens-30112021/

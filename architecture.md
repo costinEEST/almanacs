@@ -52,3 +52,4 @@
 ### Miscellaneous
 
 - https://github.com/nikitavoloboev/knowledge/blob/main/art/architecture.md
+- https://architizer.com/blog/inspiration/collections/designs-of-the-decade-best-museums

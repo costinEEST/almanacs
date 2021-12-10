@@ -102,6 +102,7 @@
 - [John Horton Conway (1937-2020)](https://www.scottaaronson.com/blog/?p=4732) + http://raganwald.com/2020/05/03/fractran.html
 - http://martin-gardner.org/MATHEMATICIAN.html
 - https://www.iquilezles.org/www/index.htm
+- https://www.newscientist.com/people/muhammad-ibn-musa-al-khwarizmi
 
 ### Miscellaneous
 
