@@ -249,6 +249,7 @@
 - https://chan.dev/posts/react-server-components-announcement-notes
 - https://wooorm.com/server-components-mdx-demo
 - https://github.com/nikolasburk/server-components-demo-with-prisma + https://twitter.com/nikolasburk/status/1347231065602187272
+- [Shopify's vision for the future of commerce with Ilya Grigorik](https://changelog.com/podcast/469)
 
 ### State management
 

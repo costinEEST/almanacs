@@ -108,7 +108,8 @@
 - [A viewer for git and diff output](https://github.com/dandavison/delta)
 - https://bridgecrew.io/blog/using-yor-for-ownership-mapping-using-yaml-tag-groups
 - [A build tool for NPM monorepos](https://github.com/giltayar/bilt)
-- https://philbooth.me/blog/build-a-better-release-script + 
+- https://philbooth.me/blog/build-a-better-release-script 
+- [interactive `git` with the help of `fzf`](https://github.com/bigH/git-fuzzy)
 
 ### Security
 

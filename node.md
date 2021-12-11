@@ -24,6 +24,7 @@
 - https://github.com/fiatjaf/awesome-loginless
 - https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js
 - https://www.udemy.com/course/oauth-2-simplified
+- https://github.com/wolfejw86/get-racket-twitterbot + https://www.youtube.com/playlist?list=PLU_22oKqONimKqe-2LmsEG5MvaZcRL101
 
 ### API
 
@@ -160,7 +161,7 @@
 - https://github.com/cmda-bt/be-course-17-18
 - https://jamesqquick.hashnode.dev/build-an-authenticated-jamstack-app-with-nextjs-airtable-tailwind-css-and-auth0
 - [7-month web development program covering HTML, CSS, Javascript, Node, and React!](https://github.com/HackYourFuture/curriculum)
-- [Rapid API Development with NodeJS, Fastify, Postgresql, and Swagger ~ Jay Wolfe](https://www.youtube.com/playlist?list=PLU_22oKqONin7yagFMm3x1tJihYaIVVwa) + https://jaywolfe.dev/blog/rapidly-build-a-nodejs-rest-api-with-fastify-postgresql-and-swagger-documentation
+- [Rapid API Development with NodeJS, Fastify, Postgresql, and Swagger | Jay Wolfe](https://www.youtube.com/playlist?list=PLU_22oKqONin7yagFMm3x1tJihYaIVVwa) + https://jaywolfe.dev/blog/rapidly-build-a-nodejs-rest-api-with-fastify-postgresql-and-swagger-documentation
 - [A workshop for security experts who like JavaScript and javascripters who like (in)security.](https://github.com/jesusprubio/node-for-ninjas)
 - https://github.com/sodium-friends/learntocrypto
 - https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs
@@ -521,3 +522,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/feross/awesome-mad-science
 - https://gist.github.com/balupton/d6531a2f48dba896a1bced86e8b1636c
 - https://jinoantony.com/blog/async-vs-sync-nodejs-a-simple-benchmark
+
+### Radio
+
+- [Running Node natively in the browser](https://changelog.com/jsparty/178)

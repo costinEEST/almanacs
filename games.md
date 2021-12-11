@@ -65,6 +65,7 @@
 - [Simple game using nasm](https://github.com/timitoc/Asm-Game-Grepit)
 - https://github.com/angle943/react-minesweeper-ts + https://www.youtube.com/playlist?list=PLXzMwWvud3xQHiuDrx9b3UzPxzZUbyEWi
 - https://github.com/Fishrock123/asteroids-webgl
+- [analysis for Age of Empires II](https://github.com/SiegeEngineers/aoc-dev-resources)
 
 ### The creators
 

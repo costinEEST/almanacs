@@ -31,6 +31,7 @@
 - [Digital sound processing tutorial for the braindead!](http://yehar.com/blog/?p=121) + https://news.ycombinator.com/item?id=25024835
 - [CatMeows: A Publicly-Available Dataset of Cat Vocalizations](https://zenodo.org/record/4008297)
 - https://geoffthegreygeek.com/category/understanding-audio
+- [a program that'd clip out gaps in your audio recording making your conversation free of network latency](https://twitter.com/paul_irish/status/1352483715251757059)
 
 ### Tool
 

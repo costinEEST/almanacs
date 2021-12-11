@@ -24,6 +24,7 @@
 - [Headless WordPress Forms](https://twitter.com/jasonbahl/status/1370767810561904640)
 - https://www.youtube.com/c/WPCasts/playlists
 - https://www.youtube.com/user/kellenmace
+- https://egghead.io/courses/headless-wordpress-4a14
 
 ### Development
 

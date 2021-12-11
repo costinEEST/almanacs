@@ -77,6 +77,7 @@
 - [Google Cloud Function that takes a url, converts the article at that url to audio using Cloud Text-To-Speech, then stores it in a Cloud Storage bucket.](https://github.com/malob/article-to-audio-cloud-function)
 - [Rewrite of article-to-audio-cloud-function and generate-podcast-rss-cloud-function, in a functional style using TypeScript and fp-ts.](https://github.com/malob/serverless-tts-podcast)
 - https://github.com/idevelop/google-cloud-speech-webaudio
+- https://cloud.google.com/blog/topics/retail/shopify-and-google-cloud-team-up-for-an-epic-bfcm-weekend + https://twitter.com/igrigorik/status/1468712709914984451
 
 ### IBM
 

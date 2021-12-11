@@ -16,6 +16,7 @@
 
 ### Cinema
 
+- https://www.youtube.com/c/LetsBuildThatApp/playlists
 - https://www.youtube.com/c/fce365official/playlists
 
 ### Hardware

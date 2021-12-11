@@ -552,6 +552,8 @@
 - https://github.com/RobinCsl/awesome-js-tooling-not-in-js
 - https://blog.ngzhian.com/simple-live-reload.html
 - https://blog.ngzhian.com/emscripten-cmake.html
+- [pasta: an extension to the JavaScript source map format that allows for accurate function name decoding](https://github.com/bloomberg/pasta-sourcemaps)
+- [Tips and tricks for working with types in JavaScript](https://github.com/voxpelli/types-in-js)
 
 ### Documentation
 

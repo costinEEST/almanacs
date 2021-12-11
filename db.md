@@ -47,6 +47,7 @@
 - [View SQLite file online](https://github.com/inloop/sqlite-viewer)
 - [PgTyped automatically generates types and interfaces for your SQL queries by using your running Postgres database as the source of type information](https://github.com/adelsz/pgtyped)
 - [Convert an Apple Healthkit export zip to a SQLite database](https://github.com/dogsheep/healthkit-to-sqlite)
+- [Ghostferry is a library that enables you to selectively copy data from one mysql instance to another with minimal amount of downtime](https://github.com/Shopify/ghostferry)
 
 
 ### Hacks
@@ -151,3 +152,7 @@
 - https://twitter.com/tlhunter/status/1459624433488850945
 - https://github.com/sujeet-agrahari/awesome-database-design
 - [Against unnecessary databases](https://beepb00p.xyz/unnecessary-db.html)
+
+### Production
+
+- [11 _million_ QPS through our MySQL stack at Shopify](https://twitter.com/jeremycole/status/1466560904976236545)

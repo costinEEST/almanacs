@@ -155,3 +155,4 @@ curl v2.wttr.in/Bucharest
 - [REST API of election and ballot information in the United States](https://github.com/open-austin/ballotapi)
 - [A list of software that turns your database into a REST/GraphQL API](https://github.com/dbohdan/automatic-api)
 - https://github.com/jaegeral/security-apis
+- https://github.com/inonshk/31-days-of-API-Security-Tips

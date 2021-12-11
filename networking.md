@@ -110,6 +110,7 @@
 - https://github.com/W00t3k/Awesome-Cellular-Hacking
 - [tools to facilitate the analysis of the DJI drone WiFi communication protocol](https://github.com/Toemsel/dji-wifi-tools)
 - https://www.logsign.com/blog/warxing-in-cyber-security
+- [Cellular | cemaxecuter](https://www.youtube.com/playlist?list=PLXjRrYsXOd9fJZbM-k2M_SaBmRGMsJS2u)
 
 ### 5G
 

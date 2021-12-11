@@ -18,7 +18,6 @@
 - https://stackoverflow.com/questions/16808486/explanation-of-window-performance-javascript
 - https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities
 - https://engineering.q42.nl/passwordless-authentication
-- [Add support for a StreamDeck to Google Meet using WebHID](https://github.com/petele/StreamDeck-Meet)
 - [Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.](https://github.com/localForage/localForage)
 - [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
 - [Proposal for an API which would allow grabbing a screenshot.](https://github.com/eladalon1983/mediacapture-screenshot)
@@ -195,6 +194,8 @@
 - [A blazing fast & offline frontend playground](https://github.com/chinchang/web-maker)
 - https://github.com/ffmpegwasm/chrome-extension-app
 - https://github.com/gordalina/gmail-unsubscribe
+- [Add support for a StreamDeck to Google Meet using WebHID](https://github.com/petele/StreamDeck-Meet)
+- https://github.com/mattchep/bofa-allow-paste-extension
 
 ### Bookmarklets
 
@@ -425,6 +426,7 @@ javascript: (() =>
 
 - [rrweb is an open source web session replay library, which provides easy-to-use APIs to record user's interactions and replay it remotely.](https://github.com/rrweb-io/rrweb)
 - https://github.com/captainbrosset/devtools-tips
+- [estimating the % of web users that have certain web features natively supported](https://github.com/paulirish/web-feature-availability)
   
 ### History
 

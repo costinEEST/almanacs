@@ -5,6 +5,7 @@
 
 ### Book
 
+- https://diablohorn.com/books
 - https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 + https://craphound.com/category/destroy + https://www.goodreads.com/review/show/3525601035
 
 ### Breach

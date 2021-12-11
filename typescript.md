@@ -32,6 +32,7 @@
 - [Typescript concepts - TypeWithMe](https://www.youtube.com/playlist?list=PLlYJBXwGoczG73vrUpl4G8WonVS5uNHjn)
 - https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-typescript + https://github.com/glaucia86/curso-typescript-zero-to-hero + https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H
 - https://github.com/ChuckJonas/spotify-fp-ts-example
+- https://github.com/basarat/typescript-for-professionals
 
 ### Community
 
