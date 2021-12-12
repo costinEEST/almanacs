@@ -9,6 +9,7 @@
 - https://online.stanford.edu/courses/xeiet203-building-energy-efficiency-technology-policy-finance
 - https://online.stanford.edu/courses/xeiet237-transforming-grid-ai-renewables-storage-evs-and-prosumers
 - https://www.udemy.com/user/akshaygill
+- [Tesla Coil Science | ElectroBOOM](https://www.youtube.com/playlist?list=PLr_CZLgMkHeUexzcA64PfjCW0UUoO8Twi)
 
 ### Book
 

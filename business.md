@@ -38,6 +38,10 @@
 - https://www.udemy.com/course/analytics-of-pricing-and-revenue-with-excel-python
 - [Whiteboard Videos (NFX Essays)](https://www.youtube.com/playlist?list=PLsJrGp31IOefcwlyFN9F6YPUFCNlM51hs)
 
+### Course
+
+- https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective
+
 ### Marketing
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUdTpa8U_pAfqZY9mYoh_WnB
@@ -167,6 +171,7 @@
 - https://blakeir.com/notes/alex-zhu-tiktok
 - [Netscape went out of business when it decided to rewrite its browser from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i)
 - https://www.visualcapitalist.com/the-worlds-biggest-startups-top-unicorns-of-2021
+- https://www.notboring.co/p/replit-remix-the-internet
 
 ### Investing
 
@@ -202,7 +207,7 @@
 - [Technics and Civilization - Lewis Mumford](https://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273)
 - https://oll.libertyfund.org/pages/idea-of-progress-a-bibliographical-essay-by-robert-nisbet
 
-### Innovators
+### Innovation
 
 - https://www.notion.so/Progress-Studies-101-7089d11646d144928ded1274e1b03755
 - https://learning.oreilly.com/library/view/the-innovators-toolkit/9781118331873/
@@ -231,6 +236,7 @@
 - [Spacecadet have put together all the 2020 recaps and 2021 trend reports doing the rounds.](http://spacecadet.ventures/2021roundup)
 - https://www.businessinsider.com/larry-page-the-untold-story-2014-4
 - https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is
+- https://www.popsci.com/technology/best-of-whats-new-2021
 
 
 ### Essays

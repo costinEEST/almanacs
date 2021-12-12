@@ -51,6 +51,7 @@
 - https://github.com/razvand/secure-programming-java
 - https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2
 - https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
+- https://javarevisited.blogspot.com/2021/12/what-is-log4j-2-issue-how-to-solve-log.html
 
 ### Microservice
 

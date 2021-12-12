@@ -14,8 +14,9 @@
 - [Human Users Detection: stop bots with Nginx (in Italian)](https://twitter.com/cybersaiyanIT/status/1249978932604153856)
 
 
-### Tools
+### Tool
 
 - [Lua REPL that gives you a feel for its internals](https://github.com/paileyq/lua-feels)
+- https://github.com/nanotee/nvim-lua-guide
 
 

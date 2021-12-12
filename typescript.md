@@ -24,6 +24,7 @@
 - [Data Structures in Typescript | Jeff Zhang](https://www.youtube.com/playlist?list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd) + https://github.com/jeffzh4ng/iruka
 - [Object Oriented Typescript | Jeff Zhang](https://www.youtube.com/playlist?list=PLn4fTSbSpY5eY_M1mKWxGa9pViEodofKy)
 - https://www.udemy.com/course/typescript-design-patterns
+- https://effectivetypescript.com/2021/12/10/typescript-types-the-first-500-years
 
 ### Course
 

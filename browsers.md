@@ -196,6 +196,7 @@
 - https://github.com/gordalina/gmail-unsubscribe
 - [Add support for a StreamDeck to Google Meet using WebHID](https://github.com/petele/StreamDeck-Meet)
 - https://github.com/mattchep/bofa-allow-paste-extension
+- https://github.com/jsjoeio/timezoner-extension
 
 ### Bookmarklets
 
@@ -254,6 +255,7 @@ javascript: (() =>
 - [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
 - https://honzajavorek.cz/blog/how-i-consume-content
 - https://timvisee.com/blog/firefox-tricks-quantumbar
+- https://nelsonslog.wordpress.com/2021/12/07/firefox-compat-hacks
 
 ### Safari
 

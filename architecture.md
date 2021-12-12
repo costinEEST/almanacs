@@ -43,6 +43,7 @@
 ### Community
 
 - https://github.com/nikitavoloboev/knowledge/blob/main/art/architecture.md
+- https://twitter.com/SpaceLiminalBot
 
 
 ### Opinion

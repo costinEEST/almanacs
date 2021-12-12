@@ -13,6 +13,10 @@
 
 - https://www.udemy.com/course/environment-and-ethics-a-basic-course
 
+### Community
+
+- [Cassandra Xia](https://cassandraxia.com)
+
 ### Opinions
 
 - http://www.environmentandsociety.org/arcadia/atlantropa-endless-energy-mediterranean-sea
@@ -23,6 +27,7 @@
 - https://iscoada.com/eseu/avocado-cocaina-si-ulei-de-palmier
 - https://www.theguardian.com/food/2021/nov/01/end-of-the-avocado-why-chefs-ditching-the-unsustainable-fruit
 - https://github.com/balupton/plant-vs-animal-products
+- https://www.spencergreenberg.com/2020/09/the-three-big-strategies-i-see-for-combating-climate-change
 
 ### Radio
 

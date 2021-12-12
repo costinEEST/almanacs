@@ -82,7 +82,7 @@
 
 - https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study
 
-### Diseases
+### Disease
 
 - https://prevmedhealth.com/the-end-of-alzheimers-by-dale-bredesen + https://youtu.be/wekW6wVpQFw
 - [Alzheimer’s Dementia - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zqQxkYNBB1fcr34jmXg9_0)
@@ -95,6 +95,7 @@
 - [Calcifying Nanoparticles - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LFssuFNroVieEEWvs8fXjQr)
 - https://medicalfuturist.com/technologies-that-will-shape-the-future-of-cancer-care
 - https://www.amazon.com/Real-Anthony-Fauci-Democracy-Childrens/dp/1510766804
+- https://www.bbc.com/future/article/20211112-the-people-with-immune-amnesia
 
 ### Grocery
 
@@ -231,7 +232,7 @@
 
 - https://www.timesofisrael.com/for-2-million-years-humans-ate-meat-and-little-else-study
 
-### Mushrooms
+### Mushroom
 
 - https://ciupercar.ro
 - [Mushrooms and Truffles: Historical Biofactories for Complementary Medicine in Africa and in the Middle East](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3854548)
@@ -246,6 +247,7 @@
 - https://en.wikipedia.org/wiki/Mushroom_poisoning + https://namyco.org/docs/Mushroom_Poisoning_in_North_America_2015-2016.pdf
 - https://www.magicmushroommap.com
 - https://hyperallergic.com/686707/a-psychedelic-history-of-mushrooms-as-medicine
+- https://www.wired.com/story/fungi-climate-change-medicine-health
 
 
 ### Cannabis
@@ -386,3 +388,8 @@
 
 - [VentilatorPAL is a high-quality but low-cost, open source ventilator that can be bought or built by anyone for a fraction of the cost of commercial ventilators.](https://freebreathing.org)
 - [Make a face mask](https://makefacemasks.com)
+
+
+### Radio
+
+- [Freezing to (not) death: cryonics and the quest for immortality (with Max Marty)](https://www.popsci.com/technology/best-of-whats-new-2021)

@@ -3,6 +3,7 @@
 ### Accessibility
 
 - https://www.paciellogroup.com/the-history-of-digital-accessibility-and-why-it-matters
+- https://www.nngroup.com/articles/design-pattern-guidelines
 - https://yagmurcetintas.com/journal/introduction-to-accessibility
 - https://blog.sapegin.me/all/accessibility-testing
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUcrZXXM8kDBaIVx1N66ZX_p

@@ -1,3 +1,7 @@
+### Book
+
+- https://inquisitivebiologist.com/2021/12/10/book-review-sentient-what-animals-reveal-about-our-senses
+
 ### Bird
 
 - https://www.amazon.co.uk/Birds-Britannica-Mark-Cocker/dp/0701169079

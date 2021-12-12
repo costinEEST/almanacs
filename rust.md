@@ -36,6 +36,7 @@
 - [Michael Groncki](https://twitter.com/i/lists/1396059618586075137)
 - [Wesley Moore](https://github.com/wezm/read-rust)
 - https://github.com/bnjbvr/rouille
+- [mod team resignation](https://github.com/rust-lang/team/pull/671)
 
 ### Course
 
@@ -47,7 +48,7 @@
 - https://github.com/yoshuawuyts/rust-for-js-peeps
 - https://www.freecodecamp.org/news/rust-in-replit
 
-### Tutorials
+### Tutorial
 
 - https://twitter.com/samaaron/status/1214649047002292224
 - https://github.com/Mercateo/rust-for-node-developers
