@@ -59,6 +59,7 @@
 - [Building a Machine Learning Based Web App Firewall/IPS from Scratch | Debasish Mandal](https://www.youtube.com/playlist?list=PLKwUZp9HwWoA7AjUeuWnvQdNXcQ7bF3e1) + http://www.debasish.in/2020/10/videobuilding-machine-learning-based.html
 - https://divyendusingh.com/machine-learning-literacy
 - [Machine Learning Course - Halmstad University](https://www.youtube.com/playlist?list=PLS8J_PRPtGfdnPf9QqT7Itnn2rAHsoWqY)
+- https://decision.substack.com/p/full-course-making-friends-with-ml
 
 ### Community
 
