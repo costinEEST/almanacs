@@ -5,6 +5,7 @@
 - https://www.dailymail.co.uk/sciencetech/article-9618659/Vegetarians-drink-smoke-appear-healthier-carnivores-study-finds.html
 - https://edition.cnn.com/2021/09/29/business/scotland-pea-based-gin-arbikie-climate-hnk-spc-intl
 - [Out of the Bottle: Wine Science](https://www.youtube.com/playlist?list=PLB2w1JNHV4HSIgrPiBjGGMNeQvCsHekbb)
+- https://www.victorkapra.ro/2021/12/aparut-somelierii-roboti-bazati
 
 ### Blood
 

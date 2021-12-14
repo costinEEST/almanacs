@@ -147,6 +147,8 @@
 
 - [Session Notes from JSCraftCamp2019](https://github.com/jscraftcamp/jscc19-sessions) + [JavaScript Craftcamp 2018](https://github.com/jscraftcamp/notes2018)
 - [16-Bit Virtual Machine (series on YouTube)](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
+- [Writing a library to convert between Time Zones in JavaScript | AJ ONeal](https://www.youtube.com/playlist?list=PLxki0D-ilnqa6horOJ2G18WMZlJeQFlAt)
+- https://www.youtube.com/c/UtahJS/playlists
 
 ### AI
 

@@ -38,6 +38,7 @@
 - [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/playlists)
 - [Code Club | Bitfield Consulting](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3)
 - [Golang University 101 - Learn Golang | Bitfield Consulting](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
+- https://www.youtube.com/playlist?list=PLZaEVINf2Bq8mP4mosgB9tXb4ycrAeA9y
 
 ### Data structures
 

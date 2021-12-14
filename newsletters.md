@@ -240,5 +240,6 @@
 ### Social sciences
 
 - [Luke Burgis](https://archive.feedblitz.com/1110672)
+- [Jordan B. Peterson](https://us6.campaign-archive.com/home/?u=3c53a4d9fc927f570cf437952&id=a434e81da0)
 
 

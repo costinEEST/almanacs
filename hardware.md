@@ -17,6 +17,7 @@
 
 ### Cinema
 
+- [Open West 2019 - Electronics 102: A better Electronics 101 | AJ ONeal](https://www.youtube.com/playlist?list=PLZaEVINf2Bq-OILaE76UkP0uGbBznQ1M-)
 - https://github.com/hellerve/programming-talks#hardware
 - [Review and analysis of bulb. By electronupdate](https://www.youtube.com/playlist?list=PLv9WfM3NgK2xFHrD9BJ4-4CEbRpbe6DFP)
 - [March is for Makers - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdpNzI3uaAu-kqWvH4BttLQ)
@@ -36,6 +37,7 @@
 - [Razvan T. Coloja](https://twitter.com/cypresstwist)
 - https://twitter.com/Siliconinsid
 - https://github.com/iiab/internet-in-a-box
+- [Louis Rossmann](https://www.youtube.com/user/rossmanngroup/playlists)
 
 ### Course
 
@@ -60,6 +62,7 @@
 - https://www.udemy.com/course/computer-fundamentals-u
 - https://github.com/mithi/robotics-coursework
 - https://github.com/kitspace/awesome-electronics
+- http://www.udemy.com/wireless-power-to-the-people-wireless-charging-101/?couponCode=YOUTUBE
 
 ### Chip
 
@@ -139,6 +142,7 @@
 - https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB
 - https://redteamer.tips/physical-shenanigans-with-computers-part-1-gearing-up
 - https://github.com/Hanqaqa/PCB_Business_Card
+- https://www.stavros.io/posts/make-pcbs-at-home
 
 ### History
 

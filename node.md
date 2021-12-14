@@ -149,6 +149,10 @@
 - [Build a Node.js web app with no frameworks from scratch (frameworkless.js) | Mike Timofiiv](https://www.youtube.com/playlist?list=PL6GJH3ZLo67Viu3OrB7w-NhHGXBHt8btZ)
 - [OAuth/OpenID | Nat Sakimura](https://www.youtube.com/playlist?list=PLRUD_uiAYejRvQWkS2xjgFW20lRLp4snN)
 - [Franziska Hinkelmann](https://www.youtube.com/user/MrFhinkel/playlists)
+- [Free SSL and Automatic HTTPS (ACME / Let's Encrypt v2 client) for node.js with Express, Connect, and other middleware systems](https://github.com/therootcompany/greenlock-express.js) + https://www.youtube.com/playlist?list=PLZaEVINf2Bq_lrS-OOzTUJB4q3HxarlXk
+- [Utah Node.js Meetup](https://www.youtube.com/playlist?list=PLrPrSDTfMDlpDem7DdJwzBkzza73OtaCn)
+- [Creating Auth0 from Scratch | AJ ONeal](https://www.youtube.com/playlist?list=PLxki0D-ilnqYmidRxvrQoF2jX67wH5OS0)
+- [A Blog as Easy as Gist | AJ ONeal](https://www.youtube.com/playlist?list=PLxki0D-ilnqZcb8UIdivo70ttUGgC__LD)
 
 ### Course
 
@@ -490,6 +494,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://www.hawksworx.com/blog/eleventail-a-helper-for-tailwindcss-and-eleventy
 - https://github.com/jakearchibald/jakearchibald.com + https://twitter.com/jaffathecake/status/1263371682313654273
 - https://dev.to/stowball/creating-a-production-ready-eleventy-project-with-webpack-babel-and-sass-35ep
+- [Tushar Sadhwani's blog built with Astro](https://github.com/tusharsadhwani/blog)
 
 
 ### Serverless

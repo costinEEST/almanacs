@@ -130,6 +130,7 @@
 - [*AlephBERT*, a Hebrew pretrained language model to start off your Hebrew NLP Application](https://twitter.com/rtsarfaty/status/1381562132723085315)
 - https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 - [Free Software Social Friendly AI for general use, but esp for those w/ poverty, homelessness, disabilty or illness](https://github.com/aindilis/free-life-planner)
+- https://www.stavros.io/posts/making-ai-podcast + https://deepdreams.stavros.io
 
 ### Neural networks
 

@@ -183,6 +183,7 @@
 
 - https://treyhunner.com/2019/05/python-builtins-worth-learning
 - https://medium.com/@vmsp/less-known-bits-of-the-python-standard-library-46dc88490115
+- [Understanding all of Python, through its builtins](https://sadh.life/post/builtins)
 
 ### Tool
 

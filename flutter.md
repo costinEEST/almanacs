@@ -14,6 +14,7 @@
 
 - [Flutter Workshop - 24.2.20 | Moti Bar-Tov](https://www.youtube.com/playlist?list=PL0yJa47FxnHXAnKr-SVywWEknvyvIhS0Q)
 - [Learn Flutter Like A PRO 2021 Edition](https://twitter.com/imthepk/status/1332272360100044800)
+- https://slides.com/jamesbrinkerhoff/the-case-for-flutter + https://www.youtube.com/playlist?list=PLrPrSDTfMDlpPC5hVK5R1feVDVFMluPBR
 
 ### Community
 
@@ -25,6 +26,7 @@
 - https://github.com/llSourcell/How-to-Build-a-Biomedical-Startup
 - https://github.com/llSourcell/How_to_Build_a_healthcare_startup
 - [Web platform support: Flutter or ReactNative?](https://twitter.com/sebastienlorber/status/1367424075619049474)
+- [A working replica of Instagram DMs and stories, written in Flutter and Go](https://github.com/tusharsadhwani/instachat)
 
 
 ### Security
