@@ -58,7 +58,7 @@
 - https://github.com/onlurking/category-theory-for-programmers
 - https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books
 - http://nature-of-order.stefan-lesser.com/alexanders-foreword-to-patterns-of-software
-
+- https://www.codeflashbacks.com/overlooked-books
 
 ### TIL
 

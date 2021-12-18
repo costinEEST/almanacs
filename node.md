@@ -73,6 +73,8 @@
 - [Fast and simple way to check any HTTP Headers](https://github.com/UlisesGascon/check-my-headers)
 - https://github.com/Eomm/fastify-in-practice
 - https://github.com/PacktPublishing/Accelerate-Web-Development-with-Fastify
+- https://shalvah.teachable.com/p/api-documentation-for-developers
+- https://tnickel.de/2020/12/24/2020-12-How-I-replaced-google-analytics-on-my-website
 
 ### Book
 
@@ -102,6 +104,8 @@
 - https://github.com/christian-fei/simple-telegram-message
 - [A simple Telegram ↔ IRC gateway](https://github.com/FruitieX/teleirc)
 - https://github.com/tracy-and-matt/awesome-twitch-dev#javascript-nodejs
+- https://github.com/shalvah/RemindMeOfThisTweet
+- [Twitter bot for easily downloading videos/GIFs off tweets](https://github.com/shalvah/DownloadThisVideo)
 
 ### Boilerplate
 
@@ -432,6 +436,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/justinamiller/Microservices-Architecture-Guidelines
 - https://blog.bitsrc.io/building-a-reactive-architecture-around-redis-bc53662b81c8
 - https://samnewman.io/books/building_microservices_2nd_edition
+- [An example app to build microservice using Node.js, docker and kubernetes](https://github.com/sujeet-agrahari/nodejs-microservices-example)
 
 ### Design patterns
 

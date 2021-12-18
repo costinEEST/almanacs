@@ -96,6 +96,7 @@
 - https://roadie.io/blog/avoid-leaking-github-org-data
 - https://github.com/nelsontky/gh-pages-url-shortener
 - [The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions](https://github.com/actionsflow/actionsflow)
+https://marcinhoppe.com/securing-your-github-project/
 
 ### Tool
 

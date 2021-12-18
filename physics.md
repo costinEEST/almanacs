@@ -6,6 +6,7 @@
 - https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X
 - https://www.scribd.com/doc/262317806/Buna-Ziua-Domnule-Ampere-Tomas-Borec
 - [Every Life Is on Fire: How Thermodynamics Explains the Origins of Living Things | Jeremy England](https://www.amazon.com/gp/product/B083JYRMSF)
+- https://www.privatdozent.co/p/the-best-books-on-the-golden-age
 
 ### Cinema
 
