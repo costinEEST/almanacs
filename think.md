@@ -1,6 +1,7 @@
-### Books
+### Book
 
 - [Tools for thinking, and especially the future of books!](https://twitter.com/Meaningness/status/1210309788141117440)
+- https://youtu.be/a4viuDH4VeM?t=238 + https://www.powells.com/book/on-freedom-9781644450628
 
 ### Critical Thinking
 

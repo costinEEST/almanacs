@@ -70,6 +70,7 @@
 - https://www.alexanderjsingleton.com/hack-to-spy-building-a-raspberry-spy-pi
 - [Create an emulator for the new Raspberry Pi Pico MCU, the RP2020. We'll do it in JavaScript, from scratch.](https://www.youtube.com/playlist?list=PLLomdjsHtJTxT-vdJHwa3z62dFXZnzYBm)
 - [E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero](https://github.com/speedyg0nz/MagInkCal)
+- https://youtu.be/v7eHTNm1YtU + https://github.com/standupmaths/xmastree2020
 
 ### Smartwatch
 

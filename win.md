@@ -64,6 +64,7 @@
 - https://www.volexity.com/wp-content/uploads/2020/04/Volexity-Cyber-Session-September-2019-Windows10DFIR.pdf + https://www.volexity.com/company/resources/windows-10-dfir-challenges-andrew-case
 - https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
 - [Attack and Defend the Sys Admins by Andy Gill](https://blog.zsec.uk/old-but-gold)
+- https://www.n00py.io/2020/12/alternative-ways-to-pass-the-hash-pth
 
 ### Clean up
 

@@ -211,6 +211,7 @@
 - [KetoNutrition/Ketone Technologies LLC](https://us18.campaign-archive.com/home/?u=052078383ebe1265fa3c6adc1&id=bf037ac0e1)
 - https://mattbiotech.substack.com/archive
 - [Eric Topol](https://erictopol.substack.com/archive)
+- [Peter Attia](https://peterattiamd.com/email-archive)
 
 ### Security
 

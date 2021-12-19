@@ -120,6 +120,7 @@
 - https://zetter.substack.com/p/former-nsa-hacker-describes-being
 - https://theconversation.com/how-hackers-can-use-message-mirroring-apps-to-see-all-your-sms-texts-and-bypass-2fa-security-165817
 - https://pressone.ro/cum-e-sa-fii-survivalist-in-romania-fiul-meu-are-sase-ani-si-are-cutit-de-la-trei-ani
+- https://github.com/undergroundwires/privacy.sexy
 
 ### Social media
 

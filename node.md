@@ -139,6 +139,7 @@
 - [Build your Typescript Node.js projects using blazing fast esbuild](https://github.com/a7ul/esbuild-node-tsc)
 - https://github.com/benedmunds/Node-Express-MVR-Example
 - https://github.com/sujeet-agrahari/node-express-clean-architecture
+- https://github.com/kentcdodds/express-app-example
 
 ### Cinema
 
@@ -174,6 +175,7 @@
 - https://github.com/sodium-friends/learntocrypto
 - https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs
 - https://github.com/simonplend/workshop-get-started-with-fastify + https://simonplend.com/workshop-recording-get-started-with-fastify
+- https://github.com/simonplend/workshop-node-validation-essentials
 
 ### Command line
 
@@ -500,6 +502,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/jakearchibald/jakearchibald.com + https://twitter.com/jaffathecake/status/1263371682313654273
 - https://dev.to/stowball/creating-a-production-ready-eleventy-project-with-webpack-babel-and-sass-35ep
 - [Tushar Sadhwani's blog built with Astro](https://github.com/tusharsadhwani/blog)
+- https://rodneylab.com/getting-started-astro
 
 
 ### Serverless

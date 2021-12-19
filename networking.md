@@ -148,6 +148,7 @@
 - [Compare public DNS resolver results](https://www.netmeister.org/puddy)
 - [c-ares: asynchronous DNS resolver library](https://github.com/danbev/learning-cares)
 - https://madaidans-insecurities.github.io/encrypted-dns.html
+- https://nelsonslog.wordpress.com/2021/12/16/underscore-dns-queries + [Mess with DNS](https://news.ycombinator.com/item?id=29568510)
 
 ### TCP/UDP
 
@@ -226,6 +227,7 @@
 
 - https://gravitational.com/blog/how-to-ssh-properly
 - https://twitter.com/infosec_scarlet/status/1354528499105636353
+- https://blog.zsec.uk/proxying-offensive
 
 ### Jaber
 
@@ -274,6 +276,7 @@
 - https://github.com/derhuerst/build-wikipedia-feed
 - https://github.com/hypercore-protocol/p2p-multiwriter-with-autobase
 - https://github.com/zerotier/ZeroTierOne
+- [Easily and securely send files and folders from one computer to another. End-to-end encryption using PAKE, cross-platform (Windows, Linux, Mac), allows resuming interrupted transfers, and more](https://github.com/schollz/croc)
 
 ### IFPS
 

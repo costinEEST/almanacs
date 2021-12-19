@@ -73,6 +73,7 @@
 - [Building a 1-day Exploit for Google Chrome](https://twitter.com/theori_io/status/980272605117612033)
 - https://github.com/qazbnm456/awesome-cve-poc
 - https://github.com/allpaca/chrome-sbx-db
+- https://googleprojectzero.blogspot.com/p/0day.html
 
 ### Extensions
 

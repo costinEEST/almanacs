@@ -158,6 +158,7 @@
 - [Exercise Anatomy - Pietro Boselli](https://www.youtube.com/playlist?list=PLPem8DMLJzQPB3gzfXBoCNPlG1Wf6ByFI)
 - [Lactate threshold training health biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z8z0O-Oqm9wUsfywDOgQgU)
 - https://darebee.com/programs/30-days-of-yoga.html
+- https://youtu.be/a4viuDH4VeM?t=176 + https://www.powells.com/book/the-secret-to-superhuman-strength-9780544387652
 
 ### Injuries
 

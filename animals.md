@@ -5,6 +5,7 @@
 ### Bird
 
 - https://www.amazon.co.uk/Birds-Britannica-Mark-Cocker/dp/0701169079
+- https://bibliotecaexploratorilor.substack.com/p/cele-mai-bune-carti-despre-pasari
 
 ### Picture
 
