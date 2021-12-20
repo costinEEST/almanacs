@@ -101,6 +101,7 @@
 - https://github.com/mgechev/google-interview-preparation-problems
 - https://github.com/anushka23g/Complete-Placement-Preparation
 - https://github.com/VGraupera/1on1-questions
+- https://github.com/obensource/dev-resources/blob/master/interviews.md
 
 ### Practice
 

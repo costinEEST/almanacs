@@ -28,6 +28,7 @@
 - [Computer History - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc5y3yXGO1VDXtzLeVcr5kCl)
 - http://thatmakershow.com
 - [3D printing basics | Thomas Sanladerer](https://www.youtube.com/playlist?list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)
+- https://github.com/obensource/dev-resources/blob/master/classic-films.md
 
 ### Community
 

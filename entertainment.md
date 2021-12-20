@@ -256,6 +256,7 @@
 - http://backreaction.blogspot.com/2012/08/why-does-baby-cry-fact-sheet.html
 - http://alecresnick.com/notes/how-children-what
 - https://xsrus.com/good-books-on-education
+- https://github.com/obensource/little-kiddo-learning
 
 ### Mindfulness
 

@@ -48,6 +48,7 @@
 
 - http://www.gregoryschmidt.ca/writing/why-4k-is-misleading
 - [4k monitors](https://twitter.com/rogie/status/1221294864144318468)
+- https://coolaj86.com/articles/best-thunderbolt-display-imac-monitor-alternative
 
 ### Phone
 

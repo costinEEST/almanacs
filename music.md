@@ -15,6 +15,7 @@
 - http://openmusictheory.com/contents.html
 - https://www.goodreads.com/author/show/1259336.Viorel_Cosma
 - https://www.amazon.com/Manele-Romania-Expression-Ethnomusicologies-Modernities/dp/1442267070
+- https://musicthing.co.uk/pages/reading.html
 
 ### Cinema
 
