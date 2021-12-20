@@ -12,6 +12,7 @@
 - https://rosenzweig.io/blog/asahi-gpu-part-1.html
 - https://www.freecodecamp.org/news/build-a-hackintosh
 - [Is the latest MacBook Pro a good/valid option for Android development?](https://twitter.com/JorgeCastilloPr/status/1452254270653403150)
+- https://github.com/hack-different/apple-formats
 
 ### Tool
 
@@ -42,6 +43,7 @@
 - [Query all macOS Address Book contacts](https://github.com/derhuerst/os-x-contacts)
 - [Prevents your Mac from going to sleep](https://github.com/newmarcel/KeepingYouAwake)
 - [Nginx+Lua config that converts Eventbrite API to iCalenadar format](https://github.com/diafygi/eb-to-ical)
+- [Device mockup generator for your screenshots](https://dimmy.club)
 
 
 ### References
