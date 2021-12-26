@@ -7,6 +7,7 @@
 
 - https://kevindelaplante.com/029-how-to-raise-a-critical-thinker
 - [Applied Critical Thinking Handbook (Formerly the Red Team Handbook)](https://www.hsdl.org/?abstract&did=802233)
+- https://www.spencergreenberg.com/2021/11/human-behavior-makes-more-sense-when-you-understand-anchor-beliefs
 
 ### Miscellaneous
 

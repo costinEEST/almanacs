@@ -72,6 +72,7 @@
 - https://github.com/Shopee/shopee-react-knowledgeable/issues/184
 - [Build an Accessible React Component Series](https://www.youtube.com/playlist?list=PLOmKTF_wUDoydvtwWrzEw7DZ9VboV51py)
 - https://github.com/zpao/building-react-from-scratch
+- https://portal.gitnation.org/contents/remote-rendering-with-web-workers + https://shopify.engineering/remote-rendering-ui-extensibility
 
 ### Podcasts
 

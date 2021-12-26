@@ -42,6 +42,7 @@
 - [How to grasp Containers and Docker (Mega Thread)](https://twitter.com/iximiuz/status/1423984739514454033)
 - https://sysdig.com/blog/container-security-best-practices
 - https://iximiuz.com/en/posts/containers-vs-pods
+- https://iximiuz.com/en/posts/container-learning-path
 
 ### Internals
 

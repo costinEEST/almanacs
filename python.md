@@ -172,6 +172,7 @@
 - https://github.com/jorritfolmer/vulnerable-api
 - https://github.com/andresriancho/race-condition-exploit
 - https://github.com/ochronasec/ochrona_python_vulnerabilities
+- [Crypto Mistakes ON demand](https://github.com/kojenov/cmon)
 
 ### Server
 

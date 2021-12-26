@@ -28,6 +28,7 @@
 - https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free
 - https://www.freecodecamp.org/news/learn-to-use-the-mysql-database
 - https://github.com/AlisdairO/pgexercises
+- https://www.freecodecamp.org/news/build-a-crm
 
 ### Tool
 
@@ -48,6 +49,7 @@
 - [PgTyped automatically generates types and interfaces for your SQL queries by using your running Postgres database as the source of type information](https://github.com/adelsz/pgtyped)
 - [Convert an Apple Healthkit export zip to a SQLite database](https://github.com/dogsheep/healthkit-to-sqlite)
 - [Ghostferry is a library that enables you to selectively copy data from one mysql instance to another with minimal amount of downtime](https://github.com/Shopify/ghostferry)
+- https://shopify.engineering/upgrading-mysql-shopify
 
 
 ### Hacks

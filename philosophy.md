@@ -2,6 +2,7 @@
 
 - [Doing Good Better | William MacAskill](https://blog.foolip.org/2015/09/28/the-life-you-can-save)
 - https://www.amazon.com/Beauty-Very-Short-Introduction-Introductions-ebook-dp-B005CU4THS/dp/B005CU4THS
+- https://www.goodreads.com/book/show/22716546-die-wise + https://orphanwisdom.com/die-wise
 
 ### Community
 

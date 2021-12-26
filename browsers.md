@@ -257,6 +257,7 @@ javascript: (() =>
 - https://honzajavorek.cz/blog/how-i-consume-content
 - https://timvisee.com/blog/firefox-tricks-quantumbar
 - https://nelsonslog.wordpress.com/2021/12/07/firefox-compat-hacks
+- https://nelsonslog.wordpress.com/2021/12/22/faking-geolocation-in-firefox
 
 ### Safari
 
