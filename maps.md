@@ -19,7 +19,7 @@
 - [Interactive map of Berlin that shows 🕶 shade areas, 💨 wind and 🌡 temperature intensities across the day](https://github.com/technologiestiftung/erfrischungskarte-frontend)
 - https://www.submarinecablemap.com + https://github.com/telegeography/www.submarinecablemap.com
 
-### TV
+### Cinema
 
 - https://somethingaboutmaps.wordpress.com/2020/03/19/how-to-do-map-stuff
 
@@ -35,6 +35,9 @@
 - [Taiwan Hiking Maps](https://github.com/alpha-rudy/taiwan-topo)
 - [A global collection of address, cadastral parcel and building footprint data sources](https://github.com/openaddresses/openaddresses)
 - https://twitter.com/ShijiaWendy/status/1458242744673996807 + https://public.tableau.com/app/profile/wendy.shijia/viz/TheMoon_16365064953870/TheMoon + https://astrogeology.usgs.gov/search/map/Moon/Geology/Unified_Geologic_Map_of_the_Moon_GIS_v2
+- [ColorBrewer: Color Advice for Maps](https://github.com/axismaps/colorbrewer)
+- https://getoutside.ordnancesurvey.co.uk/guides/beginners-guides-map-reading
+- https://getoutside.ordnancesurvey.co.uk/guides/map-reading-skills-advanced-guides
 
 ### Radio
 

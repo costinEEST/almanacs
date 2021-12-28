@@ -73,6 +73,7 @@
 - https://www.udemy.com/course/django-for-wordpress-developers
 - https://www.udemy.com/course/python-for-bioinformatics-self-learning-course
 - https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+- https://github.com/dabeaz-course/practical-python
 
 ### Cinema
 

@@ -7,6 +7,7 @@
 - https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087 + https://www.amazon.com/Theory-That-Would-Not-Die-ebook/dp/B0050QB3EQ + https://youtu.be/R13BD8qKeTg + https://www.youtube.com/watch?v=HZGCoVF3YvM
 - https://www.amazon.com/Atlas-Forecasts-Modeling-Mapping-Desirable/dp/0262045958 + https://twitter.com/benbendc/status/1456087094762295300
 - https://github.com/HeinrichHartmann/Statistics-for-Engineers
+- https://minireference.com/blog/no-bullshit-guide-to-statistics-progress-update
 
 ### Course
 

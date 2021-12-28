@@ -313,7 +313,7 @@
 - https://github.com/jbenet/random-ideas/issues
 - https://github.com/alphaSeclab/awesome-network-stuff/blob/master/Readme_en.md
 - https://github.com/kdeldycke/awesome-falsehood#networks
-- https://notes.eddyerburgh.me/computer-networking
+- https://notes.eddyerburgh.me/computer-networking + https://github.com/eddyerburgh/notes/tree/master/docs/computer-networking
 - [A short (and mostly wrong) history of computer networking](https://fasterthanli.me/blog/2019/making-our-own-ping)
 - https://blog.cloudflare.com/the-history-of-the-url
 - http://chrishacken.com/the-war-on-upstart-fiber-optic-internet-providers

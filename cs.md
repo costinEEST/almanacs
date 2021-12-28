@@ -131,6 +131,8 @@
 - https://twobithistory.org/timeline.html
 - https://computerhistory.org/timelines
 - https://adventofcomputing.com/resources.html
+- https://www.robjwells.com/books/2019/a-history-of-modern-computing
+- https://www.robjwells.com/books/2019/turings-cathedral
 
 ### Miscellaneous
 

@@ -29,6 +29,7 @@
 - https://dev.to/kwelch/automating-the-pain-away-bnb
 - https://hachibu.net/talks/2020/exploring-javascript-tagged-template-strings
 - https://medium.com/aia-sg-techblog/understanding-how-babel-works-d6ca363bce1e
+- https://github.com/vaidehijoshi/basecs-series
 
 ### Quirks
 

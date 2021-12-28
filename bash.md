@@ -8,6 +8,7 @@
 - https://github.com/thewhitetulip/awk-anti-textbook
 - https://github.com/inputsh/awesome-linux#books
 - https://github.com/learnbyexample/cli_text_processing_coreutils
+- https://github.com/learnbyexample/learn_gnugrep_ripgrep
 
 ### Course
 
@@ -63,6 +64,7 @@
 - https://nuculabs.dev/2021/09/22/fzf-a-command-line-fuzzy-finder
 - https://github.com/WizardTim/cheatsheets/blob/master/youtube-dl.md
 - https://blog.ngzhian.com/awk.html
+- https://www.robjwells.com/2021/02/how-to-wrap-bc-to-do-calculations
 
 ### References
 

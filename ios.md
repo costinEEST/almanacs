@@ -25,6 +25,7 @@
 - [find someone in the iOS community who has inspired you through a blog post, a conference presentation, a video, or somehow else, and send them an encouraging tweet.](https://twitter.com/twostraws/status/1208764380969611264)
 - https://www.hackingwithswift.com/articles/96/how-to-deliver-a-talk-at-a-programming-conference
 - https://github.com/Nickersoft/awesome-careers#ios-engineer
+- https://github.com/macshome/The-Wisdom-of-Quinn
 
 ### Hardware
 

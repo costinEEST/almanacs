@@ -2,6 +2,7 @@
 
 - https://labs.thisdot.co/resources/ACompleteGuideToVueJSeBook
 - [Marcus Herrmann ~ Accessible Vue](https://leanpub.com/accessible-vue/c/3LCDLHvsLRl3)
+- https://www.manning.com/books/testing-vue-js-applications
 
 ### Course
 
