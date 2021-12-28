@@ -1,3 +1,7 @@
+### .doc
+
+- https://github.com/hanhanhanz/cyber-security-sources/blob/main/officeFileExploitation.md
+
 ### .pdf
 
 - https://speakerdeck.com/ange/lets-write-a-pdf-file
@@ -12,6 +16,7 @@
 
 - [Convert a Windows/DOS file extension to a mimetype.](https://dorper.me/ext2mime)
 - [A book build system that produces PDF, EPUB and MOBI from asciidoc to Amazon specifications](https://github.com/merklebloom/bookbuilder)
+- https://github.com/ReversingID/Awesome-Reversing/blob/master/_format.md
 
 ### Security
 

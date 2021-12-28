@@ -98,6 +98,7 @@
 - [The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions](https://github.com/actionsflow/actionsflow)
 - https://marcinhoppe.com/securing-your-github-project
 - https://chainguard.dev/posts/2021-12-01-zero-friction-keyless-signing
+- [HTML Preview for GitHub Repositories](https://github.com/htmlpreview/htmlpreview.github.com)
 
 ### Tool
 

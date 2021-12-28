@@ -47,6 +47,7 @@
 ### Community
 
 - [Jonathan Brossard](https://www.slideshare.net/endrazine/presentations)
+- https://github.com/stong/infosec-resources
 
 ### Tools
 

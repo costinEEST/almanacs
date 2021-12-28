@@ -1,4 +1,4 @@
-### Tips
+### Advice
 
 - https://blog.hoangnm.com/ios%20development/2013/05/12/get-started-with-ios-programming
 - [iOS Tips and Tricks](https://blog.hoangnm.com/pageDir/iosTips)
@@ -18,6 +18,13 @@
 
 - https://www.youtube.com/c/LetsBuildThatApp/playlists
 - https://www.youtube.com/c/fce365official/playlists
+
+
+### Community
+
+- [find someone in the iOS community who has inspired you through a blog post, a conference presentation, a video, or somehow else, and send them an encouraging tweet.](https://twitter.com/twostraws/status/1208764380969611264)
+- https://www.hackingwithswift.com/articles/96/how-to-deliver-a-talk-at-a-programming-conference
+- https://github.com/Nickersoft/awesome-careers#ios-engineer
 
 ### Hardware
 
@@ -42,9 +49,3 @@
 -  https://twitter.com/GestureState/status/1315572167199817729 + https://abjurato.github.io/stories/kindleEbooks.html
 -  https://github.com/Billy-Ellis/Exploit-Challenges
 -  https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html
-
-
-### Community
-
-- [..find someone in the iOS community who has inspired you through a blog post, a conference presentation, a video, or somehow else, and send them an encouraging tweet.](https://twitter.com/twostraws/status/1208764380969611264)
-- https://www.hackingwithswift.com/articles/96/how-to-deliver-a-talk-at-a-programming-conference

@@ -16,6 +16,8 @@
 - https://github.com/mhadidg/software-architecture-books#streaming-and-messaging
 - https://github.com/karlseguin/the-little-mongodb-book
 - [Curious moon. Learn PostgreSQL the way the pros do | Rob Conery](https://bigmachine.io/products/a-curious-moon)
+- https://github.com/iharh/notes/tree/master/db
+- [The Theory of Relational Databases | David Maier](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
 ### Course
 

@@ -104,6 +104,7 @@
 - [“Earn influence, don’t mandate it” – a conversation with Figma’s Devdatta Akhawe](https://material.security/blog/earn-influence-dont-mandate-it--a-conversation)
 - [reading-for-product-managers.md](https://gist.github.com/simpsoka/5794e07d4dd34c9bbc70de26c0402552)
 - https://github.com/ProductHired/open-product-management
+- https://github.com/domenicosolazzo/awesome-okr
 
 ### Leadership
 

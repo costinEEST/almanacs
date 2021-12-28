@@ -51,6 +51,7 @@
 - https://www.udemy.com/course/tai-chi-chen-style-for-beginner-strengthens-mind-and-body
 - [Cultivating the Breath as a Symbol](https://goula.sh/days/2021-03-13)
 - [Educational/Tips | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8qU_CVwuipR5R5ezRVk9EwF)
+- [Extra History: Medicine](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5Dl5NX3frM2m-bnWam8TnC2)
 
 ### Course
 

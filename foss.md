@@ -6,3 +6,7 @@
 ### Tool
 
 - [Curated list of awesome tools for managing open source programs](https://github.com/todogroup/awesome-ospo)
+
+### Miscellaneous
+
+- https://github.com/ankumar/Open-software-design

@@ -53,6 +53,7 @@
 
 - [People ask you for the Wi-Fi password. Answer quickly.](https://github.com/RReverser/WiFi-Password)
 - [Configuration Hardening Assessment PowerShell Script.](https://github.com/cutaway-security/chaps)
+- [Run Powershell without software restrictions](https://github.com/iomoath/PowerShx)
 
 ### notepad.exe
 
@@ -79,6 +80,7 @@
 - https://identityaccess.management/2019/12/30/active-directory-security-fundamentals
 - https://github.com/infosecn1nja/AD-Attack-Defense
 - https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+- [WADComs - Interactive cheatsheet for Windows AD Environments](https://github.com/WADComs/WADComs.github.io)
 
 ### Opinions
 

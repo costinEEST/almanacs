@@ -224,6 +224,7 @@
 - https://github.com/jvns/pandas-cookbook
 - [A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 - https://github.com/x-hw/amazing-qr
+- https://github.com/Nya0/recaptcha-v2-bypass
 
 ### Testing
 

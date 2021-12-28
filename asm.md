@@ -40,6 +40,7 @@
 - https://hackaday.com/2021/03/26/undocumented-x86-instructions-allow-microcode-access
 - [Links for advanced programmers](http://alexfru.narod.ru/elinks.html#advanced)
 - https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/assembly.md
+- https://github.com/ReversingID/Awesome-Reversing/blob/master/_software.md
 
 ### RISC-V
 

@@ -30,6 +30,7 @@
 - https://www.salon.com/2021/10/16/25-great-rockumentaries-every-music-and-movie-fan-should-see_partner
 - [Listening to Music with Craig Wright | YaleCourses](https://www.youtube.com/playlist?list=PLh9mgdi4rNezhx8YiGIV8I22ICSuzslja)
 - https://www.musanim.com/watch_mam.html
+- https://github.com/smenjas/educational-content#music
 
 ### Community
 
@@ -41,6 +42,7 @@
 - https://noncombatant.org/2014/11/16/valuemusic-16-nov-2014-guitar-mania
 - https://web.archive.org/web/20150610200755/http://11thmuse.com/Taragot.pdf
 - http://diy-fever.com/reviews/guitar-reviews
+- https://www.youtube.com/user/stewartmacdonald/playlists
 - [Nahre Sol (piano)](https://www.youtube.com/c/NahreSol/playlists)
 - http://www.pianopractice.org
 - https://kevinmartinjose.com/2019/01/27/lessons-from-learning-to-play-the-violin
@@ -62,6 +64,7 @@
 - [The Lomax Digital Archive provides free access to audio/visual collections compiled across seven decades by folklorist Alan Lomax (1915–2002) and his father John A. Lomax (1867–1948).](https://archive.culturalequity.org)
 - https://learningmusic.ableton.com
 - https://learningsynths.ableton.com
+- https://github.com/pyxelr/recommendations-for-engineers#music
 
 
 ### Reference

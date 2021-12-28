@@ -167,6 +167,7 @@
 - [Software Licenses in Plain English](https://tldrlegal.com)
 - https://games.greggman.com/game/zip-rant
 - https://dev.to/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-3e0m
+- https://github.com/NLeSC/awesome-research-software-registries
 
 ### Radio
 

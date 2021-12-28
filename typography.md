@@ -5,6 +5,7 @@
 - https://www.dropbox.com/s/whg7jvdatx1ovzx/Calligraphy%20Guide%20Sheets.zip
 - https://www.printmag.com/post/the-daily-heller-an-overdue-arab-design-history-book-part-1   
 - https://www.printmag.com/post/the-daily-heller-an-overdue-arab-design-history-book-part-2
+- https://www.thomkrupa.com/books
 
 ### Cinema
 

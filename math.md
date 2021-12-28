@@ -116,6 +116,8 @@
 - https://amilajack.com/the-languages-of-mathematics
 - [Skateboard Tricks and Topological Flips](https://arxiv.org/abs/2108.06307)
 - https://github.com/Pomax/BezierInfo-2
+- https://github.com/eltuck/Resources#math-programming-software
+- https://github.com/pyxelr/recommendations-for-engineers#math-2
 
 ### Teacher
 

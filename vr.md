@@ -12,17 +12,20 @@
 
 ### Community
 
+- https://github.com/Graphics-Programming-Virtual-Meetup/meeting-notes
 - [Dilmer Valecillos](https://twitter.com/Dilmerv)
 - [Fabien Bénétou](https://twitter.com/utopiah)
 - [Timmy Kokke](https://www.linkedin.com/in/timmykokke)
 - [Kelly Peng](https://www.kellypeng.com/blog/resources)
 - [Dragos Silion](https://twitter.com/silidragos)
 - https://github.com/tobiasbueschel/awesome-WebAR
+- https://github.com/Nickersoft/awesome-careers#3d-designer
 
 ### Cinema
 
 - [Augmented and Virtual Reality ~ Adrian Iftene](https://www.youtube.com/playlist?list=PLddW60TN_y-WsMfQoEcz-O-6QdZJ8wZ3y)
 - [WebXR Basics | WebXR](https://www.youtube.com/playlist?list=PLW2iP2Rz9wsKTPwDEW1KhxcWkuwur_E9t)
+- https://github.com/iharh/notes/tree/master/ui/art/3d
 
 
 ### Demo

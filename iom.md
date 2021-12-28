@@ -191,6 +191,7 @@
 - https://github.com/manojpramesh/solidity-cheatsheet
 - https://buildspace.so/solidity
 - https://github.com/crytic/not-so-smart-contracts
+- https://github.com/crytic/building-secure-contracts
 - https://github.com/sigp/solidity-security-blog
 - https://github.com/ajlopez/SoliditySamples
 - https://github.com/willitscale/learning-solidity
@@ -305,7 +306,6 @@
 - https://ethernaut.openzeppelin.com + https://github.com/OpenZeppelin/ethernaut
 - https://www.youtube.com/playlist?list=PLG1Zq5_UTbOxFaQAKE5N5Hi2Nvv-O35Cu
 - https://shayan.es/#lectures
-- https://github.com/crytic/building-secure-contracts
 - https://www.theblockcrypto.com/linked/89843/2017-parity-wallet-hacker-begins-moving-eth
 - [Tineola: Taking a Bite Out of Enterprise Blockchain](https://github.com/tineola/tineola)
 - https://ronan.eth.link/blog/ethereum-gas-dangers

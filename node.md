@@ -363,7 +363,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - ["Will I break you" - a tool for testing dependents](https://github.com/pkgjs/wiby)
 - [Node-dev is a development tool for Node.js that automatically restarts the node process when a file is modified](https://github.com/fgnass/node-dev)
 - [utility library to create and run Advent of Code solutions](https://github.com/caderek/aocrunner)
-
+- [Fetch source-mapped sources. Peek by file, line, column. Node & browsers. Sync & async](https://github.com/xpl/get-source)
 
 ### Testing
 
@@ -503,6 +503,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://dev.to/stowball/creating-a-production-ready-eleventy-project-with-webpack-babel-and-sass-35ep
 - [Tushar Sadhwani's blog built with Astro](https://github.com/tusharsadhwani/blog)
 - https://rodneylab.com/getting-started-astro
+- https://nemethgergely.com/blog/building-your-blog-from-scratch
+- https://github.com/shakyShane/next-no-js
 
 
 ### Serverless

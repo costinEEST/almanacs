@@ -39,6 +39,7 @@
 - [Simon Barnett](https://twitter.com/sbarnettARK)
 - [Yuzhen Ye](https://homes.luddy.indiana.edu/yye/lab/teaching.php)
 - https://www.reddit.com/r/Biotechplays/comments/oj9jqx/biotech_website_blog_recommendations
+- https://github.com/modenaxe/awesome-biomechanics
 
 ### Cinema
 

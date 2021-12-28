@@ -28,6 +28,7 @@
 - https://www.youtube.com/user/purpongie/playlists
 - https://github.com/williamfiset/Algorithms#geometry
 - https://github.com/anthonynsimon/java-ds-algorithms
+- https://github.com/kdn251/interviews
 
 ### Tool
 
@@ -51,7 +52,7 @@
 - https://github.com/razvand/secure-programming-java
 - https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2
 - https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
-- https://javarevisited.blogspot.com/2021/12/what-is-log4j-2-issue-how-to-solve-log.html + https://www.linkedin.com/posts/mubix_log4shell-log4j-management-activity-6876536157119897600-nacC + https://application.security/free-application-security-training/understanding-apache-log4j-vulnerability + https://www.linkedin.com/feed/update/urn:li:activity:6876705732947963904 + https://r2c.dev/blog/2021/understanding-log4j-and-log4shell + https://twitter.com/lapt0r/status/1469340723463950341 + https://www.reddit.com/r/blueteamsec/comments/rd38z9/log4j_0day_being_exploited + https://twitter.com/thinkstcanary/status/1469439743905697797 + https://twitter.com/kurtseifried/status/1470650869494337540 + https://danielmiessler.com/podcast/news-analysis-no-311 + https://www.hackingarticles.in/a-detailed-guide-on-log4j-penetration-testing + https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-44228 + https://securelist.com/webinars/log4shell-vulnerability-how-to-stay-secure + https://infosecwriteups.com/log4j-vulnerability-explanation-in-details-73f7556c5ff1 + https://www.zdnet.com/article/security-firm-blumira-discovers-major-new-log4j-attack-vector
+- https://javarevisited.blogspot.com/2021/12/what-is-log4j-2-issue-how-to-solve-log.html + https://www.linkedin.com/posts/mubix_log4shell-log4j-management-activity-6876536157119897600-nacC + https://application.security/free-application-security-training/understanding-apache-log4j-vulnerability + https://www.linkedin.com/feed/update/urn:li:activity:6876705732947963904 + https://r2c.dev/blog/2021/understanding-log4j-and-log4shell + https://twitter.com/lapt0r/status/1469340723463950341 + https://www.reddit.com/r/blueteamsec/comments/rd38z9/log4j_0day_being_exploited + https://twitter.com/thinkstcanary/status/1469439743905697797 + https://twitter.com/kurtseifried/status/1470650869494337540 + https://danielmiessler.com/podcast/news-analysis-no-311 + https://www.hackingarticles.in/a-detailed-guide-on-log4j-penetration-testing + https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-44228 + https://securelist.com/webinars/log4shell-vulnerability-how-to-stay-secure + https://infosecwriteups.com/log4j-vulnerability-explanation-in-details-73f7556c5ff1 + https://www.zdnet.com/article/security-firm-blumira-discovers-major-new-log4j-attack-vector + https://inonst.medium.com/log4shell-simple-techincal-explanation-of-the-exploit-a5a3dd1918ec
 
 ### Microservice
 

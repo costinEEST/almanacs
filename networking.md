@@ -26,6 +26,7 @@
 - https://twitter.com/varcharr/status/1303354695902203905
 - [How to Hack Like a PORNSTAR: A step by step process for breaking into a BANK](https://www.amazon.com/dp/B01MTDLGQQ)
 - https://www.ipspace.net/Books
+- https://github.com/bobeff/programming-math-science#computer-networks-and-network-programming
 
 ### Communities
 
@@ -175,6 +176,8 @@
 - [HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.](https://github.com/for-GET/know-your-http-well)
 - https://httptoolkit.tech/blog/http-search-method
 - https://github.com/GrrrDog/weird_proxies
+- https://github.com/mattiasgrenfeldt/bachelors-thesis-http-request-smuggling
+- [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) + https://twitter.com/albinowax/status/1455825085261127686
 
 ### HTTP headers
 

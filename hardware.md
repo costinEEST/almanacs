@@ -14,6 +14,7 @@
 - https://mightyohm.com/blog/2008/12/the-greatest-electronics-book-ever-written
 - https://www.cetola.net/2017/11/12/electronics-for-the-autodidactic
 - [how cars works](https://www.sae.org/publications/books/content/bosch10)
+- https://github.com/ReversingID/Awesome-Reversing/blob/master/_hardware.md
 
 ### Cinema
 
@@ -22,7 +23,6 @@
 - [Review and analysis of bulb. By electronupdate](https://www.youtube.com/playlist?list=PLv9WfM3NgK2xFHrD9BJ4-4CEbRpbe6DFP)
 - [March is for Makers - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdpNzI3uaAu-kqWvH4BttLQ)
 - [N-O-D-E](https://www.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA/playlists)
-- [Shenzhen I/O - Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
 - https://www.youtube.com/c/lockpickinglawyer/playlists
 - https://www.youtube.com/c/jeriellsworth/playlists
 - [Computer History - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc5y3yXGO1VDXtzLeVcr5kCl)
@@ -64,10 +64,13 @@
 - https://github.com/mithi/robotics-coursework
 - https://github.com/kitspace/awesome-electronics
 - http://www.udemy.com/wireless-power-to-the-people-wireless-charging-101/?couponCode=YOUTUBE
+- https://github.com/Besnn/computer-science-and-computer-engineering-books-and-resources
+- https://github.com/trevor-vincent/awesome-high-performance-computing
 
 ### Chip
 
 - https://siliconpr0n.org
+- https://github.com/bobeff/programming-math-science#hardware
 - https://www.theinformation.com/articles/amazon-steps-up-silicon-ambitions-with-new-networking-chip
 - [Want cliff notes on the chip shortage?](https://twitter.com/_MG_/status/1388321639524229120)
 - [What Every Programmer Should Know About Memory | Ulrich Drepper](https://www.gwern.net/docs/cs/2007-drepper.pdf)
@@ -97,7 +100,6 @@
 
 ### Miscellaneous
 
-- https://github.com/kitspace/awesome-electronics
 - https://github.com/jaredthecoder/awesome-vehicle-security
 - https://swatinem.de/blog/oil-immersion-cooling
 - [Wearable Technology Documentation.](https://www.kobakant.at/DIY)
@@ -144,6 +146,8 @@
 - https://redteamer.tips/physical-shenanigans-with-computers-part-1-gearing-up
 - https://github.com/Hanqaqa/PCB_Business_Card
 - https://www.stavros.io/posts/make-pcbs-at-home
+- https://www.davidsopas.com/my-red-team-assessment-hardware-list
+- https://github.com/TM90/awesome-hwd-tools
 
 ### History
 

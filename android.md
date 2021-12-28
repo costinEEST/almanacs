@@ -20,6 +20,7 @@
 ### Community
 
 - [Chiu-Ki Chan](http://chiuki.github.io)
+- https://github.com/Nickersoft/awesome-careers#android-engineer
 
 ### Course
 
@@ -71,6 +72,7 @@
 - https://speakerdeck.com/andreidiaconu/android-training-in-10-sessions
 - https://tinyletter.com/sqisland/letters/square-island-start-developing-for-android
 - https://github.com/android/architecture-components-samples
+- https://github.com/android/architecture-samples
 - [A list of an android lib's make your coding life easier](https://github.com/CreatorB/Android-Library)
 - [App for picture maintenance](https://github.com/timitoc/groupicture)
 - [app that guides you into a parallel parking space using the Toyota CAN Gateway API via bluetooth](https://github.com/diafygi/ppark)

@@ -133,6 +133,7 @@
 - https://en.wikipedia.org/wiki/From_Dawn_to_Decadence
 - https://www.youtube.com/playlist?list=PLaLOVNqqD-2HKHtfe4No8Sua_3JEvRHGe  https://cosmolearning.org/courses/medieval-europe-500-1500
 - [Bilkent: HCIV-102 History of Civilization II | CosmoLearning History](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FzHv8-N93sSiMIfmST-Gzf)
+- https://github.com/smenjas/educational-content#history
 
 ### Mythology
 
@@ -257,6 +258,7 @@
 - http://alecresnick.com/notes/how-children-what
 - https://xsrus.com/good-books-on-education
 - https://github.com/obensource/little-kiddo-learning
+- https://github.com/iharh/notes/tree/master/child
 
 ### Mindfulness
 

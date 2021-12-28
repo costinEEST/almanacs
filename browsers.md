@@ -245,6 +245,7 @@ javascript: (() =>
 ### Brave
 
 - https://rudism.com/the-brave-browser-is-brilliant
+- https://github.com/iharh/notes/tree/master/security/tracking
 
 ### Firefox
 
@@ -309,6 +310,7 @@ javascript: (() =>
 - https://tldrsec.com/blog/content-security-policy-going-from-idea-to-afterthought
 - https://sensepost.com/blog/2021/from-500-to-account-takeover + https://twitter.com/XssPayloads/status/1376389308207226881
 - https://twitter.com/blipsofadoug/status/1125223582974533633
+- https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization
 
 ### Same Origin Policy (SOP)
 
@@ -431,6 +433,7 @@ javascript: (() =>
 - [rrweb is an open source web session replay library, which provides easy-to-use APIs to record user's interactions and replay it remotely.](https://github.com/rrweb-io/rrweb)
 - https://github.com/captainbrosset/devtools-tips
 - [estimating the % of web users that have certain web features natively supported](https://github.com/paulirish/web-feature-availability)
+- [From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers](https://github.com/RUB-NDS/xsinator.com)
   
 ### History
 

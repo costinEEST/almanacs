@@ -26,6 +26,7 @@
 - https://github.com/ThomasOrlita/ASCIIAdventures
 - https://masilotti.com/play-board-games-online
 - https://masilotti.com/great-two-player-board-games
+- https://github.com/oklemenz/PrinceJS
 
 
 ### Mobile based
@@ -37,7 +38,7 @@
 
 ### Desktop based
 
-- [Shenzhen I/O is a puzzle game that teaches how to build circuits and write assembly code based on provided elements.](http://www.zachtronics.com/shenzhen-io)
+- [Shenzhen I/O is a puzzle game that teaches how to build circuits and write assembly code based on provided elements.](http://www.zachtronics.com/shenzhen-io) + [Shenzhen I/O | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
 - [Flappy bird in JS using Raylib](https://github.com/arthurmassanes/flappy)
 
 

@@ -25,6 +25,7 @@
 - [Lea Kissner](https://twitter.com/LeaKissner/status/1384539395005448201)
 - [Güneş Acar](https://gunesacar.net)
 - [PinePhone User’s Group](https://www.facebook.com/groups/490766952100168)
+- https://github.com/humanetech-community/awesome-humane-tech
 
 ### Hardware
 

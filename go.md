@@ -63,6 +63,7 @@
 - http://nathan.vegas/blog/errgroup-promise-all.html
 - [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md) + https://twitter.com/felixge/status/1435537024388304900
 - https://felixge.de/2021/12/01/advent-of-go-profiling-2021-day-1-1
+- https://github.com/VividCortex/go-database-sql-tutorial
 
 ### Testing
 

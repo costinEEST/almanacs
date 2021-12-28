@@ -13,6 +13,7 @@
 - [Electron JS Browser To Find XSS Vulnerabilities Automatically](https://github.com/RenwaX23/XSSTRON)
 - https://cameronnokes.com/blog/how-to-know-if-a-desktop-app-uses-electron
 - [A list of awesome packages and frameworks for implementing javascript applications on the desktop](https://github.com/styfle/awesome-desktop-js)
+- [Subtitler is a free Desktop application to search and download right subtitle blazing fast](https://github.com/s8sachin/subtitler)
 
 ### Demos
 

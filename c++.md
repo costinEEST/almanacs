@@ -4,6 +4,7 @@
 - [Modern OpenGL guide](https://github.com/Overv/Open.GL)
 - https://twitter.com/cpphl/status/1454501395068035077 + https://www.packtpub.com/product/the-art-of-writing-efficient-programs/9781800208117
 - https://github.com/dendibakh/perf-book + https://github.com/dendibakh/perf-ninja + https://www.youtube.com/playlist?list=PLRWO2AL1QAV4WK6O6cxyjWVJvbUVVLrQk
+- http://www.nongnu.org/fastcgi
 
 ### Community
 

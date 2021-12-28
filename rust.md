@@ -48,6 +48,7 @@
 - https://docs.microsoft.com/en-gb/learn/paths/rust-first-steps
 - https://github.com/yoshuawuyts/rust-for-js-peeps
 - https://www.freecodecamp.org/news/rust-in-replit
+- https://github.com/ferrous-systems/teaching-material
 
 ### Tutorial
 
@@ -92,7 +93,6 @@
 
 - https://github.com/wasdk/WebAssemblyStudio
 - https://github.com/integer32llc/rust-playground
-- https://ferrous-systems.github.io/teaching-material
 - https://github.com/AxlLind/AdventOfCode2020
 - https://github.com/lmammino/rust-advent
 - https://github.com/danvk/aoc2020 + https://medium.com/@danvdk/advent-of-code-2020-this-time-in-rust-7904559e24bc
