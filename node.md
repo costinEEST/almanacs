@@ -505,6 +505,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://rodneylab.com/getting-started-astro
 - https://nemethgergely.com/blog/building-your-blog-from-scratch
 - https://github.com/shakyShane/next-no-js
+- [designcember.com built with Astro](https://github.com/GoogleChromeLabs/designcember)
 
 
 ### Serverless

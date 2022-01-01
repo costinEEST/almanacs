@@ -213,6 +213,7 @@
 - [Lectins - clistbus](https://www.youtube.com/playlist?list=PLy5C4b2v0Bq0vTRUziPB_RB3ZJu1Mmplj)
 - https://mdlingo.com/a-guide-to-coconut-products-water-milk-cream-oil-butter
 - https://inquisitivebiologist.com/2019/11/25/book-review-slime-how-algae-created-us-plague-us-and-just-might-save-us
+- https://nolanlawson.com/2021/12/31/2021-book-review
 
 ### Ketosis
 

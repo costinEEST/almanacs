@@ -150,3 +150,4 @@
 - https://github.com/readme/featured/rust-programming
 - https://blog.m-ou.se/rust-is-not-a-company
 - https://fishrock123.github.io/practical-rust-slides/api-expectations
+- https://dystroy.org/blog/how-not-to-learn-rust

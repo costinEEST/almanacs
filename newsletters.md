@@ -111,6 +111,7 @@
 - [Modern Fi LLC](https://us12.campaign-archive.com/home/?u=63d79e017888d9e2fed9be2aa&id=0ff34cd8d2)
 - [Web3Coach](https://us19.campaign-archive.com/home/?u=0adf077591251fc41bf4c12c9&id=8e4d58de3c)
 - [Joseph Schiarizzi](https://www.getrevue.co/profile/cupojoseph)
+- http://newsletters.vitadao.com
 
 ### Investing
 
@@ -178,6 +179,7 @@
 - [Jon Kuperman](https://buttondown.email/jkup/archive)
 - [Xavier Decuyper](https://newsletter.savjee.be/#archive)
 - [Alex Kondov](https://us2.campaign-archive.com/home/?u=fca75767fa83fa3473478b4ca&id=495bb9068f)
+- [Sébastien Lorber](https://www.getrevue.co/profile/thisweekinreact)
 
 ### Web performance
 

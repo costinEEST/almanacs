@@ -66,7 +66,7 @@
 - https://www.visualisingdata.com/2020/01/explore-explain-a-new-video-and-podcast-series
 - http://www.storytellingwithdata.com/podcast
 
-### Demos
+### Demo
 
 - [Japanese Architectural Heritage](https://twitter.com/AlexanderVar7/status/1215763711496990722)
 - [#dataviz](https://twitter.com/hashtag/dataviz)
@@ -96,6 +96,7 @@
 - [GitLab analysis of OWASP Top 10 changes from 2004 to 1021](https://public.flourish.studio/visualisation/7574790)
 - [mapping climate risks to forest carbon](https://github.com/carbonplan/forest-risks-web)
 - [SSH honeypot -- to visualise key attack stats](https://securehoney.net) + https://twitter.com/SimonByte/status/1409769351478087691
+- https://observablehq.com/@tomlarkworthy/notebooks2021
 
 ### Miscellaneous
 
