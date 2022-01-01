@@ -80,6 +80,7 @@
 - https://www.amazon.com/Christian-Encounter-Muhammad-Theologians-Interpreted/dp/1350191213
 - https://univie.academia.edu/AdrianPirtea
 - [The Bible’s Prehistory, Purpose, and Political Future](https://www.coursera.org/learn/bible-history)
+- https://www.amazon.com/Discipling-Nations-Power-Transform-Cultures/dp/1576582485
 
 ### Geography
 

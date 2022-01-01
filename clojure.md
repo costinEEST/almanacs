@@ -20,3 +20,4 @@
 - https://abacusnoir.blog/2021/02/12/rust-go-clojure
 - https://blog.ngzhian.com/a-history-of-clojure.html
 - https://blog.asciinema.org/post/smaller-faster
+- https://news.ycombinator.com/item?id=23165096

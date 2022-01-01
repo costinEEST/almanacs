@@ -48,6 +48,7 @@
 - https://christoph-rumpel.com/2021/9/the-video-course-launch-that-made-me-belive-in-myself-again
 - [The definitive self-hosted URL shortener](https://github.com/shlinkio/shlink)
 - https://github.com/Cloud-Compiler-API/Cloud-Compiler-API
+- [Velvet is an administration backend for Magento 2, built with React, Typescript, GraphQL and MUI](https://github.com/danslo/velvet)
 
 ### Security
 
@@ -65,6 +66,7 @@
 - https://github.com/flozz/p0wny-shell
 - https://github.com/nettitude/xss_payloads
 - https://kevin.burke.dev/kevin/things-to-use-instead-of-jwt
+- https://bierbaumer.net/security/php-lfi-with-nginx-assistance + https://twitter.com/HolyBugx/status/1475564976198848516
 
 ### Miscellaneous
 

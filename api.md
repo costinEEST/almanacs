@@ -156,3 +156,4 @@ curl v2.wttr.in/Bucharest
 - [A list of software that turns your database into a REST/GraphQL API](https://github.com/dbohdan/automatic-api)
 - https://github.com/jaegeral/security-apis
 - https://github.com/inonshk/31-days-of-API-Security-Tips
+- https://github.com/daffainfo/all-about-apikey + https://api-guesser.netlify.app

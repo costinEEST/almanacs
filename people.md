@@ -128,6 +128,10 @@
 
 - https://www.businessinsider.com/ray-dalio-book-recommendations-for-college-students-and-investors-2019-8
 
+### René Girard
+
+- https://conversationswithtyler.com/episodes/karl-ove-knausgard
+
 ### Rick Hickey
 
 - https://github.com/tallesl/Rich-Hickey-fanclub

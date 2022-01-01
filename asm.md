@@ -10,6 +10,8 @@
 - https://www.youtube.com/playlist?list=PLWMUVtnFsZu6cj_L8NLtePvA7uCgjBH3s
 - https://www.youtube.com/playlist?list=PLWMUVtnFsZu6tA3pja3r7ocQmAmhDQ5cK
 - http://daskunkee.blogspot.com/2020/02/tech-esp32-programming-from-arm64.html
+- https://github.com/Siguza/ios-resources
+- https://github.com/Billy-Ellis/Exploit-Challenges
 
 ### Book
 

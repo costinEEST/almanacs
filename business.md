@@ -173,6 +173,7 @@
 - [Netscape went out of business when it decided to rewrite its browser from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i)
 - https://www.visualcapitalist.com/the-worlds-biggest-startups-top-unicorns-of-2021
 - https://www.notboring.co/p/replit-remix-the-internet
+- https://davidvargas.me/blog/learning_about_teachable
 
 ### Investing
 

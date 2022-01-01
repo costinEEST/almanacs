@@ -264,3 +264,4 @@
 - https://nicholasreese.com/persuasive-storytelling
 - https://www.theatlantic.com/health/archive/2015/08/life-stories-narrative-psychology-redemption-mental-health/400796
 - https://blog.raeez.com/story-telling
+- https://newthinking.tools/bookshelf

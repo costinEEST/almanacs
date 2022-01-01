@@ -74,6 +74,7 @@
 - https://github.com/qazbnm456/awesome-cve-poc
 - https://github.com/allpaca/chrome-sbx-db
 - https://googleprojectzero.blogspot.com/p/0day.html
+- https://github.com/SpiralBL0CK/Browser-Pwning-
 
 ### Extensions
 
