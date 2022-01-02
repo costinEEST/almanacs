@@ -13,6 +13,8 @@
 - [An Introduction to the History of Greek Philosophy. Angie Hobbs, Professor of the Public Understanding of Philosophy explores the history of Greek philosophy.](https://digitalmedia.sheffield.ac.uk/channel/An%20Introduction%20to%20the%20History%20of%20Greek%20Philosophy/67833861)
 - [Philosophy in Practice](https://www.imdb.com/title/tt12479684)
 - https://www.udemy.com/course/filosofia-pe-scurt-1
+- [Exploring Vervaeke's Awakening from the Meaning Crisis | Bevry](https://www.youtube.com/playlist?list=PL68A9KvUGBlpbAfU5sqgTOW-_HpQijEbF) + https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ
+- [Exploring Peterson's Bible Series](https://www.youtube.com/playlist?list=PL68A9KvUGBlo5Ic53iV6o6zasbd4aR-cM)
 
 ### Miscellaneous
 
@@ -38,6 +40,7 @@
 ### Stoicism
 
 - https://figsinwinter.blog/2021/07/30/how-to-live-a-good-life-two-examples
+- https://www.youtube.com/playlist?list=PLAYxecbGotUxSZhQ-Gte_UAMs1RQAckSv
 
 ### Radio
 

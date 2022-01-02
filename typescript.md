@@ -25,6 +25,7 @@
 - [Object Oriented Typescript | Jeff Zhang](https://www.youtube.com/playlist?list=PLn4fTSbSpY5eY_M1mKWxGa9pViEodofKy)
 - https://www.udemy.com/course/typescript-design-patterns
 - https://effectivetypescript.com/2021/12/10/typescript-types-the-first-500-years
+- [No BS TS | Jack Herrington](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
 
 ### Course
 
@@ -34,6 +35,7 @@
 - https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-typescript + https://github.com/glaucia86/curso-typescript-zero-to-hero + https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H
 - https://github.com/ChuckJonas/spotify-fp-ts-example
 - https://github.com/basarat/typescript-for-professionals
+- https://www.udemy.com/course/typescript-with-react-jest-testing + https://www.youtube.com/playlist?list=PLrh-y_cvrt07jehJeFr4o-0dVSDhiy-9f + https://github.com/barosanuemailtest/ts-course-react
 
 ### Community
 

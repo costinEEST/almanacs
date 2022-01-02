@@ -276,6 +276,7 @@
 - https://changelog.com/posts/when-and-when-not-to-reach-for-redux
 - https://blog.logrocket.com/refactoring-redux-app-to-use-recoil + https://github.com/ohansemmanuel/benutzer/tree/recoil-multiple-user + https://github.com/ohansemmanuel/benutzer/tree/redux-multi-users
 - [7Guis in React](https://github.com/andrewgreenh/7guis)
+- https://www.youtube.com/playlist?list=PLNqp92_EXZBIqX8DWmwmJmxeHiq-Ut4W1
 
 
 ### Preact
@@ -397,6 +398,7 @@
 - https://github.com/kentcdodds/react-testing-library-examples
 - [Fast is beautiful and Jest is much faster than Cypress. Cypress gives you ultimate confidence when shipping. Jest gives you rapid feedback during development.](https://twitter.com/MaOberlehner/status/1372182887462793218)
 - https://github.com/ahmadnassri/i-jest-you-not + https://twitter.com/AhmadNassri/status/1375094293917003780
+- [React.js Unit Testing and Integration Testing Tutorial | Bruno Antunes](https://www.youtube.com/playlist?list=PLYSZyzpwBEWTBdbfStjqJSGaulqcHoNkT)
 
 ### Tooling
 

@@ -98,6 +98,8 @@
 - https://github.com/ksluckow/awesome-symbolic-execution
 - https://lemire.me/blog/2021/11/30/can-you-safely-parse-a-double-and-then-cast-to-a-float
 - https://github.com/NullProgrammer/File-Handling
+- [Const correctness in C/C++](https://yurichev.com/news/20211202_const)
+- [Why memcpy/strcpy/strcat return a value?](https://yurichev.com/news/20211227_strcpy_etc)
 
 ### Security
 

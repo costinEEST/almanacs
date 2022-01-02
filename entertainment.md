@@ -260,6 +260,7 @@
 - https://xsrus.com/good-books-on-education
 - https://github.com/obensource/little-kiddo-learning
 - https://github.com/iharh/notes/tree/master/child
+- https://www.youtube.com/playlist?list=PLYVl5EnzwqsSR1KFlOnsG0uSKLN5ai_1w
 
 ### Mindfulness
 
