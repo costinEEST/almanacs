@@ -419,3 +419,4 @@
 - https://javascript.plainenglish.io/10-ways-to-host-your-react-app-for-free-cf91fe615177
 - https://www.tpjnorton.com/blog/posts/next-js-12-performance-test-builds-appear-to-be-slower-not-faster
 - https://devtails.xyz/how-to-set-up-server-side-rendering-ssr-with-react-and-esbuild
+- https://datastation.multiprocess.io/blog/2021-11-13-benchmarking-esbuild-swc-typescript-babel.html + https://github.com/multiprocessio/react-benchmark-generator

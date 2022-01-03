@@ -63,6 +63,7 @@
 - https://github.com/att/docker-forensics
 - https://nemethgergely.com/blog/you-might-not-need-homebrew
 - https://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html
+- [Waiting for dependencies in tests](https://www.vegardstikbakke.com/dependencies/)
 
 ### Kubernetes
 
@@ -106,6 +107,7 @@
 - https://github.com/diegolnasc/kubernetes-best-practices
 - https://blog.softwheel.io/what-is-under-the-hood-of-kubernetes-1
 - https://github.com/knrt10/kubernetes-basicLearning
+- https://thundergolfer.com/kubernetes/infrastructure/data-engineering/2021/11/04/from-data-eng-to-sys-admin-put-down-k8s/ + https://twitter.com/bernhardsson/status/1458073746124812289
 
 ### Servers
 

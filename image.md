@@ -33,6 +33,7 @@
 - [Generate pretty images of code](https://github.com/stevebauman/showcode)
 - https://itnext.io/getting-image-metadata-exif-using-node-js-bd14aeee981d
 - [An image processing library for Node written entirely in JavaScript, with zero native dependencies](https://github.com/oliver-moran/jimp)
+- [API for extracting a table from an image or a PDF](https://github.com/vegarsti/extract-table)
 
 
 ### Photos

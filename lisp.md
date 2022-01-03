@@ -1,8 +1,9 @@
-### Books
+### Book
 
 - https://github.com/ashok-khanna/common-lisp-by-example
 - https://github.com/lambda-magic/plt-books/tree/master/Lisp
 - https://twitter.com/lukego/status/632450443566780416
+- https://notes.eatonphil.com/book-review-ansi-common-lisp.html
 
 ### Tools
 

@@ -17,6 +17,7 @@
 - [Sveltecasts](https://www.youtube.com/channel/UCIfNB1TN_Wh40hMh62Hcitw)
 - [Cypress Component Testing for Svelte - gleb bahmutov](https://www.youtube.com/playlist?list=PLP9o9QNnQuAa50lwW3cUql5sgdKIWkapp)
 - https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte
+- https://twitter.com/lihautan/status/1478006391675707392 + https://www.youtube.com/playlist?list=PLoKaNN3BjQX0Ch8C6XHjG4K1Q75ugf6yG
 
 ### Development
 

@@ -382,6 +382,7 @@
 - https://blog.superhuman.com/how-to-eliminate-regular-expression-denial-of-service + https://speakerdeck.com/lmt_swallow/revisiting-redos-a-rough-idea-of-data-exfiltration-by-redos-and-side-channel-techniques + https://twitter.com/y0n3uchy/status/1225008844809486336
 - [Build a habit of using search() or match() functions of String, when working with global regexes, instead of relying on test()](https://blog.rebased.pl/2021/03/16/a-regular-expression-surprise-in-javascript.html)
 - https://github.com/jawj/web-scraping-for-researchers
+- https://twitter.com/garethheyes/status/1469011117133418500
 
 ### IndexDB
 

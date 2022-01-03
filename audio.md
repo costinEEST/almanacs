@@ -59,7 +59,7 @@
 - https://github.com/bryanjenningz/record-audio
 - [A mini Spotify player with WebGL visualizations](https://github.com/dvx/lofi)
 - [How I organise and import new music](https://blog.vararu.org/new-music)
-
+- https://www.flyingcroissant.ca/making-playlists
 
 ### Security
 

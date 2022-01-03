@@ -85,6 +85,7 @@
 - https://akshayr.me/blog/articles/python-dictionaries
 - [K-d Tree in Python - Tsoding](https://www.youtube.com/playlist?list=PLguYJK7ydFE7R7KqRRVXw23kOrn6jiwqi)
 - [Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures](https://github.com/MTrajK/coding-problems)
+- https://github.com/thundergolfer/interview-with-python
 
 ### Development
 

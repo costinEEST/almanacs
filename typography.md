@@ -52,6 +52,7 @@
 ### History
 
 - https://www.women-in-type.com
+- [Does anyone know why 16px became the default font-size adopted by browsers?](https://twitter.com/hj_chen/status/1476100972799676417)
 
 ### Tools
 

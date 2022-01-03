@@ -13,6 +13,7 @@
 - https://github.com/PacktPublishing/Creative-DIY-Microcontroller-Projects-with-TinyGo-and-WebAssembly
 - https://tumregels.github.io/Network-Programming-with-Go
 - [How the tactical design patterns from Domain Driven Design may be implemented in Go](https://github.com/marcusolsson/goddd)
+- https://github.com/teh-cmc/go-internals
 
 ### Boots
 

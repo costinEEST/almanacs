@@ -71,6 +71,7 @@
 - [SQL Tutorial for Beginners by Ben Awad](https://twitter.com/benawad/status/1217109321902850048)
 - https://www.deconstructconf.com/2018/jumana-bahrainwala-how-to-scale-relational-database-migrations
 - [RethinkDB | Eric Bell](https://www.youtube.com/playlist?list=PLB8JqSBrZCVEG0_KFbzPtFlwhXUFEFwoh)
+- https://github.com/mitchellh/advent-2021-sql + https://www.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd
 
 ### Radio
 

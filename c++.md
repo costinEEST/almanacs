@@ -48,9 +48,10 @@
 - https://github.com/tobanteAudio/juce-cookbook
 - https://github.com/MattPD/cpplinks
 
-### Implementations
+### Implementation
 
 - https://github.com/ssloy/tinyrenderer/wiki
+- https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html
 
 ### Opinions
 

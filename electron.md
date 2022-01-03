@@ -1,4 +1,4 @@
-### Tools
+### Tool
 
 - [A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl.](https://github.com/mayeaux/videodownloader)
 - [An example Electron app with a backend server all wired up via IPC.](https://github.com/jlongster/electron-with-server-example)
@@ -34,6 +34,7 @@
 - https://gitlab.com/keraf/electron-web-com-poc
 - [An extensible desktop mail app built on the modern web](https://github.com/nylas/nylas-mail)
 - [Menubar app that shows dollar to peruvian sol exchange rate](https://github.com/cristianbgp/electron-dollarpe)
+- [web-based MS Paint remake](https://github.com/1j01/jspaint)
 
 ### Boilerplates
 
@@ -46,6 +47,7 @@
 
 - https://getloaf.io/blog/why-i-chose-electronjs
 - https://www.nearform.com/blog/architecting-electron-applications-for-60fps
+- https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html
 
 ### Security
 

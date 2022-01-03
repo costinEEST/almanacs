@@ -36,3 +36,7 @@
 - [gem for determining whether a given URL is considered an IDN homograph attack](https://github.com/kickstarter/ruby-homograph-detector)
 - https://github.com/a6b8/ascii-to-svg-generator-for-ruby
 - [Download an entire website from the Wayback Machine](https://github.com/hartator/wayback-machine-downloader)
+
+### Security
+
+- https://twitter.com/snyff/status/1477809743431303168

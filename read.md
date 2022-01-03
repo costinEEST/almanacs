@@ -32,6 +32,7 @@
 - https://goula.sh/days/2021-03-26
 - https://cri.dev/posts/2021-02-09-my-reading-stack-miniflux-rss-pocket
 - [Turn any web page into a clean view](https://github.com/luin/readability)
+- [Command line interface for Goodreads](https://github.com/thundergolfer/goodreads-sh)
 
 ### Review
 
