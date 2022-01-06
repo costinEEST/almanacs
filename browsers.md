@@ -329,6 +329,7 @@ javascript: (() =>
 - https://www.linkedin.com/pulse/200-unsolicited-seo-tips-mark-williams-cook
 - [The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
 - https://ahrefs.com/blog/seo-glossary
+- https://www.youtube.com/playlist?list=PLs0HJRuXPAqsj9fxpr8eJdJxCT2fN_G8S
 
 ### Web Real-Time Communication (WebRTC)
 
