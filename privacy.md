@@ -122,6 +122,9 @@
 - https://theconversation.com/how-hackers-can-use-message-mirroring-apps-to-see-all-your-sms-texts-and-bypass-2fa-security-165817
 - https://pressone.ro/cum-e-sa-fii-survivalist-in-romania-fiul-meu-are-sase-ani-si-are-cutit-de-la-trei-ani
 - https://github.com/undergroundwires/privacy.sexy
+- [Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article](https://12ft.io)
+- [A directory of direct links to delete your account from web services](https://backgroundchecks.org/justdeleteme)
+- [Digital Security for Filmmakers](https://digitalsecurity.film)
 
 ### Social media
 

@@ -43,6 +43,11 @@
 - https://www.slideshare.net/ericschmidt/trillion-dollar-coach-book-bill-campbell
 - https://www.trilliondollarcoach.com
 
+### Bhagwan Shree Rajneesh
+
+- https://www.speakbindas.com/books-i-have-loved-a-list
+- https://medium.com/anecdotes/oshos-top-5-book-recommendations-6f81c3f4ef9
+
 ### Claude Shannon
 
 - https://www.amazon.com/Bit-Player-John-Hutton/dp/B08D291YQS
@@ -152,6 +157,10 @@
 ### Edsger W. Dijkstra
 
 - https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders
+
+### Edward Osborne Wilson
+
+- https://inquisitivebiologist.com/2022/01/07/book-review-scientist-e-o-wilson-a-life-in-nature
 
 ### Ryan Holiday
 

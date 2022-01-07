@@ -16,6 +16,7 @@
 - [When Topology Meets Chemistry: A Topological Look at Molecular Chirality | Erica Flapan](https://www.amazon.com/When-Topology-Meets-Chemistry-Topological/dp/0521664829)
 - https://twitter.com/IBchemmilam/status/1458952437360910340
 - https://www.amazon.com/Elements-Visual-Exploration-Every-Universe-ebook/dp/B011IZNWZU + https://www.amazon.com/Molecules-Architecture-Everything-Theodore-Gray-ebook/dp/B01FRASA5O + https://www.amazon.com/Reactions-Illustrated-Exploration-Elements-Molecules-ebook/dp/B01N6ZBGUB
+- [Coloring the Cosmetic World: Using Pigments in Decorative Cosmetic Formulations | Edwin B. Faulkner](https://www.wiley.com/en-ie/Coloring+the+Cosmetic+World:+Using+Pigments+in+Decorative+Cosmetic+Formulations,+2nd+Edition-p-9781119558101)
 
 ### Cinema
 

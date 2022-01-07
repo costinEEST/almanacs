@@ -15,6 +15,7 @@
 - https://www.cetola.net/2017/11/12/electronics-for-the-autodidactic
 - [how cars works](https://www.sae.org/publications/books/content/bosch10)
 - https://github.com/ReversingID/Awesome-Reversing/blob/master/_hardware.md
+- [The Pinouts Book is a quick reference for remembering the different pinout functions in your electronics projects](https://pinouts.org)
 
 ### Cinema
 

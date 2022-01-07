@@ -24,6 +24,7 @@
 - [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux) + https://news.ycombinator.com/item?id=26002335
 - https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation
 - https://www.freecodecamp.org/news/linux-essentials-for-hackers
+- https://www.udemy.com/course/concepts-of-operating-systems
 
 ### Cronjob
 

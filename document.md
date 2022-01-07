@@ -21,3 +21,4 @@
 ### Security
 
 - https://github.com/corkami/docs
+- https://ceres-c.it/2021/11/21/DRM-reversing

@@ -32,6 +32,7 @@
 - https://github.com/fastred/Optimizing-Swift-Build-Times
 - [A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics (Face & Touch ID) and MVVM Architecture.](https://github.com/sameersyd/Expenso-iOS)
 - [SwiftUI + SceneKit + Lidar](https://github.com/rom4in/scenemesh)
+- https://medium.com/async/a-react-native-engineer-builds-a-swiftui-app-the-good-the-bad-and-the-bee871bb9baa + https://github.com/computerjazz/computers-and-jazz
 
 ### Practice
 

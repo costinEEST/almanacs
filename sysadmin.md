@@ -108,6 +108,7 @@
 - https://blog.softwheel.io/what-is-under-the-hood-of-kubernetes-1
 - https://github.com/knrt10/kubernetes-basicLearning
 - https://thundergolfer.com/kubernetes/infrastructure/data-engineering/2021/11/04/from-data-eng-to-sys-admin-put-down-k8s/ + https://twitter.com/bernhardsson/status/1458073746124812289
+- https://joshgav.github.io/2021/12/16/kubernetes-isnt-about-containers.html
 
 ### Servers
 

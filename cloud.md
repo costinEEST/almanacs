@@ -42,6 +42,7 @@
 - http://ramimac.me/security/syndicated/cloudsec/extended-aws-security-ramp-up
 - https://www.freecodecamp.org/news/amazon-virtual-private-cloud-course
 - https://www.udemy.com/course/containercrashcourse
+- https://aws.amazon.com/blogs/opensource/security-features-of-bottlerocket-an-open-source-linux-based-operating-system
 
 ### Azure
 

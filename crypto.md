@@ -14,7 +14,7 @@
 
 - https://www.seancassidy.me/how-to-implement-crypto-poorly.html
 
-### Books
+### Book
 
 - https://github.com/nakov/Practical-Cryptography-for-Developers-Book
 - [A Graduate Course in Applied Cryptography (Rev 2020)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf) + https://toc.cryptobook.us
@@ -25,6 +25,7 @@
 - [Concrete Abstract Algebra by Niels Lauritzen](https://twitter.com/morpheu5/status/1376166695988039682)
 - https://www.amazon.com/Battle-Wits-Complete-Story-Codebreaking/dp/0743217349
 - https://www.amazon.com/Memoirs-American-Cryptologic-Pioneer-Cryptography/dp/0894122738
+- [An Intensive Introduction to Cryptography | Boaz Barak](https://github.com/boazbk/crypto) + https://cnchou.github.io/resources
 
 ### Course
 

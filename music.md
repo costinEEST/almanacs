@@ -98,6 +98,7 @@
 - https://faroutmagazine.co.uk/george-harrison-the-beatles-20-best-songs
 - https://laughingsquid.com/how-paul-mccartney-composed-get-back
 - https://www.rollingstone.com/music/music-lists/best-spanish-language-albums-2021-1269982
+- https://getpocket.com/collections/the-backstories-behind-your-favorite-christmas-songs
 
 ### Jazz
 

@@ -15,6 +15,7 @@
 * https://chrissanders.org/2019/05/infosec-mental-models
 * https://www.youtube.com/playlist?list=PLoKM3Qfxoe0nI7MxT0UWA5cXcYRD1-EO2
 * https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks
+* https://media.ccc.de/v/denog13-12067-enhancing-ping-and-traceroute
 
 ### Book
 
@@ -151,6 +152,7 @@
 - [c-ares: asynchronous DNS resolver library](https://github.com/danbev/learning-cares)
 - https://madaidans-insecurities.github.io/encrypted-dns.html
 - https://nelsonslog.wordpress.com/2021/12/16/underscore-dns-queries + [Mess with DNS](https://news.ycombinator.com/item?id=29568510)
+- https://nelsonslog.wordpress.com/2022/01/06/mdns-hostname-local-and-wsl2
 
 ### TCP/UDP
 

@@ -6,7 +6,7 @@
 - [Watchly - Ecommerce UI Kit - DEMO Screens](https://gumroad.com/l/fRODT)
 - [The Design Encyclopedia – Figma UI Kit & Design System](https://www.designencyclopedia.io)
 
-### Courses
+### Course
 
 - [The Complete Figma UX/UI App Design Course - Selfstudy Space](https://www.youtube.com/playlist?list=PLFW6ct83_wC-2m1zPcJr6NBaH-7WVC87G) + https://www.claydesk.com/courses/figma-app-design
 - [Learn Figma for UX/UI Design master course - Selfstudy Space](https://www.youtube.com/playlist?list=PLFW6ct83_wC_N-IrrU60lH4G0dV6u1B4n)
@@ -21,6 +21,7 @@
 - https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma
 - https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma
 - https://www.udemy.com/course/learn-figma-ui-ux
+- https://www.freecodecamp.org/news/ui-design-with-figma-tutorial
 
 ### Cinema
 

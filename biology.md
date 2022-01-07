@@ -104,6 +104,7 @@
 - https://www.slashgear.com/mits-latest-glowing-plants-pave-the-way-for-passive-lighting-in-smart-cities-20691625
 - [3d engine implementation in DNA code](https://github.com/pallada-92/dna-3d-engine)
 - https://github.com/bakirillov/awesome-underinvestigated-biology
+- [Curation of an international drug proprietary names dataset](https://www.sciencedirect.com/science/article/pii/S2352340921009768) + https://www.nlm.nih.gov/research/umls/rxnorm/index.html
 
 
 ### Teachers
