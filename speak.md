@@ -186,6 +186,7 @@
 - [Drawing area widget for Anki to practice Kanji writing](https://github.com/pigoz/anki-canvas)
 - https://github.com/migaku-official/Migaku-Japanese-Addon
 - https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-English/dp/4789014401
+- https://www.anomiseditrix.net/japanese-through-onomatopoeia
 
 ### Korean
 

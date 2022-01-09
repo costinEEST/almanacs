@@ -97,6 +97,8 @@
 - [mapping climate risks to forest carbon](https://github.com/carbonplan/forest-risks-web)
 - [SSH honeypot -- to visualise key attack stats](https://securehoney.net) + https://twitter.com/SimonByte/status/1409769351478087691
 - https://observablehq.com/@tomlarkworthy/notebooks2021
+- [Grafice Covid-19 in Romania](https://www.graphs.ro)
+- [sicap.ai: Motor de cautare pentru contrctele de achizitii publice](https://github.com/ciocan/sicap.ai)
 
 ### Miscellaneous
 

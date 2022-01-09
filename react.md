@@ -159,6 +159,7 @@
 - https://jeffchen.dev/posts/Detecting-Widows-In-React
 - https://github.com/jxom/awesome-react-headless-components
 - [A component that copies some text to the clipboard when it is clicked.](https://gist.github.com/alexanderson1993/8538c0f408227bc6f7e95a34f8b35944) + https://twitter.com/ralex1993/status/1354908479652327427
+- [picture fallback system for all devices all file types all resolutions and shows them accordingly depending on how many breakpoints you supply ](https://gist.github.com/jeffscottward/eebcdf31493d9e14b18e374c999172f9)
 
 ### Pattern
 
