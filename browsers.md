@@ -199,6 +199,8 @@
 - [Add support for a StreamDeck to Google Meet using WebHID](https://github.com/petele/StreamDeck-Meet)
 - https://github.com/mattchep/bofa-allow-paste-extension
 - https://github.com/jsjoeio/timezoner-extension
+- [Fill in login forms using an OpenPGP-enabled smart card](https://github.com/fmeum/smart-pass)
+- [Import .ics files into Google Calendar with only two clicks](https://github.com/fmeum/ics2gcal)
 
 ### Bookmarklets
 
@@ -449,3 +451,4 @@ javascript: (() =>
 - https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
 - https://github.com/diafygi/webcrypto-examples
 - [Bring your own filesystem, a javascript library that allows users to connect their own data storage backend to your webapp](https://github.com/diafygi/byoFS)
+- [Embed any file into an encrypted, self-decrypting HTML file](https://github.com/fmeum/polysafe)

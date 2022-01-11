@@ -174,6 +174,7 @@
 
 ### Solana
 
+- [How to start in Web3 hacking on Rust-based chains?](https://twitter.com/timurguvenkaya/status/1475843660994523139)
 - https://www.theblockcrypto.com/post/117205/anatoly-yakovenko-unpacks-solanas-rise-memes-and-nft-snafus
 - https://blog.neodyme.io/posts/solana_common_pitfalls
 - https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction

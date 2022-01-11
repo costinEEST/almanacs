@@ -75,6 +75,10 @@
 - https://github.com/openfoodfacts/openfoodfacts-python
 - [A modern DICOM visualizer powered by Sethealth](https://github.com/sethealth/openviewhealth)
 
+### JSON
+
+- https://github.com/jdorfman/awesome-json-datasets
+
 ### Weather
 
 - Get the weather from terminal

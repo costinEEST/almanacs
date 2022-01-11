@@ -21,6 +21,7 @@
 
 - [Chiu-Ki Chan](http://chiuki.github.io)
 - https://github.com/Nickersoft/awesome-careers#android-engineer
+- [Pierre-Yves Ricau](https://twitter.com/Piwai/status/1476962698982264838)
 
 ### Course
 
@@ -59,6 +60,7 @@
 
 ### Development
 
+־ [Find Android sources](https://github.com/pyricau/androidsrc)
 - [Return the dimensions of the Window.](https://twitter.com/jlongster/status/1220364760316895233)
 - [How are you distributing your android app bundle? app.aab?](https://twitter.com/sseraphini/status/1220304089462067200)
 - [Building an Android App from the Command Line](https://www.hanshq.net/command-line-android.html)
