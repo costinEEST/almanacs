@@ -75,12 +75,14 @@
 - https://github.com/Igglybuff/awesome-piracy#windows-10-privacy
 - https://gist.github.com/mackwage/08604751462126599d7e52f233490efe + https://twitter.com/dragosr/status/1259482957166731264
 
-### Active directory
+### Active Directory (AD)
 
 - https://identityaccess.management/2019/12/30/active-directory-security-fundamentals
 - https://github.com/infosecn1nja/AD-Attack-Defense
 - https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 - [WADComs - Interactive cheatsheet for Windows AD Environments](https://github.com/WADComs/WADComs.github.io)
+- https://github.com/cfalta/adsec + https://twitter.com/cfalta/status/1388928018886938630
+- https://twitter.com/M4yFly/status/1437453135883157504 + https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap
 
 ### Opinions
 

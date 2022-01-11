@@ -98,3 +98,4 @@
 - https://github.com/madebygps/self-taught-guide-to-cloud-computing
 - https://twitter.com/beyang/status/1436798738337468416 + https://www.reddit.com/r/selfhosted/comments/pm8505/investing_in_selfhosted_application_developers
 - https://github.com/joedicastro/vps-comparison
+- https://github.com/dafthack/CloudPentestCheatsheets

@@ -16,6 +16,7 @@
 - https://github.com/snoopysecurity/awesome-burp-extensions
 - https://github.com/clr2of8/GatherContacts
 - https://medium.com/csg-govtech/proxy-agent-a-tool-for-mobile-penetration-testers-a9796e99f3ca
+- https://github.com/six2dez/burp-bounty-profiles
 
 ### Cinema
 

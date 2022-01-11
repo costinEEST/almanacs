@@ -115,6 +115,10 @@
 - https://www.logsign.com/blog/warxing-in-cyber-security
 - [Cellular | cemaxecuter](https://www.youtube.com/playlist?list=PLXjRrYsXOd9fJZbM-k2M_SaBmRGMsJS2u)
 
+### 3G
+
+- https://twitter.com/matthew_d_green/status/1405169181880893447 + https://eprint.iacr.org/2021/819
+
 ### 5G
 
 - https://ieeetv.ieee.org/conference-highlights/integrated-access-and-backhaul-in-5g-navid-abedini-ieee-sarnoff-symposium-2019
@@ -132,7 +136,7 @@
 - https://samy.pl/slipstream + https://twitter.com/samykamkar/status/1322671073893126144 + https://youtu.be/1Ajwdb2kqWk + https://youtu.be/8cXOERg-soY
 - [get an IP in a geographical location or country](https://www.netmeister.org/gip)
 
-### Domain Name System
+### Domain Name System (DNS)
 
 - [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-dns-servers
@@ -153,6 +157,8 @@
 - https://madaidans-insecurities.github.io/encrypted-dns.html
 - https://nelsonslog.wordpress.com/2021/12/16/underscore-dns-queries + [Mess with DNS](https://news.ycombinator.com/item?id=29568510)
 - https://nelsonslog.wordpress.com/2022/01/06/mdns-hostname-local-and-wsl2
+- [A "malicious" DNS server for executing DNS Rebinding attacks on the fly](https://github.com/brannondorsey/whonow)
+- https://github.com/indianajson/can-i-take-over-dns
 
 ### TCP/UDP
 
@@ -180,6 +186,8 @@
 - https://github.com/GrrrDog/weird_proxies
 - https://github.com/mattiasgrenfeldt/bachelors-thesis-http-request-smuggling
 - [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) + https://twitter.com/albinowax/status/1455825085261127686
+- https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en + https://github.com/ZeddYu/HTTP-Smuggling-Lab
+
 
 ### HTTP headers
 
@@ -204,6 +212,8 @@
 - https://dewcode.medium.com/finding-bugs-at-limited-scopes-programs-single-domain-websites-d3c2ff396edf
 - https://github.com/pfrazee/http-template-literal
 - https://pokeinthe.io/2021/09/13/cache-control-recommendations + https://twitter.com/CubicleApril/status/1437466733762256901
+- [Cache Me If You Can: Messing with Web Caching](https://twitter.com/ldionmarcil/status/1137024673894490113)
+
 
 ### HTTPS
 
@@ -272,6 +282,7 @@
 - https://medium.com/@stestagg/stealing-secrets-from-developers-using-websockets-254f98d577a0
 - https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278
 - [low latency, high throughput load balancer for real time stock market trade feed (using polygon.io websocket API)](https://matt.sh/load-balance-trades)
+- https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io
 
 ### P2P
 

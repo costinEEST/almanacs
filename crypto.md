@@ -63,7 +63,7 @@
 - https://cheapskatesguide.org/articles/encrypted-email.html
 - https://unix-ninja.com/p/attacking_google_authenticator + https://twitter.com/adam_baldwin/status/1341470342666014720
 
-### Transport Layer Security
+### Transport Layer Security (TLS)
 
 - https://github.com/trimstray/nginx-admins-handbook/blob/master/doc/SSL_TLS_BASICS.md
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-certificate-authority
@@ -76,6 +76,7 @@
 - [Project for learning about OpenSSL.](https://github.com/danbev/learning-libcrypto)
 - [Matt's Let's Encrypt Automation](https://github.com/mattsta/lematt)
 - [TLS Mastery](https://news.ycombinator.com/item?id=26760032)
+- https://www.feistyduck.com/books
 
 ### References
 

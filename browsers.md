@@ -277,7 +277,7 @@ javascript: (() =>
 - https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices
 - https://github.com/onsecru/cors_playground
 
-### Cookies
+### Cookie
 
 - [SameSite=Lax](https://twitter.com/RenwaX23/status/1206475064125853696)
 - https://www.troyhunt.com/promiscuous-cookies-and-their-impending-death-via-the-samesite-policy
@@ -288,6 +288,8 @@ javascript: (() =>
 - [Browser fingerprinting via favicon!](https://github.com/jonasstrehle/supercookie)
 - [Exploring the SameSite cookie attribute for preventing CSRF](https://simonwillison.net/2021/Aug/3/samesite)
 - https://github.com/defaultnamehere/cookie_crimes
+- https://jub0bs.com/posts/2021-01-29-great-samesite-confusion
+- https://github.com/iangcarroll/cookiemonster
 
 ### Federated Learning of Cohorts
 

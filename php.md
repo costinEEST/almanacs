@@ -67,6 +67,7 @@
 - https://github.com/nettitude/xss_payloads
 - https://kevin.burke.dev/kevin/things-to-use-instead-of-jwt
 - https://bierbaumer.net/security/php-lfi-with-nginx-assistance + https://twitter.com/HolyBugx/status/1475564976198848516
+- https://community.sonarsource.com/t/code-security-advent-calendar-2021/53927
 
 ### Miscellaneous
 
