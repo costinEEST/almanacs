@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - https://blas.com/tag/edward-tufte
 - https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910
@@ -28,7 +28,7 @@
 - [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/z3tt/OutlierConf2021)
 - https://laughingsquid.com/ten-tallest-skyscrapers
 
-### Courses
+### Course
 
 - https://github.com/ProjectBasedLearning/resources
 - [W209 Information Visualization course of the Masters in Data Science at UC Berkeley](https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) + https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides
@@ -99,6 +99,7 @@
 - https://observablehq.com/@tomlarkworthy/notebooks2021
 - [Grafice Covid-19 in Romania](https://www.graphs.ro)
 - [sicap.ai: Motor de cautare pentru contrctele de achizitii publice](https://github.com/ciocan/sicap.ai)
+- https://github.com/prathyvsh/knowledge-atlases
 
 ### Miscellaneous
 

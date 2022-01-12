@@ -100,6 +100,8 @@
 - https://chainguard.dev/posts/2021-12-01-zero-friction-keyless-signing
 - [HTML Preview for GitHub Repositories](https://github.com/htmlpreview/htmlpreview.github.com)
 - https://datastation.multiprocess.io/blog/2021-12-16-sqlserver-in-github-actions.html
+- https://github.com/erezrokah/2fa-with-slack-action + https://twitter.com/seldo/status/1230184614632640517
+- https://github.com/yangshun/delete-github-forks
 
 ### Tool
 

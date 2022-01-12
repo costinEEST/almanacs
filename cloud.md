@@ -43,6 +43,7 @@
 - https://www.freecodecamp.org/news/amazon-virtual-private-cloud-course
 - https://www.udemy.com/course/containercrashcourse
 - https://aws.amazon.com/blogs/opensource/security-features-of-bottlerocket-an-open-source-linux-based-operating-system
+- https://dabase.com/blog/2016/DevOps_evolution
 
 ### Azure
 

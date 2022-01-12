@@ -130,6 +130,7 @@
 - https://github.com/yiailake/book#javascript
 - [Cracking the Coding Interview 6th Ed. JavaScript ES2015 Solutions](https://github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015)
 - https://github.com/coodict/javascript-in-one-pic
+- https://github.com/madhank93/js-mindmap
 
 ### Course
 

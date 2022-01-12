@@ -16,6 +16,7 @@
 - [how cars works](https://www.sae.org/publications/books/content/bosch10)
 - https://github.com/ReversingID/Awesome-Reversing/blob/master/_hardware.md
 - [The Pinouts Book is a quick reference for remembering the different pinout functions in your electronics projects](https://pinouts.org)
+- https://galaxy.opensyllabus.org/#!search/works/electronics
 
 ### Cinema
 
@@ -67,6 +68,7 @@
 - http://www.udemy.com/wireless-power-to-the-people-wireless-charging-101/?couponCode=YOUTUBE
 - https://github.com/Besnn/computer-science-and-computer-engineering-books-and-resources
 - https://github.com/trevor-vincent/awesome-high-performance-computing
+- https://galaxy.opensyllabus.org/#!search/courses/electronics
 
 ### Chip
 

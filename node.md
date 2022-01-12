@@ -54,7 +54,6 @@
 - [API library for Node.js that interacts with the Philips Hue Bridge to control Lights, schedules, sensors and the various other features of the Hue Bridge.](https://github.com/peter-murray/node-hue-api)
 - [A serverless wrapper for the private Notion API. It provides fast and easy access to your Notion content. Ideal to make Notion your CMS.](https://github.com/splitbee/notion-api-worker)
 - https://github.com/afteracademy/nodejs-backend-architecture-typescript
-- [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
 - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design + https://news.ycombinator.com/item?id=26225373
 - [Instagram clone made with NodeJS & Express & Prisma](https://github.com/filippobarcellos/instagram-clone-api)
 - [Why Bedrock uses Prisma as its ORM](https://bedrock.mxstbr.com/tools/prisma)
@@ -109,7 +108,7 @@
 
 ### Boilerplate
 
-- https://github.com/microsoft/nodejs-guidelines
+- https://github.com/bcoe/awesome-cross-platform-nodejs
 - https://github.com/microsoft/TypeScript-Node-Starter
 - https://github.com/juicycleff/ultimate-backend
 - [How to start a Node.js project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
@@ -180,6 +179,7 @@
 ### Command line
 
 - [can't find where you put that console.log?](https://twitter.com/davidmarkclem/status/1455850282294915074)
+- [package-lock.json](https://twitter.com/izs/status/1480992076737118209)
 
 ### Cheat sheets
 
@@ -313,7 +313,6 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Visualization of npm shows dependency graph of an npm package.](https://github.com/anvaka/npmgraph.an)
 - [CLI utility for displaying current network utilization by process, connection and remote IP/hostname.](https://twitter.com/mikeal/status/1217554555350798339)
 - https://github.com/justjavac/awesome-node-utils
-- https://github.com/bcoe/awesome-cross-platform-nodejs + https://github.com/ehmicky/cross-platform-node-guide
 - Zero-dependency HTTP responders: [tweet](https://twitter.com/juliangruber/status/1222120717367611392) + [repo](https://github.com/juliangruber/http-responders)
 - [Prefer cwd instead of \_\_dirname when configuring your Webpack.](https://twitter.com/sseraphini/status/1232667049949880320)
 - [Node.js library to bypass cloudflare's anti-ddos page.](https://github.com/codemanki/cloudscraper)
@@ -364,6 +363,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Node-dev is a development tool for Node.js that automatically restarts the node process when a file is modified](https://github.com/fgnass/node-dev)
 - [utility library to create and run Advent of Code solutions](https://github.com/caderek/aocrunner)
 - [Fetch source-mapped sources. Peek by file, line, column. Node & browsers. Sync & async](https://github.com/xpl/get-source)
+- [repo that is written in ESM and uses Rollup to transpile to CJS (including tests)](https://twitter.com/MylesBorins/status/1481138550481502211)
 
 ### Testing
 

@@ -33,7 +33,7 @@
 - https://github.com/amitshekhariitbhu/awesome-android-complete-reference
 - https://github.com/androiddevnotes/awesome-android-learning-resources
 
-### Tools
+### Tool
 
 - Using a DigiSpark(Cheaper alternative to using an Arduino Uno) to interact with a mobile device
   : [tweet](https://twitter.com/G1nGe98/status/1183016558773391360) + [slides](https://docs.google.com/presentation/d/1F2h3bIF_D1AEGeG0boCobnBshI9gEzmN9TlSWq_ONpw/edit#slide=id.g62eed3bf43_0_106)
@@ -52,6 +52,7 @@
 - https://github.com/robertying/openssl-curl-android
 - [The Android Device Database](http://newandroidbook.com/ddb)
 - [web app to generate a generic privacy policy for your Android/iOS apps](https://github.com/nisrulz/app-privacy-policy-generator)
+- https://github.com/google/android-emulator-container-scripts
 
 ### APIs
 

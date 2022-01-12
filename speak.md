@@ -15,6 +15,7 @@
 - https://yonatanmatanyah.wordpress.com/category/learning-hebrew
 - http://nosolosoftware.com/how-i-learned-the-nato-phonetic-alphabet
 - https://www.danielde.dev/blog/surprising-shared-word-etymologies 
+- [Interactive graph to discover the origin of the words](https://github.com/franloza/etygraph) + https://twitter.com/eduardoboucas/status/1389508646212706306
 
 ### Cinema
 

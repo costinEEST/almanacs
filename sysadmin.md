@@ -123,6 +123,7 @@
 
 ### References
 
+- https://www.igmguru.com/cloud-computing/devops-certification-training
 - https://github.com/Tikam02/DevOps-Guide
 - https://github.com/trimstray/test-your-sysadmin-skills
 - https://github.com/binhnguyennus/awesome-scalability

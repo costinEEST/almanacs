@@ -201,6 +201,7 @@
 - https://github.com/jsjoeio/timezoner-extension
 - [Fill in login forms using an OpenPGP-enabled smart card](https://github.com/fmeum/smart-pass)
 - [Import .ics files into Google Calendar with only two clicks](https://github.com/fmeum/ics2gcal)
+- https://github.com/Anarios/return-youtube-dislike
 
 ### Bookmarklets
 
@@ -375,6 +376,7 @@ javascript: (() =>
 - https://github.com/mattdesl/workshop-generative-art
 - https://github.com/psenough/teach_yourself_demoscene_in_14_days
 - [procedurally generated fish drawings](https://github.com/LingDong-/fishdraw)
+- https://github.com/bubkoo/html-to-image
 
 ### WebGL
 

@@ -128,7 +128,7 @@
 - https://www.wezm.net/v2/posts/2020/100-rust-binaries
 - https://ahal.ca/blog/2021/ls-replacement
 
-### Opinions
+### Opinion
 
 - https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular
 - https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
@@ -151,3 +151,4 @@
 - https://blog.m-ou.se/rust-is-not-a-company
 - https://fishrock123.github.io/practical-rust-slides/api-expectations
 - https://dystroy.org/blog/how-not-to-learn-rust
+- https://twitter.com/chrisbiscardi/status/1481246482212679681
