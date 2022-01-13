@@ -15,6 +15,7 @@
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeJrvjEuCygYk4QiTXQpOyW
 - [Using Windows 10 - Technical Previews and How Tos! - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdI26ZdgX-F8aAKnh9sq6on)
 - [Operating Systems and You - Becoming a Power User | Qwiklabs-Courses](https://www.youtube.com/playlist?list=PLWbKFGwwAIAdkHHOtJe2zMWloBTlTIzXV)
+- https://www.youtube.com/playlist?list=PLn__CHOEZR1bjS_GvcjzSmZg524jTKQg_
 
 ### Courses
 

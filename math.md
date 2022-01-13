@@ -118,6 +118,7 @@
 - https://github.com/Pomax/BezierInfo-2
 - https://github.com/eltuck/Resources#math-programming-software
 - https://github.com/pyxelr/recommendations-for-engineers#math-2
+- https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion
 
 ### Teacher
 

@@ -44,6 +44,7 @@
 - https://github.com/dominiccooney/Service-Worker-Performance
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb + https://twitter.com/XssPayloads/status/1376382674173112320
 - https://github.com/offlinefirst/research
+- https://souporserious.com/bundling-workers-for-npm
 
 
 ### Engines

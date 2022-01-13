@@ -5,12 +5,16 @@
 - https://twitter.com/lukego/status/632450443566780416
 - https://notes.eatonphil.com/book-review-ansi-common-lisp.html
 
-### Tools
+### Tool
 
 - https://github.com/atlas-engineer/nyxt + https://twitter.com/lukego/status/1372208366282539009
 
-### Opinions
+### Opinion
 
 - [How knowing Lisp destroyed my programming career (2006)](https://news.ycombinator.com/item?id=16583572)
 - https://github.com/shaunlebron/history-of-lisp-parens
 - https://huangxuan.me/2019/09/13/peter-john-landin
+
+### Radio
+
+- https://www.patreon.com/posts/episode-73-ipl-60945099

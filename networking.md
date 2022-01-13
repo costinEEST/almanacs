@@ -7,7 +7,7 @@
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUdM5w5thzXQdyVi_MPcktVC
 - [Nicholas Andre](https://www.youtube.com/user/mrnickandre/videos)
 - [CompTIA Network+ Certification Video Course](https://youtu.be/vrh0epPAC5w)
-- https://www.udemy.com/course/ssl-complete-guide/
+- https://www.udemy.com/course/ssl-complete-guide
 - https://www.udemy.com/course/setup-your-own-web-hosting-environment/
 - https://www.udemy.com/course/secure-shell-fundamentals-learn-ssh-by-configuring-it/
 - https://www.udemy.com/course/sshcourse
@@ -16,6 +16,7 @@
 * https://www.youtube.com/playlist?list=PLoKM3Qfxoe0nI7MxT0UWA5cXcYRD1-EO2
 * https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks
 * https://media.ccc.de/v/denog13-12067-enhancing-ping-and-traceroute
+* https://github.com/lololosys/awesome-baseband-research
 
 ### Book
 

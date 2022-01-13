@@ -54,7 +54,6 @@
 - https://github.com/frankdilo/personal-blog-template
 - https://ashleemboyer.com/how-i-added-an-rss-feed-to-my-nextjs-site
 - https://github.com/paulintrognon/paulintrognon.fr
-- [GPT-3 Powered Serverless App using NextJS & React](https://github.com/harish-garg/nextjs-reactjs-gpt-3)
 - [Deno + React: No build, no bundle, all streaming](https://github.com/exhibitionist-digital/ultra) + https://twitter.com/mutual__respect/status/1433240796451409923
 - https://github.com/Financial-Times/dotcom-page-kit
 - https://auth0.com/blog/streamlining-a-react-monorepo
@@ -74,17 +73,20 @@
 - https://github.com/zpao/building-react-from-scratch
 - https://portal.gitnation.org/contents/remote-rendering-with-web-workers + https://shopify.engineering/remote-rendering-ui-extensibility
 
-### Podcasts
+### Radio
 
 - [React Round Up](https://devchat.tv/react-round-up)
 - https://www.digitalprimates.net/blog/making-authentication-in-react-apps-easy-with-useauth
 
-### Hooks
+### Hook
 
 - https://twitter.com/tylermcginnis/status/1169667360795459584
 - https://github.com/rehooks/awesome-react-hooks
 - https://github.com/donavon/hook-flow
 - https://thoughtspile.github.io/2021/10/18/non-react-state
+- https://thoughtspile.github.io/2021/10/25/useref-no-current
+- https://thoughtspile.github.io/2021/11/15/unintentional-layout-effect
+- https://thoughtspile.github.io/2021/11/30/lazy-useref
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 - [After calling a useState setter, you don’t see the updated value in logic after it without using a useEffect](https://twitter.com/ken_wheeler/status/1200431889506435072)
 - [Subscribe to a user's light/dark preference..](https://twitter.com/tannerlinsley/status/1211721986319110144)
@@ -137,6 +139,8 @@
 - https://academy.nomadcoders.co/p/antiredux-new-react-context-api
 - https://jclem.net/posts/building-a-router-in-react
 - https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state
+- https://thoughtspile.github.io/2021/10/27/better-react-context
+- https://souporserious.com/reading-context-in-pragmas
 
 ### Component
 
@@ -197,7 +201,7 @@
 - https://medium.com/better-programming/react-router-v6-in-two-minutes-a7a2963e2340
 - [React Router v4, v5 and v6](https://www.twitch.tv/videos/580762054)
 
-### CSS/Animations
+### Styling
 
 - https://www.robinwieruch.de/react-css-styling
 - [Use CSS Variables instead of React Context](https://epicreact.dev/css-variables)
@@ -225,6 +229,8 @@
 - https://steveruiz.me/posts/rotating-icon-button
 - https://javascript.plainenglish.io/three-js-with-react-functional-component-9e66e08dbeac
 - [Learn @framer Motion in 10 Tweets](https://twitter.com/willjohnsonio/status/1396857844973064202)
+- https://weser.io/blog/spacing-children-in-react
+- https://souporserious.com/bringing-swiftui-stacks-to-the-web
 
 ### Server side rendering
 
@@ -285,10 +291,20 @@
 - https://github.com/jchen1/website
 - [Fastify server-side renders Preact to html and serves with a Preact client.js bundle for DOM hydration.](https://github.com/sebringrose/fastify-preact-ssr) + https://youtu.be/p8_wOBU478w
 
-### Packages
+### Next
+
+- https://www.ctnicholas.dev/articles/how-to-use-nextjs-middleware
+- [GPT-3 Powered Serverless App using NextJS & React](https://github.com/harish-garg/nextjs-reactjs-gpt-3)
+
+### Remix
+
+- https://blog.plasmic.app/posts/remix-for-nextjs-developers + https://twitter.com/yaaang/status/1470814383353696259
+
+### Package
 
 - [React Spring](https://twitter.com/EmmaWedekind/status/1207231921320865792)
 - [React Three Fiber](https://twitter.com/0xca0a/status/1204867532185853953) + https://github.com/drcmda/learnwithjason
+- https://codyb.co/articles/a-technical-breakdown-of-react-three-fiber
 - [React Ideal Image](https://github.com/stereobooster/react-ideal-image/blob/master/introduction.md)
 - [React-Pivot is a data-grid component with pivot-table-like functionality for data display, filtering, and exploration.](https://github.com/davidguttman/react-pivot)
 - https://github.com/karadikid/shodan-react
@@ -373,6 +389,8 @@
 - [Print a QR code for connecting to your WiFi](https://github.com/bndw/wifi-card)
 - [A tool to enable PR authors to tell a story with their changes](https://github.com/tbroadley/narrated-diffs)
 - https://github.com/flaviocopes/clone-airbnb-nextjs
+- https://souporserious.com/build-your-own-code-playground + https://twitter.com/souporserious/status/1468981661224161281
+- https://kyleshevlin.com/my-course-platform
 
 ### Testing
 
@@ -421,3 +439,5 @@
 - https://www.tpjnorton.com/blog/posts/next-js-12-performance-test-builds-appear-to-be-slower-not-faster
 - https://devtails.xyz/how-to-set-up-server-side-rendering-ssr-with-react-and-esbuild
 - https://datastation.multiprocess.io/blog/2021-11-13-benchmarking-esbuild-swc-typescript-babel.html + https://github.com/multiprocessio/react-benchmark-generator
+- https://www.ctnicholas.dev/articles/how-to-use-sandpack-for-code-demos
+- https://souporserious.com/use-babel-to-statically-analyze-jsx

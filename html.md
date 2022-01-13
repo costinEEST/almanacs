@@ -149,6 +149,7 @@
 - https://polypane.app/blog/creating-websites-with-prefers-reduced-data
 - https://blog.jim-nielsen.com/2021/progressively-enhanced-search
 - https://www.ctnicholas.dev/articles/dark-mode-by-sunlight
+- https://souporserious.com/lazy-loading-polyfills
 
 ### Radio
 

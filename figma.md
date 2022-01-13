@@ -30,7 +30,7 @@
 - https://www.learnwithjason.dev/introduction-to-figma-for-developers
 - https://www.youtube.com/c/MadeWithMatt/playlists
 
-### Tutorials
+### Development
 
 - https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7
 - https://souporserious.com/getting-started-with-figma-webhooks

@@ -102,6 +102,7 @@
 - https://datastation.multiprocess.io/blog/2021-12-16-sqlserver-in-github-actions.html
 - https://github.com/erezrokah/2fa-with-slack-action + https://twitter.com/seldo/status/1230184614632640517
 - https://github.com/yangshun/delete-github-forks
+- https://blog.maximeheckel.com/posts/building-perfect-github-action-frontend-teams
 
 ### Tool
 

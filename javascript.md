@@ -245,6 +245,7 @@
 - https://twitter.com/jaffathecake/status/1213084405666910214
 - https://alexanderell.is/posts/javascript-array-reduce
 - https://www.matthewgerstman.com/tech/reduce-reduce-reduce
+- https://courses.kyleshevlin.com/courses/array-reduce
 
 ### new Uint8Array()
 
