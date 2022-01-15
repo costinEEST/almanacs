@@ -208,8 +208,6 @@
 - https://github.com/BlackFan/content-type-research + https://twitter.com/Black2Fan/status/1296439754599407618
 - [Avoid 301 and 302, use 303 and 307](https://youtu.be/G9PpImUEeUA?t=702)
 - https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis
-- [Cache your CORS, for performance & profit](https://httptoolkit.tech/blog/cache-your-cors)
-- https://jeffy.info/2019/07/22/exposing-cors-headers.html
 - https://dewcode.medium.com/finding-bugs-at-limited-scopes-programs-single-domain-websites-d3c2ff396edf
 - https://github.com/pfrazee/http-template-literal
 - https://pokeinthe.io/2021/09/13/cache-control-recommendations + https://twitter.com/CubicleApril/status/1437466733762256901

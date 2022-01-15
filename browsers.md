@@ -280,6 +280,9 @@ javascript: (() =>
 - https://github.com/RUB-NDS/CORStest
 - https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices
 - https://github.com/onsecru/cors_playground
+- [Cache your CORS, for performance & profit](https://httptoolkit.tech/blog/cache-your-cors)
+- https://jeffy.info/2019/07/22/exposing-cors-headers.html
+- https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46
 
 ### Cookie
 
