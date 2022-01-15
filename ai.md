@@ -154,7 +154,7 @@
 - [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [List of satellite image training datasets with annotations for computer vision and deep learning](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 
-### Papers
+### Paper
 
 - [Software engineering for artificial intelligence and machine learning software: A systematic literature review](https://arxiv.org/ftp/arxiv/papers/2011/2011.03751.pdf)
 - [Towards the First Machine Translation System for SumerianTransliterations](https://www.aclweb.org/anthology/2020.coling-main.308.pdf)
@@ -163,6 +163,7 @@
 - [Detecting Fake Accounts on Social Media](https://github.com/emanuelcovaci/twittop)
 - https://github.com/patrickcgray/awesome-deep-ecology
 - [Code and real data for "Enhancing Human Learning via Spaced Repetition Optimization", PNAS 2019](https://github.com/Networks-Learning/memorize)
+- [On Hiding Neural Networks Inside Neural Networks | Chuan Guo, Ruihan Wu, Kilian Q. Weinberger](https://arxiv.org/abs/2002.10078)
 
 ### Demos
 

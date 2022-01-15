@@ -48,6 +48,7 @@
 - https://www.fastcompany.com/90693444/jony-ives-first-major-design-since-leaving-apple-isnt-what-youd-expect
 - https://github.com/ryanoasis/nerd-fonts
 - [bitmapped fonts from disused operating systems and graphical user interfaces](https://github.com/robhagemans/hoard-of-bitfonts)
+- https://qodeinteractive.com/magazine/best-google-fonts
 
 ### History
 

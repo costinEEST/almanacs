@@ -38,6 +38,7 @@
 - [Creating UI Components in SVG](https://twitter.com/sarah_edo/status/1331251022715445248)
 - https://www.aleksandrhovhannisyan.com/blog/svg-tutorial-how-to-code-svg-icons-by-hand
 - [Which SVG technique performs best for way too many icons?](https://cloudfour.com/thinks/svg-icon-stress-test)
+- https://github.com/allanlw/svg-cheatsheet
 
 ### Tool
 

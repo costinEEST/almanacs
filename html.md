@@ -71,6 +71,7 @@
 - https://www.sarasoueidan.com/blog/in-quest-of-search
 - https://devyarns.com/logical-focus-order
 - https://alvaromontoro.com/blog/67979/creating-accessible-css-art
+- https://www.a11yproject.com/posts/how-to-accessible-heading-structure
 
 ### <address></address>
 

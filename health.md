@@ -258,6 +258,7 @@
 ### Cannabis
 
 - [#81 – Debra Kimless, M.D. & Steve Goldner, J.D.: Cannabis – the latest science on CBD & THC](https://peterattiamd.com/debrakimless-stevegoldner)
+- https://www.joe.co.uk/news/cannabis-compounds-could-prevent-infection-from-covid-according-to-study-310918
 
 ### Tea
 
@@ -349,6 +350,7 @@
 - https://savjee.be/videos/simply-explained/mrna-vaccines-questions-and-misconceptions
 - [Covid-19: From Vaccination to Medication](https://ssm-live.com/MPFORUM2021)
 - https://www.newyorker.com/news/q-and-a/how-south-african-researchers-identified-the-omicron-variant-of-covid
+- https://www.newscientist.com/article/2304340-strongest-evidence-yet-that-ms-is-caused-by-epstein-barr-virus
 
 ### Radiation
 

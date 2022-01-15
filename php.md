@@ -68,6 +68,7 @@
 - https://kevin.burke.dev/kevin/things-to-use-instead-of-jwt
 - https://bierbaumer.net/security/php-lfi-with-nginx-assistance + https://twitter.com/HolyBugx/status/1475564976198848516
 - https://community.sonarsource.com/t/code-security-advent-calendar-2021/53927
+- https://gist.github.com/loknop/b27422d355ea1fd0d90d6dbc1e278d4d
 
 ### Miscellaneous
 

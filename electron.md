@@ -54,3 +54,4 @@
 - [Hacking Modern Desktop apps with XSS and RCE](https://training.7asecurity.com/ma/webinar/desktop-xss-rce/lab1)
 - https://github.com/doyensec/awesome-electronjs-hacking
 - https://parsiya.net/blog/2021-01-08-a-novel-way-to-bypass-executable-signature-checks-with-electron + https://twitter.com/CryptoGangsta/status/1347847661844451330
+- https://github.com/msrkp/electron-research
