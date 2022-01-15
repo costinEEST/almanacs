@@ -34,6 +34,12 @@
 - [Turn any web page into a clean view](https://github.com/luin/readability)
 - [Command line interface for Goodreads](https://github.com/thundergolfer/goodreads-sh)
 
+### Poetry
+
+- [A sonnet to science: Scientists and their poetry ~ Sam Illingworth](https://www.amazon.com/sonnet-science-Scientists-their-poetry/dp/1526127989)
+- https://www.lesswrong.com/posts/TxcRbCYHaeL59aY7E/meditations-on-moloch
+- https://www.radioromaniacultural.ro/timpul-prezent-in-literatura-simona-popescu-pentru-mine-aceasta-carte-a-fost-vindecatoare + https://www.facebook.com/ladouabufnite/videos/301240958554696 + https://www.facebook.com/ed.nemira/posts/5526913330658846 + https://gheorghecezar.podbean.com/e/ep-27-simona-popescu-partea-i + https://gheorghecezar.podbean.com/e/ep-28-simona-popescu-partea-a-ii-a
+
 ### Review
 
 - [Nat Eliason](https://www.nateliason.com/notes)
