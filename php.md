@@ -13,6 +13,7 @@
 - https://www.udemy.com/course/learn-php-5-and-7-this-way-to-rise-above-and-beyond-competition
 - https://www.udemy.com/course/developing-simple-cmsblog-with-php7-and-mysql
 - [Native mobile applications with just PHP](https://www.udemy.com/course/appzio-on-boarding)
+- [Create Three Symfony Back End APIs](https://www.youtube.com/playlist?list=PL1sZ2OJpPmWa7iqMI8UL6_oOUSMqlHSKg)
 
 
 ### Patterns
@@ -93,3 +94,4 @@
 - https://php.watch/articles/php-regex-readability
 - https://freek.dev/1940-why-and-how-you-should-remove-inactive-users-and-teams
 - https://front-line-php.com/cheat-sheet
+- https://codereviewvideos.com/blog/my-setup

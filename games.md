@@ -68,6 +68,8 @@
 - https://github.com/Fishrock123/asteroids-webgl
 - [analysis for Age of Empires II](https://github.com/SiegeEngineers/aoc-dev-resources)
 - https://www.freecodecamp.org/news/code-a-2d-game-engine-using-java
+- https://www.youtube.com/c/DanCox/playlists
+- https://github.com/CodeNMore/New-Beginner-Java-Game-Programming-Src
 
 ### The creators
 

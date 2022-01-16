@@ -26,6 +26,7 @@
 - https://www.udemy.com/course/typescript-design-patterns
 - https://effectivetypescript.com/2021/12/10/typescript-types-the-first-500-years
 - [No BS TS | Jack Herrington](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
+- https://codereviewvideos.com/course/from-jquery-to-typescript + https://www.youtube.com/playlist?list=PL1sZ2OJpPmWZzM8ckdBgVaqTWZwAU_VNP
 
 ### Course
 

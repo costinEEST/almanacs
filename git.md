@@ -9,6 +9,7 @@
 - https://trevordmiller.com/videos
 - [GitHub API/automation questions](https://github.com/gr2m/helpdesk)
 - https://andrewhoglund.com/code/talks/github/js/2020/05/08/building-automations-with-graphql-and-github-apps.html
+- https://codereviewvideos.com/course/your-own-private-github
 
 ### Reference
 

@@ -204,6 +204,7 @@
 - [Fill in login forms using an OpenPGP-enabled smart card](https://github.com/fmeum/smart-pass)
 - [Import .ics files into Google Calendar with only two clicks](https://github.com/fmeum/ics2gcal)
 - https://github.com/Anarios/return-youtube-dislike
+- https://github.com/tombaranowicz/BetterNewTab
 
 ### Bookmarklets
 

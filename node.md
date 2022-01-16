@@ -226,14 +226,18 @@
 - [Project for learning Node.js internals](https://github.com/danbev/learning-nodejs)
 - https://blog.s1h.org/inside-node-executing-a-script
 - https://blog.logrocket.com/node-js-crypto-module-a-tutorial
-- [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
 - https://github.com/ejdaly/node-threads-example
-- [How to create full path with node's fs.mkdirSync?](https://stackoverflow.com/a/40686853/1904223)
 - https://simonplend.com/how-does-middleware-work-in-express
 - https://twitter.com/loige/status/1388888755495387137
 https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js
 - [Advanced vm/sandbox for Node.js](https://github.com/patriksimek/vm2)
+
+### File system (node:fs)
+
+- [How to create full path with node's fs.mkdirSync?](https://stackoverflow.com/a/40686853/1904223)
+- [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
+- https://boneskull.com/recursive-directory-removal-in-node-js
 
 ### Modules
 

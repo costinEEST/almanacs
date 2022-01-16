@@ -23,6 +23,13 @@
 - https://github.com/Nickersoft/awesome-careers#android-engineer
 - [Pierre-Yves Ricau](https://twitter.com/Piwai/status/1476962698982264838)
 
+### Cinema
+
+- https://www.youtube.com/playlist?list=PLpZBns8dFbgxOTGC-pElWzvRBKbp2uwtQ
+- [Deep dive into MotionLayout by Bogdan Zurac](https://docs.google.com/presentation/d/1957szdWm2Uj1YSF8ffWS0_5UOjRN6cysLMWuVdeRT4s)
+- https://www.youtube.com/playlist?list=PLFW6ct83_wC9CYqIRaR1jUwrz_hBgAX8Q
+- [Web Challenges #CTF #hpAndro | Android AppSec](https://www.youtube.com/playlist?list=PLY47jY-dcCPWerJCAPw2GOJxUvmRe5Zho)
+
 ### Course
 
 - [Mobile Application Development (5th bullet)](https://github.com/Developer-Y/cs-video-courses#software-engineering)
@@ -79,12 +86,6 @@
 - [A list of an android lib's make your coding life easier](https://github.com/CreatorB/Android-Library)
 - [App for picture maintenance](https://github.com/timitoc/groupicture)
 - [app that guides you into a parallel parking space using the Toyota CAN Gateway API via bluetooth](https://github.com/diafygi/ppark)
-
-### Cinema
-
-- [Deep dive into MotionLayout by Bogdan Zurac](https://docs.google.com/presentation/d/1957szdWm2Uj1YSF8ffWS0_5UOjRN6cysLMWuVdeRT4s)
-- https://www.youtube.com/playlist?list=PLFW6ct83_wC9CYqIRaR1jUwrz_hBgAX8Q
-- [Web Challenges #CTF #hpAndro | Android AppSec](https://www.youtube.com/playlist?list=PLY47jY-dcCPWerJCAPw2GOJxUvmRe5Zho)
 
 ### Opinions
 

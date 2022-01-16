@@ -462,6 +462,7 @@
 
 ### Testing
 
+- https://github.com/fireship-io/tdd-basics-project
 - https://github.com/umaar/learn-browser-testing
 - [End-to-end testing with NightwatchJS](https://www.youtube.com/playlist?list=PLHe-juD38yt4t38EsggDx2viWXz9Dc0OS)
 - https://testautomationu.applitools.com/jest-testing-tutorial
@@ -561,6 +562,7 @@
 - https://blog.ngzhian.com/emscripten-cmake.html
 - [pasta: an extension to the JavaScript source map format that allows for accurate function name decoding](https://github.com/bloomberg/pasta-sourcemaps)
 - [Tips and tricks for working with types in JavaScript](https://github.com/voxpelli/types-in-js)
+- https://scriptingosx.com/2021/11/the-unexpected-return-of-javascript-for-automation
 
 ### Documentation
 

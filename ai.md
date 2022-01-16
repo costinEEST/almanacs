@@ -188,7 +188,7 @@
 - https://nathanielbd.github.io/posts/hacking-the-normie-test
 - https://github.com/KayO-GH/Ashesi-DSC-Tensorflow-Workshop
 
-### Opinions
+### Opinion
 
 - https://thinkml.ai/top-5-ai-achievements-of-2020
 - https://www.hyro.ai/post/gpt-3-vs-existing-conversational-ai-solutions
@@ -196,6 +196,7 @@
 - [Microsoft president: Orwell’s 1984 could happen in 2024](https://www.bbc.com/news/technology-57122120)
 - https://www.leonlinsx.com/doctor-gpt3
 - [A curated list to track current scary usages of AI](https://github.com/daviddao/awful-ai)
+- http://tombaranowicz.com/index.php/2020/03/29/7-machine-learning-business-ideas
 
 ### Security
 

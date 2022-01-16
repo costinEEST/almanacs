@@ -125,6 +125,7 @@
 - [Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article](https://12ft.io)
 - [A directory of direct links to delete your account from web services](https://backgroundchecks.org/justdeleteme)
 - [Digital Security for Filmmakers](https://digitalsecurity.film)
+- https://www.carscoops.com/2021/12/thieves-are-now-using-apple-airtags-to-track-and-steal-high-end-vehicles
 
 ### Social media
 

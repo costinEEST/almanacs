@@ -44,11 +44,12 @@
 - [.. attach your mouse to your computer with a wire so it could get power and you didn't need to change the batteries all the time.](https://twitter.com/seldo/status/1215719226188582913)
 - https://daninovac.com/cel-mai-bun-mouse-programare-logitech-mx-3
 
-### Monitors
+### Monitor
 
 - http://www.gregoryschmidt.ca/writing/why-4k-is-misleading
 - [4k monitors](https://twitter.com/rogie/status/1221294864144318468)
 - https://coolaj86.com/articles/best-thunderbolt-display-imac-monitor-alternative
+- https://sprocketfox.io/xssfox/2021/12/02/xrandr
 
 ### Phone
 

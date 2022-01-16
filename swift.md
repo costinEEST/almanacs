@@ -17,6 +17,7 @@
 - https://kaitlin.dev/speaking
 - [A video series on functional programming and the Swift programming language.](https://www.pointfree.co)
 - https://github.com/Lascorbe/CocoaConferences
+- https://scriptingosx.com/swift
 
 ### Demo
 

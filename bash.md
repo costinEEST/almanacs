@@ -10,6 +10,12 @@
 - https://github.com/learnbyexample/cli_text_processing_coreutils
 - https://github.com/learnbyexample/learn_gnugrep_ripgrep
 
+### Cinema
+
+- https://scriptingosx.com/bash
+- https://scriptingosx.com/practical
+- https://scriptingosx.com/zsh
+
 ### Course
 
 - https://app.pluralsight.com/paths/skill/shell-scripting-with-bash-and-z-shell
