@@ -54,7 +54,7 @@
 - https://transylvanianow.com/restoring-transylvanian-pipe-organ-heritage-builder-endre-denes
 - https://arstechnica.com/science/2021/09/study-confirms-superior-sound-of-a-stradivari-is-due-to-the-varnish
 - http://www.laboratoruldemuzica.ro/dictionar + https://www.youtube.com/playlist?list=PLLy7dwV_5aUlP7kiMAUUiVquZIt2eSot4
-
+- https://www.udemy.com/course/the-complete-guide-to-learn-tabla-step-by-step
 
 ### Tool
 

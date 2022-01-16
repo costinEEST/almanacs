@@ -26,3 +26,7 @@
 - https://www.scena9.ro/article/canepa-expozitie-material-textile
 - [Braiding Sweetgrass Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants By Robin Wall Kimmerer](https://milkweed.org/book/braiding-sweetgrass)
 - https://politeia.org.ro/magazin-istoric/manuscrise-celebre-vienna-dioscurides/20768
+
+### Radio
+
+- https://harvestingnature.com/2022/01/12/podcast-episode-421-wild-edibles-with-the-wild-food-girl

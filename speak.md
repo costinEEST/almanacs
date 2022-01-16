@@ -267,3 +267,4 @@
 - https://www.theatlantic.com/health/archive/2015/08/life-stories-narrative-psychology-redemption-mental-health/400796
 - https://blog.raeez.com/story-telling
 - https://newthinking.tools/bookshelf
+- [Course materials for Dartmouth Course: Storytelling with Data (PSYC 81.09)](https://github.com/ContextLab/storytelling-with-data)

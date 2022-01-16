@@ -6,6 +6,7 @@
 ### Cinema
 
 - https://en.wikipedia.org/wiki/Brain_Games_(2011_TV_series)
+- [Course materials for Dartmouth course: Human Memory (PSYC 51.09)](https://github.com/ContextLab/human-memory)
 
 
 ### Community
