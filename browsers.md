@@ -18,10 +18,9 @@
 - https://stackoverflow.com/questions/16808486/explanation-of-window-performance-javascript
 - https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities
 - https://engineering.q42.nl/passwordless-authentication
-- [Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.](https://github.com/localForage/localForage)
 - [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
 - [Proposal for an API which would allow grabbing a screenshot.](https://github.com/eladalon1983/mediacapture-screenshot)
-- [Why IndexedDB is slow and what to use instead](https://rxdb.info/slow-indexeddb.html)
+
 
 ### new IntersectionObserver()
 
@@ -261,7 +260,6 @@ javascript: (() =>
 - [An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.](https://github.com/ghacksuserjs/ghacks-user.js)
 - [Listing changes in Firefox default preferences. The diffs are created using 64-bit Firefoxes (en-US) on Windows.](https://github.com/earthlng/FFprefs-diffs)
 - https://blog.mozilla.org/data/2020/03/16/understanding-default-browser-trends
-- [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
 - https://honzajavorek.cz/blog/how-i-consume-content
 - https://timvisee.com/blog/firefox-tricks-quantumbar
 - https://nelsonslog.wordpress.com/2021/12/07/firefox-compat-hacks
@@ -274,17 +272,6 @@ javascript: (() =>
 ### Opera
 
 - [Standalone client for proxies of Opera VPN](https://github.com/Snawoot/opera-proxy)
-
-### Cross-origin resource sharing (CORS)
-
-- https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html
-- [Authenticated CORS with Access-Control-Allow-Origin: \*](https://blog.bi.tk/chrome-cors)
-- https://github.com/RUB-NDS/CORStest
-- https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices
-- https://github.com/onsecru/cors_playground
-- [Cache your CORS, for performance & profit](https://httptoolkit.tech/blog/cache-your-cors)
-- https://jeffy.info/2019/07/22/exposing-cors-headers.html
-- https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46
 
 ### Cookie
 
@@ -299,6 +286,16 @@ javascript: (() =>
 - https://github.com/defaultnamehere/cookie_crimes
 - https://jub0bs.com/posts/2021-01-29-great-samesite-confusion
 - https://github.com/iangcarroll/cookiemonster
+
+### IndexDB
+
+- https://twitter.com/tgroshon/status/1332499610192015362
+- https://just-be.dev/posts/export-import-indexeddb
+- https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15
+- [Why IndexedDB is slow and what to use instead](https://rxdb.info/slow-indexeddb.html)
+- [Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.](https://github.com/localForage/localForage)
+- [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
+
 
 ### Federated Learning of Cohorts
 
@@ -315,6 +312,7 @@ javascript: (() =>
 ### Content Security Policy (CSP)
 
 - https://twitter.com/manicode/status/1371849647468208130
+- https://twitter.com/mikewest/status/1370394397267869699
 - [Next level anti-debugging technique using SourceMappingURL feature](https://twitter.com/WeizmanGal/status/1207355263491149825)
 - https://github.com/nico3333fr/CSP-useful
 - https://csper.io/blog/other-csp-security
@@ -323,6 +321,17 @@ javascript: (() =>
 - https://sensepost.com/blog/2021/from-500-to-account-takeover + https://twitter.com/XssPayloads/status/1376389308207226881
 - https://twitter.com/blipsofadoug/status/1125223582974533633
 - https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization
+
+### Cross-origin resource sharing (CORS)
+
+- https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html
+- [Authenticated CORS with Access-Control-Allow-Origin: \*](https://blog.bi.tk/chrome-cors)
+- https://github.com/RUB-NDS/CORStest
+- https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices
+- https://github.com/onsecru/cors_playground
+- [Cache your CORS, for performance & profit](https://httptoolkit.tech/blog/cache-your-cors)
+- https://jeffy.info/2019/07/22/exposing-cors-headers.html
+- https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46
 
 ### Same Origin Policy (SOP)
 

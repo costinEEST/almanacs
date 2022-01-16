@@ -269,6 +269,7 @@
 - https://github.com/cawfree/create-react-native-dapp
 - https://github.com/fvictorio/hardhat-examples
 - [The ultimate guide to L2s on Ethereum](https://mirror.xyz/dcbuilder.eth/QX_ELJBQBm1Iq45ktPsz8pWLZN1C52DmEtH09boZuo0)
+- https://github.com/Haaroon/ether_parity_hack_Nov_2017
 
 ### Demos
 
@@ -325,3 +326,4 @@
 - https://github.com/MrToph/capture-the-ether
 - https://cmichel.io/how-to-become-a-smart-contract-auditor + https://twitter.com/cmichelio/status/1454471156157886478
 - https://mudit.blog/twitter-threads + https://mudit.blog/live-stream-auditing-smart-contracts
+- [Damn Vulnerable DeFi | Blue Alder](https://www.youtube.com/playlist?list=PLwHGiYB583YuDoAjKPDfYMKOmuFIGJCnW) + https://github.com/BlueAlder/defi-frontrunning-challenge

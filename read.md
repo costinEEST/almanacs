@@ -33,6 +33,7 @@
 - https://cri.dev/posts/2021-02-09-my-reading-stack-miniflux-rss-pocket
 - [Turn any web page into a clean view](https://github.com/luin/readability)
 - [Command line interface for Goodreads](https://github.com/thundergolfer/goodreads-sh)
+- [Reinventing the Book](https://jessmart.in/notes/CF54B975-94E1-4244-9EE7-9D3890FA8C96-4272-0006761CAB8A1FA6)
 
 ### Poetry
 

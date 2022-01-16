@@ -2,6 +2,10 @@
 
 - https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862 + https://soundcloud.com/rich-trott/slugging-it-out-in-open-source
 
+### Cinema
+
+- [How to Contribute to Open Source (Next.js)](https://twitter.com/leeerob/status/1482519857195274242)
+
 
 ### Tool
 

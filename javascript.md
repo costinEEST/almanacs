@@ -386,11 +386,6 @@
 - https://github.com/jawj/web-scraping-for-researchers
 - https://twitter.com/SonarSource/status/1469321227248582659 + https://twitter.com/garethheyes/status/1469011117133418500
 
-### IndexDB
-
-- https://twitter.com/tgroshon/status/1332499610192015362
-- https://just-be.dev/posts/export-import-indexeddb
-
 ### Document Object Model
 
 - [Common tasks of managing HTML DOM with vanilla JavaScript.](https://htmldom.dev)

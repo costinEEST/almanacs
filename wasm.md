@@ -35,7 +35,8 @@
 - https://github.com/GoogleChromeLabs/wasm-feature-detect
 - https://github.com/fiatjaf/jq-web
 
-### Opinions
+### Opinion
 
 - [Used for surveillance](https://twitter.com/aral/status/1206173737730674688)
 - https://surma.dev/things/js-to-asc
+- https://twitter.com/swyx/status/1482127056884609026

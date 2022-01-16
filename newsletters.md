@@ -185,6 +185,7 @@
 - [Xavier Decuyper](https://newsletter.savjee.be/#archive)
 - [Alex Kondov](https://us2.campaign-archive.com/home/?u=fca75767fa83fa3473478b4ca&id=495bb9068f)
 - [Sébastien Lorber](https://www.getrevue.co/profile/thisweekinreact)
+- [Jess Martin](https://buttondown.email/jessmartin/archive) + https://twitter.com/jessmartin/status/1409591067960217606
 
 ### Web performance
 

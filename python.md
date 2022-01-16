@@ -159,6 +159,7 @@
 - [Human Programming Interface](https://github.com/karlicoss/HPI)
 - https://github.com/piotrantosz/google-arts-crawler
 - https://github.com/MarcelloLins/ServerlessCrawler-VancouverRealState
+- https://github.com/Haaroon/CCC
 
 
 ### Security
@@ -227,6 +228,8 @@
 - [A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 - https://github.com/x-hw/amazing-qr
 - https://github.com/Nya0/recaptcha-v2-bypass
+- https://github.com/Haaroon/secret-santa
+- https://webinstall.dev/pyenv
 
 ### Testing
 

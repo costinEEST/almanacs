@@ -100,6 +100,7 @@
 - https://github.com/NullProgrammer/File-Handling
 - [Const correctness in C/C++](https://yurichev.com/news/20211202_const)
 - [Why memcpy/strcpy/strcat return a value?](https://yurichev.com/news/20211227_strcpy_etc)
+- https://taxicat1.github.io/hash6432shift_inversion.html + https://gist.github.com/badboy/6267743
 
 ### Security
 
