@@ -198,6 +198,7 @@
 ### Writing
 
 - https://www.writethedocs.org/blog/archive/tag/newsletter
+- [Leanpub Weekly Sale](https://us3.campaign-archive.com/home/?u=d9dae16c3f9f533e6c9e48efb&id=d8bb96e10f)
 
 ### Ecology
 

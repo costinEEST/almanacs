@@ -55,6 +55,9 @@
 - [People ask you for the Wi-Fi password. Answer quickly.](https://github.com/RReverser/WiFi-Password)
 - [Configuration Hardening Assessment PowerShell Script.](https://github.com/cutaway-security/chaps)
 - [Run Powershell without software restrictions](https://github.com/iomoath/PowerShx)
+- https://leanpub.com/powershelltool
+- https://leanpub.com/powershelltips
+- https://leanpub.com/pesterbook
 
 ### notepad.exe
 

@@ -558,6 +558,7 @@
 - [pasta: an extension to the JavaScript source map format that allows for accurate function name decoding](https://github.com/bloomberg/pasta-sourcemaps)
 - [Tips and tricks for working with types in JavaScript](https://github.com/voxpelli/types-in-js)
 - https://scriptingosx.com/2021/11/the-unexpected-return-of-javascript-for-automation
+- https://github.com/suchipi/simple-codemod-script
 
 ### Documentation
 

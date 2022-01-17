@@ -48,6 +48,7 @@
 - [Indo-European languages from Uni Göttingen.](https://spw.uni-goettingen.de/projects/aig)
 - [Early Indo-European Online](https://lrc.la.utexas.edu/eieol)
 - [Responsive Communication. Patterns for Making Sense](http://www.ankn.uaf.edu/curriculum/AxeHandleAcademy/rc/50patterns.htm)
+- https://www.amazon.com/Art-Rhetoric-Thomas-Wilson/dp/1849021198 + https://podcasts.google.com/feed/aHR0cHM6Ly9oaXN0b3J5b2ZlbmdsaXNocG9kY2FzdC5jb20vZmVlZC9wb2RjYXN0Lw/episode/aHR0cHM6Ly9oaXN0b3J5b2ZlbmdsaXNocG9kY2FzdC5jb20vP3A9MTI1OQ
 
 ### Application
 

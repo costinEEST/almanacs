@@ -17,6 +17,7 @@
 ### Tool
 
 - [An extremely opinionated and highly personalized script to set up a new Mac machine, just the way I like it!](https://github.com/nnja/new-computer)
+- https://leanpub.com/learning-hammerspoon
 - [MAC address age tracking](https://github.com/hdm/mac-ages)
 - [dotfiles](https://twitter.com/jsjoeio/status/1216921686932504576)
 - [An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)

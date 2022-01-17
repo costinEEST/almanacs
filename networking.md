@@ -212,6 +212,7 @@
 - https://github.com/pfrazee/http-template-literal
 - https://pokeinthe.io/2021/09/13/cache-control-recommendations + https://twitter.com/CubicleApril/status/1437466733762256901
 - [Cache Me If You Can: Messing with Web Caching](https://twitter.com/ldionmarcil/status/1137024673894490113)
+- [Learning HTTP Security Headers | Liran Tal](https://leanpub.com/securityheaders/read_full)
 
 
 ### HTTPS
