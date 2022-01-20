@@ -127,6 +127,10 @@
 - https://elevation.fandom.com/wiki/List_of_elevator_special_modes
 - [A curated list of data oriented design resources.](https://github.com/dbartolini/data-oriented-design) + https://www.polymonster.co.uk/blog/dod-ecs + https://www.amazon.com/Data-oriented-design-engineering-resources-schedules/dp/1916478700
 
+### News
+
+- https://scitechdaily.com/european-milestone-quantum-computer-with-more-than-5000-qubits-launched
+
 ### Radio
 
 - https://podcasts.apple.com/us/podcast/the-story-of-how-tsmc-came-to-dominate-the-world/id1056200096?i=1000506468665

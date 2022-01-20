@@ -6,3 +6,7 @@
 
 - https://twitter.com/edithmayhall/status/1382207139582775297
 - https://twitter.com/ThePolymathBook/status/992165584937795584
+
+### Abu Rayhan Muhammad ibn Ahmad al-Biruni
+
+- https://en.wikipedia.org/wiki/Al-Biruni

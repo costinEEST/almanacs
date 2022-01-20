@@ -75,6 +75,7 @@
 - [Two Ingredient Recipes | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8rVascvm5-Y1K_aRHMIcUWX)
 - https://shepherd.com/best-books/food-history
 - [Flavours of Romania | Catalin Fodoreanu](https://www.youtube.com/playlist?list=PLOcodIKqXP5ARcdh8aqJ_zLwiu3wmG_1F)
+- https://www.amazon.com/Plant-Forward-Keto-Flexible-Recipes-Variety-ebook/dp/B09KKZ12QS + https://www.youtube.com/channel/UCLCkYnR002MFtWO4LX_TB0Q/playlists
 
 ### Cholesterol
 
