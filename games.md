@@ -44,6 +44,7 @@
 
 ### Development
 
+- https://github.com/kareniel/awesome-ctf-challenge-design + https://www.youtube.com/playlist?list=PLox242_JhiuGnnFWFgt9tRVMkqkdz5cM-
 - https://github.com/EnclaveGames/HTML5-Gamedev-Starter
 - [How Crash Bandicoot Hacked The Original Playstation | War Stories | Ars Technica](https://youtu.be/izxXGuVL21o)
 - [How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)

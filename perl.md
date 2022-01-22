@@ -2,6 +2,10 @@
 
 - https://legacy.gitbook.com/book/learnbyexample/perl-introduction/details
 
+### Cinema
+
+- https://my-talks.net/viktor-turskyi/how-was-it-to-switch-from-beautiful-perl-to-horrible-javascript-fwdays-js-is-back
+
 ### Course
 
 - https://learning.oreilly.com/videos/modern-perl-best/9781491910719

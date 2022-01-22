@@ -164,6 +164,7 @@
 
 ### Security
 
+- https://blog.shiftleft.io/hacking-and-securing-python-applications-8f200456dcc6
 - [Got a shit shell?](https://twitter.com/Random_Robbie/status/1204041222542807043)
 - https://github.com/justinsteven/advisories/blob/master/2020_visual_studio_code_python_pythonpath_code_execution.md
 - https://healeycodes.com/privacy-focused-analytics-from-scratch

@@ -27,6 +27,7 @@
 - https://github.com/llSourcell/How_to_Build_a_healthcare_startup
 - [Web platform support: Flutter or ReactNative?](https://twitter.com/sebastienlorber/status/1367424075619049474)
 - [A working replica of Instagram DMs and stories, written in Flutter and Go](https://github.com/tusharsadhwani/instachat)
+- [Static markdown blogging space. Has 'dynamic' capabilities like blog post search but all done with #Flutter Web](https://github.com/gladimdim/metapersona)
 
 
 ### Security

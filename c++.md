@@ -25,6 +25,7 @@
 ### Course
 
 - https://www.udemy.com/course/free-learn-c-tutorial-beginners
+- https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c
 - https://github.com/harrisrobin/Udacity-CPlusPlus-Nanodegree
 - https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin
 

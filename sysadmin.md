@@ -64,6 +64,7 @@
 - https://nemethgergely.com/blog/you-might-not-need-homebrew
 - https://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html
 - [Waiting for dependencies in tests](https://www.vegardstikbakke.com/dependencies/)
+- https://codereviewvideos.com/course/docker-tutorial-for-beginners
 
 ### Kubernetes
 
