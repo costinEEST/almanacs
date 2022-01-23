@@ -40,6 +40,7 @@
 - https://www.amazon.com/Hunter-Gatherers-Guide-21st-Century-Evolution-Challenges/dp/1800750749
 - https://www.appropedia.org/Feeding_Everyone_No_Matter_What
 - [Wellbeing: A Cultural History of Healthy Living | Klaus Bergdolt](https://www.amazon.com/Wellbeing-Cultural-History-Healthy-Living/dp/074562913X) + https://www.wiley.com/en-us/Wellbeing:+A+Cultural+History+of+Healthy+Living-p-9780745629131
+- https://adriancopcea.com/2018/03/11/cum-se-explica-nebunia-cu-studiul-china
 
 ### Carbohydrates
 
@@ -271,6 +272,7 @@
 
 - https://blackwells.co.uk/bookshop/product/Lonely-Planets-Global-Coffee-Tour-by-Mike-Higgins-editor-Nick-Mee-editor-Yolanda-Zappaterra-editor/9781787013599
 - https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up
+- https://www.amazon.com/World-Atlas-Coffee-explored-explained-ebook/dp/B07CRY44ZH + https://tastecooking.com/meet-the-ceo-of-coffee-youtube + https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ/playlists
 
 ### Sugar
 
@@ -329,7 +331,7 @@
 - https://www.gowinglife.com/top-10-health-and-longevity-innovations-in-2020
 - https://mariakonovalenko.wordpress.com/2015/06/17/the-mtor-story-part-1-what-makes-this-important-pro-aging-molecule-active
 
-### Viruses
+### Virus
 
 - https://formular.sts.ro + https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus + https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs + https://londonreal.tv/the-truth-behind-the-coronavirus-pandemic-covid-19-lockdown-the-economic-crash-david-icke + [CORONAVIRUS: Sfatul psihologului Daniel David](https://www.crowdcast.io/e/daniel-david-live/1) + [A recent Nature paper reveal a remarkable trick SARS-Cov-2 learned that makes it nastier than the first SARS.](https://twitter.com/PeterKolchinsky/status/1246975275021348865)
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
@@ -353,6 +355,7 @@
 - [Covid-19: From Vaccination to Medication](https://ssm-live.com/MPFORUM2021)
 - https://www.newyorker.com/news/q-and-a/how-south-african-researchers-identified-the-omicron-variant-of-covid
 - https://www.newscientist.com/article/2304340-strongest-evidence-yet-that-ms-is-caused-by-epstein-barr-virus
+- https://www.voxa.ro/ebooks/infectiile-de-origine-animala-si-urmatoarea-pandemie
 
 ### Radiation
 

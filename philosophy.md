@@ -42,6 +42,10 @@
 - https://figsinwinter.blog/2021/07/30/how-to-live-a-good-life-two-examples
 - https://www.youtube.com/playlist?list=PLAYxecbGotUxSZhQ-Gte_UAMs1RQAckSv
 
+### Marxism
+
+- https://www.voxa.ro/ebooks/pe-umerii-lui-marx-o-introducere-in-istoria-comunismului-romanesc
+
 ### Radio
 
 - https://blog.foolip.org/2015/10/09/more-podcast-recommendations
