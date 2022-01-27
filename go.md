@@ -138,6 +138,7 @@
 - [I am more excited by Zig than by Rust.](https://twitter.com/mitchellh/status/1435670230215192579)
 - https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html
 - https://www.sethvargo.com/what-id-like-to-see-in-go-2 + https://twitter.com/sethvargo/status/1482381086411956228
+- https://dabase.com/blog/2022/strongly-typed-javascript
 
 ### Security
 

@@ -12,6 +12,7 @@
 ### Course
 
 - https://www.udemy.com/course/environment-and-ethics-a-basic-course
+- https://www.udemy.com/course/carbon-neutrality-fundamentals
 
 ### Community
 

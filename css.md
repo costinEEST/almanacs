@@ -180,6 +180,7 @@
 - https://github.com/philipwalton/flexbugs
 - [My incomplete mental model for flexbox's main axis](https://twitter.com/pomber/status/1281339741682753542)
 - https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6
+- https://tiffanybbrown.com/2022/01/how-does-flexbox-work/index.html
 
 ### Demo
 
@@ -246,6 +247,7 @@
 
 - http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-09-http-covert-channel-using-only-htmlcss-thomas-slota-william-york
 - https://github.com/PortSwigger/css-exfiltration + https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css
+- https://github.com/OliverBrotchie/CSS-Fingerprint
 
 ### Opinion
 

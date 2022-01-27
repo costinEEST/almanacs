@@ -5,6 +5,7 @@
 - https://gumroad.com/l/gnu_awk + https://leanpub.com/gnu_awk
 - https://leanpub.com/anti-reverse-engineering-linux
 - https://github.com/linuxboot/book
+- https://www.freecodecamp.org/news/how-to-install-arch-linux
 
 ### Cinema
 

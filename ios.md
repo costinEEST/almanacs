@@ -46,6 +46,7 @@
 - https://github.com/kenp-io/not-for-iphone-usb-c
 - https://github.com/jphong1111/awesome-ios-developer
 - https://github.com/738/awesome-apple-watch
+- https://nuculabs.dev/2022/01/22/iphone-6s-battery-replacement
 
 ### Security
 

@@ -91,6 +91,7 @@
 ### <div></div>
 
 - https://www.matuzo.at/blog/element-diversity
+- https://www.scottohara.me/blog/2022/01/20/divisive.html
 
 ### <dl></dl>
 

@@ -71,6 +71,7 @@
 - https://www.freecodecamp.org/news/code-a-2d-game-engine-using-java
 - https://www.youtube.com/c/DanCox/playlists
 - https://github.com/CodeNMore/New-Beginner-Java-Game-Programming-Src
+- https://github.com/coding-horror/basic-computer-games
 
 ### The creators
 

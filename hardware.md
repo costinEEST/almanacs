@@ -91,6 +91,10 @@
 - https://www.youtube.com/playlist?list=PLoKM3Qfxoe0lrsY5lMl0iiJwNeJ2g-fgy
 - [How to Build a Transistor](https://twitter.com/rbhar90/status/1367901014771126277)
 
+### Locksmith
+
+- [Original Lishi Tools](https://www.youtube.com/channel/UCWBkIQv09counMsKwOMcpvw/playlists)
+
 ### Playground
 
 - https://www.tinkercad.com/circuits

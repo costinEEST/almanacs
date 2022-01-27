@@ -129,6 +129,10 @@
 
 - [Marc Aureliu versus Caesar și L. Aurelius Commodus | Vasile Pârvan](https://www.academia.edu/44818835/Vasile_P%C3%A2rvan_Marc_Aureliu_versus_Caesar_%C8%99i_L_Aurelius_Commodus_1909_2007_)
 
+### Michelangelo di Lodovico Buonarroti Simoni
+
+- https://en.wikipedia.org/wiki/The_Agony_and_the_Ecstasy_(novel)
+
 ### Ray Dalio
 
 - https://www.businessinsider.com/ray-dalio-book-recommendations-for-college-students-and-investors-2019-8
