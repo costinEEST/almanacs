@@ -134,6 +134,7 @@
 ### News
 
 - https://scitechdaily.com/european-milestone-quantum-computer-with-more-than-5000-qubits-launched
+- https://www.scmp.com/news/china/science/article/3164684/chinese-scientists-say-they-may-be-step-closer-quantum-code
 
 ### Radio
 

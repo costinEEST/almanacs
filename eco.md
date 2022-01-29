@@ -8,6 +8,7 @@
 - [What is your favorite book on energy or climate?](https://twitter.com/gilbeaq/status/1210963374776958981)
 - https://net-zero.blog/bookshelf/sustainable-energy-without-the-hot-air
 - https://inquisitivebiologist.com/2021/12/02/book-review-the-contamination-of-the-earth-a-history-of-pollutions-in-the-industrial-age
+- https://thereader.mitpress.mit.edu/an-environmentalists-lessons-for-an-improvisational-life
 
 ### Course
 

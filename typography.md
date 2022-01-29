@@ -16,6 +16,7 @@
 - [The History and Art of Flourishing with Lynne Yun](https://www.crowdcast.io/e/history-of-flourishing)
 - https://github.com/learn-anything/talks#typography
 - https://www.freecodecamp.org/news/how-to-design-good-typography
+- https://pimpmytype.com/changing-fonts
 
 
 ### CSS

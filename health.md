@@ -6,6 +6,7 @@
 - https://edition.cnn.com/2021/09/29/business/scotland-pea-based-gin-arbikie-climate-hnk-spc-intl
 - [Out of the Bottle: Wine Science](https://www.youtube.com/playlist?list=PLB2w1JNHV4HSIgrPiBjGGMNeQvCsHekbb)
 - https://www.victorkapra.ro/2021/12/aparut-somelierii-roboti-bazati
+- https://www.grunge.com/749148/the-scientific-reason-vodka-doesnt-freeze
 
 ### Blood
 
@@ -21,6 +22,7 @@
 - [the earliest executable image of a human brain](https://qntm.org/mmacevedo)
 - [educating the public about neurodiversity](https://github.com/alvarlagerlof/neurodiversity)
 - https://aeon.co/essays/dreams-are-a-precious-resource-dont-let-advertisers-hack-them
+- [Alexandru Babeș, Povestea creierului](https://bibliotecaexploratorilor.substack.com/p/povestea-creierului)
 
 ### Book
 
@@ -69,6 +71,7 @@
 - https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311 + https://twitter.com/curiouswavefn/status/1432888533933453318
 - https://www.theguardian.com/books/2021/sep/29/top-10-books-about-human-consciousness-charles-foster-being-a-human
 - https://peterattiamd.com/rickdoblin
+- https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation
 
 ### Cooking
 
@@ -221,6 +224,7 @@
 ### Ketosis
 
 - https://perfectketo.com/guide/ultimate-start-guide-ketogenic-diet
+- https://www.udemy.com/course/ketosis-and-if-for-fat-loss
 - https://www.ruled.me/guide-keto-diet
 - https://www.amazon.com/Keto-Answers-Simplifying-Everything-Confusing-ebook/dp/B07WH43FLB
 - https://www.facebook.com/groups/755526297805685/permalink/1902882243070079
@@ -230,7 +234,6 @@
 - [How Keto Eased My PCOS — Jordan Swain [Adapt Event]](https://www.facebook.com/AdaptYourLife/videos/481025419270677)
 - [În București: mai există alte restaurante keto/low carb, în afară de MASA - CASA ?](https://www.facebook.com/groups/755526297805685/permalink/3902770676414549)
 - [The Magic Pill (2017)](https://www.netflix.com/ro-en/title/80238655)
-- https://www.udemy.com/course/ketosis-and-if-for-fat-loss/?referralCode=92E9B7EAFC36975B08A0
 - https://www.amazon.com/Ketones-Fourth-Fuel-Warburg-Fountain-ebook/dp/B08G8TFQKS + https://youtu.be/9ler8ksUAfE + https://twitter.com/briannastubbs/status/1225209323522936832 + https://medium.com/@travischristofferson/richard-bud-veech-the-unknown-scientist-behind-the-ketogenic-diet-craze-dies-at-84-ff1f7c9b91ea + https://youtu.be/WV_jip-Yhe4
 - [Biomarkers, Metabolism, Biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9x2q-9uV9zcGfQ6Pi6Oj-_s)
 - [Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss)
@@ -330,6 +333,7 @@
 - https://en.wikipedia.org/wiki/List_of_living_centenarians
 - https://www.gowinglife.com/top-10-health-and-longevity-innovations-in-2020
 - https://mariakonovalenko.wordpress.com/2015/06/17/the-mtor-story-part-1-what-makes-this-important-pro-aging-molecule-active
+- https://newatlas.com/medical/anti-aging-vaccine-senolytics-senescent-cells
 
 ### Virus
 

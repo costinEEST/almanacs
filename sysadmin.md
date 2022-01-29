@@ -110,6 +110,7 @@
 - https://github.com/knrt10/kubernetes-basicLearning
 - https://thundergolfer.com/kubernetes/infrastructure/data-engineering/2021/11/04/from-data-eng-to-sys-admin-put-down-k8s/ + https://twitter.com/bernhardsson/status/1458073746124812289
 - https://joshgav.github.io/2021/12/16/kubernetes-isnt-about-containers.html
+- https://docs.google.com/presentation/d/15OuJb2LKXi8MpkImXP4KUNWJDVLlump55nK8YPlCFNw + https://github.com/cloud-hero/vagrant-microk8s + https://youtu.be/8YVnfrwyBSU
 
 ### Servers
 

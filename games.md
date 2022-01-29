@@ -72,6 +72,7 @@
 - https://www.youtube.com/c/DanCox/playlists
 - https://github.com/CodeNMore/New-Beginner-Java-Game-Programming-Src
 - https://github.com/coding-horror/basic-computer-games
+- https://uxdesign.cc/wordle-ux-sometimes-a-game-just-feels-good-8749b26834ef
 
 ### The creators
 

@@ -58,6 +58,7 @@
 - https://leanpub.com/powershelltool
 - https://leanpub.com/powershelltips
 - https://leanpub.com/pesterbook
+- https://nelsonslog.wordpress.com/2022/01/28/wsl-copy-paste-clipboard
 
 ### notepad.exe
 
