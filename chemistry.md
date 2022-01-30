@@ -11,6 +11,7 @@
 - https://www.udemy.com/user/akshaygill
 - [Tesla Coil Science | ElectroBOOM](https://www.youtube.com/playlist?list=PLr_CZLgMkHeUexzcA64PfjCW0UUoO8Twi)
 - https://scitechdaily.com/scientists-built-a-super-fast-quantum-battery
+- [ A History of Solar Power Art and Design By Alex Nathanson](https://we-make-money-not-art.com/alex-nathanson-the-poetics-of-photovoltaics)
 
 ### Book
 
@@ -33,6 +34,7 @@
 
 - [24-643 Electrochemical Energy Storage Systems](https://www.andrew.cmu.edu/user/venkatv/24643/index.html)
 - [MIT 3.091SC Introduction to Solid State Chemistry, Fall 2010](https://www.youtube.com/playlist?list=PL36EC6A6180271B0F) + https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010
+- https://www.udemy.com/course/overview-of-aromatherapy
 
 ### Community
 

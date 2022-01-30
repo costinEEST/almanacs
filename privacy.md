@@ -79,6 +79,7 @@
 - [Simple, open-source and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
 - https://github.com/bhdresh/Whatsapp-IP-leak
 - [Vytal shows you what traces your browser leaves behind while surfing the web](https://github.com/z0ccc/Vytal)
+- https://medium.com/@jeffgould/the-natural-history-of-gmail-data-mining-be115d196b10
 
 ### Techniques
 

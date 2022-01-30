@@ -14,6 +14,7 @@
 - https://tumregels.github.io/Network-Programming-with-Go
 - [How the tactical design patterns from Domain Driven Design may be implemented in Go](https://github.com/marcusolsson/goddd)
 - https://github.com/teh-cmc/go-internals
+- https://github.com/play-with-go/play-with-go
 
 ### Boots
 
@@ -66,6 +67,7 @@
 - [The Busy Developer's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md) + https://twitter.com/felixge/status/1435537024388304900
 - https://felixge.de/2021/12/01/advent-of-go-profiling-2021-day-1-1
 - https://github.com/VividCortex/go-database-sql-tutorial
+- https://www.allhandsontech.com/programming/golang/web-app-sqlite-go
 
 ### Testing
 
@@ -100,7 +102,7 @@
 - [Download Youtube Video in Golang](https://github.com/kkdai/youtube)
 - [A node.js version management utility for Windows](https://github.com/coreybutler/nvm-windows)
 - [Simple file sharing from the browser and the command-line](https://github.com/schollz/share)
-
+־ [Is there a good type-preserving typescript/ecamscript parser written in golang?](https://twitter.com/kdy1dev/status/1484428024187523073)
 
 ### Radio
 
@@ -139,6 +141,7 @@
 - https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html
 - https://www.sethvargo.com/what-id-like-to-see-in-go-2 + https://twitter.com/sethvargo/status/1482381086411956228
 - https://dabase.com/blog/2022/strongly-typed-javascript
+- https://kdy1.dev/posts/2022/1/tsc-go + https://twitter.com/kdy1dev/status/1486017661267955713
 
 ### Security
 

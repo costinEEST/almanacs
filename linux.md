@@ -45,6 +45,7 @@
 - https://sysdig.com/blog/container-security-best-practices
 - https://iximiuz.com/en/posts/containers-vs-pods
 - https://iximiuz.com/en/posts/container-learning-path
+- https://seb.jambor.dev/posts/systemd-by-example-the-playground + https://systemd-by-example.com + https://github.com/sgrj/systemd-by-example + https://twitter.com/crepels/status/1485912574323478530
 
 ### Internals
 

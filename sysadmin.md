@@ -65,10 +65,12 @@
 - https://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html
 - [Waiting for dependencies in tests](https://www.vegardstikbakke.com/dependencies/)
 - https://codereviewvideos.com/course/docker-tutorial-for-beginners
+- https://github.com/play-with-docker/play-with-docker
 
 ### Kubernetes
 
 - https://twitter.com/oliverjumpertz/status/1318082918896500746
+- https://twitter.com/marcosnils/status/1487459804255764486
 - https://github.com/ciriarte/pank8s + https://pank8s.dev
 - http://blog.boreas.ro/2018/08/learn-cloud-native-docker-k8s-istio.html
 - https://github.com/fhsinchy/kubernetes-handbook-projects
@@ -111,6 +113,9 @@
 - https://thundergolfer.com/kubernetes/infrastructure/data-engineering/2021/11/04/from-data-eng-to-sys-admin-put-down-k8s/ + https://twitter.com/bernhardsson/status/1458073746124812289
 - https://joshgav.github.io/2021/12/16/kubernetes-isnt-about-containers.html
 - https://docs.google.com/presentation/d/15OuJb2LKXi8MpkImXP4KUNWJDVLlump55nK8YPlCFNw + https://github.com/cloud-hero/vagrant-microk8s + https://youtu.be/8YVnfrwyBSU
+- [What's your favorite kubernetes yaml generator?](https://twitter.com/bgrant0607/status/1486723822606712839)
+- https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex
+- [Grasping Kubernetes Networking (Mega Thread)](https://twitter.com/iximiuz/status/1426926884508643331)
 
 ### Servers
 
@@ -179,6 +184,7 @@
 
 ### Site Reliability Engineering
 
+- https://iximiuz.com/en/posts/devops-sre-and-platform-engineering
 - [Techniques and numbers for estimating system's performance from first-principles.](https://github.com/sirupsen/napkin-math)
 - https://www.gremlin.com/community/tutorials/chaos-engineering-tools-comparison
 - https://github.com/michael-kehoe/awesome-sre-cheatsheets

@@ -160,6 +160,7 @@
 - https://nelsonslog.wordpress.com/2022/01/06/mdns-hostname-local-and-wsl2
 - [A "malicious" DNS server for executing DNS Rebinding attacks on the fly](https://github.com/brannondorsey/whonow)
 - https://github.com/indianajson/can-i-take-over-dns
+- https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break
 
 ### TCP/UDP
 

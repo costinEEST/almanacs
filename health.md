@@ -12,6 +12,10 @@
 
 - https://www.redpenreviews.org/reviews/eat-right-4-your-type-the-individualized-blood-type-diet-solution
 
+### Bacteria
+
+- https://www.udemy.com/course/practical-bacteriology-from-scratch
+
 ### Brain
 
 - https://psyche.co/guides/how-to-stop-overthinking-with-help-from-metacognitive-strategies
@@ -259,6 +263,7 @@
 - https://www.magicmushroommap.com
 - https://hyperallergic.com/686707/a-psychedelic-history-of-mushrooms-as-medicine
 - https://www.wired.com/story/fungi-climate-change-medicine-health
+- https://www.udemy.com/course/general-mycology-a-brief-review
 
 
 ### Cannabis

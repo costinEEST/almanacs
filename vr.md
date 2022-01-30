@@ -9,6 +9,7 @@
 - [Create mixed reality experiences for the Microsoft HoloLens 2 using Unreal Engine.](https://www.unrealengine.com/en-US/onlinelearning-courses/hololens-2-mixed-reality-production-for-unreal-engine)
 - https://hackdesign.org/lessons/98-start-learning-3d
 - https://www.3dfordesigners.com
+- https://www.freecodecamp.org/news/learn-autocad-with-this-free-course
 
 ### Community
 

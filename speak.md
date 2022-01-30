@@ -37,6 +37,7 @@
 - [Good with Words: Speaking and Presenting | Michigan Law](https://www.youtube.com/playlist?list=PL7g_CQSlG4S8IV8xVtg8Gc8GWlSubUFl0)
 - https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018 + https://youtu.be/Unzc731iCUY + https://www.memoriesofpatrickwinston.com
 - [Micro-Lectures - Phonetics | The Virtual Linguistics Campus](https://www.youtube.com/playlist?list=PLRIMXVU7SGRIeAGqlQqzbsErDMgZWkuqh)
+- https://www.udemy.com/course/content-based-language-teaching
 
 ### Book
 
@@ -111,6 +112,7 @@
 
 - https://github.com/Saffron97/Dutch-Vocab-Practice
 - https://artem-tyurin.medium.com/self-studying-dutch-to-pass-inburgering-exam-53d63cb3238
+- https://www.udemy.com/course/leer-nederlands-in-het-nederlands-1-voor-absolute-beginners-nt2-a1
 
 ### English
 

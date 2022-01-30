@@ -104,6 +104,7 @@
 - https://github.com/erezrokah/2fa-with-slack-action + https://twitter.com/seldo/status/1230184614632640517
 - https://github.com/yangshun/delete-github-forks
 - https://blog.maximeheckel.com/posts/building-perfect-github-action-frontend-teams
+- https://blog.myitcv.io/2020/02/04/portable-ci-cd-with-pure-go-github-actions.html
 
 ### Tool
 
@@ -118,6 +119,7 @@
 - [A build tool for NPM monorepos](https://github.com/giltayar/bilt)
 - https://philbooth.me/blog/build-a-better-release-script 
 - [interactive `git` with the help of `fzf`](https://github.com/bigH/git-fuzzy)
+- https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf
 
 ### Security
 
