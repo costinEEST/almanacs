@@ -87,8 +87,9 @@
 - [App for picture maintenance](https://github.com/timitoc/groupicture)
 - [app that guides you into a parallel parking space using the Toyota CAN Gateway API via bluetooth](https://github.com/diafygi/ppark)
 
-### Opinions
+### Opinion
 
+- https://github.com/android10/Android-CleanArchitecture
 - https://www.tbray.org/ongoing/When/202x/2020/02/09/Why-Android
 - https://niftylettuce.com/posts/google-free-android-setup
 - [Android is holding back the Java library and language ecosystem.](https://twitter.com/JakeWharton/status/1174020113466568704)

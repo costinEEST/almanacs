@@ -100,6 +100,7 @@
 - [Grafice Covid-19 in Romania](https://www.graphs.ro)
 - [sicap.ai: Motor de cautare pentru contrctele de achizitii publice](https://github.com/ciocan/sicap.ai)
 - https://github.com/prathyvsh/knowledge-atlases
+- https://github.com/philss/brazil-in-notebooks
 
 ### Miscellaneous
 

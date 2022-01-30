@@ -36,5 +36,6 @@
 - https://thevaluable.dev/vim-intermediate
 - [A terminal-based workflow for research, writing, and programming](https://news.ycombinator.com/item?id=25297268)
 - [A very light, yet efficient command line note taking tool](https://gist.github.com/nongiach/125b4b3cc8931464ea08446f5f436fec) + https://twitter.com/chaignc/status/1347974060312027141
+- https://github.com/cjavdev/vim-curriculum
 
 

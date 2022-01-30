@@ -34,6 +34,7 @@
 ### Practice
 
 - https://codeopinion.com/php-upload-large-file-bug
+- https://github.com/jmolivas/symfony-certification-guide
 
 ### Tool
 
@@ -70,6 +71,7 @@
 - https://bierbaumer.net/security/php-lfi-with-nginx-assistance + https://twitter.com/HolyBugx/status/1475564976198848516
 - https://community.sonarsource.com/t/code-security-advent-calendar-2021/53927
 - https://gist.github.com/loknop/b27422d355ea1fd0d90d6dbc1e278d4d
+- [vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises](https://github.com/roottusk/vapi)
 
 ### Miscellaneous
 

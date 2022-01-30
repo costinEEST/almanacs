@@ -204,6 +204,8 @@
 - [Import .ics files into Google Calendar with only two clicks](https://github.com/fmeum/ics2gcal)
 - https://github.com/Anarios/return-youtube-dislike
 - https://github.com/tombaranowicz/BetterNewTab
+- [Export Google Chrome bookmarks into markdown files](https://github.com/lubien/bookmarker)
+- [Sign transactions with your private keys securely from within the browser without ever exposing them](https://github.com/GetScatter/ScatterWebExtension)
 
 ### Bookmarklets
 
@@ -437,6 +439,7 @@ javascript: (() =>
 - https://webvitals.dev/cls
 - [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes)
 - https://calibreapp.com/tools/core-web-vitals-checker
+- [A curated list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 ### Miscellaneous
 

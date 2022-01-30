@@ -66,6 +66,7 @@
 - [Waiting for dependencies in tests](https://www.vegardstikbakke.com/dependencies/)
 - https://codereviewvideos.com/course/docker-tutorial-for-beginners
 - https://github.com/play-with-docker/play-with-docker
+- [Package your app as a Docker image, and launch it in 17 cities with one simple CLI](https://github.com/superfly/fly)
 
 ### Kubernetes
 
@@ -130,6 +131,7 @@
 
 ### References
 
+- https://github.com/learntocloud/learn-to-cloud
 - https://www.igmguru.com/cloud-computing/devops-certification-training
 - https://github.com/Tikam02/DevOps-Guide
 - https://github.com/trimstray/test-your-sysadmin-skills
@@ -160,6 +162,7 @@
 
 ### Vagrant
 
+- https://github.com/CsEnox/Art-of-Creating-Machines
 - [Visual Studio Code and Vagrant](https://twitter.com/iximiuz/status/1441090080760762374) + https://iximiuz.com/en/posts/how-to-setup-development-environment/#vscode-remote-vagrant
 
 ### CI/CD

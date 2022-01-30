@@ -52,6 +52,7 @@
 - [Convert an Apple Healthkit export zip to a SQLite database](https://github.com/dogsheep/healthkit-to-sqlite)
 - [Ghostferry is a library that enables you to selectively copy data from one mysql instance to another with minimal amount of downtime](https://github.com/Shopify/ghostferry)
 - https://shopify.engineering/upgrading-mysql-shopify
+- [SQL Designer, your online SQL diagramming tool](https://github.com/ondras/wwwsqldesigner)
 
 
 ### Hacks

@@ -162,3 +162,4 @@ curl v2.wttr.in/Bucharest
 - https://github.com/jaegeral/security-apis
 - https://github.com/inonshk/31-days-of-API-Security-Tips
 - https://github.com/daffainfo/all-about-apikey + https://api-guesser.netlify.app
+- https://github.com/GitGuardian/APISecurityBestPractices

@@ -13,6 +13,7 @@
 - [Stock app | CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6JOyF7jKb4aZsX0l6eDARp1)
 - [Evented Ruby vs Node.js by Jerry Cheung](https://speakerdeck.com/jch/evented-ruby-vs-nodejs)
 - [Building DevMail | Jess Martin](https://www.youtube.com/playlist?list=PLR5cUEyS7wdghZznk9yoEvcA848W3m16x)
+- https://github.com/cjavdev/video_automation
 
 ### Practice
 

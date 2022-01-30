@@ -270,6 +270,7 @@
 - https://github.com/fvictorio/hardhat-examples
 - [The ultimate guide to L2s on Ethereum](https://mirror.xyz/dcbuilder.eth/QX_ELJBQBm1Iq45ktPsz8pWLZN1C52DmEtH09boZuo0)
 - https://github.com/Haaroon/ether_parity_hack_Nov_2017
+- [Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum](https://github.com/diasjuniorr/tip-tweet)
 
 ### Demos
 

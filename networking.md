@@ -62,6 +62,7 @@
 - [What are folks using to allow remote workers to access devices/servers on the corporate intranet? Just paid for @Tailscale](https://twitter.com/tessalau/status/1250595471589957633)
 - https://github.com/anderspitman/awesome-tunneling
 - https://ronaldlangeveld.com/isp-logger + https://github.com/ronaldlangeveld/isplogger_server
+- [Manager for a VPN on an overlay network using Wireguard as the carrier](https://github.com/edomora97/wireguard-manager)
 
 ### The Open Systems Interconnection model
 
@@ -253,6 +254,10 @@
 ### Server Sent Events
 
 - https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug + https://twitter.com/b0rk/status/1348998823180382208
+
+### SMTP
+
+- [An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures](https://github.com/chenjj/espoofer)
 
 ### WebSockets
 
