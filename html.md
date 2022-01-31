@@ -235,3 +235,4 @@
 - [Open source emojis for designers, developers and everyone else!](https://github.com/hfg-gmuend/openmoji)
 - https://github.com/ikatyang/emoji-cheat-sheet
 - https://github.com/filedescriptor/Unicode-Mapping-on-Domain-names
+- https://github.com/javierbyte/emoji-to-scale

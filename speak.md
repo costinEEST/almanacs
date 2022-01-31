@@ -16,6 +16,7 @@
 - http://nosolosoftware.com/how-i-learned-the-nato-phonetic-alphabet
 - https://www.danielde.dev/blog/surprising-shared-word-etymologies 
 - [Interactive graph to discover the origin of the words](https://github.com/franloza/etygraph) + https://twitter.com/eduardoboucas/status/1389508646212706306
+- [Search 500+ untranslatable words by 70+ languages and 50+ tags](https://eunoia.world)
 
 ### Cinema
 
@@ -146,6 +147,7 @@
 
 - https://lindiebotes.com/2020/09/12/weekly-french-studyroutine
 - https://tvtropes.org/pmwiki/pmwiki.php/Main/EverythingSoundsSexierInFrench
+- [Union des francais et francophones de Roumanie](https://www.meetup.com/ufe-roumanie)
 
 ### German
 

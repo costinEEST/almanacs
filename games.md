@@ -27,6 +27,7 @@
 - https://masilotti.com/play-board-games-online
 - https://masilotti.com/great-two-player-board-games
 - https://github.com/oklemenz/PrinceJS
+- https://github.com/Vincenius/css-speedrun
 
 
 ### Mobile based

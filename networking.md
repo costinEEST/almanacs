@@ -162,6 +162,7 @@
 - [A "malicious" DNS server for executing DNS Rebinding attacks on the fly](https://github.com/brannondorsey/whonow)
 - https://github.com/indianajson/can-i-take-over-dns
 - https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break
+- https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Gerald-Doussot-Roger-Meyer-State-of-DNS-Rebinding-Attack-and-Prevention-Techniques-and-the-Singularity-of-Origin.pdf + https://youtu.be/y9-0lICNjOQ
 
 ### TCP/UDP
 
@@ -215,7 +216,7 @@
 - https://pokeinthe.io/2021/09/13/cache-control-recommendations + https://twitter.com/CubicleApril/status/1437466733762256901
 - [Cache Me If You Can: Messing with Web Caching](https://twitter.com/ldionmarcil/status/1137024673894490113)
 - [Learning HTTP Security Headers | Liran Tal](https://leanpub.com/securityheaders/read_full)
-
+- https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254
 
 ### HTTPS
 
