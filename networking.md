@@ -217,6 +217,7 @@
 - [Cache Me If You Can: Messing with Web Caching](https://twitter.com/ldionmarcil/status/1137024673894490113)
 - [Learning HTTP Security Headers | Liran Tal](https://leanpub.com/securityheaders/read_full)
 - https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254
+- https://simonhearne.com/2022/caching-header-best-practices
 
 ### HTTPS
 

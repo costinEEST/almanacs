@@ -1,6 +1,7 @@
-### Applications
+### Application
 
 - [A time tracking app that respects your privacy and the gets the job done without being fancy.](https://github.com/hamaluik/timecop)
+- https://github.com/ma-sujithkumar/Instragram-Videos-and-Display-Profile-Downloader-in-Flutter
 
 - https://www.amazon.com/Flutter-Complete-Reference-Create-beautiful-ebook
 

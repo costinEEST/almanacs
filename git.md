@@ -105,6 +105,7 @@
 - https://github.com/yangshun/delete-github-forks
 - https://blog.maximeheckel.com/posts/building-perfect-github-action-frontend-teams
 - https://blog.myitcv.io/2020/02/04/portable-ci-cd-with-pure-go-github-actions.html
+- https://egoist.sh/poor-man-backup
 
 ### Tool
 

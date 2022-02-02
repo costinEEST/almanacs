@@ -81,6 +81,7 @@
 - http://blog.notdot.net/2012/10/Build-your-own-FPGA
 - https://blog.robertelder.org/how-to-make-a-cpu
 - [Intel | Advent Of Computing](https://www.youtube.com/playlist?list=PLoKM3Qfxoe0mQOLtmoufTAv5-pqVU0sVm)
+- https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors
 
 ### Resistor
 
@@ -170,3 +171,4 @@
 
 - https://github.com/SoCFPGA-learning/General/blob/main/resources.md
 - [How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art)
+- https://github.com/ma-sujithkumar/Energy-Efficient-Home

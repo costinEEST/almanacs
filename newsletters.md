@@ -49,6 +49,7 @@
 - [Chris Hladczuk](https://www.getrevue.co/profile/chrishlad#archive)
 - [Prashant Bagga](https://us4.campaign-archive.com/home/?u=f80b1bc87f246a92fee9bfceb&id=8573422726)
 - [Packy McCormick](https://www.notboring.co/archive)
+- [Newsletter pe Legale: Ana-Maria Udriste and Bogdan Ciacli](https://avocatoo.substack.com)
 
 ### Buddhism
 
