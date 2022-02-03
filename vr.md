@@ -10,6 +10,7 @@
 - https://hackdesign.org/lessons/98-start-learning-3d
 - https://www.3dfordesigners.com
 - https://www.freecodecamp.org/news/learn-autocad-with-this-free-course
+- https://www.udemy.com/course/etabs-v19-safe-v16-in-villa-structural-design-in-uaecad
 
 ### Community
 

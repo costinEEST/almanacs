@@ -1,6 +1,7 @@
 ### AWS
 
 - [Cloudcraft – Draw AWS diagrams](https://cloudcraft.co)
+- https://github.com/undergroundwires/AWS-in-bullet-points
 - Build your first Serverless app using AWS Lambda and React - https://serverless-stack.com + https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMjvMVHPvTZpzHSbNcxZgnvjx
 - [📙 Amazon Web Services — a practical guide.](https://github.com/open-guides/og-aws)
 - https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services
@@ -56,6 +57,7 @@
 - https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan
 - https://www.udemy.com/course/automate-reactjs-springboot-cicd-pipelines-on-azuredevops
 - [A collection of scripts for assessing Microsoft Azure security](https://github.com/NetSPI/MicroBurst)
+- https://github.com/undergroundwires/Azure-in-bullet-points
 
 ### Cloudflare
 
