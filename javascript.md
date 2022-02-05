@@ -420,6 +420,7 @@
 
 ### Web Components
 
+- https://www.abeautifulsite.net/posts/a-web-components-primer
 - https://jeremenichelli.io/2017/10/the-web-components-experience
 - https://css-tricks.com/building-progress-ring-quickly
 - [A recipe for style preprocessors and Shadow DOM](https://github.com/jeremenichelli/movies-web-components)

@@ -8,6 +8,11 @@
 - https://www.victorkapra.ro/2021/12/aparut-somelierii-roboti-bazati
 - https://www.grunge.com/749148/the-scientific-reason-vodka-doesnt-freeze
 
+### Autism
+
+- https://www.academia.edu/43558273/Lost_in_Translation_Temple_Grandin_Sexual_Violence_and_The_Myth_of_Consent
+- https://youtu.be/eO-Tc46r-aQ
+
 ### Blood
 
 - https://www.redpenreviews.org/reviews/eat-right-4-your-type-the-individualized-blood-type-diet-solution

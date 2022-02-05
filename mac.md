@@ -6,6 +6,10 @@
 - https://github.com/nikitavoloboev/my-mac-os
 - [Get any text on your screen into your clipboard.](https://github.com/schappim/macOCR)
 
+### Development
+
+- https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store
+
 ### Hardware
 
 - https://www.macrumors.com/2020/12/29/apple-researching-keyboards-with-displays-on-keys

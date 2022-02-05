@@ -261,6 +261,7 @@
 - https://github.com/obensource/little-kiddo-learning
 - https://github.com/iharh/notes/tree/master/child
 - https://www.youtube.com/playlist?list=PLYVl5EnzwqsSR1KFlOnsG0uSKLN5ai_1w
+- https://www.fhautism.com/shop/the-outdoor-scientist-the-wonder-of-observing-the-natural-world
 
 ### Mindfulness
 

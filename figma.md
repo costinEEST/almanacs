@@ -22,6 +22,7 @@
 - https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma
 - https://www.udemy.com/course/learn-figma-ui-ux
 - https://www.freecodecamp.org/news/ui-design-with-figma-tutorial
+- https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design
 
 ### Cinema
 

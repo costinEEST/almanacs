@@ -92,6 +92,7 @@
 - https://growth.design/psychology + https://news.ycombinator.com/item?id=27004714
 - [2020 will mark 4 years since I made a career change into UX/UI Design with little/no previous experience designing apps & websites.](https://twitter.com/chrysking/status/1214301681502044160)
 - https://sparkbox.com/foundry/mobile_navigation_ux_navigation_menu_design_for_content_rich_websites
+- https://growth.design/case-studies/amazon-purchase-ux
 
 ### Portfolio
 
