@@ -9,6 +9,7 @@
 - https://owlspace.xyz/cybersec/steam-login
 - https://thehazarika.com/blog/programming/rsa-cryptosystem
 - https://github.com/TheAlgorithms/Algorithms-Explanation/tree/master/en/Ciphers
+- [Learning fast elliptic-curve cryptography](https://paulmillr.com/posts/noble-secp256k1-fast-ecc)
 
 ### Best practices
 
@@ -34,12 +35,14 @@
 - https://github.com/mikong/stanford-cryptography
 - https://github.com/mithi/simple-cryptography
 - https://github.com/iosifache/CryptographyProjects
+- https://github.com/cpeikert/TheoryOfCryptography
 
 ### Cinema
 
 - [Theory and Practice of Cryptography](https://www.youtube.com/playlist?list=PL10875C2002F7E6F6)
 - [ Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 - [Workshop on Elliptic Curve Cryptography ECC 2020](https://eccworkshop.org/2020)
+- [Mentoring Workshop and Videos@Crypto 2021](https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2)
 
 ### Certificates
 
@@ -73,10 +76,12 @@
 - [What goes into providing free automatic SSL at scale?](https://twitter.com/rauchg/status/1246894998731100160)
 - [Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni)
 - https://github.com/jmdx/TLS-poison
-- [Project for learning about OpenSSL.](https://github.com/danbev/learning-libcrypto)
+- [Project for learning about OpenSSL](https://github.com/danbev/learning-libcrypto)
 - [Matt's Let's Encrypt Automation](https://github.com/mattsta/lematt)
 - [TLS Mastery](https://news.ycombinator.com/item?id=26760032)
 - https://www.feistyduck.com/books
+- https://github.com/PacktPublishing/Demystifying-Cryptography-with-OpenSSL-3
+- [Post-quantum Cryptography and running experiments with it at Cloudflare](https://www.sofiaceli.com/2020/12/10/pq-kem-tls.html)
 
 ### References
 
@@ -87,6 +92,8 @@
 - https://digitalbunker.dev/2020/09/30/understanding-how-uuids-are-generated
 - [A collection of secure encryption examples for encrypting strings and binary data.](https://github.com/luke-park/SecureCompatibleEncryptionExamples)
 - https://github.com/SalusaSecondus/CryptoGotchas
+- https://github.com/claucece/formal-tutorials
+- https://github.com/claucece/useful-crypto-resources
 
 
 ### Practice

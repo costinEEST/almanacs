@@ -15,6 +15,7 @@
 - [How the tactical design patterns from Domain Driven Design may be implemented in Go](https://github.com/marcusolsson/goddd)
 - https://github.com/teh-cmc/go-internals
 - https://github.com/play-with-go/play-with-go
+- https://github.com/dgryski/go-perfbook
 
 ### Boots
 

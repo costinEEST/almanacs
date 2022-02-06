@@ -107,6 +107,7 @@
 - https://blog.myitcv.io/2020/02/04/portable-ci-cd-with-pure-go-github-actions.html
 - https://egoist.sh/poor-man-backup
 - https://github.com/undergroundwires/bump-everywhere
+- https://dovh.io/posts/2021-05-20-github-actions-automatic-release
 
 ### Tool
 

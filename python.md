@@ -160,7 +160,9 @@
 - https://github.com/piotrantosz/google-arts-crawler
 - https://github.com/MarcelloLins/ServerlessCrawler-VancouverRealState
 - https://github.com/Haaroon/CCC
-
+- https://github.com/devcoinfet/Not_Confused/blob/main/npmjs_search.py
+- https://github.com/molly/gh-dork
+- [A minimalistic script for scraping and converting Wikipedia tables to csv files](https://github.com/cartographia/wikiharvester)
 
 ### Security
 
