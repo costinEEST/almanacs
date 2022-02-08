@@ -105,6 +105,8 @@
 - [3d engine implementation in DNA code](https://github.com/pallada-92/dna-3d-engine)
 - https://github.com/bakirillov/awesome-underinvestigated-biology
 - [Curation of an international drug proprietary names dataset](https://www.sciencedirect.com/science/article/pii/S2352340921009768) + https://www.nlm.nih.gov/research/umls/rxnorm/index.html
+- https://www.labster.com/simulations
+- https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html,prototype
 
 
 ### Teachers

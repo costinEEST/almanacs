@@ -163,6 +163,7 @@
 - https://www.byzantineambassador.com/greek-and-latin
 - http://persarazvan.blogspot.com/p/studiu-limbi-clasice.html
 - https://dannybate.com/2021/01/18/from-english-to-greek-in-two-rules + https://twitter.com/DannyBate4/status/1352341590673649665
+- https://includejs.dev/notes/learning-greek-01
 
 ### Hungarian
 
@@ -175,6 +176,10 @@
 - [How to Speak Hindi | Anil Mahato](https://www.youtube.com/playlist?list=PLDC40D4D8C4E28BC3)
 
 - https://neustadt.fr/essays/teaching-myself-german
+
+### Italian
+
+- https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
 
 ### Japanese
 
@@ -233,6 +238,8 @@
 - https://autolingual.com/glossika-spanish
 - https://spanishhackers.com/glossika-full-review-pros-and-cons
 - [Pau Ninja: el podcast](https://www.youtube.com/channel/UC5ePjvY8eRFQpoUvw_nrl4Q/playlists) + https://www.amazon.com/Aprender-idiomas-sin-tonter%C3%ADas-aprender-ebook/dp/B078KVT9MX + https://medium.com/@pau_writes
+- https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Spanish
+- https://includejs.dev/notes/spanish-fluency-01
 
 ### Tibetan
 

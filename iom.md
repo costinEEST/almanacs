@@ -171,6 +171,7 @@
 - https://uncommoncore.co/wp-content/uploads/2019/10/A-model-for-Bitcoins-security-and-the-declining-block-subsidy-v1.02.pdf
 - https://twitter.com/summerofbitcoin/status/1436371656570654720 + https://blog.summerofbitcoin.org/#archive
 - https://teachbitcoin.io/curriculum + https://github.com/teachbitcoin/teachbitcoin.github.io
+- [how mining works](https://timechaindemo.io) + https://twitter.com/in3rsha/status/1473632489633632262
 
 ### Solana
 

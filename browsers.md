@@ -440,6 +440,7 @@ javascript: (() =>
 - [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes)
 - https://calibreapp.com/tools/core-web-vitals-checker
 - [A curated list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- https://3perf.com/talks/web-perf-101
 
 ### Miscellaneous
 

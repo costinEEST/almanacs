@@ -10,6 +10,7 @@
 - https://thehazarika.com/blog/programming/rsa-cryptosystem
 - https://github.com/TheAlgorithms/Algorithms-Explanation/tree/master/en/Ciphers
 - [Learning fast elliptic-curve cryptography](https://paulmillr.com/posts/noble-secp256k1-fast-ecc)
+- https://github.com/dmarman/sha256algorithm + https://twitter.com/manceraio/status/1491148795325087744
 
 ### Best practices
 

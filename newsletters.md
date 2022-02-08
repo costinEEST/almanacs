@@ -117,6 +117,7 @@
 - [Web3Coach](https://us19.campaign-archive.com/home/?u=0adf077591251fc41bf4c12c9&id=8e4d58de3c)
 - [Joseph Schiarizzi](https://www.getrevue.co/profile/cupojoseph)
 - http://newsletters.vitadao.com
+- [Andreas Antonopoulos](https://us5.campaign-archive.com/home/?u=7f45612d2cf69803c4dbf4deb&id=991e861204)
 
 ### Investing
 

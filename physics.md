@@ -55,6 +55,7 @@
 - https://github.com/llSourcell/Learn_Physics_in_2_Months
 - https://guzey.com/where-does-talent-come-from
 - https://ciechanow.ski/naval-architecture 
+- https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype
 
 ### Engine
 

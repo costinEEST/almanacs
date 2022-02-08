@@ -18,6 +18,7 @@
 - https://github.com/WizardTim/cheatsheets/blob/master/ffmpeg.md
 - https://blog.youtube/inside-youtube/on-youtubes-recommendation-system
 - https://github.com/eggheadio/how-to-egghead
+- [Illegal streams, decrypting m3u8's, and building a better stream experience](https://blog.jonlu.ca/posts/illegal-streams)
 
 ### Tool
 
