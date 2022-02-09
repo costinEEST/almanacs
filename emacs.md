@@ -29,3 +29,4 @@
 - https://github.com/alphapapa/emacs-package-dev-handbook
 - https://leanpub.com/emacs-org-leanpub
 - https://leanpub.com/lit-config
+- https://rebeja.eu/posts/python-ide-with-emacs-and-docker

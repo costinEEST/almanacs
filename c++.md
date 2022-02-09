@@ -48,6 +48,7 @@
 - https://blog.m-ou.se/compile-time-unit-arithmetic
 - https://github.com/tobanteAudio/juce-cookbook
 - https://github.com/MattPD/cpplinks
+- [Introduction to GPU programming using CUDA | Apetrei Ciprian](https://docs.google.com/presentation/d/1WNzH-C6kiyjGGQ8P1gdT36_WfH7W4JTV)
 
 ### Implementation
 

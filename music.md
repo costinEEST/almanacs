@@ -113,16 +113,18 @@
 - https://99percentinvisible.org/episode/the-real-book + https://news.ycombinator.com/item?id=26737142
 - https://en.wikipedia.org/wiki/Jazz_Age
 - https://blog.sophaskins.net/blog/jazz-albums-for-the-socially-distanced
+- [The Subject is Jazz](https://www.youtube.com/playlist?list=PLKcw8FT1mrfDQuTAKB1OPXNDuYyby89nY)
 
 ### Rock
 
 - https://www.emag.ro/timpul-chitarelor-florian-pitis-dorin-liviu-zaharia-si-epoca-folk-doru-ionescu-eik978-606-711-711-0/pd/D7G8NFBBM + https://carturesti.ro/carte/timpul-chitarelor-cornel-chiriac-si-epoca-beat-1041696 + https://www.facebook.com/tvrplus/posts/2102991826466028 + https://www.facebook.com/FlorinChilianOfficial/posts/248015428618478
 
-### Rap
+### Hip Hop
 
 - [Lyrical Breakdowns - Behind That Suit](https://www.youtube.com/playlist?list=PLeOfpS14yhmFk0wvWMLQYkArbkxEhDLRM)
 - https://sandymaguire.me/blog/rap-guide
 - https://soulislove.com/kategori/rap
+- [Hip Hop to da Head](https://www.youtube.com/playlist?list=PL3FF42D99BD0CFC43)
 
 ### Radio
 

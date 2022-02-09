@@ -75,6 +75,7 @@
 - https://github.com/coding-horror/basic-computer-games
 - https://uxdesign.cc/wordle-ux-sometimes-a-game-just-feels-good-8749b26834ef
 - https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners
+- https://profs.info.uaic.ro/~mmoruz/courses/GD2021.html
 
 ### The creators
 
