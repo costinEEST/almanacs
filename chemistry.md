@@ -1,5 +1,6 @@
 ### Battery
 
+- https://giuliomagnifico.blog/tutorial/2022/01/30/automationtip-to-preserve-battery.html
 - https://www.anthropocenemagazine.org/2021/09/a-spoonful-of-sugar-makes-a-better-battery
 - https://www.intercalation.co/resources + https://twitter.com/IntercalationSt/status/1437695386374873090
 - https://science.slashdot.org/story/21/11/12/221222/chemists-discover-new-way-to-harness-energy-from-ammonia + https://phys.org/news/2021-11-chemists-harness-energy-ammonia.html
@@ -29,6 +30,7 @@
 - [Lithium-ion batteries | Billy Wu](https://www.youtube.com/playlist?list=PLAkf2LZiuWhmnZfOrLRBhe8kdVyp83Uzv)
 - https://www.youtube.com/user/APphyzicks/playlists
 - http://lacey.se/2018/11/26/my-week-realscientists
+- [Behind the Nobels](https://www.youtube.com/playlist?list=PLOBSt4XMk5LVQEWmjOQA4KlyU-KzDLEB0)
 
 ### Course
 
@@ -81,4 +83,5 @@
 
 - [Cell Siders](https://open.spotify.com/show/2I2gNULTcq4MxEfJ8zu0uR)
 - https://anchor.fm/battery-associates
+- https://www.chemistryworld.com/podcasts/bookclub
 

@@ -63,6 +63,7 @@
 - https://github.com/anderspitman/awesome-tunneling
 - https://ronaldlangeveld.com/isp-logger + https://github.com/ronaldlangeveld/isplogger_server
 - [Manager for a VPN on an overlay network using Wireguard as the carrier](https://github.com/edomora97/wireguard-manager)
+- https://giuliomagnifico.blog/tutorial/2021/08/03/wireguard-dd-wrt-dynamic-ip.html
 
 ### The Open Systems Interconnection model
 
@@ -116,6 +117,7 @@
 - [tools to facilitate the analysis of the DJI drone WiFi communication protocol](https://github.com/Toemsel/dji-wifi-tools)
 - https://www.logsign.com/blog/warxing-in-cyber-security
 - [Cellular | cemaxecuter](https://www.youtube.com/playlist?list=PLXjRrYsXOd9fJZbM-k2M_SaBmRGMsJS2u)
+- https://sensepost.com/blog/2022/sim-hijacking
 
 ### 3G
 
@@ -137,6 +139,7 @@
 - https://medium.com/lotus-fruit/socket-programming-the-bizarre-tcp-ip-port-0-saga-cafc82252923
 - https://samy.pl/slipstream + https://twitter.com/samykamkar/status/1322671073893126144 + https://youtu.be/1Ajwdb2kqWk + https://youtu.be/8cXOERg-soY
 - [get an IP in a geographical location or country](https://www.netmeister.org/gip)
+- https://i.blackhat.com/EU-21/Wednesday/EU-21-Shupeng-New-Ways-of-IPV6-Scanning.pdf
 
 ### Domain Name System (DNS)
 

@@ -8,6 +8,8 @@
 - https://www.scribd.com/doc/262317806/Buna-Ziua-Domnule-Ampere-Tomas-Borec
 - [Every Life Is on Fire: How Thermodynamics Explains the Origins of Living Things | Jeremy England](https://www.amazon.com/gp/product/B083JYRMSF)
 - https://www.privatdozent.co/p/the-best-books-on-the-golden-age
+- https://www.amazon.com/Science-City-Mechanics-Metropolis-Bloomsbury/dp/1472913213
+- https://www.amazon.com/Sticky-Science-Surfaces-Laurie-Winkless-ebook/dp/B09BGRZY31
 
 ### Cinema
 

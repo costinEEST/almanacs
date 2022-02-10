@@ -69,6 +69,7 @@
 - https://github.com/Besnn/computer-science-and-computer-engineering-books-and-resources
 - https://github.com/trevor-vincent/awesome-high-performance-computing
 - https://galaxy.opensyllabus.org/#!search/courses/electronics
+- https://www.udemy.com/course/complete-course-in-autocad-electrical-2021
 
 ### Chip
 

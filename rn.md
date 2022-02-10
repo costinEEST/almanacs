@@ -65,6 +65,7 @@
 - https://github.com/IRONKAGE/Device-Script-React-Native + https://ironkage.medium.com/run-any-ios-simulator-on-react-narive-fec0739a79e9
 - [Exit,close,kill,shutdown app completely for React Native on iOS and Android.](https://github.com/wumke/react-native-exit-app)
 - https://github.com/ReactNativeSchool/codepush-github-actions-demo/tree/main/.github/workflows
+- [I can’t prove this but I suspect if someone built a Next.js/Remix/etc for React Native (i.e. single codebase for client and server) they would make a trillion dollars](https://twitter.com/acdlite/status/1489755769876754434)
 
 ### Testing
 
@@ -126,7 +127,7 @@
 - https://medium.com/@nima-ahmadi/layout-animations-in-react-native-bee7644c13ae
 - https://medium.com/nerd-for-tech/react-native-two-important-lessons-i-learned-the-hard-way-3a524bbcef48
 
-### Packages
+### Package
 
 - https://twitter.com/calintamas2/status/1255568420470431744
 - https://github.com/mmazzarolo/react-native-dialog
@@ -146,6 +147,7 @@
 - [Initiate immediate phone call for React Native on iOS and Android.](https://github.com/tuanlv89/react-native-immediate-call-library)
 - [Use ESBuild to make your React Native code bundle faster.](https://github.com/EvanBacon/metro-minify-esbuild)
 - https://github.com/DylanVann/react-native-fast-image
+- [Seeing many people compare React Navigation to React Router](https://twitter.com/satya164/status/1490279552882511878)
 
 ### Debugging
 

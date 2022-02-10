@@ -179,6 +179,7 @@
 - https://unicorn-utterances.com/posts/react-refs-complete-story 
 - https://ui.dev/useref
 - https://betterprogramming.pub/why-you-should-be-separating-your-server-cache-from-your-ui-state-1585a9ae8336
+- [The composition patterns (usage of children) that we sometimes use to optimize can also be used to interleave components of different types](https://twitter.com/sebmarkbage/status/1096115287781400576)
 
 ### Concurrent Mode/Suspense
 
@@ -232,6 +233,7 @@
 - [Learn @framer Motion in 10 Tweets](https://twitter.com/willjohnsonio/status/1396857844973064202)
 - https://weser.io/blog/spacing-children-in-react
 - https://souporserious.com/bringing-swiftui-stacks-to-the-web
+- https://benadam.me/thoughts/react-svg-sprites
 
 ### Server side rendering
 
@@ -259,6 +261,7 @@
 - https://wooorm.com/server-components-mdx-demo
 - https://github.com/nikolasburk/server-components-demo-with-prisma + https://twitter.com/nikolasburk/status/1347231065602187272
 - [Shopify's vision for the future of commerce with Ilya Grigorik](https://changelog.com/podcast/469)
+- https://shopify.engineering/react-server-components-best-practices-hydrogen
 
 ### State management
 
@@ -285,7 +288,7 @@
 - https://blog.logrocket.com/refactoring-redux-app-to-use-recoil + https://github.com/ohansemmanuel/benutzer/tree/recoil-multiple-user + https://github.com/ohansemmanuel/benutzer/tree/redux-multi-users
 - [7Guis in React](https://github.com/andrewgreenh/7guis)
 - https://www.youtube.com/playlist?list=PLNqp92_EXZBIqX8DWmwmJmxeHiq-Ut4W1
-
+- https://tkdodo.eu/blog/offline-react-query
 
 ### Preact
 

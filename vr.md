@@ -35,6 +35,7 @@
 - [I got my entire Svelte UI running inside my @aframevr scene.](https://twitter.com/devonsbradley/status/1218339257586077696)
 - https://twitter.com/thespite/status/1331655224793194499
 - https://www.facebook.com/flyoverzone + www.flyoverzone.com
+- [Browse the streets of Los Angeles on an Augmented Reality historical walking tour](https://github.com/vanvoorden/NBARRuscha)
 
 ### Development
 

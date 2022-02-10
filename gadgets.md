@@ -51,6 +51,7 @@
 - [4k monitors](https://twitter.com/rogie/status/1221294864144318468)
 - https://coolaj86.com/articles/best-thunderbolt-display-imac-monitor-alternative
 - https://sprocketfox.io/xssfox/2021/12/02/xrandr
+- https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development
 
 ### Phone
 
@@ -91,6 +92,8 @@
 - https://quanticdev.com/articles/max-value-pc-build-guide
 - https://wincent.com/blog/building-a-pc
 - https://jongleberry.com/posts/travel-gear-2021
+- https://giuliomagnifico.blog/misc/2022/01/14/my-home-setup.html
+
 
 ### Webcam
 

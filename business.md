@@ -118,6 +118,7 @@
 - [Meaning making and leadership | Luke McBain](https://www.youtube.com/playlist?list=PLoQL7TYFGA1pgi5Ejf8wcN35pUgoXbw12)
 - https://www.udemy.com/course/the-complete-leadership-mastery-course
 - https://github.com/gabiduarte/awesome-techleads
+- [What are the best podcasts on management & leadership?](https://twitter.com/michelletandler/status/1489348838754172931)
 
 ### Strategy
 

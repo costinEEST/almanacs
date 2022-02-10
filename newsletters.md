@@ -60,6 +60,7 @@
 
 - [Battery Modeling Webinar](https://us18.campaign-archive.com/home/?u=e3dd1920324b4db3a51b620ca&id=4e19a481ac)
 - https://intercalationstation.substack.com/archive
+- [Daniel Kent](https://techtricity.substack.com/archive)
 
 ### Constructions
 

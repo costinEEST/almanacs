@@ -15,3 +15,4 @@
 - [Using cURL to download sequential files](https://www.taylorbell.com/txt/code/curl-range)
 - https://cameronnokes.com/blog/jq-cheatsheet/#piping-from-curl
 - https://github.com/HolyBugx/HolyTips/tree/main/Scripts
+- https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json
