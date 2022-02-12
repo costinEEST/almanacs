@@ -60,6 +60,7 @@
 - [The Android Device Database](http://newandroidbook.com/ddb)
 - [web app to generate a generic privacy policy for your Android/iOS apps](https://github.com/nisrulz/app-privacy-policy-generator)
 - https://github.com/google/android-emulator-container-scripts
+- [automate APK reversing](https://twitter.com/nullenc0de/status/1483142647791460358) + https://github.com/nullenc0de/reverse-apk
 
 ### APIs
 

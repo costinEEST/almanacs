@@ -34,6 +34,7 @@
 - https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra + https://github.com/wrongbaud/hackaday-u + https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi
 - https://www.udemy.com/user/cristina-gheorghisan
 - https://github.com/iosifache/BinExpLabs
+- https://omu.rce.so/gcc-2022
 
 ### Book
 

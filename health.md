@@ -32,6 +32,7 @@
 - [educating the public about neurodiversity](https://github.com/alvarlagerlof/neurodiversity)
 - https://aeon.co/essays/dreams-are-a-precious-resource-dont-let-advertisers-hack-them
 - [Alexandru Babeș, Povestea creierului](https://bibliotecaexploratorilor.substack.com/p/povestea-creierului)
+- [Consciousness and the Physical World, edited by V. S. Ramachandran and Brian Josephson](https://twitter.com/curiouswavefn/status/1491640407217770502)
 
 ### Book
 

@@ -10,6 +10,10 @@
 - https://www.privatdozent.co/p/the-best-books-on-the-golden-age
 - https://www.amazon.com/Science-City-Mechanics-Metropolis-Bloomsbury/dp/1472913213
 - https://www.amazon.com/Sticky-Science-Surfaces-Laurie-Winkless-ebook/dp/B09BGRZY31
+- [So Simple a Beginning: How Four Physical Principles Shape Our Living World | Raghuveer Parthasarathy](https://press.princeton.edu/books/hardcover/9780691200408/so-simple-a-beginning)
+- https://press.princeton.edu/books/paperback/9780691223650/a-students-guide-to-python-for-physical-modeling
+- [From Photon to Neuron: Light, Imaging, Vision | Philip Nelson](https://www.physics.upenn.edu/biophys/PtN/index.html)
+- [Unearthing Fermi’s Geophysics | Gino C. Segrè and John D. Stack](https://press.uchicago.edu/ucp/books/book/chicago/U/bo113867788.html)
 
 ### Cinema
 

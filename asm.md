@@ -29,6 +29,7 @@
 - [CS 3330: Undergraduate Computer Architecture](http://www.cs.virginia.edu/~av6ds/classes/cs3330/sp21)
 - [CS 6354: Graduate Computer Architecture](http://www.cs.virginia.edu/~av6ds/classes/cs6354/fa19)
 - [Introduction to Assembly | Irvin Lemus](https://github.com/infosecirvin/assembly)
+- https://omu.rce.so/lessons/asm-x86-64
 
 ### Cinema
 

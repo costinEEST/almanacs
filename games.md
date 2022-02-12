@@ -76,6 +76,7 @@
 - https://uxdesign.cc/wordle-ux-sometimes-a-game-just-feels-good-8749b26834ef
 - https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners
 - https://profs.info.uaic.ro/~mmoruz/courses/GD2021.html
+- [Solving Wordle using information theory](https://github.com/3b1b/videos/tree/master/_2022/wordle)
 
 ### The creators
 

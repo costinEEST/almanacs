@@ -52,6 +52,7 @@
 - https://lyz-code.github.io/blue-book/writing/writing
 - https://www.indiehackers.com/post/my-7-favorite-writing-tools-a61ab86f56 
 - [A cross-platform AutoHotKey-like thing with TypeScript as its scripting language](https://github.com/suchipi/suchibot)
+- [Student's Guide to Physical Modeling with MATLAB](https://github.com/NelsonUpenn/PMLS-MATLAB-Guide)
 
 ### Miscellaneous
 

@@ -24,6 +24,7 @@
 - [Jacques Attali | Scurtă istorie a viitorului](https://www.polirom.ro/web/polirom/ebook/-/ebook/6081) + [Jacques Attali | Cum să ne apărăm de crizele următoare](https://www.polirom.ro/web/polirom/ebook/-/ebook/7065)
 - https://bogdanbocse.com/embodied-computational-calculus + https://bogdanbocse.com/embodied-computational-calculus
 - https://github.com/zslucky/awesome-AI-books
+- [I read a lot of books this year to broaden my horizons in AI/ML with adjacent or complementary disciplines](https://twitter.com/Thom_Wolf/status/1475460073719742465)
 
 ### Course
 

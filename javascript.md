@@ -561,6 +561,7 @@
 - [Tips and tricks for working with types in JavaScript](https://github.com/voxpelli/types-in-js)
 - https://scriptingosx.com/2021/11/the-unexpected-return-of-javascript-for-automation
 - https://github.com/suchipi/simple-codemod-script
+- [a function that creates the text change(s) to add a missing import(s) to a file](https://twitter.com/JoshuaKGoldberg/status/1488974653821530114) + https://github.com/nuxt/framework/blob/main/packages/nuxt3/src/auto-imports/transform.ts
 
 ### Documentation
 
