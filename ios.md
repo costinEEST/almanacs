@@ -13,6 +13,7 @@
 - https://mobilityarena.com/ios-apps-are-larger-than-android-apps
 - [SwissCovid is the official contact tracing app of Switzerland.](https://github.com/DP-3T/dp3t-app-ios-ch)
 - [thesis: comparing methods of teaching emotions to people on the Autism spectrum](http://www.lizziesiegle.xyz/thesis.pdf)
+- https://github.com/dkhamsing/open-source-ios-apps
 
 ### Cinema
 
@@ -34,7 +35,7 @@
 
 - [How I built two iPhone 6S's from parts for $80 each](https://twitter.com/hackerfantastic/status/1211088686802096128)
 
-### Tools
+### Tool
 
 - [Virtual machines for iOS](https://github.com/utmapp/UTM)
 - https://blog.prototypr.io/a-designers-guide-to-switching-from-ios-to-android-c4c54fb03786

@@ -236,3 +236,4 @@
 - https://github.com/ikatyang/emoji-cheat-sheet
 - https://github.com/filedescriptor/Unicode-Mapping-on-Domain-names
 - https://github.com/javierbyte/emoji-to-scale
+- https://sethmlarson.dev/blog/utf-8

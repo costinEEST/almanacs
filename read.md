@@ -24,6 +24,7 @@
 - ['How to read a (good) book in one hour' by Chris Kelty](https://savageminds.org/2007/10/01/how-to-read-a-good-book-in-one-hour)
 - ['How to Read a Book' by Paul Edwards](http://utminers.utep.edu/trcurry/howtoread.pdf)
 - https://blog.jessfraz.com/post/the-art-of-automation
+- https://kapravelos.com/advice
 
 ### Tool
 

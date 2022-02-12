@@ -19,10 +19,11 @@
 - https://akshaykhandalkar.wordpress.com/2018/02/09/5-best-headphones-for-study-and-work
 - https://www.amazon.co.uk/Sennheiser-Special-Open-Headphone-Black/dp/B07Q7S7247
 
-### Laptops
+### Laptop
 
 - [Why Chrome OS?](https://twitter.com/WebReflection/status/1244374562139242497)
 - [Reviews ~ Just Josh](https://www.youtube.com/playlist?list=PLUkjpFwWO9XkPWBing0cgdzKHUfewUVpu)
+- https://127001.me/post/ten-years-of-thinkpadding
 
 ### Keyboard
 
