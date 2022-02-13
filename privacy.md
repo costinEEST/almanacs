@@ -128,6 +128,7 @@
 - [A directory of direct links to delete your account from web services](https://backgroundchecks.org/justdeleteme)
 - [Digital Security for Filmmakers](https://digitalsecurity.film)
 - https://www.carscoops.com/2021/12/thieves-are-now-using-apple-airtags-to-track-and-steal-high-end-vehicles
+- https://www.bellingcat.com/resources/2022/02/11/radar-interference-tracker-a-new-open-source-tool-to-locate-active-military-radar-systems + 
 
 ### Social media
 
