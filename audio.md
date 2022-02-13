@@ -60,6 +60,7 @@
 - [A mini Spotify player with WebGL visualizations](https://github.com/dvx/lofi)
 - [How I organise and import new music](https://blog.vararu.org/new-music)
 - https://www.flyingcroissant.ca/making-playlists
+- [Cross browser Speech Synthesis](https://github.com/jankapunkt/easy-speech)
 
 ### Security
 

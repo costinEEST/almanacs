@@ -1,3 +1,8 @@
+### .dat
+
+- https://darekkay.com/blog/foobar2000-playlist-index-format
+
+
 ### .doc
 
 - https://github.com/hanhanhanz/cyber-security-sources/blob/main/officeFileExploitation.md

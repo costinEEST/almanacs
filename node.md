@@ -428,6 +428,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [A JavaScript library for generating random user agents with data that's updated daily](https://github.com/intoli/user-agents)
 - [FIDE (International Chess Federation) ratings pages scraper](https://github.com/xRuiAlves/fide-ratings-scraper)
 - https://github.com/sw-yx/brain/blob/master/R%20-%20Product/Automation%20Notes.md
+- https://github.com/kennymkchan/nba-topshot-scraper
 
 ### Micro service
 

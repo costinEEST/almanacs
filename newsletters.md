@@ -11,6 +11,7 @@
 - [T12t](https://us14.campaign-archive.com/home/?u=23907132d7bd3ae259858b057&id=b8c09bd7b1)
 - [Nielsen Norman Group](https://us4.campaign-archive.com/home/?u=538d934a891681a5d850bb4e5&id=7f29a2b335)
 - [Chris Ashton](https://ashton.codes/category/frequent11y)
+- [Alexa Heinrich](https://alexaheinrich.substack.com/archive)
 
 ### Archeology
 

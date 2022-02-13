@@ -70,6 +70,7 @@
 - https://github.com/trevor-vincent/awesome-high-performance-computing
 - https://galaxy.opensyllabus.org/#!search/courses/electronics
 - https://www.udemy.com/course/complete-course-in-autocad-electrical-2021
+- https://github.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015 + https://jasonwebb.io/2017/06/designing-and-teaching-how-to-build-almost-anything-at-metropolitan-community-colleges-fablab
 
 ### Chip
 

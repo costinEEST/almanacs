@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - http://astocko.com/post/c-resources
 - https://nostarch.com/Effective_C
@@ -18,6 +18,7 @@
 - https://github.com/gerasdf/InsecureProgramming
 - [Autotools, 2nd Edition: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool Illustrated Edition by John Calcote](https://www.amazon.com/Autotools-2nd-John-Calcote/dp/1593279728)
 - [Operating Systems: Three Easy Pieces](https://github.com/remzi-arpacidusseau/ostep-code)
+- https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaBooks/C-Programming/master/README.md#1
 
 ### Cinema
 

@@ -1,13 +1,12 @@
 #### Why?
 
-##### I am using this collections as a way to create an online mind map with the things that I want to learn or experiment with.
+##### To have a searchable entry point for almost every subject worth studying or practicing.
 
-##### It is also a dump of the browser's bookmarks or Google's documents/email.
+##### The repo contains a dump of resources organized into files.
 
-##### Some links could be deleted if I don't find them relevant at some point in time.
+##### At some point, some of the links will be removed or moved into another file.
 
-##### Most of the links are listed here for the potential of being useful someday.
-
+- [Accessibility](a11y.md)
 - [Artificial intelligence](ai.md)
 - [Anatomy](anatomy.md)
 - [Android](android.md)

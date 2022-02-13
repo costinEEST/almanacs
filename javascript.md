@@ -481,6 +481,7 @@
 - [A collection of public resources about how software companies test their software](https://github.com/abhivaikar/howtheytest)
 - [take a js/ts file as input and generate a jest unit test file next to it with all imports mocked and tests stubs for every class method and function exported](https://github.com/egm0121/jest-test-gen)
 - https://github.com/rmurphey/js-assessment
+- https://solverfox.dev/writing/testing-dispatch-event-pitfalls
 
 
 ### Virtual machines
@@ -562,6 +563,8 @@
 - https://scriptingosx.com/2021/11/the-unexpected-return-of-javascript-for-automation
 - https://github.com/suchipi/simple-codemod-script
 - [a function that creates the text change(s) to add a missing import(s) to a file](https://twitter.com/JoshuaKGoldberg/status/1488974653821530114) + https://github.com/nuxt/framework/blob/main/packages/nuxt3/src/auto-imports/transform.ts
+- [Show a rich diff of your published files in npm in your CI environment](https://solverfox.dev/writing/npm-publish-diff)
+- https://github.com/eps1lon/dom-accessibility-api
 
 ### Documentation
 

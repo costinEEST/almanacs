@@ -27,6 +27,7 @@
 ### Development
 
 - https://firt.dev/pwa-2021
+- https://microsoft.github.io/win-student-devs/#/30DaysOfPWA/kickoff
 - https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa
 - [Utilities for common patterns that help you build your Progressive Web App](https://github.com/thepassle/pwa-helpers)
 - https://dev.to/thepassle/lessons-learned-building-a-covid-19-pwa-57fi

@@ -179,15 +179,20 @@
 - [Environmental User Interfaces - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc7JsHHB2R-wihnNbFX2BwPE) + https://bobburrough.com/public/post/surely_you_cant_be_serious_bob
 - https://www.better.dev/intro-to-faster-with-emmet
 
-### References
+### Opinion
 
+- https://meiert.com/en/blog/minimal-web-development
+- https://mark.berthelemy.net/2021/07/26/future-of-scorm + https://www.youtube.com/playlist?list=PL9Ar8Q1P0Odt8MslZpZ1KlAz0ss059Hs-
+
+### Reference
+
+- https://meiert.com/en/indices/html-elements
 - https://github.com/raunofreiberg/ui-playbook
 - [Guidance for designing ethically humane digital products through patterns focused on user well-being.](https://humanebydesign.com)
 - https://css-tricks.com/how-to-section-your-html
 - http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
 - https://allthetags.com
 - https://www.goodemailcode.com
-- https://meiert.com/en/blog/minimal-web-development
 - https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 - [top of a page](https://twitter.com/simonhearne/status/1259927098040467457)
 - https://web.dev/building-a-tabs-component

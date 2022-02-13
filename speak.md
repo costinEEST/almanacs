@@ -133,6 +133,7 @@
 - https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers
 - [Dictionary of English medical terms for LibreOffice/OpenOffice/Android/Word](https://github.com/glutanimate/wordlist-medicalterms-en)
 - https://www.udemy.com/course/the-melody-of-english
+- [Organizing Our Marvellous Neighbours: How to Feel Good About Canadian English | Joe Clark](https://joeclark.org/en-ca)
 
 ### Esperanto
 

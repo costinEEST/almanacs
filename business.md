@@ -106,6 +106,7 @@
 - https://github.com/ProductHired/open-product-management
 - https://github.com/domenicosolazzo/awesome-okr
 - https://github.com/kuchin/awesome-cto
+- https://meiert.com/en/blog/professional-agile-leadership-resources
 
 ### Leadership
 
@@ -193,6 +194,7 @@
 - https://www.udemy.com/course/introduction-to-value-growth-investing
 - https://www.udemy.com/course/value-growth-investing-academy
 - https://valuegrowthinvesting.teachable.com/courses
+- https://luttig.substack.com/p/dont-forget-microsoft
 
 ### Economics
 

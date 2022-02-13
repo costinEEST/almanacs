@@ -53,6 +53,7 @@
 - https://thecreativeindependent.com/library
 - https://chad.is/reading
 - https://taylorpearson.me/bookreview
+- https://www.lukemcgrath.co.uk/books
 - [Søren Birkemeyer](https://annualbeta.com/bookshelf)
 - [Jake Trent](https://jaketrent.com/book)
 - https://benmccormick.org/reviews-archive

@@ -206,6 +206,7 @@
 - https://github.com/tombaranowicz/BetterNewTab
 - [Export Google Chrome bookmarks into markdown files](https://github.com/lubien/bookmarker)
 - [Sign transactions with your private keys securely from within the browser without ever exposing them](https://github.com/GetScatter/ScatterWebExtension)
+- https://github.com/zach-adams/downloads-overwrite-already-existing-files
 
 ### Bookmarklets
 
@@ -266,6 +267,7 @@ javascript: (() =>
 - https://timvisee.com/blog/firefox-tricks-quantumbar
 - https://nelsonslog.wordpress.com/2021/12/07/firefox-compat-hacks
 - https://nelsonslog.wordpress.com/2021/12/22/faking-geolocation-in-firefox
+- [Separate Firefox Dark UI theme from website dark mode](https://twitter.com/darek_kay/status/1468171089796911109)
 
 ### Safari
 
@@ -461,6 +463,7 @@ javascript: (() =>
 - https://github.com/captainbrosset/devtools-tips
 - [estimating the % of web users that have certain web features natively supported](https://github.com/paulirish/web-feature-availability)
 - [From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers](https://github.com/RUB-NDS/xsinator.com)
+- https://github.com/iipc/awesome-web-archiving
   
 ### History
 

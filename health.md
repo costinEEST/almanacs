@@ -371,6 +371,7 @@
 - https://www.newyorker.com/news/q-and-a/how-south-african-researchers-identified-the-omicron-variant-of-covid
 - https://www.newscientist.com/article/2304340-strongest-evidence-yet-that-ms-is-caused-by-epstein-barr-virus
 - https://www.voxa.ro/ebooks/infectiile-de-origine-animala-si-urmatoarea-pandemie
+- https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html 
 
 ### Radiation
 

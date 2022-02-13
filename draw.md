@@ -38,6 +38,8 @@
 - https://blog.excalidraw.com/introducing-excalidraw-plus + https://news.ycombinator.com/item?id=27034119
 - https://github.com/nikitavoloboev/knowledge/blob/main/art/drawing.md
 - https://britcruise.com/2021/12/10/the-launch-of-story-xperiential-2
+- https://github.com/beardicus/awesome-plotters
+- https://github.com/jasonwebb/morphogenesis-resources
 
 ### Miscellaneous
 
