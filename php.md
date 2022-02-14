@@ -102,3 +102,4 @@
 - https://freek.dev/1940-why-and-how-you-should-remove-inactive-users-and-teams
 - https://front-line-php.com/cheat-sheet
 - https://codereviewvideos.com/blog/my-setup
+- https://github.com/CatalinFrancu/coin-pusher

@@ -118,6 +118,8 @@
 - https://www.logsign.com/blog/warxing-in-cyber-security
 - [Cellular | cemaxecuter](https://www.youtube.com/playlist?list=PLXjRrYsXOd9fJZbM-k2M_SaBmRGMsJS2u)
 - https://sensepost.com/blog/2022/sim-hijacking
+- https://onmyway133.com/posts/learning-voip-rtp-and-sip-aka-awesome-pjsip
+- https://github.com/onmyway133/awesome-voip
 
 ### 3G
 

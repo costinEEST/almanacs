@@ -88,6 +88,7 @@
 - [App for picture maintenance](https://github.com/timitoc/groupicture)
 - [app that guides you into a parallel parking space using the Toyota CAN Gateway API via bluetooth](https://github.com/diafygi/ppark)
 - https://github.com/prateekcode/AndroidEssentialLibraries
+- https://github.com/onmyway133/awesome-android-architecture
 
 ### Opinion
 

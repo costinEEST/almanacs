@@ -19,9 +19,14 @@
 - https://github.com/Lascorbe/CocoaConferences
 - https://scriptingosx.com/swift
 
+### Community
+
+- [Khoa Pham](https://onmyway133.com)
+
 ### Demo
 
 - [macOS status monitoring app](https://github.com/gao-sun/eul)
+- https://github.com/onmyway133/archives
 
 
 ### Development
@@ -35,11 +40,14 @@
 - [SwiftUI + SceneKit + Lidar](https://github.com/rom4in/scenemesh)
 - https://medium.com/async/a-react-native-engineer-builds-a-swiftui-app-the-good-the-bad-and-the-bee871bb9baa + https://github.com/computerjazz/computers-and-jazz
 - https://danmiranda.io/content/building-a-card-memory-game-in-swift
+- [Recommended resource for learning SwiftUI](https://github.com/onmyway133/blog/issues/862)
+- https://github.com/onmyway133/emoji
 
 ### Practice
 
 - https://github.com/soapyigu/Swift-30-Projects
 - https://www.apple.com/swift/playgrounds
+- https://www.freecodecamp.org/news/learn-ios-best-practices-by-building-a-simple-recipes-app-9bcbce4d10d
 
 ### Opinion
 
@@ -55,4 +63,5 @@
 - [iOS Library List - A useful collection for iOS developers](https://github.com/hugo53/iLL)
 - https://github.com/onmyway133/fantastic-ios-architecture
 - https://github.com/JohnSundell/SwiftTips
+- https://github.com/kudoleh/iOS-Modular-Architecture
 

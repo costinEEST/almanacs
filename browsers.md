@@ -207,6 +207,7 @@
 - [Export Google Chrome bookmarks into markdown files](https://github.com/lubien/bookmarker)
 - [Sign transactions with your private keys securely from within the browser without ever exposing them](https://github.com/GetScatter/ScatterWebExtension)
 - https://github.com/zach-adams/downloads-overwrite-already-existing-files
+- https://dexonline.ro/static/download/dex-ff.xpi + https://addons.mozilla.org/ro/firefox/addon/dexonline
 
 ### Bookmarklets
 

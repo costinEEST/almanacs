@@ -97,6 +97,8 @@
 - https://drfits.com/lan-connection-is-not-working-on-linux
 - https://github.com/binarymist/command-line/blob/master/linux.md
 - https://www.wezm.net/v2/posts/2020/github-emoji-linux
+- https://github.com/nobodino/slackware-from-scratch
+- https://github.com/gg7/gentoo-kernel-guide
 
 ### Embedded
 

@@ -15,6 +15,7 @@
 ### Book
 
 - https://github.com/changwookjun/StudyBook
+- https://github.com/oz123/awesome-c#beginner-books
 - https://github.com/jackdoe/programming-for-kids
 - https://book.pythontips.com/en/latest
 - https://automatetheboringstuff.com/2e
@@ -43,6 +44,9 @@
 - [An automated Twitter Bot that Tweets random Battery Simulations and replies to requested Battery Simulations on Twitter](https://github.com/pybamm-team/BattBot)
 - https://github.com/nicbou/berlin-bot
 - https://github.com/karlicoss/fbmessengerexport
+- https://github.com/deepserket/walkdir-telegram-bot
+- [Telegram Bot that searches definitions for Romanian words using dexonline](https://github.com/revolter/DexRoBot)
+- [Telegram Bot that converts some file types to native photo, audio or video Telegram messages](https://github.com/revolter/FileConvertBot)
 
 ### Clean code
 
@@ -74,6 +78,7 @@
 - https://www.udemy.com/course/python-for-bioinformatics-self-learning-course
 - https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
 - https://github.com/dabeaz-course/practical-python
+- https://github.com/oz123/advanced-python
 
 ### Cinema
 

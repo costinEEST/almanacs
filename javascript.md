@@ -412,6 +412,7 @@
 - https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html + https://news.ycombinator.com/item?id=27129858
 - https://whistlr.info/2020/understanding-load
 - [DOM Traversing and Scraping using GraphQL](https://github.com/syrusakbary/gdom)
+- [Collection of functions used for DOM manipulations](https://github.com/revolter/min)
 
 ### Single-page application
 

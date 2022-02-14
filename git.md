@@ -38,6 +38,7 @@
 - https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git
 - https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer
 - https://www.mikestreety.co.uk/blog/git-clone-a-repository-without-the-history
+- https://onmyway133.com/posts/useful-git-commands-for-everyday-use
 
 ### TIL
 

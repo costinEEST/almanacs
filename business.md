@@ -57,6 +57,7 @@
 - https://github.com/danielsundermeier/knowledge/blob/master/business/business.md
 - https://jongleberry.com/posts/where-to-share-referral-codes
 - [collected advice for beginner indie hackers, focused on pricing, landing pages](https://github.com/sw-yx/launch-cheatsheet)
+- https://github.com/onmyway133/awesome-online-earning
 
 ### Branding
 

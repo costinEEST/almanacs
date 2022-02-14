@@ -1,10 +1,14 @@
-### Applications
+### Application
 
 - https://github.com/serhii-londar/open-source-mac-os-apps
+- [Oss Wiki - Must have open source Mac apps](https://www.oss.wiki)
 - Watch YouTube videos on your Mac via CLI: [tweet](https://twitter.com/JNYBGR/status/1216006056150781953) + [repo](https://github.com/JonnyBurger/pipcorn/)
 - [Auto Wake Up, Auto play favorite music](https://blog.hoangnm.com/2016/02/29/auto-wake-up-autoplay-favourite-music)
 - https://github.com/nikitavoloboev/my-mac-os
 - [Get any text on your screen into your clipboard.](https://github.com/schappim/macOCR)
+- https://onmyway133.com/posts/20-recommended-utility-apps-for-macos
+- https://medium.com/fantageek/i-create-an-app-to-tweak-hidden-settings-and-extra-utilities-on-mac-7c022ea24663
+- [What are some good open-source macOS apps you can't live without?](https://twitter.com/onmyway133/status/1488610069717606400)
 
 ### Development
 

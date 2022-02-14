@@ -187,6 +187,7 @@
 - https://github.com/solana-dev-adv/solana-cookbook/projects/1
 - https://solana.com/news/solana-energy-usage-report-november-2021
 - https://twitter.com/Justin_Bons/status/1478873392208093184
+- https://github.com/onmyway133/blog/issues/862
 
 ### Solidity
 

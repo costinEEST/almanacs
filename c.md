@@ -2,6 +2,7 @@
 
 - http://astocko.com/post/c-resources
 - https://nostarch.com/Effective_C
+- https://github.com/CatalinFrancu/psycho + http://probleme.francu.com/rom/home.html
 - [Angrave's Crowd-Sourced System Programming Book used at UIUC](https://github.com/angrave/SystemProgramming/wiki)
 - [Computer Science from the Bottom Up.](https://www.bottomupcs.com/index.xhtml)
 - [Free System Programming Textbook (Illinois CS241)](http://cs241.cs.illinois.edu/coursebook/index.html) + https://news.ycombinator.com/item?id=22798616

@@ -86,6 +86,7 @@
 - https://www.beatportal.com/features/beatports-definitive-guide-to-techno + https://news.ycombinator.com/item?id=26977869
 - [Constantin Brăiloiu](https://en.wikipedia.org/wiki/Constantin_Br%C4%83iloiu)
 - https://divyendusingh.com/music-theory-and-generation
+- https://catalin.francu.com/Music
 
 ### Song
 

@@ -31,6 +31,11 @@
 - https://github.com/macshome/The-Wisdom-of-Quinn
 - [Mohammad Azam](https://www.youtube.com/user/azamsharp/playlists)
 
+### Development
+
+- https://github.com/onmyway133/awesome-ios-architecture
+- https://medium.com/fantageek/best-places-to-learn-ios-development-85ebebe890cf
+
 ### Hardware
 
 - [How I built two iPhone 6S's from parts for $80 each](https://twitter.com/hackerfantastic/status/1211088686802096128)
@@ -48,6 +53,7 @@
 - https://github.com/jphong1111/awesome-ios-developer
 - https://github.com/738/awesome-apple-watch
 - https://nuculabs.dev/2022/01/22/iphone-6s-battery-replacement
+- [Xcode extension that evaluates selected mathematical expressions and replaces them with the result](https://github.com/revolter/EvaluateForXcode)
 
 ### Security
 
