@@ -168,6 +168,7 @@
 - https://github.com/devcoinfet/Not_Confused/blob/main/npmjs_search.py
 - https://github.com/molly/gh-dork
 - [A minimalistic script for scraping and converting Wikipedia tables to csv files](https://github.com/cartographia/wikiharvester)
+- [Proof of concept for abusing Telegram's "People Near Me" feature and tracking people's location](https://github.com/jkctech/Telegram-Trilateration)
 
 ### Security
 

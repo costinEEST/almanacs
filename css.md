@@ -77,6 +77,7 @@
 - [https://observablehq.com/@danburzo/css-gradient-line](https://observablehq.com/@danburzo/css-gradient-line)
 - https://courses.joshwcomeau.com/css-for-js/treasure-trove/014-color-palettes
 - https://ciechanow.ski/color-spaces
+- https://www.amazon.com/Color-Scheme-Irreverent-History-Palettes-ebook/dp/B093QTSYPR
 
 ### Community
 
