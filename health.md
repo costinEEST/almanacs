@@ -65,6 +65,7 @@
 - [Cultivating the Breath as a Symbol](https://goula.sh/days/2021-03-13)
 - [Educational/Tips | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8qU_CVwuipR5R5ezRVk9EwF)
 - [Extra History: Medicine](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5Dl5NX3frM2m-bnWam8TnC2)
+- Histoire du trafic de drogue: https://www.youtube.com/watch?v=nwvwQOe5Etw + https://www.youtube.com/watch?v=YE3xMlZaCmc + https://www.youtube.com/watch?v=6M5fKngFjZk
 
 ### Course
 
@@ -91,6 +92,7 @@
 - https://shepherd.com/best-books/food-history
 - [Flavours of Romania | Catalin Fodoreanu](https://www.youtube.com/playlist?list=PLOcodIKqXP5ARcdh8aqJ_zLwiu3wmG_1F)
 - https://www.amazon.com/Plant-Forward-Keto-Flexible-Recipes-Variety-ebook/dp/B09KKZ12QS + https://www.youtube.com/channel/UCLCkYnR002MFtWO4LX_TB0Q/playlists
+- https://www.monitorulsv.ro/Reportaj/2022-02-14/Ciorba-radauteana-implineste-40-de-ani-de-cand-a-intrat-in-meniurile-restaurantelor-din-Bucovina-cucerind-intreaga-lume
 
 ### Cholesterol
 
@@ -176,6 +178,7 @@
 - [Lactate threshold training health biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z8z0O-Oqm9wUsfywDOgQgU)
 - https://darebee.com/programs/30-days-of-yoga.html
 - https://youtu.be/a4viuDH4VeM?t=176 + https://www.powells.com/book/the-secret-to-superhuman-strength-9780544387652
+- https://www.udemy.com/course/program-to-lose-7kg-in-only-1-week
 
 ### Injuries
 

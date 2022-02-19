@@ -66,6 +66,7 @@
 - https://www.fastcompany.com/90656667/the-best-olympic-logos-of-all-time-according-to-design-experts
 - https://lithub.com/the-25-most-iconic-book-covers-in-history
 - https://www.shutterstock.com/blog/graphic-design-movements-throughout-history
+- https://www.iconeye.com/design/best-graphic-designers-need-follow
 
 ### Inspire
 

@@ -125,3 +125,4 @@
 - https://simonaileapop.wordpress.com/2013/01/01/profesorului-gheba-omul-care-a-scos-la-tabla-tara-intreaga
 - [Liping Ma](https://twitter.com/stevenstrogatz/status/1445373622898630665)
 - https://kotaku.com/on-pornhub-math-teacher-makes-his-mark-teaching-calcul-1847927535
+- https://www.observatorcultural.ro/author/liviuornea

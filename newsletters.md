@@ -24,6 +24,7 @@
 ### Art
 
 - [The National Arts Club](https://us19.campaign-archive.com/home/?u=36de95fdf00c57337d2408ebc&id=f9c2c1789e)
+- [Institutul Național al Patrimoniului](https://us16.campaign-archive.com/home/?u=35f8c83675a30cbd5bec41a1b&id=367c70318f)
 
 ### Artificial intelligence
 

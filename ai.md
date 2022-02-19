@@ -81,6 +81,7 @@
 
 ### References
 
+- https://github.com/AMAI-GmbH/AI-Expert-Roadmap
 - https://twitter.com/binitamshah/status/1312760070183153665
 - https://github.com/leandromineti/ml-knowledge-graph
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
@@ -96,7 +97,6 @@
 - https://github.com/mrdbourke/machine-learning-roadmap
 - https://medium.com/javascript-in-plain-english/ml-for-js-devs-in-10-minutes-46794782762e
 - https://twitter.com/EmilWallner/status/1301565902765293574
-- https://github.com/AMAI-GmbH/AI-Expert-Roadmap
 - https://towardsdatascience.com/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f
 - https://github.com/dformoso/machine-learning-mindmap
 - [Visual Studio Code extension to quickly generate docstrings for Python functions using AI](https://github.com/graykode/ai-docstring)

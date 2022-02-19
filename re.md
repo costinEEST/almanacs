@@ -50,6 +50,10 @@
 - [Jonathan Brossard](https://www.slideshare.net/endrazine/presentations)
 - https://github.com/stong/infosec-resources
 
+### Cinema
+
+- https://www.youtube.com/c/OALabs/playlists
+
 ### Tools
 
 - https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md

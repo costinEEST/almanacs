@@ -11,6 +11,10 @@
 - https://www.amazon.co.uk/Birds-Britannica-Mark-Cocker/dp/0701169079
 - https://bibliotecaexploratorilor.substack.com/p/cele-mai-bune-carti-despre-pasari
 
+### Fishes
+
+- https://www.facebook.com/Tot.C.Sorin
+
 ### Picture
 
 - https://www.flickr.com/photos/biodivlibrary/albums
@@ -59,3 +63,4 @@
 - https://www.biographic.com/when-turtles-fly
 - https://www.zmescience.com/science/biology/arctic-foxes-gardens-30112021
 - https://www.theguardian.com/news/2018/sep/18/a-giant-crawling-brain-the-jaw-dropping-world-of-termites
+- https://jezebel.com/tender-animal-sex-1848502315
