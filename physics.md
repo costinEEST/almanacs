@@ -14,6 +14,8 @@
 - https://press.princeton.edu/books/paperback/9780691223650/a-students-guide-to-python-for-physical-modeling
 - [From Photon to Neuron: Light, Imaging, Vision | Philip Nelson](https://www.physics.upenn.edu/biophys/PtN/index.html)
 - [Unearthing Fermi’s Geophysics | Gino C. Segrè and John D. Stack](https://press.uchicago.edu/ucp/books/book/chicago/U/bo113867788.html)
+- https://www.amazon.com/Particle-Physics-Short-Introduction-Introductions-ebook-dp-B003CI90VC/dp/B003CI90VC
+- https://www.amazon.com/Field-Guide-Radiation-Wayne-Biddle-ebook/dp/B0072NWIQ2
 
 ### Cinema
 

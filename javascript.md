@@ -574,6 +574,7 @@
 - https://adambard.com/blog/on-library-versioning
 - https://timothygu.me/es-howto + https://github.com/TimothyGu/es-howto
 - [Underscore.js annotated source](https://web.archive.org/web/20151205080537/http://documentcloud.github.io:80/underscore/docs/underscore.html)
+- https://ryzokuken.dev/slides
 
 ### Opinion
 

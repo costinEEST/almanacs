@@ -25,6 +25,7 @@
 - https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js
 - https://www.udemy.com/course/oauth-2-simplified
 - https://github.com/wolfejw86/get-racket-twitterbot + https://www.youtube.com/playlist?list=PLU_22oKqONimKqe-2LmsEG5MvaZcRL101
+- [Passwordless and 2FA auth without a database](https://github.com/sffc/easy-no-password)
 
 ### API
 
@@ -262,6 +263,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Output a buffer in emojis](https://github.com/pfrazee/base-emoji)
 - https://kevin.burke.dev/kevin/node-js-string-encoding
 - [Proposal for future Node.js streaming data APIs: "Bytes over Buffers"](https://fishrock123.github.io/nodejs-collab-summit-montreal-2019) + https://github.com/Fishrock123/bob
+
+### Crypto `node:crypto`
 
 ### Stream
 

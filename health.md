@@ -93,6 +93,7 @@
 - [Flavours of Romania | Catalin Fodoreanu](https://www.youtube.com/playlist?list=PLOcodIKqXP5ARcdh8aqJ_zLwiu3wmG_1F)
 - https://www.amazon.com/Plant-Forward-Keto-Flexible-Recipes-Variety-ebook/dp/B09KKZ12QS + https://www.youtube.com/channel/UCLCkYnR002MFtWO4LX_TB0Q/playlists
 - https://www.monitorulsv.ro/Reportaj/2022-02-14/Ciorba-radauteana-implineste-40-de-ani-de-cand-a-intrat-in-meniurile-restaurantelor-din-Bucovina-cucerind-intreaga-lume
+- https://www.udemy.com/course/no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food
 
 ### Cholesterol
 
@@ -273,7 +274,7 @@
 - https://hyperallergic.com/686707/a-psychedelic-history-of-mushrooms-as-medicine
 - https://www.wired.com/story/fungi-climate-change-medicine-health
 - https://www.udemy.com/course/general-mycology-a-brief-review
-
+- https://www.mycoworks.com/resources + https://www.mushroomrevival.com/blogs/podcast/fine-mycelium-with-dr-matt-scullin
 
 ### Cannabis
 

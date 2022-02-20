@@ -1,8 +1,9 @@
 
 ### Book
 
-- https://legacy.gitbook.com/book/rubyfu/rubyfu/details
-- https://legacy.gitbook.com/book/learnbyexample/ruby-scripting/details
+- https://github.com/learnbyexample/ThinkRubyBuild
+- https://github.com/learnbyexample/Ruby_Scripting
+- https://github.com/rubyfu/RubyFu
 
 ### Cinema
 
@@ -24,6 +25,7 @@
 
 ### Reference
 
+- [Comprehensive changelog of Ruby Programming Language](https://github.com/rubyreferences/rubychanges)
 - https://github.com/franzejr/best-ruby
 - https://twitter.com/Khazaara/status/1436674315211132928
 - https://github.com/gauthamchandra/learning-ruby-from-js

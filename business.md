@@ -109,6 +109,7 @@
 - https://github.com/domenicosolazzo/awesome-okr
 - https://github.com/kuchin/awesome-cto
 - https://meiert.com/en/blog/professional-agile-leadership-resources
+- https://github.com/pdfernhout/High-Performance-Organizations-Reading-List
 
 ### Leadership
 

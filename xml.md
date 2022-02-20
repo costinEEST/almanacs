@@ -1,6 +1,7 @@
 ### Book
 
 - https://www.scribd.com/document/496829075/XML-JSON-Programming-For-Beginners-Learn-Coding-Fast-by-Yao-Ray-Z-lib-org
+- https://leanpub.com/therailsway-xml
 
 ### Course
 
