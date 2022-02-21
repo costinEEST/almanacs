@@ -242,3 +242,5 @@
 - https://github.com/filedescriptor/Unicode-Mapping-on-Domain-names
 - https://github.com/javierbyte/emoji-to-scale
 - https://sethmlarson.dev/blog/utf-8
+- http://www.irongeek.com/homoglyph-attack-generator.php
+- https://util.unicode.org/UnicodeJsps/confusables.jsp
