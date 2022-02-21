@@ -1,6 +1,7 @@
 ### Book
 
 - https://inquisitivebiologist.com/2021/12/10/book-review-sentient-what-animals-reveal-about-our-senses
+- https://inquisitivebiologist.com/2022/02/21/book-review-paleontology-an-illustrated-history
 
 ### Course
 

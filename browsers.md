@@ -234,10 +234,10 @@ javascript: (() =>
 
 ### Chrome
 
+- https://github.com/Eloston/ungoogled-chromium
 - https://kayce.basqu.es/portfolio
 - [When testing your redirects with Chrome, always test a 302 before a 301](https://twitter.com/Nick_Craver/status/1190228229979877378)
 - https://github.com/jbranchaud/til#chrome
-- https://github.com/Eloston/ungoogled-chromium
 - [Create HAR files from Chrome Debugging Protocol data.](https://github.com/sitespeedio/chrome-har)
 - [Output a video file from screenshot frames within a Chrome DevTools JSON trace file.](https://github.com/justinribeiro/devtools-to-video)
 - [This tool downloads, installs, and configures a shiny new copy of Chromium.](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/march/autochrome)

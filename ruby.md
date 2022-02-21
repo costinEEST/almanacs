@@ -4,6 +4,7 @@
 - https://github.com/learnbyexample/ThinkRubyBuild
 - https://github.com/learnbyexample/Ruby_Scripting
 - https://github.com/rubyfu/RubyFu
+- https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C
 
 ### Cinema
 
@@ -15,6 +16,15 @@
 - [Evented Ruby vs Node.js by Jerry Cheung](https://speakerdeck.com/jch/evented-ruby-vs-nodejs)
 - [Building DevMail | Jess Martin](https://www.youtube.com/playlist?list=PLR5cUEyS7wdghZznk9yoEvcA848W3m16x)
 - https://github.com/cjavdev/video_automation
+
+### Course
+
+- https://www.udemy.com/course/ruby-on-rails-api-the-complete-guide
+
+### Community
+
+- [Ruby User Group Berlin](https://www.rug-b.de)
+- https://github.com/phoet/on_ruby
 
 ### Practice
 

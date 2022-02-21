@@ -99,6 +99,7 @@
 - https://www.wezm.net/v2/posts/2020/github-emoji-linux
 - https://github.com/nobodino/slackware-from-scratch
 - https://github.com/gg7/gentoo-kernel-guide
+- https://lipanski.com/posts/custom-keyboard-layout
 
 ### Embedded
 

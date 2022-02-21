@@ -129,6 +129,7 @@
 - https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1
 - https://samuelkraft.com/blog/safari-15-bottom-tab-bars-web
 - https://www.bram.us/2021/12/27/css-in-2022
+- https://ishadeed.com/snippet/fit-content
 
 ### Selector
 
@@ -244,7 +245,7 @@
 - https://davidwalsh.name/detect-overflow-elements
 - https://github.com/sachin1092/awesome-material
 - https://github.com/davidgilbertson/know-it-all
-  
+- [Tailwind CSS components](https://postsrc.com/components)
 
 ### Security
 
