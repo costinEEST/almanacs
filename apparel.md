@@ -25,3 +25,4 @@
 ### Tent
 
 - https://www.themanual.com/outdoors/best-tents-for-heavy-rain
+- https://www.outsideonline.com/outdoor-gear/camping/jake-lah-dac-tents

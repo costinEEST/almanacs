@@ -39,6 +39,7 @@
 
 ### Stoicism
 
+- https://reasonio.teachable.com/p/epictetus-enchiridion
 - https://figsinwinter.blog/2021/07/30/how-to-live-a-good-life-two-examples
 - https://www.youtube.com/playlist?list=PLAYxecbGotUxSZhQ-Gte_UAMs1RQAckSv
 

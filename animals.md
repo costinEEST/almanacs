@@ -12,6 +12,10 @@
 - https://www.amazon.co.uk/Birds-Britannica-Mark-Cocker/dp/0701169079
 - https://bibliotecaexploratorilor.substack.com/p/cele-mai-bune-carti-despre-pasari
 
+### Dog
+
+- https://www.science.org/content/article/new-sense-discovered-dog-noses-ability-detect-heat
+
 ### Fishes
 
 - https://www.facebook.com/Tot.C.Sorin

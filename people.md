@@ -12,6 +12,7 @@
 - https://www.academia.edu/49977807/Aristotel_Organon_vol_1_tr_Mircea_Florian_1997_1957_
 - https://www.academia.edu/49977753/Aristotel_Organon_vol_2_tr_Mircea_Florian_1998_1958_
 - https://www.academia.edu/49977571/Ammonius_Stephanus_Comentarii_la_Tratatul_Despre_Interpretare_al_lui_Aristotel_tr_C_Noica_1971_
+- https://reasonio.teachable.com/p/aristotle-s-nicomachean-ethics-books-1-10
 
 ### Aaron Swartz
 

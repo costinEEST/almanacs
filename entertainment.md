@@ -51,6 +51,7 @@
 - https://www.atlasobscura.com/articles/one-of-the-earliest-science-fiction-books-was-written-in-the-1600s-by-a-duchess + https://news.ycombinator.com/item?id=23894582
 - https://en.wikipedia.org/wiki/White_Noise_(novel)
 - [Schools offer History classes. What if they also offered Future classes?](https://twitter.com/devonzuegel/status/1287594829904596992) + https://en.wikipedia.org/wiki/Psychohistory_(fictional)
+- https://reasonio.teachable.com/p/worlds-of-speculative-fiction
 
 ### Sociology
 
@@ -109,6 +110,7 @@
 - https://www.strangeloopcanon.com/p/the-endearing-mythology-of-a-flat
 - https://www.amazon.com/Firmament-Science-Weather-Climate-Surrounds-ebook/dp/B092LN5DQ1
 - [Plaid Avenger: GEOG 1014 - Geography of World Regions | CosmoLearning Geography](https://www.youtube.com/playlist?list=PLaLOVNqqD-2F5X2eC4jjlXuqMmXqmWusB)
+- https://www.goodhousekeeping.com/life/travel/g39178103/top-places-that-inspired-disney-movies
 
 ### History
 
