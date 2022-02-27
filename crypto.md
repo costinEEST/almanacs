@@ -37,6 +37,7 @@
 - https://github.com/mithi/simple-cryptography
 - https://github.com/iosifache/CryptographyProjects
 - https://github.com/cpeikert/TheoryOfCryptography
+- https://www.udemy.com/course/securite-cryptographie-concepts-avances-pki
 
 ### Cinema
 

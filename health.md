@@ -70,6 +70,7 @@
 ### Course
 
 - https://www.udemy.com/course/nutrition-masterclass-course
+- https://www.udemy.com/course/essential-oils-for-your-health
 
 ### Community
 

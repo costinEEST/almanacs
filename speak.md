@@ -134,6 +134,7 @@
 - [Dictionary of English medical terms for LibreOffice/OpenOffice/Android/Word](https://github.com/glutanimate/wordlist-medicalterms-en)
 - https://www.udemy.com/course/the-melody-of-english
 - [Organizing Our Marvellous Neighbours: How to Feel Good About Canadian English | Joe Clark](https://joeclark.org/en-ca)
+- https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english
 
 ### Esperanto
 
@@ -219,6 +220,7 @@
 
 - [Faxina, a Portuguese language narrative podcast exploring the lives of Brazilian migrant house cleaners living and working in the United States](https://www.faxinapodcast.com)
 - https://aiydreen.com/portuguese
+- https://www.udemy.com/course/faq-perguntas-e-respostas-frequentes-em-ingles
 
 ### Serbian
 

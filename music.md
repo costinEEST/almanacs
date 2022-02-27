@@ -102,6 +102,7 @@
 - https://www.rollingstone.com/music/music-lists/best-spanish-language-albums-2021-1269982
 - https://getpocket.com/collections/the-backstories-behind-your-favorite-christmas-songs
 - https://theboot.com/hank-williams-songs
+- https://theatticmag.com/features/2326/the-complex-case-of-romanian-folklore-in-pasolini's-oedipus-rex.html
 
 ### Jazz
 

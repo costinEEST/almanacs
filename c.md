@@ -48,13 +48,15 @@
 
 - [Program in C (Parody song)](https://fasterthanli.me/blog/2019/program-in-c)
 
-### Compilers
+### Compiler
 
 - [A Compiler Writing Journey.](https://github.com/DoctorWkt/acwj) + https://twitter.com/binitamshah/status/1312760842119569409
 - https://github.com/seven1m/malcc
 - https://godbolt.org
 - [Getting the maximum of your C compiler, for security](https://airbus-seclab.github.io/c-compiler-security) + https://twitter.com/AirbusSecLab/status/1432681320833036294
 - [Advanced compilers](https://github.com/sampsyo/cs6120)
+- [Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes](http://lambda-the-ultimate.org/node/5648)
+
 
 ### Virtual machines
 
