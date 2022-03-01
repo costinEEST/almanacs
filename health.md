@@ -71,6 +71,7 @@
 
 - https://www.udemy.com/course/nutrition-masterclass-course
 - https://www.udemy.com/course/essential-oils-for-your-health
+- https://www.udemy.com/course/sports-nutrition-for-athletes-and-fitness-enthusiasts/
 
 ### Community
 
@@ -276,6 +277,7 @@
 - https://www.wired.com/story/fungi-climate-change-medicine-health
 - https://www.udemy.com/course/general-mycology-a-brief-review
 - https://www.mycoworks.com/resources + https://www.mushroomrevival.com/blogs/podcast/fine-mycelium-with-dr-matt-scullin
+- https://inquisitivebiologist.com/2022/02/25/book-review-finding-the-mother-tree-uncovering-the-wisdom-and-intelligence-of-the-forest
 
 ### Cannabis
 

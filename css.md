@@ -246,6 +246,7 @@
 - https://github.com/sachin1092/awesome-material
 - https://github.com/davidgilbertson/know-it-all
 - [Tailwind CSS components](https://postsrc.com/components)
+- [Alfred 4 Workflow to find the perfect color in the Tailwind Color Palette](https://github.com/MatthysDev/alfred-tailwind-colors)
 
 ### Security
 

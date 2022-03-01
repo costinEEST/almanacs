@@ -142,6 +142,7 @@
 - https://samy.pl/slipstream + https://twitter.com/samykamkar/status/1322671073893126144 + https://youtu.be/1Ajwdb2kqWk + https://youtu.be/8cXOERg-soY
 - [get an IP in a geographical location or country](https://www.netmeister.org/gip)
 - https://i.blackhat.com/EU-21/Wednesday/EU-21-Shupeng-New-Ways-of-IPV6-Scanning.pdf
+- https://lite.ip2location.com/russian-federation-ip-address-ranges
 
 ### Domain Name System (DNS)
 

@@ -1,3 +1,7 @@
+### Book
+
+- [Solutions to the exercises in Joe Armstrong's book "Programming Erlang" 2nd Edition](https://github.com/Stratus3D/programming_erlang_exercises)
+
 ### Opinion
 
 - https://github.com/jasoncwarner/ama/issues/1#issuecomment-610971535

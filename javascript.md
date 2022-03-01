@@ -577,6 +577,11 @@
 - [Underscore.js annotated source](https://web.archive.org/web/20151205080537/http://documentcloud.github.io:80/underscore/docs/underscore.html)
 - https://ryzokuken.dev/slides
 
+### Debugging
+
+- https://mmazzarolo.com/blog/2022-02-16-track-down-the-javascript-code-responsible-for-polluting-the-global-scope 
+
+
 ### Opinion
 
 - [Building better developers by specifying criteria of success](https://github.com/prettydiff/wisdom)

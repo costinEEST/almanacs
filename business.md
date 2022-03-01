@@ -37,6 +37,7 @@
 - [Simple cultural training & sensitization to deal with business people from various national cultures, management styles](https://www.udemy.com/course/cross-cultural-management-made-easy)
 - https://www.udemy.com/course/analytics-of-pricing-and-revenue-with-excel-python
 - [Whiteboard Videos (NFX Essays)](https://www.youtube.com/playlist?list=PLsJrGp31IOefcwlyFN9F6YPUFCNlM51hs)
+- [Refresh: the show about building an indie developer business](https://refresh-show.notion.site/Refresh-355e7181c3a6425380f460c9fdcc0630)
 
 ### Course
 

@@ -22,6 +22,7 @@
 ### Community
 
 - [Denise Schmandt-Besserat](https://en.wikipedia.org/wiki/Denise_Schmandt-Besserat#Career)
+- https://github.com/antoinentl/web-books-initiatives
 
 ### Tool
 
@@ -53,6 +54,7 @@
 - https://www.indiehackers.com/post/my-7-favorite-writing-tools-a61ab86f56 
 - [A cross-platform AutoHotKey-like thing with TypeScript as its scripting language](https://github.com/suchipi/suchibot)
 - [Student's Guide to Physical Modeling with MATLAB](https://github.com/NelsonUpenn/PMLS-MATLAB-Guide)
+- https://julie-blanc.fr/en/blog/2021-04-16_hackathon-pagedjs
 
 ### Miscellaneous
 

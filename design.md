@@ -38,6 +38,7 @@
 - https://www.domestika.org/en/blog/5606-7-masters-of-graphic-design-share-their-industry-insider-secrets
 - https://davidhoang.substack.com/p/talks-that-shaped-my-philosophies
 - [Logo theory | Will Paterson](https://www.youtube.com/playlist?list=PLLuEl8fyPVgOl1HDi4_qZSieM_JLTWz7u)
+- [Designing App Icons](https://www.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
 
 ### Course
 

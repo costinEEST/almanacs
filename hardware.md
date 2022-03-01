@@ -17,6 +17,7 @@
 - https://github.com/ReversingID/Awesome-Reversing/blob/master/_hardware.md
 - [The Pinouts Book is a quick reference for remembering the different pinout functions in your electronics projects](https://pinouts.org)
 - https://galaxy.opensyllabus.org/#!search/works/electronics
+- https://www.amazon.com/Understanding-Software-Addison-Wesley-Professional-Computing-ebook-dp-B09H5JB5HC/dp/B09H5JB5HC
 
 ### Cinema
 
@@ -84,6 +85,7 @@
 - https://blog.robertelder.org/how-to-make-a-cpu
 - [Intel | Advent Of Computing](https://www.youtube.com/playlist?list=PLoKM3Qfxoe0mQOLtmoufTAv5-pqVU0sVm)
 - https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors
+- https://www.wired.com/story/intel-lab-istare-hack-chips
 
 ### Resistor
 
@@ -163,6 +165,7 @@
 - https://www.stavros.io/posts/make-pcbs-at-home
 - https://www.davidsopas.com/my-red-team-assessment-hardware-list
 - https://github.com/TM90/awesome-hwd-tools
+- [OpenBenchmarking.org - Cross-Platform, Open-Source Automated Benchmarking Platform](https://openbenchmarking.org)
 
 ### History
 

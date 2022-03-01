@@ -125,3 +125,4 @@
 - [A minimalistic android backdoor](https://github.com/Ch0pin/AndroidWebDoor)
 - https://ctrsec.io/index.php/2021/09/29/weak-key-cryptography-in-real-world-english
 - https://palant.info/2021/02/22/setup-for-testing-android-app-vulnerabilities
+- [Cryptographic design and implementation of Android’s Hardware-Backed Keystore in Samsung’s Galaxy S8, S9, S10, S20, and S21 flagship devices. The paper provide a detailed description of the cryptographic design and code structure, and severe design flaws](https://eprint.iacr.org/2022/208.pdf)

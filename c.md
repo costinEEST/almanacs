@@ -36,6 +36,7 @@
 - https://www.udemy.com/course/an-introduction-to-debugging-c-and-java
 - https://blog.robertelder.org/regular-expressions + https://www.youtube.com/playlist?list=PLp31D6HATKfdc5PSJTx7rIvlTLCSM5nDi
 - [YouTube Channels to Level Up Your Programming Skills](https://news.ycombinator.com/item?id=24589474)
+- https://github.com/riti2409/Resources-for-preparation-Of-Placements
 
 ### Articles
 
@@ -110,6 +111,7 @@
 ### Security
 
 - [Baron Samedit: Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
+- https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow
 
 ### Tool
 

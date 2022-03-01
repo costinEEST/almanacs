@@ -78,6 +78,7 @@
 ### JSON
 
 - https://github.com/jdorfman/awesome-json-datasets
+- https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 ### Weather
 

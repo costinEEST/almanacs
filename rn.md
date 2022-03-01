@@ -42,11 +42,13 @@
 - https://github.com/react-made-native-easy/book
 - https://www.newline.co/courses/building-react-native-apps-for-mac
 - https://www.udemy.com/course/full-stack-mobile-application-development-master-class
+- https://github.com/flexbox/react-native-bootcamp + https://twitter.com/flexbox_/status/1497654821528256520
 
-### Books
+### Book
 
 - https://www.manning.com/books/react-native-in-action
 - https://github.com/unbug/react-native-train
+- https://flexbox.medium.com/how-i-wrote-and-published-the-road-to-react-native-book-7ca80fa2fd88
 
 ### Boilerplate
 
@@ -158,6 +160,7 @@
 - https://www.instamobile.io/react-native-tutorials/full-clean-react-native-project
 - [An HTTP network request monitor for React Native with in-app interface for iOS and Android with no native code](https://github.com/alexbrazier/react-native-network-logger)
 - https://www.echowaves.com/post/a-bug-that-made-me-a-better-developer + https://medium.com/@echowaves/a-bug-that-made-me-a-better-developer-707b9dfa50ab
+- https://www.deadf00d.com/post/how-to-earn-money-by-hacking-a-walking-for-money-app.html
 
 ### Performance
 

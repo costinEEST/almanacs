@@ -384,6 +384,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Why mocha?](https://twitter.com/RogersKonnor/status/1453205169995403268)
 - https://github.com/kentcdodds/testing-node-apps
 - https://github.com/testjavascript/nodejs-integration-tests-best-practices
+- https://github.com/qunabu/strapi-unit-test-example
 
 ### Web servers
 
@@ -481,6 +482,11 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Node.js HTTP server performance](https://twitter.com/lukeed05/status/1396307201606651913) + https://twitter.com/bradleymeck/status/1397919169576804361
 - https://arstechnica.com/information-technology/2021/09/npm-package-with-3-million-weekly-downloads-had-a-severe-vulnerability
 - https://github.com/onsecru/jwt-hacking-challenges
+
+### CMS
+
+- [Strapi + NextJS + FastAPI + Grafana: Containers that rock together](https://github.com/sampittko/tuke-beautofuel)
+- https://blog.dehlin.dev/strapi-v4-with-docker-and-heroku
 
 
 ### Static site generator

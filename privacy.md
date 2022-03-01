@@ -80,6 +80,7 @@
 - https://github.com/bhdresh/Whatsapp-IP-leak
 - [Vytal shows you what traces your browser leaves behind while surfing the web](https://github.com/z0ccc/Vytal)
 - https://medium.com/@jeffgould/the-natural-history-of-gmail-data-mining-be115d196b10
+- https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it
 
 ### Techniques
 

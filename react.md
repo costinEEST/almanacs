@@ -300,10 +300,14 @@
 - https://www.ctnicholas.dev/articles/how-to-use-nextjs-middleware
 - [GPT-3 Powered Serverless App using NextJS & React](https://github.com/harish-garg/nextjs-reactjs-gpt-3)
 - [Send emails to yourself, in the future](https://github.com/Nilomiranda/d-timevault)
+- https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful
+- https://sergiodxa.com/articles/share-session-and-cookies-between-next-and-remix
+- https://github.com/brianlovin/briOS
 
 ### Remix
 
 - https://blog.plasmic.app/posts/remix-for-nextjs-developers + https://twitter.com/yaaang/status/1470814383353696259
+- https://www.adamcollier.co.uk/blog/moving-from-next-to-remix
 
 ### Package
 
