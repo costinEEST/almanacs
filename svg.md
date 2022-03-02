@@ -49,3 +49,4 @@
 - https://getloaf.io/blog/where-are-all-the-animated-svgs
 - https://twitter.com/JoshWComeau/status/1329507065908367363 + https://notchris.net/patterns
 - [Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette](https://github.com/boringdesigners/boring-avatars)
+- [free SVG generators](https://fffuel.co)

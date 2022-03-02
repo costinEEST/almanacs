@@ -104,6 +104,7 @@
 ### Arabic
 
 - [LearnArabicwithMaha](https://www.youtube.com/playlist?list=PLDE670F8915C5902A)
+- https://www.amazon.com/Handbook-Language-Teaching-Professionals-Century-ebook-dp-B00KQOAC8A/dp/B00KQOAC8A
 
 ### Danish
 
@@ -135,6 +136,7 @@
 - https://www.udemy.com/course/the-melody-of-english
 - [Organizing Our Marvellous Neighbours: How to Feel Good About Canadian English | Joe Clark](https://joeclark.org/en-ca)
 - https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english
+- https://www.udemy.com/course/master-the-english-irregular-verbs-once-and-for-all/
 
 ### Esperanto
 
