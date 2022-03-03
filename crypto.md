@@ -45,6 +45,7 @@
 - [ Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 - [Workshop on Elliptic Curve Cryptography ECC 2020](https://eccworkshop.org/2020)
 - [Mentoring Workshop and Videos@Crypto 2021](https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2)
+- [Anastasiia Vixentael](https://www.youtube.com/channel/UCJrzE_cMD8whn6qDO9R8WoA/playlists)
 
 ### Certificates
 
@@ -120,7 +121,7 @@
 - https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html
 - https://github.com/EdOverflow/cryptojourney-content
 
-### People
+### Community
 
 - https://dev.to/cossacklabs/schneier-on-cryptography-live-interview-4mi7
 - https://github.com/vixentael/my-talks + https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8

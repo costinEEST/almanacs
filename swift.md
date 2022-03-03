@@ -65,3 +65,8 @@
 - https://github.com/JohnSundell/SwiftTips
 - https://github.com/kudoleh/iOS-Modular-Architecture
 
+### Security
+
+- https://github.com/vixentael/security-data-management-for-app-devs-workshop
+- [Implementing security measures layer-by-layer in iOS app: TLS, TLS pinning, risks & threats, symmetric and asymmetric encryption.](https://speakerdeck.com/vixentael/the-swift-alps-security-workshop)
+

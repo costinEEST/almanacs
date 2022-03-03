@@ -146,6 +146,7 @@
 - https://github.com/bevacqua/reads#education-and-culture
 - https://www.jessesquires.com/blog/2020/11/26/radical-readings-for-the-tech-worker
 - https://hennyportman.wordpress.com/2018/11/11/review-the-culture-map-decoding-how-people-think-lead-and-get-things-done-across-cultures
+- [The Real World of Technology | Ursula Martius Franklin](https://www.goodreads.com/book/show/1291973.The_Real_World_of_Technology)
 
 ### Startups
 

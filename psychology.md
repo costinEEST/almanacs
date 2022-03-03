@@ -4,6 +4,10 @@
 - https://www.mindtherisk.com/literature/148-the-science-of-fear-by-daniel-gardner
 - https://www.amazon.com/Cheating-Deception-J-Bowyer-Bell/dp/088738868X
 
+### Bias
+
+- https://en.wikipedia.org/wiki/Gruen_transfer + https://thehustle.co/how-ikea-tricks-you-into-buying-more-stuff
+
 ### Cinema
 
 - https://en.wikipedia.org/wiki/Brain_Games_(2011_TV_series)
