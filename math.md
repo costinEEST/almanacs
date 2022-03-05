@@ -46,6 +46,7 @@
 - https://www.goodreads.com/book/show/6221915-exploring-mathematics-with-mathematica
 - [Geometry & Art: How Mathematics Transformed Art During the Renaissance by David G. Wade](https://www.goodreads.com/review/show/3902871925)
 - [Books on Islamic Geometry & related topics](https://www.samiramian.uk/books)
+- [Discrete Mathematics for Computer Science](https://github.com/alexanderskulikov/discrete-math-python-scripts)
 
 ### Course
 
@@ -59,6 +60,7 @@
 - https://github.com/hongshin/DiscreteMath
 - https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen  https://www.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq
 - https://www.udemy.com/course/math-for-unreal-engine + https://www.youtube.com/playlist?list=PLsyGu3bA_w_CmxrMvj9Hbcnr6rwpkt7c5
+- [CSE 101: Design and Analysis of Algorithms](https://cseweb.ucsd.edu//%7Edakane/CSE101)
 
 ### Cinema
 

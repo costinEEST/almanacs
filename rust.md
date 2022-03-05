@@ -1,3 +1,9 @@
+### Algorithm
+
+- https://github.com/Mec-iS/rust-algos-illuminated
+- https://github.com/TheAlgorithms/Rust
+
+
 ### API
 
 - [A microservice framework for building scalable applications](https://github.com/juicycleff/ultimate)
@@ -84,10 +90,6 @@
 - [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
 - https://learnrust.today + https://www.youtube.com/watch?v=B5xYBrxVSiE&list=PL7FkKqUcfw1AoNvuQAvld2Q47gaDKHBRW
 
-### Algorithm
-
-- https://github.com/Mec-iS/rust-algos-illuminated
-- https://github.com/TheAlgorithms/Rust
 
 ### Practice
 
@@ -106,6 +108,7 @@
 - https://github.com/dtolnay/proc-macro-workshop
 - https://github.com/timvisee/advent-of-code-2020
 - https://vino.dev/blog/node-to-rust-day-1-rustup
+- https://www.freecodecamp.org/news/project-euler-problems-in-rust
 
 ### Podcast
 

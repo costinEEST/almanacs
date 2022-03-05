@@ -46,6 +46,7 @@
 - https://aws.amazon.com/blogs/opensource/security-features-of-bottlerocket-an-open-source-linux-based-operating-system
 - https://dabase.com/blog/2016/DevOps_evolution
 - [Even better free video streaming and storage on AWS](https://sprocketfox.io/xssfox/2020/03/05/bigbuckopsworks) + https://github.com/xssfox/bigbuckaws
+- https://www.freecodecamp.org/news/devops-with-gitlab-ci-course
 
 ### Azure
 

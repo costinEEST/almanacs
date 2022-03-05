@@ -49,6 +49,7 @@
 - https://www.pastemagazine.com/movies/dystopian-movies/best-dystopian-movies-of-all-time-1/#50-the-running-man
 - [It's almost time for my annual horror movie marathon](https://twitter.com/hasufl/status/1450856931590033412)
 - https://faroutmagazine.co.uk/the-20-greatest-horror-films-of-21st-century
+- https://en.wikipedia.org/wiki/Captain_Phillips_%28film%29
 
 ### Tools
 

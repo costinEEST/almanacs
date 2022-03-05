@@ -12,6 +12,7 @@
 - [An Introduction to Scalability and Memory](https://www.youtube.com/playlist?list=PLK_e420JFUuYa-nMGoEeJqsplPvJZTOL5) + [Recursion for the Rest of Us](https://www.youtube.com/playlist?list=PLK_e420JFUuaDfQUnWXoc-rTXg6TzGDh2) + https://github.com/Haseeb-Qureshi/cs-fundamentals
 - https://github.com/jasonwebb/morphogenesis-resources + https://thatcreativecode.page
 - https://github.com/imposters-handbook/videos
+- [Learning Algorithms Through Programming and Puzzle Solving](https://leanpub.com/algo) + https://discrete-math-puzzles.github.io/everything.html
 
 ### AST
 

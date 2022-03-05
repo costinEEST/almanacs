@@ -25,6 +25,7 @@
 - https://bogdanbocse.com/embodied-computational-calculus + https://bogdanbocse.com/embodied-computational-calculus
 - https://github.com/zslucky/awesome-AI-books
 - [I read a lot of books this year to broaden my horizons in AI/ML with adjacent or complementary disciplines](https://twitter.com/Thom_Wolf/status/1475460073719742465)
+- https://leanpub.com/interpretable-machine-learning + https://christophm.github.io/interpretable-ml-book
 
 ### Course
 

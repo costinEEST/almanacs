@@ -97,6 +97,7 @@
 - https://sparkbox.com/foundry/mobile_navigation_ux_navigation_menu_design_for_content_rich_websites
 - https://growth.design/case-studies/amazon-purchase-ux
 - https://medium.com/doctolib/how-learning-a-sign-language-made-me-a-better-designer-dc42e564bfe1
+- https://height.app/blog/guide-to-build-context-menus
 
 ### Portfolio
 

@@ -153,6 +153,7 @@
 - https://lindiebotes.com/2020/09/12/weekly-french-studyroutine
 - https://tvtropes.org/pmwiki/pmwiki.php/Main/EverythingSoundsSexierInFrench
 - [Union des francais et francophones de Roumanie](https://www.meetup.com/ufe-roumanie)
+- [Dincolo de cuvinte – Au-delà des mots](https://www.facebook.com/MuzeulNationalDeArtaAlRomaniei/videos/435391008335098)
 
 ### German
 
@@ -276,6 +277,10 @@
 ### Rare
 
 - https://www.nytimes.com/2021/10/06/us/marie-wilcox-dead.html + https://emergencemagazine.org/feature/language-keepers/#/chapter/wukchumni
+
+### Ukrainian
+
+- https://dopomoha.ro/ro/expresii-utile
 
 
 ### Storytelling

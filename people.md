@@ -118,6 +118,10 @@
 
 - https://youtu.be/f0DaNghFjdA + https://perell.com/essay/peter-thiel + https://en.wikipedia.org/wiki/Things_Hidden_Since_the_Foundation_of_the_World + https://en.wikipedia.org/wiki/Persecution_and_the_Art_of_Writing + https://thephilosogist.com/s/Strauss-The-City-and-Man.pdf + https://www.simonandschuster.com/books/The-Decadent-Society/Ross-Douthat/9781476785240 + https://en.wikipedia.org/wiki/Wild_Wild_Country + https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 
+### Pyotr Demianovich Ouspenskii
+
+- https://twitter.com/GaryLachman/status/1500048861997551616
+
 ### Keith Rabois
 
 - https://medium.com/@rabois/reading-list-604c88ecefa4
