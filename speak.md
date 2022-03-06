@@ -204,11 +204,13 @@
 - https://github.com/migaku-official/Migaku-Japanese-Addon
 - https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-English/dp/4789014401
 - https://www.anomiseditrix.net/japanese-through-onomatopoeia
+- https://youtu.be/SGu0OSukq-s + https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-English/dp/4789014401
 
 ### Korean
 
 - https://www.youtube.com/c/ArirangCoKrTV/playlists
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqrn1VUPmi3wIMKfoAR_ebUy
+- https://andrewzah.com/posts/2019/korean_for_programmers
 
 ### Latin
 

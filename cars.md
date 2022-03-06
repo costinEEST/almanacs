@@ -26,4 +26,5 @@
 
 - https://www.spectator.co.uk/article/why-i-wont-buy-a-tesla
 - https://honda.asko.ro/blog/profesiile-conduc-it-honda
+- https://www.forbes.com/sites/jamesmorris/2022/02/26/kia-ev6-2022-uk-review-the-best-electric-vehicle-ever + https://thedriven.io/2022/02/25/kia-ev6-first-drive-electric-suv-with-superb-handling-and-it-can-power-your-home
 

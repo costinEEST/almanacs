@@ -111,6 +111,7 @@
 - https://www.amazon.com/Firmament-Science-Weather-Climate-Surrounds-ebook/dp/B092LN5DQ1
 - [Plaid Avenger: GEOG 1014 - Geography of World Regions | CosmoLearning Geography](https://www.youtube.com/playlist?list=PLaLOVNqqD-2F5X2eC4jjlXuqMmXqmWusB)
 - https://www.goodhousekeeping.com/life/travel/g39178103/top-places-that-inspired-disney-movies
+- https://towardsdatascience.com/ive-built-a-public-world-atlas-with-2-500-datasets-to-explore-8b9ae799e345
 
 ### History
 

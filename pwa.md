@@ -72,6 +72,7 @@
 - [Example e-commerce site to explore PWA (Progressive Web App) use cases.](https://github.com/GoogleChromeLabs/sample-pie-shop)
 - https://github.com/abnersn/WorkoutTracker
 - https://gitlab.com/keraf/progressive-capitalist
+- https://github.com/ThaUnknown/pwa-haven
 
 ### Security
 

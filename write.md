@@ -75,3 +75,4 @@
 ### Opinion
 
 - https://buffer.com/resources/writing-great-tweets-scientific-guide
+- [What makes writing more readable?](https://pudding.cool/2022/02/plain)
