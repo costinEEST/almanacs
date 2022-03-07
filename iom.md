@@ -239,6 +239,7 @@
 - https://github.com/KirstenPomales/The-State-of-NFT-Environmental-Impact-Reduction
 - [dataset of 7 million transactions of non-fungible tokens (NFTs) on the Ethereum blockchain. The dataset covers April to late September 2021, spans 9,000 NFT projects, and records each transaction’s sender, receiver, value, timestamp, and location in the blockchain](https://github.com/bugout-dev/moonstream/blob/main/datasets/nfts/papers/ethereum-nfts.pdf) + https://github.com/bugout-dev/moonstream + https://www.kaggle.com/simiotic/ethereum-nfts + https://twitter.com/atbeme/status/1451361968460238851
 - https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html
+- [Building the First On-Chain 3D NFT with glTF](https://mirror.xyz/angelsay.eth/Fpqj6Hawn-IWGgXm9oEYXyscIgolotYscShuNaVTmI4)
 
 ### Smart contracts
 
@@ -273,6 +274,7 @@
 - [The ultimate guide to L2s on Ethereum](https://mirror.xyz/dcbuilder.eth/QX_ELJBQBm1Iq45ktPsz8pWLZN1C52DmEtH09boZuo0)
 - https://github.com/Haaroon/ether_parity_hack_Nov_2017
 - [Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum](https://github.com/diasjuniorr/tip-tweet)
+- https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy
 
 ### Demos
 
