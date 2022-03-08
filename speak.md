@@ -136,7 +136,8 @@
 - https://www.udemy.com/course/the-melody-of-english
 - [Organizing Our Marvellous Neighbours: How to Feel Good About Canadian English | Joe Clark](https://joeclark.org/en-ca)
 - https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english
-- https://www.udemy.com/course/master-the-english-irregular-verbs-once-and-for-all/
+- https://www.udemy.com/course/master-the-english-irregular-verbs-once-and-for-all
+- https://www.udemy.com/course/word-stress-of-american-english
 
 ### Esperanto
 

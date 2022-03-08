@@ -16,6 +16,7 @@
 - [Evented Ruby vs Node.js by Jerry Cheung](https://speakerdeck.com/jch/evented-ruby-vs-nodejs)
 - [Building DevMail | Jess Martin](https://www.youtube.com/playlist?list=PLR5cUEyS7wdghZznk9yoEvcA848W3m16x)
 - https://github.com/cjavdev/video_automation
+- https://brunosutic.com/talks/async-ruby-rubyconf-2021
 
 ### Course
 
