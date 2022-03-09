@@ -5,7 +5,7 @@
 ### Cinema
 
 - [How to Contribute to Open Source (Next.js)](https://twitter.com/leeerob/status/1482519857195274242)
-
+- [Triage Issues With Me - Heroics](https://www.youtube.com/playlist?list=PLg03g-T-woiDCY1m4PdMh2Vv2eftDdVZP)
 
 ### Tool
 

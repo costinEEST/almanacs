@@ -200,6 +200,7 @@
 - https://www.udemy.com/course/value-growth-investing-academy
 - https://valuegrowthinvesting.teachable.com/courses
 - https://luttig.substack.com/p/dont-forget-microsoft
+- https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model
 
 ### Economics
 
@@ -210,6 +211,7 @@
 - [E. F. Schumacher, Un îndrumar pentru cei dezorientaţi (recenzie)](https://radu-iliescu.blogspot.com/2016/05/e-f-schumacher-un-indrumar-pentru-cei.html)
 - https://www.bloomberg.com/news/audio/2021-01-17/why-the-cost-of-shipping-goods-from-china-is-soaring-podcast
 - https://www.udemy.com/course/economics-basics-to-advanced-level
+- https://markmcgranaghan.com/interests
 
 ### Geopolitics
 
@@ -273,6 +275,7 @@
 - https://www.esquire.com/lifestyle/g35995934/greatest-moments-internet-history
 - https://cavesocial.com/alibaba
 - [Simulate retirement plans using historical data and gain the confidence you need to retire.](https://github.com/jamesplease/fi-calc-guide)
+- https://github.com/tadast/switching-to-contracting-uk
 
 ### Opinion
 
@@ -283,3 +286,4 @@
 ### Radio
 
 - https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020
+- https://markmcgranaghan.com/podcasts

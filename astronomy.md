@@ -8,6 +8,7 @@
 ### Cinema
 
 - https://www.youtube.com/c/NatalieStarkeyStardust/playlists
+- [The Tools of Astronomy](https://www.youtube.com/playlist?list=PL2jykFOD1AWbscxUS7qEyRGy1OHfw4PJU)
 
 ### Applications
 

@@ -32,6 +32,7 @@
 - http://thatmakershow.com
 - [3D printing basics | Thomas Sanladerer](https://www.youtube.com/playlist?list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)
 - https://github.com/obensource/dev-resources/blob/master/classic-films.md
+- [FPGA computing systems: Background knowledge and introductor](https://www.youtube.com/playlist?list=PL2jykFOD1AWaFLEJm5H4GhRhPX_Ffi0wh)
 
 ### Community
 

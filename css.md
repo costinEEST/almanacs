@@ -181,6 +181,7 @@
 ### FlexBox
 
 - https://github.com/philipwalton/flexbugs
+- https://github.com/philipwalton/solved-by-flexbox
 - [My incomplete mental model for flexbox's main axis](https://twitter.com/pomber/status/1281339741682753542)
 - https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6
 - https://tiffanybbrown.com/2022/01/how-does-flexbox-work/index.html
@@ -247,6 +248,7 @@
 - https://github.com/davidgilbertson/know-it-all
 - [Tailwind CSS components](https://postsrc.com/components)
 - [Alfred 4 Workflow to find the perfect color in the Tailwind Color Palette](https://github.com/MatthysDev/alfred-tailwind-colors)
+- https://github.com/scastiel/3d-book-image-css-generator
 
 ### Security
 

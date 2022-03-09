@@ -39,6 +39,8 @@
 - https://davidhoang.substack.com/p/talks-that-shaped-my-philosophies
 - [Logo theory | Will Paterson](https://www.youtube.com/playlist?list=PLLuEl8fyPVgOl1HDi4_qZSieM_JLTWz7u)
 - [Designing App Icons](https://www.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
+- [Radicalism in Graphic Design](https://www.youtube.com/playlist?list=PL2jykFOD1AWZ2iTNw0Kyzggp2jdppU3pv)
+- [history of design](https://www.youtube.com/playlist?list=PL2jykFOD1AWb7hNucP2fj491MQ594G3Rk)
 
 ### Course
 

@@ -64,6 +64,7 @@
 - https://github.com/onmyway133/fantastic-ios-architecture
 - https://github.com/JohnSundell/SwiftTips
 - https://github.com/kudoleh/iOS-Modular-Architecture
+- https://github.com/joemasilotti/UI-Testing-Cheat-Sheet
 
 ### Security
 

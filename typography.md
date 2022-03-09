@@ -17,6 +17,7 @@
 - https://github.com/learn-anything/talks#typography
 - https://www.freecodecamp.org/news/how-to-design-good-typography
 - https://pimpmytype.com/changing-fonts
+- https://www.youtube.com/playlist?list=PL2jykFOD1AWa5sRIhcaOq48M3M-_kTuCH
 
 
 ### CSS
