@@ -82,6 +82,7 @@
 - [A guide to writing a DNS Server from scratch in Rust](https://github.com/EmilHernvall/dnsguide)
 - https://ricky.codes/blog/posts/publishing-to-the-peer-to-peer-web
 - [updns is a simple DNS proxy server](https://github.com/wyhaya/updns)
+- https://github.com/dtolnay/case-studies
 
 ### Cinema
 

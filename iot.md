@@ -72,6 +72,7 @@
 - [E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero](https://github.com/speedyg0nz/MagInkCal)
 - https://youtu.be/v7eHTNm1YtU + https://github.com/standupmaths/xmastree2020
 - https://giuliomagnifico.blog/networking/2020/01/02/nerdy-things-made-nicer.html
+- https://gquintana.github.io/2020/01/10/Home-temperature-monitoring.html
 
 ### Smartwatch
 

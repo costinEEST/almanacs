@@ -22,6 +22,7 @@
 - [Chiu-Ki Chan](http://chiuki.github.io)
 - https://github.com/Nickersoft/awesome-careers#android-engineer
 - [Pierre-Yves Ricau](https://twitter.com/Piwai/status/1476962698982264838)
+- https://simran.app/2021/08/13/free-path-android-development-copy
 
 ### Cinema
 

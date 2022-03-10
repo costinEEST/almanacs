@@ -74,6 +74,7 @@
 ### Testing
 
 - https://github.com/quii/learn-go-with-tests
+- https://github.com/cdarwin/go-koans
 
 ### Tool
 

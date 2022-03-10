@@ -23,18 +23,35 @@
 - https://speakerdeck.com/eileencodes/improving-cvar-performance-in-ruby-3-dot-1
 - [dry-rb in five](https://www.youtube.com/playlist?list=PLLproF5gmeGGvXX7kZuCmWnZ6dOaeLs_v)
 - https://schneems.com/2015/05/11/how-ruby-uses-memory.html
+- [RubyConf 2021](https://www.youtube.com/playlist?list=PLbHJudTY1K0f0oMhWtY-UyzOb7tUlaHps)
+- https://amcaplan.ninja/talks/2018/04/19/automating-empathy-test-your-docs-with-swagger-and-apivore
+- https://noti.st/palkan/j3i2Dr/ruby-next-make-old-rubies-quack-like-a-new-one
+- https://github.com/flavorjones/ruby-c-extensions-explained
+- [Rails 6 API | Tom Kadwill](https://www.youtube.com/playlist?list=PLbTv9eGiI03u1-JFkFpPGsR_hMre6WX3e)
+- [Build a Pet Adoption App With Ruby On Rails 6 & PostgreSQL](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
 
 ### Course
 
 - https://www.udemy.com/course/ruby-on-rails-api-the-complete-guide
 - https://www.schneems.com/ut-rails
+- https://www.theodinproject.com/paths/full-stack-ruby-on-rails
 
 ### Community
 
 - https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources
-- [Ruby User Group Berlin](https://www.rug-b.de)
+- https://simran.app/2022/01/23/learning-ror
+- https://github.com/rohandaxini/rails-concepts-topics + https://twitter.com/rohan_daxini/status/1484787524975624193
 - https://github.com/phoet/on_ruby
+- [RubyKaigi, Ruby conference in Japan](https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A)
+- [London Ruby User Group](https://lrug.org)
+- [Ruby User Group Berlin](https://www.rug-b.de)
+- [Vienna Ruby User Group](https://www.meetup.com/vienna-rb)
+- [South West Ruby](https://www.meetup.com/south-west-ruby/)
+- [Scottish Ruby User Group](https://www.meetup.com/meetup-group-Xwgucjde)
 - [Charles Nutter](https://www.youtube.com/playlist?list=PL7Ge6HWc5bbsdwsIprgiAD8xhWcOQoBZV)
+- [Emily Giurleo](https://emilygiurleo.dev/speaking)
+- [David Bryant Copeland](https://naildrivin5.com/talks/index.html)
+- [Igor S. Morozov](https://www.morozov.is/talks)
 
 ### Practice
 
@@ -66,6 +83,14 @@
 - [Download an entire website from the Wayback Machine](https://github.com/hartator/wayback-machine-downloader)
 - [Fast batch deletes for Active Record and Postgres](https://github.com/ankane/delete_in_batches)
 - [Hybrid iOS apps with Turbo](https://github.com/joemasilotti/Turbo-iOS-Demo)
+- https://github.com/skoji/gepub
+- https://github.com/tenderlove/asmrepl
+- https://github.com/soutaro/vscode-rbs-syntax
+- https://github.com/rameerez/embargoed-list + https://twitter.com/rameerez/status/1497522706274996224
+
+### Testing
+
+- http://rubykoans.com
 
 ### Radio
 
@@ -78,3 +103,5 @@
 ### Opinion
 
 - https://www.schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made
+- https://gquintana.github.io/2017/01/08/From-Java-to-Ruby.html
+- https://mlomnicki.com/symbols-vs-strings

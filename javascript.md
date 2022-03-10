@@ -60,6 +60,7 @@
 - https://github.com/Yomguithereal/mnemonist
 - https://github.com/jamiebuilds/itsy-bitsy-data-structures
 - [Data structures for high-performance JavaScript applications](https://github.com/zandaqo/structurae)
+- [Rob Edwards DS Essentials](https://www.youtube.com/playlist?list=PLFmuMD2V4CkyK_mLDVfez5XwJnQdlP9dB)
 
 ### Obfuscation
 

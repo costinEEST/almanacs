@@ -206,6 +206,7 @@
 - https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-English/dp/4789014401
 - https://www.anomiseditrix.net/japanese-through-onomatopoeia
 - https://youtu.be/SGu0OSukq-s + https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-English/dp/4789014401
+- https://github.com/mercari/engineer-vocabulary-list
 
 ### Korean
 
