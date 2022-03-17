@@ -1,3 +1,7 @@
+### Book
+
+- https://books.thoughtbot.com/books/goal-oriented-git.html
+
 ### Course
 
 - https://github.com/k88hudson/git-flight-rules

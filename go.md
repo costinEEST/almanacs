@@ -110,6 +110,7 @@
 ### Radio
 
 - [Go on hardware: TinyGo in the wild](https://twitter.com/GoTimeFM/status/1443592475990388738)
+- https://anchor.fm/hacker-talk/episodes/Golang-Malware-with-Ben-Kurtz-Part-1-e1fqg5b
 
 ### References
 

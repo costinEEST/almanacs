@@ -78,6 +78,7 @@
 - https://quakkels.com/posts/my-favorite-tools-on-linux
 - https://nelsonslog.wordpress.com/2021/10/31/a-simple-systemd-unit-file
 - https://jvns.ca/blog/2017/09/03/network-interfaces
+- [eBPF-based tool for tracing network packets in the Linux kernel](https://github.com/cilium/pwru)
 
 ### Reference
 

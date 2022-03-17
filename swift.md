@@ -23,6 +23,7 @@
 ### Community
 
 - [Khoa Pham](https://onmyway133.com)
+- [Yuta Saito](https://speakerdeck.com/kateinoigakukun)
 
 ### Demo
 

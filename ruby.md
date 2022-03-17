@@ -5,6 +5,10 @@
 - https://github.com/learnbyexample/Ruby_Scripting
 - https://github.com/rubyfu/RubyFu
 - https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C
+- https://books.thoughtbot.com/books/ruby-science.html
+- https://books.thoughtbot.com/books/testing-rails.html
+- https://books.thoughtbot.com/books/ios-on-rails.html
+- https://books.thoughtbot.com/books/geocoding-on-rails.html
 
 ### Cinema
 
@@ -72,6 +76,7 @@
 - https://www.nadiaodunayo.com/projects/speakerline
 - [A Guide to GC.stat](https://gist.github.com/nateberkopec/b4e832a7e4b92911cf1c9d85332a1a79)
 - https://www.schneems.com/2016/01/25/ruby-debugging-magic-cheat-sheet.html
+- https://github.com/kubo39/ruby-what-the-fuck
 
 ### Tool
 
@@ -91,10 +96,12 @@
 ### Testing
 
 - http://rubykoans.com
+- https://www.hschne.at/2019/09/22/fabulous-factorybot.html
 
 ### Radio
 
 - https://www.nadiaodunayo.com/writing/2016/03/31/how-did-the-ruby-book-club-podcast-start
+- https://www.frameworkfriends.com/episodes/origin-stories
 
 ### Security
 

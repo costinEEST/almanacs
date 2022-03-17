@@ -65,12 +65,13 @@
 - [Codecast C learning platform (formerly fioi-recorder).](https://github.com/France-ioi/codecast)
 - [stack-based bytecode interpreter](https://www.youtube.com/playlist?list=PLhMOOgDOKD4JV2AgL1XzoYanY6RpGKbNa) + https://gitlab.com/gilmi/vm
 
-### Opinions
+### Opinion
 
 - [How to C in 2016](https://matt.sh/howto-c)
 - https://github.com/mkirchner/linked-list-good-taste + [Linus Torvalds' linked list argument for good taste, explained](https://news.ycombinator.com/item?id=25326552)
 - https://skeeto.s3.amazonaws.com/share/onward17-essays2.pdf
 - [It's not OK to ship software in memory-unsafe languages.](https://twitter.com/tqbf/status/1354170650806657024)
+- https://gankra.github.io/blah/c-isnt-a-language
 
 ### References
 

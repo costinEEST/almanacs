@@ -3,6 +3,7 @@
 - https://github.com/lambda-magic/plt-books/tree/master/Haskell
 - https://github.com/leandrotk/functional-programming-learning-path/tree/master/haskell
 - [Learning Haskell by building a simple static blog generator](https://github.com/soupi/learn-haskell-blog-generator)
+- https://books.thoughtbot.com/books/maybe-haskell.html
 
 ### Community
 

@@ -120,6 +120,7 @@
 - https://sensepost.com/blog/2022/sim-hijacking
 - https://onmyway133.com/posts/learning-voip-rtp-and-sip-aka-awesome-pjsip
 - https://github.com/onmyway133/awesome-voip
+- https://worthdoingbadly.com/vowifi
 
 ### 3G
 
@@ -169,6 +170,7 @@
 - https://github.com/indianajson/can-i-take-over-dns
 - https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break
 - https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Gerald-Doussot-Roger-Meyer-State-of-DNS-Rebinding-Attack-and-Prevention-Techniques-and-the-Singularity-of-Origin.pdf + https://youtu.be/y9-0lICNjOQ
+- https://books.thoughtbot.com/books/domain-name-sanity.html
 
 ### TCP/UDP
 
