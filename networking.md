@@ -135,6 +135,10 @@
 - https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols
 - [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org) + https://www.youtube.com/playlist?list=PLsLX2lpKnQUv6nako9_whmzQ3Me-_59PC
 
+### Border Gateway Protocol (BGP)
+
+- https://ixpm.interlan.ro/peering-matrix + https://github.com/inex/IXP-Manager
+
 ### IP
 
 - https://github.com/jbranchaud/til/blob/master/devops/resolve-the-public-ip-of-a-url.md + https://stackoverflow.com/a/44372558
