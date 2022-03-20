@@ -16,6 +16,7 @@
 - http://rcvalle.blog/2020/09/16/rust-lang-exploit-mitigations
 - https://github.com/bedemiralp/how-do-they-use-x-at-y#rust
 - [How to minimize Rust binary size](https://github.com/johnthagen/min-sized-rust)
+- https://github.com/lpxxn/rust-design-pattern
 
 ### Book
 
@@ -26,6 +27,8 @@
 - https://github.com/sger/RustBooks
 - https://github.com/lborb/book
 - https://github.com/Dhghomon/easy_rust
+- https://github.com/staszewski/rustlings-solutions
+- https://github.com/LukeMathWalker/zero-to-production
 
 ### Bot
 
@@ -56,6 +59,10 @@
 - https://www.freecodecamp.org/news/rust-in-replit
 - https://github.com/ferrous-systems/teaching-material
 
+### Compiler
+
+- https://github.com/arzg/eldiro
+
 ### Tutorial
 
 - https://twitter.com/samaaron/status/1214649047002292224
@@ -83,9 +90,11 @@
 - https://ricky.codes/blog/posts/publishing-to-the-peer-to-peer-web
 - [updns is a simple DNS proxy server](https://github.com/wyhaya/updns)
 - https://github.com/dtolnay/case-studies
+- http://cliffle.com/p/dangerust
 
 ### Cinema
 
+- [Rust on Android](https://www.youtube.com/playlist?list=PL--8rjVarKNWNt1vfQu2Vr4RgPtyd6wcw)
 - [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
 - [An aggregation of links that summarize RustConf 2020.](https://github.com/poteto/rustconf-2020)
 - [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
@@ -156,3 +165,4 @@
 - https://fishrock123.github.io/practical-rust-slides/api-expectations
 - https://dystroy.org/blog/how-not-to-learn-rust
 - https://twitter.com/chrisbiscardi/status/1481246482212679681
+- http://cliffle.com/blog/prefer-rust

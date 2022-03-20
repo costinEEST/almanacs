@@ -24,6 +24,7 @@
 
 ### Tool
 
+- https://github.com/vendasta/setup-new-computer-script
 - [An extremely opinionated and highly personalized script to set up a new Mac machine, just the way I like it!](https://github.com/nnja/new-computer)
 - https://leanpub.com/learning-hammerspoon
 - [MAC address age tracking](https://github.com/hdm/mac-ages)

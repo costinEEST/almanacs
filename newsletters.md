@@ -194,7 +194,6 @@
 - [Alex Kondov](https://us2.campaign-archive.com/home/?u=fca75767fa83fa3473478b4ca&id=495bb9068f)
 - [Sébastien Lorber](https://www.getrevue.co/profile/thisweekinreact)
 - [Jess Martin](https://buttondown.email/jessmartin/archive) + https://twitter.com/jessmartin/status/1409591067960217606
-- [DoctoLib](https://us14.campaign-archive.com/home/?u=6f3cf1e1e4554097575191f5d&id=a22645bb6c)
 
 ### Web performance
 
@@ -219,6 +218,7 @@
 - [Alexis deBoschnek](https://alexisdeboschnek.substack.com)
 - [Andy Ricker](https://andyricker.substack.com/archive)
 - [Ruth Reichl](https://ruthreichl.substack.com/archive)
+- [Richard Godwin - A book club but for cocktails](https://thespirits.substack.com)
 
 ### Health
 
@@ -255,6 +255,7 @@
 
 - [Jemma Issroff](https://buttondown.email/jemmaissroff/archive)
 - [Victor Shepelev](https://zverok.substack.com/archive)
+- [Doctolib](https://us14.campaign-archive.com/home/?u=6f3cf1e1e4554097575191f5d&id=a22645bb6c)
 
 ### Politics
 

@@ -82,6 +82,7 @@
 - https://kamila.is//teaching/how-routers-work + https://news.ycombinator.com/item?id=24435454
 - https://medium.com/extend/installing-ip-cameras-or-how-i-started-monitoring-my-cats-aeb6415c682b
 - [Computer Networking in Layman's Terms](https://twitter.com/iximiuz/status/1450864740645941248)
+- https://tailscale.com/blog/how-nat-traversal-works
 
 ### Telecommunications
 
@@ -175,6 +176,7 @@
 - https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break
 - https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Gerald-Doussot-Roger-Meyer-State-of-DNS-Rebinding-Attack-and-Prevention-Techniques-and-the-Singularity-of-Origin.pdf + https://youtu.be/y9-0lICNjOQ
 - https://books.thoughtbot.com/books/domain-name-sanity.html
+- https://www.blackhillsinfosec.com/the-dns-over-https-doh-mess
 
 ### TCP/UDP
 

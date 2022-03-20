@@ -118,6 +118,7 @@
 - [Rust](rust.md)
 - [Scala](scala.md)
 - [Speak!](speak.md)
+- [Spirituality](spirit.md)
 - [Sports](sport.md)
 - [Scalable Vector Graphics](svg.md)
 - [Statistics](statistics.md)

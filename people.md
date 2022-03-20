@@ -58,6 +58,11 @@
 
 - https://twitter.com/sacca/status/1447600320205529089
 
+### Christopher Alexander
+
+- https://merveilles.town/@akkartik/107981485898871776
+- https://www.garethrees.co.uk/building-beauty
+
 ### David Bohm
 
 - https://en.wikipedia.org/wiki/Bohm_Dialogue

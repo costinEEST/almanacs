@@ -1,6 +1,7 @@
 ### Book
 
 - https://leanpub.com/boostyourcodingfuwithvscodeandvim
+- https://github.com/learnbyexample/vim_reference
 
 ### Cinema
 

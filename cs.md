@@ -35,7 +35,7 @@
 - [Intro to Quantum Computing - HACKADAY](https://www.youtube.com/playlist?list=PL_tws4AXg7avHFquKAB6q6cep2pnueLpM)
 - https://github.com/JanVanRyswyck/awesome-talks#computer-history
 - https://github.com/Developer-Y/cs-video-courses#quantum-computing
-- [ Event-Driven Information Systems](https://www.youtube.com/channel/UCSoUh4ikepF3LkMchruSSaQ/playlists)
+- [Event-Driven Information Systems](https://www.youtube.com/channel/UCSoUh4ikepF3LkMchruSSaQ/playlists)
 - [Ohio State: EE 481 - Engineering Ethics with Kevin Passino | CosmoLearning.org Engineering](https://www.youtube.com/playlist?list=PLaLOVNqqD-2E5EYdtKlA5VWdsLNl0FEYH)
 
 ### Book
@@ -103,7 +103,7 @@
 - https://github.com/anushka23g/Complete-Placement-Preparation
 - https://github.com/VGraupera/1on1-questions
 - https://github.com/obensource/dev-resources/blob/master/interviews.md
-- https://www.udemy.com/course/pragmatic-system-design
+- https://www.udemy.com/course/pragmatic-system-design + https://www.amazon.com/dp/1736049119
 
 ### Practice
 

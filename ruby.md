@@ -9,6 +9,7 @@
 - https://books.thoughtbot.com/books/testing-rails.html
 - https://books.thoughtbot.com/books/ios-on-rails.html
 - https://books.thoughtbot.com/books/geocoding-on-rails.html
+- https://github.com/garethrees/practical-oo-design-in-ruby
 
 ### Cinema
 
@@ -92,11 +93,13 @@
 - https://github.com/tenderlove/asmrepl
 - https://github.com/soutaro/vscode-rbs-syntax
 - https://github.com/rameerez/embargoed-list + https://twitter.com/rameerez/status/1497522706274996224
+- https://nts.strzibny.name/invoicing-from-command-line
 
 ### Testing
 
 - http://rubykoans.com
 - https://www.hschne.at/2019/09/22/fabulous-factorybot.html
+- https://www.codewithjason.com/ruby-instance-exec
 
 ### Radio
 

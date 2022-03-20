@@ -121,6 +121,7 @@
 - https://github.com/maxking/linux-security-papers
 - https://www.xmodulo.com/two-factor-authentication-ssh-login-linux.html
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+- https://github.com/xairy/linux-kernel-exploitation
 
 ### Opinions
 

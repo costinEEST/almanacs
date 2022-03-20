@@ -422,6 +422,10 @@ javascript: (() =>
 - https://xem.github.io/articles/webgl-guide.html + https://twitter.com/MaximeEuziere/status/1261643172582653954
 - https://github.com/spite/virtual-webcam
 
+### WebGPU
+
+- https://hackaday.com/2022/03/09/webgpu-better-than-webgl
+
 
 ### Headless
 
