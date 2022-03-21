@@ -262,6 +262,7 @@
 - https://gravitational.com/blog/how-to-ssh-properly
 - https://twitter.com/infosec_scarlet/status/1354528499105636353
 - https://blog.zsec.uk/proxying-offensive
+- https://fowlie.github.io/2017/11/28/jump-to-server-and-change-user-without-password-with-pass-and-expect-and-bash
 
 ### Jaber
 

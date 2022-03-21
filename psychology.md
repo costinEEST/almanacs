@@ -12,6 +12,7 @@
 
 - https://en.wikipedia.org/wiki/Brain_Games_(2011_TV_series)
 - [Course materials for Dartmouth course: Human Memory (PSYC 51.09)](https://github.com/ContextLab/human-memory)
+- [Origins of the Self w/ Bonnitta Roy](https://www.youtube.com/playlist?list=PLoZ5e3aD_LuQoDMmjnQApeqDS00iMxHBz)
 
 
 ### Community

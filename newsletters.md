@@ -141,6 +141,7 @@
 - [Eugene Fedorenko](https://us5.campaign-archive.com/home/?u=83da65c877f13a622c18a7fbf&id=ded3ad2e0d)
 - [Brandient](https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5) + https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5
 - [Elizabeth Lin](https://tinyletter.com/lalizlabeth/archive)
+- [Brian Lovin](http://overthought.brianlovin.com/#archive)
 
 ### Data visualization
 
