@@ -13,6 +13,7 @@
 - [Tesla Coil Science | ElectroBOOM](https://www.youtube.com/playlist?list=PLr_CZLgMkHeUexzcA64PfjCW0UUoO8Twi)
 - https://scitechdaily.com/scientists-built-a-super-fast-quantum-battery
 - [ A History of Solar Power Art and Design By Alex Nathanson](https://we-make-money-not-art.com/alex-nathanson-the-poetics-of-photovoltaics)
+- https://www.youtube.com/playlist?list=PLKEd7Km7DjLcqm7vqrAgbwYVwiG4Rif09
 
 ### Book
 

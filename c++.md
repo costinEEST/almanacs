@@ -13,6 +13,7 @@
 - https://increment.com/software-architecture/primer-on-functional-architecture
 - [Yacob (Kobi) Cohen-Arazi](https://twitter.com/kobi_ca)
 - [Matt Godbolt](https://www.youtube.com/c/MattGodbolt/playlists)
+- [David William Plummer](https://www.youtube.com/c/DavesGarage/playlists)
 
 ### Cinema
 

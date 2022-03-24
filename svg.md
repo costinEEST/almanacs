@@ -1,7 +1,11 @@
-### Books
+### Book
 
 - http://tutorials.jenkov.com/svg/index.html
 - [Using SVG with CSS3 and HTML5: Supplementary Material](https://oreillymedia.github.io/Using_SVG/index.html) + https://github.com/oreillymedia/Using_SVG
+
+### Community
+
+- [David A. Smith](https://dacvs.neocities.org/ds2022jan.svg)
 
 ### Icons
 

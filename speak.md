@@ -186,6 +186,7 @@
 ### Italian
 
 - https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
+- https://www.youtube.com/c/VirtualBrainIT/playlists
 
 ### Japanese
 
@@ -250,6 +251,7 @@
 - [Pau Ninja: el podcast](https://www.youtube.com/channel/UC5ePjvY8eRFQpoUvw_nrl4Q/playlists) + https://www.amazon.com/Aprender-idiomas-sin-tonter%C3%ADas-aprender-ebook/dp/B078KVT9MX + https://medium.com/@pau_writes
 - https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Spanish
 - https://includejs.dev/notes/spanish-fluency-01
+- https://www.youtube.com/c/BunkerMaker/playlists
 
 ### Tibetan
 

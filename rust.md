@@ -29,6 +29,7 @@
 - https://github.com/Dhghomon/easy_rust
 - https://github.com/staszewski/rustlings-solutions
 - https://github.com/LukeMathWalker/zero-to-production
+- [Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers](https://github.com/google/autocxx)
 
 ### Bot
 

@@ -53,6 +53,7 @@
 ### Cinema
 
 - https://www.youtube.com/c/OALabs/playlists
+- https://github.com/tmpout/awesome-elf
 
 ### Tools
 

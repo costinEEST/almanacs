@@ -33,6 +33,10 @@
 - https://www.musanim.com/watch_mam.html
 - https://github.com/smenjas/educational-content#music
 
+### Course
+
+- https://www.udemy.com/course/curso-basico-de-teoria-musical
+
 ### Community
 
 - [Vanzari instrumente muzicale second-hand](https://www.facebook.com/groups/vanzari.second)

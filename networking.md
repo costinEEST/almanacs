@@ -17,6 +17,7 @@
 * https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks
 * https://media.ccc.de/v/denog13-12067-enhancing-ping-and-traceroute
 * https://github.com/lololosys/awesome-baseband-research
+* [10 Gigabit Home LAN](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ61KhM14oJMY1TiI5tU4txd)
 
 ### Book
 

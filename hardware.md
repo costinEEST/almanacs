@@ -89,6 +89,10 @@
 - https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors
 - https://www.wired.com/story/intel-lab-istare-hack-chips
 
+### Diode
+
+- https://www.youtube.com/playlist?list=PLKEd7Km7DjLcd4-fw4Y2h94VRo6NQwb2P
+
 ### Resistor
 
 - [Realizing a Non-Standard Resistance Value](https://twitter.com/TheJoeBamberg/status/1362129411928039425)
@@ -97,6 +101,7 @@
 
 - https://www.youtube.com/playlist?list=PLoKM3Qfxoe0lrsY5lMl0iiJwNeJ2g-fgy
 - [How to Build a Transistor](https://twitter.com/rbhar90/status/1367901014771126277)
+- https://www.youtube.com/playlist?list=PLra8hz8BV8EmpAXQvULfpwWHGT5yIr_7U
 
 ### Locksmith
 

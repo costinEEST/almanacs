@@ -58,6 +58,7 @@
 - [Best Practices for ACME Client Operations. Considerations for Long-Running TLS Certificate Management Software.](https://docs.https.dev/acme-ops)
 - https://ma.ttias.be/the-end-of-extended-validation-certificates + https://www.aaronpeters.nl/blog/ev-certificates-make-the-web-slow-and-unreliable
 - https://emilymstark.com/2020/07/20/certificate-transparency-a-birds-eye-view.html
+- https://github.com/cocaman/russian_root_ca
 
 ### Demos
 

@@ -128,3 +128,5 @@
 - [Liping Ma](https://twitter.com/stevenstrogatz/status/1445373622898630665)
 - https://kotaku.com/on-pornhub-math-teacher-makes-his-mark-teaching-calcul-1847927535
 - https://www.observatorcultural.ro/author/liviuornea
+- [David A. Smith](https://dacvs.neocities.org)
+- [Burkard Polster](https://www.youtube.com/c/Mathologer/playlists)

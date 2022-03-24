@@ -3,6 +3,7 @@
 - https://www.amazon.com/Over-Our-Heads-Mental-Demands-ebook/dp/B0965P7L11 + https://metarationality.com/stem-fluidity-bridge
 - https://www.mindtherisk.com/literature/148-the-science-of-fear-by-daniel-gardner
 - https://www.amazon.com/Cheating-Deception-J-Bowyer-Bell/dp/088738868X
+- https://www.amazon.com/Secrets-Autistic-Millionaire-Everything-Aspergers-ebook/dp/B09KGF6685 + https://www.youtube.com/watch?v=TFjj9649Feo + https://youtu.be/l3l0uBtWk9g
 
 ### Bias
 

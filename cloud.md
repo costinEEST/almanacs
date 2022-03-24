@@ -62,6 +62,7 @@
 
 ### Cloudflare
 
+- https://n14n.dev/articles/2022/an-overly-complicated-blog
 - https://cri.dev/posts/2021-04-05-currently-self-hosting-apps
 - https://areknawo.com/cloudflare-workers-the-best-serverless-faas-platform
 
