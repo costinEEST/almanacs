@@ -265,6 +265,7 @@
 ### new SharedArrayBuffer()
 
 - https://blogtitle.github.io/using-javascript-sharedarraybuffers-and-atomics
+- https://blog.persistent.info/2021/08/worker-loop.html
 
 ### new Date()
 

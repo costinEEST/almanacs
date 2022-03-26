@@ -21,6 +21,7 @@
 - https://www.freecodecamp.org/news/build-a-hackintosh
 - [Is the latest MacBook Pro a good/valid option for Android development?](https://twitter.com/JorgeCastilloPr/status/1452254270653403150)
 - https://github.com/hack-different/apple-formats
+- https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon
 
 ### Tool
 

@@ -11,3 +11,7 @@
 ### Miscellaneous
 
 - https://github.com/nikitavoloboev/knowledge/tree/main/programming-languages/nim
+
+### Tool
+
+- [.NET, PE, & Raw Shellcode Packer/Loader](https://github.com/icyguider/Nimcrypt2)
