@@ -16,6 +16,7 @@
 - https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification
 - https://vladmihalcea.teachable.com/courses
 - https://github.com/amigoscode/java-functional-programming
+- https://www.udemy.com/course/java-se-11-certification-exam-1z0-819-practice-tests
 
 ### Best practices
 

@@ -11,6 +11,10 @@
 - https://books.thoughtbot.com/books/geocoding-on-rails.html
 - https://github.com/garethrees/practical-oo-design-in-ruby
 
+### Cheat sheet
+
+- https://learnxinyminutes.com/docs/ruby
+
 ### Cinema
 
 - [Inside The Muse - Semicolon&Sons](https://www.youtube.com/watch?v=aCzT-LQI6x0&list=PLpkoC9yJXDKlGz7SPwofn1joJH9nAABmX)

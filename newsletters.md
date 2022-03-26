@@ -257,6 +257,8 @@
 - [Jemma Issroff](https://buttondown.email/jemmaissroff/archive)
 - [Victor Shepelev](https://zverok.substack.com/archive)
 - [Doctolib](https://us14.campaign-archive.com/home/?u=6f3cf1e1e4554097575191f5d&id=a22645bb6c)
+- [Joe Masilotti](https://masilotti.com/hotwire)
+- [RubyOnRemote](https://us12.campaign-archive.com/home/?u=7dcd7529845dfed5c60eaea19&id=9060deec07)
 
 ### Politics
 
