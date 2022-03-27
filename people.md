@@ -31,6 +31,10 @@
 - [ACM A.M. Turing Award](https://www.youtube.com/user/TheOfficialACM/playlists?view=50&sort=dd&shelf_id=2)
 - https://twitter.com/phalpern/status/1373003682124607492
 
+### Aldous Huxley
+
+- https://www.openculture.com/2022/03/hear-aldous-huxley-narrate-his-dystopian-masterpiece-brave-new-world.html
+
 ### Amjad Masad
 
 - https://intuitiveexplanations.com/tech/replit

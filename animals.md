@@ -12,6 +12,11 @@
 - https://www.amazon.co.uk/Birds-Britannica-Mark-Cocker/dp/0701169079
 - https://bibliotecaexploratorilor.substack.com/p/cele-mai-bune-carti-despre-pasari
 
+### Crawler
+
+- https://scitechdaily.com/how-boas-save-themselves-from-suffocating-when-squeezing-their-prey-to-death
+- https://www.bbc.com/future/article/20220211-the-animals-that-predict-disasters
+
 ### Dog
 
 - https://www.science.org/content/article/new-sense-discovered-dog-noses-ability-detect-heat
@@ -19,6 +24,15 @@
 ### Fishes
 
 - https://www.facebook.com/Tot.C.Sorin
+
+### Insect
+
+- https://bigthink.com/life/ants-smell-cancer
+- https://www.cnet.com/science/biology/bees-get-anxious-and-octopuses-feel-pain-why-do-we-look-away
+
+### Mammalian
+
+- https://www.scientificamerican.com/article/lost-genes-explain-vampire-bats-diet-of-blood
 
 ### Picture
 
@@ -69,3 +83,4 @@
 - https://www.zmescience.com/science/biology/arctic-foxes-gardens-30112021
 - https://www.theguardian.com/news/2018/sep/18/a-giant-crawling-brain-the-jaw-dropping-world-of-termites
 - https://jezebel.com/tender-animal-sex-1848502315
+- https://www.fodors.com/news/photos/best-national-parks-in-the-world-for-seeing-animals

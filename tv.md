@@ -21,6 +21,7 @@
 - [Dealt (2017). Prepare to be inspired and amazed by Richard Turner, one of the world's most renowned card magicians, who met adversity head-on and refused to let his disability define him.](https://www.amazon.com/gp/product/B076HDXMX8)
 - https://us17.campaign-archive.com/?u=4a08f7487d9c2e380f49341b8&id=648f52ffe5
 - [detecting fake fireworks, and other fake things online](https://www.patreon.com/posts/new-video-how-to-60215516)
+- https://www.timeout.com/film/best-documentaries-of-all-time
 
 ### Interview
 

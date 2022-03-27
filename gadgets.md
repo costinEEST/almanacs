@@ -2,7 +2,7 @@
 
 - https://futurism.com/best-ebikes
 
-### Chargers
+### Charger
 
 - https://www.emag.ro/product-feedback/acumulator-extern-huawei-supercharge-12000-mah-40w-blue-55030797/pd/DB5YQLBBM/review/3764817
 
@@ -94,6 +94,7 @@
 - https://wincent.com/blog/building-a-pc
 - https://jongleberry.com/posts/travel-gear-2021
 - https://giuliomagnifico.blog/misc/2022/01/14/my-home-setup.html
+- https://www.backpacker.com/skills/navigation/how-to-use-a-compass
 
 
 ### Webcam

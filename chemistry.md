@@ -14,6 +14,7 @@
 - https://scitechdaily.com/scientists-built-a-super-fast-quantum-battery
 - [ A History of Solar Power Art and Design By Alex Nathanson](https://we-make-money-not-art.com/alex-nathanson-the-poetics-of-photovoltaics)
 - https://www.youtube.com/playlist?list=PLKEd7Km7DjLcqm7vqrAgbwYVwiG4Rif09
+- https://futurism.com/the-byte/quantum-charge-electric-cars
 
 ### Book
 
@@ -69,6 +70,7 @@
 - https://inquisitivebiologist.com/2021/04/29/book-review-the-elements-of-power-gadgets-guns-and-the-struggle-for-a-sustainable-future-in-the-rare-metal-age
 - https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-solid-state-lithium-battery
 - [Cosmetic Chemistry | Lab Muffin Beauty Science](https://www.youtube.com/playlist?list=PLbpMGOFlpHNDt2fEM04062eM8Yk1oX_KF)
+- https://laughingsquid.com/aspirin-history
 
 ### Tool
 

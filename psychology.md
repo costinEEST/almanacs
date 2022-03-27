@@ -26,3 +26,8 @@
 - https://www.contributors.ro/noi-chinezii
 - [The difference between happiness, meaning, and true psychological richness](https://twitter.com/Julian/status/1482506906102943745)
  + https://www.apa.org/pubs/journals/releases/rev-rev0000317.pdf
+
+
+### Papers
+
+- https://neurosciencenews.com/swearing-self-confidence-behavior-strength-20251/
