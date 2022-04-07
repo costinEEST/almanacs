@@ -36,14 +36,15 @@
 
 ### Fonts
 
-- [Pretty cool alternative collection of fonts.](https://typespecimens.io)
+- [Pretty cool alternative collection of fonts](https://typespecimens.io)
+- https://github.com/ubuwaits/beautiful-web-type
+- https://typography.pablolarah.cl
 - https://app.programmingfonts.org
 - https://vanschneider.com/the-best-totally-free-web-fonts-typefaces
 - [List of fonts for coding](https://github.com/Gaafar/dev-fonts)
 - https://www.thecut.com/2020/08/the-reason-comic-sans-is-a-public-good.html
 - [Curated list of Google Fonts](https://twitter.com/mackenziechild/status/1332384565835534336) + https://www.notion.so/e873b52e0cc54f2981acc430417ba61d?v=05acdd40b0564920be69f5347f619bc3
 - https://www.zeichenschatz.net/typografie/how-to-pick-a-typeface-for-user-interface-and-app-design.html
-- https://github.com/ubuwaits/beautiful-web-type
 - https://meta.stackexchange.com/questions/364048/we-are-switching-to-system-fonts-on-may-10-2021 + https://news.ycombinator.com/item?id=27063991
 - [bitmap Chinese fonts from the 70s and 80s](https://library.stanford.edu/node/172367) + https://twitter.com/tsmullaney/status/1390320518566354946
 - [Why do fashion brands and magazines use so much Bodoni & Didot?](https://ilovetypography.com/2021/07/15/ask-ilt-fashion-fonts)

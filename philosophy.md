@@ -43,6 +43,7 @@
 - https://figsinwinter.blog/2021/07/30/how-to-live-a-good-life-two-examples
 - https://www.youtube.com/playlist?list=PLAYxecbGotUxSZhQ-Gte_UAMs1RQAckSv
 - https://www.youtube.com/playlist?list=PLoZ5e3aD_LuQjz8HxPlH-MqR8QBa6x7Dx
+- https://www.udemy.com/course/life-coach-training-counseling-stoicism-philosophy
 
 ### Marxism
 

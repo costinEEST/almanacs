@@ -35,6 +35,7 @@
 - https://nuculabs.dev/2021/11/06/logitech-mx-keys-keyboard-review
 - https://www.evomag.ro/componente-pc-gaming-tastaturi-pc/logitech-tastatura-wireless-logitech-mx-keys-bluetooth-usb-layout-uk-negru-3803856.html 
 - https://www.amazon.com/Freestyle-Ergonomic-Mechanical-Programmable-Adjustable/dp/B07CX9KQRQ
+- https://blog.albingroen.com/posts/my-ultimate-hacking-keyboard-review
 
 ### Microphone
 
@@ -95,6 +96,7 @@
 - https://jongleberry.com/posts/travel-gear-2021
 - https://giuliomagnifico.blog/misc/2022/01/14/my-home-setup.html
 - https://www.backpacker.com/skills/navigation/how-to-use-a-compass
+- https://blog.albingroen.com/posts/2021-work-from-home-setup
 
 
 ### Webcam

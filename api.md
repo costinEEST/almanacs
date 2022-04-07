@@ -34,6 +34,7 @@
 ### GraphQL
 
 - https://twitter.com/HolyBugx/status/1441460070387261440
+- https://twitter.com/AlbinGroen/status/1507099790902976514
 - https://www.musumeche.com/fishing + https://github.com/stevenmusumeche/salty-solutions
 - https://tldrsec.com/blog/appsec-cali-2019/#an-attackers-view-of-serverless-and-graphql-apps
 - [GraphQL: The future of API's is here](https://youtu.be/mj850EuHQHs) + http://files.lifely.nl/graphql-the-future-of-apis-is-here.pdf

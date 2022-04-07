@@ -1,3 +1,13 @@
+### API
+
+- https://dmitrytsepelev.dev/talks/2021-05-28-high-performance-graphql.html
+- https://dev.to/knowndecimal/being-restful-about-your-routes-1gmf
+- https://www.driftingruby.com/episodes/label-maker-with-ruby
+
+### Algorithm
+
+- https://github.com/kanwei/algorithms
+
 
 ### Book
 
@@ -10,10 +20,12 @@
 - https://books.thoughtbot.com/books/ios-on-rails.html
 - https://books.thoughtbot.com/books/geocoding-on-rails.html
 - https://github.com/garethrees/practical-oo-design-in-ruby
+- https://github.com/sandimetz/1st_99bottles_ruby
 
 ### Cheat sheet
 
 - https://learnxinyminutes.com/docs/ruby
+- https://rubyreferences.github.io/rubyref
 
 ### Cinema
 
@@ -62,6 +74,22 @@
 - [David Bryant Copeland](https://naildrivin5.com/talks/index.html)
 - [Igor S. Morozov](https://www.morozov.is/talks)
 
+### Debugging
+
+- [bundle open rails](https://twitter.com/getajobmike/status/1343273147869450240)
+- https://www.jakeworth.com/how-to-read-a-stack-trace
+
+### Gem
+
+- https://skryukov.github.io/rails/activeadmin/2020/09/29/an-unofficial-active-admin-guide.html
+- [Pure Ruby bit array/bitfield implementation](https://github.com/peterc/bitarray)
+- https://github.com/countries/country_select
+
+### Internals
+
+- [Proc#arity](https://twitter.com/skryukov_dev/status/1447509791174168578)
+- https://noteflakes.com/articles/2021-10-20-explaining-ruby-fibers
+
 ### Practice
 
 - https://github.com/alexpeattie/letsencrypt-fromscratch
@@ -104,6 +132,11 @@
 - http://rubykoans.com
 - https://www.hschne.at/2019/09/22/fabulous-factorybot.html
 - https://www.codewithjason.com/ruby-instance-exec
+- [What is the fastest way to generate random hash for tests in Ruby?](https://twitter.com/skryukov_dev/status/1446905454311972866)
+- [Testing ActiveRecord concerns with fake models in-memory database](https://alexbarret.com/blog/2021/testing-model-concerns)
+- https://alexbarret.com/blog/2021/pragmatic-refactoring
+- http://www.kytrinyx.com/talks/succession + https://github.com/kytrinyx/succession
+- https://www.jakeworth.com/rspec-describe-vs-describe
 
 ### Radio
 
@@ -114,8 +147,14 @@
 
 - https://twitter.com/snyff/status/1477809743431303168
 
+### Static generator
+
+- https://github.com/ciconia/noteflakes.com
+
 ### Opinion
 
 - https://www.schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made
 - https://gquintana.github.io/2017/01/08/From-Java-to-Ruby.html
 - https://mlomnicki.com/symbols-vs-strings
+- https://dmitrytsepelev.dev/why-has-ruby-symbols
+- http://www.railstips.org/blog/archives/2012/10/10/booleans-are-baaaaaaaaaad

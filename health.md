@@ -316,6 +316,7 @@
 - [Podcast - Chemist Confessions](https://www.youtube.com/playlist?list=PLldQkxjc7bYnFkUtOw8Y07yCyBnaF4ddx)
 - https://www.vox.com/science-and-health/22710533/nobel-prize-2021-ardem-patapoutian-touch
 - https://www.amazon.com/Its-Not-Just-Acne-Healthier-ebook/dp/B092LVV638
+- [Skin care | Dr Brad Stanfield](https://www.youtube.com/playlist?list=PLeRFbtgrUb3m46NfT4AYik0UEl0CE6Dyk)
 
 ### Gut
 

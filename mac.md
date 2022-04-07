@@ -56,6 +56,7 @@
 - [Nginx+Lua config that converts Eventbrite API to iCalenadar format](https://github.com/diafygi/eb-to-ical)
 - [Device mockup generator for your screenshots](https://dimmy.club)
 - https://weser.io/blog/using-an-iphone-as-a-mac-webcam
+- https://blog.albingroen.com/posts/how-i-automated-my-dotfiles-screenshots
 
 
 ### References
