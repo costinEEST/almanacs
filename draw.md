@@ -18,6 +18,7 @@
 ### Cinema
 
 - [Quick Coloring Tricks | Color with Kurt](https://www.youtube.com/playlist?list=PLJyhITEA-P5gKgurHnxU9LAtZKBWhnTd4)
+- [Marshall Vandruff](https://www.youtube.com/c/MarshallVandruffVideos/playlists)
 
 ### Comics
 
