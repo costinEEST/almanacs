@@ -57,6 +57,7 @@
 - [Device mockup generator for your screenshots](https://dimmy.club)
 - https://weser.io/blog/using-an-iphone-as-a-mac-webcam
 - https://blog.albingroen.com/posts/how-i-automated-my-dotfiles-screenshots
+- https://magarajay538.medium.com/android-pentesting-setup-on-macbook-m1-d2f1f0a8db4b
 
 
 ### References

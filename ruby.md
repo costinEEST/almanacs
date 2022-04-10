@@ -56,6 +56,7 @@
 - https://www.udemy.com/course/ruby-on-rails-api-the-complete-guide
 - https://www.schneems.com/ut-rails
 - https://www.theodinproject.com/paths/full-stack-ruby-on-rails
+- https://store.afomera.dev/view/courses/learn-hotwire
 
 ### Community
 

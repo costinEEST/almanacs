@@ -20,6 +20,7 @@
 
 - https://app.pluralsight.com/paths/skill/shell-scripting-with-bash-and-z-shell
 - https://github.com/lhunath/guide.bash.academy
+- https://www.youtube.com/playlist?list=PLYQSCk-qyTW0d88jNocdi_YIFMA5Fnpug
 
 ### TIL
 

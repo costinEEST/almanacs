@@ -96,6 +96,7 @@
 ### Resistor
 
 - [Realizing a Non-Standard Resistance Value](https://twitter.com/TheJoeBamberg/status/1362129411928039425)
+- https://electronics.stackexchange.com/questions/264738/why-are-vacuum-tubes-more-resistant-to-electromagnetic-pulses-than-solid-state-d + https://www.c-span.org/video/?459083-1/fallout-mile-island + https://www.ji-hlava.com/filmy/after-the-fallout + https://youtu.be/n2fhbF-92_o
 
 ### Transistor
 

@@ -23,6 +23,7 @@
 - https://www.udemy.com/course/learn-figma-ui-ux
 - https://www.freecodecamp.org/news/ui-design-with-figma-tutorial
 - https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design
+- https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants
 
 ### Cinema
 

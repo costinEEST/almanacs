@@ -256,6 +256,7 @@
 - [Biomarkers, Metabolism, Biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9x2q-9uV9zcGfQ6Pi6Oj-_s)
 - [Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss)
 - [Keto diet | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCVr0OWbPNgohdrUSaA3NhY5)
+- https://www.amazon.com/shop/neishalovesit/list/7EJ9Z7PG6E0H + https://www.youtube.com/playlist?list=PL48jnTudSMf-GD-xZ2REPzNKCdOFBqMsk
 
 ### Meat
 

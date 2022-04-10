@@ -66,6 +66,8 @@
 
 - https://merveilles.town/@akkartik/107981485898871776
 - https://www.garethrees.co.uk/building-beauty
+- [PATTERN LANGUAGE (installation documentation)](https://vimeo.com/185020043)
+- https://www.youtube.com/watch?v=tEiV49ePpRU
 
 ### David Bohm
 

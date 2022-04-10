@@ -106,3 +106,4 @@
 - https://github.com/joedicastro/vps-comparison
 - https://github.com/dafthack/CloudPentestCheatsheets
 - [A reading list for services engineering](https://github.com/mmcgrana/services-engineering)
+- https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course
