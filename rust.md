@@ -59,6 +59,7 @@
 - https://github.com/yoshuawuyts/rust-for-js-peeps
 - https://www.freecodecamp.org/news/rust-in-replit
 - https://github.com/ferrous-systems/teaching-material
+- https://www.youtube.com/playlist?list=PLBhH0uX92r6qiqNSE_ztk6HjKsMnS2TJU
 
 ### Compiler
 

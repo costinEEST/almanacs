@@ -125,6 +125,7 @@
 - http://newsletters.vitadao.com
 - [Andreas Antonopoulos](https://us5.campaign-archive.com/home/?u=7f45612d2cf69803c4dbf4deb&id=991e861204)
 - [Richard Burton](https://ricburton.substack.com/archive)
+- https://www.argent.xyz/blog/tag/newsletter
 
 ### Investing
 

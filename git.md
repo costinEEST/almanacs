@@ -114,6 +114,7 @@
 - https://github.com/undergroundwires/bump-everywhere
 - https://dovh.io/posts/2021-05-20-github-actions-automatic-release
 - https://www.adrianbolonio.com/en/accessibility-github-actions + https://www.canaxess.com.au/articles/gotta-catch-em-all
+- https://alexcican.com/post/guide-hosting-website-dropbox-github/#downsides-of-github
 
 ### Tool
 

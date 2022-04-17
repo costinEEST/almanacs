@@ -12,6 +12,7 @@
 - [A book cataloging tool for Android phones.](https://github.com/eleybourn/Book-Catalogue)
 - https://github.com/pcqpcq/open-source-android-apps
 - [Track your sport activities with RunnerUp using the GPS](https://github.com/jonasoreland/runnerup)
+- https://github.com/eduardb/ClujBike
 
 ### Book
 

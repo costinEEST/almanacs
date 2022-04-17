@@ -252,6 +252,7 @@
 - https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Spanish
 - https://includejs.dev/notes/spanish-fluency-01
 - https://www.youtube.com/c/BunkerMaker/playlists
+- https://www.youtube.com/c/IsaacMorenoGallo/playlists
 
 ### Tibetan
 

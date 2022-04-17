@@ -13,6 +13,7 @@
 - https://www.academia.edu/49977753/Aristotel_Organon_vol_2_tr_Mircea_Florian_1998_1958_
 - https://www.academia.edu/49977571/Ammonius_Stephanus_Comentarii_la_Tratatul_Despre_Interpretare_al_lui_Aristotel_tr_C_Noica_1971_
 - https://reasonio.teachable.com/p/aristotle-s-nicomachean-ethics-books-1-10
+- https://www.youtube.com/playlist?list=PLrAPUF78nSaiMzABSkygVBT30Y5aEezIt
 
 ### Aaron Swartz
 
@@ -74,6 +75,11 @@
 - https://en.wikipedia.org/wiki/Bohm_Dialogue
 - https://www.brainpickings.org/2016/12/05/david-bohm-on-dialogue
 
+### David Heinemeier Hansson
+
+- https://mostrecommendedbooks.com/david-heinemeier-hansson-books
+- https://theceolibrary.com/books-recommended-by/david-heinemeier-hansson
+
 ### David Rockefeller
 
 - https://blakeir.com/reading-list/october-2021/david-rockefellers-rolodex-was-the-stuff-of-legend
@@ -100,6 +106,10 @@
 - https://store.sivers.org/1
 - https://sivers.com/d
 - https://100mba.net/mba1843
+
+### Herodotus
+
+- https://www.youtube.com/playlist?list=PLrAPUF78nSajp1ihfa2iDQ3-PmyW5T27f
 
 ### Jeffrey Preston Bezos
 

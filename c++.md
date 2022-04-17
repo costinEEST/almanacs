@@ -31,6 +31,11 @@
 - https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c
 - https://github.com/harrisrobin/Udacity-CPlusPlus-Nanodegree
 - https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin
+- https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language
+
+### Compiler
+
+- https://www.youtube.com/playlist?list=PLWUx_XkUoGTruCwBHdpTtx_f3WkbgUmUv
 
 ### Tool
 
@@ -57,6 +62,10 @@
 
 - https://github.com/ssloy/tinyrenderer/wiki
 - https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html
+
+### Interpreter
+
+- https://www.youtube.com/playlist?list=PLWUx_XkUoGTrXOU0pFa_OVGA-6voiIEAt
 
 ### Opinions
 

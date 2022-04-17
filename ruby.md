@@ -26,6 +26,8 @@
 
 - https://learnxinyminutes.com/docs/ruby
 - https://rubyreferences.github.io/rubyref
+- https://dev.to/ericchapman/my-beloved-ruby-on-rails-cheat-sheet-50pi
+- https://scottbartell.com/2022/04/12/set-attributes-in-active-record-rails-7
 
 ### Cinema
 
@@ -57,6 +59,7 @@
 - https://www.schneems.com/ut-rails
 - https://www.theodinproject.com/paths/full-stack-ruby-on-rails
 - https://store.afomera.dev/view/courses/learn-hotwire
+- [Full Stack Ruby on Rails Development Bootcamp | APPSIMPACT Academy](https://www.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPPu)
 
 ### Community
 
@@ -74,22 +77,41 @@
 - [Emily Giurleo](https://emilygiurleo.dev/speaking)
 - [David Bryant Copeland](https://naildrivin5.com/talks/index.html)
 - [Igor S. Morozov](https://www.morozov.is/talks)
+- [Leveling up your Hotwire dev skills](https://twitter.com/joemasilotti/status/1504095146840760321)
+- https://mixandgo.com/guide/websites-using-rails
 
 ### Debugging
 
 - [bundle open rails](https://twitter.com/getajobmike/status/1343273147869450240)
 - https://www.jakeworth.com/how-to-read-a-stack-trace
 
+### Deploy
+
+- https://akshaykhot.com/deploying-rails-like-2005
+
 ### Gem
 
 - https://skryukov.github.io/rails/activeadmin/2020/09/29/an-unofficial-active-admin-guide.html
 - [Pure Ruby bit array/bitfield implementation](https://github.com/peterc/bitarray)
 - https://github.com/countries/country_select
+- [Triage Issues With Me - Heroics | Richard Schneeman](https://www.youtube.com/playlist?list=PLg03g-T-woiDCY1m4PdMh2Vv2eftDdVZP)
+- https://www.alchemists.io/projects/gemsmith
 
 ### Internals
 
 - [Proc#arity](https://twitter.com/skryukov_dev/status/1447509791174168578)
 - https://noteflakes.com/articles/2021-10-20-explaining-ruby-fibers
+- [Studying Rails | Akshay Khot](https://www.youtube.com/playlist?list=PLvzIg98pA19mdittqxQKAm88_H5sT---g)
+- [The Safe Navigation Operator (&.)](https://mitrev.net/ruby/2015/11/13/the-operator-in-ruby)
+- [Ruby on Rails Interview Questions | APPSIMPACT Academy](https://www.youtube.com/playlist?list=PL6SEI86zExmtPEhIPXhqLAScDURdT5z19) + https://www.youtube.com/playlist?list=PL6SEI86zExmvCaLJMY9tFdP35NzCs2QdK
+- https://dev.to/palkan_tula/faster-rubocop-runs-for-rails-apps-10me
+- https://dev.to/kadeesterline/looping-in-ruby-351b
+- https://avohq.io/blog/auto-reload-rails-initializers-and-other-files-in-development
+- https://blog.saeloun.com/2022/04/12/ruby-variable-width-allocation.rb
+
+### Pattern
+
+- [Design Patterns in Ruby](https://www.youtube.com/playlist?list=PLBhH0uX92r6oP8r-oSY_b8_2EnK0Z1Fkz)
 
 ### Practice
 
