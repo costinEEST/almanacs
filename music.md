@@ -122,6 +122,7 @@
 - https://en.wikipedia.org/wiki/Jazz_Age
 - https://blog.sophaskins.net/blog/jazz-albums-for-the-socially-distanced
 - [The Subject is Jazz](https://www.youtube.com/playlist?list=PLKcw8FT1mrfDQuTAKB1OPXNDuYyby89nY)
+- [Konrad Koselleck](https://twitter.com/AlexDrace/status/1517893147480793088)
 
 ### Rock
 

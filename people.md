@@ -40,6 +40,10 @@
 
 - https://intuitiveexplanations.com/tech/replit
 
+### Ayn Rand
+
+- https://www.youtube.com/playlist?list=PLtl4bsccyqPUa29NgQAqsq6mE9Spiiyxy
+
 ### Bill Gurley
 
 -https://blakeir.com/notes/bill-gurley-benchmark

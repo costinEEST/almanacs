@@ -170,12 +170,15 @@
 - http://persarazvan.blogspot.com/p/studiu-limbi-clasice.html
 - https://dannybate.com/2021/01/18/from-english-to-greek-in-two-rules + https://twitter.com/DannyBate4/status/1352341590673649665
 - https://includejs.dev/notes/learning-greek-01
+- https://twitter.com/Alex_Sideridou/status/1513460385378185224 + https://www.facebook.com/cinqmotsgrecs
 
 ### Hungarian
 
 - http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - [Witch Trials in Hungary 1529–1768](https://twitter.com/TheHungarianFor/status/1454910612509704192)
 - https://www.lucalampariello.com/language-learning-resources/#tve-jump-1760460354b
+- https://twitter.com/BeilinsonOrel/status/1278007877521870848
+- https://www.orelbeilinson.com/language-textbooks
 
 ### Hindi
 
@@ -208,6 +211,7 @@
 - https://www.anomiseditrix.net/japanese-through-onomatopoeia
 - https://youtu.be/SGu0OSukq-s + https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-English/dp/4789014401
 - https://github.com/mercari/engineer-vocabulary-list
+- https://twitter.com/TastingHistory1/status/1516949463524274183
 
 ### Korean
 
@@ -280,6 +284,7 @@
 - https://aiydreen.com/russian
 - https://www.udemy.com/course/russian-alphabet-mastery
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/russian.md
+- https://twitter.com/BeilinsonOrel/status/1278007873335894021
 
 ### Rare
 

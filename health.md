@@ -98,6 +98,7 @@
 - https://www.monitorulsv.ro/Reportaj/2022-02-14/Ciorba-radauteana-implineste-40-de-ani-de-cand-a-intrat-in-meniurile-restaurantelor-din-Bucovina-cucerind-intreaga-lume
 - https://www.udemy.com/course/no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food
 - https://archive.org/search.php?query=wartime%20cookbook
+- https://www.youtube.com/c/TastingHistory/playlists
 
 ### Cholesterol
 
