@@ -120,6 +120,7 @@
 - https://github.com/Haseeb-Qureshi/crypto-challenges
 - https://github.com/KrzaQ/AdventOfCode2020
 - https://www.leighhalliday.com/solution-software-engineer-interview-challenge
+- https://github.com/AsadK47/Codewars-Katas-Ruby
 
 ### Reference
 
@@ -181,3 +182,4 @@
 - https://mlomnicki.com/symbols-vs-strings
 - https://dmitrytsepelev.dev/why-has-ruby-symbols
 - http://www.railstips.org/blog/archives/2012/10/10/booleans-are-baaaaaaaaaad
+- https://calendly.com/blog/ruby-gotchas-javascript-developer
