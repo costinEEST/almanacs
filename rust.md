@@ -26,7 +26,7 @@
 - https://github.com/lambda-magic/plt-books/tree/master/Rust
 - https://github.com/sger/RustBooks
 - https://github.com/lborb/book
-- https://github.com/Dhghomon/easy_rust
+- https://github.com/Dhghomon/easy_rust + https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 - https://github.com/staszewski/rustlings-solutions
 - https://github.com/LukeMathWalker/zero-to-production
 - [Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers](https://github.com/google/autocxx)
@@ -168,3 +168,4 @@
 - https://dystroy.org/blog/how-not-to-learn-rust
 - https://twitter.com/chrisbiscardi/status/1481246482212679681
 - http://cliffle.com/blog/prefer-rust
+- https://github.com/Dhghomon/programming_at_40

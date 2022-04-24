@@ -17,6 +17,7 @@
 - https://www.amazon.com/Manele-Romania-Expression-Ethnomusicologies-Modernities/dp/1442267070
 - https://musicthing.co.uk/pages/reading.html
 - https://www.voxa.ro/autori/adrian-leonard-mociulschi
+- https://www.edmprod.com/music-theory
 
 ### Cinema
 

@@ -77,6 +77,7 @@
 - https://www.rhapsodyinlingo.com/en/2020/06/06/glossika-ai-review
 - https://lindiebotes.com/2021/06/02/8-free-language-learning-tools-you-can-integrate-into-your-life
 - https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages
+- https://etymologeek.com
 
 ### Communities
 
@@ -138,6 +139,7 @@
 - https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english
 - https://www.udemy.com/course/master-the-english-irregular-verbs-once-and-for-all
 - https://www.udemy.com/course/word-stress-of-american-english
+- https://www.amazon.com/English-Nature-Method-Arthur-Jensen/dp/1684718228 + https://www.youtube.com/playlist?list=PLAadwKeAHRjjTBBIDyetK6VqoRQEu3Xud
 
 ### Esperanto
 
@@ -155,6 +157,8 @@
 - https://tvtropes.org/pmwiki/pmwiki.php/Main/EverythingSoundsSexierInFrench
 - [Union des francais et francophones de Roumanie](https://www.meetup.com/ufe-roumanie)
 - [Dincolo de cuvinte – Au-delà des mots](https://www.facebook.com/MuzeulNationalDeArtaAlRomaniei/videos/435391008335098)
+- https://www.amazon.com/Fran%C3%A7ais-par-M%C3%A9thode-Nature-French/dp/1684747775 + https://www.youtube.com/playlist?list=PLf8XN5kNFkhdIS7NMcdUdxibD1UyzNFTP + https://archive.org/details/jensen-arthur-le-francais-par-la-methode-nature + https://www.youtube.com/playlist?list=PLAadwKeAHRjjOTdip627SQIUN4u94pXlV + https://www.youtube.com/playlist?list=PLD0666ZhOzwjPr-8Kn-OUf-Dx3jDyuug9
+- [James H Worman](https://archive.org/search.php?query=creator%3A%22Worman%2C+James+H.+%28James+Henry%29%2C+1835-1930%22)
 
 ### German
 
@@ -163,6 +167,8 @@
 - https://divu.in/german/words
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqoHpBI5yAX8yfbc2ap7SkFX
 - https://divyendusingh.com/german/learn
+- https://blog.nina.coffee/2018/08/27/all_nature_method_books.html
+- https://vivariumnovum.it/risorse-didattiche/propria-formazione/metodo-diretto-applicato-alle-lingue-moderne
 
 ### Greek
 
@@ -190,6 +196,7 @@
 
 - https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
 - https://www.youtube.com/c/VirtualBrainIT/playlists
+- https://www.amazon.com/Litaliano-secondo-metodo-natura-Italian/dp/168474864X + https://www.youtube.com/playlist?list=PLf8XN5kNFkhfQonvCySTrKEUV742WzshJ + https://archive.org/details/LitalianoSecondoIlMetodoNatura + https://www.youtube.com/playlist?list=PLAadwKeAHRjgMxSpTjzk-mqJtZPKOvGX6
 
 ### Japanese
 
@@ -218,6 +225,11 @@
 - https://www.youtube.com/c/ArirangCoKrTV/playlists
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqrn1VUPmi3wIMKfoAR_ebUy
 - https://andrewzah.com/posts/2019/korean_for_programmers
+- http://www.pagef30.com/2013/02/how-i-learned-korean.html
+
+### Khmer
+
+- https://naturalkhmer.com + https://www.youtube.com/channel/UCgSzxTVgPe3I5aQWAGQ27cQ
 
 ### Latin
 
@@ -227,6 +239,17 @@
 - [Emblems of love, in four languages : dedicated to the ladies](https://archive.org/details/emblemsofloveinf00ayre)
 - https://twitter.com/DannyBate4/status/1370405688372047876
 - [Learning Latin the Ancient Way | Eleanor Dickey](https://twitter.com/prathyvsh/status/1185363307575689216)
+- https://hackettpublishing.com/lingua-latina-per-se-illustrata-series + http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=38867&PN=1
+
+### Lithuanian
+
+- https://blog.nina.coffee/2016/02/13/learning-lithuanian.html
+
+### Occidental
+
+- https://occidental-lang.com
+- https://en.wikibooks.org/wiki/Salute,_Jonathan!
+- https://www.youtube.com/playlist?list=PLfllocyHVgsQJDLBEshG0Oe6YOBA7Y0Ob
 
 ### Portuguese
 
@@ -241,6 +264,7 @@
 ### Spanish
 
 - https://www.youtube.com/c/SpanishWithPaul/playlists
+- https://www.youtube.com/c/DreamingSpanish/playlists
 - https://www.mezzoguild.com/spanish-apps
 - https://www.youtube.com/c/ChristianBurgosKorea/playlists
 - https://www.youtube.com/playlist?list=PLTpetkN815Qyuc2RbC1kxxMQvxjQ3RnYG
@@ -257,6 +281,11 @@
 - https://includejs.dev/notes/spanish-fluency-01
 - https://www.youtube.com/c/BunkerMaker/playlists
 - https://www.youtube.com/c/IsaacMorenoGallo/playlists
+- https://www.amazon.com/New-First-Spanish-Book-Instruction/dp/1406740713 + https://archive.org/details/newfirstspanish00wormgoog
+- https://archive.org/details/firstspanishbook00wormrich
+- https://archive.org/details/pocopocoelementa00hallrich + https://www.patreon.com/posts/61285256 + https://www.youtube.com/playlist?list=PLf8XN5kNFkhe4D2BPBKaUb2JvDHuzAGPI + https://www.youtube.com/playlist?list=PLf8XN5kNFkheNPqxA2mTuX65COM1R3S90
+- https://ikindalikelanguages.com/labs/courses.php?id=31
+- https://www.youtube.com/playlist?list=PLD0666ZhOzwiclhHTISo8AAReSbpUXWaJ
 
 ### Tibetan
 
@@ -303,3 +332,11 @@
 - https://blog.raeez.com/story-telling
 - https://newthinking.tools/bookshelf
 - [Course materials for Dartmouth Course: Storytelling with Data (PSYC 81.09)](https://github.com/ContextLab/storytelling-with-data)
+
+### Thai
+
+- https://www.youtube.com/playlist?list=PLOKPImLWvaffrJv9V5cumhj76EN7jjWok
+
+### Turkish
+
+- https://www.youtube.com/playlist?list=PLf8XN5kNFkheEx8CstJsVHVYzHqH47CM1
