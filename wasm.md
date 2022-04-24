@@ -34,6 +34,7 @@
 - [JS parser in Web Assembly / C](https://github.com/samthor/gumnut)
 - https://github.com/GoogleChromeLabs/wasm-feature-detect
 - https://github.com/fiatjaf/jq-web
+- https://schroer.ca/2022/03/20/openscad-configurator
 
 ### Opinion
 

@@ -39,6 +39,7 @@
 - https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018 + https://youtu.be/Unzc731iCUY + https://www.memoriesofpatrickwinston.com
 - [Micro-Lectures - Phonetics | The Virtual Linguistics Campus](https://www.youtube.com/playlist?list=PLRIMXVU7SGRIeAGqlQqzbsErDMgZWkuqh)
 - https://www.udemy.com/course/content-based-language-teaching
+- https://github.com/speaking-for-hackers/speaking-for-hackers-book
 
 ### Book
 

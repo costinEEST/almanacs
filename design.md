@@ -19,7 +19,7 @@
 - [Designa: Technical Secrets of the Traditional Visual Arts](https://www.goodreads.com/en/book/show/20613528) + https://twitter.com/jackrusher/status/1395766428301676545
 - https://www.amazon.com/Non-Designers-Design-Book-Non-Designers-ebook/dp/B00PWDFWEE
 - https://shepherd.com/best-books/visual-branding
-
+- https://childrensdesignguide.org
 
 ### Cinema
 

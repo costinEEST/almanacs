@@ -174,6 +174,7 @@
 - https://www.davidsopas.com/my-red-team-assessment-hardware-list
 - https://github.com/TM90/awesome-hwd-tools
 - [OpenBenchmarking.org - Cross-Platform, Open-Source Automated Benchmarking Platform](https://openbenchmarking.org)
+- https://github.com/petl/USB-C-cable-tester-C2C-caberQU
 
 ### History
 

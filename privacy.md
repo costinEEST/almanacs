@@ -41,6 +41,7 @@
 - https://www.tomsguide.com/news/android-ios-data-collection
 - https://www.ftm.eu/articles/xiaomi-phones-spy-on-their-users
 - [Alibaba and Xiaomi: the downward spiral of surveillance capitalism | Gabi Cirlig](https://www.nohat.it/static/slides/alibaba_and_xiaomi_cirlig.pdf)
+- https://arstechnica.com/information-technology/2022/04/a-year-after-apple-enforces-app-tracking-policy-covert-ios-tracking-remains
 
 ### Software
 

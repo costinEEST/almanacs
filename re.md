@@ -54,6 +54,7 @@
 
 - https://www.youtube.com/c/OALabs/playlists
 - https://github.com/tmpout/awesome-elf
+- https://github.com/JannisKirschner/SymbolicExecutionDemystified
 
 ### Tools
 

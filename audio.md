@@ -62,6 +62,7 @@
 - [How I organise and import new music](https://blog.vararu.org/new-music)
 - https://www.flyingcroissant.ca/making-playlists
 - [Cross browser Speech Synthesis](https://github.com/jankapunkt/easy-speech)
+- [Text-to-MIDI Morse code converter](https://web.archive.org/web/20040805022253/http://users.rcn.com/m3ha11/ruby/t2mm.rb)
 
 ### Security
 

@@ -17,6 +17,7 @@
 - https://github.com/clr2of8/GatherContacts
 - https://medium.com/csg-govtech/proxy-agent-a-tool-for-mobile-penetration-testers-a9796e99f3ca
 - https://github.com/six2dez/burp-bounty-profiles
+- https://www.pentagrid.ch/en/blog/teaching_burp_a_new_http_transport_encoding
 
 ### Cinema
 

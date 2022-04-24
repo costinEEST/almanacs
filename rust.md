@@ -169,3 +169,4 @@
 - https://twitter.com/chrisbiscardi/status/1481246482212679681
 - http://cliffle.com/blog/prefer-rust
 - https://github.com/Dhghomon/programming_at_40
+- [Rust or Golang for a new CLI?](https://twitter.com/fbzga/status/1453695333687570434)

@@ -275,6 +275,10 @@ javascript: (() =>
 
 - [In my app when a user clicks play, I remove all audio elements, swap them with fresh ones, and attempt to autoplay for the user.](https://twitter.com/RogersKonnor/status/1453596502098644994) + https://github.com/cableready/audio_operations
 
+### Staybl
+
+- [A browser for Parkinson’s patients, with “customizable tremor compensation tremor compensation, high-contrast design, a particularly legible font, and general ease of use.”](staybl.app)
+
 ### Opera
 
 - [Standalone client for proxies of Opera VPN](https://github.com/Snawoot/opera-proxy)
@@ -377,6 +381,7 @@ javascript: (() =>
 - https://github.com/muaz-khan/WebRTC-Experiment
 - https://github.com/adamavenir/talkto
 - https://github.com/diafygi/webrtc-ips
+- [A tool to test and exploit STUN, TURN and TURN over TCP servers](https://github.com/firefart/stunner) + https://firefart.at/post/multiple_vulnerabilities_cisco_expressway + https://www.rtcsec.com/article/slack-webrtc-turn-compromise-and-bug-bounty
 
 ### Canvas
 

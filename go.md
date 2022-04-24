@@ -106,6 +106,7 @@
 - [A node.js version management utility for Windows](https://github.com/coreybutler/nvm-windows)
 - [Simple file sharing from the browser and the command-line](https://github.com/schollz/share)
 ־ [Is there a good type-preserving typescript/ecamscript parser written in golang?](https://twitter.com/kdy1dev/status/1484428024187523073)
+- [jq for binary formats](https://github.com/wader/fq)
 
 ### Radio
 

@@ -28,6 +28,18 @@
 - https://rubyreferences.github.io/rubyref
 - https://dev.to/ericchapman/my-beloved-ruby-on-rails-cheat-sheet-50pi
 - https://scottbartell.com/2022/04/12/set-attributes-in-active-record-rails-7
+- [Comprehensive changelog of Ruby Programming Language](https://github.com/rubyreferences/rubychanges)
+- https://github.com/franzejr/best-ruby
+- https://twitter.com/Khazaara/status/1436674315211132928
+- https://github.com/gauthamchandra/learning-ruby-from-js
+- https://github.com/rebagliatte/python-vs-ruby-vs-javascript
+- https://github.com/KSH-code/awesome-practical-posts
+- https://www.nadiaodunayo.com/projects/speakerline
+- [A Guide to GC.stat](https://gist.github.com/nateberkopec/b4e832a7e4b92911cf1c9d85332a1a79)
+- https://www.schneems.com/2016/01/25/ruby-debugging-magic-cheat-sheet.html
+- https://github.com/kubo39/ruby-what-the-fuck
+- https://github.com/jwworth/til/tree/master/rails
+- https://github.com/jwworth/til/tree/master/ruby
 
 ### Cinema
 
@@ -96,6 +108,9 @@
 - https://github.com/countries/country_select
 - [Triage Issues With Me - Heroics | Richard Schneeman](https://www.youtube.com/playlist?list=PLg03g-T-woiDCY1m4PdMh2Vv2eftDdVZP)
 - https://www.alchemists.io/projects/gemsmith
+- https://metaredux.com/posts/2022/04/21/rubocop-turns-10.html
+- https://postmodern.github.io/blog/2021/11/25/introducing-command-mapper.html
+- https://github.com/stars/postmodern/lists/ruby-infosec
 
 ### Internals
 
@@ -107,11 +122,15 @@
 - https://dev.to/palkan_tula/faster-rubocop-runs-for-rails-apps-10me
 - https://dev.to/kadeesterline/looping-in-ruby-351b
 - https://avohq.io/blog/auto-reload-rails-initializers-and-other-files-in-development
-- https://blog.saeloun.com/2022/04/12/ruby-variable-width-allocation.rb
+- https://blog.saeloun.com/2022/04/19/ruby-variable-width-allocation-part-2
+- https://shopify.engineering/code-ranges-ruby-strings
+- https://postmodern.github.io/blog/2022/03/28/howto-use-activerecord-in-a-library.html
+- https://devcraft.io/2022/04/04/universal-deserialisation-gadget-for-ruby-2-x-3-x.html + https://twitter.com/wcbowling/status/1513861654676578313
 
 ### Pattern
 
 - [Design Patterns in Ruby](https://www.youtube.com/playlist?list=PLBhH0uX92r6oP8r-oSY_b8_2EnK0Z1Fkz)
+- https://postmodern.github.io/blog/2010/10/01/list-comprehensions-in-ruby.html
 
 ### Practice
 
@@ -121,19 +140,8 @@
 - https://github.com/KrzaQ/AdventOfCode2020
 - https://www.leighhalliday.com/solution-software-engineer-interview-challenge
 - https://github.com/AsadK47/Codewars-Katas-Ruby
+- https://github.com/ashbb/ruby_metaprogramming_study_note
 
-### Reference
-
-- [Comprehensive changelog of Ruby Programming Language](https://github.com/rubyreferences/rubychanges)
-- https://github.com/franzejr/best-ruby
-- https://twitter.com/Khazaara/status/1436674315211132928
-- https://github.com/gauthamchandra/learning-ruby-from-js
-- https://github.com/rebagliatte/python-vs-ruby-vs-javascript
-- https://github.com/KSH-code/awesome-practical-posts
-- https://www.nadiaodunayo.com/projects/speakerline
-- [A Guide to GC.stat](https://gist.github.com/nateberkopec/b4e832a7e4b92911cf1c9d85332a1a79)
-- https://www.schneems.com/2016/01/25/ruby-debugging-magic-cheat-sheet.html
-- https://github.com/kubo39/ruby-what-the-fuck
 
 ### Tool
 
@@ -161,6 +169,7 @@
 - https://alexbarret.com/blog/2021/pragmatic-refactoring
 - http://www.kytrinyx.com/talks/succession + https://github.com/kytrinyx/succession
 - https://www.jakeworth.com/rspec-describe-vs-describe
+- https://github.com/smarr/are-we-fast-yet
 
 ### Radio
 
@@ -170,6 +179,9 @@
 ### Security
 
 - https://twitter.com/snyff/status/1477809743431303168
+- https://github.com/httpvoid/writeups
+- https://httpvoid.com/Ruby-Deserialization-Gadget-On-Rails.md
+- https://httpvoid.com/Ruby-tempfile-mktmpdir-PT.md
 
 ### Static generator
 
@@ -183,3 +195,4 @@
 - https://dmitrytsepelev.dev/why-has-ruby-symbols
 - http://www.railstips.org/blog/archives/2012/10/10/booleans-are-baaaaaaaaaad
 - https://calendly.com/blog/ruby-gotchas-javascript-developer
+- https://postmodern.github.io/blog/2022/01/18/why-do-so-many-in-infosec-really-dislike-ruby-some-thought.html

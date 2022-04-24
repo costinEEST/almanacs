@@ -146,6 +146,7 @@
 - [YAML parses numbers as a base-60 value](https://twitter.com/MeBeiM/status/1373763490465333248)
 - https://blog.sophaskins.net/blog/setting-up-a-home-hypervisor
 - https://github.com/Artemmkin/infrastructure-as-code-tutorial
+- https://github.com/jpetazzo/container.training
 
 ### Monitoring
 

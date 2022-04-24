@@ -59,6 +59,8 @@
 - [A PoC for USB video out from the DJI FPV Goggles, inspired by The Video Out Club](https://github.com/fpv-wtf/voc-poc)
 - [Fast and simple video download library and CLI tool written in Go](https://github.com/iawia002/annie)
 - https://coolaj86.com/articles/meeting-video-transcription-solutions
+- http://jpetazzo.github.io/2019/03/28/recording-workshop-video-tutorial-training
+- http://jpetazzo.github.io/2020/06/27/streaming-part-4-linux
 
 ### Opinions
 

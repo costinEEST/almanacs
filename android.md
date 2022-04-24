@@ -42,6 +42,11 @@
 - https://github.com/amitshekhariitbhu/awesome-android-complete-reference
 - https://github.com/androiddevnotes/awesome-android-learning-resources
 
+### Internals
+
+- https://blog.esper.io/android-dessert-bites-22-linux-memory-management-38419756
+
+
 ### Tool
 
 - Using a DigiSpark(Cheaper alternative to using an Arduino Uno) to interact with a mobile device
@@ -63,6 +68,7 @@
 - [web app to generate a generic privacy policy for your Android/iOS apps](https://github.com/nisrulz/app-privacy-policy-generator)
 - https://github.com/google/android-emulator-container-scripts
 - [automate APK reversing](https://twitter.com/nullenc0de/status/1483142647791460358) + https://github.com/nullenc0de/reverse-apk
+- https://github.com/ClaudiuGeorgiu/PlaystoreDownloader
 
 ### APIs
 

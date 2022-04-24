@@ -122,3 +122,4 @@
 - [Software Engineering for Systems Hackers | David G. Andersen](http://www.cs.cmu.edu/~dga/systems-se.pdf)
 - [A new bootable USB solution](https://github.com/ventoy/Ventoy)
 - [JWT brute force cracker written in C](https://github.com/brendan-rius/c-jwt-cracker)
+- https://github.com/eduardsui/ISUToCNP

@@ -124,6 +124,7 @@
 - https://onmyway133.com/posts/learning-voip-rtp-and-sip-aka-awesome-pjsip
 - https://github.com/onmyway133/awesome-voip
 - https://worthdoingbadly.com/vowifi
+- https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade + https://twitter.com/zekjur/status/1517872128602914816
 
 ### 3G
 
@@ -258,6 +259,7 @@
 - https://scorpil.com/post/the-long-road-to-http3
 - https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp
 - https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls
+- https://twitter.com/xargsnotbombs/status/1517505549272682496
 
 ### Secure Shell
 

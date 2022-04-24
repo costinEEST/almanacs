@@ -21,3 +21,7 @@
 ### Practice
 
 - https://hyperskill.org/onboarding/?track=kotlin
+
+### Security
+
+- https://github.com/optiv/InsecureShop

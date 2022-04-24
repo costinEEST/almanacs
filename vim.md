@@ -39,5 +39,6 @@
 - [A very light, yet efficient command line note taking tool](https://gist.github.com/nongiach/125b4b3cc8931464ea08446f5f436fec) + https://twitter.com/chaignc/status/1347974060312027141
 - https://github.com/cjavdev/vim-curriculum
 - https://blog.albingroen.com/posts/an-actually-usable-vim-setup
+- [PowerShell also has a #vi mode](https://twitter.com/emanuelduss/status/1503999923980840964)
 
 

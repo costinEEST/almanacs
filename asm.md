@@ -61,12 +61,13 @@
 - https://github.com/danbev/learning-assembly
 - https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick + https://twitter.com/_can1357/status/1374209069137989633
 
-### Tools
+### Tool
 
 - [HTML-embeddable x86_64 emulator](https://github.com/bordplate/js86)
 - [x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86)
 - [VisUAL - A highly visual ARM emulator](https://salmanarif.bitbucket.io/visual)
 - https://medium.com/@tony.oreglia/getting-started-writing-assembly-language-8ecc116f3627
+- [Recognize cpu instructions in an arbitrary binary file](https://github.com/airbus-seclab/cpu_rec)
 
 ### Radio
 
