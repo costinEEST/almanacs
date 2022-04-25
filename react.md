@@ -62,9 +62,10 @@
 - https://github.com/jamesqquick/React-and-Serverless-Fullstack-Web-Development
 - https://github.com/gmpetrov/ultimate-saas-ts
 
-### Books
+### Book
 
 - https://softchris.github.io/books/react + https://github.com/softchris/react-book-repo
+- https://theroadtoenterprise.com/books/react-the-road-to-enterprise
 
 ### Cinema
 
@@ -252,6 +253,7 @@
 - https://github.com/chec/commercejs-nextjs-demo-store
 - [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://github.com/dijonmusters/e-commerce-in-25-days)
 - https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/javascript/js-libraries/react/nextjs.md
+- https://www.builder.io/blog/hydration-is-pure-overhead
 
 ### Server component
 
@@ -403,6 +405,7 @@
 
 ### Testing
 
+- https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest
 - https://www.manning.com/books/testing-javascript-applications
 - https://www.udemy.com/course/react-testing-with-jest-and-enzyme
 - https://github.com/zamarrowski/Curso-React-Testing-GraphQL

@@ -58,6 +58,7 @@
 - https://weser.io/blog/using-an-iphone-as-a-mac-webcam
 - https://blog.albingroen.com/posts/how-i-automated-my-dotfiles-screenshots
 - https://magarajay538.medium.com/android-pentesting-setup-on-macbook-m1-d2f1f0a8db4b
+- https://git.herrbischoff.com/awesome-macos-command-line/about
 
 
 ### References

@@ -19,3 +19,4 @@
 
 - https://github.com/ankumar/Open-software-design
 - https://thoughtspile.github.io/2021/11/08/semver-challenges
+- [Software Licenses in Plain English](https://tldrlegal.com)

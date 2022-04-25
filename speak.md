@@ -287,6 +287,7 @@
 - https://archive.org/details/pocopocoelementa00hallrich + https://www.patreon.com/posts/61285256 + https://www.youtube.com/playlist?list=PLf8XN5kNFkhe4D2BPBKaUb2JvDHuzAGPI + https://www.youtube.com/playlist?list=PLf8XN5kNFkheNPqxA2mTuX65COM1R3S90
 - https://ikindalikelanguages.com/labs/courses.php?id=31
 - https://www.youtube.com/playlist?list=PLD0666ZhOzwiclhHTISo8AAReSbpUXWaJ
+- https://www.youtube.com/c/PaoloAstorga/playlists
 
 ### Tibetan
 

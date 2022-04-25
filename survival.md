@@ -9,3 +9,4 @@
 ### War
 
 - https://mwi.usma.edu/defending-the-city-an-overview-of-defensive-tactics-from-the-modern-history-of-urban-warfare
+- https://www.engadget.com/hitting-the-books-war-virtually-roberto-j-gonzalez-uc-press-140000651.html

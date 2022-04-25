@@ -69,6 +69,7 @@
 
 ### Christopher Alexander
 
+- https://t.me/nature_of_order_chat
 - https://merveilles.town/@akkartik/107981485898871776
 - https://www.garethrees.co.uk/building-beauty
 - [PATTERN LANGUAGE (installation documentation)](https://vimeo.com/185020043)

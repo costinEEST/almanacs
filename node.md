@@ -181,6 +181,7 @@
 
 - [can't find where you put that console.log?](https://twitter.com/davidmarkclem/status/1455850282294915074)
 - [package-lock.json](https://twitter.com/izs/status/1480992076737118209)
+- https://hirok.io/posts/avoid-npm-link
 
 ### Cheat sheets
 
@@ -189,6 +190,7 @@
 - https://github.com/ArturJS/nodejs-certification-preparation
 - https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners
 - https://github.com/kryz81/awesome-nodejs-learning
+- https://oscarotero.com/deno
 
 ### Community
 
@@ -196,6 +198,7 @@
 
 ### Debugging
 
+- https://kinsta.com/blog/node-debug
 - [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
 - https://evilpacket.net/2019/leveraging-javascript-debuggers
 - https://github.com/tj/node-blocked
@@ -371,6 +374,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [utility library to create and run Advent of Code solutions](https://github.com/caderek/aocrunner)
 - [Fetch source-mapped sources. Peek by file, line, column. Node & browsers. Sync & async](https://github.com/xpl/get-source)
 - [repo that is written in ESM and uses Rollup to transpile to CJS (including tests)](https://twitter.com/MylesBorins/status/1481138550481502211)
+- [Git branch to favicon](https://gist.github.com/tigt/86b25ce970e46370dd61339380e2d6bd)
 
 ### Testing
 
@@ -521,6 +525,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://nemethgergely.com/blog/building-your-blog-from-scratch
 - https://github.com/shakyShane/next-no-js
 - [designcember.com built with Astro](https://github.com/GoogleChromeLabs/designcember)
+- [Eleventy crash course | Jaydan Urwin](https://www.youtube.com/playlist?list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW)
 
 
 ### Serverless

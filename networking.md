@@ -30,6 +30,7 @@
 - [How to Hack Like a PORNSTAR: A step by step process for breaking into a BANK](https://www.amazon.com/dp/B01MTDLGQQ)
 - https://www.ipspace.net/Books
 - https://github.com/bobeff/programming-math-science#computer-networks-and-network-programming
+- [Computer Networks: A Systems Approach](https://github.com/SystemsApproach/book)
 
 ### Communities
 
@@ -194,6 +195,7 @@
 - [Reinventing UDP Streaming with QUIC](https://twitter.com/SimmerVigor/status/1207008500125224961)
 - https://blog.ikuamike.io/posts/2021/netcat + https://news.ycombinator.com/item?id=27973020
 - [TCP congestion control](https://twitter.com/_drbruced/status/1447691496849764357) + https://github.com/SystemsApproach/tcpcc + https://tcpcc.systemsapproach.org
+- [TCP Congestion Control: A Systems Approach](https://github.com/SystemsApproach/tcpcc)
 
 
 ### HTTP

@@ -1,3 +1,7 @@
+### API
+
+- [Library for accessing NOAA's National Weather Service](https://github.com/cristianradu/simple-nws)
+
 ### Algorithm
 
 - https://github.com/doganoo/PHPAlgorithms

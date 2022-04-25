@@ -244,3 +244,4 @@
 - https://sethmlarson.dev/blog/utf-8
 - http://www.irongeek.com/homoglyph-attack-generator.php
 - https://util.unicode.org/UnicodeJsps/confusables.jsp
+- https://unicode.org/emoji/charts/emoji-zwj-sequences.html

@@ -240,7 +240,8 @@
 - [dataset of 7 million transactions of non-fungible tokens (NFTs) on the Ethereum blockchain. The dataset covers April to late September 2021, spans 9,000 NFT projects, and records each transaction’s sender, receiver, value, timestamp, and location in the blockchain](https://github.com/bugout-dev/moonstream/blob/main/datasets/nfts/papers/ethereum-nfts.pdf) + https://github.com/bugout-dev/moonstream + https://www.kaggle.com/simiotic/ethereum-nfts + https://twitter.com/atbeme/status/1451361968460238851
 - https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html
 - [Building the First On-Chain 3D NFT with glTF](https://mirror.xyz/angelsay.eth/Fpqj6Hawn-IWGgXm9oEYXyscIgolotYscShuNaVTmI4)
-- https://azbigmedia.com/business/how-nft-minting-works-an-initial-guide-to-nfts/
+- https://azbigmedia.com/business/how-nft-minting-works-an-initial-guide-to-nfts
+- https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto
 
 ### Smart contracts
 

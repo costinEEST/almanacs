@@ -69,6 +69,10 @@
 
 - [Brian Potter](https://constructionphysics.substack.com/archive)
 
+### Computer networks
+
+- https://systemsapproach.substack.com/archive
+
 ### Cloud
 
 - https://offbynone.io/issues

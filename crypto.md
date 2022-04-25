@@ -1,4 +1,4 @@
-### Algorithms
+### Algorithm
 
 - https://backdrifting.net/post/003_diffie_hellman
 - https://github.com/B-Con/crypto-algorithms
@@ -60,16 +60,29 @@
 - https://emilymstark.com/2020/07/20/certificate-transparency-a-birds-eye-view.html
 - https://github.com/cocaman/russian_root_ca
 
+### Community
+
+- https://dev.to/cossacklabs/schneier-on-cryptography-live-interview-4mi7
+- https://github.com/vixentael/my-talks + https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8
+
 ### Demos
 
 - [Store a secret securely in a standalone HTML file.](https://github.com/derhuerst/html-vault)
 
-### Standards
+
+### History
+
+- https://onezero.medium.com/the-untold-story-of-the-man-that-made-mainstream-encryption-possible-231c749d5005
+- https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html
+- https://github.com/EdOverflow/cryptojourney-content
+
+### Standard
 
 - [Introduction to GPG/PGP](ftp://ftp.gnupg.org/people/neal/an-advanced-introduction-to-gnupg/openpgp/openpgp.pdf) + https://twitter.com/binarymist/status/1148732727371296768
 - https://cheapskatesguide.org/articles/encrypted-email.html
 - https://benjamin-altpeter.de/encrypting-email
 - https://unix-ninja.com/p/attacking_google_authenticator + https://twitter.com/adam_baldwin/status/1341470342666014720
+- [Off-The-Record Messaging part 1: the problem with PGP](https://robertheaton.com/otr1)
 
 ### Transport Layer Security (TLS)
 
@@ -117,13 +130,4 @@
 - [Testing TLS/SSL encryption anywhere on any port](https://github.com/drwetter/testssl.sh)
 - [CIRCL hash lookup is a public API to lookup hash values against known database of files.](https://gist.github.com/adulau/4191d44e30fc01df38f1d5fe605fa920)
 
-### History
 
-- https://onezero.medium.com/the-untold-story-of-the-man-that-made-mainstream-encryption-possible-231c749d5005
-- https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html
-- https://github.com/EdOverflow/cryptojourney-content
-
-### Community
-
-- https://dev.to/cossacklabs/schneier-on-cryptography-live-interview-4mi7
-- https://github.com/vixentael/my-talks + https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8

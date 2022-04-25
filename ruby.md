@@ -21,6 +21,7 @@
 - https://books.thoughtbot.com/books/geocoding-on-rails.html
 - https://github.com/garethrees/practical-oo-design-in-ruby
 - https://github.com/sandimetz/1st_99bottles_ruby
+- https://ruby-hacking-guide.github.io
 
 ### Cheat sheet
 
@@ -91,6 +92,7 @@
 - [Igor S. Morozov](https://www.morozov.is/talks)
 - [Leveling up your Hotwire dev skills](https://twitter.com/joemasilotti/status/1504095146840760321)
 - https://mixandgo.com/guide/websites-using-rails
+- https://github.com/evertonlopesc/Ruby-Roadmap
 
 ### Debugging
 
@@ -158,6 +160,7 @@
 - https://github.com/soutaro/vscode-rbs-syntax
 - https://github.com/rameerez/embargoed-list + https://twitter.com/rameerez/status/1497522706274996224
 - https://nts.strzibny.name/invoicing-from-command-line
+- https://kirillplatonov.com/posts/setting-up-cloudflare-tunnel-for-development + https://twitter.com/kirplatonov/status/1473892410828759040
 
 ### Testing
 
@@ -182,6 +185,7 @@
 - https://github.com/httpvoid/writeups
 - https://httpvoid.com/Ruby-Deserialization-Gadget-On-Rails.md
 - https://httpvoid.com/Ruby-tempfile-mktmpdir-PT.md
+- https://robertheaton.com/2013/07/22/how-to-hack-a-rails-app-using-its-secret-token
 
 ### Static generator
 

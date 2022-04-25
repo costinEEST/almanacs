@@ -421,6 +421,7 @@
 
 - [io-ts is an integral part of building any well-behaved, robust SPA client](https://twitter.com/garybernhardt/status/1220115502162272256)
 - [A case study on viable techniques for vanilla web development.](https://github.com/morris/vanilla-todo)
+- https://dev.to/tigt/routing-im-not-smart-enough-for-a-spa-5hki
 
 ### Web Components
 

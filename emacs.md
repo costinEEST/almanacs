@@ -12,6 +12,11 @@
 - [Stefan learns emacs](https://www.youtube.com/playlist?list=PLkp6BbeMCOm3OHBUUFSHmsJDsaKiKvmm3)
 - https://github.com/daviwil/emacs-from-scratch
 
+### Community
+
+- http://emacslife.com/emacs-chats/chat-bozhidar-batsov.html
+- https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs
+
 ### Miscellaneous
 
 - https://twitter.com/victordorneanu/status/1222158980627288064
