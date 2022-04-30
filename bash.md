@@ -9,6 +9,7 @@
 - https://github.com/inputsh/awesome-linux#books
 - https://github.com/learnbyexample/cli_text_processing_coreutils
 - https://github.com/learnbyexample/learn_gnugrep_ripgrep
+- https://github.com/vossenjp/bashidioms-examples
 
 ### Cinema
 

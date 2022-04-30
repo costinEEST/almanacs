@@ -116,6 +116,7 @@
 - https://www.adrianbolonio.com/en/accessibility-github-actions + https://www.canaxess.com.au/articles/gotta-catch-em-all
 - https://alexcican.com/post/guide-hosting-website-dropbox-github/#downsides-of-github
 - https://www.adrianbolonio.com/en/accessibility-github-actions
+- [A re-usable GitHub Actions CI workflow for verifying Rails apps](https://github.com/andyw8/setup-rails)
 
 ### Tool
 

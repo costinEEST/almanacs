@@ -3,6 +3,7 @@
 - https://dmitrytsepelev.dev/talks/2021-05-28-high-performance-graphql.html
 - https://dev.to/knowndecimal/being-restful-about-your-routes-1gmf
 - https://www.driftingruby.com/episodes/label-maker-with-ruby
+- https://codingitwrong.com/railsapis
 
 ### Algorithm
 
@@ -22,6 +23,7 @@
 - https://github.com/garethrees/practical-oo-design-in-ruby
 - https://github.com/sandimetz/1st_99bottles_ruby
 - https://ruby-hacking-guide.github.io
+- https://github.com/andyw8/growing-rails-controllers
 
 ### Cheat sheet
 
@@ -65,6 +67,7 @@
 - https://github.com/flavorjones/ruby-c-extensions-explained
 - [Rails 6 API | Tom Kadwill](https://www.youtube.com/playlist?list=PLbTv9eGiI03u1-JFkFpPGsR_hMre6WX3e)
 - [Build a Pet Adoption App With Ruby On Rails 6 & PostgreSQL](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
+- [Full-Stack Development with Ember and Rails](https://www.youtube.com/playlist?list=PLXXnezSEtvNPcZHqzXhrL1-7JkrbIR6qF)
 
 ### Course
 
@@ -143,6 +146,7 @@
 - https://www.leighhalliday.com/solution-software-engineer-interview-challenge
 - https://github.com/AsadK47/Codewars-Katas-Ruby
 - https://github.com/ashbb/ruby_metaprogramming_study_note
+- https://github.com/andyw8/advent-of-code
 
 
 ### Tool
@@ -173,6 +177,7 @@
 - http://www.kytrinyx.com/talks/succession + https://github.com/kytrinyx/succession
 - https://www.jakeworth.com/rspec-describe-vs-describe
 - https://github.com/smarr/are-we-fast-yet
+- https://learntdd.in/rails
 
 ### Radio
 
@@ -200,3 +205,4 @@
 - http://www.railstips.org/blog/archives/2012/10/10/booleans-are-baaaaaaaaaad
 - https://calendly.com/blog/ruby-gotchas-javascript-developer
 - https://postmodern.github.io/blog/2022/01/18/why-do-so-many-in-infosec-really-dislike-ruby-some-thought.html
+- [Where is Ruby Headed in 2021?](https://news.ycombinator.com/item?id=29272682)

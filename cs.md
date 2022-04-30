@@ -37,9 +37,11 @@
 - https://github.com/Developer-Y/cs-video-courses#quantum-computing
 - [Event-Driven Information Systems](https://www.youtube.com/channel/UCSoUh4ikepF3LkMchruSSaQ/playlists)
 - [Ohio State: EE 481 - Engineering Ethics with Kevin Passino | CosmoLearning.org Engineering](https://www.youtube.com/playlist?list=PLaLOVNqqD-2E5EYdtKlA5VWdsLNl0FEYH)
+- https://liveprog.org/live-2021/User-Modifiable-Software-Smalltalk-and-HyperCard.mp4
 
 ### Book
 
+- https://github.com/97-things/97-things-every-programmer-should-know
 - [Concurrent Programming for Scalable Web Architectures](https://github.com/berb/diploma-thesis)
 - [Programming Models for Distributed Computation](https://github.com/heathermiller/dist-prog-book)
 - [A collection of resources for learning type theory and type theory adjacent fields.](https://github.com/jozefg/learn-tt)

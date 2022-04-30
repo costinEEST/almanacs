@@ -239,6 +239,7 @@
 - https://github.com/Nya0/recaptcha-v2-bypass
 - https://github.com/Haaroon/secret-santa
 - https://webinstall.dev/pyenv
+- https://github.com/scprogramming/WordtoHTML
 
 ### Testing
 

@@ -13,6 +13,7 @@
 - https://github.com/Siguza/ios-resources
 - https://github.com/Billy-Ellis/Exploit-Challenges
 - https://github.com/keleshev/compiling-to-assembly-from-scratch + https://news.ycombinator.com/item?id=24609774
+- https://cpulator.01xz.net/?sys=arm-de1soc + https://www.youtube.com/playlist?list=PL2EF13wm-hWAlQe87UB2HV0SVhBXFpXbn
 
 ### Book
 
