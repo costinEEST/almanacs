@@ -102,6 +102,7 @@
 - https://wannabe-polyglot.com/2016/12/31/learning-to-hear-tones.html
 - https://ai.glossika.com/blog/aged-30-he-speaks-19-languages-learn-his-one-secret-to-learn-any-language + https://www.foreverastudent.com/p/book_4.html
 - https://www.youtube.com/user/theforeverastudent/playlists
+- https://chaoyangtrap.house
 
 ### Arabic
 
@@ -288,6 +289,7 @@
 - https://ikindalikelanguages.com/labs/courses.php?id=31
 - https://www.youtube.com/playlist?list=PLD0666ZhOzwiclhHTISo8AAReSbpUXWaJ
 - https://www.youtube.com/c/PaoloAstorga/playlists
+- https://www.mandarax.mx
 
 ### Tibetan
 

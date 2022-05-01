@@ -23,6 +23,7 @@
 
 - [Denise Schmandt-Besserat](https://en.wikipedia.org/wiki/Denise_Schmandt-Besserat#Career)
 - https://github.com/antoinentl/web-books-initiatives
+- https://www.obsidianroundup.org/resources
 
 ### Tool
 

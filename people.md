@@ -112,6 +112,10 @@
 - https://sivers.com/d
 - https://100mba.net/mba1843
 
+### Edward Snowden
+
+- https://www.forbes.com/sites/michaeldelcastillo/2022/04/27/edward-snowden-revealed-as-key-participant-in-mysterious-ceremony-creating-2-billion-anonymous-cryptocurrency
+
 ### Herodotus
 
 - https://www.youtube.com/playlist?list=PLrAPUF78nSajp1ihfa2iDQ3-PmyW5T27f
