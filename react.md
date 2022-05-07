@@ -305,6 +305,7 @@
 - https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful
 - https://sergiodxa.com/articles/share-session-and-cookies-between-next-and-remix
 - https://github.com/brianlovin/briOS
+- [Rallly is a free group meeting scheduling tool – built with Next.js, Prisma & TailwindCSS](https://github.com/lukevella/rallly)
 
 ### Remix
 

@@ -4,6 +4,10 @@
 - https://inquisitivebiologist.com/2021/11/17/book-review-the-wood-age-how-one-material-shaped-the-whole-of-human-history
 - https://www.amazon.com/Field-Guide-Urban-Gardening-Hydroponics/dp/076036396X + https://www.ejorgenson.com/podcast/kevin-espiritu-epic-gardening
 
+### Cinema
+
+- [Hybrid | Mike Kennedy](https://www.youtube.com/playlist?list=PLrMl9w30UFyspaGqroMQX4jiYmd6bATBy)
+
 ### Miscellaneous
 
 - https://plantepedia.wordpress.com

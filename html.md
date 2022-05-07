@@ -152,6 +152,7 @@
 - https://blog.jim-nielsen.com/2021/progressively-enhanced-search
 - https://www.ctnicholas.dev/articles/dark-mode-by-sunlight
 - https://souporserious.com/lazy-loading-polyfills
+- https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata
 
 ### Radio
 

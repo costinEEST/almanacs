@@ -15,6 +15,7 @@
 - [ A History of Solar Power Art and Design By Alex Nathanson](https://we-make-money-not-art.com/alex-nathanson-the-poetics-of-photovoltaics)
 - https://www.youtube.com/playlist?list=PLKEd7Km7DjLcqm7vqrAgbwYVwiG4Rif09
 - https://futurism.com/the-byte/quantum-charge-electric-cars
+- https://www.youtube.com/c/JulianIlett/playlists
 
 ### Book
 
@@ -33,6 +34,7 @@
 - https://www.youtube.com/user/APphyzicks/playlists
 - http://lacey.se/2018/11/26/my-week-realscientists
 - [Behind the Nobels](https://www.youtube.com/playlist?list=PLOBSt4XMk5LVQEWmjOQA4KlyU-KzDLEB0)
+- [NWACC Mineral Lab Videos](https://www.youtube.com/playlist?list=PLmRQwysTuceeU-mKTxd1rEATM-0SlXlzQ)
 
 ### Course
 

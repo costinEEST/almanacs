@@ -460,6 +460,7 @@
 - [Web component server-side rendering](https://github.com/matthewp/ocean)
 - https://whistlr.info/2021/disposable-web-components
 - https://www.youtube.com/playlist?list=PLNqp92_EXZBJQ3015p9C7hqTDXH_WY57v
+- https://github.com/GoogleChromeLabs/dark-mode-toggle
 
 ### Testing
 
