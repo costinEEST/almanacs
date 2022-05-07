@@ -209,6 +209,7 @@
 - https://github.com/zach-adams/downloads-overwrite-already-existing-files
 - https://dexonline.ro/static/download/dex-ff.xpi + https://addons.mozilla.org/ro/firefox/addon/dexonline
 - https://github.com/jemmaissroff/natgeo-chrome-extension
+- [Test your fonts across the web by easily overriding fonts on any webpage](https://github.com/arrowtype/type-x)
 
 ### Bookmarklets
 

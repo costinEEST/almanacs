@@ -7,6 +7,10 @@
 - https://www.printmag.com/post/the-daily-heller-an-overdue-arab-design-history-book-part-2
 - https://www.thomkrupa.com/books
 
+### Community
+
+- https://github.com/davelab6/type-notes
+
 ### Cinema
 
 - https://www.youtube.com/user/TypographyGuru/playlists
