@@ -1,5 +1,6 @@
 ### Book
 
+- https://github.com/mark-watson/loving-common-lisp
 - https://github.com/ashok-khanna/common-lisp-by-example
 - https://github.com/lambda-magic/plt-books/tree/master/Lisp
 - https://twitter.com/lukego/status/632450443566780416

@@ -67,6 +67,7 @@
 
 ### Opinion
 
+- https://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom
 - [How to C in 2016](https://matt.sh/howto-c)
 - https://github.com/mkirchner/linked-list-good-taste + [Linus Torvalds' linked list argument for good taste, explained](https://news.ycombinator.com/item?id=25326552)
 - https://skeeto.s3.amazonaws.com/share/onward17-essays2.pdf

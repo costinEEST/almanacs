@@ -266,6 +266,7 @@
 - [Joe Masilotti](https://masilotti.com/hotwire)
 - [RubyOnRemote](https://us12.campaign-archive.com/home/?u=7dcd7529845dfed5c60eaea19&id=9060deec07)
 - https://rubyradar.dev/#archive
+- [Noah Gibbs](https://us2.campaign-archive.com/home/?u=c5569fb6471a3e64be2aa1466&id=82afd59934)
 
 ### Politics
 

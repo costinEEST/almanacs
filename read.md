@@ -72,3 +72,5 @@
 - [Charlotte Dann](https://github.com/pouretrebelle/chareads.com)
 - [Jessie Frazelle](https://blog.jessfraz.com/post/books)
 - [Elisabeth Lin](https://airtable.com/shrQXfTwETdlkJbJ0/tblVPvhET8Fh8Hr3x/viw2psiBiKeV4ajyE?blocks=hide)
+- [Mitchell Hanberg](https://www.mitchellhanberg.com/bookshelf)
+- [Xavier Noria](https://hashref.com/reading)

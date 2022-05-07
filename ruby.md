@@ -101,6 +101,7 @@
 
 - [bundle open rails](https://twitter.com/getajobmike/status/1343273147869450240)
 - https://www.jakeworth.com/how-to-read-a-stack-trace
+- https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa
 
 ### Deploy
 
@@ -116,6 +117,7 @@
 - https://metaredux.com/posts/2022/04/21/rubocop-turns-10.html
 - https://postmodern.github.io/blog/2021/11/25/introducing-command-mapper.html
 - https://github.com/stars/postmodern/lists/ruby-infosec
+- https://piotrmurach.com/articles/looking-inside-a-ruby-gem
 
 ### Internals
 
@@ -186,6 +188,7 @@
 
 ### Security
 
+- https://github.com/ankane/production_rails
 - https://twitter.com/snyff/status/1477809743431303168
 - https://github.com/httpvoid/writeups
 - https://httpvoid.com/Ruby-Deserialization-Gadget-On-Rails.md
