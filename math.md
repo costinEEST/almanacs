@@ -121,6 +121,7 @@
 - https://github.com/eltuck/Resources#math-programming-software
 - https://github.com/pyxelr/recommendations-for-engineers#math-2
 - https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion
+- https://antitypical.com/posts/2021-08-14-sequent-calculus-cheat-sheet
 
 ### Teacher
 

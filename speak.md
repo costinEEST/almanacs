@@ -290,6 +290,7 @@
 - https://www.youtube.com/playlist?list=PLD0666ZhOzwiclhHTISo8AAReSbpUXWaJ
 - https://www.youtube.com/c/PaoloAstorga/playlists
 - https://www.mandarax.mx
+- https://storylearning.com/learn/spanish/spanish-tips + https://fluentspanishacademy.com/spanish-vault-membership-area + https://www.youtube.com/c/StoryLearningSpanish/playlists + https://youtu.be/U3HndX2QnSo
 
 ### Tibetan
 

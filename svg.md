@@ -22,6 +22,7 @@
 - https://storyset.com
 - https://healthicons.org
 - https://flagpack.xyz
+- [A free collection of maps for every country in the world](https://github.com/djaiss/mapsicon)
 
 ### Tutorials
 

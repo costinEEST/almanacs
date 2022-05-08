@@ -80,6 +80,7 @@
 ### Community
 
 - https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources
+- https://github.com/execat/bookmarks/blob/master/web.md#ruby
 - https://simran.app/2022/01/23/learning-ror
 - https://github.com/rohandaxini/rails-concepts-topics + https://twitter.com/rohan_daxini/status/1484787524975624193
 - https://github.com/phoet/on_ruby
@@ -118,6 +119,8 @@
 - https://postmodern.github.io/blog/2021/11/25/introducing-command-mapper.html
 - https://github.com/stars/postmodern/lists/ruby-infosec
 - https://piotrmurach.com/articles/looking-inside-a-ruby-gem
+- https://github.com/peter50216/pwntools-ruby
+- [Resumable upload protocol implementation in Ruby](https://github.com/picocandy/rubytus)
 
 ### Internals
 
@@ -194,6 +197,7 @@
 - https://httpvoid.com/Ruby-Deserialization-Gadget-On-Rails.md
 - https://httpvoid.com/Ruby-tempfile-mktmpdir-PT.md
 - https://robertheaton.com/2013/07/22/how-to-hack-a-rails-app-using-its-secret-token
+- https://greg.molnar.io/blog/rubygems-cve-2022-29176
 
 ### Static generator
 

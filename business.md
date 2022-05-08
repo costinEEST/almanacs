@@ -43,6 +43,7 @@
 
 - https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective
 - https://www.udemy.com/course/startup-fundraising-master-course
+- https://www.victorcho.com/course-index + https://twitter.com/VictorCho/status/1521945947797815297
 
 ### Marketing
 

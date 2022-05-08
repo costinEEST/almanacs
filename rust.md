@@ -121,6 +121,7 @@
 - https://github.com/timvisee/advent-of-code-2020
 - https://vino.dev/blog/node-to-rust-day-1-rustup
 - https://www.freecodecamp.org/news/project-euler-problems-in-rust
+- [Built a lisp dialect from zero](https://github.com/coquelicot/functional-from-zero)
 
 ### Podcast
 

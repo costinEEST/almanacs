@@ -62,6 +62,11 @@
 - https://github.com/denisnazarov/awesome-crypto-trackers
 - https://twitter.com/WeekInEthNews
 - [Telegram groups](https://gist.github.com/balupton/dc2bda09f326262793a9e73189e75105)
+- [Hasu](https://twitter.com/hasufl)
+- [Martín Abbatemarco](https://twitter.com/tinchoabbate)
+- https://twitter.com/VladZamfir
+- [J. Maurelian](https://twitter.com/maurelian_)
+- https://twitter.com/officer_cia
 
 
 ### DApps 
