@@ -162,6 +162,10 @@
 
 - https://github.com/juanelas/bigint-crypto-utils
 
+### in
+
+- https://twitter.com/kdy1dev/status/1524667421113548801
+
 ### void
 
 - [A case for using void in modern JavaScript](https://gist.github.com/slikts/dee3702357765dda3d484d8888d3029e)

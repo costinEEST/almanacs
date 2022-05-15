@@ -28,6 +28,7 @@
 - https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
 - https://pascalpares.appspot.ovh/webassembly-for-javascript-developers
 - [SQLite + Twitter + WASM](https://divyendusingh.com/experiments/wasm/twitter-sqlite)
+- [Mac OS 8](https://github.com/mihaip/infinite-mac)
 
 ### Tool
 

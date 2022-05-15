@@ -130,6 +130,7 @@
 - [Andreas Antonopoulos](https://us5.campaign-archive.com/home/?u=7f45612d2cf69803c4dbf4deb&id=991e861204)
 - [Richard Burton](https://ricburton.substack.com/archive)
 - https://www.argent.xyz/blog/tag/newsletter
+- [Bruno Škvorc](https://news.nft.review/archive)
 
 ### Investing
 
@@ -148,6 +149,7 @@
 - [Brandient](https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5) + https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5
 - [Elizabeth Lin](https://tinyletter.com/lalizlabeth/archive)
 - [Brian Lovin](http://overthought.brianlovin.com/#archive)
+- [Joey Banks](https://substack.com/profile/1093844-joey-banks)
 
 ### Data visualization
 

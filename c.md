@@ -57,6 +57,7 @@
 - [Getting the maximum of your C compiler, for security](https://airbus-seclab.github.io/c-compiler-security) + https://twitter.com/AirbusSecLab/status/1432681320833036294
 - [Advanced compilers](https://github.com/sampsyo/cs6120)
 - [Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes](http://lambda-the-ultimate.org/node/5648)
+- https://twitter.com/AndrewCMyers/status/1523395642030456832 + https://courses.cs.cornell.edu/cs4120/2022sp
 
 
 ### Virtual machines

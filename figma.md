@@ -38,6 +38,7 @@
 - https://souporserious.com/getting-started-with-figma-webhooks
 - https://svitlasystems.medium.com/how-to-create-complex-data-tables-in-figma-3bf3d537154d
 - https://medium.design/a-few-lesser-known-figma-tips-29db4a731926
+- [Is there a way to export a gif?](https://twitter.com/notdetails/status/1524159877144268802)
 
 ### Plugins
 

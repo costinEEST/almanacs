@@ -8,6 +8,7 @@
 ### Algorithm
 
 - https://github.com/kanwei/algorithms
+- https://github.com/TheAlgorithms/Algorithms-Explanation + https://github.com/TheAlgorithms/Ruby
 
 
 ### Book
@@ -15,7 +16,7 @@
 - https://github.com/learnbyexample/ThinkRubyBuild
 - https://github.com/learnbyexample/Ruby_Scripting
 - https://github.com/rubyfu/RubyFu
-- https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C
+- https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C + https://twitter.com/ChrisGSeaton/status/1520559129173102598
 - https://books.thoughtbot.com/books/ruby-science.html
 - https://books.thoughtbot.com/books/testing-rails.html
 - https://books.thoughtbot.com/books/ios-on-rails.html
@@ -97,6 +98,7 @@
 - [Leveling up your Hotwire dev skills](https://twitter.com/joemasilotti/status/1504095146840760321)
 - https://mixandgo.com/guide/websites-using-rails
 - https://github.com/evertonlopesc/Ruby-Roadmap
+- [Masataka Kuwabara](https://github.com/pocke/resume/blob/master/talks.md)
 
 ### Debugging
 
@@ -121,6 +123,7 @@
 - https://piotrmurach.com/articles/looking-inside-a-ruby-gem
 - https://github.com/peter50216/pwntools-ruby
 - [Resumable upload protocol implementation in Ruby](https://github.com/picocandy/rubytus)
+- [Generates .rubocop.yml automatically](https://github.com/pocke/gry)
 
 ### Internals
 
@@ -136,6 +139,7 @@
 - https://shopify.engineering/code-ranges-ruby-strings
 - https://postmodern.github.io/blog/2022/03/28/howto-use-activerecord-in-a-library.html
 - https://devcraft.io/2022/04/04/universal-deserialisation-gadget-for-ruby-2-x-3-x.html + https://twitter.com/wcbowling/status/1513861654676578313
+- [Open3.pipeline](https://twitter.com/jankomarohnic/status/1506204038181892103)
 
 ### Pattern
 
