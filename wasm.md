@@ -42,3 +42,4 @@
 - [Used for surveillance](https://twitter.com/aral/status/1206173737730674688)
 - https://surma.dev/things/js-to-asc
 - https://twitter.com/swyx/status/1482127056884609026
+- https://christine.website/talks/webassembly-on-the-server-system-calls-2019-05-31

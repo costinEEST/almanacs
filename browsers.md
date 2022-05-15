@@ -332,6 +332,7 @@ javascript: (() =>
 - https://sensepost.com/blog/2021/from-500-to-account-takeover + https://twitter.com/XssPayloads/status/1376389308207226881
 - https://twitter.com/blipsofadoug/status/1125223582974533633
 - https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization
+- https://www.bryanbraun.com/2021/08/10/allowing-inline-scripts-in-your-content-security-policy-using-a-hash
 
 ### Cross-origin resource sharing (CORS)
 
@@ -432,6 +433,9 @@ javascript: (() =>
 
 - https://hackaday.com/2022/03/09/webgpu-better-than-webgl
 
+### WebUSB
+
+- https://github.com/webusb/awesome
 
 ### Headless
 

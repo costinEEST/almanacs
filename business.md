@@ -150,6 +150,7 @@
 - [The Real World of Technology | Ursula Martius Franklin](https://www.goodreads.com/book/show/1291973.The_Real_World_of_Technology)
 - https://pragprog.com/titles/jragile/competing-with-unicorns
 - https://worldsmostethicalcompanies.com/honorees/?fwp_industry=technology
+- [The Seven Steps for Highly Effective Employee Training & Coaching](https://youtu.be/rI9oMAVa-Es)
 
 ### Startups
 

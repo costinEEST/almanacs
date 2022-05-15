@@ -42,6 +42,7 @@
 - https://www.udemy.com/course/absolute-java-basics-for-android
 - https://github.com/amitshekhariitbhu/awesome-android-complete-reference
 - https://github.com/androiddevnotes/awesome-android-learning-resources
+- https://github.com/lockersoft/cis218 + https://www.youtube.com/playlist?list=PLSXDqiI4sC5N5LJaWsprrLgZgZiyl62Q9
 
 ### Internals
 

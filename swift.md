@@ -24,6 +24,7 @@
 
 - [Khoa Pham](https://onmyway133.com)
 - [Yuta Saito](https://speakerdeck.com/kateinoigakukun)
+- [Paul Ardeleanu](https://www.pardel.dev/talks)
 
 ### Demo
 

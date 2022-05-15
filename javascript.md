@@ -142,6 +142,7 @@
 - https://github.com/eggheadio/eggheadio-course-notes
 - https://egghead.io/courses/functional-programming-concepts-in-purescript
 - https://github.com/nicoespeon/refactoringjavascript.dev
+- [Namaste JavaScript | Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) + https://twitter.com/akshaymarch7/status/1318205871726292995
 
 ### Paper
 
@@ -576,6 +577,7 @@
 - [a function that creates the text change(s) to add a missing import(s) to a file](https://twitter.com/JoshuaKGoldberg/status/1488974653821530114) + https://github.com/nuxt/framework/blob/main/packages/nuxt3/src/auto-imports/transform.ts
 - [Show a rich diff of your published files in npm in your CI environment](https://solverfox.dev/writing/npm-publish-diff)
 - https://github.com/eps1lon/dom-accessibility-api
+
 
 ### Documentation
 

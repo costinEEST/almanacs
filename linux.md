@@ -7,6 +7,7 @@
 - https://github.com/linuxboot/book
 - https://www.freecodecamp.org/news/how-to-install-arch-linux
 - https://digital.com/best-website-builders/linux
+- https://twitter.com/AlSweigart/status/1524772876490006533
 
 ### Cinema
 

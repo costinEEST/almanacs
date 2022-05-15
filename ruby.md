@@ -13,6 +13,7 @@
 
 ### Book
 
+- https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby
 - https://github.com/learnbyexample/ThinkRubyBuild
 - https://github.com/learnbyexample/Ruby_Scripting
 - https://github.com/rubyfu/RubyFu
@@ -44,9 +45,11 @@
 - https://github.com/kubo39/ruby-what-the-fuck
 - https://github.com/jwworth/til/tree/master/rails
 - https://github.com/jwworth/til/tree/master/ruby
+- https://github.com/sandipsubedi/notes_ruby_on_rails
 
 ### Cinema
 
+- https://www.youtube.com/playlist?list=PL55SPnO0U2H3Am21MYgNcviYLzJ0bFv3J
 - [Inside The Muse - Semicolon&Sons](https://www.youtube.com/watch?v=aCzT-LQI6x0&list=PLpkoC9yJXDKlGz7SPwofn1joJH9nAABmX)
 - [Programming With Nothing](https://github.com/tomstuart/nothing)
 - [Ruby under a microscope](https://eddyerburgh.me/books-i-enjoyed-in-2019)
@@ -69,6 +72,11 @@
 - [Rails 6 API | Tom Kadwill](https://www.youtube.com/playlist?list=PLbTv9eGiI03u1-JFkFpPGsR_hMre6WX3e)
 - [Build a Pet Adoption App With Ruby On Rails 6 & PostgreSQL](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
 - [Full-Stack Development with Ember and Rails](https://www.youtube.com/playlist?list=PLXXnezSEtvNPcZHqzXhrL1-7JkrbIR6qF)
+- [Let's recreate Notion in Ruby on Rails | Dr Nic Williams](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
+- [Rails Foundation | Codemy school](https://www.youtube.com/playlist?list=PLjQo0sojbbxVz2zbpq3DY2pePUfq7coSe)
+- [Rails API | Codemy school](https://www.youtube.com/playlist?list=PLjQo0sojbbxWXYhditpqZlN4oLJE4hLjP)
+- [Ruby programming II | Dave Jones](https://www.youtube.com/playlist?list=PLSXDqiI4sC5O3fI2XzlXCfKiKx9ELnH4Q)
+- https://speakerdeck.com/jeg2/command-line-ruby
 
 ### Course
 
@@ -99,16 +107,23 @@
 - https://mixandgo.com/guide/websites-using-rails
 - https://github.com/evertonlopesc/Ruby-Roadmap
 - [Masataka Kuwabara](https://github.com/pocke/resume/blob/master/talks.md)
+- http://graysoftinc.com/my-heroes
+- [Contribute to Rails in a right way | Bogdan Gusiev](http://gusiev.com/slides/rails_contribution/static/#1)
+- Jonathan Gillette: https://youtu.be/DS5V37k1EP0?t=1292 + https://youtu.be/64anPPVUw5U + https://viewsourcecode.org/why + https://orgtheory.wordpress.com/2012/03/20/_why-aa-jonathan-gillette
+- [Vonage gems](https://www.youtube.com/playlist?list=PLWYngsniPr_lOOJYHULE1rMtYNvmF-dDb)
+- [Yechiel Kalmenson](https://yechiel.me/projects)
 
 ### Debugging
 
 - [bundle open rails](https://twitter.com/getajobmike/status/1343273147869450240)
 - https://www.jakeworth.com/how-to-read-a-stack-trace
 - https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa
+- https://dev.to/sylwiavargas/talk-notes-implicit-to-explicit-decoding-ruby-s-magical-syntax-railsconf-2021-51ge
 
 ### Deploy
 
 - https://akshaykhot.com/deploying-rails-like-2005
+- https://www.joyfulbikeshedding.com/blog/2021-01-06-the-future-of-traveling-ruby.html
 
 ### Gem
 
@@ -124,9 +139,11 @@
 - https://github.com/peter50216/pwntools-ruby
 - [Resumable upload protocol implementation in Ruby](https://github.com/picocandy/rubytus)
 - [Generates .rubocop.yml automatically](https://github.com/pocke/gry)
+- https://github.com/lorien/awesome-web-scraping/blob/master/ruby.md
 
 ### Internals
 
+- https://stackoverflow.com/questions/22827566/ruby-parameters-by-reference-or-by-value/22827949#22827949
 - [Proc#arity](https://twitter.com/skryukov_dev/status/1447509791174168578)
 - https://noteflakes.com/articles/2021-10-20-explaining-ruby-fibers
 - [Studying Rails | Akshay Khot](https://www.youtube.com/playlist?list=PLvzIg98pA19mdittqxQKAm88_H5sT---g)
@@ -149,6 +166,7 @@
 ### Practice
 
 - https://github.com/alexpeattie/letsencrypt-fromscratch
+- https://github.com/practical-tutorials/project-based-learning#ruby
 - https://github.com/Haseeb-Qureshi/Algorithms-Study-Group
 - https://github.com/Haseeb-Qureshi/crypto-challenges
 - https://github.com/KrzaQ/AdventOfCode2020
@@ -202,6 +220,7 @@
 - https://httpvoid.com/Ruby-tempfile-mktmpdir-PT.md
 - https://robertheaton.com/2013/07/22/how-to-hack-a-rails-app-using-its-secret-token
 - https://greg.molnar.io/blog/rubygems-cve-2022-29176
+- https://presidentbeef.com/ns/talks
 
 ### Static generator
 
@@ -217,3 +236,4 @@
 - https://calendly.com/blog/ruby-gotchas-javascript-developer
 - https://postmodern.github.io/blog/2022/01/18/why-do-so-many-in-infosec-really-dislike-ruby-some-thought.html
 - [Where is Ruby Headed in 2021?](https://news.ycombinator.com/item?id=29272682)
+- https://dev.to/sylwiavargas/why-do-you-love-ruby-actually-an-ode-5e7n

@@ -4,6 +4,7 @@
 - https://www.amazon.com/Productive-Thinking-Max-Wertheimer/dp/0226893766
 - [Learning Masterclass |  Ethan Schwandt - The Mind Map Guy](https://www.youtube.com/playlist?list=PLus5uUwK9fLFb9bykGTf4bLdqdtHVeNYN)
 - https://aliabdaal.com/stic-framework
+- https://www.lucalampariello.com/recommended-reading
 
 ### Cinema
 
@@ -40,6 +41,7 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/anki/anki.md
 - https://writing.brosencephalon.com/who-and-what-is-brosencephalon-2c4f6890f718 + https://www.brosencephalon.com
 - https://github.com/JASchilz/AnkiSyncDuolingo
+- [knowledge graph experiment](https://gist.github.com/cldwalker/442b412ba9e1d0fae06772d503b0a298)
 
 
 ### Theory

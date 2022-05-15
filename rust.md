@@ -101,6 +101,7 @@
 - [An aggregation of links that summarize RustConf 2020.](https://github.com/poteto/rustconf-2020)
 - [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
 - https://learnrust.today + https://www.youtube.com/watch?v=B5xYBrxVSiE&list=PL7FkKqUcfw1AoNvuQAvld2Q47gaDKHBRW
+- https://youtu.be/bPcTIJejnFs + https://github.com/dani-garcia/vaultwarden
 
 
 ### Practice

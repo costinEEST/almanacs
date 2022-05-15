@@ -7,6 +7,7 @@
 - https://github.com/k88hudson/git-flight-rules
 - https://github.com/pingcap/talent-plan/blob/master/courses/tp103-open-source-community.md
 - https://www.freecodecamp.org/news/advanced-git-interactive-rebase-cherry-picking-reflog-and-more
+- [Introduction to Software Development Tooling](https://bernsteinbear.com/isdt)
 
 ### Cinema
 

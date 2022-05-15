@@ -210,7 +210,7 @@
 - https://github.com/thedarkjester/SolidityGasSamples
 - https://github.com/fravoll/solidity-patterns
 - https://github.com/smartcontractkit/full-blockchain-solidity-course-py
-
+- https://backoffice.eattheblocks.com/the-ultimate-solidity-0-8-cheatsheet
 
 ### Non fungible tokens
 

@@ -185,6 +185,7 @@
 - https://github.com/andresriancho/race-condition-exploit
 - https://github.com/ochronasec/ochrona_python_vulnerabilities
 - [Crypto Mistakes ON demand](https://github.com/kojenov/cmon)
+- https://github.com/redpointsec/vtm + https://www.youtube.com/watch?v=f6UOBCJ9pjw&list=PLObjwXTc0xGOfWgHpWFkxukMDbpuDRo58&index=8
 
 ### Server
 

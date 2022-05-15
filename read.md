@@ -74,3 +74,5 @@
 - [Elisabeth Lin](https://airtable.com/shrQXfTwETdlkJbJ0/tblVPvhET8Fh8Hr3x/viw2psiBiKeV4ajyE?blocks=hide)
 - [Mitchell Hanberg](https://www.mitchellhanberg.com/bookshelf)
 - [Xavier Noria](https://hashref.com/reading)
+- [Bryan Braun](https://www.bryanbraun.com/books)
+- [Wynn Netherland](https://wynnnetherland.com/reviews)

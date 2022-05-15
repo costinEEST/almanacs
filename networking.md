@@ -127,6 +127,7 @@
 - https://worthdoingbadly.com/vowifi
 - https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade + https://twitter.com/zekjur/status/1517872128602914816
 - [How amazing is it that GPS actually works?](https://twitter.com/martinkl/status/1524684941216395264)
+- https://xakcop.com/post/how-many-people
 
 ### 3G
 
