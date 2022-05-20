@@ -44,6 +44,10 @@
 - https://www.udemy.com/course/full-stack-mobile-application-development-master-class
 - https://github.com/flexbox/react-native-bootcamp + https://twitter.com/flexbox_/status/1497654821528256520
 
+### Community
+
+- Caleb Nance: https://github.com/calebnance?tab=repositories + https://learnreactnative.dev + https://twitter.com/calebnance/status/1349351148889714689
+
 ### Book
 
 - https://www.manning.com/books/react-native-in-action
@@ -128,6 +132,7 @@
 - https://medium.com/nerd-for-tech/matts-tidbits-103-launching-an-app-from-a-url-c27da66cd52c
 - https://medium.com/@nima-ahmadi/layout-animations-in-react-native-bee7644c13ae
 - https://medium.com/nerd-for-tech/react-native-two-important-lessons-i-learned-the-hard-way-3a524bbcef48
+- https://blog.jscrambler.com/how-to-handle-deep-linking-in-a-react-native-app
 
 ### Package
 

@@ -39,6 +39,7 @@
 - https://svitlasystems.medium.com/how-to-create-complex-data-tables-in-figma-3bf3d537154d
 - https://medium.design/a-few-lesser-known-figma-tips-29db4a731926
 - [Is there a way to export a gif?](https://twitter.com/notdetails/status/1524159877144268802)
+- https://davidl.fr/blog/react-native-svg-icons-component
 
 ### Plugins
 
@@ -52,4 +53,5 @@
 - https://setproduct.com/blog/figma-plugins-productivity-boost
 - https://www.marcandrew.me/20-awesome-figma-plugins-to-improve-your-workflow
 - https://ibuildmyideas.substack.com/p/automating-figma
+- https://github.com/calebnance/figma-plugin-react-starter
 

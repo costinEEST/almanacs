@@ -407,6 +407,7 @@
 
 ### Testing
 
+- [Testing Next.js Apps with Jest, Testing Library and Cypress](https://www.udemy.com/course/nextjs-testing)
 - https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest
 - https://www.manning.com/books/testing-javascript-applications
 - https://www.udemy.com/course/react-testing-with-jest-and-enzyme

@@ -297,6 +297,7 @@
 - https://twitter.com/wlazar/status/1380935750150090756 + https://www.preethikasireddy.com/post/will-helium-finally-make-iot-a-reality
 - https://leung-btc.medium.com/len-sassaman-and-satoshi-e483c85c2b10
 - https://noorsiddiqui.com/centralized-vs-decentralized-web
+- https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire
 
 ### Radio
 
