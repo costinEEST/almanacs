@@ -67,9 +67,10 @@
 
 - https://www.youtube.com/playlist?list=PLWUx_XkUoGTrXOU0pFa_OVGA-6voiIEAt
 
-### Opinions
+### Opinion
 
 - https://levelup.gitconnected.com/want-to-be-a-software-developer-learn-c-first-and-thank-me-later-30a447f32037
+- [ An opinionated history of programming languages](https://artagnon.com/articles/pl)
 
 ### Radio
 

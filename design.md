@@ -103,6 +103,7 @@
 
 ### Portfolio
 
+- https://arcana.computer/miscellany/this-site
 - https://brianlovin.com/writing/product-design-portfolios
 - [Wei Gao](https://aworkinprogress.dev)
 - [Paco Coursey](https://paco.sh)

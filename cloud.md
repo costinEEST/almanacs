@@ -92,6 +92,10 @@
 - https://github.com/victorshinya/awesome-ibmcloud
 - Introduction to @IBMcloudant - [tweet](https://twitter.com/glynn_bird/status/1248217903276732419) + [video series](https://www.youtube.com/playlist?list=PLJa_sXrJUZb-Y4Q_5y3yPC8m5RxS5q-_J)
 
+### Oracle
+
+- https://nopecode.com/2021/12/04/free-openvpn-for-a-lifetime.html
+
 
 ### Platform independent
 

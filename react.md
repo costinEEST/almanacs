@@ -235,6 +235,7 @@
 - https://weser.io/blog/spacing-children-in-react
 - https://souporserious.com/bringing-swiftui-stacks-to-the-web
 - https://benadam.me/thoughts/react-svg-sprites
+- [iPod Classic that connects to Apple Music and Spotify. Built with React & Styled Components](https://github.com/tvillarete/ipod-classic-js)
 
 ### Server side rendering
 

@@ -139,6 +139,7 @@
 - [Jennifer Fugo talks about gluten free](https://www.youtube.com/user/jenfugo/playlists)
 - https://mindovermunch.com/blog/are-grains-bad-for-you
 - https://www.amazon.com/No-Grain-Pain-Eliminating-Chronic-ebook/dp/B00UDCHX4Q + [Is It Gluten Free? | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCVrvzUo510KTWnUbmUEh81t) + https://www.glutenfreesociety.org/gluten-mimicking-foods
+- [Wheat Belly | William Davis](https://www.proteinpower.com/wheat-belly)
 
 ### Heart
 

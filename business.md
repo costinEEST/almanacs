@@ -27,6 +27,7 @@
 - https://www.amazon.com/Obliquity-goals-best-achieved-indirectly/dp/B00DO9HMB4
 - [Curating content on the interaction between technology and culture.](https://twitter.com/prathyvsh/status/1442138650632855558)
 - https://www.amazon.com/Company-History-Revolutionary-Library-Chronicles/dp/0812972872
+- https://www.goodreads.com/review/list/19131383-nick-chandler-klein?order=d&shelf=good-books-for-economists&sort=rating
 
 ### Cinema
 
@@ -79,6 +80,7 @@
 
 ### Management
 
+- https://textslashplain.com/2022/05/18/thoughts-on-impact
 - https://twitter.com/dabit3/status/1214711699145543680 + https://twitter.com/dan_abramov/status/1203486500731719681 + https://twitter.com/kurtiskemple/status/986746802073423873
 - [A collection of engineering ladders for reference and inspiration](https://github.com/bmoeskau/engineering-ladders)
 - [I think the movie Metallica: Some Kind of Monster should be _required viewing_ for cross-functional product teams.](https://twitter.com/mattlemay/status/1215735335348404224)

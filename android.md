@@ -47,6 +47,7 @@
 ### Internals
 
 - https://blog.esper.io/android-dessert-bites-22-linux-memory-management-38419756
+- https://blog.esper.io/android-13-exact-alarm-api-restrictions
 
 
 ### Tool

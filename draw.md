@@ -15,6 +15,7 @@
 - https://www.openculture.com/the-elements-of-drawing-a-free-course-from-oxford
 - https://www.udemy.com/course/diploma-in-fine-arts-drawing-certification
 - https://www.udemy.com/course/engineering-drawing-graphics
+- https://www.udemy.com/course/revit-structural-drawing-of-15-stories-residential-building
 
 ### Cinema
 
@@ -28,6 +29,10 @@
 - https://adevarul.ro/cultura/arte/portret-bedefil-profesorul-ion-manolescu-umberto-eco-benzii-desenate-romanesti-1_52ca8a94c7b855ff563fc332/index.html
 - [I get to draw birds!](https://twitter.com/hootalex/status/1364594215875969028)
 - https://thecreativeindependent.com/people/cartoonist-jeff-smith-on-letting-your-imagination-roam-free
+
+### Community
+
+- [Hayao Miyazaki](https://www.google.com/search?q=Hayao+Miyazaki+site%3Aartvsentropy.wordpress.com)
 
 
 ### Tool

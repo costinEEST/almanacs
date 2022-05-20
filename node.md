@@ -161,6 +161,7 @@
 
 ### Course
 
+- https://www.coursera.org/specializations/javascript-security
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide
 - [Serverless Framework Bootcamp: Node.js, AWS & Microservices](https://www.udemy.com/course/serverless-framework)
 - https://www.udemy.com/course/learning-koajs-by-building-rest-apis

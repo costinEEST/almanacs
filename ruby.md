@@ -50,6 +50,7 @@
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PL55SPnO0U2H3Am21MYgNcviYLzJ0bFv3J
+- https://github.com/daryllxd/every_ruby_talk_ever
 - [Inside The Muse - Semicolon&Sons](https://www.youtube.com/watch?v=aCzT-LQI6x0&list=PLpkoC9yJXDKlGz7SPwofn1joJH9nAABmX)
 - [Programming With Nothing](https://github.com/tomstuart/nothing)
 - [Ruby under a microscope](https://eddyerburgh.me/books-i-enjoyed-in-2019)
@@ -77,6 +78,7 @@
 - [Rails API | Codemy school](https://www.youtube.com/playlist?list=PLjQo0sojbbxWXYhditpqZlN4oLJE4hLjP)
 - [Ruby programming II | Dave Jones](https://www.youtube.com/playlist?list=PLSXDqiI4sC5O3fI2XzlXCfKiKx9ELnH4Q)
 - https://speakerdeck.com/jeg2/command-line-ruby
+- [Kevin Newton](https://kddnewton.com/speaking)
 
 ### Course
 
@@ -89,6 +91,7 @@
 ### Community
 
 - https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources
+- https://ryanbigg.com/2018/08/junior-engineering-program-resources
 - https://github.com/execat/bookmarks/blob/master/web.md#ruby
 - https://simran.app/2022/01/23/learning-ror
 - https://github.com/rohandaxini/rails-concepts-topics + https://twitter.com/rohan_daxini/status/1484787524975624193
@@ -112,6 +115,7 @@
 - Jonathan Gillette: https://youtu.be/DS5V37k1EP0?t=1292 + https://youtu.be/64anPPVUw5U + https://viewsourcecode.org/why + https://orgtheory.wordpress.com/2012/03/20/_why-aa-jonathan-gillette
 - [Vonage gems](https://www.youtube.com/playlist?list=PLWYngsniPr_lOOJYHULE1rMtYNvmF-dDb)
 - [Yechiel Kalmenson](https://yechiel.me/projects)
+- https://www.youtube.com/c/RubyAustralia
 
 ### Debugging
 
@@ -119,6 +123,8 @@
 - https://www.jakeworth.com/how-to-read-a-stack-trace
 - https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa
 - https://dev.to/sylwiavargas/talk-notes-implicit-to-explicit-decoding-ruby-s-magical-syntax-railsconf-2021-51ge
+- https://nopecode.com/2018/04/12/stop-using-active-record-first.html
+- https://ryanbigg.com/2013/06/finding-sql-queries-in-rails
 
 ### Deploy
 
@@ -157,6 +163,7 @@
 - https://postmodern.github.io/blog/2022/03/28/howto-use-activerecord-in-a-library.html
 - https://devcraft.io/2022/04/04/universal-deserialisation-gadget-for-ruby-2-x-3-x.html + https://twitter.com/wcbowling/status/1513861654676578313
 - [Open3.pipeline](https://twitter.com/jankomarohnic/status/1506204038181892103)
+- https://ryanbigg.com/2019/03/ruby-trickery
 
 ### Pattern
 
@@ -205,6 +212,10 @@
 - https://www.jakeworth.com/rspec-describe-vs-describe
 - https://github.com/smarr/are-we-fast-yet
 - https://learntdd.in/rails
+- https://nopecode.com/2021/03/03/your-flaky-system-test-again.html
+- https://github.com/daryllxd/every_ruby_talk_ever/blob/master/Sandi%20Metz%20-%20The%20Magic%20Tricks%20of%20Testing.md + https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf + https://www.youtube.com/watch?v=URSWYvyc42M
+- https://penelope.zone/2015/12/27/introducing-rspec-smells-and-where-to-find-them.html
+- [Setup System tests to work with RSpec, Devise and Rails 6](https://gist.github.com/boddhisattva/f14d2e860dcd2d45f805eb698b99605f)
 
 ### Radio
 
@@ -228,6 +239,7 @@
 
 ### Opinion
 
+- [Rails for the API and Next.js for the front-end](https://twitter.com/kwuchu/status/1525871984936161281)
 - https://www.schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made
 - https://gquintana.github.io/2017/01/08/From-Java-to-Ruby.html
 - https://mlomnicki.com/symbols-vs-strings
@@ -237,3 +249,4 @@
 - https://postmodern.github.io/blog/2022/01/18/why-do-so-many-in-infosec-really-dislike-ruby-some-thought.html
 - [Where is Ruby Headed in 2021?](https://news.ycombinator.com/item?id=29272682)
 - https://dev.to/sylwiavargas/why-do-you-love-ruby-actually-an-ode-5e7n
+- https://ryanbigg.com/2018/03/my-thoughts-on-hanami

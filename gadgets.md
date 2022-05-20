@@ -102,3 +102,4 @@
 ### Webcam
 
 - https://opalcamera.com + https://twitter.com/nikitonsky/status/1437334446231916544 + https://news.ycombinator.com/item?id=28463493
+- https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html
