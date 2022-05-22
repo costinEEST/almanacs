@@ -6,6 +6,10 @@
 
 - https://www.amazon.com/Garage-Gym-Athlete-Practical-Unleashing-ebook/dp/B01ETUPMYU
 
+### Cycling
+
+- https://www.euronews.com/travel/2022/05/19/slovenia-s-green-capitals-route-and-five-other-epic-european-bike-rides-to-try-this-summer 
+
 ### Golf
 
 - https://www.thediygolfer.com

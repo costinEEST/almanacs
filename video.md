@@ -6,6 +6,7 @@
 ### Community
 
 - https://www.youtube.com/c/ThomasFlight/playlists
+- https://www.inputmag.com/culture/vhs-tapes-twitch-youtube-streaming
 
 ### <video></video>
 

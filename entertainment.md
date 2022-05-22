@@ -162,15 +162,6 @@
 - ["Against the Grain" by James C. Scott](https://twitter.com/devonzuegel/status/1212414927777992705)
 - [1177 B.C. The Year Civilization Collapsed](https://paulskallas.substack.com/p/14-lindy-talk-w-prof-eric-cline)
 
-### Stoicism
-
-- https://tim.blog/2009/04/13/stoicism-101-a-practical-guide-for-entrepreneurs
-- [I. Epictetus](https://standardebooks.org/ebooks/epictetus/the-enchiridion/elizabeth-carter) + [II. Seneca](https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart) + [III. Marcus Aurelius](https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long)
-- [The Manual. A Philosopher's Guide to Life - Epictetus](https://www.indiebound.org/book/9781545461112)
-- [A Guide to The Good Life - William Irvine](https://youtu.be/BjScQSQpst8)
-- https://www.youtube.com/c/TheStoa/playlists
-- [Stoicism Book Reviews | Ethan Schwandt - The Mind Map Guy](https://www.youtube.com/playlist?list=PLus5uUwK9fLFT-RuA9bNzI9Qx8lRIYWU_)
-
 ### Buddhism
 
 - What Makes You Not a Buddhist: [review + some recommended books](https://www.goodreads.com/review/show/1820538290)

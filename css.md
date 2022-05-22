@@ -78,6 +78,7 @@
 - https://courses.joshwcomeau.com/css-for-js/treasure-trove/014-color-palettes
 - https://ciechanow.ski/color-spaces
 - https://www.amazon.com/Color-Scheme-Irreverent-History-Palettes-ebook/dp/B093QTSYPR
+- https://psyche.co/ideas/why-it-took-us-thousands-of-years-to-see-the-colour-violet
 
 ### Community
 
@@ -263,5 +264,6 @@
 ### Radio
 
 - https://modernweb.podbean.com/e/s08e012-modern-web-podcast-modern-css-accessibility-with-stephanie-eckles
+- https://scrimba.com/podcast/how-not-to-struggle-with-css-with-kevin-powell
 
 

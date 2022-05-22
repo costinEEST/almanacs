@@ -7,6 +7,7 @@
 ### Cinema
 
 - [Hybrid | Mike Kennedy](https://www.youtube.com/playlist?list=PLrMl9w30UFyspaGqroMQX4jiYmd6bATBy)
+- Trees In All Seasons: https://youtu.be/bjhIUycCWsg + https://youtu.be/9YRi7FUlVfo
 
 ### Miscellaneous
 

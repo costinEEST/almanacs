@@ -44,6 +44,14 @@
 - https://www.youtube.com/playlist?list=PLAYxecbGotUxSZhQ-Gte_UAMs1RQAckSv
 - https://www.youtube.com/playlist?list=PLoZ5e3aD_LuQjz8HxPlH-MqR8QBa6x7Dx
 - https://www.udemy.com/course/life-coach-training-counseling-stoicism-philosophy
+- https://tim.blog/2009/04/13/stoicism-101-a-practical-guide-for-entrepreneurs
+- [I. Epictetus](https://standardebooks.org/ebooks/epictetus/the-enchiridion/elizabeth-carter) + [II. Seneca](https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart) + [III. Marcus Aurelius](https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long)
+- [The Manual. A Philosopher's Guide to Life - Epictetus](https://www.indiebound.org/book/9781545461112)
+- https://modernstoicism.com/a-new-translation-of-the-handbook-part-1-by-harald-kavli
+- [A Guide to The Good Life - William Irvine](https://youtu.be/BjScQSQpst8)
+- https://www.youtube.com/c/TheStoa/playlists
+- [Stoicism Book Reviews | Ethan Schwandt - The Mind Map Guy](https://www.youtube.com/playlist?list=PLus5uUwK9fLFT-RuA9bNzI9Qx8lRIYWU_)
+- https://www.amazon.com/Seneca-Life-Stoic-Paul-Veyne-ebook-dp-B01F95X764/dp/B01F95X764
 
 ### Marxism
 

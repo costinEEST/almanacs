@@ -14,6 +14,7 @@
 - https://www.academia.edu/49977571/Ammonius_Stephanus_Comentarii_la_Tratatul_Despre_Interpretare_al_lui_Aristotel_tr_C_Noica_1971_
 - https://reasonio.teachable.com/p/aristotle-s-nicomachean-ethics-books-1-10
 - https://www.youtube.com/playlist?list=PLrAPUF78nSaiMzABSkygVBT30Y5aEezIt
+- https://aeon.co/essays/how-to-write-a-hollywood-blockbuster-with-aristotles-poetics
 
 ### Aaron Swartz
 
@@ -163,6 +164,8 @@
 ### Marc Aureliu
 
 - [Marc Aureliu versus Caesar și L. Aurelius Commodus | Vasile Pârvan](https://www.academia.edu/44818835/Vasile_P%C3%A2rvan_Marc_Aureliu_versus_Caesar_%C8%99i_L_Aurelius_Commodus_1909_2007_)
+- http://classics.mit.edu/Antoninus/meditations.html
+- https://plato.stanford.edu/entries/marcus-aurelius
 
 ### Michelangelo di Lodovico Buonarroti Simoni
 
