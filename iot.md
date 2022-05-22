@@ -22,6 +22,7 @@
 - [A curated collection of Arduino coding examples](https://github.com/wokwi/good-arduino-code) + https://goodarduinocode.com
 - https://dafnamordechai.wixsite.com/iotwitharduino/the-workshop
 - https://alexshakespeare.com/2021/12/world-window + https://github.com/shakso/WorldWindow
+- https://ncot.uk/arduino/debugging-z80-with-arduino
 
 ### CLP5010
 

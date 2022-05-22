@@ -36,6 +36,7 @@
 - https://github.com/GoogleChromeLabs/wasm-feature-detect
 - https://github.com/fiatjaf/jq-web
 - https://schroer.ca/2022/03/20/openscad-configurator
+- [v86 emulates an x86-compatible CPU and hardware](https://github.com/copy/v86)
 
 ### Opinion
 

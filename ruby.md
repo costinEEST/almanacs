@@ -181,6 +181,7 @@
 - https://github.com/AsadK47/Codewars-Katas-Ruby
 - https://github.com/ashbb/ruby_metaprogramming_study_note
 - https://github.com/andyw8/advent-of-code
+- https://github.com/YasuhiroYoshida/bikes_unlimited
 
 
 ### Tool

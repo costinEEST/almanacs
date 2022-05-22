@@ -433,6 +433,7 @@
 - [Fast is beautiful and Jest is much faster than Cypress. Cypress gives you ultimate confidence when shipping. Jest gives you rapid feedback during development.](https://twitter.com/MaOberlehner/status/1372182887462793218)
 - https://github.com/ahmadnassri/i-jest-you-not + https://twitter.com/AhmadNassri/status/1375094293917003780
 - [React.js Unit Testing and Integration Testing Tutorial | Bruno Antunes](https://www.youtube.com/playlist?list=PLYSZyzpwBEWTBdbfStjqJSGaulqcHoNkT)
+- https://github.com/sapegin/jest-cheat-sheet
 
 ### Tooling
 

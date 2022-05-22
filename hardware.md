@@ -117,6 +117,7 @@
 - [Q is a quantum circuit simulator, drag-and-drop circuit editor](https://github.com/stewdio/q.js)
 - https://incoherency.co.uk/blog/stories/scamp-lives.html + https://en.wikipedia.org/wiki/National_Semiconductor_SC/MP
 - https://urish.medium.com/introducing-easyeda-2-kicad-37489da1dfa7
+- [web-based CPUID decoder and visualiser](https://github.com/gsuberland/web-cpuid)
 
 ### Miscellaneous
 
