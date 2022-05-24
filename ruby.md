@@ -4,6 +4,7 @@
 - https://dev.to/knowndecimal/being-restful-about-your-routes-1gmf
 - https://www.driftingruby.com/episodes/label-maker-with-ruby
 - https://codingitwrong.com/railsapis
+- https://dev.to/q9/finally-authenticating-rails-users-with-metamask-3fj
 
 ### Algorithm
 

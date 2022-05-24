@@ -131,6 +131,7 @@
 - [Richard Burton](https://ricburton.substack.com/archive)
 - https://www.argent.xyz/blog/tag/newsletter
 - [Bruno Škvorc](https://news.nft.review/archive)
+- https://www.getrevue.co/profile/useWeb3
 
 ### Investing
 

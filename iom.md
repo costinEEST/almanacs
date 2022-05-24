@@ -20,6 +20,7 @@
 
 ### Course
 
+- https://www.devpill.me + https://twitter.com/DCbuild3r/status/1500566649530990595 + https://github.com/dcbuild3r/blockchain-development-guide
 - https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide
 - https://www.dappuniversity.com/videos/1njYc9ZO6WQ
 - https://learn.consensys.net/index
@@ -34,6 +35,7 @@
 - https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert
 - [Full-stack blockchain programming course! A backend + frontend with Node.js, Jest, Express, React, Heroku, & more!](https://www.udemy.com/course/build-blockchain-full-stack)
 - https://eattheblocks-pro.teachable.com/p/polygon-development
+- https://defi-learning.org/f22
 
 ### Cinema
 
@@ -282,6 +284,7 @@
 - https://github.com/Haaroon/ether_parity_hack_Nov_2017
 - [Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum](https://github.com/diasjuniorr/tip-tweet)
 - https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy
+- https://github.com/daoleno/web3byexample
 
 ### Demos
 
