@@ -1,3 +1,7 @@
+### Authorization
+
+- https://github.com/ChrisBr/oauth2-sample-app
+
 ### API
 
 - https://dmitrytsepelev.dev/talks/2021-05-28-high-performance-graphql.html
@@ -5,6 +9,9 @@
 - https://www.driftingruby.com/episodes/label-maker-with-ruby
 - https://codingitwrong.com/railsapis
 - https://dev.to/q9/finally-authenticating-rails-users-with-metamask-3fj
+- [Telegram Bot wrapper for the RubyGems.org API](https://github.com/davidesantangelo/gemsbot)
+- [Turns feed data into an awesome API](https://github.com/davidesantangelo/dato.rss)
+
 
 ### Algorithm
 
@@ -94,6 +101,7 @@
 - https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources
 - https://ryanbigg.com/2018/08/junior-engineering-program-resources
 - https://github.com/execat/bookmarks/blob/master/web.md#ruby
+- [Find out what's going on in your local Ruby community](https://github.com/lewispb/rubymap) + https://github.com/lewispb/rubymap/blob/master/data/seeds/organizations.yml
 - https://simran.app/2022/01/23/learning-ror
 - https://github.com/rohandaxini/rails-concepts-topics + https://twitter.com/rohan_daxini/status/1484787524975624193
 - https://github.com/phoet/on_ruby
@@ -126,6 +134,7 @@
 - https://dev.to/sylwiavargas/talk-notes-implicit-to-explicit-decoding-ruby-s-magical-syntax-railsconf-2021-51ge
 - https://nopecode.com/2018/04/12/stop-using-active-record-first.html
 - https://ryanbigg.com/2013/06/finding-sql-queries-in-rails
+- https://twitter.com/bernardo_amc/status/1169338542813827073 + https://github.com/bernardoamc/ruby_debugging
 
 ### Deploy
 
@@ -183,6 +192,7 @@
 - https://github.com/ashbb/ruby_metaprogramming_study_note
 - https://github.com/andyw8/advent-of-code
 - https://github.com/YasuhiroYoshida/bikes_unlimited
+- https://github.com/taekeun/coding-practice
 
 
 ### Tool
@@ -201,6 +211,7 @@
 - https://github.com/rameerez/embargoed-list + https://twitter.com/rameerez/status/1497522706274996224
 - https://nts.strzibny.name/invoicing-from-command-line
 - https://kirillplatonov.com/posts/setting-up-cloudflare-tunnel-for-development + https://twitter.com/kirplatonov/status/1473892410828759040
+- https://github.com/shanehofstetter/rails-i18n-vscode
 
 ### Testing
 
@@ -218,6 +229,7 @@
 - https://github.com/daryllxd/every_ruby_talk_ever/blob/master/Sandi%20Metz%20-%20The%20Magic%20Tricks%20of%20Testing.md + https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf + https://www.youtube.com/watch?v=URSWYvyc42M
 - https://penelope.zone/2015/12/27/introducing-rspec-smells-and-where-to-find-them.html
 - [Setup System tests to work with RSpec, Devise and Rails 6](https://gist.github.com/boddhisattva/f14d2e860dcd2d45f805eb698b99605f)
+- https://github.com/zipmark/rspec_api_documentation
 
 ### Radio
 
@@ -234,6 +246,10 @@
 - https://robertheaton.com/2013/07/22/how-to-hack-a-rails-app-using-its-secret-token
 - https://greg.molnar.io/blog/rubygems-cve-2022-29176
 - https://presidentbeef.com/ns/talks
+
+### Scrapping
+
+- [Ruby gem to inspect completely a web page. It scrapes a given URL, and returns you its meta, links, images](https://github.com/davidesantangelo/webinspector)
 
 ### Static generator
 
