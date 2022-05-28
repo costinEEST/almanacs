@@ -11,6 +11,7 @@
 - https://dev.to/q9/finally-authenticating-rails-users-with-metamask-3fj
 - [Telegram Bot wrapper for the RubyGems.org API](https://github.com/davidesantangelo/gemsbot)
 - [Turns feed data into an awesome API](https://github.com/davidesantangelo/dato.rss)
+- [A basic cURL wrapper around RubyGems.org API](https://github.com/davidesantangelo/curl-gems)
 
 
 ### Algorithm
@@ -39,6 +40,7 @@
 
 - https://learnxinyminutes.com/docs/ruby
 - https://rubyreferences.github.io/rubyref
+- https://github.com/janlelis/idiosyncratic-ruby.com
 - https://dev.to/ericchapman/my-beloved-ruby-on-rails-cheat-sheet-50pi
 - https://scottbartell.com/2022/04/12/set-attributes-in-active-record-rails-7
 - [Comprehensive changelog of Ruby Programming Language](https://github.com/rubyreferences/rubychanges)
@@ -125,6 +127,7 @@
 - [Vonage gems](https://www.youtube.com/playlist?list=PLWYngsniPr_lOOJYHULE1rMtYNvmF-dDb)
 - [Yechiel Kalmenson](https://yechiel.me/projects)
 - https://www.youtube.com/c/RubyAustralia
+- [Ilya Bylich](https://github.com/iliabylich/iliabylich.github.io/tree/master/_posts)
 
 ### Debugging
 
@@ -143,6 +146,7 @@
 
 ### Gem
 
+- [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems)
 - https://skryukov.github.io/rails/activeadmin/2020/09/29/an-unofficial-active-admin-guide.html
 - [Pure Ruby bit array/bitfield implementation](https://github.com/peterc/bitarray)
 - https://github.com/countries/country_select
@@ -156,6 +160,8 @@
 - [Resumable upload protocol implementation in Ruby](https://github.com/picocandy/rubytus)
 - [Generates .rubocop.yml automatically](https://github.com/pocke/gry)
 - https://github.com/lorien/awesome-web-scraping/blob/master/ruby.md
+- [A cli to help managing a TIL repo](https://github.com/pjambet/til-rb)
+- https://github.com/deploy2/ruby-ip
 
 ### Internals
 
@@ -174,6 +180,7 @@
 - https://devcraft.io/2022/04/04/universal-deserialisation-gadget-for-ruby-2-x-3-x.html + https://twitter.com/wcbowling/status/1513861654676578313
 - [Open3.pipeline](https://twitter.com/jankomarohnic/status/1506204038181892103)
 - https://ryanbigg.com/2019/03/ruby-trickery
+- [Ruby keyword arguments](https://etiennebarrie.github.io/ruby-kwargs)
 
 ### Pattern
 
@@ -193,6 +200,7 @@
 - https://github.com/andyw8/advent-of-code
 - https://github.com/YasuhiroYoshida/bikes_unlimited
 - https://github.com/taekeun/coding-practice
+- https://github.com/pjambet/redis-in-ruby
 
 
 ### Tool
@@ -212,6 +220,7 @@
 - https://nts.strzibny.name/invoicing-from-command-line
 - https://kirillplatonov.com/posts/setting-up-cloudflare-tunnel-for-development + https://twitter.com/kirplatonov/status/1473892410828759040
 - https://github.com/shanehofstetter/rails-i18n-vscode
+
 
 ### Testing
 

@@ -246,3 +246,5 @@
 - http://www.irongeek.com/homoglyph-attack-generator.php
 - https://util.unicode.org/UnicodeJsps/confusables.jsp
 - https://unicode.org/emoji/charts/emoji-zwj-sequences.html
+- [Know your Unicode](https://github.com/janlelis/uniscribe)
+- [Visualize different Unicode encodings in the terminal](https://github.com/janlelis/unibits)
