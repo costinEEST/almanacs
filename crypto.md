@@ -64,6 +64,8 @@
 
 - https://dev.to/cossacklabs/schneier-on-cryptography-live-interview-4mi7
 - https://github.com/vixentael/my-talks + https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8
+- [Benny Pinkas](https://twitter.com/bennypinkas)
+- [Eyal Ronen](https://twitter.com/eyalr0)
 
 ### Demos
 

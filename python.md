@@ -47,6 +47,7 @@
 - https://github.com/deepserket/walkdir-telegram-bot
 - [Telegram Bot that searches definitions for Romanian words using dexonline](https://github.com/revolter/DexRoBot)
 - [Telegram Bot that converts some file types to native photo, audio or video Telegram messages](https://github.com/revolter/FileConvertBot)
+- https://github.com/kklein/life-monitor + https://twitter.com/kevkle/status/1528464290864410626
 
 ### Clean code
 

@@ -198,6 +198,7 @@
 
 ### Solidity
 
+- https://twitter.com/PatrickAlphaC/status/1529932735665651716 + https://github.com/smartcontractkit/full-blockchain-solidity-course-js + https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development
 - https://learnxinyminutes.com/docs/solidity
 - https://github.com/manojpramesh/solidity-cheatsheet
 - https://buildspace.so/solidity

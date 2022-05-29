@@ -36,6 +36,7 @@
 - https://www.evomag.ro/componente-pc-gaming-tastaturi-pc/logitech-tastatura-wireless-logitech-mx-keys-bluetooth-usb-layout-uk-negru-3803856.html 
 - https://www.amazon.com/Freestyle-Ergonomic-Mechanical-Programmable-Adjustable/dp/B07CX9KQRQ
 - https://blog.albingroen.com/posts/my-ultimate-hacking-keyboard-review
+- https://www.johnhawthorn.com/2020/05/building-a-homemade-keyboard
 
 ### Microphone
 

@@ -40,6 +40,7 @@
 - [Micro-Lectures - Phonetics | The Virtual Linguistics Campus](https://www.youtube.com/playlist?list=PLRIMXVU7SGRIeAGqlQqzbsErDMgZWkuqh)
 - https://www.udemy.com/course/content-based-language-teaching
 - https://github.com/speaking-for-hackers/speaking-for-hackers-book
+- [Glimmer DSL for SWT Video Tutorials for Ruby Desktop GUI Development](https://www.youtube.com/playlist?list=PLSN9HhZ_0-n741vRa_dL-M81cLbqD_kem)
 
 ### Book
 

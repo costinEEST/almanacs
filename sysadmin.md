@@ -147,6 +147,7 @@
 - https://blog.sophaskins.net/blog/setting-up-a-home-hypervisor
 - https://github.com/Artemmkin/infrastructure-as-code-tutorial
 - https://github.com/jpetazzo/container.training
+- https://academy.safestack.io/syllabus-introduction-to-devsecops
 
 ### Monitoring
 

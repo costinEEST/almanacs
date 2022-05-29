@@ -100,6 +100,8 @@
 
 ### Community
 
+- https://www.rubyandrails.info
+- https://rubyhunt.dev
 - https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources
 - https://ryanbigg.com/2018/08/junior-engineering-program-resources
 - https://github.com/execat/bookmarks/blob/master/web.md#ruby
@@ -128,6 +130,7 @@
 - [Yechiel Kalmenson](https://yechiel.me/projects)
 - https://www.youtube.com/c/RubyAustralia
 - [Ilya Bylich](https://github.com/iliabylich/iliabylich.github.io/tree/master/_posts)
+- [Vladislav Trotsenko](https://www.codewars.com/users/bestwebua)
 
 ### Debugging
 
@@ -143,6 +146,7 @@
 
 - https://akshaykhot.com/deploying-rails-like-2005
 - https://www.joyfulbikeshedding.com/blog/2021-01-06-the-future-of-traveling-ruby.html
+- https://www.johnhawthorn.com/2018/01/this-website-is-a-makefile
 
 ### Gem
 
@@ -244,6 +248,7 @@
 
 - https://www.nadiaodunayo.com/writing/2016/03/31/how-did-the-ruby-book-club-podcast-start
 - https://www.frameworkfriends.com/episodes/origin-stories
+- https://andymaleh.blogspot.com/2022/05/ruby-rogues-podcast-interview-desktop.html
 
 ### Security
 
@@ -259,6 +264,7 @@
 ### Scrapping
 
 - [Ruby gem to inspect completely a web page. It scrapes a given URL, and returns you its meta, links, images](https://github.com/davidesantangelo/webinspector)
+- https://kevinjmurphy.com/posts/scraping-buy
 
 ### Static generator
 
