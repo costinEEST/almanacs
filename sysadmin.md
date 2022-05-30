@@ -69,6 +69,7 @@
 - [Package your app as a Docker image, and launch it in 17 cities with one simple CLI](https://github.com/superfly/fly)
 - https://github.com/lipanski/docker-static-website
 - https://github.com/hwdsl2/docker-ipsec-vpn-server
+- https://matt-rickard.com/docker-desktop-alternatives
 
 ### Kubernetes
 

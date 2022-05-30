@@ -12,6 +12,7 @@
 - [Telegram Bot wrapper for the RubyGems.org API](https://github.com/davidesantangelo/gemsbot)
 - [Turns feed data into an awesome API](https://github.com/davidesantangelo/dato.rss)
 - [A basic cURL wrapper around RubyGems.org API](https://github.com/davidesantangelo/curl-gems)
+- https://github.com/pat/render_api
 
 
 ### Algorithm
@@ -102,13 +103,13 @@
 
 - https://www.rubyandrails.info
 - https://rubyhunt.dev
+- [Whitelabel Site for Ruby Communities](https://github.com/phoet/on_ruby)
 - https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources
 - https://ryanbigg.com/2018/08/junior-engineering-program-resources
 - https://github.com/execat/bookmarks/blob/master/web.md#ruby
 - [Find out what's going on in your local Ruby community](https://github.com/lewispb/rubymap) + https://github.com/lewispb/rubymap/blob/master/data/seeds/organizations.yml
 - https://simran.app/2022/01/23/learning-ror
 - https://github.com/rohandaxini/rails-concepts-topics + https://twitter.com/rohan_daxini/status/1484787524975624193
-- https://github.com/phoet/on_ruby
 - [RubyKaigi, Ruby conference in Japan](https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A)
 - [London Ruby User Group](https://lrug.org)
 - [Ruby User Group Berlin](https://www.rug-b.de)
@@ -141,6 +142,7 @@
 - https://nopecode.com/2018/04/12/stop-using-active-record-first.html
 - https://ryanbigg.com/2013/06/finding-sql-queries-in-rails
 - https://twitter.com/bernardo_amc/status/1169338542813827073 + https://github.com/bernardoamc/ruby_debugging
+- https://speakerdeck.com/damir/a-tool-belt-of-a-seasond-bug-hunter
 
 ### Deploy
 
@@ -224,6 +226,7 @@
 - https://nts.strzibny.name/invoicing-from-command-line
 - https://kirillplatonov.com/posts/setting-up-cloudflare-tunnel-for-development + https://twitter.com/kirplatonov/status/1473892410828759040
 - https://github.com/shanehofstetter/rails-i18n-vscode
+- https://marketplace.visualstudio.com/items?itemName=andrewmcodes.rails-extension-power-pack
 
 
 ### Testing

@@ -18,6 +18,7 @@
 - https://www.udemy.com/course/complete-gmail-productivity-course-more-productive-email
 - https://github.com/James-Yu/LaTeX-Workshop
 - https://www.udemy.com/course/masteringlatex
+- [The fine print | Scott Carney](https://www.youtube.com/playlist?list=PL2TVEkr1lWIJ2IVxvOuxFHonfBLd6TDfd)
 
 ### Community
 
