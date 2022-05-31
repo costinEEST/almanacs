@@ -241,6 +241,10 @@
 - [Eric Topol](https://erictopol.substack.com/archive)
 - [Peter Attia](https://peterattiamd.com/email-archive)
 
+### Privacy
+
+- [Simo Ahava](https://www.teamsimmer.com/newsletter)
+
 ### Security
 
 - [AppSec Ezine Public Repository.](https://github.com/Simpsonpt/AppSecEzine)
