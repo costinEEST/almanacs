@@ -21,6 +21,7 @@
 - [iOS & Android flashcards app for learning German words faster](https://github.com/antoniocosentino/flippingCards)
 - [Rocket.Chat mobile clients](https://github.com/RocketChat/Rocket.Chat.ReactNative)
 - https://www.makeuseof.com/react-native-blockchain-apps
+- [Mattermost is an open source platform for secure collaboration across the entire software development lifecycle](https://github.com/mattermost/mattermost-mobile)
 
 ### Cinema
 

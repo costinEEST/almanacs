@@ -192,6 +192,7 @@
 - https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners
 - https://github.com/kryz81/awesome-nodejs-learning
 - https://oscarotero.com/deno
+- https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno
 
 ### Community
 

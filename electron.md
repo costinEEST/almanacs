@@ -36,6 +36,7 @@
 - [An extensible desktop mail app built on the modern web](https://github.com/nylas/nylas-mail)
 - [Menubar app that shows dollar to peruvian sol exchange rate](https://github.com/cristianbgp/electron-dollarpe)
 - [web-based MS Paint remake](https://github.com/1j01/jspaint)
+- https://github.com/mattermost/desktop
 
 ### Boilerplates
 
@@ -57,3 +58,4 @@
 - https://parsiya.net/blog/2021-01-08-a-novel-way-to-bypass-executable-signature-checks-with-electron + https://twitter.com/CryptoGangsta/status/1347847661844451330
 - https://github.com/msrkp/electron-research
 - [An Analysis of the State of Electron Security in the Wild](https://github.com/baltpeter/thesis-electron-analysis-src)
+- https://twitter.com/po6ix/status/1520020506283544576
