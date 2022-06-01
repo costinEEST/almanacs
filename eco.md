@@ -11,6 +11,7 @@
 - https://thereader.mitpress.mit.edu/an-environmentalists-lessons-for-an-improvisational-life
 - https://ketanjoshi.co/windfall
 - https://undark.org/2021/10/01/book-review-the-quiet-zone
+- [Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas--Not Less | Alex Epstein](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411)
 
 ### Course
 
