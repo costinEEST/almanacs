@@ -144,6 +144,10 @@
 - https://twitter.com/bernardo_amc/status/1169338542813827073 + https://github.com/bernardoamc/ruby_debugging
 - https://speakerdeck.com/damir/a-tool-belt-of-a-seasond-bug-hunter
 
+### Demo
+
+- https://github.com/alisnic/rails-tik-tok-clone
+
 ### Deploy
 
 - https://akshaykhot.com/deploying-rails-like-2005

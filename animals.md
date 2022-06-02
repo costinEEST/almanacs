@@ -30,6 +30,7 @@
 
 - https://bigthink.com/life/ants-smell-cancer
 - https://www.cnet.com/science/biology/bees-get-anxious-and-octopuses-feel-pain-why-do-we-look-away
+- https://bookshop.org/books/the-lives-of-moths-a-natural-history-of-our-planet-s-moth-life/9780691228563
 
 ### Mammalian
 

@@ -18,6 +18,10 @@
 
 - https://kodekloud.com/p/json-path-quiz
 
+### .sam
+
+- https://cmdcolin.github.io/posts/2022-02-06-sv-sam
+
 ### Tool
 
 - [Convert a Windows/DOS file extension to a mimetype.](https://dorper.me/ext2mime)

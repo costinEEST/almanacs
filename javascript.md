@@ -32,6 +32,10 @@
 - https://medium.com/aia-sg-techblog/understanding-how-babel-works-d6ca363bce1e
 - https://github.com/vaidehijoshi/basecs-series
 
+### Community
+
+- [Javascript R. Moldova](https://github.com/JSMD/meetups)
+
 ### Quirks
 
 - https://github.com/aemkei/jsfuck

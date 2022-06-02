@@ -17,6 +17,7 @@
 - https://github.com/miguelmota/ethereum-development-with-go-book
 - https://github.com/PacktPublishing/Learn-Python-by-Building-a-Blockchain-Cryptocurrency
 - [COMS 6998-006: Foundations of Blockchains](https://timroughgarden.github.io/fob21)
+- [SmartCustody: The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets](https://github.com/BlockchainCommons/SmartCustodyBook)
 
 ### Course
 
@@ -179,6 +180,7 @@
 - https://twitter.com/summerofbitcoin/status/1436371656570654720 + https://blog.summerofbitcoin.org/#archive
 - https://teachbitcoin.io/curriculum + https://github.com/teachbitcoin/teachbitcoin.github.io
 - [how mining works](https://timechaindemo.io) + https://twitter.com/in3rsha/status/1473632489633632262
+- https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
 
 ### Solana
 

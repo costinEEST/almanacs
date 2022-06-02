@@ -60,6 +60,7 @@
 - [React component to create interactive D3 tree graphs](https://github.com/bkrem/react-d3-tree)
 - https://github.com/anvaka/graph-drawing-libraries
 - [Location Intelligence & Data Visualization tool](https://github.com/CartoDB/cartodb)
+- https://github.com/cmdcolin/awesome-genome-visualization
 
 
 ### Radio

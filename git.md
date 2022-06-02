@@ -118,6 +118,7 @@
 - https://alexcican.com/post/guide-hosting-website-dropbox-github/#downsides-of-github
 - https://www.adrianbolonio.com/en/accessibility-github-actions
 - [A re-usable GitHub Actions CI workflow for verifying Rails apps](https://github.com/andyw8/setup-rails)
+- https://www.tomray.dev/deploy-nestjs-cloud-run
 
 ### Tool
 

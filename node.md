@@ -140,6 +140,7 @@
 - https://github.com/benedmunds/Node-Express-MVR-Example
 - https://github.com/sujeet-agrahari/node-express-clean-architecture
 - https://github.com/kentcdodds/express-app-example
+- [A Strapi V4 plugin from scratch to production](https://github.com/ExFabrica/strapi-stories)
 
 ### Cinema
 
@@ -564,3 +565,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 ### Radio
 
 - [Running Node natively in the browser](https://changelog.com/jsparty/178)
+
+### Opinion
+
+- [What npm Can Learn from Go](https://twitter.com/bossylobster/status/1529857188390371328)
+- https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler
