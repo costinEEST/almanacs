@@ -74,6 +74,7 @@
 - [automate APK reversing](https://twitter.com/nullenc0de/status/1483142647791460358) + https://github.com/nullenc0de/reverse-apk
 - https://github.com/ClaudiuGeorgiu/PlaystoreDownloader
 - [The ingenious product that brings eSIM to any Android phone](https://blog.esper.io/android-dessert-bites-24-esim-me-1248143/)
+- https://markuta.com/magisk-root-detection-banking-apps
 
 ### APIs
 

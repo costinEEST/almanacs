@@ -172,6 +172,7 @@
 - https://github.com/lorien/awesome-web-scraping/blob/master/ruby.md
 - [A cli to help managing a TIL repo](https://github.com/pjambet/til-rb)
 - https://github.com/deploy2/ruby-ip
+- [Java deserialization (ObjectIn/OutputStream) exploitation helper](https://github.com/hakivvi/ObjectPwnStream) + https://twitter.com/hakivvi/status/1530400121569128449
 
 ### Internals
 
