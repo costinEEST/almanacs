@@ -62,6 +62,7 @@
 - https://coolaj86.com/articles/meeting-video-transcription-solutions
 - http://jpetazzo.github.io/2019/03/28/recording-workshop-video-tutorial-training
 - http://jpetazzo.github.io/2020/06/27/streaming-part-4-linux
+- [Videogrep, command-line tool that automatically generates supercuts](https://lav.io/notes/videogrep-tutorial)
 
 ### Opinions
 

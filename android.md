@@ -13,6 +13,7 @@
 - https://github.com/pcqpcq/open-source-android-apps
 - [Track your sport activities with RunnerUp using the GPS](https://github.com/jonasoreland/runnerup)
 - https://github.com/eduardb/ClujBike
+- https://knots3d.com
 
 ### Book
 
@@ -101,6 +102,7 @@
 - [app that guides you into a parallel parking space using the Toyota CAN Gateway API via bluetooth](https://github.com/diafygi/ppark)
 - https://github.com/prateekcode/AndroidEssentialLibraries
 - https://github.com/onmyway133/awesome-android-architecture
+- https://montemagno.com/goodbye-android-emulators-windows-subsytem-for-android-is-here
 
 ### Opinion
 

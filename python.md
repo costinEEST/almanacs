@@ -147,6 +147,7 @@
 
 ### Scraping
 
+- https://scrapism.lav.io + https://www.youtube.com/playlist?list=PLKDFNm2PsaCed7FP0uN5d2qWBAiJ0R7c9
 - https://github.com/Adithya93/webScraping
 - [Powerful and flexible Instagram scraping library for Python, providing easy-to-use and expressive tools for accessing data programmatically](https://github.com/chris-greening/instascrape)
 - https://github.com/KalmykAlex/emag_crawler
@@ -170,6 +171,8 @@
 - https://github.com/molly/gh-dork
 - [A minimalistic script for scraping and converting Wikipedia tables to csv files](https://github.com/cartographia/wikiharvester)
 - [Proof of concept for abusing Telegram's "People Near Me" feature and tracking people's location](https://github.com/jkctech/Telegram-Trilateration)
+- https://github.com/reanalytics-databoutique/webscraping-open-project
+- https://github.com/reanalytics-databoutique/advanced-scrapy-proxies
 
 ### Security
 

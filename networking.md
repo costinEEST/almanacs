@@ -314,6 +314,7 @@
 - https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278
 - [low latency, high throughput load balancer for real time stock market trade feed (using polygon.io websocket API)](https://matt.sh/load-balance-trades)
 - https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io
+- https://mmmds.pl/Damn-Vulnerable-Web-Sockets-walkthrough
 
 ### P2P
 
