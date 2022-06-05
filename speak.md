@@ -321,6 +321,7 @@
 - https://www.udemy.com/course/russian-alphabet-mastery
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/russian.md
 - https://twitter.com/BeilinsonOrel/status/1278007873335894021
+- https://www.facebook.com/radu.umbres/posts/pfbid02DwLfpf5DFJ3iJ8WM8rwoEmxyiNveU5meorZK86Fkr76wzKKbTZRAWDsL4N8jNutCl
 
 ### Rare
 

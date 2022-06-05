@@ -257,6 +257,7 @@
 - https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is
 - https://www.popsci.com/technology/best-of-whats-new-2021
 - [The 50 Worst Inventions](http://content.time.com/time/specials/packages/completelist/0,29569,1991915,00.html)
+- https://www.forbes.com/sites/jeremybogaisky/2022/06/03/palmer-luckey-anduril
 
 
 ### Essays

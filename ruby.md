@@ -251,6 +251,7 @@
 - https://penelope.zone/2015/12/27/introducing-rspec-smells-and-where-to-find-them.html
 - [Setup System tests to work with RSpec, Devise and Rails 6](https://gist.github.com/boddhisattva/f14d2e860dcd2d45f805eb698b99605f)
 - https://github.com/zipmark/rspec_api_documentation
+- https://www.thomascountz.com/2018/03/07/testing-ruby-gets-puts
 
 ### Radio
 
@@ -268,6 +269,7 @@
 - https://robertheaton.com/2013/07/22/how-to-hack-a-rails-app-using-its-secret-token
 - https://greg.molnar.io/blog/rubygems-cve-2022-29176
 - https://presidentbeef.com/ns/talks
+- https://www.thomascountz.com/2020/10/24/sql-injection
 
 ### Scrapping
 

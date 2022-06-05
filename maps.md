@@ -22,6 +22,7 @@
 ### Cinema
 
 - https://somethingaboutmaps.wordpress.com/2020/03/19/how-to-do-map-stuff
+- https://www.openculture.com/2022/05/how-did-cartographers-create-world-maps-before-airplanes-and-satellites-an-introduction.html
 
 ### Miscellaneous
 
@@ -40,6 +41,7 @@
 - https://getoutside.ordnancesurvey.co.uk/guides/map-reading-skills-advanced-guides
 - https://www.meteoromania.ro/radarm/radar.index.php
 - https://usefulcharts.com/products/maps-of-the-roman-empire
+- https://bigthink.com/strange-maps/omnesviae-roman-roads-map
 
 ### Radio
 

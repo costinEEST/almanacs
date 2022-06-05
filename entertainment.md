@@ -20,13 +20,6 @@
 - https://www.amazon.com/Holstee-Reflection-Cards-Connections-Conversations/dp/B07JM14W5L
 - [Can anyone help me out with some boardgame/card game recommendations?](https://twitter.com/jaffathecake/status/1205808801762496513)
 
-### Basketball
-
-- [Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever.](https://www.amazon.com/Dream-Team-Greatest-Conquered-Basketball/dp/0345520491)
-- [Thinking Basketball (YouTube channel)](https://www.youtube.com/channel/UC3HPbvB6f58X_7SMIp6OPYw/playlists)
-- [The Complete History and Strategy of The NBA](https://www.acquired.fm/episodes/the-nba)
-- [World's 1st Portable Shooting Machine | GRIND](https://www.youtube.com/watch?v=kSRKamAZYTc)
-
 ### Future
 
 - [Current technologies](https://www.youtube.com/playlist?list=PLk97mPCd8nvZBmNg8Xcjbheq03IvYuFSC)
@@ -162,16 +155,6 @@
 - ["Against the Grain" by James C. Scott](https://twitter.com/devonzuegel/status/1212414927777992705)
 - [1177 B.C. The Year Civilization Collapsed](https://paulskallas.substack.com/p/14-lindy-talk-w-prof-eric-cline)
 
-### Buddhism
-
-- What Makes You Not a Buddhist: [review + some recommended books](https://www.goodreads.com/review/show/1820538290)
-- [Dalai Lama - Bridging Buddhism & Science - ACI Dharma România](https://www.youtube.com/playlist?list=PLb771hFqA1oTskt3tJ8nF73bxlTlbhZ-o)
-- [Daily Practice Series Course 05: Meditation on Death and the End of Death (1999, Raleigh)](https://www.theknowledgebase.com/archive/en/dailypractice05-1999-raleigh-geshemichael)
-
-### Islam
-
-- https://radu-iliescu.blogspot.com/search/label/islam
-- https://www.academia.edu/37298049/The_Architecture_of_Pilgrimage_A_study_on_the_Ziyara_Bogal_and_charismatic_authority_in_the_Tijaniyya
 
 ### Build
 

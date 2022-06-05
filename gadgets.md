@@ -55,6 +55,7 @@
 - https://coolaj86.com/articles/best-thunderbolt-display-imac-monitor-alternative
 - https://sprocketfox.io/xssfox/2021/12/02/xrandr
 - https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development
+- https://www.gamespot.com/articles/5-ways-to-dumb-down-your-smart-tv/1100-6504081
 
 ### Phone
 

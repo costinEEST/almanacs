@@ -62,6 +62,7 @@
 - https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books
 - http://nature-of-order.stefan-lesser.com/alexanders-foreword-to-patterns-of-software
 - https://www.codeflashbacks.com/overlooked-books
+- [Competitive Programmer’s Handbook | Antti Laaksonen](https://cses.fi/book/book.pdf)
 
 ### TIL
 

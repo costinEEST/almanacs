@@ -30,4 +30,5 @@
 
 ### Papers
 
-- https://neurosciencenews.com/swearing-self-confidence-behavior-strength-20251/
+- https://neurosciencenews.com/swearing-self-confidence-behavior-strength-20251
+- https://www.cbc.ca/radio/ideas/perfectionism-a-modern-malady-born-in-the-middle-ages-1.6450904

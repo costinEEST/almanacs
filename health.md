@@ -7,6 +7,7 @@
 - [Out of the Bottle: Wine Science](https://www.youtube.com/playlist?list=PLB2w1JNHV4HSIgrPiBjGGMNeQvCsHekbb)
 - https://www.victorkapra.ro/2021/12/aparut-somelierii-roboti-bazati
 - https://www.grunge.com/749148/the-scientific-reason-vodka-doesnt-freeze
+- https://www.zmescience.com/science/anthropology/five-turning-points-in-the-evolution-of-wine
 
 ### Autism
 

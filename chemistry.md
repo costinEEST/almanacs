@@ -16,6 +16,7 @@
 - https://www.youtube.com/playlist?list=PLKEd7Km7DjLcqm7vqrAgbwYVwiG4Rif09
 - https://futurism.com/the-byte/quantum-charge-electric-cars
 - https://www.youtube.com/c/JulianIlett/playlists
+- https://www.bbc.com/future/article/20220511-can-gravity-batteries-solve-our-energy-storage-problems
 
 ### Book
 
