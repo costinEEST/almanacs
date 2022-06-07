@@ -21,6 +21,7 @@
 ### Development
 
 - [Vue Storefront is the most popular and most advanced Frontend Platform for eCommerce](https://github.com/vuestorefront/vue-storefront)
+- [Opinionated template for starting new web applications with Ruby on Rails and Vue.js 3](https://github.com/ledermann/templatus)
 
 ### Opinion
 

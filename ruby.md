@@ -36,6 +36,7 @@
 - https://github.com/sandimetz/1st_99bottles_ruby
 - https://ruby-hacking-guide.github.io
 - https://github.com/andyw8/growing-rails-controllers
+- https://zenn.dev/ooooooo_q/books/rails_deserialize
 
 ### Cheat sheet
 
@@ -101,6 +102,7 @@
 
 ### Community
 
+- https://speakerdeck.com/eileencodes/the-success-of-rails-ensuring-growth-for-the-next-100-years
 - https://www.rubyandrails.info
 - https://rubyhunt.dev
 - [Whitelabel Site for Ruby Communities](https://github.com/phoet/on_ruby)
@@ -126,7 +128,7 @@
 - [Masataka Kuwabara](https://github.com/pocke/resume/blob/master/talks.md)
 - http://graysoftinc.com/my-heroes
 - [Contribute to Rails in a right way | Bogdan Gusiev](http://gusiev.com/slides/rails_contribution/static/#1)
-- Jonathan Gillette: https://youtu.be/DS5V37k1EP0?t=1292 + https://youtu.be/64anPPVUw5U + https://viewsourcecode.org/why + https://orgtheory.wordpress.com/2012/03/20/_why-aa-jonathan-gillette
+- Jonathan Gillette: https://youtu.be/DS5V37k1EP0?t=1292 + https://youtu.be/64anPPVUw5U + https://viewsourcecode.org/why + https://orgtheory.wordpress.com/2012/03/20/_why-aa-jonathan-gillette + https://twitter.com/_why
 - [Vonage gems](https://www.youtube.com/playlist?list=PLWYngsniPr_lOOJYHULE1rMtYNvmF-dDb)
 - [Yechiel Kalmenson](https://yechiel.me/projects)
 - https://www.youtube.com/c/RubyAustralia
@@ -153,6 +155,7 @@
 - https://akshaykhot.com/deploying-rails-like-2005
 - https://www.joyfulbikeshedding.com/blog/2021-01-06-the-future-of-traveling-ruby.html
 - https://www.johnhawthorn.com/2018/01/this-website-is-a-makefile
+- https://github.com/MikeRogers0/Talks/tree/master/slides/From-Heroku-To-Kubernetes
 
 ### Gem
 
@@ -212,6 +215,7 @@
 - https://github.com/YasuhiroYoshida/bikes_unlimited
 - https://github.com/taekeun/coding-practice
 - https://github.com/pjambet/redis-in-ruby
+- https://github.com/stars/ZilvinasKucinskas/lists/great-rails-example-projects
 
 
 ### Tool
@@ -252,6 +256,7 @@
 - [Setup System tests to work with RSpec, Devise and Rails 6](https://gist.github.com/boddhisattva/f14d2e860dcd2d45f805eb698b99605f)
 - https://github.com/zipmark/rspec_api_documentation
 - https://www.thomascountz.com/2018/03/07/testing-ruby-gets-puts
+- https://github.com/MikeRogers0/Talks/tree/master/slides/Seeding-Data-In-Ruby-On-Rails
 
 ### Radio
 
@@ -293,3 +298,4 @@
 - [Where is Ruby Headed in 2021?](https://news.ycombinator.com/item?id=29272682)
 - https://dev.to/sylwiavargas/why-do-you-love-ruby-actually-an-ode-5e7n
 - https://ryanbigg.com/2018/03/my-thoughts-on-hanami
+- [:: chunky bacon](http://code-anth.xyz/posts/3)

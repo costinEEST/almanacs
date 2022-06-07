@@ -294,6 +294,10 @@
 - https://storylearning.com/learn/spanish/spanish-tips + https://fluentspanishacademy.com/spanish-vault-membership-area + https://www.youtube.com/c/StoryLearningSpanish/playlists + https://youtu.be/U3HndX2QnSo + https://learn.storylearning.com/download-page-beginner15885486
 - https://www.amazon.com/Camila-S%C3%A1nchez/e/B077VSSXL7
 
+### Swedish
+
+- https://courses.minnalearn.com/fi/courses/regenfarming
+
 ### Tibetan
 
 - [Tibetan Language Channel](https://www.youtube.com/channel/UCBOk5M9QQKfjg3-5HFl8sxA/playlists)

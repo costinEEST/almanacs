@@ -51,6 +51,7 @@
 - https://www.udemy.com/course/learn-machine-learning-in-21-days
 - https://inst.eecs.berkeley.edu/~cs188/su21
 - https://github.com/rainyear/Oxford-Machine-Learning-Course-2015
+- https://github.com/kendricktan/non-overwhelming-machine-learning
 
 ### Cinema
 

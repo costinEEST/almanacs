@@ -78,6 +78,7 @@
 
 - [Test-Driven Development in React Native](https://www.youtube.com/playlist?list=PLXXnezSEtvNPZroRdvjhEVzOhURl572Lf)
 - https://github.com/matijagrcic/react-native/blob/main/Testing.md + https://twitter.com/wcandillon/status/1438763533303533568
+- https://emelkan.hashnode.dev/my-top-5-demo-apps-to-practice-software-testing
 
 ### Development
 

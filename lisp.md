@@ -6,6 +6,11 @@
 - https://twitter.com/lukego/status/632450443566780416
 - https://notes.eatonphil.com/book-review-ansi-common-lisp.html
 
+
+### Cinema
+
+- https://www.youtube.com/c/LondonClojurians/playlists
+
 ### Tool
 
 - https://github.com/atlas-engineer/nyxt + https://twitter.com/lukego/status/1372208366282539009
