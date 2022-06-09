@@ -135,6 +135,7 @@
 - https://medium.com/@nima-ahmadi/layout-animations-in-react-native-bee7644c13ae
 - https://medium.com/nerd-for-tech/react-native-two-important-lessons-i-learned-the-hard-way-3a524bbcef48
 - https://blog.jscrambler.com/how-to-handle-deep-linking-in-a-react-native-app
+- https://www.reactnativeschool.com/how-to-setup-path-alias-in-a-react-native-typescript-app
 
 ### Package
 

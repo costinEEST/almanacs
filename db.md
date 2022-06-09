@@ -54,6 +54,7 @@
 - [Ghostferry is a library that enables you to selectively copy data from one mysql instance to another with minimal amount of downtime](https://github.com/Shopify/ghostferry)
 - https://shopify.engineering/upgrading-mysql-shopify
 - [SQL Designer, your online SQL diagramming tool](https://github.com/ondras/wwwsqldesigner)
+- https://thomasjfrank.com/notion-databases-the-ultimate-beginners-guide + https://twitter.com/TomFrankly/status/1532771931073744897
 
 
 ### Hacks

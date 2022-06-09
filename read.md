@@ -43,6 +43,10 @@
 - https://www.lesswrong.com/posts/TxcRbCYHaeL59aY7E/meditations-on-moloch
 - https://www.radioromaniacultural.ro/timpul-prezent-in-literatura-simona-popescu-pentru-mine-aceasta-carte-a-fost-vindecatoare + https://www.facebook.com/ladouabufnite/videos/301240958554696 + https://www.facebook.com/ed.nemira/posts/5526913330658846 + https://gheorghecezar.podbean.com/e/ep-27-simona-popescu-partea-i + https://gheorghecezar.podbean.com/e/ep-28-simona-popescu-partea-a-ii-a
 
+### Science fiction (SF)
+
+- https://www.amazon.com/Origin-Stories-Evolution-Cognition-Fiction/dp/0674057112
+
 ### Review
 
 - [Nat Eliason](https://www.nateliason.com/notes)

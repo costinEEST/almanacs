@@ -24,6 +24,7 @@
 - [Serenity OS](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ/playlists)
 - https://www.freecodecamp.org/news/how-to-create-3d-and-2d-graphics-with-opengl-and-cpp
 - [TwitterSpaces | easyperf](https://www.youtube.com/playlist?list=PLRWO2AL1QAV4WK6O6cxyjWVJvbUVVLrQk)
+- https://patricia.no/learning_cpp.html
 
 ### Course
 

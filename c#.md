@@ -9,6 +9,7 @@
 - Writing parsers in C#: [video](https://www.youtube.com/watch?v=_yz1DRNpmPo) + [slides](https://www.slideshare.net/AlexeyGolub/alexey-golub-writing-parsers-in-c-3shape-meetup)
 - https://nuculabs.dev/2021/11/24/github-copilot-with-blazor
 - https://github.com/dotnet-presentations/dotnet-maui-workshop
+- https://patricia.no/learning_csharp.html
 
 ### Community
 

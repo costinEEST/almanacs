@@ -55,6 +55,7 @@
 - [Git hook is the new Husky](https://dev.to/krzysztofkaczy9/do-you-really-need-husky-247b)
 - https://www.joepurnell.dev/blog/git-stash-a-personal-reminder
 - https://remimercier.com/how-to-use-git-bisect
+- https://ashellunts.github.io/blog/03_git_commands_that_i_cant_remember.html
 
 ### Github
 
@@ -119,6 +120,7 @@
 - https://www.adrianbolonio.com/en/accessibility-github-actions
 - [A re-usable GitHub Actions CI workflow for verifying Rails apps](https://github.com/andyw8/setup-rails)
 - https://www.tomray.dev/deploy-nestjs-cloud-run
+- [Heroku Review Apps managed by GitHub Actions](https://gist.github.com/hopsoft/ac014e0efc7bfc1dbdb19ff7a66c5274)
 
 ### Tool
 

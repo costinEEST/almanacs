@@ -80,6 +80,7 @@
 ### Extensions
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
+- [JShelter controls the APIs provided by the browser, restricting the data that they gather and send out to websites](https://pagure.io/JShelter/webextension/tree/main)
 - [Identify technology on websites.](https://github.com/AliasIO/wappalyzer)
 - https://github.com/aeksco/react-typescript-chrome-extension-starter
 - https://robertheaton.com/2018/05/07/making-youtube-less-bad-for-you-using-css
@@ -233,6 +234,7 @@ javascript: (() =>
 - https://www.farai.xyz/notes/tech-tips/please-archive-content
 - https://github.com/ThomasOrlita/awesome-bookmarklets
 - [Script Kit. Automate Anything](https://github.com/johnlindquist/kit)
+- https://ryangjchandler.co.uk/posts/bookmarklets-you-should-definitely-be-using
 
 ### Chrome
 
@@ -366,6 +368,8 @@ javascript: (() =>
 
 ### Web Real-Time Communication (WebRTC)
 
+- https://github.com/adalkiran/webrtc-nuts-and-bolts
+- https://github.com/webrtc-for-the-curious/webrtc-for-the-curious
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeu5vBImsX2mMBacbomDrig
 - [WebRTC Boston](https://www.youtube.com/channel/UCOYrKr3E50aY5VhHey-MrzA/playlists)
 - [Anyone do much with WebRTC?](https://twitter.com/tannerlinsley/status/1220121545621700609)
