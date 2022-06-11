@@ -35,6 +35,7 @@
 ### Community
 
 - [Javascript R. Moldova](https://github.com/JSMD/meetups)
+- https://www.facebook.com/groups/cypresstestautomation
 
 ### Quirks
 

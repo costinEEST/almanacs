@@ -20,6 +20,7 @@
 - [Hacking Microcontroller Firmware through a USB](https://github.com/oct0xor/presentations/blob/master/2019-01-Hacking%20Microcontroller%20Firmware%20through%20a%20USB.pdf)
 - [Low Level PC/Server Attack & Defense — By @XenoKovah of @DarkMentorLLC](https://darkmentor.com/timeline.html) + https://gitlab.com/XenoKovah/low-level_security_timeline
 - https://www.driverentry.com + https://twitter.com/yarden_shafir/status/1437686447293747200
+https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 
 ### Course
 

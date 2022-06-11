@@ -41,6 +41,7 @@
 
 ### Book
 
+- https://www.programmingbooks.dev
 - http://www.adamtornhill.com/bookreviews.htm
 - https://github.com/97-things/97-things-every-programmer-should-know
 - [Concurrent Programming for Scalable Web Architectures](https://github.com/berb/diploma-thesis)
@@ -176,6 +177,7 @@
 - https://games.greggman.com/game/zip-rant
 - https://dev.to/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-3e0m
 - https://github.com/NLeSC/awesome-research-software-registries
+- https://iq.opengenus.org/array-indices-start-from-1
 
 ### Radio
 

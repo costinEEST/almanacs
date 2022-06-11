@@ -17,6 +17,7 @@
 - https://futurism.com/the-byte/quantum-charge-electric-cars
 - https://www.youtube.com/c/JulianIlett/playlists
 - https://www.bbc.com/future/article/20220511-can-gravity-batteries-solve-our-energy-storage-problems
+https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute
 
 ### Book
 
@@ -39,6 +40,7 @@
 
 ### Course
 
+- https://biochem.oregonstate.edu/content/biochemistry-free-and-easy + https://www.youtube.com/playlist?list=PLVnjTkEwv-uMN7iB8phOMLDV7TS9IuqtK
 - [24-643 Electrochemical Energy Storage Systems](https://www.andrew.cmu.edu/user/venkatv/24643/index.html)
 - [MIT 3.091SC Introduction to Solid State Chemistry, Fall 2010](https://www.youtube.com/playlist?list=PL36EC6A6180271B0F) + https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010
 - https://www.udemy.com/course/overview-of-aromatherapy

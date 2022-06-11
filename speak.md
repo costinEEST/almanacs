@@ -269,6 +269,7 @@
 - https://www.youtube.com/c/SpanishWithPaul/playlists
 - https://www.youtube.com/c/DreamingSpanish/playlists
 - https://www.mezzoguild.com/spanish-apps
+- https://www.zerotohero.ca/en/es/all-media
 - https://www.youtube.com/c/ChristianBurgosKorea/playlists
 - https://www.youtube.com/playlist?list=PLTpetkN815Qyuc2RbC1kxxMQvxjQ3RnYG
 - http://alexfru.narod.ru/lang/spanish/spanish.html
@@ -326,6 +327,7 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/russian.md
 - https://twitter.com/BeilinsonOrel/status/1278007873335894021
 - https://www.facebook.com/radu.umbres/posts/pfbid02DwLfpf5DFJ3iJ8WM8rwoEmxyiNveU5meorZK86Fkr76wzKKbTZRAWDsL4N8jNutCl
+- https://quizlet.com/Meged_Irina
 
 ### Rare
 

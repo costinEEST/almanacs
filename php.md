@@ -107,3 +107,4 @@
 - https://front-line-php.com/cheat-sheet
 - https://codereviewvideos.com/blog/my-setup
 - https://github.com/CatalinFrancu/coin-pusher
+- https://usefathom.com/blog/does-laravel-scale

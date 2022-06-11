@@ -129,6 +129,7 @@
 - [How amazing is it that GPS actually works?](https://twitter.com/martinkl/status/1524684941216395264)
 - https://xakcop.com/post/how-many-people
 
+
 ### 3G
 
 - https://twitter.com/matthew_d_green/status/1405169181880893447 + https://eprint.iacr.org/2021/819

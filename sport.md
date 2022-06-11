@@ -6,6 +6,10 @@
 
 - https://www.amazon.com/Garage-Gym-Athlete-Practical-Unleashing-ebook/dp/B01ETUPMYU
 
+### Climbing
+
+- https://www.outsideonline.com/culture/books-media/best-mount-everest-books-movies
+
 ### Cycling
 
 - https://www.euronews.com/travel/2022/05/19/slovenia-s-green-capitals-route-and-five-other-epic-european-bike-rides-to-try-this-summer 

@@ -6,6 +6,8 @@
 - [Learning Masterclass |  Ethan Schwandt - The Mind Map Guy](https://www.youtube.com/playlist?list=PLus5uUwK9fLFb9bykGTf4bLdqdtHVeNYN)
 - https://aliabdaal.com/stic-framework
 - https://www.lucalampariello.com/recommended-reading
+- [Polyglot : how I learn languages / Kató Lomb](https://www.tesl-ej.org/books/lomb-2nd-Ed.pdf) + http://cstrobbe.github.io/languagelearning
+- https://github.com/SAJForbes/HowtoTeachYourselfaForeignLanguage + https://sajforbes.nz/languageguide/How%20to%20Teach%20Yourself%20a%20Foreign%20Language.pdf
 
 ### Cinema
 

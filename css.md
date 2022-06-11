@@ -226,6 +226,7 @@
 - https://alistapart.com/article/designing-for-the-unexpected
 - https://noti.st/rachelandrew/3IBB4Z/css-layout-from-the-inside-out
 - [A collection of CSS snippets to help you do progressive enhancement in eBooks](https://github.com/FriendsOfEpub/eBookTricks)
+- https://foobartel.com/notes/css-contextual-spacing
 
 
 ### Tool

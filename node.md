@@ -551,6 +551,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [How I write backends.](https://github.com/fpereiro/backendlore)
 - https://github.com/IonicaBizau/learning-nodejs
 - [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) + https://www.youtube.com/c/TechDummiesNarendraL/playlists
+- https://github.com/InterviewReady/system-design-resources
 - [Scripting Languages I: Node.js, Python, PHP, Ruby](https://hyperpolyglot.org/scripting)
 - https://quanticdev.com/articles/automating-my-youtube-uploads-using-nodejs
 - https://github.com/snipcart/node-js-ecommerce-koajs

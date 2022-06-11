@@ -42,6 +42,7 @@
 - https://www.ftm.eu/articles/xiaomi-phones-spy-on-their-users
 - [Alibaba and Xiaomi: the downward spiral of surveillance capitalism | Gabi Cirlig](https://www.nohat.it/static/slides/alibaba_and_xiaomi_cirlig.pdf)
 - https://arstechnica.com/information-technology/2022/04/a-year-after-apple-enforces-app-tracking-policy-covert-ios-tracking-remains
+- [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
 
 ### Software
 
@@ -82,6 +83,7 @@
 - [Vytal shows you what traces your browser leaves behind while surfing the web](https://github.com/z0ccc/Vytal)
 - https://medium.com/@jeffgould/the-natural-history-of-gmail-data-mining-be115d196b10
 - https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it
+
 
 ### Techniques
 

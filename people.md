@@ -130,12 +130,18 @@
 
 ### John Collison
 
+- https://blakeir.com/notes/john-collison-stripe
+
+
 ### Jordan Peterson
 
 - https://github.com/azer/notebook/blob/master/maps-of-meaning.md
 - https://tim.blog/2021/03/01/jordan-peterson
 
-- https://blakeir.com/notes/john-collison-stripe
+
+### Laura Kövesi
+
+- https://www.spiegel.de/international/europe/europe-s-top-prosecutor-brings-in-more-money-than-she-spends-a-ce2edb60-53a7-42ce-9b13-5dc78ec6aa76 
 
 ### Patrick Collison
 

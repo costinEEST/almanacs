@@ -51,6 +51,7 @@
 - [It's almost time for my annual horror movie marathon](https://twitter.com/hasufl/status/1450856931590033412)
 - https://faroutmagazine.co.uk/the-20-greatest-horror-films-of-21st-century
 - https://en.wikipedia.org/wiki/Captain_Phillips_%28film%29
+- [R.M.N](https://www.libertatea.ro/entertainment/intalnire-multietnica-intensa-la-proiectia-filmului-lui-mungiu-in-harghita-4158454)
 
 ### Tools
 
