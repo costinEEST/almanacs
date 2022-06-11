@@ -259,6 +259,7 @@
 - https://github.com/zipmark/rspec_api_documentation
 - https://www.thomascountz.com/2018/03/07/testing-ruby-gets-puts
 - https://github.com/MikeRogers0/Talks/tree/master/slides/Seeding-Data-In-Ruby-On-Rails
+- https://kevinjmurphy.com/posts/testing-dependencies
 
 ### Radio
 

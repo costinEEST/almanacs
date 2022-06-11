@@ -40,7 +40,7 @@ https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-so
 
 ### Course
 
-- https://biochem.oregonstate.edu/content/biochemistry-free-and-easy + https://www.youtube.com/playlist?list=PLVnjTkEwv-uMN7iB8phOMLDV7TS9IuqtK
+- https://biochem.oregonstate.edu/content/biochemistry-free-and-easy + https://www.youtube.com/playlist?list=PLVnjTkEwv-uMN7iB8phOMLDV7TS9IuqtK + https://www.youtube.com/playlist?list=PL347B70A1CC0D91C6 + [A collection of Kevin Ahern's lectures for his BB 350 (Elementary Biochemistry) course at Oregon State University](https://www.youtube.com/playlist?list=PL74ED4174166F94A8)
 - [24-643 Electrochemical Energy Storage Systems](https://www.andrew.cmu.edu/user/venkatv/24643/index.html)
 - [MIT 3.091SC Introduction to Solid State Chemistry, Fall 2010](https://www.youtube.com/playlist?list=PL36EC6A6180271B0F) + https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010
 - https://www.udemy.com/course/overview-of-aromatherapy
