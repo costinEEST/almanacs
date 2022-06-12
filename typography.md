@@ -56,6 +56,7 @@
 - https://github.com/ryanoasis/nerd-fonts
 - [bitmapped fonts from disused operating systems and graphical user interfaces](https://github.com/robhagemans/hoard-of-bitfonts)
 - https://qodeinteractive.com/magazine/best-google-fonts
+- https://www.colorfonts.wtf
 
 ### History
 

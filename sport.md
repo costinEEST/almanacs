@@ -13,6 +13,7 @@
 ### Cycling
 
 - https://www.euronews.com/travel/2022/05/19/slovenia-s-green-capitals-route-and-five-other-epic-european-bike-rides-to-try-this-summer 
+- https://issuu.com/marianivan/docs/ghidulbiciclistului
 
 ### Golf
 

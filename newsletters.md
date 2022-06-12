@@ -204,6 +204,7 @@
 - [Alex Kondov](https://us2.campaign-archive.com/home/?u=fca75767fa83fa3473478b4ca&id=495bb9068f)
 - [Sébastien Lorber](https://www.getrevue.co/profile/thisweekinreact)
 - [Jess Martin](https://buttondown.email/jessmartin/archive) + https://twitter.com/jessmartin/status/1409591067960217606
+- [Tiffany B. Brown](https://us3.campaign-archive.com/home/?u=037a097fa1d20e54a1766eb27&id=8d41e6a106)
 
 ### Web performance
 
