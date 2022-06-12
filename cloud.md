@@ -86,6 +86,7 @@
 - [Rewrite of article-to-audio-cloud-function and generate-podcast-rss-cloud-function, in a functional style using TypeScript and fp-ts.](https://github.com/malob/serverless-tts-podcast)
 - https://github.com/idevelop/google-cloud-speech-webaudio
 - https://cloud.google.com/blog/topics/retail/shopify-and-google-cloud-team-up-for-an-epic-bfcm-weekend + https://twitter.com/igrigorik/status/1468712709914984451
+- [auditing Google Cloud using Google Sheets](https://github.com/somethingnew2-0/SimpleCSPM)
 
 ### IBM
 

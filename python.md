@@ -84,6 +84,7 @@
 - https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
 - https://github.com/dabeaz-course/practical-python
 - https://github.com/oz123/advanced-python
+- [Prelucrarea și vizualizarea datelor folosind Python, curs masteral @ TCSI, FSA, UPB](https://github.com/adimanea/pvdp-upb)
 
 ### Cinema
 

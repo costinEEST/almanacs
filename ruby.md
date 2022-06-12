@@ -13,6 +13,7 @@
 - [Turns feed data into an awesome API](https://github.com/davidesantangelo/dato.rss)
 - [A basic cURL wrapper around RubyGems.org API](https://github.com/davidesantangelo/curl-gems)
 - https://github.com/pat/render_api
+- https://ninoseki.github.io/2019/10/04/misp-rb.html
 
 
 ### Algorithm
@@ -92,6 +93,7 @@
 - [Ruby programming II | Dave Jones](https://www.youtube.com/playlist?list=PLSXDqiI4sC5O3fI2XzlXCfKiKx9ELnH4Q)
 - https://speakerdeck.com/jeg2/command-line-ruby
 - [Kevin Newton](https://kddnewton.com/speaking)
+- [Sundae Club - The First App - A website builder for YouTube & Twitch Channels - Ruby on Rails Livestreams](https://www.youtube.com/playlist?list=PL9ATwFdcJitzQvxRA9k_xtPywPo7rja6G) + https://github.com/Sundae-Club/sundaeclub
 
 ### Course
 
@@ -104,6 +106,7 @@
 ### Community
 
 - https://speakerdeck.com/eileencodes/the-success-of-rails-ensuring-growth-for-the-next-100-years
+- https://github.com/takahashim/ruby-history
 - https://www.rubyandrails.info
 - https://rubyhunt.dev
 - [Whitelabel Site for Ruby Communities](https://github.com/phoet/on_ruby)
@@ -150,6 +153,8 @@
 ### Demo
 
 - https://github.com/alisnic/rails-tik-tok-clone
+- [Virtual venue for RubyKaigi Takeout w/ Amazon IVS, Chime SDK for Messaging, Transcribe](https://github.com/ruby-no-kai/takeout-app)
+- https://github.com/bullet-train-co/bullet_train
 
 ### Deploy
 
@@ -157,11 +162,13 @@
 - https://www.joyfulbikeshedding.com/blog/2021-01-06-the-future-of-traveling-ruby.html
 - https://www.johnhawthorn.com/2018/01/this-website-is-a-makefile
 - https://github.com/MikeRogers0/Talks/tree/master/slides/From-Heroku-To-Kubernetes
+- https://www.stefanvermaas.com/2022/06/11/bridgetown-and-digital-ocean-apps
 
 
 ### Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems)
+- [A RubyGems plugin that compares versions of the given gem](https://github.com/fedora-ruby/gem-compare)
 - https://skryukov.github.io/rails/activeadmin/2020/09/29/an-unofficial-active-admin-guide.html
 - [Pure Ruby bit array/bitfield implementation](https://github.com/peterc/bitarray)
 - https://github.com/countries/country_select
@@ -178,6 +185,8 @@
 - [A cli to help managing a TIL repo](https://github.com/pjambet/til-rb)
 - https://github.com/deploy2/ruby-ip
 - [Java deserialization (ObjectIn/OutputStream) exploitation helper](https://github.com/hakivvi/ObjectPwnStream) + https://twitter.com/hakivvi/status/1530400121569128449
+- [Interact with REST services in an ActiveRecord-like manner](https://github.com/balvig/spyke)
+- [fix n+1 aggregate sql functions for rails](https://github.com/flyerhzm/eager_group)
 
 ### Internals
 
@@ -197,6 +206,7 @@
 - [Open3.pipeline](https://twitter.com/jankomarohnic/status/1506204038181892103)
 - https://ryanbigg.com/2019/03/ruby-trickery
 - [Ruby keyword arguments](https://etiennebarrie.github.io/ruby-kwargs)
+- [JSON parser with pattern matching](https://twitter.com/kddnewton/status/1535376098707378176)
 
 ### Pattern
 
@@ -238,7 +248,7 @@
 - https://kirillplatonov.com/posts/setting-up-cloudflare-tunnel-for-development + https://twitter.com/kirplatonov/status/1473892410828759040
 - https://github.com/shanehofstetter/rails-i18n-vscode
 - https://marketplace.visualstudio.com/items?itemName=andrewmcodes.rails-extension-power-pack
-
+- [keepgoing uses guard to auto-run your single-file Ruby script on changes](https://github.com/wolfgangrittner/keepgoing)
 
 ### Testing
 

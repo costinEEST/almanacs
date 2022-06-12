@@ -471,9 +471,11 @@
 - https://whistlr.info/2021/disposable-web-components
 - https://www.youtube.com/playlist?list=PLNqp92_EXZBJQ3015p9C7hqTDXH_WY57v
 - https://github.com/GoogleChromeLabs/dark-mode-toggle
+- https://github.com/markcellus/youtube-video-js
 
 ### Testing
 
+- https://joyofcode.xyz/test-your-site-in-every-browser
 - https://github.com/fireship-io/tdd-basics-project
 - https://github.com/umaar/learn-browser-testing
 - [End-to-end testing with NightwatchJS](https://www.youtube.com/playlist?list=PLHe-juD38yt4t38EsggDx2viWXz9Dc0OS)

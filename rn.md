@@ -22,6 +22,7 @@
 - [Rocket.Chat mobile clients](https://github.com/RocketChat/Rocket.Chat.ReactNative)
 - https://www.makeuseof.com/react-native-blockchain-apps
 - [Mattermost is an open source platform for secure collaboration across the entire software development lifecycle](https://github.com/mattermost/mattermost-mobile)
+- https://github.com/standardnotes/mobile
 
 ### Cinema
 

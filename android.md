@@ -104,6 +104,7 @@
 - https://github.com/prateekcode/AndroidEssentialLibraries
 - https://github.com/onmyway133/awesome-android-architecture
 - https://montemagno.com/goodbye-android-emulators-windows-subsytem-for-android-is-here
+- https://github.com/gfx/android-oss-best-practices
 
 ### Opinion
 

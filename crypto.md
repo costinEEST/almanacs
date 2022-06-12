@@ -38,6 +38,7 @@
 - https://github.com/iosifache/CryptographyProjects
 - https://github.com/cpeikert/TheoryOfCryptography
 - https://www.udemy.com/course/securite-cryptographie-concepts-avances-pki
+- https://github.com/adimanea/criptografie-upb
 
 ### Cinema
 

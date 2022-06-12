@@ -80,6 +80,8 @@
 ### Extensions
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
+- https://ninoseki.github.io/2020/05/16/browser-extension.html
+- [The browser extension framework](https://github.com/PlasmoHQ/plasmo)
 - [JShelter controls the APIs provided by the browser, restricting the data that they gather and send out to websites](https://pagure.io/JShelter/webextension/tree/main)
 - [Identify technology on websites.](https://github.com/AliasIO/wappalyzer)
 - https://github.com/aeksco/react-typescript-chrome-extension-starter
