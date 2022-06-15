@@ -82,6 +82,7 @@
 - https://nelsonslog.wordpress.com/2021/10/31/a-simple-systemd-unit-file
 - https://jvns.ca/blog/2017/09/03/network-interfaces
 - [eBPF-based tool for tracing network packets in the Linux kernel](https://github.com/cilium/pwru)
+- [Insight Is Gone From Ubuntu](https://www.contrapositivediary.com/?p=1396) + https://hackaday.com/2022/06/14/linux-fu-up-your-gdb-game
 
 ### Reference
 

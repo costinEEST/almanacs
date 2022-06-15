@@ -42,6 +42,7 @@
 ### Book
 
 - https://www.programmingbooks.dev
+- https://computingthehumanexperience.com/books
 - http://www.adamtornhill.com/bookreviews.htm
 - https://github.com/97-things/97-things-every-programmer-should-know
 - [Concurrent Programming for Scalable Web Architectures](https://github.com/berb/diploma-thesis)

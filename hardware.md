@@ -18,6 +18,8 @@
 - [The Pinouts Book is a quick reference for remembering the different pinout functions in your electronics projects](https://pinouts.org)
 - https://galaxy.opensyllabus.org/#!search/works/electronics
 - https://www.amazon.com/Understanding-Software-Addison-Wesley-Professional-Computing-ebook-dp-B09H5JB5HC/dp/B09H5JB5HC
+- [Make: The Annotated Build-It-Yourself Science Laboratory | Windell Oskay](https://www.adafruit.com/product/2560)
+- https://www.amazon.com/Open-Circuits-Beauty-Electronic-Components-ebook-dp-B09WJWGB34/dp/B09WJWGB34 + https://nostarch.com/open-circuits
 
 ### Cinema
 
@@ -33,6 +35,7 @@
 - [3D printing basics | Thomas Sanladerer](https://www.youtube.com/playlist?list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)
 - https://github.com/obensource/dev-resources/blob/master/classic-films.md
 - [FPGA computing systems: Background knowledge and introductor](https://www.youtube.com/playlist?list=PL2jykFOD1AWaFLEJm5H4GhRhPX_Ffi0wh)
+- [Open source low cost 3D printable nanopositioner | Edwin Hwu](https://www.youtube.com/playlist?list=PLu3g1bSKNvea5Te0lFSqtd8AIK4uVeLH7)
 
 ### Community
 
@@ -43,6 +46,7 @@
 - https://twitter.com/Siliconinsid
 - https://github.com/iiab/internet-in-a-box
 - [Louis Rossmann](https://www.youtube.com/user/rossmanngroup/playlists)
+- [Windell H. Oskay](https://www.evilmadscientist.com/category/engineering/basics)
 
 ### Course
 
