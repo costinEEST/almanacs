@@ -159,6 +159,7 @@
 - https://www.data-is-plural.com/archive
 - [Jer Thorp](https://tinyletter.com/blprnt/archive)
 - https://dataelixir.com
+- [Giuseppe Sollazzo](https://buttondown.email/puntofisso/archive)
 
 ### Databases
 
@@ -276,6 +277,7 @@
 - https://rubyradar.dev/#archive
 - [Noah Gibbs](https://us2.campaign-archive.com/home/?u=c5569fb6471a3e64be2aa1466&id=82afd59934)
 - https://womenonrails.substack.com/archive
+- [Arkency](https://us5.campaign-archive.com/home/?u=1bb42b52984bfa86e2ce35215&id=4cee302d8a)
 
 ### Politics
 

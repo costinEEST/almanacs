@@ -15,6 +15,7 @@
 - https://reasonio.teachable.com/p/aristotle-s-nicomachean-ethics-books-1-10
 - https://www.youtube.com/playlist?list=PLrAPUF78nSaiMzABSkygVBT30Y5aEezIt
 - https://aeon.co/essays/how-to-write-a-hollywood-blockbuster-with-aristotles-poetics
+- [Aristotle On The Moral Virtues](https://www.patreon.com/posts/new-online-67824322)
 
 ### Aaron Swartz
 

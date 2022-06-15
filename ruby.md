@@ -1,6 +1,7 @@
 ### Authorization
 
 - https://github.com/ChrisBr/oauth2-sample-app
+- [Best Gems for authentication and authorization in Ruby on Rails applications](https://twitter.com/raf_piek/status/1502598704334733314)
 
 ### API
 
@@ -38,6 +39,7 @@
 - https://ruby-hacking-guide.github.io
 - https://github.com/andyw8/growing-rails-controllers
 - https://zenn.dev/ooooooo_q/books/rails_deserialize
+- https://products.arkency.com
 
 ### Cheat sheet
 
@@ -152,9 +154,12 @@
 
 ### Demo
 
+- https://github.com/redmine/redmine
 - https://github.com/alisnic/rails-tik-tok-clone
 - [Virtual venue for RubyKaigi Takeout w/ Amazon IVS, Chime SDK for Messaging, Transcribe](https://github.com/ruby-no-kai/takeout-app)
 - https://github.com/bullet-train-co/bullet_train
+- https://github.com/gitlabhq/gitlabhq
+- [Application with CQRS and Event Sourcing built on Rails and Rails Event Store](https://github.com/RailsEventStore/ecommerce)
 
 ### Deploy
 
@@ -163,7 +168,7 @@
 - https://www.johnhawthorn.com/2018/01/this-website-is-a-makefile
 - https://github.com/MikeRogers0/Talks/tree/master/slides/From-Heroku-To-Kubernetes
 - https://www.stefanvermaas.com/2022/06/11/bridgetown-and-digital-ocean-apps
-
+- https://blog.arkency.com/dont-waste-your-time-on-assets-compilation-on-heroku
 
 ### Gem
 
@@ -207,6 +212,7 @@
 - https://ryanbigg.com/2019/03/ruby-trickery
 - [Ruby keyword arguments](https://etiennebarrie.github.io/ruby-kwargs)
 - [JSON parser with pattern matching](https://twitter.com/kddnewton/status/1535376098707378176)
+- [ Comparing MRI and JRuby](https://thebackend.dev/jruby)
 
 ### Pattern
 
@@ -249,6 +255,7 @@
 - https://github.com/shanehofstetter/rails-i18n-vscode
 - https://marketplace.visualstudio.com/items?itemName=andrewmcodes.rails-extension-power-pack
 - [keepgoing uses guard to auto-run your single-file Ruby script on changes](https://github.com/wolfgangrittner/keepgoing)
+- https://github.com/arkency/heroku-buildpack-ruby-monorepo
 
 ### Testing
 
@@ -297,6 +304,7 @@
 ### Static generator
 
 - https://github.com/ciconia/noteflakes.com
+- https://github.com/pawelpacana/nanoc-github
 
 ### Opinion
 

@@ -1,10 +1,11 @@
-### Courses
+### Course
 
 - [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
 - https://twitter.com/undertheraedar/status/1240191782790496256
 
-### Demos
+### Demo
 
+- https://wardle.puntofisso.net
 - [A Web-based map of timezones as they are at a point in time. ](https://github.com/dbaron/timezone-map)
 - https://github.com/cedmax/flags
 - [Simple apps made with ArcGIS API for JavaScript](https://github.com/RalucaNicola/JSAPI_demos)

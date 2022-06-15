@@ -103,6 +103,7 @@
 - [sicap.ai: Motor de cautare pentru contrctele de achizitii publice](https://github.com/ciocan/sicap.ai)
 - https://github.com/prathyvsh/knowledge-atlases
 - https://github.com/philss/brazil-in-notebooks
+- https://thebackend.dev/building-monarchs + https://www.youtube.com/watch?v=1VVHZnZEWGE + https://github.com/mzemel/monarchs + https://www.data-is-plural.com/archive/2019-06-19-edition + https://www.data-is-plural.com/archive/2022-06-15-edition
 
 ### Miscellaneous
 
