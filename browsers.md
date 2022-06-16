@@ -214,6 +214,7 @@
 - https://github.com/jemmaissroff/natgeo-chrome-extension
 - [Test your fonts across the web by easily overriding fonts on any webpage](https://github.com/arrowtype/type-x)
 - https://github.com/ansh/bionic-reading
+- https://github.com/elight/slack_emoticon_inhaler
 
 ### Bookmarklets
 

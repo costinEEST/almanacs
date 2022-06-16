@@ -160,6 +160,9 @@
 - https://github.com/bullet-train-co/bullet_train
 - https://github.com/gitlabhq/gitlabhq
 - [Application with CQRS and Event Sourcing built on Rails and Rails Event Store](https://github.com/RailsEventStore/ecommerce)
+- [A full example of a collaborative text editor written in Rails and JavaScript](https://github.com/aha-app/collaborative-demo)
+- [feedyour.email lets you send newsletters to your feed reader by generating an email address that aggregates messages into an Atom feed](https://github.com/indirect/feedyour.email)
+- https://github.com/eliotsykes/real-world-rails
 
 ### Deploy
 
@@ -169,6 +172,7 @@
 - https://github.com/MikeRogers0/Talks/tree/master/slides/From-Heroku-To-Kubernetes
 - https://www.stefanvermaas.com/2022/06/11/bridgetown-and-digital-ocean-apps
 - https://blog.arkency.com/dont-waste-your-time-on-assets-compilation-on-heroku
+- https://github.com/pacuna/rails-on-docker-ebook + https://github.com/pacuna/deploying-rails-with-kubernetes + https://github.com/pacuna/searchapp
 
 ### Gem
 
@@ -192,6 +196,7 @@
 - [Java deserialization (ObjectIn/OutputStream) exploitation helper](https://github.com/hakivvi/ObjectPwnStream) + https://twitter.com/hakivvi/status/1530400121569128449
 - [Interact with REST services in an ActiveRecord-like manner](https://github.com/balvig/spyke)
 - [fix n+1 aggregate sql functions for rails](https://github.com/flyerhzm/eager_group)
+- https://github.com/s2k/check-bundler-versions
 
 ### Internals
 
@@ -277,6 +282,8 @@
 - https://www.thomascountz.com/2018/03/07/testing-ruby-gets-puts
 - https://github.com/MikeRogers0/Talks/tree/master/slides/Seeding-Data-In-Ruby-On-Rails
 - https://kevinjmurphy.com/posts/testing-dependencies
+- https://github.com/eliotsykes/rspec-rails-examples
+- https://github.com/eliotsykes/rails-testing-toolbox
 
 ### Radio
 

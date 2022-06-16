@@ -239,6 +239,7 @@
 - https://macwright.org/2020/02/14/math-keeps-changing.html
 - https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library
 - https://apechkurov.medium.com/v8-deep-dives-random-thoughts-on-math-random-fb155075e9e5
+- [Create a random JavaScript string in different bases](https://twitter.com/freddyb/status/1529572995374645249)
 
 ### default arguments
 

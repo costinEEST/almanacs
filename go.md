@@ -109,6 +109,7 @@
 ־ [Is there a good type-preserving typescript/ecamscript parser written in golang?](https://twitter.com/kdy1dev/status/1484428024187523073)
 - [jq for binary formats](https://github.com/wader/fq)
 - [HTTPLabs let you inspect HTTP requests and forge responses](https://github.com/qustavo/httplab)
+- https://github.com/kirillshevch/raindrop_to_notion
 
 ### Radio
 
