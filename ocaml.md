@@ -1,7 +1,12 @@
 ### Book
 
-- https://dev.realworldocaml.org
+- https://github.com/realworldocaml/book
 - https://github.com/bobzhang/ocaml-book
+- [OCaml Programming: Correct + Efficient + Beautiful](https://github.com/cs3110/textbook)
+
+### Cheatsheet
+
+- https://github.com/ianthehenry/ocamlsyntax.com
 
 ### Practice
 

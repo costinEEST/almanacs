@@ -16,6 +16,7 @@
 
 - http://emacslife.com/emacs-chats/chat-bozhidar-batsov.html
 - https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs
+- https://github.com/alphapapa/emacs-package-dev-handbook
 
 ### Miscellaneous
 
@@ -35,3 +36,4 @@
 - https://leanpub.com/emacs-org-leanpub
 - https://leanpub.com/lit-config
 - https://rebeja.eu/posts/python-ide-with-emacs-and-docker
+- https://github.com/misohena/el-easydraw

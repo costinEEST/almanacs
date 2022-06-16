@@ -34,6 +34,7 @@
 ### Boilerplate
 
 - https://github.com/UnlyEd/next-right-now
+- https://github.com/hgraca/explicit-architecture-reactjs
 - https://github.com/nice-boys/product-boilerplate
 - https://github.com/dasmata/styleguide
 - [Folder structure](https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346)
@@ -307,6 +308,7 @@
 - https://sergiodxa.com/articles/share-session-and-cookies-between-next-and-remix
 - https://github.com/brianlovin/briOS
 - [Rallly is a free group meeting scheduling tool – built with Next.js, Prisma & TailwindCSS](https://github.com/lukevella/rallly)
+- [Developer directory built on @Nextjs, @MongoDB and @Vercel](https://twitter.com/steventey/status/1537116400875057152)
 
 ### Remix
 

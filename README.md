@@ -153,6 +153,7 @@
 
 - [Charlike Mike Reagent](https://github.com/tunnckoCore/resources)
 - [Daniel Sundermeier](https://github.com/danielsundermeier/knowledge)
+- [Guilherme Almeida](https://github.com/noghartt/garden)
 - [Jakob Cosoroabă](https://github.com/jcsrb/til)
 - [Kasper Zutterman](https://github.com/KasperZutterman/Second-Brain)
 - [Richard Littauer](https://github.com/RichardLitt/meta-knowledge)

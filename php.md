@@ -44,6 +44,7 @@
 ### Reference
 
 - https://github.com/smknstd/modern-php-cheatsheet
+- https://github.com/hgraca/explicit-architecture-php
 
 ### Tool
 

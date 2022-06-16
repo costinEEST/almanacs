@@ -47,6 +47,7 @@
 - [Geometry & Art: How Mathematics Transformed Art During the Renaissance by David G. Wade](https://www.goodreads.com/review/show/3902871925)
 - [Books on Islamic Geometry & related topics](https://www.samiramian.uk/books)
 - [Discrete Mathematics for Computer Science](https://github.com/alexanderskulikov/discrete-math-python-scripts)
+- https://github.com/ImperialCollegeLondon/formalising-mathematics
 
 ### Course
 

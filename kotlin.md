@@ -1,6 +1,7 @@
 ### Book
 
 - https://www.raywenderlich.com/books/kotlin-apprentice
+- https://github.com/andygrove/how-query-engines-work
 
 ### Cinema
 

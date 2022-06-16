@@ -58,6 +58,7 @@
 - [Student's Guide to Physical Modeling with MATLAB](https://github.com/NelsonUpenn/PMLS-MATLAB-Guide)
 - https://julie-blanc.fr/en/blog/2021-04-16_hackathon-pagedjs
 - [Self-Publishing via Markdown](https://gist.github.com/caseywatts/3d8150fe04e0d8462cfc4d51b9856d39)
+- https://christitus.com/obsidian
 
 ### Miscellaneous
 

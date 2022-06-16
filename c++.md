@@ -33,6 +33,7 @@
 - https://github.com/harrisrobin/Udacity-CPlusPlus-Nanodegree
 - https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin
 - https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language
+- [Advanced Functional Programming at the University of Strathclyde](https://github.com/pigworker/CS410-17)
 
 ### Compiler
 

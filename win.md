@@ -49,6 +49,7 @@
 - https://nelsonslog.wordpress.com/2021/09/09/scripting-windows-sound-and-display-settings
 - https://github.com/xelemental/Mind-Maps/tree/main/Windows
 - https://ahal.ca/blog/2021/mozilla-build-windows-terminal
+- https://github.com/farag2/Sophia-Script-for-Windows
 
 
 ### Powershell

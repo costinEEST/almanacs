@@ -28,6 +28,7 @@
 - https://www.amazon.com/Battle-Wits-Complete-Story-Codebreaking/dp/0743217349
 - https://www.amazon.com/Memoirs-American-Cryptologic-Pioneer-Cryptography/dp/0894122738
 - [An Intensive Introduction to Cryptography | Boaz Barak](https://github.com/boazbk/crypto) + https://cnchou.github.io/resources
+- [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/johsilve/MathCryptoHome.html)
 
 ### Course
 
