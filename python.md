@@ -152,6 +152,7 @@
 
 ### Scraping
 
+- https://levelup.gitconnected.com/developing-a-website-scraper-b7a78bb5544a
 - https://scrapism.lav.io + https://www.youtube.com/playlist?list=PLKDFNm2PsaCed7FP0uN5d2qWBAiJ0R7c9
 - https://github.com/Adithya93/webScraping
 - [Powerful and flexible Instagram scraping library for Python, providing easy-to-use and expressive tools for accessing data programmatically](https://github.com/chris-greening/instascrape)

@@ -1,9 +1,21 @@
 ### Books
 
+- https://youtu.be/Uf6eP3Qe68s
+- https://www.amazon.com/Java-Absolute-Beginners-Fundamentals-Programming/dp/1484270797
+- https://www.amazon.com/Spring-Start-Here-Learn-learn-dp-1617298697/dp/1617298697
 - https://github.com/preslavmihaylov/booknotes/tree/master/java/java-concurrency-in-practice
 - [Java Programming for Kids](http://yfain.github.io/Java4Kids)
 - [Grokking the Java Interview](https://javinpaul.gumroad.com/l/QqjGH)
 - https://github.com/Nitin96Bisht/Java-Books
+- https://blogs.oracle.com/javamagazine/post/junit-in-action-third-edition
+
+### Cinema
+
+- https://www.youtube.com/c/LaurentiuSpilca/playlists
+- https://github.com/hellerve/programming-talks#java--android
+- [Comparing programming languages | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYhKCP2zuXqe2ubiXab5az36)
+- [build a basic translation platform using Java, Springboot, TypeScript, React and MYSQL | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYjWVQi6oyf332N4R7ZG-AOS)
+- https://www.youtube.com/c/JavaChallengers/playlists
 
 ### Course
 
@@ -32,6 +44,12 @@
 - https://github.com/anthonynsimon/java-ds-algorithms
 - https://github.com/kdn251/interviews
 
+
+### Development
+
+- https://github.com/ThomasVitale/devtalks-2022-serverless-java + https://speakerdeck.com/thomasvitale/serverless-java-with-spring-boot
+
+
 ### Tool
 
 - [Google Reader inspired self-hosted RSS reader.](https://github.com/Athou/commafeed)
@@ -40,13 +58,6 @@
 - [Java-based desktop text editor with live preview, string interpolation, and formulas](https://github.com/DaveJarvis/keenwrite)
 - https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html
 - [IntelliJ IDEA Developer Guide](https://amigoscode.com/courses/enrolled/667200)
-
-### Cinema
-
-- https://github.com/hellerve/programming-talks#java--android
-- [Comparing programming languages | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYhKCP2zuXqe2ubiXab5az36)
-- [build a basic translation platform using Java, Springboot, TypeScript, React and MYSQL | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYjWVQi6oyf332N4R7ZG-AOS)
-- https://www.youtube.com/c/JavaChallengers/playlists
 
 ### Security
 

@@ -12,6 +12,10 @@
 - [Web Audio Conf](https://www.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw/playlists)
 - [Building Collaborative Music Apps](https://www.youtube.com/watch?v=TCVuLh5Io9A)
 
+### Development 
+
+- https://medium.com/programming-for-music/introduction-to-audio-programming-8b9e7ecdeaea
+
 ### Reference
 
 - https://divu.in/music-theory-and-generation-13965ba83eb9

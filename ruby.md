@@ -40,6 +40,8 @@
 - https://github.com/andyw8/growing-rails-controllers
 - https://zenn.dev/ooooooo_q/books/rails_deserialize
 - https://products.arkency.com
+- https://github.com/pmatsinopoulos/my_books/blob/main/Full%20Stack%20Web%20Developer/11%20-%20Programming%20with%20Ruby/full-stack-web-developer-part-xi-programming-with-ruby.pdf
+- [Reading the book Modern Front-End Development for Rails (Turbo, Stimulus and React)](https://github.com/pmatsinopoulos/reading_modern_front_end_dev_for_rails)
 
 ### Cheat sheet
 
@@ -239,6 +241,7 @@
 - https://github.com/taekeun/coding-practice
 - https://github.com/pjambet/redis-in-ruby
 - https://github.com/stars/ZilvinasKucinskas/lists/great-rails-example-projects
+- https://levelup.gitconnected.com/ensure-file-integrity-when-uploading-a-file-to-a-remote-server-552b7ccb1f3d
 
 
 ### Tool
