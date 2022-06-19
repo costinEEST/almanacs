@@ -48,6 +48,7 @@
 - https://britcruise.com/2021/12/10/the-launch-of-story-xperiential-2
 - https://github.com/beardicus/awesome-plotters
 - https://github.com/jasonwebb/morphogenesis-resources
+- https://github.com/tombetthauser/watercolor-basics
 
 ### Miscellaneous
 

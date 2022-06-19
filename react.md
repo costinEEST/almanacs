@@ -340,6 +340,7 @@
 - [ Easily migrate your existing React codebase to use i18n](https://github.com/sibelius/ast-i18n)
 - [A React component to make correcting automated transcriptions of audio and video easier and faster.](https://github.com/bbc/react-transcript-editor)
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/internationalization.md
+- https://github.com/danilowoz/react-content-loader
 
 ### Debugging
 

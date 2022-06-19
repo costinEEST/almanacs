@@ -132,6 +132,7 @@
 - https://www.argent.xyz/blog/tag/newsletter
 - [Bruno Škvorc](https://news.nft.review/archive)
 - https://www.getrevue.co/profile/useWeb3
+- https://a16zcrypto.substack.com/archive
 
 ### Investing
 
@@ -206,6 +207,7 @@
 - [Sébastien Lorber](https://www.getrevue.co/profile/thisweekinreact)
 - [Jess Martin](https://buttondown.email/jessmartin/archive) + https://twitter.com/jessmartin/status/1409591067960217606
 - [Tiffany B. Brown](https://us3.campaign-archive.com/home/?u=037a097fa1d20e54a1766eb27&id=8d41e6a106)
+- [Joe Previte](https://www.getrevue.co/profile/jsjoeio)
 
 ### Web performance
 

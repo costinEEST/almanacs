@@ -123,6 +123,7 @@
 - https://nkanaev.github.io/posts/polyglot
 - https://github.com/judy2k/stupid-python-tricks
 - https://smarx.com/posts/2020/12/memoization-in-one-line-of-python
+- [Cursed operators](https://twitter.com/gynvael/status/1538125070987567104)
 
 ### Reference
 

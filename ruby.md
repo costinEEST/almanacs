@@ -15,12 +15,15 @@
 - [A basic cURL wrapper around RubyGems.org API](https://github.com/davidesantangelo/curl-gems)
 - https://github.com/pat/render_api
 - https://ninoseki.github.io/2019/10/04/misp-rb.html
+- https://github.com/gocardless/companies-house-rest
+- https://github.com/jameschambers/boring-bits-rails-api
 
 
 ### Algorithm
 
 - https://github.com/kanwei/algorithms
 - https://github.com/TheAlgorithms/Algorithms-Explanation + https://github.com/TheAlgorithms/Ruby
+- https://github.com/brianstorti/ruby-graph-algorithms
 
 
 ### Book
@@ -64,6 +67,7 @@
 - https://github.com/jwworth/til/tree/master/ruby
 - https://github.com/sandipsubedi/notes_ruby_on_rails
 - https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
+- https://github.com/davidgf/design-patterns-in-ruby
 
 ### Cinema
 
@@ -98,6 +102,7 @@
 - https://speakerdeck.com/jeg2/command-line-ruby
 - [Kevin Newton](https://kddnewton.com/speaking)
 - [Sundae Club - The First App - A website builder for YouTube & Twitch Channels - Ruby on Rails Livestreams](https://www.youtube.com/playlist?list=PL9ATwFdcJitzQvxRA9k_xtPywPo7rja6G) + https://github.com/Sundae-Club/sundaeclub
+- https://github.com/i0rek/frozenrails-notes
 
 ### Course
 
@@ -246,6 +251,7 @@
 - https://github.com/stars/ZilvinasKucinskas/lists/great-rails-example-projects
 - https://levelup.gitconnected.com/ensure-file-integrity-when-uploading-a-file-to-a-remote-server-552b7ccb1f3d
 - https://katafrakt.me/2017/05/30/processing-large-amount-of-data-in-ruby
+- https://github.com/KjarrigansGames/advent-of-code
 
 
 ### Tool
@@ -291,6 +297,8 @@
 - https://kevinjmurphy.com/posts/testing-dependencies
 - https://github.com/eliotsykes/rspec-rails-examples
 - https://github.com/eliotsykes/rails-testing-toolbox
+- https://github.com/testdouble/cypress-rails
+- https://github.com/citizensadvice/capybara_accessible_selectors
 
 ### Radio
 

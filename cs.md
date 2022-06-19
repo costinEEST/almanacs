@@ -17,12 +17,14 @@
 - [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided) + https://news.ycombinator.com/item?id=25386756
 - https://www.sofiaceli.com/2020/06/05/programming-language-design-and-compilers.html
 
-### Courses
+### Course
 
 - [Software Security is a Programming Languages Issue](http://www.pl-enthusiast.net/2018/08/13/security-programming-languages-issue/)
 - http://www.auxy.xyz/note/2019/05/01/PA-Note.html + https://github.com/Auxy233/program-analysis-note
 - [Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30) + [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/en/book/show/530415) + https://jamesclear.com/great-speeches/learning-to-learn-by-richard-hamming
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
+- https://github.com/mvillaloboz/open-source-cs-degree
+- https://github.com/ddd-crew/free-ddd-learning-resources
 
 ### Cinema
 

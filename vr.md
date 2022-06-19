@@ -22,6 +22,7 @@
 - [Dragos Silion](https://twitter.com/silidragos)
 - https://github.com/tobiasbueschel/awesome-WebAR
 - https://github.com/Nickersoft/awesome-careers#3d-designer
+- https://www.facebook.com/palmer.luckey
 
 ### Cinema
 

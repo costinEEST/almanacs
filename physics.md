@@ -16,6 +16,7 @@
 - [Unearthing Fermi’s Geophysics | Gino C. Segrè and John D. Stack](https://press.uchicago.edu/ucp/books/book/chicago/U/bo113867788.html)
 - https://www.amazon.com/Particle-Physics-Short-Introduction-Introductions-ebook-dp-B003CI90VC/dp/B003CI90VC
 - https://www.amazon.com/Field-Guide-Radiation-Wayne-Biddle-ebook/dp/B0072NWIQ2
+- https://www.amazon.com/General-Relativity-Theoretical-Leonard-Susskind-dp-1541601777/dp/1541601777 + https://twitter.com/curiouswavefn/status/1538300558724845568
 
 ### Cinema
 

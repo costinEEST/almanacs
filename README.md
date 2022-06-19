@@ -37,6 +37,7 @@
 - [Computer networking](networking.md)
 - [Computer science](cs.md)
 - [Cryptography](crypto.md)
+- [Crystal](crystal.md)
 - [curl](curl.md)
 - [Data visualization](dataviz.md)
 - [Databases](db.md)

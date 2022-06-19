@@ -9,6 +9,7 @@
 - https://stackoverflow.com/questions/48198/how-can-you-find-out-which-process-is-listening-on-a-port-on-windows
 - https://github.com/shayne/wsl2-hacks
 - https://github.com/binarymist/command-line/blob/master/windows.md
+- https://github.com/you-dont-need/You-Dont-Need-GUI
 
 ### Cinema
 

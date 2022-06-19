@@ -312,6 +312,7 @@
 - https://www.mauriciopoppe.com/notes/computer-science/computation/promises
 - https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch
 - https://philbooth.me/blog/back-off-and-retry-using-javascript-arrays-and-promises
+- [new Promise(() => {})](https://twitter.com/antonmedv/status/1534988570955595781)
 
 ### async await
 

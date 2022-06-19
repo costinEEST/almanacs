@@ -122,6 +122,7 @@
 - [What's your favorite kubernetes yaml generator?](https://twitter.com/bgrant0607/status/1486723822606712839)
 - https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex
 - [Grasping Kubernetes Networking (Mega Thread)](https://twitter.com/iximiuz/status/1426926884508643331)
+- https://kubernetesinpractice.com/kubernetes-in-practice-sample.pdf
 
 ### Servers
 
@@ -170,6 +171,7 @@
 - [GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser](https://github.com/allinurl/goaccess)
 - https://nelsonslog.wordpress.com/2021/12/07/influxdb-1-8-schemas
 - https://github.com/UNIBUC-PROD-ENGINEERING/monitoring
+- https://www.packt.com/product/cloud-and-networking/b17157-cloud-native-observability-with-opentelemetry
 
 ### Vagrant
 

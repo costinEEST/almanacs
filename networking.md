@@ -18,6 +18,7 @@
 * https://media.ccc.de/v/denog13-12067-enhancing-ping-and-traceroute
 * https://github.com/lololosys/awesome-baseband-research
 * [10 Gigabit Home LAN](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ61KhM14oJMY1TiI5tU4txd)
+* [Mike Dinn about his time as Station Director of the Honeysuckle Creek tracking station that helped land humans on the moon](https://twitter.com/cliffordheath/status/1529420879742267392)
 
 ### Book
 

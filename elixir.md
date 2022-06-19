@@ -17,3 +17,4 @@
 - https://github.com/seven1m/30-days-of-elixir
 - https://alchemist.camp/start
 - https://cri.dev/posts/2021-03-03-learn-elixir-study-path
+- https://github.com/lucasvegi/Elixir-Code-Smells
