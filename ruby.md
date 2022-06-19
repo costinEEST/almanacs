@@ -147,6 +147,7 @@
 - https://www.youtube.com/c/RubyAustralia
 - [Ilya Bylich](https://github.com/iliabylich/iliabylich.github.io/tree/master/_posts)
 - [Vladislav Trotsenko](https://www.codewars.com/users/bestwebua)
+- Jörn Schneeweisz: https://code-audit-training.gitlab.io, https://0day.click/page/references
 
 ### Debug
 

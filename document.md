@@ -33,3 +33,4 @@
 
 - https://github.com/corkami/docs
 - https://ceres-c.it/2021/11/21/DRM-reversing
+- https://i.blackhat.com/EU-21/Wednesday/EU-21-Franken-How-Your-Ebook.pdf
