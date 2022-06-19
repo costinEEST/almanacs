@@ -19,6 +19,7 @@
 ### Reference
 
 - https://gitexplorer.com
+- https://katafrakt.me/2017/05/27/beyond-git
 - https://github.com/binarymist/command-line/blob/master/git.md
 - [2 useful Git CLI tips for code review](https://twitter.com/danburzo/status/1200022067044859905)
 - https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk

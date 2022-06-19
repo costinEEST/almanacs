@@ -17,6 +17,7 @@
 - https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312
 - https://keonigandall.com/pages/recommendations.html
 - https://www.amazon.com/Random-Walks-Biology-Howard-Berg/dp/0691000646
+- https://www.worldcat.org/title/dictionar-de-termeni-biotehnologici/oclc/895285913
 
 ### Course
 

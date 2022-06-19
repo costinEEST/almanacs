@@ -243,6 +243,10 @@
 
 - https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970
 
+### Theodor Paleologu
+
+- https://www.hotnews.ro/stiri-politic-5860775-experimentul-paleologu.htm
+
 ### Thomas Aquinas
 
 - https://twitter.com/curiouswavefn/status/1453030427980025863

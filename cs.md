@@ -93,6 +93,7 @@
 - [main thread IO](https://mikeconley.ca/blog/2019/05/16/a-few-words-on-main-thread-disk-access-for-general-audiences)
 - https://increment.com/software-architecture/primer-on-functional-architecture
 - https://nelsonslog.wordpress.com/2021/09/25/time-zones-that-are-utc
+- https://katafrakt.me/2016/07/06/regular-expressions
 
 ### Interview
 

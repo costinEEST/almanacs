@@ -174,6 +174,7 @@
 - https://divyendusingh.com/german/learn
 - https://blog.nina.coffee/2018/08/27/all_nature_method_books.html
 - https://vivariumnovum.it/risorse-didattiche/propria-formazione/metodo-diretto-applicato-alle-lingue-moderne
+- https://language-intense.ro/vasile-ioana
 
 ### Greek
 
@@ -190,6 +191,7 @@
 - https://www.lucalampariello.com/language-learning-resources/#tve-jump-1760460354b
 - https://twitter.com/BeilinsonOrel/status/1278007877521870848
 - https://www.orelbeilinson.com/language-textbooks
+- [Dicționar geografic român-maghiar | Székely Győző](https://www.scribd.com/doc/131004043/Dictionar-Geografic-Roman-maghiar)
 
 ### Hindi
 

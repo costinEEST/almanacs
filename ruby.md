@@ -143,7 +143,7 @@
 - [Ilya Bylich](https://github.com/iliabylich/iliabylich.github.io/tree/master/_posts)
 - [Vladislav Trotsenko](https://www.codewars.com/users/bestwebua)
 
-### Debugging
+### Debug
 
 - [bundle open rails](https://twitter.com/getajobmike/status/1343273147869450240)
 - https://www.jakeworth.com/how-to-read-a-stack-trace
@@ -153,8 +153,9 @@
 - https://ryanbigg.com/2013/06/finding-sql-queries-in-rails
 - https://twitter.com/bernardo_amc/status/1169338542813827073 + https://github.com/bernardoamc/ruby_debugging
 - https://speakerdeck.com/damir/a-tool-belt-of-a-seasond-bug-hunter
+- https://katafrakt.me/2020/05/03/understanding-ruby-app-with-profiling
 
-### Demo
+### Inspire
 
 - https://github.com/redmine/redmine
 - https://github.com/alisnic/rails-tik-tok-clone
@@ -219,7 +220,9 @@
 - https://ryanbigg.com/2019/03/ruby-trickery
 - [Ruby keyword arguments](https://etiennebarrie.github.io/ruby-kwargs)
 - [JSON parser with pattern matching](https://twitter.com/kddnewton/status/1535376098707378176)
-- [ Comparing MRI and JRuby](https://thebackend.dev/jruby)
+- [Comparing MRI and JRuby](https://thebackend.dev/jruby)
+- https://dmitrytsepelev.dev/attr-accessor-in-ruby
+- https://katafrakt.me/2018/06/06/hidden-jewels-ruby-stdlib
 
 ### Pattern
 
@@ -242,6 +245,7 @@
 - https://github.com/pjambet/redis-in-ruby
 - https://github.com/stars/ZilvinasKucinskas/lists/great-rails-example-projects
 - https://levelup.gitconnected.com/ensure-file-integrity-when-uploading-a-file-to-a-remote-server-552b7ccb1f3d
+- https://katafrakt.me/2017/05/30/processing-large-amount-of-data-in-ruby
 
 
 ### Tool

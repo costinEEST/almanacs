@@ -286,6 +286,7 @@
 - https://inquisitivebiologist.com/2022/02/25/book-review-finding-the-mother-tree-uncovering-the-wisdom-and-intelligence-of-the-forest
 - [ֻFungal tree of life | László Nagy Laboratory](http://group.szbk.u-szeged.hu/sysbiol/nagy-laszlo-lab-poster.html)
 - https://www.youtube.com/c/MushroomRevival
+- https://stiinta-pentru-toti.blogspot.com/2022/06/micologia.html
 
 ### Cannabis
 
