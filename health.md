@@ -287,6 +287,7 @@
 - [ֻFungal tree of life | László Nagy Laboratory](http://group.szbk.u-szeged.hu/sysbiol/nagy-laszlo-lab-poster.html)
 - https://www.youtube.com/c/MushroomRevival
 - https://stiinta-pentru-toti.blogspot.com/2022/06/micologia.html
+- https://github.com/MushroomObserver/mushroom-observer
 
 ### Cannabis
 
