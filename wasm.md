@@ -1,10 +1,11 @@
-### Compilers
+### Compiler
 
 - https://github.com/appcypher/awesome-wasm-langs
 - https://github.com/appcypher/awesome-wasm-runtimes
 - http://schellcode.github.io/webassembly-without-emscripten
 - [non-web WebAssembly projects that I find interesting.](https://twitter.com/beriberikix/status/1258554615529738242)
 - https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071
+- [Compile the statistical language R into WASM for use in a browser, via Emscripten](https://github.com/georgestagg/webR)
 
 ### Cinema
 
@@ -45,3 +46,4 @@
 - https://surma.dev/things/js-to-asc
 - https://twitter.com/swyx/status/1482127056884609026
 - https://christine.website/talks/webassembly-on-the-server-system-calls-2019-05-31
+- [How WebAssembly Gets Used: The 18 Most Exciting Startups Building with Wasm](https://twitter.com/reneeshah123/status/1516460598183170055)

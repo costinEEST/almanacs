@@ -122,6 +122,7 @@
 - [A re-usable GitHub Actions CI workflow for verifying Rails apps](https://github.com/andyw8/setup-rails)
 - https://www.tomray.dev/deploy-nestjs-cloud-run
 - [Heroku Review Apps managed by GitHub Actions](https://gist.github.com/hopsoft/ac014e0efc7bfc1dbdb19ff7a66c5274)
+- https://github.com/uraimo/run-on-arch-action
 
 ### Tool
 

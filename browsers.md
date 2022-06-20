@@ -278,6 +278,7 @@ javascript: (() =>
 - https://nelsonslog.wordpress.com/2021/12/07/firefox-compat-hacks
 - https://nelsonslog.wordpress.com/2021/12/22/faking-geolocation-in-firefox
 - [Separate Firefox Dark UI theme from website dark mode](https://twitter.com/darek_kay/status/1468171089796911109)
+- https://github.com/MrOtherGuy/firefox-csshacks
 
 ### Safari
 

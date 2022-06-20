@@ -160,6 +160,8 @@
 - https://twitter.com/bernardo_amc/status/1169338542813827073 + https://github.com/bernardoamc/ruby_debugging
 - https://speakerdeck.com/damir/a-tool-belt-of-a-seasond-bug-hunter
 - https://katafrakt.me/2020/05/03/understanding-ruby-app-with-profiling
+- https://github.com/BetterErrors/better_errors
+- https://info.pagnis.in/blog/2014/04/28/console-repl-for-your-gems
 
 ### Inspire
 
@@ -300,6 +302,7 @@
 - https://github.com/eliotsykes/rails-testing-toolbox
 - https://github.com/testdouble/cypress-rails
 - https://github.com/citizensadvice/capybara_accessible_selectors
+- https://wessman.co/en/rails-system-test-cuprite-attach-file
 
 ### Radio
 

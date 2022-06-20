@@ -24,3 +24,4 @@
 - https://thoughtspile.github.io/2021/11/08/semver-challenges
 - [Software Licenses in Plain English](https://tldrlegal.com)
 - https://www.swyx.io/oss-repo-setup + https://twitter.com/swyx/status/1219036507228590081
+- https://github.com/ysoftwareab/know-your-ietf-well

@@ -233,6 +233,7 @@
 - https://www.youtube.com/playlist?list=PLuIhQdwUVqqrn1VUPmi3wIMKfoAR_ebUy
 - https://andrewzah.com/posts/2019/korean_for_programmers
 - http://www.pagef30.com/2013/02/how-i-learned-korean.html
+- https://nelsonslog.wordpress.com/2022/06/19/korean-writing-hangul-and-unicode
 
 ### Khmer
 
