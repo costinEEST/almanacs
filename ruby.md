@@ -303,6 +303,7 @@
 - https://github.com/testdouble/cypress-rails
 - https://github.com/citizensadvice/capybara_accessible_selectors
 - https://wessman.co/en/rails-system-test-cuprite-attach-file
+- https://www.synacktiv.com/en/publications/playing-with-imagetragick-like-its-2016.html
 
 ### Radio
 

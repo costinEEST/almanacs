@@ -15,6 +15,7 @@
 - https://www.euronews.com/travel/2022/05/19/slovenia-s-green-capitals-route-and-five-other-epic-european-bike-rides-to-try-this-summer 
 - https://issuu.com/marianivan/docs/ghidulbiciclistului
 - [Grup de MECANICĂ BICICLETE - PUSHBIKE](https://www.facebook.com/groups/440245016043580)
+- [Motorcycle roads Romania](https://2ride.eu/trasee)
 
 ### Golf
 

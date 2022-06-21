@@ -14,6 +14,7 @@
 - https://github.com/Szpadel/chrome-headless-render-pdf
 - https://github.com/pussycat0x/malicious-pdf
 - https://github.com/vslavik/diff-pdf
+- https://nds.rub.de/research/publications/processing-dangerous-paths-security-and-privacy-po/index.html
 
 ### .yaml
 

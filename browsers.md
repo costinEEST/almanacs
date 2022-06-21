@@ -20,6 +20,7 @@
 - https://engineering.q42.nl/passwordless-authentication
 - [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
 - [Proposal for an API which would allow grabbing a screenshot.](https://github.com/eladalon1983/mediacapture-screenshot)
+- https://www.vector-logic.com/blog/posts/on-request-animation-frame-and-embedded-iframes
 
 
 ### new IntersectionObserver()
