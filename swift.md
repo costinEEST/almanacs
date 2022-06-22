@@ -27,10 +27,11 @@
 - [Paul Ardeleanu](https://www.pardel.dev/talks)
 - [John Gallaugher](https://gallaugher.com)
 
-### Demo
+### Inspire 
 
 - [macOS status monitoring app](https://github.com/gao-sun/eul)
 - https://github.com/onmyway133/archives
+- [Make any website your Mac desktop wallpaper](https://github.com/sindresorhus/Plash)
 
 
 ### Development

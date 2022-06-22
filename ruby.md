@@ -162,6 +162,18 @@
 - https://katafrakt.me/2020/05/03/understanding-ruby-app-with-profiling
 - https://github.com/BetterErrors/better_errors
 - https://info.pagnis.in/blog/2014/04/28/console-repl-for-your-gems
+- https://stackoverflow.com/questions/4061596/how-can-i-call-an-older-version-of-a-gem-from-the-commandline
+- https://maximomussini.com/posts/debugging-ruby-libraries
+
+### Deploy
+
+- https://akshaykhot.com/deploying-rails-like-2005
+- https://www.joyfulbikeshedding.com/blog/2021-01-06-the-future-of-traveling-ruby.html
+- https://www.johnhawthorn.com/2018/01/this-website-is-a-makefile
+- https://github.com/MikeRogers0/Talks/tree/master/slides/From-Heroku-To-Kubernetes
+- https://www.stefanvermaas.com/2022/06/11/bridgetown-and-digital-ocean-apps
+- https://blog.arkency.com/dont-waste-your-time-on-assets-compilation-on-heroku
+- https://github.com/pacuna/rails-on-docker-ebook + https://github.com/pacuna/deploying-rails-with-kubernetes + https://github.com/pacuna/searchapp
 
 ### Inspire
 
@@ -175,19 +187,10 @@
 - [feedyour.email lets you send newsletters to your feed reader by generating an email address that aggregates messages into an Atom feed](https://github.com/indirect/feedyour.email)
 - https://github.com/eliotsykes/real-world-rails
 
-### Deploy
-
-- https://akshaykhot.com/deploying-rails-like-2005
-- https://www.joyfulbikeshedding.com/blog/2021-01-06-the-future-of-traveling-ruby.html
-- https://www.johnhawthorn.com/2018/01/this-website-is-a-makefile
-- https://github.com/MikeRogers0/Talks/tree/master/slides/From-Heroku-To-Kubernetes
-- https://www.stefanvermaas.com/2022/06/11/bridgetown-and-digital-ocean-apps
-- https://blog.arkency.com/dont-waste-your-time-on-assets-compilation-on-heroku
-- https://github.com/pacuna/rails-on-docker-ebook + https://github.com/pacuna/deploying-rails-with-kubernetes + https://github.com/pacuna/searchapp
-
 ### Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems)
+- https://www.brianstorti.com/creating-a-rubygems-plugin
 - [A RubyGems plugin that compares versions of the given gem](https://github.com/fedora-ruby/gem-compare)
 - https://skryukov.github.io/rails/activeadmin/2020/09/29/an-unofficial-active-admin-guide.html
 - [Pure Ruby bit array/bitfield implementation](https://github.com/peterc/bitarray)
@@ -255,6 +258,8 @@
 - https://levelup.gitconnected.com/ensure-file-integrity-when-uploading-a-file-to-a-remote-server-552b7ccb1f3d
 - https://katafrakt.me/2017/05/30/processing-large-amount-of-data-in-ruby
 - https://github.com/KjarrigansGames/advent-of-code
+- https://aboobacker.in/2017/02/15/lets-learn-rack-by-implementing-it-from-scratch.html
+- https://maximomussini.com/posts/a-rubyist-guide-to-vite-js
 
 
 ### Tool

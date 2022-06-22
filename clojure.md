@@ -2,6 +2,7 @@
 
 - https://book.babashka.org
 - https://kimh.github.io/clojure-by-example + https://news.ycombinator.com/item?id=27273911
+- [Clojure for the Brave and True](https://twitter.com/pierre_jambet/status/1388135402897354753)
 
 ### Community
 

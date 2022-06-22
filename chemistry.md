@@ -25,6 +25,7 @@ https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-so
 - https://twitter.com/IBchemmilam/status/1458952437360910340
 - https://www.amazon.com/Elements-Visual-Exploration-Every-Universe-ebook/dp/B011IZNWZU + https://www.amazon.com/Molecules-Architecture-Everything-Theodore-Gray-ebook/dp/B01FRASA5O + https://www.amazon.com/Reactions-Illustrated-Exploration-Elements-Molecules-ebook/dp/B01N6ZBGUB
 - [Coloring the Cosmetic World: Using Pigments in Decorative Cosmetic Formulations | Edwin B. Faulkner](https://www.wiley.com/en-ie/Coloring+the+Cosmetic+World:+Using+Pigments+in+Decorative+Cosmetic+Formulations,+2nd+Edition-p-9781119558101)
+- https://www.amazon.com/Geochronology-Thermochronology-Wiley-Works-Reiners/dp/1118455789
 
 ### Cinema
 

@@ -25,3 +25,4 @@
 - [Software Licenses in Plain English](https://tldrlegal.com)
 - https://www.swyx.io/oss-repo-setup + https://twitter.com/swyx/status/1219036507228590081
 - https://github.com/ysoftwareab/know-your-ietf-well
+- [A list of Developer Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)

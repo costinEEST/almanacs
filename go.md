@@ -111,6 +111,7 @@
 - [HTTPLabs let you inspect HTTP requests and forge responses](https://github.com/qustavo/httplab)
 - https://github.com/kirillshevch/raindrop_to_notion
 - https://github.com/knadh/dns.toys
+- [Google Drive CLI Client](https://github.com/prasmussen/gdrive)
 
 ### Radio
 

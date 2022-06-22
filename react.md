@@ -407,6 +407,8 @@
 - https://github.com/flaviocopes/clone-airbnb-nextjs
 - https://souporserious.com/build-your-own-code-playground + https://twitter.com/souporserious/status/1468981661224161281
 - https://kyleshevlin.com/my-course-platform
+- [Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, MongoDB, and GraphQL. It plays nicely with npm, Docker and Kubernetes](https://github.com/reactioncommerce/reaction)
+- [The open-source Shopify alternative](https://github.com/medusajs/medusa)
 
 ### Testing
 

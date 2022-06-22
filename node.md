@@ -26,6 +26,7 @@
 - https://www.udemy.com/course/oauth-2-simplified
 - https://github.com/wolfejw86/get-racket-twitterbot + https://www.youtube.com/playlist?list=PLU_22oKqONimKqe-2LmsEG5MvaZcRL101
 - [Passwordless and 2FA auth without a database](https://github.com/sffc/easy-no-password)
+- https://github.com/cybrilla/fp-snippets/tree/master/authentication
 
 ### API
 
