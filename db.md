@@ -19,6 +19,7 @@
 - https://github.com/iharh/notes/tree/master/db
 - [The Theory of Relational Databases | David Maier](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 - http://graysoftinc.com/book-reviews/the-definitive-guide-to-sqlite
+- [Seven Databases in Seven Weeks | Luc Perkins, Eric Redmond, and Jim Wilson](https://7dbs.io)
 
 ### Course
 

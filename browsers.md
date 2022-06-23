@@ -83,6 +83,7 @@
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
 - https://github.com/z0ccc/extension-fingerprints
 - https://ninoseki.github.io/2020/05/16/browser-extension.html
+- https://github.com/ryanckulp/twitter_ad_blocker
 - [The browser extension framework](https://github.com/PlasmoHQ/plasmo)
 - [JShelter controls the APIs provided by the browser, restricting the data that they gather and send out to websites](https://pagure.io/JShelter/webextension/tree/main)
 - [Identify technology on websites.](https://github.com/AliasIO/wappalyzer)

@@ -299,6 +299,7 @@
 - https://www.mandarax.mx
 - https://storylearning.com/learn/spanish/spanish-tips + https://fluentspanishacademy.com/spanish-vault-membership-area + https://www.youtube.com/c/StoryLearningSpanish/playlists + https://youtu.be/U3HndX2QnSo + https://learn.storylearning.com/download-page-beginner15885486
 - https://www.amazon.com/Camila-S%C3%A1nchez/e/B077VSSXL7
+- [Diccionario de voces lunfardas y vulgares | Fernando Hugo Casullo, Francisco García-Jiménez](https://www.worldcat.org/title/diccionario-de-voces-lunfardas-y-vulgares/oclc/462968878)
 
 ### Swedish
 

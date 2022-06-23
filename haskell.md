@@ -4,6 +4,7 @@
 - https://github.com/leandrotk/functional-programming-learning-path/tree/master/haskell
 - [Learning Haskell by building a simple static blog generator](https://github.com/soupi/learn-haskell-blog-generator)
 - https://books.thoughtbot.com/books/maybe-haskell.html
+- https://github.com/pushcx/hpffp-resources
 
 ### Community
 

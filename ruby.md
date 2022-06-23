@@ -17,6 +17,8 @@
 - https://ninoseki.github.io/2019/10/04/misp-rb.html
 - https://github.com/gocardless/companies-house-rest
 - https://github.com/jameschambers/boring-bits-rails-api
+- [Correole subscribes/unsubscribes readers and sends the newsletter](https://github.com/mrrusof/correole)
+- https://github.com/tomholford/twitter-labs-api
 
 
 ### Algorithm
@@ -34,7 +36,6 @@
 - https://github.com/rubyfu/RubyFu
 - https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C + https://twitter.com/ChrisGSeaton/status/1520559129173102598
 - https://books.thoughtbot.com/books/ruby-science.html
-- https://books.thoughtbot.com/books/testing-rails.html
 - https://books.thoughtbot.com/books/ios-on-rails.html
 - https://books.thoughtbot.com/books/geocoding-on-rails.html
 - https://github.com/garethrees/practical-oo-design-in-ruby
@@ -45,10 +46,13 @@
 - https://products.arkency.com
 - https://github.com/pmatsinopoulos/my_books/blob/main/Full%20Stack%20Web%20Developer/11%20-%20Programming%20with%20Ruby/full-stack-web-developer-part-xi-programming-with-ruby.pdf
 - [Reading the book Modern Front-End Development for Rails (Turbo, Stimulus and React)](https://github.com/pmatsinopoulos/reading_modern_front_end_dev_for_rails)
+- https://github.com/cbdileo/cleanruby
+- https://github.com/mrrusof/the-book-of-problems
 
 ### Cheat sheet
 
 - https://learnxinyminutes.com/docs/ruby
+- https://blog.appsignal.com/2021/12/15/whats-new-in-rails7.html
 - https://rubyreferences.github.io/rubyref
 - https://github.com/janlelis/idiosyncratic-ruby.com
 - https://dev.to/ericchapman/my-beloved-ruby-on-rails-cheat-sheet-50pi
@@ -114,6 +118,7 @@
 
 ### Community
 
+- [Newsletters](newsletters.md#ruby)
 - https://speakerdeck.com/eileencodes/the-success-of-rails-ensuring-growth-for-the-next-100-years
 - https://github.com/takahashim/ruby-history
 - https://www.rubyandrails.info
@@ -164,6 +169,7 @@
 - https://info.pagnis.in/blog/2014/04/28/console-repl-for-your-gems
 - https://stackoverflow.com/questions/4061596/how-can-i-call-an-older-version-of-a-gem-from-the-commandline
 - https://maximomussini.com/posts/debugging-ruby-libraries
+- https://dev.to/ko1/debug-gem-blog-initial-commit-3ip
 
 ### Deploy
 
@@ -174,6 +180,8 @@
 - https://www.stefanvermaas.com/2022/06/11/bridgetown-and-digital-ocean-apps
 - https://blog.arkency.com/dont-waste-your-time-on-assets-compilation-on-heroku
 - https://github.com/pacuna/rails-on-docker-ebook + https://github.com/pacuna/deploying-rails-with-kubernetes + https://github.com/pacuna/searchapp
+- https://github.com/cbdileo/aws-ec2-docker-rails-app
+- https://dev.to/aws-heroes/aws-lambda-microservice-workshop-using-s3-libvips-ruby-4o96
 
 ### Inspire
 
@@ -186,6 +194,7 @@
 - [A full example of a collaborative text editor written in Rails and JavaScript](https://github.com/aha-app/collaborative-demo)
 - [feedyour.email lets you send newsletters to your feed reader by generating an email address that aggregates messages into an Atom feed](https://github.com/indirect/feedyour.email)
 - https://github.com/eliotsykes/real-world-rails
+- https://github.com/lobsters/lobsters
 
 ### Gem
 
@@ -234,11 +243,14 @@
 - [Comparing MRI and JRuby](https://thebackend.dev/jruby)
 - https://dmitrytsepelev.dev/attr-accessor-in-ruby
 - https://katafrakt.me/2018/06/06/hidden-jewels-ruby-stdlib
+- [`next` and `break` can have return values](https://twitter.com/rose_w/status/1536220911396786177)
+- [Ruby Hack Challenge is a short guide to hack Matz's Ruby Interpreter](https://github.com/ko1/rubyhackchallenge)
 
 ### Pattern
 
 - [Design Patterns in Ruby](https://www.youtube.com/playlist?list=PLBhH0uX92r6oP8r-oSY_b8_2EnK0Z1Fkz)
 - https://postmodern.github.io/blog/2010/10/01/list-comprehensions-in-ruby.html
+- https://github.com/tomstuart/monads
 
 ### Practice
 
@@ -285,6 +297,7 @@
 
 ### Testing
 
+- https://books.thoughtbot.com/books/testing-rails.html
 - http://rubykoans.com
 - https://www.hschne.at/2019/09/22/fabulous-factorybot.html
 - https://www.codewithjason.com/ruby-instance-exec
@@ -309,6 +322,9 @@
 - https://github.com/citizensadvice/capybara_accessible_selectors
 - https://wessman.co/en/rails-system-test-cuprite-attach-file
 - https://www.synacktiv.com/en/publications/playing-with-imagetragick-like-its-2016.html
+- https://chriskottom.com/resources/TheMinitestCookbook-sample.pdf + https://chriskottom.com/articles/minitest-cheat-sheet + https://github.com/chriskottom/minitest_cookbook_source
+- https://github.com/mrrusof/minitest-before-after-examples
+- https://github.com/theofidry/awesome-mutation-testing
 
 ### Radio
 

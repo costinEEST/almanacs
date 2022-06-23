@@ -133,6 +133,7 @@
 - [Bruno Škvorc](https://news.nft.review/archive)
 - https://www.getrevue.co/profile/useWeb3
 - https://a16zcrypto.substack.com/archive
+- [The Good Time Show](https://us2.campaign-archive.com/home/?u=2d6f741a3763b55897a787bd1&id=4c2dfd6761)
 
 ### Investing
 

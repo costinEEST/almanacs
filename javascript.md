@@ -139,6 +139,10 @@
 - https://github.com/coodict/javascript-in-one-pic
 - https://github.com/madhank93/js-mindmap
 
+### Cheat sheet 
+
+- https://ponyfoo.com/articles/es6
+
 ### Course
 
 - https://github.com/andreasbm/web-skills
@@ -199,6 +203,7 @@
 - https://twitter.com/jedschmidt/status/1254932318336081920 + [Turning callbacks into async iterators](https://gist.github.com/jed/f8444ae8e6e40e08a7b29944840ac20d)
 - [for-of, early termination, iterators, and generators](https://gist.github.com/rauschma/fd2518d14a7b1b7b39751d9ac85e6c20)
 - https://jeffy.info/2019/03/22/that-time-i-used-a-generator.html
+- https://github.com/creationix/js-git
 
 ### string
 

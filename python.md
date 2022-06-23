@@ -35,6 +35,7 @@
 - https://github.com/pamoroso/free-python-books
 - https://github.com/PacktPublishing/Learning-Python-Networking-Second-Edition
 - https://github.com/ethan-funny/explore-python
+- https://github.com/mattshirtliffe/exercises-for-programmers-57-challenges-python
 
 ### Bots
 
