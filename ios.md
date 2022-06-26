@@ -40,6 +40,7 @@
 ### Hardware
 
 - [How I built two iPhone 6S's from parts for $80 each](https://twitter.com/hackerfantastic/status/1211088686802096128)
+- https://9to5mac.com/2022/06/15/ios-16-roomplan-api-3d-floor-plans
 
 ### Tool
 

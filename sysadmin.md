@@ -124,6 +124,7 @@
 - https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex
 - [Grasping Kubernetes Networking (Mega Thread)](https://twitter.com/iximiuz/status/1426926884508643331)
 - https://kubernetesinpractice.com/kubernetes-in-practice-sample.pdf
+- https://github.com/walidshaari/Kubernetes-Certified-Administrator
 
 ### Servers
 

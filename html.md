@@ -248,3 +248,4 @@
 - https://unicode.org/emoji/charts/emoji-zwj-sequences.html
 - [Know your Unicode](https://github.com/janlelis/uniscribe)
 - [Visualize different Unicode encodings in the terminal](https://github.com/janlelis/unibits)
+- [Notable characters, codepoints, and resources](https://github.com/janlelis/character.construction)

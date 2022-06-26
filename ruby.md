@@ -198,7 +198,7 @@
 
 ### Gem
 
-- [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems)
+- [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems) + https://nts.strzibny.name/ruby-stdlib-default-bundled-gems + https://gist.github.com/boue/9540965
 - https://www.brianstorti.com/creating-a-rubygems-plugin
 - [A RubyGems plugin that compares versions of the given gem](https://github.com/fedora-ruby/gem-compare)
 - https://skryukov.github.io/rails/activeadmin/2020/09/29/an-unofficial-active-admin-guide.html
@@ -220,6 +220,9 @@
 - [Interact with REST services in an ActiveRecord-like manner](https://github.com/balvig/spyke)
 - [fix n+1 aggregate sql functions for rails](https://github.com/flyerhzm/eager_group)
 - https://github.com/s2k/check-bundler-versions
+- https://github.com/veganstraightedge/new_base_60
+- [command-line password safe/manager using AES-256-CBC and PBKDF2](https://github.com/janlelis/pws)
+- https://github.com/cardmagic/simple-rss
 
 ### Internals
 
@@ -251,6 +254,7 @@
 - [Design Patterns in Ruby](https://www.youtube.com/playlist?list=PLBhH0uX92r6oP8r-oSY_b8_2EnK0Z1Fkz)
 - https://postmodern.github.io/blog/2010/10/01/list-comprehensions-in-ruby.html
 - https://github.com/tomstuart/monads
+- https://infinum.com/blog/best-ruby-on-rails-refactoring-talks
 
 ### Practice
 
@@ -368,3 +372,4 @@
 - https://dev.to/sylwiavargas/why-do-you-love-ruby-actually-an-ode-5e7n
 - https://ryanbigg.com/2018/03/my-thoughts-on-hanami
 - [:: chunky bacon](http://code-anth.xyz/posts/3)
+- https://avdi.codes/ruby-is-defined-by-terrible-tools

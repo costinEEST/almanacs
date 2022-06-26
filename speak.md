@@ -104,6 +104,7 @@
 - https://ai.glossika.com/blog/aged-30-he-speaks-19-languages-learn-his-one-secret-to-learn-any-language + https://www.foreverastudent.com/p/book_4.html
 - https://www.youtube.com/user/theforeverastudent/playlists
 - https://chaoyangtrap.house
+- [Classical Chinese for Everyone: A Guide for Absolute Beginners | Bryan W. Van Norden](https://www.facebook.com/orelb/posts/pfbid02ppaUQdZftTorqhAmJcCYomsWtoqjGLiDQd2cxay79mff1TpXHpjdekxGGp2WguEdl)
 
 ### Arabic
 

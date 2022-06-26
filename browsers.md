@@ -45,6 +45,7 @@
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb + https://twitter.com/XssPayloads/status/1376382674173112320
 - https://github.com/offlinefirst/research
 - https://souporserious.com/bundling-workers-for-npm
+- [Measure cpu cache size client side in Javascript](https://github.com/allanlw/cache_size)
 
 
 ### Engines
@@ -85,6 +86,7 @@
 - https://ninoseki.github.io/2020/05/16/browser-extension.html
 - https://github.com/ryanckulp/twitter_ad_blocker
 - [The browser extension framework](https://github.com/PlasmoHQ/plasmo)
+- [Firefox addon for passively detecting GPS Exif information in JPEGs](https://addons.mozilla.org/en-US/firefox/addon/gpsdetect)
 - [JShelter controls the APIs provided by the browser, restricting the data that they gather and send out to websites](https://pagure.io/JShelter/webextension/tree/main)
 - [Identify technology on websites.](https://github.com/AliasIO/wappalyzer)
 - https://github.com/aeksco/react-typescript-chrome-extension-starter

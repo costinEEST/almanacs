@@ -86,6 +86,7 @@
 - https://github.com/dabeaz-course/practical-python
 - https://github.com/oz123/advanced-python
 - [Prelucrarea și vizualizarea datelor folosind Python, curs masteral @ TCSI, FSA, UPB](https://github.com/adimanea/pvdp-upb)
+- https://www.freecodecamp.org/news/automate-your-life-with-python
 
 ### Cinema
 
