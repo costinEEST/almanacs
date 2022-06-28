@@ -152,6 +152,7 @@
 - https://github.com/rainyear/CPython-Internals-Lecture-Notes
 - https://github.com/coodict/python3-in-one-pic
 - https://twitter.com/gvanrossum/status/1222776098800357376
+- https://github.com/wdv4758h/awesome-jit
 
 ### Scraping
 

@@ -107,6 +107,7 @@
 - [Kevin Newton](https://kddnewton.com/speaking)
 - [Sundae Club - The First App - A website builder for YouTube & Twitch Channels - Ruby on Rails Livestreams](https://www.youtube.com/playlist?list=PL9ATwFdcJitzQvxRA9k_xtPywPo7rja6G) + https://github.com/Sundae-Club/sundaeclub
 - https://github.com/i0rek/frozenrails-notes
+- [Containerizing Rails: Techniques, Pitfalls, and Best Practices](https://daniel-azuma.com/articles/talks/railsconf-2018)
 
 ### Course
 
@@ -170,6 +171,7 @@
 - https://stackoverflow.com/questions/4061596/how-can-i-call-an-older-version-of-a-gem-from-the-commandline
 - https://maximomussini.com/posts/debugging-ruby-libraries
 - https://dev.to/ko1/debug-gem-blog-initial-commit-3ip
+- https://github.com/JuanitoFatas/ruby-performance-tools
 
 ### Deploy
 
@@ -182,6 +184,7 @@
 - https://github.com/pacuna/rails-on-docker-ebook + https://github.com/pacuna/deploying-rails-with-kubernetes + https://github.com/pacuna/searchapp
 - https://github.com/cbdileo/aws-ec2-docker-rails-app
 - https://dev.to/aws-heroes/aws-lambda-microservice-workshop-using-s3-libvips-ruby-4o96
+- https://thibautbarrere.com/2021/01/20/circle-ci-with-multiple-databases-and-rubies
 
 ### Inspire
 
@@ -195,6 +198,7 @@
 - [feedyour.email lets you send newsletters to your feed reader by generating an email address that aggregates messages into an Atom feed](https://github.com/indirect/feedyour.email)
 - https://github.com/eliotsykes/real-world-rails
 - https://github.com/lobsters/lobsters
+- https://github.com/mastodon/mastodon
 
 ### Gem
 
@@ -223,6 +227,7 @@
 - https://github.com/veganstraightedge/new_base_60
 - [command-line password safe/manager using AES-256-CBC and PBKDF2](https://github.com/janlelis/pws)
 - https://github.com/cardmagic/simple-rss
+- https://daniel-azuma.com/blog/2019/11/06/is-it-time-to-replace-rake
 
 ### Internals
 
@@ -276,6 +281,7 @@
 - https://github.com/KjarrigansGames/advent-of-code
 - https://aboobacker.in/2017/02/15/lets-learn-rack-by-implementing-it-from-scratch.html
 - https://maximomussini.com/posts/a-rubyist-guide-to-vite-js
+- https://daniel-azuma.com/blog/2021/05/04/discord-command-in-ruby-on-google-cloud-functions-part-4
 
 
 ### Tool
