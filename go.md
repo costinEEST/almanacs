@@ -112,6 +112,7 @@
 - https://github.com/kirillshevch/raindrop_to_notion
 - https://github.com/knadh/dns.toys
 - [Google Drive CLI Client](https://github.com/prasmussen/gdrive)
+- https://nelsonslog.wordpress.com/2022/06/28/google-caches-what-is-my-ip + https://github.com/rdegges/ipify-api
 
 ### Radio
 

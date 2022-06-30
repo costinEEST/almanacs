@@ -9,6 +9,7 @@
 - [Poimandres is a minimal, frameless dark-theme inspired mostly by blueberry.](https://github.com/drcmda/poimandres-theme)
 - https://www.stefanjudis.com/snippets/a-vs-code-extensions-manifest
 - https://www.better.dev/6-ways-to-screenshot-your-code
+- [Markdown knowledge base with bidirectional [[link]]s](https://github.com/svsool/memo)
 
 ### Miscellaneous
 

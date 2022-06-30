@@ -115,6 +115,7 @@
 
 - https://sokolova.dk + https://twitter.com/sokolovadk
 - https://www.youtube.com/playlist?list=PLu3g1bSKNveY08T7o_hoFJSxyy6Svr8ex
+- https://github.com/simgunz/anki-decks_danish-ipa
 
 ### Dutch
 

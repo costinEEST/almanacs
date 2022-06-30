@@ -10,6 +10,7 @@
 - https://github.com/learnbyexample/cli_text_processing_coreutils
 - https://github.com/learnbyexample/learn_gnugrep_ripgrep
 - https://github.com/vossenjp/bashidioms-examples
+- https://github.com/onceupon/Bash-Oneliner
 
 ### Cinema
 

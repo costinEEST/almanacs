@@ -108,6 +108,8 @@
 - [Sundae Club - The First App - A website builder for YouTube & Twitch Channels - Ruby on Rails Livestreams](https://www.youtube.com/playlist?list=PL9ATwFdcJitzQvxRA9k_xtPywPo7rja6G) + https://github.com/Sundae-Club/sundaeclub
 - https://github.com/i0rek/frozenrails-notes
 - [Containerizing Rails: Techniques, Pitfalls, and Best Practices](https://daniel-azuma.com/articles/talks/railsconf-2018)
+- [Live Coding Streams | GoRails](https://www.youtube.com/playlist?list=PLm8ctt9NhMNWfnXIK_EaHaMkDGNYrOJlO)
+- [Open Source Vlog | GoRails](https://www.youtube.com/playlist?list=PLm8ctt9NhMNU5ONbGecA2m-R0TPbFBttD)
 
 ### Course
 
@@ -155,6 +157,10 @@
 - [Vladislav Trotsenko](https://www.codewars.com/users/bestwebua)
 - Jörn Schneeweisz: https://code-audit-training.gitlab.io, https://0day.click/page/references
 
+### Compiler 
+
+- https://www.thomascountz.com/2019/09/08/entry-level-compiler
+
 ### Debug
 
 - [bundle open rails](https://twitter.com/getajobmike/status/1343273147869450240)
@@ -172,6 +178,7 @@
 - https://maximomussini.com/posts/debugging-ruby-libraries
 - https://dev.to/ko1/debug-gem-blog-initial-commit-3ip
 - https://github.com/JuanitoFatas/ruby-performance-tools
+- [How do programmers get better at debugging?](https://twitter.com/ThomasCountz/status/1533573484051189760)
 
 ### Deploy
 
@@ -228,6 +235,7 @@
 - [command-line password safe/manager using AES-256-CBC and PBKDF2](https://github.com/janlelis/pws)
 - https://github.com/cardmagic/simple-rss
 - https://daniel-azuma.com/blog/2019/11/06/is-it-time-to-replace-rake
+- https://github.com/pay-rails/pay + https://www.youtube.com/playlist?list=PLm8ctt9NhMNXCvYPahPCuR3K-q_tsEi-A
 
 ### Internals
 
@@ -353,6 +361,8 @@
 - https://greg.molnar.io/blog/rubygems-cve-2022-29176
 - https://presidentbeef.com/ns/talks
 - https://www.thomascountz.com/2020/10/24/sql-injection
+- [A database of vulnerable Ruby Gems](https://github.com/rubysec/ruby-advisory-db)
+- https://snyk.io/blog/malicious-remote-code-execution-backdoor-discovered-in-the-popular-bootstrap-sass-ruby-gem
 
 ### Scrapping
 

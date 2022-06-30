@@ -20,6 +20,7 @@
 ### Architecture
 
 - [Pro Patrimonio](https://us5.campaign-archive.com/home/?u=57f50bdf2c77a5bb1add2a851&id=42c6c16a1d)
+- [Uniunea Arhitectilor din Romania](https://us10.campaign-archive.com/home/?u=e40fa82a9a796c8ea6cdfddca&id=94dec13101)
 
 ### Art
 

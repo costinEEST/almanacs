@@ -61,6 +61,7 @@
 - https://christitus.com/obsidian
 - https://github.com/chriskottom/nerdpress
 - [Web service for creating ebooks from collections of websites](https://github.com/haroldtreen/epub-press)
+- https://github.com/mriddle/obsidian-demo-template
 
 ### Miscellaneous
 

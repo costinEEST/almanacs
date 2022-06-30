@@ -11,6 +11,10 @@
 - [Triage Issues With Me - Heroics](https://www.youtube.com/playlist?list=PLg03g-T-woiDCY1m4PdMh2Vv2eftDdVZP)
 - [Corporate Open Source Anti-patterns](https://youtu.be/Pm8P4oCIY3g)
 
+### Community 
+
+- [Coraline Ada Ehmke](https://where.coraline.codes/media)
+
 ### Tool
 
 - https://thoughtspile.github.io/2021/11/20/open-source-starter

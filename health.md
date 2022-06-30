@@ -54,6 +54,7 @@
 - https://www.appropedia.org/Feeding_Everyone_No_Matter_What
 - [Wellbeing: A Cultural History of Healthy Living | Klaus Bergdolt](https://www.amazon.com/Wellbeing-Cultural-History-Healthy-Living/dp/074562913X) + https://www.wiley.com/en-us/Wellbeing:+A+Cultural+History+of+Healthy+Living-p-9780745629131
 - https://adriancopcea.com/2018/03/11/cum-se-explica-nebunia-cu-studiul-china
+- https://melanieavalon.com/stuffIlike/#tab-con-24
 
 ### Carbohydrates
 
@@ -124,6 +125,7 @@
 - https://www.amazon.com/Real-Anthony-Fauci-Democracy-Childrens/dp/1510766804
 - https://www.bbc.com/future/article/20211112-the-people-with-immune-amnesia
 - https://www.theceolibrary.com/book/toms-river-a-story-of-science-and-salvation-6292
+- https://www.subbu.org/articles/2019/retinitis-pigmentosa
 
 ### Grocery
 
@@ -288,6 +290,7 @@
 - https://www.youtube.com/c/MushroomRevival
 - https://stiinta-pentru-toti.blogspot.com/2022/06/micologia.html
 - https://github.com/MushroomObserver/mushroom-observer
+- https://www.youtube.com/c/TheHumbleFungus/playlists
 
 ### Cannabis
 

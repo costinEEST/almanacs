@@ -30,6 +30,7 @@
 - https://www.freecodecamp.org/news/linux-essentials-for-hackers
 - https://www.udemy.com/course/concepts-of-operating-systems
 - https://www.udemy.com/course/rhcsa-certified-system-administrator-red-hat-tests-2022
+- https://github.com/snori74/linuxupskillchallenge
 
 ### Cronjob
 

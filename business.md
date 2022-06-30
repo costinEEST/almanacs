@@ -127,6 +127,7 @@
 - https://www.udemy.com/course/the-complete-leadership-mastery-course
 - https://github.com/gabiduarte/awesome-techleads
 - [What are the best podcasts on management & leadership?](https://twitter.com/michelletandler/status/1489348838754172931)
+- https://www.subbu.org/articles/2021/2021-in-reading
 
 ### Strategy
 
@@ -218,6 +219,7 @@
 - https://www.bloomberg.com/news/audio/2021-01-17/why-the-cost-of-shipping-goods-from-china-is-soaring-podcast
 - https://www.udemy.com/course/economics-basics-to-advanced-level
 - https://markmcgranaghan.com/interests
+- [A list of microgrant programs for your good ideas](https://github.com/nayafia/microgrants)
 
 ### Geopolitics
 

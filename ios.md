@@ -36,6 +36,7 @@
 - https://github.com/onmyway133/awesome-ios-architecture
 - https://medium.com/fantageek/best-places-to-learn-ios-development-85ebebe890cf
 - https://thebackend.dev/ios-development
+- https://github.com/futurice/ios-good-practices
 
 ### Hardware
 

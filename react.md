@@ -293,6 +293,7 @@
 - [7Guis in React](https://github.com/andrewgreenh/7guis)
 - https://www.youtube.com/playlist?list=PLNqp92_EXZBIqX8DWmwmJmxeHiq-Ut4W1
 - https://tkdodo.eu/blog/offline-react-query
+- https://www.zhenghao.io/posts/react-rerender
 
 ### Preact
 
@@ -309,6 +310,7 @@
 - https://github.com/brianlovin/briOS
 - [Rallly is a free group meeting scheduling tool – built with Next.js, Prisma & TailwindCSS](https://github.com/lukevella/rallly)
 - [Developer directory built on @Nextjs, @MongoDB and @Vercel](https://twitter.com/steventey/status/1537116400875057152)
+- [I use tools like MJML, MDX, React, and Next.js to create client-friendly emails without writing a single <table> tag by hand](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx)
 
 ### Remix
 

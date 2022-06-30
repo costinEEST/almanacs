@@ -188,6 +188,7 @@
 ### undefined 
 
 - https://2ality.com/2013/05/history-undefined.html
+- https://p42.ai/blog/2022-05-10/you-dont-need-void-0
 
 ### function () {}
 
@@ -351,6 +352,7 @@
 
 - [Map.prototype.has() instead of Object.prototype.hasOwnProperty()](https://dev.to/mfulton26/comment/j060)
 - https://cameronnokes.com/blog/create-lodash.memoize-from-scratch
+- https://www.zhenghao.io/posts/object-vs-map
 
 ### new WeakMap()
 
