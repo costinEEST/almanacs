@@ -60,6 +60,7 @@
 - [A collection of scripts for assessing Microsoft Azure security](https://github.com/NetSPI/MicroBurst)
 - https://github.com/undergroundwires/Azure-in-bullet-points
 - [AzureAD](https://twitter.com/msft_hiker/status/1516163983421624320) + https://twitter.com/M4yFly/status/1437453135883157504
+- https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment
 
 ### Cloudflare
 

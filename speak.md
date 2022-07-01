@@ -158,6 +158,10 @@
 - http://sites.fas.harvard.edu/~iranian/OldPersian/index.html
 - https://github.com/omid/Persian-Calendar-for-Gnome-Shell
 
+### Finish 
+
+- [Grammar from the Human Perspective. Case, space and person in Finnish | Marja-Liisa Helasvuo, Lyle Campbell](https://benjamins.com/catalog/cilt.277)
+
 ### French
 
 - https://lindiebotes.com/2020/09/12/weekly-french-studyroutine
@@ -166,6 +170,7 @@
 - [Dincolo de cuvinte – Au-delà des mots](https://www.facebook.com/MuzeulNationalDeArtaAlRomaniei/videos/435391008335098)
 - https://www.amazon.com/Fran%C3%A7ais-par-M%C3%A9thode-Nature-French/dp/1684747775 + https://www.youtube.com/playlist?list=PLf8XN5kNFkhdIS7NMcdUdxibD1UyzNFTP + https://archive.org/details/jensen-arthur-le-francais-par-la-methode-nature + https://www.youtube.com/playlist?list=PLAadwKeAHRjjOTdip627SQIUN4u94pXlV + https://www.youtube.com/playlist?list=PLD0666ZhOzwjPr-8Kn-OUf-Dx3jDyuug9
 - [James H Worman](https://archive.org/search.php?query=creator%3A%22Worman%2C+James+H.+%28James+Henry%29%2C+1835-1930%22)
+- https://www.amazon.com/French-Inside-Out-Worldwide-Development/dp/0415076706
 
 ### German
 
@@ -250,6 +255,8 @@
 - https://twitter.com/DannyBate4/status/1370405688372047876
 - [Learning Latin the Ancient Way | Eleanor Dickey](https://twitter.com/prathyvsh/status/1185363307575689216)
 - https://hackettpublishing.com/lingua-latina-per-se-illustrata-series + http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=38867&PN=1
+- [Luke Amadeus Ranieri](https://www.youtube.com/c/PolymathyLuke/playlists) + https://www.reddit.com/r/latin/comments/ot107s/is_luke_ranieri_from_polymathy_the_guy_with_the + https://www.youtube.com/c/ScorpioMartianus/playlists
+- [Raphael Turrigiano](https://rturrigiano.wixsite.com/linguist/lessons)
 
 ### Lithuanian
 
@@ -302,6 +309,8 @@
 - https://storylearning.com/learn/spanish/spanish-tips + https://fluentspanishacademy.com/spanish-vault-membership-area + https://www.youtube.com/c/StoryLearningSpanish/playlists + https://youtu.be/U3HndX2QnSo + https://learn.storylearning.com/download-page-beginner15885486
 - https://www.amazon.com/Camila-S%C3%A1nchez/e/B077VSSXL7
 - [Diccionario de voces lunfardas y vulgares | Fernando Hugo Casullo, Francisco García-Jiménez](https://www.worldcat.org/title/diccionario-de-voces-lunfardas-y-vulgares/oclc/462968878)
+- [El habla de Guanajuato | Peter Boyd-Bowman](https://www.worldcat.org/title/habla-de-guanajuato/oclc/43725471) + https://youtu.be/tD9NplpyWQo
+- [Biblioteca Nacional de España](https://www.youtube.com/user/bibliotecaBNE/playlists)
 
 ### Swedish
 
@@ -318,6 +327,7 @@
 ### Polish
 
 - https://github.com/slowernews/notebook/blob/master/on-polish-language.md
+- https://www.youtube.com/c/Ecolinguist/playlists
 
 ### Romanian
 

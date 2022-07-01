@@ -158,6 +158,7 @@
 - [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [List of satellite image training datasets with annotations for computer vision and deep learning](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 - https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+- https://www.todaysoftmag.ro/article/3614/propunere-de-carte-machine-learning
 
 ### Paper
 
