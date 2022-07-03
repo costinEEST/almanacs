@@ -241,11 +241,12 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js
 - [Advanced vm/sandbox for Node.js](https://github.com/patriksimek/vm2)
 
-### File system (node:fs)
+### `node:fs`
 
 - [How to create full path with node's fs.mkdirSync?](https://stackoverflow.com/a/40686853/1904223)
 - [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
 - https://boneskull.com/recursive-directory-removal-in-node-js
+- https://2ality.com/2022/06/nodejs-file-system.html
 
 ### Modules
 

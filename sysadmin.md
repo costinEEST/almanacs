@@ -174,6 +174,7 @@
 - https://nelsonslog.wordpress.com/2021/12/07/influxdb-1-8-schemas
 - https://github.com/UNIBUC-PROD-ENGINEERING/monitoring
 - https://www.packt.com/product/cloud-and-networking/b17157-cloud-native-observability-with-opentelemetry
+- https://github.com/appsecco/defcon24-infra-monitoring-workshop
 
 ### Vagrant
 

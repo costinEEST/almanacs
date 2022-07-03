@@ -14,6 +14,7 @@
 - https://github.com/0xInfection/Stuff/blob/master/mindmaps/mind-map-saml.png
 - https://research.nccgroup.com/2021/03/29/saml-xml-injection
 - https://www.xmind.net/m/xNEY9b
+- https://www.blackhat.com/html/webcast/11192015-exploiting-xml-entity-vulnerabilities-in-file-parsing-functionality.html
 
 ### Opinion
 

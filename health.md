@@ -8,6 +8,7 @@
 - https://www.victorkapra.ro/2021/12/aparut-somelierii-roboti-bazati
 - https://www.grunge.com/749148/the-scientific-reason-vodka-doesnt-freeze
 - https://www.zmescience.com/science/anthropology/five-turning-points-in-the-evolution-of-wine
+- https://blogs.scientificamerican.com/food-matters/quinine-and-empire
 
 ### Autism
 
@@ -126,6 +127,9 @@
 - https://www.bbc.com/future/article/20211112-the-people-with-immune-amnesia
 - https://www.theceolibrary.com/book/toms-river-a-story-of-science-and-salvation-6292
 - https://www.subbu.org/articles/2019/retinitis-pigmentosa
+- [Tonic water contains quinine, which for centuries has been used to treat malaria](https://twitter.com/professor_dave/status/1450447707877826566)
+- https://www.amazon.com/Fever-Trail-Search-Cure-Malaria/dp/0374154694
+- https://www.amazon.com/Quinine-Malaria-Quest-Changed-World/dp/B000C4SL96
 
 ### Grocery
 

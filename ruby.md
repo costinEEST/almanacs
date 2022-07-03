@@ -261,6 +261,10 @@
 - https://katafrakt.me/2018/06/06/hidden-jewels-ruby-stdlib
 - [`next` and `break` can have return values](https://twitter.com/rose_w/status/1536220911396786177)
 - [Ruby Hack Challenge is a short guide to hack Matz's Ruby Interpreter](https://github.com/ko1/rubyhackchallenge)
+- https://www.xuuso.com/programming/ruby/2019/07/01/i-just-made-ruby-plusplus.html
+- https://dchua.com/posts/2014-08-17-equivalent-of-try-for-hashes-ruby
+- https://austrian-nerd.dev/blog/2022-06-22-recently-in-ruby-core-june-edition
+- https://devver.wordpress.com/2009/06/30/a-dozen-or-so-ways-to-start-sub-processes-in-ruby-part-1
 
 ### Pattern
 
@@ -312,6 +316,7 @@
 - https://marketplace.visualstudio.com/items?itemName=andrewmcodes.rails-extension-power-pack
 - [keepgoing uses guard to auto-run your single-file Ruby script on changes](https://github.com/wolfgangrittner/keepgoing)
 - https://github.com/arkency/heroku-buildpack-ruby-monorepo
+- https://hanamimastery.com/episodes/23-rubocop-most-frustrating-to-most-loved
 
 ### Testing
 

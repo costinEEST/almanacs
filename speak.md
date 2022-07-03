@@ -257,6 +257,7 @@
 - https://hackettpublishing.com/lingua-latina-per-se-illustrata-series + http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=38867&PN=1
 - [Luke Amadeus Ranieri](https://www.youtube.com/c/PolymathyLuke/playlists) + https://www.reddit.com/r/latin/comments/ot107s/is_luke_ranieri_from_polymathy_the_guy_with_the + https://www.youtube.com/c/ScorpioMartianus/playlists
 - [Raphael Turrigiano](https://rturrigiano.wixsite.com/linguist/lessons)
+- https://archive.org/details/onlatinlanguage01varruoft + https://koaha.org/wiki/De_lingua_latina + http://www.attalus.org/info/varro.html + https://la.wikisource.org/wiki/De_Lingua_Latina_(Varro,_Schoppe)
 
 ### Lithuanian
 
@@ -311,6 +312,7 @@
 - [Diccionario de voces lunfardas y vulgares | Fernando Hugo Casullo, Francisco García-Jiménez](https://www.worldcat.org/title/diccionario-de-voces-lunfardas-y-vulgares/oclc/462968878)
 - [El habla de Guanajuato | Peter Boyd-Bowman](https://www.worldcat.org/title/habla-de-guanajuato/oclc/43725471) + https://youtu.be/tD9NplpyWQo
 - [Biblioteca Nacional de España](https://www.youtube.com/user/bibliotecaBNE/playlists)
+- https://www.goodreads.com/book/show/3360861-el-cuento
 
 ### Swedish
 

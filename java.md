@@ -58,6 +58,7 @@
 - [Java-based desktop text editor with live preview, string interpolation, and formulas](https://github.com/DaveJarvis/keenwrite)
 - https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html
 - [IntelliJ IDEA Developer Guide](https://amigoscode.com/courses/enrolled/667200)
+- https://blog.deesee.xyz/code-review/reverse-engineering/2022/05/30/scala-kotlin-groovy-clojure-command-execution.html
 
 ### Security
 
