@@ -12,6 +12,7 @@
 - [Nielsen Norman Group](https://us4.campaign-archive.com/home/?u=538d934a891681a5d850bb4e5&id=7f29a2b335)
 - [Chris Ashton](https://ashton.codes/category/frequent11y)
 - [Alexa Heinrich](https://alexaheinrich.substack.com/archive)
+- [Asociația Metodelor Alternative de Integrare Socială](https://us7.campaign-archive.com/home/?u=0d9eea60dfb7ada276fea7473&id=cb73e5357c)
 
 ### Archeology
 
@@ -66,6 +67,10 @@
 - [Battery Modeling Webinar](https://us18.campaign-archive.com/home/?u=e3dd1920324b4db3a51b620ca&id=4e19a481ac)
 - https://intercalationstation.substack.com/archive
 - [Daniel Kent](https://techtricity.substack.com/archive)
+
+### Communication 
+
+- [Crafters agency](https://us7.campaign-archive.com/home/?u=3753a4a72700eeedc071e9ab8&id=c334c3386e)
 
 ### Constructions
 

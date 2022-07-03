@@ -32,6 +32,7 @@
 - [macOS status monitoring app](https://github.com/gao-sun/eul)
 - https://github.com/onmyway133/archives
 - [Make any website your Mac desktop wallpaper](https://github.com/sindresorhus/Plash)
+- [The Particle Binder](https://github.com/TheIntelCorei9/Swift-Student-Challenge)
 
 
 ### Development
