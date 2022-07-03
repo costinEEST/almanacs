@@ -593,6 +593,7 @@
 - [a function that creates the text change(s) to add a missing import(s) to a file](https://twitter.com/JoshuaKGoldberg/status/1488974653821530114) + https://github.com/nuxt/framework/blob/main/packages/nuxt3/src/auto-imports/transform.ts
 - [Show a rich diff of your published files in npm in your CI environment](https://solverfox.dev/writing/npm-publish-diff)
 - https://github.com/eps1lon/dom-accessibility-api
+- https://github.com/mantoni/eslint_d.js
 
 
 ### Documentation

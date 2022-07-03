@@ -188,6 +188,7 @@
 
 ### René Girard
 
+- https://www.goodreads.com/book/show/36459725-evolution-of-desire
 - https://conversationswithtyler.com/episodes/karl-ove-knausgard
 
 ### Rick Hickey

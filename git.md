@@ -124,6 +124,7 @@
 - [Heroku Review Apps managed by GitHub Actions](https://gist.github.com/hopsoft/ac014e0efc7bfc1dbdb19ff7a66c5274)
 - https://github.com/uraimo/run-on-arch-action
 - [Building GitHub Actions](https://actionsbook.com/toc)
+- https://github.com/peaceiris/actions-gh-pages
 
 ### Tool
 

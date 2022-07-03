@@ -123,6 +123,7 @@
 - https://vino.dev/blog/node-to-rust-day-1-rustup
 - https://www.freecodecamp.org/news/project-euler-problems-in-rust
 - [Built a lisp dialect from zero](https://github.com/coquelicot/functional-from-zero)
+- https://github.com/LearningOS/rust-based-os-comp2022
 
 ### Podcast
 

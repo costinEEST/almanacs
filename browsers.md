@@ -79,7 +79,7 @@
 - https://github.com/SpiralBL0CK/Browser-Pwning-
 - https://github.com/StarCrossPortal/bug-hunting-101
 
-### Extensions
+### Extension
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
 - https://github.com/z0ccc/extension-fingerprints
@@ -92,6 +92,7 @@
 - https://github.com/aeksco/react-typescript-chrome-extension-starter
 - https://robertheaton.com/2018/05/07/making-youtube-less-bad-for-you-using-css
 - https://mmazzarolo.com/blog/2019-01-13-another-tab
+- https://github.com/olsh/Feedly-Notifier
 - [A keyboard interface to the web, inspired by Kakoune](https://github.com/alexherbo2/krabby)
 - https://github.com/acorn/twitter-bookmarks-search
 - https://github.com/Kiwka/urban-dictionary-chrome-extension

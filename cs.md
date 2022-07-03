@@ -148,6 +148,7 @@
 
 ### Miscellaneous
 
+- https://github.com/charlax/professional-programming
 - https://swizec.com/blog/a-holiday-compsci-reading-list-for-you-%f0%9f%8e%85/swizec/9265
 - https://github.com/kdeldycke/awesome-falsehood#meta
 - https://github.com/kdeldycke/awesome-falsehood#emails
