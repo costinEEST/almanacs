@@ -160,6 +160,7 @@
 - https://github.com/wighawag/template-ethereum-contracts
 - https://github.com/atkinsonholly/Drizzle-tutorial-with-React-Hooks
 - [Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier](https://github.com/paulrberg/solidity-template)
+- [An alternative to ethers & web3 that's 20x smaller](https://github.com/Earnifi/essential-eth)
 
 
 ### Bitcoin

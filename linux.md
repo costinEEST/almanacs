@@ -58,7 +58,7 @@
 - [Advanced Operating Systems and Virtualization](https://gist.githubusercontent.com/andreafioraldi/c6ab4765a3821bc6f07537ad4cdafa9e/raw/4351fe1e6235daf85647ad34d2b50df20a21da63/asov_checkshit_singlefile.txt) + https://twitter.com/andreafioraldi/status/1205857977518952448
 - [htop explained](https://peteris.rocks/blog/htop/)
 - https://chrisdown.name/2019/07/18/linux-memory-management-at-scale.html
-- [A book-in-progress about the linux kernel and its insides.](https://0xax.gitbooks.io/linux-insides/content)
+- [A book-in-progress about the linux kernel and its insides](https://github.com/0xAX/linux-insides)
 - [Supplementary material for the paper "Analyzing a Decade of Linux System Calls".](https://github.com/corpaul/decade_of_systemcalls)
 - [Unikernels and Virtual Machines - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf0dMrMDrq7VT1GwHCib9Sc0)
 - https://github.com/danbev/learning-linux-kernel

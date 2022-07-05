@@ -313,6 +313,7 @@
 - [El habla de Guanajuato | Peter Boyd-Bowman](https://www.worldcat.org/title/habla-de-guanajuato/oclc/43725471) + https://youtu.be/tD9NplpyWQo
 - [Biblioteca Nacional de España](https://www.youtube.com/user/bibliotecaBNE/playlists)
 - https://www.goodreads.com/book/show/3360861-el-cuento
+- [The Linguistics of Spanish](https://www.staff.ncl.ac.uk/i.e.mackenzie/index.html)
 
 ### Swedish
 

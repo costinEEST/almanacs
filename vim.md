@@ -40,5 +40,6 @@
 - https://github.com/cjavdev/vim-curriculum
 - https://blog.albingroen.com/posts/an-actually-usable-vim-setup
 - [PowerShell also has a #vi mode](https://twitter.com/emanuelduss/status/1503999923980840964)
+- [Neovim and Tmux for JavaScript Development](https://elijahmanor.com/blog/neovim-tmux)
 
 

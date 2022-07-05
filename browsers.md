@@ -265,6 +265,7 @@ javascript: (() =>
 - [Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning.](https://webcaptioner.com)
 - [How to get sites you use daily out of your browser](https://twitter.com/cramforce/status/1385369724662403072)
 - [Getting Started With Chrome DevTools Protocol](https://github.com/aslushnikov/getting-started-with-cdp)
+- https://github.com/ip2k/I-Dont-Care-About-HSTS-For-Localhost
 
 ### Brave
 

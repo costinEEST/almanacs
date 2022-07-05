@@ -1,6 +1,7 @@
 ### Book
 
 - https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle0
+- https://github.com/mihaiolteanu/circuiteelectrice
 - [What books about hardware hacking would your recommend?](https://twitter.com/gynvael/status/1250749898296709121)
 - https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282
 - https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266
@@ -192,3 +193,4 @@
 - https://github.com/SoCFPGA-learning/General/blob/main/resources.md
 - [How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art)
 - https://github.com/ma-sujithkumar/Energy-Efficient-Home
+- https://github.com/penberg/awesome-low-latency + https://twitter.com/penberg/status/1531541606100258816

@@ -70,6 +70,7 @@
 
 ### Cinema
 
+- https://github.com/JSerZANP/react-source-code-walkthrough-en
 - https://github.com/tiaanduplessis/awesome-react-talks
 - https://github.com/Shopee/shopee-react-knowledgeable/issues/184
 - [Build an Accessible React Component Series](https://www.youtube.com/playlist?list=PLOmKTF_wUDoydvtwWrzEw7DZ9VboV51py)

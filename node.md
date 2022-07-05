@@ -447,6 +447,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 ### Micro service
 
 - https://github.com/stemmlerjs/solid-email-microservice
+- [Build Event-Driven Architectures with Event Sourcing and CQRS | Ethan Garofolo](https://pragprog.com/titles/egmicro/practical-microservices)
 - [A micro service development architecture based on nest.js.](https://github.com/notadd/notadd)
 - [Flatend – Quickly build microservices using P2P networking in Node/Go](https://news.ycombinator.com/item?id=23561904)
 - https://hackernoon.com/learn-how-to-use-webhooks-by-connecting-nodejs-ifttt-and-twitter-k0w3121

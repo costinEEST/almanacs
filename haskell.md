@@ -18,6 +18,7 @@
 - https://huangxuan.me/2018/09/27/avoiding-success-at-all-cost
 - [Vincent Orr](https://www.youtube.com/channel/UCbKpj2hZ0CFXLatyx615JNw/playlists)
 - [Strema: a compiler targeting JavaScript in Haskell](https://www.youtube.com/playlist?list=PLhMOOgDOKD4IkQM75GkAnXI-fpIrDAnsu) + https://gitlab.com/gilmi/strema
+- https://github.com/haskell-beginners-2022/course-plan
 
 ### Compiler
 
