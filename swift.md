@@ -33,6 +33,7 @@
 - https://github.com/onmyway133/archives
 - [Make any website your Mac desktop wallpaper](https://github.com/sindresorhus/Plash)
 - [The Particle Binder](https://github.com/TheIntelCorei9/Swift-Student-Challenge)
+- [iOS app to extract full-resolution video frames as images](https://github.com/arthurhammer/FrameGrabber)
 
 
 ### Development
@@ -71,6 +72,7 @@
 - https://github.com/JohnSundell/SwiftTips
 - https://github.com/kudoleh/iOS-Modular-Architecture
 - https://github.com/joemasilotti/UI-Testing-Cheat-Sheet
+- https://github.com/heckj/swiftui-notes
 
 ### Security
 

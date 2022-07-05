@@ -14,6 +14,7 @@
 - https://github.com/Billy-Ellis/Exploit-Challenges
 - https://github.com/keleshev/compiling-to-assembly-from-scratch + https://news.ycombinator.com/item?id=24609774
 - https://cpulator.01xz.net/?sys=arm-de1soc + https://www.youtube.com/playlist?list=PL2EF13wm-hWAlQe87UB2HV0SVhBXFpXbn + https://www.udemy.com/course/introduction-to-assembly-programming-with-arm
+- [ARM Assembly Reference Manual for iOS, iPadOS, and macOS](https://github.com/evilpenguin/ARMRef)
 
 ### Book
 

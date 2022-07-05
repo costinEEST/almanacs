@@ -63,6 +63,7 @@
 - https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore
 - [a very small v8 javascript runtime for linux only](https://github.com/just-js/just)
 - https://mrale.ph/v8/resources.html
+- [V8 sandbox](https://twitter.com/5aelo/status/1529863751868076032)
 
 ### Exploits
 
@@ -221,6 +222,7 @@
 - [Test your fonts across the web by easily overriding fonts on any webpage](https://github.com/arrowtype/type-x)
 - https://github.com/ansh/bionic-reading
 - https://github.com/elight/slack_emoticon_inhaler
+- [Browser extension that adds a table of contents to GitHub repos, wikis and gists](https://github.com/arthurhammer/github-toc)
 
 ### Bookmarklets
 

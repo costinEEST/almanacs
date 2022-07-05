@@ -58,6 +58,7 @@
 - https://nuculabs.dev/2022/01/22/iphone-6s-battery-replacement
 - [Xcode extension that evaluates selected mathematical expressions and replaces them with the result](https://github.com/revolter/EvaluateForXcode)
 - [Hardware-accelerated virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv)
+- [Log iOS network traffic without a proxy](https://github.com/evilpenguin/NetworkSniffer)
 
 ### Security
 

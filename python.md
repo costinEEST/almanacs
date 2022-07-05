@@ -183,6 +183,7 @@
 - [Proof of concept for abusing Telegram's "People Near Me" feature and tracking people's location](https://github.com/jkctech/Telegram-Trilateration)
 - https://github.com/reanalytics-databoutique/webscraping-open-project
 - https://github.com/reanalytics-databoutique/advanced-scrapy-proxies
+- [Custom Selenium Chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 
 ### Security
 
@@ -255,6 +256,7 @@
 - https://github.com/Haaroon/secret-santa
 - https://webinstall.dev/pyenv
 - https://github.com/scprogramming/WordtoHTML
+- https://github.com/juancarlospaco/faster-than-requests
 
 ### Testing
 

@@ -49,6 +49,7 @@
 - https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a
 - https://cult.honeypot.io/originals/graphql-the-documentary
 - https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
+- https://github.com/dolevf/graphql-cop
 - [GRANDcase.FM is a podcast application built using GRANDstack (GraphQL, React, Apollo, Neo4j Database)](https://github.com/johnymontana/grandcast.fm)
 - https://github.com/Shopify/graphql-design-tutorial
 - [Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.](https://github.com/enisdenjo/graphql-ws)
@@ -64,6 +65,7 @@
 - https://andrewhoglund.com/talks/2021/09/29/migrating-githubs-global-ids.html
 - https://andrewhoglund.com/code/talks/2020/09/21/from-0-to-openapi.html
 - https://twitter.com/me0wday/status/1409833313536135169
+- https://github.com/Leoid/CodeReviewCS/tree/master/graphql
 
 ### gRPC
 

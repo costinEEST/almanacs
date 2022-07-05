@@ -179,6 +179,7 @@
 - https://dev.to/ko1/debug-gem-blog-initial-commit-3ip
 - https://github.com/JuanitoFatas/ruby-performance-tools
 - [How do programmers get better at debugging?](https://twitter.com/ThomasCountz/status/1533573484051189760)
+- https://planetscale.com/blog/identifying-slow-rails-queries-with-sqlcommenter
 
 ### Deploy
 
@@ -265,6 +266,7 @@
 - https://dchua.com/posts/2014-08-17-equivalent-of-try-for-hashes-ruby
 - https://austrian-nerd.dev/blog/2022-06-22-recently-in-ruby-core-june-edition
 - https://devver.wordpress.com/2009/06/30/a-dozen-or-so-ways-to-start-sub-processes-in-ruby-part-1
+- https://sourcediving.com/how-we-improved-our-rails-apps-performance-with-conditional-get-requests-35a7a472a0b9
 
 ### Pattern
 

@@ -36,7 +36,7 @@
 ### Book
 
 - [Leanpub Reader Mailing List](https://us3.campaign-archive.com/home/?u=d9dae16c3f9f533e6c9e48efb&id=92096ddde9)
-- [Editura Paideia](https://us1.campaign-archive.com/home/?u=ed0b8e6c894620101da2e308d&id=af61902f1d)
+- [Editura Paideia SRL](https://us1.campaign-archive.com/home/?u=ed0b8e6c894620101da2e308d&id=af61902f1d)
 
 ### Business
 
