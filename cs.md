@@ -5,6 +5,7 @@
 - https://twitter.com/kenpex/status/1211796966495141888
 - https://fermatslibrary.com/s/perfect-numbers
 - https://github.com/Just-A-Visitor/Algorithmic-Pseudocode
+- [Solutions to Introduction to Algorithms Third Edition](https://github.com/walkccc/CLRS)
 
 ### Data structures
 

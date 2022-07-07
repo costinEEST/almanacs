@@ -291,6 +291,7 @@
 
 - https://www.matthewball.vc/the-metaverse-primer
 - [Apple, Its Control Over the iPhone, and The Internet](https://www.matthewball.vc/all/applemetaverse)
+- [Amir Yaron, the Governor of the Bank of Israel](https://twitter.com/ittaia/status/1544730206342189056)
 
 
 ### Radio

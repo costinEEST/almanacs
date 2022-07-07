@@ -361,7 +361,7 @@
 - https://github.com/tryshchenko/es6-generators-benchmark
 - https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score
 
-### Demo
+### Inspire
 
 - https://github.com/SergiuAlexandruPop/crwn-clothing
 - https://github.com/usfslk/ReactDarkMode
@@ -412,6 +412,7 @@
 - https://kyleshevlin.com/my-course-platform
 - [Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, MongoDB, and GraphQL. It plays nicely with npm, Docker and Kubernetes](https://github.com/reactioncommerce/reaction)
 - [The open-source Shopify alternative](https://github.com/medusajs/medusa)
+- https://github.com/pgaspar/covid-square
 
 ### Testing
 

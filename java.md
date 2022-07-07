@@ -48,6 +48,7 @@
 ### Development
 
 - https://github.com/ThomasVitale/devtalks-2022-serverless-java + https://speakerdeck.com/thomasvitale/serverless-java-with-spring-boot
+- https://perlun.eu.org/en/2021/12/30/the-dangers-of-referential-equality-in-java
 
 
 ### Tool
@@ -79,11 +80,12 @@
 - https://github.com/cxxr/better-java
 - [Shows shipwreck locations on a map; each wreck can be clicked for further information](https://github.com/lauriharpf/shipwrecks)
 
-### Opinions
+### Opinion
 
 - https://noncombatant.org/2014/07/31/why-i-love-java
 - https://www.infoq.com/news/2021/01/java-turns-25 + https://news.ycombinator.com/item?id=25881704
 - https://davidhettler.net/blog/go-to-stack-for-web-apps-in-2021
+- https://perlun.eu.org/en/2019/04/05/java-for-csharp-programmers
 
 ### Versions
 

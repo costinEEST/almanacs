@@ -2,7 +2,7 @@
 
 - [A time tracking app that respects your privacy and the gets the job done without being fancy.](https://github.com/hamaluik/timecop)
 - https://github.com/ma-sujithkumar/Instragram-Videos-and-Display-Profile-Downloader-in-Flutter
-
+- [Lotti is a smart journaling app that allows you to track relevant data about your life, in complete privacy](https://github.com/matthiasn/lotti)
 - https://www.amazon.com/Flutter-Complete-Reference-Create-beautiful-ebook
 
 ### Course

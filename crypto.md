@@ -69,6 +69,7 @@
 - https://github.com/vixentael/my-talks + https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8
 - [Benny Pinkas](https://twitter.com/bennypinkas)
 - [Eyal Ronen](https://twitter.com/eyalr0)
+- [Alin Tomescu](https://decentralizedthoughts.github.io/about-alin)
 
 ### Demos
 

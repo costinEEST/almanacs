@@ -132,6 +132,7 @@
 - https://www.youtube.com/playlist?list=PLaLOVNqqD-2HKHtfe4No8Sua_3JEvRHGe  https://cosmolearning.org/courses/medieval-europe-500-1500
 - [Bilkent: HCIV-102 History of Civilization II | CosmoLearning History](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FzHv8-N93sSiMIfmST-Gzf)
 - https://github.com/smenjas/educational-content#history
+- https://twitter.com/MedievalUpdates
 
 ### Mythology
 

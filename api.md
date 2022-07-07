@@ -79,6 +79,7 @@
 - https://github.com/ChickenKyiv/awesome-food-open-source
 - https://github.com/openfoodfacts/openfoodfacts-python
 - [A modern DICOM visualizer powered by Sethealth](https://github.com/sethealth/openviewhealth)
+- [API for Current cases and more stuff about COVID-19 and Influenza](https://github.com/disease-sh/api)
 
 ### JSON
 

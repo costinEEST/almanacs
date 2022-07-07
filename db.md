@@ -33,6 +33,7 @@
 - https://www.freecodecamp.org/news/learn-to-use-the-mysql-database
 - https://github.com/AlisdairO/pgexercises
 - https://www.freecodecamp.org/news/build-a-crm
+- [Distributed Systems Engineering notes (6.824, Spring 2015)](https://github.com/alinush/6.824-lecture-notes)
 
 ### Tool
 

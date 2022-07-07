@@ -156,6 +156,7 @@
 - [Ilya Bylich](https://github.com/iliabylich/iliabylich.github.io/tree/master/_posts)
 - [Vladislav Trotsenko](https://www.codewars.com/users/bestwebua)
 - Jörn Schneeweisz: https://code-audit-training.gitlab.io, https://0day.click/page/references
+- [Pedro Gaspar](https://exercism.org/profiles/pgaspar)
 
 ### Compiler 
 
@@ -163,6 +164,7 @@
 
 ### Debug
 
+- https://blog.heroku.com/tidying-ruby-object-allocations
 - [bundle open rails](https://twitter.com/getajobmike/status/1343273147869450240)
 - https://www.jakeworth.com/how-to-read-a-stack-trace
 - https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa
@@ -180,6 +182,7 @@
 - https://github.com/JuanitoFatas/ruby-performance-tools
 - [How do programmers get better at debugging?](https://twitter.com/ThomasCountz/status/1533573484051189760)
 - https://planetscale.com/blog/identifying-slow-rails-queries-with-sqlcommenter
+- https://perlun.eu.org/en/2017/08/24/debugging-hard-to-reproduce-ruby-memory-leaks
 
 ### Deploy
 
@@ -207,6 +210,7 @@
 - https://github.com/eliotsykes/real-world-rails
 - https://github.com/lobsters/lobsters
 - https://github.com/mastodon/mastodon
+- https://github.com/websebdev/fake_rails
 
 ### Gem
 
