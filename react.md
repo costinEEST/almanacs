@@ -4,8 +4,6 @@
 - https://github.com/alan2207/bulletproof-react
 - [Complete Intro to React v5](https://btholt.github.io/complete-intro-to-react-v5/)
 - https://github.com/kentcdodds/advanced-react-patterns-v2
-- https://github.com/eggheadio/eggheadio-course-notes/tree/master/simplify-react-apps-with-react-hooks
-- https://github.com/r31gN/grasping-react-basics + https://github.com/r31gN/advanced-react
 - https://github.com/tylermcginnis/react-course
 - https://github.com/sibelius/relay-modern-course
 - https://github.com/himynameisdave/safari-training-react
@@ -17,8 +15,7 @@
 - https://github.com/Lemoncode/react-lab-sessions
 - https://github.com/ReactTraining/react-router-5-course
 - https://github.com/bramus/react-from-scratch-exercises
-- [GraphQL, Apollo, ReactJS.](https://academy.nomadcoders.co/p/offline-apollo-kr)
-- https://marko-knoebl.github.io/slides/overview-react-topics.html
+- https://marko-knoebl.github.io/slides/react-all-en.html
 - https://github.com/nikgraf/2020-05-react-advanced
 - https://www.contentful.com/developers/videos/learn-graphql
 - https://www.freecodecamp.org/news/learn-how-to-use-react-and-graphql-to-make-a-full-stack-social-network
@@ -29,7 +26,6 @@
 - https://twitter.com/brian_lovin/status/1377346382084763650
 - [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://www.youtube.com/playlist?list=PLFGFKs8nQ3EbG-ykV8xc1mBt99sqq2Ssx) + https://github.com/dijonmusters/e-commerce-in-25-days
 - https://github.com/tannerlinsley/react-query-essentials
-- https://www.better.dev/intro-to-react-challenges-for-beginners
 
 ### Boilerplate
 
@@ -39,7 +35,6 @@
 - https://github.com/dasmata/styleguide
 - [Folder structure](https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346)
 - https://github.com/netlify/next-on-netlify
-- https://github.com/eggheadio/egghead-next
 - https://github.com/cruip/tailwind-landing-page-template
 - https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
 - https://github.com/serverless-nextjs/serverless-next.js
@@ -134,17 +129,11 @@
 
 ### Context API
 
-- https://tobea.dev/post/global-state-cleanliness-with-react-context
-- https://github.com/diegohaz/awesome-react-context
 - [That React Component Right Under Your Context Provider Should Probably Use `React.memo`](https://twitter.com/sophiebits/status/1228942768543686656)
-- https://github.com/Lemoncode/react-context-typescript
-- [Performant, scalable, testable and resilient state management using the Context API.](https://www.vorillaz.com/the-art-of-state-management)
 - [What’s your favorite resource for understanding React component composition to avoid prop drilling and managing shared state in complex components?](https://twitter.com/jhooks/status/1251636235375800320)
-- https://academy.nomadcoders.co/p/antiredux-new-react-context-api
 - https://jclem.net/posts/building-a-router-in-react
 - https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state
 - https://thoughtspile.github.io/2021/10/27/better-react-context
-- https://souporserious.com/reading-context-in-pragmas
 
 ### Component
 

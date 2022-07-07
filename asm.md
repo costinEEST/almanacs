@@ -33,6 +33,7 @@
 - [Introduction to Assembly | Irvin Lemus](https://github.com/infosecirvin/assembly)
 - https://omu.rce.so/lessons/asm-x86-64
 - https://github.com/levskaya/jslinux-deobfuscated
+- https://github.com/rootkit-io/awesome-malware-development
 
 ### Cinema
 
@@ -53,6 +54,7 @@
 - [Links for advanced programmers](http://alexfru.narod.ru/elinks.html#advanced)
 - https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/assembly.md
 - https://github.com/ReversingID/Awesome-Reversing/blob/master/_software.md
+- http://www.vikaskumar.org/amd64/index.htm
 
 ### RISC-V
 

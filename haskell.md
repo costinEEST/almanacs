@@ -43,6 +43,7 @@
 - https://github.com/graninas/software-design-in-haskell
 - https://github.com/cohomolo-gy/haskell-resources
 - https://github.com/ocharles/zero-to-quake-3
+- https://github.com/tweag/awesome-learning-haskell
 
 ### Radio
 

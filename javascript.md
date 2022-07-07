@@ -148,7 +148,6 @@
 - https://github.com/andreasbm/web-skills
 - https://learnjavascript.online
 - https://github.com/sophi-li/OKRs-self-learning
-- https://github.com/eggheadio/eggheadio-course-notes
 - https://egghead.io/courses/functional-programming-concepts-in-purescript
 - https://github.com/nicoespeon/refactoringjavascript.dev
 - [Namaste JavaScript | Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) + https://twitter.com/akshaymarch7/status/1318205871726292995
