@@ -24,6 +24,7 @@
 - [Why Chrome OS?](https://twitter.com/WebReflection/status/1244374562139242497)
 - [Reviews ~ Just Josh](https://www.youtube.com/playlist?list=PLUkjpFwWO9XkPWBing0cgdzKHUfewUVpu)
 - https://127001.me/post/ten-years-of-thinkpadding
+- https://www.youtube.com/c/LaptopRetrospective/playlists
 
 ### Keyboard
 

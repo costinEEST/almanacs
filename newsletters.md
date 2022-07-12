@@ -277,6 +277,10 @@
 
 - [Jeremy Kun](https://buttondown.email/j2kun/archive)
 
+### Music 
+
+- [Ted Gioia](https://tedgioia.substack.com/archive)
+
 ### Ruby
 
 - [Jemma Issroff](https://buttondown.email/jemmaissroff/archive)
