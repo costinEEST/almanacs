@@ -57,6 +57,10 @@
 - [Newsletter pe Legale: Ana-Maria Udriste and Bogdan Ciacli](https://avocatoo.substack.com)
 - [Patents from big tech companies and a wider list of all patents from these companies](https://patentdrop.substack.com/archive)
 
+### Marketing 
+
+- [Prashant Bagga](https://us4.campaign-archive.com/home/?u=f80b1bc87f246a92fee9bfceb&id=8573422726)
+
 ### Buddhism
 
 - [Prietenii Editurii Rabten](https://us9.campaign-archive.com/home/?u=631f68b23c06eceac05035aff&id=194eb176a7)
@@ -252,6 +256,7 @@
 - https://mattbiotech.substack.com/archive
 - [Eric Topol](https://erictopol.substack.com/archive)
 - [Peter Attia](https://peterattiamd.com/email-archive)
+- [Tilde Cafe](https://us11.campaign-archive.com/home/?u=ae805569dda0a7c42c5899749&id=f83d3214e1)
 
 ### Privacy
 
@@ -272,6 +277,7 @@
 
 - https://vimtricks.substack.com/archive
 - [Sami Laiho](https://us7.campaign-archive.com/home/?u=e13c84c9564fa4b2cb6afcb15&id=318e3d92bc)
+- [Sacha Chua](https://sachachua.com/blog/category/emacs)
 
 ### Math
 
@@ -292,6 +298,8 @@
 - [Noah Gibbs](https://us2.campaign-archive.com/home/?u=c5569fb6471a3e64be2aa1466&id=82afd59934)
 - https://womenonrails.substack.com/archive
 - [Arkency](https://us5.campaign-archive.com/home/?u=1bb42b52984bfa86e2ce35215&id=4cee302d8a)
+- [Nate Berkopec](https://us11.campaign-archive.com/home/?u=1aa0f43522f6d9ef96d1c5d6f&id=840412962b)
+- [Matt Swanson](https://boringrails.substack.com/archive)
 
 ### Politics
 

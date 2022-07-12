@@ -11,6 +11,7 @@
 - https://emacsconf.org/2020/talks + https://news.ycombinator.com/item?id=25324311
 - [Stefan learns emacs](https://www.youtube.com/playlist?list=PLkp6BbeMCOm3OHBUUFSHmsJDsaKiKvmm3)
 - https://github.com/daviwil/emacs-from-scratch
+- [Sacha Chua](https://www.youtube.com/c/sachactube/videos)
 
 ### Community
 
