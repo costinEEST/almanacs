@@ -7,6 +7,7 @@
 
 - https://www.hackingwithswift.com/quick-start/understanding-swift
 - https://www.jessesquires.com/blog/2020/12/28/resources-for-learning-about-compilers-and-llvm
+- https://github.com/PacktPublishing/Test-Driven-iOS-Development-with-Swift-Fourth-Edition
 
 ### Course
 
@@ -49,6 +50,7 @@
 - https://danmiranda.io/content/building-a-card-memory-game-in-swift
 - [Recommended resource for learning SwiftUI](https://github.com/onmyway133/blog/issues/862)
 - https://github.com/onmyway133/emoji
+- https://github.com/peterfriese/SwiftUI-Concurrency-Essentials
 
 ### Practice
 

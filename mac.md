@@ -63,6 +63,7 @@
 
 ### References
 
+- [I sell my macOS apps in my own store](https://christiantietze.de/fastspring)
 - https://isapplesiliconready.com/for/developer
 - https://amanhimself.dev/blog/setup-macbook-m1
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide

@@ -301,6 +301,7 @@
 - https://aboobacker.in/2017/02/15/lets-learn-rack-by-implementing-it-from-scratch.html
 - https://maximomussini.com/posts/a-rubyist-guide-to-vite-js
 - https://daniel-azuma.com/blog/2021/05/04/discord-command-in-ruby-on-google-cloud-functions-part-4
+- https://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app
 
 
 ### Tool
