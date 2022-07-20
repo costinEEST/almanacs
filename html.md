@@ -205,6 +205,7 @@
 ### Semantic
 
 - https://uselessdivs.com/blog/a-short-guide-to-help-you-pick-the-correct-html-tag
+- https://matthiasott.com/notes/level-up-your-headings-game
 
 ### Security
 

@@ -48,3 +48,8 @@
 - [Slides, figures, and other material for teaching using tracing and observability on FreeBSD](https://github.com/teachbsd/course)
 - https://ianthehenry.com/posts/how-to-learn-nix
 - https://push.cx/2018/nixos
+
+
+### Tool
+
+- [Paint program for Unix](https://github.com/justinmeiners/classic-colors)

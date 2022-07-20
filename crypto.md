@@ -89,6 +89,8 @@
 - https://benjamin-altpeter.de/encrypting-email
 - https://unix-ninja.com/p/attacking_google_authenticator + https://twitter.com/adam_baldwin/status/1341470342666014720
 - [Off-The-Record Messaging part 1: the problem with PGP](https://robertheaton.com/otr1)
+- http://www.saminiir.com/establish-cryptographic-identity-using-gnupg
+- http://www.saminiir.com/paper-storage-and-recovery-of-gpg-keys
 
 ### Transport Layer Security (TLS)
 

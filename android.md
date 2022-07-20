@@ -27,6 +27,7 @@
 - https://github.com/Nickersoft/awesome-careers#android-engineer
 - [Pierre-Yves Ricau](https://twitter.com/Piwai/status/1476962698982264838)
 - https://simran.app/2021/08/13/free-path-android-development-copy
+- https://blog.esper.io/build-android-phone-with-gms
 
 ### Cinema
 
@@ -146,3 +147,4 @@
 - https://palant.info/2021/02/22/setup-for-testing-android-app-vulnerabilities
 - [Cryptographic design and implementation of Android’s Hardware-Backed Keystore in Samsung’s Galaxy S8, S9, S10, S20, and S21 flagship devices. The paper provide a detailed description of the cryptographic design and code structure, and severe design flaws](https://eprint.iacr.org/2022/208.pdf)
 - [A cloud based vulnerable hybrid Android App](https://github.com/appsecco/VyAPI)
+- https://thebinaryhick.blog/2022/07/14/session-on-android-an-app-wrapped-in-signal

@@ -10,6 +10,7 @@
 - [How to Contribute to Open Source (Next.js)](https://twitter.com/leeerob/status/1482519857195274242)
 - [Triage Issues With Me - Heroics](https://www.youtube.com/playlist?list=PLg03g-T-woiDCY1m4PdMh2Vv2eftDdVZP)
 - [Corporate Open Source Anti-patterns](https://youtu.be/Pm8P4oCIY3g)
+- [Empowering science with open-source software by Santiago Soler](https://github.com/santisoler/iag-usp-2022)
 
 ### Community 
 
@@ -30,3 +31,4 @@
 - https://www.swyx.io/oss-repo-setup + https://twitter.com/swyx/status/1219036507228590081
 - https://github.com/ysoftwareab/know-your-ietf-well
 - [A list of Developer Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
+- [Creative Commons Licenses for Github](https://github.com/santisoler/cc-licenses)

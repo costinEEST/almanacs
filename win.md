@@ -1,3 +1,7 @@
+### Book 
+
+- [Windows 11 From Beginner to Advanced](https://www.amazon.com/dp/B09HG2RV9X)
+
 ### How to
 
 - https://www.bleepingcomputer.com/news/microsoft/you-can-still-upgrade-to-windows-10-for-free-heres-how

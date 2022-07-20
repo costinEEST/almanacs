@@ -10,6 +10,7 @@
 ### Community
 
 - https://github.com/davelab6/type-notes
+- [Khaled Hosny](https://twitter.com/KhaledGhetas)
 
 ### Cinema
 

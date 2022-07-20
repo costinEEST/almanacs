@@ -184,6 +184,11 @@
 - https://github.com/reanalytics-databoutique/webscraping-open-project
 - https://github.com/reanalytics-databoutique/advanced-scrapy-proxies
 - [Custom Selenium Chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+- https://github.com/saminiir/anki-crawler
+
+### Static website 
+
+- https://nelsonslog.wordpress.com/2022/07/18/tech-notes-on-my-linkblog
 
 ### Security
 
@@ -201,6 +206,7 @@
 - https://github.com/ochronasec/ochrona_python_vulnerabilities
 - [Crypto Mistakes ON demand](https://github.com/kojenov/cmon)
 - https://github.com/redpointsec/vtm + https://www.youtube.com/watch?v=f6UOBCJ9pjw&list=PLObjwXTc0xGOfWgHpWFkxukMDbpuDRo58&index=8
+- [Collection of Packer and Vagrant scripts that allow you to quickly bring a Windows Active Directory online, complete with a collection of endpoint security tooling and logging best practices](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) + https://twitter.com/Centurion/status/940267549840642051
 
 ### Server
 

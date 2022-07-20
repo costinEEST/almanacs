@@ -78,6 +78,7 @@
 - https://profs.info.uaic.ro/~mmoruz/courses/GD2021.html
 - [Solving Wordle using information theory](https://github.com/3b1b/videos/tree/master/_2022/wordle)
 - http://cristian.francu.com/games
+- https://github.com/Poussinou/FLOSS-Games-on-Steam
 
 ### The creators
 

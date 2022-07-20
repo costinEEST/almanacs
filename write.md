@@ -9,6 +9,7 @@
 - https://www.academia.edu/44800810/Good_With_Words_By_PATRICK_BARRY + https://www.coursera.org/specializations/good-with-words + https://www.youtube.com/playlist?list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRDnaf 
 - https://github.com/eddiejaoude/book-open-source-tips
 - [A book to help software developers write better prose](https://github.com/joshuacc/prose-for-programmers)
+- http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc + https://news.ycombinator.com/item?id=26394564
 
 ### Cinema
 
@@ -25,6 +26,7 @@
 - [Denise Schmandt-Besserat](https://en.wikipedia.org/wiki/Denise_Schmandt-Besserat#Career)
 - https://github.com/antoinentl/web-books-initiatives
 - https://www.obsidianroundup.org/resources
+- https://github.com/santisoler/taller-latex
 
 ### Tool
 

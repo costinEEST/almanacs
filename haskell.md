@@ -44,6 +44,7 @@
 - https://github.com/cohomolo-gy/haskell-resources
 - https://github.com/ocharles/zero-to-quake-3
 - https://github.com/tweag/awesome-learning-haskell
+- https://wiki.haskell.org/Roll_your_own_IRC_bot
 
 ### Radio
 

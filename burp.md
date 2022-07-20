@@ -45,3 +45,4 @@
 - http://b1twis3.ca/burpsuite-30-pro-tips
 - https://www.pentagrid.ch/en/blog/teaching_burp_a_new_http_transport_encoding
 - [Which tools would you consider competitors to Burp and ZAP?](https://twitter.com/floyd_ch/status/1517529448899391493)
+- https://parsiya.net/blog/2019-10-13-quality-of-life-tips-and-tricks-burp-suite

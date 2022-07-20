@@ -81,7 +81,6 @@
 - https://mkaz.blog/misc/notes-on-technical-writing
 - https://www.quora.com/What-is-the-best-way-to-take-notes/answer/S%C3%B6nke-Ahrens + https://vimeo.com/275530205 + https://strengejacke.wordpress.com/2015/10/07/introduction-to-luhmanns-zettelkasten-thinking-and-its-technical-implementation + https://clerestory.netlify.com/zk + https://clerestory.netlify.com/zk1 + https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes + https://zettelkasten.de/posts/overview + https://www.amazon.com/Make-Stick-Peter-C-Brown-ebook/dp/B00JQ3FN7M + https://takesmartnotes.com/tools + https://www.amazon.com/review/create-review/ref=cm_cr_dp_d_wr_but_top?ie=UTF8&channel=glance-detail&asin=1542866502 + https://www.zsolt.blog/2021/01/evergreen-note-on-notetaking-strategies.html + https://elizabethbutlermd.com/9-more-examples-creative-personal-knowledge-management-systems-workflows + https://twitter.com/elizabutlermd/status/1473524642044203013
 - https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016 + https://youtu.be/NNuG5xb4K_8
-- https://github.com/James-Yu/LaTeX-Workshop
 - [If you could read only one writer — and one writer only — for the rest of your life, who would it be?](https://twitter.com/david_perell/status/1228165158876282882)
 - [Learning Technical Writing Using the Engineering Method by Norman Ramsey](https://www.cs.tufts.edu/~nr/pubs/learn.pdf)
 - [Markdeep is a technology for writing plain text documents that will look good in any web browser, whether local or remote. It supports diagrams, calendars, equations, and other features as extensions of Markdown syntax.](https://casual-effects.com/markdeep)
@@ -104,7 +103,6 @@
 - https://hachibu.net/posts/2020/how-i-manage-my-random-daily-notes
 - [simplenoteapp First Impressions](https://twitter.com/jsjoeio/status/1354518287980371970)
 - https://blacusens.ro/2020/12/de-ce-sa-faci-un-curs-de-scris-si-cateva-recomandari
-- http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc + https://news.ycombinator.com/item?id=26394564
 - https://github.com/rubymorillo/pocket-tech-writing-list
 
 ### Learning

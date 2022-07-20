@@ -123,6 +123,7 @@
 ### Book
 
 - [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html) + https://github.com/source-academy/sicp + https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1
+- https://github.com/dexteryy/spellbook-of-modern-webdev
 - [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
 - [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
 - https://github.com/amilajack/reading/tree/master/JavaScript
@@ -434,6 +435,7 @@
 - https://whistlr.info/2020/understanding-load
 - [DOM Traversing and Scraping using GraphQL](https://github.com/syrusakbary/gdom)
 - [Collection of functions used for DOM manipulations](https://github.com/revolter/min)
+- [Fire mouse events when a user intends it](https://github.com/tristen/hoverintent)
 
 ### Single-page application
 
