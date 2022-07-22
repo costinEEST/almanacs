@@ -248,13 +248,14 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://boneskull.com/recursive-directory-removal-in-node-js
 - https://2ality.com/2022/06/nodejs-file-system.html
 
-### Modules
+### .esm
 
 - https://gils-blog.tayar.org/tags/esm
 - https://github.com/giltayar/ah-theyre-here-esm-nodejs
 - [Easily install, configure and compose Node.js ESM loaders.](https://github.com/targos/multiloader) + https://twitter.com/giltayar/status/1437273836899164160
 - [What is the best way to check if a node module/file is being called like a script instead of requiring it?](https://twitter.com/sseraphini/status/1455954446656098310)
 - [Publish JS project as dual ES modules and CommonJS package to npm](https://github.com/ai/dual-publish)
+- https://dev.to/jakobjingleheimer/custom-esm-loaders-who-what-when-where-why-how-4i1o
 
 
 ### Event loop
@@ -443,6 +444,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [FIDE (International Chess Federation) ratings pages scraper](https://github.com/xRuiAlves/fide-ratings-scraper)
 - https://github.com/sw-yx/brain/blob/master/R%20-%20Product/Automation%20Notes.md
 - https://github.com/kennymkchan/nba-topshot-scraper
+- https://blog.vjeux.com/2021/javascript/trackmania-medal-distribution.html
 
 ### Micro service
 

@@ -172,6 +172,7 @@
 - https://ui.dev/useref
 - https://betterprogramming.pub/why-you-should-be-separating-your-server-cache-from-your-ui-state-1585a9ae8336
 - [The composition patterns (usage of children) that we sometimes use to optimize can also be used to interleave components of different types](https://twitter.com/sebmarkbage/status/1096115287781400576)
+- https://julesblom.com/writing/component-displayname
 
 ### Concurrent Mode/Suspense
 
@@ -306,6 +307,7 @@
 
 - https://blog.plasmic.app/posts/remix-for-nextjs-developers + https://twitter.com/yaaang/status/1470814383353696259
 - https://www.adamcollier.co.uk/blog/moving-from-next-to-remix
+- https://andre-landgraf.dev/blog/2022-07-16_why_remix_is_not_a_react_framework_but_a_full_stack_web_framework
 
 ### Package
 

@@ -20,6 +20,7 @@
 - [Correole subscribes/unsubscribes readers and sends the newsletter](https://github.com/mrrusof/correole)
 - https://github.com/tomholford/twitter-labs-api
 - https://github.com/jhackett1/age-uk-boost
+- https://github.com/koss-lebedev/paysimple-ruby
 
 
 ### Algorithm
@@ -245,6 +246,7 @@
 
 ### Internals
 
+- https://rubyreferences.github.io/rubychanges/evolution.html
 - https://stackoverflow.com/questions/22827566/ruby-parameters-by-reference-or-by-value/22827949#22827949
 - [Proc#arity](https://twitter.com/skryukov_dev/status/1447509791174168578)
 - https://noteflakes.com/articles/2021-10-20-explaining-ruby-fibers

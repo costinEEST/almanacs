@@ -371,3 +371,4 @@
 - [Easy to use device that connects to a WiFi access point, to become a hotspot.](https://twitter.com/bendechrai/status/1314886551529119744)
 - https://www.ipspace.net/Category:History
 - https://cseweb.ucsd.edu//~varghese/networkdesignautomationvision.pdf + [Did we learn anything from the Facebook outage?](https://twitter.com/_drbruced/status/1452747573127618562)
+- https://github.com/n0x08/ConferenceTalks/blob/master/BecomeLoadbalancer_TR22.pdf

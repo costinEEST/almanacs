@@ -107,6 +107,10 @@
 
 - [#CholesterolScience - Dave Feldman](https://www.youtube.com/playlist?list=PLWNQLvi9Q_zuigCB6JPmDQuR3TwfJO3QX)
 
+### Chocolate
+
+- [Cocoa and Chocolate](https://www.europeana.eu/en/set/5806)
+
 ### Dairy
 
 - https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study

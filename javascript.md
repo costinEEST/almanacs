@@ -595,6 +595,7 @@
 - [Show a rich diff of your published files in npm in your CI environment](https://solverfox.dev/writing/npm-publish-diff)
 - https://github.com/eps1lon/dom-accessibility-api
 - https://github.com/mantoni/eslint_d.js
+- [Bun and Deno - the new JS Runtimes](https://twitter.com/jarredsumner/status/1548072064501747712)
 
 
 ### Documentation
@@ -605,6 +606,8 @@
 - https://timothygu.me/es-howto + https://github.com/TimothyGu/es-howto
 - [Underscore.js annotated source](https://web.archive.org/web/20151205080537/http://documentcloud.github.io:80/underscore/docs/underscore.html)
 - https://ryzokuken.dev/slides
+- https://blog.1password.com/docusaurus-documentation-framework
+- https://jonmeyers.io/blog-series/cookies-in-remix
 
 ### Debugging
 
