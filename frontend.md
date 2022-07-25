@@ -134,7 +134,6 @@
 - https://github.com/hellerve/programming-talks#uxui
 - [How to Fix Mobile Dating Apps](https://matt.sh/fix-dating-apps)
 - [An open and organized directory of the best pieces about Product Management.](https://theproductindex.com)
-- https://alexanderell.is/posts/taking-over-my-clipboard
 - https://www.indiehackers.com/post/secret-google-ux-playbooks-e603154154
 - [User Experience Fundamentals - The Team W](https://www.youtube.com/playlist?list=PLXyx-Y-4xxNRANuIRlC7GnsvlMOOuCVzZ)
 - https://growth.design/case-studies/tiktok-feed-psychology

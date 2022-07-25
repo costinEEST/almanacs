@@ -201,6 +201,7 @@
 - https://blog.ikuamike.io/posts/2021/netcat + https://news.ycombinator.com/item?id=27973020
 - [TCP congestion control](https://twitter.com/_drbruced/status/1447691496849764357) + https://github.com/SystemsApproach/tcpcc + https://tcpcc.systemsapproach.org
 - [TCP Congestion Control: A Systems Approach](https://github.com/SystemsApproach/tcpcc)
+- https://alexanderell.is/posts/toy-traceroute
 
 
 ### HTTP

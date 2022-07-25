@@ -78,6 +78,10 @@
 - [It's not OK to ship software in memory-unsafe languages.](https://twitter.com/tqbf/status/1354170650806657024)
 - https://gankra.github.io/blah/c-isnt-a-language
 
+### Practice
+
+- https://alexanderell.is/posts/rpc-from-scratch + https://alexanderell.is/posts/terrier-dist-sys
+
 ### References
 
 - https://www.learn-c.org

@@ -248,7 +248,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://boneskull.com/recursive-directory-removal-in-node-js
 - https://2ality.com/2022/06/nodejs-file-system.html
 
-### .esm
+### .mjs
 
 - https://gils-blog.tayar.org/tags/esm
 - https://github.com/giltayar/ah-theyre-here-esm-nodejs

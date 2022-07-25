@@ -213,6 +213,7 @@
 - [Python comes with a built-in HTTP server and SMTP server](https://twitter.com/ohmypy/status/1451560687436767240)
 - [Fun with sockets: let's write a webserver!](https://twitter.com/b0rk/status/1211762580655607808)
 - [A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.](https://github.com/mirumee/saleor)
+- https://alexanderell.is/posts/wikipedia-over-whatsapp
 
 ### Standard library
 

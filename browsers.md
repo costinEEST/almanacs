@@ -10,7 +10,6 @@
 - [new MutationObserver()](https://www.seancassidy.me/genius-blocker.html)
 - https://github.com/AurelioDeRosa/HTML5-API-demos
 - https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn
-- https://webkit.org/blog/10855/async-clipboard-api
 - https://formidable.com/blog/2020/resize-observer
 - https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web + https://twitter.com/webkit/status/1318256785447211009
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html
@@ -21,6 +20,8 @@
 - [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
 - [Proposal for an API which would allow grabbing a screenshot.](https://github.com/eladalon1983/mediacapture-screenshot)
 - https://www.vector-logic.com/blog/posts/on-request-animation-frame-and-embedded-iframes
+- [Detecting pitch with the Web Audio API and autocorrelation](https://alexanderell.is/posts/tuner)
+- https://wolfgangrittner.dev/how-to-use-clipboard-api-in-firefox
 
 
 ### new IntersectionObserver()
@@ -119,7 +120,7 @@
 - [Open New Tab, and write down every piece of your thought!](https://github.com/wildskyf/tab-notes)
 - https://shubhapradha.github.io/30daybookmarks
 - https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon
-- [Browser extension to find SVGs on a webpage and download or copy to clipboard.](https://github.com/rossmoody/svg-gobbler)
+- [Browser extension to find SVGs on a webpage and download or copy to clipboard](https://github.com/rossmoody/svg-gobbler)
 - https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh
 - [A browser extension to quickly fill shopping carts with electronic components](https://github.com/kitspace/1clickBOM)
 - https://github.com/joachimesque/humanstxt-webextension
@@ -240,7 +241,6 @@ javascript: (() =>
 - https://alan.norbauer.com/articles/bookcision
 - https://emanuelduss.ch/2020/06/humble-book-bundle-download-bookmarklet
 - [world smallest office suite](https://zserge.com/posts/awfice)
-- https://catalin.red/copy-clipboard-js
 - [Bookmarklets for sending emails and adding todo items](https://sashko.dev/bookmarklets)
 - https://www.farai.xyz/notes/tech-tips/please-archive-content
 - https://github.com/ThomasOrlita/awesome-bookmarklets
