@@ -137,6 +137,7 @@
 - https://joshtronic.com/2021/08/01/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
 - [Personal server configuration with k3s](https://github.com/erebe/personal-server)
 - https://github.com/stars/tomajask/lists/selfhosted + https://open.spotify.com/show/7n6M9laXHppo9WzEBt6Xiq
+- https://citizen428.net/blog/self-hosting-static-site-openbsd-httpd-relayd
 
 ### References
 
