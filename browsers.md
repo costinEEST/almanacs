@@ -224,6 +224,7 @@
 - https://github.com/ansh/bionic-reading
 - https://github.com/elight/slack_emoticon_inhaler
 - [Browser extension that adds a table of contents to GitHub repos, wikis and gists](https://github.com/arthurhammer/github-toc)
+- [Translate Japanese by hovering over words](https://github.com/birchill/10ten-ja-reader)
 
 ### Bookmarklets
 
