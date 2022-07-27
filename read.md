@@ -81,3 +81,4 @@
 - [Xavier Noria](https://hashref.com/reading)
 - [Bryan Braun](https://www.bryanbraun.com/books)
 - [Wynn Netherland](https://wynnnetherland.com/reviews)
+- [Felipe Vogel](https://fpsvogel.com/reading)

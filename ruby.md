@@ -2,6 +2,7 @@
 
 - https://github.com/ChrisBr/oauth2-sample-app
 - [Best Gems for authentication and authorization in Ruby on Rails applications](https://twitter.com/raf_piek/status/1502598704334733314)
+- https://github.com/lazaronixon/authentication-zero
 
 ### API
 
@@ -21,6 +22,7 @@
 - https://github.com/tomholford/twitter-labs-api
 - https://github.com/jhackett1/age-uk-boost
 - https://github.com/koss-lebedev/paysimple-ruby
+- [Look up doctors and other healthcare providers in the U.S](https://github.com/fpsvogel/doctorlookup)
 
 
 ### Algorithm
@@ -28,6 +30,7 @@
 - https://github.com/kanwei/algorithms
 - https://github.com/TheAlgorithms/Algorithms-Explanation + https://github.com/TheAlgorithms/Ruby
 - https://github.com/brianstorti/ruby-graph-algorithms
+- https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby
 
 
 ### Book
@@ -160,6 +163,7 @@
 - Jörn Schneeweisz: https://code-audit-training.gitlab.io, https://0day.click/page/references
 - [Pedro Gaspar](https://exercism.org/profiles/pgaspar)
 - [Piotr Szotkowski](https://talks.chastell.net)
+- [Jordan Sissel](https://github.com/jordansissel/experiments/tree/master/ruby)
 
 ### Compiler 
 
@@ -231,6 +235,7 @@
 - https://github.com/pay-rails/pay + https://www.youtube.com/playlist?list=PLm8ctt9NhMNXCvYPahPCuR3K-q_tsEi-A
 - https://github.com/troessner/articles/blob/master/docs/2016-08-02-how-does-mutant-work.md
 - https://www.matijs.net/blog/2018/12/31/opinions-about-ruby-gem-development-2018-edition
+- https://github.com/jordansissel/ruby-ftw
 
 ### Inspire
 
@@ -247,6 +252,7 @@
 - https://github.com/mastodon/mastodon
 - https://github.com/websebdev/fake_rails
 - https://github.com/mvz/alexandria-book-collection-manager
+- [The reverse job board for Ruby on Rails developers](https://github.com/joemasilotti/railsdevs.com)
 
 ### Internals
 
@@ -278,10 +284,12 @@
 - https://austrian-nerd.dev/blog/2022-06-22-recently-in-ruby-core-june-edition
 - https://devver.wordpress.com/2009/06/30/a-dozen-or-so-ways-to-start-sub-processes-in-ruby-part-1
 - https://sourcediving.com/how-we-improved-our-rails-apps-performance-with-conditional-get-requests-35a7a472a0b9
+- https://github.com/obie/guide-to-reactive-rails
 
 ### Opinion
 
 - [Rails for the API and Next.js for the front-end](https://twitter.com/kwuchu/status/1525871984936161281)
+- https://github.com/fpsvogel/learn-ruby-and-cs
 - https://www.schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made
 - https://gquintana.github.io/2017/01/08/From-Java-to-Ruby.html
 - https://mlomnicki.com/symbols-vs-strings
@@ -302,6 +310,7 @@
 - https://github.com/tomstuart/monads
 - https://infinum.com/blog/best-ruby-on-rails-refactoring-talks
 - https://github.com/troessner/reek/tree/master/docs
+- https://github.com/jordansissel/software-patterns
 
 ### Practice
 
