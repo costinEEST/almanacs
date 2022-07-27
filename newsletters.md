@@ -290,17 +290,18 @@
 
 ### Ruby
 
+- https://womenonrails.substack.com/archive
+- https://rubyradar.dev/#archive
 - [Jemma Issroff](https://buttondown.email/jemmaissroff/archive)
 - [Victor Shepelev](https://zverok.substack.com/archive)
 - [Doctolib](https://us14.campaign-archive.com/home/?u=6f3cf1e1e4554097575191f5d&id=a22645bb6c)
 - [Joe Masilotti](https://masilotti.com/hotwire)
 - [RubyOnRemote](https://us12.campaign-archive.com/home/?u=7dcd7529845dfed5c60eaea19&id=9060deec07)
-- https://rubyradar.dev/#archive
 - [Noah Gibbs](https://us2.campaign-archive.com/home/?u=c5569fb6471a3e64be2aa1466&id=82afd59934)
-- https://womenonrails.substack.com/archive
 - [Arkency](https://us5.campaign-archive.com/home/?u=1bb42b52984bfa86e2ce35215&id=4cee302d8a)
 - [Nate Berkopec](https://us11.campaign-archive.com/home/?u=1aa0f43522f6d9ef96d1c5d6f&id=840412962b)
 - [Matt Swanson](https://boringrails.substack.com/archive)
+- [Prathamesh Sonpatki](https://us20.campaign-archive.com/home/?u=a9a73b1b46397982536615767&id=14b0f9e357)
 
 ### Politics
 

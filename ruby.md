@@ -53,6 +53,7 @@
 - [Reading the book Modern Front-End Development for Rails (Turbo, Stimulus and React)](https://github.com/pmatsinopoulos/reading_modern_front_end_dev_for_rails)
 - https://github.com/cbdileo/cleanruby
 - https://github.com/mrrusof/the-book-of-problems
+- https://github.com/taq/conhecendo-ruby-files
 
 ### Cheat sheet
 
@@ -236,6 +237,7 @@
 - https://github.com/troessner/articles/blob/master/docs/2016-08-02-how-does-mutant-work.md
 - https://www.matijs.net/blog/2018/12/31/opinions-about-ruby-gem-development-2018-edition
 - https://github.com/jordansissel/ruby-ftw
+- [Write your ActionMailer email templates in Markdown, send in html and plain text](https://github.com/codetriage/maildown)
 
 ### Inspire
 
@@ -253,6 +255,7 @@
 - https://github.com/websebdev/fake_rails
 - https://github.com/mvz/alexandria-book-collection-manager
 - [The reverse job board for Ruby on Rails developers](https://github.com/joemasilotti/railsdevs.com)
+- [Discover the best way to get started contributing to Open Source projects](https://github.com/codetriage/codetriage)
 
 ### Internals
 
@@ -388,6 +391,8 @@
 - https://chriskottom.com/resources/TheMinitestCookbook-sample.pdf + https://chriskottom.com/articles/minitest-cheat-sheet + https://github.com/chriskottom/minitest_cookbook_source
 - https://github.com/mrrusof/minitest-before-after-examples
 - https://github.com/theofidry/awesome-mutation-testing
+- https://connorshea.gitlab.io/blog/how-i-write-and-maintain-type-sigs-in-my-rails-app-with-sorbet.html
+- https://schwad.github.io/ruby/rails/rspec/tdd/2017/04/10/leveling-up-tdd-with-e.html
 
 ### Radio
 
