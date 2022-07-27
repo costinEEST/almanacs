@@ -17,6 +17,7 @@
 - https://www.amazon.com/Particle-Physics-Short-Introduction-Introductions-ebook-dp-B003CI90VC/dp/B003CI90VC
 - https://www.amazon.com/Field-Guide-Radiation-Wayne-Biddle-ebook/dp/B0072NWIQ2
 - https://www.amazon.com/General-Relativity-Theoretical-Leonard-Susskind-dp-1541601777/dp/1541601777 + https://twitter.com/curiouswavefn/status/1538300558724845568
+- https://github.com/troessner/articles/blob/master/docs/2015-03-03-you-are-what-you-read-my-favorite-books.md
 
 ### Cinema
 

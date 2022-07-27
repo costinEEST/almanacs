@@ -80,7 +80,7 @@
 ### Tool
 
 - [Repo of useful scripts](https://github.com/lc/hacks)
-- [🔍 gowitness - a golang, web screenshot utility using Chrome Headless.](https://github.com/sensepost/gowitness)
+- [Web screenshot utility using Chrome Headless](https://github.com/sensepost/gowitness)
 - [Sqlvet performs static analysis on raw SQL queries in your Go code base. ](https://github.com/houqp/sqlvet)
 - [Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.](https://github.com/lc/gau)
 - [A Chrome cookie dumping utility.](https://github.com/CCob/gookies)
@@ -113,6 +113,7 @@
 - https://github.com/knadh/dns.toys
 - [Google Drive CLI Client](https://github.com/prasmussen/gdrive)
 - https://nelsonslog.wordpress.com/2022/06/28/google-caches-what-is-my-ip + https://github.com/rdegges/ipify-api
+- [High-precision indoor positioning framework for most wifi-enabled devices](https://github.com/schollz/find)
 
 ### Radio
 

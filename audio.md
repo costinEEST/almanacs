@@ -69,6 +69,7 @@
 - [Cross browser Speech Synthesis](https://github.com/jankapunkt/easy-speech)
 - [Text-to-MIDI Morse code converter](https://web.archive.org/web/20040805022253/http://users.rcn.com/m3ha11/ruby/t2mm.rb)
 - [PHP script to turn a directory of mp3s into an rss feed](https://github.com/pushcx/miscpodcast)
+- [Simple personal server to serve audiofiles files from folders](https://github.com/izderadicka/audioserve)
 
 ### Security
 

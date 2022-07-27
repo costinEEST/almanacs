@@ -33,6 +33,7 @@
 
 ### Best practices
 
+- [Resources for writing modern Java](https://github.com/cxxr/better-java)
 - https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production
 - https://www.slideshare.net/mariofusco/lets-make-a-contract-the-art-of-designing-a-java-api + https://twitter.com/ftomasse/status/1246831973567475713
 - https://github.com/iluwatar/java-design-patterns
@@ -77,7 +78,6 @@
 ### Miscellaneous
 
 - https://github.com/Developer-Y/all-things-java
-- https://github.com/cxxr/better-java
 - [Shows shipwreck locations on a map; each wreck can be clicked for further information](https://github.com/lauriharpf/shipwrecks)
 
 ### Opinion

@@ -159,6 +159,7 @@
 - [Vladislav Trotsenko](https://www.codewars.com/users/bestwebua)
 - Jörn Schneeweisz: https://code-audit-training.gitlab.io, https://0day.click/page/references
 - [Pedro Gaspar](https://exercism.org/profiles/pgaspar)
+- [Piotr Szotkowski](https://talks.chastell.net)
 
 ### Compiler 
 
@@ -199,21 +200,6 @@
 - https://dev.to/aws-heroes/aws-lambda-microservice-workshop-using-s3-libvips-ruby-4o96
 - https://thibautbarrere.com/2021/01/20/circle-ci-with-multiple-databases-and-rubies
 
-### Inspire
-
-- https://github.com/redmine/redmine
-- https://github.com/alisnic/rails-tik-tok-clone
-- [Virtual venue for RubyKaigi Takeout w/ Amazon IVS, Chime SDK for Messaging, Transcribe](https://github.com/ruby-no-kai/takeout-app)
-- https://github.com/bullet-train-co/bullet_train
-- https://github.com/gitlabhq/gitlabhq
-- [Application with CQRS and Event Sourcing built on Rails and Rails Event Store](https://github.com/RailsEventStore/ecommerce)
-- [A full example of a collaborative text editor written in Rails and JavaScript](https://github.com/aha-app/collaborative-demo)
-- [feedyour.email lets you send newsletters to your feed reader by generating an email address that aggregates messages into an Atom feed](https://github.com/indirect/feedyour.email)
-- https://github.com/eliotsykes/real-world-rails
-- https://github.com/lobsters/lobsters
-- https://github.com/mastodon/mastodon
-- https://github.com/websebdev/fake_rails
-
 ### Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems) + https://nts.strzibny.name/ruby-stdlib-default-bundled-gems + https://gist.github.com/boue/9540965
@@ -243,6 +229,24 @@
 - https://github.com/cardmagic/simple-rss
 - https://daniel-azuma.com/blog/2019/11/06/is-it-time-to-replace-rake
 - https://github.com/pay-rails/pay + https://www.youtube.com/playlist?list=PLm8ctt9NhMNXCvYPahPCuR3K-q_tsEi-A
+- https://github.com/troessner/articles/blob/master/docs/2016-08-02-how-does-mutant-work.md
+- https://www.matijs.net/blog/2018/12/31/opinions-about-ruby-gem-development-2018-edition
+
+### Inspire
+
+- https://github.com/redmine/redmine
+- https://github.com/alisnic/rails-tik-tok-clone
+- [Virtual venue for RubyKaigi Takeout w/ Amazon IVS, Chime SDK for Messaging, Transcribe](https://github.com/ruby-no-kai/takeout-app)
+- https://github.com/bullet-train-co/bullet_train
+- https://github.com/gitlabhq/gitlabhq
+- [Application with CQRS and Event Sourcing built on Rails and Rails Event Store](https://github.com/RailsEventStore/ecommerce)
+- [A full example of a collaborative text editor written in Rails and JavaScript](https://github.com/aha-app/collaborative-demo)
+- [feedyour.email lets you send newsletters to your feed reader by generating an email address that aggregates messages into an Atom feed](https://github.com/indirect/feedyour.email)
+- https://github.com/eliotsykes/real-world-rails
+- https://github.com/lobsters/lobsters
+- https://github.com/mastodon/mastodon
+- https://github.com/websebdev/fake_rails
+- https://github.com/mvz/alexandria-book-collection-manager
 
 ### Internals
 
@@ -275,12 +279,29 @@
 - https://devver.wordpress.com/2009/06/30/a-dozen-or-so-ways-to-start-sub-processes-in-ruby-part-1
 - https://sourcediving.com/how-we-improved-our-rails-apps-performance-with-conditional-get-requests-35a7a472a0b9
 
+### Opinion
+
+- [Rails for the API and Next.js for the front-end](https://twitter.com/kwuchu/status/1525871984936161281)
+- https://www.schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made
+- https://gquintana.github.io/2017/01/08/From-Java-to-Ruby.html
+- https://mlomnicki.com/symbols-vs-strings
+- https://dmitrytsepelev.dev/why-has-ruby-symbols
+- http://www.railstips.org/blog/archives/2012/10/10/booleans-are-baaaaaaaaaad
+- https://calendly.com/blog/ruby-gotchas-javascript-developer
+- https://postmodern.github.io/blog/2022/01/18/why-do-so-many-in-infosec-really-dislike-ruby-some-thought.html
+- [Where is Ruby Headed in 2021?](https://news.ycombinator.com/item?id=29272682)
+- https://dev.to/sylwiavargas/why-do-you-love-ruby-actually-an-ode-5e7n
+- https://ryanbigg.com/2018/03/my-thoughts-on-hanami
+- [:: chunky bacon](http://code-anth.xyz/posts/3)
+- https://avdi.codes/ruby-is-defined-by-terrible-tools
+
 ### Pattern
 
 - [Design Patterns in Ruby](https://www.youtube.com/playlist?list=PLBhH0uX92r6oP8r-oSY_b8_2EnK0Z1Fkz)
 - https://postmodern.github.io/blog/2010/10/01/list-comprehensions-in-ruby.html
 - https://github.com/tomstuart/monads
 - https://infinum.com/blog/best-ruby-on-rails-refactoring-talks
+- https://github.com/troessner/reek/tree/master/docs
 
 ### Practice
 
@@ -388,19 +409,3 @@
 
 - https://github.com/ciconia/noteflakes.com
 - https://github.com/pawelpacana/nanoc-github
-
-### Opinion
-
-- [Rails for the API and Next.js for the front-end](https://twitter.com/kwuchu/status/1525871984936161281)
-- https://www.schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made
-- https://gquintana.github.io/2017/01/08/From-Java-to-Ruby.html
-- https://mlomnicki.com/symbols-vs-strings
-- https://dmitrytsepelev.dev/why-has-ruby-symbols
-- http://www.railstips.org/blog/archives/2012/10/10/booleans-are-baaaaaaaaaad
-- https://calendly.com/blog/ruby-gotchas-javascript-developer
-- https://postmodern.github.io/blog/2022/01/18/why-do-so-many-in-infosec-really-dislike-ruby-some-thought.html
-- [Where is Ruby Headed in 2021?](https://news.ycombinator.com/item?id=29272682)
-- https://dev.to/sylwiavargas/why-do-you-love-ruby-actually-an-ode-5e7n
-- https://ryanbigg.com/2018/03/my-thoughts-on-hanami
-- [:: chunky bacon](http://code-anth.xyz/posts/3)
-- https://avdi.codes/ruby-is-defined-by-terrible-tools

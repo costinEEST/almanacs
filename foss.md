@@ -15,6 +15,7 @@
 ### Community 
 
 - [Coraline Ada Ehmke](https://where.coraline.codes/media)
+- https://github.com/RunaCapital/awesome-oss-alternatives
 
 ### Tool
 
