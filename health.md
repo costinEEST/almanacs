@@ -134,6 +134,7 @@
 - [Tonic water contains quinine, which for centuries has been used to treat malaria](https://twitter.com/professor_dave/status/1450447707877826566)
 - https://www.amazon.com/Fever-Trail-Search-Cure-Malaria/dp/0374154694
 - https://www.amazon.com/Quinine-Malaria-Quest-Changed-World/dp/B000C4SL96
+- [A Solution to Alzheimer's and Aging? Rapamycin and it's potential](https://mykigai.substack.com/p/a-solution-to-alzheimers-and-aging)
 
 ### Grocery
 

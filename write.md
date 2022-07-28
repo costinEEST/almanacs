@@ -65,6 +65,7 @@
 - [Web service for creating ebooks from collections of websites](https://github.com/haroldtreen/epub-press)
 - https://github.com/mriddle/obsidian-demo-template
 - [Create book from markdown files. Like Gitbook but implemented in Rust](https://github.com/rust-lang/mdBook)
+- https://www.mayhplumb.com/LaTeX
 
 ### Miscellaneous
 

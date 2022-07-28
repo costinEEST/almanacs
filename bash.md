@@ -96,3 +96,4 @@
 - https://publish.obsidian.md/davidgasquez/Handbook/Automation
 - https://github.com/you-dont-need/You-Dont-Need-GUI
 - [Bash production guide](https://twitter.com/saruspete/status/1263109895345377280) + https://www.slideshare.net/Saruspete/bash-production-guide
+- https://stevenyue.com/blogs/a-bash-function-for-sending-slack-notifications

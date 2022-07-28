@@ -11,6 +11,7 @@
 - https://www.neilwithdata.com/advanced-sql
 - https://github.com/bevacqua/reads#databasessearch
 - [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077) + https://news.ycombinator.com/item?id=25987664 + https://dev.to/nyxtom/resources-for-learning-about-crdt-for-realtime-collaboration-5bkj
+- https://github.com/benjamintanweihao/distributed-systems-references
 - https://caitiem.com/2017/09/07/getting-started-with-distributed-systems
 - [Streaming Systems. The What, Where, When, and How of Large-Scale Data Processing by Tyler Akidau, Slava Chernyak, and Reuven Lax](http://streamingsystems.net)
 - https://github.com/mhadidg/software-architecture-books#streaming-and-messaging

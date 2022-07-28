@@ -17,6 +17,8 @@
 - https://www.danielde.dev/blog/surprising-shared-word-etymologies 
 - [Interactive graph to discover the origin of the words](https://github.com/franloza/etygraph) + https://twitter.com/eduardoboucas/status/1389508646212706306
 - [Search 500+ untranslatable words by 70+ languages and 50+ tags](https://eunoia.world)
+- https://www.colingorrie.com/articles/learn-syntax
+- https://www.mayhplumb.com/learn-linguistics
 
 ### Cinema
 
@@ -314,6 +316,7 @@
 - [Biblioteca Nacional de España](https://www.youtube.com/user/bibliotecaBNE/playlists)
 - https://www.goodreads.com/book/show/3360861-el-cuento
 - [The Linguistics of Spanish](https://www.staff.ncl.ac.uk/i.e.mackenzie/index.html)
+- https://blog.duolingo.com/what-is-spanish-vosotros
 
 ### Swedish
 
@@ -339,6 +342,7 @@
 - http://alexalejandre.com/language/03.Introduction%20to%20Romanian.pdf + https://www.studmed.ru/seiver-george-o-introduction-to-romanian_508aa438e3a.html + https://www.amazon.com/Introduction-Romanian-George-Seiver/dp/B0000CIK7N
 - http://alexalejandre.com/language/01.Colloquial%20Romanian.pdf
 - [Istoriile lui Roderick](https://hroderic.wordpress.com)
+- https://lazyadmin.ro/biblioteca-sau-librarie
 
 ### Russian
 

@@ -298,3 +298,4 @@
 
 - https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020
 - https://markmcgranaghan.com/podcasts
+- https://taylorpearson.me/bookreview/origin-of-wealth + https://mutinyfund.com/mutiny-team

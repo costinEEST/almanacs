@@ -94,6 +94,7 @@
 - [Intel | Advent Of Computing](https://www.youtube.com/playlist?list=PLoKM3Qfxoe0mQOLtmoufTAv5-pqVU0sVm)
 - https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors
 - https://www.wired.com/story/intel-lab-istare-hack-chips
+- https://www.youtube.com/c/ZeroToASIC
 
 ### Diode
 

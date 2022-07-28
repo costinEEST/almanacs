@@ -1,5 +1,6 @@
-### Authorization
+### Authentication
 
+- https://twitter.com/siaw23/status/1541028458838507520
 - https://github.com/ChrisBr/oauth2-sample-app
 - [Best Gems for authentication and authorization in Ruby on Rails applications](https://twitter.com/raf_piek/status/1502598704334733314)
 - https://github.com/lazaronixon/authentication-zero
@@ -23,6 +24,7 @@
 - https://github.com/jhackett1/age-uk-boost
 - https://github.com/koss-lebedev/paysimple-ruby
 - [Look up doctors and other healthcare providers in the U.S](https://github.com/fpsvogel/doctorlookup)
+- https://twitter.com/siaw23/status/1544691284648116226 + [Scrapes Ruby and Rails events from sites as JSON](https://github.com/siaw23/ruby_events_api)
 
 
 ### Algorithm
@@ -55,6 +57,8 @@
 - https://github.com/mrrusof/the-book-of-problems
 - https://github.com/taq/conhecendo-ruby-files
 - https://github.com/yagosansz/master_ruby_web_apis
+- [Systems programming](https://workingwithruby.com/downloads)
+- [Mastering Ruby Closures by Benjamin Tan Wei Hao](https://www.oreilly.com/library/view/mastering-ruby-closures/9781680502909)
 
 ### Cheat sheet
 
@@ -213,6 +217,7 @@
 ### Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems) + https://nts.strzibny.name/ruby-stdlib-default-bundled-gems + https://gist.github.com/boue/9540965
+- https://github.com/JoshCheek/seeing_is_believing
 - https://www.brianstorti.com/creating-a-rubygems-plugin
 - [A RubyGems plugin that compares versions of the given gem](https://github.com/fedora-ruby/gem-compare)
 - https://skryukov.github.io/rails/activeadmin/2020/09/29/an-unofficial-active-admin-guide.html
@@ -244,6 +249,8 @@
 - https://github.com/jordansissel/ruby-ftw
 - [Write your ActionMailer email templates in Markdown, send in html and plain text](https://github.com/codetriage/maildown)
 - [Identify database issues before they hit production](https://github.com/gregnavis/active_record_doctor)
+- https://github.com/steventen/sql_tracker
+- [Take your source code and convert them into a beautifully formatted PDF](https://github.com/benjamintanweihao/code_rippa)
 
 ### Inspire
 
@@ -297,6 +304,8 @@
 - https://devver.wordpress.com/2009/06/30/a-dozen-or-so-ways-to-start-sub-processes-in-ruby-part-1
 - https://sourcediving.com/how-we-improved-our-rails-apps-performance-with-conditional-get-requests-35a7a472a0b9
 - https://github.com/obie/guide-to-reactive-rails
+- https://stevenyue.com/blogs/performance-benchmark-on-rubys-dynamic-method
+- https://www.sitepoint.com/exit-exit-abort-raise-get-me-outta-here
 
 ### Opinion
 
@@ -424,6 +433,7 @@
 - https://www.thomascountz.com/2020/10/24/sql-injection
 - [A database of vulnerable Ruby Gems](https://github.com/rubysec/ruby-advisory-db)
 - https://snyk.io/blog/malicious-remote-code-execution-backdoor-discovered-in-the-popular-bootstrap-sass-ruby-gem
+- https://bogdanvlviv.com/posts/ruby/rails/samesite-cookies-and-rails.html
 
 ### Scrapping
 

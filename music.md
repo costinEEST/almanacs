@@ -20,6 +20,7 @@
 - https://musicthing.co.uk/pages/reading.html
 - https://www.voxa.ro/autori/adrian-leonard-mociulschi
 - https://www.edmprod.com/music-theory
+- https://www.observatorcultural.ro/articol/carturesti-va-recomanda-7
 
 ### Cinema
 
