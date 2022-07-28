@@ -15,6 +15,7 @@
 - [A list of awesome packages and frameworks for implementing javascript applications on the desktop](https://github.com/styfle/awesome-desktop-js)
 - [Subtitler is a free Desktop application to search and download right subtitle blazing fast](https://github.com/s8sachin/subtitler)
 - https://www.staszewski.me/how-to-extract-secrets-from-unsafe-electron-app
+- [Free, open-source SQL client for Windows and Mac](https://github.com/plotly/falcon)
 
 ### Demos
 

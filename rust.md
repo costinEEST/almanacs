@@ -175,3 +175,4 @@
 - http://cliffle.com/blog/prefer-rust
 - https://github.com/Dhghomon/programming_at_40
 - [Rust or Golang for a new CLI?](https://twitter.com/fbzga/status/1453695333687570434)
+- [Thread with some thoughts on Carbon, Rust, and Firefox](https://twitter.com/kripken/status/1552324367744266242)

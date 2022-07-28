@@ -24,6 +24,7 @@
 
 - https://debuggingcss.com
 - https://leanpub.com/css-optimization-basics + https://github.com/j9t/css-optimization-basics
+- https://www.steveworkman.com/bookshelf
 
 ### Cinema
 

@@ -160,6 +160,9 @@
 - [Utah Node.js Meetup](https://www.youtube.com/playlist?list=PLrPrSDTfMDlpDem7DdJwzBkzza73OtaCn)
 - [Creating Auth0 from Scratch | AJ ONeal](https://www.youtube.com/playlist?list=PLxki0D-ilnqYmidRxvrQoF2jX67wH5OS0)
 - [A Blog as Easy as Gist | AJ ONeal](https://www.youtube.com/playlist?list=PLxki0D-ilnqZcb8UIdivo70ttUGgC__LD)
+- [Role Based Access Control | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN2Tw-PL7dvwLQS6mx4Z5PH9)
+- [Production Ready Server Setup | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN38gy5xZ0PVEaDdZXlPkgP9)
+- [Strapi CMS | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN1UBftjI119riLcIUfVR7Ts)
 
 ### Course
 
@@ -450,6 +453,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 - https://github.com/stemmlerjs/solid-email-microservice
 - [Build Event-Driven Architectures with Event Sourcing and CQRS | Ethan Garofolo](https://pragprog.com/titles/egmicro/practical-microservices)
+- https://github.com/mhadidg/software-architecture-books#microservices
 - [A micro service development architecture based on nest.js.](https://github.com/notadd/notadd)
 - [Flatend – Quickly build microservices using P2P networking in Node/Go](https://news.ycombinator.com/item?id=23561904)
 - https://hackernoon.com/learn-how-to-use-webhooks-by-connecting-nodejs-ifttt-and-twitter-k0w3121

@@ -79,6 +79,7 @@
 - https://medium.com/@tony.oreglia/getting-started-writing-assembly-language-8ecc116f3627
 - [Recognize cpu instructions in an arbitrary binary file](https://github.com/airbus-seclab/cpu_rec)
 - [A multiline (and ultimate) assembler (and disassembler) plugin for x64dbg and OllyDbg](https://github.com/m417z/Multiline-Ultimate-Assembler)
+- [Performance monitoring and benchmarking suite](https://github.com/RRZE-HPC/likwid)
 
 ### Radio
 

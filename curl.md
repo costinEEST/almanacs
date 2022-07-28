@@ -1,6 +1,7 @@
 ### Book
 
 - https://www.amazon.com/Dan-Gookins-Guide-Curl-Programming-ebook/dp/B07ZS294W6
+- https://github.com/bobeff/programming-math-science#command-line-and-tools
 
 ### Tool
 

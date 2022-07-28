@@ -88,6 +88,7 @@
 - https://www.independent.co.uk/arts-entertainment/games/sid-meier-interview-civilisation-memoir-autobiography-b404968.html
 - https://arstechnica.com/video/watch/war-stories-myst
 - [Tennis for Two](https://www.aps.org/publications/apsnews/200810/physicshistory.cfm)
+- https://github.com/bobeff/open-source-games
 
 ### Opinions
 

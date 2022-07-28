@@ -36,11 +36,11 @@
 ### Book
 
 - https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby
+- [The reference for writing fantastic Rails applications](https://books.thoughtbot.com/books/ruby-science.html)
 - https://github.com/learnbyexample/ThinkRubyBuild
 - https://github.com/learnbyexample/Ruby_Scripting
 - https://github.com/rubyfu/RubyFu
 - https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C + https://twitter.com/ChrisGSeaton/status/1520559129173102598
-- https://books.thoughtbot.com/books/ruby-science.html
 - https://books.thoughtbot.com/books/ios-on-rails.html
 - https://books.thoughtbot.com/books/geocoding-on-rails.html
 - https://github.com/garethrees/practical-oo-design-in-ruby
@@ -54,6 +54,7 @@
 - https://github.com/cbdileo/cleanruby
 - https://github.com/mrrusof/the-book-of-problems
 - https://github.com/taq/conhecendo-ruby-files
+- https://github.com/yagosansz/master_ruby_web_apis
 
 ### Cheat sheet
 
@@ -165,6 +166,10 @@
 - [Pedro Gaspar](https://exercism.org/profiles/pgaspar)
 - [Piotr Szotkowski](https://talks.chastell.net)
 - [Jordan Sissel](https://github.com/jordansissel/experiments/tree/master/ruby)
+- [Rails is now X years old. The first public release was 2004-07-25](https://twitter.com/garybernhardt/status/1551613450392059904)
+- [I've always been curious about Twitter's history with Rails](https://twitter.com/viking369/status/1552393384782106625)
+- https://github.com/paywith/ruby-pair-programming-interview
+- https://github.com/guru-br/catalogo_empresas
 
 ### Compiler 
 
@@ -238,9 +243,13 @@
 - https://www.matijs.net/blog/2018/12/31/opinions-about-ruby-gem-development-2018-edition
 - https://github.com/jordansissel/ruby-ftw
 - [Write your ActionMailer email templates in Markdown, send in html and plain text](https://github.com/codetriage/maildown)
+- [Identify database issues before they hit production](https://github.com/gregnavis/active_record_doctor)
 
 ### Inspire
 
+- https://github.com/eliotsykes/real-world-rails + https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference
+- https://github.com/gramantin/awesome-rails#open-source-rails-apps
+- https://github.com/jeromedalbert/real-world-ruby-apps
 - https://github.com/redmine/redmine
 - https://github.com/alisnic/rails-tik-tok-clone
 - [Virtual venue for RubyKaigi Takeout w/ Amazon IVS, Chime SDK for Messaging, Transcribe](https://github.com/ruby-no-kai/takeout-app)
@@ -249,13 +258,13 @@
 - [Application with CQRS and Event Sourcing built on Rails and Rails Event Store](https://github.com/RailsEventStore/ecommerce)
 - [A full example of a collaborative text editor written in Rails and JavaScript](https://github.com/aha-app/collaborative-demo)
 - [feedyour.email lets you send newsletters to your feed reader by generating an email address that aggregates messages into an Atom feed](https://github.com/indirect/feedyour.email)
-- https://github.com/eliotsykes/real-world-rails
 - https://github.com/lobsters/lobsters
 - https://github.com/mastodon/mastodon
 - https://github.com/websebdev/fake_rails
 - https://github.com/mvz/alexandria-book-collection-manager
 - [The reverse job board for Ruby on Rails developers](https://github.com/joemasilotti/railsdevs.com)
 - [Discover the best way to get started contributing to Open Source projects](https://github.com/codetriage/codetriage)
+- https://github.com/CollabCodeTech/backend-challenges
 
 ### Internals
 
@@ -314,6 +323,7 @@
 - https://infinum.com/blog/best-ruby-on-rails-refactoring-talks
 - https://github.com/troessner/reek/tree/master/docs
 - https://github.com/jordansissel/software-patterns
+- https://github.com/hexdevs/ruby-best-practices-list
 
 ### Practice
 
@@ -363,6 +373,7 @@
 
 ### Testing
 
+- [My favorite books on Ruby/Rails testing](https://twitter.com/fpsvogel/status/1552294842318966789)
 - https://books.thoughtbot.com/books/testing-rails.html
 - http://rubykoans.com
 - https://www.hschne.at/2019/09/22/fabulous-factorybot.html
