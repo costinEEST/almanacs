@@ -8,6 +8,7 @@
 ### Community
 
 - [Philosophy Organizations on Twitter](https://truesciphi.org/phiorg_fol.html)
+- https://github.com/dmvaldman/library/tree/master/essays
 
 ### Cinema
 

@@ -91,6 +91,7 @@
 ### Cryptography
 
 - https://www.feistyduck.com/bulletproof-tls-newsletter/archive
+- [Filippo Valsorda](filippo.io/newsletter)
 
 ### Drawing
 

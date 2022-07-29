@@ -30,6 +30,8 @@
 - [An Intensive Introduction to Cryptography | Boaz Barak](https://github.com/boazbk/crypto) + https://cnchou.github.io/resources
 - [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/johsilve/MathCryptoHome.html)
 - [Secret Key Cryptography](https://twitter.com/contestcen/status/1483896010837475334)
+- https://twitter.com/cronokirby/status/1525533199778160643 + https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like
+- https://github.com/sustrik/crypto-for-kids
 
 ### Course
 
@@ -70,6 +72,11 @@
 - [Benny Pinkas](https://twitter.com/bennypinkas)
 - [Eyal Ronen](https://twitter.com/eyalr0)
 - [Alin Tomescu](https://decentralizedthoughts.github.io/about-alin)
+- [Craig Costello](https://twitter.com/gtank__/status/1196508990387167233)
+- [Giacomo Pope](https://giacomopope.com/writeups)
+- [Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/talks.html)
+- https://the-isogeny-club.github.io
+- [Dan Boneh](https://crypto.stanford.edu/~dabo)
 
 ### Demos
 
@@ -91,6 +98,9 @@
 - [Off-The-Record Messaging part 1: the problem with PGP](https://robertheaton.com/otr1)
 - http://www.saminiir.com/establish-cryptographic-identity-using-gnupg
 - http://www.saminiir.com/paper-storage-and-recovery-of-gpg-keys
+- https://blog.gtank.cc/modern-alternatives-to-pgp
+- [Macaroons for anything involving authorization. They are the anti-JWT](https://blog.gtank.cc/macaroons-reading-list)
+- https://blog.gtank.cc/notes-on-anonymous-credentials
 
 ### Transport Layer Security (TLS)
 
@@ -120,6 +130,8 @@
 - https://github.com/SalusaSecondus/CryptoGotchas
 - https://github.com/claucece/formal-tutorials
 - https://github.com/claucece/useful-crypto-resources
+- https://github.com/sigalor/whatsapp-web-reveng
+- https://github.com/pFarb/awesome-crypto-papers
 
 
 ### Practice
@@ -130,12 +142,17 @@
 - https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html
 - [Recovering a full PEM Private Key when half of it is redacted](https://blog.cryptohack.org/twitter-secrets)
 
-### Tools
+### Tool
 
 - [ Verifpal - cryptographic protocol analysis tool.](https://twitter.com/bblipp/status/1223289973836861440)
 - [padding-oracle-attacker: modern, parallel implementation in TypeScript](https://github.com/KishanBagaria/padding-oracle-attacker)
 - [Animation of the SHA-256 hash function in your terminal. ](https://github.com/in3rsha/sha256-animation)
 - [Testing TLS/SSL encryption anywhere on any port](https://github.com/drwetter/testssl.sh)
 - [CIRCL hash lookup is a public API to lookup hash values against known database of files.](https://gist.github.com/adulau/4191d44e30fc01df38f1d5fe605fa920)
+- https://github.com/Deadlyelder/Tools-for-Cryptanalysis
+
+### Opinion 
+
+- https://dkp.ldd.org/2019/09/08/xkcdcrypt.html
 
 

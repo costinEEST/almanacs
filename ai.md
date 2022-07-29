@@ -81,6 +81,7 @@
 - [Letiția Pârcălăbescu](https://www.youtube.com/c/AICoffeeBreak/playlists)
 - [Machine Learning & User Experience (MLUX)](https://www.meetup.com/MLUXmeetup)
 - [Heather Knight](http://www.marilynmonrobot.com/about)
+- [David Valdman](https://twitter.com/dmvaldman)
 
 ### References
 
@@ -120,6 +121,7 @@
 - https://github.com/aaronwangy/Data-Science-Cheatsheet
 - https://github.com/lschmelzeisen/talk-supervised-learning-tensorflow
 - https://github.com/vidhanbhonsle/Image-Recognition-with-IBM-and-HERE-Workshop
+- https://github.com/dmvaldman/library/tree/master/ai
 
 ### Tool
 

@@ -161,6 +161,7 @@
 
 ### Domain Name System (DNS)
 
+- [DNSSEC Deconstructed](https://dkp.ldd.org/2019/10/21/dnssec.html)
 - [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-dns-servers
 - [cloudflare_ddns_updater](https://gist.github.com/howanghk/f955764f33bf9db7a86c)
@@ -202,6 +203,7 @@
 - [TCP congestion control](https://twitter.com/_drbruced/status/1447691496849764357) + https://github.com/SystemsApproach/tcpcc + https://tcpcc.systemsapproach.org
 - [TCP Congestion Control: A Systems Approach](https://github.com/SystemsApproach/tcpcc)
 - https://alexanderell.is/posts/toy-traceroute
+- https://github.com/astroza/udptunnel
 
 
 ### HTTP
@@ -373,3 +375,4 @@
 - https://www.ipspace.net/Category:History
 - https://cseweb.ucsd.edu//~varghese/networkdesignautomationvision.pdf + [Did we learn anything from the Facebook outage?](https://twitter.com/_drbruced/status/1452747573127618562)
 - https://github.com/n0x08/ConferenceTalks/blob/master/BecomeLoadbalancer_TR22.pdf
+- https://github.com/Attacks-on-Tor/Attacks-on-Tor

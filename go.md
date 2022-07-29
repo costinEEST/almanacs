@@ -38,6 +38,11 @@
 - https://www.golang.dk/courses/build-cloud-apps-in-go
 - https://github.com/ardanlabs/gotraining
 
+### Community 
+
+- https://t.me/HowToGoWrong
+- https://twitter.com/i/communities/1493637136502960134
+
 ### Cinema
 
 - [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/playlists)
@@ -45,6 +50,7 @@
 - [Golang University 101 - Learn Golang | Bitfield Consulting](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
 - https://www.youtube.com/playlist?list=PLZaEVINf2Bq8mP4mosgB9tXb4ycrAeA9y
 - [Sean DuBois](https://siobud.com)
+- https://github.com/GopherConRu/talks
 
 ### Data structures
 
@@ -155,6 +161,7 @@
 - https://www.sethvargo.com/what-id-like-to-see-in-go-2 + https://twitter.com/sethvargo/status/1482381086411956228
 - https://dabase.com/blog/2022/strongly-typed-javascript
 - https://kdy1.dev/posts/2022/1/tsc-go + https://twitter.com/kdy1dev/status/1486017661267955713
+- [Sustainability with Rust](https://twitter.com/_rsc/status/1496352325157457922)
 
 ### Security
 

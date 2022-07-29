@@ -154,6 +154,7 @@
 - https://github.com/coodict/python3-in-one-pic
 - https://twitter.com/gvanrossum/status/1222776098800357376
 - https://github.com/wdv4758h/awesome-jit
+- https://github.com/jchampemont/awesome-lightweights
 
 ### Scraping
 
@@ -186,6 +187,7 @@
 - https://github.com/reanalytics-databoutique/advanced-scrapy-proxies
 - [Custom Selenium Chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 - https://github.com/saminiir/anki-crawler
+- [Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
 
 ### Static website 
 

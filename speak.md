@@ -149,6 +149,7 @@
 - https://www.udemy.com/course/word-stress-of-american-english
 - https://www.amazon.com/English-Nature-Method-Arthur-Jensen/dp/1684718228 + https://www.youtube.com/playlist?list=PLAadwKeAHRjjTBBIDyetK6VqoRQEu3Xud
 - [A Guide to English Literary Terms | Oregon State University](https://www.youtube.com/playlist?list=PLkJBRdOsnEQQcO9rEaqNaZwH4Xn2jo11I)
+- https://github.com/hyperreality/American-British-English-Translator
 
 ### Esperanto
 

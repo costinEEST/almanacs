@@ -24,6 +24,7 @@
 - [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu) + https://twitter.com/openlabbott/status/947517804416135169 + https://twitter.com/oznova_/status/1256294783246450689 + https://twitter.com/fabynou/status/197097746191237121 + https://twitter.com/hedgeberg/status/1071725355885572098
 - [Game Engine Black Book DOOM](https://fabiensanglard.net/gebbdoom)
 - [Art of Assembly Language Programming and HLA by Randall Hyde](https://news.ycombinator.com/item?id=28679549)
+- https://github.com/jagregory/abrash-zen-of-asm
 
 ### Course
 

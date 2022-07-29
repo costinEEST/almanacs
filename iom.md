@@ -49,6 +49,7 @@
 - [Blockchain Security | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22gfyqgXMuYyWVSFklxHSzk)
 - [DeFi Tutorials with DeFi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg/playlists)
 - [Learn Solidity (0.5) by Examples | Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)
+- [Zcon1: Zero to Privacy Hero | Zcash Foundation](https://www.youtube.com/playlist?list=PL40dyJ0UYTLLjPZaKjdhMoCNanb77_Ztj)
 
 ### Community
 

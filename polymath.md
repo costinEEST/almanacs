@@ -1,6 +1,7 @@
 ### Book
 
 - [The Polymath by Waqas Ahmed](https://blas.com/the-polymath)
+- [The Medieval World of Isidore of Seville: Truth from Words | John Henderson](https://mobile.twitter.com/MPitici/status/1082627882583756801)
 
 ### Ibn Rushd
 

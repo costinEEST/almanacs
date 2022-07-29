@@ -1,4 +1,4 @@
-### Books
+### Book
 
 - https://youtu.be/Uf6eP3Qe68s
 - https://www.amazon.com/Java-Absolute-Beginners-Fundamentals-Programming/dp/1484270797
@@ -8,6 +8,7 @@
 - [Grokking the Java Interview](https://javinpaul.gumroad.com/l/QqjGH)
 - https://github.com/Nitin96Bisht/Java-Books
 - https://blogs.oracle.com/javamagazine/post/junit-in-action-third-edition
+- https://github.com/dschadow/Java-Web-Security
 
 ### Cinema
 
@@ -64,6 +65,7 @@
 
 ### Security
 
+- https://github.com/dschadow/JavaSecurity
 - [A quick methodology on testing / hacking SAP Applications for n00bz and bug bounty hunters.](https://github.com/shipcod3/mySapAdventures)
 - https://github.com/razvand/secure-programming-java
 - https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2

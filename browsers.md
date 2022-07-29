@@ -80,6 +80,7 @@
 - https://googleprojectzero.blogspot.com/p/0day.html
 - https://github.com/SpiralBL0CK/Browser-Pwning-
 - https://github.com/StarCrossPortal/bug-hunting-101
+- https://github.com/nccgroup/exploit_mitigations
 
 ### Extension
 

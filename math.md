@@ -99,6 +99,8 @@
 - [A strange determinant – Timothy Gowers solves a problem](https://news.ycombinator.com/item?id=26915862)
 - https://www.youtube.com/c/InigoQuilez/playlists
 - [Roger Penrose explains Godel's incompleteness theorem in 3 minutes](https://twitter.com/curiouswavefn/status/1405017632659570691)
+- [Mathematical Association of America](https://www.youtube.com/user/MAAvideo/playlists)
+- [What are some of your favorite recorded math lecturers or talks?](https://twitter.com/JulietteBruce12/status/1538513290178965504)
 
 ### Mathematicians
 
@@ -107,6 +109,8 @@
 - http://martin-gardner.org/MATHEMATICIAN.html
 - https://www.iquilezles.org/www/index.htm
 - https://www.newscientist.com/people/muhammad-ibn-musa-al-khwarizmi
+- [Alvaro Lozano-Robledo](https://twitter.com/MathAndCobb/status/1536893871552086016) + https://alozano.clas.uconn.edu/math5020-elliptic-curves
+- [Mircea Pitici](https://www.theoremoftheday.org/Resources/Bibliography.htm#MirceaPitici)
 
 ### Miscellaneous
 
@@ -133,3 +137,4 @@
 - https://www.observatorcultural.ro/author/liviuornea
 - [David A. Smith](https://dacvs.neocities.org)
 - [Burkard Polster](https://www.youtube.com/c/Mathologer/playlists)
+- [Jeremy Kun](https://mobile.twitter.com/jeremyjkun/status/1079443879709929472)

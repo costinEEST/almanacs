@@ -107,6 +107,7 @@
 - https://github.com/nobodino/slackware-from-scratch
 - https://github.com/gg7/gentoo-kernel-guide
 - https://lipanski.com/posts/custom-keyboard-layout
+- https://github.com/alegrey91/systemd-service-hardening
 
 ### Embedded
 
