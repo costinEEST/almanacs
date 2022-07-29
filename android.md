@@ -20,6 +20,8 @@
 ### Book
 
 - [Jetpack Compose internals](https://leanpub.com/composeinternals) + https://twitter.com/JorgeCastilloPr/status/1420427677044035592
+- https://github.com/PacktPublishing/The-Complete-Intermediate-Android-Masterclass
+- https://www.packt.com/product/mobile/b18036-android-studio-4-2-development-essentials-java-edition
 
 ### Community
 

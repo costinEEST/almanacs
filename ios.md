@@ -14,6 +14,7 @@
 - [SwissCovid is the official contact tracing app of Switzerland.](https://github.com/DP-3T/dp3t-app-ios-ch)
 - [thesis: comparing methods of teaching emotions to people on the Autism spectrum](http://www.lizziesiegle.xyz/thesis.pdf)
 - https://github.com/dkhamsing/open-source-ios-apps
+- https://screenlane.com/platform/all/category/fitness
 
 ### Cinema
 

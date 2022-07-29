@@ -18,3 +18,4 @@
 - https://cameronnokes.com/blog/jq-cheatsheet/#piping-from-curl
 - https://github.com/HolyBugx/HolyTips/tree/main/Scripts
 - https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json
+- https://alexwlchan.net/2022/04/checking-with-curl

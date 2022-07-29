@@ -7,7 +7,7 @@
 
 - [David A. Smith](https://dacvs.neocities.org/ds2022jan.svg)
 
-### Icons
+### Icon
 
 - [Remix Icon - Open source icon library](https://remixicon.com)
 - https://github.com/mono-company/mono-icons
@@ -23,6 +23,7 @@
 - https://healthicons.org
 - https://flagpack.xyz
 - [A free collection of maps for every country in the world](https://github.com/djaiss/mapsicon)
+- https://basicons.xyz
 
 ### Tutorials
 

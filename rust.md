@@ -147,6 +147,7 @@
 - https://www.wezm.net/v2/posts/2020/100-rust-binaries
 - https://ahal.ca/blog/2021/ls-replacement
 - https://www.mattkeeter.com/blog/2022-05-31-xmodem + https://twitter.com/impraxical/status/1524565537254219776
+- [A CLI tool to find the dominant colours in an image](https://github.com/alexwlchan/dominant_colours)
 
 ### Opinion
 

@@ -107,6 +107,7 @@
 - https://www.youtube.com/user/theforeverastudent/playlists
 - https://chaoyangtrap.house
 - [Classical Chinese for Everyone: A Guide for Absolute Beginners | Bryan W. Van Norden](https://www.facebook.com/orelb/posts/pfbid02ppaUQdZftTorqhAmJcCYomsWtoqjGLiDQd2cxay79mff1TpXHpjdekxGGp2WguEdl)
+- https://alexwlchan.net/2020/04/storing-language-vocabulary-as-a-graph
 
 ### Arabic
 

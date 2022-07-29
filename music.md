@@ -43,6 +43,7 @@
 
 ### Community
 
+- https://tudorchira.ro/supercalifragilistic
 - [Vanzari instrumente muzicale second-hand](https://www.facebook.com/groups/vanzari.second)
 - [Richard Godwin](https://open.spotify.com/user/goblinski)
 - https://radiooooo.com

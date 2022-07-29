@@ -33,3 +33,4 @@
 - https://github.com/ysoftwareab/know-your-ietf-well
 - [A list of Developer Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
 - [Creative Commons Licenses for Github](https://github.com/santisoler/cc-licenses)
+- https://alexwlchan.net/2021/10/readmes-for-open-science

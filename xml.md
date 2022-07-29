@@ -18,5 +18,6 @@
 
 ### Opinion
 
+- https://alexwlchan.net/2015/12/pretty-print
 - https://twitter.com/bcomnes/status/1482036550758064130
 - [XSLT is amazing](https://twitter.com/mountain_ghosts/status/1549761365195296771)

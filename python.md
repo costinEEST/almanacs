@@ -15,6 +15,7 @@
 ### API
 
 - [KNOXSS API](https://github.com/xnl-h4ck3r/knoxnl)
+- https://alexwlchan.net/2019/04/reversing-a-tco-url-to-the-original-tweet
 
 ### Book
 
@@ -53,6 +54,8 @@
 - [Telegram Bot that searches definitions for Romanian words using dexonline](https://github.com/revolter/DexRoBot)
 - [Telegram Bot that converts some file types to native photo, audio or video Telegram messages](https://github.com/revolter/FileConvertBot)
 - https://github.com/kklein/life-monitor + https://twitter.com/kevkle/status/1528464290864410626
+- https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt
+- https://alexwlchan.net/2021/01/kempisbot
 
 ### Clean code
 
@@ -92,6 +95,7 @@
 
 - https://github.com/s16h/py-must-watch
 - [Python programming for finance | sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
+- https://alexwlchan.net/2019/10/sans-io-programming
 
 ### Data structures
 
@@ -188,6 +192,7 @@
 - [Custom Selenium Chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 - https://github.com/saminiir/anki-crawler
 - [Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
+- https://alexwlchan.net/2019/11/saving-a-copy-of-a-tweet-by-typing-twurl
 
 ### Static website 
 
@@ -267,6 +272,10 @@
 - https://webinstall.dev/pyenv
 - https://github.com/scprogramming/WordtoHTML
 - https://github.com/juancarlospaco/faster-than-requests
+- [Using Python to organise my physical paper](https://alexwlchan.net/files/2021/campug.pdf) + https://alexwlchan.net/2019/11/my-scanning-setup
+- https://alexwlchan.net/2019/04/getting-a-transcript-of-a-talk-from-youtube
+- https://alexwlchan.net/2016/12/slack-history
+- https://alexwlchan.net/2021/04/s3-progress-bars
 
 ### Testing
 

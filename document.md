@@ -7,6 +7,10 @@
 
 - https://github.com/hanhanhanz/cyber-security-sources/blob/main/officeFileExploitation.md
 
+### .epub
+
+- https://alexwlchan.net/2019/08/removing-the-drm-from-my-kindle-books
+
 ### .md 
 
 - [Preview GitHub README.md files locally before committing them](https://github.com/joeyespo/grip)
