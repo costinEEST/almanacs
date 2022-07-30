@@ -127,7 +127,6 @@
 - [A History of Private Life, Volume I: From Pagan Rome to Byzantium](https://www.amazon.com/History-Private-Life-Pagan-Byzantium/dp/0674399749)
 - https://going-medieval.com/subject-index-table-of-contents
 - https://acesounderglass.com/2019/10/16/epistemic-spot-checks-the-fall-of-rome
-- https://www.caseyliss.com/2021/3/1/black-history-month
 - https://en.wikipedia.org/wiki/From_Dawn_to_Decadence
 - https://www.youtube.com/playlist?list=PLaLOVNqqD-2HKHtfe4No8Sua_3JEvRHGe  https://cosmolearning.org/courses/medieval-europe-500-1500
 - [Bilkent: HCIV-102 History of Civilization II | CosmoLearning History](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FzHv8-N93sSiMIfmST-Gzf)

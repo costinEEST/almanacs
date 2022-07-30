@@ -47,6 +47,7 @@
 - [Vanzari instrumente muzicale second-hand](https://www.facebook.com/groups/vanzari.second)
 - [Richard Godwin](https://open.spotify.com/user/goblinski)
 - https://radiooooo.com
+- [DISCURI DE VINIL PICK-UP](https://www.facebook.com/groups/1529935950659745)
 
 ### Instrument
 

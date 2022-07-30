@@ -9,6 +9,8 @@
 
 ### Christianity
 
+- [Man, God, and civilization | John G. Jackson](https://archive.org/details/mangodcivilizati00jack) + https://www.libris.ro/librarie-online?fsv_77564=John%20G.%20Jackson + https://www.bookdepository.com/author/John-G-Jackson
+- [King James Bible (KJB)](https://en.wikipedia.org/wiki/King_James_Version)
 - https://humanitas.ro/assets/pdf/Sfantul-Augustin_Confesiuni.pdf
 - https://humanitas.ro/assets/pdf/Sfantul-Augustin_Despre-minciuna.pdf
 - https://archive.org/details/EneSiEcaterinaBraniste-DictionarEnciclopedicDeCunostinteReligioase

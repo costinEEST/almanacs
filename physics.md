@@ -30,6 +30,7 @@
 - [ME101: Introduction to Mechanical Engineering](https://github.com/saylordotorg/course_me101)
 - [ME302: Mechatronics](https://github.com/saylordotorg/course_me302)
 - https://github.com/johnwstanford/feynman_lecture_notes
+- [Introduction to Loop Quantum Gravity - Carlo Rovelli](https://www.youtube.com/playlist?list=PLwLvxaPjGHxR6zr421tXXlaDGbq8S36Un)
 
 ### Miscellaneous
 

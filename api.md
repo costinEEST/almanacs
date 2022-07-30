@@ -88,8 +88,6 @@
 
 ### Weather
 
-- Get the weather from terminal
-
 ```
 curl v2.wttr.in/Bucharest
 ```
@@ -124,6 +122,7 @@ curl v2.wttr.in/Bucharest
 - https://twitter.com/ryanflorence/status/1332403896208146433
 - [curl cryptocurrencies exchange rates](https://github.com/chubin/rate.sx)
 - [REST API Design Guide of the National Bank of Belgium](https://github.com/NationalBankBelgium/REST-API-Design-Guide)
+- https://datahelpdesk.worldbank.org/knowledgebase/articles/898590-country-api-queries
 
 ### Languages
 

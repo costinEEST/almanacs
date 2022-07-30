@@ -114,6 +114,7 @@
 - [Unofficial DRPCIV API (trimite requesturi periodic pentru a vedea daca s-au eliberat locuri)](https://github.com/vbadita/programare_drpciv)
 - https://nelsonslog.wordpress.com/2021/10/01/syncthing-status-from-the-command-line
 - [Build & deploy geospatial applications quick and easy](https://github.com/greppo-io/greppo)
+- https://mathspp.com/blog/how-to-create-a-python-package-in-2022
 
 ### Networking
 

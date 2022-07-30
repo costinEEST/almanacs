@@ -9,6 +9,7 @@
 - https://www.grunge.com/749148/the-scientific-reason-vodka-doesnt-freeze
 - https://www.zmescience.com/science/anthropology/five-turning-points-in-the-evolution-of-wine
 - https://blogs.scientificamerican.com/food-matters/quinine-and-empire
+- [Beer and Brewing in Medieval Culture and Contemporary Medievalism | John A. Geck, Rosemary O'Neill, Noelle Phillips](https://twitter.com/FontesMedicorum/status/1553129900063670273)
 
 ### Autism
 

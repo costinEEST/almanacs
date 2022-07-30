@@ -26,6 +26,7 @@
 - https://github.com/zslucky/awesome-AI-books
 - [I read a lot of books this year to broaden my horizons in AI/ML with adjacent or complementary disciplines](https://twitter.com/Thom_Wolf/status/1475460073719742465)
 - https://leanpub.com/interpretable-machine-learning + https://christophm.github.io/interpretable-ml-book
+- [Machine Learning: Advanced Topics](https://twitter.com/sirbayes/status/1553127082992881665)
 
 ### Course
 
@@ -64,6 +65,7 @@
 - https://divyendusingh.com/machine-learning-literacy
 - [Machine Learning Course - Halmstad University](https://www.youtube.com/playlist?list=PLS8J_PRPtGfdnPf9QqT7Itnn2rAHsoWqY)
 - https://decision.substack.com/p/full-course-making-friends-with-ml
+- [Beep Boop: Learn AI/ML for free!](https://www.youtube.com/playlist?list=PLZEDsU5Jf868j_oCENz8jonsdTTVp5svv)
 
 ### Community
 

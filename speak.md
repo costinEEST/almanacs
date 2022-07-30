@@ -113,6 +113,7 @@
 
 - [LearnArabicwithMaha](https://www.youtube.com/playlist?list=PLDE670F8915C5902A)
 - https://www.amazon.com/Handbook-Language-Teaching-Professionals-Century-ebook-dp-B00KQOAC8A/dp/B00KQOAC8A
+- [Late Antiquity](https://twitter.com/shahanSean/status/1553224584291225600)
 
 ### Danish
 
@@ -363,6 +364,7 @@
 ### Ukrainian
 
 - https://dopomoha.ro/ro/expresii-utile
+- https://twitter.com/istoric_Popescu/status/1505853182924238848
 
 
 ### Storytelling
@@ -373,6 +375,7 @@
 - https://blog.raeez.com/story-telling
 - https://newthinking.tools/bookshelf
 - [Course materials for Dartmouth Course: Storytelling with Data (PSYC 81.09)](https://github.com/ContextLab/storytelling-with-data)
+- https://en.wikipedia.org/wiki/The_Seven_Basic_Plots
 
 ### Thai
 

@@ -105,6 +105,7 @@
 - https://shkspr.mobi/blog/2021/02/just-because-i-have-a-vertical-screen-doesnt-mean-im-on-a-phone + https://news.ycombinator.com/item?id=26000405
 - https://wattenberger.com/blog/css-percents
 - [Does Safari 15 finally fix viewport height?](https://lukechannings.com/blog/2021-06-09-does-safari-15-fix-the-vh-bug)
+- https://n12v.com/css-retina-and-physical-pixels
 
 ### Properties explained
 

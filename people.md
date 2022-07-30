@@ -1,3 +1,9 @@
+### Black people 
+
+- https://www.caseyliss.com/2021/3/1/black-history-month
+- https://www.amazon.com/Intellectual-Warfare-Jacob-Carruthers/dp/0883781808
+- https://www.bookdepository.com/Introduction-African-Civilizations-John-G-Jackson/9780806521893
+
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUf5L0Iv0UtsWkaXQGjEUGYa
@@ -37,6 +43,14 @@
 ### Aldous Huxley
 
 - https://www.openculture.com/2022/03/hear-aldous-huxley-narrate-his-dystopian-masterpiece-brave-new-world.html
+
+### Alexander Unzicker
+
+- https://twitter.com/EliVieiraJr/status/1302633742201126917
+- https://youtu.be/4N5jSG5v0CU
+- https://youtu.be/Uo5MAhLpNu4
+- https://youtu.be/urPwuK1sOXQ
+- https://mobile.twitter.com/daridor/status/1415636570732957698
 
 ### Amjad Masad
 
@@ -199,6 +213,10 @@
 
 - https://twitter.com/iantay_/status/1375945517486669824 + https://www.notion.so/blog/a-roundtable-on-richard-hamming
 
+### Richard Feynman 
+
+- https://twitter.com/memcculloch/status/1413137867275046918
+
 ### Robert Augustus Masters
 
 - https://www.robertmasters.com/interviews
@@ -252,6 +270,25 @@
 
 - https://twitter.com/curiouswavefn/status/1453030427980025863
 - https://humanitas.ro/humanitas/carte/patimile-sfantului-tommaso-daquino
+
+### Werner Heisenberg
+
+- https://koaha.org/wiki/Werner_Heisenberg
+- https://twitter.com/search?q=from%20%40curiouswavefn%20werner%20heisenberg&src=typed_query 
+- https://twitter.com/search?q=from%20%40phalpern%20werner%20heisenberg&src=typed_query
+- https://www.google.com/search?q=Edward+Teller+Werner+Heisenberg
+- https://www.google.com/search?q=arnold+sommerfeld+werner+heisenberg
+- https://www.google.com/search?q=Victor+Weisskopf+werner+heisenberg
+- https://www.google.com/search?q=werner+heisenberg+wolfgang+pauli
+- https://www.amazon.com/Uncertainty-Einstein-Heisenberg-Struggle-Science/dp/1400079969
+- https://www.amazon.com/Crafting-Quantum-Sommerfeld-Transformations-Technology/dp/0262013738
+- https://www.google.com/search?q=Constructions+of+Theoretical+Physics+in+Germany+seth+suman
+- [Uncertainty: the Life and Science of Werner Heisenberg | David C. Cassidy](https://en.wikipedia.org/wiki/Uncertainty_(book))
+- [Beyond Uncertainty: Heisenberg, Quantum Physics, and the Bomb | David C. Cassidy](https://en.wikipedia.org/wiki/Beyond_Uncertainty)
+- [Great Physicists: Werner Heisenberg - but you should not believe everything he said](https://www.youtube.com/watch?v=gjlvglChd1A&list=PLFdjtNRUXClhgSr3WqtWVfhVRguLXOwgX&index=6)
+- https://www.amazon.com/Helgoland-Making-Sense-Quantum-Revolution/dp/0593328884
+- [When We Cease to Understand the World by Benjamín Labatut](https://twitter.com/philipcball/status/1448742661519720452)
+- [The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius | Graham Farmelo](https://twitter.com/andersagf/status/1448770519680040967)
 
 
 ### Miscellaneous
