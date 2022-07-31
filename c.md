@@ -21,6 +21,7 @@
 - [Operating Systems: Three Easy Pieces](https://github.com/remzi-arpacidusseau/ostep-code)
 - https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaBooks/C-Programming/master/README.md#1
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://paulmck.livejournal.com/66892.html)
+- [The little book about OS development](https://github.com/littleosbook/littleosbook)
 
 ### Cinema
 

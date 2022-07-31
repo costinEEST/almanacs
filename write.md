@@ -70,6 +70,7 @@
 - [Analyse rhyme scheme, metre and form of poems](https://github.com/hyperreality/Poetry-Tools)
 - [The Latex files used to create my PhD Thesis](https://github.com/jack4818/thesis-template)
 - https://alexwlchan.net/2016/02/how-i-use-textexpander-to-curb-my-language
+- https://ivoanjo.me/blog/2017/10/22/asciidoc-an-awesome-markdown-alternative
 
 ### Miscellaneous
 

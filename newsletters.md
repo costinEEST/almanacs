@@ -2,6 +2,10 @@
 
 - [The Kicks You Wear](https://kyw.substack.com/archive)
 
+### C++ 
+
+- [Denis Bakhvalov](https://easyperf.net/newsletter)
+
 ### Tips
 
 - [feeds/videos.xml?channel_id={{CHANNEL_ID}}](https://twitter.com/pawelgrzybek/status/1240249320336695296)

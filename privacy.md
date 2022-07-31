@@ -43,6 +43,7 @@
 - [Alibaba and Xiaomi: the downward spiral of surveillance capitalism | Gabi Cirlig](https://www.nohat.it/static/slides/alibaba_and_xiaomi_cirlig.pdf)
 - https://arstechnica.com/information-technology/2022/04/a-year-after-apple-enforces-app-tracking-policy-covert-ios-tracking-remains
 - [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
+- https://edition.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html
 
 ### Software
 

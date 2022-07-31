@@ -298,6 +298,8 @@
 - https://www.wiley.com/en-us/100+Years+Werner+Heisenberg:+Works+and+Impact-p-9783527610853
 - https://www.youtube.com/watch?v=gjlvglChd1A&list=RDLVgjlvglChd1A&start_radio=1
 - [Heisenberg, Bohr and the atomic bomb](https://www.webofstories.com/play/edward.teller/34)
+- https://youtu.be/QrCc9XfNoBE
+- https://youtu.be/L5WOnYB2-o8
 
 
 ### Miscellaneous

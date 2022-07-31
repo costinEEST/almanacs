@@ -30,6 +30,7 @@
 - https://github.com/staszewski/rustlings-solutions
 - https://github.com/LukeMathWalker/zero-to-production
 - [Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers](https://github.com/google/autocxx)
+- [Performance Analysis and Tuning on Modern CPUs](https://github.com/grahamking/perf-ninja-rs)
 
 ### Bot
 

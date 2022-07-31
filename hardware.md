@@ -126,6 +126,10 @@
 - https://urish.medium.com/introducing-easyeda-2-kicad-37489da1dfa7
 - [web-based CPUID decoder and visualiser](https://github.com/gsuberland/web-cpuid)
 
+### Microprocessor
+
+- [The first exascale supercomputer in the Top500](https://www.top500.org/lists/top500/2022/06)
+
 ### Miscellaneous
 
 - https://github.com/jaredthecoder/awesome-vehicle-security
@@ -152,6 +156,7 @@
 - https://elevation.fandom.com/wiki/List_of_elevator_special_modes
 - [A curated list of data oriented design resources.](https://github.com/dbartolini/data-oriented-design) + https://www.polymonster.co.uk/blog/dod-ecs + https://www.amazon.com/Data-oriented-design-engineering-resources-schedules/dp/1916478700
 - [The hacktic demon dialer, from 1991](https://github.com/nlitsme/HACKTIC_demon_dialer)
+- https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform
 
 ### News
 

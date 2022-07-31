@@ -332,6 +332,7 @@
 ### Polyglots
 
 - [Joseph Justus Scaliger](https://sententiaeantiquae.com/2020/03/06/skip-sleep-blast-through-homer) + https://twitter.com/nntaleb/status/1236017035534008320
+- https://www.bbc.com/future/article/20220719-how-speaking-other-languages-changes-your-brain
 
 ### Polish
 

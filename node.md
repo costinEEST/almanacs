@@ -76,6 +76,7 @@
 - https://github.com/PacktPublishing/Accelerate-Web-Development-with-Fastify
 - https://shalvah.teachable.com/p/api-documentation-for-developers
 - https://tnickel.de/2020/12/24/2020-12-How-I-replaced-google-analytics-on-my-website
+- https://blog.techfund.jp/p/using-rust-for-writing-nodejs-modules
 
 ### Book
 
@@ -222,6 +223,7 @@
 - [Timezones are hard](https://twitter.com/matteocollina/status/1438073525051473923)
 - https://github.com/thlorenz/v8-perf
 - https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html
+- [Deeper testing of Bun's performance and compatibility against Node.js](https://techsparx.com/nodejs/bun/speed-test.html) + https://mobile.twitter.com/jarredsumner/status/1549790511422062592
 
 ### TIL
 
@@ -253,13 +255,13 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 ### .mjs
 
+- https://2ality.com/2022/07/nodejs-esm-shell-scripts.html
 - https://gils-blog.tayar.org/tags/esm
 - https://github.com/giltayar/ah-theyre-here-esm-nodejs
 - [Easily install, configure and compose Node.js ESM loaders.](https://github.com/targos/multiloader) + https://twitter.com/giltayar/status/1437273836899164160
 - [What is the best way to check if a node module/file is being called like a script instead of requiring it?](https://twitter.com/sseraphini/status/1455954446656098310)
 - [Publish JS project as dual ES modules and CommonJS package to npm](https://github.com/ai/dual-publish)
 - https://dev.to/jakobjingleheimer/custom-esm-loaders-who-what-when-where-why-how-4i1o
-
 
 ### Event loop
 
@@ -448,6 +450,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/sw-yx/brain/blob/master/R%20-%20Product/Automation%20Notes.md
 - https://github.com/kennymkchan/nba-topshot-scraper
 - https://blog.vjeux.com/2021/javascript/trackmania-medal-distribution.html
+- [Extract main article from given URL](https://github.com/ndaidong/article-parser)
 
 ### Micro service
 
@@ -539,6 +542,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/shakyShane/next-no-js
 - [designcember.com built with Astro](https://github.com/GoogleChromeLabs/designcember)
 - [Eleventy crash course | Jaydan Urwin](https://www.youtube.com/playlist?list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW)
+- [Converts an express EJS app into a static HTML website](https://github.com/THHamiltonSmith/ejs-static-converter)
 
 
 ### Serverless

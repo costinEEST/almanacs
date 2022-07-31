@@ -1,3 +1,7 @@
+### Book 
+
+- [Introduction to Classical and Quantum Computing | Thomas G. Wong](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
+
 ### Reference
 
 - https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks

@@ -135,6 +135,7 @@
 - https://samuelkraft.com/blog/safari-15-bottom-tab-bars-web
 - https://www.bram.us/2021/12/27/css-in-2022
 - https://ishadeed.com/snippet/fit-content
+- [Use :has() to power <form> micro-interactions and theme](https://twitter.com/jh3yy/status/1549101796794273795)
 
 ### Selector
 
@@ -211,8 +212,10 @@
 
 ### Media query
 
+- https://ethanmarcotte.com/wrote/points-break
 - https://polypane.app/blog/overlooked-breakpoints-in-responsive-design
 - https://www.sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os
+- https://helloyes.dev/blog/2022/re:-css-breakpoints-every-developer-needs-to-know
 
 ### Layout
 

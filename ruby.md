@@ -62,6 +62,13 @@
 
 ### Cheat sheet
 
+- https://programming-idioms.org/cheatsheet/Ruby/C
+- https://programming-idioms.org/cheatsheet/Ruby/Python
+- https://programming-idioms.org/cheatsheet/Ruby/Lua
+- https://programming-idioms.org/cheatsheet/Ruby/Go
+- https://programming-idioms.org/cheatsheet/Ruby/PHP
+- https://programming-idioms.org/cheatsheet/Ruby/Kotlin
+- https://programming-idioms.org/cheatsheet/Ruby/Java
 - https://learnxinyminutes.com/docs/ruby
 - https://blog.appsignal.com/2021/12/15/whats-new-in-rails7.html
 - https://rubyreferences.github.io/rubyref
