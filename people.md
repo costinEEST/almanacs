@@ -280,15 +280,24 @@
 - https://www.google.com/search?q=arnold+sommerfeld+werner+heisenberg
 - https://www.google.com/search?q=Victor+Weisskopf+werner+heisenberg
 - https://www.google.com/search?q=werner+heisenberg+wolfgang+pauli
-- https://www.amazon.com/Uncertainty-Einstein-Heisenberg-Struggle-Science/dp/1400079969
-- https://www.amazon.com/Crafting-Quantum-Sommerfeld-Transformations-Technology/dp/0262013738
+- https://www.google.com/search?q=erwin+schr%C3%B6dinger+%26+werner+heisenberg
+- https://www.google.com/search?q=Heinrich+Himmler+Werner+Heisenberg
+- https://www.google.com/search?q=Reinhard+Heydrich+Werner+Heisenberg
+- https://www.google.com/search?q=Johannes+Stark+Werner+Heisenberg
+- https://www.google.com/search?q=Science+and+Ideology+The+Case+of+Physics+in+Nazi+Germany+Philip+Ball
 - https://www.google.com/search?q=Constructions+of+Theoretical+Physics+in+Germany+seth+suman
+- [Great Physicists: Werner Heisenberg - but you should not believe everything he said](https://www.youtube.com/watch?v=gjlvglChd1A&list=PLFdjtNRUXClhgSr3WqtWVfhVRguLXOwgX&index=6) + https://www.amazon.com/Quantum-Manjit-Kumar/dp/1848310358 + https://www.amazon.com/Uncertainty-Einstein-Heisenberg-Struggle-Science/dp/1400079969 + https://www.amazon.com/Quantum-Ten-Passion-Tragedy-Ambition/dp/0195369092 + https://www.amazon.com/Nazi-Science-Truth-German-Atomic/dp/0738205850 + https://www.amazon.com/Brighter-than-Thousand-Suns-Scientists/dp/0156141507 + https://www.amazon.com/Critical-Mass-Germany-Surrendered-Enriched/dp/1634241177 + https://www.amazon.com/Physics-Beyond-Werner-Heisenberg/dp/0049250086 + https://www.google.com/search?q=standard+model+of+fundamental+particles+and+interactions + http://tid.uio.no/epf/mirror/standard_model_sum.html
+- https://www.amazon.com/Heisenbergs-War-Secret-History-German/dp/0306810115
+- https://www.amazon.com/Crafting-Quantum-Sommerfeld-Transformations-Technology/dp/0262013738
 - [Uncertainty: the Life and Science of Werner Heisenberg | David C. Cassidy](https://en.wikipedia.org/wiki/Uncertainty_(book))
 - [Beyond Uncertainty: Heisenberg, Quantum Physics, and the Bomb | David C. Cassidy](https://en.wikipedia.org/wiki/Beyond_Uncertainty)
-- [Great Physicists: Werner Heisenberg - but you should not believe everything he said](https://www.youtube.com/watch?v=gjlvglChd1A&list=PLFdjtNRUXClhgSr3WqtWVfhVRguLXOwgX&index=6)
 - https://www.amazon.com/Helgoland-Making-Sense-Quantum-Revolution/dp/0593328884
 - [When We Cease to Understand the World by Benjamín Labatut](https://twitter.com/philipcball/status/1448742661519720452)
 - [The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius | Graham Farmelo](https://twitter.com/andersagf/status/1448770519680040967)
+- https://www.amazon.com/Farm-German-Atomic-Project-World/dp/3319595776
+- https://www.wiley.com/en-us/100+Years+Werner+Heisenberg:+Works+and+Impact-p-9783527610853
+- https://www.youtube.com/watch?v=gjlvglChd1A&list=RDLVgjlvglChd1A&start_radio=1
+- [Heisenberg, Bohr and the atomic bomb](https://www.webofstories.com/play/edward.teller/34)
 
 
 ### Miscellaneous
