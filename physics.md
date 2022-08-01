@@ -24,6 +24,7 @@
 - [UC Berkeley: PHYS 10 - Physics for Future Presidents | CosmoLearning.org](https://www.youtube.com/playlist?list=PLaLOVNqqD-2Ep5N9os9jWMSkxK_TLki9h)
 - [Quantum Optics - Single Photons](https://www.youtube.com/playlist?list=PL2jykFOD1AWaYcXzYm08-pM0S0QNzmFIU)
 - [Matter and Radiation](https://www.youtube.com/playlist?list=PL2jykFOD1AWY_okCphwz0yRRb-WWO_irh)
+- [The Biggest Ideas in the Universe | Sean Carroll](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) + https://www.preposterousuniverse.com/biggestideas/videos
 
 ### Course
 

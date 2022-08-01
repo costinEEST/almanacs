@@ -86,6 +86,7 @@
 - [Mathematics](math.md)
 - [Microsoft Excel](excel.md)
 - [Music](music.md)
+- [Mycology](fungi.md)
 - [Newsletters](newsletters.md)
 - [Nim](nim.md)
 - [Node](node.md)
