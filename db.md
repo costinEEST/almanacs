@@ -113,6 +113,7 @@
 - But nobody writes production applications with SQLite, right? https://litestream.io/blog/why-i-built-litestream + https://twitter.com/benbjohnson/status/1359906563285254149 + https://twitter.com/benbjohnson/status/1359944904588353537
 - https://github.com/ABZ-Aaron/CheatSheets
 - https://www.jakeworth.com/how-to-read-postgres-docs
+- https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design
 
 ### Real-time databases
 

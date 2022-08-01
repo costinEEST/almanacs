@@ -7,6 +7,11 @@
 
 - https://skillsmatter.com/skillscasts/4971-domain-driven-design-with-scott-wlaschin
 
+### Community 
+
+- [Community curated list of companies that use F#](https://github.com/fsprojects/fsharp-companies)
+
 ### Practice
 
 - https://codeopinion.com/my-fsharp-journey-learning-resources
+- https://github.com/jorgef/fsharpworkshop

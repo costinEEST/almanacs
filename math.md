@@ -129,6 +129,10 @@
 - https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion
 - https://antitypical.com/posts/2021-08-14-sequent-calculus-cheat-sheet
 
+### Tool 
+
+- https://www.mathway.com/Algebra
+
 ### Teacher
 
 - https://simonaileapop.wordpress.com/2013/01/01/profesorului-gheba-omul-care-a-scos-la-tabla-tara-intreaga

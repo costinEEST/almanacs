@@ -313,6 +313,7 @@
 - https://github.com/obie/guide-to-reactive-rails
 - https://stevenyue.com/blogs/performance-benchmark-on-rubys-dynamic-method
 - https://www.sitepoint.com/exit-exit-abort-raise-get-me-outta-here
+- [Redefine the unary operators](https://stackoverflow.com/a/40072337/1904223)
 
 ### Opinion
 
