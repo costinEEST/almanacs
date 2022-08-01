@@ -262,6 +262,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [What is the best way to check if a node module/file is being called like a script instead of requiring it?](https://twitter.com/sseraphini/status/1455954446656098310)
 - [Publish JS project as dual ES modules and CommonJS package to npm](https://github.com/ai/dual-publish)
 - https://dev.to/jakobjingleheimer/custom-esm-loaders-who-what-when-where-why-how-4i1o
+- [If you are on commonjs with no plan to upgrade](https://twitter.com/matteocollina/status/1554157532381429762)
 
 ### Event loop
 

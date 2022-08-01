@@ -220,12 +220,14 @@
 - https://github.com/cbdileo/aws-ec2-docker-rails-app
 - https://dev.to/aws-heroes/aws-lambda-microservice-workshop-using-s3-libvips-ruby-4o96
 - https://thibautbarrere.com/2021/01/20/circle-ci-with-multiple-databases-and-rubies
+- [What is the cheapest and most reliable way to host a Rails app with Postgres, Redis, mail, and SSL?](https://twitter.com/olivierlacan/status/1554152248392966151)
 
 ### Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems) + https://nts.strzibny.name/ruby-stdlib-default-bundled-gems + https://gist.github.com/boue/9540965
 - https://github.com/JoshCheek/seeing_is_believing
 - https://www.brianstorti.com/creating-a-rubygems-plugin
+- [What’s the first 5 gems you add to every “rails new” project?](https://twitter.com/RailsRecruiter/status/1551961131220189188)
 - [A RubyGems plugin that compares versions of the given gem](https://github.com/fedora-ruby/gem-compare)
 - https://skryukov.github.io/rails/activeadmin/2020/09/29/an-unofficial-active-admin-guide.html
 - [Pure Ruby bit array/bitfield implementation](https://github.com/peterc/bitarray)
@@ -314,6 +316,7 @@
 - https://stevenyue.com/blogs/performance-benchmark-on-rubys-dynamic-method
 - https://www.sitepoint.com/exit-exit-abort-raise-get-me-outta-here
 - [Redefine the unary operators](https://stackoverflow.com/a/40072337/1904223)
+- [`[*array1, *array2, ...]` is slightly slower than `array1 + array2 + ...`](https://gist.github.com/postmodern/83731685900fb851ee799026ba46e087)
 
 ### Opinion
 
@@ -421,6 +424,7 @@
 - https://github.com/theofidry/awesome-mutation-testing
 - https://connorshea.gitlab.io/blog/how-i-write-and-maintain-type-sigs-in-my-rails-app-with-sorbet.html
 - https://schwad.github.io/ruby/rails/rspec/tdd/2017/04/10/leveling-up-tdd-with-e.html
+- [Consider linting your factories](https://twitter.com/siaw23/status/1554128777382400002)
 
 ### Radio
 

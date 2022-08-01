@@ -329,3 +329,11 @@
 ### Umberto Eco
 
 - https://dilemaveche.ro/sectiune/societate/articol/ulise-in-tesatura-topografiilor-simbolice
+
+### Vladimir Oane 
+
+- https://twitter.com/vladimiroane/status/1554010829950959618
+
+### Yuval Noah Harari
+
+- http://szabadsag.ro/-/harari-es-a-transzhumanizmus

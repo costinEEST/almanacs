@@ -15,6 +15,7 @@
 - https://github.com/shayne/wsl2-hacks
 - https://github.com/binarymist/command-line/blob/master/windows.md
 - https://github.com/you-dont-need/You-Dont-Need-GUI
+- https://nelsonslog.wordpress.com/2022/08/01/setting-up-a-second-wsl-distribution
 
 ### Cinema
 

@@ -38,6 +38,7 @@
 - https://www.amazon.com/Freestyle-Ergonomic-Mechanical-Programmable-Adjustable/dp/B07CX9KQRQ
 - https://blog.albingroen.com/posts/my-ultimate-hacking-keyboard-review
 - https://www.johnhawthorn.com/2020/05/building-a-homemade-keyboard
+- https://github.com/AndyDoering/Keyboards
 
 ### Microphone
 
