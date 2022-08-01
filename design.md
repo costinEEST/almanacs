@@ -56,6 +56,7 @@
 - https://github.com/julesforrest/womenwhodesign
 - https://zehfernandes.com/work/brazilians-who-design
 - https://www.davidairey.com/resources
+- Lena Groeger: https://lenagroeger.com/resources, https://github.com/lenagroeger/resources/tree/gh-pages
 
 
 ### Graphic design
