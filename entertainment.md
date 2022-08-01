@@ -45,6 +45,7 @@
 - https://en.wikipedia.org/wiki/White_Noise_(novel)
 - [Schools offer History classes. What if they also offered Future classes?](https://twitter.com/devonzuegel/status/1287594829904596992) + https://en.wikipedia.org/wiki/Psychohistory_(fictional)
 - https://reasonio.teachable.com/p/worlds-of-speculative-fiction
+- https://blog.printrecarti.ro/carti-pentru-barbati
 
 ### Sociology
 

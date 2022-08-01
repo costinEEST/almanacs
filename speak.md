@@ -377,6 +377,7 @@
 - https://newthinking.tools/bookshelf
 - [Course materials for Dartmouth Course: Storytelling with Data (PSYC 81.09)](https://github.com/ContextLab/storytelling-with-data)
 - https://en.wikipedia.org/wiki/The_Seven_Basic_Plots
+- https://twitter.com/sisinerdtweets/status/1554086567211311109
 
 ### Thai
 

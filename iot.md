@@ -77,6 +77,7 @@
 - https://gquintana.github.io/2020/01/10/Home-temperature-monitoring.html
 - https://shopmakergenix.blogspot.com/2021/12/a-hidden-speed-boost-and-64-bit-option.html
 - [Learning Computer Architecture with Raspberry Pi](https://www.contrapositivediary.com/?p=3770)
+- https://brickexperimentchannel.wordpress.com/rc-submarine-4-0-blog-post-series
 
 ### Smartwatch
 

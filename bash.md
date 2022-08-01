@@ -98,3 +98,4 @@
 - [Bash production guide](https://twitter.com/saruspete/status/1263109895345377280) + https://www.slideshare.net/Saruspete/bash-production-guide
 - https://stevenyue.com/blogs/a-bash-function-for-sending-slack-notifications
 - https://alexwlchan.net/2015/11/quick-shell-docker
+- http://redsymbol.net/articles/unofficial-bash-strict-mode

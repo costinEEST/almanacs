@@ -20,6 +20,10 @@
 
 - https://en.wikipedia.org/wiki/Jean_Piaget
 
+### Hypnosis
+
+- http://redsymbol.net/book-indexes
+
 
 ### Opinion
 

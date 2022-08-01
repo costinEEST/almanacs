@@ -1,6 +1,7 @@
 ### Book 
 
 - [Windows 11 From Beginner to Advanced](https://www.amazon.com/dp/B09HG2RV9X)
+- [Windows Kernel Programming](https://github.com/Truneski/WindowsKernelProgramming-Exercises)
 
 ### How to
 
