@@ -1,6 +1,11 @@
+### Bag 
+
+- https://www.facebook.com/JorsiBags
+
 ### Hat
 
 - https://laughingsquid.com/why-men-stopped-wearing-hats
+- [Nicolae Zdârcă](https://www.facebook.com/Iorga.TM/posts/pfbid0wHWyvuAxiBBC3DUosjfBaajmaEnrBkFEv97LDRybGjWQr7SMP3gzyPYm4YGyUkeLl)
 
 ### Shoes
 

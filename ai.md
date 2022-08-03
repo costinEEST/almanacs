@@ -27,6 +27,7 @@
 - [I read a lot of books this year to broaden my horizons in AI/ML with adjacent or complementary disciplines](https://twitter.com/Thom_Wolf/status/1475460073719742465)
 - https://leanpub.com/interpretable-machine-learning + https://christophm.github.io/interpretable-ml-book
 - [Machine Learning: Advanced Topics](https://twitter.com/sirbayes/status/1553127082992881665)
+- [Data mining pentru Științele Sociale Vol. 1: Pregătirea datelor în RapidMiner Studio | COMŞA Mircea](http://www.editura.ubbcluj.ro/www/ro/ebook2.php?id=3246)
 
 ### Course
 

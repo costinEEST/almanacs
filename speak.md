@@ -345,8 +345,10 @@
 - http://alexalejandre.com/language/16.Limba%20Rom%c3%a2n%c4%83.%20Curs%20superior.pdf
 - http://alexalejandre.com/language/03.Introduction%20to%20Romanian.pdf + https://www.studmed.ru/seiver-george-o-introduction-to-romanian_508aa438e3a.html + https://www.amazon.com/Introduction-Romanian-George-Seiver/dp/B0000CIK7N
 - http://alexalejandre.com/language/01.Colloquial%20Romanian.pdf
+- https://isd.spiruharet.ro/wp-content/uploads/books/Colloquial_Romanian-Complete_course_for_Beginners.pdf
 - [Istoriile lui Roderick](https://hroderic.wordpress.com)
 - https://lazyadmin.ro/biblioteca-sau-librarie
+- https://www.goodreads.com/author/show/3986432.Ramona_G_ncz_l_Davies
 
 ### Russian
 

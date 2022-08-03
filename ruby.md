@@ -181,6 +181,8 @@
 - [I've always been curious about Twitter's history with Rails](https://twitter.com/viking369/status/1552393384782106625)
 - https://github.com/paywith/ruby-pair-programming-interview
 - https://github.com/guru-br/catalogo_empresas
+- [React on Rails](https://twitter.com/i/communities/1512475108341956619)
+- https://toprubycompanies.info
 
 ### Compiler 
 
@@ -221,6 +223,8 @@
 - https://dev.to/aws-heroes/aws-lambda-microservice-workshop-using-s3-libvips-ruby-4o96
 - https://thibautbarrere.com/2021/01/20/circle-ci-with-multiple-databases-and-rubies
 - [What is the cheapest and most reliable way to host a Rails app with Postgres, Redis, mail, and SSL?](https://twitter.com/olivierlacan/status/1554152248392966151)
+- [one process, one pod](https://twitter.com/nateberkopec/status/1554604870073729025) + https://www.speedshop.co/2017/10/12/appserver.html
+- [Has anybody deployed their Rails apps to https://fly.io?](https://twitter.com/bradgessler/status/1554464283085492226)
 
 ### Gem
 
