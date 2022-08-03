@@ -308,6 +308,7 @@
 - https://blog.plasmic.app/posts/remix-for-nextjs-developers + https://twitter.com/yaaang/status/1470814383353696259
 - https://www.adamcollier.co.uk/blog/moving-from-next-to-remix
 - https://andre-landgraf.dev/blog/2022-07-16_why_remix_is_not_a_react_framework_but_a_full_stack_web_framework
+- [how many of you are building fullstack apps with your backend all in the remix app?](https://twitter.com/flybayer/status/1554123681860882434)
 
 ### Package
 

@@ -111,6 +111,7 @@
 - https://montemagno.com/goodbye-android-emulators-windows-subsytem-for-android-is-here
 - https://github.com/gfx/android-oss-best-practices
 - https://github.com/PixelExperience/packages_resources_devicesettings
+- https://blog.esper.io/distribute-apps-without-google-play
 
 ### Opinion
 

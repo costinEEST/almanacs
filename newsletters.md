@@ -226,6 +226,7 @@
 - [Tiffany B. Brown](https://us3.campaign-archive.com/home/?u=037a097fa1d20e54a1766eb27&id=8d41e6a106)
 - [Joe Previte](https://www.getrevue.co/profile/jsjoeio)
 - [Maxime Heckel](https://buttondown.email/MaximeHeckel/archive)
+- [Kent Beck](https://tidyfirst.substack.com/archive)
 
 ### Web performance
 
@@ -263,6 +264,7 @@
 - [Eric Topol](https://erictopol.substack.com/archive)
 - [Peter Attia](https://peterattiamd.com/email-archive)
 - [Tilde Cafe](https://us11.campaign-archive.com/home/?u=ae805569dda0a7c42c5899749&id=f83d3214e1)
+- [Chris Masterjohn](https://chrismasterjohnphd.substack.com/archive)
 
 ### Privacy
 
@@ -319,6 +321,10 @@
 
 - [Luke Burgis](https://archive.feedblitz.com/1110672) + https://read.lukeburgis.com/archive
 - [Jordan B. Peterson](https://us6.campaign-archive.com/home/?u=3c53a4d9fc927f570cf437952&id=a434e81da0)
+
+### Spoken languages
+
+- [LearnHebrew.TV](https://us12.campaign-archive.com/home/?u=bbfadccb964a11c5a7a496a64&id=d4ec934372)
 
 ### Travel
 

@@ -140,6 +140,7 @@
 ### Community
 
 - [Newsletters](newsletters.md#ruby)
+- https://github.com/dreikanter/ruby-bookmarks
 - https://speakerdeck.com/eileencodes/the-success-of-rails-ensuring-growth-for-the-next-100-years
 - https://github.com/takahashim/ruby-history
 - https://www.rubyandrails.info
@@ -183,6 +184,7 @@
 - https://github.com/guru-br/catalogo_empresas
 - [React on Rails](https://twitter.com/i/communities/1512475108341956619)
 - https://toprubycompanies.info
+- https://github.com/Yegorov/awesome-ruby-blogs
 
 ### Compiler 
 
@@ -264,6 +266,7 @@
 - [Identify database issues before they hit production](https://github.com/gregnavis/active_record_doctor)
 - https://github.com/steventen/sql_tracker
 - [Take your source code and convert them into a beautifully formatted PDF](https://github.com/benjamintanweihao/code_rippa)
+- https://github.com/hothero/awesome-rails-gem
 
 ### Inspire
 
@@ -285,6 +288,7 @@
 - [The reverse job board for Ruby on Rails developers](https://github.com/joemasilotti/railsdevs.com)
 - [Discover the best way to get started contributing to Open Source projects](https://github.com/codetriage/codetriage)
 - https://github.com/CollabCodeTech/backend-challenges
+- https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps
 
 ### Internals
 
@@ -394,6 +398,7 @@
 - [keepgoing uses guard to auto-run your single-file Ruby script on changes](https://github.com/wolfgangrittner/keepgoing)
 - https://github.com/arkency/heroku-buildpack-ruby-monorepo
 - https://hanamimastery.com/episodes/23-rubocop-most-frustrating-to-most-loved
+- [Download file from Yandex.Disk through share link](https://github.com/Yegorov/yadisk)
 
 ### Testing
 
@@ -450,6 +455,7 @@
 - [A database of vulnerable Ruby Gems](https://github.com/rubysec/ruby-advisory-db)
 - https://snyk.io/blog/malicious-remote-code-execution-backdoor-discovered-in-the-popular-bootstrap-sass-ruby-gem
 - https://bogdanvlviv.com/posts/ruby/rails/samesite-cookies-and-rails.html
+- https://github.com/0xedward/awesome-rails-security
 
 ### Scrapping
 

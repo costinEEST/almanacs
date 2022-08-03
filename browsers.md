@@ -380,6 +380,7 @@ javascript: (() =>
 - [The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
 - https://ahrefs.com/blog/seo-glossary
 - https://www.youtube.com/playlist?list=PLs0HJRuXPAqsj9fxpr8eJdJxCT2fN_G8S
+- [Today I set up SEO for rubyandrails.info](https://twitter.com/nleonid/status/1554154237080354818)
 
 ### Web Real-Time Communication (WebRTC)
 
@@ -492,6 +493,7 @@ javascript: (() =>
 - https://alan.norbauer.com/articles/browser-debugging-tricks
 - https://textslashplain.com/2020/09/25/web-debugging-watching-element-changes
 - https://github.com/styfle/breaking-changes-web
+- https://github.com/cezary-sec/awesome-browser-security
 
 ### Tool
 

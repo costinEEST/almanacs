@@ -39,7 +39,7 @@
 - https://pimpmytype.com/font-size
 - https://github.com/zachleat/web-font-loading-recipes
 
-### Fonts
+### Font
 
 - [Pretty cool alternative collection of fonts](https://typespecimens.io)
 - https://github.com/ubuwaits/beautiful-web-type
@@ -58,6 +58,7 @@
 - [bitmapped fonts from disused operating systems and graphical user interfaces](https://github.com/robhagemans/hoard-of-bitfonts)
 - https://qodeinteractive.com/magazine/best-google-fonts
 - https://www.colorfonts.wtf
+- [Free and open-source monospaced font from Evil Martians](https://github.com/evilmartians/mono)
 
 ### History
 
@@ -76,6 +77,7 @@
 - [Downloads a set of web fonts specified by @font-face rules in a CSS file.](https://github.com/mmastrac/webfont-dl)
 - [A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets](https://github.com/majodev/google-webfonts-helper)
 - [What I learned about fonts on Linux](https://blog.ngzhian.com/what-i-learned-about-fonts.html)
+- [A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range](https://github.com/9elements/min-max-calculator)
 
 
 ### Miscellaneous

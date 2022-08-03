@@ -146,6 +146,7 @@
 - https://adventofcomputing.com/resources.html
 - https://www.robjwells.com/books/2019/a-history-of-modern-computing
 - https://www.robjwells.com/books/2019/turings-cathedral
+- [The Computers: The Remarkable Story of the ENIAC Programmers](https://vimeo.com/ondemand/eniac6) + https://www.amazon.com/Proving-Ground-Untold-Programmed-Computer-ebook/dp/B096RT99B8
 
 ### Miscellaneous
 

@@ -135,7 +135,7 @@
 - https://www.carscoops.com/2021/12/thieves-are-now-using-apple-airtags-to-track-and-steal-high-end-vehicles
 - https://www.bellingcat.com/resources/2022/02/11/radar-interference-tracker-a-new-open-source-tool-to-locate-active-military-radar-systems
 - https://github.com/abrahamjuliot/web-fingerprinting
-
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet-ng.org/)
 
 
 ### Social media

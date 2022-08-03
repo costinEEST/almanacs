@@ -1,11 +1,13 @@
 ### Approaches
 
+- [best practices for web images](https://github.com/nucliweb/image-element)
 - https://joshwcomeau.com/performance/embracing-modern-image-formats
 - [BBS Graphics History: Pretty awesome, until the web showed up](https://news.ycombinator.com/item?id=23916050)
 - https://underjord.io/live-server-push-without-js.html
 - https://www.singhkays.com/blog/its-time-replace-gifs-with-av1-video
 - [Content-aware image resizer and object remover based on Seam Carving algorithm](https://github.com/trekhleb/js-image-carver)
 - https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens
+- [How do you handle images for your personal blogs?](https://twitter.com/jamesqquick/status/1551587367752007685)
 
 ### Community
 

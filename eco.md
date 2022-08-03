@@ -21,6 +21,7 @@
 ### Community
 
 - [Cassandra Xia](https://cassandraxia.com)
+- [database of sorts containing energy consumption of consumer devices](https://twitter.com/municode/status/1551288879810056192)
 
 ### Opinions
 

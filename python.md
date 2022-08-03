@@ -199,6 +199,7 @@
 ### Static website 
 
 - https://nelsonslog.wordpress.com/2022/07/18/tech-notes-on-my-linkblog
+- https://github.com/dreikanter/public-static
 
 ### Security
 
@@ -284,3 +285,4 @@
 - https://www.abhaybhargav.com/tdd-for-serverless-my-setup
 - https://www.abhaybhargav.com/security-automation-with-a-markdown-file
 - https://github.com/mytechnotalent/Selenium-For-Everyone
+- [TCR test && commit || revert -- Rope in Python | Kent Beck](https://www.youtube.com/playlist?list=PLlmVY7qtgT_nhLyIbeAaUlFOWbWT5y53t)

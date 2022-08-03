@@ -192,9 +192,10 @@
 - https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6
 - https://tiffanybbrown.com/2022/01/how-does-flexbox-work/index.html
 
-### Demo
+### Inspire
 
 - https://csslayout.io/patterns
+- https://web.dev/patterns/components
 - [Basic todo app functionality without using JavaScript.](https://github.com/mattzeunert/CSS-Todo-App)
 - https://github.com/trueskawka/css-drawings
 - [Styled input range (slider/progress) by Mihai-Cristian Voinea](https://codepen.io/mihai-cristian-voinea/pen/RwPgxeG)

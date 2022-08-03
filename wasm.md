@@ -18,6 +18,13 @@
 - https://github.com/pventuzelo/wasm_workshop
 - https://github.com/danbev/learning-wasi
 
+### Community 
+
+- [Peter Salomonsen](https://twitter.com/salomonsen_p)
+- [Alon Zakai](https://twitter.com/kripken)
+- [Radu Matei](https://twitter.com/matei_radu)
+- [Max Graey](https://twitter.com/MaxGraey)
+
 ### Development
 
 - https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics
@@ -47,3 +54,4 @@
 - https://twitter.com/swyx/status/1482127056884609026
 - https://christine.website/talks/webassembly-on-the-server-system-calls-2019-05-31
 - [How WebAssembly Gets Used: The 18 Most Exciting Startups Building with Wasm](https://twitter.com/reneeshah123/status/1516460598183170055)
+- [WASM web frontend frameworks can't be faster than vanilla JS frontend frameworks](https://twitter.com/zack_overflow/status/1552331486761607168)
