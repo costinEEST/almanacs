@@ -27,6 +27,7 @@
 - [Is it possible to somehow send request from Repeater to Target tab?](https://twitter.com/SecurityMB/status/1529793127858462722)
 - [Recursive passive detection of vulnerable paths](https://github.com/F6JO/RouteVulScan)
 - [Improve automated and semi-automated active scanning](https://github.com/pentagridsec/PentagridScanController) + https://youtu.be/aFMTzFfX1Z4
+- [Burp Extension for Broken Access Control](https://twitter.com/e11i0t_4lders0n/status/1514451652660498433)
 
 ### Cinema
 
@@ -46,3 +47,4 @@
 - https://www.pentagrid.ch/en/blog/teaching_burp_a_new_http_transport_encoding
 - [Which tools would you consider competitors to Burp and ZAP?](https://twitter.com/floyd_ch/status/1517529448899391493)
 - https://parsiya.net/blog/2019-10-13-quality-of-life-tips-and-tricks-burp-suite
+- https://www.pethuraj.com/blog/use-burpsuite-like-a-pro-part-1

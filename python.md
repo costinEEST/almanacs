@@ -115,6 +115,7 @@
 - https://nelsonslog.wordpress.com/2021/10/01/syncthing-status-from-the-command-line
 - [Build & deploy geospatial applications quick and easy](https://github.com/greppo-io/greppo)
 - https://mathspp.com/blog/how-to-create-a-python-package-in-2022
+- https://eugeneyan.com/writing/uncommon-python
 
 ### Networking
 
@@ -218,6 +219,7 @@
 - [Crypto Mistakes ON demand](https://github.com/kojenov/cmon)
 - https://github.com/redpointsec/vtm + https://www.youtube.com/watch?v=f6UOBCJ9pjw&list=PLObjwXTc0xGOfWgHpWFkxukMDbpuDRo58&index=8
 - [Collection of Packer and Vagrant scripts that allow you to quickly bring a Windows Active Directory online, complete with a collection of endpoint security tooling and logging best practices](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) + https://twitter.com/Centurion/status/940267549840642051
+- https://www.blackhat.com/us-21/briefings/schedule/#do-you-speak-my-language-make-static-analysis-engines-understand-each-other-22797
 
 ### Server
 

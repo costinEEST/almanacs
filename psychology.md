@@ -19,6 +19,7 @@
 ### Community
 
 - https://en.wikipedia.org/wiki/Jean_Piaget
+- https://www.zerosuicidealliance.com/training
 
 ### Hypnosis
 

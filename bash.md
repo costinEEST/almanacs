@@ -11,6 +11,7 @@
 - https://github.com/learnbyexample/learn_gnugrep_ripgrep
 - https://github.com/vossenjp/bashidioms-examples
 - https://github.com/onceupon/Bash-Oneliner
+- https://licenciaparahackear.github.io/en/posts/filtrando-mis-contactos-del-celular-con-awk
 
 ### Cinema
 

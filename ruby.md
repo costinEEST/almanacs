@@ -289,6 +289,7 @@
 - [Discover the best way to get started contributing to Open Source projects](https://github.com/codetriage/codetriage)
 - https://github.com/CollabCodeTech/backend-challenges
 - https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps
+- [Commandline static URL shortner](https://gitlab.com/cliz/code)
 
 ### Internals
 
@@ -456,6 +457,7 @@
 - https://snyk.io/blog/malicious-remote-code-execution-backdoor-discovered-in-the-popular-bootstrap-sass-ruby-gem
 - https://bogdanvlviv.com/posts/ruby/rails/samesite-cookies-and-rails.html
 - https://github.com/0xedward/awesome-rails-security
+- https://bishopfox.com/blog/ruby-vulnerabilities-exploits
 
 ### Scrapping
 

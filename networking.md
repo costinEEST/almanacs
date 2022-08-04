@@ -130,6 +130,7 @@
 - https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade + https://twitter.com/zekjur/status/1517872128602914816
 - [How amazing is it that GPS actually works?](https://twitter.com/martinkl/status/1524684941216395264)
 - https://xakcop.com/post/how-many-people
+- https://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html
 
 
 ### 3G
@@ -376,3 +377,4 @@
 - https://cseweb.ucsd.edu//~varghese/networkdesignautomationvision.pdf + [Did we learn anything from the Facebook outage?](https://twitter.com/_drbruced/status/1452747573127618562)
 - https://github.com/n0x08/ConferenceTalks/blob/master/BecomeLoadbalancer_TR22.pdf
 - https://github.com/Attacks-on-Tor/Attacks-on-Tor
+- [OSI 7 Layer Reference Model cited around 1978](https://twitter.com/ErrataRob/status/1552076234707935232)
