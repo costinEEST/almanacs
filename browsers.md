@@ -363,6 +363,10 @@ javascript: (() =>
 - https://jeffy.info/2019/07/22/exposing-cors-headers.html
 - https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46
 
+### Cross-Origin-Opener-Policy (COOP)
+
+- [COOP and COEP explained](https://docs.google.com/document/d/1zDlfvfTJ_9e8Jdc8ehuV4zMEu9ySMCiTGMS9y0GU92k)
+
 ### Same Origin Policy (SOP)
 
 - https://parsiya.net/blog/2020-11-01-the-same-origin-policy-gone-wild

@@ -1,5 +1,6 @@
 ### Authentication
 
+- [Authentication and Authorization on the Web | Nigel Chapman](https://github.com/macavon/Web-Security-Topics-Example-Code)
 - [Authenticating your single page apps using JSON Web Tokens](https://www.mydevsecops.io/post/knock-knock-who-s-there-authenticating-your-single-page-apps-using-json-web-tokens)
 - [The parts of JWT security nobody talks about](https://pragmaticwebsecurity.com/talks/jwtsecurity.html)
 - [Introduction to OAuth 2.0 and OpenID Connect](https://pragmaticwebsecurity.com/talks/introductionoauth.html)

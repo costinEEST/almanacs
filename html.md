@@ -173,6 +173,7 @@
 - [Converts Kindle E-Books to HTML files](https://github.com/d10r/kindle-fetch)
 - https://github.com/mame/world-flag-search
 - [Convert Word documents (.docx files) to HTML](https://github.com/mwilliamson/mammoth.js)
+- [Live HTML Editor](https://htmledit.squarefree.com)
 
 ### Cinema
 

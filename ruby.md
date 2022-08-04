@@ -25,6 +25,7 @@
 - https://github.com/koss-lebedev/paysimple-ruby
 - [Look up doctors and other healthcare providers in the U.S](https://github.com/fpsvogel/doctorlookup)
 - https://twitter.com/siaw23/status/1544691284648116226 + [Scrapes Ruby and Rails events from sites as JSON](https://github.com/siaw23/ruby_events_api)
+- [Ruby way to use the Pwned Passwords API](https://github.com/philnash/pwned)
 
 
 ### Algorithm
@@ -132,10 +133,10 @@
 ### Course
 
 - https://www.udemy.com/course/ruby-on-rails-api-the-complete-guide
-- https://www.schneems.com/ut-rails
 - https://www.theodinproject.com/paths/full-stack-ruby-on-rails
 - https://store.afomera.dev/view/courses/learn-hotwire
 - [Full Stack Ruby on Rails Development Bootcamp | APPSIMPACT Academy](https://www.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPPu)
+- [Rails course for University of Texas Students](https://schneems.com/ut-rails)
 
 ### Community
 
@@ -267,6 +268,7 @@
 - https://github.com/steventen/sql_tracker
 - [Take your source code and convert them into a beautifully formatted PDF](https://github.com/benjamintanweihao/code_rippa)
 - https://github.com/hothero/awesome-rails-gem
+- https://github.com/piotrmurach/awesome-ruby-cli-apps
 
 ### Inspire
 
@@ -435,6 +437,7 @@
 - https://connorshea.gitlab.io/blog/how-i-write-and-maintain-type-sigs-in-my-rails-app-with-sorbet.html
 - https://schwad.github.io/ruby/rails/rspec/tdd/2017/04/10/leveling-up-tdd-with-e.html
 - [Consider linting your factories](https://twitter.com/siaw23/status/1554128777382400002)
+- https://github.com/wolframarnold/Efficient-Test-Driven-Rails-Development + https://www.youtube.com/watch?v=9cNcnFxyixs
 
 ### Radio
 
@@ -446,9 +449,7 @@
 
 - https://github.com/ankane/production_rails
 - https://twitter.com/snyff/status/1477809743431303168
-- https://github.com/httpvoid/writeups
-- https://httpvoid.com/Ruby-Deserialization-Gadget-On-Rails.md
-- https://httpvoid.com/Ruby-tempfile-mktmpdir-PT.md
+- https://github.com/httpvoid/writeups/blob/main/Ruby-deserialization-gadget-on-rails.md + https://youtu.be/-JvOSeaKjBc?t=1300
 - https://robertheaton.com/2013/07/22/how-to-hack-a-rails-app-using-its-secret-token
 - https://greg.molnar.io/blog/rubygems-cve-2022-29176
 - https://presidentbeef.com/ns/talks

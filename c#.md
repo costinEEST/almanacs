@@ -10,6 +10,7 @@
 - https://nuculabs.dev/2021/11/24/github-copilot-with-blazor
 - https://github.com/dotnet-presentations/dotnet-maui-workshop
 - https://patricia.no/learning_csharp.html
+- [Tool Dev For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d)
 
 ### Community
 

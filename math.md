@@ -101,6 +101,7 @@
 - [Roger Penrose explains Godel's incompleteness theorem in 3 minutes](https://twitter.com/curiouswavefn/status/1405017632659570691)
 - [Mathematical Association of America](https://www.youtube.com/user/MAAvideo/playlists)
 - [What are some of your favorite recorded math lecturers or talks?](https://twitter.com/JulietteBruce12/status/1538513290178965504)
+- [Math For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
 
 ### Mathematicians
 
