@@ -21,6 +21,7 @@
 - https://www.submarinecablemap.com + https://github.com/telegeography/www.submarinecablemap.com
 - https://alexwlchan.net/2020/01/uk-stations-map
 - Show travel distance by train in Europe within 5 hours: https://twitter.com/TRADECRAFT14/status/1553614003036995584, https://twitter.com/_benjamintd/status/1552983329116504064
+- https://tjukanovt.github.io/notable-people + https://twitter.com/tjukanov/status/1552622792708874240
 
 ### Cinema
 

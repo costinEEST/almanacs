@@ -18,6 +18,7 @@
 
 ### Community
 
+- https://alamot.github.io/moocing
 - [Piotr Wozniak](https://www.wired.com/2008/04/ff-wozniak)
 
 ### Method

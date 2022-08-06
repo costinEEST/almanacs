@@ -195,6 +195,7 @@
 - https://dannybate.com/2021/01/18/from-english-to-greek-in-two-rules + https://twitter.com/DannyBate4/status/1352341590673649665
 - https://includejs.dev/notes/learning-greek-01
 - https://twitter.com/Alex_Sideridou/status/1513460385378185224 + https://www.facebook.com/cinqmotsgrecs
+- https://alamot.github.io/categories/languages
 
 ### Hungarian
 

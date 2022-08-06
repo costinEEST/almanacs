@@ -8,6 +8,10 @@
 
 - https://www.udemy.com/course/dog-obedience-training
 
+### Community 
+
+- [Dean R. Lomax, paleontologist](https://www.deanrlomax.co.uk/Autobiography.html)
+
 ### Bird
 
 - https://www.amazon.co.uk/Birds-Britannica-Mark-Cocker/dp/0701169079

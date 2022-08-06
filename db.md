@@ -165,6 +165,7 @@
 - https://twitter.com/tlhunter/status/1459624433488850945
 - https://github.com/sujeet-agrahari/awesome-database-design
 - [Against unnecessary databases](https://beepb00p.xyz/unnecessary-db.html)
+- https://medium.com/@tjukanov/finding-the-most-innovative-square-kilometer-in-europe-with-spatial-sql-46b0fc4bde62
 
 ### Production
 

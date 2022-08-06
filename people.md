@@ -69,6 +69,10 @@
 - https://www.slideshare.net/ericschmidt/trillion-dollar-coach-book-bill-campbell
 - https://www.trilliondollarcoach.com
 
+### Brian Greene (theoretical physicist, mathematician, and string theorist)
+
+- https://reasonandmeaning.com/2021/01/04/brian-greenes-until-the-end-of-time
+
 ### Bhagwan Shree Rajneesh
 
 - https://www.speakbindas.com/books-i-have-loved-a-list
