@@ -89,6 +89,7 @@
 - https://arstechnica.com/video/watch/war-stories-myst
 - [Tennis for Two](https://www.aps.org/publications/apsnews/200810/physicshistory.cfm)
 - https://github.com/bobeff/open-source-games
+- https://github.com/stared/science-based-games-list
 
 ### Opinions
 

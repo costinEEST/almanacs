@@ -129,6 +129,7 @@
 ### Microprocessor
 
 - [The first exascale supercomputer in the Top500](https://www.top500.org/lists/top500/2022/06)
+- [My business card runs Linux, yours can too](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
 
 ### Miscellaneous
 

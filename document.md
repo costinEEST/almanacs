@@ -23,6 +23,7 @@
 - https://github.com/pussycat0x/malicious-pdf
 - https://github.com/vslavik/diff-pdf
 - https://nds.rub.de/research/publications/processing-dangerous-paths-security-and-privacy-po/index.html
+- [Silly proof-of-concept for a PDF chatroom](https://github.com/ranok/pdfchat)
 
 ### .yaml
 

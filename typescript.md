@@ -52,7 +52,7 @@
 - [Understanding TypeScript's Structural Type System](https://spin.atomicobject.com/2018/09/28/typescript-strange-loop-2018)
 - https://github.com/michalczukm/typescript-who-even-need-template-literal-types-presentation
 
-### Opinions
+### Opinion
 
 - [I really wish TypeScript had better inference.](https://twitter.com/devongovett/status/1219663924989050881)
 - [TypeScript vs. PureScript vs. ReasonML vs. Elm](https://hasura.io/blog/why-we-chose-typescript-for-hasura-console)
@@ -61,6 +61,7 @@
 - [Generics or Type Assertion?](https://twitter.com/wesbos/status/1369673186720309249)
 - [If you're having a type inference issue with a 3rd party library, don't try to force it by shoving types into generics](https://twitter.com/BenLesh/status/1025156281936408576)
 - [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
+- https://p.migdal.pl/2020/03/02/types-tests-typescript.html
 
 ### Patterns
 

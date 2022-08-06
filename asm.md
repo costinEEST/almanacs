@@ -62,6 +62,7 @@
 
 - https://blog.randallhyde.com/index.php/2021/01/17/cisc-vs-risc-the-definition
 - [A mind map for beginners overview regarding RISC-V Architecture](https://github.com/xelemental/Mind-Maps/tree/main/RISC-V) + https://twitter.com/ElementalX2/status/1383099988230606857
+- [Stack Use After Return in C, Go, and Rust](https://danielmangum.com/posts/risc-v-bytes-stack-use-after-return)
 
 ### Tutorials
 
