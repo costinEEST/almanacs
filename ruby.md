@@ -292,6 +292,7 @@
 - https://github.com/CollabCodeTech/backend-challenges
 - https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps
 - [Commandline static URL shortner](https://gitlab.com/cliz/code)
+- https://github.com/smirnov-am/awesome-saas-boilerplates
 
 ### Internals
 

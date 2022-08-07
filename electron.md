@@ -18,6 +18,7 @@
 - [Free, open-source SQL client for Windows and Mac](https://github.com/plotly/falcon)
 - [Performance monitoring tools](https://twitter.com/Vikram_Tiwari/status/1553098304635883520)
 - [Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more](https://github.com/beekeeper-studio/beekeeper-studio)
+- [Make any web page a desktop application](https://github.com/nativefier/nativefier)
 
 ### Demos
 

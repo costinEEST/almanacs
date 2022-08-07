@@ -16,6 +16,7 @@
 
 - [KNOXSS API](https://github.com/xnl-h4ck3r/knoxnl)
 - https://alexwlchan.net/2019/04/reversing-a-tco-url-to-the-original-tweet
+- [Instagram Private API](https://github.com/adw0rd/instagrapi)
 
 ### Book
 

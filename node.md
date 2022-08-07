@@ -28,6 +28,7 @@
 - https://github.com/wolfejw86/get-racket-twitterbot + https://www.youtube.com/playlist?list=PLU_22oKqONimKqe-2LmsEG5MvaZcRL101
 - [Passwordless and 2FA auth without a database](https://github.com/sffc/easy-no-password)
 - https://github.com/cybrilla/fp-snippets/tree/master/authentication
+- https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site
 
 ### API
 
@@ -144,6 +145,7 @@
 - https://github.com/sujeet-agrahari/node-express-clean-architecture
 - https://github.com/kentcdodds/express-app-example
 - [A Strapi V4 plugin from scratch to production](https://github.com/ExFabrica/strapi-stories)
+- https://remelehane.dev/posts/diy-node-cache-for-docker-ci
 
 ### Cinema
 
@@ -453,6 +455,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/kennymkchan/nba-topshot-scraper
 - https://blog.vjeux.com/2021/javascript/trackmania-medal-distribution.html
 - [Extract main article from given URL](https://github.com/ndaidong/article-parser)
+- https://dev.to/serpapi/web-scraping-google-maps-reviews-with-nodejs-328g
 
 ### Micro service
 

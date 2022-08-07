@@ -78,6 +78,7 @@
 - [A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets](https://github.com/majodev/google-webfonts-helper)
 - [What I learned about fonts on Linux](https://blog.ngzhian.com/what-i-learned-about-fonts.html)
 - [A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range](https://github.com/9elements/min-max-calculator)
+- [How to subset a variable font](https://clagnut.com/blog/2418)
 
 
 ### Miscellaneous

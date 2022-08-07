@@ -85,6 +85,7 @@
 - [An open source crowdfunding tool built on Shopify](https://github.com/cmod/craigstarter)
 - https://github.com/mendel5/alternative-front-ends
 - https://setproduct.com/blog/badge-ui-design
+- https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs
 
 
 ### User experience
