@@ -30,6 +30,7 @@
 - [Passwordless and 2FA auth without a database](https://github.com/sffc/easy-no-password)
 - https://github.com/cybrilla/fp-snippets/tree/master/authentication
 - https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site
+- https://github.com/mikesherov/web-security-essentials
 
 ### API
 
@@ -190,6 +191,7 @@
 - https://github.com/simonplend/workshop-node-validation-essentials
 - https://github.com/redislabs-training/node-js-crash-course
 - [A step by step guide to implement a GraphQL server with Fastify and Mercurius](https://github.com/nearform/the-graphql-workshop)
+- https://github.com/CodeYourFuture/syllabus
 
 ### Command line
 
@@ -434,7 +436,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/jessekrubin/fastify-shitty
 - https://simonplend.com/talk-at-js-monthly-london-make-the-most-of-modern-javascript-with-fastify
 - https://github.com/nearform/the-fastify-workshop
-- https://github.com/delvedor/fastify-example
+- https://github.com/PacktPublishing/Accelerate-Web-Development-with-Fastify
+- https://github.com/delvedor/fastify-example + https://twitter.com/delvedor/status/1358103527889993731
 - https://futurestud.io/learningpaths/learn-hapi
 - https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc
 - https://www.freecodecamp.org/news/free-8-hour-node-express-course
@@ -557,7 +560,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Source code for mxb.dev, built with Eleventy.](https://github.com/maxboeck/mxb)
 - https://jaywolfe.dev/blog/how-i-quickly-create-static-website-hosting-using-only-an-aws-s3-bucket
 - https://github.com/leandrotk/publisher + https://www.freecodecamp.org/news/automating-my-blog-posts-publishing-process-with-typescript
-- [‎Personal website running on Gatsby, React, and Node](https://github.com/taniarascia/taniarascia.com)
+- [Personal website running on Gatsby, React, and Node](https://github.com/taniarascia/taniarascia.com)
 - https://github.com/colinhemphill/nextjs-resume
 - https://www.hawksworx.com/blog/eleventail-a-helper-for-tailwindcss-and-eleventy
 - https://github.com/jakearchibald/jakearchibald.com + https://twitter.com/jaffathecake/status/1263371682313654273
@@ -569,6 +572,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [designcember.com built with Astro](https://github.com/GoogleChromeLabs/designcember)
 - [Eleventy crash course | Jaydan Urwin](https://www.youtube.com/playlist?list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW)
 - [Converts an express EJS app into a static HTML website](https://github.com/THHamiltonSmith/ejs-static-converter)
+- [Designing Web APIs with Strapi](https://github.com/PacktPublishing/Building-APIs-with-Strapi) + https://twitter.com/abolkog/status/1506467369048502280
 
 
 ### Serverless

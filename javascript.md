@@ -90,6 +90,7 @@
 - https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
 - [Proxies are the closest thing JavaScript has to a Macro.](https://twitter.com/rauchg/status/1388231666771001346) + https://github.com/justjavac/proxy-www + https://vimeo.com/364362111 + https://gist.github.com/davidsharp/9184a2e501f5e6704717031bb4951312
 - https://www.better.dev/understanding-memoization-in-javascript
+- https://github.com/rarmatei/egghead-thinking-reactively
 
 ### TIL
 
@@ -603,6 +604,7 @@
 - https://github.com/eps1lon/dom-accessibility-api
 - https://github.com/mantoni/eslint_d.js
 - [Bun and Deno - the new JS Runtimes](https://twitter.com/jarredsumner/status/1548072064501747712)
+- https://github.com/rarmatei/now.sh-deploy-monorepos
 
 
 ### Documentation

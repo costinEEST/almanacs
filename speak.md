@@ -114,6 +114,7 @@
 - [LearnArabicwithMaha](https://www.youtube.com/playlist?list=PLDE670F8915C5902A)
 - https://www.amazon.com/Handbook-Language-Teaching-Professionals-Century-ebook-dp-B00KQOAC8A/dp/B00KQOAC8A
 - [Late Antiquity](https://twitter.com/shahanSean/status/1553224584291225600)
+- [Learn coding in Amharic, Arabic, Swahili](https://barmaga.io)
 
 ### Danish
 
