@@ -121,6 +121,7 @@
 - [Google Drive CLI Client](https://github.com/prasmussen/gdrive)
 - https://nelsonslog.wordpress.com/2022/06/28/google-caches-what-is-my-ip + https://github.com/rdegges/ipify-api
 - [High-precision indoor positioning framework for most wifi-enabled devices](https://github.com/schollz/find)
+- [Personal information dashboard for your terminal](https://github.com/wtfutil/wtf)
 
 ### Radio
 
@@ -170,3 +171,8 @@
 - https://github.com/trailofbits/not-going-anywhere
 - https://github.com/lojikil/kyoto-go-nihilism
 - https://posts.specterops.io/malware-development-pt-1-dynamic-module-loading-in-go-1121f07f3a5a
+
+### Static website 
+
+- https://github.com/dstotijn/golang-nextjs-portable
+- [A static site generator for capturing quick notes](https://github.com/senorprogrammer/til)
