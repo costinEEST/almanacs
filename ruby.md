@@ -12,6 +12,7 @@
 - https://www.driftingruby.com/episodes/label-maker-with-ruby
 - https://codingitwrong.com/railsapis
 - https://dev.to/q9/finally-authenticating-rails-users-with-metamask-3fj
+- https://github.com/mehan/yeezy-myself-and-i
 - [Telegram Bot wrapper for the RubyGems.org API](https://github.com/davidesantangelo/gemsbot)
 - [Turns feed data into an awesome API](https://github.com/davidesantangelo/dato.rss)
 - [A basic cURL wrapper around RubyGems.org API](https://github.com/davidesantangelo/curl-gems)
@@ -70,6 +71,7 @@
 - https://programming-idioms.org/cheatsheet/Ruby/PHP
 - https://programming-idioms.org/cheatsheet/Ruby/Kotlin
 - https://programming-idioms.org/cheatsheet/Ruby/Java
+- https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby
 - https://learnxinyminutes.com/docs/ruby
 - https://blog.appsignal.com/2021/12/15/whats-new-in-rails7.html
 - https://rubyreferences.github.io/rubyref
@@ -293,6 +295,7 @@
 - https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps
 - [Commandline static URL shortner](https://gitlab.com/cliz/code)
 - https://github.com/smirnov-am/awesome-saas-boilerplates
+- https://github.com/mehan/hip-hop-misogyny-stats
 
 ### Internals
 
@@ -356,6 +359,7 @@
 - https://github.com/troessner/reek/tree/master/docs
 - https://github.com/jordansissel/software-patterns
 - https://github.com/hexdevs/ruby-best-practices-list
+- https://github.com/JuanitoFatas/Ruby-Functional-Programming/blob/master/README-EN.md
 
 ### Practice
 
@@ -403,6 +407,7 @@
 - https://github.com/arkency/heroku-buildpack-ruby-monorepo
 - https://hanamimastery.com/episodes/23-rubocop-most-frustrating-to-most-loved
 - [Download file from Yandex.Disk through share link](https://github.com/Yegorov/yadisk)
+- https://ucarion.com/ruby-rbs-codegen
 
 ### Testing
 

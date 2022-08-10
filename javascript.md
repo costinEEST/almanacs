@@ -320,6 +320,7 @@
 - https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch
 - https://philbooth.me/blog/back-off-and-retry-using-javascript-arrays-and-promises
 - [new Promise(() => {})](https://twitter.com/antonmedv/status/1534988570955595781)
+- https://github.com/nearform/promises-workshop
 
 ### async await
 
@@ -332,14 +333,17 @@
 
 ### JSON.parse()
 
+- https://www.google.com/search?q=json+parse+prototype+pollution
 - [JSON.parse w/o blocking main thread.](https://gist.github.com/jkrems/71df0bce1b95101b1417f909ce473075)
 - https://speakerdeck.com/wa7son/nodejsday-2020-javascript-prototypes-behind-the-scenes?slide=41
+- [JSON API as you know will change soon](https://twitter.com/erickwendel_/status/1556633967448756226)
 
 ### class
 
 - [When are public instance fields executed?]https://twitter.com/rauschma/status/1205417503108878336
 - https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078
 - https://www.mgaudet.ca/technical/2021/5/4/implementing-private-fields-for-javascript
+- https://piranna.github.io/2021/07/08/Abstract-classes-in-Javascript
 
 ### OOP
 

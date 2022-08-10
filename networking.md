@@ -323,6 +323,10 @@
 - https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io
 - https://mmmds.pl/Damn-Vulnerable-Web-Sockets-walkthrough
 
+### Server-Sent Events (SSE)
+
+- https://simonprickett.dev/a-look-at-server-sent-events
+
 ### P2P
 
 - https://github.com/kgryte/awesome-peer-to-peer

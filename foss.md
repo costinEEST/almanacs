@@ -10,11 +10,13 @@
 - [How to Contribute to Open Source (Next.js)](https://twitter.com/leeerob/status/1482519857195274242)
 - [Corporate Open Source Anti-patterns](https://youtu.be/Pm8P4oCIY3g)
 - [Empowering science with open-source software by Santiago Soler](https://github.com/santisoler/iag-usp-2022)
+- https://www.poberezkin.com/posts/2019-07-10-talk-why-you-should-open-source-for-real.html
 
 ### Community 
 
 - [Coraline Ada Ehmke](https://where.coraline.codes/media)
 - https://github.com/RunaCapital/awesome-oss-alternatives
+- https://github.com/ossf/wg-best-practices-os-developers
 
 ### Tool
 

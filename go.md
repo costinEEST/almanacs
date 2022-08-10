@@ -77,6 +77,7 @@
 - https://felixge.de/2021/12/01/advent-of-go-profiling-2021-day-1-1
 - https://github.com/VividCortex/go-database-sql-tutorial
 - https://www.allhandsontech.com/programming/golang/web-app-sqlite-go
+- https://ucarion.com/go-base62
 
 ### Testing
 
@@ -126,7 +127,7 @@
 - [Go on hardware: TinyGo in the wild](https://twitter.com/GoTimeFM/status/1443592475990388738)
 - https://anchor.fm/hacker-talk/episodes/Golang-Malware-with-Ben-Kurtz-Part-1-e1fqg5b
 
-### References
+### Cheat sheet 
 
 - [Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place.](https://github.com/hoanhan101/ultimate-go)
 - [The ecosystem of the Go programming language](https://henvic.dev/posts/go)

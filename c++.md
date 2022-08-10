@@ -65,6 +65,7 @@
 
 - https://github.com/ssloy/tinyrenderer/wiki
 - https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html
+- [Handwriting notetaking software with PDF annotation support](https://github.com/xournalpp/xournalpp)
 
 ### Interpreter
 

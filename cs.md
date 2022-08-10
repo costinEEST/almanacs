@@ -71,6 +71,14 @@
 - https://www.codeflashbacks.com/overlooked-books
 - [Competitive Programmer’s Handbook | Antti Laaksonen](https://cses.fi/book/book.pdf)
 
+### Date and Time on the Internet: Timestamps
+
+- https://ucarion.com/rfc3339-in-any-language
+- https://github.com/kdeldycke/awesome-falsehood#dates-and-time
+- https://blog.scottlogic.com/2021/09/14/120-years-timezone.html
+- [The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head)](http://rudy.ca/doomsday.html)
+- https://nelsonslog.wordpress.com/2021/09/25/time-zones-that-are-utc
+
 ### TIL
 
 - [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
@@ -95,7 +103,6 @@
 - https://github.com/donnemartin/system-design-primer
 - [main thread IO](https://mikeconley.ca/blog/2019/05/16/a-few-words-on-main-thread-disk-access-for-general-audiences)
 - https://increment.com/software-architecture/primer-on-functional-architecture
-- https://nelsonslog.wordpress.com/2021/09/25/time-zones-that-are-utc
 - https://katafrakt.me/2016/07/06/regular-expressions
 - [Captcha](https://csrc.nist.gov/glossary/term/completely_automated_public_turing_test_to_tell_computers_and_humans_apart)
 
@@ -148,6 +155,7 @@
 - https://www.robjwells.com/books/2019/a-history-of-modern-computing
 - https://www.robjwells.com/books/2019/turings-cathedral
 - [The Computers: The Remarkable Story of the ENIAC Programmers](https://vimeo.com/ondemand/eniac6) + https://www.amazon.com/Proving-Ground-Untold-Programmed-Computer-ebook/dp/B096RT99B8
+- https://github.com/facundoolano/software-papers
 
 ### Miscellaneous
 
@@ -155,10 +163,7 @@
 - https://swizec.com/blog/a-holiday-compsci-reading-list-for-you-%f0%9f%8e%85/swizec/9265
 - https://github.com/kdeldycke/awesome-falsehood#meta
 - https://github.com/kdeldycke/awesome-falsehood#emails
-- https://github.com/kdeldycke/awesome-falsehood#dates-and-time
-- https://blog.scottlogic.com/2021/09/14/120-years-timezone.html
 - [You advocate a **\_\_\_\_** approach to calendar reform @ Things Of Interest](https://qntm.org/calendar)
-- [The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head)](http://rudy.ca/doomsday.html)
 - [The year 1900 was _not_ a leap year](https://twitter.com/philwalton/status/1214268809122418688)
 - https://github.com/kdeldycke/awesome-falsehood#software-engineering
 - https://github.com/gruhn/awesome-naming

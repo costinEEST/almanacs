@@ -160,6 +160,7 @@
 
 ### Pattern
 
+- https://github.com/nearform/react-patterns-workshop
 - [Reusable Code In React: Inheritance, Composition, Decorators and Mixins.](https://benmccormick.org/2019/02/11/reusable-react)
 - [What are some React anti-patterns that you encounter often? Why are they dangerous?](https://twitter.com/TejasKumar_/status/1214259916376027137)
 - [Component Base Role](https://gist.github.com/sibelius/593953c5f0ca8269668ded4c64f854be)
@@ -309,6 +310,7 @@
 - https://www.adamcollier.co.uk/blog/moving-from-next-to-remix
 - https://andre-landgraf.dev/blog/2022-07-16_why_remix_is_not_a_react_framework_but_a_full_stack_web_framework
 - [how many of you are building fullstack apps with your backend all in the remix app?](https://twitter.com/flybayer/status/1554123681860882434)
+- https://twitter.com/crc/status/1519336745808056322
 
 ### Package
 

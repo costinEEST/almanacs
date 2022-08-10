@@ -68,7 +68,7 @@
 - https://www.haaretz.com/israel-news/tech-news/.premium-israeli-spy-tech-firm-says-it-can-break-into-signal-app-previously-considered-safe-1.9368581 + http://web.archive.org/web/20201210150311/https://www.cellebrite.com/en/blog/cellebrites-new-solution-for-decrypting-the-signal-app + https://cf-media.cellebrite.com/wp-content/uploads/2020/09/ProductOverview_Cellebrite_Physical_Analyzer_A4_web.pdf
 - [GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs](https://github.com/SadeghHayeri/GreenTunnel)
 - https://twitter.com/mikispag/status/1255164681121136642
-- [A collection of interesting new networks and tech aiming at decentralisation (in some form).](https://github.com/redecentralize/alternative-internet)
+- [A collection of interesting new networks and tech aiming at decentralisation](https://github.com/redecentralize/alternative-internet)
 - https://github.com/vlvagerviwager/protect-your-privacy
 - https://github.com/veeral-patel/how-to-secure-anything
 - https://github.com/nikitavoloboev/privacy-respecting
@@ -84,6 +84,8 @@
 - [Vytal shows you what traces your browser leaves behind while surfing the web](https://github.com/z0ccc/Vytal)
 - https://medium.com/@jeffgould/the-natural-history-of-gmail-data-mining-be115d196b10
 - https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it
+- [Telegram is by default a cloud database w/ a plaintext copy of every msg everyone has ever sent/recvd](https://twitter.com/moxie/status/1497001286444617746)
+- https://github.com/dessalines/essays/blob/master/why_not_signal.md#simplex
 
 
 ### Techniques

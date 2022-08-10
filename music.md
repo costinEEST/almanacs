@@ -117,6 +117,7 @@
 - https://theboot.com/hank-williams-songs
 - https://theatticmag.com/features/2326/the-complex-case-of-romanian-folklore-in-pasolini's-oedipus-rex.html
 - https://bigthink.com/neuropsych/frisson-song-playlist
+- https://mehan.substack.com/p/deafheaven
 
 ### Jazz
 

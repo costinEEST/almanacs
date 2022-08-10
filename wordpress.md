@@ -1,6 +1,5 @@
 ### Alternative
 
-- [NextJS + Strapi Crash Course](https://www.youtube.com/playlist?list=PL5G1JGPXq1sQdQGUE8zWVOZk4OrvMxsrJ) + https://twitter.com/itsakeller/status/1372583258794377220
 - [Favorite (Headless) CMS and why?](https://twitter.com/jamesqquick/status/1374751439084519429)
 
 ### Boilerplate

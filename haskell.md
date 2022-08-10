@@ -51,7 +51,8 @@
 - https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones
 
 
-### Opinions
+### Opinion
 
 - https://github.com/cyberglot/awesome-answers#haskell
 - https://github.com/soupi/haskell-study-plan
+- https://www.poberezkin.com/posts/2021-04-21-what-i-wish-somebody-told-me-when-i-was-learning-Haskell.html

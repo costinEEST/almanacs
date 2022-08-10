@@ -36,7 +36,7 @@
 
 - https://beepb00p.xyz/scheduler.html
 
-### Containers
+### Container
 
 - https://iximiuz.com/en/posts/learn-by-doing-platforms + https://twitter.com/b0rk/status/1444814295188099077
 - [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)
@@ -51,6 +51,8 @@
 - https://iximiuz.com/en/posts/containers-vs-pods
 - https://iximiuz.com/en/posts/container-learning-path
 - https://seb.jambor.dev/posts/systemd-by-example-the-playground + https://systemd-by-example.com + https://github.com/sgrj/systemd-by-example + https://twitter.com/crepels/status/1485912574323478530
+- [Top-like interface for container metrics](https://github.com/bcicen/ctop)
+- https://ucarion.com/minecraft-with-systemd-backups
 
 ### Internals
 

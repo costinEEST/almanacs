@@ -197,6 +197,7 @@
 - [Fetch information about a public Google document](https://github.com/Malfrats/xeuledoc)
 - https://alexwlchan.net/2019/11/saving-a-copy-of-a-tweet-by-typing-twurl
 - https://github.com/mtayseer/infoq-downloader
+- https://github.com/VikParuchuri/apartment-finder
 
 ### Static website 
 

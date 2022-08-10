@@ -127,6 +127,7 @@
 - https://github.com/uraimo/run-on-arch-action
 - [Building GitHub Actions](https://actionsbook.com/toc)
 - https://github.com/peaceiris/actions-gh-pages
+- https://www.poberezkin.com/posts/2017-07-12-talk-auditing-development-guidelines-in-github-repositories.html
 
 ### Tool
 

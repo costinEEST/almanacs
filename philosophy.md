@@ -58,10 +58,15 @@
 ### Marxism
 
 - https://www.voxa.ro/ebooks/pe-umerii-lui-marx-o-introducere-in-istoria-comunismului-romanesc
+- https://github.com/dessalines/essays/blob/master/dessalines_marxism_study_plan.md
 
 ### Radio
 
 - https://blog.foolip.org/2015/10/09/more-podcast-recommendations
+
+### Socialism
+
+- https://github.com/dessalines/essays/blob/master/crash_course_socialism.md
 
 ### Reference
 

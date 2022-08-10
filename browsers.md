@@ -409,6 +409,8 @@ javascript: (() =>
 - https://github.com/adamavenir/talkto
 - https://github.com/diafygi/webrtc-ips
 - [A tool to test and exploit STUN, TURN and TURN over TCP servers](https://github.com/firefart/stunner) + https://firefart.at/post/multiple_vulnerabilities_cisco_expressway + https://www.rtcsec.com/article/slack-webrtc-turn-compromise-and-bug-bounty
+- https://piranna.github.io/2021/04/23/How-to-build-WebRTC-for-Android-in-Ubuntu-21.04
+- https://piranna.github.io/2020/12/30/Types-of-WebRTC-networks
 
 ### Canvas
 

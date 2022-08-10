@@ -12,7 +12,7 @@
 
 - [Video Killed My Data Plan](https://docs.google.com/presentation/d/1JPBSDqCpKK1nq9Wpo-NKmXNb1ZyCUKZhcfcdkXTRAA0)
 
-### References
+### Cheat sheet
 
 - [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
 - https://www.singhkays.com/blog/av1-wiki-resources-tools
@@ -66,6 +66,7 @@
 - [Send video from ffmpeg to your browser using pion](https://github.com/ashellunts/ffmpeg-to-webrtc)
 - [webpage that helps you write ffmpeg commands](https://github.com/EvanHahn/ffmpeg-buddy)
 
-### Opinions
+### Opinion
 
 - https://rudism.com/a-proposal-for-a-decentralized-youtube-alternative
+- [Before you upload your first course on udemy | Alireza Aliabadi](https://www.youtube.com/watch?v=nBpDXFz67pA)

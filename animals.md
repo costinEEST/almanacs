@@ -26,9 +26,12 @@
 
 - https://www.science.org/content/article/new-sense-discovered-dog-noses-ability-detect-heat
 
-### Fishes
+### Fish
 
 - https://www.facebook.com/Tot.C.Sorin
+- [APETROAEI, Maria - Creșterea peștilor in sistem intensiv, 2007](https://biblioteca-digitala.ro/?pub=3758-cresterea-pestilor-in-sistem-intensiv-muzeul-de-stiinte-naturale-piatra-neamt)
+- https://biblioteca-digitala.ro/?domeniu=109-ihtiologie
+- https://biblioteca-digitala.ro/?descriptor=1893-crap
 
 ### Insect
 

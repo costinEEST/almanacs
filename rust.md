@@ -149,6 +149,7 @@
 - https://ahal.ca/blog/2021/ls-replacement
 - https://www.mattkeeter.com/blog/2022-05-31-xmodem + https://twitter.com/impraxical/status/1524565537254219776
 - [A CLI tool to find the dominant colours in an image](https://github.com/alexwlchan/dominant_colours)
+- [Building a federated link aggregator](https://github.com/LemmyNet/lemmy)
 
 ### Opinion
 

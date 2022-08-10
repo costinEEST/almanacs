@@ -1,6 +1,7 @@
 ### Authentication
 
 - [Authentication and Authorization on the Web | Nigel Chapman](https://github.com/macavon/Web-Security-Topics-Example-Code)
+- https://github.com/JamesCollerton/Identity-and-Data-Security-for-Web-Development + https://github.com/iddatasecuritybook
 - [Authenticating your single page apps using JSON Web Tokens](https://www.mydevsecops.io/post/knock-knock-who-s-there-authenticating-your-single-page-apps-using-json-web-tokens)
 - [The parts of JWT security nobody talks about](https://pragmaticwebsecurity.com/talks/jwtsecurity.html)
 - [Introduction to OAuth 2.0 and OpenID Connect](https://pragmaticwebsecurity.com/talks/introductionoauth.html)
@@ -79,6 +80,7 @@
 - https://shalvah.teachable.com/p/api-documentation-for-developers
 - https://tnickel.de/2020/12/24/2020-12-How-I-replaced-google-analytics-on-my-website
 - https://blog.techfund.jp/p/using-rust-for-writing-nodejs-modules
+- https://github.com/nearform/slow-rest-api
 
 ### Book
 
@@ -146,6 +148,7 @@
 - https://github.com/kentcdodds/express-app-example
 - [A Strapi V4 plugin from scratch to production](https://github.com/ExFabrica/strapi-stories)
 - https://remelehane.dev/posts/diy-node-cache-for-docker-ci
+- [metrics and dev envirnoment with Prometheus and Grafana](https://github.com/ghermeto/openjs-world-2021)
 
 ### Cinema
 
@@ -166,7 +169,6 @@
 - [A Blog as Easy as Gist | AJ ONeal](https://www.youtube.com/playlist?list=PLxki0D-ilnqZcb8UIdivo70ttUGgC__LD)
 - [Role Based Access Control | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN2Tw-PL7dvwLQS6mx4Z5PH9)
 - [Production Ready Server Setup | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN38gy5xZ0PVEaDdZXlPkgP9)
-- [Strapi CMS | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN1UBftjI119riLcIUfVR7Ts)
 
 ### Course
 
@@ -186,6 +188,8 @@
 - https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs
 - https://github.com/simonplend/workshop-get-started-with-fastify + https://simonplend.com/workshop-recording-get-started-with-fastify
 - https://github.com/simonplend/workshop-node-validation-essentials
+- https://github.com/redislabs-training/node-js-crash-course
+- [A step by step guide to implement a GraphQL server with Fastify and Mercurius](https://github.com/nearform/the-graphql-workshop)
 
 ### Command line
 
@@ -206,6 +210,7 @@
 ### Community
 
 - https://github.com/nodejs/web-server-frameworks#web-server-frameworks-team-members
+- [Any companies besides red hat and maybe nearform still pay people to work on node?](https://twitter.com/cjihrig/status/1552014489180045313)
 
 ### Debugging
 
@@ -227,6 +232,14 @@
 - https://github.com/thlorenz/v8-perf
 - https://blog.appsignal.com/2021/12/08/nodejs-memory-limits-what-you-should-know.html
 - [Deeper testing of Bun's performance and compatibility against Node.js](https://techsparx.com/nodejs/bun/speed-test.html) + https://mobile.twitter.com/jarredsumner/status/1549790511422062592
+- https://github.com/nearform/clinic-workshop-exercises
+- https://github.com/RafaelGSS/nodejs-bench-operations
+- https://github.com/simone-sanfratello/node-bench-iteration
+
+### Error
+
+- https://github.com/tjmehta/error-to-json
+- [The fastest JSON schema Validator](https://github.com/ajv-validator/ajv)
 
 ### TIL
 
@@ -417,10 +430,13 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [A state-of-the-art user-space network driver written in idiomatic JavaScript.](https://github.com/ixy-languages/ixy.js)
 - https://github.com/justincampbell/url-shorteners
 - https://realtalkjavascript.simplecast.com/episodes/episode-96-expressway-to-fastify-with-matteo-collina
+- [LeonAI has migrated from Express.js to @fastifyjs](https://twitter.com/louistiti_fr/status/1374978615696183296)
+- https://github.com/jessekrubin/fastify-shitty
+- https://simonplend.com/talk-at-js-monthly-london-make-the-most-of-modern-javascript-with-fastify
+- https://github.com/nearform/the-fastify-workshop
+- https://github.com/delvedor/fastify-example
 - https://futurestud.io/learningpaths/learn-hapi
 - https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc
-- https://github.com/simonplend/talks/tree/main/make-the-most-of-modern-javascript-with-fastify
-- [LeonAI has migrated from Express.js to @fastifyjs](https://twitter.com/louistiti_fr/status/1374978615696183296)
 - https://www.freecodecamp.org/news/free-8-hour-node-express-course
 - https://www.freecodecamp.org/news/the-nginx-handbook
 - [Example on how to implement an HTTP/2 client and server in Node.js](https://github.com/sohamkamani/node-http2-example)
@@ -513,6 +529,11 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 - [Strapi + NextJS + FastAPI + Grafana: Containers that rock together](https://github.com/sampittko/tuke-beautofuel)
 - https://blog.dehlin.dev/strapi-v4-with-docker-and-heroku
+- [Strapi CMS | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN1UBftjI119riLcIUfVR7Ts)
+- [NextJS + Strapi Crash Course](https://www.youtube.com/playlist?list=PL5G1JGPXq1sQdQGUE8zWVOZk4OrvMxsrJ) + https://twitter.com/itsakeller/status/1372583258794377220
+- https://www.youtube.com/playlist?list=PLjhq46XB5LWtBDimrw54T72mqw5J79lb_ + https://github.com/GalloDaSballo/The-Complete-Strapi-Developer
+- https://youtu.be/e9hqEtRmcOw + [The Complete Strapi Course - with plugins and deployment](https://www.udemy.com/course/strapi-course/?referralCode=A45D300BA492E76B86F8) + https://www.youtube.com/playlist?list=PL6m79ej4a2RC8Df1PQLXiImK4YU7CTLTb + https://twitter.com/artcoded_net/status/1555247643135287297
+- [Strapi, Remix & Render Let's Build a Productivity Tips App](https://youtu.be/zPT_K4Q8_RA)
 
 
 ### Static site generator
@@ -574,7 +595,6 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Scripting Languages I: Node.js, Python, PHP, Ruby](https://hyperpolyglot.org/scripting)
 - https://quanticdev.com/articles/automating-my-youtube-uploads-using-nodejs
 - https://github.com/snipcart/node-js-ecommerce-koajs
-- https://simonplend.com/talk-at-js-monthly-london-make-the-most-of-modern-javascript-with-fastify
 - https://jg.gg/2020/09/30/choosing-your-tech-stack-2020-edition-2/
 - https://github.com/wolfejw86/architecture-learning-path
 - [Geographical forum app for groups and teams to share and discuss locations](https://github.com/axelpale/georap)
