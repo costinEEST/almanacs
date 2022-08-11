@@ -38,6 +38,7 @@
 - [FPGA computing systems: Background knowledge and introductor](https://www.youtube.com/playlist?list=PL2jykFOD1AWaFLEJm5H4GhRhPX_Ffi0wh)
 - [Open source low cost 3D printable nanopositioner | Edwin Hwu](https://www.youtube.com/playlist?list=PLu3g1bSKNvea5Te0lFSqtd8AIK4uVeLH7)
 - [From NAND To Tetris](https://www.youtube.com/playlist?list=PLu6SHDdOToSdD4-c9nZX2Qu3ZXnNFocOH)
+- [Basic Electronic Theory | Cyber City Circuits](https://www.youtube.com/playlist?list=PLD-QkTadkQVPEzlnE6uiG2iREgkCIB6oH)
 
 ### Community
 
@@ -100,6 +101,10 @@
 
 - https://www.youtube.com/playlist?list=PLKEd7Km7DjLcd4-fw4Y2h94VRo6NQwb2P
 
+### PCB 
+
+- [Keng Tiong Ng](https://visio-for-engineers.blogspot.com)
+
 ### Resistor
 
 - [Realizing a Non-Standard Resistance Value](https://twitter.com/TheJoeBamberg/status/1362129411928039425)
@@ -130,6 +135,7 @@
 
 - [The first exascale supercomputer in the Top500](https://www.top500.org/lists/top500/2022/06)
 - [My business card runs Linux, yours can too](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
+- [Building a CPU on an FPGA | Robert Baruch](https://www.youtube.com/playlist?list=PLEeZWGE3PwbZ44SUf1-vA-UuX9_J_pifB)
 
 ### Miscellaneous
 

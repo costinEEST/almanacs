@@ -195,10 +195,10 @@
 
 ### Debug
 
+- https://st0012.dev/from-byebug-to-ruby-debug + https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa
 - https://blog.heroku.com/tidying-ruby-object-allocations
 - [bundle open rails](https://twitter.com/getajobmike/status/1343273147869450240)
 - https://www.jakeworth.com/how-to-read-a-stack-trace
-- https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa
 - https://dev.to/sylwiavargas/talk-notes-implicit-to-explicit-decoding-ruby-s-magical-syntax-railsconf-2021-51ge
 - https://nopecode.com/2018/04/12/stop-using-active-record-first.html
 - https://ryanbigg.com/2013/06/finding-sql-queries-in-rails
@@ -470,6 +470,7 @@
 
 - [Ruby gem to inspect completely a web page. It scrapes a given URL, and returns you its meta, links, images](https://github.com/davidesantangelo/webinspector)
 - https://kevinjmurphy.com/posts/scraping-buy
+- https://github.com/marcgg/List-of-Country-Names-and-Associated-Locales
 
 ### Static generator
 

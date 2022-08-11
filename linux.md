@@ -134,9 +134,10 @@
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 - https://github.com/xairy/linux-kernel-exploitation
 
-### Opinions
+### Opinion
 
 - [How can a intermediate-beginner learn Unix/Linux and programming?](https://news.ycombinator.com/item?id=22649291)
 - [Why I Prefer systemd Timers Over Cron](https://trstringer.com/systemd-timer-vs-cronjob)
 - [Moving from MacBook to Linux](https://monadical.com/posts/moving-to-linux-desktop.html)
 - https://cri.dev/posts/2021-01-03-mac-linux
+- [Why #Linux users hate #Ubuntu Snaps](https://twitter.com/AaronToponce/status/1557748044287725570)

@@ -607,6 +607,7 @@
 - https://github.com/mantoni/eslint_d.js
 - [Bun and Deno - the new JS Runtimes](https://twitter.com/jarredsumner/status/1548072064501747712)
 - https://github.com/rarmatei/now.sh-deploy-monorepos
+- [A free solution to the EU, GDPR, and California Cookie Laws](https://github.com/osano/cookieconsent)
 
 
 ### Documentation
