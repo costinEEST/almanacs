@@ -161,6 +161,7 @@
 
 ### Pattern
 
+- https://www.patterns.dev
 - https://github.com/nearform/react-patterns-workshop
 - [Reusable Code In React: Inheritance, Composition, Decorators and Mixins.](https://benmccormick.org/2019/02/11/reusable-react)
 - [What are some React anti-patterns that you encounter often? Why are they dangerous?](https://twitter.com/TejasKumar_/status/1214259916376027137)

@@ -104,6 +104,10 @@
 ### PCB 
 
 - [Keng Tiong Ng](https://visio-for-engineers.blogspot.com)
+- https://github.com/Hanqaqa/PCB_Business_Card
+- https://www.stavros.io/posts/make-pcbs-at-home
+- https://www.wired.com/story/starlink-internet-dish-hack
+
 
 ### Resistor
 
@@ -191,8 +195,6 @@
 - https://nelsonslog.wordpress.com/2021/10/03/usb-charging-in-2021
 - https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB
 - https://redteamer.tips/physical-shenanigans-with-computers-part-1-gearing-up
-- https://github.com/Hanqaqa/PCB_Business_Card
-- https://www.stavros.io/posts/make-pcbs-at-home
 - https://www.davidsopas.com/my-red-team-assessment-hardware-list
 - https://github.com/TM90/awesome-hwd-tools
 - [OpenBenchmarking.org - Cross-Platform, Open-Source Automated Benchmarking Platform](https://openbenchmarking.org)

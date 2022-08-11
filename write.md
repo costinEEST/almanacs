@@ -71,6 +71,7 @@
 - [The Latex files used to create my PhD Thesis](https://github.com/jack4818/thesis-template)
 - https://alexwlchan.net/2016/02/how-i-use-textexpander-to-curb-my-language
 - https://ivoanjo.me/blog/2017/10/22/asciidoc-an-awesome-markdown-alternative
+- [Softcover is an ebook typesetting system for technical authors](https://github.com/softcover/softcover)
 
 ### Miscellaneous
 

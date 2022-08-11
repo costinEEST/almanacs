@@ -138,6 +138,7 @@
 - https://www.bellingcat.com/resources/2022/02/11/radar-interference-tracker-a-new-open-source-tool-to-locate-active-military-radar-systems
 - https://github.com/abrahamjuliot/web-fingerprinting
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet-ng.org/)
+- [In our CCS 2014 paper, The Web Never Forgets, we measure three advanced tracking mechanisms, canvas fingerprinting, cookie respawning, and cookie syncing](https://github.com/citp/TheWebNeverForgets)
 
 
 ### Social media
