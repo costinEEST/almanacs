@@ -260,6 +260,7 @@
 
 ### Array.prototype
 
+- [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
 - [Cheat sheet: JavaScript Array methods](https://gist.github.com/rauschma/6cdeb4af7586aa03baed2f925e0a084b)
 - [Array.from works with any iterable](https://twitter.com/loige/status/1439310192743747591)
 - [replace .filter().map()](https://twitter.com/m412c0b/status/1207775584740429824)
@@ -537,13 +538,14 @@
 - https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers + https://youtu.be/r76ZjdzFExg
 - https://twitter.com/Aayyushhh/status/1452752483596464130 + https://twitter.com/maxkoretskyi/status/1206604253965324288 + https://www.slideshare.net/secret/7URGTJH8P6JUiG + https://twitter.com/poledesfetes/status/1230151645914390528
 
-### Parsers
+### Parser
 
 - [Parser Combinators From Scratch](https://www.youtube.com/playlist?list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU)
 
-### Interpreters
+### Interpreter
 
 - https://github.com/mezum/quickjs-cmake
+- [Web-based interpreter for the LOOP, WHILE, and GOTO programming languages](https://github.com/tniessen/loop-while-goto)
 
 ### Tool
 
@@ -628,3 +630,4 @@
 - [Building better developers by specifying criteria of success](https://github.com/prettydiff/wisdom)
 - https://github.com/justinamiller/SoftwareArchitect
 - https://kevin.burke.dev/kevin/faker-js-problems
+- https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93

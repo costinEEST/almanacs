@@ -10,10 +10,11 @@
 - https://www.freecodecamp.org/news/create-an-android-app
 
 
-### Demos
+### Inspire
 
 - https://github.com/tipsy/profile-summary-for-github
 - https://benwiser.com/blog/My-blog-is-now-generated-by-Google-Docs.html
+- [ID scanning Android app and library. Supports MRZ, NFC, Barcodes, and ID PASS Lite cards](https://github.com/newlogic/smartscanner-core)
 
 ### Development
 

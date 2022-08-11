@@ -11,6 +11,7 @@
 - https://blog.ngzhian.com/bookmarks-for-a-programming-language-enthusiast.html
 - [A self hosted website for announcing group events](https://github.com/soupi/gathering)
 - https://github.com/erkmos/haskell-companies
+- [Rebecca Skinner](https://github.com/rebeccaskinner/presentations)
 
 ### Cinema
 

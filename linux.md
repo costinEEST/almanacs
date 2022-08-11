@@ -71,6 +71,7 @@
 - https://github.com/danidiaz/variegated-reading-lists/tree/main/Linux_internals
 - https://github.com/Saruspete/LinuxNetworking
 - http://redsymbol.net/linux-kernel-boot-parameters
+- [Attempt to run Linux in a GPU shader](https://github.com/mildsunrise/cursed_gpu_linux)
 
 ### Radio
 

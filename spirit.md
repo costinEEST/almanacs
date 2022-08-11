@@ -19,3 +19,7 @@
 
 - https://radu-iliescu.blogspot.com/search/label/islam
 - https://www.academia.edu/37298049/The_Architecture_of_Pilgrimage_A_study_on_the_Ziyara_Bogal_and_charismatic_authority_in_the_Tijaniyya
+
+### Lutheranism
+
+- [Friedrich Gustav Emil Martin Niemöller](https://en.wikipedia.org/wiki/Martin_Niem%C3%B6ller)

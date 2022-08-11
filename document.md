@@ -10,6 +10,7 @@
 ### .epub
 
 - https://alexwlchan.net/2019/08/removing-the-drm-from-my-kindle-books
+- https://www.microsoftpressstore.com/promotions/product-announcement-retirement-of-amazon-mobi-ebook-142421
 
 ### .md 
 

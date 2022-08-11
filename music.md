@@ -48,6 +48,12 @@
 - [Richard Godwin](https://open.spotify.com/user/goblinski)
 - https://radiooooo.com
 - [DISCURI DE VINIL PICK-UP](https://www.facebook.com/groups/1529935950659745)
+- [Andrei Vieru](https://www.youtube.com/c/hammerklaviermusik/playlists)
+
+
+### Guitar
+
+- [Adrian Holovaty](https://www.soundslice.com/users/adrian)
 
 ### Instrument
 
@@ -132,6 +138,7 @@
 - https://blog.sophaskins.net/blog/jazz-albums-for-the-socially-distanced
 - [The Subject is Jazz](https://www.youtube.com/playlist?list=PLKcw8FT1mrfDQuTAKB1OPXNDuYyby89nY)
 - [Konrad Koselleck](https://twitter.com/AlexDrace/status/1517893147480793088)
+- [Adrian Holovaty plays gypsy jazz](https://www.youtube.com/playlist?list=PL563285DE146F61F7)
 
 ### Rock
 

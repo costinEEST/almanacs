@@ -28,6 +28,7 @@
 - [Recursive passive detection of vulnerable paths](https://github.com/F6JO/RouteVulScan)
 - [Improve automated and semi-automated active scanning](https://github.com/pentagridsec/PentagridScanController) + https://youtu.be/aFMTzFfX1Z4
 - [Burp Extension for Broken Access Control](https://twitter.com/e11i0t_4lders0n/status/1514451652660498433)
+- [View HTTP history exported from Burp Suite Community Edition(CE)](https://github.com/adityatelange/bhhb)
 
 ### Cinema
 

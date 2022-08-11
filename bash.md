@@ -62,7 +62,7 @@
 - [How to reduce the node_modules folder size?](https://twitter.com/Raynos/status/1436655636125736962)
 ־ https://darekkay.com/blog/rss-subscriber-count
 
-### Tools
+### Tool
 
 - [Resource monitor that shows usage and stats for processor, memory, disks, network and processes.](https://github.com/aristocratos/bashtop)
 - [Feed the hundreds of millions of domains in the Common Crawl to zgrab.](https://github.com/lsb/zgrab-the-web)
@@ -75,6 +75,7 @@
 - https://github.com/WizardTim/cheatsheets/blob/master/youtube-dl.md
 - https://blog.ngzhian.com/awk.html
 - https://www.robjwells.com/2021/02/how-to-wrap-bc-to-do-calculations
+- [Grab the public reports from hacker one and download all JSON files to be grepable](https://github.com/zeroc00I/AllVideoPocsFromHackerOne)
 
 ### References
 

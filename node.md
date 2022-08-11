@@ -113,6 +113,7 @@
 - https://github.com/tracy-and-matt/awesome-twitch-dev#javascript-nodejs
 - https://github.com/shalvah/RemindMeOfThisTweet
 - [Twitter bot for easily downloading videos/GIFs off tweets](https://github.com/shalvah/DownloadThisVideo)
+- https://github.com/adityatelange/github2telegram-notifier
 
 ### Boilerplate
 
@@ -537,6 +538,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://www.youtube.com/playlist?list=PLjhq46XB5LWtBDimrw54T72mqw5J79lb_ + https://github.com/GalloDaSballo/The-Complete-Strapi-Developer
 - https://youtu.be/e9hqEtRmcOw + [The Complete Strapi Course - with plugins and deployment](https://www.udemy.com/course/strapi-course/?referralCode=A45D300BA492E76B86F8) + https://www.youtube.com/playlist?list=PL6m79ej4a2RC8Df1PQLXiImK4YU7CTLTb + https://twitter.com/artcoded_net/status/1555247643135287297
 - [Strapi, Remix & Render Let's Build a Productivity Tips App](https://youtu.be/zPT_K4Q8_RA)
+- https://developedbyed.com/p/the-full-stack-react-course?coupon_code=EARLYBIRD
 
 
 ### Static site generator
@@ -585,6 +587,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://www.raymondcamden.com/2020/08/16/migrating-from-node-and-express-to-the-jamstack-part-3
 - https://medium.com/lambda-store/terminal-chat-application-using-serverless-redis-1feec78cbfa
 - https://dev.to/crtr0/building-a-virtual-conference-ticket-with-begin-aws-puppeteer-hgk
+- [Self-Hosted URL Shortner using Vercel's Serverless API and MongoDB](https://github.com/adityatelange/gourl)
 
 ### Miscellaneous
 

@@ -24,6 +24,7 @@
 - https://flagpack.xyz
 - [A free collection of maps for every country in the world](https://github.com/djaiss/mapsicon)
 - https://basicons.xyz
+- https://github.com/microsoft/fluentui-emoji + https://twitter.com/rauschma/status/1557468341949923334
 
 ### Tutorials
 

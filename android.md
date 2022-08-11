@@ -18,6 +18,7 @@
 - https://perfectsleep.labr.io
 - [DEF CON Hacker Tracker](https://github.com/shortstack/HackerTracker)
 
+
 ### Book
 
 - [Jetpack Compose internals](https://leanpub.com/composeinternals) + https://twitter.com/JorgeCastilloPr/status/1420427677044035592
@@ -39,6 +40,7 @@
 - https://www.youtube.com/playlist?list=PLFW6ct83_wC9CYqIRaR1jUwrz_hBgAX8Q
 - [Web Challenges #CTF #hpAndro | Android AppSec](https://www.youtube.com/playlist?list=PLY47jY-dcCPWerJCAPw2GOJxUvmRe5Zho)
 - [Foundations of Hacking and Penetration Testing Android Apps](https://www.youtube.com/playlist?list=PL2EF13wm-hWAr15jPUoS3pMmryfZiehxq) + https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps
+- [AOSP Build References](https://www.youtube.com/playlist?list=PLeiDFxcsdhUq6Ch-9AAtiVU7Lw0tTSnKb) + https://github.com/stars/adityatelange/lists/android-aosp
 
 ### Course
 

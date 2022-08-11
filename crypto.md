@@ -119,7 +119,7 @@
 - https://github.com/PacktPublishing/Demystifying-Cryptography-with-OpenSSL-3
 - [Post-quantum Cryptography and running experiments with it at Cloudflare](https://www.sofiaceli.com/2020/12/10/pq-kem-tls.html)
 
-### References
+### Cheat sheet 
 
 - https://github.com/OpenTechFund/CryptoTerminology
 - [Cryptographic Right Answers (gist)](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
