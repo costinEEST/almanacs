@@ -349,6 +349,7 @@
 - https://ryanbigg.com/2018/03/my-thoughts-on-hanami
 - [:: chunky bacon](http://code-anth.xyz/posts/3)
 - https://avdi.codes/ruby-is-defined-by-terrible-tools
+- https://skatkov.com/2020/03/26/lessons-from-building-another-url-shortener.html + https://github.com/skatkov/acart
 
 ### Pattern
 

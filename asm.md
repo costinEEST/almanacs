@@ -43,6 +43,10 @@
 - https://www.youtube.com/playlist?list=PLn__CHOEZR1ZQMrP_j_f4l8naO58SIpKm
 - https://www.youtube.com/user/OpenSecurityTraining/playlists
 
+### Debugging
+
+- [Case studies of difficult bugs and how they were tracked down](https://twitter.com/aluhrs13/status/1557044379797188608)
+
 ### Opinion
 
 - https://ncot.uk/compsci/becoming-a-better-computer-science-teacher

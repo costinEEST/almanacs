@@ -72,6 +72,7 @@
 - https://alexwlchan.net/2016/02/how-i-use-textexpander-to-curb-my-language
 - https://ivoanjo.me/blog/2017/10/22/asciidoc-an-awesome-markdown-alternative
 - [Softcover is an ebook typesetting system for technical authors](https://github.com/softcover/softcover)
+- https://erfur.github.io/2022/05/03/bookmarks-and-hoarding.html
 
 ### Miscellaneous
 

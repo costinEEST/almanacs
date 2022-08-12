@@ -156,6 +156,7 @@
 - https://www.robjwells.com/books/2019/turings-cathedral
 - [The Computers: The Remarkable Story of the ENIAC Programmers](https://vimeo.com/ondemand/eniac6) + https://www.amazon.com/Proving-Ground-Untold-Programmed-Computer-ebook/dp/B096RT99B8
 - https://github.com/facundoolano/software-papers
+- [8 disk magazines from the 90s](https://github.com/ConspiracyHu/diskmag-onlinification-project)
 
 ### Miscellaneous
 
