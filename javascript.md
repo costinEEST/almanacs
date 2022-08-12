@@ -291,7 +291,7 @@
 
 - [One page calendar 2020](https://davebakker.io/onepagecalendar)
 - [Wondering how to best display the current time (hh:mm) on a web page.](https://twitter.com/rauschma/status/1228056819567910914)
-- https://twitter.com/rauschma/status/1330881310039175169
+- [Why is January represented by 0 in JavaScript and not by 1?](https://twitter.com/rauschma/status/1330881310039175169)
 - https://github.com/andreigasparovici/npm-time-ago-ro
 
 ### new Error()

@@ -121,6 +121,10 @@
 - [A lightweight cloud firestore library for the browser.](https://github.com/samuelgozi/firebase-firestore-lite)
 - [You've got 100k requests/minute coming in, that need to return immediately, and you need to put a record in a database for every one.](https://twitter.com/erikras/status/1246710418191646720)
 
+### SQLite
+
+- https://fly.io/blog/sqlite-internals-rollback-journal
+
 ### Graph databases
 
 - https://www.arangodb.com/learn/first-day/udemy

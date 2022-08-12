@@ -52,6 +52,8 @@
 - https://github.com/amitshekhariitbhu/awesome-android-complete-reference
 - https://github.com/androiddevnotes/awesome-android-learning-resources
 - https://github.com/lockersoft/cis218 + https://www.youtube.com/playlist?list=PLSXDqiI4sC5N5LJaWsprrLgZgZiyl62Q9
+- Android Development with Compose: https://codelabs.developers.google.com/?text=compose + https://developer.android.com/courses/pathways/compose + https://www.udemy.com/course/jetpack-compose-masterclass + [Jetpack Compose | 
+Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
 
 ### Internals
 

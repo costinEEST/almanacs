@@ -29,6 +29,7 @@
 - https://github.com/oklemenz/PrinceJS
 - https://github.com/Vincenius/css-speedrun
 - https://github.com/euhmeuh/wasm-adventure
+- [CashFlow 101 board game](https://github.com/NathanStrutz/cashflow-balance-sheet)
 
 
 ### Mobile based

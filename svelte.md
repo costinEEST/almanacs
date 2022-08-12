@@ -3,6 +3,10 @@
 
 - [Hands-On JavaScript High Performance: Build faster web apps using Node.js, Svelte.js, and WebAssembly](https://www.goodreads.com/book/show/52994359-hands-on-javascript-high-performance)
 
+### Boilerplate 
+
+- [An opinionated blog starter for SvelteKit + Tailwind + Netlify](https://github.com/sw-yx/swyxkit)
+
 ### Community
 
 - https://github.com/sveltejs/community

@@ -539,6 +539,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://youtu.be/e9hqEtRmcOw + [The Complete Strapi Course - with plugins and deployment](https://www.udemy.com/course/strapi-course/?referralCode=A45D300BA492E76B86F8) + https://www.youtube.com/playlist?list=PL6m79ej4a2RC8Df1PQLXiImK4YU7CTLTb + https://twitter.com/artcoded_net/status/1555247643135287297
 - [Strapi, Remix & Render Let's Build a Productivity Tips App](https://youtu.be/zPT_K4Q8_RA)
 - https://developedbyed.com/p/the-full-stack-react-course?coupon_code=EARLYBIRD
+- [Build A Coding Blog From Scratch](https://coding-blog.crfcourses.com)
 
 
 ### Static site generator
