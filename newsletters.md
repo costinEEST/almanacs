@@ -294,6 +294,7 @@
 ### Music 
 
 - [Ted Gioia](https://tedgioia.substack.com/archive)
+- [Tango Inside Out](https://us7.campaign-archive.com/home/?u=c390736e46a85da405f68dc8e&id=8dbe36e52f)
 
 ### Ruby
 

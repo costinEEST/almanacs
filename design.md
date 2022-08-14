@@ -103,6 +103,7 @@
 - https://medium.com/doctolib/how-learning-a-sign-language-made-me-a-better-designer-dc42e564bfe1
 - https://height.app/blog/guide-to-build-context-menus
 - https://www.deceptive.design + https://youtu.be/ZN9wRcC3O4I
+- https://www.facebook.com/vitaly.friedman
 
 ### Portfolio
 
