@@ -5,6 +5,7 @@
 - https://www.contributors.ro/interviu-cu-soprana-angela-gheorghiu-in-romania-am-invatat-o-falsa-istorie-muzicii-fabricata-si-comandata
 - https://www.rollingstone.com/music/music-news/vangelis-oscar-winning-composer-chariots-of-fire-blade-runner-dead-obit-1355854
 - https://faroutmagazine.co.uk/donna-summer-created-new-wave-disco-anthem
+- [Anne-Marie McDermott on Bach, Pulse and Rubato](https://www.pokerandphilosophy.com/2022/02/anne-marie-mcdermott-on-bach-pulse-and.html)
 
 ### Book
 
@@ -124,6 +125,7 @@
 - https://theatticmag.com/features/2326/the-complex-case-of-romanian-folklore-in-pasolini's-oedipus-rex.html
 - https://bigthink.com/neuropsych/frisson-song-playlist
 - https://mehan.substack.com/p/deafheaven
+- [Russians | Richard E. Cytowic](https://www.youtube.com/playlist?list=PLzpbJH8qD9IgDlM6-uErZpt7P5bAx9JHE)
 
 ### Jazz
 

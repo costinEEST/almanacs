@@ -1,8 +1,9 @@
-### Books
+### Book
 
 - https://blog.adilmajid.com/leveling-up-in-texas-hold-em
 - https://twitter.com/strassa2/status/1212512608286314502
 - https://www.amazon.com/Winning-Low-Limit-Holdem-Lee-Jones/dp/1886070237
+- https://www.pokerandphilosophy.com/2022/01/how-philosophy-and-poker-are-related.html
   
 
 ### Advices

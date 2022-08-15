@@ -113,6 +113,7 @@
 - [Romanian Society of Bioinformatics](https://us17.campaign-archive.com/home/?u=1e432a2bd29548641f4428e61&id=9bb817dd4e)
 - [BioDojo](https://thebiodojo.substack.com/archive)
 - [The ODIN](https://us14.campaign-archive.com/home/?u=cc0fafea28551627b92bbc168&id=fac116480b)
+- [Razib Khan](https://razib.substack.com/archive)
 
 ### History
 
@@ -265,6 +266,7 @@
 - [Peter Attia](https://peterattiamd.com/email-archive)
 - [Tilde Cafe](https://us11.campaign-archive.com/home/?u=ae805569dda0a7c42c5899749&id=f83d3214e1)
 - [Chris Masterjohn](https://chrismasterjohnphd.substack.com/archive)
+- [Brady Holmer](https://bradyholmer.substack.com/archive)
 
 ### Privacy
 

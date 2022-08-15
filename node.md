@@ -114,6 +114,7 @@
 - https://github.com/shalvah/RemindMeOfThisTweet
 - [Twitter bot for easily downloading videos/GIFs off tweets](https://github.com/shalvah/DownloadThisVideo)
 - https://github.com/adityatelange/github2telegram-notifier
+- [A bot that notifies you on Slack whenever your company/product is mentioned on Hacker News](https://github.com/vercel-labs/hacker-news-slack-bot)
 
 ### Boilerplate
 

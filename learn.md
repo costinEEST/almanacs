@@ -20,6 +20,7 @@
 
 - https://alamot.github.io/moocing
 - [Piotr Wozniak](https://www.wired.com/2008/04/ff-wozniak)
+- https://en.wikipedia.org/wiki/Richard_Cytowic
 
 ### Method
 
@@ -27,6 +28,8 @@
 - https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn + https://news.ycombinator.com/item?id=23492358
 - https://gduverger.com/email-your-memory
 - [How do you organize your knowledge?](https://news.ycombinator.com/item?id=26935838)
+- https://en.wikipedia.org/wiki/Synesthesia
+- https://en.wikipedia.org/wiki/List_of_people_with_synesthesia
 
 
 ### Tool

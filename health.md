@@ -274,6 +274,7 @@
 - [Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss)
 - [Keto diet | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCVr0OWbPNgohdrUSaA3NhY5)
 - https://www.amazon.com/shop/neishalovesit/list/7EJ9Z7PG6E0H + https://www.youtube.com/playlist?list=PL48jnTudSMf-GD-xZ2REPzNKCdOFBqMsk
+- [Keto | Poker and Philosophy](https://www.youtube.com/playlist?list=PLIh3gtIvTRHE2X0Nz6QNQj5JtAD9nq-UX)
 
 ### Meat
 
@@ -305,6 +306,7 @@
 - [Insulin Resistance - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zUgj26Wns9yLYMq559Luru)
 - [Hormonal theory of weight management - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9wlbcBO4wBL2M2-_3C9FSVh)
 - [Understanding the Warburg Effect: The Metabolic Requirements of Cell Proliferation.](https://sci-hub.do/https://science.sciencemag.org/content/324/5930/1029.abstract)
+- [Glucose Hysteresis as a Mechanism in Dietary Restriction, Aging and Disease (recommended by Robb Wolf)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2755292) + [Secrets of the lac Operon](https://pubmed.ncbi.nlm.nih.gov/17063032) + https://youtu.be/R4qVdiCzNck
 
 ### Skin
 

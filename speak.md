@@ -153,6 +153,7 @@
 - https://www.amazon.com/English-Nature-Method-Arthur-Jensen/dp/1684718228 + https://www.youtube.com/playlist?list=PLAadwKeAHRjjTBBIDyetK6VqoRQEu3Xud
 - [A Guide to English Literary Terms | Oregon State University](https://www.youtube.com/playlist?list=PLkJBRdOsnEQQcO9rEaqNaZwH4Xn2jo11I)
 - https://github.com/hyperreality/American-British-English-Translator
+- https://en.wikipedia.org/wiki/Rhoticity_in_English
 
 ### Esperanto
 
@@ -218,6 +219,7 @@
 - https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
 - https://www.youtube.com/c/VirtualBrainIT/playlists
 - https://www.amazon.com/Litaliano-secondo-metodo-natura-Italian/dp/168474864X + https://www.youtube.com/playlist?list=PLf8XN5kNFkhfQonvCySTrKEUV742WzshJ + https://archive.org/details/LitalianoSecondoIlMetodoNatura + https://www.youtube.com/playlist?list=PLAadwKeAHRjgMxSpTjzk-mqJtZPKOvGX6
+- [Saper vedere l'architettura | Bruno Zevi](https://vimeo.com/381641305)
 
 ### Japanese
 
@@ -322,6 +324,7 @@
 - https://www.goodreads.com/book/show/3360861-el-cuento
 - [The Linguistics of Spanish](https://www.staff.ncl.ac.uk/i.e.mackenzie/index.html)
 - https://blog.duolingo.com/what-is-spanish-vosotros
+- [Ciudades invisibles](https://www.youtube.com/playlist?list=PLezWW2OfKKa5aDoTs9HUkl7C02qvFFJpK)
 
 ### Swedish
 

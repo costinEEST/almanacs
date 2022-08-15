@@ -154,5 +154,6 @@
 ### Opinion 
 
 - https://dkp.ldd.org/2019/09/08/xkcdcrypt.html
+- [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 
 
