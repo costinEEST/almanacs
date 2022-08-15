@@ -478,3 +478,4 @@
 - https://github.com/ciconia/noteflakes.com
 - https://github.com/pawelpacana/nanoc-github
 - https://github.com/github/personal-website
+- [What's a simple way to serve static files locally in Ruby?](https://twitter.com/joeldrapper/status/1559144086120038401)
