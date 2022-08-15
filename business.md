@@ -46,6 +46,10 @@
 - https://www.udemy.com/course/startup-fundraising-master-course
 - https://www.victorcho.com/course-index + https://twitter.com/VictorCho/status/1521945947797815297
 
+### Community 
+
+- [The modern security stack](https://twitter.com/jack_naglieri/status/1507405816701198337)
+
 ### Marketing
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUdTpa8U_pAfqZY9mYoh_WnB

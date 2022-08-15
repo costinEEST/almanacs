@@ -69,7 +69,7 @@
 - https://www.visualisingdata.com/2020/01/explore-explain-a-new-video-and-podcast-series
 - http://www.storytellingwithdata.com/podcast
 
-### Demo
+### Inspire
 
 - [Japanese Architectural Heritage](https://twitter.com/AlexanderVar7/status/1215763711496990722)
 - [#dataviz](https://twitter.com/hashtag/dataviz)
@@ -105,6 +105,7 @@
 - https://github.com/prathyvsh/knowledge-atlases
 - https://github.com/philss/brazil-in-notebooks
 - https://thebackend.dev/building-monarchs + https://www.youtube.com/watch?v=1VVHZnZEWGE + https://github.com/mzemel/monarchs + https://www.data-is-plural.com/archive/2019-06-19-edition + https://www.data-is-plural.com/archive/2022-06-15-edition
+- [Create a 3D city from your GitHub contributions](https://github.com/honzaap/GitHubCity)
 
 ### Miscellaneous
 

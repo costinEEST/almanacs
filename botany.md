@@ -4,6 +4,7 @@
 - https://inquisitivebiologist.com/2021/11/17/book-review-the-wood-age-how-one-material-shaped-the-whole-of-human-history
 - https://www.amazon.com/Field-Guide-Urban-Gardening-Hydroponics/dp/076036396X + https://www.ejorgenson.com/podcast/kevin-espiritu-epic-gardening
 - https://thereader.mitpress.mit.edu/a-master-perfumers-reflections-on-patchouli-and-vetiver
+- https://biblioteca-digitala.ro/?volum=12533-catalogul-expozitiei-canepa-de-la-samanta-la-produs-finit-tehnica-de-lucru-instrumentar-si-obiecte-textile-din-lumea-satului-bihorean--2016
 
 
 ### Cinema
@@ -34,6 +35,7 @@
 - https://www.scena9.ro/article/canepa-expozitie-material-textile
 - [Braiding Sweetgrass Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants By Robin Wall Kimmerer](https://milkweed.org/book/braiding-sweetgrass)
 - https://politeia.org.ro/magazin-istoric/manuscrise-celebre-vienna-dioscurides/20768
+- https://www.popsci.com/diy/houseplants-summer-care-guide
 
 ### Radio
 

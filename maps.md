@@ -4,7 +4,7 @@
 - https://twitter.com/undertheraedar/status/1240191782790496256
 - https://www.youtube.com/c/PlanetizenCourses/playlists
 
-### Demo
+### Inspire
 
 - https://wardle.puntofisso.net
 - [A Web-based map of timezones as they are at a point in time. ](https://github.com/dbaron/timezone-map)
@@ -24,6 +24,7 @@
 - Show travel distance by train in Europe within 5 hours: https://twitter.com/TRADECRAFT14/status/1553614003036995584, https://twitter.com/_benjamintd/status/1552983329116504064
 - https://tjukanovt.github.io/notable-people + https://twitter.com/tjukanov/status/1552622792708874240
 - [An OpenGL world visualizer, written in Rust](https://github.com/ucarion/gaia)
+- https://www.cntraveler.com/story/a-global-food-map-of-the-worlds-best-restaurants
 
 ### Cinema
 

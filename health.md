@@ -139,6 +139,10 @@
 - https://www.amazon.com/Quinine-Malaria-Quest-Changed-World/dp/B000C4SL96
 - [A Solution to Alzheimer's and Aging? Rapamycin and it's potential](https://mykigai.substack.com/p/a-solution-to-alzheimers-and-aging)
 
+### Drug 
+
+- https://adriancopcea.com/2022/08/14/iodul-in-sanatatea-umana-notiuni-elementare
+
 ### Grocery
 
 - [What is Organics? - Paul Chek](https://www.youtube.com/playlist?list=PLZupSfb-NVbpltzWP1zcpVH7Nzd16_cQG)

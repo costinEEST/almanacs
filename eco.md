@@ -18,12 +18,16 @@
 - https://www.udemy.com/course/environment-and-ethics-a-basic-course
 - https://www.udemy.com/course/carbon-neutrality-fundamentals
 
+### Cinema 
+
+- [The Story of Plastic](https://www.facebook.com/magazin.zerowaste/videos/753307372765818)
+
 ### Community
 
 - [Cassandra Xia](https://cassandraxia.com)
 - [database of sorts containing energy consumption of consumer devices](https://twitter.com/municode/status/1551288879810056192)
 
-### Opinions
+### Opinion
 
 - http://www.environmentandsociety.org/arcadia/atlantropa-endless-energy-mediterranean-sea
 - https://asknature.org
@@ -34,6 +38,7 @@
 - https://www.theguardian.com/food/2021/nov/01/end-of-the-avocado-why-chefs-ditching-the-unsustainable-fruit
 - https://github.com/balupton/plant-vs-animal-products
 - https://www.spencergreenberg.com/2020/09/the-three-big-strategies-i-see-for-combating-climate-change
+- https://incredibleproiectare.ro/10-lucruri-pe-care-trebuie-sa-le-faci-inainte-sa-iti-cumperi-un-teren-la-tara
 
 ### Radio
 

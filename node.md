@@ -31,6 +31,8 @@
 - https://github.com/cybrilla/fp-snippets/tree/master/authentication
 - https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site
 - https://github.com/mikesherov/web-security-essentials
+- https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications
+- https://github.com/koenbuyens/oauth-2.0-security-cheat-sheet
 
 ### API
 
