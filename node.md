@@ -217,6 +217,7 @@
 
 - https://github.com/nodejs/web-server-frameworks#web-server-frameworks-team-members
 - [Any companies besides red hat and maybe nearform still pay people to work on node?](https://twitter.com/cjihrig/status/1552014489180045313)
+- [A website dedicated to alternatives to npmjs.com](https://github.com/wmhilton/node-modules.io)
 
 ### Debugging
 
@@ -241,6 +242,7 @@
 - https://github.com/nearform/clinic-workshop-exercises
 - https://github.com/RafaelGSS/nodejs-bench-operations
 - https://github.com/simone-sanfratello/node-bench-iteration
+- [Does anyone know if V8 exposes metrics around it's microtask queue?](https://twitter.com/wesleytodd/status/1557861163760701440)
 
 ### Error
 
@@ -333,6 +335,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Make an asynchronous function synchronous](https://github.com/sindresorhus/make-synchronous)
 - [Turns async function into sync via JavaScript wrapper of Node event loop](https://github.com/abbr/deasync)
 - [alway use asyncIterator.return() or .throw() in a finally block if you want to ensure there is nothing left there to process](https://twitter.com/matteocollina/status/1392056092482576385)
+- [List of useful modules for working with async iterables](https://github.com/alanshaw/it-awesome)
 
 ### Threads
 

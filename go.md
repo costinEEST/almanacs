@@ -78,6 +78,7 @@
 - https://github.com/VividCortex/go-database-sql-tutorial
 - https://www.allhandsontech.com/programming/golang/web-app-sqlite-go
 - https://ucarion.com/go-base62
+- https://github.com/subfuzion/cracking-the-coding-interview-in-go
 
 ### Testing
 

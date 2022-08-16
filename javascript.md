@@ -140,6 +140,7 @@
 - [Cracking the Coding Interview 6th Ed. JavaScript ES2015 Solutions](https://github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015)
 - https://github.com/coodict/javascript-in-one-pic
 - https://github.com/madhank93/js-mindmap
+- [How to Design Programs | Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion)
 
 ### Cheat sheet 
 
@@ -221,6 +222,7 @@
 
 - [History of ES modules.](https://gist.github.com/jkrems/769a8cd8806f7f57903b641c74b5f08a)
 - https://guybedford.com/es-module-preloading-integrity
+- https://github.com/guybedford/es-module-shims
 - [The envisioned future of ES Modules in the browser.](https://twitter.com/swyx/status/1208820201623437312)
 - All differences between JavaScript modules, classic scripts, and CommonJS: [gist](https://gist.github.com/jkrems/b14894e0b8efde10aa10a28c652d3541) + [tweet](https://twitter.com/jankrems/status/1210644388105244672)
 - [How To Use Correctly JavaScript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries)
@@ -615,7 +617,7 @@
 - https://v8.dev/blog/understanding-ecmascript-part-1
 - https://readspecwith.us
 - https://adambard.com/blog/on-library-versioning
-- https://timothygu.me/es-howto + https://github.com/TimothyGu/es-howto
+- [How to read the ECMAScript specification](https://github.com/TimothyGu/es-howto)
 - [Underscore.js annotated source](https://web.archive.org/web/20151205080537/http://documentcloud.github.io:80/underscore/docs/underscore.html)
 - https://ryzokuken.dev/slides
 - https://blog.1password.com/docusaurus-documentation-framework

@@ -19,6 +19,7 @@
 * https://github.com/lololosys/awesome-baseband-research
 * [10 Gigabit Home LAN](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ61KhM14oJMY1TiI5tU4txd)
 * [Mike Dinn about his time as Station Director of the Honeysuckle Creek tracking station that helped land humans on the moon](https://twitter.com/cliffordheath/status/1529420879742267392)
+* https://github.com/doegox/awesome-rfid-talks
 
 ### Book
 
@@ -347,6 +348,11 @@
 - [A Blog Hosted On ENS+IPFS Powered By Svelte+Sapper](https://ronan.eth.link/blog/blog-hosted-on-ens-ipfs)
 - https://hackmd.io/@aimeez/H15SJ7zJv
 - [How IPFS is broken](https://fiatjaf.com/d5031e5b.html)
+- https://medium.com/encode-club/encode-filecoin-club-building-with-ipfs-video-slides-37f756123e45 + https://twitter.com/IPFS/status/1483811783684984832
+
+### Internet Service Provider (ISP)
+
+- [Build your own Internet | Billie Hilton](https://www.youtube.com/playlist?list=PLbjZkI1beTSOZgCDL6LJHBhBrnhEmaWdt)
 
 
 ### SSH

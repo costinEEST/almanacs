@@ -6,6 +6,7 @@
 - [non-web WebAssembly projects that I find interesting.](https://twitter.com/beriberikix/status/1258554615529738242)
 - https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071
 - [Compile the statistical language R into WASM for use in a browser, via Emscripten](https://github.com/georgestagg/webR)
+- [Advanced Compiler Design (UCSD CSE231) | Joe Gibbs Politz](https://ucsd-cse231-s22.github.io) + https://jpolitz.github.io/docs/splash-e-2021.pdf
 
 ### Cinema
 

@@ -1,6 +1,7 @@
 ### Community
 
 - [Patricia Kaishian](https://sites.google.com/view/patriciakaishian)
+- [Iubitorii de ciuperci](https://www.facebook.com/groups/2177806262500396)
 
 
 ### Miscellaneous

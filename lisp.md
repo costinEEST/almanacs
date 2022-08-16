@@ -6,6 +6,7 @@
 - https://twitter.com/lukego/status/632450443566780416
 - https://notes.eatonphil.com/book-review-ansi-common-lisp.html
 - https://mihaiolteanu.me/books.html
+- https://leanpub.com/lovinglisp
 
 ### Cinema
 

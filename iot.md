@@ -111,3 +111,4 @@
 - https://blog.wokwi.com/hardware-crowdfunding-behind-the-scenes
 - [Learing FreeRTOS by doing a project](https://github.com/tiberiucorbu/solar-energy-logger)
 - https://github.com/danielsundermeier/knowledge/tree/master/home-automation
+- https://github.com/danbev/learning-iot

@@ -140,6 +140,7 @@
 - [The first exascale supercomputer in the Top500](https://www.top500.org/lists/top500/2022/06)
 - [My business card runs Linux, yours can too](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
 - [Building a CPU on an FPGA | Robert Baruch](https://www.youtube.com/playlist?list=PLEeZWGE3PwbZ44SUf1-vA-UuX9_J_pifB)
+- https://github.com/danbev/learning-fpga
 
 ### Miscellaneous
 

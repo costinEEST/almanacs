@@ -25,6 +25,7 @@
 - https://github.com/vslavik/diff-pdf
 - https://nds.rub.de/research/publications/processing-dangerous-paths-security-and-privacy-po/index.html
 - [Silly proof-of-concept for a PDF chatroom](https://github.com/ranok/pdfchat)
+- [Make your own colliding PDFs](https://twitter.com/steike/status/834826657768865793)
 
 ### .yaml
 
@@ -46,6 +47,6 @@
 
 ### Security
 
-- https://github.com/corkami/docs
+- [Ange Albertini](https://github.com/corkami/docs)
 - https://ceres-c.it/2021/11/21/DRM-reversing
 - https://i.blackhat.com/EU-21/Wednesday/EU-21-Franken-How-Your-Ebook.pdf

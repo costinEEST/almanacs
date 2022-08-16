@@ -129,6 +129,7 @@
 - https://github.com/peaceiris/actions-gh-pages
 - https://www.poberezkin.com/posts/2017-07-12-talk-auditing-development-guidelines-in-github-repositories.html
 - https://github.com/JamesIves/github-pages-deploy-action
+- [Generate LICENSE file from package.json](https://github.com/TiagoDanin/Add-License-Bot)
 
 ### Tool
 

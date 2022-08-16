@@ -119,6 +119,7 @@
 - https://github.com/kuchin/awesome-cto
 - https://meiert.com/en/blog/professional-agile-leadership-resources
 - https://github.com/pdfernhout/High-Performance-Organizations-Reading-List
+- [The Deadline: A Novel About Project Management | Tom DeMarco](https://www.2uo.de/Books/the-deadline)
 
 ### Leadership
 

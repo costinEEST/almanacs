@@ -55,6 +55,7 @@
 - https://github.com/rainyear/Oxford-Machine-Learning-Course-2015
 - https://github.com/kendricktan/non-overwhelming-machine-learning
 - https://github.com/DataScienceSpecialization/courses
+- https://github.com/HaleTom/pytorch-udacity-scholarship
 
 ### Cinema
 
