@@ -15,3 +15,7 @@
 ### Tool
 
 - [.NET, PE, & Raw Shellcode Packer/Loader](https://github.com/icyguider/Nimcrypt2)
+
+### Security 
+
+- [The Crown: Exploratory Analysis of Nim Malware](https://youtu.be/mCWzEh8gJuk) + https://github.com/HuskyHacks/the-crown-defcon615
