@@ -56,6 +56,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - https://www.youtube.com/c/OALabs/playlists
 - https://github.com/tmpout/awesome-elf
 - https://github.com/JannisKirschner/SymbolicExecutionDemystified
+- https://speakerdeck.com/rung/exploitation-fundamentals-english
 
 ### Tools
 

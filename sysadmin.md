@@ -74,6 +74,7 @@
 - https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool
 - https://www.vector-logic.com/blog/posts/mysql-localhost
 - https://github.com/wsargent/docker-cheat-sheet
+- [Dockerfile best-practices for writing production-worthy Docker images](https://github.com/hexops/dockerfile)
 
 ### Kubernetes
 
@@ -126,6 +127,7 @@
 - [Grasping Kubernetes Networking (Mega Thread)](https://twitter.com/iximiuz/status/1426926884508643331)
 - https://kubernetesinpractice.com/kubernetes-in-practice-sample.pdf
 - https://github.com/walidshaari/Kubernetes-Certified-Administrator
+- [A set of exercises to prepare for Certified Kubernetes Application Developer exam](https://github.com/dgkanatsios/CKAD-exercises)
 
 ### Servers
 

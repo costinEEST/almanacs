@@ -91,6 +91,7 @@
 - https://www.bugsnag.com/blog/getting-started-with-mongodb
 - https://github.com/dabit3/dynamodb-documentclient-cheat-sheet
 - https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial
+- https://github.com/riyazwalikar/injection-attacks-nosql-talk
 
 ### Relational databases
 

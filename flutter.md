@@ -4,6 +4,7 @@
 - https://github.com/ma-sujithkumar/Instragram-Videos-and-Display-Profile-Downloader-in-Flutter
 - [Lotti is a smart journaling app that allows you to track relevant data about your life, in complete privacy](https://github.com/matthiasn/lotti)
 - https://www.amazon.com/Flutter-Complete-Reference-Create-beautiful-ebook
+- [Free and open-source tool to visualize your keystrokes in real-time](https://github.com/mulaRahul/keyviz)
 
 ### Course
 

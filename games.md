@@ -30,6 +30,8 @@
 - https://github.com/Vincenius/css-speedrun
 - https://github.com/euhmeuh/wasm-adventure
 - [CashFlow 101 board game](https://github.com/NathanStrutz/cashflow-balance-sheet)
+- https://live.df2px94bfzu8t.amplifyapp.com/pages/janae/my-odyssey-in-teaching-kids-scratch-part-2
+- [Wordle clone made using React, Typescript, and Tailwind](https://github.com/cwackerfuss/react-wordle)
 
 
 ### Mobile based

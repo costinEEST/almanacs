@@ -320,6 +320,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5
 - [O-Stream - provides an intuitive interface for node streams, in typescript.](https://gitlab.com/itayronen/o-stream)
 - https://github.com/jeresig/node-stream-playground
+- [Detect input encoding and convert to utf-8 if needed](https://github.com/finnp/to-utf-8)
 
 ### Promise
 

@@ -172,6 +172,7 @@
 - https://github.com/trailofbits/not-going-anywhere
 - https://github.com/lojikil/kyoto-go-nihilism
 - https://posts.specterops.io/malware-development-pt-1-dynamic-module-loading-in-go-1121f07f3a5a
+- [Golang security checker](https://github.com/securego/gosec)
 
 ### Static website 
 

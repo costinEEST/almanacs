@@ -325,6 +325,7 @@
 - [The Linguistics of Spanish](https://www.staff.ncl.ac.uk/i.e.mackenzie/index.html)
 - https://blog.duolingo.com/what-is-spanish-vosotros
 - [Ciudades invisibles](https://www.youtube.com/playlist?list=PLezWW2OfKKa5aDoTs9HUkl7C02qvFFJpK)
+- https://www.academia.edu/11853314/Saber_ver_la_arquitectura_Zevi_Bruno
 
 ### Swedish
 

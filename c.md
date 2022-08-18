@@ -23,6 +23,43 @@
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://paulmck.livejournal.com/66892.html)
 - [The little book about OS development](https://github.com/littleosbook/littleosbook)
 
+### Cheat sheet
+
+- https://www.learn-c.org
+- [C Internals](https://www.avabodh.com/cin/cin.html)
+- https://github.com/tuhdo/os01
+- https://github.com/rby90/Project-Based-Tutorials-in-C
+- https://thesquareplanet.com/blog/smashing-the-stack-21st-century
+- [C in four functions.](https://github.com/rswier/c4)
+- https://github.com/reberhardt7/cplayground
+- https://github.com/h0mbre/Learning-C
+- https://github.com/lk-geimfari/awesomo/blob/master/languages/C.md
+- [Operating Systems Fall 2020 (CS 301)](https://nipunbatra.github.io/os2020)
+- https://github.com/danbev/learning-c
+- [Why JavaScript months start from 0](https://www.hillelwayne.com/post/always-more-history)
+- [Minimalist C Libraries](https://nullprogram.com/blog/2018/06/10)
+- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo) + https://news.ycombinator.com/item?id=25712949
+- https://www.freecodecamp.org/news/boost-programming-skills-read-git-code
+- [The Success and Failure of Ninja](http://neugierig.org/software/blog/2020/05/ninja.html)
+- [An open source kernel and OS for music production](https://github.com/Morpheu5/tOfuS)
+- [Test the speed of common mathematical operations](https://github.com/elgw/math_ops_speed)
+- [A curated list of awesome bitwise operations and tricks](https://github.com/keon/awesome-bits)
+- https://huangxuan.me/2020/06/19/data-rep-int
+- https://github.com/cfenollosa/os-tutorial
+- https://www.labbott.name/blog/2016/05/10/zero-size-arrays-in-c
+- [A guide to Windows application development using w64devkit](https://nullprogram.com/blog/2021/03/11)
+- ["class" and "template", among other things, are legal function/variable/struct names in C](https://twitter.com/azonenberg/status/1445172332054528002)
+- https://github.com/aknooh/Simple-File-System-in-C
+- [Helper functions for C](https://github.com/iosifache/CCookbook)
+- [URL Decoder written in C](https://gist.github.com/darkain/23da34f00ebf3f1572322df3605be51f)
+- https://github.com/ksluckow/awesome-symbolic-execution
+- https://lemire.me/blog/2021/11/30/can-you-safely-parse-a-double-and-then-cast-to-a-float
+- https://github.com/NullProgrammer/File-Handling
+- [Const correctness in C/C++](https://yurichev.com/news/20211202_const)
+- [Why memcpy/strcpy/strcat return a value?](https://yurichev.com/news/20211227_strcpy_etc)
+- https://taxicat1.github.io/hash6432shift_inversion.html + https://gist.github.com/badboy/6267743
+- https://www.zdnet.com/google-amp/article/linus-torvalds-prepares-to-move-the-linux-kernel-to-modern-c
+
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeCP-KM-pekj30JVzmSKhpK
@@ -82,43 +119,7 @@
 ### Practice
 
 - https://alexanderell.is/posts/rpc-from-scratch + https://alexanderell.is/posts/terrier-dist-sys
-
-### References
-
-- https://www.learn-c.org
-- [C Internals](https://www.avabodh.com/cin/cin.html)
-- https://github.com/tuhdo/os01
-- https://github.com/rby90/Project-Based-Tutorials-in-C
-- https://thesquareplanet.com/blog/smashing-the-stack-21st-century
-- [C in four functions.](https://github.com/rswier/c4)
-- https://github.com/reberhardt7/cplayground
-- https://github.com/h0mbre/Learning-C
-- https://github.com/lk-geimfari/awesomo/blob/master/languages/C.md
-- [Operating Systems Fall 2020 (CS 301)](https://nipunbatra.github.io/os2020)
-- https://github.com/danbev/learning-c
-- [Why JavaScript months start from 0](https://www.hillelwayne.com/post/always-more-history)
-- [Minimalist C Libraries](https://nullprogram.com/blog/2018/06/10)
-- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo) + https://news.ycombinator.com/item?id=25712949
-- https://www.freecodecamp.org/news/boost-programming-skills-read-git-code
-- [The Success and Failure of Ninja](http://neugierig.org/software/blog/2020/05/ninja.html)
-- [An open source kernel and OS for music production](https://github.com/Morpheu5/tOfuS)
-- [Test the speed of common mathematical operations](https://github.com/elgw/math_ops_speed)
-- [A curated list of awesome bitwise operations and tricks](https://github.com/keon/awesome-bits)
-- https://huangxuan.me/2020/06/19/data-rep-int
-- https://github.com/cfenollosa/os-tutorial
-- https://www.labbott.name/blog/2016/05/10/zero-size-arrays-in-c
-- [A guide to Windows application development using w64devkit](https://nullprogram.com/blog/2021/03/11)
-- ["class" and "template", among other things, are legal function/variable/struct names in C](https://twitter.com/azonenberg/status/1445172332054528002)
-- https://github.com/aknooh/Simple-File-System-in-C
-- [Helper functions for C](https://github.com/iosifache/CCookbook)
-- [URL Decoder written in C](https://gist.github.com/darkain/23da34f00ebf3f1572322df3605be51f)
-- https://github.com/ksluckow/awesome-symbolic-execution
-- https://lemire.me/blog/2021/11/30/can-you-safely-parse-a-double-and-then-cast-to-a-float
-- https://github.com/NullProgrammer/File-Handling
-- [Const correctness in C/C++](https://yurichev.com/news/20211202_const)
-- [Why memcpy/strcpy/strcat return a value?](https://yurichev.com/news/20211227_strcpy_etc)
-- https://taxicat1.github.io/hash6432shift_inversion.html + https://gist.github.com/badboy/6267743
-- https://www.zdnet.com/google-amp/article/linus-torvalds-prepares-to-move-the-linux-kernel-to-modern-c
+- https://github.com/bytegarage/c-programming-bootcamp
 
 ### Security
 
