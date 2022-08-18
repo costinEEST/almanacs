@@ -1,4 +1,4 @@
-### Inspire
+### Application
 
 - [Auto Price](https://devforum.ro/t/aplicatie-android-verificarea-pretului-de-piata-al-unui-autoturism/12053)
 - [NoConnect is a real-time messaging application like WhatsApp which does not rely on any traditional GSM/CDMA network or any kind of internet service to communicate with each other unlike WhatsApp.](https://twitter.com/Debloper/status/1206358762275004417)
@@ -17,6 +17,7 @@
 - [menstrual cycle tracker](https://gitlab.com/bloodyhealth/drip)
 - https://perfectsleep.labr.io
 - [DEF CON Hacker Tracker](https://github.com/shortstack/HackerTracker)
+- [Easy to use OpenStreetMap editor for Android](https://github.com/streetcomplete/StreetComplete)
 
 
 ### Book
@@ -59,6 +60,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 
 - https://blog.esper.io/android-dessert-bites-22-linux-memory-management-38419756
 - https://blog.esper.io/android-13-exact-alarm-api-restrictions
+- https://benjamin-altpeter.de/android-top-charts-reverse-engineering + https://github.com/baltpeter/parse-play + https://twitter.com/baltpeter/status/1537569735738523649
 
 
 ### Tool
@@ -82,7 +84,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - [web app to generate a generic privacy policy for your Android/iOS apps](https://github.com/nisrulz/app-privacy-policy-generator)
 - https://github.com/google/android-emulator-container-scripts
 - [automate APK reversing](https://twitter.com/nullenc0de/status/1483142647791460358) + https://github.com/nullenc0de/reverse-apk
-- https://github.com/ClaudiuGeorgiu/PlaystoreDownloader
+- [Command line tool to download Android applications directly from the Google Play Store](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader)
 - [The ingenious product that brings eSIM to any Android phone](https://blog.esper.io/android-dessert-bites-24-esim-me-1248143/)
 - https://markuta.com/magisk-root-detection-banking-apps
 

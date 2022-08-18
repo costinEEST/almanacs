@@ -63,3 +63,5 @@
 - https://github.com/msrkp/electron-research
 - [An Analysis of the State of Electron Security in the Wild](https://github.com/baltpeter/thesis-electron-analysis-src)
 - https://twitter.com/po6ix/status/1520020506283544576
+- [Exploit a XSS vulnerability in a sandboxed Electron app and achieve RCE](https://huntr.dev/bounties/911a4ada-7fd6-467a-a464-b88604b16ffc)
+- https://7085.at/#/blog/2022-02-03-rce-vulnerabilities-in-obsidian-discovered

@@ -44,9 +44,11 @@
 - [Convert a Windows/DOS file extension to a mimetype.](https://dorper.me/ext2mime)
 - [A book build system that produces PDF, EPUB and MOBI from asciidoc to Amazon specifications](https://github.com/merklebloom/bookbuilder)
 - https://github.com/ReversingID/Awesome-Reversing/blob/master/_format.md
+- [Smallest possible syntactically valid files of different types](https://github.com/mathiasbynens/small)
 
 ### Security
 
 - [Ange Albertini](https://github.com/corkami/docs)
 - https://ceres-c.it/2021/11/21/DRM-reversing
 - https://i.blackhat.com/EU-21/Wednesday/EU-21-Franken-How-Your-Ebook.pdf
+- https://passthesalt.ubicast.tv/videos/abusing-archive-based-file-formats

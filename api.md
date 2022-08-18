@@ -171,3 +171,4 @@ curl v2.wttr.in/Bucharest
 - https://github.com/daffainfo/all-about-apikey + https://api-guesser.netlify.app
 - https://github.com/GitGuardian/APISecurityBestPractices
 - https://github.com/awesomedata/awesome-public-datasets
+- https://www.wallarm.com/what/api-security-tutorial

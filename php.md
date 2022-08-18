@@ -114,3 +114,4 @@
 - https://github.com/CatalinFrancu/coin-pusher
 - https://usefathom.com/blog/does-laravel-scale
 - https://webinista.com/updates/php-migration-consulting
+- [A platform to create documentation/wiki content built with Laravel](https://github.com/BookStackApp/BookStack)

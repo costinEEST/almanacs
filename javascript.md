@@ -170,6 +170,10 @@
 
 - [Functions that will give you a feeling of how machines can actually "learn"](https://github.com/trekhleb/nano-neuron)
 
+### coercion 
+
+- https://github.com/dorey/JavaScript-Equality-Table
+
 ### BigInt
 
 - https://github.com/juanelas/bigint-crypto-utils
@@ -417,7 +421,7 @@
 - https://github.com/jawj/web-scraping-for-researchers
 - https://twitter.com/SonarSource/status/1469321227248582659 + https://twitter.com/garethheyes/status/1469011117133418500
 
-### Document Object Model
+### Document Object Model (DOM)
 
 - [Common tasks of managing HTML DOM with vanilla JavaScript.](https://htmldom.dev)
 - https://danlevy.net/you-may-not-need-axios
@@ -445,6 +449,7 @@
 - [DOM Traversing and Scraping using GraphQL](https://github.com/syrusakbary/gdom)
 - [Collection of functions used for DOM manipulations](https://github.com/revolter/min)
 - [Fire mouse events when a user intends it](https://github.com/tristen/hoverintent)
+- https://github.com/0xGodson/blogs/blob/master/_posts/2022-07-21-art-of-dom-clobbering.md
 
 ### Single-page application
 

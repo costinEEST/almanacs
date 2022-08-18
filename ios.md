@@ -38,6 +38,7 @@
 - https://medium.com/fantageek/best-places-to-learn-ios-development-85ebebe890cf
 - https://thebackend.dev/ios-development
 - https://github.com/futurice/ios-good-practices
+- https://naehrdine.blogspot.com/2022/05/iphone-setup-for-reversing-and-debugging.html
 
 ### Hardware
 

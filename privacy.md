@@ -44,6 +44,7 @@
 - https://arstechnica.com/information-technology/2022/04/a-year-after-apple-enforces-app-tracking-policy-covert-ios-tracking-remains
 - [Bluetooth signals can be used to identify and track smartphones](https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints)
 - https://edition.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html
+- https://github.com/baltpeter/ios-privacy-violations
 
 ### Software
 

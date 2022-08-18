@@ -9,6 +9,8 @@
 - https://github.com/Nitin96Bisht/Java-Books
 - https://blogs.oracle.com/javamagazine/post/junit-in-action-third-edition
 - https://github.com/dschadow/Java-Web-Security
+- https://www.eviltester.com/page/books/java-for-testers
+- https://twitter.com/laurspilca/status/1559914316115107841
 
 ### Cinema
 
@@ -17,6 +19,12 @@
 - [Comparing programming languages | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYhKCP2zuXqe2ubiXab5az36)
 - [build a basic translation platform using Java, Springboot, TypeScript, React and MYSQL | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYjWVQi6oyf332N4R7ZG-AOS)
 - https://www.youtube.com/c/JavaChallengers/playlists
+- https://passthesalt.ubicast.tv/videos/finding-java-deserialization-gadgets-with-codeql
+- [The art of debugging Java apps | Laur Spilca](https://www.youtube.com/playlist?list=PLEocw3gLFc8VnqVumlrVtj3F0H54JJmM5)
+
+### Community 
+
+- https://twitter.com/CodesOtto/status/1559482556092907521
 
 ### Course
 

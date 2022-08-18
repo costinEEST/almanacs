@@ -20,6 +20,7 @@
 * [10 Gigabit Home LAN](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ61KhM14oJMY1TiI5tU4txd)
 * [Mike Dinn about his time as Station Director of the Honeysuckle Creek tracking station that helped land humans on the moon](https://twitter.com/cliffordheath/status/1529420879742267392)
 * https://github.com/doegox/awesome-rfid-talks
+* https://passthesalt.ubicast.tv/videos/use-of-machine-and-deep-learning-on-rf-signals
 
 ### Book
 
@@ -248,6 +249,7 @@
 - [Learning HTTP Security Headers | Liran Tal](https://leanpub.com/securityheaders/read_full)
 - https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254
 - https://simonhearne.com/2022/caching-header-best-practices
+- https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html
 
 ### HTTPS
 
