@@ -76,6 +76,7 @@
 - https://blog.robertelder.org/regular-expressions + https://www.youtube.com/playlist?list=PLp31D6HATKfdc5PSJTx7rIvlTLCSM5nDi
 - [YouTube Channels to Level Up Your Programming Skills](https://news.ycombinator.com/item?id=24589474)
 - https://github.com/riti2409/Resources-for-preparation-Of-Placements
+- https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck
 
 ### Articles
 

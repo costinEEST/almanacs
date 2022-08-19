@@ -3,6 +3,7 @@
 - https://vladris.com/blog/2020/12/29/recommendations.html
 - [The Little ASP.NET Core Book, a friendly introduction to web programming and ASP.NET Core 2.0](https://github.com/nbarbettini/little-aspnetcore-book)
 - https://github.com/MarkPThomas/HeadFirst-OOAD
+- [Blazor books](https://twitter.com/Telerik/status/1560302174470553602)
 
 ### Cinema
 
@@ -11,6 +12,7 @@
 - https://github.com/dotnet-presentations/dotnet-maui-workshop
 - https://patricia.no/learning_csharp.html
 - [Tool Dev For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d)
+- [Planning, designing, and coding a Blazor site from scratch](https://www.youtube.com/playlist?list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI)
 
 ### Community
 

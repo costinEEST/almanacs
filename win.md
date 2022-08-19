@@ -2,6 +2,11 @@
 
 - [Windows 11 From Beginner to Advanced](https://www.amazon.com/dp/B09HG2RV9X)
 - [Windows Kernel Programming](https://github.com/Truneski/WindowsKernelProgramming-Exercises)
+- https://www.amazon.com/Old-New-Thing-Development-Throughout/dp/0321440307
+
+### Community 
+
+- [Raymond Chen](https://devblogs.microsoft.com/oldnewthing/author/oldnewthing)
 
 ### How to
 
@@ -109,3 +114,4 @@
 ### Radio
 
 - https://www.theverge.com/22807858/tiktok-influencer-microsoft-excel-instagram-decoder-podcast
+- https://codingafterwork.se/episodes/6e49ba22-1acd-487f-833e-dc7d0c565e13

@@ -16,6 +16,8 @@
 - https://cpulator.01xz.net/?sys=arm-de1soc + https://www.youtube.com/playlist?list=PL2EF13wm-hWAlQe87UB2HV0SVhBXFpXbn + https://www.udemy.com/course/introduction-to-assembly-programming-with-arm
 - [ARM Assembly Reference Manual for iOS, iPadOS, and macOS](https://github.com/evilpenguin/ARMRef)
 - [what's the most convenient way of lifting x86-64 and ARM64 assembly to SMT these days?](https://twitter.com/halvarflake/status/1556976089456582656)
+- [The AArch64 processor (aka arm64)](https://devblogs.microsoft.com/oldnewthing/20220726-00/?p=106898)
+- https://kddnewton.com/2022/08/11/aarch64-bitmask-immediates.html
 
 ### Book
 

@@ -250,6 +250,7 @@
 - https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254
 - https://simonhearne.com/2022/caching-header-best-practices
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html
+- https://www.holovaty.com/writing/framebust-native-apps
 
 ### HTTPS
 

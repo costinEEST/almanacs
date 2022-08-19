@@ -104,6 +104,7 @@
 - https://height.app/blog/guide-to-build-context-menus
 - https://www.deceptive.design + https://youtu.be/ZN9wRcC3O4I
 - https://www.facebook.com/vitaly.friedman
+- https://uxdesign.cc/in-praise-of-the-spreadsheet-eb31e2f6691d
 
 ### Portfolio
 
