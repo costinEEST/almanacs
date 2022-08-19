@@ -226,6 +226,8 @@
 - https://github.com/elight/slack_emoticon_inhaler
 - [Browser extension that adds a table of contents to GitHub repos, wikis and gists](https://github.com/arthurhammer/github-toc)
 - [Translate Japanese by hovering over words](https://github.com/birchill/10ten-ja-reader)
+- [Remove the algorithmic content from Twitter, hide news & trends, lets you control which shared tweets appear on your timeline](https://github.com/insin/tweak-new-twitter)
+- [Automatically fill out cookie popups based on your preferences](https://github.com/cavi-au/Consent-O-Matic)
 
 ### Bookmarklets
 

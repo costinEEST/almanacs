@@ -21,3 +21,7 @@
 
 - https://github.com/avar/private-dan-carlin-hardcore-history-podcast-feed
 - https://www.perl.com/article/extracting-the-list-of-o-reilly-animals + https://gist.github.com/briandfoy/d68915eb425e1fc4932ceac5cdf2d60d + https://www.oreilly.com/animals.csp
+
+### Scrapping 
+
+- https://github.com/juliensobrier/Net-Google-SafeBrowsing2

@@ -218,6 +218,7 @@
 - https://github.com/fravoll/solidity-patterns
 - https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 - https://backoffice.eattheblocks.com/the-ultimate-solidity-0-8-cheatsheet
+- [The Ruby Programming Language for Contract / Transaction Scripts on the Blockchain](https://github.com/s6ruby)
 
 ### Non fungible tokens
 

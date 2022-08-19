@@ -195,6 +195,7 @@
 - https://www.visualcapitalist.com/the-worlds-biggest-startups-top-unicorns-of-2021
 - https://www.notboring.co/p/replit-remix-the-internet
 - https://davidvargas.me/blog/learning_about_teachable
+- https://github.com/dakshshah96/awesome-startup-credits
 
 ### Investing
 

@@ -254,6 +254,7 @@
 ### HTTPS
 
 - https://github.com/EFForg/https-everywhere
+- https://github.com/juliensobrier/https-erverywhere-ie
 - https://howhttps.works/episodes
 - https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html
 - [fetch the TLS cert from a given site](https://www.netmeister.org/whatsthatcert)

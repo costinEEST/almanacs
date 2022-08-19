@@ -25,7 +25,7 @@
 - [Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30) + [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/en/book/show/530415) + https://jamesclear.com/great-speeches/learning-to-learn-by-richard-hamming
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
 - https://github.com/mvillaloboz/open-source-cs-degree
-- https://github.com/ddd-crew/free-ddd-learning-resources
+
 
 ### Cinema
 
@@ -70,6 +70,7 @@
 - http://nature-of-order.stefan-lesser.com/alexanders-foreword-to-patterns-of-software
 - https://www.codeflashbacks.com/overlooked-books
 - [Competitive Programmer’s Handbook | Antti Laaksonen](https://cses.fi/book/book.pdf)
+- https://github.com/very-good-science/data-ethics-club
 
 ### Date and Time on the Internet: Timestamps
 
@@ -139,6 +140,8 @@
 - https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S + https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8
 - https://eventmodeling.org/resources
 - https://tilkov.com/post/2021/03/01/ddd-is-overrated
+- https://github.com/ddd-crew/ddd-starter-modelling-process
+- https://github.com/ddd-crew/free-ddd-learning-resources
 
 ### Encoding
 
@@ -193,6 +196,7 @@
 - https://dev.to/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-3e0m
 - https://github.com/NLeSC/awesome-research-software-registries
 - https://iq.opengenus.org/array-indices-start-from-1
+- https://sijinjoseph.com/programmer-competency-matrix
 
 ### Radio
 

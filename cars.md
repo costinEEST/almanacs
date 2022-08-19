@@ -2,6 +2,10 @@
 
 - https://www.udemy.com/course/hybrid-and-electric-vehicle-for-beginners-full-course-2021
 
+### Community 
+
+- [Vânzari Auto / Schimburi - Car Dealer](https://www.facebook.com/groups/bucuresti.giurgiu)
+
 ### Repair
 
 - https://www.youtube.com/user/PaintballOO7/playlists

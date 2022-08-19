@@ -143,6 +143,10 @@
 ### Community
 
 - [Newsletters](newsletters.md#ruby)
+- http://planetruby.github.io
+- https://planetruby.github.io/meetups
+- https://github.com/planetruby/awesome-rubies
+- https://github.com/rubyperu/rubyperu.github.com/wiki
 - https://github.com/dreikanter/ruby-bookmarks
 - https://speakerdeck.com/eileencodes/the-success-of-rails-ensuring-growth-for-the-next-100-years
 - https://github.com/takahashim/ruby-history
@@ -234,6 +238,7 @@
 ### Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems) + https://nts.strzibny.name/ruby-stdlib-default-bundled-gems + https://gist.github.com/boue/9540965
+- https://github.com/planetruby/gems
 - https://github.com/JoshCheek/seeing_is_believing
 - https://www.brianstorti.com/creating-a-rubygems-plugin
 - [What’s the first 5 gems you add to every “rails new” project?](https://twitter.com/RailsRecruiter/status/1551961131220189188)
@@ -332,6 +337,7 @@
 - https://www.sitepoint.com/exit-exit-abort-raise-get-me-outta-here
 - [Redefine the unary operators](https://stackoverflow.com/a/40072337/1904223)
 - [`[*array1, *array2, ...]` is slightly slower than `array1 + array2 + ...`](https://gist.github.com/postmodern/83731685900fb851ee799026ba46e087)
+- [The State of Bool](https://github.com/geraldb/talks/blob/master/bool.md)
 
 ### Opinion
 
@@ -364,6 +370,7 @@
 
 ### Practice
 
+- https://github.com/planetruby/quiz
 - https://github.com/alexpeattie/letsencrypt-fromscratch
 - https://github.com/practical-tutorials/project-based-learning#ruby
 - https://github.com/Haseeb-Qureshi/Algorithms-Study-Group
@@ -445,6 +452,7 @@
 - https://schwad.github.io/ruby/rails/rspec/tdd/2017/04/10/leveling-up-tdd-with-e.html
 - [Consider linting your factories](https://twitter.com/siaw23/status/1554128777382400002)
 - https://github.com/wolframarnold/Efficient-Test-Driven-Rails-Development + https://www.youtube.com/watch?v=9cNcnFxyixs
+- https://www.stevenrbaker.com/tech/history-of-rspec.html
 
 ### Radio
 
@@ -472,6 +480,7 @@
 - [Ruby gem to inspect completely a web page. It scrapes a given URL, and returns you its meta, links, images](https://github.com/davidesantangelo/webinspector)
 - https://kevinjmurphy.com/posts/scraping-buy
 - https://github.com/marcgg/List-of-Country-Names-and-Associated-Locales
+- https://github.com/juliensobrier/google-safe-browsing-lookup-ruby
 
 ### Static generator
 

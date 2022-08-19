@@ -198,6 +198,7 @@
 - https://alexwlchan.net/2019/11/saving-a-copy-of-a-tweet-by-typing-twurl
 - https://github.com/mtayseer/infoq-downloader
 - https://github.com/VikParuchuri/apartment-finder
+- https://github.com/juliensobrier/google-safe-browsing-lookup-python
 
 ### Static website 
 

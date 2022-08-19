@@ -122,6 +122,7 @@
 - [Ruby](ruby.md)
 - [Rust](rust.md)
 - [Scala](scala.md)
+- [Smalltalk](smalltalk.md)
 - [Speak!](speak.md)
 - [Spirituality](spirit.md)
 - [Sports](sport.md)
