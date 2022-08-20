@@ -152,6 +152,7 @@
 ### Border Gateway Protocol (BGP)
 
 - https://ixpm.interlan.ro/peering-matrix + https://github.com/inex/IXP-Manager
+- [how we deployed a datacenter in one click](https://vincent.bernat.ch/en/blog/2021-frnog34-jerikan)
 
 ### IP
 
@@ -259,6 +260,7 @@
 - https://howhttps.works/episodes
 - https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html
 - [fetch the TLS cert from a given site](https://www.netmeister.org/whatsthatcert)
+- https://vincent.bernat.ch/en/blog/2011-ssl-session-reuse-rfc5077
 
 ### HTTP2
 
@@ -284,6 +286,7 @@
 - https://twitter.com/infosec_scarlet/status/1354528499105636353
 - https://blog.zsec.uk/proxying-offensive
 - https://fowlie.github.io/2017/11/28/jump-to-server-and-change-user-without-password-with-pass-and-expect-and-bash
+- https://vincent.bernat.ch/en/blog/2021-rsync-ssh-two-remotes
 
 ### Jaber
 
@@ -394,3 +397,4 @@
 - https://github.com/n0x08/ConferenceTalks/blob/master/BecomeLoadbalancer_TR22.pdf
 - https://github.com/Attacks-on-Tor/Attacks-on-Tor
 - [OSI 7 Layer Reference Model cited around 1978](https://twitter.com/ErrataRob/status/1552076234707935232)
+- [Network lab with QEMU](https://vincent.bernat.ch/en/blog/2012-network-lab-kvm)

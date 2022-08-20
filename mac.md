@@ -60,6 +60,7 @@
 - https://blog.albingroen.com/posts/how-i-automated-my-dotfiles-screenshots
 - https://magarajay538.medium.com/android-pentesting-setup-on-macbook-m1-d2f1f0a8db4b
 - https://git.herrbischoff.com/awesome-macos-command-line/about
+- [Packaging a daemon for macOS](https://twitter.com/vince2_/status/1560017644975177731)
 
 
 ### References

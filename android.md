@@ -87,6 +87,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - [Command line tool to download Android applications directly from the Google Play Store](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader)
 - [The ingenious product that brings eSIM to any Android phone](https://blog.esper.io/android-dessert-bites-24-esim-me-1248143/)
 - https://markuta.com/magisk-root-detection-banking-apps
+- https://bajtos.net/posts/2021-12-17-apple-m1-android-emulator
 
 ### APIs
 
