@@ -98,6 +98,10 @@
 - [Python programming for finance | sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
 - https://alexwlchan.net/2019/10/sans-io-programming
 
+### Community 
+
+- https://www.facebook.com/groups/ropython
+
 ### Data structures
 
 - https://akshayr.me/blog/articles/python-dictionaries
