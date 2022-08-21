@@ -13,6 +13,32 @@
 - https://github.com/onceupon/Bash-Oneliner
 - https://licenciaparahackear.github.io/en/posts/filtrando-mis-contactos-del-celular-con-awk
 
+### Cheat sheet 
+
+- https://github.com/k4m4/terminals-are-sexy
+- https://github.com/dylanaraps/pure-bash-bible
+- https://www.grymoire.com/Unix/Awk.html
+- [Bash Quick References](https://shellmagic.xyz)
+- https://wiki.bash-hackers.org
+- https://elder.dev/posts/safer-bash
+- https://betterdev.blog/minimal-safe-bash-script-template + https://news.ycombinator.com/item?id=25428621
+- https://drewdevault.com/2020/12/12/Shell-literacy.html + https://news.ycombinator.com/item?id=25399058
+- https://github.com/alexcoman/labs/tree/master/bash
+- https://lucasfcosta.com/2019/04/07/streams-introduction.html
+- https://github.com/rothgar/mastering-zsh
+- https://github.com/NARKOZ/hacker-scripts
+- https://lobste.rs/s/bsv2yp/do_you_use_nodejs_for_scripting_instead
+- https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html + https://news.ycombinator.com/item?id=26899531
+- [JavaScript for Shell Scripting](https://github.com/google/zx) + https://news.ycombinator.com/item?id=27072515 
+- https://github.com/alexanderepstein/Bash-Snippets
+- https://publish.obsidian.md/davidgasquez/Handbook/Automation
+- https://github.com/you-dont-need/You-Dont-Need-GUI
+- [Bash production guide](https://twitter.com/saruspete/status/1263109895345377280) + https://www.slideshare.net/Saruspete/bash-production-guide
+- https://stevenyue.com/blogs/a-bash-function-for-sending-slack-notifications
+- https://alexwlchan.net/2015/11/quick-shell-docker
+- http://redsymbol.net/articles/unofficial-bash-strict-mode
+- https://www.anshumanbhartiya.com/posts/performing-code-review-on-shell-scripts
+
 ### Cinema
 
 - https://scriptingosx.com/bash
@@ -78,27 +104,3 @@
 - [Grab the public reports from hacker one and download all JSON files to be grepable](https://github.com/zeroc00I/AllVideoPocsFromHackerOne)
 - https://danburzo.ro/toolbox/wget
 
-### References
-
-- https://github.com/k4m4/terminals-are-sexy
-- https://github.com/dylanaraps/pure-bash-bible
-- https://www.grymoire.com/Unix/Awk.html
-- [Bash Quick References](https://shellmagic.xyz)
-- https://wiki.bash-hackers.org
-- https://elder.dev/posts/safer-bash
-- https://betterdev.blog/minimal-safe-bash-script-template + https://news.ycombinator.com/item?id=25428621
-- https://drewdevault.com/2020/12/12/Shell-literacy.html + https://news.ycombinator.com/item?id=25399058
-- https://github.com/alexcoman/labs/tree/master/bash
-- https://lucasfcosta.com/2019/04/07/streams-introduction.html
-- https://github.com/rothgar/mastering-zsh
-- https://github.com/NARKOZ/hacker-scripts
-- https://lobste.rs/s/bsv2yp/do_you_use_nodejs_for_scripting_instead
-- https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html + https://news.ycombinator.com/item?id=26899531
-- [JavaScript for Shell Scripting](https://github.com/google/zx) + https://news.ycombinator.com/item?id=27072515 
-- https://github.com/alexanderepstein/Bash-Snippets
-- https://publish.obsidian.md/davidgasquez/Handbook/Automation
-- https://github.com/you-dont-need/You-Dont-Need-GUI
-- [Bash production guide](https://twitter.com/saruspete/status/1263109895345377280) + https://www.slideshare.net/Saruspete/bash-production-guide
-- https://stevenyue.com/blogs/a-bash-function-for-sending-slack-notifications
-- https://alexwlchan.net/2015/11/quick-shell-docker
-- http://redsymbol.net/articles/unofficial-bash-strict-mode

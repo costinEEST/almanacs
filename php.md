@@ -11,6 +11,13 @@
 - [Building modern applications with PHP 8.1](https://front-line-php.com) + https://spatie.be/videos/front-line-php
 - https://leanpub.com/phptherightway
 
+
+### Cheat sheet 
+
+- https://github.com/smknstd/modern-php-cheatsheet
+- https://github.com/hgraca/explicit-architecture-php
+- https://www.markhesketh.com/switching-multiple-php-versions-on-macos
+
 ### Cinema
 
 - [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://www.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)
@@ -42,12 +49,6 @@
 
 - https://codeopinion.com/php-upload-large-file-bug
 - https://github.com/jmolivas/symfony-certification-guide
-
-
-### Reference
-
-- https://github.com/smknstd/modern-php-cheatsheet
-- https://github.com/hgraca/explicit-architecture-php
 
 ### Tool
 

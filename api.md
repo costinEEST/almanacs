@@ -172,3 +172,4 @@ curl v2.wttr.in/Bucharest
 - https://github.com/GitGuardian/APISecurityBestPractices
 - https://github.com/awesomedata/awesome-public-datasets
 - https://www.wallarm.com/what/api-security-tutorial
+- [Hacking APIs: Workshop | Corey Ball](https://sway.office.com/HVrL2AXUlWGNDHqy)

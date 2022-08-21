@@ -135,3 +135,5 @@
 - [A new bootable USB solution](https://github.com/ventoy/Ventoy)
 - [JWT brute force cracker written in C](https://github.com/brendan-rius/c-jwt-cracker)
 - https://github.com/eduardsui/ISUToCNP
+- [Lambda Calculus in 383 Bytes](https://justine.lol/lambda)
+- [Logging C Functions](https://justine.lol/ftrace)
