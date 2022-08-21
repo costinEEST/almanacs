@@ -34,6 +34,7 @@
 - https://cfe.dev/sessions/wordpress-headless-workflow
 - [Built with Next.js, headless WordPress and Netlify](https://bejamas.io/blog/backlinko-case-study)
 - https://wpengine.com/blog/faust-js-the-framework-for-headless-wordpress
+- https://danabyerly.com/tag/wordpress
 
 
 ### Opinion
@@ -48,6 +49,7 @@
 - https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
 - [Put your WordPress site in headless mode -- wp-admin, wp-rest-api and wp-graphql only.](https://github.com/Shelob9/headless-mode)
 - https://github.com/woocommerce/woocommerce-gutenberg-products-block
+- https://github.com/stars/benbalter/lists/wordpress
 
 ### Security
 

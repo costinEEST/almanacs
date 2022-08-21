@@ -167,6 +167,7 @@
 ### Domain Name System (DNS)
 
 - [DNSSEC Deconstructed](https://dkp.ldd.org/2019/10/21/dnssec.html)
+- https://carlos.bueno.org/2009/11/dismal-guide-to-dns.html
 - [Is it Possible to Identify DNS over HTTPs Without Decrypting TLS?](https://twitter.com/johullrich/status/1207706977251549192)
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-dns-servers
 - [cloudflare_ddns_updater](https://gist.github.com/howanghk/f955764f33bf9db7a86c)

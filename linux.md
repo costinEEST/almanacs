@@ -9,6 +9,7 @@
 - https://digital.com/best-website-builders/linux
 - https://twitter.com/AlSweigart/status/1524772876490006533
 - [The Linux Programming Interface](https://twitter.com/littledan/status/1550352392356372480)
+- [The Linux Memory Manager](https://ljs.io/book.html)
 
 ### Cinema
 

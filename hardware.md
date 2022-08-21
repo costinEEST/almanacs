@@ -40,6 +40,15 @@
 - [From NAND To Tetris](https://www.youtube.com/playlist?list=PLu6SHDdOToSdD4-c9nZX2Qu3ZXnNFocOH)
 - [Basic Electronic Theory | Cyber City Circuits](https://www.youtube.com/playlist?list=PLD-QkTadkQVPEzlnE6uiG2iREgkCIB6oH)
 
+### Cheat sheet
+
+- https://github.com/SoCFPGA-learning/General/blob/main/resources.md
+- [How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art)
+- https://github.com/ma-sujithkumar/Energy-Efficient-Home
+- https://github.com/penberg/awesome-low-latency + https://twitter.com/penberg/status/1531541606100258816
+- https://arslan.io/2022/07/04/designing-a-wireless-charging-pad-from-scratch
+- https://arslan.io/2022/06/11/how-i-got-into-3d-printing
+
 ### Community
 
 - http://mightyohm.com/wiki
@@ -205,10 +214,3 @@
 
 - http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1964_09-10.pdf + https://twitter.com/paulg/status/1376082495041589250
 - https://panic.com/blog/a-prototype-original-ipod
-
-### Reference
-
-- https://github.com/SoCFPGA-learning/General/blob/main/resources.md
-- [How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art)
-- https://github.com/ma-sujithkumar/Energy-Efficient-Home
-- https://github.com/penberg/awesome-low-latency + https://twitter.com/penberg/status/1531541606100258816

@@ -76,6 +76,7 @@
 - https://blog.ngzhian.com/awk.html
 - https://www.robjwells.com/2021/02/how-to-wrap-bc-to-do-calculations
 - [Grab the public reports from hacker one and download all JSON files to be grepable](https://github.com/zeroc00I/AllVideoPocsFromHackerOne)
+- https://danburzo.ro/toolbox/wget
 
 ### References
 

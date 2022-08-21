@@ -7,6 +7,7 @@
 - [Internet of Things: Foundations and Applications (2015)](http://dret.net/lectures/iot-spring15)
 - https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems
 - https://github.com/Developer-Y/cs-video-courses#embedded-systems
+- https://github.com/microsoft/IoT-For-Beginners
 
 ### Arduino
 

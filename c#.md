@@ -4,6 +4,7 @@
 - [The Little ASP.NET Core Book, a friendly introduction to web programming and ASP.NET Core 2.0](https://github.com/nbarbettini/little-aspnetcore-book)
 - https://github.com/MarkPThomas/HeadFirst-OOAD
 - [Blazor books](https://twitter.com/Telerik/status/1560302174470553602)
+- https://www.amazon.com/Parallel-Programming-Concurrency-NET6-asynchronous/dp/1803243678
 
 ### Cinema
 

@@ -32,6 +32,7 @@
 ### Course
 
 - [Unconventional Ways to Learn More Online](https://jaredtumiel.github.io/blog/2020/05/12/three-rules.html)
+- https://github.com/microsoft/ML-For-Beginners
 - https://ttumiel.github.io/blog/getting-into-ml
 - https://github.com/CryptoSoc/fastai-lessons
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months

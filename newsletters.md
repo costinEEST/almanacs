@@ -253,6 +253,7 @@
 - [Andy Ricker](https://andyricker.substack.com/archive)
 - [Ruth Reichl](https://ruthreichl.substack.com/archive)
 - [Richard Godwin - A book club but for cocktails](https://thespirits.substack.com)
+- [Oana Vasiliu](https://umamimoments.substack.com/archive)
 
 ### Health
 

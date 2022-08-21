@@ -28,6 +28,7 @@
 - [Game Engine Black Book DOOM](https://fabiensanglard.net/gebbdoom)
 - [Art of Assembly Language Programming and HLA by Randall Hyde](https://news.ycombinator.com/item?id=28679549)
 - https://github.com/jagregory/abrash-zen-of-asm
+- [Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architecture Book | Igor Zhirkov](https://twitter.com/embeddedgus/status/1554874891307982853)
 
 ### Course
 

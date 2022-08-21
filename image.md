@@ -15,6 +15,10 @@
 - https://petapixel.com/2022/07/29/these-are-the-most-famous-photos-of-all-time-according-to-a-new-study
 - https://www.shutterstock.com/blog/amusement-parks-history
 
+### Cinema 
+
+- [Lectures on Digital Photography | Marc Levoy](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i)
+
 ### Formats
 
 - https://www.media.mit.edu/pia/Research/deepview/exif.html
@@ -24,6 +28,7 @@
 
 ### Tool
 
+- https://danburzo.ro/digitizing-books
 - [Poor man's document camera for videoconference.](https://news.ycombinator.com/item?id=22660301)
 - [A frame by frame GIF editor with Photoshop vibes](https://news.ycombinator.com/item?id=22696179)
 - [Photo Realistic QR-Codes](https://news.ycombinator.com/item?id=24158125)

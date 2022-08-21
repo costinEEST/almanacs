@@ -186,6 +186,7 @@
 ### Keith Rabois
 
 - https://medium.com/@rabois/reading-list-604c88ecefa4
+- https://davidsnotes.substack.com/p/keith-rabois-key-lessons-from-peter
 
 ### Kevin Kelly
 
@@ -250,6 +251,10 @@
 ### Joe McCray
 
 - https://www.slideshare.net/joemccray/presentations
+
+### John D. Rockefeller
+
+- https://founders.simplecast.com/episodes/254-john-d-rockefeller-the-founding-father-of-the-rockefellers
 
 ### Satya Nadella
 

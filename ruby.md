@@ -218,6 +218,7 @@
 - [How do programmers get better at debugging?](https://twitter.com/ThomasCountz/status/1533573484051189760)
 - https://planetscale.com/blog/identifying-slow-rails-queries-with-sqlcommenter
 - https://perlun.eu.org/en/2017/08/24/debugging-hard-to-reproduce-ruby-memory-leaks
+- https://dev.to/kanani_nirav/debugging-a-ruby-on-rails-application-in-visual-studio-code-20fk
 
 ### Deploy
 
@@ -338,6 +339,7 @@
 - [Redefine the unary operators](https://stackoverflow.com/a/40072337/1904223)
 - [`[*array1, *array2, ...]` is slightly slower than `array1 + array2 + ...`](https://gist.github.com/postmodern/83731685900fb851ee799026ba46e087)
 - [The State of Bool](https://github.com/geraldb/talks/blob/master/bool.md)
+- https://hashrocket.com/blog/posts/using-match-vs-equals-tilde-in-ruby
 
 ### Opinion
 
@@ -416,6 +418,7 @@
 - https://hanamimastery.com/episodes/23-rubocop-most-frustrating-to-most-loved
 - [Download file from Yandex.Disk through share link](https://github.com/Yegorov/yadisk)
 - https://ucarion.com/ruby-rbs-codegen
+- [create directory and file structure](https://gitlab.com/mindaslab/mk3)
 
 ### Testing
 
@@ -488,3 +491,4 @@
 - https://github.com/pawelpacana/nanoc-github
 - https://github.com/github/personal-website
 - [What's a simple way to serve static files locally in Ruby?](https://twitter.com/joeldrapper/status/1559144086120038401)
+- https://ben.balter.com/2022/06/30/helpful-404s-for-jekyll-and-github-pages

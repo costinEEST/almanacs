@@ -86,6 +86,7 @@
 - https://github.com/mendel5/alternative-front-ends
 - https://setproduct.com/blog/badge-ui-design
 - https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs
+- [Traffic lights of the future](https://www.artlebedev.com/svetoforus/4)
 
 
 ### User experience

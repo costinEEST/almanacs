@@ -145,6 +145,7 @@
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet-ng.org/)
 - [In our CCS 2014 paper, The Web Never Forgets, we measure three advanced tracking mechanisms, canvas fingerprinting, cookie respawning, and cookie syncing](https://github.com/citp/TheWebNeverForgets)
 - https://bajtos.net/posts/2022-01-privacy-friendly-web-analytics
+- [Tracking user activation](https://macwright.com/2022/07/11/activation.html)
 
 
 ### Social media
