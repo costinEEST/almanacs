@@ -39,6 +39,8 @@
 - https://blog.albingroen.com/posts/my-ultimate-hacking-keyboard-review
 - https://www.johnhawthorn.com/2020/05/building-a-homemade-keyboard
 - https://github.com/AndyDoering/Keyboards
+- https://github.com/stars/KingOfSpades/lists/mechanical-keyboards
+- https://github.com/BenRoe/awesome-mechanical-keyboard
 
 ### Microphone
 

@@ -58,6 +58,7 @@
 - https://shopify.engineering/upgrading-mysql-shopify
 - [SQL Designer, your online SQL diagramming tool](https://github.com/ondras/wwwsqldesigner)
 - https://thomasjfrank.com/notion-databases-the-ultimate-beginners-guide + https://twitter.com/TomFrankly/status/1532771931073744897
+- [You can feed sqlmap swagger files](https://twitter.com/nullenc0de/status/1561890469541564416)
 
 
 ### Hacks
