@@ -173,3 +173,4 @@ curl v2.wttr.in/Bucharest
 - https://github.com/awesomedata/awesome-public-datasets
 - https://www.wallarm.com/what/api-security-tutorial
 - [Hacking APIs: Workshop | Corey Ball](https://sway.office.com/HVrL2AXUlWGNDHqy)
+- [Automagically reverse-engineer REST APIs via capturing traffic](https://github.com/alufers/mitmproxy2swagger)

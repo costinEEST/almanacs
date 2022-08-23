@@ -341,6 +341,7 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/internationalization.md
 - https://github.com/danilowoz/react-content-loader
 - [Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
+- [Wrapper for Material Design (Web) Components](https://github.com/rmwc/rmwc)
 
 ### Debugging
 

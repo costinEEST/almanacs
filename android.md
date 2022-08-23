@@ -88,6 +88,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - [The ingenious product that brings eSIM to any Android phone](https://blog.esper.io/android-dessert-bites-24-esim-me-1248143/)
 - https://markuta.com/magisk-root-detection-banking-apps
 - https://bajtos.net/posts/2021-12-17-apple-m1-android-emulator
+- [Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device](https://github.com/0x192/universal-android-debloater)
 
 ### APIs
 
@@ -120,6 +121,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - https://github.com/gfx/android-oss-best-practices
 - https://github.com/PixelExperience/packages_resources_devicesettings
 - https://blog.esper.io/distribute-apps-without-google-play
+- https://sal.dev/android/android-live-wallpaper
 
 ### Opinion
 

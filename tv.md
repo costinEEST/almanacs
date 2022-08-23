@@ -1,3 +1,7 @@
+### Book 
+
+- https://www.amazon.com/Star-Wars-Rings-Hidden-Structure-ebook/dp/B074NZCFWT
+
 ### Community
 
 - [I want to watch some excellent explainer videos.](https://twitter.com/davidmcraney/status/1452993213850136585)
@@ -52,6 +56,7 @@
 - https://faroutmagazine.co.uk/the-20-greatest-horror-films-of-21st-century
 - https://en.wikipedia.org/wiki/Captain_Phillips_%28film%29
 - [R.M.N](https://www.libertatea.ro/entertainment/intalnire-multietnica-intensa-la-proiectia-filmului-lui-mungiu-in-harghita-4158454)
+- https://faroutmagazine.co.uk/10-most-disappointing-movies-all-time
 
 ### Tools
 

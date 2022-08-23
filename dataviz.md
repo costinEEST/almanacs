@@ -42,6 +42,10 @@
 - [Data Journalism and Visualization with Free Tools](https://journalismcourses.org/resource/DATA0819.html)
 - https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course
 
+### Community 
+
+- https://github.com/jhuangtw/awesome-data
+
 ### Best practices
 
 - https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf

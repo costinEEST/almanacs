@@ -25,6 +25,7 @@
 - https://alexshakespeare.com/2021/12/world-window + https://github.com/shakso/WorldWindow
 - https://ncot.uk/arduino/debugging-z80-with-arduino
 - https://github.com/curiores/ArduinoTutorials
+- https://github.com/b3cft/lhsArduinoCourse
 
 ### CLP5010
 

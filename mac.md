@@ -10,6 +10,22 @@
 - https://medium.com/fantageek/i-create-an-app-to-tweak-hidden-settings-and-extra-utilities-on-mac-7c022ea24663
 - [What are some good open-source macOS apps you can't live without?](https://twitter.com/onmyway133/status/1488610069717606400)
 
+### Cheat sheet
+
+- [I sell my macOS apps in my own store](https://christiantietze.de/fastspring)
+- https://isapplesiliconready.com/for/developer
+- https://amanhimself.dev/blog/setup-macbook-m1
+- https://github.com/drduh/macOS-Security-and-Privacy-Guide
+- https://github.com/ernw/hardening/tree/master/operating_system/osx
+- https://github.com/eieioxyz/Beyond-Dotfiles-in-100-Seconds
+- [Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond)
+- [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary)
+- [sudo nvram boot-args=”-v” before applying a patch.](https://twitter.com/Dave_Maynor/status/1438220468650139652)
+- [MacOS / Linux Filesystem Adventures](https://gist.github.com/balupton/8b6e9ce0738b35ff2bc764c21dea7a51)
+- https://github.com/jonathanong/osx-webdev-setup
+- https://devdad.life/blog/eject-all-button-for-macos
+- https://sal.dev/macos/macos-screenshotting-tips-and-tricks
+
 ### Development
 
 - https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store
@@ -62,22 +78,8 @@
 - https://git.herrbischoff.com/awesome-macos-command-line/about
 - [Packaging a daemon for macOS](https://twitter.com/vince2_/status/1560017644975177731)
 - [A highly customizable macOS status bar replacement](https://github.com/FelixKratz/SketchyBar)
+- https://sal.dev/open-source/adding-kotlin-interactive-shell-to-homebrew
 
-
-### References
-
-- [I sell my macOS apps in my own store](https://christiantietze.de/fastspring)
-- https://isapplesiliconready.com/for/developer
-- https://amanhimself.dev/blog/setup-macbook-m1
-- https://github.com/drduh/macOS-Security-and-Privacy-Guide
-- https://github.com/ernw/hardening/tree/master/operating_system/osx
-- https://github.com/eieioxyz/Beyond-Dotfiles-in-100-Seconds
-- [Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond)
-- [Reverse-Engineering Apple Dictionary](https://fmentzer.github.io/posts/2020/dictionary)
-- [sudo nvram boot-args=”-v” before applying a patch.](https://twitter.com/Dave_Maynor/status/1438220468650139652)
-- [MacOS / Linux Filesystem Adventures](https://gist.github.com/balupton/8b6e9ce0738b35ff2bc764c21dea7a51)
-- https://github.com/jonathanong/osx-webdev-setup
-- https://devdad.life/blog/eject-all-button-for-macos
 
 ### Security
 
@@ -85,3 +87,4 @@
 - [Does Apple really log every app you run?](https://blog.jacopo.io/en/post/apple-ocsp)
 - https://github.com/0xmachos/Apple-Platform-Security-Guides
 - https://briandfoy.github.io/putting-environment-values-in-the-keychain
+- [Configure Mutt to work with Gmail + GPG on Mac OS X](https://gist.github.com/syncom/6b77792adb59ccdaa5d36b30273abc33)

@@ -49,6 +49,8 @@
 ### Community 
 
 - [The modern security stack](https://twitter.com/jack_naglieri/status/1507405816701198337)
+- https://www.fastcompany.com/most-creative-people/list
+- https://github.com/jhuangtw/TechCareerNotes
 
 ### Marketing
 

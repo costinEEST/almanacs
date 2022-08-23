@@ -84,6 +84,7 @@
 - https://tnickel.de/2020/12/24/2020-12-How-I-replaced-google-analytics-on-my-website
 - https://blog.techfund.jp/p/using-rust-for-writing-nodejs-modules
 - https://github.com/nearform/slow-rest-api
+- Design and Implementation of a Node.js Framework for the Development of RESTful APIs: https://github.com/matthyk/bachelor_thesis, https://github.com/matthyk/rosmarin
 
 ### Book
 
@@ -429,7 +430,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/testjavascript/nodejs-integration-tests-best-practices
 - https://github.com/qunabu/strapi-unit-test-example
 
-### Web servers
+### Server
 
 - https://gist.github.com/willurd/5720255#gistcomment-3142965
 - https://www.slideshare.net/Codemotion/paulo-lopes-10-things-i-learned-making-the-fastest-js-server-runtime-in-the-world-codemotion-amsterdam-2019
@@ -453,6 +454,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Example on how to implement an HTTP/2 client and server in Node.js](https://github.com/sohamkamani/node-http2-example)
 - https://jaxenter.com/load-balancing-round-robin-164101.html + https://twitter.com/Kikobeats/status/1437770919456514057
 - https://leanpub.com/thenodejsclustermodule
+- [Implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google](https://github.com/scality/cloudserver)
 
 ### Scrapping
 

@@ -10,6 +10,7 @@
 
 - [Building modern applications with PHP 8.1](https://front-line-php.com) + https://spatie.be/videos/front-line-php
 - https://leanpub.com/phptherightway
+- https://adayinthelifeof.nl/books
 
 
 ### Cheat sheet 

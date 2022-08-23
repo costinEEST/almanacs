@@ -37,7 +37,7 @@
 - https://github.com/obensource/dev-resources/blob/master/classic-films.md
 - [FPGA computing systems: Background knowledge and introductor](https://www.youtube.com/playlist?list=PL2jykFOD1AWaFLEJm5H4GhRhPX_Ffi0wh)
 - [Open source low cost 3D printable nanopositioner | Edwin Hwu](https://www.youtube.com/playlist?list=PLu3g1bSKNvea5Te0lFSqtd8AIK4uVeLH7)
-- [From NAND To Tetris](https://www.youtube.com/playlist?list=PLu6SHDdOToSdD4-c9nZX2Qu3ZXnNFocOH)
+- [From NAND To Tetris](https://www.youtube.com/playlist?list=PLu6SHDdOToSdD4-c9nZX2Qu3ZXnNFocOH) + https://nandgame.com/about
 - [Basic Electronic Theory | Cyber City Circuits](https://www.youtube.com/playlist?list=PLD-QkTadkQVPEzlnE6uiG2iREgkCIB6oH)
 
 ### Cheat sheet

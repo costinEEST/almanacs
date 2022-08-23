@@ -185,6 +185,7 @@
 - https://www.youtube.com/playlist?list=PLYVl5EnzwqsSR1KFlOnsG0uSKLN5ai_1w
 - https://www.fhautism.com/shop/the-outdoor-scientist-the-wonder-of-observing-the-natural-world
 - https://www.udemy.com/course/fostering-creativity-in-children
+- https://github.com/jhuangtw/awesome-lego
 
 ### Mindfulness
 
@@ -222,4 +223,5 @@
 
 - https://divu.in/cooking
 - [Make Pizza: Instructional Videos - The Pizza Book](https://www.youtube.com/playlist?list=PLhpdihPT7EFVGJzIMaEjIdsd5dDxbUs-p)
+- [seven essential cookbooks](https://archive.ph/ZPOCJ)
 

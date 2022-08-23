@@ -32,7 +32,7 @@
 - [CashFlow 101 board game](https://github.com/NathanStrutz/cashflow-balance-sheet)
 - https://live.df2px94bfzu8t.amplifyapp.com/pages/janae/my-odyssey-in-teaching-kids-scratch-part-2
 - [Wordle clone made using React, Typescript, and Tailwind](https://github.com/cwackerfuss/react-wordle)
-
+- nandgame.com: https://twitter.com/alokmenghrajani/status/1559503563423973378, https://www.facebook.com/alok/posts/pfbid02mW5BbXSRBZV43y4k9CSwDsrJeMbenSvng3tAkwNf4gK6bK53zXqJyqiRc8ittouRl
 
 ### Mobile based
 
@@ -83,6 +83,7 @@
 - [Solving Wordle using information theory](https://github.com/3b1b/videos/tree/master/_2022/wordle)
 - http://cristian.francu.com/games
 - https://github.com/Poussinou/FLOSS-Games-on-Steam
+- https://www.quaxio.com/kaleidoscope_part1
 
 ### The creators
 

@@ -143,3 +143,4 @@
 - [David A. Smith](https://dacvs.neocities.org)
 - [Burkard Polster](https://www.youtube.com/c/Mathologer/playlists)
 - [Jeremy Kun](https://mobile.twitter.com/jeremyjkun/status/1079443879709929472)
+- [Andrej Bauer](https://www.youtube.com/user/bauerandrej/playlists)

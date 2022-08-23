@@ -27,6 +27,8 @@
 - [Look up doctors and other healthcare providers in the U.S](https://github.com/fpsvogel/doctorlookup)
 - https://twitter.com/siaw23/status/1544691284648116226 + [Scrapes Ruby and Rails events from sites as JSON](https://github.com/siaw23/ruby_events_api)
 - [Ruby way to use the Pwned Passwords API](https://github.com/philnash/pwned)
+- https://github.com/stars/colinloretz/lists/api-clients-ruby
+- https://github.com/restcookbook/restcookbook
 
 
 ### Algorithm
@@ -219,6 +221,7 @@
 - https://planetscale.com/blog/identifying-slow-rails-queries-with-sqlcommenter
 - https://perlun.eu.org/en/2017/08/24/debugging-hard-to-reproduce-ruby-memory-leaks
 - https://dev.to/kanani_nirav/debugging-a-ruby-on-rails-application-in-visual-studio-code-20fk
+- [Ruby Heap Dump Inspector](https://github.com/zombocom/heapy)
 
 ### Deploy
 
@@ -277,6 +280,7 @@
 - [Take your source code and convert them into a beautifully formatted PDF](https://github.com/benjamintanweihao/code_rippa)
 - https://github.com/hothero/awesome-rails-gem
 - https://github.com/piotrmurach/awesome-ruby-cli-apps
+- [Make awesome command-line applications the easy way](https://github.com/davetron5000/gli)
 
 ### Inspire
 
@@ -393,6 +397,7 @@
 - https://maximomussini.com/posts/a-rubyist-guide-to-vite-js
 - https://daniel-azuma.com/blog/2021/05/04/discord-command-in-ruby-on-google-cloud-functions-part-4
 - https://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app
+- https://github.com/petertseng/adventofcode-rb-2019
 
 
 ### Tool

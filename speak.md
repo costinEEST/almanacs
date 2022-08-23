@@ -154,6 +154,7 @@
 - [A Guide to English Literary Terms | Oregon State University](https://www.youtube.com/playlist?list=PLkJBRdOsnEQQcO9rEaqNaZwH4Xn2jo11I)
 - https://github.com/hyperreality/American-British-English-Translator
 - https://en.wikipedia.org/wiki/Rhoticity_in_English
+- https://unchartedterritories.tomaspueyo.com/p/should-everybody-learn-english
 
 ### Esperanto
 
@@ -388,6 +389,7 @@
 - https://en.wikipedia.org/wiki/The_Seven_Basic_Plots
 - https://twitter.com/sisinerdtweets/status/1554086567211311109
 - https://twitter.com/yakshitshh/status/1559515303167422464
+- https://www.ted.com/talks/tomas_pueyo_why_stories_captivate?language=en
 
 ### Thai
 

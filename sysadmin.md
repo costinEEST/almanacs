@@ -1,3 +1,7 @@
+### Book 
+
+- https://www.puppetcookbook.com
+
 ### Cinema
 
 - [ Server Infrastructure for Global Rebellion.](https://media.ccc.de/v/36c3-11008-server_infrastructure_for_global_rebellion)

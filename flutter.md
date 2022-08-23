@@ -17,6 +17,7 @@
 - [Flutter Workshop - 24.2.20 | Moti Bar-Tov](https://www.youtube.com/playlist?list=PL0yJa47FxnHXAnKr-SVywWEknvyvIhS0Q)
 - [Learn Flutter Like A PRO 2021 Edition](https://twitter.com/imthepk/status/1332272360100044800)
 - https://slides.com/jamesbrinkerhoff/the-case-for-flutter + https://www.youtube.com/playlist?list=PLrPrSDTfMDlpPC5hVK5R1feVDVFMluPBR
+- https://twitter.com/inkdrop_app/status/1562029567522783235 + https://youtu.be/DnC7eT-vh1k
 
 ### Community
 

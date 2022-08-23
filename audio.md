@@ -16,7 +16,7 @@
 
 - https://medium.com/programming-for-music/introduction-to-audio-programming-8b9e7ecdeaea
 
-### Reference
+### Cheat sheet 
 
 - https://divu.in/music-theory-and-generation-13965ba83eb9
 - [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
@@ -38,6 +38,7 @@
 - [CatMeows: A Publicly-Available Dataset of Cat Vocalizations](https://zenodo.org/record/4008297)
 - https://geoffthegreygeek.com/category/understanding-audio
 - [a program that'd clip out gaps in your audio recording making your conversation free of network latency](https://twitter.com/paul_irish/status/1352483715251757059)
+- https://notepad.onghu.com/2022/bookmarks-resources-for-images-sounds
 
 ### Tool
 
@@ -71,6 +72,7 @@
 - [PHP script to turn a directory of mp3s into an rss feed](https://github.com/pushcx/miscpodcast)
 - [Simple personal server to serve audiofiles files from folders](https://github.com/izderadicka/audioserve)
 - [scripts to download podcasts](https://github.com/paulgazz/podcasts)
+- https://www.regisfreyd.com/posts/2020-05-02-apple-music-is-better-than-spotify
 
 ### Security
 

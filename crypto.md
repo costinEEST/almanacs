@@ -11,6 +11,9 @@
 - https://github.com/TheAlgorithms/Algorithms-Explanation/tree/master/en/Ciphers
 - [Learning fast elliptic-curve cryptography](https://paulmillr.com/posts/noble-secp256k1-fast-ecc)
 - https://github.com/dmarman/sha256algorithm + https://twitter.com/manceraio/status/1491148795325087744
+- https://rya.nc/artisanal-rsa.html
+- https://hackaday.com/2022/07/11/why-you-should-totally-roll-your-own-aes-cryptography
+- [Given two different implementations of a given algorithm, to what degree is it possible to mechanically prove that both implementations behave identically?](https://twitter.com/alokmenghrajani/status/1558572875455467521)
 
 ### Best practices
 
@@ -101,6 +104,7 @@
 - https://blog.gtank.cc/modern-alternatives-to-pgp
 - [Macaroons for anything involving authorization. They are the anti-JWT](https://blog.gtank.cc/macaroons-reading-list)
 - https://blog.gtank.cc/notes-on-anonymous-credentials
+- [A Step-by-step Guide for PGP Beginners](https://syncom.github.io/papers/pgptutorial.txt)
 
 ### Transport Layer Security (TLS)
 
@@ -138,6 +142,7 @@
 
 - [CryptoHack – A fun platform for learning cryptography](https://cryptohack.org)
 - [Cryptopals on Twitch - Filippo Valsorda](https://www.youtube.com/playlist?list=PLwiyx1dc3P2KoKsYdbZQutKvozOPjDilr)
+- https://github.com/alokmenghrajani/go-cryptopals
 - [Crypto design and it includes many challenges with historic or "obscure" procedures and machines.](https://www.mysterytwisterc3.org/en)
 - https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html
 - [Recovering a full PEM Private Key when half of it is redacted](https://blog.cryptohack.org/twitter-secrets)
@@ -155,5 +160,5 @@
 
 - https://dkp.ldd.org/2019/09/08/xkcdcrypt.html
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
-
+- [Sha256 is broken](https://twitter.com/alokmenghrajani/status/1544057972120326144)
 
