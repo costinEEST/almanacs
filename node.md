@@ -485,6 +485,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://blog.vjeux.com/2021/javascript/trackmania-medal-distribution.html
 - [Extract main article from given URL](https://github.com/ndaidong/article-parser)
 - https://dev.to/serpapi/web-scraping-google-maps-reviews-with-nodejs-328g
+- [A web scraping and browser automation library that helps you build reliable crawlers](https://github.com/apify/crawlee)
 
 ### Micro service
 

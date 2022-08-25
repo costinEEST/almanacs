@@ -317,6 +317,7 @@ javascript: (() =>
 - https://github.com/defaultnamehere/cookie_crimes
 - https://jub0bs.com/posts/2021-01-29-great-samesite-confusion
 - https://github.com/iangcarroll/cookiemonster
+- https://github.com/SoheilKhodayari/same-site-wiki + https://twitter.com/Soheil__K/status/1526970587083681792
 
 ### IndexDB
 
@@ -386,7 +387,7 @@ javascript: (() =>
 - https://www.linkedin.com/pulse/200-unsolicited-seo-tips-mark-williams-cook
 - [The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
 - https://ahrefs.com/blog/seo-glossary
-- https://www.youtube.com/playlist?list=PLs0HJRuXPAqsj9fxpr8eJdJxCT2fN_G8S
+- [SEO | knowthen](https://www.youtube.com/playlist?list=PLs0HJRuXPAqsj9fxpr8eJdJxCT2fN_G8S)
 - [Today I set up SEO for rubyandrails.info](https://twitter.com/nleonid/status/1554154237080354818)
 
 ### Web Real-Time Communication (WebRTC)

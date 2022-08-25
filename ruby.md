@@ -281,6 +281,7 @@
 - https://github.com/hothero/awesome-rails-gem
 - https://github.com/piotrmurach/awesome-ruby-cli-apps
 - [Make awesome command-line applications the easy way](https://github.com/davetron5000/gli)
+- [parse a standard youtube url and generate the embed html code](https://github.com/datwright/youtube_addy)
 
 ### Inspire
 

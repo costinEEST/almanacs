@@ -288,6 +288,7 @@
 - https://blog.zsec.uk/proxying-offensive
 - https://fowlie.github.io/2017/11/28/jump-to-server-and-change-user-without-password-with-pass-and-expect-and-bash
 - https://vincent.bernat.ch/en/blog/2021-rsync-ssh-two-remotes
+- https://www.rogdham.net/2013/03/28/introducing-pasta-another-ssh-trafic-analyser.en
 
 ### Jaber
 
