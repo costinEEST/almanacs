@@ -62,7 +62,7 @@
 - https://github.com/xelemental/Mind-Maps/tree/main/Windows
 - https://ahal.ca/blog/2021/mozilla-build-windows-terminal
 - https://github.com/farag2/Sophia-Script-for-Windows
-
+- [RPC Monitor tool based on Event Tracing for Windows](https://github.com/cyberark/RPCMon)
 
 ### Powershell
 

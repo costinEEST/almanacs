@@ -67,6 +67,7 @@
 - [webpage that helps you write ffmpeg commands](https://github.com/EvanHahn/ffmpeg-buddy)
 - https://vincent.bernat.ch/en/blog/2018-self-hosted-videos
 - https://vincent.bernat.ch/en/blog/2019-self-hosted-videos-subtitles
+- https://github.com/stars/jsumners/lists/screen-video
 
 ### Opinion
 

@@ -21,6 +21,7 @@
 - https://www.youtube.com/c/JavaChallengers/playlists
 - https://passthesalt.ubicast.tv/videos/finding-java-deserialization-gadgets-with-codeql
 - [The art of debugging Java apps | Laur Spilca](https://www.youtube.com/playlist?list=PLEocw3gLFc8VnqVumlrVtj3F0H54JJmM5)
+- [Object Oriented Analysis and Design 2016 | Tobias Olsson](https://www.youtube.com/playlist?list=PLoPbi7xxqaPhokOQWuAH9Dystu0PxPsqc)
 
 ### Community 
 

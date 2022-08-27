@@ -162,3 +162,4 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - [A cloud based vulnerable hybrid Android App](https://github.com/appsecco/VyAPI)
 - https://thebinaryhick.blog/2022/07/14/session-on-android-an-app-wrapped-in-signal
 - https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html
+- https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files

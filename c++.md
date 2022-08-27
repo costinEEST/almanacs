@@ -46,6 +46,7 @@
 - https://gourav.io/blog/setup-vscode-to-run-debug-c-cpp-code
 - [Easy to use C++17 HTTP Server with no compromise on performances.](https://github.com/matt-42/lithium)
 - [RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines](https://github.com/google/re2)
+- [Audible feedback on just how much your browsing feeds into Google](https://github.com/berthubert/googerteller)
 
 ### Reference
 

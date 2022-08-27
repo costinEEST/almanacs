@@ -88,6 +88,7 @@
 - https://gist.github.com/loknop/b27422d355ea1fd0d90d6dbc1e278d4d
 - [vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises](https://github.com/roottusk/vapi)
 - https://github.com/riyazwalikar/sql-injection-training-app
+- [Juan Manuel Fernández](https://x-c3ll.github.io/stuff.html)
 
 ### Miscellaneous
 

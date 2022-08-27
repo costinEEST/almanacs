@@ -49,3 +49,4 @@
 - [Which tools would you consider competitors to Burp and ZAP?](https://twitter.com/floyd_ch/status/1517529448899391493)
 - https://parsiya.net/blog/2019-10-13-quality-of-life-tips-and-tricks-burp-suite
 - https://www.pethuraj.com/blog/use-burpsuite-like-a-pro-part-1
+- https://blog.ropnop.com/configuring-burp-suite-with-android-nougat

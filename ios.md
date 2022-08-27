@@ -69,3 +69,4 @@
 - https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html
 - https://github.com/vixentael/ios-keymanagement-basics
 - [SecureChat PoC using Zero Knowledge Architecture principle](https://github.com/vixentael/zka-example)
+- https://github.com/IdanBanani/iOS-Vulnerability-Research

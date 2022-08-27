@@ -289,6 +289,7 @@
 - https://fowlie.github.io/2017/11/28/jump-to-server-and-change-user-without-password-with-pass-and-expect-and-bash
 - https://vincent.bernat.ch/en/blog/2021-rsync-ssh-two-remotes
 - https://www.rogdham.net/2013/03/28/introducing-pasta-another-ssh-trafic-analyser.en
+- https://blog.daviddworken.com/posts/keybase-ssh
 
 ### Jaber
 
@@ -362,6 +363,7 @@
 ### Internet Service Provider (ISP)
 
 - [Build your own Internet | Billie Hilton](https://www.youtube.com/playlist?list=PLbjZkI1beTSOZgCDL6LJHBhBrnhEmaWdt)
+- [Set of tools to help you build your own privacy network over internet](https://www.v2ray.com/en) + https://github.com/v2fly/v2fly-github-io
 
 
 ### SSH

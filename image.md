@@ -45,6 +45,7 @@
 - [API for extracting a table from an image or a PDF](https://github.com/vegarsti/extract-table)
 - [Finding sensitive information in the trimmed parts of cropped images](https://github.com/dfaram7/pptshots)
 - http://cbloomrants.blogspot.com/2021/01/some-jpeg-tools.html
+- https://blog.daviddworken.com/posts/simple-image-steganography
 
 
 ### Photos

@@ -423,7 +423,8 @@
 
 ### Document Object Model (DOM)
 
-- [Common tasks of managing HTML DOM with vanilla JavaScript.](https://htmldom.dev)
+- [Common tasks of managing HTML DOM with vanilla JavaScript](https://htmldom.dev)
+- https://github.com/mikewest/deprecating-document-domain
 - https://danlevy.net/you-may-not-need-axios
 - [Everything you (n)ever wanted to know about touch and pointer events](https://github.com/patrickhlauke/getting-touchy-presentation)
 - https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage

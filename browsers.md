@@ -81,6 +81,7 @@
 - https://github.com/SpiralBL0CK/Browser-Pwning-
 - https://github.com/StarCrossPortal/bug-hunting-101
 - https://github.com/nccgroup/exploit_mitigations
+- https://github.com/cezary-sec/awesome-browser-security + https://www.youtube.com/playlist?list=PLuHcjpINS_OJntoGxRu0FEju5ak0yE_46
 
 ### Extension
 
@@ -228,6 +229,8 @@
 - [Translate Japanese by hovering over words](https://github.com/birchill/10ten-ja-reader)
 - [Remove the algorithmic content from Twitter, hide news & trends, lets you control which shared tweets appear on your timeline](https://github.com/insin/tweak-new-twitter)
 - [Automatically fill out cookie popups based on your preferences](https://github.com/cavi-au/Consent-O-Matic)
+- [Search the textual content of any YouTube video](https://github.com/masasron/Video-Search-For-YouTube)
+- [Chrome extension to detect possible xsleaks](https://github.com/1lastBr3ath/XSleaks)
 
 ### Bookmarklets
 
@@ -318,6 +321,8 @@ javascript: (() =>
 - https://jub0bs.com/posts/2021-01-29-great-samesite-confusion
 - https://github.com/iangcarroll/cookiemonster
 - https://github.com/SoheilKhodayari/same-site-wiki + https://twitter.com/Soheil__K/status/1526970587083681792
+- https://blog.daviddworken.com/posts/same-site-cross-origin
+- [cookie tossing leading to session fixation](https://twitter.com/jub0bs/status/1563080334727839746)
 
 ### IndexDB
 
@@ -354,6 +359,7 @@ javascript: (() =>
 - https://twitter.com/blipsofadoug/status/1125223582974533633
 - https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization
 - https://www.bryanbraun.com/2021/08/10/allowing-inline-scripts-in-your-content-security-policy-using-a-hash
+- https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution
 
 ### Cross-origin resource sharing (CORS)
 
@@ -370,6 +376,7 @@ javascript: (() =>
 ### Cross-Origin-Opener-Policy (COOP)
 
 - [COOP and COEP explained](https://docs.google.com/document/d/1zDlfvfTJ_9e8Jdc8ehuV4zMEu9ySMCiTGMS9y0GU92k)
+- https://blog.daviddworken.com/posts/stopping-xs-leaks-at-scale + https://github.com/mjz3/LeakuidatorPlus + https://twitter.com/ndevtk/status/1549894289865560065
 
 ### Same Origin Policy (SOP)
 
@@ -503,7 +510,6 @@ javascript: (() =>
 - https://alan.norbauer.com/articles/browser-debugging-tricks
 - https://textslashplain.com/2020/09/25/web-debugging-watching-element-changes
 - https://github.com/styfle/breaking-changes-web
-- https://github.com/cezary-sec/awesome-browser-security
 
 ### Tool
 

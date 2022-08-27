@@ -127,6 +127,7 @@
 ### SQLite
 
 - https://fly.io/blog/sqlite-internals-rollback-journal
+- [Turning SQLite into a distributed database](https://univalence.me/posts/mvsqlite)
 
 ### Graph databases
 

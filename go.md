@@ -29,7 +29,6 @@
 - Write web applications in Go without using a framework: [book](https://leanpub.com/antitextbookGo) + (recordings)[https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4]
 - [1000+ Hand-Crafted Go Examples, Exercises, and Quizzes](https://github.com/inancgumus/learngo)
 - https://github.com/pingcap/talent-plan#series-3-distributed-database
-- https://empijei.science/talks.html
 - https://www.adsbynimbus.com/tech-blog/dynamic-programming + https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf
 - [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - https://github.com/martensonbj/fem-intro-to-go
@@ -37,6 +36,7 @@
 - [Mastering Go Modules, gRPC, Crawling, and Collaboration with Git](https://www.udemy.com/course/golang-tutorial)
 - https://www.golang.dk/courses/build-cloud-apps-in-go
 - https://github.com/ardanlabs/gotraining
+- https://github.com/jub0bs/go-course-advanced
 
 ### Community 
 
@@ -51,6 +51,7 @@
 - https://www.youtube.com/playlist?list=PLZaEVINf2Bq8mP4mosgB9tXb4ycrAeA9y
 - [Sean DuBois](https://siobud.com)
 - https://github.com/GopherConRu/talks
+- [Roberto Clapis](https://empijei.science/talks.html)
 
 ### Data structures
 

@@ -19,6 +19,7 @@
 - [Performance monitoring tools](https://twitter.com/Vikram_Tiwari/status/1553098304635883520)
 - [Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more](https://github.com/beekeeper-studio/beekeeper-studio)
 - [Make any web page a desktop application](https://github.com/nativefier/nativefier)
+- [Decompiler](https://github.com/electron/asar) + https://youtu.be/jyiFjqNncMc
 
 ### Demos
 
@@ -65,3 +66,4 @@
 - https://twitter.com/po6ix/status/1520020506283544576
 - [Exploit a XSS vulnerability in a sandboxed Electron app and achieve RCE](https://huntr.dev/bounties/911a4ada-7fd6-467a-a464-b88604b16ffc)
 - https://7085.at/#/blog/2022-02-03-rce-vulnerabilities-in-obsidian-discovered
+- https://github.com/jonmest/How-To-Tamper-With-Any-Electron-Application
