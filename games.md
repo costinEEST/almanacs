@@ -84,6 +84,7 @@
 - http://cristian.francu.com/games
 - https://github.com/Poussinou/FLOSS-Games-on-Steam
 - https://www.quaxio.com/kaleidoscope_part1
+- https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua
 
 ### The creators
 
