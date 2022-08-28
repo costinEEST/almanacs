@@ -105,6 +105,7 @@
 - https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors
 - https://www.wired.com/story/intel-lab-istare-hack-chips
 - https://www.youtube.com/c/ZeroToASIC
+- [Starlink UT modchip](https://twitter.com/LennertWo/status/1558378348732026881)
 
 ### Diode
 

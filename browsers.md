@@ -381,6 +381,7 @@ javascript: (() =>
 ### Same Origin Policy (SOP)
 
 - https://parsiya.net/blog/2020-11-01-the-same-origin-policy-gone-wild
+- https://github.com/rafaybaloch/SOP-Bypass-Mini-Test-Suite
 
 ### Search Engine Optimization (SEO)
 

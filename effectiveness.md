@@ -11,6 +11,7 @@
 
 - [Recon Lab: Ethical Google Hacking - Securing The Stack](https://www.youtube.com/playlist?list=PLP91MtCof9klPenCxTzBTfRctceWYNN9t)
 - [Google dork about how to get a job in pentesting](https://twitter.com/nullenc0de/status/1560639105767440386)
+- https://twitter.com/z3dster/status/1500608769671245832
 
 ### tmux
 

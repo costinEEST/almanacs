@@ -79,6 +79,7 @@
 - https://www.vector-logic.com/blog/posts/mysql-localhost
 - https://github.com/wsargent/docker-cheat-sheet
 - [Dockerfile best-practices for writing production-worthy Docker images](https://github.com/hexops/dockerfile)
+- [A Methodology for Penetration Testing Docker Systems](https://github.com/joren485/BachelorThesis)
 
 ### Kubernetes
 

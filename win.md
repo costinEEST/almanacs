@@ -85,6 +85,7 @@
 - https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
 - [Attack and Defend the Sys Admins by Andy Gill](https://blog.zsec.uk/old-but-gold)
 - https://www.n00py.io/2020/12/alternative-ways-to-pass-the-hash-pth
+- https://raesene.github.io/blog/2020/05/31/Custom_Pentest_Distributions_With_WSL2
 
 ### Clean up
 

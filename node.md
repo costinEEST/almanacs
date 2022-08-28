@@ -429,6 +429,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/kentcdodds/testing-node-apps
 - https://github.com/testjavascript/nodejs-integration-tests-best-practices
 - https://github.com/qunabu/strapi-unit-test-example
+- [A Jest runner that runs tests directly in bare Node.js, without virtualizing the environment](https://github.com/nicolo-ribaudo/jest-light-runner)
 
 ### Server
 

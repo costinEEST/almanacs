@@ -16,7 +16,7 @@
 - https://andrewhoglund.com/code/talks/github/js/2020/05/08/building-automations-with-graphql-and-github-apps.html
 - https://codereviewvideos.com/course/your-own-private-github
 
-### Reference
+### Cheat sheet 
 
 - https://gitexplorer.com
 - https://katafrakt.me/2017/05/27/beyond-git
@@ -46,6 +46,7 @@
 - https://www.mikestreety.co.uk/blog/git-clone-a-repository-without-the-history
 - https://onmyway133.com/posts/useful-git-commands-for-everyday-use
 - https://alexwlchan.net/a-plumbers-guide-to-git
+- [Quick and easy way to retrieve emails for all git commit authors](https://twitter.com/ustayready/status/1562508344631635968)
 
 ### TIL
 
@@ -130,6 +131,7 @@
 - https://www.poberezkin.com/posts/2017-07-12-talk-auditing-development-guidelines-in-github-repositories.html
 - https://github.com/JamesIves/github-pages-deploy-action
 - [Generate LICENSE file from package.json](https://github.com/TiagoDanin/Add-License-Bot)
+- https://blog.nietaanraken.nl/posts/github-pages-command-injection
 
 ### Tool
 

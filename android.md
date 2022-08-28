@@ -45,6 +45,7 @@
 
 ### Course
 
+- https://www.udemy.com/course/android-app-hacking-black-belt-edition
 - [Mobile Application Development (5th bullet)](https://github.com/Developer-Y/cs-video-courses#software-engineering)
 - https://www.udemy.com/course/android-bug-bounty-hunting-hunt-like-a-rat
 - https://www.udemy.com/course/google-associate-android-developer-certification-2021

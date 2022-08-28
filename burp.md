@@ -29,6 +29,7 @@
 - [Improve automated and semi-automated active scanning](https://github.com/pentagridsec/PentagridScanController) + https://youtu.be/aFMTzFfX1Z4
 - [Burp Extension for Broken Access Control](https://twitter.com/e11i0t_4lders0n/status/1514451652660498433)
 - [View HTTP history exported from Burp Suite Community Edition(CE)](https://github.com/adityatelange/bhhb)
+- [I wish there was functionality via command line to search burp project/state files for certain phrases](https://twitter.com/seanmeals/status/1231646261763289089)
 
 ### Cinema
 

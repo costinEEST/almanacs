@@ -58,13 +58,15 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - https://github.com/JannisKirschner/SymbolicExecutionDemystified
 - https://speakerdeck.com/rung/exploitation-fundamentals-english
 
-### Tools
+### Tool
 
 - https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md
 - https://www.coresecurity.com/article/reversing-and-exploiting-free-tools
 - [AvastSvc.exe contained a full, unSandboxEd JavaScript/DOM implementation](https://github.com/taviso/avscript)
 - https://unprovable.github.io/jekyll/update/2016/11/04/Frida-For-All.html
 - [Frida Reverse Engineering Introduction](https://cfp.pass-the-salt.org/pts2022/talk/T8XSUV)
+- [how to start working with, HyperDbg](https://twitter.com/HyperDbg/status/1548573372023418881)
+- https://github.com/stars/schniggie/lists/security-reversing
 
 ### Fuzzers
 

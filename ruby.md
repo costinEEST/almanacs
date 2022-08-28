@@ -425,6 +425,8 @@
 - [Download file from Yandex.Disk through share link](https://github.com/Yegorov/yadisk)
 - https://ucarion.com/ruby-rbs-codegen
 - [create directory and file structure](https://gitlab.com/mindaslab/mk3)
+- [Open URI's with rich context](https://github.com/alexcwatt/longjump)
+
 
 ### Testing
 
@@ -483,6 +485,7 @@
 - https://bogdanvlviv.com/posts/ruby/rails/samesite-cookies-and-rails.html
 - https://github.com/0xedward/awesome-rails-security
 - https://bishopfox.com/blog/ruby-vulnerabilities-exploits
+- https://github.com/raesene/TestingScripts + https://www.mccune.org.uk/content/talks/2013-01-16-pentest-automation/ + https://www.youtube.com/playlist?list=PLKDRii1YwXnKG5PiY9zx3g5dJ2zOTJ4Al 
 
 ### Scrapping
 

@@ -253,3 +253,4 @@
 - [Notable characters, codepoints, and resources](https://github.com/janlelis/character.construction)
 - http://shadycharacters.co.uk/series/emoji
 - https://www.quaxio.com/unicode_superscript.html
+- https://raesene.github.io/blog/2021/11/06/fun-with-unicode

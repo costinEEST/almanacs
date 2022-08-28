@@ -15,11 +15,14 @@
 - https://humanitas.ro/assets/pdf/Sfantul-Augustin_Confesiuni.pdf
 - https://humanitas.ro/assets/pdf/Sfantul-Augustin_Despre-minciuna.pdf
 - https://archive.org/details/EneSiEcaterinaBraniste-DictionarEnciclopedicDeCunostinteReligioase
+- [On Christianity | Nassim Nicholas Taleb](https://twitter.com/nntaleb/status/1562838685002842117)
 
 ### Islam
 
 - https://radu-iliescu.blogspot.com/search/label/islam
 - https://www.academia.edu/37298049/The_Architecture_of_Pilgrimage_A_study_on_the_Ziyara_Bogal_and_charismatic_authority_in_the_Tijaniyya
+- [The Challenge of Islam: The Prophetic Tradition | Norman O. Brown](https://en.wikipedia.org/wiki/Norman_O._Brown#Work)
+- [Islam The Untold Story | Tom Holland](https://twitter.com/holland_tom/status/1558350961302798338)
 
 ### Lutheranism
 

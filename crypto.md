@@ -122,6 +122,8 @@
 - https://www.feistyduck.com/books
 - https://github.com/PacktPublishing/Demystifying-Cryptography-with-OpenSSL-3
 - [Post-quantum Cryptography and running experiments with it at Cloudflare](https://www.sofiaceli.com/2020/12/10/pq-kem-tls.html)
+- https://www.cyberklats.ch/tls-your-lan
+- https://github.com/prbinu/tls-scan
 
 ### Cheat sheet 
 
