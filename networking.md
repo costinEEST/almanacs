@@ -134,6 +134,7 @@
 - [How amazing is it that GPS actually works?](https://twitter.com/martinkl/status/1524684941216395264)
 - https://xakcop.com/post/how-many-people
 - https://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html
+- https://hackaday.com/2022/08/27/introducing-fissure-a-toolbox-for-the-rf-hacker
 
 
 ### 3G
@@ -210,6 +211,7 @@
 - [TCP Congestion Control: A Systems Approach](https://github.com/SystemsApproach/tcpcc)
 - https://alexanderell.is/posts/toy-traceroute
 - https://github.com/astroza/udptunnel
+- [Need a TCP reverse proxy?](https://twitter.com/iximiuz/status/1557381051927994370)
 
 
 ### HTTP

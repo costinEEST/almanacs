@@ -9,6 +9,10 @@
 - https://github.com/Developer-Y/cs-video-courses#embedded-systems
 - https://github.com/microsoft/IoT-For-Beginners
 
+### Community 
+
+- https://authors.packtpub.com/interview-with-jean-georges-valle
+
 ### Arduino
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUe2-bhkgFCCKwCyx_ZBzCcp

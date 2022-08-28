@@ -55,7 +55,8 @@
 - https://seb.jambor.dev/posts/systemd-by-example-the-playground + https://systemd-by-example.com + https://github.com/sgrj/systemd-by-example + https://twitter.com/crepels/status/1485912574323478530
 - [Top-like interface for container metrics](https://github.com/bcicen/ctop)
 - https://ucarion.com/minecraft-with-systemd-backups
-- [ EX280 (Red Hat Certified Specialist in OpenShift Administration)](https://blog.benstein.nl/ex280)
+- [EX280 (Red Hat Certified Specialist in OpenShift Administration)](https://blog.benstein.nl/ex280)
+- [Docker and the OCI container ecosystem](https://lwn.net/Articles/902049) + https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond
 
 ### Internals
 
@@ -115,6 +116,7 @@
 - https://github.com/gg7/gentoo-kernel-guide
 - https://lipanski.com/posts/custom-keyboard-layout
 - https://github.com/alegrey91/systemd-service-hardening
+- [Linux vs GNU/Linux vs Alpine Linux](https://twitter.com/iximiuz/status/1560977903227383810)
 
 ### Embedded
 

@@ -179,3 +179,7 @@
 
 - [11 _million_ QPS through our MySQL stack at Shopify](https://twitter.com/jeremycole/status/1466560904976236545)
 - [SQL 1.5 TB RAM was more effective than caching page fragments with Redis](https://twitter.com/alexcwatt/status/1544876135711916035)
+
+### Time series databases
+
+- [The Complete Guide to InfluxDB 2 | Rawkode Academy](https://www.youtube.com/playlist?list=PLz0t90fOInA5esYz9ytWzX89HT5NvLkxc)

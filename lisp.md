@@ -7,6 +7,7 @@
 - https://notes.eatonphil.com/book-review-ansi-common-lisp.html
 - https://mihaiolteanu.me/books.html
 - https://leanpub.com/lovinglisp
+- Learn Lisp The Hard Way: https://github.com/thephoeron/LLTHW, https://llthw.common-lisp.dev
 
 ### Cinema
 

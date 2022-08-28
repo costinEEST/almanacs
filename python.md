@@ -228,6 +228,7 @@
 - [Collection of Packer and Vagrant scripts that allow you to quickly bring a Windows Active Directory online, complete with a collection of endpoint security tooling and logging best practices](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) + https://twitter.com/Centurion/status/940267549840642051
 - https://www.blackhat.com/us-21/briefings/schedule/#do-you-speak-my-language-make-static-analysis-engines-understand-each-other-22797
 - https://www.vicarius.io/vsociety/blog/exploiting-google-slo-generator-with-python-yaml-deserialization-attack
+- [scripts I use when reversing mobile applications](https://github.com/QKaiser/mobile-re)
 
 ### Server
 

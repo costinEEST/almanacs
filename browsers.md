@@ -445,6 +445,10 @@ javascript: (() =>
 - [procedurally generated fish drawings](https://github.com/LingDong-/fishdraw)
 - https://github.com/bubkoo/html-to-image
 
+### Web Authentication
+
+- https://goteleport.com/blog/how-passwordless-works
+
 ### WebGL
 
 - https://github.com/davidwparker/programmingtil-webgl + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl

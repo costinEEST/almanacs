@@ -29,6 +29,7 @@
 - [Ruby way to use the Pwned Passwords API](https://github.com/philnash/pwned)
 - https://github.com/stars/colinloretz/lists/api-clients-ruby
 - https://github.com/restcookbook/restcookbook
+- https://bradgessler.com/talks/streaming-rest
 
 
 ### Algorithm
@@ -133,6 +134,7 @@
 - [Containerizing Rails: Techniques, Pitfalls, and Best Practices](https://daniel-azuma.com/articles/talks/railsconf-2018)
 - [Live Coding Streams | GoRails](https://www.youtube.com/playlist?list=PLm8ctt9NhMNWfnXIK_EaHaMkDGNYrOJlO)
 - [Open Source Vlog | GoRails](https://www.youtube.com/playlist?list=PLm8ctt9NhMNU5ONbGecA2m-R0TPbFBttD)
+- https://www.destroyallsoftware.com/talks/boundaries
 
 ### Course
 
@@ -237,8 +239,7 @@
 - https://thibautbarrere.com/2021/01/20/circle-ci-with-multiple-databases-and-rubies
 - [What is the cheapest and most reliable way to host a Rails app with Postgres, Redis, mail, and SSL?](https://twitter.com/olivierlacan/status/1554152248392966151)
 - [one process, one pod](https://twitter.com/nateberkopec/status/1554604870073729025) + https://www.speedshop.co/2017/10/12/appserver.html
-- [Has anybody deployed their Rails apps to https://fly.io?](https://twitter.com/bradgessler/status/1554464283085492226)
-
+- [Has anybody deployed their Rails apps to https://fly.io?](https://twitter.com/bradgessler/status/1554464283085492226) + https://twitter.com/bradgessler/status/1563226936184164352
 ### Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems) + https://nts.strzibny.name/ruby-stdlib-default-bundled-gems + https://gist.github.com/boue/9540965
@@ -426,6 +427,7 @@
 - https://ucarion.com/ruby-rbs-codegen
 - [create directory and file structure](https://gitlab.com/mindaslab/mk3)
 - [Open URI's with rich context](https://github.com/alexcwatt/longjump)
+- secrets.spektrhq.com: https://twitter.com/GregMolnar/status/1563870886293372928, https://github.com/spektrhq/secrets
 
 
 ### Testing

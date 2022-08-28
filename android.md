@@ -90,6 +90,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - https://markuta.com/magisk-root-detection-banking-apps
 - https://bajtos.net/posts/2021-12-17-apple-m1-android-emulator
 - [Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device](https://github.com/0x192/universal-android-debloater)
+- https://quentinkaiser.be/blackberry/security/2015/03/30/pentesting-blackberry + https://github.com/QKaiser/bbpentesting
 
 ### APIs
 
@@ -164,3 +165,4 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - https://thebinaryhick.blog/2022/07/14/session-on-android-an-app-wrapped-in-signal
 - https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html
 - https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files
+- https://github.com/dineshshetty/Android-InsecureBankv2
