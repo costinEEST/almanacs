@@ -167,7 +167,7 @@
 - [Create modern cross-browser extensions with no build configuration.](https://github.com/cezaraugusto/extension-create)
 - [Posta is a tool for researching Cross-document Messaging communication. It allows you to track, explore and exploit postMessage vulnerabilities, and includes features such as replaying messages sent between windows within any attached browser.](https://github.com/benso-io/posta)
 - [A boilerplate project to quickly build a Chrome extension using TypeScript and React (built using webpack).](https://github.com/martellaj/chrome-extension-react-typescript-boilerplate)
-- [Screenity is a feature-packed screen and camera recorder for Chrome.](https://github.com/alyssaxuu/screenity)
+- [Screenity is a feature-packed screen and camera recorder for Chrome](https://github.com/alyssaxuu/screenity)
 - [Transform all your mailto and tel link in a beautiful modal with more possibilities! Open directly Gmail, Outlook and Yahoo for emails; Telegram, WhatsApp or Skype for phone numbers.](https://github.com/manzinello/mailgo)
 - https://github.com/iamadamdev/bypass-paywalls-chrome + https://github.com/iamadamdev/bypass-paywalls-firefox
 - [The missing star history graph of github repos](https://github.com/timqian/star-history)

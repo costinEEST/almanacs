@@ -49,6 +49,7 @@
 - https://www.freecodecamp.org/news/devops-with-gitlab-ci-course
 - https://github.com/burib/aws-region-table-parser
 - https://twitter.com/mtliendo/status/1507442348292198404 + https://github.com/cdkbook/examples
+- http://kakar.ca/2010/12/24/an-ec2-api-concept-map.html
 
 ### Azure
 

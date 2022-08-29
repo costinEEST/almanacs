@@ -52,6 +52,7 @@
 - [Sean DuBois](https://siobud.com)
 - https://github.com/GopherConRu/talks
 - [Roberto Clapis](https://empijei.science/talks.html)
+- https://xeiaso.net/talks/conf42-static-analysis
 
 ### Data structures
 

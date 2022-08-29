@@ -60,6 +60,7 @@
 
 - https://github.com/ThomasVitale/devtalks-2022-serverless-java + https://speakerdeck.com/thomasvitale/serverless-java-with-spring-boot
 - https://perlun.eu.org/en/2021/12/30/the-dangers-of-referential-equality-in-java
+- https://github.com/TooTallNate/Java-WebSocket
 
 
 ### Tool

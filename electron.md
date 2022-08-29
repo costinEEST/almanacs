@@ -42,6 +42,7 @@
 - [Menubar app that shows dollar to peruvian sol exchange rate](https://github.com/cristianbgp/electron-dollarpe)
 - [web-based MS Paint remake](https://github.com/1j01/jspaint)
 - https://github.com/mattermost/desktop
+- [A WIP IRC client](https://github.com/evanlucas/eyearesee)
 
 ### Boilerplates
 

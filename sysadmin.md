@@ -134,7 +134,7 @@
 - https://github.com/walidshaari/Kubernetes-Certified-Administrator
 - [A set of exercises to prepare for Certified Kubernetes Application Developer exam](https://github.com/dgkanatsios/CKAD-exercises)
 
-### Servers
+### Server
 
 - [Building a Production Mail Server in 2018](https://matt.sh/email2018)
 - [Setting Web Server Options for 2018](https://matt.sh/web2018)
@@ -146,6 +146,7 @@
 - [Personal server configuration with k3s](https://github.com/erebe/personal-server)
 - https://github.com/stars/tomajask/lists/selfhosted + https://open.spotify.com/show/7n6M9laXHppo9WzEBt6Xiq
 - https://citizen428.net/blog/self-hosting-static-site-openbsd-httpd-relayd
+- https://www.udemy.com/course/nginx-crash-course + https://nginx.husseinnasser.com
 
 ### References
 

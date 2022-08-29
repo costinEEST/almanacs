@@ -68,6 +68,7 @@
 - https://vincent.bernat.ch/en/blog/2018-self-hosted-videos
 - https://vincent.bernat.ch/en/blog/2019-self-hosted-videos-subtitles
 - https://github.com/stars/jsumners/lists/screen-video
+- https://xeiaso.net/blog/vtubing-setup-2022-01-13 + https://youtu.be/BYIlYMM6_Cw
 
 ### Opinion
 

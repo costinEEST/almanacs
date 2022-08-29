@@ -45,6 +45,7 @@
 ### Community 
 
 - https://github.com/jhuangtw/awesome-data
+- https://blog.gardeviance.org/2015/03/wardley-map-set-of-useful-posts.html
 
 ### Best practices
 

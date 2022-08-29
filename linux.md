@@ -57,6 +57,7 @@
 - https://ucarion.com/minecraft-with-systemd-backups
 - [EX280 (Red Hat Certified Specialist in OpenShift Administration)](https://blog.benstein.nl/ex280)
 - [Docker and the OCI container ecosystem](https://lwn.net/Articles/902049) + https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond
+- https://xeiaso.net/talks/systemd-the-good-parts-2021-05-16
 
 ### Internals
 
@@ -146,3 +147,4 @@
 - [Moving from MacBook to Linux](https://monadical.com/posts/moving-to-linux-desktop.html)
 - https://cri.dev/posts/2021-01-03-mac-linux
 - [Why #Linux users hate #Ubuntu Snaps](https://twitter.com/AaronToponce/status/1557748044287725570)
+- https://xeiaso.net/talks/nixos-pain-2021-11-10

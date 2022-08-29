@@ -102,6 +102,7 @@
 - [Mathematical Association of America](https://www.youtube.com/user/MAAvideo/playlists)
 - [What are some of your favorite recorded math lecturers or talks?](https://twitter.com/JulietteBruce12/status/1538513290178965504)
 - [Math For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
+- [Doing the math | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmpjIoZHybXD4xmXXYrTqlk)
 
 ### Mathematicians
 
@@ -129,6 +130,7 @@
 - https://github.com/pyxelr/recommendations-for-engineers#math-2
 - https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion
 - https://antitypical.com/posts/2021-08-14-sequent-calculus-cheat-sheet
+- [SDF are fun tools for geometry creation](https://winterbloed.be/the-wrong-way-to-use-a-signed-distance-function)
 
 ### Tool 
 

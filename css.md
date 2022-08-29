@@ -272,6 +272,7 @@
 ### Opinion
 
 - https://wiki.csswg.org/ideas/mistakes
+- https://dfkaye.com/posts/2021/05/07/custom-attributes-are-fast-good-and-cheap + https://www.keithcirkel.co.uk/css-classes-considered-harmful
 
 ### Radio
 

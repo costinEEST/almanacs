@@ -169,6 +169,7 @@
 ### Finish 
 
 - [Grammar from the Human Perspective. Case, space and person in Finnish | Marja-Liisa Helasvuo, Lyle Campbell](https://benjamins.com/catalog/cilt.277)
+- https://www.hagen-schmidt.de/suomi/worldlanguage.html
 
 ### French
 
@@ -243,6 +244,7 @@
 - https://youtu.be/SGu0OSukq-s + https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-English/dp/4789014401
 - https://github.com/mercari/engineer-vocabulary-list
 - https://twitter.com/TastingHistory1/status/1516949463524274183
+- [Japanese Phonetics Index Page](https://www.patreon.com/posts/16489306) + https://www.youtube.com/user/Dogen/playlists
 
 ### Korean
 

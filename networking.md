@@ -72,7 +72,7 @@
 - http://www.saminiir.com/openvpn-puts-packets-inside-your-packets
 - https://github.com/adityatelange/node-pcap-parser
 
-### The Open Systems Interconnection model
+### The Open Systems Interconnection model (OSI)
 
 - https://github.com/bkimminich/it-security-lecture/blob/master/slides/01-04-network_security.md#osi-network-layer-model
 - https://github.com/jivoi/offsec_pdfs/blob/master/OSI-model.jpg
@@ -404,3 +404,4 @@
 - https://github.com/Attacks-on-Tor/Attacks-on-Tor
 - [OSI 7 Layer Reference Model cited around 1978](https://twitter.com/ErrataRob/status/1552076234707935232)
 - [Network lab with QEMU](https://vincent.bernat.ch/en/blog/2012-network-lab-kvm)
+- https://xeiaso.net/talks/irc-why-it-failed-2018-05-17

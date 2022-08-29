@@ -155,6 +155,7 @@
 - [A Strapi V4 plugin from scratch to production](https://github.com/ExFabrica/strapi-stories)
 - https://remelehane.dev/posts/diy-node-cache-for-docker-ci
 - [metrics and dev envirnoment with Prometheus and Grafana](https://github.com/ghermeto/openjs-world-2021)
+- https://github.com/yonathan06/fastify-typescript-starter
 
 ### Cinema
 
@@ -175,6 +176,7 @@
 - [A Blog as Easy as Gist | AJ ONeal](https://www.youtube.com/playlist?list=PLxki0D-ilnqZcb8UIdivo70ttUGgC__LD)
 - [Role Based Access Control | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN2Tw-PL7dvwLQS6mx4Z5PH9)
 - [Production Ready Server Setup | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN38gy5xZ0PVEaDdZXlPkgP9)
+- [From C++ to Node](https://twitter.com/yonatanbd/status/1490665055586770946)
 
 ### Course
 
@@ -277,6 +279,37 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
 - https://boneskull.com/recursive-directory-removal-in-node-js
 - https://2ality.com/2022/06/nodejs-file-system.html
+
+### `node:http`
+
+- https://gist.github.com/willurd/5720255#gistcomment-3142965
+- https://www.slideshare.net/Codemotion/paulo-lopes-10-things-i-learned-making-the-fastest-js-server-runtime-in-the-world-codemotion-amsterdam-2019
+- [MyDrive is an Open Source Cloud Server (Similar To Google Drive), built with Node.JS, Express, React, and MongoDB.](https://github.com/subnub/myDrive)
+- [Visualizing data from your Node JS app with Prometheus + Grafana](https://sergeypotekhin.com/visualizing-data-from-the-node-js-app)
+- https://dev.to/mattkrick/replacing-express-with-uwebsockets-48ph
+- [Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.](https://github.com/IntrinsicLabs/osgood)
+- [A state-of-the-art user-space network driver written in idiomatic JavaScript.](https://github.com/ixy-languages/ixy.js)
+- https://github.com/justincampbell/url-shorteners
+- https://realtalkjavascript.simplecast.com/episodes/episode-96-expressway-to-fastify-with-matteo-collina
+- [LeonAI has migrated from Express.js to @fastifyjs](https://twitter.com/louistiti_fr/status/1374978615696183296)
+- https://github.com/jessekrubin/fastify-shitty
+- https://simonplend.com/talk-at-js-monthly-london-make-the-most-of-modern-javascript-with-fastify
+- https://github.com/nearform/the-fastify-workshop
+- https://github.com/PacktPublishing/Accelerate-Web-Development-with-Fastify
+- https://github.com/delvedor/fastify-example + https://twitter.com/delvedor/status/1358103527889993731
+- https://futurestud.io/learningpaths/learn-hapi
+- https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc
+- https://www.freecodecamp.org/news/free-8-hour-node-express-course
+- https://www.freecodecamp.org/news/the-nginx-handbook
+- [Example on how to implement an HTTP/2 client and server in Node.js](https://github.com/sohamkamani/node-http2-example)
+- https://jaxenter.com/load-balancing-round-robin-164101.html + https://twitter.com/Kikobeats/status/1437770919456514057
+- https://leanpub.com/thenodejsclustermodule
+- [Implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google](https://github.com/scality/cloudserver)
+- [The original `http.request()` could not be inspected/mocked without heavy monkey patching of the internals](https://twitter.com/matteocollina/status/1554860645396488193)
+
+### `node:net`
+
+- [Upgrade a regular `net.Stream` connection to a secure `tls` connection](https://gist.github.com/TooTallNate/848444)
 
 ### .mjs
 
@@ -430,32 +463,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/testjavascript/nodejs-integration-tests-best-practices
 - https://github.com/qunabu/strapi-unit-test-example
 - [A Jest runner that runs tests directly in bare Node.js, without virtualizing the environment](https://github.com/nicolo-ribaudo/jest-light-runner)
-
-### Server
-
-- https://gist.github.com/willurd/5720255#gistcomment-3142965
-- https://www.slideshare.net/Codemotion/paulo-lopes-10-things-i-learned-making-the-fastest-js-server-runtime-in-the-world-codemotion-amsterdam-2019
-- [MyDrive is an Open Source Cloud Server (Similar To Google Drive), built with Node.JS, Express, React, and MongoDB.](https://github.com/subnub/myDrive)
-- [Visualizing data from your Node JS app with Prometheus + Grafana](https://sergeypotekhin.com/visualizing-data-from-the-node-js-app)
-- https://dev.to/mattkrick/replacing-express-with-uwebsockets-48ph
-- [Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.](https://github.com/IntrinsicLabs/osgood)
-- [A state-of-the-art user-space network driver written in idiomatic JavaScript.](https://github.com/ixy-languages/ixy.js)
-- https://github.com/justincampbell/url-shorteners
-- https://realtalkjavascript.simplecast.com/episodes/episode-96-expressway-to-fastify-with-matteo-collina
-- [LeonAI has migrated from Express.js to @fastifyjs](https://twitter.com/louistiti_fr/status/1374978615696183296)
-- https://github.com/jessekrubin/fastify-shitty
-- https://simonplend.com/talk-at-js-monthly-london-make-the-most-of-modern-javascript-with-fastify
-- https://github.com/nearform/the-fastify-workshop
-- https://github.com/PacktPublishing/Accelerate-Web-Development-with-Fastify
-- https://github.com/delvedor/fastify-example + https://twitter.com/delvedor/status/1358103527889993731
-- https://futurestud.io/learningpaths/learn-hapi
-- https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc
-- https://www.freecodecamp.org/news/free-8-hour-node-express-course
-- https://www.freecodecamp.org/news/the-nginx-handbook
-- [Example on how to implement an HTTP/2 client and server in Node.js](https://github.com/sohamkamani/node-http2-example)
-- https://jaxenter.com/load-balancing-round-robin-164101.html + https://twitter.com/Kikobeats/status/1437770919456514057
-- https://leanpub.com/thenodejsclustermodule
-- [Implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google](https://github.com/scality/cloudserver)
+- https://dfkaye.com/posts/2020/12/10/using-hugo-for-tdd-with-javascript
+- https://dfkaye.com/posts/2020/12/02/data-driven-testing-with-wheredoc
 
 ### Scrapping
 

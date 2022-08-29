@@ -139,6 +139,7 @@
 - https://blog.jscrambler.com/how-to-handle-deep-linking-in-a-react-native-app
 - https://www.reactnativeschool.com/how-to-setup-path-alias-in-a-react-native-typescript-app
 - [sharing navigation code across web and native platforms](https://twitter.com/Baconbrix/status/1553381817507614721)
+- https://blog.notesnook.com/getting-started-react-native-jsi
 
 ### Package
 

@@ -27,6 +27,7 @@
 
 - [Svelte NodeGUI, a lightweight Electron alternative with native UI](https://github.com/nodegui/svelte-nodegui) + https://news.ycombinator.com/item?id=26361423
 - https://www.thisdot.co/blog/web-components-with-svelte
+- https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust
 
 ### Demo
 

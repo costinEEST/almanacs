@@ -178,6 +178,10 @@
 
 - https://github.com/juanelas/bigint-crypto-utils
 
+### eval()
+
+- https://dfkaye.com/posts/2021/06/02/javascripts-eval-and-function-constructor
+
 ### in
 
 - https://twitter.com/kdy1dev/status/1524667421113548801
@@ -197,12 +201,17 @@
 - https://2ality.com/2013/05/history-undefined.html
 - https://p42.ai/blog/2022-05-10/you-dont-need-void-0
 
+### Object()
+
+- https://dfkaye.com/posts/2020/08/20/javascripts-object-vs.-object.create
+
 ### function () {}
 
 - https://github.com/you-dont-need/You-Dont-Need-Loops
 - [Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
 - [Abusing Function.toString() to basically do macros](https://twitter.com/pfrazee/status/1203415397489348608) + https://codepen.io/pfrazee/pen/NWPGOMg?editors=0011
 - [Arrow functions are not anonymous](https://twitter.com/kdy1dev/status/1561901091486597120)
+- [get a javascript function name](https://gist.github.com/dfkaye/6384439)
 
 ### function\* () {}
 
@@ -255,6 +264,7 @@
 - https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library
 - https://apechkurov.medium.com/v8-deep-dives-random-thoughts-on-math-random-fb155075e9e5
 - [Create a random JavaScript string in different bases](https://twitter.com/freddyb/status/1529572995374645249)
+- https://dfkaye.com/posts/2021/07/17/fixing-number.tofixed
 
 ### default arguments
 
@@ -331,6 +341,7 @@
 - https://philbooth.me/blog/back-off-and-retry-using-javascript-arrays-and-promises
 - [new Promise(() => {})](https://twitter.com/antonmedv/status/1534988570955595781)
 - https://github.com/nearform/promises-workshop
+- [fetch with cancellation at timeout using AbortController](https://twitter.com/cmsalvado/status/1135951033979592705)
 
 ### async await
 
@@ -453,6 +464,7 @@
 - [Collection of functions used for DOM manipulations](https://github.com/revolter/min)
 - [Fire mouse events when a user intends it](https://github.com/tristen/hoverintent)
 - https://github.com/0xGodson/blogs/blob/master/_posts/2022-07-21-art-of-dom-clobbering.md
+- https://github.com/cms/domready
 
 ### Single-page application
 
@@ -529,9 +541,10 @@
 - [take a js/ts file as input and generate a jest unit test file next to it with all imports mocked and tests stubs for every class method and function exported](https://github.com/egm0121/jest-test-gen)
 - https://github.com/rmurphey/js-assessment
 - https://solverfox.dev/writing/testing-dispatch-event-pitfalls
+- [goodies for my test automation framework](https://github.com/stars/sidorares/lists/tv)
 
 
-### Virtual machines
+### Virtual machine
 
 - [I want to embed an entire JS VM inside a browser.](https://twitter.com/garybernhardt/status/1212468714018242560)
 - [16-Bit Virtual Machine](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
@@ -539,7 +552,7 @@
 - https://github.com/fraxken/VM-Resources
 - [Emulation in JavaScript | Matt Godbolt](https://www.youtube.com/playlist?list=PL2HVqYf7If8c3E0_m4KH6nwpcclY7eSqf)
 
-### Compilers
+### Compiler
 
 - https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
 - https://github.com/jamiebuilds/the-super-tiny-compiler
@@ -547,6 +560,7 @@
 - https://github.com/lkesteloot/turbopascal + https://news.ycombinator.com/item?id=26207624 + https://www.teamten.com/lawrence/projects/turbo_pascal_compiler
 - https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers + https://youtu.be/r76ZjdzFExg
 - https://twitter.com/Aayyushhh/status/1452752483596464130 + https://twitter.com/maxkoretskyi/status/1206604253965324288 + https://www.slideshare.net/secret/7URGTJH8P6JUiG + https://twitter.com/poledesfetes/status/1230151645914390528
+- [Compile, archive, unpack, and load compiled modules leveraging v8 cached data](https://github.com/little-core-labs/tiny-module-compiler)
 
 ### Parser
 

@@ -59,6 +59,7 @@
 - [SQL Designer, your online SQL diagramming tool](https://github.com/ondras/wwwsqldesigner)
 - https://thomasjfrank.com/notion-databases-the-ultimate-beginners-guide + https://twitter.com/TomFrankly/status/1532771931073744897
 - [You can feed sqlmap swagger files](https://twitter.com/nullenc0de/status/1561890469541564416)
+- [Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL](https://github.com/cube2222/octosql)
 
 
 ### Hacks
@@ -132,6 +133,7 @@
 ### Graph databases
 
 - https://www.arangodb.com/learn/first-day/udemy
+- https://github.com/neo4j-contrib/rabbithole
 
 ### In memory databases
 
@@ -174,6 +176,11 @@
 - https://github.com/sujeet-agrahari/awesome-database-design
 - [Against unnecessary databases](https://beepb00p.xyz/unnecessary-db.html)
 - https://medium.com/@tjukanov/finding-the-most-innovative-square-kilometer-in-europe-with-spatial-sql-46b0fc4bde62
+
+### PostgreSQL
+
+- https://www.crunchydata.com/blog/learn-postgres-at-the-playground
+- [The past, present, and future of Postgres, and the Postgres Playground](https://huffduffer.com/cemerick/647557)
 
 ### Production
 
