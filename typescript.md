@@ -44,6 +44,7 @@
 - [Remo Jansen](https://www.remojansen.com/#talks)
 - [Stefan Baumgartner](https://fettblog.eu/archive/typescript)
 - [Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
+- [Broadly scoped ecosystem & mono-repository of 167+ TypeScript projects for functional, data driven development](https://github.com/thi-ng/umbrella)
 
 ### Presentations
 

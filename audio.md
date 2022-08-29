@@ -73,6 +73,7 @@
 - [Simple personal server to serve audiofiles files from folders](https://github.com/izderadicka/audioserve)
 - [scripts to download podcasts](https://github.com/paulgazz/podcasts)
 - https://www.regisfreyd.com/posts/2020-05-02-apple-music-is-better-than-spotify
+- https://blog.yossarian.net/2022/02/21/Enjoying-music-curation-again
 
 ### Security
 

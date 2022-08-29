@@ -46,6 +46,7 @@
 - [Finding sensitive information in the trimmed parts of cropped images](https://github.com/dfaram7/pptshots)
 - http://cbloomrants.blogspot.com/2021/01/some-jpeg-tools.html
 - https://blog.daviddworken.com/posts/simple-image-steganography
+- https://github.com/collections/pixel-art-tools
 
 
 ### Photos

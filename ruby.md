@@ -240,6 +240,8 @@
 - [What is the cheapest and most reliable way to host a Rails app with Postgres, Redis, mail, and SSL?](https://twitter.com/olivierlacan/status/1554152248392966151)
 - [one process, one pod](https://twitter.com/nateberkopec/status/1554604870073729025) + https://www.speedshop.co/2017/10/12/appserver.html
 - [Has anybody deployed their Rails apps to https://fly.io?](https://twitter.com/bradgessler/status/1554464283085492226) + https://twitter.com/bradgessler/status/1563226936184164352 + https://greg.nokes.name/2022/08/25/heroku-removing-free-teir
+
+
 ### Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems) + https://nts.strzibny.name/ruby-stdlib-default-bundled-gems + https://gist.github.com/boue/9540965
@@ -283,6 +285,7 @@
 - https://github.com/piotrmurach/awesome-ruby-cli-apps
 - [Make awesome command-line applications the easy way](https://github.com/davetron5000/gli)
 - [parse a standard youtube url and generate the embed html code](https://github.com/datwright/youtube_addy)
+- https://yossarian.net/snippets#ruby
 
 ### Inspire
 
@@ -346,6 +349,7 @@
 - [`[*array1, *array2, ...]` is slightly slower than `array1 + array2 + ...`](https://gist.github.com/postmodern/83731685900fb851ee799026ba46e087)
 - [The State of Bool](https://github.com/geraldb/talks/blob/master/bool.md)
 - https://hashrocket.com/blog/posts/using-match-vs-equals-tilde-in-ruby
+- https://blog.yossarian.net/2019/06/09/Pipelines-in-Ruby-with-Open3
 
 ### Opinion
 
@@ -364,6 +368,7 @@
 - [:: chunky bacon](http://code-anth.xyz/posts/3)
 - https://avdi.codes/ruby-is-defined-by-terrible-tools
 - https://skatkov.com/2020/03/26/lessons-from-building-another-url-shortener.html + https://github.com/skatkov/acart
+- https://blog.yossarian.net/2015/09/28/Five-Things-I-Hate-About-Ruby
 
 ### Pattern
 

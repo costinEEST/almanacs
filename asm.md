@@ -66,6 +66,8 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/assembly.md
 - https://github.com/ReversingID/Awesome-Reversing/blob/master/_software.md
 - http://www.vikaskumar.org/amd64/index.htm
+- https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory
+- https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have
 
 ### RISC-V
 

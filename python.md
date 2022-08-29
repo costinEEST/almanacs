@@ -290,6 +290,7 @@
 - https://alexwlchan.net/2019/04/getting-a-transcript-of-a-talk-from-youtube
 - https://alexwlchan.net/2016/12/slack-history
 - https://alexwlchan.net/2021/04/s3-progress-bars
+- [Recreating grep](https://kevingal.com/blog/cli-tools.html)
 
 ### Testing
 

@@ -79,6 +79,7 @@
 - https://blog.scottlogic.com/2021/09/14/120-years-timezone.html
 - [The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head)](http://rudy.ca/doomsday.html)
 - https://nelsonslog.wordpress.com/2021/09/25/time-zones-that-are-utc
+- https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist
 
 ### TIL
 

@@ -156,6 +156,7 @@
 - https://remelehane.dev/posts/diy-node-cache-for-docker-ci
 - [metrics and dev envirnoment with Prometheus and Grafana](https://github.com/ghermeto/openjs-world-2021)
 - https://github.com/yonathan06/fastify-typescript-starter
+- https://backend.cafe/how-to-unlock-the-fastest-fastify-server-startup
 
 ### Cinema
 
@@ -497,6 +498,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://dev.to/serpapi/web-scraping-google-maps-reviews-with-nodejs-328g
 - [A web scraping and browser automation library that helps you build reliable crawlers](https://github.com/apify/crawlee)
 - [Aid automatic detection of in-browser cryptojacking](https://github.com/1lastBr3ath/drmine)
+- [Takes a screenshot of a given website and saves it to the given file](https://yossarian.net/snippets#nodeJS)
 
 ### Micro service
 

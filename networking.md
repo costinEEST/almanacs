@@ -194,6 +194,7 @@
 - https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Gerald-Doussot-Roger-Meyer-State-of-DNS-Rebinding-Attack-and-Prevention-Techniques-and-the-Singularity-of-Origin.pdf + https://youtu.be/y9-0lICNjOQ
 - https://books.thoughtbot.com/books/domain-name-sanity.html
 - https://www.blackhillsinfosec.com/the-dns-over-https-doh-mess
+- https://github.com/vincentcox/bypass-firewalls-by-DNS-history
 
 ### TCP/UDP
 
@@ -304,6 +305,7 @@
 ### SMTP
 
 - [An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures](https://github.com/chenjj/espoofer)
+- https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse
 
 ### WebSockets
 
@@ -405,3 +407,4 @@
 - [OSI 7 Layer Reference Model cited around 1978](https://twitter.com/ErrataRob/status/1552076234707935232)
 - [Network lab with QEMU](https://vincent.bernat.ch/en/blog/2012-network-lab-kvm)
 - https://xeiaso.net/talks/irc-why-it-failed-2018-05-17
+- https://blog.yossarian.net/2015/05/08/The-Death-of-IRC

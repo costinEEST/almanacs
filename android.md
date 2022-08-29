@@ -62,6 +62,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - https://blog.esper.io/android-dessert-bites-22-linux-memory-management-38419756
 - https://blog.esper.io/android-13-exact-alarm-api-restrictions
 - https://benjamin-altpeter.de/android-top-charts-reverse-engineering + https://github.com/baltpeter/parse-play + https://twitter.com/baltpeter/status/1537569735738523649
+- https://github.com/LineageOS/android_device_xiaomi_sdm845-common
 
 
 ### Tool

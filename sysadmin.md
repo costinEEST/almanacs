@@ -147,6 +147,7 @@
 - https://github.com/stars/tomajask/lists/selfhosted + https://open.spotify.com/show/7n6M9laXHppo9WzEBt6Xiq
 - https://citizen428.net/blog/self-hosting-static-site-openbsd-httpd-relayd
 - https://www.udemy.com/course/nginx-crash-course + https://nginx.husseinnasser.com
+- https://blog.yossarian.net/2018/03/15/blog.yossarian.net-is-now-self-hosted
 
 ### References
 

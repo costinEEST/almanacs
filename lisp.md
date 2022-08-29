@@ -24,6 +24,10 @@
 - https://huangxuan.me/2019/09/13/peter-john-landin
 - https://bernsteinbear.com/blog/lisp
 
+### Practice 
+
+- https://github.com/Kevinpgalligan/advent-of-code-2021
+
 ### Radio
 
 - https://www.patreon.com/posts/episode-73-ipl-60945099

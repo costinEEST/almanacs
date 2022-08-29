@@ -17,6 +17,7 @@
 - https://github.com/play-with-go/play-with-go
 - https://github.com/dgryski/go-perfbook
 - https://github.com/mmcgrana/gobyexample
+- https://github.com/teivah/100-go-mistakes
 
 ### Boots
 
@@ -126,6 +127,8 @@
 - [High-precision indoor positioning framework for most wifi-enabled devices](https://github.com/schollz/find)
 - [Personal information dashboard for your terminal](https://github.com/wtfutil/wtf)
 - https://github.com/ddz/whatsapp-media-decrypt
+- [A fast tool to scan CRLF vulnerability](https://github.com/dwisiswant0/crlfuzz)
+- [Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server](https://github.com/xo/xo)
 
 ### Radio
 

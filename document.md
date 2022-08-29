@@ -46,6 +46,7 @@
 - [A book build system that produces PDF, EPUB and MOBI from asciidoc to Amazon specifications](https://github.com/merklebloom/bookbuilder)
 - https://github.com/ReversingID/Awesome-Reversing/blob/master/_format.md
 - [Smallest possible syntactically valid files of different types](https://github.com/mathiasbynens/small)
+- https://blog.yossarian.net/2021/06/01/Playing-with-Apples-weird-compression-formats
 
 ### Security
 

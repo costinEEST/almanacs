@@ -83,6 +83,7 @@
 
 ### Security
 
+- https://github.com/hack-different/apple-knowledge
 - https://twitter.com/lordx64/status/1314614366361264130
 - [Does Apple really log every app you run?](https://blog.jacopo.io/en/post/apple-ocsp)
 - https://github.com/0xmachos/Apple-Platform-Security-Guides

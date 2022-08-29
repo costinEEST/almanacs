@@ -38,6 +38,7 @@
 - https://alexwlchan.net/2015/11/quick-shell-docker
 - http://redsymbol.net/articles/unofficial-bash-strict-mode
 - https://www.anshumanbhartiya.com/posts/performing-code-review-on-shell-scripts
+- https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort
 
 ### Cinema
 
