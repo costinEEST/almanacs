@@ -337,6 +337,10 @@
 - https://github.com/rekihattori/awesome-programmers
 - https://memoryandconscience.eu/centuryofmartyrs
 
+### Paul Graham 
+
+- https://stopa.io/post/294
+
 ### Umberto Eco
 
 - https://dilemaveche.ro/sectiune/societate/articol/ulise-in-tesatura-topografiilor-simbolice

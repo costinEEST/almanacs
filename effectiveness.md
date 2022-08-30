@@ -13,6 +13,7 @@
 - [Google dork about how to get a job in pentesting](https://twitter.com/nullenc0de/status/1560639105767440386)
 - https://twitter.com/z3dster/status/1500608769671245832
 - https://theoradical.ai/research/2010-search-engine-hacking
+- [Is there a pluggable open source file indexer for making my backup files easier to search?](https://twitter.com/captbaritone/status/1545925264433037312)
 
 ### tmux
 

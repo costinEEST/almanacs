@@ -129,11 +129,22 @@
 
 - https://fly.io/blog/sqlite-internals-rollback-journal
 - [Turning SQLite into a distributed database](https://univalence.me/posts/mvsqlite)
+- https://twitter.com/captbaritone/status/1552313020067594249
+- https://tantaman.com/2022-08-23-why-sqlite-why-now.html
+- https://twitter.com/reneeshah123/status/1562843950309814272
+- https://twitter.com/gvwilson/status/1562595621663817728
+- https://twitter.com/agarcia_me/status/1539635620598796288
+- [when does SQLite suck?](https://twitter.com/benbjohnson/status/1552756460857094144)
+- https://twitter.com/agarcia_me/status/1563231553299197952
+- https://github.com/dpapathanasiou/simple-graph
+- https://github.com/tantaman/conflict-free-sqlite
+- https://twitter.com/captbaritone/status/1560053602487377920
 
 ### Graph databases
 
 - https://www.arangodb.com/learn/first-day/udemy
 - https://github.com/neo4j-contrib/rabbithole
+- [A Graph-Based Firebase](https://stopa.io/post/296)
 
 ### In memory databases
 

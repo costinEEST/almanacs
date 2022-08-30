@@ -14,6 +14,7 @@
 - [How music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth)
 - [Hacking From The Browser by Tamas Jos](https://youtu.be/jStdrDHTmD4)
 - https://xeiaso.net/talks/webassembly-on-the-server-system-calls-2019-05-31
+- https://jordaneldredge.com/blog/faster-safer-compiling-untrusted-code-to-web-assembly-in-the-browser
 
 ### Courses
 

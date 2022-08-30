@@ -176,6 +176,7 @@
 - https://betterprogramming.pub/why-you-should-be-separating-your-server-cache-from-your-ui-state-1585a9ae8336
 - [The composition patterns (usage of children) that we sometimes use to optimize can also be used to interleave components of different types](https://twitter.com/sebmarkbage/status/1096115287781400576)
 - https://julesblom.com/writing/component-displayname
+- https://jordaneldredge.com/blog/defaulting-to-empty-string-is-a-code-smell
 
 ### Concurrent Mode/Suspense
 

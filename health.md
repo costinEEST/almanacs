@@ -58,6 +58,7 @@
 - [Wellbeing: A Cultural History of Healthy Living | Klaus Bergdolt](https://www.amazon.com/Wellbeing-Cultural-History-Healthy-Living/dp/074562913X) + https://www.wiley.com/en-us/Wellbeing:+A+Cultural+History+of+Healthy+Living-p-9780745629131
 - https://adriancopcea.com/2018/03/11/cum-se-explica-nebunia-cu-studiul-china
 - https://melanieavalon.com/stuffIlike/#tab-con-24
+- https://aaroniba.net/how-i-cured-my-rsi-pain + https://twitter.com/patrickc/status/1559737765566173185
 
 
 ### Carbohydrates

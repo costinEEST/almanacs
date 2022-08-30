@@ -183,6 +183,7 @@
 ### Databases
 
 - https://postgresweekly.com/issues
+- [Alex Garcia](https://buttondown.email/alexgarcia/archive)
 
 ### Geopolitics
 

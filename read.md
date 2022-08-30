@@ -51,6 +51,7 @@
 
 ### Review
 
+- [Stepan Parunashvili](https://www.zeneca.io/stopa)
 - [Nat Eliason](https://www.nateliason.com/notes)
 - https://phor.net/reading-list
 - https://lokeshdhakar.com/notes

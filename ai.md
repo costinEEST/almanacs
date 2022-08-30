@@ -151,6 +151,7 @@
 - https://github.com/AgaMiko/bird-recognition-review
 - https://www.digitalocean.com/community/tutorials/how-to-trick-a-neural-network-in-python-3
 - https://github.com/Kayzaks/HackingNeuralNetworks
+- https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 
 ### CNN
 

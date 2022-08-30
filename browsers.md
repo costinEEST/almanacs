@@ -332,6 +332,7 @@ javascript: (() =>
 - [Why IndexedDB is slow and what to use instead](https://rxdb.info/slow-indexeddb.html)
 - [Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.](https://github.com/localForage/localForage)
 - [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
+- https://tantaman.com/2022-05-13-large-local-storage.html
 
 
 ### Federated Learning of Cohorts
