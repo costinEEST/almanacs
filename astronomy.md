@@ -5,6 +5,7 @@
 - https://blog.dpc.dev/dialogue-concerning-the-two-chief-world-systems-galileo-galilei
 - https://www.nataliestarkey.com/catching-stardust-comets-asteroids-and-birth-of-the-solar-system
 - [Chaos: Making a New Science | James Gleick](https://www.2uo.de/Books/chaos)
+- https://blog.patternsinthevoid.net/cosmology.html
 
 
 ### Cinema

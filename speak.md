@@ -358,6 +358,7 @@
 - [Istoriile lui Roderick](https://hroderic.wordpress.com)
 - https://lazyadmin.ro/biblioteca-sau-librarie
 - https://www.goodreads.com/author/show/3986432.Ramona_G_ncz_l_Davies
+- [Elemente turceşti în limba română | Lazăr Şăineanu](http://dspace.bcu-iasi.ro/handle/123456789/17393)
 
 ### Russian
 

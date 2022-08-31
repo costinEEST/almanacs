@@ -1,4 +1,4 @@
-### Approaches
+### Approach
 
 - [best practices for web images](https://github.com/nucliweb/image-element)
 - https://joshwcomeau.com/performance/embracing-modern-image-formats
@@ -8,6 +8,7 @@
 - [Content-aware image resizer and object remover based on Seam Carving algorithm](https://github.com/trekhleb/js-image-carver)
 - https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens
 - [How do you handle images for your personal blogs?](https://twitter.com/jamesqquick/status/1551587367752007685)
+- https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html
 
 ### Community
 

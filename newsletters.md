@@ -229,6 +229,7 @@
 - [Joe Previte](https://www.getrevue.co/profile/jsjoeio)
 - [Maxime Heckel](https://buttondown.email/MaximeHeckel/archive)
 - [Kent Beck](https://tidyfirst.substack.com/archive)
+- [Evert Pot](https://www.getrevue.co/profile/evertp/#archive)
 
 ### Web performance
 

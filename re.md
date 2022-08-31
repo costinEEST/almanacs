@@ -45,6 +45,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - [A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.](https://github.com/mytechnotalent/Hacking-Windows)
 - https://leanpub.com/anti-reverse-engineering-linux + https://github.com/antire-book/antire_book
 - [A Beginner’s Guide to Understanding Game Hacking Techniques](https://gamehacking.academy/GameHackingAcademy.pdf) + https://gamehacking.academy
+- https://github.com/iosre/iOSAppReverseEngineering
 
 ### Community
 

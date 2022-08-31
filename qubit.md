@@ -3,6 +3,7 @@
 - [Introduction to Classical and Quantum Computing | Thomas G. Wong](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 - [Quantum Field Theory, as Simply as Possible | Tony Zee](https://twitter.com/curiouswavefn/status/1553186104987111425)
 - http://www.daviddeutsch.org.uk/books/the-fabric-of-reality + https://www.youtube.com/playlist?list=PLsE51P_yPQCQj5HxV0KPVpzxT03ScIjDJ
+- https://github.com/isislovecruft/library--/tree/master/languages/quantum%20programming
 
 ### Cheat sheet 
 

@@ -28,6 +28,10 @@
 - [Silly proof-of-concept for a PDF chatroom](https://github.com/ranok/pdfchat)
 - [Make your own colliding PDFs](https://twitter.com/steike/status/834826657768865793)
 
+### .png 
+
+https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vidbuchanan.co.uk/widgets/pngdiff
+
 ### .yaml
 
 - https://kodekloud.com/p/json-path-quiz

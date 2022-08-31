@@ -37,6 +37,7 @@
 - [Braiding Sweetgrass Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants By Robin Wall Kimmerer](https://milkweed.org/book/braiding-sweetgrass)
 - https://politeia.org.ro/magazin-istoric/manuscrise-celebre-vienna-dioscurides/20768
 - https://www.popsci.com/diy/houseplants-summer-care-guide
+- https://www.indefenseofplants.com/blog/2017/9/10/how-do-palms-survive-hurricanes
 
 ### Radio
 

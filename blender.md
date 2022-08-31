@@ -6,3 +6,4 @@
 ### Tool
 
 - https://github.com/njanakiev/blender-scripting
+- https://github.com/stars/caged/lists/3d-blender

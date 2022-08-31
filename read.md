@@ -52,6 +52,7 @@
 ### Review
 
 - [Stepan Parunashvili](https://www.zeneca.io/stopa)
+- [Aaron Hertzmann](https://aaronhertzmann.com/2020/05/04/art-book-reviews.html)
 - [Nat Eliason](https://www.nateliason.com/notes)
 - https://phor.net/reading-list
 - https://lokeshdhakar.com/notes

@@ -66,6 +66,7 @@
 - https://github.com/mriddle/obsidian-demo-template
 - [Create book from markdown files. Like Gitbook but implemented in Rust](https://github.com/rust-lang/mdBook)
 - https://www.mayhplumb.com/LaTeX
+- https://github.com/isislovecruft/library--/tree/master/languages/LaTeX
 - [LaTeX class for preparing presentations for use on overhead projectors](https://shoup.net/projector)
 - [Analyse rhyme scheme, metre and form of poems](https://github.com/hyperreality/Poetry-Tools)
 - [The Latex files used to create my PhD Thesis](https://github.com/jack4818/thesis-template)

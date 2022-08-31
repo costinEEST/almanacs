@@ -1,5 +1,7 @@
 ### Authentication
 
+- https://evertpot.com/jwt-is-a-bad-default
+- https://evertpot.com/oauth2-javascript-client
 - [Authentication and Authorization on the Web | Nigel Chapman](https://github.com/macavon/Web-Security-Topics-Example-Code)
 - https://github.com/JamesCollerton/Identity-and-Data-Security-for-Web-Development + https://github.com/iddatasecuritybook
 - [Authenticating your single page apps using JSON Web Tokens](https://www.mydevsecops.io/post/knock-knock-who-s-there-authenticating-your-single-page-apps-using-json-web-tokens)
@@ -85,6 +87,7 @@
 - https://blog.techfund.jp/p/using-rust-for-writing-nodejs-modules
 - https://github.com/nearform/slow-rest-api
 - Design and Implementation of a Node.js Framework for the Development of RESTful APIs: https://github.com/matthyk/bachelor_thesis, https://github.com/matthyk/rosmarin
+- [Building a Timetracking application with Hypermedia | Evert Pot](https://www.youtube.com/playlist?list=PLqqoUVHAFAYPn3obbnhpbPSI3tdzIqc64)
 
 ### Book
 
@@ -314,6 +317,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 ### .mjs
 
+- https://github.com/johnloy/esm-commonjs-interop-manual
 - https://2ality.com/2022/07/nodejs-esm-shell-scripts.html
 - https://gils-blog.tayar.org/tags/esm
 - https://github.com/giltayar/ah-theyre-here-esm-nodejs

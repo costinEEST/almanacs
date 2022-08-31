@@ -195,6 +195,7 @@
 - https://tommarien.github.io/blog/2020/03/02/from-undefined-to-zero
 - https://github.com/sindresorhus/meta/discussions/7
 - https://twitter.com/swapnakpanda/status/1514812127999004672
+- https://twitter.com/buildsghost/status/1354279136433299459
 
 ### undefined 
 
@@ -345,6 +346,7 @@
 
 ### async await
 
+- https://www.zhenghao.io/posts/await-vs-promise
 - Fast and maintainable patterns for fetching from a database: [tweet](https://twitter.com/sophiebits/status/1212555591056424960) + [blog post](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
 - https://github.com/Lemoncode/async-javascript-fundamentals
 - [waitForFrame: a little async utility to wait for an animation frame](https://twitter.com/alexandereardon/status/1245870136659066882)
@@ -362,7 +364,7 @@
 ### class
 
 - [When are public instance fields executed?]https://twitter.com/rauschma/status/1205417503108878336
-- https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078
+- https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078 + https://evertpot.com/syntactic-sugar
 - https://www.mgaudet.ca/technical/2021/5/4/implementing-private-fields-for-javascript
 - https://piranna.github.io/2021/07/08/Abstract-classes-in-Javascript
 

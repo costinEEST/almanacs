@@ -58,6 +58,7 @@
 - [EX280 (Red Hat Certified Specialist in OpenShift Administration)](https://blog.benstein.nl/ex280)
 - [Docker and the OCI container ecosystem](https://lwn.net/Articles/902049) + https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond
 - https://xeiaso.net/talks/systemd-the-good-parts-2021-05-16
+- [How do you check if you are inside a container?](https://twitter.com/g3rzi/status/1564594977220562945)
 
 ### Internals
 

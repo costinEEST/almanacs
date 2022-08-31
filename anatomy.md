@@ -5,6 +5,7 @@
 ### Cinema
 
 - [SmartTraining365 Biomechanics](https://www.youtube.com/channel/UCh_8DNqrT_rJ2NbNHUNrTxA/videos)
+- [RENAL PHYSIOLOGY Dr. Brian Rowe | ETSU Online](https://www.youtube.com/playlist?list=PLAjrswY6TkLCFyY583H3YG8xPt9yYlXWn)
 
 ### Fitness
 

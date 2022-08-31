@@ -398,6 +398,7 @@ javascript: (() =>
 - https://ahrefs.com/blog/seo-glossary
 - [SEO | knowthen](https://www.youtube.com/playlist?list=PLs0HJRuXPAqsj9fxpr8eJdJxCT2fN_G8S)
 - [Today I set up SEO for rubyandrails.info](https://twitter.com/nleonid/status/1554154237080354818)
+- https://github.com/sw-yx/company-youtubes#business-oriented
 
 ### Web Real-Time Communication (WebRTC)
 
@@ -472,6 +473,7 @@ javascript: (() =>
 - [an experiment to make something like "vvvv" in javascript, html and webgl.](https://github.com/idflood/ThreeNodes.js)
 - https://xem.github.io/articles/webgl-guide.html + https://twitter.com/MaximeEuziere/status/1261643172582653954
 - https://github.com/spite/virtual-webcam
+- https://github.com/caged/regl-learn
 
 ### WebGPU
 

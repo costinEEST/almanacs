@@ -311,6 +311,7 @@
 - [Heisenberg, Bohr and the atomic bomb](https://www.webofstories.com/play/edward.teller/34)
 - https://youtu.be/QrCc9XfNoBE
 - https://youtu.be/L5WOnYB2-o8
+- https://blog.patternsinthevoid.net/famous-physicists-on-mysticism-2-the-debate-between-plato-and-democritus-by-werner-heisenberg.html
 
 
 ### Miscellaneous

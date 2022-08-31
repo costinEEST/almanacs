@@ -50,6 +50,7 @@
 
 - https://codeopinion.com/php-upload-large-file-bug
 - https://github.com/jmolivas/symfony-certification-guide
+- [Setup an Apache, MySQL & PHP local server using Docker](https://gist.github.com/Eyal-Shalev/1b747a0ce47ae3123fe30e0635567803)
 
 ### Tool
 

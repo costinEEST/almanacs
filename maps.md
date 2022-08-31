@@ -1,3 +1,7 @@
+### Book 
+
+- [A Guide to Spatial History: Areas, Aspects, and Avenues of Research | Konrad Lawson, Riccardo Bavaj, Bernhard Struck](https://twitter.com/kmlawson/status/1479117587363491850)
+
 ### Course
 
 - [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
@@ -25,6 +29,7 @@
 - https://tjukanovt.github.io/notable-people + https://twitter.com/tjukanov/status/1552622792708874240
 - [An OpenGL world visualizer, written in Rust](https://github.com/ucarion/gaia)
 - https://www.cntraveler.com/story/a-global-food-map-of-the-worlds-best-restaurants
+- [Berlin subway map, animated](https://github.com/lzear/ubahnchen)
 
 ### Cinema
 

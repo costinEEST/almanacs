@@ -55,6 +55,7 @@
 ### Guitar
 
 - [Adrian Holovaty](https://www.soundslice.com/users/adrian)
+- [Diatonic scale learning aid for guitarist](https://github.com/caged/scales)
 
 ### Instrument
 
@@ -86,6 +87,7 @@
 - https://learningmusic.ableton.com
 - https://learningsynths.ableton.com
 - https://github.com/pyxelr/recommendations-for-engineers#music
+- [JavaScript Chord Charts](https://github.com/0xfe/vexchords)
 
 
 ### Reference

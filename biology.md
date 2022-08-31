@@ -46,6 +46,7 @@
 
 ### Cinema
 
+- [BIOL 1020 - Biology for non-majors. Dr. Leonard Robertson | ETSU Online](https://www.youtube.com/playlist?list=PLAjrswY6TkLAGyEefr6CmsuTaWBKlzKIw)
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUe2RDl_soTaxj1KVuuQFOUX
 - https://www.pbs.org/kenburns/the-gene
 - [Signalling Theory and the Genetic Code](https://www.youtube.com/playlist?list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o) + https://twitter.com/StatedClearly/status/1349828940232355850
