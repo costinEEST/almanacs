@@ -1,3 +1,5 @@
+
+
 ### Buddhism
 
 - [Wisdom Publications](https://www.youtube.com/channel/UCKrdx4usaugOhLzjvYmzpIg/playlists)
@@ -7,6 +9,10 @@
 - [Dalai Lama - Bridging Buddhism & Science - ACI Dharma România](https://www.youtube.com/playlist?list=PLb771hFqA1oTskt3tJ8nF73bxlTlbhZ-o)
 - [Daily Practice Series Course 05: Meditation on Death and the End of Death (1999, Raleigh)](https://www.theknowledgebase.com/archive/en/dailypractice05-1999-raleigh-geshemichael)
 - https://wisdomexperience.org/wisdom-article/wisdom-podcast
+
+### Cinema 
+
+- https://www.youtube.com/watch?v=ub1ESXqPg7k&list=PL21r2LI2r8hlTWASsVp3Ik0nvJvlepZc3&index=10
 
 ### Christianity
 
