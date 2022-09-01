@@ -195,6 +195,7 @@
 - https://books.thoughtbot.com/books/domain-name-sanity.html
 - https://www.blackhillsinfosec.com/the-dns-over-https-doh-mess
 - https://github.com/vincentcox/bypass-firewalls-by-DNS-history
+- [Alternative DNS servers | Jan-Piet Mens](https://jpmens.net/2010/10/29/alternative-dns-servers-the-book-as-pdf) + https://jpmens.net/dns
 
 ### TCP/UDP
 

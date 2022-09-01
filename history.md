@@ -1,3 +1,7 @@
+### Book 
+
+- [The Languages of Gift in the Early Middle Ages | Wendy Davies, Paul Fouracre](https://www.cambridge.org/do/academic/subjects/history/european-history-450-1000/languages-gift-early-middle-ages)
+
 ### Cinema 
 
 - [Modern Travel, Modern Landscape Conference. Abstract and Speaker Booklet](https://mtml2022.files.wordpress.com/2022/07/mtml-abstracts-and-bios.pdf)

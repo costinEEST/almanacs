@@ -48,6 +48,7 @@
 - [Slides, figures, and other material for teaching using tracing and observability on FreeBSD](https://github.com/teachbsd/course)
 - https://ianthehenry.com/posts/how-to-learn-nix
 - https://push.cx/2018/nixos
+- https://ma.ttias.be/syscast/9-linux-vs-bsd
 
 
 ### Tool

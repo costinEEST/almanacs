@@ -18,6 +18,7 @@
 - https://github.com/techno-tim/ansible-homelab
 - https://github.com/mytechnotalent/Ansible-For-Everyone
 - https://redteamer.tips/automating-red-team-infrastructure-with-ansible-part-1-raw-infrastructure
+- https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd
 
 ### Docker
 

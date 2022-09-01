@@ -471,6 +471,7 @@
 - [Consider linting your factories](https://twitter.com/siaw23/status/1554128777382400002)
 - https://github.com/wolframarnold/Efficient-Test-Driven-Rails-Development + https://www.youtube.com/watch?v=9cNcnFxyixs
 - https://www.stevenrbaker.com/tech/history-of-rspec.html
+- https://www.die-welt.net/2021/12/the-mocking-will-continue-until-ci-improves
 
 ### Radio
 

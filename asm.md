@@ -100,4 +100,5 @@
 ### Radio
 
 - https://tlbh.it/000_mov_fp_sp.html
+- https://ma.ttias.be/syscast/8-intel-amd-arm-cpu-hardware-episode
 

@@ -6,6 +6,7 @@
 - https://www.nataliestarkey.com/catching-stardust-comets-asteroids-and-birth-of-the-solar-system
 - [Chaos: Making a New Science | James Gleick](https://www.2uo.de/Books/chaos)
 - https://blog.patternsinthevoid.net/cosmology.html
+- [Paul C.W. Davies](https://www.scribd.com/author/522188669/Paul-Davies)
 
 
 ### Cinema

@@ -60,6 +60,7 @@
 - [Louis Rossmann](https://www.youtube.com/user/rossmanngroup/playlists)
 - [Windell H. Oskay](https://www.evilmadscientist.com/category/engineering/basics)
 - [hardware hacking courses/content](https://twitter.com/seanmeals/status/1427776005675048962)
+- [Ian Cutress](https://www.youtube.com/c/TechTechPotato/playlists)
 
 ### Course
 
