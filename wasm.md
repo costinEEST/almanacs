@@ -27,6 +27,7 @@
 - [Alon Zakai](https://twitter.com/kripken)
 - [Radu Matei](https://twitter.com/matei_radu)
 - [Max Graey](https://twitter.com/MaxGraey)
+- https://github.com/stars/yamalight/lists/wasm-things
 
 ### Development
 

@@ -39,6 +39,7 @@
 ### Development 
 
 - [Library for creating custom geo data and syncronizing via a peer to peer network](https://github.com/digidem/mapeo-core)
+- https://suntprogramator.dev/2019/08/qgis-plugin-implementarea-serviciului-map-md-api
 
 ### Miscellaneous
 

@@ -43,6 +43,7 @@
 - [web-based MS Paint remake](https://github.com/1j01/jspaint)
 - https://github.com/mattermost/desktop
 - [A WIP IRC client](https://github.com/evanlucas/eyearesee)
+- [Refined Evernote desktop app](https://github.com/klaussinani/tusk)
 
 ### Boilerplates
 

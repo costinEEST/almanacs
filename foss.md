@@ -4,6 +4,7 @@
 - [Maintaining Open Source Projects | Tute Costa](https://app.gumroad.com/d/7fe307cd93ad578c9f8ed523e580405e)
 - https://www.amazon.com/Success-Open-Source-Steven-Weber/dp/0674018583
 - https://github.com/eddiejaoude/book-open-source-tips
+- http://gustavbertram.com/learning/free_culture
 
 ### Cinema
 

@@ -124,6 +124,8 @@
 
 ### Boilerplate
 
+- https://github.com/santiq/bulletproof-nodejs
+- [Build your Typescript Node.js projects using blazing fast esbuild](https://github.com/a7ul/esbuild-node-tsc)
 - https://github.com/bcoe/awesome-cross-platform-nodejs
 - https://github.com/microsoft/TypeScript-Node-Starter
 - https://github.com/juicycleff/ultimate-backend
@@ -150,8 +152,6 @@
 - https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction
 - [Simple HTTP Rest example using express](https://github.com/nodeshift-starters/nodejs-rest-http)
 - [Single Page App boilerplate for the NERDS stack - Node, Express, React/Redux, Databases with SQL (PostgreSQL)](https://github.com/dye784/NERDS-starterpack)
-- https://github.com/santiq/bulletproof-nodejs
-- [Build your Typescript Node.js projects using blazing fast esbuild](https://github.com/a7ul/esbuild-node-tsc)
 - https://github.com/benedmunds/Node-Express-MVR-Example
 - https://github.com/sujeet-agrahari/node-express-clean-architecture
 - https://github.com/kentcdodds/express-app-example
@@ -315,8 +315,13 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 - [Upgrade a regular `net.Stream` connection to a secure `tls` connection](https://gist.github.com/TooTallNate/848444)
 
+### `node:tls`
+
+- https://obensource.com/blogs/https-for-local-development
+
 ### .mjs
 
+- https://obensource.com/blogs/when-its-time-to-migrate-away-from-commonjs
 - https://github.com/johnloy/esm-commonjs-interop-manual
 - https://2ality.com/2022/07/nodejs-esm-shell-scripts.html
 - https://gils-blog.tayar.org/tags/esm

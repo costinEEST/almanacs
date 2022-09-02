@@ -80,6 +80,8 @@
 - [Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/talks.html)
 - https://the-isogeny-club.github.io
 - [Dan Boneh](https://crypto.stanford.edu/~dabo)
+- http://gustavbertram.com/fun/cryptanalysis
+- http://gustavbertram.com/fun/cryptarithmetic
 
 ### Demos
 

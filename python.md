@@ -101,6 +101,7 @@
 ### Community 
 
 - https://www.facebook.com/groups/ropython
+- https://github.com/adrianmoisey/learn-python
 
 ### Data structures
 

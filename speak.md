@@ -108,6 +108,7 @@
 - https://chaoyangtrap.house
 - [Classical Chinese for Everyone: A Guide for Absolute Beginners | Bryan W. Van Norden](https://www.facebook.com/orelb/posts/pfbid02ppaUQdZftTorqhAmJcCYomsWtoqjGLiDQd2cxay79mff1TpXHpjdekxGGp2WguEdl)
 - https://alexwlchan.net/2020/04/storing-language-vocabulary-as-a-graph
+- https://en.wikibooks.org/wiki/Chinese_%28Mandarin%29/Using_Tones
 
 ### Arabic
 
@@ -245,6 +246,7 @@
 - https://github.com/mercari/engineer-vocabulary-list
 - https://twitter.com/TastingHistory1/status/1516949463524274183
 - [Japanese Phonetics Index Page](https://www.patreon.com/posts/16489306) + https://www.youtube.com/user/Dogen/playlists
+- http://gustavbertram.com/learning/language/japanese
 
 ### Korean
 
@@ -270,6 +272,7 @@
 - [Luke Amadeus Ranieri](https://www.youtube.com/c/PolymathyLuke/playlists) + https://www.reddit.com/r/latin/comments/ot107s/is_luke_ranieri_from_polymathy_the_guy_with_the + https://www.youtube.com/c/ScorpioMartianus/playlists
 - [Raphael Turrigiano](https://rturrigiano.wixsite.com/linguist/lessons)
 - https://archive.org/details/onlatinlanguage01varruoft + https://koaha.org/wiki/De_lingua_latina + http://www.attalus.org/info/varro.html + https://la.wikisource.org/wiki/De_Lingua_Latina_(Varro,_Schoppe)
+- https://www.youtube.com/playlist?list=PL2Ky2_VcYEd0bGOqRl_drTItO_Ve-Pt7_
 
 ### Lithuanian
 
@@ -370,6 +373,7 @@
 - https://www.facebook.com/radu.umbres/posts/pfbid02DwLfpf5DFJ3iJ8WM8rwoEmxyiNveU5meorZK86Fkr76wzKKbTZRAWDsL4N8jNutCl
 - https://quizlet.com/Meged_Irina
 - https://github.com/MitPitt/awesome-russian
+- http://www.omniglot.com/language/phrases/russian.php
 
 ### Rare
 

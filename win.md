@@ -4,9 +4,23 @@
 - [Windows Kernel Programming](https://github.com/Truneski/WindowsKernelProgramming-Exercises)
 - https://www.amazon.com/Old-New-Thing-Development-Throughout/dp/0321440307
 
+### Cinema
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeJrvjEuCygYk4QiTXQpOyW
+- [Using Windows 10 - Technical Previews and How Tos! - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdI26ZdgX-F8aAKnh9sq6on)
+- [Operating Systems and You - Becoming a Power User | Qwiklabs-Courses](https://www.youtube.com/playlist?list=PLWbKFGwwAIAdkHHOtJe2zMWloBTlTIzXV)
+- https://www.youtube.com/playlist?list=PLn__CHOEZR1bjS_GvcjzSmZg524jTKQg_
+- https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp
+
+### Courses
+
+- https://www.pluralsight.com/authors/sami-laiho
+
 ### Community 
 
+- [FreeDOS](https://www.facebook.com/groups/freedos)
 - [Raymond Chen](https://devblogs.microsoft.com/oldnewthing/author/oldnewthing)
+
 
 ### How to
 
@@ -22,21 +36,7 @@
 - https://github.com/you-dont-need/You-Dont-Need-GUI
 - https://nelsonslog.wordpress.com/2022/08/01/setting-up-a-second-wsl-distribution
 
-### Cinema
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeJrvjEuCygYk4QiTXQpOyW
-- [Using Windows 10 - Technical Previews and How Tos! - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdI26ZdgX-F8aAKnh9sq6on)
-- [Operating Systems and You - Becoming a Power User | Qwiklabs-Courses](https://www.youtube.com/playlist?list=PLWbKFGwwAIAdkHHOtJe2zMWloBTlTIzXV)
-- https://www.youtube.com/playlist?list=PLn__CHOEZR1bjS_GvcjzSmZg524jTKQg_
-- https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp
-
-### Courses
-
-- https://www.pluralsight.com/authors/sami-laiho
-
-### Communities
-
-- [FreeDOS](https://www.facebook.com/groups/freedos)
 
 ### Internals
 
@@ -63,6 +63,7 @@
 - https://ahal.ca/blog/2021/mozilla-build-windows-terminal
 - https://github.com/farag2/Sophia-Script-for-Windows
 - [RPC Monitor tool based on Event Tracing for Windows](https://github.com/cyberark/RPCMon)
+- https://github.com/sirredbeard/Awesome-WSL
 
 ### Powershell
 

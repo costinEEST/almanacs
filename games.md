@@ -86,6 +86,7 @@
 - https://github.com/Poussinou/FLOSS-Games-on-Steam
 - https://www.quaxio.com/kaleidoscope_part1
 - https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua
+- https://github.com/stars/yamalight/lists/games
 
 ### The creators
 
@@ -97,6 +98,7 @@
 - [Tennis for Two](https://www.aps.org/publications/apsnews/200810/physicshistory.cfm)
 - https://github.com/bobeff/open-source-games
 - https://github.com/stared/science-based-games-list
+- https://github.com/leereilly/games
 
 ### Opinions
 

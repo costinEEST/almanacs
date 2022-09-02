@@ -364,6 +364,7 @@ javascript: (() =>
 
 ### Cross-origin resource sharing (CORS)
 
+- https://github.com/monsur/enable-cors.org
 - https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html
 - [Authenticated CORS with Access-Control-Allow-Origin: \*](https://blog.bi.tk/chrome-cors)
 - https://github.com/RUB-NDS/CORStest
@@ -478,6 +479,11 @@ javascript: (() =>
 ### WebGPU
 
 - https://hackaday.com/2022/03/09/webgpu-better-than-webgl
+
+### Web MIDI
+
+- https://github.com/obensource/web-midi-api-docs
+- https://obensource.com/blogs/high-fidelity-event-sampling-and-playback-with-vanilla-javascript
 
 ### WebUSB
 

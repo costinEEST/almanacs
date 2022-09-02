@@ -22,6 +22,7 @@
 - https://humanitas.ro/assets/pdf/Sfantul-Augustin_Despre-minciuna.pdf
 - https://archive.org/details/EneSiEcaterinaBraniste-DictionarEnciclopedicDeCunostinteReligioase
 - [On Christianity | Nassim Nicholas Taleb](https://twitter.com/nntaleb/status/1562838685002842117)
+- [More than a Defense (Apologetics Series) | BP Learning](https://www.youtube.com/playlist?list=PL2Ky2_VcYEd1dsx_VkyebLWB1LNgFgjdU)
 
 ### Islam
 

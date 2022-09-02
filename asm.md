@@ -19,9 +19,11 @@
 - [The AArch64 processor (aka arm64)](https://devblogs.microsoft.com/oldnewthing/20220726-00/?p=106898)
 - https://kddnewton.com/2022/08/11/aarch64-bitmask-immediates.html
 - https://nelsonslog.wordpress.com/2022/08/28/lightweight-arm64-build-run-on-x86
+- [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/spring20/cos217/schedule.html) + https://www.youtube.com/playlist?list=PLwXw5yrGdQS5QQE4FsK3IyVtWcGcJap65
 
 ### Book
 
+- https://www.bartlettpublishing.com/site/product/programming-from-the-ground-up
 - https://github.com/mytechnotalent/Reverse-Engineering-Tutorial + https://0xinfection.github.io/reversing
 - [Programming With Ones and Zeros](https://www.hanshq.net/ones-and-zeros.html)
 - [Isn't the 'Reverse Engineering for Beginners' book outdated already?](https://yurichev.com/news/20210424_outdated_RE4B)
@@ -47,6 +49,8 @@
 - [Ray Seyfarth | Michael Harris](https://www.youtube.com/playlist?list=PLOOO61Feqafvf-nnjJaLVdj9OZGnz_CG1)
 - https://www.youtube.com/playlist?list=PLn__CHOEZR1ZQMrP_j_f4l8naO58SIpKm
 - https://www.youtube.com/user/OpenSecurityTraining/playlists
+- [Binary Numbers | ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHX1u3IbBZaAdY17n7l1hJ90)
+- [Assembly Language Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=5)
 
 ### Debugging
 
@@ -96,6 +100,7 @@
 - [Recognize cpu instructions in an arbitrary binary file](https://github.com/airbus-seclab/cpu_rec)
 - [A multiline (and ultimate) assembler (and disassembler) plugin for x64dbg and OllyDbg](https://github.com/m417z/Multiline-Ultimate-Assembler)
 - [Performance monitoring and benchmarking suite](https://github.com/RRZE-HPC/likwid)
+- [The GNU Assembler](https://www.cs.princeton.edu/courses/archive/spr11/cos217/reading/as.html) + https://sourceware.org/binutils/docs-2.20/as
 
 ### Radio
 

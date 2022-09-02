@@ -104,6 +104,10 @@
 - [Math For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
 - [Doing the math | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmpjIoZHybXD4xmXXYrTqlk)
 
+### Community
+
+- http://gustavbertram.com/learning/math
+
 ### Mathematicians
 
 - [Évariste Galois](https://twitter.com/3blue1brown/status/1245468127061610496) + https://www.damninteresting.com/radical-solutions

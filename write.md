@@ -75,6 +75,7 @@
 - [Softcover is an ebook typesetting system for technical authors](https://github.com/softcover/softcover)
 - https://erfur.github.io/2022/05/03/bookmarks-and-hoarding.html
 - https://www.unixdaemon.net/books/i-wrote-a-book
+- http://gustavbertram.com/learning/latex
 
 ### Miscellaneous
 

@@ -30,6 +30,7 @@
 ### Tool
 
 - https://danburzo.ro/digitizing-books
+- https://github.com/stars/zeke/lists/ml
 - [Poor man's document camera for videoconference.](https://news.ycombinator.com/item?id=22660301)
 - [A frame by frame GIF editor with Photoshop vibes](https://news.ycombinator.com/item?id=22696179)
 - [Photo Realistic QR-Codes](https://news.ycombinator.com/item?id=24158125)
@@ -48,7 +49,6 @@
 - http://cbloomrants.blogspot.com/2021/01/some-jpeg-tools.html
 - https://blog.daviddworken.com/posts/simple-image-steganography
 - https://github.com/collections/pixel-art-tools
-
 
 ### Photos
 

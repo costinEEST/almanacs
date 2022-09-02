@@ -28,6 +28,7 @@
 
 ### CLI
 
+- http://doc.cat-v.org/unix/for-poets + https://matt.might.net/articles/sculpting-text
 - https://thenewstack.io/get-to-know-vi-a-text-editor-for-the-ages
 - [Illustrated jq tutorial](https://mosermichael.github.io/jq-illustrated/dir/content.html)
 - https://blog.balthazar-rouberol.com/text-processing-in-the-shell

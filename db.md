@@ -85,6 +85,8 @@
 
 - [Why SQLite succeeded as a database.](https://changelog.com/podcast/201)
 
+
+
 ### NoSQL
 
 - https://github.com/riyazwalikar/injection-attacks-nosql-talk
@@ -118,6 +120,7 @@
 - https://www.jakeworth.com/how-to-read-postgres-docs
 - https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design
 - [Query the StackOverflow data to get an insight into what people are asking about](https://data.stackexchange.com/stackoverflow/query/1627436)
+- https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL%20%E7%BB%83%E4%B9%A0.md
 
 ### Real-time databases
 
@@ -139,12 +142,14 @@
 - https://github.com/dpapathanasiou/simple-graph
 - https://github.com/tantaman/conflict-free-sqlite
 - https://twitter.com/captbaritone/status/1560053602487377920
+- https://dev.to/lefebvre/sqlite-is-not-a-server-56il
 
 ### Graph databases
 
 - https://www.arangodb.com/learn/first-day/udemy
 - https://github.com/neo4j-contrib/rabbithole
 - [A Graph-Based Firebase](https://stopa.io/post/296)
+- [Oxigraph is a graph database implementing the SPARQL standard](https://github.com/oxigraph/oxigraph)
 
 ### In memory databases
 

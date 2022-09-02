@@ -1,3 +1,13 @@
+
+### Ansible
+
+- https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-new-series-on-youtube
+- [Security Automation with Ansible 2](https://learning.oreilly.com/library/view/security-automation-with/9781788394512)
+- [Automate the install of various tools and environment settings using Ansible.](https://github.com/DiabloHorn/env-automata)
+- https://github.com/techno-tim/ansible-homelab
+- https://github.com/mytechnotalent/Ansible-For-Everyone
+- https://redteamer.tips/automating-red-team-infrastructure-with-ansible-part-1-raw-infrastructure
+- https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd
 ### Book 
 
 - https://www.puppetcookbook.com
@@ -10,15 +20,10 @@
 - [A Packer Primer](https://www.youtube.com/playlist?list=PLI8rNSktL2DSOM8dfvYnkhPLeTRLu8zrf)
 - https://github.com/cloudcommunity/Free-Certifications
 
-### Ansible
+### Community 
 
-- https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-new-series-on-youtube
-- [Security Automation with Ansible 2](https://learning.oreilly.com/library/view/security-automation-with/9781788394512)
-- [Automate the install of various tools and environment settings using Ansible.](https://github.com/DiabloHorn/env-automata)
-- https://github.com/techno-tim/ansible-homelab
-- https://github.com/mytechnotalent/Ansible-For-Everyone
-- https://redteamer.tips/automating-red-team-infrastructure-with-ansible-part-1-raw-infrastructure
-- https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd
+- https://github.com/Tikam02/DevOps-Guide
+
 
 ### Docker
 
@@ -142,6 +147,7 @@
 - https://miguelmota.com/blog/getting-started-with-wireguard
 - [Creates Wireguard configuration for hub and peers with ease](https://github.com/burghardt/easy-wg-quick)
 - https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://github.com/stars/yamalight/lists/self-hosted
 - https://selfhostedsource.tech/self-hosted/all
 - https://joshtronic.com/2021/08/01/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr
 - [Personal server configuration with k3s](https://github.com/erebe/personal-server)
@@ -155,7 +161,6 @@
 - https://github.com/learntocloud/learn-to-cloud
 - https://github.com/MichaelCade/90DaysOfDevOps
 - https://www.igmguru.com/cloud-computing/devops-certification-training
-- https://github.com/Tikam02/DevOps-Guide
 - https://github.com/trimstray/test-your-sysadmin-skills
 - https://github.com/binhnguyennus/awesome-scalability
 - [Site Reliability Engineering: Building Secure and Reliable Systems](https://landing.google.com/sre/books)

@@ -13,6 +13,11 @@
 
 - https://www.youtube.com/c/LondonClojurians/playlists
 
+### Community 
+
+- https://github.com/GustavBertram/learn-lisp
+- https://github.com/GustavBertram/awesome-common-lisp-learning
+
 ### Tool
 
 - https://github.com/atlas-engineer/nyxt + https://twitter.com/lukego/status/1372208366282539009

@@ -88,6 +88,7 @@
 - https://learningsynths.ableton.com
 - https://github.com/pyxelr/recommendations-for-engineers#music
 - [JavaScript Chord Charts](https://github.com/0xfe/vexchords)
+- [A desktop app for displaying live sheet music from MIDI input built with Electron](https://github.com/blairjordan/pianoboi)
 
 
 ### Reference
@@ -128,6 +129,7 @@
 - https://bigthink.com/neuropsych/frisson-song-playlist
 - https://mehan.substack.com/p/deafheaven
 - [Russians | Richard E. Cytowic](https://www.youtube.com/playlist?list=PLzpbJH8qD9IgDlM6-uErZpt7P5bAx9JHE)
+- https://blog.andyet.com/2014/02/26/Pete-Seeger-lessons-learned-from-a-hard-link-to-the-old-world
 
 ### Jazz
 

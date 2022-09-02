@@ -43,6 +43,7 @@
 - https://www.reddit.com/r/Biotechplays/comments/oj9jqx/biotech_website_blog_recommendations
 - https://github.com/modenaxe/awesome-biomechanics
 - [Protein Data Bank](https://twitter.com/PDBeurope)
+- https://medium.com/@kshortridge/wtfunding-bioinformatics-genetic-data-753d6184af97
 
 ### Cinema
 

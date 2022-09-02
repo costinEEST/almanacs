@@ -421,8 +421,8 @@
 - https://blog.codinghorror.com/excluding-matches-with-regular-expressions
 - https://regexone.com/references/javascript
 - https://eloquentjavascript.net/09_regexp.html
-- [JavaScript Regular expressions made easy.](https://github.com/VerbalExpressions/JSVerbalExpressions)
-- [Tokenizer with built-in error-handling.](https://twitter.com/RReverser/status/1237493010935558144)
+- [JavaScript Regular expressions made easy](https://github.com/VerbalExpressions/JSVerbalExpressions)
+- [Tokenizer with built-in error-handling](https://twitter.com/RReverser/status/1237493010935558144)
 - https://portswigger.net/daily-swig/blind-regex-injection-theoretical-exploit-offers-new-way-to-force-web-apps-to-spill-secrets
 - [Re-implementation of ECMA-262 (JavaScript) RegExp](https://github.com/MakeNowJust/rerejs)
 - https://github.com/mattnotmax/cyberchef-recipes
@@ -634,6 +634,7 @@
 - [Bun and Deno - the new JS Runtimes](https://twitter.com/jarredsumner/status/1548072064501747712)
 - https://github.com/rarmatei/now.sh-deploy-monorepos
 - [A free solution to the EU, GDPR, and California Cookie Laws](https://github.com/osano/cookieconsent)
+- https://github.com/dustinspecker/awesome-eslint
 
 
 ### Documentation
@@ -646,6 +647,7 @@
 - https://ryzokuken.dev/slides
 - https://blog.1password.com/docusaurus-documentation-framework
 - https://jonmeyers.io/blog-series/cookies-in-remix
+- [Things I've learned about writing good READMEs](https://github.com/hackergrrl/art-of-readme)
 
 ### Debugging
 
