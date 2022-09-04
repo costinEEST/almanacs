@@ -229,6 +229,8 @@
 ### Debugging
 
 - https://kinsta.com/blog/node-debug
+- [Debug school | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3ACrV-YhqTPY_rgerXqUjaR)
+- [Interviews | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3BgejSy6tT0x_7TEwxSEUIM)
 - [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
 - https://evilpacket.net/2019/leveraging-javascript-debuggers
 - https://github.com/tj/node-blocked
@@ -283,6 +285,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
 - https://boneskull.com/recursive-directory-removal-in-node-js
 - https://2ality.com/2022/06/nodejs-file-system.html
+- [Writing a Program to Auto-Clean-Up node_modules Folders | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3DuNPXDDof1eqXWiD1uEGID)
 
 ### `node:http`
 

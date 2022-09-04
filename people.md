@@ -282,6 +282,10 @@
 - https://twitter.com/curiouswavefn/status/1453030427980025863
 - https://humanitas.ro/humanitas/carte/patimile-sfantului-tommaso-daquino
 
+### Otto Rank (1884-1939; psychoanalyst, writer, and philosopher) 
+
+- https://archives.upenn.edu/collections/finding-aid/upt50r198
+
 ### Werner Heisenberg
 
 - https://koaha.org/wiki/Werner_Heisenberg

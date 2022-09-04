@@ -28,6 +28,7 @@
 - [No BS TS | Jack Herrington](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
 - https://codereviewvideos.com/course/from-jquery-to-typescript + https://www.youtube.com/playlist?list=PL1sZ2OJpPmWZzM8ckdBgVaqTWZwAU_VNP
 - https://github.com/microsoft/TypeScript-Compiler-Notes
+- [Leaky Abstractions | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3AM082CRmdJlvJqpVPU4xE5)
 
 ### Course
 

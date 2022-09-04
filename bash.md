@@ -39,6 +39,7 @@
 - http://redsymbol.net/articles/unofficial-bash-strict-mode
 - https://www.anshumanbhartiya.com/posts/performing-code-review-on-shell-scripts
 - https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort
+- [Go to GitHub project](https://gist.github.com/jonathantneal/f7cb7a49a914f3963ca100fe34ae44f2)
 
 ### Cinema
 

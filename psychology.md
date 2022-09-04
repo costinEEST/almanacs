@@ -23,7 +23,7 @@
 
 ### Volition
 
-- 
+- https://www.jstor.org/stable/27511200
 
 ### Hypnosis
 
@@ -41,3 +41,10 @@
 
 - https://neurosciencenews.com/swearing-self-confidence-behavior-strength-20251
 - https://www.cbc.ca/radio/ideas/perfectionism-a-modern-malady-born-in-the-middle-ages-1.6450904
+
+### Sexuality
+
+- https://juliorobertocosta.com/wp-content/uploads/2018/01/Livros-de-Otto-Rank.pdf
+- https://core.ac.uk/download/pdf/231833667.pdf
+- https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_Three_Essays_complete.pdf
+- https://www.nytimes.com/1985/03/24/books/an-urge-more-vital-than-sex.html
