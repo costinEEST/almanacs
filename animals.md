@@ -16,6 +16,7 @@
 
 - https://www.amazon.co.uk/Birds-Britannica-Mark-Cocker/dp/0701169079
 - https://bibliotecaexploratorilor.substack.com/p/cele-mai-bune-carti-despre-pasari
+- [Whats the best bird app?](https://twitter.com/nwilliams030/status/1566791362414092288)
 
 ### Crawler
 

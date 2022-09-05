@@ -446,6 +446,7 @@
 
 ### Tooling
 
+- https://blog.arkency.com/how-i-migrated-a-rails-app-from-webpack-to-esbuild-and-got-smaller-and-faster-js-builds
 - https://survivejs.com/webpack
 - [tsc --watch nodemon dist/src/index.js](https://twitter.com/benawad/status/1211700652549779456)
 - https://github.com/Lemoncode/react-typescript-samples

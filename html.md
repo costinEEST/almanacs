@@ -168,6 +168,7 @@
 - [A very compact representation of a placeholder for an image.](https://github.com/woltapp/blurhash)
 - [Easy to use share buttons that load fast and don't track you](https://github.com/RobinLinus/share-the-love)
 - https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools
+- [drag-and-drop email editor, page builder and popup builder that you can easily embed in your SaaS app](https://unlayer.com/embed)
 - https://github.com/damianfrizzi/fetoolkit
 - https://www.tpgi.com/seeing-the-wood-for-the-trees-demystifying-markup-in-2021
 - [Converts Kindle E-Books to HTML files](https://github.com/d10r/kindle-fetch)

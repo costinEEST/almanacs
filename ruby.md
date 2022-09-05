@@ -433,6 +433,7 @@
 - [create directory and file structure](https://gitlab.com/mindaslab/mk3)
 - [Open URI's with rich context](https://github.com/alexcwatt/longjump)
 - secrets.spektrhq.com: https://twitter.com/GregMolnar/status/1563870886293372928, https://github.com/spektrhq/secrets
+- [fastest way to create large JSON in a Rails project?](https://twitter.com/wolax/status/1566786694489247745)
 
 
 ### Testing

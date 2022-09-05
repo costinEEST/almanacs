@@ -148,6 +148,8 @@
 - https://philbooth.me/blog/build-a-better-release-script 
 - [interactive `git` with the help of `fzf`](https://github.com/bigH/git-fuzzy)
 - https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf
+- https://www.stefanjudis.com/today-i-learned/git-supports-global-gitignore-files
+- https://github.com/pomber/git-history
 
 ### Security
 
