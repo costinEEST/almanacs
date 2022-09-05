@@ -2,6 +2,8 @@
 
 - [Patricia Kaishian](https://sites.google.com/view/patriciakaishian)
 - [Iubitorii de ciuperci](https://www.facebook.com/groups/2177806262500396)
+- [Erica Davis](https://www.facebook.com/wildfoodgirl)
+- https://www.facebook.com/PaulStamets
 
 
 ### Miscellaneous

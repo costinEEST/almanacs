@@ -43,6 +43,7 @@
 ### Cheat sheet
 
 - https://github.com/SoCFPGA-learning/General/blob/main/resources.md
+- http://sandsoftwaresound.net/courseware/topics-in-computer-architecture
 - [How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art)
 - https://github.com/ma-sujithkumar/Energy-Efficient-Home
 - https://github.com/penberg/awesome-low-latency + https://twitter.com/penberg/status/1531541606100258816
@@ -149,6 +150,8 @@
 
 ### Microprocessor
 
+- [Very-large-scale integration systems](http://sandsoftwaresound.net/courseware/vlsi-systems)
+- http://sandsoftwaresound.net/courseware/computer-design
 - [The first exascale supercomputer in the Top500](https://www.top500.org/lists/top500/2022/06)
 - [My business card runs Linux, yours can too](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
 - [Building a CPU on an FPGA | Robert Baruch](https://www.youtube.com/playlist?list=PLEeZWGE3PwbZ44SUf1-vA-UuX9_J_pifB)

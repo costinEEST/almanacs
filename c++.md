@@ -35,6 +35,7 @@
 - https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language
 - [Advanced Functional Programming at the University of Strathclyde](https://github.com/pigworker/CS410-17)
 - [Exploring the Processing-in-Memory Paradigm for Future Computing Systems](https://safari.ethz.ch/projects_and_seminars/spring2022/doku.php?id=processing_in_memory)
+- http://sandsoftwaresound.net/courseware/cs2-data-structures + http://sandsoftwaresound.net/wp-content/uploads/2013/07/cs2_overview.html
 
 ### Compiler
 

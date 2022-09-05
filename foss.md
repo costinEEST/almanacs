@@ -39,3 +39,4 @@
 - [Creative Commons Licenses for Github](https://github.com/santisoler/cc-licenses)
 - https://alexwlchan.net/2021/10/readmes-for-open-science
 - https://github.com/librariesio/sustainable-oss-attributes
+- http://cr.yp.to/softwarelaw.html

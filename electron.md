@@ -1,27 +1,14 @@
-### Tool
 
-- [A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl.](https://github.com/mayeaux/videodownloader)
-- [An example Electron app with a backend server all wired up via IPC.](https://github.com/jlongster/electron-with-server-example)
-- [A free and open source code snippets manager for developers. ](https://github.com/antonreshetov/massCode)
-- https://github.com/leerob/youtube-to-mp3
-- https://github.com/jitsi/jitsi-meet-electron
-- [Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.](https://github.com/agalwood/Motrix)
-- [OpenMTP - Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp) + https://www.inputmag.com/guides/theres-finally-an-alternative-to-googles-horrible-android-file-transfer-app
-- [Make any web page a desktop application](https://github.com/jiahaog/nativefier)
-- [MagicPad is an encryption suite for beginners.](https://github.com/hyundotio/magicpad)
-- [Emoji searcher but as a menubar app.](https://github.com/muan/mojibar)
-- [Electron JS Browser To Find XSS Vulnerabilities Automatically](https://github.com/RenwaX23/XSSTRON)
-- https://cameronnokes.com/blog/how-to-know-if-a-desktop-app-uses-electron
-- [A list of awesome packages and frameworks for implementing javascript applications on the desktop](https://github.com/styfle/awesome-desktop-js)
-- [Subtitler is a free Desktop application to search and download right subtitle blazing fast](https://github.com/s8sachin/subtitler)
-- https://www.staszewski.me/how-to-extract-secrets-from-unsafe-electron-app
-- [Free, open-source SQL client for Windows and Mac](https://github.com/plotly/falcon)
-- [Performance monitoring tools](https://twitter.com/Vikram_Tiwari/status/1553098304635883520)
-- [Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more](https://github.com/beekeeper-studio/beekeeper-studio)
-- [Make any web page a desktop application](https://github.com/nativefier/nativefier)
-- [Decompiler](https://github.com/electron/asar) + https://youtu.be/jyiFjqNncMc
+### Boilerplate
 
-### Demos
+- https://github.com/nonoesp/electron-quick-start
+- https://medium.com/@jonathanberi/a-no-nonsense-guide-to-webpack-electron-webassembly-part-2-e5d262d0dc41
+- https://www.infoq.com/articles/firebase-electron-native-app + https://github.com/david-asher/electron-firebase + https://twitter.com/InfoQ/status/1346804146519859202
+- https://github.com/fuzzc0re/electron-svelte-typescript
+- [pass messages between ipcMain and ipcRenderer](https://github.com/olingern/electron-ipc-ping-pong)
+
+
+### Inspire
 
 - https://github.com/hokein/electron-sample-apps
 - https://github.com/chrisknepper/android-messages-desktop
@@ -45,14 +32,8 @@
 - [A WIP IRC client](https://github.com/evanlucas/eyearesee)
 - [Refined Evernote desktop app](https://github.com/klaussinani/tusk)
 
-### Boilerplates
 
-- https://github.com/nonoesp/electron-quick-start
-- https://medium.com/@jonathanberi/a-no-nonsense-guide-to-webpack-electron-webassembly-part-2-e5d262d0dc41
-- https://www.infoq.com/articles/firebase-electron-native-app + https://github.com/david-asher/electron-firebase + https://twitter.com/InfoQ/status/1346804146519859202
-- https://github.com/fuzzc0re/electron-svelte-typescript
-
-### Opinions
+### Opinion
 
 - https://getloaf.io/blog/why-i-chose-electronjs
 - https://www.nearform.com/blog/architecting-electron-applications-for-60fps
@@ -69,3 +50,28 @@
 - [Exploit a XSS vulnerability in a sandboxed Electron app and achieve RCE](https://huntr.dev/bounties/911a4ada-7fd6-467a-a464-b88604b16ffc)
 - https://7085.at/#/blog/2022-02-03-rce-vulnerabilities-in-obsidian-discovered
 - https://github.com/jonmest/How-To-Tamper-With-Any-Electron-Application
+
+
+
+### Tool
+
+- [A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl.](https://github.com/mayeaux/videodownloader)
+- [An example Electron app with a backend server all wired up via IPC.](https://github.com/jlongster/electron-with-server-example)
+- [A free and open source code snippets manager for developers. ](https://github.com/antonreshetov/massCode)
+- https://github.com/leerob/youtube-to-mp3
+- https://github.com/jitsi/jitsi-meet-electron
+- [Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.](https://github.com/agalwood/Motrix)
+- [OpenMTP - Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp) + https://www.inputmag.com/guides/theres-finally-an-alternative-to-googles-horrible-android-file-transfer-app
+- [Make any web page a desktop application](https://github.com/jiahaog/nativefier)
+- [MagicPad is an encryption suite for beginners.](https://github.com/hyundotio/magicpad)
+- [Emoji searcher but as a menubar app.](https://github.com/muan/mojibar)
+- [Electron JS Browser To Find XSS Vulnerabilities Automatically](https://github.com/RenwaX23/XSSTRON)
+- https://cameronnokes.com/blog/how-to-know-if-a-desktop-app-uses-electron
+- [A list of awesome packages and frameworks for implementing javascript applications on the desktop](https://github.com/styfle/awesome-desktop-js)
+- [Subtitler is a free Desktop application to search and download right subtitle blazing fast](https://github.com/s8sachin/subtitler)
+- https://www.staszewski.me/how-to-extract-secrets-from-unsafe-electron-app
+- [Free, open-source SQL client for Windows and Mac](https://github.com/plotly/falcon)
+- [Performance monitoring tools](https://twitter.com/Vikram_Tiwari/status/1553098304635883520)
+- [Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more](https://github.com/beekeeper-studio/beekeeper-studio)
+- [Make any web page a desktop application](https://github.com/nativefier/nativefier)
+- [Decompiler](https://github.com/electron/asar) + https://youtu.be/jyiFjqNncMc

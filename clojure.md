@@ -13,6 +13,7 @@
 ### Practice
 
 - https://github.com/tbsschroeder/clojure-webshop-app
+- https://github.com/leahneukirchen/adventofcode2021
 
 
 ### Opinions

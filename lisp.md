@@ -32,6 +32,7 @@
 ### Practice 
 
 - https://github.com/Kevinpgalligan/advent-of-code-2021
+- [Make a Lisp](https://github.com/kanaka/mal)
 
 ### Radio
 

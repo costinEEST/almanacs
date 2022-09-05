@@ -132,6 +132,7 @@
 - https://github.com/JamesIves/github-pages-deploy-action
 - [Generate LICENSE file from package.json](https://github.com/TiagoDanin/Add-License-Bot)
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection
+- https://kinoshita.eti.br/2021/10/22/removing-invisible-unread-github-notifications.html
 
 ### Tool
 

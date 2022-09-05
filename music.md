@@ -6,6 +6,7 @@
 - https://www.rollingstone.com/music/music-news/vangelis-oscar-winning-composer-chariots-of-fire-blade-runner-dead-obit-1355854
 - https://faroutmagazine.co.uk/donna-summer-created-new-wave-disco-anthem
 - [Anne-Marie McDermott on Bach, Pulse and Rubato](https://www.pokerandphilosophy.com/2022/02/anne-marie-mcdermott-on-bach-pulse-and.html)
+- https://www.charlespetzold.com/blog/2022/09/A-Final-Month-of-Women-Composers.html
 
 ### Book
 

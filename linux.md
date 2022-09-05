@@ -149,3 +149,4 @@
 - https://cri.dev/posts/2021-01-03-mac-linux
 - [Why #Linux users hate #Ubuntu Snaps](https://twitter.com/AaronToponce/status/1557748044287725570)
 - https://xeiaso.net/talks/nixos-pain-2021-11-10
+- https://nickolinger.com/blog/moving-to-arch + https://github.com/olingern/arch-dotfiles

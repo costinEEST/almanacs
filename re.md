@@ -68,6 +68,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - [Frida Reverse Engineering Introduction](https://cfp.pass-the-salt.org/pts2022/talk/T8XSUV)
 - [how to start working with, HyperDbg](https://twitter.com/HyperDbg/status/1548573372023418881)
 - https://github.com/stars/schniggie/lists/security-reversing
+- https://danialzahoor.blogspot.com/2022/08/frida-ios-hook-tool-that-helps-you-easy.html
 
 ### Fuzzers
 

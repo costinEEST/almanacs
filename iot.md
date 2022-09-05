@@ -16,6 +16,7 @@
 ### Arduino
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUe2-bhkgFCCKwCyx_ZBzCcp
+- http://sandsoftwaresound.net/arduino
 - https://www.instructables.com/id/A-Beginners-Guide-to-Arduino
 - [Arduino Development on OpenBSD](https://jcs.org/2019/12/17/arduino)
 - [ESP32-Cam Quickstart with Arduino Code](https://youtu.be/Sb08leLWOgA)
@@ -59,6 +60,7 @@
 ### RaspberryPI
 
 - https://hackclub.com/workshops/choose_your_pi
+- http://sandsoftwaresound.net/raspberry-pi
 - https://qmacro.org/2020/03/22/starting-out-with-raspberry-pi-experiments
 - https://quanticdev.com/articles/raspberry-pi-guide-for-developers + https://quanticdev.com/articles/most-valuable-thing-to-learn-in-one-hour
 - https://github.com/e1ioan/RaspberryPi-AxisYoutubeStreaming
