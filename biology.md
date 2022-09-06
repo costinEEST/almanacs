@@ -88,6 +88,8 @@
 - https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273
 - https://singularityhub.com/2022/02/20/how-the-newly-decoded-numbat-genome-could-help-bring-the-tasmanian-tiger-back-from-extinction
 - [Mircea Iliescu](https://www.digi24.ro/emisiuni/scena-deschisa/scena-deschisa-26-martie-23-00-1885183)
+- [Vertebrate Genomes Project](https://vgp.github.io/genomeark) + https://youtu.be/9RF6eXxxqII
+- https://www.hhmi.org/news/complete-human-genome-deciphered-first-time
 
 ### Miscellaneous
 

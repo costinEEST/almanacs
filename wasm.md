@@ -1,3 +1,7 @@
+### Book 
+
+- [WebAssembly: The Definitive Guide: Safe, Fast, and Portable Code | Brian Sletten](https://www.oreilly.com/library/view/webassembly-the-definitive/9781492089834)
+
 ### Compiler
 
 - https://github.com/appcypher/awesome-wasm-langs

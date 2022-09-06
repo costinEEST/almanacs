@@ -50,6 +50,7 @@
 - https://github.com/burib/aws-region-table-parser
 - https://twitter.com/mtliendo/status/1507442348292198404 + https://github.com/cdkbook/examples
 - http://kakar.ca/2010/12/24/an-ec2-api-concept-map.html
+- [Just Starting out on AWS? | Be A Better Dev](https://www.youtube.com/playlist?list=PL9nWRykSBSFgKbZAX_96t6GUeqf3YSZsx)
 
 ### Azure
 
