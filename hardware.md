@@ -65,6 +65,7 @@
 
 ### Course
 
+- [Albert Spinosa](https://alselectronicclassroom.teachable.com/courses/enrolled)
 - https://www.instructables.com/id/Basic-Electronics
 - https://www.instructables.com/id/How-to-solder
 - https://www.instructables.com/class/Electronics-Class
@@ -92,7 +93,6 @@
 - https://galaxy.opensyllabus.org/#!search/courses/electronics
 - https://www.udemy.com/course/complete-course-in-autocad-electrical-2021
 - https://github.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015 + https://jasonwebb.io/2017/06/designing-and-teaching-how-to-build-almost-anything-at-metropolitan-community-colleges-fablab
-- [Albert Spinosa](https://alselectronicclassroom.teachable.com)
 
 ### Chip
 

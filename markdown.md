@@ -2,7 +2,17 @@
 
 - [Markdown Showdown | Scott Spence](https://www.youtube.com/playlist?list=PLGi_uHe_v04B4xmHjNV7KTesFbqL7x1Xq)
 
-### Tools
+### Cheat sheet
+
+- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+- https://github.com/sindresorhus/css-in-readme-like-wat
+
+
+### Opinion
+
+- https://capiche.com/e/markdown-history
+
+### Tool
 
 - [embedmd: embed code into markdown and keep everything in sync.](https://github.com/campoy/embedmd)
 - https://begriffs.com/posts/2020-07-16-generating-mime-email.html + https://github.com/begriffs/mimedown
@@ -12,12 +22,3 @@
 - https://github.com/raineorshine/karabiner-config-to-markdown
 - https://github.com/textlint/markdown-to-ast
 - [Create Slideshows with Markdown](https://mark.show) + https://news.ycombinator.com/item?id=26931098
-
-### References
-
-- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-- https://github.com/sindresorhus/css-in-readme-like-wat
-
-### Opinions
-
-- https://capiche.com/e/markdown-history

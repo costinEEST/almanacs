@@ -88,6 +88,7 @@
 - https://github.com/nearform/slow-rest-api
 - Design and Implementation of a Node.js Framework for the Development of RESTful APIs: https://github.com/matthyk/bachelor_thesis, https://github.com/matthyk/rosmarin
 - [Building a Timetracking application with Hypermedia | Evert Pot](https://www.youtube.com/playlist?list=PLqqoUVHAFAYPn3obbnhpbPSI3tdzIqc64)
+- https://github.com/simonplend/egghead-build-a-modern-rest-api-in-node-js-with-fastify
 
 ### Book
 
@@ -325,6 +326,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 ### .mjs
 
 - https://obensource.com/blogs/when-its-time-to-migrate-away-from-commonjs
+- [Pure ESM package](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c)
 - https://github.com/johnloy/esm-commonjs-interop-manual
 - https://2ality.com/2022/07/nodejs-esm-shell-scripts.html
 - https://gils-blog.tayar.org/tags/esm

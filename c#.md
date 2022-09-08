@@ -5,6 +5,7 @@
 - https://github.com/MarkPThomas/HeadFirst-OOAD
 - [Blazor books](https://twitter.com/Telerik/status/1560302174470553602)
 - https://www.amazon.com/Parallel-Programming-Concurrency-NET6-asynchronous/dp/1803243678
+- [Dependency Injection Principles, Practices, and Patterns | Steven van Deursen, Mark Seemann ](https://twitter.com/DrewTheDev1/status/1565010009217531909)
 
 ### Cinema
 

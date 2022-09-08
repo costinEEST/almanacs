@@ -49,7 +49,7 @@
 - [Measure cpu cache size client side in Javascript](https://github.com/allanlw/cache_size)
 
 
-### Engines
+### Engine
 
 - https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf
 - https://github.com/a0viedo/demystifying-js-engines
@@ -65,8 +65,10 @@
 - [a very small v8 javascript runtime for linux only](https://github.com/just-js/just)
 - https://mrale.ph/v8/resources.html
 - [V8 sandbox](https://twitter.com/5aelo/status/1529863751868076032)
+- https://docs.google.com/presentation/d/1NVyRgitg-2CyN3BuoZZF6F-Dw8PuDybFjkFICAyYPHo
 
-### Exploits
+
+### Exploit
 
 - [Awesome list of browser exploitation tutorials ](https://github.com/Escapingbug/awesome-browser-exploit)
 - [Browser Exploitation - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)

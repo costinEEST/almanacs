@@ -104,6 +104,7 @@
 - http://www.saminiir.com/establish-cryptographic-identity-using-gnupg
 - http://www.saminiir.com/paper-storage-and-recovery-of-gpg-keys
 - https://blog.gtank.cc/modern-alternatives-to-pgp
+- https://calebhearth.com/pgp-workshop
 - https://yossarian.net/res/pub/die-pgp-die.pdf
 - [Macaroons for anything involving authorization. They are the anti-JWT](https://blog.gtank.cc/macaroons-reading-list)
 - https://blog.gtank.cc/notes-on-anonymous-credentials

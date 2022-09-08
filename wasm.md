@@ -55,6 +55,7 @@
 - https://schroer.ca/2022/03/20/openscad-configurator
 - [v86 emulates an x86-compatible CPU and hardware](https://github.com/copy/v86)
 - https://rawkode.dev/articles/introduction-to-webassembly-on-kubernetes-with-krustlet
+- https://twitter.com/rikarends/status/1550908034947420161
 
 ### Opinion
 

@@ -34,6 +34,7 @@
 - [Wordle clone made using React, Typescript, and Tailwind](https://github.com/cwackerfuss/react-wordle)
 - nandgame.com: https://twitter.com/alokmenghrajani/status/1559503563423973378, https://www.facebook.com/alok/posts/pfbid02mW5BbXSRBZV43y4k9CSwDsrJeMbenSvng3tAkwNf4gK6bK53zXqJyqiRc8ittouRl
 - [Shenzhen I/O | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
+- https://www.udemy.com/course/scratch-game-programming + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F + https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
 
 ### Mobile based
 
@@ -87,6 +88,7 @@
 - https://www.quaxio.com/kaleidoscope_part1
 - https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua
 - https://github.com/stars/yamalight/lists/games
+- [A habit tracker app which treats your goals like a Role Playing Game](https://github.com/HabitRPG/habitica)
 
 ### The creators
 

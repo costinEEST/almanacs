@@ -22,6 +22,7 @@
 - https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaBooks/C-Programming/master/README.md#1
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://paulmck.livejournal.com/66892.html)
 - [The little book about OS development](https://github.com/littleosbook/littleosbook)
+- [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/index.html)
 
 ### Cheat sheet
 

@@ -288,6 +288,7 @@
 - [Daniel Miessler](https://us8.campaign-archive.com/home/?u=6a9e465ab1570df8aaecb2292&id=49fdb7d723)
 - [InfoCon is a community supported, non-commercial archive of all the past hacking related convention material.](https://infocon.org/infocon.org-css/infoconorg-cons.rss)
 - [Harsh Bothra](https://www.getrevue.co/profile/harshbothra_#archive)
+- [securibee-infosec.opml](https://gist.github.com/securibee/054d4588e7f4dc892ae603c963558943)
 
 ### Tools
 

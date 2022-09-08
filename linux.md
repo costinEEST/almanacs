@@ -140,6 +140,7 @@
 - https://www.xmodulo.com/two-factor-authentication-ssh-login-linux.html
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 - https://github.com/xairy/linux-kernel-exploitation
+- https://snyk.io/blog/everything-you-wanted-to-know-about-addressing-security-vulnerabilities-in-linux-based-containers + [Nix: A Safe and Policy-Free System for Software Deployment](https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf)
 
 ### Opinion
 

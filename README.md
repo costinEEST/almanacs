@@ -142,7 +142,7 @@
 - [Visual Studio Code](vsc.md)
 - [Vue](vue.md)
 - [Web assembly](wasm.md)
-- [Web browser](browsers.md)
+- [Web browser](browser.md)
 - [Webflow](webflow.md)
 - [Windows OS](win.md)
 - [Wireshark](wireshark.md)

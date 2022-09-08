@@ -87,6 +87,7 @@
 
 ### Management
 
+- https://www.coursera.org/learn/uva-darden-digital-product-management#syllabus
 - https://textslashplain.com/2022/05/18/thoughts-on-impact
 - https://twitter.com/dabit3/status/1214711699145543680 + https://twitter.com/dan_abramov/status/1203486500731719681 + https://twitter.com/kurtiskemple/status/986746802073423873
 - [A collection of engineering ladders for reference and inspiration](https://github.com/bmoeskau/engineering-ladders)
@@ -136,6 +137,7 @@
 - https://github.com/gabiduarte/awesome-techleads
 - [What are the best podcasts on management & leadership?](https://twitter.com/michelletandler/status/1489348838754172931)
 - https://www.subbu.org/articles/2021/2021-in-reading
+- https://guzey.com/autistic-leaders
 
 ### Strategy
 
