@@ -490,6 +490,7 @@ javascript: (() =>
 ### WebUSB
 
 - https://github.com/webusb/awesome
+- https://charliegerard.dev/blog/aircraft-radar-system-rtl-sdr-web-usb
 
 ### Headless
 

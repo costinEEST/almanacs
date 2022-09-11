@@ -11,6 +11,7 @@
 - https://github.com/dschadow/Java-Web-Security
 - https://www.eviltester.com/page/books/java-for-testers
 - https://twitter.com/laurspilca/status/1559914316115107841
+- https://www.freecodecamp.org/news/the-java-handbook
 
 ### Cinema
 

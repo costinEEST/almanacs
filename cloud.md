@@ -51,6 +51,7 @@
 - https://twitter.com/mtliendo/status/1507442348292198404 + https://github.com/cdkbook/examples
 - http://kakar.ca/2010/12/24/an-ec2-api-concept-map.html
 - [Just Starting out on AWS? | Be A Better Dev](https://www.youtube.com/playlist?list=PL9nWRykSBSFgKbZAX_96t6GUeqf3YSZsx)
+- [the story of Amazon Web Services](https://podcasts.apple.com/us/podcast/acquired/id1050462261?i=1000578485843&ck_subscriber_id=1697730854)
 
 ### Azure
 
@@ -66,6 +67,7 @@
 - [AzureAD](https://twitter.com/msft_hiker/status/1516163983421624320) + https://twitter.com/M4yFly/status/1437453135883157504
 - https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment
 - https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course
+- https://github.com/thomast1906/DevOps-The-Hard-Way-Azure
 
 ### Cloudflare
 

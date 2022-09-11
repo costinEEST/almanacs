@@ -68,6 +68,7 @@
 - [The definitive self-hosted URL shortener](https://github.com/shlinkio/shlink)
 - https://github.com/Cloud-Compiler-API/Cloud-Compiler-API
 - [Velvet is an administration backend for Magento 2, built with React, Typescript, GraphQL and MUI](https://github.com/danslo/velvet)
+- https://replit.com/new/php_cli
 
 ### Security
 

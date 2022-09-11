@@ -1,6 +1,7 @@
 ### Cinema 
 
 - https://youtu.be/fa6-Mn0Eybg?t=64
+- https://www.freecodecamp.org/news/angular-for-beginners-course
 
 
 ### Development
