@@ -474,6 +474,10 @@
 - [A case study on viable techniques for vanilla web development.](https://github.com/morris/vanilla-todo)
 - https://dev.to/tigt/routing-im-not-smart-enough-for-a-spa-5hki
 
+### Snippet 
+
+- [`const isMobile = 'capture' in HTMLInputElement.prototype`](https://twitter.com/WebReflection/status/1567359995917778945)
+
 ### Web Components
 
 - https://www.abeautifulsite.net/posts/a-web-components-primer

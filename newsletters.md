@@ -260,6 +260,7 @@
 - [Ruth Reichl](https://ruthreichl.substack.com/archive)
 - [Richard Godwin - A book club but for cocktails](https://thespirits.substack.com)
 - [Oana Vasiliu](https://umamimoments.substack.com/archive)
+- [Szeged Fungus](http://eepurl.com/hruKVT)
 
 ### Health
 

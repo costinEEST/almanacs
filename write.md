@@ -10,6 +10,7 @@
 - https://github.com/eddiejaoude/book-open-source-tips
 - [A book to help software developers write better prose](https://github.com/joshuacc/prose-for-programmers)
 - http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc + https://news.ycombinator.com/item?id=26394564
+- https://hassano.gumroad.com/l/book-on-the-side
 
 ### Cinema
 

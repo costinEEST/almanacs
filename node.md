@@ -463,6 +463,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Fetch source-mapped sources. Peek by file, line, column. Node & browsers. Sync & async](https://github.com/xpl/get-source)
 - [repo that is written in ESM and uses Rollup to transpile to CJS (including tests)](https://twitter.com/MylesBorins/status/1481138550481502211)
 - [Git branch to favicon](https://gist.github.com/tigt/86b25ce970e46370dd61339380e2d6bd)
+- https://mmazzarolo.com/blog/2022-08-25-simple-colored-logging-for-javascript-clis
 
 ### Testing
 

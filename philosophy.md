@@ -18,6 +18,10 @@
 - [Exploring Vervaeke's Awakening from the Meaning Crisis | Bevry](https://www.youtube.com/playlist?list=PL68A9KvUGBlpbAfU5sqgTOW-_HpQijEbF) + https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ
 - [Exploring Peterson's Bible Series](https://www.youtube.com/playlist?list=PL68A9KvUGBlo5Ic53iV6o6zasbd4aR-cM)
 
+### Islamic 
+
+- https://decafquest.gumroad.com/l/islamic-philosophy/earlybird
+
 ### Miscellaneous
 
 - https://www.youtube.com/user/gbisadler/playlists

@@ -4,6 +4,8 @@
 - [Iubitorii de ciuperci](https://www.facebook.com/groups/2177806262500396)
 - [Erica Davis](https://www.facebook.com/wildfoodgirl)
 - https://www.facebook.com/PaulStamets
+- https://en.szegedigombasz.hu/knowhere/mycology-department
+- [Szegedi gombászok](https://www.facebook.com/groups/szegedigombaszok)
 
 
 ### Miscellaneous

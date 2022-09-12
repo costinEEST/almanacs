@@ -109,6 +109,7 @@
 - [Classical Chinese for Everyone: A Guide for Absolute Beginners | Bryan W. Van Norden](https://www.facebook.com/orelb/posts/pfbid02ppaUQdZftTorqhAmJcCYomsWtoqjGLiDQd2cxay79mff1TpXHpjdekxGGp2WguEdl)
 - https://alexwlchan.net/2020/04/storing-language-vocabulary-as-a-graph
 - https://en.wikibooks.org/wiki/Chinese_%28Mandarin%29/Using_Tones
+- [Let's Learn Classical Chinese | Colin Gorrie](https://www.youtube.com/playlist?list=PLmp7RhkyEu0vz1NYNa7V9xFuRBsW9a9mt)
 
 ### Arabic
 

@@ -1,4 +1,6 @@
+### Book 
 
+- [Idiosyncracies of the HTML parser](https://github.com/zcorpan/html-parser-book)
 
 ### Accessibility
 
@@ -153,6 +155,7 @@
 - https://www.ctnicholas.dev/articles/dark-mode-by-sunlight
 - https://souporserious.com/lazy-loading-polyfills
 - https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata
+- https://austingil.com/how-to-build-html-forms-right-semantics
 
 ### Radio
 
