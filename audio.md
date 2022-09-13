@@ -11,6 +11,7 @@
 - https://www.youtube.com/c/TomasGeorge/playlists
 - [Web Audio Conf](https://www.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw/playlists)
 - [Building Collaborative Music Apps](https://www.youtube.com/watch?v=TCVuLh5Io9A)
+- [Understanding Sound & Speakers](https://www.youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub)
 
 ### Development 
 

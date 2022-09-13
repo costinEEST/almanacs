@@ -15,6 +15,7 @@
 ### Cinema 
 
 - [Centre for Quantum Technologies](https://www.youtube.com/c/quantumlah/playlists)
+- https://www.youtube.com/playlist?list=PLEBQWzRBb4ioWmrK6jpS3fUI6d_2JeKRp
 
 ### News
 

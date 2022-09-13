@@ -35,6 +35,7 @@
 - [Secret Key Cryptography](https://twitter.com/contestcen/status/1483896010837475334)
 - https://twitter.com/cronokirby/status/1525533199778160643 + https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like
 - https://github.com/sustrik/crypto-for-kids
+- https://www.amazon.com/Small-Book-Random-Numbers/dp/1452818363
 
 ### Course
 

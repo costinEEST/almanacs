@@ -2,6 +2,7 @@
 
 - https://github.com/Mec-iS/rust-algos-illuminated
 - https://github.com/TheAlgorithms/Rust
+- https://twitter.com/Vernon_GR/status/1567728180437618688 + https://www.youtube.com/watch?v=QHOFRdgx-w0&list=PLezlz_6l_jm0gMynmHFmsXfjQFxmt3INC&index=20
 
 
 ### API
@@ -78,7 +79,6 @@
 - https://github.com/ctjhoa/rust-learning
 - https://twitter.com/jgvarandas/status/1228712766636204032
 - https://deterministic.space/high-performance-rust.html
-- https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust
 - https://github.com/rust-lang/rustlings + [Rust For Beginners - Watch me code the Rustlings Tutorial](https://www.youtube.com/playlist?list=PLauX9TuJ8sfyaLPZ1udS3zS_V9YXdsbtc)
 - [Mal (Make a Lisp) in Rust](https://github.com/seven1m/mal-rust)
 - https://loige.co/learning-rust-through-open-source-and-live-code-reviews
@@ -153,6 +153,7 @@
 
 ### Opinion
 
+- https://twitter.com/Vernon_GR/status/1567008384452554752 + https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular
 - https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
 - https://thesquareplanet.com/blog/the-path-to-rust

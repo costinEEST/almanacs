@@ -16,6 +16,7 @@
 - [The Tools of Astronomy](https://www.youtube.com/playlist?list=PL2jykFOD1AWbscxUS7qEyRGy1OHfw4PJU)
 - https://www.youtube.com/playlist?list=PLKEd7Km7DjLdTpgeS9JuQNKmhqKdS-Piy
 - [Scott Manley](https://www.youtube.com/c/szyzyg/playlists)
+- https://www.youtube.com/c/EverydayAstronaut/playlists
 
 ### Applications
 

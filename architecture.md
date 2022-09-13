@@ -30,6 +30,7 @@
 - https://biblioteca-digitala.ro/?domeniu=97-urbanism
 - https://biblioteca-digitala.ro/?descriptor=31334-demolari
 - https://biblioteca-digitala.ro/?descriptor=30399-sistematizare
+- https://monoskop.org/images/b/b0/Perec_Georges_Species_of_Spaces_and_Other_Pieces.pdf
 
 ### Brochures
 

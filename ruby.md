@@ -64,6 +64,7 @@
 - https://github.com/yagosansz/master_ruby_web_apis
 - [Systems programming](https://workingwithruby.com/downloads)
 - [Mastering Ruby Closures by Benjamin Tan Wei Hao](https://www.oreilly.com/library/view/mastering-ruby-closures/9781680502909)
+- [Hotwired ATS](https://book.hotwiringrails.com/chapters)
 
 ### Cheat sheet
 

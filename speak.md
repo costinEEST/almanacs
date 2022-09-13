@@ -391,7 +391,6 @@
 - [Out on the Wire: The Storytelling Secrets of the New Masters of Radio](https://www.amazon.com/dp/0385348436)
 - https://nicholasreese.com/persuasive-storytelling
 - https://www.theatlantic.com/health/archive/2015/08/life-stories-narrative-psychology-redemption-mental-health/400796
-- https://blog.raeez.com/story-telling
 - https://newthinking.tools/bookshelf
 - [Course materials for Dartmouth Course: Storytelling with Data (PSYC 81.09)](https://github.com/ContextLab/storytelling-with-data)
 - https://en.wikipedia.org/wiki/The_Seven_Basic_Plots
@@ -399,6 +398,7 @@
 - https://twitter.com/yakshitshh/status/1559515303167422464
 - https://www.ted.com/talks/tomas_pueyo_why_stories_captivate?language=en
 - [Comics As Communication: A Functional Approach | Paul Fisher Davies](https://www.goodreads.com/book/show/52915703-comics-as-communication)
+- https://web.archive.org/web/20210508035657/https://blog.raeez.com/reading-list
 
 ### Thai
 
