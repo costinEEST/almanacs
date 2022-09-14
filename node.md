@@ -122,6 +122,7 @@
 - [Twitter bot for easily downloading videos/GIFs off tweets](https://github.com/shalvah/DownloadThisVideo)
 - https://github.com/adityatelange/github2telegram-notifier
 - [A bot that notifies you on Slack whenever your company/product is mentioned on Hacker News](https://github.com/vercel-labs/hacker-news-slack-bot)
+- https://cmdcolin.github.io/posts/2022-08-26-twitterbot + https://github.com/cmdcolin/twitter_fractal_bot
 
 ### Boilerplate
 
@@ -210,6 +211,7 @@
 - [can't find where you put that console.log?](https://twitter.com/davidmarkclem/status/1455850282294915074)
 - [package-lock.json](https://twitter.com/izs/status/1480992076737118209)
 - https://hirok.io/posts/avoid-npm-link
+- [scripts I've started using daily](https://twitter.com/mattpocockuk/status/1567859790168170497)
 
 ### Cheat sheets
 
@@ -464,6 +466,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [repo that is written in ESM and uses Rollup to transpile to CJS (including tests)](https://twitter.com/MylesBorins/status/1481138550481502211)
 - [Git branch to favicon](https://gist.github.com/tigt/86b25ce970e46370dd61339380e2d6bd)
 - https://mmazzarolo.com/blog/2022-08-25-simple-colored-logging-for-javascript-clis
+- https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler
 
 ### Testing
 

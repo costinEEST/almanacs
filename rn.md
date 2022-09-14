@@ -80,6 +80,7 @@
 - [Test-Driven Development in React Native](https://www.youtube.com/playlist?list=PLXXnezSEtvNPZroRdvjhEVzOhURl572Lf)
 - https://github.com/matijagrcic/react-native/blob/main/Testing.md + https://twitter.com/wcandillon/status/1438763533303533568
 - https://emelkan.hashnode.dev/my-top-5-demo-apps-to-practice-software-testing
+- https://docs.expo.dev/build-reference/e2e-tests + https://www.bogdan.digital/react-native/how-to-run-detox-with-expo-eas-builds-and-write-mocks-for-it + 
 
 ### Development
 
@@ -188,6 +189,7 @@
 - https://callstack.com/blog/hermes-performance-on-ios
 - https://blog.bam.tech/developer-news/measuring-and-improving-react-native-apps-startup-time
 - [One of the biggest misconceptions about React Native is that it has worse performance than native iOS/Android](https://twitter.com/Ashoat/status/1425906197992026114)
+- https://dev.to/dalcib/esbuild-react-native-web-v-final-465p
 
 ### Radio
 

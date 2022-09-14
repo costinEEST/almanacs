@@ -11,6 +11,7 @@
 - https://www.neilwithdata.com/advanced-sql
 - https://github.com/bevacqua/reads#databasessearch
 - [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077) + https://news.ycombinator.com/item?id=25987664 + https://dev.to/nyxtom/resources-for-learning-about-crdt-for-realtime-collaboration-5bkj
+- [CRDTs will bring us the reallyinteresting next web](https://twitter.com/ae_play/status/1467563638542192653)
 - https://github.com/benjamintanweihao/distributed-systems-references
 - https://caitiem.com/2017/09/07/getting-started-with-distributed-systems
 - [Streaming Systems. The What, Where, When, and How of Large-Scale Data Processing by Tyler Akidau, Slava Chernyak, and Reuven Lax](http://streamingsystems.net)
@@ -192,6 +193,7 @@
 - https://github.com/sujeet-agrahari/awesome-database-design
 - [Against unnecessary databases](https://beepb00p.xyz/unnecessary-db.html)
 - https://medium.com/@tjukanov/finding-the-most-innovative-square-kilometer-in-europe-with-spatial-sql-46b0fc4bde62
+- [Parallel Self-Tuning Spectral Clustering on Apache Spark | Armand Grillet](https://armand.gr/files/MasterThesis.pdf)
 
 ### PostgreSQL
 

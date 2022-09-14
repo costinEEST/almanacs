@@ -110,6 +110,7 @@
 - [Macaroons for anything involving authorization. They are the anti-JWT](https://blog.gtank.cc/macaroons-reading-list)
 - https://blog.gtank.cc/notes-on-anonymous-credentials
 - [A Step-by-step Guide for PGP Beginners](https://syncom.github.io/papers/pgptutorial.txt)
+- [dnssec, openpgpkey, dane, sshfp](https://gist.github.com/phryneas/5ab090c21ecb32ff1858)
 
 ### Transport Layer Security (TLS)
 

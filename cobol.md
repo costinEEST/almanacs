@@ -3,6 +3,10 @@
 - https://github.com/openmainframeproject/cobol-programming-course
 - https://app.pluralsight.com/library/courses/learning-cobol-programming-vscode-2
 
+### Cinema
+
+- https://youtu.be/JRI7K8Y7cjQ
+
 ### Development
 
 - https://github.com/azac/cobol-on-wheelchair

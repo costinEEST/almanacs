@@ -287,6 +287,7 @@
 - https://alexanderell.is/posts/javascript-array-reduce
 - https://www.matthewgerstman.com/tech/reduce-reduce-reduce
 - https://courses.kyleshevlin.com/courses/array-reduce
+- https://cbrevik.com/react-native-and-the-array-reverse-bug
 
 ### new Uint8Array()
 
