@@ -36,6 +36,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - https://www.udemy.com/user/cristina-gheorghisan
 - https://github.com/iosifache/BinExpLabs
 - https://omu.rce.so/gcc-2022
+- [An Oral History of Binary Exploitation Defenses](https://taggarttech.teachable.com/courses/enrolled/1840120)
 
 ### Book
 

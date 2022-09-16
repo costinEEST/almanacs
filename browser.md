@@ -528,6 +528,7 @@ javascript: (() =>
 - https://alan.norbauer.com/articles/browser-debugging-tricks
 - https://textslashplain.com/2020/09/25/web-debugging-watching-element-changes
 - https://github.com/styfle/breaking-changes-web
+- [QR codes art](https://research.swtch.com/qart)
 
 ### Tool
 

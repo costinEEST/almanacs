@@ -50,7 +50,7 @@
 - [Exploit a XSS vulnerability in a sandboxed Electron app and achieve RCE](https://huntr.dev/bounties/911a4ada-7fd6-467a-a464-b88604b16ffc)
 - https://7085.at/#/blog/2022-02-03-rce-vulnerabilities-in-obsidian-discovered
 - https://github.com/jonmest/How-To-Tamper-With-Any-Electron-Application
-
+- https://taggart-tech.com/quasar-electron
 
 
 ### Tool

@@ -52,6 +52,7 @@
 - http://kakar.ca/2010/12/24/an-ec2-api-concept-map.html
 - [Just Starting out on AWS? | Be A Better Dev](https://www.youtube.com/playlist?list=PL9nWRykSBSFgKbZAX_96t6GUeqf3YSZsx)
 - [the story of Amazon Web Services](https://podcasts.apple.com/us/podcast/acquired/id1050462261?i=1000578485843&ck_subscriber_id=1697730854)
+- https://marcyoung.us/post/book
 
 ### Azure
 

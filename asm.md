@@ -20,6 +20,7 @@
 - https://kddnewton.com/2022/08/11/aarch64-bitmask-immediates.html
 - https://nelsonslog.wordpress.com/2022/08/28/lightweight-arm64-build-run-on-x86
 - [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/spring20/cos217/schedule.html) + https://www.youtube.com/playlist?list=PLwXw5yrGdQS5QQE4FsK3IyVtWcGcJap65
+- https://www.labri.fr/perso/fleury/posts/programming/learning-arm-deep-down-dirty.html
 
 ### Book
 

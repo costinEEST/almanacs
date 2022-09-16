@@ -124,6 +124,7 @@
 
 - https://alexanderell.is/posts/rpc-from-scratch + https://alexanderell.is/posts/terrier-dist-sys
 - https://github.com/bytegarage/c-programming-bootcamp
+- https://github.com/bloominstituteoftechnology/C-Web-Server
 
 ### Security
 

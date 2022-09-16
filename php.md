@@ -93,6 +93,7 @@
 - https://github.com/riyazwalikar/sql-injection-training-app
 - [Juan Manuel Fernández](https://x-c3ll.github.io/stuff.html)
 - https://github.com/PortSwigger/serialization-examples/tree/master/php
+- https://github.com/snoopysecurity/Vulnerable-Code-Snippets
 
 ### Miscellaneous
 
