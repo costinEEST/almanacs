@@ -136,7 +136,7 @@
 - https://xakcop.com/post/how-many-people
 - https://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html
 - https://hackaday.com/2022/08/27/introducing-fissure-a-toolbox-for-the-rf-hacker
-
+- https://i.blackhat.com/USA-22/Wednesday/US-22-Shaik-Attacks-From-a-New-Front-Door-in-4G-5G-Mobile-Networks.pdf
 
 ### 3G
 

@@ -99,6 +99,7 @@
 - https://alexwlchan.net/2019/10/sans-io-programming
 - [Time Traveling Debugger | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3Cpyk2LD1vE0161Jg82HJ7d)
 - [How GUI works | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3AzOn-r857u2JSfPVHOd8xH)
+- [Python for Java Developers](https://www.youtube.com/channel/UCD6woIYRXP_kX5IaLb-6tqw/playlists)
 
 ### Community 
 

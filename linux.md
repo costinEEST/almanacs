@@ -1,3 +1,7 @@
+### Arch 
+
+- https://ritlug.com/talks/slides/2018-w06-spring-arch-linux.pdf
+
 ### Book
 
 - https://learning.oreilly.com/library/view/linux-basics-for/9781492069485

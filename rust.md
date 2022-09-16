@@ -51,6 +51,7 @@
 - [mod team resignation](https://github.com/rust-lang/team/pull/671)
 - https://www.facebook.com/coolaj86/videos/1071405973646620
 - [How ready is Rust for Machine Learning?](https://github.com/anowell/are-we-learning-yet)
+- https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust
 
 ### Course
 

@@ -20,6 +20,7 @@
 
 - [Lectures on Digital Photography | Marc Levoy](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i)
 - [Understanding Cameras & Optics](https://www.youtube.com/playlist?list=PL6rx9p3tbsMtyBSl6ihtZ5kv8Kuib3Hbu)
+- https://eddimage.com/online-macro-photography-lessons
 
 ### Formats
 

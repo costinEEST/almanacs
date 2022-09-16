@@ -258,3 +258,4 @@
 - http://shadycharacters.co.uk/series/emoji
 - https://www.quaxio.com/unicode_superscript.html
 - https://raesene.github.io/blog/2021/11/06/fun-with-unicode
+- https://notes.jordanscales.com/on-emoji

@@ -86,6 +86,7 @@
 - https://blog.ghaiklor.com/2021/07/19/let-us-improve-your-skill-set-when-working-with-typescript + https://github.com/ghaiklor/type-challenges-solutions + https://blog.beraliv.dev/2021-04-04-type-challenges
 - [TypeScript paths with Node.js without any additional bundling/transformation step](https://github.com/fox1t/ts-paths-node-native)
 - https://www.placemark.io/post/good-magic-with-typescript + https://twitter.com/placemarkio/status/1454102660731265033
+- https://github.com/jdan/adventofcode/tree/main/2021/ts
 
 
 ### Reference

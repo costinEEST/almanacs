@@ -87,3 +87,4 @@
 - [Felipe Vogel](https://fpsvogel.com/reading)
 - [Nicholas C. Zakas](https://humanwhocodes.com/reading)
 - [Justin Duke](https://www.arcana.computer/catalogs/books)
+- [J. Pedro Ribeiro](https://jpedroribeiro.com/tag/book-notes)

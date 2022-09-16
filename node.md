@@ -569,6 +569,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://arstechnica.com/information-technology/2021/09/npm-package-with-3-million-weekly-downloads-had-a-severe-vulnerability
 - https://github.com/onsecru/jwt-hacking-challenges
 - https://security.snyk.io/vuln/SNYK-JS-NODEIPC-2426370
+- https://snyk.io/blog/reverse-shell-attack
 
 ### CMS
 

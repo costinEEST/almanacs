@@ -145,6 +145,7 @@
 ### Cheat sheet 
 
 - https://ponyfoo.com/articles/es6
+- [Dark themes made easy](https://notes.jordanscales.com/40ecf234)
 
 ### Course
 
@@ -549,7 +550,7 @@
 - https://github.com/rmurphey/js-assessment
 - https://solverfox.dev/writing/testing-dispatch-event-pitfalls
 - [goodies for my test automation framework](https://github.com/stars/sidorares/lists/tv)
-
+- https://contra.com/p/PWBcPYZc-rewriting-tests-from-cypress-to-playwright-using-gpt-3
 
 ### Virtual machine
 

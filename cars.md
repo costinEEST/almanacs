@@ -1,6 +1,8 @@
 ### Cinema
 
 - https://www.udemy.com/course/hybrid-and-electric-vehicle-for-beginners-full-course-2021
+- [Educație | Masina Potrivita](https://www.youtube.com/playlist?list=PL8S56XToMXhlWHL2tw_Kup2oHncbEs2tn)
+
 
 ### Community 
 

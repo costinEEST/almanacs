@@ -20,6 +20,7 @@
 - https://www.amazon.com/Non-Designers-Design-Book-Non-Designers-ebook/dp/B00PWDFWEE
 - https://shepherd.com/best-books/visual-branding
 - https://childrensdesignguide.org
+- [After the Bauhaus, Before the Internet. A History of Graphic Design Pedagogy | Geoff Kaplan](https://mitpress.mit.edu/9781949484090/after-the-bauhaus-before-the-internet)
 
 ### Cinema
 

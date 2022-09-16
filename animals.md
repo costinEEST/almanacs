@@ -48,6 +48,7 @@
 
 ### Picture
 
+- [Eduard Florin Niga](https://pressone.ro/macrofotografia-m-a-absorbit-incet-dar-sigur-in-totalitate-cum-a-ajuns-un-fotograf-criminalist-din-romania-un-celebru-si-premiat-fotograf-de-insecte-in-marea-britanie)
 - https://www.flickr.com/photos/biodivlibrary/albums
 
 ### Miscellaneous
