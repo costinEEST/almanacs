@@ -2,6 +2,10 @@
 
 - https://futurism.com/best-ebikes
 
+### Video camera 
+
+- [The Ultimate Pocket Camera: Insta360 X3](https://youtu.be/H8PLt4lG-tY)
+
 ### Charger
 
 - https://www.emag.ro/product-feedback/acumulator-extern-huawei-supercharge-12000-mah-40w-blue-55030797/pd/DB5YQLBBM/review/3764817

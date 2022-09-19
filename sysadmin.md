@@ -156,6 +156,7 @@
 - https://citizen428.net/blog/self-hosting-static-site-openbsd-httpd-relayd
 - https://www.udemy.com/course/nginx-crash-course + https://nginx.husseinnasser.com
 - https://blog.yossarian.net/2018/03/15/blog.yossarian.net-is-now-self-hosted
+- https://specbranch.com/posts/one-big-server
 
 ### References
 
@@ -173,6 +174,7 @@
 - https://github.com/Artemmkin/infrastructure-as-code-tutorial
 - https://github.com/jpetazzo/container.training
 - https://academy.safestack.io/syllabus-introduction-to-devsecops
+- https://github.com/wurstbrot/DevSecOps-MaturityModel
 
 ### Monitoring
 

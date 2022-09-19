@@ -1,6 +1,7 @@
 ### Book
 
 - https://dougbrignole.com/product/autographed-copy-the-physics-of-resistance-exercise-print-book
+- [ANATOMIA ŞI FIZIOLOGIA OMULUI](https://stiinta-pentru-toti.blogspot.com/2022/09/proiectul-cultural-expozitional.html)
 
 ### Cinema
 
@@ -33,3 +34,4 @@
 - [Brains to Gains - The Muscle PhD](https://www.youtube.com/playlist?list=PLmiXBKJgM-GuNUykEDLcMiEK2jHrwhq1Z)
 - [Plateau Busters - The Muscle PhD](https://www.youtube.com/playlist?list=PLmiXBKJgM-GsIXN847rITImkm51Pd7fiJ)
 - https://spectrum.ieee.org/the-human-os/biomedical/devices/3d-printing-bone-directly-into-the-body
+- https://marginalrevolution.com/marginalrevolution/2022/08/evolution-and-the-eye.html

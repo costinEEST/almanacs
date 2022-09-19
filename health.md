@@ -143,6 +143,7 @@
 ### Drug 
 
 - https://adriancopcea.com/2022/08/14/iodul-in-sanatatea-umana-notiuni-elementare
+- https://sunlightenthusiast.wordpress.com/2022/07/25/how-to-understand-cough-medicines
 
 ### Grocery
 

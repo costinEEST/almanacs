@@ -79,6 +79,10 @@
 - https://levelup.gitconnected.com/want-to-be-a-software-developer-learn-c-first-and-thank-me-later-30a447f32037
 - [ An opinionated history of programming languages](https://artagnon.com/articles/pl)
 
+### Practice 
+
+- https://github.com/rbaron/advent-of-code-2019
+
 ### Radio
 
 - https://tlbh.it/001_deref_char_star_0_eq_0.html

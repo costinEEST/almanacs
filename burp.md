@@ -5,6 +5,7 @@
 ### Course
 
 - [Installing, configuring and using Burp-Suite 2 Free Community Edition and Pro editions - webpwnized](https://www.youtube.com/playlist?list=PLZOToVAK85MoBg65au9EeFkK7qwzppcnU)
+- [Burp Suite Deep Dive for Application Security Professionals | Cristi Zot](https://www.udemy.com/course/burpsuitepro)
 
 ### Community
 

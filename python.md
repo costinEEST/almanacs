@@ -92,6 +92,10 @@
 - [Prelucrarea și vizualizarea datelor folosind Python, curs masteral @ TCSI, FSA, UPB](https://github.com/adimanea/pvdp-upb)
 - https://www.freecodecamp.org/news/automate-your-life-with-python
 
+### Compiler 
+
+- https://rbaron.net/blog/2018/10/05/Hand-rolling-a-minimal-interpreted-programming-language-from-scratch.html + https://github.com/rbaron/compiler_studies
+
 ### Cinema
 
 - https://github.com/s16h/py-must-watch
@@ -240,12 +244,18 @@
 - [Fun with sockets: let's write a webserver!](https://twitter.com/b0rk/status/1211762580655607808)
 - [A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.](https://github.com/mirumee/saleor)
 - https://alexanderell.is/posts/wikipedia-over-whatsapp
+- https://lessonsec.com/posts/dev-chronicles-creating-an-http-attack-client
 
 ### Standard library
 
 - https://treyhunner.com/2019/05/python-builtins-worth-learning
 - https://medium.com/@vmsp/less-known-bits-of-the-python-standard-library-46dc88490115
 - [Understanding all of Python, through its builtins](https://sadh.life/post/builtins)
+
+### Practice 
+
+- https://github.com/rbaron/advent-of-code-2020
+- https://github.com/rbaron/advent-of-code-2021
 
 ### Tool
 

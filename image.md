@@ -9,6 +9,7 @@
 - https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens
 - [How do you handle images for your personal blogs?](https://twitter.com/jamesqquick/status/1551587367752007685)
 - https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html
+- https://rbaron.net/blog/2020/02/16/How-to-identify-blurry-images.html
 
 ### Community
 

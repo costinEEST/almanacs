@@ -106,6 +106,7 @@
 - https://afitnerd.com/2020/08/09/man-in-the-middle-yourself
 - https://marcyoung.us/post/homebrew-hacking
 - https://marcyoung.us/post/smart-home
+- https://rbaron.net/blog/2018/05/27/Hacking-a-cheap-fitness-tracker-bracelet.html
 
 ### Miscellaneous
 
@@ -122,3 +123,4 @@
 - [Learing FreeRTOS by doing a project](https://github.com/tiberiucorbu/solar-energy-logger)
 - https://github.com/danielsundermeier/knowledge/tree/master/home-automation
 - https://github.com/danbev/learning-iot
+- https://github.com/rbaron/elink + https://rbaron.net/blog/2022/07/29/Daisy-chaining-multiple-electronic-shelf-labels.html

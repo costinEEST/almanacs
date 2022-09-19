@@ -84,10 +84,10 @@
 - http://gustavbertram.com/fun/cryptanalysis
 - http://gustavbertram.com/fun/cryptarithmetic
 
-### Demos
+### Inspire
 
-- [Store a secret securely in a standalone HTML file.](https://github.com/derhuerst/html-vault)
-
+- [Store a secret securely in a standalone HTML file](https://github.com/derhuerst/html-vault)
+- [Tell your crush you like them with zero-knowledge](https://github.com/amirgamil/zk-crush)
 
 ### History
 

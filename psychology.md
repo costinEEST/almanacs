@@ -34,14 +34,19 @@
 ### Opinion
 
 - https://www.contributors.ro/noi-chinezii
-- [The difference between happiness, meaning, and true psychological richness](https://twitter.com/Julian/status/1482506906102943745)
- + https://www.apa.org/pubs/journals/releases/rev-rev0000317.pdf
+- [The difference between happiness, meaning, and true psychological richness](https://twitter.com/Julian/status/1482506906102943745) + https://www.apa.org/pubs/journals/releases/rev-rev0000317.pdf
+- https://medium.com/s/story/how-to-be-polite-9bf1e69e888c
+
 
 
 ### Papers
 
 - https://neurosciencenews.com/swearing-self-confidence-behavior-strength-20251
 - https://www.cbc.ca/radio/ideas/perfectionism-a-modern-malady-born-in-the-middle-ages-1.6450904
+
+### Persuation
+
+- https://www.amazon.com/Guru-Papers-Masks-Authoritarian-Power/dp/1883319005
 
 ### Sexuality
 

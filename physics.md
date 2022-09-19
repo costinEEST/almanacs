@@ -73,6 +73,7 @@
 - https://ciechanow.ski/naval-architecture 
 - https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype
 - https://neddonovan.substack.com/p/how-disney-became-a-nuclear-power
+- https://www.blog.geoffrussell.com.au/post/nuclear-may-or-may-not-be-expensive-but-it-s-much-faster-to-build-than-renewables
 
 ### Engine
 

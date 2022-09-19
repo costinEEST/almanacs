@@ -308,6 +308,7 @@
 
 - [An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures](https://github.com/chenjj/espoofer)
 - https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse
+- https://lessonsec.com/posts/email-spoofing-101
 
 ### WebSockets
 
