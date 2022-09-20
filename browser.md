@@ -529,6 +529,7 @@ javascript: (() =>
 - https://textslashplain.com/2020/09/25/web-debugging-watching-element-changes
 - https://github.com/styfle/breaking-changes-web
 - [QR codes art](https://research.swtch.com/qart)
+- https://github.com/dongri/emv-qrcode-doc
 
 ### Tool
 

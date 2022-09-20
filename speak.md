@@ -299,6 +299,7 @@
 
 - https://www.youtube.com/c/SpanishWithPaul/playlists
 - https://www.youtube.com/c/DreamingSpanish/playlists
+- [Mariela Bosque](https://about.me/profmarielabosque)
 - https://www.mezzoguild.com/spanish-apps
 - https://www.zerotohero.ca/en/es/all-media
 - https://www.youtube.com/c/ChristianBurgosKorea/playlists

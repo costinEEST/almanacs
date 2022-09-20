@@ -1,3 +1,7 @@
+### Algorithm
+
+- [Algorithms for Competitive Programming](https://github.com/e-maxx-eng/e-maxx-eng)
+
 ### Book
 
 - [The design and evolution of C++ by Bjarne Stroustrup](https://twitter.com/oznova_/status/1214971707863101440)

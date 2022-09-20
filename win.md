@@ -64,6 +64,7 @@
 - https://github.com/farag2/Sophia-Script-for-Windows
 - [RPC Monitor tool based on Event Tracing for Windows](https://github.com/cyberark/RPCMon)
 - https://github.com/sirredbeard/Awesome-WSL
+- https://notes.aliciasykes.com/21879/my-top-50-windows-apps
 
 ### Powershell
 
