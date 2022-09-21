@@ -37,7 +37,7 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLpZBns8dFbgxOTGC-pElWzvRBKbp2uwtQ
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUedUfuFvl0osPPKWCcajPiN
 - [Deep dive into MotionLayout by Bogdan Zurac](https://docs.google.com/presentation/d/1957szdWm2Uj1YSF8ffWS0_5UOjRN6cysLMWuVdeRT4s)
 - https://www.youtube.com/playlist?list=PLFW6ct83_wC9CYqIRaR1jUwrz_hBgAX8Q
 - [Web Challenges #CTF #hpAndro | Android AppSec](https://www.youtube.com/playlist?list=PLY47jY-dcCPWerJCAPw2GOJxUvmRe5Zho)

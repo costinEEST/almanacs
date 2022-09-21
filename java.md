@@ -29,6 +29,7 @@
 
 ### Cinema
 
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUd2sjF5ObluLRPtZP2OaGI4
 - https://www.youtube.com/c/LaurentiuSpilca/playlists
 - https://github.com/hellerve/programming-talks#java--android
 - [Comparing programming languages | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYhKCP2zuXqe2ubiXab5az36)
