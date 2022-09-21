@@ -78,6 +78,7 @@
 - https://www.unixdaemon.net/books/i-wrote-a-book
 - http://gustavbertram.com/learning/latex
 - https://github.com/keyvanakbary/learning-notes/blob/master/taking-notes.md
+- https://github.com/rcmoutinho/ebook-with-asciidoctor
 
 ### Miscellaneous
 

@@ -58,6 +58,7 @@
 - https://github.com/kendricktan/non-overwhelming-machine-learning
 - https://github.com/DataScienceSpecialization/courses
 - https://github.com/HaleTom/pytorch-udacity-scholarship
+- https://laurencemoroney.com/2022/01/05/aiforanyone.html
 
 ### Cinema
 

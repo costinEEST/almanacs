@@ -8,6 +8,7 @@
 - https://mihaiolteanu.me/books.html
 - https://leanpub.com/lovinglisp
 - Learn Lisp The Hard Way: https://github.com/thephoeron/LLTHW, https://llthw.common-lisp.dev
+- https://leanpub.com/lispweb
 
 ### Cinema
 

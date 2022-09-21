@@ -14,6 +14,18 @@
 - https://www.freecodecamp.org/news/the-java-handbook
 - https://markm208.github.io/patternbook
 - https://github.com/mgp/book-notes/blob/master/java-concurrency-in-practice.markdown
+- http://paulbakker.io/java/java-9-modularity
+- https://github.com/Apress/java-for-absolute-beginners
+- https://github.com/Apress/java-17-for-absolute-beginners
+- https://github.com/duke-certification/java6-to-java8-en + https://twitter.com/RafaDelNero/status/1387736448674242562 + https://leanpub.com/javachallengers + https://www.youtube.com/playlist?list=PL3py5YSIGvPMgKXOVqnYn9nBoT_zvsvsi + https://javachallengers.com/the-top-long-lasting-java-books-that-every-java-developer-should-read
+
+### Cheat sheet 
+
+- https://jenkov.com/tutorials/java/index.html
+- https://trishagee.com/presentations/beyond_java_8 + https://trishagee.github.io/presentation/beyond_java_8
+- [Collection of information about the history of Java primarily from a technical point of view.](https://github.com/marchof/java-almanac)
+- https://github.com/cosminpopescu14/Life_After_Java8 + https://www.reddit.com/r/java/comments/qpzmdy/java_ecosystem_vs_net_6
+
 
 ### Cinema
 
@@ -25,14 +37,23 @@
 - https://passthesalt.ubicast.tv/videos/finding-java-deserialization-gadgets-with-codeql
 - [The art of debugging Java apps | Laur Spilca](https://www.youtube.com/playlist?list=PLEocw3gLFc8VnqVumlrVtj3F0H54JJmM5)
 - [Object Oriented Analysis and Design 2016 | Tobias Olsson](https://www.youtube.com/playlist?list=PLoPbi7xxqaPhokOQWuAH9Dystu0PxPsqc)
+- https://github.com/sormuras/awesome-java-module-system 
+- [Nicolai Parlog](https://www.youtube.com/c/nipafx/playlists) + https://slides.nipafx.dev/expert-java-8
+- https://www.youtube.com/c/JakobJenkov/playlists
 
 ### Community 
 
 - https://twitter.com/CodesOtto/status/1559482556092907521
+- https://twitter.com/RafaDelNero/status/1571270159976828930
+- https://twitter.com/RafaDelNero/status/1571987638629896193
+- https://twitter.com/RafaDelNero/status/1570894938635902976
+- https://twitter.com/RafaDelNero/status/1415385778184761347
+- https://github.com/StreamOfJava/streamofjava.github.io
 
 ### Course
 
 - https://hyperskill.org/onboarding/?track=java
+- https://www.jobreadyprogrammer.com
 - https://www.freecodecamp.org/news/learn-to-develop-and-android-app-no-experience-required
 - https://rockthejvm.com
 - [CS 342: Software Design (Summer 2017)](https://www.cs.uic.edu/~psnyder/cs342-summer2017/syllabus)
@@ -78,6 +99,7 @@
 - https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html
 - [IntelliJ IDEA Developer Guide](https://amigoscode.com/courses/enrolled/667200)
 - https://blog.deesee.xyz/code-review/reverse-engineering/2022/05/30/scala-kotlin-groovy-clojure-command-execution.html
+- https://leanpub.com/gettingtoknowIntelliJIDEA
 
 ### Security
 
@@ -108,11 +130,8 @@
 - https://www.infoq.com/news/2021/01/java-turns-25 + https://news.ycombinator.com/item?id=25881704
 - https://davidhettler.net/blog/go-to-stack-for-web-apps-in-2021
 - https://perlun.eu.org/en/2019/04/05/java-for-csharp-programmers
+- https://www.javaguides.net/2020/09/tips-to-become-good-java-developer.html
 
-### Versions
-
-- [Collection of information about the history of Java primarily from a technical point of view.](https://github.com/marchof/java-almanac)
-- https://github.com/cosminpopescu14/Life_After_Java8 + https://www.reddit.com/r/java/comments/qpzmdy/java_ecosystem_vs_net_6/
 
 ### Optimizations
 
