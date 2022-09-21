@@ -496,6 +496,7 @@
 - https://github.com/0xedward/awesome-rails-security
 - https://bishopfox.com/blog/ruby-vulnerabilities-exploits
 - https://github.com/raesene/TestingScripts + https://www.mccune.org.uk/content/talks/2013-01-16-pentest-automation/ + https://www.youtube.com/playlist?list=PLKDRii1YwXnKG5PiY9zx3g5dJ2zOTJ4Al 
+- https://hackerone.com/reports/1609965
 
 ### Scrapping
 

@@ -103,7 +103,7 @@
 - https://twitter.com/AndrewCMyers/status/1523395642030456832 + https://courses.cs.cornell.edu/cs4120/2022sp
 - https://bernsteinbear.com/pl-resources
 - [LLVM Tutorial Walkthrough | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg)
-
+- https://github.com/ahr9n/awesome-reading/tree/main/dragon-book
 
 ### Virtual machines
 

@@ -5,6 +5,8 @@
 - [Learning Haskell by building a simple static blog generator](https://github.com/soupi/learn-haskell-blog-generator)
 - https://books.thoughtbot.com/books/maybe-haskell.html
 - https://github.com/pushcx/hpffp-resources
+- https://github.com/rpeszek/notes-milewski-ctfp-hs
+- https://github.com/rpeszek/IdrisTddNotes
 
 ### Community
 

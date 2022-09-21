@@ -13,6 +13,7 @@
 - https://twitter.com/laurspilca/status/1559914316115107841
 - https://www.freecodecamp.org/news/the-java-handbook
 - https://markm208.github.io/patternbook
+- https://github.com/mgp/book-notes/blob/master/java-concurrency-in-practice.markdown
 
 ### Cinema
 
@@ -50,6 +51,8 @@
 - https://www.slideshare.net/mariofusco/lets-make-a-contract-the-art-of-designing-a-java-api + https://twitter.com/ftomasse/status/1246831973567475713
 - https://github.com/iluwatar/java-design-patterns
 - https://errorprone.info/bugpattern/BigDecimalEquals
+- https://github.com/mgp/effective-rxjava
+- https://github.com/mgp/good-enough-java
 
 ### Data structures
 
@@ -97,6 +100,7 @@
 
 - https://github.com/Developer-Y/all-things-java
 - [Shows shipwreck locations on a map; each wreck can be clicked for further information](https://github.com/lauriharpf/shipwrecks)
+- [wind farm SCADA system](https://thesis.accel.dk) + https://tech-notes.accel.dk/technical/iec61400-25
 
 ### Opinion
 

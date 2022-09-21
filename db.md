@@ -82,6 +82,10 @@
 - [RethinkDB | Eric Bell](https://www.youtube.com/playlist?list=PLB8JqSBrZCVEG0_KFbzPtFlwhXUFEFwoh)
 - https://github.com/mitchellh/advent-2021-sql + https://www.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd
 
+### MySQL
+
+- https://github.com/nelhage/blog.nelhage.com/blob/master/content/post/some-opinionated-sql-takes.md
+
 ### Radio
 
 - [Why SQLite succeeded as a database.](https://changelog.com/podcast/201)
@@ -194,6 +198,7 @@
 - [Against unnecessary databases](https://beepb00p.xyz/unnecessary-db.html)
 - https://medium.com/@tjukanov/finding-the-most-innovative-square-kilometer-in-europe-with-spatial-sql-46b0fc4bde62
 - [Parallel Self-Tuning Spectral Clustering on Apache Spark | Armand Grillet](https://armand.gr/files/MasterThesis.pdf)
+- https://github.com/mgp/book-notes/blob/master/sqlalchemy.markdown
 
 ### PostgreSQL
 

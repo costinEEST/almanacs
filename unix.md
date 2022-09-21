@@ -25,6 +25,7 @@
 - [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files)
 - https://blog.vivekhaldar.com/post/617189040564928512/how-unix-won
 - https://digitalbunker.dev/2020/09/03/understanding-daemons-unix + https://news.ycombinator.com/item?id=24361013
+- https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios
 
 ### CLI
 

@@ -80,6 +80,8 @@
 - [The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head)](http://rudy.ca/doomsday.html)
 - https://nelsonslog.wordpress.com/2021/09/25/time-zones-that-are-utc
 - https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist
+- https://github.com/mgp/coding-in-the-real-world/blob/master/manuscript/dates-and-times.md
+- https://tech-notes.accel.dk/time
 
 ### TIL
 
@@ -163,6 +165,7 @@
 - [8 disk magazines from the 90s](https://github.com/ConspiracyHu/diskmag-onlinification-project)
 - [The Apollo Guidance Computer: Architecture and Operation | Frank O'Brien](https://www.amazon.com/Apollo-Guidance-Computer-Architecture-Operation/dp/1441908765)
 - [A Romp Through Computer History | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3AwXZNxJnhlNCvRTzQvh2R1)
+- https://blog.nelhage.com/post/apollo-bibliography
 
 ### Miscellaneous
 

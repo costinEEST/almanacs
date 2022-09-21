@@ -71,6 +71,7 @@
 - https://xeiaso.net/blog/vtubing-setup-2022-01-13 + https://youtu.be/BYIlYMM6_Cw
 - https://blog.yossarian.net/2017/03/05/Random-Mosaics-with-ffmpeg-and-Ruby
 - https://jordaneldredge.com/blog/generating-a-12-hour-youtube-video-with-python
+- https://tech-notes.accel.dk/tools/video-meetings.html
 
 ### Opinion
 

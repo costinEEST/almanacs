@@ -82,6 +82,7 @@
 
 ### Community
 
+- https://5minutehealth.com/health-experts
 - https://github.com/aarvanet/longevity-events + https://github.com/aarvanet/longevity-news
 - [Plant-Forward Keto](https://www.facebook.com/groups/999537217510868)
 - https://ankushdatar.substack.com/p/the-citadel-of-health

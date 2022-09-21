@@ -1,8 +1,18 @@
+### Book 
+
+- https://github.com/mgp/book-notes/blob/master/learn-objective-c-on-the-mac.markdown
+- https://github.com/mgp/book-notes/blob/master/iphone-user-interface-design-projects.markdown
+- https://github.com/mgp/book-notes/blob/master/ios-programming-the-big-nerd-ranch-guide-4th-edition.markdown
+
 ### Cinema
 
 - [Bob Martin - The Future of Programming](https://youtu.be/ecIWPzGEbFc)
 - https://github.com/robrix/Postmodern-Programming
 - https://objc-retain.com/about + https://www.youtube.com/playlist?list=PLKMpKKmHd2SudZhgs0IQDMmTfbz7QFnYg
+
+### Cheat sheet 
+
+- https://github.com/nytimes/objective-c-style-guide
 
 ### Devevlopment
 

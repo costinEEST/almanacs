@@ -169,6 +169,7 @@
 - [List of satellite image training datasets with annotations for computer vision and deep learning](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 - https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 - https://www.todaysoftmag.ro/article/3614/propunere-de-carte-machine-learning
+- [Personalized Recommendation system with Python](https://github.com/kizoey/book-personal-recommendation)
 
 ### Paper
 

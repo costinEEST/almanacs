@@ -469,6 +469,7 @@
 - [Fire mouse events when a user intends it](https://github.com/tristen/hoverintent)
 - https://github.com/0xGodson/blogs/blob/master/_posts/2022-07-21-art-of-dom-clobbering.md
 - https://github.com/cms/domready
+- https://github.com/mgp/book-notes/blob/master/advanced-dom-scripting.markdown
 
 ### Single-page application
 

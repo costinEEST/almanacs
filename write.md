@@ -77,6 +77,7 @@
 - https://erfur.github.io/2022/05/03/bookmarks-and-hoarding.html
 - https://www.unixdaemon.net/books/i-wrote-a-book
 - http://gustavbertram.com/learning/latex
+- https://github.com/keyvanakbary/learning-notes/blob/master/taking-notes.md
 
 ### Miscellaneous
 

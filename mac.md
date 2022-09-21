@@ -25,6 +25,7 @@
 - https://github.com/jonathanong/osx-webdev-setup
 - https://devdad.life/blog/eject-all-button-for-macos
 - https://sal.dev/macos/macos-screenshotting-tips-and-tricks
+- www.spingroup.com/blog/2019/8/30/37-mac-keyboard-shortcuts-for-digital-professionals
 
 ### Development
 

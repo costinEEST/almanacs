@@ -20,6 +20,7 @@
 - https://antonz.org/dataviz-guide
 - [R for applied epidemiology and public health](https://news.ycombinator.com/item?id=27106489)
 - https://www.amazon.com/Official-Guide-Mermaid-js-beautiful-flowcharts-ebook-dp-B098KHTVJ2/dp/B098KHTVJ2
+- https://github.com/EunBinChoi/Python-for-Data-Analysis-master
 
 ### Cinema
 

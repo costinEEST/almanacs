@@ -21,6 +21,7 @@
 - https://www.amazon.com/Understanding-Software-Addison-Wesley-Professional-Computing-ebook-dp-B09H5JB5HC/dp/B09H5JB5HC
 - [Make: The Annotated Build-It-Yourself Science Laboratory | Windell Oskay](https://www.adafruit.com/product/2560)
 - https://www.amazon.com/Open-Circuits-Beauty-Electronic-Components-ebook-dp-B09WJWGB34/dp/B09WJWGB34 + https://nostarch.com/open-circuits
+- https://github.com/ahr9n/awesome-reading/tree/main/learn-verilog
 
 ### Cinema
 

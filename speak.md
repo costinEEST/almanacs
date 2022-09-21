@@ -82,6 +82,7 @@
 - https://lindiebotes.com/2021/06/02/8-free-language-learning-tools-you-can-integrate-into-your-life
 - https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages
 - https://etymologeek.com
+- [Alternative to Google Translate with a more user friendly ToS](https://www.deepl.com/translator)
 
 ### Communities
 
@@ -110,6 +111,7 @@
 - https://alexwlchan.net/2020/04/storing-language-vocabulary-as-a-graph
 - https://en.wikibooks.org/wiki/Chinese_%28Mandarin%29/Using_Tones
 - [Let's Learn Classical Chinese | Colin Gorrie](https://www.youtube.com/playlist?list=PLmp7RhkyEu0vz1NYNa7V9xFuRBsW9a9mt)
+- https://www.amazon.com/Tuttle-Learners-Chinese-English-Dictionary-Romanized/dp/0804845271
 
 ### Arabic
 
