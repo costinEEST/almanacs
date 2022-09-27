@@ -31,6 +31,7 @@
 - https://ncot.uk/arduino/debugging-z80-with-arduino
 - https://github.com/curiores/ArduinoTutorials
 - https://github.com/b3cft/lhsArduinoCourse
+- https://medium.com/scout24-engineering/how-android-communicates-with-external-hardware-beginning-android-adk-with-arduino-4be72c774a6d
 
 ### CLP5010
 

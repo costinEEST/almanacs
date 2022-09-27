@@ -177,6 +177,7 @@
 - [The composition patterns (usage of children) that we sometimes use to optimize can also be used to interleave components of different types](https://twitter.com/sebmarkbage/status/1096115287781400576)
 - https://julesblom.com/writing/component-displayname
 - https://jordaneldredge.com/blog/defaulting-to-empty-string-is-a-code-smell
+- https://refine.dev/blog/react-memo-guide
 
 ### Concurrent Mode/Suspense
 
@@ -289,6 +290,7 @@
 - https://www.youtube.com/playlist?list=PLNqp92_EXZBIqX8DWmwmJmxeHiq-Ut4W1
 - https://tkdodo.eu/blog/offline-react-query
 - https://www.zhenghao.io/posts/react-rerender
+- https://blog.johnnyreilly.com/2022/09/20/react-usesearchparamsstate
 
 ### Preact
 
@@ -359,6 +361,7 @@
 - https://imkev.dev/react-rendering-order
 - https://github.com/tryshchenko/es6-generators-benchmark
 - https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score
+- https://profy.dev/article/debug-react-vscode
 
 ### Inspire
 

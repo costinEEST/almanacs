@@ -64,6 +64,7 @@
 - https://www.voxa.ro/ebooks/pe-umerii-lui-marx-o-introducere-in-istoria-comunismului-romanesc
 - https://github.com/dessalines/essays/blob/master/dessalines_marxism_study_plan.md
 - [Hermes the Thief: The Evolution of a Myth | Norman O. Brown](https://en.wikipedia.org/wiki/Norman_O._Brown#Work)
+- [Anton Bacalbașa](https://ro.wikipedia.org/wiki/Anton_Bacalba%C8%99a#Date_biografice)
 
 ### Radio
 

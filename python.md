@@ -68,6 +68,7 @@
 
 ### Course
 
+- https://github.com/trekhleb/learn-python
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
 - [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html) + https://mobile.twitter.com/spatialthoughts/status/1296821055604969473
 - [Build a Feed Reader in Python](https://www.youtube.com/playlist?list=PLmxT2pVYo5LBcv5nYKTIn-fblphtD_OJO)
@@ -79,7 +80,6 @@
 - https://marko-knoebl.github.io/slides/index.html
 - https://github.com/ForrestKnight/open-source-cs-python
 - https://www.freecodecamp.org/news/opencv-full-course
-- https://github.com/trekhleb/learn-python
 - https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform
 - https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days
 - https://www.udemy.com/course/master-in-advance-python
@@ -91,6 +91,7 @@
 - https://github.com/oz123/advanced-python
 - [Prelucrarea și vizualizarea datelor folosind Python, curs masteral @ TCSI, FSA, UPB](https://github.com/adimanea/pvdp-upb)
 - https://www.freecodecamp.org/news/automate-your-life-with-python
+- [Python for Defenders](https://taggarttech.teachable.com/courses/enrolled/1875566)
 
 ### Compiler 
 

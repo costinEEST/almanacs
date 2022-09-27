@@ -470,6 +470,7 @@
 - https://github.com/0xGodson/blogs/blob/master/_posts/2022-07-21-art-of-dom-clobbering.md
 - https://github.com/cms/domready
 - https://github.com/mgp/book-notes/blob/master/advanced-dom-scripting.markdown
+- https://frontendmasters.com/blog/vanilla-javascript-todomvc
 
 ### Single-page application
 

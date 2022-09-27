@@ -31,3 +31,4 @@
 - [Bilkent: HCIV-102 History of Civilization II | CosmoLearning History](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FzHv8-N93sSiMIfmST-Gzf)
 - https://github.com/smenjas/educational-content#history
 - https://twitter.com/MedievalUpdates
+- https://www.visualcapitalist.com/which-countries-still-have-monarchy

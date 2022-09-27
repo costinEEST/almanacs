@@ -46,6 +46,7 @@
 - https://pascalpares.appspot.ovh/webassembly-for-javascript-developers
 - [SQLite + Twitter + WASM](https://divyendusingh.com/experiments/wasm/twitter-sqlite)
 - [Mac OS 8](https://github.com/mihaip/infinite-mac)
+- https://betterprogramming.pub/deploying-a-wasm-powered-react-app-on-vercel-cf3cae2a75d6
 
 ### Tool
 

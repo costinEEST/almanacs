@@ -152,6 +152,7 @@
 - [A CLI tool to find the dominant colours in an image](https://github.com/alexwlchan/dominant_colours)
 - [Building a federated link aggregator](https://github.com/LemmyNet/lemmy)
 
+
 ### Opinion
 
 - https://twitter.com/Vernon_GR/status/1567008384452554752 + https://fasterthanli.me/articles/a-half-hour-to-learn-rust

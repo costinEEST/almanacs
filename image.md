@@ -10,6 +10,7 @@
 - [How do you handle images for your personal blogs?](https://twitter.com/jamesqquick/status/1551587367752007685)
 - https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html
 - https://rbaron.net/blog/2020/02/16/How-to-identify-blurry-images.html
+- https://nuculabs.dev/2022/09/21/how-to-identify-similar-images-using-hashing
 
 ### Community
 
@@ -53,9 +54,10 @@
 - https://blog.daviddworken.com/posts/simple-image-steganography
 - https://github.com/collections/pixel-art-tools
 
-### Photos
+### Photo
 
-- [Free stock photos · Pexels](https://www.pexels.com)
+- [Free stock photos](https://www.pexels.com)
+- [Akiyoshi KITAOKA's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
 ### Security
 

@@ -51,7 +51,7 @@
 - https://radiooooo.com
 - [DISCURI DE VINIL PICK-UP](https://www.facebook.com/groups/1529935950659745)
 - [Andrei Vieru](https://www.youtube.com/c/hammerklaviermusik/playlists)
-
+- [Irish traditional music](https://thesession.org)
 
 ### Guitar
 

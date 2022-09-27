@@ -39,6 +39,7 @@
 
 - [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)
 - [True Positive Weekly](https://aiweekly.substack.com/archive)
+- [Davis Blalock](https://dblalock.substack.com/archive)
 
 ### Book
 

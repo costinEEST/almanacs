@@ -38,6 +38,7 @@
 
 ### API
 
+- https://github.com/trekhleb/nodejs-master-class
 - https://www.manning.com/books/understanding-api-security
 - https://adriancitu.com/2021/10/08/book-review-api-security-in-action
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
@@ -255,6 +256,7 @@
 - https://github.com/RafaelGSS/nodejs-bench-operations
 - https://github.com/simone-sanfratello/node-bench-iteration
 - [Does anyone know if V8 exposes metrics around it's microtask queue?](https://twitter.com/wesleytodd/status/1557861163760701440)
+- [Misusing the Node.js Inspector Mechanism to Run Arbitrary Code](https://github.com/evilsocket/jscythe)
 
 ### Error
 
@@ -467,6 +469,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Git branch to favicon](https://gist.github.com/tigt/86b25ce970e46370dd61339380e2d6bd)
 - https://mmazzarolo.com/blog/2022-08-25-simple-colored-logging-for-javascript-clis
 - https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler
+- [Clean up your unused repos via the CLI within seconds](https://github.com/adrianmg/github-pewpew)
 
 ### Testing
 

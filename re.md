@@ -100,3 +100,4 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - https://itzsomebody.xyz/2021/07/11/javaisez3-writeup.html
 - https://inaradu.com/hwio-cts20
 - https://github.com/hyperreality/OSCP-Buffer-Overflow-in-30-minutes
+- https://research.checkpoint.com/2022/native-function-and-assembly-code-invocation

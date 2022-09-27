@@ -88,6 +88,7 @@
 - https://github.com/wsargent/docker-cheat-sheet
 - [Dockerfile best-practices for writing production-worthy Docker images](https://github.com/hexops/dockerfile)
 - [A Methodology for Penetration Testing Docker Systems](https://github.com/joren485/BachelorThesis)
+- https://richardwillis.info/blog/how-i-use-next-js-strapi-and-docker-to-build-my-personal-website
 
 ### Kubernetes
 

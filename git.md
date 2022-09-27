@@ -134,6 +134,7 @@
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection
 - https://kinoshita.eti.br/2021/10/22/removing-invisible-unread-github-notifications.html
 - [Github as CV](https://htmlcssjavascript.com/web/how-did-i-miss-this)
+- [how to search github.com for multiple topics](https://gist.github.com/usametov/af8f13a351a66fb05a9895f11417dd9d)
 
 ### Tool
 
@@ -151,6 +152,7 @@
 - https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf
 - https://www.stefanjudis.com/today-i-learned/git-supports-global-gitignore-files
 - https://github.com/pomber/git-history
+- https://github.com/tj/git-extras
 
 ### Security
 

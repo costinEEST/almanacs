@@ -13,6 +13,10 @@
 - [Building Collaborative Music Apps](https://www.youtube.com/watch?v=TCVuLh5Io9A)
 - [Understanding Sound & Speakers](https://www.youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub)
 
+### Community
+
+- [sounds of Mexico City’s streets](https://pudding.cool/2022/09/cdmx)
+
 ### Development 
 
 - https://medium.com/programming-for-music/introduction-to-audio-programming-8b9e7ecdeaea

@@ -102,3 +102,4 @@
 - https://buffer.com/resources/writing-great-tweets-scientific-guide
 - [What makes writing more readable?](https://pudding.cool/2022/02/plain)
 - https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is
+- https://shkspr.mobi/blog/2022/08/how-to-write-a-cover-letter-for-a-job

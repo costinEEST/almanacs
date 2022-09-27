@@ -140,6 +140,7 @@
 - https://ishadeed.com/snippet/fit-content
 - [Use :has() to power <form> micro-interactions and theme](https://twitter.com/jh3yy/status/1549101796794273795)
 - [CSS Features to start learning, as I expect them to ship in all browsers in 2022](https://twitter.com/bramus/status/1475583226165055501)
+- [The missing shorthand for logical properties](https://adactio.com/journal/19457)
 
 ### Selector
 

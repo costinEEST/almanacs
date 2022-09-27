@@ -30,68 +30,10 @@
 - [Data mining pentru Științele Sociale Vol. 1: Pregătirea datelor în RapidMiner Studio | COMŞA Mircea](http://www.editura.ubbcluj.ro/www/ro/ebook2.php?id=3246)
 - [Natural Language Processing with TensorFlow | Thushan Ganegedara](https://twitter.com/svpino/status/1557698367945248768)
 
-### Course
 
-- [Unconventional Ways to Learn More Online](https://jaredtumiel.github.io/blog/2020/05/12/three-rules.html)
-- https://github.com/microsoft/ML-For-Beginners
-- https://ttumiel.github.io/blog/getting-into-ml
-- https://github.com/CryptoSoc/fastai-lessons
-- https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
-- https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
-- https://github.com/bnorbert/Courses/blob/master/History%20Of%20Computer%20Science%20Project/A_brief_history_of_Machine_Learning.pdf
-- https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course
-- https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course
-- https://laconicml.com/free-artificial-intelligence-courses
-- [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
-- https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477
-- [JavaScript for Data Science](https://js4ds.org)
-- https://www.freecodecamp.org/news/hands-on-data-science-course
-- https://course.elementsofai.com
-- https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning
-- https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
-- https://github.com/lexfridman/mit-deep-learning
-- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w) + https://twitter.com/jure/status/1382743017283493889 + https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
-- https://www.freecodecamp.org/news/advanced-computer-vision-with-python
-- https://www.udemy.com/course/learn-machine-learning-in-21-days
-- https://inst.eecs.berkeley.edu/~cs188/su21
-- https://github.com/rainyear/Oxford-Machine-Learning-Course-2015
-- https://github.com/kendricktan/non-overwhelming-machine-learning
-- https://github.com/DataScienceSpecialization/courses
-- https://github.com/HaleTom/pytorch-udacity-scholarship
-- https://laurencemoroney.com/2022/01/05/aiforanyone.html
+### Cheat sheet
 
-### Cinema
-
-- [RL Course by David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
-- [CS294-112 Fall 2017 (deep RL course)](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
-- [Two Minute Papers](https://www.youtube.com/user/keeroyz/playlists)
-- [Machine Learning and Programming - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf15KhhTGnSRgniYwcXFS-rK)
-- [Building a Machine Learning Based Web App Firewall/IPS from Scratch | Debasish Mandal](https://www.youtube.com/playlist?list=PLKwUZp9HwWoA7AjUeuWnvQdNXcQ7bF3e1) + http://www.debasish.in/2020/10/videobuilding-machine-learning-based.html
-- https://divyendusingh.com/machine-learning-literacy
-- [Machine Learning Course - Halmstad University](https://www.youtube.com/playlist?list=PLS8J_PRPtGfdnPf9QqT7Itnn2rAHsoWqY)
-- https://decision.substack.com/p/full-course-making-friends-with-ml
-- [Beep Boop: Learn AI/ML for free!](https://www.youtube.com/playlist?list=PLZEDsU5Jf868j_oCENz8jonsdTTVp5svv)
-
-### Community
-
-- Suzana Ilić: [Twitter](https://twitter.com/suzatweet), [Linkedin](https://www.linkedin.com/in/suzanailic/)
-- Brandon Rohrer: [Twitter](https://twitter.com/_brohrer_), [Linkedin](https://www.linkedin.com/in/brohrer/)
-- Chip Huyen: [Twitter](https://twitter.com/chipro), [Linkedin](https://www.linkedin.com/in/chiphuyen/)
-- https://interestingengineering.com/robert-downey-jrs-series-on-ai-is-available-on-youtube-right-now
-- [Joscha Bach: Artificial Consciousness and the Nature of Reality](https://news.ycombinator.com/item?id=23923183)
-- [Jürgen Schmidhuber](https://twitter.com/SchmidhuberAI)
-- https://twitter.com/svpino/status/1320722226069573634
-- https://sararobinson.dev/2020/11/17/writing-a-technical-book.html
-- [Daniel Etzold](https://etzold.io)
-- [Noor Siddiqui](https://progressstudies.school/the-torch-of-progress-ep-7-with-noor-siddiqui)
-- https://twitter.com/amitness/status/1288713405700780033
-- [Letiția Pârcălăbescu](https://www.youtube.com/c/AICoffeeBreak/playlists)
-- [Machine Learning & User Experience (MLUX)](https://www.meetup.com/MLUXmeetup)
-- [Heather Knight](http://www.marilynmonrobot.com/about)
-- [David Valdman](https://twitter.com/dmvaldman)
-
-### References
-
+- https://github.com/trekhleb/machine-learning-octave
 - https://github.com/AMAI-GmbH/AI-Expert-Roadmap
 - https://twitter.com/binitamshah/status/1312760070183153665
 - https://github.com/leandromineti/ml-knowledge-graph
@@ -130,6 +72,69 @@
 - https://github.com/vidhanbhonsle/Image-Recognition-with-IBM-and-HERE-Workshop
 - https://github.com/dmvaldman/library/tree/master/ai
 
+### Course
+
+- [Unconventional Ways to Learn More Online](https://jaredtumiel.github.io/blog/2020/05/12/three-rules.html)
+- https://github.com/microsoft/ML-For-Beginners
+- https://ttumiel.github.io/blog/getting-into-ml
+- https://github.com/CryptoSoc/fastai-lessons
+- https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
+- https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
+- https://github.com/bnorbert/Courses/blob/master/History%20Of%20Computer%20Science%20Project/A_brief_history_of_Machine_Learning.pdf
+- https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course
+- https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course
+- https://laconicml.com/free-artificial-intelligence-courses
+- [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
+- https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477
+- [JavaScript for Data Science](https://js4ds.org)
+- https://www.freecodecamp.org/news/hands-on-data-science-course
+- https://course.elementsofai.com
+- https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning
+- https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
+- https://github.com/lexfridman/mit-deep-learning
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w) + https://twitter.com/jure/status/1382743017283493889 + https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+- https://www.freecodecamp.org/news/advanced-computer-vision-with-python
+- https://www.udemy.com/course/learn-machine-learning-in-21-days
+- https://inst.eecs.berkeley.edu/~cs188/su21
+- https://github.com/rainyear/Oxford-Machine-Learning-Course-2015
+- https://github.com/kendricktan/non-overwhelming-machine-learning
+- https://github.com/DataScienceSpecialization/courses
+- https://github.com/HaleTom/pytorch-udacity-scholarship
+- https://laurencemoroney.com/2022/01/05/aiforanyone.html
+
+
+
+### Cinema
+
+- [RL Course by David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
+- [CS294-112 Fall 2017 (deep RL course)](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz/playlists)
+- [Machine Learning and Programming - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf15KhhTGnSRgniYwcXFS-rK)
+- [Building a Machine Learning Based Web App Firewall/IPS from Scratch | Debasish Mandal](https://www.youtube.com/playlist?list=PLKwUZp9HwWoA7AjUeuWnvQdNXcQ7bF3e1) + http://www.debasish.in/2020/10/videobuilding-machine-learning-based.html
+- https://divyendusingh.com/machine-learning-literacy
+- [Machine Learning Course - Halmstad University](https://www.youtube.com/playlist?list=PLS8J_PRPtGfdnPf9QqT7Itnn2rAHsoWqY)
+- https://decision.substack.com/p/full-course-making-friends-with-ml
+- [Beep Boop: Learn AI/ML for free!](https://www.youtube.com/playlist?list=PLZEDsU5Jf868j_oCENz8jonsdTTVp5svv)
+
+### Community
+
+- Suzana Ilić: [Twitter](https://twitter.com/suzatweet), [Linkedin](https://www.linkedin.com/in/suzanailic/)
+- Brandon Rohrer: [Twitter](https://twitter.com/_brohrer_), [Linkedin](https://www.linkedin.com/in/brohrer/)
+- Chip Huyen: [Twitter](https://twitter.com/chipro), [Linkedin](https://www.linkedin.com/in/chiphuyen/)
+- https://interestingengineering.com/robert-downey-jrs-series-on-ai-is-available-on-youtube-right-now
+- [Joscha Bach: Artificial Consciousness and the Nature of Reality](https://news.ycombinator.com/item?id=23923183)
+- [Jürgen Schmidhuber](https://twitter.com/SchmidhuberAI)
+- https://twitter.com/svpino/status/1320722226069573634
+- https://sararobinson.dev/2020/11/17/writing-a-technical-book.html
+- [Daniel Etzold](https://etzold.io)
+- [Noor Siddiqui](https://progressstudies.school/the-torch-of-progress-ep-7-with-noor-siddiqui)
+- https://twitter.com/amitness/status/1288713405700780033
+- [Letiția Pârcălăbescu](https://www.youtube.com/c/AICoffeeBreak/playlists)
+- [Machine Learning & User Experience (MLUX)](https://www.meetup.com/MLUXmeetup)
+- [Heather Knight](http://www.marilynmonrobot.com/about)
+- [David Valdman](https://twitter.com/dmvaldman)
+
+
 ### Tool
 
 - [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)
@@ -146,6 +151,7 @@
 - [Free Software Social Friendly AI for general use, but esp for those w/ poverty, homelessness, disabilty or illness](https://github.com/aindilis/free-life-planner)
 - https://www.stavros.io/posts/making-ai-podcast + https://deepdreams.stavros.io
 - https://github.com/stars/yamalight/lists/machine-learning-things
+- [Links Detector makes printed links clickable via your smartphone camera](https://github.com/trekhleb/links-detector)
 
 ### Neural networks
 

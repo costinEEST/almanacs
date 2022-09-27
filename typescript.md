@@ -88,6 +88,9 @@
 - https://www.placemark.io/post/good-magic-with-typescript + https://twitter.com/placemarkio/status/1454102660731265033
 - https://github.com/jdan/adventofcode/tree/main/2021/ts
 
+### Radio 
+
+- https://topenddevs.com/podcasts/javascript-jabber/episodes/to-typescript-or-not-to-typescript-jsj-538
 
 ### Reference
 
