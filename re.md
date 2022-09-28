@@ -21,6 +21,7 @@
 - [Low Level PC/Server Attack & Defense — By @XenoKovah of @DarkMentorLLC](https://darkmentor.com/timeline.html) + https://gitlab.com/XenoKovah/low-level_security_timeline
 - https://www.driverentry.com + https://twitter.com/yarden_shafir/status/1437686447293747200
 https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
+- https://daniao.ws/talks/exploiting-out-of-order-execution
 
 ### Course
 
@@ -52,6 +53,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 
 - [Jonathan Brossard](https://www.slideshare.net/endrazine/presentations)
 - https://github.com/stong/infosec-resources
+- https://twitter.com/cezarcerekwicki/status/1574026431415328769 + https://learnappsec.com/blog/binary-exploitation-learning-path + https://omu.rce.so/gcc-2022
 
 ### Cinema
 

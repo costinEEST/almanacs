@@ -8,6 +8,7 @@
 - [Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography](https://martin.kleppmann.com/papers/curve25519.pdf)
 - https://owlspace.xyz/cybersec/steam-login
 - https://thehazarika.com/blog/programming/rsa-cryptosystem
+- https://daniao.ws/rsa-java-to-python.html
 - https://github.com/TheAlgorithms/Algorithms-Explanation/tree/master/en/Ciphers
 - [Learning fast elliptic-curve cryptography](https://paulmillr.com/posts/noble-secp256k1-fast-ecc)
 - https://github.com/dmarman/sha256algorithm + https://twitter.com/manceraio/status/1491148795325087744
