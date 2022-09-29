@@ -80,7 +80,7 @@
 - [Packaging a daemon for macOS](https://twitter.com/vince2_/status/1560017644975177731)
 - [A highly customizable macOS status bar replacement](https://github.com/FelixKratz/SketchyBar)
 - https://sal.dev/open-source/adding-kotlin-interactive-shell-to-homebrew
-
+- https://harry.dev/posts/my-dev-environment
 
 ### Security
 

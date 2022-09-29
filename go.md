@@ -133,6 +133,7 @@
 - https://github.com/ddz/whatsapp-media-decrypt
 - [A fast tool to scan CRLF vulnerability](https://github.com/dwisiswant0/crlfuzz)
 - [Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server](https://github.com/xo/xo)
+- https://github.com/cybercase/google-forms-html-exporter
 
 ### Radio
 
@@ -188,3 +189,4 @@
 
 - https://github.com/dstotijn/golang-nextjs-portable
 - [A static site generator for capturing quick notes](https://github.com/senorprogrammer/til)
+- https://adri.ddns.net/about

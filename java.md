@@ -54,6 +54,7 @@
 ### Course
 
 - https://hyperskill.org/onboarding/?track=java
+- https://github.com/ForrestKnight/open-source-cs
 - https://www.jobreadyprogrammer.com
 - https://www.freecodecamp.org/news/learn-to-develop-and-android-app-no-experience-required
 - https://rockthejvm.com

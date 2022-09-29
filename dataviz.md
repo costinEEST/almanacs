@@ -68,6 +68,7 @@
 - [Location Intelligence & Data Visualization tool](https://github.com/CartoDB/cartodb)
 - https://github.com/cmdcolin/awesome-genome-visualization
 - https://alexanderell.is/posts/visualizing-code
+- [GeoJSON data for Chile](https://github.com/jlhonora/geo)
 
 
 ### Radio

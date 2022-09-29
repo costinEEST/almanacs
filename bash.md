@@ -17,6 +17,7 @@
 
 - https://github.com/k4m4/terminals-are-sexy
 - https://github.com/dylanaraps/pure-bash-bible
+- https://github.com/dylanaraps/pure-sh-bible
 - https://www.grymoire.com/Unix/Awk.html
 - [Bash Quick References](https://shellmagic.xyz)
 - https://wiki.bash-hackers.org
@@ -40,6 +41,7 @@
 - https://www.anshumanbhartiya.com/posts/performing-code-review-on-shell-scripts
 - https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort
 - [Go to GitHub project](https://gist.github.com/jonathantneal/f7cb7a49a914f3963ca100fe34ae44f2)
+- [Using grep and gsplit to filter and break up large file](https://harry.dev/posts/filtering-and-splitting-files)
 
 ### Cinema
 

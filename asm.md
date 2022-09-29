@@ -45,6 +45,7 @@
 - https://omu.rce.so/lessons/asm-x86-64
 - https://github.com/levskaya/jslinux-deobfuscated
 - https://github.com/rootkit-io/awesome-malware-development
+- https://github.com/hackclub/some-assembly-required
 
 ### Cinema
 
@@ -92,6 +93,7 @@
 - https://github.com/danbev/learning-assembly
 - https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick + https://twitter.com/_can1357/status/1374209069137989633
 - [practice and experimental programs written in NASM assembly](https://github.com/humanshell/assembly)
+- [Examples for x86-64 System V](https://github.com/jlhonora/asm-examples)
 
 ### Tool
 

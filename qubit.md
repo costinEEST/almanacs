@@ -18,6 +18,10 @@
 - [Centre for Quantum Technologies](https://www.youtube.com/c/quantumlah/playlists)
 - https://www.youtube.com/playlist?list=PLEBQWzRBb4ioWmrK6jpS3fUI6d_2JeKRp
 
+### Community 
+
+- [Carlo Rovelli](https://www.cpt.univ-mrs.fr/~rovelli) + https://howtoacademy.com/podcasts/cornelia-parker-meets-carlo-rovelli-the-hidden-nature-of-things
+
 ### News
 
 - https://www.newscientist.com/article/2320561-quantum-communication-system-could-detect-earthquakes

@@ -69,6 +69,7 @@
 ### Cheat sheet
 
 - https://programming-idioms.org/cheatsheet/Ruby/C
+- https://github.com/andremedeiros/ruby-c-cheat-sheet
 - https://programming-idioms.org/cheatsheet/Ruby/Python
 - https://programming-idioms.org/cheatsheet/Ruby/Lua
 - https://programming-idioms.org/cheatsheet/Ruby/Go
@@ -98,6 +99,10 @@
 - https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 - https://github.com/davidgf/design-patterns-in-ruby
 
+### Bot 
+
+- [A bot that tweets every time there's a new executive order published](https://github.com/jessicard/exec_orders)
+
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PL55SPnO0U2H3Am21MYgNcviYLzJ0bFv3J
@@ -120,7 +125,6 @@
 - [RubyConf 2021](https://www.youtube.com/playlist?list=PLbHJudTY1K0f0oMhWtY-UyzOb7tUlaHps)
 - https://amcaplan.ninja/talks/2018/04/19/automating-empathy-test-your-docs-with-swagger-and-apivore
 - https://noti.st/palkan/j3i2Dr/ruby-next-make-old-rubies-quack-like-a-new-one
-- https://github.com/flavorjones/ruby-c-extensions-explained
 - [Rails 6 API | Tom Kadwill](https://www.youtube.com/playlist?list=PLbTv9eGiI03u1-JFkFpPGsR_hMre6WX3e)
 - [Build a Pet Adoption App With Ruby On Rails 6 & PostgreSQL](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
 - [Full-Stack Development with Ember and Rails](https://www.youtube.com/playlist?list=PLXXnezSEtvNPcZHqzXhrL1-7JkrbIR6qF)
@@ -287,6 +291,7 @@
 - [Make awesome command-line applications the easy way](https://github.com/davetron5000/gli)
 - [parse a standard youtube url and generate the embed html code](https://github.com/datwright/youtube_addy)
 - https://yossarian.net/snippets#ruby
+- [Examples of C extensions in Ruby gems](https://github.com/flavorjones/ruby-c-extensions-explained)
 
 ### Inspire
 

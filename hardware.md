@@ -149,6 +149,7 @@
 - https://incoherency.co.uk/blog/stories/scamp-lives.html + https://en.wikipedia.org/wiki/National_Semiconductor_SC/MP
 - https://urish.medium.com/introducing-easyeda-2-kicad-37489da1dfa7
 - [web-based CPUID decoder and visualiser](https://github.com/gsuberland/web-cpuid)
+- [visual programming language for teaching about logic gates](https://github.com/pranavnt/logiclights)
 
 ### Microprocessor
 

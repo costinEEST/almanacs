@@ -124,6 +124,7 @@
 - https://github.com/adityatelange/github2telegram-notifier
 - [A bot that notifies you on Slack whenever your company/product is mentioned on Hacker News](https://github.com/vercel-labs/hacker-news-slack-bot)
 - https://cmdcolin.github.io/posts/2022-08-26-twitterbot + https://github.com/cmdcolin/twitter_fractal_bot
+- https://github.com/maintainers/invite-automation
 
 ### Boilerplate
 

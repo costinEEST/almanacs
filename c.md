@@ -128,6 +128,7 @@
 - https://alexanderell.is/posts/rpc-from-scratch + https://alexanderell.is/posts/terrier-dist-sys
 - https://github.com/bytegarage/c-programming-bootcamp
 - https://github.com/bloominstituteoftechnology/C-Web-Server
+- [32 bit x86 OS](https://github.com/FRosner/FrOS)
 
 ### Security
 

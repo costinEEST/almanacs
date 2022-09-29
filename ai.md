@@ -29,6 +29,7 @@
 - [Machine Learning: Advanced Topics](https://twitter.com/sirbayes/status/1553127082992881665)
 - [Data mining pentru Științele Sociale Vol. 1: Pregătirea datelor în RapidMiner Studio | COMŞA Mircea](http://www.editura.ubbcluj.ro/www/ro/ebook2.php?id=3246)
 - [Natural Language Processing with TensorFlow | Thushan Ganegedara](https://twitter.com/svpino/status/1557698367945248768)
+- [Intro to Artificial Neural Networks for High Schoolers](https://github.com/ohhh25/ai-book)
 
 
 ### Cheat sheet

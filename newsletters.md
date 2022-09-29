@@ -262,6 +262,7 @@
 - [Richard Godwin - A book club but for cocktails](https://thespirits.substack.com)
 - [Oana Vasiliu](https://umamimoments.substack.com/archive)
 - [Szeged Fungus](http://eepurl.com/hruKVT)
+- [Magazin Zero Waste Bucuresti](https://us4.campaign-archive.com/home/?u=69aebee69dafa1967752cc194&id=4ffe7919b3)
 
 ### Health
 
