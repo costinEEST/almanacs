@@ -19,6 +19,7 @@
 ### Cheat sheet 
 
 - https://gitexplorer.com
+- https://twitter.com/ChrisStaud/status/1574277175527735296
 - https://katafrakt.me/2017/05/27/beyond-git
 - https://github.com/binarymist/command-line/blob/master/git.md
 - [2 useful Git CLI tips for code review](https://twitter.com/danburzo/status/1200022067044859905)

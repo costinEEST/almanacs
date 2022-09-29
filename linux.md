@@ -101,7 +101,7 @@
 - [eBPF-based tool for tracing network packets in the Linux kernel](https://github.com/cilium/pwru)
 - [Insight Is Gone From Ubuntu](https://www.contrapositivediary.com/?p=1396) + https://hackaday.com/2022/06/14/linux-fu-up-your-gdb-game
 
-### Reference
+### Cheat sheet
 
 - https://www.jarv.org/191-hello-worlds.html
 - http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html
@@ -156,3 +156,4 @@
 - [Why #Linux users hate #Ubuntu Snaps](https://twitter.com/AaronToponce/status/1557748044287725570)
 - https://xeiaso.net/talks/nixos-pain-2021-11-10
 - https://nickolinger.com/blog/moving-to-arch + https://github.com/olingern/arch-dotfiles
+- ["Challenges Using Linux As A Real-Time Operating System", Michael M. Madden, NASA Langley Research Center, 2019](https://ntrs.nasa.gov/citations/20200002390)

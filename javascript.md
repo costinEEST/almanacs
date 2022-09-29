@@ -1,6 +1,6 @@
 ### Algorithm
 
-- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) + https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
 - [Classic algorithms and data structures implemented in JavaScript](https://github.com/felipernb/algorithms.js)
 - https://github.com/humanwhocodes/computer-science-in-javascript
 - https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
@@ -146,6 +146,7 @@
 
 - https://ponyfoo.com/articles/es6
 - [Dark themes made easy](https://notes.jordanscales.com/40ecf234)
+- https://opensource.com/article/22/9/javascript-glossary
 
 ### Course
 

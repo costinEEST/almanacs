@@ -78,6 +78,10 @@
 - https://www.achangeofbrand.com/episodes
 - https://cactus.substack.com/p/doomberg-energy-is-life-and-we-are
 
+### Ethics
+
+- https://www.goodreads.com/review/list/4696922-ushan?shelf=medical-ethics
+
 ### Publishing
 
 - [How do people self publish books?](https://twitter.com/EmmaWedekind/status/1177325024887418880)

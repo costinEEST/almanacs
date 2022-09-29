@@ -195,6 +195,7 @@
 - https://blog.nina.coffee/2018/08/27/all_nature_method_books.html
 - https://vivariumnovum.it/risorse-didattiche/propria-formazione/metodo-diretto-applicato-alle-lingue-moderne
 - https://language-intense.ro/vasile-ioana
+- [German: Biography of a Language | Ruth H. Sanders](https://www.goodreads.com/book/show/7799922-german)
 
 ### Greek
 

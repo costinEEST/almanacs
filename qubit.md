@@ -5,6 +5,7 @@
 - http://www.daviddeutsch.org.uk/books/the-fabric-of-reality + https://www.youtube.com/playlist?list=PLsE51P_yPQCQj5HxV0KPVpzxT03ScIjDJ
 - https://github.com/isislovecruft/library--/tree/master/languages/quantum%20programming
 - https://www.amazon.com/Cosmic-Revolutionarys-Handbook-Beat-Bang/dp/1108486703
+- https://www.goodreads.com/book/show/17471298-quantum-computing-since-democritus
 
 ### Cheat sheet 
 

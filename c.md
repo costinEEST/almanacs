@@ -26,6 +26,7 @@
 
 ### Cheat sheet
 
+- [Infrequently Asked Questions List | Peter Seebach](https://www.seebs.net/faqs/c-iaq.html)
 - https://www.learn-c.org
 - [C Internals](https://www.avabodh.com/cin/cin.html)
 - https://github.com/tuhdo/os01

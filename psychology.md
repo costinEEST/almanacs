@@ -22,6 +22,11 @@
 - https://en.wikipedia.org/wiki/Jean_Piaget
 - https://www.zerosuicidealliance.com/training
 
+
+### LGBT
+
+- https://koaha.org/wiki/Edward_Carpenter, https://wikipredia.net/ro/Edward_Carpenter
+
 ### Volition
 
 - https://www.jstor.org/stable/27511200

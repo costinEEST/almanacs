@@ -53,7 +53,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 
 - [Jonathan Brossard](https://www.slideshare.net/endrazine/presentations)
 - https://github.com/stong/infosec-resources
-- https://twitter.com/cezarcerekwicki/status/1574026431415328769 + https://learnappsec.com/blog/binary-exploitation-learning-path + https://omu.rce.so/gcc-2022
+- https://twitter.com/cezarcerekwicki/status/1574026431415328769 + https://learnappsec.com/blog/binary-exploitation-learning-path + https://omu.rce.so/gcc-2022 + https://twitter.com/gerbsec/status/1572284246630318080
 
 ### Cinema
 

@@ -4,6 +4,7 @@
 - https://www.amazon.com/Intellectual-Warfare-Jacob-Carruthers/dp/0883781808
 - https://www.bookdepository.com/Introduction-African-Civilizations-John-G-Jackson/9780806521893
 - [From Columbus to Castro: The History of the Caribbean 1492-1969 | Eric Eustace Williams](https://www.goodreads.com/en/book/show/145145)
+- https://www.goodreads.com/review/list/4696922-ushan?shelf=20th-century-history
 
 ### Cinema
 

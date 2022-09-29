@@ -37,6 +37,7 @@
 - [Alexandru Babeș, Povestea creierului](https://bibliotecaexploratorilor.substack.com/p/povestea-creierului)
 - [Consciousness and the Physical World, edited by V. S. Ramachandran and Brian Josephson](https://twitter.com/curiouswavefn/status/1491640407217770502)
 - [Sergiu P. Pasca](https://twitter.com/Sergiu_P_Pasca)
+- https://www.goodreads.com/review/list/4696922-ushan?shelf=neuroscience
 
 ### Book
 
@@ -420,6 +421,10 @@
 - https://cardiobot.swiftwithmajid.com
 - [Life tracking resources](https://gist.github.com/balupton/3d66217f3351886a0ca9188547b27d5b)
 - [Vax.Codes - Free QR Codes for Covid-19 Test and Vaccine Recipients](https://github.com/open-austin/vax-codes)
+
+### Uric acid 
+
+- https://en.wikipedia.org/wiki/Alexander_Haig_(physician)
 
 ### Miscellaneous
 
