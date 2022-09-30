@@ -53,7 +53,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 
 - [Jonathan Brossard](https://www.slideshare.net/endrazine/presentations)
 - https://github.com/stong/infosec-resources
-- https://twitter.com/cezarcerekwicki/status/1574026431415328769 + https://learnappsec.com/blog/binary-exploitation-learning-path + https://omu.rce.so/gcc-2022 + https://twitter.com/gerbsec/status/1572284246630318080
+- https://twitter.com/cezarcerekwicki/status/1574026431415328769 + https://learnappsec.com/blog/binary-exploitation-learning-path + https://omu.rce.so/gcc-2022 + https://twitter.com/gerbsec/status/1572284246630318080 + https://twitter.com/esj4y/status/1575187963163856896
 
 ### Cinema
 
@@ -72,6 +72,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - [how to start working with, HyperDbg](https://twitter.com/HyperDbg/status/1548573372023418881)
 - https://github.com/stars/schniggie/lists/security-reversing
 - https://danialzahoor.blogspot.com/2022/08/frida-ios-hook-tool-that-helps-you-easy.html
+- https://blog.quarkslab.com/quokka-a-fast-and-accurate-binary-exporter.html
 
 ### Fuzzers
 

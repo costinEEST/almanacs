@@ -415,6 +415,7 @@
 - [Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, MongoDB, and GraphQL. It plays nicely with npm, Docker and Kubernetes](https://github.com/reactioncommerce/reaction)
 - [The open-source Shopify alternative](https://github.com/medusajs/medusa)
 - https://github.com/pgaspar/covid-square
+- [Download IPAs from Apple App Store](https://github.com/nderkach/ipa-downloader)
 
 ### Testing
 

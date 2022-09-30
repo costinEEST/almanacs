@@ -175,3 +175,4 @@ curl v2.wttr.in/Bucharest
 - https://www.wallarm.com/what/api-security-tutorial
 - [Hacking APIs: Workshop | Corey Ball](https://sway.office.com/HVrL2AXUlWGNDHqy)
 - [Automagically reverse-engineer REST APIs via capturing traffic](https://github.com/alufers/mitmproxy2swagger)
+- https://blog.postman.com/introducing-30-days-of-postman-coding-challenge

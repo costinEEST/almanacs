@@ -471,6 +471,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://mmazzarolo.com/blog/2022-08-25-simple-colored-logging-for-javascript-clis
 - https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler
 - [Clean up your unused repos via the CLI within seconds](https://github.com/adrianmg/github-pewpew)
+- [A list of all the public package names on npm](https://github.com/nice-registry/all-the-package-names)
 
 ### Testing
 

@@ -22,6 +22,7 @@
 ### Tool
 
 - https://github.com/atlas-engineer/nyxt + https://twitter.com/lukego/status/1372208366282539009
+- [3D art with lisp and math](https://github.com/ianthehenry/bauble)
 
 ### Opinion
 

@@ -255,6 +255,7 @@ javascript: (() =>
 - https://github.com/ThomasOrlita/awesome-bookmarklets
 - [Script Kit. Automate Anything](https://github.com/johnlindquist/kit)
 - https://ryangjchandler.co.uk/posts/bookmarklets-you-should-definitely-be-using
+- [Read premium articles for free](https://github.com/sugoidesune/readium)
 
 ### Chrome
 
@@ -308,6 +309,7 @@ javascript: (() =>
 ### Opera
 
 - [Standalone client for proxies of Opera VPN](https://github.com/Snawoot/opera-proxy)
+- https://medium.com/@renwa/opera-browser-vpn-bypass-20877aaf08c0
 
 ### Cookie
 
@@ -550,3 +552,5 @@ javascript: (() =>
 - https://github.com/diafygi/webcrypto-examples
 - [Bring your own filesystem, a javascript library that allows users to connect their own data storage backend to your webapp](https://github.com/diafygi/byoFS)
 - [Embed any file into an encrypted, self-decrypting HTML file](https://github.com/fmeum/polysafe)
+
+

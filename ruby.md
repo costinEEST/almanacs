@@ -30,6 +30,7 @@
 - https://github.com/stars/colinloretz/lists/api-clients-ruby
 - https://github.com/restcookbook/restcookbook
 - https://bradgessler.com/talks/streaming-rest
+- [Prints markdown containing a random post from thecodinglove.com](https://github.com/valeriomazzeo/danger-the_coding_love)
 
 
 ### Algorithm

@@ -1,3 +1,8 @@
+### API 
+
+- https://www.toptal.com/back-end/reverse-engineering-the-private-api-hacking-your-couch
+
+
 ### Book
 
 - https://youtu.be/Uf6eP3Qe68s
