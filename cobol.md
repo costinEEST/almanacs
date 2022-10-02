@@ -14,6 +14,7 @@
 - [Cobol Friends | IBM Developer](https://www.youtube.com/playlist?list=PLzpeuWUENMK2-pANOj6C1aXyd8puKqhT2)
 - https://seattlewebsitedevelopers.medium.com/the-cobol-programming-language-3077a6d3407f
 - https://github.com/eviltester/jsp-diagrammer-cobol-interpreter
+- https://github.com/deniseyu/learning-cobol
 
 
 ### Security

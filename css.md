@@ -20,6 +20,7 @@
 - https://css-tricks.com/building-a-scalable-css-architecture-with-bem-and-utility-classes
 - https://experiencinginformation.com/2012/07/22/the-first-responsive-design-website-audi-circa-2002
 - https://web.dev/learn/design
+- [Guidelines for writing sane, maintainable and scalable Sass](https://github.com/KittyGiraudel/sass-guidelines)
 
 ### Book
 
@@ -188,6 +189,7 @@
 - https://noti.st/rachelandrew/Mny9Vg/grid-content-re-ordering-and-accessibility
 - https://codepen.io/TurkAysenur/full/gOmMgpx
 - https://github.com/PrathamKumar14/CSS-Layout-Notes
+- https://vgpena.github.io/using-css-grid-the-right-way
 
 ### FlexBox
 

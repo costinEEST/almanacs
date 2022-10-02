@@ -82,6 +82,10 @@
 - https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck
 - [C Programming in Linux Tutorial | ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
 
+### Course 
+
+- [C and the Unix environment for undergraduate non-CSE majors](https://courses.cs.washington.edu/courses/cse374/21wi)
+
 ### Articles
 
 - [Reading files the hard way - Part 1 (node.js, C, rust, strace)](https://fasterthanli.me/blog/2019/reading-files-the-hard-way/)

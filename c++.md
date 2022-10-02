@@ -55,7 +55,7 @@
 - [RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines](https://github.com/google/re2)
 - [Audible feedback on just how much your browsing feeds into Google](https://github.com/berthubert/googerteller)
 
-### Reference
+### Cheat sheet 
 
 - https://github.com/AnthonyCalandra/modern-cpp-features
 - https://github.com/danbev/learning-cpp
@@ -68,6 +68,7 @@
 - https://github.com/tobanteAudio/juce-cookbook
 - https://github.com/MattPD/cpplinks
 - [Introduction to GPU programming using CUDA | Apetrei Ciprian](https://docs.google.com/presentation/d/1WNzH-C6kiyjGGQ8P1gdT36_WfH7W4JTV)
+- https://github.com/kiat/OOP-Design-Patterns
 
 ### Implementation
 

@@ -28,6 +28,7 @@
 - https://github.com/antoinentl/web-books-initiatives
 - https://www.obsidianroundup.org/resources
 - https://github.com/santisoler/taller-latex
+- https://email-is-good.com
 
 ### Tool
 
@@ -79,6 +80,7 @@
 - http://gustavbertram.com/learning/latex
 - https://github.com/keyvanakbary/learning-notes/blob/master/taking-notes.md
 - https://github.com/rcmoutinho/ebook-with-asciidoctor
+- https://vgpena.github.io/do-you-want-to-build-a-slide-deck
 
 ### Miscellaneous
 

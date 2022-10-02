@@ -89,6 +89,7 @@
 ### <details></details>
 
 - https://css-tricks.com/exploring-what-the-details-and-summary-elements-can-do
+- https://www.scottohara.me//blog/2022/09/12/details-summary.html
 
 ### <div></div>
 
@@ -121,6 +122,10 @@
 ### <select></select>
 
 - https://sarahmhigley.com/writing/select-your-poison
+
+### <template></template>
+
+- https://kittygiraudel.com/2022/09/30/templating-in-html
 
 
 ### <title></title>

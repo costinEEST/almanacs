@@ -79,7 +79,9 @@
 - [What I learned about fonts on Linux](https://blog.ngzhian.com/what-i-learned-about-fonts.html)
 - [A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range](https://github.com/9elements/min-max-calculator)
 - [How to subset a variable font](https://clagnut.com/blog/2418)
-
+- https://hackaday.com/2022/09/27/cursing-the-curse-of-cursive
+- [Archetype helps you choose font pairings and appropriate spacing](https://archetypeapp.com)
+- [Adjust visually, the scaling of headings depending on the ratios that you choose](https://github.com/jeremychurch/type-scale)
 
 ### Miscellaneous
 

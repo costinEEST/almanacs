@@ -25,6 +25,7 @@
 - [A free collection of maps for every country in the world](https://github.com/djaiss/mapsicon)
 - https://basicons.xyz
 - https://github.com/microsoft/fluentui-emoji + https://twitter.com/rauschma/status/1557468341949923334
+- [Communication symbol set designed for adults with language difficulties](https://github.com/mulberrysymbols/mulberry-symbols)
 
 ### Tutorials
 
@@ -57,4 +58,4 @@
 - https://twitter.com/JoshWComeau/status/1329507065908367363 + https://notchris.net/patterns
 - [Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette](https://github.com/boringdesigners/boring-avatars)
 - [free SVG generators](https://fffuel.co)
-- https://github.com/tigt/mini-svg-data-uri
+- [Small, efficient encoding of SVG data URIs for CSS, HTML](https://github.com/tigt/mini-svg-data-uri)

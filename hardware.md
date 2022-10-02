@@ -160,6 +160,8 @@
 - [My business card runs Linux, yours can too](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
 - [Building a CPU on an FPGA | Robert Baruch](https://www.youtube.com/playlist?list=PLEeZWGE3PwbZ44SUf1-vA-UuX9_J_pifB)
 - https://github.com/danbev/learning-fpga
+- https://hackaday.com/2022/09/28/the-first-microcomputer-the-q1
+- https://hackaday.com/2022/09/23/exploring-texas-instruments-forgotten-cpu
 
 ### Miscellaneous
 

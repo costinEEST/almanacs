@@ -520,7 +520,7 @@ javascript: (() =>
 
 ### Miscellaneous
 
-- [Web Browser Engineering](http://browser.engineering)
+- [Web Browser Engineering](https://github.com/browserengineering/book) + https://courses.cs.washington.edu/courses/cse490x/22sp/lecture + 
 - https://wiki.systemcrafters.net/guix/browsers
 - https://github.com/vasanthk/how-web-works
 - [The End of Indie Web Browsers: You Can (Not) Compete.](https://news.ycombinator.com/item?id=21992050)

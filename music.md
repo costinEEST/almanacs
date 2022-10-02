@@ -42,6 +42,7 @@
 ### Course
 
 - https://www.udemy.com/course/curso-basico-de-teoria-musical
+- https://blog.fullmeasure.uk/2020/02/10/ear-training-course
 
 ### Community
 
@@ -52,6 +53,7 @@
 - [DISCURI DE VINIL PICK-UP](https://www.facebook.com/groups/1529935950659745)
 - [Andrei Vieru](https://www.youtube.com/c/hammerklaviermusik/playlists)
 - [Irish traditional music](https://thesession.org)
+- https://blog.fullmeasure.uk/awesome-musicality
 
 ### Guitar
 
@@ -90,6 +92,7 @@
 - https://github.com/pyxelr/recommendations-for-engineers#music
 - [JavaScript Chord Charts](https://github.com/0xfe/vexchords)
 - [A desktop app for displaying live sheet music from MIDI input built with Electron](https://github.com/blairjordan/pianoboi)
+- [Tools to help with practicing and improving musicallity while creating a journal](https://github.com/music-practice-tools/music-practice-tools)
 
 
 ### Reference
