@@ -38,6 +38,7 @@
 - https://politeia.org.ro/magazin-istoric/manuscrise-celebre-vienna-dioscurides/20768
 - https://www.popsci.com/diy/houseplants-summer-care-guide
 - https://www.indefenseofplants.com/blog/2017/9/10/how-do-palms-survive-hurricanes
+- https://www.pnas.org/post/journal-club/massive-tree-planting-efforts-drylands-can-actually-cause-more-warming
 
 ### Radio
 

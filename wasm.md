@@ -48,6 +48,10 @@
 - [Mac OS 8](https://github.com/mihaip/infinite-mac)
 - https://betterprogramming.pub/deploying-a-wasm-powered-react-app-on-vercel-cf3cae2a75d6
 
+### Debug
+
+- https://shopify.engineering/debugging-server-side-webassembly
+
 ### Tool
 
 - [JS parser in Web Assembly / C](https://github.com/samthor/gumnut)

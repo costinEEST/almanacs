@@ -165,6 +165,7 @@
 ### iOS
 
 - [Marius Constantinescu](https://github.com/iOS-Goodies/iOS-Goodies)
+- [Vivian Qu](https://tinyletter.com/vivqu/archive)
 
 ### Design
 

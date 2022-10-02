@@ -11,6 +11,7 @@
 - [A book to help software developers write better prose](https://github.com/joshuacc/prose-for-programmers)
 - http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc + https://news.ycombinator.com/item?id=26394564
 - https://hassano.gumroad.com/l/book-on-the-side
+- [Joseph Williams ~ Style: Lessons in Clarity and Grace](https://vivqu.com/blog/2022/01/26/style-humor)
 
 ### Cinema
 
@@ -81,6 +82,7 @@
 - https://github.com/keyvanakbary/learning-notes/blob/master/taking-notes.md
 - https://github.com/rcmoutinho/ebook-with-asciidoctor
 - https://vgpena.github.io/do-you-want-to-build-a-slide-deck
+- https://github.com/heyawhite/tech-writing-tools
 
 ### Miscellaneous
 

@@ -168,6 +168,7 @@
 - https://pragprog.com/titles/jragile/competing-with-unicorns
 - https://worldsmostethicalcompanies.com/honorees/?fwp_industry=technology
 - [The Seven Steps for Highly Effective Employee Training & Coaching](https://youtu.be/rI9oMAVa-Es)
+- https://vivqu.com/blog/2020/02/16/compensation
 
 ### Startups
 

@@ -50,6 +50,7 @@ https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-so
 
 - https://github.com/nikitavoloboev/knowledge/blob/main/chemistry/chemistry.md
 - https://hardware.slashdot.org/story/17/04/19/016213/the-slashdot-interview-with-lithium-ion-battery-inventor-john-b-goodenough
+- https://wis-wander.weizmann.ac.il/chemistry/kavli-prize-awarded-prof-jacob-sagiv
 
 
 ### Miscellaneous

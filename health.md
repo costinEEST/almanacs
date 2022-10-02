@@ -38,6 +38,7 @@
 - [Consciousness and the Physical World, edited by V. S. Ramachandran and Brian Josephson](https://twitter.com/curiouswavefn/status/1491640407217770502)
 - [Sergiu P. Pasca](https://twitter.com/Sergiu_P_Pasca)
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=neuroscience
+- https://davidson.weizmann.ac.il/en/online/reasonabledoubt/complex-link-between-depression-and-serotonin
 
 ### Book
 
@@ -146,6 +147,7 @@
 
 - https://adriancopcea.com/2022/08/14/iodul-in-sanatatea-umana-notiuni-elementare
 - https://sunlightenthusiast.wordpress.com/2022/07/25/how-to-understand-cough-medicines
+- https://www.haaretz.com/archaeology/2022-09-19/ty-article/.premium/bong-age-israeli-archaeologists-find-opium-in-bronze-age-ceramics/00000183-5036-d890-a593-dabefb7f0000
 
 ### Grocery
 

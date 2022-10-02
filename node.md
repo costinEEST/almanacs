@@ -90,6 +90,7 @@
 - Design and Implementation of a Node.js Framework for the Development of RESTful APIs: https://github.com/matthyk/bachelor_thesis, https://github.com/matthyk/rosmarin
 - [Building a Timetracking application with Hypermedia | Evert Pot](https://www.youtube.com/playlist?list=PLqqoUVHAFAYPn3obbnhpbPSI3tdzIqc64)
 - https://github.com/simonplend/egghead-build-a-modern-rest-api-in-node-js-with-fastify
+- https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend
 
 ### Book
 

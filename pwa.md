@@ -44,6 +44,7 @@
 - https://blogs.windows.com/msedgedev/2021/10/19/pwa-summit-learn-progressive-web-apps-documentation
 - https://www.aaron-gustafson.com/notebook/enhancing-the-manifest
 - https://github.com/karlhorky/pwa-tricks
+- https://kevinbasset.medium.com/why-havent-pwas-killed-native-apps-yet-29beca4425fa
 
 ### Demo
 
@@ -62,7 +63,7 @@
 - https://github.com/AmruthPillai/Reactive-Resume
 - https://samselikoff.com/blog/8-tips-to-make-your-website-feel-like-an-ios-app
 - https://github.com/alexandrunastase/json-formatter-live
-- [QR Code Scanner - a simple, fast and useful progressive web application](https://github.com/gokulkrishh/qrcodescan.in)
+- [QR Code Scanner - a simple, fast and useful progressive web application](https://github.com/gokulkrishh/qrcodescan.in) + [QR Code development story](https://www.denso-wave.com/en/technology/vol1.html) + [](https://en.wikipedia.org/wiki/QR_code#Design)
 - [Orthodox Calendar PWA](https://github.com/dimaip/calendar)
 - [Links Detector makes printed links clickable via your smartphone camera.](https://github.com/trekhleb/links-detector)
 - [Collaborative whiteboard PWA](https://github.com/jgw96/liveCanvas)

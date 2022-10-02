@@ -376,6 +376,7 @@
 - https://avdi.codes/ruby-is-defined-by-terrible-tools
 - https://skatkov.com/2020/03/26/lessons-from-building-another-url-shortener.html + https://github.com/skatkov/acart
 - https://blog.yossarian.net/2015/09/28/Five-Things-I-Hate-About-Ruby
+- https://shopify.engineering/building-resilient-payment-systems
 
 ### Pattern
 

@@ -157,6 +157,7 @@
 
 ### Similar projects
 
+- [Vivian Qu](https://vivqu.com/blog/2020/10/18/digital-gardens)
 - [Charlike Mike Reagent](https://github.com/tunnckoCore/resources)
 - [Daniel Sundermeier](https://github.com/danielsundermeier/knowledge)
 - [Guilherme Almeida](https://github.com/noghartt/garden)
