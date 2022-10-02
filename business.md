@@ -77,6 +77,7 @@
 - https://www.itsnicethat.com/news/burger-king-rebrand-jkr-graphic-design-070121
 - https://www.achangeofbrand.com/episodes
 - https://cactus.substack.com/p/doomberg-energy-is-life-and-we-are
+- https://www.creativebloq.com/news/olympics-branding
 
 ### Ethics
 

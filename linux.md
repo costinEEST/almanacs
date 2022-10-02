@@ -45,6 +45,7 @@
 
 ### Container
 
+- https://twitter.com/iximiuz/status/1569051885407014912
 - https://iximiuz.com/en/posts/learn-by-doing-platforms + https://twitter.com/b0rk/status/1444814295188099077
 - [What's a container?](https://twitter.com/b0rk/status/1225445956734390273)
 - [A workshop on Linux containers: Rebuild Docker from Scratch.](https://github.com/Fewbytes/rubber-docker)
@@ -64,6 +65,8 @@
 - [Docker and the OCI container ecosystem](https://lwn.net/Articles/902049) + https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond
 - https://xeiaso.net/talks/systemd-the-good-parts-2021-05-16
 - [How do you check if you are inside a container?](https://twitter.com/g3rzi/status/1564594977220562945)
+- https://erzeghi.medium.com/yet-another-brief-history-of-container-d-2962eac9679e
+- https://blog.mobyproject.org/where-are-containerds-graph-drivers-145fc9b7255
 
 ### Internals
 

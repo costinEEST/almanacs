@@ -7,6 +7,8 @@
 - https://faroutmagazine.co.uk/donna-summer-created-new-wave-disco-anthem
 - [Anne-Marie McDermott on Bach, Pulse and Rubato](https://www.pokerandphilosophy.com/2022/02/anne-marie-mcdermott-on-bach-pulse-and.html)
 - https://www.charlespetzold.com/blog/2022/09/A-Final-Month-of-Women-Composers.html
+- https://www.rollingstone.com/music/music-news/coolio-dead-obit-1234602038
+- https://www.theguardian.com/music/2022/sep/24/jazz-legend-pharoah-sanders-dead-at-81
 
 ### Book
 
@@ -114,6 +116,7 @@
 - [Constantin Brăiloiu](https://en.wikipedia.org/wiki/Constantin_Br%C4%83iloiu)
 - https://divyendusingh.com/music-theory-and-generation
 - https://catalin.francu.com/Music
+- https://onemileatatime.com/guides/airline-boarding-music
 
 ### Song
 

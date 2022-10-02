@@ -73,6 +73,7 @@
 
 - https://github.com/typescript-course/typescript-project-from-scratch
 - https://github.com/total-typescript/beginners-typescript-tutorial
+- https://github.com/total-typescript/typescript-generics-workshop
 - https://github.com/mdevils/typescript-exercises
 - https://github.com/type-challenges/type-challenges
 - https://github.com/stevenmusumeche/advent-of-code-2019

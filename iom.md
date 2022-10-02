@@ -223,7 +223,7 @@
 - [The Ruby Programming Language for Contract / Transaction Scripts on the Blockchain](https://github.com/s6ruby)
 - https://github.com/stars/schniggie/lists/security-crypto
 
-### Non fungible tokens
+### Non fungible token (NFT)
 
 - https://cdixon.org/2021/02/27/NFTs-and-a-thousand-true-fans
 - https://blakeir.com/blog/full-time-fan
@@ -258,6 +258,7 @@
 - [Building the First On-Chain 3D NFT with glTF](https://mirror.xyz/angelsay.eth/Fpqj6Hawn-IWGgXm9oEYXyscIgolotYscShuNaVTmI4)
 - https://azbigmedia.com/business/how-nft-minting-works-an-initial-guide-to-nfts
 - https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto
+- https://futurism.com/the-byte/nobody-buying-nfts-anymore
 
 ### Smart contracts
 

@@ -9,6 +9,7 @@
 - [Dalai Lama - Bridging Buddhism & Science - ACI Dharma România](https://www.youtube.com/playlist?list=PLb771hFqA1oTskt3tJ8nF73bxlTlbhZ-o)
 - [Daily Practice Series Course 05: Meditation on Death and the End of Death (1999, Raleigh)](https://www.theknowledgebase.com/archive/en/dailypractice05-1999-raleigh-geshemichael)
 - https://wisdomexperience.org/wisdom-article/wisdom-podcast
+- https://www.youtube.com/c/DiamondMountainRetreatCenter/playlists
 
 ### Cinema 
 
