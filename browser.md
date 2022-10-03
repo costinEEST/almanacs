@@ -234,7 +234,7 @@
 - [Search the textual content of any YouTube video](https://github.com/masasron/Video-Search-For-YouTube)
 - [Chrome extension to detect possible xsleaks](https://github.com/1lastBr3ath/XSleaks)
 
-### Bookmarklets
+### Bookmarklet
 
 - Open in Gmail
 
@@ -256,6 +256,7 @@ javascript: (() =>
 - [Script Kit. Automate Anything](https://github.com/johnlindquist/kit)
 - https://ryangjchandler.co.uk/posts/bookmarklets-you-should-definitely-be-using
 - [Read premium articles for free](https://github.com/sugoidesune/readium)
+- https://knowler.dev/blog/open-in-codesandbox-bookmarklet
 
 ### Chrome
 
@@ -518,6 +519,7 @@ javascript: (() =>
 - [A curated list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - https://3perf.com/talks/web-perf-101
 - https://blog.webpagetest.org/posts/test-your-spa
+- https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript
 
 ### Miscellaneous
 

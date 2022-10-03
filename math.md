@@ -49,6 +49,7 @@
 - [Discrete Mathematics for Computer Science](https://github.com/alexanderskulikov/discrete-math-python-scripts)
 - https://github.com/ImperialCollegeLondon/formalising-mathematics
 - https://github.com/bobeff/programming-math-science#math
+- https://icub.unibuc.ro/2022/09/01/seminar-teme-de-istoria-matematicii
 
 ### Course
 

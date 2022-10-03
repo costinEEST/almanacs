@@ -21,6 +21,7 @@
 - https://experiencinginformation.com/2012/07/22/the-first-responsive-design-website-audi-circa-2002
 - https://web.dev/learn/design
 - [Guidelines for writing sane, maintainable and scalable Sass](https://github.com/KittyGiraudel/sass-guidelines)
+- [How to test if a font is available](https://blog.jim-nielsen.com/2022/font-family-and-supports)
 
 ### Book
 

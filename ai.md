@@ -212,6 +212,7 @@
 - [Automatically tagging Belgian politician when they use their phone on the daily livestreams. With the help of AI.](https://driesdepoorter.be/theflemishscrollers)
 - https://nathanielbd.github.io/posts/hacking-the-normie-test
 - https://github.com/KayO-GH/Ashesi-DSC-Tensorflow-Workshop
+- [interior.computer](http://digest.marckohlbrugge.com/issues/launching-interior-computer-1361994)
 
 ### Opinion
 

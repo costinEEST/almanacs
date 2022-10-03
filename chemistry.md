@@ -78,6 +78,7 @@ https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-so
 - https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-solid-state-lithium-battery
 - [Cosmetic Chemistry | Lab Muffin Beauty Science](https://www.youtube.com/playlist?list=PLbpMGOFlpHNDt2fEM04062eM8Yk1oX_KF)
 - https://laughingsquid.com/aspirin-history
+- [Almost 300 years of elemental discovery](https://twitter.com/fermatslibrary/status/1576927325446356993)
 
 ### Tool
 

@@ -8,6 +8,7 @@
 - https://blog.patternsinthevoid.net/cosmology.html
 - [Paul C.W. Davies](https://www.scribd.com/author/522188669/Paul-Davies)
 - https://www.amazon.com/End-Everything-Astrophysically-Speaking/dp/198210354X
+- https://twitter.com/curiouswavefn/status/1447258279990624257
 
 
 ### Cinema

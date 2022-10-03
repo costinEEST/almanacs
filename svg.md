@@ -3,6 +3,11 @@
 - http://tutorials.jenkov.com/svg/index.html
 - [Using SVG with CSS3 and HTML5: Supplementary Material](https://oreillymedia.github.io/Using_SVG/index.html) + https://github.com/oreillymedia/Using_SVG
 
+### Cheat sheet 
+
+- https://www.stefanjudis.com/today-i-learned/svgs-filters-can-be-inlined-in-css
+- [Polygon shapes](https://twitter.com/yuanchuan23/status/1576850659256590336)
+
 ### Community
 
 - [David A. Smith](https://dacvs.neocities.org/ds2022jan.svg)
