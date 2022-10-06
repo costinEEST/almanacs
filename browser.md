@@ -257,6 +257,7 @@ javascript: (() =>
 - https://ryangjchandler.co.uk/posts/bookmarklets-you-should-definitely-be-using
 - [Read premium articles for free](https://github.com/sugoidesune/readium)
 - https://knowler.dev/blog/open-in-codesandbox-bookmarklet
+- https://github.com/t-mart/kill-sticky
 
 ### Chrome
 

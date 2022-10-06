@@ -101,10 +101,15 @@
 
 ### <head></head>
 
+- https://twitter.com/iamakulov/status/1573250912667066370 + https://youtu.be/MHyAOZ45vnU
 - [A list of everything that *could* go in the head of your document](https://github.com/joshbuchea/HEAD)
 - https://github.com/audreyfeldroy/favicon-cheat-sheet
 - https://www.matuzo.at/blog/html-boilerplate
 - https://koddsson.com/posts/emoji-favicon
+
+### <link />
+
+- https://3perf.com/blog/link-rels
 
 ### <meta />
 

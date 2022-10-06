@@ -5,6 +5,11 @@
 - [A New Ecological Order: Development and the Transformation of Nature in Eastern Europe | Ştefan Dorondel, Stelu Şerban](https://www.barnesandnoble.com/w/a-new-ecological-order-stefan-dorondel/1139791160?ean=9780822988847)
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=geology
 
+
+### Community
+
+- [My 11yo son is showing strong interest in weather/meteorology](https://twitter.com/accidentalciso/status/1574601524252221451)
+
 ### Miscellaneous
 
 - [Uzina Mecanică Tohan Zărnești](https://goo.gl/maps/RKeFjZRjWTUtTnYs7)

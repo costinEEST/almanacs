@@ -50,6 +50,7 @@
 - https://github.com/penberg/awesome-low-latency + https://twitter.com/penberg/status/1531541606100258816
 - https://arslan.io/2022/07/04/designing-a-wireless-charging-pad-from-scratch
 - https://arslan.io/2022/06/11/how-i-got-into-3d-printing
+- https://github.com/swisskyrepo/HardwareAllTheThings
 
 ### Community
 

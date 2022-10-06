@@ -251,6 +251,7 @@
 - https://twitter.com/TastingHistory1/status/1516949463524274183
 - [Japanese Phonetics Index Page](https://www.patreon.com/posts/16489306) + https://www.youtube.com/user/Dogen/playlists
 - http://gustavbertram.com/learning/language/japanese
+- https://github.com/wtetsu/mouse-dictionary
 
 ### Korean
 

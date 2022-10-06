@@ -200,6 +200,7 @@
 
 ### TCP/UDP
 
+- https://argp.github.io/2006/03/05/vint-cerfs-talk
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
 - https://github.com/shuhei/knowledge/blob/master/network.md#tcp
 - https://notes.shichao.io/tcpv1

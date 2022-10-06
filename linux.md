@@ -127,6 +127,8 @@
 - https://lipanski.com/posts/custom-keyboard-layout
 - https://github.com/alegrey91/systemd-service-hardening
 - [Linux vs GNU/Linux vs Alpine Linux](https://twitter.com/iximiuz/status/1560977903227383810)
+- [github action as a free ubuntu vps](https://github.com/smallflowercat1995/FreeVPS-ubuntu-latest)
+
 
 ### Embedded
 

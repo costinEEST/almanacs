@@ -213,6 +213,8 @@
 - https://nathanielbd.github.io/posts/hacking-the-normie-test
 - https://github.com/KayO-GH/Ashesi-DSC-Tensorflow-Workshop
 - [interior.computer](http://digest.marckohlbrugge.com/issues/launching-interior-computer-1361994)
+- [Get interior design ideas from AI (28,867 interiors rendered)](https://interiorai.com)
+- http://rez0.blog/art/2022/09/29/how-to-create-ai-art.html
 
 ### Opinion
 

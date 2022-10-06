@@ -24,6 +24,7 @@
 - https://www.freecodecamp.org/news/ui-design-with-figma-tutorial
 - https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design
 - https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants
+- [Christine Vallaure](https://www.moonlearning.io/store)
 
 ### Cinema
 

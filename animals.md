@@ -42,6 +42,7 @@
 - https://www.cnet.com/science/biology/bees-get-anxious-and-octopuses-feel-pain-why-do-we-look-away
 - https://bookshop.org/books/the-lives-of-moths-a-natural-history-of-our-planet-s-moth-life/9780691228563
 - https://twitter.com/tjalamont/status/1557427199401025536 + https://www.amazon.com/Social-Wasps-North-America-ebook/dp/B09P5RTMT9 + https://www.amazon.com/Wasps-Astonishing-Diversity-Misunderstood-Insect/dp/0691211426
+- https://www.amazon.com/Beekeepers-Bible-Honey-Recipes-Other/dp/1584799188
 
 ### Mammalian
 
