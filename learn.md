@@ -15,6 +15,7 @@
 - https://www.udemy.com/course/modern-mind-mapping-for-beginners-software-based-course
 - https://www.youtube.com/c/Glutanimate/playlists
 - https://www.youtube.com/theanking/playlists
+- [The Nature of Genius](https://www.coursera.org/learn/-genius)
 
 ### Community
 

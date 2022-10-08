@@ -92,6 +92,7 @@
 - [Prelucrarea și vizualizarea datelor folosind Python, curs masteral @ TCSI, FSA, UPB](https://github.com/adimanea/pvdp-upb)
 - https://www.freecodecamp.org/news/automate-your-life-with-python
 - [Python for Defenders](https://taggarttech.teachable.com/courses/enrolled/1875566)
+- https://github.com/octallium/modern-python-101 + https://youtu.be/jH85McHenvw
 
 ### Compiler 
 

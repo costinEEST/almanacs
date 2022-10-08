@@ -148,6 +148,7 @@
 - https://github.com/tantaman/conflict-free-sqlite
 - https://twitter.com/captbaritone/status/1560053602487377920
 - https://dev.to/lefebvre/sqlite-is-not-a-server-56il
+- [SQLite implementation over Wasm will replace Web SQL](https://twitter.com/ChromiumDev/status/1565105522092695553)
 
 ### Graph databases
 
@@ -199,6 +200,7 @@
 - https://medium.com/@tjukanov/finding-the-most-innovative-square-kilometer-in-europe-with-spatial-sql-46b0fc4bde62
 - [Parallel Self-Tuning Spectral Clustering on Apache Spark | Armand Grillet](https://armand.gr/files/MasterThesis.pdf)
 - https://github.com/mgp/book-notes/blob/master/sqlalchemy.markdown
+- [A More Human Approach To Databases](https://ccorcos.github.io/filing-cabinets)
 
 ### PostgreSQL
 

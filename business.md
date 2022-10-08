@@ -316,3 +316,4 @@
 - https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020
 - https://markmcgranaghan.com/podcasts
 - https://taylorpearson.me/bookreview/origin-of-wealth + https://mutinyfund.com/mutiny-team
+- https://founders.simplecast.com/episodes/262-the-adventures-of-herbie-cohen-worlds-greatest-negotiator

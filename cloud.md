@@ -69,7 +69,7 @@
 - https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment
 - https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course
 - https://github.com/thomast1906/DevOps-The-Hard-Way-Azure
-- https://cloudbrothers.info/azure-attack-paths
+- https://cloudbrothers.info/azure-attack-paths + [comprehensive map of Azure and Azure AD attack paths](https://twitter.com/fabian_bader/status/1506330870038372361)
 
 ### Cloudflare
 

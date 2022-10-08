@@ -278,6 +278,7 @@
 - [Raphael Turrigiano](https://rturrigiano.wixsite.com/linguist/lessons)
 - https://archive.org/details/onlatinlanguage01varruoft + https://koaha.org/wiki/De_lingua_latina + http://www.attalus.org/info/varro.html + https://la.wikisource.org/wiki/De_Lingua_Latina_(Varro,_Schoppe)
 - https://www.youtube.com/playlist?list=PL2Ky2_VcYEd0bGOqRl_drTItO_Ve-Pt7_
+- https://ayanacademy.myshopify.com/collections/latin-library
 
 ### Lithuanian
 

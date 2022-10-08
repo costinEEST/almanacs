@@ -184,3 +184,4 @@
 - [Thread with some thoughts on Carbon, Rust, and Firefox](https://twitter.com/kripken/status/1552324367744266242)
 - https://www.stchris.net/write-rust-like-python.html
 - https://code.brettchalupa.com/why-im-learning-rust
+- https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09

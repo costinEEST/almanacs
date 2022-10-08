@@ -46,6 +46,7 @@
 - https://github.com/sormuras/awesome-java-module-system 
 - [Nicolai Parlog](https://www.youtube.com/c/nipafx/playlists) + https://slides.nipafx.dev/expert-java-8
 - https://www.youtube.com/c/JakobJenkov/playlists
+- [Learn Java Programming (version 17)](https://www.freecodecamp.org/news/learn-java-programming)
 
 ### Community 
 

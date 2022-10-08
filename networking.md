@@ -137,6 +137,7 @@
 - https://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html
 - https://hackaday.com/2022/08/27/introducing-fissure-a-toolbox-for-the-rf-hacker
 - https://i.blackhat.com/USA-22/Wednesday/US-22-Shaik-Attacks-From-a-New-Front-Door-in-4G-5G-Mobile-Networks.pdf
+- https://www.facebook.com/dragosr/posts/pfbid0QmoikA7xFE9T5MsmP81ok2sbGoND5YbZ5qtif95Br3wjsiXbHFkHosCgttPuQZwBl + [be your own cellphone carrier](https://twitter.com/dragosr/status/1578452620637003776)
 
 ### 3G
 

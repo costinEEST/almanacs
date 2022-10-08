@@ -278,6 +278,9 @@
 - [Why assignment will look for setters in the prototype chain, but not for regular value properties?](https://twitter.com/dan_abramov/status/1259518085347885057)
 - [Exploiting Client-Side Prototype Pollution in the wild](https://blog.s1r1us.ninja/research/PP)
 - https://gist.github.com/harisec/1cd9c3567d4fa4b2c848aa62fc1c1170 + https://twitter.com/har1sec/status/1485553384014946306
+- https://github.com/BlackFan/client-side-prototype-pollution
+- https://labs.withsecure.com/publications/prototype-pollution-primer-for-pentesters-and-programmers
+- https://github.com/HoLyVieR/prototype-pollution-nsec18
 
 ### Array.prototype
 
