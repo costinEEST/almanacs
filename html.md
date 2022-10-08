@@ -123,6 +123,13 @@
 
 - https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input
 
+### <object></object>
+
+- https://www.smashingmagazine.com/2018/03/from-flash-html-css-javascript
+- [Legacy Flash websites work | Ruy Adorno](https://www.youtube.com/playlist?list=PLhfPj4BRxbDdpo2tPSJpe62c4psxyNuuc)
+- https://github.com/open-source-flash/open-source-flash
+- https://github.com/tylerault/flashdetect
+
 ### <select></select>
 
 - https://sarahmhigley.com/writing/select-your-poison
@@ -203,7 +210,7 @@
 - https://meiert.com/en/blog/minimal-web-development
 - https://mark.berthelemy.net/2021/07/26/future-of-scorm + https://www.youtube.com/playlist?list=PL9Ar8Q1P0Odt8MslZpZ1KlAz0ss059Hs-
 
-### Reference
+### Cheat sheet 
 
 - https://meiert.com/en/indices/html-elements
 - https://github.com/raunofreiberg/ui-playbook
@@ -219,6 +226,7 @@
 - https://gerardkcohen.github.io/periodic-table-of-semantics.html
 - https://justmarkup.com/articles/2021-04-13-html-elements-in-a-tweet
 - https://github.com/hail2u/html-best-practices
+- https://github.com/bradfrost/frontend-guidelines-questionnaire#html-principles
 
 ### Semantic
 

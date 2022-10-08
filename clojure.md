@@ -5,6 +5,10 @@
 - [Clojure for the Brave and True](https://twitter.com/pierre_jambet/status/1388135402897354753)
 - https://markm208.github.io/cljbook
 
+### Cinema 
+
+- https://clojureverse.org/t/clojurescript-compiler-internals-with-mike-fikes/7141
+
 ### Community
 
 - https://twitter.com/daslu_/status/1376835468336193540
@@ -17,7 +21,7 @@
 - https://github.com/leahneukirchen/adventofcode2021
 
 
-### Opinions
+### Opinion
 
 - https://adambard.com/blog/ten-reasons-to-use-clojure
 - https://jeffchen.dev/posts/Why-Clojure
@@ -25,3 +29,7 @@
 - https://blog.ngzhian.com/a-history-of-clojure.html
 - https://blog.asciinema.org/post/smaller-faster
 - https://news.ycombinator.com/item?id=23165096
+
+### Radio 
+
+- https://www.patreon.com/defn

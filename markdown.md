@@ -11,6 +11,7 @@
 ### Opinion
 
 - https://capiche.com/e/markdown-history
+- https://passo.uno/markdoc-review + https://twitter.com/remoquete/status/1524725986641813505
 
 ### Tool
 

@@ -32,7 +32,7 @@
 - [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu) + https://twitter.com/openlabbott/status/947517804416135169 + https://twitter.com/oznova_/status/1256294783246450689 + https://twitter.com/fabynou/status/197097746191237121 + https://twitter.com/hedgeberg/status/1071725355885572098
 - [Game Engine Black Book DOOM](https://fabiensanglard.net/gebbdoom)
 - [Art of Assembly Language Programming and HLA by Randall Hyde](https://news.ycombinator.com/item?id=28679549)
-- https://github.com/jagregory/abrash-zen-of-asm
+- https://github.com/jagregory/abrash-zen-of-asm + https://www.amazon.com/-/es/gp/customer-reviews/R1B8JYBBI79706/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0673386023
 - [Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architecture Book | Igor Zhirkov](https://twitter.com/embeddedgus/status/1554874891307982853)
 - https://github.com/isislovecruft/library--/tree/master/languages/assembly
 

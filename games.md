@@ -35,6 +35,7 @@
 - nandgame.com: https://twitter.com/alokmenghrajani/status/1559503563423973378, https://www.facebook.com/alok/posts/pfbid02mW5BbXSRBZV43y4k9CSwDsrJeMbenSvng3tAkwNf4gK6bK53zXqJyqiRc8ittouRl
 - [Shenzhen I/O | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
 - https://www.udemy.com/course/scratch-game-programming + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F + https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
+- https://github.com/borkshop/emojiquest
 
 ### Mobile based
 
@@ -102,8 +103,9 @@
 - https://github.com/bobeff/open-source-games
 - https://github.com/stared/science-based-games-list
 - https://github.com/leereilly/games
+- https://twitter.com/dadgumjames/status/1387114056016875520
 
-### Opinions
+### Opinion
 
 - https://blog.vivekhaldar.com/post/50585082117/games-as-a-hook-into-cs
 - [On the Perceived Inevitability of Unreal](http://alextardif.com/Unreal.html) + https://twitter.com/longbool/status/1385028668116848640

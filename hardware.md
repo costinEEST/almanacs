@@ -22,6 +22,7 @@
 - [Make: The Annotated Build-It-Yourself Science Laboratory | Windell Oskay](https://www.adafruit.com/product/2560)
 - https://www.amazon.com/Open-Circuits-Beauty-Electronic-Components-ebook-dp-B09WJWGB34/dp/B09WJWGB34 + https://nostarch.com/open-circuits
 - https://github.com/ahr9n/awesome-reading/tree/main/learn-verilog
+- https://passo.uno/why-collect-read-old-computer-manuals
 
 ### Cinema
 
@@ -192,6 +193,7 @@
 - [The hacktic demon dialer, from 1991](https://github.com/nlitsme/HACKTIC_demon_dialer)
 - https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform
 - [Let's write a game for the original PlayStation](https://twitter.com/bigevilboss/status/1343674991703973895)
+- [DVD Laser Scanner Microscope](http://www.gaudi.ch/GaudiLabs/?page_id=652)
 
 ### News
 

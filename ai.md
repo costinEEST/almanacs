@@ -178,6 +178,7 @@
 - https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 - https://www.todaysoftmag.ro/article/3614/propunere-de-carte-machine-learning
 - [Personalized Recommendation system with Python](https://github.com/kizoey/book-personal-recommendation)
+- [Deep Learning | João Araújo](https://www.youtube.com/playlist?list=PL-iSnl3GkU0d7CVxHDVKSkfhtFujIjbfh)
 
 ### Paper
 

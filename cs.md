@@ -155,6 +155,7 @@
 ### History
 
 - https://webdevelopmenthistory.com/index
+- https://shape-of-code.com/tag/history
 - https://twobithistory.org/timeline.html
 - https://computerhistory.org/timelines
 - https://adventofcomputing.com/resources.html

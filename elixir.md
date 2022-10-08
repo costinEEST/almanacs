@@ -1,6 +1,8 @@
 ### Book
 
 - https://github.com/lambda-magic/plt-books/tree/master/Elixir
+- https://github.com/sger/ElixirBooks
+- https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot
 
 ### Cinema
 

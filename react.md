@@ -265,6 +265,7 @@
 
 ### State management
 
+- [nanostores](https://youtube.com/shorts/EmSINUHtXkY) + https://docs.astro.build/en/core-concepts/sharing-state
 - https://arkwright.github.io/event-sourcing.html
 - https://www.infoq.com/presentations/react-redux-state-management
 - https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c

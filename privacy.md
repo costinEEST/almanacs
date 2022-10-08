@@ -124,7 +124,6 @@
 - [Do you think you are safe using private browsing or incognito mode?](https://github.com/gautamkrishnar/nothing-private)
 - https://www.axios.com/soros-hoffman-disinformation-tara-mcgowan-b1e7cb89-a4f7-4281-8e0a-3877fe8a3944.html + https://www.anotheracronym.org
 - https://github.com/jonaslejon/tor-fingerprint
-- https://github.com/tylerault/flashdetect
 - https://madaidans-insecurities.github.io/browser-tracking.html
 - https://mauromorales.com/2021/04/04/dedicating-a-device-for-accessing-your-social-networks
 - [tracking using etags instead of cookies (or localstorage or anything else)](https://github.com/lucb1e/cookielesscookies)

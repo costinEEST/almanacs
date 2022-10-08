@@ -13,6 +13,10 @@
 - https://hassano.gumroad.com/l/book-on-the-side
 - [Joseph Williams ~ Style: Lessons in Clarity and Grace](https://vivqu.com/blog/2022/01/26/style-humor)
 
+### Cheat sheet 
+
+- https://passo.uno/tech-writing-syllabus
+
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUe5jlxhxEfjXm57bXxhixea
@@ -83,6 +87,7 @@
 - https://github.com/rcmoutinho/ebook-with-asciidoctor
 - https://vgpena.github.io/do-you-want-to-build-a-slide-deck
 - https://github.com/heyawhite/tech-writing-tools
+- https://passo.uno/posts/open-source-tools-for-rest-api-documentation
 
 ### Miscellaneous
 
@@ -107,3 +112,4 @@
 - [What makes writing more readable?](https://pudding.cool/2022/02/plain)
 - https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is
 - https://shkspr.mobi/blog/2022/08/how-to-write-a-cover-letter-for-a-job
+- https://passo.uno/tech-writing-skills-talent-tree
