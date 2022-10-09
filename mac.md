@@ -81,10 +81,12 @@
 - [A highly customizable macOS status bar replacement](https://github.com/FelixKratz/SketchyBar)
 - https://sal.dev/open-source/adding-kotlin-interactive-shell-to-homebrew
 - https://harry.dev/posts/my-dev-environment
+- https://davidwalsh.name/get-default-app
 
 ### Security
 
 - https://github.com/hack-different/apple-knowledge
+- [Objective by the Sea](https://www.youtube.com/channel/UCQycc8VDhHuNkZlKSSTDHzw/playlists)
 - https://twitter.com/lordx64/status/1314614366361264130
 - [Does Apple really log every app you run?](https://blog.jacopo.io/en/post/apple-ocsp)
 - https://github.com/0xmachos/Apple-Platform-Security-Guides

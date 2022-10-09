@@ -43,6 +43,7 @@
 - [Radicalism in Graphic Design](https://www.youtube.com/playlist?list=PL2jykFOD1AWZ2iTNw0Kyzggp2jdppU3pv)
 - [history of design](https://www.youtube.com/playlist?list=PL2jykFOD1AWb7hNucP2fj491MQ594G3Rk)
 - [Michal Malewicz](https://www.youtube.com/c/MalewiczHype/playlists)
+- [Jimmy Huynh, industrial design](https://www.youtube.com/user/YourFavoriteAsianGuy)
 
 ### Course
 

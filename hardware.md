@@ -194,6 +194,7 @@
 - https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform
 - [Let's write a game for the original PlayStation](https://twitter.com/bigevilboss/status/1343674991703973895)
 - [DVD Laser Scanner Microscope](http://www.gaudi.ch/GaudiLabs/?page_id=652)
+- [Where to Buy Hardware](https://greatscottgadgets.com/wheretobuy)
 
 ### News
 

@@ -8,10 +8,6 @@
 - https://www.youtube.com/c/ThomasFlight/playlists
 - https://www.inputmag.com/culture/vhs-tapes-twitch-youtube-streaming
 
-### <video></video>
-
-- [Video Killed My Data Plan](https://docs.google.com/presentation/d/1JPBSDqCpKK1nq9Wpo-NKmXNb1ZyCUKZhcfcdkXTRAA0)
-
 ### Cheat sheet
 
 - [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)

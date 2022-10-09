@@ -170,10 +170,11 @@
 - http://sites.fas.harvard.edu/~iranian/OldPersian/index.html
 - https://github.com/omid/Persian-Calendar-for-Gnome-Shell
 
-### Finish 
+### Finnish 
 
 - [Grammar from the Human Perspective. Case, space and person in Finnish | Marja-Liisa Helasvuo, Lyle Campbell](https://benjamins.com/catalog/cilt.277)
 - https://www.hagen-schmidt.de/suomi/worldlanguage.html
+- https://youtu.be/TtKmQI_prxs
 
 ### French
 
@@ -252,6 +253,7 @@
 - [Japanese Phonetics Index Page](https://www.patreon.com/posts/16489306) + https://www.youtube.com/user/Dogen/playlists
 - http://gustavbertram.com/learning/language/japanese
 - https://github.com/wtetsu/mouse-dictionary
+- https://bisqwit.iki.fi/japtools
 
 ### Korean
 

@@ -143,6 +143,11 @@
 
 - https://twitter.com/tunetheweb/status/1343848054571593729 + https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute
 
+### <video></video>
+
+- [Video Killed My Data Plan](https://docs.google.com/presentation/d/1JPBSDqCpKK1nq9Wpo-NKmXNb1ZyCUKZhcfcdkXTRAA0)
+- https://css-tricks.com/gifs-without-the-gif-the-most-performant-image-and-video-options-right-now
+
 ### Landing page
 
 - [Free Next.js landing page template for SaaS products, online services and more.](https://github.com/jkytoela/next-startd)

@@ -82,6 +82,7 @@
 - https://github.com/riti2409/Resources-for-preparation-Of-Placements
 - https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck
 - [C Programming in Linux Tutorial | ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
+- [Embedded C Programming Style | Mutex Embedded](https://www.youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh) + https://www.mutex-embedded.com/courses/s2-c1
 
 ### Course 
 

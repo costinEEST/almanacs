@@ -3,6 +3,7 @@
 - [Windows 11 From Beginner to Advanced](https://www.amazon.com/dp/B09HG2RV9X)
 - [Windows Kernel Programming](https://github.com/Truneski/WindowsKernelProgramming-Exercises)
 - https://www.amazon.com/Old-New-Thing-Development-Throughout/dp/0321440307
+- https://ofershmueli.medium.com/best-cybersecurity-books-to-read-72b9a156945e
 
 ### Cinema
 

@@ -58,6 +58,7 @@
 - https://www.youtube.com/c/TheStoa/playlists
 - [Stoicism Book Reviews | Ethan Schwandt - The Mind Map Guy](https://www.youtube.com/playlist?list=PLus5uUwK9fLFT-RuA9bNzI9Qx8lRIYWU_)
 - https://www.amazon.com/Seneca-Life-Stoic-Paul-Veyne-ebook-dp-B01F95X764/dp/B01F95X764
+- https://www.goodreads.com/review/list/12178282?shelf=stoicism
 
 ### Marxism
 

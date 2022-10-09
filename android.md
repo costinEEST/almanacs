@@ -168,3 +168,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html
 - https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files
 - https://github.com/dineshshetty/Android-InsecureBankv2
+
+### Radio
+
+- https://blog.esper.io/what-is-google-play-services

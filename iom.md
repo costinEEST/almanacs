@@ -40,6 +40,7 @@
 
 ### Cinema
 
+- https://andersbrownworth.com/blockchain
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUfiNFwggn-4POpQdwkBTetA
 - https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies
 - [Decentralization: DeFi, DID, DEX and more (aantonop)](https://www.youtube.com/playlist?list=PLPQwGV1aLnTsWvo0ieJLN-UINWUjr10a7)

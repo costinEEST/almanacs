@@ -50,6 +50,7 @@
 - https://github.com/ImperialCollegeLondon/formalising-mathematics
 - https://github.com/bobeff/programming-math-science#math
 - https://icub.unibuc.ro/2022/09/01/seminar-teme-de-istoria-matematicii
+- [Front cover image for Precalculus mathematics in a nutshell : geometry, algebra, trigonometry | George F. Simmons](http://ossmann.blogspot.com/2007/11/math-review.html)
 
 ### Course
 
@@ -118,6 +119,7 @@
 - https://www.newscientist.com/people/muhammad-ibn-musa-al-khwarizmi
 - [Alvaro Lozano-Robledo](https://twitter.com/MathAndCobb/status/1536893871552086016) + https://alozano.clas.uconn.edu/math5020-elliptic-curves
 - [Mircea Pitici](https://www.theoremoftheday.org/Resources/Bibliography.htm#MirceaPitici)
+- [Paul Lockhart](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
 ### Miscellaneous
 
@@ -141,6 +143,7 @@
 
 - https://www.mathway.com/Algebra
 - [Convert mathematical equations to SVGs, PNGs, or MathML. A general wrapper to Lasem and mtex2MML](https://github.com/gjtorikian/mathematical)
+- http://www.ossmann.com/protractor
 
 ### Teacher
 

@@ -16,6 +16,7 @@
 ### Community
 
 - [sounds of Mexico City’s streets](https://pudding.cool/2022/09/cdmx)
+- [Jack Schaedler](https://github.com/jackschaedler)
 
 ### Development 
 

@@ -71,6 +71,7 @@
 - https://giuliomagnifico.blog/tutorial/2021/08/03/wireguard-dd-wrt-dynamic-ip.html
 - http://www.saminiir.com/openvpn-puts-packets-inside-your-packets
 - https://github.com/adityatelange/node-pcap-parser
+- [the 5-in-1 network admin's cable: ethernet / crossover / modem / null modem / Cisco console](http://www.ossmann.com/5-in-1.html)
 
 ### The Open Systems Interconnection model (OSI)
 
@@ -98,10 +99,8 @@
 - [3G & 4G Frequency List](https://support.alwaysonlinewireless.com/hc/en-us/articles/115002446723-3G-4G-Frequency-List)
 - [A disaster-resilient communications network powered by the sun](https://disaster.radio)
 - [The Magical Science of Wi-Fi on Airplanes](https://onezero.medium.com/what-makes-it-possible-to-browse-the-internet-at-35-000-feet-1afaea83eb5)
-- [Notes and resorce's for SDR/Wireless tech.](https://github.com/notpike/SDR-Notes)
 - [Ham Radio related by w2aew](https://www.youtube.com/playlist?list=PL535F3913B822E098)
 - https://hakin9.org/universal-radio-hacker-investigate-wireless-protocols-like-a-boss/
-- https://www.rtl-sdr.com/talk-journey-fm-rds-oona-raisanen
 - https://github.com/0x90/wifi-arsenal
 - [An Empirical Study of Wireless Carrier Authentication for SIM Swaps](https://www.issms2fasecure.com)
 - https://nelsonslog.wordpress.com/2020/01/07/wireless-isp-resources
@@ -111,6 +110,7 @@
 - http://k0lwc.com/new-ham-radio-onboard-the-iss-is-on-the-air + https://news.ycombinator.com/item?id=24484336
 - https://www.universal-sci.com/headlines/2018/10/25/it-could-be-possible-to-transfer-data-through-gravitational-waves + https://twitter.com/binitamshah/status/1310189410990747649
 - https://victoria.dev/blog/wpa-key-wpa2-wpa3-and-wep-key-wi-fi-security-explained
+- [WEP: Dead Again, Part 1](https://web.archive.org/web/20060409151520/http://www.securityfocus.com/infocus/1814)
 - - https://www.theverge.com/2019/8/12/20800798/tesla-model-3-rfid-chip-keycard-amiedd-video-watch-body-hacking-body-modification
 - https://github.com/koutto/pi-pwnbox-rogueap/wiki
 - [RF data exfiltration from airgapped systems using Ethernet cable as an antenna, and nic as modulator, receiver at 100m.](https://github.com/sq5bpf/etherify) + https://lipkowski.com/etherify + https://twitter.com/dragosr/status/1325828826404802566
@@ -138,6 +138,33 @@
 - https://hackaday.com/2022/08/27/introducing-fissure-a-toolbox-for-the-rf-hacker
 - https://i.blackhat.com/USA-22/Wednesday/US-22-Shaik-Attacks-From-a-New-Front-Door-in-4G-5G-Mobile-Networks.pdf
 - https://www.facebook.com/dragosr/posts/pfbid0QmoikA7xFE9T5MsmP81ok2sbGoND5YbZ5qtif95Br3wjsiXbHFkHosCgttPuQZwBl + [be your own cellphone carrier](https://twitter.com/dragosr/status/1578452620637003776)
+
+### Software-defined radio (SDR) 
+
+- http://ossmann.blogspot.com/2014/09/learning-sdr.html + https://twitter.com/GSGlabs/status/1486961947132239873 + https://hackrf.readthedocs.io/en/latest/hardware_components.html#block-diagram
+- https://infocondb.org/presenter/michael-ossmann
+- https://hackaday.com/tag/michael-ossmann
+- https://hackaday.com/2016/03/23/michael-ossmann-makes-you-an-rf-design-hero
+- https://hackaday.com/tag/rtl-sdr
+- https://www.windytan.com/p/about.html#learn
+- [Notes and resorce's for SDR/Wireless tech](https://github.com/notpike/SDR-Notes)
+- https://www.rtl-sdr.com/talk-journey-fm-rds-oona-raisanen
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUcS1Rd3toiopH4QsPaLASfJ
+- https://www.wirelessinnovation.org/Introduction_to_SDR
+- https://www.quora.com/How-does-software-defined-radio-work/answer/Rupert-Baines
+- https://www.electronicdesign.com/technologies/test-measurement/article/21211297/per-vices-securing-networks-through-softwaredefined-radio
+- https://www.gnuradio.org/grcon/grcon18/presentations/Automatic_Gain_Control_on_the_bladeRF_and_bladeRF_2.0_micro/5-Rob_Ghilduta-Nuand-Automatic_Gain_Control.pdf
+- https://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/practical-signal-processing
+- https://hackaday.com/2021/01/16/doing-wifi-with-software-defined-radio
+- https://hackaday.com/2020/07/08/software-defined-radio-academy-goes-virtual
+- [Linear Circuit Design Handbook, 2008](https://twitter.com/robinlgetz/status/1457779129810505738)
+- https://hackaday.com/2018/06/29/free-e-book-software-defined-radio-for-engineers + https://www.analog.com/en/education/education-library/software-defined-radio-for-engineers.html + https://github.com/sdrforengineers/code + https://www.youtube.com/playlist?list=PLBfTSoOqoRnOTBTLahXBlxaDUNWdZ3FdS
+- https://github.com/sayanee/radio-amateur-exam-notes + https://www.youtube.com/playlist?list=PL9wSRifxQqRrr_O7f-LafwoZ69giN6vcT
+- https://en.wikipedia.org/wiki/Amateur_radio_call_signs
+- [Adrian Musceac](https://github.com/kantooon)
+- https://unnamedre.com/episode/59 + https://twitter.com/unnamed_show/status/1544036368761794560
+- [Clayton Smith](https://github.com/argilo)
+- https://destevez.net/2022/09/connecting-the-pluto-sdr-to-an-android-phone
 
 ### 3G
 

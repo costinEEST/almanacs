@@ -8,7 +8,7 @@
 - [Mobile Security - LiveOverflow](https://www.youtube.com/watch?v=iJFnYBJJiuQ&list=PLhixgUqwRTjxHFDl0OykeqZ-VvnClfDpT)
 - [How to hack a TV and a cable remote control to listen to anyone's conversation at home](https://twitter.com/binitamshah/status/1314571634750058496) + https://www.guardicore.com/wp-content/uploads/2020/07/WarezTheRemote-Comcast-Report.pdf
 - [Hard disk hacking - Hooking up JTAG](https://twitter.com/Theophite/status/1312864397837164544) + https://spritesmods.com/?art=hddhack&page=3
-- [Reverse engineering my cable modem and turning it into an SDR](https://stdw.github.io/cm-sdr)
+- [Reverse engineering my cable modem and turning it into an SDR](https://stdw.github.io/cm-sdr) + https://github.com/stdw/cm-sdr
 - https://astralvx.com/dma-explained
 - https://www.atredis.com/blog/2020/11/4/garmin-forerunner-235-dion-blazakis + https://twitter.com/justdionysus/status/1328749149437747205
 - https://github.com/Yossioren/AttacksonImplementationsCourseBook
@@ -25,6 +25,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 
 ### Course
 
+- https://github.com/wtsxDev/reverse-engineering
 - [RE for beginners](https://www.begin.re/the-workshop) + https://twitter.com/OphirHarpaz/status/1272605739589283842
 - [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
 - [A completely free, open source and online course about Reverse Engineering iOS Applications.](https://github.com/ivRodriguezCA/RE-iOS-Apps)
