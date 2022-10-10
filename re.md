@@ -22,6 +22,8 @@
 - https://www.driverentry.com + https://twitter.com/yarden_shafir/status/1437686447293747200
 https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - https://daniao.ws/talks/exploiting-out-of-order-execution
+- http://www.righto.com/2016/02/reverse-engineering-arm1-processors.html
+- [Reading Silicon: How to Reverse Engineer Integrated Circuits | Ken Shirriff](https://youtu.be/aHx-XUA6f9g)
 
 ### Course
 
@@ -94,6 +96,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - [iOS Reverse Engineering](https://github.com/kpwn/iOSRE)
 - https://noorsiddiqui.com/greatest-hits-in-sidechannel-attacks
 - https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance
+- [ELF binaries](https://www.cs.stevens.edu/~jschauma/631/elf.html)
 
 ### Radio
 

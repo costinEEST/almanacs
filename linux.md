@@ -133,6 +133,7 @@
 ### Embedded
 
 - [Designing My Linux-Powered Business Card](https://www.thirtythreeforty.net/posts/2019/12/designing-my-linux-business-card)
+- https://github.com/embeddedartistry/embedded-resources
 
 ### Security
 

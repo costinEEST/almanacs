@@ -62,3 +62,7 @@
 ### Security
 
 - https://github.com/barrracud4/image-upload-exploits + https://book.hacktricks.xyz/pentesting-web/file-upload + https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/File_upload_bugs.xmind
+
+### Radio 
+
+- https://podcast.oddly-influenced.dev/episodes/analogies

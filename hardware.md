@@ -1,3 +1,7 @@
+### 3D print 
+
+- [David Shorey](https://www.youtube.com/playlist?list=PLzeAgAPAU5pOuMMNNiVplrI9GwkEuy1Ns)
+
 ### Book
 
 - https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle0
@@ -118,12 +122,18 @@
 
 - https://www.youtube.com/playlist?list=PLKEd7Km7DjLcd4-fw4Y2h94VRo6NQwb2P
 
+### Field Programmable Gate Arrays (FPGA)
+
+- https://github.com/icebreaker-fpga/icebreaker-workshop
+
 ### PCB 
 
 - [Keng Tiong Ng](https://visio-for-engineers.blogspot.com)
 - https://github.com/Hanqaqa/PCB_Business_Card
 - https://www.stavros.io/posts/make-pcbs-at-home
 - https://www.wired.com/story/starlink-internet-dish-hack
+- [PCB Deconstruction Techniques](http://www.grandideastudio.com/pcbdt)
+- http://www.irongeek.com/i.php?page=videos/bsideslasvegas2014/cg07-using-superpowers-for-hardware-reverse-engineering-joe-grand
 
 
 ### Resistor

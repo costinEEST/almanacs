@@ -185,3 +185,4 @@
 - https://www.stchris.net/write-rust-like-python.html
 - https://code.brettchalupa.com/why-im-learning-rust
 - https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09
+- https://matklad.github.io/2022/10/06/hard-mode-rust.html

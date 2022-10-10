@@ -141,6 +141,7 @@
 
 ### Software-defined radio (SDR) 
 
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUcS1Rd3toiopH4QsPaLASfJ
 - http://ossmann.blogspot.com/2014/09/learning-sdr.html + https://twitter.com/GSGlabs/status/1486961947132239873 + https://hackrf.readthedocs.io/en/latest/hardware_components.html#block-diagram
 - https://infocondb.org/presenter/michael-ossmann
 - https://hackaday.com/tag/michael-ossmann
@@ -149,7 +150,6 @@
 - https://www.windytan.com/p/about.html#learn
 - [Notes and resorce's for SDR/Wireless tech](https://github.com/notpike/SDR-Notes)
 - https://www.rtl-sdr.com/talk-journey-fm-rds-oona-raisanen
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUcS1Rd3toiopH4QsPaLASfJ
 - https://www.wirelessinnovation.org/Introduction_to_SDR
 - https://www.quora.com/How-does-software-defined-radio-work/answer/Rupert-Baines
 - https://www.electronicdesign.com/technologies/test-measurement/article/21211297/per-vices-securing-networks-through-softwaredefined-radio
@@ -165,6 +165,9 @@
 - https://unnamedre.com/episode/59 + https://twitter.com/unnamed_show/status/1544036368761794560
 - [Clayton Smith](https://github.com/argilo)
 - https://destevez.net/2022/09/connecting-the-pluto-sdr-to-an-android-phone
+- [Museum of Radio and Technology](https://www.youtube.com/playlist?list=PL23RW1AzagzdnwLhr52qxeYpYlQ0yi68s)
+- [Universal Radio Hacker: Investigate Wireless Protocols Like A Boss](https://github.com/jopohl/urh)
+- https://www.amazon.com/Principles-Digital-Audio-Sixth-Video/dp/0071663460
 
 ### 3G
 
