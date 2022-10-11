@@ -78,6 +78,10 @@
 
 - http://html5doctor.com/the-address-element
 
+### <audio></audio>
+
+- [HTMLAudioElement polyfill using the WebAudio API with seamless loop support in Safari](https://gist.github.com/mrdoob/0027c276f1b628001bdb6e138a9d7218) + https://twitter.com/mrdoob/status/1578933479282454528
+
 
 ### <button></button>
 

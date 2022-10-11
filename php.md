@@ -30,6 +30,7 @@
 - [Create Three Symfony Back End APIs](https://www.youtube.com/playlist?list=PL1sZ2OJpPmWa7iqMI8UL6_oOUSMqlHSKg)
 - https://www.youtube.com/playlist?list=PLKJBt7aeK3k82T8rKrS2CMaLOphJmxtMn
 - [Customer Relationship Management API in Laravel](https://www.youtube.com/playlist?list=PLKJBt7aeK3k-7KXzEm5sAjuwtQhL4ecag)
+- [PHP - zero-stack | Barłomiej Bąk](https://www.youtube.com/playlist?list=PLsgYMfQH-6NYZwb5ptkQCBp1-mAzjMjqd)
 
 
 ### Patterns

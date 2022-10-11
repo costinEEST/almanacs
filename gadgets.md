@@ -46,6 +46,7 @@
 - https://github.com/AndyDoering/Keyboards
 - https://github.com/stars/KingOfSpades/lists/mechanical-keyboards
 - https://github.com/BenRoe/awesome-mechanical-keyboard
+- [Keyboard Ninja - No Mouse, Keyboard Only | gotbletu](https://www.youtube.com/playlist?list=PLqv94xWU9zZ1cXfg3ED24G6RSt4NbFBfO)
 
 ### Microphone
 

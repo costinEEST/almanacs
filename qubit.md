@@ -17,6 +17,7 @@
 
 - [Centre for Quantum Technologies](https://www.youtube.com/c/quantumlah/playlists)
 - https://www.youtube.com/playlist?list=PLEBQWzRBb4ioWmrK6jpS3fUI6d_2JeKRp
+- [Early History of Quantum Mechanics | Kathy Joseph](https://www.youtube.com/playlist?list=PLepnjl2hm9tG2VXMd1edYxATvFdA3hcLP)
 
 ### Community 
 

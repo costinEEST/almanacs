@@ -103,6 +103,7 @@
 - https://jvns.ca/blog/2017/09/03/network-interfaces
 - [eBPF-based tool for tracing network packets in the Linux kernel](https://github.com/cilium/pwru)
 - [Insight Is Gone From Ubuntu](https://www.contrapositivediary.com/?p=1396) + https://hackaday.com/2022/06/14/linux-fu-up-your-gdb-game
+- [deps llvm, cmake, llvm-config](https://github.com/triniwiz/linux-runtime)
 
 ### Cheat sheet
 

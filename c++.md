@@ -11,6 +11,7 @@
 - http://www.nongnu.org/fastcgi
 - [Algorithms for Modern Hardware | Sergey Slotin](https://en.algorithmica.org/hpc) + https://github.com/sslotin/amh-code + https://twitter.com/incomputableMAN/status/1498622211048947715
 - https://markm208.github.io/cppbook
+- https://asawicki.info/news?x=tag&tag=books
 
 ### Community
 

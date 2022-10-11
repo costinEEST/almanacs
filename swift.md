@@ -28,6 +28,7 @@
 - [Yuta Saito](https://speakerdeck.com/kateinoigakukun)
 - [Paul Ardeleanu](https://www.pardel.dev/talks)
 - [John Gallaugher](https://gallaugher.com)
+- [Collin Cunningham](https://github.com/stars/CollinCunningham/lists/ios)
 
 ### Inspire 
 

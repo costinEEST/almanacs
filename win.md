@@ -45,6 +45,7 @@
 - ["technically Windows is open source"](https://twitter.com/Yannayli/status/1228269110640959489)
 - https://osandamalith.com/2020/07/19/exploring-the-ms-dos-stub
 - https://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index
+- [Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)](https://github.com/j00ru/windows-syscalls)
 
 ### Users
 

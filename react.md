@@ -347,6 +347,7 @@
 - https://github.com/danilowoz/react-content-loader
 - [Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [Wrapper for Material Design (Web) Components](https://github.com/rmwc/rmwc)
+- [build dashboards fast](https://github.com/tremorlabs/tremor)
 
 ### Debugging
 

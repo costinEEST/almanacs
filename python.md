@@ -177,6 +177,7 @@
 - https://twitter.com/gvanrossum/status/1222776098800357376
 - https://github.com/wdv4758h/awesome-jit
 - https://github.com/jchampemont/awesome-lightweights
+- https://asawicki.info/news_1762_hello_world_under_the_microscope_-_new_article_published + https://gynvael.coldwind.pl/?lang=en&id=754
 
 ### Scraping
 

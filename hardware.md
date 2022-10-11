@@ -174,6 +174,7 @@
 - https://github.com/danbev/learning-fpga
 - https://hackaday.com/2022/09/28/the-first-microcomputer-the-q1
 - https://hackaday.com/2022/09/23/exploring-texas-instruments-forgotten-cpu
+- [A CPU implemented in a modular synthesizer](https://github.com/katef/eurorack-cpu)
 
 ### Miscellaneous
 
@@ -218,6 +219,7 @@
 
 ### Tool
 
+- https://makezine.com/article/technology/collins-lab-electronics-tools + https://www.youtube.com/playlist?list=PLECC9C55893C696A7
 - https://nelsonslog.wordpress.com/2020/05/27/power-monitoring-generator-well
 - [Multi platform circuit layout and schematic drawing tool.](https://github.com/bancika/diy-layout-creator)
 - https://hackaday.com/2020/09/08/teardown-mini-gps-jammer + https://twitter.com/hackaday/status/1303338848940945408
@@ -240,3 +242,4 @@
 
 - http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1964_09-10.pdf + https://twitter.com/paulg/status/1376082495041589250
 - https://panic.com/blog/a-prototype-original-ipod
+- https://biblioteca-digitala.ro/?pub=3944-catalogul-expozitiei-pc-o-istorie-fascinanta

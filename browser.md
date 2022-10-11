@@ -487,6 +487,10 @@ javascript: (() =>
 
 - https://hackaday.com/2022/03/09/webgpu-better-than-webgl
 
+### Human Interface Device (WebHID)
+
+- https://github.com/robatwilliams/awesome-webhid
+
 ### Web MIDI
 
 - https://github.com/obensource/web-midi-api-docs

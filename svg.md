@@ -64,3 +64,4 @@
 - [Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette](https://github.com/boringdesigners/boring-avatars)
 - [free SVG generators](https://fffuel.co)
 - [Small, efficient encoding of SVG data URIs for CSS, HTML](https://github.com/tigt/mini-svg-data-uri)
+- [Enlightened library to convert HTML and CSS to SVG](https://github.com/vercel/satori)
