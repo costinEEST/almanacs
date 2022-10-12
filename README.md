@@ -34,6 +34,7 @@
 - [Cloud](cloud.md)
 - [Clojure](clojure.md)
 - [Cobol](cobol.md)
+- [CodeQL](ql.md)
 - [Computer networking](networking.md)
 - [Computer science](cs.md)
 - [Cryptography](crypto.md)

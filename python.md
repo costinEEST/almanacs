@@ -241,6 +241,7 @@
 - https://www.blackhat.com/us-21/briefings/schedule/#do-you-speak-my-language-make-static-analysis-engines-understand-each-other-22797
 - https://www.vicarius.io/vsociety/blog/exploiting-google-slo-generator-with-python-yaml-deserialization-attack
 - [scripts I use when reversing mobile applications](https://github.com/QKaiser/mobile-re)
+- https://github.com/vstinner/python-security
 
 ### Server
 

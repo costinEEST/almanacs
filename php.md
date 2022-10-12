@@ -95,6 +95,7 @@
 - [Juan Manuel Fernández](https://x-c3ll.github.io/stuff.html)
 - https://github.com/PortSwigger/serialization-examples/tree/master/php
 - https://github.com/snoopysecurity/Vulnerable-Code-Snippets
+- https://github.com/m4p1e/php-exploit
 
 ### Miscellaneous
 

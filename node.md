@@ -523,6 +523,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [A web scraping and browser automation library that helps you build reliable crawlers](https://github.com/apify/crawlee)
 - [Aid automatic detection of in-browser cryptojacking](https://github.com/1lastBr3ath/drmine)
 - [Takes a screenshot of a given website and saves it to the given file](https://yossarian.net/snippets#nodeJS)
+- [Mac OS X Plist parser/builder](https://github.com/TooTallNate/plist.js)
 
 ### Micro service
 
@@ -576,6 +577,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/onsecru/jwt-hacking-challenges
 - https://security.snyk.io/vuln/SNYK-JS-NODEIPC-2426370
 - https://snyk.io/blog/reverse-shell-attack
+- https://github.com/aadityapurani/NodeJS-Red-Team-Cheat-Sheet
 
 ### CMS
 

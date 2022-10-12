@@ -16,6 +16,8 @@
 
 ### AST
 
+- https://twitter.com/laurieontech/status/1400882404747776002
+- https://twitter.com/mjackson/status/1336740413827268610
 - https://unicorn-utterances.com/posts/how-computers-speak
 - https://github.com/pshrmn/notes/blob/master/ast/nodes.md
 - https://github.com/kentcdodds/asts-workshop
@@ -45,6 +47,7 @@
 - https://blogtitle.github.io/i-am-switching-to-js + https://blogtitle.github.io/lets-talk-about-javascript
 - [Setting or accessing via non-integers will set or access a variable associated with that array's object property collection.](https://twitter.com/ProvablyFlarnie/status/1243658638830362624)
 - [String#split can NEVER return an empty array, which is wrong](https://twitter.com/SeaRyanC/status/1331656278104440833)
+- https://felix-kling.de/js-loose-comparison
 
 ### Performance
 

@@ -201,6 +201,7 @@
 - [Parallel Self-Tuning Spectral Clustering on Apache Spark | Armand Grillet](https://armand.gr/files/MasterThesis.pdf)
 - https://github.com/mgp/book-notes/blob/master/sqlalchemy.markdown
 - [A More Human Approach To Databases](https://ccorcos.github.io/filing-cabinets)
+- https://shekhargulati.com/category/code-reading
 
 ### PostgreSQL
 

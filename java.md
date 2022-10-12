@@ -30,7 +30,8 @@
 - https://trishagee.com/presentations/beyond_java_8 + https://trishagee.github.io/presentation/beyond_java_8
 - [Collection of information about the history of Java primarily from a technical point of view.](https://github.com/marchof/java-almanac)
 - https://github.com/cosminpopescu14/Life_After_Java8 + https://www.reddit.com/r/java/comments/qpzmdy/java_ecosystem_vs_net_6
-
+- https://github.com/shekhargulati/java8-the-missing-tutorial
+- https://github.com/doocs/advanced-java
 
 ### Cinema
 
@@ -115,12 +116,15 @@
 - [A quick methodology on testing / hacking SAP Applications for n00bz and bug bounty hunters.](https://github.com/shipcod3/mySapAdventures)
 - https://github.com/razvand/secure-programming-java
 - https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2
-- https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
+- https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet + [A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization](https://github.com/frohoff/ysoserial) + [Collection of bypass gadgets to extend and wrap ysoserial payloads](https://github.com/pwntester/SerialKillerBypassGadgetCollection)
 - https://snyk.io/blog/stranger-danger-live-hack-log4shell-exploit
 - https://javarevisited.blogspot.com/2021/12/what-is-log4j-2-issue-how-to-solve-log.html + https://www.linkedin.com/posts/mubix_log4shell-log4j-management-activity-6876536157119897600-nacC + https://application.security/free-application-security-training/understanding-apache-log4j-vulnerability + https://www.linkedin.com/feed/update/urn:li:activity:6876705732947963904 + https://r2c.dev/blog/2021/understanding-log4j-and-log4shell + https://twitter.com/lapt0r/status/1469340723463950341 + https://www.reddit.com/r/blueteamsec/comments/rd38z9/log4j_0day_being_exploited + https://twitter.com/thinkstcanary/status/1469439743905697797 + https://twitter.com/kurtseifried/status/1470650869494337540 + https://danielmiessler.com/podcast/news-analysis-no-311 + https://www.hackingarticles.in/a-detailed-guide-on-log4j-penetration-testing + https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-44228 + https://securelist.com/webinars/log4shell-vulnerability-how-to-stay-secure + https://infosecwriteups.com/log4j-vulnerability-explanation-in-details-73f7556c5ff1 + https://www.zdnet.com/article/security-firm-blumira-discovers-major-new-log4j-attack-vector + https://inonst.medium.com/log4shell-simple-techincal-explanation-of-the-exploit-a5a3dd1918ec + https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html
 - https://pyn3rd.github.io/2022/05/07/Arbitrary-File-Upload-Tricks-In-Java
 - [I've got an arbitrary file write through directory traversal in a Java application](https://twitter.com/infosec_au/status/1553016065315446784)
 - https://github.com/PortSwigger/serialization-examples/tree/master/java
+- https://github.com/threedr3am/learnjavabug
+- https://github.com/javaweb-sec/javaweb-sec
+
 
 ### Microservice
 
