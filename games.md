@@ -97,6 +97,7 @@
 - https://www.dicebreaker.com/topics/richard-garfield/feature/richard-garfield-interview-making-games
 - http://www.zachtronics.com/podcast
 - [Any recommended demoscene or books?](https://twitter.com/angealbertini/status/1250737612626833408)
+- [Making fifty TIC-80 carts in a weekend](https://blinry.org/50-tic80-carts)
 - https://www.independent.co.uk/arts-entertainment/games/sid-meier-interview-civilisation-memoir-autobiography-b404968.html
 - https://arstechnica.com/video/watch/war-stories-myst
 - [Tennis for Two](https://www.aps.org/publications/apsnews/200810/physicshistory.cfm)

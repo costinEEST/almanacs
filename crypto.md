@@ -156,6 +156,18 @@
 - https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html
 - [Recovering a full PEM Private Key when half of it is redacted](https://blog.cryptohack.org/twitter-secrets)
 
+### Secure Socket Shell (SSH)
+
+- [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained)
+- https://community.turgensec.com/ssh-hacking-guide
+- https://sysdogs.com/on-secure-shell-security
+- https://susam.in/blog/file-transfer-with-ssh-tee-and-base64
+- https://blog.fox-it.com/2020/11/11/decrypting-openssh-sessions-for-fun-and-profit
+- [Copy files to a Vagrant VM via SCP.](https://github.com/invernizzi/vagrant-scp)
+- https://github.com/opsdisk/the_cyber_plumbers_handbook + https://opsdisk.gumroad.com/l/cphlab/blackfriday2021
+- [SSH protocol dissected, part III: publickey auth](https://yurichev.org/SSH3)
+
+
 ### Tool
 
 - [ Verifpal - cryptographic protocol analysis tool.](https://twitter.com/bblipp/status/1223289973836861440)

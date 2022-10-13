@@ -118,6 +118,7 @@
 - https://divyendusingh.com/music-theory-and-generation
 - https://catalin.francu.com/Music
 - https://onemileatatime.com/guides/airline-boarding-music
+- http://www.charlespetzold.com/essays
 
 ### Song
 

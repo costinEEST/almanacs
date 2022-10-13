@@ -20,6 +20,10 @@
 - https://www.youtube.com/c/EverydayAstronaut/playlists
 
 
+### Community 
+
+- [Observatorul Astronomic "Amiral Vasile Urseanu"](http://www.astro-urseanu.ro)
+
 ### News
 
 - [Black holes: Cosmic signal rattles Earth after 7 billion years](https://www.bbc.com/news/science-environment-53993937)

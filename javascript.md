@@ -33,6 +33,7 @@
 - https://hachibu.net/talks/2020/exploring-javascript-tagged-template-strings
 - https://medium.com/aia-sg-techblog/understanding-how-babel-works-d6ca363bce1e
 - https://github.com/vaidehijoshi/basecs-series
+- https://youtu.be/tkPHtSUJwMI
 
 ### Community
 
@@ -159,6 +160,7 @@
 - https://egghead.io/courses/functional-programming-concepts-in-purescript
 - https://github.com/nicoespeon/refactoringjavascript.dev
 - [Namaste JavaScript | Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) + https://twitter.com/akshaymarch7/status/1318205871726292995
+- https://dev.to/alexeagleson/the-complete-beginners-guide-to-a-career-in-web-development-3fbl
 
 ### Paper
 

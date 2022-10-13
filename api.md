@@ -176,3 +176,4 @@ curl v2.wttr.in/Bucharest
 - [Hacking APIs: Workshop | Corey Ball](https://sway.office.com/HVrL2AXUlWGNDHqy)
 - [Automagically reverse-engineer REST APIs via capturing traffic](https://github.com/alufers/mitmproxy2swagger)
 - https://blog.postman.com/introducing-30-days-of-postman-coding-challenge
+- [Datacenter / Hosting IP Address API - Find out if an IP address belongs to a hosting provider such as AWS, Azure or Digitalocean](https://github.com/NikolaiT/IP-Address-API)

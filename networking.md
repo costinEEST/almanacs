@@ -405,17 +405,6 @@
 - [Build your own Internet | Billie Hilton](https://www.youtube.com/playlist?list=PLbjZkI1beTSOZgCDL6LJHBhBrnhEmaWdt)
 - [Set of tools to help you build your own privacy network over internet](https://www.v2ray.com/en) + https://github.com/v2fly/v2fly-github-io
 
-
-### SSH
-
-- [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained)
-- https://community.turgensec.com/ssh-hacking-guide
-- https://sysdogs.com/on-secure-shell-security
-- https://susam.in/blog/file-transfer-with-ssh-tee-and-base64
-- https://blog.fox-it.com/2020/11/11/decrypting-openssh-sessions-for-fun-and-profit
-- [Copy files to a Vagrant VM via SCP.](https://github.com/invernizzi/vagrant-scp)
-- https://github.com/opsdisk/the_cyber_plumbers_handbook + https://opsdisk.gumroad.com/l/cphlab/blackfriday2021
-
 ### SRP
 
 - https://www.onaralili.com/posts/srp

@@ -511,6 +511,7 @@
 - https://kevinjmurphy.com/posts/scraping-buy
 - https://github.com/marcgg/List-of-Country-Names-and-Associated-Locales
 - https://github.com/juliensobrier/google-safe-browsing-lookup-ruby
+- https://blinry.org/how-to-blog-with-nanoc
 
 ### Static generator
 

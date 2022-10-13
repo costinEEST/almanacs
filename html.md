@@ -207,6 +207,7 @@
 - https://github.com/mame/world-flag-search
 - [Convert Word documents (.docx files) to HTML](https://github.com/mwilliamson/mammoth.js)
 - [Live HTML Editor](https://htmledit.squarefree.com)
+- [A fast checker for broken links/references](https://github.com/modernweb-dev/rocket/tree/main/packages/check-html-links)
 
 ### Cinema
 

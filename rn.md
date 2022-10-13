@@ -23,6 +23,7 @@
 - https://www.makeuseof.com/react-native-blockchain-apps
 - [Mattermost is an open source platform for secure collaboration across the entire software development lifecycle](https://github.com/mattermost/mattermost-mobile)
 - https://github.com/standardnotes/mobile
+- [Experimenting with awesome React Native + Expo features](https://github.com/barthap/expo-mega-demo)
 
 ### Cinema
 
@@ -33,6 +34,7 @@
 - [Learn how to build the beginnings of a Minecraft clone using Expo and React Native.](https://www.youtube.com/playlist?list=PLY1aWv2j4oDEQVEcd6a8LswmmxJS_Az9e)
 - [How To Animated |  evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6)
 - [React Native Live | Infinite Red](https://www.youtube.com/playlist?list=PLFHvL21g9bk1VLtNYIDk8VrPyN3hyWl44)
+- https://github.com/software-mansion-labs/drawings-and-animations-workshop
 
 ### Course
 
@@ -63,6 +65,17 @@
 - https://github.com/Naturalclar/expo-typescript-starter
 - https://elazizi.com/how-to-structure-a-react-native-project
 - https://mmazzarolo.com/blog/2021-09-11-running-react-native-everywhere
+- https://github.com/aarongrider/react-native-boilerplate
+- https://github.com/Andarius/rn-animations-playground
+
+### Internal 
+
+- http://blog.nparashuram.com/2019/01/react-natives-new-architecture-glossary.html
+- https://github.com/barthap/discovering-turbomodules
+- https://github.com/terrysahaidak/TurboModuleExample
+- https://github.com/software-mansion-labs/react-native-turbo-demo
+- [How to use the New Architecture (Fabric & TurboModules)](https://github.com/react-native-community/RNNewArchitectureApp)
+- https://github.com/talknagish/react-native-turbo-starter
 
 ### Tool
 
@@ -80,12 +93,13 @@
 - [Test-Driven Development in React Native](https://www.youtube.com/playlist?list=PLXXnezSEtvNPZroRdvjhEVzOhURl572Lf)
 - https://github.com/matijagrcic/react-native/blob/main/Testing.md + https://twitter.com/wcandillon/status/1438763533303533568
 - https://emelkan.hashnode.dev/my-top-5-demo-apps-to-practice-software-testing
-- https://docs.expo.dev/build-reference/e2e-tests + https://www.bogdan.digital/react-native/how-to-run-detox-with-expo-eas-builds-and-write-mocks-for-it + 
+- https://docs.expo.dev/build-reference/e2e-tests + https://www.bogdan.digital/react-native/how-to-run-detox-with-expo-eas-builds-and-write-mocks-for-it
+- https://github.com/microsoft/react-native-test-app
 
 ### Development
 
 - https://www.giacomocerquone.com/blog/start-with-react-native
-- [How to use the New Architecture (Fabric & TurboModules)](https://github.com/react-native-community/RNNewArchitectureApp)
+
 - Run an app on 6 different platforms with the Exact same Codebase: [tweet](https://twitter.com/Baconbrix/status/1206583601648820224) + [talk](https://youtu.be/ykBxY01j_rA)
 - [Best way to share logic between a React web application and a React Native application?](https://twitter.com/gethackteam/status/1213527792144592896)
 - https://github.com/jbranchaud/til/blob/master/react_native/avoid-the-notch-with-safeareaview.md
@@ -123,7 +137,6 @@
 - https://github.com/vickOnRails/react-native-casestudies
 - https://johnwcassidy.medium.com/the-architecture-of-good-user-flow-6d658c6e3111
 - https://javascript.plainenglish.io/creating-an-app-icon-is-easy-270dc57c18a0
-- [Monitor and measure React Native performance](https://github.com/oblador/react-native-performance)
 - https://brooklinmyers.medium.com/react-native-understanding-threads-e026c7d62bb2
 - https://www.shopify.com/partners/blog/react-native-accessibility
 - https://github.com/ReactNativeSchool/react-native-ecommerce-app
@@ -164,6 +177,7 @@
 - [Use ESBuild to make your React Native code bundle faster.](https://github.com/EvanBacon/metro-minify-esbuild)
 - https://github.com/DylanVann/react-native-fast-image
 - [Seeing many people compare React Navigation to React Router](https://twitter.com/satya164/status/1490279552882511878)
+- [Keyboard manager which works in identical way on both iOS and Android](https://github.com/kirillzyusko/react-native-keyboard-controller)
 
 ### Debugging
 
@@ -175,6 +189,8 @@
 - [An HTTP network request monitor for React Native with in-app interface for iOS and Android with no native code](https://github.com/alexbrazier/react-native-network-logger)
 - https://www.echowaves.com/post/a-bug-that-made-me-a-better-developer + https://medium.com/@echowaves/a-bug-that-made-me-a-better-developer-707b9dfa50ab
 - https://www.deadf00d.com/post/how-to-earn-money-by-hacking-a-walking-for-money-app.html
+- https://github.com/software-mansion-labs/react-native-memory-leak-example
+- https://github.com/vrozaev/react-native-screens-text-input-bug-reproduce
 
 ### Performance
 
@@ -190,6 +206,10 @@
 - https://blog.bam.tech/developer-news/measuring-and-improving-react-native-apps-startup-time
 - [One of the biggest misconceptions about React Native is that it has worse performance than native iOS/Android](https://twitter.com/Ashoat/status/1425906197992026114)
 - https://dev.to/dalcib/esbuild-react-native-web-v-final-465p
+- http://blog.nparashuram.com/2019/04/lazy-native-modules-react-native-android.html
+- [Monitor and measure React Native performance](https://github.com/oblador/react-native-performance)
+- https://github.com/bamlab/react-native-flipper-performance-monitor
+- https://github.com/bamlab/android-performance-profiler
 
 ### Radio
 

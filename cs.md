@@ -167,6 +167,7 @@
 - [The Apollo Guidance Computer: Architecture and Operation | Frank O'Brien](https://www.amazon.com/Apollo-Guidance-Computer-Architecture-Operation/dp/1441908765)
 - [A Romp Through Computer History | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3AwXZNxJnhlNCvRTzQvh2R1)
 - https://blog.nelhage.com/post/apollo-bibliography
+- http://www.charlespetzold.com/videos
 
 ### Miscellaneous
 

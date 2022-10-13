@@ -1,3 +1,13 @@
+### Application  
+
+- [macOS status monitoring app](https://github.com/gao-sun/eul)
+- https://github.com/onmyway133/archives
+- [Make any website your Mac desktop wallpaper](https://github.com/sindresorhus/Plash)
+- [The Particle Binder](https://github.com/TheIntelCorei9/Swift-Student-Challenge)
+- [iOS app to extract full-resolution video frames as images](https://github.com/arthurhammer/FrameGrabber)
+- [DEF CON Hacker Tracker](https://github.com/BeezleLabs/HackerTracker-iOS)
+- https://github.com/CodeEditApp/CodeEdit
+
 ### Algorithm
 
 - https://github.com/raywenderlich/swift-algorithm-club
@@ -30,14 +40,6 @@
 - [John Gallaugher](https://gallaugher.com)
 - [Collin Cunningham](https://github.com/stars/CollinCunningham/lists/ios)
 
-### Inspire 
-
-- [macOS status monitoring app](https://github.com/gao-sun/eul)
-- https://github.com/onmyway133/archives
-- [Make any website your Mac desktop wallpaper](https://github.com/sindresorhus/Plash)
-- [The Particle Binder](https://github.com/TheIntelCorei9/Swift-Student-Challenge)
-- [iOS app to extract full-resolution video frames as images](https://github.com/arthurhammer/FrameGrabber)
-- [DEF CON Hacker Tracker](https://github.com/BeezleLabs/HackerTracker-iOS)
 
 
 ### Development

@@ -93,6 +93,7 @@
 - https://www.freecodecamp.org/news/automate-your-life-with-python
 - [Python for Defenders](https://taggarttech.teachable.com/courses/enrolled/1875566)
 - https://github.com/octallium/modern-python-101 + https://youtu.be/jH85McHenvw
+- https://mattsegal.dev/category/django.html + https://www.youtube.com/playlist?list=PLQQCZhK0_MHG2SCVMwQACRrj8YuGIJj7N
 
 ### Compiler 
 
@@ -311,6 +312,7 @@
 - https://alexwlchan.net/2021/04/s3-progress-bars
 - [Recreating grep](https://kevingal.com/blog/cli-tools.html)
 - [when using Jupyter notebooks](https://twitter.com/nelhage/status/1563318458187583490)
+- [Parse Network Info Databases (ARIN/APNIC/LACNIC/AfriNIC/RIPE)](https://github.com/firefart/network_info)
 
 ### Testing
 

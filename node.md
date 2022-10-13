@@ -325,6 +325,10 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 - [Upgrade a regular `net.Stream` connection to a secure `tls` connection](https://gist.github.com/TooTallNate/848444)
 
+### `node:process`
+
+- [Human-friendly process signals](https://github.com/ehmicky/human-signals)
+
 ### `node:tls`
 
 - https://obensource.com/blogs/https-for-local-development
@@ -342,6 +346,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Publish JS project as dual ES modules and CommonJS package to npm](https://github.com/ai/dual-publish)
 - https://dev.to/jakobjingleheimer/custom-esm-loaders-who-what-when-where-why-how-4i1o
 - [If you are on commonjs with no plan to upgrade](https://twitter.com/matteocollina/status/1554157532381429762)
+- [How to write CommonJS exports that can be name-imported from ESM](https://2ality.com/2022/10/commonjs-named-exports.html)
 
 ### Event loop
 
@@ -357,6 +362,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Output a buffer in emojis](https://github.com/pfrazee/base-emoji)
 - https://kevin.burke.dev/kevin/node-js-string-encoding
 - [Proposal for future Node.js streaming data APIs: "Bytes over Buffers"](https://fishrock123.github.io/nodejs-collab-summit-montreal-2019) + https://github.com/Fishrock123/bob
+- https://tchayen.com/ttf-file-parsing
 
 ### Crypto `node:crypto`
 
@@ -473,6 +479,9 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler
 - [Clean up your unused repos via the CLI within seconds](https://github.com/adrianmg/github-pewpew)
 - [A list of all the public package names on npm](https://github.com/nice-registry/all-the-package-names)
+- [A fast offline IP lookup library. Detects VPN/hosting](https://github.com/Umkus/ip-index)
+- [converts CRON expressions into human readable descriptions](https://github.com/bradymholt/cronstrue)
+- [Easy to use WHOIS info for domains, TLDs and IPs](https://github.com/LayeredStudio/whoiser)
 
 ### Testing
 
@@ -490,6 +499,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [A Jest runner that runs tests directly in bare Node.js, without virtualizing the environment](https://github.com/nicolo-ribaudo/jest-light-runner)
 - https://dfkaye.com/posts/2020/12/10/using-hugo-for-tdd-with-javascript
 - https://dfkaye.com/posts/2020/12/02/data-driven-testing-with-wheredoc
+- https://medium.com/nerd-for-tech/testing-in-node-js-easy-way-to-mock-filesystem-883b9f822ea4
+- https://sprkl.dev/observability-jest-tests
 
 ### Scrapping
 

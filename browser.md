@@ -92,6 +92,7 @@
 - https://ninoseki.github.io/2020/05/16/browser-extension.html
 - https://github.com/ryanckulp/twitter_ad_blocker
 - [The browser extension framework](https://github.com/PlasmoHQ/plasmo)
+- [A Chrome extension that adds a 3d photo effect to instagram pages](https://github.com/cyrildiagne/instagram-3d-photo)
 - [Firefox addon for passively detecting GPS Exif information in JPEGs](https://addons.mozilla.org/en-US/firefox/addon/gpsdetect)
 - [JShelter controls the APIs provided by the browser, restricting the data that they gather and send out to websites](https://pagure.io/JShelter/webextension/tree/main)
 - [Identify technology on websites.](https://github.com/AliasIO/wappalyzer)
@@ -462,6 +463,7 @@ javascript: (() =>
 ### WebGL
 
 - https://github.com/davidwparker/programmingtil-webgl + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl
+- https://tchayen.com/brief-explanation-of-webgl
 - https://www.pheelicks.com/speaking
 - https://github.com/luruke/awesome-casestudy
 - https://github.blog/2020-12-21-how-we-built-the-github-globe
@@ -553,6 +555,7 @@ javascript: (() =>
 ### History
 
 - https://webinista.com/updates/flash-end-of-life + https://twitter.com/mattmay/status/1344728355912880129 + http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive 
+- [Last publicly available revision of the world's first web browser](https://github.com/cynthia/WorldWideWeb)
 
 ### WebCryptoAPI
 

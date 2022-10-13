@@ -27,10 +27,13 @@
 - [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://www.youtube.com/playlist?list=PLFGFKs8nQ3EbG-ykV8xc1mBt99sqq2Ssx) + https://github.com/dijonmusters/e-commerce-in-25-days
 - https://github.com/tannerlinsley/react-query-essentials
 - [Modernizing an Enterprise React App | Paige Niedringhaus](https://www.newline.co/courses/newline-guide-to-modernizing-an-enterprise-react-app)
+- https://tchayen.com/understanding-react-by-implementing-it
+- https://aidenybai.com/thoughts/virtual-dom + https://github.com/aidenybai/million
 
 ### Boilerplate
 
 - https://github.com/UnlyEd/next-right-now
+- https://dev.to/alexeagleson/how-to-build-a-fullstack-nextjs-application-with-storybook-tailwindcss-2gfa
 - https://github.com/hgraca/explicit-architecture-reactjs
 - https://github.com/nice-boys/product-boilerplate
 - https://github.com/dasmata/styleguide

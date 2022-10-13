@@ -116,6 +116,7 @@
 - [Machine Learning Course - Halmstad University](https://www.youtube.com/playlist?list=PLS8J_PRPtGfdnPf9QqT7Itnn2rAHsoWqY)
 - https://decision.substack.com/p/full-course-making-friends-with-ml
 - [Beep Boop: Learn AI/ML for free!](https://www.youtube.com/playlist?list=PLZEDsU5Jf868j_oCENz8jonsdTTVp5svv)
+- [Israel Algorithmic Game Theory Seminar](https://sites.google.com/view/iagtseminar)
 
 ### Community
 
@@ -154,7 +155,7 @@
 - https://github.com/stars/yamalight/lists/machine-learning-things
 - [Links Detector makes printed links clickable via your smartphone camera](https://github.com/trekhleb/links-detector)
 
-### Neural networks
+### Neural network
 
 - https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
 - https://github.com/amzn/computer-vision-basics-in-microsoft-excel
@@ -162,6 +163,7 @@
 - https://www.digitalocean.com/community/tutorials/how-to-trick-a-neural-network-in-python-3
 - https://github.com/Kayzaks/HackingNeuralNetworks
 - https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
+- https://github.com/humphd/have-fun-with-machine-learning
 
 ### CNN
 
@@ -179,6 +181,7 @@
 - https://www.todaysoftmag.ro/article/3614/propunere-de-carte-machine-learning
 - [Personalized Recommendation system with Python](https://github.com/kizoey/book-personal-recommendation)
 - [Deep Learning | João Araújo](https://www.youtube.com/playlist?list=PL-iSnl3GkU0d7CVxHDVKSkfhtFujIjbfh)
+- https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
 
 ### Paper
 

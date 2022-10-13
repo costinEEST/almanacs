@@ -83,6 +83,7 @@
 - https://www.bbc.com/future/article/20210818-the-hand-gestures-that-last-longer-than-spoken-languages
 - https://etymologeek.com
 - [Alternative to Google Translate with a more user friendly ToS](https://www.deepl.com/translator)
+- https://lindiebotes.com/2022/10/12/9-quick-tips-to-find-resources-for-lesser-learned-languages
 
 ### Communities
 
@@ -197,6 +198,7 @@
 - https://vivariumnovum.it/risorse-didattiche/propria-formazione/metodo-diretto-applicato-alle-lingue-moderne
 - https://language-intense.ro/vasile-ioana
 - [German: Biography of a Language | Ruth H. Sanders](https://www.goodreads.com/book/show/7799922-german)
+- https://github.com/blinry/anki-german-sign-language
 
 ### Greek
 
