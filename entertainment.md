@@ -85,6 +85,9 @@
 - [Johann Wolfgang Goethe, Faust](https://humanitas.ro/assets/pdf/Goethe_Faust.pdf)
 - [Circe, by Madeline Miller](https://www.worldcat.org/title/circe/oclc/1029842077)
 - [Joseph Campbell Foundation Mythological RoundTables of OPUS at Pacifica Graduate Institute](https://www.youtube.com/playlist?list=PLFmuBnNReE1X5t57vQ7cAusSlb-YDw3db)
+- https://en.wikipedia.org/wiki/Psychopomp + https://ro.wikipedia.org/wiki/Psihopomp
+- https://lumeninmundo.com/2017/11/28/mircea-eliade-samanismul-si-tehnicile-arhaice-ale-extazului + https://monoskop.org/File:Eliade_Mircea_%C5%9Eamanismul_%C5%9Fi_tehnicile_arhaice_ale_extazului_1997.pdf
+- https://ro.wikipedia.org/wiki/Solomonar
 
 ### Mysticism
 

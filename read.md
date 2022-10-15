@@ -49,6 +49,7 @@
 ### Science fiction (SF)
 
 - https://www.amazon.com/Origin-Stories-Evolution-Cognition-Fiction/dp/0674057112
+- https://www.discovermagazine.com/the-sciences/how-the-term-mad-scientist-began-and-how-it-shapes-our-world
 
 ### Review
 

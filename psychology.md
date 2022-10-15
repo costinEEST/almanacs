@@ -52,6 +52,7 @@
 ### Persuation
 
 - https://www.amazon.com/Guru-Papers-Masks-Authoritarian-Power/dp/1883319005
+- https://www.nickkolenda.com/free-guides
 
 ### Sexuality
 

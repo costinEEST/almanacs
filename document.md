@@ -48,6 +48,7 @@ https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vid
 
 ### Tool
 
+- https://www.archives.gov/preservation/digital-preservation/linked-data
 - [Convert a Windows/DOS file extension to a mimetype.](https://dorper.me/ext2mime)
 - [A book build system that produces PDF, EPUB and MOBI from asciidoc to Amazon specifications](https://github.com/merklebloom/bookbuilder)
 - https://github.com/ReversingID/Awesome-Reversing/blob/master/_format.md

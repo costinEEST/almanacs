@@ -90,6 +90,7 @@
 - https://pspeter3.com/blog/2020/02/19/accessible-contrast-shades
 - [Interactive version of Sanzo Wada's - "A Dictionary of Color Combinations"](https://github.com/dblodorn/sanzo-wada)
 - https://blinry.org/what-is-color
+- https://www.nickkolenda.com/color-psychology
 
 ### Community
 

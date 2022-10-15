@@ -22,6 +22,7 @@
 - https://www.amazon.com/Official-Guide-Mermaid-js-beautiful-flowcharts-ebook-dp-B098KHTVJ2/dp/B098KHTVJ2
 - https://github.com/EunBinChoi/Python-for-Data-Analysis-master
 - https://shepherd.com/best-books/learning-how-to-code-interactive-graphics
+- [Science Illustration. A History of Visual Knowledge from the 15th Century to Today](https://www.thisiscolossal.com/2022/10/science-illustration-book)
 
 ### Cinema
 

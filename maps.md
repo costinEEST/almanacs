@@ -66,5 +66,6 @@
 
 ### Radio
 
+- http://stevenseegel.com
 - https://newbooksnetwork.com/mark-monmonier-connections-and-content-reflections-on-networks-and-the-history-of-cartography-esri-press-2019
-- https://newbooksnetwork.com/matthew-edney-cartography-the-ideal-and-its-history-u-chicago-press-2019/
+- https://newbooksnetwork.com/matthew-edney-cartography-the-ideal-and-its-history-u-chicago-press-2019

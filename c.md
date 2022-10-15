@@ -128,6 +128,7 @@
 - https://skeeto.s3.amazonaws.com/share/onward17-essays2.pdf
 - [It's not OK to ship software in memory-unsafe languages.](https://twitter.com/tqbf/status/1354170650806657024)
 - https://gankra.github.io/blah/c-isnt-a-language
+- [Teaching C](https://blog.regehr.org/archives/1393)
 
 ### Practice
 
