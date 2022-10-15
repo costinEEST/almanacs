@@ -5,6 +5,7 @@
 - https://adambard.com/blog/programatically-liquidating-my-steam-inventory
 - https://github.com/mjhea0/awesome-fastapi
 - https://blog.thea.codes/building-a-stateless-api-proxy
+- https://twitter.com/realpython/status/1575825380992319488 + https://blog.symops.com/2022/09/07/evolution-access-control-python
 
 ### Algorithm
 

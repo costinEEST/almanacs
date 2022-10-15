@@ -4,6 +4,7 @@
 - https://github.com/ChrisBr/oauth2-sample-app
 - [Best Gems for authentication and authorization in Ruby on Rails applications](https://twitter.com/raf_piek/status/1502598704334733314)
 - https://github.com/lazaronixon/authentication-zero
+- https://www.osohq.com/post/learn-authorization-from-rails
 
 ### API
 

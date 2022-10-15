@@ -1,6 +1,8 @@
 ### APIs
 
 - [A site to test the interaction of web APIs and browser permissions.](https://github.com/chromium/permission.site)
+- https://web.dev/new-patterns-for-amazing-apps
+- https://blog.stackblitz.com/posts/introducing-webcontainers
 - https://github.com/NOtherDev/whatwebcando
 - https://github.com/samdutton/simpl
 - [How to Get Around Newspaper Paywalls in 2019](https://t.co/pVtMutYzns)

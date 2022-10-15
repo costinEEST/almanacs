@@ -142,6 +142,7 @@
 - https://kubernetesinpractice.com/kubernetes-in-practice-sample.pdf
 - https://github.com/walidshaari/Kubernetes-Certified-Administrator
 - [A set of exercises to prepare for Certified Kubernetes Application Developer exam](https://github.com/dgkanatsios/CKAD-exercises)
+- https://github.com/K8sAcademy/Fundamentals-HandsOn
 
 ### Server
 
