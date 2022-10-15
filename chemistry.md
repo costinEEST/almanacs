@@ -38,6 +38,7 @@ https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-so
 - http://lacey.se/2018/11/26/my-week-realscientists
 - [Behind the Nobels](https://www.youtube.com/playlist?list=PLOBSt4XMk5LVQEWmjOQA4KlyU-KzDLEB0)
 - [NWACC Mineral Lab Videos](https://www.youtube.com/playlist?list=PLmRQwysTuceeU-mKTxd1rEATM-0SlXlzQ)
+- https://www.westernpyro.org/recordings
 
 ### Course
 
@@ -51,6 +52,7 @@ https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-so
 - https://github.com/nikitavoloboev/knowledge/blob/main/chemistry/chemistry.md
 - https://hardware.slashdot.org/story/17/04/19/016213/the-slashdot-interview-with-lithium-ion-battery-inventor-john-b-goodenough
 - https://wis-wander.weizmann.ac.il/chemistry/kavli-prize-awarded-prof-jacob-sagiv
+- [Mark Anticole](https://guillotinedchemistry.com)
 
 
 ### Miscellaneous

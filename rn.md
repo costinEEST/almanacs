@@ -67,6 +67,7 @@
 - https://mmazzarolo.com/blog/2021-09-11-running-react-native-everywhere
 - https://github.com/aarongrider/react-native-boilerplate
 - https://github.com/Andarius/rn-animations-playground
+- https://github.com/ovistoica/react-native-modern-template
 
 ### Internal 
 

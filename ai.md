@@ -182,6 +182,7 @@
 - [Personalized Recommendation system with Python](https://github.com/kizoey/book-personal-recommendation)
 - [Deep Learning | João Araújo](https://www.youtube.com/playlist?list=PL-iSnl3GkU0d7CVxHDVKSkfhtFujIjbfh)
 - https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+- https://github.com/Atcold/pytorch-Deep-Learning
 
 ### Paper
 

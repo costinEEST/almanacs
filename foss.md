@@ -21,6 +21,7 @@
 - [by ex-googlers, for ex-googlers - a lookup table of similar tech & services](https://github.com/jhuangtw/xg2xg)
 - [by ex-Facebookers, for ex-Facebookers - a lookup table of similar tech & services](https://github.com/greko6/xfb2xfb)
 - https://github.com/NullHypothesis/internet-freedom-jobs
+- https://github.com/italia-opensource/awesome-italia-opensource
 
 ### Tool
 

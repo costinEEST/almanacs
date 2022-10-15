@@ -159,12 +159,13 @@
 
 - https://www.emag.ro/timpul-chitarelor-florian-pitis-dorin-liviu-zaharia-si-epoca-folk-doru-ionescu-eik978-606-711-711-0/pd/D7G8NFBBM + https://carturesti.ro/carte/timpul-chitarelor-cornel-chiriac-si-epoca-beat-1041696 + https://www.facebook.com/tvrplus/posts/2102991826466028 + https://www.facebook.com/FlorinChilianOfficial/posts/248015428618478
 
-### Hip Hop
+### Rap
 
 - [Lyrical Breakdowns - Behind That Suit](https://www.youtube.com/playlist?list=PLeOfpS14yhmFk0wvWMLQYkArbkxEhDLRM)
 - https://sandymaguire.me/blog/rap-guide
 - https://soulislove.com/kategori/rap
 - [Hip Hop to da Head](https://www.youtube.com/playlist?list=PL3FF42D99BD0CFC43)
+- https://nashuproar.org/38921/features/hip-hop-club-feature
 
 ### News
 

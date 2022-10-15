@@ -27,6 +27,7 @@
 - [Matter and Radiation](https://www.youtube.com/playlist?list=PL2jykFOD1AWY_okCphwz0yRRb-WWO_irh)
 - [The Biggest Ideas in the Universe | Sean Carroll](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) + https://www.preposterousuniverse.com/biggestideas/videos
 - [Going Nuclear - The Science Of Nuclear Weapons | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
+- [A Brief Tour of Relativity and Cosmology | Robert A. McNees](http://jacobi.luc.edu/AdlerTalk.pdf)
 
 ### Course
 
@@ -34,6 +35,10 @@
 - [ME302: Mechatronics](https://github.com/saylordotorg/course_me302)
 - https://github.com/johnwstanford/feynman_lecture_notes
 - [Introduction to Loop Quantum Gravity - Carlo Rovelli](https://www.youtube.com/playlist?list=PLwLvxaPjGHxR6zr421tXXlaDGbq8S36Un)
+
+### Physician
+
+- J.J. Thomson: https://twitter.com/mcnees/status/1339963246174990336
 
 ### Miscellaneous
 

@@ -1,5 +1,6 @@
 ### Book 
 
+- [Quantum Theory | David Bohm](https://www.youtube.com/watch?v=-bf9rxkBUHc&lc=UgxtGTVegzpRLat0LGZ4AaABAg)
 - [Introduction to Classical and Quantum Computing | Thomas G. Wong](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 - [Quantum Field Theory, as Simply as Possible | Tony Zee](https://twitter.com/curiouswavefn/status/1553186104987111425)
 - http://www.daviddeutsch.org.uk/books/the-fabric-of-reality + https://www.youtube.com/playlist?list=PLsE51P_yPQCQj5HxV0KPVpzxT03ScIjDJ
@@ -15,6 +16,7 @@
 
 ### Cinema 
 
+- [Mithuna Yoganathan](https://www.youtube.com/user/LookingGlassUniverse/about)
 - [Centre for Quantum Technologies](https://www.youtube.com/c/quantumlah/playlists)
 - https://www.youtube.com/playlist?list=PLEBQWzRBb4ioWmrK6jpS3fUI6d_2JeKRp
 - [Early History of Quantum Mechanics | Kathy Joseph](https://www.youtube.com/playlist?list=PLepnjl2hm9tG2VXMd1edYxATvFdA3hcLP)

@@ -84,6 +84,7 @@
 - [Dan Boneh](https://crypto.stanford.edu/~dabo)
 - http://gustavbertram.com/fun/cryptanalysis
 - http://gustavbertram.com/fun/cryptarithmetic
+- [Angela Robinson, NIST](https://www.ams.org/publicoutreach/mathmoments/mm158-post-quantum-cryptography)
 
 ### Inspire
 

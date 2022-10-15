@@ -105,10 +105,14 @@
 - [What are some of your favorite recorded math lecturers or talks?](https://twitter.com/JulietteBruce12/status/1538513290178965504)
 - [Math For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
 - [Doing the math | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmpjIoZHybXD4xmXXYrTqlk)
+- [Burkard Polster](https://www.youtube.com/c/Mathologer/playlists) + [Putting Two and Two Together: Selections from the Mathologer Files](https://bookstore.ams.org/mbk-141)
 
 ### Community
 
+- [American Mathematical Society](https://twitter.com/amermathsoc)
 - http://gustavbertram.com/learning/math
+- [The World of YouTube Math Communication | Scott Hershberger](https://www.ams.org/journals/notices/202210/rnoti-p1789.pdf)
+- [Edward Frenkel](https://www.youtube.com/c/edfrenkel/playlists)
 
 ### Mathematicians
 

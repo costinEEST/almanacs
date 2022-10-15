@@ -8,6 +8,7 @@
 ### Cinema 
 
 - https://clojureverse.org/t/clojurescript-compiler-internals-with-mike-fikes/7141
+- https://www.youtube.com/playlist?list=PLb0lswj12Ntx1zt9QqcI6j9d8XB2YAFsb
 
 ### Community
 

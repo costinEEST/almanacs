@@ -160,6 +160,7 @@
 - https://github.com/hyperreality/American-British-English-Translator
 - https://en.wikipedia.org/wiki/Rhoticity_in_English
 - https://unchartedterritories.tomaspueyo.com/p/should-everybody-learn-english
+- [Why linguists believe in invisible words - the story of zeros](https://www.patreon.com/posts/new-anim-zeros-73182390)
 
 ### Esperanto
 
@@ -283,6 +284,7 @@
 - https://archive.org/details/onlatinlanguage01varruoft + https://koaha.org/wiki/De_lingua_latina + http://www.attalus.org/info/varro.html + https://la.wikisource.org/wiki/De_Lingua_Latina_(Varro,_Schoppe)
 - https://www.youtube.com/playlist?list=PL2Ky2_VcYEd0bGOqRl_drTItO_Ve-Pt7_
 - https://ayanacademy.myshopify.com/collections/latin-library
+- [Manual of Romance Phonetics and Phonology | Christoph Gabriel, Randall Gess and Trudel Meisenburg](https://www.degruyter.com/document/doi/10.1515/9783110550283/html?lang=en#contents)
 
 ### Lithuanian
 
@@ -343,6 +345,7 @@
 - https://blog.duolingo.com/what-is-spanish-vosotros
 - [Ciudades invisibles](https://www.youtube.com/playlist?list=PLezWW2OfKKa5aDoTs9HUkl7C02qvFFJpK)
 - https://www.academia.edu/11853314/Saber_ver_la_arquitectura_Zevi_Bruno
+- [Carme Jiménez Huertas](https://independent.academia.edu/CarmeJHuertas) + https://www.google.com/search?q=Nu+venim+din+latina+Carme+Jimenez+Huertas + https://youtu.be/7IUl4HljK1o + https://www.youtube.com/playlist?list=PL7uJpL8aYbq7TcjlzL5KuUfVt8_joPHLO
 
 ### Swedish
 
