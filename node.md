@@ -35,6 +35,7 @@
 - https://github.com/mikesherov/web-security-essentials
 - https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications
 - https://github.com/koenbuyens/oauth-2.0-security-cheat-sheet
+- https://github.com/spotify/web-api-auth-examples
 
 ### API
 

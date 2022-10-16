@@ -346,6 +346,7 @@
 - [Ciudades invisibles](https://www.youtube.com/playlist?list=PLezWW2OfKKa5aDoTs9HUkl7C02qvFFJpK)
 - https://www.academia.edu/11853314/Saber_ver_la_arquitectura_Zevi_Bruno
 - [Carme Jiménez Huertas](https://independent.academia.edu/CarmeJHuertas) + https://www.google.com/search?q=Nu+venim+din+latina+Carme+Jimenez+Huertas + https://youtu.be/7IUl4HljK1o + https://www.youtube.com/playlist?list=PL7uJpL8aYbq7TcjlzL5KuUfVt8_joPHLO
+- https://www.printrecarti.ro/palmira-arnaiz
 
 ### Swedish
 
