@@ -5,6 +5,7 @@
 - [Lotti is a smart journaling app that allows you to track relevant data about your life, in complete privacy](https://github.com/matthiasn/lotti)
 - https://www.amazon.com/Flutter-Complete-Reference-Create-beautiful-ebook
 - [Free and open-source tool to visualize your keystrokes in real-time](https://github.com/mulaRahul/keyviz)
+- [helps you gradually build long-lasting habits](https://github.com/Glitchy-Tozier/githo)
 
 ### Book 
 

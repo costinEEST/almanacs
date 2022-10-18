@@ -36,6 +36,7 @@
 - https://github.com/jagregory/abrash-zen-of-asm + https://www.amazon.com/-/es/gp/customer-reviews/R1B8JYBBI79706/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0673386023 + https://prog21.dadgum.com/19.html
 - [Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architecture Book | Igor Zhirkov](https://twitter.com/embeddedgus/status/1554874891307982853)
 - https://github.com/isislovecruft/library--/tree/master/languages/assembly
+- https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet/tree/master/ASM
 
 ### Course
 

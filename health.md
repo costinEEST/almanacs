@@ -367,6 +367,8 @@
 - https://www.gowinglife.com/top-10-health-and-longevity-innovations-in-2020
 - https://mariakonovalenko.wordpress.com/2015/06/17/the-mtor-story-part-1-what-makes-this-important-pro-aging-molecule-active
 - https://newatlas.com/medical/anti-aging-vaccine-senolytics-senescent-cells
+- https://github.com/geekan/HowToLiveLonger
+- https://github.com/zijie0/HumanSystemOptimization
 
 ### Virus
 

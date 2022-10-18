@@ -54,6 +54,7 @@
 
 ### Community
 
+- https://github.com/denisnazarov/awesome-crypto-trackers
 - [Nick Szabo](http://unenumerated.blogspot.com)
 - [Emin Gün Sirer](https://hackingdistributed.com)
 - [Jeffrey Paul](https://sneak.berlin/20190521/writing-is-hard-for-me)
@@ -64,7 +65,6 @@
 - [Shayan Eskandari](https://medium.com/@sbetamc)
 - [Julien Klepatch](https://dev.to/jklepatch)
 - [Who are the under-appreciated heroes of Ethereum?](https://twitter.com/jinglejamOP/status/1436458822952886272)
-- https://github.com/denisnazarov/awesome-crypto-trackers
 - https://twitter.com/WeekInEthNews
 - [Telegram groups](https://gist.github.com/balupton/dc2bda09f326262793a9e73189e75105)
 - [Hasu](https://twitter.com/hasufl)

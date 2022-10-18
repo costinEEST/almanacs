@@ -68,7 +68,7 @@
 - https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming
 - https://github.com/jakerockland/go-vs-swift
 
-### Reference
+### Cheat sheet 
 
 - https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
@@ -80,6 +80,7 @@
 - https://github.com/kudoleh/iOS-Modular-Architecture
 - https://github.com/joemasilotti/UI-Testing-Cheat-Sheet
 - https://github.com/heckj/swiftui-notes
+- https://github.com/iwasrobbed/Swift-CheatSheet
 
 ### Security
 

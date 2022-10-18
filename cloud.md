@@ -54,6 +54,7 @@
 - [the story of Amazon Web Services](https://podcasts.apple.com/us/podcast/acquired/id1050462261?i=1000578485843&ck_subscriber_id=1697730854)
 - https://marcyoung.us/post/book
 - https://github.com/straithe/ReadingAndResourceLists/blob/master/AWS_IAM.md
+- https://0xd4y.com/2022/09/11/Hands-on-AWS-Penetration-Testing-Notes
 
 ### Azure
 
@@ -99,6 +100,7 @@
 - https://github.com/idevelop/google-cloud-speech-webaudio
 - https://cloud.google.com/blog/topics/retail/shopify-and-google-cloud-team-up-for-an-epic-bfcm-weekend + https://twitter.com/igrigorik/status/1468712709914984451
 - [auditing Google Cloud using Google Sheets](https://github.com/somethingnew2-0/SimpleCSPM)
+- https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes
 
 ### IBM
 

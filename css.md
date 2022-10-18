@@ -89,7 +89,7 @@
 - [Color tool based on human perception](https://github.com/ucarion/cielab.io)
 - https://pspeter3.com/blog/2020/02/19/accessible-contrast-shades
 - [Interactive version of Sanzo Wada's - "A Dictionary of Color Combinations"](https://github.com/dblodorn/sanzo-wada)
-- https://blinry.org/what-is-color
+- https://blinry.org/what-is-color + [Gamma correction: the secret behind pretty colors](https://www.youtube.com/watch?v=EkbcI3KgUuY&t=1647s)
 - https://www.nickkolenda.com/color-psychology
 
 ### Community

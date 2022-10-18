@@ -503,6 +503,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://dfkaye.com/posts/2020/12/02/data-driven-testing-with-wheredoc
 - https://medium.com/nerd-for-tech/testing-in-node-js-easy-way-to-mock-filesystem-883b9f822ea4
 - https://sprkl.dev/observability-jest-tests
+- https://github.com/m-radzikowski/aws-sdk-client-mock
 
 ### Scrapping
 

@@ -41,7 +41,7 @@
 - https://www.contributors.ro/noi-chinezii
 - [The difference between happiness, meaning, and true psychological richness](https://twitter.com/Julian/status/1482506906102943745) + https://www.apa.org/pubs/journals/releases/rev-rev0000317.pdf
 - https://medium.com/s/story/how-to-be-polite-9bf1e69e888c
-
+- https://jozsefkuszalik.wordpress.com/2022/10/11/antreprenoriat-analiza-ce-boala-mentala-am-eu-adhd-sau-bipolar-disorder-tulburare-bipolara
 
 
 ### Papers

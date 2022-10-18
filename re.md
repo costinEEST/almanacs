@@ -25,6 +25,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - http://www.righto.com/2016/02/reverse-engineering-arm1-processors.html
 - [Reading Silicon: How to Reverse Engineer Integrated Circuits | Ken Shirriff](https://youtu.be/aHx-XUA6f9g)
 
+
 ### Course
 
 - https://github.com/wtsxDev/reverse-engineering
@@ -57,6 +58,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - [Jonathan Brossard](https://www.slideshare.net/endrazine/presentations)
 - https://github.com/stong/infosec-resources
 - https://twitter.com/cezarcerekwicki/status/1574026431415328769 + https://learnappsec.com/blog/binary-exploitation-learning-path + https://omu.rce.so/gcc-2022 + https://twitter.com/gerbsec/status/1572284246630318080 + https://twitter.com/esj4y/status/1575187963163856896
+- [Reverse engineering firmware resources](https://twitter.com/tinkersec/status/1580316248960692224)
 
 ### Cinema
 
@@ -95,7 +97,6 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - [Restoring Picroma Plasma Without Patching it and Reverse Engineering an Unknown Instruction Set](https://github.com/ChrisMiuchiz/Plasma-Writeup)
 - [iOS Reverse Engineering](https://github.com/kpwn/iOSRE)
 - https://noorsiddiqui.com/greatest-hits-in-sidechannel-attacks
-- https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance
 - [ELF binaries](https://www.cs.stevens.edu/~jschauma/631/elf.html)
 
 ### Radio

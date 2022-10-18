@@ -167,3 +167,4 @@
 - [Jakob Cosoroabă](https://github.com/jcsrb/til)
 - [Kasper Zutterman](https://github.com/KasperZutterman/Second-Brain)
 - [Richard Littauer](https://github.com/RichardLitt/meta-knowledge)
+- [Du Lin](https://github.com/mrdulin/resources)

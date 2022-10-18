@@ -44,6 +44,7 @@
 - https://github.com/modenaxe/awesome-biomechanics
 - [Protein Data Bank](https://twitter.com/PDBeurope)
 - https://medium.com/@kshortridge/wtfunding-bioinformatics-genetic-data-753d6184af97
+- https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet/tree/master/Biohacking
 
 ### Cinema
 

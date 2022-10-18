@@ -80,6 +80,7 @@
 ### Mythology
 
 - [The Masks of God, 4 Vols by Joseph Campbell](https://www.goodreads.com/book/show/10159114-the-masks-of-god-4-vols)
+- https://www.amazon.com/Norse-Mythology-Heroes-Rituals-Beliefs/dp/0195153820
 - [Mythologica](https://www.youtube.com/user/delmonikos/playlists)
 - [Greek mythology](https://www.theoi.com)
 - [Johann Wolfgang Goethe, Faust](https://humanitas.ro/assets/pdf/Goethe_Faust.pdf)

@@ -15,6 +15,7 @@
 - https://rya.nc/artisanal-rsa.html
 - https://hackaday.com/2022/07/11/why-you-should-totally-roll-your-own-aes-cryptography
 - [Given two different implementations of a given algorithm, to what degree is it possible to mechanically prove that both implementations behave identically?](https://twitter.com/alokmenghrajani/status/1558572875455467521)
+- [Cryptography Fundamentals: Elliptic Curve Cryptography](https://twitter.com/SalomonCrypto/status/1580677281474699264)
 
 ### Best practices
 

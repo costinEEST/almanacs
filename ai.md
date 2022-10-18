@@ -72,6 +72,7 @@
 - https://github.com/lschmelzeisen/talk-supervised-learning-tensorflow
 - https://github.com/vidhanbhonsle/Image-Recognition-with-IBM-and-HERE-Workshop
 - https://github.com/dmvaldman/library/tree/master/ai
+- https://github.com/bfortuner/ml-glossary
 
 ### Course
 
@@ -102,8 +103,8 @@
 - https://github.com/DataScienceSpecialization/courses
 - https://github.com/HaleTom/pytorch-udacity-scholarship
 - https://laurencemoroney.com/2022/01/05/aiforanyone.html
-
-
+- https://github.com/dcetin/eth-cs-notes
+- https://github.com/zlotus/notes-LSJU-machine-learning
 
 ### Cinema
 
