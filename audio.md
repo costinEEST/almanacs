@@ -21,6 +21,7 @@
 ### Development 
 
 - https://medium.com/programming-for-music/introduction-to-audio-programming-8b9e7ecdeaea
+- [Calculating BPM using Javascript and the Spotify Web API](https://github.com/JMPerez/beats-audio-api)
 
 ### Cheat sheet 
 

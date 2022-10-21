@@ -278,6 +278,7 @@
 - http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-09-http-covert-channel-using-only-htmlcss-thomas-slota-william-york
 - https://github.com/PortSwigger/css-exfiltration + https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css
 - https://github.com/OliverBrotchie/CSS-Fingerprint
+- https://blog.huli.tw/2022/09/29/css-injection-2
 
 ### Opinion
 

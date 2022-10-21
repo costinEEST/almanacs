@@ -134,6 +134,10 @@
 - https://github.com/open-source-flash/open-source-flash
 - https://github.com/tylerault/flashdetect
 
+<script></script>
+
+- https://blog.huli.tw/2022/04/24/en/how-much-do-you-know-about-script-type
+
 ### <select></select>
 
 - https://sarahmhigley.com/writing/select-your-poison

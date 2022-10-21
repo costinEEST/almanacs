@@ -538,6 +538,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Aid automatic detection of in-browser cryptojacking](https://github.com/1lastBr3ath/drmine)
 - [Takes a screenshot of a given website and saves it to the given file](https://yossarian.net/snippets#nodeJS)
 - [Mac OS X Plist parser/builder](https://github.com/TooTallNate/plist.js)
+- [Who pollutes your prototype? Find the libs on cdnjs in an automated way](https://blog.huli.tw/2022/09/01/en/angularjs-csp-bypass-cdnjs)
 
 ### Micro service
 

@@ -29,6 +29,7 @@
 - [Make your own colliding PDFs](https://twitter.com/steike/status/834826657768865793)
 - [A JavaScript-powered CLI for converting HTML into PDFs](https://github.com/humanwhocodes/print-ready)
 - https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools
+- [Provides an overview of the inner file structure of a PDF](https://github.com/5f0ne/pdf-examiner)
 
 ### .png 
 

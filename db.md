@@ -202,6 +202,7 @@
 - https://github.com/mgp/book-notes/blob/master/sqlalchemy.markdown
 - [A More Human Approach To Databases](https://ccorcos.github.io/filing-cabinets)
 - https://shekhargulati.com/category/code-reading
+- https://github.com/harpribot/awesome-information-retrieval
 
 ### PostgreSQL
 

@@ -168,6 +168,7 @@
 - [Museum of Radio and Technology](https://www.youtube.com/playlist?list=PL23RW1AzagzdnwLhr52qxeYpYlQ0yi68s)
 - [Universal Radio Hacker: Investigate Wireless Protocols Like A Boss](https://github.com/jopohl/urh)
 - https://www.amazon.com/Principles-Digital-Audio-Sixth-Video/dp/0071663460
+- https://jpdias.me/radio/space/sdr/2021/09/28/sats-and-radio-notes.html
 
 ### 3G
 

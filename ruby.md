@@ -294,6 +294,7 @@
 - [parse a standard youtube url and generate the embed html code](https://github.com/datwright/youtube_addy)
 - https://yossarian.net/snippets#ruby
 - [Examples of C extensions in Ruby gems](https://github.com/flavorjones/ruby-c-extensions-explained)
+- [Find dead-links (broken links)](https://github.com/hahwul/deadfinder)
 
 ### Inspire
 

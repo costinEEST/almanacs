@@ -96,6 +96,7 @@
 - https://github.com/PortSwigger/serialization-examples/tree/master/php
 - https://github.com/snoopysecurity/Vulnerable-Code-Snippets
 - https://github.com/m4p1e/php-exploit
+- [Converting LFI into RCE by chaining PHP encoding filters](https://www.synacktiv.com/publications/php-filters-chain-what-is-it-and-how-to-use-it.html)
 
 ### Miscellaneous
 
