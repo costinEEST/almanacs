@@ -302,6 +302,36 @@
 - https://aiydreen.com/portuguese
 - https://www.udemy.com/course/faq-perguntas-e-respostas-frequentes-em-ingles
 
+### Romanian
+
+- http://alexalejandre.com/language/romanian
+- http://alexalejandre.com/language/16.Limba%20Rom%c3%a2n%c4%83.%20Curs%20superior.pdf
+- http://alexalejandre.com/language/03.Introduction%20to%20Romanian.pdf + https://www.studmed.ru/seiver-george-o-introduction-to-romanian_508aa438e3a.html + https://www.amazon.com/Introduction-Romanian-George-Seiver/dp/B0000CIK7N
+- http://alexalejandre.com/language/01.Colloquial%20Romanian.pdf
+- https://isd.spiruharet.ro/wp-content/uploads/books/Colloquial_Romanian-Complete_course_for_Beginners.pdf
+- [Istoriile lui Roderick](https://hroderic.wordpress.com)
+- https://lazyadmin.ro/biblioteca-sau-librarie
+- https://www.goodreads.com/author/show/3986432.Ramona_G_ncz_l_Davies
+- [Elemente turceşti în limba română | Lazăr Şăineanu](http://dspace.bcu-iasi.ro/handle/123456789/17393)
+
+### Russian
+
+- https://twitter.com/in_ukraine_we + https://www.instagram.com/in_ukraine_we_dont_say
+- https://aiydreen.com/russian
+- https://www.udemy.com/course/russian-alphabet-mastery
+- https://github.com/nikitavoloboev/knowledge/blob/main/languages/russian.md
+- https://twitter.com/BeilinsonOrel/status/1278007873335894021
+- https://www.facebook.com/radu.umbres/posts/pfbid02DwLfpf5DFJ3iJ8WM8rwoEmxyiNveU5meorZK86Fkr76wzKKbTZRAWDsL4N8jNutCl
+- https://quizlet.com/Meged_Irina
+- https://github.com/MitPitt/awesome-russian
+- http://www.omniglot.com/language/phrases/russian.php
+- [Marina Niznik](https://www.facebook.com/orelb/posts/pfbid02uTjk5nEij2TsJCbvNrqQq8wn5oAbFEBbGGHrGmr43DpVAfdJd8ywBqguf4rXwZVUl)
+
+### Rare
+
+- https://www.nytimes.com/2021/10/06/us/marie-wilcox-dead.html + https://emergencemagazine.org/feature/language-keepers/#/chapter/wukchumni
+
+
 ### Serbian
 
 - [Learn Serbian in a few minutes | Teacher_Suzana](https://www.youtube.com/playlist?list=PLVnag7rRuuY2yoo1lSoHxRC5kRjI0ZX-P)
@@ -366,33 +396,6 @@
 - https://github.com/slowernews/notebook/blob/master/on-polish-language.md
 - https://www.youtube.com/c/Ecolinguist/playlists
 
-### Romanian
-
-- http://alexalejandre.com/language/romanian
-- http://alexalejandre.com/language/16.Limba%20Rom%c3%a2n%c4%83.%20Curs%20superior.pdf
-- http://alexalejandre.com/language/03.Introduction%20to%20Romanian.pdf + https://www.studmed.ru/seiver-george-o-introduction-to-romanian_508aa438e3a.html + https://www.amazon.com/Introduction-Romanian-George-Seiver/dp/B0000CIK7N
-- http://alexalejandre.com/language/01.Colloquial%20Romanian.pdf
-- https://isd.spiruharet.ro/wp-content/uploads/books/Colloquial_Romanian-Complete_course_for_Beginners.pdf
-- [Istoriile lui Roderick](https://hroderic.wordpress.com)
-- https://lazyadmin.ro/biblioteca-sau-librarie
-- https://www.goodreads.com/author/show/3986432.Ramona_G_ncz_l_Davies
-- [Elemente turceşti în limba română | Lazăr Şăineanu](http://dspace.bcu-iasi.ro/handle/123456789/17393)
-
-### Russian
-
-- https://twitter.com/in_ukraine_we + https://www.instagram.com/in_ukraine_we_dont_say
-- https://aiydreen.com/russian
-- https://www.udemy.com/course/russian-alphabet-mastery
-- https://github.com/nikitavoloboev/knowledge/blob/main/languages/russian.md
-- https://twitter.com/BeilinsonOrel/status/1278007873335894021
-- https://www.facebook.com/radu.umbres/posts/pfbid02DwLfpf5DFJ3iJ8WM8rwoEmxyiNveU5meorZK86Fkr76wzKKbTZRAWDsL4N8jNutCl
-- https://quizlet.com/Meged_Irina
-- https://github.com/MitPitt/awesome-russian
-- http://www.omniglot.com/language/phrases/russian.php
-
-### Rare
-
-- https://www.nytimes.com/2021/10/06/us/marie-wilcox-dead.html + https://emergencemagazine.org/feature/language-keepers/#/chapter/wukchumni
 
 ### Ukrainian
 
