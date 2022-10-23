@@ -109,6 +109,7 @@
 - https://www.udemy.com/course/no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food
 - https://archive.org/search.php?query=wartime%20cookbook
 - https://www.youtube.com/c/TastingHistory/playlists
+- https://www.livestrong.com/article/13722674-healthy-comfort-food-recipes
 
 ### Cholesterol
 

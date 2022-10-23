@@ -7,6 +7,7 @@
 - https://github.com/isislovecruft/library--/tree/master/languages/quantum%20programming
 - https://www.amazon.com/Cosmic-Revolutionarys-Handbook-Beat-Bang/dp/1108486703
 - https://www.goodreads.com/book/show/17471298-quantum-computing-since-democritus
+- https://eli.thegreenplace.net/2009/01/05/book-review-qed-the-strange-theory-of-light-and-matter-by-richard-feynman
 
 ### Cheat sheet 
 

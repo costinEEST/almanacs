@@ -653,7 +653,7 @@
 - https://github.com/rarmatei/now.sh-deploy-monorepos
 - [A free solution to the EU, GDPR, and California Cookie Laws](https://github.com/osano/cookieconsent)
 - https://github.com/dustinspecker/awesome-eslint
-
+- [Find unused files, dependencies and exports in your JS/TS project](https://github.com/webpro/knip)
 
 ### Documentation
 

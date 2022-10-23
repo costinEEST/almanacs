@@ -1,6 +1,7 @@
 ### Boilerplate
 
 - https://github.com/localnerve/react-pwa-reference
+- [Progressive Web Apps API of APIs](https://github.com/pwafire/pwafire)
 
 ### Book
 

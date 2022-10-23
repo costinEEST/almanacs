@@ -36,6 +36,8 @@
 - [Shenzhen I/O | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
 - https://www.udemy.com/course/scratch-game-programming + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F + https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
 - https://github.com/borkshop/emojiquest
+- https://roxanamchirila.com/2022/10/21/jocuri-incrementale-browser
+- https://github.blog/2022-10-06-js13k-2022-winners
 
 ### Mobile based
 

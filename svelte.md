@@ -29,9 +29,10 @@
 - https://www.thisdot.co/blog/web-components-with-svelte
 - https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust
 
-### Demo
+### Inspire
 
 - https://github.com/geoffrich/svelte-stories
+- https://github.com/simeydotme/pokemon-cards-css + https://deck-24abcd.netlify.app + https://twitter.com/simeydotme/status/1549811970207285248
 
 
 ### Portfolio

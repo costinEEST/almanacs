@@ -58,6 +58,7 @@
 
 - [Free stock photos](https://www.pexels.com)
 - [Akiyoshi KITAOKA's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
+- [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics)
 
 ### Security
 

@@ -115,6 +115,7 @@
 - https://blog.gtank.cc/notes-on-anonymous-credentials
 - [A Step-by-step Guide for PGP Beginners](https://syncom.github.io/papers/pgptutorial.txt)
 - [dnssec, openpgpkey, dane, sshfp](https://gist.github.com/phryneas/5ab090c21ecb32ff1858)
+- [unarcrypto is an educational tool to depict cryptography usage in zip, rar and 7zip archives](https://github.com/lclevy/unarcrypto) + https://twitter.com/lorenzo2472/status/880696736041365507
 
 ### Transport Layer Security (TLS)
 
@@ -185,4 +186,8 @@
 - https://dkp.ldd.org/2019/09/08/xkcdcrypt.html
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 - [Sha256 is broken](https://twitter.com/alokmenghrajani/status/1544057972120326144)
+
+### Radio 
+
+- https://securitycryptographywhatever.buzzsprout.com
 

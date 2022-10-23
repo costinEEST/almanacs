@@ -5,6 +5,7 @@
 
 ### Book
 
+- https://github.com/mmcgrana/gobyexample
 - https://github.com/dreddsa5dies/automateGo
 - https://github.com/dreddsa5dies/networkGo
 - https://github.com/dariubs/GoBooks
@@ -21,7 +22,6 @@
 - https://github.com/teh-cmc/go-internals
 - https://github.com/play-with-go/play-with-go
 - https://github.com/dgryski/go-perfbook
-- https://github.com/mmcgrana/gobyexample
 - https://github.com/teivah/100-go-mistakes
 
 ### Boots
@@ -195,3 +195,4 @@
 - https://github.com/dstotijn/golang-nextjs-portable
 - [A static site generator for capturing quick notes](https://github.com/senorprogrammer/til)
 - https://adri.ddns.net/about
+- https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go

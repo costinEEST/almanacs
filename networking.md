@@ -133,6 +133,7 @@
 - https://worthdoingbadly.com/vowifi
 - https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade + https://twitter.com/zekjur/status/1517872128602914816
 - [How amazing is it that GPS actually works?](https://twitter.com/martinkl/status/1524684941216395264)
+- [GPS Spoofing | Muhammed Talaat](https://www.youtube.com/playlist?list=PLGJmR5eX86b1Pz4Rnv2yXHT_s4LcwKFAp)
 - https://xakcop.com/post/how-many-people
 - https://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html
 - https://hackaday.com/2022/08/27/introducing-fissure-a-toolbox-for-the-rf-hacker

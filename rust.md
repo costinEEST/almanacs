@@ -32,6 +32,7 @@
 - https://github.com/LukeMathWalker/zero-to-production
 - [Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers](https://github.com/google/autocxx)
 - [Performance Analysis and Tuning on Modern CPUs](https://github.com/grahamking/perf-ninja-rs)
+- https://www.amazon.com/Rust-Atomics-Locks-Low-Level-Concurrency/dp/1098119444
 
 ### Bot
 
@@ -128,6 +129,10 @@
 - [Built a lisp dialect from zero](https://github.com/coquelicot/functional-from-zero)
 - https://github.com/LearningOS/rust-based-os-comp2022
 
+### Testing 
+
+- https://hermanradtke.com/how-to-mock-functions-that-have-external-http-requests
+
 ### Podcast
 
 - [Servo and Rust with Jack Moffitt](https://metajack.im/2016/11/21/servo-interview-on-the-changelog)
@@ -186,3 +191,4 @@
 - https://code.brettchalupa.com/why-im-learning-rust
 - https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09
 - https://matklad.github.io/2022/10/06/hard-mode-rust.html
+- https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust

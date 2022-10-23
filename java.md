@@ -24,6 +24,10 @@
 - https://github.com/Apress/java-17-for-absolute-beginners
 - https://github.com/duke-certification/java6-to-java8-en + https://twitter.com/RafaDelNero/status/1387736448674242562 + https://leanpub.com/javachallengers + https://www.youtube.com/playlist?list=PL3py5YSIGvPMgKXOVqnYn9nBoT_zvsvsi + https://javachallengers.com/the-top-long-lasting-java-books-that-every-java-developer-should-read
 
+### Boot 
+
+- [Discord Bot using Java Discord API (JDA) | Anson the Developer](https://www.youtube.com/playlist?list=PL_cUvD4qzbkx5unMamPcd5AzRGFgGTgGb)
+
 ### Cheat sheet 
 
 - https://jenkov.com/tutorials/java/index.html
@@ -97,10 +101,11 @@
 - https://github.com/ThomasVitale/devtalks-2022-serverless-java + https://speakerdeck.com/thomasvitale/serverless-java-with-spring-boot
 - https://perlun.eu.org/en/2021/12/30/the-dangers-of-referential-equality-in-java
 - https://github.com/TooTallNate/Java-WebSocket
-
+- [Embedding Node.js and V8 in Java](https://docs.google.com/presentation/d/1lQ8xIHuywuE0ydqm2w6xq8OeQZO_WeTLYXW9bNflQb8) + https://github.com/caoccao/Javet
 
 ### Tool
 
+- https://knifecoat.com/Tools/Java
 - [Google Reader inspired self-hosted RSS reader.](https://github.com/Athou/commafeed)
 - [Run Node.js on Android by rewrite Node.js in Java](https://github.com/InstantWebP2P/node-android)
 - https://0xdf.gitlab.io/2020/04/02/jar-files-analysis-and-modifications.html

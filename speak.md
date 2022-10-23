@@ -113,6 +113,7 @@
 - https://en.wikibooks.org/wiki/Chinese_%28Mandarin%29/Using_Tones
 - [Let's Learn Classical Chinese | Colin Gorrie](https://www.youtube.com/playlist?list=PLmp7RhkyEu0vz1NYNa7V9xFuRBsW9a9mt)
 - https://www.amazon.com/Tuttle-Learners-Chinese-English-Dictionary-Romanized/dp/0804845271
+- https://github.com/shimohq/chinese-programmer-wrong-pronunciation
 
 ### Arabic
 
@@ -161,6 +162,7 @@
 - https://en.wikipedia.org/wiki/Rhoticity_in_English
 - https://unchartedterritories.tomaspueyo.com/p/should-everybody-learn-english
 - [Why linguists believe in invisible words - the story of zeros](https://www.patreon.com/posts/new-anim-zeros-73182390)
+- https://eli.thegreenplace.net/2007/05/29/book-review-the-story-of-language-by-charles-l-barber
 
 ### Esperanto
 
@@ -377,6 +379,7 @@
 - https://www.academia.edu/11853314/Saber_ver_la_arquitectura_Zevi_Bruno
 - [Carme Jiménez Huertas](https://independent.academia.edu/CarmeJHuertas) + https://www.google.com/search?q=Nu+venim+din+latina+Carme+Jimenez+Huertas + https://youtu.be/7IUl4HljK1o + https://www.youtube.com/playlist?list=PL7uJpL8aYbq7TcjlzL5KuUfVt8_joPHLO
 - https://www.printrecarti.ro/palmira-arnaiz
+- https://eli.thegreenplace.net/tag/spanish
 
 ### Swedish
 

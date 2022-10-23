@@ -49,7 +49,7 @@
 - https://github.com/offlinefirst/research
 - https://souporserious.com/bundling-workers-for-npm
 - [Measure cpu cache size client side in Javascript](https://github.com/allanlw/cache_size)
-
+- https://dagster.io/blog/web-workers-performance-issue
 
 ### Engine
 
@@ -68,7 +68,8 @@
 - https://mrale.ph/v8/resources.html
 - [V8 sandbox](https://twitter.com/5aelo/status/1529863751868076032)
 - https://docs.google.com/presentation/d/1NVyRgitg-2CyN3BuoZZF6F-Dw8PuDybFjkFICAyYPHo
-
+- [Part 1 covers V8 internals such as objects, properties, and memory optimizations](https://jhalon.github.io/chrome-browser-exploitation-1)
+- [Building Chrome V8 on Windows](https://gist.github.com/jhalon/5cbaab99dccadbf8e783921358020159)
 
 ### Exploit
 
@@ -90,10 +91,11 @@
 ### Extension
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
-- https://github.com/z0ccc/extension-fingerprints
+- [Check how trackable you are based on your browser extensions](https://github.com/z0ccc/extension-fingerprints)
 - https://ninoseki.github.io/2020/05/16/browser-extension.html
 - https://github.com/ryanckulp/twitter_ad_blocker
 - [The browser extension framework](https://github.com/PlasmoHQ/plasmo)
+- [Skip youtube video sponsors](https://github.com/ajayyy/SponsorBlock) 
 - [Chrome Extension for one click downloading all resources files and keeping folder structures](https://github.com/up209d/ResourcesSaverExt)
 - [A Chrome extension that adds a 3d photo effect to instagram pages](https://github.com/cyrildiagne/instagram-3d-photo)
 - [Firefox addon for passively detecting GPS Exif information in JPEGs](https://addons.mozilla.org/en-US/firefox/addon/gpsdetect)

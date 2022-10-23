@@ -49,6 +49,7 @@
 
 - https://github.com/jhuangtw/awesome-data
 - https://blog.gardeviance.org/2015/03/wardley-map-set-of-useful-posts.html
+- [A curated collection of diagramming tools used by leading software engineering teams](https://github.com/shubhamgrg04/awesome-diagramming)
 
 ### Best practices
 

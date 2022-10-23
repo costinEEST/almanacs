@@ -23,6 +23,7 @@
 - https://web.dev/learn/design
 - [Guidelines for writing sane, maintainable and scalable Sass](https://github.com/KittyGiraudel/sass-guidelines)
 - [How to test if a font is available](https://blog.jim-nielsen.com/2022/font-family-and-supports)
+- https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b
 
 ### Book
 
@@ -195,6 +196,7 @@
 - https://codepen.io/TurkAysenur/full/gOmMgpx
 - https://github.com/PrathamKumar14/CSS-Layout-Notes
 - https://vgpena.github.io/using-css-grid-the-right-way
+- [Extending elements beyond the content area with CSS Grid & named grid lines](https://ryanmulligan.dev/blog/layout-breakouts)
 
 ### FlexBox
 
@@ -223,6 +225,7 @@
 - https://markodenic.com/css-tips
 - [cool conic-gradient() patterns!](https://twitter.com/anatudor/status/1398218970281525249)
 - https://www.quaxio.com/pure_css_digital_clock.html
+- [CSS drawings with only one HTML element](https://github.com/lynnandtonic/a-single-div)
 
 ### Media query
 

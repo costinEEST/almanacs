@@ -139,6 +139,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 
 ### Security
 
+- https://www.hackthebox.com/blog/intro-to-mobile-pentesting
 - https://madaidans-insecurities.github.io/android.html
 - [MOBISEC - Mobile Security Course](https://mobisec.reyammer.io)
 - https://github.com/anantshri/Android_Security + https://twitter.com/anantshri/status/1345757424616054790

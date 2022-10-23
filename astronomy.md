@@ -9,6 +9,7 @@
 - [Paul C.W. Davies](https://www.scribd.com/author/522188669/Paul-Davies)
 - https://www.amazon.com/End-Everything-Astrophysically-Speaking/dp/198210354X
 - https://twitter.com/curiouswavefn/status/1447258279990624257
+- https://eli.thegreenplace.net/2005/11/14/book-review-a-pale-blue-dot-by-carl-sagan
 
 
 ### Cinema
@@ -18,6 +19,7 @@
 - https://www.youtube.com/playlist?list=PLKEd7Km7DjLdTpgeS9JuQNKmhqKdS-Piy
 - [Scott Manley](https://www.youtube.com/c/szyzyg/playlists)
 - https://www.youtube.com/c/EverydayAstronaut/playlists
+- https://twitter.com/Chr1sDaC0w/status/1577066133328314368 + https://www.space.com/entire-known-universe-recreated-minecraft-game
 
 
 ### Community 
@@ -35,3 +37,7 @@
 - https://starmap2d.appspot.com
 - [My daughter and I made a site to explore the photos from the ISS](https://news.ycombinator.com/item?id=23519439)
 - https://www.fifthstarlabs.com/#sky-guide
+
+### Radio 
+
+- https://www.thegreatcourses.com/courses/the-search-for-exoplanets-what-astronomers-know + https://eli.thegreenplace.net/2022/summary-of-reading-july-september-2022

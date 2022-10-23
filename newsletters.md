@@ -265,6 +265,7 @@
 - [Oana Vasiliu](https://umamimoments.substack.com/archive)
 - [Szeged Fungus](http://eepurl.com/hruKVT)
 - [Magazin Zero Waste Bucuresti](https://us4.campaign-archive.com/home/?u=69aebee69dafa1967752cc194&id=4ffe7919b3)
+- [Corina Dima](https://us15.campaign-archive.com/home/?u=53026c57b9dbb2042a1695bc1&id=32d8f9cce8)
 
 ### Health
 
@@ -279,6 +280,7 @@
 - [Tilde Cafe](https://us11.campaign-archive.com/home/?u=ae805569dda0a7c42c5899749&id=f83d3214e1)
 - [Chris Masterjohn](https://chrismasterjohnphd.substack.com/archive)
 - [Brady Holmer](https://bradyholmer.substack.com/archive)
+- [Lucia Aronica](https://us19.campaign-archive.com/home/?u=b5a7b243f7e9ec0be6f0de584&id=3781a25554)
 
 ### Privacy
 

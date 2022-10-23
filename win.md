@@ -64,6 +64,7 @@
 
 ### Tool
 
+- https://knifecoat.com/Tools/Windows
 - [Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files.](https://github.com/tibold/svg-explorer-extension)
 - https://gitlab.com/massgrave/microsoft-activation-scripts
 - https://www.zdnet.com/google-amp/article/dell-releases-new-tool-to-detect-bios-attacks

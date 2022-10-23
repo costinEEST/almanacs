@@ -14,6 +14,7 @@
 - [Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas--Not Less | Alex Epstein](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411)
 - https://en.wikipedia.org/wiki/Theodore_Roszak_(scholar)#Scholarship
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=energy
+- https://eli.thegreenplace.net/2022/book-review-the-future-of-fusion-energy-by-j-parisi-and-j-ball
 
 ### Course
 

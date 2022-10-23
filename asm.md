@@ -57,6 +57,10 @@
 - [Binary Numbers | ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHX1u3IbBZaAdY17n7l1hJ90)
 - [Assembly Language Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=5)
 
+### Community 
+
+- [Eli Bendersky](https://eli.thegreenplace.net/tag/assembly)
+
 ### Debugging
 
 - [Case studies of difficult bugs and how they were tracked down](https://twitter.com/aluhrs13/status/1557044379797188608)

@@ -118,6 +118,7 @@
 ### <meta />
 
 - https://textslashplain.com/2020/05/15/meta-charset
+- https://www.stefanjudis.com/today-i-learned/how-to-tell-browsers-that-your-site-supports-color-schemes
 
 ### <input type="checkbox" />
 

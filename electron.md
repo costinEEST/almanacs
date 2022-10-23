@@ -51,6 +51,7 @@
 - https://7085.at/#/blog/2022-02-03-rce-vulnerabilities-in-obsidian-discovered
 - https://github.com/jonmest/How-To-Tamper-With-Any-Electron-Application
 - https://taggart-tech.com/quasar-electron
+- [Leveraging Electron Applications For Post-Exploitation | Ruben Boonen (b33f)](https://github.com/FuzzySecurity/WWHF-WayWest-2022) + https://youtu.be/VXb6lwXhCAc
 
 
 ### Tool
@@ -75,3 +76,4 @@
 - [Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more](https://github.com/beekeeper-studio/beekeeper-studio)
 - [Make any web page a desktop application](https://github.com/nativefier/nativefier)
 - [Decompiler](https://github.com/electron/asar) + https://youtu.be/jyiFjqNncMc
+- [frameless browser for screenshots](https://github.com/antfu/broz)

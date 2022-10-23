@@ -368,6 +368,10 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 
 ### Crypto `node:crypto`
 
+### `node:dns`
+
+- https://hermanradtke.com/sending-udp-messages-in-nodejs-without-dns-lookups
+
 ### Stream
 
 - [Stream into the Future - Matteo Collina](https://youtu.be/dEFdt_6fW-0) + https://twitter.com/djgrant_/status/1296395202056327172
@@ -404,6 +408,10 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 ### Threads
 
 - https://dev.to/johnjardincodes/managing-multiple-threads-in-node-js-3mpc
+
+### `node:worker_threads`
+
+- https://www.wix.engineering/post/how-wix-applied-multi-threading-to-node-js-and-cut-thousands-of-ssr-pods-and-money
 
 ### Tool
 
@@ -539,6 +547,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Takes a screenshot of a given website and saves it to the given file](https://yossarian.net/snippets#nodeJS)
 - [Mac OS X Plist parser/builder](https://github.com/TooTallNate/plist.js)
 - [Who pollutes your prototype? Find the libs on cdnjs in an automated way](https://blog.huli.tw/2022/09/01/en/angularjs-csp-bypass-cdnjs)
+- https://serpdog.io/blog/web-scraping-google-maps
 
 ### Micro service
 

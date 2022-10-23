@@ -31,7 +31,7 @@
 - https://www.youtube.com/playlist?list=PLKJBt7aeK3k82T8rKrS2CMaLOphJmxtMn
 - [Customer Relationship Management API in Laravel](https://www.youtube.com/playlist?list=PLKJBt7aeK3k-7KXzEm5sAjuwtQhL4ecag)
 - [PHP - zero-stack | Barłomiej Bąk](https://www.youtube.com/playlist?list=PLsgYMfQH-6NYZwb5ptkQCBp1-mAzjMjqd)
-
+- [Anatomy of a PHP Request | Herman J. Radtke, Joel Salas](https://docs.google.com/presentation/d/1F8SZlAzM0ZZLgIDk8B7WInMxSqLsXXRH9VyPfEGL_ZU)
 
 ### Patterns
 
@@ -97,6 +97,7 @@
 - https://github.com/snoopysecurity/Vulnerable-Code-Snippets
 - https://github.com/m4p1e/php-exploit
 - [Converting LFI into RCE by chaining PHP encoding filters](https://www.synacktiv.com/publications/php-filters-chain-what-is-it-and-how-to-use-it.html)
+- [find basic rXSS in PHP with grep and RegEx](https://twitter.com/Bugcrowd/status/1520253611795755008)
 
 ### Miscellaneous
 

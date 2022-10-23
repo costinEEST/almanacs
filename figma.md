@@ -33,6 +33,10 @@
 - https://www.learnwithjason.dev/introduction-to-figma-for-developers
 - https://www.youtube.com/c/MadeWithMatt/playlists
 
+### Cheat sheet 
+
+- https://josh-cusick-portfolio.webflow.io/projects/design-systems-for-figma + https://www.designsystemsforfigma.com + https://www.youtube.com/channel/UC2DXl-a7JFfzOwWtJasTh-w/videos
+
 ### Development
 
 - https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7
