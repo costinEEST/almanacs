@@ -38,6 +38,7 @@
 - https://github.com/isislovecruft/library--/tree/master/languages/assembly
 - https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet/tree/master/ASM
 - [Programming Boot Sector Games | Óscar Toledo Gutiérrez](https://nanochess.org/store.html)
+- [Beginning x64 Assembly Programming | Jo Van Hoey](https://github.com/Apress/beginning-x64-assembly-programming)
 
 ### Course
 
