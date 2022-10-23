@@ -133,9 +133,10 @@
 
 - https://hermanradtke.com/how-to-mock-functions-that-have-external-http-requests
 
-### Podcast
+### Radio
 
 - [Servo and Rust with Jack Moffitt](https://metajack.im/2016/11/21/servo-interview-on-the-changelog)
+- https://www.hanselminutes.com/850/rust-for-beginners-with-nell-shamrell-harrington
 
 ### Tool
 
