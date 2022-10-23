@@ -480,6 +480,7 @@
 - https://github.com/cms/domready
 - https://github.com/mgp/book-notes/blob/master/advanced-dom-scripting.markdown
 - https://frontendmasters.com/blog/vanilla-javascript-todomvc
+- [A simple method to invoke a function after the browser has rendered & painted a frame](https://github.com/andrewiggins/afterframe)
 
 ### Single-page application
 

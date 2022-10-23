@@ -86,6 +86,7 @@
 - https://levelup.gitconnected.com/want-to-be-a-software-developer-learn-c-first-and-thank-me-later-30a447f32037
 - [ An opinionated history of programming languages](https://artagnon.com/articles/pl)
 - [which language would you learn for malware development?](https://twitter.com/Amr_Thabet/status/1517215313053597697)
+- [A library to allow writing Unity scripts in native code: C, C++, assembly](https://github.com/jacksondunstan/UnityNativeScripting)
 
 ### Practice 
 

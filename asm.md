@@ -37,6 +37,7 @@
 - [Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architecture Book | Igor Zhirkov](https://twitter.com/embeddedgus/status/1554874891307982853)
 - https://github.com/isislovecruft/library--/tree/master/languages/assembly
 - https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet/tree/master/ASM
+- [Programming Boot Sector Games | Óscar Toledo Gutiérrez](https://nanochess.org/store.html)
 
 ### Course
 
@@ -82,6 +83,8 @@
 - http://www.vikaskumar.org/amd64/index.htm
 - https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory
 - https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have
+- [monolithic operating system in 512 bytes of x86 machine code](https://github.com/nanochess/bootOS)
+- [The world's smallest chess program in x86 machine code](https://nanochess.org/chess6.html)
 
 ### RISC-V
 

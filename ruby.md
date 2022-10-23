@@ -32,7 +32,7 @@
 - https://github.com/restcookbook/restcookbook
 - https://bradgessler.com/talks/streaming-rest
 - [Prints markdown containing a random post from thecodinglove.com](https://github.com/valeriomazzeo/danger-the_coding_love)
-
+- https://github.com/Purple-Magic/tramway-core
 
 ### Algorithm
 
@@ -483,6 +483,7 @@
 - https://github.com/wolframarnold/Efficient-Test-Driven-Rails-Development + https://www.youtube.com/watch?v=9cNcnFxyixs
 - https://www.stevenrbaker.com/tech/history-of-rspec.html
 - https://www.die-welt.net/2021/12/the-mocking-will-continue-until-ci-improves
+- https://leanpub.com/fastfeedbackusingruby + https://github.com/s2k/fastfeedbackusingruby_workshop
 
 ### Radio
 

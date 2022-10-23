@@ -38,6 +38,7 @@
 - https://github.com/borkshop/emojiquest
 - https://roxanamchirila.com/2022/10/21/jocuri-incrementale-browser
 - https://github.blog/2022-10-06-js13k-2022-winners
+- https://nanochess.org/chess4.html
 
 ### Mobile based
 
