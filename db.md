@@ -81,6 +81,7 @@
 - https://www.deconstructconf.com/2018/jumana-bahrainwala-how-to-scale-relational-database-migrations
 - [RethinkDB | Eric Bell](https://www.youtube.com/playlist?list=PLB8JqSBrZCVEG0_KFbzPtFlwhXUFEFwoh)
 - https://github.com/mitchellh/advent-2021-sql + https://www.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd
+- [SQL Injection Master Class | Derek Rook](https://www.youtube.com/playlist?list=PLvcAtRF10zYXYkZrIXUdSVOKgByEK_5Ve) + https://gitlab.com/r00k/sql_for_hackers
 
 ### MySQL
 

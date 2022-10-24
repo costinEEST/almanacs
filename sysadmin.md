@@ -225,6 +225,7 @@
 - https://app.pluralsight.com/library/courses/building-modern-ci-cd-pipeline-jenkins
 - https://earthly.dev/blog/migrating-from-travis
 - https://www.udemy.com/course/learn-complete-devops-with-python-docker-kubernetes-git
+- https://github.com/wavestone-cdt/DEFCON-CICD-pipelines-workshop
 
 ### Site Reliability Engineering
 

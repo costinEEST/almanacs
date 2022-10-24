@@ -8,6 +8,8 @@
 - https://github.com/cfalta/adsec + https://twitter.com/cfalta/status/1388928018886938630
 - https://twitter.com/M4yFly/status/1437453135883157504 + https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap
 - https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
+- https://hideandsec.sh/books/cheatsheets-82c/page/active-directory
+- https://hideandsec.sh/books/cheatsheets-82c/page/active-directory-python-edition
 
 ### Book 
 
