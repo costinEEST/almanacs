@@ -78,6 +78,7 @@
 
 - [Prietenii Editurii Rabten](https://us9.campaign-archive.com/home/?u=631f68b23c06eceac05035aff&id=194eb176a7)
 - [Dunhuang Foundation](https://us10.campaign-archive.com/home/?u=069b842b10e7ad40bfba99e7f&id=c2f585d33a)
+- [ACI Dharma Romania](https://us4.campaign-archive.com/home/?u=0b7eb01da1eb5b22b356b2bc9&id=ec7e68b8fc)
 
 ### Chemistry
 

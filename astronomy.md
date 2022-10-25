@@ -60,6 +60,8 @@
 - https://www.facebook.com/groups/astronomie.ro
 - https://www.facebook.com/groups/astronomiedeamatori
 - https://www.facebook.com/vladimir.stefanescu
+- Adrian Șonka: https://sonkab.com/despre-2-2, https://www.fundatiacaleavictoriei.ro/adrian-sonka, https://www.facebook.com/adrian.sonka, http://astro-urseanu.ro/calatorie-univers.html, https://www.youtube.com/channel/UCsbP7zXvXy78ItBdRsMtYvA/playlists, https://twitter.com/sonkab, https://www.youtube.com/playlist?list=UURIQ3LoqPwCndupTcCFWilg
+- Vasile Decu> https://bibliotecaexploratorilor.substack.com/p/biblioteca-exploratorilor-1-2022, https://www.facebook.com/vasile.decu, https://www.rfi.ro/emisiunile-rfi-ro-112332-vasile-decu-mindcraftstories-aventura-inteligenta
 
 ### Course 
 
