@@ -20,6 +20,7 @@
 - [Writing a Hypervisor to be able to run MacOS inside it | Hector Martin](https://www.youtube.com/playlist?list=PL68XxS4_ek4ab49xb5qcODWQETyC5vbHi)
 - https://www.youtube.com/c/LinuxPlumbersConference/playlists
 - https://gitlab.com/r00k/as_linux_file_permissions
+- [Writing a Linux kernel driver for the Apple M1 GPU | Asahi Lina](https://www.youtube.com/playlist?list=PL8S0yfRexZUJmwZTnrqWW8ytgiCos300j)
 
 ### Course
 

@@ -50,6 +50,7 @@
 - [Quick and easy way to retrieve emails for all git commit authors](https://twitter.com/ustayready/status/1562508344631635968)
 - https://jonsuh.com/blog/git-command-line-shortcuts
 - https://dadrian.io/blog/posts/trunk-based-development-with-git
+- https://coderscat.com/how-to-delete-a-file-permanently-in-git + https://rtyley.github.io/bfg-repo-cleaner
 
 ### TIL
 

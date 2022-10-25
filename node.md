@@ -288,6 +288,10 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js
 - [Advanced vm/sandbox for Node.js](https://github.com/patriksimek/vm2)
 
+### `node:events`
+
+- [A fork of eventEmitter's fast prototype based Javascript Class implementation, that is now available in the browser and node](https://github.com/storjarn/ee-class)
+
 ### `node:fs`
 
 - [How to create full path with node's fs.mkdirSync?](https://stackoverflow.com/a/40686853/1904223)

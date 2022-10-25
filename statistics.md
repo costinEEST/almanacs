@@ -8,6 +8,7 @@
 - https://www.amazon.com/Atlas-Forecasts-Modeling-Mapping-Desirable/dp/0262045958 + https://twitter.com/benbendc/status/1456087094762295300
 - https://github.com/HeinrichHartmann/Statistics-for-Engineers
 - https://minireference.com/blog/no-bullshit-guide-to-statistics-progress-update
+- Probabilistic Machine learning by Kevin Murphy: https://github.com/probml/pyprobml, https://github.com/probml/pml-book
 
 ### Course
 

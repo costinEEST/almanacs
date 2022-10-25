@@ -10,6 +10,10 @@
 - https://www.freecodecamp.org/news/create-an-android-app
 - https://github.com/Kotlin-FOSDEM/speaker-recording-guide
 
+### Cheat sheet 
+
+- https://github.com/MindorksOpenSource/from-java-to-kotlin
+
 
 ### Inspire
 

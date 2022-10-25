@@ -92,6 +92,7 @@
 - [Interactive version of Sanzo Wada's - "A Dictionary of Color Combinations"](https://github.com/dblodorn/sanzo-wada)
 - https://blinry.org/what-is-color + [Gamma correction: the secret behind pretty colors](https://www.youtube.com/watch?v=EkbcI3KgUuY&t=1647s)
 - https://www.nickkolenda.com/color-psychology
+- https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl
 
 ### Community
 

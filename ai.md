@@ -105,6 +105,9 @@
 - https://laurencemoroney.com/2022/01/05/aiforanyone.html
 - https://github.com/dcetin/eth-cs-notes
 - https://github.com/zlotus/notes-LSJU-machine-learning
+- https://github.com/dair-ai/ML-YouTube-Courses
+- [Cornell CS5785: Applied Machine Learning | Fall 2020](https://github.com/Machine-Learning-Tokyo/AI_Curriculum#applied-machine-learning)
+- https://github.com/Nyandwi/machine_learning_complete
 
 ### Cinema
 
@@ -184,6 +187,8 @@
 - [Deep Learning | João Araújo](https://www.youtube.com/playlist?list=PL-iSnl3GkU0d7CVxHDVKSkfhtFujIjbfh)
 - https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
 - https://github.com/Atcold/pytorch-Deep-Learning
+- [Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann](https://github.com/deep-learning-with-pytorch/dlwpt-code)
+- https://www.getrevue.co/profile/deeprevision/issues/a-revised-history-of-deep-learning-issue-1-1145664
 
 ### Paper
 

@@ -35,6 +35,45 @@
 - https://github.com/vaidehijoshi/basecs-series
 - https://youtu.be/tkPHtSUJwMI
 
+### Book
+
+- [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html) + https://github.com/source-academy/sicp + https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1
+- https://github.com/dexteryy/spellbook-of-modern-webdev
+- [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
+- [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
+- https://github.com/amilajack/reading/tree/master/JavaScript
+- [A General Theory of Reactivity](https://legacy.gitbook.com/book/kriskowal/gtor/details)
+- https://softchris.github.io/books/rxjs
+- https://gumroad.com/l/jstestingbeginners
+- https://github.com/PacktPublishing/Hands-on-JavaScript-for-Python-Developers
+- https://github.com/javascript-society/javascript-path
+- https://github.com/qcmaude/refactoring-at-scale
+- [The First 20 Years](http://www.wirfs-brock.com/allen/posts/866) + https://twitter.com/awbjs/status/1238213231929245696
+- [Functional Programming Made Easier | Charles Scalfani](https://leanpub.com/fp-made-easier) + https://news.ycombinator.com/item?id=27537626
+- https://github.com/yiailake/book#javascript
+- [Cracking the Coding Interview 6th Ed. JavaScript ES2015 Solutions](https://github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015)
+- https://github.com/coodict/javascript-in-one-pic
+- https://github.com/madhank93/js-mindmap
+- [How to Design Programs | Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion)
+
+### Cheat sheet 
+
+- https://ponyfoo.com/articles/es6
+- [Dark themes made easy](https://notes.jordanscales.com/40ecf234)
+- https://opensource.com/article/22/9/javascript-glossary
+
+### Course
+
+- https://github.com/andreasbm/web-skills
+- https://learnjavascript.online
+- https://github.com/sophi-li/OKRs-self-learning
+- https://egghead.io/courses/functional-programming-concepts-in-purescript
+- https://github.com/nicoespeon/refactoringjavascript.dev
+- [Namaste JavaScript | Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) + https://twitter.com/akshaymarch7/status/1318205871726292995
+- https://dev.to/alexeagleson/the-complete-beginners-guide-to-a-career-in-web-development-3fbl
+- https://github.com/jonasschmedtmann/complete-javascript-course
+
+
 ### Community
 
 - [Javascript R. Moldova](https://github.com/JSMD/meetups)
@@ -125,42 +164,6 @@
 - [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
 - [a valid IPv6 address and a syntactically valid JavaScript program that runs to completion](https://twitter.com/mathias/status/1138770431681449984)
 
-### Book
-
-- [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html) + https://github.com/source-academy/sicp + https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1
-- https://github.com/dexteryy/spellbook-of-modern-webdev
-- [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
-- [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
-- https://github.com/amilajack/reading/tree/master/JavaScript
-- [A General Theory of Reactivity](https://legacy.gitbook.com/book/kriskowal/gtor/details)
-- https://softchris.github.io/books/rxjs
-- https://gumroad.com/l/jstestingbeginners
-- https://github.com/PacktPublishing/Hands-on-JavaScript-for-Python-Developers
-- https://github.com/javascript-society/javascript-path
-- https://github.com/qcmaude/refactoring-at-scale
-- [The First 20 Years](http://www.wirfs-brock.com/allen/posts/866) + https://twitter.com/awbjs/status/1238213231929245696
-- [Functional Programming Made Easier | Charles Scalfani](https://leanpub.com/fp-made-easier) + https://news.ycombinator.com/item?id=27537626
-- https://github.com/yiailake/book#javascript
-- [Cracking the Coding Interview 6th Ed. JavaScript ES2015 Solutions](https://github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015)
-- https://github.com/coodict/javascript-in-one-pic
-- https://github.com/madhank93/js-mindmap
-- [How to Design Programs | Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion)
-
-### Cheat sheet 
-
-- https://ponyfoo.com/articles/es6
-- [Dark themes made easy](https://notes.jordanscales.com/40ecf234)
-- https://opensource.com/article/22/9/javascript-glossary
-
-### Course
-
-- https://github.com/andreasbm/web-skills
-- https://learnjavascript.online
-- https://github.com/sophi-li/OKRs-self-learning
-- https://egghead.io/courses/functional-programming-concepts-in-purescript
-- https://github.com/nicoespeon/refactoringjavascript.dev
-- [Namaste JavaScript | Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) + https://twitter.com/akshaymarch7/status/1318205871726292995
-- https://dev.to/alexeagleson/the-complete-beginners-guide-to-a-career-in-web-development-3fbl
 
 ### Paper
 

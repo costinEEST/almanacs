@@ -36,6 +36,7 @@
 - https://github.com/cosminpopescu14/Life_After_Java8 + https://www.reddit.com/r/java/comments/qpzmdy/java_ecosystem_vs_net_6
 - https://github.com/shekhargulati/java8-the-missing-tutorial
 - https://github.com/doocs/advanced-java
+- https://github.com/Blankj/awesome-java-leetcode
 
 ### Cinema
 

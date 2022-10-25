@@ -150,6 +150,7 @@
 - https://twitter.com/captbaritone/status/1560053602487377920
 - https://dev.to/lefebvre/sqlite-is-not-a-server-56il
 - [SQLite implementation over Wasm will replace Web SQL](https://twitter.com/ChromiumDev/status/1565105522092695553)
+- [Stranger Strings](https://twitter.com/trailofbits/status/1584870065698136064)
 
 ### Graph databases
 

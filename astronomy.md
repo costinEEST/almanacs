@@ -78,6 +78,7 @@
 ### Picture 
 
 - https://maximusphotography.files.wordpress.com/2022/10/sun-oct20.gif
+- [Our galaxy](https://www.eso.org/public/images/eso1242a/zoomable)
 
 
 ### Tool

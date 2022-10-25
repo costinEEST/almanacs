@@ -93,3 +93,4 @@
 - https://briandfoy.github.io/putting-environment-values-in-the-keychain
 - [Configure Mutt to work with Gmail + GPG on Mac OS X](https://gist.github.com/syncom/6b77792adb59ccdaa5d36b30273abc33)
 - https://github.com/houjingyi233/macOS-iOS-system-security
+- [Apple M1 GPU hacking | Asahi Lina](https://www.youtube.com/playlist?list=PL8S0yfRexZUKFPqUMAI3AXgKg7AwCre63)

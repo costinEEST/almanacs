@@ -101,6 +101,7 @@
 - https://cloud.google.com/blog/topics/retail/shopify-and-google-cloud-team-up-for-an-epic-bfcm-weekend + https://twitter.com/igrigorik/status/1468712709914984451
 - [auditing Google Cloud using Google Sheets](https://github.com/somethingnew2-0/SimpleCSPM)
 - https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes
+- https://github.com/sathishvj/awesome-gcp-certifications
 
 ### IBM
 

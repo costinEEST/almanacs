@@ -96,6 +96,7 @@
 - [JavaScript Chord Charts](https://github.com/0xfe/vexchords)
 - [A desktop app for displaying live sheet music from MIDI input built with Electron](https://github.com/blairjordan/pianoboi)
 - [Tools to help with practicing and improving musicallity while creating a journal](https://github.com/music-practice-tools/music-practice-tools)
+- [Making Music on Linux | Asahi Lina](https://youtu.be/-sZCMvyZk6k)
 
 
 ### Reference

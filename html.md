@@ -242,6 +242,7 @@
 - https://justmarkup.com/articles/2021-04-13-html-elements-in-a-tweet
 - https://github.com/hail2u/html-best-practices
 - https://github.com/bradfrost/frontend-guidelines-questionnaire#html-principles
+- https://github.com/LeaVerou/html-syntax-guidelines
 
 ### Semantic
 
