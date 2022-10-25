@@ -60,6 +60,10 @@
 - https://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index
 - [Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)](https://github.com/j00ru/windows-syscalls)
 
+### Licence 
+
+- https://storygram.ro/acasa/73-windows-11-pro-retail-3264-bit-all-languages-licenta-electronica.html
+
 ### Users
 
 - https://samsaffron.com/archive/2019/03/31/why-i-stuck-with-windows-for-6-years-while-developing-discourse

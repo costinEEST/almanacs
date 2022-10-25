@@ -13,6 +13,9 @@
 - https://www.facebook.com/groups/astronomiedeamatori/files/files
 - https://www.facebook.com/groups/astronomie.ro/files/files
 - https://www.facebook.com/groups/816535032110522/posts/1566048357159182
+- https://ro.wikipedia.org/wiki/Sidereus_Nuncius_(Anun%C8%9Bul_stelar) + https://humanitas.ro/humanitas/carte/sidereus-nuncius-sau-anun%C8%9Bul-stelar + [Cosmologie Filosofică | Dana Jalobeanu](http://blogs.ub-filosofie.ro/pce/?page_id=996) + https://youtu.be/MJXGyGe-6Qo
+- https://astronomyhubcluj.wixsite.com/astro/post/ce-am-citit-%C3%AEn-2020-recomand%C4%83rile-anului-2021
+- [George şi cheia secretă a Universului](https://humanitas.ro/humanitas/carte/george-%C5%9Fi-cheia-secreta-a-universului-0)
 
 
 ### Cinema
@@ -29,6 +32,14 @@
 - [In Perspectiva](https://www.youtube.com/channel/UCGyfpkRHdU-7GVWqgd3oaMg/playlists)
 - [Observatorios de Canarias | IAC Astrofísica](https://www.youtube.com/playlist?list=PL97-eCSWzY-g525QAsnO732MZjniWfxcm)
 - [Mirel Birlan](https://www.youtube.com/channel/UCfZzi4OvvAV7MuJq5ZZgXDg/videos)
+- [The Universe and Space stuff | Kurzgesagt](https://www.youtube.com/playlist?list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF)
+- [Astronomy | CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)
+- [Observing the sky | Active Galactic](https://www.youtube.com/playlist?list=PLFpS4k5NDT1rIddCGNuQfboA15cVmZ-3L)
+- [The wormhole | Shirin Haque](https://www.youtube.com/playlist?list=PLPyCNYnY25B990Rk7w9iwR-iUYTj6E5-y)
+- [Astronomie observațională | Expertise Factory](https://www.youtube.com/playlist?list=PL3Bi5aJDullzWgmCEZ7xAAUTkMGQa_FwP)
+- [Cosmologia bisericească. Prelegere de pr. Dan Bădulescu | hexaimeron](https://www.youtube.com/playlist?list=PL86F5480A78F41847) + https://www.hexaimeron.ro/video/Video.html
+- [Cosmology | Stanford](https://www.youtube.com/playlist?list=PLpGHT1n4-mAuVGJ2E1uF9GSwLsx7p1xtm) + https://theoreticalminimum.com/courses/supplemental + https://en.wikipedia.org/wiki/The_Theoretical_Minimum
+- https://ioanazelko.com/outreach-talks
 
 
 ### Community 
@@ -48,15 +59,21 @@
 - https://www.facebook.com/AstronomyPictureOfTheDay
 - https://www.facebook.com/groups/astronomie.ro
 - https://www.facebook.com/groups/astronomiedeamatori
+- https://www.facebook.com/vladimir.stefanescu
 
 ### Course 
 
 - http://www.cursastronomie.ro/PlanificareAstro.pdf
+- https://www.teachastronomy.com + https://www.teachastronomy.com/glossary + https://www.udemy.com/course/astronomy-state-of-the-art + https://www.coursera.org/learn/astro/home
+- https://www.coursera.org/search?query=astronomy
+- http://sac.csic.es/astrosecundaria/ro/Presentacion.php
+- https://expertisefactory.ro/avada_portfolio/curs-de-astronomie-astro-all-stars + https://youtu.be/TLgeJn2xfIQ
 
 ### News
 
 - [Black holes: Cosmic signal rattles Earth after 7 billion years](https://www.bbc.com/news/science-environment-53993937)
 - https://www.quantamagazine.org/the-new-history-of-the-milky-way-20201215
+- https://curatorial.ro/natura/telescopul-spatial-james-webb-a-surprins-un-peisaj-maiestuos-cu-noi-stele-ce-formeaza-nori-densi-de-gaz-si-praf
 
 ### Picture 
 
@@ -70,6 +87,10 @@
 - [My daughter and I made a site to explore the photos from the ISS](https://news.ycombinator.com/item?id=23519439)
 - https://www.fifthstarlabs.com/#sky-guide
 - https://www.astroclubul.ro/evolutia-instrumentelor-antice-de-astronavigatie-de-comandor-r-vasile-chirila
+- https://upwikiro.top/wiki/Southern_Astrophysical_Research_Telescope
+- https://stellarium.org
+- https://www.timeanddate.com
+- [Identify shell galaxies](https://anaroxanapop.com/shells-identify.html)
 
 ### Radio 
 

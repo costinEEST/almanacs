@@ -28,6 +28,7 @@
 - [The Biggest Ideas in the Universe | Sean Carroll](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) + https://www.preposterousuniverse.com/biggestideas/videos
 - [Going Nuclear - The Science Of Nuclear Weapons | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
 - [A Brief Tour of Relativity and Cosmology | Robert A. McNees](http://jacobi.luc.edu/AdlerTalk.pdf)
+- [FIZICA SI TELECOMUNICATII | Cristian Muresanu](https://www.youtube.com/playlist?list=PLm7uyPwcHexL8Q17XoYiovDvsFIuztwTA)
 
 ### Course
 
