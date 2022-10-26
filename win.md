@@ -17,6 +17,7 @@
 - [Windows Kernel Programming](https://github.com/Truneski/WindowsKernelProgramming-Exercises)
 - https://www.amazon.com/Old-New-Thing-Development-Throughout/dp/0321440307
 - https://ofershmueli.medium.com/best-cybersecurity-books-to-read-72b9a156945e
+- https://github.com/DanielAvinoam/WindowsKernelProgrammingBook
 
 ### Cinema
 
@@ -34,6 +35,7 @@
 
 - [FreeDOS](https://www.facebook.com/groups/freedos)
 - [Raymond Chen](https://devblogs.microsoft.com/oldnewthing/author/oldnewthing)
+- Dmitry Vostokov: https://www.dumpanalysis.org/Links, https://www.patterndiagnostics.com/training-courses, https://leanpub.com/podcasts/frontmatter/dmitry-vostokov-09-11-21
 
 
 ### How to

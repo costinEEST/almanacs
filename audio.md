@@ -82,6 +82,7 @@
 - https://www.regisfreyd.com/posts/2020-05-02-apple-music-is-better-than-spotify
 - https://blog.yossarian.net/2022/02/21/Enjoying-music-curation-again
 - [cat purr generator](https://purrli.com)
+- [Audiobookshelf is a self-hosted audiobook and podcast server](https://github.com/advplyr/audiobookshelf)
 
 ### Security
 

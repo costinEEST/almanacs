@@ -51,6 +51,9 @@
 - https://github.com/bobeff/programming-math-science#math
 - https://icub.unibuc.ro/2022/09/01/seminar-teme-de-istoria-matematicii
 - [Front cover image for Precalculus mathematics in a nutshell : geometry, algebra, trigonometry | George F. Simmons](http://ossmann.blogspot.com/2007/11/math-review.html)
+- [Category Theory For Beginners | Richard Southwell](https://drive.google.com/file/d/1XyZJeeLhcIF6jvfLDUvbaxQkkY82wuG3/view) + https://twitter.com/DumpAnalysis/status/1585336752561999872 + https://u.osu.edu/yau.22/main
+- [Visual Category Theory, CoPart 3 | Dmitry Vostokov](https://leanpub.com/categorytheory3)
+- https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts
 
 ### Course
 

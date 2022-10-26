@@ -58,6 +58,7 @@
 - https://github.com/kklein/life-monitor + https://twitter.com/kevkle/status/1528464290864410626
 - https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt
 - https://alexwlchan.net/2021/01/kempisbot
+- https://alexfrancow.github.io/app-development/Twitter-based-Exploit-Detector
 
 ### Clean code
 

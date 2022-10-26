@@ -94,6 +94,7 @@
 - https://stellarium.org
 - https://www.timeanddate.com
 - [Identify shell galaxies](https://anaroxanapop.com/shells-identify.html)
+- https://olegkutkov.me/2021/02/11/small-satellite-dish-with-rotator
 
 ### Radio 
 
