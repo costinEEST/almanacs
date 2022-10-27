@@ -189,6 +189,7 @@
 - https://github.com/Atcold/pytorch-Deep-Learning
 - [Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 - https://www.getrevue.co/profile/deeprevision/issues/a-revised-history-of-deep-learning-issue-1-1145664
+- https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
 
 ### Paper
 

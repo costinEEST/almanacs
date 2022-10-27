@@ -1,5 +1,6 @@
 ### Book
 
+- https://openstax.org/details/books/astronomy
 - https://www.amazon.com/Fabric-Cosmos-Space-Texture-Reality/dp/0375727205
 - https://www.amazon.com/Copernican-Revolution-Planetary-Astronomy-Development/dp/0674171039
 - https://blog.dpc.dev/dialogue-concerning-the-two-chief-world-systems-galileo-galilei
@@ -44,6 +45,7 @@
 
 ### Community 
 
+- James Newland: https://www.jimmynewland.com/wp/astro/curriculum-guide, https://www.youtube.com/c/jimmynewland/playlists
 - https://ro.wikipedia.org/wiki/Astronom
 - https://www.astro-info.ro/resurse/institutii-astronomice
 - https://www.astro-info.ro/home/calendar-evenimente-astronomice
@@ -62,10 +64,12 @@
 - https://www.facebook.com/vladimir.stefanescu
 - Adrian Șonka: https://sonkab.com/despre-2-2, https://www.fundatiacaleavictoriei.ro/adrian-sonka, https://www.facebook.com/adrian.sonka, http://astro-urseanu.ro/calatorie-univers.html, https://www.youtube.com/channel/UCsbP7zXvXy78ItBdRsMtYvA/playlists, https://twitter.com/sonkab, https://www.youtube.com/playlist?list=UURIQ3LoqPwCndupTcCFWilg
 - Vasile Decu> https://bibliotecaexploratorilor.substack.com/p/biblioteca-exploratorilor-1-2022, https://www.facebook.com/vasile.decu, https://www.rfi.ro/emisiunile-rfi-ro-112332-vasile-decu-mindcraftstories-aventura-inteligenta
+- https://www.facebook.com/groups/teachastronomy/files/files
 
 ### Course 
 
 - http://www.cursastronomie.ro/PlanificareAstro.pdf
+- [Kevin M. Lee](https://astro.unl.edu)
 - https://www.teachastronomy.com + https://www.teachastronomy.com/glossary + https://www.udemy.com/course/astronomy-state-of-the-art + https://www.coursera.org/learn/astro/home
 - https://www.coursera.org/search?query=astronomy
 - http://sac.csic.es/astrosecundaria/ro/Presentacion.php
@@ -95,6 +99,7 @@
 - https://www.timeanddate.com
 - [Identify shell galaxies](https://anaroxanapop.com/shells-identify.html)
 - https://olegkutkov.me/2021/02/11/small-satellite-dish-with-rotator
+- https://github.com/swshadle/physics
 
 ### Radio 
 

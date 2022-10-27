@@ -1,3 +1,7 @@
+### C# 
+
+- https://github.com/stars/pwntester/lists/codeql
+
 ### Python 
 
 - https://jorgectf.github.io/blog/post/practical-codeql-introduction + https://github.com/jorgectf/PracticalCodeQLIntroduction-repo

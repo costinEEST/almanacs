@@ -489,6 +489,7 @@ javascript: (() =>
 - https://xem.github.io/articles/webgl-guide.html + https://twitter.com/MaximeEuziere/status/1261643172582653954
 - https://github.com/spite/virtual-webcam
 - https://github.com/caged/regl-learn
+- https://github.com/erich666/RealTimeRendering
 
 ### WebGPU
 
