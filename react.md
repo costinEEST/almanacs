@@ -126,6 +126,7 @@
 - https://github.com/schoenwaldnils/web-vitals-react-hook
 - https://github.com/bring-shrubbery/use-cookie-consent
 - https://devtrium.com/posts/how-keyboard-shortcut
+- https://github.com/laststance/vite-rtk-query/blob/main/src/hooks/useDidUpdateEffect.ts
 
 ### Lifecycle methods
 
@@ -321,6 +322,10 @@
 - [how many of you are building fullstack apps with your backend all in the remix app?](https://twitter.com/flybayer/status/1554123681860882434)
 - https://twitter.com/crc/status/1519336745808056322
 - https://github.com/stars/knowler/lists/remix
+
+## Solid.js 
+
+- [Solid, Qwik, React](https://github.com/gdorsi/slides-next-wave-of-javascript-fw)
 
 ### Package
 

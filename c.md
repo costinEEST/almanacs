@@ -63,6 +63,7 @@
 - https://www.zdnet.com/google-amp/article/linus-torvalds-prepares-to-move-the-linux-kernel-to-modern-c
 - https://www.lysator.liu.se/c/ANSI-C-grammar-y.html
 - https://argp.github.io/2014/11/04/memory-model-static-analysis-c-programs
+- https://www.rsarai.xyz/architecture-open-source-asterisk
 
 ### Cinema
 

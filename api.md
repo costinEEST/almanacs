@@ -93,6 +93,10 @@
 curl v2.wttr.in/Bucharest
 ```
 
+### Astronomy 
+
+- [Open Astronomy Catalog API](https://github.com/astrocatalogs/OACAPI)
+
 ### Chemistry
 
 - https://github.com/darekkay/tip-of-the-day/tree/master/src/data-sources/chemical-elements-en

@@ -12,6 +12,10 @@
 - https://rbaron.net/blog/2020/02/16/How-to-identify-blurry-images.html
 - https://nuculabs.dev/2022/09/21/how-to-identify-similar-images-using-hashing
 
+### Book 
+
+- [Physically Based Rendering: From Theory To Implementation | Matt Pharr, Wenzel Jakob, and Greg Humphreys](https://github.com/mmp/pbr-book-website)
+
 ### Community
 
 - https://www.facebook.com/groups/urbanstreetphotographygroup

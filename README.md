@@ -160,6 +160,7 @@
 
 ### Similar projects
 
+- [Rebeca Sarai](https://www.rsarai.xyz/building-a-liability)
 - [Vivian Qu](https://vivqu.com/blog/2020/10/18/digital-gardens)
 - [Charlike Mike Reagent](https://github.com/tunnckoCore/resources)
 - [Daniel Sundermeier](https://github.com/danielsundermeier/knowledge)

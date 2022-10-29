@@ -202,6 +202,7 @@
 - https://language-intense.ro/vasile-ioana
 - [German: Biography of a Language | Ruth H. Sanders](https://www.goodreads.com/book/show/7799922-german)
 - https://github.com/blinry/anki-german-sign-language
+- [Germanic Languages Comparison | Ecolinguist](https://www.youtube.com/playlist?list=PLQJ3IAEluGMi995CtO4N1h4aHebMBV6WE)
 
 ### Greek
 
@@ -281,7 +282,9 @@
 - https://twitter.com/DannyBate4/status/1370405688372047876
 - [Learning Latin the Ancient Way | Eleanor Dickey](https://twitter.com/prathyvsh/status/1185363307575689216)
 - https://hackettpublishing.com/lingua-latina-per-se-illustrata-series + http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=38867&PN=1
-- [Luke Amadeus Ranieri](https://www.youtube.com/c/PolymathyLuke/playlists) + https://www.reddit.com/r/latin/comments/ot107s/is_luke_ranieri_from_polymathy_the_guy_with_the + https://www.youtube.com/c/ScorpioMartianus/playlists
+- [Luke Amadeus Ranieri](https://www.youtube.com/c/PolymathyLuke/playlists) + https://www.reddit.com/r/latin/comments/ot107s/is_luke_ranieri_from_polymathy_the_guy_with_the + https://www.youtube.com/c/ScorpioMartianus/playlists + https://www.youtube.com/playlist?list=PLU1WuLg45Siw2bcwgjIj8FgQoJuGTM70j
+- [Irene Regini](https://www.youtube.com/c/SaturaLanx/playlists)
+- [Martinus Loch](https://www.youtube.com/channel/UCIZbV8-oZAg0MWj0AeytWGw/playlists)
 - [Raphael Turrigiano](https://rturrigiano.wixsite.com/linguist/lessons)
 - https://archive.org/details/onlatinlanguage01varruoft + https://koaha.org/wiki/De_lingua_latina + http://www.attalus.org/info/varro.html + https://la.wikisource.org/wiki/De_Lingua_Latina_(Varro,_Schoppe)
 - https://www.youtube.com/playlist?list=PL2Ky2_VcYEd0bGOqRl_drTItO_Ve-Pt7_
@@ -315,6 +318,7 @@
 - https://lazyadmin.ro/biblioteca-sau-librarie
 - https://www.goodreads.com/author/show/3986432.Ramona_G_ncz_l_Davies
 - [Elemente turceşti în limba română | Lazăr Şăineanu](http://dspace.bcu-iasi.ro/handle/123456789/17393)
+- [Gia Manolea](https://www.udemy.com/user/23c967af-c3dc-489d-aba7-e19848b86399)
 
 ### Russian
 

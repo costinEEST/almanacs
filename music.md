@@ -26,6 +26,30 @@
 - https://www.edmprod.com/music-theory
 - https://www.observatorcultural.ro/articol/carturesti-va-recomanda-7
 
+
+### Cheat sheet
+
+- [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
+- [The musical time machine](https://radiooooo.com)
+- [Royalty free songs](https://www.youtube.com/audiolibrary)
+- http://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4 + https://open.spotify.com/playlist/27Ga7s7D4lFUWhZQZ8heqM
+- [Music Theory Distilled - Casey Connor ](https://www.youtube.com/playlist?list=PL618khw0A-t4q9AEsgmfHjqklmkx-PGKq)
+- [Modes and Music Theory - Signals Music Studio](https://www.youtube.com/playlist?list=PLTR7Cy9Sv285kV3pohsMtUg_O_50oDyoR)
+- [Salsa Musicality & Analysis - Marius & Elena Oficial](https://www.youtube.com/playlist?list=PL7iSzWmAf8ttW0TOYeRV9aUvPFphXcrSy)
+- [Bachata Analysis & Musicality - Marius & Elena Oficial](https://www.youtube.com/playlist?list=PL7iSzWmAf8ttkj9BGpgaIfT-v-ehTF53b)
+- [Polyphonic](https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ/playlists)
+- [Ishkur's Guide to Electronic Music.](https://music.ishkur.com)
+- https://www.classicfm.com/discover-music/why-is-a-cd-74-minutes
+- https://www.beatportal.com/features/beatports-definitive-guide-to-techno
+- https://daily.jstor.org/the-heretical-origins-of-the-sonnet
+- https://www.beatportal.com/features/beatports-definitive-guide-to-techno + https://news.ycombinator.com/item?id=26977869
+- [Constantin Brăiloiu](https://en.wikipedia.org/wiki/Constantin_Br%C4%83iloiu)
+- https://divyendusingh.com/music-theory-and-generation
+- https://catalin.francu.com/Music
+- https://onemileatatime.com/guides/airline-boarding-music
+- http://www.charlespetzold.com/essays
+- https://github.com/vpavlenko/study-music
+
 ### Cinema
 
 - https://en.m.wikipedia.org/wiki/Behind_the_Music
@@ -99,27 +123,6 @@
 - [Making Music on Linux | Asahi Lina](https://youtu.be/-sZCMvyZk6k)
 
 
-### Reference
-
-- [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
-- [The musical time machine](https://radiooooo.com)
-- [Royalty free songs](https://www.youtube.com/audiolibrary)
-- http://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4 + https://open.spotify.com/playlist/27Ga7s7D4lFUWhZQZ8heqM
-- [Music Theory Distilled - Casey Connor ](https://www.youtube.com/playlist?list=PL618khw0A-t4q9AEsgmfHjqklmkx-PGKq)
-- [Modes and Music Theory - Signals Music Studio](https://www.youtube.com/playlist?list=PLTR7Cy9Sv285kV3pohsMtUg_O_50oDyoR)
-- [Salsa Musicality & Analysis - Marius & Elena Oficial](https://www.youtube.com/playlist?list=PL7iSzWmAf8ttW0TOYeRV9aUvPFphXcrSy)
-- [Bachata Analysis & Musicality - Marius & Elena Oficial](https://www.youtube.com/playlist?list=PL7iSzWmAf8ttkj9BGpgaIfT-v-ehTF53b)
-- [Polyphonic](https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ/playlists)
-- [Ishkur's Guide to Electronic Music.](https://music.ishkur.com)
-- https://www.classicfm.com/discover-music/why-is-a-cd-74-minutes
-- https://www.beatportal.com/features/beatports-definitive-guide-to-techno
-- https://daily.jstor.org/the-heretical-origins-of-the-sonnet
-- https://www.beatportal.com/features/beatports-definitive-guide-to-techno + https://news.ycombinator.com/item?id=26977869
-- [Constantin Brăiloiu](https://en.wikipedia.org/wiki/Constantin_Br%C4%83iloiu)
-- https://divyendusingh.com/music-theory-and-generation
-- https://catalin.francu.com/Music
-- https://onemileatatime.com/guides/airline-boarding-music
-- http://www.charlespetzold.com/essays
 
 ### Song
 

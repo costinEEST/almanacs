@@ -192,7 +192,6 @@
 - https://github.com/shengqiangzhang/examples-of-web-crawlers
 - [Google Answers to Google Questions](https://github.com/allenai/gooaq)
 - [Reignition: Nick Land's Writings (2011-)](https://github.com/cyborg-nomade/reignition)
-- https://beepb00p.xyz/my-data.html
 - https://github.com/karlicoss/goodrexport
 - [Collects personal data from different sources, displays it as a daily diary](https://github.com/nicbou/timeline)
 - https://github.com/barrucadu/quantified-self-scripts
@@ -201,7 +200,7 @@
 - https://github.com/amjd/HN-Saved-Links-Export
 - https://github.com/thisisgvrt/fitbit-timescaledb-exporter
 - https://github.com/seanbreckenridge/google_takeout_parser
-- [Human Programming Interface](https://github.com/karlicoss/HPI)
+- [Human Programming Interface](https://github.com/karlicoss/HPI) + https://beepb00p.xyz/my-data.html
 - https://github.com/piotrantosz/google-arts-crawler
 - https://github.com/MarcelloLins/ServerlessCrawler-VancouverRealState
 - https://github.com/Haaroon/CCC

@@ -171,6 +171,7 @@
 - https://www.amazon.com/Principles-Digital-Audio-Sixth-Video/dp/0071663460
 - https://jpdias.me/radio/space/sdr/2021/09/28/sats-and-radio-notes.html
 - [Oleg Kutkov](https://olegkutkov.me/about-me)
+- [Radio Astronomy Software Defined Radio](https://github.com/myriadrf/RASDR)
 
 ### 3G
 
@@ -393,6 +394,7 @@
 - https://github.com/hypercore-protocol/p2p-multiwriter-with-autobase
 - https://github.com/zerotier/ZeroTierOne
 - [Easily and securely send files and folders from one computer to another. End-to-end encryption using PAKE, cross-platform (Windows, Linux, Mac), allows resuming interrupted transfers, and more](https://github.com/schollz/croc)
+- https://ingrids.space/posts/why-distributed-systems-dont-work
 
 ### IFPS
 

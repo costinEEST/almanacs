@@ -1,6 +1,8 @@
 ### Book
 
 - https://openstax.org/details/books/astronomy
+- https://www.astrobetter.com/wiki/Textbook+Reviews
+- [Astro 101 online textbook by Nick Strobel](http://www.astronomynotes.com/#details)
 - https://www.amazon.com/Fabric-Cosmos-Space-Texture-Reality/dp/0375727205
 - https://www.amazon.com/Copernican-Revolution-Planetary-Astronomy-Development/dp/0674171039
 - https://blog.dpc.dev/dialogue-concerning-the-two-chief-world-systems-galileo-galilei
@@ -65,6 +67,10 @@
 - Adrian Șonka: https://sonkab.com/despre-2-2, https://www.fundatiacaleavictoriei.ro/adrian-sonka, https://www.facebook.com/adrian.sonka, http://astro-urseanu.ro/calatorie-univers.html, https://www.youtube.com/channel/UCsbP7zXvXy78ItBdRsMtYvA/playlists, https://twitter.com/sonkab, https://www.youtube.com/playlist?list=UURIQ3LoqPwCndupTcCFWilg
 - Vasile Decu> https://bibliotecaexploratorilor.substack.com/p/biblioteca-exploratorilor-1-2022, https://www.facebook.com/vasile.decu, https://www.rfi.ro/emisiunile-rfi-ro-112332-vasile-decu-mindcraftstories-aventura-inteligenta
 - https://www.facebook.com/groups/teachastronomy/files/files
+- https://github.com/jonathansick/awesome-astronomy
+- [Astronomers](https://www.facebook.com/groups/123898011017097)
+- [A curated collection of resources for astrophysical research](https://github.com/dr-guangtou/taotie)
+- https://github.com/mbiesiad/awesome-astronomy
 
 ### Course 
 
@@ -74,6 +80,9 @@
 - https://www.coursera.org/search?query=astronomy
 - http://sac.csic.es/astrosecundaria/ro/Presentacion.php
 - https://expertisefactory.ro/avada_portfolio/curs-de-astronomie-astro-all-stars + https://youtu.be/TLgeJn2xfIQ
+- https://www.astrobetter.com/wiki/tiki-index.php?page=Astro+101+Resources
+- https://github.com/howardisaacson/Intro-to-Astro2022
+- [Michael Zingale](https://zingale.github.io/classes.html) + https://github.com/zingale/astro_animations
 
 ### News
 
@@ -100,6 +109,7 @@
 - [Identify shell galaxies](https://anaroxanapop.com/shells-identify.html)
 - https://olegkutkov.me/2021/02/11/small-satellite-dish-with-rotator
 - https://github.com/swshadle/physics
+- https://github.com/taka-tanaka-zz/astronomy-to-data-science
 
 ### Radio 
 

@@ -56,3 +56,4 @@
 ### Tool
 
 - [Paint program for Unix](https://github.com/justinmeiners/classic-colors)
+- https://hynek.me/til/which-not-posix
