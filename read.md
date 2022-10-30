@@ -48,8 +48,24 @@
 
 ### Science fiction (SF)
 
+- https://www.scribd.com/doc/294591899/Victor-Anestin-p%C4%83rintele-proto-SF-ului-romanesc
 - https://www.amazon.com/Origin-Stories-Evolution-Cognition-Fiction/dp/0674057112
 - https://www.discovermagazine.com/the-sciences/how-the-term-mad-scientist-began-and-how-it-shapes-our-world
+- [The Mezzanine](https://twitter.com/sewsueme/status/1206803619644923904)
+- [The Overstory by Richard Powers](https://twitter.com/robertwmcguire/status/1206578703783911427)
+- [Children of Time](https://twitter.com/BlastLogos/status/1206558816332066816)
+- [Cel mai iubit dintre pământeni (quote)](https://coltulcultural.wordpress.com/2020/01/05/citatul-de-duminica-farmecul-unei-fiinte-straine)
+- https://www.theatlantic.com/entertainment/archive/2020/01/the-witcher-is-absurd-thats-why-its-brilliant/604297
+- [Learn about various sci-fi and fantasy worlds and their specific mechanics (money, politics, culture, climate etc) without having to read the entire novel?](https://twitter.com/anthilemoon/status/1221955242272706561)
+- [The Starship and the Canoe by Kenneth Brower](https://twitter.com/vgr/status/1234714328994988035)
+- [F. Scott Fitzgerald - Marele Gatsby](https://humanitas.ro/assets/pdf/F-Scott-Fitzgerald_Marele-Gatsby.pdf)
+- [James Joyce - Portret al artistului la tinerete](https://humanitas.ro/assets/pdf/James-Joyce_Portret-al-artistului.pdf)
+- [Story Genius - Lisa Cron](https://blog.dpc.dev/story-genius)
+- https://www.atlasobscura.com/articles/one-of-the-earliest-science-fiction-books-was-written-in-the-1600s-by-a-duchess + https://news.ycombinator.com/item?id=23894582
+- https://en.wikipedia.org/wiki/White_Noise_(novel)
+- [Schools offer History classes. What if they also offered Future classes?](https://twitter.com/devonzuegel/status/1287594829904596992) + https://en.wikipedia.org/wiki/Psychohistory_(fictional)
+- https://reasonio.teachable.com/p/worlds-of-speculative-fiction
+- https://blog.printrecarti.ro/carti-pentru-barbati
 
 ### Review
 

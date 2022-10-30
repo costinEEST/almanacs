@@ -89,6 +89,7 @@
 - https://vgpena.github.io/do-you-want-to-build-a-slide-deck
 - https://github.com/heyawhite/tech-writing-tools
 - https://passo.uno/posts/open-source-tools-for-rest-api-documentation
+- [Using a ViT to convert images of equations into LaTeX code](https://github.com/lukas-blecher/LaTeX-OCR)
 
 ### Miscellaneous
 

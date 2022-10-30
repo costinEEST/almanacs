@@ -190,6 +190,7 @@
 - [Home sleep studies - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z1wfXgDNilmpXY7YQklqqA)
 - [Sleep duration is associated with white matter microstructure and cognitive performance in healthy adults](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25132) + https://news.ycombinator.com/item?id=25246419
 - https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function + https://news.ycombinator.com/item?id=25972342
+- https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side
 
 ### Fitness
 
