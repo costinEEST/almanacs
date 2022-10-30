@@ -585,6 +585,7 @@
 - https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers + https://youtu.be/r76ZjdzFExg
 - https://twitter.com/Aayyushhh/status/1452752483596464130 + https://twitter.com/maxkoretskyi/status/1206604253965324288 + https://www.slideshare.net/secret/7URGTJH8P6JUiG + https://twitter.com/poledesfetes/status/1230151645914390528
 - [Compile, archive, unpack, and load compiled modules leveraging v8 cached data](https://github.com/little-core-labs/tiny-module-compiler)
+- [bytecode compiler+VM for the SerenityOS JavaScript engine | Andreas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
 
 ### Parser
 

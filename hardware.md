@@ -150,6 +150,7 @@
 - https://www.youtube.com/playlist?list=PLoKM3Qfxoe0lrsY5lMl0iiJwNeJ2g-fgy
 - [How to Build a Transistor](https://twitter.com/rbhar90/status/1367901014771126277)
 - https://www.youtube.com/playlist?list=PLra8hz8BV8EmpAXQvULfpwWHGT5yIr_7U
+- https://lcamtuf.substack.com/p/random-objects-nuvistor
 
 ### Locksmith
 
@@ -220,6 +221,7 @@
 - https://podcasts.apple.com/us/podcast/the-story-of-how-tsmc-came-to-dominate-the-world/id1056200096?i=1000506468665
 - https://tlbh.it/002_https_tlbh_dot_it_CR.html
 - https://www.hanselminutes.com/860/c64-os-a-new-operating-system-for-the-commodore-64-with-gregory-nau
+- https://podcasts.apple.com/us/podcast/the-battle-over-semiconductors-us-china-competition/id1205359334?i=1000581366979
 
 ### Tool
 

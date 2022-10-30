@@ -114,6 +114,7 @@
 - [Let's Learn Classical Chinese | Colin Gorrie](https://www.youtube.com/playlist?list=PLmp7RhkyEu0vz1NYNa7V9xFuRBsW9a9mt)
 - https://www.amazon.com/Tuttle-Learners-Chinese-English-Dictionary-Romanized/dp/0804845271
 - https://github.com/shimohq/chinese-programmer-wrong-pronunciation
+- https://restofworld.org/2022/china-social-media-censorship
 
 ### Arabic
 
