@@ -83,6 +83,7 @@
 - https://blog.yossarian.net/2022/02/21/Enjoying-music-curation-again
 - [cat purr generator](https://purrli.com)
 - [Audiobookshelf is a self-hosted audiobook and podcast server](https://github.com/advplyr/audiobookshelf)
+- https://www.dutchosintguy.com/post/audio-osint
 
 ### Security
 

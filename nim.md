@@ -1,3 +1,7 @@
+### Cinema 
+
+- [Learn Nim | rwxrob](https://www.youtube.com/playlist?list=PLrK9UeDMcQLonBYN7FKnqc7VeGqnj0h9h)
+
 ### Development
 
 - [Write NodeJS native extensions in Nim](https://github.com/andi23rosca/napi-nim)

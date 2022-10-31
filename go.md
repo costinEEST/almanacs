@@ -164,6 +164,7 @@
 - [How to use Go to build shared libraries](https://github.com/jbuberel/buildmodeshared)
 - https://github.com/DmitryTsepelev/advent_of_code_2021
 - https://github.com/luk4z7/go-concurrency-guide
+- https://github.com/rwxrob/awesome-go
 
 ### Opinion
 

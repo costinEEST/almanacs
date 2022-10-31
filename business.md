@@ -309,6 +309,7 @@
 - https://www.matthewball.vc/the-metaverse-primer
 - [Apple, Its Control Over the iPhone, and The Internet](https://www.matthewball.vc/all/applemetaverse)
 - [Amir Yaron, the Governor of the Bank of Israel](https://twitter.com/ittaia/status/1544730206342189056)
+- https://danielmiessler.com/blog/why-apple-keeps-winning
 
 
 ### Radio
@@ -317,3 +318,4 @@
 - https://markmcgranaghan.com/podcasts
 - https://taylorpearson.me/bookreview/origin-of-wealth + https://mutinyfund.com/mutiny-team
 - https://founders.simplecast.com/episodes/262-the-adventures-of-herbie-cohen-worlds-greatest-negotiator
+- https://podcast.oddly-influenced.dev/episodes/david-graeber-s-three-kinds-of-economies

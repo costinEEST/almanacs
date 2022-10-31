@@ -130,6 +130,7 @@
 - https://github.com/PortSwigger/serialization-examples/tree/master/java
 - https://github.com/threedr3am/learnjavabug
 - https://github.com/javaweb-sec/javaweb-sec
+- https://guidedhacking.com/forums/java-reverse-engineering-course-jre100.538
 
 
 ### Microservice

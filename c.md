@@ -67,6 +67,7 @@
 
 ### Cinema
 
+- [Learning C | rwxrob](https://www.youtube.com/playlist?list=PLrK9UeDMcQLpKY24-psIN6pBJstejMC2Y)
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeCP-KM-pekj30JVzmSKhpK
 - https://github.com/hellerve/programming-talks#c
 - [Modern Memory Safety: C/C++ Vulnerability Discovery, Exploitation, Hardening](https://github.com/struct/mms)
