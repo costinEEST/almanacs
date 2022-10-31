@@ -69,6 +69,7 @@
 - [How do you check if you are inside a container?](https://twitter.com/g3rzi/status/1564594977220562945)
 - https://erzeghi.medium.com/yet-another-brief-history-of-container-d-2962eac9679e
 - https://blog.mobyproject.org/where-are-containerds-graph-drivers-145fc9b7255
+- [Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 
 ### Internals
 

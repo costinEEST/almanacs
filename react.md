@@ -325,6 +325,7 @@
 
 ## Solid.js 
 
+- https://youtu.be/dOgnQ9SuKYk
 - [Solid, Qwik, React](https://github.com/gdorsi/slides-next-wave-of-javascript-fw)
 
 ### Package
@@ -461,6 +462,7 @@
 
 ### Tooling
 
+- https://github.com/yyx990803/vite-vs-next-turbo-hmr
 - https://blog.arkency.com/how-i-migrated-a-rails-app-from-webpack-to-esbuild-and-got-smaller-and-faster-js-builds
 - https://survivejs.com/webpack
 - [tsc --watch nodemon dist/src/index.js](https://twitter.com/benawad/status/1211700652549779456)

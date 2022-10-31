@@ -126,6 +126,7 @@
 - [A SQL database implemented purely in TypeScript type annotations.](https://github.com/codemix/ts-sql)
 - https://github.com/ghoullier/awesome-template-literal-types
 - [A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler](https://github.com/sandersn/mini-typescript)
+- [TypeScript AST Resources](https://twitter.com/grow_love/status/1585711764565811201)
 
 ### Tool
 

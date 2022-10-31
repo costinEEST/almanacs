@@ -71,6 +71,8 @@
 - [Astronomers](https://www.facebook.com/groups/123898011017097)
 - [A curated collection of resources for astrophysical research](https://github.com/dr-guangtou/taotie)
 - https://github.com/mbiesiad/awesome-astronomy
+- [Meteor_Romania](https://www.facebook.com/groups/1000019113848795)
+
 
 ### Course 
 
