@@ -424,6 +424,7 @@
 - https://www.ted.com/talks/tomas_pueyo_why_stories_captivate?language=en
 - [Comics As Communication: A Functional Approach | Paul Fisher Davies](https://www.goodreads.com/book/show/52915703-comics-as-communication)
 - https://web.archive.org/web/20210508035657/https://blog.raeez.com/reading-list
+- https://www.kryogenix.org/days/2022/10/18/don-t-read-off-the-screen
 
 ### Thai
 

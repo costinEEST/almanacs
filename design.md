@@ -21,6 +21,7 @@
 - https://shepherd.com/best-books/visual-branding
 - https://childrensdesignguide.org
 - [After the Bauhaus, Before the Internet. A History of Graphic Design Pedagogy | Geoff Kaplan](https://mitpress.mit.edu/9781949484090/after-the-bauhaus-before-the-internet)
+- https://ralphammer.com/j-j-gibson-the-meaning-of-the-world
 
 ### Cinema
 

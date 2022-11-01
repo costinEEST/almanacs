@@ -205,6 +205,7 @@
 - https://github.com/NLeSC/awesome-research-software-registries
 - https://iq.opengenus.org/array-indices-start-from-1
 - https://sijinjoseph.com/programmer-competency-matrix
+- https://matt-rickard.com/accidentally-turing-complete
 
 ### Radio
 

@@ -139,6 +139,7 @@
 - [A fast tool to scan CRLF vulnerability](https://github.com/dwisiswant0/crlfuzz)
 - [Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server](https://github.com/xo/xo)
 - https://github.com/cybercase/google-forms-html-exporter
+- [LSB steganography, capable of hiding any file within an image](https://github.com/DimitarPetrov/stegify)
 
 ### Radio
 

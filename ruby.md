@@ -68,6 +68,7 @@
 - [Mastering Ruby Closures by Benjamin Tan Wei Hao](https://www.oreilly.com/library/view/mastering-ruby-closures/9781680502909)
 - [Hotwired ATS](https://book.hotwiringrails.com/chapters)
 - https://devtalk.com/books/programming-ruby-3-2-5th-edition + https://twitter.com/noelrap/status/1585285902250614784
+- [StimulusReflex Patterns](https://julianrubisch.gumroad.com/l/JRSRP)
 
 ### Cheat sheet
 

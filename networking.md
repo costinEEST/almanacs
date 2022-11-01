@@ -232,6 +232,7 @@
 - https://www.blackhillsinfosec.com/the-dns-over-https-doh-mess
 - https://github.com/vincentcox/bypass-firewalls-by-DNS-history
 - [Alternative DNS servers | Jan-Piet Mens](https://jpmens.net/2010/10/29/alternative-dns-servers-the-book-as-pdf) + https://jpmens.net/dns
+- https://matt-rickard.ghost.io/exploiting-protocols-for-fun
 
 ### TCP/UDP
 
@@ -321,6 +322,7 @@
 - https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp
 - https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls
 - https://twitter.com/xargsnotbombs/status/1517505549272682496
+- https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement
 
 ### Secure Shell
 

@@ -141,6 +141,10 @@
 
 - https://www.forbes.com/sites/michaeldelcastillo/2022/04/27/edward-snowden-revealed-as-key-participant-in-mysterious-ceremony-creating-2-billion-anonymous-cryptocurrency
 
+### Elon Musk 
+
+- [Elon Musk takes control of Twitter in $44bn deal](https://www.bbc.com/news/technology-63402338)
+
 ### Herodotus
 
 - https://www.youtube.com/playlist?list=PLrAPUF78nSajp1ihfa2iDQ3-PmyW5T27f

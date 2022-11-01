@@ -19,7 +19,14 @@
 - https://ro.wikipedia.org/wiki/Sidereus_Nuncius_(Anun%C8%9Bul_stelar) + https://humanitas.ro/humanitas/carte/sidereus-nuncius-sau-anun%C8%9Bul-stelar + [Cosmologie Filosofică | Dana Jalobeanu](http://blogs.ub-filosofie.ro/pce/?page_id=996) + https://youtu.be/MJXGyGe-6Qo
 - https://astronomyhubcluj.wixsite.com/astro/post/ce-am-citit-%C3%AEn-2020-recomand%C4%83rile-anului-2021
 - [George şi cheia secretă a Universului](https://humanitas.ro/humanitas/carte/george-%C5%9Fi-cheia-secreta-a-universului-0)
+- https://ro.wikipedia.org/wiki/Arheoastronomie#Bibliografie + https://nottinghamtrent.academia.edu/MarcFrincu
 
+### Binocular 
+
+- https://www.academia.edu/44150388/Istoria_binoclului_Fragmentarium
+- https://earthsky.org/astronomy-essentials/top-tips-for-using-ordinary-binoculars-for-stargazing
+- https://www.skyatnightmagazine.com/advice/best-binoculars-for-astronomy
+- https://futurism.com/best-binoculars-for-astronomy
 
 ### Cinema
 
@@ -43,6 +50,8 @@
 - [Cosmologia bisericească. Prelegere de pr. Dan Bădulescu | hexaimeron](https://www.youtube.com/playlist?list=PL86F5480A78F41847) + https://www.hexaimeron.ro/video/Video.html
 - [Cosmology | Stanford](https://www.youtube.com/playlist?list=PLpGHT1n4-mAuVGJ2E1uF9GSwLsx7p1xtm) + https://theoreticalminimum.com/courses/supplemental + https://en.wikipedia.org/wiki/The_Theoretical_Minimum
 - https://ioanazelko.com/outreach-talks
+- [Originile Noastre Pe Intelesul Tuturor | FluxMagnetic](https://www.youtube.com/playlist?list=PL75C702B13AF5FD2F) + https://www.youtube.com/playlist?list=PL82yk73N8eoX8RpvQfjdupAKFWKjtMhTe
+- [Seasonal star guides | Delta Planetarium](https://www.youtube.com/playlist?list=PLNk7FC-XaRCkKCeCxl0vrDFi9JE784ZX8)
 
 
 ### Community 
@@ -72,7 +81,14 @@
 - [A curated collection of resources for astrophysical research](https://github.com/dr-guangtou/taotie)
 - https://github.com/mbiesiad/awesome-astronomy
 - [Meteor_Romania](https://www.facebook.com/groups/1000019113848795)
+- https://planetariubm.ro/glosar
 
+### Constellation
+
+- http://crt-ro.com/39constelatii + https://www.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro
+- https://planetariubm.ro/2011/03/26/povestile-cerului-constelatiile-de-la-a-la-v-adica-z-prezentate-de-planetariul-baia-mare
+- https://www.academia.edu/44777060/MYTHOLOGICAL_ORIGIN_OF_CONSTELLATIONS_AND_THEIR_DESCRIPTION_ARATUS_PSEUDO_ERATOSTHENES_HYGINUS
+- https://www.youtube.com/playlist?list=PLNk7FC-XaRCko6eLOLeegYSS9hh0_kMSL
 
 ### Course 
 
@@ -91,12 +107,16 @@
 - [Black holes: Cosmic signal rattles Earth after 7 billion years](https://www.bbc.com/news/science-environment-53993937)
 - https://www.quantamagazine.org/the-new-history-of-the-milky-way-20201215
 - https://curatorial.ro/natura/telescopul-spatial-james-webb-a-surprins-un-peisaj-maiestuos-cu-noi-stele-ce-formeaza-nori-densi-de-gaz-si-praf
+- https://biblioteca-digitala.ro/?pub=165-perseus-revista-de-astronomie
 
 ### Picture 
 
 - https://maximusphotography.files.wordpress.com/2022/10/sun-oct20.gif
 - [Our galaxy](https://www.eso.org/public/images/eso1242a/zoomable)
-
+- https://www.naturettl.com/astrophotography-ebook
+- [Astrophotography | Astro La Vista](https://www.youtube.com/playlist?list=PLxT-jDX21CislG3AHgmn_0E-G7PHjUFik)
+- https://www.youtube.com/playlist?list=PL5JKknVIXUMGtD8RGWZEqfn7c89sVr5NZ
+- https://biblioteca-digitala.ro/?descriptor=41892-astrofotografie
 
 ### Tool
 
@@ -113,6 +133,15 @@
 - https://github.com/swshadle/physics
 - https://github.com/taka-tanaka-zz/astronomy-to-data-science
 
+
+### Telescope
+
+- https://www.academia.edu/39138210/Dobson_si_telescoapele_sale_pentru_amatori
+- [Gran Telescopio CANARIAS (GTC)](http://www.gtc.iac.es/gtc/gtc.php)
+- https://www.space.com/22505-worlds-largest-telescopes-explained-infographic.html
+- [Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/story/index.html)
+
 ### Radio 
 
+- https://planetariubm.ro/ghid-practic-de-orientare-pe-bolta-cereasca
 - https://www.thegreatcourses.com/courses/the-search-for-exoplanets-what-astronomers-know + https://eli.thegreenplace.net/2022/summary-of-reading-july-september-2022

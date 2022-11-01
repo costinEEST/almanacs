@@ -208,6 +208,7 @@
 ### Styling
 
 - https://www.robinwieruch.de/react-css-styling
+- [Library Upgrade Guide: <style> (most CSS-in-JS libs)](https://github.com/reactwg/react-18/discussions/110)
 - [Use CSS Variables instead of React Context](https://epicreact.dev/css-variables)
 - https://www.pluralsight.com/courses/react-components-styling
 - [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js) + https://css-tricks.com/the-differing-perspectives-on-css-in-js
@@ -266,6 +267,7 @@
 - https://github.com/nikolasburk/server-components-demo-with-prisma + https://twitter.com/nikolasburk/status/1347231065602187272
 - [Shopify's vision for the future of commerce with Ilya Grigorik](https://changelog.com/podcast/469)
 - https://shopify.engineering/react-server-components-best-practices-hydrogen
+- https://twitter.com/jplhomer/status/1587095536833859584 + https://hydrogen.shopify.dev/roadmap + https://twitter.com/jjenzz/status/1587098503326613506
 
 ### State management
 

@@ -57,6 +57,7 @@
 - http://cbloomrants.blogspot.com/2021/01/some-jpeg-tools.html
 - https://blog.daviddworken.com/posts/simple-image-steganography
 - https://github.com/collections/pixel-art-tools
+- [Colorize your photos for free](https://palette.fm)
 
 ### Photo
 
