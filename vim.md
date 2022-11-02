@@ -42,5 +42,6 @@
 - [PowerShell also has a #vi mode](https://twitter.com/emanuelduss/status/1503999923980840964)
 - [Neovim and Tmux for JavaScript Development](https://elijahmanor.com/blog/neovim-tmux)
 - https://github.com/LunarVim/Neovim-from-scratch
+- https://github.com/stars/nikolalsvk/lists/vim-goodies
 
 

@@ -91,6 +91,7 @@
 - [Mircea Iliescu](https://www.digi24.ro/emisiuni/scena-deschisa/scena-deschisa-26-martie-23-00-1885183)
 - [Vertebrate Genomes Project](https://vgp.github.io/genomeark) + https://youtu.be/9RF6eXxxqII
 - https://www.hhmi.org/news/complete-human-genome-deciphered-first-time
+- https://davidson.weizmann.ac.il/en/online/sciencenews/2022-nobel-prize-physiology-or-medicine-genetics-human-evolution
 
 ### Miscellaneous
 

@@ -667,6 +667,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://medium.com/lambda-store/terminal-chat-application-using-serverless-redis-1feec78cbfa
 - https://dev.to/crtr0/building-a-virtual-conference-ticket-with-begin-aws-puppeteer-hgk
 - [Self-Hosted URL Shortner using Vercel's Serverless API and MongoDB](https://github.com/adityatelange/gourl)
+- https://pragmaticpineapple.com/creating-url-shortener-cloudflare-workers
 
 ### Miscellaneous
 

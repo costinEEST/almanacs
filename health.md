@@ -319,6 +319,7 @@
 - [Hormonal theory of weight management - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9wlbcBO4wBL2M2-_3C9FSVh)
 - [Understanding the Warburg Effect: The Metabolic Requirements of Cell Proliferation.](https://sci-hub.do/https://science.sciencemag.org/content/324/5930/1029.abstract)
 - [Glucose Hysteresis as a Mechanism in Dietary Restriction, Aging and Disease (recommended by Robb Wolf)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2755292) + [Secrets of the lac Operon](https://pubmed.ncbi.nlm.nih.gov/17063032) + https://youtu.be/R4qVdiCzNck
+- https://www.nationalgeographic.com/magazine/article/low-calories-sweeteners-might-not-be-as-good-for-us-as-we-thought
 
 ### Skin
 

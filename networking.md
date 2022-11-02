@@ -200,6 +200,7 @@
 - [get an IP in a geographical location or country](https://www.netmeister.org/gip)
 - https://i.blackhat.com/EU-21/Wednesday/EU-21-Shupeng-New-Ways-of-IPV6-Scanning.pdf
 - https://lite.ip2location.com/russian-federation-ip-address-ranges
+- https://pragmaticpineapple.com/how-to-preview-localhost-website-on-mobile-phone
 
 ### Domain Name System (DNS)
 

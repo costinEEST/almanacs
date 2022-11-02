@@ -24,6 +24,7 @@
 - [Guidelines for writing sane, maintainable and scalable Sass](https://github.com/KittyGiraudel/sass-guidelines)
 - [How to test if a font is available](https://blog.jim-nielsen.com/2022/font-family-and-supports)
 - https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b
+- https://github.com/RodrigoTomeES/prefers-color-scheme-hack
 
 ### Book
 

@@ -25,6 +25,7 @@
 ### Community 
 
 - [Carlo Rovelli](https://www.cpt.univ-mrs.fr/~rovelli) + https://howtoacademy.com/podcasts/cornelia-parker-meets-carlo-rovelli-the-hidden-nature-of-things
+- https://davidson.weizmann.ac.il/en/online/sciencehistory/scientist-who-found-difference-between-quantum-particle-and-soccer-ball
 
 ### News
 
