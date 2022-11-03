@@ -496,6 +496,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [A fast offline IP lookup library. Detects VPN/hosting](https://github.com/Umkus/ip-index)
 - [converts CRON expressions into human readable descriptions](https://github.com/bradymholt/cronstrue)
 - [Easy to use WHOIS info for domains, TLDs and IPs](https://github.com/LayeredStudio/whoiser)
+- [A CLI to create code sandboxes with automatic HTTPS in your cloud provider account](https://github.com/eleven-sh/cli)
+- [Directory serve is a CLI library for sending and receiving a file from your android and IOS devices](https://github.com/cube-root/directory-serve)
 
 ### Testing
 
