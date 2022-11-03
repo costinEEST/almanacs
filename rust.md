@@ -33,6 +33,7 @@
 - [Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers](https://github.com/google/autocxx)
 - [Performance Analysis and Tuning on Modern CPUs](https://github.com/grahamking/perf-ninja-rs)
 - https://www.amazon.com/Rust-Atomics-Locks-Low-Level-Concurrency/dp/1098119444
+- https://github.com/smallnest/concurrency-programming-via-rust
 
 ### Bot
 

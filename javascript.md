@@ -567,6 +567,8 @@
 - https://solverfox.dev/writing/testing-dispatch-event-pitfalls
 - [goodies for my test automation framework](https://github.com/stars/sidorares/lists/tv)
 - https://contra.com/p/PWBcPYZc-rewriting-tests-from-cypress-to-playwright-using-gpt-3
+- https://github.com/MarcusFelling/demo.playwright
+- https://github.com/dnv-opensource/playwright-live-recorder
 
 ### Virtual machine
 
