@@ -222,6 +222,7 @@
 - https://twitter.com/BeilinsonOrel/status/1278007877521870848
 - https://www.orelbeilinson.com/language-textbooks
 - [Dicționar geografic român-maghiar | Székely Győző](https://www.scribd.com/doc/131004043/Dictionar-Geografic-Roman-maghiar)
+- https://twitter.com/BeilinsonOrel/status/1588873985932267522
 
 ### Hindi
 

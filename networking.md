@@ -172,6 +172,7 @@
 - https://jpdias.me/radio/space/sdr/2021/09/28/sats-and-radio-notes.html
 - [Oleg Kutkov](https://olegkutkov.me/about-me)
 - [Radio Astronomy Software Defined Radio](https://github.com/myriadrf/RASDR)
+- [Experimental WebAssembly build of GNU Radio](https://github.com/marcnewlin/gnuradio-web)
 
 ### 3G
 
@@ -349,6 +350,7 @@
 - https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse
 - https://lessonsec.com/posts/email-spoofing-101
 - [Sending Emails with Mailchannels and Cloudflare Workers](https://maggieliu.dev/posts/emails)
+- http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html
 
 ### WebSockets
 

@@ -33,6 +33,8 @@
 - https://bradgessler.com/talks/streaming-rest
 - [Prints markdown containing a random post from thecodinglove.com](https://github.com/valeriomazzeo/danger-the_coding_love)
 - https://github.com/Purple-Magic/tramway-core
+- https://github.com/shftco/rails-api-boilerplate
+
 
 ### Algorithm
 
@@ -102,6 +104,7 @@
 - https://github.com/sandipsubedi/notes_ruby_on_rails
 - https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 - https://github.com/davidgf/design-patterns-in-ruby
+- https://github.com/stars/davidteren/lists/templates
 
 ### Bot 
 
@@ -233,6 +236,7 @@
 - https://perlun.eu.org/en/2017/08/24/debugging-hard-to-reproduce-ruby-memory-leaks
 - https://dev.to/kanani_nirav/debugging-a-ruby-on-rails-application-in-visual-studio-code-20fk
 - [Ruby Heap Dump Inspector](https://github.com/zombocom/heapy)
+- https://github.com/stars/davidteren/lists/rails-performance
 
 ### Deploy
 
@@ -240,6 +244,7 @@
 - https://www.joyfulbikeshedding.com/blog/2021-01-06-the-future-of-traveling-ruby.html
 - https://www.johnhawthorn.com/2018/01/this-website-is-a-makefile
 - https://github.com/MikeRogers0/Talks/tree/master/slides/From-Heroku-To-Kubernetes
+- http://code.jeremyevans.net/2022-09-02-migrating-off-heroku.html
 - https://www.stefanvermaas.com/2022/06/11/bridgetown-and-digital-ocean-apps
 - https://blog.arkency.com/dont-waste-your-time-on-assets-compilation-on-heroku
 - https://github.com/pacuna/rails-on-docker-ebook + https://github.com/pacuna/deploying-rails-with-kubernetes + https://github.com/pacuna/searchapp
@@ -297,6 +302,8 @@
 - https://yossarian.net/snippets#ruby
 - [Examples of C extensions in Ruby gems](https://github.com/flavorjones/ruby-c-extensions-explained)
 - [Find dead-links (broken links)](https://github.com/hahwul/deadfinder)
+- https://github.com/stars/davidteren/lists/spec-examples
+- https://github.com/stars/davidteren/lists/cool-ruby-gems
 
 ### Inspire
 
@@ -322,6 +329,7 @@
 - [Commandline static URL shortner](https://gitlab.com/cliz/code)
 - https://github.com/smirnov-am/awesome-saas-boilerplates
 - https://github.com/mehan/hip-hop-misogyny-stats
+- https://github.com/stars/davidteren/lists/rails-app-examples
 
 ### Internals
 

@@ -117,7 +117,7 @@
 - [The World of YouTube Math Communication | Scott Hershberger](https://www.ams.org/journals/notices/202210/rnoti-p1789.pdf)
 - [Edward Frenkel](https://www.youtube.com/c/edfrenkel/playlists)
 
-### Mathematicians
+### Mathematician
 
 - [Évariste Galois](https://twitter.com/3blue1brown/status/1245468127061610496) + https://www.damninteresting.com/radical-solutions
 - [John Horton Conway (1937-2020)](https://www.scottaaronson.com/blog/?p=4732) + http://raganwald.com/2020/05/03/fractran.html
@@ -127,6 +127,7 @@
 - [Alvaro Lozano-Robledo](https://twitter.com/MathAndCobb/status/1536893871552086016) + https://alozano.clas.uconn.edu/math5020-elliptic-curves
 - [Mircea Pitici](https://www.theoremoftheday.org/Resources/Bibliography.htm#MirceaPitici)
 - [Paul Lockhart](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+- Stephen Wolfram: https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure, https://www.wolframscience.com/metamathematics, https://www.reddit.com/r/IAmA/comments/axf32h/i_am_stephen_wolfram_founder_ceo_of_wolfram, https://www.amazon.com/Metamathematics-Foundations-Physicalization-Stephen-Wolfram/dp/1579550762
 
 ### Miscellaneous
 

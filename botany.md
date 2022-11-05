@@ -41,6 +41,7 @@
 - https://www.pnas.org/post/journal-club/massive-tree-planting-efforts-drylands-can-actually-cause-more-warming
 - https://www.theguardian.com/environment/2022/sep/30/superhero-sphagnum-moss-save-communities-flooding
 - https://mossandfog.com/some-of-the-most-amazing-trees-from-around-the-world
+- https://www.sor.ro/salvia-revelata-o-noua-specie-de-planta-descoperita-in-romania
 
 ### Radio
 

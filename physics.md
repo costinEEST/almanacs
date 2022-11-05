@@ -97,3 +97,7 @@
 ### Reference
 
 - https://www.freeingenergy.com/understanding-the-basics-of-electricity-by-thinking-of-it-as-water
+
+### Teacher 
+
+- Cristian Presură: http://www.math.pitt.edu/~sph/1230/Boyer-AHistoryOfMathematics.pdf, https://www.amazon.com/History-Mathematics-3e-Carl-Boyer/dp/0470525487

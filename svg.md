@@ -31,6 +31,7 @@
 - https://basicons.xyz
 - https://github.com/microsoft/fluentui-emoji + https://twitter.com/rauschma/status/1557468341949923334
 - [Communication symbol set designed for adults with language difficulties](https://github.com/mulberrysymbols/mulberry-symbols)
+- [A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)](https://github.com/n3r4zzurr0/svg-spinners)
 
 ### Tutorials
 
