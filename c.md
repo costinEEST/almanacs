@@ -104,7 +104,7 @@
 ### Compiler
 
 - https://daniao.ws/notes/pba/c-compilation-process
-- [A Compiler Writing Journey.](https://github.com/DoctorWkt/acwj) + https://twitter.com/binitamshah/status/1312760842119569409
+- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 - https://github.com/seven1m/malcc
 - https://godbolt.org
 - [Getting the maximum of your C compiler, for security](https://airbus-seclab.github.io/c-compiler-security) + https://twitter.com/AirbusSecLab/status/1432681320833036294

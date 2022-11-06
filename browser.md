@@ -70,6 +70,7 @@
 - https://docs.google.com/presentation/d/1NVyRgitg-2CyN3BuoZZF6F-Dw8PuDybFjkFICAyYPHo
 - [Part 1 covers V8 internals such as objects, properties, and memory optimizations](https://jhalon.github.io/chrome-browser-exploitation-1)
 - [Building Chrome V8 on Windows](https://gist.github.com/jhalon/5cbaab99dccadbf8e783921358020159)
+- [Bun? Deno? Node.js? Creating your own JavaScript Runtime using V8, Libuv and more](https://github.com/ErickWendel/myownnode)
 
 ### Exploit
 

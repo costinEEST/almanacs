@@ -96,6 +96,8 @@ curl v2.wttr.in/Bucharest
 ### Astronomy 
 
 - [Open Astronomy Catalog API](https://github.com/astrocatalogs/OACAPI)
+- [James Webb Space Telescope (JWST) tracking REST API](https://github.com/avatsaev/webb-tracker-api)
+- https://github.com/cr0sis/Real-time-International-space-station-tracker
 
 ### Chemistry
 

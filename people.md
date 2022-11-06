@@ -291,6 +291,10 @@
 - https://twitter.com/curiouswavefn/status/1453030427980025863
 - https://humanitas.ro/humanitas/carte/patimile-sfantului-tommaso-daquino
 
+### Oliver Sacks
+
+- https://twitter.com/curiouswavefn/status/1589123678595616768
+
 ### Otto Rank (1884-1939; psychoanalyst, writer, and philosopher) 
 
 - https://archives.upenn.edu/collections/finding-aid/upt50r198

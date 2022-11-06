@@ -179,6 +179,7 @@
 - https://hackaday.com/2022/09/28/the-first-microcomputer-the-q1
 - https://hackaday.com/2022/09/23/exploring-texas-instruments-forgotten-cpu
 - [A CPU implemented in a modular synthesizer](https://github.com/katef/eurorack-cpu)
+- https://github.com/stars/pamoroso/lists/intel-8080
 
 ### Miscellaneous
 

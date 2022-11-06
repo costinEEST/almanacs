@@ -20,6 +20,7 @@
 - https://www.amazon.com/General-Relativity-Theoretical-Leonard-Susskind-dp-1541601777/dp/1541601777 + https://twitter.com/curiouswavefn/status/1538300558724845568
 - https://github.com/troessner/articles/blob/master/docs/2015-03-03-you-are-what-you-read-my-favorite-books.md
 - https://github.com/oreillymedia/physics_for_game_developers_2e
+- https://journal.paoloamoroso.com/the-physicists-daughter-a-wartime-mystery
 
 ### Cinema
 

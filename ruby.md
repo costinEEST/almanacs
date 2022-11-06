@@ -254,7 +254,7 @@
 - [What is the cheapest and most reliable way to host a Rails app with Postgres, Redis, mail, and SSL?](https://twitter.com/olivierlacan/status/1554152248392966151)
 - [one process, one pod](https://twitter.com/nateberkopec/status/1554604870073729025) + https://www.speedshop.co/2017/10/12/appserver.html
 - [Has anybody deployed their Rails apps to https://fly.io?](https://twitter.com/bradgessler/status/1554464283085492226) + https://twitter.com/bradgessler/status/1563226936184164352 + https://greg.nokes.name/2022/08/25/heroku-removing-free-teir + https://blog.replit.com/heroku-alternatives
-
+- https://www.johnhawthorn.com/2018/01/this-website-is-a-makefile
 
 ### Gem
 

@@ -128,6 +128,7 @@
 - https://meiert.com/en/blog/professional-agile-leadership-resources
 - https://github.com/pdfernhout/High-Performance-Organizations-Reading-List
 - [The Deadline: A Novel About Project Management | Tom DeMarco](https://www.2uo.de/Books/the-deadline)
+- [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
 
 ### Leadership
 
@@ -225,6 +226,7 @@
 - https://valuegrowthinvesting.teachable.com/courses
 - https://luttig.substack.com/p/dont-forget-microsoft
 - https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model
+- https://boyle.substack.com/p/five-books-for-venture-capital
 
 ### Economics
 
