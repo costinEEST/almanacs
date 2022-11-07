@@ -228,7 +228,7 @@
 - [Get interior design ideas from AI (28,867 interiors rendered)](https://interiorai.com)
 - http://rez0.blog/art/2022/09/29/how-to-create-ai-art.html
 - [How to detect any CMS version with Machine Learning Algorithms](https://alexfrancow.github.io/app-development/welcome-to-jekyll)
-- [Stable Diffusion is only 30 days old](https://twitter.com/daniel_eckler/status/1572210382944538624)
+- [Stable Diffusion is only 30 days old](https://twitter.com/daniel_eckler/status/1572210382944538624) + https://twitter.com/daniel_eckler/status/1589629394372669440
 
 ### Opinion
 

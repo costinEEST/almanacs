@@ -131,6 +131,7 @@
 - https://github.com/threedr3am/learnjavabug
 - https://github.com/javaweb-sec/javaweb-sec
 - https://guidedhacking.com/forums/java-reverse-engineering-course-jre100.538
+- [exploitation of path traversal vulnerabilities in Java web applications](https://github.com/Invicti-Security/web-inf-path-trav) + https://twitter.com/har1sec/status/1588494563379122177
 
 
 ### Microservice
