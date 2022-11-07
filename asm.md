@@ -63,6 +63,7 @@
 ### Community 
 
 - [Eli Bendersky](https://eli.thegreenplace.net/tag/assembly)
+- https://www.i-programmer.info/news/82-heritage/15831-computer-pioneer-kathleen-booth-dies-at-age-100.html
 
 ### Debugging
 

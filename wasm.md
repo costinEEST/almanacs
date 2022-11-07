@@ -62,6 +62,7 @@
 - [v86 emulates an x86-compatible CPU and hardware](https://github.com/copy/v86)
 - https://rawkode.dev/articles/introduction-to-webassembly-on-kubernetes-with-krustlet
 - https://twitter.com/rikarends/status/1550908034947420161
+- https://www.secondstate.io/articles/run-javascript-in-webassembly-with-wasmedge
 
 ### Opinion
 

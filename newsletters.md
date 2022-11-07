@@ -243,6 +243,7 @@
 - [Maxime Heckel](https://buttondown.email/MaximeHeckel/archive)
 - [Kent Beck](https://tidyfirst.substack.com/archive)
 - [Evert Pot](https://www.getrevue.co/profile/evertp/#archive)
+- [Ben Frain](https://us19.campaign-archive.com/home/?u=906ec14e977f8fce87751d6f1&id=becad47daa)
 
 ### Web performance
 

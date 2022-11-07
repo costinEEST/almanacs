@@ -537,6 +537,7 @@
 - [converts a date time into your user's time zone and formats it locally](https://github.com/philnash/time-formatter)
 - [anyone is using Web Components](https://twitter.com/dannymoerkerke/status/1555682991413907456)
 - [customizable emoji picker](https://github.com/missive/emoji-mart)
+- https://lit.how
 
 ### Testing
 
