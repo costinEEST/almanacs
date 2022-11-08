@@ -15,6 +15,7 @@
 - [thesis: comparing methods of teaching emotions to people on the Autism spectrum](http://www.lizziesiegle.xyz/thesis.pdf)
 - https://github.com/dkhamsing/open-source-ios-apps
 - https://screenlane.com/platform/all/category/fitness
+- https://transponderings.blog/2022/05/21/eight-mastodon-apps-for-iphone
 
 ### Cinema
 
@@ -70,3 +71,4 @@
 - https://github.com/vixentael/ios-keymanagement-basics
 - [SecureChat PoC using Zero Knowledge Architecture principle](https://github.com/vixentael/zka-example)
 - https://github.com/IdanBanani/iOS-Vulnerability-Research
+- [Let's Play Hacken für Arme DVIA - Damn Vulnerable iOS App | tihmstar](https://www.youtube.com/playlist?list=PLR45q6EBSruKHv6yQ9kiX2grkTYuPx45I)

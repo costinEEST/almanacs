@@ -54,6 +54,7 @@
 - [Category Theory For Beginners | Richard Southwell](https://drive.google.com/file/d/1XyZJeeLhcIF6jvfLDUvbaxQkkY82wuG3/view) + https://twitter.com/DumpAnalysis/status/1585336752561999872 + https://u.osu.edu/yau.22/main
 - [Visual Category Theory, CoPart 3 | Dmitry Vostokov](https://leanpub.com/categorytheory3)
 - https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts
+- [Mathematical foundations of infinite-dimensional statistical models | Richard Nickl and Evarist Giné](https://twitter.com/FrnkNlsn/status/1588797079262224384)
 
 ### Course
 

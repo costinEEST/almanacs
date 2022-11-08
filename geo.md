@@ -6,6 +6,11 @@
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=geology
 
 
+### Cinema 
+
+- [Mad Maps: The World's Strangest Borders Explained](https://www.youtube.com/playlist?list=PLASuLwvdeBybd7hPxnBrSvQKRh0pvMVJb)
+
+
 ### Community
 
 - [My 11yo son is showing strong interest in weather/meteorology](https://twitter.com/accidentalciso/status/1574601524252221451)

@@ -16,6 +16,7 @@
 - https://patricia.no/learning_csharp.html
 - [Tool Dev For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d)
 - [Planning, designing, and coding a Blazor site from scratch](https://www.youtube.com/playlist?list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI)
+- [Brendan Enrick](https://www.youtube.com/c/DevChatter/playlists) + https://www.pluralsight.com/courses/pair-programming
 
 ### Community
 

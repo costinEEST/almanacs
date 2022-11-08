@@ -32,6 +32,7 @@
 - https://www.freecodecamp.org/news/how-to-create-3d-and-2d-graphics-with-opengl-and-cpp
 - [TwitterSpaces | easyperf](https://www.youtube.com/playlist?list=PLRWO2AL1QAV4WK6O6cxyjWVJvbUVVLrQk)
 - https://patricia.no/learning_cpp.html
+- [Cᐩᐩ Weekly With Jason Turner](https://www.youtube.com/c/lefticus1/playlists)
 
 ### Course
 
@@ -71,6 +72,7 @@
 - https://github.com/MattPD/cpplinks
 - [Introduction to GPU programming using CUDA | Apetrei Ciprian](https://docs.google.com/presentation/d/1WNzH-C6kiyjGGQ8P1gdT36_WfH7W4JTV)
 - https://github.com/kiat/OOP-Design-Patterns
+- https://github.com/cpp-best-practices/cppbestpractices
 
 ### Implementation
 

@@ -38,6 +38,7 @@
 - https://www.newyorker.com/books/double-take/sunday-reading-remembering-anthony-bourdain
 - https://www.focusfeatures.com/roadrunner
 - https://www.rollingstone.com/culture/culture-features/anthony-bourdain-jiujitsu-secret-reddit-posts-1268801
+- https://www.youtube.com/playlist?list=PLpz7cLJ1_TwSLBsCZiO1b_O4YnlHAJiB2
 
 #### Alan Turing
 
