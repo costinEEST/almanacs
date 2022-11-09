@@ -374,6 +374,7 @@
 - [JSON.parse w/o blocking main thread.](https://gist.github.com/jkrems/71df0bce1b95101b1417f909ce473075)
 - https://speakerdeck.com/wa7son/nodejsday-2020-javascript-prototypes-behind-the-scenes?slide=41
 - [JSON API as you know will change soon](https://twitter.com/erickwendel_/status/1556633967448756226)
+- https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers
 
 ### class
 

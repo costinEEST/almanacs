@@ -465,6 +465,7 @@ javascript: (() =>
 ### Web Authentication
 
 - https://goteleport.com/blog/how-passwordless-works
+- https://betterappsec.com/a-medium-dive-into-web-application-authentication-342d1d002a61
 
 ### WebGL
 
@@ -560,6 +561,7 @@ javascript: (() =>
 - [estimating the % of web users that have certain web features natively supported](https://github.com/paulirish/web-feature-availability)
 - [From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers](https://github.com/RUB-NDS/xsinator.com)
 - https://github.com/iipc/awesome-web-archiving
+- [using ForensiX to extract information about a Chrome dump](https://iosifache.me/posts/forensix-walktrough)
   
 ### History
 

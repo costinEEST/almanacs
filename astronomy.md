@@ -82,6 +82,7 @@
 - https://github.com/mbiesiad/awesome-astronomy
 - [Meteor_Romania](https://www.facebook.com/groups/1000019113848795)
 - https://planetariubm.ro/glosar
+- [Radu Gherase](www.stardreamsobservatory.com)
 
 ### Constellation
 

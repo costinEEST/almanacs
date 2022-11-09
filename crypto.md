@@ -20,6 +20,7 @@
 ### Best practices
 
 - https://www.seancassidy.me/how-to-implement-crypto-poorly.html
+- [Guidelines for low-level cryptography software](https://github.com/veorq/cryptocoding)
 
 ### Book
 

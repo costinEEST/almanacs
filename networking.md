@@ -297,6 +297,7 @@
 - https://simonhearne.com/2022/caching-header-best-practices
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html
 - https://www.holovaty.com/writing/framebust-native-apps
+- https://makensi.es/web/appsec/2018/07/30/securely-handling-user-submitted-files.html
 
 ### HTTPS
 
