@@ -30,6 +30,7 @@
 - https://github.com/odomojuli/RegExAPI
 - https://github.com/ping/instagram_private_api
 - https://github.com/zhuowei/ClubhouseAPI
+- [Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends](https://github.com/diddledani/twitodon) + https://diddledani.com/twitodon
 
 ### GraphQL
 

@@ -14,6 +14,10 @@
 - Trees In All Seasons: https://youtu.be/bjhIUycCWsg + https://youtu.be/9YRi7FUlVfo
 - [Cannabis Research Center Summary Presentations | UC Berkeley Events](https://www.youtube.com/playlist?list=PLOyuQaVrp4qpCGq4oaSmIfkXatH3QQJVX)
 
+### Community 
+
+- [Vanzari plante de interior si gradina](https://www.facebook.com/groups/2236689903014772)
+
 ### Miscellaneous
 
 - https://plantepedia.wordpress.com

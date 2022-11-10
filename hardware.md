@@ -36,7 +36,6 @@
 - [Review and analysis of bulb. By electronupdate](https://www.youtube.com/playlist?list=PLv9WfM3NgK2xFHrD9BJ4-4CEbRpbe6DFP)
 - [March is for Makers - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdpNzI3uaAu-kqWvH4BttLQ)
 - [N-O-D-E](https://www.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA/playlists)
-- https://www.youtube.com/c/lockpickinglawyer/playlists
 - https://www.youtube.com/c/jeriellsworth/playlists
 - [Computer History - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc5y3yXGO1VDXtzLeVcr5kCl)
 - http://thatmakershow.com
@@ -129,6 +128,12 @@
 
 - https://github.com/icebreaker-fpga/icebreaker-workshop
 
+### Padlock
+
+- [Electronic Locks: Bumping and Other Mischief | Michael Huebler](https://program.mch2022.org/mch2022/talk/KBVXRU) + https://www.youtube.com/playlist?list=PLa9wckl5om1O7xq_yTQ8mooDxtLzqGy4Q
+- [Original Lishi Tools](https://www.youtube.com/channel/UCWBkIQv09counMsKwOMcpvw/playlists)
+- https://www.youtube.com/c/lockpickinglawyer/playlists
+
 ### PCB 
 
 - [Keng Tiong Ng](https://visio-for-engineers.blogspot.com)
@@ -151,10 +156,6 @@
 - [How to Build a Transistor](https://twitter.com/rbhar90/status/1367901014771126277)
 - https://www.youtube.com/playlist?list=PLra8hz8BV8EmpAXQvULfpwWHGT5yIr_7U
 - https://lcamtuf.substack.com/p/random-objects-nuvistor
-
-### Locksmith
-
-- [Original Lishi Tools](https://www.youtube.com/channel/UCWBkIQv09counMsKwOMcpvw/playlists)
 
 ### Playground
 

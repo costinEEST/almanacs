@@ -17,6 +17,7 @@
 - https://www.udemy.com/course/filosofia-pe-scurt-1
 - [Exploring Vervaeke's Awakening from the Meaning Crisis | Bevry](https://www.youtube.com/playlist?list=PL68A9KvUGBlpbAfU5sqgTOW-_HpQijEbF) + https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ
 - [Exploring Peterson's Bible Series](https://www.youtube.com/playlist?list=PL68A9KvUGBlo5Ic53iV6o6zasbd4aR-cM)
+- [Problems of Philosophy](https://mitxonline.mit.edu/courses/course-v1:MITxT+24.10x)
 
 ### Islamic 
 

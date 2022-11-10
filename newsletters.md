@@ -292,6 +292,7 @@
 ### Privacy
 
 - [Simo Ahava](https://www.teamsimmer.com/newsletter)
+- [Lukasz Olejnik](https://techletters.substack.com/archive)
 
 ### Security
 

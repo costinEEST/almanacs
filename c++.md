@@ -99,6 +99,7 @@
 
 - https://tlbh.it/001_deref_char_star_0_eq_0.html
 - https://tlbh.it/003_builtin_expect_bang_bang_x_0.html
+- https://www.twoscomplement.org/#podcast
 
 ### Security
 

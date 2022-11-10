@@ -101,7 +101,6 @@
 - [Follow best practices, then standard follow you](https://github.com/hugo53/awesome-best-practices)
 - https://www.peerlyst.com/posts/guide-for-programmers-how-to-generate-secure-random-numbers-pyotr-a-pavlensky
 - https://blog.hoangnm.com/translation/2018/09/05/note-on-system-design-series
-- https://www.freecodecamp.org/news/systems-design-for-interviews
 - https://arkwright.github.io/parallelized-decision-making.html
 - [The canonical spec for ulid](https://github.com/ulid/spec)
 - https://github.com/donnemartin/system-design-primer
@@ -127,6 +126,8 @@
 - https://github.com/VGraupera/1on1-questions
 - https://github.com/obensource/dev-resources/blob/master/interviews.md
 - https://www.udemy.com/course/pragmatic-system-design + https://www.amazon.com/dp/1736049119
+- https://www.freecodecamp.org/news/systems-design-for-interviews
+- https://github.com/karanpratapsingh/system-design
 
 ### Practice
 
@@ -206,6 +207,7 @@
 - https://iq.opengenus.org/array-indices-start-from-1
 - https://sijinjoseph.com/programmer-competency-matrix
 - https://matt-rickard.com/accidentally-turing-complete
+- [Awesome Object Capabilities and Capability Security](https://github.com/dckc/awesome-ocap)
 
 ### Radio
 

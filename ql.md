@@ -2,6 +2,10 @@
 
 - https://github.com/stars/pwntester/lists/codeql
 
+### PHP 
+
+- https://r2c.dev/blog/2022/announcing-php-ga-support
+
 ### Python 
 
 - https://jorgectf.github.io/blog/post/practical-codeql-introduction + https://github.com/jorgectf/PracticalCodeQLIntroduction-repo

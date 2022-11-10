@@ -133,6 +133,7 @@
 ### Testing 
 
 - https://hermanradtke.com/how-to-mock-functions-that-have-external-http-requests
+- https://github.com/mriehl/rust-tdd-katas
 
 ### Radio
 

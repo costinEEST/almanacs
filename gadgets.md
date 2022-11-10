@@ -22,6 +22,7 @@
 - https://benfrain.com/sony-wh-1000xm3-noise-cancelling-headphones-review
 - https://akshaykhandalkar.wordpress.com/2018/02/09/5-best-headphones-for-study-and-work
 - https://www.amazon.co.uk/Sennheiser-Special-Open-Headphone-Black/dp/B07Q7S7247
+- https://www.madmode.com/2022/09-amazing-headset.html
 
 ### Laptop
 

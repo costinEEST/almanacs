@@ -36,6 +36,7 @@
 - https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications
 - https://github.com/koenbuyens/oauth-2.0-security-cheat-sheet
 - https://github.com/spotify/web-api-auth-examples
+- [A 'Google Authenticator' like Single Page Application](https://github.com/qoomon/otp-authenticator-webapp)
 
 ### API
 
@@ -571,6 +572,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://blog.bitsrc.io/building-a-reactive-architecture-around-redis-bc53662b81c8
 - https://samnewman.io/books/building_microservices_2nd_edition
 - [An example app to build microservice using Node.js, docker and kubernetes](https://github.com/sujeet-agrahari/nodejs-microservices-example)
+- https://github.com/lloydbenson/microservices-workshop
 
 ### Design patterns
 
@@ -670,6 +672,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://dev.to/crtr0/building-a-virtual-conference-ticket-with-begin-aws-puppeteer-hgk
 - [Self-Hosted URL Shortner using Vercel's Serverless API and MongoDB](https://github.com/adityatelange/gourl)
 - https://pragmaticpineapple.com/creating-url-shortener-cloudflare-workers
+- https://pragprog.com/titles/brapps/serverless-single-page-apps + https://github.com/benrady/learnjs
 
 ### Miscellaneous
 

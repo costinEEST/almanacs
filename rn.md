@@ -24,6 +24,7 @@
 - [Mattermost is an open source platform for secure collaboration across the entire software development lifecycle](https://github.com/mattermost/mattermost-mobile)
 - https://github.com/standardnotes/mobile
 - [Experimenting with awesome React Native + Expo features](https://github.com/barthap/expo-mega-demo)
+- https://github.com/naraB/AppleCard + https://twitter.com/barany6m/status/1556204604509093888
 
 ### Cinema
 
@@ -179,6 +180,7 @@
 - https://github.com/DylanVann/react-native-fast-image
 - [Seeing many people compare React Navigation to React Router](https://twitter.com/satya164/status/1490279552882511878)
 - [Keyboard manager which works in identical way on both iOS and Android](https://github.com/kirillzyusko/react-native-keyboard-controller)
+- https://github.com/stars/staltz/lists/react-native
 
 ### Debugging
 

@@ -110,6 +110,7 @@
 - https://archive.org/search.php?query=wartime%20cookbook
 - https://www.youtube.com/c/TastingHistory/playlists
 - https://www.livestrong.com/article/13722674-healthy-comfort-food-recipes
+- https://www.google.com/search?q=Kitab+al-Tabikh+Cartea+felurilor+de+m%C3%A2ncare
 
 ### Cholesterol
 

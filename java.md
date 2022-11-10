@@ -53,6 +53,7 @@
 - [Nicolai Parlog](https://www.youtube.com/c/nipafx/playlists) + https://slides.nipafx.dev/expert-java-8
 - https://www.youtube.com/c/JakobJenkov/playlists
 - [Learn Java Programming (version 17)](https://www.freecodecamp.org/news/learn-java-programming)
+- [Build Talking Apps for Alexa | Craig Walls](https://www.youtube.com/playlist?list=PL5zhdK_QOhVEvt_Zvi3zFCGdu4Xe7e0xO) + https://pragprog.com/titles/cwalexa/build-talking-apps-for-alexa
 
 ### Community 
 

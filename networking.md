@@ -307,6 +307,7 @@
 - https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html
 - [fetch the TLS cert from a given site](https://www.netmeister.org/whatsthatcert)
 - https://vincent.bernat.ch/en/blog/2011-ssl-session-reuse-rfc5077
+- https://blog.heckel.io/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone
 
 ### HTTP2
 

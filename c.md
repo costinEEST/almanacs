@@ -24,6 +24,7 @@
 - [The little book about OS development](https://github.com/littleosbook/littleosbook)
 - [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/index.html)
 
+
 ### Cheat sheet
 
 - [Infrequently Asked Questions List | Peter Seebach](https://www.seebs.net/faqs/c-iaq.html)
@@ -154,3 +155,7 @@
 - https://github.com/eduardsui/ISUToCNP
 - [Lambda Calculus in 383 Bytes](https://justine.lol/lambda)
 - [Logging C Functions](https://justine.lol/ftrace)
+
+### Testing 
+
+- [Test-Driven Development for Embedded C](https://github.com/jwgrenning/tddec-code) + https://open.spotify.com/episode/40DFaYVaY8ptpmKARkttPn
