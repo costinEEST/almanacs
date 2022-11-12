@@ -23,7 +23,7 @@
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://paulmck.livejournal.com/66892.html)
 - [The little book about OS development](https://github.com/littleosbook/littleosbook)
 - [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/index.html)
-
+- https://github.com/Exoskill/C-headfirst + http://karadev.net/uroci/filespdf/files/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf + https://www.oreilly.com/library/view/head-first-c/9781449335649 + https://www.amazon.com/Mastering-Algorithms-Techniques-Sorting-Encryption/dp/1565924533 + https://www.goodreads.com/en/book/show/425210 + https://github.com/josephmcasey/Mastering-Algorithms-with-C + https://youtu.be/rBr0ZYd6QaY
 
 ### Cheat sheet
 

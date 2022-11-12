@@ -55,6 +55,7 @@
 - [Visual Category Theory, CoPart 3 | Dmitry Vostokov](https://leanpub.com/categorytheory3)
 - https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts
 - [Mathematical foundations of infinite-dimensional statistical models | Richard Nickl and Evarist Giné](https://twitter.com/FrnkNlsn/status/1588797079262224384)
+- [A History of Mathematics: From Mesopotamia to Modernity](https://www.amazon.com/History-Mathematics-Mesopotamia-Modernity/dp/0198529376)
 
 ### Course
 
