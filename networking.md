@@ -15,7 +15,6 @@
 * https://chrissanders.org/2019/05/infosec-mental-models
 * https://www.youtube.com/playlist?list=PLoKM3Qfxoe0nI7MxT0UWA5cXcYRD1-EO2
 * https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks
-* https://media.ccc.de/v/denog13-12067-enhancing-ping-and-traceroute
 * https://github.com/lololosys/awesome-baseband-research
 * [10 Gigabit Home LAN](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ61KhM14oJMY1TiI5tU4txd)
 * [Mike Dinn about his time as Station Director of the Honeysuckle Creek tracking station that helped land humans on the moon](https://twitter.com/cliffordheath/status/1529420879742267392)
@@ -254,7 +253,8 @@
 - https://alexanderell.is/posts/toy-traceroute
 - https://github.com/astroza/udptunnel
 - [Need a TCP reverse proxy?](https://twitter.com/iximiuz/status/1557381051927994370)
-
+- https://maikroservice.com/traceroute-how-does-it-work
+- https://media.ccc.de/v/denog13-12067-enhancing-ping-and-traceroute
 
 ### HTTP
 

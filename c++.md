@@ -14,6 +14,22 @@
 - https://asawicki.info/news?x=tag&tag=books
 - https://github.com/PacktPublishing/Deciphering-Object-Oriented-Programming-with-CPP
 
+### Cheat sheet 
+
+- https://github.com/cpp-best-practices/cppbestpractices
+- https://github.com/AnthonyCalandra/modern-cpp-features
+- https://github.com/danbev/learning-cpp
+- [C++ Internals](https://www.avabodh.com/cxxin/cxx.html)
+- https://github.com/changkun/modern-cpp-tutorial
+- [How can I detect which C++ compiler is used?](https://twitter.com/foonathan/status/1351251411779133440) + https://quuxplusone.github.io/blog/2021/01/13/conversion-operator-lookup
+- https://huangxuan.me/2020/06/21/data-rep-float
+- https://dmiller.dev/blog/2020/8/25/c-interfaces-and-templates
+- https://blog.m-ou.se/compile-time-unit-arithmetic
+- https://github.com/tobanteAudio/juce-cookbook
+- https://github.com/MattPD/cpplinks
+- [Introduction to GPU programming using CUDA | Apetrei Ciprian](https://docs.google.com/presentation/d/1WNzH-C6kiyjGGQ8P1gdT36_WfH7W4JTV)
+- https://github.com/kiat/OOP-Design-Patterns
+
 ### Community
 
 - https://twitter.com/merni_/status/1359781105931583488
@@ -58,21 +74,6 @@
 - [RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines](https://github.com/google/re2)
 - [Audible feedback on just how much your browsing feeds into Google](https://github.com/berthubert/googerteller)
 
-### Cheat sheet 
-
-- https://github.com/AnthonyCalandra/modern-cpp-features
-- https://github.com/danbev/learning-cpp
-- [C++ Internals](https://www.avabodh.com/cxxin/cxx.html)
-- https://github.com/changkun/modern-cpp-tutorial
-- [How can I detect which C++ compiler is used?](https://twitter.com/foonathan/status/1351251411779133440) + https://quuxplusone.github.io/blog/2021/01/13/conversion-operator-lookup
-- https://huangxuan.me/2020/06/21/data-rep-float
-- https://dmiller.dev/blog/2020/8/25/c-interfaces-and-templates
-- https://blog.m-ou.se/compile-time-unit-arithmetic
-- https://github.com/tobanteAudio/juce-cookbook
-- https://github.com/MattPD/cpplinks
-- [Introduction to GPU programming using CUDA | Apetrei Ciprian](https://docs.google.com/presentation/d/1WNzH-C6kiyjGGQ8P1gdT36_WfH7W4JTV)
-- https://github.com/kiat/OOP-Design-Patterns
-- https://github.com/cpp-best-practices/cppbestpractices
 
 ### Implementation
 

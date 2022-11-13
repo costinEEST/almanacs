@@ -217,6 +217,7 @@
 - [package-lock.json](https://twitter.com/izs/status/1480992076737118209)
 - https://hirok.io/posts/avoid-npm-link
 - [scripts I've started using daily](https://twitter.com/mattpocockuk/status/1567859790168170497)
+- https://jagascript.com/how-to-build-a-textual-progress-bar-for-cli-and-terminal-apps
 
 ### Cheat sheets
 

@@ -71,6 +71,10 @@
 - https://blog.fullmeasure.uk/2020/02/10/ear-training-course
 - https://www.coursera.org/learn/introclassicalmusic#syllabus
 
+### Cover 
+
+- https://twistedsifter.com/2020/07/bardcore-medieval-style-cover-songs-hildegard-von-blingin
+
 ### Community
 
 - https://tudorchira.ro/supercalifragilistic

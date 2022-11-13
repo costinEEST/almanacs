@@ -7,6 +7,7 @@
 - [iOS app to extract full-resolution video frames as images](https://github.com/arthurhammer/FrameGrabber)
 - [DEF CON Hacker Tracker](https://github.com/BeezleLabs/HackerTracker-iOS)
 - https://github.com/CodeEditApp/CodeEdit
+- [App for cataloguing and tracking your books](https://github.com/peterfriese/BookShelf)
 
 ### Algorithm
 
@@ -39,7 +40,7 @@
 - [Paul Ardeleanu](https://www.pardel.dev/talks)
 - [John Gallaugher](https://gallaugher.com)
 - [Collin Cunningham](https://github.com/stars/CollinCunningham/lists/ios)
-
+- [Peter Friese](https://github.com/peterfriese?tab=stars)
 
 
 ### Development
@@ -81,6 +82,7 @@
 - https://github.com/joemasilotti/UI-Testing-Cheat-Sheet
 - https://github.com/heckj/swiftui-notes
 - https://github.com/iwasrobbed/Swift-CheatSheet
+- https://github.com/Toni77777/awesome-swiftui-libraries
 
 ### Security
 

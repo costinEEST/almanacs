@@ -38,6 +38,7 @@
 - https://elisehe.in/2021/03/13/fluid-type
 - https://pimpmytype.com/font-size
 - https://github.com/zachleat/web-font-loading-recipes
+- [If you use `clamp` with `calc` for things like fluid typography, you can drop the `calc`](https://twitter.com/stefanjudis/status/1545837995047243779)
 
 ### Font
 

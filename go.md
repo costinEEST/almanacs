@@ -67,6 +67,7 @@
 
 ### Development
 
+- https://jagascript.com/how-i-start-new-go-projects-in-10-seconds
 - https://github.com/miguelmota/golang-for-nodejs-developers
 - [Packaging Go server software for Windows](https://twitter.com/benbjohnson/status/1360605093834424321)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent)

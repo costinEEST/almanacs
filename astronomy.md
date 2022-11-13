@@ -109,6 +109,7 @@
 - https://www.quantamagazine.org/the-new-history-of-the-milky-way-20201215
 - https://curatorial.ro/natura/telescopul-spatial-james-webb-a-surprins-un-peisaj-maiestuos-cu-noi-stele-ce-formeaza-nori-densi-de-gaz-si-praf
 - https://biblioteca-digitala.ro/?pub=165-perseus-revista-de-astronomie
+- https://www.iflscience.com/uranus-experienced-a-colossal-impact-that-knocked-it-on-its-side-48602
 
 ### Picture 
 

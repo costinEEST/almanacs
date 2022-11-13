@@ -121,7 +121,7 @@
 - [Does Safari 15 finally fix viewport height?](https://lukechannings.com/blog/2021-06-09-does-safari-15-fix-the-vh-bug)
 - https://n12v.com/css-retina-and-physical-pixels
 
-### Properties explained
+### Property explained
 
 - [min-content, max-content, fit-content](https://twitter.com/tunetheweb/status/1238753219574202369)
 - https://blog.logrocket.com/understanding-min-content-max-content-fit-content-css
@@ -152,6 +152,7 @@
 - [Use :has() to power <form> micro-interactions and theme](https://twitter.com/jh3yy/status/1549101796794273795)
 - [CSS Features to start learning, as I expect them to ship in all browsers in 2022](https://twitter.com/bramus/status/1475583226165055501)
 - [The missing shorthand for logical properties](https://adactio.com/journal/19457)
+- https://www.miriamsuzanne.com/2022/07/04/body-margin-8px
 
 ### Selector
 
