@@ -239,6 +239,7 @@
 - https://www.leonlinsx.com/doctor-gpt3
 - [A curated list to track current scary usages of AI](https://github.com/daviddao/awful-ai)
 - http://tombaranowicz.com/index.php/2020/03/29/7-machine-learning-business-ideas
+- https://loomcom.com/blog/0127_jacques_vallee_on_artificial_intelligence.html
 
 ### Security
 

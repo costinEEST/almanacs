@@ -94,6 +94,7 @@
 - https://github.com/stars/yamalight/lists/games
 - [A habit tracker app which treats your goals like a Role Playing Game](https://github.com/HabitRPG/habitica)
 - [Games written in Java](https://github.com/stars/dogeared/lists/games)
+- https://github.com/Calinou/awesome-gamedev
 
 ### The creators
 

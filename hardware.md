@@ -212,6 +212,7 @@
 - [Let's write a game for the original PlayStation](https://twitter.com/bigevilboss/status/1343674991703973895)
 - [DVD Laser Scanner Microscope](http://www.gaudi.ch/GaudiLabs/?page_id=652)
 - [Where to Buy Hardware](https://greatscottgadgets.com/wheretobuy)
+- [Understanding the Network Interface (NI) Card](https://loomcom.com/blog/0118_understanding_the_ni_card.html)
 
 ### News
 
