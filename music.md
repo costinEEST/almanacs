@@ -85,6 +85,7 @@
 - [Andrei Vieru](https://www.youtube.com/c/hammerklaviermusik/playlists)
 - [Irish traditional music](https://thesession.org)
 - https://blog.fullmeasure.uk/awesome-musicality
+- [Musical Heritage Application](https://github.com/greyshore/MusicTree.Me)
 
 ### Guitar
 

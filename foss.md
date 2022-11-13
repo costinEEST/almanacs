@@ -23,6 +23,7 @@
 - [by ex-Facebookers, for ex-Facebookers - a lookup table of similar tech & services](https://github.com/greko6/xfb2xfb)
 - https://github.com/NullHypothesis/internet-freedom-jobs
 - https://github.com/italia-opensource/awesome-italia-opensource
+- https://indieweb.org/site-deaths
 
 ### Tool
 

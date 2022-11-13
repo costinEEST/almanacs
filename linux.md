@@ -91,6 +91,10 @@
 - [Attempt to run Linux in a GPU shader](https://github.com/mildsunrise/cursed_gpu_linux)
 - [hook to the NetFilters and manipulates the packets going via the network interfaces](https://github.com/eliranmaman/Basic-FireWall)
 
+### NixOS 
+
+- https://github.com/ghuntley/workshops
+
 ### Radio
 
 - https://ma.ttias.be/syscast/9-linux-vs-bsd

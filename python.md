@@ -96,6 +96,7 @@
 - [Python for Defenders](https://taggarttech.teachable.com/courses/enrolled/1875566)
 - https://github.com/octallium/modern-python-101 + https://youtu.be/jH85McHenvw
 - https://mattsegal.dev/category/django.html + https://www.youtube.com/playlist?list=PLQQCZhK0_MHG2SCVMwQACRrj8YuGIJj7N
+- https://www.freecodecamp.org/news/microservices-and-software-system-design-course
 
 ### Compiler 
 

@@ -90,6 +90,7 @@
 - https://github.com/heyawhite/tech-writing-tools
 - https://passo.uno/posts/open-source-tools-for-rest-api-documentation
 - [Using a ViT to convert images of equations into LaTeX code](https://github.com/lukas-blecher/LaTeX-OCR)
+- [Additions to Markdown for writing specification documents](https://github.com/leebyron/spec-md)
 
 ### Miscellaneous
 

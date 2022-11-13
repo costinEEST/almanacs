@@ -520,6 +520,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://medium.com/nerd-for-tech/testing-in-node-js-easy-way-to-mock-filesystem-883b9f822ea4
 - https://sprkl.dev/observability-jest-tests
 - https://github.com/m-radzikowski/aws-sdk-client-mock
+- https://backend.cafe/should-you-use-jest-as-a-testing-library
 
 ### Scrapping
 
@@ -674,6 +675,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Self-Hosted URL Shortner using Vercel's Serverless API and MongoDB](https://github.com/adityatelange/gourl)
 - https://pragmaticpineapple.com/creating-url-shortener-cloudflare-workers
 - https://pragprog.com/titles/brapps/serverless-single-page-apps + https://github.com/benrady/learnjs
+- https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture
 
 ### Miscellaneous
 

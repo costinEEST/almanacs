@@ -126,3 +126,4 @@
 - https://github.com/danielsundermeier/knowledge/tree/master/home-automation
 - https://github.com/danbev/learning-iot
 - https://github.com/rbaron/elink + https://rbaron.net/blog/2022/07/29/Daisy-chaining-multiple-electronic-shelf-labels.html
+- https://github.com/jcallaghan/home-assistant-config
