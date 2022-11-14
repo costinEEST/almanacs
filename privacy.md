@@ -147,6 +147,7 @@
 - https://bajtos.net/posts/2022-01-privacy-friendly-web-analytics
 - [Tracking user activation](https://macwright.com/2022/07/11/activation.html)
 - https://www.lastweekinaws.com/blog/coreys-security-posture-2022
+- https://www.campaignmonitor.com/resources/guides/whitelisting
 
 
 ### Social media

@@ -112,6 +112,7 @@
 - [Math For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
 - [Doing the math | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmpjIoZHybXD4xmXXYrTqlk)
 - [Burkard Polster](https://www.youtube.com/c/Mathologer/playlists) + [Putting Two and Two Together: Selections from the Mathologer Files](https://bookstore.ams.org/mbk-141)
+- [Matematici pentru politehnisti | ALEXANDRU ȘTEFAN NEGRESCU](https://www.youtube.com/channel/UCRcpjorgGE-3-Z-Sg5wu70Q/playlists) + [Admitere UPB 2021 - Matematică](https://www.youtube.com/playlist?list=PLn9oGSe656KTrTYpH8Yjg9rh7j20YmSPj)
 
 ### Community
 
@@ -167,3 +168,4 @@
 - [Jeremy Kun](https://mobile.twitter.com/jeremyjkun/status/1079443879709929472)
 - [Andrej Bauer](https://www.youtube.com/user/bauerandrej/playlists)
 - Christopher Davis: https://www.math.uci.edu/~davis/teach, https://github.com/ChristopherDavisUCI, https://www.youtube.com/user/Review180B/playlists
+- [Alexandru Ștefan Negrescu](https://alexnegrescu.wordpress.com/about)

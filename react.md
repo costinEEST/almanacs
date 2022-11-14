@@ -460,7 +460,7 @@
 - https://github.com/ahmadnassri/i-jest-you-not + https://twitter.com/AhmadNassri/status/1375094293917003780
 - [React.js Unit Testing and Integration Testing Tutorial | Bruno Antunes](https://www.youtube.com/playlist?list=PLYSZyzpwBEWTBdbfStjqJSGaulqcHoNkT)
 - https://github.com/sapegin/jest-cheat-sheet
-- https://github.com/muratkeremozcan/cypress-react-component-test-examples
+- https://github.com/muratkeremozcan/cypress-react-component-test-examples + https://muratkerem.gitbook.io/cctdd
 
 ### Tooling
 

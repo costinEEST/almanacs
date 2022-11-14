@@ -39,6 +39,8 @@ https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-so
 - [Behind the Nobels](https://www.youtube.com/playlist?list=PLOBSt4XMk5LVQEWmjOQA4KlyU-KzDLEB0)
 - [NWACC Mineral Lab Videos](https://www.youtube.com/playlist?list=PLmRQwysTuceeU-mKTxd1rEATM-0SlXlzQ)
 - https://www.westernpyro.org/recordings
+- [Admitere UPB 2021 - Chimie Organică](https://www.youtube.com/playlist?list=PLn9oGSe656KTlceQz9MlTHkCqqTJw52X8)
+- [Admitere UPB 2021 - Chimie Anorganică](https://www.youtube.com/playlist?list=PLn9oGSe656KReRekkbRHGDA1SX160QLBb)
 
 ### Course
 
