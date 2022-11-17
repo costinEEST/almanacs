@@ -120,6 +120,7 @@
 - https://www.youtube.com/playlist?list=PL5JKknVIXUMGtD8RGWZEqfn7c89sVr5NZ
 - https://biblioteca-digitala.ro/?descriptor=41892-astrofotografie
 - https://www.academia.edu/48487564/The_Sun_and_solar_eclipses_in_traditional_Romanian_ornamental_patterns
+- https://gizmodo.com/sls-rocket-launch-photos-nasa-artemis-1-1849791662
 
 ### Tool
 

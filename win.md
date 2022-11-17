@@ -6,7 +6,7 @@
 - https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 - [WADComs - Interactive cheatsheet for Windows AD Environments](https://github.com/WADComs/WADComs.github.io)
 - https://github.com/cfalta/adsec + https://twitter.com/cfalta/status/1388928018886938630
-- https://twitter.com/M4yFly/status/1437453135883157504 + https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap
+- https://twitter.com/M4yFly/status/1437453135883157504 + https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap + https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg
 - https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
 - https://hideandsec.sh/books/cheatsheets-82c/page/active-directory
 - https://hideandsec.sh/books/cheatsheets-82c/page/active-directory-python-edition
@@ -88,16 +88,7 @@
 - https://github.com/sirredbeard/Awesome-WSL
 - https://notes.aliciasykes.com/21879/my-top-50-windows-apps
 
-### Powershell
 
-- [People ask you for the Wi-Fi password. Answer quickly.](https://github.com/RReverser/WiFi-Password)
-- [Configuration Hardening Assessment PowerShell Script.](https://github.com/cutaway-security/chaps)
-- [Run Powershell without software restrictions](https://github.com/iomoath/PowerShx)
-- https://leanpub.com/powershelltool
-- https://leanpub.com/powershelltips
-- https://leanpub.com/pesterbook
-- https://nelsonslog.wordpress.com/2022/01/28/wsl-copy-paste-clipboard
-- https://web.archive.org/web/20200702153318/https://techblog.mediaservice.net/2017/11/how-a-unix-hacker-discovered-the-windows-powershell
 
 ### notepad.exe
 

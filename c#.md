@@ -44,6 +44,7 @@
 
 ### Security
 
+- https://github.com/defuse/password-hashing
 - https://www.cyberark.com/threat-research-blog/thick-client-penetration-testing-methodology
 - [Deserialization payload generator for a variety of .NET formatters](https://github.com/pwntester/ysoserial.net)
 

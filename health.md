@@ -333,6 +333,7 @@
 - [Skin care | Dr Brad Stanfield](https://www.youtube.com/playlist?list=PLeRFbtgrUb3m46NfT4AYik0UEl0CE6Dyk)
 - https://www.shutterstock.com/blog/history-of-makeup-cosmetics
 - https://www.sapiens.org/biology/evolution-suntan
+- https://iuva.org/resources/covid-19/Far%20UV-C%20Radiation-%20Current%20State-of%20Knowledge.pdf
 
 ### Gut
 

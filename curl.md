@@ -8,6 +8,12 @@
 - [HTTP client devtool, similar to Postman or Insomnia, but completely text-based](https://github.com/sharat87/prestige)
 - https://github.com/curlconverter/curlconverter
 - https://github.com/lwthiker/curl-impersonate
+- [Convert curl commands to Go code in your browser](https://github.com/mholt/curl-to-go)
+- [Convert curl commands to Python code in your browser](https://github.com/zhexuany/curl-to-py)
+- [Convert a curl command into ruby's net/http](https://github.com/jhawthorn/curl-to-ruby)
+- [Supercharge curl with history, collections and more](https://github.com/shivkanthb/curlx)
+- [Tool generating bash/powershell scripts from curl commands](https://github.com/PKopel/curl-gen)
+- [A script to download an iso image and flash it to device simultaneously](https://github.com/ariselseng/iso-download-and-flash)
 
 ### Practice
 

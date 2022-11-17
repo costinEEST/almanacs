@@ -12,6 +12,10 @@
 - https://alexwlchan.net/2019/08/removing-the-drm-from-my-kindle-books
 - https://www.microsoftpressstore.com/promotions/product-announcement-retirement-of-amazon-mobi-ebook-142421
 
+### .jpg
+
+- https://github.com/corkami/pics/blob/master/binary/JPG.pdf
+
 ### .md 
 
 - [Preview GitHub README.md files locally before committing them](https://github.com/joeyespo/grip)

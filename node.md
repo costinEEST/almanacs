@@ -500,6 +500,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Easy to use WHOIS info for domains, TLDs and IPs](https://github.com/LayeredStudio/whoiser)
 - [A CLI to create code sandboxes with automatic HTTPS in your cloud provider account](https://github.com/eleven-sh/cli)
 - [Directory serve is a CLI library for sending and receiving a file from your android and IOS devices](https://github.com/cube-root/directory-serve)
+- https://github.com/xpcrts/Steaming-IP-Camera-Nodejs
 
 ### Testing
 
@@ -624,7 +625,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Strapi, Remix & Render Let's Build a Productivity Tips App](https://youtu.be/zPT_K4Q8_RA)
 - https://developedbyed.com/p/the-full-stack-react-course?coupon_code=EARLYBIRD
 - [Build A Coding Blog From Scratch](https://coding-blog.crfcourses.com)
-
+- https://github.com/61FINTECH/deploy-strapi-on-aws
 
 ### Static site generator
 

@@ -39,6 +39,7 @@
 - [Turn any web page into a clean view](https://github.com/luin/readability)
 - [Command line interface for Goodreads](https://github.com/thundergolfer/goodreads-sh)
 - [Reinventing the Book](https://jessmart.in/notes/CF54B975-94E1-4244-9EE7-9D3890FA8C96-4272-0006761CAB8A1FA6)
+- [An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices ](https://github.com/koreader/koreader)
 
 ### Poetry
 
@@ -66,6 +67,7 @@
 - [Schools offer History classes. What if they also offered Future classes?](https://twitter.com/devonzuegel/status/1287594829904596992) + https://en.wikipedia.org/wiki/Psychohistory_(fictional)
 - https://reasonio.teachable.com/p/worlds-of-speculative-fiction
 - https://blog.printrecarti.ro/carti-pentru-barbati
+- https://github.com/fogus/thunks/blob/main/studies/cyberpunk.txt
 
 ### Review
 
