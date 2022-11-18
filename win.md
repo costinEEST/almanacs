@@ -87,7 +87,7 @@
 - [RPC Monitor tool based on Event Tracing for Windows](https://github.com/cyberark/RPCMon)
 - https://github.com/sirredbeard/Awesome-WSL
 - https://notes.aliciasykes.com/21879/my-top-50-windows-apps
-
+- [Easy2Boot](https://www.hypn.za.net/blog/2020/10/14/my-favourite-bootable-usb)
 
 
 ### notepad.exe

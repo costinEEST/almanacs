@@ -49,6 +49,7 @@
 - [TwitterSpaces | easyperf](https://www.youtube.com/playlist?list=PLRWO2AL1QAV4WK6O6cxyjWVJvbUVVLrQk)
 - https://patricia.no/learning_cpp.html
 - [Cᐩᐩ Weekly With Jason Turner](https://www.youtube.com/c/lefticus1/playlists)
+- Computer graphics by Dmitry Sokolov> https://www.youtube.com/playlist?list=PL9MBW6e0V7UKNFQH_ZGUrAmZ4NZjZ2GpF + https://github.com/ssloy/tinyrenderer/wiki + https://members.loria.fr/DSokolov/teaching
 
 ### Course
 

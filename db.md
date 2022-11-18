@@ -61,9 +61,10 @@
 - https://thomasjfrank.com/notion-databases-the-ultimate-beginners-guide + https://twitter.com/TomFrankly/status/1532771931073744897
 - [You can feed sqlmap swagger files](https://twitter.com/nullenc0de/status/1561890469541564416)
 - [Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL](https://github.com/cube2222/octosql)
+- https://haqpl.github.io/Introducing-sqlmap-into-non-HTTP-services + https://github.com/haqpl/shiny-garbanzo
 
 
-### Hacks
+### Security
 
 - Tunneling traffic through MySQL service (or your mysqld is my new SOCKS5): [tweet](https://twitter.com/TheXC3LL/status/1203432035353845760) + [blog post](https://x-c3ll.github.io/posts/Pivoting-MySQL-Proxy/)
 - [Exploiting misconfigured firebase databases](https://github.com/Turr0n/firebase) + http://ghostlulz.com/google-exposed-firebase-database
@@ -133,6 +134,10 @@
 - [SapphireDb. An alternative to Firebase](https://sapphire-db.com/start/main)
 - [A lightweight cloud firestore library for the browser.](https://github.com/samuelgozi/firebase-firestore-lite)
 - [You've got 100k requests/minute coming in, that need to return immediately, and you need to put a record in a database for every one.](https://twitter.com/erikras/status/1246710418191646720)
+
+### Salesforce Object Query Language (SOQL)
+
+- https://blog.jeffdouglas.com/2010/02/22/soql-how-i-query-with-thee-let-me-count-the-ways
 
 ### SQLite
 

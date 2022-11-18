@@ -34,10 +34,15 @@
 - [A JavaScript-powered CLI for converting HTML into PDFs](https://github.com/humanwhocodes/print-ready)
 - https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools
 - [Provides an overview of the inner file structure of a PDF](https://github.com/5f0ne/pdf-examiner)
+- [utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, and dictionary attacks against targets](https://github.com/RoseSecurity/ScrapPY)
 
 ### .png 
 
 https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vidbuchanan.co.uk/widgets/pngdiff
+
+### .txt 
+
+- https://github.com/timoteostewart/convert_text_file_to_mp3
 
 ### .yaml
 

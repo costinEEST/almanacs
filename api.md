@@ -67,6 +67,7 @@
 - https://andrewhoglund.com/code/talks/2020/09/21/from-0-to-openapi.html
 - https://twitter.com/me0wday/status/1409833313536135169
 - https://github.com/Leoid/CodeReviewCS/tree/master/graphql
+- https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready
 
 ### gRPC
 

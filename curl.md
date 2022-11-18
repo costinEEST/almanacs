@@ -7,7 +7,7 @@
 
 - [HTTP client devtool, similar to Postman or Insomnia, but completely text-based](https://github.com/sharat87/prestige)
 - https://github.com/curlconverter/curlconverter
-- https://github.com/lwthiker/curl-impersonate
+- [A special build of curl that can impersonate Chrome & Firefox](https://github.com/lwthiker/curl-impersonate)
 - [Convert curl commands to Go code in your browser](https://github.com/mholt/curl-to-go)
 - [Convert curl commands to Python code in your browser](https://github.com/zhexuany/curl-to-py)
 - [Convert a curl command into ruby's net/http](https://github.com/jhawthorn/curl-to-ruby)

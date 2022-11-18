@@ -94,6 +94,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - [Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device](https://github.com/0x192/universal-android-debloater)
 - https://quentinkaiser.be/blackberry/security/2015/03/30/pentesting-blackberry + https://github.com/QKaiser/bbpentesting
 - [Android App reviews | gotbletu](https://www.youtube.com/playlist?list=PLqv94xWU9zZ0drtB03m4wtlfX3d6amQ1h)
+- [multi-arch, GPU enabled, Android in Cloud solution](https://github.com/remote-android/redroid-doc)
 
 ### APIs
 

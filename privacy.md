@@ -148,7 +148,7 @@
 - [Tracking user activation](https://macwright.com/2022/07/11/activation.html)
 - https://www.lastweekinaws.com/blog/coreys-security-posture-2022
 - https://www.campaignmonitor.com/resources/guides/whitelisting
-
+- [research papers and presentations for counter-detection and web privacy](https://github.com/prescience-data/dark-knowledge)
 
 ### Social media
 

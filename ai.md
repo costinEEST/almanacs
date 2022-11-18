@@ -201,6 +201,7 @@
 - https://github.com/patrickcgray/awesome-deep-ecology
 - [Code and real data for "Enhancing Human Learning via Spaced Repetition Optimization", PNAS 2019](https://github.com/Networks-Learning/memorize)
 - [On Hiding Neural Networks Inside Neural Networks | Chuan Guo, Ruihan Wu, Kilian Q. Weinberger](https://arxiv.org/abs/2002.10078)
+- [Open source science model trained on 48M scihub papers](https://galactica.org)
 
 ### Demos
 

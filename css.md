@@ -287,6 +287,7 @@
 - https://github.com/PortSwigger/css-exfiltration + https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css
 - https://github.com/OliverBrotchie/CSS-Fingerprint
 - https://blog.huli.tw/2022/09/29/css-injection-2
+- https://www.secforce.com/blog/new-technique-of-stealing-data-using-css-and-scroll-to-text-fragment-feature
 
 ### Opinion
 

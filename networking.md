@@ -255,6 +255,7 @@
 - [Need a TCP reverse proxy?](https://twitter.com/iximiuz/status/1557381051927994370)
 - https://maikroservice.com/traceroute-how-does-it-work
 - https://media.ccc.de/v/denog13-12067-enhancing-ping-and-traceroute
+- [Tunneling Internet traffic over Whatsapp](https://github.com/aleixrodriala/wa-tunnel)
 
 ### HTTP
 
@@ -346,13 +347,14 @@
 
 - https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug + https://twitter.com/b0rk/status/1348998823180382208
 
-### SMTP
+### Simple Mail Transfer Protocol (SMTP)
 
 - [An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures](https://github.com/chenjj/espoofer)
 - https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse
 - https://lessonsec.com/posts/email-spoofing-101
 - [Sending Emails with Mailchannels and Cloudflare Workers](https://maggieliu.dev/posts/emails)
 - http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html
+- https://digitalinvestigator.blogspot.com/2022/11/techniques-in-email-forensic-analysis.html
 
 ### WebSockets
 
