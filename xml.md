@@ -8,6 +8,10 @@
 - [XML Foundations (2013)](http://dret.net/lectures/xml-fall13)
 - https://www.udemy.com/course/uncle-rats-xxe-handbook
 
+### Cheat sheet 
+
+- https://nickcolley.co.uk/2020/02/07/pulling-data-from-websites-into-google-sheets
+
 ### Security
 
 - https://twitter.com/PwnFunction/status/1350717643515330565

@@ -167,6 +167,7 @@
 - [metrics and dev envirnoment with Prometheus and Grafana](https://github.com/ghermeto/openjs-world-2021)
 - https://github.com/yonathan06/fastify-typescript-starter
 - https://backend.cafe/how-to-unlock-the-fastest-fastify-server-startup
+- https://github.com/octave-online/octave-online-server
 
 ### Cinema
 

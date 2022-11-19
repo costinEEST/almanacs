@@ -103,6 +103,7 @@
 - https://www.n00py.io/2020/12/alternative-ways-to-pass-the-hash-pth
 - https://raesene.github.io/blog/2020/05/31/Custom_Pentest_Distributions_With_WSL2
 - https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop
+- https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads
 
 ### Clean up
 

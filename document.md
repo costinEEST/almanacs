@@ -56,6 +56,10 @@ https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vid
 
 - https://github.com/aidansteele/osx-abi-macho-file-format-reference
 
+### .xml 
+
+- https://github.com/costinEEST/almanacs/blob/main/xml.md
+
 ### Tool
 
 - https://www.archives.gov/preservation/digital-preservation/linked-data

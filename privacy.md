@@ -23,6 +23,7 @@
 - https://www.udemy.com/course/learn-digital-forensics-beginner-to-advanced-2021
 - https://www.youtube.com/c/SpyCollectionChannel/playlists
 - https://www.youtube.com/c/TheHatedOne/playlists
+- https://hypha.ro/movies
 
 ### Community
 
@@ -53,6 +54,7 @@
 
 ### Software
 
+- https://github.com/veeral-patel/how-to-secure-anything
 - https://github.com/melanierichards/resources/blob/master/resources/privacy-security.md
 - https://robertheaton.com/2017/11/20/how-does-online-tracking-actually-work/
 - https://jvns.ca/blog/how-tracking-pixels-work
@@ -76,7 +78,6 @@
 - https://twitter.com/mikispag/status/1255164681121136642
 - [A collection of interesting new networks and tech aiming at decentralisation](https://github.com/redecentralize/alternative-internet)
 - https://github.com/vlvagerviwager/protect-your-privacy
-- https://github.com/veeral-patel/how-to-secure-anything
 - https://github.com/nikitavoloboev/privacy-respecting
 - [Large-scale abuse of contact discovery in mobile messengers](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf)
 - [A more privacy-friendly blog](https://vincent.bernat.ch/en/blog/2018-more-privacy-blog)
@@ -92,6 +93,7 @@
 - https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it
 - [Telegram is by default a cloud database w/ a plaintext copy of every msg everyone has ever sent/recvd](https://twitter.com/moxie/status/1497001286444617746)
 - https://github.com/dessalines/essays/blob/master/why_not_signal.md#simplex
+- https://tryingtobeawesome.com/signalwire
 
 
 ### Techniques
@@ -149,6 +151,7 @@
 - https://www.lastweekinaws.com/blog/coreys-security-posture-2022
 - https://www.campaignmonitor.com/resources/guides/whitelisting
 - [research papers and presentations for counter-detection and web privacy](https://github.com/prescience-data/dark-knowledge)
+- https://tryingtobeawesome.com/sexculture
 
 ### Social media
 

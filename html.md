@@ -128,6 +128,11 @@
 
 - https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input
 
+### <input type="file" />
+
+- https://github.com/atapas/html-file-upload
+
+
 ### <object></object>
 
 - https://www.smashingmagazine.com/2018/03/from-flash-html-css-javascript

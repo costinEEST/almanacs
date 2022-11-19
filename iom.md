@@ -72,7 +72,7 @@
 - https://twitter.com/VladZamfir
 - [J. Maurelian](https://twitter.com/maurelian_)
 - https://twitter.com/officer_cia
-
+- https://github.com/FrancescoXX/free-Web3-resources
 
 ### DApps 
 
@@ -185,6 +185,7 @@
 - https://teachbitcoin.io/curriculum + https://github.com/teachbitcoin/teachbitcoin.github.io
 - [how mining works](https://timechaindemo.io) + https://twitter.com/in3rsha/status/1473632489633632262
 - https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
+- https://github.com/bitcoinbook/bitcoinbook
 
 ### Solana
 

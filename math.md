@@ -71,6 +71,7 @@
 - https://www.udemy.com/course/math-for-unreal-engine + https://www.youtube.com/playlist?list=PLsyGu3bA_w_CmxrMvj9Hbcnr6rwpkt7c5
 - [CSE 101: Design and Analysis of Algorithms](https://cseweb.ucsd.edu//%7Edakane/CSE101)
 - [Advanced Algorithms | David R. Karger](https://6.5210.csail.mit.edu/materials.html)
+- https://github.com/spatialaudio/digital-signal-processing-lecture
 
 ### Cinema
 

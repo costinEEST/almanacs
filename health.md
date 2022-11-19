@@ -401,6 +401,7 @@
 - https://www.newscientist.com/article/2304340-strongest-evidence-yet-that-ms-is-caused-by-epstein-barr-virus
 - https://www.voxa.ro/ebooks/infectiile-de-origine-animala-si-urmatoarea-pandemie
 - https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html 
+- [Reverse engineering SARS-CoV-2](https://github.com/geohot/corona)
 
 ### Radiation
 

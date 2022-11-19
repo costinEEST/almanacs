@@ -2,6 +2,8 @@
 
 - https://github.com/bxcodec/go-clean-arch
 - https://github.com/evrone/go-clean-template
+- https://github.com/bquenin/go-modern-rest-api-tutorial
+- https://github.com/speakeasy-api/rest-template-go
 
 ### Book
 
@@ -88,6 +90,7 @@
 - https://www.allhandsontech.com/programming/golang/web-app-sqlite-go
 - https://ucarion.com/go-base62
 - https://github.com/subfuzion/cracking-the-coding-interview-in-go
+- https://mattbutterfield.com/blog/2021-05-02-adding-video-chat
 
 ### Interpreter 
 
@@ -167,6 +170,8 @@
 - https://github.com/DmitryTsepelev/advent_of_code_2021
 - https://github.com/luk4z7/go-concurrency-guide
 - https://github.com/rwxrob/awesome-go
+- https://github.com/nurcahyaari/golang-starter
+- https://github.com/Alikhll/golang-developer-roadmap
 
 ### Opinion
 

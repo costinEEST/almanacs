@@ -54,6 +54,8 @@
 - https://www.facebook.com/coolaj86/videos/1071405973646620
 - [How ready is Rust for Machine Learning?](https://github.com/anowell/are-we-learning-yet)
 - https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust
+- https://github.com/stars/x-N0/lists/rust
+- https://github.com/rust-unofficial/awesome-rust
 
 ### Course
 
@@ -195,3 +197,4 @@
 - https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09
 - https://matklad.github.io/2022/10/06/hard-mode-rust.html
 - https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust
+- https://tryingtobeawesome.com/rust

@@ -117,6 +117,7 @@
 - [A multiline (and ultimate) assembler (and disassembler) plugin for x64dbg and OllyDbg](https://github.com/m417z/Multiline-Ultimate-Assembler)
 - [Performance monitoring and benchmarking suite](https://github.com/RRZE-HPC/likwid)
 - [The GNU Assembler](https://www.cs.princeton.edu/courses/archive/spr11/cos217/reading/as.html) + https://sourceware.org/binutils/docs-2.20/as
+- https://tryingtobeawesome.com/nasm
 
 ### Radio
 

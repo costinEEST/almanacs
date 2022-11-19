@@ -73,6 +73,7 @@
 - https://github.com/vidhanbhonsle/Image-Recognition-with-IBM-and-HERE-Workshop
 - https://github.com/dmvaldman/library/tree/master/ai
 - https://github.com/bfortuner/ml-glossary
+- https://github.com/margaretmz/awesome-tensorflow-lite
 
 ### Course
 
@@ -230,6 +231,7 @@
 - http://rez0.blog/art/2022/09/29/how-to-create-ai-art.html
 - [How to detect any CMS version with Machine Learning Algorithms](https://alexfrancow.github.io/app-development/welcome-to-jekyll)
 - [Stable Diffusion is only 30 days old](https://twitter.com/daniel_eckler/status/1572210382944538624) + https://twitter.com/daniel_eckler/status/1589629394372669440
+- https://github.com/amrzv/awesome-colab-notebooks
 
 ### Opinion
 
@@ -241,6 +243,7 @@
 - [A curated list to track current scary usages of AI](https://github.com/daviddao/awful-ai)
 - http://tombaranowicz.com/index.php/2020/03/29/7-machine-learning-business-ideas
 - https://loomcom.com/blog/0127_jacques_vallee_on_artificial_intelligence.html
+- https://github.com/davidbau/how-to-read-pytorch
 
 ### Security
 

@@ -18,6 +18,10 @@
 - [Planning, designing, and coding a Blazor site from scratch](https://www.youtube.com/playlist?list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI)
 - [Brendan Enrick](https://www.youtube.com/c/DevChatter/playlists) + https://www.pluralsight.com/courses/pair-programming
 
+### Cheat sheet 
+
+- https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+
 ### Community
 
 - [Daniel Duggan](https://www.patreon.com/_RastaMouse)

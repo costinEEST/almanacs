@@ -36,6 +36,8 @@
 - https://www.cntraveler.com/story/a-global-food-map-of-the-worlds-best-restaurants
 - [Berlin subway map, animated](https://github.com/lzear/ubahnchen)
 - [Prospection for the atlas of breeding birds of France ](https://github.com/A-d-r-i/birdsatlas)
+- https://github.com/SilenceOverflow/Awesome-SLAM
+- https://github.com/gaoxiang12/slambook-en
 
 ### Cinema
 

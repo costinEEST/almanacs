@@ -321,6 +321,9 @@
 - https://www.goodreads.com/author/show/3986432.Ramona_G_ncz_l_Davies
 - [Elemente turceşti în limba română | Lazăr Şăineanu](http://dspace.bcu-iasi.ro/handle/123456789/17393)
 - [Gia Manolea](https://www.udemy.com/user/23c967af-c3dc-489d-aba7-e19848b86399)
+- http://nlp.unibuc.ro/resources.html
+- https://github.com/senisioi/ro_resources
+- [Romanian Automatic Speech Recognition from the ROBIN project](https://github.com/racai-ai/RobinASR)
 
 ### Russian
 

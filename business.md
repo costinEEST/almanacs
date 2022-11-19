@@ -305,6 +305,7 @@
 - https://cavesocial.com/alibaba
 - [Simulate retirement plans using historical data and gain the confidence you need to retire.](https://github.com/jamesplease/fi-calc-guide)
 - https://github.com/tadast/switching-to-contracting-uk
+- https://github.com/joelparkerhenderson/architecture-decision-record
 
 ### Opinion
 

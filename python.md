@@ -39,6 +39,7 @@
 - https://github.com/PacktPublishing/Learning-Python-Networking-Second-Edition
 - https://github.com/ethan-funny/explore-python
 - https://github.com/mattshirtliffe/exercises-for-programmers-57-challenges-python
+- https://tryingtobeawesome.com/python
 
 ### Bots
 
@@ -116,6 +117,7 @@
 
 - https://www.facebook.com/groups/ropython
 - https://github.com/adrianmoisey/learn-python
+- https://github.com/stars/x-N0/lists/python-generic
 
 ### Data structures
 
@@ -136,6 +138,7 @@
 - [Build & deploy geospatial applications quick and easy](https://github.com/greppo-io/greppo)
 - https://mathspp.com/blog/how-to-create-a-python-package-in-2022
 - https://eugeneyan.com/writing/uncommon-python
+- [Embed a highly customizable web calendar into your website using ICal source links](https://github.com/niccokunzmann/open-web-calendar)
 
 ### Networking
 
@@ -182,6 +185,7 @@
 - https://github.com/wdv4758h/awesome-jit
 - https://github.com/jchampemont/awesome-lightweights
 - https://asawicki.info/news_1762_hello_world_under_the_microscope_-_new_article_published + https://gynvael.coldwind.pl/?lang=en&id=754
+- https://github.com/DjangoEx/python-engineer-roadmap
 
 ### Scraping
 

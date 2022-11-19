@@ -141,6 +141,7 @@ curl v2.wttr.in/Bucharest
 - [A simple front-end for OCR with Google Vision API.](https://github.com/llll-org/vizor)
 - [Free Dictionary API](https://github.com/meetDeveloper/freeDictionaryAPI)
 - [Use Google text-to-speech on your Linux desktop](https://github.com/glutanimate/simple-google-tts)
+- [Dockerized Python microservice with REST API for verbs conjugation in French, Spanish and Portuguese](https://github.com/bretttolbert/verbecc-svc)
 
 ### Miscellaneous
 

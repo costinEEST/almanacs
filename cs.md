@@ -11,12 +11,13 @@
 
 - https://blog.cloudflare.com/when-bloom-filters-dont-bloom
 
-### Compilers
+### Compiler
 
 - [Want to Write a Compiler? Just Read These Two Papers.](https://prog21.dadgum.com/30.html)
 - https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html
 - [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided) + https://news.ycombinator.com/item?id=25386756
 - https://www.sofiaceli.com/2020/06/05/programming-language-design-and-compilers.html
+- https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf + https://twitter.com/reknih/status/1583777760228495360
 
 ### Course
 
@@ -208,6 +209,7 @@
 - https://sijinjoseph.com/programmer-competency-matrix
 - https://matt-rickard.com/accidentally-turing-complete
 - [Awesome Object Capabilities and Capability Security](https://github.com/dckc/awesome-ocap)
+- https://github.com/Sairyss/domain-driven-hexagon
 
 ### Radio
 

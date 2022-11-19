@@ -13,6 +13,7 @@
 - https://github.com/jasonwebb/morphogenesis-resources + https://thatcreativecode.page
 - https://github.com/imposters-handbook/videos
 - [Learning Algorithms Through Programming and Puzzle Solving](https://leanpub.com/algo) + https://discrete-math-puzzles.github.io/everything.html
+- https://github.com/InterviewMap/CS-Interview-Knowledge-Map
 
 ### AST
 
@@ -72,7 +73,9 @@
 - [Namaste JavaScript | Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) + https://twitter.com/akshaymarch7/status/1318205871726292995
 - https://dev.to/alexeagleson/the-complete-beginners-guide-to-a-career-in-web-development-3fbl
 - https://github.com/jonasschmedtmann/complete-javascript-course
-
+- [Cursuri Front End | Dan Ichim](https://codesandbox.io/s/rw4wlzo39q)
+- https://github.com/thinkb4/a-walk-in-javascript
+- https://github.com/P1xt/p1xt-guides
 
 ### Community
 
