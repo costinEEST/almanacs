@@ -31,6 +31,8 @@
 - [Going Nuclear - The Science Of Nuclear Weapons | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
 - [A Brief Tour of Relativity and Cosmology | Robert A. McNees](http://jacobi.luc.edu/AdlerTalk.pdf)
 - [FIZICA SI TELECOMUNICATII | Cristian Muresanu](https://www.youtube.com/playlist?list=PLm7uyPwcHexL8Q17XoYiovDvsFIuztwTA)
+- https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021 + https://www.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8
+- https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016 + https://www.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu
 
 ### Course
 

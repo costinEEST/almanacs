@@ -69,6 +69,7 @@
 - [Packy McCormick](https://www.notboring.co/archive)
 - [Newsletter pe Legale: Ana-Maria Udriste and Bogdan Ciacli](https://avocatoo.substack.com)
 - [Patents from big tech companies and a wider list of all patents from these companies](https://patentdrop.substack.com/archive)
+- [I Love Failure](https://us7.campaign-archive.com/home/?u=08e3b46f1ab4e0f4f75301af5&id=4689d7e3c5)
 
 ### Marketing 
 
@@ -244,6 +245,7 @@
 - [Kent Beck](https://tidyfirst.substack.com/archive)
 - [Evert Pot](https://www.getrevue.co/profile/evertp/#archive)
 - [Ben Frain](https://us19.campaign-archive.com/home/?u=906ec14e977f8fce87751d6f1&id=becad47daa)
+- https://tailwindweekly.com/rss
 
 ### Web performance
 

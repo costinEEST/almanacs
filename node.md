@@ -411,6 +411,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Turns async function into sync via JavaScript wrapper of Node event loop](https://github.com/abbr/deasync)
 - [alway use asyncIterator.return() or .throw() in a finally block if you want to ensure there is nothing left there to process](https://twitter.com/matteocollina/status/1392056092482576385)
 - [List of useful modules for working with async iterables](https://github.com/alanshaw/it-awesome)
+- https://www.stefanjudis.com/today-i-learned/top-level-promise-handling-in-node-js
 
 ### Threads
 

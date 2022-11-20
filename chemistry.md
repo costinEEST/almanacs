@@ -18,6 +18,7 @@
 - https://www.youtube.com/c/JulianIlett/playlists
 - https://www.bbc.com/future/article/20220511-can-gravity-batteries-solve-our-energy-storage-problems
 https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute
+https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013 + https://www.youtube.com/playlist?list=PLUl4u3cNGP63zDO4gelZKdchvCO1B_Hg9
 
 ### Book
 

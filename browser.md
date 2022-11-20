@@ -538,6 +538,7 @@ javascript: (() =>
 - https://3perf.com/talks/web-perf-101
 - https://blog.webpagetest.org/posts/test-your-spa
 - https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript
+- [SingleFile was really slow on pages with large stylesheets, especially in Firefox](https://twitter.com/check_ca/status/1583927164956995585)
 
 ### Miscellaneous
 

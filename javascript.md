@@ -279,6 +279,7 @@
 - https://apechkurov.medium.com/v8-deep-dives-random-thoughts-on-math-random-fb155075e9e5
 - [Create a random JavaScript string in different bases](https://twitter.com/freddyb/status/1529572995374645249)
 - https://dfkaye.com/posts/2021/07/17/fixing-number.tofixed
+- https://maximilianocontieri.com/code-smell-180-bitwise-optimizations
 
 ### default arguments
 

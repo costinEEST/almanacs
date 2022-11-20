@@ -262,6 +262,7 @@
 - http://gustavbertram.com/learning/language/japanese
 - https://github.com/wtetsu/mouse-dictionary
 - https://bisqwit.iki.fi/japtools
+- https://ocw.mit.edu/courses/21g-503-japanese-iii-fall-2019 + https://www.youtube.com/playlist?list=PLUl4u3cNGP61kz4wAgG77DjRf5bXhLJNv
 
 ### Korean
 

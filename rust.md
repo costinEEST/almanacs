@@ -68,6 +68,7 @@
 - https://www.freecodecamp.org/news/rust-in-replit
 - https://github.com/ferrous-systems/teaching-material
 - https://www.youtube.com/playlist?list=PLBhH0uX92r6qiqNSE_ztk6HjKsMnS2TJU
+- [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course)
 
 ### Compiler
 

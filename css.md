@@ -25,6 +25,7 @@
 - [How to test if a font is available](https://blog.jim-nielsen.com/2022/font-family-and-supports)
 - https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b
 - https://github.com/RodrigoTomeES/prefers-color-scheme-hack
+- https://www.tpgi.com/the-anatomy-of-visually-hidden
 
 ### Book
 
@@ -113,6 +114,28 @@
 
 - [Do you love design systems and magic?](https://twitter.com/danmall/status/1450825066502148102)
 
+### Inspire
+
+- https://csslayout.io/patterns
+- https://web.dev/patterns/components
+- [Basic todo app functionality without using JavaScript.](https://github.com/mattzeunert/CSS-Todo-App)
+- https://github.com/trueskawka/css-drawings
+- [Styled input range (slider/progress) by Mihai-Cristian Voinea](https://codepen.io/mihai-cristian-voinea/pen/RwPgxeG)
+- [WICKEDBLOCKS are a growing collection of more than 120 layout blocks and components built with Tailwind CSS V2 ready to copy paste on your Tailwind project.](https://blocks.wickedtemplates.com)
+- https://twitter.com/search?q=(from%3Akevinjpowell)%20%23csstipoftheday + https://codepen.io/collection/nJzQBY
+- https://codepen.io/2020/popular/pens/10
+- [13 Tips to improve Landing Page Design.](https://twitter.com/IndieHackers/status/1358746146508845058)
+- https://dev.to/karmasakshi/make-your-pwas-look-handsome-on-ios-1o08
+- https://github.com/l-hammer/You-need-to-know-css
+- https://github.com/alexcican/lab
+- [Full Screen Vertical Scroll Snap](https://codepen.io/tobias_buschor/pen/OJWzXQN)
+- https://github.com/PuruVJ/macos-web + https://twitter.com/leeerob/status/1382422353787817985
+- https://markodenic.com/css-tips
+- [cool conic-gradient() patterns!](https://twitter.com/anatudor/status/1398218970281525249)
+- https://www.quaxio.com/pure_css_digital_clock.html
+- [CSS drawings with only one HTML element](https://github.com/lynnandtonic/a-single-div)
+- [A curated list of websites with an extra bit of fun](https://github.com/maxboeck/whimsical)
+
 ### Measurement units
 
 - http://www.gregoryschmidt.ca/writing/when-is-a-pixel-not-a-pixel-pixels-points-dps
@@ -120,6 +143,7 @@
 - https://wattenberger.com/blog/css-percents
 - [Does Safari 15 finally fix viewport height?](https://lukechannings.com/blog/2021-06-09-does-safari-15-fix-the-vh-bug)
 - https://n12v.com/css-retina-and-physical-pixels
+- [vh, svh, lvh, and dvh](https://www.matuzo.at/blog/2022/100daysof-day38)
 
 ### Property explained
 
@@ -153,6 +177,7 @@
 - [CSS Features to start learning, as I expect them to ship in all browsers in 2022](https://twitter.com/bramus/status/1475583226165055501)
 - [The missing shorthand for logical properties](https://adactio.com/journal/19457)
 - https://www.miriamsuzanne.com/2022/07/04/body-margin-8px
+- https://patrickbrosset.com/articles/2022-10-24-do-you-really-understand-CSS-radial-gradients
 
 ### Selector
 
@@ -211,26 +236,6 @@
 - https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6
 - https://tiffanybbrown.com/2022/01/how-does-flexbox-work/index.html
 
-### Inspire
-
-- https://csslayout.io/patterns
-- https://web.dev/patterns/components
-- [Basic todo app functionality without using JavaScript.](https://github.com/mattzeunert/CSS-Todo-App)
-- https://github.com/trueskawka/css-drawings
-- [Styled input range (slider/progress) by Mihai-Cristian Voinea](https://codepen.io/mihai-cristian-voinea/pen/RwPgxeG)
-- [WICKEDBLOCKS are a growing collection of more than 120 layout blocks and components built with Tailwind CSS V2 ready to copy paste on your Tailwind project.](https://blocks.wickedtemplates.com)
-- https://twitter.com/search?q=(from%3Akevinjpowell)%20%23csstipoftheday + https://codepen.io/collection/nJzQBY
-- https://codepen.io/2020/popular/pens/10
-- [13 Tips to improve Landing Page Design.](https://twitter.com/IndieHackers/status/1358746146508845058)
-- https://dev.to/karmasakshi/make-your-pwas-look-handsome-on-ios-1o08
-- https://github.com/l-hammer/You-need-to-know-css
-- https://github.com/alexcican/lab
-- [Full Screen Vertical Scroll Snap](https://codepen.io/tobias_buschor/pen/OJWzXQN)
-- https://github.com/PuruVJ/macos-web + https://twitter.com/leeerob/status/1382422353787817985
-- https://markodenic.com/css-tips
-- [cool conic-gradient() patterns!](https://twitter.com/anatudor/status/1398218970281525249)
-- https://www.quaxio.com/pure_css_digital_clock.html
-- [CSS drawings with only one HTML element](https://github.com/lynnandtonic/a-single-div)
 
 ### Media query
 
@@ -280,6 +285,7 @@
 - [Tailwind CSS components](https://postsrc.com/components)
 - [Alfred 4 Workflow to find the perfect color in the Tailwind Color Palette](https://github.com/MatthysDev/alfred-tailwind-colors)
 - https://github.com/scastiel/3d-book-image-css-generator
+- [Generate clothoid rounded corners by CSS clip-path](https://onotakehiko.dev/clothoid)
 
 ### Security
 

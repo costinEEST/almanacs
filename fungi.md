@@ -1,3 +1,7 @@
+### Book 
+
+- [The Mycocultural Revolution: Transforming Our World with Mushrooms, Lichens, and Other Fungi | Peter McCoy](https://microcosmpublishing.com/catalog/books/8525)
+
 ### Community
 
 - [Patricia Kaishian](https://sites.google.com/view/patriciakaishian)

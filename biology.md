@@ -64,6 +64,7 @@
 - [Bio Hacking Chip Implants | Amie DD](https://www.youtube.com/playlist?list=PL9iNdDEmD5jbIxHl5wGZlUs019e3ogl7E)
 - [Cell Biology Lecture Series | Weizmann Institute of Science](https://www.youtube.com/playlist?list=PLcDxx1De7CZ0O9_K7uQCdBzVRrH_x5oLa)
 - [Systems biology | Weizmann Institute of Science](https://www.youtube.com/playlist?list=PL0EF0E201934F5813)
+- Getting up to Speed in Biology> https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about + https://www.youtube.com/playlist?list=PLUl4u3cNGP629Egng0HfgRJfXBNTPw1le
 
 ### Epigenetics
 

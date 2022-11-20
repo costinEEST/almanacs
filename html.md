@@ -124,6 +124,10 @@
 
 - https://html5accessibility.com/stuff/2021/01/24/a-simple-custom
 
+### <input type="email" />
+
+- https://www.stefanjudis.com/today-i-learned/email-inputs-can-accept-multiple-email-addresses
+
 ### <input type="number" />
 
 - https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input
