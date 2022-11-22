@@ -44,3 +44,5 @@
 - https://alexwlchan.net/2021/10/readmes-for-open-science
 - https://github.com/librariesio/sustainable-oss-attributes
 - http://cr.yp.to/softwarelaw.html
+- https://meshedinsights.com/2016/01/07/apache-license-yes-apache-cla-no
+- https://meshedinsights.com/2021/06/14/legally-ignoring-the-license

@@ -94,6 +94,7 @@
 - [Telegram is by default a cloud database w/ a plaintext copy of every msg everyone has ever sent/recvd](https://twitter.com/moxie/status/1497001286444617746)
 - https://github.com/dessalines/essays/blob/master/why_not_signal.md#simplex
 - https://tryingtobeawesome.com/signalwire
+- [JavaScript code of many commercial bot detectors/fingerprinting services and string deobfuscators for them if applicable](https://github.com/chris124567/commercial-bot-detectors)
 
 
 ### Techniques

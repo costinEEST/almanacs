@@ -7,6 +7,7 @@
 - https://www.amazon.com/Parallel-Programming-Concurrency-NET6-asynchronous/dp/1803243678
 - [Dependency Injection Principles, Practices, and Patterns | Steven van Deursen, Mark Seemann ](https://twitter.com/DrewTheDev1/status/1565010009217531909)
 - [Game Programming Patterns](https://github.com/Habrador/Unity-Programming-Patterns)
+- https://leanpub.com/csharp-for-babies
 
 ### Cinema
 
