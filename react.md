@@ -330,6 +330,10 @@
 - https://youtu.be/dOgnQ9SuKYk
 - [Solid, Qwik, React](https://github.com/gdorsi/slides-next-wave-of-javascript-fw)
 
+### Qwik.js 
+
+- https://www.builder.io/blog/movies-app-in-7-frameworks-which-is-fastest-and-why + https://github.com/wmalarski/qwik-city-movies
+
 ### Package
 
 - [React Spring](https://twitter.com/EmmaWedekind/status/1207231921320865792)
@@ -376,6 +380,7 @@
 - https://github.com/tryshchenko/es6-generators-benchmark
 - https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score
 - https://profy.dev/article/debug-react-vscode
+- [Solving common performance pitfalls with React tooling and hooks](https://www.causal.app/blog/react-perf)
 
 ### Inspire
 

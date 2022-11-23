@@ -89,6 +89,26 @@
 - https://github.com/mds/good-button
 
 
+### Cheat sheet 
+
+- https://meiert.com/en/indices/html-elements
+- https://github.com/raunofreiberg/ui-playbook
+- [Guidance for designing ethically humane digital products through patterns focused on user well-being.](https://humanebydesign.com)
+- https://css-tricks.com/how-to-section-your-html
+- http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
+- https://allthetags.com
+- https://www.goodemailcode.com
+- https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
+- [top of a page](https://twitter.com/simonhearne/status/1259927098040467457)
+- https://web.dev/building-a-tabs-component
+- [Rock-solid transactional email templates for applications.](https://github.com/wildbit/postmark-templates)
+- https://gerardkcohen.github.io/periodic-table-of-semantics.html
+- https://justmarkup.com/articles/2021-04-13-html-elements-in-a-tweet
+- https://github.com/hail2u/html-best-practices
+- https://github.com/bradfrost/frontend-guidelines-questionnaire#html-principles
+- https://github.com/LeaVerou/html-syntax-guidelines
+- [HTML elements visualized](https://julesblom.com/writing/html-elements)
+
 ### <details></details>
 
 - https://css-tricks.com/exploring-what-the-details-and-summary-elements-can-do
@@ -102,6 +122,10 @@
 ### <dl></dl>
 
 - https://dorper.me/articles/dldt.aspx
+
+### Drag and Drop 
+
+- https://horstmann.com/unblog/2018-12-16/index.html
 
 ### <head></head>
 
@@ -235,24 +259,7 @@
 - https://meiert.com/en/blog/minimal-web-development
 - https://mark.berthelemy.net/2021/07/26/future-of-scorm + https://www.youtube.com/playlist?list=PL9Ar8Q1P0Odt8MslZpZ1KlAz0ss059Hs-
 
-### Cheat sheet 
 
-- https://meiert.com/en/indices/html-elements
-- https://github.com/raunofreiberg/ui-playbook
-- [Guidance for designing ethically humane digital products through patterns focused on user well-being.](https://humanebydesign.com)
-- https://css-tricks.com/how-to-section-your-html
-- http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
-- https://allthetags.com
-- https://www.goodemailcode.com
-- https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
-- [top of a page](https://twitter.com/simonhearne/status/1259927098040467457)
-- https://web.dev/building-a-tabs-component
-- [Rock-solid transactional email templates for applications.](https://github.com/wildbit/postmark-templates)
-- https://gerardkcohen.github.io/periodic-table-of-semantics.html
-- https://justmarkup.com/articles/2021-04-13-html-elements-in-a-tweet
-- https://github.com/hail2u/html-best-practices
-- https://github.com/bradfrost/frontend-guidelines-questionnaire#html-principles
-- https://github.com/LeaVerou/html-syntax-guidelines
 
 ### Semantic
 

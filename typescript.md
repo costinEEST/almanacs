@@ -93,7 +93,7 @@
 
 - https://topenddevs.com/podcasts/javascript-jabber/episodes/to-typescript-or-not-to-typescript-jsj-538
 
-### Reference
+### Cheat sheet 
 
 - [TypeScript style guide](https://ts.dev/style)
 - https://github.com/rmolinamir/typescript-cheatsheet
@@ -127,9 +127,12 @@
 - https://github.com/ghoullier/awesome-template-literal-types
 - [A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler](https://github.com/sandersn/mini-typescript)
 - [TypeScript AST Resources](https://twitter.com/grow_love/status/1585711764565811201)
+- https://judehunter.dev/blog/assembly-interpreter-in-typescripts-type-system + https://github.com/judehunter/ts-asm
+- https://github.com/adamshaylor/cooking-with-typescript
 
 ### Tool
 
 - https://github.com/juanluispaz/ts-sql-query
 - https://mmazzarolo.com/blog/2021-11-06-speed-up-your-typescript-monorepo-with-esbuild
 - https://github.com/stripe-archive/flow-to-typescript-codemod
+- https://echobind.com/post/why-we-ditched-graphql-for-trpc

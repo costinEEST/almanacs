@@ -112,6 +112,7 @@
 - https://github.com/jamiebuilds/itsy-bitsy-data-structures
 - [Data structures for high-performance JavaScript applications](https://github.com/zandaqo/structurae)
 - [Rob Edwards DS Essentials](https://www.youtube.com/playlist?list=PLFmuMD2V4CkyK_mLDVfez5XwJnQdlP9dB)
+- https://profy.dev/article/javascript-data-structures
 
 ### Obfuscation
 
@@ -209,6 +210,12 @@
 - https://github.com/sindresorhus/meta/discussions/7
 - https://twitter.com/swapnakpanda/status/1514812127999004672
 - https://twitter.com/buildsghost/status/1354279136433299459
+
+
+### Polyfill
+
+- https://github.com/fynyky/weak-ref-collections
+
 
 ### undefined 
 
@@ -575,6 +582,7 @@
 - https://contra.com/p/PWBcPYZc-rewriting-tests-from-cypress-to-playwright-using-gpt-3
 - https://github.com/MarcusFelling/demo.playwright
 - https://github.com/dnv-opensource/playwright-live-recorder
+- https://mtlynch.io/notes/cypress-vs-playwright
 
 ### Virtual machine
 

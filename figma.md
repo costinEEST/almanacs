@@ -47,7 +47,7 @@
 - https://davidl.fr/blog/react-native-svg-icons-component
 - https://itspatmorgan.substack.com/p/the-10-keyboard-shortcuts-that-will
 
-### Plugins
+### Plugin
 
 - https://github.com/rsms/figma-plugins
 - https://github.com/thomas-lowry/figma-plugins-on-github
@@ -60,4 +60,5 @@
 - https://www.marcandrew.me/20-awesome-figma-plugins-to-improve-your-workflow
 - https://ibuildmyideas.substack.com/p/automating-figma
 - https://github.com/calebnance/figma-plugin-react-starter
+- [Custom React components from any Figma design](https://clapy.co)
 

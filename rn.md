@@ -79,6 +79,7 @@
 - https://github.com/software-mansion-labs/react-native-turbo-demo
 - [How to use the New Architecture (Fabric & TurboModules)](https://github.com/react-native-community/RNNewArchitectureApp)
 - https://github.com/talknagish/react-native-turbo-starter
+- https://medium.com/ocp-digital-factory/how-react-native-became-performant-as-native-with-the-new-architecture-6e678c3178aa
 
 ### Tool
 

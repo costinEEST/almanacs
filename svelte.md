@@ -6,6 +6,7 @@
 ### Boilerplate 
 
 - [An opinionated blog starter for SvelteKit + Tailwind + Netlify](https://github.com/sw-yx/swyxkit)
+- https://github.com/josh-collinsworth/sveltekit-blog-starter
 
 ### Community
 

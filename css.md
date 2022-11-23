@@ -136,9 +136,10 @@
 - [CSS drawings with only one HTML element](https://github.com/lynnandtonic/a-single-div)
 - [A curated list of websites with an extra bit of fun](https://github.com/maxboeck/whimsical)
 
-### Measurement units
+### Measurement unit
 
 - http://www.gregoryschmidt.ca/writing/when-is-a-pixel-not-a-pixel-pixels-points-dps
+- https://joshcollinsworth.com/blog/never-use-px-for-font-size
 - https://shkspr.mobi/blog/2021/02/just-because-i-have-a-vertical-screen-doesnt-mean-im-on-a-phone + https://news.ycombinator.com/item?id=26000405
 - https://wattenberger.com/blog/css-percents
 - [Does Safari 15 finally fix viewport height?](https://lukechannings.com/blog/2021-06-09-does-safari-15-fix-the-vh-bug)
