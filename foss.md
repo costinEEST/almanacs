@@ -46,3 +46,4 @@
 - http://cr.yp.to/softwarelaw.html
 - https://meshedinsights.com/2016/01/07/apache-license-yes-apache-cla-no
 - https://meshedinsights.com/2021/06/14/legally-ignoring-the-license
+- https://github.com/mawrkus/pull-request-review-guide

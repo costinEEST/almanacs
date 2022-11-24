@@ -47,6 +47,10 @@
 - [a program that'd clip out gaps in your audio recording making your conversation free of network latency](https://twitter.com/paul_irish/status/1352483715251757059)
 - https://notepad.onghu.com/2022/bookmarks-resources-for-images-sounds
 
+### Historic
+
+- [An ode to the short but influential life of the audio cassette](https://adjacentpossible.substack.com/p/prescient-obsolescence)
+
 ### Tool
 
 - [FATpick is the tab player that listens.](https://www.fatpick.com/learn-to-play-guitar)

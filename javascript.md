@@ -583,6 +583,7 @@
 - https://github.com/MarcusFelling/demo.playwright
 - https://github.com/dnv-opensource/playwright-live-recorder
 - https://mtlynch.io/notes/cypress-vs-playwright
+- https://github.com/mawrkus/js-unit-testing-guide
 
 ### Virtual machine
 

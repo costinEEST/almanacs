@@ -132,6 +132,7 @@
 - https://www.freecodecamp.org/news/project-euler-problems-in-rust
 - [Built a lisp dialect from zero](https://github.com/coquelicot/functional-from-zero)
 - https://github.com/LearningOS/rust-based-os-comp2022
+- https://jondot.medium.com/8-steps-for-troubleshooting-your-rust-build-times-2ffc965fd13e
 
 ### Testing 
 

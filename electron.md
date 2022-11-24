@@ -77,3 +77,4 @@
 - [Make any web page a desktop application](https://github.com/nativefier/nativefier)
 - [Decompiler](https://github.com/electron/asar) + https://youtu.be/jyiFjqNncMc
 - [frameless browser for screenshots](https://github.com/antfu/broz)
+- https://betterprogramming.pub/tauri-vs-electron-for-tray-apps-ed15974f35ce

@@ -93,6 +93,7 @@
 - [Building a Timetracking application with Hypermedia | Evert Pot](https://www.youtube.com/playlist?list=PLqqoUVHAFAYPn3obbnhpbPSI3tdzIqc64)
 - https://github.com/simonplend/egghead-build-a-modern-rest-api-in-node-js-with-fastify
 - https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend
+- https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling
 
 ### Book
 
@@ -168,6 +169,7 @@
 - https://github.com/yonathan06/fastify-typescript-starter
 - https://backend.cafe/how-to-unlock-the-fastest-fastify-server-startup
 - https://github.com/octave-online/octave-online-server
+- https://blog.appsignal.com/2022/11/23/nodejs-architecture-pitfalls-to-avoid.html
 
 ### Cinema
 
@@ -356,6 +358,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://dev.to/jakobjingleheimer/custom-esm-loaders-who-what-when-where-why-how-4i1o
 - [If you are on commonjs with no plan to upgrade](https://twitter.com/matteocollina/status/1554157532381429762)
 - [How to write CommonJS exports that can be name-imported from ESM](https://2ality.com/2022/10/commonjs-named-exports.html)
+- https://2ality.com/2021/06/typescript-esm-nodejs.html
 
 ### Event loop
 
@@ -524,6 +527,9 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://sprkl.dev/observability-jest-tests
 - https://github.com/m-radzikowski/aws-sdk-client-mock
 - https://backend.cafe/should-you-use-jest-as-a-testing-library
+- https://javascript.plainenglish.io/complete-node-js-testing-setup-with-jest-supertest-typescript-and-husky-e9d3fa109e1d
+- https://rrawat.com/blog/unit-test-express-api + https://github.com/Rishabh570/express-api-unit-test-starter
+- https://larswaechter.dev/blog/nodejs-api-testing
 
 ### Scrapping
 
@@ -699,6 +705,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://github.com/feross/awesome-mad-science
 - https://gist.github.com/balupton/d6531a2f48dba896a1bced86e8b1636c
 - https://jinoantony.com/blog/async-vs-sync-nodejs-a-simple-benchmark
+- https://www.infoq.com/articles/nodejs-monorepo
 
 ### Radio
 
