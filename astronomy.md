@@ -52,6 +52,7 @@
 - https://ioanazelko.com/outreach-talks
 - [Originile Noastre Pe Intelesul Tuturor | FluxMagnetic](https://www.youtube.com/playlist?list=PL75C702B13AF5FD2F) + https://www.youtube.com/playlist?list=PL82yk73N8eoX8RpvQfjdupAKFWKjtMhTe
 - [Seasonal star guides | Delta Planetarium](https://www.youtube.com/playlist?list=PLNk7FC-XaRCkKCeCxl0vrDFi9JE784ZX8)
+- [Cursuri de Astronomie 1-50 | Astronom UNIMIS](https://www.youtube.com/playlist?list=PLs1G-dN-hJ9GQk5PXWXRKw8pYDQXHEGIm) + https://www.unimis.ro/en/courses
 
 
 ### Community 
@@ -83,6 +84,13 @@
 - [Meteor_Romania](https://www.facebook.com/groups/1000019113848795)
 - https://planetariubm.ro/glosar
 - [Radu Gherase](www.stardreamsobservatory.com)
+- [Cornelia Cristescu (1928-2005)](https://www.researchgate.net/scientific-contributions/C-Cristescu-2005069706) + https://www.google.ro/search?tbo=p&tbm=bks&q=inauthor:%22Cornelia+Cristescu%22
+- [Women and Romanian Astronomy](https://www.sheisanastronomer.org/images/stories/Presentations/conference/4_ms_romania.pdf) + https://www.sheisanastronomer.org/resources/books-and-education
+- [Mircea Pteancu](http://observoergosum.blogspot.com/p/links.html)
+- [Mirel Bîrlan](http://perso.obspm.fr/mirel.birlan/links.html)
+- [Clara Maurel](https://cmaurel.weebly.com/outreach.html)
+- [Adrian Șonka](https://sonkab.com/despre-2-2)
+- [Diana Besliu-Ionescu](https://www.diana-ionescu.ro/en/contact)
 
 ### Constellation
 
@@ -121,6 +129,10 @@
 - https://biblioteca-digitala.ro/?descriptor=41892-astrofotografie
 - https://www.academia.edu/48487564/The_Sun_and_solar_eclipses_in_traditional_Romanian_ornamental_patterns
 - https://gizmodo.com/sls-rocket-launch-photos-nasa-artemis-1-1849791662
+
+### Star 
+
+- https://upwikiro.top/wiki/Astronomical_catalog
 
 ### Tool
 

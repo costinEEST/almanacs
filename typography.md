@@ -60,6 +60,7 @@
 - https://qodeinteractive.com/magazine/best-google-fonts
 - https://www.colorfonts.wtf
 - [Free and open-source monospaced font from Evil Martians](https://github.com/evilmartians/mono)
+- https://github.com/adobe-fonts/source-han-code-jp
 
 ### History
 

@@ -75,6 +75,7 @@
 - https://www.facebook.com/durnea.187/posts/pfbid02vsXn1zVoqkYfTAJFUnfxpHYvDNn6t5mbXRTGNeX26v271mWZcD96ZSut8BF3gDR4l
 - https://github.com/starkfell/100DaysOfIaC
 - https://github.com/mpeder/azdevopssecurity
+- https://medium.com/databulls/how-to-pass-the-microsoft-certification-sc-900-a823f4a24db0
 
 ### Cloudflare
 
