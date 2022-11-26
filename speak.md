@@ -311,6 +311,7 @@
 - [Faxina, a Portuguese language narrative podcast exploring the lives of Brazilian migrant house cleaners living and working in the United States](https://www.faxinapodcast.com)
 - https://aiydreen.com/portuguese
 - https://www.udemy.com/course/faq-perguntas-e-respostas-frequentes-em-ingles
+- https://sites.google.com/view/nd-portuguesesources/home
 
 ### Romanian
 

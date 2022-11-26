@@ -37,6 +37,10 @@
 
 - https://josh-cusick-portfolio.webflow.io/projects/design-systems-for-figma + https://www.designsystemsforfigma.com + https://www.youtube.com/channel/UC2DXl-a7JFfzOwWtJasTh-w/videos
 
+### Community 
+
+- https://georgiatdavis.com/about
+
 ### Development
 
 - https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7

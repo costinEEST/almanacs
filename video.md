@@ -70,6 +70,7 @@
 - https://tech-notes.accel.dk/tools/video-meetings.html
 - [Platform for encoding videos optimized for streaming supporting modern encodings such as x264, x265, VP9 and AV1](https://github.com/PatrickKalkman/MiniVideoEncoder)
 - https://github.com/eMBee/vimeo-download
+- https://diablohorn.com/2022/11/25/obs-presentation-slides-side-by-side
 
 ### Opinion
 

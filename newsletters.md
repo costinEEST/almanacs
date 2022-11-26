@@ -184,6 +184,7 @@
 - [Elizabeth Lin](https://tinyletter.com/lalizlabeth/archive)
 - [Brian Lovin](http://overthought.brianlovin.com/#archive)
 - [Joey Banks](https://substack.com/profile/1093844-joey-banks)
+- [Cristian Barin](https://us7.campaign-archive.com/home/?u=ed30812041efdc37b39d64dff&id=488b456873)
 
 ### Data visualization
 

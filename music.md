@@ -112,6 +112,7 @@
 - http://www.laboratoruldemuzica.ro/dictionar + https://www.youtube.com/playlist?list=PLLy7dwV_5aUlP7kiMAUUiVquZIt2eSot4
 - https://www.udemy.com/course/the-complete-guide-to-learn-tabla-step-by-step
 - https://www.amazon.com/Accordion-Americas-Klezmer-Zydeco-American/dp/0252078713
+- [The Commodordion is an 8-bit accordion primarily made of C64s, floppy disks, and gaffer tape](https://linusakesson.net/commodordion/index.php)
 
 ### Tool
 
