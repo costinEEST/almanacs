@@ -144,6 +144,7 @@
 ### Software-defined radio (SDR) 
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUcS1Rd3toiopH4QsPaLASfJ
+- https://github.com/Alevsk/radio + https://github.com/Alevsk/speaker/tree/main/radio-hacking-intro-sdr
 - http://ossmann.blogspot.com/2014/09/learning-sdr.html + https://twitter.com/GSGlabs/status/1486961947132239873 + https://hackrf.readthedocs.io/en/latest/hardware_components.html#block-diagram
 - https://infocondb.org/presenter/michael-ossmann
 - https://hackaday.com/tag/michael-ossmann
@@ -237,6 +238,7 @@
 - https://github.com/vincentcox/bypass-firewalls-by-DNS-history
 - [Alternative DNS servers | Jan-Piet Mens](https://jpmens.net/2010/10/29/alternative-dns-servers-the-book-as-pdf) + https://jpmens.net/dns
 - https://matt-rickard.ghost.io/exploiting-protocols-for-fun
+- [DNS Rebinding, and You](https://emily.id.au/tailscale)
 
 ### TCP/UDP
 

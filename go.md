@@ -65,6 +65,7 @@
 ### Data structures
 
 - https://github.com/TheAlgorithms/Go
+- https://github.com/Alevsk/itc-coding-questions
 
 
 ### Development

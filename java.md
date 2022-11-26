@@ -30,6 +30,7 @@
 
 ### Cheat sheet 
 
+- https://devtut.github.io/java
 - https://jenkov.com/tutorials/java/index.html
 - https://trishagee.com/presentations/beyond_java_8 + https://trishagee.github.io/presentation/beyond_java_8
 - [Collection of information about the history of Java primarily from a technical point of view.](https://github.com/marchof/java-almanac)
@@ -133,7 +134,8 @@
 - https://github.com/javaweb-sec/javaweb-sec
 - https://guidedhacking.com/forums/java-reverse-engineering-course-jre100.538
 - [exploitation of path traversal vulnerabilities in Java web applications](https://github.com/Invicti-Security/web-inf-path-trav) + https://twitter.com/har1sec/status/1588494563379122177
-
+- [Apache JServ Protocol](https://blog.doyensec.com/2022/11/15/learning-ajp.html)
+- https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe
 
 ### Microservice
 

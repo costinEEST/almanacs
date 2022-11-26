@@ -32,6 +32,7 @@
 - [PinePhone User’s Group](https://www.facebook.com/groups/490766952100168)
 - https://github.com/humanetech-community/awesome-humane-tech
 - https://www.bellingcat.com/news/americas/2021/01/07/the-making-of-qanon-a-crowdsourced-conspiracy
+- [GDPR Enforcement Tracker](https://www.enforcementtracker.com)
 
 ### Hardware
 

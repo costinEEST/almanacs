@@ -36,6 +36,10 @@
 - https://www.youtube.com/playlist?list=FL6XlvVH63g0H54HSJubURQA
 - [Meaning of Life Symposium | Manolis Kellis](https://www.youtube.com/playlist?list=PLypiXJdtIca7i8IrNye4IenjnUCP9LF35)
 
+### Historic
+
+- [The story of the Max Headroom pirating incident, one of the few successful television intrusions in history, and still unsolved](https://www.damninteresting.com/remember-remember-the-22nd-of-november)
+
 ### Movie
 
 - https://shotdeck.com/browse/movies

@@ -50,6 +50,7 @@
 ### Historic
 
 - [An ode to the short but influential life of the audio cassette](https://adjacentpossible.substack.com/p/prescient-obsolescence)
+- [History of Artificial Sound | Technology Connections](https://www.youtube.com/playlist?list=PLv0jwu7G_DFUYPuDoKWCUy33lL9LnMBGX)
 
 ### Tool
 

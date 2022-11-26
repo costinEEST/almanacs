@@ -66,6 +66,7 @@
 - https://www.indiehackers.com/post/my-7-favorite-writing-tools-a61ab86f56 
 - [A cross-platform AutoHotKey-like thing with TypeScript as its scripting language](https://github.com/suchipi/suchibot)
 - [Student's Guide to Physical Modeling with MATLAB](https://github.com/NelsonUpenn/PMLS-MATLAB-Guide)
+- https://devtut.github.io/matlab
 - https://julie-blanc.fr/en/blog/2021-04-16_hackathon-pagedjs
 - [Self-Publishing via Markdown](https://gist.github.com/caseywatts/3d8150fe04e0d8462cfc4d51b9856d39)
 - https://christitus.com/obsidian
@@ -91,6 +92,7 @@
 - https://passo.uno/posts/open-source-tools-for-rest-api-documentation
 - [Using a ViT to convert images of equations into LaTeX code](https://github.com/lukas-blecher/LaTeX-OCR)
 - [Additions to Markdown for writing specification documents](https://github.com/leebyron/spec-md)
+- https://devtut.github.io/latex
 
 ### Miscellaneous
 

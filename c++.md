@@ -17,6 +17,7 @@
 
 ### Cheat sheet 
 
+- https://devtut.github.io/cpp
 - https://github.com/cpp-best-practices/cppbestpractices
 - https://github.com/AnthonyCalandra/modern-cpp-features
 - https://github.com/danbev/learning-cpp

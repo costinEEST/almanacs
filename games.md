@@ -121,3 +121,4 @@
 - https://github.com/dsasmblr/game-hacking
 - https://github.com/gmh5225/awesome-game-security
 - https://mtardy.com/posts/mario-injection
+- https://github.com/hexomethyl/minesweeper_internal

@@ -112,6 +112,7 @@
 - [eBPF-based tool for tracing network packets in the Linux kernel](https://github.com/cilium/pwru)
 - [Insight Is Gone From Ubuntu](https://www.contrapositivediary.com/?p=1396) + https://hackaday.com/2022/06/14/linux-fu-up-your-gdb-game
 - [deps llvm, cmake, llvm-config](https://github.com/triniwiz/linux-runtime)
+- [create multiple hidden volumes on a storage device in such a way that it is very difficult, even under forensic inspection](https://shufflecake.net)
 
 ### Cheat sheet
 

@@ -223,6 +223,8 @@
 - https://www.orelbeilinson.com/language-textbooks
 - [Dicționar geografic român-maghiar | Székely Győző](https://www.scribd.com/doc/131004043/Dictionar-Geografic-Roman-maghiar)
 - https://twitter.com/BeilinsonOrel/status/1588873985932267522
+- László Viktória: https://www.youtube.com/@malnaspite/playlists, https://linktr.ee/laszloviktoria
+- [Magyarósi Csaba](https://www.youtube.com/@magyarosi/playlists)
 
 ### Hindi
 

@@ -181,6 +181,7 @@
 - https://github.com/jpetazzo/container.training
 - https://academy.safestack.io/syllabus-introduction-to-devsecops
 - https://github.com/wurstbrot/DevSecOps-MaturityModel
+- https://github.com/Alevsk/startup-security-with-opensource-tools
 
 ### Monitoring
 

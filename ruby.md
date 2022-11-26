@@ -74,6 +74,7 @@
 
 ### Cheat sheet
 
+- https://devtut.github.io/ruby
 - https://programming-idioms.org/cheatsheet/Ruby/C
 - https://github.com/andremedeiros/ruby-c-cheat-sheet
 - https://programming-idioms.org/cheatsheet/Ruby/Python
@@ -517,6 +518,7 @@
 - https://bishopfox.com/blog/ruby-vulnerabilities-exploits
 - https://github.com/raesene/TestingScripts + https://www.mccune.org.uk/content/talks/2013-01-16-pentest-automation/ + https://www.youtube.com/playlist?list=PLKDRii1YwXnKG5PiY9zx3g5dJ2zOTJ4Al 
 - https://hackerone.com/reports/1609965
+- [Who Controls the Controllers — Hacking Crestron IoT Automation Systems](https://github.com/headlesszeke/defcon26-materials)
 
 ### Scrapping
 

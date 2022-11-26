@@ -375,6 +375,7 @@ javascript: (() =>
 - https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization
 - https://www.bryanbraun.com/2021/08/10/allowing-inline-scripts-in-your-content-security-policy-using-a-hash
 - https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution
+- [Discover new target domains using Content Security Policy](https://github.com/edoardottt/csprecon)
 
 ### Cross-origin resource sharing (CORS)
 

@@ -36,6 +36,10 @@
 - https://www.industrialempathy.com/posts/avif-webp-quality-settings + https://twitter.com/cramforce/status/1363182846731382790
 - https://www.zachleat.com/web/vector-raster-split + https://twitter.com/zachleat/status/1430944481965182976
 
+### Historic 
+
+- [Photography | Technology Connections](https://www.youtube.com/playlist?list=PLv0jwu7G_DFV6yW240e6CbiwCLaZ0Z6PV)
+
 ### Tool
 
 - https://danburzo.ro/digitizing-books
