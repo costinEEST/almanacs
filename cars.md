@@ -9,6 +9,7 @@
 - [Vânzari Auto / Schimburi - Car Dealer](https://www.facebook.com/groups/bucuresti.giurgiu)
 - [VÂNZARI MAŞINI PARIS](https://www.facebook.com/groups/731313373607149)
 - [Anunturi auto Franta: vanzari ,cumparari ,accesorii auto](https://www.facebook.com/groups/274089936110583)
+- [1928-1931 Ford model A group](https://www.facebook.com/groups/1518659498456616)
 
 ### Repair
 

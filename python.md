@@ -222,6 +222,7 @@
 - https://github.com/mtayseer/infoq-downloader
 - https://github.com/VikParuchuri/apartment-finder
 - https://github.com/juliensobrier/google-safe-browsing-lookup-python
+- [Digital Humanities in Practice: From Research Questions to Results](https://twitter.com/stephenosadetz/status/1583154402470215680)
 
 ### Static website 
 

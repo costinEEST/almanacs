@@ -298,13 +298,13 @@
 
 ### Security
 
-- [AppSec Ezine Public Repository.](https://github.com/Simpsonpt/AppSecEzine)
+- [AppSec Ezine](https://github.com/Simpsonpt/AppSecEzine)
 - [EdOverflow](https://us20.campaign-archive.com/home/?u=9644b6e6c0558cb3849b83293&id=daeaf4f8cc)
 - [Pentesterland](https://us17.campaign-archive.com/home/?u=c96186f202807d5842ac45ae3&id=3a6d8d225b)
 - https://github.com/n00py/ReadingList/blob/master/feedly.xml
 - [Scott Helme](https://ifttt.com/applets/457742p-send-me-an-email-when-scott-helme-blogs)
 - [Daniel Miessler](https://us8.campaign-archive.com/home/?u=6a9e465ab1570df8aaecb2292&id=49fdb7d723)
-- [InfoCon is a community supported, non-commercial archive of all the past hacking related convention material.](https://infocon.org/infocon.org-css/infoconorg-cons.rss)
+- [Archive of all the past hacking related convention material](https://infocon.org/infocon.org-css/infoconorg-cons.rss)
 - [Harsh Bothra](https://www.getrevue.co/profile/harshbothra_#archive)
 - [securibee-infosec.opml](https://gist.github.com/securibee/054d4588e7f4dc892ae603c963558943)
 

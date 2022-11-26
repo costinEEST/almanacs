@@ -11,6 +11,10 @@
 - https://academyofideas.com/books/#propaganda-and-brainwashing
 - https://mostrecommendedbooks.com/experts
 
+### Course 
+
+- [History of the Book and of Reading | Carol Chiodo](https://sites.google.com/view/historyofthebookreading)
+
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUfqLfnXjHjvQgSTZbzAAcAd
