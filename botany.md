@@ -46,6 +46,7 @@
 - https://www.theguardian.com/environment/2022/sep/30/superhero-sphagnum-moss-save-communities-flooding
 - https://mossandfog.com/some-of-the-most-amazing-trees-from-around-the-world
 - https://www.sor.ro/salvia-revelata-o-noua-specie-de-planta-descoperita-in-romania
+- https://mindcraftstories.ro/mediu/de-ce-e-mai-bine-sa-lasi-frunzele-sub-copaci-decat-sa-le-strangi
 
 ### Radio
 

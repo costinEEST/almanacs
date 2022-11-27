@@ -210,6 +210,7 @@
 - [A More Human Approach To Databases](https://ccorcos.github.io/filing-cabinets)
 - https://shekhargulati.com/category/code-reading
 - https://github.com/harpribot/awesome-information-retrieval
+- https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications
 
 ### PostgreSQL
 

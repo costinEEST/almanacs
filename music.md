@@ -149,6 +149,11 @@
 - https://mehan.substack.com/p/deafheaven
 - [Russians | Richard E. Cytowic](https://www.youtube.com/playlist?list=PLzpbJH8qD9IgDlM6-uErZpt7P5bAx9JHE)
 - https://blog.andyet.com/2014/02/26/Pete-Seeger-lessons-learned-from-a-hard-link-to-the-old-world
+- https://tedium.co/2022/11/09/the-death-of-the-key-change
+
+### Violin 
+
+- https://arstechnica.com/science/2022/11/fresh-chemical-clues-emerge-for-the-unique-sound-of-stradivari-violins
 
 ### Jazz
 
@@ -164,6 +169,7 @@
 - [The Subject is Jazz](https://www.youtube.com/playlist?list=PLKcw8FT1mrfDQuTAKB1OPXNDuYyby89nY)
 - [Konrad Koselleck](https://twitter.com/AlexDrace/status/1517893147480793088)
 - [Adrian Holovaty plays gypsy jazz](https://www.youtube.com/playlist?list=PL563285DE146F61F7)
+- https://neurosciencenews.com/jazz-music-improvisation-21896
 
 ### Rock
 

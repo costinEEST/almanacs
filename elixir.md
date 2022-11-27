@@ -20,3 +20,7 @@
 - https://alchemist.camp/start
 - https://cri.dev/posts/2021-03-03-learn-elixir-study-path
 - https://github.com/lucasvegi/Elixir-Code-Smells
+
+### Testing 
+
+- [Partitioning Elixir Tests with Github Actions](https://nathanwillson.com/blog/posts/2022-11-11-partitioned_tests)

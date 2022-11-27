@@ -42,6 +42,7 @@
 - https://github.com/balupton/plant-vs-animal-products
 - https://www.spencergreenberg.com/2020/09/the-three-big-strategies-i-see-for-combating-climate-change
 - https://incredibleproiectare.ro/10-lucruri-pe-care-trebuie-sa-le-faci-inainte-sa-iti-cumperi-un-teren-la-tara
+- [Digging 10 miles underground could yield enough geothermal energy to power Earth](https://interestingengineering.com/innovation/digging-10-miles-geothermal-energy)
 
 ### Radio
 

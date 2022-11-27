@@ -39,6 +39,7 @@
 - [Sergiu P. Pasca](https://twitter.com/Sergiu_P_Pasca)
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=neuroscience
 - https://davidson.weizmann.ac.il/en/online/reasonabledoubt/complex-link-between-depression-and-serotonin
+- [Could We Train Our Brains to See New Colors?](https://neurosciencenews.com/color-perception-21924)
 
 ### Book
 
@@ -76,6 +77,10 @@
 - [Extra History: Medicine](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5Dl5NX3frM2m-bnWam8TnC2)
 - Histoire du trafic de drogue: https://www.youtube.com/watch?v=nwvwQOe5Etw + https://www.youtube.com/watch?v=YE3xMlZaCmc + https://www.youtube.com/watch?v=6M5fKngFjZk
 
+### Cold 
+
+- [What does an unheated room do to your body?](https://www.bbc.com/news/health-63602501)
+
 ### Course
 
 - https://www.udemy.com/course/nutrition-masterclass-course
@@ -111,6 +116,7 @@
 - https://www.youtube.com/c/TastingHistory/playlists
 - https://www.livestrong.com/article/13722674-healthy-comfort-food-recipes
 - https://www.google.com/search?q=Kitab+al-Tabikh+Cartea+felurilor+de+m%C3%A2ncare
+- https://www.smithsonianmag.com/arts-culture/the-ten-best-books-about-food-of-2022-180981175
 
 ### Cholesterol
 
@@ -236,6 +242,10 @@
 ### Hormones
 
 - [Psychology Hacks to Activate Your Happiness Chemicals](https://twitter.com/UpSkillYourLife/status/1452278343743725578)
+
+### Hormesis 
+
+- https://chrismasterjohnphd.substack.com/p/thyroid-toxins-today-only
 
 ### Supplement
 
@@ -374,6 +384,8 @@
 - https://newatlas.com/medical/anti-aging-vaccine-senolytics-senescent-cells
 - https://github.com/geekan/HowToLiveLonger
 - https://github.com/zijie0/HumanSystemOptimization
+- https://neurosciencenews.com/exceptional-longevity-21888
+- https://www.theguardian.com/lifeandstyle/2022/nov/25/how-long-can-humans-live-we-ask-an-expert
 
 ### Virus
 

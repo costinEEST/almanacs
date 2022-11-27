@@ -19,6 +19,7 @@
 - https://bibliotecaexploratorilor.substack.com/p/cele-mai-bune-carti-despre-pasari
 - [Whats the best bird app?](https://twitter.com/nwilliams030/status/1566791362414092288)
 - https://github.com/lpoaura/BirdAtlasOfFrance
+- https://knowablemagazine.org/article/food-environment/2022/city-birds-are-changing-their-tune
 
 ### Crawler
 

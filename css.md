@@ -96,7 +96,7 @@
 - https://www.nickkolenda.com/color-psychology
 - https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl
 - [Get random, accessible color combinations](https://github.com/components-ai/randoma11y)
-
+- [Traité des couleurs servant à la peinture à l’eau | A. Boogert](https://www.thisiscolossal.com/2014/05/color-book)
 
 ### Community
 
@@ -236,6 +236,7 @@
 - [My incomplete mental model for flexbox's main axis](https://twitter.com/pomber/status/1281339741682753542)
 - https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6
 - https://tiffanybbrown.com/2022/01/how-does-flexbox-work/index.html
+- https://www.joshwcomeau.com/css/interactive-guide-to-flexbox
 
 
 ### Media query

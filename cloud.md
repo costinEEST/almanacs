@@ -76,6 +76,7 @@
 - https://github.com/starkfell/100DaysOfIaC
 - https://github.com/mpeder/azdevopssecurity
 - https://medium.com/databulls/how-to-pass-the-microsoft-certification-sc-900-a823f4a24db0
+- https://oceanleaf.ch/m365-license-guide
 
 ### Cloudflare
 

@@ -308,6 +308,13 @@ javascript: (() =>
 - [Separate Firefox Dark UI theme from website dark mode](https://twitter.com/darek_kay/status/1468171089796911109)
 - https://github.com/MrOtherGuy/firefox-csshacks
 
+  
+### Historic
+
+- https://webinista.com/updates/flash-end-of-life + https://twitter.com/mattmay/status/1344728355912880129 + http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive 
+- [Last publicly available revision of the world's first web browser](https://github.com/cynthia/WorldWideWeb)
+- https://brucelawson.co.uk/2022/ie-rip-or-brb
+
 ### Safari
 
 - [In my app when a user clicks play, I remove all audio elements, swap them with fresh ones, and attempt to autoplay for the user.](https://twitter.com/RogersKonnor/status/1453596502098644994) + https://github.com/cableready/audio_operations
@@ -564,11 +571,7 @@ javascript: (() =>
 - [From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers](https://github.com/RUB-NDS/xsinator.com)
 - https://github.com/iipc/awesome-web-archiving
 - [using ForensiX to extract information about a Chrome dump](https://iosifache.me/posts/forensix-walktrough)
-  
-### History
 
-- https://webinista.com/updates/flash-end-of-life + https://twitter.com/mattmay/status/1344728355912880129 + http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive 
-- [Last publicly available revision of the world's first web browser](https://github.com/cynthia/WorldWideWeb)
 
 ### WebCryptoAPI
 

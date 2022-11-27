@@ -53,6 +53,7 @@
 ### Community
 
 - Caleb Nance: https://github.com/calebnance?tab=repositories + https://learnreactnative.dev + https://twitter.com/calebnance/status/1349351148889714689
+- https://semaphoreci.com/blog/react-native
 
 ### Book
 

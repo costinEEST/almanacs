@@ -185,6 +185,7 @@
 - [Brian Lovin](http://overthought.brianlovin.com/#archive)
 - [Joey Banks](https://substack.com/profile/1093844-joey-banks)
 - [Cristian Barin](https://us7.campaign-archive.com/home/?u=ed30812041efdc37b39d64dff&id=488b456873)
+- [Design+Code](https://us18.campaign-archive.com/home/?u=a35aff53a97607e9f85b40890&id=40f1857778)
 
 ### Data visualization
 
@@ -247,6 +248,7 @@
 - [Evert Pot](https://www.getrevue.co/profile/evertp/#archive)
 - [Ben Frain](https://us19.campaign-archive.com/home/?u=906ec14e977f8fce87751d6f1&id=becad47daa)
 - https://tailwindweekly.com/rss
+- [CSS Simplified By Shruti Balasa](https://www.getrevue.co/profile/shrutibalasa)
 
 ### Web performance
 

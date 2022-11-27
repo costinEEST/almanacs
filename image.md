@@ -70,6 +70,8 @@
 - [Akiyoshi KITAOKA's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 - [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics)
 - [Photo Sharing For Everyone - A free and ethical photo sharing platform](https://pixelfed.org)
+- https://time.com/6234958/top-100-photos-2022
+- https://flashbak.com/first-naked-kiss-eadweard-muybridge-61902
 
 ### Security
 

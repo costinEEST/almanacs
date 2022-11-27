@@ -56,8 +56,10 @@
 ### Opinion
 
 - https://www.theguardian.com/environment/2021/aug/27/what-will-our-eco-friendly-homes-of-the-future-look-like
+- https://www.treehugger.com/age-of-the-skyscraper-should-be-over-6832005
 
 ### Miscellaneous
 
 - https://github.com/nikitavoloboev/knowledge/blob/main/art/architecture.md
 - https://architizer.com/blog/inspiration/collections/designs-of-the-decade-best-museums
+- https://architizer.com/blog/competitions/one-drawing-challenge-2022-finalists-part-1

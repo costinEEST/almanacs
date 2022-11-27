@@ -68,6 +68,7 @@
 - https://jongleberry.com/posts/where-to-share-referral-codes
 - [collected advice for beginner indie hackers, focused on pricing, landing pages](https://github.com/sw-yx/launch-cheatsheet)
 - https://github.com/onmyway133/awesome-online-earning
+- [Bynder interviewed hundreds of marketing experts to find out how they're using technology to entice consumers with digital content](https://www.bynder.com/en/chartr-newsletter)
 
 ### Branding
 

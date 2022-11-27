@@ -91,6 +91,7 @@
 - [Clara Maurel](https://cmaurel.weebly.com/outreach.html)
 - [Adrian Șonka](https://sonkab.com/despre-2-2)
 - [Diana Besliu-Ionescu](https://www.diana-ionescu.ro/en/contact)
+- https://www.themarginalian.org/2021/01/24/the-boy-whose-head-was-filled-with-stars-edwin-hubble
 
 ### Constellation
 
@@ -111,6 +112,11 @@
 - https://github.com/howardisaacson/Intro-to-Astro2022
 - [Michael Zingale](https://zingale.github.io/classes.html) + https://github.com/zingale/astro_animations
 
+### Moon 
+
+- https://interestingengineering.com/science/formation-of-moon-5-theories
+- https://interestingengineering.com/science/humans-to-live-on-moon-nasa
+
 ### News
 
 - [Black holes: Cosmic signal rattles Earth after 7 billion years](https://www.bbc.com/news/science-environment-53993937)
@@ -118,6 +124,8 @@
 - https://curatorial.ro/natura/telescopul-spatial-james-webb-a-surprins-un-peisaj-maiestuos-cu-noi-stele-ce-formeaza-nori-densi-de-gaz-si-praf
 - https://biblioteca-digitala.ro/?pub=165-perseus-revista-de-astronomie
 - https://www.iflscience.com/uranus-experienced-a-colossal-impact-that-knocked-it-on-its-side-48602
+- https://phys.org/news/2022-11-earth-ronnagrams-metric-prefixes-voted.html
+- https://www.wired.com/story/mars-hiberators-guide-to-the-galaxy
 
 ### Picture 
 
@@ -129,6 +137,7 @@
 - https://biblioteca-digitala.ro/?descriptor=41892-astrofotografie
 - https://www.academia.edu/48487564/The_Sun_and_solar_eclipses_in_traditional_Romanian_ornamental_patterns
 - https://gizmodo.com/sls-rocket-launch-photos-nasa-artemis-1-1849791662
+- https://singularityhub.com/2022/11/23/this-amazing-interactive-map-of-the-universe-takes-you-all-the-way-back-to-the-big-bang + https://mapoftheuniverse.net
 
 ### Star 
 

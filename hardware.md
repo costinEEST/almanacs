@@ -142,6 +142,7 @@
 - https://www.wired.com/story/starlink-internet-dish-hack
 - [PCB Deconstruction Techniques](http://www.grandideastudio.com/pcbdt)
 - http://www.irongeek.com/i.php?page=videos/bsideslasvegas2014/cg07-using-superpowers-for-hardware-reverse-engineering-joe-grand
+- [Better understanding the current status of hardware supply chain](https://github.com/hardenedlinux/cheap-pcb)
 
 
 ### Resistor

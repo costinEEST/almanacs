@@ -32,6 +32,7 @@
 
 - https://www.wired.co.uk/article/elan-voyager-skis-review
 - https://www.smithsonianmag.com/innovation/how-railroad-engineer-from-nebraska-invented-worlds-first-ski-chairlift-180976878
+- https://www.outsideonline.com/culture/books-media/the-greatest-ski-films-of-all-time-ranked
 
 ### Skateboarding
 
