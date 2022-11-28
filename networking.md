@@ -360,6 +360,7 @@
 - [Sending Emails with Mailchannels and Cloudflare Workers](https://maggieliu.dev/posts/emails)
 - http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html
 - https://digitalinvestigator.blogspot.com/2022/11/techniques-in-email-forensic-analysis.html
+- https://github.com/PhishyAlice/awesome-phishing
 
 ### WebSockets
 

@@ -72,6 +72,7 @@
 - https://github.com/cmdcolin/awesome-genome-visualization
 - https://alexanderell.is/posts/visualizing-code
 - [GeoJSON data for Chile](https://github.com/jlhonora/geo)
+- [An extensible text-to-diagrams library](https://github.com/hikerpig/pintora)
 
 
 ### Radio

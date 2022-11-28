@@ -58,6 +58,7 @@
 - [A Wordpress Honeypot](https://github.com/gbrindisi/wordpot)
 - [wpscan -e ap](https://twitter.com/nullenc0de/status/1319667713179004928)
 - https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf
+- https://github.com/teamhanded/issues/blob/master/wordpress-malware.md
 
 ### Tool
 

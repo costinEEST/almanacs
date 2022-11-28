@@ -122,3 +122,4 @@
 - https://github.com/gmh5225/awesome-game-security
 - https://mtardy.com/posts/mario-injection
 - https://github.com/hexomethyl/minesweeper_internal
+- [Super Solvers: Gizmos & Gadgets](https://github.com/delan/reverssg)

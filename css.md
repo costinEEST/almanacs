@@ -188,6 +188,7 @@
 - [Giving users and developers more control over focus](https://blog.chromium.org/2020/09/giving-users-and-developers-more.html)
 - https://matthiasott.com/notes/focus-visible-is-here + https://twitter.com/m_ott/status/1314917091523342338
 - https://www.bram.us/2021/04/15/identify-and-extract-pseudo-element-selectors-from-built-in-html-elements-using-devtools 
+- https://www.azabani.com/2022/09/01/meet-the-css-highlight-pseudos.html + https://www.azabani.com/talks
 
 
 ### CSS variables
