@@ -41,6 +41,7 @@
 - [John Gallaugher](https://gallaugher.com)
 - [Collin Cunningham](https://github.com/stars/CollinCunningham/lists/ios)
 - [Peter Friese](https://github.com/peterfriese?tab=stars)
+- [Karoy Lorentey](https://mastodon.social/@lorentey)
 
 
 ### Development
@@ -63,6 +64,7 @@
 - https://github.com/soapyigu/Swift-30-Projects
 - https://www.apple.com/swift/playgrounds
 - https://www.freecodecamp.org/news/learn-ios-best-practices-by-building-a-simple-recipes-app-9bcbce4d10d
+- https://github.com/davedelong/AOC
 
 ### Opinion
 

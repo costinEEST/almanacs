@@ -2,6 +2,10 @@
 
 - [The Kicks You Wear](https://kyw.substack.com/archive)
 
+### Bookstore 
+
+- [Nemira Publishing House](https://us16.campaign-archive.com/home/?u=90fc2082261012b48d34d8ff6&id=851b969363)
+
 ### C++ 
 
 - [Denis Bakhvalov](https://easyperf.net/newsletter)

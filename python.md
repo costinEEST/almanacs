@@ -118,6 +118,7 @@
 - https://www.facebook.com/groups/ropython
 - https://github.com/adrianmoisey/learn-python
 - https://github.com/stars/x-N0/lists/python-generic
+- [Lambert Meertens](https://twitter.com/gvanrossum/status/1596268474518876160)
 
 ### Data structures
 
@@ -156,6 +157,7 @@
 - https://github.com/judy2k/stupid-python-tricks
 - https://smarx.com/posts/2020/12/memoization-in-one-line-of-python
 - [Cursed operators](https://twitter.com/gynvael/status/1538125070987567104)
+- https://www.youtube.com/playlist?list=PLWBKAf81pmOamJfoHz4oRdieWQysmUkaW
 
 ### Reference
 
@@ -223,6 +225,7 @@
 - https://github.com/VikParuchuri/apartment-finder
 - https://github.com/juliensobrier/google-safe-browsing-lookup-python
 - [Digital Humanities in Practice: From Research Questions to Results](https://twitter.com/stephenosadetz/status/1583154402470215680)
+- [web interface that attempts to tame the overwhelming flood of papers on IACR Cryptology ePrint Archive](https://github.com/nalinbhardwaj/eprint-sanity)
 
 ### Static website 
 

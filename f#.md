@@ -21,3 +21,4 @@
 
 - https://codeopinion.com/my-fsharp-journey-learning-resources
 - https://github.com/jorgef/fsharpworkshop
+- https://samgeo.codes/blog/aoc

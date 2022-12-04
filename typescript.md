@@ -4,7 +4,7 @@
 - [Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://github.com/danvk/effective-typescript)
 - https://learning.oreilly.com/library/view/effective-typescript/9781492053736 + https://www.oreilly.com/catalog/errata.csp?isbn=0636920261544 + https://twitter.com/AdamRackis/status/1366058541925113863 + https://github.com/danvk/literate-ts
 - https://github.com/enricopolanski/functional-programming
-- https://vladris.com/blog/2019/04/28/programming-with-types.html
+- https://vladris.com/blog/2019/04/28/programming-with-types.html + https://github.com/vladris/programming-with-types
 - https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node
 
 

@@ -114,3 +114,4 @@
 - [J. Pedro Ribeiro](https://jpedroribeiro.com/tag/book-notes)
 - Guy Spier: https://www.libib.com/u/gspier, https://www.aquamarinefund.com/books
 - [Michael Lynch](https://mtlynch.io/book-reports)
+- [Johnathan Bi](https://johnathanbi.com/book-notes-summaries)

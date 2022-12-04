@@ -83,6 +83,7 @@
 - https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist
 - https://github.com/mgp/coding-in-the-real-world/blob/master/manuscript/dates-and-times.md
 - https://tech-notes.accel.dk/time
+- https://github.com/davedelong/calendar_fallacies
 
 ### TIL
 
