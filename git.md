@@ -51,6 +51,7 @@
 - https://jonsuh.com/blog/git-command-line-shortcuts
 - https://dadrian.io/blog/posts/trunk-based-development-with-git
 - https://coderscat.com/how-to-delete-a-file-permanently-in-git + https://rtyley.github.io/bfg-repo-cleaner
+- https://www.emilysamp.dev/2022/11/26/git-bisect
 
 ### TIL
 

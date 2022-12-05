@@ -88,6 +88,7 @@
 - [TypeScript paths with Node.js without any additional bundling/transformation step](https://github.com/fox1t/ts-paths-node-native)
 - https://www.placemark.io/post/good-magic-with-typescript + https://twitter.com/placemarkio/status/1454102660731265033
 - https://github.com/jdan/adventofcode/tree/main/2021/ts
+- https://github.com/ciocan/adventofcode
 
 ### Radio 
 
