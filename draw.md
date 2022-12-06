@@ -3,6 +3,7 @@
 - https://www.google.com/search?q=Andrew+Loomis+free+archive+ebooks
 - [Alla Prima II Everything I Know about Painting--And More - Richard Schmid with Katie Swatland](https://www.amazon.com/gp/product/096621174X)
 - https://www.amazon.com/Rendering-Pen-Ink-Techniques-Illustrators/dp/0823045293
+- https://www.goodreads.com/book/show/2353213.How_to_Be_an_Illustrator
 - https://inquisitivebiologist.com/2022/02/17/book-review-drawing-and-painting-dinosaurs-using-art-and-science-to-bring-the-past-to-life
 - https://noahbradley.com/10-books-every-artist-must-read
 

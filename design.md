@@ -75,6 +75,7 @@
 - https://lithub.com/the-25-most-iconic-book-covers-in-history
 - https://www.shutterstock.com/blog/graphic-design-movements-throughout-history
 - https://www.iconeye.com/design/best-graphic-designers-need-follow
+- https://www.goodreads.com/book/show/93976.The_Graphic_Language_of_Neville_Brody
 
 ### Inspire
 

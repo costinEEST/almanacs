@@ -426,7 +426,7 @@
 - https://daniel-azuma.com/blog/2021/05/04/discord-command-in-ruby-on-google-cloud-functions-part-4
 - https://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app
 - https://github.com/petertseng/adventofcode-rb-2019
-
+- https://github.com/sampritipanda/adventofcode
 
 ### Tool
 
@@ -469,7 +469,7 @@
 - https://alexbarret.com/blog/2021/pragmatic-refactoring
 - http://www.kytrinyx.com/talks/succession + https://github.com/kytrinyx/succession
 - https://www.jakeworth.com/rspec-describe-vs-describe
-- https://github.com/smarr/are-we-fast-yet
+- [Comparing Language Implementations with Objects, Closures, and Arrays](https://github.com/smarr/are-we-fast-yet)
 - https://learntdd.in/rails
 - https://nopecode.com/2021/03/03/your-flaky-system-test-again.html
 - https://github.com/daryllxd/every_ruby_talk_ever/blob/master/Sandi%20Metz%20-%20The%20Magic%20Tricks%20of%20Testing.md + https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf + https://www.youtube.com/watch?v=URSWYvyc42M

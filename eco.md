@@ -15,6 +15,7 @@
 - https://en.wikipedia.org/wiki/Theodore_Roszak_(scholar)#Scholarship
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=energy
 - https://eli.thegreenplace.net/2022/book-review-the-future-of-fusion-energy-by-j-parisi-and-j-ball
+- https://www.goodreads.com/review/list/50930981?shelf=environment-to-read
 
 ### Course
 

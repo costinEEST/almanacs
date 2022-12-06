@@ -71,6 +71,7 @@
 - [Part 1 covers V8 internals such as objects, properties, and memory optimizations](https://jhalon.github.io/chrome-browser-exploitation-1)
 - [Building Chrome V8 on Windows](https://gist.github.com/jhalon/5cbaab99dccadbf8e783921358020159)
 - [Bun? Deno? Node.js? Creating your own JavaScript Runtime using V8, Libuv and more](https://github.com/ErickWendel/myownnode)
+- https://github.com/eatonphil/one-pass-code-generation-in-v8
 
 ### Exploit
 
@@ -448,6 +449,7 @@ javascript: (() =>
 - [A tool to test and exploit STUN, TURN and TURN over TCP servers](https://github.com/firefart/stunner) + https://firefart.at/post/multiple_vulnerabilities_cisco_expressway + https://www.rtcsec.com/article/slack-webrtc-turn-compromise-and-bug-bounty
 - https://piranna.github.io/2021/04/23/How-to-build-WebRTC-for-Android-in-Ubuntu-21.04
 - https://piranna.github.io/2020/12/30/Types-of-WebRTC-networks
+- [Blender session in the browser over WebRTC](https://twitter.com/paulgb/status/1583460709538492416)
 
 ### Canvas
 

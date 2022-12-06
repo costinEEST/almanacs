@@ -89,6 +89,7 @@
 - [cat purr generator](https://purrli.com)
 - [Audiobookshelf is a self-hosted audiobook and podcast server](https://github.com/advplyr/audiobookshelf)
 - https://www.dutchosintguy.com/post/audio-osint
+- [Solving Audio Captchas using Machine Learning](https://github.com/sampritipanda/audio_captcha_solver)
 
 ### Security
 
