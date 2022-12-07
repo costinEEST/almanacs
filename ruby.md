@@ -495,6 +495,9 @@
 - https://www.stevenrbaker.com/tech/history-of-rspec.html
 - https://www.die-welt.net/2021/12/the-mocking-will-continue-until-ci-improves
 - https://leanpub.com/fastfeedbackusingruby + https://github.com/s2k/fastfeedbackusingruby_workshop
+- [Sorting pictures in folders based on the date in the EXIF metadata](https://github.com/christianbaumann/sort_photos)
+- https://github.com/christianbaumann/bdd-ruby
+- https://testautomationu.applitools.com/learningpaths.html?id=web-ui-ruby-path 
 
 ### Radio
 
