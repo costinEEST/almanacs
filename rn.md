@@ -26,6 +26,7 @@
 - [Experimenting with awesome React Native + Expo features](https://github.com/barthap/expo-mega-demo)
 - https://github.com/naraB/AppleCard + https://twitter.com/barany6m/status/1556204604509093888
 - https://github.com/raindropio/mobile
+- https://github.com/Trancever/twitterClone
 
 ### Cinema
 
@@ -185,6 +186,7 @@
 - [Keyboard manager which works in identical way on both iOS and Android](https://github.com/kirillzyusko/react-native-keyboard-controller)
 - https://github.com/stars/staltz/lists/react-native
 - https://github.com/aleixrodriala/react-native-disable-battery-optimizations
+- https://github.com/yuanfux/react-native-hsv-color-picker
 
 ### Debugging
 

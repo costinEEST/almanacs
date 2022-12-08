@@ -98,6 +98,7 @@
 - https://github.com/octallium/modern-python-101 + https://youtu.be/jH85McHenvw
 - https://mattsegal.dev/category/django.html + https://www.youtube.com/playlist?list=PLQQCZhK0_MHG2SCVMwQACRrj8YuGIJj7N
 - https://www.freecodecamp.org/news/microservices-and-software-system-design-course
+- https://www.udemy.com/course/build-a-movie-tracking-api-with-fastapi-and-python/?referralCode=47430716975684E04F85
 
 ### Compiler 
 

@@ -107,6 +107,7 @@
 - https://robertheaton.com/2018/05/07/making-youtube-less-bad-for-you-using-css
 - https://mmazzarolo.com/blog/2019-01-13-another-tab
 - https://github.com/olsh/Feedly-Notifier
+- https://github.com/emragins/chrome-azure-devops
 - [A keyboard interface to the web, inspired by Kakoune](https://github.com/alexherbo2/krabby)
 - https://github.com/acorn/twitter-bookmarks-search
 - https://github.com/Kiwka/urban-dictionary-chrome-extension
