@@ -29,6 +29,7 @@
 
 ### Docker
 
+- [master Docker and become a container expert](https://twitter.com/iximiuz/status/1601166357826981888)
 - https://github.com/scottslowe/learning-tools/tree/main/docker
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUfCf28fye4PN3EXqGMLxxy9
 - Sharing SQLite databases across containers is surprisingly brilliant: [tweet](https://twitter.com/rbranson/status/1214648084761739266?) + [article](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
@@ -90,6 +91,8 @@
 - [A Methodology for Penetration Testing Docker Systems](https://github.com/joren485/BachelorThesis)
 - https://richardwillis.info/blog/how-i-use-next-js-strapi-and-docker-to-build-my-personal-website
 - https://github.com/pratik-choudhari/docker-guide
+- [Rancher Desktop](https://iximiuz.ck.page/posts/container-tools-tips-and-tricks-issue-3)
+
 
 ### Kubernetes
 

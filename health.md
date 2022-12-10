@@ -40,6 +40,7 @@
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=neuroscience
 - https://davidson.weizmann.ac.il/en/online/reasonabledoubt/complex-link-between-depression-and-serotonin
 - [Could We Train Our Brains to See New Colors?](https://neurosciencenews.com/color-perception-21924)
+- https://www.technologyreview.com/2022/10/12/1061204/human-brain-cells-transplanted-baby-rats-brains
 
 ### Book
 
@@ -414,6 +415,7 @@
 - https://www.voxa.ro/ebooks/infectiile-de-origine-animala-si-urmatoarea-pandemie
 - https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html 
 - [Reverse engineering SARS-CoV-2](https://github.com/geohot/corona)
+- https://www.science.org/content/article/crispr-so-popular-even-viruses-may-use-it
 
 ### Radiation
 

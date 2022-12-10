@@ -8,6 +8,7 @@
 - [DEF CON Hacker Tracker](https://github.com/BeezleLabs/HackerTracker-iOS)
 - https://github.com/CodeEditApp/CodeEdit
 - [App for cataloguing and tracking your books](https://github.com/peterfriese/BookShelf)
+- [A free, open-source iOS Mastodon client](https://github.com/metabolist/metatext)
 
 ### Algorithm
 

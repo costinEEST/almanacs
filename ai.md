@@ -145,6 +145,11 @@
 ### ChatGPT
 
 - https://www.engraved.blog/building-a-virtual-machine-inside + https://twitter.com/317070/status/1599152176344928256
+- [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
+- https://codewithandrea.com/articles/dart-flutter-chatgpt
+- https://slate.com/technology/2022/12/chatgpt-openai-artificial-intelligence-chatbot-whoa.html
+- https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot
+- https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language
 
 ### Tool
 
