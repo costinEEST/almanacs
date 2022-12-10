@@ -42,6 +42,7 @@
 ### Object injection
 
 - [Intro to PHP Deserialization / Object Injection](https://youtu.be/HaW15aMzBUM)
+- https://karmainsecurity.com/exploiting-an-nday-vbulletin-php-object-injection
 
 ### Package
 

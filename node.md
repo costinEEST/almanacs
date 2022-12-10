@@ -376,7 +376,9 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Proposal for future Node.js streaming data APIs: "Bytes over Buffers"](https://fishrock123.github.io/nodejs-collab-summit-montreal-2019) + https://github.com/Fishrock123/bob
 - https://tchayen.com/ttf-file-parsing
 
-### Crypto `node:crypto`
+### `node:crypto`
+
+- https://github.com/paulmillr/noble-secp256k1
 
 ### `node:dns`
 
@@ -621,6 +623,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://security.snyk.io/vuln/SNYK-JS-NODEIPC-2426370
 - https://snyk.io/blog/reverse-shell-attack
 - https://github.com/aadityapurani/NodeJS-Red-Team-Cheat-Sheet
+- [LavaMoat is a set of tools for securing JavaScript projects against a category of attacks called software supply chain attacks](https://github.com/LavaMoat/LavaMoat)
 
 ### CMS
 

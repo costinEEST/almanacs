@@ -18,7 +18,7 @@
 - https://perfectsleep.labr.io
 - [DEF CON Hacker Tracker](https://github.com/shortstack/HackerTracker)
 - [Easy to use OpenStreetMap editor for Android](https://github.com/streetcomplete/StreetComplete)
-
+- [View your remaining balance, recent trips, and other information from contactless public transit cards using your NFC Android phone](https://github.com/codebutler/farebot)
 
 ### Book
 
@@ -129,6 +129,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - https://github.com/PixelExperience/packages_resources_devicesettings
 - https://blog.esper.io/distribute-apps-without-google-play
 - https://sal.dev/android/android-live-wallpaper
+- https://dominikberner.ch/cmake-android-apk-and-qt
 
 ### Opinion
 

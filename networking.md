@@ -362,6 +362,7 @@
 - https://digitalinvestigator.blogspot.com/2022/11/techniques-in-email-forensic-analysis.html
 - https://github.com/PhishyAlice/awesome-phishing
 
+
 ### WebSockets
 
 - ![alt text](https://miro.medium.com/max/2503/1*xG6z--Cc_556TAfhVD17tQ.png "Comparison of WebSockets, Server-Sent Events and Long polling")

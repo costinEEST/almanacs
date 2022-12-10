@@ -142,6 +142,10 @@
 - [David Valdman](https://twitter.com/dmvaldman)
 
 
+### ChatGPT
+
+- https://www.engraved.blog/building-a-virtual-machine-inside + https://twitter.com/317070/status/1599152176344928256
+
 ### Tool
 
 - [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)

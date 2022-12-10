@@ -94,6 +94,7 @@
 - [Traffic lights of the future](https://www.artlebedev.com/svetoforus/4)
 - [Inspiration | Chet Corcos](https://www.notion.so/Inspiration-2194b2020e7142eeb2a4df2f308dfa7b)
 - https://github.com/securingdev/awesome-stickers
+- https://github.com/syxanash/awesome-web-desktops
 
 ### User experience
 
