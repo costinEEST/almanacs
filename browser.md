@@ -242,6 +242,8 @@
 - [Automatically fill out cookie popups based on your preferences](https://github.com/cavi-au/Consent-O-Matic)
 - [Search the textual content of any YouTube video](https://github.com/masasron/Video-Search-For-YouTube)
 - [Chrome extension to detect possible xsleaks](https://github.com/1lastBr3ath/XSleaks)
+- https://addons.mozilla.org/en-US/firefox/addon/firefox-translations + https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot
+- [A browser extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) + https://news.ycombinator.com/item?id=33853773
 
 ### Bookmarklet
 

@@ -23,6 +23,7 @@
 - [The Theory of Relational Databases | David Maier](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 - http://graysoftinc.com/book-reviews/the-definitive-guide-to-sqlite
 - [Seven Databases in Seven Weeks | Luc Perkins, Eric Redmond, and Jim Wilson](https://7dbs.io)
+- https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1
 
 ### Course
 
@@ -157,6 +158,7 @@
 - https://dev.to/lefebvre/sqlite-is-not-a-server-56il
 - [SQLite implementation over Wasm will replace Web SQL](https://twitter.com/ChromiumDev/status/1565105522092695553)
 - [Stranger Strings](https://twitter.com/trailofbits/status/1584870065698136064)
+- [Using SQLite as a data source: a framework and an example](https://news.ycombinator.com/item?id=33853509)
 
 ### Graph databases
 

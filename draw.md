@@ -6,6 +6,7 @@
 - https://www.goodreads.com/book/show/2353213.How_to_Be_an_Illustrator
 - https://inquisitivebiologist.com/2022/02/17/book-review-drawing-and-painting-dinosaurs-using-art-and-science-to-bring-the-past-to-life
 - https://noahbradley.com/10-books-every-artist-must-read
+- https://www.goodreads.com/book/show/39812877-make-your-own-pixel-art
 
 ### Course
 

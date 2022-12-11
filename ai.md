@@ -144,12 +144,15 @@
 
 ### ChatGPT
 
-- https://www.engraved.blog/building-a-virtual-machine-inside + https://twitter.com/317070/status/1599152176344928256
+- [Building a Virtual Machine Inside ChatGPT](https://news.ycombinator.com/item?id=33847479) + https://twitter.com/317070/status/1599152176344928256
 - [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 - https://codewithandrea.com/articles/dart-flutter-chatgpt
 - https://slate.com/technology/2022/12/chatgpt-openai-artificial-intelligence-chatbot-whoa.html
-- https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot
+- https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot + https://news.ycombinator.com/item?id=33872369
 - https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language
+- https://mailchi.mp/hackernewsletter/630?e=cb2457a414
+- https://danielmiessler.com/blog/ideas-changes-expect-post-chatgpt
+- https://tldrsec.com/blog/tldr-sec-161/#chatgpt
 
 ### Tool
 

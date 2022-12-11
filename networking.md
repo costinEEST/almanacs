@@ -412,7 +412,7 @@
 - [Easily and securely send files and folders from one computer to another. End-to-end encryption using PAKE, cross-platform (Windows, Linux, Mac), allows resuming interrupted transfers, and more](https://github.com/schollz/croc)
 - https://ingrids.space/posts/why-distributed-systems-dont-work
 
-### IFPS
+### InterPlanetary File System (IFPS)
 
 - https://github.com/ipfs-shipyard/ipfs-primer + https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content + https://legacy.gitbook.com/book/flyingzumwalt/ipfs-primer/details
 - https://www.scriptjunkie.us/2020/01/dispelling-decentralization-doubts + https://twitter.com/scriptjunkie1/status/1218213716648497152
@@ -421,6 +421,7 @@
 - [How IPFS is broken](https://fiatjaf.com/d5031e5b.html)
 - https://medium.com/encode-club/encode-filecoin-club-building-with-ipfs-video-slides-37f756123e45 + https://twitter.com/IPFS/status/1483811783684984832
 - https://spectrum.ieee.org/peer-to-peer-network
+- https://savjee.be/videos/simply-explained/ipfs-interplanetary-filesystem
 
 ### Internet Service Provider (ISP)
 

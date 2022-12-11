@@ -145,6 +145,7 @@
 - [What are the best podcasts on management & leadership?](https://twitter.com/michelletandler/status/1489348838754172931)
 - https://www.subbu.org/articles/2021/2021-in-reading
 - https://guzey.com/autistic-leaders
+- [The best leaders are great individual contributors, not professional managers](https://news.ycombinator.com/item?id=33843160)
 
 ### Strategy
 
@@ -172,6 +173,7 @@
 - https://worldsmostethicalcompanies.com/honorees/?fwp_industry=technology
 - [The Seven Steps for Highly Effective Employee Training & Coaching](https://youtu.be/rI9oMAVa-Es)
 - https://vivqu.com/blog/2020/02/16/compensation
+- https://subpixel.space/entries/life-after-lifestyle
 
 ### Startups
 
@@ -240,6 +242,7 @@
 - https://www.udemy.com/course/economics-basics-to-advanced-level
 - https://markmcgranaghan.com/interests
 - [A list of microgrant programs for your good ideas](https://github.com/nayafia/microgrants)
+- [CS 007: Personal Finance for Engineers](https://news.ycombinator.com/item?id=33890925)
 
 ### Geopolitics
 

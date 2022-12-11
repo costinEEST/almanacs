@@ -1,14 +1,10 @@
 
-### Boilerplate
+### Alternative 
 
-- https://github.com/nonoesp/electron-quick-start
-- https://medium.com/@jonathanberi/a-no-nonsense-guide-to-webpack-electron-webassembly-part-2-e5d262d0dc41
-- https://www.infoq.com/articles/firebase-electron-native-app + https://github.com/david-asher/electron-firebase + https://twitter.com/InfoQ/status/1346804146519859202
-- https://github.com/fuzzc0re/electron-svelte-typescript
-- [pass messages between ipcMain and ipcRenderer](https://github.com/olingern/electron-ipc-ping-pong)
-- https://github.com/reZach/secure-electron-template
+- https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt
 
-### Inspire
+
+### Application
 
 - https://github.com/hokein/electron-sample-apps
 - https://github.com/chrisknepper/android-messages-desktop
@@ -31,6 +27,17 @@
 - https://github.com/mattermost/desktop
 - [A WIP IRC client](https://github.com/evanlucas/eyearesee)
 - [Refined Evernote desktop app](https://github.com/klaussinani/tusk)
+- [A Desktop App for YouTube Music](https://github.com/ytmdesktop/ytmdesktop)
+
+
+### Boilerplate
+
+- https://github.com/nonoesp/electron-quick-start
+- https://medium.com/@jonathanberi/a-no-nonsense-guide-to-webpack-electron-webassembly-part-2-e5d262d0dc41
+- https://www.infoq.com/articles/firebase-electron-native-app + https://github.com/david-asher/electron-firebase + https://twitter.com/InfoQ/status/1346804146519859202
+- https://github.com/fuzzc0re/electron-svelte-typescript
+- [pass messages between ipcMain and ipcRenderer](https://github.com/olingern/electron-ipc-ping-pong)
+- https://github.com/reZach/secure-electron-template
 
 
 ### Opinion

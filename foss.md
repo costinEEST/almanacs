@@ -24,6 +24,7 @@
 - https://github.com/NullHypothesis/internet-freedom-jobs
 - https://github.com/italia-opensource/awesome-italia-opensource
 - https://indieweb.org/site-deaths
+- [Sumana Harihareswara](https://www.harihareswara.net/texts/talks)
 
 ### Tool
 

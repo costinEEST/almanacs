@@ -25,6 +25,7 @@
 - https://www.voxa.ro/autori/adrian-leonard-mociulschi
 - https://www.edmprod.com/music-theory
 - https://www.observatorcultural.ro/articol/carturesti-va-recomanda-7
+- https://www.goodreads.com/book/show/6035144-basic-music-theory
 
 
 ### Cheat sheet

@@ -319,6 +319,7 @@
 - https://blackwells.co.uk/bookshop/product/Lonely-Planets-Global-Coffee-Tour-by-Mike-Higgins-editor-Nick-Mee-editor-Yolanda-Zappaterra-editor/9781787013599
 - https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up
 - https://www.amazon.com/World-Atlas-Coffee-explored-explained-ebook/dp/B07CRY44ZH + https://tastecooking.com/meet-the-ceo-of-coffee-youtube + https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ/playlists
+- https://www.arcana.computer/blog/non-fungible-lattes
 
 ### Sugar
 

@@ -42,6 +42,7 @@
 - https://www.focusfeatures.com/roadrunner
 - https://www.rollingstone.com/culture/culture-features/anthony-bourdain-jiujitsu-secret-reddit-posts-1268801
 - https://www.youtube.com/playlist?list=PLpz7cLJ1_TwSLBsCZiO1b_O4YnlHAJiB2
+- [writing about a bread maker](https://news.ycombinator.com/item?id=29077398)
 
 #### Alan Turing
 

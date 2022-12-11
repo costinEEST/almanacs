@@ -28,6 +28,8 @@
 - https://www.amazon.com/Open-Circuits-Beauty-Electronic-Components-ebook-dp-B09WJWGB34/dp/B09WJWGB34 + https://nostarch.com/open-circuits
 - https://github.com/ahr9n/awesome-reading/tree/main/learn-verilog
 - https://passo.uno/why-collect-read-old-computer-manuals
+- https://www.goodreads.com/review/list/83926681?shelf=hardware
+- [Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
 
 ### Cinema
 

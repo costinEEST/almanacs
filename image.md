@@ -15,6 +15,7 @@
 ### Book 
 
 - [Physically Based Rendering: From Theory To Implementation | Matt Pharr, Wenzel Jakob, and Greg Humphreys](https://github.com/mmp/pbr-book-website)
+- https://www.goodreads.com/book/show/37499024-understanding-photography
 
 ### Community
 
