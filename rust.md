@@ -135,6 +135,7 @@
 - https://github.com/LearningOS/rust-based-os-comp2022
 - https://jondot.medium.com/8-steps-for-troubleshooting-your-rust-build-times-2ffc965fd13e
 - https://github.com/ferrous-systems/elements-of-rust
+- [Deploy Rust apps with a single Cargo command](https://github.com/shuttle-hq/shuttle)
 
 ### Testing 
 

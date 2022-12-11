@@ -179,6 +179,8 @@
 - [The missing shorthand for logical properties](https://adactio.com/journal/19457)
 - https://www.miriamsuzanne.com/2022/07/04/body-margin-8px
 - https://patrickbrosset.com/articles/2022-10-24-do-you-really-understand-CSS-radial-gradients
+- https://www.otsukare.info/2022/10/25/css-values-definitions
+- https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css
 
 ### Selector
 

@@ -151,6 +151,7 @@
 - https://www.amazon.com/Fever-Trail-Search-Cure-Malaria/dp/0374154694
 - https://www.amazon.com/Quinine-Malaria-Quest-Changed-World/dp/B000C4SL96
 - [A Solution to Alzheimer's and Aging? Rapamycin and it's potential](https://mykigai.substack.com/p/a-solution-to-alzheimers-and-aging)
+- https://inquisitivebiologist.com/2022/12/05/book-review-the-world-the-plague-made-the-black-death-and-the-rise-of-europe
 
 ### Drug 
 

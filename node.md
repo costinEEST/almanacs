@@ -508,6 +508,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [A CLI to create code sandboxes with automatic HTTPS in your cloud provider account](https://github.com/eleven-sh/cli)
 - [Directory serve is a CLI library for sending and receiving a file from your android and IOS devices](https://github.com/cube-root/directory-serve)
 - https://github.com/xpcrts/Steaming-IP-Camera-Nodejs
+- https://geshan.com.np/blog/2022/11/nodejs-xml-parser
 
 ### Testing
 

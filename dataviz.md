@@ -118,6 +118,7 @@
 - https://thebackend.dev/building-monarchs + https://www.youtube.com/watch?v=1VVHZnZEWGE + https://github.com/mzemel/monarchs + https://www.data-is-plural.com/archive/2019-06-19-edition + https://www.data-is-plural.com/archive/2022-06-15-edition
 - [Create a 3D city from your GitHub contributions](https://github.com/honzaap/GitHubCity)
 - [Learn Stuff Visually](https://github.com/plusjade/nilclass.com)
+- https://www.weforum.org/videos/this-3d-map-is-showing-us-the-world-in-a-new-way
 
 ### Miscellaneous
 

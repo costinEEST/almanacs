@@ -2,6 +2,7 @@
 
 - https://www.amazon.com/Star-Wars-Rings-Hidden-Structure-ebook/dp/B074NZCFWT
 - https://www.goodreads.com/book/show/8065938-101-things-i-learned-in-film-school
+- http://thingsifinished.blogspot.com/2022/12/four-arguments-for-elimination-of.html
 
 ### Community
 

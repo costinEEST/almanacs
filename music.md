@@ -151,6 +151,7 @@
 - [Russians | Richard E. Cytowic](https://www.youtube.com/playlist?list=PLzpbJH8qD9IgDlM6-uErZpt7P5bAx9JHE)
 - https://blog.andyet.com/2014/02/26/Pete-Seeger-lessons-learned-from-a-hard-link-to-the-old-world
 - https://tedium.co/2022/11/09/the-death-of-the-key-change
+- https://pitchfork.com/features/lists-and-guides/best-albums-2022
 
 ### Violin 
 

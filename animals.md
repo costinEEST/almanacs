@@ -20,6 +20,7 @@
 - [Whats the best bird app?](https://twitter.com/nwilliams030/status/1566791362414092288)
 - https://github.com/lpoaura/BirdAtlasOfFrance
 - https://knowablemagazine.org/article/food-environment/2022/city-birds-are-changing-their-tune
+- https://stiinta-pentru-toti.blogspot.com/2022/12/aparitie-editoriala-atlasul-speciilor.html
 
 ### Crawler
 
@@ -49,6 +50,7 @@
 ### Mammalian
 
 - https://www.scientificamerican.com/article/lost-genes-explain-vampire-bats-diet-of-blood
+- https://showme.missouri.edu/2022/feline-genetics-help-pinpoint-first-ever-domestication-of-cats-mu-study-finds
 
 ### Picture
 
