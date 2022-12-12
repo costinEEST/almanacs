@@ -40,6 +40,7 @@
 - https://github.blog/2022-10-06-js13k-2022-winners
 - https://nanochess.org/chess4.html
 - https://theconversation.com/an-ai-named-cicero-can-beat-humans-in-diplomacy-a-complex-alliance-building-game-heres-why-thats-a-big-deal-195208 
+- [Port of the 550 point adventure game to the web](https://github.com/mmastrac/adventure)
 
 ### Mobile based
 

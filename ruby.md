@@ -307,6 +307,7 @@
 - [Find dead-links (broken links)](https://github.com/hahwul/deadfinder)
 - https://github.com/stars/davidteren/lists/spec-examples
 - https://github.com/stars/davidteren/lists/cool-ruby-gems
+- [A High Performance HTTP Server for Ruby](https://github.com/ohler55/agoo)
 
 ### Inspire
 

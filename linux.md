@@ -14,6 +14,7 @@
 - https://twitter.com/AlSweigart/status/1524772876490006533
 - [The Linux Programming Interface](https://twitter.com/littledan/status/1550352392356372480)
 - [The Linux Memory Manager](https://ljs.io/book.html)
+- https://thevalleyofcode.com/linux
 
 ### Cinema
 
@@ -90,6 +91,7 @@
 - http://redsymbol.net/linux-kernel-boot-parameters
 - [Attempt to run Linux in a GPU shader](https://github.com/mildsunrise/cursed_gpu_linux)
 - [hook to the NetFilters and manipulates the packets going via the network interfaces](https://github.com/eliranmaman/Basic-FireWall)
+- [The System Call Advent Calendar](https://osg.tuhh.de/Advent)
 
 ### NixOS 
 
@@ -113,6 +115,7 @@
 - [Insight Is Gone From Ubuntu](https://www.contrapositivediary.com/?p=1396) + https://hackaday.com/2022/06/14/linux-fu-up-your-gdb-game
 - [deps llvm, cmake, llvm-config](https://github.com/triniwiz/linux-runtime)
 - [create multiple hidden volumes on a storage device in such a way that it is very difficult, even under forensic inspection](https://shufflecake.net)
+- https://devforum.ro/t/programe-si-utilitare-linux-care-fac-viata-mai-buna/16276/27
 
 ### Cheat sheet
 

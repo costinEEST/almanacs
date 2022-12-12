@@ -91,6 +91,7 @@
 - https://www.dutchosintguy.com/post/audio-osint
 - [Solving Audio Captchas using Machine Learning](https://github.com/sampritipanda/audio_captcha_solver)
 - https://nuculabs.dev/2022/12/08/separate-audio-and-video
+- https://rolisz.ro/2022/11/23/transcribing-podcasts-with-whisper
 
 ### Security
 

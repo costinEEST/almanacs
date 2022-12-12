@@ -103,3 +103,4 @@
 - https://www.theguardian.com/news/2018/sep/18/a-giant-crawling-brain-the-jaw-dropping-world-of-termites
 - https://jezebel.com/tender-animal-sex-1848502315
 - https://www.fodors.com/news/photos/best-national-parks-in-the-world-for-seeing-animals
+- https://www.allaboutbirds.org/news/the-cornell-lab-review-affordable-full-size-8x42-binoculars

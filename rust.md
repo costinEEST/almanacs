@@ -70,6 +70,7 @@
 - https://www.youtube.com/playlist?list=PLBhH0uX92r6qiqNSE_ztk6HjKsMnS2TJU
 - [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course)
 - https://www.harihareswara.net/posts/2022/an-intro-to-rust-course
+- https://devforum.ro/t/cursuri-de-rust/18363
 
 ### Compiler
 
