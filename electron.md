@@ -38,6 +38,7 @@
 - https://github.com/fuzzc0re/electron-svelte-typescript
 - [pass messages between ipcMain and ipcRenderer](https://github.com/olingern/electron-ipc-ping-pong)
 - https://github.com/reZach/secure-electron-template
+- https://github.com/maxogden/menubar + https://github.com/wesbos/pommade
 
 
 ### Opinion
