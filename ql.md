@@ -2,6 +2,10 @@
 
 - https://github.com/stars/pwntester/lists/codeql
 
+### Java 
+
+- https://github.com/github/codeql-dubbo-workshop
+
 ### PHP 
 
 - https://r2c.dev/blog/2022/announcing-php-ga-support
@@ -9,6 +13,7 @@
 ### Python 
 
 - https://jorgectf.github.io/blog/post/practical-codeql-introduction + https://github.com/jorgectf/PracticalCodeQLIntroduction-repo
+- https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html
 
 ### JavaScript
 

@@ -24,6 +24,7 @@
 - https://www.vector-logic.com/blog/posts/on-request-animation-frame-and-embedded-iframes
 - [Detecting pitch with the Web Audio API and autocorrelation](https://alexanderell.is/posts/tuner)
 - https://wolfgangrittner.dev/how-to-use-clipboard-api-in-firefox
+- https://github.com/azu/url-cheatsheet
 
 
 ### new IntersectionObserver()
@@ -567,6 +568,7 @@ javascript: (() =>
 - https://github.com/styfle/breaking-changes-web
 - [QR codes art](https://research.swtch.com/qart)
 - https://github.com/dongri/emv-qrcode-doc
+- https://github.com/azu/browser-resources
 
 ### Tool
 

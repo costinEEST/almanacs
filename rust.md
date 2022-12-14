@@ -28,7 +28,6 @@
 - https://github.com/sger/RustBooks
 - https://github.com/lborb/book
 - https://github.com/Dhghomon/easy_rust + https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
-- https://github.com/staszewski/rustlings-solutions
 - https://github.com/LukeMathWalker/zero-to-production
 - [Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers](https://github.com/google/autocxx)
 - [Performance Analysis and Tuning on Modern CPUs](https://github.com/grahamking/perf-ninja-rs)
@@ -87,7 +86,7 @@
 - https://github.com/ctjhoa/rust-learning
 - https://twitter.com/jgvarandas/status/1228712766636204032
 - https://deterministic.space/high-performance-rust.html
-- https://github.com/rust-lang/rustlings + [Rust For Beginners - Watch me code the Rustlings Tutorial](https://www.youtube.com/playlist?list=PLauX9TuJ8sfyaLPZ1udS3zS_V9YXdsbtc)
+- https://github.com/rust-lang/rustlings + https://github.com/staszewski/rustlings-solutions + [Rust For Beginners - Watch me code the Rustlings Tutorial](https://www.youtube.com/playlist?list=PLauX9TuJ8sfyaLPZ1udS3zS_V9YXdsbtc) + https://youtu.be/G3Vr-yswlaU
 - [Mal (Make a Lisp) in Rust](https://github.com/seven1m/mal-rust)
 - https://loige.co/learning-rust-through-open-source-and-live-code-reviews
 - https://github.com/lrlna/sketchin#zines
@@ -112,6 +111,7 @@
 - [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
 - https://learnrust.today + https://www.youtube.com/watch?v=B5xYBrxVSiE&list=PL7FkKqUcfw1AoNvuQAvld2Q47gaDKHBRW
 - https://youtu.be/bPcTIJejnFs + https://github.com/dani-garcia/vaultwarden
+- [Advent of Code 2022](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBNTifxm5ADY65SkAdwoQiL)
 
 
 ### Practice

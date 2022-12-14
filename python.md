@@ -326,6 +326,7 @@ https://github.com/timhutton/twitter-archive-parser
 - [Recreating grep](https://kevingal.com/blog/cli-tools.html)
 - [when using Jupyter notebooks](https://twitter.com/nelhage/status/1563318458187583490)
 - [Parse Network Info Databases (ARIN/APNIC/LACNIC/AfriNIC/RIPE)](https://github.com/firefart/network_info)
+- [Open-source Dropbox client for macOS and Linux](https://github.com/samschott/maestral)
 
 ### Testing
 

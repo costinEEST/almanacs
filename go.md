@@ -123,6 +123,7 @@
 - [Visualize Go Dependency Trees](https://github.com/KyleBanks/depth)
 - [A plain-text file format and command line tool for time tracking](https://github.com/jotaen/klog) + https://news.ycombinator.com/item?id=25995838
 - [Check for dependency confusion vulnerabilities in multiple package management systems](https://github.com/visma-prodsec/confused) + https://twitter.com/joohoi/status/1359467575441301504
+- https://threedots.tech/post/list-of-recommended-libraries
 - [Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana](https://github.com/mattermost/focalboard)
 - [Make JSON greppable!](https://github.com/tomnomnom/gron)
 - [Share your terminal as a web application](https://github.com/yudai/gotty)
@@ -146,6 +147,8 @@
 - https://github.com/cybercase/google-forms-html-exporter
 - [LSB steganography, capable of hiding any file within an image](https://github.com/DimitarPetrov/stegify)
 - [concurrent client-server for transferring files from the host to several clients](https://github.com/dnutiu/simplFT)
+- [High performance, self-hosted, newsletter and mailing list manager with a modern dashboard](https://github.com/knadh/listmonk)
+- [Fast and lightweight Web Application Firewall Fingerprinting tool](https://github.com/Lu1sDV/wafme0w)
 
 ### Radio
 

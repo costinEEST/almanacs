@@ -92,6 +92,7 @@
 - [Adrian Șonka](https://sonkab.com/despre-2-2)
 - [Diana Besliu-Ionescu](https://www.diana-ionescu.ro/en/contact)
 - https://www.themarginalian.org/2021/01/24/the-boy-whose-head-was-filled-with-stars-edwin-hubble
+- https://www.worldspaceweek.org/media/downloads
 
 ### Constellation
 
@@ -111,6 +112,11 @@
 - https://www.astrobetter.com/wiki/tiki-index.php?page=Astro+101+Resources
 - https://github.com/howardisaacson/Intro-to-Astro2022
 - [Michael Zingale](https://zingale.github.io/classes.html) + https://github.com/zingale/astro_animations
+
+### Historic 
+
+- https://www.esa.int/Science_Exploration/Space_Science/3_December
+- https://stiinta-pentru-toti.blogspot.com/2022/06/astronomia.html
 
 ### Moon 
 

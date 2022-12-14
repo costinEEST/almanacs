@@ -61,6 +61,7 @@
 - https://blog.spencerwoo.com/2021/02/nextjs-blog-notion
 - https://github.com/jamesqquick/React-and-Serverless-Fullstack-Web-Development
 - https://github.com/gmpetrov/ultimate-saas-ts
+- [Template for startups, marketing websites & landing pages built with Astro, TailwindCSS & Alpine.js](https://github.com/surjithctly/astroship)
 
 ### Book
 
@@ -435,6 +436,7 @@
 - [The open-source Shopify alternative](https://github.com/medusajs/medusa)
 - https://github.com/pgaspar/covid-square
 - [Download IPAs from Apple App Store](https://github.com/nderkach/ipa-downloader)
+- [RSS reader client like LDR for Inoreader](https://github.com/azu/irodr)
 
 ### Testing
 

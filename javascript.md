@@ -104,6 +104,7 @@
 - [Accelerating JavaScript (in the browser)](https://hyphaebeast.club/writing/accelerating-js)
 - https://www.chandlerprall.com/post/request-animation-frame-is-not-your-logics-friend
 - https://felixgerschau.com/javascript-memory-management
+- https://marvinh.dev/blog/speeding-up-javascript-ecosystem
 
 ### Data structures
 
@@ -496,6 +497,10 @@
 - https://github.com/mgp/book-notes/blob/master/advanced-dom-scripting.markdown
 - https://frontendmasters.com/blog/vanilla-javascript-todomvc
 - [A simple method to invoke a function after the browser has rendered & painted a frame](https://github.com/andrewiggins/afterframe)
+
+### Practice 
+
+- [Virtual Piano](https://hyperskill.org/projects/101)
 
 ### Single-page application
 
