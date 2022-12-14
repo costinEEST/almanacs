@@ -181,6 +181,7 @@
 - https://patrickbrosset.com/articles/2022-10-24-do-you-really-understand-CSS-radial-gradients
 - https://www.otsukare.info/2022/10/25/css-values-definitions
 - https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css
+- [clip-path](https://www.sarasoueidan.com/blog/css-svg-clipping)
 
 ### Selector
 
@@ -291,6 +292,7 @@
 - [Alfred 4 Workflow to find the perfect color in the Tailwind Color Palette](https://github.com/MatthysDev/alfred-tailwind-colors)
 - https://github.com/scastiel/3d-book-image-css-generator
 - [Generate clothoid rounded corners by CSS clip-path](https://onotakehiko.dev/clothoid)
+- 
 
 ### Security
 
