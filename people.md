@@ -336,6 +336,11 @@
 - https://blog.patternsinthevoid.net/famous-physicists-on-mysticism-2-the-debate-between-plato-and-democritus-by-werner-heisenberg.html
 
 
+### Niels Henrik David Bohr
+
+- https://youtu.be/qwEheAf3k60
+
+
 ### Miscellaneous
 
 - [Steve Jobs meeting Donald Knuth](https://www.folklore.org/StoryView.py?story=Close_Encounters_of_the_Steve_Kind.txt)

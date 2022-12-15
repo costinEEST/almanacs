@@ -27,6 +27,33 @@
 - https://github.com/azu/url-cheatsheet
 
 
+### Bookmarklet
+
+- Open in Gmail
+
+```javascript
+javascript: (() =>
+  (window.location.href = `https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yourGmailAddress@gmail.com&su=${document.title}&body=${window.location.href}`))()
+```
+
+- [Speed Controls.](https://codepen.io/wilman/pen/ZWdEPX)
+- [Find out which element is scrolling.](https://gist.github.com/brumm/74fd7eaafd50c8477519)
+- [Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.](https://github.com/micmro/performance-bookmarklet)
+- https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii
+- https://alan.norbauer.com/articles/bookcision
+- https://emanuelduss.ch/2020/06/humble-book-bundle-download-bookmarklet
+- [world smallest office suite](https://zserge.com/posts/awfice)
+- [Bookmarklets for sending emails and adding todo items](https://sashko.dev/bookmarklets)
+- https://www.farai.xyz/notes/tech-tips/please-archive-content
+- https://github.com/ThomasOrlita/awesome-bookmarklets
+- [Script Kit. Automate Anything](https://github.com/johnlindquist/kit)
+- https://ryangjchandler.co.uk/posts/bookmarklets-you-should-definitely-be-using
+- [Read premium articles for free](https://github.com/sugoidesune/readium)
+- https://knowler.dev/blog/open-in-codesandbox-bookmarklet
+- https://github.com/t-mart/kill-sticky
+- [Linter for Responsive Images](https://github.com/ausi/RespImageLint)
+- https://jojo.io/posts/bookmarklets-speed
+
 ### new IntersectionObserver()
 
 - [Using the Intersection Observer web API to improve performance.](https://www.growingwiththeweb.com/2018/01/intersection-observer.html)
@@ -246,31 +273,6 @@
 - https://addons.mozilla.org/en-US/firefox/addon/firefox-translations + https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot
 - [A browser extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) + https://news.ycombinator.com/item?id=33853773
 
-### Bookmarklet
-
-- Open in Gmail
-
-```javascript
-javascript: (() =>
-  (window.location.href = `https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yourGmailAddress@gmail.com&su=${document.title}&body=${window.location.href}`))()
-```
-
-- [Speed Controls.](https://codepen.io/wilman/pen/ZWdEPX)
-- [Find out which element is scrolling.](https://gist.github.com/brumm/74fd7eaafd50c8477519)
-- [Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.](https://github.com/micmro/performance-bookmarklet)
-- https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii
-- https://alan.norbauer.com/articles/bookcision
-- https://emanuelduss.ch/2020/06/humble-book-bundle-download-bookmarklet
-- [world smallest office suite](https://zserge.com/posts/awfice)
-- [Bookmarklets for sending emails and adding todo items](https://sashko.dev/bookmarklets)
-- https://www.farai.xyz/notes/tech-tips/please-archive-content
-- https://github.com/ThomasOrlita/awesome-bookmarklets
-- [Script Kit. Automate Anything](https://github.com/johnlindquist/kit)
-- https://ryangjchandler.co.uk/posts/bookmarklets-you-should-definitely-be-using
-- [Read premium articles for free](https://github.com/sugoidesune/readium)
-- https://knowler.dev/blog/open-in-codesandbox-bookmarklet
-- https://github.com/t-mart/kill-sticky
-- [Linter for Responsive Images](https://github.com/ausi/RespImageLint)
 
 ### Chrome
 

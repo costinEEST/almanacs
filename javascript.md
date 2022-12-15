@@ -462,6 +462,7 @@
 - [Build a habit of using search() or match() functions of String, when working with global regexes, instead of relying on test()](https://blog.rebased.pl/2021/03/16/a-regular-expression-surprise-in-javascript.html)
 - https://github.com/jawj/web-scraping-for-researchers
 - https://twitter.com/SonarSource/status/1469321227248582659 + https://twitter.com/garethheyes/status/1469011117133418500
+- [A regular expression that matches the Full Emoji List](https://github.com/sweaver2112/Regex-combined-emojis)
 
 ### Document Object Model (DOM)
 

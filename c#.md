@@ -23,6 +23,7 @@
 
 - https://devtut.github.io/csharp
 - https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+- https://github.com/nemanjarogic/DesignPatternsLibrary
 
 ### Community
 

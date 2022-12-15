@@ -89,6 +89,7 @@
 - https://www.placemark.io/post/good-magic-with-typescript + https://twitter.com/placemarkio/status/1454102660731265033
 - https://github.com/jdan/adventofcode/tree/main/2021/ts
 - https://github.com/ciocan/adventofcode
+- https://github.com/otobot1/Advent-of-Code-2022
 
 ### Radio 
 

@@ -266,6 +266,7 @@
 - [Does anyone know if V8 exposes metrics around it's microtask queue?](https://twitter.com/wesleytodd/status/1557861163760701440)
 - [Misusing the Node.js Inspector Mechanism to Run Arbitrary Code](https://github.com/evilsocket/jscythe)
 - https://newrelic.com/blog/best-practices/nodejs-application-monitoring
+- https://github.com/skirianov/console-m + https://twitter.com/KajetanSw/status/1595717645642473473
 
 ### Error
 
