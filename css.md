@@ -26,6 +26,8 @@
 - https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b
 - https://github.com/RodrigoTomeES/prefers-color-scheme-hack
 - https://www.tpgi.com/the-anatomy-of-visually-hidden
+- [Collapsible list](https://iamkate.com/code/tree-views)
+- https://www.tpgi.com/the-anatomy-of-visually-hidden
 
 ### Book
 
@@ -232,6 +234,7 @@
 - https://github.com/PrathamKumar14/CSS-Layout-Notes
 - https://vgpena.github.io/using-css-grid-the-right-way
 - [Extending elements beyond the content area with CSS Grid & named grid lines](https://ryanmulligan.dev/blog/layout-breakouts)
+- https://utopia.fyi/blog/designing-a-utopian-layout-grid + https://utopia.fyi/grid/calculator
 
 ### FlexBox
 

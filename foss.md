@@ -6,6 +6,7 @@
 - https://www.amazon.com/Success-Open-Source-Steven-Weber/dp/0674018583
 - https://github.com/eddiejaoude/book-open-source-tips
 - http://gustavbertram.com/learning/free_culture
+- [Live Coding: A User's Manual](https://livecodingbook.toplap.org)
 
 ### Cinema
 

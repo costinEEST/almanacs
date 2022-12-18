@@ -1,3 +1,7 @@
+### Algorithm
+
+- [Go Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/goDataStructures)
+
 ### API 
 
 - https://github.com/bxcodec/go-clean-arch

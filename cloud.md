@@ -80,6 +80,7 @@
 - https://oceanleaf.ch/m365-license-guide
 - https://vladris.com/blog/2021/09/24/machine-learning-on-azure-part-3.html
 - https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
+- https://github.com/CyberSecurityUP/Cloud-Security-Attacks
 
 ### Cloudflare
 

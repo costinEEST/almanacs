@@ -97,6 +97,7 @@
 - https://github.com/williamfiset/Algorithms#geometry
 - https://github.com/anthonynsimon/java-ds-algorithms
 - https://github.com/kdn251/interviews
+- [Java Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/javaDataStructures)
 
 
 ### Development

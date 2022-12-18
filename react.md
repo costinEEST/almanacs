@@ -299,6 +299,7 @@
 - https://tkdodo.eu/blog/offline-react-query
 - https://www.zhenghao.io/posts/react-rerender
 - https://blog.johnnyreilly.com/2022/09/20/react-usesearchparamsstate
+- https://github.com/cpressey/Facts-about-State-Machines
 
 ### Preact
 

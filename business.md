@@ -329,3 +329,4 @@
 - https://podcast.oddly-influenced.dev/episodes/david-graeber-s-three-kinds-of-economies
 - https://javascript.plainenglish.io/15-podcasts-to-jumpstart-your-freelancing-career-in-2023-637d70145e1f
 - [10 podcasts that will teach you more about no-code than a 4-year degree](https://twitter.com/nocodeapi/status/1599735441565138944)
+- https://www.aarthiandsriram.com/p/episode-26-steven-sinofsky-at-microsoft

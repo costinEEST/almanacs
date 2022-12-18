@@ -42,6 +42,7 @@
 - https://github.com/TheAlgorithms/Algorithms-Explanation + https://github.com/TheAlgorithms/Ruby
 - https://github.com/brianstorti/ruby-graph-algorithms
 - https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby
+- [Ruby Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/rubyDataStructures)
 
 
 ### Book

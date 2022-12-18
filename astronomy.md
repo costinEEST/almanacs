@@ -117,6 +117,7 @@
 
 - https://www.esa.int/Science_Exploration/Space_Science/3_December
 - https://stiinta-pentru-toti.blogspot.com/2022/06/astronomia.html
+- https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes
 
 ### Moon 
 

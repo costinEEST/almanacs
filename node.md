@@ -105,6 +105,7 @@
 - [An introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io)
 - https://github.com/jscomplete/book-node-beyond-basics
 - [Multithreaded JavaScript](https://github.com/MultithreadedJSBook/code-samples)
+- https://exploringjs.com/nodejs-shell-scripting
 
 ### Bot
 

@@ -77,6 +77,10 @@
 - https://www.iconeye.com/design/best-graphic-designers-need-follow
 - https://www.goodreads.com/book/show/93976.The_Graphic_Language_of_Neville_Brody
 
+### Historic
+
+- [A curated collection of HCI demo videos produced during the golden age from 1983-2002](https://jackrusher.com/classic-ux) + https://www.youtube.com/@sigchi/playlists
+
 ### Inspire
 
 - https://component.gallery

@@ -13,6 +13,7 @@
 - [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077) + https://news.ycombinator.com/item?id=25987664 + https://dev.to/nyxtom/resources-for-learning-about-crdt-for-realtime-collaboration-5bkj
 - [CRDTs will bring us the reallyinteresting next web](https://twitter.com/ae_play/status/1467563638542192653)
 - https://driftingin.space/posts/you-might-not-need-a-crdt
+- https://madebyevan.com/algos
 - https://github.com/benjamintanweihao/distributed-systems-references
 - https://caitiem.com/2017/09/07/getting-started-with-distributed-systems
 - [Streaming Systems. The What, Where, When, and How of Large-Scale Data Processing by Tyler Akidau, Slava Chernyak, and Reuven Lax](http://streamingsystems.net)

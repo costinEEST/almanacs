@@ -80,7 +80,7 @@
 - https://www.visualisingdata.com/2020/01/explore-explain-a-new-video-and-podcast-series
 - http://www.storytellingwithdata.com/podcast
 
-### Inspire
+### Demo
 
 - [Japanese Architectural Heritage](https://twitter.com/AlexanderVar7/status/1215763711496990722)
 - [#dataviz](https://twitter.com/hashtag/dataviz)
@@ -119,6 +119,7 @@
 - [Create a 3D city from your GitHub contributions](https://github.com/honzaap/GitHubCity)
 - [Learn Stuff Visually](https://github.com/plusjade/nilclass.com)
 - https://www.weforum.org/videos/this-3d-map-is-showing-us-the-world-in-a-new-way
+- [Charts with HTML & CSS](https://github.com/ffoodd/chaarts)
 
 ### Miscellaneous
 
