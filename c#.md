@@ -30,6 +30,10 @@
 - [Daniel Duggan](https://www.patreon.com/_RastaMouse)
 - [James Montemagno](https://www.youtube.com/c/JamesMontemagno/playlists)
 
+### Demo 
+
+- [ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more](https://github.com/microsoft/dotnet-podcasts)
+
 ### Practice
 
 - https://github.com/Necula-Horatiu/How-you-type

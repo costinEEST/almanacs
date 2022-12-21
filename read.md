@@ -115,3 +115,4 @@
 - Guy Spier: https://www.libib.com/u/gspier, https://www.aquamarinefund.com/books
 - [Michael Lynch](https://mtlynch.io/book-reports)
 - [Johnathan Bi](https://johnathanbi.com/book-notes-summaries)
+- [Attila Egri-Nagy](http://www.egri-nagy.hu/reading)

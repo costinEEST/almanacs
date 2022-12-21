@@ -239,6 +239,7 @@
 - [Alternative DNS servers | Jan-Piet Mens](https://jpmens.net/2010/10/29/alternative-dns-servers-the-book-as-pdf) + https://jpmens.net/dns
 - https://matt-rickard.ghost.io/exploiting-protocols-for-fun
 - [DNS Rebinding, and You](https://emily.id.au/tailscale)
+- [find the origin servers of websites protected by Cloudflare, Sucuri, or Incapsula with a misconfiguration DNS](https://github.com/mrh0wl/Cloudmare)
 
 ### TCP/UDP
 

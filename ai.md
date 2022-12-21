@@ -109,6 +109,7 @@
 - https://github.com/dair-ai/ML-YouTube-Courses
 - [Cornell CS5785: Applied Machine Learning | Fall 2020](https://github.com/Machine-Learning-Tokyo/AI_Curriculum#applied-machine-learning)
 - https://github.com/Nyandwi/machine_learning_complete
+- [Igo Math - Natural and Artificial Intelligence and the Game of Go](https://egri-nagy.github.io/igomath)
 
 ### Cinema
 

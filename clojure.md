@@ -5,11 +5,13 @@
 - [Clojure for the Brave and True](https://twitter.com/pierre_jambet/status/1388135402897354753)
 - https://markm208.github.io/cljbook
 - https://github.com/islomar/seven-concurrency-models-in-seven-weeks
+- [Poetry of Programming - Puzzle Based Introduction to Functional Programming](https://egri-nagy.github.io/popbook)
 
 ### Cinema 
 
 - https://clojureverse.org/t/clojurescript-compiler-internals-with-mike-fikes/7141
 - https://www.youtube.com/playlist?list=PLb0lswj12Ntx1zt9QqcI6j9d8XB2YAFsb
+- [Attila Egri-Nagy](http://www.egri-nagy.hu/talks)
 
 ### Community
 

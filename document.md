@@ -68,6 +68,7 @@ https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vid
 - https://github.com/ReversingID/Awesome-Reversing/blob/master/_format.md
 - [Smallest possible syntactically valid files of different types](https://github.com/mathiasbynens/small)
 - https://blog.yossarian.net/2021/06/01/Playing-with-Apples-weird-compression-formats
+- https://nelsonslog.wordpress.com/2022/12/19/zstandard-as-gzip-replacement-for-files
 
 ### Security
 
