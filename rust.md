@@ -33,10 +33,22 @@
 - [Performance Analysis and Tuning on Modern CPUs](https://github.com/grahamking/perf-ninja-rs)
 - https://www.amazon.com/Rust-Atomics-Locks-Low-Level-Concurrency/dp/1098119444
 - https://github.com/smallnest/concurrency-programming-via-rust
+- https://github.com/google/comprehensive-rust
 
 ### Bot
 
 - [discord-to-trello bot](https://bitbucket.org/delan/dis2ello)
+
+### Cinema
+
+- [Rust on Android](https://www.youtube.com/playlist?list=PL--8rjVarKNWNt1vfQu2Vr4RgPtyd6wcw)
+- [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
+- [An aggregation of links that summarize RustConf 2020.](https://github.com/poteto/rustconf-2020)
+- [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
+- https://learnrust.today + https://www.youtube.com/watch?v=B5xYBrxVSiE&list=PL7FkKqUcfw1AoNvuQAvld2Q47gaDKHBRW
+- https://youtu.be/bPcTIJejnFs + https://github.com/dani-garcia/vaultwarden
+- [Advent of Code 2022](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBNTifxm5ADY65SkAdwoQiL)
+- https://github.com/Me163/youtube
 
 ### Community
 
@@ -102,17 +114,6 @@
 - [updns is a simple DNS proxy server](https://github.com/wyhaya/updns)
 - https://github.com/dtolnay/case-studies
 - http://cliffle.com/p/dangerust
-
-### Cinema
-
-- [Rust on Android](https://www.youtube.com/playlist?list=PL--8rjVarKNWNt1vfQu2Vr4RgPtyd6wcw)
-- [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
-- [An aggregation of links that summarize RustConf 2020.](https://github.com/poteto/rustconf-2020)
-- [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
-- https://learnrust.today + https://www.youtube.com/watch?v=B5xYBrxVSiE&list=PL7FkKqUcfw1AoNvuQAvld2Q47gaDKHBRW
-- https://youtu.be/bPcTIJejnFs + https://github.com/dani-garcia/vaultwarden
-- [Advent of Code 2022](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBNTifxm5ADY65SkAdwoQiL)
-
 
 ### Practice
 

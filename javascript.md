@@ -82,6 +82,19 @@
 - [Javascript R. Moldova](https://github.com/JSMD/meetups)
 - https://www.facebook.com/groups/cypresstestautomation
 
+### Compiler
+
+- https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
+- https://github.com/jamiebuilds/the-super-tiny-compiler
+- https://github.com/zenparsing/skert
+- https://github.com/lkesteloot/turbopascal + https://news.ycombinator.com/item?id=26207624 + https://www.teamten.com/lawrence/projects/turbo_pascal_compiler
+- https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers + https://youtu.be/r76ZjdzFExg
+- https://twitter.com/Aayyushhh/status/1452752483596464130 + https://twitter.com/maxkoretskyi/status/1206604253965324288 + https://www.slideshare.net/secret/7URGTJH8P6JUiG + https://twitter.com/poledesfetes/status/1230151645914390528
+- [Compile, archive, unpack, and load compiled modules leveraging v8 cached data](https://github.com/little-core-labs/tiny-module-compiler)
+- [bytecode compiler+VM for the SerenityOS JavaScript engine | Andreas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
+- [JavaScript Ahead-Of-Time Compilation Performance](https://youtu.be/iY1EXHQ6IeQ) + https://github.com/manuel-serrano/hop
+- https://pointersgonewild.com/about
+
 ### Quirks
 
 - https://github.com/aemkei/jsfuck
@@ -463,6 +476,7 @@
 - https://github.com/jawj/web-scraping-for-researchers
 - https://twitter.com/SonarSource/status/1469321227248582659 + https://twitter.com/garethheyes/status/1469011117133418500
 - [A regular expression that matches the Full Emoji List](https://github.com/sweaver2112/Regex-combined-emojis)
+- https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss
 
 ### Document Object Model (DOM)
 
@@ -599,17 +613,8 @@
 - https://github.com/fraxken/VM-Resources
 - [Emulation in JavaScript | Matt Godbolt](https://www.youtube.com/playlist?list=PL2HVqYf7If8c3E0_m4KH6nwpcclY7eSqf)
 
-### Compiler
 
-- https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
-- https://github.com/jamiebuilds/the-super-tiny-compiler
-- https://github.com/zenparsing/skert
-- https://github.com/lkesteloot/turbopascal + https://news.ycombinator.com/item?id=26207624 + https://www.teamten.com/lawrence/projects/turbo_pascal_compiler
-- https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers + https://youtu.be/r76ZjdzFExg
-- https://twitter.com/Aayyushhh/status/1452752483596464130 + https://twitter.com/maxkoretskyi/status/1206604253965324288 + https://www.slideshare.net/secret/7URGTJH8P6JUiG + https://twitter.com/poledesfetes/status/1230151645914390528
-- [Compile, archive, unpack, and load compiled modules leveraging v8 cached data](https://github.com/little-core-labs/tiny-module-compiler)
-- [bytecode compiler+VM for the SerenityOS JavaScript engine | Andreas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
-- [JavaScript Ahead-Of-Time Compilation Performance](https://youtu.be/iY1EXHQ6IeQ) + https://github.com/manuel-serrano/hop
+
 
 ### Parser
 
@@ -637,7 +642,6 @@
 - https://softeng.oicr.on.ca/bob_tiernay/2017/02/13/JSON-Like-a-Boss-with-jq
 - [How can I tell webpack, "Whenever I import @blueprintjs/core, also import blueprintjs/core/lib/css/blueprint.css first"?](https://twitter.com/sophiebits/status/1249853629093179392)
 - https://zach.codes/es6-import-nodejs-on-the-frontend
-- https://spaceraccoon.github.io/webpack-exploder
 - https://www.debugbear.com/blog/is-the-web-getting-slower
 - https://github.com/felixturner/three-webpack-boilerplate
 - https://github.com/lukejacksonn/perflink

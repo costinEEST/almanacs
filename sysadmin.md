@@ -159,6 +159,7 @@
 - [Creates Wireguard configuration for hub and peers with ease](https://github.com/burghardt/easy-wg-quick)
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://github.com/stars/yamalight/lists/self-hosted
+- https://github.com/stars/Ge0rg3/lists/interesting-self-hosts
 - https://selfhostedsource.tech/self-hosted/all
 - https://www.stchris.net/social-network.html
 - https://joshtronic.com/2021/08/01/vps-showdown-digitalocean-lightsail-linode-upcloud-vultr

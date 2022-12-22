@@ -205,6 +205,9 @@
 - https://i.blackhat.com/EU-21/Wednesday/EU-21-Shupeng-New-Ways-of-IPV6-Scanning.pdf
 - https://lite.ip2location.com/russian-federation-ip-address-ranges
 - https://pragmaticpineapple.com/how-to-preview-localhost-website-on-mobile-phone
+- https://github.com/zbetcheckin/IPv6
+- https://github.com/jivoi/pentest/blob/master/notes/ipv6_tcpip_pocketguide.pdf
+
 
 ### Domain Name System (DNS)
 
@@ -247,7 +250,6 @@
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
 - https://github.com/shuhei/knowledge/blob/master/network.md#tcp
 - https://notes.shichao.io/tcpv1
-- https://github.com/jivoi/pentest/blob/master/notes/ipv6_tcpip_pocketguide.pdf
 - [MUST, SHOULD, DON'T CARE: TCP Conformance in the Wild](https://arxiv.org/abs/2002.05400v1)
 - https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work
 - [Notes on networking observability commnads](https://aunfl0w.github.io/2019/netcommands)

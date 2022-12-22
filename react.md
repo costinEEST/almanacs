@@ -470,7 +470,7 @@
 - https://github.com/sapegin/jest-cheat-sheet
 - https://github.com/muratkeremozcan/cypress-react-component-test-examples + https://muratkerem.gitbook.io/cctdd
 
-### Tooling
+### Tool
 
 - https://github.com/yyx990803/vite-vs-next-turbo-hmr
 - https://blog.arkency.com/how-i-migrated-a-rails-app-from-webpack-to-esbuild-and-got-smaller-and-faster-js-builds
@@ -494,3 +494,4 @@
 - https://datastation.multiprocess.io/blog/2021-11-13-benchmarking-esbuild-swc-typescript-babel.html + https://github.com/multiprocessio/react-benchmark-generator
 - https://www.ctnicholas.dev/articles/how-to-use-sandpack-for-code-demos
 - https://souporserious.com/use-babel-to-statically-analyze-jsx
+- [Unpack the source code of React](https://spaceraccoon.github.io/webpack-exploder)

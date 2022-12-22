@@ -157,6 +157,7 @@
 - https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks
 - https://github.com/danielgross/whatsapp-gpt
 - [ChatGPT for Mac, living in your menubar](https://github.com/vincelwt/chatgpt-mac)
+- [Twilio GPT SMS Chat Bot](https://github.com/promptable/twilio-gpt-sms)
 
 ### Tool
 

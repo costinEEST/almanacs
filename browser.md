@@ -589,5 +589,6 @@ javascript: (() =>
 - https://github.com/diafygi/webcrypto-examples
 - [Bring your own filesystem, a javascript library that allows users to connect their own data storage backend to your webapp](https://github.com/diafygi/byoFS)
 - [Embed any file into an encrypted, self-decrypting HTML file](https://github.com/fmeum/polysafe)
+- https://github.com/mprimi/portable-secret
 
 
