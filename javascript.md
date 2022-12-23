@@ -133,8 +133,9 @@
 - https://www.perimeterx.com/blog/analyzing_magecart_malware_from_zero_to_hero
 - [How an anti ad-blocker works: Reverse-engineering BlockAdBlock](https://xy2.dev/article/re-bab)
 
-### Patterns
+### Pattern
 
+- https://twitter.com/oznova_/status/1606075373774520321
 - https://viorel.me/2019/simple-undo-redo-functionality-in-js-using-memento
 - https://lihautan.com/reactivity-in-web-frameworks-the-when
 - https://github.com/staltz/frontmania-rxjs-workshop

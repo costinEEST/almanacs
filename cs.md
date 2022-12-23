@@ -26,7 +26,7 @@
 - [Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30) + [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/en/book/show/530415) + https://jamesclear.com/great-speeches/learning-to-learn-by-richard-hamming
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
 - https://github.com/mvillaloboz/open-source-cs-degree
-
+- https://saligrama.io/notes
 
 ### Cinema
 

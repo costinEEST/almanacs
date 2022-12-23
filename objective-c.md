@@ -22,3 +22,7 @@
 ### History
 
 - https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225 + https://news.ycombinator.com/item?id=25876767
+
+### Security 
+
+- https://codecolor.ist/2021/01/16/see-no-eval-runtime-code-execution-objc

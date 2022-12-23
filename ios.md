@@ -62,6 +62,7 @@
 - [Xcode extension that evaluates selected mathematical expressions and replaces them with the result](https://github.com/revolter/EvaluateForXcode)
 - [Hardware-accelerated virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv)
 - [Log iOS network traffic without a proxy](https://github.com/evilpenguin/NetworkSniffer)
+- [Use your iPhone camera as a video source in OBS Studio and stream high quality video from your iPhone's camera over USB](https://github.com/wtsnz/obs-ios-camera-source)
 
 ### Security
 
@@ -72,3 +73,5 @@
 - [SecureChat PoC using Zero Knowledge Architecture principle](https://github.com/vixentael/zka-example)
 - https://github.com/IdanBanani/iOS-Vulnerability-Research
 - [Let's Play Hacken für Arme DVIA - Damn Vulnerable iOS App | tihmstar](https://www.youtube.com/playlist?list=PLR45q6EBSruKHv6yQ9kiX2grkTYuPx45I)
+- [A collection of POCs/writeups for iOS vulnerabilities](https://github.com/b1n4r1b01/n-days)
+- https://github.com/wangtielei/Slides

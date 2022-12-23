@@ -207,7 +207,7 @@
 - https://pragmaticpineapple.com/how-to-preview-localhost-website-on-mobile-phone
 - https://github.com/zbetcheckin/IPv6
 - https://github.com/jivoi/pentest/blob/master/notes/ipv6_tcpip_pocketguide.pdf
-
+- [What do you use for DHCP in your homelab?](https://twitter.com/TechnoTimLive/status/1606304371095977985)
 
 ### Domain Name System (DNS)
 

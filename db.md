@@ -65,7 +65,7 @@
 - [You can feed sqlmap swagger files](https://twitter.com/nullenc0de/status/1561890469541564416)
 - [Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL](https://github.com/cube2222/octosql)
 - https://haqpl.github.io/Introducing-sqlmap-into-non-HTTP-services + https://github.com/haqpl/shiny-garbanzo
-
+- [A tool for exploring Firebase datastores](https://github.com/iosiro/baserunner)
 
 ### Security
 
@@ -76,6 +76,7 @@
 - https://github.com/qazbnm456/awesome-security-trivia#sql
 - https://dev.to/hacubu/how-to-use-google-sheets-as-a-database-responsibly-3ohk
 - https://github.com/cldrn/InsecureProgrammingDB
+- https://saligrama.io/blog/post/firebase-insecure-by-default
 
 ### Cinema
 

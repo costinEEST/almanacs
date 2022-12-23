@@ -158,6 +158,7 @@
 - https://github.com/danielgross/whatsapp-gpt
 - [ChatGPT for Mac, living in your menubar](https://github.com/vincelwt/chatgpt-mac)
 - [Twilio GPT SMS Chat Bot](https://github.com/promptable/twilio-gpt-sms)
+- [VSCode Integration POC for ChatGPT](https://github.com/markusx41/chatgpt-code-assistant)
 
 ### Tool
 
@@ -264,4 +265,5 @@
 
 ### Security
 
-- [Unencrypted PCIe traffic, to leak DNN models.](https://arxiv.org/pdf/2006.12784v1.pdf)
+- [Unencrypted PCIe traffic, to leak DNN models](https://arxiv.org/pdf/2006.12784v1.pdf)
+- [Automating Host Exploitation](https://github.com/mazen160/shennina)

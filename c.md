@@ -124,6 +124,10 @@
 - [stack-based bytecode interpreter](https://www.youtube.com/playlist?list=PLhMOOgDOKD4JV2AgL1XzoYanY6RpGKbNa) + https://gitlab.com/gilmi/vm
 - [Write your own virtual machine](https://github.com/justinmeiners/lc3-vm)
 
+### Operatin system 
+
+- [CS140E: embedded operating systems (Engler, Winter, 2022)](https://github.com/dddrrreee/cs140e-22win)
+
 ### Opinion
 
 - https://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom

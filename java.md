@@ -118,6 +118,7 @@
 - [IntelliJ IDEA Developer Guide](https://amigoscode.com/courses/enrolled/667200)
 - https://blog.deesee.xyz/code-review/reverse-engineering/2022/05/30/scala-kotlin-groovy-clojure-command-execution.html
 - https://leanpub.com/gettingtoknowIntelliJIDEA
+- https://github.com/4ra1n/jar-analyzer
 
 ### Security
 

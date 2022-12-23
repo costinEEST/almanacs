@@ -7,6 +7,7 @@
 
 - https://diablohorn.com/books
 - https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 + https://craphound.com/category/destroy + https://www.goodreads.com/review/show/3525601035
+- [Hack Lab: Introduction to Cybersecurity (INTLPOL 268)](https://opencasebook.org/casebooks/6132-hack-lab-intlpol-268)
 
 ### Bypass
 
@@ -155,6 +156,7 @@
 - [research papers and presentations for counter-detection and web privacy](https://github.com/prescience-data/dark-knowledge)
 - https://tryingtobeawesome.com/sexculture
 - [Explore Wikipedia edits made by institutions, companies and governments](https://news.ycombinator.com/item?id=33842406)
+- https://saligrama.io/blog/post/upgrading-personal-security-evil-maid
 
 ### Social media
 
