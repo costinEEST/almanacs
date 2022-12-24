@@ -27,6 +27,7 @@
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
 - https://github.com/mvillaloboz/open-source-cs-degree
 - https://saligrama.io/notes
+- https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
 
 ### Cinema
 
@@ -212,6 +213,7 @@
 - https://matt-rickard.com/accidentally-turing-complete
 - [Awesome Object Capabilities and Capability Security](https://github.com/dckc/awesome-ocap)
 - https://github.com/Sairyss/domain-driven-hexagon
+- https://github.com/0x90n/InfoSec-Black-Friday
 
 ### Radio
 

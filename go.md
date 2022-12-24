@@ -49,6 +49,7 @@
 - https://www.golang.dk/courses/build-cloud-apps-in-go
 - https://github.com/ardanlabs/gotraining
 - https://github.com/jub0bs/go-course-advanced
+- https://github.com/bootdotdev/curriculum
 
 ### Community 
 
@@ -96,6 +97,7 @@
 - https://ucarion.com/go-base62
 - https://github.com/subfuzion/cracking-the-coding-interview-in-go
 - https://mattbutterfield.com/blog/2021-05-02-adding-video-chat
+- [For book summaries](https://github.com/ejamesc/grepbook)
 
 ### Interpreter 
 

@@ -92,3 +92,7 @@
 - https://github.com/vixentael/security-data-management-for-app-devs-workshop
 - [Implementing security measures layer-by-layer in iOS app: TLS, TLS pinning, risks & threats, symmetric and asymmetric encryption.](https://speakerdeck.com/vixentael/the-swift-alps-security-workshop)
 
+### Server 
+
+- [Self-deployed server uptime monitoring](https://github.com/levlaz/Pong)
+

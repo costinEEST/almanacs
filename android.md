@@ -96,6 +96,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - [Android App reviews | gotbletu](https://www.youtube.com/playlist?list=PLqv94xWU9zZ0drtB03m4wtlfX3d6amQ1h)
 - [multi-arch, GPU enabled, Android in Cloud solution](https://github.com/remote-android/redroid-doc)
 - [Automating Android RE repetitive tasks: pull, decode, rebuild and patch](https://github.com/ax/apk.sh)
+- [Extract firmware images from an Android OTA payload.bin file](https://github.com/cyxx/extract_android_ota_payload)
 
 ### APIs
 

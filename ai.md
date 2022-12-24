@@ -180,6 +180,7 @@
 - https://www.stavros.io/posts/making-ai-podcast + https://deepdreams.stavros.io
 - https://github.com/stars/yamalight/lists/machine-learning-things
 - [Links Detector makes printed links clickable via your smartphone camera](https://github.com/trekhleb/links-detector)
+- [Tools to help efficiently generate images](https://infosec.exchange/@cyb_detective/109565509213634913)
 
 ### Neural network
 

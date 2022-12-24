@@ -26,6 +26,7 @@
 - https://github.com/italia-opensource/awesome-italia-opensource
 - https://indieweb.org/site-deaths
 - [Sumana Harihareswara](https://www.harihareswara.net/texts/talks)
+- https://github.com/ossf/security-reviews
 
 ### Tool
 

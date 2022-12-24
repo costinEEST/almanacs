@@ -158,6 +158,7 @@
 
 ### Culture
 
+- https://danieltenner.com/open-cultures
 - https://awesometalks.party/category/company-culture
 - https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395
 - https://github.com/nikitavoloboev/knowledge/blob/main/business/startups/values.md

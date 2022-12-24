@@ -66,6 +66,7 @@
 - [Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL](https://github.com/cube2222/octosql)
 - https://haqpl.github.io/Introducing-sqlmap-into-non-HTTP-services + https://github.com/haqpl/shiny-garbanzo
 - [A tool for exploring Firebase datastores](https://github.com/iosiro/baserunner)
+- https://github.com/zsolt-dev/backup-mysql-to-gcp-storage
 
 ### Security
 
@@ -154,7 +155,7 @@
 - https://twitter.com/agarcia_me/status/1539635620598796288
 - [when does SQLite suck?](https://twitter.com/benbjohnson/status/1552756460857094144)
 - https://twitter.com/agarcia_me/status/1563231553299197952
-- https://github.com/dpapathanasiou/simple-graph
+- [Simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
 - https://github.com/tantaman/conflict-free-sqlite
 - https://twitter.com/captbaritone/status/1560053602487377920
 - https://dev.to/lefebvre/sqlite-is-not-a-server-56il

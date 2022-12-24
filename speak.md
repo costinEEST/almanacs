@@ -117,6 +117,7 @@
 - https://restofworld.org/2022/china-social-media-censorship
 - https://www.goodreads.com/book/show/236997.The_Chinese_Language
 - https://www.goodreads.com/book/show/236996.Beginning_Chinese_Reader_Part_1
+- https://github.com/biopolyhedron/rime-middle-chinese
 
 ### Arabic
 

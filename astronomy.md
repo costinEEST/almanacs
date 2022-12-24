@@ -134,6 +134,7 @@
 - https://www.iflscience.com/uranus-experienced-a-colossal-impact-that-knocked-it-on-its-side-48602
 - https://phys.org/news/2022-11-earth-ronnagrams-metric-prefixes-voted.html
 - https://www.wired.com/story/mars-hiberators-guide-to-the-galaxy
+- https://daeken.svbtle.com/a-case-for-orbital-rings
 
 ### Picture 
 

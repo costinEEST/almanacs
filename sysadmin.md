@@ -151,6 +151,8 @@
 - https://github.com/AdminTurnedDevOps/kubernetes-examples
 - https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam + [Chad Crowell](https://www.youtube.com/@kubeskills/playlists)
 - https://github.com/ShubhamTatvamasi/kubernetes-practice-tests
+- https://github.com/bmuschko/ckad-crash-course
+- https://github.com/bmuschko/cka-crash-course
 
 ### Server
 
@@ -190,6 +192,9 @@
 - https://academy.safestack.io/syllabus-introduction-to-devsecops
 - https://github.com/wurstbrot/DevSecOps-MaturityModel
 - https://github.com/Alevsk/startup-security-with-opensource-tools
+- https://github.com/devsecops/awesome-devsecops
+- https://github.com/bobby-lin/study-infra-security
+- https://github.com/bobby-lin/study-devops
 
 ### Monitoring
 

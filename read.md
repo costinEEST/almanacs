@@ -6,6 +6,7 @@
 - https://discuss.bevry.me/t/2019-01-05-how-to-read-a-book/423
 - https://www.nylon.com/articles/books-every-woman-should-read-by-30
 
+
 #### Community
 
 - https://academyofideas.com/books/#propaganda-and-brainwashing
@@ -116,3 +117,4 @@
 - [Michael Lynch](https://mtlynch.io/book-reports)
 - [Johnathan Bi](https://johnathanbi.com/book-notes-summaries)
 - [Attila Egri-Nagy](http://www.egri-nagy.hu/reading)
+- [Lev Lazinskiy](https://bookshop.org/shop/levlaz)

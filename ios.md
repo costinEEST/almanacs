@@ -63,6 +63,8 @@
 - [Hardware-accelerated virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv)
 - [Log iOS network traffic without a proxy](https://github.com/evilpenguin/NetworkSniffer)
 - [Use your iPhone camera as a video source in OBS Studio and stream high quality video from your iPhone's camera over USB](https://github.com/wtsnz/obs-ios-camera-source)
+- [An iOS keyboard for typing symbols in the International Phonetic Alphabet](https://github.com/Vince14Genius/IPA-Keyboard-iOS)
+- [A Chinese keyboard for iOS that helps Chinese language learners remember tones](https://github.com/bellkev/ToneBoard)
 
 ### Security
 
