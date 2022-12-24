@@ -188,6 +188,7 @@
 - https://github.com/stars/staltz/lists/react-native
 - https://github.com/aleixrodriala/react-native-disable-battery-optimizations
 - https://github.com/yuanfux/react-native-hsv-color-picker
+- https://github.com/motiz88/react-native-midi
 
 ### Debugging
 

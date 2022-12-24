@@ -159,6 +159,9 @@
 - [ChatGPT for Mac, living in your menubar](https://github.com/vincelwt/chatgpt-mac)
 - [Twilio GPT SMS Chat Bot](https://github.com/promptable/twilio-gpt-sms)
 - [VSCode Integration POC for ChatGPT](https://github.com/markusx41/chatgpt-code-assistant)
+- https://github.com/transitive-bullshit/chatgpt-api
+- https://github.com/f/awesome-chatgpt-prompts
+- https://github.com/openai/openai-cookbook
 
 ### Tool
 

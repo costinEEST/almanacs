@@ -93,6 +93,7 @@
 - https://github.com/pratik-choudhari/docker-guide
 - [Rancher Desktop](https://iximiuz.ck.page/posts/container-tools-tips-and-tricks-issue-3)
 - https://7ms.us/7ms-229-intro-to-docker-for-pentesters
+- [find out which veth interface on the host corresponds to the eth0 interface of a container](https://github.com/cslev/find_veth_docker)
 
 ### Kubernetes
 
@@ -149,6 +150,7 @@
 - https://github.com/K8sAcademy/Fundamentals-HandsOn
 - https://github.com/AdminTurnedDevOps/kubernetes-examples
 - https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam + [Chad Crowell](https://www.youtube.com/@kubeskills/playlists)
+- https://github.com/ShubhamTatvamasi/kubernetes-practice-tests
 
 ### Server
 

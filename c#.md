@@ -34,6 +34,10 @@
 
 - [ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more](https://github.com/microsoft/dotnet-podcasts)
 
+### Historic 
+
+- https://nodogmapodcast.bryanhogan.net/169-mads-torgersen-c-11-part-2-listener-questions + https://twitter.com/ploeh/status/1605894663914782723
+
 ### Practice
 
 - https://github.com/Necula-Horatiu/How-you-type

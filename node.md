@@ -133,6 +133,7 @@
 
 ### Boilerplate
 
+- https://github.com/gmarokov/node-fastify-mongo-api
 - https://github.com/santiq/bulletproof-nodejs
 - [Build your Typescript Node.js projects using blazing fast esbuild](https://github.com/a7ul/esbuild-node-tsc)
 - https://github.com/bcoe/awesome-cross-platform-nodejs
@@ -571,6 +572,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Mac OS X Plist parser/builder](https://github.com/TooTallNate/plist.js)
 - [Who pollutes your prototype? Find the libs on cdnjs in an automated way](https://blog.huli.tw/2022/09/01/en/angularjs-csp-bypass-cdnjs)
 - https://serpdog.io/blog/web-scraping-google-maps
+- [Find fediverse addresses in the profiles of your Twitter followings](https://github.com/lucahammer/fedifinder)
 
 ### Micro service
 
@@ -691,6 +693,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://pragmaticpineapple.com/creating-url-shortener-cloudflare-workers
 - https://pragprog.com/titles/brapps/serverless-single-page-apps + https://github.com/benrady/learnjs
 - https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture
+- https://github.com/mikestaub/serverless-express
+- https://github.com/vendia/serverless-express
 
 ### Miscellaneous
 

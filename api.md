@@ -89,6 +89,7 @@
 - https://github.com/jdorfman/awesome-json-datasets
 - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 - https://github.com/burningtree/awesome-json
+- https://github.com/nayyyhaa/movies-and-shows-api
 
 ### Weather
 

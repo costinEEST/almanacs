@@ -19,11 +19,6 @@
 - [Anybody else working in Clojure to create generative art?](https://twitter.com/jackrusher/status/1461062820976594958)
 - https://github.com/clojure-tw/telegram-bot-clojuretwbot
 
-### Practice
-
-- https://github.com/tbsschroeder/clojure-webshop-app
-- https://github.com/leahneukirchen/adventofcode2021
-
 
 ### Opinion
 
@@ -34,6 +29,17 @@
 - https://blog.asciinema.org/post/smaller-faster
 - https://news.ycombinator.com/item?id=23165096
 
+
+### Practice
+
+- https://github.com/tbsschroeder/clojure-webshop-app
+- https://github.com/leahneukirchen/adventofcode2021
+- https://github.com/yyna/advent-of-code
+
 ### Radio 
 
 - https://www.patreon.com/defn
+
+### Tool 
+
+- https://corfield.org/blog/2022/12/18/calva-joyride-portal

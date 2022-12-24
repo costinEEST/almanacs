@@ -13,6 +13,7 @@
 - https://hassano.gumroad.com/l/book-on-the-side
 - [Joseph Williams ~ Style: Lessons in Clarity and Grace](https://vivqu.com/blog/2022/01/26/style-humor)
 - https://eli.thegreenplace.net/2007/06/30/book-review-the-elements-of-style-by-w-strunk-jr-and-eb-white
+- https://www.goodreads.com/review/list/46952552?shelf=writing
 
 ### Cheat sheet 
 

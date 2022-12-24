@@ -16,6 +16,10 @@
 - https://github.com/erkmos/haskell-companies
 - [Rebecca Skinner](https://github.com/rebeccaskinner/presentations)
 
+### Course 
+
+- http://cl-informatik.uibk.ac.at/users/meberl//teaching.html
+
 ### Cinema
 
 - https://twitter.com/haskellhutt/status/1375384976938663936 + [Functional programming in Haskell, by Professor Graham Hutton from the University of Nottingham.](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3) + http://www.cs.nott.ac.uk/~pszgmh/pih.html

@@ -605,6 +605,7 @@
 - https://github.com/dnv-opensource/playwright-live-recorder
 - https://mtlynch.io/notes/cypress-vs-playwright
 - https://github.com/mawrkus/js-unit-testing-guide
+- https://github.com/americanexpress/jest-image-snapshot
 
 ### Virtual machine
 

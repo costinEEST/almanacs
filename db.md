@@ -161,6 +161,7 @@
 - [SQLite implementation over Wasm will replace Web SQL](https://twitter.com/ChromiumDev/status/1565105522092695553)
 - [Stranger Strings](https://twitter.com/trailofbits/status/1584870065698136064)
 - [Using SQLite as a data source: a framework and an example](https://news.ycombinator.com/item?id=33853509)
+- [offline-first note-taking app on top SQLite](https://twitter.com/quolpr/status/1558848201771319298) + https://github.com/quolpr/harika
 
 ### Graph databases
 

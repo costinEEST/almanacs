@@ -34,6 +34,7 @@
 - https://www.amazon.com/Rust-Atomics-Locks-Low-Level-Concurrency/dp/1098119444
 - https://github.com/smallnest/concurrency-programming-via-rust
 - https://github.com/google/comprehensive-rust
+- https://github.com/wasmflow/node-to-rust
 
 ### Bot
 
@@ -206,3 +207,7 @@
 - https://matklad.github.io/2022/10/06/hard-mode-rust.html
 - https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust
 - https://tryingtobeawesome.com/rust
+
+### Scrapping
+
+- [Crawls the Fediverse and produces a list of instances that are alive](https://github.com/Minoru/minoru-fediverse-crawler)

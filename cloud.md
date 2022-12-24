@@ -56,6 +56,7 @@
 - https://github.com/straithe/ReadingAndResourceLists/blob/master/AWS_IAM.md
 - https://0xd4y.com/2022/09/11/Hands-on-AWS-Penetration-Testing-Notes
 - [how to use Terraform to automate your AWS infrastructure](https://youtu.be/7xngnjfIlK4)
+- https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
 
 ### Azure
 

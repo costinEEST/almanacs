@@ -6,6 +6,7 @@
 - https://www.printmag.com/post/the-daily-heller-an-overdue-arab-design-history-book-part-1   
 - https://www.printmag.com/post/the-daily-heller-an-overdue-arab-design-history-book-part-2
 - https://www.thomkrupa.com/books
+- https://www.goodreads.com/review/list/46952552?shelf=typography
 
 ### Community
 

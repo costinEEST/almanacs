@@ -166,6 +166,9 @@
 - https://unchartedterritories.tomaspueyo.com/p/should-everybody-learn-english
 - [Why linguists believe in invisible words - the story of zeros](https://www.patreon.com/posts/new-anim-zeros-73182390)
 - https://eli.thegreenplace.net/2007/05/29/book-review-the-story-of-language-by-charles-l-barber
+- https://github.com/igorbrigadir/twitter-glossary
+- https://github.com/s0/eradicate-exclusive-tech-terminology
+- https://daramiblog.com/how-to-group-irregular-verbs-for-more-efficient-learning
 
 ### Esperanto
 

@@ -2,6 +2,10 @@
 
 - https://www.youtube.com/playlist?list=PLoZ5e3aD_LuSIh_cH0yeClQ2mco_0r3ey
 
+### Basketball
+
+- [🏀](basketball.md)
+
 ### Calisthenics
 
 - https://www.amazon.com/Garage-Gym-Athlete-Practical-Unleashing-ebook/dp/B01ETUPMYU

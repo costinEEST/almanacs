@@ -18,6 +18,7 @@
 - https://github.com/PacktPublishing/Learn-Python-by-Building-a-Blockchain-Cryptocurrency
 - [COMS 6998-006: Foundations of Blockchains](https://timroughgarden.github.io/fob21)
 - [SmartCustody: The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets](https://github.com/BlockchainCommons/SmartCustodyBook)
+- https://github.com/Jeiwan/uniswapv3-book
 
 ### Course
 
@@ -51,6 +52,7 @@
 - [DeFi Tutorials with DeFi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg/playlists)
 - [Learn Solidity (0.5) by Examples | Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)
 - [Zcon1: Zero to Privacy Hero | Zcash Foundation](https://www.youtube.com/playlist?list=PL40dyJ0UYTLLjPZaKjdhMoCNanb77_Ztj)
+- https://www.youtube.com/@BuildingIdeasIO/playlists
 
 ### Community
 
@@ -225,6 +227,7 @@
 - https://backoffice.eattheblocks.com/the-ultimate-solidity-0-8-cheatsheet
 - [The Ruby Programming Language for Contract / Transaction Scripts on the Blockchain](https://github.com/s6ruby)
 - https://github.com/stars/schniggie/lists/security-crypto
+- https://github.com/0xronin/30-days-SmartContractProgrammer
 
 ### Non fungible token (NFT)
 
@@ -277,6 +280,8 @@
 - https://github.com/raineorshine/solidity-repl
 - https://b3nac.com/posts/2021-06-14-A-Not-So-Safe-safeTransferFrom-Implementation.html
 - https://twitter.com/jsjoeio/status/1427287794699759622
+- [Use GodMode to get full control of any Ethereum contract or account](https://github.com/xGodMode/godmode)
+- https://github.com/OpenCoreCH/smart-contract-auditing-heuristics
 
 ### Eos
 
@@ -298,6 +303,7 @@
 - [Tip Tweet is a hybrid dApp that provides a simple way to tip a tweet using Ethereum](https://github.com/diasjuniorr/tip-tweet)
 - https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy
 - https://github.com/daoleno/web3byexample
+- https://github.com/takenobu-hs/ethereum-evm-illustrated
 
 ### Demos
 

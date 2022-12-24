@@ -1,6 +1,7 @@
 ### Book
 
 - https://booksaveur.com/collections/editura-publisol/products/air-majesty-michael-jordan-de-emil-hossu-longin-precomanda-20-mai-2021
+- https://www.goodreads.com/book/show/13152668-dream-team
 
 ### Cinema
 

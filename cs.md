@@ -138,6 +138,7 @@
 - [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 - https://github.com/danistefanovic/build-your-own-x + https://github.com/tuvtran/project-based-learning + https://github.com/AlgoryL/Projects-from-Scratch + ["Write your own" or "Build your own" software projects](https://news.ycombinator.com/item?id=16591918) + [What are some books where the reader learns by building projects?](https://news.ycombinator.com/item?id=22299180)
 - https://github.com/karan/Projects
+- https://github.com/avinash201199/Competitions-and-Programs-List
 
 ### Domain-Driven Design
 

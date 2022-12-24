@@ -229,6 +229,8 @@
 - [Digital Humanities in Practice: From Research Questions to Results](https://twitter.com/stephenosadetz/status/1583154402470215680)
 - [web interface that attempts to tame the overwhelming flood of papers on IACR Cryptology ePrint Archive](https://github.com/nalinbhardwaj/eprint-sanity)
 https://github.com/timhutton/twitter-archive-parser
+- [Find out which of your Twitter followers have a Mastodon account](https://github.com/pruvisto/debirdify)
+- [Notes on importing content to Mastodon](https://github.com/lucahammer/fediporter)
 
 ### Static website 
 
