@@ -80,10 +80,6 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - https://danialzahoor.blogspot.com/2022/08/frida-ios-hook-tool-that-helps-you-easy.html
 - https://blog.quarkslab.com/quokka-a-fast-and-accurate-binary-exporter.html
 
-### Fuzzers
-
-- [Review for "Building Fast Fuzzers" paper](https://twitter.com/gamozolabs/status/1197256132210774017)
-
 ### Miscellaneous
 
 - https://github.com/Auxy233/misc

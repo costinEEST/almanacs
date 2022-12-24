@@ -19,6 +19,7 @@
 ### Tool
 
 - [.NET, PE, & Raw Shellcode Packer/Loader](https://github.com/icyguider/Nimcrypt2)
+- [grim reaper c2](https://github.com/d4rckh/grc2)
 
 ### Security 
 

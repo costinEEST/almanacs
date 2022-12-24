@@ -67,6 +67,7 @@
 - https://haqpl.github.io/Introducing-sqlmap-into-non-HTTP-services + https://github.com/haqpl/shiny-garbanzo
 - [A tool for exploring Firebase datastores](https://github.com/iosiro/baserunner)
 - https://github.com/zsolt-dev/backup-mysql-to-gcp-storage
+- [Use SQL to instantly query your cloud services (AWS, Azure, GCP and more)](https://github.com/turbot/steampipe)
 
 ### Security
 
@@ -78,6 +79,7 @@
 - https://dev.to/hacubu/how-to-use-google-sheets-as-a-database-responsibly-3ohk
 - https://github.com/cldrn/InsecureProgrammingDB
 - https://saligrama.io/blog/post/firebase-insecure-by-default
+- https://github.com/securebinary/firebaseExploiter
 
 ### Cinema
 
