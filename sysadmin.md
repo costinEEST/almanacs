@@ -95,8 +95,9 @@
 - https://7ms.us/7ms-229-intro-to-docker-for-pentesters
 - [find out which veth interface on the host corresponds to the eth0 interface of a container](https://github.com/cslev/find_veth_docker)
 
-### Kubernetes
+### Kubernetes (k8s)
 
+- https://github.com/jamiehannaford/what-happens-when-k8s
 - https://twitter.com/oliverjumpertz/status/1318082918896500746
 - https://twitter.com/marcosnils/status/1487459804255764486
 - https://github.com/ciriarte/pank8s + https://pank8s.dev

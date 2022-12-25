@@ -11,6 +11,7 @@
 - https://leanpub.com/pesterbook
 - https://nelsonslog.wordpress.com/2022/01/28/wsl-copy-paste-clipboard
 - https://web.archive.org/web/20200702153318/https://techblog.mediaservice.net/2017/11/how-a-unix-hacker-discovered-the-windows-powershell
+- https://www.verboon.info/2018/03/its-never-too-late-to-start-learning-powershell
 
 ### Opinion
 

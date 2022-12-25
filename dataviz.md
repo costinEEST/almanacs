@@ -23,6 +23,7 @@
 - https://github.com/EunBinChoi/Python-for-Data-Analysis-master
 - https://shepherd.com/best-books/learning-how-to-code-interactive-graphics
 - [Science Illustration. A History of Visual Knowledge from the 15th Century to Today](https://www.thisiscolossal.com/2022/10/science-illustration-book)
+- https://github.com/andrewharmellaw/wardley-maps-book
 
 ### Cinema
 
@@ -120,6 +121,7 @@
 - [Learn Stuff Visually](https://github.com/plusjade/nilclass.com)
 - https://www.weforum.org/videos/this-3d-map-is-showing-us-the-world-in-a-new-way
 - [Charts with HTML & CSS](https://github.com/ffoodd/chaarts)
+- https://github.com/andreiolariu/strava-roads
 
 ### Miscellaneous
 

@@ -382,6 +382,8 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 ### `node:crypto`
 
 - https://github.com/paulmillr/noble-secp256k1
+- [Learning fast elliptic-curve cryptography](https://paulmillr.com/posts/noble-secp256k1-fast-ecc)
+- [implementation of elliptic curve cryptography](https://github.com/paulmillr/noble-curves)
 
 ### `node:dns`
 

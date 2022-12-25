@@ -18,6 +18,7 @@
 - [Tool Dev For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d)
 - [Planning, designing, and coding a Blazor site from scratch](https://www.youtube.com/playlist?list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI)
 - [Brendan Enrick](https://www.youtube.com/c/DevChatter/playlists) + https://www.pluralsight.com/courses/pair-programming
+- https://www.youtube.com/@GregorBiswanger/playlists
 
 ### Cheat sheet 
 
@@ -63,12 +64,14 @@
 - https://github.com/defuse/password-hashing
 - https://www.cyberark.com/threat-research-blog/thick-client-penetration-testing-methodology
 - [Deserialization payload generator for a variety of .NET formatters](https://github.com/pwntester/ysoserial.net)
+- https://parsiya.io/random/links/#net
 
 ### Miscellaneous
 
 - https://github.com/futurice/windows-app-development-best-practices
 - [Coding Guidelines for C#](https://github.com/justinamiller/Coding-Standards)
 - https://github.com/justinamiller/DotNet-Coding-Guidelines
+- https://codeinsecurity.wordpress.com/2018/02/03/adventures-in-net-references
 
 ### Opinion
 

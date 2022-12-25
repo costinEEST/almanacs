@@ -1,6 +1,7 @@
 ### 3D print 
 
 - [David Shorey](https://www.youtube.com/playlist?list=PLzeAgAPAU5pOuMMNNiVplrI9GwkEuy1Ns)
+- https://github.com/stars/JcMinarro/lists/3d-print
 
 ### Book
 
@@ -145,6 +146,7 @@
 - [PCB Deconstruction Techniques](http://www.grandideastudio.com/pcbdt)
 - http://www.irongeek.com/i.php?page=videos/bsideslasvegas2014/cg07-using-superpowers-for-hardware-reverse-engineering-joe-grand
 - [Better understanding the current status of hardware supply chain](https://github.com/hardenedlinux/cheap-pcb)
+- [Better parametric search for components available for JLC PCB assembly](https://github.com/yaqwsx/jlcparts)
 
 
 ### Resistor
@@ -250,6 +252,7 @@
 - [OpenBenchmarking.org - Cross-Platform, Open-Source Automated Benchmarking Platform](https://openbenchmarking.org)
 - https://github.com/petl/USB-C-cable-tester-C2C-caberQU
 - https://github.com/openhardwaremonitor/openhardwaremonitor
+- [Scots Army Knife for electronics](https://github.com/GlasgowEmbedded/glasgow)
 
 ### History
 

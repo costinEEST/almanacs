@@ -85,6 +85,7 @@
 - https://sal.dev/open-source/adding-kotlin-interactive-shell-to-homebrew
 - https://harry.dev/posts/my-dev-environment
 - https://davidwalsh.name/get-default-app
+- [setup script for front-end development](https://github.com/minamarkham/formation)
 
 ### Security
 

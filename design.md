@@ -61,7 +61,7 @@
 - https://zehfernandes.com/work/brazilians-who-design
 - https://www.davidairey.com/resources
 - Lena Groeger: https://lenagroeger.com/resources, https://github.com/lenagroeger/resources/tree/gh-pages
-
+- [Katie Langerman](https://www.notion.so/Design-Engineer-Resources-419830805ba44911b2a96e36c09ecccc)
 
 ### Graphic design
 

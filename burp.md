@@ -34,6 +34,7 @@
 - [I wish there was functionality via command line to search burp project/state files for certain phrases](https://twitter.com/seanmeals/status/1231646261763289089)
 - [Burp Suite extension to track vulnerability assessment progress](https://github.com/dariusztytko/progress-burp)
 - [Google Protobuf Decoder](https://github.com/federicodotta/protobuf-decoder)
+- https://github.com/1N3/IntruderPayloads
 
 ### Cinema
 

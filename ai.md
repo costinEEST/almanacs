@@ -1,3 +1,7 @@
+### Algorithm
+
+- [Minimal and clean examples of machine learning algorithms implementations](https://github.com/rushter/MLAlgorithms)
+
 ### Book
 
 - [Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook)
@@ -226,7 +230,7 @@
 - [On Hiding Neural Networks Inside Neural Networks | Chuan Guo, Ruihan Wu, Kilian Q. Weinberger](https://arxiv.org/abs/2002.10078)
 - [Open source science model trained on 48M scihub papers](https://galactica.org)
 
-### Demos
+### Demo
 
 - https://github.com/emilwallner/Screenshot-to-code
 - [Using AI and machine learning to help with Quran memorization and recitation.](https://twitter.com/caveheraa/status/1215787383494332416)
@@ -271,3 +275,4 @@
 
 - [Unencrypted PCIe traffic, to leak DNN models](https://arxiv.org/pdf/2006.12784v1.pdf)
 - [Automating Host Exploitation](https://github.com/mazen160/shennina)
+- https://github.com/DeepSpaceHarbor/Awesome-AI-Security

@@ -55,7 +55,7 @@
 - https://marcyoung.us/post/book
 - https://github.com/straithe/ReadingAndResourceLists/blob/master/AWS_IAM.md
 - https://0xd4y.com/2022/09/11/Hands-on-AWS-Penetration-Testing-Notes
-- [how to use Terraform to automate your AWS infrastructure](https://youtu.be/7xngnjfIlK4)
+- [how to use Terraform to automate your AWS infrastructure](https://youtu.be/7xngnjfIlK4) + https://github.com/mzbat/iac_workshop
 - https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
 
 ### Azure
@@ -90,7 +90,7 @@
 - https://cri.dev/posts/2021-04-05-currently-self-hosting-apps
 - https://areknawo.com/cloudflare-workers-the-best-serverless-faas-platform
 
-### Google Cloud
+### Google Cloud Platform (GCP)
 
 - [The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words) + https://twitter.com/gregsramblings/status/1366841332312907780
 - [Set up a free server](https://twitter.com/s0md3v/status/1212115426697547777) + https://dev.to/phocks/how-to-get-a-free-google-server-forever-1fpf
@@ -112,6 +112,7 @@
 - [auditing Google Cloud using Google Sheets](https://github.com/somethingnew2-0/SimpleCSPM)
 - https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes
 - https://github.com/sathishvj/awesome-gcp-certifications
+- https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 ### IBM
 

@@ -9,6 +9,7 @@
 - https://www.charlespetzold.com/blog/2022/09/A-Final-Month-of-Women-Composers.html
 - https://www.rollingstone.com/music/music-news/coolio-dead-obit-1234602038
 - https://www.theguardian.com/music/2022/sep/24/jazz-legend-pharoah-sanders-dead-at-81
+- [Maxwell Fraser](https://www.bbc.com/news/entertainment-arts-64087315)
 
 ### Book
 

@@ -39,6 +39,8 @@
 - https://github.com/AlisdairO/pgexercises
 - https://www.freecodecamp.org/news/build-a-crm
 - [Distributed Systems Engineering notes (6.824, Spring 2015)](https://github.com/alinush/6.824-lecture-notes)
+- [CSE138 (Distributed Systems) lectures, Spring 2021](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx) + https://decomposition.al/blog/2020/03/31/twitch-plays-cse138
+- [Distributed Software Systems: Global-First and Local-First Perspectives](https://decomposition.al/blog/2022/12/20/course-announcement-distributed-software-systems-global-first-and-local-first-perspectives)
 
 ### Tool
 

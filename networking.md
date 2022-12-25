@@ -241,7 +241,7 @@
 - https://github.com/vincentcox/bypass-firewalls-by-DNS-history
 - [Alternative DNS servers | Jan-Piet Mens](https://jpmens.net/2010/10/29/alternative-dns-servers-the-book-as-pdf) + https://jpmens.net/dns
 - https://matt-rickard.ghost.io/exploiting-protocols-for-fun
-- [DNS Rebinding, and You](https://emily.id.au/tailscale)
+- [DNS Rebinding, and You](https://emily.id.au/tailscale) + https://twitter.com/ByQwert/status/1347241726323400706
 - [find the origin servers of websites protected by Cloudflare, Sucuri, or Incapsula with a misconfiguration DNS](https://github.com/mrh0wl/Cloudmare)
 
 ### TCP/UDP
@@ -307,6 +307,7 @@
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html
 - https://www.holovaty.com/writing/framebust-native-apps
 - https://makensi.es/web/appsec/2018/07/30/securely-handling-user-submitted-files.html
+- https://notes.normally.com/cookieless-unique-visitor-counts
 
 ### HTTPS
 
@@ -459,3 +460,4 @@
 - [Network lab with QEMU](https://vincent.bernat.ch/en/blog/2012-network-lab-kvm)
 - https://xeiaso.net/talks/irc-why-it-failed-2018-05-17
 - https://blog.yossarian.net/2015/05/08/The-Death-of-IRC
+- https://www.n00py.io/2019/06/understanding-unc-paths-smb-and-webdav

@@ -144,6 +144,7 @@ curl v2.wttr.in/Bucharest
 - [Free Dictionary API](https://github.com/meetDeveloper/freeDictionaryAPI)
 - [Use Google text-to-speech on your Linux desktop](https://github.com/glutanimate/simple-google-tts)
 - [Dockerized Python microservice with REST API for verbs conjugation in French, Spanish and Portuguese](https://github.com/bretttolbert/verbecc-svc)
+- [English Dictionary(CLI and API) based on dictionary.cambridge.org](https://github.com/khaled0fares/meaning)
 
 ### Miscellaneous
 

@@ -101,6 +101,7 @@
 - https://github.com/m4p1e/php-exploit
 - [Converting LFI into RCE by chaining PHP encoding filters](https://www.synacktiv.com/publications/php-filters-chain-what-is-it-and-how-to-use-it.html)
 - [find basic rXSS in PHP with grep and RegEx](https://twitter.com/Bugcrowd/status/1520253611795755008)
+- https://github.com/bartblaze/PHP-backdoors
 
 ### Miscellaneous
 

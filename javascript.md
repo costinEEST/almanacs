@@ -62,6 +62,7 @@
 - https://ponyfoo.com/articles/es6
 - [Dark themes made easy](https://notes.jordanscales.com/40ecf234)
 - https://opensource.com/article/22/9/javascript-glossary
+- https://github.com/mbeaudru/modern-js-cheatsheet
 
 ### Course
 
@@ -690,6 +691,7 @@
 - https://github.com/dustinspecker/awesome-eslint
 - [Find unused files, dependencies and exports in your JS/TS project](https://github.com/webpro/knip)
 - https://renatopozzi.me/articles/your-nextjs-bundle-will-thank-you
+- https://github.com/nimiq/qr-scanner
 
 ### Documentation
 

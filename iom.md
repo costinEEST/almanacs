@@ -1,5 +1,6 @@
 ### Book
 
+- https://paulmillr.com/posts/libertarian-reading-list
 - https://unchainedpodcast.com/resources
 - https://www.ofnumbers.com/2018/07/17/cryptocurrency-and-blockchain-related-book-reviews
 - https://www.dappuniversity.com/articles/the-complete-blockchain-developer-resource-list#books
@@ -12,7 +13,6 @@
 - https://hantuzun.com/posts/the-science-of-blockchains
 - https://www.amazon.com/Out-Ether-Amazing-Ethereum-Destroyed/dp/B08CGYC2NR + https://twitter.com/JamesJohnBeck/status/1332812058400845828
 - https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet-ebook/dp/B07X8HS2WC
-- https://paulmillr.com/posts/libertarian-reading-list
 - [Introducing Blockchain Programming with Lisp by Boro Sitnikovski](https://leanpub.com/gibl)
 - https://github.com/miguelmota/ethereum-development-with-go-book
 - https://github.com/PacktPublishing/Learn-Python-by-Building-a-Blockchain-Cryptocurrency
@@ -87,6 +87,7 @@
 - [A 3 part workshop on Ethereum and DApps.](https://github.com/CryptoSoc/truffle-workshop)
 - [Staking DApp for Eat The Blocks Projects hackathon #2.](https://github.com/assafom/eatthestake)
 - https://github.com/thecryptoshed/eth-dapp-developer-roadmap
+- https://github.com/austintgriffith/web2-to-web3-curriculum
 
 ### Decentralized Autonomous Organizations
 

@@ -39,3 +39,4 @@
 - https://leanpub.com/lit-config
 - https://rebeja.eu/posts/python-ide-with-emacs-and-docker
 - https://github.com/misohena/el-easydraw
+- [Obsidian Notes for Emacs](https://github.com/licht1stein/obsidian.el)

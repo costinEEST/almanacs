@@ -139,6 +139,7 @@
 - [exploitation of path traversal vulnerabilities in Java web applications](https://github.com/Invicti-Security/web-inf-path-trav) + https://twitter.com/har1sec/status/1588494563379122177
 - [Apache JServ Protocol](https://blog.doyensec.com/2022/11/15/learning-ajp.html)
 - https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe
+- [The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)](https://github.com/find-sec-bugs/find-sec-bugs)
 
 ### Microservice
 
@@ -167,5 +168,6 @@
 ### Testing
 
 - [Test Automation Made Simple](https://github.com/karatelabs/karate)
+- https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
 
 

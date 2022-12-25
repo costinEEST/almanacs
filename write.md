@@ -19,6 +19,7 @@
 
 - https://passo.uno/tech-writing-syllabus
 - https://github.com/MyHoneyBadger/awesome-github-wiki
+- https://parsiya.io/random/links/#documentationautomationefficiency
 
 ### Cinema
 

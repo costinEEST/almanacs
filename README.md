@@ -171,3 +171,4 @@
 - [Richard Littauer](https://github.com/RichardLitt/meta-knowledge)
 - [Du Lin](https://github.com/mrdulin/resources)
 - [David Kaye](https://github.com/dfkaye/dev-links)
+- [Parsia Hakimian](https://github.com/parsiya/Parsia-Clone)

@@ -16,6 +16,10 @@
 
 - https://www.youtube.com/playlist?list=PLoKM3Qfxoe0mTWQnjNghk2Ofzfp2x68zN
 
+### Historic 
+
+- https://www.usenix.org/publications/loginonline/transcending-posix-end-era
+
 ### Internals
 
 - [Understanding the bin, sbin, usr/bin , usr/sbin split.](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)

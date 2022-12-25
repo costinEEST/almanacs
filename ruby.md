@@ -211,7 +211,7 @@
 - [React on Rails](https://twitter.com/i/communities/1512475108341956619)
 - https://toprubycompanies.info
 - https://github.com/Yegorov/awesome-ruby-blogs
-- Chris Seaton: https://twitter.com/flavorjones/status/1600436490885947393, https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html, https://dev.to/baweaver/to-be-known-for-our-kindness-2p4a, https://blog.testdouble.com/posts/2022-12-07-the-best-kind-of-brilliant
+- Chris Seaton: https://twitter.com/flavorjones/status/1600436490885947393, https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html, https://dev.to/baweaver/to-be-known-for-our-kindness-2p4a, https://blog.testdouble.com/posts/2022-12-07-the-best-kind-of-brilliant, https://gist.github.com/eregon/67b63257f296d1f5e605777a9ad661dd
 
 ### Compiler 
 

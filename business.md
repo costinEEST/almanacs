@@ -176,6 +176,7 @@
 - [The Seven Steps for Highly Effective Employee Training & Coaching](https://youtu.be/rI9oMAVa-Es)
 - https://vivqu.com/blog/2020/02/16/compensation
 - https://subpixel.space/entries/life-after-lifestyle
+- [Resources about improving inclusiveness and diversity for teams, open-source projects and events ](https://github.com/jamiehannaford/diversity)
 
 ### Startups
 

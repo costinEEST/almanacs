@@ -61,6 +61,7 @@
 - https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt
 - https://alexwlchan.net/2021/01/kempisbot
 - https://alexfrancow.github.io/app-development/Twitter-based-Exploit-Detector
+- https://github.com/licht1stein/telegram-exception-alerts
 
 ### Clean code
 
@@ -100,6 +101,7 @@
 - https://mattsegal.dev/category/django.html + https://www.youtube.com/playlist?list=PLQQCZhK0_MHG2SCVMwQACRrj8YuGIJj7N
 - https://www.freecodecamp.org/news/microservices-and-software-system-design-course
 - https://www.udemy.com/course/build-a-movie-tracking-api-with-fastapi-and-python/?referralCode=47430716975684E04F85
+- [Programming Abstractions](https://decomposition.al/CSE30-2020-01)
 
 ### Compiler 
 

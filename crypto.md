@@ -16,6 +16,7 @@
 - https://hackaday.com/2022/07/11/why-you-should-totally-roll-your-own-aes-cryptography
 - [Given two different implementations of a given algorithm, to what degree is it possible to mechanically prove that both implementations behave identically?](https://twitter.com/alokmenghrajani/status/1558572875455467521)
 - [Cryptography Fundamentals: Elliptic Curve Cryptography](https://twitter.com/SalomonCrypto/status/1580677281474699264)
+- https://github.com/cfrg/draft-irtf-cfrg-hash-to-curve
 
 ### Best practices
 
@@ -88,12 +89,12 @@
 - http://gustavbertram.com/fun/cryptarithmetic
 - [Angela Robinson, NIST](https://www.ams.org/publicoutreach/mathmoments/mm158-post-quantum-cryptography)
 
-### Inspire
+### Demo
 
 - [Store a secret securely in a standalone HTML file](https://github.com/derhuerst/html-vault)
 - [Tell your crush you like them with zero-knowledge](https://github.com/amirgamil/zk-crush)
 
-### History
+### Historic
 
 - https://onezero.medium.com/the-untold-story-of-the-man-that-made-mainstream-encryption-possible-231c749d5005
 - https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html
@@ -171,6 +172,7 @@
 - [Copy files to a Vagrant VM via SCP.](https://github.com/invernizzi/vagrant-scp)
 - https://github.com/opsdisk/the_cyber_plumbers_handbook + https://opsdisk.gumroad.com/l/cphlab/blackfriday2021
 - [SSH protocol dissected, part III: publickey auth](https://yurichev.org/SSH3)
+- [A script that checks SSH access given a public key](https://github.com/rushter/blog_code/tree/master/ssh)
 
 
 ### Tool
