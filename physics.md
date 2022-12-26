@@ -21,6 +21,7 @@
 - https://github.com/troessner/articles/blob/master/docs/2015-03-03-you-are-what-you-read-my-favorite-books.md
 - https://github.com/oreillymedia/physics_for_game_developers_2e
 - https://journal.paoloamoroso.com/the-physicists-daughter-a-wartime-mystery
+- https://piggsboson.medium.com/10-popular-physics-books-that-you-must-add-to-your-bookshelf-c9c37dcd54a1
 
 ### Cinema
 
