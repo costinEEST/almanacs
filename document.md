@@ -78,3 +78,4 @@ https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vid
 - https://i.blackhat.com/EU-21/Wednesday/EU-21-Franken-How-Your-Ebook.pdf
 - https://passthesalt.ubicast.tv/videos/abusing-archive-based-file-formats
 - https://safete.ch/file-extensions-you-can-block-in-your-email-system
+- https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions

@@ -16,6 +16,7 @@
 - https://blog.youtube/inside-youtube/on-youtubes-recommendation-system
 - https://github.com/eggheadio/how-to-egghead
 - [Illegal streams, decrypting m3u8's, and building a better stream experience](https://blog.jonlu.ca/posts/illegal-streams)
+- https://stuartk.com/posts/whats-the-best-html-video-format-to-serve
 
 ### Tool
 

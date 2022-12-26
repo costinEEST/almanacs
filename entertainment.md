@@ -15,6 +15,11 @@
 - https://podcast.babeljs.io
 - https://www.perell.com/blog/how-i-produce-a-podcast
 
+### Blacksmithing
+
+- https://www.youtube.com/playlist?list=PLFufX0CL2q5HGawBmOYq8-9psvHZydXUL
+- https://www.youtube.com/@MarkAspery/playlists + https://www.amazon.com/Skills-Blacksmith-Mastering-Fundamentals-Blacksmithing/dp/0981548008 + https://youtu.be/-2yWXpOj-DQ
+
 ### Board games
 
 - https://www.amazon.com/Holstee-Reflection-Cards-Connections-Conversations/dp/B07JM14W5L

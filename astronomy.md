@@ -135,6 +135,7 @@
 - https://phys.org/news/2022-11-earth-ronnagrams-metric-prefixes-voted.html
 - https://www.wired.com/story/mars-hiberators-guide-to-the-galaxy
 - https://daeken.svbtle.com/a-case-for-orbital-rings
+- https://www.newscientist.com/article/2339020-enceladus-shown-to-have-all-six-of-the-essential-elements-for-life
 
 ### Picture 
 
@@ -147,6 +148,7 @@
 - https://www.academia.edu/48487564/The_Sun_and_solar_eclipses_in_traditional_Romanian_ornamental_patterns
 - https://gizmodo.com/sls-rocket-launch-photos-nasa-artemis-1-1849791662
 - https://singularityhub.com/2022/11/23/this-amazing-interactive-map-of-the-universe-takes-you-all-the-way-back-to-the-big-bang + https://mapoftheuniverse.net
+- [Astrophotography by Thomas Fuchs](https://lightfrom.space)
 
 ### Star 
 

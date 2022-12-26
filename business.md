@@ -79,6 +79,7 @@
 - https://www.achangeofbrand.com/episodes
 - https://cactus.substack.com/p/doomberg-energy-is-life-and-we-are
 - https://www.creativebloq.com/news/olympics-branding
+- http://libber.org/some_parts_of_being_a_great_engineer.html
 
 ### Ethics
 

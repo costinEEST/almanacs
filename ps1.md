@@ -27,3 +27,4 @@
 ### Security 
 
 - https://github.com/batuhankutluca/Malicious-Powershell-Samples
+- [Checks and hardens your Windows configuration](https://github.com/scipag/HardeningKitty)

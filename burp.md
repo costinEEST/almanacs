@@ -56,3 +56,4 @@
 - https://parsiya.net/blog/2019-10-13-quality-of-life-tips-and-tricks-burp-suite
 - https://www.pethuraj.com/blog/use-burpsuite-like-a-pro-part-1
 - https://blog.ropnop.com/configuring-burp-suite-with-android-nougat
+- https://dustri.org/b/detecting-and-annoying-burp-users.html

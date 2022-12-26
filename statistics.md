@@ -17,6 +17,10 @@
 - https://decision.substack.com/p/statistics-the-complete-mini-course
 
 
+### Radio 
+
+- https://learnbayesstats.com
+
 ### Reference
 
 - [Developer industry stats and where to find them](https://github.com/sw-yx/tracking)

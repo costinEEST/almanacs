@@ -88,6 +88,7 @@
 - [Irish traditional music](https://thesession.org)
 - https://blog.fullmeasure.uk/awesome-musicality
 - [Musical Heritage Application](https://github.com/greyshore/MusicTree.Me)
+- https://dustri.org/b/an-abridged-history-of-painting-with-metal-album-covers.html
 
 ### Guitar
 

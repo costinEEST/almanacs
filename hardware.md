@@ -131,6 +131,11 @@
 
 - https://github.com/icebreaker-fpga/icebreaker-workshop
 
+### Flipper Zero
+
+- https://github.com/stars/swisskyrepo/lists/hardware
+- https://github.com/djsime1/awesome-flipperzero
+
 ### Padlock
 
 - [Electronic Locks: Bumping and Other Mischief | Michael Huebler](https://program.mch2022.org/mch2022/talk/KBVXRU) + https://www.youtube.com/playlist?list=PLa9wckl5om1O7xq_yTQ8mooDxtLzqGy4Q

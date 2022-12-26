@@ -13,7 +13,7 @@
 - https://twitter.com/undertheraedar/status/1240191782790496256
 - https://www.youtube.com/c/PlanetizenCourses/playlists
 
-### Inspire
+### Demo
 
 - https://wardle.puntofisso.net
 - [A Web-based map of timezones as they are at a point in time. ](https://github.com/dbaron/timezone-map)
@@ -38,6 +38,7 @@
 - [Prospection for the atlas of breeding birds of France ](https://github.com/A-d-r-i/birdsatlas)
 - https://github.com/SilenceOverflow/Awesome-SLAM
 - https://github.com/gaoxiang12/slambook-en
+- [a map of (almost) all the places mentioned in every episode of the amazing podcast, 99% Invisible](https://99pi-map.stuartk.com)
 
 ### Cinema
 

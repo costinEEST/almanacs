@@ -60,6 +60,7 @@
 
 ### Azure
 
+- https://github.com/carlospolop/hacktricks-cloud/tree/master/pentesting-cloud/azure-security
 - https://www.nexmo.com/blog/2020/01/29/how-send-receive-sms-messages-with-node-js-azure-functions-dr
 - https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
 - https://techcommunity.microsoft.com/t5/azure-security-center/become-an-azure-security-center-ninja/ba-p/1608761
@@ -83,6 +84,7 @@
 - https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
 - https://github.com/CyberSecurityUP/Cloud-Security-Attacks
 - https://github.com/ine-labs/AzureGoat
+- https://github.com/rootsecdev/Azure-Red-Team
 
 ### Cloudflare
 

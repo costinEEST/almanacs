@@ -218,6 +218,7 @@
 ### Radio
 
 - https://futureofcoding.org/episodes
+- [The Software Arts | Warren Sack](https://geekspeak.org/geeks/warren)
 
 ### Paper research 
 
