@@ -32,6 +32,7 @@
 - [Customer Relationship Management API in Laravel](https://www.youtube.com/playlist?list=PLKJBt7aeK3k-7KXzEm5sAjuwtQhL4ecag)
 - [PHP - zero-stack | Barłomiej Bąk](https://www.youtube.com/playlist?list=PLsgYMfQH-6NYZwb5ptkQCBp1-mAzjMjqd)
 - [Anatomy of a PHP Request | Herman J. Radtke, Joel Salas](https://docs.google.com/presentation/d/1F8SZlAzM0ZZLgIDk8B7WInMxSqLsXXRH9VyPfEGL_ZU)
+- https://github.com/phptodayorg/php-must-watch
 
 ### Patterns
 

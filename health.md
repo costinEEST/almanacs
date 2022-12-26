@@ -63,7 +63,7 @@
 - https://adriancopcea.com/2018/03/11/cum-se-explica-nebunia-cu-studiul-china
 - https://melanieavalon.com/stuffIlike/#tab-con-24
 - https://aaroniba.net/how-i-cured-my-rsi-pain + https://twitter.com/patrickc/status/1559737765566173185
-
+- https://www.amazon.com/Reps-Responders-Frank-Voce-ebook/dp/B0B55GVF98
 
 ### Carbohydrates
 

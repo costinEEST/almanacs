@@ -202,6 +202,7 @@
 - https://www.deadf00d.com/post/how-to-earn-money-by-hacking-a-walking-for-money-app.html
 - https://github.com/software-mansion-labs/react-native-memory-leak-example
 - https://github.com/vrozaev/react-native-screens-text-input-bug-reproduce
+- https://shopify.engineering/measuring-react-native-rendering-times
 
 ### Performance
 

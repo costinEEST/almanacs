@@ -115,6 +115,7 @@
 - https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes
 - https://github.com/sathishvj/awesome-gcp-certifications
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
+- https://github.com/batmanbury/gcp_notes
 
 ### IBM
 

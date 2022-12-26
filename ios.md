@@ -16,6 +16,7 @@
 - https://github.com/dkhamsing/open-source-ios-apps
 - https://screenlane.com/platform/all/category/fitness
 - https://transponderings.blog/2022/05/21/eight-mastodon-apps-for-iphone
+- https://github.com/anitab-org/mentorship-ios
 
 ### Cinema
 

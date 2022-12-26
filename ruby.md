@@ -34,6 +34,7 @@
 - [Prints markdown containing a random post from thecodinglove.com](https://github.com/valeriomazzeo/danger-the_coding_love)
 - https://github.com/Purple-Magic/tramway-core
 - https://github.com/shftco/rails-api-boilerplate
+- https://github.com/alexrudall/ruby-openai
 
 
 ### Algorithm
@@ -150,6 +151,7 @@
 - [Live Coding Streams | GoRails](https://www.youtube.com/playlist?list=PLm8ctt9NhMNWfnXIK_EaHaMkDGNYrOJlO)
 - [Open Source Vlog | GoRails](https://www.youtube.com/playlist?list=PLm8ctt9NhMNU5ONbGecA2m-R0TPbFBttD)
 - https://www.destroyallsoftware.com/talks/boundaries
+- [Rails Instagram Clone Tutorials | Malacow](https://www.youtube.com/playlist?list=PLR8BLHNyVZDW-5crDl3unpGIqee5xSV48)
 
 ### Course
 
@@ -374,6 +376,7 @@
 - [The State of Bool](https://github.com/geraldb/talks/blob/master/bool.md)
 - https://hashrocket.com/blog/posts/using-match-vs-equals-tilde-in-ruby
 - https://blog.yossarian.net/2019/06/09/Pipelines-in-Ruby-with-Open3
+- [there are so many great things in 3.2](https://twitter.com/paracycle/status/1605706226007941122)
 
 ### Opinion
 
@@ -508,6 +511,7 @@
 - https://www.nadiaodunayo.com/writing/2016/03/31/how-did-the-ruby-book-club-podcast-start
 - https://www.frameworkfriends.com/episodes/origin-stories
 - https://andymaleh.blogspot.com/2022/05/ruby-rogues-podcast-interview-desktop.html
+- https://www.rubyforall.com/episodes/reading-source-code-with-daniel-colson
 
 ### Security
 

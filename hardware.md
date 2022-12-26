@@ -223,6 +223,7 @@
 - [DVD Laser Scanner Microscope](http://www.gaudi.ch/GaudiLabs/?page_id=652)
 - [Where to Buy Hardware](https://greatscottgadgets.com/wheretobuy)
 - [Understanding the Network Interface (NI) Card](https://loomcom.com/blog/0118_understanding_the_ni_card.html)
+- https://hackaday.com/2022/12/20/all-about-usb-c-connector-mechanics
 
 ### News
 
