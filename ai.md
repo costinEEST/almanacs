@@ -169,6 +169,7 @@
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/openai/openai-cookbook
 - https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash
+- https://www.youtube.com/@bakztfuture/videos
 
 ### Tool
 
