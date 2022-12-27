@@ -312,6 +312,7 @@
 - https://github.com/stars/davidteren/lists/spec-examples
 - https://github.com/stars/davidteren/lists/cool-ruby-gems
 - [A High Performance HTTP Server for Ruby](https://github.com/ohler55/agoo)
+- [Encode an image as a small string that can be saved in the database, returned in API responses, and displayed as a blurred preview before the real image loads](https://github.com/Gargron/blurhash)
 
 ### Inspire
 

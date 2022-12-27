@@ -635,7 +635,6 @@
 - https://github.com/johnpolacek/mdx-deck-demo-greensock
 - [Transforms PDF, Documents and Images into Enriched Structured Data.](https://github.com/axa-group/Parsr)
 - [App that can do graphical editing of JSON files around 400MB?](https://twitter.com/deirdresm/status/1220144794669699183)
-- [A very compact representation of a placeholder for an image.](https://github.com/woltapp/blurhash/tree/master/TypeScript)
 - [Uppload is a better JavaScript image uploader with 30+ plugins](https://github.com/elninotech/uppload)
 - https://softeng.oicr.on.ca/bob_tiernay/2017/02/13/JSON-Like-a-Boss-with-jq
 - [How can I tell webpack, "Whenever I import @blueprintjs/core, also import blueprintjs/core/lib/css/blueprint.css first"?](https://twitter.com/sophiebits/status/1249853629093179392)

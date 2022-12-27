@@ -8,6 +8,7 @@
 - https://wincent.com/tags/lua
 - https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/lua.md
 - https://github.com/coodict/lua-in-one-pic
+- https://github.com/leandromoreira/cdn-up-and-running
 
 ### Security
 

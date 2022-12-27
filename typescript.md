@@ -138,3 +138,4 @@
 - https://mmazzarolo.com/blog/2021-11-06-speed-up-your-typescript-monorepo-with-esbuild
 - https://github.com/stripe-archive/flow-to-typescript-codemod
 - https://echobind.com/post/why-we-ditched-graphql-for-trpc
+- [A very compact representation of a placeholder for an image](https://github.com/woltapp/blurhash/tree/master/TypeScript)
