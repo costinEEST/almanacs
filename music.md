@@ -28,7 +28,6 @@
 - https://www.observatorcultural.ro/articol/carturesti-va-recomanda-7
 - https://www.goodreads.com/book/show/6035144-basic-music-theory
 
-
 ### Cheat sheet
 
 - [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
@@ -73,7 +72,7 @@
 - https://blog.fullmeasure.uk/2020/02/10/ear-training-course
 - https://www.coursera.org/learn/introclassicalmusic#syllabus
 
-### Cover 
+### Cover
 
 - https://twistedsifter.com/2020/07/bardcore-medieval-style-cover-songs-hildegard-von-blingin
 
@@ -89,6 +88,10 @@
 - https://blog.fullmeasure.uk/awesome-musicality
 - [Musical Heritage Application](https://www.musictree.me)
 - https://dustri.org/b/an-abridged-history-of-painting-with-metal-album-covers.html
+
+### Drum
+
+- https://www.goodreads.com/review/list/29664620-glenn?shelf=music-etc
 
 ### Guitar
 
@@ -132,7 +135,6 @@
 - [Making Music on Linux | Asahi Lina](https://youtu.be/-sZCMvyZk6k)
 - [Play the accordion with your computer keyboard](https://github.com/taniarascia/accordion)
 
-
 ### Song
 
 - [Why are song lyrics so often about love (or heartbreak)?](https://twitter.com/devonzuegel/status/1244386611657228288)
@@ -155,7 +157,7 @@
 - https://tedium.co/2022/11/09/the-death-of-the-key-change
 - https://pitchfork.com/features/lists-and-guides/best-albums-2022
 
-### Violin 
+### Violin
 
 - https://arstechnica.com/science/2022/11/fresh-chemical-clues-emerge-for-the-unique-sound-of-stradivari-violins
 
@@ -186,6 +188,7 @@
 - https://soulislove.com/kategori/rap
 - [Hip Hop to da Head](https://www.youtube.com/playlist?list=PL3FF42D99BD0CFC43)
 - https://nashuproar.org/38921/features/hip-hop-club-feature
+- https://www.devalias.net/personal/interests/dance
 
 ### News
 
@@ -193,5 +196,5 @@
 
 ### Radio
 
-- [Ultimate Study Music Playlist |  Thomas Frank](https://www.youtube.com/playlist?list=PLx65qkgCWNJIs3FPaj8JZhduXSpQ_ZfvL)
+- [Ultimate Study Music Playlist | Thomas Frank](https://www.youtube.com/playlist?list=PLx65qkgCWNJIs3FPaj8JZhduXSpQ_ZfvL)
 - https://www.romania-muzical.ro/arhiva-emisiuni/o-istorie-subiectiva-a-muzicii-romaneti/5521/2018

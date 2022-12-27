@@ -12,6 +12,7 @@
 - https://www.udemy.com/course/secure-shell-fundamentals-learn-ssh-by-configuring-it/
 - https://www.udemy.com/course/sshcourse
 - [Ben Eater's videos on low level networking stuff](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) + https://eater.net/inet
+
 * https://chrissanders.org/2019/05/infosec-mental-models
 * https://www.youtube.com/playlist?list=PLoKM3Qfxoe0nI7MxT0UWA5cXcYRD1-EO2
 * https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks
@@ -20,6 +21,7 @@
 * [Mike Dinn about his time as Station Director of the Honeysuckle Creek tracking station that helped land humans on the moon](https://twitter.com/cliffordheath/status/1529420879742267392)
 * https://github.com/doegox/awesome-rfid-talks
 * https://passthesalt.ubicast.tv/videos/use-of-machine-and-deep-learning-on-rf-signals
+* https://www.youtube.com/@TheArtofNetworkEngineering/videos
 
 ### Book
 
@@ -141,7 +143,7 @@
 - https://www.facebook.com/dragosr/posts/pfbid0QmoikA7xFE9T5MsmP81ok2sbGoND5YbZ5qtif95Br3wjsiXbHFkHosCgttPuQZwBl + [be your own cellphone carrier](https://twitter.com/dragosr/status/1578452620637003776)
 - https://www.shielder.com/blog/2020/04/notsosmartconfig-broadcasting-wifi-credentials-over-the-air
 
-### Software-defined radio (SDR) 
+### Software-defined radio (SDR)
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUcS1Rd3toiopH4QsPaLASfJ
 - https://github.com/Alevsk/radio + https://github.com/Alevsk/speaker/tree/main/radio-hacking-intro-sdr
@@ -278,7 +280,6 @@
 - [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) + https://twitter.com/albinowax/status/1455825085261127686
 - https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en + https://github.com/ZeddYu/HTTP-Smuggling-Lab
 
-
 ### HTTP headers
 
 - https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-http-headers--web-linters
@@ -365,7 +366,6 @@
 - http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html
 - https://digitalinvestigator.blogspot.com/2022/11/techniques-in-email-forensic-analysis.html
 - https://github.com/PhishyAlice/awesome-phishing
-
 
 ### WebSockets
 

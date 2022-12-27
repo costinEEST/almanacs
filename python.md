@@ -103,7 +103,7 @@
 - https://www.udemy.com/course/build-a-movie-tracking-api-with-fastapi-and-python/?referralCode=47430716975684E04F85
 - [Programming Abstractions](https://decomposition.al/CSE30-2020-01)
 
-### Compiler 
+### Compiler
 
 - https://rbaron.net/blog/2018/10/05/Hand-rolling-a-minimal-interpreted-programming-language-from-scratch.html + https://github.com/rbaron/compiler_studies
 
@@ -117,7 +117,7 @@
 - [Python for Java Developers](https://www.youtube.com/channel/UCD6woIYRXP_kX5IaLb-6tqw/playlists)
 - [Python For People | Black Hills Information Security](https://www.youtube.com/playlist?list=PLqz80p7f6dFvibZxA7LZa1T3e478Ljgui)
 
-### Community 
+### Community
 
 - https://www.facebook.com/groups/ropython
 - https://github.com/adrianmoisey/learn-python
@@ -145,6 +145,7 @@
 - https://eugeneyan.com/writing/uncommon-python
 - [Embed a highly customizable web calendar into your website using ICal source links](https://github.com/niccokunzmann/open-web-calendar)
 - https://github.com/anitab-org/mentorship-backend
+- https://gitlab.com/0xdf/aoc2022
 
 ### Networking
 
@@ -231,11 +232,11 @@
 - https://github.com/juliensobrier/google-safe-browsing-lookup-python
 - [Digital Humanities in Practice: From Research Questions to Results](https://twitter.com/stephenosadetz/status/1583154402470215680)
 - [web interface that attempts to tame the overwhelming flood of papers on IACR Cryptology ePrint Archive](https://github.com/nalinbhardwaj/eprint-sanity)
-https://github.com/timhutton/twitter-archive-parser
+  https://github.com/timhutton/twitter-archive-parser
 - [Find out which of your Twitter followers have a Mastodon account](https://github.com/pruvisto/debirdify)
 - [Notes on importing content to Mastodon](https://github.com/lucahammer/fediporter)
 
-### Static website 
+### Static website
 
 - https://nelsonslog.wordpress.com/2022/07/18/tech-notes-on-my-linkblog
 - https://github.com/dreikanter/public-static
@@ -276,7 +277,7 @@ https://github.com/timhutton/twitter-archive-parser
 - https://medium.com/@vmsp/less-known-bits-of-the-python-standard-library-46dc88490115
 - [Understanding all of Python, through its builtins](https://sadh.life/post/builtins)
 
-### Practice 
+### Practice
 
 - https://github.com/rbaron/advent-of-code-2020
 - https://github.com/rbaron/advent-of-code-2021

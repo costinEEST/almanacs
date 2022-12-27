@@ -52,7 +52,6 @@
 - https://github.com/onlurking/the-software-architecture-chronicles
 - https://github.com/97-things/97-things-every-programmer-should-know
 - [Concurrent Programming for Scalable Web Architectures](https://github.com/berb/diploma-thesis)
-- [Programming Models for Distributed Computation](https://github.com/heathermiller/dist-prog-book)
 - [A collection of resources for learning type theory and type theory adjacent fields.](https://github.com/jozefg/learn-tt)
 - https://math.stackexchange.com/questions/3466976/online-reference-book-for-implementing-concepts-in-type-theory
 - [Quantum Computing: An Applied Approach](https://news.ycombinator.com/item?id=21803593) + https://twitter.com/mark_l_watson/status/1205506997241565185
@@ -123,7 +122,7 @@
 - https://evaluate.underjord.io/web
 - https://interviews.school
 - https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager
-- https://www.forbes.com/sites/carminegallo/2020/11/01/watch-bill-gates-give-brilliant-30-second-answers-to-common-job-interview-questions 
+- https://www.forbes.com/sites/carminegallo/2020/11/01/watch-bill-gates-give-brilliant-30-second-answers-to-common-job-interview-questions
 - https://github.com/mgechev/google-interview-preparation-problems
 - https://github.com/anushka23g/Complete-Placement-Preparation
 - https://github.com/VGraupera/1on1-questions
@@ -155,7 +154,6 @@
 
 - [Top UTF-8 Decoders](https://gist.github.com/chadbrewbaker/5ec5fbe06d294da95b15d17b70b4d4a3)
 - https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities + https://twitter.com/rossjanderson/status/1454962928923418626
-
 
 ### History
 
@@ -220,6 +218,6 @@
 - https://futureofcoding.org/episodes
 - [The Software Arts | Warren Sack](https://geekspeak.org/geeks/warren)
 
-### Paper research 
+### Paper research
 
 - [What Are You Waiting For? Use Coroutines for Asynchronous I/O to Hide I/O Latencies and Maximize the Read Bandwidth!](https://db.in.tum.de/~fent/papers/coroutines.pdf)

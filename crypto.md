@@ -138,7 +138,7 @@
 - https://www.cyberklats.ch/tls-your-lan
 - https://github.com/prbinu/tls-scan
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://github.com/OpenTechFund/CryptoTerminology
 - [Cryptographic Right Answers (gist)](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
@@ -151,7 +151,7 @@
 - https://github.com/claucece/useful-crypto-resources
 - https://github.com/sigalor/whatsapp-web-reveng
 - https://github.com/pFarb/awesome-crypto-papers
-
+- https://github.com/HashPals/Name-That-Hash
 
 ### Practice
 
@@ -174,7 +174,6 @@
 - [SSH protocol dissected, part III: publickey auth](https://yurichev.org/SSH3)
 - [A script that checks SSH access given a public key](https://github.com/rushter/blog_code/tree/master/ssh)
 
-
 ### Tool
 
 - [ Verifpal - cryptographic protocol analysis tool.](https://twitter.com/bblipp/status/1223289973836861440)
@@ -184,13 +183,12 @@
 - [CIRCL hash lookup is a public API to lookup hash values against known database of files.](https://gist.github.com/adulau/4191d44e30fc01df38f1d5fe605fa920)
 - https://github.com/Deadlyelder/Tools-for-Cryptanalysis
 
-### Opinion 
+### Opinion
 
 - https://dkp.ldd.org/2019/09/08/xkcdcrypt.html
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 - [Sha256 is broken](https://twitter.com/alokmenghrajani/status/1544057972120326144)
 
-### Radio 
+### Radio
 
 - https://securitycryptographywhatever.buzzsprout.com
-

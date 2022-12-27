@@ -26,14 +26,13 @@
 - https://wolfgangrittner.dev/how-to-use-clipboard-api-in-firefox
 - https://github.com/azu/url-cheatsheet
 
-
 ### Bookmarklet
 
 - Open in Gmail
 
 ```javascript
 javascript: (() =>
-  (window.location.href = `https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yourGmailAddress@gmail.com&su=${document.title}&body=${window.location.href}`))()
+  (window.location.href = `https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yourGmailAddress@gmail.com&su=${document.title}&body=${window.location.href}`))();
 ```
 
 - [Speed Controls.](https://codepen.io/wilman/pen/ZWdEPX)
@@ -53,6 +52,7 @@ javascript: (() =>
 - https://github.com/t-mart/kill-sticky
 - [Linter for Responsive Images](https://github.com/ausi/RespImageLint)
 - https://jojo.io/posts/bookmarklets-speed
+- [Get your Kindle highlights out of the cloud and onto your computer](https://github.com/TristanH/bookcision) + https://alan.norbauer.com/articles/bookcision
 
 ### new IntersectionObserver()
 
@@ -125,7 +125,7 @@ javascript: (() =>
 - https://ninoseki.github.io/2020/05/16/browser-extension.html
 - https://github.com/ryanckulp/twitter_ad_blocker
 - [The browser extension framework](https://github.com/PlasmoHQ/plasmo)
-- [Skip youtube video sponsors](https://github.com/ajayyy/SponsorBlock) 
+- [Skip youtube video sponsors](https://github.com/ajayyy/SponsorBlock)
 - [Chrome Extension for one click downloading all resources files and keeping folder structures](https://github.com/up209d/ResourcesSaverExt)
 - [A Chrome extension that adds a 3d photo effect to instagram pages](https://github.com/cyrildiagne/instagram-3d-photo)
 - [Firefox addon for passively detecting GPS Exif information in JPEGs](https://addons.mozilla.org/en-US/firefox/addon/gpsdetect)
@@ -272,7 +272,7 @@ javascript: (() =>
 - [Chrome extension to detect possible xsleaks](https://github.com/1lastBr3ath/XSleaks)
 - https://addons.mozilla.org/en-US/firefox/addon/firefox-translations + https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot
 - [A browser extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) + https://news.ycombinator.com/item?id=33853773
-
+- https://github.com/0xdevalias/chrome-NewWindowWithTabsToRight
 
 ### Chrome
 
@@ -315,10 +315,9 @@ javascript: (() =>
 - [Separate Firefox Dark UI theme from website dark mode](https://twitter.com/darek_kay/status/1468171089796911109)
 - https://github.com/MrOtherGuy/firefox-csshacks
 
-  
 ### Historic
 
-- https://webinista.com/updates/flash-end-of-life + https://twitter.com/mattmay/status/1344728355912880129 + http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive 
+- https://webinista.com/updates/flash-end-of-life + https://twitter.com/mattmay/status/1344728355912880129 + http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive
 - [Last publicly available revision of the world's first web browser](https://github.com/cynthia/WorldWideWeb)
 - https://brucelawson.co.uk/2022/ie-rip-or-brb
 
@@ -361,7 +360,6 @@ javascript: (() =>
 - [Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.](https://github.com/localForage/localForage)
 - [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
 - https://tantaman.com/2022-05-13-large-local-storage.html
-
 
 ### Federated Learning of Cohorts
 
@@ -558,7 +556,7 @@ javascript: (() =>
 
 ### Miscellaneous
 
-- [Web Browser Engineering](https://github.com/browserengineering/book) + https://courses.cs.washington.edu/courses/cse490x/22sp/lecture + 
+- [Web Browser Engineering](https://github.com/browserengineering/book) + https://courses.cs.washington.edu/courses/cse490x/22sp/lecture +
 - https://wiki.systemcrafters.net/guix/browsers
 - https://github.com/vasanthk/how-web-works
 - [The End of Indie Web Browsers: You Can (Not) Compete.](https://news.ycombinator.com/item?id=21992050)
@@ -581,7 +579,6 @@ javascript: (() =>
 - https://github.com/iipc/awesome-web-archiving
 - [using ForensiX to extract information about a Chrome dump](https://iosifache.me/posts/forensix-walktrough)
 
-
 ### WebCryptoAPI
 
 - https://docs.google.com/presentation/d/1LbJcPulQ_a4utqNCUoGCk8GTQbchN2BL_kAF3DNJQbo
@@ -590,5 +587,4 @@ javascript: (() =>
 - [Bring your own filesystem, a javascript library that allows users to connect their own data storage backend to your webapp](https://github.com/diafygi/byoFS)
 - [Embed any file into an encrypted, self-decrypting HTML file](https://github.com/fmeum/polysafe)
 - https://github.com/mprimi/portable-secret
-
-
+- https://github.com/Metalnem/javascript-crypto

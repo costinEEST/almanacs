@@ -46,7 +46,7 @@
 - [Data Journalism and Visualization with Free Tools](https://journalismcourses.org/resource/DATA0819.html)
 - https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course
 
-### Community 
+### Community
 
 - https://github.com/jhuangtw/awesome-data
 - https://blog.gardeviance.org/2015/03/wardley-map-set-of-useful-posts.html
@@ -74,7 +74,7 @@
 - https://alexanderell.is/posts/visualizing-code
 - [GeoJSON data for Chile](https://github.com/jlhonora/geo)
 - [An extensible text-to-diagrams library](https://github.com/hikerpig/pintora)
-
+- https://github.com/stars/0xdevalias/lists/charts-diagrams-etc
 
 ### Radio
 

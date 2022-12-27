@@ -1,7 +1,7 @@
 ### Alcohol
 
 - https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened + https://news.ycombinator.com/item?id=25887200
-- [Uncorking the Past The Quest for Wine, Beer, and Other Alcoholic Beverages |  Patrick E. McGovern](https://www.ucpress.edu/book.php?isbn=9780520267985)
+- [Uncorking the Past The Quest for Wine, Beer, and Other Alcoholic Beverages | Patrick E. McGovern](https://www.ucpress.edu/book.php?isbn=9780520267985)
 - https://www.dailymail.co.uk/sciencetech/article-9618659/Vegetarians-drink-smoke-appear-healthier-carnivores-study-finds.html
 - https://edition.cnn.com/2021/09/29/business/scotland-pea-based-gin-arbikie-climate-hnk-spc-intl
 - [Out of the Bottle: Wine Science](https://www.youtube.com/playlist?list=PLB2w1JNHV4HSIgrPiBjGGMNeQvCsHekbb)
@@ -27,7 +27,7 @@
 ### Brain
 
 - https://psyche.co/guides/how-to-stop-overthinking-with-help-from-metacognitive-strategies
-- [Psilocybin induces rapid and persistent growth of dendritic spines in frontal cortex in vivo](https://www.cell.com/neuron/fulltext/S0896-6273(21)00423-2?_)
+- [Psilocybin induces rapid and persistent growth of dendritic spines in frontal cortex in vivo](<https://www.cell.com/neuron/fulltext/S0896-6273(21)00423-2?_>)
 - https://www.amazon.com/Livewired-Inside-Story-Ever-Changing-Brain/dp/030790749X + https://eagleman.com/books/livewired
 - https://www.riedlanna.com/cognitivesciencemap.html
 - [Consuming memes during the COVID pandemic: Effects of memes and meme type on COVID-related stress and coping efficacy](https://psycnet.apa.org/record/2021-92499-001)
@@ -78,7 +78,7 @@
 - [Extra History: Medicine](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5Dl5NX3frM2m-bnWam8TnC2)
 - Histoire du trafic de drogue: https://www.youtube.com/watch?v=nwvwQOe5Etw + https://www.youtube.com/watch?v=YE3xMlZaCmc + https://www.youtube.com/watch?v=6M5fKngFjZk
 
-### Cold 
+### Cold
 
 - [What does an unheated room do to your body?](https://www.bbc.com/news/health-63602501)
 
@@ -153,7 +153,7 @@
 - [A Solution to Alzheimer's and Aging? Rapamycin and it's potential](https://mykigai.substack.com/p/a-solution-to-alzheimers-and-aging)
 - https://inquisitivebiologist.com/2022/12/05/book-review-the-world-the-plague-made-the-black-death-and-the-rise-of-europe
 
-### Drug 
+### Drug
 
 - https://adriancopcea.com/2022/08/14/iodul-in-sanatatea-umana-notiuni-elementare
 - https://sunlightenthusiast.wordpress.com/2022/07/25/how-to-understand-cough-medicines
@@ -245,7 +245,7 @@
 
 - [Psychology Hacks to Activate Your Happiness Chemicals](https://twitter.com/UpSkillYourLife/status/1452278343743725578)
 
-### Hormesis 
+### Hormesis
 
 - https://chrismasterjohnphd.substack.com/p/thyroid-toxins-today-only
 
@@ -415,7 +415,7 @@
 - https://www.newyorker.com/news/q-and-a/how-south-african-researchers-identified-the-omicron-variant-of-covid
 - https://www.newscientist.com/article/2304340-strongest-evidence-yet-that-ms-is-caused-by-epstein-barr-virus
 - https://www.voxa.ro/ebooks/infectiile-de-origine-animala-si-urmatoarea-pandemie
-- https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html 
+- https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html
 - [Reverse engineering SARS-CoV-2](https://github.com/geohot/corona)
 - https://www.science.org/content/article/crispr-so-popular-even-viruses-may-use-it
 
@@ -448,8 +448,9 @@
 - https://cardiobot.swiftwithmajid.com
 - [Life tracking resources](https://gist.github.com/balupton/3d66217f3351886a0ca9188547b27d5b)
 - [Vax.Codes - Free QR Codes for Covid-19 Test and Vaccine Recipients](https://github.com/open-austin/vax-codes)
+- https://www.devalias.net/devalias/2018/04/07/diy-light-therapy-red-infrared-cold-laser-lllt-blue-uv
 
-### Uric acid 
+### Uric acid
 
 - https://en.wikipedia.org/wiki/Alexander_Haig_(physician)
 
@@ -466,7 +467,6 @@
 
 - [VentilatorPAL is a high-quality but low-cost, open source ventilator that can be bought or built by anyone for a fraction of the cost of commercial ventilators.](https://freebreathing.org)
 - [Make a face mask](https://makefacemasks.com)
-
 
 ### Radio
 

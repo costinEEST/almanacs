@@ -1,4 +1,3 @@
-
 ### Ansible
 
 - https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-new-series-on-youtube
@@ -9,7 +8,7 @@
 - https://redteamer.tips/automating-red-team-infrastructure-with-ansible-part-1-raw-infrastructure
 - https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd
 
-### Book 
+### Book
 
 - https://www.puppetcookbook.com
 - https://github.com/cyborgdeveloper/cyborg-developer-cookbook + https://www.youtube.com/c/RodrigoMoutinho/videos
@@ -22,7 +21,7 @@
 - [A Packer Primer](https://www.youtube.com/playlist?list=PLI8rNSktL2DSOM8dfvYnkhPLeTRLu8zrf)
 - https://github.com/cloudcommunity/Free-Certifications
 
-### Community 
+### Community
 
 - https://github.com/Tikam02/DevOps-Guide
 - [Marius Voila](https://www.mariusv.com/sys-magic.html)
@@ -196,6 +195,8 @@
 - https://github.com/devsecops/awesome-devsecops
 - https://github.com/bobby-lin/study-infra-security
 - https://github.com/bobby-lin/study-devops
+- https://www.slideshare.net/sussurro/pen-test-for-sys-admin
+- https://github.com/stars/0xdevalias/lists/event-automation-systems
 
 ### Monitoring
 
@@ -211,7 +212,7 @@
 - https://blog.zsec.uk/locking-down-ssh-the-right-way
 - [How to achieve enterprise-grade attack-surface monitoring with open source software](https://hakluke.com/open-source-asm-spiderfoot)
 - [A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
-- [GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser](https://github.com/allinurl/goaccess)
+- [GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser](https://github.com/allinurl/goaccess)
 - https://nelsonslog.wordpress.com/2021/12/07/influxdb-1-8-schemas
 - https://github.com/UNIBUC-PROD-ENGINEERING/monitoring
 - https://www.packt.com/product/cloud-and-networking/b17157-cloud-native-observability-with-opentelemetry

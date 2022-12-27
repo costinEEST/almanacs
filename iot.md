@@ -9,7 +9,7 @@
 - https://github.com/Developer-Y/cs-video-courses#embedded-systems
 - https://github.com/microsoft/IoT-For-Beginners
 
-### Community 
+### Community
 
 - https://authors.packtpub.com/interview-with-jean-georges-valle
 
@@ -109,6 +109,7 @@
 - https://marcyoung.us/post/homebrew-hacking
 - https://marcyoung.us/post/smart-home
 - https://rbaron.net/blog/2018/05/27/Hacking-a-cheap-fitness-tracker-bracelet.html
+- [How to pentest an IOT device in your home network](https://grahamhelton.com/blog/lovebox)
 
 ### Miscellaneous
 

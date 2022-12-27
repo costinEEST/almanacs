@@ -2,7 +2,6 @@
 
 - https://darekkay.com/blog/foobar2000-playlist-index-format
 
-
 ### .doc
 
 - https://github.com/hanhanhanz/cyber-security-sources/blob/main/officeFileExploitation.md
@@ -11,12 +10,13 @@
 
 - https://alexwlchan.net/2019/08/removing-the-drm-from-my-kindle-books
 - https://www.microsoftpressstore.com/promotions/product-announcement-retirement-of-amazon-mobi-ebook-142421
+- https://github.com/Metalnem/hkpropel-downloader
 
 ### .jpg
 
 - https://github.com/corkami/pics/blob/master/binary/JPG.pdf
 
-### .md 
+### .md
 
 - [Preview GitHub README.md files locally before committing them](https://github.com/joeyespo/grip)
 - https://github.com/mundimark
@@ -37,11 +37,11 @@
 - [utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, and dictionary attacks against targets](https://github.com/RoseSecurity/ScrapPY)
 - https://github.com/zbetcheckin/PDF_analysis
 
-### .png 
+### .png
 
 https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vidbuchanan.co.uk/widgets/pngdiff
 
-### .txt 
+### .txt
 
 - https://github.com/timoteostewart/convert_text_file_to_mp3
 
@@ -53,11 +53,11 @@ https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vid
 
 - https://cmdcolin.github.io/posts/2022-02-06-sv-sam
 
-### .o 
+### .o
 
 - https://github.com/aidansteele/osx-abi-macho-file-format-reference
 
-### .xml 
+### .xml
 
 - https://github.com/costinEEST/almanacs/blob/main/xml.md
 

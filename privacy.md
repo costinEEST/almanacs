@@ -2,7 +2,6 @@
 
 - https://wptavern.com/amp-has-irreparably-damaged-publishers-trust-in-google-led-initiatives + https://twitter.com/robinberjon/status/1457103873764732946
 
-
 ### Book
 
 - https://diablohorn.com/books
@@ -98,7 +97,6 @@
 - https://tryingtobeawesome.com/signalwire
 - [JavaScript code of many commercial bot detectors/fingerprinting services and string deobfuscators for them if applicable](https://github.com/chris124567/commercial-bot-detectors)
 
-
 ### Techniques
 
 - https://github.com/nicksp/til/blob/master/random/01-password-manager.md
@@ -157,6 +155,7 @@
 - https://tryingtobeawesome.com/sexculture
 - [Explore Wikipedia edits made by institutions, companies and governments](https://news.ycombinator.com/item?id=33842406)
 - https://saligrama.io/blog/post/upgrading-personal-security-evil-maid
+- [Practical Phishing Assessments | Graham Helton](https://www.youtube.com/playlist?list=PLULV3kUpOTddGJ1CJDlLrlMAEoZ0rl4Rc)
 
 ### Social media
 

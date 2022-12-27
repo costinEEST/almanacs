@@ -1,7 +1,6 @@
 ### Book
 
 - https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
-- [Database Internals: A Deep Dive into How Distributed Data Systems Work | Alex Petrov](https://www.databass.dev)
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/) + [What are must-know concepts for back end development?](https://news.ycombinator.com/item?id=18961793)
 - https://lethain.com/handbook-relational-db-design-on-data-modeling
 - https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
@@ -10,12 +9,9 @@
 - [The DynamoDB Book: Data Modeling with NoSQL and DynamoDB](https://news.ycombinator.com/item?id=23193093)
 - https://www.neilwithdata.com/advanced-sql
 - https://github.com/bevacqua/reads#databasessearch
-- [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077) + https://news.ycombinator.com/item?id=25987664 + https://dev.to/nyxtom/resources-for-learning-about-crdt-for-realtime-collaboration-5bkj
 - [CRDTs will bring us the reallyinteresting next web](https://twitter.com/ae_play/status/1467563638542192653)
 - https://driftingin.space/posts/you-might-not-need-a-crdt
 - https://madebyevan.com/algos
-- https://github.com/benjamintanweihao/distributed-systems-references
-- https://caitiem.com/2017/09/07/getting-started-with-distributed-systems
 - [Streaming Systems. The What, Where, When, and How of Large-Scale Data Processing by Tyler Akidau, Slava Chernyak, and Reuven Lax](http://streamingsystems.net)
 - https://github.com/mhadidg/software-architecture-books#streaming-and-messaging
 - https://github.com/karlseguin/the-little-mongodb-book
@@ -38,9 +34,6 @@
 - https://www.freecodecamp.org/news/learn-to-use-the-mysql-database
 - https://github.com/AlisdairO/pgexercises
 - https://www.freecodecamp.org/news/build-a-crm
-- [Distributed Systems Engineering notes (6.824, Spring 2015)](https://github.com/alinush/6.824-lecture-notes)
-- [CSE138 (Distributed Systems) lectures, Spring 2021](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx) + https://decomposition.al/blog/2020/03/31/twitch-plays-cse138
-- [Distributed Software Systems: Global-First and Local-First Perspectives](https://decomposition.al/blog/2022/12/20/course-announcement-distributed-software-systems-global-first-and-local-first-perspectives)
 
 ### Tool
 
@@ -93,6 +86,18 @@
 - https://github.com/mitchellh/advent-2021-sql + https://www.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd
 - [SQL Injection Master Class | Derek Rook](https://www.youtube.com/playlist?list=PLvcAtRF10zYXYkZrIXUdSVOKgByEK_5Ve) + https://gitlab.com/r00k/sql_for_hackers
 
+### Distributed system
+
+- [Distributed systems for fun and profit | Mikito Takada](https://mijailovic.net/2017/07/03/books-2017-q2)
+- [Programming Models for Distributed Computation](https://github.com/heathermiller/dist-prog-book)
+- [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077) + https://news.ycombinator.com/item?id=25987664 + https://dev.to/nyxtom/resources-for-learning-about-crdt-for-realtime-collaboration-5bkj
+- https://github.com/benjamintanweihao/distributed-systems-references
+- https://caitiem.com/2017/09/07/getting-started-with-distributed-systems
+- [Database Internals: A Deep Dive into How Distributed Data Systems Work | Alex Petrov](https://www.databass.dev)
+- [Distributed Systems Engineering notes (6.824, Spring 2015)](https://github.com/alinush/6.824-lecture-notes)
+- [CSE138 (Distributed Systems) lectures, Spring 2021](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx) + https://decomposition.al/blog/2020/03/31/twitch-plays-cse138
+- [Distributed Software Systems: Global-First and Local-First Perspectives](https://decomposition.al/blog/2022/12/20/course-announcement-distributed-software-systems-global-first-and-local-first-perspectives)
+
 ### MySQL
 
 - https://github.com/nelhage/blog.nelhage.com/blob/master/content/post/some-opinionated-sql-takes.md
@@ -100,8 +105,6 @@
 ### Radio
 
 - [Why SQLite succeeded as a database.](https://changelog.com/podcast/201)
-
-
 
 ### NoSQL
 

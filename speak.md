@@ -14,7 +14,7 @@
 - https://rawlangs.wordpress.com/2013/04/23/ten-ways-to-learn-greek-for-free
 - https://yonatanmatanyah.wordpress.com/category/learning-hebrew
 - http://nosolosoftware.com/how-i-learned-the-nato-phonetic-alphabet
-- https://www.danielde.dev/blog/surprising-shared-word-etymologies 
+- https://www.danielde.dev/blog/surprising-shared-word-etymologies
 - [Interactive graph to discover the origin of the words](https://github.com/franloza/etygraph) + https://twitter.com/eduardoboucas/status/1389508646212706306
 - [Search 500+ untranslatable words by 70+ languages and 50+ tags](https://eunoia.world)
 - https://www.colingorrie.com/articles/learn-syntax
@@ -181,7 +181,7 @@
 - http://sites.fas.harvard.edu/~iranian/OldPersian/index.html
 - https://github.com/omid/Persian-Calendar-for-Gnome-Shell
 
-### Finnish 
+### Finnish
 
 - [Grammar from the Human Perspective. Case, space and person in Finnish | Marja-Liisa Helasvuo, Lyle Campbell](https://benjamins.com/catalog/cilt.277)
 - https://www.hagen-schmidt.de/suomi/worldlanguage.html
@@ -271,6 +271,7 @@
 - https://github.com/wtetsu/mouse-dictionary
 - https://bisqwit.iki.fi/japtools
 - https://ocw.mit.edu/courses/21g-503-japanese-iii-fall-2019 + https://www.youtube.com/playlist?list=PLUl4u3cNGP61kz4wAgG77DjRf5bXhLJNv
+- https://www.goodreads.com/review/list/29664620-glenn?shelf=language-learning
 
 ### Korean
 
@@ -353,7 +354,6 @@
 
 - https://www.nytimes.com/2021/10/06/us/marie-wilcox-dead.html + https://emergencemagazine.org/feature/language-keepers/#/chapter/wukchumni
 
-
 ### Serbian
 
 - [Learn Serbian in a few minutes | Teacher_Suzana](https://www.youtube.com/playlist?list=PLVnag7rRuuY2yoo1lSoHxRC5kRjI0ZX-P)
@@ -419,12 +419,10 @@
 - https://github.com/slowernews/notebook/blob/master/on-polish-language.md
 - https://www.youtube.com/c/Ecolinguist/playlists
 
-
 ### Ukrainian
 
 - https://dopomoha.ro/ro/expresii-utile
 - https://twitter.com/istoric_Popescu/status/1505853182924238848
-
 
 ### Storytelling
 

@@ -51,6 +51,7 @@
 - https://github.com/levskaya/jslinux-deobfuscated
 - https://github.com/rootkit-io/awesome-malware-development
 - https://github.com/hackclub/some-assembly-required
+- https://github.com/0xroman1/Scuffed_Low_Level_Stash
 
 ### Cinema
 
@@ -60,7 +61,7 @@
 - [Binary Numbers | ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHX1u3IbBZaAdY17n7l1hJ90)
 - [Assembly Language Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=5)
 
-### Community 
+### Community
 
 - [Eli Bendersky](https://eli.thegreenplace.net/tag/assembly)
 - https://www.i-programmer.info/news/82-heritage/15831-computer-pioneer-kathleen-booth-dies-at-age-100.html
@@ -73,7 +74,6 @@
 
 - https://ncot.uk/compsci/becoming-a-better-computer-science-teacher
 - https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary
-
 
 ### Miscellaneous
 
@@ -124,4 +124,3 @@
 - https://tlbh.it/000_mov_fp_sp.html
 - https://ma.ttias.be/syscast/8-intel-amd-arm-cpu-hardware-episode
 - https://www.hanselminutes.com/858/learning-to-code-6502-assembly-in-pikumas-gustavo-pezzi
-

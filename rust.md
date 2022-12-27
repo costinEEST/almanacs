@@ -4,7 +4,6 @@
 - https://github.com/TheAlgorithms/Rust
 - https://twitter.com/Vernon_GR/status/1567728180437618688 + https://www.youtube.com/watch?v=QHOFRdgx-w0&list=PLezlz_6l_jm0gMynmHFmsXfjQFxmt3INC&index=20
 
-
 ### API
 
 - [A microservice framework for building scalable applications](https://github.com/juicycleff/ultimate)
@@ -12,7 +11,7 @@
 
 ### Best practices
 
-- https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust + (https://news.ycombinator.com/item?id=22818150) 
+- https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust + (https://news.ycombinator.com/item?id=22818150)
 - [A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.](https://github.com/mre/idiomatic-rust)
 - http://rcvalle.blog/2020/09/16/rust-lang-exploit-mitigations
 - https://github.com/bedemiralp/how-do-they-use-x-at-y#rust
@@ -55,7 +54,7 @@
 
 - [Yoshua Wuyts](https://www.youtube.com/c/YoshuaWuyts/playlists)
 - https://twitter.com/siscia_/status/1360113669884039170
-־ [Systems with JT](https://www.youtube.com/user/giard321/playlists)
+  ־ [Systems with JT](https://www.youtube.com/user/giard321/playlists)
 - https://loige.co/where-to-go-to-learn-rust-in-2021
 - [Dave Herman](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
 - [Stefan Baumgartner](https://buttondown.email/oida/archive)
@@ -139,8 +138,9 @@
 - https://jondot.medium.com/8-steps-for-troubleshooting-your-rust-build-times-2ffc965fd13e
 - https://github.com/ferrous-systems/elements-of-rust
 - [Deploy Rust apps with a single Cargo command](https://github.com/shuttle-hq/shuttle)
+- https://wes.today/building-an-os
 
-### Testing 
+### Testing
 
 - https://hermanradtke.com/how-to-mock-functions-that-have-external-http-requests
 - https://github.com/mriehl/rust-tdd-katas
@@ -170,7 +170,6 @@
 - [A CLI tool to find the dominant colours in an image](https://github.com/alexwlchan/dominant_colours)
 - [Building a federated link aggregator](https://github.com/LemmyNet/lemmy)
 - https://github.com/alexkreidler/parquet2arrow
-
 
 ### Opinion
 

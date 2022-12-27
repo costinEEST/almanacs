@@ -10,8 +10,9 @@
 - https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
 - https://hideandsec.sh/books/cheatsheets-82c/page/active-directory
 - https://hideandsec.sh/books/cheatsheets-82c/page/active-directory-python-edition
+- https://github.com/Orange-Cyberdefense/GOAD
 
-### Book 
+### Book
 
 - [Windows 11 From Beginner to Advanced](https://www.amazon.com/dp/B09HG2RV9X)
 - [Windows Kernel Programming](https://github.com/Truneski/WindowsKernelProgramming-Exercises)
@@ -31,12 +32,11 @@
 
 - https://www.pluralsight.com/authors/sami-laiho
 
-### Community 
+### Community
 
 - [FreeDOS](https://www.facebook.com/groups/freedos)
 - [Raymond Chen](https://devblogs.microsoft.com/oldnewthing/author/oldnewthing)
 - Dmitry Vostokov: https://www.dumpanalysis.org/Links, https://www.patterndiagnostics.com/training-courses, https://leanpub.com/podcasts/frontmatter/dmitry-vostokov-09-11-21
-
 
 ### How to
 
@@ -52,8 +52,6 @@
 - https://github.com/you-dont-need/You-Dont-Need-GUI
 - https://nelsonslog.wordpress.com/2022/08/01/setting-up-a-second-wsl-distribution
 
-
-
 ### Internals
 
 - [How the compilation and linkage model works in windows at the assembly level.](https://twitter.com/0xrepnz/status/1204015835909689344)
@@ -63,9 +61,10 @@
 - [Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)](https://github.com/j00ru/windows-syscalls)
 - [The simplest way to expose apps running on WSL to local network devices](https://github.com/icflorescu/expose-wsl)
 
-### Licence 
+### Licence
 
 - https://storygram.ro/acasa/73-windows-11-pro-retail-3264-bit-all-languages-licenta-electronica.html
+- https://github.com/massgravel/Microsoft-Activation-Scripts
 
 ### Users
 
@@ -89,10 +88,8 @@
 - https://github.com/sirredbeard/Awesome-WSL
 - https://notes.aliciasykes.com/21879/my-top-50-windows-apps
 - [Easy2Boot](https://www.hypn.za.net/blog/2020/10/14/my-favourite-bootable-usb)
-- https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-in-the-microsoft-store-is-now-generally-available-on-windows-10-and-11 
+- https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-in-the-microsoft-store-is-now-generally-available-on-windows-10-and-11
 - [process injection enumeration tool written in C#](https://github.com/gh0x0st/wanderer)
-
-
 
 ### notepad.exe
 
@@ -109,6 +106,7 @@
 - https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop
 - https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads
 - https://github.com/S3cur3Th1sSh1t/OffensiveVBA
+- https://github.com/sailay1996/awesome_windows_logical_bugs
 
 ### Clean up
 

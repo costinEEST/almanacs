@@ -1,4 +1,4 @@
-### 3D print 
+### 3D print
 
 - [David Shorey](https://www.youtube.com/playlist?list=PLzeAgAPAU5pOuMMNNiVplrI9GwkEuy1Ns)
 - https://github.com/stars/JcMinarro/lists/3d-print
@@ -142,7 +142,7 @@
 - [Original Lishi Tools](https://www.youtube.com/channel/UCWBkIQv09counMsKwOMcpvw/playlists)
 - https://www.youtube.com/c/lockpickinglawyer/playlists
 
-### PCB 
+### PCB
 
 - [Keng Tiong Ng](https://visio-for-engineers.blogspot.com)
 - https://github.com/Hanqaqa/PCB_Business_Card
@@ -152,7 +152,6 @@
 - http://www.irongeek.com/i.php?page=videos/bsideslasvegas2014/cg07-using-superpowers-for-hardware-reverse-engineering-joe-grand
 - [Better understanding the current status of hardware supply chain](https://github.com/hardenedlinux/cheap-pcb)
 - [Better parametric search for components available for JLC PCB assembly](https://github.com/yaqwsx/jlcparts)
-
 
 ### Resistor
 
@@ -224,6 +223,7 @@
 - [Where to Buy Hardware](https://greatscottgadgets.com/wheretobuy)
 - [Understanding the Network Interface (NI) Card](https://loomcom.com/blog/0118_understanding_the_ni_card.html)
 - https://hackaday.com/2022/12/20/all-about-usb-c-connector-mechanics
+- https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole
 
 ### News
 
