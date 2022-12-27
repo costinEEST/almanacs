@@ -35,6 +35,7 @@
 - [Burp Suite extension to track vulnerability assessment progress](https://github.com/dariusztytko/progress-burp)
 - [Google Protobuf Decoder](https://github.com/federicodotta/protobuf-decoder)
 - https://github.com/1N3/IntruderPayloads
+- [Bypass 403 or 401 or 404](https://github.com/SummerSec/BypassSuper)
 
 ### Cinema
 
@@ -57,3 +58,4 @@
 - https://www.pethuraj.com/blog/use-burpsuite-like-a-pro-part-1
 - https://blog.ropnop.com/configuring-burp-suite-with-android-nougat
 - https://dustri.org/b/detecting-and-annoying-burp-users.html
+- https://github.com/SummerSec/BurpBountyProfiles

@@ -29,6 +29,7 @@
 - https://github.com/play-with-go/play-with-go
 - https://github.com/dgryski/go-perfbook
 - https://github.com/teivah/100-go-mistakes
+- https://github.com/chai2010/go-ast-book
 
 ### Boots
 
@@ -55,6 +56,10 @@
 
 - https://t.me/HowToGoWrong
 - https://twitter.com/i/communities/1493637136502960134
+
+### Compiler 
+
+- https://github.com/KpLi0rn/LearnCompiler/tree/main/GoCompiler
 
 ### Cinema
 
@@ -155,6 +160,7 @@
 - [concurrent client-server for transferring files from the host to several clients](https://github.com/dnutiu/simplFT)
 - [High performance, self-hosted, newsletter and mailing list manager with a modern dashboard](https://github.com/knadh/listmonk)
 - [Fast and lightweight Web Application Firewall Fingerprinting tool](https://github.com/Lu1sDV/wafme0w)
+- https://github.com/stars/SummerSec/lists/go-tools
 
 ### Radio
 

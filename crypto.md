@@ -40,6 +40,7 @@
 - https://twitter.com/cronokirby/status/1525533199778160643 + https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like
 - https://github.com/sustrik/crypto-for-kids
 - https://www.amazon.com/Small-Book-Random-Numbers/dp/1452818363
+- [Craig Gentry, Fully homomorphic encryption using ideal lattices](https://crypto.stanford.edu/craig)
 
 ### Course
 
@@ -152,6 +153,8 @@
 - https://github.com/sigalor/whatsapp-web-reveng
 - https://github.com/pFarb/awesome-crypto-papers
 - https://github.com/HashPals/Name-That-Hash
+- [multi party computation resources](https://github.com/rdragos/awesome-mpc)
+- [Homomorphic Encryption libraries, software and resources](https://github.com/jonaschn/awesome-he)
 
 ### Practice
 

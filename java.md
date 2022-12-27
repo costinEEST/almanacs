@@ -65,6 +65,10 @@
 - https://twitter.com/RafaDelNero/status/1415385778184761347
 - https://github.com/StreamOfJava/streamofjava.github.io
 
+### Compiler 
+
+- https://github.com/KpLi0rn/LearnCompiler/tree/main/JavaCompiler
+
 ### Course
 
 - https://hyperskill.org/onboarding/?track=java
@@ -120,6 +124,7 @@
 - https://blog.deesee.xyz/code-review/reverse-engineering/2022/05/30/scala-kotlin-groovy-clojure-command-execution.html
 - https://leanpub.com/gettingtoknowIntelliJIDEA
 - https://github.com/4ra1n/jar-analyzer
+- https://github.com/stars/SummerSec/lists/java-tools
 
 ### Security
 
@@ -140,6 +145,7 @@
 - [Apache JServ Protocol](https://blog.doyensec.com/2022/11/15/learning-ajp.html)
 - https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe
 - [The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)](https://github.com/find-sec-bugs/find-sec-bugs)
+- https://github.com/SummerSec/JavaLearnVulnerability
 
 ### Microservice
 

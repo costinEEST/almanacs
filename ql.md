@@ -4,6 +4,7 @@
 
 ### Java 
 
+- https://github.com/SummerSec/learning-codeql
 - https://github.com/github/codeql-dubbo-workshop
 
 ### PHP 
@@ -23,6 +24,7 @@
 
 - https://github.com/zbazztian/codeql-debug
 - https://github.com/github/securitylab#videos
+- https://github.com/stars/SummerSec/lists/codeql
 
 ### Radio 
 

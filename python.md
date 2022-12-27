@@ -262,6 +262,7 @@
 - https://www.vicarius.io/vsociety/blog/exploiting-google-slo-generator-with-python-yaml-deserialization-attack
 - [scripts I use when reversing mobile applications](https://github.com/QKaiser/mobile-re)
 - https://github.com/vstinner/python-security
+- https://github.com/Qazeer/OffensivePythonPipeline
 
 ### Server
 

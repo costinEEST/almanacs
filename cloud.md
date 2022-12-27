@@ -129,6 +129,7 @@
 
 ### Platform independent
 
+- https://blog.lightspin.io/cloud-security-terms
 - [The Cloud Cost Handbook](https://github.com/vantage-sh/handbook)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 - [Set up a personal VPN in the cloud](https://github.com/trailofbits/algo)

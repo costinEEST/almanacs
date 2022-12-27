@@ -78,6 +78,7 @@
 - https://github.com/dmvaldman/library/tree/master/ai
 - https://github.com/bfortuner/ml-glossary
 - https://github.com/margaretmz/awesome-tensorflow-lite
+- https://github.com/therealsreehari/Learn-Data-Science-For-Free
 
 ### Course
 

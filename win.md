@@ -11,6 +11,7 @@
 - https://hideandsec.sh/books/cheatsheets-82c/page/active-directory
 - https://hideandsec.sh/books/cheatsheets-82c/page/active-directory-python-edition
 - https://github.com/Orange-Cyberdefense/GOAD
+- https://github.com/WazeHell/vulnerable-AD
 
 ### Book
 

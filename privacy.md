@@ -156,6 +156,7 @@
 - [Explore Wikipedia edits made by institutions, companies and governments](https://news.ycombinator.com/item?id=33842406)
 - https://saligrama.io/blog/post/upgrading-personal-security-evil-maid
 - [Practical Phishing Assessments | Graham Helton](https://www.youtube.com/playlist?list=PLULV3kUpOTddGJ1CJDlLrlMAEoZ0rl4Rc)
+- https://github.com/s3131212/web-tracking-notes
 
 ### Social media
 
