@@ -153,7 +153,7 @@
 - https://github.com/focusaurus/express_code_structure
 - https://github.com/Nilomiranda/relay-social + https://twitter.com/Nilomiranda/status/1241465671608918017
 - https://github.com/covidgreen/covid-green-backend-api + [Can anyone recommend some beginner friendly @fastifyjs
-](https://twitter.com/simonplend/status/1347482545831731203) + https://simonplend.com/how-to-migrate-your-app-from-express-to-fastify
+  ](https://twitter.com/simonplend/status/1347482545831731203) + https://simonplend.com/how-to-migrate-your-app-from-express-to-fastify
 - https://github.com/simonplend/workshop-get-started-with-fastify
 - https://github.com/ljlm0402/typescript-express-starter
 - https://github.com/timofeysie/nextjs-markdown-blog
@@ -292,7 +292,7 @@
 - https://github.com/ejdaly/node-threads-example
 - https://simonplend.com/how-does-middleware-work-in-express
 - https://twitter.com/loige/status/1388888755495387137
-https://mitar.tnode.com/post/json-decoding-in-node-is-fast
+  https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js
 - [Advanced vm/sandbox for Node.js](https://github.com/patriksimek/vm2)
 
@@ -334,6 +334,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://leanpub.com/thenodejsclustermodule
 - [Implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google](https://github.com/scality/cloudserver)
 - [The original `http.request()` could not be inspected/mocked without heavy monkey patching of the internals](https://twitter.com/matteocollina/status/1554860645396488193)
+- [Dependency free POST](https://pvdz.ee/notes/183)
 
 ### `node:net`
 
@@ -362,6 +363,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [If you are on commonjs with no plan to upgrade](https://twitter.com/matteocollina/status/1554157532381429762)
 - [How to write CommonJS exports that can be name-imported from ESM](https://2ality.com/2022/10/commonjs-named-exports.html)
 - https://2ality.com/2021/06/typescript-esm-nodejs.html
+- [Require in ESM mode](https://pvdz.ee/notes/184)
 
 ### Event loop
 
@@ -546,7 +548,7 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://www.twilio.com/blog/4-tools-for-web-scraping-in-node-js
 - [Scrapes the web serial Worm and its sequel Ward into an eBook format.](https://github.com/domenic/worm-scraper)
 - https://www.openfaas.com/blog/puppeteer-scraping
-- https://github.com/TwilioDevEd/webhooks-course + https://www.freecodecamp.org/news/the-ultimate-webhooks-course-for-beginners 
+- https://github.com/TwilioDevEd/webhooks-course + https://www.freecodecamp.org/news/the-ultimate-webhooks-course-for-beginners
 - https://github.com/known-css/known-css-properties
 - https://github.com/BruceDone/awesome-crawler#javascript
 - https://github.com/JonasCz/How-To-Prevent-Scraping
@@ -679,7 +681,6 @@ https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - [Eleventy crash course | Jaydan Urwin](https://www.youtube.com/playlist?list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW)
 - [Converts an express EJS app into a static HTML website](https://github.com/THHamiltonSmith/ejs-static-converter)
 - [Designing Web APIs with Strapi](https://github.com/PacktPublishing/Building-APIs-with-Strapi) + https://twitter.com/abolkog/status/1506467369048502280
-
 
 ### Serverless
 

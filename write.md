@@ -6,7 +6,7 @@
 - https://www.amazon.com/How-Do-Things-Words-Lectures/dp/0674411528 + https://youtu.be/2lQHHcNp618
 - [On (technical/scientific) writing](https://yurichev.com/news/20200801_on_writing)
 - https://www.amazon.com/Cuneiform-Irving-L-Finkel/dp/0714111880
-- https://www.academia.edu/44800810/Good_With_Words_By_PATRICK_BARRY + https://www.coursera.org/specializations/good-with-words + https://www.youtube.com/playlist?list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRDnaf 
+- https://www.academia.edu/44800810/Good_With_Words_By_PATRICK_BARRY + https://www.coursera.org/specializations/good-with-words + https://www.youtube.com/playlist?list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRDnaf
 - https://github.com/eddiejaoude/book-open-source-tips
 - [A book to help software developers write better prose](https://github.com/joshuacc/prose-for-programmers)
 - http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc + https://news.ycombinator.com/item?id=26394564
@@ -14,8 +14,9 @@
 - [Joseph Williams ~ Style: Lessons in Clarity and Grace](https://vivqu.com/blog/2022/01/26/style-humor)
 - https://eli.thegreenplace.net/2007/06/30/book-review-the-elements-of-style-by-w-strunk-jr-and-eb-white
 - https://www.goodreads.com/review/list/46952552?shelf=writing
+- https://www.amazon.com/Term-Rewriting-That-Franz-Baader-ebook/dp/B00KILLKT6
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://passo.uno/tech-writing-syllabus
 - https://github.com/MyHoneyBadger/awesome-github-wiki
@@ -51,7 +52,7 @@
 - [Ludwig is the first sentence search engine that helps you write better English by giving you contextualized examples taken from reliable sources.](https://ludwig.guru)
 - http://blog.dornea.nu/2021/06/13/note-taking-in-2021
 - [checks your word against swear words and unwanted associations in 19 languages.](http://wordsafety.com)
-- [Generate Add to Calendar  links and event reminder buttons for Google Calendar, Outlook, Microsoft Office 365, Android, Apple and Yahoo Calendars.](https://www.labnol.org/apps/calendar.html)
+- [Generate Add to Calendar links and event reminder buttons for Google Calendar, Outlook, Microsoft Office 365, Android, Apple and Yahoo Calendars.](https://www.labnol.org/apps/calendar.html)
 - https://filipedonadio.com/6-useful-templates-for-obsidian + https://www.youtube.com/playlist?list=PLGwf8YptbOQc7qxpOHOY1dEbxNp5kGKJ2
 - https://github.com/nikitavoloboev/knowledge/blob/main/keyboards/qmk.md
 - https://github.com/nikitavoloboev/knowledge/blob/main/tools/dendron.md
@@ -66,7 +67,7 @@
 - [Trigger an action on an element with a keyboard shortcut](https://github.com/github/hotkey)
 - [A list of command line tools for manipulating structured text data](https://github.com/dbohdan/structured-text-tools)
 - https://lyz-code.github.io/blue-book/writing/writing
-- https://www.indiehackers.com/post/my-7-favorite-writing-tools-a61ab86f56 
+- https://www.indiehackers.com/post/my-7-favorite-writing-tools-a61ab86f56
 - [A cross-platform AutoHotKey-like thing with TypeScript as its scripting language](https://github.com/suchipi/suchibot)
 - [Student's Guide to Physical Modeling with MATLAB](https://github.com/NelsonUpenn/PMLS-MATLAB-Guide)
 - https://devtut.github.io/matlab
@@ -109,7 +110,6 @@
 - https://www.christopherbiscardi.com/content-production
 - https://www.smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills
 - https://github.com/AkashRajpurohit/howtoprofessionallysay
-
 
 ### Radio
 

@@ -57,7 +57,7 @@
 - https://github.com/madhank93/js-mindmap
 - [How to Design Programs | Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion)
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://ponyfoo.com/articles/es6
 - [Dark themes made easy](https://notes.jordanscales.com/40ecf234)
@@ -184,7 +184,6 @@
 - [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
 - [a valid IPv6 address and a syntactically valid JavaScript program that runs to completion](https://twitter.com/mathias/status/1138770431681449984)
 
-
 ### Paper
 
 - [Who invents the word "scope chain" in ECMA-262 1st edition?](https://twitter.com/Huxpro/status/1363224910898688000)
@@ -200,7 +199,7 @@
 
 - [Functions that will give you a feeling of how machines can actually "learn"](https://github.com/trekhleb/nano-neuron)
 
-### coercion 
+### coercion
 
 - https://github.com/dorey/JavaScript-Equality-Table
 
@@ -227,13 +226,11 @@
 - https://twitter.com/swapnakpanda/status/1514812127999004672
 - https://twitter.com/buildsghost/status/1354279136433299459
 
-
 ### Polyfill
 
 - https://github.com/fynyky/weak-ref-collections
 
-
-### undefined 
+### undefined
 
 - https://2ality.com/2013/05/history-undefined.html
 - https://p42.ai/blog/2022-05-10/you-dont-need-void-0
@@ -436,6 +433,7 @@
 ### new Proxy()
 
 - https://dev.to/clementvidal/use-es6-proxy-for-isolated-context-intercommunication-mc1
+- [Sentinel](https://pvdz.ee/notes/181)
 
 ### bitwise operators
 
@@ -515,7 +513,7 @@
 - https://frontendmasters.com/blog/vanilla-javascript-todomvc
 - [A simple method to invoke a function after the browser has rendered & painted a frame](https://github.com/andrewiggins/afterframe)
 
-### Practice 
+### Practice
 
 - [Virtual Piano](https://hyperskill.org/projects/101)
 
@@ -525,7 +523,7 @@
 - [A case study on viable techniques for vanilla web development.](https://github.com/morris/vanilla-todo)
 - https://dev.to/tigt/routing-im-not-smart-enough-for-a-spa-5hki
 
-### Snippet 
+### Snippet
 
 - [`const isMobile = 'capture' in HTMLInputElement.prototype`](https://twitter.com/WebReflection/status/1567359995917778945)
 
@@ -554,7 +552,7 @@
 - https://nolanlawson.com/2021/01/03/options-for-styling-web-components
 - https://academind.com/tutorials/adding-web-components-to-any-app
 - [Vanilla Web Components. A place for framework-free, transpiler-free, scaffolding-free web components.](https://github.com/vanillawc/vanillawc)
-- https://github.com/Apress/frameworkless-front-end-development 
+- https://github.com/Apress/frameworkless-front-end-development
 - [A tiny color picker custom element for modern web apps (2.7 KB)](https://github.com/web-padawan/vanilla-colorful)
 - https://github.com/WICG/virtual-scroller
 - https://blog.medblocks.org/2021-03-28-frontend-frameworks-why-you-should-reconsider + https://twitter.com/sidharth_ramesh/status/1376053744886902784
@@ -615,9 +613,6 @@
 - https://github.com/Knevari/js-virtual-machine
 - https://github.com/fraxken/VM-Resources
 - [Emulation in JavaScript | Matt Godbolt](https://www.youtube.com/playlist?list=PL2HVqYf7If8c3E0_m4KH6nwpcclY7eSqf)
-
-
-
 
 ### Parser
 
@@ -707,8 +702,7 @@
 
 ### Debugging
 
-- https://mmazzarolo.com/blog/2022-02-16-track-down-the-javascript-code-responsible-for-polluting-the-global-scope 
-
+- https://mmazzarolo.com/blog/2022-02-16-track-down-the-javascript-code-responsible-for-polluting-the-global-scope
 
 ### Opinion
 
