@@ -2,11 +2,11 @@
 
 - [The Kicks You Wear](https://kyw.substack.com/archive)
 
-### Bookstore 
+### Bookstore
 
 - [Nemira Publishing House](https://us16.campaign-archive.com/home/?u=90fc2082261012b48d34d8ff6&id=851b969363)
 
-### C++ 
+### C++
 
 - [Denis Bakhvalov](https://easyperf.net/newsletter)
 
@@ -34,7 +34,7 @@
 - [Pro Patrimonio](https://us5.campaign-archive.com/home/?u=57f50bdf2c77a5bb1add2a851&id=42c6c16a1d)
 - [Uniunea Arhitectilor din Romania](https://us10.campaign-archive.com/home/?u=e40fa82a9a796c8ea6cdfddca&id=94dec13101)
 
-### Astronomy 
+### Astronomy
 
 - [Philip C. Plait](https://badastronomy.substack.com/archive)
 
@@ -75,7 +75,7 @@
 - [Patents from big tech companies and a wider list of all patents from these companies](https://patentdrop.substack.com/archive)
 - [I Love Failure](https://us7.campaign-archive.com/home/?u=08e3b46f1ab4e0f4f75301af5&id=4689d7e3c5)
 
-### Marketing 
+### Marketing
 
 - [Prashant Bagga](https://us4.campaign-archive.com/home/?u=f80b1bc87f246a92fee9bfceb&id=8573422726)
 - [Nick Kolenda](https://us9.campaign-archive.com/home/?u=3a435025ee2bca712b3a18a89&id=90575750a4)
@@ -92,7 +92,7 @@
 - https://intercalationstation.substack.com/archive
 - [Daniel Kent](https://techtricity.substack.com/archive)
 
-### Communication 
+### Communication
 
 - [Crafters agency](https://us7.campaign-archive.com/home/?u=3753a4a72700eeedc071e9ab8&id=c334c3386e)
 
@@ -137,8 +137,7 @@
 - [Gonçalo Morais](https://www.heroesofcomputer.science)
 - [Timothy Snyder](https://snyder.substack.com/archive)
 
-
-### Hardware 
+### Hardware
 
 - [Deep into the Forest. Deep Tech for a Better Future](https://deepforest.substack.com)
 - [Kevin Lynagh](https://tinyletter.com/kevinlynagh/archive)
@@ -254,6 +253,7 @@
 - https://tailwindweekly.com/rss
 - [CSS Simplified By Shruti Balasa](https://www.getrevue.co/profile/shrutibalasa)
 - [Hacker Newsletter](https://us1.campaign-archive.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)
+- https://apisecurity.io/full-archive
 
 ### Web performance
 
@@ -329,7 +329,7 @@
 
 - [Jeremy Kun](https://buttondown.email/j2kun/archive)
 
-### Music 
+### Music
 
 - [Ted Gioia](https://tedgioia.substack.com/archive)
 - [Tango Inside Out](https://us7.campaign-archive.com/home/?u=c390736e46a85da405f68dc8e&id=8dbe36e52f)
@@ -370,5 +370,3 @@
 
 - [Alternative Tours](https://us20.campaign-archive.com/home/?u=f1b8e8fc565e4aa7532df290e&id=c269925f5f)
 - [De la sat](https://us7.campaign-archive.com/home/?u=3f14e3915e6bef8a3a4fd6c01&id=02b2b8a2b2)
-
-

@@ -6,6 +6,7 @@
 - https://fermatslibrary.com/s/perfect-numbers
 - https://github.com/Just-A-Visitor/Algorithmic-Pseudocode
 - [Solutions to Introduction to Algorithms Third Edition](https://github.com/walkccc/CLRS)
+- https://www.coursera.org/learn/algorithmic-toolbox
 
 ### Data structures
 
