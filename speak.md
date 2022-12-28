@@ -400,6 +400,7 @@
 - [Carme Jiménez Huertas](https://independent.academia.edu/CarmeJHuertas) + https://www.google.com/search?q=Nu+venim+din+latina+Carme+Jimenez+Huertas + https://youtu.be/7IUl4HljK1o + https://www.youtube.com/playlist?list=PL7uJpL8aYbq7TcjlzL5KuUfVt8_joPHLO
 - https://www.printrecarti.ro/palmira-arnaiz
 - https://eli.thegreenplace.net/tag/spanish
+- https://github.com/marcboquet/spanish-names
 
 ### Swedish
 

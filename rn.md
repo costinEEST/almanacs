@@ -35,7 +35,7 @@
 - https://blog.bam.tech/developer-news/what-to-watch-react-native-europe-2020
 - https://www.reactnativeradio.com/episodes/177-challenges-of-building-rn-apps-in-ios-vs-android
 - [Learn how to build the beginnings of a Minecraft clone using Expo and React Native.](https://www.youtube.com/playlist?list=PLY1aWv2j4oDEQVEcd6a8LswmmxJS_Az9e)
-- [How To Animated |  evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6)
+- [How To Animated | evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6)
 - [React Native Live | Infinite Red](https://www.youtube.com/playlist?list=PLFHvL21g9bk1VLtNYIDk8VrPyN3hyWl44)
 - https://github.com/software-mansion-labs/drawings-and-animations-workshop
 
@@ -73,7 +73,7 @@
 - https://github.com/Andarius/rn-animations-playground
 - https://github.com/ovistoica/react-native-modern-template
 
-### Internal 
+### Internal
 
 - http://blog.nparashuram.com/2019/01/react-natives-new-architecture-glossary.html
 - https://github.com/barthap/discovering-turbomodules
@@ -82,6 +82,7 @@
 - [How to use the New Architecture (Fabric & TurboModules)](https://github.com/react-native-community/RNNewArchitectureApp)
 - https://github.com/talknagish/react-native-turbo-starter
 - https://medium.com/ocp-digital-factory/how-react-native-became-performant-as-native-with-the-new-architecture-6e678c3178aa
+- https://nshipster.com/javascriptcore
 
 ### Tool
 
@@ -226,5 +227,3 @@
 ### Radio
 
 - https://reactnativeradio.com/episodes/rnr-198-machine-learning-and-react-native + https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
-
-

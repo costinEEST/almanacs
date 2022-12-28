@@ -1,4 +1,4 @@
-### Application  
+### Application
 
 - [macOS status monitoring app](https://github.com/gao-sun/eul)
 - https://github.com/onmyway133/archives
@@ -9,6 +9,7 @@
 - https://github.com/CodeEditApp/CodeEdit
 - [App for cataloguing and tracking your books](https://github.com/peterfriese/BookShelf)
 - [A free, open-source iOS Mastodon client](https://github.com/metabolist/metatext)
+- [RSS reader for macOS and iOS](https://github.com/Ranchero-Software/NetNewsWire)
 
 ### Algorithm
 
@@ -44,7 +45,6 @@
 - [Peter Friese](https://github.com/peterfriese?tab=stars)
 - [Karoy Lorentey](https://mastodon.social/@lorentey)
 
-
 ### Development
 
 - [Clippy from Microsoft Office is back and runs on macOS](https://github.com/Cosmo/Clippy)
@@ -72,7 +72,7 @@
 - https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming
 - https://github.com/jakerockland/go-vs-swift
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
@@ -92,7 +92,6 @@
 - https://github.com/vixentael/security-data-management-for-app-devs-workshop
 - [Implementing security measures layer-by-layer in iOS app: TLS, TLS pinning, risks & threats, symmetric and asymmetric encryption.](https://speakerdeck.com/vixentael/the-swift-alps-security-workshop)
 
-### Server 
+### Server
 
 - [Self-deployed server uptime monitoring](https://github.com/levlaz/Pong)
-

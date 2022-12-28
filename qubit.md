@@ -1,4 +1,4 @@
-### Book 
+### Book
 
 - [Quantum Theory | David Bohm](https://www.youtube.com/watch?v=-bf9rxkBUHc&lc=UgxtGTVegzpRLat0LGZ4AaABAg)
 - [Introduction to Classical and Quantum Computing | Thomas G. Wong](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
@@ -9,20 +9,21 @@
 - https://www.goodreads.com/book/show/17471298-quantum-computing-since-democritus
 - https://eli.thegreenplace.net/2009/01/05/book-review-qed-the-strange-theory-of-light-and-matter-by-richard-feynman
 
-### Cheat sheet 
+### Cheat sheet
 
 - [Schrodinger Equation](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schr.html)
 - https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks
 - https://singularityhub.com/2021/10/04/how-quantum-computers-can-be-used-to-build-better-quantum-computers
+- https://github.com/hsavit1/Awesome-Quantum-Computation
 
-### Cinema 
+### Cinema
 
 - [Mithuna Yoganathan](https://www.youtube.com/user/LookingGlassUniverse/about)
 - [Centre for Quantum Technologies](https://www.youtube.com/c/quantumlah/playlists)
 - https://www.youtube.com/playlist?list=PLEBQWzRBb4ioWmrK6jpS3fUI6d_2JeKRp
 - [Early History of Quantum Mechanics | Kathy Joseph](https://www.youtube.com/playlist?list=PLepnjl2hm9tG2VXMd1edYxATvFdA3hcLP)
 
-### Community 
+### Community
 
 - [Carlo Rovelli](https://www.cpt.univ-mrs.fr/~rovelli) + https://howtoacademy.com/podcasts/cornelia-parker-meets-carlo-rovelli-the-hidden-nature-of-things
 - https://davidson.weizmann.ac.il/en/online/sciencehistory/scientist-who-found-difference-between-quantum-particle-and-soccer-ball
@@ -32,10 +33,10 @@
 - https://www.newscientist.com/article/2320561-quantum-communication-system-could-detect-earthquakes
 - https://news.cgtn.com/news/2022-05-18/China-launches-its-first-quantum-encrypted-smartphone-1a7SMMT4wtG/index.html
 
-### Tool 
+### Tool
 
 - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
 
-### Opinion 
+### Opinion
 
 - [Light and Quantum Theory: how most physics texts get the explanation of photon emission deliberately wrong](https://www.bretthall.org/light)
