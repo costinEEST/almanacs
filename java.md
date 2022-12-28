@@ -1,7 +1,6 @@
-### API 
+### API
 
 - https://www.toptal.com/back-end/reverse-engineering-the-private-api-hacking-your-couch
-
 
 ### Book
 
@@ -24,11 +23,11 @@
 - https://github.com/Apress/java-17-for-absolute-beginners
 - https://github.com/duke-certification/java6-to-java8-en + https://twitter.com/RafaDelNero/status/1387736448674242562 + https://leanpub.com/javachallengers + https://www.youtube.com/playlist?list=PL3py5YSIGvPMgKXOVqnYn9nBoT_zvsvsi + https://javachallengers.com/the-top-long-lasting-java-books-that-every-java-developer-should-read
 
-### Boot 
+### Boot
 
 - [Discord Bot using Java Discord API (JDA) | Anson the Developer](https://www.youtube.com/playlist?list=PL_cUvD4qzbkx5unMamPcd5AzRGFgGTgGb)
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://devtut.github.io/java
 - https://jenkov.com/tutorials/java/index.html
@@ -50,13 +49,13 @@
 - https://passthesalt.ubicast.tv/videos/finding-java-deserialization-gadgets-with-codeql
 - [The art of debugging Java apps | Laur Spilca](https://www.youtube.com/playlist?list=PLEocw3gLFc8VnqVumlrVtj3F0H54JJmM5)
 - [Object Oriented Analysis and Design 2016 | Tobias Olsson](https://www.youtube.com/playlist?list=PLoPbi7xxqaPhokOQWuAH9Dystu0PxPsqc)
-- https://github.com/sormuras/awesome-java-module-system 
+- https://github.com/sormuras/awesome-java-module-system
 - [Nicolai Parlog](https://www.youtube.com/c/nipafx/playlists) + https://slides.nipafx.dev/expert-java-8
 - https://www.youtube.com/c/JakobJenkov/playlists
 - [Learn Java Programming (version 17)](https://www.freecodecamp.org/news/learn-java-programming)
 - [Build Talking Apps for Alexa | Craig Walls](https://www.youtube.com/playlist?list=PL5zhdK_QOhVEvt_Zvi3zFCGdu4Xe7e0xO) + https://pragprog.com/titles/cwalexa/build-talking-apps-for-alexa
 
-### Community 
+### Community
 
 - https://twitter.com/CodesOtto/status/1559482556092907521
 - https://twitter.com/RafaDelNero/status/1571270159976828930
@@ -65,7 +64,7 @@
 - https://twitter.com/RafaDelNero/status/1415385778184761347
 - https://github.com/StreamOfJava/streamofjava.github.io
 
-### Compiler 
+### Compiler
 
 - https://github.com/KpLi0rn/LearnCompiler/tree/main/JavaCompiler
 
@@ -104,7 +103,6 @@
 - https://github.com/kdn251/interviews
 - [Java Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/javaDataStructures)
 
-
 ### Development
 
 - https://github.com/ThomasVitale/devtalks-2022-serverless-java + https://speakerdeck.com/thomasvitale/serverless-java-with-spring-boot
@@ -125,6 +123,7 @@
 - https://leanpub.com/gettingtoknowIntelliJIDEA
 - https://github.com/4ra1n/jar-analyzer
 - https://github.com/stars/SummerSec/lists/java-tools
+- [A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)](https://github.com/Konloch/bytecode-viewer)
 
 ### Security
 
@@ -165,7 +164,6 @@
 - https://perlun.eu.org/en/2019/04/05/java-for-csharp-programmers
 - https://www.javaguides.net/2020/09/tips-to-become-good-java-developer.html
 
-
 ### Optimizations
 
 - https://twitter.com/psobot/status/1204887283666685954
@@ -175,5 +173,3 @@
 
 - [Test Automation Made Simple](https://github.com/karatelabs/karate)
 - https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
-
-

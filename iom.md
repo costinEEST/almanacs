@@ -45,7 +45,7 @@
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUfiNFwggn-4POpQdwkBTetA
 - https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies
 - [Decentralization: DeFi, DID, DEX and more (aantonop)](https://www.youtube.com/playlist?list=PLPQwGV1aLnTsWvo0ieJLN-UINWUjr10a7)
-- [Cryptocurrency ~  EEVblog2](https://www.youtube.com/playlist?list=PL24OiKqd2iN-OmtJC-r71geFQggMFXTFp)
+- [Cryptocurrency ~ EEVblog2](https://www.youtube.com/playlist?list=PL24OiKqd2iN-OmtJC-r71geFQggMFXTFp)
 - [Digital Currency | thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCB3bm4ZuFAm4eADj0VMy_D)
 - [Blockchain Course | Arthur Gervais](https://www.youtube.com/playlist?list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
 - [Blockchain Security | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22gfyqgXMuYyWVSFklxHSzk)
@@ -76,7 +76,7 @@
 - https://twitter.com/officer_cia
 - https://github.com/FrancescoXX/free-Web3-resources
 
-### DApps 
+### DApps
 
 - [Less-techy: What is Web 3.0?](http://gavwood.com/web3lt.html)
 - [ĐApps: What Web 3.0 Looks Like](http://gavwood.com/dappsweb3.html)
@@ -167,7 +167,6 @@
 - https://github.com/atkinsonholly/Drizzle-tutorial-with-React-Hooks
 - [Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier](https://github.com/paulrberg/solidity-template)
 - [An alternative to ethers & web3 that's 20x smaller](https://github.com/Earnifi/essential-eth)
-
 
 ### Bitcoin
 
@@ -274,7 +273,7 @@
 - [Educational sandbox for building on web3. Visually understand how Ethereum works. ~ Austin Griffith](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 - [An Educational Drag-and-Drop Programming For Web3](https://eth.build)
 - https://github.com/monosux/ethereum-block-by-date
-- [What are the best live contracts  that a new solidity dev should be learning from?](https://twitter.com/musatheredguard/status/1340344406260535296)
+- [What are the best live contracts that a new solidity dev should be learning from?](https://twitter.com/musatheredguard/status/1340344406260535296)
 - https://twitter.com/0xDexter0us/status/1348334269161115650
 - [Any good ways to decrypt in solidity?](https://twitter.com/DennisonBertram/status/1371619906920325121)
 - https://github.com/raineorshine/solidity-by-example
@@ -283,6 +282,7 @@
 - https://twitter.com/jsjoeio/status/1427287794699759622
 - [Use GodMode to get full control of any Ethereum contract or account](https://github.com/xGodMode/godmode)
 - https://github.com/OpenCoreCH/smart-contract-auditing-heuristics
+- [Fuzzing Workshop with Echidna | trailofbits](https://www.youtube.com/playlist?list=PLciHOL_J7Iwqdja9UH4ZzE8dP1IxtsBXI)
 
 ### Eos
 
@@ -329,7 +329,6 @@
 - https://podcast.chaincode.com
 - [Sean O’Connor: How Blockchains Make Transactions Costless, and How that Transforms Society](https://twitter.com/EricJorgenson/status/1437786584896655372)
 
-
 ### Security
 
 - [A blockchain-based DNS + HTTP server that fixes HTTPS security, and more!](https://github.com/okTurtles/dnschain)
@@ -348,7 +347,7 @@
 - https://www.theblockcrypto.com/linked/89843/2017-parity-wallet-hacker-begins-moving-eth
 - [Tineola: Taking a Bite Out of Enterprise Blockchain](https://github.com/tineola/tineola)
 - https://ronan.eth.link/blog/ethereum-gas-dangers
-- [*Always* use a strong password for your MetaMask software wallet.](https://twitter.com/miguelmotah/status/1369091946354929669)
+- [_Always_ use a strong password for your MetaMask software wallet.](https://twitter.com/miguelmotah/status/1369091946354929669)
 - https://rya.nc/forensic-bitcoin-cracking.html
 - https://github.com/ConsenSys/blockchainSecurityDB
 - https://github.com/fergarrui/ethereum-security

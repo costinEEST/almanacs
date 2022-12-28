@@ -36,7 +36,6 @@
 - https://github.com/shftco/rails-api-boilerplate
 - https://github.com/alexrudall/ruby-openai
 
-
 ### Algorithm
 
 - https://github.com/kanwei/algorithms
@@ -44,7 +43,6 @@
 - https://github.com/brianstorti/ruby-graph-algorithms
 - https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby
 - [Ruby Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/rubyDataStructures)
-
 
 ### Book
 
@@ -110,7 +108,7 @@
 - https://github.com/davidgf/design-patterns-in-ruby
 - https://github.com/stars/davidteren/lists/templates
 
-### Bot 
+### Bot
 
 - [A bot that tweets every time there's a new executive order published](https://github.com/jessicard/exec_orders)
 
@@ -215,7 +213,7 @@
 - https://github.com/Yegorov/awesome-ruby-blogs
 - Chris Seaton: https://twitter.com/flavorjones/status/1600436490885947393, https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html, https://dev.to/baweaver/to-be-known-for-our-kindness-2p4a, https://blog.testdouble.com/posts/2022-12-07-the-best-kind-of-brilliant, https://gist.github.com/eregon/67b63257f296d1f5e605777a9ad661dd
 
-### Compiler 
+### Compiler
 
 - https://www.thomascountz.com/2019/09/08/entry-level-compiler
 
@@ -465,7 +463,6 @@
 - secrets.spektrhq.com: https://twitter.com/GregMolnar/status/1563870886293372928, https://github.com/spektrhq/secrets
 - [fastest way to create large JSON in a Rails project?](https://twitter.com/wolax/status/1566786694489247745)
 
-
 ### Testing
 
 - [My favorite books on Ruby/Rails testing](https://twitter.com/fpsvogel/status/1552294842318966789)
@@ -506,7 +503,7 @@
 - https://leanpub.com/fastfeedbackusingruby + https://github.com/s2k/fastfeedbackusingruby_workshop
 - [Sorting pictures in folders based on the date in the EXIF metadata](https://github.com/christianbaumann/sort_photos)
 - https://github.com/christianbaumann/bdd-ruby
-- https://testautomationu.applitools.com/learningpaths.html?id=web-ui-ruby-path 
+- https://testautomationu.applitools.com/learningpaths.html?id=web-ui-ruby-path
 
 ### Radio
 
@@ -529,9 +526,13 @@
 - https://bogdanvlviv.com/posts/ruby/rails/samesite-cookies-and-rails.html
 - https://github.com/0xedward/awesome-rails-security
 - https://bishopfox.com/blog/ruby-vulnerabilities-exploits
-- https://github.com/raesene/TestingScripts + https://www.mccune.org.uk/content/talks/2013-01-16-pentest-automation/ + https://www.youtube.com/playlist?list=PLKDRii1YwXnKG5PiY9zx3g5dJ2zOTJ4Al 
+- https://github.com/raesene/TestingScripts + https://www.mccune.org.uk/content/talks/2013-01-16-pentest-automation/ + https://www.youtube.com/playlist?list=PLKDRii1YwXnKG5PiY9zx3g5dJ2zOTJ4Al
 - https://hackerone.com/reports/1609965
 - [Who Controls the Controllers — Hacking Crestron IoT Automation Systems](https://github.com/headlesszeke/defcon26-materials)
+
+### Server
+
+- [Ruby, Ractor, QUIC](https://rubykaigi.org/2021-takeout/presentations/yu_suke1994.html)
 
 ### Scrapping
 

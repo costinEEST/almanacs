@@ -153,6 +153,7 @@
 - https://github.com/ShubhamTatvamasi/kubernetes-practice-tests
 - https://github.com/bmuschko/ckad-crash-course
 - https://github.com/bmuschko/cka-crash-course
+- https://github.com/krzko/awesome-cka
 
 ### Server
 
