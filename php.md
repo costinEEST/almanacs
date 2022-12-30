@@ -104,6 +104,7 @@
 - [find basic rXSS in PHP with grep and RegEx](https://twitter.com/Bugcrowd/status/1520253611795755008)
 - https://github.com/bartblaze/PHP-backdoors
 - https://github.com/wupco/PHP_INCLUDE_TO_SHELL_CHAR_DICT
+- [loading PHP extensions from memory](https://adepts.of0x.cc/dlopen-from-memory-php)
 
 ### Miscellaneous
 

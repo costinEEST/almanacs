@@ -82,6 +82,7 @@
 - [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course)
 - https://www.harihareswara.net/posts/2022/an-intro-to-rust-course
 - https://devforum.ro/t/cursuri-de-rust/18363
+- https://www.udemy.com/course/ultimate-rust-crash-course + https://www.udemy.com/course/ultimate-rust-2
 
 ### Compiler
 

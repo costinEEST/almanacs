@@ -161,6 +161,7 @@
 - https://danielmiessler.com/blog/ideas-changes-expect-post-chatgpt
 - https://tldrsec.com/blog/tldr-sec-161/#chatgpt
 - https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks
+- https://lspace.swyx.io/p/reverse-prompt-eng
 - https://github.com/danielgross/whatsapp-gpt
 - [ChatGPT for Mac, living in your menubar](https://github.com/vincelwt/chatgpt-mac)
 - [Twilio GPT SMS Chat Bot](https://github.com/promptable/twilio-gpt-sms)

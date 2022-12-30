@@ -74,6 +74,7 @@
 - http://www.saminiir.com/openvpn-puts-packets-inside-your-packets
 - https://github.com/adityatelange/node-pcap-parser
 - [the 5-in-1 network admin's cable: ethernet / crossover / modem / null modem / Cisco console](http://www.ossmann.com/5-in-1.html)
+- https://blog.kanbach.org/post/how-to-permanently-change-a-mac-address-using-ethtool
 
 ### The Open Systems Interconnection model (OSI)
 
@@ -461,3 +462,4 @@
 - https://xeiaso.net/talks/irc-why-it-failed-2018-05-17
 - https://blog.yossarian.net/2015/05/08/The-Death-of-IRC
 - https://www.n00py.io/2019/06/understanding-unc-paths-smb-and-webdav
+- https://blog.kanbach.org/post/firewalls-under-the-hood-ufw
