@@ -63,6 +63,7 @@
 - [A tool for exploring Firebase datastores](https://github.com/iosiro/baserunner)
 - https://github.com/zsolt-dev/backup-mysql-to-gcp-storage
 - [Use SQL to instantly query your cloud services (AWS, Azure, GCP and more)](https://github.com/turbot/steampipe)
+- [If you work with SQL Server, dbatools is a lifesaver](https://www.manning.com/books/learn-dbatools-in-a-month-of-lunches)
 
 ### Security
 

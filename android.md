@@ -179,6 +179,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - https://github.com/dineshshetty/Android-InsecureBankv2
 - [Static taint analysis platform to scan vulnerabilities](https://github.com/bytedance/appshark)
 - [Reverse engineering an updated NY Waterway app for the Pixel 7](https://betterprogramming.pub/you-must-be-64-bit-to-ride-this-ferry-61ed45c57a93)
+- [Impersonate the Google Play Billing service](https://github.com/Techbrunch/billing-hack)
 
 ### Radio
 

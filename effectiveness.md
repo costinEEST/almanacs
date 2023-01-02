@@ -15,6 +15,7 @@
 - https://twitter.com/z3dster/status/1500608769671245832
 - https://theoradical.ai/research/2010-search-engine-hacking
 - [Is there a pluggable open source file indexer for making my backup files easier to search?](https://twitter.com/captbaritone/status/1545925264433037312)
+- https://securib.ee/beelog/a-better-way-to-use-twitter
 
 ### tmux
 

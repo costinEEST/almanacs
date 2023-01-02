@@ -87,6 +87,10 @@
 - [C Programming in Linux Tutorial | ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
 - [Embedded C Programming Style | Mutex Embedded](https://www.youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh) + https://www.mutex-embedded.com/courses/s2-c1
 
+### Code auditing 
+
+- https://mastodon.social/@mitsuhiko@hachyderm.io/109588062804962627 + https://github.com/getsentry/sentry-native
+
 ### Course 
 
 - [C and the Unix environment for undergraduate non-CSE majors](https://courses.cs.washington.edu/courses/cse374/21wi)

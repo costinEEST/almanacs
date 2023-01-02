@@ -100,6 +100,7 @@
 - https://onezero.medium.com/the-untold-story-of-the-man-that-made-mainstream-encryption-possible-231c749d5005
 - https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html
 - https://github.com/EdOverflow/cryptojourney-content
+- https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords
 
 ### Standard
 

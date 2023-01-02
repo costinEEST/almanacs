@@ -28,6 +28,10 @@
 - https://www.skyatnightmagazine.com/advice/best-binoculars-for-astronomy
 - https://futurism.com/best-binoculars-for-astronomy
 
+### Cheat sheet
+
+- https://www.syfy.com/syfy-wire/happy-new-year-2019-but-what-exactly-is-a-year
+
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUdMbCuYNLrL8_wCnVnEYof1
@@ -119,6 +123,10 @@
 - https://www.esa.int/Science_Exploration/Space_Science/3_December
 - https://stiinta-pentru-toti.blogspot.com/2022/06/astronomia.html
 - https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes
+
+### Mars 
+
+- https://www.planetary.org/articles/mars-calendar
 
 ### Moon 
 

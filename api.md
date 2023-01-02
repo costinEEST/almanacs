@@ -74,6 +74,7 @@
 
 - [GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley](https://youtu.be/l_P6m3JTyp0)
 - [A collection of public Ethereum APIs](https://github.com/prysmaticlabs/ethereumapis)
+- https://stackoverflow.blog/2022/11/28/when-to-use-grpc-vs-graphql
 
 ### Health
 
