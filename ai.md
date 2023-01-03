@@ -171,6 +171,10 @@
 - https://github.com/openai/openai-cookbook
 - https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash
 - https://www.youtube.com/@bakztfuture/videos
+- https://www.youtube.com/watch?v=mh7wzbWAHFE
+- https://github.com/sw33tLie/impressive-chatgpt
+- https://github.com/liady/ChatGPT-pdf
+- [app that can quickly and efficiently detect whether an essay is ChatGPT or human written](https://twitter.com/edward_the6/status/1610067688449007618)
 
 ### Tool
 

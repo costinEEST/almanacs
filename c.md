@@ -95,6 +95,7 @@
 
 - [C and the Unix environment for undergraduate non-CSE majors](https://courses.cs.washington.edu/courses/cse374/21wi)
 - [Unix and C Programming](https://docs.google.com/presentation/d/1V0daPBXxOrxb4Ckrfhodf2QO-6Ag067y8am479oIjB0)
+- https://www.youtube.com/playlist?list=PLHJns8WZXCdvErvhlZXvpVIEKPfmDJt4z
 
 ### Articles
 

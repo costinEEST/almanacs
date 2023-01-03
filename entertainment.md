@@ -178,6 +178,7 @@
 - https://www.fhautism.com/shop/the-outdoor-scientist-the-wonder-of-observing-the-natural-world
 - https://www.udemy.com/course/fostering-creativity-in-children
 - https://github.com/jhuangtw/awesome-lego
+- https://www.goodreads.com/book/show/49848056-home-learning-year-by-year-revised-and-updated
 
 ### Mindfulness
 

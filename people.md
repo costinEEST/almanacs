@@ -15,6 +15,11 @@
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUf5L0Iv0UtsWkaXQGjEUGYa
 
+
+### Albert Einstein
+
+- https://piggsboson.medium.com/3-brilliant-books-loved-by-albert-einstein-24dc6e58cb4
+
 ### Aristotle
 
 - https://fivebooks.com/best-books/aristotle-edith-hall

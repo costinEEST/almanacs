@@ -17,6 +17,7 @@
 - https://eli.thegreenplace.net/2022/book-review-the-future-of-fusion-energy-by-j-parisi-and-j-ball
 - https://www.goodreads.com/review/list/50930981?shelf=environment-to-read
 - https://www.goodreads.com/book/show/5867865-ecological-intelligence
+- https://synergeticpress.com/catalog/agroecology-and-regenerative-agriculture-sustainable-solutions-for-hunger-poverty-and-climate-change
 
 ### Course
 

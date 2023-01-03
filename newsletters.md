@@ -69,7 +69,6 @@
 - [Meșter în mașini | Autocritica.ro](https://us7.campaign-archive.com/home/?u=09d606eba7825d461db3fcdb0&id=4c8cb54482)
 - https://www.thedeeptechrevolution.gridscapital.com
 - [Chris Hladczuk](https://www.getrevue.co/profile/chrishlad#archive)
-- [Prashant Bagga](https://us4.campaign-archive.com/home/?u=f80b1bc87f246a92fee9bfceb&id=8573422726)
 - [Packy McCormick](https://www.notboring.co/archive)
 - [Newsletter pe Legale: Ana-Maria Udriste and Bogdan Ciacli](https://avocatoo.substack.com)
 - [Patents from big tech companies and a wider list of all patents from these companies](https://patentdrop.substack.com/archive)
@@ -189,6 +188,7 @@
 - [Joey Banks](https://substack.com/profile/1093844-joey-banks)
 - [Cristian Barin](https://us7.campaign-archive.com/home/?u=ed30812041efdc37b39d64dff&id=488b456873)
 - [Design+Code](https://us18.campaign-archive.com/home/?u=a35aff53a97607e9f85b40890&id=40f1857778)
+- [Marcin Wichary](https://newsletter.shifthappens.site)
 
 ### Data visualization
 
@@ -370,3 +370,4 @@
 
 - [Alternative Tours](https://us20.campaign-archive.com/home/?u=f1b8e8fc565e4aa7532df290e&id=c269925f5f)
 - [De la sat](https://us7.campaign-archive.com/home/?u=3f14e3915e6bef8a3a4fd6c01&id=02b2b8a2b2)
+- [Zaga zaga](https://us10.campaign-archive.com/home/?u=60d1c6dca3c7ddba681fb30ee&id=0da46b4f28)

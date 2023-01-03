@@ -52,6 +52,7 @@
 - https://github.com/rootkit-io/awesome-malware-development
 - https://github.com/hackclub/some-assembly-required
 - https://github.com/0xroman1/Scuffed_Low_Level_Stash
+- [Assembly for the Intel, 32-bit architecture. NASM is used as the assembler | Josh Stroschein](https://www.youtube.com/playlist?list=PLHJns8WZXCdvESvdr1BRjo4RHiR1Ylhw9)
 
 ### Cinema
 
