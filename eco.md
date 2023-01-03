@@ -18,6 +18,7 @@
 - https://www.goodreads.com/review/list/50930981?shelf=environment-to-read
 - https://www.goodreads.com/book/show/5867865-ecological-intelligence
 - https://synergeticpress.com/catalog/agroecology-and-regenerative-agriculture-sustainable-solutions-for-hunger-poverty-and-climate-change
+- https://inquisitivebiologist.com/2022/12/31/book-review-volt-rush-the-winners-and-losers-in-the-race-to-go-green
 
 ### Course
 

@@ -349,6 +349,7 @@
 - [Matt Swanson](https://boringrails.substack.com/archive)
 - [Prathamesh Sonpatki](https://us20.campaign-archive.com/home/?u=a9a73b1b46397982536615767&id=14b0f9e357)
 - [Ben Greenberg](https://www.getrevue.co/profile/hummusonrails)
+- https://world.hey.com/this.week.in.rails
 
 ### Politics
 

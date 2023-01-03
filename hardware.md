@@ -259,6 +259,7 @@
 - https://github.com/petl/USB-C-cable-tester-C2C-caberQU
 - https://github.com/openhardwaremonitor/openhardwaremonitor
 - [Scots Army Knife for electronics](https://github.com/GlasgowEmbedded/glasgow)
+- https://nelsonslog.wordpress.com/2023/01/03/ups-battery-replacements-by-size
 
 ### History
 
