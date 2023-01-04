@@ -19,6 +19,7 @@
 - [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided) + https://news.ycombinator.com/item?id=25386756
 - https://www.sofiaceli.com/2020/06/05/programming-language-design-and-compilers.html
 - https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf + https://twitter.com/reknih/status/1583777760228495360
+- https://lists.eatonphil.com/compilers-and-interpreters.html
 
 ### Course
 

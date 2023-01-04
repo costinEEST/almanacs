@@ -390,6 +390,7 @@
 
 - https://youtu.be/dOgnQ9SuKYk
 - [Solid, Qwik, React](https://github.com/gdorsi/slides-next-wave-of-javascript-fw)
+- https://github.com/matschik/component-party
 
 ### Qwik.js 
 
@@ -424,6 +425,7 @@
 - [Build, test, send emails with React](https://github.com/sofn-xyz/mailing)
 - [Wrapper for Material Design (Web) Components](https://github.com/rmwc/rmwc)
 - [build dashboards fast](https://github.com/tremorlabs/tremor)
+- [Build and send emails using React](https://github.com/zenorocha/react-email) + https://twitter.com/sebastienlorber/status/1605587761398009859
 
 ### Debugging
 
@@ -474,6 +476,7 @@
 - [React.js Unit Testing and Integration Testing Tutorial | Bruno Antunes](https://www.youtube.com/playlist?list=PLYSZyzpwBEWTBdbfStjqJSGaulqcHoNkT)
 - https://github.com/sapegin/jest-cheat-sheet
 - https://github.com/muratkeremozcan/cypress-react-component-test-examples + https://muratkerem.gitbook.io/cctdd
+- https://github.com/HugoDF/jest-handbook-examples
 
 ### Tool
 

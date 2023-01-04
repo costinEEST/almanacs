@@ -21,6 +21,7 @@
 - http://graysoftinc.com/book-reviews/the-definitive-guide-to-sqlite
 - [Seven Databases in Seven Weeks | Luc Perkins, Eric Redmond, and Jim Wilson](https://7dbs.io)
 - https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1
+- https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development
 
 ### Course
 

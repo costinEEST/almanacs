@@ -15,6 +15,7 @@
 - https://eli.thegreenplace.net/2007/06/30/book-review-the-elements-of-style-by-w-strunk-jr-and-eb-white
 - https://www.goodreads.com/review/list/46952552?shelf=writing
 - https://www.amazon.com/Term-Rewriting-That-Franz-Baader-ebook/dp/B00KILLKT6
+- https://lists.eatonphil.com/book-recommendations.html
 
 ### Cheat sheet
 

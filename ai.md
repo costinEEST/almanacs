@@ -175,6 +175,7 @@
 - https://github.com/sw33tLie/impressive-chatgpt
 - https://github.com/liady/ChatGPT-pdf
 - [app that can quickly and efficiently detect whether an essay is ChatGPT or human written](https://twitter.com/edward_the6/status/1610067688449007618)
+- https://github.com/spinda/react-redux-chatgpt/tree/main/react-redux-chatgpt
 
 ### Tool
 
