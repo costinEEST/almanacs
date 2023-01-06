@@ -192,3 +192,7 @@ curl v2.wttr.in/Bucharest
 - https://blog.postman.com/introducing-30-days-of-postman-coding-challenge
 - [Datacenter / Hosting IP Address API - Find out if an IP address belongs to a hosting provider such as AWS, Azure or Digitalocean](https://github.com/NikolaiT/IP-Address-API)
 - https://css-irl.info/handy-tools-for-mocking-api-requests
+
+### Travel 
+
+- [periodically retrieves award availability from mileage programs](https://seats.aero/about)

@@ -188,6 +188,8 @@
 - [nodejs script that enables continuous conversation with voice recognition and tts speaker responses](https://github.com/DanielTerletzkiy/chat-gtp-assistant)
 - [Export GPTChat responses to an HTML file](https://github.com/mitjafelicijan/gptchat-export-extension)
 - [A browser extension to display ChatGPT response alongside search engine results](https://github.com/wong2/chat-gpt-google-extension)
+- https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt
+- [A chrome extension that uses GPT3 to summarize highlighted text](https://github.com/CristiVlad25/chromeGPT)
 
 ### Tool
 

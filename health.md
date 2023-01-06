@@ -230,6 +230,7 @@
 
 ### Fasting
 
+- https://www.amazon.com/Science-Fine-Art-Fasting-ebook/dp/B07PPB99HR
 - [β-Hydroxybutyrate Prevents Vascular Senescence through hnRNP A1-Mediated Upregulation of Oct4](https://www.sciencedirect.com/science/article/pii/S1097276518306051)
 - https://twitter.com/elavenilee/status/1207653303028289537
 - [Intermittent Fasting: Transformational Technique | Cynthia Thurlow | TEDxGreenville](https://youtu.be/A6Dkt7zyImk)
@@ -419,13 +420,14 @@
 - https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html
 - [Reverse engineering SARS-CoV-2](https://github.com/geohot/corona)
 - https://www.science.org/content/article/crispr-so-popular-even-viruses-may-use-it
+- [Physics of COVID-19 Transmission](https://mitxonline.mit.edu/courses/course-v1:MITxT+10.S95x)
 
 ### Radiation
 
 - https://phibetaiota.net/2020/02/arthur-firstenberg-the-invisible-rainbow-a-history-of-electricity-and-life-radiation-sickness-explains-all-past-and-present-flu-outbreaks-including-wuhan-virus-and-radiation-sickness-on-cruise-shi + https://podcasts.apple.com/gb/podcast/progressive-commentary-hour-invisible-rainbow-being/id453549934?i=1000467436348
 - https://thetruthaboutcancer.com/are-microwaves-safe
 
-### Tools
+### Tool
 
 - [A BitBar plugin that reminds you with sleep hygiene recommendations](https://github.com/edwardqiu/digital-zeitgebers)
 - [Conceptualizing Self-Tracking Tools and Data-Driven Technologies](https://datadrivenyou.com/quantified-self-mind-map)
@@ -450,6 +452,7 @@
 - [Life tracking resources](https://gist.github.com/balupton/3d66217f3351886a0ca9188547b27d5b)
 - [Vax.Codes - Free QR Codes for Covid-19 Test and Vaccine Recipients](https://github.com/open-austin/vax-codes)
 - https://www.devalias.net/devalias/2018/04/07/diy-light-therapy-red-infrared-cold-laser-lllt-blue-uv
+- [Calories counter](https://cronometer.com)
 
 ### Uric acid
 

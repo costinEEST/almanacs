@@ -686,6 +686,7 @@
 - [Find unused files, dependencies and exports in your JS/TS project](https://github.com/webpro/knip)
 - https://renatopozzi.me/articles/your-nextjs-bundle-will-thank-you
 - https://github.com/nimiq/qr-scanner
+- https://www.nullpt.rs/reverse-engineering-tiktok-vm-1
 
 ### Documentation
 

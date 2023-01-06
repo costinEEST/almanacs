@@ -145,6 +145,7 @@
 - https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe
 - [The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)](https://github.com/find-sec-bugs/find-sec-bugs)
 - https://github.com/SummerSec/JavaLearnVulnerability
+- https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html
 
 ### Microservice
 

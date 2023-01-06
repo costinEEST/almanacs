@@ -208,6 +208,10 @@
 - https://kdy1.dev/posts/2022/1/tsc-go + https://twitter.com/kdy1dev/status/1486017661267955713
 - [Sustainability with Rust](https://twitter.com/_rsc/status/1496352325157457922)
 
+### Scrapping 
+
+- [View hidden information in airline reservations](https://github.com/iangcarroll/pnrsh)
+
 ### Security
 
 - https://github.com/trailofbits/not-going-anywhere

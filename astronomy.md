@@ -117,6 +117,7 @@
 - https://www.astrobetter.com/wiki/tiki-index.php?page=Astro+101+Resources
 - https://github.com/howardisaacson/Intro-to-Astro2022
 - [Michael Zingale](https://zingale.github.io/classes.html) + https://github.com/zingale/astro_animations
+- https://www.edx.org/course/introduction-to-aerospace-engineering-astronautics
 
 ### Historic 
 

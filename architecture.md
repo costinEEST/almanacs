@@ -47,6 +47,10 @@
 - [Ohio State: History of Architecture I with Prof. Jacqueline Gargus | CosmoLearning](https://www.youtube.com/playlist?list=PLaLOVNqqD-2HUsGTv_GQ3opJoPPjdM9S6)
 - [Classical architecture school of Notre Dame](https://www.youtube.com/channel/UCj09bn2SMCjtmOv_xgkbchQ/playlists)
 
+### Course 
+
+- https://www.edx.org/course/environmental-technologies-in-buildings
+
 ### Community
 
 - https://github.com/nikitavoloboev/knowledge/blob/main/art/architecture.md

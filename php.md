@@ -105,6 +105,7 @@
 - https://github.com/bartblaze/PHP-backdoors
 - https://github.com/wupco/PHP_INCLUDE_TO_SHELL_CHAR_DICT
 - [loading PHP extensions from memory](https://adepts.of0x.cc/dlopen-from-memory-php)
+- https://blog.includesecurity.com/2016/08/introducing-safeurl-a-set-of-ssrf-protection-libraries
 
 ### Miscellaneous
 

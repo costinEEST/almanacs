@@ -49,6 +49,8 @@
 - [True Positive Weekly](https://aiweekly.substack.com/archive)
 - [Davis Blalock](https://dblalock.substack.com/archive)
 - [Emil Wallner](https://www.emilwallner.com/archive)
+- [Josh Dance](https://mythicalai.substack.com/archive)
+- [Anita Kirkovska](https://anita.beehiiv.com)
 
 ### Book
 
@@ -135,6 +137,7 @@
 - [Istros Books](https://us4.campaign-archive.com/home/?u=33d3c9258f5909052eb60647b&id=4b1e62c805)
 - [Gonçalo Morais](https://www.heroesofcomputer.science)
 - [Timothy Snyder](https://snyder.substack.com/archive)
+- [Socialist History Society](https://us13.campaign-archive.com/home/?u=11ee562272eabf15d59e3d9ad&id=d0961f0fd9)
 
 ### Hardware
 
