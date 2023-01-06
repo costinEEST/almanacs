@@ -151,6 +151,7 @@
 - https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion
 - https://antitypical.com/posts/2021-08-14-sequent-calculus-cheat-sheet
 - [SDF are fun tools for geometry creation](https://winterbloed.be/the-wrong-way-to-use-a-signed-distance-function)
+- https://github.com/E869120/math-algorithm-book
 
 ### Tool 
 

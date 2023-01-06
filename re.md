@@ -79,6 +79,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - https://github.com/stars/schniggie/lists/security-reversing
 - https://danialzahoor.blogspot.com/2022/08/frida-ios-hook-tool-that-helps-you-easy.html
 - https://blog.quarkslab.com/quokka-a-fast-and-accurate-binary-exporter.html
+- [Gepetto is a Python script which uses OpenAI's davinci-003 model to provide meaning to functions decompiled by IDA Pro](https://github.com/JusticeRage/Gepetto)
 
 ### Miscellaneous
 

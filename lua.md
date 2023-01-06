@@ -9,6 +9,7 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/lua.md
 - https://github.com/coodict/lua-in-one-pic
 - https://github.com/leandromoreira/cdn-up-and-running
+- https://github.com/mattmight/advent-of-code-2022
 
 ### Security
 

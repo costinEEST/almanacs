@@ -150,6 +150,11 @@
 
 ### ChatGPT
 
+- https://app.gumroad.com/d/1dff6753fb21e2e05e1e42cee5fefa04
+- https://github.com/topics/chatgpt
+- https://github.com/topics/gpt-3
+- https://github.com/stars/acheong08/lists/awesome-chatgpt
+- https://github.com/humanloop/awesome-chatgpt
 - https://www.youtube.com/@bakztfuture/playlists
 - [Building a Virtual Machine Inside ChatGPT](https://news.ycombinator.com/item?id=33847479) + https://twitter.com/317070/status/1599152176344928256
 - [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
@@ -176,6 +181,13 @@
 - https://github.com/liady/ChatGPT-pdf
 - [app that can quickly and efficiently detect whether an essay is ChatGPT or human written](https://twitter.com/edward_the6/status/1610067688449007618)
 - https://github.com/spinda/react-redux-chatgpt/tree/main/react-redux-chatgpt
+- [automated AI podcast](https://github.com/yacineMTB/scribepod)
+- [Reverse Engineered ChatGPT by OpenAI](https://github.com/acheong08/ChatGPT)
+- [Go CLI to fuels a Telegram bot that lets you interact with ChatGPT](https://github.com/m1guelpf/chatgpt-telegram)
+- [interface of the ChatGPT API using browser automation that bypasses cloudflare detection and recaptchas](https://github.com/LanLan69/easyChatGPT)
+- [nodejs script that enables continuous conversation with voice recognition and tts speaker responses](https://github.com/DanielTerletzkiy/chat-gtp-assistant)
+- [Export GPTChat responses to an HTML file](https://github.com/mitjafelicijan/gptchat-export-extension)
+- [A browser extension to display ChatGPT response alongside search engine results](https://github.com/wong2/chat-gpt-google-extension)
 
 ### Tool
 
