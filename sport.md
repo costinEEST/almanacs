@@ -31,6 +31,10 @@
 
 - https://greatist.com/happiness/intro-to-kayaking
 
+### Martial arts 
+
+- https://www.youtube.com/playlist?list=PLNHP4MR4hlZqaW9MixZ5C2Mx-E1wmbOQI
+
 
 ### Ski
 

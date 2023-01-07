@@ -38,6 +38,7 @@
 
 ### Cheat sheet
 
+- https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer
 - https://github.com/trekhleb/machine-learning-octave
 - https://github.com/AMAI-GmbH/AI-Expert-Roadmap
 - https://twitter.com/binitamshah/status/1312760070183153665
@@ -190,6 +191,9 @@
 - [A browser extension to display ChatGPT response alongside search engine results](https://github.com/wong2/chat-gpt-google-extension)
 - https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt
 - [A chrome extension that uses GPT3 to summarize highlighted text](https://github.com/CristiVlad25/chromeGPT)
+- [promising new AI projects built on NextJS and Vercel](https://twitter.com/steventey/status/1610656840412696578)
+- [semantic search index for any YouTube channel/playlist](https://twitter.com/transitive_bs/status/1611170899952115718) + https://github.com/transitive-bullshit/yt-semantic-search
+- [Chrome extension for saving ChatGPT threads using gpt.best](https://github.com/rileytomasek/gpt-best-chrome)
 
 ### Tool
 

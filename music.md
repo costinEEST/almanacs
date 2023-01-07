@@ -71,6 +71,7 @@
 - https://www.udemy.com/course/curso-basico-de-teoria-musical
 - https://blog.fullmeasure.uk/2020/02/10/ear-training-course
 - https://www.coursera.org/learn/introclassicalmusic#syllabus
+- https://www.freecodecamp.org/news/how-to-produce-music-with-fl-studio
 
 ### Cover
 

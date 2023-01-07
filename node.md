@@ -270,6 +270,10 @@
 - https://newrelic.com/blog/best-practices/nodejs-application-monitoring
 - https://github.com/skirianov/console-m + https://twitter.com/KajetanSw/status/1595717645642473473
 
+### Deno 
+
+- [web framework for Cloudflare Workers, Deno, Bun](https://github.com/honojs/hono)
+
 ### Error
 
 - https://github.com/tjmehta/error-to-json

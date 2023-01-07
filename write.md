@@ -123,3 +123,4 @@
 - https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is
 - https://shkspr.mobi/blog/2022/08/how-to-write-a-cover-letter-for-a-job
 - https://passo.uno/tech-writing-skills-talent-tree
+- [always bet on text](https://graydon.livejournal.com/196162.html)

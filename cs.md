@@ -49,7 +49,6 @@
 ### Book
 
 - https://www.programmingbooks.dev
-- https://computingthehumanexperience.com/books
 - http://www.adamtornhill.com/bookreviews.htm
 - https://github.com/onlurking/the-software-architecture-chronicles
 - https://github.com/97-things/97-things-every-programmer-should-know
@@ -132,6 +131,7 @@
 - https://www.udemy.com/course/pragmatic-system-design + https://www.amazon.com/dp/1736049119
 - https://www.freecodecamp.org/news/systems-design-for-interviews
 - https://github.com/karanpratapsingh/system-design
+- [The documentation for being an Artsy Engineer](https://github.com/artsy/README)
 
 ### Practice
 
@@ -157,7 +157,7 @@
 - [Top UTF-8 Decoders](https://gist.github.com/chadbrewbaker/5ec5fbe06d294da95b15d17b70b4d4a3)
 - https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities + https://twitter.com/rossjanderson/status/1454962928923418626
 
-### History
+### Historic
 
 - https://webdevelopmenthistory.com/index
 - https://shape-of-code.com/tag/history
@@ -173,6 +173,8 @@
 - [A Romp Through Computer History | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3AwXZNxJnhlNCvRTzQvh2R1)
 - https://blog.nelhage.com/post/apollo-bibliography
 - http://www.charlespetzold.com/videos
+- https://github.com/v3ga/computer_history
+- [Illustrating BASIC, a simple programming language](https://archive.org/details/illustratingbasi0000alco)
 
 ### Miscellaneous
 

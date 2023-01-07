@@ -570,6 +570,7 @@
 - [anyone is using Web Components](https://twitter.com/dannymoerkerke/status/1555682991413907456)
 - [customizable emoji picker](https://github.com/missive/emoji-mart)
 - https://lit.how
+- https://github.com/ja0nz/bachelorarbeit
 
 ### Testing
 
@@ -687,6 +688,7 @@
 - https://renatopozzi.me/articles/your-nextjs-bundle-will-thank-you
 - https://github.com/nimiq/qr-scanner
 - https://www.nullpt.rs/reverse-engineering-tiktok-vm-1
+- https://transitivebullsh.it/javascript-dev-tools-in-2022
 
 ### Documentation
 

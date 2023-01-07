@@ -10,7 +10,7 @@
 - [The C Programming Language by Brian Kernighan and Dennis Ritchie](https://twitter.com/oznova_/status/1214971707863101440)
 - https://nostarch.com/Effective_C + [C Experts Panel – Ask us anything about C](https://news.ycombinator.com/item?id=22865357)
 - https://blog.dpc.dev/writing-solid-code-steve-maguire
-- https://modernc.gforge.inria.fr + https://news.ycombinator.com/item?id=24361469 + https://gustedt.wordpress.com/2019/09/18/modern-c-second-edition
+- https://modernc.gforge.inria.fr + https://news.ycombinator.com/item?id=24361469 + https://gustedt.wordpress.com/2019/09/18/modern-c-second-edition + https://gustedt.gitlabpages.inria.fr/modern-c
 - https://github.com/preslavmihaylov/booknotes/tree/master/architecture/clean-architecture
 - [Pointers on C by Kenneth Reek](https://twitter.com/EigenPuff/status/1376223216310444037)
 - [What should a systems/low-level software engineer know?](https://news.ycombinator.com/item?id=18881649)

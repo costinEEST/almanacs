@@ -57,6 +57,7 @@
 - https://0xd4y.com/2022/09/11/Hands-on-AWS-Penetration-Testing-Notes
 - [how to use Terraform to automate your AWS infrastructure](https://youtu.be/7xngnjfIlK4) + https://github.com/mzbat/iac_workshop
 - https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
+- [Building Software Platforms A guide to SaaS transition with AWS | Pablo Bermejo](https://leanpub.com/software-platforms)
 
 ### Azure
 
@@ -129,6 +130,7 @@
 
 ### Platform independent
 
+- https://leanpub.com/cloudstrategy
 - https://blog.lightspin.io/cloud-security-terms
 - [The Cloud Cost Handbook](https://github.com/vantage-sh/handbook)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
@@ -147,3 +149,7 @@
 ### Radio 
 
 - https://www.rework.fm/leaving-the-cloud
+
+### Vercel 
+
+- [How Vercel is Changing the Cloud Game](https://github.com/peibolsang/peibolsang/issues/2)

@@ -164,6 +164,7 @@
 - https://davidhettler.net/blog/go-to-stack-for-web-apps-in-2021
 - https://perlun.eu.org/en/2019/04/05/java-for-csharp-programmers
 - https://www.javaguides.net/2020/09/tips-to-become-good-java-developer.html
+- https://twitter.com/peibolsang/status/1586597925534040066
 
 ### Optimizations
 
