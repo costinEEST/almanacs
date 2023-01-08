@@ -530,6 +530,8 @@
 ### Web Components
 
 - https://www.abeautifulsite.net/posts/a-web-components-primer
+- https://github.com/davatron5000/htmlwithsuperpowers
+- [A curated list of awesome framework-agnostic standalone web components](https://github.com/davatron5000/awesome-standalones)
 - https://jeremenichelli.io/2017/10/the-web-components-experience
 - https://css-tricks.com/building-progress-ring-quickly
 - [A recipe for style preprocessors and Shadow DOM](https://github.com/jeremenichelli/movies-web-components)
@@ -539,7 +541,6 @@
 - [React's Hooks API implemented for web components.](https://github.com/matthewp/haunted)
 - https://github.com/paulirish/lite-youtube-embed
 - https://github.com/luwes/lite-vimeo-embed
-- [A curated list of awesome framework-agnostic standalone web components](https://github.com/davatron5000/awesome-standalones)
 - [Design System Stencil Example.](https://github.com/AJONPLLC/ajonp-stencil-example)
 - [A custom element for a menu that scrolls horizontally or vertically.](https://github.com/stevenvachon/scrolling-menu)
 - [Custom elements](https://twitter.com/aerotwist/status/1183432513739513862)
@@ -689,6 +690,7 @@
 - https://github.com/nimiq/qr-scanner
 - https://www.nullpt.rs/reverse-engineering-tiktok-vm-1
 - https://transitivebullsh.it/javascript-dev-tools-in-2022
+- [A JSON parser, tokenizer, traverser, and printer](https://github.com/humanwhocodes/momoa)
 
 ### Documentation
 

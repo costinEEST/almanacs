@@ -45,6 +45,7 @@
 - [history of design](https://www.youtube.com/playlist?list=PL2jykFOD1AWb7hNucP2fj491MQ594G3Rk)
 - [Michal Malewicz](https://www.youtube.com/c/MalewiczHype/playlists)
 - [Jimmy Huynh, industrial design](https://www.youtube.com/user/YourFavoriteAsianGuy)
+- [Icon speedruns | Marc Edwards](https://www.youtube.com/playlist?list=PLZRDXTOgbMthWhVM54mCiHYrCl_e6oZVb)
 
 ### Course
 

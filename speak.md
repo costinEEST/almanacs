@@ -170,6 +170,7 @@
 - https://github.com/igorbrigadir/twitter-glossary
 - https://github.com/s0/eradicate-exclusive-tech-terminology
 - https://daramiblog.com/how-to-group-irregular-verbs-for-more-efficient-learning
+- https://ancientlanguage.com/old-english
 
 ### Esperanto
 
@@ -196,6 +197,7 @@
 - https://www.amazon.com/Fran%C3%A7ais-par-M%C3%A9thode-Nature-French/dp/1684747775 + https://www.youtube.com/playlist?list=PLf8XN5kNFkhdIS7NMcdUdxibD1UyzNFTP + https://archive.org/details/jensen-arthur-le-francais-par-la-methode-nature + https://www.youtube.com/playlist?list=PLAadwKeAHRjjOTdip627SQIUN4u94pXlV + https://www.youtube.com/playlist?list=PLD0666ZhOzwjPr-8Kn-OUf-Dx3jDyuug9
 - [James H Worman](https://archive.org/search.php?query=creator%3A%22Worman%2C+James+H.+%28James+Henry%29%2C+1835-1930%22)
 - https://www.amazon.com/French-Inside-Out-Worldwide-Development/dp/0415076706
+- https://www.colingorrie.com/articles/guttural-r
 
 ### German
 
@@ -219,6 +221,7 @@
 - https://includejs.dev/notes/learning-greek-01
 - https://twitter.com/Alex_Sideridou/status/1513460385378185224 + https://www.facebook.com/cinqmotsgrecs
 - https://alamot.github.io/categories/languages
+- https://twitter.com/colingorrie/status/1611864508745584640
 
 ### Hungarian
 

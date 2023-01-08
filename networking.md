@@ -144,6 +144,10 @@
 - https://www.facebook.com/dragosr/posts/pfbid0QmoikA7xFE9T5MsmP81ok2sbGoND5YbZ5qtif95Br3wjsiXbHFkHosCgttPuQZwBl + [be your own cellphone carrier](https://twitter.com/dragosr/status/1578452620637003776)
 - https://www.shielder.com/blog/2020/04/notsosmartconfig-broadcasting-wifi-credentials-over-the-air
 
+### Radio-frequency identification (RFID) 
+
+- https://twitter.com/herrmann1001/status/1604548091922767872
+
 ### Software-defined radio (SDR)
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUcS1Rd3toiopH4QsPaLASfJ

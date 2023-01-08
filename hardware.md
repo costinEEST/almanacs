@@ -2,6 +2,7 @@
 
 - [David Shorey](https://www.youtube.com/playlist?list=PLzeAgAPAU5pOuMMNNiVplrI9GwkEuy1Ns)
 - https://github.com/stars/JcMinarro/lists/3d-print
+- https://www.youtube.com/playlist?list=PLC_CdHO9Xx-PSbxGmfoLL5uYCQjzSoWZ_
 
 ### Book
 

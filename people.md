@@ -154,6 +154,7 @@
 ### Elon Musk 
 
 - [Elon Musk takes control of Twitter in $44bn deal](https://www.bbc.com/news/technology-63402338)
+- https://ckarchive.com/b/e5uph7hp2ke9k
 
 ### Herodotus
 

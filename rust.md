@@ -116,6 +116,10 @@
 - https://github.com/dtolnay/case-studies
 - http://cliffle.com/p/dangerust
 
+### Parser 
+
+- https://github.com/Boshen/javascript-parser-in-rust
+
 ### Practice
 
 - https://github.com/wasdk/WebAssemblyStudio

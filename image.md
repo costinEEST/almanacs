@@ -13,6 +13,7 @@
 - https://nuculabs.dev/2022/09/21/how-to-identify-similar-images-using-hashing
 - https://remysharp.com/2022/11/28/automatically-uploading-screenshots-using-my-own-tools
 - https://blog.jim-nielsen.com/2022/netlify-public-folder-part-iv
+- https://pqina.nl/blog/compress-image-before-upload
 
 ### Book 
 

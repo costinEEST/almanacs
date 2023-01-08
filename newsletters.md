@@ -217,6 +217,7 @@
 
 ### Web development
 
+- https://github.com/simevidas/web-dev-feedss
 - [Harry Wolff](https://tinyletter.com/hswolff/archive)
 - [rendezvous with cassidoo](https://buttondown.email/cassidoo/archive)
 - [Stefan Judis](https://www.stefanjudis.com/topics/newsletter)

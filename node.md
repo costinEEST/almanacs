@@ -1,5 +1,6 @@
 ### Authentication
 
+- [A passkey is a new way to sign in that works completely without passwords](https://www.passkeys.io) + https://twitter.com/tobi/status/1604846815060250626
 - https://evertpot.com/jwt-is-a-bad-default
 - https://evertpot.com/oauth2-javascript-client
 - [Authentication and Authorization on the Web | Nigel Chapman](https://github.com/macavon/Web-Security-Topics-Example-Code)
@@ -687,6 +688,7 @@
 - [Eleventy crash course | Jaydan Urwin](https://www.youtube.com/playlist?list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW)
 - [Converts an express EJS app into a static HTML website](https://github.com/THHamiltonSmith/ejs-static-converter)
 - [Designing Web APIs with Strapi](https://github.com/PacktPublishing/Building-APIs-with-Strapi) + https://twitter.com/abolkog/status/1506467369048502280
+- https://pepelsbey.dev/articles/eleventy-css-js
 
 ### Serverless
 

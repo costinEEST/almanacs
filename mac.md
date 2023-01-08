@@ -10,6 +10,7 @@
 - https://medium.com/fantageek/i-create-an-app-to-tweak-hidden-settings-and-extra-utilities-on-mac-7c022ea24663
 - [What are some good open-source macOS apps you can't live without?](https://twitter.com/onmyway133/status/1488610069717606400)
 - https://nickcolley.co.uk/2022/10/13/voiceover-to-voice-call
+- https://pqina.nl/hotlist
 
 ### Cheat sheet
 

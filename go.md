@@ -54,6 +54,7 @@
 
 ### Community 
 
+- https://twitter.com/notshenetworks/status/1605218422430007296
 - https://t.me/HowToGoWrong
 - https://twitter.com/i/communities/1493637136502960134
 

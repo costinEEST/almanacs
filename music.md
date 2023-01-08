@@ -190,6 +190,8 @@
 - [Hip Hop to da Head](https://www.youtube.com/playlist?list=PL3FF42D99BD0CFC43)
 - https://nashuproar.org/38921/features/hip-hop-club-feature
 - https://www.devalias.net/personal/interests/dance
+- [Lupe Fiasco presents “Rap Theory & Practice: an Introduction”](https://youtu.be/zBHRsYhYb-o)
+- [Talib Kweli & Coast Contra On Apt. 505, Never Freestyle, JID, Ras Kass, Biggie](https://youtu.be/IOzBmJxOI08)
 
 ### News
 
