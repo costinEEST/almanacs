@@ -20,6 +20,7 @@
 - https://astronomyhubcluj.wixsite.com/astro/post/ce-am-citit-%C3%AEn-2020-recomand%C4%83rile-anului-2021
 - [George şi cheia secretă a Universului](https://humanitas.ro/humanitas/carte/george-%C5%9Fi-cheia-secreta-a-universului-0)
 - https://ro.wikipedia.org/wiki/Arheoastronomie#Bibliografie + https://nottinghamtrent.academia.edu/MarcFrincu
+- [The Backyard Astronomer's Guide | Alan Dyer](https://backyardastronomy.com/look-inside) + https://backyardastronomy.com/youtube-channels
 
 ### Binocular 
 

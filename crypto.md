@@ -17,6 +17,7 @@
 - [Given two different implementations of a given algorithm, to what degree is it possible to mechanically prove that both implementations behave identically?](https://twitter.com/alokmenghrajani/status/1558572875455467521)
 - [Cryptography Fundamentals: Elliptic Curve Cryptography](https://twitter.com/SalomonCrypto/status/1580677281474699264)
 - https://github.com/cfrg/draft-irtf-cfrg-hash-to-curve
+- https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html
 
 ### Best practices
 

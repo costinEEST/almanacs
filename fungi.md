@@ -11,6 +11,7 @@
 - https://www.facebook.com/PaulStamets
 - https://en.szegedigombasz.hu/knowhere/mycology-department
 - [Szegedi gombászok](https://www.facebook.com/groups/szegedigombaszok)
+- [Gljivarsko društvo Novi Sad](https://www.facebook.com/groups/115205338531605)
 
 
 ### Miscellaneous

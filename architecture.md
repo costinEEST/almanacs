@@ -56,7 +56,7 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/art/architecture.md
 - https://twitter.com/SpaceLiminalBot
 - [Castles In The World](https://www.facebook.com/groups/757973654932504)
-
+- https://www.facebook.com/groups/arhitecturatraditionalaromaneasca
 
 ### Opinion
 
