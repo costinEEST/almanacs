@@ -93,6 +93,7 @@
 - [Rancher Desktop](https://iximiuz.ck.page/posts/container-tools-tips-and-tricks-issue-3)
 - https://7ms.us/7ms-229-intro-to-docker-for-pentesters
 - [find out which veth interface on the host corresponds to the eth0 interface of a container](https://github.com/cslev/find_veth_docker)
+- [options for doing development on Windows](https://blog.ionelmc.ro/2023/01/09/old-fashioned-setup)
 
 ### Kubernetes (k8s)
 

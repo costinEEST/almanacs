@@ -27,6 +27,7 @@
 - https://indieweb.org/site-deaths
 - [Sumana Harihareswara](https://www.harihareswara.net/texts/talks)
 - https://github.com/ossf/security-reviews
+- https://nolanlawson.com/2023/01/09/retiring-pinafore
 
 ### Tool
 

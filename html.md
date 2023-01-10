@@ -77,6 +77,7 @@
 ### <a></a>
 
 - https://www.maxkohler.com/posts/calendar-links
+- https://danburzo.ro/canonical-sharing
 
 ### <address></address>
 

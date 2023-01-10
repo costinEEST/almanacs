@@ -64,7 +64,7 @@
 - [Reading the book Modern Front-End Development for Rails (Turbo, Stimulus and React)](https://github.com/pmatsinopoulos/reading_modern_front_end_dev_for_rails)
 - https://github.com/cbdileo/cleanruby
 - https://github.com/mrrusof/the-book-of-problems
-- https://github.com/taq/conhecendo-ruby-files
+- https://github.com/taq/conhecendo-ruby-files + https://leanpub.com/conhecendo-ruby
 - https://github.com/yagosansz/master_ruby_web_apis
 - [Systems programming](https://workingwithruby.com/downloads)
 - [Mastering Ruby Closures by Benjamin Tan Wei Hao](https://www.oreilly.com/library/view/mastering-ruby-closures/9781680502909)
