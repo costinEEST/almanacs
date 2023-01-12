@@ -18,8 +18,7 @@
 
 ### .md
 
-- [Preview GitHub README.md files locally before committing them](https://github.com/joeyespo/grip)
-- https://github.com/mundimark
+- [`text/markdown`](/markdown.md)
 
 ### .pdf
 

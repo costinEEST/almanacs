@@ -315,6 +315,10 @@ javascript: (() =>
 - [Separate Firefox Dark UI theme from website dark mode](https://twitter.com/darek_kay/status/1468171089796911109)
 - https://github.com/MrOtherGuy/firefox-csshacks
 
+### Geolocation API
+
+- https://daniel.fone.net.nz/blog/2020/09/14/geolocation-api-demo
+
 ### Historic
 
 - https://webinista.com/updates/flash-end-of-life + https://twitter.com/mattmay/status/1344728355912880129 + http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive

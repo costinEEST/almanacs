@@ -195,6 +195,7 @@
 - [semantic search index for any YouTube channel/playlist](https://twitter.com/transitive_bs/status/1611170899952115718) + https://github.com/transitive-bullshit/yt-semantic-search
 - [Chrome extension for saving ChatGPT threads using gpt.best](https://github.com/rileytomasek/gpt-best-chrome)
 
+
 ### Tool
 
 - [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)
@@ -216,6 +217,7 @@
 
 ### Neural network
 
+- https://twitter.com/karpathy/status/1613578749509013504 + https://karpathy.ai/zero-to-hero.html + [The simplest, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT)
 - https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
 - https://github.com/amzn/computer-vision-basics-in-microsoft-excel
 - https://github.com/AgaMiko/bird-recognition-review

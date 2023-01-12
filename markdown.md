@@ -17,10 +17,12 @@
 
 - [embedmd: embed code into markdown and keep everything in sync.](https://github.com/campoy/embedmd)
 - https://begriffs.com/posts/2020-07-16-generating-mime-email.html + https://github.com/begriffs/mimedown
-- [A PHP tool that helps you write eBooks in markdown and convert to PDF.](https://github.com/themsaid/ibis)
+- [A PHP tool that helps you write eBooks in markdown and convert to PDF](https://github.com/themsaid/ibis)
 - [Fusuma makes slides with Markdown easily.](https://github.com/hiroppy/fusuma)
 - [Convert a single markdown file into lectures, slides, and outlines.](https://github.com/bmschmidt/MarkdownLectures)
 - https://github.com/raineorshine/karabiner-config-to-markdown
 - https://github.com/textlint/markdown-to-ast
 - [Create Slideshows with Markdown](https://mark.show) + https://news.ycombinator.com/item?id=26931098
 - https://github.com/fand/mdmt
+- [Preview GitHub README.md files locally before committing them](https://github.com/joeyespo/grip)
+- https://github.com/mundimark

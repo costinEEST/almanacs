@@ -187,6 +187,7 @@
 - [Testing TLS/SSL encryption anywhere on any port](https://github.com/drwetter/testssl.sh)
 - [CIRCL hash lookup is a public API to lookup hash values against known database of files.](https://gist.github.com/adulau/4191d44e30fc01df38f1d5fe605fa920)
 - https://github.com/Deadlyelder/Tools-for-Cryptanalysis
+- [Real-time, Encrypted Secret Sharing](https://github.com/danielfone/private-passage)
 
 ### Opinion
 

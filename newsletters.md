@@ -131,6 +131,7 @@
 - [BioDojo](https://thebiodojo.substack.com/archive)
 - [The ODIN](https://us14.campaign-archive.com/home/?u=cc0fafea28551627b92bbc168&id=fac116480b)
 - [Razib Khan](https://razib.substack.com/archive)
+- [Cornell Lab of Ornithology](https://us2.campaign-archive.com/home/?u=b35ddb671faf4a16c0ce32406&id=47588b5758)
 
 ### History
 
@@ -169,6 +170,7 @@
 - https://www.getrevue.co/profile/useWeb3
 - https://a16zcrypto.substack.com/archive
 - [The Good Time Show](https://us2.campaign-archive.com/home/?u=2d6f741a3763b55897a787bd1&id=4c2dfd6761)
+- https://newsletter.blockthreat.io/archive
 
 ### Investing
 

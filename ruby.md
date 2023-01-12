@@ -543,6 +543,7 @@
 - https://github.com/juliensobrier/google-safe-browsing-lookup-ruby
 - https://blinry.org/how-to-blog-with-nanoc
 - https://github.com/egiurleo/advent_of_code_cli
+- [modern web scraping framework](https://github.com/glaucocustodio/tanakai)
 
 ### Static generator
 

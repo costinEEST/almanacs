@@ -41,6 +41,10 @@
 - https://nanochess.org/chess4.html
 - https://theconversation.com/an-ai-named-cicero-can-beat-humans-in-diplomacy-a-complex-alliance-building-game-heres-why-thats-a-big-deal-195208 
 - [Port of the 550 point adventure game to the web](https://github.com/mmastrac/adventure)
+- [Turing Complete shows how logic gates build up into useful pieces of a circuit or processor](https://turingcomplete.game)
+- [TIS-100 on how assembly works](https://www.zachtronics.com/tis-100)
+- [Last Call BBS has a mini game where you're making logic gates using metal, N/P type silicon, and vias](https://www.zachtronics.com/last-call-bbs)
+- [The Human Resource Machine is about how processors work](https://tomorrowcorporation.com/humanresourcemachine)
 
 ### Mobile based
 
@@ -51,7 +55,7 @@
 
 ### Desktop based
 
-- [Shenzhen I/O is a puzzle game that teaches how to build circuits and write assembly code based on provided elements.](http://www.zachtronics.com/shenzhen-io) + [Shenzhen I/O | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
+- [Shenzhen I/O is a puzzle game that teaches how to build circuits and write assembly code based on provided elements](http://www.zachtronics.com/shenzhen-io) + [Shenzhen I/O | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
 - [Flappy bird in JS using Raylib](https://github.com/arthurmassanes/flappy)
 
 

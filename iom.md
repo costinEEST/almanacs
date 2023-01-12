@@ -188,6 +188,7 @@
 - [how mining works](https://timechaindemo.io) + https://twitter.com/in3rsha/status/1473632489633632262
 - https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
 - https://github.com/bitcoinbook/bitcoinbook
+- [Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes](https://github.com/karpathy/cryptos)
 
 ### Solana
 

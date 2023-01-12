@@ -21,6 +21,7 @@
 - [George şi cheia secretă a Universului](https://humanitas.ro/humanitas/carte/george-%C5%9Fi-cheia-secreta-a-universului-0)
 - https://ro.wikipedia.org/wiki/Arheoastronomie#Bibliografie + https://nottinghamtrent.academia.edu/MarcFrincu
 - [The Backyard Astronomer's Guide | Alan Dyer](https://backyardastronomy.com/look-inside) + https://backyardastronomy.com/youtube-channels
+- [Space Exploration by Quarto](https://www.humblebundle.com/downloads?key=NvwuY8cr4H85ZN35)
 
 ### Binocular 
 
