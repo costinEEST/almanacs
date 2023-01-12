@@ -1,5 +1,6 @@
 ### Book
 
+- [Cybersecurity Ops with Bash: Attack, Defend, and Analyze from the Command Line](https://github.com/cybersecurityops/cyber-ops-with-bash)
 - https://legacy.gitbook.com/book/learnbyexample/command-line-text-processing/details
 - [An example driven introduction to bioinformatics using shell scripting by Francisco M. Couto](http://labs.rd.ciencias.ulisboa.pt/book)
 - https://github.com/bobbyiliev/introduction-to-bash-scripting

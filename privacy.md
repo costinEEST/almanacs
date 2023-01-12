@@ -98,6 +98,7 @@
 - https://github.com/dessalines/essays/blob/master/why_not_signal.md#simplex
 - https://tryingtobeawesome.com/signalwire
 - [JavaScript code of many commercial bot detectors/fingerprinting services and string deobfuscators for them if applicable](https://github.com/chris124567/commercial-bot-detectors)
+- [Resources around owning your data 100%](https://github.com/0dataapp/awesome-0data)
 
 ### Techniques
 
