@@ -21,7 +21,7 @@
 
 - https://en.wikipedia.org/wiki/Jean_Piaget
 - https://www.zerosuicidealliance.com/training
-
+- https://www.voxa.ro/list/recomandari/raftul-lui-ga-spa-r-gyo-rgy
 
 ### LGBT
 

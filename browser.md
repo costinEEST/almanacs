@@ -557,6 +557,7 @@ javascript: (() =>
 - https://blog.webpagetest.org/posts/test-your-spa
 - https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript
 - [SingleFile was really slow on pages with large stylesheets, especially in Firefox](https://twitter.com/check_ca/status/1583927164956995585)
+- [effective ways to improve Core Web Vitals performance in 2023](https://web.dev/top-cwv-2023)
 
 ### Miscellaneous
 

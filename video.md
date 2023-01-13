@@ -74,6 +74,7 @@
 - https://diablohorn.com/2022/11/25/obs-presentation-slides-side-by-side
 - https://ramonh.dev/2021/05/11/pre-recording-talks
 - [YouTube archiving made simple](https://github.com/Owez/yark)
+- [The web-based motion graphics editor for everyone](https://github.com/alyssaxuu/motionity)
 
 ### Opinion
 

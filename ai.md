@@ -194,6 +194,7 @@
 - [promising new AI projects built on NextJS and Vercel](https://twitter.com/steventey/status/1610656840412696578)
 - [semantic search index for any YouTube channel/playlist](https://twitter.com/transitive_bs/status/1611170899952115718) + https://github.com/transitive-bullshit/yt-semantic-search
 - [Chrome extension for saving ChatGPT threads using gpt.best](https://github.com/rileytomasek/gpt-best-chrome)
+- https://github.com/rileytomasek/openai-fetch
 
 
 ### Tool
@@ -214,6 +215,7 @@
 - https://github.com/stars/yamalight/lists/machine-learning-things
 - [Links Detector makes printed links clickable via your smartphone camera](https://github.com/trekhleb/links-detector)
 - [Tools to help efficiently generate images](https://infosec.exchange/@cyb_detective/109565509213634913)
+- [Train a computer to recognize your own images, sounds, & poses](https://teachablemachine.withgoogle.com)
 
 ### Neural network
 
