@@ -45,6 +45,10 @@
 - https://github.com/hack-different/apple-formats
 - https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon
 
+### Historic 
+
+- [Information from the early Apple era](https://vintageapple.org)
+
 ### Tool
 
 - https://github.com/vendasta/setup-new-computer-script
@@ -88,6 +92,7 @@
 - https://harry.dev/posts/my-dev-environment
 - https://davidwalsh.name/get-default-app
 - [setup script for front-end development](https://github.com/minamarkham/formation)
+- [Mac U.S. keyboard layout with German Umlauts](https://github.com/patrick-zippenfenig/us-with-german-umlauts)
 
 ### Security
 

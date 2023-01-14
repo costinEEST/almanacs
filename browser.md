@@ -324,6 +324,8 @@ javascript: (() =>
 - https://webinista.com/updates/flash-end-of-life + https://twitter.com/mattmay/status/1344728355912880129 + http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive
 - [Last publicly available revision of the world's first web browser](https://github.com/cynthia/WorldWideWeb)
 - https://brucelawson.co.uk/2022/ie-rip-or-brb
+- [Comparison of Web Browsers](https://eylenburg.github.io/browser_comparison.htm)
+- [History of Web Browser Engines from 1990 until today](https://eylenburg.github.io/browser_engines.htm)
 
 ### Safari
 
@@ -574,6 +576,7 @@ javascript: (() =>
 - [QR codes art](https://research.swtch.com/qart)
 - https://github.com/dongri/emv-qrcode-doc
 - https://github.com/azu/browser-resources
+
 
 ### Tool
 

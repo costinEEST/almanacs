@@ -381,6 +381,7 @@
 - [new Promise(() => {})](https://twitter.com/antonmedv/status/1534988570955595781)
 - https://github.com/nearform/promises-workshop
 - [fetch with cancellation at timeout using AbortController](https://twitter.com/cmsalvado/status/1135951033979592705)
+- https://github.com/acut3/acut3.github.io/blob/master/_posts/2023-01-03-fetch-diversion.md, https://twitter.com/acut3hack/status/1610387861794324480
 
 ### async await
 
@@ -688,7 +689,7 @@
 - [Find unused files, dependencies and exports in your JS/TS project](https://github.com/webpro/knip)
 - https://renatopozzi.me/articles/your-nextjs-bundle-will-thank-you
 - https://github.com/nimiq/qr-scanner
-- https://www.nullpt.rs/reverse-engineering-tiktok-vm-1
+- https://www.nullpt.rs/reverse-engineering-tiktok-vm-1, https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2
 - https://transitivebullsh.it/javascript-dev-tools-in-2022
 - [A JSON parser, tokenizer, traverser, and printer](https://github.com/humanwhocodes/momoa)
 

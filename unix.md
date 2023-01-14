@@ -30,6 +30,7 @@
 - https://blog.vivekhaldar.com/post/617189040564928512/how-unix-won
 - https://digitalbunker.dev/2020/09/03/understanding-daemons-unix + https://news.ycombinator.com/item?id=24361013
 - https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios
+- https://github.com/gaul/awesome-ld-preload
 
 ### CLI
 
@@ -55,6 +56,9 @@
 - https://ianthehenry.com/posts/how-to-learn-nix
 - https://push.cx/2018/nixos
 - https://ma.ttias.be/syscast/9-linux-vs-bsd
+- [Comparison of Operating Systems](https://eylenburg.github.io/os_comparison.htm)
+- [Operating Systems: Timeline and Family Tree](https://eylenburg.github.io/os_familytree.htm)
+- [Default Desktop Environments for Linux and Unix](https://eylenburg.github.io/de_default.htm)
 
 
 ### Tool

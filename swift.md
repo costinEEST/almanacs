@@ -59,6 +59,7 @@
 - [Recommended resource for learning SwiftUI](https://github.com/onmyway133/blog/issues/862)
 - https://github.com/onmyway133/emoji
 - https://github.com/peterfriese/SwiftUI-Concurrency-Essentials
+- [Find timezones or countries for given coordinates](https://github.com/patrick-zippenfenig/SwiftTimeZoneLookup)
 
 ### Practice
 

@@ -122,6 +122,7 @@
 - https://www.weforum.org/videos/this-3d-map-is-showing-us-the-world-in-a-new-way
 - [Charts with HTML & CSS](https://github.com/ffoodd/chaarts)
 - https://github.com/andreiolariu/strava-roads
+- [Visualize climate change since 1960 for your home town](https://github.com/lutzvdb/climatevisualizer)
 
 ### Miscellaneous
 

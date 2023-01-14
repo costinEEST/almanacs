@@ -266,6 +266,7 @@
 - https://github.com/vstinner/python-security
 - https://github.com/Qazeer/OffensivePythonPipeline
 - https://www.sonarsource.com/blog/10-unknown-security-pitfalls-for-python
+- https://blog.abdulrah33m.com/prototype-pollution-in-python
 
 ### Server
 
@@ -274,6 +275,7 @@
 - [A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.](https://github.com/mirumee/saleor)
 - https://alexanderell.is/posts/wikipedia-over-whatsapp
 - https://lessonsec.com/posts/dev-chronicles-creating-an-http-attack-client
+- https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port
 
 ### Standard library
 
@@ -341,6 +343,7 @@
 - [Open-source Dropbox client for macOS and Linux](https://github.com/samschott/maestral)
 - [open note taking platform that makes it easy to organize your life](https://github.com/levlaz/braindump)
 - [Upload one or more CSV files to a Google Sheets spreadsheet](https://github.com/kevinfarrugia/csv_to_sheets)
+- https://gitlab.com/regrello-public/google-drive-audit
 
 ### Testing
 

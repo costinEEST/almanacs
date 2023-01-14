@@ -1,6 +1,7 @@
 ### Book
 
 - https://www.i-programmer.info/bookreviews/143-security/15036-practical-iot-hacking-no-starch-press.html
+- http://book.roomofthings.com/book
 
 ### Course
 

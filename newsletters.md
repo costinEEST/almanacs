@@ -324,6 +324,7 @@
 - [Archive of all the past hacking related convention material](https://infocon.org/infocon.org-css/infoconorg-cons.rss)
 - [Harsh Bothra](https://www.getrevue.co/profile/harshbothra_#archive)
 - [securibee-infosec.opml](https://gist.github.com/securibee/054d4588e7f4dc892ae603c963558943)
+- [Andrew Ayer](https://buttondown.email/agwa)
 
 ### Tool
 
@@ -356,6 +357,7 @@
 - [Prathamesh Sonpatki](https://us20.campaign-archive.com/home/?u=a9a73b1b46397982536615767&id=14b0f9e357)
 - [Ben Greenberg](https://www.getrevue.co/profile/hummusonrails)
 - https://world.hey.com/this.week.in.rails
+- [Noel Rappin](https://buttondown.email/noelrap/archive)
 
 ### Politics
 

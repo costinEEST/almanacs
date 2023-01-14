@@ -159,6 +159,7 @@
 - https://www.youtube.com/@bakztfuture/playlists
 - [Building a Virtual Machine Inside ChatGPT](https://news.ycombinator.com/item?id=33847479) + https://twitter.com/317070/status/1599152176344928256
 - [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
+- https://github.com/stars/FanaHOVA/lists/llm-chaining
 - https://codewithandrea.com/articles/dart-flutter-chatgpt
 - https://slate.com/technology/2022/12/chatgpt-openai-artificial-intelligence-chatbot-whoa.html
 - https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot + https://news.ycombinator.com/item?id=33872369
@@ -195,7 +196,9 @@
 - [semantic search index for any YouTube channel/playlist](https://twitter.com/transitive_bs/status/1611170899952115718) + https://github.com/transitive-bullshit/yt-semantic-search
 - [Chrome extension for saving ChatGPT threads using gpt.best](https://github.com/rileytomasek/gpt-best-chrome)
 - https://github.com/rileytomasek/openai-fetch
-
+- https://greylock.com/greymatter/reid-hoffman-chatbots-talking-ai-with-ai
+- https://changelog.com/podcast/519
+- [Drive a browser with GPT-3](https://github.com/nat/natbot)
 
 ### Tool
 

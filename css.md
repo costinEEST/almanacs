@@ -34,6 +34,7 @@
 - https://debuggingcss.com
 - https://leanpub.com/css-optimization-basics + https://github.com/j9t/css-optimization-basics
 - https://www.steveworkman.com/bookshelf
+- https://pragprog.com/titles/tailwind2/modern-css-with-tailwind-second-edition
 
 ### Cinema
 

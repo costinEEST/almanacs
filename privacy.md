@@ -160,6 +160,7 @@
 - https://saligrama.io/blog/post/upgrading-personal-security-evil-maid
 - [Practical Phishing Assessments | Graham Helton](https://www.youtube.com/playlist?list=PLULV3kUpOTddGJ1CJDlLrlMAEoZ0rl4Rc)
 - https://github.com/s3131212/web-tracking-notes
+- https://github.com/apple/password-manager-resources
 
 ### Social media
 

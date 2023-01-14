@@ -365,6 +365,7 @@
 
 ### Next
 
+- [Simple, powerful and flexible site generation framework with everything you love from Next.js](https://github.com/shuding/nextra)
 - https://www.ctnicholas.dev/articles/how-to-use-nextjs-middleware
 - [GPT-3 Powered Serverless App using NextJS & React](https://github.com/harish-garg/nextjs-reactjs-gpt-3)
 - [Send emails to yourself, in the future](https://github.com/Nilomiranda/d-timevault)

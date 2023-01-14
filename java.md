@@ -146,6 +146,7 @@
 - [The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)](https://github.com/find-sec-bugs/find-sec-bugs)
 - https://github.com/SummerSec/JavaLearnVulnerability
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html
+- [Code inspector for web vulnerability scan](https://github.com/4ra1n/code-inspector)
 
 ### Microservice
 

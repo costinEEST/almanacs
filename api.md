@@ -129,6 +129,7 @@ curl v2.wttr.in/Bucharest
 - [Postcode & Geolocation API for the UK](https://github.com/ideal-postcodes/postcodes.io)
 - [Worldwide public holiday](https://github.com/nager/Nager.Date)
 - https://github.com/donma/TaiwanAddressCityAreaRoadChineseEnglishJSON
+- [Free Weather Forecast API for non-commercial use](https://github.com/open-meteo/open-meteo)
 
 ### Shopping
 

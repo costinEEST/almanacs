@@ -101,6 +101,7 @@
 - [A habit tracker app which treats your goals like a Role Playing Game](https://github.com/HabitRPG/habitica)
 - [Games written in Java](https://github.com/stars/dogeared/lists/games)
 - https://github.com/Calinou/awesome-gamedev
+- https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5
 
 ### The creators
 
