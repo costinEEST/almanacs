@@ -460,6 +460,7 @@ javascript: (() =>
 - https://piranna.github.io/2021/04/23/How-to-build-WebRTC-for-Android-in-Ubuntu-21.04
 - https://piranna.github.io/2020/12/30/Types-of-WebRTC-networks
 - [Blender session in the browser over WebRTC](https://twitter.com/paulgb/status/1583460709538492416)
+- [Karl Stolley, author of Programming WebRTC](https://forum.devtalk.com/t/spotlight-karl-stolley-author-interview-and-ama/82817)
 
 ### Canvas
 

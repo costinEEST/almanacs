@@ -178,6 +178,8 @@
 - https://github.com/opsdisk/the_cyber_plumbers_handbook + https://opsdisk.gumroad.com/l/cphlab/blackfriday2021
 - [SSH protocol dissected, part III: publickey auth](https://yurichev.org/SSH3)
 - [A script that checks SSH access given a public key](https://github.com/rushter/blog_code/tree/master/ssh)
+- [Store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
+- https://blog.ledger.com/ssh-with-tpm
 
 ### Tool
 

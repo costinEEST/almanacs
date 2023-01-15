@@ -39,6 +39,7 @@
 ### Cheat sheet
 
 - https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer
+- https://github.com/louisfb01/start-machine-learning + https://www.louisbouchard.ai/learnai
 - https://github.com/trekhleb/machine-learning-octave
 - https://github.com/AMAI-GmbH/AI-Expert-Roadmap
 - https://twitter.com/binitamshah/status/1312760070183153665
@@ -129,6 +130,7 @@
 - https://decision.substack.com/p/full-course-making-friends-with-ml
 - [Beep Boop: Learn AI/ML for free!](https://www.youtube.com/playlist?list=PLZEDsU5Jf868j_oCENz8jonsdTTVp5svv)
 - [Israel Algorithmic Game Theory Seminar](https://sites.google.com/view/iagtseminar)
+- https://github.com/benthecoder/yt-channels-DS-AI-ML-CS
 
 ### Community
 
@@ -147,7 +149,8 @@
 - [Machine Learning & User Experience (MLUX)](https://www.meetup.com/MLUXmeetup)
 - [Heather Knight](http://www.marilynmonrobot.com/about)
 - [David Valdman](https://twitter.com/dmvaldman)
-
+- [Louis-François Bouchard](https://github.com/louisfb01)
+- https://github.com/BAILOOL/DoYouEvenLearn
 
 ### ChatGPT
 
@@ -219,6 +222,7 @@
 - [Links Detector makes printed links clickable via your smartphone camera](https://github.com/trekhleb/links-detector)
 - [Tools to help efficiently generate images](https://infosec.exchange/@cyb_detective/109565509213634913)
 - [Train a computer to recognize your own images, sounds, & poses](https://teachablemachine.withgoogle.com)
+- [Audio transcription models](https://twitter.com/snpranav/status/1606322152793219074)
 
 ### Neural network
 

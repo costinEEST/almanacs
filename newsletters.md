@@ -290,6 +290,7 @@
 - [Szeged Fungus](http://eepurl.com/hruKVT)
 - [Magazin Zero Waste Bucuresti](https://us4.campaign-archive.com/home/?u=69aebee69dafa1967752cc194&id=4ffe7919b3)
 - [Corina Dima](https://us15.campaign-archive.com/home/?u=53026c57b9dbb2042a1695bc1&id=32d8f9cce8)
+- [Jewish Food Society](https://us14.campaign-archive.com/home/?u=d992c82613c2b142e1c5106f7&id=fe5a0fb602)
 
 ### Health
 

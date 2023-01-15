@@ -2,6 +2,7 @@
 
 - https://www.raywenderlich.com/books/kotlin-apprentice
 - https://github.com/andygrove/how-query-engines-work
+- https://pragprog.com/titles/uboop/from-objects-to-functions
 
 ### Cinema
 

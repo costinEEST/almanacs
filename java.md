@@ -37,6 +37,7 @@
 - https://github.com/shekhargulati/java8-the-missing-tutorial
 - https://github.com/doocs/advanced-java
 - https://github.com/Blankj/awesome-java-leetcode
+- https://sookocheff.com/post/java/java-for-the-experienced-beginner
 
 ### Cinema
 

@@ -43,5 +43,6 @@
 - [Neovim and Tmux for JavaScript Development](https://elijahmanor.com/blog/neovim-tmux)
 - https://github.com/LunarVim/Neovim-from-scratch
 - https://github.com/stars/nikolalsvk/lists/vim-goodies
+- https://sookocheff.com/post/vim/neovim-java-ide
 
 

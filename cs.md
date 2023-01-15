@@ -73,6 +73,7 @@
 - https://www.codeflashbacks.com/overlooked-books
 - [Competitive Programmer’s Handbook | Antti Laaksonen](https://cses.fi/book/book.pdf)
 - https://github.com/very-good-science/data-ethics-club
+- [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
 ### Date and Time on the Internet: Timestamps
 

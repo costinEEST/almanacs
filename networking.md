@@ -183,6 +183,8 @@
 - [Radio Astronomy Software Defined Radio](https://github.com/myriadrf/RASDR)
 - [Experimental WebAssembly build of GNU Radio](https://github.com/marcnewlin/gnuradio-web)
 - https://blog.archive.org/2022/11/16/digital-library-of-amateur-radio-communications-surpasses-25000-items
+- [Smart Meter Hacking | RECESSIM](https://www.youtube.com/playlist?list=PLYlhncU2MojDY9gxU36pxNVkiylGGcbwq) + https://wiki.recessim.com/view/Advanced_Metering_Infrastructure
+- https://wiki.recessim.com/view/Amateur_Radio
 
 ### 3G
 
@@ -358,6 +360,18 @@
 ### Jaber
 
 - https://dino.im/blog/2020/01/dino-0.1-release
+
+
+### Network Time Protocol (NTP) 
+
+- https://sookocheff.com/post/time/how-does-ntp-work
+- https://servertest.online/ntp
+- [Top Public Time Servers](https://gist.github.com/mutin-sa/eea1c396b1e610a2da1e5550d94b0453)
+- https://en.wikipedia.org/wiki/Caesium_standard + https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html
+- https://engineering.fb.com/2020/03/18/production-engineering/ntp-service
+- https://www.bodet-time.com/time-servers/articles-and-resources/1757-why-accurate-network-time-synchronization-through-ntp-is-critical.html
+- https://blog.apnic.net/2022/12/09/securing-ntp-against-mitm-attacks
+- https://www.cloudflare.com/learning/ddos/ntp-amplification-ddos-attack
 
 ### Server Sent Events
 

@@ -30,6 +30,7 @@
 
 - [Daniel Duggan](https://www.patreon.com/_RastaMouse)
 - [James Montemagno](https://www.youtube.com/c/JamesMontemagno/playlists)
+- https://www.linkedin.com/posts/milan-jovanovic_here-are-three-books-that-made-me-a-better-activity-7020297617767071744-Z9TN
 
 ### Demo 
 

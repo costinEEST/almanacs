@@ -315,6 +315,7 @@
 - [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://github.com/dijonmusters/e-commerce-in-25-days)
 - https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/javascript/js-libraries/react/nextjs.md
 - https://www.builder.io/blog/hydration-is-pure-overhead
+- http://intertwingly.net/blog/2020/07/22/React-Hooks-as-Middleware
 
 ### Server component
 

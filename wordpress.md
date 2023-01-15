@@ -1,6 +1,7 @@
 ### Alternative
 
 - [Favorite (Headless) CMS and why?](https://twitter.com/jamesqquick/status/1374751439084519429)
+- https://github.com/stars/esplito/lists/content-management
 
 ### Boilerplate
 

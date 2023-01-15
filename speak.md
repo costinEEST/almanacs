@@ -171,6 +171,7 @@
 - https://github.com/s0/eradicate-exclusive-tech-terminology
 - https://daramiblog.com/how-to-group-irregular-verbs-for-more-efficient-learning
 - https://ancientlanguage.com/old-english
+- https://twitter.com/BryanAGarner
 
 ### Esperanto
 
@@ -247,6 +248,7 @@
 - https://www.youtube.com/c/VirtualBrainIT/playlists
 - https://www.amazon.com/Litaliano-secondo-metodo-natura-Italian/dp/168474864X + https://www.youtube.com/playlist?list=PLf8XN5kNFkhfQonvCySTrKEUV742WzshJ + https://archive.org/details/LitalianoSecondoIlMetodoNatura + https://www.youtube.com/playlist?list=PLAadwKeAHRjgMxSpTjzk-mqJtZPKOvGX6
 - [Saper vedere l'architettura | Bruno Zevi](https://vimeo.com/381641305)
+- [Curso de italiano básico (A1) | Italianeando](https://www.youtube.com/playlist?list=PLNdL9GF6UdULd-ePyXG-JRgiOzVnMQe0o)
 
 ### Japanese
 
@@ -428,6 +430,7 @@
 
 - https://dopomoha.ro/ro/expresii-utile
 - https://twitter.com/istoric_Popescu/status/1505853182924238848
+- https://ukrainian-zone.com + https://www.duolingo.com/classroom/yjgdgx
 
 ### Storytelling
 

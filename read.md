@@ -119,3 +119,4 @@
 - [Johnathan Bi](https://johnathanbi.com/book-notes-summaries)
 - [Attila Egri-Nagy](http://www.egri-nagy.hu/reading)
 - [Lev Lazinskiy](https://bookshop.org/shop/levlaz)
+- [Hidde de Vries](https://hidde.blog/books)

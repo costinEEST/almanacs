@@ -195,6 +195,7 @@
 - https://github.com/jchampemont/awesome-lightweights
 - https://asawicki.info/news_1762_hello_world_under_the_microscope_-_new_article_published + https://gynvael.coldwind.pl/?lang=en&id=754
 - https://github.com/DjangoEx/python-engineer-roadmap
+- [Simple speed tests for Python 3.11](https://github.com/dennisbakhuis/python3.11_speedtest)
 
 ### Scraping
 

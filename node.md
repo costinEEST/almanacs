@@ -353,6 +353,10 @@
 
 - https://obensource.com/blogs/https-for-local-development
 
+### `node:url`
+
+- https://www.linkedin.com/posts/erickwendel_nodejs-javascript-webassembly-activity-7018936765344329728-4w1c
+
 ### .mjs
 
 - https://obensource.com/blogs/when-its-time-to-migrate-away-from-commonjs
