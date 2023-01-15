@@ -345,6 +345,7 @@
 - [open note taking platform that makes it easy to organize your life](https://github.com/levlaz/braindump)
 - [Upload one or more CSV files to a Google Sheets spreadsheet](https://github.com/kevinfarrugia/csv_to_sheets)
 - https://gitlab.com/regrello-public/google-drive-audit
+- https://nuculabs.dev/2023/01/15/python-development-in-windows-with-wsl2
 
 ### Testing
 

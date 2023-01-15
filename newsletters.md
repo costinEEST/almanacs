@@ -51,6 +51,7 @@
 - [Emil Wallner](https://www.emilwallner.com/archive)
 - [Josh Dance](https://mythicalai.substack.com/archive)
 - [Anita Kirkovska](https://anita.beehiiv.com)
+- [Louis-François Bouchard](https://us1.campaign-archive.com/home/?u=718cbf5d31c54f8ad6cd39551&id=9481bc612c)
 
 ### Book
 
