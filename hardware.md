@@ -142,6 +142,7 @@
 - [Electronic Locks: Bumping and Other Mischief | Michael Huebler](https://program.mch2022.org/mch2022/talk/KBVXRU) + https://www.youtube.com/playlist?list=PLa9wckl5om1O7xq_yTQ8mooDxtLzqGy4Q
 - [Original Lishi Tools](https://www.youtube.com/channel/UCWBkIQv09counMsKwOMcpvw/playlists)
 - https://www.youtube.com/c/lockpickinglawyer/playlists
+- [KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds](https://github.com/MaximeBeasse/KeyDecoder)
 
 ### PCB
 

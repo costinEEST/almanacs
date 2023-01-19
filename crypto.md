@@ -180,6 +180,7 @@
 - [A script that checks SSH access given a public key](https://github.com/rushter/blog_code/tree/master/ssh)
 - [Store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
 - https://blog.ledger.com/ssh-with-tpm
+- https://blog.stazot.com/ssh-key-injection-google-cloud
 
 ### Tool
 

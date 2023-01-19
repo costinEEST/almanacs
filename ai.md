@@ -202,6 +202,7 @@
 - https://greylock.com/greymatter/reid-hoffman-chatbots-talking-ai-with-ai
 - https://changelog.com/podcast/519
 - [Drive a browser with GPT-3](https://github.com/nat/natbot)
+- https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban
 
 ### Tool
 

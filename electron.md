@@ -2,6 +2,7 @@
 ### Alternative 
 
 - https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt
+- https://github.com/gluon-framework/gluon
 
 
 ### Application
@@ -60,6 +61,7 @@
 - https://github.com/jonmest/How-To-Tamper-With-Any-Electron-Application
 - https://taggart-tech.com/quasar-electron
 - [Leveraging Electron Applications For Post-Exploitation | Ruben Boonen (b33f)](https://github.com/FuzzySecurity/WWHF-WayWest-2022) + https://youtu.be/VXb6lwXhCAc
+- https://goose.icu/discord-0click-xss-to-rce
 
 
 ### Tool

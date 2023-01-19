@@ -173,6 +173,7 @@
 - [Using SQLite as a data source: a framework and an example](https://news.ycombinator.com/item?id=33853509)
 - [offline-first note-taking app on top SQLite](https://twitter.com/quolpr/status/1558848201771319298) + https://github.com/quolpr/harika
 - https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs
+- https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65
 
 ### Graph databases
 
