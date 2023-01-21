@@ -85,6 +85,7 @@
 - https://www.udemy.com/course/java-se-11-certification-exam-1z0-819-practice-tests
 - [Structured Programming | Steve Blackburn](https://comp.anu.edu.au/courses/comp1110)
 - https://github.com/in28minutes/in28Minutes-Course-Roadmap
+- https://www.freecodecamp.org/news/full-stack-development-with-mongodb-java-and-react
 
 ### Best practices
 

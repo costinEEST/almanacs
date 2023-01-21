@@ -172,6 +172,7 @@
 - https://daramiblog.com/how-to-group-irregular-verbs-for-more-efficient-learning
 - https://ancientlanguage.com/old-english
 - https://twitter.com/BryanAGarner
+- https://twitter.com/oanaolt/status/1615045736164646912
 
 ### Esperanto
 

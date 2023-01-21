@@ -56,6 +56,7 @@
 - https://github.com/coodict/javascript-in-one-pic
 - https://github.com/madhank93/js-mindmap
 - [How to Design Programs | Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion)
+- https://www.freecodecamp.org/news/learn-to-code-book
 
 ### Cheat sheet
 

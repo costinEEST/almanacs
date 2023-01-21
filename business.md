@@ -132,6 +132,7 @@
 - https://github.com/pdfernhout/High-Performance-Organizations-Reading-List
 - [The Deadline: A Novel About Project Management | Tom DeMarco](https://www.2uo.de/Books/the-deadline)
 - [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
+- https://plugaru.org/2022/04/30/engineering-management-books
 
 ### Leadership
 
@@ -178,6 +179,7 @@
 - https://vivqu.com/blog/2020/02/16/compensation
 - https://subpixel.space/entries/life-after-lifestyle
 - [Resources about improving inclusiveness and diversity for teams, open-source projects and events ](https://github.com/jamiehannaford/diversity)
+- [A curated list of engineering ladder, path and compensation frameworks](https://github.com/92bondstreet/awesome-engineering-path)
 
 ### Startups
 
@@ -330,6 +332,7 @@
 - https://markmcgranaghan.com/podcasts
 - https://taylorpearson.me/bookreview/origin-of-wealth + https://mutinyfund.com/mutiny-team
 - https://founders.simplecast.com/episodes/262-the-adventures-of-herbie-cohen-worlds-greatest-negotiator
+- https://www.robfitz.com/c/writing/how-to-negotiate-with-people-who-are-better-at-it-than-you
 - https://podcast.oddly-influenced.dev/episodes/david-graeber-s-three-kinds-of-economies
 - https://javascript.plainenglish.io/15-podcasts-to-jumpstart-your-freelancing-career-in-2023-637d70145e1f
 - [10 podcasts that will teach you more about no-code than a 4-year degree](https://twitter.com/nocodeapi/status/1599735441565138944)

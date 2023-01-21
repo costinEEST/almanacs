@@ -16,6 +16,7 @@
 - https://www.goodreads.com/review/list/46952552?shelf=writing
 - https://www.amazon.com/Term-Rewriting-That-Franz-Baader-ebook/dp/B00KILLKT6
 - https://lists.eatonphil.com/book-recommendations.html
+- https://www.goodreads.com/en/book/show/28448362-writing-without-bullshit
 
 ### Cheat sheet
 
@@ -124,3 +125,4 @@
 - https://shkspr.mobi/blog/2022/08/how-to-write-a-cover-letter-for-a-job
 - https://passo.uno/tech-writing-skills-talent-tree
 - [always bet on text](https://graydon.livejournal.com/196162.html)
+- https://plugaru.org/2014/11/26/energy-needed-to-write-an-e-mail

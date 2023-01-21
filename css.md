@@ -52,6 +52,7 @@
 - [CSS Layout from the inside out](https://2021.stateofthebrowser.com/speakers/rachel-andrew)
 - https://codepen.io/rachelandrew/full/2c48047f0816fa9050ec139256a2e8ba + https://www.youtube.com/watch?v=yMEjLBKyvEg
 - https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css
+- https://www.freecodecamp.org/news/learn-tailwind-css
 
 ### Color
 

@@ -4,6 +4,7 @@
 
 ### Book
 
+- https://plugaru.org/2021/03/10/a-thousand-brains
 - [Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook)
 - [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF)
 - https://twitter.com/Miles_Brundage/status/1177999361118277635 + https://twitter.com/jennyhbren/status/1164099257378492416
@@ -154,6 +155,7 @@
 
 ### ChatGPT
 
+- [get familiar with LLMs](https://twitter.com/oanaolt/status/1614697470650638337) + https://stanford-cs324.github.io/winter2022 + https://arxiv.org/abs/2108.07258
 - https://app.gumroad.com/d/1dff6753fb21e2e05e1e42cee5fefa04
 - https://github.com/topics/chatgpt
 - https://github.com/topics/gpt-3
@@ -188,6 +190,7 @@
 - https://github.com/spinda/react-redux-chatgpt/tree/main/react-redux-chatgpt
 - [automated AI podcast](https://github.com/yacineMTB/scribepod)
 - [Reverse Engineered ChatGPT by OpenAI](https://github.com/acheong08/ChatGPT)
+- [Build your own ChatGPT with OpenAI's GPT-3 model apis](https://github.com/machaao/gpt-3-chatbot)
 - [Go CLI to fuels a Telegram bot that lets you interact with ChatGPT](https://github.com/m1guelpf/chatgpt-telegram)
 - [interface of the ChatGPT API using browser automation that bypasses cloudflare detection and recaptchas](https://github.com/LanLan69/easyChatGPT)
 - [nodejs script that enables continuous conversation with voice recognition and tts speaker responses](https://github.com/DanielTerletzkiy/chat-gtp-assistant)
@@ -203,6 +206,11 @@
 - https://changelog.com/podcast/519
 - [Drive a browser with GPT-3](https://github.com/nat/natbot)
 - https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban
+- [Code for the paper: "Large Language Models as Corporate Lobbyists" (2023)](https://github.com/JohnNay/llm-lobbyist)
+- [The most economically impactful use-case for LLMs is not chatbots](https://twitter.com/johnjnay/status/1614663632100691969)
+- https://medium.com/@paul.k.pallaghy/chatgpt-the-hard-part-of-agi-is-now-done-3179d31a7277 + https://twitter.com/irinarish/status/1616435251580108800
+- [Historical analogies for large language models](https://dynomight.net/llms)
+- [Some remarks on Large Language Models | Yoav Goldberg](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9)
 
 ### Tool
 
@@ -227,7 +235,7 @@
 
 ### Neural network
 
-- https://twitter.com/karpathy/status/1613578749509013504 + https://karpathy.ai/zero-to-hero.html + [The simplest, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT)
+- https://twitter.com/karpathy/status/1613578749509013504 + https://karpathy.ai/zero-to-hero.html + [The simplest, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT) + https://twitter.com/mlpowered/status/1615852047311704064
 - https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
 - https://github.com/amzn/computer-vision-basics-in-microsoft-excel
 - https://github.com/AgaMiko/bird-recognition-review
@@ -305,6 +313,7 @@
 
 ### Opinion
 
+- https://plugaru.org/2016/04/24/future-of-humanity-and-strong-AI
 - https://thinkml.ai/top-5-ai-achievements-of-2020
 - https://www.hyro.ai/post/gpt-3-vs-existing-conversational-ai-solutions
 - https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa
