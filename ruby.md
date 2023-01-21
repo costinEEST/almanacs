@@ -5,6 +5,8 @@
 - [Best Gems for authentication and authorization in Ruby on Rails applications](https://twitter.com/raf_piek/status/1502598704334733314)
 - https://github.com/lazaronixon/authentication-zero
 - https://www.osohq.com/post/learn-authorization-from-rails
+- [Authentication for your Rails app without the icky-ness of passwords](https://github.com/mikker/passwordless)
+- [An authentication system generator for Rails applications](https://github.com/lazaronixon/authentication-zero)
 
 ### API
 
@@ -312,6 +314,7 @@
 - [A High Performance HTTP Server for Ruby](https://github.com/ohler55/agoo)
 - [Encode an image as a small string that can be saved in the database, returned in API responses, and displayed as a blurred preview before the real image loads](https://github.com/Gargron/blurhash)
 - [Complete Ruby geocoding solution](https://github.com/alexreisner/geocoder)
+- [JSON serializer](https://github.com/okuramasafumi/alba)
 
 ### Inspire
 

@@ -7,7 +7,6 @@
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 - https://github.com/sindresorhus/css-in-readme-like-wat
 
-
 ### Opinion
 
 - https://capiche.com/e/markdown-history
@@ -26,3 +25,4 @@
 - https://github.com/fand/mdmt
 - [Preview GitHub README.md files locally before committing them](https://github.com/joeyespo/grip)
 - https://github.com/mundimark
+- [compilable markdown for linear algebra](https://github.com/iheartla/iheartla)

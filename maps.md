@@ -2,7 +2,7 @@
 
 - [Offline map app iOS/Android](https://github.com/Akylas/alpimaps)
 
-### Book 
+### Book
 
 - [A Guide to Spatial History: Areas, Aspects, and Avenues of Research | Konrad Lawson, Riccardo Bavaj, Bernhard Struck](https://twitter.com/kmlawson/status/1479117587363491850)
 - [Cartography ~ Kenneth Field](https://vivqu.com/blog/2020/06/16/engineering-and-maps)
@@ -39,13 +39,14 @@
 - https://github.com/SilenceOverflow/Awesome-SLAM
 - https://github.com/gaoxiang12/slambook-en
 - [a map of (almost) all the places mentioned in every episode of the amazing podcast, 99% Invisible](https://99pi-map.stuartk.com)
+- [retro places you can visit around the world](http://retro.directory)
 
 ### Cinema
 
 - https://somethingaboutmaps.wordpress.com/2020/03/19/how-to-do-map-stuff
 - https://www.openculture.com/2022/05/how-did-cartographers-create-world-maps-before-airplanes-and-satellites-an-introduction.html
 
-### Development 
+### Development
 
 - [Library for creating custom geo data and syncronizing via a peer to peer network](https://github.com/digidem/mapeo-core)
 - https://suntprogramator.dev/2019/08/qgis-plugin-implementarea-serviciului-map-md-api
