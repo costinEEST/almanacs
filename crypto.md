@@ -121,6 +121,7 @@
 - [A Step-by-step Guide for PGP Beginners](https://syncom.github.io/papers/pgptutorial.txt)
 - [dnssec, openpgpkey, dane, sshfp](https://gist.github.com/phryneas/5ab090c21ecb32ff1858)
 - [unarcrypto is an educational tool to depict cryptography usage in zip, rar and 7zip archives](https://github.com/lclevy/unarcrypto) + https://twitter.com/lorenzo2472/status/880696736041365507
+- https://github.com/soatok/mastodon-e2ee-specification
 
 ### Transport Layer Security (TLS)
 

@@ -238,6 +238,7 @@
 - [Find out which of your Twitter followers have a Mastodon account](https://github.com/pruvisto/debirdify)
 - [Notes on importing content to Mastodon](https://github.com/lucahammer/fediporter)
 - https://github.com/wong2/beijing_bus
+- [script that aggregates recent popular posts from your Mastodon timeline](https://github.com/hodgesmr/mastodon_digest)
 
 ### Static website
 
