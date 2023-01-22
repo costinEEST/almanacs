@@ -162,6 +162,7 @@
 - [Practical Phishing Assessments | Graham Helton](https://www.youtube.com/playlist?list=PLULV3kUpOTddGJ1CJDlLrlMAEoZ0rl4Rc)
 - https://github.com/s3131212/web-tracking-notes
 - https://github.com/apple/password-manager-resources
+- https://github.com/dz-id/fb_get_token_from_cookie
 
 ### Social media
 
