@@ -45,6 +45,7 @@
 ### Physician
 
 - J.J. Thomson: https://twitter.com/mcnees/status/1339963246174990336
+- https://piggsboson.medium.com/james-maxwell-and-how-his-equations-shaped-the-modern-world-8e3e9f6b46c1
 
 ### Miscellaneous
 

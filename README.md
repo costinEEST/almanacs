@@ -27,6 +27,7 @@
 - [C](c.md)
 - [C#](c#.md)
 - [C++](c++.md)
+- [Carpentry](carpentry.md)
 - [Cars](cars.md)
 - [Chemistry](chemistry.md)
 - [CSS](css.md)
