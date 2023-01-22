@@ -160,6 +160,7 @@
 - https://www.mathway.com/Algebra
 - [Convert mathematical equations to SVGs, PNGs, or MathML. A general wrapper to Lasem and mtex2MML](https://github.com/gjtorikian/mathematical)
 - http://www.ossmann.com/protractor
+- https://github.com/winston-h-zhang/math-at-usc
 
 ### Teacher
 

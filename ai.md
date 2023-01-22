@@ -211,6 +211,7 @@
 - https://medium.com/@paul.k.pallaghy/chatgpt-the-hard-part-of-agi-is-now-done-3179d31a7277 + https://twitter.com/irinarish/status/1616435251580108800
 - [Historical analogies for large language models](https://dynomight.net/llms)
 - [Some remarks on Large Language Models | Yoav Goldberg](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9)
+- https://maggieappleton.com/ai-dark-forest
 
 ### Tool
 

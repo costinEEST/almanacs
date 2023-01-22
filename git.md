@@ -142,6 +142,7 @@
 - [Github as CV](https://htmlcssjavascript.com/web/how-did-i-miss-this)
 - [how to search github.com for multiple topics](https://gist.github.com/usametov/af8f13a351a66fb05a9895f11417dd9d)
 - [GitHub label without configuration](https://github.com/azu/github-label-setup)
+- https://karimrahal.com/2023/01/05/github-actions-leaking-secrets
 
 ### Tool
 

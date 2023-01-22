@@ -5,6 +5,7 @@
 ### Video camera 
 
 - [The Ultimate Pocket Camera: Insta360 X3](https://youtu.be/H8PLt4lG-tY)
+- https://lcamtuf.substack.com/p/random-objects-the-petal-camera
 
 ### Charger
 

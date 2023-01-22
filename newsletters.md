@@ -42,6 +42,7 @@
 
 - [The National Arts Club](https://us19.campaign-archive.com/home/?u=36de95fdf00c57337d2408ebc&id=f9c2c1789e)
 - [Institutul Național al Patrimoniului](https://us16.campaign-archive.com/home/?u=35f8c83675a30cbd5bec41a1b&id=367c70318f)
+- [Angela Moulton](https://us13.campaign-archive.com/home/?u=a61f046f4bb8366dff41b723c&id=e3e05e5e0e)
 
 ### Artificial intelligence
 
@@ -342,6 +343,7 @@
 
 - [Ted Gioia](https://tedgioia.substack.com/archive)
 - [Tango Inside Out](https://us7.campaign-archive.com/home/?u=c390736e46a85da405f68dc8e&id=8dbe36e52f)
+- [Pablo Estigarribia](https://us10.campaign-archive.com/home/?u=15496b952c60b9016788adea6&id=874e3cbe49)
 
 ### Ruby
 

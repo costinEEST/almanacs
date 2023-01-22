@@ -45,6 +45,7 @@
 - [Protein Data Bank](https://twitter.com/PDBeurope)
 - https://medium.com/@kshortridge/wtfunding-bioinformatics-genetic-data-753d6184af97
 - https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet/tree/master/Biohacking
+- [Michael Levin](https://www.drmichaellevin.org/presentations)
 
 ### Cinema
 
