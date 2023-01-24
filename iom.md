@@ -189,6 +189,7 @@
 - https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
 - https://github.com/bitcoinbook/bitcoinbook
 - [Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes](https://github.com/karpathy/cryptos)
+- [Bitcoin Protocol High Level Overview](https://docs.google.com/document/d/17B8z3mntcM8cwRCfTKHHNDuT6iHVd1L6tplCufnWVc0)
 
 ### Solana
 

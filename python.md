@@ -166,7 +166,7 @@
 - [Cursed operators](https://twitter.com/gynvael/status/1538125070987567104)
 - https://www.youtube.com/playlist?list=PLWBKAf81pmOamJfoHz4oRdieWQysmUkaW
 
-### Reference
+### Cheat sheet
 
 - https://cjolowicz.github.io/posts/hypermodern-python-01-setup
 - https://github.com/gto76/python-cheatsheet
@@ -196,6 +196,7 @@
 - https://asawicki.info/news_1762_hello_world_under_the_microscope_-_new_article_published + https://gynvael.coldwind.pl/?lang=en&id=754
 - https://github.com/DjangoEx/python-engineer-roadmap
 - [Simple speed tests for Python 3.11](https://github.com/dennisbakhuis/python3.11_speedtest)
+- https://github.com/kirang89/pycrumbs
 
 ### Scraping
 

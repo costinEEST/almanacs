@@ -86,7 +86,8 @@
 
 - https://www.udemy.com/course/nutrition-masterclass-course
 - https://www.udemy.com/course/essential-oils-for-your-health
-- https://www.udemy.com/course/sports-nutrition-for-athletes-and-fitness-enthusiasts/
+- https://www.udemy.com/course/sports-nutrition-for-athletes-and-fitness-enthusiasts
+- [Maria Konovalenko](https://www.youtube.com/@MariaKonovalenko/videos)
 
 ### Community
 

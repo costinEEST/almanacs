@@ -135,6 +135,7 @@
 
 ### Community
 
+- [Amit Chaudhary](https://github.com/amitness/learning#specialized-skills)
 - Suzana Ilić: [Twitter](https://twitter.com/suzatweet), [Linkedin](https://www.linkedin.com/in/suzanailic/)
 - Brandon Rohrer: [Twitter](https://twitter.com/_brohrer_), [Linkedin](https://www.linkedin.com/in/brohrer/)
 - Chip Huyen: [Twitter](https://twitter.com/chipro), [Linkedin](https://www.linkedin.com/in/chiphuyen/)
@@ -145,7 +146,7 @@
 - https://sararobinson.dev/2020/11/17/writing-a-technical-book.html
 - [Daniel Etzold](https://etzold.io)
 - [Noor Siddiqui](https://progressstudies.school/the-torch-of-progress-ep-7-with-noor-siddiqui)
-- https://twitter.com/amitness/status/1288713405700780033
+- [My favorite ML educators](https://twitter.com/amitness/status/1288713405700780033)
 - [Letiția Pârcălăbescu](https://www.youtube.com/c/AICoffeeBreak/playlists)
 - [Machine Learning & User Experience (MLUX)](https://www.meetup.com/MLUXmeetup)
 - [Heather Knight](http://www.marilynmonrobot.com/about)
@@ -188,7 +189,7 @@
 - https://github.com/liady/ChatGPT-pdf
 - [app that can quickly and efficiently detect whether an essay is ChatGPT or human written](https://twitter.com/edward_the6/status/1610067688449007618)
 - https://github.com/spinda/react-redux-chatgpt/tree/main/react-redux-chatgpt
-- [automated AI podcast](https://github.com/yacineMTB/scribepod)
+- [automated AI podcast](https://github.com/yacineMTB/scribepod) + https://twitter.com/yacineMTB/status/1608993955835957248
 - [Reverse Engineered ChatGPT by OpenAI](https://github.com/acheong08/ChatGPT)
 - [Build your own ChatGPT with OpenAI's GPT-3 model apis](https://github.com/machaao/gpt-3-chatbot)
 - [Go CLI to fuels a Telegram bot that lets you interact with ChatGPT](https://github.com/m1guelpf/chatgpt-telegram)
@@ -212,10 +213,13 @@
 - [Historical analogies for large language models](https://dynomight.net/llms)
 - [Some remarks on Large Language Models | Yoav Goldberg](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9)
 - https://maggieappleton.com/ai-dark-forest
+- https://github.com/TheAppleTucker/backend-GPT
+- [see what the Copilot extension sends to the server](https://github.com/thakkarparth007/copilot-explorer)
+- [tracking improvements to train large language models?](https://twitter.com/nlpguy_/status/1556881385927098369)
 
 ### Tool
 
-- [Curated list of libraries for a faster machine learning workflow](https://github.com/amitness/toolbox)
+- [Curated list of libraries for a faster machine learning workflow](https://amitness.com/toolbox)
 - [Recommender systems (or recommendation engines)](https://github.com/grahamjenson/list_of_recommender_systems)
 - [Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.](https://github.com/KartikChugh/Otto)
 - https://calv.info/gpt-3-real-magic + https://twitter.com/calvinfo/status/1286332337563684865
@@ -266,6 +270,8 @@
 - [Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 - https://www.getrevue.co/profile/deeprevision/issues/a-revised-history-of-deep-learning-issue-1-1145664
 - https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
+- [notes for training better deep learning models](https://github.com/google-research/tuning_playbook)
+- [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) + https://github.com/aamini/introtodeeplearning
 
 ### Natural language processing (NLP)
 

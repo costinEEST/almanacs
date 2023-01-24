@@ -308,7 +308,7 @@
 - [Chris Masterjohn](https://chrismasterjohnphd.substack.com/archive)
 - [Brady Holmer](https://bradyholmer.substack.com/archive)
 - [Lucia Aronica](https://us19.campaign-archive.com/home/?u=b5a7b243f7e9ec0be6f0de584&id=3781a25554)
-- [Forever Living Products](https://us11.campaign-archive.com/home/?u=148222cedc650a178c5d28741&id=2b75370977)
+- Forever Living: https://us11.campaign-archive.com/home/?u=148222cedc650a178c5d28741&id=aeb3a74051, https://us11.campaign-archive.com/home/?u=148222cedc650a178c5d28741&id=2b75370977
 
 ### Privacy
 
@@ -338,6 +338,11 @@
 ### Math
 
 - [Jeremy Kun](https://buttondown.email/j2kun/archive)
+
+
+### Miscellaneous
+
+- [Marius Cosmeanu](https://savantgarde.substack.com/recommendations)
 
 ### Music
 

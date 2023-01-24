@@ -22,6 +22,7 @@
 - https://ro.wikipedia.org/wiki/Arheoastronomie#Bibliografie + https://nottinghamtrent.academia.edu/MarcFrincu
 - [The Backyard Astronomer's Guide | Alan Dyer](https://backyardastronomy.com/look-inside) + https://backyardastronomy.com/youtube-channels
 - [Space Exploration by Quarto](https://www.humblebundle.com/downloads?key=NvwuY8cr4H85ZN35)
+- [The Nature of Earth: An Introduction to Geology](http://students.aiu.edu/submissions/profiles/resources/onlineBook/W9T9u2_geology.pdf)
 
 ### Binocular 
 
