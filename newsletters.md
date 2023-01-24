@@ -3,7 +3,6 @@
 - [The Kicks You Wear](https://kyw.substack.com/archive)
 - [Pineberry](https://us3.campaign-archive.com/home/?u=f7bce54079560efd52e3b7b83&id=98793c3ae4)
 
-
 ### Bookstore
 
 - [Nemira Publishing House](https://us16.campaign-archive.com/home/?u=90fc2082261012b48d34d8ff6&id=851b969363)
@@ -302,7 +301,7 @@
 - [BioViva](https://us7.campaign-archive.com/home/?u=454e481f21379f6d4f2d45bb6&id=80fcf8e2fc)
 - [Gwern.net monthly newsletter](https://tinyletter.com/gwern/archive)
 - [The Society for Light Treatment and Biological Rhythms](https://us2.campaign-archive.com/home/?u=6d2b68e19b91578a722d9ea21&id=6c226f0d36)
-- [KetoNutrition/Ketone Technologies LLC](https://us18.campaign-archive.com/home/?u=052078383ebe1265fa3c6adc1&id=bf037ac0e1)
+- [Dominic D'Agostino](https://us18.campaign-archive.com/home/?u=052078383ebe1265fa3c6adc1&id=bf037ac0e1)
 - https://mattbiotech.substack.com/archive
 - [Eric Topol](https://erictopol.substack.com/archive)
 - [Peter Attia](https://peterattiamd.com/email-archive)
@@ -340,7 +339,6 @@
 ### Math
 
 - [Jeremy Kun](https://buttondown.email/j2kun/archive)
-
 
 ### Miscellaneous
 
