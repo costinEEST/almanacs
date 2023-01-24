@@ -102,6 +102,7 @@
 - https://www.worldspaceweek.org/media/downloads
 - Cristian-Mircea Stancu> https://www.facebook.com/cristianmircea.stancu.1, https://vimeo.com/user101026587
 - https://piggsboson.medium.com/stephen-hawkings-ph-d-thesis-3a8c9b28ed4
+- https://www.thegreatcourses.com/professors/alex-filippenko
 
 ### Constellation
 

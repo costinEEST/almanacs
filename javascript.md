@@ -119,7 +119,7 @@
 - [Accelerating JavaScript (in the browser)](https://hyphaebeast.club/writing/accelerating-js)
 - https://www.chandlerprall.com/post/request-animation-frame-is-not-your-logics-friend
 - https://felixgerschau.com/javascript-memory-management
-- https://marvinh.dev/blog/speeding-up-javascript-ecosystem
+- https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2
 
 ### Data structures
 
