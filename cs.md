@@ -86,6 +86,7 @@
 - https://github.com/mgp/coding-in-the-real-world/blob/master/manuscript/dates-and-times.md
 - https://tech-notes.accel.dk/time
 - https://github.com/davedelong/calendar_fallacies
+- [Timezone Lookup by Location](https://github.com/bialylis/tz-lookup-oss)
 
 ### TIL
 

@@ -363,6 +363,7 @@
 
 - https://github.com/jchen1/website
 - [Fastify server-side renders Preact to html and serves with a Preact client.js bundle for DOM hydration.](https://github.com/sebringrose/fastify-preact-ssr) + https://youtu.be/p8_wOBU478w
+- http://marianoguerra.org/posts/a-simple-understandable-production-ready-preact-project-setup
 
 ### Next
 

@@ -143,6 +143,7 @@
 - [how to search github.com for multiple topics](https://gist.github.com/usametov/af8f13a351a66fb05a9895f11417dd9d)
 - [GitHub label without configuration](https://github.com/azu/github-label-setup)
 - https://karimrahal.com/2023/01/05/github-actions-leaking-secrets
+- [all github pages links can be permalinks](https://github.com/stevekrouse/unbreakable-links)
 
 ### Tool
 

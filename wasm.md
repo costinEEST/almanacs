@@ -11,6 +11,7 @@
 - https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071
 - [Compile the statistical language R into WASM for use in a browser, via Emscripten](https://github.com/georgestagg/webR)
 - [Advanced Compiler Design (UCSD CSE231) | Joe Gibbs Politz](https://ucsd-cse231-s22.github.io) + https://jpolitz.github.io/docs/splash-e-2021.pdf
+- http://marianoguerra.org/posts/ricardo-forth-a-forth-c-js-webassembly-and-compiled-from-c-to-asmjs-and-webassembly
 
 ### Cinema
 
