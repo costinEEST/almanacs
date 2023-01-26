@@ -40,6 +40,7 @@
 - https://github.com/gaoxiang12/slambook-en
 - [a map of (almost) all the places mentioned in every episode of the amazing podcast, 99% Invisible](https://99pi-map.stuartk.com)
 - [retro places you can visit around the world](http://retro.directory)
+- [TimeMap instance for Civilian Harm in Ukraine](https://github.com/bellingcat/ukraine-timemap)
 
 ### Cinema
 

@@ -74,6 +74,7 @@
 - [Competitive Programmer’s Handbook | Antti Laaksonen](https://cses.fi/book/book.pdf)
 - https://github.com/very-good-science/data-ethics-club
 - [Software Engineering at Google](https://abseil.io/resources/swe-book)
+- [Practical Foundations for Programming Languages (Second Edition) by Robert Harper](http://www.cs.cmu.edu/~rwh/pfpl)
 
 ### Date and Time on the Internet: Timestamps
 

@@ -48,7 +48,6 @@
 - [Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.](https://github.com/yyx990803/build-your-own-mint)
 - https://hashrocket.com/blog/posts/generate-images-for-instagram
 - Crop a single image to a certain aspect ratio in ImageMagick (7.0+): [tweet](https://twitter.com/danburzo/status/1222441121051267073) + [repo](https://github.com/danburzo/toolbox/blob/master/imagemagick.md)
-- https://github.com/aviaryan/awesome-no-login-web-apps
 - [What's so hard about PDF text extraction?](https://www.filingdb.com/pdf-text-extraction)
 - [I love PDF](https://geshan.com.np/blog/2020/10/free-productivity-software-increase-efficiency)
 - [How to Enable VLC's Best Hidden Features](https://lifehacker.com/the-best-hidden-features-of-vlc-1654434241)

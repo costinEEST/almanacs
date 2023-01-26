@@ -30,12 +30,13 @@
 
 ### Community
 
+- https://github.com/aviaryan/awesome-no-login-web-apps
+- [GDPR Enforcement Tracker](https://www.enforcementtracker.com)
 - [Lea Kissner](https://twitter.com/LeaKissner/status/1384539395005448201)
 - [Güneş Acar](https://gunesacar.net)
 - [PinePhone User’s Group](https://www.facebook.com/groups/490766952100168)
 - https://github.com/humanetech-community/awesome-humane-tech
 - https://www.bellingcat.com/news/americas/2021/01/07/the-making-of-qanon-a-crowdsourced-conspiracy
-- [GDPR Enforcement Tracker](https://www.enforcementtracker.com)
 
 ### Hardware
 

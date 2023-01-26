@@ -44,6 +44,7 @@
 - [The National Arts Club](https://us19.campaign-archive.com/home/?u=36de95fdf00c57337d2408ebc&id=f9c2c1789e)
 - [Institutul Național al Patrimoniului](https://us16.campaign-archive.com/home/?u=35f8c83675a30cbd5bec41a1b&id=367c70318f)
 - [Angela Moulton](https://us13.campaign-archive.com/home/?u=a61f046f4bb8366dff41b723c&id=e3e05e5e0e)
+- [Alexandra Kiely](https://us14.campaign-archive.com/home/?u=d9f2de25d2032a0e4e841e8d2&id=7d15072621)
 
 ### Artificial intelligence
 
@@ -78,6 +79,7 @@
 - [Newsletter pe Legale: Ana-Maria Udriste and Bogdan Ciacli](https://avocatoo.substack.com)
 - [Patents from big tech companies and a wider list of all patents from these companies](https://patentdrop.substack.com/archive)
 - [I Love Failure](https://us7.campaign-archive.com/home/?u=08e3b46f1ab4e0f4f75301af5&id=4689d7e3c5)
+- [Paulo André](https://hagakure.substack.com/archive)
 
 ### Marketing
 

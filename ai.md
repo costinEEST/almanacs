@@ -216,6 +216,8 @@
 - https://github.com/TheAppleTucker/backend-GPT
 - [see what the Copilot extension sends to the server](https://github.com/thakkarparth007/copilot-explorer)
 - [tracking improvements to train large language models?](https://twitter.com/nlpguy_/status/1556881385927098369)
+- [Use OpenAI to generate functioning React Native components](https://github.com/cawfree/react-native-openai-jsx)
+- https://github.com/giuven95/chatgpt-failures
 
 ### Tool
 
@@ -272,6 +274,7 @@
 - https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
 - [notes for training better deep learning models](https://github.com/google-research/tuning_playbook)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) + https://github.com/aamini/introtodeeplearning
+- [Elena Burceanu](https://ilarele.github.io/#teaching)
 
 ### Natural language processing (NLP)
 

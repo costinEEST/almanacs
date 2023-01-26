@@ -61,6 +61,7 @@
 - https://www.manning.com/books/react-native-in-action
 - https://github.com/unbug/react-native-train
 - https://flexbox.medium.com/how-i-wrote-and-published-the-road-to-react-native-book-7ca80fa2fd88
+- https://github.com/PacktPublishing/Simplifying-State-Management-in-React-Native
 
 ### Boilerplate
 
@@ -190,6 +191,7 @@
 - https://github.com/aleixrodriala/react-native-disable-battery-optimizations
 - https://github.com/yuanfux/react-native-hsv-color-picker
 - https://github.com/motiz88/react-native-midi
+- https://github.com/r0b0t3d/react-native-carousel
 
 ### Debugging
 

@@ -694,6 +694,7 @@
 - https://www.nullpt.rs/reverse-engineering-tiktok-vm-1, https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2
 - https://transitivebullsh.it/javascript-dev-tools-in-2022
 - [A JSON parser, tokenizer, traverser, and printer](https://github.com/humanwhocodes/momoa)
+- [Unfollow everyone on Linkedin](https://gist.github.com/brunolemos/8e13c5472b0c07d795aa766423569546)
 
 ### Documentation
 

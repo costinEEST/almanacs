@@ -10,6 +10,7 @@
 - [App for cataloguing and tracking your books](https://github.com/peterfriese/BookShelf)
 - [A free, open-source iOS Mastodon client](https://github.com/metabolist/metatext)
 - [RSS reader for macOS and iOS](https://github.com/Ranchero-Software/NetNewsWire)
+- [Mac menu bar tool to view the architecture of the running application](https://github.com/billycastelli/Silicon-Info)
 
 ### Algorithm
 
