@@ -128,6 +128,7 @@
 - [Scheme](scheme.md)
 - [Self](self.md)
 - [Smalltalk](smalltalk.md)
+- [SolidJS](solid.md)
 - [Speak!](speak.md)
 - [Spirituality](spirit.md)
 - [Sports](sport.md)

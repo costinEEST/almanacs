@@ -279,6 +279,7 @@
 - https://alexanderell.is/posts/wikipedia-over-whatsapp
 - https://lessonsec.com/posts/dev-chronicles-creating-an-http-attack-client
 - https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port
+- https://jessewarden.com/books/serverless-aws-functional-programming
 
 ### Standard library
 

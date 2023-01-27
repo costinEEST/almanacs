@@ -136,6 +136,10 @@
 - https://github.com/karanpratapsingh/system-design
 - [The documentation for being an Artsy Engineer](https://github.com/artsy/README)
 
+### Parser
+
+- [Concepts of Programming Languages | Mary Elaine Califf](https://www.youtube.com/playlist?list=PLrB7VCHji9zj7wGQOfWNvvj691QwZ1Lam)
+
 ### Practice
 
 - https://jeffzh4ng.com/essays/thoughts-on-teachyourselfcs.html

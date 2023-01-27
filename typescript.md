@@ -7,7 +7,6 @@
 - https://vladris.com/blog/2019/04/28/programming-with-types.html + https://github.com/vladris/programming-with-types
 - https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node
 
-
 ### Boilerplate
 
 - https://github.com/Divlo/create-fullstack-app
@@ -15,7 +14,6 @@
 - https://github.com/CodelyTV/typescript-ddd-example
 - [Quickly create and configure a new library or Node.js project](https://github.com/bitjson/typescript-starter)
 - [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
-
 
 ### Cinema
 
@@ -29,6 +27,7 @@
 - https://codereviewvideos.com/course/from-jquery-to-typescript + https://www.youtube.com/playlist?list=PL1sZ2OJpPmWZzM8ckdBgVaqTWZwAU_VNP
 - https://github.com/microsoft/TypeScript-Compiler-Notes
 - [Leaky Abstractions | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3AM082CRmdJlvJqpVPU4xE5)
+- [FP 101 | Victor Boutté](https://www.youtube.com/playlist?list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV), https://github.com/monsieurBoutte/fp-101-series
 
 ### Course
 
@@ -91,11 +90,11 @@
 - https://github.com/ciocan/adventofcode
 - https://github.com/otobot1/Advent-of-Code-2022
 
-### Radio 
+### Radio
 
 - https://topenddevs.com/podcasts/javascript-jabber/episodes/to-typescript-or-not-to-typescript-jsj-538
 
-### Cheat sheet 
+### Cheat sheet
 
 - [TypeScript style guide](https://ts.dev/style)
 - https://github.com/rmolinamir/typescript-cheatsheet

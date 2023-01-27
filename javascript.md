@@ -155,6 +155,8 @@
 - [Proxies are the closest thing JavaScript has to a Macro.](https://twitter.com/rauchg/status/1388231666771001346) + https://github.com/justjavac/proxy-www + https://vimeo.com/364362111 + https://gist.github.com/davidsharp/9184a2e501f5e6704717031bb4951312
 - https://www.better.dev/understanding-memoization-in-javascript
 - https://github.com/rarmatei/egghead-thinking-reactively
+- [What Are Partial Applications? | Jesse Warden](https://www.youtube.com/playlist?list=PLZEZPz6HkCZnsdr7kPQIiN3lCdBBClClI)
+- https://jessewarden.com/books/real-world-functional-programming
 
 ### TIL
 
@@ -610,6 +612,7 @@
 - https://mtlynch.io/notes/cypress-vs-playwright
 - https://github.com/mawrkus/js-unit-testing-guide
 - https://github.com/americanexpress/jest-image-snapshot
+- Playwright: https://www.youtube.com/playlist?list=PLV3vu-QEKkB1A7My1ODw2yW3yB-RUfVHn, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDxogxQ5PwtQypttFGBqiCq,https://www.youtube.com/playlist?list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0Z8, https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc, https://www.youtube.com/playlist?list=PL6flErFppaj0iQG2_Dd72Jz0bfrzZwMZH
 
 ### Virtual machine
 
@@ -695,6 +698,7 @@
 - https://transitivebullsh.it/javascript-dev-tools-in-2022
 - [A JSON parser, tokenizer, traverser, and printer](https://github.com/humanwhocodes/momoa)
 - [Unfollow everyone on Linkedin](https://gist.github.com/brunolemos/8e13c5472b0c07d795aa766423569546)
+- [Write a Babel Plugin | Ryan Stelly](https://www.youtube.com/playlist?list=PLimXc_loopipqrNW48HSDf-dqENp7Skkq)
 
 ### Documentation
 
