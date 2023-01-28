@@ -15,7 +15,7 @@
 - [Empowering science with open-source software by Santiago Soler](https://github.com/santisoler/iag-usp-2022)
 - https://www.poberezkin.com/posts/2019-07-10-talk-why-you-should-open-source-for-real.html
 
-### Community 
+### Community
 
 - [Coraline Ada Ehmke](https://where.coraline.codes/media)
 - https://github.com/RunaCapital/awesome-oss-alternatives
@@ -29,6 +29,7 @@
 - https://github.com/ossf/security-reviews
 - https://nolanlawson.com/2023/01/09/retiring-pinafore
 - https://github.com/acekyd/made-in-nigeria
+- https://github.com/brycejohnston/awesome-agriculture
 
 ### Tool
 

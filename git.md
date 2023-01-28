@@ -16,7 +16,7 @@
 - https://andrewhoglund.com/code/talks/github/js/2020/05/08/building-automations-with-graphql-and-github-apps.html
 - https://codereviewvideos.com/course/your-own-private-github
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://gitexplorer.com
 - https://twitter.com/ChrisStaud/status/1574277175527735296
@@ -68,6 +68,7 @@
 
 ### Github
 
+- https://github.com/tmcw/github-best-practices
 - https://github.com/rafgraph/spa-github-pages
 - https://github.com/troessner/articles/blob/master/docs/2016-02-06-how-to-use-github-to-evaluate-developers.md
 - [Handbook for Octokit maintainers and GitHub integrators](https://github.com/octokit/handbook)
@@ -156,7 +157,7 @@
 - [A viewer for git and diff output](https://github.com/dandavison/delta)
 - https://bridgecrew.io/blog/using-yor-for-ownership-mapping-using-yaml-tag-groups
 - [A build tool for NPM monorepos](https://github.com/giltayar/bilt)
-- https://philbooth.me/blog/build-a-better-release-script 
+- https://philbooth.me/blog/build-a-better-release-script
 - [interactive `git` with the help of `fzf`](https://github.com/bigH/git-fuzzy)
 - https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf
 - https://www.stefanjudis.com/today-i-learned/git-supports-global-gitignore-files

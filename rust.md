@@ -67,6 +67,7 @@
 - https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust
 - https://github.com/stars/x-N0/lists/rust
 - https://github.com/rust-unofficial/awesome-rust
+- https://github.com/pka/awesome-georust
 
 ### Course
 
@@ -116,7 +117,7 @@
 - https://github.com/dtolnay/case-studies
 - http://cliffle.com/p/dangerust
 
-### Parser 
+### Parser
 
 - https://github.com/Boshen/javascript-parser-in-rust
 

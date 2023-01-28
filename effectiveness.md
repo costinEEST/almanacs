@@ -22,13 +22,11 @@
 
 - https://nicknisi.com/posts/2015-11-02-tmux-for-presentation
 
-
 ### Tools
 
 - https://github.com/cjbarber/ToolsOfTheTrade
 - https://speakerdeck.com/ladybenko/improving-as-developers?slide=31
 - [5 Command Line Tools to Break Your Dependence on the GUI ](https://www.putorius.net/5-cool-command-line-tools.html)
-- [presentations for busy messy hackers](https://github.com/tmcw/big)
 - [Joplin for notes taking](https://twitter.com/adulau/status/1195820269388148738)
 - [An online graph editor that..](https://twitter.com/dan_abramov/status/1209920644462366720)
 - [Ce scule folosiți pentru crearea de content video?](https://devforum.ro/t/ce-scule-folositi-pentru-crearea-de-content-video/12089)
@@ -95,7 +93,6 @@
 - https://medium.com/@gregsramblings/how-i-tamed-gmail-at-work-a0bd66a17a63
 - [Writing a Book with Pandoc, Make, and Vim](https://keleshev.com/my-book-writing-setup) + https://news.ycombinator.com/item?id=22854332
 - [Write.md - Sharable, distraction free markdown editor.](https://www.producthunt.com/posts/write-md)
-- https://github.com/sixhobbits/technical-writing
 - https://www.garron.blog/posts/typora-markdown-editor.html
 - https://jonathanbuys.com/Setting_Up_Webster's_Dictionary + https://www.websters1913.com
 - https://www.dschapman.com/notes/reading-and-writing-parallel

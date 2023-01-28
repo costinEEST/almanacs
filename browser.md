@@ -273,6 +273,7 @@ javascript: (() =>
 - https://addons.mozilla.org/en-US/firefox/addon/firefox-translations + https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot
 - [A browser extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) + https://news.ycombinator.com/item?id=33853773
 - https://github.com/0xdevalias/chrome-NewWindowWithTabsToRight
+- [Firefox extension to highlight and save text from the web](https://github.com/frnsys/hili)
 
 ### Chrome
 

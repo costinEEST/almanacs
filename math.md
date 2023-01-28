@@ -57,7 +57,7 @@
 - [Mathematical foundations of infinite-dimensional statistical models | Richard Nickl and Evarist Giné](https://twitter.com/FrnkNlsn/status/1588797079262224384)
 - [A History of Mathematics: From Mesopotamia to Modernity](https://www.amazon.com/History-Mathematics-Mesopotamia-Modernity/dp/0198529376)
 - [Recode of book "Dessins géométriques et artistiques avec votre micro-ordinateur | Jean-Paul Delahaye" (1985) with p5js](https://github.com/v3ga/dessins_geometriques_et_artistiques)
-
+- ["Arithmetices Principia, Nova Methodo Exposita" by Giuseppe Peano](https://github.com/mdnahas/Peano_Book)
 
 ### Course
 
@@ -69,7 +69,7 @@
 - [Notes for courses taken at Harvard (2015--2019)](https://github.com/sujeet-Kim/harvard_notes)
 - http://abel.math.harvard.edu/pamphlets/courses.html
 - https://github.com/hongshin/DiscreteMath
-- https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen  https://www.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq
+- https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen https://www.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq
 - https://www.udemy.com/course/math-for-unreal-engine + https://www.youtube.com/playlist?list=PLsyGu3bA_w_CmxrMvj9Hbcnr6rwpkt7c5
 - [CSE 101: Design and Analysis of Algorithms](https://cseweb.ucsd.edu//%7Edakane/CSE101)
 - [Advanced Algorithms | David R. Karger](https://6.5210.csail.mit.edu/materials.html)
@@ -155,7 +155,7 @@
 - [SDF are fun tools for geometry creation](https://winterbloed.be/the-wrong-way-to-use-a-signed-distance-function)
 - https://github.com/E869120/math-algorithm-book
 
-### Tool 
+### Tool
 
 - https://www.mathway.com/Algebra
 - [Convert mathematical equations to SVGs, PNGs, or MathML. A general wrapper to Lasem and mtex2MML](https://github.com/gjtorikian/mathematical)

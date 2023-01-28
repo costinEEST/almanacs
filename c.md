@@ -65,6 +65,7 @@
 - https://www.lysator.liu.se/c/ANSI-C-grammar-y.html
 - https://argp.github.io/2014/11/04/memory-model-static-analysis-c-programs
 - https://www.rsarai.xyz/architecture-open-source-asterisk
+- [How does the 12 Days of Christmas program work?](https://mdnahas.github.io/xmassong/index.html)
 
 ### Cinema
 
@@ -87,11 +88,11 @@
 - [C Programming in Linux Tutorial | ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
 - [Embedded C Programming Style | Mutex Embedded](https://www.youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh) + https://www.mutex-embedded.com/courses/s2-c1
 
-### Code auditing 
+### Code auditing
 
 - https://mastodon.social/@mitsuhiko@hachyderm.io/109588062804962627 + https://github.com/getsentry/sentry-native
 
-### Course 
+### Course
 
 - [C and the Unix environment for undergraduate non-CSE majors](https://courses.cs.washington.edu/courses/cse374/21wi)
 - [Unix and C Programming](https://docs.google.com/presentation/d/1V0daPBXxOrxb4Ckrfhodf2QO-6Ag067y8am479oIjB0)
@@ -102,7 +103,6 @@
 - [Reading files the hard way - Part 1 (node.js, C, rust, strace)](https://fasterthanli.me/blog/2019/reading-files-the-hard-way/)
 - [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
 - [Pros and cons of dynamic linking versus static linking](https://distrowatch.com/weekly.php?issue=20200810#qa)
-
 
 ### Radio
 
@@ -129,7 +129,7 @@
 - [stack-based bytecode interpreter](https://www.youtube.com/playlist?list=PLhMOOgDOKD4JV2AgL1XzoYanY6RpGKbNa) + https://gitlab.com/gilmi/vm
 - [Write your own virtual machine](https://github.com/justinmeiners/lc3-vm)
 
-### Operatin system 
+### Operatin system
 
 - [CS140E: embedded operating systems (Engler, Winter, 2022)](https://github.com/dddrrreee/cs140e-22win)
 
@@ -168,7 +168,6 @@
 - [Logging C Functions](https://justine.lol/ftrace)
 - [A very compact representation of a placeholder for an image](https://github.com/woltapp/blurhash)
 
-
-### Testing 
+### Testing
 
 - [Test-Driven Development for Embedded C](https://github.com/jwgrenning/tddec-code) + https://open.spotify.com/episode/40DFaYVaY8ptpmKARkttPn

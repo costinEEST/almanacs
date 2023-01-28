@@ -11,10 +11,10 @@
 - https://www.freecodecamp.org/news/create-an-android-app
 - https://github.com/Kotlin-FOSDEM/speaker-recording-guide
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://github.com/MindorksOpenSource/from-java-to-kotlin
-
+- [build command-line tools in Kotlin Multiplatform](https://github.com/jmfayard/kotlin-cli-starter)
 
 ### Demo
 
@@ -31,6 +31,7 @@
 
 - https://hyperskill.org/onboarding/?track=kotlin
 - https://github.com/cortinico/adventofcode-2021
+- [Migrate a Java Spring boot app to Kotlin](https://github.com/mathieumure/handson-springboot-to-kotlin)
 
 ### Security
 

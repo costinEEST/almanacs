@@ -1,4 +1,4 @@
-### Book 
+### Book
 
 - [Idiosyncracies of the HTML parser](https://github.com/zcorpan/html-parser-book)
 
@@ -87,14 +87,12 @@
 
 - [HTMLAudioElement polyfill using the WebAudio API with seamless loop support in Safari](https://gist.github.com/mrdoob/0027c276f1b628001bdb6e138a9d7218) + https://twitter.com/mrdoob/status/1578933479282454528
 
-
 ### <button></button>
 
 - https://ishadeed.com/article/styling-the-good-old-button
 - https://github.com/mds/good-button
 
-
-### Cheat sheet 
+### Cheat sheet
 
 - https://meiert.com/en/indices/html-elements
 - https://github.com/raunofreiberg/ui-playbook
@@ -128,14 +126,14 @@
 
 - https://dorper.me/articles/dldt.aspx
 
-### Drag and Drop 
+### Drag and Drop
 
 - https://horstmann.com/unblog/2018-12-16/index.html
 
 ### <head></head>
 
 - https://twitter.com/iamakulov/status/1573250912667066370 + https://youtu.be/MHyAOZ45vnU
-- [A list of everything that *could* go in the head of your document](https://github.com/joshbuchea/HEAD)
+- [A list of everything that _could_ go in the head of your document](https://github.com/joshbuchea/HEAD)
 - https://github.com/audreyfeldroy/favicon-cheat-sheet
 - https://www.matuzo.at/blog/html-boilerplate
 - https://koddsson.com/posts/emoji-favicon
@@ -165,7 +163,6 @@
 
 - https://github.com/atapas/html-file-upload
 
-
 ### <object></object>
 
 - https://www.smashingmagazine.com/2018/03/from-flash-html-css-javascript
@@ -184,7 +181,6 @@
 ### <template></template>
 
 - https://kittygiraudel.com/2022/09/30/templating-in-html
-
 
 ### <title></title>
 
@@ -213,7 +209,6 @@
 - https://www.debugbear.com/blog/performant-front-end-architecture
 - https://calibreapp.com/blog/performance-for-designers-images
 - https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews + https://calendar.perfplanet.com/2020/learnings-from-setting-up-a-performance-device-lab
-
 
 ### Progressive Enhancement
 
@@ -262,8 +257,6 @@
 
 - https://meiert.com/en/blog/minimal-web-development
 - https://mark.berthelemy.net/2021/07/26/future-of-scorm + https://www.youtube.com/playlist?list=PL9Ar8Q1P0Odt8MslZpZ1KlAz0ss059Hs-
-
-
 
 ### Semantic
 
@@ -318,3 +311,4 @@
 - https://www.quaxio.com/unicode_superscript.html
 - https://raesene.github.io/blog/2021/11/06/fun-with-unicode
 - https://notes.jordanscales.com/on-emoji
+- [Get color palettes from emojis](https://github.com/anubra266/emoji-palette)

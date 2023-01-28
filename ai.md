@@ -36,7 +36,6 @@
 - [Natural Language Processing with TensorFlow | Thushan Ganegedara](https://twitter.com/svpino/status/1557698367945248768)
 - [Intro to Artificial Neural Networks for High Schoolers](https://github.com/ohhh25/ai-book)
 
-
 ### Cheat sheet
 
 - https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer
@@ -118,6 +117,7 @@
 - [Cornell CS5785: Applied Machine Learning | Fall 2020](https://github.com/Machine-Learning-Tokyo/AI_Curriculum#applied-machine-learning)
 - https://github.com/Nyandwi/machine_learning_complete
 - [Igo Math - Natural and Artificial Intelligence and the Game of Go](https://egri-nagy.github.io/igomath)
+- https://github.com/frnsys/ai_notes
 
 ### Cinema
 
@@ -218,6 +218,10 @@
 - [tracking improvements to train large language models?](https://twitter.com/nlpguy_/status/1556881385927098369)
 - [Use OpenAI to generate functioning React Native components](https://github.com/cawfree/react-native-openai-jsx)
 - https://github.com/giuven95/chatgpt-failures
+- https://www.viorelspinu.com/2022/12/technical-architecture-for-whatsapp.html
+- https://www.facebook.com/groups/aicomunity
+- [6 month learning plan for AI large language models](https://twitter.com/CristiVlad25/status/1618680534972104704)
+- [GPT-3 chatbot with long-term memory and external sources](https://github.com/daveshap/LongtermChatExternalSources)
 
 ### Tool
 
@@ -230,7 +234,7 @@
 - https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers
 - [End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow](https://github.com/zzw922cn/Automatic_Speech_Recognition)
 - [HRI '21: Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction](https://github.com/WafaJohal/hri2021-pdf-downloader)
-- [*AlephBERT*, a Hebrew pretrained language model to start off your Hebrew NLP Application](https://twitter.com/rtsarfaty/status/1381562132723085315)
+- [_AlephBERT_, a Hebrew pretrained language model to start off your Hebrew NLP Application](https://twitter.com/rtsarfaty/status/1381562132723085315)
 - https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 - [Free Software Social Friendly AI for general use, but esp for those w/ poverty, homelessness, disabilty or illness](https://github.com/aindilis/free-life-planner)
 - https://www.stavros.io/posts/making-ai-podcast + https://deepdreams.stavros.io

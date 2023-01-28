@@ -39,6 +39,7 @@
 - [Yacob (Kobi) Cohen-Arazi](https://twitter.com/kobi_ca)
 - [Matt Godbolt](https://www.youtube.com/c/MattGodbolt/playlists)
 - [David William Plummer](https://www.youtube.com/c/DavesGarage/playlists)
+- https://github.com/bajamircea/bajamircea.github.io
 
 ### Cinema
 

@@ -315,6 +315,7 @@
 - [Encode an image as a small string that can be saved in the database, returned in API responses, and displayed as a blurred preview before the real image loads](https://github.com/Gargron/blurhash)
 - [Complete Ruby geocoding solution](https://github.com/alexreisner/geocoder)
 - [JSON serializer](https://github.com/okuramasafumi/alba)
+- [Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource](https://github.com/brycejohnston/agroclimatology)
 
 ### Inspire
 

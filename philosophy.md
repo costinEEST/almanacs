@@ -18,8 +18,9 @@
 - [Exploring Vervaeke's Awakening from the Meaning Crisis | Bevry](https://www.youtube.com/playlist?list=PL68A9KvUGBlpbAfU5sqgTOW-_HpQijEbF) + https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ
 - [Exploring Peterson's Bible Series](https://www.youtube.com/playlist?list=PL68A9KvUGBlo5Ic53iV6o6zasbd4aR-cM)
 - [Problems of Philosophy](https://mitxonline.mit.edu/courses/course-v1:MITxT+24.10x)
+- https://www.jeffreykaplan.org/youtube
 
-### Islamic 
+### Islamic
 
 - https://decafquest.gumroad.com/l/islamic-philosophy/earlybird
 
@@ -81,3 +82,4 @@
 
 - https://github.com/ashleygwilliams/philosophy_club
 - [Understanding Society](https://gist.github.com/balupton/f0a7f7bf49c849a8a5f5e7021f2dc273)
+- https://plato.stanford.edu/entries/chinese-room, https://ro.frwiki.wiki/wiki/Chambre_chinoise
