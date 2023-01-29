@@ -192,6 +192,7 @@
 - https://github.com/yuanfux/react-native-hsv-color-picker
 - https://github.com/motiz88/react-native-midi
 - https://github.com/r0b0t3d/react-native-carousel
+- [utility-first universal design system - powered by Tailwind](https://github.com/marklawlor/nativewind)
 
 ### Debugging
 

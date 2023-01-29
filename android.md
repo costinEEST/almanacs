@@ -19,6 +19,7 @@
 - [DEF CON Hacker Tracker](https://github.com/shortstack/HackerTracker)
 - [Easy to use OpenStreetMap editor for Android](https://github.com/streetcomplete/StreetComplete)
 - [View your remaining balance, recent trips, and other information from contactless public transit cards using your NFC Android phone](https://github.com/codebutler/farebot)
+- [Ad free app for watching tube videos on Android TV boxes](https://github.com/yuliskov/SmartTubeNext)
 
 
 ### Book

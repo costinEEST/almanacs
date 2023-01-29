@@ -93,6 +93,10 @@
 - https://ishadeed.com/article/styling-the-good-old-button
 - https://github.com/mds/good-button
 
+### <img />
+
+- https://dev.to/builderio/optimal-images-in-html-5bg9
+
 
 ### Cheat sheet 
 
@@ -100,8 +104,8 @@
 - https://github.com/raunofreiberg/ui-playbook
 - [Guidance for designing ethically humane digital products through patterns focused on user well-being.](https://humanebydesign.com)
 - https://css-tricks.com/how-to-section-your-html
-- http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
 - https://allthetags.com
+- http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
 - https://www.goodemailcode.com
 - https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 - [top of a page](https://twitter.com/simonhearne/status/1259927098040467457)
@@ -318,3 +322,4 @@
 - https://www.quaxio.com/unicode_superscript.html
 - https://raesene.github.io/blog/2021/11/06/fun-with-unicode
 - https://notes.jordanscales.com/on-emoji
+- https://github.com/erikthedeveloper/code-review-emoji-guide

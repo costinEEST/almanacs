@@ -133,6 +133,7 @@
 - [Download IPAs from Apple App Store](https://github.com/nderkach/ipa-downloader)
 - [RSS reader client like LDR for Inoreader](https://github.com/azu/irodr)
 - https://github.com/remotion-dev/github-unwrapped-2022
+- https://evilmartians.com/chronicles/how-to-build-a-better-react-map-with-pigeon-maps-and-mapbox
 
 ### Radio
 
@@ -185,6 +186,8 @@
 - https://github.com/bring-shrubbery/use-cookie-consent
 - https://devtrium.com/posts/how-keyboard-shortcut
 - https://github.com/laststance/vite-rtk-query/blob/main/src/hooks/useDidUpdateEffect.ts
+- https://marmelab.com/blog/2023/01/11/use-async-effect-react.html
+- https://yoavik.com/snippets/use-global-state, https://twitter.com/sebastienlorber/status/1618248643919626244
 
 ### Lifecycle methods
 
@@ -220,6 +223,7 @@
 - https://github.com/jxom/awesome-react-headless-components
 - [A component that copies some text to the clipboard when it is clicked.](https://gist.github.com/alexanderson1993/8538c0f408227bc6f7e95a34f8b35944) + https://twitter.com/ralex1993/status/1354908479652327427
 - [picture fallback system for all devices all file types all resolutions and shows them accordingly depending on how many breakpoints you supply ](https://gist.github.com/jeffscottward/eebcdf31493d9e14b18e374c999172f9)
+- [higher order component that will randomly throw Error](https://github.com/jchiatt/react-chaos)
 
 ### Pattern
 
@@ -296,6 +300,8 @@
 - https://souporserious.com/bringing-swiftui-stacks-to-the-web
 - https://benadam.me/thoughts/react-svg-sprites
 - [iPod Classic that connects to Apple Music and Spotify. Built with React & Styled Components](https://github.com/tvillarete/ipod-classic-js)
+- [Beautifully designed components built with Radix UI and Tailwind](https://github.com/shadcn/ui)
+- https://github.com/shuding/react-wrap-balancer
 
 ### Server side rendering
 
@@ -327,6 +333,7 @@
 - [Shopify's vision for the future of commerce with Ilya Grigorik](https://changelog.com/podcast/469)
 - https://shopify.engineering/react-server-components-best-practices-hydrogen
 - https://twitter.com/jplhomer/status/1587095536833859584 + https://hydrogen.shopify.dev/roadmap + https://twitter.com/jjenzz/status/1587098503326613506
+- [syntax highlighting](https://github.com/code-hike/bright)
 
 ### State management
 
@@ -365,7 +372,7 @@
 - [Fastify server-side renders Preact to html and serves with a Preact client.js bundle for DOM hydration.](https://github.com/sebringrose/fastify-preact-ssr) + https://youtu.be/p8_wOBU478w
 - http://marianoguerra.org/posts/a-simple-understandable-production-ready-preact-project-setup
 
-### Next
+### NextJS
 
 - [Simple, powerful and flexible site generation framework with everything you love from Next.js](https://github.com/shuding/nextra)
 - https://www.ctnicholas.dev/articles/how-to-use-nextjs-middleware
@@ -377,6 +384,12 @@
 - [Rallly is a free group meeting scheduling tool – built with Next.js, Prisma & TailwindCSS](https://github.com/lukevella/rallly)
 - [Developer directory built on @Nextjs, @MongoDB and @Vercel](https://twitter.com/steventey/status/1537116400875057152)
 - [I use tools like MJML, MDX, React, and Next.js to create client-friendly emails without writing a single <table> tag by hand](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx)
+- [MDX powered blog with Next.js and TinaCMS](https://github.com/perkinsjr/my-developer-site-template)
+- https://www.jamesperkins.dev/post/authentication-doesnt-have-to-be-hard
+- https://github.com/mvllow/next-pwa-template
+- https://github.com/instantcommerce/next-password-protect
+- https://github.com/jchiatt/nextjs-basic-auth
+- https://github.com/samuelkraft/notion-blog-nextjs
 
 ### Remix
 
@@ -387,7 +400,7 @@
 - https://twitter.com/crc/status/1519336745808056322
 - https://github.com/stars/knowler/lists/remix
 - [Musical Heritage Application](https://github.com/greyshore/MusicTree.Me)
-
+- [remix.polymath.chat](https://twitter.com/mjackson/status/1619419579754889218)
 
 ## Solid.js 
 
@@ -506,3 +519,4 @@
 - https://www.ctnicholas.dev/articles/how-to-use-sandpack-for-code-demos
 - https://souporserious.com/use-babel-to-statically-analyze-jsx
 - [Unpack the source code of React](https://spaceraccoon.github.io/webpack-exploder)
+- [Migrating your T3 App into a Turborepo](https://www.jumr.dev/blog/t3-turbo)

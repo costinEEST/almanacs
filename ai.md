@@ -218,6 +218,7 @@
 - [tracking improvements to train large language models?](https://twitter.com/nlpguy_/status/1556881385927098369)
 - [Use OpenAI to generate functioning React Native components](https://github.com/cawfree/react-native-openai-jsx)
 - https://github.com/giuven95/chatgpt-failures
+- https://github.com/C-Nedelcu/talk-to-chatgpt + https://www.youtube.com/@cned9319/videos
 
 ### Tool
 

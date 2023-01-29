@@ -14,6 +14,7 @@
 - [Corporate Open Source Anti-patterns](https://youtu.be/Pm8P4oCIY3g)
 - [Empowering science with open-source software by Santiago Soler](https://github.com/santisoler/iag-usp-2022)
 - https://www.poberezkin.com/posts/2019-07-10-talk-why-you-should-open-source-for-real.html
+- https://www.learnwithjason.dev/create-and-deploy-a-documentation-website
 
 ### Community 
 
@@ -29,6 +30,8 @@
 - https://github.com/ossf/security-reviews
 - https://nolanlawson.com/2023/01/09/retiring-pinafore
 - https://github.com/acekyd/made-in-nigeria
+- https://github.com/Kristories/awesome-guidelines
+- https://www.mux.com/blog/the-building-blocks-of-great-docs
 
 ### Tool
 

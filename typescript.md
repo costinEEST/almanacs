@@ -64,6 +64,7 @@
 - [If you're having a type inference issue with a 3rd party library, don't try to force it by shoving types into generics](https://twitter.com/BenLesh/status/1025156281936408576)
 - [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
 - https://p.migdal.pl/2020/03/02/types-tests-typescript.html
+- https://nehalist.io/trpc-review
 
 ### Patterns
 
@@ -90,6 +91,7 @@
 - https://github.com/jdan/adventofcode/tree/main/2021/ts
 - https://github.com/ciocan/adventofcode
 - https://github.com/otobot1/Advent-of-Code-2022
+- https://trpc.io/blog/tinyrpc-client
 
 ### Radio 
 
@@ -131,6 +133,7 @@
 - [TypeScript AST Resources](https://twitter.com/grow_love/status/1585711764565811201)
 - https://judehunter.dev/blog/assembly-interpreter-in-typescripts-type-system + https://github.com/judehunter/ts-asm
 - https://github.com/adamshaylor/cooking-with-typescript
+- https://type-level-typescript.com/articles/making-generic-functions-pass-type-checking
 
 ### Tool
 
@@ -139,3 +142,4 @@
 - https://github.com/stripe-archive/flow-to-typescript-codemod
 - https://echobind.com/post/why-we-ditched-graphql-for-trpc
 - [A very compact representation of a placeholder for an image](https://github.com/woltapp/blurhash/tree/master/TypeScript)
+- https://github.com/vanilla-extract-css/vanilla-extract

@@ -1,9 +1,12 @@
 
 ### Alternative 
 
-- https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt
+- https://github.com/sudhakar3697/electron-alternatives
+- [A list of awesome packages and frameworks for implementing javascript applications on the desktop](https://github.com/styfle/awesome-desktop-js)
+- [Tauri: An Electron alternative written in Rust](https://news.ycombinator.com/item?id=26194990)
+- [Svelte NodeGUI, a lightweight Electron alternative with native UI](https://news.ycombinator.com/item?id=26361423)
 - https://github.com/gluon-framework/gluon
-
+- https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt
 
 ### Application
 
@@ -28,8 +31,11 @@
 - https://github.com/mattermost/desktop
 - [A WIP IRC client](https://github.com/evanlucas/eyearesee)
 - [Refined Evernote desktop app](https://github.com/klaussinani/tusk)
-- [A Desktop App for YouTube Music](https://github.com/ytmdesktop/ytmdesktop)
-
+- [YouTube Music](https://github.com/ytmdesktop/ytmdesktop)
+- [display the periodic table](https://github.com/FlorianFe/Elements)
+- [manage your ebook at ease](https://github.com/oguzhaninan/Buka)
+- [A cross-platform GUI for youtube-dl made in Electron and node.js](https://github.com/jely2002/youtube-dl-gui)
+- https://github.com/leerob/youtube-to-mp3
 
 ### Boilerplate
 
@@ -69,7 +75,6 @@
 - [A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl.](https://github.com/mayeaux/videodownloader)
 - [An example Electron app with a backend server all wired up via IPC.](https://github.com/jlongster/electron-with-server-example)
 - [A free and open source code snippets manager for developers. ](https://github.com/antonreshetov/massCode)
-- https://github.com/leerob/youtube-to-mp3
 - https://github.com/jitsi/jitsi-meet-electron
 - [Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.](https://github.com/agalwood/Motrix)
 - [OpenMTP - Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp) + https://www.inputmag.com/guides/theres-finally-an-alternative-to-googles-horrible-android-file-transfer-app
@@ -78,7 +83,6 @@
 - [Emoji searcher but as a menubar app.](https://github.com/muan/mojibar)
 - [Electron JS Browser To Find XSS Vulnerabilities Automatically](https://github.com/RenwaX23/XSSTRON)
 - https://cameronnokes.com/blog/how-to-know-if-a-desktop-app-uses-electron
-- [A list of awesome packages and frameworks for implementing javascript applications on the desktop](https://github.com/styfle/awesome-desktop-js)
 - [Subtitler is a free Desktop application to search and download right subtitle blazing fast](https://github.com/s8sachin/subtitler)
 - https://www.staszewski.me/how-to-extract-secrets-from-unsafe-electron-app
 - [Free, open-source SQL client for Windows and Mac](https://github.com/plotly/falcon)

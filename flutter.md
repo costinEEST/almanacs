@@ -7,6 +7,7 @@
 - [Free and open-source tool to visualize your keystrokes in real-time](https://github.com/mulaRahul/keyviz)
 - [helps you gradually build long-lasting habits](https://github.com/Glitchy-Tozier/githo)
 - https://github.com/anitab-org/mentorship-flutter
+- [Cross-platform Spaced Repetition App](https://github.com/friebetill/TubeCards)
 
 ### Book 
 

@@ -12,6 +12,8 @@
 - https://clojureverse.org/t/clojurescript-compiler-internals-with-mike-fikes/7141
 - https://www.youtube.com/playlist?list=PLb0lswj12Ntx1zt9QqcI6j9d8XB2YAFsb
 - [Attila Egri-Nagy](http://www.egri-nagy.hu/talks)
+- [Building a SaaS with Clojure & ClojureScript (Reitit, PSQL, shadow-cljs, tailwindcss)](https://www.youtube.com/live/QEqMoySD9uc?feature=share) + 
+- https://twitter.com/borkdude/status/1614299598134153217 + [How startups can move fast with Clojure](https://youtu.be/MZy-SNswH2E)
 
 ### Community
 
@@ -32,6 +34,8 @@
 
 ### Practice
 
+- https://www.ovistoica.com/blog/6-resources-to-get-you-building-real-world-clojure-projects-in-notime
+- https://github.com/ovistoica/clojure-saas-boilerplate
 - https://github.com/tbsschroeder/clojure-webshop-app
 - https://github.com/leahneukirchen/adventofcode2021
 - https://github.com/yyna/advent-of-code

@@ -240,6 +240,8 @@
 - [Notes on importing content to Mastodon](https://github.com/lucahammer/fediporter)
 - https://github.com/wong2/beijing_bus
 - [script that aggregates recent popular posts from your Mastodon timeline](https://github.com/hodgesmr/mastodon_digest)
+- [Scrape Facebook public pages without an API key](https://github.com/kevinzg/facebook-scraper)
+- [Youtube Scrapper in Python using Bs4](https://github.com/mahmoudamr512/PythonYoutubeScrapper)
 
 ### Static website
 

@@ -301,6 +301,7 @@
 - [Create a random JavaScript string in different bases](https://twitter.com/freddyb/status/1529572995374645249)
 - https://dfkaye.com/posts/2021/07/17/fixing-number.tofixed
 - https://maximilianocontieri.com/code-smell-180-bitwise-optimizations
+- https://github.com/erikwiffin/0.30000000000000004
 
 ### default arguments
 
@@ -351,6 +352,7 @@
 - [Wondering how to best display the current time (hh:mm) on a web page.](https://twitter.com/rauschma/status/1228056819567910914)
 - [Why is January represented by 0 in JavaScript and not by 1?](https://twitter.com/rauschma/status/1330881310039175169)
 - https://github.com/andreigasparovici/npm-time-ago-ro
+- https://www.builder.io/blog/relative-time
 
 ### new Error()
 
@@ -533,6 +535,7 @@
 ### Web Components
 
 - https://www.abeautifulsite.net/posts/a-web-components-primer
+- https://github.com/web-padawan/webcomponents.today
 - https://github.com/davatron5000/htmlwithsuperpowers
 - [A curated list of awesome framework-agnostic standalone web components](https://github.com/davatron5000/awesome-standalones)
 - https://jeremenichelli.io/2017/10/the-web-components-experience
@@ -630,6 +633,8 @@
 
 ### Tool
 
+- https://frontendmastery.com/posts/building-and-serving-frontends-at-scale
+- https://github.com/frehner/modern-guide-to-packaging-js-library
 - [Check the licenses for the NPM packages that you use](https://github.com/franciscop/legally)
 - [ESLint, Prettier, Stylelint, TypeScript and Semantic Release configs.](https://twitter.com/ManuelBieh/status/1211759353973354497)
 - [Using sourcemaps on production without exposing the source code 🕵️‍](https://itnext.io/using-sourcemaps-on-production-without-revealing-the-source-code-%EF%B8%8F-d41e78e20c89)

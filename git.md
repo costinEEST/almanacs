@@ -144,6 +144,7 @@
 - [GitHub label without configuration](https://github.com/azu/github-label-setup)
 - https://karimrahal.com/2023/01/05/github-actions-leaking-secrets
 - [all github pages links can be permalinks](https://github.com/stevekrouse/unbreakable-links)
+- https://github.com/manovotny/github-releases-for-automated-package-publishing-action
 
 ### Tool
 

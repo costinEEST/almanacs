@@ -78,6 +78,7 @@ javascript: (() =>
 - https://souporserious.com/bundling-workers-for-npm
 - [Measure cpu cache size client side in Javascript](https://github.com/allanlw/cache_size)
 - https://dagster.io/blog/web-workers-performance-issue
+- https://github.com/astoilkov/main-thread-scheduling
 
 ### Engine
 
@@ -273,6 +274,7 @@ javascript: (() =>
 - https://addons.mozilla.org/en-US/firefox/addon/firefox-translations + https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot
 - [A browser extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) + https://news.ycombinator.com/item?id=33853773
 - https://github.com/0xdevalias/chrome-NewWindowWithTabsToRight
+- https://github.com/Norfeldt/github-issue-reactions-browser-extension
 
 ### Chrome
 

@@ -76,6 +76,7 @@
 - [hardware hacking courses/content](https://twitter.com/seanmeals/status/1427776005675048962)
 - [Ian Cutress](https://www.youtube.com/c/TechTechPotato/playlists)
 - [Clubul electroniștilor nostalgici](https://www.facebook.com/groups/1416834245239405/files/files)
+- https://github.com/cajt/list_of_robot_electronics
 
 ### Course
 

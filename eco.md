@@ -24,6 +24,7 @@
 
 - https://www.udemy.com/course/environment-and-ethics-a-basic-course
 - https://www.udemy.com/course/carbon-neutrality-fundamentals
+- [Sustainable Software Engineering | Luís Cruz](https://luiscruz.github.io/course_sustainableSE/2022)
 
 ### Cinema 
 
@@ -33,6 +34,7 @@
 
 - [Cassandra Xia](https://cassandraxia.com)
 - [database of sorts containing energy consumption of consumer devices](https://twitter.com/municode/status/1551288879810056192)
+- https://github.com/luiscruz/awesome-mobile-app-energy-papers
 
 ### Opinion
 

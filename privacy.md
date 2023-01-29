@@ -185,3 +185,4 @@
 - https://www.msn.com/en-us/news/technology/feds-order-google-to-track-people-searching-certain-names-or-details/ar-AAPbECM
 - https://github.com/bionic/how-to-export-personal-data
 - https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps
+- https://www.politico.eu/article/netherlands-dutch-government-work-tiktok-data-protection

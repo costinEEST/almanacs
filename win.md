@@ -111,6 +111,7 @@
 - https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads
 - https://github.com/S3cur3Th1sSh1t/OffensiveVBA
 - https://github.com/sailay1996/awesome_windows_logical_bugs
+- [Tool for Active Directory Certificate Services enumeration and abuse](https://github.com/ly4k/Certipy) + https://www.youtube.com/@hacktricks_LIVE/videos
 
 ### Clean up
 

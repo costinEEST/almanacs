@@ -238,6 +238,7 @@
 
 ### Production
 
+- https://edge-data-latency.vercel.app
 - [11 _million_ QPS through our MySQL stack at Shopify](https://twitter.com/jeremycole/status/1466560904976236545)
 - [SQL 1.5 TB RAM was more effective than caching page fragments with Redis](https://twitter.com/alexcwatt/status/1544876135711916035)
 

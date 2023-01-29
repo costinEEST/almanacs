@@ -247,6 +247,7 @@
 
 ### Deploy
 
+-https://github.com/markodenic/web-development-resources#hosting
 - https://akshaykhot.com/deploying-rails-like-2005
 - https://www.joyfulbikeshedding.com/blog/2021-01-06-the-future-of-traveling-ruby.html
 - https://www.johnhawthorn.com/2018/01/this-website-is-a-makefile
@@ -341,6 +342,7 @@
 - https://github.com/smirnov-am/awesome-saas-boilerplates
 - https://github.com/mehan/hip-hop-misogyny-stats
 - https://github.com/stars/davidteren/lists/rails-app-examples
+- https://github.com/openstreetmap/openstreetmap-website
 
 ### Internals
 

@@ -373,6 +373,7 @@
 - [How to write CommonJS exports that can be name-imported from ESM](https://2ality.com/2022/10/commonjs-named-exports.html)
 - https://2ality.com/2021/06/typescript-esm-nodejs.html
 - [Require in ESM mode](https://pvdz.ee/notes/184)
+- https://github.com/lukeed/resolve.exports
 
 ### Event loop
 
@@ -527,6 +528,7 @@
 - https://geshan.com.np/blog/2022/11/nodejs-xml-parser
 - https://blog.taskli.st/posts/how-to-publish-to-npm-in-2023
 - [An audio playback library](https://github.com/tropicbliss/symphonia)
+- [Node version management](https://github.com/tj/n)
 
 ### Testing
 

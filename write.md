@@ -100,6 +100,7 @@
 - [Additions to Markdown for writing specification documents](https://github.com/leebyron/spec-md)
 - https://devtut.github.io/latex
 - https://github.com/hadynz/obsidian-kindle-plugin
+- [A Jekyll template for creating books in multiple formats](https://github.com/electricbookworks/electric-book)
 
 ### Miscellaneous
 

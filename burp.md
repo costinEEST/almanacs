@@ -37,6 +37,7 @@
 - https://github.com/1N3/IntruderPayloads
 - [Bypass 403 or 401 or 404](https://github.com/SummerSec/BypassSuper)
 - https://github.com/bsysop/IpLogger
+- https://github.com/vmware/burp-rest-api
 
 ### Cinema
 
