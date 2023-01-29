@@ -408,6 +408,7 @@
 - https://www.printrecarti.ro/palmira-arnaiz
 - https://eli.thegreenplace.net/tag/spanish
 - https://github.com/marcboquet/spanish-names
+- [La Historia Del Español En Diez Minutos](https://www.youtube.com/playlist?list=PLhQpDGfX5e7AlhSrnLWvaanGfn72BnFN1), https://www.open.edu/openlearn/languages/spanish/the-history-spanish-about-six-minutes
 
 ### Swedish
 

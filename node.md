@@ -271,7 +271,7 @@
 - https://newrelic.com/blog/best-practices/nodejs-application-monitoring
 - https://github.com/skirianov/console-m + https://twitter.com/KajetanSw/status/1595717645642473473
 
-### Deno 
+### Deno
 
 - [web framework for Cloudflare Workers, Deno, Bun](https://github.com/honojs/hono)
 
@@ -590,6 +590,7 @@
 - [Who pollutes your prototype? Find the libs on cdnjs in an automated way](https://blog.huli.tw/2022/09/01/en/angularjs-csp-bypass-cdnjs)
 - https://serpdog.io/blog/web-scraping-google-maps
 - [Find fediverse addresses in the profiles of your Twitter followings](https://github.com/lucahammer/fedifinder)
+- https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDRE2J8T5vWups_jIcAfqg7
 
 ### Micro service
 

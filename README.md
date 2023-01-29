@@ -130,6 +130,7 @@
 - [Scheme](scheme.md)
 - [Self](self.md)
 - [Smalltalk](smalltalk.md)
+- [SolidJS](solid.md)
 - [Speak!](speak.md)
 - [Spirituality](spirit.md)
 - [Sports](sport.md)
@@ -163,6 +164,7 @@
 
 ### Similar projects
 
+- [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge)
 - [Rebeca Sarai](https://www.rsarai.xyz/building-a-liability)
 - [Shawn Wang](https://github.com/sw-yx/brain)
 - [Vivian Qu](https://vivqu.com/blog/2020/10/18/digital-gardens)
@@ -175,3 +177,4 @@
 - [Du Lin](https://github.com/mrdulin/resources)
 - [David Kaye](https://github.com/dfkaye/dev-links)
 - [Parsia Hakimian](https://github.com/parsiya/Parsia-Clone)
+- [Louis Pilfold](https://github.com/lpil/learning)

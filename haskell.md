@@ -16,7 +16,7 @@
 - https://github.com/erkmos/haskell-companies
 - [Rebecca Skinner](https://github.com/rebeccaskinner/presentations)
 
-### Course 
+### Course
 
 - http://cl-informatik.uibk.ac.at/users/meberl//teaching.html
 
@@ -27,6 +27,7 @@
 - [Vincent Orr](https://www.youtube.com/channel/UCbKpj2hZ0CFXLatyx615JNw/playlists)
 - [Strema: a compiler targeting JavaScript in Haskell](https://www.youtube.com/playlist?list=PLhMOOgDOKD4IkQM75GkAnXI-fpIrDAnsu) + https://gitlab.com/gilmi/strema
 - https://github.com/haskell-beginners-2022/course-plan
+- [Continuation-Passing Style Programming | Hans Schenker](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PA1lEOk2KFA37YdEnRnLqRi)
 
 ### Compiler
 
@@ -58,7 +59,6 @@
 ### Radio
 
 - https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones
-
 
 ### Opinion
 

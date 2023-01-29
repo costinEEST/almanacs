@@ -77,7 +77,6 @@
 - https://github.com/zpao/building-react-from-scratch
 - https://portal.gitnation.org/contents/remote-rendering-with-web-workers + https://shopify.engineering/remote-rendering-ui-extensibility
 
-
 ### Demo
 
 - https://github.com/SergiuAlexandruPop/crwn-clothing
@@ -237,7 +236,7 @@
 - [Accept `children` as a function (a.k.a. render props) and `as` prop](https://twitter.com/diegohaz/status/1236383871580717056)
 - https://github.com/Lemoncode/render-props-typescript
 - https://github.com/danburzo/react-recipes
-- https://unicorn-utterances.com/posts/react-refs-complete-story 
+- https://unicorn-utterances.com/posts/react-refs-complete-story
 - https://ui.dev/useref
 - https://betterprogramming.pub/why-you-should-be-separating-your-server-cache-from-your-ui-state-1585a9ae8336
 - [The composition patterns (usage of children) that we sometimes use to optimize can also be used to interleave components of different types](https://twitter.com/sebmarkbage/status/1096115287781400576)
@@ -402,13 +401,13 @@
 - [Musical Heritage Application](https://github.com/greyshore/MusicTree.Me)
 - [remix.polymath.chat](https://twitter.com/mjackson/status/1619419579754889218)
 
-## Solid.js 
+### Solid.js
 
 - https://youtu.be/dOgnQ9SuKYk
 - [Solid, Qwik, React](https://github.com/gdorsi/slides-next-wave-of-javascript-fw)
 - https://github.com/matschik/component-party
 
-### Qwik.js 
+### Qwik.js
 
 - https://www.builder.io/blog/movies-app-in-7-frameworks-which-is-fastest-and-why + https://github.com/wmalarski/qwik-city-movies
 
@@ -460,7 +459,6 @@
 - https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score
 - https://profy.dev/article/debug-react-vscode
 - [Solving common performance pitfalls with React tooling and hooks](https://www.causal.app/blog/react-perf)
-
 
 ### Testing
 

@@ -45,6 +45,7 @@
 - https://reactfordataviz.com/articles/corona-simulation
 - [Data Journalism and Visualization with Free Tools](https://journalismcourses.org/resource/DATA0819.html)
 - https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course
+- https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides, [Covers basic Web Development, ObservableHQ, D3, the Vega-Lite Javascript API and Tableau](https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz)
 
 ### Community
 

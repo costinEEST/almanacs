@@ -16,7 +16,7 @@
 - https://www.poberezkin.com/posts/2019-07-10-talk-why-you-should-open-source-for-real.html
 - https://www.learnwithjason.dev/create-and-deploy-a-documentation-website
 
-### Community 
+### Community
 
 - [Coraline Ada Ehmke](https://where.coraline.codes/media)
 - https://github.com/RunaCapital/awesome-oss-alternatives
@@ -32,6 +32,7 @@
 - https://github.com/acekyd/made-in-nigeria
 - https://github.com/Kristories/awesome-guidelines
 - https://www.mux.com/blog/the-building-blocks-of-great-docs
+- https://github.com/brycejohnston/awesome-agriculture
 
 ### Tool
 

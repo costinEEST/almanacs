@@ -8,6 +8,7 @@
 - [Dependency Injection Principles, Practices, and Patterns | Steven van Deursen, Mark Seemann ](https://twitter.com/DrewTheDev1/status/1565010009217531909)
 - [Game Programming Patterns](https://github.com/Habrador/Unity-Programming-Patterns)
 - https://leanpub.com/csharp-for-babies
+- [How to Think Like a Computer Scientist: Python-3 and C# versions](https://github.com/cspwcspw/books)
 
 ### Cinema
 
@@ -20,7 +21,7 @@
 - [Brendan Enrick](https://www.youtube.com/c/DevChatter/playlists) + https://www.pluralsight.com/courses/pair-programming
 - https://www.youtube.com/@GregorBiswanger/playlists
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://devtut.github.io/csharp
 - https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
@@ -32,11 +33,11 @@
 - [James Montemagno](https://www.youtube.com/c/JamesMontemagno/playlists)
 - https://www.linkedin.com/posts/milan-jovanovic_here-are-three-books-that-made-me-a-better-activity-7020297617767071744-Z9TN
 
-### Demo 
+### Demo
 
 - [ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more](https://github.com/microsoft/dotnet-podcasts)
 
-### Historic 
+### Historic
 
 - https://nodogmapodcast.bryanhogan.net/169-mads-torgersen-c-11-part-2-listener-questions + https://twitter.com/ploeh/status/1605894663914782723
 
@@ -46,7 +47,6 @@
 - https://github.com/martijnboland/LeanAspNetCore-React
 - https://github.com/wesdoyle/design-patterns-explained-with-food + https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x
 
-
 ### Tool
 
 - https://knifecoat.com/Tools/CSharp
@@ -55,10 +55,9 @@
 - [Decompilation Tools and High Productivity Utilities](https://github.com/badamczewski/PowerUp)
 - [powerful command line calculator app for developers](https://github.com/xoofx/kalk)
 
-### Scrapping 
+### Scrapping
 
 - https://github.com/spazbg/HackerOne-Twitter-accounts-scraper
-
 
 ### Security
 

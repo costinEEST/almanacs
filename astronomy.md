@@ -24,7 +24,7 @@
 - [Space Exploration by Quarto](https://www.humblebundle.com/downloads?key=NvwuY8cr4H85ZN35)
 - [The Nature of Earth: An Introduction to Geology](http://students.aiu.edu/submissions/profiles/resources/onlineBook/W9T9u2_geology.pdf)
 
-### Binocular 
+### Binocular
 
 - https://www.academia.edu/44150388/Istoria_binoclului_Fragmentarium
 - https://earthsky.org/astronomy-essentials/top-tips-for-using-ordinary-binoculars-for-stargazing
@@ -60,9 +60,9 @@
 - [Originile Noastre Pe Intelesul Tuturor | FluxMagnetic](https://www.youtube.com/playlist?list=PL75C702B13AF5FD2F) + https://www.youtube.com/playlist?list=PL82yk73N8eoX8RpvQfjdupAKFWKjtMhTe
 - [Seasonal star guides | Delta Planetarium](https://www.youtube.com/playlist?list=PLNk7FC-XaRCkKCeCxl0vrDFi9JE784ZX8)
 - [Cursuri de Astronomie 1-50 | Astronom UNIMIS](https://www.youtube.com/playlist?list=PLs1G-dN-hJ9GQk5PXWXRKw8pYDQXHEGIm) + https://www.unimis.ro/en/courses
+- [Discover Mercury | OpenLearn from The Open University](https://www.youtube.com/playlist?list=PLhQpDGfX5e7C6u4p-2TUwfHx6FeLvFyaB)
 
-
-### Community 
+### Community
 
 - James Newland: https://www.jimmynewland.com/wp/astro/curriculum-guide, https://www.youtube.com/c/jimmynewland/playlists
 - https://ro.wikipedia.org/wiki/Astronom
@@ -111,7 +111,7 @@
 - https://www.academia.edu/44777060/MYTHOLOGICAL_ORIGIN_OF_CONSTELLATIONS_AND_THEIR_DESCRIPTION_ARATUS_PSEUDO_ERATOSTHENES_HYGINUS
 - https://www.youtube.com/playlist?list=PLNk7FC-XaRCko6eLOLeegYSS9hh0_kMSL
 
-### Course 
+### Course
 
 - http://www.cursastronomie.ro/PlanificareAstro.pdf
 - [Kevin M. Lee](https://astro.unl.edu)
@@ -124,17 +124,17 @@
 - [Michael Zingale](https://zingale.github.io/classes.html) + https://github.com/zingale/astro_animations
 - https://www.edx.org/course/introduction-to-aerospace-engineering-astronautics
 
-### Historic 
+### Historic
 
 - https://www.esa.int/Science_Exploration/Space_Science/3_December
 - https://stiinta-pentru-toti.blogspot.com/2022/06/astronomia.html
 - https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes
 
-### Mars 
+### Mars
 
 - https://www.planetary.org/articles/mars-calendar
 
-### Moon 
+### Moon
 
 - https://interestingengineering.com/science/formation-of-moon-5-theories
 - https://interestingengineering.com/science/humans-to-live-on-moon-nasa
@@ -151,7 +151,7 @@
 - https://daeken.svbtle.com/a-case-for-orbital-rings
 - https://www.newscientist.com/article/2339020-enceladus-shown-to-have-all-six-of-the-essential-elements-for-life
 
-### Picture 
+### Picture
 
 - https://maximusphotography.files.wordpress.com/2022/10/sun-oct20.gif
 - [Our galaxy](https://www.eso.org/public/images/eso1242a/zoomable)
@@ -164,7 +164,7 @@
 - https://singularityhub.com/2022/11/23/this-amazing-interactive-map-of-the-universe-takes-you-all-the-way-back-to-the-big-bang + https://mapoftheuniverse.net
 - [Astrophotography by Thomas Fuchs](https://lightfrom.space)
 
-### Star 
+### Star
 
 - https://upwikiro.top/wiki/Astronomical_catalog
 
@@ -183,7 +183,6 @@
 - https://github.com/swshadle/physics
 - https://github.com/taka-tanaka-zz/astronomy-to-data-science
 
-
 ### Telescope
 
 - https://www.academia.edu/39138210/Dobson_si_telescoapele_sale_pentru_amatori
@@ -191,7 +190,7 @@
 - https://www.space.com/22505-worlds-largest-telescopes-explained-infographic.html
 - [Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/story/index.html)
 
-### Radio 
+### Radio
 
 - https://planetariubm.ro/ghid-practic-de-orientare-pe-bolta-cereasca
 - https://www.thegreatcourses.com/courses/the-search-for-exoplanets-what-astronomers-know + https://eli.thegreenplace.net/2022/summary-of-reading-july-september-2022

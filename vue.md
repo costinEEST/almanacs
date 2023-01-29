@@ -17,7 +17,8 @@
 
 ### Demo
 
-- [A simple URL shortener.](https://github.com/herbievine/swooosh)
+- [A simple URL shortener](https://github.com/herbievine/swooosh)
+- https://github.com/salomonelli/best-resume-ever
 
 ### Development
 
@@ -31,4 +32,3 @@
 - https://hswolff.com/blog/things-i-dont-like-about-vuejs-as-a-react-engineer
 - [React Hooks vs Vue 3 Composition API](https://academy.esveo.com/en/blog/Yr)
 - https://www.getrevue.co/profile/masteringjs/issues/building-and-testing-email-templating-using-vue-257729
-

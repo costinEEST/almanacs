@@ -275,6 +275,7 @@ javascript: (() =>
 - [A browser extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) + https://news.ycombinator.com/item?id=33853773
 - https://github.com/0xdevalias/chrome-NewWindowWithTabsToRight
 - https://github.com/Norfeldt/github-issue-reactions-browser-extension
+- [Firefox extension to highlight and save text from the web](https://github.com/frnsys/hili)
 
 ### Chrome
 
@@ -425,7 +426,7 @@ javascript: (() =>
 - https://www.smashingmagazine.com/smashing-guide-search-engine-optimization
 - https://developers.google.com/search/docs/guides/intro-structured-data
 - [Find broken links, missing images, etc within your HTML.](https://github.com/stevenvachon/broken-link-checker)
-- [🐿 Scurry around your site and find all those broken links.](https://github.com/JustinBeckwith/linkinator)
+- [Scurry around your site and find all those broken links](https://github.com/JustinBeckwith/linkinator)
 - https://vasco3.gitbooks.io/hacks-n-notes/content/internet_marketing/seo.html
 - https://github.com/darekkay/best-practices#seo
 - [Curs Super SEO pentru eCommerce](https://academia.gomag.ro/biblioteca?access=67)
@@ -435,6 +436,10 @@ javascript: (() =>
 - [SEO | knowthen](https://www.youtube.com/playlist?list=PLs0HJRuXPAqsj9fxpr8eJdJxCT2fN_G8S)
 - [Today I set up SEO for rubyandrails.info](https://twitter.com/nleonid/status/1554154237080354818)
 - https://github.com/sw-yx/company-youtubes#business-oriented
+
+### Server-sent events (SSE)
+
+- https://www.youtube.com/playlist?list=PLw5h0DiJ-9PAQ1pKeDanXUjGbjPAluT7S
 
 ### Web Real-Time Communication (WebRTC)
 
@@ -579,7 +584,6 @@ javascript: (() =>
 - [QR codes art](https://research.swtch.com/qart)
 - https://github.com/dongri/emv-qrcode-doc
 - https://github.com/azu/browser-resources
-
 
 ### Tool
 

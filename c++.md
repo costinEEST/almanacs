@@ -15,7 +15,7 @@
 - https://asawicki.info/news?x=tag&tag=books
 - https://github.com/PacktPublishing/Deciphering-Object-Oriented-Programming-with-CPP
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://devtut.github.io/cpp
 - https://github.com/cpp-best-practices/cppbestpractices
@@ -39,6 +39,7 @@
 - [Yacob (Kobi) Cohen-Arazi](https://twitter.com/kobi_ca)
 - [Matt Godbolt](https://www.youtube.com/c/MattGodbolt/playlists)
 - [David William Plummer](https://www.youtube.com/c/DavesGarage/playlists)
+- https://github.com/bajamircea/bajamircea.github.io
 
 ### Cinema
 
@@ -53,6 +54,7 @@
 - [Cᐩᐩ Weekly With Jason Turner](https://www.youtube.com/c/lefticus1/playlists)
 - Computer graphics by Dmitry Sokolov> https://www.youtube.com/playlist?list=PL9MBW6e0V7UKNFQH_ZGUrAmZ4NZjZ2GpF + https://github.com/ssloy/tinyrenderer/wiki + https://members.loria.fr/DSokolov/teaching
 - https://www.youtube.com/playlist?list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy
+- [C++ for Java Programmers | Mary Elaine Califf](https://www.youtube.com/playlist?list=PLrB7VCHji9zhoXMnbNUBqvD-NIi7XK2xD)
 
 ### Course
 
@@ -78,7 +80,6 @@
 - [RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines](https://github.com/google/re2)
 - [Audible feedback on just how much your browsing feeds into Google](https://github.com/berthubert/googerteller)
 
-
 ### Implementation
 
 - https://github.com/ssloy/tinyrenderer/wiki
@@ -96,7 +97,7 @@
 - [which language would you learn for malware development?](https://twitter.com/Amr_Thabet/status/1517215313053597697)
 - [A library to allow writing Unity scripts in native code: C, C++, assembly](https://github.com/jacksondunstan/UnityNativeScripting)
 
-### Practice 
+### Practice
 
 - https://github.com/rbaron/advent-of-code-2019
 
@@ -109,4 +110,3 @@
 ### Security
 
 - https://github.com/Grant-Knoetze/c--red-team-code
-
