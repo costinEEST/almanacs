@@ -80,6 +80,7 @@
 - [Patents from big tech companies and a wider list of all patents from these companies](https://patentdrop.substack.com/archive)
 - [I Love Failure](https://us7.campaign-archive.com/home/?u=08e3b46f1ab4e0f4f75301af5&id=4689d7e3c5)
 - [Paulo André](https://hagakure.substack.com/archive)
+- [Ben Erez](https://benerez.substack.com/archive)
 
 ### Marketing
 
