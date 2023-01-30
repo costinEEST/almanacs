@@ -190,6 +190,7 @@
 - https://github.com/rwxrob/awesome-go
 - https://github.com/nurcahyaari/golang-starter
 - https://github.com/Alikhll/golang-developer-roadmap
+- https://evertpot.com/go-for-php-programmers
 
 ### Opinion
 

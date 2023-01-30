@@ -70,6 +70,8 @@
 - [Smallest possible syntactically valid files of different types](https://github.com/mathiasbynens/small)
 - https://blog.yossarian.net/2021/06/01/Playing-with-Apples-weird-compression-formats
 - https://nelsonslog.wordpress.com/2022/12/19/zstandard-as-gzip-replacement-for-files
+- [tools for removing DRM from ebooks](https://github.com/noDRM/DeDRM_tools)
+- [compare Internet-Drafts and RFCs](https://author-tools.ietf.org/iddiff)
 
 ### Security
 

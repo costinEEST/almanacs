@@ -22,6 +22,7 @@
 - https://benwiser.com/blog/My-blog-is-now-generated-by-Google-Docs.html
 - [ID scanning Android app and library. Supports MRZ, NFC, Barcodes, and ID PASS Lite cards](https://github.com/newlogic/smartscanner-core)
 - https://github.com/anitab-org/mentorship-android
+- [Workaround to avoid Medium paywall on your Android device](https://github.com/a-chris/medium-no-thanks)
 
 ### Development
 

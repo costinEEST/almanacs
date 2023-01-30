@@ -223,6 +223,7 @@
 - https://www.facebook.com/groups/aicomunity
 - [6 month learning plan for AI large language models](https://twitter.com/CristiVlad25/status/1618680534972104704)
 - [GPT-3 chatbot with long-term memory and external sources](https://github.com/daveshap/LongtermChatExternalSources)
+- [client-side PoC of OpenAI Chat GPT API via Web Speech API](https://github.com/WebReflection/talk2gpt)
 
 ### Tool
 

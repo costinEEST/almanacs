@@ -344,6 +344,7 @@
 - https://github.com/mehan/hip-hop-misogyny-stats
 - https://github.com/stars/davidteren/lists/rails-app-examples
 - https://github.com/openstreetmap/openstreetmap-website
+- https://github.com/walski/Browser-Based-Game-Scaling-With-Rails
 
 ### Internals
 

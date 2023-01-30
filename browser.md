@@ -276,6 +276,7 @@ javascript: (() =>
 - https://github.com/0xdevalias/chrome-NewWindowWithTabsToRight
 - https://github.com/Norfeldt/github-issue-reactions-browser-extension
 - [Firefox extension to highlight and save text from the web](https://github.com/frnsys/hili)
+- [A browser extension to detect website censorship methods as you surf](https://github.com/KarimPwnz/censorship-detector)
 
 ### Chrome
 

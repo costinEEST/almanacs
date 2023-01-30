@@ -58,3 +58,4 @@
 - https://meshedinsights.com/2021/06/14/legally-ignoring-the-license
 - https://github.com/mawrkus/pull-request-review-guide
 - https://blog.debiania.in.ua/posts/2016-03-19-how-i-read-toses-eulas-and-stuff-like-that.html
+- [RFCs in HTML](https://lowentropy.net/posts/line-length)

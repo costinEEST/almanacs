@@ -374,6 +374,8 @@
 - https://2ality.com/2021/06/typescript-esm-nodejs.html
 - [Require in ESM mode](https://pvdz.ee/notes/184)
 - https://github.com/lukeed/resolve.exports
+- [Create graphs from your CommonJS, AMD or ES6 module dependencies](https://github.com/pahen/madge)
+
 
 ### Event loop
 
@@ -451,7 +453,6 @@
 - [Displays JSON files in a flat format.](https://github.com/soheilpro/catj)
 - [A tinyURL service powered by node.js, express.js and a reddis database.](https://github.com/shahzeb1/nodejs-tinyURL)
 - [Authoring, publishing and working with commonjs and esm.](https://github.com/manuelbieh/authoring-modules-in-node)
-- [Create graphs from your CommonJS, AMD or ES6 module dependencies.](https://github.com/pahen/madge)
 - [Packages and resources that work really well with https://github.com/zkat/npx](https://github.com/junosuarez/awesome-npx)
 - [Access the system clipboard (copy/paste) - cross-platform](https://github.com/sindresorhus/clipboard-cli)
 - [Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default.](https://github.com/dweinstein/node-google-play)
@@ -591,6 +592,7 @@
 - https://serpdog.io/blog/web-scraping-google-maps
 - [Find fediverse addresses in the profiles of your Twitter followings](https://github.com/lucahammer/fedifinder)
 - https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDRE2J8T5vWups_jIcAfqg7
+- [module to retrieve organic search results and much more from Google](https://github.com/LuanRT/google-this)
 
 ### Micro service
 

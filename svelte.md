@@ -58,3 +58,7 @@
 ### Radio
 
 - https://syntax.fm/show/390/from-react-to-sveltekit
+
+### Security 
+
+- https://edoverflow.com/2023/sveltekit-security-headers

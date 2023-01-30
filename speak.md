@@ -279,6 +279,7 @@
 - https://ocw.mit.edu/courses/21g-503-japanese-iii-fall-2019 + https://www.youtube.com/playlist?list=PLUl4u3cNGP61kz4wAgG77DjRf5bXhLJNv
 - https://www.goodreads.com/review/list/29664620-glenn?shelf=language-learning
 - [Japanese Calligrapher Takumi](https://www.youtube.com/@takumitohgu)
+- https://github.com/LuanRT/Japanese-Word-Of-The-Day
 
 ### Korean
 

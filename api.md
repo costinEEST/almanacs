@@ -32,6 +32,7 @@
 - https://github.com/zhuowei/ClubhouseAPI
 - [Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends](https://github.com/diddledani/twitodon) + https://diddledani.com/twitodon
 - https://github.com/dilame/instagram-private-api
+- [A wrapper around YouTube's internal API](https://github.com/LuanRT/YouTube.js)
 
 ### GraphQL
 
@@ -148,6 +149,7 @@ curl v2.wttr.in/Bucharest
 - [Use Google text-to-speech on your Linux desktop](https://github.com/glutanimate/simple-google-tts)
 - [Dockerized Python microservice with REST API for verbs conjugation in French, Spanish and Portuguese](https://github.com/bretttolbert/verbecc-svc)
 - [English Dictionary(CLI and API) based on dictionary.cambridge.org](https://github.com/khaled0fares/meaning)
+- [A module that scrapes lexico.com to get the meanings of almost any word + audio and examples](https://github.com/LuanRT/lexico-dictionary)
 
 ### Miscellaneous
 
@@ -194,6 +196,7 @@ curl v2.wttr.in/Bucharest
 - https://blog.postman.com/introducing-30-days-of-postman-coding-challenge
 - [Datacenter / Hosting IP Address API - Find out if an IP address belongs to a hosting provider such as AWS, Azure or Digitalocean](https://github.com/NikolaiT/IP-Address-API)
 - https://css-irl.info/handy-tools-for-mocking-api-requests
+- [Access Kindle's private API in Node.js without a headless browser](https://github.com/Xetera/kindle-api)
 
 ### Travel 
 
