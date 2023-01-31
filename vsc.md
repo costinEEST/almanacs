@@ -47,6 +47,7 @@
 ### Tool
 
 - https://vscode.dev
+- https://makevscodeawesome.com
 - [A simple script to automate downloading, installing and restarting Visual Studio Code.](https://github.com/moeenz/vscode-updater)
 - [One second to read GitHub code with VS Code](https://github.com/conwnet/github1s)
 - [programatic way to restart the TS Server in VS Code](https://twitter.com/souporserious/status/1481007385002995712)

@@ -74,6 +74,7 @@
 - https://devtalk.com/books/programming-ruby-3-2-5th-edition + https://twitter.com/noelrap/status/1585285902250614784
 - [StimulusReflex Patterns](https://julianrubisch.gumroad.com/l/JRSRP)
 - [Specialising dynamic techniques for implementing the Ruby programming language | Chris Seaton](https://chrisseaton.com/phd/specialising-ruby.pdf)
+- https://www.amazon.com/Rapid-Rubyist-Matthew-Stopa-ebook/dp/B00DPQ5P24
 
 ### Cheat sheet
 
@@ -117,6 +118,7 @@
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PL55SPnO0U2H3Am21MYgNcviYLzJ0bFv3J
+- [Matt Stopa](https://www.youtube.com/@MattStopaDev/playlists) + https://github.com/MattStopa/Coding-Casts-Code
 - https://github.com/daryllxd/every_ruby_talk_ever
 - [Inside The Muse - Semicolon&Sons](https://www.youtube.com/watch?v=aCzT-LQI6x0&list=PLpkoC9yJXDKlGz7SPwofn1joJH9nAABmX)
 - [Programming With Nothing](https://github.com/tomstuart/nothing)

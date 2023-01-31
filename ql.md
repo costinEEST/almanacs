@@ -6,6 +6,7 @@
 
 - https://github.com/SummerSec/learning-codeql
 - https://github.com/github/codeql-dubbo-workshop
+- https://github.com/advanced-security/codeql-workshops-staging
 
 ### PHP 
 

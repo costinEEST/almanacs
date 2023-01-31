@@ -67,6 +67,7 @@
 - [Exploring the Processing-in-Memory Paradigm for Future Computing Systems](https://safari.ethz.ch/projects_and_seminars/spring2022/doku.php?id=processing_in_memory)
 - http://sandsoftwaresound.net/courseware/cs2-data-structures + http://sandsoftwaresound.net/wp-content/uploads/2013/07/cs2_overview.html
 - [Intermediate software design | Douglas C. Schmidt](http://www.dre.vanderbilt.edu/~schmidt/cs251)
+- [CSC3510 Computer Organization](https://github.com/pkivolowitz/CSC3510-S-2023)
 
 ### Compiler
 

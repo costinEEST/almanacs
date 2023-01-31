@@ -35,6 +35,7 @@
 - https://www.ipspace.net/Books
 - https://github.com/bobeff/programming-math-science#computer-networks-and-network-programming
 - [Computer Networks: A Systems Approach](https://github.com/SystemsApproach/book)
+- [An Introduction to Computer Networks | Peter L Dordal](http://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf)
 
 ### Communities
 
@@ -43,6 +44,7 @@
 
 ### Course
 
+- [CSC3600 Network Programming](https://github.com/pkivolowitz/CSC3600-S-2023)
 - [CS 450: Introduction to Networking](https://www.cs.uic.edu/~ckanich/cs450/s17/syllabus.html)
 - https://www.udemy.com/course/network-engineer-taster-courses
 - https://www.udemy.com/course/tcp-http-spdy-deep-dive

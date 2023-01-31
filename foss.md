@@ -41,6 +41,7 @@
 - [Curated list of awesome tools for managing open source programs](https://github.com/todogroup/awesome-ospo)
 - [licensechecker (lc) a command line application which scans directories and identifies what software license things are under producing reports as either SPDX, CSV, JSON, XLSX or CLI Tabular output](https://github.com/boyter/lc)
 - https://www.btw.so/open-source-alternatives
+- [AI powered documentation writer](https://github.com/mintlify/writer)
 
 ### Miscellaneous
 

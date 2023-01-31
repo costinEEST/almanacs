@@ -14,6 +14,7 @@
 - https://remysharp.com/2022/11/28/automatically-uploading-screenshots-using-my-own-tools
 - https://blog.jim-nielsen.com/2022/netlify-public-folder-part-iv
 - https://pqina.nl/blog/compress-image-before-upload
+- https://www.macarthur.me/posts/serving-notion-presigned-images-with-cloudflare
 
 ### Book 
 

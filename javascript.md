@@ -329,6 +329,7 @@
 - https://www.matthewgerstman.com/tech/reduce-reduce-reduce
 - https://courses.kyleshevlin.com/courses/array-reduce
 - https://cbrevik.com/react-native-and-the-array-reverse-bug
+- https://www.macarthur.me/posts/looping-over-empty-array-items
 
 ### new Uint8Array()
 
@@ -484,41 +485,6 @@
 - https://twitter.com/SonarSource/status/1469321227248582659 + https://twitter.com/garethheyes/status/1469011117133418500
 - [A regular expression that matches the Full Emoji List](https://github.com/sweaver2112/Regex-combined-emojis)
 - https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss
-
-### Document Object Model (DOM)
-
-- [Common tasks of managing HTML DOM with vanilla JavaScript](https://htmldom.dev)
-- https://github.com/mikewest/deprecating-document-domain
-- https://danlevy.net/you-may-not-need-axios
-- [Everything you (n)ever wanted to know about touch and pointer events](https://github.com/patrickhlauke/getting-touchy-presentation)
-- https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage
-- https://chrisrng.svbtle.com/using-url-createobjecturl
-- [POST data to the server even inside onbeforeunload, etc where XHR/fetch isn't reliable.](https://twitter.com/_jayphelps/status/1244794448237735936)
-- [Async DOM listeners](https://twitter.com/WebReflection/status/1260474785894666242)
-- [.dom is a tiny (512 byte) template engine that uses virtual DOM and some of react principles.](https://github.com/wavesoft/dot-dom)
-- https://www.malgol.com/how-to-reload-an-iframe-in-javascript
-- [Avoid appending to innerHTML](https://twitter.com/jaffathecake/status/1322136845199810560)
-- https://github.com/Schepp/async-document.write
-- https://hachibu.net/posts/2020/keyboard-events-tldr
-- [bypass document.write](https://twitter.com/LiveOverflow/status/1319325896545865728)
-- https://css-tricks.com/using-abortcontroller-as-an-alternative-for-removing-event-listeners
-- https://benfrain.com/building-a-table-of-contents-with-active-indicator-using-javascript-intersection-observers
-- [What is document.domain?](https://twitter.com/zcorpan/status/1202958734949060608)
-- [appending multiple elements to the DOM?](https://twitter.com/paul_irish/status/1169841234438848519)
-- [Find out which element is scrolling](https://gist.github.com/brumm/74fd7eaafd50c8477519) + https://twitter.com/funkensturm/status/1222616188485799937
-- [is there a way to debug dom events in a timeline?](https://twitter.com/sseraphini/status/1377218954851201025)
-- [A zero friction custom elements like primitive.](https://github.com/WebReflection/builtin-elements)
-- [DOM event data scraped from MDN](https://github.com/eddyerburgh/dom-event-types)
-- https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html + https://news.ycombinator.com/item?id=27129858
-- https://whistlr.info/2020/understanding-load
-- [DOM Traversing and Scraping using GraphQL](https://github.com/syrusakbary/gdom)
-- [Collection of functions used for DOM manipulations](https://github.com/revolter/min)
-- [Fire mouse events when a user intends it](https://github.com/tristen/hoverintent)
-- https://github.com/0xGodson/blogs/blob/master/_posts/2022-07-21-art-of-dom-clobbering.md
-- https://github.com/cms/domready
-- https://github.com/mgp/book-notes/blob/master/advanced-dom-scripting.markdown
-- https://frontendmasters.com/blog/vanilla-javascript-todomvc
-- [A simple method to invoke a function after the browser has rendered & painted a frame](https://github.com/andrewiggins/afterframe)
 
 ### Practice
 
@@ -704,6 +670,7 @@
 - [A JSON parser, tokenizer, traverser, and printer](https://github.com/humanwhocodes/momoa)
 - [Unfollow everyone on Linkedin](https://gist.github.com/brunolemos/8e13c5472b0c07d795aa766423569546)
 - [Write a Babel Plugin | Ryan Stelly](https://www.youtube.com/playlist?list=PLimXc_loopipqrNW48HSDf-dqENp7Skkq)
+- [Using Vite to develop an SPA in the context of a production page](https://www.macarthur.me/posts/project-local-spa-onto-production-page)
 
 ### Documentation
 

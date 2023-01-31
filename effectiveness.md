@@ -106,7 +106,6 @@
 - https://hachibu.net/posts/2020/how-i-manage-my-random-daily-notes
 - [simplenoteapp First Impressions](https://twitter.com/jsjoeio/status/1354518287980371970)
 - https://blacusens.ro/2020/12/de-ce-sa-faci-un-curs-de-scris-si-cateva-recomandari
-- https://github.com/rubymorillo/pocket-tech-writing-list
 
 ### Learning
 

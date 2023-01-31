@@ -189,7 +189,8 @@
 
 ### Key-value databases
 
-- [Need a lightweight DB for a toy node project I'm working on. I always reach for DiskDB, but want to try something new.](https://twitter.com/wesbos/status/1232680811964649472)
+- [Need a lightweight DB for a toy node project I'm working on. I always reach for DiskDB](https://twitter.com/wesbos/status/1232680811964649472)
+- [Simple key-value storage with support for multiple backends](https://github.com/jaredwray/keyv)
 
 ### Demos
 

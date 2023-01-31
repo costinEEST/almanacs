@@ -18,6 +18,11 @@
 - [sounds of Mexico City’s streets](https://pudding.cool/2022/09/cdmx)
 - [Jack Schaedler](https://github.com/jackschaedler)
 
+### Course
+
+- https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3
+- [Digital Signal Processing](https://github.com/leafac/cpp-dsp-juce--study-group) 
+
 ### Development 
 
 - https://medium.com/programming-for-music/introduction-to-audio-programming-8b9e7ecdeaea

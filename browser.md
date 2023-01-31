@@ -54,6 +54,43 @@ javascript: (() =>
 - https://jojo.io/posts/bookmarklets-speed
 - [Get your Kindle highlights out of the cloud and onto your computer](https://github.com/TristanH/bookcision) + https://alan.norbauer.com/articles/bookcision
 
+### Document Object Model (DOM)
+
+- [Common tasks of managing HTML DOM with vanilla JavaScript](https://htmldom.dev)
+- https://github.com/mikewest/deprecating-document-domain
+- https://danlevy.net/you-may-not-need-axios
+- [Everything you (n)ever wanted to know about touch and pointer events](https://github.com/patrickhlauke/getting-touchy-presentation)
+- https://labs.detectify.com/2016/12/08/the-pitfalls-of-postmessage
+- https://chrisrng.svbtle.com/using-url-createobjecturl
+- [POST data to the server even inside onbeforeunload, etc where XHR/fetch isn't reliable.](https://twitter.com/_jayphelps/status/1244794448237735936)
+- [Async DOM listeners](https://twitter.com/WebReflection/status/1260474785894666242)
+- [.dom is a tiny (512 byte) template engine that uses virtual DOM and some of react principles.](https://github.com/wavesoft/dot-dom)
+- https://www.malgol.com/how-to-reload-an-iframe-in-javascript
+- [Avoid appending to innerHTML](https://twitter.com/jaffathecake/status/1322136845199810560)
+- https://github.com/Schepp/async-document.write
+- https://hachibu.net/posts/2020/keyboard-events-tldr
+- [bypass document.write](https://twitter.com/LiveOverflow/status/1319325896545865728)
+- https://css-tricks.com/using-abortcontroller-as-an-alternative-for-removing-event-listeners
+- https://benfrain.com/building-a-table-of-contents-with-active-indicator-using-javascript-intersection-observers
+- [What is document.domain?](https://twitter.com/zcorpan/status/1202958734949060608)
+- [appending multiple elements to the DOM?](https://twitter.com/paul_irish/status/1169841234438848519)
+- [Find out which element is scrolling](https://gist.github.com/brumm/74fd7eaafd50c8477519) + https://twitter.com/funkensturm/status/1222616188485799937
+- [is there a way to debug dom events in a timeline?](https://twitter.com/sseraphini/status/1377218954851201025)
+- [A zero friction custom elements like primitive.](https://github.com/WebReflection/builtin-elements)
+- [DOM event data scraped from MDN](https://github.com/eddyerburgh/dom-event-types)
+- https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html + https://news.ycombinator.com/item?id=27129858
+- https://whistlr.info/2020/understanding-load
+- [DOM Traversing and Scraping using GraphQL](https://github.com/syrusakbary/gdom)
+- [Collection of functions used for DOM manipulations](https://github.com/revolter/min)
+- [Fire mouse events when a user intends it](https://github.com/tristen/hoverintent)
+- https://github.com/0xGodson/blogs/blob/master/_posts/2022-07-21-art-of-dom-clobbering.md
+- https://github.com/cms/domready
+- https://github.com/mgp/book-notes/blob/master/advanced-dom-scripting.markdown
+- https://frontendmasters.com/blog/vanilla-javascript-todomvc
+- [A simple method to invoke a function after the browser has rendered & painted a frame](https://github.com/andrewiggins/afterframe)
+- https://www.macarthur.me/posts/options-for-removing-event-listeners
+- https://www.macarthur.me/posts/when-dom-updates-appear-to-be-asynchronous
+
 ### new IntersectionObserver()
 
 - [Using the Intersection Observer web API to improve performance.](https://www.growingwiththeweb.com/2018/01/intersection-observer.html)
@@ -469,6 +506,7 @@ javascript: (() =>
 - https://piranna.github.io/2020/12/30/Types-of-WebRTC-networks
 - [Blender session in the browser over WebRTC](https://twitter.com/paulgb/status/1583460709538492416)
 - [Karl Stolley, author of Programming WebRTC](https://forum.devtalk.com/t/spotlight-karl-stolley-author-interview-and-ama/82817)
+- [Polyfill for WebRTC in Workers](https://github.com/johanholmerin/worker-webrtc)
 
 ### Canvas
 
@@ -554,6 +592,7 @@ javascript: (() =>
 ### Performance
 
 - https://github.com/leandrotk/web-performance-studies
+- [interactive flamegraph visualizer](https://github.com/jlfwong/speedscope)
 - https://www.speedcurve.com/blog/element-timing-one-true-metric
 - https://www.webpagetest.org/learn/lightning-fast-web-performance/#toc
 - https://www.davrous.com/2020/03/20/frame-variable-refresh-rates-or-why-tesla-is-responsible-for-the-60-fps-war

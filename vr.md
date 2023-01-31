@@ -3,6 +3,7 @@
 - [Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation Spatial Computing](https://www.amazon.com/gp/product/1492044199)
 - https://www.wired.com/gallery/8-science-books-read-gift-winter-2020
 - [What books/videos/otherwise should I read to get more immersed in games/metaverse/etc?](https://twitter.com/andrewchen/status/1588298714761678848)
+- [Learning Modern 3D Graphics Programming | Jason L. McKesson](https://github.com/paroj/gltut)
 
 ### Course
 

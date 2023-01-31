@@ -41,6 +41,11 @@
 - https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vidbuchanan.co.uk/widgets/pngdiff
 - https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 
+### .tex 
+
+- [Latex en 147 minutos](https://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf)
+- https://tex.stackexchange.com/questions/7770/file-extensions-related-to-latex-etc
+
 ### .txt
 
 - https://github.com/timoteostewart/convert_text_file_to_mp3

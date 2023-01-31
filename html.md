@@ -102,7 +102,6 @@
 - https://meiert.com/en/indices/html-elements
 - https://github.com/raunofreiberg/ui-playbook
 - [Guidance for designing ethically humane digital products through patterns focused on user well-being.](https://humanebydesign.com)
-- https://css-tricks.com/how-to-section-your-html
 - https://allthetags.com
 - http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
 - https://www.goodemailcode.com
@@ -146,6 +145,7 @@
 ### <link />
 
 - https://3perf.com/blog/link-rels
+- [`rel="?"`](https://www.htmhell.dev/adventcalendar/2022/21)
 
 ### <meta />
 
@@ -265,6 +265,7 @@
 
 ### Semantic
 
+- https://css-tricks.com/how-to-section-your-html
 - https://uselessdivs.com/blog/a-short-guide-to-help-you-pick-the-correct-html-tag
 - https://matthiasott.com/notes/level-up-your-headings-game
 - https://www.w3.org/International/questions/qa-personal-names

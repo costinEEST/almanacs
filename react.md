@@ -187,6 +187,7 @@
 - https://github.com/laststance/vite-rtk-query/blob/main/src/hooks/useDidUpdateEffect.ts
 - https://marmelab.com/blog/2023/01/11/use-async-effect-react.html
 - https://yoavik.com/snippets/use-global-state, https://twitter.com/sebastienlorber/status/1618248643919626244
+- https://www.macarthur.me/posts/when-i-needed-uselayouteffect-in-react
 
 ### Lifecycle methods
 

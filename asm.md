@@ -23,9 +23,11 @@
 - https://www.labri.fr/perso/fleury/posts/programming/learning-arm-deep-down-dirty.html
 - https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip + https://twitter.com/jeremyreimer/status/1573390920627941382
 - https://0x434b.dev/misc-study-notes-about-arm-aarch64-assembly-and-the-arm-trusted-execution-environment-tee
+- [An introduction to ARM64 assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
 
 ### Book
 
+- [A book teaching assembly language programming on the ARM 64 bit ISA](https://github.com/pkivolowitz/asm_book)
 - https://www.bartlettpublishing.com/site/product/programming-from-the-ground-up
 - https://github.com/mytechnotalent/Reverse-Engineering-Tutorial + https://0xinfection.github.io/reversing
 - [Programming With Ones and Zeros](https://www.hanshq.net/ones-and-zeros.html)

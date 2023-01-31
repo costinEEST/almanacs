@@ -27,6 +27,7 @@
 - https://github.com/naraB/AppleCard + https://twitter.com/barany6m/status/1556204604509093888
 - https://github.com/raindropio/mobile
 - https://github.com/Trancever/twitterClone
+- [control your smart greenhouse via your smartphone](https://github.com/lucadibello/in-house-greenhouse)
 
 ### Cinema
 

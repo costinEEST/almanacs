@@ -25,6 +25,7 @@
 - https://www.youtube.com/c/WPCasts/playlists
 - https://www.youtube.com/user/kellenmace
 - https://egghead.io/courses/headless-wordpress-4a14
+- [Wordpress SASS | Abdu Tawfik](https://www.youtube.com/playlist?list=PLHdp1h1eRH0HhntVcpxnbMUWXSKgZEJ-v)
 
 ### Development
 

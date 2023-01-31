@@ -34,6 +34,10 @@
 - [Anatomy of a PHP Request | Herman J. Radtke, Joel Salas](https://docs.google.com/presentation/d/1F8SZlAzM0ZZLgIDk8B7WInMxSqLsXXRH9VyPfEGL_ZU)
 - https://github.com/phptodayorg/php-must-watch
 
+### Community
+
+- [Caleb Porzio](https://twitter.com/calebporzio/status/1620066458687651842)
+
 ### Patterns
 
 - https://github.com/kamranahmedse/design-patterns-for-humans
