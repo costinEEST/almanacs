@@ -8,8 +8,9 @@
 - [helps you gradually build long-lasting habits](https://github.com/Glitchy-Tozier/githo)
 - https://github.com/anitab-org/mentorship-flutter
 - [Cross-platform Spaced Repetition App](https://github.com/friebetill/TubeCards)
+- [An open source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
 
-### Book 
+### Book
 
 - https://markm208.github.io/flutterbook
 
@@ -38,7 +39,6 @@
 - [Web platform support: Flutter or ReactNative?](https://twitter.com/sebastienlorber/status/1367424075619049474)
 - [A working replica of Instagram DMs and stories, written in Flutter and Go](https://github.com/tusharsadhwani/instachat)
 - [Static markdown blogging space. Has 'dynamic' capabilities like blog post search but all done with #Flutter Web](https://github.com/gladimdim/metapersona)
-
 
 ### Security
 

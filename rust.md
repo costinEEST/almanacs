@@ -9,6 +9,10 @@
 - [A microservice framework for building scalable applications](https://github.com/juicycleff/ultimate)
 - https://github.com/jtroo/rust-spa-auth
 
+### Application
+
+- [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
+
 ### Best practices
 
 - https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust + (https://news.ycombinator.com/item?id=22818150)

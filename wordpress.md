@@ -2,6 +2,7 @@
 
 - [Favorite (Headless) CMS and why?](https://twitter.com/jamesqquick/status/1374751439084519429)
 - https://github.com/stars/esplito/lists/content-management
+- [Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners](https://github.com/GetPublii/Publii)
 
 ### Boilerplate
 
@@ -37,7 +38,6 @@
 - [Built with Next.js, headless WordPress and Netlify](https://bejamas.io/blog/backlinko-case-study)
 - https://wpengine.com/blog/faust-js-the-framework-for-headless-wordpress
 - https://danabyerly.com/tag/wordpress
-
 
 ### Opinion
 
