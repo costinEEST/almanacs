@@ -114,6 +114,7 @@
 - https://github.com/hendurhance/ui-ux
 - https://bootcamp.uxdesign.cc/ui-ux-visual-designers-behind-great-games-1bd1b2724001
 - https://github.com/nucliweb/People-You-Should-Follow-on-CodePen
+https://github.com/AllThingsSmitty/css-protips
 
 ### Design system
 

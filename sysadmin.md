@@ -175,6 +175,8 @@
 - https://www.udemy.com/course/nginx-crash-course + https://nginx.husseinnasser.com
 - https://blog.yossarian.net/2018/03/15/blog.yossarian.net-is-now-self-hosted
 - https://specbranch.com/posts/one-big-server
+- https://github.com/mikeroyal/Self-Hosting-Guide
+
 
 ### References
 

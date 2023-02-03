@@ -315,6 +315,10 @@
 
 - https://blog.nina.coffee/2016/02/13/learning-lithuanian.html
 
+### Norvegian
+
+- https://www.youtube.com/playlist?list=PL6plkCKba-yYROq9d98xCy9aTcq_b3LEc
+
 ### Occidental
 
 - https://occidental-lang.com

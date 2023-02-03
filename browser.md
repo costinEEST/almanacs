@@ -400,6 +400,7 @@ javascript: (() =>
 
 ### IndexDB
 
+- https://patrickbrosset.com/articles/2023-01-17-web-storage
 - https://twitter.com/tgroshon/status/1332499610192015362
 - https://just-be.dev/posts/export-import-indexeddb
 - https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15

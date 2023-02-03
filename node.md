@@ -173,6 +173,7 @@
 - https://backend.cafe/how-to-unlock-the-fastest-fastify-server-startup
 - https://github.com/octave-online/octave-online-server
 - https://blog.appsignal.com/2022/11/23/nodejs-architecture-pitfalls-to-avoid.html
+- https://github.com/lokalise/node-service-template
 
 ### Cinema
 
@@ -530,6 +531,7 @@
 - https://blog.taskli.st/posts/how-to-publish-to-npm-in-2023
 - [An audio playback library](https://github.com/tropicbliss/symphonia)
 - [Node version management](https://github.com/tj/n)
+- https://featurist.co.uk/blog/running-typescript-in-node-with-near-zero-compilation-cost
 
 ### Testing
 

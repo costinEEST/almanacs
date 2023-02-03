@@ -9,6 +9,7 @@
 - https://github.com/HeinrichHartmann/Statistics-for-Engineers
 - https://minireference.com/blog/no-bullshit-guide-to-statistics-progress-update
 - Probabilistic Machine learning by Kevin Murphy: https://github.com/probml/pyprobml, https://github.com/probml/pml-book
+- [Learning Statistics | Danielle Navarro](https://github.com/ethanweed/pythonbook)
 
 ### Course
 

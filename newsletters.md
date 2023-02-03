@@ -149,6 +149,7 @@
 - [Gonçalo Morais](https://www.heroesofcomputer.science)
 - [Timothy Snyder](https://snyder.substack.com/archive)
 - [Socialist History Society](https://us13.campaign-archive.com/home/?u=11ee562272eabf15d59e3d9ad&id=d0961f0fd9)
+- [Coffee With A Codex | Schoenberg Institute for Manuscript Studies](https://us20.campaign-archive.com/home/?u=41f7f3e3835c1e02e1ba9bef8&id=e8635aaa19)
 
 ### Hardware
 

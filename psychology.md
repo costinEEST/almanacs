@@ -61,3 +61,4 @@
 - https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_Three_Essays_complete.pdf
 - https://www.nytimes.com/1985/03/24/books/an-urge-more-vital-than-sex.html
 - [Foucault's History of Sex | Dan Krier](https://www.youtube.com/playlist?list=PLuHqxqWmJNcAuQ7QMMi5ItYnKJtYtNzaC)
+- https://www.amazon.com/The-Science-Kissing-What-Telling/dp/0446559903

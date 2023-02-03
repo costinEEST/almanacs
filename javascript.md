@@ -485,6 +485,7 @@
 - https://twitter.com/SonarSource/status/1469321227248582659 + https://twitter.com/garethheyes/status/1469011117133418500
 - [A regular expression that matches the Full Emoji List](https://github.com/sweaver2112/Regex-combined-emojis)
 - https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss
+- https://zerodayhacker.com/getting-started-with-regex
 
 ### Practice
 
@@ -546,6 +547,7 @@
 - [customizable emoji picker](https://github.com/missive/emoji-mart)
 - https://lit.how
 - https://github.com/ja0nz/bachelorarbeit
+- https://www.slideshare.net/bdelacretaz/vanillajs-the-web-platform-a-match-made-in-heaven
 
 ### Testing
 

@@ -115,6 +115,7 @@
 - https://github.com/bradfrost/frontend-guidelines-questionnaire#html-principles
 - https://github.com/LeaVerou/html-syntax-guidelines
 - [HTML elements visualized](https://julesblom.com/writing/html-elements)
+- https://better-mobile-inputs.netlify.app
 
 ### <details></details>
 
@@ -133,6 +134,10 @@
 ### Drag and Drop
 
 - https://horstmann.com/unblog/2018-12-16/index.html
+
+### <form></form>
+
+- [Three attributes for better web forms](https://adactio.com/journal/19842)
 
 ### <head></head>
 

@@ -140,3 +140,7 @@
 - https://webinista.com/updates/php-migration-consulting
 - [A platform to create documentation/wiki content built with Laravel](https://github.com/BookStackApp/BookStack)
 - [Librarie PHP pentru verificarea in API ANAF a contribuabililor care sunt inregistrati conform art. 316 din Codul Fiscal](https://github.com/itrack/anaf)
+
+### Opinion 
+
+- [Why are so many PHP projects moving to Node?](https://news.ycombinator.com/item?id=34536041)

@@ -14,7 +14,7 @@
 
 ### Tool
 
-- [embedmd: embed code into markdown and keep everything in sync.](https://github.com/campoy/embedmd)
+- [embedmd: embed code into markdown and keep everything in sync](https://github.com/campoy/embedmd)
 - https://begriffs.com/posts/2020-07-16-generating-mime-email.html + https://github.com/begriffs/mimedown
 - [A PHP tool that helps you write eBooks in markdown and convert to PDF](https://github.com/themsaid/ibis)
 - [Fusuma makes slides with Markdown easily.](https://github.com/hiroppy/fusuma)
@@ -26,3 +26,4 @@
 - [Preview GitHub README.md files locally before committing them](https://github.com/joeyespo/grip)
 - https://github.com/mundimark
 - [compilable markdown for linear algebra](https://github.com/iheartla/iheartla)
+- https://github.com/marcomontalbano/video-to-markdown
