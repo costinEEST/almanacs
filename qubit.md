@@ -8,6 +8,8 @@
 - https://www.amazon.com/Cosmic-Revolutionarys-Handbook-Beat-Bang/dp/1108486703
 - https://www.goodreads.com/book/show/17471298-quantum-computing-since-democritus
 - https://eli.thegreenplace.net/2009/01/05/book-review-qed-the-strange-theory-of-light-and-matter-by-richard-feynman
+- https://www.manning.com/books/quantum-computing-in-action
+- [Quantum Mechanics | Leonard I. Schiff](https://twitter.com/curiouswavefn/status/1621578536128741377)
 
 ### Cheat sheet
 
@@ -22,6 +24,7 @@
 - [Centre for Quantum Technologies](https://www.youtube.com/c/quantumlah/playlists)
 - https://www.youtube.com/playlist?list=PLEBQWzRBb4ioWmrK6jpS3fUI6d_2JeKRp
 - [Early History of Quantum Mechanics | Kathy Joseph](https://www.youtube.com/playlist?list=PLepnjl2hm9tG2VXMd1edYxATvFdA3hcLP)
+- [Freeman Dyson](https://www.youtube.com/playlist?list=PLVV0r6CmEsFzDA6mtmKQEgWfcIu49J4nN)
 
 ### Community
 

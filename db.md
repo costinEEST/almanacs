@@ -22,6 +22,7 @@
 - [Seven Databases in Seven Weeks | Luc Perkins, Eric Redmond, and Jim Wilson](https://7dbs.io)
 - https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1
 - https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development
+- [Databases and Data Management by Pragmatic](https://www.humblebundle.com/downloads?key=vsdwaHwT8uWxPHmd)
 
 ### Course
 

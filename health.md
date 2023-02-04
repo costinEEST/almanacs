@@ -42,6 +42,7 @@
 - https://davidson.weizmann.ac.il/en/online/reasonabledoubt/complex-link-between-depression-and-serotonin
 - [Could We Train Our Brains to See New Colors?](https://neurosciencenews.com/color-perception-21924)
 - https://www.technologyreview.com/2022/10/12/1061204/human-brain-cells-transplanted-baby-rats-brains
+- https://nelsonslog.wordpress.com/2023/02/04/co2-and-cognition
 
 ### Book
 
@@ -161,6 +162,7 @@
 - https://adriancopcea.com/2022/08/14/iodul-in-sanatatea-umana-notiuni-elementare
 - https://sunlightenthusiast.wordpress.com/2022/07/25/how-to-understand-cough-medicines
 - https://www.haaretz.com/archaeology/2022-09-19/ty-article/.premium/bong-age-israeli-archaeologists-find-opium-in-bronze-age-ceramics/00000183-5036-d890-a593-dabefb7f0000
+- [Vlad Zaha](https://www.facebook.com/NicuStefanutaMEP/posts/pfbid0Nnz3LsZrQs1JNv8FL6nKXKNeoTh6bN8oPyb4g4avKxmhokAJqpmH2Z9KPSH7Bw1jl)
 
 ### Grocery
 

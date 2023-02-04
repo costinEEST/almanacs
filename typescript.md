@@ -91,6 +91,7 @@
 - https://github.com/ciocan/adventofcode
 - https://github.com/otobot1/Advent-of-Code-2022
 - https://trpc.io/blog/tinyrpc-client
+- https://github.com/g-plane/type-gymnastics
 
 ### Radio
 

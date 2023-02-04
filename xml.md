@@ -19,7 +19,9 @@
 - https://research.nccgroup.com/2021/03/29/saml-xml-injection
 - https://www.xmind.net/m/xNEY9b
 - https://www.blackhat.com/html/webcast/11192015-exploiting-xml-entity-vulnerabilities-in-file-parsing-functionality.html
-
+- [Vulnerabilities due to XML files processing: XXE in C# applications in theory and in practice](https://pvs-studio.com/en/blog/posts/csharp/0918)
+- [BLIND XXE OOB over DNS](https://youtu.be/aSiIHKeN3ys)
+- http://raviramesh.info/xml-attacks.html
 ### Opinion
 
 - https://alexwlchan.net/2015/12/pretty-print

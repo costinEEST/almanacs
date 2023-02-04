@@ -145,6 +145,7 @@
 - https://i.blackhat.com/USA-22/Wednesday/US-22-Shaik-Attacks-From-a-New-Front-Door-in-4G-5G-Mobile-Networks.pdf
 - https://www.facebook.com/dragosr/posts/pfbid0QmoikA7xFE9T5MsmP81ok2sbGoND5YbZ5qtif95Br3wjsiXbHFkHosCgttPuQZwBl + [be your own cellphone carrier](https://twitter.com/dragosr/status/1578452620637003776)
 - https://www.shielder.com/blog/2020/04/notsosmartconfig-broadcasting-wifi-credentials-over-the-air
+- [all the tones and cadences used in call progress tones worldwide](https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.180-2010-PDF-E.pdf)
 
 ### Radio-frequency identification (RFID) 
 

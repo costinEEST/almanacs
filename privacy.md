@@ -8,6 +8,7 @@
 - https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 + https://craphound.com/category/destroy + https://www.goodreads.com/review/show/3525601035
 - [Hack Lab: Introduction to Cybersecurity (INTLPOL 268)](https://opencasebook.org/casebooks/6132-hack-lab-intlpol-268)
 - [Understanding Privacy | Heather Burns](https://webdevlaw.uk/book) + https://webdevlaw.uk/2023/01/10/2022s-best-reads
+- https://www.manning.com/books/data-privacy
 
 ### Bypass
 

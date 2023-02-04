@@ -151,6 +151,7 @@
 - https://www.wired.com/story/mars-hiberators-guide-to-the-galaxy
 - https://daeken.svbtle.com/a-case-for-orbital-rings
 - https://www.newscientist.com/article/2339020-enceladus-shown-to-have-all-six-of-the-essential-elements-for-life
+- https://wis-wander.weizmann.ac.il/space-physics/look-bright-side-earth
 
 ### Picture
 

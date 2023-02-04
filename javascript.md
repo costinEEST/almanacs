@@ -490,6 +490,7 @@
 ### Practice
 
 - [Virtual Piano](https://hyperskill.org/projects/101)
+- https://github.com/felipefialho/frontend-challenges
 
 ### Single-page application
 

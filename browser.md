@@ -161,6 +161,7 @@ javascript: (() =>
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
 - [Check how trackable you are based on your browser extensions](https://github.com/z0ccc/extension-fingerprints)
 - https://ninoseki.github.io/2020/05/16/browser-extension.html
+- [decide which cookies you want and don’t want, auto-accepts cookie pop-ups for you, and warns you whenever it finds a website not respecting your preferences](https://www.super-agent.com)
 - https://github.com/ryanckulp/twitter_ad_blocker
 - [The browser extension framework](https://github.com/PlasmoHQ/plasmo)
 - [Skip youtube video sponsors](https://github.com/ajayyy/SponsorBlock)

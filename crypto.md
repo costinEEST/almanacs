@@ -102,6 +102,7 @@
 - https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html
 - https://github.com/EdOverflow/cryptojourney-content
 - https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords
+- https://www.nytimes.com/2012/11/24/world/europe/code-found-on-pigeon-baffles-british-cryptographers.html
 
 ### Standard
 
@@ -141,6 +142,7 @@
 - [Post-quantum Cryptography and running experiments with it at Cloudflare](https://www.sofiaceli.com/2020/12/10/pq-kem-tls.html)
 - https://www.cyberklats.ch/tls-your-lan
 - https://github.com/prbinu/tls-scan
+- https://medium.com/pinterest-engineering/employee-facing-mutual-tls-8643fe0cc0f9
 
 ### Cheat sheet
 

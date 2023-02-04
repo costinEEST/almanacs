@@ -182,6 +182,7 @@
 - https://a16zcrypto.substack.com/archive
 - [The Good Time Show](https://us2.campaign-archive.com/home/?u=2d6f741a3763b55897a787bd1&id=4c2dfd6761)
 - https://newsletter.blockthreat.io/archive
+- https://weekinethereum.substack.com/archive
 
 ### Investing
 
@@ -378,6 +379,7 @@
 - [Ben Greenberg](https://www.getrevue.co/profile/hummusonrails)
 - https://world.hey.com/this.week.in.rails
 - [Noel Rappin](https://buttondown.email/noelrap/archive)
+- https://rubyweekly.com/issues
 
 ### Politics
 
@@ -385,6 +387,7 @@
 - [Romanian Dispatch](https://us17.campaign-archive.com/home/?u=afe17686523fcfd2ed8ff4853&id=4a2e90f17a)
 - [Ediție săptămânală despre dezinformare](https://newsletter.misreport.ro)
 - [China's tech scene, economy and politics](https://www.chinatalk.media/archive)
+- https://cellphonetaskforce.org/newsletters
 
 ### Social sciences
 

@@ -222,6 +222,8 @@
 - https://www.packt.com/product/cloud-and-networking/b17157-cloud-native-observability-with-opentelemetry
 - https://github.com/appsecco/defcon24-infra-monitoring-workshop
 - https://jacknaglieri.substack.com/p/detection-engineer-pt-2
+- https://github.com/infosecB/awesome-detection-engineering
+- https://medium.com/brexeng/elevating-security-alert-management-using-automation-828004ad596c
 
 ### Vagrant
 

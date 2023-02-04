@@ -216,6 +216,7 @@
 - https://www.notboring.co/p/replit-remix-the-internet
 - https://davidvargas.me/blog/learning_about_teachable
 - https://github.com/dakshshah96/awesome-startup-credits
+- https://github.com/forter/security-101-for-saas-startups
 
 ### Investing
 

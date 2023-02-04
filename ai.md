@@ -2,6 +2,10 @@
 
 - [Minimal and clean examples of machine learning algorithms implementations](https://github.com/rushter/MLAlgorithms)
 
+### Artificial general intelligence (AGI)
+
+- [Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI](https://youtu.be/cdiD-9MMpb0) + https://karpathy.medium.com/software-2-0-a64152b37c35 + https://tldrsec.com/blog/tldr-sec-167/#machine-learning
+
 ### Book
 
 - https://plugaru.org/2021/03/10/a-thousand-brains
@@ -119,6 +123,7 @@
 - [Igo Math - Natural and Artificial Intelligence and the Game of Go](https://egri-nagy.github.io/igomath)
 - https://github.com/frnsys/ai_notes
 
+
 ### Cinema
 
 - [RL Course by David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
@@ -161,6 +166,7 @@
 - https://github.com/topics/chatgpt
 - https://github.com/topics/gpt-3
 - https://github.com/stars/acheong08/lists/awesome-chatgpt
+- [A git prepare-commit-msg hook for authoring commit messages with GPT-3](https://github.com/zurawiki/gptcommit)
 - https://github.com/humanloop/awesome-chatgpt
 - https://www.youtube.com/@bakztfuture/playlists
 - [Building a Virtual Machine Inside ChatGPT](https://news.ycombinator.com/item?id=33847479) + https://twitter.com/317070/status/1599152176344928256
@@ -285,6 +291,7 @@
 ### Natural language processing (NLP)
 
 - https://huggingface.co/course + https://youtu.be/sUt-YV5bPXA
+- https://www.manning.com/liveprojectseries/math-for-machine-learning-ser
 
 ### Paper
 
@@ -326,6 +333,11 @@
 - [How to detect any CMS version with Machine Learning Algorithms](https://alexfrancow.github.io/app-development/welcome-to-jekyll)
 - [Stable Diffusion is only 30 days old](https://twitter.com/daniel_eckler/status/1572210382944538624) + https://twitter.com/daniel_eckler/status/1589629394372669440
 - https://github.com/amrzv/awesome-colab-notebooks
+
+
+### Optical character recognition (OCR) 
+
+- https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html
 
 ### Opinion
 

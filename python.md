@@ -42,6 +42,7 @@
 - https://github.com/mattshirtliffe/exercises-for-programmers-57-challenges-python
 - https://tryingtobeawesome.com/python
 - https://pypackages.com
+- https://www.manning.com/books/python-workout
 
 ### Bots
 

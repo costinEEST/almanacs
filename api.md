@@ -71,6 +71,7 @@
 - https://github.com/Leoid/CodeReviewCS/tree/master/graphql
 - https://wundergraph.com/blog/the_complete_graphql_security_guide_fixing_the_13_most_common_graphql_vulnerabilities_to_make_your_api_production_ready
 - [Header spoofing via a hidden parameter in Facebook Batch GraphQL APIs](https://feed.bugs.xdavidhu.me/bugs/0017)
+- [GraphQL exploitation – All you need to know](https://cybervelia.com/?p=736)
 
 ### gRPC
 
