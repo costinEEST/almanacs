@@ -59,6 +59,8 @@
 - [Josh Dance](https://mythicalai.substack.com/archive)
 - [Anita Kirkovska](https://anita.beehiiv.com)
 - [Louis-François Bouchard](https://us1.campaign-archive.com/home/?u=718cbf5d31c54f8ad6cd39551&id=9481bc612c)
+- [Sebastian Raschka](https://magazine.sebastianraschka.com/archive)
+- [What are your favorite machine learning blogs or newsletters?](https://twitter.com/chrisalbon/status/1533463005320515584)
 
 ### Book
 

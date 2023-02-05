@@ -5,6 +5,7 @@
 ### Artificial general intelligence (AGI)
 
 - [Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI](https://youtu.be/cdiD-9MMpb0) + https://karpathy.medium.com/software-2-0-a64152b37c35 + https://tldrsec.com/blog/tldr-sec-167/#machine-learning
+- https://www.youtube.com/playlist?list=PL1v8zpldgH3qe4xqXgHPyfwJKckvZIjfp
 
 ### Book
 
@@ -39,6 +40,8 @@
 - [Data mining pentru Științele Sociale Vol. 1: Pregătirea datelor în RapidMiner Studio | COMŞA Mircea](http://www.editura.ubbcluj.ro/www/ro/ebook2.php?id=3246)
 - [Natural Language Processing with TensorFlow | Thushan Ganegedara](https://twitter.com/svpino/status/1557698367945248768)
 - [Intro to Artificial Neural Networks for High Schoolers](https://github.com/ohhh25/ai-book)
+- [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
+- https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 
 ### Cheat sheet
 
@@ -85,13 +88,14 @@
 - https://github.com/bfortuner/ml-glossary
 - https://github.com/margaretmz/awesome-tensorflow-lite
 - https://github.com/therealsreehari/Learn-Data-Science-For-Free
+- https://github.com/merveenoyan/my_notes
 
 ### Course
 
 - [Unconventional Ways to Learn More Online](https://jaredtumiel.github.io/blog/2020/05/12/three-rules.html)
 - https://github.com/microsoft/ML-For-Beginners
 - https://ttumiel.github.io/blog/getting-into-ml
-- https://github.com/CryptoSoc/fastai-lessons + https://github.com/fastai/course22
+- https://github.com/CryptoSoc/fastai-lessons + https://github.com/fastai/course22 + https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477 + [fast.ai Part 1, 2019 & Things Jeremy says to do](https://www.youtube.com/playlist?list=PLLvvXm0q8zUanHURpzuEVEyBD0aYsRVX6) + https://github.com/radekosmulski/aiquizzes-anki
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
 - https://github.com/bnorbert/Courses/blob/master/History%20Of%20Computer%20Science%20Project/A_brief_history_of_Machine_Learning.pdf
@@ -99,7 +103,6 @@
 - https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course
 - https://laconicml.com/free-artificial-intelligence-courses
 - [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
-- https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477
 - [JavaScript for Data Science](https://js4ds.org)
 - https://www.freecodecamp.org/news/hands-on-data-science-course
 - https://course.elementsofai.com
@@ -122,7 +125,6 @@
 - https://github.com/Nyandwi/machine_learning_complete
 - [Igo Math - Natural and Artificial Intelligence and the Game of Go](https://egri-nagy.github.io/igomath)
 - https://github.com/frnsys/ai_notes
-
 
 ### Cinema
 
@@ -234,6 +236,7 @@
 ### Tool
 
 - [Curated list of libraries for a faster machine learning workflow](https://amitness.com/toolbox)
+- https://github.com/dair-ai/ML-Notebooks
 - [Recommender systems (or recommendation engines)](https://github.com/grahamjenson/list_of_recommender_systems)
 - [Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.](https://github.com/KartikChugh/Otto)
 - https://calv.info/gpt-3-real-magic + https://twitter.com/calvinfo/status/1286332337563684865
@@ -251,6 +254,7 @@
 - [Tools to help efficiently generate images](https://infosec.exchange/@cyb_detective/109565509213634913)
 - [Train a computer to recognize your own images, sounds, & poses](https://teachablemachine.withgoogle.com)
 - [Audio transcription models](https://twitter.com/snpranav/status/1606322152793219074)
+- https://github.com/bharathgs/Awesome-pytorch-list
 
 ### Neural network
 
@@ -287,6 +291,7 @@
 - [notes for training better deep learning models](https://github.com/google-research/tuning_playbook)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) + https://github.com/aamini/introtodeeplearning
 - [Elena Burceanu](https://ilarele.github.io/#teaching)
+- [Understanding Deep Learning - Simon J.D. Prince](https://github.com/udlbook/udlbook)
 
 ### Natural language processing (NLP)
 
@@ -295,9 +300,10 @@
 
 ### Paper
 
+- https://github.com/dair-ai/ML-Papers-Explained
 - [Software engineering for artificial intelligence and machine learning software: A systematic literature review](https://arxiv.org/ftp/arxiv/papers/2011/2011.03751.pdf)
 - [Towards the First Machine Translation System for SumerianTransliterations](https://www.aclweb.org/anthology/2020.coling-main.308.pdf)
-- https://github.com/louisfb01/Best_AI_paper_2020
+- https://github.com/louisfb01/best_AI_papers_2022
 - [Platform for Automatic Analysis of Malicious Applications Using Artificial Intelligence Algorithms](https://github.com/iosifache/BachelorThesis) + https://github.com/iosifache/dike
 - [Detecting Fake Accounts on Social Media](https://github.com/emanuelcovaci/twittop)
 - https://github.com/patrickcgray/awesome-deep-ecology
@@ -334,8 +340,7 @@
 - [Stable Diffusion is only 30 days old](https://twitter.com/daniel_eckler/status/1572210382944538624) + https://twitter.com/daniel_eckler/status/1589629394372669440
 - https://github.com/amrzv/awesome-colab-notebooks
 
-
-### Optical character recognition (OCR) 
+### Optical character recognition (OCR)
 
 - https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html
 

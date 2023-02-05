@@ -171,6 +171,7 @@
 
 - https://cjolowicz.github.io/posts/hypermodern-python-01-setup
 - https://github.com/gto76/python-cheatsheet
+- https://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types
 - https://pyvideo.org/europython-2016/designing-a-pythonic-interface.html + https://twitter.com/kushaldas/status/1246801300307636224
 - https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech
 - https://tenthousandmeters.com/blog/python-behind-the-scenes-6-how-python-object-system-works + https://news.ycombinator.com/item?id=25384433
@@ -352,6 +353,8 @@
 - [Upload one or more CSV files to a Google Sheets spreadsheet](https://github.com/kevinfarrugia/csv_to_sheets)
 - https://gitlab.com/regrello-public/google-drive-audit
 - https://nuculabs.dev/2023/01/15/python-development-in-windows-with-wsl2
+- [An IPython magic extension for printing date and time stamps, version numbers, and hardware information](https://github.com/rasbt/watermark)
+- [A set of tools to keep your pinned Python dependencies fresh](https://github.com/jazzband/pip-tools)
 
 ### Testing
 
