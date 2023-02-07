@@ -15,6 +15,14 @@
 
 - [TU Delft](https://us9.campaign-archive.com/home/?u=4dc4c9cf4f6095e7b568dfc9a&id=57d91ace2a)
 
+### Clothing
+
+- [Adriana Ancuta](https://adrianaancuta.substack.com/archive)
+
+### Games 
+
+- [Alex Doppelgänger](https://alexdoppelganger.substack.com/archive)
+
 ### Tips
 
 - [feeds/videos.xml?channel_id={{CHANNEL_ID}}](https://twitter.com/pawelgrzybek/status/1240249320336695296)
@@ -49,6 +57,7 @@
 - [Institutul Național al Patrimoniului](https://us16.campaign-archive.com/home/?u=35f8c83675a30cbd5bec41a1b&id=367c70318f)
 - [Angela Moulton](https://us13.campaign-archive.com/home/?u=a61f046f4bb8366dff41b723c&id=e3e05e5e0e)
 - [Alexandra Kiely](https://us14.campaign-archive.com/home/?u=d9f2de25d2032a0e4e841e8d2&id=7d15072621)
+- [Tyler Hobbs](https://us9.campaign-archive.com/home/?u=523aa93d4f227c983bdf09efe&id=ee0e56f70d)
 
 ### Artificial intelligence
 
@@ -190,6 +199,7 @@
 
 - [Dylan Patel](https://semianalysis.substack.com)
 - [Handsoff Investor](https://handsoff.substack.com/archive)
+- [Sven Carlin](https://us18.campaign-archive.com/home/?u=83ab4ea650b8ab076b2ca4981&id=0163a06b72)
 
 ### iOS
 
@@ -405,3 +415,4 @@
 - [Alternative Tours](https://us20.campaign-archive.com/home/?u=f1b8e8fc565e4aa7532df290e&id=c269925f5f)
 - [De la sat](https://us7.campaign-archive.com/home/?u=3f14e3915e6bef8a3a4fd6c01&id=02b2b8a2b2), https://delasat.substack.com/recommendations
 - [Zaga zaga](https://us10.campaign-archive.com/home/?u=60d1c6dca3c7ddba681fb30ee&id=0da46b4f28)
+- [Alex Ciucă](https://miculparis.substack.com/archive)
