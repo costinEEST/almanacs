@@ -20,11 +20,10 @@
 - [Hacking Microcontroller Firmware through a USB](https://github.com/oct0xor/presentations/blob/master/2019-01-Hacking%20Microcontroller%20Firmware%20through%20a%20USB.pdf)
 - [Low Level PC/Server Attack & Defense — By @XenoKovah of @DarkMentorLLC](https://darkmentor.com/timeline.html) + https://gitlab.com/XenoKovah/low-level_security_timeline
 - https://www.driverentry.com + https://twitter.com/yarden_shafir/status/1437686447293747200
-https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
+  https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - https://daniao.ws/talks/exploiting-out-of-order-execution
 - http://www.righto.com/2016/02/reverse-engineering-arm1-processors.html
 - [Reading Silicon: How to Reverse Engineer Integrated Circuits | Ken Shirriff](https://youtu.be/aHx-XUA6f9g)
-
 
 ### Course
 
@@ -80,6 +79,7 @@ https://blog.syss.com/posts/hacking-usb-flash-drives-part-1
 - https://danialzahoor.blogspot.com/2022/08/frida-ios-hook-tool-that-helps-you-easy.html
 - https://blog.quarkslab.com/quokka-a-fast-and-accurate-binary-exporter.html
 - [Gepetto is a Python script which uses OpenAI's davinci-003 model to provide meaning to functions decompiled by IDA Pro](https://github.com/JusticeRage/Gepetto)
+- [Extract files from any kind of container formats](https://github.com/onekey-sec/unblob)
 
 ### Miscellaneous
 

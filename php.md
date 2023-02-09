@@ -13,8 +13,7 @@
 - https://adayinthelifeof.nl/books
 - https://www.bartlettpublishing.com/site/2019/12/18/new-video-series-on-building-scalable-web-applications
 
-
-### Cheat sheet 
+### Cheat sheet
 
 - https://github.com/smknstd/modern-php-cheatsheet
 - https://github.com/hgraca/explicit-architecture-php
@@ -110,6 +109,7 @@
 - https://github.com/wupco/PHP_INCLUDE_TO_SHELL_CHAR_DICT
 - [loading PHP extensions from memory](https://adepts.of0x.cc/dlopen-from-memory-php)
 - https://blog.includesecurity.com/2016/08/introducing-safeurl-a-set-of-ssrf-protection-libraries
+- https://blog.projectdiscovery.io/php-http-server-source-disclosure
 
 ### Miscellaneous
 
@@ -141,6 +141,6 @@
 - [A platform to create documentation/wiki content built with Laravel](https://github.com/BookStackApp/BookStack)
 - [Librarie PHP pentru verificarea in API ANAF a contribuabililor care sunt inregistrati conform art. 316 din Codul Fiscal](https://github.com/itrack/anaf)
 
-### Opinion 
+### Opinion
 
 - [Why are so many PHP projects moving to Node?](https://news.ycombinator.com/item?id=34536041)

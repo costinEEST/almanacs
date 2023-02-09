@@ -23,7 +23,6 @@
 ### Book
 
 - https://github.com/changwookjun/StudyBook
-- https://github.com/oz123/awesome-c#beginner-books
 - https://github.com/jackdoe/programming-for-kids
 - https://book.pythontips.com/en/latest
 - https://automatetheboringstuff.com/2e

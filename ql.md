@@ -1,18 +1,18 @@
-### C# 
+### C#
 
 - https://github.com/stars/pwntester/lists/codeql
 
-### Java 
+### Java
 
 - https://github.com/SummerSec/learning-codeql
 - https://github.com/github/codeql-dubbo-workshop
 - https://github.com/advanced-security/codeql-workshops-staging
 
-### PHP 
+### PHP
 
 - https://r2c.dev/blog/2022/announcing-php-ga-support
 
-### Python 
+### Python
 
 - https://jorgectf.github.io/blog/post/practical-codeql-introduction + https://github.com/jorgectf/PracticalCodeQLIntroduction-repo
 - https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html
@@ -26,7 +26,8 @@
 - https://github.com/zbazztian/codeql-debug
 - https://github.com/github/securitylab#videos
 - https://github.com/stars/SummerSec/lists/codeql
+- https://goingbeyondgrep.com/posts/learning-codeql
 
-### Radio 
+### Radio
 
 - [Comparing Semgrep and CodeQL](https://www.youtube.com/watch?v=kFHnxfDd2g8&t=39s)

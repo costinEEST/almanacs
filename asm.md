@@ -56,6 +56,10 @@
 - https://github.com/0xroman1/Scuffed_Low_Level_Stash
 - [Assembly for the Intel, 32-bit architecture. NASM is used as the assembler | Josh Stroschein](https://www.youtube.com/playlist?list=PLHJns8WZXCdvESvdr1BRjo4RHiR1Ylhw9)
 
+### Cheat sheet
+
+- [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86)
+
 ### Cinema
 
 - [Ray Seyfarth | Michael Harris](https://www.youtube.com/playlist?list=PLOOO61Feqafvf-nnjJaLVdj9OZGnz_CG1)
