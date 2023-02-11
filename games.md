@@ -116,6 +116,7 @@
 - https://github.com/stared/science-based-games-list
 - https://github.com/leereilly/games
 - https://twitter.com/dadgumjames/status/1387114056016875520
+- https://github.com/grantjenks/free-python-games
 
 ### Opinion
 

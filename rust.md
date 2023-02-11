@@ -181,6 +181,7 @@
 - [A CLI tool to find the dominant colours in an image](https://github.com/alexwlchan/dominant_colours)
 - [Building a federated link aggregator](https://github.com/LemmyNet/lemmy)
 - https://github.com/alexkreidler/parquet2arrow
+- [A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow](https://github.com/meilisearch/meilisearch)
 
 ### Opinion
 

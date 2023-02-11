@@ -13,6 +13,7 @@
 - https://www.3dfordesigners.com
 - https://www.freecodecamp.org/news/learn-autocad-with-this-free-course
 - https://www.udemy.com/course/etabs-v19-safe-v16-in-villa-structural-design-in-uaecad
+- https://github.com/ekzhang/graphics-workshop
 
 ### Community
 

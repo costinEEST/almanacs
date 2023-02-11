@@ -68,7 +68,6 @@
 - https://github.com/dformoso/machine-learning-mindmap
 - [Visual Studio Code extension to quickly generate docstrings for Python functions using AI](https://github.com/graykode/ai-docstring)
 - [Learn OpenCV : C++ and Python Examples](https://github.com/spmallick/learnopencv)
-- https://github.com/eugeneyan/applied-ml
 - [Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 - https://github.com/GokuMohandas/madewithml
 - https://github.com/chiphuyen/machine-learning-systems-design
@@ -232,6 +231,8 @@
 - [6 month learning plan for AI large language models](https://twitter.com/CristiVlad25/status/1618680534972104704)
 - [GPT-3 chatbot with long-term memory and external sources](https://github.com/daveshap/LongtermChatExternalSources)
 - [client-side PoC of OpenAI Chat GPT API via Web Speech API](https://github.com/WebReflection/talk2gpt)
+- [Use ChatGPT from the terminal](https://github.com/gmpetrov/openai-chatgpt)
+- [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch)
 
 ### Tool
 
@@ -292,6 +293,7 @@
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) + https://github.com/aamini/introtodeeplearning
 - [Elena Burceanu](https://ilarele.github.io/#teaching)
 - [Understanding Deep Learning - Simon J.D. Prince](https://github.com/udlbook/udlbook)
+- https://github.com/jacobhilton/deep_learning_curriculum
 
 ### Natural language processing (NLP)
 
@@ -310,6 +312,8 @@
 - [Code and real data for "Enhancing Human Learning via Spaced Repetition Optimization", PNAS 2019](https://github.com/Networks-Learning/memorize)
 - [On Hiding Neural Networks Inside Neural Networks | Chuan Guo, Ruihan Wu, Kilian Q. Weinberger](https://arxiv.org/abs/2002.10078)
 - [Open source science model trained on 48M scihub papers](https://galactica.org)
+- [Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
+
 
 ### Demo
 

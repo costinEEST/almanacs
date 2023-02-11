@@ -38,6 +38,7 @@
 - [Bypass 403 or 401 or 404](https://github.com/SummerSec/BypassSuper)
 - https://github.com/bsysop/IpLogger
 - https://github.com/vmware/burp-rest-api
+- [bypassing client-side encryption using custom logic for manual and automation testing with Python and NodeJS](https://github.com/Anof-cyber/PyCript)
 
 ### Cinema
 

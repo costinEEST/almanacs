@@ -35,6 +35,7 @@
 
 ### Course
 
+- https://github.com/microsoft/Data-Science-For-Beginners
 - https://github.com/ProjectBasedLearning/resources
 - [W209 Information Visualization course of the Masters in Data Science at UC Berkeley](https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) + https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides
 - https://observablehq.com/@d3/learn-d3

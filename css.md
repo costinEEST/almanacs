@@ -308,6 +308,7 @@ https://github.com/AllThingsSmitty/css-protips
 - https://github.com/OliverBrotchie/CSS-Fingerprint
 - https://blog.huli.tw/2022/09/29/css-injection-2
 - https://www.secforce.com/blog/new-technique-of-stealing-data-using-css-and-scroll-to-text-fragment-feature
+- https://sanderwind.medium.com/unleashing-the-power-of-css-injection-the-access-key-to-an-internal-api-789b166d0527
 
 ### Opinion
 

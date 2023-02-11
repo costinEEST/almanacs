@@ -58,6 +58,7 @@
 - [A History of Mathematics: From Mesopotamia to Modernity](https://www.amazon.com/History-Mathematics-Mesopotamia-Modernity/dp/0198529376)
 - [Recode of book "Dessins géométriques et artistiques avec votre micro-ordinateur | Jean-Paul Delahaye" (1985) with p5js](https://github.com/v3ga/dessins_geometriques_et_artistiques)
 - ["Arithmetices Principia, Nova Methodo Exposita" by Giuseppe Peano](https://github.com/mdnahas/Peano_Book)
+- https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
 
 ### Course
 

@@ -37,6 +37,7 @@
 - https://github.com/Purple-Magic/tramway-core
 - https://github.com/shftco/rails-api-boilerplate
 - https://github.com/alexrudall/ruby-openai
+- https://github.com/googleapis/google-api-ruby-client
 
 ### Algorithm
 
@@ -114,6 +115,7 @@
 ### Bot
 
 - [A bot that tweets every time there's a new executive order published](https://github.com/jessicard/exec_orders)
+- [Create agents that monitor and act on your behalf](https://github.com/huginn/huginn)
 
 ### Cinema
 

@@ -131,6 +131,7 @@
 - [A bot that notifies you on Slack whenever your company/product is mentioned on Hacker News](https://github.com/vercel-labs/hacker-news-slack-bot)
 - https://cmdcolin.github.io/posts/2022-08-26-twitterbot + https://github.com/cmdcolin/twitter_fractal_bot
 - https://github.com/maintainers/invite-automation
+- https://github.com/yagop/node-telegram-bot-api
 
 ### Boilerplate
 
@@ -316,6 +317,7 @@
 
 ### `node:http`
 
+- https://github.com/delvedor/fastify-example + https://twitter.com/delvedor/status/1358103527889993731
 - https://gist.github.com/willurd/5720255#gistcomment-3142965
 - https://www.slideshare.net/Codemotion/paulo-lopes-10-things-i-learned-making-the-fastest-js-server-runtime-in-the-world-codemotion-amsterdam-2019
 - [MyDrive is an Open Source Cloud Server (Similar To Google Drive), built with Node.JS, Express, React, and MongoDB.](https://github.com/subnub/myDrive)
@@ -330,7 +332,6 @@
 - https://simonplend.com/talk-at-js-monthly-london-make-the-most-of-modern-javascript-with-fastify
 - https://github.com/nearform/the-fastify-workshop
 - https://github.com/PacktPublishing/Accelerate-Web-Development-with-Fastify
-- https://github.com/delvedor/fastify-example + https://twitter.com/delvedor/status/1358103527889993731
 - https://futurestud.io/learningpaths/learn-hapi
 - https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc
 - https://www.freecodecamp.org/news/free-8-hour-node-express-course
@@ -600,6 +601,8 @@
 
 - https://github.com/stemmlerjs/solid-email-microservice
 - [Build Event-Driven Architectures with Event Sourcing and CQRS | Ethan Garofolo](https://pragprog.com/titles/egmicro/practical-microservices)
+- https://github.com/stars/jnv/lists/cqrs
+- https://github.com/stars/jnv/lists/architecture
 - https://github.com/mhadidg/software-architecture-books#microservices
 - [A micro service development architecture based on nest.js.](https://github.com/notadd/notadd)
 - [Flatend – Quickly build microservices using P2P networking in Node/Go](https://news.ycombinator.com/item?id=23561904)

@@ -159,6 +159,7 @@ javascript: (() =>
 ### Extension
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
+- [Encrypt Gmail with PGP](https://github.com/FlowCrypt/flowcrypt-browser)
 - [Check how trackable you are based on your browser extensions](https://github.com/z0ccc/extension-fingerprints)
 - https://ninoseki.github.io/2020/05/16/browser-extension.html
 - [decide which cookies you want and don’t want, auto-accepts cookie pop-ups for you, and warns you whenever it finds a website not respecting your preferences](https://www.super-agent.com)
@@ -242,7 +243,7 @@ javascript: (() =>
 - https://mmazzarolo.com/blog/2020-08-29-jira-express
 - [Chrome extension to track the activities of your favorite web novels](https://github.com/l-lin/wn-tracker-chrome) + https://github.com/l-lin/wn-tracker-api
 - https://github.com/jiripospisil/chrome-ext-downloader
-- [Create modern cross-browser extensions with no build configuration.](https://github.com/cezaraugusto/extension-create)
+- [Create modern cross-browser extensions with no build configuration](https://github.com/cezaraugusto/extension-create)
 - [Posta is a tool for researching Cross-document Messaging communication. It allows you to track, explore and exploit postMessage vulnerabilities, and includes features such as replaying messages sent between windows within any attached browser.](https://github.com/benso-io/posta)
 - [A boilerplate project to quickly build a Chrome extension using TypeScript and React (built using webpack).](https://github.com/martellaj/chrome-extension-react-typescript-boilerplate)
 - [Screenity is a feature-packed screen and camera recorder for Chrome](https://github.com/alyssaxuu/screenity)
@@ -409,6 +410,7 @@ javascript: (() =>
 - [Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.](https://github.com/localForage/localForage)
 - [Parses Indexeddb files - used to extract devtools console history](https://github.com/phl4nk/devtoolreader)
 - https://tantaman.com/2022-05-13-large-local-storage.html
+- https://github.com/stars/jnv/lists/storage
 
 ### Federated Learning of Cohorts
 
@@ -437,6 +439,7 @@ javascript: (() =>
 - https://www.bryanbraun.com/2021/08/10/allowing-inline-scripts-in-your-content-security-policy-using-a-hash
 - https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution
 - [Discover new target domains using Content Security Policy](https://github.com/edoardottt/csprecon)
+- https://github.com/naugtur/CSP-exercise
 
 ### Cross-origin resource sharing (CORS)
 
@@ -583,7 +586,7 @@ javascript: (() =>
 
 ### Headless
 
-- [Node library to automate Chromium, Firefox and WebKit browsers.](https://github.com/microsoft/playwright) + [opinion](https://twitter.com/xopek59/status/1221460300387573760)
+- [Node library to automate Chromium, Firefox and WebKit browsers](https://github.com/microsoft/playwright) + [opinion](https://twitter.com/xopek59/status/1221460300387573760) + https://medium.com/@woff/arbitrary-file-read-tricks-with-headless-browsers-eeebc2d9e5c8
 - [Comparing Cypress and Puppeteer](https://swatinem.de/blog/cypress-puppeteer)
 - [Capture screenshots in multiple browsers!](https://github.com/juliangruber/capture-screenshot)
 - [Puppeteer example scripts for running Headless Chrome from Node.](https://github.com/checkly/puppeteer-examples)

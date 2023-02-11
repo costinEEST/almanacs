@@ -21,3 +21,4 @@
 
 - [Lua REPL that gives you a feel for its internals](https://github.com/paileyq/lua-feels)
 - https://github.com/nanotee/nvim-lua-guide
+- https://github.com/paigeruten/lua-feels

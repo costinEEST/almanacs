@@ -674,6 +674,7 @@
 - [Unfollow everyone on Linkedin](https://gist.github.com/brunolemos/8e13c5472b0c07d795aa766423569546)
 - [Write a Babel Plugin | Ryan Stelly](https://www.youtube.com/playlist?list=PLimXc_loopipqrNW48HSDf-dqENp7Skkq)
 - [Using Vite to develop an SPA in the context of a production page](https://www.macarthur.me/posts/project-local-spa-onto-production-page)
+- [manage Google Calendars, initially to service "Tango This Week in Singapore"](https://github.com/tangueros/ttwis)
 
 ### Documentation
 

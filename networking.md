@@ -449,6 +449,7 @@
 - https://medium.com/encode-club/encode-filecoin-club-building-with-ipfs-video-slides-37f756123e45 + https://twitter.com/IPFS/status/1483811783684984832
 - https://spectrum.ieee.org/peer-to-peer-network
 - https://savjee.be/videos/simply-explained/ipfs-interplanetary-filesystem
+- https://github.com/juanguren/BookPortal
 
 ### Internet Service Provider (ISP)
 

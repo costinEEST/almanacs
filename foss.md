@@ -36,6 +36,7 @@
 - https://www.mux.com/blog/the-building-blocks-of-great-docs
 - https://github.com/brycejohnston/awesome-agriculture
 - https://github.com/korfuri/awesome-monorepo
+- https://github.com/open-source-ideas/ideas
 
 ### Tool
 
