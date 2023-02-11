@@ -11,6 +11,12 @@
 - [What are some good open-source macOS apps you can't live without?](https://twitter.com/onmyway133/status/1488610069717606400)
 - https://nickcolley.co.uk/2022/10/13/voiceover-to-voice-call
 - https://pqina.nl/hotlist
+- https://github.com/stars/Cykelero/lists/other-mac-apps
+- https://github.com/stars/Cykelero/lists/appkit-apps
+
+### Book 
+
+- https://www.takecontrolbooks.com/shortcuts
 
 ### Cheat sheet
 
@@ -33,6 +39,7 @@
 
 ### Community
 
+- https://github.com/macshome/The-Wisdom-of-Quinn
 - [macOS/iOS automation](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw)
 
 ### Development

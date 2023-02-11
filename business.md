@@ -28,6 +28,7 @@
 - [Curating content on the interaction between technology and culture.](https://twitter.com/prathyvsh/status/1442138650632855558)
 - https://www.amazon.com/Company-History-Revolutionary-Library-Chronicles/dp/0812972872
 - https://www.goodreads.com/review/list/19131383-nick-chandler-klein?order=d&shelf=good-books-for-economists&sort=rating
+- [Empire of the Sum - The Rise and Reign of the Pocket Calculator](https://wwnorton.com/books/9780393882148/about-the-book/product-details)
 
 ### Cinema
 

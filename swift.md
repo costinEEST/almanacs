@@ -62,6 +62,8 @@
 - https://github.com/onmyway133/emoji
 - https://github.com/peterfriese/SwiftUI-Concurrency-Essentials
 - [Find timezones or countries for given coordinates](https://github.com/patrick-zippenfenig/SwiftTimeZoneLookup)
+- https://github.com/stars/Cykelero/lists/swift-frameworks
+
 
 ### Practice
 

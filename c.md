@@ -123,6 +123,10 @@
 - [LLVM Tutorial Walkthrough | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg)
 - https://github.com/ahr9n/awesome-reading/tree/main/dragon-book
 
+### Internals 
+
+- https://hackaday.com/2023/02/10/modernizing-c-arrays-for-greater-memory-safety
+
 ### Virtual machines
 
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-systemvirtual-machine

@@ -138,6 +138,7 @@
 ### <form></form>
 
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
+- [Forms, but better](https://www.youtube.com/@adambsilver/videos)
 
 ### <head></head>
 

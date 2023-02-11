@@ -198,6 +198,8 @@ curl v2.wttr.in/Bucharest
 - [Datacenter / Hosting IP Address API - Find out if an IP address belongs to a hosting provider such as AWS, Azure or Digitalocean](https://github.com/NikolaiT/IP-Address-API)
 - https://css-irl.info/handy-tools-for-mocking-api-requests
 - [Access Kindle's private API in Node.js without a headless browser](https://github.com/Xetera/kindle-api)
+- https://github.com/TwilioDevEd/introduction-to-apis-notes
+- https://github.com/TwilioDevEd/webhooks-course
 
 ### Travel 
 

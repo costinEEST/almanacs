@@ -58,6 +58,7 @@
 - [Angela Moulton](https://us13.campaign-archive.com/home/?u=a61f046f4bb8366dff41b723c&id=e3e05e5e0e)
 - [Alexandra Kiely](https://us14.campaign-archive.com/home/?u=d9f2de25d2032a0e4e841e8d2&id=7d15072621)
 - [Tyler Hobbs](https://us9.campaign-archive.com/home/?u=523aa93d4f227c983bdf09efe&id=ee0e56f70d)
+- [Art Encounters](https://us16.campaign-archive.com/home/?u=cd70916bf40ec27923e03d12b&id=da1f465d55)
 
 ### Artificial intelligence
 
@@ -218,6 +219,7 @@
 - [Cristian Barin](https://us7.campaign-archive.com/home/?u=ed30812041efdc37b39d64dff&id=488b456873)
 - [Design+Code](https://us18.campaign-archive.com/home/?u=a35aff53a97607e9f85b40890&id=40f1857778)
 - [Marcin Wichary](https://newsletter.shifthappens.site)
+- [Denislav Zhelyazkov](https://us4.campaign-archive.com/home/?u=91c6911ed666ab5babcc9deaf&id=e4ea6ea9a3)
 
 ### Data visualization
 
@@ -334,6 +336,7 @@
 - [Brady Holmer](https://bradyholmer.substack.com/archive)
 - [Lucia Aronica](https://us19.campaign-archive.com/home/?u=b5a7b243f7e9ec0be6f0de584&id=3781a25554)
 - Forever Living: https://us11.campaign-archive.com/home/?u=148222cedc650a178c5d28741&id=aeb3a74051, https://us11.campaign-archive.com/home/?u=148222cedc650a178c5d28741&id=2b75370977
+- [Jones Wellness (Cancer/evolution)](https://us7.campaign-archive.com/home/?u=75ac079dc580d32a5726e1c26&id=cbf7c437ec)
 
 ### Privacy
 
@@ -353,6 +356,7 @@
 - [Harsh Bothra](https://www.getrevue.co/profile/harshbothra_#archive)
 - [securibee-infosec.opml](https://gist.github.com/securibee/054d4588e7f4dc892ae603c963558943)
 - [Andrew Ayer](https://buttondown.email/agwa)
+- [Altered Security](https://us20.campaign-archive.com/home/?u=9b200bd37f5e1b2186d11fef5&id=0dc1700863)
 
 ### Tool
 
@@ -392,6 +396,7 @@
 - https://world.hey.com/this.week.in.rails
 - [Noel Rappin](https://buttondown.email/noelrap/archive)
 - https://rubyweekly.com/issues
+- [Awesome Ruby](https://ruby.libhunt.com/newsletter/archive)
 
 ### Politics
 

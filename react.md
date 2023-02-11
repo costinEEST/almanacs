@@ -228,6 +228,8 @@
 
 - https://www.patterns.dev
 - https://github.com/nearform/react-patterns-workshop
+- https://www.bbss.dev/posts/effective-hocs
+- https://martinfowler.com/articles/modularizing-react-apps.html
 - [Reusable Code In React: Inheritance, Composition, Decorators and Mixins.](https://benmccormick.org/2019/02/11/reusable-react)
 - [What are some React anti-patterns that you encounter often? Why are they dangerous?](https://twitter.com/TejasKumar_/status/1214259916376027137)
 - [Component Base Role](https://gist.github.com/sibelius/593953c5f0ca8269668ded4c64f854be)
@@ -519,3 +521,8 @@
 - https://souporserious.com/use-babel-to-statically-analyze-jsx
 - [Unpack the source code of React](https://spaceraccoon.github.io/webpack-exploder)
 - [Migrating your T3 App into a Turborepo](https://www.jumr.dev/blog/t3-turbo)
+
+
+### Opinion 
+
+- https://www.zachleat.com/web/react-criticism

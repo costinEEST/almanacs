@@ -29,6 +29,7 @@
 - [Collapsible list](https://iamkate.com/code/tree-views)
 - https://www.tpgi.com/the-anatomy-of-visually-hidden
 - https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance
+- https://www.otsukare.info/2022/10/25/css-values-definitions
 
 ### Book
 

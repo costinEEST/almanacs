@@ -43,6 +43,7 @@
 - https://www.obsidianroundup.org/resources
 - https://github.com/santisoler/taller-latex
 - https://email-is-good.com
+- https://rachelandrew.co.uk/archives/2023/01/28/technical-writing-resources
 
 ### Tool
 

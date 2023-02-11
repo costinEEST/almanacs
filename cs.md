@@ -88,6 +88,9 @@
 - https://tech-notes.accel.dk/time
 - https://github.com/davedelong/calendar_fallacies
 - [Timezone Lookup by Location](https://github.com/bialylis/tz-lookup-oss)
+- https://en.wikipedia.org/wiki/Equation_of_time
+- https://en.wikipedia.org/wiki/Bifilar_sundial
+- https://hackaday.com/2015/10/28/we-didnt-know-the-sun-could-do-digital
 
 ### TIL
 

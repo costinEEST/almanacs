@@ -249,6 +249,7 @@
 - [Abusing Function.toString() to basically do macros](https://twitter.com/pfrazee/status/1203415397489348608) + https://codepen.io/pfrazee/pen/NWPGOMg?editors=0011
 - [Arrow functions are not anonymous](https://twitter.com/kdy1dev/status/1561901091486597120)
 - [get a javascript function name](https://gist.github.com/dfkaye/6384439)
+- https://pedrocattori.dev/blog/why-i-prefer-arrow-functions
 
 ### function\* () {}
 
@@ -388,6 +389,7 @@
 - https://github.com/nearform/promises-workshop
 - [fetch with cancellation at timeout using AbortController](https://twitter.com/cmsalvado/status/1135951033979592705)
 - https://github.com/acut3/acut3.github.io/blob/master/_posts/2023-01-03-fetch-diversion.md, https://twitter.com/acut3hack/status/1610387861794324480
+- https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript
 
 ### async await
 
@@ -549,6 +551,7 @@
 - https://lit.how
 - https://github.com/ja0nz/bachelorarbeit
 - https://www.slideshare.net/bdelacretaz/vanillajs-the-web-platform-a-match-made-in-heaven
+- https://webkit.org/blog/13711/elementinternals-and-form-associated-custom-elements
 
 ### Testing
 
