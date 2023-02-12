@@ -47,6 +47,10 @@
 - [Pro Patrimonio](https://us5.campaign-archive.com/home/?u=57f50bdf2c77a5bb1add2a851&id=42c6c16a1d)
 - [Uniunea Arhitectilor din Romania](https://us10.campaign-archive.com/home/?u=e40fa82a9a796c8ea6cdfddca&id=94dec13101)
 
+### Astrology
+
+- [Adam Sommer](https://kosmognosis.substack.com/archive)
+
 ### Astronomy
 
 - [Philip C. Plait](https://badastronomy.substack.com/archive)
@@ -97,6 +101,7 @@
 - [I Love Failure](https://us7.campaign-archive.com/home/?u=08e3b46f1ab4e0f4f75301af5&id=4689d7e3c5)
 - [Paulo André](https://hagakure.substack.com/archive)
 - [Ben Erez](https://benerez.substack.com/archive)
+- [Michelle Lim](https://us2.campaign-archive.com/home/?u=cf007b8800f2adebe180e8078&id=6540dfdf5c)
 
 ### Marketing
 

@@ -3,6 +3,7 @@
 - [David Shorey](https://www.youtube.com/playlist?list=PLzeAgAPAU5pOuMMNNiVplrI9GwkEuy1Ns)
 - https://github.com/stars/JcMinarro/lists/3d-print
 - https://www.youtube.com/playlist?list=PLC_CdHO9Xx-PSbxGmfoLL5uYCQjzSoWZ_
+- https://www.freethink.com/space/3d-printing-in-microgravity
 
 ### Book
 
@@ -32,6 +33,7 @@
 - https://passo.uno/why-collect-read-old-computer-manuals
 - https://www.goodreads.com/review/list/83926681?shelf=hardware
 - [Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
+- [Patterns in the Machine: A Software Engineering Guide to Embedded Development](https://github.com/johnttaylor/pim) + https://embedded.fm/episodes/438
 
 ### Cinema
 
@@ -194,6 +196,7 @@
 - https://hackaday.com/2022/09/23/exploring-texas-instruments-forgotten-cpu
 - [A CPU implemented in a modular synthesizer](https://github.com/katef/eurorack-cpu)
 - https://github.com/stars/pamoroso/lists/intel-8080
+- [CPU vs (GP)GPU](https://yurichev.org/GPU)
 
 ### Miscellaneous
 
@@ -264,6 +267,7 @@
 - https://github.com/openhardwaremonitor/openhardwaremonitor
 - [Scots Army Knife for electronics](https://github.com/GlasgowEmbedded/glasgow)
 - https://nelsonslog.wordpress.com/2023/01/03/ups-battery-replacements-by-size
+- https://patternsinthemachine.net/2023/01/tshell-a-command-line-interface-for-embedded-applications
 
 ### History
 

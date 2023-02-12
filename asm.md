@@ -1,5 +1,6 @@
 ### ARM
 
+- [Learn reverse engineering: but where to start?](https://yurichev.org/RE_start)
 - https://github.com/endrazine/wcc/wiki/wsh-with-ARM + https://twitter.com/endrazine/status/764288816123301889
 - [How to be a spooky ARMv8m hardware debugger](https://www.labbott.name/blog/2020/10/07/debugger.html)
 - https://blog.randallhyde.com/index.php/2021/03/14/the-imac-pro-m1

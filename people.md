@@ -10,6 +10,7 @@
 - https://www.humanprogress.org/topic/heroes-of-progress
 - [21A.S01 Reparations for Slavery and Colonization: Contemporary Movements for Justice](https://www.youtube.com/playlist?list=PLUl4u3cNGP621znZNO7tBuTH-WKjsV0D6)
 - https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017 + https://www.youtube.com/playlist?list=PLUl4u3cNGP62ihmDWYj4LMPMdHBHiPa_7
+- https://www.data-is-plural.com/archive/2023-02-08-edition
 
 ### Cinema
 

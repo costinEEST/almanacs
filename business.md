@@ -161,6 +161,7 @@
 
 ### Culture
 
+- https://ecsbeats.github.io/about/#company-culture--practice
 - https://danieltenner.com/open-cultures
 - https://awesometalks.party/category/company-culture
 - https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395
@@ -322,6 +323,7 @@
 
 ### Opinion
 
+- https://www.pwc.com/world2050
 - https://www.matthewball.vc/the-metaverse-primer
 - [Apple, Its Control Over the iPhone, and The Internet](https://www.matthewball.vc/all/applemetaverse)
 - [Amir Yaron, the Governor of the Bank of Israel](https://twitter.com/ittaia/status/1544730206342189056)

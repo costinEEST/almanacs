@@ -157,6 +157,7 @@
 - https://blog.andyet.com/2014/02/26/Pete-Seeger-lessons-learned-from-a-hard-link-to-the-old-world
 - https://tedium.co/2022/11/09/the-death-of-the-key-change
 - https://pitchfork.com/features/lists-and-guides/best-albums-2022
+- https://tedium.co/2023/02/04/why-do-modern-pop-songs-have-so-many-credited-writers
 
 ### Violin
 
@@ -196,6 +197,7 @@
 ### News
 
 - https://www.smithsonianmag.com/science-nature/why-scientists-are-turning-molecules-into-music-180980022
+- https://www.visualcapitalist.com/cp/visualized-the-rise-and-fall-of-music-sales-by-format
 
 ### Radio
 

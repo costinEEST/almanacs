@@ -21,6 +21,7 @@
 - https://github.com/lpoaura/BirdAtlasOfFrance
 - https://knowablemagazine.org/article/food-environment/2022/city-birds-are-changing-their-tune
 - https://stiinta-pentru-toti.blogspot.com/2022/12/aparitie-editoriala-atlasul-speciilor.html
+- https://www.audubon.org/news/the-2022-audubon-photography-awards-top-12-videos
 
 ### Crawler
 
@@ -30,6 +31,7 @@
 ### Dog
 
 - https://www.science.org/content/article/new-sense-discovered-dog-noses-ability-detect-heat
+- https://www.discovermagazine.com/planet-earth/how-dogs-perceive-time
 
 ### Fish
 
@@ -104,3 +106,8 @@
 - https://jezebel.com/tender-animal-sex-1848502315
 - https://www.fodors.com/news/photos/best-national-parks-in-the-world-for-seeing-animals
 - https://www.allaboutbirds.org/news/the-cornell-lab-review-affordable-full-size-8x42-binoculars
+- https://interestingengineering.com/science/neanderthals-hunted-10-ton-giant-elephants
+
+### Rodent 
+
+- [Sex and no sleep may be killing endangered quolls](https://www.bbc.com/news/world-australia-64480070)

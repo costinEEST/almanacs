@@ -77,6 +77,7 @@
 - https://github.com/adityatelange/node-pcap-parser
 - [the 5-in-1 network admin's cable: ethernet / crossover / modem / null modem / Cisco console](http://www.ossmann.com/5-in-1.html)
 - https://blog.kanbach.org/post/how-to-permanently-change-a-mac-address-using-ethtool
+- [VPN from Windows to Linux: WireGuard working example](https://yurichev.org/wireguard)
 
 ### The Open Systems Interconnection model (OSI)
 
@@ -455,6 +456,7 @@
 
 - [Build your own Internet | Billie Hilton](https://www.youtube.com/playlist?list=PLbjZkI1beTSOZgCDL6LJHBhBrnhEmaWdt)
 - [Set of tools to help you build your own privacy network over internet](https://www.v2ray.com/en) + https://github.com/v2fly/v2fly-github-io
+- https://nelsonslog.wordpress.com/2023/02/06/isp-connection-monitoring-with-irtt
 
 ### SRP
 

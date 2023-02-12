@@ -124,19 +124,6 @@
 - https://cscott.net/Books/#communism
 - [Authoritarian Ruling Elites Database](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QZ9BSA) + https://sites.google.com/view/austinsmatthews/teaching
 
-### Skateboarding
-
-- [Professor Paul Schmitt](https://www.facebook.com/DanubeFootwear/posts/2239139673050235)
-
-### Swimming
-
-- [How to Learn How to Surf](https://youtu.be/wn5KqWwP6uQ)
-
-### Climbing
-
-- https://scattered-thoughts.net/blog/2017/07/07/notes-on-training-for-climbing
-- https://www.outsideonline.com/2397596/best-adventure-books-all-time
-
 ### Chess
 
 - [A few snippets from ♟️ history](https://twitter.com/DorsaAmir/status/1199690290065530881)
@@ -177,7 +164,6 @@
 - https://www.youtube.com/playlist?list=PLYVl5EnzwqsSR1KFlOnsG0uSKLN5ai_1w
 - https://www.fhautism.com/shop/the-outdoor-scientist-the-wonder-of-observing-the-natural-world
 - https://www.udemy.com/course/fostering-creativity-in-children
-- https://github.com/jhuangtw/awesome-lego
 - https://www.goodreads.com/book/show/49848056-home-learning-year-by-year-revised-and-updated
 
 ### Mindfulness

@@ -94,6 +94,7 @@
 - [Vertebrate Genomes Project](https://vgp.github.io/genomeark) + https://youtu.be/9RF6eXxxqII
 - https://www.hhmi.org/news/complete-human-genome-deciphered-first-time
 - https://davidson.weizmann.ac.il/en/online/sciencenews/2022-nobel-prize-physiology-or-medicine-genetics-human-evolution
+- https://www.smithsonianmag.com/science-nature/how-should-scientists-navigate-the-ethics-of-ancient-human-dna-research-180981489
 
 ### Miscellaneous
 
@@ -122,7 +123,8 @@
 - [Curation of an international drug proprietary names dataset](https://www.sciencedirect.com/science/article/pii/S2352340921009768) + https://www.nlm.nih.gov/research/umls/rxnorm/index.html
 - https://www.labster.com/simulations
 - https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html,prototype
-
+- https://nautil.us/why-nature-prefers-hexagons-235863
+- [50% of the global economy is under threat from biodiversity loss](https://www.weforum.org/agenda/2023/02/biodiversity-nature-loss-cop15)
 
 ### Teachers
 

@@ -37,6 +37,7 @@
 - https://github.com/brycejohnston/awesome-agriculture
 - https://github.com/korfuri/awesome-monorepo
 - https://github.com/open-source-ideas/ideas
+- [by ex-googlers, for ex-googlers - a lookup table of similar tech & services](https://github.com/jhuangtw/xg2xg)
 
 ### Tool
 

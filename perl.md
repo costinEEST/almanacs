@@ -22,6 +22,7 @@
 
 - https://github.com/avar/private-dan-carlin-hardcore-history-podcast-feed
 - https://www.perl.com/article/extracting-the-list-of-o-reilly-animals + https://gist.github.com/briandfoy/d68915eb425e1fc4932ceac5cdf2d60d + https://www.oreilly.com/animals.csp
+- [cloc counts blank lines, comment lines, and physical lines of source code in many programming languages](https://github.com/AlDanial/cloc)
 
 ### Scrapping 
 

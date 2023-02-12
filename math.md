@@ -136,6 +136,8 @@
 - [Mircea Pitici](https://www.theoremoftheday.org/Resources/Bibliography.htm#MirceaPitici)
 - [Paul Lockhart](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - Stephen Wolfram: https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure, https://www.wolframscience.com/metamathematics, https://www.reddit.com/r/IAmA/comments/axf32h/i_am_stephen_wolfram_founder_ceo_of_wolfram, https://www.amazon.com/Metamathematics-Foundations-Physicalization-Stephen-Wolfram/dp/1579550762
+- [Matematicieni din prima jumatate a secolului al XX-lea](http://refkol.ro/matek/mathbooks/ro.math.wikia.com%20wiki%20Fisiere_pdf_incarcate/Matematicieni_din_prima_jumatate_a_secolului_al_XX-lea.pdf)
+- [Matematica în România. Profesorii noştri - modele de viaţă | Eufrosina Otlăcan](https://www.arsdocendi.ro/t_carte.php?id_carte=42)
 
 ### Miscellaneous
 

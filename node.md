@@ -276,6 +276,7 @@
 ### Deno
 
 - [web framework for Cloudflare Workers, Deno, Bun](https://github.com/honojs/hono)
+- https://github.com/danvk/aoc2022
 
 ### Error
 
@@ -533,6 +534,8 @@
 - [An audio playback library](https://github.com/tropicbliss/symphonia)
 - [Node version management](https://github.com/tj/n)
 - https://featurist.co.uk/blog/running-typescript-in-node-with-near-zero-compilation-cost
+- https://github.com/websperts/tinypng-cli
+- https://github.com/ancasicolica/node-wifi-scanner
 
 ### Testing
 
@@ -557,6 +560,7 @@
 - https://javascript.plainenglish.io/complete-node-js-testing-setup-with-jest-supertest-typescript-and-husky-e9d3fa109e1d
 - https://rrawat.com/blog/unit-test-express-api + https://github.com/Rishabh570/express-api-unit-test-starter
 - https://larswaechter.dev/blog/nodejs-api-testing
+- https://hire.jonasgalvez.com.br/2023/jan/31/fastify-testing
 
 ### Scrapping
 

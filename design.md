@@ -22,6 +22,7 @@
 - https://childrensdesignguide.org
 - [After the Bauhaus, Before the Internet. A History of Graphic Design Pedagogy | Geoff Kaplan](https://mitpress.mit.edu/9781949484090/after-the-bauhaus-before-the-internet)
 - https://ralphammer.com/j-j-gibson-the-meaning-of-the-world
+- https://www.arcana.computer/catalogs/books/designing-for-people
 
 ### Cinema
 
@@ -100,6 +101,7 @@
 - [Inspiration | Chet Corcos](https://www.notion.so/Inspiration-2194b2020e7142eeb2a4df2f308dfa7b)
 - https://github.com/securingdev/awesome-stickers
 - https://github.com/syxanash/awesome-web-desktops
+- https://blog.hubspot.com/website/vintage-website-design
 
 ### User experience
 

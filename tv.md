@@ -9,6 +9,7 @@
 - [I want to watch some excellent explainer videos](https://twitter.com/davidmcraney/status/1452993213850136585)
 - https://modern.technology
 - https://github.com/k4m4/movies-for-hackers
+- https://informationisbeautiful.net/visualizations/what-is-the-most-successful-hollywood-movie-of-all-time
 
 ### Documentary
 

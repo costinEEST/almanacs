@@ -53,7 +53,6 @@
 - https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me
 - https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
 - https://spectrum.adobe.com/page/inclusive-design
-- https://github.com/springernature/frontend-playbook/blob/master/accessibility/README.md
 - https://github.com/stringyland/a11y-learning-plan
 - [What's the best way to do an accessibility audit of a website these days?](https://twitter.com/zcorpan/status/1217627504535576579)
 - https://www.vincit.fi/fi/software-development-450-words-per-minute

@@ -133,3 +133,4 @@
 - https://github.com/ivanreese/visual-programming-codex
 - [Data Visualization and Art Process Blogs](https://alignedleft.com/resources/process-blogs)
 - https://twitter.com/puddingviz/status/1513977515244675080 + https://alejandra-arevalo.com/pudding + https://pudding.cool/2022/04/banknotes + https://www.data-is-plural.com/archive/2022-05-18-edition + https://github.com/the-pudding/banknotes/tree/master/src/data
+- https://www.remitly.com/gb/en/landing/dream-jobs-around-the-world

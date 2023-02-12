@@ -62,6 +62,8 @@
 
 - https://www.theguardian.com/environment/2021/aug/27/what-will-our-eco-friendly-homes-of-the-future-look-like
 - https://www.treehugger.com/age-of-the-skyscraper-should-be-over-6832005
+- https://psyche.co/guides/how-to-appreciate-buildings-by-tuning-into-them-more-deeply
+- https://www.bbc.com/future/article/20230207-can-we-design-cities-for-disassembly
 
 ### Miscellaneous
 

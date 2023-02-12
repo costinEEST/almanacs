@@ -198,6 +198,7 @@
 - https://github.com/DjangoEx/python-engineer-roadmap
 - [Simple speed tests for Python 3.11](https://github.com/dennisbakhuis/python3.11_speedtest)
 - https://github.com/kirang89/pycrumbs
+- https://yurichev.org/py_continue
 
 ### Scraping
 
@@ -354,6 +355,7 @@
 - https://nuculabs.dev/2023/01/15/python-development-in-windows-with-wsl2
 - [An IPython magic extension for printing date and time stamps, version numbers, and hardware information](https://github.com/rasbt/watermark)
 - [A set of tools to keep your pinned Python dependencies fresh](https://github.com/jazzband/pip-tools)
+- [Wordclouds for your book library](https://yurichev.org/wordcloud)
 
 ### Testing
 

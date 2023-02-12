@@ -11,6 +11,7 @@
 - https://blogs.scientificamerican.com/food-matters/quinine-and-empire
 - [Beer and Brewing in Medieval Culture and Contemporary Medievalism | John A. Geck, Rosemary O'Neill, Noelle Phillips](https://twitter.com/FontesMedicorum/status/1553129900063670273)
 - [Short and fun history of beer and brewing told in a very practical manner](https://github.com/twirl/Beer-Lecture)
+- https://punchdrink.com/articles/nonalcoholic-beer-golden-age
 
 ### Autism
 
@@ -43,6 +44,9 @@
 - [Could We Train Our Brains to See New Colors?](https://neurosciencenews.com/color-perception-21924)
 - https://www.technologyreview.com/2022/10/12/1061204/human-brain-cells-transplanted-baby-rats-brains
 - https://nelsonslog.wordpress.com/2023/02/04/co2-and-cognition
+- https://www.inc.com/jessica-stillman/the-further-you-wander-happier-you-will-be-new-study-says.html
+- https://knowablemagazine.org/article/mind/2022/how-brain-calculates-quick-escape
+- https://theconversation.com/when-critical-thinking-isnt-enough-to-beat-information-overload-we-need-to-learn-critical-ignoring-198549
 
 ### Book
 
@@ -83,6 +87,7 @@
 ### Cold
 
 - [What does an unheated room do to your body?](https://www.bbc.com/news/health-63602501)
+- https://www.vox.com/even-better/23570921/love-winter-layers-daylight-seasonal-depression
 
 ### Course
 
@@ -129,6 +134,7 @@
 ### Chocolate
 
 - [Cocoa and Chocolate](https://www.europeana.eu/en/set/5806)
+- https://pursuit.unimelb.edu.au/articles/why-we-judge-chocolate-by-its-cover
 
 ### Dairy
 
@@ -327,6 +333,7 @@
 - https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up
 - https://www.amazon.com/World-Atlas-Coffee-explored-explained-ebook/dp/B07CRY44ZH + https://tastecooking.com/meet-the-ceo-of-coffee-youtube + https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ/playlists
 - https://www.arcana.computer/blog/non-fungible-lattes
+- [A Treatise Concerning the Properties and Effects of Coffee (1792)](https://publicdomainreview.org/collection/moseley-coffee)
 
 ### Sugar
 
@@ -353,6 +360,7 @@
 - https://www.shutterstock.com/blog/history-of-makeup-cosmetics
 - https://www.sapiens.org/biology/evolution-suntan
 - https://iuva.org/resources/covid-19/Far%20UV-C%20Radiation-%20Current%20State-of%20Knowledge.pdf
+- https://www.discovermagazine.com/the-sciences/why-do-we-have-fingerprints
 
 ### Gut
 
@@ -457,6 +465,7 @@
 - [Vax.Codes - Free QR Codes for Covid-19 Test and Vaccine Recipients](https://github.com/open-austin/vax-codes)
 - https://www.devalias.net/devalias/2018/04/07/diy-light-therapy-red-infrared-cold-laser-lllt-blue-uv
 - [Calories counter](https://cronometer.com)
+- https://neo.life/2023/02/how-a-spit-test-could-determine-suicide-risk
 
 ### Uric acid
 

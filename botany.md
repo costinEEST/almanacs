@@ -47,6 +47,8 @@
 - https://mossandfog.com/some-of-the-most-amazing-trees-from-around-the-world
 - https://www.sor.ro/salvia-revelata-o-noua-specie-de-planta-descoperita-in-romania
 - https://mindcraftstories.ro/mediu/de-ce-e-mai-bine-sa-lasi-frunzele-sub-copaci-decat-sa-le-strangi
+- https://english.elpais.com/science-tech/2023-02-08/what-is-a-holobiont-and-why-can-it-change-our-understanding-of-the-world.html
+- https://emergencemagazine.org/essay/creatures-that-dont-conform
 
 ### Radio
 

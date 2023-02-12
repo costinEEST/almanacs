@@ -12,6 +12,8 @@
 
 ### Climbing
 
+- https://scattered-thoughts.net/blog/2017/07/07/notes-on-training-for-climbing
+- https://www.outsideonline.com/2397596/best-adventure-books-all-time
 - https://www.outsideonline.com/culture/books-media/best-mount-everest-books-movies
 
 ### Cycling
@@ -21,6 +23,7 @@
 - [Grup de MECANICĂ BICICLETE - PUSHBIKE](https://www.facebook.com/groups/440245016043580)
 - [Motorcycle roads Romania](https://2ride.eu/trasee)
 - [unicycle](https://www.youtube.com/playlist?list=PL9MBW6e0V7UIRt_CuM4ssnui2rVs957CU)
+- https://www.forbes.com/sites/forbes-personal-shopper/2023/02/08/best-mountain-bikes
 
 ### Golf
 
@@ -47,6 +50,7 @@
 
 ### Skateboarding
 
+- [Professor Paul Schmitt](https://www.facebook.com/DanubeFootwear/posts/2239139673050235)
 - https://github.com/smenjas/educational-content#skateboarding
 
 ### Snowboarding
@@ -57,6 +61,11 @@
 
 - [Sports History](https://www.youtube.com/playlist?list=PLHCqKO_htsf4Bl5hzcA5MypWxxoF1coKN)
 - https://www.europeana.eu/en/blog/the-classical-roots-of-modern-day-football
+
+### Swimming
+
+- [How to Learn How to Surf](https://youtu.be/wn5KqWwP6uQ)
+- https://mindcraftstories.ro/stiinta/ucigasii-tacuti-din-marea-neagra-curentii-rip-te-trag-spre-ape-mai-adanci
 
 ### West Coast Swing
 

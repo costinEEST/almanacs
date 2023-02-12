@@ -118,6 +118,7 @@
 - https://www.goodreads.com/book/show/236997.The_Chinese_Language
 - https://www.goodreads.com/book/show/236996.Beginning_Chinese_Reader_Part_1
 - https://github.com/biopolyhedron/rime-middle-chinese
+- https://github.com/jhuangtw/awesome-taigi
 
 ### Arabic
 
@@ -173,6 +174,7 @@
 - https://ancientlanguage.com/old-english
 - https://twitter.com/BryanAGarner
 - https://twitter.com/oanaolt/status/1615045736164646912
+- https://history.howstuffworks.com/history-vs-myth/10-expressions-from-ancient-world.htm
 
 ### Esperanto
 

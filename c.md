@@ -172,6 +172,7 @@
 - [Lambda Calculus in 383 Bytes](https://justine.lol/lambda)
 - [Logging C Functions](https://justine.lol/ftrace)
 - [A very compact representation of a placeholder for an image](https://github.com/woltapp/blurhash)
+- [Clang is better than GCC](https://yurichev.org/clang)
 
 ### Testing
 

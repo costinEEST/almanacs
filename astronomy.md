@@ -139,9 +139,11 @@
 
 - https://interestingengineering.com/science/formation-of-moon-5-theories
 - https://interestingengineering.com/science/humans-to-live-on-moon-nasa
+- https://nautil.us/the-moon-smells-like-gunpowder-261483
 
 ### News
 
+- https://www.smithsonianmag.com/science-nature/ten-dazzling-celestial-events-to-see-in-2023-180981529
 - [Black holes: Cosmic signal rattles Earth after 7 billion years](https://www.bbc.com/news/science-environment-53993937)
 - https://www.quantamagazine.org/the-new-history-of-the-milky-way-20201215
 - https://curatorial.ro/natura/telescopul-spatial-james-webb-a-surprins-un-peisaj-maiestuos-cu-noi-stele-ce-formeaza-nori-densi-de-gaz-si-praf
@@ -152,6 +154,8 @@
 - https://daeken.svbtle.com/a-case-for-orbital-rings
 - https://www.newscientist.com/article/2339020-enceladus-shown-to-have-all-six-of-the-essential-elements-for-life
 - https://wis-wander.weizmann.ac.il/space-physics/look-bright-side-earth
+- https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130
+- https://singularityhub.com/2023/02/03/ai-is-helping-astronomers-search-for-intelligent-alien-life-and-theyve-found-8-strange-new-signals 
 
 ### Picture
 
@@ -165,6 +169,10 @@
 - https://gizmodo.com/sls-rocket-launch-photos-nasa-artemis-1-1849791662
 - https://singularityhub.com/2022/11/23/this-amazing-interactive-map-of-the-universe-takes-you-all-the-way-back-to-the-big-bang + https://mapoftheuniverse.net
 - [Astrophotography by Thomas Fuchs](https://lightfrom.space)
+
+### Planet 
+
+- https://www.nbcnews.com/science/space/jupiter-12-new-moons-rcna69131
 
 ### Star
 

@@ -390,6 +390,7 @@
 - [fetch with cancellation at timeout using AbortController](https://twitter.com/cmsalvado/status/1135951033979592705)
 - https://github.com/acut3/acut3.github.io/blob/master/_posts/2023-01-03-fetch-diversion.md, https://twitter.com/acut3hack/status/1610387861794324480
 - https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript
+- https://github.com/JoshuaKGoldberg/floating-and-sinking-promises
 
 ### async await
 

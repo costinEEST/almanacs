@@ -446,6 +446,8 @@
 - https://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app
 - https://github.com/petertseng/adventofcode-rb-2019
 - https://github.com/sampritipanda/adventofcode
+- https://github.com/erikw/advent-of-code-solutions
+
 
 ### Tool
 

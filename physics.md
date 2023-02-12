@@ -87,6 +87,7 @@
 - https://neddonovan.substack.com/p/how-disney-became-a-nuclear-power
 - https://www.blog.geoffrussell.com.au/post/nuclear-may-or-may-not-be-expensive-but-it-s-much-faster-to-build-than-renewables
 - https://hackaday.com/2022/12/19/laser-fusion-ignition-putting-nuclear-fusion-breakthroughs-into-perspective
+- https://www.vice.com/en/article/3ad9eb/a-500-year-old-paradox-by-leonardo-da-vinci-has-finally-been-solved-study-says
 
 ### Engine
 

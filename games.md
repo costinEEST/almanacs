@@ -118,6 +118,8 @@
 - https://twitter.com/dadgumjames/status/1387114056016875520
 - https://github.com/grantjenks/free-python-games
 - https://github.com/stars/Cykelero/lists/playdate-apps
+- https://github.com/jhuangtw/awesome-lego
+- [Discover the best gamification apps to motivate yourself to achieve your goals](https://gamifylist.com)
 
 ### Opinion
 

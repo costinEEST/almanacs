@@ -58,6 +58,7 @@
 - [how to use Terraform to automate your AWS infrastructure](https://youtu.be/7xngnjfIlK4) + https://github.com/mzbat/iac_workshop
 - https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
 - [Building Software Platforms A guide to SaaS transition with AWS | Pablo Bermejo](https://leanpub.com/software-platforms)
+- [Lambda Cold Starts analysis, updated daily](https://github.com/maxday/lambda-perf)
 
 ### Azure
 

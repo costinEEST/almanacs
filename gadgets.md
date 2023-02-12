@@ -75,6 +75,7 @@
 ### Phone
 
 - https://www.wired.com/story/best-google-pixel-phone/#pixel6
+- https://lazyadmin.ro/samsung-s23-ultra-recenzie-cinstita-necesara
 
 ### Kitchen
 

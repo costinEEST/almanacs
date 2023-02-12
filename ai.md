@@ -6,6 +6,7 @@
 
 - [Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI](https://youtu.be/cdiD-9MMpb0) + https://karpathy.medium.com/software-2-0-a64152b37c35 + https://tldrsec.com/blog/tldr-sec-167/#machine-learning
 - https://www.youtube.com/playlist?list=PL1v8zpldgH3qe4xqXgHPyfwJKckvZIjfp
+- https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence
 
 ### Book
 
@@ -233,6 +234,8 @@
 - [client-side PoC of OpenAI Chat GPT API via Web Speech API](https://github.com/WebReflection/talk2gpt)
 - [Use ChatGPT from the terminal](https://github.com/gmpetrov/openai-chatgpt)
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch)
+- https://github.com/Zero6992/chatGPT-discord-bot
+- https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants
 
 ### Tool
 

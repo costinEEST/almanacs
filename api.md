@@ -33,6 +33,7 @@
 - [Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends](https://github.com/diddledani/twitodon) + https://diddledani.com/twitodon
 - https://github.com/dilame/instagram-private-api
 - [A wrapper around YouTube's internal API](https://github.com/LuanRT/YouTube.js)
+- [Google Sheet as JSON](https://github.com/benborgers/opensheet)
 
 ### GraphQL
 
@@ -200,6 +201,8 @@ curl v2.wttr.in/Bucharest
 - [Access Kindle's private API in Node.js without a headless browser](https://github.com/Xetera/kindle-api)
 - https://github.com/TwilioDevEd/introduction-to-apis-notes
 - https://github.com/TwilioDevEd/webhooks-course
+- [Free API for outgoing SMS](https://github.com/typpo/textbelt)
+- [global content delivery network for emojis](https://github.com/benborgers/emojicdn)
 
 ### Travel 
 
