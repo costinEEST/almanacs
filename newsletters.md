@@ -148,7 +148,7 @@
 
 ### Judaism
 
-- [Jewish Studies Weekly](https://us13.campaign-archive.com/home/?u=f000ad8783f4985c05ec1a11c&id=df05eee35a)
+- [Jewish Studies at Fordham University](https://us13.campaign-archive.com/home/?u=f000ad8783f4985c05ec1a11c&id=df05eee35a)
 
 ### Biology
 
