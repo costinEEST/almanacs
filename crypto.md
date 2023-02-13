@@ -155,7 +155,6 @@
 - https://github.com/SalusaSecondus/CryptoGotchas
 - https://github.com/claucece/formal-tutorials
 - https://github.com/claucece/useful-crypto-resources
-- https://github.com/sigalor/whatsapp-web-reveng
 - https://github.com/pFarb/awesome-crypto-papers
 - https://github.com/HashPals/Name-That-Hash
 - [multi party computation resources](https://github.com/rdragos/awesome-mpc)

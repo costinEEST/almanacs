@@ -401,6 +401,8 @@
 - https://github.com/paulmillr/noble-secp256k1
 - [Learning fast elliptic-curve cryptography](https://paulmillr.com/posts/noble-secp256k1-fast-ecc)
 - [implementation of elliptic curve cryptography](https://github.com/paulmillr/noble-curves)
+- https://github.com/sigalor/whatsapp-web-reveng
+
 
 ### `node:dns`
 

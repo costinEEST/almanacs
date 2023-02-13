@@ -41,6 +41,7 @@
 - https://www.facebook.com/flyoverzone + www.flyoverzone.com
 - [Browse the streets of Los Angeles on an Augmented Reality historical walking tour](https://github.com/vanvoorden/NBARRuscha)
 - [Augmented reality tours made easy](https://nocodefounders.com/startup/wintor)
+- [Monocle: A pocket sized open-source AR device](https://news.ycombinator.com/item?id=34694056)
 
 ### Development
 

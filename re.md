@@ -24,6 +24,7 @@
 - https://daniao.ws/talks/exploiting-out-of-order-execution
 - http://www.righto.com/2016/02/reverse-engineering-arm1-processors.html
 - [Reading Silicon: How to Reverse Engineer Integrated Circuits | Ken Shirriff](https://youtu.be/aHx-XUA6f9g)
+- https://github.com/jaames/playdate-reverse-engineering
 
 ### Course
 

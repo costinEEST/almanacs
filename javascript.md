@@ -304,7 +304,7 @@
 - [Create a random JavaScript string in different bases](https://twitter.com/freddyb/status/1529572995374645249)
 - https://dfkaye.com/posts/2021/07/17/fixing-number.tofixed
 - https://maximilianocontieri.com/code-smell-180-bitwise-optimizations
-- https://github.com/erikwiffin/0.30000000000000004
+- https://github.com/erikwiffin/0.30000000000000004 + https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004 + https://news.ycombinator.com/item?id=34708756
 
 ### default arguments
 
