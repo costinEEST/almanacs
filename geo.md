@@ -1,23 +1,21 @@
-### Book 
+### Book
 
 - [Atlasul lumii | Constantin Furtună](https://www.all.ro/atlasul-lumii-editia-a-iii-a.html)
 - [Atlasul lumii, pe continente](https://ercpress.com.ro/default.php?p=browse&clid=85)
 - [A New Ecological Order: Development and the Transformation of Nature in Eastern Europe | Ştefan Dorondel, Stelu Şerban](https://www.barnesandnoble.com/w/a-new-ecological-order-stefan-dorondel/1139791160?ean=9780822988847)
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=geology
 
-
-### Cinema 
+### Cinema
 
 - [Mad Maps: The World's Strangest Borders Explained](https://www.youtube.com/playlist?list=PLASuLwvdeBybd7hPxnBrSvQKRh0pvMVJb)
-
 
 ### Community
 
 - [My 11yo son is showing strong interest in weather/meteorology](https://twitter.com/accidentalciso/status/1574601524252221451)
 - https://www.unesco.org/en/articles/new-inscriptions-unesco-intangible-cultural-heritage
 - [Bogdan Enescu, seismologist](https://scholar.google.com/citations?user=Dtdu9LgAAAAJ&hl=en)
-
-
+- [Geodezia](https://www.facebook.com/groups/2537386143057362)
+- [Topografi din România](https://www.facebook.com/groups/330138550434085)
 
 ### Miscellaneous
 

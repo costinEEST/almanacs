@@ -104,6 +104,7 @@
 - https://piggsboson.medium.com/stephen-hawkings-ph-d-thesis-3a8c9b28ed4
 - https://www.thegreatcourses.com/professors/alex-filippenko
 - https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter
+- [Astronomie de amatori Bazar](https://www.facebook.com/groups/1815602245358381)
 
 ### Constellation
 
@@ -155,7 +156,7 @@
 - https://www.newscientist.com/article/2339020-enceladus-shown-to-have-all-six-of-the-essential-elements-for-life
 - https://wis-wander.weizmann.ac.il/space-physics/look-bright-side-earth
 - https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130
-- https://singularityhub.com/2023/02/03/ai-is-helping-astronomers-search-for-intelligent-alien-life-and-theyve-found-8-strange-new-signals 
+- https://singularityhub.com/2023/02/03/ai-is-helping-astronomers-search-for-intelligent-alien-life-and-theyve-found-8-strange-new-signals
 
 ### Picture
 
@@ -170,7 +171,7 @@
 - https://singularityhub.com/2022/11/23/this-amazing-interactive-map-of-the-universe-takes-you-all-the-way-back-to-the-big-bang + https://mapoftheuniverse.net
 - [Astrophotography by Thomas Fuchs](https://lightfrom.space)
 
-### Planet 
+### Planet
 
 - https://www.nbcnews.com/science/space/jupiter-12-new-moons-rcna69131
 
