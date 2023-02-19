@@ -42,6 +42,10 @@
 - https://github.com/johnwstanford/feynman_lecture_notes
 - [Introduction to Loop Quantum Gravity - Carlo Rovelli](https://www.youtube.com/playlist?list=PLwLvxaPjGHxR6zr421tXXlaDGbq8S36Un)
 
+### Community
+
+- https://www.kylieying.com/blog/cern
+
 ### Physician
 
 - J.J. Thomson: https://twitter.com/mcnees/status/1339963246174990336
@@ -82,7 +86,7 @@
 - https://github.com/Apress/physics-for-javascript-games-animation-simulations
 - https://github.com/llSourcell/Learn_Physics_in_2_Months
 - https://guzey.com/where-does-talent-come-from
-- https://ciechanow.ski/naval-architecture 
+- https://ciechanow.ski/naval-architecture
 - https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype
 - https://neddonovan.substack.com/p/how-disney-became-a-nuclear-power
 - https://www.blog.geoffrussell.com.au/post/nuclear-may-or-may-not-be-expensive-but-it-s-much-faster-to-build-than-renewables
@@ -94,7 +98,7 @@
 - https://www.wired.co.uk/article/internal-combution-engine-obituary
 - https://ciechanow.ski/internal-combustion-engine + https://twitter.com/BCiechanowski/status/1387790984356917249
 - https://alternativepureenergy.ro/pret-generator-magneti-permanenti-pmg + https://youtu.be/jIBMp4OvbSM + https://youtu.be/XjC5_xtifro
-- https://www.forbes.com/sites/alanohnsman/2022/02/23/how-diesel-giant-cummins-might-beat-tesla-in-the-green-engine-battle 
+- https://www.forbes.com/sites/alanohnsman/2022/02/23/how-diesel-giant-cummins-might-beat-tesla-in-the-green-engine-battle
 
 ### Radio
 
@@ -105,6 +109,6 @@
 
 - https://www.freeingenergy.com/understanding-the-basics-of-electricity-by-thinking-of-it-as-water
 
-### Teacher 
+### Teacher
 
 - Cristian Presură: http://www.math.pitt.edu/~sph/1230/Boyer-AHistoryOfMathematics.pdf, https://www.amazon.com/History-Mathematics-3e-Carl-Boyer/dp/0470525487
