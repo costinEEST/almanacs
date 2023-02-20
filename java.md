@@ -161,6 +161,7 @@
 - https://github.com/Developer-Y/all-things-java
 - [Shows shipwreck locations on a map; each wreck can be clicked for further information](https://github.com/lauriharpf/shipwrecks)
 - [wind farm SCADA system](https://thesis.accel.dk) + https://tech-notes.accel.dk/technical/iec61400-25
+- https://github.com/BenGirone/thesis
 
 ### Opinion
 

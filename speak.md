@@ -368,6 +368,10 @@
 
 - https://www.nytimes.com/2021/10/06/us/marie-wilcox-dead.html + https://emergencemagazine.org/feature/language-keepers/#/chapter/wukchumni
 
+### Sanskrit
+
+- [Olga Olina](https://warpgrid.xyz/idiomarium)
+
 ### Serbian
 
 - [Learn Serbian in a few minutes | Teacher_Suzana](https://www.youtube.com/playlist?list=PLVnag7rRuuY2yoo1lSoHxRC5kRjI0ZX-P)

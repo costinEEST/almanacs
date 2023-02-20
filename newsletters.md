@@ -63,6 +63,7 @@
 - [Alexandra Kiely](https://us14.campaign-archive.com/home/?u=d9f2de25d2032a0e4e841e8d2&id=7d15072621)
 - [Tyler Hobbs](https://us9.campaign-archive.com/home/?u=523aa93d4f227c983bdf09efe&id=ee0e56f70d)
 - [Art Encounters](https://us16.campaign-archive.com/home/?u=cd70916bf40ec27923e03d12b&id=da1f465d55)
+- [Muzeul National al Satului "Dimitrie Gusti"](https://us14.campaign-archive.com/home/?u=dd2c1b16b5fa0d63306852eb6&id=b4772db6b7)
 
 ### Artificial intelligence
 
@@ -342,6 +343,7 @@
 - [Lucia Aronica](https://us19.campaign-archive.com/home/?u=b5a7b243f7e9ec0be6f0de584&id=3781a25554)
 - Forever Living: https://us11.campaign-archive.com/home/?u=148222cedc650a178c5d28741&id=aeb3a74051, https://us11.campaign-archive.com/home/?u=148222cedc650a178c5d28741&id=2b75370977
 - [Jones Wellness (Cancer/evolution)](https://us7.campaign-archive.com/home/?u=75ac079dc580d32a5726e1c26&id=cbf7c437ec)
+- [Yoga Studies Institute](https://us8.campaign-archive.com/home/?u=e1ee0b874d5f3352ff94f6312&id=47d0dece18)
 
 ### Privacy
 

@@ -204,6 +204,10 @@ curl v2.wttr.in/Bucharest
 - [Free API for outgoing SMS](https://github.com/typpo/textbelt)
 - [global content delivery network for emojis](https://github.com/benborgers/emojicdn)
 
+### Philosophy
+
+- https://github.com/the-akira/PhilosophyAPI
+
 ### Travel 
 
 - [periodically retrieves award availability from mileage programs](https://seats.aero/about)

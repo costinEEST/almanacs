@@ -519,6 +519,7 @@
 - [Sorting pictures in folders based on the date in the EXIF metadata](https://github.com/christianbaumann/sort_photos)
 - https://github.com/christianbaumann/bdd-ruby
 - https://testautomationu.applitools.com/learningpaths.html?id=web-ui-ruby-path
+- https://github.com/noahgibbs/testing_rebuilding_http
 
 ### Radio
 
