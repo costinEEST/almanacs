@@ -87,6 +87,7 @@
 - [Structured Programming | Steve Blackburn](https://comp.anu.edu.au/courses/comp1110)
 - https://github.com/in28minutes/in28Minutes-Course-Roadmap
 - https://www.freecodecamp.org/news/full-stack-development-with-mongodb-java-and-react
+- https://www.udemy.com/course/advanced-programming-with-javafx-build-an-email-client
 
 ### Best practices
 
@@ -181,3 +182,4 @@
 
 - [Test Automation Made Simple](https://github.com/karatelabs/karate)
 - https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
+- [Introduction to observability | Test Automation U](https://www.youtube.com/playlist?list=PLsiHUuozEFFoqBhY8iK8v1tpatS_b3B5M)

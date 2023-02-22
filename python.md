@@ -356,6 +356,7 @@
 - [An IPython magic extension for printing date and time stamps, version numbers, and hardware information](https://github.com/rasbt/watermark)
 - [A set of tools to keep your pinned Python dependencies fresh](https://github.com/jazzband/pip-tools)
 - [Wordclouds for your book library](https://yurichev.org/wordcloud)
+- https://github.com/Gioman101/FlipperAmiibo
 
 ### Testing
 

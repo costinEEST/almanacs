@@ -100,7 +100,7 @@
 - https://github.com/Loeka1234/typescript-url-shortener-frontend
 - https://www.djamware.com/post/5f2a1d9d9c794f177fd7b527/react-js-tutorial-building-firebase-chat-app-react-hooks
 - [I created an open-source alternative to Google Analytics using React, Redux and Next](https://github.com/mikecao/umami) + https://medium.com/@caozilla/how-i-wrote-umami-in-30-days-a290372b80e4
-- [Plain-text note-taking app for the web with Markdown support. TakeNote was created with TypeScript, React, Redux, Node, Express, Codemirror, Webpack, Jest, Cypress, Feather Icons, ESLint, and Mousetrap, among other awesome open-source software.](https://github.com/taniarascia/takenote)
+- [Plain-text note-taking app for the web with Markdown support. TakeNote was created with TypeScript, React, Redux, Node, Express, Codemirror, Webpack, Jest, Cypress, Feather Icons, ESLint, and Mousetrap](https://github.com/taniarascia/takenote)
 - https://github.com/jsolano/react-sudoku-solver
 - https://github.com/shaneosullivan/react-url-decoder
 - https://github.com/rogierslag/tools
@@ -465,7 +465,6 @@
 
 ### Testing
 
-- [Testing Next.js Apps with Jest, Testing Library and Cypress](https://www.udemy.com/course/nextjs-testing)
 - https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest
 - https://www.manning.com/books/testing-javascript-applications
 - https://www.udemy.com/course/react-testing-with-jest-and-enzyme
@@ -488,12 +487,13 @@
 - https://leandrotk.github.io/2020/06/ux-studies-with-react-typescript-and-testing-library/index.html + https://github.com/leandrotk/react-testing-library-recipes + https://leandrotk.github.io/2020/10/basic-recipes-for-react-testing-library
 - https://gumroad.com/l/beginners-guide-to-react-testing
 - https://github.com/kentcdodds/react-testing-library-examples
-- [Fast is beautiful and Jest is much faster than Cypress. Cypress gives you ultimate confidence when shipping. Jest gives you rapid feedback during development.](https://twitter.com/MaOberlehner/status/1372182887462793218)
+- [Fast is beautiful and Jest is much faster than Cypress. Cypress gives you ultimate confidence when shipping. Jest gives you rapid feedback during development](https://twitter.com/MaOberlehner/status/1372182887462793218)
 - https://github.com/ahmadnassri/i-jest-you-not + https://twitter.com/AhmadNassri/status/1375094293917003780
 - [React.js Unit Testing and Integration Testing Tutorial | Bruno Antunes](https://www.youtube.com/playlist?list=PLYSZyzpwBEWTBdbfStjqJSGaulqcHoNkT)
 - https://github.com/sapegin/jest-cheat-sheet
 - https://github.com/muratkeremozcan/cypress-react-component-test-examples + https://muratkerem.gitbook.io/cctdd
 - https://github.com/HugoDF/jest-handbook-examples
+- https://www.udemy.com/course/typescript-with-react-jest-testing
 
 ### Tool
 

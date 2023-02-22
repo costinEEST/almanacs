@@ -175,6 +175,7 @@
 - https://github.com/octave-online/octave-online-server
 - https://blog.appsignal.com/2022/11/23/nodejs-architecture-pitfalls-to-avoid.html
 - https://github.com/lokalise/node-service-template
+- https://github.com/Eomm/fastify-discord-bot-demo
 
 ### Cinema
 
@@ -218,6 +219,7 @@
 - https://github.com/redislabs-training/node-js-crash-course
 - [A step by step guide to implement a GraphQL server with Fastify and Mercurius](https://github.com/nearform/the-graphql-workshop)
 - https://github.com/CodeYourFuture/syllabus
+- https://www.youtube.com/playlist?list=PLrZyA4KBTQrikjiihH8BJtofE2qFe_xHk + https://github.com/felipepastorelima/react-pet-hotel + https://github.com/felipepastorelima/vue-library
 
 ### Command line
 
@@ -563,6 +565,7 @@
 - https://rrawat.com/blog/unit-test-express-api + https://github.com/Rishabh570/express-api-unit-test-starter
 - https://larswaechter.dev/blog/nodejs-api-testing
 - https://hire.jonasgalvez.com.br/2023/jan/31/fastify-testing
+- https://github.com/grissius/jest-is-a-rude-needy-clown-and-eats-lot-of-memory
 
 ### Scrapping
 
@@ -660,6 +663,7 @@
 - https://snyk.io/blog/reverse-shell-attack
 - https://github.com/aadityapurani/NodeJS-Red-Team-Cheat-Sheet
 - [LavaMoat is a set of tools for securing JavaScript projects against a category of attacks called software supply chain attacks](https://github.com/LavaMoat/LavaMoat)
+- https://github.com/nearform/owasp-top-ten-workshop
 
 ### CMS
 
