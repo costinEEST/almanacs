@@ -152,6 +152,7 @@
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html
 - [Code inspector for web vulnerability scan](https://github.com/4ra1n/code-inspector)
 - https://semgrep.dev/blog/2022/xml-security-in-java
+- https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef
 
 ### Microservice
 

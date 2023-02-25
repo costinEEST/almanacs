@@ -10,6 +10,7 @@
 - https://modern.technology
 - https://github.com/k4m4/movies-for-hackers
 - https://informationisbeautiful.net/visualizations/what-is-the-most-successful-hollywood-movie-of-all-time
+- https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century
 
 ### Documentary
 

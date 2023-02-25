@@ -127,6 +127,7 @@
 - [Charts with HTML & CSS](https://github.com/ffoodd/chaarts)
 - https://github.com/andreiolariu/strava-roads
 - [Visualize climate change since 1960 for your home town](https://github.com/lutzvdb/climatevisualizer)
+- [Tiny speedrun timer](https://github.com/ylorant/splitty)
 
 ### Miscellaneous
 

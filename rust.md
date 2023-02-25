@@ -218,6 +218,7 @@
 - https://matklad.github.io/2022/10/06/hard-mode-rust.html
 - https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust
 - https://tryingtobeawesome.com/rust
+- [Why I use Rust even if I could use a GC'd language](https://dev.l1x.be/posts/2023/02/22/beyond-the-borrow-checker/#why-on-earth-would-anybody-use-rust-for-etl)
 
 ### Scrapping
 

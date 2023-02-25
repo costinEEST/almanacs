@@ -5,6 +5,8 @@
 - https://github.com/heybereket/hiddentools
 - https://github.com/scastiel/nextjs-course-template#this-template-uses
 - https://github.com/ryanto/next-s3-upload
+- [A Customizable Obsidian Publish alternative](https://github.com/matthewwong525/linked-blog-starter)
+- https://github.com/jherr/notetaker
 
 ### Cheat sheet 
 

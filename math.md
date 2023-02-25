@@ -59,6 +59,9 @@
 - [Recode of book "Dessins géométriques et artistiques avec votre micro-ordinateur | Jean-Paul Delahaye" (1985) with p5js](https://github.com/v3ga/dessins_geometriques_et_artistiques)
 - ["Arithmetices Principia, Nova Methodo Exposita" by Giuseppe Peano](https://github.com/mdnahas/Peano_Book)
 - https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
+- [Hideyuki Matsumura, Commutative Algebra](https://github.com/AareyanManzoor/Matsumura-Commutative-Algebra)
+- [J. F Adams, Stable Homotopy and Generalised Homology](https://github.com/AareyanManzoor/Adams-Blue-Book)
+- [Noel J. Hicks, Notes on Differential Geometry](https://github.com/AareyanManzoor/Hicks-Notes-Diff-Geo)
 
 ### Course
 
@@ -124,6 +127,7 @@
 - http://gustavbertram.com/learning/math
 - [The World of YouTube Math Communication | Scott Hershberger](https://www.ams.org/journals/notices/202210/rnoti-p1789.pdf)
 - [Edward Frenkel](https://www.youtube.com/c/edfrenkel/playlists)
+- Aareyan Manzoor: https://www.youtube.com/@user-og9ub9ds3b/videos, https://aareyanmanzoor.github.io/sources.html
 
 ### Mathematician
 

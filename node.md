@@ -132,6 +132,7 @@
 - https://cmdcolin.github.io/posts/2022-08-26-twitterbot + https://github.com/cmdcolin/twitter_fractal_bot
 - https://github.com/maintainers/invite-automation
 - https://github.com/yagop/node-telegram-bot-api
+- [ChatGPT + DALL-E + WhatsApp = AI Assistant](https://github.com/askrella/whatsapp-chatgpt)
 
 ### Boilerplate
 

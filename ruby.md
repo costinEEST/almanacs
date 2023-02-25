@@ -168,6 +168,7 @@
 ### Community
 
 - [Newsletters](newsletters.md#ruby)
+- https://github.com/fpsvogel/learn-ruby
 - http://planetruby.github.io
 - https://planetruby.github.io/meetups
 - https://github.com/planetruby/awesome-rubies
@@ -393,7 +394,6 @@
 ### Opinion
 
 - [Rails for the API and Next.js for the front-end](https://twitter.com/kwuchu/status/1525871984936161281)
-- https://github.com/fpsvogel/learn-ruby-and-cs
 - https://www.schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made
 - https://gquintana.github.io/2017/01/08/From-Java-to-Ruby.html
 - https://mlomnicki.com/symbols-vs-strings

@@ -122,6 +122,7 @@
 - https://gist.github.com/mackwage/08604751462126599d7e52f233490efe + https://twitter.com/dragosr/status/1259482957166731264
 - https://github.com/Fs00/Win10BloatRemover
 - https://github.com/beerisgood/Windows11_Hardening
+- https://gist.github.com/alirobe/7f3b34ad89a159e6daa1
 
 ### Opinion
 

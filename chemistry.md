@@ -87,6 +87,7 @@ https://inquisitivebiologist.com/2023/01/11/book-review-lithium-the-global-race-
 - [Almost 300 years of elemental discovery](https://twitter.com/fermatslibrary/status/1576927325446356993)
 - https://www.science.org/content/article/new-artificial-enamel-harder-and-more-durable-real-thing
 - https://www.newscientist.com/article/2357007-entirely-new-type-of-ice-made-using-extremely-cold-steel-balls
+- https://www.nytimes.com/2021/10/14/style/ephemeral-tattoos-disappearing-ink.html
 
 ### Tool
 

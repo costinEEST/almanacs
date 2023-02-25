@@ -6,6 +6,7 @@
 - https://github.com/enricopolanski/functional-programming
 - https://vladris.com/blog/2019/04/28/programming-with-types.html + https://github.com/vladris/programming-with-types
 - https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node
+- https://github.com/LearningTypeScript/site
 
 ### Boilerplate
 
@@ -144,3 +145,5 @@
 - [A very compact representation of a placeholder for an image](https://github.com/woltapp/blurhash/tree/master/TypeScript)
 - https://github.com/vanilla-extract-css/vanilla-extract
 - [Toolkit for building TypeScript-powered command-line apps](https://github.com/infinitered/gluegun)
+- https://github.com/total-typescript/ts-reset
+- https://github.com/mattpocock/zod-fetch

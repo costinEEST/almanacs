@@ -294,6 +294,7 @@
 - [Hacker Newsletter](https://us1.campaign-archive.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)
 - https://apisecurity.io/full-archive
 - [Future of Coding Weekly](https://tinyletter.com/marianoguerra/archive)
+- [Matt Frisbie](https://mattfrisbie.substack.com/archive)
 
 ### Web performance
 

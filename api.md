@@ -142,9 +142,9 @@ curl v2.wttr.in/Bucharest
 - [REST API Design Guide of the National Bank of Belgium](https://github.com/NationalBankBelgium/REST-API-Design-Guide)
 - https://datahelpdesk.worldbank.org/knowledgebase/articles/898590-country-api-queries
 
-### Languages
+### Speak
 
-- [Microsoft Translator Text API v3.](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-NodeJS)
+- [Microsoft Translator Text API](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-NodeJS)
 - https://github.com/cortexlabs/cortex/tree/translator-example/examples/model-caching/python/translator
 - [A simple front-end for OCR with Google Vision API.](https://github.com/llll-org/vizor)
 - [Free Dictionary API](https://github.com/meetDeveloper/freeDictionaryAPI)
@@ -152,6 +152,7 @@ curl v2.wttr.in/Bucharest
 - [Dockerized Python microservice with REST API for verbs conjugation in French, Spanish and Portuguese](https://github.com/bretttolbert/verbecc-svc)
 - [English Dictionary(CLI and API) based on dictionary.cambridge.org](https://github.com/khaled0fares/meaning)
 - [A module that scrapes lexico.com to get the meanings of almost any word + audio and examples](https://github.com/LuanRT/lexico-dictionary)
+- [Machine Translation API. Self-hosted, offline capable](https://github.com/LibreTranslate/LibreTranslate)
 
 ### Miscellaneous
 
@@ -203,6 +204,7 @@ curl v2.wttr.in/Bucharest
 - https://github.com/TwilioDevEd/webhooks-course
 - [Free API for outgoing SMS](https://github.com/typpo/textbelt)
 - [global content delivery network for emojis](https://github.com/benborgers/emojicdn)
+- https://github.com/pawitp/ebook-convert-api
 
 ### Philosophy
 
