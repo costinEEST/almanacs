@@ -91,7 +91,6 @@
 - ["Against the Grain" by James C. Scott](https://twitter.com/devonzuegel/status/1212414927777992705)
 - [1177 B.C. The Year Civilization Collapsed](https://paulskallas.substack.com/p/14-lindy-talk-w-prof-eric-cline)
 
-
 ### Build
 
 - https://www.youtube.com/user/MattRisinger/playlists
@@ -165,6 +164,7 @@
 - https://www.fhautism.com/shop/the-outdoor-scientist-the-wonder-of-observing-the-natural-world
 - https://www.udemy.com/course/fostering-creativity-in-children
 - https://www.goodreads.com/book/show/49848056-home-learning-year-by-year-revised-and-updated
+- [John Taylor Gatto On The Elite Schools | Jan van der Reis](https://www.youtube.com/playlist?list=PLJniMxowDM-5d6qBPO3Hl5hQJOs6BBKtG)
 
 ### Mindfulness
 
@@ -203,4 +203,3 @@
 - https://divu.in/cooking
 - [Make Pizza: Instructional Videos - The Pizza Book](https://www.youtube.com/playlist?list=PLhpdihPT7EFVGJzIMaEjIdsd5dDxbUs-p)
 - [seven essential cookbooks](https://archive.ph/ZPOCJ)
-
