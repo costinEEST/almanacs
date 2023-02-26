@@ -560,6 +560,7 @@
 - https://blinry.org/how-to-blog-with-nanoc
 - https://github.com/egiurleo/advent_of_code_cli
 - [modern web scraping framework](https://github.com/glaucocustodio/tanakai)
+- https://github.com/robbi5/german-gov-domains
 
 ### Static generator
 

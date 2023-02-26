@@ -182,6 +182,7 @@
 - [Building a federated link aggregator](https://github.com/LemmyNet/lemmy)
 - https://github.com/alexkreidler/parquet2arrow
 - [A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow](https://github.com/meilisearch/meilisearch)
+- [A command-line DNS client](https://github.com/ogham/dog)
 
 ### Opinion
 

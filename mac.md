@@ -90,7 +90,6 @@
 - ["How I saved a year of our family pictures from a dead hard drive." saved ars forum](https://gist.github.com/chitchcock/fa356af5cb6393951b9f)
 - https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder
 - [Query all macOS Address Book contacts](https://github.com/derhuerst/os-x-contacts)
-- [Prevents your Mac from going to sleep](https://github.com/newmarcel/KeepingYouAwake)
 - [Nginx+Lua config that converts Eventbrite API to iCalenadar format](https://github.com/diafygi/eb-to-ical)
 - [Device mockup generator for your screenshots](https://dimmy.club)
 - https://weser.io/blog/using-an-iphone-as-a-mac-webcam

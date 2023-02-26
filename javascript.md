@@ -266,6 +266,7 @@
 
 - https://github.com/kay-is/awesome-tagged-templates
 - https://www.acuriousanimal.com/blog/20211205/javascript-handle-unicode
+- https://stackoverflow.com/questions/21647928/javascript-unicode-string-to-hex
 
 ### spread/destructuring operator
 
@@ -607,6 +608,7 @@
 
 - https://github.com/mezum/quickjs-cmake
 - [Web-based interpreter for the LOOP, WHILE, and GOTO programming languages](https://github.com/tniessen/loop-while-goto)
+- [Minimal Lisp interpreter](https://github.com/inexorabletash/jisp)
 
 ### Tool
 

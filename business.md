@@ -134,6 +134,7 @@
 - [The Deadline: A Novel About Project Management | Tom DeMarco](https://www.2uo.de/Books/the-deadline)
 - [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
 - https://plugaru.org/2022/04/30/engineering-management-books
+- https://ben.balter.com/other-recommended-reading
 
 ### Leadership
 

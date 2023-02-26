@@ -101,6 +101,10 @@ javascript: (() =>
 
 - [syntax-fm-sticky-show-notes.user.js](https://gist.github.com/salembeats/8d1b73d2cf14ba012039ac844d0c79c6)
 
+### new URL()
+
+- [? vs #](https://github.com/robinmoisson/staticrypt/issues/156)
+
 ### new Worker()
 
 - [Why don't we just move all JS to a web worker?](https://twitter.com/dan_abramov/status/1234297789938589696) + https://docs.google.com/document/d/1nu0EcVNC3jtmUVWL8Gs5eCj2p_984kamNhG2nS9gOC0/edit#heading=h.e6n21l1n04rc
@@ -650,3 +654,4 @@ javascript: (() =>
 - [Embed any file into an encrypted, self-decrypting HTML file](https://github.com/fmeum/polysafe)
 - https://github.com/mprimi/portable-secret
 - https://github.com/Metalnem/javascript-crypto
+- https://github.com/robinmoisson/staticrypt/pull/111/files

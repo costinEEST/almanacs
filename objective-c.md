@@ -23,9 +23,10 @@
 ### Demo 
 
 - [git client for macOS](https://github.com/gitx/gitx)
+- [Prevents your Mac from going to sleep](https://github.com/newmarcel/KeepingYouAwake)
 
 
-### History
+### Historic
 
 - https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225 + https://news.ycombinator.com/item?id=25876767
 

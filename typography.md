@@ -86,6 +86,7 @@
 - https://hackaday.com/2022/09/27/cursing-the-curse-of-cursive
 - [Archetype helps you choose font pairings and appropriate spacing](https://archetypeapp.com)
 - [Adjust visually, the scaling of headings depending on the ratios that you choose](https://github.com/jeremychurch/type-scale)
+- https://github.com/DanielRuf/Google-Fonts-CSP-Logging
 
 ### Miscellaneous
 

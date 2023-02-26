@@ -36,6 +36,7 @@
 - [manage your ebook at ease](https://github.com/oguzhaninan/Buka)
 - [A cross-platform GUI for youtube-dl made in Electron and node.js](https://github.com/jely2002/youtube-dl-gui)
 - https://github.com/leerob/youtube-to-mp3
+- [CLI for managing the battery charging status for M1 Macs](https://github.com/actuallymentor/battery)
 
 ### Boilerplate
 

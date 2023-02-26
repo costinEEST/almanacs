@@ -202,6 +202,8 @@
 - https://github.com/bobby-lin/study-devops
 - https://www.slideshare.net/sussurro/pen-test-for-sys-admin
 - https://github.com/stars/0xdevalias/lists/event-automation-systems
+- https://github.com/6mile/DevSecOps-Playbook
+- https://github.com/jakejarvis/datacenter-speed-tests
 
 ### Monitoring
 
