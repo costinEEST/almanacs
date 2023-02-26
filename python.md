@@ -42,6 +42,7 @@
 - https://tryingtobeawesome.com/python
 - https://pypackages.com
 - https://www.manning.com/books/python-workout
+- https://github.com/kevinheavey/modern-polars
 
 ### Bots
 
@@ -357,6 +358,7 @@
 - [A set of tools to keep your pinned Python dependencies fresh](https://github.com/jazzband/pip-tools)
 - [Wordclouds for your book library](https://yurichev.org/wordcloud)
 - https://github.com/Gioman101/FlipperAmiibo
+- [Fully functional sticky notes app in your terminal](https://github.com/Cvaniak/NoteSH)
 
 ### Testing
 

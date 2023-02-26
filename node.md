@@ -541,6 +541,7 @@
 - https://featurist.co.uk/blog/running-typescript-in-node-with-near-zero-compilation-cost
 - https://github.com/websperts/tinypng-cli
 - https://github.com/ancasicolica/node-wifi-scanner
+- [Module for setting up network interface(s) ip address, dns, and default routes of physical network interfaces, VLAN, and bridged interfaces](https://github.com/adonespitogo/node-set-ip-address)
 
 ### Testing
 

@@ -45,6 +45,7 @@
 - [Command line interface for Goodreads](https://github.com/thundergolfer/goodreads-sh)
 - [Reinventing the Book](https://jessmart.in/notes/CF54B975-94E1-4244-9EE7-9D3890FA8C96-4272-0006761CAB8A1FA6)
 - [An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices ](https://github.com/koreader/koreader)
+- https://github.com/robertmartin8/kindleclippings
 
 ### Poetry
 

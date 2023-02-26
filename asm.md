@@ -77,6 +77,7 @@
 ### Debugging
 
 - [Case studies of difficult bugs and how they were tracked down](https://twitter.com/aluhrs13/status/1557044379797188608)
+- https://fasterthanli.me/videos/cpp-vs-rust-which-is-faster
 
 ### Opinion
 

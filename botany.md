@@ -4,6 +4,7 @@
 - https://inquisitivebiologist.com/2021/11/17/book-review-the-wood-age-how-one-material-shaped-the-whole-of-human-history
 - https://www.amazon.com/Field-Guide-Urban-Gardening-Hydroponics/dp/076036396X + https://www.ejorgenson.com/podcast/kevin-espiritu-epic-gardening
 - https://thereader.mitpress.mit.edu/a-master-perfumers-reflections-on-patchouli-and-vetiver
+- https://turismistoric.ro/istoria-parfumurilor-de-la-origini-si-pana-in-prezent
 - https://biblioteca-digitala.ro/?volum=12533-catalogul-expozitiei-canepa-de-la-samanta-la-produs-finit-tehnica-de-lucru-instrumentar-si-obiecte-textile-din-lumea-satului-bihorean--2016
 - [Les racines, face cachée des arbres | Christophe Drénou](https://fb.watch/f0AjOgGw-H)
 

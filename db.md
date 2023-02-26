@@ -67,6 +67,7 @@
 - https://github.com/zsolt-dev/backup-mysql-to-gcp-storage
 - [Use SQL to instantly query your cloud services (AWS, Azure, GCP and more)](https://github.com/turbot/steampipe)
 - [If you work with SQL Server, dbatools is a lifesaver](https://www.manning.com/books/learn-dbatools-in-a-month-of-lunches)
+- [query engine, which can be used to query any data source or combination of data sources: databases, APIs, raw files (JSON, CSV, etc.), git version control, etc](https://news.ycombinator.com/item?id=34705246) + https://github.com/obi1kenobi/trustfall + https://www.hytradboi.com/2022/how-to-query-almost-everything
 
 ### Security
 
@@ -101,6 +102,7 @@
 - [Distributed Systems Engineering notes (6.824, Spring 2015)](https://github.com/alinush/6.824-lecture-notes)
 - [CSE138 (Distributed Systems) lectures, Spring 2021](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx) + https://decomposition.al/blog/2020/03/31/twitch-plays-cse138
 - [Distributed Software Systems: Global-First and Local-First Perspectives](https://decomposition.al/blog/2022/12/20/course-announcement-distributed-software-systems-global-first-and-local-first-perspectives)
+- [DriftDB – an open source WebSocket backend for real-time apps](https://news.ycombinator.com/item?id=34639728) + https://www.youtube.com/@driftinginspace9054/videos
 
 ### MySQL
 

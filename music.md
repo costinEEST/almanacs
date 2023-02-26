@@ -135,6 +135,7 @@
 - [Tools to help with practicing and improving musicallity while creating a journal](https://github.com/music-practice-tools/music-practice-tools)
 - [Making Music on Linux | Asahi Lina](https://youtu.be/-sZCMvyZk6k)
 - [Play the accordion with your computer keyboard](https://github.com/taniarascia/accordion)
+- [Music Programming for Java and JVM Languages](https://news.ycombinator.com/item?id=34660500)
 
 ### Song
 

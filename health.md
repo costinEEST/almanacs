@@ -88,6 +88,7 @@
 
 - [What does an unheated room do to your body?](https://www.bbc.com/news/health-63602501)
 - https://www.vox.com/even-better/23570921/love-winter-layers-daylight-seasonal-depression
+- https://brr.fyi/posts/showering-at-the-south-pole + https://news.ycombinator.com/item?id=34658286
 
 ### Course
 
@@ -135,6 +136,7 @@
 
 - [Cocoa and Chocolate](https://www.europeana.eu/en/set/5806)
 - https://pursuit.unimelb.edu.au/articles/why-we-judge-chocolate-by-its-cover
+- [Beginner's guide to dark chocolate tasting](https://www.anthonyhobday.com/blog/20200513.html)
 
 ### Dairy
 

@@ -50,10 +50,11 @@
 ### Tool
 
 - https://knifecoat.com/Tools/CSharp
-- [YoutubeExplode is a library that provides an interface to query metadata of YouTube videos, playlists and channels, as well as to resolve and download video streams and closed caption tracks.](https://github.com/Tyrrrz/YoutubeExplode)
+- [YoutubeExplode is a library that provides an interface to query metadata of YouTube videos, playlists and channels, as well as to resolve and download video streams and closed caption tracks](https://github.com/Tyrrrz/YoutubeExplode) + https://tyrrrz.me/blog/reverse-engineering-youtube-revisited + https://news.ycombinator.com/item?id=34653813
 - [BlackVue Downloader - Download video files from your BlackVue camera over HTTP.](https://github.com/morrisonbrett/BlackVueDownloader)
 - [Decompilation Tools and High Productivity Utilities](https://github.com/badamczewski/PowerUp)
 - [powerful command line calculator app for developers](https://github.com/xoofx/kalk)
+- https://github.com/Tyrrrz/DiscordChatExporter
 
 ### Scrapping
 

@@ -40,3 +40,4 @@
 - https://rebeja.eu/posts/python-ide-with-emacs-and-docker
 - https://github.com/misohena/el-easydraw
 - [Obsidian Notes for Emacs](https://github.com/licht1stein/obsidian.el)
+- [Natural Language Search Assistant for your Org-Mode and Markdown notes](https://github.com/debanjum/khoj)

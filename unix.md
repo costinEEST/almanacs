@@ -59,7 +59,7 @@
 - [Comparison of Operating Systems](https://eylenburg.github.io/os_comparison.htm)
 - [Operating Systems: Timeline and Family Tree](https://eylenburg.github.io/os_familytree.htm)
 - [Default Desktop Environments for Linux and Unix](https://eylenburg.github.io/de_default.htm)
-
+- https://github.com/o-oconnell/minixfromscratch + https://github.com/o-oconnell/writeyourownos +  https://archive.org/details/tanenbaum_woodhull_operating-systems-design-implementation-3rd-edition
 
 ### Tool
 

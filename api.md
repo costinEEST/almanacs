@@ -153,6 +153,7 @@ curl v2.wttr.in/Bucharest
 - [English Dictionary(CLI and API) based on dictionary.cambridge.org](https://github.com/khaled0fares/meaning)
 - [A module that scrapes lexico.com to get the meanings of almost any word + audio and examples](https://github.com/LuanRT/lexico-dictionary)
 - [Machine Translation API. Self-hosted, offline capable](https://github.com/LibreTranslate/LibreTranslate)
+- [Offline open source speech recognition toolkit](https://github.com/alphacep/vosk-api)
 
 ### Miscellaneous
 

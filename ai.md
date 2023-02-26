@@ -233,9 +233,11 @@
 - [GPT-3 chatbot with long-term memory and external sources](https://github.com/daveshap/LongtermChatExternalSources)
 - [client-side PoC of OpenAI Chat GPT API via Web Speech API](https://github.com/WebReflection/talk2gpt)
 - [Use ChatGPT from the terminal](https://github.com/gmpetrov/openai-chatgpt)
-- [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch)
+- [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch) + https://news.ycombinator.com/item?id=34726115
 - https://github.com/Zero6992/chatGPT-discord-bot
 - https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants
+- https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work
+- [Open Assistant: Conversational AI for Everyone](https://news.ycombinator.com/item?id=34654809) + https://github.com/LAION-AI/Open-Assistant
 
 ### Tool
 
@@ -346,6 +348,7 @@
 - [How to detect any CMS version with Machine Learning Algorithms](https://alexfrancow.github.io/app-development/welcome-to-jekyll)
 - [Stable Diffusion is only 30 days old](https://twitter.com/daniel_eckler/status/1572210382944538624) + https://twitter.com/daniel_eckler/status/1589629394372669440
 - https://github.com/amrzv/awesome-colab-notebooks
+- https://reasonabledeviations.com/Projects/#mlstocks
 
 ### Optical character recognition (OCR)
 

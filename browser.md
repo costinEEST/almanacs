@@ -379,6 +379,7 @@ javascript: (() =>
 ### Safari
 
 - [In my app when a user clicks play, I remove all audio elements, swap them with fresh ones, and attempt to autoplay for the user.](https://twitter.com/RogersKonnor/status/1453596502098644994) + https://github.com/cableready/audio_operations
+- https://predr.ag/blog/debugging-safari-if-at-first-you-succeed
 
 ### Staybl
 

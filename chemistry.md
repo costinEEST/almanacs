@@ -20,6 +20,7 @@
 https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute
 https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013 + https://www.youtube.com/playlist?list=PLUl4u3cNGP63zDO4gelZKdchvCO1B_Hg9
 https://inquisitivebiologist.com/2023/01/11/book-review-lithium-the-global-race-for-battery-dominance-and-the-new-energy-revolution
+- [Project Sunroof](https://news.ycombinator.com/item?id=34699395)
 
 ### Book
 
