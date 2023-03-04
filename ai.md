@@ -174,6 +174,7 @@
 - [Building a Virtual Machine Inside ChatGPT](https://news.ycombinator.com/item?id=33847479) + https://twitter.com/317070/status/1599152176344928256
 - [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 - https://github.com/stars/FanaHOVA/lists/llm-chaining
+- https://github.com/stars/vladiliescu/lists/llm
 - https://codewithandrea.com/articles/dart-flutter-chatgpt
 - https://slate.com/technology/2022/12/chatgpt-openai-artificial-intelligence-chatbot-whoa.html
 - https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot + https://news.ycombinator.com/item?id=33872369
@@ -238,6 +239,8 @@
 - https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants
 - https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work
 - [Open Assistant: Conversational AI for Everyone](https://news.ycombinator.com/item?id=34654809) + https://github.com/LAION-AI/Open-Assistant
+- https://github.com/ai-forever/ru-gpts
+- [Telegram bot integrated with ruGPT3](https://github.com/AsakoKabe/pseudo-kant)
 
 ### Tool
 

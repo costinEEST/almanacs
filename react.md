@@ -494,6 +494,7 @@
 - https://github.com/muratkeremozcan/cypress-react-component-test-examples + https://muratkerem.gitbook.io/cctdd
 - https://github.com/HugoDF/jest-handbook-examples
 - https://www.udemy.com/course/typescript-with-react-jest-testing
+- https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme + https://www.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
 
 ### Tool
 

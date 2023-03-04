@@ -120,6 +120,10 @@ javascript: (() =>
 - [Measure cpu cache size client side in Javascript](https://github.com/allanlw/cache_size)
 - https://dagster.io/blog/web-workers-performance-issue
 - https://github.com/astoilkov/main-thread-scheduling
+- [Stuff I wish I'd known sooner about service workers](https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9)
+- https://philipwalton.com/articles/smaller-html-payloads-with-service-workers
+- https://blog.persistent.info/2021/08/worker-loop.html
+
 
 ### Engine
 

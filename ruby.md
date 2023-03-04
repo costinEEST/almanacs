@@ -77,6 +77,10 @@
 - [Specialising dynamic techniques for implementing the Ruby programming language | Chris Seaton](https://chrisseaton.com/phd/specialising-ruby.pdf)
 - https://www.amazon.com/Rapid-Rubyist-Matthew-Stopa-ebook/dp/B00DPQ5P24
 
+### Boilerplate
+
+- https://github.com/the-teacher/rails7-startkit
+
 ### Cheat sheet
 
 - https://devtut.github.io/ruby
@@ -520,6 +524,7 @@
 - https://github.com/christianbaumann/bdd-ruby
 - https://testautomationu.applitools.com/learningpaths.html?id=web-ui-ruby-path
 - https://github.com/noahgibbs/testing_rebuilding_http
+- [A list of predefined devices for your tests with Capybara](https://github.com/renuo/so_many_devices)
 
 ### Radio
 

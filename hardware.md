@@ -121,6 +121,7 @@
 - [What Every Programmer Should Know About Memory | Ulrich Drepper](https://www.gwern.net/docs/cs/2007-drepper.pdf)
 - https://www.cnbc.com/2021/08/24/bosch-says-semiconductor-supply-chains-in-car-industry-no-longer-work.html
 - http://blog.notdot.net/2012/10/Build-your-own-FPGA
+- [Code for Bruno Levy's learn-fpga tutorial written in Amaranth HDL](https://github.com/bl0x/learn-fpga-amaranth)
 - https://blog.robertelder.org/how-to-make-a-cpu
 - [Intel | Advent Of Computing](https://www.youtube.com/playlist?list=PLoKM3Qfxoe0mQOLtmoufTAv5-pqVU0sVm)
 - https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors
@@ -209,6 +210,7 @@
 - [Lasersaur -- open source laser cutter](https://github.com/nortd/lasersaur)
 - https://github.com/hardenedlinux/firmware-anatomy/blob/master/hack_ME/hw_security.md
 - [USB in a NutShell](https://www.beyondlogic.org/usbnutshell/usb1.shtml)
+- [Building A Jank UART to USB Cable From Scavenged Parts](https://github.com/francisrstokes/githublog/releases/tag/3)
 - https://shkspr.mobi/blog/2020/05/building-a-physical-blink-tag
 - [I made a mechanical keyboard with 3D-printed switches](https://news.ycombinator.com/item?id=24081046)
 - https://a.wholelottanothing.org/2020/07/18/building-diy-led-strips-for-fun + https://news.ycombinator.com/item?id=23888923

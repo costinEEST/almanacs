@@ -43,6 +43,7 @@
 - https://pypackages.com
 - https://www.manning.com/books/python-workout
 - https://github.com/kevinheavey/modern-polars
+- [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/cosmicpython/book)
 
 ### Bots
 

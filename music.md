@@ -136,6 +136,7 @@
 - [Making Music on Linux | Asahi Lina](https://youtu.be/-sZCMvyZk6k)
 - [Play the accordion with your computer keyboard](https://github.com/taniarascia/accordion)
 - [Music Programming for Java and JVM Languages](https://news.ycombinator.com/item?id=34660500)
+- https://www.charlespetzold.com/blog/2023/03/2023-Project-Building-a-Virginal.html
 
 ### Song
 

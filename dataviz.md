@@ -79,6 +79,8 @@
 - https://github.com/stars/0xdevalias/lists/charts-diagrams-etc
 - [Is there a tool that converts natural language to diagrams?](https://twitter.com/parth007_96/status/1610309348236079105)
 - http://karpathy.github.io/2014/08/03/quantifying-productivity + https://github.com/karpathy/ulogme
+- https://github.com/stars/vladiliescu/lists/charts
+- https://github.com/stars/vladiliescu/lists/dataviz
 
 ### Radio
 

@@ -121,3 +121,4 @@
 - [Attila Egri-Nagy](http://www.egri-nagy.hu/reading)
 - [Lev Lazinskiy](https://bookshop.org/shop/levlaz)
 - [Hidde de Vries](https://hidde.blog/books)
+- [Blas Moros](https://blas.com/books/worth-re-reading)

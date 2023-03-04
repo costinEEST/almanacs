@@ -105,6 +105,7 @@
 - https://www.thegreatcourses.com/professors/alex-filippenko
 - https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter
 - [Astronomie de amatori Bazar](https://www.facebook.com/groups/1815602245358381)
+- https://www.facebook.com/groups/astroclubuliasi
 
 ### Constellation
 

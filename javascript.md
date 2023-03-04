@@ -113,7 +113,6 @@
 - https://rreverser.com/tabs-vs-space
 - [tagname-vs-instanceof](https://twitter.com/diegohaz/status/1200565864287866887)
 - [Parsing JSON Really Quickly: Lessons Learned](https://youtu.be/wlvKAT7SZIQ)
-- https://philipwalton.com/articles/smaller-html-payloads-with-service-workers
 - https://twitter.com/btmpl/status/1218456923684724736
 - https://medium.com/@WebReflection/a-basic-weakmap-performance-hint-e33c14908dff
 - https://medium.com/walkme-engineering/memory-in-javascript-beyond-leaks-8c1d697c655c
@@ -350,7 +349,6 @@
 ### new SharedArrayBuffer()
 
 - https://blogtitle.github.io/using-javascript-sharedarraybuffers-and-atomics
-- https://blog.persistent.info/2021/08/worker-loop.html
 
 ### new Date()
 
