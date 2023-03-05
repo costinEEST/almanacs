@@ -68,7 +68,6 @@
 - https://github.com/ryanshoover/docker-wp-browser
 - https://waclawjacek.com/check-wordpress-plugin-dependencies
 - https://swizec.com/blog/lessons-from-migrating-a-14-year-old-blog-with-1500-posts-to-gatsby
-- https://www.smashingmagazine.com/2020/12/wordpress-eleventy-static-site-generator
 - https://chrislema.com/headless-woocommerce
 - https://mikejolley.com/2021/03/08/headless-wordpress-log-out-using-graphql-reactjs + https://twitter.com/mikejolley/status/1368995014135717900
 - https://www.wpgraphql.com/2021/03/09/gutenberg-and-decoupled-applications

@@ -241,6 +241,7 @@
 - [Open Assistant: Conversational AI for Everyone](https://news.ycombinator.com/item?id=34654809) + https://github.com/LAION-AI/Open-Assistant
 - https://github.com/ai-forever/ru-gpts
 - [Telegram bot integrated with ruGPT3](https://github.com/AsakoKabe/pseudo-kant)
+- https://ijaycent.hashnode.dev/al-assistants-that-help-your-productivity-besides-chatgpt
 
 ### Tool
 

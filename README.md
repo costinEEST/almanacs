@@ -50,6 +50,7 @@
 - [Emotional intelligence](eq.md)
 - [Effectiveness](effectiveness.md)
 - [Electron.js](electron.md)
+- [Eleventy](11ty.md)
 - [Elixir](elixir.md)
 - [Elm](elm.md)
 - [Entertainment](entertainment.md)

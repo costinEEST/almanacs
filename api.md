@@ -206,6 +206,8 @@ curl v2.wttr.in/Bucharest
 - [Free API for outgoing SMS](https://github.com/typpo/textbelt)
 - [global content delivery network for emojis](https://github.com/benborgers/emojicdn)
 - https://github.com/pawitp/ebook-convert-api
+- https://blog.idrisolubisi.com/35-free-public-apis-to-improve-productivity
+- https://www.freecodecamp.org/news/public-apis-for-developers
 
 ### Philosophy
 

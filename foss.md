@@ -51,6 +51,7 @@
 
 ### Miscellaneous
 
+- https://www.freecodecamp.org/news/oss-security-best-practices
 - https://github.com/ankumar/Open-software-design
 - https://thoughtspile.github.io/2021/11/08/semver-challenges
 - [Software Licenses in Plain English](https://tldrlegal.com)

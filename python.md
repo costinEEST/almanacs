@@ -248,6 +248,7 @@
 - [Scrape Facebook public pages without an API key](https://github.com/kevinzg/facebook-scraper)
 - [Youtube Scrapper in Python using Bs4](https://github.com/mahmoudamr512/PythonYoutubeScrapper)
 - [Download all Snapmaps content from a specific location](https://github.com/king-millez/snapmap-archiver)
+- https://www.freecodecamp.org/news/automate-excel-tasks-with-python
 
 ### Static website
 

@@ -367,6 +367,7 @@
 - https://blog.johnnyreilly.com/2022/09/20/react-usesearchparamsstate
 - https://github.com/cpressey/Facts-about-State-Machines
 - [RTK listener instead of redux-saga](https://twitter.com/sebastienlorber/status/1620353385840119810)
+- https://tldraw.substack.com/p/introducing-signia
 
 ### Preact
 

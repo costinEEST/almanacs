@@ -81,6 +81,7 @@
 - http://karpathy.github.io/2014/08/03/quantifying-productivity + https://github.com/karpathy/ulogme
 - https://github.com/stars/vladiliescu/lists/charts
 - https://github.com/stars/vladiliescu/lists/dataviz
+- [A framework for computational node graphs](https://github.com/emilwidlund/nodl)
 
 ### Radio
 

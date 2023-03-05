@@ -52,6 +52,7 @@
 - [From NAND To Tetris](https://www.youtube.com/playlist?list=PLu6SHDdOToSdD4-c9nZX2Qu3ZXnNFocOH) + https://nandgame.com/about
 - [Basic Electronic Theory | Cyber City Circuits](https://www.youtube.com/playlist?list=PLD-QkTadkQVPEzlnE6uiG2iREgkCIB6oH)
 - https://youtu.be/myKs04lfuy8 + https://twitter.com/LennertWo/status/1558378348732026881 + https://twitter.com/dcuthbert/status/1575463455770943488 + https://api.starlink.com/public-files/StarlinkWelcomesSecurityResearchersBringOnTheBugs.pdf + https://threatpost.com/starlink-hack/180389/
+- [Video history of Japanese semiconductor industry](https://www.youtube.com/playlist?list=PLyynFETmdQDSSTrYW6YebinY0_g8PVWai)
 
 ### Cheat sheet
 

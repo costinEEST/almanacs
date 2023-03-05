@@ -387,6 +387,10 @@
 - [Tango Inside Out](https://us7.campaign-archive.com/home/?u=c390736e46a85da405f68dc8e&id=8dbe36e52f)
 - [Pablo Estigarribia](https://us10.campaign-archive.com/home/?u=15496b952c60b9016788adea6&id=874e3cbe49)
 
+### Python 
+
+- [Patrick Loeber](https://patrickloeber.substack.com/archive)
+
 ### Ruby
 
 - [Doctolib](https://us14.campaign-archive.com/home/?u=6f3cf1e1e4554097575191f5d&id=a22645bb6c)

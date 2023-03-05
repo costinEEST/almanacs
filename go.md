@@ -80,6 +80,7 @@
 - https://github.com/Alevsk/itc-coding-questions
 
 
+
 ### Development
 
 - https://jagascript.com/how-i-start-new-go-projects-in-10-seconds
@@ -105,6 +106,11 @@
 - https://github.com/subfuzion/cracking-the-coding-interview-in-go
 - https://mattbutterfield.com/blog/2021-05-02-adding-video-chat
 - [For book summaries](https://github.com/ejamesc/grepbook)
+
+
+### Distributed systems
+
+- https://newsletter.goodtechthings.com/p/calm-down-about-service-weaver
 
 ### Interpreter 
 

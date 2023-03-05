@@ -281,6 +281,7 @@
 - [web framework for Cloudflare Workers, Deno, Bun](https://github.com/honojs/hono)
 - https://github.com/danvk/aoc2022
 - https://bpbonline.com/products/modern-web-development-with-deno
+- https://deno.com/blog/you-dont-need-a-build-step
 
 ### Error
 
@@ -681,30 +682,23 @@
 
 ### Static site generator
 
-- https://tatianamac.com/tags/Eleventy
 - https://sgolem.com/building-an-easy-on-the-eyes-ikea-style-blog-in-no-time-for-free-again
 - [Dynamic from Static with Smart Deployment.](https://slides.com/mayashavin/deck-44de00/fullscreen#/) + https://twitter.com/cloudinary/status/1208172092312543232
 - [Markdown-based static site generator that works well with monorepos](https://twitter.com/captainsafia/status/1207459107004801024)
-- [Personal blog of Fotis Papadogeorgopoulos, built with Eleventy.](https://github.com/fpapado/fotis.xyz)
 - https://medium.com/@WebReflection/how-to-send-emails-from-static-websites-9a34ceb9416c
 - [Various ways to include comments on your static site.](https://darekkay.com/blog/static-site-comments)
 - A statically generated blog example using Next.js and Markdown: [repo](https://github.com/zeit/next.js/tree/canary/examples/blog-starter) + [tweet](https://twitter.com/timneutkens/status/1240277123451047936)
-- https://kezzbracey.com/posts/2020/01/19/eleventy-plus-vscode-plus-gitlab-plus-cloudways
 - https://github.com/accessible-app/accessible-app_com
 - https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app
 - [A Next.js site using new SSG support with a Notion backed blog](https://github.com/ijjk/notion-blog)
 - [A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark](https://github.com/nodejs/nodejs.dev)
 - [Building a Static Gatsby-based Website with TypeScript](https://jeffrafter.com/gatsby-with-typescript)
 - https://github.com/erikkroes/corona-roadmap
-- https://github.com/google/eleventy-high-performance-blog
-- [Source code for mxb.dev, built with Eleventy.](https://github.com/maxboeck/mxb)
 - https://jaywolfe.dev/blog/how-i-quickly-create-static-website-hosting-using-only-an-aws-s3-bucket
 - https://github.com/leandrotk/publisher + https://www.freecodecamp.org/news/automating-my-blog-posts-publishing-process-with-typescript
 - [Personal website running on Gatsby, React, and Node](https://github.com/taniarascia/taniarascia.com)
 - https://github.com/colinhemphill/nextjs-resume
-- https://www.hawksworx.com/blog/eleventail-a-helper-for-tailwindcss-and-eleventy
 - https://github.com/jakearchibald/jakearchibald.com + https://twitter.com/jaffathecake/status/1263371682313654273
-- https://dev.to/stowball/creating-a-production-ready-eleventy-project-with-webpack-babel-and-sass-35ep
 - [Tushar Sadhwani's blog built with Astro](https://github.com/tusharsadhwani/blog)
 - https://rodneylab.com/getting-started-astro
 - https://nemethgergely.com/blog/building-your-blog-from-scratch

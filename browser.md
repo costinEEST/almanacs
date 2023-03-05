@@ -19,10 +19,8 @@
 - https://stackoverflow.com/questions/16808486/explanation-of-window-performance-javascript
 - https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities
 - https://engineering.q42.nl/passwordless-authentication
-- [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
 - [Proposal for an API which would allow grabbing a screenshot.](https://github.com/eladalon1983/mediacapture-screenshot)
 - https://www.vector-logic.com/blog/posts/on-request-animation-frame-and-embedded-iframes
-- [Detecting pitch with the Web Audio API and autocorrelation](https://alexanderell.is/posts/tuner)
 - https://wolfgangrittner.dev/how-to-use-clipboard-api-in-firefox
 - https://github.com/azu/url-cheatsheet
 
@@ -90,6 +88,7 @@ javascript: (() =>
 - [A simple method to invoke a function after the browser has rendered & painted a frame](https://github.com/andrewiggins/afterframe)
 - https://www.macarthur.me/posts/options-for-removing-event-listeners
 - https://www.macarthur.me/posts/when-dom-updates-appear-to-be-asynchronous
+- [random overflowing element](https://carbon.now.sh/nZLVj2OK0WPlLILIXn4E)
 
 ### new IntersectionObserver()
 
@@ -494,6 +493,13 @@ javascript: (() =>
 ### Server-sent events (SSE)
 
 - https://www.youtube.com/playlist?list=PLw5h0DiJ-9PAQ1pKeDanXUjGbjPAluT7S
+
+### Web Audio API
+
+- https://github.com/idevelop/google-cloud-speech-webaudio
+- [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
+- [Detecting pitch with the Web Audio API and autocorrelation](https://alexanderell.is/posts/tuner)
+
 
 ### Web Real-Time Communication (WebRTC)
 
