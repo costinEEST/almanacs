@@ -1,4 +1,4 @@
-### Book 
+### Book
 
 - https://www.amazon.com/Star-Wars-Rings-Hidden-Structure-ebook/dp/B074NZCFWT
 - https://www.goodreads.com/book/show/8065938-101-things-i-learned-in-film-school
@@ -7,6 +7,7 @@
 ### Community
 
 - [I want to watch some excellent explainer videos](https://twitter.com/davidmcraney/status/1452993213850136585)
+- https://www.youtube.com/playlist?list=PLibX1c_-9kBYLT8ggLYMInj-S0jLx5kVH
 - https://modern.technology
 - https://github.com/k4m4/movies-for-hackers
 - https://informationisbeautiful.net/visualizations/what-is-the-most-successful-hollywood-movie-of-all-time

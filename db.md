@@ -252,6 +252,7 @@
 
 - [The Complete Guide to InfluxDB 2 | Rawkode Academy](https://www.youtube.com/playlist?list=PLz0t90fOInA5esYz9ytWzX89HT5NvLkxc)
 
-### Opinion 
+### Opinion
 
 - https://tomcritchlow.com/2023/01/27/small-databases
+- https://gimenete.net/articles/choosing-serverless-database-for-serverless-app

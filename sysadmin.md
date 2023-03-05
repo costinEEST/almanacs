@@ -25,6 +25,7 @@
 
 - https://github.com/Tikam02/DevOps-Guide
 - [Marius Voila](https://www.mariusv.com/sys-magic.html)
+- https://github.com/AcalephStorage/awesome-devops
 
 ### Docker
 
@@ -53,7 +54,6 @@
 - https://www.smarthomebeginner.com/run-pihole-in-docker-on-ubuntu-with-reverse-proxy
 - https://knowledgebase.veeral-patel.com/docker%20+%20kubernetes/docker-security
 - https://geshan.com.np/blog/2020/10/docker-build-example-faster-docker-build
-- https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman
 - https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code
 - http://blog.boreas.ro/2018/09/data-science-environment-with-docker.html
 - https://github.com/BretFisher/node-docker-good-defaults
@@ -83,7 +83,6 @@
 - https://github.com/hwdsl2/docker-ipsec-vpn-server
 - https://matt-rickard.com/docker-desktop-alternatives
 - [T-Pot - The All In One Honeypot Platform](https://github.com/telekom-security/tpotce)
-- https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool
 - https://www.vector-logic.com/blog/posts/mysql-localhost
 - https://github.com/wsargent/docker-cheat-sheet
 - [Dockerfile best-practices for writing production-worthy Docker images](https://github.com/hexops/dockerfile)
@@ -157,6 +156,13 @@
 - https://github.com/krzko/awesome-cka
 - https://github.com/techiescamp/kubernetes-learning-path
 
+### Podman
+
+- https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool
+- https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman
+- https://developers.redhat.com/articles/2023/03/01/podman-desktop-introduction
+- https://developers.redhat.com/e-books/podman-action
+
 ### Server
 
 - https://github.com/Engagespot/heroku-free-alternatives
@@ -177,7 +183,6 @@
 - https://blog.yossarian.net/2018/03/15/blog.yossarian.net-is-now-self-hosted
 - https://specbranch.com/posts/one-big-server
 - https://github.com/mikeroyal/Self-Hosting-Guide
-
 
 ### References
 
@@ -264,3 +269,4 @@
 - [A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice SRE](https://github.com/upgundecha/howtheysre)
 - https://github.com/linkedin/school-of-sre
 - https://github.com/khuedoan/homelab
+- https://github.com/dastergon/awesome-sre

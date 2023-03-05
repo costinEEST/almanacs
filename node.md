@@ -280,6 +280,7 @@
 
 - [web framework for Cloudflare Workers, Deno, Bun](https://github.com/honojs/hono)
 - https://github.com/danvk/aoc2022
+- https://bpbonline.com/products/modern-web-development-with-deno
 
 ### Error
 
@@ -382,7 +383,6 @@
 - https://github.com/lukeed/resolve.exports
 - [Create graphs from your CommonJS, AMD or ES6 module dependencies](https://github.com/pahen/madge)
 
-
 ### Event loop
 
 - https://davidhettler.net/blog/event-loop-lag
@@ -405,7 +405,6 @@
 - [Learning fast elliptic-curve cryptography](https://paulmillr.com/posts/noble-secp256k1-fast-ecc)
 - [implementation of elliptic curve cryptography](https://github.com/paulmillr/noble-curves)
 - https://github.com/sigalor/whatsapp-web-reveng
-
 
 ### `node:dns`
 

@@ -307,6 +307,7 @@
 
 - https://huggingface.co/course + https://youtu.be/sUt-YV5bPXA
 - https://www.manning.com/liveprojectseries/math-for-machine-learning-ser
+- https://github.com/booknlp/booknlp
 
 ### Paper
 
@@ -321,7 +322,6 @@
 - [On Hiding Neural Networks Inside Neural Networks | Chuan Guo, Ruihan Wu, Kilian Q. Weinberger](https://arxiv.org/abs/2002.10078)
 - [Open source science model trained on 48M scihub papers](https://galactica.org)
 - [Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
-
 
 ### Demo
 

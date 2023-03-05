@@ -19,6 +19,7 @@
 - https://alexwlchan.net/2019/04/reversing-a-tco-url-to-the-original-tweet
 - [Instagram Private API](https://github.com/adw0rd/instagrapi)
 - [Abusing Reddit API to host the C2 traffic](https://github.com/kleiton0x00/RedditC2)
+- [Build Django 4 Web APIs with React](https://leanpub.com/djangoapi) + https://app.gumroad.com/d/1accf9ee5b5ffe1fe534b54ff57b8c65
 
 ### Book
 
@@ -246,6 +247,7 @@
 - [script that aggregates recent popular posts from your Mastodon timeline](https://github.com/hodgesmr/mastodon_digest)
 - [Scrape Facebook public pages without an API key](https://github.com/kevinzg/facebook-scraper)
 - [Youtube Scrapper in Python using Bs4](https://github.com/mahmoudamr512/PythonYoutubeScrapper)
+- [Download all Snapmaps content from a specific location](https://github.com/king-millez/snapmap-archiver)
 
 ### Static website
 
