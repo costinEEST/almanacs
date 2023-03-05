@@ -165,6 +165,7 @@
 
 ### Server
 
+- https://github.com/255kb/stack-on-a-budget
 - https://github.com/Engagespot/heroku-free-alternatives
 - [Building a Production Mail Server in 2018](https://matt.sh/email2018)
 - [Setting Web Server Options for 2018](https://matt.sh/web2018)
@@ -237,6 +238,10 @@
 
 - https://github.com/CsEnox/Art-of-Creating-Machines
 - [Visual Studio Code and Vagrant](https://twitter.com/iximiuz/status/1441090080760762374) + https://iximiuz.com/en/posts/how-to-setup-development-environment/#vscode-remote-vagrant
+
+### VPS 
+
+- https://www.paperspace.com, https://contabo.com + https://twitter.com/CristiVlad25/status/1629798293004853251
 
 ### CI/CD
 

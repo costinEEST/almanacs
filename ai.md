@@ -265,6 +265,7 @@
 - [Train a computer to recognize your own images, sounds, & poses](https://teachablemachine.withgoogle.com)
 - [Audio transcription models](https://twitter.com/snpranav/status/1606322152793219074)
 - https://github.com/bharathgs/Awesome-pytorch-list
+- [If ChatGPT and Google Scholar got married, their child would be Consensus — an AI-powered search engine](https://twitter.com/MushtaqBilalPhD/status/1631262373393707014)
 
 ### Neural network
 
