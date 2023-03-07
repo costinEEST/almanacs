@@ -47,7 +47,7 @@
 - https://www.udemy.com/course/startup-fundraising-master-course
 - https://www.victorcho.com/course-index + https://twitter.com/VictorCho/status/1521945947797815297
 
-### Community 
+### Community
 
 - [The modern security stack](https://twitter.com/jack_naglieri/status/1507405816701198337)
 - https://www.fastcompany.com/most-creative-people/list
@@ -251,7 +251,7 @@
 - https://www.bloomberg.com/news/audio/2021-01-17/why-the-cost-of-shipping-goods-from-china-is-soaring-podcast
 - https://www.udemy.com/course/economics-basics-to-advanced-level
 - https://markmcgranaghan.com/interests
-- [A list of microgrant programs for your good ideas](https://github.com/nayafia/microgrants)
+- [A list of micro grant programs for your good ideas](https://github.com/nayafia/microgrants)
 - [CS 007: Personal Finance for Engineers](https://news.ycombinator.com/item?id=33890925)
 
 ### Geopolitics
@@ -294,7 +294,6 @@
 - [The 50 Worst Inventions](http://content.time.com/time/specials/packages/completelist/0,29569,1991915,00.html)
 - https://www.forbes.com/sites/jeremybogaisky/2022/06/03/palmer-luckey-anduril
 
-
 ### Essays
 
 - http://paulgraham.com/lesson.html + https://listle.io/embed/3996601668
@@ -304,7 +303,7 @@
 - https://www.geekwire.com/2020/amazon-jumps-virtual-tourism-offering-live-one-one-experiences-around-world
 - http://www.uky.edu/~eushe2/Pajares/OnFailingG.html
 - https://www.researchgate.net/publication/265637998_How_Nokia_Failed_to_Nail_the_Smartphone_Market
-- 
+-
 
 ### Miscellaneous
 
@@ -329,7 +328,6 @@
 - [Apple, Its Control Over the iPhone, and The Internet](https://www.matthewball.vc/all/applemetaverse)
 - [Amir Yaron, the Governor of the Bank of Israel](https://twitter.com/ittaia/status/1544730206342189056)
 - https://danielmiessler.com/blog/why-apple-keeps-winning
-
 
 ### Radio
 

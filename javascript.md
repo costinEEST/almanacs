@@ -289,6 +289,7 @@
 - [State of esm-cdn's and development workflows](https://jkrishna.dev/post/dependencies)
 - [Re-exports are bad for loading and runtime performance.](https://twitter.com/iamakulov/status/1331551351214645251)
 - [ESM-CJS interop test](https://github.com/sokra/interop-test) + https://sokra.github.io/interop-test
+- https://spidermonkey.dev/blog/2023/03/02/javascript-import-maps-part-2-in-depth-exploration.html
 
 ### lexical scoping
 

@@ -31,6 +31,7 @@
 - https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance
 - https://www.otsukare.info/2022/10/25/css-values-definitions
 - https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning
+- https://benmyers.dev/blog/native-visually-hidden
 
 ### Book
 
@@ -117,7 +118,7 @@
 - https://github.com/hendurhance/ui-ux
 - https://bootcamp.uxdesign.cc/ui-ux-visual-designers-behind-great-games-1bd1b2724001
 - https://github.com/nucliweb/People-You-Should-Follow-on-CodePen
-https://github.com/AllThingsSmitty/css-protips
+  https://github.com/AllThingsSmitty/css-protips
 
 ### Design system
 
@@ -199,9 +200,8 @@ https://github.com/AllThingsSmitty/css-protips
 - https://jaketracey.com/styling-accessible-html-file-inputs
 - [Giving users and developers more control over focus](https://blog.chromium.org/2020/09/giving-users-and-developers-more.html)
 - https://matthiasott.com/notes/focus-visible-is-here + https://twitter.com/m_ott/status/1314917091523342338
-- https://www.bram.us/2021/04/15/identify-and-extract-pseudo-element-selectors-from-built-in-html-elements-using-devtools 
+- https://www.bram.us/2021/04/15/identify-and-extract-pseudo-element-selectors-from-built-in-html-elements-using-devtools
 - https://www.azabani.com/2022/09/01/meet-the-css-highlight-pseudos.html + https://www.azabani.com/talks
-
 
 ### CSS variables
 
@@ -220,7 +220,6 @@ https://github.com/AllThingsSmitty/css-protips
 - https://mxb.dev/blog/media-queries-in-times-of-container-queries
 - https://github.com/sturobson/Awesome-Container-Queries
 - [Improving CSS Architecture with Cascade Layers, Container Queries, Scope](https://www.w3.org/2021/10/TPAC/demos/css-architecture.html)
-
 
 ### CSS grid
 
@@ -252,7 +251,6 @@ https://github.com/AllThingsSmitty/css-protips
 - https://tiffanybbrown.com/2022/01/how-does-flexbox-work/index.html
 - https://www.joshwcomeau.com/css/interactive-guide-to-flexbox
 
-
 ### Media query
 
 - https://ethanmarcotte.com/wrote/points-break
@@ -278,7 +276,6 @@ https://github.com/AllThingsSmitty/css-protips
 - [A collection of CSS snippets to help you do progressive enhancement in eBooks](https://github.com/FriendsOfEpub/eBookTricks)
 - https://foobartel.com/notes/css-contextual-spacing
 
-
 ### Tool
 
 - [Creating tiny zines using HTML/CSS layout.](https://github.com/trueskawka/css-zines)
@@ -302,7 +299,7 @@ https://github.com/AllThingsSmitty/css-protips
 - [Alfred 4 Workflow to find the perfect color in the Tailwind Color Palette](https://github.com/MatthysDev/alfred-tailwind-colors)
 - https://github.com/scastiel/3d-book-image-css-generator
 - [Generate clothoid rounded corners by CSS clip-path](https://onotakehiko.dev/clothoid)
-- 
+-
 
 ### Security
 
@@ -322,5 +319,3 @@ https://github.com/AllThingsSmitty/css-protips
 
 - https://modernweb.podbean.com/e/s08e012-modern-web-podcast-modern-css-accessibility-with-stephanie-eckles
 - https://scrimba.com/podcast/how-not-to-struggle-with-css-with-kevin-powell
-
-

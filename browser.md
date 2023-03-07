@@ -122,7 +122,7 @@ javascript: (() =>
 - [Stuff I wish I'd known sooner about service workers](https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9)
 - https://philipwalton.com/articles/smaller-html-payloads-with-service-workers
 - https://blog.persistent.info/2021/08/worker-loop.html
-
+- [load modules into web workers, access them asynchronously](https://github.com/bitair-org/concurrent.js)
 
 ### Engine
 
@@ -499,7 +499,6 @@ javascript: (() =>
 - https://github.com/idevelop/google-cloud-speech-webaudio
 - [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
 - [Detecting pitch with the Web Audio API and autocorrelation](https://alexanderell.is/posts/tuner)
-
 
 ### Web Real-Time Communication (WebRTC)
 

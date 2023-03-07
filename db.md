@@ -80,6 +80,7 @@
 - https://github.com/cldrn/InsecureProgrammingDB
 - https://saligrama.io/blog/post/firebase-insecure-by-default
 - https://github.com/securebinary/firebaseExploiter
+- https://sqlfordevs.com/uuid-prevent-enumeration-attack
 
 ### Cinema
 
