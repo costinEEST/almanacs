@@ -234,6 +234,7 @@
 - [Understanding the Network Interface (NI) Card](https://loomcom.com/blog/0118_understanding_the_ni_card.html)
 - https://hackaday.com/2022/12/20/all-about-usb-c-connector-mechanics
 - https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole
+- https://hackaday.com/2023/03/09/measuring-a-millisecond-mechanically
 
 ### News
 

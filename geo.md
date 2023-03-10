@@ -48,3 +48,7 @@
 - https://towardsdatascience.com/ive-built-a-public-world-atlas-with-2-500-datasets-to-explore-8b9ae799e345
 - [NWACC Geology Lectures](https://www.youtube.com/playlist?list=PLmRQwysTuced_dqkjnSM4Z_9OWiK8Ebvc)
 - https://www.nationalgeographic.com/travel/article/star-wars-film-movie-locations
+
+### Listen 
+
+- [Where does the sand in a desert come from?](https://www.bbc.co.uk/sounds/play/w3ct3j84) + https://mailchi.mp/dc74bb1179c1/prof-michael-caplanelegance-in-physiologycafe-114-a-hybrid-event-6228237?e=12229ba061

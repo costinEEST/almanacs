@@ -22,6 +22,7 @@
 - https://knowablemagazine.org/article/food-environment/2022/city-birds-are-changing-their-tune
 - https://stiinta-pentru-toti.blogspot.com/2022/12/aparitie-editoriala-atlasul-speciilor.html
 - https://www.audubon.org/news/the-2022-audubon-photography-awards-top-12-videos
+- https://www.tildecafe.org/2017/01/30/68-physics-bird-nests
 
 ### Crawler
 

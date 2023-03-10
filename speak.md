@@ -420,6 +420,7 @@
 - https://eli.thegreenplace.net/tag/spanish
 - https://github.com/marcboquet/spanish-names
 - [La Historia Del Español En Diez Minutos](https://www.youtube.com/playlist?list=PLhQpDGfX5e7AlhSrnLWvaanGfn72BnFN1), https://www.open.edu/openlearn/languages/spanish/the-history-spanish-about-six-minutes
+- [Spanish Language and Travel by Lonely Planet and Utalk](https://www.humblebundle.com/downloads?key=k3Xtnwv3EzmdhsCm)
 
 ### Swedish
 
