@@ -26,3 +26,7 @@
 ### Testing 
 - [Testing Next.js Apps with Jest, Testing Library and Cypress](https://www.udemy.com/course/nextjs-testing)
 - https://massimilianomirra.com/notes/test-driven-development-of-nextjs-api-routes
+
+### Watch
+
+- https://www.youtube.com/playlist?list=PLWIcRrPLCdUe0b-FOvDYr0vKJHYLX3SP1

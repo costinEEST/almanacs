@@ -161,6 +161,7 @@
 - https://github.com/ljlm0402/typescript-express-starter
 - https://github.com/timofeysie/nextjs-markdown-blog
 - https://github.com/ryansonshine/typescript-npm-package-template
+- [How you build full-stack, typed, NPM packages, the right way](https://github.com/VulcanJS/npm-the-right-way)
 - [a project to create your own personal podcast feed](https://github.com/inian/personal-casts)
 - https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction
 - [Simple HTTP Rest example using express](https://github.com/nodeshift-starters/nodejs-rest-http)

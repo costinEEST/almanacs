@@ -37,6 +37,10 @@
 
 - [Caleb Porzio](https://twitter.com/calebporzio/status/1620066458687651842)
 
+### Inspire 
+
+- https://github.com/aaronpk/oauth.net
+
 ### Patterns
 
 - https://github.com/kamranahmedse/design-patterns-for-humans

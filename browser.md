@@ -123,6 +123,7 @@ javascript: (() =>
 - https://philipwalton.com/articles/smaller-html-payloads-with-service-workers
 - https://blog.persistent.info/2021/08/worker-loop.html
 - [load modules into web workers, access them asynchronously](https://github.com/bitair-org/concurrent.js)
+- [monitoring tool to implement client-side caching](https://github.com/oslabs-beta/tulo-js)
 
 ### Engine
 

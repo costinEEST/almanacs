@@ -16,7 +16,7 @@
 - [Quickly create and configure a new library or Node.js project](https://github.com/bitjson/typescript-starter)
 - [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 
-### Cinema
+### Watch
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
 - [Ethan Arrowood](https://github.com/Ethan-Arrowood/talks)
