@@ -34,6 +34,7 @@
 - https://nolanlawson.com/2023/01/09/retiring-pinafore
 - https://github.com/acekyd/made-in-nigeria
 - https://github.com/collections/made-in-brazil
+- https://github.com/chernivtsijs/made-in-ukraine
 - https://github.com/Kristories/awesome-guidelines
 - https://www.mux.com/blog/the-building-blocks-of-great-docs
 - https://github.com/brycejohnston/awesome-agriculture
