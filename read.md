@@ -11,6 +11,7 @@
 
 - https://academyofideas.com/books/#propaganda-and-brainwashing
 - https://mostrecommendedbooks.com/experts
+- https://bibliotecaexploratorilor.substack.com/p/stiinta-este-pentru-toata-lumea
 
 ### Course 
 
