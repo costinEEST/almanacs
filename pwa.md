@@ -25,6 +25,8 @@
 ### Cinema
 
 - https://www.youtube.com/c/PWABuilder/videos
+- https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY
+
 
 ### Development
 

@@ -178,6 +178,7 @@ javascript: (() =>
 - [Chrome Extension for one click downloading all resources files and keeping folder structures](https://github.com/up209d/ResourcesSaverExt)
 - [A Chrome extension that adds a 3d photo effect to instagram pages](https://github.com/cyrildiagne/instagram-3d-photo)
 - [Firefox addon for passively detecting GPS Exif information in JPEGs](https://addons.mozilla.org/en-US/firefox/addon/gpsdetect)
+- [adds back "View Image" button to Google Image Search results](https://github.com/Procyon-b/make-gis-great-again)
 - [JShelter controls the APIs provided by the browser, restricting the data that they gather and send out to websites](https://pagure.io/JShelter/webextension/tree/main)
 - [Identify technology on websites.](https://github.com/AliasIO/wappalyzer)
 - https://github.com/aeksco/react-typescript-chrome-extension-starter

@@ -46,6 +46,7 @@
 
 ### Cinema
 
+- https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l
 - https://scriptingosx.com/bash
 - https://scriptingosx.com/practical
 - https://scriptingosx.com/zsh

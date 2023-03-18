@@ -242,6 +242,11 @@
 - https://github.com/ai-forever/ru-gpts
 - [Telegram bot integrated with ruGPT3](https://github.com/AsakoKabe/pseudo-kant)
 - https://ijaycent.hashnode.dev/al-assistants-that-help-your-productivity-besides-chatgpt
+- [proxy API that allows you to access OpenAI's ChatGPT API for free](https://github.com/ayaka14732/ChatGPTAPIFree)
+- [Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://github.com/microsoft/visual-chatgpt)
+- [Port of Facebook's LLaMA model in C/C++](https://github.com/ggerganov/llama.cpp)
+- [use OpenAI chat capabilities in your terminal](https://github.com/Ccastillo06/askgpt)
+- [The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)
 
 ### Tool
 
