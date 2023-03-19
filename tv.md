@@ -67,6 +67,7 @@
 - https://en.wikipedia.org/wiki/Captain_Phillips_%28film%29
 - [R.M.N](https://www.libertatea.ro/entertainment/intalnire-multietnica-intensa-la-proiectia-filmului-lui-mungiu-in-harghita-4158454)
 - https://faroutmagazine.co.uk/10-most-disappointing-movies-all-time
+- [7 filme făcute în sate românești](https://mailchi.mp/delasat/filme-de-la-sat?e=75bebe984a)
 
 ### Tools
 

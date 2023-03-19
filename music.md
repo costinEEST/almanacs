@@ -27,6 +27,7 @@
 - https://www.edmprod.com/music-theory
 - https://www.observatorcultural.ro/articol/carturesti-va-recomanda-7
 - https://www.goodreads.com/book/show/6035144-basic-music-theory
+- [Karaoke Culture | Dubravka Ugrešić](http://www.maxima-library.org/mob/b/359044?format=read)
 
 ### Cheat sheet
 

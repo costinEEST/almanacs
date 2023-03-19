@@ -6,6 +6,7 @@
 ### Bookstore
 
 - [Nemira Publishing House](https://us16.campaign-archive.com/home/?u=90fc2082261012b48d34d8ff6&id=851b969363)
+- [Fundatia Culturala Memoria](https://us7.campaign-archive.com/home/?u=21562341fc294594ee2ed413f&id=93bd3e91ec)
 
 ### C++
 
@@ -215,6 +216,10 @@
 - [Marius Constantinescu](https://github.com/iOS-Goodies/iOS-Goodies)
 - [Vivian Qu](https://tinyletter.com/vivqu/archive)
 
+### Locksmithing
+
+- [Original Lishi Tools by inventor Mr. Li](https://us14.campaign-archive.com/home/?u=f4f3f6dbbb403473532ca95f9&id=b35cc1084c)
+
 ### Design
 
 - [Jake Knapp](https://www.getrevue.co/profile/designsprint)
@@ -357,6 +362,10 @@
 - [Simo Ahava](https://www.teamsimmer.com/newsletter)
 - [Lukasz Olejnik](https://techletters.substack.com/archive)
 - [Sumana Harihareswara](https://buttondown.email/Changeset/archive)
+
+### Psychology
+
+- [Radu Umbreș](https://iscoada.substack.com/archive)
 
 ### Security
 

@@ -19,6 +19,7 @@
 - https://www.goodreads.com/book/show/5867865-ecological-intelligence
 - https://synergeticpress.com/catalog/agroecology-and-regenerative-agriculture-sustainable-solutions-for-hunger-poverty-and-climate-change
 - https://inquisitivebiologist.com/2022/12/31/book-review-volt-rush-the-winners-and-losers-in-the-race-to-go-green
+- https://inquisitivebiologist.com/2023/03/06/book-review-the-invention-of-green-colonialism
 
 ### Course
 
