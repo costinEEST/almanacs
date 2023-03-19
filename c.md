@@ -123,9 +123,10 @@
 - [LLVM Tutorial Walkthrough | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg)
 - https://github.com/ahr9n/awesome-reading/tree/main/dragon-book
 
-### Internals 
+### Internals
 
 - https://hackaday.com/2023/02/10/modernizing-c-arrays-for-greater-memory-safety
+- https://blog.joren.ga/less-known-c
 
 ### Virtual machines
 
@@ -147,6 +148,7 @@
 - [It's not OK to ship software in memory-unsafe languages.](https://twitter.com/tqbf/status/1354170650806657024)
 - https://gankra.github.io/blah/c-isnt-a-language
 - [Teaching C](https://blog.regehr.org/archives/1393)
+- https://blog.joren.ga/best-of-c
 
 ### Practice
 

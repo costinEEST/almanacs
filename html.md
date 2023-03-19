@@ -95,7 +95,6 @@
 
 - https://dev.to/builderio/optimal-images-in-html-5bg9
 
-
 ### Cheat sheet
 
 - https://meiert.com/en/indices/html-elements
@@ -282,6 +281,7 @@
 - https://blog.bhanuteja.dev/noopener-noreferrer-and-nofollow-when-to-use-them-how-can-these-prevent-phishing-attacks-ckdzyjvqa0057des1hyyo3sfy
 - [mailto:?attach](https://mobile.twitter.com/jensvoid/status/1295357952480751616)
 - https://labs.bishopfox.com/tech-blog/lexss-bypassing-lexical-parsing-security-controls
+- https://blog.xss.am/2021/02/intigriti-february-xss-challenge
 
 ### Unicode
 

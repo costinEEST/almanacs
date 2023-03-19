@@ -667,6 +667,8 @@
 - https://github.com/aadityapurani/NodeJS-Red-Team-Cheat-Sheet
 - [LavaMoat is a set of tools for securing JavaScript projects against a category of attacks called software supply chain attacks](https://github.com/LavaMoat/LavaMoat)
 - https://github.com/nearform/owasp-top-ten-workshop
+- https://blog.xss.am/2022/08/offzone-express-notes
+- https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce
 
 ### CMS
 

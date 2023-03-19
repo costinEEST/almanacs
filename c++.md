@@ -87,6 +87,7 @@
 - https://github.com/ssloy/tinyrenderer/wiki
 - https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html
 - [Handwriting notetaking software with PDF annotation support](https://github.com/xournalpp/xournalpp)
+- https://www.researchgate.net/publication/352373714_A_brief_overview_of_pseudo-random_number_generators_and_testing_of_our_own_simple_generator
 
 ### Interpreter
 
