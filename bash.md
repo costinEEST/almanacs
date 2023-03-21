@@ -16,6 +16,7 @@
 
 ### Cheat sheet 
 
+- https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html
 - https://github.com/k4m4/terminals-are-sexy
 - https://github.com/dylanaraps/pure-bash-bible
 - https://github.com/dylanaraps/pure-sh-bible

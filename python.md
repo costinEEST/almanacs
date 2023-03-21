@@ -127,6 +127,7 @@
 - https://github.com/adrianmoisey/learn-python
 - https://github.com/stars/x-N0/lists/python-generic
 - [Lambert Meertens](https://twitter.com/gvanrossum/status/1596268474518876160)
+- https://learnbyexample.github.io/py_resources
 
 ### Data structures
 

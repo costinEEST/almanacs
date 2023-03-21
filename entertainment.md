@@ -165,6 +165,8 @@
 - https://www.udemy.com/course/fostering-creativity-in-children
 - https://www.goodreads.com/book/show/49848056-home-learning-year-by-year-revised-and-updated
 - [John Taylor Gatto On The Elite Schools | Jan van der Reis](https://www.youtube.com/playlist?list=PLJniMxowDM-5d6qBPO3Hl5hQJOs6BBKtG)
+- https://github.com/HollyAdele/awesome-programming-for-kids
+- https://github.com/jackdoe/programming-for-kids
 
 ### Mindfulness
 

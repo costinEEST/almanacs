@@ -17,6 +17,7 @@
 - https://github.com/manwar/design-patterns
 - https://www.bugcrowd.com/blog/how-to-regex-a-practical-guide-to-regular-expressions-regex-for-hackers
 - [How Regexes Work](https://perl.plover.com/Regex/article.html)
+- https://learnbyexample.github.io/curated_resources/perl.html
 
 ### Tool
 
