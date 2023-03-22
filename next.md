@@ -14,6 +14,10 @@
 
 - [An open-source link shortener with built-in analytics + free custom domains](https://github.com/steven-tey/dub)
 
+### Deploy 
+
+- [Next.js SPA example with dynamic client-only routing and static hosting](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
+
 ### Package 
 
 - https://github.com/garmeeh/next-seo

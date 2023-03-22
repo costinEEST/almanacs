@@ -360,7 +360,7 @@
 - https://daveceddia.com/freebies/guide-to-react-state-management.pdf
 - https://changelog.com/posts/when-and-when-not-to-reach-for-redux
 - https://blog.logrocket.com/refactoring-redux-app-to-use-recoil + https://github.com/ohansemmanuel/benutzer/tree/recoil-multiple-user + https://github.com/ohansemmanuel/benutzer/tree/redux-multi-users
-- [7Guis in React](https://github.com/andrewgreenh/7guis)
+- [7Guis in React](https://github.com/andrewgreenh/7guis) + https://github.com/eugenkiss/7guis
 - https://www.youtube.com/playlist?list=PLNqp92_EXZBIqX8DWmwmJmxeHiq-Ut4W1
 - https://tkdodo.eu/blog/offline-react-query
 - https://www.zhenghao.io/posts/react-rerender
@@ -500,6 +500,7 @@
 ### Tool
 
 - https://github.com/yyx990803/vite-vs-next-turbo-hmr
+- [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter)
 - https://blog.arkency.com/how-i-migrated-a-rails-app-from-webpack-to-esbuild-and-got-smaller-and-faster-js-builds
 - https://survivejs.com/webpack
 - [tsc --watch nodemon dist/src/index.js](https://twitter.com/benawad/status/1211700652549779456)

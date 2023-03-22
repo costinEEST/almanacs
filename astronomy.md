@@ -207,3 +207,7 @@
 
 - https://planetariubm.ro/ghid-practic-de-orientare-pe-bolta-cereasca
 - https://www.thegreatcourses.com/courses/the-search-for-exoplanets-what-astronomers-know + https://eli.thegreenplace.net/2022/summary-of-reading-july-september-2022
+
+### Venus 
+
+- https://curatorial.ro/natura/vulcanii-de-pe-venus-sunt-activi
