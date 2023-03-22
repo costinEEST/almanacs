@@ -141,6 +141,7 @@
 ### Hook
 
 - https://twitter.com/tylermcginnis/status/1169667360795459584
+- https://reacttraining.com/blog/hooks-you-probably-dont-need
 - https://github.com/rehooks/awesome-react-hooks
 - https://github.com/donavon/hook-flow
 - https://thoughtspile.github.io/2021/10/18/non-react-state
@@ -525,7 +526,6 @@
 - [Unpack the source code of React](https://spaceraccoon.github.io/webpack-exploder)
 - [Migrating your T3 App into a Turborepo](https://www.jumr.dev/blog/t3-turbo)
 
-
-### Opinion 
+### Opinion
 
 - https://www.zachleat.com/web/react-criticism
