@@ -132,6 +132,7 @@
 - [RSS reader client like LDR for Inoreader](https://github.com/azu/irodr)
 - https://github.com/remotion-dev/github-unwrapped-2022
 - https://evilmartians.com/chronicles/how-to-build-a-better-react-map-with-pigeon-maps-and-mapbox
+- https://blog.danoph.com/create-an-image-tagger-app-with-reactjs-and-ai-in-just-a-few-simple-steps
 
 ### Radio
 
@@ -304,6 +305,7 @@
 - [iPod Classic that connects to Apple Music and Spotify. Built with React & Styled Components](https://github.com/tvillarete/ipod-classic-js)
 - [Beautifully designed components built with Radix UI and Tailwind](https://github.com/shadcn/ui)
 - https://github.com/shuding/react-wrap-balancer
+- https://www.smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react
 
 ### Server side rendering
 
@@ -369,6 +371,7 @@
 - https://github.com/cpressey/Facts-about-State-Machines
 - [RTK listener instead of redux-saga](https://twitter.com/sebastienlorber/status/1620353385840119810)
 - https://tldraw.substack.com/p/introducing-signia
+- [Demystifying the internal of jotai](https://twitter.com/dai_shi/status/1484835169475653634)
 
 ### Preact
 
@@ -501,6 +504,7 @@
 ### Tool
 
 - https://github.com/yyx990803/vite-vs-next-turbo-hmr
+- https://luketheweb.dev/blog/what-is-vite-and-why-should-you-use-it-instead-of-create-react-app
 - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter)
 - https://blog.arkency.com/how-i-migrated-a-rails-app-from-webpack-to-esbuild-and-got-smaller-and-faster-js-builds
 - https://survivejs.com/webpack
@@ -529,3 +533,5 @@
 ### Opinion
 
 - https://www.zachleat.com/web/react-criticism
+- https://github.com/gactjs/research/tree/main/react-instance-identity-model
+- https://electricui.com/blog/wishlist-for-a-react-compiler

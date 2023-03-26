@@ -1,9 +1,8 @@
-
 ### Book
 
 - [Hands-On JavaScript High Performance: Build faster web apps using Node.js, Svelte.js, and WebAssembly](https://www.goodreads.com/book/show/52994359-hands-on-javascript-high-performance)
 
-### Boilerplate 
+### Boilerplate
 
 - [An opinionated blog starter for SvelteKit + Tailwind + Netlify](https://github.com/sw-yx/swyxkit)
 - https://github.com/josh-collinsworth/sveltekit-blog-starter
@@ -34,11 +33,9 @@
 - https://github.com/geoffrich/svelte-stories
 - https://github.com/simeydotme/pokemon-cards-css + https://deck-24abcd.netlify.app + https://twitter.com/simeydotme/status/1549811970207285248
 
-
 ### Portfolio
 
 - https://github.com/doppelganger9/blog
-
 
 ### Miscellaneous
 
@@ -54,11 +51,12 @@
 - https://www.ryanprior.com/posts/svelte-is-unappealing
 - https://www.swyx.io/svelte-sites-react-apps
 - https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript
+- https://github.com/gactjs/research/tree/main/svelte-instance-identity-model
 
 ### Radio
 
 - https://syntax.fm/show/390/from-react-to-sveltekit
 
-### Security 
+### Security
 
 - https://edoverflow.com/2023/sveltekit-security-headers

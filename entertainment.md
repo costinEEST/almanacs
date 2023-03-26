@@ -167,6 +167,8 @@
 - [John Taylor Gatto On The Elite Schools | Jan van der Reis](https://www.youtube.com/playlist?list=PLJniMxowDM-5d6qBPO3Hl5hQJOs6BBKtG)
 - https://github.com/HollyAdele/awesome-programming-for-kids
 - https://github.com/jackdoe/programming-for-kids
+- [Emile, or On Education | Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Emile,_or_On_Education)
+- https://www.bl.uk/collection-items/some-thoughts-concerning-education-by-john-locke
 
 ### Mindfulness
 

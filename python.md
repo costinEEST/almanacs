@@ -120,6 +120,7 @@
 - [How GUI works | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3AzOn-r857u2JSfPVHOd8xH)
 - [Python for Java Developers](https://www.youtube.com/channel/UCD6woIYRXP_kX5IaLb-6tqw/playlists)
 - [Python For People | Black Hills Information Security](https://www.youtube.com/playlist?list=PLqz80p7f6dFvibZxA7LZa1T3e478Ljgui)
+- https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql
 
 ### Community
 
@@ -203,6 +204,7 @@
 - [Simple speed tests for Python 3.11](https://github.com/dennisbakhuis/python3.11_speedtest)
 - https://github.com/kirang89/pycrumbs
 - https://yurichev.org/py_continue
+- https://www.freecodecamp.org/news/data-analytics-roadmap
 
 ### Scraping
 

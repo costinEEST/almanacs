@@ -248,6 +248,10 @@
 - [use OpenAI chat capabilities in your terminal](https://github.com/Ccastillo06/askgpt)
 - [The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)
 
+### Ernie
+
+- https://morethanmoore.substack.com/p/baidus-ernie-bot-true-competition
+
 ### Tool
 
 - [Curated list of libraries for a faster machine learning workflow](https://amitness.com/toolbox)
@@ -376,6 +380,7 @@
 - http://tombaranowicz.com/index.php/2020/03/29/7-machine-learning-business-ideas
 - https://loomcom.com/blog/0127_jacques_vallee_on_artificial_intelligence.html
 - https://github.com/davidbau/how-to-read-pytorch
+- http://incompleteideas.net/IncIdeas/BitterLesson.html
 
 ### Security
 

@@ -282,6 +282,7 @@
 - [mailto:?attach](https://mobile.twitter.com/jensvoid/status/1295357952480751616)
 - https://labs.bishopfox.com/tech-blog/lexss-bypassing-lexical-parsing-security-controls
 - https://blog.xss.am/2021/02/intigriti-february-xss-challenge
+- [A compilation of sites with dumb password rules](https://github.com/duffn/dumb-password-rules)
 
 ### Unicode
 

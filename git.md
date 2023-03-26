@@ -165,6 +165,7 @@
 - https://www.stefanjudis.com/today-i-learned/git-supports-global-gitignore-files
 - https://github.com/pomber/git-history
 - https://github.com/tj/git-extras
+- [generate release PRs based on the conventionalcommits.org spec](https://github.com/googleapis/release-please)
 
 ### Security
 

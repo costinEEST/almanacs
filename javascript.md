@@ -65,6 +65,7 @@
 - [Dark themes made easy](https://notes.jordanscales.com/40ecf234)
 - https://opensource.com/article/22/9/javascript-glossary
 - https://github.com/mbeaudru/modern-js-cheatsheet
+- https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42
 
 ### Course
 

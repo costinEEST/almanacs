@@ -230,6 +230,7 @@
 - https://hirok.io/posts/avoid-npm-link
 - [scripts I've started using daily](https://twitter.com/mattpocockuk/status/1567859790168170497)
 - https://jagascript.com/how-to-build-a-textual-progress-bar-for-cli-and-terminal-apps
+- https://itnext.io/shell-free-scripts-with-execa-7-885fb3b42f83
 
 ### Cheat sheets
 

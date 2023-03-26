@@ -528,6 +528,7 @@
 - https://testautomationu.applitools.com/learningpaths.html?id=web-ui-ruby-path
 - https://github.com/noahgibbs/testing_rebuilding_http
 - [A list of predefined devices for your tests with Capybara](https://github.com/renuo/so_many_devices)
+- https://github.com/betterspecs/betterspecs
 
 ### Radio
 
