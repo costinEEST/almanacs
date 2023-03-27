@@ -313,6 +313,12 @@
 - https://www.youtube.com/playlist?list=PL2Ky2_VcYEd0bGOqRl_drTItO_Ve-Pt7_
 - https://ayanacademy.myshopify.com/collections/latin-library
 - [Manual of Romance Phonetics and Phonology | Christoph Gabriel, Randall Gess and Trudel Meisenburg](https://www.degruyter.com/document/doi/10.1515/9783110550283/html?lang=en#contents)
+- https://www.google.com/search?client=firefox-b-d&q=declinari+conjugare+latina + https://ro.wikipedia.org/wiki/Dan_Nicolae_Gheorghe_Ceau%C8%99escu
+- https://dcc.dickinson.edu/ro/latin-core-list1
+- https://hiphi.ubbcluj.ro/studii/Public/File/cursuri/suporturi_conversie/Stat_societate-medievala.pdf
+- https://issuu.com/fac.arhitecturasiurbanism.upt/docs/note_de_curs_estetica_an5
+- https://ro.wikipedia.org/wiki/Filosofie_medieval%C4%83
+- https://classicalliberalarts.com/blog/alcuin-735-804-ad-and-the-seven-liberal-arts
 
 ### Lithuanian
 
