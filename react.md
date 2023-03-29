@@ -503,6 +503,7 @@
 
 ### Tool
 
+- https://github.com/JefMari/awesome-wysiwyg
 - https://github.com/yyx990803/vite-vs-next-turbo-hmr
 - https://luketheweb.dev/blog/what-is-vite-and-why-should-you-use-it-instead-of-create-react-app
 - [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter)

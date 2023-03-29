@@ -191,7 +191,6 @@
 - https://github.com/MichaelCade/90DaysOfDevOps
 - https://www.igmguru.com/cloud-computing/devops-certification-training
 - https://github.com/trimstray/test-your-sysadmin-skills
-- https://github.com/binhnguyennus/awesome-scalability
 - [Site Reliability Engineering: Building Secure and Reliable Systems](https://landing.google.com/sre/books)
 - [Principles of System Administration by Jan Schaumann](https://www.netmeister.org/book) + https://stevens.netmeister.org/615
 - https://chan.dev/posts/a-non-comprehensive-guide-to-yaml-for-folks-who-like-json-just-fine
@@ -239,7 +238,7 @@
 - https://github.com/CsEnox/Art-of-Creating-Machines
 - [Visual Studio Code and Vagrant](https://twitter.com/iximiuz/status/1441090080760762374) + https://iximiuz.com/en/posts/how-to-setup-development-environment/#vscode-remote-vagrant
 
-### VPS 
+### VPS
 
 - https://www.paperspace.com, https://contabo.com + https://twitter.com/CristiVlad25/status/1629798293004853251
 

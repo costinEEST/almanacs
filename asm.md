@@ -25,6 +25,7 @@
 - https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip + https://twitter.com/jeremyreimer/status/1573390920627941382
 - https://0x434b.dev/misc-study-notes-about-arm-aarch64-assembly-and-the-arm-trusted-execution-environment-tee
 - [An introduction to ARM64 assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
+- https://www.youtube.com/playlist?list=PLAQe3Pnt5c2Ku15CcZ7J93nUB3011J1RL
 
 ### Book
 
@@ -68,6 +69,10 @@
 - https://www.youtube.com/user/OpenSecurityTraining/playlists
 - [Binary Numbers | ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHX1u3IbBZaAdY17n7l1hJ90)
 - [Assembly Language Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=5)
+- https://www.youtube.com/@WhatsACreel/playlists?view=1&sort=lad&flow=grid
+- [A mini series on the IEEE 754 Floating Point Standard as used by x86 CPU's | WhatsACreel](https://www.youtube.com/playlist?list=PLKK11Ligqithrgou1e6_kl9HJr1jI_LcT)
+- [For those interested in learning 65816 (SNES Processor) this is where to start. 65816 can perfectly emulate 6502](https://www.youtube.com/playlist?list=PLgvDB6LWam2WvoFvh8tlUqbqw92qWM0aP)
+- [6502 CPU emulator in C++ from scratch](https://www.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)
 
 ### Community
 

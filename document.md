@@ -35,13 +35,14 @@
 - [Provides an overview of the inner file structure of a PDF](https://github.com/5f0ne/pdf-examiner)
 - [utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, and dictionary attacks against targets](https://github.com/RoseSecurity/ScrapPY)
 - https://github.com/zbetcheckin/PDF_analysis
+- [Make your PDFs look scanned](https://github.com/rwv/lookscanned.io)
 
 ### .png
 
 - https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vidbuchanan.co.uk/widgets/pngdiff
 - https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 
-### .tex 
+### .tex
 
 - [Latex en 147 minutos](https://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf)
 - https://tex.stackexchange.com/questions/7770/file-extensions-related-to-latex-etc

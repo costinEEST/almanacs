@@ -35,6 +35,7 @@
 - https://github.com/acekyd/made-in-nigeria
 - https://github.com/collections/made-in-brazil
 - https://github.com/chernivtsijs/made-in-ukraine
+- https://github.com/yavorsky/awesome-ukraine
 - https://github.com/Kristories/awesome-guidelines
 - https://www.mux.com/blog/the-building-blocks-of-great-docs
 - https://github.com/brycejohnston/awesome-agriculture
@@ -42,6 +43,7 @@
 - https://github.com/open-source-ideas/ideas
 - [by ex-googlers, for ex-googlers - a lookup table of similar tech & services](https://github.com/jhuangtw/xg2xg)
 - [Daniel Roesler](https://daylightpirates.org)
+- https://github.com/stars/antonreshetov/lists/oss-alternatives
 
 ### Tool
 

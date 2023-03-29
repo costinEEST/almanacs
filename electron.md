@@ -1,5 +1,4 @@
-
-### Alternative 
+### Alternative
 
 - https://github.com/sudhakar3697/electron-alternatives
 - [A list of awesome packages and frameworks for implementing javascript applications on the desktop](https://github.com/styfle/awesome-desktop-js)
@@ -37,6 +36,8 @@
 - [A cross-platform GUI for youtube-dl made in Electron and node.js](https://github.com/jely2002/youtube-dl-gui)
 - https://github.com/leerob/youtube-to-mp3
 - [CLI for managing the battery charging status for M1 Macs](https://github.com/actuallymentor/battery)
+- [AI Image upscaler for Linux, MacOS and Windows](https://github.com/upscayl/upscayl)
+- [A free and open source code snippets manager for developers](https://github.com/antonreshetov/massCode)
 
 ### Boilerplate
 
@@ -47,7 +48,7 @@
 - [pass messages between ipcMain and ipcRenderer](https://github.com/olingern/electron-ipc-ping-pong)
 - https://github.com/reZach/secure-electron-template
 - https://github.com/maxogden/menubar + https://github.com/wesbos/pommade
-
+- https://github.com/electron-react-boilerplate/electron-react-boilerplate
 
 ### Opinion
 
@@ -70,12 +71,10 @@
 - [Leveraging Electron Applications For Post-Exploitation | Ruben Boonen (b33f)](https://github.com/FuzzySecurity/WWHF-WayWest-2022) + https://youtu.be/VXb6lwXhCAc
 - https://goose.icu/discord-0click-xss-to-rce
 
-
 ### Tool
 
 - [A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl.](https://github.com/mayeaux/videodownloader)
 - [An example Electron app with a backend server all wired up via IPC.](https://github.com/jlongster/electron-with-server-example)
-- [A free and open source code snippets manager for developers. ](https://github.com/antonreshetov/massCode)
 - https://github.com/jitsi/jitsi-meet-electron
 - [Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.](https://github.com/agalwood/Motrix)
 - [OpenMTP - Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp) + https://www.inputmag.com/guides/theres-finally-an-alternative-to-googles-horrible-android-file-transfer-app

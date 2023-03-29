@@ -69,10 +69,11 @@
 - https://faroutmagazine.co.uk/10-most-disappointing-movies-all-time
 - [7 filme făcute în sate românești](https://mailchi.mp/delasat/filme-de-la-sat?e=75bebe984a)
 
-### Tools
+### Tool
 
 - [Collection of 8000+ publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
 - [Search by word or phrase for TV, movies, and music clips](https://yarn.co)
+- https://github.com/iptv-org/awesome-iptv
 
 ### TV series
 

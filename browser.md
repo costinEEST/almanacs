@@ -33,7 +33,9 @@ javascript: (() =>
   (window.location.href = `https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yourGmailAddress@gmail.com&su=${document.title}&body=${window.location.href}`))();
 ```
 
-- [Speed Controls.](https://codepen.io/wilman/pen/ZWdEPX)
+- [Speed controls](https://codepen.io/wilman/pen/ZWdEPX)
+- https://github.com/Blumed/make-bookmarklets
+- https://github.com/marcobiedermann/awesome-bookmarklets
 - [Find out which element is scrolling.](https://gist.github.com/brumm/74fd7eaafd50c8477519)
 - [Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.](https://github.com/micmro/performance-bookmarklet)
 - https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii

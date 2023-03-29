@@ -1,7 +1,7 @@
 ### Application
 
 - [Auto Price](https://devforum.ro/t/aplicatie-android-verificarea-pretului-de-piata-al-unui-autoturism/12053)
-- [NoConnect is a real-time messaging application like WhatsApp which does not rely on any traditional GSM/CDMA network or any kind of internet service to communicate with each other unlike WhatsApp.](https://twitter.com/Debloper/status/1206358762275004417)
+- [NoConnect is a real-time messaging application like WhatsApp which does not rely on any traditional GSM/CDMA network or any kind of internet service to communicate with each other unlike WhatsApp](https://twitter.com/Debloper/status/1206358762275004417)
 - https://github.com/wikimedia/apps-android-wikipedia
 - https://arstechnica.com/gadgets/2020/08/android-is-now-the-worlds-largest-earthquake-detection-network
 - [hebrew interlinear old testament](https://github.com/stefankmitph/hiot) + https://github.com/peace-shillong/Hebrew-Interlinear-Old-Testament-Android
@@ -36,6 +36,7 @@
 - [Pierre-Yves Ricau](https://twitter.com/Piwai/status/1476962698982264838)
 - https://simran.app/2021/08/13/free-path-android-development-copy
 - https://blog.esper.io/build-android-phone-with-gms
+- https://github.com/wasabeef/awesome-android-ui
 
 ### Cinema
 
@@ -57,8 +58,8 @@
 - https://github.com/amitshekhariitbhu/awesome-android-complete-reference
 - https://github.com/androiddevnotes/awesome-android-learning-resources
 - https://github.com/lockersoft/cis218 + https://www.youtube.com/playlist?list=PLSXDqiI4sC5N5LJaWsprrLgZgZiyl62Q9
-- Android Development with Compose: https://codelabs.developers.google.com/?text=compose + https://developer.android.com/courses/pathways/compose + https://www.udemy.com/course/jetpack-compose-masterclass + [Jetpack Compose | 
-Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
+- Android Development with Compose: https://codelabs.developers.google.com/?text=compose + https://developer.android.com/courses/pathways/compose + https://www.udemy.com/course/jetpack-compose-masterclass + [Jetpack Compose |
+  Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
 
 ### Internals
 
@@ -66,7 +67,6 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 - https://blog.esper.io/android-13-exact-alarm-api-restrictions
 - https://benjamin-altpeter.de/android-top-charts-reverse-engineering + https://github.com/baltpeter/parse-play + https://twitter.com/baltpeter/status/1537569735738523649
 - https://github.com/LineageOS/android_device_xiaomi_sdm845-common
-
 
 ### Tool
 
@@ -109,7 +109,7 @@ Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6
 ### Development
 
 - https://devtut.github.io/android
-־ [Find Android sources](https://github.com/pyricau/androidsrc)
+  ־ [Find Android sources](https://github.com/pyricau/androidsrc)
 - [Return the dimensions of the Window.](https://twitter.com/jlongster/status/1220364760316895233)
 - [How are you distributing your android app bundle? app.aab?](https://twitter.com/sseraphini/status/1220304089462067200)
 - [Building an Android App from the Command Line](https://www.hanshq.net/command-line-android.html)

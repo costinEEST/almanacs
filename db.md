@@ -119,6 +119,7 @@
 - [A Primer on the DynamoDB NoSQL database.](https://www.dynamodbguide.com)
 - https://github.com/lrlna/sketchin/blob/master/zines/mongodb101.md
 - https://www.bugsnag.com/blog/getting-started-with-mongodb
+- https://github.com/learning-zone/mongodb-basics
 - https://github.com/dabit3/dynamodb-documentclient-cheat-sheet
 - https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial
 - https://github.com/riyazwalikar/injection-attacks-nosql-talk
@@ -236,6 +237,7 @@
 - https://shekhargulati.com/category/code-reading
 - https://github.com/harpribot/awesome-information-retrieval
 - https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications
+- https://github.com/binhnguyennus/awesome-scalability
 
 ### PostgreSQL
 

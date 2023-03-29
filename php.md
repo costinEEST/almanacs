@@ -41,7 +41,7 @@
 
 - [Caleb Porzio](https://twitter.com/calebporzio/status/1620066458687651842)
 
-### Inspire 
+### Inspire
 
 - https://github.com/aaronpk/oauth.net
 
@@ -70,7 +70,8 @@
 ### Tool
 
 - http://xml.mherman.org
-- [PHP Secure Configuration Checker.](https://github.com/sektioneins/pcc)
+- https://github.com/ddev/awesome-ddev
+- [PHP Secure Configuration Checker](https://github.com/sektioneins/pcc)
 - [Laravel setup using Docker - Andrew Schmelyun](https://www.youtube.com/playlist?list=PL36CGZHZJqsWXjf4GeQBLUl7CK1dodKuC)
 - [A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems.](https://github.com/gellin/bantam)
 - https://www.codediesel.com/php/quickly-extract-urls-from-a-xml-sitemap-file
@@ -89,7 +90,6 @@
 ### Scrapping
 
 - https://github.com/win3zz/Facebook-Album-Downloader
-
 
 ### Security
 

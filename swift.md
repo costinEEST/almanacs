@@ -12,6 +12,7 @@
 - [RSS reader for macOS and iOS](https://github.com/Ranchero-Software/NetNewsWire)
 - [Mac menu bar tool to view the architecture of the running application](https://github.com/billycastelli/Silicon-Info)
 - https://github.com/Dashlane/apple-apps
+- https://github.com/stars/antonreshetov/lists/code-editor
 
 ### Algorithm
 
@@ -63,7 +64,6 @@
 - https://github.com/peterfriese/SwiftUI-Concurrency-Essentials
 - [Find timezones or countries for given coordinates](https://github.com/patrick-zippenfenig/SwiftTimeZoneLookup)
 - https://github.com/stars/Cykelero/lists/swift-frameworks
-
 
 ### Practice
 

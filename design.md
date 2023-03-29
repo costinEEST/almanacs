@@ -105,7 +105,7 @@
 - https://github.com/syxanash/awesome-web-desktops
 - https://blog.hubspot.com/website/vintage-website-design
 
-### User experience
+### User experience (UX)
 
 - https://user-interface.io/how-to-design-almost-any-ui-element
 - https://www.freecodecamp.org/news/ui-ux-design-guide
@@ -122,6 +122,7 @@
 - https://www.deceptive.design + https://youtu.be/ZN9wRcC3O4I
 - https://www.facebook.com/vitaly.friedman
 - https://uxdesign.cc/in-praise-of-the-spreadsheet-eb31e2f6691d
+- https://github.com/ttt30ga/awesome-product-design
 
 ### Portfolio
 

@@ -232,8 +232,9 @@
 - https://jagascript.com/how-to-build-a-textual-progress-bar-for-cli-and-terminal-apps
 - https://itnext.io/shell-free-scripts-with-execa-7-885fb3b42f83
 
-### Cheat sheets
+### Cheat sheet
 
+- https://github.com/learning-zone/nodejs-basics
 - https://github.com/aliyr/Nodejs-Developer-Roadmap
 - https://github.com/dexteryy/spellbook-of-modern-webdev#nodejs
 - https://github.com/ArturJS/nodejs-certification-preparation

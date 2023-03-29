@@ -151,6 +151,7 @@
 - [Deploy Rust apps with a single Cargo command](https://github.com/shuttle-hq/shuttle)
 - https://wes.today/building-an-os
 - https://github.com/KodrAus/rust-web-app
+- https://github.com/sunface/rust-by-practice
 
 ### Testing
 
