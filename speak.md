@@ -3,7 +3,6 @@
 - [Vietnamese vocabulary list](https://github.com/hugo53/words-vi)
 - https://www.quora.com/How-come-Vietnamese-is-the-easiest-language-in-the-world-yet-not-many-people-learn-it
 - https://github.com/hugo53/learn-english
-- https://devonzuegel.com/post/unconventional-strategies-for-practicing-spanish
 - https://viorel.me/2019/thoughts-on-learning-english
 - https://github.com/viorelsfetea/german-verbs-database
 - https://github.com/danburzo/toolbox#language
@@ -428,6 +427,7 @@
 - https://github.com/marcboquet/spanish-names
 - [La Historia Del Español En Diez Minutos](https://www.youtube.com/playlist?list=PLhQpDGfX5e7AlhSrnLWvaanGfn72BnFN1), https://www.open.edu/openlearn/languages/spanish/the-history-spanish-about-six-minutes
 - [Spanish Language and Travel by Lonely Planet and Utalk](https://www.humblebundle.com/downloads?key=k3Xtnwv3EzmdhsCm)
+- https://devonzuegel.com/post/unconventional-strategies-for-practicing-spanish
 
 ### Swedish
 

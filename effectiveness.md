@@ -117,13 +117,6 @@
 - https://quanticdev.com/articles/most-valuable-thing-to-learn-in-one-hour
 - https://superorganizers.substack.com/p/how-to-build-a-learning-machine
 
-### Websites/Newsletters
-
-- https://github.com/sdmg15/Best-websites-a-programmer-should-visit
-- https://buttondown.email/swap/archive
-- https://buttondown.email/devon/archive
-- [Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
-
 ### Remote working
 
 - [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide)
