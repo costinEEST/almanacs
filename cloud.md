@@ -59,6 +59,7 @@
 - https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
 - [Building Software Platforms A guide to SaaS transition with AWS | Pablo Bermejo](https://leanpub.com/software-platforms)
 - [Lambda Cold Starts analysis, updated daily](https://github.com/maxday/lambda-perf)
+- https://www.linkedin.com/posts/noureldin-ehab-a57940190_awssecurity-awswellarchitected-securitylabs-activity-7048374255549333504-itVq
 
 ### Azure
 
@@ -127,7 +128,6 @@
 
 - https://nopecode.com/2021/12/04/free-openvpn-for-a-lifetime.html
 
-
 ### Platform independent
 
 - https://leanpub.com/cloudstrategy
@@ -146,10 +146,10 @@
 - [A reading list for services engineering](https://github.com/mmcgrana/services-engineering)
 - https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course
 
-### Radio 
+### Radio
 
 - https://www.rework.fm/leaving-the-cloud
 
-### Vercel 
+### Vercel
 
 - [How Vercel is Changing the Cloud Game](https://github.com/peibolsang/peibolsang/issues/2)
