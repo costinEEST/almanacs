@@ -52,6 +52,7 @@
 - https://www.swyx.io/svelte-sites-react-apps
 - https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript
 - https://github.com/gactjs/research/tree/main/svelte-instance-identity-model
+- https://elliscs.hashnode.dev/a-business-case-for-sveltekit
 
 ### Radio
 
