@@ -155,6 +155,7 @@
 - https://github.com/bmuschko/cka-crash-course
 - https://github.com/krzko/awesome-cka
 - https://github.com/techiescamp/kubernetes-learning-path
+- https://hamel.dev/blog/posts/k8s
 
 ### Podman
 

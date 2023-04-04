@@ -45,6 +45,7 @@
 - https://www.manning.com/books/python-workout
 - https://github.com/kevinheavey/modern-polars
 - [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/cosmicpython/book)
+- https://github.com/mynameisfiber/high_performance_python_2e
 
 ### Bots
 
@@ -66,6 +67,42 @@
 - https://alexwlchan.net/2021/01/kempisbot
 - https://alexfrancow.github.io/app-development/Twitter-based-Exploit-Detector
 - https://github.com/licht1stein/telegram-exception-alerts
+
+### Cheat sheet
+
+- https://cjolowicz.github.io/posts/hypermodern-python-01-setup
+- https://github.com/gto76/python-cheatsheet
+- https://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types
+- https://pyvideo.org/europython-2016/designing-a-pythonic-interface.html + https://twitter.com/kushaldas/status/1246801300307636224
+- https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech
+- https://tenthousandmeters.com/blog/python-behind-the-scenes-6-how-python-object-system-works + https://news.ycombinator.com/item?id=25384433
+- https://github.com/vinta/awesome-python
+- https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb
+- https://thehazarika.com/blog/programming/how-to-reverse-engineer-web-apps
+- https://www.samueltaylor.org/articles/speed-up-web-scraping.html
+- [Tinkerer is a blogging engine/static website generator powered by Sphinx.](https://github.com/vladris/tinkerer)
+- [Sunfish: a Python Chess Engine in 111 lines of code](https://github.com/thomasahle/sunfish)
+- https://github.com/mebeim/aoc
+- https://github.com/rasulkireev/builtwithdjango
+- https://www.ianbicking.org/blog/2018/11/viewing-python-execution-source-code-rewriting.html
+- https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE
+- https://github.com/geoffbacon/regular-expressions-in-python
+- https://huangxuan.me/2017/12/12/halting-problem
+- https://github.com/alhassy/PythonCheatSheet
+- https://github.com/sfermigier/awesome-functional-python
+- https://github.com/rainyear/pytips
+- https://github.com/rainyear/CPython-Internals-Lecture-Notes
+- https://github.com/coodict/python3-in-one-pic
+- https://twitter.com/gvanrossum/status/1222776098800357376
+- https://github.com/wdv4758h/awesome-jit
+- https://github.com/jchampemont/awesome-lightweights
+- https://asawicki.info/news_1762_hello_world_under_the_microscope_-_new_article_published + https://gynvael.coldwind.pl/?lang=en&id=754
+- https://github.com/DjangoEx/python-engineer-roadmap
+- [Simple speed tests for Python 3.11](https://github.com/dennisbakhuis/python3.11_speedtest)
+- https://github.com/kirang89/pycrumbs
+- https://yurichev.org/py_continue
+- https://www.freecodecamp.org/news/data-analytics-roadmap
+- https://amitness.com/2019/08/math-for-programmers
 
 ### Clean code
 
@@ -170,41 +207,6 @@
 - https://smarx.com/posts/2020/12/memoization-in-one-line-of-python
 - [Cursed operators](https://twitter.com/gynvael/status/1538125070987567104)
 - https://www.youtube.com/playlist?list=PLWBKAf81pmOamJfoHz4oRdieWQysmUkaW
-
-### Cheat sheet
-
-- https://cjolowicz.github.io/posts/hypermodern-python-01-setup
-- https://github.com/gto76/python-cheatsheet
-- https://blog.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types
-- https://pyvideo.org/europython-2016/designing-a-pythonic-interface.html + https://twitter.com/kushaldas/status/1246801300307636224
-- https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech
-- https://tenthousandmeters.com/blog/python-behind-the-scenes-6-how-python-object-system-works + https://news.ycombinator.com/item?id=25384433
-- https://github.com/vinta/awesome-python
-- https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb
-- https://thehazarika.com/blog/programming/how-to-reverse-engineer-web-apps
-- https://www.samueltaylor.org/articles/speed-up-web-scraping.html
-- [Tinkerer is a blogging engine/static website generator powered by Sphinx.](https://github.com/vladris/tinkerer)
-- [Sunfish: a Python Chess Engine in 111 lines of code](https://github.com/thomasahle/sunfish)
-- https://github.com/mebeim/aoc
-- https://github.com/rasulkireev/builtwithdjango
-- https://www.ianbicking.org/blog/2018/11/viewing-python-execution-source-code-rewriting.html
-- https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE
-- https://github.com/geoffbacon/regular-expressions-in-python
-- https://huangxuan.me/2017/12/12/halting-problem
-- https://github.com/alhassy/PythonCheatSheet
-- https://github.com/sfermigier/awesome-functional-python
-- https://github.com/rainyear/pytips
-- https://github.com/rainyear/CPython-Internals-Lecture-Notes
-- https://github.com/coodict/python3-in-one-pic
-- https://twitter.com/gvanrossum/status/1222776098800357376
-- https://github.com/wdv4758h/awesome-jit
-- https://github.com/jchampemont/awesome-lightweights
-- https://asawicki.info/news_1762_hello_world_under_the_microscope_-_new_article_published + https://gynvael.coldwind.pl/?lang=en&id=754
-- https://github.com/DjangoEx/python-engineer-roadmap
-- [Simple speed tests for Python 3.11](https://github.com/dennisbakhuis/python3.11_speedtest)
-- https://github.com/kirang89/pycrumbs
-- https://yurichev.org/py_continue
-- https://www.freecodecamp.org/news/data-analytics-roadmap
 
 ### Scraping
 

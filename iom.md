@@ -308,6 +308,7 @@
 - https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy
 - https://github.com/daoleno/web3byexample
 - https://github.com/takenobu-hs/ethereum-evm-illustrated
+- https://github.com/4337Mafia/awesome-account-abstraction
 
 ### Demos
 
