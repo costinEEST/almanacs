@@ -73,6 +73,8 @@
 - [A mini series on the IEEE 754 Floating Point Standard as used by x86 CPU's | WhatsACreel](https://www.youtube.com/playlist?list=PLKK11Ligqithrgou1e6_kl9HJr1jI_LcT)
 - [For those interested in learning 65816 (SNES Processor) this is where to start. 65816 can perfectly emulate 6502](https://www.youtube.com/playlist?list=PLgvDB6LWam2WvoFvh8tlUqbqw92qWM0aP)
 - [6502 CPU emulator in C++ from scratch](https://www.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)
+- [HackadayU: AVR: Architecture, Assembly and Reverse Engineering](https://www.youtube.com/playlist?list=PL_tws4AXg7avNexvQxkfxfEBtvTtBi6Tu)
+- https://github.com/jeFF0Falltrades/Tutorials/tree/master/master0Fnone_classes/1_x86_Demystified + https://twitter.com/binitamshah/status/1641086905113772033
 
 ### Community
 
