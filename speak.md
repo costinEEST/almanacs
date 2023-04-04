@@ -12,6 +12,7 @@
 - [IATE is the European Union’s official terminology database, containing translations for words and phrases.](https://iate.europa.eu/download-iate)
 - https://rawlangs.wordpress.com/2013/04/23/ten-ways-to-learn-greek-for-free
 - https://yonatanmatanyah.wordpress.com/category/learning-hebrew
+- https://biblioteca-digitala.ro/?pub=6167-gramatica-limbii-ebraice-vechi
 - http://nosolosoftware.com/how-i-learned-the-nato-phonetic-alphabet
 - https://www.danielde.dev/blog/surprising-shared-word-etymologies
 - [Interactive graph to discover the origin of the words](https://github.com/franloza/etygraph) + https://twitter.com/eduardoboucas/status/1389508646212706306
@@ -126,6 +127,8 @@
 - [Late Antiquity](https://twitter.com/shahanSean/status/1553224584291225600)
 - [Learn coding in Amharic, Arabic, Swahili](https://barmaga.io)
 - https://ucdc.academia.edu/IrinaVainovskiMihai
+- https://biblioteca-digitala.ro/?pub=6168-curs-de-sintaxa-limbii-arabe-moderne
+- https://biblioteca-digitala.ro/?pub=6169-semantica-modalitatilor-in-limba-araba
 
 ### Danish
 
@@ -318,6 +321,7 @@
 - https://issuu.com/fac.arhitecturasiurbanism.upt/docs/note_de_curs_estetica_an5
 - https://ro.wikipedia.org/wiki/Filosofie_medieval%C4%83
 - https://classicalliberalarts.com/blog/alcuin-735-804-ad-and-the-seven-liberal-arts
+- https://biblioteca-digitala.ro/?pub=6334-morfologia-istorica-a-limbii-latine
 
 ### Lithuanian
 
@@ -452,6 +456,7 @@
 - https://dopomoha.ro/ro/expresii-utile
 - https://twitter.com/istoric_Popescu/status/1505853182924238848
 - https://ukrainian-zone.com + https://www.duolingo.com/classroom/yjgdgx
+- https://biblioteca-digitala.ro/?pub=6270-curs-de-folclor-literar-ucrainean
 
 ### Storytelling
 
