@@ -7,6 +7,7 @@
 
 - [Nemira Publishing House](https://us16.campaign-archive.com/home/?u=90fc2082261012b48d34d8ff6&id=851b969363)
 - [Fundatia Culturala Memoria](https://us7.campaign-archive.com/home/?u=21562341fc294594ee2ed413f&id=93bd3e91ec)
+- https://stripepress.substack.com/archive
 
 ### C++
 
@@ -246,6 +247,7 @@
 - [Jer Thorp](https://tinyletter.com/blprnt/archive)
 - https://dataelixir.com
 - [Giuseppe Sollazzo](https://buttondown.email/puntofisso/archive)
+- [Nadieh Bremer](https://us11.campaign-archive.com/home/?u=93770d48b5e782a113e79d58a&id=f97d3c6eec)
 
 ### Databases
 
