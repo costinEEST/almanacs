@@ -92,6 +92,7 @@
 ### Code auditing
 
 - https://mastodon.social/@mitsuhiko@hachyderm.io/109588062804962627 + https://github.com/getsentry/sentry-native
+- https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
 
 ### Course
 

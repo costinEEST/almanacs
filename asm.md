@@ -26,6 +26,8 @@
 - https://0x434b.dev/misc-study-notes-about-arm-aarch64-assembly-and-the-arm-trusted-execution-environment-tee
 - [An introduction to ARM64 assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
 - https://www.youtube.com/playlist?list=PLAQe3Pnt5c2Ku15CcZ7J93nUB3011J1RL
+- [Disambiguating Arm, Arm ARM, Armv9, ARM9, ARM64, AArch64, A64, A78](https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm)
+- [AArch64-ExploreExploration of Apple CPUs](https://github.com/name99-org/AArch64-Explore)
 
 ### Book
 

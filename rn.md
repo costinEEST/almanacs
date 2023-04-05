@@ -108,7 +108,7 @@
 ### Development
 
 - https://www.giacomocerquone.com/blog/start-with-react-native
-
+- https://thoughtbot.com/blog/simplifying-react-native-development-with-expo
 - Run an app on 6 different platforms with the Exact same Codebase: [tweet](https://twitter.com/Baconbrix/status/1206583601648820224) + [talk](https://youtu.be/ykBxY01j_rA)
 - [Best way to share logic between a React web application and a React Native application?](https://twitter.com/gethackteam/status/1213527792144592896)
 - https://github.com/jbranchaud/til/blob/master/react_native/avoid-the-notch-with-safeareaview.md
@@ -194,6 +194,7 @@
 - https://github.com/motiz88/react-native-midi
 - https://github.com/r0b0t3d/react-native-carousel
 - [utility-first universal design system - powered by Tailwind](https://github.com/marklawlor/nativewind)
+- https://levelup.gitconnected.com/stop-using-react-native-async-storage-fdbcc05a6de3
 
 ### Debugging
 

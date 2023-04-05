@@ -182,6 +182,7 @@
 - [Reverse engineering an updated NY Waterway app for the Pixel 7](https://betterprogramming.pub/you-must-be-64-bit-to-ride-this-ferry-61ed45c57a93)
 - [Impersonate the Google Play Billing service](https://github.com/Techbrunch/billing-hack)
 - [Reversing UK mobile rail tickets](https://news.ycombinator.com/item?id=34640433)
+- https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard
 
 ### Radio
 

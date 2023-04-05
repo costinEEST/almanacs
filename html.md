@@ -325,3 +325,4 @@
 - https://notes.jordanscales.com/on-emoji
 - https://github.com/erikthedeveloper/code-review-emoji-guide
 - [Get color palettes from emojis](https://github.com/anubra266/emoji-palette)
+- [Unicode Text Analyzer](https://www.fontspace.com/unicode/analyzer)

@@ -21,14 +21,14 @@
 ### Course
 
 - https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3
-- [Digital Signal Processing](https://github.com/leafac/cpp-dsp-juce--study-group) 
+- [Digital Signal Processing](https://github.com/leafac/cpp-dsp-juce--study-group)
 
-### Development 
+### Development
 
 - https://medium.com/programming-for-music/introduction-to-audio-programming-8b9e7ecdeaea
 - [Calculating BPM using Javascript and the Spotify Web API](https://github.com/JMPerez/beats-audio-api)
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://divu.in/music-theory-and-generation-13965ba83eb9
 - [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
@@ -98,6 +98,7 @@
 - https://nuculabs.dev/2022/12/08/separate-audio-and-video
 - https://rolisz.ro/2022/11/23/transcribing-podcasts-with-whisper
 - [An editing tool that uses AI to transcribe and semantically search transcripts, integrated with Davinci Resolve Studio](https://github.com/octimot/StoryToolkitAI)
+- [Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper) + https://meyerweb.com/eric/thoughts/2023/03/23/peerless-whisper + https://goodsnooze.gumroad.com/l/macwhisper
 
 ### Security
 

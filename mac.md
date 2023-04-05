@@ -14,7 +14,7 @@
 - https://github.com/stars/Cykelero/lists/other-mac-apps
 - https://github.com/stars/Cykelero/lists/appkit-apps
 
-### Book 
+### Book
 
 - https://www.takecontrolbooks.com/shortcuts
 
@@ -59,6 +59,7 @@
 ### Historic
 
 - [Information from the early Apple era](https://vintageapple.org)
+- https://www.patreon.com/posts/episode-105-80893084
 
 ### Tool
 

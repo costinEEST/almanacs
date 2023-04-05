@@ -252,6 +252,7 @@
 ### Debugging
 
 - https://kinsta.com/blog/node-debug
+- https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs
 - [Debug school | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3ACrV-YhqTPY_rgerXqUjaR)
 - [Interviews | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3BgejSy6tT0x_7TEwxSEUIM)
 - [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)

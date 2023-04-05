@@ -24,6 +24,7 @@
 ### Games
 
 - [Alex Doppelgänger](https://alexdoppelganger.substack.com/archive)
+- [Știri din lumea PlayStation](https://psplayro.substack.com/archive)
 
 ### Tips
 
@@ -81,6 +82,7 @@
 - [Louis-François Bouchard](https://us1.campaign-archive.com/home/?u=718cbf5d31c54f8ad6cd39551&id=9481bc612c)
 - [Sebastian Raschka](https://magazine.sebastianraschka.com/archive)
 - [What are your favorite machine learning blogs or newsletters?](https://twitter.com/chrisalbon/status/1533463005320515584)
+- [Hassan El Mghari](https://nutlope.substack.com/archive)
 
 ### Book
 
@@ -110,6 +112,7 @@
 - [Paulo André](https://hagakure.substack.com/archive)
 - [Ben Erez](https://benerez.substack.com/archive)
 - [Michelle Lim](https://us2.campaign-archive.com/home/?u=cf007b8800f2adebe180e8078&id=6540dfdf5c)
+- [Alexey Guzey](https://buttondown.email/guzey/archive)
 
 ### Marketing
 
@@ -344,6 +347,7 @@
 - [Magazin Zero Waste Bucuresti](https://us4.campaign-archive.com/home/?u=69aebee69dafa1967752cc194&id=4ffe7919b3)
 - [Corina Dima](https://us15.campaign-archive.com/home/?u=53026c57b9dbb2042a1695bc1&id=32d8f9cce8)
 - [Jewish Food Society](https://us14.campaign-archive.com/home/?u=d992c82613c2b142e1c5106f7&id=fe5a0fb602)
+- [Berti Panaiot](https://coffeelicious.substack.com/archive)
 
 ### Health
 
@@ -438,6 +442,7 @@
 - [Ediție săptămânală despre dezinformare](https://newsletter.misreport.ro)
 - [China's tech scene, economy and politics](https://www.chinatalk.media/archive)
 - https://cellphonetaskforce.org/newsletters
+- [Lillian Li](https://lillianli.substack.com/archive)
 
 ### Social sciences
 
@@ -454,3 +459,5 @@
 - [De la sat](https://us7.campaign-archive.com/home/?u=3f14e3915e6bef8a3a4fd6c01&id=02b2b8a2b2), https://delasat.substack.com/recommendations
 - [Zaga zaga](https://us10.campaign-archive.com/home/?u=60d1c6dca3c7ddba681fb30ee&id=0da46b4f28)
 - [Alex Ciucă](https://miculparis.substack.com/archive)
+- [Victor](https://irlanda.substack.com/archive)
+- [Dorin Bofan](https://www.aertare.ro/archive)
