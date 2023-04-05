@@ -160,6 +160,7 @@
 - [David Valdman](https://twitter.com/dmvaldman)
 - [Louis-François Bouchard](https://github.com/louisfb01)
 - https://github.com/BAILOOL/DoYouEvenLearn
+- [https://www.facebook.com/groups/propBitDev](Artificial General Intelligence (AGI/ASI))
 
 ### ChatGPT
 
