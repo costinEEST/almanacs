@@ -104,6 +104,7 @@
 - https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5
 - [built using ASP.NET and requires IIS8 and .NET 4.6.1](https://github.com/inexorabletash/travellermap)
 - https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm + https://github.com/foersterrobert/AlphaZeroFromScratch
+- https://github.com/sunjay/rust-game-dev-workshop
 
 ### The creators
 

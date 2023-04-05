@@ -245,7 +245,7 @@
 ### Hindi
 
 - [How to Speak Hindi | Anil Mahato](https://www.youtube.com/playlist?list=PLDC40D4D8C4E28BC3)
-
+- https://biblioteca-digitala.ro/?pub=6175-manual-de-limba-bengali
 - https://neustadt.fr/essays/teaching-myself-german
 - https://github.com/sharad461/nepali-translator
 

@@ -66,6 +66,7 @@
 - https://www.cyberark.com/threat-research-blog/thick-client-penetration-testing-methodology
 - [Deserialization payload generator for a variety of .NET formatters](https://github.com/pwntester/ysoserial.net)
 - https://parsiya.io/random/links/#net
+- https://danaepp.com/hacking-a-net-api-in-the-real-world
 
 ### Miscellaneous
 

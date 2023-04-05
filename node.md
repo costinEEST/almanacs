@@ -95,6 +95,7 @@
 - https://github.com/simonplend/egghead-build-a-modern-rest-api-in-node-js-with-fastify
 - https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend
 - https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling
+- [It speaks to Mastodon and other federated network services supporting ActivityPub](https://github.com/ringtailsoftware/cubiti) + https://netapinotes.substack.com/p/the-thing-about-using-chatgpt-for
 
 ### Book
 
