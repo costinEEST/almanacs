@@ -13,6 +13,7 @@
 - https://pqina.nl/hotlist
 - https://github.com/stars/Cykelero/lists/other-mac-apps
 - https://github.com/stars/Cykelero/lists/appkit-apps
+- https://github.com/Correia-jpv/fucking-open-source-mac-os-apps
 
 ### Book
 

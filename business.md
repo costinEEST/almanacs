@@ -53,6 +53,7 @@
 - https://www.fastcompany.com/most-creative-people/list
 - https://github.com/jhuangtw/TechCareerNotes
 - https://github.com/mezod/awesome-indie
+- https://github.com/lukasz-madon/awesome-remote-job
 
 ### Marketing
 

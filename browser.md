@@ -183,6 +183,7 @@ javascript: (() =>
 - [Firefox addon for passively detecting GPS Exif information in JPEGs](https://addons.mozilla.org/en-US/firefox/addon/gpsdetect)
 - [adds back "View Image" button to Google Image Search results](https://github.com/Procyon-b/make-gis-great-again)
 - [JShelter controls the APIs provided by the browser, restricting the data that they gather and send out to websites](https://pagure.io/JShelter/webextension/tree/main)
+- https://github.com/Correia-jpv/ChatGPT-Enhanced-Conversation-History
 - [Identify technology on websites.](https://github.com/AliasIO/wappalyzer)
 - https://github.com/aeksco/react-typescript-chrome-extension-starter
 - https://robertheaton.com/2018/05/07/making-youtube-less-bad-for-you-using-css

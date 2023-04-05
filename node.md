@@ -243,6 +243,7 @@
 - https://github.com/kryz81/awesome-nodejs-learning
 - https://oscarotero.com/deno
 - https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno
+- https://github.com/Correia-jpv/fucking-awesome-nodejs
 
 ### Community
 

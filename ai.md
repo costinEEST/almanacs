@@ -164,6 +164,7 @@
 
 ### ChatGPT
 
+- [Building Startups with an AI Co-Founder](https://github.com/jtmuller5/The-HustleGPT-Challenge)
 - [get familiar with LLMs](https://twitter.com/oanaolt/status/1614697470650638337) + https://stanford-cs324.github.io/winter2022 + https://arxiv.org/abs/2108.07258
 - https://systemsapproach.substack.com/p/putting-large-language-models-in
 - https://app.gumroad.com/d/1dff6753fb21e2e05e1e42cee5fefa04
