@@ -343,6 +343,7 @@
 
 - [Is there a way to compress an array buffer in js in the browser those days without having a pure js implementation (by using browser)?](https://twitter.com/Vjeux/status/1239176661133742083)
 - https://github.com/lrlna/sketchin/blob/master/guides/typed-arrays.md
+- https://nuculabs.dev/2023/03/30/how-to-pack-javascript-array-elements-into-a-byte-buffer-and-create-a-new-numeric-array-from-the-buffer
 
 ### new BigInt64Array()
 

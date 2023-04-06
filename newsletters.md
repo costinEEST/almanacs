@@ -311,6 +311,7 @@
 - https://apisecurity.io/full-archive
 - [Future of Coding Weekly](https://tinyletter.com/marianoguerra/archive)
 - [Matt Frisbie](https://mattfrisbie.substack.com/archive)
+- [Rachel Andrew](https://csslayout.news/archive)
 
 ### Web performance
 
