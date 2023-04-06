@@ -6,7 +6,7 @@
 - https://twitter.com/lukego/status/632450443566780416
 - https://notes.eatonphil.com/book-review-ansi-common-lisp.html
 - https://mihaiolteanu.me/books.html
-- https://leanpub.com/lovinglisp
+- [Loving Common Lisp, or the Savvy Programmer's Secret Weapon | Mark Watson](https://leanpub.com/lovinglisp/read)
 - Learn Lisp The Hard Way: https://github.com/thephoeron/LLTHW, https://llthw.common-lisp.dev
 - https://leanpub.com/lispweb
 
@@ -15,7 +15,7 @@
 - https://www.youtube.com/c/LondonClojurians/playlists
 - ["Stop Writing Dead Programs" by Jack Rusher](https://twitter.com/awbjs/status/1579900617308655616)
 
-### Community 
+### Community
 
 - https://github.com/GustavBertram/learn-lisp
 - https://github.com/GustavBertram/awesome-common-lisp-learning
@@ -33,7 +33,7 @@
 - https://huangxuan.me/2019/09/13/peter-john-landin
 - https://bernsteinbear.com/blog/lisp
 
-### Practice 
+### Practice
 
 - https://github.com/Kevinpgalligan/advent-of-code-2021
 - [Make a Lisp](https://github.com/kanaka/mal)
