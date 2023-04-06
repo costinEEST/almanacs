@@ -124,6 +124,7 @@
 - https://blog.includesecurity.com/2016/08/introducing-safeurl-a-set-of-ssrf-protection-libraries
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure
 - https://adepts.of0x.cc/decrypt-nu-coder
+- https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
 
 ### Miscellaneous
 

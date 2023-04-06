@@ -173,6 +173,7 @@
 - [How to Build a Transistor](https://twitter.com/rbhar90/status/1367901014771126277)
 - https://www.youtube.com/playlist?list=PLra8hz8BV8EmpAXQvULfpwWHGT5yIr_7U
 - https://lcamtuf.substack.com/p/random-objects-nuvistor
+- https://lcamtuf.substack.com/p/building-a-decent-microphone-amplifier
 
 ### Playground
 

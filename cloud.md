@@ -60,6 +60,8 @@
 - [Building Software Platforms A guide to SaaS transition with AWS | Pablo Bermejo](https://leanpub.com/software-platforms)
 - [Lambda Cold Starts analysis, updated daily](https://github.com/maxday/lambda-perf)
 - https://www.linkedin.com/posts/noureldin-ehab-a57940190_awssecurity-awswellarchitected-securitylabs-activity-7048374255549333504-itVq
+- https://github.com/aws-samples/amazon-cognito-passwordless-auth
+- https://theburningmonk.com/2023/03/implementing-magic-links-with-amazon-cognito-a-step-by-step-guide
 
 ### Azure
 

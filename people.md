@@ -1,4 +1,4 @@
-### Black people 
+### Black people
 
 - https://www.facebook.com/saved/?list_id=7724644657610476
 - https://www.caseyliss.com/2021/3/1/black-history-month
@@ -15,7 +15,6 @@
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUf5L0Iv0UtsWkaXQGjEUGYa
-
 
 ### Albert Einstein
 
@@ -97,7 +96,6 @@
 
 - https://www.amazon.com/Bit-Player-John-Hutton/dp/B08D291YQS
 
-
 ### Chris Sacca
 
 - https://twitter.com/sacca/status/1447600320205529089
@@ -152,10 +150,11 @@
 
 - https://www.forbes.com/sites/michaeldelcastillo/2022/04/27/edward-snowden-revealed-as-key-participant-in-mysterious-ceremony-creating-2-billion-anonymous-cryptocurrency
 
-### Elon Musk 
+### Elon Musk
 
 - [Elon Musk takes control of Twitter in $44bn deal](https://www.bbc.com/news/technology-63402338)
 - https://ckarchive.com/b/e5uph7hp2ke9k
+- https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai
 
 ### Herodotus
 
@@ -172,16 +171,14 @@
 
 - https://blakeir.com/notes/john-collison-stripe
 
-
 ### Jordan Peterson
 
 - https://github.com/azer/notebook/blob/master/maps-of-meaning.md
 - https://tim.blog/2021/03/01/jordan-peterson
 
-
 ### Laura Kövesi
 
-- https://www.spiegel.de/international/europe/europe-s-top-prosecutor-brings-in-more-money-than-she-spends-a-ce2edb60-53a7-42ce-9b13-5dc78ec6aa76 
+- https://www.spiegel.de/international/europe/europe-s-top-prosecutor-brings-in-more-money-than-she-spends-a-ce2edb60-53a7-42ce-9b13-5dc78ec6aa76
 
 ### Patrick Collison
 
@@ -241,7 +238,7 @@
 
 - https://twitter.com/iantay_/status/1375945517486669824 + https://www.notion.so/blog/a-roundtable-on-richard-hamming
 
-### Richard Feynman 
+### Richard Feynman
 
 - https://twitter.com/memcculloch/status/1413137867275046918
 
@@ -307,14 +304,14 @@
 
 - https://twitter.com/curiouswavefn/status/1589123678595616768
 
-### Otto Rank (1884-1939; psychoanalyst, writer, and philosopher) 
+### Otto Rank (1884-1939; psychoanalyst, writer, and philosopher)
 
 - https://archives.upenn.edu/collections/finding-aid/upt50r198
 
 ### Werner Heisenberg
 
 - https://koaha.org/wiki/Werner_Heisenberg
-- https://twitter.com/search?q=from%20%40curiouswavefn%20werner%20heisenberg&src=typed_query 
+- https://twitter.com/search?q=from%20%40curiouswavefn%20werner%20heisenberg&src=typed_query
 - https://twitter.com/search?q=from%20%40phalpern%20werner%20heisenberg&src=typed_query
 - https://www.google.com/search?q=Edward+Teller+Werner+Heisenberg
 - https://www.google.com/search?q=arnold+sommerfeld+werner+heisenberg
@@ -329,7 +326,7 @@
 - [Great Physicists: Werner Heisenberg - but you should not believe everything he said](https://www.youtube.com/watch?v=gjlvglChd1A&list=PLFdjtNRUXClhgSr3WqtWVfhVRguLXOwgX&index=6) + https://www.amazon.com/Quantum-Manjit-Kumar/dp/1848310358 + https://www.amazon.com/Uncertainty-Einstein-Heisenberg-Struggle-Science/dp/1400079969 + https://www.amazon.com/Quantum-Ten-Passion-Tragedy-Ambition/dp/0195369092 + https://www.amazon.com/Nazi-Science-Truth-German-Atomic/dp/0738205850 + https://www.amazon.com/Brighter-than-Thousand-Suns-Scientists/dp/0156141507 + https://www.amazon.com/Critical-Mass-Germany-Surrendered-Enriched/dp/1634241177 + https://www.amazon.com/Physics-Beyond-Werner-Heisenberg/dp/0049250086 + https://www.google.com/search?q=standard+model+of+fundamental+particles+and+interactions + http://tid.uio.no/epf/mirror/standard_model_sum.html
 - https://www.amazon.com/Heisenbergs-War-Secret-History-German/dp/0306810115
 - https://www.amazon.com/Crafting-Quantum-Sommerfeld-Transformations-Technology/dp/0262013738
-- [Uncertainty: the Life and Science of Werner Heisenberg | David C. Cassidy](https://en.wikipedia.org/wiki/Uncertainty_(book))
+- [Uncertainty: the Life and Science of Werner Heisenberg | David C. Cassidy](<https://en.wikipedia.org/wiki/Uncertainty_(book)>)
 - [Beyond Uncertainty: Heisenberg, Quantum Physics, and the Bomb | David C. Cassidy](https://en.wikipedia.org/wiki/Beyond_Uncertainty)
 - https://www.amazon.com/Helgoland-Making-Sense-Quantum-Revolution/dp/0593328884
 - [When We Cease to Understand the World by Benjamín Labatut](https://twitter.com/philipcball/status/1448742661519720452)
@@ -342,11 +339,9 @@
 - https://youtu.be/L5WOnYB2-o8
 - https://blog.patternsinthevoid.net/famous-physicists-on-mysticism-2-the-debate-between-plato-and-democritus-by-werner-heisenberg.html
 
-
 ### Niels Henrik David Bohr
 
 - https://youtu.be/qwEheAf3k60
-
 
 ### Miscellaneous
 
@@ -372,7 +367,7 @@
 - https://github.com/rekihattori/awesome-programmers
 - https://memoryandconscience.eu/centuryofmartyrs
 
-### Paul Graham 
+### Paul Graham
 
 - https://stopa.io/post/294
 
@@ -380,7 +375,7 @@
 
 - https://dilemaveche.ro/sectiune/societate/articol/ulise-in-tesatura-topografiilor-simbolice
 
-### Vladimir Oane 
+### Vladimir Oane
 
 - https://twitter.com/vladimiroane/status/1554010829950959618
 

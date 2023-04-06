@@ -16,7 +16,7 @@
 - https://pqina.nl/blog/compress-image-before-upload
 - https://www.macarthur.me/posts/serving-notion-presigned-images-with-cloudflare
 
-### Book 
+### Book
 
 - [Physically Based Rendering: From Theory To Implementation | Matt Pharr, Wenzel Jakob, and Greg Humphreys](https://github.com/mmp/pbr-book-website)
 - https://www.goodreads.com/book/show/37499024-understanding-photography
@@ -29,7 +29,7 @@
 - https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books
 - https://www.blind-magazine.com/stories/revisiting-susan-sontag
 
-### Cinema 
+### Cinema
 
 - [Lectures on Digital Photography | Marc Levoy](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i)
 - [Understanding Cameras & Optics](https://www.youtube.com/playlist?list=PL6rx9p3tbsMtyBSl6ihtZ5kv8Kuib3Hbu)
@@ -43,7 +43,7 @@
 - https://www.industrialempathy.com/posts/avif-webp-quality-settings + https://twitter.com/cramforce/status/1363182846731382790
 - https://www.zachleat.com/web/vector-raster-split + https://twitter.com/zachleat/status/1430944481965182976
 
-### Historic 
+### Historic
 
 - [Photography | Technology Connections](https://www.youtube.com/playlist?list=PLv0jwu7G_DFV6yW240e6CbiwCLaZ0Z6PV)
 
@@ -71,6 +71,7 @@
 - https://github.com/collections/pixel-art-tools
 - [Colorize your photos for free](https://palette.fm)
 - [Compare James Webb Space Telescope images to older images](https://github.com/JohnEdChristensen/WebbCompare)
+- [A very compact representation of an image placeholder](https://github.com/evanw/thumbhash)
 
 ### Photo
 
@@ -85,6 +86,6 @@
 
 - https://github.com/barrracud4/image-upload-exploits + https://book.hacktricks.xyz/pentesting-web/file-upload + https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/File_upload_bugs.xmind
 
-### Radio 
+### Radio
 
 - https://podcast.oddly-influenced.dev/episodes/analogies

@@ -29,6 +29,7 @@
 - https://goingbeyondgrep.com/posts/learning-codeql
 - https://goingbeyondgrep.com/posts/a-deeper-look-at-modern-sast-tools
 - https://github.blog/2023-03-09-multi-repository-variant-analysis-a-powerful-new-way-to-perform-security-research-across-github
+- [How Semgrep and Nuclei Are Shaping the Future of Security Engineering](https://dualuse.io/blog/harnessing-the-hive-mind)
 
 ### Radio
 

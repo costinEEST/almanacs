@@ -99,6 +99,8 @@
 - https://github.com/jamiehannaford/what-happens-when-k8s
 - https://twitter.com/oliverjumpertz/status/1318082918896500746
 - https://twitter.com/marcosnils/status/1487459804255764486
+- https://github.com/stars/raesene/lists/kubernetes
+- https://github.com/jatrost/awesome-kubernetes-threat-detection
 - https://github.com/ciriarte/pank8s + https://pank8s.dev
 - http://blog.boreas.ro/2018/08/learn-cloud-native-docker-k8s-istio.html
 - https://github.com/fhsinchy/kubernetes-handbook-projects

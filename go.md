@@ -2,7 +2,7 @@
 
 - [Go Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/goDataStructures)
 
-### API 
+### API
 
 - https://github.com/bxcodec/go-clean-arch
 - https://github.com/evrone/go-clean-template
@@ -30,12 +30,12 @@
 - https://github.com/dgryski/go-perfbook
 - https://github.com/teivah/100-go-mistakes
 - https://github.com/chai2010/go-ast-book
+- https://github.com/Apress/Kubernetes-Programming-with-Go-by-Philippe-Martin
 
 ### Boots
 
 - https://smarx.com/posts/2020/09/shove-it-up-your-bot-an-intro-to-slack-bots + https://github.com/smarx/shoveitupyourbot
 - [A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.](https://github.com/thrasher-corp/gocryptotrader)
-
 
 ### Course
 
@@ -52,14 +52,14 @@
 - https://github.com/jub0bs/go-course-advanced
 - https://github.com/bootdotdev/curriculum
 
-### Community 
+### Community
 
 - https://twitter.com/notshenetworks/status/1605218422430007296
 - https://t.me/HowToGoWrong
 - https://twitter.com/i/communities/1493637136502960134
 - https://www.twilio.com/blog/2016/02/how-alan-shreve-built-ngrok-with-go.html
 
-### Compiler 
+### Compiler
 
 - https://github.com/KpLi0rn/LearnCompiler/tree/main/GoCompiler
 
@@ -78,8 +78,6 @@
 
 - https://github.com/TheAlgorithms/Go
 - https://github.com/Alevsk/itc-coding-questions
-
-
 
 ### Development
 
@@ -107,12 +105,11 @@
 - https://mattbutterfield.com/blog/2021-05-02-adding-video-chat
 - [For book summaries](https://github.com/ejamesc/grepbook)
 
-
 ### Distributed systems
 
 - https://newsletter.goodtechthings.com/p/calm-down-about-service-weaver
 
-### Interpreter 
+### Interpreter
 
 - https://github.com/amirgamil/lispy
 
@@ -151,7 +148,7 @@
 - [Download Youtube Video in Golang](https://github.com/kkdai/youtube)
 - [A node.js version management utility for Windows](https://github.com/coreybutler/nvm-windows)
 - [Simple file sharing from the browser and the command-line](https://github.com/schollz/share)
-־ [Is there a good type-preserving typescript/ecamscript parser written in golang?](https://twitter.com/kdy1dev/status/1484428024187523073)
+  ־ [Is there a good type-preserving typescript/ecamscript parser written in golang?](https://twitter.com/kdy1dev/status/1484428024187523073)
 - [jq for binary formats](https://github.com/wader/fq)
 - [HTTPLabs let you inspect HTTP requests and forge responses](https://github.com/qustavo/httplab)
 - https://github.com/kirillshevch/raindrop_to_notion
@@ -175,7 +172,7 @@
 - [Go on hardware: TinyGo in the wild](https://twitter.com/GoTimeFM/status/1443592475990388738)
 - https://anchor.fm/hacker-talk/episodes/Golang-Malware-with-Ben-Kurtz-Part-1-e1fqg5b
 
-### Cheat sheet 
+### Cheat sheet
 
 - [Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place.](https://github.com/hoanhan101/ultimate-go)
 - [The ecosystem of the Go programming language](https://henvic.dev/posts/go)
@@ -217,7 +214,7 @@
 - https://kdy1.dev/posts/2022/1/tsc-go + https://twitter.com/kdy1dev/status/1486017661267955713
 - [Sustainability with Rust](https://twitter.com/_rsc/status/1496352325157457922)
 
-### Scrapping 
+### Scrapping
 
 - [View hidden information in airline reservations](https://github.com/iangcarroll/pnrsh)
 
@@ -228,7 +225,7 @@
 - https://posts.specterops.io/malware-development-pt-1-dynamic-module-loading-in-go-1121f07f3a5a
 - [Golang security checker](https://github.com/securego/gosec)
 
-### Static website 
+### Static website
 
 - https://github.com/dstotijn/golang-nextjs-portable
 - [A static site generator for capturing quick notes](https://github.com/senorprogrammer/til)

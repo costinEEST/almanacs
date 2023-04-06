@@ -392,6 +392,7 @@
 
 ### Event loop
 
+- https://www.builder.io/blog/visual-guide-to-nodejs-event-loop
 - https://davidhettler.net/blog/event-loop-lag
 - https://github.com/lrlna/sketchin/blob/master/zines/js-event-loop.md
 - https://whistlr.info/2021/block-nodejs-main-thread

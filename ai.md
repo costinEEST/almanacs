@@ -165,6 +165,7 @@
 ### ChatGPT
 
 - [Building Startups with an AI Co-Founder](https://github.com/jtmuller5/The-HustleGPT-Challenge)
+- https://github.com/logankilpatrick/ChatGPT-Plugins-Collection
 - [get familiar with LLMs](https://twitter.com/oanaolt/status/1614697470650638337) + https://stanford-cs324.github.io/winter2022 + https://arxiv.org/abs/2108.07258
 - https://systemsapproach.substack.com/p/putting-large-language-models-in
 - https://app.gumroad.com/d/1dff6753fb21e2e05e1e42cee5fefa04
@@ -174,6 +175,7 @@
 - [A git prepare-commit-msg hook for authoring commit messages with GPT-3](https://github.com/zurawiki/gptcommit)
 - https://github.com/humanloop/awesome-chatgpt
 - https://www.youtube.com/@bakztfuture/playlists
+- https://github.com/morpheuslord/GPT_Vuln-analyzer
 - [Building a Virtual Machine Inside ChatGPT](https://news.ycombinator.com/item?id=33847479) + https://twitter.com/317070/status/1599152176344928256
 - [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
 - https://github.com/stars/FanaHOVA/lists/llm-chaining

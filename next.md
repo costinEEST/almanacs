@@ -10,6 +10,8 @@
 
 ### Cheat sheet
 
+- https://joshmo.hashnode.dev/nextjs-and-rust-an-innovative-approach-to-full-stack-development
+
 ### Demo
 
 - [An open-source link shortener with built-in analytics + free custom domains](https://github.com/steven-tey/dub)
