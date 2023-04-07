@@ -84,8 +84,9 @@
 ### Cheat sheet
 
 - https://devtut.github.io/ruby
-- https://programming-idioms.org/cheatsheet/Ruby/C
+- https://github.com/rubocop/rails-style-guide
 - https://github.com/andremedeiros/ruby-c-cheat-sheet
+- https://programming-idioms.org/cheatsheet/Ruby/C
 - https://programming-idioms.org/cheatsheet/Ruby/Python
 - https://programming-idioms.org/cheatsheet/Ruby/Lua
 - https://programming-idioms.org/cheatsheet/Ruby/Go

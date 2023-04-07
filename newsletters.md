@@ -73,6 +73,7 @@
 
 ### Artificial intelligence
 
+- [Nathan Benaich](https://nathanbenaich.substack.com/archive)
 - [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)
 - [True Positive Weekly](https://aiweekly.substack.com/archive)
 - [Davis Blalock](https://dblalock.substack.com/archive)
@@ -113,6 +114,7 @@
 - [Ben Erez](https://benerez.substack.com/archive)
 - [Michelle Lim](https://us2.campaign-archive.com/home/?u=cf007b8800f2adebe180e8078&id=6540dfdf5c)
 - [Alexey Guzey](https://buttondown.email/guzey/archive)
+- [The Twenty Minute VC](https://us9.campaign-archive.com/home/?u=26978998bec6ed24bec1e7831&id=efc94e0ecb)
 
 ### Marketing
 
