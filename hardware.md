@@ -273,6 +273,7 @@
 - [Scots Army Knife for electronics](https://github.com/GlasgowEmbedded/glasgow)
 - https://nelsonslog.wordpress.com/2023/01/03/ups-battery-replacements-by-size
 - https://patternsinthemachine.net/2023/01/tshell-a-command-line-interface-for-embedded-applications
+- http://lushprojects.com/circuitjs/circuitjs.html
 
 ### History
 

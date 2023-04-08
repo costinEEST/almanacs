@@ -234,6 +234,7 @@
 
 ### Non fungible token (NFT)
 
+- https://blog.dshr.org/2023/04/how-bubbles-are-blown.html
 - https://cdixon.org/2021/02/27/NFTs-and-a-thousand-true-fans
 - https://blakeir.com/blog/full-time-fan
 - https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053

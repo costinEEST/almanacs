@@ -30,3 +30,4 @@
 - https://github.com/batuhankutluca/Malicious-Powershell-Samples
 - [Checks and hardens your Windows configuration](https://github.com/scipag/HardeningKitty)
 - https://www.grc.com/miscfiles/LastPassVault.zip + https://www.grc.com/sn/SN-905-Notes.pdf
+- https://github.com/Hackplayers/PsCabesha-tools

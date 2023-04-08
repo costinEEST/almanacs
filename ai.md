@@ -166,6 +166,8 @@
 
 - [Building Startups with an AI Co-Founder](https://github.com/jtmuller5/The-HustleGPT-Challenge)
 - https://github.com/logankilpatrick/ChatGPT-Plugins-Collection
+- [Talk to your codebase](https://github.com/shobrook/adrenaline)
+- [A review bot that can leave PR comments and reviews](https://github.com/vladnicula/github-review-bot)
 - [get familiar with LLMs](https://twitter.com/oanaolt/status/1614697470650638337) + https://stanford-cs324.github.io/winter2022 + https://arxiv.org/abs/2108.07258
 - https://systemsapproach.substack.com/p/putting-large-language-models-in
 - https://app.gumroad.com/d/1dff6753fb21e2e05e1e42cee5fefa04

@@ -286,6 +286,7 @@
 
 ### Unicode
 
+- [Quick and easy browsing of the over 20,000 supported emoji mashups as part of Google's Emoji Kitchen](https://github.com/xsalazar/emoji-kitchen)
 - https://github.com/sindresorhus/is-unicode-supported
 - [Using untranslatable Unicode in place of a "?" when attacking URL parsers for SSRF/OAuth issues.](https://twitter.com/samwcyo/status/1246997498981494784)
 - https://medium.com/swlh/hacking-the-web-with-unicode-73d0f0c97aab
