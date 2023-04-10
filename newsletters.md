@@ -314,6 +314,7 @@
 - [Future of Coding Weekly](https://tinyletter.com/marianoguerra/archive)
 - [Matt Frisbie](https://mattfrisbie.substack.com/archive)
 - [Rachel Andrew](https://csslayout.news/archive)
+- [Denis Nuțiu](https://nuculabs.dev/archive)
 
 ### Web performance
 

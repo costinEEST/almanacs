@@ -85,6 +85,7 @@
 
 ### Debugging
 
+- https://github.com/wwong99/pentest-notes/tree/master/buffer_overflow/assembly
 - [Case studies of difficult bugs and how they were tracked down](https://twitter.com/aluhrs13/status/1557044379797188608)
 - https://fasterthanli.me/videos/cpp-vs-rust-which-is-faster
 

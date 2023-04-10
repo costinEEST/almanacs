@@ -367,3 +367,4 @@
 - https://cmichel.io/how-to-become-a-smart-contract-auditor + https://twitter.com/cmichelio/status/1454471156157886478
 - https://mudit.blog/twitter-threads + https://mudit.blog/live-stream-auditing-smart-contracts
 - [Damn Vulnerable DeFi | Blue Alder](https://www.youtube.com/playlist?list=PLwHGiYB583YuDoAjKPDfYMKOmuFIGJCnW) + https://github.com/BlueAlder/defi-frontrunning-challenge
+- [Patterns for decentralized protocols and applications](https://github.com/simplysecure/dots-patterns)

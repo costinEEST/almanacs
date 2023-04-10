@@ -17,6 +17,7 @@
 - https://www.amazon.com/Term-Rewriting-That-Franz-Baader-ebook/dp/B00KILLKT6
 - https://lists.eatonphil.com/book-recommendations.html
 - https://www.goodreads.com/en/book/show/28448362-writing-without-bullshit
+- https://www.manning.com/books/how-computers-make-books
 
 ### Cheat sheet
 

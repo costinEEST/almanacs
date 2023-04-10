@@ -106,6 +106,7 @@
 - [Get random, accessible color combinations](https://github.com/components-ai/randoma11y)
 - [Traité des couleurs servant à la peinture à l’eau | A. Boogert](https://www.thisiscolossal.com/2014/05/color-book)
 - [Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space](https://github.com/meodai/poline) + https://news.ycombinator.com/item?id=34662722 + https://elastiq.notion.site/elastiq/Color-My-Journey-Through-the-Spectrum-2cfd8dc540474b1c9ef381b9a3bc0f8e + https://www.youtube.com/@meodai/playlists?view=1&sort=lad&flow=grid
+- https://biblioteca-digitala.ro/?pub=6191-analiza-structurala-a-vocabularului-limbii-romane-contemporane-numele-de-culori
 
 ### Community
 

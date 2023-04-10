@@ -37,3 +37,4 @@
 ### Watch
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUe0b-FOvDYr0vKJHYLX3SP1
+- https://www.freecodecamp.org/news/create-a-personal-website-with-next-js-13-sanity-io-tailwindcss-and-typescript
