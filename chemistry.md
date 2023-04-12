@@ -17,9 +17,9 @@
 - https://futurism.com/the-byte/quantum-charge-electric-cars
 - https://www.youtube.com/c/JulianIlett/playlists
 - https://www.bbc.com/future/article/20220511-can-gravity-batteries-solve-our-energy-storage-problems
-https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute
-https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013 + https://www.youtube.com/playlist?list=PLUl4u3cNGP63zDO4gelZKdchvCO1B_Hg9
-https://inquisitivebiologist.com/2023/01/11/book-review-lithium-the-global-race-for-battery-dominance-and-the-new-energy-revolution
+  https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute
+  https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013 + https://www.youtube.com/playlist?list=PLUl4u3cNGP63zDO4gelZKdchvCO1B_Hg9
+  https://inquisitivebiologist.com/2023/01/11/book-review-lithium-the-global-race-for-battery-dominance-and-the-new-energy-revolution
 - [Project Sunroof](https://news.ycombinator.com/item?id=34699395)
 
 ### Book
@@ -29,6 +29,8 @@ https://inquisitivebiologist.com/2023/01/11/book-review-lithium-the-global-race-
 - https://www.amazon.com/Elements-Visual-Exploration-Every-Universe-ebook/dp/B011IZNWZU + https://www.amazon.com/Molecules-Architecture-Everything-Theodore-Gray-ebook/dp/B01FRASA5O + https://www.amazon.com/Reactions-Illustrated-Exploration-Elements-Molecules-ebook/dp/B01N6ZBGUB
 - [Coloring the Cosmetic World: Using Pigments in Decorative Cosmetic Formulations | Edwin B. Faulkner](https://www.wiley.com/en-ie/Coloring+the+Cosmetic+World:+Using+Pigments+in+Decorative+Cosmetic+Formulations,+2nd+Edition-p-9781119558101)
 - https://www.amazon.com/Geochronology-Thermochronology-Wiley-Works-Reiners/dp/1118455789
+- https://biblioteca-digitala.ro/?domeniu=1124-chimie
+- https://biblioteca-digitala.ro/?domeniu=1123-biochimie
 
 ### Cinema
 
@@ -58,7 +60,7 @@ https://inquisitivebiologist.com/2023/01/11/book-review-lithium-the-global-race-
 - https://hardware.slashdot.org/story/17/04/19/016213/the-slashdot-interview-with-lithium-ion-battery-inventor-john-b-goodenough
 - https://wis-wander.weizmann.ac.il/chemistry/kavli-prize-awarded-prof-jacob-sagiv
 - [Mark Anticole](https://guillotinedchemistry.com)
-
+- https://github.com/lmmentel/awesome-python-chemistry
 
 ### Miscellaneous
 
@@ -105,4 +107,3 @@ https://inquisitivebiologist.com/2023/01/11/book-review-lithium-the-global-race-
 - [Cell Siders](https://open.spotify.com/show/2I2gNULTcq4MxEfJ8zu0uR)
 - https://anchor.fm/battery-associates
 - https://www.chemistryworld.com/podcasts/bookclub
-

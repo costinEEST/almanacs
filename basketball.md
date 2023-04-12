@@ -14,8 +14,8 @@
 - [The Complete History and Strategy of The NBA](https://www.acquired.fm/episodes/the-nba)
 - [World's 1st Portable Shooting Machine | GRIND](https://www.youtube.com/watch?v=kSRKamAZYTc)
 - [Sports Mix 28M](https://www.youtube.com/channel/UCMYgbgGWLJdwDpblww1U4qw/playlists)
+- https://www.youtube.com/@Professorlive/playlists?view=1&sort=lad&flow=grid
 
-
-### Tool 
+### Tool
 
 - https://github.com/zanderchase/nba-player-compatibility

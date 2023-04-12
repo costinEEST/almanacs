@@ -3,7 +3,6 @@
 - https://twitter.com/siaw23/status/1541028458838507520
 - https://github.com/ChrisBr/oauth2-sample-app
 - [Best Gems for authentication and authorization in Ruby on Rails applications](https://twitter.com/raf_piek/status/1502598704334733314)
-- https://github.com/lazaronixon/authentication-zero
 - https://www.osohq.com/post/learn-authorization-from-rails
 - [Authentication for your Rails app without the icky-ness of passwords](https://github.com/mikker/passwordless)
 - [An authentication system generator for Rails applications](https://github.com/lazaronixon/authentication-zero)

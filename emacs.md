@@ -3,7 +3,6 @@
 - https://github.com/Boruch-Baum/emacs-crossword + https://news.ycombinator.com/item?id=25829851
 - https://github.com/serras/emacs-haskell-tutorial
 
-
 ### Cinema
 
 - [Emacs Meetups - thoughtbot](https://www.youtube.com/playlist?list=PL8tzorAO7s0he-pp7Y_JDl7-Kz2Qlr_Pj)
@@ -41,3 +40,4 @@
 - https://github.com/misohena/el-easydraw
 - [Obsidian Notes for Emacs](https://github.com/licht1stein/obsidian.el)
 - [Natural Language Search Assistant for your Org-Mode and Markdown notes](https://github.com/debanjum/khoj)
+- [ChatGPT and DALL-E Emacs shells + Org babel + a shell maker for other providers](https://github.com/xenodium/chatgpt-shell)

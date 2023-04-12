@@ -26,6 +26,10 @@
 - https://github.com/PacktPublishing/Test-Driven-iOS-Development-with-Swift-Fourth-Edition
 - https://github.com/mgp/effective-swift
 
+### Bot
+
+- http://www.alexisgallagher.com/talks/talkingtoswift
+
 ### Course
 
 - https://www.hackingwithswift.com/100/swiftui

@@ -42,6 +42,8 @@
 - https://github.com/sustrik/crypto-for-kids
 - https://www.amazon.com/Small-Book-Random-Numbers/dp/1452818363
 - [Craig Gentry, Fully homomorphic encryption using ideal lattices](https://crypto.stanford.edu/craig)
+- https://www.manning.com/books/secret-key-cryptography
+- https://www.manning.com/books/real-world-cryptography
 
 ### Course
 

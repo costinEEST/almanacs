@@ -54,6 +54,7 @@
 - https://youtu.be/bPcTIJejnFs + https://github.com/dani-garcia/vaultwarden
 - [Advent of Code 2022](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBNTifxm5ADY65SkAdwoQiL)
 - https://github.com/Me163/youtube
+- [Privacy-Enhancing Techniques with Cryptographic Games](https://www.manning.com/liveprojectseries/cryptographic-games-ser)
 
 ### Community
 

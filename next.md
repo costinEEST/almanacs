@@ -7,6 +7,12 @@
 - https://github.com/ryanto/next-s3-upload
 - [A Customizable Obsidian Publish alternative](https://github.com/matthewwong525/linked-blog-starter)
 - https://github.com/jherr/notetaker
+- [Transcribing & Translating My Vlogs into Japanese](https://github.com/craftzdog/vlog-translator)
+- https://github.com/mckaywrigley/ai-code-translator
+- [A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS](https://github.com/mckaywrigley/chatbot-ui-lite)
+- https://github.com/mckaywrigley/paul-graham-gpt
+- https://github.com/mckaywrigley/wait-but-why-gpt
+- https://www.linkedin.com/posts/aleksagordic_andrew-huberman-transcripts-activity-7022944124416720896-oKed + https://twitter.com/gordic_aleksa/status/1608121899883679751
 
 ### Cheat sheet
 

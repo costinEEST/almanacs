@@ -208,8 +208,9 @@ javascript: (() =>
 - [An HTTP Web Server for Chrome (chrome.sockets API)](https://github.com/kzahel/web-server-chrome)
 - https://github.com/janodvarko/webext-websocket-monitor
 - [Chromebook app for forwarding connections from/to different ports and interfaces (or to internal android IP)](https://github.com/kzahel/connection-forwarder)
-- [A browser extension for custom keyboard shortcuts ](https://github.com/mikecrittenden/shortkeys)
+- [Custom keyboard shortcuts](https://github.com/mikecrittenden/shortkeys)
 - [Discover hidden debugging parameters and uncover web application secrets](https://github.com/devploit/debugHunter)
+- [augments your ChatGPT prompts with web results](https://github.com/qunash/chatgpt-advanced)
 - https://github.com/pandawing/node-chrome-web-store-item-property
 - https://github.com/infokiller/web-search-navigator
 - [Browser Extension to full-text search your browsing history & bookmarks.](https://github.com/WorldBrain/Memex)

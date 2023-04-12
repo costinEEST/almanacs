@@ -46,6 +46,7 @@
 - https://github.com/kevinheavey/modern-polars
 - [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/cosmicpython/book)
 - https://github.com/mynameisfiber/high_performance_python_2e
+- https://www.manning.com/books/full-stack-python-security
 
 ### Bots
 
@@ -189,6 +190,7 @@
 - [Embed a highly customizable web calendar into your website using ICal source links](https://github.com/niccokunzmann/open-web-calendar)
 - https://github.com/anitab-org/mentorship-backend
 - https://gitlab.com/0xdf/aoc2022
+- [Utils for streaming large files (S3, HDFS, gzip, bz2...)](https://github.com/RaRe-Technologies/smart_open)
 
 ### Networking
 
@@ -213,6 +215,7 @@
 - https://levelup.gitconnected.com/developing-a-website-scraper-b7a78bb5544a
 - https://scrapism.lav.io + https://www.youtube.com/playlist?list=PLKDFNm2PsaCed7FP0uN5d2qWBAiJ0R7c9
 - https://github.com/Adithya93/webScraping
+- https://github.com/bri-bri/yosemite-camping
 - [Powerful and flexible Instagram scraping library for Python, providing easy-to-use and expressive tools for accessing data programmatically](https://github.com/chris-greening/instascrape)
 - https://github.com/KalmykAlex/emag_crawler
 - https://github.com/shengqiangzhang/examples-of-web-crawlers
@@ -284,6 +287,7 @@
 - https://github.com/Qazeer/OffensivePythonPipeline
 - https://www.sonarsource.com/blog/10-unknown-security-pitfalls-for-python
 - https://blog.abdulrah33m.com/prototype-pollution-in-python
+- [Module to store messages or files protected with AES-256 encryption inside an image](https://github.com/computationalcore/cryptosteganography)
 
 ### Server
 

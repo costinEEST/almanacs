@@ -16,12 +16,13 @@
 
 - https://www.youtube.com/playlist?list=PLoKM3Qfxoe0mTWQnjNghk2Ofzfp2x68zN
 
-### Historic 
+### Historic
 
 - https://www.usenix.org/publications/loginonline/transcending-posix-end-era
 
 ### Internals
 
+- [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 - [Understanding the bin, sbin, usr/bin , usr/sbin split.](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 - https://toroid.org/unix-pipe-implementation
 - https://papers.freebsd.org/2020/FOSDEM/losh-Hidden_early_history_of_Unix.files/slides.pdf
@@ -46,7 +47,6 @@
 - [A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day](https://github.com/cli-guidelines/cli-guidelines) + https://clig.dev
 - [Determining file versions using 'join' command](https://yurichev.com/news/20211016_join)
 
-
 ### Flavours
 
 - https://genneko.github.io/playing-with-bsd/hardware/freebsd-on-thinkpad-t480
@@ -59,7 +59,7 @@
 - [Comparison of Operating Systems](https://eylenburg.github.io/os_comparison.htm)
 - [Operating Systems: Timeline and Family Tree](https://eylenburg.github.io/os_familytree.htm)
 - [Default Desktop Environments for Linux and Unix](https://eylenburg.github.io/de_default.htm)
-- https://github.com/o-oconnell/minixfromscratch + https://github.com/o-oconnell/writeyourownos +  https://archive.org/details/tanenbaum_woodhull_operating-systems-design-implementation-3rd-edition
+- https://github.com/o-oconnell/minixfromscratch + https://github.com/o-oconnell/writeyourownos + https://archive.org/details/tanenbaum_woodhull_operating-systems-design-implementation-3rd-edition
 
 ### Tool
 
