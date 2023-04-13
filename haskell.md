@@ -8,6 +8,7 @@
 - https://github.com/rpeszek/notes-milewski-ctfp-hs
 - https://github.com/rpeszek/IdrisTddNotes
 - [Effective Haskell](https://twitter.com/cercerilla/status/1584919134424408068)
+- https://github.com/unclechu/purescript-for-haskellers
 
 ### Community
 

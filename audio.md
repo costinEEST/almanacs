@@ -68,6 +68,7 @@
 - [An online synthesizer with over 100 different instruments and unique drum patterns with dynamic sound kits.](https://midi.city)
 - [How Music Works. Interactive Music Theory Lessons](https://www.lightnote.co)
 - https://skins.webamp.org
+- [Decoding compact disc digital audio](https://github.com/carrotIndustries/redbook)
 - [Wave-share : Serverless, peer-to-peer, local file sharing through sound](https://github.com/ggerganov/wave-share) + https://twitter.com/binitamshah/status/1309833255181377536
 - [Orca synthesizer, a musical visual programming environment](https://youtu.be/RaI_TuISSJE) + https://100r.co/site/orca.html + https://www.youtube.com/playlist?list=PLb1uDATFJPcEEG3w715GzbD4AE232Pdcu
 - [Public API to transform youtube videos into mp3 and youtube channels into rss feeds.](https://github.com/yashha/youtube-mp3-rss-api)

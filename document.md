@@ -56,6 +56,7 @@
 
 - https://kodekloud.com/p/json-path-quiz
 - https://stackoverflow.com/questions/19109912/yaml-do-i-need-quotes-for-strings-in-yaml/22235064#22235064
+- https://twitter.com/lemire/status/1614725458402369536 + https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell
 
 ### .sam
 

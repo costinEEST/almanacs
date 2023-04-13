@@ -125,6 +125,7 @@
 - https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick + https://twitter.com/_can1357/status/1374209069137989633
 - [practice and experimental programs written in NASM assembly](https://github.com/humanshell/assembly)
 - [Examples for x86-64 System V](https://github.com/jlhonora/asm-examples)
+- https://github.com/Vierkantor/Lisp-Assembly
 
 ### Tool
 

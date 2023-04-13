@@ -66,6 +66,7 @@
 - https://arslan.io/2022/06/11/how-i-got-into-3d-printing
 - https://github.com/swisskyrepo/HardwareAllTheThings
 - https://www.quaxio.com/circuit_boards
+- [How can you communicate to your ikea tradfri gateway/hub through coap-client](https://github.com/glenndehaan/ikea-tradfri-coap-docs)
 
 ### Community
 
