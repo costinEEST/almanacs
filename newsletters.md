@@ -174,6 +174,10 @@
 - [Razib Khan](https://razib.substack.com/archive)
 - [Cornell Lab of Ornithology](https://us2.campaign-archive.com/home/?u=b35ddb671faf4a16c0ce32406&id=47588b5758)
 
+### Go 
+
+- [15 Days to Build a CLI with Go | Pericles Theodorou](https://15daysofgo.substack.com/archive)
+
 ### History
 
 - [Istros Books](https://us4.campaign-archive.com/home/?u=33d3c9258f5909052eb60647b&id=4b1e62c805)

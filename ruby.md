@@ -160,6 +160,7 @@
 - [Open Source Vlog | GoRails](https://www.youtube.com/playlist?list=PLm8ctt9NhMNU5ONbGecA2m-R0TPbFBttD)
 - https://www.destroyallsoftware.com/talks/boundaries
 - [Rails Instagram Clone Tutorials | Malacow](https://www.youtube.com/playlist?list=PLR8BLHNyVZDW-5crDl3unpGIqee5xSV48)
+- [A Rubyist's Walk Along the C-side (writing Ruby C extensions)](https://github.com/peterzhu2118/ruby-c-ext-code)
 
 ### Course
 

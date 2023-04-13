@@ -117,6 +117,7 @@
 - https://increment.com/software-architecture/primer-on-functional-architecture
 - https://katafrakt.me/2016/07/06/regular-expressions
 - [Captcha](https://csrc.nist.gov/glossary/term/completely_automated_public_turing_test_to_tell_computers_and_humans_apart)
+- https://github.com/slikts/concurrency-glossary
 
 ### Interview
 

@@ -20,6 +20,7 @@
 - [Instagram Private API](https://github.com/adw0rd/instagrapi)
 - [Abusing Reddit API to host the C2 traffic](https://github.com/kleiton0x00/RedditC2)
 - [Build Django 4 Web APIs with React](https://leanpub.com/djangoapi) + https://app.gumroad.com/d/1accf9ee5b5ffe1fe534b54ff57b8c65
+- https://github.com/minimaxir/hacker-news-undocumented
 
 ### Book
 
@@ -126,7 +127,6 @@
 - https://github.com/polyrand/learn/tree/main/lambda_calculus
 - https://marko-knoebl.github.io/slides/index.html
 - https://github.com/ForrestKnight/open-source-cs-python
-- https://www.freecodecamp.org/news/opencv-full-course
 - https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform
 - https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days
 - https://www.udemy.com/course/master-in-advance-python

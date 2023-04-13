@@ -168,6 +168,7 @@
 - https://github.com/pomber/git-history
 - https://github.com/tj/git-extras
 - [generate release PRs based on the conventionalcommits.org spec](https://github.com/googleapis/release-please)
+- [A git prepare-commit-msg hook for authoring commit messages with GPT-3](https://github.com/zurawiki/gptcommit)
 
 ### Security
 

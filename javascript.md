@@ -206,7 +206,7 @@
 
 ### coercion
 
-- https://github.com/dorey/JavaScript-Equality-Table
+- https://github.com/dorey/JavaScript-Equality-Table + [why you should prefer the `===` operator](https://github.com/slikts/js-equality-game)
 
 ### BigInt
 
@@ -509,7 +509,7 @@
 
 - [`const isMobile = 'capture' in HTMLInputElement.prototype`](https://twitter.com/WebReflection/status/1567359995917778945)
 
-### Web Components
+### Web components
 
 - https://www.abeautifulsite.net/posts/a-web-components-primer
 - https://github.com/web-padawan/webcomponents.today
@@ -557,6 +557,7 @@
 - https://github.com/ja0nz/bachelorarbeit
 - https://www.slideshare.net/bdelacretaz/vanillajs-the-web-platform-a-match-made-in-heaven
 - https://webkit.org/blog/13711/elementinternals-and-form-associated-custom-elements
+- [Triple linked list based DOM-like namespace, for DOM-less environments](https://github.com/WebReflection/linkedom)
 
 ### Testing
 

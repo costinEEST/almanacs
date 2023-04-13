@@ -90,6 +90,7 @@
 - [Learning Computer Architecture with Raspberry Pi](https://www.contrapositivediary.com/?p=3770)
 - https://brickexperimentchannel.wordpress.com/rc-submarine-4-0-blog-post-series
 - [A Pi Pico script for collecting CPU temperature reading in Supabase using a Deno function](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp) + https://twitter.com/TomasHubelbauer/status/1573064575305539585
+- [Raspberry Pi + High Quality Camera = High-quality USB Webcam](https://github.com/showmewebcam/showmewebcam)
 
 ### Smartwatch
 
