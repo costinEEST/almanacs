@@ -247,6 +247,7 @@
 - [Design+Code](https://us18.campaign-archive.com/home/?u=a35aff53a97607e9f85b40890&id=40f1857778)
 - [Marcin Wichary](https://newsletter.shifthappens.site)
 - [Denislav Zhelyazkov](https://us4.campaign-archive.com/home/?u=91c6911ed666ab5babcc9deaf&id=e4ea6ea9a3)
+- https://garyhustwit.substack.com/archive
 
 ### Data visualization
 

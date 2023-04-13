@@ -111,6 +111,7 @@
 - https://github.com/hadynz/obsidian-kindle-plugin
 - [A Jekyll template for creating books in multiple formats](https://github.com/electricbookworks/electric-book)
 - https://nelsonslog.wordpress.com/2023/02/02/wincompose-and-other-ways-to-type-unicode
+- https://artvsentropy.wordpress.com/2023/04/11/retro-writing-14-traveler-at-last
 
 ### Miscellaneous
 
