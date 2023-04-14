@@ -137,3 +137,7 @@
 - https://mtardy.com/posts/mario-injection
 - https://github.com/hexomethyl/minesweeper_internal
 - [Super Solvers: Gizmos & Gadgets](https://github.com/delan/reverssg)
+
+### Watch
+
+- https://www.udemy.com/course/complete-every-project-you-start-be-your-own-producer

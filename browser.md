@@ -376,6 +376,10 @@ javascript: (() =>
 - [Separate Firefox Dark UI theme from website dark mode](https://twitter.com/darek_kay/status/1468171089796911109)
 - https://github.com/MrOtherGuy/firefox-csshacks
 
+### Federated Credential Management API (FedCM)
+
+- https://textslashplain.com/2023/04/12/auth-flows-in-a-partitioned-world
+
 ### Geolocation API
 
 - https://daniel.fone.net.nz/blog/2020/09/14/geolocation-api-demo

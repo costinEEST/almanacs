@@ -275,6 +275,7 @@
 - https://nelsonslog.wordpress.com/2023/01/03/ups-battery-replacements-by-size
 - https://patternsinthemachine.net/2023/01/tshell-a-command-line-interface-for-embedded-applications
 - http://lushprojects.com/circuitjs/circuitjs.html
+- [A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers](https://github.com/samyk/magspoof)
 
 ### History
 

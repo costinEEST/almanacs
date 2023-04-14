@@ -167,6 +167,7 @@
 - [High performance, self-hosted, newsletter and mailing list manager with a modern dashboard](https://github.com/knadh/listmonk)
 - [Fast and lightweight Web Application Firewall Fingerprinting tool](https://github.com/Lu1sDV/wafme0w)
 - https://github.com/stars/SummerSec/lists/go-tools
+- https://zackproser.com/blog/chatgpt-4-experiment-ai-development + [A command line tool that tells you the size of anything you pass to it in bytes](https://github.com/zackproser/sizeof)
 
 ### Radio
 
@@ -214,6 +215,10 @@
 - https://dabase.com/blog/2022/strongly-typed-javascript
 - https://kdy1.dev/posts/2022/1/tsc-go + https://twitter.com/kdy1dev/status/1486017661267955713
 - [Sustainability with Rust](https://twitter.com/_rsc/status/1496352325157457922)
+
+### Server
+
+- [Go local docs server, a Go docs generator, and a Go code reader](https://github.com/go101/golds)
 
 ### Scrapping
 

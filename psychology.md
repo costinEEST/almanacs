@@ -5,6 +5,7 @@
 - https://www.amazon.com/Cheating-Deception-J-Bowyer-Bell/dp/088738868X
 - https://www.amazon.com/Secrets-Autistic-Millionaire-Everything-Aspergers-ebook/dp/B09KGF6685 + https://www.youtube.com/watch?v=TFjj9649Feo + https://youtu.be/l3l0uBtWk9g
 - https://www.cambridge.org/core/books/religion-and-the-meaning-of-life/2C118CBF40B68F288B9010457F78571E
+- [From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life | Arthur C. Brooks](https://kirbyferguson.ck.page/posts/whelp-i-struck-a-nerve-folks)
 
 ### Bias
 
@@ -16,7 +17,6 @@
 - [Course materials for Dartmouth course: Human Memory (PSYC 51.09)](https://github.com/ContextLab/human-memory)
 - [Origins of the Self w/ Bonnitta Roy](https://www.youtube.com/playlist?list=PLoZ5e3aD_LuQoDMmjnQApeqDS00iMxHBz)
 - https://www.bbc.com/reel/video/p09yyktf/why-do-men-rule-the-world-
-
 
 ### Community
 
@@ -43,7 +43,6 @@
 - [The difference between happiness, meaning, and true psychological richness](https://twitter.com/Julian/status/1482506906102943745) + https://www.apa.org/pubs/journals/releases/rev-rev0000317.pdf
 - https://medium.com/s/story/how-to-be-polite-9bf1e69e888c
 - https://jozsefkuszalik.wordpress.com/2022/10/11/antreprenoriat-analiza-ce-boala-mentala-am-eu-adhd-sau-bipolar-disorder-tulburare-bipolara
-
 
 ### Papers
 

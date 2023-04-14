@@ -75,6 +75,7 @@
 - [Build an Accessible React Component Series](https://www.youtube.com/playlist?list=PLOmKTF_wUDoydvtwWrzEw7DZ9VboV51py)
 - https://github.com/zpao/building-react-from-scratch
 - https://portal.gitnation.org/contents/remote-rendering-with-web-workers + https://shopify.engineering/remote-rendering-ui-extensibility
+- [Webxr with Three.js](https://www.youtube.com/playlist?list=PLpM_sf_d5YTPXeVp4cmgN_cNBj9pNTEmZ)
 
 ### Demo
 
@@ -204,6 +205,7 @@
 
 ### Component
 
+- https://elisehe.in/2023/03/27/minimal-html-in-design-systems.html
 - [Headless UI components](https://twitter.com/rauchg/status/1199157227677868032)
 - [Completely unstyled, fully accessible UI components](https://headlessui.dev)
 - https://github.com/jquense/react-widgets
