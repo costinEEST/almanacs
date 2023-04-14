@@ -257,6 +257,7 @@
 - [Youtube Scrapper in Python using Bs4](https://github.com/mahmoudamr512/PythonYoutubeScrapper)
 - [Download all Snapmaps content from a specific location](https://github.com/king-millez/snapmap-archiver)
 - https://www.freecodecamp.org/news/automate-excel-tasks-with-python
+- [Daily hacker news top stories. Subscribe the hackernews daily top stories by watching this repo](https://github.com/xueyuanl/daily-hackernews)
 
 ### Static website
 

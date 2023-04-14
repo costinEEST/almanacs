@@ -1,5 +1,6 @@
 ### Alternative
 
+- https://github.com/Elanis/web-to-desktop-framework-comparison
 - https://github.com/sudhakar3697/electron-alternatives
 - [A list of awesome packages and frameworks for implementing javascript applications on the desktop](https://github.com/styfle/awesome-desktop-js)
 - [Tauri: An Electron alternative written in Rust](https://news.ycombinator.com/item?id=26194990)
@@ -39,6 +40,7 @@
 - [CLI for managing the battery charging status for M1 Macs](https://github.com/actuallymentor/battery)
 - [AI Image upscaler for Linux, MacOS and Windows](https://github.com/upscayl/upscayl)
 - [A free and open source code snippets manager for developers](https://github.com/antonreshetov/massCode)
+- https://github.com/signalapp/Signal-Desktop
 
 ### Boilerplate
 

@@ -358,6 +358,7 @@
 - https://github.com/openstreetmap/openstreetmap-website
 - https://github.com/walski/Browser-Based-Game-Scaling-With-Rails
 - [A Ruby on Rails Event Scheduling App Tutorial from web-crunch.com](https://github.com/justalever/bookme_demo)
+- [Self-host your own Feedbin RSS reader in Docker](https://github.com/angristan/feedbin-docker)
 
 ### Internals
 

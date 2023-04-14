@@ -27,3 +27,4 @@
 - https://github.com/mundimark
 - [compilable markdown for linear algebra](https://github.com/iheartla/iheartla)
 - https://github.com/marcomontalbano/video-to-markdown
+- [Convert a Google Docs file (API response) to Markdown](https://github.com/AnandChowdhary/docs-markdown)

@@ -16,9 +16,9 @@
 - [A visual introduction to probability and statistics.](https://seeing-theory.brown.edu)
 - [Statistical Thermodynamics: Molecules to Machines | Venkat Viswanathan](https://www.coursera.org/learn/statistical-thermodynamics-cm)
 - https://decision.substack.com/p/statistics-the-complete-mini-course
+- https://github.com/rmcelreath/stat_rethinking_2022
 
-
-### Radio 
+### Radio
 
 - https://learnbayesstats.com
 

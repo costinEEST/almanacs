@@ -2,7 +2,7 @@
 
 - https://futurism.com/best-ebikes
 
-### Video camera 
+### Video camera
 
 - [The Ultimate Pocket Camera: Insta360 X3](https://youtu.be/H8PLt4lG-tY)
 - https://lcamtuf.substack.com/p/random-objects-the-petal-camera
@@ -42,7 +42,7 @@
 - https://twitter.com/akinncar/status/1438114099066458114
 - https://blog.royalsloth.eu/posts/best-tool-for-the-job
 - https://nuculabs.dev/2021/11/06/logitech-mx-keys-keyboard-review
-- https://www.evomag.ro/componente-pc-gaming-tastaturi-pc/logitech-tastatura-wireless-logitech-mx-keys-bluetooth-usb-layout-uk-negru-3803856.html 
+- https://www.evomag.ro/componente-pc-gaming-tastaturi-pc/logitech-tastatura-wireless-logitech-mx-keys-bluetooth-usb-layout-uk-negru-3803856.html
 - https://www.amazon.com/Freestyle-Ergonomic-Mechanical-Programmable-Adjustable/dp/B07CX9KQRQ
 - https://blog.albingroen.com/posts/my-ultimate-hacking-keyboard-review
 - https://www.johnhawthorn.com/2020/05/building-a-homemade-keyboard
@@ -50,6 +50,7 @@
 - https://github.com/stars/KingOfSpades/lists/mechanical-keyboards
 - https://github.com/BenRoe/awesome-mechanical-keyboard
 - [Keyboard Ninja - No Mouse, Keyboard Only | gotbletu](https://www.youtube.com/playlist?list=PLqv94xWU9zZ1cXfg3ED24G6RSt4NbFBfO)
+- https://github.com/diimdeep/awesome-split-keyboards
 
 ### Microphone
 
@@ -115,7 +116,6 @@
 - https://giuliomagnifico.blog/misc/2022/01/14/my-home-setup.html
 - https://www.backpacker.com/skills/navigation/how-to-use-a-compass
 - https://blog.albingroen.com/posts/2021-work-from-home-setup
-
 
 ### Webcam
 
