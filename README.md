@@ -12,6 +12,7 @@
 - [Android](android.md)
 - [Angular.js](angular.md)
 - [Animals](animals.md)
+- [Anki](anki.md)
 - [API](api.md)
 - [Apparel](apparel.md)
 - [Architecture](architecture.md)
