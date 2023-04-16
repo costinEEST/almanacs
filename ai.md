@@ -22,7 +22,6 @@
 - https://github.com/lyhue1991/eat_tensorflow2_in_30_days
 - https://mentorcruise.com/books/ml + https://news.ycombinator.com/item?id=23997301
 - https://builtin.com/data-science/data-science-books + https://news.ycombinator.com/item?id=23936249
-- https://twitter.com/EmilWallner/status/1314581326209613826
 - [The Hundred-Page Machine Learning Book by Andriy Burkov](http://themlbook.com) + https://news.ycombinator.com/item?id=25905899
 - [Data Science in Julia for Hackers](https://notamonadtutorial.com/how-we-wrote-a-hands-on-bayesian-data-science-book-in-6-months-a97c73a510b5)
 - [ Recurrent Attentive Neural Process for Time Series Clustering (Master Thesis)](https://docs.google.com/presentation/d/1anMlTRTguPB0dUG7t3u5dgV6xuAaU9XadWFFX_dn7oE)
@@ -64,7 +63,6 @@
 - https://github.com/src-d/awesome-machine-learning-on-source-code
 - https://github.com/mrdbourke/machine-learning-roadmap
 - https://medium.com/javascript-in-plain-english/ml-for-js-devs-in-10-minutes-46794782762e
-- https://twitter.com/EmilWallner/status/1301565902765293574
 - https://towardsdatascience.com/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f
 - https://github.com/dformoso/machine-learning-mindmap
 - [Visual Studio Code extension to quickly generate docstrings for Python functions using AI](https://github.com/graykode/ai-docstring)
@@ -114,7 +112,6 @@
 - https://laurencemoroney.com/2022/01/05/aiforanyone.html
 - https://github.com/dcetin/eth-cs-notes
 - https://github.com/zlotus/notes-LSJU-machine-learning
-- https://github.com/dair-ai/ML-YouTube-Courses
 - [Cornell CS5785: Applied Machine Learning | Fall 2020](https://github.com/Machine-Learning-Tokyo/AI_Curriculum#applied-machine-learning)
 - [Igo Math - Natural and Artificial Intelligence and the Game of Go](https://egri-nagy.github.io/igomath)
 - https://github.com/frnsys/ai_notes
@@ -256,7 +253,6 @@
 ### Tool
 
 - [Curated list of libraries for a faster machine learning workflow](https://amitness.com/toolbox)
-- https://github.com/dair-ai/ML-Notebooks
 - [Recommender systems (or recommendation engines)](https://github.com/grahamjenson/list_of_recommender_systems)
 - [Otto is an intelligent chat application, designed to help aspiring machine learning engineers go from idea to implementation with minimal domain knowledge.](https://github.com/KartikChugh/Otto)
 - https://calv.info/gpt-3-real-magic + https://twitter.com/calvinfo/status/1286332337563684865
@@ -302,7 +298,6 @@
 - [Personalized Recommendation system with Python](https://github.com/kizoey/book-personal-recommendation)
 - [Deep Learning | João Araújo](https://www.youtube.com/playlist?list=PL-iSnl3GkU0d7CVxHDVKSkfhtFujIjbfh)
 - https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
-- https://github.com/Atcold/pytorch-Deep-Learning
 - [Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 - https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
 - [notes for training better deep learning models](https://github.com/google-research/tuning_playbook)
@@ -317,7 +312,6 @@
 
 ### Paper
 
-- https://github.com/dair-ai/ML-Papers-Explained
 - [Software engineering for artificial intelligence and machine learning software: A systematic literature review](https://arxiv.org/ftp/arxiv/papers/2011/2011.03751.pdf)
 - [Towards the First Machine Translation System for SumerianTransliterations](https://www.aclweb.org/anthology/2020.coling-main.308.pdf)
 - https://github.com/louisfb01/best_AI_papers_2022
@@ -330,7 +324,6 @@
 
 ### Demo
 
-- https://github.com/emilwallner/Screenshot-to-code
 - [Using AI and machine learning to help with Quran memorization and recitation.](https://twitter.com/caveheraa/status/1215787383494332416)
 - [An adblocker for live radio streams and podcasts. Machine learning meets Shazam.](https://github.com/adblockradio/adblockradio)
 - [Search/personalization as a service to small-medium businesses && automation in screening](https://www.getrevue.co/profile/swap/issues/weekly-update-1-225258)
@@ -383,37 +376,73 @@
 - https://github.com/DeepSpaceHarbor/Awesome-AI-Security
 
 ### Deep learning
-  - Cheat sheet 
-    - https://github.com/Nyandwi/deep-learning-course-kigali
-    - [Spring 2023 COMP664 course "Deep Learning" at UNC](https://github.com/craffel/comp664-deep-learning-spring-2023)
-    - [Understanding Deep Learning - Simon J.D. Prince](https://github.com/udlbook/udlbook)
-    - http://web.archive.org/web/20221003014452/https://www.getrevue.co/profile/deeprevision/issues/a-revised-history-of-deep-learning-issue-1-1145664
-    - [Interactive deep learning book with multi-framework code, math, and discussions](https://github.com/d2l-ai/d2l-en)
-  - Computer vision
-    - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
-    - [Learn OpenCV : C++ and Python Examples](https://github.com/spmallick/learnopencv)
-    - https://www.freecodecamp.org/news/opencv-full-course
-    - [Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
-    - https://github.com/Developer-Y/cs-video-courses#image-processing-and-computer-vision 
-    - [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
-    - https://www.freecodecamp.org/news/advanced-computer-vision-with-python
-    - https://github.com/amzn/computer-vision-basics-in-microsoft-excel
-    - [List of satellite image training datasets with annotations for computer vision and deep learning](https://github.com/chrieke/awesome-satellite-imagery-datasets)
-    - https://github.com/phellonchen/awesome-Vision-and-Language-Pre-training
-  - Large language model (LLM)
-    - https://github.com/imaurer/awesome-decentralized-llm
-    - https://github.com/huggingface/large_language_model_training_playbook
-    - https://github.com/YuxinWenRick/hard-prompts-made-easy
-    - [Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml#computer-vision)
-    - [How do we properly evaluate and compare LLMs?](https://crfm.stanford.edu/helm/latest/?models=1)
-  
+
+- Book
+  - https://github.com/the-deep-learners/deep-learning-illustrated
+  - https://www.learningmachines101.com/book-review-deep-learning
+- Cheat sheet
+  - https://github.com/Nyandwi/deep-learning-course-kigali
+  - [Spring 2023 COMP664 course "Deep Learning" at UNC](https://github.com/craffel/comp664-deep-learning-spring-2023)
+  - [Understanding Deep Learning - Simon J.D. Prince](https://github.com/udlbook/udlbook)
+  - http://web.archive.org/web/20221003014452/https://www.getrevue.co/profile/deeprevision/issues/a-revised-history-of-deep-learning-issue-1-1145664
+  - [Interactive deep learning book with multi-framework code, math, and discussions](https://github.com/d2l-ai/d2l-en)
+- Community
+  - https://github.com/the-deep-learners/study-group
+- Computer vision
+  - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+  - [Learn OpenCV : C++ and Python Examples](https://github.com/spmallick/learnopencv)
+  - https://www.freecodecamp.org/news/opencv-full-course
+  - [Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas](https://github.com/NirantK/awesome-project-ideas)
+  - https://github.com/Developer-Y/cs-video-courses#image-processing-and-computer-vision
+  - [Deep Learning for Computer Vision](https://twitter.com/jcjohnss/status/1292864888663048192)
+  - https://www.freecodecamp.org/news/advanced-computer-vision-with-python
+  - https://github.com/amzn/computer-vision-basics-in-microsoft-excel
+  - [List of satellite image training datasets with annotations for computer vision and deep learning](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+  - https://github.com/phellonchen/awesome-Vision-and-Language-Pre-training
+  - https://github.com/dair-ai/ML-Papers-Explained#tabular-deep-learning
+  - https://github.com/dair-ai/ML-YouTube-Courses
+- Course
+  - https://github.com/Atcold/pytorch-Deep-Learning
+- Demo
+  - https://github.com/emilwallner/Screenshot-to-code
+- Historic
+  - https://www.freecodecamp.org/news/the-history-of-ai
+  - https://people.idsia.ch/~juergen/deep-learning-history.html
+- Large language model (LLM)
+  - https://github.com/dair-ai/Prompt-Engineering-Guide
+  - https://github.com/imaurer/awesome-decentralized-llm
+  - https://github.com/huggingface/large_language_model_training_playbook
+  - https://github.com/YuxinWenRick/hard-prompts-made-easy
+  - [Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml#computer-vision)
+  - [How do we properly evaluate and compare LLMs?](https://crfm.stanford.edu/helm/latest/?models=1)
+
 ### Genetic algorithms
+
+- Book
+  - https://www.learningmachines101.com/book-review-markov-logic-interface-layer-artificial-intelligence
+
 ### Machine learning
+
+- Book
+
+  - https://www.learningmachines101.com/digital-computation-done-brains-machines
+  - https://www.learningmachines101.com/book-review-quest-artificial-intelligence
+  - https://www.learningmachines101.com/book-review-pattern-recognition-machine-learning
+
+- Community
+  - [ML reasoning reading list](https://docs.google.com/spreadsheets/d/1OvLPMRVUAqHVb-bnBftBQpRxne8E4P7cPjRvZl43GPE) + https://twitter.com/EmilWallner/status/1301565902765293574
+  - [Books and links Jürgen Schmidhuber recommends to new students at his lab](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/comment/cp5c0py) + https://twitter.com/EmilWallner/status/1314581326209613826
+
 ### Neural networks
-  - https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
-  - [Neural Networks from Scratch | sentdex](https://nnfs.io) + https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+
+- https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+- [Neural Networks from Scratch | sentdex](https://nnfs.io) + https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+
 ### Natural language processing (NLP)
-  - Cheat sheet
-    - https://huggingface.co/course + https://youtu.be/sUt-YV5bPXA
-    - [A hackers AI voice assistant, built using Python and PyTorch | Michael Phi](https://github.com/LearnedVector/A-Hackers-AI-Voice-Assistant)
+
+- Cheat sheet
+  - https://huggingface.co/course + https://youtu.be/sUt-YV5bPXA
+  - [A hackers AI voice assistant, built using Python and PyTorch | Michael Phi](https://github.com/LearnedVector/A-Hackers-AI-Voice-Assistant)
+  - https://github.com/dair-ai/ML-Notebooks#nlp
+
 ### Robotics

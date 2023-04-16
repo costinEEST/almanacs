@@ -69,6 +69,7 @@
 - https://alexwlchan.net/2021/01/kempisbot
 - https://alexfrancow.github.io/app-development/Twitter-based-Exploit-Detector
 - https://github.com/licht1stein/telegram-exception-alerts
+- [File Converter Telegram Bot that can Convert Images, Videos, Audios, Fonts, Documents and Ebooks](https://github.com/bipinkrish/File-Converter-Bot)
 
 ### Cheat sheet
 

@@ -84,6 +84,7 @@
 - [Sebastian Raschka](https://magazine.sebastianraschka.com/archive)
 - [What are your favorite machine learning blogs or newsletters?](https://twitter.com/chrisalbon/status/1533463005320515584)
 - [Hassan El Mghari](https://nutlope.substack.com/archive)
+- [Jon Krohn](https://us3.campaign-archive.com/home/?id=d60f25547c&u=045be206ab1b80681d0b8e892)
 
 ### Book
 
@@ -174,7 +175,7 @@
 - [Razib Khan](https://razib.substack.com/archive)
 - [Cornell Lab of Ornithology](https://us2.campaign-archive.com/home/?u=b35ddb671faf4a16c0ce32406&id=47588b5758)
 
-### Go 
+### Go
 
 - [15 Days to Build a CLI with Go | Pericles Theodorou](https://15daysofgo.substack.com/archive)
 
@@ -248,6 +249,7 @@
 - [Marcin Wichary](https://newsletter.shifthappens.site)
 - [Denislav Zhelyazkov](https://us4.campaign-archive.com/home/?u=91c6911ed666ab5babcc9deaf&id=e4ea6ea9a3)
 - https://garyhustwit.substack.com/archive
+- [Sunni Brown](https://nothingintheway.substack.com/archive)
 
 ### Data visualization
 

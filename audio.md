@@ -17,6 +17,7 @@
 
 - [sounds of Mexico City’s streets](https://pudding.cool/2022/09/cdmx)
 - [Jack Schaedler](https://github.com/jackschaedler)
+- https://github.com/benthecoder/yt-channels-DS-AI-ML-CS#audio-programming
 
 ### Course
 
@@ -60,7 +61,8 @@
 ### Tool
 
 - [FATpick is the tab player that listens.](https://www.fatpick.com/learn-to-play-guitar)
-- [Turn your browser into an audio recorder.](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
+- [Turn your browser into an audio recorder](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
+- https://ocdevel.com/blog/20201213-video2audio
 - https://www.dkthehuman.com/music-apps
 - https://github.com/tholman/binary-music-player
 - [A music discovery site used in over 1M videos and games.](http://dig.ccmixter.org) + https://news.ycombinator.com/item?id=22810514

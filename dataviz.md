@@ -25,13 +25,14 @@
 - [Science Illustration. A History of Visual Knowledge from the 15th Century to Today](https://www.thisiscolossal.com/2022/10/science-illustration-book)
 - https://github.com/andrewharmellaw/wardley-maps-book
 
-### Cinema
+### Watch
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUeao8hSw3tegcabrp8vV55t
 - https://www.youtube.com/user/currankelleher/playlists
 - https://www.serendipidata.com/posts/data-visualization-video-inspiration
 - [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/z3tt/OutlierConf2021)
 - https://laughingsquid.com/ten-tallest-skyscrapers
+- [#30DaysOfDataViz | DataIndependent](https://www.youtube.com/playlist?list=PLqZXAkvF1bPOHoKYk7WPjyJoehPhqigOg)
 
 ### Course
 

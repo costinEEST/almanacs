@@ -3,7 +3,7 @@
 - https://fonts.google.com/knowledge
 - https://medium.com/@mwichary/shift-happens-5b049f5a93a8
 - https://www.dropbox.com/s/whg7jvdatx1ovzx/Calligraphy%20Guide%20Sheets.zip
-- https://www.printmag.com/post/the-daily-heller-an-overdue-arab-design-history-book-part-1   
+- https://www.printmag.com/post/the-daily-heller-an-overdue-arab-design-history-book-part-1
 - https://www.printmag.com/post/the-daily-heller-an-overdue-arab-design-history-book-part-2
 - https://www.thomkrupa.com/books
 - https://www.goodreads.com/review/list/46952552?shelf=typography
@@ -25,7 +25,6 @@
 - https://pimpmytype.com/changing-fonts
 - https://www.youtube.com/playlist?list=PL2jykFOD1AWa5sRIhcaOq48M3M-_kTuCH
 
-
 ### CSS
 
 - https://web.dev/font-best-practices
@@ -40,6 +39,7 @@
 - https://pimpmytype.com/font-size
 - https://github.com/zachleat/web-font-loading-recipes
 - [If you use `clamp` with `calc` for things like fluid typography, you can drop the `calc`](https://twitter.com/stefanjudis/status/1545837995047243779)
+- [Should I change the default HTML font-size to 62.5%?](https://fedmentor.dev/posts/rem-html-font-size-hack) + https://twitter.com/KevinJPowell/status/1646118183428915200
 
 ### Font
 
@@ -112,7 +112,6 @@
 - https://reaganray.com/2021/04/23/best-picture-lettering.html
 - https://bigthink.com/strange-maps/united-fonts-of-america
 - https://www.lydiahallie.io/blog/optimizing-webfonts-in-nextjs-13
-
 
 ### Opinion
 
