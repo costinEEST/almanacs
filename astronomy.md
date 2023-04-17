@@ -211,3 +211,7 @@
 ### Venus 
 
 - https://curatorial.ro/natura/vulcanii-de-pe-venus-sunt-activi
+
+### Opinion 
+
+- https://launiusr.wordpress.com/2012/02/08/why-explore-space-a-1970-letter-to-a-nun-in-africa/

@@ -168,6 +168,7 @@
 
 ### Server
 
+- [Animated guide to HTTP load balancing algorithms](https://samwho.dev/load-balancing)
 - https://github.com/255kb/stack-on-a-budget
 - https://github.com/Engagespot/heroku-free-alternatives
 - [Building a Production Mail Server in 2018](https://matt.sh/email2018)

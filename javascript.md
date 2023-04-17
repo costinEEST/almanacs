@@ -607,6 +607,7 @@
 ### Parser
 
 - [Parser Combinators From Scratch](https://www.youtube.com/playlist?list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU)
+- https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference
 
 ### Interpreter
 

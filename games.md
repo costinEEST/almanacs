@@ -124,6 +124,7 @@
 - https://github.com/jhuangtw/awesome-lego
 - [Discover the best gamification apps to motivate yourself to achieve your goals](https://gamifylist.com)
 - [Floor796 “is an ever-expanding animation scene showing the life of the 796th floor of the huge space station! The goal of the project is to create as huge animation as possible, with many references to movies, games, anime and memes”. Drag around and click to find out more](https://www.youtube.com/channel/UCribkEGzOuMQ9ozb0ektMCQ)
+- [How Flash Games Shaped the Video Game Industry - A visual essay about the Flash games era with contributions from more than 20 former Flash game developers](https://www.flashgamehistory.com) + https://twitter.com/JGamesCh/status/1285960536862216192
 
 ### Opinion
 

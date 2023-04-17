@@ -27,6 +27,7 @@
 
 - https://www.thisdot.co/blog/web-components-with-svelte
 - https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust
+- https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit
 
 ### Inspire
 
@@ -61,3 +62,7 @@
 ### Security
 
 - https://edoverflow.com/2023/sveltekit-security-headers
+
+### Tool 
+
+- [Piece together any framework with Svelte](https://github.com/Mokshit06/sveltris)

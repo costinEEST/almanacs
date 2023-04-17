@@ -137,6 +137,8 @@
 - [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
 - https://plugaru.org/2022/04/30/engineering-management-books
 - https://ben.balter.com/other-recommended-reading
+- [Lean from the Trenches. Managing Large-Scale Projects with Kanban](https://pragprog.com/titles/hklean/lean-from-the-trenches)
+- [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 
 ### Leadership
 
