@@ -7,11 +7,12 @@
 
 ### Extension
 
-- [Poimandres is a minimal, frameless dark-theme inspired mostly by blueberry.](https://github.com/drcmda/poimandres-theme)
+- [Poimandres is a minimal, frameless dark-theme inspired mostly by blueberry](https://github.com/drcmda/poimandres-theme)
 - https://www.stefanjudis.com/snippets/a-vs-code-extensions-manifest
 - https://www.better.dev/6-ways-to-screenshot-your-code
 - [Markdown knowledge base with bidirectional [[link]]s](https://github.com/svsool/memo)
 - [Automatically infer tensor shapes in your program using ChatGPT](https://github.com/msaroufim/vscode-pytorch-extension) + https://twitter.com/marksaroufim/status/1640119123337449473
+- https://github.com/RefactorSecurity/vscode-security-notes
 
 ### Miscellaneous
 

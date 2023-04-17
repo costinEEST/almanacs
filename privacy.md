@@ -169,6 +169,7 @@
 - https://github.com/apple/password-manager-resources
 - https://github.com/dz-id/fb_get_token_from_cookie
 - https://espysys.com/blog/comprehensive-guide-to-whatsapp-call-forwarding-facts-and-misconceptions-uncovered
+- https://blog.forcesunseen.com/email-blame
 
 ### Social media
 

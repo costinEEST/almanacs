@@ -168,6 +168,10 @@
 - https://electronics.stackexchange.com/questions/264738/why-are-vacuum-tubes-more-resistant-to-electromagnetic-pulses-than-solid-state-d + https://www.c-span.org/video/?459083-1/fallout-mile-island + https://www.ji-hlava.com/filmy/after-the-fallout + https://youtu.be/n2fhbF-92_o
 - https://rbaron.net/blog/2021/04/05/How-capacitive-soil-moisture-sensors-work.html
 
+### Security
+
+- [Hacking Brightway scooters](https://robocoffee.de/?p=436)
+
 ### Transistor
 
 - https://www.youtube.com/playlist?list=PLoKM3Qfxoe0lrsY5lMl0iiJwNeJ2g-fgy

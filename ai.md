@@ -411,6 +411,7 @@
   - https://www.freecodecamp.org/news/the-history-of-ai
   - https://people.idsia.ch/~juergen/deep-learning-history.html
 - Large language model (LLM)
+  - https://github.com/forcesunseen/llm-hackers-handbook
   - https://github.com/dair-ai/Prompt-Engineering-Guide
   - https://github.com/imaurer/awesome-decentralized-llm
   - https://github.com/huggingface/large_language_model_training_playbook
