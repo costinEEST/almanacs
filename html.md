@@ -299,6 +299,7 @@
 - [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
 - https://twitter.com/clagnut/status/1222148873218658304
 - https://github.com/dannyfritz/commit-message-emoji
+- https://github.com/samuelngs/apple-emoji-linux
 - https://github.com/jcsrb/til/blob/master/unicode/remove-byte-order-mark.md
 - [A database of Apple-supported emojis in JSON format.](https://github.com/meyer/emoji-db)
 - [Convert an emoji text string into space separated unicode values.](https://twitter.com/alvaroefe/status/1246579099209957377)

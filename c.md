@@ -67,6 +67,7 @@
 - https://argp.github.io/2014/11/04/memory-model-static-analysis-c-programs
 - https://www.rsarai.xyz/architecture-open-source-asterisk
 - [How does the 12 Days of Christmas program work?](https://mdnahas.github.io/xmassong/index.html)
+- https://github.com/snowcra5h/c-systems-programming
 
 ### Cinema
 

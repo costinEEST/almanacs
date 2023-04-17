@@ -396,6 +396,7 @@ javascript: (() =>
 
 - [In my app when a user clicks play, I remove all audio elements, swap them with fresh ones, and attempt to autoplay for the user.](https://twitter.com/RogersKonnor/status/1453596502098644994) + https://github.com/cableready/audio_operations
 - https://predr.ag/blog/debugging-safari-if-at-first-you-succeed
+- [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
 
 ### Staybl
 
@@ -622,6 +623,7 @@ javascript: (() =>
 - https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison
 - [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
 - https://github.com/humanwhocodes/puppeteer-data-extractor
+- http://blog.ezyang.com/2021/11/interactive-scraping-with-jupyter-and-puppeteer
 
 ### Performance
 

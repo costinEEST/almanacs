@@ -44,6 +44,7 @@
 ### Inspire
 
 - https://github.com/aaronpk/oauth.net
+- [Secure Backend Server for Web, Mobile & Flutter Developers AKA the 100% open-source Firebase alternative](https://github.com/appwrite/appwrite)
 
 ### Patterns
 

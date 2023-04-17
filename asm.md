@@ -63,6 +63,7 @@
 ### Cheat sheet
 
 - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86)
+- https://github.com/corkami/docs/blob/master/x86/x86.md
 
 ### Cinema
 

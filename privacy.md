@@ -13,6 +13,7 @@
 ### Bypass
 
 - https://archive.ph
+- https://kyrofa.com/posts/my-phone-isn-t-as-smart-as-yours
 
 ### Breach
 
@@ -38,9 +39,11 @@
 - [PinePhone User’s Group](https://www.facebook.com/groups/490766952100168)
 - https://github.com/humanetech-community/awesome-humane-tech
 - https://www.bellingcat.com/news/americas/2021/01/07/the-making-of-qanon-a-crowdsourced-conspiracy
+- https://sneak.berlin/20200307/the-case-against-microsoft-and-github
 
 ### Hardware
 
+- https://sneak.berlin/20201112/your-computer-isnt-yours
 - https://madaidans-insecurities.github.io/security-privacy-advice.html
 - [USB data blocker](https://www.zdnet.com/article/this-cheap-gadget-can-stop-your-smartphone-or-tablet-being-hacked-at-an-airport-hotel-or-cafe/)
 - https://www.washingtonpost.com/technology/2019/12/17/what-does-your-car-know-about-you-we-hacked-chevy-find-out

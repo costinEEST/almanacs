@@ -91,6 +91,7 @@
 - [Malware](malware.md)
 - [Maps](maps.md)
 - [Markdown](markdown.md)
+- [Mastodon](mastodon.md)
 - [Mathematics](math.md)
 - [Microsoft Excel](excel.md)
 - [Music](music.md)
@@ -180,3 +181,4 @@
 - [David Kaye](https://github.com/dfkaye/dev-links)
 - [Parsia Hakimian](https://github.com/parsiya/Parsia-Clone)
 - [Louis Pilfold](https://github.com/lpil/learning)
+- https://github.com/lyz-code/best-of-digital-gardens

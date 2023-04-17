@@ -154,6 +154,8 @@ curl v2.wttr.in/Bucharest
 - [A module that scrapes lexico.com to get the meanings of almost any word + audio and examples](https://github.com/LuanRT/lexico-dictionary)
 - [Machine Translation API. Self-hosted, offline capable](https://github.com/LibreTranslate/LibreTranslate)
 - [Offline open source speech recognition toolkit](https://github.com/alphacep/vosk-api)
+- https://github.com/matheuss/google-translate-api + https://github.com/vitalets/google-translate-api
+- https://github.com/cjvnjde/google-translate-api-browser
 
 ### Miscellaneous
 

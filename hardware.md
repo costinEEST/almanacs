@@ -175,6 +175,7 @@
 - https://www.youtube.com/playlist?list=PLra8hz8BV8EmpAXQvULfpwWHGT5yIr_7U
 - https://lcamtuf.substack.com/p/random-objects-nuvistor
 - https://lcamtuf.substack.com/p/building-a-decent-microphone-amplifier
+- https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors
 
 ### Playground
 

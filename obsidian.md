@@ -6,6 +6,10 @@
 - https://www.reddit.com/r/ObsidianMD/comments/12608s7/what_was_the_last_thing_you_found_out_obsidian
 - https://github.com/Dmytro-Shulha/obsidian-css-snippets
 
+### Community 
+
+- https://github.com/brettkromkamp/awesome-knowledge-management
+
 ### Plugin
 
 - https://github.com/lynchjames/obsidian-mind-map

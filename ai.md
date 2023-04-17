@@ -381,6 +381,8 @@
   - https://github.com/the-deep-learners/deep-learning-illustrated
   - https://www.learningmachines101.com/book-review-deep-learning
 - Cheat sheet
+  - https://github.com/ThinamXx/MachineLearning_DeepLearning
+  - https://github.com/ThinamXx/300Days__MachineLearningDeepLearning
   - https://github.com/Nyandwi/deep-learning-course-kigali
   - [Spring 2023 COMP664 course "Deep Learning" at UNC](https://github.com/craffel/comp664-deep-learning-spring-2023)
   - [Understanding Deep Learning - Simon J.D. Prince](https://github.com/udlbook/udlbook)
@@ -415,6 +417,12 @@
   - https://github.com/YuxinWenRick/hard-prompts-made-easy
   - [Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml#computer-vision)
   - [How do we properly evaluate and compare LLMs?](https://crfm.stanford.edu/helm/latest/?models=1)
+  - [Unlock the Power of AI: Build a ChatGPT Chatbot For Your Data](https://chatwithdata.teachable.com/p/aichatbotdata)
+- Opinion
+  - [How AI misrepresents culture through a facial expression](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)
+- Stable Diffusion
+  - [InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies](https://github.com/invoke-ai/InvokeAI)
+  - [Convert your black and white images to colored](https://github.com/sonipranjal/b-and-w-to-colored)
 
 ### Genetic algorithms
 
@@ -430,13 +438,18 @@
   - https://www.learningmachines101.com/book-review-pattern-recognition-machine-learning
 
 - Community
+  - https://github.com/ThinamXx/ML..Interview..Preparation
   - [ML reasoning reading list](https://docs.google.com/spreadsheets/d/1OvLPMRVUAqHVb-bnBftBQpRxne8E4P7cPjRvZl43GPE) + https://twitter.com/EmilWallner/status/1301565902765293574
   - [Books and links Jürgen Schmidhuber recommends to new students at his lab](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/comment/cp5c0py) + https://twitter.com/EmilWallner/status/1314581326209613826
 
-### Neural networks
+- Historic
+  - [Growing open-source from Torch to PyTorch](https://soumith.ch/posts/2021/02/growing-opensource) + https://thegradientpub.substack.com/p/soumith-chintala-pytorch
+
+### Neural network
 
 - https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 - [Neural Networks from Scratch | sentdex](https://nnfs.io) + https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+
 
 ### Natural language processing (NLP)
 
@@ -444,5 +457,9 @@
   - https://huggingface.co/course + https://youtu.be/sUt-YV5bPXA
   - [A hackers AI voice assistant, built using Python and PyTorch | Michael Phi](https://github.com/LearnedVector/A-Hackers-AI-Voice-Assistant)
   - https://github.com/dair-ai/ML-Notebooks#nlp
+  - https://github.com/ThinamXx/66Days__NaturalLanguageProcessing
+  - https://github.com/ThinamXx/Transformers_NLP
+- Course 
+  - https://github.com/yandexdataschool/nlp_course + https://lena-voita.github.io/nlp_course.html
 
 ### Robotics

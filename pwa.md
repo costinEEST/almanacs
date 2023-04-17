@@ -87,3 +87,4 @@
 
 - https://twitter.com/firt/status/1367205341302243333
 - https://twitter.com/HenrikJoreteg/status/1354625168497201161
+- https://blog.mozilla.org/ux/2023/02/people-do-use-add-to-home-screen

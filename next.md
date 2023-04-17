@@ -1,3 +1,7 @@
+### Bot 
+
+- [GPT4 & LangChain Chatbot for large PDF docs](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+
 ### Boilerplate
 
 - https://github.com/gmpetrov/ultimate-saas-ts
@@ -13,6 +17,7 @@
 - https://github.com/mckaywrigley/paul-graham-gpt
 - https://github.com/mckaywrigley/wait-but-why-gpt
 - https://www.linkedin.com/posts/aleksagordic_andrew-huberman-transcripts-activity-7022944124416720896-oKed + https://twitter.com/gordic_aleksa/status/1608121899883679751
+- https://github.com/stars/mayooear/lists/next
 
 ### Cheat sheet
 

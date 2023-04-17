@@ -8,16 +8,6 @@
 - https://vasilishynkarenka.com/how-to-type-3x-faster
 - http://www.baweaver.com/blog/2015/10/10/you-type-too-much
 
-### Searching
-
-- [Recon Lab: Ethical Google Hacking - Securing The Stack](https://www.youtube.com/playlist?list=PLP91MtCof9klPenCxTzBTfRctceWYNN9t)
-- [Google dork about how to get a job in pentesting](https://twitter.com/nullenc0de/status/1560639105767440386)
-- https://twitter.com/z3dster/status/1500608769671245832
-- https://theoradical.ai/research/2010-search-engine-hacking
-- [Is there a pluggable open source file indexer for making my backup files easier to search?](https://twitter.com/captbaritone/status/1545925264433037312)
-- https://securib.ee/beelog/a-better-way-to-use-twitter
-- https://twitter.com/taksec/status/1605610328607186944
-
 ### tmux
 
 - https://nicknisi.com/posts/2015-11-02-tmux-for-presentation

@@ -73,8 +73,8 @@
 
 ### Artificial intelligence
 
+- [Machine learning monthly](https://zerotomastery.io/blog/?tag=MLM)
 - [Nathan Benaich](https://nathanbenaich.substack.com/archive)
-- [Machine Learning Monthly](https://zerotomastery.io/blog/?tag=MLM)
 - [True Positive Weekly](https://aiweekly.substack.com/archive)
 - [Davis Blalock](https://dblalock.substack.com/archive)
 - [Emil Wallner](https://www.emilwallner.com/archive)
@@ -85,6 +85,11 @@
 - [What are your favorite machine learning blogs or newsletters?](https://twitter.com/chrisalbon/status/1533463005320515584)
 - [Hassan El Mghari](https://nutlope.substack.com/archive)
 - [Jon Krohn](https://us3.campaign-archive.com/home/?id=d60f25547c&u=045be206ab1b80681d0b8e892)
+- [Daniel Bourke](https://danielbourke.substack.com/archive)
+- [Mark Saroufim](https://marksaroufim.substack.com/archive)
+- [Sayash Kapoor, Arvind Narayanan](https://aisnakeoil.substack.com/archive)
+- [DataTalks](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa)
+- [Shubham Saboo](https://unwindai.substack.com/archive)
 
 ### Book
 

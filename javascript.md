@@ -709,3 +709,4 @@
 - https://github.com/justinamiller/SoftwareArchitect
 - https://kevin.burke.dev/kevin/faker-js-problems
 - https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93
+- https://github.com/1Marc/modern-todomvc-vanillajs

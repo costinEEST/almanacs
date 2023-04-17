@@ -36,6 +36,7 @@
 - https://github.com/bobeff/programming-math-science#computer-networks-and-network-programming
 - [Computer Networks: A Systems Approach](https://github.com/SystemsApproach/book)
 - [An Introduction to Computer Networks | Peter L Dordal](http://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf)
+- [Private 5G: A Systems Approach | Larry Peterson, Oguz Sunay, and Bruce Davie](https://5g.systemsapproach.org)
 
 ### Communities
 
@@ -148,6 +149,7 @@
 - https://www.facebook.com/dragosr/posts/pfbid0QmoikA7xFE9T5MsmP81ok2sbGoND5YbZ5qtif95Br3wjsiXbHFkHosCgttPuQZwBl + [be your own cellphone carrier](https://twitter.com/dragosr/status/1578452620637003776)
 - https://www.shielder.com/blog/2020/04/notsosmartconfig-broadcasting-wifi-credentials-over-the-air
 - [all the tones and cadences used in call progress tones worldwide](https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.180-2010-PDF-E.pdf)
+- [Firewalls and Internet Security, Second Edition](https://www.wilyhacker.com) + https://mastodon.social/@SteveBellovin@mastodon.lawprofs.org/110177420981303376
 
 ### Radio-frequency identification (RFID) 
 

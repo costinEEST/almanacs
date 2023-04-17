@@ -572,6 +572,7 @@
 - https://github.com/egiurleo/advent_of_code_cli
 - [modern web scraping framework](https://github.com/glaucocustodio/tanakai)
 - https://github.com/robbi5/german-gov-domains
+- https://github.com/weshatheleopard/rutube-downloader-ruby
 
 ### Static generator
 

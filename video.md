@@ -81,3 +81,4 @@
 - https://rudism.com/a-proposal-for-a-decentralized-youtube-alternative
 - [Before you upload your first course on udemy | Alireza Aliabadi](https://www.youtube.com/watch?v=nBpDXFz67pA)
 - [Screenflow](https://twitter.com/nathanstocks/status/1586017083879436288)
+- [The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders](https://wrv.github.io/h26forge.pdf)
