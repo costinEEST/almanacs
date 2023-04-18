@@ -240,6 +240,10 @@
 
 - [Original Lishi Tools by inventor Mr. Li](https://us14.campaign-archive.com/home/?u=f4f3f6dbbb403473532ca95f9&id=b35cc1084c)
 
+### Open source (FOSS)
+
+- [Allison Pike](https://onceamaintainer.substack.com/archive)
+
 ### Design
 
 - [Jake Knapp](https://www.getrevue.co/profile/designsprint)
@@ -420,6 +424,7 @@
 ### Miscellaneous
 
 - [Marius Cosmeanu](https://savantgarde.substack.com/recommendations)
+- https://github.com/kilimchoi/engineering-blogs
 
 ### Music
 
@@ -450,6 +455,7 @@
 - [Noel Rappin](https://buttondown.email/noelrap/archive)
 - https://rubyweekly.com/issues
 - [Awesome Ruby](https://ruby.libhunt.com/newsletter/archive)
+- [Julián Pinzón Eslava](https://dev.julianpinzon.com/newsletter)
 
 ### Politics
 

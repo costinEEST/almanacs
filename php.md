@@ -41,6 +41,10 @@
 
 - [Caleb Porzio](https://twitter.com/calebporzio/status/1620066458687651842)
 
+### Historic 
+
+- https://marianposaceanu.com/articles/programming-archaeology-phps-dollar-sigil
+
 ### Inspire
 
 - https://github.com/aaronpk/oauth.net

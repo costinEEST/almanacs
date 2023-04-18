@@ -105,6 +105,7 @@
 - https://davidwalsh.name/get-default-app
 - [setup script for front-end development](https://github.com/minamarkham/formation)
 - [Mac U.S. keyboard layout with German Umlauts](https://github.com/patrick-zippenfenig/us-with-german-umlauts)
+- https://marianposaceanu.com/articles/tips-macos-save-screenshots-as-jpeg-in-a-different-location
 
 ### Security
 

@@ -219,6 +219,7 @@
 - [German: Biography of a Language | Ruth H. Sanders](https://www.goodreads.com/book/show/7799922-german)
 - https://github.com/blinry/anki-german-sign-language
 - [Germanic Languages Comparison | Ecolinguist](https://www.youtube.com/playlist?list=PLQJ3IAEluGMi995CtO4N1h4aHebMBV6WE)
+- [Multi-language Analyze text in 26 Cantonal Swiss German, Italian, German, Chinese (simplified), French, Italian. pply natural language understanding (NLU) to their applications with features including sentiment analysis, entity analysis, entity sentiment analysis, content classification, and syntax analysis](https://github.com/esthicodes/Awesome-Swiss-German)
 
 ### Greek
 

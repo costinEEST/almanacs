@@ -123,6 +123,7 @@
 - https://www.facebook.com/vitaly.friedman
 - https://uxdesign.cc/in-praise-of-the-spreadsheet-eb31e2f6691d
 - https://github.com/ttt30ga/awesome-product-design
+- https://github.com/pinzonjulian/ux-for-lean-startups-notes
 
 ### Portfolio
 

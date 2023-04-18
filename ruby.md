@@ -40,7 +40,7 @@
 
 ### Algorithm
 
-- https://github.com/kanwei/algorithms
+- [Ruby algorithms and data structures. C extensions](https://github.com/kanwei/algorithms)
 - https://github.com/TheAlgorithms/Algorithms-Explanation + https://github.com/TheAlgorithms/Ruby
 - https://github.com/brianstorti/ruby-graph-algorithms
 - https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby
@@ -75,6 +75,7 @@
 - [StimulusReflex Patterns](https://julianrubisch.gumroad.com/l/JRSRP)
 - [Specialising dynamic techniques for implementing the Ruby programming language | Chris Seaton](https://chrisseaton.com/phd/specialising-ruby.pdf)
 - https://www.amazon.com/Rapid-Rubyist-Matthew-Stopa-ebook/dp/B00DPQ5P24
+- https://github.com/pinzonjulian/poodr-notes
 
 ### Boilerplate
 
@@ -161,6 +162,7 @@
 - https://www.destroyallsoftware.com/talks/boundaries
 - [Rails Instagram Clone Tutorials | Malacow](https://www.youtube.com/playlist?list=PLR8BLHNyVZDW-5crDl3unpGIqee5xSV48)
 - [A Rubyist's Walk Along the C-side (writing Ruby C extensions)](https://github.com/peterzhu2118/ruby-c-ext-code)
+- https://github.com/pinzonjulian/all_you_need_is_rails_engines
 
 ### Course
 
@@ -173,6 +175,7 @@
 ### Community
 
 - [Newsletters](newsletters.md#ruby)
+- https://www.reddit.com/r/ruby/comments/zdcqpo/rubyists_on_mastodon
 - https://github.com/fpsvogel/learn-ruby
 - http://planetruby.github.io
 - https://planetruby.github.io/meetups
@@ -359,6 +362,7 @@
 - https://github.com/walski/Browser-Based-Game-Scaling-With-Rails
 - [A Ruby on Rails Event Scheduling App Tutorial from web-crunch.com](https://github.com/justalever/bookme_demo)
 - [Self-host your own Feedbin RSS reader in Docker](https://github.com/angristan/feedbin-docker)
+- [The Social Network for eDemocracy](https://github.com/airesis/airesis)
 
 ### Internals
 
@@ -531,6 +535,7 @@
 - https://github.com/noahgibbs/testing_rebuilding_http
 - [A list of predefined devices for your tests with Capybara](https://github.com/renuo/so_many_devices)
 - https://github.com/betterspecs/betterspecs
+- https://lucaguidi.com/2015/11/17/effective-tdd-with-ruby-tmux-setup
 
 ### Radio
 
@@ -557,6 +562,7 @@
 - https://hackerone.com/reports/1609965
 - [Who Controls the Controllers — Hacking Crestron IoT Automation Systems](https://github.com/headlesszeke/defcon26-materials)
 - https://positive.security/blog/ransack-data-exfiltration
+- [How to create small, unique tokens in Ruby](https://gist.github.com/mbajur/2aba832a6df3fc31fe7a82d3109cb626)
 
 ### Server
 

@@ -190,6 +190,7 @@
 ### Miscellaneous
 
 - https://github.com/charlax/professional-programming
+- [A series of reading lists mostly related to functional programming](https://gist.github.com/danidiaz/36f5647c0968361eedd677ad3870715f)
 - https://swizec.com/blog/a-holiday-compsci-reading-list-for-you-%f0%9f%8e%85/swizec/9265
 - https://github.com/kdeldycke/awesome-falsehood#meta
 - https://github.com/kdeldycke/awesome-falsehood#emails
@@ -197,7 +198,6 @@
 - [The year 1900 was _not_ a leap year](https://twitter.com/philwalton/status/1214268809122418688)
 - https://github.com/kdeldycke/awesome-falsehood#software-engineering
 - https://github.com/gruhn/awesome-naming
-- https://github.com/charlax/professional-programming
 - https://github.com/computationclub/computationclub.github.io
 - https://github.com/joho/awesome-code-review
 - [History of Science - Development of Algorithms](https://cgi.csc.liv.ac.uk/~ped/teachadmin/histsci/content.html)
