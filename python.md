@@ -199,6 +199,7 @@
 
 ### Networking
 
+- https://github.com/dievus/PythonCreateYourOwnSeries
 - https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks
 - https://backdrifting.net/post/001_implementing_traceroute
 - [Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡](https://github.com/schollz/howmanypeoplearearound)
