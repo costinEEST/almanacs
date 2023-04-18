@@ -102,7 +102,10 @@
 curl v2.wttr.in/Bucharest
 ```
 
-### Astronomy 
+- https://en.sat24.com/en/forecast/h/4113466/bucharest
+- https://www.isac.cnr.it/dinamica/projects/forecasts/bolam
+
+### Astronomy
 
 - [Open Astronomy Catalog API](https://github.com/astrocatalogs/OACAPI)
 - [James Webb Space Telescope (JWST) tracking REST API](https://github.com/avatsaev/webb-tracker-api)
@@ -215,6 +218,6 @@ curl v2.wttr.in/Bucharest
 
 - https://github.com/the-akira/PhilosophyAPI
 
-### Travel 
+### Travel
 
 - [periodically retrieves award availability from mileage programs](https://seats.aero/about)
