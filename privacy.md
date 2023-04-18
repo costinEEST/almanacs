@@ -170,6 +170,7 @@
 - https://github.com/dz-id/fb_get_token_from_cookie
 - https://espysys.com/blog/comprehensive-guide-to-whatsapp-call-forwarding-facts-and-misconceptions-uncovered
 - https://blog.forcesunseen.com/email-blame
+- https://email-is-good.com/2023/04/18/site-specific-emails
 
 ### Social media
 

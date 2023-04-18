@@ -68,7 +68,7 @@
 
 ### .xml
 
-- https://github.com/costinEEST/almanacs/blob/main/xml.md
+- [👉](xml.md)
 
 ### Tool
 

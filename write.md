@@ -27,7 +27,6 @@
 - https://github.com/springernature/frontend-playbook/blob/master/writing/README.md
 - https://github.com/TalAter/awesome-book-authoring
 
-
 ### Cinema
 
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUe5jlxhxEfjXm57bXxhixea
@@ -112,6 +111,7 @@
 - [A Jekyll template for creating books in multiple formats](https://github.com/electricbookworks/electric-book)
 - https://nelsonslog.wordpress.com/2023/02/02/wincompose-and-other-ways-to-type-unicode
 - https://artvsentropy.wordpress.com/2023/04/11/retro-writing-14-traveler-at-last
+- [A framework for detecting, highlighting and correcting grammatical errors on natural language text](https://github.com/PrithivirajDamodaran/Gramformer)
 
 ### Miscellaneous
 

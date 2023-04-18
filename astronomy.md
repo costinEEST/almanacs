@@ -208,10 +208,11 @@
 - https://planetariubm.ro/ghid-practic-de-orientare-pe-bolta-cereasca
 - https://www.thegreatcourses.com/courses/the-search-for-exoplanets-what-astronomers-know + https://eli.thegreenplace.net/2022/summary-of-reading-july-september-2022
 
-### Venus 
+### Venus
 
 - https://curatorial.ro/natura/vulcanii-de-pe-venus-sunt-activi
 
-### Opinion 
+### Opinion
 
-- https://launiusr.wordpress.com/2012/02/08/why-explore-space-a-1970-letter-to-a-nun-in-africa/
+- https://launiusr.wordpress.com/2012/02/08/why-explore-space-a-1970-letter-to-a-nun-in-africa
+- https://catid.io/posts/time

@@ -27,6 +27,28 @@
 - [Marius Voila](https://www.mariusv.com/sys-magic.html)
 - https://github.com/AcalephStorage/awesome-devops
 
+### CI/CD
+
+- https://learning.oreilly.com/library/view/advanced-microservices-a/9781484228869
+- https://github.com/hysnsec/awesome-policy-as-code
+- https://www.gdcorner.com/2019/12/27/JenkinsHomeLab-P1-MasterSetup.html
+- https://medium.com/faun/pull-based-cd-pipelines-for-security-4e044b403f56
+- [GitHub action for generating sequential build numbers.](https://github.com/einaregilsson/build-number)
+- https://dev.to/azure/learn-how-you-can-add-ci-cd-to-your-app-2o5a
+- [Building a Continuous Integration & Deployment Pipeline Using Docker (CI/CD)](https://www.taniarascia.com/continuous-integration-pipeline-docker)
+- [How to Setup and Deploy by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQrhICMaBrN0aNOrECA_RTUs-)
+- https://devforth.io/blog/step-by-step-guide-to-modern-secure-ci-setup
+- https://www.freecodecamp.org/news/metrics-driven-development
+- https://theresnomon.co/what-modern-ci-cd-should-look-like-e6f50594c2d2
+- [Continuous Deployment with AWS and GitHub Actions](https://www.gauntface.com/blog/2020/static-site-hosting-on-aws)
+- [Do you run automated cypress / e2e tests on a local dev server on your CI pipeline?](https://twitter.com/onderceylan/status/1364877359665582080)
+- [How to print out credentials from Jenkins secrets](https://lanziani.com/blog/jenkins-credentials.html)
+- https://www.freecodecamp.org/news/devops-engineering-course-for-beginners
+- https://app.pluralsight.com/library/courses/building-modern-ci-cd-pipeline-jenkins
+- https://earthly.dev/blog/migrating-from-travis
+- https://www.udemy.com/course/learn-complete-devops-with-python-docker-kubernetes-git
+- https://github.com/wavestone-cdt/DEFCON-CICD-pipelines-workshop
+
 ### Docker
 
 - [master Docker and become a container expert](https://twitter.com/iximiuz/status/1601166357826981888)
@@ -245,27 +267,6 @@
 ### VPS
 
 - https://www.paperspace.com, https://contabo.com + https://twitter.com/CristiVlad25/status/1629798293004853251
-
-### CI/CD
-
-- https://learning.oreilly.com/library/view/advanced-microservices-a/9781484228869
-- https://www.gdcorner.com/2019/12/27/JenkinsHomeLab-P1-MasterSetup.html
-- https://medium.com/faun/pull-based-cd-pipelines-for-security-4e044b403f56
-- [GitHub action for generating sequential build numbers.](https://github.com/einaregilsson/build-number)
-- https://dev.to/azure/learn-how-you-can-add-ci-cd-to-your-app-2o5a
-- [Building a Continuous Integration & Deployment Pipeline Using Docker (CI/CD)](https://www.taniarascia.com/continuous-integration-pipeline-docker)
-- [How to Setup and Deploy by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQrhICMaBrN0aNOrECA_RTUs-)
-- https://devforth.io/blog/step-by-step-guide-to-modern-secure-ci-setup
-- https://www.freecodecamp.org/news/metrics-driven-development
-- https://theresnomon.co/what-modern-ci-cd-should-look-like-e6f50594c2d2
-- [Continuous Deployment with AWS and GitHub Actions](https://www.gauntface.com/blog/2020/static-site-hosting-on-aws)
-- [Do you run automated cypress / e2e tests on a local dev server on your CI pipeline?](https://twitter.com/onderceylan/status/1364877359665582080)
-- [How to print out credentials from Jenkins secrets](https://lanziani.com/blog/jenkins-credentials.html)
-- https://www.freecodecamp.org/news/devops-engineering-course-for-beginners
-- https://app.pluralsight.com/library/courses/building-modern-ci-cd-pipeline-jenkins
-- https://earthly.dev/blog/migrating-from-travis
-- https://www.udemy.com/course/learn-complete-devops-with-python-docker-kubernetes-git
-- https://github.com/wavestone-cdt/DEFCON-CICD-pipelines-workshop
 
 ### Site Reliability Engineering
 

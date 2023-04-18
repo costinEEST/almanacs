@@ -420,6 +420,7 @@
   - [How do we properly evaluate and compare LLMs?](https://crfm.stanford.edu/helm/latest/?models=1)
   - [Unlock the Power of AI: Build a ChatGPT Chatbot For Your Data](https://chatwithdata.teachable.com/p/aichatbotdata)
   - [Assemble, configure, and deploy autonomous AI Agents in your browser](https://github.com/reworkd/AgentGPT)
+  - [LLM primers](https://www.linkedin.com/feed/update/urn:li:share:7045245910087307264)
 - Opinion
   - [How AI misrepresents culture through a facial expression](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)
 - Stable Diffusion

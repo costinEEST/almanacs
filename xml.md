@@ -8,7 +8,7 @@
 - [XML Foundations (2013)](http://dret.net/lectures/xml-fall13)
 - https://www.udemy.com/course/uncle-rats-xxe-handbook
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://nickcolley.co.uk/2020/02/07/pulling-data-from-websites-into-google-sheets
 
@@ -22,6 +22,8 @@
 - [Vulnerabilities due to XML files processing: XXE in C# applications in theory and in practice](https://pvs-studio.com/en/blog/posts/csharp/0918)
 - [BLIND XXE OOB over DNS](https://youtu.be/aSiIHKeN3ys)
 - http://raviramesh.info/xml-attacks.html
+- https://github.com/abhaybhargav/chatgpt-node-app
+
 ### Opinion
 
 - https://alexwlchan.net/2015/12/pretty-print
