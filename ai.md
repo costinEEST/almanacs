@@ -419,11 +419,15 @@
   - [Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml#computer-vision)
   - [How do we properly evaluate and compare LLMs?](https://crfm.stanford.edu/helm/latest/?models=1)
   - [Unlock the Power of AI: Build a ChatGPT Chatbot For Your Data](https://chatwithdata.teachable.com/p/aichatbotdata)
+  - [Assemble, configure, and deploy autonomous AI Agents in your browser](https://github.com/reworkd/AgentGPT)
 - Opinion
   - [How AI misrepresents culture through a facial expression](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)
 - Stable Diffusion
   - [InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies](https://github.com/invoke-ai/InvokeAI)
   - [Convert your black and white images to colored](https://github.com/sonipranjal/b-and-w-to-colored)
+  - [Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database)](https://github.com/pashpashpash/vault-ai)
+- Tool
+  - [Pytorch based speech enhancement toolkit](https://github.com/shahules786/mayavoz)
 
 ### Genetic algorithms
 
@@ -439,6 +443,7 @@
   - https://www.learningmachines101.com/book-review-pattern-recognition-machine-learning
 
 - Community
+
   - https://github.com/ThinamXx/ML..Interview..Preparation
   - [ML reasoning reading list](https://docs.google.com/spreadsheets/d/1OvLPMRVUAqHVb-bnBftBQpRxne8E4P7cPjRvZl43GPE) + https://twitter.com/EmilWallner/status/1301565902765293574
   - [Books and links Jürgen Schmidhuber recommends to new students at his lab](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/comment/cp5c0py) + https://twitter.com/EmilWallner/status/1314581326209613826
@@ -451,7 +456,6 @@
 - https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 - [Neural Networks from Scratch | sentdex](https://nnfs.io) + https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
 
-
 ### Natural language processing (NLP)
 
 - Cheat sheet
@@ -460,7 +464,7 @@
   - https://github.com/dair-ai/ML-Notebooks#nlp
   - https://github.com/ThinamXx/66Days__NaturalLanguageProcessing
   - https://github.com/ThinamXx/Transformers_NLP
-- Course 
+- Course
   - https://github.com/yandexdataschool/nlp_course + https://lena-voita.github.io/nlp_course.html
 
 ### Robotics
