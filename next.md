@@ -1,4 +1,4 @@
-### Bot 
+### Bot
 
 - [GPT4 & LangChain Chatbot for large PDF docs](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
@@ -22,6 +22,7 @@
 ### Cheat sheet
 
 - https://joshmo.hashnode.dev/nextjs-and-rust-an-innovative-approach-to-full-stack-development
+- https://maxleiter.com/blog/build-a-blog-with-nextjs-13
 
 ### Demo
 
@@ -30,6 +31,10 @@
 ### Deploy
 
 - [Next.js SPA example with dynamic client-only routing and static hosting](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
+
+### Opinion
+
+- https://bradgarropy.com/blog/next-over-remix
 
 ### Package
 

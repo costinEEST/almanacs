@@ -673,6 +673,7 @@
 - https://github.com/aadityapurani/NodeJS-Red-Team-Cheat-Sheet
 - [LavaMoat is a set of tools for securing JavaScript projects against a category of attacks called software supply chain attacks](https://github.com/LavaMoat/LavaMoat)
 - https://github.com/nearform/owasp-top-ten-workshop
+- https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html
 - https://blog.xss.am/2022/08/offzone-express-notes
 - https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce
 
@@ -734,6 +735,7 @@
 - https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture
 - https://github.com/mikestaub/serverless-express
 - https://github.com/vendia/serverless-express
+- [Stream File Uploads to S3 Object Storage and Reduce Costs](https://austingil.com/upload-to-s3)
 
 ### Miscellaneous
 

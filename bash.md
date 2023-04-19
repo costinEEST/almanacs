@@ -14,7 +14,7 @@
 - https://github.com/onceupon/Bash-Oneliner
 - https://licenciaparahackear.github.io/en/posts/filtrando-mis-contactos-del-celular-con-awk
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html
 - https://github.com/k4m4/terminals-are-sexy
@@ -32,7 +32,7 @@
 - https://github.com/NARKOZ/hacker-scripts
 - https://lobste.rs/s/bsv2yp/do_you_use_nodejs_for_scripting_instead
 - https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html + https://news.ycombinator.com/item?id=26899531
-- [JavaScript for Shell Scripting](https://github.com/google/zx) + https://news.ycombinator.com/item?id=27072515 
+- [JavaScript for Shell Scripting](https://github.com/google/zx) + https://news.ycombinator.com/item?id=27072515
 - https://github.com/alexanderepstein/Bash-Snippets
 - https://publish.obsidian.md/davidgasquez/Handbook/Automation
 - https://github.com/you-dont-need/You-Dont-Need-GUI
@@ -47,7 +47,7 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l
+- [Bash for Beginners | MicrosoftDeveloper](https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l)
 - https://scriptingosx.com/bash
 - https://scriptingosx.com/practical
 - https://scriptingosx.com/zsh
@@ -93,7 +93,7 @@
 - [Opt + click to place your cursor wherever in Terminal](https://twitter.com/leonte_dev/status/1264140864751878144)
 - https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign + https://blog.gnclmorais.com/run-copied-cli-commands-with-a-leading-dollar-sign-safer
 - [How to reduce the node_modules folder size?](https://twitter.com/Raynos/status/1436655636125736962)
-־ https://darekkay.com/blog/rss-subscriber-count
+  ־ https://darekkay.com/blog/rss-subscriber-count
 
 ### Tool
 
@@ -113,4 +113,3 @@
 - https://github.com/eljuanchosf/source-code-to-pdf
 - [A simple web server in 5 lines of bash](https://github.com/benrady/shinatra)
 - [Quickly fetches files from Wayback Machine](https://github.com/riza/wb)
-

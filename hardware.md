@@ -161,6 +161,7 @@
 - http://www.irongeek.com/i.php?page=videos/bsideslasvegas2014/cg07-using-superpowers-for-hardware-reverse-engineering-joe-grand
 - [Better understanding the current status of hardware supply chain](https://github.com/hardenedlinux/cheap-pcb)
 - [Better parametric search for components available for JLC PCB assembly](https://github.com/yaqwsx/jlcparts)
+- https://m.youtube.com/@CarlBugeja/playlists?view=1&sort=lad&flow=grid
 
 ### Resistor
 

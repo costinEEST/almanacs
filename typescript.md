@@ -69,6 +69,7 @@
 ### Patterns
 
 - [Lets learn Dependency Injection.](https://swatinem.de/blog/learn-di)
+- [asyncComponent](https://gist.github.com/cramforce/b5e3f0b103f841d2e5e429b1d5ac4ded)
 
 ### Practice
 
@@ -147,3 +148,4 @@
 - [Toolkit for building TypeScript-powered command-line apps](https://github.com/infinitered/gluegun)
 - https://github.com/total-typescript/ts-reset
 - https://github.com/mattpocock/zod-fetch
+- https://github.com/DavidWells/types-with-jsdocs

@@ -192,6 +192,7 @@
 - https://marmelab.com/blog/2023/01/11/use-async-effect-react.html
 - https://yoavik.com/snippets/use-global-state, https://twitter.com/sebastienlorber/status/1618248643919626244
 - https://www.macarthur.me/posts/when-i-needed-uselayouteffect-in-react
+- https://claritydev.net/blog/display-warning-for-unsaved-form-data-on-page-exit
 
 ### Lifecycle methods
 
@@ -278,6 +279,7 @@
 ### Styling
 
 - https://www.robinwieruch.de/react-css-styling
+- https://www.patterns.dev/posts/view-transitions
 - [Library Upgrade Guide: <style> (most CSS-in-JS libs)](https://github.com/reactwg/react-18/discussions/110)
 - [Use CSS Variables instead of React Context](https://epicreact.dev/css-variables)
 - https://www.pluralsight.com/courses/react-components-styling
@@ -343,6 +345,7 @@
 - https://shopify.engineering/react-server-components-best-practices-hydrogen
 - https://twitter.com/jplhomer/status/1587095536833859584 + https://hydrogen.shopify.dev/roadmap + https://twitter.com/jjenzz/status/1587098503326613506
 - [syntax highlighting](https://github.com/code-hike/bright)
+- https://twitter.com/dan_abramov/status/1647203329854799872
 
 ### State management
 
@@ -472,6 +475,7 @@
 - https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score
 - https://profy.dev/article/debug-react-vscode
 - [Solving common performance pitfalls with React tooling and hooks](https://www.causal.app/blog/react-perf)
+- https://julesblom.com/writing/react-optional-parameters
 
 ### Testing
 

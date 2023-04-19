@@ -232,6 +232,7 @@
 - https://souporserious.com/lazy-loading-polyfills
 - https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata
 - https://austingil.com/how-to-build-html-forms-right-semantics
+- [Progressive Enhanced HTML Forms With JavaScript | heyAustinGil](https://www.youtube.com/playlist?list=PLmLtrLOp-3MEi82GpiAF9WWFbItxpWSj3)
 
 ### Radio
 

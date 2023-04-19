@@ -494,6 +494,7 @@
 - [A regular expression that matches the Full Emoji List](https://github.com/sweaver2112/Regex-combined-emojis)
 - https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss
 - https://zerodayhacker.com/getting-started-with-regex
+- [Empty character class in JavaScript RegExp](https://www.abareplace.com/blog/emptybrackets)
 
 ### Practice
 
@@ -699,6 +700,7 @@
 - https://blog.1password.com/docusaurus-documentation-framework
 - https://jonmeyers.io/blog-series/cookies-in-remix
 - [Things I've learned about writing good READMEs](https://github.com/hackergrrl/art-of-readme)
+- https://pawelgrzybek.com/whats-new-in-ecmascript-2023
 
 ### Debugging
 

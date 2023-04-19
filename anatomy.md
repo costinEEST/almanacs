@@ -2,6 +2,7 @@
 
 - https://dougbrignole.com/product/autographed-copy-the-physics-of-resistance-exercise-print-book
 - [ANATOMIA ŞI FIZIOLOGIA OMULUI](https://stiinta-pentru-toti.blogspot.com/2022/09/proiectul-cultural-expozitional.html)
+- https://pawelgrzybek.com/book-review-the-body-by-bill-bryson
 
 ### Cinema
 

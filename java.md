@@ -42,6 +42,7 @@
 
 ### Cinema
 
+- https://github.com/bbenz/JavaforBeginners + https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM
 - https://www.youtube.com/playlist?list=PLWIcRrPLCdUd2sjF5ObluLRPtZP2OaGI4
 - https://www.youtube.com/c/LaurentiuSpilca/playlists
 - https://github.com/hellerve/programming-talks#java--android
