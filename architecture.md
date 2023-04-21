@@ -51,6 +51,7 @@
 ### Course
 
 - https://www.edx.org/course/environmental-technologies-in-buildings
+- https://www.scribd.com/document/361185414/Programe-Urbane-Peter-Derer
 
 ### Community
 

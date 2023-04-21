@@ -27,7 +27,7 @@
 - https://github.com/changwookjun/StudyBook
 - https://github.com/jackdoe/programming-for-kids
 - https://book.pythontips.com/en/latest
-- https://automatetheboringstuff.com/2e
+- https://automatetheboringstuff.com/2e + https://nostarch.com/big-book-small-python-projects
 - [Getting Started Neo4j with Python (For Complete Beginners)](<https://github.com/ybaktir/neo4ds/blob/master/Getting%20Started%20Neo4j%20with%20Python%20(For%20Complete%20Beginners).ipynb>)
 - Interactive Structure and Interpretation of Computer Programs: [repo](https://github.com/IIIIllllIIIIllllIIIIllllIIIIllllIIIIll/isicp) + [site](http://www.xuanji.li/isicp)
 - https://devforum.ro/t/noncs-intro-to-python-and-programming/12853

@@ -48,6 +48,7 @@
 - https://www.rollingstone.com/culture/culture-features/anthony-bourdain-jiujitsu-secret-reddit-posts-1268801
 - https://www.youtube.com/playlist?list=PLpz7cLJ1_TwSLBsCZiO1b_O4YnlHAJiB2
 - [writing about a bread maker](https://news.ycombinator.com/item?id=29077398)
+- https://getpocket.com/explore/item/drink-a-cold-beer-and-let-somebody-else-figure-it-out-22-of-anthony-bourdain-s-wisest-quotes-about
 
 #### Alan Turing
 

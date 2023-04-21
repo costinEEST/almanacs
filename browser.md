@@ -504,6 +504,7 @@ javascript: (() =>
 - [Today I set up SEO for rubyandrails.info](https://twitter.com/nleonid/status/1554154237080354818)
 - https://github.com/sw-yx/company-youtubes#business-oriented
 - [High signal information security sources Goggle](https://github.com/forcesunseen/netsec-goggle)
+- https://github.com/marcobiedermann/search-engine-optimization
 
 ### Server-sent events (SSE)
 
