@@ -35,7 +35,7 @@
 - [Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
 - [Patterns in the Machine: A Software Engineering Guide to Embedded Development](https://github.com/johnttaylor/pim) + https://embedded.fm/episodes/438
 
-### Cinema
+### Watch
 
 - [Open West 2019 - Electronics 102: A better Electronics 101 | AJ ONeal](https://m.youtube.com/playlist?list=PLZaEVINf2Bq-OILaE76UkP0uGbBznQ1M-)
 - https://github.com/hellerve/programming-talks#hardware
@@ -53,6 +53,7 @@
 - [Basic Electronic Theory | Cyber City Circuits](https://m.youtube.com/playlist?list=PLD-QkTadkQVPEzlnE6uiG2iREgkCIB6oH)
 - https://youtu.be/myKs04lfuy8 + https://twitter.com/LennertWo/status/1558378348732026881 + https://twitter.com/dcuthbert/status/1575463455770943488 + https://api.starlink.com/public-files/StarlinkWelcomesSecurityResearchersBringOnTheBugs.pdf + https://threatpost.com/starlink-hack/180389/
 - [Video history of Japanese semiconductor industry](https://m.youtube.com/playlist?list=PLyynFETmdQDSSTrYW6YebinY0_g8PVWai)
+- https://hackaday.com/2023/04/04/supercon-2022-chris-combs-reveals-his-art-world-compatibility-layer
 
 ### Cheat sheet
 

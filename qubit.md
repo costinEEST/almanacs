@@ -18,14 +18,6 @@
 - https://singularityhub.com/2021/10/04/how-quantum-computers-can-be-used-to-build-better-quantum-computers
 - https://github.com/hsavit1/Awesome-Quantum-Computation
 
-### Cinema
-
-- [Mithuna Yoganathan](https://m.youtube.com/user/LookingGlassUniverse/about)
-- [Centre for Quantum Technologies](https://m.youtube.com/c/quantumlah/playlists)
-- https://m.youtube.com/playlist?list=PLEBQWzRBb4ioWmrK6jpS3fUI6d_2JeKRp
-- [Early History of Quantum Mechanics | Kathy Joseph](https://m.youtube.com/playlist?list=PLepnjl2hm9tG2VXMd1edYxATvFdA3hcLP)
-- [Freeman Dyson](https://m.youtube.com/playlist?list=PLVV0r6CmEsFzDA6mtmKQEgWfcIu49J4nN)
-
 ### Community
 
 - [Carlo Rovelli](https://www.cpt.univ-mrs.fr/~rovelli) + https://howtoacademy.com/podcasts/cornelia-parker-meets-carlo-rovelli-the-hidden-nature-of-things
@@ -44,3 +36,12 @@
 ### Opinion
 
 - [Light and Quantum Theory: how most physics texts get the explanation of photon emission deliberately wrong](https://www.bretthall.org/light)
+
+### Watch
+
+- [Mithuna Yoganathan](https://m.youtube.com/user/LookingGlassUniverse/about)
+- [Centre for Quantum Technologies](https://m.youtube.com/c/quantumlah/playlists)
+- https://m.youtube.com/playlist?list=PLEBQWzRBb4ioWmrK6jpS3fUI6d_2JeKRp
+- [Early History of Quantum Mechanics | Kathy Joseph](https://m.youtube.com/playlist?list=PLepnjl2hm9tG2VXMd1edYxATvFdA3hcLP)
+- [Freeman Dyson](https://m.youtube.com/playlist?list=PLVV0r6CmEsFzDA6mtmKQEgWfcIu49J4nN)
+- [Intro to Quantum Computing - HACKADAY](https://m.youtube.com/playlist?list=PL_tws4AXg7avHFquKAB6q6cep2pnueLpM) + https://hackaday.io/course/168554-quantum-computing-through-comics + https://github.com/microsoft/Reference-Guide-For-Quantum-Computing-A-Microsoft-Garage-Project

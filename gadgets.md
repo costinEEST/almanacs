@@ -117,6 +117,7 @@
 - https://www.backpacker.com/skills/navigation/how-to-use-a-compass
 - https://blog.albingroen.com/posts/2021-work-from-home-setup
 - https://catid.io/posts/tools
+- https://uses.craftz.dog
 
 ### Webcam
 

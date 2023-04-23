@@ -39,7 +39,6 @@
 - https://m.youtube.com/user/mycodeschool/playlists
 - [The Computers: The Remarkable Story of the ENIAC Programmers.](https://vimeo.com/ondemand/eniac6)
 - https://www.deconstructconf.com/2017/dan-grossman-the-cs-undergrad-curriculum-of-2017
-- [Intro to Quantum Computing - HACKADAY](https://m.youtube.com/playlist?list=PL_tws4AXg7avHFquKAB6q6cep2pnueLpM)
 - https://github.com/JanVanRyswyck/awesome-talks#computer-history
 - https://github.com/Developer-Y/cs-video-courses#quantum-computing
 - [Event-Driven Information Systems](https://m.youtube.com/channel/UCSoUh4ikepF3LkMchruSSaQ/playlists)
