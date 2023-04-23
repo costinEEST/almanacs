@@ -22,8 +22,8 @@
 - https://inquisitivebiologist.com/2019/11/04/book-review-fungipedia-a-brief-compendium-of-mushroom-lore
 - https://bioneers.org/will-mushrooms-be-magic-for-threatened-bees
 - https://www.foragingwildmushrooms.com/
-- https://inquisitivebiologist.com/2020/10/02/book-review-entangled-life-how-fungi-make-our-worlds-change-our-minds-and-shape-our-futures + https://www.youtube.com/user/merlinsheldrake/playlists
-- https://www.youtube.com/user/radmycology/playlists + https://chthaeus.com/collections/books-1/products/radical-mycology-a-treatise-on-seeing-working-with-fungi
+- https://inquisitivebiologist.com/2020/10/02/book-review-entangled-life-how-fungi-make-our-worlds-change-our-minds-and-shape-our-futures + https://m.youtube.com/user/merlinsheldrake/playlists
+- https://m.youtube.com/user/radmycology/playlists + https://chthaeus.com/collections/books-1/products/radical-mycology-a-treatise-on-seeing-working-with-fungi
 - https://www.mycoworks.com/resources
 - [Fungi on Mars? Evidence of Growth and Behavior from Sequential Images](https://news.ycombinator.com/item?id=27065361)
 - https://en.wikipedia.org/wiki/Mushroom_poisoning + https://namyco.org/docs/Mushroom_Poisoning_in_North_America_2015-2016.pdf
@@ -34,10 +34,10 @@
 - https://www.mycoworks.com/resources + https://www.mushroomrevival.com/blogs/podcast/fine-mycelium-with-dr-matt-scullin
 - https://inquisitivebiologist.com/2022/02/25/book-review-finding-the-mother-tree-uncovering-the-wisdom-and-intelligence-of-the-forest
 - [ֻFungal tree of life | László Nagy Laboratory](http://group.szbk.u-szeged.hu/sysbiol/nagy-laszlo-lab-poster.html)
-- https://www.youtube.com/c/MushroomRevival
+- https://m.youtube.com/c/MushroomRevival
 - https://stiinta-pentru-toti.blogspot.com/2022/06/micologia.html
 - https://github.com/MushroomObserver/mushroom-observer
-- https://www.youtube.com/c/TheHumbleFungus/playlists
+- https://m.youtube.com/c/TheHumbleFungus/playlists
 - https://wis-wander.weizmann.ac.il/life-sciences/human-tumors-are-prized-real-estate-fungi-study-finds + https://www.nytimes.com/2022/09/29/science/cancer-tumors-fungi-bacteria-microbiome.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqYhkQVUZCibOVtkqqBaLwvPGxrcxnDriMS2SUy0HwfkTDInF8U7Gead5ZtJ22jWQXthLMbgqSbpy0upbdQRLejWfn6Glyt4DMjln7sW6RH831JbAGuFnoWSxMmLobbkjyLb64huMOX25CKbVzXYhIFpk9MFgdVqs22cahfuQSp4D0dF_2_smApt4RS5RJ3XZ-qm1VGgtfYmOfRre6QIpWuFGWjG1ndKU77oIcg06GkuRBTokoj56sIUATYtRaKXvLBcge979gKESCAFrKISuB54wROvEhgUa1x_XbQYlYVZKM5sjJ8c
 - https://www.freethink.com/space/radiation-on-mars-fungus
 

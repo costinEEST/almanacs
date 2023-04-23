@@ -5,12 +5,12 @@
 
 ### Cinema
 
-- [Emacs Meetups - thoughtbot](https://www.youtube.com/playlist?list=PL8tzorAO7s0he-pp7Y_JDl7-Kz2Qlr_Pj)
-- https://zaiste.net/courses/emacs-doom + https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj
+- [Emacs Meetups - thoughtbot](https://m.youtube.com/playlist?list=PL8tzorAO7s0he-pp7Y_JDl7-Kz2Qlr_Pj)
+- https://zaiste.net/courses/emacs-doom + https://m.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj
 - https://emacsconf.org/2020/talks + https://news.ycombinator.com/item?id=25324311
-- [Stefan learns emacs](https://www.youtube.com/playlist?list=PLkp6BbeMCOm3OHBUUFSHmsJDsaKiKvmm3)
+- [Stefan learns emacs](https://m.youtube.com/playlist?list=PLkp6BbeMCOm3OHBUUFSHmsJDsaKiKvmm3)
 - https://github.com/daviwil/emacs-from-scratch
-- [Sacha Chua](https://www.youtube.com/c/sachactube/videos)
+- [Sacha Chua](https://m.youtube.com/c/sachactube/videos)
 
 ### Community
 

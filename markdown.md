@@ -1,6 +1,6 @@
 ### Cinema
 
-- [Markdown Showdown | Scott Spence](https://www.youtube.com/playlist?list=PLGi_uHe_v04B4xmHjNV7KTesFbqL7x1Xq)
+- [Markdown Showdown | Scott Spence](https://m.youtube.com/playlist?list=PLGi_uHe_v04B4xmHjNV7KTesFbqL7x1Xq)
 
 ### Cheat sheet
 

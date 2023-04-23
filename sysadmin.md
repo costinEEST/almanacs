@@ -11,14 +11,14 @@
 ### Book
 
 - https://www.puppetcookbook.com
-- https://github.com/cyborgdeveloper/cyborg-developer-cookbook + https://www.youtube.com/c/RodrigoMoutinho/videos
+- https://github.com/cyborgdeveloper/cyborg-developer-cookbook + https://m.youtube.com/c/RodrigoMoutinho/videos
 
 ### Cinema
 
 - [ Server Infrastructure for Global Rebellion.](https://media.ccc.de/v/36c3-11008-server_infrastructure_for_global_rebellion)
 - https://github.com/techno-tim/youtube-videos
-- [Managing AWS with Terraform](https://www.youtube.com/playlist?list=PLI8rNSktL2DR9yk5lMxpFcnOHI29-W6N3)
-- [A Packer Primer](https://www.youtube.com/playlist?list=PLI8rNSktL2DSOM8dfvYnkhPLeTRLu8zrf)
+- [Managing AWS with Terraform](https://m.youtube.com/playlist?list=PLI8rNSktL2DR9yk5lMxpFcnOHI29-W6N3)
+- [A Packer Primer](https://m.youtube.com/playlist?list=PLI8rNSktL2DSOM8dfvYnkhPLeTRLu8zrf)
 - https://github.com/cloudcommunity/Free-Certifications
 
 ### Community
@@ -36,7 +36,7 @@
 - [GitHub action for generating sequential build numbers.](https://github.com/einaregilsson/build-number)
 - https://dev.to/azure/learn-how-you-can-add-ci-cd-to-your-app-2o5a
 - [Building a Continuous Integration & Deployment Pipeline Using Docker (CI/CD)](https://www.taniarascia.com/continuous-integration-pipeline-docker)
-- [How to Setup and Deploy by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQrhICMaBrN0aNOrECA_RTUs-)
+- [How to Setup and Deploy by Felipe Lima](https://m.youtube.com/playlist?list=PLrZyA4KBTQrhICMaBrN0aNOrECA_RTUs-)
 - https://devforth.io/blog/step-by-step-guide-to-modern-secure-ci-setup
 - https://www.freecodecamp.org/news/metrics-driven-development
 - https://theresnomon.co/what-modern-ci-cd-should-look-like-e6f50594c2d2
@@ -53,7 +53,7 @@
 
 - [master Docker and become a container expert](https://twitter.com/iximiuz/status/1601166357826981888)
 - https://github.com/scottslowe/learning-tools/tree/main/docker
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUfCf28fye4PN3EXqGMLxxy9
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUfCf28fye4PN3EXqGMLxxy9
 - Sharing SQLite databases across containers is surprisingly brilliant: [tweet](https://twitter.com/rbranson/status/1214648084761739266?) + [article](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
 - [Resurrecting a Dead Library: Part Three - Rehabilitation](https://mtlynch.io/resurrecting-3/)
 - https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
@@ -173,7 +173,7 @@
 - [A set of exercises to prepare for Certified Kubernetes Application Developer exam](https://github.com/dgkanatsios/CKAD-exercises)
 - https://github.com/K8sAcademy/Fundamentals-HandsOn
 - https://github.com/AdminTurnedDevOps/kubernetes-examples
-- https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam + [Chad Crowell](https://www.youtube.com/@kubeskills/playlists)
+- https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam + [Chad Crowell](https://m.youtube.com/@kubeskills/playlists)
 - https://github.com/ShubhamTatvamasi/kubernetes-practice-tests
 - https://github.com/bmuschko/ckad-crash-course
 - https://github.com/bmuschko/cka-crash-course
@@ -240,7 +240,7 @@
 
 - https://itnext.io/prometheus-for-beginners-5f20c2e89b6c
 - https://github.com/yolossn/Prometheus-Basics
-- [Free Grafana Complete course for beginners - I.T Security Labs](https://www.youtube.com/playlist?list=PLyJqGMYm0vnO9osZ-EBV6iu2l10muE2A-)
+- [Free Grafana Complete course for beginners - I.T Security Labs](https://m.youtube.com/playlist?list=PLyJqGMYm0vnO9osZ-EBV6iu2l10muE2A-)
 - [SQL powered operating system instrumentation, monitoring, and analytics.](https://github.com/osquery/osquery)
 - https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf
 - https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics

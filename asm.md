@@ -8,24 +8,24 @@
 - https://www.androidauthority.com/arm-vs-x86-key-differences-explained-568718
 - https://levelup.gitconnected.com/intel-x86-vs-arm-architecture-and-all-key-differences-explained-fb54a04788dc
 - https://www.arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm
-- https://www.youtube.com/playlist?list=PLWMUVtnFsZu6cj_L8NLtePvA7uCgjBH3s
-- https://www.youtube.com/playlist?list=PLWMUVtnFsZu6tA3pja3r7ocQmAmhDQ5cK
+- https://m.youtube.com/playlist?list=PLWMUVtnFsZu6cj_L8NLtePvA7uCgjBH3s
+- https://m.youtube.com/playlist?list=PLWMUVtnFsZu6tA3pja3r7ocQmAmhDQ5cK
 - http://daskunkee.blogspot.com/2020/02/tech-esp32-programming-from-arm64.html
 - https://github.com/Siguza/ios-resources
 - https://github.com/Billy-Ellis/Exploit-Challenges
 - https://github.com/keleshev/compiling-to-assembly-from-scratch + https://news.ycombinator.com/item?id=24609774
-- https://cpulator.01xz.net/?sys=arm-de1soc + https://www.youtube.com/playlist?list=PL2EF13wm-hWAlQe87UB2HV0SVhBXFpXbn + https://www.udemy.com/course/introduction-to-assembly-programming-with-arm
+- https://cpulator.01xz.net/?sys=arm-de1soc + https://m.youtube.com/playlist?list=PL2EF13wm-hWAlQe87UB2HV0SVhBXFpXbn + https://www.udemy.com/course/introduction-to-assembly-programming-with-arm
 - [ARM Assembly Reference Manual for iOS, iPadOS, and macOS](https://github.com/evilpenguin/ARMRef)
 - [what's the most convenient way of lifting x86-64 and ARM64 assembly to SMT these days?](https://twitter.com/halvarflake/status/1556976089456582656)
 - [The AArch64 processor (aka arm64)](https://devblogs.microsoft.com/oldnewthing/20220726-00/?p=106898)
 - https://kddnewton.com/2022/08/11/aarch64-bitmask-immediates.html
 - https://nelsonslog.wordpress.com/2022/08/28/lightweight-arm64-build-run-on-x86
-- [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/spring20/cos217/schedule.html) + https://www.youtube.com/playlist?list=PLwXw5yrGdQS5QQE4FsK3IyVtWcGcJap65
+- [Introduction to Programming Systems](https://www.cs.princeton.edu/courses/archive/spring20/cos217/schedule.html) + https://m.youtube.com/playlist?list=PLwXw5yrGdQS5QQE4FsK3IyVtWcGcJap65
 - https://www.labri.fr/perso/fleury/posts/programming/learning-arm-deep-down-dirty.html
 - https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip + https://twitter.com/jeremyreimer/status/1573390920627941382
 - https://0x434b.dev/misc-study-notes-about-arm-aarch64-assembly-and-the-arm-trusted-execution-environment-tee
 - [An introduction to ARM64 assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
-- https://www.youtube.com/playlist?list=PLAQe3Pnt5c2Ku15CcZ7J93nUB3011J1RL
+- https://m.youtube.com/playlist?list=PLAQe3Pnt5c2Ku15CcZ7J93nUB3011J1RL
 - [Disambiguating Arm, Arm ARM, Armv9, ARM9, ARM64, AArch64, A64, A78](https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm)
 - [AArch64-ExploreExploration of Apple CPUs](https://github.com/name99-org/AArch64-Explore)
 
@@ -58,7 +58,7 @@
 - https://github.com/rootkit-io/awesome-malware-development
 - https://github.com/hackclub/some-assembly-required
 - https://github.com/0xroman1/Scuffed_Low_Level_Stash
-- [Assembly for the Intel, 32-bit architecture. NASM is used as the assembler | Josh Stroschein](https://www.youtube.com/playlist?list=PLHJns8WZXCdvESvdr1BRjo4RHiR1Ylhw9)
+- [Assembly for the Intel, 32-bit architecture. NASM is used as the assembler | Josh Stroschein](https://m.youtube.com/playlist?list=PLHJns8WZXCdvESvdr1BRjo4RHiR1Ylhw9)
 
 ### Cheat sheet
 
@@ -67,16 +67,16 @@
 
 ### Cinema
 
-- [Ray Seyfarth | Michael Harris](https://www.youtube.com/playlist?list=PLOOO61Feqafvf-nnjJaLVdj9OZGnz_CG1)
-- https://www.youtube.com/playlist?list=PLn__CHOEZR1ZQMrP_j_f4l8naO58SIpKm
-- https://www.youtube.com/user/OpenSecurityTraining/playlists
-- [Binary Numbers | ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHX1u3IbBZaAdY17n7l1hJ90)
+- [Ray Seyfarth | Michael Harris](https://m.youtube.com/playlist?list=PLOOO61Feqafvf-nnjJaLVdj9OZGnz_CG1)
+- https://m.youtube.com/playlist?list=PLn__CHOEZR1ZQMrP_j_f4l8naO58SIpKm
+- https://m.youtube.com/user/OpenSecurityTraining/playlists
+- [Binary Numbers | ShellWave](https://m.youtube.com/playlist?list=PLypxmOPCOkHX1u3IbBZaAdY17n7l1hJ90)
 - [Assembly Language Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=5)
-- https://www.youtube.com/@WhatsACreel/playlists?view=1&sort=lad&flow=grid
-- [A mini series on the IEEE 754 Floating Point Standard as used by x86 CPU's | WhatsACreel](https://www.youtube.com/playlist?list=PLKK11Ligqithrgou1e6_kl9HJr1jI_LcT)
-- [For those interested in learning 65816 (SNES Processor) this is where to start. 65816 can perfectly emulate 6502](https://www.youtube.com/playlist?list=PLgvDB6LWam2WvoFvh8tlUqbqw92qWM0aP)
-- [6502 CPU emulator in C++ from scratch](https://www.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)
-- [HackadayU: AVR: Architecture, Assembly and Reverse Engineering](https://www.youtube.com/playlist?list=PL_tws4AXg7avNexvQxkfxfEBtvTtBi6Tu)
+- https://m.youtube.com/@WhatsACreel/playlists?view=1&sort=lad&flow=grid
+- [A mini series on the IEEE 754 Floating Point Standard as used by x86 CPU's | WhatsACreel](https://m.youtube.com/playlist?list=PLKK11Ligqithrgou1e6_kl9HJr1jI_LcT)
+- [For those interested in learning 65816 (SNES Processor) this is where to start. 65816 can perfectly emulate 6502](https://m.youtube.com/playlist?list=PLgvDB6LWam2WvoFvh8tlUqbqw92qWM0aP)
+- [6502 CPU emulator in C++ from scratch](https://m.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)
+- [HackadayU: AVR: Architecture, Assembly and Reverse Engineering](https://m.youtube.com/playlist?list=PL_tws4AXg7avNexvQxkfxfEBtvTtBi6Tu)
 - https://github.com/jeFF0Falltrades/Tutorials/tree/master/master0Fnone_classes/1_x86_Demystified + https://twitter.com/binitamshah/status/1641086905113772033
 
 ### Community

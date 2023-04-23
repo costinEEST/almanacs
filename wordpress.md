@@ -3,7 +3,7 @@
 - [Favorite (Headless) CMS and why?](https://twitter.com/jamesqquick/status/1374751439084519429)
 - https://github.com/stars/esplito/lists/content-management
 - [Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners](https://github.com/GetPublii/Publii)
-- [Using Notion as a CMS](https://www.youtube.com/playlist?list=PL9vQCzMwu2-A02HKFQJDGrgIK_SGvAppb)
+- [Using Notion as a CMS](https://m.youtube.com/playlist?list=PL9vQCzMwu2-A02HKFQJDGrgIK_SGvAppb)
 
 ### Boilerplate
 
@@ -24,10 +24,10 @@
 - [How to Start Block Development with Scaffolding](https://gziolo.pl/2021/02/14/wordcamp-india-2021)
 - [Grzegorz Ziolkowski - How Modern JS Influences WordPress [WordSesh APAC 2020]](https://gziolo.pl/2021/02/27/wordsesh-apac-2020)
 - [Headless WordPress Forms](https://twitter.com/jasonbahl/status/1370767810561904640)
-- https://www.youtube.com/c/WPCasts/playlists
-- https://www.youtube.com/user/kellenmace
+- https://m.youtube.com/c/WPCasts/playlists
+- https://m.youtube.com/user/kellenmace
 - https://egghead.io/courses/headless-wordpress-4a14
-- [Wordpress SASS | Abdu Tawfik](https://www.youtube.com/playlist?list=PLHdp1h1eRH0HhntVcpxnbMUWXSKgZEJ-v)
+- [Wordpress SASS | Abdu Tawfik](https://m.youtube.com/playlist?list=PLHdp1h1eRH0HhntVcpxnbMUWXSKgZEJ-v)
 
 ### Development
 

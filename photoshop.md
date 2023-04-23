@@ -1,6 +1,6 @@
 ### Course
 
-- [Designing App Icons by Michael Flarup](https://www.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
+- [Designing App Icons by Michael Flarup](https://m.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
 
 ### Mockup
 

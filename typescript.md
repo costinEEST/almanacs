@@ -18,27 +18,27 @@
 
 ### Watch
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
 - [Ethan Arrowood](https://github.com/Ethan-Arrowood/talks)
-- [Data Structures in Typescript | Jeff Zhang](https://www.youtube.com/playlist?list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd) + https://github.com/jeffzh4ng/iruka
-- [Object Oriented Typescript | Jeff Zhang](https://www.youtube.com/playlist?list=PLn4fTSbSpY5eY_M1mKWxGa9pViEodofKy)
+- [Data Structures in Typescript | Jeff Zhang](https://m.youtube.com/playlist?list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd) + https://github.com/jeffzh4ng/iruka
+- [Object Oriented Typescript | Jeff Zhang](https://m.youtube.com/playlist?list=PLn4fTSbSpY5eY_M1mKWxGa9pViEodofKy)
 - https://www.udemy.com/course/typescript-design-patterns
 - https://effectivetypescript.com/2021/12/10/typescript-types-the-first-500-years
-- [No BS TS | Jack Herrington](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
-- https://codereviewvideos.com/course/from-jquery-to-typescript + https://www.youtube.com/playlist?list=PL1sZ2OJpPmWZzM8ckdBgVaqTWZwAU_VNP
+- [No BS TS | Jack Herrington](https://m.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
+- https://codereviewvideos.com/course/from-jquery-to-typescript + https://m.youtube.com/playlist?list=PL1sZ2OJpPmWZzM8ckdBgVaqTWZwAU_VNP
 - https://github.com/microsoft/TypeScript-Compiler-Notes
-- [Leaky Abstractions | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3AM082CRmdJlvJqpVPU4xE5)
-- [FP 101 | Victor Boutté](https://www.youtube.com/playlist?list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV), https://github.com/monsieurBoutte/fp-101-series
+- [Leaky Abstractions | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3AM082CRmdJlvJqpVPU4xE5)
+- [FP 101 | Victor Boutté](https://m.youtube.com/playlist?list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV), https://github.com/monsieurBoutte/fp-101-series
 
 ### Course
 
 - https://www.udemy.com/course/understanding-typescript + http://hop.ie/blog/learning-typescript/
 - [Typed Functional Programming in Typescript](https://typescript.fun)
-- [Typescript concepts - TypeWithMe](https://www.youtube.com/playlist?list=PLlYJBXwGoczG73vrUpl4G8WonVS5uNHjn)
-- https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-typescript + https://github.com/glaucia86/curso-typescript-zero-to-hero + https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H
+- [Typescript concepts - TypeWithMe](https://m.youtube.com/playlist?list=PLlYJBXwGoczG73vrUpl4G8WonVS5uNHjn)
+- https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-typescript + https://github.com/glaucia86/curso-typescript-zero-to-hero + https://m.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H
 - https://github.com/ChuckJonas/spotify-fp-ts-example
 - https://github.com/basarat/typescript-for-professionals
-- https://www.udemy.com/course/typescript-with-react-jest-testing + https://www.youtube.com/playlist?list=PLrh-y_cvrt07jehJeFr4o-0dVSDhiy-9f + https://github.com/barosanuemailtest/ts-course-react
+- https://www.udemy.com/course/typescript-with-react-jest-testing + https://m.youtube.com/playlist?list=PLrh-y_cvrt07jehJeFr4o-0dVSDhiy-9f + https://github.com/barosanuemailtest/ts-course-react
 
 ### Community
 

@@ -24,10 +24,10 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeJrvjEuCygYk4QiTXQpOyW
-- [Using Windows 10 - Technical Previews and How Tos! - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdI26ZdgX-F8aAKnh9sq6on)
-- [Operating Systems and You - Becoming a Power User | Qwiklabs-Courses](https://www.youtube.com/playlist?list=PLWbKFGwwAIAdkHHOtJe2zMWloBTlTIzXV)
-- https://www.youtube.com/playlist?list=PLn__CHOEZR1bjS_GvcjzSmZg524jTKQg_
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUeJrvjEuCygYk4QiTXQpOyW
+- [Using Windows 10 - Technical Previews and How Tos! - Scott Hanselman](https://m.youtube.com/playlist?list=PL0M0zPgJ3HSdI26ZdgX-F8aAKnh9sq6on)
+- [Operating Systems and You - Becoming a Power User | Qwiklabs-Courses](https://m.youtube.com/playlist?list=PLWbKFGwwAIAdkHHOtJe2zMWloBTlTIzXV)
+- https://m.youtube.com/playlist?list=PLn__CHOEZR1bjS_GvcjzSmZg524jTKQg_
 - https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp
 
 ### Courses
@@ -111,7 +111,7 @@
 - https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads
 - https://github.com/S3cur3Th1sSh1t/OffensiveVBA
 - https://github.com/sailay1996/awesome_windows_logical_bugs
-- [Tool for Active Directory Certificate Services enumeration and abuse](https://github.com/ly4k/Certipy) + https://www.youtube.com/@hacktricks_LIVE/videos
+- [Tool for Active Directory Certificate Services enumeration and abuse](https://github.com/ly4k/Certipy) + https://m.youtube.com/@hacktricks_LIVE/videos
 
 ### Clean up
 

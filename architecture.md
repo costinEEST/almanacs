@@ -41,12 +41,12 @@
 ### Cinema
 
 - https://www.buildingbeauty.org/nature-of-order-lecture-series
-- https://www.youtube.com/user/30by40/playlists
+- https://m.youtube.com/user/30by40/playlists
 - https://www.re-thinkingthefuture.com/article/20-great-movies-every-architect-should-watch
 - https://www.classicist.org/articles/the-art-of-making-places-a-panel-discussion-on-ciudad-cayala
 - [Creating Sustainable Cities By Design](https://www.asianscientist.com/2021/05/features/asias-changemakers-jason-pomeroy-singapore)
-- [Ohio State: History of Architecture I with Prof. Jacqueline Gargus | CosmoLearning](https://www.youtube.com/playlist?list=PLaLOVNqqD-2HUsGTv_GQ3opJoPPjdM9S6)
-- [Classical architecture school of Notre Dame](https://www.youtube.com/channel/UCj09bn2SMCjtmOv_xgkbchQ/playlists)
+- [Ohio State: History of Architecture I with Prof. Jacqueline Gargus | CosmoLearning](https://m.youtube.com/playlist?list=PLaLOVNqqD-2HUsGTv_GQ3opJoPPjdM9S6)
+- [Classical architecture school of Notre Dame](https://m.youtube.com/channel/UCj09bn2SMCjtmOv_xgkbchQ/playlists)
 
 ### Course
 

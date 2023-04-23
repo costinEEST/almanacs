@@ -12,7 +12,7 @@
 
 ### Cinema
 
-- https://www.youtube.com/c/LondonClojurians/playlists
+- https://m.youtube.com/c/LondonClojurians/playlists
 - ["Stop Writing Dead Programs" by Jack Rusher](https://twitter.com/awbjs/status/1579900617308655616)
 
 ### Community

@@ -4,7 +4,7 @@
 - [(Whistled) melody detection workshop. First presented at LauzHack Days (Nov 13, 2018).](https://github.com/ebezzam/melody-detection)
 - [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 - https://seyonechithrananda.com/Biodojo-Sessions-Math-for-Machine-Learning-0549626788c648309695b4ee3dad8f13
-- [Mathematics for Machine Learning - Linear Algebra | Imperial College London](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+- [Mathematics for Machine Learning - Linear Algebra | Imperial College London](https://m.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 
 ### Calculus
 
@@ -68,66 +68,66 @@
 - https://github.com/llSourcell/learn_math_fast
 - https://github.com/Developer-Y/math-science-video-lectures#mathematics
 - https://github.com/ossu/computer-science#core-math + https://github.com/ossu/computer-science#advanced-math
-- https://twitter.com/FedericoArdila/status/1241414233444810753 + https://www.youtube.com/user/federicoelmatematico/playlists
+- https://twitter.com/FedericoArdila/status/1241414233444810753 + https://m.youtube.com/user/federicoelmatematico/playlists
 - [Cambridge Mathematics Lecture Notes](https://github.com/dalcde/cam-notes)
 - [Notes for courses taken at Harvard (2015--2019)](https://github.com/sujeet-Kim/harvard_notes)
 - http://abel.math.harvard.edu/pamphlets/courses.html
 - https://github.com/hongshin/DiscreteMath
-- https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen https://www.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq
-- https://www.udemy.com/course/math-for-unreal-engine + https://www.youtube.com/playlist?list=PLsyGu3bA_w_CmxrMvj9Hbcnr6rwpkt7c5
+- https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen https://m.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq
+- https://www.udemy.com/course/math-for-unreal-engine + https://m.youtube.com/playlist?list=PLsyGu3bA_w_CmxrMvj9Hbcnr6rwpkt7c5
 - [CSE 101: Design and Analysis of Algorithms](https://cseweb.ucsd.edu//%7Edakane/CSE101)
 - [Advanced Algorithms | David R. Karger](https://6.5210.csail.mit.edu/materials.html)
 - https://github.com/spatialaudio/digital-signal-processing-lecture
 
 ### Cinema
 
-- https://www.youtube.com/user/standupmaths/videos
-- [Tutorials by Inigo Quilez](https://www.youtube.com/playlist?list=PL0EpikNmjs2CYUMePMGh3IjjP4tQlYqji)
-- [CG Experiments and Demos by Inigo Quilez](https://www.youtube.com/playlist?list=PL0EpikNmjs2Dz45-Ru7Rfp8zQ48fI5QOa)
-- [Math by Inigo Quilez](https://www.youtube.com/playlist?list=PL0EpikNmjs2BQr3b2WtTlmhEWHs_Tcm1R)
-- https://www.youtube.com/user/professorleonard57/playlists
-- https://www.youtube.com/results?search_query=%22gilbert+strang%22
-- [MathTheBeautiful](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists)
-- [Sandy Bultena has a great series on Euclid's elements](https://www.youtube.com/channel/UCnHh6XeLupJ5FHSKDh9eIMw/playlists)
-- [Error Correcting Codes (ECCs) by eigenchris](https://www.youtube.com/playlist?list=PLJHszsWbB6hqkOyFCQOAlQtfzC1G9sf2_)
-- [Tensors for Beginners by eigenchris](https://www.youtube.com/playlist?list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG)
-- [Tensor Calculus by eigenchris](https://www.youtube.com/playlist?list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
-- https://www.youtube.com/user/XylyXylyX/playlists
-- [High school math by Eddie Woo]https://www.youtube.com/user/misterwootube/playlists
+- https://m.youtube.com/user/standupmaths/videos
+- [Tutorials by Inigo Quilez](https://m.youtube.com/playlist?list=PL0EpikNmjs2CYUMePMGh3IjjP4tQlYqji)
+- [CG Experiments and Demos by Inigo Quilez](https://m.youtube.com/playlist?list=PL0EpikNmjs2Dz45-Ru7Rfp8zQ48fI5QOa)
+- [Math by Inigo Quilez](https://m.youtube.com/playlist?list=PL0EpikNmjs2BQr3b2WtTlmhEWHs_Tcm1R)
+- https://m.youtube.com/user/professorleonard57/playlists
+- https://m.youtube.com/results?search_query=%22gilbert+strang%22
+- [MathTheBeautiful](https://m.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists)
+- [Sandy Bultena has a great series on Euclid's elements](https://m.youtube.com/channel/UCnHh6XeLupJ5FHSKDh9eIMw/playlists)
+- [Error Correcting Codes (ECCs) by eigenchris](https://m.youtube.com/playlist?list=PLJHszsWbB6hqkOyFCQOAlQtfzC1G9sf2_)
+- [Tensors for Beginners by eigenchris](https://m.youtube.com/playlist?list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG)
+- [Tensor Calculus by eigenchris](https://m.youtube.com/playlist?list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
+- https://m.youtube.com/user/XylyXylyX/playlists
+- [High school math by Eddie Woo]https://m.youtube.com/user/misterwootube/playlists
 - https://projects.iq.harvard.edu/stat110/youtube
-- [Stephen Boyd Convex Optimization](https://www.youtube.com/playlist?list=PL3D9A62846A129C47)
-- [Tobias Osborne](https://www.youtube.com/channel/UCpHjg_Qmzxm3xaAWRrwQPCA/playlists)
-- [David Tong: Lectures on Quantum Field Theory](https://www.youtube.com/playlist?list=PL1C5310BB35555A1C)
-- https://www.youtube.com/user/njwildberger/playlists
-- https://www.youtube.com/user/ControlLectures/playlists
-- https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA/playlists
-- [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
-- [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg/videos)
-- [The Art of Math: A No-Nonsense Guide - Ilya (Ilusha) Tsinis ](https://www.youtube.com/playlist?list=PLtMJUI0rs4e5BLanthvCYmW5EeFs6wY3z)
-- [The Free Will Lectures - John Conway (2009)](https://www.youtube.com/playlist?list=PLhsb6tmzSpixUGjmJq6g9iPm73pMWnPnH)
-- ["CS Theory Toolkit" -- graduate course 15-751 taught at Carnegie Mellon University (CMU) in Spring 2020.](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
+- [Stephen Boyd Convex Optimization](https://m.youtube.com/playlist?list=PL3D9A62846A129C47)
+- [Tobias Osborne](https://m.youtube.com/channel/UCpHjg_Qmzxm3xaAWRrwQPCA/playlists)
+- [David Tong: Lectures on Quantum Field Theory](https://m.youtube.com/playlist?list=PL1C5310BB35555A1C)
+- https://m.youtube.com/user/njwildberger/playlists
+- https://m.youtube.com/user/ControlLectures/playlists
+- https://m.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA/playlists
+- [Real Analysis: Lectures by Professor Francis Su](https://m.youtube.com/playlist?list=PL0E754696F72137EC)
+- [Think Twice](https://m.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg/videos)
+- [The Art of Math: A No-Nonsense Guide - Ilya (Ilusha) Tsinis ](https://m.youtube.com/playlist?list=PLtMJUI0rs4e5BLanthvCYmW5EeFs6wY3z)
+- [The Free Will Lectures - John Conway (2009)](https://m.youtube.com/playlist?list=PLhsb6tmzSpixUGjmJq6g9iPm73pMWnPnH)
+- ["CS Theory Toolkit" -- graduate course 15-751 taught at Carnegie Mellon University (CMU) in Spring 2020.](https://m.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
 - https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills
-- https://www.youtube.com/c/EasyTheory/playlists
-- https://github.com/davidwparker/programmingtil-3d-math + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaxVxzRaSKs1gSSJMknhwrL
-- https://www.youtube.com/c/SyberMath/playlists
-- [Introduction to Complex Analysis | Petra Bonfert-Taylor](https://www.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ)
+- https://m.youtube.com/c/EasyTheory/playlists
+- https://github.com/davidwparker/programmingtil-3d-math + https://m.youtube.com/playlist?list=PLPqKsyEGhUnaxVxzRaSKs1gSSJMknhwrL
+- https://m.youtube.com/c/SyberMath/playlists
+- [Introduction to Complex Analysis | Petra Bonfert-Taylor](https://m.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ)
 - [A strange determinant – Timothy Gowers solves a problem](https://news.ycombinator.com/item?id=26915862)
-- https://www.youtube.com/c/InigoQuilez/playlists
+- https://m.youtube.com/c/InigoQuilez/playlists
 - [Roger Penrose explains Godel's incompleteness theorem in 3 minutes](https://twitter.com/curiouswavefn/status/1405017632659570691)
-- [Mathematical Association of America](https://www.youtube.com/user/MAAvideo/playlists)
+- [Mathematical Association of America](https://m.youtube.com/user/MAAvideo/playlists)
 - [What are some of your favorite recorded math lecturers or talks?](https://twitter.com/JulietteBruce12/status/1538513290178965504)
-- [Math For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
-- [Doing the math | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmpjIoZHybXD4xmXXYrTqlk)
-- [Burkard Polster](https://www.youtube.com/c/Mathologer/playlists) + [Putting Two and Two Together: Selections from the Mathologer Files](https://bookstore.ams.org/mbk-141)
-- [Matematici pentru politehnisti | ALEXANDRU ȘTEFAN NEGRESCU](https://www.youtube.com/channel/UCRcpjorgGE-3-Z-Sg5wu70Q/playlists) + [Admitere UPB 2021 - Matematică](https://www.youtube.com/playlist?list=PLn9oGSe656KTrTYpH8Yjg9rh7j20YmSPj)
+- [Math For Game Devs | Freya Holmér](https://m.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
+- [Doing the math | Scott Manley](https://m.youtube.com/playlist?list=PLYu7z3I8tdEmpjIoZHybXD4xmXXYrTqlk)
+- [Burkard Polster](https://m.youtube.com/c/Mathologer/playlists) + [Putting Two and Two Together: Selections from the Mathologer Files](https://bookstore.ams.org/mbk-141)
+- [Matematici pentru politehnisti | ALEXANDRU ȘTEFAN NEGRESCU](https://m.youtube.com/channel/UCRcpjorgGE-3-Z-Sg5wu70Q/playlists) + [Admitere UPB 2021 - Matematică](https://m.youtube.com/playlist?list=PLn9oGSe656KTrTYpH8Yjg9rh7j20YmSPj)
 
 ### Community
 
 - [American Mathematical Society](https://twitter.com/amermathsoc)
 - http://gustavbertram.com/learning/math
 - [The World of YouTube Math Communication | Scott Hershberger](https://www.ams.org/journals/notices/202210/rnoti-p1789.pdf)
-- [Edward Frenkel](https://www.youtube.com/c/edfrenkel/playlists)
-- Aareyan Manzoor: https://www.youtube.com/@user-og9ub9ds3b/videos, https://aareyanmanzoor.github.io/sources.html
+- [Edward Frenkel](https://m.youtube.com/c/edfrenkel/playlists)
+- Aareyan Manzoor: https://m.youtube.com/@user-og9ub9ds3b/videos, https://aareyanmanzoor.github.io/sources.html
 
 ### Mathematician
 
@@ -176,8 +176,8 @@
 - https://kotaku.com/on-pornhub-math-teacher-makes-his-mark-teaching-calcul-1847927535
 - https://www.observatorcultural.ro/author/liviuornea
 - [David A. Smith](https://dacvs.neocities.org)
-- [Burkard Polster](https://www.youtube.com/c/Mathologer/playlists)
+- [Burkard Polster](https://m.youtube.com/c/Mathologer/playlists)
 - [Jeremy Kun](https://mobile.twitter.com/jeremyjkun/status/1079443879709929472)
-- [Andrej Bauer](https://www.youtube.com/user/bauerandrej/playlists)
-- Christopher Davis: https://www.math.uci.edu/~davis/teach, https://github.com/ChristopherDavisUCI, https://www.youtube.com/user/Review180B/playlists
+- [Andrej Bauer](https://m.youtube.com/user/bauerandrej/playlists)
+- Christopher Davis: https://www.math.uci.edu/~davis/teach, https://github.com/ChristopherDavisUCI, https://m.youtube.com/user/Review180B/playlists
 - [Alexandru Ștefan Negrescu](https://alexnegrescu.wordpress.com/about)

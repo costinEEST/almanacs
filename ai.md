@@ -5,7 +5,7 @@
 ### Artificial general intelligence (AGI)
 
 - [Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI](https://youtu.be/cdiD-9MMpb0) + https://karpathy.medium.com/software-2-0-a64152b37c35 + https://tldrsec.com/blog/tldr-sec-167/#machine-learning
-- https://www.youtube.com/playlist?list=PL1v8zpldgH3qe4xqXgHPyfwJKckvZIjfp
+- https://m.youtube.com/playlist?list=PL1v8zpldgH3qe4xqXgHPyfwJKckvZIjfp
 - https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence
 
 ### Book
@@ -89,7 +89,7 @@
 - [Unconventional Ways to Learn More Online](https://jaredtumiel.github.io/blog/2020/05/12/three-rules.html)
 - https://github.com/microsoft/ML-For-Beginners
 - https://ttumiel.github.io/blog/getting-into-ml
-- https://github.com/CryptoSoc/fastai-lessons + https://github.com/fastai/course22 + https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477 + [fast.ai Part 1, 2019 & Things Jeremy says to do](https://www.youtube.com/playlist?list=PLLvvXm0q8zUanHURpzuEVEyBD0aYsRVX6) + https://github.com/radekosmulski/aiquizzes-anki
+- https://github.com/CryptoSoc/fastai-lessons + https://github.com/fastai/course22 + https://www.fast.ai/2020/08/19/data-ethics + https://news.ycombinator.com/item?id=24213477 + [fast.ai Part 1, 2019 & Things Jeremy says to do](https://m.youtube.com/playlist?list=PLLvvXm0q8zUanHURpzuEVEyBD0aYsRVX6) + https://github.com/radekosmulski/aiquizzes-anki
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
 - https://github.com/bnorbert/Courses/blob/master/History%20Of%20Computer%20Science%20Project/A_brief_history_of_Machine_Learning.pdf
@@ -102,7 +102,7 @@
 - https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning
 - https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
 - https://github.com/lexfridman/mit-deep-learning
-- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w) + https://twitter.com/jure/status/1382743017283493889 + https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w) + https://twitter.com/jure/status/1382743017283493889 + https://m.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 - https://www.udemy.com/course/learn-machine-learning-in-21-days
 - https://inst.eecs.berkeley.edu/~cs188/su21
 - https://github.com/rainyear/Oxford-Machine-Learning-Course-2015
@@ -118,15 +118,15 @@
 
 ### Cinema
 
-- [RL Course by David Silver](https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
-- [CS294-112 Fall 2017 (deep RL course)](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
-- [Two Minute Papers](https://www.youtube.com/user/keeroyz/playlists)
-- [Machine Learning and Programming - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf15KhhTGnSRgniYwcXFS-rK)
-- [Building a Machine Learning Based Web App Firewall/IPS from Scratch | Debasish Mandal](https://www.youtube.com/playlist?list=PLKwUZp9HwWoA7AjUeuWnvQdNXcQ7bF3e1) + http://www.debasish.in/2020/10/videobuilding-machine-learning-based.html
+- [RL Course by David Silver](https://m.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
+- [CS294-112 Fall 2017 (deep RL course)](https://m.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+- [Two Minute Papers](https://m.youtube.com/user/keeroyz/playlists)
+- [Machine Learning and Programming - Vivek Haldar](https://m.youtube.com/playlist?list=PLOuhQnxVenf15KhhTGnSRgniYwcXFS-rK)
+- [Building a Machine Learning Based Web App Firewall/IPS from Scratch | Debasish Mandal](https://m.youtube.com/playlist?list=PLKwUZp9HwWoA7AjUeuWnvQdNXcQ7bF3e1) + http://www.debasish.in/2020/10/videobuilding-machine-learning-based.html
 - https://divyendusingh.com/machine-learning-literacy
-- [Machine Learning Course - Halmstad University](https://www.youtube.com/playlist?list=PLS8J_PRPtGfdnPf9QqT7Itnn2rAHsoWqY)
+- [Machine Learning Course - Halmstad University](https://m.youtube.com/playlist?list=PLS8J_PRPtGfdnPf9QqT7Itnn2rAHsoWqY)
 - https://decision.substack.com/p/full-course-making-friends-with-ml
-- [Beep Boop: Learn AI/ML for free!](https://www.youtube.com/playlist?list=PLZEDsU5Jf868j_oCENz8jonsdTTVp5svv)
+- [Beep Boop: Learn AI/ML for free!](https://m.youtube.com/playlist?list=PLZEDsU5Jf868j_oCENz8jonsdTTVp5svv)
 - [Israel Algorithmic Game Theory Seminar](https://sites.google.com/view/iagtseminar)
 - https://github.com/benthecoder/yt-channels-DS-AI-ML-CS
 
@@ -144,7 +144,7 @@
 - [Daniel Etzold](https://etzold.io)
 - [Noor Siddiqui](https://progressstudies.school/the-torch-of-progress-ep-7-with-noor-siddiqui)
 - [My favorite ML educators](https://twitter.com/amitness/status/1288713405700780033)
-- [Letiția Pârcălăbescu](https://www.youtube.com/c/AICoffeeBreak/playlists)
+- [Letiția Pârcălăbescu](https://m.youtube.com/c/AICoffeeBreak/playlists)
 - [Machine Learning & User Experience (MLUX)](https://www.meetup.com/MLUXmeetup)
 - [Heather Knight](http://www.marilynmonrobot.com/about)
 - [David Valdman](https://twitter.com/dmvaldman)
@@ -166,7 +166,7 @@
 - https://github.com/stars/acheong08/lists/awesome-chatgpt
 - [A git prepare-commit-msg hook for authoring commit messages with GPT-3](https://github.com/zurawiki/gptcommit)
 - https://github.com/humanloop/awesome-chatgpt
-- https://www.youtube.com/@bakztfuture/playlists
+- https://m.youtube.com/@bakztfuture/playlists
 - https://github.com/morpheuslord/GPT_Vuln-analyzer
 - [Building a Virtual Machine Inside ChatGPT](https://news.ycombinator.com/item?id=33847479) + https://twitter.com/317070/status/1599152176344928256
 - [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
@@ -190,8 +190,8 @@
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/openai/openai-cookbook
 - https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash
-- https://www.youtube.com/@bakztfuture/videos
-- https://www.youtube.com/watch?v=mh7wzbWAHFE
+- https://m.youtube.com/@bakztfuture/videos
+- https://m.youtube.com/watch?v=mh7wzbWAHFE
 - https://github.com/sw33tLie/impressive-chatgpt
 - https://github.com/liady/ChatGPT-pdf
 - [app that can quickly and efficiently detect whether an essay is ChatGPT or human written](https://twitter.com/edward_the6/status/1610067688449007618)
@@ -225,7 +225,7 @@
 - [tracking improvements to train large language models?](https://twitter.com/nlpguy_/status/1556881385927098369)
 - [Use OpenAI to generate functioning React Native components](https://github.com/cawfree/react-native-openai-jsx)
 - https://github.com/giuven95/chatgpt-failures
-- https://github.com/C-Nedelcu/talk-to-chatgpt + https://www.youtube.com/@cned9319/videos
+- https://github.com/C-Nedelcu/talk-to-chatgpt + https://m.youtube.com/@cned9319/videos
 - https://www.viorelspinu.com/2022/12/technical-architecture-for-whatsapp.html
 - https://www.facebook.com/groups/aicomunity
 - [6 month learning plan for AI large language models](https://twitter.com/CristiVlad25/status/1618680534972104704)
@@ -296,12 +296,12 @@
 - https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 - https://www.todaysoftmag.ro/article/3614/propunere-de-carte-machine-learning
 - [Personalized Recommendation system with Python](https://github.com/kizoey/book-personal-recommendation)
-- [Deep Learning | João Araújo](https://www.youtube.com/playlist?list=PL-iSnl3GkU0d7CVxHDVKSkfhtFujIjbfh)
+- [Deep Learning | João Araújo](https://m.youtube.com/playlist?list=PL-iSnl3GkU0d7CVxHDVKSkfhtFujIjbfh)
 - https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
 - [Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 - https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
 - [notes for training better deep learning models](https://github.com/google-research/tuning_playbook)
-- [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) + https://github.com/aamini/introtodeeplearning
+- [MIT 6.S191: Introduction to Deep Learning](https://m.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) + https://github.com/aamini/introtodeeplearning
 - [Elena Burceanu](https://ilarele.github.io/#teaching)
 - https://github.com/jacobhilton/deep_learning_curriculum
 
@@ -330,7 +330,7 @@
 - [Removing people from complex backgrounds in real time using TensorFlow.js in the web browser.](https://github.com/jasonmayes/Real-Time-Person-Removal)
 - [Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.](https://github.com/UniversalDataTool/universal-data-tool)
 - [Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy.](https://github.com/bjoernkarmann/project_alias)
-- [AI Projects - Will Kwan](https://www.youtube.com/playlist?list=PLhYmet_wsdVHARIgDLSXpXcs2-XlR0oJ1)
+- [AI Projects - Will Kwan](https://m.youtube.com/playlist?list=PLhYmet_wsdVHARIgDLSXpXcs2-XlR0oJ1)
 - https://github.com/cchen156/Learning-to-See-in-the-Dark
 - https://medium.com/analytics-vidhya/sentiment-analysis-of-restaurant-reviews-542727dc24e2
 - [Build a DIY license plate reader with machine learning](https://github.com/cortexlabs/cortex/tree/master/examples/tensorflow/license-plate-reader) + https://news.ycombinator.com/item?id=24493248
@@ -455,7 +455,7 @@
 ### Neural network
 
 - https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
-- [Neural Networks from Scratch | sentdex](https://nnfs.io) + https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+- [Neural Networks from Scratch | sentdex](https://nnfs.io) + https://m.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
 
 ### Natural language processing (NLP)
 

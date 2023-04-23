@@ -1,6 +1,6 @@
 ### Cinema 
 
-- [Learn Nim | rwxrob](https://www.youtube.com/playlist?list=PLrK9UeDMcQLonBYN7FKnqc7VeGqnj0h9h)
+- [Learn Nim | rwxrob](https://m.youtube.com/playlist?list=PLrK9UeDMcQLonBYN7FKnqc7VeGqnj0h9h)
 
 ### Development
 

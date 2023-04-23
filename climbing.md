@@ -1,6 +1,6 @@
 ### TV
 
-- https://www.youtube.com/user/rockentry/playlists
+- https://m.youtube.com/user/rockentry/playlists
 
 ### Places
 

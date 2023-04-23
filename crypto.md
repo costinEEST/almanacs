@@ -47,7 +47,7 @@
 
 ### Course
 
-- [Introduction to Cryptography (89-656), in Hebrew](https://www.youtube.com/playlist?list=PLM96W_EHEqh4ImClhKxuH4Fqm_Ieiok_B) + https://u.cs.biu.ac.il/~lindell/89-656/main-89-656.html
+- [Introduction to Cryptography (89-656), in Hebrew](https://m.youtube.com/playlist?list=PLM96W_EHEqh4ImClhKxuH4Fqm_Ieiok_B) + https://u.cs.biu.ac.il/~lindell/89-656/main-89-656.html
 - [Introduction to Cryptography - 1s2017](https://docs.google.com/spreadsheets/d/11_dfB1B1iTqjfMBjoWBtLkD14kCxDHsw-wsUbvIfaNg/pubhtml)
 - https://github.com/mikong/stanford-cryptography
 - https://github.com/mithi/simple-cryptography
@@ -58,11 +58,11 @@
 
 ### Cinema
 
-- [Theory and Practice of Cryptography](https://www.youtube.com/playlist?list=PL10875C2002F7E6F6)
-- [ Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+- [Theory and Practice of Cryptography](https://m.youtube.com/playlist?list=PL10875C2002F7E6F6)
+- [ Introduction to Cryptography by Christof Paar](https://m.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 - [Workshop on Elliptic Curve Cryptography ECC 2020](https://eccworkshop.org/2020)
-- [Mentoring Workshop and Videos@Crypto 2021](https://www.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2)
-- [Anastasiia Vixentael](https://www.youtube.com/channel/UCJrzE_cMD8whn6qDO9R8WoA/playlists)
+- [Mentoring Workshop and Videos@Crypto 2021](https://m.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2)
+- [Anastasiia Vixentael](https://m.youtube.com/channel/UCJrzE_cMD8whn6qDO9R8WoA/playlists)
 
 ### Certificates
 
@@ -165,7 +165,7 @@
 ### Practice
 
 - [CryptoHack – A fun platform for learning cryptography](https://cryptohack.org)
-- [Cryptopals on Twitch - Filippo Valsorda](https://www.youtube.com/playlist?list=PLwiyx1dc3P2KoKsYdbZQutKvozOPjDilr)
+- [Cryptopals on Twitch - Filippo Valsorda](https://m.youtube.com/playlist?list=PLwiyx1dc3P2KoKsYdbZQutKvozOPjDilr)
 - https://github.com/alokmenghrajani/go-cryptopals
 - [Crypto design and it includes many challenges with historic or "obscure" procedures and machines.](https://www.mysterytwisterc3.org/en)
 - https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html

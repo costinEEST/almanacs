@@ -4,7 +4,7 @@
 
 ### Course
 
-- [Installing, configuring and using Burp-Suite 2 Free Community Edition and Pro editions - webpwnized](https://www.youtube.com/playlist?list=PLZOToVAK85MoBg65au9EeFkK7qwzppcnU)
+- [Installing, configuring and using Burp-Suite 2 Free Community Edition and Pro editions - webpwnized](https://m.youtube.com/playlist?list=PLZOToVAK85MoBg65au9EeFkK7qwzppcnU)
 - [Burp Suite Deep Dive for Application Security Professionals | Cristi Zot](https://www.udemy.com/course/burpsuitepro)
 - https://github.com/Ignitetechnologies/BurpSuite-For-Pentester
 
@@ -43,7 +43,7 @@
 
 ### Cinema
 
-- [Getting Started with Burp Suite & Webapp Pentesting | BB King](https://www.youtube.com/watch?v=xKudsnN3gkE&t=1868s)
+- [Getting Started with Burp Suite & Webapp Pentesting | BB King](https://m.youtube.com/watch?v=xKudsnN3gkE&t=1868s)
 - [BOUNTY THURSDAYS - BURP 1.7 or 2.0 + more sweet stuff!](https://youtu.be/qnddz5iew1A)
 - https://twitter.com/pentagridsec/status/1372112849661726720 + https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication
 - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/setup.md#burp-suite

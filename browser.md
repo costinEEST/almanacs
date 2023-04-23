@@ -96,7 +96,7 @@ javascript: (() =>
 ### new IntersectionObserver()
 
 - [Using the Intersection Observer web API to improve performance.](https://www.growingwiththeweb.com/2018/01/intersection-observer.html)
-- [Intersection Observer by Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOmWeHkUz34FxIFP8I8X1ae)
+- [Intersection Observer by Kevin Powell](https://m.youtube.com/playlist?list=PL4-IK0AVhVjOmWeHkUz34FxIFP8I8X1ae)
 - https://github.com/snewcomer/intersection-observer-admin
 
 ### new MutationObserver()
@@ -153,7 +153,7 @@ javascript: (() =>
 ### Exploit
 
 - [Awesome list of browser exploitation tutorials ](https://github.com/Escapingbug/awesome-browser-exploit)
-- [Browser Exploitation - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
+- [Browser Exploitation - LiveOverflow](https://m.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
 - [Browser logic vulnerabilities DB](https://github.com/Metnew/uxss-db)
 - [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://twitter.com/Qab/status/1209457592126324737)
 - [Software-based Side-Channel Attacks and Defenses in Restricted Environments (PhD thesis)](https://misc0110.net/web/files/phd_thesis.pdf)
@@ -165,7 +165,7 @@ javascript: (() =>
 - https://github.com/SpiralBL0CK/Browser-Pwning-
 - https://github.com/StarCrossPortal/bug-hunting-101
 - https://github.com/nccgroup/exploit_mitigations
-- https://github.com/cezary-sec/awesome-browser-security + https://www.youtube.com/playlist?list=PLuHcjpINS_OJntoGxRu0FEju5ak0yE_46
+- https://github.com/cezary-sec/awesome-browser-security + https://m.youtube.com/playlist?list=PLuHcjpINS_OJntoGxRu0FEju5ak0yE_46
 
 ### Extension
 
@@ -500,7 +500,7 @@ javascript: (() =>
 - https://www.linkedin.com/pulse/200-unsolicited-seo-tips-mark-williams-cook
 - [The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
 - https://ahrefs.com/blog/seo-glossary
-- [SEO | knowthen](https://www.youtube.com/playlist?list=PLs0HJRuXPAqsj9fxpr8eJdJxCT2fN_G8S)
+- [SEO | knowthen](https://m.youtube.com/playlist?list=PLs0HJRuXPAqsj9fxpr8eJdJxCT2fN_G8S)
 - [Today I set up SEO for rubyandrails.info](https://twitter.com/nleonid/status/1554154237080354818)
 - https://github.com/sw-yx/company-youtubes#business-oriented
 - [High signal information security sources Goggle](https://github.com/forcesunseen/netsec-goggle)
@@ -508,7 +508,7 @@ javascript: (() =>
 
 ### Server-sent events (SSE)
 
-- https://www.youtube.com/playlist?list=PLw5h0DiJ-9PAQ1pKeDanXUjGbjPAluT7S
+- https://m.youtube.com/playlist?list=PLw5h0DiJ-9PAQ1pKeDanXUjGbjPAluT7S
 
 ### Web Audio API
 
@@ -520,12 +520,12 @@ javascript: (() =>
 
 - https://github.com/adalkiran/webrtc-nuts-and-bolts
 - https://github.com/webrtc-for-the-curious/webrtc-for-the-curious
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeu5vBImsX2mMBacbomDrig
-- [WebRTC Boston](https://www.youtube.com/channel/UCOYrKr3E50aY5VhHey-MrzA/playlists)
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUeu5vBImsX2mMBacbomDrig
+- [WebRTC Boston](https://m.youtube.com/channel/UCOYrKr3E50aY5VhHey-MrzA/playlists)
 - [Anyone do much with WebRTC?](https://twitter.com/tannerlinsley/status/1220121545621700609)
 - [Turns a Web Browser into a Web Server with WebRTC](https://github.com/sinclairzx81/smoke)
 - https://github.com/whatismyinternalip/whatismyinternalip.github.io
-- [The various ways your RTC may be crushed; a presentation on RTC DoS attacks - Enable Security](https://www.youtube.com/playlist?list=PLfoovPTqAipVGa__xPSatN9qKC22nTKl7)
+- [The various ways your RTC may be crushed; a presentation on RTC DoS attacks - Enable Security](https://m.youtube.com/playlist?list=PLfoovPTqAipVGa__xPSatN9qKC22nTKl7)
 - https://twitter.com/iggredible/status/1300240215789821954
 - [browser-based internal network scanner that detects victim's LAN IP (loops back via WebRTC)](http://samy.pl/webscan) + https://twitter.com/samykamkar/status/1329124348779667456
 - [A self contained OBS -> FTL -> WebRTC live streaming server.](https://github.com/GRVYDEV/Project-lightspeed)
@@ -558,7 +558,7 @@ javascript: (() =>
 - https://github.com/sunify/canvas-playground
 - https://github.com/desandro/practical-ui-physics
 - [Canvas + JSX + Hooks](https://github.com/jchn/redraw)
-- [Visual Web Development (2021) | Radu Mariescu-Istodor](https://www.youtube.com/playlist?list=PLB0Tybl0UNfb3hTHPfEIg1SPw_-Ca9iIw)
+- [Visual Web Development (2021) | Radu Mariescu-Istodor](https://m.youtube.com/playlist?list=PLB0Tybl0UNfb3hTHPfEIg1SPw_-Ca9iIw)
 - [A library for capturing web page self screenshots](https://github.com/TomasHubelbauer/selfie)
 - https://bkardell.com/blog/OffscreenCanvas.html
 - https://github.com/mattdesl/workshop-generative-art
@@ -573,7 +573,7 @@ javascript: (() =>
 
 ### WebGL
 
-- https://github.com/davidwparker/programmingtil-webgl + https://www.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl
+- https://github.com/davidwparker/programmingtil-webgl + https://m.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl
 - https://tchayen.com/brief-explanation-of-webgl
 - https://www.pheelicks.com/speaking
 - https://github.com/luruke/awesome-casestudy

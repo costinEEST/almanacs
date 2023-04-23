@@ -10,18 +10,18 @@
 ### Community
 
 - https://github.com/sveltejs/community
-- [Tan Li Hau](https://www.youtube.com/channel/UCbmC3HP3FaAFdcZkui8YoMQ/playlists)
+- [Tan Li Hau](https://m.youtube.com/channel/UCbmC3HP3FaAFdcZkui8YoMQ/playlists)
 
 ### Cinema
 
 - https://www.slideshare.net/ChristofferNoring/learning-svelte
 - [Compile Svelte in your head (Part 1)](https://twitter.com/lihautan/status/1235004722970390529)
-- [Svelte Master](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA/playlists)
-- [Svelte Society](https://www.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw)
-- [Sveltecasts](https://www.youtube.com/channel/UCIfNB1TN_Wh40hMh62Hcitw)
-- [Cypress Component Testing for Svelte - gleb bahmutov](https://www.youtube.com/playlist?list=PLP9o9QNnQuAa50lwW3cUql5sgdKIWkapp)
+- [Svelte Master](https://m.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA/playlists)
+- [Svelte Society](https://m.youtube.com/channel/UCZSr5B0l07JXK2FIeWA0-jw)
+- [Sveltecasts](https://m.youtube.com/channel/UCIfNB1TN_Wh40hMh62Hcitw)
+- [Cypress Component Testing for Svelte - gleb bahmutov](https://m.youtube.com/playlist?list=PLP9o9QNnQuAa50lwW3cUql5sgdKIWkapp)
 - https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte
-- https://twitter.com/lihautan/status/1478006391675707392 + https://www.youtube.com/playlist?list=PLoKaNN3BjQX0Ch8C6XHjG4K1Q75ugf6yG
+- https://twitter.com/lihautan/status/1478006391675707392 + https://m.youtube.com/playlist?list=PLoKaNN3BjQX0Ch8C6XHjG4K1Q75ugf6yG
 
 ### Development
 

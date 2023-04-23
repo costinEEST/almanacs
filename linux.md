@@ -18,10 +18,10 @@
 
 ### Cinema
 
-- [Writing a Hypervisor to be able to run MacOS inside it | Hector Martin](https://www.youtube.com/playlist?list=PL68XxS4_ek4ab49xb5qcODWQETyC5vbHi)
-- https://www.youtube.com/c/LinuxPlumbersConference/playlists
+- [Writing a Hypervisor to be able to run MacOS inside it | Hector Martin](https://m.youtube.com/playlist?list=PL68XxS4_ek4ab49xb5qcODWQETyC5vbHi)
+- https://m.youtube.com/c/LinuxPlumbersConference/playlists
 - https://gitlab.com/r00k/as_linux_file_permissions
-- [Writing a Linux kernel driver for the Apple M1 GPU | Asahi Lina](https://www.youtube.com/playlist?list=PL8S0yfRexZUJmwZTnrqWW8ytgiCos300j)
+- [Writing a Linux kernel driver for the Apple M1 GPU | Asahi Lina](https://m.youtube.com/playlist?list=PL8S0yfRexZUJmwZTnrqWW8ytgiCos300j)
 
 ### Course
 
@@ -82,7 +82,7 @@
 - https://chrisdown.name/2019/07/18/linux-memory-management-at-scale.html
 - [A book-in-progress about the linux kernel and its insides](https://github.com/0xAX/linux-insides)
 - [Supplementary material for the paper "Analyzing a Decade of Linux System Calls".](https://github.com/corpaul/decade_of_systemcalls)
-- [Unikernels and Virtual Machines - Vivek Haldar](https://www.youtube.com/playlist?list=PLOuhQnxVenf0dMrMDrq7VT1GwHCib9Sc0)
+- [Unikernels and Virtual Machines - Vivek Haldar](https://m.youtube.com/playlist?list=PLOuhQnxVenf0dMrMDrq7VT1GwHCib9Sc0)
 - https://github.com/danbev/learning-linux-kernel
 - https://github.com/cirosantilli/arm-assembly-cheat
 - https://www.labbott.name/blog/2017/11/15/some-reading
@@ -128,7 +128,7 @@
 - https://nelsonslog.wordpress.com/2020/02/21/upgrading-from-an-unsupported-ubuntu
 - https://www.thegeekdiary.com/understanding-proc-meminfo-file-analyzing-memory-utilization-in-linux
 - https://diablohorn.com/2014/02/27/qp-stop-video-recording-your-command-line-i-want-to-grep-it
-- Linux Command Line Dojo with Hal Pomeranz: [slides](http://www.deer-run.com/~hal/CLDojo.pdf) + [video](https://www.youtube.com/watch?v=-jNkjuWMFrk)
+- Linux Command Line Dojo with Hal Pomeranz: [slides](http://www.deer-run.com/~hal/CLDojo.pdf) + [video](https://m.youtube.com/watch?v=-jNkjuWMFrk)
 - https://ma.ttias.be/different-ways-of-writing-crontab-syntax
 - [Linux Distributions Timeline.](https://github.com/FabioLolix/LinuxTimeline)
 - https://github.com/kmille/linux-debugging

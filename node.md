@@ -8,11 +8,11 @@
 - [Authenticating your single page apps using JSON Web Tokens](https://www.mydevsecops.io/post/knock-knock-who-s-there-authenticating-your-single-page-apps-using-json-web-tokens)
 - [The parts of JWT security nobody talks about](https://pragmaticwebsecurity.com/talks/jwtsecurity.html)
 - [Introduction to OAuth 2.0 and OpenID Connect](https://pragmaticwebsecurity.com/talks/introductionoauth.html)
-- [Passwords are so 1990 by Sam Bellen](https://www.youtube.com/watch?v=PQnpAO2yD5c)
+- [Passwords are so 1990 by Sam Bellen](https://m.youtube.com/watch?v=PQnpAO2yD5c)
 - [Authentication fundamentals: The basics | Azure Active Directory](https://youtu.be/fbSVgC8nGz4)
 - [The best website that teaches the value/need of 2FA to beginners](https://twitter.com/rauchg/status/1206662873776132096)
 - https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql
-- https://github.com/adrianhajdin/project_mern_memories + https://www.youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu
+- https://github.com/adrianhajdin/project_mern_memories + https://m.youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu
 - https://www.slideshare.net/2botech/nordic-apis-platform-summit-oauth-and-openid-connect-for-microservices + https://nordicapis.com/how-to-control-user-identity-within-microservices
 - https://www.slideshare.net/2botech/the-jsonbased-identity-protocol-suite + https://auth0.com/resources/ebooks/jwt-handbook
 - https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why + https://news.ycombinator.com/item?id=22354534
@@ -29,7 +29,7 @@
 - https://github.com/fiatjaf/awesome-loginless
 - https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js
 - https://www.udemy.com/course/oauth-2-simplified
-- https://github.com/wolfejw86/get-racket-twitterbot + https://www.youtube.com/playlist?list=PLU_22oKqONimKqe-2LmsEG5MvaZcRL101
+- https://github.com/wolfejw86/get-racket-twitterbot + https://m.youtube.com/playlist?list=PLU_22oKqONimKqe-2LmsEG5MvaZcRL101
 - [Passwordless and 2FA auth without a database](https://github.com/sffc/easy-no-password)
 - https://github.com/cybrilla/fp-snippets/tree/master/authentication
 - https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site
@@ -73,7 +73,7 @@
 - [Why Bedrock uses Prisma as its ORM](https://bedrock.mxstbr.com/tools/prisma)
 - https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30
 - https://dev.to/noclat/build-a-full-api-with-next-js-1ke
-- [Coding a YouTube Descriptions Updater | Devon Crawford](https://www.youtube.com/playlist?list=PLhsehOUFGYaV1ontAkXqax-U9hdWrwZVS)
+- [Coding a YouTube Descriptions Updater | Devon Crawford](https://m.youtube.com/playlist?list=PLhsehOUFGYaV1ontAkXqax-U9hdWrwZVS)
 - [Write Express middleware and route handlers using async/await](https://github.com/therootcompany/async-router)
 - https://fly.io/blog/api-tokens-a-tedious-survey
 - [Use Swagger v2 JSON Collections to generate Postman v1 collections which include sample request bodies](https://github.com/djfdyuruiry/swagger2-postman-generator)
@@ -91,7 +91,7 @@
 - https://blog.techfund.jp/p/using-rust-for-writing-nodejs-modules
 - https://github.com/nearform/slow-rest-api
 - Design and Implementation of a Node.js Framework for the Development of RESTful APIs: https://github.com/matthyk/bachelor_thesis, https://github.com/matthyk/rosmarin
-- [Building a Timetracking application with Hypermedia | Evert Pot](https://www.youtube.com/playlist?list=PLqqoUVHAFAYPn3obbnhpbPSI3tdzIqc64)
+- [Building a Timetracking application with Hypermedia | Evert Pot](https://m.youtube.com/playlist?list=PLqqoUVHAFAYPn3obbnhpbPSI3tdzIqc64)
 - https://github.com/simonplend/egghead-build-a-modern-rest-api-in-node-js-with-fastify
 - https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend
 - https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling
@@ -122,7 +122,7 @@
 - https://dev.to/tanishqxyz/how-i-made-a-telegram-bot-to-report-gumroad-sales-in-less-than-30-mins-53ke
 - [Bot to help me RSVP on a specific Football meetup group.](https://github.com/divyenduz/footybot)
 - https://www.freecodecamp.org/news/discord-ai-chatbot
-- [Create Telegram bot with NodeJS and Firebase Cloud Functions](https://www.udemy.com/course/telegram-firebase-bot) + https://www.youtube.com/playlist?list=PLhMX5hA0NWUQoRqYNFBE35NlUn1J915M0
+- [Create Telegram bot with NodeJS and Firebase Cloud Functions](https://www.udemy.com/course/telegram-firebase-bot) + https://m.youtube.com/playlist?list=PLhMX5hA0NWUQoRqYNFBE35NlUn1J915M0
 - https://github.com/christian-fei/simple-telegram-message
 - [A simple Telegram ↔ IRC gateway](https://github.com/FruitieX/teleirc)
 - https://github.com/tracy-and-matt/awesome-twitch-dev#javascript-nodejs
@@ -185,20 +185,20 @@
 - [MNUG - Munich NodeJS User Group](http://mnug.de/videos.html)
 - https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine
 - https://twitter.com/MaksymRybak/status/1219313534670077952
-- [Deno - TypeWithMe](https://www.youtube.com/playlist?list=PLlYJBXwGoczE6l8lm0AaFe62EtI3th41L)
+- [Deno - TypeWithMe](https://m.youtube.com/playlist?list=PLlYJBXwGoczE6l8lm0AaFe62EtI3th41L)
 - https://www.slideshare.net/tshemsedinov/presentations
-- [Fullstack Code Challenge with Node, GraphQL and Relay](https://www.youtube.com/playlist?list=PLgzzeV46F4nMW3HSrx1hRSwD9-bgYVuO7)
-- [Node JS Performance Optimizations | Bleeding Code](https://www.youtube.com/playlist?list=PLISqeoHsXJYAIfu4-mgNY0tloWz2uut1t) + https://github.com/bleedingcode/nodejs-performance-optimizations
-- [Free SSL with Greenlock v2 (Let's Encrypt for Node.js)](https://www.youtube.com/playlist?list=PLZaEVINf2Bq_lrS-OOzTUJB4q3HxarlXk)
-- [Build a Node.js web app with no frameworks from scratch (frameworkless.js) | Mike Timofiiv](https://www.youtube.com/playlist?list=PL6GJH3ZLo67Viu3OrB7w-NhHGXBHt8btZ)
-- [OAuth/OpenID | Nat Sakimura](https://www.youtube.com/playlist?list=PLRUD_uiAYejRvQWkS2xjgFW20lRLp4snN)
-- [Franziska Hinkelmann](https://www.youtube.com/user/MrFhinkel/playlists)
-- [Free SSL and Automatic HTTPS (ACME / Let's Encrypt v2 client) for node.js with Express, Connect, and other middleware systems](https://github.com/therootcompany/greenlock-express.js) + https://www.youtube.com/playlist?list=PLZaEVINf2Bq_lrS-OOzTUJB4q3HxarlXk
-- [Utah Node.js Meetup](https://www.youtube.com/playlist?list=PLrPrSDTfMDlpDem7DdJwzBkzza73OtaCn)
-- [Creating Auth0 from Scratch | AJ ONeal](https://www.youtube.com/playlist?list=PLxki0D-ilnqYmidRxvrQoF2jX67wH5OS0)
-- [A Blog as Easy as Gist | AJ ONeal](https://www.youtube.com/playlist?list=PLxki0D-ilnqZcb8UIdivo70ttUGgC__LD)
-- [Role Based Access Control | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN2Tw-PL7dvwLQS6mx4Z5PH9)
-- [Production Ready Server Setup | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN38gy5xZ0PVEaDdZXlPkgP9)
+- [Fullstack Code Challenge with Node, GraphQL and Relay](https://m.youtube.com/playlist?list=PLgzzeV46F4nMW3HSrx1hRSwD9-bgYVuO7)
+- [Node JS Performance Optimizations | Bleeding Code](https://m.youtube.com/playlist?list=PLISqeoHsXJYAIfu4-mgNY0tloWz2uut1t) + https://github.com/bleedingcode/nodejs-performance-optimizations
+- [Free SSL with Greenlock v2 (Let's Encrypt for Node.js)](https://m.youtube.com/playlist?list=PLZaEVINf2Bq_lrS-OOzTUJB4q3HxarlXk)
+- [Build a Node.js web app with no frameworks from scratch (frameworkless.js) | Mike Timofiiv](https://m.youtube.com/playlist?list=PL6GJH3ZLo67Viu3OrB7w-NhHGXBHt8btZ)
+- [OAuth/OpenID | Nat Sakimura](https://m.youtube.com/playlist?list=PLRUD_uiAYejRvQWkS2xjgFW20lRLp4snN)
+- [Franziska Hinkelmann](https://m.youtube.com/user/MrFhinkel/playlists)
+- [Free SSL and Automatic HTTPS (ACME / Let's Encrypt v2 client) for node.js with Express, Connect, and other middleware systems](https://github.com/therootcompany/greenlock-express.js) + https://m.youtube.com/playlist?list=PLZaEVINf2Bq_lrS-OOzTUJB4q3HxarlXk
+- [Utah Node.js Meetup](https://m.youtube.com/playlist?list=PLrPrSDTfMDlpDem7DdJwzBkzza73OtaCn)
+- [Creating Auth0 from Scratch | AJ ONeal](https://m.youtube.com/playlist?list=PLxki0D-ilnqYmidRxvrQoF2jX67wH5OS0)
+- [A Blog as Easy as Gist | AJ ONeal](https://m.youtube.com/playlist?list=PLxki0D-ilnqZcb8UIdivo70ttUGgC__LD)
+- [Role Based Access Control | Truly Mittal](https://m.youtube.com/playlist?list=PLdHg5T0SNpN2Tw-PL7dvwLQS6mx4Z5PH9)
+- [Production Ready Server Setup | Truly Mittal](https://m.youtube.com/playlist?list=PLdHg5T0SNpN38gy5xZ0PVEaDdZXlPkgP9)
 - [From C++ to Node](https://twitter.com/yonatanbd/status/1490665055586770946)
 
 ### Course
@@ -207,13 +207,13 @@
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide
 - [Serverless Framework Bootcamp: Node.js, AWS & Microservices](https://www.udemy.com/course/serverless-framework)
 - https://www.udemy.com/course/learning-koajs-by-building-rest-apis
-- [TypeScript with Node.js by Zaiste](https://www.youtube.com/playlist?list=PLhXZp00uXBk72m_G7E2Bshzd7PDpaInE1)
+- [TypeScript with Node.js by Zaiste](https://m.youtube.com/playlist?list=PLhXZp00uXBk72m_G7E2Bshzd7PDpaInE1)
 - https://khalilstemmler.com/articles/domain-driven-design-intro + https://github.com/stemmlerjs/white-label
 - https://www.freecodecamp.org/news/learn-the-pern-stack-full-course
 - https://github.com/cmda-bt/be-course-17-18
 - https://jamesqquick.hashnode.dev/build-an-authenticated-jamstack-app-with-nextjs-airtable-tailwind-css-and-auth0
 - [7-month web development program covering HTML, CSS, Javascript, Node, and React!](https://github.com/HackYourFuture/curriculum)
-- [Rapid API Development with NodeJS, Fastify, Postgresql, and Swagger | Jay Wolfe](https://www.youtube.com/playlist?list=PLU_22oKqONin7yagFMm3x1tJihYaIVVwa) + https://jaywolfe.dev/blog/rapidly-build-a-nodejs-rest-api-with-fastify-postgresql-and-swagger-documentation
+- [Rapid API Development with NodeJS, Fastify, Postgresql, and Swagger | Jay Wolfe](https://m.youtube.com/playlist?list=PLU_22oKqONin7yagFMm3x1tJihYaIVVwa) + https://jaywolfe.dev/blog/rapidly-build-a-nodejs-rest-api-with-fastify-postgresql-and-swagger-documentation
 - [A workshop for security experts who like JavaScript and javascripters who like (in)security.](https://github.com/jesusprubio/node-for-ninjas)
 - https://github.com/sodium-friends/learntocrypto
 - https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs
@@ -222,7 +222,7 @@
 - https://github.com/redislabs-training/node-js-crash-course
 - [A step by step guide to implement a GraphQL server with Fastify and Mercurius](https://github.com/nearform/the-graphql-workshop)
 - https://github.com/CodeYourFuture/syllabus
-- https://www.youtube.com/playlist?list=PLrZyA4KBTQrikjiihH8BJtofE2qFe_xHk + https://github.com/felipepastorelima/react-pet-hotel + https://github.com/felipepastorelima/vue-library
+- https://m.youtube.com/playlist?list=PLrZyA4KBTQrikjiihH8BJtofE2qFe_xHk + https://github.com/felipepastorelima/react-pet-hotel + https://github.com/felipepastorelima/vue-library
 
 ### Command line
 
@@ -255,8 +255,8 @@
 
 - https://kinsta.com/blog/node-debug
 - https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs
-- [Debug school | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3ACrV-YhqTPY_rgerXqUjaR)
-- [Interviews | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3BgejSy6tT0x_7TEwxSEUIM)
+- [Debug school | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3ACrV-YhqTPY_rgerXqUjaR)
+- [Interviews | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3BgejSy6tT0x_7TEwxSEUIM)
 - [Interested in debugging #nodejs in production?](https://twitter.com/mhdawson1/status/1216761321452163072)
 - https://evilpacket.net/2019/leveraging-javascript-debuggers
 - https://github.com/tj/node-blocked
@@ -325,7 +325,7 @@
 - [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
 - https://boneskull.com/recursive-directory-removal-in-node-js
 - https://2ality.com/2022/06/nodejs-file-system.html
-- [Writing a Program to Auto-Clean-Up node_modules Folders | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3DuNPXDDof1eqXWiD1uEGID)
+- [Writing a Program to Auto-Clean-Up node_modules Folders | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3DuNPXDDof1eqXWiD1uEGID)
 
 ### `node:http`
 
@@ -612,7 +612,7 @@
 - [Who pollutes your prototype? Find the libs on cdnjs in an automated way](https://blog.huli.tw/2022/09/01/en/angularjs-csp-bypass-cdnjs)
 - https://serpdog.io/blog/web-scraping-google-maps
 - [Find fediverse addresses in the profiles of your Twitter followings](https://github.com/lucahammer/fedifinder)
-- https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDRE2J8T5vWups_jIcAfqg7
+- https://m.youtube.com/playlist?list=PLw5h0DiJ-9PDRE2J8T5vWups_jIcAfqg7
 - [module to retrieve organic search results and much more from Google](https://github.com/LuanRT/google-this)
 
 ### Micro service
@@ -627,7 +627,7 @@
 - https://hackernoon.com/learn-how-to-use-webhooks-by-connecting-nodejs-ifttt-and-twitter-k0w3121
 - [cote lets you write zero-configuration microservices in Node.js without nginx, haproxy, redis, rabbitmq or anything else. ](https://github.com/dashersw/cote)
 - [If you ever wanted to gain atomicity for a series of service calls, sagas may be the right choice.](https://twitter.com/AndreyPechkurov/status/1375877582315458569) + https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
-- [React/Node.js/GraphQL Microservices App](https://www.youtube.com/playlist?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6)
+- [React/Node.js/GraphQL Microservices App](https://m.youtube.com/playlist?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6)
 - https://github.com/PacktPublishing/Developing-Microservices-With-Nodejs
 - https://github.com/justinamiller/Microservices-Architecture-Guidelines
 - https://blog.bitsrc.io/building-a-reactive-architecture-around-redis-bc53662b81c8
@@ -681,10 +681,10 @@
 
 - [Strapi + NextJS + FastAPI + Grafana: Containers that rock together](https://github.com/sampittko/tuke-beautofuel)
 - https://blog.dehlin.dev/strapi-v4-with-docker-and-heroku
-- [Strapi CMS | Truly Mittal](https://www.youtube.com/playlist?list=PLdHg5T0SNpN1UBftjI119riLcIUfVR7Ts)
-- [NextJS + Strapi Crash Course](https://www.youtube.com/playlist?list=PL5G1JGPXq1sQdQGUE8zWVOZk4OrvMxsrJ) + https://twitter.com/itsakeller/status/1372583258794377220
-- https://www.youtube.com/playlist?list=PLjhq46XB5LWtBDimrw54T72mqw5J79lb_ + https://github.com/GalloDaSballo/The-Complete-Strapi-Developer
-- https://youtu.be/e9hqEtRmcOw + [The Complete Strapi Course - with plugins and deployment](https://www.udemy.com/course/strapi-course/?referralCode=A45D300BA492E76B86F8) + https://www.youtube.com/playlist?list=PL6m79ej4a2RC8Df1PQLXiImK4YU7CTLTb + https://twitter.com/artcoded_net/status/1555247643135287297
+- [Strapi CMS | Truly Mittal](https://m.youtube.com/playlist?list=PLdHg5T0SNpN1UBftjI119riLcIUfVR7Ts)
+- [NextJS + Strapi Crash Course](https://m.youtube.com/playlist?list=PL5G1JGPXq1sQdQGUE8zWVOZk4OrvMxsrJ) + https://twitter.com/itsakeller/status/1372583258794377220
+- https://m.youtube.com/playlist?list=PLjhq46XB5LWtBDimrw54T72mqw5J79lb_ + https://github.com/GalloDaSballo/The-Complete-Strapi-Developer
+- https://youtu.be/e9hqEtRmcOw + [The Complete Strapi Course - with plugins and deployment](https://www.udemy.com/course/strapi-course/?referralCode=A45D300BA492E76B86F8) + https://m.youtube.com/playlist?list=PL6m79ej4a2RC8Df1PQLXiImK4YU7CTLTb + https://twitter.com/artcoded_net/status/1555247643135287297
 - [Strapi, Remix & Render Let's Build a Productivity Tips App](https://youtu.be/zPT_K4Q8_RA)
 - https://developedbyed.com/p/the-full-stack-react-course?coupon_code=EARLYBIRD
 - [Build A Coding Blog From Scratch](https://coding-blog.crfcourses.com)
@@ -714,7 +714,7 @@
 - https://nemethgergely.com/blog/building-your-blog-from-scratch
 - https://github.com/shakyShane/next-no-js
 - [designcember.com built with Astro](https://github.com/GoogleChromeLabs/designcember)
-- [Eleventy crash course | Jaydan Urwin](https://www.youtube.com/playlist?list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW)
+- [Eleventy crash course | Jaydan Urwin](https://m.youtube.com/playlist?list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW)
 - [Converts an express EJS app into a static HTML website](https://github.com/THHamiltonSmith/ejs-static-converter)
 - [Designing Web APIs with Strapi](https://github.com/PacktPublishing/Building-APIs-with-Strapi) + https://twitter.com/abolkog/status/1506467369048502280
 - https://pepelsbey.dev/articles/eleventy-css-js
@@ -745,7 +745,7 @@
 - https://learn-anything.xyz/web-development/backend/nodejs
 - [How I write backends.](https://github.com/fpereiro/backendlore)
 - https://github.com/IonicaBizau/learning-nodejs
-- [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) + https://www.youtube.com/c/TechDummiesNarendraL/playlists
+- [System Design - Gaurav Sen](https://m.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) + https://m.youtube.com/c/TechDummiesNarendraL/playlists
 - https://github.com/InterviewReady/system-design-resources
 - [Scripting Languages I: Node.js, Python, PHP, Ruby](https://hyperpolyglot.org/scripting)
 - https://quanticdev.com/articles/automating-my-youtube-uploads-using-nodejs

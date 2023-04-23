@@ -16,7 +16,7 @@
 - https://twitter.com/danielmamay/status/1158144437542895618
 - https://twitter.com/monicaMedHist/status/1149342569458876417
 - https://lithub.com/what-we-can-learn-and-should-unlearn-from-albert-camuss-the-plague
-- [Eastory](https://www.youtube.com/channel/UCElybFZ60Hk1NSjgCf7I2sg/playlists)
+- [Eastory](https://m.youtube.com/channel/UCElybFZ60Hk1NSjgCf7I2sg/playlists)
 - https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism
 - https://inquisitivebiologist.com/2019/10/17/book-review-the-science-of-roman-history-biology-climate-and-the-future-of-the-past
 - https://www.exurbe.com/history-book-recommendations
@@ -28,8 +28,8 @@
 - https://going-medieval.com/subject-index-table-of-contents
 - https://acesounderglass.com/2019/10/16/epistemic-spot-checks-the-fall-of-rome
 - https://en.wikipedia.org/wiki/From_Dawn_to_Decadence
-- https://www.youtube.com/playlist?list=PLaLOVNqqD-2HKHtfe4No8Sua_3JEvRHGe  https://cosmolearning.org/courses/medieval-europe-500-1500
-- [Bilkent: HCIV-102 History of Civilization II | CosmoLearning History](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FzHv8-N93sSiMIfmST-Gzf)
+- https://m.youtube.com/playlist?list=PLaLOVNqqD-2HKHtfe4No8Sua_3JEvRHGe  https://cosmolearning.org/courses/medieval-europe-500-1500
+- [Bilkent: HCIV-102 History of Civilization II | CosmoLearning History](https://m.youtube.com/playlist?list=PLaLOVNqqD-2FzHv8-N93sSiMIfmST-Gzf)
 - https://github.com/smenjas/educational-content#history
 - https://twitter.com/MedievalUpdates
 - https://www.visualcapitalist.com/which-countries-still-have-monarchy

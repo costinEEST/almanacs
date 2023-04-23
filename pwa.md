@@ -11,7 +11,7 @@
 
 ### Course
 
-- [Progressive Web App Training - Google Chrome Developers](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh) + https://web.dev/learn/pwa
+- [Progressive Web App Training - Google Chrome Developers](https://m.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh) + https://web.dev/learn/pwa
 
 
 ### Case study
@@ -24,8 +24,8 @@
 
 ### Cinema
 
-- https://www.youtube.com/c/PWABuilder/videos
-- https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY
+- https://m.youtube.com/c/PWABuilder/videos
+- https://m.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY
 
 
 ### Development

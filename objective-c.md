@@ -8,7 +8,7 @@
 
 - [Bob Martin - The Future of Programming](https://youtu.be/ecIWPzGEbFc)
 - https://github.com/robrix/Postmodern-Programming
-- https://objc-retain.com/about + https://www.youtube.com/playlist?list=PLKMpKKmHd2SudZhgs0IQDMmTfbz7QFnYg
+- https://objc-retain.com/about + https://m.youtube.com/playlist?list=PLKMpKKmHd2SudZhgs0IQDMmTfbz7QFnYg
 
 ### Cheat sheet 
 

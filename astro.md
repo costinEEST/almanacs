@@ -1,6 +1,6 @@
 ### Cinema
 
-- https://www.youtube.com/@one-aalam/playlists
+- https://m.youtube.com/@one-aalam/playlists
 
 ### Demo
 

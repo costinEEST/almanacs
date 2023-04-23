@@ -1,8 +1,8 @@
 ### 3D print
 
-- [David Shorey](https://www.youtube.com/playlist?list=PLzeAgAPAU5pOuMMNNiVplrI9GwkEuy1Ns)
+- [David Shorey](https://m.youtube.com/playlist?list=PLzeAgAPAU5pOuMMNNiVplrI9GwkEuy1Ns)
 - https://github.com/stars/JcMinarro/lists/3d-print
-- https://www.youtube.com/playlist?list=PLC_CdHO9Xx-PSbxGmfoLL5uYCQjzSoWZ_
+- https://m.youtube.com/playlist?list=PLC_CdHO9Xx-PSbxGmfoLL5uYCQjzSoWZ_
 - https://www.freethink.com/space/3d-printing-in-microgravity
 
 ### Book
@@ -37,22 +37,22 @@
 
 ### Cinema
 
-- [Open West 2019 - Electronics 102: A better Electronics 101 | AJ ONeal](https://www.youtube.com/playlist?list=PLZaEVINf2Bq-OILaE76UkP0uGbBznQ1M-)
+- [Open West 2019 - Electronics 102: A better Electronics 101 | AJ ONeal](https://m.youtube.com/playlist?list=PLZaEVINf2Bq-OILaE76UkP0uGbBznQ1M-)
 - https://github.com/hellerve/programming-talks#hardware
-- [Review and analysis of bulb. By electronupdate](https://www.youtube.com/playlist?list=PLv9WfM3NgK2xFHrD9BJ4-4CEbRpbe6DFP)
-- [March is for Makers - Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSdpNzI3uaAu-kqWvH4BttLQ)
-- [N-O-D-E](https://www.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA/playlists)
-- https://www.youtube.com/c/jeriellsworth/playlists
-- [Computer History - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc5y3yXGO1VDXtzLeVcr5kCl)
+- [Review and analysis of bulb. By electronupdate](https://m.youtube.com/playlist?list=PLv9WfM3NgK2xFHrD9BJ4-4CEbRpbe6DFP)
+- [March is for Makers - Scott Hanselman](https://m.youtube.com/playlist?list=PL0M0zPgJ3HSdpNzI3uaAu-kqWvH4BttLQ)
+- [N-O-D-E](https://m.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA/playlists)
+- https://m.youtube.com/c/jeriellsworth/playlists
+- [Computer History - Bob Burrough](https://m.youtube.com/playlist?list=PLrKeTeeSgtc5y3yXGO1VDXtzLeVcr5kCl)
 - http://thatmakershow.com
-- [3D printing basics | Thomas Sanladerer](https://www.youtube.com/playlist?list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)
+- [3D printing basics | Thomas Sanladerer](https://m.youtube.com/playlist?list=PLDJMid0lOOYnkcFhz6rfQ6Uj8x7meNJJx)
 - https://github.com/obensource/dev-resources/blob/master/classic-films.md
-- [FPGA computing systems: Background knowledge and introductor](https://www.youtube.com/playlist?list=PL2jykFOD1AWaFLEJm5H4GhRhPX_Ffi0wh)
-- [Open source low cost 3D printable nanopositioner | Edwin Hwu](https://www.youtube.com/playlist?list=PLu3g1bSKNvea5Te0lFSqtd8AIK4uVeLH7)
-- [From NAND To Tetris](https://www.youtube.com/playlist?list=PLu6SHDdOToSdD4-c9nZX2Qu3ZXnNFocOH) + https://nandgame.com/about
-- [Basic Electronic Theory | Cyber City Circuits](https://www.youtube.com/playlist?list=PLD-QkTadkQVPEzlnE6uiG2iREgkCIB6oH)
+- [FPGA computing systems: Background knowledge and introductor](https://m.youtube.com/playlist?list=PL2jykFOD1AWaFLEJm5H4GhRhPX_Ffi0wh)
+- [Open source low cost 3D printable nanopositioner | Edwin Hwu](https://m.youtube.com/playlist?list=PLu3g1bSKNvea5Te0lFSqtd8AIK4uVeLH7)
+- [From NAND To Tetris](https://m.youtube.com/playlist?list=PLu6SHDdOToSdD4-c9nZX2Qu3ZXnNFocOH) + https://nandgame.com/about
+- [Basic Electronic Theory | Cyber City Circuits](https://m.youtube.com/playlist?list=PLD-QkTadkQVPEzlnE6uiG2iREgkCIB6oH)
 - https://youtu.be/myKs04lfuy8 + https://twitter.com/LennertWo/status/1558378348732026881 + https://twitter.com/dcuthbert/status/1575463455770943488 + https://api.starlink.com/public-files/StarlinkWelcomesSecurityResearchersBringOnTheBugs.pdf + https://threatpost.com/starlink-hack/180389/
-- [Video history of Japanese semiconductor industry](https://www.youtube.com/playlist?list=PLyynFETmdQDSSTrYW6YebinY0_g8PVWai)
+- [Video history of Japanese semiconductor industry](https://m.youtube.com/playlist?list=PLyynFETmdQDSSTrYW6YebinY0_g8PVWai)
 
 ### Cheat sheet
 
@@ -76,10 +76,10 @@
 - [Razvan T. Coloja](https://twitter.com/cypresstwist)
 - https://twitter.com/Siliconinsid
 - https://github.com/iiab/internet-in-a-box
-- [Louis Rossmann](https://www.youtube.com/user/rossmanngroup/playlists)
+- [Louis Rossmann](https://m.youtube.com/user/rossmanngroup/playlists)
 - [Windell H. Oskay](https://www.evilmadscientist.com/category/engineering/basics)
 - [hardware hacking courses/content](https://twitter.com/seanmeals/status/1427776005675048962)
-- [Ian Cutress](https://www.youtube.com/c/TechTechPotato/playlists)
+- [Ian Cutress](https://m.youtube.com/c/TechTechPotato/playlists)
 - [Clubul electroniștilor nostalgici](https://www.facebook.com/groups/1416834245239405/files/files)
 - https://github.com/cajt/list_of_robot_electronics
 
@@ -89,7 +89,7 @@
 - https://www.instructables.com/id/Basic-Electronics
 - https://www.instructables.com/id/How-to-solder
 - https://www.instructables.com/class/Electronics-Class
-- https://www.youtube.com/user/AddOhms/playlists
+- https://m.youtube.com/user/AddOhms/playlists
 - https://github.com/unprovable/PentestHardware
 - https://twitter.com/___Sh4rk___/status/1252926852324380672
 - https://blog.bradfieldcs.com/learn-how-computers-work-e7d33dba0238
@@ -97,10 +97,10 @@
 - https://github.com/geohot/fromthetransistor
 - https://www.linkedin.com/posts/omutlu_digital-design-computer-architecture-lecture-activity-6712019755299028993-u0vz
 - [18-642 Embedded System Software Engineering, Fall 2020 | Prof. Philip Koopman](https://course.ece.cmu.edu/~ece642)
-- [OS Internals and Deep Your Understanding of x86 Architecture also a good prepare for Hypervisors](https://twitter.com/astrovax_/status/1320526877442846720) + http://opensecuritytraining.info/IntroX86.html + https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177
-- [The Hardware/Software Interface Class by Luis Ceze and Gaetano Borriello](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL)
+- [OS Internals and Deep Your Understanding of x86 Architecture also a good prepare for Hypervisors](https://twitter.com/astrovax_/status/1320526877442846720) + http://opensecuritytraining.info/IntroX86.html + https://m.youtube.com/playlist?list=PL8F8D45D6C1FFD177
+- [The Hardware/Software Interface Class by Luis Ceze and Gaetano Borriello](https://m.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL)
 - [Proiectarea cu Microprocesoare](https://ocw.cs.pub.ro/courses/pm)
-- [Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y)
+- [Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017](https://m.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y)
 - [32 bit RISC-V homemade CPU out of discrete components](https://hackaday.io/project/178826-pineapple-one) + https://twitter.com/ten_filip/status/1377657517707296774
 - [CS 6501: Hardware Security](http://www.cs.virginia.edu/~av6ds/classes/cs6501/fa20)
 - https://www.udemy.com/course/digital-circuits-system-design-with-vhdl
@@ -125,15 +125,15 @@
 - http://blog.notdot.net/2012/10/Build-your-own-FPGA
 - [Code for Bruno Levy's learn-fpga tutorial written in Amaranth HDL](https://github.com/bl0x/learn-fpga-amaranth)
 - https://blog.robertelder.org/how-to-make-a-cpu
-- [Intel | Advent Of Computing](https://www.youtube.com/playlist?list=PLoKM3Qfxoe0mQOLtmoufTAv5-pqVU0sVm)
+- [Intel | Advent Of Computing](https://m.youtube.com/playlist?list=PLoKM3Qfxoe0mQOLtmoufTAv5-pqVU0sVm)
 - https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors
 - https://www.wired.com/story/intel-lab-istare-hack-chips
-- https://www.youtube.com/c/ZeroToASIC
+- https://m.youtube.com/c/ZeroToASIC
 - [Starlink UT modchip](https://twitter.com/LennertWo/status/1558378348732026881)
 
 ### Diode
 
-- https://www.youtube.com/playlist?list=PLKEd7Km7DjLcd4-fw4Y2h94VRo6NQwb2P
+- https://m.youtube.com/playlist?list=PLKEd7Km7DjLcd4-fw4Y2h94VRo6NQwb2P
 
 ### Field Programmable Gate Arrays (FPGA)
 
@@ -146,9 +146,9 @@
 
 ### Padlock
 
-- [Electronic Locks: Bumping and Other Mischief | Michael Huebler](https://program.mch2022.org/mch2022/talk/KBVXRU) + https://www.youtube.com/playlist?list=PLa9wckl5om1O7xq_yTQ8mooDxtLzqGy4Q
-- [Original Lishi Tools](https://www.youtube.com/channel/UCWBkIQv09counMsKwOMcpvw/playlists)
-- https://www.youtube.com/c/lockpickinglawyer/playlists
+- [Electronic Locks: Bumping and Other Mischief | Michael Huebler](https://program.mch2022.org/mch2022/talk/KBVXRU) + https://m.youtube.com/playlist?list=PLa9wckl5om1O7xq_yTQ8mooDxtLzqGy4Q
+- [Original Lishi Tools](https://m.youtube.com/channel/UCWBkIQv09counMsKwOMcpvw/playlists)
+- https://m.youtube.com/c/lockpickinglawyer/playlists
 - [KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds](https://github.com/MaximeBeasse/KeyDecoder)
 
 ### PCB
@@ -175,9 +175,9 @@
 
 ### Transistor
 
-- https://www.youtube.com/playlist?list=PLoKM3Qfxoe0lrsY5lMl0iiJwNeJ2g-fgy
+- https://m.youtube.com/playlist?list=PLoKM3Qfxoe0lrsY5lMl0iiJwNeJ2g-fgy
 - [How to Build a Transistor](https://twitter.com/rbhar90/status/1367901014771126277)
-- https://www.youtube.com/playlist?list=PLra8hz8BV8EmpAXQvULfpwWHGT5yIr_7U
+- https://m.youtube.com/playlist?list=PLra8hz8BV8EmpAXQvULfpwWHGT5yIr_7U
 - https://lcamtuf.substack.com/p/random-objects-nuvistor
 - https://lcamtuf.substack.com/p/building-a-decent-microphone-amplifier
 - https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors
@@ -200,7 +200,7 @@
 - http://sandsoftwaresound.net/courseware/computer-design
 - [The first exascale supercomputer in the Top500](https://www.top500.org/lists/top500/2022/06)
 - [My business card runs Linux, yours can too](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
-- [Building a CPU on an FPGA | Robert Baruch](https://www.youtube.com/playlist?list=PLEeZWGE3PwbZ44SUf1-vA-UuX9_J_pifB)
+- [Building a CPU on an FPGA | Robert Baruch](https://m.youtube.com/playlist?list=PLEeZWGE3PwbZ44SUf1-vA-UuX9_J_pifB)
 - https://github.com/danbev/learning-fpga
 - https://hackaday.com/2022/09/28/the-first-microcomputer-the-q1
 - https://hackaday.com/2022/09/23/exploring-texas-instruments-forgotten-cpu
@@ -258,7 +258,7 @@
 
 ### Tool
 
-- https://makezine.com/article/technology/collins-lab-electronics-tools + https://www.youtube.com/playlist?list=PLECC9C55893C696A7
+- https://makezine.com/article/technology/collins-lab-electronics-tools + https://m.youtube.com/playlist?list=PLECC9C55893C696A7
 - https://nelsonslog.wordpress.com/2020/05/27/power-monitoring-generator-well
 - [Multi platform circuit layout and schematic drawing tool.](https://github.com/bancika/diy-layout-creator)
 - https://hackaday.com/2020/09/08/teardown-mini-gps-jammer + https://twitter.com/hackaday/status/1303338848940945408

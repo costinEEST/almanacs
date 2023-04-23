@@ -33,13 +33,13 @@
 
 - [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
 - [The musical time machine](https://radiooooo.com)
-- [Royalty free songs](https://www.youtube.com/audiolibrary)
+- [Royalty free songs](https://m.youtube.com/audiolibrary)
 - http://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4 + https://open.spotify.com/playlist/27Ga7s7D4lFUWhZQZ8heqM
-- [Music Theory Distilled - Casey Connor ](https://www.youtube.com/playlist?list=PL618khw0A-t4q9AEsgmfHjqklmkx-PGKq)
-- [Modes and Music Theory - Signals Music Studio](https://www.youtube.com/playlist?list=PLTR7Cy9Sv285kV3pohsMtUg_O_50oDyoR)
-- [Salsa Musicality & Analysis - Marius & Elena Oficial](https://www.youtube.com/playlist?list=PL7iSzWmAf8ttW0TOYeRV9aUvPFphXcrSy)
-- [Bachata Analysis & Musicality - Marius & Elena Oficial](https://www.youtube.com/playlist?list=PL7iSzWmAf8ttkj9BGpgaIfT-v-ehTF53b)
-- [Polyphonic](https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ/playlists)
+- [Music Theory Distilled - Casey Connor ](https://m.youtube.com/playlist?list=PL618khw0A-t4q9AEsgmfHjqklmkx-PGKq)
+- [Modes and Music Theory - Signals Music Studio](https://m.youtube.com/playlist?list=PLTR7Cy9Sv285kV3pohsMtUg_O_50oDyoR)
+- [Salsa Musicality & Analysis - Marius & Elena Oficial](https://m.youtube.com/playlist?list=PL7iSzWmAf8ttW0TOYeRV9aUvPFphXcrSy)
+- [Bachata Analysis & Musicality - Marius & Elena Oficial](https://m.youtube.com/playlist?list=PL7iSzWmAf8ttkj9BGpgaIfT-v-ehTF53b)
+- [Polyphonic](https://m.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ/playlists)
 - [Ishkur's Guide to Electronic Music.](https://music.ishkur.com)
 - https://www.classicfm.com/discover-music/why-is-a-cd-74-minutes
 - https://www.beatportal.com/features/beatports-definitive-guide-to-techno
@@ -55,15 +55,15 @@
 ### Cinema
 
 - https://en.m.wikipedia.org/wiki/Behind_the_Music
-- [Un virus numit OPERĂ. Luminița Arvunescu în dialog cu...](https://www.youtube.com/playlist?list=PLMa4FslxW4Ilm51MJiFUDgOHvDT4KhHcp)
+- [Un virus numit OPERĂ. Luminița Arvunescu în dialog cu...](https://m.youtube.com/playlist?list=PLMa4FslxW4Ilm51MJiFUDgOHvDT4KhHcp)
 - https://www.scena9.ro/article/documentare-muzica-netflix-hbo-go-amazon-prime
 - ["Music 5" (Fundamentals of musicianship)](https://www.facebook.com/stoyan.stefanov/posts/10159085546820960)
-- https://www.youtube.com/c/ShutianCheng/playlists
-- [Music Theory | Brad Harrison Music](https://www.youtube.com/playlist?list=PLDaNGknQ_wTh3eXyjB0smdEYSvqa-wJ1_)
+- https://m.youtube.com/c/ShutianCheng/playlists
+- [Music Theory | Brad Harrison Music](https://m.youtube.com/playlist?list=PLDaNGknQ_wTh3eXyjB0smdEYSvqa-wJ1_)
 - https://www.udemy.com/course/acoustic-guitar-for-beginners
 - https://www.udemy.com/course/beginnerselectronicmusictheory
 - https://www.salon.com/2021/10/16/25-great-rockumentaries-every-music-and-movie-fan-should-see_partner
-- [Listening to Music with Craig Wright | YaleCourses](https://www.youtube.com/playlist?list=PLh9mgdi4rNezhx8YiGIV8I22ICSuzslja)
+- [Listening to Music with Craig Wright | YaleCourses](https://m.youtube.com/playlist?list=PLh9mgdi4rNezhx8YiGIV8I22ICSuzslja)
 - https://www.musanim.com/watch_mam.html
 - https://github.com/smenjas/educational-content#music
 
@@ -85,7 +85,7 @@
 - [Richard Godwin](https://open.spotify.com/user/goblinski)
 - https://radiooooo.com
 - [DISCURI DE VINIL PICK-UP](https://www.facebook.com/groups/1529935950659745)
-- [Andrei Vieru](https://www.youtube.com/c/hammerklaviermusik/playlists)
+- [Andrei Vieru](https://m.youtube.com/c/hammerklaviermusik/playlists)
 - [Irish traditional music](https://thesession.org)
 - https://blog.fullmeasure.uk/awesome-musicality
 - [Musical Heritage Application](https://www.musictree.me)
@@ -106,18 +106,18 @@
 - https://noncombatant.org/2014/11/16/valuemusic-16-nov-2014-guitar-mania
 - https://web.archive.org/web/20150610200755/http://11thmuse.com/Taragot.pdf
 - http://diy-fever.com/reviews/guitar-reviews
-- https://www.youtube.com/user/stewartmacdonald/playlists
-- [Nahre Sol (piano)](https://www.youtube.com/c/NahreSol/playlists)
+- https://m.youtube.com/user/stewartmacdonald/playlists
+- [Nahre Sol (piano)](https://m.youtube.com/c/NahreSol/playlists)
 - http://www.pianopractice.org
 - https://kevinmartinjose.com/2019/01/27/lessons-from-learning-to-play-the-violin
 - https://expmag.com/2021/03/it-looks-like-a-saxophone-but-plays-512-notes-many-youve-never-heard-before
-- [Ukulele build | Matthias Wandel](https://www.youtube.com/playlist?list=PLSnvVtM4lBIXzkp-7ouf6NVfS7fOLGfuN)
+- [Ukulele build | Matthias Wandel](https://m.youtube.com/playlist?list=PLSnvVtM4lBIXzkp-7ouf6NVfS7fOLGfuN)
 - https://github.com/Voluntari-Noi/guitar-lessons
-- [Flute | Matt Godbolt](https://www.youtube.com/playlist?list=PL2HVqYf7If8fbWCYhJTffhMlsjc6rre4y)
+- [Flute | Matt Godbolt](https://m.youtube.com/playlist?list=PL2HVqYf7If8fbWCYhJTffhMlsjc6rre4y)
 - https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano + https://news.ycombinator.com/item?id=27085922
 - https://transylvanianow.com/restoring-transylvanian-pipe-organ-heritage-builder-endre-denes
 - https://arstechnica.com/science/2021/09/study-confirms-superior-sound-of-a-stradivari-is-due-to-the-varnish
-- http://www.laboratoruldemuzica.ro/dictionar + https://www.youtube.com/playlist?list=PLLy7dwV_5aUlP7kiMAUUiVquZIt2eSot4
+- http://www.laboratoruldemuzica.ro/dictionar + https://m.youtube.com/playlist?list=PLLy7dwV_5aUlP7kiMAUUiVquZIt2eSot4
 - https://www.udemy.com/course/the-complete-guide-to-learn-tabla-step-by-step
 - https://www.amazon.com/Accordion-Americas-Klezmer-Zydeco-American/dp/0252078713
 - [The Commodordion is an 8-bit accordion primarily made of C64s, floppy disks, and gaffer tape](https://linusakesson.net/commodordion/index.php)
@@ -142,7 +142,7 @@
 ### Song
 
 - [Why are song lyrics so often about love (or heartbreak)?](https://twitter.com/devonzuegel/status/1244386611657228288)
-- https://www.youtube.com/c/SoundFieldPBS/playlists
+- https://m.youtube.com/c/SoundFieldPBS/playlists
 - [Sound Exploder podcast series](https://twitter.com/asinnema/status/1342252228976013314)
 - https://www.theguardian.com/membership/2021/feb/01/reverberate-guardian-new-podcast-songs-music-soundtrack-history
 - https://bolero.mentine.net/?lang=en#trackZero
@@ -156,7 +156,7 @@
 - https://theatticmag.com/features/2326/the-complex-case-of-romanian-folklore-in-pasolini's-oedipus-rex.html
 - https://bigthink.com/neuropsych/frisson-song-playlist
 - https://mehan.substack.com/p/deafheaven
-- [Russians | Richard E. Cytowic](https://www.youtube.com/playlist?list=PLzpbJH8qD9IgDlM6-uErZpt7P5bAx9JHE)
+- [Russians | Richard E. Cytowic](https://m.youtube.com/playlist?list=PLzpbJH8qD9IgDlM6-uErZpt7P5bAx9JHE)
 - https://blog.andyet.com/2014/02/26/Pete-Seeger-lessons-learned-from-a-hard-link-to-the-old-world
 - https://tedium.co/2022/11/09/the-death-of-the-key-change
 - https://pitchfork.com/features/lists-and-guides/best-albums-2022
@@ -170,16 +170,16 @@
 
 - https://www.montreuxjazzfestival.com/en/50-concerts-to-stream
 - https://en.wikipedia.org/wiki/Music_of_Romania#Jazz
-- [Jazz - enjoytv romania](https://www.youtube.com/playlist?list=PLM-C90vmncosaw4a4uMtdYFIjQcG7vOlq)
+- [Jazz - enjoytv romania](https://m.youtube.com/playlist?list=PLM-C90vmncosaw4a4uMtdYFIjQcG7vOlq)
 - http://diy-fever.com/reviews/picks
 - http://sanuuitam.blogspot.com/2020/12/cel-mai-important-jazzman-roman.html
 - https://news.ycombinator.com/item?id=25999692
 - https://99percentinvisible.org/episode/the-real-book + https://news.ycombinator.com/item?id=26737142
 - https://en.wikipedia.org/wiki/Jazz_Age
 - https://blog.sophaskins.net/blog/jazz-albums-for-the-socially-distanced
-- [The Subject is Jazz](https://www.youtube.com/playlist?list=PLKcw8FT1mrfDQuTAKB1OPXNDuYyby89nY)
+- [The Subject is Jazz](https://m.youtube.com/playlist?list=PLKcw8FT1mrfDQuTAKB1OPXNDuYyby89nY)
 - [Konrad Koselleck](https://twitter.com/AlexDrace/status/1517893147480793088)
-- [Adrian Holovaty plays gypsy jazz](https://www.youtube.com/playlist?list=PL563285DE146F61F7)
+- [Adrian Holovaty plays gypsy jazz](https://m.youtube.com/playlist?list=PL563285DE146F61F7)
 - https://neurosciencenews.com/jazz-music-improvisation-21896
 
 ### Rock
@@ -188,10 +188,10 @@
 
 ### Rap
 
-- [Lyrical Breakdowns - Behind That Suit](https://www.youtube.com/playlist?list=PLeOfpS14yhmFk0wvWMLQYkArbkxEhDLRM)
+- [Lyrical Breakdowns - Behind That Suit](https://m.youtube.com/playlist?list=PLeOfpS14yhmFk0wvWMLQYkArbkxEhDLRM)
 - https://sandymaguire.me/blog/rap-guide
 - https://soulislove.com/kategori/rap
-- [Hip Hop to da Head](https://www.youtube.com/playlist?list=PL3FF42D99BD0CFC43)
+- [Hip Hop to da Head](https://m.youtube.com/playlist?list=PL3FF42D99BD0CFC43)
 - https://nashuproar.org/38921/features/hip-hop-club-feature
 - https://www.devalias.net/personal/interests/dance
 - [Lupe Fiasco presents “Rap Theory & Practice: an Introduction”](https://youtu.be/zBHRsYhYb-o)
@@ -204,5 +204,5 @@
 
 ### Radio
 
-- [Ultimate Study Music Playlist | Thomas Frank](https://www.youtube.com/playlist?list=PLx65qkgCWNJIs3FPaj8JZhduXSpQ_ZfvL)
+- [Ultimate Study Music Playlist | Thomas Frank](https://m.youtube.com/playlist?list=PLx65qkgCWNJIs3FPaj8JZhduXSpQ_ZfvL)
 - https://www.romania-muzical.ro/arhiva-emisiuni/o-istorie-subiectiva-a-muzicii-romaneti/5521/2018

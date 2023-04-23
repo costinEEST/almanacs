@@ -15,7 +15,7 @@
 - https://nathandavison.com/blog/exploiting-email-address-parsing-with-aws-ses
 - [Understanding Isolates: The Future of Programming](https://twitter.com/eastdakota/status/1224555855493746688)
 - [How to run up an IoT MQTT cloud based system, including sensors, database and a website, in a short time.](https://www.hackster.io/claudiuivan1/mqtt-broker-for-real-time-data-db28d4)
-- https://www.marcolancini.it/2020/blog-mapping-moving-clouds-with-cartography + https://eng.lyft.com/iam-whatever-you-say-iam-febce59d1e3b + https://www.youtube.com/watch?v=ZukUmZSKSek + https://www.slideshare.net/ErkangZheng/overcoming-the-old-ways-of-working-with-devsecops-culture-data-graph-and-query
+- https://www.marcolancini.it/2020/blog-mapping-moving-clouds-with-cartography + https://eng.lyft.com/iam-whatever-you-say-iam-febce59d1e3b + https://m.youtube.com/watch?v=ZukUmZSKSek + https://www.slideshare.net/ErkangZheng/overcoming-the-old-ways-of-working-with-devsecops-culture-data-graph-and-query
 - [Build an auto-updating Excel spreadsheet with stock market data using Python, AWS, and the API for the IEX stock exchange.](https://www.freecodecamp.org/news/auto-updating-excel-python-aws)
 - [Building cmdchallenge using Lambda and API Gateway in the AWS free-tier with Docker and Go](https://www.jarv.org/building-cmdchallenge.html)
 - https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide
@@ -35,9 +35,9 @@
 - https://aws.amazon.com/blogs/security/essential-security-for-everyone-building-a-secure-aws-foundation
 - https://github.com/llSourcell/Build-a-Cybersecurity-Startup
 - [Switching to CloudFlare Pages, from AWS S3 + CloudFlare DNS](https://cri.dev/posts/2021-04-13-switching-to-cloudflare-pages-first-impressions-review)
-- [AWS Pentesting | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22PkfO-zJNKOwiE1dSkmGDP)
+- [AWS Pentesting | Tamir Zuhair](https://m.youtube.com/playlist?list=PLbT8rDUmot22PkfO-zJNKOwiE1dSkmGDP)
 - [A collection of DevOps tools including shell & python scripts that automate the boring stuff in AWS.](https://github.com/dannysteenman/aws-toolbox)
-- [The Understanding Modern Cloud Architecture Series](https://www.youtube.com/playlist?list=PLesRB-DxZa8Zj9fNuvPwdL7-M39Ncrou0)
+- [The Understanding Modern Cloud Architecture Series](https://m.youtube.com/playlist?list=PLesRB-DxZa8Zj9fNuvPwdL7-M39Ncrou0)
 - https://www.figma.com/blog/inside-figma-securing-internal-web-apps + https://tldrsec.com/blog/appsec-cali-2019/#the-call-is-coming-from-inside-the-house-lessons-in-securing-internal-apps + https://tldrsec.com/blog/appsec-cali-2019/#lessons-learned-from-the-devsecops-trenches
 - https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need
 - http://ramimac.me/security/syndicated/cloudsec/extended-aws-security-ramp-up
@@ -50,7 +50,7 @@
 - https://github.com/burib/aws-region-table-parser
 - https://twitter.com/mtliendo/status/1507442348292198404 + https://github.com/cdkbook/examples
 - http://kakar.ca/2010/12/24/an-ec2-api-concept-map.html
-- [Just Starting out on AWS? | Be A Better Dev](https://www.youtube.com/playlist?list=PL9nWRykSBSFgKbZAX_96t6GUeqf3YSZsx)
+- [Just Starting out on AWS? | Be A Better Dev](https://m.youtube.com/playlist?list=PL9nWRykSBSFgKbZAX_96t6GUeqf3YSZsx)
 - [the story of Amazon Web Services](https://podcasts.apple.com/us/podcast/acquired/id1050462261?i=1000578485843&ck_subscriber_id=1697730854)
 - https://marcyoung.us/post/book
 - https://github.com/straithe/ReadingAndResourceLists/blob/master/AWS_IAM.md
@@ -124,7 +124,7 @@
 ### IBM
 
 - https://github.com/victorshinya/awesome-ibmcloud
-- Introduction to @IBMcloudant - [tweet](https://twitter.com/glynn_bird/status/1248217903276732419) + [video series](https://www.youtube.com/playlist?list=PLJa_sXrJUZb-Y4Q_5y3yPC8m5RxS5q-_J)
+- Introduction to @IBMcloudant - [tweet](https://twitter.com/glynn_bird/status/1248217903276732419) + [video series](https://m.youtube.com/playlist?list=PLJa_sXrJUZb-Y4Q_5y3yPC8m5RxS5q-_J)
 
 ### Oracle
 

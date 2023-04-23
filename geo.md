@@ -7,7 +7,7 @@
 
 ### Cinema
 
-- [Mad Maps: The World's Strangest Borders Explained](https://www.youtube.com/playlist?list=PLASuLwvdeBybd7hPxnBrSvQKRh0pvMVJb)
+- [Mad Maps: The World's Strangest Borders Explained](https://m.youtube.com/playlist?list=PLASuLwvdeBybd7hPxnBrSvQKRh0pvMVJb)
 
 ### Community
 
@@ -29,8 +29,8 @@
 - https://en.wikipedia.org/wiki/Down_Under_(book)
 - https://www.outsideonline.com/2404906/backpacking-outdoor-maps-guide
 - [A map of the world's virtual museums.](https://virtualmuseums.io) + https://news.ycombinator.com/item?id=22777326
-- [Autostrada A10](https://www.youtube.com/channel/UCB900RmT-yVwbe4XxehSAFw/videos)
-- https://www.youtube.com/user/Wendoverproductions/playlists
+- [Autostrada A10](https://m.youtube.com/channel/UCB900RmT-yVwbe4XxehSAFw/videos)
+- https://m.youtube.com/user/Wendoverproductions/playlists
 - https://github.com/yoshuawuyts/knowledge/blob/master/life/cities.md
 - [We, the Navigators: The Ancient Art of Landfinding in the Pacific - David Lewis](https://www.goodreads.com/book/show/758833.We_the_Navigators)
 - https://en.wikipedia.org/wiki/Mao_Kun_map + https://news.ycombinator.com/item?id=23955026
@@ -43,10 +43,10 @@
 - https://restofworld.org/2021/beyond-silicon-valley
 - https://www.strangeloopcanon.com/p/the-endearing-mythology-of-a-flat
 - https://www.amazon.com/Firmament-Science-Weather-Climate-Surrounds-ebook/dp/B092LN5DQ1
-- [Plaid Avenger: GEOG 1014 - Geography of World Regions | CosmoLearning Geography](https://www.youtube.com/playlist?list=PLaLOVNqqD-2F5X2eC4jjlXuqMmXqmWusB)
+- [Plaid Avenger: GEOG 1014 - Geography of World Regions | CosmoLearning Geography](https://m.youtube.com/playlist?list=PLaLOVNqqD-2F5X2eC4jjlXuqMmXqmWusB)
 - https://www.goodhousekeeping.com/life/travel/g39178103/top-places-that-inspired-disney-movies
 - https://towardsdatascience.com/ive-built-a-public-world-atlas-with-2-500-datasets-to-explore-8b9ae799e345
-- [NWACC Geology Lectures](https://www.youtube.com/playlist?list=PLmRQwysTuced_dqkjnSM4Z_9OWiK8Ebvc)
+- [NWACC Geology Lectures](https://m.youtube.com/playlist?list=PLmRQwysTuced_dqkjnSM4Z_9OWiK8Ebvc)
 - https://www.nationalgeographic.com/travel/article/star-wars-film-movie-locations
 
 ### Listen 

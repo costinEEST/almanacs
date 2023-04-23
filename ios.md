@@ -21,9 +21,9 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLpZBns8dFbgyNxJyVftYp_lRaEsHlGrSl
-- https://www.youtube.com/c/LetsBuildThatApp/playlists
-- https://www.youtube.com/c/fce365official/playlists
+- https://m.youtube.com/playlist?list=PLpZBns8dFbgyNxJyVftYp_lRaEsHlGrSl
+- https://m.youtube.com/c/LetsBuildThatApp/playlists
+- https://m.youtube.com/c/fce365official/playlists
 
 ### Community
 
@@ -31,7 +31,7 @@
 - [find someone in the iOS community who has inspired you through a blog post, a conference presentation, a video, or somehow else, and send them an encouraging tweet.](https://twitter.com/twostraws/status/1208764380969611264)
 - https://www.hackingwithswift.com/articles/96/how-to-deliver-a-talk-at-a-programming-conference
 - https://github.com/Nickersoft/awesome-careers#ios-engineer
-- [Mohammad Azam](https://www.youtube.com/user/azamsharp/playlists)
+- [Mohammad Azam](https://m.youtube.com/user/azamsharp/playlists)
 
 ### Development
 
@@ -76,6 +76,6 @@
 - https://github.com/vixentael/ios-keymanagement-basics
 - [SecureChat PoC using Zero Knowledge Architecture principle](https://github.com/vixentael/zka-example)
 - https://github.com/IdanBanani/iOS-Vulnerability-Research
-- [Let's Play Hacken für Arme DVIA - Damn Vulnerable iOS App | tihmstar](https://www.youtube.com/playlist?list=PLR45q6EBSruKHv6yQ9kiX2grkTYuPx45I)
+- [Let's Play Hacken für Arme DVIA - Damn Vulnerable iOS App | tihmstar](https://m.youtube.com/playlist?list=PLR45q6EBSruKHv6yQ9kiX2grkTYuPx45I)
 - [A collection of POCs/writeups for iOS vulnerabilities](https://github.com/b1n4r1b01/n-days)
 - https://github.com/wangtielei/Slides

@@ -1,6 +1,6 @@
 ### Algorithm
 
-- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) + https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) + https://m.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
 - [Classic algorithms and data structures implemented in JavaScript](https://github.com/felipernb/algorithms.js)
 - https://github.com/humanwhocodes/computer-science-in-javascript
 - https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
@@ -9,7 +9,7 @@
 - https://shihn.ca/posts/2020/roughjs-algorithms
 - https://github.com/excelbrium/algorithms-and-data-structures + https://www.notion.so/JS-Knowledge-5b3b764a595e4494beed9aa96d707efb
 - https://github.com/RobinLinus/prime-counting-function
-- [An Introduction to Scalability and Memory](https://www.youtube.com/playlist?list=PLK_e420JFUuYa-nMGoEeJqsplPvJZTOL5) + [Recursion for the Rest of Us](https://www.youtube.com/playlist?list=PLK_e420JFUuaDfQUnWXoc-rTXg6TzGDh2) + https://github.com/Haseeb-Qureshi/cs-fundamentals
+- [An Introduction to Scalability and Memory](https://m.youtube.com/playlist?list=PLK_e420JFUuYa-nMGoEeJqsplPvJZTOL5) + [Recursion for the Rest of Us](https://m.youtube.com/playlist?list=PLK_e420JFUuaDfQUnWXoc-rTXg6TzGDh2) + https://github.com/Haseeb-Qureshi/cs-fundamentals
 - https://github.com/jasonwebb/morphogenesis-resources + https://thatcreativecode.page
 - https://github.com/imposters-handbook/videos
 - [Learning Algorithms Through Programming and Puzzle Solving](https://leanpub.com/algo) + https://discrete-math-puzzles.github.io/everything.html
@@ -75,7 +75,7 @@
 - https://github.com/sophi-li/OKRs-self-learning
 - https://egghead.io/courses/functional-programming-concepts-in-purescript
 - https://github.com/nicoespeon/refactoringjavascript.dev
-- [Namaste JavaScript | Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) + https://twitter.com/akshaymarch7/status/1318205871726292995
+- [Namaste JavaScript | Akshay Saini](https://m.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) + https://twitter.com/akshaymarch7/status/1318205871726292995
 - https://dev.to/alexeagleson/the-complete-beginners-guide-to-a-career-in-web-development-3fbl
 - https://github.com/jonasschmedtmann/complete-javascript-course
 - [Cursuri Front End | Dan Ichim](https://codesandbox.io/s/rw4wlzo39q)
@@ -96,7 +96,7 @@
 - https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers + https://youtu.be/r76ZjdzFExg
 - https://twitter.com/Aayyushhh/status/1452752483596464130 + https://twitter.com/maxkoretskyi/status/1206604253965324288 + https://www.slideshare.net/secret/7URGTJH8P6JUiG + https://twitter.com/poledesfetes/status/1230151645914390528
 - [Compile, archive, unpack, and load compiled modules leveraging v8 cached data](https://github.com/little-core-labs/tiny-module-compiler)
-- [bytecode compiler+VM for the SerenityOS JavaScript engine | Andreas Kling](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
+- [bytecode compiler+VM for the SerenityOS JavaScript engine | Andreas Kling](https://m.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
 - [JavaScript Ahead-Of-Time Compilation Performance](https://youtu.be/iY1EXHQ6IeQ) + https://github.com/manuel-serrano/hop
 - https://pointersgonewild.com/about
 
@@ -129,7 +129,7 @@
 - [Curated collection of data structures for JavaScript/TypeScript](https://github.com/Yomguithereal/mnemonist)
 - https://github.com/jamiebuilds/itsy-bitsy-data-structures
 - [Data structures for high-performance JavaScript applications](https://github.com/zandaqo/structurae)
-- [Rob Edwards DS Essentials](https://www.youtube.com/playlist?list=PLFmuMD2V4CkyK_mLDVfez5XwJnQdlP9dB)
+- [Rob Edwards DS Essentials](https://m.youtube.com/playlist?list=PLFmuMD2V4CkyK_mLDVfez5XwJnQdlP9dB)
 - https://profy.dev/article/javascript-data-structures
 
 ### Obfuscation
@@ -148,7 +148,7 @@
 - https://twitter.com/mgechev/status/1340082705086726144
 - https://github.com/mikaelbr/awesome-es2015-proxy
 - https://tobireif.com/posts/observing_changes_using_ES6_proxies
-- [Functional Core, Imperative Shell ~ Lachlan Miller](https://www.youtube.com/playlist?list=PLC2LZCNWKL9a7b7Ufx0ngo9xH_b8j9ZlA)
+- [Functional Core, Imperative Shell ~ Lachlan Miller](https://m.youtube.com/playlist?list=PLC2LZCNWKL9a7b7Ufx0ngo9xH_b8j9ZlA)
 - https://github.com/lucamezzalira/awesome-reactive-programming
 - [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - https://lucasfcosta.com/talks/2019-09-20-A-Fun-Introduction-To-Lambda-Calculus.html + https://twitter.com/prathyvsh/status/1188787773441888257
@@ -157,7 +157,7 @@
 - [Proxies are the closest thing JavaScript has to a Macro.](https://twitter.com/rauchg/status/1388231666771001346) + https://github.com/justjavac/proxy-www + https://vimeo.com/364362111 + https://gist.github.com/davidsharp/9184a2e501f5e6704717031bb4951312
 - https://www.better.dev/understanding-memoization-in-javascript
 - https://github.com/rarmatei/egghead-thinking-reactively
-- [What Are Partial Applications? | Jesse Warden](https://www.youtube.com/playlist?list=PLZEZPz6HkCZnsdr7kPQIiN3lCdBBClClI)
+- [What Are Partial Applications? | Jesse Warden](https://m.youtube.com/playlist?list=PLZEZPz6HkCZnsdr7kPQIiN3lCdBBClClI)
 - https://jessewarden.com/books/real-world-functional-programming
 
 ### TIL
@@ -196,9 +196,9 @@
 ### Cinema
 
 - [Session Notes from JSCraftCamp2019](https://github.com/jscraftcamp/jscc19-sessions) + [JavaScript Craftcamp 2018](https://github.com/jscraftcamp/notes2018)
-- [16-Bit Virtual Machine (series on YouTube)](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
-- [Writing a library to convert between Time Zones in JavaScript | AJ ONeal](https://www.youtube.com/playlist?list=PLxki0D-ilnqa6horOJ2G18WMZlJeQFlAt)
-- https://www.youtube.com/c/UtahJS/playlists
+- [16-Bit Virtual Machine (series on YouTube)](https://m.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
+- [Writing a library to convert between Time Zones in JavaScript | AJ ONeal](https://m.youtube.com/playlist?list=PLxki0D-ilnqa6horOJ2G18WMZlJeQFlAt)
+- https://m.youtube.com/c/UtahJS/playlists
 
 ### AI
 
@@ -531,7 +531,7 @@
 - [Custom elements](https://twitter.com/aerotwist/status/1183432513739513862)
 - https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft + https://twitter.com/erikkroes/status/1237370013566279680
 - https://slideslive.com/38918861/lightning-ui-platform-web-components-and-beyond
-- [WCFactory - Bryan Ollendyke](https://www.youtube.com/playlist?list=PLJQupiji7J5cAv7Jfr1V8FvUTx_jJrmCl)
+- [WCFactory - Bryan Ollendyke](https://m.youtube.com/playlist?list=PLJQupiji7J5cAv7Jfr1V8FvUTx_jJrmCl)
 - https://github.com/mateusortiz/webcomponents-the-right-way
 - https://blog.bitsrc.io/web-component-why-you-should-stick-to-react-c56d879a30e1
 - https://twitter.com/btopro/status/1224356404380733440
@@ -543,13 +543,13 @@
 - https://github.com/WICG/virtual-scroller
 - https://blog.medblocks.org/2021-03-28-frontend-frameworks-why-you-should-reconsider + https://twitter.com/sidharth_ramesh/status/1376053744886902784
 - https://github.com/runem/web-component-analyzer
-- [Live Coding lit-element, SVG and Web Components with Uri Shaked](https://www.youtube.com/playlist?list=PLLomdjsHtJTzJpHEYhw3Du9kO9mgypE79)
+- [Live Coding lit-element, SVG and Web Components with Uri Shaked](https://m.youtube.com/playlist?list=PLLomdjsHtJTzJpHEYhw3Du9kO9mgypE79)
 - [a configuration for webcomponents build for IE11 to Chrome](https://github.com/tiberiucorbu/es5-esnext-webcomponent-project-starter)
 - https://www.ctnicholas.dev/articles/reactive-framework-in-40-lines
 - https://github.com/philhawksworth/html-time
 - [Web component server-side rendering](https://github.com/matthewp/ocean)
 - https://whistlr.info/2021/disposable-web-components
-- https://www.youtube.com/playlist?list=PLNqp92_EXZBJQ3015p9C7hqTDXH_WY57v
+- https://m.youtube.com/playlist?list=PLNqp92_EXZBJQ3015p9C7hqTDXH_WY57v
 - https://github.com/GoogleChromeLabs/dark-mode-toggle
 - https://github.com/markcellus/youtube-video-js
 - [converts a date time into your user's time zone and formats it locally](https://github.com/philnash/time-formatter)
@@ -566,7 +566,7 @@
 - https://joyofcode.xyz/test-your-site-in-every-browser
 - https://github.com/fireship-io/tdd-basics-project
 - https://github.com/umaar/learn-browser-testing
-- [End-to-end testing with NightwatchJS](https://www.youtube.com/playlist?list=PLHe-juD38yt4t38EsggDx2viWXz9Dc0OS)
+- [End-to-end testing with NightwatchJS](https://m.youtube.com/playlist?list=PLHe-juD38yt4t38EsggDx2viWXz9Dc0OS)
 - https://testautomationu.applitools.com/jest-testing-tutorial
 - https://github.com/mojoaxel/awesome-regression-testing
 - https://24ways.org/2019/twelve-days-of-front-end-testing
@@ -595,19 +595,19 @@
 - https://mtlynch.io/notes/cypress-vs-playwright
 - https://github.com/mawrkus/js-unit-testing-guide
 - https://github.com/americanexpress/jest-image-snapshot
-- Playwright: https://www.youtube.com/playlist?list=PLV3vu-QEKkB1A7My1ODw2yW3yB-RUfVHn, https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDxogxQ5PwtQypttFGBqiCq,https://www.youtube.com/playlist?list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0Z8, https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc, https://www.youtube.com/playlist?list=PL6flErFppaj0iQG2_Dd72Jz0bfrzZwMZH, https://github.com/mathieumure/workshop-playwright
+- Playwright: https://m.youtube.com/playlist?list=PLV3vu-QEKkB1A7My1ODw2yW3yB-RUfVHn, https://m.youtube.com/playlist?list=PLw5h0DiJ-9PDxogxQ5PwtQypttFGBqiCq,https://m.youtube.com/playlist?list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0Z8, https://m.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc, https://m.youtube.com/playlist?list=PL6flErFppaj0iQG2_Dd72Jz0bfrzZwMZH, https://github.com/mathieumure/workshop-playwright
 
 ### Virtual machine
 
 - [I want to embed an entire JS VM inside a browser.](https://twitter.com/garybernhardt/status/1212468714018242560)
-- [16-Bit Virtual Machine](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
+- [16-Bit Virtual Machine](https://m.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
 - https://github.com/Knevari/js-virtual-machine
 - https://github.com/fraxken/VM-Resources
-- [Emulation in JavaScript | Matt Godbolt](https://www.youtube.com/playlist?list=PL2HVqYf7If8c3E0_m4KH6nwpcclY7eSqf)
+- [Emulation in JavaScript | Matt Godbolt](https://m.youtube.com/playlist?list=PL2HVqYf7If8c3E0_m4KH6nwpcclY7eSqf)
 
 ### Parser
 
-- [Parser Combinators From Scratch](https://www.youtube.com/playlist?list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU)
+- [Parser Combinators From Scratch](https://m.youtube.com/playlist?list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU)
 - https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference
 
 ### Interpreter
@@ -624,7 +624,7 @@
 - [ESLint, Prettier, Stylelint, TypeScript and Semantic Release configs.](https://twitter.com/ManuelBieh/status/1211759353973354497)
 - [Using sourcemaps on production without exposing the source code 🕵️‍](https://itnext.io/using-sourcemaps-on-production-without-revealing-the-source-code-%EF%B8%8F-d41e78e20c89)
 - [I have noticed 23% reduction in bundle size..](https://twitter.com/kuldeepkeshwar/status/1206806003179642880)
-- https://www.youtube.com/user/samccone/playlists
+- https://m.youtube.com/user/samccone/playlists
 - [A simple middleware-style router for isomorphic JavaScript web apps.](https://github.com/kriasoft/universal-router)
 - [A no-datastore, client-side paste service.](https://github.com/topaz/paste)
 - https://github.com/johnpolacek/mdx-deck-demo-greensock
@@ -685,7 +685,7 @@
 - https://transitivebullsh.it/javascript-dev-tools-in-2022
 - [A JSON parser, tokenizer, traverser, and printer](https://github.com/humanwhocodes/momoa)
 - [Unfollow everyone on Linkedin](https://gist.github.com/brunolemos/8e13c5472b0c07d795aa766423569546)
-- [Write a Babel Plugin | Ryan Stelly](https://www.youtube.com/playlist?list=PLimXc_loopipqrNW48HSDf-dqENp7Skkq)
+- [Write a Babel Plugin | Ryan Stelly](https://m.youtube.com/playlist?list=PLimXc_loopipqrNW48HSDf-dqENp7Skkq)
 - [Using Vite to develop an SPA in the context of a production page](https://www.macarthur.me/posts/project-local-spa-onto-production-page)
 - [manage Google Calendars, initially to service "Tango This Week in Singapore"](https://github.com/tangueros/ttwis)
 

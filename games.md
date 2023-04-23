@@ -12,7 +12,7 @@
 - [Chess and Video Chat, no login required](https://rootshirechess.glitch.me) + https://news.ycombinator.com/item?id=22790728
 - [Pure Skill Minesweeper](https://news.ycombinator.com/item?id=24181772)
 - https://itsmattkc.com/etc/snakeqr + https://news.ycombinator.com/item?id=24374570
-- https://www.youtube.com/c/Frankslaboratory/playlists?disable_polymer=true
+- https://m.youtube.com/c/Frankslaboratory/playlists?disable_polymer=true
 - http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive
 - https://www.freecodecamp.org/news/20-award-winning-games-explained-code-breakdown
 - https://github.com/yrgo/awesome-educational-games
@@ -33,8 +33,8 @@
 - https://live.df2px94bfzu8t.amplifyapp.com/pages/janae/my-odyssey-in-teaching-kids-scratch-part-2
 - [Wordle clone made using React, Typescript, and Tailwind](https://github.com/cwackerfuss/react-wordle)
 - nandgame.com: https://twitter.com/alokmenghrajani/status/1559503563423973378, https://www.facebook.com/alok/posts/pfbid02mW5BbXSRBZV43y4k9CSwDsrJeMbenSvng3tAkwNf4gK6bK53zXqJyqiRc8ittouRl
-- [Shenzhen I/O | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
-- https://www.udemy.com/course/scratch-game-programming + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F + https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
+- [Shenzhen I/O | Scott Manley](https://m.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
+- https://www.udemy.com/course/scratch-game-programming + https://m.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F + https://m.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
 - https://github.com/borkshop/emojiquest
 - https://roxanamchirila.com/2022/10/21/jocuri-incrementale-browser
 - https://github.blog/2022-10-06-js13k-2022-winners
@@ -46,6 +46,7 @@
 - [Last Call BBS has a mini game where you're making logic gates using metal, N/P type silicon, and vias](https://www.zachtronics.com/last-call-bbs)
 - [The Human Resource Machine is about how processors work](https://tomorrowcorporation.com/humanresourcemachine)
 - [geography game with Google Map StreetView](https://github.com/GeoGuess/GeoGuess)
+- https://github.com/deck-of-cards/deck-of-cards
 
 ### Mobile based
 
@@ -56,17 +57,17 @@
 
 ### Desktop based
 
-- [Shenzhen I/O is a puzzle game that teaches how to build circuits and write assembly code based on provided elements](http://www.zachtronics.com/shenzhen-io) + [Shenzhen I/O | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
+- [Shenzhen I/O is a puzzle game that teaches how to build circuits and write assembly code based on provided elements](http://www.zachtronics.com/shenzhen-io) + [Shenzhen I/O | Scott Manley](https://m.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
 - [Flappy bird in JS using Raylib](https://github.com/arthurmassanes/flappy)
 
 ### Development
 
-- https://github.com/kareniel/awesome-ctf-challenge-design + https://www.youtube.com/playlist?list=PLox242_JhiuGnnFWFgt9tRVMkqkdz5cM-
+- https://github.com/kareniel/awesome-ctf-challenge-design + https://m.youtube.com/playlist?list=PLox242_JhiuGnnFWFgt9tRVMkqkdz5cM-
 - https://github.com/EnclaveGames/HTML5-Gamedev-Starter
 - [How Crash Bandicoot Hacked The Original Playstation | War Stories | Ars Technica](https://youtu.be/izxXGuVL21o)
 - [How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
 - [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
-- [Make A Game In Unity With No Experience](https://www.youtube.com/playlist?list=PLUtKzyIe0aB3TZfe2wsIgJgGZW5G_NAxa)
+- [Make A Game In Unity With No Experience](https://m.youtube.com/playlist?list=PLUtKzyIe0aB3TZfe2wsIgJgGZW5G_NAxa)
 - https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course
 - https://yoshuawuyts.gitbooks.io/knowledge/content/art/game-theory.html
 - https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game
@@ -82,11 +83,11 @@
 - https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial
 - https://github.com/lettier/3d-game-shaders-for-beginners
 - [Simple game using nasm](https://github.com/timitoc/Asm-Game-Grepit)
-- https://github.com/angle943/react-minesweeper-ts + https://www.youtube.com/playlist?list=PLXzMwWvud3xQHiuDrx9b3UzPxzZUbyEWi
+- https://github.com/angle943/react-minesweeper-ts + https://m.youtube.com/playlist?list=PLXzMwWvud3xQHiuDrx9b3UzPxzZUbyEWi
 - https://github.com/Fishrock123/asteroids-webgl
 - [analysis for Age of Empires II](https://github.com/SiegeEngineers/aoc-dev-resources)
 - https://www.freecodecamp.org/news/code-a-2d-game-engine-using-java
-- https://www.youtube.com/c/DanCox/playlists
+- https://m.youtube.com/c/DanCox/playlists
 - https://github.com/CodeNMore/New-Beginner-Java-Game-Programming-Src
 - https://github.com/coding-horror/basic-computer-games
 - https://uxdesign.cc/wordle-ux-sometimes-a-game-just-feels-good-8749b26834ef
@@ -123,7 +124,7 @@
 - https://github.com/stars/Cykelero/lists/playdate-apps
 - https://github.com/jhuangtw/awesome-lego
 - [Discover the best gamification apps to motivate yourself to achieve your goals](https://gamifylist.com)
-- [Floor796 “is an ever-expanding animation scene showing the life of the 796th floor of the huge space station! The goal of the project is to create as huge animation as possible, with many references to movies, games, anime and memes”. Drag around and click to find out more](https://www.youtube.com/channel/UCribkEGzOuMQ9ozb0ektMCQ)
+- [Floor796 “is an ever-expanding animation scene showing the life of the 796th floor of the huge space station! The goal of the project is to create as huge animation as possible, with many references to movies, games, anime and memes”. Drag around and click to find out more](https://m.youtube.com/channel/UCribkEGzOuMQ9ozb0ektMCQ)
 - [How Flash Games Shaped the Video Game Industry - A visual essay about the Flash games era with contributions from more than 20 former Flash game developers](https://www.flashgamehistory.com) + https://twitter.com/JGamesCh/status/1285960536862216192
 
 ### Opinion

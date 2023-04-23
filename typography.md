@@ -15,15 +15,15 @@
 
 ### Cinema
 
-- https://www.youtube.com/user/TypographyGuru/playlists
-- [Type ref & Inspiration | Pedro Amado](https://www.youtube.com/playlist?list=PLEz9y19-UrRajPM9PTV4xZK8h5x6fzeLG)
-- [Calligraphy | Pedro Amado](https://www.youtube.com/playlist?list=PLEz9y19-UrRYtG5jiDmlOlsTXnZJ7HKN6)
+- https://m.youtube.com/user/TypographyGuru/playlists
+- [Type ref & Inspiration | Pedro Amado](https://m.youtube.com/playlist?list=PLEz9y19-UrRajPM9PTV4xZK8h5x6fzeLG)
+- [Calligraphy | Pedro Amado](https://m.youtube.com/playlist?list=PLEz9y19-UrRYtG5jiDmlOlsTXnZJ7HKN6)
 - [Shani Avni](https://www.shaniavni.com/#comp-jjrbxl0r)
 - [The History and Art of Flourishing with Lynne Yun](https://www.crowdcast.io/e/history-of-flourishing)
 - https://github.com/learn-anything/talks#typography
 - https://www.freecodecamp.org/news/how-to-design-good-typography
 - https://pimpmytype.com/changing-fonts
-- https://www.youtube.com/playlist?list=PL2jykFOD1AWa5sRIhcaOq48M3M-_kTuCH
+- https://m.youtube.com/playlist?list=PL2jykFOD1AWa5sRIhcaOq48M3M-_kTuCH
 
 ### CSS
 

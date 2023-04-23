@@ -31,10 +31,10 @@
 
 ### Cinema
 
-- [Lectures on Digital Photography | Marc Levoy](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i)
-- [Understanding Cameras & Optics](https://www.youtube.com/playlist?list=PL6rx9p3tbsMtyBSl6ihtZ5kv8Kuib3Hbu)
+- [Lectures on Digital Photography | Marc Levoy](https://m.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i)
+- [Understanding Cameras & Optics](https://m.youtube.com/playlist?list=PL6rx9p3tbsMtyBSl6ihtZ5kv8Kuib3Hbu)
 - https://eddimage.com/online-macro-photography-lessons
-- [Ancient Woodland Photography Project | Simon Baxter](https://www.youtube.com/playlist?list=PLU_-AE0y2nG-X99vOvXofaAD2np9pHYwf)
+- [Ancient Woodland Photography Project | Simon Baxter](https://m.youtube.com/playlist?list=PLU_-AE0y2nG-X99vOvXofaAD2np9pHYwf)
 
 ### Formats
 
@@ -45,7 +45,7 @@
 
 ### Historic
 
-- [Photography | Technology Connections](https://www.youtube.com/playlist?list=PLv0jwu7G_DFV6yW240e6CbiwCLaZ0Z6PV)
+- [Photography | Technology Connections](https://m.youtube.com/playlist?list=PLv0jwu7G_DFV6yW240e6CbiwCLaZ0Z6PV)
 
 ### Tool
 

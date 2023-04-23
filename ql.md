@@ -33,4 +33,4 @@
 
 ### Radio
 
-- [Comparing Semgrep and CodeQL](https://www.youtube.com/watch?v=kFHnxfDd2g8&t=39s)
+- [Comparing Semgrep and CodeQL](https://m.youtube.com/watch?v=kFHnxfDd2g8&t=39s)

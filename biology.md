@@ -2,7 +2,7 @@
 
 - https://www.ldeming.com/how-to-help + https://ldeming.posthaven.com/tips-for-newcomers-to-longevity-biotech + https://twitter.com/LauraDeming/status/1317248506738868225
 - [Biology Is Technology: The Promise, Peril, and New Business of Engineering Life](https://www.amazon.com/Biology-Technology-Promise-Business-Engineering/dp/0674060156)
-- https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078 + [Human Behavioral Biology (Robert Sapolsky)](https://www.youtube.com/playlist?list=PL150326949691B199)
+- https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078 + [Human Behavioral Biology (Robert Sapolsky)](https://m.youtube.com/playlist?list=PL150326949691B199)
 - http://index-of.co.uk/Bio-Informatics
 - https://inquisitivebiologist.com/2019/08/16/book-review-unravelling-the-double-helix-the-lost-heroes-of-dna
 - https://jsomers.net/i-should-have-loved-biology + https://news.ycombinator.com/item?id=25136422
@@ -22,11 +22,11 @@
 ### Course
 
 - https://github.com/llSourcell/Learn_Synthetic_Biology
-- [Biology by CrashCourse](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
-- [Exploring Different Species by Journey to the Microcosmos](https://www.youtube.com/playlist?list=PLf3BfsFyWWMF48QHimH7jxHQMX0Q5UpPS)
+- [Biology by CrashCourse](https://m.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
+- [Exploring Different Species by Journey to the Microcosmos](https://m.youtube.com/playlist?list=PLf3BfsFyWWMF48QHimH7jxHQMX0Q5UpPS)
 - https://www.edx.org/course/the-science-and-business-of-biotechnology
-- https://www.youtube.com/user/bozemanbiology/playlists
-- [Bioengineering 101 Class - Josiah Zayner](https://www.youtube.com/playlist?list=PLNAhY1w2w78qIZLdi1Y69q1_fo0PVolRA)
+- https://m.youtube.com/user/bozemanbiology/playlists
+- [Bioengineering 101 Class - Josiah Zayner](https://m.youtube.com/playlist?list=PLNAhY1w2w78qIZLdi1Y69q1_fo0PVolRA)
 - https://learn.genetics.utah.edu + https://news.ycombinator.com/item?id=23295590
 - https://www.edx.org/course/the-science-and-business-of-biotechnology
 - https://github.com/Developer-Y/cs-video-courses#computational-biology
@@ -49,23 +49,23 @@
 
 ### Cinema
 
-- [BIOL 1020 - Biology for non-majors. Dr. Leonard Robertson | ETSU Online](https://www.youtube.com/playlist?list=PLAjrswY6TkLAGyEefr6CmsuTaWBKlzKIw)
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUe2RDl_soTaxj1KVuuQFOUX
+- [BIOL 1020 - Biology for non-majors. Dr. Leonard Robertson | ETSU Online](https://m.youtube.com/playlist?list=PLAjrswY6TkLAGyEefr6CmsuTaWBKlzKIw)
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUe2RDl_soTaxj1KVuuQFOUX
 - https://www.pbs.org/kenburns/the-gene
-- [Signalling Theory and the Genetic Code](https://www.youtube.com/playlist?list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o) + https://twitter.com/StatedClearly/status/1349828940232355850
+- [Signalling Theory and the Genetic Code](https://m.youtube.com/playlist?list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o) + https://twitter.com/StatedClearly/status/1349828940232355850
 - https://github.com/llSourcell/Molecular_Dharma_Episode_Schedule
 - https://aklectures.com/subject/biology/immune-system
-- [Studying biology | Dr Bhavsar Biology](https://www.youtube.com/playlist?list=PLQR2uBWlxskA0QqZ6PWnw8L39EpasMZof)
-- [Biological molocules | Dr Bhavsar Biology](https://www.youtube.com/playlist?list=PLQR2uBWlxskC_vND25huSfnCiaRHIrArH)
+- [Studying biology | Dr Bhavsar Biology](https://m.youtube.com/playlist?list=PLQR2uBWlxskA0QqZ6PWnw8L39EpasMZof)
+- [Biological molocules | Dr Bhavsar Biology](https://m.youtube.com/playlist?list=PLQR2uBWlxskC_vND25huSfnCiaRHIrArH)
 - https://www.ibiology.org/genetics-and-gene-regulation/experiment-meselson-and-stahl
-- [Biotech | Ciro Santilli](https://www.youtube.com/playlist?list=PLcZOZrP1P_V6dkJ8gXmlYh35HT5e2STIz)
-- [Biomedical Animation by wehi.tv | WEHImovies](https://www.youtube.com/playlist?list=PLD0444BD542B4D7D9)
-- [Basic Physiology | Alila Medical Media](https://www.youtube.com/playlist?list=PLJIs8ZcKXHUy7zyDIGhZVIflbfulNFif0)
-- [Bioinformatics-along | Simon Cockell](https://www.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9)
-- [Bio Hacking Chip Implants | Amie DD](https://www.youtube.com/playlist?list=PL9iNdDEmD5jbIxHl5wGZlUs019e3ogl7E)
-- [Cell Biology Lecture Series | Weizmann Institute of Science](https://www.youtube.com/playlist?list=PLcDxx1De7CZ0O9_K7uQCdBzVRrH_x5oLa)
-- [Systems biology | Weizmann Institute of Science](https://www.youtube.com/playlist?list=PL0EF0E201934F5813)
-- Getting up to Speed in Biology> https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about + https://www.youtube.com/playlist?list=PLUl4u3cNGP629Egng0HfgRJfXBNTPw1le
+- [Biotech | Ciro Santilli](https://m.youtube.com/playlist?list=PLcZOZrP1P_V6dkJ8gXmlYh35HT5e2STIz)
+- [Biomedical Animation by wehi.tv | WEHImovies](https://m.youtube.com/playlist?list=PLD0444BD542B4D7D9)
+- [Basic Physiology | Alila Medical Media](https://m.youtube.com/playlist?list=PLJIs8ZcKXHUy7zyDIGhZVIflbfulNFif0)
+- [Bioinformatics-along | Simon Cockell](https://m.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9)
+- [Bio Hacking Chip Implants | Amie DD](https://m.youtube.com/playlist?list=PL9iNdDEmD5jbIxHl5wGZlUs019e3ogl7E)
+- [Cell Biology Lecture Series | Weizmann Institute of Science](https://m.youtube.com/playlist?list=PLcDxx1De7CZ0O9_K7uQCdBzVRrH_x5oLa)
+- [Systems biology | Weizmann Institute of Science](https://m.youtube.com/playlist?list=PL0EF0E201934F5813)
+- Getting up to Speed in Biology> https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about + https://m.youtube.com/playlist?list=PLUl4u3cNGP629Egng0HfgRJfXBNTPw1le
 
 ### Epigenetics
 
@@ -104,7 +104,7 @@
 - https://github.com/Developer-Y/cs-video-courses#computational-biology
 - [I485 / H400 - Biologically Inspired Computation (Indiana University)](https://homes.sice.indiana.edu/rocha/academics/i-bic/index.php)
 - https://lostempireherbs.com/endocrine-disrupting-chemicals
-- [The Neuronal Basis of Consciousness Course - CNS/Bi/Psy 120](https://www.youtube.com/playlist?list=PL1DBCFC32CF6945EE)
+- [The Neuronal Basis of Consciousness Course - CNS/Bi/Psy 120](https://m.youtube.com/playlist?list=PL1DBCFC32CF6945EE)
 - the microbe database(microbe.directory/developers): [github](https://github.com/microbe-directory/microbe-directory) + [bitbucket](https://bitbucket.org/account/signin/?next=/microbedb/microbedb)
 - [Curated List of Biomarkers, Blood Tests, and Blood Tracking.](https://github.com/markwk/awesome-biomarkers)
 - https://github.com/kakoni/awesome-healthcare#bioinformatics
@@ -130,7 +130,7 @@
 
 - https://www.perell.com/podcast/joe-henrich-what-makes-society-smart + http://hci.ucsd.edu/102b/readings/WeirdestPeople.pdf + https://medium.com/conversations-with-tyler/joe-henrich-culture-evolution-weird-psychology-social-norms-9756a97850ce + https://youtu.be/dRUyfW0ECNg
 - [Dr Bhavsar's A level Biology Flashcards](https://www.brainscape.com/p/2WID3-LH-8XB8T)
-- https://www.shomusbiology.com/bio-materials.html + https://www.youtube.com/c/SumanBhattacharjeeShomusBiologyOnline/playlists
+- https://www.shomusbiology.com/bio-materials.html + https://m.youtube.com/c/SumanBhattacharjeeShomusBiologyOnline/playlists
 
 ### Radio
 

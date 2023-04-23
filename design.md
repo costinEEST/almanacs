@@ -1,7 +1,7 @@
 ### Book
 
 - https://jennywen.ca/books
-- [The Handbook of Healthcare Delivery Systems (reviewed by Gregory Schmidt)](https://www.youtube.com/playlist?list=PL7e8VJ_ZN6eqd8ceHTM3OYoThy21yIoJO)
+- [The Handbook of Healthcare Delivery Systems (reviewed by Gregory Schmidt)](https://m.youtube.com/playlist?list=PL7e8VJ_ZN6eqd8ceHTM3OYoThy21yIoJO)
 - https://www.amazon.com/Biomimicry-Innovation-Inspired-Janine-Benyus/dp/0060533226
 - https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879
 - https://twitter.com/rjs/status/1246161738069753856
@@ -28,7 +28,7 @@
 
 ### Cinema
 
-- [Design – Vox](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5ciSdIo4uRt26NRxmVs0TTQ)
+- [Design – Vox](https://m.youtube.com/playlist?list=PLJ8cMiYb3G5ciSdIo4uRt26NRxmVs0TTQ)
 - [Rams - Gary Hustwit](https://vimeo.com/404760526)
 - [Urbanized - Gary Hustwit](https://vimeo.com/402413663)
 - [Workplace - Gary Hustwit](https://vimeo.com/407343244)
@@ -36,19 +36,19 @@
 - https://www.hustwit.com/helvetica
 - [Abstract. The Art of Design (2017)](https://www.netflix.com/ro-en/title/80057883)
 - https://designthinkingmovie.com
-- [Milton Glaser: To Inform and Delight (2008)](https://www.youtube.com/watch?v=jZ1YHqgZzGQ)
+- [Milton Glaser: To Inform and Delight (2008)](https://m.youtube.com/watch?v=jZ1YHqgZzGQ)
 - [Design Disruptors (2016)](https://www.designdisruptors.com/dd)
 - [vimeo.com/microsoftdesign/connecting](https://vimeo.com/52861634)
 - https://www.ohyouprettythings.com/free
 - https://www.domestika.org/en/blog/5606-7-masters-of-graphic-design-share-their-industry-insider-secrets
 - https://davidhoang.substack.com/p/talks-that-shaped-my-philosophies
-- [Logo theory | Will Paterson](https://www.youtube.com/playlist?list=PLLuEl8fyPVgOl1HDi4_qZSieM_JLTWz7u)
-- [Designing App Icons](https://www.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
-- [Radicalism in Graphic Design](https://www.youtube.com/playlist?list=PL2jykFOD1AWZ2iTNw0Kyzggp2jdppU3pv)
-- [history of design](https://www.youtube.com/playlist?list=PL2jykFOD1AWb7hNucP2fj491MQ594G3Rk)
-- [Michal Malewicz](https://www.youtube.com/c/MalewiczHype/playlists)
-- [Jimmy Huynh, industrial design](https://www.youtube.com/user/YourFavoriteAsianGuy)
-- [Icon speedruns | Marc Edwards](https://www.youtube.com/playlist?list=PLZRDXTOgbMthWhVM54mCiHYrCl_e6oZVb)
+- [Logo theory | Will Paterson](https://m.youtube.com/playlist?list=PLLuEl8fyPVgOl1HDi4_qZSieM_JLTWz7u)
+- [Designing App Icons](https://m.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
+- [Radicalism in Graphic Design](https://m.youtube.com/playlist?list=PL2jykFOD1AWZ2iTNw0Kyzggp2jdppU3pv)
+- [history of design](https://m.youtube.com/playlist?list=PL2jykFOD1AWb7hNucP2fj491MQ594G3Rk)
+- [Michal Malewicz](https://m.youtube.com/c/MalewiczHype/playlists)
+- [Jimmy Huynh, industrial design](https://m.youtube.com/user/YourFavoriteAsianGuy)
+- [Icon speedruns | Marc Edwards](https://m.youtube.com/playlist?list=PLZRDXTOgbMthWhVM54mCiHYrCl_e6oZVb)
 
 ### Course
 
@@ -84,7 +84,7 @@
 
 ### Historic
 
-- [A curated collection of HCI demo videos produced during the golden age from 1983-2002](https://jackrusher.com/classic-ux) + https://www.youtube.com/@sigchi/playlists
+- [A curated collection of HCI demo videos produced during the golden age from 1983-2002](https://jackrusher.com/classic-ux) + https://m.youtube.com/@sigchi/playlists
 
 ### Inspire
 

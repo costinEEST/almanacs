@@ -3,7 +3,7 @@
 - https://www.amazon.com/Over-Our-Heads-Mental-Demands-ebook/dp/B0965P7L11 + https://metarationality.com/stem-fluidity-bridge
 - https://www.mindtherisk.com/literature/148-the-science-of-fear-by-daniel-gardner
 - https://www.amazon.com/Cheating-Deception-J-Bowyer-Bell/dp/088738868X
-- https://www.amazon.com/Secrets-Autistic-Millionaire-Everything-Aspergers-ebook/dp/B09KGF6685 + https://www.youtube.com/watch?v=TFjj9649Feo + https://youtu.be/l3l0uBtWk9g
+- https://www.amazon.com/Secrets-Autistic-Millionaire-Everything-Aspergers-ebook/dp/B09KGF6685 + https://m.youtube.com/watch?v=TFjj9649Feo + https://youtu.be/l3l0uBtWk9g
 - https://www.cambridge.org/core/books/religion-and-the-meaning-of-life/2C118CBF40B68F288B9010457F78571E
 - [From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life | Arthur C. Brooks](https://kirbyferguson.ck.page/posts/whelp-i-struck-a-nerve-folks)
 
@@ -15,7 +15,7 @@
 
 - https://en.wikipedia.org/wiki/Brain_Games_(2011_TV_series)
 - [Course materials for Dartmouth course: Human Memory (PSYC 51.09)](https://github.com/ContextLab/human-memory)
-- [Origins of the Self w/ Bonnitta Roy](https://www.youtube.com/playlist?list=PLoZ5e3aD_LuQoDMmjnQApeqDS00iMxHBz)
+- [Origins of the Self w/ Bonnitta Roy](https://m.youtube.com/playlist?list=PLoZ5e3aD_LuQoDMmjnQApeqDS00iMxHBz)
 - https://www.bbc.com/reel/video/p09yyktf/why-do-men-rule-the-world-
 
 ### Community
@@ -60,5 +60,5 @@
 - https://core.ac.uk/download/pdf/231833667.pdf
 - https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_Three_Essays_complete.pdf
 - https://www.nytimes.com/1985/03/24/books/an-urge-more-vital-than-sex.html
-- [Foucault's History of Sex | Dan Krier](https://www.youtube.com/playlist?list=PLuHqxqWmJNcAuQ7QMMi5ItYnKJtYtNzaC)
+- [Foucault's History of Sex | Dan Krier](https://m.youtube.com/playlist?list=PLuHqxqWmJNcAuQ7QMMi5ItYnKJtYtNzaC)
 - https://www.amazon.com/The-Science-Kissing-What-Telling/dp/0446559903

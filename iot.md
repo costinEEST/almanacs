@@ -17,7 +17,7 @@
 
 ### Arduino
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUe2-bhkgFCCKwCyx_ZBzCcp
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUe2-bhkgFCCKwCyx_ZBzCcp
 - http://sandsoftwaresound.net/arduino
 - https://www.instructables.com/id/A-Beginners-Guide-to-Arduino
 - [Arduino Development on OpenBSD](https://jcs.org/2019/12/17/arduino)
@@ -54,12 +54,12 @@
 - https://arunoda.me/blog/load-testing-an-esp8266
 - [Framework for IoT projects implementing HTTPS requests, a React web interface, WiFi manager, live dashboard, configuration manager, file manager and OTA updates.](https://github.com/maakbaas/esp8266-iot-framework)
 - https://www.udemy.com/course/making-home-automation-iot-projects-with-nodemcu-ios-11
-- [Making a Wi-Fi RC Car from Scratch with ESP8266 NodeMCU and iOS 12 | Jeffrey App](https://www.youtube.com/playlist?list=PLMlO1PGnzRobxbGv-iWVTJ4w_BBgU7MR8)
+- [Making a Wi-Fi RC Car from Scratch with ESP8266 NodeMCU and iOS 12 | Jeffrey App](https://m.youtube.com/playlist?list=PLMlO1PGnzRobxbGv-iWVTJ4w_BBgU7MR8)
 - https://cri.dev/posts/2020-09-03-DIY-IoT-door-monitor-with-ESP8266
 
 ### Espruino
 
-- https://www.youtube.com/user/Espruino/playlists
+- https://m.youtube.com/user/Espruino/playlists
 
 ### RaspberryPI
 
@@ -82,7 +82,7 @@
 - [Raspberry Pi Computing: Temperature Measurement](https://leanpub.com/rpctemp)
 - https://www.bit-101.com/blog/2021/02/raspberry-pi-pico-what-ive-learned
 - https://www.alexanderjsingleton.com/hack-to-spy-building-a-raspberry-spy-pi
-- [Create an emulator for the new Raspberry Pi Pico MCU, the RP2020. We'll do it in JavaScript, from scratch.](https://www.youtube.com/playlist?list=PLLomdjsHtJTxT-vdJHwa3z62dFXZnzYBm)
+- [Create an emulator for the new Raspberry Pi Pico MCU, the RP2020. We'll do it in JavaScript, from scratch.](https://m.youtube.com/playlist?list=PLLomdjsHtJTxT-vdJHwa3z62dFXZnzYBm)
 - [E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero](https://github.com/speedyg0nz/MagInkCal)
 - https://youtu.be/v7eHTNm1YtU + https://github.com/standupmaths/xmastree2020
 - https://giuliomagnifico.blog/networking/2020/01/02/nerdy-things-made-nicer.html
@@ -108,7 +108,7 @@
 - Backdooring a smart camera by creating a malicious firmware upgrade: [tweet](https://twitter.com/StackSmashing/status/1216738008441020416) + [repo](https://github.com/ghidraninja/wyze_scripts)
 - [Lecture notes for the Hardware and Embedded Systems Security lecture.](https://github.com/david-oswald/hwsec_lecture_notes) + https://twitter.com/sublevado/status/1219153201326366720
 - https://payatu.com/blog/Arun-Magesh/iot-security-part-4-bluetooth-low-energy-101
-- [IoT Security Techniques - Andrew Tierney](https://www.youtube.com/playlist?list=PLxzQqOO_sw9Pj46OJiXb1yvniUkqOhFo9)
+- [IoT Security Techniques - Andrew Tierney](https://m.youtube.com/playlist?list=PLxzQqOO_sw9Pj46OJiXb1yvniUkqOhFo9)
 - https://afitnerd.com/2020/08/09/man-in-the-middle-yourself
 - https://marcyoung.us/post/homebrew-hacking
 - https://marcyoung.us/post/smart-home
@@ -119,8 +119,8 @@
 
 - https://japaniot.github.io/2020/01/01/how-i-automate-my-home-en
 - [Rhasspy (pronounced RAH-SPEE) is an open source, fully offline voice assistant toolkit for many languages that works well with Home Assistant, Hass.io, and Node-RED.](https://rhasspy.readthedocs.io/en/latest/)
-- https://www.youtube.com/user/greatscottlab/playlists
-- https://www.youtube.com/user/mcwhorpj/playlists
+- https://m.youtube.com/user/greatscottlab/playlists
+- https://m.youtube.com/user/mcwhorpj/playlists
 - I Made My Own Image Sensor! (And Digital Camera): [video](https://youtu.be/PaXweP73NT4) + [repo](https://github.com/IdleHandsProject/diycamera)
 - [Peter Hoddie from Moddable presenting SES](https://youtu.be/-2UnCfy5NSs)
 - [IoT.js implementation of WebThing API (based on Mozilla-IoT's webthing-node)](https://github.com/rzr/webthing-iotjs/wiki)

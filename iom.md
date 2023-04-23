@@ -31,7 +31,7 @@
 - https://cryptozombies.io + https://github.com/loomnetwork/cryptozombie-lessons + https://github.com/loomnetwork/cryptozombies-lesson-code
 - https://github.com/Developer-Y/cs-video-courses#misc
 - https://medium.com/free-code-camp/the-authoritative-guide-to-blockchain-development-855ab65b58bc + https://haseebq.com/introduction-to-cryptocurrency
-- [MIT 15.S12 Blockchain and Money, Fall 2018 | Gary Gensler](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn) + https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018
+- [MIT 15.S12 Blockchain and Money, Fall 2018 | Gary Gensler](https://m.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn) + https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018
 - https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development
 - https://www.udemy.com/course/delving-into-blockchain-use-cases-a-detailed-overview
 - https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert
@@ -42,17 +42,17 @@
 ### Cinema
 
 - https://andersbrownworth.com/blockchain
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUfiNFwggn-4POpQdwkBTetA
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUfiNFwggn-4POpQdwkBTetA
 - https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies
-- [Decentralization: DeFi, DID, DEX and more (aantonop)](https://www.youtube.com/playlist?list=PLPQwGV1aLnTsWvo0ieJLN-UINWUjr10a7)
-- [Cryptocurrency ~ EEVblog2](https://www.youtube.com/playlist?list=PL24OiKqd2iN-OmtJC-r71geFQggMFXTFp)
-- [Digital Currency | thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCB3bm4ZuFAm4eADj0VMy_D)
-- [Blockchain Course | Arthur Gervais](https://www.youtube.com/playlist?list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
-- [Blockchain Security | Tamir Zuhair](https://www.youtube.com/playlist?list=PLbT8rDUmot22gfyqgXMuYyWVSFklxHSzk)
-- [DeFi Tutorials with DeFi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg/playlists)
-- [Learn Solidity (0.5) by Examples | Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)
-- [Zcon1: Zero to Privacy Hero | Zcash Foundation](https://www.youtube.com/playlist?list=PL40dyJ0UYTLLjPZaKjdhMoCNanb77_Ztj)
-- https://www.youtube.com/@BuildingIdeasIO/playlists
+- [Decentralization: DeFi, DID, DEX and more (aantonop)](https://m.youtube.com/playlist?list=PLPQwGV1aLnTsWvo0ieJLN-UINWUjr10a7)
+- [Cryptocurrency ~ EEVblog2](https://m.youtube.com/playlist?list=PL24OiKqd2iN-OmtJC-r71geFQggMFXTFp)
+- [Digital Currency | thenewboston](https://m.youtube.com/playlist?list=PL6gx4Cwl9DGCB3bm4ZuFAm4eADj0VMy_D)
+- [Blockchain Course | Arthur Gervais](https://m.youtube.com/playlist?list=PLOa3v6xgsJullbz4uD13nm-U5D_cw0xLh)
+- [Blockchain Security | Tamir Zuhair](https://m.youtube.com/playlist?list=PLbT8rDUmot22gfyqgXMuYyWVSFklxHSzk)
+- [DeFi Tutorials with DeFi Dad](https://m.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg/playlists)
+- [Learn Solidity (0.5) by Examples | Smart Contract Programmer](https://m.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)
+- [Zcon1: Zero to Privacy Hero | Zcash Foundation](https://m.youtube.com/playlist?list=PL40dyJ0UYTLLjPZaKjdhMoCNanb77_Ztj)
+- https://m.youtube.com/@BuildingIdeasIO/playlists
 
 ### Community
 
@@ -99,7 +99,7 @@
 - https://github.com/gweicz/defi-toolkit
 - https://github.com/Nachoxt17/DeFi-Farming-Yielding-Tutorial
 - https://github.com/OffcierCia/ultimate-defi-research-base
-- [DeFi MOOC - Stablecoins Guest Lecture (Ariah Klages-Mundt)](https://www.youtube.com/playlist?list=PLX9yxQIwhmpYSYMNOpp25I1RXu7AKuKC9)
+- [DeFi MOOC - Stablecoins Guest Lecture (Ariah Klages-Mundt)](https://m.youtube.com/playlist?list=PLX9yxQIwhmpYSYMNOpp25I1RXu7AKuKC9)
 
 ### References
 
@@ -171,7 +171,7 @@
 
 ### Bitcoin
 
-- https://www.coindesk.com/podcasts/coindesk-podcast-network/exploring-bitcoins-lightning-network + https://www.coindesk.com/reports/an-in-depth-look-into-the-lightning-network-as-a-bitcoin-scaling-solution + https://www.youtube.com/c/RenePickhardt/playlists
+- https://www.coindesk.com/podcasts/coindesk-podcast-network/exploring-bitcoins-lightning-network + https://www.coindesk.com/reports/an-in-depth-look-into-the-lightning-network-as-a-bitcoin-scaling-solution + https://m.youtube.com/c/RenePickhardt/playlists
 - https://github.com/bcongdon/awesome-lightning-network
 - https://github.com/t-bast/lightning-docs
 - https://github.com/chaincodelabs/lightning-curriculum
@@ -272,9 +272,9 @@
 
 ### Smart contracts
 
-- [Blockchain & Smart Contracts by Loredana Cirstea](https://www.youtube.com/playlist?list=PL323JufuD9JDCW5Nl2gM8fCDm8Om3lsLA)
-- https://www.youtube.com/c/JacksonKelley/playlists
-- [Educational sandbox for building on web3. Visually understand how Ethereum works. ~ Austin Griffith](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
+- [Blockchain & Smart Contracts by Loredana Cirstea](https://m.youtube.com/playlist?list=PL323JufuD9JDCW5Nl2gM8fCDm8Om3lsLA)
+- https://m.youtube.com/c/JacksonKelley/playlists
+- [Educational sandbox for building on web3. Visually understand how Ethereum works. ~ Austin Griffith](https://m.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 - [An Educational Drag-and-Drop Programming For Web3](https://eth.build)
 - https://github.com/monosux/ethereum-block-by-date
 - [What are the best live contracts that a new solidity dev should be learning from?](https://twitter.com/musatheredguard/status/1340344406260535296)
@@ -286,7 +286,7 @@
 - https://twitter.com/jsjoeio/status/1427287794699759622
 - [Use GodMode to get full control of any Ethereum contract or account](https://github.com/xGodMode/godmode)
 - https://github.com/OpenCoreCH/smart-contract-auditing-heuristics
-- [Fuzzing Workshop with Echidna | trailofbits](https://www.youtube.com/playlist?list=PLciHOL_J7Iwqdja9UH4ZzE8dP1IxtsBXI)
+- [Fuzzing Workshop with Echidna | trailofbits](https://m.youtube.com/playlist?list=PLciHOL_J7Iwqdja9UH4ZzE8dP1IxtsBXI)
 
 ### Eos
 
@@ -340,14 +340,14 @@
 - https://mtlynch.io/stole-siacoins + https://decks.mtlynch.io/nerds-2020
 - https://www.ethicalhacker.net/features/book-reviews/book-review-investigating-cryptocurrencies
 - https://twitter.com/solidity_lang/status/1260539034964766720
-- https://twitter.com/samczsun/status/1335683213977677825 + https://www.youtube.com/watch?v=95_RmIAqRy0 + https://arxiv.org/abs/2009.14021
+- https://twitter.com/samczsun/status/1335683213977677825 + https://m.youtube.com/watch?v=95_RmIAqRy0 + https://arxiv.org/abs/2009.14021
 - https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec
 - https://twitter.com/msolomon44/status/1334902739273306112
 - https://iphelix.medium.com
 - https://www.damnvulnerabledefi.xyz
 - https://capturetheether.com
 - https://ethernaut.openzeppelin.com + https://github.com/OpenZeppelin/ethernaut
-- https://www.youtube.com/playlist?list=PLG1Zq5_UTbOxFaQAKE5N5Hi2Nvv-O35Cu
+- https://m.youtube.com/playlist?list=PLG1Zq5_UTbOxFaQAKE5N5Hi2Nvv-O35Cu
 - https://shayan.es/#lectures
 - https://www.theblockcrypto.com/linked/89843/2017-parity-wallet-hacker-begins-moving-eth
 - [Tineola: Taking a Bite Out of Enterprise Blockchain](https://github.com/tineola/tineola)
@@ -366,5 +366,5 @@
 - https://github.com/MrToph/capture-the-ether
 - https://cmichel.io/how-to-become-a-smart-contract-auditor + https://twitter.com/cmichelio/status/1454471156157886478
 - https://mudit.blog/twitter-threads + https://mudit.blog/live-stream-auditing-smart-contracts
-- [Damn Vulnerable DeFi | Blue Alder](https://www.youtube.com/playlist?list=PLwHGiYB583YuDoAjKPDfYMKOmuFIGJCnW) + https://github.com/BlueAlder/defi-frontrunning-challenge
+- [Damn Vulnerable DeFi | Blue Alder](https://m.youtube.com/playlist?list=PLwHGiYB583YuDoAjKPDfYMKOmuFIGJCnW) + https://github.com/BlueAlder/defi-frontrunning-challenge
 - [Patterns for decentralized protocols and applications](https://github.com/simplysecure/dots-patterns)

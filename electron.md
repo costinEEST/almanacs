@@ -4,7 +4,7 @@
 - https://github.com/sudhakar3697/electron-alternatives
 - [A list of awesome packages and frameworks for implementing javascript applications on the desktop](https://github.com/styfle/awesome-desktop-js)
 - [Tauri: An Electron alternative written in Rust](https://news.ycombinator.com/item?id=26194990)
-- [Tauri & ReactJS](https://github.com/elibroftw/modern-desktop-app-template) + https://www.youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L
+- [Tauri & ReactJS](https://github.com/elibroftw/modern-desktop-app-template) + https://m.youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L
 - [Svelte NodeGUI, a lightweight Electron alternative with native UI](https://news.ycombinator.com/item?id=26361423)
 - https://github.com/gluon-framework/gluon
 - https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt

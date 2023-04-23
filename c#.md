@@ -12,14 +12,14 @@
 
 ### Cinema
 
-- Writing parsers in C#: [video](https://www.youtube.com/watch?v=_yz1DRNpmPo) + [slides](https://www.slideshare.net/AlexeyGolub/alexey-golub-writing-parsers-in-c-3shape-meetup)
+- Writing parsers in C#: [video](https://m.youtube.com/watch?v=_yz1DRNpmPo) + [slides](https://www.slideshare.net/AlexeyGolub/alexey-golub-writing-parsers-in-c-3shape-meetup)
 - https://nuculabs.dev/2021/11/24/github-copilot-with-blazor
 - https://github.com/dotnet-presentations/dotnet-maui-workshop
 - https://patricia.no/learning_csharp.html
-- [Tool Dev For Game Devs | Freya Holmér](https://www.youtube.com/playlist?list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d)
-- [Planning, designing, and coding a Blazor site from scratch](https://www.youtube.com/playlist?list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI)
-- [Brendan Enrick](https://www.youtube.com/c/DevChatter/playlists) + https://www.pluralsight.com/courses/pair-programming
-- https://www.youtube.com/@GregorBiswanger/playlists
+- [Tool Dev For Game Devs | Freya Holmér](https://m.youtube.com/playlist?list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d)
+- [Planning, designing, and coding a Blazor site from scratch](https://m.youtube.com/playlist?list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI)
+- [Brendan Enrick](https://m.youtube.com/c/DevChatter/playlists) + https://www.pluralsight.com/courses/pair-programming
+- https://m.youtube.com/@GregorBiswanger/playlists
 
 ### Cheat sheet
 
@@ -30,7 +30,7 @@
 ### Community
 
 - [Daniel Duggan](https://www.patreon.com/_RastaMouse)
-- [James Montemagno](https://www.youtube.com/c/JamesMontemagno/playlists)
+- [James Montemagno](https://m.youtube.com/c/JamesMontemagno/playlists)
 - https://www.linkedin.com/posts/milan-jovanovic_here-are-three-books-that-made-me-a-better-activity-7020297617767071744-Z9TN
 
 ### Demo
@@ -45,7 +45,7 @@
 
 - https://github.com/Necula-Horatiu/How-you-type
 - https://github.com/martijnboland/LeanAspNetCore-React
-- https://github.com/wesdoyle/design-patterns-explained-with-food + https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x
+- https://github.com/wesdoyle/design-patterns-explained-with-food + https://m.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x
 
 ### Tool
 

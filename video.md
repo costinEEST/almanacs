@@ -5,7 +5,7 @@
 
 ### Community
 
-- https://www.youtube.com/c/ThomasFlight/playlists
+- https://m.youtube.com/c/ThomasFlight/playlists
 - https://www.inputmag.com/culture/vhs-tapes-twitch-youtube-streaming
 
 ### Cheat sheet
@@ -36,7 +36,7 @@
 - https://blog.vivekhaldar.com/post/627079113078865921/automatically-edit-out-silence-dead-air-from
 - https://tyler.io/diy-video-hosting + https://news.ycombinator.com/item?id=23894827
 - [How to make video calls almost as good as face-to-face](https://www.benkuhn.net/vc)
-- https://twitter.com/thomasdarimont/status/1310329696446488579 + https://www.youtube.com/watch?v=Bdoi7BDhrWc + https://gist.github.com/vivekhaldar/92368f35da2d8bb8f12734d840d11cfa
+- https://twitter.com/thomasdarimont/status/1310329696446488579 + https://m.youtube.com/watch?v=Bdoi7BDhrWc + https://gist.github.com/vivekhaldar/92368f35da2d8bb8f12734d840d11cfa
 - https://www.singhkays.com/blog/docker-image-av1-ffmpeg-libaom
 - https://benfrain.com/a-home-video-studio-everything-you-need-to-record-edit-and-publish-video-for-courses-and-youtube
 - [How to automatically cut silence in videos](https://flaviocopes.com/cut-silence-videos)
@@ -79,6 +79,6 @@
 ### Opinion
 
 - https://rudism.com/a-proposal-for-a-decentralized-youtube-alternative
-- [Before you upload your first course on udemy | Alireza Aliabadi](https://www.youtube.com/watch?v=nBpDXFz67pA)
+- [Before you upload your first course on udemy | Alireza Aliabadi](https://m.youtube.com/watch?v=nBpDXFz67pA)
 - [Screenflow](https://twitter.com/nathanstocks/status/1586017083879436288)
 - [The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders](https://wrv.github.io/h26forge.pdf)

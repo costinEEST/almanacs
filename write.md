@@ -6,7 +6,7 @@
 - https://www.amazon.com/How-Do-Things-Words-Lectures/dp/0674411528 + https://youtu.be/2lQHHcNp618
 - [On (technical/scientific) writing](https://yurichev.com/news/20200801_on_writing)
 - https://www.amazon.com/Cuneiform-Irving-L-Finkel/dp/0714111880
-- https://www.academia.edu/44800810/Good_With_Words_By_PATRICK_BARRY + https://www.coursera.org/specializations/good-with-words + https://www.youtube.com/playlist?list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRDnaf
+- https://www.academia.edu/44800810/Good_With_Words_By_PATRICK_BARRY + https://www.coursera.org/specializations/good-with-words + https://m.youtube.com/playlist?list=PL7g_CQSlG4S-uUaq7bLvXNJmxKdMRDnaf
 - https://github.com/eddiejaoude/book-open-source-tips
 - [A book to help software developers write better prose](https://github.com/joshuacc/prose-for-programmers)
 - http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc + https://news.ycombinator.com/item?id=26394564
@@ -29,13 +29,13 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUe5jlxhxEfjXm57bXxhixea
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUe5jlxhxEfjXm57bXxhixea
 - https://www.google.com/search?q=Cuneiform+written+by+Irving+Finkel
 - https://www.udemy.com/course/teaching_philosophy
 - https://www.udemy.com/course/complete-gmail-productivity-course-more-productive-email
 - https://github.com/James-Yu/LaTeX-Workshop
 - https://www.udemy.com/course/masteringlatex
-- [The fine print | Scott Carney](https://www.youtube.com/playlist?list=PL2TVEkr1lWIJ2IVxvOuxFHonfBLd6TDfd)
+- [The fine print | Scott Carney](https://m.youtube.com/playlist?list=PL2TVEkr1lWIJ2IVxvOuxFHonfBLd6TDfd)
 
 ### Community
 
@@ -63,7 +63,7 @@
 - http://blog.dornea.nu/2021/06/13/note-taking-in-2021
 - [checks your word against swear words and unwanted associations in 19 languages.](http://wordsafety.com)
 - [Generate Add to Calendar links and event reminder buttons for Google Calendar, Outlook, Microsoft Office 365, Android, Apple and Yahoo Calendars.](https://www.labnol.org/apps/calendar.html)
-- https://filipedonadio.com/6-useful-templates-for-obsidian + https://www.youtube.com/playlist?list=PLGwf8YptbOQc7qxpOHOY1dEbxNp5kGKJ2
+- https://filipedonadio.com/6-useful-templates-for-obsidian + https://m.youtube.com/playlist?list=PLGwf8YptbOQc7qxpOHOY1dEbxNp5kGKJ2
 - https://github.com/nikitavoloboev/knowledge/blob/main/keyboards/qmk.md
 - https://github.com/nikitavoloboev/knowledge/blob/main/tools/dendron.md
 - https://github.com/nikitavoloboev/knowledge/blob/main/tools/obsidian.md

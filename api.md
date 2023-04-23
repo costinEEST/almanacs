@@ -63,7 +63,7 @@
 - https://blog.doyensec.com/2021/05/20/graphql-csrf.html
 - https://ethicalhacking.sh/posts/try-hack-me-graphql
 - https://github.com/clintonwoo/hackernews-react-graphql
-- [A TODO App with Relay | JSer](https://www.youtube.com/playlist?list=PLvx8w9g4qv_oIjs-sNY5MX3tcM7Spa8qP) + https://www.youtube.com/watch?v=yRni-IPRn90
+- [A TODO App with Relay | JSer](https://m.youtube.com/playlist?list=PLvx8w9g4qv_oIjs-sNY5MX3tcM7Spa8qP) + https://m.youtube.com/watch?v=yRni-IPRn90
 - https://securitycafe.ro/2021/10/01/practical-graphql-attack-vectors
 - https://github.com/datastaxdevs/workshop-graphql-netflix
 - https://andrewhoglund.com/talks/2021/09/29/migrating-githubs-global-ids.html

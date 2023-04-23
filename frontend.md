@@ -8,7 +8,7 @@
 
 ### CSS
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUcPyDx67bTPJBLauKMyfjlt
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUcPyDx67bTPJBLauKMyfjlt
 - https://youmightnotneed.com/css
 - [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
 - https://github.com/shuhei/knowledge/blob/master/browser.md#css
@@ -73,7 +73,7 @@
 - https://www.smashingmagazine.com/design-systems-book
 - https://learning.oreilly.com/library/view/practical-ui-patterns/9781484249383
 - [Design Systems with Storybook & React](https://frontendmasters.com/workshops/design-systems-storybook)
-- [Design Systems London 2019](https://www.youtube.com/playlist?list=PLNC1kqILNVugoHglOCwa4bxhVDJp3lsBX)
+- [Design Systems London 2019](https://m.youtube.com/playlist?list=PLNC1kqILNVugoHglOCwa4bxhVDJp3lsBX)
 - [How a design system should begin?](https://twitter.com/matheus1lva/status/1200420309205233664)
 - [Expressive Design Systems](https://twitter.com/yeseniaa/status/1176543104708616194)
 - [My biggest frustration with the term "design system" is that it leaves way too much wiggle room for the status quo to pretend it's keeping up.](https://twitter.com/markdalgleish/status/1208657843693350914)
@@ -134,7 +134,7 @@
 - [How to Fix Mobile Dating Apps](https://matt.sh/fix-dating-apps)
 - [An open and organized directory of the best pieces about Product Management.](https://theproductindex.com)
 - https://www.indiehackers.com/post/secret-google-ux-playbooks-e603154154
-- [User Experience Fundamentals - The Team W](https://www.youtube.com/playlist?list=PLXyx-Y-4xxNRANuIRlC7GnsvlMOOuCVzZ)
+- [User Experience Fundamentals - The Team W](https://m.youtube.com/playlist?list=PLXyx-Y-4xxNRANuIRlC7GnsvlMOOuCVzZ)
 - https://growth.design/case-studies/tiktok-feed-psychology
 - https://userinyerface.com
 

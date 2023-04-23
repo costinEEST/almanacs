@@ -8,13 +8,13 @@
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=20th-century-history
 - https://github.com/KaraAJC/awesome-accomplice
 - https://www.humanprogress.org/topic/heroes-of-progress
-- [21A.S01 Reparations for Slavery and Colonization: Contemporary Movements for Justice](https://www.youtube.com/playlist?list=PLUl4u3cNGP621znZNO7tBuTH-WKjsV0D6)
-- https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017 + https://www.youtube.com/playlist?list=PLUl4u3cNGP62ihmDWYj4LMPMdHBHiPa_7
+- [21A.S01 Reparations for Slavery and Colonization: Contemporary Movements for Justice](https://m.youtube.com/playlist?list=PLUl4u3cNGP621znZNO7tBuTH-WKjsV0D6)
+- https://ocw.mit.edu/courses/24-912-black-matters-introduction-to-black-studies-spring-2017 + https://m.youtube.com/playlist?list=PLUl4u3cNGP62ihmDWYj4LMPMdHBHiPa_7
 - https://www.data-is-plural.com/archive/2023-02-08-edition
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUf5L0Iv0UtsWkaXQGjEUGYa
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUf5L0Iv0UtsWkaXQGjEUGYa
 
 ### Albert Einstein
 
@@ -31,7 +31,7 @@
 - https://www.academia.edu/49977753/Aristotel_Organon_vol_2_tr_Mircea_Florian_1998_1958_
 - https://www.academia.edu/49977571/Ammonius_Stephanus_Comentarii_la_Tratatul_Despre_Interpretare_al_lui_Aristotel_tr_C_Noica_1971_
 - https://reasonio.teachable.com/p/aristotle-s-nicomachean-ethics-books-1-10
-- https://www.youtube.com/playlist?list=PLrAPUF78nSaiMzABSkygVBT30Y5aEezIt
+- https://m.youtube.com/playlist?list=PLrAPUF78nSaiMzABSkygVBT30Y5aEezIt
 - https://aeon.co/essays/how-to-write-a-hollywood-blockbuster-with-aristotles-poetics
 - [Aristotle On The Moral Virtues](https://www.patreon.com/posts/new-online-67824322)
 
@@ -46,13 +46,13 @@
 - https://www.newyorker.com/books/double-take/sunday-reading-remembering-anthony-bourdain
 - https://www.focusfeatures.com/roadrunner
 - https://www.rollingstone.com/culture/culture-features/anthony-bourdain-jiujitsu-secret-reddit-posts-1268801
-- https://www.youtube.com/playlist?list=PLpz7cLJ1_TwSLBsCZiO1b_O4YnlHAJiB2
+- https://m.youtube.com/playlist?list=PLpz7cLJ1_TwSLBsCZiO1b_O4YnlHAJiB2
 - [writing about a bread maker](https://news.ycombinator.com/item?id=29077398)
 - https://getpocket.com/explore/item/drink-a-cold-beer-and-let-somebody-else-figure-it-out-22-of-anthony-bourdain-s-wisest-quotes-about
 
 #### Alan Turing
 
-- [ACM A.M. Turing Award](https://www.youtube.com/user/TheOfficialACM/playlists?view=50&sort=dd&shelf_id=2)
+- [ACM A.M. Turing Award](https://m.youtube.com/user/TheOfficialACM/playlists?view=50&sort=dd&shelf_id=2)
 - https://twitter.com/phalpern/status/1373003682124607492
 
 ### Aldous Huxley
@@ -73,7 +73,7 @@
 
 ### Ayn Rand
 
-- https://www.youtube.com/playlist?list=PLtl4bsccyqPUa29NgQAqsq6mE9Spiiyxy
+- https://m.youtube.com/playlist?list=PLtl4bsccyqPUa29NgQAqsq6mE9Spiiyxy
 
 ### Bill Gurley
 
@@ -107,7 +107,7 @@
 - https://merveilles.town/@akkartik/107981485898871776
 - https://www.garethrees.co.uk/building-beauty
 - [PATTERN LANGUAGE (installation documentation)](https://vimeo.com/185020043)
-- https://www.youtube.com/watch?v=tEiV49ePpRU
+- https://m.youtube.com/watch?v=tEiV49ePpRU
 - https://twitter.com/geoffreylitt/status/1554657224596733952
 
 ### David Bohm
@@ -135,7 +135,7 @@
 - https://www.theregister.com/2021/04/25/dan_kaminsky_obituary
 - https://duo.com/decipher/hacker-history-how-dan-kaminsky-almost-broke-the-internet
 - https://www.facebook.com/dragosr/posts/10157757325730588
-- [DEFCONConference](https://www.youtube.com/playlist?list=PL9fPq3eQfaaC-2LgmH8MlMi41ryw8ty2l)
+- [DEFCONConference](https://m.youtube.com/playlist?list=PL9fPq3eQfaaC-2LgmH8MlMi41ryw8ty2l)
 
 ### Daniel Zărnescu
 
@@ -161,7 +161,7 @@
 
 ### Herodotus
 
-- https://www.youtube.com/playlist?list=PLrAPUF78nSajp1ihfa2iDQ3-PmyW5T27f
+- https://m.youtube.com/playlist?list=PLrAPUF78nSajp1ihfa2iDQ3-PmyW5T27f
 
 ### Jeffrey Preston Bezos
 
@@ -252,7 +252,7 @@
 
 ### Rory Sutherland
 
-- https://www.edge.org/conversation/rory_sutherland-things-to-hang-on-your-mental-mug-tree + https://www.youtube.com/watch?v=uHbdFn9UyDY + https://youtu.be/zUeJoS3cTu8
+- https://www.edge.org/conversation/rory_sutherland-things-to-hang-on-your-mental-mug-tree + https://m.youtube.com/watch?v=uHbdFn9UyDY + https://youtu.be/zUeJoS3cTu8
 
 ### Edsger W. Dijkstra
 
@@ -326,7 +326,7 @@
 - https://www.google.com/search?q=Johannes+Stark+Werner+Heisenberg
 - https://www.google.com/search?q=Science+and+Ideology+The+Case+of+Physics+in+Nazi+Germany+Philip+Ball
 - https://www.google.com/search?q=Constructions+of+Theoretical+Physics+in+Germany+seth+suman
-- [Great Physicists: Werner Heisenberg - but you should not believe everything he said](https://www.youtube.com/watch?v=gjlvglChd1A&list=PLFdjtNRUXClhgSr3WqtWVfhVRguLXOwgX&index=6) + https://www.amazon.com/Quantum-Manjit-Kumar/dp/1848310358 + https://www.amazon.com/Uncertainty-Einstein-Heisenberg-Struggle-Science/dp/1400079969 + https://www.amazon.com/Quantum-Ten-Passion-Tragedy-Ambition/dp/0195369092 + https://www.amazon.com/Nazi-Science-Truth-German-Atomic/dp/0738205850 + https://www.amazon.com/Brighter-than-Thousand-Suns-Scientists/dp/0156141507 + https://www.amazon.com/Critical-Mass-Germany-Surrendered-Enriched/dp/1634241177 + https://www.amazon.com/Physics-Beyond-Werner-Heisenberg/dp/0049250086 + https://www.google.com/search?q=standard+model+of+fundamental+particles+and+interactions + http://tid.uio.no/epf/mirror/standard_model_sum.html
+- [Great Physicists: Werner Heisenberg - but you should not believe everything he said](https://m.youtube.com/watch?v=gjlvglChd1A&list=PLFdjtNRUXClhgSr3WqtWVfhVRguLXOwgX&index=6) + https://www.amazon.com/Quantum-Manjit-Kumar/dp/1848310358 + https://www.amazon.com/Uncertainty-Einstein-Heisenberg-Struggle-Science/dp/1400079969 + https://www.amazon.com/Quantum-Ten-Passion-Tragedy-Ambition/dp/0195369092 + https://www.amazon.com/Nazi-Science-Truth-German-Atomic/dp/0738205850 + https://www.amazon.com/Brighter-than-Thousand-Suns-Scientists/dp/0156141507 + https://www.amazon.com/Critical-Mass-Germany-Surrendered-Enriched/dp/1634241177 + https://www.amazon.com/Physics-Beyond-Werner-Heisenberg/dp/0049250086 + https://www.google.com/search?q=standard+model+of+fundamental+particles+and+interactions + http://tid.uio.no/epf/mirror/standard_model_sum.html
 - https://www.amazon.com/Heisenbergs-War-Secret-History-German/dp/0306810115
 - https://www.amazon.com/Crafting-Quantum-Sommerfeld-Transformations-Technology/dp/0262013738
 - [Uncertainty: the Life and Science of Werner Heisenberg | David C. Cassidy](<https://en.wikipedia.org/wiki/Uncertainty_(book)>)
@@ -336,7 +336,7 @@
 - [The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius | Graham Farmelo](https://twitter.com/andersagf/status/1448770519680040967)
 - https://www.amazon.com/Farm-German-Atomic-Project-World/dp/3319595776
 - https://www.wiley.com/en-us/100+Years+Werner+Heisenberg:+Works+and+Impact-p-9783527610853
-- https://www.youtube.com/watch?v=gjlvglChd1A&list=RDLVgjlvglChd1A&start_radio=1
+- https://m.youtube.com/watch?v=gjlvglChd1A&list=RDLVgjlvglChd1A&start_radio=1
 - [Heisenberg, Bohr and the atomic bomb](https://www.webofstories.com/play/edward.teller/34)
 - https://youtu.be/QrCc9XfNoBE
 - https://youtu.be/L5WOnYB2-o8
@@ -361,7 +361,7 @@
 - [Cory House](http://outlierdeveloper.com/audiobooks) + https://github.com/coryhouse/timeless-skills
 - [Andrew Chen](https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMjqjzlnvwlxFddJZjLhsTxfr)
 - http://davewascha.com/#reading
-- [Aaron Swartz Hackathon 2017 - Code Therapy](https://www.youtube.com/playlist?list=PL7RY3c_PbOzFz2spZTMS3PBkNEfwXgOTW)
+- [Aaron Swartz Hackathon 2017 - Code Therapy](https://m.youtube.com/playlist?list=PL7RY3c_PbOzFz2spZTMS3PBkNEfwXgOTW)
 - https://www.nytimes.com/2017/01/01/us/huston-smith-author-of-the-worlds-religions-dies-at-97.html
 - [John Berardi](https://www.precisionnutrition.com/6-books-on-coaching)
 - https://www.cnbc.com/2020/09/18/bill-gates-difference-between-elon-musk-and-steve-jobs-as-leaders.html

@@ -21,8 +21,8 @@
 
 ### Cinema
 
-- [Quick Coloring Tricks | Color with Kurt](https://www.youtube.com/playlist?list=PLJyhITEA-P5gKgurHnxU9LAtZKBWhnTd4)
-- [Marshall Vandruff](https://www.youtube.com/c/MarshallVandruffVideos/playlists)
+- [Quick Coloring Tricks | Color with Kurt](https://m.youtube.com/playlist?list=PLJyhITEA-P5gKgurHnxU9LAtZKBWhnTd4)
+- [Marshall Vandruff](https://m.youtube.com/c/MarshallVandruffVideos/playlists)
 
 ### Comics
 
@@ -39,7 +39,7 @@
 
 ### Tool
 
-- https://www.youtube.com/c/ArtwithFlo/playlists 
+- https://m.youtube.com/c/ArtwithFlo/playlists 
 - https://procreate.art
 - https://www.skillshare.com/classes/Watercolor-and-Glitter-Magic-in-Procreate-Combine-Paint-and-Photo-Texture/2019344916
 - https://witeboard.com
@@ -55,9 +55,9 @@
 ### Miscellaneous
 
 - [Is it possible to write a lecture in real time on an iPad?](https://twitter.com/math3ma/status/1237510003856003072)
-- https://www.youtube.com/user/marcobucci/playlists
-- https://www.youtube.com/user/ProkoTV/playlists + https://www.proko.com/library/#.XhkJciOxVPa
-- [Team Bradley](https://www.youtube.com/channel/UCYu89Q_krburzkoDSpm5xjw)
+- https://m.youtube.com/user/marcobucci/playlists
+- https://m.youtube.com/user/ProkoTV/playlists + https://www.proko.com/library/#.XhkJciOxVPa
+- [Team Bradley](https://m.youtube.com/channel/UCYu89Q_krburzkoDSpm5xjw)
 - https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock
 - [ScribbleX – Create some art with friends.](https://scribblex.com)
 - https://store.steampowered.com/app/442070/Drawful_2

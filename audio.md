@@ -7,11 +7,11 @@
 
 ### Cinema
 
-- [Sound Design | Aidin Robbins](https://www.youtube.com/playlist?list=PLWPee627x2SbTbBub80dqKxM4pvQxUrx2)
-- https://www.youtube.com/c/TomasGeorge/playlists
-- [Web Audio Conf](https://www.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw/playlists)
-- [Building Collaborative Music Apps](https://www.youtube.com/watch?v=TCVuLh5Io9A)
-- [Understanding Sound & Speakers](https://www.youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub)
+- [Sound Design | Aidin Robbins](https://m.youtube.com/playlist?list=PLWPee627x2SbTbBub80dqKxM4pvQxUrx2)
+- https://m.youtube.com/c/TomasGeorge/playlists
+- [Web Audio Conf](https://m.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw/playlists)
+- [Building Collaborative Music Apps](https://m.youtube.com/watch?v=TCVuLh5Io9A)
+- [Understanding Sound & Speakers](https://m.youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub)
 
 ### Community
 
@@ -35,11 +35,11 @@
 - [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
 - https://hilarymason.com/2017/02/17/bad-idea-fridays-an-app-for-talking-to-myself
 - https://www.amazon.com/How-Listen-Jazz-Ted-Gioia/dp/0465060897
-- [Technology Connections](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q/playlists)
-- [Sound by Tech Ingredients](https://www.youtube.com/playlist?list=PLzrI14lOlSqeCgDH9zJb-qRKem9fTT2Tj)
+- [Technology Connections](https://m.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q/playlists)
+- [Sound by Tech Ingredients](https://m.youtube.com/playlist?list=PLzrI14lOlSqeCgDH9zJb-qRKem9fTT2Tj)
 - [Why analog audio within the accepted limits of human hearing (20 Hz to 20 kHz) can be reproduced with perfect fidelity using a 44.1 kHz 16 Bit digital signal.](https://youtu.be/cIQ9IXSUzuM)
-- [Marty Music](https://www.youtube.com/channel/UCmnlTWVJysjWPFiZhQ5uudg/playlists)
-- [Signals Music Studio](https://www.youtube.com/channel/UCRDDHLvQb8HjE2r7_ZuNtWA/playlists)
+- [Marty Music](https://m.youtube.com/channel/UCmnlTWVJysjWPFiZhQ5uudg/playlists)
+- [Signals Music Studio](https://m.youtube.com/channel/UCRDDHLvQb8HjE2r7_ZuNtWA/playlists)
 - [Music: a Mathematical Offering](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 - https://wiki.nikitavoloboev.xyz/music
 - [The Third Ear by Joachim-Ernst Berendt.](https://twitter.com/sivers/status/1219343046636077062)
@@ -56,7 +56,7 @@
 ### Historic
 
 - [An ode to the short but influential life of the audio cassette](https://adjacentpossible.substack.com/p/prescient-obsolescence)
-- [History of Artificial Sound | Technology Connections](https://www.youtube.com/playlist?list=PLv0jwu7G_DFUYPuDoKWCUy33lL9LnMBGX)
+- [History of Artificial Sound | Technology Connections](https://m.youtube.com/playlist?list=PLv0jwu7G_DFUYPuDoKWCUy33lL9LnMBGX)
 
 ### Tool
 
@@ -72,7 +72,7 @@
 - https://skins.webamp.org
 - [Decoding compact disc digital audio](https://github.com/carrotIndustries/redbook)
 - [Wave-share : Serverless, peer-to-peer, local file sharing through sound](https://github.com/ggerganov/wave-share) + https://twitter.com/binitamshah/status/1309833255181377536
-- [Orca synthesizer, a musical visual programming environment](https://youtu.be/RaI_TuISSJE) + https://100r.co/site/orca.html + https://www.youtube.com/playlist?list=PLb1uDATFJPcEEG3w715GzbD4AE232Pdcu
+- [Orca synthesizer, a musical visual programming environment](https://youtu.be/RaI_TuISSJE) + https://100r.co/site/orca.html + https://m.youtube.com/playlist?list=PLb1uDATFJPcEEG3w715GzbD4AE232Pdcu
 - [Public API to transform youtube videos into mp3 and youtube channels into rss feeds.](https://github.com/yashha/youtube-mp3-rss-api)
 - [Klio is an ecosystem that allows you to process audio files – or any binary files – easily and at scale.](https://github.com/spotify/klio)
 - [JackTrip WebRTC: high quality, uncompressed, ultra-low delay audio streaming](https://github.com/JackTrip-webrtc/JackTrip-webrtc)

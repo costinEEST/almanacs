@@ -5,18 +5,18 @@
 
 ### Buddhism
 
-- [Wisdom Publications](https://www.youtube.com/channel/UCKrdx4usaugOhLzjvYmzpIg/playlists)
+- [Wisdom Publications](https://m.youtube.com/channel/UCKrdx4usaugOhLzjvYmzpIg/playlists)
 - [Fall in love with your mind](https://youtu.be/R65fofzqkm8)
 - https://store.dzokden.org/collections/books/products/unveiling-your-sacred-truth-book-1-the-external-reality-romainian
 - What Makes You Not a Buddhist: [review + some recommended books](https://www.goodreads.com/review/show/1820538290)
-- [Dalai Lama - Bridging Buddhism & Science - ACI Dharma România](https://www.youtube.com/playlist?list=PLb771hFqA1oTskt3tJ8nF73bxlTlbhZ-o)
+- [Dalai Lama - Bridging Buddhism & Science - ACI Dharma România](https://m.youtube.com/playlist?list=PLb771hFqA1oTskt3tJ8nF73bxlTlbhZ-o)
 - [Daily Practice Series Course 05: Meditation on Death and the End of Death (1999, Raleigh)](https://www.theknowledgebase.com/archive/en/dailypractice05-1999-raleigh-geshemichael)
 - https://wisdomexperience.org/wisdom-article/wisdom-podcast
-- https://www.youtube.com/c/DiamondMountainRetreatCenter/playlists
+- https://m.youtube.com/c/DiamondMountainRetreatCenter/playlists
 
 ### Cinema 
 
-- https://www.youtube.com/watch?v=ub1ESXqPg7k&list=PL21r2LI2r8hlTWASsVp3Ik0nvJvlepZc3&index=10
+- https://m.youtube.com/watch?v=ub1ESXqPg7k&list=PL21r2LI2r8hlTWASsVp3Ik0nvJvlepZc3&index=10
 
 ### Christianity
 
@@ -26,7 +26,7 @@
 - https://humanitas.ro/assets/pdf/Sfantul-Augustin_Despre-minciuna.pdf
 - https://archive.org/details/EneSiEcaterinaBraniste-DictionarEnciclopedicDeCunostinteReligioase
 - [On Christianity | Nassim Nicholas Taleb](https://twitter.com/nntaleb/status/1562838685002842117)
-- [More than a Defense (Apologetics Series) | BP Learning](https://www.youtube.com/playlist?list=PL2Ky2_VcYEd1dsx_VkyebLWB1LNgFgjdU)
+- [More than a Defense (Apologetics Series) | BP Learning](https://m.youtube.com/playlist?list=PL2Ky2_VcYEd1dsx_VkyebLWB1LNgFgjdU)
 - https://edituratact.ro/colectii/angelus-novus/cand-lumea-noastra-a-devenit-crestina-312-394
 
 ### Islam

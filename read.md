@@ -19,7 +19,7 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUfqLfnXjHjvQgSTZbzAAcAd
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUfqLfnXjHjvQgSTZbzAAcAd
 
 ### Tips
 

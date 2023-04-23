@@ -25,22 +25,22 @@
 
 ### Cinema
 
-- [UC Berkeley: PHYS 10 - Physics for Future Presidents | CosmoLearning.org](https://www.youtube.com/playlist?list=PLaLOVNqqD-2Ep5N9os9jWMSkxK_TLki9h)
-- [Quantum Optics - Single Photons](https://www.youtube.com/playlist?list=PL2jykFOD1AWaYcXzYm08-pM0S0QNzmFIU)
-- [Matter and Radiation](https://www.youtube.com/playlist?list=PL2jykFOD1AWY_okCphwz0yRRb-WWO_irh)
-- [The Biggest Ideas in the Universe | Sean Carroll](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) + https://www.preposterousuniverse.com/biggestideas/videos
-- [Going Nuclear - The Science Of Nuclear Weapons | Scott Manley](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
+- [UC Berkeley: PHYS 10 - Physics for Future Presidents | CosmoLearning.org](https://m.youtube.com/playlist?list=PLaLOVNqqD-2Ep5N9os9jWMSkxK_TLki9h)
+- [Quantum Optics - Single Photons](https://m.youtube.com/playlist?list=PL2jykFOD1AWaYcXzYm08-pM0S0QNzmFIU)
+- [Matter and Radiation](https://m.youtube.com/playlist?list=PL2jykFOD1AWY_okCphwz0yRRb-WWO_irh)
+- [The Biggest Ideas in the Universe | Sean Carroll](https://m.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) + https://www.preposterousuniverse.com/biggestideas/videos
+- [Going Nuclear - The Science Of Nuclear Weapons | Scott Manley](https://m.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
 - [A Brief Tour of Relativity and Cosmology | Robert A. McNees](http://jacobi.luc.edu/AdlerTalk.pdf)
-- [FIZICA SI TELECOMUNICATII | Cristian Muresanu](https://www.youtube.com/playlist?list=PLm7uyPwcHexL8Q17XoYiovDvsFIuztwTA)
-- https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021 + https://www.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8
-- https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016 + https://www.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu
+- [FIZICA SI TELECOMUNICATII | Cristian Muresanu](https://m.youtube.com/playlist?list=PLm7uyPwcHexL8Q17XoYiovDvsFIuztwTA)
+- https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021 + https://m.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8
+- https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016 + https://m.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu
 
 ### Course
 
 - [ME101: Introduction to Mechanical Engineering](https://github.com/saylordotorg/course_me101)
 - [ME302: Mechatronics](https://github.com/saylordotorg/course_me302)
 - https://github.com/johnwstanford/feynman_lecture_notes
-- [Introduction to Loop Quantum Gravity - Carlo Rovelli](https://www.youtube.com/playlist?list=PLwLvxaPjGHxR6zr421tXXlaDGbq8S36Un)
+- [Introduction to Loop Quantum Gravity - Carlo Rovelli](https://m.youtube.com/playlist?list=PLwLvxaPjGHxR6zr421tXXlaDGbq8S36Un)
 
 ### Community
 
@@ -59,28 +59,28 @@
 - http://backreaction.blogspot.com/2012/09/book-review-universe-within-by-neil.html
 - http://backreaction.blogspot.com/2019/02/book-review-breakfast-with-einstein-by.html + http://backreaction.blogspot.com/2015/07/book-review-eureka-by-chad-orzel.html + http://backreaction.blogspot.com/2012/04/book-review-how-to-teach-relativity-to.html
 - https://www.amazon.com/Electromagnetic-Theory-Oliver-Heaviside/dp/1549664514
-- [ElectroBOOM101](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)
-- [The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
-- [Electric Circuits by Eugene Khutoryansky](https://www.youtube.com/playlist?list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
-- [More Electric Circuits by Eugene Khutoryansky](https://www.youtube.com/playlist?list=PLkyBCj4JhHt-4PnnwpbG-ZKV_EjX03DX8)
-- https://www.youtube.com/user/EEVblog/playlists
+- [ElectroBOOM101](https://m.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)
+- [The Mechanical Universe](https://m.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
+- [Electric Circuits by Eugene Khutoryansky](https://m.youtube.com/playlist?list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
+- [More Electric Circuits by Eugene Khutoryansky](https://m.youtube.com/playlist?list=PLkyBCj4JhHt-4PnnwpbG-ZKV_EjX03DX8)
+- https://m.youtube.com/user/EEVblog/playlists
 - https://github.com/Developer-Y/math-science-video-lectures#physics
-- [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/playlists)
-- [Carl Sagan's "COSMOS"](https://www.youtube.com/playlist?list=PLKSi40WEKtMxykDBP8_vrC6bKXotys8KJ)
-- [Basics on Capacitors and Inductors by w2aew](https://www.youtube.com/playlist?list=PLB9A78ED3D7EF1AE5)
-- [Circuit Tutorials by w2aew](https://www.youtube.com/playlist?list=PL4ZSD4omd_Aw-ozOphzFCkhWMtBdyEIrP)
-- [8.01x - MIT Physics I: Classical Mechanics](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
-- [8.02x - MIT Physics II: Electricity and Magnetism](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
-- [8.03 - MIT Physics III: Vibrations and Waves](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89)
-- [ Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw/playlists)
+- [PBS Space Time](https://m.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/playlists)
+- [Carl Sagan's "COSMOS"](https://m.youtube.com/playlist?list=PLKSi40WEKtMxykDBP8_vrC6bKXotys8KJ)
+- [Basics on Capacitors and Inductors by w2aew](https://m.youtube.com/playlist?list=PLB9A78ED3D7EF1AE5)
+- [Circuit Tutorials by w2aew](https://m.youtube.com/playlist?list=PL4ZSD4omd_Aw-ozOphzFCkhWMtBdyEIrP)
+- [8.01x - MIT Physics I: Classical Mechanics](https://m.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
+- [8.02x - MIT Physics II: Electricity and Magnetism](https://m.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+- [8.03 - MIT Physics III: Vibrations and Waves](https://m.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89)
+- [ Lectures by Walter Lewin. They will make you ♥ Physics.](https://m.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw/playlists)
 - https://ciechanow.ski/gears
 - https://www.amazon.co.uk/Beyond-Weird-Philip-Ball/dp/1847924573
 - [The Spinning Magnet: The Force That Created the Modern World--and Could Destroy It - Alanna Mitchell](https://www.goodreads.com/en/book/show/35754738) + https://youtu.be/wnexzUxUNX4
-- [Engineering Connections with Richard Hammond - Science Documentary Series](https://www.youtube.com/playlist?list=PLBThhL8p7IfkXJNkrGlhAYlMX5vuOVoat)
+- [Engineering Connections with Richard Hammond - Science Documentary Series](https://m.youtube.com/playlist?list=PLBThhL8p7IfkXJNkrGlhAYlMX5vuOVoat)
 - https://phys.org/news/2020-07-lightest-electromagnetic-shielding-material-world.html
 - https://open.umn.edu/opentextbooks/subjects/engineering
 - https://blog.jessfraz.com/post/battery-day + https://twitter.com/jessfraz/status/1311086559832145921 + https://twitter.com/jessfraz/status/1308069671778750464 + https://silanano.com/news/futureofenergystorage + https://twitter.com/SilaGene/status/1301197888333123586
-- https://www.youtube.com/c/SabineHossenfelder/playlists
+- https://m.youtube.com/c/SabineHossenfelder/playlists
 - [Does anyone know of coursework / materials for optics that convey a good intuition for how light moves?](https://twitter.com/LauraDeming/status/1353031120326021126)
 - http://animatedengines.com + https://news.ycombinator.com/item?id=26368939
 - https://github.com/Apress/physics-for-javascript-games-animation-simulations

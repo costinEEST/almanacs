@@ -3,7 +3,7 @@
 - https://www.amazon.com/Mind-Mnemonist-Little-Memory-Foreword/dp/0674576225
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.amazon.com/gp/product/1542866502)
 - https://www.amazon.com/Productive-Thinking-Max-Wertheimer/dp/0226893766
-- [Learning Masterclass |  Ethan Schwandt - The Mind Map Guy](https://www.youtube.com/playlist?list=PLus5uUwK9fLFb9bykGTf4bLdqdtHVeNYN)
+- [Learning Masterclass |  Ethan Schwandt - The Mind Map Guy](https://m.youtube.com/playlist?list=PLus5uUwK9fLFb9bykGTf4bLdqdtHVeNYN)
 - https://aliabdaal.com/stic-framework
 - https://www.lucalampariello.com/recommended-reading
 - [Polyglot : how I learn languages / Kató Lomb](https://www.tesl-ej.org/books/lomb-2nd-Ed.pdf) + http://cstrobbe.github.io/languagelearning
@@ -13,8 +13,8 @@
 
 - https://www.udemy.com/course/jack-of-all-trades
 - https://www.udemy.com/course/modern-mind-mapping-for-beginners-software-based-course
-- https://www.youtube.com/c/Glutanimate/playlists
-- https://www.youtube.com/theanking/playlists
+- https://m.youtube.com/c/Glutanimate/playlists
+- https://m.youtube.com/theanking/playlists
 - [The Nature of Genius](https://www.coursera.org/learn/-genius)
 
 ### Community

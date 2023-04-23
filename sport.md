@@ -1,6 +1,6 @@
 ### Aikido
 
-- https://www.youtube.com/playlist?list=PLoZ5e3aD_LuSIh_cH0yeClQ2mco_0r3ey
+- https://m.youtube.com/playlist?list=PLoZ5e3aD_LuSIh_cH0yeClQ2mco_0r3ey
 
 ### Basketball
 
@@ -22,7 +22,7 @@
 - https://issuu.com/marianivan/docs/ghidulbiciclistului
 - [Grup de MECANICĂ BICICLETE - PUSHBIKE](https://www.facebook.com/groups/440245016043580)
 - [Motorcycle roads Romania](https://2ride.eu/trasee)
-- [unicycle](https://www.youtube.com/playlist?list=PL9MBW6e0V7UIRt_CuM4ssnui2rVs957CU)
+- [unicycle](https://m.youtube.com/playlist?list=PL9MBW6e0V7UIRt_CuM4ssnui2rVs957CU)
 - https://www.forbes.com/sites/forbes-personal-shopper/2023/02/08/best-mountain-bikes
 
 ### Golf
@@ -36,7 +36,7 @@
 
 ### Martial arts 
 
-- https://www.youtube.com/playlist?list=PLNHP4MR4hlZqaW9MixZ5C2Mx-E1wmbOQI
+- https://m.youtube.com/playlist?list=PLNHP4MR4hlZqaW9MixZ5C2Mx-E1wmbOQI
 
 ### Rugby
 
@@ -55,11 +55,11 @@
 
 ### Snowboarding
 
-- https://www.youtube.com/playlist?list=PLP_EdRTEIHF5Si3K4UCwr0Dz11MerPFH2
+- https://m.youtube.com/playlist?list=PLP_EdRTEIHF5Si3K4UCwr0Dz11MerPFH2
 
 ### Soccer
 
-- [Sports History](https://www.youtube.com/playlist?list=PLHCqKO_htsf4Bl5hzcA5MypWxxoF1coKN)
+- [Sports History](https://m.youtube.com/playlist?list=PLHCqKO_htsf4Bl5hzcA5MypWxxoF1coKN)
 - https://www.europeana.eu/en/blog/the-classical-roots-of-modern-day-football
 - https://www.coursera.org/learn/football-more-than-a-game
 

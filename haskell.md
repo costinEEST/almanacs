@@ -23,12 +23,12 @@
 
 ### Cinema
 
-- https://twitter.com/haskellhutt/status/1375384976938663936 + [Functional programming in Haskell, by Professor Graham Hutton from the University of Nottingham.](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3) + http://www.cs.nott.ac.uk/~pszgmh/pih.html
+- https://twitter.com/haskellhutt/status/1375384976938663936 + [Functional programming in Haskell, by Professor Graham Hutton from the University of Nottingham.](https://m.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3) + http://www.cs.nott.ac.uk/~pszgmh/pih.html
 - https://huangxuan.me/2018/09/27/avoiding-success-at-all-cost
-- [Vincent Orr](https://www.youtube.com/channel/UCbKpj2hZ0CFXLatyx615JNw/playlists)
-- [Strema: a compiler targeting JavaScript in Haskell](https://www.youtube.com/playlist?list=PLhMOOgDOKD4IkQM75GkAnXI-fpIrDAnsu) + https://gitlab.com/gilmi/strema
+- [Vincent Orr](https://m.youtube.com/channel/UCbKpj2hZ0CFXLatyx615JNw/playlists)
+- [Strema: a compiler targeting JavaScript in Haskell](https://m.youtube.com/playlist?list=PLhMOOgDOKD4IkQM75GkAnXI-fpIrDAnsu) + https://gitlab.com/gilmi/strema
 - https://github.com/haskell-beginners-2022/course-plan
-- [Continuation-Passing Style Programming | Hans Schenker](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PA1lEOk2KFA37YdEnRnLqRi)
+- [Continuation-Passing Style Programming | Hans Schenker](https://m.youtube.com/playlist?list=PLw5h0DiJ-9PA1lEOk2KFA37YdEnRnLqRi)
 
 ### Compiler
 

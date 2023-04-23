@@ -34,7 +34,7 @@
 - [Foundations of Python Network Programming (Apress)](https://github.com/brandon-rhodes/fopnp)
 - [Exercises in Programming Style](http://tagide.com/EPSBook)
 - https://github.com/thewhitetulip/build-app-with-python-antitextbook
-- https://www.debuggingbook.org + https://www.youtube.com/playlist?list=PL6dh-k4faL8ok2aD64kEm6zmUPbfTznJy
+- https://www.debuggingbook.org + https://m.youtube.com/playlist?list=PL6dh-k4faL8ok2aD64kEm6zmUPbfTznJy
 - https://opendatascience.com/dissecting-the-software-designing-approach-of-design-by-contract + https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214
 - https://github.com/jakevdp/PythonDataScienceHandbook
 - https://github.com/pamoroso/free-python-books
@@ -120,7 +120,7 @@
 - https://github.com/trekhleb/learn-python
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
 - [Customizing QGIS with Python (Course Material)](https://courses.spatialthoughts.com/pyqgis-in-a-day.html) + https://mobile.twitter.com/spatialthoughts/status/1296821055604969473
-- [Build a Feed Reader in Python](https://www.youtube.com/playlist?list=PLmxT2pVYo5LBcv5nYKTIn-fblphtD_OJO)
+- [Build a Feed Reader in Python](https://m.youtube.com/playlist?list=PLmxT2pVYo5LBcv5nYKTIn-fblphtD_OJO)
 - [Write yourself a Git!](https://wyag.thb.lt)
 - [An introduction to Python and programming for wanna-be data scientists](https://github.com/webartifex/intro-to-python)
 - https://realpython.com/account/purchases
@@ -141,7 +141,7 @@
 - https://www.freecodecamp.org/news/automate-your-life-with-python
 - [Python for Defenders](https://taggarttech.teachable.com/courses/enrolled/1875566)
 - https://github.com/octallium/modern-python-101 + https://youtu.be/jH85McHenvw
-- https://mattsegal.dev/category/django.html + https://www.youtube.com/playlist?list=PLQQCZhK0_MHG2SCVMwQACRrj8YuGIJj7N
+- https://mattsegal.dev/category/django.html + https://m.youtube.com/playlist?list=PLQQCZhK0_MHG2SCVMwQACRrj8YuGIJj7N
 - https://www.freecodecamp.org/news/microservices-and-software-system-design-course
 - https://www.udemy.com/course/build-a-movie-tracking-api-with-fastapi-and-python/?referralCode=47430716975684E04F85
 - [Programming Abstractions](https://decomposition.al/CSE30-2020-01)
@@ -153,12 +153,12 @@
 ### Cinema
 
 - https://github.com/s16h/py-must-watch
-- [Python programming for finance | sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
+- [Python programming for finance | sentdex](https://m.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
 - https://alexwlchan.net/2019/10/sans-io-programming
-- [Time Traveling Debugger | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3Cpyk2LD1vE0161Jg82HJ7d)
-- [How GUI works | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3AzOn-r857u2JSfPVHOd8xH)
-- [Python for Java Developers](https://www.youtube.com/channel/UCD6woIYRXP_kX5IaLb-6tqw/playlists)
-- [Python For People | Black Hills Information Security](https://www.youtube.com/playlist?list=PLqz80p7f6dFvibZxA7LZa1T3e478Ljgui)
+- [Time Traveling Debugger | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3Cpyk2LD1vE0161Jg82HJ7d)
+- [How GUI works | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3AzOn-r857u2JSfPVHOd8xH)
+- [Python for Java Developers](https://m.youtube.com/channel/UCD6woIYRXP_kX5IaLb-6tqw/playlists)
+- [Python For People | Black Hills Information Security](https://m.youtube.com/playlist?list=PLqz80p7f6dFvibZxA7LZa1T3e478Ljgui)
 - https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql
 
 ### Community
@@ -172,7 +172,7 @@
 ### Data structure
 
 - https://akshayr.me/blog/articles/python-dictionaries
-- [K-d Tree in Python - Tsoding](https://www.youtube.com/playlist?list=PLguYJK7ydFE7R7KqRRVXw23kOrn6jiwqi)
+- [K-d Tree in Python - Tsoding](https://m.youtube.com/playlist?list=PLguYJK7ydFE7R7KqRRVXw23kOrn6jiwqi)
 - [Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures](https://github.com/MTrajK/coding-problems)
 - https://github.com/thundergolfer/interview-with-python
 
@@ -214,12 +214,12 @@
 - https://github.com/judy2k/stupid-python-tricks
 - https://smarx.com/posts/2020/12/memoization-in-one-line-of-python
 - [Cursed operators](https://twitter.com/gynvael/status/1538125070987567104)
-- https://www.youtube.com/playlist?list=PLWBKAf81pmOamJfoHz4oRdieWQysmUkaW
+- https://m.youtube.com/playlist?list=PLWBKAf81pmOamJfoHz4oRdieWQysmUkaW
 
 ### Scraping
 
 - https://levelup.gitconnected.com/developing-a-website-scraper-b7a78bb5544a
-- https://scrapism.lav.io + https://www.youtube.com/playlist?list=PLKDFNm2PsaCed7FP0uN5d2qWBAiJ0R7c9
+- https://scrapism.lav.io + https://m.youtube.com/playlist?list=PLKDFNm2PsaCed7FP0uN5d2qWBAiJ0R7c9
 - https://github.com/Adithya93/webScraping
 - https://github.com/bri-bri/yosemite-camping
 - [Powerful and flexible Instagram scraping library for Python, providing easy-to-use and expressive tools for accessing data programmatically](https://github.com/chris-greening/instascrape)
@@ -285,7 +285,7 @@
 - https://github.com/andresriancho/race-condition-exploit
 - https://github.com/ochronasec/ochrona_python_vulnerabilities
 - [Crypto Mistakes ON demand](https://github.com/kojenov/cmon)
-- https://github.com/redpointsec/vtm + https://www.youtube.com/watch?v=f6UOBCJ9pjw&list=PLObjwXTc0xGOfWgHpWFkxukMDbpuDRo58&index=8
+- https://github.com/redpointsec/vtm + https://m.youtube.com/watch?v=f6UOBCJ9pjw&list=PLObjwXTc0xGOfWgHpWFkxukMDbpuDRo58&index=8
 - [Collection of Packer and Vagrant scripts that allow you to quickly bring a Windows Active Directory online, complete with a collection of endpoint security tooling and logging best practices](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) + https://twitter.com/Centurion/status/940267549840642051
 - https://www.blackhat.com/us-21/briefings/schedule/#do-you-speak-my-language-make-static-analysis-engines-understand-each-other-22797
 - https://www.vicarius.io/vsociety/blog/exploiting-google-slo-generator-with-python-yaml-deserialization-attack
@@ -321,7 +321,7 @@
 
 - https://cybersecuritynews.com/python-tools
 - https://www.errbufferoverfl.me/snake-charming-for-beginners/build-your-command-centre
-- Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier: [repo](https://github.com/byt3bl33d3r/WitnessMe) + [video](https://www.youtube.com/watch?v=xMeJoaEJshQ)
+- Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier: [repo](https://github.com/byt3bl33d3r/WitnessMe) + [video](https://m.youtube.com/watch?v=xMeJoaEJshQ)
 - https://github.com/bamos/reading-list
 - https://github.com/pncnmnp/Markdown-to-HTML
 - [Animation engine for explanatory math videos.](https://github.com/3b1b/manim)
@@ -386,4 +386,4 @@
 - https://www.abhaybhargav.com/tdd-for-serverless-my-setup
 - https://www.abhaybhargav.com/security-automation-with-a-markdown-file
 - https://github.com/mytechnotalent/Selenium-For-Everyone
-- [TCR test && commit || revert -- Rope in Python | Kent Beck](https://www.youtube.com/playlist?list=PLlmVY7qtgT_nhLyIbeAaUlFOWbWT5y53t)
+- [TCR test && commit || revert -- Rope in Python | Kent Beck](https://m.youtube.com/playlist?list=PLlmVY7qtgT_nhLyIbeAaUlFOWbWT5y53t)

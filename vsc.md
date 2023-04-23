@@ -1,9 +1,9 @@
 ### Cinema
 
-- [Visual Studio Code Setup series | Zell Liew](https://www.youtube.com/playlist?list=PLht38HefjmzGWN0CUHGqjliTSuhXFTDG5)
+- [Visual Studio Code Setup series | Zell Liew](https://m.youtube.com/playlist?list=PLht38HefjmzGWN0CUHGqjliTSuhXFTDG5)
 - https://www.udemy.com/course/mastering-visual-studio-code
 - https://chrissev.gumroad.com/l/productive-vs-code
-- VS Code Livestreams: https://code.visualstudio.com/livestream, https://www.youtube.com/c/Code/videos
+- VS Code Livestreams: https://code.visualstudio.com/livestream, https://m.youtube.com/c/Code/videos
 
 ### Extension
 
@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-- https://www.youtube.com/watch?v=oeFLeAs3plM&list=PLWIcRrPLCdUethIDPGPwe-Lqnw1J8hzsX
+- https://m.youtube.com/watch?v=oeFLeAs3plM&list=PLWIcRrPLCdUethIDPGPwe-Lqnw1J8hzsX
 - https://github.com/viatsko/awesome-vscode
 - https://github.com/microsoft/vscode-tips-and-tricks
 - [VS Code Recipes](https://github.com/Microsoft/vscode-recipes)

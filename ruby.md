@@ -124,43 +124,43 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PL55SPnO0U2H3Am21MYgNcviYLzJ0bFv3J
-- [Matt Stopa](https://www.youtube.com/@MattStopaDev/playlists) + https://github.com/MattStopa/Coding-Casts-Code
+- https://m.youtube.com/playlist?list=PL55SPnO0U2H3Am21MYgNcviYLzJ0bFv3J
+- [Matt Stopa](https://m.youtube.com/@MattStopaDev/playlists) + https://github.com/MattStopa/Coding-Casts-Code
 - https://github.com/daryllxd/every_ruby_talk_ever
-- [Inside The Muse - Semicolon&Sons](https://www.youtube.com/watch?v=aCzT-LQI6x0&list=PLpkoC9yJXDKlGz7SPwofn1joJH9nAABmX)
+- [Inside The Muse - Semicolon&Sons](https://m.youtube.com/watch?v=aCzT-LQI6x0&list=PLpkoC9yJXDKlGz7SPwofn1joJH9nAABmX)
 - [Programming With Nothing](https://github.com/tomstuart/nothing)
 - [Ruby under a microscope](https://eddyerburgh.me/books-i-enjoyed-in-2019)
-- [Automate YouTube Video Production with Ruby on Rails using the YouTube API | CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6ILDUeteD-A_q6Ja4SH8v95)
-- [Stock app | CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6JOyF7jKb4aZsX0l6eDARp1)
+- [Automate YouTube Video Production with Ruby on Rails using the YouTube API | CJ Avilla](https://m.youtube.com/playlist?list=PLS6F722u-R6ILDUeteD-A_q6Ja4SH8v95)
+- [Stock app | CJ Avilla](https://m.youtube.com/playlist?list=PLS6F722u-R6JOyF7jKb4aZsX0l6eDARp1)
 - [Evented Ruby vs Node.js by Jerry Cheung](https://speakerdeck.com/jch/evented-ruby-vs-nodejs)
-- [Building DevMail | Jess Martin](https://www.youtube.com/playlist?list=PLR5cUEyS7wdghZznk9yoEvcA848W3m16x)
+- [Building DevMail | Jess Martin](https://m.youtube.com/playlist?list=PLR5cUEyS7wdghZznk9yoEvcA848W3m16x)
 - https://github.com/cjavdev/video_automation
 - https://brunosutic.com/talks/async-ruby-rubyconf-2021
-- [Scraping the Web with Ruby | Techmaker Studio](https://www.youtube.com/playlist?list=PLjItgYqIzJ9Wj23QSk-CxPElDiz9DUfCF)
-- [Building a Link Shortener with Rails 6](https://www.youtube.com/playlist?list=PLjItgYqIzJ9WGy9WMf-44DXHB_7aWwJMc)
-- [IT Automation](https://www.youtube.com/playlist?list=PL2jykFOD1AWbIGL5c8FIbUdhLwDvCjkGN) + https://www.youtube.com/playlist?list=PL2jykFOD1AWaklE2NfhuKAYL3i8ji26KT
+- [Scraping the Web with Ruby | Techmaker Studio](https://m.youtube.com/playlist?list=PLjItgYqIzJ9Wj23QSk-CxPElDiz9DUfCF)
+- [Building a Link Shortener with Rails 6](https://m.youtube.com/playlist?list=PLjItgYqIzJ9WGy9WMf-44DXHB_7aWwJMc)
+- [IT Automation](https://m.youtube.com/playlist?list=PL2jykFOD1AWbIGL5c8FIbUdhLwDvCjkGN) + https://m.youtube.com/playlist?list=PL2jykFOD1AWaklE2NfhuKAYL3i8ji26KT
 - https://speakerdeck.com/eileencodes/improving-cvar-performance-in-ruby-3-dot-1
-- [dry-rb in five](https://www.youtube.com/playlist?list=PLLproF5gmeGGvXX7kZuCmWnZ6dOaeLs_v)
+- [dry-rb in five](https://m.youtube.com/playlist?list=PLLproF5gmeGGvXX7kZuCmWnZ6dOaeLs_v)
 - https://schneems.com/2015/05/11/how-ruby-uses-memory.html
-- [RubyConf 2021](https://www.youtube.com/playlist?list=PLbHJudTY1K0f0oMhWtY-UyzOb7tUlaHps)
+- [RubyConf 2021](https://m.youtube.com/playlist?list=PLbHJudTY1K0f0oMhWtY-UyzOb7tUlaHps)
 - https://amcaplan.ninja/talks/2018/04/19/automating-empathy-test-your-docs-with-swagger-and-apivore
 - https://noti.st/palkan/j3i2Dr/ruby-next-make-old-rubies-quack-like-a-new-one
-- [Rails 6 API | Tom Kadwill](https://www.youtube.com/playlist?list=PLbTv9eGiI03u1-JFkFpPGsR_hMre6WX3e)
-- [Build a Pet Adoption App With Ruby On Rails 6 & PostgreSQL](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
-- [Full-Stack Development with Ember and Rails](https://www.youtube.com/playlist?list=PLXXnezSEtvNPcZHqzXhrL1-7JkrbIR6qF)
-- [Let's recreate Notion in Ruby on Rails | Dr Nic Williams](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
-- [Rails Foundation | Codemy school](https://www.youtube.com/playlist?list=PLjQo0sojbbxVz2zbpq3DY2pePUfq7coSe)
-- [Rails API | Codemy school](https://www.youtube.com/playlist?list=PLjQo0sojbbxWXYhditpqZlN4oLJE4hLjP)
-- [Ruby programming II | Dave Jones](https://www.youtube.com/playlist?list=PLSXDqiI4sC5O3fI2XzlXCfKiKx9ELnH4Q)
+- [Rails 6 API | Tom Kadwill](https://m.youtube.com/playlist?list=PLbTv9eGiI03u1-JFkFpPGsR_hMre6WX3e)
+- [Build a Pet Adoption App With Ruby On Rails 6 & PostgreSQL](https://m.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
+- [Full-Stack Development with Ember and Rails](https://m.youtube.com/playlist?list=PLXXnezSEtvNPcZHqzXhrL1-7JkrbIR6qF)
+- [Let's recreate Notion in Ruby on Rails | Dr Nic Williams](https://m.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
+- [Rails Foundation | Codemy school](https://m.youtube.com/playlist?list=PLjQo0sojbbxVz2zbpq3DY2pePUfq7coSe)
+- [Rails API | Codemy school](https://m.youtube.com/playlist?list=PLjQo0sojbbxWXYhditpqZlN4oLJE4hLjP)
+- [Ruby programming II | Dave Jones](https://m.youtube.com/playlist?list=PLSXDqiI4sC5O3fI2XzlXCfKiKx9ELnH4Q)
 - https://speakerdeck.com/jeg2/command-line-ruby
 - [Kevin Newton](https://kddnewton.com/speaking)
-- [Sundae Club - The First App - A website builder for YouTube & Twitch Channels - Ruby on Rails Livestreams](https://www.youtube.com/playlist?list=PL9ATwFdcJitzQvxRA9k_xtPywPo7rja6G) + https://github.com/Sundae-Club/sundaeclub
+- [Sundae Club - The First App - A website builder for YouTube & Twitch Channels - Ruby on Rails Livestreams](https://m.youtube.com/playlist?list=PL9ATwFdcJitzQvxRA9k_xtPywPo7rja6G) + https://github.com/Sundae-Club/sundaeclub
 - https://github.com/i0rek/frozenrails-notes
 - [Containerizing Rails: Techniques, Pitfalls, and Best Practices](https://daniel-azuma.com/articles/talks/railsconf-2018)
-- [Live Coding Streams | GoRails](https://www.youtube.com/playlist?list=PLm8ctt9NhMNWfnXIK_EaHaMkDGNYrOJlO)
-- [Open Source Vlog | GoRails](https://www.youtube.com/playlist?list=PLm8ctt9NhMNU5ONbGecA2m-R0TPbFBttD)
+- [Live Coding Streams | GoRails](https://m.youtube.com/playlist?list=PLm8ctt9NhMNWfnXIK_EaHaMkDGNYrOJlO)
+- [Open Source Vlog | GoRails](https://m.youtube.com/playlist?list=PLm8ctt9NhMNU5ONbGecA2m-R0TPbFBttD)
 - https://www.destroyallsoftware.com/talks/boundaries
-- [Rails Instagram Clone Tutorials | Malacow](https://www.youtube.com/playlist?list=PLR8BLHNyVZDW-5crDl3unpGIqee5xSV48)
+- [Rails Instagram Clone Tutorials | Malacow](https://m.youtube.com/playlist?list=PLR8BLHNyVZDW-5crDl3unpGIqee5xSV48)
 - [A Rubyist's Walk Along the C-side (writing Ruby C extensions)](https://github.com/peterzhu2118/ruby-c-ext-code)
 - https://github.com/pinzonjulian/all_you_need_is_rails_engines
 
@@ -169,7 +169,7 @@
 - https://www.udemy.com/course/ruby-on-rails-api-the-complete-guide
 - https://www.theodinproject.com/paths/full-stack-ruby-on-rails
 - https://store.afomera.dev/view/courses/learn-hotwire
-- [Full Stack Ruby on Rails Development Bootcamp | APPSIMPACT Academy](https://www.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPPu)
+- [Full Stack Ruby on Rails Development Bootcamp | APPSIMPACT Academy](https://m.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPPu)
 - [Rails course for University of Texas Students](https://schneems.com/ut-rails)
 
 ### Community
@@ -193,13 +193,13 @@
 - [Find out what's going on in your local Ruby community](https://github.com/lewispb/rubymap) + https://github.com/lewispb/rubymap/blob/master/data/seeds/organizations.yml
 - https://simran.app/2022/01/23/learning-ror
 - https://github.com/rohandaxini/rails-concepts-topics + https://twitter.com/rohan_daxini/status/1484787524975624193
-- [RubyKaigi, Ruby conference in Japan](https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A)
+- [RubyKaigi, Ruby conference in Japan](https://m.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A)
 - [London Ruby User Group](https://lrug.org)
 - [Ruby User Group Berlin](https://www.rug-b.de)
 - [Vienna Ruby User Group](https://www.meetup.com/vienna-rb)
 - [South West Ruby](https://www.meetup.com/south-west-ruby/)
 - [Scottish Ruby User Group](https://www.meetup.com/meetup-group-Xwgucjde)
-- [Charles Nutter](https://www.youtube.com/playlist?list=PL7Ge6HWc5bbsdwsIprgiAD8xhWcOQoBZV)
+- [Charles Nutter](https://m.youtube.com/playlist?list=PL7Ge6HWc5bbsdwsIprgiAD8xhWcOQoBZV)
 - [Emily Giurleo](https://emilygiurleo.dev/speaking)
 - [David Bryant Copeland](https://naildrivin5.com/talks/index.html)
 - [Igor S. Morozov](https://www.morozov.is/talks)
@@ -210,9 +210,9 @@
 - http://graysoftinc.com/my-heroes
 - [Contribute to Rails in a right way | Bogdan Gusiev](http://gusiev.com/slides/rails_contribution/static/#1)
 - Jonathan Gillette: https://youtu.be/DS5V37k1EP0?t=1292 + https://youtu.be/64anPPVUw5U + https://viewsourcecode.org/why + https://orgtheory.wordpress.com/2012/03/20/_why-aa-jonathan-gillette + https://twitter.com/_why
-- [Vonage gems](https://www.youtube.com/playlist?list=PLWYngsniPr_lOOJYHULE1rMtYNvmF-dDb)
+- [Vonage gems](https://m.youtube.com/playlist?list=PLWYngsniPr_lOOJYHULE1rMtYNvmF-dDb)
 - [Yechiel Kalmenson](https://yechiel.me/projects)
-- https://www.youtube.com/c/RubyAustralia
+- https://m.youtube.com/c/RubyAustralia
 - [Ilya Bylich](https://github.com/iliabylich/iliabylich.github.io/tree/master/_posts)
 - [Vladislav Trotsenko](https://www.codewars.com/users/bestwebua)
 - Jörn Schneeweisz: https://code-audit-training.gitlab.io, https://0day.click/page/references
@@ -290,7 +290,7 @@
 - https://skryukov.github.io/rails/activeadmin/2020/09/29/an-unofficial-active-admin-guide.html
 - [Pure Ruby bit array/bitfield implementation](https://github.com/peterc/bitarray)
 - https://github.com/countries/country_select
-- [Triage Issues With Me - Heroics | Richard Schneeman](https://www.youtube.com/playlist?list=PLg03g-T-woiDCY1m4PdMh2Vv2eftDdVZP)
+- [Triage Issues With Me - Heroics | Richard Schneeman](https://m.youtube.com/playlist?list=PLg03g-T-woiDCY1m4PdMh2Vv2eftDdVZP)
 - https://www.alchemists.io/projects/gemsmith
 - https://metaredux.com/posts/2022/04/21/rubocop-turns-10.html
 - https://postmodern.github.io/blog/2021/11/25/introducing-command-mapper.html
@@ -310,7 +310,7 @@
 - [command-line password safe/manager using AES-256-CBC and PBKDF2](https://github.com/janlelis/pws)
 - https://github.com/cardmagic/simple-rss
 - https://daniel-azuma.com/blog/2019/11/06/is-it-time-to-replace-rake
-- https://github.com/pay-rails/pay + https://www.youtube.com/playlist?list=PLm8ctt9NhMNXCvYPahPCuR3K-q_tsEi-A
+- https://github.com/pay-rails/pay + https://m.youtube.com/playlist?list=PLm8ctt9NhMNXCvYPahPCuR3K-q_tsEi-A
 - https://github.com/troessner/articles/blob/master/docs/2016-08-02-how-does-mutant-work.md
 - https://www.matijs.net/blog/2018/12/31/opinions-about-ruby-gem-development-2018-edition
 - https://github.com/jordansissel/ruby-ftw
@@ -370,9 +370,9 @@
 - https://stackoverflow.com/questions/22827566/ruby-parameters-by-reference-or-by-value/22827949#22827949
 - [Proc#arity](https://twitter.com/skryukov_dev/status/1447509791174168578)
 - https://noteflakes.com/articles/2021-10-20-explaining-ruby-fibers
-- [Studying Rails | Akshay Khot](https://www.youtube.com/playlist?list=PLvzIg98pA19mdittqxQKAm88_H5sT---g)
+- [Studying Rails | Akshay Khot](https://m.youtube.com/playlist?list=PLvzIg98pA19mdittqxQKAm88_H5sT---g)
 - [The Safe Navigation Operator (&.)](https://mitrev.net/ruby/2015/11/13/the-operator-in-ruby)
-- [Ruby on Rails Interview Questions | APPSIMPACT Academy](https://www.youtube.com/playlist?list=PL6SEI86zExmtPEhIPXhqLAScDURdT5z19) + https://www.youtube.com/playlist?list=PL6SEI86zExmvCaLJMY9tFdP35NzCs2QdK
+- [Ruby on Rails Interview Questions | APPSIMPACT Academy](https://m.youtube.com/playlist?list=PL6SEI86zExmtPEhIPXhqLAScDURdT5z19) + https://m.youtube.com/playlist?list=PL6SEI86zExmvCaLJMY9tFdP35NzCs2QdK
 - https://dev.to/palkan_tula/faster-rubocop-runs-for-rails-apps-10me
 - https://dev.to/kadeesterline/looping-in-ruby-351b
 - https://avohq.io/blog/auto-reload-rails-initializers-and-other-files-in-development
@@ -425,7 +425,7 @@
 
 ### Pattern
 
-- [Design Patterns in Ruby](https://www.youtube.com/playlist?list=PLBhH0uX92r6oP8r-oSY_b8_2EnK0Z1Fkz)
+- [Design Patterns in Ruby](https://m.youtube.com/playlist?list=PLBhH0uX92r6oP8r-oSY_b8_2EnK0Z1Fkz)
 - https://postmodern.github.io/blog/2010/10/01/list-comprehensions-in-ruby.html
 - https://github.com/tomstuart/monads
 - https://infinum.com/blog/best-ruby-on-rails-refactoring-talks
@@ -506,7 +506,7 @@
 - [Comparing Language Implementations with Objects, Closures, and Arrays](https://github.com/smarr/are-we-fast-yet)
 - https://learntdd.in/rails
 - https://nopecode.com/2021/03/03/your-flaky-system-test-again.html
-- https://github.com/daryllxd/every_ruby_talk_ever/blob/master/Sandi%20Metz%20-%20The%20Magic%20Tricks%20of%20Testing.md + https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf + https://www.youtube.com/watch?v=URSWYvyc42M
+- https://github.com/daryllxd/every_ruby_talk_ever/blob/master/Sandi%20Metz%20-%20The%20Magic%20Tricks%20of%20Testing.md + https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf + https://m.youtube.com/watch?v=URSWYvyc42M
 - https://penelope.zone/2015/12/27/introducing-rspec-smells-and-where-to-find-them.html
 - [Setup System tests to work with RSpec, Devise and Rails 6](https://gist.github.com/boddhisattva/f14d2e860dcd2d45f805eb698b99605f)
 - https://github.com/zipmark/rspec_api_documentation
@@ -525,7 +525,7 @@
 - https://connorshea.gitlab.io/blog/how-i-write-and-maintain-type-sigs-in-my-rails-app-with-sorbet.html
 - https://schwad.github.io/ruby/rails/rspec/tdd/2017/04/10/leveling-up-tdd-with-e.html
 - [Consider linting your factories](https://twitter.com/siaw23/status/1554128777382400002)
-- https://github.com/wolframarnold/Efficient-Test-Driven-Rails-Development + https://www.youtube.com/watch?v=9cNcnFxyixs
+- https://github.com/wolframarnold/Efficient-Test-Driven-Rails-Development + https://m.youtube.com/watch?v=9cNcnFxyixs
 - https://www.stevenrbaker.com/tech/history-of-rspec.html
 - https://www.die-welt.net/2021/12/the-mocking-will-continue-until-ci-improves
 - https://leanpub.com/fastfeedbackusingruby + https://github.com/s2k/fastfeedbackusingruby_workshop
@@ -558,7 +558,7 @@
 - https://bogdanvlviv.com/posts/ruby/rails/samesite-cookies-and-rails.html
 - https://github.com/0xedward/awesome-rails-security
 - https://bishopfox.com/blog/ruby-vulnerabilities-exploits
-- https://github.com/raesene/TestingScripts + https://www.mccune.org.uk/content/talks/2013-01-16-pentest-automation/ + https://www.youtube.com/playlist?list=PLKDRii1YwXnKG5PiY9zx3g5dJ2zOTJ4Al
+- https://github.com/raesene/TestingScripts + https://www.mccune.org.uk/content/talks/2013-01-16-pentest-automation/ + https://m.youtube.com/playlist?list=PLKDRii1YwXnKG5PiY9zx3g5dJ2zOTJ4Al
 - https://hackerone.com/reports/1609965
 - [Who Controls the Controllers — Hacking Crestron IoT Automation Systems](https://github.com/headlesszeke/defcon26-materials)
 - https://positive.security/blog/ransack-data-exfiltration

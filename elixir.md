@@ -7,8 +7,8 @@
 ### Cinema
 
 - https://shyr.io/talks/blockchain-based-file-storage
-- https://www.youtube.com/c/AlchemistCamp/playlists
-- [Peter Ullrich](https://www.youtube.com/@peterandcode7476/playlists)
+- https://m.youtube.com/c/AlchemistCamp/playlists
+- [Peter Ullrich](https://m.youtube.com/@peterandcode7476/playlists)
 
 ### Course
 

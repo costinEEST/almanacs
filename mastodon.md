@@ -1,6 +1,6 @@
 ### Watch 
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUfE7uhuid6gwgKvTm-hEYRH
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUfE7uhuid6gwgKvTm-hEYRH
 
 #### Community 
 

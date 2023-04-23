@@ -32,12 +32,12 @@
 ### Cinema
 
 - https://github.com/tiaanduplessis/awesome-react-native-talks
-- [The App - William Candillon](https://www.youtube.com/playlist?list=PLkOyNuxGl9jz8XYVtbZzwc8tiBas9Zde-)
+- [The App - William Candillon](https://m.youtube.com/playlist?list=PLkOyNuxGl9jz8XYVtbZzwc8tiBas9Zde-)
 - https://blog.bam.tech/developer-news/what-to-watch-react-native-europe-2020
 - https://www.reactnativeradio.com/episodes/177-challenges-of-building-rn-apps-in-ios-vs-android
-- [Learn how to build the beginnings of a Minecraft clone using Expo and React Native.](https://www.youtube.com/playlist?list=PLY1aWv2j4oDEQVEcd6a8LswmmxJS_Az9e)
-- [How To Animated | evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6)
-- [React Native Live | Infinite Red](https://www.youtube.com/playlist?list=PLFHvL21g9bk1VLtNYIDk8VrPyN3hyWl44)
+- [Learn how to build the beginnings of a Minecraft clone using Expo and React Native.](https://m.youtube.com/playlist?list=PLY1aWv2j4oDEQVEcd6a8LswmmxJS_Az9e)
+- [How To Animated | evening kid](https://m.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6)
+- [React Native Live | Infinite Red](https://m.youtube.com/playlist?list=PLFHvL21g9bk1VLtNYIDk8VrPyN3hyWl44)
 - https://github.com/software-mansion-labs/drawings-and-animations-workshop
 
 ### Course
@@ -99,7 +99,7 @@
 
 ### Testing
 
-- [Test-Driven Development in React Native](https://www.youtube.com/playlist?list=PLXXnezSEtvNPZroRdvjhEVzOhURl572Lf)
+- [Test-Driven Development in React Native](https://m.youtube.com/playlist?list=PLXXnezSEtvNPZroRdvjhEVzOhURl572Lf)
 - https://github.com/matijagrcic/react-native/blob/main/Testing.md + https://twitter.com/wcandillon/status/1438763533303533568
 - https://emelkan.hashnode.dev/my-top-5-demo-apps-to-practice-software-testing
 - https://docs.expo.dev/build-reference/e2e-tests + https://www.bogdan.digital/react-native/how-to-run-detox-with-expo-eas-builds-and-write-mocks-for-it
@@ -198,7 +198,7 @@
 
 ### Debugging
 
-- [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://www.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)
+- [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://m.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)
 - https://blog.assetnote.io/bug-bounty/2020/02/01/expanding-attack-surface-react-native + https://twitter.com/infosec_au/status/1223900898889355264
 - https://github.com/IjzerenHein/react-native-bundle-visualizer
 - https://medium.com/game-development-stuff/how-to-profile-debug-ios-and-android-react-native-projects-db2141980072

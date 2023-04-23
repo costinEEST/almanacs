@@ -38,34 +38,34 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUdMbCuYNLrL8_wCnVnEYof1
-- https://www.youtube.com/c/NatalieStarkeyStardust/playlists
-- [The Tools of Astronomy](https://www.youtube.com/playlist?list=PL2jykFOD1AWbscxUS7qEyRGy1OHfw4PJU)
-- https://www.youtube.com/playlist?list=PLKEd7Km7DjLdTpgeS9JuQNKmhqKdS-Piy
-- [Scott Manley](https://www.youtube.com/c/szyzyg/playlists)
-- https://www.youtube.com/c/EverydayAstronaut/playlists
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUdMbCuYNLrL8_wCnVnEYof1
+- https://m.youtube.com/c/NatalieStarkeyStardust/playlists
+- [The Tools of Astronomy](https://m.youtube.com/playlist?list=PL2jykFOD1AWbscxUS7qEyRGy1OHfw4PJU)
+- https://m.youtube.com/playlist?list=PLKEd7Km7DjLdTpgeS9JuQNKmhqKdS-Piy
+- [Scott Manley](https://m.youtube.com/c/szyzyg/playlists)
+- https://m.youtube.com/c/EverydayAstronaut/playlists
 - https://twitter.com/Chr1sDaC0w/status/1577066133328314368 + https://www.space.com/entire-known-universe-recreated-minecraft-game
-- [Dan-George Uza](https://www.youtube.com/user/cerculdestele/videos)
+- [Dan-George Uza](https://m.youtube.com/user/cerculdestele/videos)
 - [Vasile Chirilă](https://www.dobrogea.tv/stire/Dr.%20Planet/3176/dr-planet-18-august-2020.html)
-- [In Perspectiva](https://www.youtube.com/channel/UCGyfpkRHdU-7GVWqgd3oaMg/playlists)
-- [Observatorios de Canarias | IAC Astrofísica](https://www.youtube.com/playlist?list=PL97-eCSWzY-g525QAsnO732MZjniWfxcm)
-- [Mirel Birlan](https://www.youtube.com/channel/UCfZzi4OvvAV7MuJq5ZZgXDg/videos)
-- [The Universe and Space stuff | Kurzgesagt](https://www.youtube.com/playlist?list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF)
-- [Astronomy | CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)
-- [Observing the sky | Active Galactic](https://www.youtube.com/playlist?list=PLFpS4k5NDT1rIddCGNuQfboA15cVmZ-3L)
-- [The wormhole | Shirin Haque](https://www.youtube.com/playlist?list=PLPyCNYnY25B990Rk7w9iwR-iUYTj6E5-y)
-- [Astronomie observațională | Expertise Factory](https://www.youtube.com/playlist?list=PL3Bi5aJDullzWgmCEZ7xAAUTkMGQa_FwP)
-- [Cosmologia bisericească. Prelegere de pr. Dan Bădulescu | hexaimeron](https://www.youtube.com/playlist?list=PL86F5480A78F41847) + https://www.hexaimeron.ro/video/Video.html
-- [Cosmology | Stanford](https://www.youtube.com/playlist?list=PLpGHT1n4-mAuVGJ2E1uF9GSwLsx7p1xtm) + https://theoreticalminimum.com/courses/supplemental + https://en.wikipedia.org/wiki/The_Theoretical_Minimum
+- [In Perspectiva](https://m.youtube.com/channel/UCGyfpkRHdU-7GVWqgd3oaMg/playlists)
+- [Observatorios de Canarias | IAC Astrofísica](https://m.youtube.com/playlist?list=PL97-eCSWzY-g525QAsnO732MZjniWfxcm)
+- [Mirel Birlan](https://m.youtube.com/channel/UCfZzi4OvvAV7MuJq5ZZgXDg/videos)
+- [The Universe and Space stuff | Kurzgesagt](https://m.youtube.com/playlist?list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF)
+- [Astronomy | CrashCourse](https://m.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)
+- [Observing the sky | Active Galactic](https://m.youtube.com/playlist?list=PLFpS4k5NDT1rIddCGNuQfboA15cVmZ-3L)
+- [The wormhole | Shirin Haque](https://m.youtube.com/playlist?list=PLPyCNYnY25B990Rk7w9iwR-iUYTj6E5-y)
+- [Astronomie observațională | Expertise Factory](https://m.youtube.com/playlist?list=PL3Bi5aJDullzWgmCEZ7xAAUTkMGQa_FwP)
+- [Cosmologia bisericească. Prelegere de pr. Dan Bădulescu | hexaimeron](https://m.youtube.com/playlist?list=PL86F5480A78F41847) + https://www.hexaimeron.ro/video/Video.html
+- [Cosmology | Stanford](https://m.youtube.com/playlist?list=PLpGHT1n4-mAuVGJ2E1uF9GSwLsx7p1xtm) + https://theoreticalminimum.com/courses/supplemental + https://en.wikipedia.org/wiki/The_Theoretical_Minimum
 - https://ioanazelko.com/outreach-talks
-- [Originile Noastre Pe Intelesul Tuturor | FluxMagnetic](https://www.youtube.com/playlist?list=PL75C702B13AF5FD2F) + https://www.youtube.com/playlist?list=PL82yk73N8eoX8RpvQfjdupAKFWKjtMhTe
-- [Seasonal star guides | Delta Planetarium](https://www.youtube.com/playlist?list=PLNk7FC-XaRCkKCeCxl0vrDFi9JE784ZX8)
-- [Cursuri de Astronomie 1-50 | Astronom UNIMIS](https://www.youtube.com/playlist?list=PLs1G-dN-hJ9GQk5PXWXRKw8pYDQXHEGIm) + https://www.unimis.ro/en/courses
-- [Discover Mercury | OpenLearn from The Open University](https://www.youtube.com/playlist?list=PLhQpDGfX5e7C6u4p-2TUwfHx6FeLvFyaB)
+- [Originile Noastre Pe Intelesul Tuturor | FluxMagnetic](https://m.youtube.com/playlist?list=PL75C702B13AF5FD2F) + https://m.youtube.com/playlist?list=PL82yk73N8eoX8RpvQfjdupAKFWKjtMhTe
+- [Seasonal star guides | Delta Planetarium](https://m.youtube.com/playlist?list=PLNk7FC-XaRCkKCeCxl0vrDFi9JE784ZX8)
+- [Cursuri de Astronomie 1-50 | Astronom UNIMIS](https://m.youtube.com/playlist?list=PLs1G-dN-hJ9GQk5PXWXRKw8pYDQXHEGIm) + https://www.unimis.ro/en/courses
+- [Discover Mercury | OpenLearn from The Open University](https://m.youtube.com/playlist?list=PLhQpDGfX5e7C6u4p-2TUwfHx6FeLvFyaB)
 
 ### Community
 
-- James Newland: https://www.jimmynewland.com/wp/astro/curriculum-guide, https://www.youtube.com/c/jimmynewland/playlists
+- James Newland: https://www.jimmynewland.com/wp/astro/curriculum-guide, https://m.youtube.com/c/jimmynewland/playlists
 - https://ro.wikipedia.org/wiki/Astronom
 - https://www.astro-info.ro/resurse/institutii-astronomice
 - https://www.astro-info.ro/home/calendar-evenimente-astronomice
@@ -82,7 +82,7 @@
 - https://www.facebook.com/groups/astronomie.ro
 - https://www.facebook.com/groups/astronomiedeamatori
 - https://www.facebook.com/vladimir.stefanescu
-- Adrian Șonka: https://sonkab.com/despre-2-2, https://www.fundatiacaleavictoriei.ro/adrian-sonka, https://www.facebook.com/adrian.sonka, http://astro-urseanu.ro/calatorie-univers.html, https://www.youtube.com/channel/UCsbP7zXvXy78ItBdRsMtYvA/playlists, https://twitter.com/sonkab, https://www.youtube.com/playlist?list=UURIQ3LoqPwCndupTcCFWilg
+- Adrian Șonka: https://sonkab.com/despre-2-2, https://www.fundatiacaleavictoriei.ro/adrian-sonka, https://www.facebook.com/adrian.sonka, http://astro-urseanu.ro/calatorie-univers.html, https://m.youtube.com/channel/UCsbP7zXvXy78ItBdRsMtYvA/playlists, https://twitter.com/sonkab, https://m.youtube.com/playlist?list=UURIQ3LoqPwCndupTcCFWilg
 - Vasile Decu> https://bibliotecaexploratorilor.substack.com/p/biblioteca-exploratorilor-1-2022, https://www.facebook.com/vasile.decu, https://www.rfi.ro/emisiunile-rfi-ro-112332-vasile-decu-mindcraftstories-aventura-inteligenta
 - https://www.facebook.com/groups/teachastronomy/files/files
 - https://github.com/jonathansick/awesome-astronomy
@@ -110,10 +110,10 @@
 
 ### Constellation
 
-- http://crt-ro.com/39constelatii + https://www.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro
+- http://crt-ro.com/39constelatii + https://m.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro
 - https://planetariubm.ro/2011/03/26/povestile-cerului-constelatiile-de-la-a-la-v-adica-z-prezentate-de-planetariul-baia-mare
 - https://www.academia.edu/44777060/MYTHOLOGICAL_ORIGIN_OF_CONSTELLATIONS_AND_THEIR_DESCRIPTION_ARATUS_PSEUDO_ERATOSTHENES_HYGINUS
-- https://www.youtube.com/playlist?list=PLNk7FC-XaRCko6eLOLeegYSS9hh0_kMSL
+- https://m.youtube.com/playlist?list=PLNk7FC-XaRCko6eLOLeegYSS9hh0_kMSL
 
 ### Course
 
@@ -166,8 +166,8 @@
 - https://maximusphotography.files.wordpress.com/2022/10/sun-oct20.gif
 - [Our galaxy](https://www.eso.org/public/images/eso1242a/zoomable)
 - https://www.naturettl.com/astrophotography-ebook
-- [Astrophotography | Astro La Vista](https://www.youtube.com/playlist?list=PLxT-jDX21CislG3AHgmn_0E-G7PHjUFik)
-- https://www.youtube.com/playlist?list=PL5JKknVIXUMGtD8RGWZEqfn7c89sVr5NZ
+- [Astrophotography | Astro La Vista](https://m.youtube.com/playlist?list=PLxT-jDX21CislG3AHgmn_0E-G7PHjUFik)
+- https://m.youtube.com/playlist?list=PL5JKknVIXUMGtD8RGWZEqfn7c89sVr5NZ
 - https://biblioteca-digitala.ro/?descriptor=41892-astrofotografie
 - https://www.academia.edu/48487564/The_Sun_and_solar_eclipses_in_traditional_Romanian_ornamental_patterns
 - https://gizmodo.com/sls-rocket-launch-photos-nasa-artemis-1-1849791662

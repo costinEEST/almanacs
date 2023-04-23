@@ -26,8 +26,8 @@
 
 - https://chriswiegman.com/2021/09/privacy-vs-security
 - https://www.udemy.com/course/learn-digital-forensics-beginner-to-advanced-2021
-- https://www.youtube.com/c/SpyCollectionChannel/playlists
-- https://www.youtube.com/c/TheHatedOne/playlists
+- https://m.youtube.com/c/SpyCollectionChannel/playlists
+- https://m.youtube.com/c/TheHatedOne/playlists
 - https://hypha.ro/movies
 
 ### Community
@@ -164,7 +164,7 @@
 - https://tryingtobeawesome.com/sexculture
 - [Explore Wikipedia edits made by institutions, companies and governments](https://news.ycombinator.com/item?id=33842406)
 - https://saligrama.io/blog/post/upgrading-personal-security-evil-maid
-- [Practical Phishing Assessments | Graham Helton](https://www.youtube.com/playlist?list=PLULV3kUpOTddGJ1CJDlLrlMAEoZ0rl4Rc)
+- [Practical Phishing Assessments | Graham Helton](https://m.youtube.com/playlist?list=PLULV3kUpOTddGJ1CJDlLrlMAEoZ0rl4Rc)
 - https://github.com/s3131212/web-tracking-notes
 - https://github.com/apple/password-manager-resources
 - https://github.com/dz-id/fb_get_token_from_cookie

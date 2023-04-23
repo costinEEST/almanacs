@@ -4,7 +4,7 @@
 - [Uncorking the Past The Quest for Wine, Beer, and Other Alcoholic Beverages | Patrick E. McGovern](https://www.ucpress.edu/book.php?isbn=9780520267985)
 - https://www.dailymail.co.uk/sciencetech/article-9618659/Vegetarians-drink-smoke-appear-healthier-carnivores-study-finds.html
 - https://edition.cnn.com/2021/09/29/business/scotland-pea-based-gin-arbikie-climate-hnk-spc-intl
-- [Out of the Bottle: Wine Science](https://www.youtube.com/playlist?list=PLB2w1JNHV4HSIgrPiBjGGMNeQvCsHekbb)
+- [Out of the Bottle: Wine Science](https://m.youtube.com/playlist?list=PLB2w1JNHV4HSIgrPiBjGGMNeQvCsHekbb)
 - https://www.victorkapra.ro/2021/12/aparut-somelierii-roboti-bazati
 - https://www.grunge.com/749148/the-scientific-reason-vodka-doesnt-freeze
 - https://www.zmescience.com/science/anthropology/five-turning-points-in-the-evolution-of-wine
@@ -51,7 +51,7 @@
 ### Book
 
 - [The Disease Delusion: Conquering the Causes of Chronic Illness for a Healthier, Longer, and Happier Life - Jeffrey Bland](https://www.amazon.com/gp/customer-reviews/R2SC5L9GQGZVXH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0062290738)
-- [Book reviews heart attack stroke prevention weight loss - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xQaTKb5QTizgOHbRFuKVUu)
+- [Book reviews heart attack stroke prevention weight loss - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9xQaTKb5QTizgOHbRFuKVUu)
 - http://nutriblog.ro/4043/carti-despre-dieta-ketogenica-low-carb-scrise-limba-romana.html
 - https://www.scribd.com/book/420546368/Dieta-ketogenica + https://books.google.ro/books?id=-xGnDwAAQBAJ
 - [The Magick of Food: Rituals, Offerings & Why We Eat Together ~ Gwion Raven](https://www.amazon.com/Magick-Food-Rituals-Offerings-Together/dp/0738760854)
@@ -77,12 +77,12 @@
 
 ### Cinema
 
-- [Benefits of Turmeric | NutritionFacts.org](https://www.youtube.com/playlist?list=PL5TLzNi5fYd9JWJdWb4rgzaMrPLoF8S7c)
+- [Benefits of Turmeric | NutritionFacts.org](https://m.youtube.com/playlist?list=PL5TLzNi5fYd9JWJdWb4rgzaMrPLoF8S7c)
 - https://www.udemy.com/course/tai-chi-chen-style-for-beginner-strengthens-mind-and-body
 - [Cultivating the Breath as a Symbol](https://goula.sh/days/2021-03-13)
-- [Educational/Tips | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8qU_CVwuipR5R5ezRVk9EwF)
-- [Extra History: Medicine](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5Dl5NX3frM2m-bnWam8TnC2)
-- Histoire du trafic de drogue: https://www.youtube.com/watch?v=nwvwQOe5Etw + https://www.youtube.com/watch?v=YE3xMlZaCmc + https://www.youtube.com/watch?v=6M5fKngFjZk
+- [Educational/Tips | Mind Over Munch](https://m.youtube.com/playlist?list=PLt2c0hX1aB8qU_CVwuipR5R5ezRVk9EwF)
+- [Extra History: Medicine](https://m.youtube.com/playlist?list=PLhyKYa0YJ_5Dl5NX3frM2m-bnWam8TnC2)
+- Histoire du trafic de drogue: https://m.youtube.com/watch?v=nwvwQOe5Etw + https://m.youtube.com/watch?v=YE3xMlZaCmc + https://m.youtube.com/watch?v=6M5fKngFjZk
 
 ### Cold
 
@@ -95,7 +95,7 @@
 - https://www.udemy.com/course/nutrition-masterclass-course
 - https://www.udemy.com/course/essential-oils-for-your-health
 - https://www.udemy.com/course/sports-nutrition-for-athletes-and-fitness-enthusiasts
-- [Maria Konovalenko](https://www.youtube.com/@MariaKonovalenko/videos)
+- [Maria Konovalenko](https://m.youtube.com/@MariaKonovalenko/videos)
 
 ### Community
 
@@ -115,22 +115,22 @@
 ### Cooking
 
 - https://www.amazon.com/Taste-My-Life-Through-Food/dp/1982168013
-- [Low Carb and Keto Favorites | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8r5FuCmgNpYrVtQxxiyIJik)
-- [Two Ingredient Recipes | Mind Over Munch](https://www.youtube.com/playlist?list=PLt2c0hX1aB8rVascvm5-Y1K_aRHMIcUWX)
+- [Low Carb and Keto Favorites | Mind Over Munch](https://m.youtube.com/playlist?list=PLt2c0hX1aB8r5FuCmgNpYrVtQxxiyIJik)
+- [Two Ingredient Recipes | Mind Over Munch](https://m.youtube.com/playlist?list=PLt2c0hX1aB8rVascvm5-Y1K_aRHMIcUWX)
 - https://shepherd.com/best-books/food-history
-- [Flavours of Romania | Catalin Fodoreanu](https://www.youtube.com/playlist?list=PLOcodIKqXP5ARcdh8aqJ_zLwiu3wmG_1F)
-- https://www.amazon.com/Plant-Forward-Keto-Flexible-Recipes-Variety-ebook/dp/B09KKZ12QS + https://www.youtube.com/channel/UCLCkYnR002MFtWO4LX_TB0Q/playlists
+- [Flavours of Romania | Catalin Fodoreanu](https://m.youtube.com/playlist?list=PLOcodIKqXP5ARcdh8aqJ_zLwiu3wmG_1F)
+- https://www.amazon.com/Plant-Forward-Keto-Flexible-Recipes-Variety-ebook/dp/B09KKZ12QS + https://m.youtube.com/channel/UCLCkYnR002MFtWO4LX_TB0Q/playlists
 - https://www.monitorulsv.ro/Reportaj/2022-02-14/Ciorba-radauteana-implineste-40-de-ani-de-cand-a-intrat-in-meniurile-restaurantelor-din-Bucovina-cucerind-intreaga-lume
 - https://www.udemy.com/course/no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food
 - https://archive.org/search.php?query=wartime%20cookbook
-- https://www.youtube.com/c/TastingHistory/playlists
+- https://m.youtube.com/c/TastingHistory/playlists
 - https://www.livestrong.com/article/13722674-healthy-comfort-food-recipes
 - https://www.google.com/search?q=Kitab+al-Tabikh+Cartea+felurilor+de+m%C3%A2ncare
 - https://www.smithsonianmag.com/arts-culture/the-ten-best-books-about-food-of-2022-180981175
 
 ### Cholesterol
 
-- [#CholesterolScience - Dave Feldman](https://www.youtube.com/playlist?list=PLWNQLvi9Q_zuigCB6JPmDQuR3TwfJO3QX)
+- [#CholesterolScience - Dave Feldman](https://m.youtube.com/playlist?list=PLWNQLvi9Q_zuigCB6JPmDQuR3TwfJO3QX)
 
 ### Chocolate
 
@@ -145,14 +145,14 @@
 ### Disease
 
 - https://prevmedhealth.com/the-end-of-alzheimers-by-dale-bredesen + https://youtu.be/wekW6wVpQFw
-- [Alzheimer’s Dementia - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zqQxkYNBB1fcr34jmXg9_0)
-- [New model for Alzheimer’s - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z7G9VtDVphcQvVqHgqA3lB)
-- [How to diagnose diabetes - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9ykKqG1sIejMutqMLaatSGH)
-- [How to prevent Alzheimer’s and cognitive decline - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9wVPKIgxe3NYlXCbSi73tyS)
-- [Diabetes science - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zsbsPab5bwq0Ky6xqwYgur)
-- [Gum disease, periodontal disease - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z08cPCCcf298wh6jOfftnl)
-- [gingivitis, periodontitis & heart disease - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xnbbJvE9y4iat16_rQVm2L)
-- [Calcifying Nanoparticles - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LFssuFNroVieEEWvs8fXjQr)
+- [Alzheimer’s Dementia - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9zqQxkYNBB1fcr34jmXg9_0)
+- [New model for Alzheimer’s - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9z7G9VtDVphcQvVqHgqA3lB)
+- [How to diagnose diabetes - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9ykKqG1sIejMutqMLaatSGH)
+- [How to prevent Alzheimer’s and cognitive decline - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9wVPKIgxe3NYlXCbSi73tyS)
+- [Diabetes science - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9zsbsPab5bwq0Ky6xqwYgur)
+- [Gum disease, periodontal disease - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9z08cPCCcf298wh6jOfftnl)
+- [gingivitis, periodontitis & heart disease - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9xnbbJvE9y4iat16_rQVm2L)
+- [Calcifying Nanoparticles - Dr. Darren Schmidt, DC](https://m.youtube.com/playlist?list=PLLNvew6525LFssuFNroVieEEWvs8fXjQr)
 - https://medicalfuturist.com/technologies-that-will-shape-the-future-of-cancer-care
 - https://www.amazon.com/Real-Anthony-Fauci-Democracy-Childrens/dp/1510766804
 - https://www.bbc.com/future/article/20211112-the-people-with-immune-amnesia
@@ -174,7 +174,7 @@
 
 ### Grocery
 
-- [What is Organics? - Paul Chek](https://www.youtube.com/playlist?list=PLZupSfb-NVbpltzWP1zcpVH7Nzd16_cQG)
+- [What is Organics? - Paul Chek](https://m.youtube.com/playlist?list=PLZupSfb-NVbpltzWP1zcpVH7Nzd16_cQG)
 - https://andranistor.ro/2020/03/26/de-unde-cumparam-alimente-cand-nu-mai-merg-aplicatiile-cunoscute
 - https://mamamag.ro/producatorii-locali-de-alimente-de-la-care-ne-aprovizionam-in-autoizolare
 - https://ligiapop.com/2012/05/04/microferme-si-producatori-bio-locali
@@ -184,9 +184,9 @@
 ### Gluten
 
 - https://cresthospital.co.nz/hospital/specialist-directory/dr-kamran-rostami + https://twitter.com/KamranRostami15
-- [Jennifer Fugo talks about gluten free](https://www.youtube.com/user/jenfugo/playlists)
+- [Jennifer Fugo talks about gluten free](https://m.youtube.com/user/jenfugo/playlists)
 - https://mindovermunch.com/blog/are-grains-bad-for-you
-- https://www.amazon.com/No-Grain-Pain-Eliminating-Chronic-ebook/dp/B00UDCHX4Q + [Is It Gluten Free? | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCVrvzUo510KTWnUbmUEh81t) + https://www.glutenfreesociety.org/gluten-mimicking-foods
+- https://www.amazon.com/No-Grain-Pain-Eliminating-Chronic-ebook/dp/B00UDCHX4Q + [Is It Gluten Free? | Peter Osborne](https://m.youtube.com/playlist?list=PLboYkQmnpnCVrvzUo510KTWnUbmUEh81t) + https://www.glutenfreesociety.org/gluten-mimicking-foods
 - [Wheat Belly | William Davis](https://www.proteinpower.com/wheat-belly)
 
 ### Heart
@@ -203,13 +203,13 @@
 - http://circadiana.blogspot.com/2005/12/reading-recommendations-books-about.html
 - [The Rhythms Of Life: The Biological Clocks That Control the Daily Lives of Every Living Thing](https://books.google.ro/books?id=XlUyNPDMY8sC)
 - https://truedark.com/the-best-books-to-help-you-improve-your-health-and-sleep
-- https://www.youtube.com/watch?v=8hAw1z8GdE8
-- https://www.youtube.com/watch?v=pwaWilO_Pig
+- https://m.youtube.com/watch?v=8hAw1z8GdE8
+- https://m.youtube.com/watch?v=pwaWilO_Pig
 - https://www.huffpost.com/entry/15-ways-to-fall-asleep-faster_n_55dde3e7e4b04ae497054470
 - https://www.quantifiedbob.com/best-biohacking-books/#biohacking-sleep
 - https://highintensityhealth.com/snacking-before-bed-may-slow-weight-loss-fat-oxidation
-- [Ford brewer sleep](https://www.youtube.com/playlist?list=PL0TLaocCMc9wkkJ0_lVNSRVvsoYH7QDBM)
-- [Home sleep studies - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z1wfXgDNilmpXY7YQklqqA)
+- [Ford brewer sleep](https://m.youtube.com/playlist?list=PL0TLaocCMc9wkkJ0_lVNSRVvsoYH7QDBM)
+- [Home sleep studies - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9z1wfXgDNilmpXY7YQklqqA)
 - [Sleep duration is associated with white matter microstructure and cognitive performance in healthy adults](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25132) + https://news.ycombinator.com/item?id=25246419
 - https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function + https://news.ycombinator.com/item?id=25972342
 - https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side
@@ -218,7 +218,7 @@
 
 - https://chekinstitute.com/podcast-episode-notes/ep-18-evolve-yourself-physically
 - https://www.changemakeracademy.com/articles/health-fitness-continuing-education
-- [Movement As Medicine 1-7 - Paul Chek](https://www.youtube.com/playlist?list=PLZupSfb-NVbqeLSTfY6jGmKStAWw2LQ57)
+- [Movement As Medicine 1-7 - Paul Chek](https://m.youtube.com/playlist?list=PLZupSfb-NVbqeLSTfY6jGmKStAWw2LQ57)
 - https://www.julian.com/guide/muscle/intro
 - https://github.com/evexoio/awesome-health
 - https://www.goodreads.com/book/show/33293328-overcoming-gravity
@@ -226,12 +226,12 @@
 - [Cine a (mai) fost la sporturi de contact?](https://www.facebook.com/apostu.alin.claudiu/posts/1935540589911432)
 - [Building My Home Garage Gym](https://jamonholmgren.com/gym)
 - [Site that generates random workout routines.](https://github.com/diracdeltas/random-training)
-- [HOW TO CORRECT POSTURE - Jeremy Ethier](https://www.youtube.com/playlist?list=PLFBizIyYw93eg07IPpRQYgoNtQ9W6ECtV)
-- [Grupe deficitare - Marius Mitrache](https://www.youtube.com/playlist?list=PLEyLSg7prXmEJ_UYLpELgaMSbOPoYthRR)
-- [Antrenamente acasa - Marius Mitrache](https://www.youtube.com/playlist?list=PLEyLSg7prXmE93v3fT6AkBsJmTDNc37o4)
-- [Workout Theory - Pietro Boselli](https://www.youtube.com/playlist?list=PLPem8DMLJzQNZf7TE8dKhzJOGa8bao24S)
-- [Exercise Anatomy - Pietro Boselli](https://www.youtube.com/playlist?list=PLPem8DMLJzQPB3gzfXBoCNPlG1Wf6ByFI)
-- [Lactate threshold training health biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z8z0O-Oqm9wUsfywDOgQgU)
+- [HOW TO CORRECT POSTURE - Jeremy Ethier](https://m.youtube.com/playlist?list=PLFBizIyYw93eg07IPpRQYgoNtQ9W6ECtV)
+- [Grupe deficitare - Marius Mitrache](https://m.youtube.com/playlist?list=PLEyLSg7prXmEJ_UYLpELgaMSbOPoYthRR)
+- [Antrenamente acasa - Marius Mitrache](https://m.youtube.com/playlist?list=PLEyLSg7prXmE93v3fT6AkBsJmTDNc37o4)
+- [Workout Theory - Pietro Boselli](https://m.youtube.com/playlist?list=PLPem8DMLJzQNZf7TE8dKhzJOGa8bao24S)
+- [Exercise Anatomy - Pietro Boselli](https://m.youtube.com/playlist?list=PLPem8DMLJzQPB3gzfXBoCNPlG1Wf6ByFI)
+- [Lactate threshold training health biochemistry - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9z8z0O-Oqm9wUsfywDOgQgU)
 - https://darebee.com/programs/30-days-of-yoga.html
 - https://youtu.be/a4viuDH4VeM?t=176 + https://www.powells.com/book/the-secret-to-superhuman-strength-9780544387652
 - https://www.udemy.com/course/program-to-lose-7kg-in-only-1-week
@@ -247,11 +247,11 @@
 - https://twitter.com/elavenilee/status/1207653303028289537
 - [Intermittent Fasting: Transformational Technique | Cynthia Thurlow | TEDxGreenville](https://youtu.be/A6Dkt7zyImk)
 - https://peterattiamd.com/jasonfung + https://news.ycombinator.com/item?id=21802676
-- [Personal playlist](https://www.youtube.com/playlist?list=PLWIcRrPLCdUfEsFPi53bI3BeljwcIBIWl)
+- [Personal playlist](https://m.youtube.com/playlist?list=PLWIcRrPLCdUfEsFPi53bI3BeljwcIBIWl)
 - https://twitter.com/KetoAurelius/status/1216461099404595200
 - https://www.siimland.co/products/metabolic-autophagy-book
 - [An Evolutionary Perspective on Why Food Overconsumption Impairs Cognition - Mark P. Mattson](https://www.gwern.net/docs/longevity/2019-mattson.pdf)
-- [Autophagy - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xF85LzBWl7OcjmLQuAq7Uh)
+- [Autophagy - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9xF85LzBWl7OcjmLQuAq7Uh)
 - [Intermittent Fasting Improves Long Term Memory](https://neurosciencenews.com/intermittent-fasting-neurogenesis-memory-18522)
 - https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention
 
@@ -276,17 +276,17 @@
 - https://www.healthline.com/nutrition/10-nutrients-you-cant-get-from-animal-foods
 - https://www.accessdata.fda.gov/scripts/interactivenutritionfactslabel/factsheets/vitamin_and_mineral_chart.pdf
 - https://books.google.ro/books/about/Prescription_for_Nutritional_Healing.html?id=2s_q2y_J3rwC
-- [Mr. Mineral | Minerals for Body, Brain and Business Optimization- Thomas DeLauer](https://www.youtube.com/playlist?list=PLFbLg_bIQgxC-NtGO7TzTTO0Lgd8R-Vop)
+- [Mr. Mineral | Minerals for Body, Brain and Business Optimization- Thomas DeLauer](https://m.youtube.com/playlist?list=PLFbLg_bIQgxC-NtGO7TzTTO0Lgd8R-Vop)
 - [În București, de unde vă procurați stevie, turmeric, fulgi de drojdie inactivă?](https://www.facebook.com/groups/755526297805685/permalink/3994212310603718)
 - https://www.emag.ro/puterea-vitaminei-d-sarfraz-zaidi-9786068784007/pd/DQV543BBM
-- [Iron Overload - Matt Blackburn](https://www.youtube.com/playlist?list=PLM1VQBlR_OgvFYPr0vJkWkwpDAT-_CEmf)
-- [Magnesium - Matt Blackburn](https://www.youtube.com/playlist?list=PLM1VQBlR_Ogt1A0EHmzyxxKq9qsPD6cL-)
+- [Iron Overload - Matt Blackburn](https://m.youtube.com/playlist?list=PLM1VQBlR_OgvFYPr0vJkWkwpDAT-_CEmf)
+- [Magnesium - Matt Blackburn](https://m.youtube.com/playlist?list=PLM1VQBlR_Ogt1A0EHmzyxxKq9qsPD6cL-)
 - [Ketogains Suggested Products](https://www.amazon.com/shop/influencer-5dcb908c?listId=L6NGBTQPLMEJ)
-- [Should I take Aspirin? - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xfwHQsPNIRrGCghvvh0uLV)
-- [Aspirin - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9wdGJ4lybaQWvoj7C_m3xDV)
+- [Should I take Aspirin? - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9xfwHQsPNIRrGCghvvh0uLV)
+- [Aspirin - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9wdGJ4lybaQWvoj7C_m3xDV)
 - https://www.thoughtco.com/elements-in-the-human-body-p2-602188
-- [Nutrition Crash Courses - The Ultimate Nutritional Information Library | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCW_HnOrI_LLZi_uaYCUCsQP)
-- [Vitamins and Minerals | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCUJ1FLWcYRKrVz4hbyRSLFj)
+- [Nutrition Crash Courses - The Ultimate Nutritional Information Library | Peter Osborne](https://m.youtube.com/playlist?list=PLboYkQmnpnCW_HnOrI_LLZi_uaYCUCsQP)
+- [Vitamins and Minerals | Peter Osborne](https://m.youtube.com/playlist?list=PLboYkQmnpnCUJ1FLWcYRKrVz4hbyRSLFj)
 
 ### Vegetables
 
@@ -294,7 +294,7 @@
 - https://chekinstitute.com/blog/eating-animals-a-moral-question
 - https://wellnessforce.com/the-science-of-why-vegans-get-sick
 - https://www.cristianmargarit.ro/2014/10/despre-antinutrienti-si-toxine-naturale-mancare
-- [Lectins - clistbus](https://www.youtube.com/playlist?list=PLy5C4b2v0Bq0vTRUziPB_RB3ZJu1Mmplj)
+- [Lectins - clistbus](https://m.youtube.com/playlist?list=PLy5C4b2v0Bq0vTRUziPB_RB3ZJu1Mmplj)
 - https://mdlingo.com/a-guide-to-coconut-products-water-milk-cream-oil-butter
 - https://inquisitivebiologist.com/2019/11/25/book-review-slime-how-algae-created-us-plague-us-and-just-might-save-us
 - https://nolanlawson.com/2021/12/31/2021-book-review
@@ -313,11 +313,11 @@
 - [În București: mai există alte restaurante keto/low carb, în afară de MASA - CASA ?](https://www.facebook.com/groups/755526297805685/permalink/3902770676414549)
 - [The Magic Pill (2017)](https://www.netflix.com/ro-en/title/80238655)
 - https://www.amazon.com/Ketones-Fourth-Fuel-Warburg-Fountain-ebook/dp/B08G8TFQKS + https://youtu.be/9ler8ksUAfE + https://twitter.com/briannastubbs/status/1225209323522936832 + https://medium.com/@travischristofferson/richard-bud-veech-the-unknown-scientist-behind-the-ketogenic-diet-craze-dies-at-84-ff1f7c9b91ea + https://youtu.be/WV_jip-Yhe4
-- [Biomarkers, Metabolism, Biochemistry - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9x2q-9uV9zcGfQ6Pi6Oj-_s)
+- [Biomarkers, Metabolism, Biochemistry - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9x2q-9uV9zcGfQ6Pi6Oj-_s)
 - [Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss)
-- [Keto diet | Peter Osborne](https://www.youtube.com/playlist?list=PLboYkQmnpnCVr0OWbPNgohdrUSaA3NhY5)
-- https://www.amazon.com/shop/neishalovesit/list/7EJ9Z7PG6E0H + https://www.youtube.com/playlist?list=PL48jnTudSMf-GD-xZ2REPzNKCdOFBqMsk
-- [Keto | Poker and Philosophy](https://www.youtube.com/playlist?list=PLIh3gtIvTRHE2X0Nz6QNQj5JtAD9nq-UX)
+- [Keto diet | Peter Osborne](https://m.youtube.com/playlist?list=PLboYkQmnpnCVr0OWbPNgohdrUSaA3NhY5)
+- https://www.amazon.com/shop/neishalovesit/list/7EJ9Z7PG6E0H + https://m.youtube.com/playlist?list=PL48jnTudSMf-GD-xZ2REPzNKCdOFBqMsk
+- [Keto | Poker and Philosophy](https://m.youtube.com/playlist?list=PLIh3gtIvTRHE2X0Nz6QNQj5JtAD9nq-UX)
 
 ### Meat
 
@@ -337,7 +337,7 @@
 
 - https://blackwells.co.uk/bookshop/product/Lonely-Planets-Global-Coffee-Tour-by-Mike-Higgins-editor-Nick-Mee-editor-Yolanda-Zappaterra-editor/9781787013599
 - https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up
-- https://www.amazon.com/World-Atlas-Coffee-explored-explained-ebook/dp/B07CRY44ZH + https://tastecooking.com/meet-the-ceo-of-coffee-youtube + https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ/playlists
+- https://www.amazon.com/World-Atlas-Coffee-explored-explained-ebook/dp/B07CRY44ZH + https://tastecooking.com/meet-the-ceo-of-coffee-youtube + https://m.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ/playlists
 - https://www.arcana.computer/blog/non-fungible-lattes
 - [A Treatise Concerning the Properties and Effects of Coffee (1792)](https://publicdomainreview.org/collection/moseley-coffee)
 
@@ -347,9 +347,9 @@
 - [Why Did Mexico Surpass America in Obesity?](https://twitter.com/notyetagm/status/1220352727546580997)
 - https://www.amazon.com/Diets-Because-Youre-Addicted-Sugar/dp/1607744864
 - https://inquisitivebiologist.com/2018/05/17/book-review-the-rise-of-yeast-how-the-sugar-fungus-shaped-civilisation
-- [Ghrelin, the only known hunger hormone - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9w_vQBQgWVFneHt8r2Gvvkr)
-- [Insulin Resistance - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zUgj26Wns9yLYMq559Luru)
-- [Hormonal theory of weight management - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9wlbcBO4wBL2M2-_3C9FSVh)
+- [Ghrelin, the only known hunger hormone - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9w_vQBQgWVFneHt8r2Gvvkr)
+- [Insulin Resistance - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9zUgj26Wns9yLYMq559Luru)
+- [Hormonal theory of weight management - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9wlbcBO4wBL2M2-_3C9FSVh)
 - [Understanding the Warburg Effect: The Metabolic Requirements of Cell Proliferation.](https://sci-hub.do/https://science.sciencemag.org/content/324/5930/1029.abstract)
 - [Glucose Hysteresis as a Mechanism in Dietary Restriction, Aging and Disease (recommended by Robb Wolf)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2755292) + [Secrets of the lac Operon](https://pubmed.ncbi.nlm.nih.gov/17063032) + https://youtu.be/R4qVdiCzNck
 - https://www.nationalgeographic.com/magazine/article/low-calories-sweeteners-might-not-be-as-good-for-us-as-we-thought
@@ -358,11 +358,11 @@
 
 - https://www.google.com/search?q=mucocutaneous+triad
 - https://www.emag.ro/totul-despre-alergii-earl-mindell-dr-pamela-wartian-smith-9786067890921/pd/DPDZGNBBM
-- [Skin Problems - Dr. Vivek Joshi](https://www.youtube.com/playlist?list=PLtOL-RbYxicYoYdlSJFMTzwuqjq12mrkW)
-- [Podcast - Chemist Confessions](https://www.youtube.com/playlist?list=PLldQkxjc7bYnFkUtOw8Y07yCyBnaF4ddx)
+- [Skin Problems - Dr. Vivek Joshi](https://m.youtube.com/playlist?list=PLtOL-RbYxicYoYdlSJFMTzwuqjq12mrkW)
+- [Podcast - Chemist Confessions](https://m.youtube.com/playlist?list=PLldQkxjc7bYnFkUtOw8Y07yCyBnaF4ddx)
 - https://www.vox.com/science-and-health/22710533/nobel-prize-2021-ardem-patapoutian-touch
 - https://www.amazon.com/Its-Not-Just-Acne-Healthier-ebook/dp/B092LVV638
-- [Skin care | Dr Brad Stanfield](https://www.youtube.com/playlist?list=PLeRFbtgrUb3m46NfT4AYik0UEl0CE6Dyk)
+- [Skin care | Dr Brad Stanfield](https://m.youtube.com/playlist?list=PLeRFbtgrUb3m46NfT4AYik0UEl0CE6Dyk)
 - https://www.shutterstock.com/blog/history-of-makeup-cosmetics
 - https://www.sapiens.org/biology/evolution-suntan
 - https://iuva.org/resources/covid-19/Far%20UV-C%20Radiation-%20Current%20State-of%20Knowledge.pdf
@@ -370,14 +370,14 @@
 
 ### Gut
 
-- [Microbiome - YourekaScience](https://www.youtube.com/playlist?list=PLCjag94GB6w17vSjb5pgjM-HSpVK0IkPH)
-- [The gut biome and heart health - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9weTI4NF9TBxCenYKgUU8DS)
+- [Microbiome - YourekaScience](https://m.youtube.com/playlist?list=PLCjag94GB6w17vSjb5pgjM-HSpVK0IkPH)
+- [The gut biome and heart health - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9weTI4NF9TBxCenYKgUU8DS)
 - https://chriskresser.com/sibo-what-causes-it-and-why-its-so-hard-to-treat + https://pubmed.ncbi.nlm.nih.gov/33361039
 
 ### Addictions
 
 - https://www.amazon.com/Hedonic-Eating-Pleasure-Affects-Behavior/dp/019933045X
-- [Mindful eating and food addiction - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zc29LI75JIkt-aUvG-ETIh)
+- [Mindful eating and food addiction - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9zc29LI75JIkt-aUvG-ETIh)
 - https://bigthink.com/sex-relationships/love-addiciton
 
 ### Ageing
@@ -386,20 +386,20 @@
 - https://player.fm/series/the-ironman-executive/cracking-the-aging-code-with-josh-mitteldorf
 - https://joshmitteldorf.scienceblog.com/2018/08/01/the-most-effective-personal-anti-aging-program
 - [Can aging be programmed? A critical literature review](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12510)
-- [Undoing Aging by Science, Technology & the Future ](https://www.youtube.com/playlist?list=PL-7qI6NZpO3u8IWIDhIhHH5eczjs_2S2Z)
-- [Anti-Aging by Science, Technology & the Future](https://www.youtube.com/playlist?list=PL-7qI6NZpO3uDn2dTsRwWLb0jEuWU8bcI)
-- [SRF Education Video Lecture Course](https://www.youtube.com/playlist?list=PLvB8mhLViWhBoKvY_9eVtenBbOzelLANs)
+- [Undoing Aging by Science, Technology & the Future ](https://m.youtube.com/playlist?list=PL-7qI6NZpO3u8IWIDhIhHH5eczjs_2S2Z)
+- [Anti-Aging by Science, Technology & the Future](https://m.youtube.com/playlist?list=PL-7qI6NZpO3uDn2dTsRwWLb0jEuWU8bcI)
+- [SRF Education Video Lecture Course](https://m.youtube.com/playlist?list=PLvB8mhLViWhBoKvY_9eVtenBbOzelLANs)
 - [Answering the ultimate question "what is the proximal cause of aging?".](https://www.ncbi.nlm.nih.gov/m/pubmed/23425777/)
 - https://www.reddit.com/r/longevity/comments/e2q84z/textbooks_courses_and_resources_on_aging
 - https://www.naomiwhittel.com/benefits-of-autophagy
 - http://sureshrattan.com/category/offers/lectures-workshops-list/videos
 - https://www.foundmyfitness.com/episodes/elissa-epel + https://youtu.be/IEz1P4i1P7s + https://podcastnotes.org/ben-greenfield-fitness/thomas-delaurer-ben-greenfield-muscle-strength
-- [Longevity - YourekaScience](https://www.youtube.com/playlist?list=PLCjag94GB6w1p5-FTEshIf-Vl_p8dNiqa)
-- [Mitochondria - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xcAWAI60AWk89crbEkcQ0Z)
-- [Life Purpose & Longevity - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9yZ2mbJTPiXd1jOHhTPTqgx)
-- [Longevity - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9zAoQZKBD8d1kPUqAB7PMuV)
-- [David Sinclair - Harvard Longevity Prof, author of Lifespan, & Joe Rogan guest - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9y66aEswCVyVLLgngYx3htY)
-- [MTHFR - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z0lcffgTrggdLrVPfp1Eu3)
+- [Longevity - YourekaScience](https://m.youtube.com/playlist?list=PLCjag94GB6w1p5-FTEshIf-Vl_p8dNiqa)
+- [Mitochondria - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9xcAWAI60AWk89crbEkcQ0Z)
+- [Life Purpose & Longevity - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9yZ2mbJTPiXd1jOHhTPTqgx)
+- [Longevity - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9zAoQZKBD8d1kPUqAB7PMuV)
+- [David Sinclair - Harvard Longevity Prof, author of Lifespan, & Joe Rogan guest - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9y66aEswCVyVLLgngYx3htY)
+- [MTHFR - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9z0lcffgTrggdLrVPfp1Eu3)
 - https://www.discovermagazine.com/health/liz-parrish-is-patient-zero-in-her-own-anti-aging-experiment
 - https://en.wikipedia.org/wiki/List_of_living_centenarians
 - https://www.gowinglife.com/top-10-health-and-longevity-innovations-in-2020
@@ -414,7 +414,7 @@
 
 - https://formular.sts.ro + https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus + https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs + https://londonreal.tv/the-truth-behind-the-coronavirus-pandemic-covid-19-lockdown-the-economic-crash-david-icke + [CORONAVIRUS: Sfatul psihologului Daniel David](https://www.crowdcast.io/e/daniel-david-live/1) + [A recent Nature paper reveal a remarkable trick SARS-Cov-2 learned that makes it nastier than the first SARS.](https://twitter.com/PeterKolchinsky/status/1246975275021348865)
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
-- [Virology Lectures 2020 - Vincent Racaniello](https://www.youtube.com/playlist?list=PLGhmZX2NKiNldpyRUBBEzNoWL0Cso1jip)
+- [Virology Lectures 2020 - Vincent Racaniello](https://m.youtube.com/playlist?list=PLGhmZX2NKiNldpyRUBBEzNoWL0Cso1jip)
 - https://www.alexirpan.com/2020/05/17/corona-chernobyl.html
 - https://mailchi.mp/667e9af04cfa/spitting-image?e=12229ba061 + https://www.protocols.io/workspaces/coronavirus-method-development-community + https://youtu.be/CbzwyigvfRY
 - [Judy A. Mikovits](https://twitter.com/o_rips/status/1320587067601031169)
@@ -423,7 +423,7 @@
 - https://www.gatesnotes.com/About-Bill-Gates/Year-in-Review-2020 + https://news.ycombinator.com/item?id=25356485
 - [COVID-19 Changed Science Forever - The Atlantic](https://amp.theatlantic.com/amp/article/617262)
 - https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines
-- [Journal Club - Deep Dives into the Primary Literature | Youtube Microbiology Journal Club](https://www.youtube.com/playlist?list=PLASpI360FnueQxqPuoxjYuypW5evZxeKm)
+- [Journal Club - Deep Dives into the Primary Literature | Youtube Microbiology Journal Club](https://m.youtube.com/playlist?list=PLASpI360FnueQxqPuoxjYuypW5evZxeKm)
 - [Now proven against coronavirus, mRNA can do so much more](https://edition.cnn.com/2021/06/01/health/mrna-vaccines-covid-future/index.html)
 - https://www.wired.co.uk/article/mrna-vaccine-revolution-katalin-kariko
 - [The Global Virome in One Network (VIRION), an open-source atlas of the vertebrate virome.](https://twitter.com/viralemergence/status/1394270587267264518) + https://github.com/viralemergence/virion#how-we-built-virion
@@ -453,16 +453,16 @@
 - https://apps.apple.com/us/app/before-you-eat/id1475748617
 - https://www.questionsdeforme.fr/les-3-applications-pour-manger-sain-equilibre-et-pas-cher
 - https://apps.apple.com/us/app/spar-get-better-at-stuff/id1109640290
-- [Youper - Emotional Health Assistant Powered by AI](https://www.youper.ai)
+- [Youper - Emotional Health Assistant Powered by AI](https://m.youper.ai)
 - [Classify sleep from heart rate and acceleration via Apple Watch](https://github.com/ojwalch/sleep_classifiers)
 - [Meal Planner for calories and macros](https://github.com/vasco3/cheff)
 - https://github.com/yetanotherchris/awesome-mindhacking#journaling
 - [SkinVision - Detect Skin Cancer. Track your Moles.](https://play.google.com/store/apps/details?id=com.rubytribe.skinvision.ac)
 - https://blog.elifiner.com/how-i-built-an-app-to-fix-my-depression + https://news.ycombinator.com/item?id=24439612
-- [Functional medicine - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9xIR0CRwKuGkNPXd_uJcF1f)
-- [Follow The Physiology - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LHpgxqaIeeXaTEcHsTsDbo2)
-- [How to Detoxify Your Brain & Body - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LH5xMlqdLQVlF_nD6BaXGY3)
-- [Mold, Candida, Yeast. - Dr. Darren Schmidt, DC](https://www.youtube.com/playlist?list=PLLNvew6525LFvQOTlvvmoAbCqO0himSx5)
+- [Functional medicine - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9xIR0CRwKuGkNPXd_uJcF1f)
+- [Follow The Physiology - Dr. Darren Schmidt, DC](https://m.youtube.com/playlist?list=PLLNvew6525LHpgxqaIeeXaTEcHsTsDbo2)
+- [How to Detoxify Your Brain & Body - Dr. Darren Schmidt, DC](https://m.youtube.com/playlist?list=PLLNvew6525LH5xMlqdLQVlF_nD6BaXGY3)
+- [Mold, Candida, Yeast. - Dr. Darren Schmidt, DC](https://m.youtube.com/playlist?list=PLLNvew6525LFvQOTlvvmoAbCqO0himSx5)
 - [How did you fix your posterior chain?](https://github.com/jasoncwarner/ama/issues/35)
 - https://darebee.com/mealplans.html
 - [Classifying brain activity using low-cost biosensors and automated time tracking](https://github.com/ErikBjare/thesis)
@@ -479,7 +479,7 @@
 
 ### Miscellaneous
 
-- [Lifestyle & Disease -History of preventive medicine - Ford Brewer MD MPH](https://www.youtube.com/playlist?list=PL0TLaocCMc9z_1YOf0VfvSOAJ2wsTr9tg)
+- [Lifestyle & Disease -History of preventive medicine - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9z_1YOf0VfvSOAJ2wsTr9tg)
 - https://singularityhub.com/2020/10/13/scientists-found-a-new-way-to-control-the-brain-with-light-no-surgery-required
 - https://www.npr.org/sections/health-shots/2021/05/12/996141182/paralyzed-man-communicates-by-imagining-handwriting
 - [Geology helps map kidney stone formation from tiny to troublesome](https://www.sciencedaily.com/releases/2021/05/210525203814.htm)

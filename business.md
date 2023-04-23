@@ -32,13 +32,13 @@
 
 ### Cinema
 
-- [Technology History | ColdFusion](https://www.youtube.com/playlist?list=PL0iVR8sl9TiWhylpe3dyKKPRvTJHX3Ns7)
+- [Technology History | ColdFusion](https://m.youtube.com/playlist?list=PL0iVR8sl9TiWhylpe3dyKKPRvTJHX3Ns7)
 - [Want to do an MBA for free ?](https://twitter.com/sahilypatel/status/1414565655471280132)
 - https://www.udemy.com/course/beginners-guide-use-bubble-to-build-an-app-without-coding
 - https://www.udemy.com/course/learn-how-to-use-zapier-to-automate-your-business
 - [Simple cultural training & sensitization to deal with business people from various national cultures, management styles](https://www.udemy.com/course/cross-cultural-management-made-easy)
 - https://www.udemy.com/course/analytics-of-pricing-and-revenue-with-excel-python
-- [Whiteboard Videos (NFX Essays)](https://www.youtube.com/playlist?list=PLsJrGp31IOefcwlyFN9F6YPUFCNlM51hs)
+- [Whiteboard Videos (NFX Essays)](https://m.youtube.com/playlist?list=PLsJrGp31IOefcwlyFN9F6YPUFCNlM51hs)
 - [Refresh: the show about building an indie developer business](https://refresh-show.notion.site/Refresh-355e7181c3a6425380f460c9fdcc0630)
 
 ### Course
@@ -57,7 +57,7 @@
 
 ### Marketing
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUdTpa8U_pAfqZY9mYoh_WnB
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUdTpa8U_pAfqZY9mYoh_WnB
 - [Curated list to achieve visibility for your product](https://github.com/dehenne/awesome-visibility)
 - https://github.com/mmccaff/PlacesToPostYourStartup
 - https://github.com/rdp/open-source-how-to-popularize-your-project
@@ -148,7 +148,7 @@
 - https://benmccormick.org/2019-roundup
 - [Cincinnatus and the Citizen-Servant Ideal: The Roman Legend's Life, Times, and Legacy - Michael J. Hillyard](https://books.google.ro/books/about/Cincinnatus_and_the_Citizen_Servant_Idea.html?id=ksOyQMMZtZAC)
 - https://www.patkua.com/blog/book-recommendations-by-engineering-leaders
-- [Meaning making and leadership | Luke McBain](https://www.youtube.com/playlist?list=PLoQL7TYFGA1pgi5Ejf8wcN35pUgoXbw12)
+- [Meaning making and leadership | Luke McBain](https://m.youtube.com/playlist?list=PLoQL7TYFGA1pgi5Ejf8wcN35pUgoXbw12)
 - https://www.udemy.com/course/the-complete-leadership-mastery-course
 - https://github.com/gabiduarte/awesome-techleads
 - [What are the best podcasts on management & leadership?](https://twitter.com/michelletandler/status/1489348838754172931)
@@ -190,7 +190,7 @@
 
 ### Startups
 
-- https://www.ycombinator.com/library
+- https://m.ycombinator.com/library
 - https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/winning-formula-how-europes-top-tech-start-ups-get-it-right
 - https://startupbookmarks.com
 - [Never Lost Again: The Google Mapping Revolution That Sparked New Industries and Augmented Our Reality.](https://www.amazon.com/Never-Lost-Again-Revolution-Industries/dp/0062673041)
@@ -204,7 +204,7 @@
 - https://github.com/Atarity/How-To-Start-A-Startup
 - [When you make scooters but see four fintech companies get acquired in one week.](https://twitter.com/zck/status/1232374124380487681)
 - https://www.cake.co/conversations/VXHSjBG/the-untold-origin-story-of-ebay-that-i-lived-and-the-times-that-could-have-killed-it
-- https://microconf.com/ultimate-saas-crash-course + https://www.youtube.com/playlist?list=PLwcQbu9cKWclSZ5X1D2BFr3t4jBzpiSoi
+- https://microconf.com/ultimate-saas-crash-course + https://m.youtube.com/playlist?list=PLwcQbu9cKWclSZ5X1D2BFr3t4jBzpiSoi
 - https://netinterest.substack.com/p/hip-to-be-square + https://twitter.com/david_perell/status/1348023291332669441
 - https://www.cbinsights.com/research/report/elon-musk-companies-disruption
 - https://www.visualcapitalist.com/tesla-bears-a-short-short-story
@@ -227,13 +227,13 @@
 
 ### Investing
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUfvSw0xxQU1yzmsV2DrQWow
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUfvSw0xxQU1yzmsV2DrQWow
 - https://twitter.com/TimJonesBI/status/1333060108981592065
 - [The education of a value investor](https://twitter.com/hirwaadolphe/status/1206570768659877888)
 - [Commercial open-source software](https://twitter.com/andy_matuschak/status/1235073448105279490)
 - [Algorithmic trading (books).](https://twitter.com/infinitesimal_p/status/1241450272154693632)
 - [I want to learn about stocks and investment.](https://twitter.com/cotufa82/status/1242960305635954689)
-- [Warren Buffett's Secret Millionaires Club](https://www.youtube.com/user/SecretMillionaires/playlists)
+- [Warren Buffett's Secret Millionaires Club](https://m.youtube.com/user/SecretMillionaires/playlists)
 - https://www.thinknewfound.com/podcast
 - [Diversification - More than What (Corey Hoffstein)](https://vimeo.com/374948821)
 - https://diff.substack.com/p/understanding-coinbase

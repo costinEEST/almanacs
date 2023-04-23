@@ -2,7 +2,7 @@
 
 - https://github.com/Mec-iS/rust-algos-illuminated
 - https://github.com/TheAlgorithms/Rust
-- https://twitter.com/Vernon_GR/status/1567728180437618688 + https://www.youtube.com/watch?v=QHOFRdgx-w0&list=PLezlz_6l_jm0gMynmHFmsXfjQFxmt3INC&index=20
+- https://twitter.com/Vernon_GR/status/1567728180437618688 + https://m.youtube.com/watch?v=QHOFRdgx-w0&list=PLezlz_6l_jm0gMynmHFmsXfjQFxmt3INC&index=20
 
 ### API
 
@@ -30,7 +30,7 @@
 - https://github.com/lambda-magic/plt-books/tree/master/Rust
 - https://github.com/sger/RustBooks
 - https://github.com/lborb/book
-- https://github.com/Dhghomon/easy_rust + https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
+- https://github.com/Dhghomon/easy_rust + https://m.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 - https://github.com/LukeMathWalker/zero-to-production
 - [Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers](https://github.com/google/autocxx)
 - [Performance Analysis and Tuning on Modern CPUs](https://github.com/grahamking/perf-ninja-rs)
@@ -46,21 +46,21 @@
 
 ### Cinema
 
-- [Rust on Android](https://www.youtube.com/playlist?list=PL--8rjVarKNWNt1vfQu2Vr4RgPtyd6wcw)
-- [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
+- [Rust on Android](https://m.youtube.com/playlist?list=PL--8rjVarKNWNt1vfQu2Vr4RgPtyd6wcw)
+- [Jon Gjengset](https://m.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
 - [An aggregation of links that summarize RustConf 2020.](https://github.com/poteto/rustconf-2020)
 - [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
-- https://learnrust.today + https://www.youtube.com/watch?v=B5xYBrxVSiE&list=PL7FkKqUcfw1AoNvuQAvld2Q47gaDKHBRW
+- https://learnrust.today + https://m.youtube.com/watch?v=B5xYBrxVSiE&list=PL7FkKqUcfw1AoNvuQAvld2Q47gaDKHBRW
 - https://youtu.be/bPcTIJejnFs + https://github.com/dani-garcia/vaultwarden
-- [Advent of Code 2022](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBNTifxm5ADY65SkAdwoQiL)
+- [Advent of Code 2022](https://m.youtube.com/playlist?list=PLWtPciJ1UMuBNTifxm5ADY65SkAdwoQiL)
 - https://github.com/Me163/youtube
 - [Privacy-Enhancing Techniques with Cryptographic Games](https://www.manning.com/liveprojectseries/cryptographic-games-ser)
 
 ### Community
 
-- [Yoshua Wuyts](https://www.youtube.com/c/YoshuaWuyts/playlists)
+- [Yoshua Wuyts](https://m.youtube.com/c/YoshuaWuyts/playlists)
 - https://twitter.com/siscia_/status/1360113669884039170
-  ־ [Systems with JT](https://www.youtube.com/user/giard321/playlists)
+  ־ [Systems with JT](https://m.youtube.com/user/giard321/playlists)
 - https://loige.co/where-to-go-to-learn-rust-in-2021
 - [Dave Herman](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
 - [Stefan Baumgartner](https://buttondown.email/oida/archive)
@@ -85,7 +85,7 @@
 - https://github.com/yoshuawuyts/rust-for-js-peeps
 - https://www.freecodecamp.org/news/rust-in-replit
 - https://github.com/ferrous-systems/teaching-material
-- https://www.youtube.com/playlist?list=PLBhH0uX92r6qiqNSE_ztk6HjKsMnS2TJU
+- https://m.youtube.com/playlist?list=PLBhH0uX92r6qiqNSE_ztk6HjKsMnS2TJU
 - [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course)
 - https://www.harihareswara.net/posts/2022/an-intro-to-rust-course
 - https://devforum.ro/t/cursuri-de-rust/18363
@@ -100,13 +100,13 @@
 - https://twitter.com/samaaron/status/1214649047002292224
 - https://github.com/Mercateo/rust-for-node-developers
 - [Rust for Node.js developers.](https://gioyik.com/s/rust-node-connecttech)
-- [Rust Programming Tutorials by dcode](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
-- [Rust by Crazcalm's Tech Stack](https://www.youtube.com/playlist?list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X)
+- [Rust Programming Tutorials by dcode](https://m.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
+- [Rust by Crazcalm's Tech Stack](https://m.youtube.com/playlist?list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X)
 - https://pascalprecht.github.io/posts/learning-rust
 - https://github.com/ctjhoa/rust-learning
 - https://twitter.com/jgvarandas/status/1228712766636204032
 - https://deterministic.space/high-performance-rust.html
-- https://github.com/rust-lang/rustlings + https://github.com/staszewski/rustlings-solutions + [Rust For Beginners - Watch me code the Rustlings Tutorial](https://www.youtube.com/playlist?list=PLauX9TuJ8sfyaLPZ1udS3zS_V9YXdsbtc) + https://youtu.be/G3Vr-yswlaU
+- https://github.com/rust-lang/rustlings + https://github.com/staszewski/rustlings-solutions + [Rust For Beginners - Watch me code the Rustlings Tutorial](https://m.youtube.com/playlist?list=PLauX9TuJ8sfyaLPZ1udS3zS_V9YXdsbtc) + https://youtu.be/G3Vr-yswlaU
 - [Mal (Make a Lisp) in Rust](https://github.com/seven1m/mal-rust)
 - https://loige.co/learning-rust-through-open-source-and-live-code-reviews
 - https://github.com/lrlna/sketchin#zines

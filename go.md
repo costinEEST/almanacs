@@ -40,11 +40,11 @@
 
 ### Course
 
-- Write web applications in Go without using a framework: [book](https://leanpub.com/antitextbookGo) + (recordings)[https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4]
+- Write web applications in Go without using a framework: [book](https://leanpub.com/antitextbookGo) + (recordings)[https://m.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4]
 - [1000+ Hand-Crafted Go Examples, Exercises, and Quizzes](https://github.com/inancgumus/learngo)
 - https://github.com/pingcap/talent-plan#series-3-distributed-database
-- https://www.adsbynimbus.com/tech-blog/dynamic-programming + https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf
-- [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+- https://www.adsbynimbus.com/tech-blog/dynamic-programming + https://m.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf
+- [MIT 6.824 Distributed Systems (Spring 2020)](https://m.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - https://github.com/martensonbj/fem-intro-to-go
 - [Web Architecture, Git, Curl, Interfaces, Context, Error Handling, & Escape Analysis](https://www.udemy.com/course/learn-golang)
 - [Mastering Go Modules, gRPC, Crawling, and Collaboration with Git](https://www.udemy.com/course/golang-tutorial)
@@ -66,10 +66,10 @@
 
 ### Cinema
 
-- [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/playlists)
-- [Code Club | Bitfield Consulting](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3)
-- [Golang University 101 - Learn Golang | Bitfield Consulting](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
-- https://www.youtube.com/playlist?list=PLZaEVINf2Bq8mP4mosgB9tXb4ycrAeA9y
+- [justforfunc: Programming in Go](https://m.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/playlists)
+- [Code Club | Bitfield Consulting](https://m.youtube.com/playlist?list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3)
+- [Golang University 101 - Learn Golang | Bitfield Consulting](https://m.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
+- https://m.youtube.com/playlist?list=PLZaEVINf2Bq8mP4mosgB9tXb4ycrAeA9y
 - [Sean DuBois](https://siobud.com)
 - https://github.com/GopherConRu/talks
 - [Roberto Clapis](https://empijei.science/talks.html)

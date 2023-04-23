@@ -29,7 +29,7 @@
 - [Self-hosted bookmark service.](https://github.com/sissbruecker/linkding)
 - [You Suck at Excel with Joel Spolsky](https://youtu.be/0nbkaYsR94c)
 - [One of my favorite features of Evernote is its mobile document "scanner".](https://twitter.com/devonzuegel/status/1213576043694632963)
-- [CFCC - CTS 130 - Spreadsheets](https://www.youtube.com/playlist?list=PL9gfSIdua13hRbXvsJAgBWZOGrqeI0_ul)
+- [CFCC - CTS 130 - Spreadsheets](https://m.youtube.com/playlist?list=PL9gfSIdua13hRbXvsJAgBWZOGrqeI0_ul)
 - [Google Excel for accountability](https://twitter.com/kelseymwhelan/status/1080544082139795456)
 - [I need to build a presentation ..](https://twitter.com/tannerlinsley/status/1217607012416020480)
 - [This is probably the best web presentation tool so far!](https://github.com/ksky521/nodeppt)
@@ -51,7 +51,7 @@
 ### Minimalism
 
 - https://www.notion.so/Inventory-872bc0d28938412daa772b1544a5dfdc
-- [Cédric Waldburger](https://www.youtube.com/playlist?list=PLFtln-0KmkcMOAqDP4SF3Acd1t081neiu)
+- [Cédric Waldburger](https://m.youtube.com/playlist?list=PLFtln-0KmkcMOAqDP4SF3Acd1t081neiu)
 - https://jcbl.ws/loving-the-things-i-have
 
 ### Writing

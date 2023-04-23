@@ -25,15 +25,15 @@
 
 ### Cinema
 
-- [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://www.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)
-- https://www.youtube.com/c/CarlosBuenosvinosZamora/playlists
+- [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://m.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)
+- https://m.youtube.com/c/CarlosBuenosvinosZamora/playlists
 - https://www.udemy.com/course/learn-php-5-and-7-this-way-to-rise-above-and-beyond-competition
 - https://www.udemy.com/course/developing-simple-cmsblog-with-php7-and-mysql
 - [Native mobile applications with just PHP](https://www.udemy.com/course/appzio-on-boarding)
-- [Create Three Symfony Back End APIs](https://www.youtube.com/playlist?list=PL1sZ2OJpPmWa7iqMI8UL6_oOUSMqlHSKg)
-- https://www.youtube.com/playlist?list=PLKJBt7aeK3k82T8rKrS2CMaLOphJmxtMn
-- [Customer Relationship Management API in Laravel](https://www.youtube.com/playlist?list=PLKJBt7aeK3k-7KXzEm5sAjuwtQhL4ecag)
-- [PHP - zero-stack | Barłomiej Bąk](https://www.youtube.com/playlist?list=PLsgYMfQH-6NYZwb5ptkQCBp1-mAzjMjqd)
+- [Create Three Symfony Back End APIs](https://m.youtube.com/playlist?list=PL1sZ2OJpPmWa7iqMI8UL6_oOUSMqlHSKg)
+- https://m.youtube.com/playlist?list=PLKJBt7aeK3k82T8rKrS2CMaLOphJmxtMn
+- [Customer Relationship Management API in Laravel](https://m.youtube.com/playlist?list=PLKJBt7aeK3k-7KXzEm5sAjuwtQhL4ecag)
+- [PHP - zero-stack | Barłomiej Bąk](https://m.youtube.com/playlist?list=PLsgYMfQH-6NYZwb5ptkQCBp1-mAzjMjqd)
 - [Anatomy of a PHP Request | Herman J. Radtke, Joel Salas](https://docs.google.com/presentation/d/1F8SZlAzM0ZZLgIDk8B7WInMxSqLsXXRH9VyPfEGL_ZU)
 - https://github.com/phptodayorg/php-must-watch
 
@@ -77,7 +77,7 @@
 - http://xml.mherman.org
 - https://github.com/ddev/awesome-ddev
 - [PHP Secure Configuration Checker](https://github.com/sektioneins/pcc)
-- [Laravel setup using Docker - Andrew Schmelyun](https://www.youtube.com/playlist?list=PL36CGZHZJqsWXjf4GeQBLUl7CK1dodKuC)
+- [Laravel setup using Docker - Andrew Schmelyun](https://m.youtube.com/playlist?list=PL36CGZHZJqsWXjf4GeQBLUl7CK1dodKuC)
 - [A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems.](https://github.com/gellin/bantam)
 - https://www.codediesel.com/php/quickly-extract-urls-from-a-xml-sitemap-file
 - [World countries in JSON, CSV, XML and Yaml. Any help is welcome!](https://github.com/mledoze/countries)
@@ -139,7 +139,7 @@
 - https://alanstorm.com/category/php-internals
 - https://github.com/qazbnm456/awesome-security-trivia#lang-php
 - https://websec.wordpress.com/talks
-- https://www.youtube.com/c/DavehIo/playlists
+- https://m.youtube.com/c/DavehIo/playlists
 - [A simple URL shortener for PHP](https://github.com/mikecao/shorty)
 - https://wildbit.com/blog/2016/11/01/how-we-chose-craft-cms-for-products-websites
 - https://github.com/tylerhall/simple-php-framework

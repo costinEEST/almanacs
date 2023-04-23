@@ -1,7 +1,7 @@
 ### Animations
 
 - [Web Animation Essentials: CSS Animations and Transitions](https://courses.rachelnabors.com/courses/16861)
-- [Website Deconstructions - Ihatetomatoes](https://www.youtube.com/playlist?list=PLkEZWD8wbltl7OXS1CipiXZ0QjYEl5bL2)
+- [Website Deconstructions - Ihatetomatoes](https://m.youtube.com/playlist?list=PLkEZWD8wbltl7OXS1CipiXZ0QjYEl5bL2)
 - [Why CSS ::before doesn't work on inputs and images](https://webplatform.news/issues/2020-08-26)
 - https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web
 - https://ferrumpipe.com
@@ -12,7 +12,7 @@
 - https://shud.in/posts/on-ui-animations
 - https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108
 - https://whistlr.info/2021/box-model-animation
-- [Amit Sheen - 3D in CSS, and the True Meaning of Perspective](https://www.youtube.com/watch?v=oDXPIFHqyGI&list=PLIfpjYCKV3lVpwHYCExIUAl9tWB3UzcG6&index=20) + [What triggers reflows](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) + https://github.com/GoogleChromeLabs/css-triggers + https://web.archive.org/web/20220727225220/https://csstriggers.com + [How To Use CSS Animations And Stay Performant (And Accessible)](https://youtu.be/93kLe0wJbJY) + [Amit Sheen | Getting Creative with Keyframes](https://youtu.be/kXh3EMpaLFo)
+- [Amit Sheen - 3D in CSS, and the True Meaning of Perspective](https://m.youtube.com/watch?v=oDXPIFHqyGI&list=PLIfpjYCKV3lVpwHYCExIUAl9tWB3UzcG6&index=20) + [What triggers reflows](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) + https://github.com/GoogleChromeLabs/css-triggers + https://web.archive.org/web/20220727225220/https://csstriggers.com + [How To Use CSS Animations And Stay Performant (And Accessible)](https://youtu.be/93kLe0wJbJY) + [Amit Sheen | Getting Creative with Keyframes](https://youtu.be/kXh3EMpaLFo)
 - https://jonsuh.com/blog/detect-the-end-of-css-animations-and-transitions-with-javascript
 
 ### Approach
@@ -47,14 +47,14 @@
 - https://www.twitch.tv/kevinpowellcss
 - [Apple Music on macOS](https://twitter.com/freetonik/status/1322144670886100992)
 - https://www.liviuvasilescu.ro/blog/ziua-vignelli
-- [Tailwind CSS: From Zero to Production | Tailwind Labs](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
+- [Tailwind CSS: From Zero to Production | Tailwind Labs](https://m.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 - https://github.com/tailwindlabs/tailwindcss-from-zero-to-production
 - [Design for Safari 15](https://developer.apple.com/videos/play/wwdc2021/10029)
 - https://courses.joshwcomeau.com/video-archive/css-for-js
-- [Designing in the Browser](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
+- [Designing in the Browser](https://m.youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
 - https://inclusivedesign24.org/2021/schedule
 - [CSS Layout from the inside out](https://2021.stateofthebrowser.com/speakers/rachel-andrew)
-- https://codepen.io/rachelandrew/full/2c48047f0816fa9050ec139256a2e8ba + https://www.youtube.com/watch?v=yMEjLBKyvEg
+- https://codepen.io/rachelandrew/full/2c48047f0816fa9050ec139256a2e8ba + https://m.youtube.com/watch?v=yMEjLBKyvEg
 - https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css
 - https://www.freecodecamp.org/news/learn-tailwind-css
 
@@ -82,7 +82,7 @@
 - [Full Spectrum: How the Science of Color Made Us Modern by Adam Rogers](https://www.wired.com/story/how-pixar-uses-hyper-colors-to-hack-your-brain)
 - https://www.popsci.com/science/ask-us-anything-why-cant-we-see-more-colors
 - https://en.m.wikipedia.org/wiki/Shades_of_yellow#Cyber_yellow
-- https://twitter.com/CSS__Cafe/status/1397955842406748161 + https://www.youtube.com/watch?v=mAw75_quIf8 + https://www.meetup.com/CSS-Cafe/events/278134039
+- https://twitter.com/CSS__Cafe/status/1397955842406748161 + https://m.youtube.com/watch?v=mAw75_quIf8 + https://www.meetup.com/CSS-Cafe/events/278134039
 - [Generate themes for your site, the Curves editor lets you edit color scales across channels for HSL, HSV, LAB, RGB, and LCH.](https://components.ai/theme?tab=editor)
 - https://blog.jim-nielsen.com/2021/css-system-colors
 - https://baselinehq.com/blog/colourblindness-information-ui-design-red-green-problems-tips-tricks.html
@@ -100,22 +100,22 @@
 - [Color tool based on human perception](https://github.com/ucarion/cielab.io)
 - https://pspeter3.com/blog/2020/02/19/accessible-contrast-shades
 - [Interactive version of Sanzo Wada's - "A Dictionary of Color Combinations"](https://github.com/dblodorn/sanzo-wada)
-- https://blinry.org/what-is-color + [Gamma correction: the secret behind pretty colors](https://www.youtube.com/watch?v=EkbcI3KgUuY&t=1647s)
+- https://blinry.org/what-is-color + [Gamma correction: the secret behind pretty colors](https://m.youtube.com/watch?v=EkbcI3KgUuY&t=1647s)
 - https://www.nickkolenda.com/color-psychology
 - https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl
 - [Get random, accessible color combinations](https://github.com/components-ai/randoma11y)
 - [Traité des couleurs servant à la peinture à l’eau | A. Boogert](https://www.thisiscolossal.com/2014/05/color-book)
-- [Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space](https://github.com/meodai/poline) + https://news.ycombinator.com/item?id=34662722 + https://elastiq.notion.site/elastiq/Color-My-Journey-Through-the-Spectrum-2cfd8dc540474b1c9ef381b9a3bc0f8e + https://www.youtube.com/@meodai/playlists?view=1&sort=lad&flow=grid
+- [Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space](https://github.com/meodai/poline) + https://news.ycombinator.com/item?id=34662722 + https://elastiq.notion.site/elastiq/Color-My-Journey-Through-the-Spectrum-2cfd8dc540474b1c9ef381b9a3bc0f8e + https://m.youtube.com/@meodai/playlists?view=1&sort=lad&flow=grid
 - https://biblioteca-digitala.ro/?pub=6191-analiza-structurala-a-vocabularului-limbii-romane-contemporane-numele-de-culori
 
 ### Community
 
 - https://noti.st/rachelandrew
-- Amit Sheen: https://www.youtube.com/playlist?list=PLobGLCa6IPmhHCZn3q0GFs5hNimxgzjMK, https://codepen.io/amit_sheen
+- Amit Sheen: https://m.youtube.com/playlist?list=PLobGLCa6IPmhHCZn3q0GFs5hNimxgzjMK, https://codepen.io/amit_sheen
 - https://twitter.com/zehf/status/1310664033234808833
-- [Kevin Powell](https://www.youtube.com/kepowob/playlists)
+- [Kevin Powell](https://m.youtube.com/kepowob/playlists)
 - https://github.com/micromata/awesome-css-learning
-- [Jhey Tompkins](https://www.youtube.com/c/JheyTompkins/playlists)
+- [Jhey Tompkins](https://m.youtube.com/c/JheyTompkins/playlists)
 - https://github.com/hendurhance/ui-ux
 - https://bootcamp.uxdesign.cc/ui-ux-visual-designers-behind-great-games-1bd1b2724001
 - https://github.com/nucliweb/People-You-Should-Follow-on-CodePen
@@ -229,7 +229,7 @@
 - https://grid.layoutit.com
 - https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo
 - https://www.learnwithjason.dev/let-s-learn-css-grid
-- [Grid by example, Rachael Andrew](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR)
+- [Grid by example, Rachael Andrew](https://m.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR)
 - https://piccalil.li/tutorial/build-a-responsive-media-browser-with-css
 - https://frontend.horse/articles/thinking-outside-the-box-with-css-grid
 - https://calendartricks.com/a-calendar-in-three-lines-of-css

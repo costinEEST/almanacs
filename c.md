@@ -71,24 +71,24 @@
 
 ### Cinema
 
-- [Learning C | rwxrob](https://www.youtube.com/playlist?list=PLrK9UeDMcQLpKY24-psIN6pBJstejMC2Y)
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeCP-KM-pekj30JVzmSKhpK
+- [Learning C | rwxrob](https://m.youtube.com/playlist?list=PLrK9UeDMcQLpKY24-psIN6pBJstejMC2Y)
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUeCP-KM-pekj30JVzmSKhpK
 - https://github.com/hellerve/programming-talks#c
 - [Modern Memory Safety: C/C++ Vulnerability Discovery, Exploitation, Hardening](https://github.com/struct/mms)
-- [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
-- [Buffer Overflows - Code with Nick ](https://www.youtube.com/playlist?list=PLLTI453cNzfn2_9Q9KXb9lbF233gvsQOJ)
+- [Write your own Operating System](https://m.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+- [Buffer Overflows - Code with Nick ](https://m.youtube.com/playlist?list=PLLTI453cNzfn2_9Q9KXb9lbF233gvsQOJ)
 - https://www.deconstructconf.com/2017/joe-damato-all-programmers-must-learn-c-and-assembly
-- [FreeDOS programming](https://www.youtube.com/playlist?list=PLzuACU-W7Omo3VEnMKuM0IPupdOHFDzL3) + https://www.freedos.org/books/cprogramming
-- [OpenGL Screencasts and Tutorials - David Parker](https://www.youtube.com/playlist?list=PL2330214740B33712) + https://www.programmingtil.com/topics/opengl
+- [FreeDOS programming](https://m.youtube.com/playlist?list=PLzuACU-W7Omo3VEnMKuM0IPupdOHFDzL3) + https://www.freedos.org/books/cprogramming
+- [OpenGL Screencasts and Tutorials - David Parker](https://m.youtube.com/playlist?list=PL2330214740B33712) + https://www.programmingtil.com/topics/opengl
 - [Quantifying Memory Unsafety and Reactions to It](https://www.usenix.org/conference/enigma2021/presentation/gaynor)
-- https://github.com/DevonCrawford/Video-Editing-Automation + https://www.youtube.com/playlist?list=PLhsehOUFGYaV3tJaEuWOeN1SI7eUEs7la
+- https://github.com/DevonCrawford/Video-Editing-Automation + https://m.youtube.com/playlist?list=PLhsehOUFGYaV3tJaEuWOeN1SI7eUEs7la
 - https://www.udemy.com/course/an-introduction-to-debugging-c-and-java
-- https://blog.robertelder.org/regular-expressions + https://www.youtube.com/playlist?list=PLp31D6HATKfdc5PSJTx7rIvlTLCSM5nDi
+- https://blog.robertelder.org/regular-expressions + https://m.youtube.com/playlist?list=PLp31D6HATKfdc5PSJTx7rIvlTLCSM5nDi
 - [YouTube Channels to Level Up Your Programming Skills](https://news.ycombinator.com/item?id=24589474)
 - https://github.com/riti2409/Resources-for-preparation-Of-Placements
 - https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck
-- [C Programming in Linux Tutorial | ShellWave](https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
-- [Embedded C Programming Style | Mutex Embedded](https://www.youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh) + https://www.mutex-embedded.com/courses/s2-c1
+- [C Programming in Linux Tutorial | ShellWave](https://m.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
+- [Embedded C Programming Style | Mutex Embedded](https://m.youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh) + https://www.mutex-embedded.com/courses/s2-c1
 
 ### Code auditing
 
@@ -99,7 +99,7 @@
 
 - [C and the Unix environment for undergraduate non-CSE majors](https://courses.cs.washington.edu/courses/cse374/21wi)
 - [Unix and C Programming](https://docs.google.com/presentation/d/1V0daPBXxOrxb4Ckrfhodf2QO-6Ag067y8am479oIjB0)
-- https://www.youtube.com/playlist?list=PLHJns8WZXCdvErvhlZXvpVIEKPfmDJt4z
+- https://m.youtube.com/playlist?list=PLHJns8WZXCdvErvhlZXvpVIEKPfmDJt4z
 
 ### Articles
 
@@ -122,7 +122,7 @@
 - [Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes](http://lambda-the-ultimate.org/node/5648)
 - https://twitter.com/AndrewCMyers/status/1523395642030456832 + https://courses.cs.cornell.edu/cs4120/2022sp
 - https://bernsteinbear.com/pl-resources
-- [LLVM Tutorial Walkthrough | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg)
+- [LLVM Tutorial Walkthrough | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg)
 - https://github.com/ahr9n/awesome-reading/tree/main/dragon-book
 
 ### Internals
@@ -134,7 +134,7 @@
 
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-systemvirtual-machine
 - [Codecast C learning platform (formerly fioi-recorder).](https://github.com/France-ioi/codecast)
-- [stack-based bytecode interpreter](https://www.youtube.com/playlist?list=PLhMOOgDOKD4JV2AgL1XzoYanY6RpGKbNa) + https://gitlab.com/gilmi/vm
+- [stack-based bytecode interpreter](https://m.youtube.com/playlist?list=PLhMOOgDOKD4JV2AgL1XzoYanY6RpGKbNa) + https://gitlab.com/gilmi/vm
 - [Write your own virtual machine](https://github.com/justinmeiners/lc3-vm)
 
 ### Operatin system

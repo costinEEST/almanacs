@@ -1,8 +1,8 @@
 ### Cinema
 
 - [Why (and why not) Lua, Roberto Ierusalimschy, PUC-Rio: LiM'19 talk 1](https://youtu.be/XxcSvnEIUq4)
-- https://www.youtube.com/@JesseWarden/playlists
-- https://www.youtube.com/@DavePoo/playlists?view=1&sort=lad&flow=grid
+- https://m.youtube.com/@JesseWarden/playlists
+- https://m.youtube.com/@DavePoo/playlists?view=1&sort=lad&flow=grid
 
 ### Miscellaneous
 

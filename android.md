@@ -40,12 +40,12 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUedUfuFvl0osPPKWCcajPiN
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUedUfuFvl0osPPKWCcajPiN
 - [Deep dive into MotionLayout by Bogdan Zurac](https://docs.google.com/presentation/d/1957szdWm2Uj1YSF8ffWS0_5UOjRN6cysLMWuVdeRT4s)
-- https://www.youtube.com/playlist?list=PLFW6ct83_wC9CYqIRaR1jUwrz_hBgAX8Q
-- [Web Challenges #CTF #hpAndro | Android AppSec](https://www.youtube.com/playlist?list=PLY47jY-dcCPWerJCAPw2GOJxUvmRe5Zho)
-- [Foundations of Hacking and Penetration Testing Android Apps](https://www.youtube.com/playlist?list=PL2EF13wm-hWAr15jPUoS3pMmryfZiehxq) + https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps
-- [AOSP Build References](https://www.youtube.com/playlist?list=PLeiDFxcsdhUq6Ch-9AAtiVU7Lw0tTSnKb) + https://github.com/stars/adityatelange/lists/android-aosp
+- https://m.youtube.com/playlist?list=PLFW6ct83_wC9CYqIRaR1jUwrz_hBgAX8Q
+- [Web Challenges #CTF #hpAndro | Android AppSec](https://m.youtube.com/playlist?list=PLY47jY-dcCPWerJCAPw2GOJxUvmRe5Zho)
+- [Foundations of Hacking and Penetration Testing Android Apps](https://m.youtube.com/playlist?list=PL2EF13wm-hWAr15jPUoS3pMmryfZiehxq) + https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps
+- [AOSP Build References](https://m.youtube.com/playlist?list=PLeiDFxcsdhUq6Ch-9AAtiVU7Lw0tTSnKb) + https://github.com/stars/adityatelange/lists/android-aosp
 
 ### Course
 
@@ -57,9 +57,9 @@
 - https://www.udemy.com/course/absolute-java-basics-for-android
 - https://github.com/amitshekhariitbhu/awesome-android-complete-reference
 - https://github.com/androiddevnotes/awesome-android-learning-resources
-- https://github.com/lockersoft/cis218 + https://www.youtube.com/playlist?list=PLSXDqiI4sC5N5LJaWsprrLgZgZiyl62Q9
+- https://github.com/lockersoft/cis218 + https://m.youtube.com/playlist?list=PLSXDqiI4sC5N5LJaWsprrLgZgZiyl62Q9
 - Android Development with Compose: https://codelabs.developers.google.com/?text=compose + https://developer.android.com/courses/pathways/compose + https://www.udemy.com/course/jetpack-compose-masterclass + [Jetpack Compose |
-  Philipp Lackner](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
+  Philipp Lackner](https://m.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
 
 ### Internals
 
@@ -95,7 +95,7 @@
 - https://bajtos.net/posts/2021-12-17-apple-m1-android-emulator
 - [Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device](https://github.com/0x192/universal-android-debloater)
 - https://quentinkaiser.be/blackberry/security/2015/03/30/pentesting-blackberry + https://github.com/QKaiser/bbpentesting
-- [Android App reviews | gotbletu](https://www.youtube.com/playlist?list=PLqv94xWU9zZ0drtB03m4wtlfX3d6amQ1h)
+- [Android App reviews | gotbletu](https://m.youtube.com/playlist?list=PLqv94xWU9zZ0drtB03m4wtlfX3d6amQ1h)
 - [multi-arch, GPU enabled, Android in Cloud solution](https://github.com/remote-android/redroid-doc)
 - [Automating Android RE repetitive tasks: pull, decode, rebuild and patch](https://github.com/ax/apk.sh)
 - [Extract firmware images from an Android OTA payload.bin file](https://github.com/cyxx/extract_android_ota_payload)
@@ -157,7 +157,7 @@
 - https://captmeelo.com/pentest/2020/02/24/bypass-okhttp-cert-pinning.html + https://www.reddit.com/r/netsec/comments/f8pegs/bypassing_okhttp_certificate_pinning
 - [Android application penetration testing using some of the common tools.](https://github.com/riddhi-shree/nullCommunity/blob/master/Android/README.md)
 - https://twitter.com/lorenzofb/status/1229740603983921158
-- [Android Hacking - B3nac Sec](https://www.youtube.com/playlist?list=PLrIM_Ohh4UNNT1vfBGn4FwGzH-k8QqHpt) + https://github.com/B3nac/InjuredAndroid
+- [Android Hacking - B3nac Sec](https://m.youtube.com/playlist?list=PLrIM_Ohh4UNNT1vfBGn4FwGzH-k8QqHpt) + https://github.com/B3nac/InjuredAndroid
 - https://github.com/B3nac/Android-Reports-and-Resources
 - https://yasoob.me/posts/reverse-engineering-android-apps-apktool + https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android
 - https://blog.deesee.xyz/android/security/2020/01/13/android-application-hacking-resources.html
@@ -167,7 +167,7 @@
 - https://nelsonslog.wordpress.com/2021/06/01/android-scoped-storage-syncthing-gpslogger
 - [Android App Permission data of 2.2 million applications from Google Playstore.](https://github.com/gauthamp10/android-permissions-dataset)
 - https://github.com/B3nac/Android-Reports-and-Resources
-- [Android pentesting | hyd3sec](https://www.youtube.com/playlist?list=PLXAaWemFrhwlV5KulQMT6nsOVLPaG_yUa)
+- [Android pentesting | hyd3sec](https://m.youtube.com/playlist?list=PLXAaWemFrhwlV5KulQMT6nsOVLPaG_yUa)
 - https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 - [A minimalistic android backdoor](https://github.com/Ch0pin/AndroidWebDoor)
 - https://ctrsec.io/index.php/2021/09/29/weak-key-cryptography-in-real-world-english

@@ -21,12 +21,12 @@
 - http://paulbakker.io/java/java-9-modularity
 - https://github.com/Apress/java-for-absolute-beginners
 - https://github.com/Apress/java-17-for-absolute-beginners
-- https://github.com/duke-certification/java6-to-java8-en + https://twitter.com/RafaDelNero/status/1387736448674242562 + https://leanpub.com/javachallengers + https://www.youtube.com/playlist?list=PL3py5YSIGvPMgKXOVqnYn9nBoT_zvsvsi + https://javachallengers.com/the-top-long-lasting-java-books-that-every-java-developer-should-read
+- https://github.com/duke-certification/java6-to-java8-en + https://twitter.com/RafaDelNero/status/1387736448674242562 + https://leanpub.com/javachallengers + https://m.youtube.com/playlist?list=PL3py5YSIGvPMgKXOVqnYn9nBoT_zvsvsi + https://javachallengers.com/the-top-long-lasting-java-books-that-every-java-developer-should-read
 - https://github.com/well-grounded-java/resources
 
 ### Boot
 
-- [Discord Bot using Java Discord API (JDA) | Anson the Developer](https://www.youtube.com/playlist?list=PL_cUvD4qzbkx5unMamPcd5AzRGFgGTgGb)
+- [Discord Bot using Java Discord API (JDA) | Anson the Developer](https://m.youtube.com/playlist?list=PL_cUvD4qzbkx5unMamPcd5AzRGFgGTgGb)
 
 ### Cheat sheet
 
@@ -42,21 +42,21 @@
 
 ### Cinema
 
-- https://github.com/bbenz/JavaforBeginners + https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUd2sjF5ObluLRPtZP2OaGI4
-- https://www.youtube.com/c/LaurentiuSpilca/playlists
+- https://github.com/bbenz/JavaforBeginners + https://m.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUd2sjF5ObluLRPtZP2OaGI4
+- https://m.youtube.com/c/LaurentiuSpilca/playlists
 - https://github.com/hellerve/programming-talks#java--android
-- [Comparing programming languages | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYhKCP2zuXqe2ubiXab5az36)
-- [build a basic translation platform using Java, Springboot, TypeScript, React and MYSQL | Fredrik Christenson](https://www.youtube.com/playlist?list=PLBAZWBMYeVYjWVQi6oyf332N4R7ZG-AOS)
-- https://www.youtube.com/c/JavaChallengers/playlists
+- [Comparing programming languages | Fredrik Christenson](https://m.youtube.com/playlist?list=PLBAZWBMYeVYhKCP2zuXqe2ubiXab5az36)
+- [build a basic translation platform using Java, Springboot, TypeScript, React and MYSQL | Fredrik Christenson](https://m.youtube.com/playlist?list=PLBAZWBMYeVYjWVQi6oyf332N4R7ZG-AOS)
+- https://m.youtube.com/c/JavaChallengers/playlists
 - https://passthesalt.ubicast.tv/videos/finding-java-deserialization-gadgets-with-codeql
-- [The art of debugging Java apps | Laur Spilca](https://www.youtube.com/playlist?list=PLEocw3gLFc8VnqVumlrVtj3F0H54JJmM5)
-- [Object Oriented Analysis and Design 2016 | Tobias Olsson](https://www.youtube.com/playlist?list=PLoPbi7xxqaPhokOQWuAH9Dystu0PxPsqc)
+- [The art of debugging Java apps | Laur Spilca](https://m.youtube.com/playlist?list=PLEocw3gLFc8VnqVumlrVtj3F0H54JJmM5)
+- [Object Oriented Analysis and Design 2016 | Tobias Olsson](https://m.youtube.com/playlist?list=PLoPbi7xxqaPhokOQWuAH9Dystu0PxPsqc)
 - https://github.com/sormuras/awesome-java-module-system
-- [Nicolai Parlog](https://www.youtube.com/c/nipafx/playlists) + https://slides.nipafx.dev/expert-java-8
-- https://www.youtube.com/c/JakobJenkov/playlists
+- [Nicolai Parlog](https://m.youtube.com/c/nipafx/playlists) + https://slides.nipafx.dev/expert-java-8
+- https://m.youtube.com/c/JakobJenkov/playlists
 - [Learn Java Programming (version 17)](https://www.freecodecamp.org/news/learn-java-programming)
-- [Build Talking Apps for Alexa | Craig Walls](https://www.youtube.com/playlist?list=PL5zhdK_QOhVEvt_Zvi3zFCGdu4Xe7e0xO) + https://pragprog.com/titles/cwalexa/build-talking-apps-for-alexa
+- [Build Talking Apps for Alexa | Craig Walls](https://m.youtube.com/playlist?list=PL5zhdK_QOhVEvt_Zvi3zFCGdu4Xe7e0xO) + https://pragprog.com/titles/cwalexa/build-talking-apps-for-alexa
 
 ### Community
 
@@ -102,7 +102,7 @@
 
 ### Data structures
 
-- https://www.youtube.com/user/purpongie/playlists
+- https://m.youtube.com/user/purpongie/playlists
 - https://github.com/williamfiset/Algorithms#geometry
 - https://github.com/anthonynsimon/java-ds-algorithms
 - https://github.com/kdn251/interviews
@@ -184,4 +184,4 @@
 
 - [Test Automation Made Simple](https://github.com/karatelabs/karate)
 - https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
-- [Introduction to observability | Test Automation U](https://www.youtube.com/playlist?list=PLsiHUuozEFFoqBhY8iK8v1tpatS_b3B5M)
+- [Introduction to observability | Test Automation U](https://m.youtube.com/playlist?list=PLsiHUuozEFFoqBhY8iK8v1tpatS_b3B5M)

@@ -19,7 +19,7 @@
 
 - https://www.avstore.ro/casti-hi-fi/casti-meze-99-classics-over-ear
 - [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/better_with_bose/mark-rober.html?mc=25_SM_HP_SC_00_YT_markrober3) + [recommended by Mark Rober](https://youtu.be/a_TSR_v07m0)
-- https://www.youtube.com/playlist?list=PLZUHdmBGD3CJyJY8cWR2ZGxqP_LUpckQw
+- https://m.youtube.com/playlist?list=PLZUHdmBGD3CJyJY8cWR2ZGxqP_LUpckQw
 - https://benfrain.com/sony-wh-1000xm3-noise-cancelling-headphones-review
 - https://akshaykhandalkar.wordpress.com/2018/02/09/5-best-headphones-for-study-and-work
 - https://www.amazon.co.uk/Sennheiser-Special-Open-Headphone-Black/dp/B07Q7S7247
@@ -27,11 +27,11 @@
 
 ### Laptop
 
-- [Secure Laptop | Milosch Meriac](https://www.youtube.com/playlist?list=PLC_CdHO9Xx-N2UuNSnyxSGTmKWHZAXUsX)
+- [Secure Laptop | Milosch Meriac](https://m.youtube.com/playlist?list=PLC_CdHO9Xx-N2UuNSnyxSGTmKWHZAXUsX)
 - [Why Chrome OS?](https://twitter.com/WebReflection/status/1244374562139242497)
-- [Reviews ~ Just Josh](https://www.youtube.com/playlist?list=PLUkjpFwWO9XkPWBing0cgdzKHUfewUVpu)
+- [Reviews ~ Just Josh](https://m.youtube.com/playlist?list=PLUkjpFwWO9XkPWBing0cgdzKHUfewUVpu)
 - https://127001.me/post/ten-years-of-thinkpadding
-- https://www.youtube.com/c/LaptopRetrospective/playlists
+- https://m.youtube.com/c/LaptopRetrospective/playlists
 - [ThinkPad X13s (13” Snapdragon)](https://twitter.com/WebReflection/status/1576922986992410624)
 
 ### Keyboard
@@ -49,7 +49,7 @@
 - https://github.com/AndyDoering/Keyboards
 - https://github.com/stars/KingOfSpades/lists/mechanical-keyboards
 - https://github.com/BenRoe/awesome-mechanical-keyboard
-- [Keyboard Ninja - No Mouse, Keyboard Only | gotbletu](https://www.youtube.com/playlist?list=PLqv94xWU9zZ1cXfg3ED24G6RSt4NbFBfO)
+- [Keyboard Ninja - No Mouse, Keyboard Only | gotbletu](https://m.youtube.com/playlist?list=PLqv94xWU9zZ1cXfg3ED24G6RSt4NbFBfO)
 - https://github.com/diimdeep/awesome-split-keyboards
 
 ### Microphone
@@ -86,7 +86,7 @@
 
 - https://adamfuhrer.com/accuracy-of-mechanical-watches
 - https://shop.espruino.com/banglejs + https://www.hackster.io/news/the-bangle-js-an-open-sourced-javascript-powered-smart-watch-6359962646c2 + https://cxlabs.sap.com/2019/11/11/labs-talk-feature-espruino-bluetooth-nfc-and-bangle-js-kickstarter
-- [Wristwatches, Pocket Watches and Clocks - Raoul Pop](https://www.youtube.com/playlist?list=PLrRIVfn0U02MtXG5_qZ0nI2MAw3e2k-a_)
+- [Wristwatches, Pocket Watches and Clocks - Raoul Pop](https://m.youtube.com/playlist?list=PLrRIVfn0U02MtXG5_qZ0nI2MAw3e2k-a_)
 - [Data Runner Watch Prototype – Modded Casio F91W](https://news.ycombinator.com/item?id=23975012)
 - [Casio A168WA-1](https://twitter.com/dhh/status/1369233695660519428)
 

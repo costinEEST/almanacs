@@ -74,14 +74,14 @@
 - https://inquisitivebiologist.com/2020/06/18/book-review-desert-navigator-the-journey-of-an-ant
 - https://inquisitivebiologist.com/2020/08/19/book-review-the-secret-life-of-flies
 - https://www.sciencemag.org/news/2020/09/survive-frigid-nights-hummingbirds-cool-themselves-record-low-temperatures
-- https://www.youtube.com/c/MeatEaterTV/playlists
+- https://m.youtube.com/c/MeatEaterTV/playlists
 - https://www.tiktok.com/@texasbeeworks
 - https://www.ias.ac.in/Publications/e-Books/Experiments_in_Animal_Behaviour + https://twitter.com/RichardDawkins/status/1375426769780609027
 - [Fishing App and Fishing Tools | Fishbrain](https://fishbrain.com)
 - https://www.outsideonline.com/2423441/dog-days-summer
 - https://mindcraftstories.ro/mediu/povesti-cu-viespi-micii-carausi-de-glod-si-fauritorii-de-hartie
 - https://www.nationalgeographic.com/animals/article/bumblebees-bite-plants-flower-early
-- [Dog training |  Eric Bell](https://www.youtube.com/playlist?list=PLB8JqSBrZCVG7z_YtwYEWNnaDGuLmt-Xh)
+- [Dog training |  Eric Bell](https://m.youtube.com/playlist?list=PLB8JqSBrZCVG7z_YtwYEWNnaDGuLmt-Xh)
 - https://przekroj.pl/en/science/chatty-nature-mikolaj-golachowski
 - https://www.amazon.com/Missing-Lynx-Future-Britains-Mammals/dp/1472957342
 - https://www.scribd.com/document/59708597/Atlasul-pe%C8%99tilor-din-apele-R-P-R-1963

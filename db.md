@@ -32,7 +32,7 @@
 - [CMPT 354: Database Systems and Structures (Summer 1998)](https://www2.cs.sfu.ca/CourseCentral/354/zaiane/material/notes/contents.html)
 - https://www.sqlhabit.com/blog/posts/how-to-detect-recurring-payments-with-sql
 - https://blog.bradfieldcs.com/how-to-learn-about-database-systems-40c7432f471d
-- [Introduction to Databases - Jennifer Widom - Stanford](https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0)
+- [Introduction to Databases - Jennifer Widom - Stanford](https://m.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0)
 - https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free
 - https://www.freecodecamp.org/news/learn-to-use-the-mysql-database
 - https://github.com/AlisdairO/pgexercises
@@ -85,12 +85,12 @@
 ### Cinema
 
 - [Algorithms behind Modern Storage Systems.](https://www.infoq.com/presentations/storage-algorithms)
-- [ CMU Database Group](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)
+- [ CMU Database Group](https://m.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)
 - [SQL Tutorial for Beginners by Ben Awad](https://twitter.com/benawad/status/1217109321902850048)
 - https://www.deconstructconf.com/2018/jumana-bahrainwala-how-to-scale-relational-database-migrations
-- [RethinkDB | Eric Bell](https://www.youtube.com/playlist?list=PLB8JqSBrZCVEG0_KFbzPtFlwhXUFEFwoh)
-- https://github.com/mitchellh/advent-2021-sql + https://www.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd
-- [SQL Injection Master Class | Derek Rook](https://www.youtube.com/playlist?list=PLvcAtRF10zYXYkZrIXUdSVOKgByEK_5Ve) + https://gitlab.com/r00k/sql_for_hackers
+- [RethinkDB | Eric Bell](https://m.youtube.com/playlist?list=PLB8JqSBrZCVEG0_KFbzPtFlwhXUFEFwoh)
+- https://github.com/mitchellh/advent-2021-sql + https://m.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd
+- [SQL Injection Master Class | Derek Rook](https://m.youtube.com/playlist?list=PLvcAtRF10zYXYkZrIXUdSVOKgByEK_5Ve) + https://gitlab.com/r00k/sql_for_hackers
 
 ### Distributed system
 
@@ -101,9 +101,9 @@
 - https://caitiem.com/2017/09/07/getting-started-with-distributed-systems
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work | Alex Petrov](https://www.databass.dev)
 - [Distributed Systems Engineering notes (6.824, Spring 2015)](https://github.com/alinush/6.824-lecture-notes)
-- [CSE138 (Distributed Systems) lectures, Spring 2021](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx) + https://decomposition.al/blog/2020/03/31/twitch-plays-cse138
+- [CSE138 (Distributed Systems) lectures, Spring 2021](https://m.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx) + https://decomposition.al/blog/2020/03/31/twitch-plays-cse138
 - [Distributed Software Systems: Global-First and Local-First Perspectives](https://decomposition.al/blog/2022/12/20/course-announcement-distributed-software-systems-global-first-and-local-first-perspectives)
-- [DriftDB – an open source WebSocket backend for real-time apps](https://news.ycombinator.com/item?id=34639728) + https://www.youtube.com/@driftinginspace9054/videos
+- [DriftDB – an open source WebSocket backend for real-time apps](https://news.ycombinator.com/item?id=34639728) + https://m.youtube.com/@driftinginspace9054/videos
 
 ### MySQL
 
@@ -244,7 +244,7 @@
 
 - https://www.crunchydata.com/blog/learn-postgres-at-the-playground
 - [The past, present, and future of Postgres, and the Postgres Playground](https://huffduffer.com/cemerick/647557)
-- [Advent of Code 2021](https://www.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd)
+- [Advent of Code 2021](https://m.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd)
 
 ### Production
 
@@ -254,7 +254,7 @@
 
 ### Time series databases
 
-- [The Complete Guide to InfluxDB 2 | Rawkode Academy](https://www.youtube.com/playlist?list=PLz0t90fOInA5esYz9ytWzX89HT5NvLkxc)
+- [The Complete Guide to InfluxDB 2 | Rawkode Academy](https://m.youtube.com/playlist?list=PLz0t90fOInA5esYz9ytWzX89HT5NvLkxc)
 
 ### Opinion
 

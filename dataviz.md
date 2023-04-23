@@ -27,27 +27,27 @@
 
 ### Watch
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeao8hSw3tegcabrp8vV55t
-- https://www.youtube.com/user/currankelleher/playlists
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUeao8hSw3tegcabrp8vV55t
+- https://m.youtube.com/user/currankelleher/playlists
 - https://www.serendipidata.com/posts/data-visualization-video-inspiration
 - [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/z3tt/OutlierConf2021)
 - https://laughingsquid.com/ten-tallest-skyscrapers
-- [#30DaysOfDataViz | DataIndependent](https://www.youtube.com/playlist?list=PLqZXAkvF1bPOHoKYk7WPjyJoehPhqigOg)
+- [#30DaysOfDataViz | DataIndependent](https://m.youtube.com/playlist?list=PLqZXAkvF1bPOHoKYk7WPjyJoehPhqigOg)
 
 ### Course
 
 - https://github.com/microsoft/Data-Science-For-Beginners
 - https://github.com/ProjectBasedLearning/resources
-- [W209 Information Visualization course of the Masters in Data Science at UC Berkeley](https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) + https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides
+- [W209 Information Visualization course of the Masters in Data Science at UC Berkeley](https://m.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) + https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides
 - https://observablehq.com/@d3/learn-d3
 - https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568
-- [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&t=18606s)
+- [Data Visualization with D3.js - Full Tutorial Course](https://m.youtube.com/watch?v=_8V5o2UHG0E&t=18606s)
 - https://www.udemy.com/course/masteringd3js
-- [Using React (Hooks) with D3](https://www.youtube.com/playlist?list=PLDZ4p-ENjbiPo4WH7KdHjh_EMI7Ic8b2B)
+- [Using React (Hooks) with D3](https://m.youtube.com/playlist?list=PLDZ4p-ENjbiPo4WH7KdHjh_EMI7Ic8b2B)
 - https://reactfordataviz.com/articles/corona-simulation
 - [Data Journalism and Visualization with Free Tools](https://journalismcourses.org/resource/DATA0819.html)
 - https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course
-- https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides, [Covers basic Web Development, ObservableHQ, D3, the Vega-Lite Javascript API and Tableau](https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz)
+- https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides, [Covers basic Web Development, ObservableHQ, D3, the Vega-Lite Javascript API and Tableau](https://m.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz)
 
 ### Community
 
@@ -124,7 +124,7 @@
 - [sicap.ai: Motor de cautare pentru contrctele de achizitii publice](https://github.com/ciocan/sicap.ai)
 - https://github.com/prathyvsh/knowledge-atlases
 - https://github.com/philss/brazil-in-notebooks
-- https://thebackend.dev/building-monarchs + https://www.youtube.com/watch?v=1VVHZnZEWGE + https://github.com/mzemel/monarchs + https://www.data-is-plural.com/archive/2019-06-19-edition + https://www.data-is-plural.com/archive/2022-06-15-edition
+- https://thebackend.dev/building-monarchs + https://m.youtube.com/watch?v=1VVHZnZEWGE + https://github.com/mzemel/monarchs + https://www.data-is-plural.com/archive/2019-06-19-edition + https://www.data-is-plural.com/archive/2022-06-15-edition
 - [Create a 3D city from your GitHub contributions](https://github.com/honzaap/GitHubCity)
 - [Learn Stuff Visually](https://github.com/plusjade/nilclass.com)
 - https://www.weforum.org/videos/this-3d-map-is-showing-us-the-world-in-a-new-way

@@ -22,32 +22,32 @@
 
 ### Cinema
 
-- [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ/playlists) + https://seedlang.com
-- https://www.youtube.com/user/smartergerman/playlists
-- [mandarin Corner](https://www.youtube.com/channel/UC2fAiRQHRQT9aj9P_ijYeow/playlists)
-- https://www.youtube.com/user/LinguisticsMarburg/playlists
-- https://www.youtube.com/user/NativLang/playlists
-- [The history of Norse Languages](https://www.youtube.com/playlist?list=PLATNGYBQ-TjrI_zstt5w13eB4IFIcuX_W)
-- https://www.youtube.com/user/GoNaturalEnglish/playlists
+- [Easy German](https://m.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ/playlists) + https://seedlang.com
+- https://m.youtube.com/user/smartergerman/playlists
+- [mandarin Corner](https://m.youtube.com/channel/UC2fAiRQHRQT9aj9P_ijYeow/playlists)
+- https://m.youtube.com/user/LinguisticsMarburg/playlists
+- https://m.youtube.com/user/NativLang/playlists
+- [The history of Norse Languages](https://m.youtube.com/playlist?list=PLATNGYBQ-TjrI_zstt5w13eB4IFIcuX_W)
+- https://m.youtube.com/user/GoNaturalEnglish/playlists
 - https://www.futurelearn.com/courses/explore-english-shakespeare
-- [English for Emails by British Council](https://www.youtube.com/playlist?list=PLm7J5yZ2yc3lSzvNTBA4Vssy6a2CaOjS3)
-- [#LearnALanguage – with Britain's most multilingual student by British Council](https://www.youtube.com/playlist?list=PLaALxC_iM0-YOHikUMmmV-rbSgMc9Ei1W)
-- [Pronunciation Tutorials - MimicMethod](https://www.youtube.com/playlist?list=PLe8oyXzXqjDuPUXWXRqibx8grJUTN0vAy)
-- [Spanish With Paul](https://www.youtube.com/user/learnspanishvideos/playlists)
-- [The Development of Writing - The Oriental Institute](https://www.youtube.com/playlist?list=PLmXaxHgt2ww-5iaGS85AavCctyfM252wu)
-- [Brian Loo Soon Hua](https://www.youtube.com/channel/UC06QVomuK9XKcU7-qsM67uQ/playlists)
+- [English for Emails by British Council](https://m.youtube.com/playlist?list=PLm7J5yZ2yc3lSzvNTBA4Vssy6a2CaOjS3)
+- [#LearnALanguage – with Britain's most multilingual student by British Council](https://m.youtube.com/playlist?list=PLaALxC_iM0-YOHikUMmmV-rbSgMc9Ei1W)
+- [Pronunciation Tutorials - MimicMethod](https://m.youtube.com/playlist?list=PLe8oyXzXqjDuPUXWXRqibx8grJUTN0vAy)
+- [Spanish With Paul](https://m.youtube.com/user/learnspanishvideos/playlists)
+- [The Development of Writing - The Oriental Institute](https://m.youtube.com/playlist?list=PLmXaxHgt2ww-5iaGS85AavCctyfM252wu)
+- [Brian Loo Soon Hua](https://m.youtube.com/channel/UC06QVomuK9XKcU7-qsM67uQ/playlists)
 - [TESOL and TPRS Course (For Language Teachers)](https://www.udemy.com/course/tesol-and-tprs-course-)
-- [Good with Words: Speaking and Presenting | Michigan Law](https://www.youtube.com/playlist?list=PL7g_CQSlG4S8IV8xVtg8Gc8GWlSubUFl0)
+- [Good with Words: Speaking and Presenting | Michigan Law](https://m.youtube.com/playlist?list=PL7g_CQSlG4S8IV8xVtg8Gc8GWlSubUFl0)
 - https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018 + https://youtu.be/Unzc731iCUY + https://www.memoriesofpatrickwinston.com
-- [Micro-Lectures - Phonetics | The Virtual Linguistics Campus](https://www.youtube.com/playlist?list=PLRIMXVU7SGRIeAGqlQqzbsErDMgZWkuqh)
+- [Micro-Lectures - Phonetics | The Virtual Linguistics Campus](https://m.youtube.com/playlist?list=PLRIMXVU7SGRIeAGqlQqzbsErDMgZWkuqh)
 - https://www.udemy.com/course/content-based-language-teaching
 - https://github.com/speaking-for-hackers/speaking-for-hackers-book
-- [Glimmer DSL for SWT Video Tutorials for Ruby Desktop GUI Development](https://www.youtube.com/playlist?list=PLSN9HhZ_0-n741vRa_dL-M81cLbqD_kem)
+- [Glimmer DSL for SWT Video Tutorials for Ruby Desktop GUI Development](https://m.youtube.com/playlist?list=PLSN9HhZ_0-n741vRa_dL-M81cLbqD_kem)
 
 ### Book
 
 - [Our Magnificent Bastard Tongue: The Untold History of English.](https://www.amazon.com/Our-Magnificent-Bastard-Tongue-History/dp/1592404944)
-- [Books on Linguistics and TESOL](https://www.youtube.com/playlist?list=PLOY-0V_l_9x5zyZvaYnc-TuZjDuX-txNS)
+- [Books on Linguistics and TESOL](https://m.youtube.com/playlist?list=PLOY-0V_l_9x5zyZvaYnc-TuZjDuX-txNS)
 - https://github.com/hackerkid/Mind-Expanding-Books#language
 - https://twitter.com/IntermarkLS/status/1245449234813456385
 - https://www.cntraveler.com/gallery/22-ambassadors-recommend-the-one-book-to-read-before-visiting-their-country
@@ -93,25 +93,25 @@
 
 - https://neustadt.fr/essays/china-one-nation-how-many-languages
 - https://lindiebotes.com/2020/06/26/how-to-learn-chinese-characters
-- https://www.youtube.com/c/%E9%98%BF%E7%A6%8FThomas/playlists
+- https://m.youtube.com/c/%E9%98%BF%E7%A6%8FThomas/playlists
 - https://ralphammer.com/the-book-of-change
 - https://sites.google.com/stanford.edu/cantonese/language-resources + https://twitter.com/kginlum/status/1334213475011231744
 - [Cross-language homonyms between English and Chinese](https://mcc.id.au/blog/2020/07/homoyin)
 - https://github.com/signsinchina
-- [Through Chinese Characters, learn Chinese, Korean and Japanese](https://www.youtube.com/playlist?list=PLLQcDG6MBpwhBEhBydyFjDAndO7_2CKpU)
-- https://www.youtube.com/playlist?list=PLuIhQdwUVqqqQ1XgELAXd1qLrc5an6Vgf
-- https://www.youtube.com/playlist?list=PLuIhQdwUVqqotxScb7W419m3hOsEzSw48
+- [Through Chinese Characters, learn Chinese, Korean and Japanese](https://m.youtube.com/playlist?list=PLLQcDG6MBpwhBEhBydyFjDAndO7_2CKpU)
+- https://m.youtube.com/playlist?list=PLuIhQdwUVqqqQ1XgELAXd1qLrc5an6Vgf
+- https://m.youtube.com/playlist?list=PLuIhQdwUVqqotxScb7W419m3hOsEzSw48
 - https://guhanmandarim.com.br/mandarim-live
 - https://github.com/nikitavoloboev/knowledge/blob/main/languages/chinese.md
 - https://github.com/prasannavl/knowledge/blob/master/language/basics.md#chinese
 - https://wannabe-polyglot.com/2016/12/31/learning-to-hear-tones.html
 - https://ai.glossika.com/blog/aged-30-he-speaks-19-languages-learn-his-one-secret-to-learn-any-language + https://www.foreverastudent.com/p/book_4.html
-- https://www.youtube.com/user/theforeverastudent/playlists
+- https://m.youtube.com/user/theforeverastudent/playlists
 - https://chaoyangtrap.house
 - [Classical Chinese for Everyone: A Guide for Absolute Beginners | Bryan W. Van Norden](https://www.facebook.com/orelb/posts/pfbid02ppaUQdZftTorqhAmJcCYomsWtoqjGLiDQd2cxay79mff1TpXHpjdekxGGp2WguEdl)
 - https://alexwlchan.net/2020/04/storing-language-vocabulary-as-a-graph
 - https://en.wikibooks.org/wiki/Chinese_%28Mandarin%29/Using_Tones
-- [Let's Learn Classical Chinese | Colin Gorrie](https://www.youtube.com/playlist?list=PLmp7RhkyEu0vz1NYNa7V9xFuRBsW9a9mt)
+- [Let's Learn Classical Chinese | Colin Gorrie](https://m.youtube.com/playlist?list=PLmp7RhkyEu0vz1NYNa7V9xFuRBsW9a9mt)
 - https://www.amazon.com/Tuttle-Learners-Chinese-English-Dictionary-Romanized/dp/0804845271
 - https://github.com/shimohq/chinese-programmer-wrong-pronunciation
 - https://restofworld.org/2022/china-social-media-censorship
@@ -122,7 +122,7 @@
 
 ### Arabic
 
-- [LearnArabicwithMaha](https://www.youtube.com/playlist?list=PLDE670F8915C5902A)
+- [LearnArabicwithMaha](https://m.youtube.com/playlist?list=PLDE670F8915C5902A)
 - https://www.amazon.com/Handbook-Language-Teaching-Professionals-Century-ebook-dp-B00KQOAC8A/dp/B00KQOAC8A
 - [Late Antiquity](https://twitter.com/shahanSean/status/1553224584291225600)
 - [Learn coding in Amharic, Arabic, Swahili](https://barmaga.io)
@@ -133,7 +133,7 @@
 ### Danish
 
 - https://sokolova.dk + https://twitter.com/sokolovadk
-- https://www.youtube.com/playlist?list=PLu3g1bSKNveY08T7o_hoFJSxyy6Svr8ex
+- https://m.youtube.com/playlist?list=PLu3g1bSKNveY08T7o_hoFJSxyy6Svr8ex
 - https://github.com/simgunz/anki-decks_danish-ipa
 
 ### Dutch
@@ -148,7 +148,7 @@
 - http://www.arrantpedantry.com/2014/12/01/celtic-and-the-history-of-the-english-language
 - [At the Coal-Face of Standardization’: Uncovering the Role of Copy Editors in Standardizing the English Language (thesis)](https://www.arrantpedantry.com/wp-content/uploads/2013/05/Jonathon-Owen-thesis.pdf)
 - http://languagestolearn.com/has-english-become-the-21st-centurys-linguistic-bully
-- [What The English?!](https://www.youtube.com/playlist?list=PLxDXDxbE93MyXaHPbZmJNkmIkVtP7dz3p)
+- [What The English?!](https://m.youtube.com/playlist?list=PLxDXDxbE93MyXaHPbZmJNkmIkVtP7dz3p)
 - [The Surprising History of 'Freelance'](https://www.merriam-webster.com/words-at-play)
 - [A JSON representation of Webster's Unabridged Dictionary](https://github.com/adambom/dictionary)
 - [What's the difference between discipline and domain?](https://comparewords.com/discipline/domain)
@@ -164,8 +164,8 @@
 - https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english
 - https://www.udemy.com/course/master-the-english-irregular-verbs-once-and-for-all
 - https://www.udemy.com/course/word-stress-of-american-english
-- https://www.amazon.com/English-Nature-Method-Arthur-Jensen/dp/1684718228 + https://www.youtube.com/playlist?list=PLAadwKeAHRjjTBBIDyetK6VqoRQEu3Xud
-- [A Guide to English Literary Terms | Oregon State University](https://www.youtube.com/playlist?list=PLkJBRdOsnEQQcO9rEaqNaZwH4Xn2jo11I)
+- https://www.amazon.com/English-Nature-Method-Arthur-Jensen/dp/1684718228 + https://m.youtube.com/playlist?list=PLAadwKeAHRjjTBBIDyetK6VqoRQEu3Xud
+- [A Guide to English Literary Terms | Oregon State University](https://m.youtube.com/playlist?list=PLkJBRdOsnEQQcO9rEaqNaZwH4Xn2jo11I)
 - https://github.com/hyperreality/American-British-English-Translator
 - https://en.wikipedia.org/wiki/Rhoticity_in_English
 - https://unchartedterritories.tomaspueyo.com/p/should-everybody-learn-english
@@ -201,7 +201,7 @@
 - https://tvtropes.org/pmwiki/pmwiki.php/Main/EverythingSoundsSexierInFrench
 - [Union des francais et francophones de Roumanie](https://www.meetup.com/ufe-roumanie)
 - [Dincolo de cuvinte – Au-delà des mots](https://www.facebook.com/MuzeulNationalDeArtaAlRomaniei/videos/435391008335098)
-- https://www.amazon.com/Fran%C3%A7ais-par-M%C3%A9thode-Nature-French/dp/1684747775 + https://www.youtube.com/playlist?list=PLf8XN5kNFkhdIS7NMcdUdxibD1UyzNFTP + https://archive.org/details/jensen-arthur-le-francais-par-la-methode-nature + https://www.youtube.com/playlist?list=PLAadwKeAHRjjOTdip627SQIUN4u94pXlV + https://www.youtube.com/playlist?list=PLD0666ZhOzwjPr-8Kn-OUf-Dx3jDyuug9
+- https://www.amazon.com/Fran%C3%A7ais-par-M%C3%A9thode-Nature-French/dp/1684747775 + https://m.youtube.com/playlist?list=PLf8XN5kNFkhdIS7NMcdUdxibD1UyzNFTP + https://archive.org/details/jensen-arthur-le-francais-par-la-methode-nature + https://m.youtube.com/playlist?list=PLAadwKeAHRjjOTdip627SQIUN4u94pXlV + https://m.youtube.com/playlist?list=PLD0666ZhOzwjPr-8Kn-OUf-Dx3jDyuug9
 - [James H Worman](https://archive.org/search.php?query=creator%3A%22Worman%2C+James+H.+%28James+Henry%29%2C+1835-1930%22)
 - https://www.amazon.com/French-Inside-Out-Worldwide-Development/dp/0415076706
 - https://www.colingorrie.com/articles/guttural-r
@@ -211,14 +211,14 @@
 - https://www.lingq.com/en/forum/offenes-deutsches-forum-open-forum-in-german/crossing-boundaries-in-german
 - https://divu.in/german/learn
 - https://divu.in/german/words
-- https://www.youtube.com/playlist?list=PLuIhQdwUVqqoHpBI5yAX8yfbc2ap7SkFX
+- https://m.youtube.com/playlist?list=PLuIhQdwUVqqoHpBI5yAX8yfbc2ap7SkFX
 - https://divyendusingh.com/german/learn
 - https://blog.nina.coffee/2018/08/27/all_nature_method_books.html
 - https://vivariumnovum.it/risorse-didattiche/propria-formazione/metodo-diretto-applicato-alle-lingue-moderne
 - https://language-intense.ro/vasile-ioana
 - [German: Biography of a Language | Ruth H. Sanders](https://www.goodreads.com/book/show/7799922-german)
 - https://github.com/blinry/anki-german-sign-language
-- [Germanic Languages Comparison | Ecolinguist](https://www.youtube.com/playlist?list=PLQJ3IAEluGMi995CtO4N1h4aHebMBV6WE)
+- [Germanic Languages Comparison | Ecolinguist](https://m.youtube.com/playlist?list=PLQJ3IAEluGMi995CtO4N1h4aHebMBV6WE)
 - [Multi-language Analyze text in 26 Cantonal Swiss German, Italian, German, Chinese (simplified), French, Italian. pply natural language understanding (NLU) to their applications with features including sentiment analysis, entity analysis, entity sentiment analysis, content classification, and syntax analysis](https://github.com/esthicodes/Awesome-Swiss-German)
 
 ### Greek
@@ -240,12 +240,12 @@
 - https://www.orelbeilinson.com/language-textbooks
 - [Dicționar geografic român-maghiar | Székely Győző](https://www.scribd.com/doc/131004043/Dictionar-Geografic-Roman-maghiar)
 - https://twitter.com/BeilinsonOrel/status/1588873985932267522
-- László Viktória: https://www.youtube.com/@malnaspite/playlists, https://linktr.ee/laszloviktoria
-- [Magyarósi Csaba](https://www.youtube.com/@magyarosi/playlists)
+- László Viktória: https://m.youtube.com/@malnaspite/playlists, https://linktr.ee/laszloviktoria
+- [Magyarósi Csaba](https://m.youtube.com/@magyarosi/playlists)
 
 ### Hindi
 
-- [How to Speak Hindi | Anil Mahato](https://www.youtube.com/playlist?list=PLDC40D4D8C4E28BC3)
+- [How to Speak Hindi | Anil Mahato](https://m.youtube.com/playlist?list=PLDC40D4D8C4E28BC3)
 - https://biblioteca-digitala.ro/?pub=6175-manual-de-limba-bengali
 - https://neustadt.fr/essays/teaching-myself-german
 - https://github.com/sharad461/nepali-translator
@@ -253,10 +253,10 @@
 ### Italian
 
 - https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
-- https://www.youtube.com/c/VirtualBrainIT/playlists
-- https://www.amazon.com/Litaliano-secondo-metodo-natura-Italian/dp/168474864X + https://www.youtube.com/playlist?list=PLf8XN5kNFkhfQonvCySTrKEUV742WzshJ + https://archive.org/details/LitalianoSecondoIlMetodoNatura + https://www.youtube.com/playlist?list=PLAadwKeAHRjgMxSpTjzk-mqJtZPKOvGX6
+- https://m.youtube.com/c/VirtualBrainIT/playlists
+- https://www.amazon.com/Litaliano-secondo-metodo-natura-Italian/dp/168474864X + https://m.youtube.com/playlist?list=PLf8XN5kNFkhfQonvCySTrKEUV742WzshJ + https://archive.org/details/LitalianoSecondoIlMetodoNatura + https://m.youtube.com/playlist?list=PLAadwKeAHRjgMxSpTjzk-mqJtZPKOvGX6
 - [Saper vedere l'architettura | Bruno Zevi](https://vimeo.com/381641305)
-- [Curso de italiano básico (A1) | Italianeando](https://www.youtube.com/playlist?list=PLNdL9GF6UdULd-ePyXG-JRgiOzVnMQe0o)
+- [Curso de italiano básico (A1) | Italianeando](https://m.youtube.com/playlist?list=PLNdL9GF6UdULd-ePyXG-JRgiOzVnMQe0o)
 
 ### Japanese
 
@@ -266,8 +266,8 @@
 - https://tynan.com/done-with-kanji
 - https://www.lingq.com/blog/how-to-learn-japanese-with-lingq
 - https://github.com/leandrotk/nihongo
-- [Learn Japanese From Zero!](https://www.youtube.com/c/yesjapan/playlists)
-- https://www.youtube.com/playlist?list=PLuIhQdwUVqqpq-aOnrEUjEq2oidCXbp9J
+- [Learn Japanese From Zero!](https://m.youtube.com/c/yesjapan/playlists)
+- https://m.youtube.com/playlist?list=PLuIhQdwUVqqpq-aOnrEUjEq2oidCXbp9J
 - https://blog.gaijinpot.com/free-apps-for-studying-japanese
 - https://tokyocheapo.com/entertainment/recommended-resources-for-learning-japanese
 - https://funjapaneselearning.com/anki-tutorial-carmilla
@@ -279,19 +279,19 @@
 - https://youtu.be/SGu0OSukq-s + https://www.amazon.com/GENKI-Integrated-Elementary-Japanese-English/dp/4789014401
 - https://github.com/mercari/engineer-vocabulary-list
 - https://twitter.com/TastingHistory1/status/1516949463524274183
-- [Japanese Phonetics Index Page](https://www.patreon.com/posts/16489306) + https://www.youtube.com/user/Dogen/playlists
+- [Japanese Phonetics Index Page](https://www.patreon.com/posts/16489306) + https://m.youtube.com/user/Dogen/playlists
 - http://gustavbertram.com/learning/language/japanese
 - https://github.com/wtetsu/mouse-dictionary
 - https://bisqwit.iki.fi/japtools
-- https://ocw.mit.edu/courses/21g-503-japanese-iii-fall-2019 + https://www.youtube.com/playlist?list=PLUl4u3cNGP61kz4wAgG77DjRf5bXhLJNv
+- https://ocw.mit.edu/courses/21g-503-japanese-iii-fall-2019 + https://m.youtube.com/playlist?list=PLUl4u3cNGP61kz4wAgG77DjRf5bXhLJNv
 - https://www.goodreads.com/review/list/29664620-glenn?shelf=language-learning
-- [Japanese Calligrapher Takumi](https://www.youtube.com/@takumitohgu)
+- [Japanese Calligrapher Takumi](https://m.youtube.com/@takumitohgu)
 - https://github.com/LuanRT/Japanese-Word-Of-The-Day
 
 ### Korean
 
-- https://www.youtube.com/c/ArirangCoKrTV/playlists
-- https://www.youtube.com/playlist?list=PLuIhQdwUVqqrn1VUPmi3wIMKfoAR_ebUy
+- https://m.youtube.com/c/ArirangCoKrTV/playlists
+- https://m.youtube.com/playlist?list=PLuIhQdwUVqqrn1VUPmi3wIMKfoAR_ebUy
 - https://andrewzah.com/posts/2019/korean_for_programmers
 - http://www.pagef30.com/2013/02/how-i-learned-korean.html
 - https://nelsonslog.wordpress.com/2022/06/19/korean-writing-hangul-and-unicode
@@ -299,7 +299,7 @@
 
 ### Khmer
 
-- https://naturalkhmer.com + https://www.youtube.com/channel/UCgSzxTVgPe3I5aQWAGQ27cQ
+- https://naturalkhmer.com + https://m.youtube.com/channel/UCgSzxTVgPe3I5aQWAGQ27cQ
 
 ### Latin
 
@@ -310,12 +310,12 @@
 - https://twitter.com/DannyBate4/status/1370405688372047876
 - [Learning Latin the Ancient Way | Eleanor Dickey](https://twitter.com/prathyvsh/status/1185363307575689216)
 - https://hackettpublishing.com/lingua-latina-per-se-illustrata-series + http://how-to-learn-any-language.com/forum/forum_posts.asp?TID=38867&PN=1
-- [Luke Amadeus Ranieri](https://www.youtube.com/c/PolymathyLuke/playlists) + https://www.reddit.com/r/latin/comments/ot107s/is_luke_ranieri_from_polymathy_the_guy_with_the + https://www.youtube.com/c/ScorpioMartianus/playlists + https://www.youtube.com/playlist?list=PLU1WuLg45Siw2bcwgjIj8FgQoJuGTM70j
-- [Irene Regini](https://www.youtube.com/c/SaturaLanx/playlists)
-- [Martinus Loch](https://www.youtube.com/channel/UCIZbV8-oZAg0MWj0AeytWGw/playlists)
+- [Luke Amadeus Ranieri](https://m.youtube.com/c/PolymathyLuke/playlists) + https://www.reddit.com/r/latin/comments/ot107s/is_luke_ranieri_from_polymathy_the_guy_with_the + https://m.youtube.com/c/ScorpioMartianus/playlists + https://m.youtube.com/playlist?list=PLU1WuLg45Siw2bcwgjIj8FgQoJuGTM70j
+- [Irene Regini](https://m.youtube.com/c/SaturaLanx/playlists)
+- [Martinus Loch](https://m.youtube.com/channel/UCIZbV8-oZAg0MWj0AeytWGw/playlists)
 - [Raphael Turrigiano](https://rturrigiano.wixsite.com/linguist/lessons)
 - https://archive.org/details/onlatinlanguage01varruoft + https://koaha.org/wiki/De_lingua_latina + http://www.attalus.org/info/varro.html + https://la.wikisource.org/wiki/De_Lingua_Latina_(Varro,_Schoppe)
-- https://www.youtube.com/playlist?list=PL2Ky2_VcYEd0bGOqRl_drTItO_Ve-Pt7_
+- https://m.youtube.com/playlist?list=PL2Ky2_VcYEd0bGOqRl_drTItO_Ve-Pt7_
 - https://ayanacademy.myshopify.com/collections/latin-library
 - [Manual of Romance Phonetics and Phonology | Christoph Gabriel, Randall Gess and Trudel Meisenburg](https://www.degruyter.com/document/doi/10.1515/9783110550283/html?lang=en#contents)
 - https://www.google.com/search?client=firefox-b-d&q=declinari+conjugare+latina + https://ro.wikipedia.org/wiki/Dan_Nicolae_Gheorghe_Ceau%C8%99escu
@@ -332,13 +332,13 @@
 
 ### Norvegian
 
-- https://www.youtube.com/playlist?list=PL6plkCKba-yYROq9d98xCy9aTcq_b3LEc
+- https://m.youtube.com/playlist?list=PL6plkCKba-yYROq9d98xCy9aTcq_b3LEc
 
 ### Occidental
 
 - https://occidental-lang.com
 - https://en.wikibooks.org/wiki/Salute,_Jonathan!
-- https://www.youtube.com/playlist?list=PLfllocyHVgsQJDLBEshG0Oe6YOBA7Y0Ob
+- https://m.youtube.com/playlist?list=PLfllocyHVgsQJDLBEshG0Oe6YOBA7Y0Ob
 
 ### Portuguese
 
@@ -387,17 +387,17 @@
 
 ### Serbian
 
-- [Learn Serbian in a few minutes | Teacher_Suzana](https://www.youtube.com/playlist?list=PLVnag7rRuuY2yoo1lSoHxRC5kRjI0ZX-P)
+- [Learn Serbian in a few minutes | Teacher_Suzana](https://m.youtube.com/playlist?list=PLVnag7rRuuY2yoo1lSoHxRC5kRjI0ZX-P)
 
 ### Spanish
 
-- https://www.youtube.com/c/SpanishWithPaul/playlists
-- https://www.youtube.com/c/DreamingSpanish/playlists
+- https://m.youtube.com/c/SpanishWithPaul/playlists
+- https://m.youtube.com/c/DreamingSpanish/playlists
 - [Mariela Bosque](https://about.me/profmarielabosque)
 - https://www.mezzoguild.com/spanish-apps
 - https://www.zerotohero.ca/en/es/all-media
-- https://www.youtube.com/c/ChristianBurgosKorea/playlists
-- https://www.youtube.com/playlist?list=PLTpetkN815Qyuc2RbC1kxxMQvxjQ3RnYG
+- https://m.youtube.com/c/ChristianBurgosKorea/playlists
+- https://m.youtube.com/playlist?list=PLTpetkN815Qyuc2RbC1kxxMQvxjQ3RnYG
 - http://alexfru.narod.ru/lang/spanish/spanish.html
 - https://urish.medium.com/i-taught-myself-spanish-this-is-how-2c453a8202af
 - https://www.udemy.com/course/learn-spanish-now
@@ -406,33 +406,33 @@
 - https://travel-lingual.com/best-programs-to-learn-spanish
 - https://autolingual.com/glossika-spanish
 - https://spanishhackers.com/glossika-full-review-pros-and-cons
-- [Pau Ninja: el podcast](https://www.youtube.com/channel/UC5ePjvY8eRFQpoUvw_nrl4Q/playlists) + https://www.amazon.com/Aprender-idiomas-sin-tonter%C3%ADas-aprender-ebook/dp/B078KVT9MX + https://medium.com/@pau_writes
+- [Pau Ninja: el podcast](https://m.youtube.com/channel/UC5ePjvY8eRFQpoUvw_nrl4Q/playlists) + https://www.amazon.com/Aprender-idiomas-sin-tonter%C3%ADas-aprender-ebook/dp/B078KVT9MX + https://medium.com/@pau_writes
 - https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Spanish
 - https://includejs.dev/notes/spanish-fluency-01
-- https://www.youtube.com/c/BunkerMaker/playlists
-- https://www.youtube.com/c/IsaacMorenoGallo/playlists
+- https://m.youtube.com/c/BunkerMaker/playlists
+- https://m.youtube.com/c/IsaacMorenoGallo/playlists
 - https://www.amazon.com/New-First-Spanish-Book-Instruction/dp/1406740713 + https://archive.org/details/newfirstspanish00wormgoog
 - https://archive.org/details/firstspanishbook00wormrich
-- https://archive.org/details/pocopocoelementa00hallrich + https://www.patreon.com/posts/61285256 + https://www.youtube.com/playlist?list=PLf8XN5kNFkhe4D2BPBKaUb2JvDHuzAGPI + https://www.youtube.com/playlist?list=PLf8XN5kNFkheNPqxA2mTuX65COM1R3S90
+- https://archive.org/details/pocopocoelementa00hallrich + https://www.patreon.com/posts/61285256 + https://m.youtube.com/playlist?list=PLf8XN5kNFkhe4D2BPBKaUb2JvDHuzAGPI + https://m.youtube.com/playlist?list=PLf8XN5kNFkheNPqxA2mTuX65COM1R3S90
 - https://ikindalikelanguages.com/labs/courses.php?id=31
-- https://www.youtube.com/playlist?list=PLD0666ZhOzwiclhHTISo8AAReSbpUXWaJ
-- https://www.youtube.com/c/PaoloAstorga/playlists
+- https://m.youtube.com/playlist?list=PLD0666ZhOzwiclhHTISo8AAReSbpUXWaJ
+- https://m.youtube.com/c/PaoloAstorga/playlists
 - https://www.mandarax.mx
-- https://storylearning.com/learn/spanish/spanish-tips + https://fluentspanishacademy.com/spanish-vault-membership-area + https://www.youtube.com/c/StoryLearningSpanish/playlists + https://youtu.be/U3HndX2QnSo + https://learn.storylearning.com/download-page-beginner15885486
+- https://storylearning.com/learn/spanish/spanish-tips + https://fluentspanishacademy.com/spanish-vault-membership-area + https://m.youtube.com/c/StoryLearningSpanish/playlists + https://youtu.be/U3HndX2QnSo + https://learn.storylearning.com/download-page-beginner15885486
 - https://www.amazon.com/Camila-S%C3%A1nchez/e/B077VSSXL7
 - [Diccionario de voces lunfardas y vulgares | Fernando Hugo Casullo, Francisco García-Jiménez](https://www.worldcat.org/title/diccionario-de-voces-lunfardas-y-vulgares/oclc/462968878)
 - [El habla de Guanajuato | Peter Boyd-Bowman](https://www.worldcat.org/title/habla-de-guanajuato/oclc/43725471) + https://youtu.be/tD9NplpyWQo
-- [Biblioteca Nacional de España](https://www.youtube.com/user/bibliotecaBNE/playlists)
+- [Biblioteca Nacional de España](https://m.youtube.com/user/bibliotecaBNE/playlists)
 - https://www.goodreads.com/book/show/3360861-el-cuento
 - [The Linguistics of Spanish](https://www.staff.ncl.ac.uk/i.e.mackenzie/index.html)
 - https://blog.duolingo.com/what-is-spanish-vosotros
-- [Ciudades invisibles](https://www.youtube.com/playlist?list=PLezWW2OfKKa5aDoTs9HUkl7C02qvFFJpK)
+- [Ciudades invisibles](https://m.youtube.com/playlist?list=PLezWW2OfKKa5aDoTs9HUkl7C02qvFFJpK)
 - https://www.academia.edu/11853314/Saber_ver_la_arquitectura_Zevi_Bruno
-- [Carme Jiménez Huertas](https://independent.academia.edu/CarmeJHuertas) + https://www.google.com/search?q=Nu+venim+din+latina+Carme+Jimenez+Huertas + https://youtu.be/7IUl4HljK1o + https://www.youtube.com/playlist?list=PL7uJpL8aYbq7TcjlzL5KuUfVt8_joPHLO
+- [Carme Jiménez Huertas](https://independent.academia.edu/CarmeJHuertas) + https://www.google.com/search?q=Nu+venim+din+latina+Carme+Jimenez+Huertas + https://youtu.be/7IUl4HljK1o + https://m.youtube.com/playlist?list=PL7uJpL8aYbq7TcjlzL5KuUfVt8_joPHLO
 - https://www.printrecarti.ro/palmira-arnaiz
 - https://eli.thegreenplace.net/tag/spanish
 - https://github.com/marcboquet/spanish-names
-- [La Historia Del Español En Diez Minutos](https://www.youtube.com/playlist?list=PLhQpDGfX5e7AlhSrnLWvaanGfn72BnFN1), https://www.open.edu/openlearn/languages/spanish/the-history-spanish-about-six-minutes
+- [La Historia Del Español En Diez Minutos](https://m.youtube.com/playlist?list=PLhQpDGfX5e7AlhSrnLWvaanGfn72BnFN1), https://www.open.edu/openlearn/languages/spanish/the-history-spanish-about-six-minutes
 - [Spanish Language and Travel by Lonely Planet and Utalk](https://www.humblebundle.com/downloads?key=k3Xtnwv3EzmdhsCm)
 - https://devonzuegel.com/post/unconventional-strategies-for-practicing-spanish
 
@@ -442,7 +442,7 @@
 
 ### Tibetan
 
-- [Tibetan Language Channel](https://www.youtube.com/channel/UCBOk5M9QQKfjg3-5HFl8sxA/playlists)
+- [Tibetan Language Channel](https://m.youtube.com/channel/UCBOk5M9QQKfjg3-5HFl8sxA/playlists)
 
 ### Polyglots
 
@@ -452,7 +452,7 @@
 ### Polish
 
 - https://github.com/slowernews/notebook/blob/master/on-polish-language.md
-- https://www.youtube.com/c/Ecolinguist/playlists
+- https://m.youtube.com/c/Ecolinguist/playlists
 
 ### Ukrainian
 
@@ -480,9 +480,9 @@
 
 ### Thai
 
-- https://www.youtube.com/playlist?list=PLOKPImLWvaffrJv9V5cumhj76EN7jjWok
+- https://m.youtube.com/playlist?list=PLOKPImLWvaffrJv9V5cumhj76EN7jjWok
 
 ### Turkish
 
-- https://www.youtube.com/playlist?list=PLf8XN5kNFkheEx8CstJsVHVYzHqH47CM1
+- https://m.youtube.com/playlist?list=PLf8XN5kNFkheEx8CstJsVHVYzHqH47CM1
 - https://twitter.com/DanRomanya

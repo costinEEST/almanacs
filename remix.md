@@ -4,8 +4,8 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeS7AzNQ022cnLblzpV7P2K
-- [Track all of his neighborhood pet friends using Remix, Prisma, and Postgres | linode](https://www.youtube.com/playlist?list=PLTnRtjQN5ieYu9SdwLvzKYFVtfqySY7FT) + https://github.com/AustinGil/npm
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUeS7AzNQ022cnLblzpV7P2K
+- [Track all of his neighborhood pet friends using Remix, Prisma, and Postgres | linode](https://m.youtube.com/playlist?list=PLTnRtjQN5ieYu9SdwLvzKYFVtfqySY7FT) + https://github.com/AustinGil/npm
 
 ### Community
 

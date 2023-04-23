@@ -5,15 +5,15 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUeDHRwyHSn2Ndflm2TezXGU
-- [Vim Un-Alphabet by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
-- [Vim screencasts by Greg Hurrell](https://www.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
-- [Vim Meetups - thoughtbot](https://www.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs)
-- [Vim by Josh Branchaud ](https://www.youtube.com/playlist?list=PL46-cKSxMYYB46G6HR6hERWjKCiHTLjxt)
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUeDHRwyHSn2Ndflm2TezXGU
+- [Vim Un-Alphabet by Josh Branchaud ](https://m.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
+- [Vim screencasts by Greg Hurrell](https://m.youtube.com/playlist?list=PLwJS-G75vM7kFO-yUkyNphxSIdbi_1NKX)
+- [Vim Meetups - thoughtbot](https://m.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs)
+- [Vim by Josh Branchaud ](https://m.youtube.com/playlist?list=PL46-cKSxMYYB46G6HR6hERWjKCiHTLjxt)
 - https://www.meetup.com/vim-chicago
-- https://www.youtube.com/c/ThePrimeagen/playlists
-- [A Decade of Vim - Semicolon&Sons](https://www.youtube.com/playlist?list=PLpkoC9yJXDKkm4MStIQoieUPwNjO4Rb_M)
-- https://reasonablypolymorphic.com/expert-level-vim + https://www.youtube.com/watch?v=Q-D5mtp2yIc
+- https://m.youtube.com/c/ThePrimeagen/playlists
+- [A Decade of Vim - Semicolon&Sons](https://m.youtube.com/playlist?list=PLpkoC9yJXDKkm4MStIQoieUPwNjO4Rb_M)
+- https://reasonablypolymorphic.com/expert-level-vim + https://m.youtube.com/watch?v=Q-D5mtp2yIc
 - https://www.labnol.org/internet/learning-vim-for-beginners/28820
 
 ### Community

@@ -47,7 +47,7 @@
 
 ### Cinema
 
-- [Bash for Beginners | MicrosoftDeveloper](https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l)
+- [Bash for Beginners | MicrosoftDeveloper](https://m.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l)
 - https://scriptingosx.com/bash
 - https://scriptingosx.com/practical
 - https://scriptingosx.com/zsh
@@ -56,7 +56,7 @@
 
 - https://app.pluralsight.com/paths/skill/shell-scripting-with-bash-and-z-shell
 - https://github.com/lhunath/guide.bash.academy
-- https://www.youtube.com/playlist?list=PLYQSCk-qyTW0d88jNocdi_YIFMA5Fnpug
+- https://m.youtube.com/playlist?list=PLYQSCk-qyTW0d88jNocdi_YIFMA5Fnpug
 
 ### TIL
 

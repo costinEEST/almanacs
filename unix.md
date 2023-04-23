@@ -14,7 +14,7 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLoKM3Qfxoe0mTWQnjNghk2Ofzfp2x68zN
+- https://m.youtube.com/playlist?list=PLoKM3Qfxoe0mTWQnjNghk2Ofzfp2x68zN
 
 ### Historic
 

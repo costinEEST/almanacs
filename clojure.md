@@ -10,9 +10,9 @@
 ### Cinema 
 
 - https://clojureverse.org/t/clojurescript-compiler-internals-with-mike-fikes/7141
-- https://www.youtube.com/playlist?list=PLb0lswj12Ntx1zt9QqcI6j9d8XB2YAFsb
+- https://m.youtube.com/playlist?list=PLb0lswj12Ntx1zt9QqcI6j9d8XB2YAFsb
 - [Attila Egri-Nagy](http://www.egri-nagy.hu/talks)
-- [Building a SaaS with Clojure & ClojureScript (Reitit, PSQL, shadow-cljs, tailwindcss)](https://www.youtube.com/live/QEqMoySD9uc?feature=share) + 
+- [Building a SaaS with Clojure & ClojureScript (Reitit, PSQL, shadow-cljs, tailwindcss)](https://m.youtube.com/live/QEqMoySD9uc?feature=share) + 
 - https://twitter.com/borkdude/status/1614299598134153217 + [How startups can move fast with Clojure](https://youtu.be/MZy-SNswH2E)
 
 ### Community

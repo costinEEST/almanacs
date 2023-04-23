@@ -22,9 +22,9 @@
 - https://www.freecodecamp.org/news/solidify-your-react-skills-by-building-15-projects
 - https://github.com/fireship-io/firebase-security-course
 - https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
-- [NextJS and Serverless ~ James Perkins](https://www.youtube.com/playlist?list=PL5G1JGPXq1sQDMAV9BdlUJV9RfkZPSpVb)
+- [NextJS and Serverless ~ James Perkins](https://m.youtube.com/playlist?list=PL5G1JGPXq1sQDMAV9BdlUJV9RfkZPSpVb)
 - https://twitter.com/brian_lovin/status/1377346382084763650
-- [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://www.youtube.com/playlist?list=PLFGFKs8nQ3EbG-ykV8xc1mBt99sqq2Ssx) + https://github.com/dijonmusters/e-commerce-in-25-days
+- [Build an E-Commerce Platform in 25 Days with Next.js, Netlify and Stripe](https://m.youtube.com/playlist?list=PLFGFKs8nQ3EbG-ykV8xc1mBt99sqq2Ssx) + https://github.com/dijonmusters/e-commerce-in-25-days
 - https://github.com/tannerlinsley/react-query-essentials
 - [Modernizing an Enterprise React App | Paige Niedringhaus](https://www.newline.co/courses/newline-guide-to-modernizing-an-enterprise-react-app)
 - https://tchayen.com/understanding-react-by-implementing-it
@@ -72,10 +72,10 @@
 - https://github.com/JSerZANP/react-source-code-walkthrough-en
 - https://github.com/tiaanduplessis/awesome-react-talks
 - https://github.com/Shopee/shopee-react-knowledgeable/issues/184
-- [Build an Accessible React Component Series](https://www.youtube.com/playlist?list=PLOmKTF_wUDoydvtwWrzEw7DZ9VboV51py)
+- [Build an Accessible React Component Series](https://m.youtube.com/playlist?list=PLOmKTF_wUDoydvtwWrzEw7DZ9VboV51py)
 - https://github.com/zpao/building-react-from-scratch
 - https://portal.gitnation.org/contents/remote-rendering-with-web-workers + https://shopify.engineering/remote-rendering-ui-extensibility
-- [Webxr with Three.js](https://www.youtube.com/playlist?list=PLpM_sf_d5YTPXeVp4cmgN_cNBj9pNTEmZ)
+- [Webxr with Three.js](https://m.youtube.com/playlist?list=PLpM_sf_d5YTPXeVp4cmgN_cNBj9pNTEmZ)
 
 ### Demo
 
@@ -167,7 +167,7 @@
 - [A custom React Hook for fading in any element.](https://twitter.com/gabe_ragland/status/1233135570227879936)
 - https://techblog.commercetools.com/five-practical-tips-when-using-react-hooks-in-production-990a79745229
 - useAbortController: [tweet](https://twitter.com/kentcdodds/status/1246219272562421760) + [gist](https://gist.github.com/kentcdodds/b36572b6e9227207e6c71fd80e63f3b4)
-- [React Hooks Tutorial | Build Yelp in React - productioncoder](https://www.youtube.com/playlist?list=PL1Nml43UBm6fmZZDeu-FDt5pozS2rSuff)
+- [React Hooks Tutorial | Build Yelp in React - productioncoder](https://m.youtube.com/playlist?list=PL1Nml43UBm6fmZZDeu-FDt5pozS2rSuff)
 - https://dev.to/poeticgeek/concrete-example-for-react-useimperativehandle-52l8
 - [I've never once found a need for useReducer()](https://twitter.com/erikras/status/1314673077070987270)
 - https://www.benmvp.com/blog/four-characters-optimize-react-component
@@ -372,7 +372,7 @@
 - https://changelog.com/posts/when-and-when-not-to-reach-for-redux
 - https://blog.logrocket.com/refactoring-redux-app-to-use-recoil + https://github.com/ohansemmanuel/benutzer/tree/recoil-multiple-user + https://github.com/ohansemmanuel/benutzer/tree/redux-multi-users
 - [7Guis in React](https://github.com/andrewgreenh/7guis) + https://github.com/eugenkiss/7guis
-- https://www.youtube.com/playlist?list=PLNqp92_EXZBIqX8DWmwmJmxeHiq-Ut4W1
+- https://m.youtube.com/playlist?list=PLNqp92_EXZBIqX8DWmwmJmxeHiq-Ut4W1
 - https://tkdodo.eu/blog/offline-react-query
 - https://www.zhenghao.io/posts/react-rerender
 - https://blog.johnnyreilly.com/2022/09/20/react-usesearchparamsstate
@@ -460,7 +460,7 @@
 
 ### Debugging
 
-- [Application Performance](https://www.youtube.com/playlist?list=PLWIcRrPLCdUd0VC6ah9mPKHxzpPjcm86P)
+- [Application Performance](https://m.youtube.com/playlist?list=PLWIcRrPLCdUd0VC6ah9mPKHxzpPjcm86P)
 - https://www.matthewgerstman.com/tech/performance-testing-anonymous-functions
 - https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug
 - https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f
@@ -484,9 +484,9 @@
 - https://www.udemy.com/course/react-testing-with-jest-and-enzyme
 - https://github.com/zamarrowski/Curso-React-Testing-GraphQL
 - [UI Testing with React, Mirage, Jest and Testing Library](https://youtu.be/3taVrGZVCr8)
-- [Testing React by Leigh Halliday](https://www.youtube.com/playlist?list=PL8fumNHsC-3NaPNxh2bous6bBDWwJ4r1-)
-- [Jest - A-Z by Felipe Lima](https://www.youtube.com/playlist?list=PLrZyA4KBTQriFZkYhvhy1KFM21-l7VyL-)
-- [Test-Driven Development in React](https://www.youtube.com/playlist?list=PLXXnezSEtvNMlfJFd1Z2wilxymcOaVl9Q)
+- [Testing React by Leigh Halliday](https://m.youtube.com/playlist?list=PL8fumNHsC-3NaPNxh2bous6bBDWwJ4r1-)
+- [Jest - A-Z by Felipe Lima](https://m.youtube.com/playlist?list=PLrZyA4KBTQriFZkYhvhy1KFM21-l7VyL-)
+- [Test-Driven Development in React](https://m.youtube.com/playlist?list=PLXXnezSEtvNMlfJFd1Z2wilxymcOaVl9Q)
 - https://swizec.com/blog/mocking-and-testing-fetch-requests-with-jest/swizec/9338
 - https://github.com/Lemoncode/react-testing-by-example
 - [Repository to learn BDD and e2e using cypress ](https://github.com/Lemoncode/cypress-by-example)
@@ -503,12 +503,12 @@
 - https://github.com/kentcdodds/react-testing-library-examples
 - [Fast is beautiful and Jest is much faster than Cypress. Cypress gives you ultimate confidence when shipping. Jest gives you rapid feedback during development](https://twitter.com/MaOberlehner/status/1372182887462793218)
 - https://github.com/ahmadnassri/i-jest-you-not + https://twitter.com/AhmadNassri/status/1375094293917003780
-- [React.js Unit Testing and Integration Testing Tutorial | Bruno Antunes](https://www.youtube.com/playlist?list=PLYSZyzpwBEWTBdbfStjqJSGaulqcHoNkT)
+- [React.js Unit Testing and Integration Testing Tutorial | Bruno Antunes](https://m.youtube.com/playlist?list=PLYSZyzpwBEWTBdbfStjqJSGaulqcHoNkT)
 - https://github.com/sapegin/jest-cheat-sheet
 - https://github.com/muratkeremozcan/cypress-react-component-test-examples + https://muratkerem.gitbook.io/cctdd
 - https://github.com/HugoDF/jest-handbook-examples
 - https://www.udemy.com/course/typescript-with-react-jest-testing
-- https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme + https://www.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
+- https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme + https://m.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
 
 ### Tool
 

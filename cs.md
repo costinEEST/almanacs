@@ -25,7 +25,7 @@
 
 - [Software Security is a Programming Languages Issue](http://www.pl-enthusiast.net/2018/08/13/security-programming-languages-issue/)
 - http://www.auxy.xyz/note/2019/05/01/PA-Note.html + https://github.com/Auxy233/program-analysis-note
-- [Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30) + [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/en/book/show/530415) + https://jamesclear.com/great-speeches/learning-to-learn-by-richard-hamming
+- [Richard Hamming: "Learning to Learn"](https://m.youtube.com/playlist?list=PL2FF649D0C4407B30) + [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/en/book/show/530415) + https://jamesclear.com/great-speeches/learning-to-learn-by-richard-hamming
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum)
 - https://github.com/mvillaloboz/open-source-cs-degree
 - https://saligrama.io/notes
@@ -36,14 +36,14 @@
 - https://github.com/emschwartz/awesome-recurse
 - [GOTO 2016 • Pure Functional Programming in Excel • Felienne Hermans](https://youtu.be/0yKf8TrLUOw)
 - [Best Talks of 2019?](https://news.ycombinator.com/item?id=21858866)
-- https://www.youtube.com/user/mycodeschool/playlists
+- https://m.youtube.com/user/mycodeschool/playlists
 - [The Computers: The Remarkable Story of the ENIAC Programmers.](https://vimeo.com/ondemand/eniac6)
 - https://www.deconstructconf.com/2017/dan-grossman-the-cs-undergrad-curriculum-of-2017
-- [Intro to Quantum Computing - HACKADAY](https://www.youtube.com/playlist?list=PL_tws4AXg7avHFquKAB6q6cep2pnueLpM)
+- [Intro to Quantum Computing - HACKADAY](https://m.youtube.com/playlist?list=PL_tws4AXg7avHFquKAB6q6cep2pnueLpM)
 - https://github.com/JanVanRyswyck/awesome-talks#computer-history
 - https://github.com/Developer-Y/cs-video-courses#quantum-computing
-- [Event-Driven Information Systems](https://www.youtube.com/channel/UCSoUh4ikepF3LkMchruSSaQ/playlists)
-- [Ohio State: EE 481 - Engineering Ethics with Kevin Passino | CosmoLearning.org Engineering](https://www.youtube.com/playlist?list=PLaLOVNqqD-2E5EYdtKlA5VWdsLNl0FEYH)
+- [Event-Driven Information Systems](https://m.youtube.com/channel/UCSoUh4ikepF3LkMchruSSaQ/playlists)
+- [Ohio State: EE 481 - Engineering Ethics with Kevin Passino | CosmoLearning.org Engineering](https://m.youtube.com/playlist?list=PLaLOVNqqD-2E5EYdtKlA5VWdsLNl0FEYH)
 - https://liveprog.org/live-2021/User-Modifiable-Software-Smalltalk-and-HyperCard.mp4
 
 ### Book
@@ -121,7 +121,7 @@
 
 ### Interview
 
-- https://www.youtube.com/c/NickWhite/playlists
+- https://m.youtube.com/c/NickWhite/playlists
 - https://www.seancassidy.me/whats-the-length-of-shortest-bit-sequence-thats-never-been-sent-over-the-internet.html
 - https://thesquareplanet.com/blog/how-the-internet-works
 - https://github.com/Developer-Y/technical-interviews
@@ -142,7 +142,7 @@
 
 ### Parser
 
-- [Concepts of Programming Languages | Mary Elaine Califf](https://www.youtube.com/playlist?list=PLrB7VCHji9zj7wGQOfWNvvj691QwZ1Lam)
+- [Concepts of Programming Languages | Mary Elaine Califf](https://m.youtube.com/playlist?list=PLrB7VCHji9zj7wGQOfWNvvj691QwZ1Lam)
 
 ### Practice
 
@@ -181,7 +181,7 @@
 - https://github.com/facundoolano/software-papers
 - [8 disk magazines from the 90s](https://github.com/ConspiracyHu/diskmag-onlinification-project)
 - [The Apollo Guidance Computer: Architecture and Operation | Frank O'Brien](https://www.amazon.com/Apollo-Guidance-Computer-Architecture-Operation/dp/1441908765)
-- [A Romp Through Computer History | Toby Ho](https://www.youtube.com/playlist?list=PLSq9OFrD2Q3AwXZNxJnhlNCvRTzQvh2R1)
+- [A Romp Through Computer History | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3AwXZNxJnhlNCvRTzQvh2R1)
 - https://blog.nelhage.com/post/apollo-bibliography
 - http://www.charlespetzold.com/videos
 - https://github.com/v3ga/computer_history

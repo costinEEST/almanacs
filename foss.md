@@ -16,7 +16,7 @@
 - [Empowering science with open-source software by Santiago Soler](https://github.com/santisoler/iag-usp-2022)
 - https://www.poberezkin.com/posts/2019-07-10-talk-why-you-should-open-source-for-real.html
 - https://www.learnwithjason.dev/create-and-deploy-a-documentation-website
-- https://www.youtube.com/@effaustin/videos
+- https://m.youtube.com/@effaustin/videos
 
 ### Community
 

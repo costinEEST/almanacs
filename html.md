@@ -8,9 +8,9 @@
 - https://www.nngroup.com/articles/design-pattern-guidelines
 - https://yagmurcetintas.com/journal/introduction-to-accessibility
 - https://blog.sapegin.me/all/accessibility-testing
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUcrZXXM8kDBaIVx1N66ZX_p
-- [Accessability by Daniel Persson](https://www.youtube.com/playlist?list=PLP2v7zU48xOLvqCvx7KoA9wfu4gbWta37)
-- [Accessibility (on and off the web) by Patrick Lauke](https://www.youtube.com/playlist?list=PLA8C2C7DAACC4DC54)
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUcrZXXM8kDBaIVx1N66ZX_p
+- [Accessability by Daniel Persson](https://m.youtube.com/playlist?list=PLP2v7zU48xOLvqCvx7KoA9wfu4gbWta37)
+- [Accessibility (on and off the web) by Patrick Lauke](https://m.youtube.com/playlist?list=PLA8C2C7DAACC4DC54)
 - https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers
 - https://www.digitala11y.com/accessible-ui-component-libraries-roundup
 - https://daverupert.com/2020/02/html-the-inaccessible-parts
@@ -19,7 +19,7 @@
 - [An introduction to Accessible Rich Internet Applications](https://github.com/patrickhlauke/aria)
 - https://www.a11ywithlindsey.com/blog/7-ways-tweets-more-accessible
 - https://github.com/mgifford/a11y-contracting
-- [Accessibility Talks](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/playlists)
+- [Accessibility Talks](https://m.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw/playlists)
 - https://accessibility-for-teams.com
 - https://docs.google.com/presentation/d/1N412OH3sI0zPHA9HV128l6jpQObNhVeGXWZLqgWkGtQ
 - https://ericwbailey.design/writing/a11y-is-web-accessibility.html
@@ -136,7 +136,7 @@
 ### <form></form>
 
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
-- [Forms, but better](https://www.youtube.com/@adambsilver/videos)
+- [Forms, but better](https://m.youtube.com/@adambsilver/videos)
 
 ### <head></head>
 
@@ -175,7 +175,7 @@
 ### <object></object>
 
 - https://www.smashingmagazine.com/2018/03/from-flash-html-css-javascript
-- [Legacy Flash websites work | Ruy Adorno](https://www.youtube.com/playlist?list=PLhfPj4BRxbDdpo2tPSJpe62c4psxyNuuc)
+- [Legacy Flash websites work | Ruy Adorno](https://m.youtube.com/playlist?list=PLhfPj4BRxbDdpo2tPSJpe62c4psxyNuuc)
 - https://github.com/open-source-flash/open-source-flash
 - https://github.com/tylerault/flashdetect
 
@@ -232,7 +232,7 @@
 - https://souporserious.com/lazy-loading-polyfills
 - https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata
 - https://austingil.com/how-to-build-html-forms-right-semantics
-- [Progressive Enhanced HTML Forms With JavaScript | heyAustinGil](https://www.youtube.com/playlist?list=PLmLtrLOp-3MEi82GpiAF9WWFbItxpWSj3)
+- [Progressive Enhanced HTML Forms With JavaScript | heyAustinGil](https://m.youtube.com/playlist?list=PLmLtrLOp-3MEi82GpiAF9WWFbItxpWSj3)
 
 ### Radio
 
@@ -259,14 +259,14 @@
 ### Cinema
 
 - https://tgvashworth.com/2016/06/03/frontend-reading-list.html
-- [Environmental User Interfaces - Bob Burrough](https://www.youtube.com/playlist?list=PLrKeTeeSgtc7JsHHB2R-wihnNbFX2BwPE) + https://bobburrough.com/public/post/surely_you_cant_be_serious_bob
+- [Environmental User Interfaces - Bob Burrough](https://m.youtube.com/playlist?list=PLrKeTeeSgtc7JsHHB2R-wihnNbFX2BwPE) + https://bobburrough.com/public/post/surely_you_cant_be_serious_bob
 - https://www.better.dev/intro-to-faster-with-emmet
 - https://www.freecodecamp.org/news/learn-bootstrap-5-in-spanish-by-building-a-portfolio-website-bootstrap-course-for-beginners
 
 ### Opinion
 
 - https://meiert.com/en/blog/minimal-web-development
-- https://mark.berthelemy.net/2021/07/26/future-of-scorm + https://www.youtube.com/playlist?list=PL9Ar8Q1P0Odt8MslZpZ1KlAz0ss059Hs-
+- https://mark.berthelemy.net/2021/07/26/future-of-scorm + https://m.youtube.com/playlist?list=PL9Ar8Q1P0Odt8MslZpZ1KlAz0ss059Hs-
 
 ### Semantic
 

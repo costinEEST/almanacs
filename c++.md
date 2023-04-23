@@ -8,7 +8,7 @@
 - [The design and evolution of C++ by Bjarne Stroustrup](https://twitter.com/oznova_/status/1214971707863101440)
 - [Modern OpenGL guide](https://github.com/Overv/Open.GL)
 - https://twitter.com/cpphl/status/1454501395068035077 + https://www.packtpub.com/product/the-art-of-writing-efficient-programs/9781800208117 + https://github.com/PacktPublishing/The-Art-of-Writing-Efficient-Programs
-- https://github.com/dendibakh/perf-book + https://github.com/dendibakh/perf-ninja + https://www.youtube.com/playlist?list=PLRWO2AL1QAV4WK6O6cxyjWVJvbUVVLrQk
+- https://github.com/dendibakh/perf-book + https://github.com/dendibakh/perf-ninja + https://m.youtube.com/playlist?list=PLRWO2AL1QAV4WK6O6cxyjWVJvbUVVLrQk
 - http://www.nongnu.org/fastcgi
 - [Algorithms for Modern Hardware | Sergey Slotin](https://en.algorithmica.org/hpc) + https://github.com/sslotin/amh-code + https://twitter.com/incomputableMAN/status/1498622211048947715
 - https://markm208.github.io/cppbook
@@ -37,8 +37,8 @@
 - https://twitter.com/merni_/status/1359781105931583488
 - https://increment.com/software-architecture/primer-on-functional-architecture
 - [Yacob (Kobi) Cohen-Arazi](https://twitter.com/kobi_ca)
-- [Matt Godbolt](https://www.youtube.com/c/MattGodbolt/playlists)
-- [David William Plummer](https://www.youtube.com/c/DavesGarage/playlists)
+- [Matt Godbolt](https://m.youtube.com/c/MattGodbolt/playlists)
+- [David William Plummer](https://m.youtube.com/c/DavesGarage/playlists)
 - https://github.com/bajamircea/bajamircea.github.io
 
 ### Cinema
@@ -47,14 +47,14 @@
 - [C++ for Hackers](https://twitter.com/jalospinoso/status/1216416792635232256)
 - https://media.ccc.de/v/34c3-8848-type_confusion_discovery_abuse_and_protection
 - https://www.freecodecamp.org/news/understand-data-structures-in-c-and-cpp
-- [Serenity OS](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ/playlists)
+- [Serenity OS](https://m.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ/playlists)
 - https://www.freecodecamp.org/news/how-to-create-3d-and-2d-graphics-with-opengl-and-cpp
-- [TwitterSpaces | easyperf](https://www.youtube.com/playlist?list=PLRWO2AL1QAV4WK6O6cxyjWVJvbUVVLrQk)
+- [TwitterSpaces | easyperf](https://m.youtube.com/playlist?list=PLRWO2AL1QAV4WK6O6cxyjWVJvbUVVLrQk)
 - https://patricia.no/learning_cpp.html
-- [Cᐩᐩ Weekly With Jason Turner](https://www.youtube.com/c/lefticus1/playlists)
-- Computer graphics by Dmitry Sokolov> https://www.youtube.com/playlist?list=PL9MBW6e0V7UKNFQH_ZGUrAmZ4NZjZ2GpF + https://github.com/ssloy/tinyrenderer/wiki + https://members.loria.fr/DSokolov/teaching
-- https://www.youtube.com/playlist?list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy
-- [C++ for Java Programmers | Mary Elaine Califf](https://www.youtube.com/playlist?list=PLrB7VCHji9zhoXMnbNUBqvD-NIi7XK2xD)
+- [Cᐩᐩ Weekly With Jason Turner](https://m.youtube.com/c/lefticus1/playlists)
+- Computer graphics by Dmitry Sokolov> https://m.youtube.com/playlist?list=PL9MBW6e0V7UKNFQH_ZGUrAmZ4NZjZ2GpF + https://github.com/ssloy/tinyrenderer/wiki + https://members.loria.fr/DSokolov/teaching
+- https://m.youtube.com/playlist?list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy
+- [C++ for Java Programmers | Mary Elaine Califf](https://m.youtube.com/playlist?list=PLrB7VCHji9zhoXMnbNUBqvD-NIi7XK2xD)
 
 ### Course
 
@@ -71,7 +71,7 @@
 
 ### Compiler
 
-- https://www.youtube.com/playlist?list=PLWUx_XkUoGTruCwBHdpTtx_f3WkbgUmUv
+- https://m.youtube.com/playlist?list=PLWUx_XkUoGTruCwBHdpTtx_f3WkbgUmUv
 
 ### Tool
 
@@ -91,7 +91,7 @@
 
 ### Interpreter
 
-- https://www.youtube.com/playlist?list=PLWUx_XkUoGTrXOU0pFa_OVGA-6voiIEAt
+- https://m.youtube.com/playlist?list=PLWUx_XkUoGTrXOU0pFa_OVGA-6voiIEAt
 
 ### Opinion
 

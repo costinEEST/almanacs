@@ -4,24 +4,24 @@
 
 ### Cinema
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUdM5w5thzXQdyVi_MPcktVC
-- [Nicholas Andre](https://www.youtube.com/user/mrnickandre/videos)
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUdM5w5thzXQdyVi_MPcktVC
+- [Nicholas Andre](https://m.youtube.com/user/mrnickandre/videos)
 - [CompTIA Network+ Certification Video Course](https://youtu.be/vrh0epPAC5w)
 - https://www.udemy.com/course/ssl-complete-guide
 - https://www.udemy.com/course/setup-your-own-web-hosting-environment/
 - https://www.udemy.com/course/secure-shell-fundamentals-learn-ssh-by-configuring-it/
 - https://www.udemy.com/course/sshcourse
-- [Ben Eater's videos on low level networking stuff](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) + https://eater.net/inet
+- [Ben Eater's videos on low level networking stuff](https://m.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) + https://eater.net/inet
 
 * https://chrissanders.org/2019/05/infosec-mental-models
-* https://www.youtube.com/playlist?list=PLoKM3Qfxoe0nI7MxT0UWA5cXcYRD1-EO2
+* https://m.youtube.com/playlist?list=PLoKM3Qfxoe0nI7MxT0UWA5cXcYRD1-EO2
 * https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks
 * https://github.com/lololosys/awesome-baseband-research
-* [10 Gigabit Home LAN](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ61KhM14oJMY1TiI5tU4txd)
+* [10 Gigabit Home LAN](https://m.youtube.com/playlist?list=PLF2KJ6Gy3cZ61KhM14oJMY1TiI5tU4txd)
 * [Mike Dinn about his time as Station Director of the Honeysuckle Creek tracking station that helped land humans on the moon](https://twitter.com/cliffordheath/status/1529420879742267392)
 * https://github.com/doegox/awesome-rfid-talks
 * https://passthesalt.ubicast.tv/videos/use-of-machine-and-deep-learning-on-rf-signals
-* https://www.youtube.com/@TheArtofNetworkEngineering/videos
+* https://m.youtube.com/@TheArtofNetworkEngineering/videos
 
 ### Book
 
@@ -88,7 +88,7 @@
 
 ### Routing
 
-- [Routing by internet-class](https://www.youtube.com/playlist?list=PLk97mPCd8nvZJs7DyfPgiUDovil2K7axM)
+- [Routing by internet-class](https://m.youtube.com/playlist?list=PLk97mPCd8nvZJs7DyfPgiUDovil2K7axM)
 - https://github.com/bsclifton/home-router-config
 - https://medium.com/@cityhnet/cable-modem-jailbreaks-e98cce92698c
 - https://0x90.psaux.io/2020/03/22/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-III
@@ -107,7 +107,7 @@
 - [3G & 4G Frequency List](https://support.alwaysonlinewireless.com/hc/en-us/articles/115002446723-3G-4G-Frequency-List)
 - [A disaster-resilient communications network powered by the sun](https://disaster.radio)
 - [The Magical Science of Wi-Fi on Airplanes](https://onezero.medium.com/what-makes-it-possible-to-browse-the-internet-at-35-000-feet-1afaea83eb5)
-- [Ham Radio related by w2aew](https://www.youtube.com/playlist?list=PL535F3913B822E098)
+- [Ham Radio related by w2aew](https://m.youtube.com/playlist?list=PL535F3913B822E098)
 - https://hakin9.org/universal-radio-hacker-investigate-wireless-protocols-like-a-boss/
 - https://github.com/0x90/wifi-arsenal
 - [An Empirical Study of Wireless Carrier Authentication for SIM Swaps](https://www.issms2fasecure.com)
@@ -134,14 +134,14 @@
 - https://github.com/W00t3k/Awesome-Cellular-Hacking
 - [tools to facilitate the analysis of the DJI drone WiFi communication protocol](https://github.com/Toemsel/dji-wifi-tools)
 - https://www.logsign.com/blog/warxing-in-cyber-security
-- [Cellular | cemaxecuter](https://www.youtube.com/playlist?list=PLXjRrYsXOd9fJZbM-k2M_SaBmRGMsJS2u)
+- [Cellular | cemaxecuter](https://m.youtube.com/playlist?list=PLXjRrYsXOd9fJZbM-k2M_SaBmRGMsJS2u)
 - https://sensepost.com/blog/2022/sim-hijacking
 - https://onmyway133.com/posts/learning-voip-rtp-and-sip-aka-awesome-pjsip
 - https://github.com/onmyway133/awesome-voip
 - https://worthdoingbadly.com/vowifi
 - https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade + https://twitter.com/zekjur/status/1517872128602914816
 - [How amazing is it that GPS actually works?](https://twitter.com/martinkl/status/1524684941216395264)
-- [GPS Spoofing | Muhammed Talaat](https://www.youtube.com/playlist?list=PLGJmR5eX86b1Pz4Rnv2yXHT_s4LcwKFAp)
+- [GPS Spoofing | Muhammed Talaat](https://m.youtube.com/playlist?list=PLGJmR5eX86b1Pz4Rnv2yXHT_s4LcwKFAp)
 - https://xakcop.com/post/how-many-people
 - https://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html
 - https://hackaday.com/2022/08/27/introducing-fissure-a-toolbox-for-the-rf-hacker
@@ -157,7 +157,7 @@
 
 ### Software-defined radio (SDR)
 
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUcS1Rd3toiopH4QsPaLASfJ
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUcS1Rd3toiopH4QsPaLASfJ
 - https://github.com/Alevsk/radio + https://github.com/Alevsk/speaker/tree/main/radio-hacking-intro-sdr
 - http://ossmann.blogspot.com/2014/09/learning-sdr.html + https://twitter.com/GSGlabs/status/1486961947132239873 + https://hackrf.readthedocs.io/en/latest/hardware_components.html#block-diagram
 - https://infocondb.org/presenter/michael-ossmann
@@ -175,14 +175,14 @@
 - https://hackaday.com/2021/01/16/doing-wifi-with-software-defined-radio
 - https://hackaday.com/2020/07/08/software-defined-radio-academy-goes-virtual
 - [Linear Circuit Design Handbook, 2008](https://twitter.com/robinlgetz/status/1457779129810505738)
-- https://hackaday.com/2018/06/29/free-e-book-software-defined-radio-for-engineers + https://www.analog.com/en/education/education-library/software-defined-radio-for-engineers.html + https://github.com/sdrforengineers/code + https://www.youtube.com/playlist?list=PLBfTSoOqoRnOTBTLahXBlxaDUNWdZ3FdS
-- https://github.com/sayanee/radio-amateur-exam-notes + https://www.youtube.com/playlist?list=PL9wSRifxQqRrr_O7f-LafwoZ69giN6vcT
+- https://hackaday.com/2018/06/29/free-e-book-software-defined-radio-for-engineers + https://www.analog.com/en/education/education-library/software-defined-radio-for-engineers.html + https://github.com/sdrforengineers/code + https://m.youtube.com/playlist?list=PLBfTSoOqoRnOTBTLahXBlxaDUNWdZ3FdS
+- https://github.com/sayanee/radio-amateur-exam-notes + https://m.youtube.com/playlist?list=PL9wSRifxQqRrr_O7f-LafwoZ69giN6vcT
 - https://en.wikipedia.org/wiki/Amateur_radio_call_signs
 - [Adrian Musceac](https://github.com/kantooon)
 - https://unnamedre.com/episode/59 + https://twitter.com/unnamed_show/status/1544036368761794560
 - [Clayton Smith](https://github.com/argilo)
 - https://destevez.net/2022/09/connecting-the-pluto-sdr-to-an-android-phone
-- [Museum of Radio and Technology](https://www.youtube.com/playlist?list=PL23RW1AzagzdnwLhr52qxeYpYlQ0yi68s)
+- [Museum of Radio and Technology](https://m.youtube.com/playlist?list=PL23RW1AzagzdnwLhr52qxeYpYlQ0yi68s)
 - [Universal Radio Hacker: Investigate Wireless Protocols Like A Boss](https://github.com/jopohl/urh)
 - https://www.amazon.com/Principles-Digital-Audio-Sixth-Video/dp/0071663460
 - https://jpdias.me/radio/space/sdr/2021/09/28/sats-and-radio-notes.html
@@ -190,7 +190,7 @@
 - [Radio Astronomy Software Defined Radio](https://github.com/myriadrf/RASDR)
 - [Experimental WebAssembly build of GNU Radio](https://github.com/marcnewlin/gnuradio-web)
 - https://blog.archive.org/2022/11/16/digital-library-of-amateur-radio-communications-surpasses-25000-items
-- [Smart Meter Hacking | RECESSIM](https://www.youtube.com/playlist?list=PLYlhncU2MojDY9gxU36pxNVkiylGGcbwq) + https://wiki.recessim.com/view/Advanced_Metering_Infrastructure
+- [Smart Meter Hacking | RECESSIM](https://m.youtube.com/playlist?list=PLYlhncU2MojDY9gxU36pxNVkiylGGcbwq) + https://wiki.recessim.com/view/Advanced_Metering_Infrastructure
 - https://wiki.recessim.com/view/Amateur_Radio
 
 ### 3G
@@ -204,7 +204,7 @@
 - https://blog.acolyer.org/2020/10/05/understanding-operational-5g
 - https://www.udemy.com/course/5g-overview
 - https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols
-- [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org) + https://www.youtube.com/playlist?list=PLsLX2lpKnQUv6nako9_whmzQ3Me-_59PC
+- [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org) + https://m.youtube.com/playlist?list=PLsLX2lpKnQUv6nako9_whmzQ3Me-_59PC
 
 ### Border Gateway Protocol (BGP)
 
@@ -458,7 +458,7 @@
 
 ### Internet Service Provider (ISP)
 
-- [Build your own Internet | Billie Hilton](https://www.youtube.com/playlist?list=PLbjZkI1beTSOZgCDL6LJHBhBrnhEmaWdt)
+- [Build your own Internet | Billie Hilton](https://m.youtube.com/playlist?list=PLbjZkI1beTSOZgCDL6LJHBhBrnhEmaWdt)
 - [Set of tools to help you build your own privacy network over internet](https://www.v2ray.com/en) + https://github.com/v2fly/v2fly-github-io
 - https://nelsonslog.wordpress.com/2023/02/06/isp-connection-monitoring-with-irtt
 

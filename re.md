@@ -2,10 +2,10 @@
 
 - [Commands and Tools for Embedded Reverse Engineering](https://www.pentestpartners.com/security-blog/commands-and-tools-for-embedded-reverse-engineering)
 - https://www.slideshare.net/JayTurla2/building-your-car-hacking-labs-car-hacking-community-from-scratch
-- [scanlime](https://www.youtube.com/user/micahjd/playlists)
+- [scanlime](https://m.youtube.com/user/micahjd/playlists)
 - [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://youtu.be/aHx-XUA6f9g)
 - https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk
-- [Mobile Security - LiveOverflow](https://www.youtube.com/watch?v=iJFnYBJJiuQ&list=PLhixgUqwRTjxHFDl0OykeqZ-VvnClfDpT)
+- [Mobile Security - LiveOverflow](https://m.youtube.com/watch?v=iJFnYBJJiuQ&list=PLhixgUqwRTjxHFDl0OykeqZ-VvnClfDpT)
 - [How to hack a TV and a cable remote control to listen to anyone's conversation at home](https://twitter.com/binitamshah/status/1314571634750058496) + https://www.guardicore.com/wp-content/uploads/2020/07/WarezTheRemote-Comcast-Report.pdf
 - [Hard disk hacking - Hooking up JTAG](https://twitter.com/Theophite/status/1312864397837164544) + https://spritesmods.com/?art=hddhack&page=3
 - [Reverse engineering my cable modem and turning it into an SDR](https://stdw.github.io/cm-sdr) + https://github.com/stdw/cm-sdr
@@ -37,13 +37,13 @@
 - [Reverse engineering course by Z0F. Focuses on x64 Windows.](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 - [Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories.](https://github.com/malrev/ABD)
 - https://skybulk.github.io/syllabus
-- [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
-- https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra + https://github.com/wrongbaud/hackaday-u + https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi
+- [Binary Exploitation / Memory Corruption by LiveOverflow](https://m.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+- https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra + https://github.com/wrongbaud/hackaday-u + https://m.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi
 - https://www.udemy.com/user/cristina-gheorghisan
 - https://github.com/iosifache/BinExpLabs
 - https://omu.rce.so/gcc-2022
 - [An Oral History of Binary Exploitation Defenses](https://taggarttech.teachable.com/courses/enrolled/1840120)
-- [Offensive Software Exploitation (OSE)](https://github.com/ashemery/exploitation-course) + https://www.youtube.com/playlist?list=PLCS2zI95IiNybAAQ0HL88YzwRpLXje5y6
+- [Offensive Software Exploitation (OSE)](https://github.com/ashemery/exploitation-course) + https://m.youtube.com/playlist?list=PLCS2zI95IiNybAAQ0HL88YzwRpLXje5y6
 
 ### Book
 
@@ -64,7 +64,7 @@
 
 ### Cinema
 
-- https://www.youtube.com/c/OALabs/playlists
+- https://m.youtube.com/c/OALabs/playlists
 - https://github.com/tmpout/awesome-elf
 - https://github.com/JannisKirschner/SymbolicExecutionDemystified
 - https://speakerdeck.com/rung/exploitation-fundamentals-english

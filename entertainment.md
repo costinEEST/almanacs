@@ -17,8 +17,8 @@
 
 ### Blacksmithing
 
-- https://www.youtube.com/playlist?list=PLFufX0CL2q5HGawBmOYq8-9psvHZydXUL
-- https://www.youtube.com/@MarkAspery/playlists + https://www.amazon.com/Skills-Blacksmith-Mastering-Fundamentals-Blacksmithing/dp/0981548008 + https://youtu.be/-2yWXpOj-DQ
+- https://m.youtube.com/playlist?list=PLFufX0CL2q5HGawBmOYq8-9psvHZydXUL
+- https://m.youtube.com/@MarkAspery/playlists + https://www.amazon.com/Skills-Blacksmith-Mastering-Fundamentals-Blacksmithing/dp/0981548008 + https://youtu.be/-2yWXpOj-DQ
 
 ### Board games
 
@@ -27,8 +27,8 @@
 
 ### Future
 
-- [Current technologies](https://www.youtube.com/playlist?list=PLk97mPCd8nvZBmNg8Xcjbheq03IvYuFSC)
-- [Identity](https://www.youtube.com/playlist?list=PLk97mPCd8nvaBrobQf5IsjobG27Wzdfkc)
+- [Current technologies](https://m.youtube.com/playlist?list=PLk97mPCd8nvZBmNg8Xcjbheq03IvYuFSC)
+- [Identity](https://m.youtube.com/playlist?list=PLk97mPCd8nvaBrobQf5IsjobG27Wzdfkc)
 
 ### Secret services
 
@@ -53,7 +53,7 @@
 - https://www.academia.edu/37604059/Peter_Brown_The_Rise_and_Function_of_the_Holy_Man_in_Late_Antiquity_1971-1997_Journal_of_Early_Christian_Studies_6_3_1998_353-376
 - [Big Gods: How Religion Transformed Cooperation and Conflict - Ara Norenzayan](https://www.goodreads.com/book/show/17942053-big-gods)
 - [Religious Experience Reconsidered: A Building-Block Approach to the Study of Religion and Other Special Things - Ann Taves](https://www.amazon.com/Religious-Experience-Reconsidered-Building-Block-Approach/dp/0691140871)
-- How Jesus Became a Christ - https://youtu.be/K8jdGNXIgfk + https://www.youtube.com/playlist?list=PLm7uyPwcHexJKzQVzfMyLT0epfOTYXm3N
+- How Jesus Became a Christ - https://youtu.be/K8jdGNXIgfk + https://m.youtube.com/playlist?list=PLm7uyPwcHexJKzQVzfMyLT0epfOTYXm3N
 - [The Secret History of Science and Religion](https://www.bbc.co.uk/programmes/m000614g/episodes/player) + https://www.amazon.com/Atheists-Origin-Species-Nick-Spencer/dp/1472902963 + https://www.abc.net.au/religion/the-problem-with-yuval-noah-harari/12451764
 - https://www.theguardian.com/lifeandstyle/2021/mar/28/secular-pilgrims-why-ancient-trails-still-pack-a-spiritual-punch
 - [What does Jordan Peterson mean by "the traditional insistence on the androgyny of Christ"?](https://twitter.com/entactogeneses/status/1338289377022251010)
@@ -68,11 +68,11 @@
 
 - [The Masks of God, 4 Vols by Joseph Campbell](https://www.goodreads.com/book/show/10159114-the-masks-of-god-4-vols)
 - https://www.amazon.com/Norse-Mythology-Heroes-Rituals-Beliefs/dp/0195153820
-- [Mythologica](https://www.youtube.com/user/delmonikos/playlists)
+- [Mythologica](https://m.youtube.com/user/delmonikos/playlists)
 - [Greek mythology](https://www.theoi.com)
 - [Johann Wolfgang Goethe, Faust](https://humanitas.ro/assets/pdf/Goethe_Faust.pdf)
 - [Circe, by Madeline Miller](https://www.worldcat.org/title/circe/oclc/1029842077)
-- [Joseph Campbell Foundation Mythological RoundTables of OPUS at Pacifica Graduate Institute](https://www.youtube.com/playlist?list=PLFmuBnNReE1X5t57vQ7cAusSlb-YDw3db)
+- [Joseph Campbell Foundation Mythological RoundTables of OPUS at Pacifica Graduate Institute](https://m.youtube.com/playlist?list=PLFmuBnNReE1X5t57vQ7cAusSlb-YDw3db)
 - https://en.wikipedia.org/wiki/Psychopomp + https://ro.wikipedia.org/wiki/Psihopomp
 - https://lumeninmundo.com/2017/11/28/mircea-eliade-samanismul-si-tehnicile-arhaice-ale-extazului + https://monoskop.org/File:Eliade_Mircea_%C5%9Eamanismul_%C5%9Fi_tehnicile_arhaice_ale_extazului_1997.pdf
 - https://ro.wikipedia.org/wiki/Solomonar
@@ -93,13 +93,13 @@
 
 ### Build
 
-- https://www.youtube.com/user/MattRisinger/playlists
-- [Essential Craftsman](https://www.youtube.com/channel/UCzr30osBdTmuFUS8IfXtXmg/playlists)
-- [Six Points Wood Works](https://www.youtube.com/user/scott2640/playlists)
-- https://www.youtube.com/user/TipsfromaShipWright/playlists
-- https://www.youtube.com/user/urbanTrash/playlists
+- https://m.youtube.com/user/MattRisinger/playlists
+- [Essential Craftsman](https://m.youtube.com/channel/UCzr30osBdTmuFUS8IfXtXmg/playlists)
+- [Six Points Wood Works](https://m.youtube.com/user/scott2640/playlists)
+- https://m.youtube.com/user/TipsfromaShipWright/playlists
+- https://m.youtube.com/user/urbanTrash/playlists
 - https://constructionphysics.substack.com/p/book-review-industrialized-building
-- [A little bit of everything from woodcarving, woodworking projects, crafts](https://www.youtube.com/c/DougOutside/playlists)
+- [A little bit of everything from woodcarving, woodworking projects, crafts](https://m.youtube.com/c/DougOutside/playlists)
 - https://quakkels.com/posts/hand-tool-woodworking
 
 ### Advertising
@@ -126,9 +126,9 @@
 ### Chess
 
 - [A few snippets from ♟️ history](https://twitter.com/DorsaAmir/status/1199690290065530881)
-- https://www.youtube.com/channel/UCqLLqbclDQ6IQg39Wsgy-4w/playlists
-- https://www.youtube.com/playlist?list=PLVWaFpMwtaGiBxi79IUqnqn67WF5g5PR4
-- https://www.youtube.com/results?search_query=svidler+chess24+playlist
+- https://m.youtube.com/channel/UCqLLqbclDQ6IQg39Wsgy-4w/playlists
+- https://m.youtube.com/playlist?list=PLVWaFpMwtaGiBxi79IUqnqn67WF5g5PR4
+- https://m.youtube.com/results?search_query=svidler+chess24+playlist
 - https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years + https://news.ycombinator.com/item?id=25108800
 - https://aeon.co/essays/playing-chess-is-an-essential-life-lesson-in-concentration
 - https://radioromaniacultural.ro/documentar-gambitul-damei-sau-o-scurta-istorie-a-sahului
@@ -160,11 +160,11 @@
 - https://xsrus.com/good-books-on-education
 - https://github.com/obensource/little-kiddo-learning
 - https://github.com/iharh/notes/tree/master/child
-- https://www.youtube.com/playlist?list=PLYVl5EnzwqsSR1KFlOnsG0uSKLN5ai_1w
+- https://m.youtube.com/playlist?list=PLYVl5EnzwqsSR1KFlOnsG0uSKLN5ai_1w
 - https://www.fhautism.com/shop/the-outdoor-scientist-the-wonder-of-observing-the-natural-world
 - https://www.udemy.com/course/fostering-creativity-in-children
 - https://www.goodreads.com/book/show/49848056-home-learning-year-by-year-revised-and-updated
-- [John Taylor Gatto On The Elite Schools | Jan van der Reis](https://www.youtube.com/playlist?list=PLJniMxowDM-5d6qBPO3Hl5hQJOs6BBKtG)
+- [John Taylor Gatto On The Elite Schools | Jan van der Reis](https://m.youtube.com/playlist?list=PLJniMxowDM-5d6qBPO3Hl5hQJOs6BBKtG)
 - https://github.com/HollyAdele/awesome-programming-for-kids
 - https://github.com/jackdoe/programming-for-kids
 - [Emile, or On Education | Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Emile,_or_On_Education)
@@ -188,7 +188,7 @@
 - [Transactional Analysis with Dave Spenceley](http://www.psihoterapieat.ro)
 - https://www.nlp-institutes.net/daniel-bichis
 - https://acesounderglass.com/2018/04/14/self-help-epistemic-spot-check-results
-- [Awakening from the Meaning Crisis | John Vervaeke](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
+- [Awakening from the Meaning Crisis | John Vervaeke](https://m.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
 - https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172
 - https://www.udemy.com/course/guide-to-understanding-and-assessing-personality
 
@@ -205,5 +205,5 @@
 ### Cooking
 
 - https://divu.in/cooking
-- [Make Pizza: Instructional Videos - The Pizza Book](https://www.youtube.com/playlist?list=PLhpdihPT7EFVGJzIMaEjIdsd5dDxbUs-p)
+- [Make Pizza: Instructional Videos - The Pizza Book](https://m.youtube.com/playlist?list=PLhpdihPT7EFVGJzIMaEjIdsd5dDxbUs-p)
 - [seven essential cookbooks](https://archive.ph/ZPOCJ)
