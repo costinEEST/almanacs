@@ -224,6 +224,7 @@
 ### Greek
 
 - https://www.byzantineambassador.com/greek-and-latin
+- https://biblioteca-digitala.ro/?descriptor=31834-limba-greaca-veche-limba-antica
 - http://persarazvan.blogspot.com/p/studiu-limbi-clasice.html
 - https://dannybate.com/2021/01/18/from-english-to-greek-in-two-rules + https://twitter.com/DannyBate4/status/1352341590673649665
 - https://includejs.dev/notes/learning-greek-01
@@ -304,6 +305,7 @@
 ### Latin
 
 - http://alexalejandre.com/language/latin
+- https://biblioteca-digitala.ro/?descriptor=31833-limba-latina-limba-antica
 - https://en.wikipedia.org/wiki/Otium
 - https://twitter.com/philip_mcneill/status/1322524744755875840
 - [Emblems of love, in four languages : dedicated to the ladies](https://archive.org/details/emblemsofloveinf00ayre)
