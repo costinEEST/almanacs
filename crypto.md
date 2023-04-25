@@ -44,6 +44,7 @@
 - [Craig Gentry, Fully homomorphic encryption using ideal lattices](https://crypto.stanford.edu/craig)
 - https://www.manning.com/books/secret-key-cryptography
 - https://www.manning.com/books/real-world-cryptography
+- https://blog.cryptographyengineering.com/2023/04/24/book-review-red-team-blues
 
 ### Course
 

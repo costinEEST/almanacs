@@ -34,3 +34,7 @@
 ### Radio
 
 - [Comparing Semgrep and CodeQL](https://m.youtube.com/watch?v=kFHnxfDd2g8&t=39s)
+
+### Watch
+
+- [Semgrep - The difference between pattern-not and pattern-not-inside](https://youtu.be/g_Yrp9_ZK2c)

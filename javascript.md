@@ -14,6 +14,7 @@
 - https://github.com/imposters-handbook/videos
 - [Learning Algorithms Through Programming and Puzzle Solving](https://leanpub.com/algo) + https://discrete-math-puzzles.github.io/everything.html
 - https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+- https://github.com/nnupoor-zz/js_designpatterns
 
 ### AST
 
@@ -699,7 +700,6 @@
 - https://ryzokuken.dev/slides
 - https://blog.1password.com/docusaurus-documentation-framework
 - https://jonmeyers.io/blog-series/cookies-in-remix
-- [Things I've learned about writing good READMEs](https://github.com/hackergrrl/art-of-readme)
 - https://pawelgrzybek.com/whats-new-in-ecmascript-2023
 
 ### Debugging

@@ -72,6 +72,7 @@
 - https://www.gamespot.com/articles/5-ways-to-dumb-down-your-smart-tv/1100-6504081
 - [vertical wide](https://twitter.com/rauschma/status/1556315459489865729)
 - https://www.theverge.com/23542274/samsung-dell-5k-6k-monitors-apple-macbook-macos-ces-2023
+- [As a hacker, how many monitors do you use?](https://twitter.com/hakluke/status/1648402807358144514)
 
 ### Phone
 

@@ -5,8 +5,10 @@
 - https://snippets.page/posts/sync-obsidian-notes-between-pc-and-android-with-syncthing
 - https://www.reddit.com/r/ObsidianMD/comments/12608s7/what_was_the_last_thing_you_found_out_obsidian
 - https://github.com/Dmytro-Shulha/obsidian-css-snippets
+- https://bagerbach.com/blog/obsidian-ai
+- https://bagerbach.com/blog/projects-and-goals-obsidian
 
-### Community 
+### Community
 
 - https://github.com/brettkromkamp/awesome-knowledge-management
 

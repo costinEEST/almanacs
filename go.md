@@ -64,17 +64,6 @@
 
 - https://github.com/KpLi0rn/LearnCompiler/tree/main/GoCompiler
 
-### Cinema
-
-- [justforfunc: Programming in Go](https://m.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/playlists)
-- [Code Club | Bitfield Consulting](https://m.youtube.com/playlist?list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3)
-- [Golang University 101 - Learn Golang | Bitfield Consulting](https://m.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
-- https://m.youtube.com/playlist?list=PLZaEVINf2Bq8mP4mosgB9tXb4ycrAeA9y
-- [Sean DuBois](https://siobud.com)
-- https://github.com/GopherConRu/talks
-- [Roberto Clapis](https://empijei.science/talks.html)
-- https://xeiaso.net/talks/conf42-static-analysis
-
 ### Data structures
 
 - https://github.com/TheAlgorithms/Go
@@ -122,6 +111,7 @@
 ### Tool
 
 - [Repo of useful scripts](https://github.com/lc/hacks)
+- https://github.com/Pisush/chatGPT-plugin-template
 - [Web screenshot utility using Chrome Headless](https://github.com/sensepost/gowitness)
 - [Sqlvet performs static analysis on raw SQL queries in your Go code base. ](https://github.com/houqp/sqlvet)
 - [Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.](https://github.com/lc/gau)
@@ -238,3 +228,15 @@
 - [A static site generator for capturing quick notes](https://github.com/senorprogrammer/til)
 - https://adri.ddns.net/about
 - https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go
+
+### Watch
+
+- [justforfunc: Programming in Go](https://m.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/playlists)
+- [Code Club | Bitfield Consulting](https://m.youtube.com/playlist?list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3)
+- [Golang University 101 - Learn Golang | Bitfield Consulting](https://m.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
+- https://m.youtube.com/playlist?list=PLZaEVINf2Bq8mP4mosgB9tXb4ycrAeA9y
+- [Sean DuBois](https://siobud.com)
+- https://github.com/GopherConRu/talks
+- [Roberto Clapis](https://empijei.science/talks.html)
+- https://xeiaso.net/talks/conf42-static-analysis
+- https://github.com/matt4biz/go-class-slides/tree/trunk/xmas-2020#readme

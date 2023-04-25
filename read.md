@@ -6,14 +6,13 @@
 - https://discuss.bevry.me/t/2019-01-05-how-to-read-a-book/423
 - https://www.nylon.com/articles/books-every-woman-should-read-by-30
 
-
 #### Community
 
 - https://academyofideas.com/books/#propaganda-and-brainwashing
 - https://mostrecommendedbooks.com/experts
 - https://bibliotecaexploratorilor.substack.com/p/stiinta-este-pentru-toata-lumea
 
-### Course 
+### Course
 
 - [History of the Book and of Reading | Carol Chiodo](https://sites.google.com/view/historyofthebookreading)
 
@@ -47,6 +46,7 @@
 - [Reinventing the Book](https://jessmart.in/notes/CF54B975-94E1-4244-9EE7-9D3890FA8C96-4272-0006761CAB8A1FA6)
 - [An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices ](https://github.com/koreader/koreader)
 - https://github.com/robertmartin8/kindleclippings
+- https://recolabs.dev/post/how-to-use-simple-rss-feeds-to-monitor-saas-application-in-slack
 
 ### Poetry
 
@@ -123,3 +123,4 @@
 - [Lev Lazinskiy](https://bookshop.org/shop/levlaz)
 - [Hidde de Vries](https://hidde.blog/books)
 - [Blas Moros](https://blas.com/books/worth-re-reading)
+- [Christian Houmann](https://bagerbach.com/books)

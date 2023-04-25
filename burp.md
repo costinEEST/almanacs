@@ -40,6 +40,7 @@
 - https://github.com/bsysop/IpLogger
 - https://github.com/vmware/burp-rest-api
 - [bypassing client-side encryption using custom logic for manual and automation testing with Python and NodeJS](https://github.com/Anof-cyber/PyCript)
+- [Request minimizer will hide cookies from HTTP requests](https://twitter.com/osiryszzz/status/1648296175894925312)
 
 ### Cinema
 

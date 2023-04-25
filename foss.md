@@ -9,7 +9,7 @@
 - http://gustavbertram.com/learning/free_culture
 - [Live Coding: A User's Manual](https://livecodingbook.toplap.org)
 
-### Cinema
+### Watch
 
 - [How to Contribute to Open Source (Next.js)](https://twitter.com/leeerob/status/1482519857195274242)
 - [Corporate Open Source Anti-patterns](https://youtu.be/Pm8P4oCIY3g)
@@ -17,9 +17,11 @@
 - https://www.poberezkin.com/posts/2019-07-10-talk-why-you-should-open-source-for-real.html
 - https://www.learnwithjason.dev/create-and-deploy-a-documentation-website
 - https://m.youtube.com/@effaustin/videos
+- [How to write really good docs](https://youtu.be/xi4ClIif6rY)
 
 ### Community
 
+- [Follow people getting paid to write effective docs](https://twitter.com/jutanium/status/1645052043655016448)
 - https://github.com/nickdesaulniers/What-Open-Source-Means-To-Me
 - [Coraline Ada Ehmke](https://where.coraline.codes/media)
 - https://github.com/RunaCapital/awesome-oss-alternatives
@@ -57,6 +59,7 @@
 
 ### Miscellaneous
 
+- [Things I've learned about writing good READMEs](https://github.com/hackergrrl/art-of-readme)
 - https://www.freecodecamp.org/news/oss-security-best-practices
 - https://github.com/ankumar/Open-software-design
 - https://thoughtspile.github.io/2021/11/08/semver-challenges

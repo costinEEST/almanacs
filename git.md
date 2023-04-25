@@ -173,7 +173,9 @@
 
 ### Security
 
+- https://github.com/TheCoreMan/make-git-better-2
 - https://justi.cz/security/2021/04/20/cocoapods-rce.html
 - https://blog.ryotak.me/post/homebrew-security-incident-en
 - https://github.com/awslabs/git-secrets
 - https://www.praetorian.com/blog/self-hosted-github-runners-are-backdoors
+- https://blog.ryotak.net/post/github-actions-staff-access-token-en

@@ -108,6 +108,7 @@
 - https://github.com/jscomplete/book-node-beyond-basics
 - [Multithreaded JavaScript](https://github.com/MultithreadedJSBook/code-samples)
 - https://exploringjs.com/nodejs-shell-scripting
+- https://github.com/fraxken/ebook_nodejs
 
 ### Bot
 
