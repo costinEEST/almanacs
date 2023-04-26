@@ -119,6 +119,7 @@
 - https://www.goodreads.com/book/show/236996.Beginning_Chinese_Reader_Part_1
 - https://github.com/biopolyhedron/rime-middle-chinese
 - https://github.com/jhuangtw/awesome-taigi
+- [Mandarin preschool](https://www.youtube.com/playlist?list=PLBCLkePmpI61hTUgFtDlcmX2fM8V_8jQq)
 
 ### Arabic
 
