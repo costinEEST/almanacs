@@ -47,6 +47,7 @@
 - [The Human Resource Machine is about how processors work](https://tomorrowcorporation.com/humanresourcemachine)
 - [geography game with Google Map StreetView](https://github.com/GeoGuess/GeoGuess)
 - https://github.com/deck-of-cards/deck-of-cards
+- https://github.com/SaraVieira/lets-play-retro-games
 
 ### Mobile based
 

@@ -232,6 +232,7 @@
 - https://twitter.com/Alex_Sideridou/status/1513460385378185224 + https://www.facebook.com/cinqmotsgrecs
 - https://alamot.github.io/categories/languages
 - https://twitter.com/colingorrie/status/1611864508745584640
+- https://www.youtube.com/playlist?list=PL67dm6qliEMCOUl_GtHpya0PnnTE4WDW6
 
 ### Hungarian
 
@@ -349,6 +350,7 @@
 - https://aiydreen.com/portuguese
 - https://www.udemy.com/course/faq-perguntas-e-respostas-frequentes-em-ingles
 - https://sites.google.com/view/nd-portuguesesources/home
+- https://www.youtube.com/playlist?list=PL67dm6qliEMDvf0uRB0m1QusUJHaye2QV
 
 ### Romanian
 
@@ -379,6 +381,9 @@
 - https://github.com/MitPitt/awesome-russian
 - http://www.omniglot.com/language/phrases/russian.php
 - [Marina Niznik](https://www.facebook.com/orelb/posts/pfbid02uTjk5nEij2TsJCbvNrqQq8wn5oAbFEBbGGHrGmr43DpVAfdJd8ywBqguf4rXwZVUl)
+- https://www.youtube.com/playlist?list=PL67dm6qliEMD2CkCxYWzw3vVXrO5L_dFz
+- https://www.youtube.com/playlist?list=PL67dm6qliEMBgT4vS4He9OQW3EkW4JrLj
+- https://www.youtube.com/playlist?list=PL67dm6qliEMCkk8vhFBOJ2fbkS5BoL2cb
 
 ### Rare
 
@@ -456,6 +461,7 @@
 
 - https://github.com/slowernews/notebook/blob/master/on-polish-language.md
 - https://m.youtube.com/c/Ecolinguist/playlists
+- https://www.youtube.com/@PolishwithMonika/playlists?view=1&sort=lad&flow=grid
 
 ### Ukrainian
 

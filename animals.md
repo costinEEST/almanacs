@@ -10,7 +10,7 @@
 - https://www.udemy.com/course/dog-obedience-training
 - https://www.coursera.org/learn/cats-and-dogs
 
-### Community 
+### Community
 
 - [Dean R. Lomax, paleontologist](https://www.deanrlomax.co.uk/Autobiography.html)
 
@@ -24,6 +24,7 @@
 - https://stiinta-pentru-toti.blogspot.com/2022/12/aparitie-editoriala-atlasul-speciilor.html
 - https://www.audubon.org/news/the-2022-audubon-photography-awards-top-12-videos
 - https://www.tildecafe.org/2017/01/30/68-physics-bird-nests
+- https://www.mentalfloss.com/article/52624/11-things-we-know-about-dodo
 
 ### Crawler
 
@@ -81,7 +82,7 @@
 - https://www.outsideonline.com/2423441/dog-days-summer
 - https://mindcraftstories.ro/mediu/povesti-cu-viespi-micii-carausi-de-glod-si-fauritorii-de-hartie
 - https://www.nationalgeographic.com/animals/article/bumblebees-bite-plants-flower-early
-- [Dog training |  Eric Bell](https://m.youtube.com/playlist?list=PLB8JqSBrZCVG7z_YtwYEWNnaDGuLmt-Xh)
+- [Dog training | Eric Bell](https://m.youtube.com/playlist?list=PLB8JqSBrZCVG7z_YtwYEWNnaDGuLmt-Xh)
 - https://przekroj.pl/en/science/chatty-nature-mikolaj-golachowski
 - https://www.amazon.com/Missing-Lynx-Future-Britains-Mammals/dp/1472957342
 - https://www.scribd.com/document/59708597/Atlasul-pe%C8%99tilor-din-apele-R-P-R-1963
@@ -90,7 +91,7 @@
 - https://www.totpescuit.ro/cum-as-fi-pescuit-la-dunare/#comment-436
 - [Atlasul peştilor din Rezervaţia Biosferei Delta Dunării | Vasile Oţel](https://books.google.ro/books/about/Atlasul_pe%C5%9Ftilor_din_Rezerva%C5%A3ia_Biosfe.html?id=3za5rQEACAAJ)
 - https://www.printrecarti.ro/petre-banarescu + https://danikurzeluk.blogspot.com/2010/05/in-memoriam-acad-dr-doc-petru-mihai.html
-- [Sergiu Carausu](https://ibn.idsi.md/sites/default/files/imag_file/Si%20in%20Moldova%20se%20nasc%20oameni%20prof%20dr%20Sergiu%20Carausu%20(1907-1997).pdf) + https://www.printrecarti.ro/s-carausu
+- [Sergiu Carausu](<https://ibn.idsi.md/sites/default/files/imag_file/Si%20in%20Moldova%20se%20nasc%20oameni%20prof%20dr%20Sergiu%20Carausu%20(1907-1997).pdf>) + https://www.printrecarti.ro/s-carausu
 - https://www.targulcartii.ro/george-d-vasiliu + https://www.printrecarti.ro/george-vasiliu
 - https://www.printrecarti.ro/th-busnita
 - https://www.targulcartii.ro/i-radulescu + https://www.printrecarti.ro/ion-radulescu
@@ -110,6 +111,6 @@
 - https://www.allaboutbirds.org/news/the-cornell-lab-review-affordable-full-size-8x42-binoculars
 - https://interestingengineering.com/science/neanderthals-hunted-10-ton-giant-elephants
 
-### Rodent 
+### Rodent
 
 - [Sex and no sleep may be killing endangered quolls](https://www.bbc.com/news/world-australia-64480070)

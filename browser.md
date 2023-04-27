@@ -335,6 +335,7 @@ javascript: (() =>
 - https://github.com/Norfeldt/github-issue-reactions-browser-extension
 - [Firefox extension to highlight and save text from the web](https://github.com/frnsys/hili)
 - [A browser extension to detect website censorship methods as you surf](https://github.com/KarimPwnz/censorship-detector)
+- [removes ads and unwanted content from your LinkedIn feed](https://github.com/5Diraptor/CleanUp-LinkedIn-Chrome-Extension)
 
 ### Chrome
 

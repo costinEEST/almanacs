@@ -530,6 +530,7 @@
 - https://github.com/rauschma/minimal-react
 - https://github.com/yakkomajuri/react-from-scratch
 - https://github.com/HearTao/ts-react-hooks-tools
+- [CLI utility for quickly creating new React components](https://github.com/joshwcomeau/new-component)
 - [A boilerplate for SSR'd Vite, React 17, and TypeScript 4.3](https://blog.jonlu.ca/posts/vite)
 - https://javascript.plainenglish.io/10-ways-to-host-your-react-app-for-free-cf91fe615177
 - https://www.tpjnorton.com/blog/posts/next-js-12-performance-test-builds-appear-to-be-slower-not-faster
@@ -545,3 +546,4 @@
 - https://www.zachleat.com/web/react-criticism
 - https://github.com/gactjs/research/tree/main/react-instance-identity-model
 - https://electricui.com/blog/wishlist-for-a-react-compiler
+- [Glossary + Explain Like I'm Five](https://github.com/reactwg/react-18/discussions/46)
