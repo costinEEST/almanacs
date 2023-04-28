@@ -429,6 +429,7 @@
   - [Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database)](https://github.com/pashpashpash/vault-ai)
 - Tool
   - [Pytorch based speech enhancement toolkit](https://github.com/shahules786/mayavoz)
+  - [Tool to help artists to prevent their artistic styles from being learned and mimicked by new AI-art models such as MidJourney, Stable Diffusion and their variants](https://glaze.cs.uchicago.edu/index.html)
 
 ### Genetic algorithms
 

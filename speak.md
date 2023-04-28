@@ -233,6 +233,8 @@
 - https://alamot.github.io/categories/languages
 - https://twitter.com/colingorrie/status/1611864508745584640
 - https://www.youtube.com/playlist?list=PL67dm6qliEMCOUl_GtHpya0PnnTE4WDW6
+- [Ion Andrei Țârlescu - Curs de paleografie greacă](https://www.youtube.com/playlist?list=PLCU7J3J3XZz8A-LZHOz0MN3blswca-UIA)
+- http://filologieclasica.ro/ro/admitere/?g=Master#Bibliografie
 
 ### Hungarian
 
@@ -329,6 +331,8 @@
 - https://ro.wikipedia.org/wiki/Filosofie_medieval%C4%83
 - https://classicalliberalarts.com/blog/alcuin-735-804-ad-and-the-seven-liberal-arts
 - https://biblioteca-digitala.ro/?pub=6334-morfologia-istorica-a-limbii-latine
+- https://ro.wikipedia.org/wiki/Gabriela_Cre%C8%9Bia#Volume
+- https://medium.com/in-medias-res/greek-and-latin-are-finding-a-voice-at-oxford-8c96adfaed87
 
 ### Lithuanian
 

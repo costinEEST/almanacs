@@ -103,6 +103,10 @@
 
 - https://github.com/amirgamil/lispy
 
+### Practice
+
+- https://github.com/danvk/aoc2021 + https://effectivetypescript.com/2022/02/06/advent-of-code-2021-golang
+
 ### Testing
 
 - https://github.com/quii/learn-go-with-tests

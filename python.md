@@ -316,6 +316,7 @@
 
 - https://github.com/rbaron/advent-of-code-2020
 - https://github.com/rbaron/advent-of-code-2021
+- https://github.com/danvk/advent2019 + https://danvdk.medium.com/python-tips-tricks-for-the-advent-of-code-2019-89ec23a595dd
 
 ### Tool
 

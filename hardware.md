@@ -54,6 +54,7 @@
 - https://youtu.be/myKs04lfuy8 + https://twitter.com/LennertWo/status/1558378348732026881 + https://twitter.com/dcuthbert/status/1575463455770943488 + https://api.starlink.com/public-files/StarlinkWelcomesSecurityResearchersBringOnTheBugs.pdf + https://threatpost.com/starlink-hack/180389/
 - [Video history of Japanese semiconductor industry](https://m.youtube.com/playlist?list=PLyynFETmdQDSSTrYW6YebinY0_g8PVWai)
 - https://hackaday.com/2023/04/04/supercon-2022-chris-combs-reveals-his-art-world-compatibility-layer
+- [Guide to basic electronics; unprofessional edition | Louis Rossmann](https://www.youtube.com/playlist?list=PLkVbIsAWN2ltOWmriIdOc5CtiZqUTH7GT)
 
 ### Cheat sheet
 
