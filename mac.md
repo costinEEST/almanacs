@@ -14,6 +14,7 @@
 - https://github.com/stars/Cykelero/lists/other-mac-apps
 - https://github.com/stars/Cykelero/lists/appkit-apps
 - https://github.com/Correia-jpv/fucking-open-source-mac-os-apps
+- [Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming](https://github.com/waydabber/BetterDisplay)
 
 ### Book
 

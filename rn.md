@@ -195,6 +195,7 @@
 - https://github.com/r0b0t3d/react-native-carousel
 - [utility-first universal design system - powered by Tailwind](https://github.com/marklawlor/nativewind)
 - https://levelup.gitconnected.com/stop-using-react-native-async-storage-fdbcc05a6de3
+- https://github.com/MinaSamir11/react-native-in-app-review
 
 ### Debugging
 

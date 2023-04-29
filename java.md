@@ -108,6 +108,10 @@
 - https://github.com/kdn251/interviews
 - [Java Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/javaDataStructures)
 
+### Debugging
+
+- https://www.skullsecurity.org/2023/bsidessf-2023-writeups--flat-white--simpler-java-reversing-
+
 ### Development
 
 - https://github.com/ThomasVitale/devtalks-2022-serverless-java + https://speakerdeck.com/thomasvitale/serverless-java-with-spring-boot
