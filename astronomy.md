@@ -107,6 +107,7 @@
 - https://www.zooniverse.org/projects/sandorkruk/hubble-asteroid-hunter
 - [Astronomie de amatori Bazar](https://www.facebook.com/groups/1815602245358381)
 - https://www.facebook.com/groups/astroclubuliasi
+- https://viatainpunctulzero.wordpress.com/2023/02/16/astronomia-stiinta-si-pasiune
 
 ### Constellation
 

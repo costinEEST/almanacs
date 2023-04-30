@@ -476,6 +476,7 @@
 - https://profy.dev/article/debug-react-vscode
 - [Solving common performance pitfalls with React tooling and hooks](https://www.causal.app/blog/react-perf)
 - https://julesblom.com/writing/react-optional-parameters
+- https://richiemccoll.com/visualising-front-end-performance-bottlenecks
 
 ### Testing
 
@@ -509,6 +510,7 @@
 - https://github.com/HugoDF/jest-handbook-examples
 - https://www.udemy.com/course/typescript-with-react-jest-testing
 - https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme + https://m.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
+- https://github.com/richiemccoll/book-search-tdd-react
 
 ### Tool
 

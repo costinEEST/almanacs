@@ -240,6 +240,7 @@
 - https://github.com/harpribot/awesome-information-retrieval
 - https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications
 - https://github.com/binhnguyennus/awesome-scalability
+- https://github.com/huachaohuang/awesome-dbdev
 
 ### PostgreSQL
 

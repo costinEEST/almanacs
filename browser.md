@@ -24,6 +24,7 @@
 - https://wolfgangrittner.dev/how-to-use-clipboard-api-in-firefox
 - https://github.com/azu/url-cheatsheet
 - https://www.macarthur.me/posts/navigating-the-event-loop
+- https://richiemccoll.com/javascript-scheduling
 
 ### Bookmarklet
 

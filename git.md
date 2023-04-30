@@ -71,6 +71,7 @@
 ### Github
 
 - https://github.com/tmcw/github-best-practices
+- https://richiemccoll.com/on-demand-code-review-with-chatgpt + https://github.com/nearform/reviewbot
 - https://github.com/rafgraph/spa-github-pages
 - https://github.com/troessner/articles/blob/master/docs/2016-02-06-how-to-use-github-to-evaluate-developers.md
 - [Handbook for Octokit maintainers and GitHub integrators](https://github.com/octokit/handbook)

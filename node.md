@@ -544,7 +544,7 @@
 - https://github.com/ancasicolica/node-wifi-scanner
 - [Module for setting up network interface(s) ip address, dns, and default routes of physical network interfaces, VLAN, and bridged interfaces](https://github.com/adonespitogo/node-set-ip-address)
 
-### Testing
+### `node:test`
 
 - https://github.com/doppelganger9/fruit-basket
 - https://engineering.klarna.com/6-lessons-learned-from-optimizing-the-performance-of-a-node-js-service-f163cac20473
@@ -569,6 +569,7 @@
 - https://larswaechter.dev/blog/nodejs-api-testing
 - https://hire.jonasgalvez.com.br/2023/jan/31/fastify-testing
 - https://github.com/grissius/jest-is-a-rude-needy-clown-and-eats-lot-of-memory
+- https://richiemccoll.com/writing-tests-with-fastify-and-node-test-runner
 
 ### Scrapping
 

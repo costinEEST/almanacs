@@ -83,7 +83,7 @@
 - [Quantifying Memory Unsafety and Reactions to It](https://www.usenix.org/conference/enigma2021/presentation/gaynor)
 - https://github.com/DevonCrawford/Video-Editing-Automation + https://m.youtube.com/playlist?list=PLhsehOUFGYaV3tJaEuWOeN1SI7eUEs7la
 - https://www.udemy.com/course/an-introduction-to-debugging-c-and-java
-- https://blog.robertelder.org/regular-expressions + https://m.youtube.com/playlist?list=PLp31D6HATKfdc5PSJTx7rIvlTLCSM5nDi
+- https://blog.robertelder.org/regular-expressions + [Regular Expressions Explained From The Ground Up](https://m.youtube.com/playlist?list=PLp31D6HATKfdc5PSJTx7rIvlTLCSM5nDi)
 - [YouTube Channels to Level Up Your Programming Skills](https://news.ycombinator.com/item?id=24589474)
 - https://github.com/riti2409/Resources-for-preparation-Of-Placements
 - https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck
