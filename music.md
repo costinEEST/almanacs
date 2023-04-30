@@ -32,6 +32,7 @@
 ### Cheat sheet
 
 - [How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
+- https://github.com/vpavlenko/study-music + [meta-corpus of and code library for the functional harmonic analysis of music](https://github.com/MarkGotham/When-in-Rome)
 - [The musical time machine](https://radiooooo.com)
 - [Royalty free songs](https://m.youtube.com/audiolibrary)
 - http://lukemuehlhauser.com/how-to-fall-in-love-with-modern-classical-music-4 + https://open.spotify.com/playlist/27Ga7s7D4lFUWhZQZ8heqM
@@ -50,7 +51,6 @@
 - https://catalin.francu.com/Music
 - https://onemileatatime.com/guides/airline-boarding-music
 - http://www.charlespetzold.com/essays
-- https://github.com/vpavlenko/study-music
 
 ### Cinema
 

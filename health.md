@@ -111,6 +111,7 @@
 - https://www.theguardian.com/books/2021/sep/29/top-10-books-about-human-consciousness-charles-foster-being-a-human
 - https://peterattiamd.com/rickdoblin
 - https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation
+- [Mystic Chemist: The Life of Albert Hofmann and His Discovery of LSD](https://synergeticpress.com/catalog/mystic-chemist)
 
 ### Cooking
 

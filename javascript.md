@@ -689,6 +689,7 @@
 - [Write a Babel Plugin | Ryan Stelly](https://m.youtube.com/playlist?list=PLimXc_loopipqrNW48HSDf-dqENp7Skkq)
 - [Using Vite to develop an SPA in the context of a production page](https://www.macarthur.me/posts/project-local-spa-onto-production-page)
 - [manage Google Calendars, initially to service "Tango This Week in Singapore"](https://github.com/tangueros/ttwis)
+- https://maximilianocontieri.com/how-to-create-a-wordle-with-tdd-in-javascript
 
 ### Documentation
 

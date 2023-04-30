@@ -189,3 +189,4 @@
 - [Test Automation Made Simple](https://github.com/karatelabs/karate)
 - https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
 - [Introduction to observability | Test Automation U](https://m.youtube.com/playlist?list=PLsiHUuozEFFoqBhY8iK8v1tpatS_b3B5M)
+- https://github.com/luontola/tdd-tetris-tutorial + https://www.youtube.com/playlist?list=PLSADDT9dzgRCjVvS13ekPr1KwX_JkDQJM

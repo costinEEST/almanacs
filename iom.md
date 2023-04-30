@@ -159,6 +159,7 @@
 - https://medium.com/starkware/redefining-scalability-5aa11ffc5880
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/jpantunes/awesome-cryptoeconomics
+- https://github.com/anders94/blockchain-demo
 
 ### Boilerplate
 

@@ -7,6 +7,7 @@
 ### Course
 
 - https://www.vuemastery.com/courses
+- https://twitter.com/jangiacomelli/status/1649031547360624641 + [Serverless apps with FastAPI, DynamoDB, and Vue](https://testdriven.io/courses/serverless-fastapi)
 
 ### Cinema
 
