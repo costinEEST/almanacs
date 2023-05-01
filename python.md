@@ -382,6 +382,7 @@
 - [Fully functional sticky notes app in your terminal](https://github.com/Cvaniak/NoteSH)
 - https://github.com/gerph/memory-layout-diagram
 - https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi
+- https://nuculabs.dev/p/getting-started-with-pdoc3-for-python
 
 ### Testing
 

@@ -128,6 +128,7 @@
 - https://www.livestrong.com/article/13722674-healthy-comfort-food-recipes
 - https://www.google.com/search?q=Kitab+al-Tabikh+Cartea+felurilor+de+m%C3%A2ncare
 - https://www.smithsonianmag.com/arts-culture/the-ten-best-books-about-food-of-2022-180981175
+- [Everything Marijuana, CBD, and Weed](https://www.humblebundle.com/downloads?key=pt2cAX8rd2XNkkUb)
 
 ### Cholesterol
 

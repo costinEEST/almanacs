@@ -33,6 +33,7 @@
 - https://www.otsukare.info/2022/10/25/css-values-definitions
 - https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning
 - https://benmyers.dev/blog/native-visually-hidden
+- https://www.robinrendle.com/notes/the-details-element-is-amazing
 
 ### Book
 
@@ -108,6 +109,7 @@
 - [Traité des couleurs servant à la peinture à l’eau | A. Boogert](https://www.thisiscolossal.com/2014/05/color-book)
 - [Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space](https://github.com/meodai/poline) + https://news.ycombinator.com/item?id=34662722 + https://elastiq.notion.site/elastiq/Color-My-Journey-Through-the-Spectrum-2cfd8dc540474b1c9ef381b9a3bc0f8e + https://m.youtube.com/@meodai/playlists?view=1&sort=lad&flow=grid
 - https://biblioteca-digitala.ro/?pub=6191-analiza-structurala-a-vocabularului-limbii-romane-contemporane-numele-de-culori
+- https://keithjgrant.com/posts/2023/04/its-time-to-learn-oklch-color
 
 ### Community
 
@@ -199,6 +201,7 @@
 ### Selector
 
 - https://www.w3.org/2021/10/TPAC/demos/css-nesting.html
+- https://css-tip.com/first-last-element-with-class
 - https://jeremenichelli.io/2015/11/the-first-child-reset
 - https://jaketracey.com/styling-accessible-html-file-inputs
 - [Giving users and developers more control over focus](https://blog.chromium.org/2020/09/giving-users-and-developers-more.html)
@@ -244,6 +247,7 @@
 - https://vgpena.github.io/using-css-grid-the-right-way
 - [Extending elements beyond the content area with CSS Grid & named grid lines](https://ryanmulligan.dev/blog/layout-breakouts)
 - https://utopia.fyi/blog/designing-a-utopian-layout-grid + https://utopia.fyi/grid/calculator
+- https://developer.chrome.com/en/blog/reading-order
 
 ### FlexBox
 

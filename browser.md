@@ -383,6 +383,10 @@ javascript: (() =>
 
 - https://textslashplain.com/2023/04/12/auth-flows-in-a-partitioned-world
 
+### Contact Picker API
+
+- https://evilmartians.com/chronicles/dont-wait-lets-use-browser-contact-picker-api-now
+
 ### Geolocation API
 
 - https://daniel.fone.net.nz/blog/2020/09/14/geolocation-api-demo

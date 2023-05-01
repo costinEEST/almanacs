@@ -100,6 +100,7 @@
 ### Business
 
 - https://github.com/mezod/awesome-indie#newsletters
+- [Ethan Mollick](https://www.oneusefulthing.org/archive)
 - [Sergiu Biriș](https://us20.campaign-archive.com/home/?u=7fc44f22e7fb41560c5ec4a08&id=e046ca20a2) + https://sergiubiris.substack.com/archive
 - [Dragoș Nicolaescu](https://us18.campaign-archive.com/home/?u=e42f65c9815d0e1620850077c&id=b4f100fa05) + https://dragosnicolaescu.substack.com/archive
 - [Human Finance SRL](https://us19.campaign-archive.com/home/?u=224b34ca20549631ee1243970&id=b44f21a826)
