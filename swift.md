@@ -13,6 +13,7 @@
 - [Mac menu bar tool to view the architecture of the running application](https://github.com/billycastelli/Silicon-Info)
 - https://github.com/Dashlane/apple-apps
 - https://github.com/stars/antonreshetov/lists/code-editor
+- [Dabbing out food waste and over-spending on groceries](https://github.com/ubclaunchpad/food-doods)
 
 ### Algorithm
 

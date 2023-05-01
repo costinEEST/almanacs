@@ -186,6 +186,7 @@
 - [A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow](https://github.com/meilisearch/meilisearch)
 - [A command-line DNS client](https://github.com/ogham/dog)
 - https://github.com/sstadick/cargo-bundle-licenses
+- [bridge between GPT-4 and a headless Chromium browser, allowing you to automate actions simply by describing them to the program](https://github.com/m1guelpf/browser-agent)
 
 ### Opinion
 

@@ -421,6 +421,7 @@
   - [Unlock the Power of AI: Build a ChatGPT Chatbot For Your Data](https://chatwithdata.teachable.com/p/aichatbotdata)
   - [Assemble, configure, and deploy autonomous AI Agents in your browser](https://github.com/reworkd/AgentGPT)
   - [LLM primers](https://www.linkedin.com/feed/update/urn:li:share:7045245910087307264)
+  - [CLI tool to test prompt effectiveness easily against AI models](https://github.com/dschenkelman/promptest)
 - Opinion
   - [How AI misrepresents culture through a facial expression](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)
 - Stable Diffusion
@@ -437,6 +438,9 @@
   - https://www.learningmachines101.com/book-review-markov-logic-interface-layer-artificial-intelligence
 
 ### Machine learning
+
+- Algorithm
+  - [The release of the Twitter algorithm, annotated for recsys](https://github.com/igorbrigadir/awesome-twitter-algo)
 
 - Book
 

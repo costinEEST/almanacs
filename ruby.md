@@ -363,6 +363,7 @@
 - [A Ruby on Rails Event Scheduling App Tutorial from web-crunch.com](https://github.com/justalever/bookme_demo)
 - [Self-host your own Feedbin RSS reader in Docker](https://github.com/angristan/feedbin-docker)
 - [The Social Network for eDemocracy](https://github.com/airesis/airesis)
+- https://github.com/hpi-swt2/bookkeeper-portal-red
 
 ### Internals
 

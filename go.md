@@ -8,6 +8,7 @@
 - https://github.com/evrone/go-clean-template
 - https://github.com/bquenin/go-modern-rest-api-tutorial
 - https://github.com/speakeasy-api/rest-template-go
+- [book management application](https://github.com/andrewzulaybar/books)
 
 ### Book
 

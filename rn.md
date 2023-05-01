@@ -28,6 +28,7 @@
 - https://github.com/raindropio/mobile
 - https://github.com/Trancever/twitterClone
 - [control your smart greenhouse via your smartphone](https://github.com/lucadibello/in-house-greenhouse)
+- [translates between russian and english](https://github.com/narendrasss/vokab)
 
 ### Cinema
 

@@ -26,6 +26,7 @@
 ### Course
 
 - https://linuxjourney.com + https://github.com/cindyq/linuxjourney
+- https://github.com/rwxrob/boost + https://skilstak.io/boost
 - https://cmdchallenge.com
 - https://omu.rce.so/lessons/linux-basics
 - https://github.com/razvand/posix-system-programming

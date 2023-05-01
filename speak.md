@@ -292,6 +292,8 @@
 - https://www.goodreads.com/review/list/29664620-glenn?shelf=language-learning
 - [Japanese Calligrapher Takumi](https://m.youtube.com/@takumitohgu)
 - https://github.com/LuanRT/Japanese-Word-Of-The-Day
+- [dictionary resource that attaches furigana to individual words](https://github.com/Doublevil/JmdictFurigana)
+- https://github.com/SethClydesdale/genki-study-resources
 
 ### Korean
 

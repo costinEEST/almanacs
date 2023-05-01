@@ -69,6 +69,7 @@
 - [Use SQL to instantly query your cloud services (AWS, Azure, GCP and more)](https://github.com/turbot/steampipe)
 - [If you work with SQL Server, dbatools is a lifesaver](https://www.manning.com/books/learn-dbatools-in-a-month-of-lunches)
 - [query engine, which can be used to query any data source or combination of data sources: databases, APIs, raw files (JSON, CSV, etc.), git version control, etc](https://news.ycombinator.com/item?id=34705246) + https://github.com/obi1kenobi/trustfall + https://www.hytradboi.com/2022/how-to-query-almost-everything
+- Generate an ER Diagram based on your Prisma schema: https://github.com/keonik/prisma-erd-generator + https://github.com/Skn0tt/prisma-erd
 
 ### Security
 

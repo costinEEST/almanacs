@@ -6,3 +6,5 @@
 ### Plugin
 
 - [Lua plugin for decoding Google protobuf packets](https://github.com/128technology/protobuf_dissector)
+- https://github.com/awakecoding/wireshark-rdp
+- https://github.com/awakecoding/FreeRDP-Manuals

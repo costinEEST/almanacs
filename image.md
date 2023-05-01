@@ -72,6 +72,9 @@
 - [Colorize your photos for free](https://palette.fm)
 - [Compare James Webb Space Telescope images to older images](https://github.com/JohnEdChristensen/WebbCompare)
 - [A very compact representation of an image placeholder](https://github.com/evanw/thumbhash)
+- [A cross platform HTML5 QR code reader](https://github.com/mebjas/html5-qrcode)
+- https://github.com/nayuki/QR-Code-generator
+- [CLI tool to search for images with Google Reverse Image Search](https://github.com/tanaikech/goris)
 
 ### Photo
 

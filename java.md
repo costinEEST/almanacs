@@ -1,3 +1,12 @@
+### Algorithm
+
+- https://m.youtube.com/user/purpongie/playlists
+- https://github.com/williamfiset/Algorithms#geometry
+- https://github.com/anthonynsimon/java-ds-algorithms
+- https://github.com/kdn251/interviews
+- [Java Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/javaDataStructures)
+- https://github.com/nayuki/Nayuki-web-published-code
+
 ### API
 
 - https://www.toptal.com/back-end/reverse-engineering-the-private-api-hacking-your-couch
@@ -100,14 +109,6 @@
 - https://github.com/mgp/effective-rxjava
 - https://github.com/mgp/good-enough-java
 
-### Data structures
-
-- https://m.youtube.com/user/purpongie/playlists
-- https://github.com/williamfiset/Algorithms#geometry
-- https://github.com/anthonynsimon/java-ds-algorithms
-- https://github.com/kdn251/interviews
-- [Java Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/javaDataStructures)
-
 ### Debugging
 
 - https://www.skullsecurity.org/2023/bsidessf-2023-writeups--flat-white--simpler-java-reversing-
@@ -118,6 +119,7 @@
 - https://perlun.eu.org/en/2021/12/30/the-dangers-of-referential-equality-in-java
 - https://github.com/TooTallNate/Java-WebSocket
 - [Embedding Node.js and V8 in Java](https://docs.google.com/presentation/d/1lQ8xIHuywuE0ydqm2w6xq8OeQZO_WeTLYXW9bNflQb8) + https://github.com/caoccao/Javet
+- https://github.com/nayuki/x86-Assembler
 
 ### Tool
 

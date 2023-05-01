@@ -67,6 +67,7 @@
 - https://blog.esper.io/android-13-exact-alarm-api-restrictions
 - https://benjamin-altpeter.de/android-top-charts-reverse-engineering + https://github.com/baltpeter/parse-play + https://twitter.com/baltpeter/status/1537569735738523649
 - https://github.com/LineageOS/android_device_xiaomi_sdm845-common
+- https://blog.minhazav.dev/android-camera-hardware-explained
 
 ### Tool
 

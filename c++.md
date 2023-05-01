@@ -14,6 +14,7 @@
 - https://markm208.github.io/cppbook
 - https://asawicki.info/news?x=tag&tag=books
 - https://github.com/PacktPublishing/Deciphering-Object-Oriented-Programming-with-CPP
+- https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
 
 ### Cheat sheet
 
