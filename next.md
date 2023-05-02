@@ -18,6 +18,7 @@
 - https://github.com/mckaywrigley/wait-but-why-gpt
 - https://www.linkedin.com/posts/aleksagordic_andrew-huberman-transcripts-activity-7022944124416720896-oKed + https://twitter.com/gordic_aleksa/status/1608121899883679751
 - https://github.com/stars/mayooear/lists/next
+- https://infinum.com/blog/panda-css-css-in-js-without-runtime-overhead
 
 ### Cheat sheet
 

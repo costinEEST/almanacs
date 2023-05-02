@@ -23,6 +23,7 @@
 - https://en.wikipedia.org/wiki/Jean_Piaget
 - https://www.zerosuicidealliance.com/training
 - https://www.voxa.ro/list/recomandari/raftul-lui-ga-spa-r-gyo-rgy
+- https://www.google.com/search?q=ionel+vianu+psihiatru
 
 ### LGBT
 
@@ -62,3 +63,7 @@
 - https://www.nytimes.com/1985/03/24/books/an-urge-more-vital-than-sex.html
 - [Foucault's History of Sex | Dan Krier](https://m.youtube.com/playlist?list=PLuHqxqWmJNcAuQ7QMMi5ItYnKJtYtNzaC)
 - https://www.amazon.com/The-Science-Kissing-What-Telling/dp/0446559903
+
+### Values
+
+- https://www.cnbc.com/2023/04/20/majority-of-gen-z-would-quit-their-jobs-over-company-values-linkedin.html

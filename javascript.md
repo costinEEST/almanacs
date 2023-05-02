@@ -437,6 +437,7 @@
 - [Map.prototype.has() instead of Object.prototype.hasOwnProperty()](https://dev.to/mfulton26/comment/j060)
 - https://cameronnokes.com/blog/create-lodash.memoize-from-scratch
 - https://www.zhenghao.io/posts/object-vs-map
+- https://www.macarthur.me/posts/maps-for-dom-nodes
 
 ### new WeakMap()
 
@@ -496,6 +497,7 @@
 - https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss
 - https://zerodayhacker.com/getting-started-with-regex
 - [Empty character class in JavaScript RegExp](https://www.abareplace.com/blog/emptybrackets)
+- https://regexgpt.app
 
 ### Practice
 

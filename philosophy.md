@@ -5,6 +5,7 @@
 - https://www.goodreads.com/book/show/22716546-die-wise + https://orphanwisdom.com/die-wise
 - https://humanitas.ro/assets/pdf/Friedrich-Nietzsche_Ecce-homo.pdf
 - [Handbook of Analytic Philosophy of Medicine | Kazem Sadegh-Zadeh](https://link.springer.com/book/10.1007/978-94-017-9579-1#toc)
+- https://www.amazon.com/Greatest-Empire-Life-Seneca/dp/0199926646
 
 ### Community
 
