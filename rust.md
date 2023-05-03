@@ -225,6 +225,10 @@
 - https://tryingtobeawesome.com/rust
 - [Why I use Rust even if I could use a GC'd language](https://dev.l1x.be/posts/2023/02/22/beyond-the-borrow-checker/#why-on-earth-would-anybody-use-rust-for-etl)
 
+### Security
+
+- https://github.com/secwest/RobustRust + https://www.facebook.com/dragosr/posts/pfbid02FFY5Q8csgjmfSbLcJ5XHENArvcBLM2ZtV15AXhp4AoKRjHa7sDUa5RCThHJtGxk1l
+
 ### Scrapping
 
 - [Crawls the Fediverse and produces a list of instances that are alive](https://github.com/Minoru/minoru-fediverse-crawler)

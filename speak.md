@@ -235,6 +235,7 @@
 - https://www.youtube.com/playlist?list=PL67dm6qliEMCOUl_GtHpya0PnnTE4WDW6
 - [Ion Andrei Țârlescu - Curs de paleografie greacă](https://www.youtube.com/playlist?list=PLCU7J3J3XZz8A-LZHOz0MN3blswca-UIA)
 - http://filologieclasica.ro/ro/admitere/?g=Master#Bibliografie
+- [Spoken Latin, Ancient Greek, and Ancient Egyptian videos by Luke Amadeus Ranieri](https://www.youtube.com/@ScorpioMartianus/playlists?view=1&sort=lad&flow=grid)
 
 ### Hungarian
 
@@ -311,6 +312,7 @@
 ### Latin
 
 - http://alexalejandre.com/language/latin
+- https://www.titularizare.eu/legislatie-examen-titularizare/programa-titularizare-limba-latina.html
 - https://biblioteca-digitala.ro/?descriptor=31833-limba-latina-limba-antica
 - https://en.wikipedia.org/wiki/Otium
 - https://twitter.com/philip_mcneill/status/1322524744755875840
@@ -335,6 +337,12 @@
 - https://biblioteca-digitala.ro/?pub=6334-morfologia-istorica-a-limbii-latine
 - https://ro.wikipedia.org/wiki/Gabriela_Cre%C8%9Bia#Volume
 - https://medium.com/in-medias-res/greek-and-latin-are-finding-a-voice-at-oxford-8c96adfaed87
+- https://m.youtube.com/playlist?list=PLSpl3cO92FvZvZa2t5ZGA_lkUVj_1bQE-
+- https://m.youtube.com/@EasyLatin/playlists?view=1&sort=lad&flow=grid
+- https://www.mezzoguild.com/how-to-learn-latin
+- http://persarazvan.blogspot.com/p/studiu-limbi-clasice.html
+- https://www.editurauniversitara.ro/en/utility/file/download?file=download_files/curs-limba-latina-finala3983.pdf&hash=38b565060ea8482e2fc8116dd53efaa4
+- [Ioana – Rucsandra DASCĂLU. CULTURA ANIMI Manual de limba şi cultura latină](https://pdfcoffee.com/latina-5-pdf-free.html)
 
 ### Lithuanian
 

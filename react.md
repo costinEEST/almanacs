@@ -313,6 +313,7 @@
 - [Beautifully designed components built with Radix UI and Tailwind](https://github.com/shadcn/ui)
 - https://github.com/shuding/react-wrap-balancer
 - https://www.smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react
+- [Building a Type-Safe Tailwind with vanilla-extract](https://www.highlight.io/blog/typesafe-tailwind)
 
 ### Server side rendering
 
