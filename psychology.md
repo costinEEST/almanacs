@@ -55,6 +55,10 @@
 - https://www.amazon.com/Guru-Papers-Masks-Authoritarian-Power/dp/1883319005
 - https://www.nickkolenda.com/free-guides
 
+### Resilience
+
+- https://www.google.com/search?q=20+ani+in+siberia+Ani%C8%9Ba+Nandri%C8%99-Cudla + https://www.google.com/search?q=george+bonanno+the+end+of+trauma + https://youtu.be/a2nPxTFFdeY
+
 ### Sexuality
 
 - https://juliorobertocosta.com/wp-content/uploads/2018/01/Livros-de-Otto-Rank.pdf

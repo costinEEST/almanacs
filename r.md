@@ -9,3 +9,4 @@
 ### Miscellaneous
 
 - https://github.com/nikitavoloboev/knowledge/tree/main/programming-languages/r
+- http://www.ghement.ca/resources.html
