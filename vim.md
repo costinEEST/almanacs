@@ -1,5 +1,6 @@
 ### Book
 
+- [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim)
 - https://leanpub.com/boostyourcodingfuwithvscodeandvim
 - https://github.com/learnbyexample/vim_reference
 

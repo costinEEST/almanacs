@@ -69,7 +69,7 @@
 - [How does the 12 Days of Christmas program work?](https://mdnahas.github.io/xmassong/index.html)
 - https://github.com/snowcra5h/c-systems-programming
 
-### Cinema
+### Watch
 
 - [Learning C | rwxrob](https://m.youtube.com/playlist?list=PLrK9UeDMcQLpKY24-psIN6pBJstejMC2Y)
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUeCP-KM-pekj30JVzmSKhpK
@@ -89,6 +89,7 @@
 - https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck
 - [C Programming in Linux Tutorial | ShellWave](https://m.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
 - [Embedded C Programming Style | Mutex Embedded](https://m.youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh) + https://www.mutex-embedded.com/courses/s2-c1
+- [Intro to C on Windows | Molly Rocket](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp)
 
 ### Code auditing
 

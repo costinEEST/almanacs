@@ -5,6 +5,7 @@
 - https://gist.github.com/balupton/35bb4356285869b7034a
 - https://discuss.bevry.me/t/2019-01-05-how-to-read-a-book/423
 - https://www.nylon.com/articles/books-every-woman-should-read-by-30
+- https://teacherhead.com/2020/04/20/the-next-edu-revolution-textbooks
 
 #### Community
 

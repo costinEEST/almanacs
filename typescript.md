@@ -136,6 +136,7 @@
 - https://judehunter.dev/blog/assembly-interpreter-in-typescripts-type-system + https://github.com/judehunter/ts-asm
 - https://github.com/adamshaylor/cooking-with-typescript
 - https://type-level-typescript.com/articles/making-generic-functions-pass-type-checking
+- https://github.com/jaked/reconstructing-typescript
 
 ### Tool
 

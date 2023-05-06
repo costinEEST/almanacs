@@ -117,6 +117,7 @@
 - https://7ms.us/7ms-229-intro-to-docker-for-pentesters
 - [find out which veth interface on the host corresponds to the eth0 interface of a container](https://github.com/cslev/find_veth_docker)
 - [options for doing development on Windows](https://blog.ionelmc.ro/2023/01/09/old-fashioned-setup)
+- https://jaked.org/blog/2021-02-18-How-to-run-Electron-on-Linux-on-Docker-on-Mac
 
 ### Kubernetes (k8s)
 

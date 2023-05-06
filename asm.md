@@ -28,6 +28,7 @@
 - https://m.youtube.com/playlist?list=PLAQe3Pnt5c2Ku15CcZ7J93nUB3011J1RL
 - [Disambiguating Arm, Arm ARM, Armv9, ARM9, ARM64, AArch64, A64, A78](https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm)
 - [AArch64-ExploreExploration of Apple CPUs](https://github.com/name99-org/AArch64-Explore)
+- [A bare metal programming guide (ARM microcontrollers)](https://github.com/cpq/bare-metal-programming-guide)
 
 ### Book
 

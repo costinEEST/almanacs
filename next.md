@@ -24,11 +24,14 @@
 
 - https://joshmo.hashnode.dev/nextjs-and-rust-an-innovative-approach-to-full-stack-development
 - https://maxleiter.com/blog/build-a-blog-with-nextjs-13
+- https://mateonunez.dev/blog/nextjs-appdir-migration
+- https://github.com/muxinc/reactathon-workshop
 
 ### Demo
 
 - [An open-source link shortener with built-in analytics + free custom domains](https://github.com/steven-tey/dub)
 - https://github.com/healeycodes/healeycodes.com
+- https://github.com/mateonunez/website
 
 ### Deploy
 

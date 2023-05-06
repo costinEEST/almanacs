@@ -73,6 +73,7 @@
 ### Compiler
 
 - https://m.youtube.com/playlist?list=PLWUx_XkUoGTruCwBHdpTtx_f3WkbgUmUv
+- https://underscorehao.net/2021/11/compiling-cpp-sfml-windows-cli
 
 ### Tool
 

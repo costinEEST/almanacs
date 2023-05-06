@@ -145,6 +145,7 @@
 
 ### Practice
 
+- https://github.com/Bogdanp/awesome-advent-of-code
 - https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds
 - https://jeffzh4ng.com/essays/thoughts-on-teachyourselfcs.html
 - [A collaborative book on algorithms](https://github.com/algorithm-archivists/algorithm-archive)

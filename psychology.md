@@ -6,6 +6,7 @@
 - https://www.amazon.com/Secrets-Autistic-Millionaire-Everything-Aspergers-ebook/dp/B09KGF6685 + https://m.youtube.com/watch?v=TFjj9649Feo + https://youtu.be/l3l0uBtWk9g
 - https://www.cambridge.org/core/books/religion-and-the-meaning-of-life/2C118CBF40B68F288B9010457F78571E
 - [From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life | Arthur C. Brooks](https://kirbyferguson.ck.page/posts/whelp-i-struck-a-nerve-folks)
+- https://notes.reganmian.net/the-body-keeps-the-score%F0%9F%93%92
 
 ### Bias
 

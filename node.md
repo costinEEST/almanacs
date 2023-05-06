@@ -1,5 +1,6 @@
 ### Authentication
 
+- https://www.nango.dev/blog/why-is-oauth-still-hard
 - [A passkey is a new way to sign in that works completely without passwords](https://www.passkeys.io) + https://twitter.com/tobi/status/1604846815060250626
 - https://evertpot.com/jwt-is-a-bad-default
 - https://evertpot.com/oauth2-javascript-client
@@ -138,6 +139,7 @@
 
 ### Boilerplate
 
+- https://github.com/lokalise/node-service-template
 - https://github.com/gmarokov/node-fastify-mongo-api
 - https://github.com/santiq/bulletproof-nodejs
 - [Build your Typescript Node.js projects using blazing fast esbuild](https://github.com/a7ul/esbuild-node-tsc)
@@ -178,7 +180,6 @@
 - https://backend.cafe/how-to-unlock-the-fastest-fastify-server-startup
 - https://github.com/octave-online/octave-online-server
 - https://blog.appsignal.com/2022/11/23/nodejs-architecture-pitfalls-to-avoid.html
-- https://github.com/lokalise/node-service-template
 - https://github.com/Eomm/fastify-discord-bot-demo
 
 ### Cinema

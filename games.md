@@ -107,6 +107,7 @@
 - [built using ASP.NET and requires IIS8 and .NET 4.6.1](https://github.com/inexorabletash/travellermap)
 - https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm + https://github.com/foersterrobert/AlphaZeroFromScratch
 - https://github.com/sunjay/rust-game-dev-workshop
+- [Game Architecture | Molly Rocket](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6v0eFYcyiH7twEh1UF2Lxw) + https://github.com/Yakvi/handmade-hero-notes
 
 ### The creators
 

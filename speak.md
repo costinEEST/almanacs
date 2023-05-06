@@ -120,6 +120,7 @@
 - https://github.com/biopolyhedron/rime-middle-chinese
 - https://github.com/jhuangtw/awesome-taigi
 - [Mandarin preschool](https://www.youtube.com/playlist?list=PLBCLkePmpI61hTUgFtDlcmX2fM8V_8jQq)
+- https://underscorehao.net/2020/05/learning-1500-chinese-characters-in-a-month-heisig-method-review + https://notes.reganmian.net/a--chinese
 
 ### Arabic
 
@@ -343,6 +344,9 @@
 - http://persarazvan.blogspot.com/p/studiu-limbi-clasice.html
 - https://www.editurauniversitara.ro/en/utility/file/download?file=download_files/curs-limba-latina-finala3983.pdf&hash=38b565060ea8482e2fc8116dd53efaa4
 - [Ioana – Rucsandra DASCĂLU. CULTURA ANIMI Manual de limba şi cultura latină](https://pdfcoffee.com/latina-5-pdf-free.html)
+- https://biblioteca-digitala.ro/?pub=6334-morfologia-istorica-a-limbii-latine
+- https://biblioteca-digitala.ro/?descriptor=31833-limba-latina
+- https://biblioteca-digitala.ro/?descriptor=100471-etimologie-latina
 
 ### Lithuanian
 
@@ -381,6 +385,9 @@
 - http://nlp.unibuc.ro/resources.html
 - https://github.com/senisioi/ro_resources
 - [Romanian Automatic Speech Recognition from the ROBIN project](https://github.com/racai-ai/RobinASR)
+- https://biblioteca-digitala.ro/?volum=8437-influenta-greceasca-asupra-limbii-romane-pana-in-secolul-al-xv-lea--1966
+- https://biblioteca-digitala.ro/?pub=6267-breviarium-latinum + https://www.facebook.com/bibliotecaproeuropeana/posts/pfbid024TseVDwYFZ2sB9rWoeJac9CC1cJu7PBLobn75Am3bjwrFAeizWWC4UPUdfG9Zzjjl
+
 
 ### Russian
 
@@ -414,6 +421,7 @@
 ### Spanish
 
 - https://m.youtube.com/c/SpanishWithPaul/playlists
+- [context-aware translations using gpt-4, spoken in a cloned voice](https://github.com/aleemrehmtulla/espanol-love)
 - https://m.youtube.com/c/DreamingSpanish/playlists
 - [Mariela Bosque](https://about.me/profmarielabosque)
 - https://www.mezzoguild.com/spanish-apps
