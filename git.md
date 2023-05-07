@@ -150,6 +150,7 @@
 - [all github pages links can be permalinks](https://github.com/stevekrouse/unbreakable-links)
 - https://github.com/manovotny/github-releases-for-automated-package-publishing-action
 - https://github.com/ahmadnassri/action-semantic-release
+- https://www.lloydatkinson.net/posts/2022/scheduling-webhook-and-api-calls-with-github-actions
 
 ### Tool
 
