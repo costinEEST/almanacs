@@ -35,6 +35,7 @@
 - https://github.com/b3cft/lhsArduinoCourse
 - https://medium.com/scout24-engineering/how-android-communicates-with-external-hardware-beginning-android-adk-with-arduino-4be72c774a6d
 - https://ruudvanasseldonk.com/2017/12/01/an-api-for-my-christmas-tree
+- [Curso Arduino desde cero](https://www.youtube.com/playlist?list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2)
 
 ### CLP5010
 
