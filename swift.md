@@ -14,6 +14,7 @@
 - https://github.com/Dashlane/apple-apps
 - https://github.com/stars/antonreshetov/lists/code-editor
 - [Dabbing out food waste and over-spending on groceries](https://github.com/ubclaunchpad/food-doods)
+- [App for learning about and managing digital and physical security](https://github.com/securityfirst/Umbrella_ios)
 
 ### Algorithm
 
@@ -69,6 +70,7 @@
 - https://github.com/peterfriese/SwiftUI-Concurrency-Essentials
 - [Find timezones or countries for given coordinates](https://github.com/patrick-zippenfenig/SwiftTimeZoneLookup)
 - https://github.com/stars/Cykelero/lists/swift-frameworks
+- https://worthdoingbadly.com/swiftui-html
 
 ### Practice
 

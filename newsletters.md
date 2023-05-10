@@ -411,6 +411,7 @@
 - [securibee-infosec.opml](https://gist.github.com/securibee/054d4588e7f4dc892ae603c963558943)
 - [Andrew Ayer](https://buttondown.email/agwa)
 - [Altered Security](https://us20.campaign-archive.com/home/?u=9b200bd37f5e1b2186d11fef5&id=0dc1700863)
+- [Catalin Cimpanu; Adam Boileau; Patrick Gray](https://riskybiznews.substack.com/archive)
 
 ### Tool
 

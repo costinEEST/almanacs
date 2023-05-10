@@ -7,7 +7,7 @@
 - https://turismistoric.ro/istoria-parfumurilor-de-la-origini-si-pana-in-prezent
 - https://biblioteca-digitala.ro/?volum=12533-catalogul-expozitiei-canepa-de-la-samanta-la-produs-finit-tehnica-de-lucru-instrumentar-si-obiecte-textile-din-lumea-satului-bihorean--2016
 - [Les racines, face cachée des arbres | Christophe Drénou](https://fb.watch/f0AjOgGw-H)
-
+- https://synergeticpress.com/catalog/social-forestry-tending-the-land-as-people-of-place
 
 ### Cinema
 
@@ -15,7 +15,7 @@
 - Trees In All Seasons: https://youtu.be/bjhIUycCWsg + https://youtu.be/9YRi7FUlVfo
 - [Cannabis Research Center Summary Presentations | UC Berkeley Events](https://m.youtube.com/playlist?list=PLOyuQaVrp4qpCGq4oaSmIfkXatH3QQJVX)
 
-### Community 
+### Community
 
 - [Vanzari plante de interior si gradina](https://www.facebook.com/groups/2236689903014772)
 
