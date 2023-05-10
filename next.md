@@ -32,6 +32,8 @@
 - [An open-source link shortener with built-in analytics + free custom domains](https://github.com/steven-tey/dub)
 - https://github.com/healeycodes/healeycodes.com
 - https://github.com/mateonunez/website
+- https://github.com/AntonioErdeljac/next13-airbnb-clone
+- [A full stack twitter clone dockerized ](https://github.com/mandeepsingh10/chwitter) + https://github.com/AntonioErdeljac/twitter-clone
 
 ### Deploy
 

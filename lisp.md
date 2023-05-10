@@ -19,6 +19,7 @@
 
 - https://github.com/GustavBertram/learn-lisp
 - https://github.com/GustavBertram/awesome-common-lisp-learning
+- https://github.com/CodyReichert/awesome-cl
 
 ### Tool
 

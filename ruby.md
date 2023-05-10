@@ -283,6 +283,7 @@
 ### Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems) + https://nts.strzibny.name/ruby-stdlib-default-bundled-gems + https://gist.github.com/boue/9540965
+- https://github.com/oldmoe/litestack
 - https://github.com/planetruby/gems
 - https://github.com/JoshCheek/seeing_is_believing
 - https://www.brianstorti.com/creating-a-rubygems-plugin

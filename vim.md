@@ -47,3 +47,4 @@
 - https://github.com/stars/nikolalsvk/lists/vim-goodies
 - https://sookocheff.com/post/vim/neovim-java-ide
 - https://blog.joren.ga/vim-learning-steps
+- https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list

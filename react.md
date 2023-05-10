@@ -544,6 +544,7 @@
 - [Unpack the source code of React](https://spaceraccoon.github.io/webpack-exploder)
 - [Migrating your T3 App into a Turborepo](https://www.jumr.dev/blog/t3-turbo)
 - https://jaked.org/blog/2022-01-26-Read-the-Code-GitHub-Flat-Viewer
+- [GPT-powered chat for documentation search & assistance](https://github.com/arc53/DocsGPT)
 
 ### Opinion
 
