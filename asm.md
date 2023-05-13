@@ -115,6 +115,11 @@
 - https://blog.randallhyde.com/index.php/2021/01/17/cisc-vs-risc-the-definition
 - [A mind map for beginners overview regarding RISC-V Architecture](https://github.com/xelemental/Mind-Maps/tree/main/RISC-V) + https://twitter.com/ElementalX2/status/1383099988230606857
 - [Stack Use After Return in C, Go, and Rust](https://danielmangum.com/posts/risc-v-bytes-stack-use-after-return)
+- https://www.eetimes.com/examining-the-top-five-fallacies-about-risc-v
+- https://www.eejournal.com/article/nasa-recruits-microchip-sifive-and-risc-v-to-develop-12-core-processor-soc-for-autonomous-space-missions
+- [Understanding Computer Architecture & RVFpga: Introduction to SoC Design](https://university.imgtec.com/teaching-download/#rvfpga)
+- https://piolabs.com/blog/press-releases/platformio-labs-helps-imagination-technologies.html
+- https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation
 
 ### Practice
 
