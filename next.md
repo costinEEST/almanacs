@@ -19,6 +19,7 @@
 - https://www.linkedin.com/posts/aleksagordic_andrew-huberman-transcripts-activity-7022944124416720896-oKed + https://twitter.com/gordic_aleksa/status/1608121899883679751
 - https://github.com/stars/mayooear/lists/next
 - https://infinum.com/blog/panda-css-css-in-js-without-runtime-overhead
+- https://www.inngest.com/blog/5-lessons-learned-from-taking-next-js-app-router-to-production
 
 ### Cheat sheet
 
@@ -61,3 +62,4 @@
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUe0b-FOvDYr0vKJHYLX3SP1
 - https://www.freecodecamp.org/news/create-a-personal-website-with-next-js-13-sanity-io-tailwindcss-and-typescript
+- https://addyosmani.com/blog/react-server-components-app-router

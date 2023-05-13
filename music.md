@@ -182,6 +182,7 @@
 - [Konrad Koselleck](https://twitter.com/AlexDrace/status/1517893147480793088)
 - [Adrian Holovaty plays gypsy jazz](https://m.youtube.com/playlist?list=PL563285DE146F61F7)
 - https://neurosciencenews.com/jazz-music-improvisation-21896
+- https://www.goodreads.com/author_blog_posts/19650894-mingus-1979-leap-a-muzical
 
 ### Rock
 
