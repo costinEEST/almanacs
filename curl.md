@@ -26,3 +26,4 @@
 - https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json
 - https://alexwlchan.net/2022/04/checking-with-curl
 - [Print out 256 colours, with each number printed in its corresponding colour](https://gist.github.com/HaleTom/89ffe32783f89f403bba96bd7bcd1263?permalink_comment_id=3704135#gistcomment-3704135)
+- https://www.hanshq.net/html-validation-with-curl.html

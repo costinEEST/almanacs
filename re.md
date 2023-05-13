@@ -111,3 +111,4 @@
 - https://research.checkpoint.com/2022/native-function-and-assembly-code-invocation
 - https://argp.github.io/2012/08/17/heap-exploitation-abstraction-owasp
 - https://argp.github.io/2017/09/14/re-x86-microcode
+- https://binexplabs.iosifache.me
