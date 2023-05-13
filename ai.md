@@ -423,6 +423,8 @@
   - [LLM primers](https://www.linkedin.com/feed/update/urn:li:share:7045245910087307264)
   - [CLI tool to test prompt effectiveness easily against AI models](https://github.com/dschenkelman/promptest)
   - https://www.python-engineer.com/posts/langchain-crash-course
+  - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
+  - [Interact privately with your documents using the power of GPT, 100% privately, no data leaks](https://github.com/imartinez/privateGPT)
 - Opinion
   - [How AI misrepresents culture through a facial expression](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)
 - Stable Diffusion
@@ -462,6 +464,7 @@
 
 - https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 - [Neural Networks from Scratch | sentdex](https://nnfs.io) + https://m.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+- https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai
 
 ### Natural language processing (NLP)
 
