@@ -19,3 +19,4 @@
 ### Opinion
 
 - https://bradgarropy.com/blog/remix-simplifies-things
+- https://redd.one/blog/my-struggle-with-remix

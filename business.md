@@ -324,6 +324,7 @@
 - https://github.com/tadast/switching-to-contracting-uk
 - https://github.com/joelparkerhenderson/architecture-decision-record
 - https://github.com/yongfook/saas-growth-articles
+- https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines
 
 ### Opinion
 

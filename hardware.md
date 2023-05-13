@@ -221,6 +221,7 @@
 - [Lasersaur -- open source laser cutter](https://github.com/nortd/lasersaur)
 - https://github.com/hardenedlinux/firmware-anatomy/blob/master/hack_ME/hw_security.md
 - [USB in a NutShell](https://www.beyondlogic.org/usbnutshell/usb1.shtml)
+- https://youtu.be/mPF9f-PLDPc + https://mg.lol/blog/data-blocker-teardown + https://shop.hak5.org/collections/mischief-gadgets/products/omg-cable or https://www.crowdsupply.com/sutajio-kosagi/tomu
 - [Building A Jank UART to USB Cable From Scavenged Parts](https://github.com/francisrstokes/githublog/releases/tag/3)
 - https://shkspr.mobi/blog/2020/05/building-a-physical-blink-tag
 - [I made a mechanical keyboard with 3D-printed switches](https://news.ycombinator.com/item?id=24081046)

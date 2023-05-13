@@ -107,6 +107,7 @@
 - [setup script for front-end development](https://github.com/minamarkham/formation)
 - [Mac U.S. keyboard layout with German Umlauts](https://github.com/patrick-zippenfenig/us-with-german-umlauts)
 - https://marianposaceanu.com/articles/tips-macos-save-screenshots-as-jpeg-in-a-different-location
+- https://mudge.name/2019/11/13/scripting-photos-for-macos-with-javascript
 
 ### Security
 

@@ -608,6 +608,7 @@ javascript: (() =>
 
 - https://hackaday.com/2022/03/09/webgpu-better-than-webgl
 - [How Does a GPU Shader Core Work? | Aras Pranckevičius](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
+- https://cohost.org/mcc/post/1406157-i-want-to-talk-about
 
 ### Human Interface Device (WebHID)
 
@@ -653,6 +654,7 @@ javascript: (() =>
 - https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript
 - [SingleFile was really slow on pages with large stylesheets, especially in Firefox](https://twitter.com/check_ca/status/1583927164956995585)
 - [effective ways to improve Core Web Vitals performance in 2023](https://web.dev/top-cwv-2023)
+- [Cumulative Layout Shift Differences](https://www.debugbear.com/blog/cls-lab-field-differences)
 
 ### Miscellaneous
 

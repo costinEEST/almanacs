@@ -164,6 +164,7 @@
 - https://github.com/stars/SummerSec/lists/go-tools
 - https://zackproser.com/blog/chatgpt-4-experiment-ai-development + [A command line tool that tells you the size of anything you pass to it in bytes](https://github.com/zackproser/sizeof)
 - [Part of Speech Tagging on a block of text](https://github.com/s7ephen/goalpost)
+- [Content management with Github hosted Markdown as an authoritative data source](https://github.com/securityfirst/tent)
 
 ### Radio
 

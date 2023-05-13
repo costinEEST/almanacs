@@ -138,7 +138,7 @@
 - https://sensepost.com/blog/2022/sim-hijacking
 - https://onmyway133.com/posts/learning-voip-rtp-and-sip-aka-awesome-pjsip
 - https://github.com/onmyway133/awesome-voip
-- https://worthdoingbadly.com/vowifi
+- [Learning VoWifi, VoLTE, and IMS](https://worthdoingbadly.com/vowifi)
 - https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade + https://twitter.com/zekjur/status/1517872128602914816
 - [How amazing is it that GPS actually works?](https://twitter.com/martinkl/status/1524684941216395264)
 - [GPS Spoofing | Muhammed Talaat](https://m.youtube.com/playlist?list=PLGJmR5eX86b1Pz4Rnv2yXHT_s4LcwKFAp)
@@ -151,7 +151,7 @@
 - [all the tones and cadences used in call progress tones worldwide](https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.180-2010-PDF-E.pdf)
 - [Firewalls and Internet Security, Second Edition](https://www.wilyhacker.com) + https://mastodon.social/@SteveBellovin@mastodon.lawprofs.org/110177420981303376
 
-### Radio-frequency identification (RFID) 
+### Radio-frequency identification (RFID)
 
 - https://twitter.com/herrmann1001/status/1604548091922767872
 
@@ -369,8 +369,7 @@
 
 - https://dino.im/blog/2020/01/dino-0.1-release
 
-
-### Network Time Protocol (NTP) 
+### Network Time Protocol (NTP)
 
 - https://sookocheff.com/post/time/how-does-ntp-work
 - https://servertest.online/ntp

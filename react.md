@@ -193,6 +193,7 @@
 - https://yoavik.com/snippets/use-global-state, https://twitter.com/sebastienlorber/status/1618248643919626244
 - https://www.macarthur.me/posts/when-i-needed-uselayouteffect-in-react
 - https://claritydev.net/blog/display-warning-for-unsaved-form-data-on-page-exit
+- https://www.strictmode.io/articles/react-pull-to-refresh
 
 ### Lifecycle methods
 
@@ -314,6 +315,7 @@
 - https://github.com/shuding/react-wrap-balancer
 - https://www.smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react
 - [Building a Type-Safe Tailwind with vanilla-extract](https://www.highlight.io/blog/typesafe-tailwind)
+- https://www.julienthibeaut.xyz/blog/create-spotlight-border-with-react-css
 
 ### Server side rendering
 
@@ -544,6 +546,7 @@
 - [Unpack the source code of React](https://spaceraccoon.github.io/webpack-exploder)
 - [Migrating your T3 App into a Turborepo](https://www.jumr.dev/blog/t3-turbo)
 - https://jaked.org/blog/2022-01-26-Read-the-Code-GitHub-Flat-Viewer
+- [GPT-powered chat for documentation search & assistance](https://github.com/arc53/DocsGPT)
 
 ### Opinion
 

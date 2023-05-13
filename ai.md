@@ -23,7 +23,6 @@
 - https://mentorcruise.com/books/ml + https://news.ycombinator.com/item?id=23997301
 - https://builtin.com/data-science/data-science-books + https://news.ycombinator.com/item?id=23936249
 - [The Hundred-Page Machine Learning Book by Andriy Burkov](http://themlbook.com) + https://news.ycombinator.com/item?id=25905899
-- [Data Science in Julia for Hackers](https://notamonadtutorial.com/how-we-wrote-a-hands-on-bayesian-data-science-book-in-6-months-a97c73a510b5)
 - [ Recurrent Attentive Neural Process for Time Series Clustering (Master Thesis)](https://docs.google.com/presentation/d/1anMlTRTguPB0dUG7t3u5dgV6xuAaU9XadWFFX_dn7oE)
 - https://uxplanet.org/designer-friendly-resources-to-study-ai-and-machine-learning-1-6106e257faeb
 - [Learning Theory from First Principles](https://francisbach.com/i-am-writing-a-book)
@@ -425,6 +424,7 @@
   - https://www.python-engineer.com/posts/langchain-crash-course
   - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
   - [Interact privately with your documents using the power of GPT, 100% privately, no data leaks](https://github.com/imartinez/privateGPT)
+  - [Bringing large-language models and chat to web browsers](https://github.com/mlc-ai/web-llm)
 - Opinion
   - [How AI misrepresents culture through a facial expression](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)
 - Stable Diffusion
@@ -443,6 +443,7 @@
 ### Machine learning
 
 - Algorithm
+
   - [The release of the Twitter algorithm, annotated for recsys](https://github.com/igorbrigadir/awesome-twitter-algo)
 
 - Book

@@ -241,6 +241,7 @@
 ### Hungarian
 
 - http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
+- https://cabalinkabul.com/2017/06/14/hungaro-alania-de-unde-vine-limba-maghiara
 - [Witch Trials in Hungary 1529–1768](https://twitter.com/TheHungarianFor/status/1454910612509704192)
 - https://www.lucalampariello.com/language-learning-resources/#tve-jump-1760460354b
 - https://twitter.com/BeilinsonOrel/status/1278007877521870848
@@ -348,6 +349,11 @@
 - https://biblioteca-digitala.ro/?descriptor=31833-limba-latina
 - https://biblioteca-digitala.ro/?descriptor=100471-etimologie-latina
 
+### Linguist
+
+- https://ro.wikipedia.org/wiki/List%C4%83_de_lingvi%C8%99ti
+- Johanna Nichols: https://cabalinkabul.com/2020/03/23/glotta-ii-cateva-mituri-urbane-despre-limba
+
 ### Lithuanian
 
 - https://blog.nina.coffee/2016/02/13/learning-lithuanian.html
@@ -388,7 +394,6 @@
 - https://biblioteca-digitala.ro/?volum=8437-influenta-greceasca-asupra-limbii-romane-pana-in-secolul-al-xv-lea--1966
 - https://biblioteca-digitala.ro/?pub=6267-breviarium-latinum + https://www.facebook.com/bibliotecaproeuropeana/posts/pfbid024TseVDwYFZ2sB9rWoeJac9CC1cJu7PBLobn75Am3bjwrFAeizWWC4UPUdfG9Zzjjl
 
-
 ### Russian
 
 - https://www.patreon.com/posts/russian-index-75074567
@@ -409,6 +414,8 @@
 ### Rare
 
 - https://www.nytimes.com/2021/10/06/us/marie-wilcox-dead.html + https://emergencemagazine.org/feature/language-keepers/#/chapter/wukchumni
+- https://www.amazon.com/Secret-Hittites-Discovery-Ancient-Empire/dp/1842122959
+- https://lrc.la.utexas.edu/eieol/hitol
 
 ### Sanskrit
 

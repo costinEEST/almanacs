@@ -76,6 +76,7 @@
 - [Specialising dynamic techniques for implementing the Ruby programming language | Chris Seaton](https://chrisseaton.com/phd/specialising-ruby.pdf)
 - https://www.amazon.com/Rapid-Rubyist-Matthew-Stopa-ebook/dp/B00DPQ5P24
 - https://github.com/pinzonjulian/poodr-notes
+- https://github.com/tomstuart/computationbook + https://computationbook.com/contents
 
 ### Boilerplate
 
@@ -282,6 +283,7 @@
 ### Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems) + https://nts.strzibny.name/ruby-stdlib-default-bundled-gems + https://gist.github.com/boue/9540965
+- https://github.com/oldmoe/litestack
 - https://github.com/planetruby/gems
 - https://github.com/JoshCheek/seeing_is_believing
 - https://www.brianstorti.com/creating-a-rubygems-plugin
@@ -332,6 +334,7 @@
 - [Complete Ruby geocoding solution](https://github.com/alexreisner/geocoder)
 - [JSON serializer](https://github.com/okuramasafumi/alba)
 - [Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource](https://github.com/brycejohnston/agroclimatology)
+- [Implementing if in Ruby without using keywords](https://github.com/mudge/if)
 
 ### Inspire
 

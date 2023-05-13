@@ -55,6 +55,7 @@
 - [Decompilation Tools and High Productivity Utilities](https://github.com/badamczewski/PowerUp)
 - [powerful command line calculator app for developers](https://github.com/xoofx/kalk)
 - https://github.com/Tyrrrz/DiscordChatExporter
+- [A spectral visualizer that analyzes the frequencies of music and sound, written in Godot 3.1](https://github.com/Bauxitedev/spectral-visualizer)
 
 ### Scrapping
 

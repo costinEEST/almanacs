@@ -264,6 +264,7 @@
 - [Download all Snapmaps content from a specific location](https://github.com/king-millez/snapmap-archiver)
 - https://www.freecodecamp.org/news/automate-excel-tasks-with-python
 - [Daily hacker news top stories. Subscribe the hackernews daily top stories by watching this repo](https://github.com/xueyuanl/daily-hackernews)
+- https://github.com/Dragonatorul/reddit_imgur_archive
 
 ### Static website
 

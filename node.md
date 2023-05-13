@@ -39,6 +39,7 @@
 - https://github.com/koenbuyens/oauth-2.0-security-cheat-sheet
 - https://github.com/spotify/web-api-auth-examples
 - [A 'Google Authenticator' like Single Page Application](https://github.com/qoomon/otp-authenticator-webapp)
+- [Authenticated Transfer Protocol](https://github.com/zhuowei/atproto) + https://worthdoingbadly.com/bsky
 
 ### API
 
