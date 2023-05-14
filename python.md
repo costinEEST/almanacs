@@ -48,6 +48,8 @@
 - [Pythonic Application Architecture Patterns for Managing Complexity](https://github.com/cosmicpython/book)
 - https://github.com/mynameisfiber/high_performance_python_2e
 - https://www.manning.com/books/full-stack-python-security
+- [Introduction to Python for Science and Engineering](https://github.com/djpine/python-scieng-public)
+- https://subhodeeps.github.io/teaching/onlineres/#programming-resources-for-scientific-computing
 
 ### Bots
 
@@ -70,6 +72,7 @@
 - https://alexfrancow.github.io/app-development/Twitter-based-Exploit-Detector
 - https://github.com/licht1stein/telegram-exception-alerts
 - [File Converter Telegram Bot that can Convert Images, Videos, Audios, Fonts, Documents and Ebooks](https://github.com/bipinkrish/File-Converter-Bot)
+- [Local instance of ChatGPT for my kiddo](https://github.com/anvaka/local-chat)
 
 ### Cheat sheet
 

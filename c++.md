@@ -116,3 +116,4 @@
 ### Security
 
 - https://github.com/Grant-Knoetze/c--red-team-code
+- [Reverse Engineering 3011: Reversing C++ Binaries | OpenSecurityTraining](https://m.youtube.com/playlist?list=PLUFkSN0XLZ-nHQqoXhGE2IJ0ldDSxOpz3)

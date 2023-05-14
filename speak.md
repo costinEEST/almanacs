@@ -147,6 +147,7 @@
 ### English
 
 - [The English and their History - Robert Tombs](https://www.goodreads.com/book/show/23569457-the-english-and-their-history)
+- https://en.wikipedia.org/wiki/Anna_Wierzbicka#Books
 - http://www.arrantpedantry.com/2014/12/01/celtic-and-the-history-of-the-english-language
 - [At the Coal-Face of Standardization’: Uncovering the Role of Copy Editors in Standardizing the English Language (thesis)](https://www.arrantpedantry.com/wp-content/uploads/2013/05/Jonathon-Owen-thesis.pdf)
 - http://languagestolearn.com/has-english-become-the-21st-centurys-linguistic-bully
@@ -353,6 +354,7 @@
 
 - https://ro.wikipedia.org/wiki/List%C4%83_de_lingvi%C8%99ti
 - Johanna Nichols: https://cabalinkabul.com/2020/03/23/glotta-ii-cateva-mituri-urbane-despre-limba
+- Anna Wierzbicka: https://www.amazon.com/Semantics-Primes-Universals-Classification-Analysis/dp/0198700032
 
 ### Lithuanian
 

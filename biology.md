@@ -66,6 +66,7 @@
 - [Cell Biology Lecture Series | Weizmann Institute of Science](https://m.youtube.com/playlist?list=PLcDxx1De7CZ0O9_K7uQCdBzVRrH_x5oLa)
 - [Systems biology | Weizmann Institute of Science](https://m.youtube.com/playlist?list=PL0EF0E201934F5813)
 - Getting up to Speed in Biology> https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about + https://m.youtube.com/playlist?list=PLUl4u3cNGP629Egng0HfgRJfXBNTPw1le
+- [2020: Physical Biology of the Cell | mblwoodshole](https://m.youtube.com/playlist?list=PLZYs-G4nf1MbvWTKboKgyEwkPKCs-QR6i) + https://www.routledge.com/Physical-Biology-of-the-Cell/Phillips-Kondev-Theriot-Garcia/p/book/9780429168833
 
 ### Epigenetics
 
