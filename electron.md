@@ -41,6 +41,7 @@
 - [AI Image upscaler for Linux, MacOS and Windows](https://github.com/upscayl/upscayl)
 - [A free and open source code snippets manager for developers](https://github.com/antonreshetov/massCode)
 - https://github.com/signalapp/Signal-Desktop
+- [Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE](https://github.com/sunner/ChatALL)
 
 ### Boilerplate
 

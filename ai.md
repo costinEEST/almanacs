@@ -426,6 +426,7 @@
   - [Interact privately with your documents using the power of GPT, 100% privately, no data leaks](https://github.com/imartinez/privateGPT)
   - [Bringing large-language models and chat to web browsers](https://github.com/mlc-ai/web-llm)
   - [code-davinci-002 is actually better for many things than ChatGPT-3.5](https://twitter.com/deepfates/status/1638223654441086977) + https://www.lesswrong.com/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse#Observations
+  - https://github.com/Barnacle-ai/awesome-llm-list
 - Opinion
   - [How AI misrepresents culture through a facial expression](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)
 - Stable Diffusion

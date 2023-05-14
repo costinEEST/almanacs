@@ -221,6 +221,7 @@
 
 ### Progressive Enhancement
 
+- https://www.gov.uk/service-manual/technology/using-progressive-enhancement
 - https://gomakethings.com/progressive-enhancement-graceful-degradation-and-asynchronously-loading-css
 - https://quii.dev/How_my_website_works
 - https://christianheilmann.com/2020/11/26/back-to-basics-creating-a-clickable-card-interface-in-plain-html-css-and-javascript + https://github.com/codepo8/full-card-click

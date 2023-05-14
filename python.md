@@ -268,6 +268,7 @@
 - https://www.freecodecamp.org/news/automate-excel-tasks-with-python
 - [Daily hacker news top stories. Subscribe the hackernews daily top stories by watching this repo](https://github.com/xueyuanl/daily-hackernews)
 - https://github.com/Dragonatorul/reddit_imgur_archive
+- [Download ESM modules from npm and jsdelivr](https://github.com/simonw/download-esm)
 
 ### Static website
 
@@ -387,6 +388,7 @@
 - https://github.com/gerph/memory-layout-diagram
 - https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi
 - https://nuculabs.dev/p/getting-started-with-pdoc3-for-python
+- [Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 
 ### Testing
 

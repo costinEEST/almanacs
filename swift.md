@@ -15,6 +15,8 @@
 - https://github.com/stars/antonreshetov/lists/code-editor
 - [Dabbing out food waste and over-spending on groceries](https://github.com/ubclaunchpad/food-doods)
 - [App for learning about and managing digital and physical security](https://github.com/securityfirst/Umbrella_ios)
+- [MacOS, iOS and Windows background screen recorder/reader for easy history search](https://github.com/shaunnarayan/cytev2)
+- [An open-source colour picker app for macOS](https://github.com/superhighfives/pika)
 
 ### Algorithm
 

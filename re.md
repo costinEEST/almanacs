@@ -113,3 +113,4 @@
 - https://argp.github.io/2012/08/17/heap-exploitation-abstraction-owasp
 - https://argp.github.io/2017/09/14/re-x86-microcode
 - https://binexplabs.iosifache.me
+- [Reverse engineering the 1997 game "Carmageddon"](https://github.com/dethrace-labs/dethrace)

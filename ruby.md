@@ -494,6 +494,7 @@
 - [fastest way to create large JSON in a Rails project?](https://twitter.com/wolax/status/1566786694489247745)
 - https://alec-c4.com/blog/2022-12-25-jupyter-ruby
 - [A book review tool for Leanpub's Markdown Book Format](https://github.com/radar/twist-v2)
+- [install historic Ruby versions since ruby-0.49](https://github.com/akr/all-ruby)
 
 ### Testing
 

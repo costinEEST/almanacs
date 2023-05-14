@@ -54,6 +54,7 @@
 - https://github.com/you-dont-need/You-Dont-Need-GUI
 - https://nelsonslog.wordpress.com/2022/08/01/setting-up-a-second-wsl-distribution
 - http://intertwingly.net/blog/2021/10/11/Genie-WSLg
+- https://xret2pwn.github.io/The-Art-of-Clipboard-Forensics-Recovering-Deleted-Data
 
 ### Internals
 

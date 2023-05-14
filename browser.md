@@ -172,6 +172,7 @@ javascript: (() =>
 ### Extension
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
+- https://github.com/jxnl/youtube-summary-chrome
 - https://github.com/msfrisbie/spy-extension + https://mattfrisbie.substack.com/p/spy-chrome-extension
 - [Encrypt Gmail with PGP](https://github.com/FlowCrypt/flowcrypt-browser)
 - [Check how trackable you are based on your browser extensions](https://github.com/z0ccc/extension-fingerprints)

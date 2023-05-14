@@ -194,6 +194,7 @@
 ### Miscellaneous
 
 - https://github.com/charlax/professional-programming
+- https://github.com/joelparkerhenderson/architecture-decision-record
 - [A series of reading lists mostly related to functional programming](https://gist.github.com/danidiaz/36f5647c0968361eedd677ad3870715f)
 - https://swizec.com/blog/a-holiday-compsci-reading-list-for-you-%f0%9f%8e%85/swizec/9265
 - https://github.com/kdeldycke/awesome-falsehood#meta

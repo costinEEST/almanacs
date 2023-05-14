@@ -184,6 +184,8 @@
 - https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65
 - https://fly.io/blog/sqlite-virtual-machine
 - https://corecursive.com/066-sqlite-with-richard-hipp + https://news.ycombinator.com/item?id=27718701
+- https://github.com/dogsheep/apple-notes-to-sqlite
+- https://github.com/almandin/ntdsdotsqlite
 
 ### Graph databases
 

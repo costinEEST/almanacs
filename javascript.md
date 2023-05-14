@@ -694,6 +694,7 @@
 - [manage Google Calendars, initially to service "Tango This Week in Singapore"](https://github.com/tangueros/ttwis)
 - https://maximilianocontieri.com/how-to-create-a-wordle-with-tdd-in-javascript
 - [scans your entire site using Google Lighthouse](https://github.com/harlan-zw/unlighthouse)
+- https://github.com/thisdavej/copy-excel-paste-markdown
 
 ### Documentation
 

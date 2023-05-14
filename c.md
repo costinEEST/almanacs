@@ -180,6 +180,7 @@
 - [A very compact representation of a placeholder for an image](https://github.com/woltapp/blurhash)
 - [Clang is better than GCC](https://yurichev.org/clang)
 - https://hackaday.com/2023/05/11/linux-fu-c-on-jupyter
+- [A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs](https://github.com/GaloisInc/MATE)
 
 ### Testing
 
