@@ -110,6 +110,8 @@
 - [Esoteric Palette Generator Mico-Lib Interpolating HSL Color in cartesian space](https://github.com/meodai/poline) + https://news.ycombinator.com/item?id=34662722 + https://elastiq.notion.site/elastiq/Color-My-Journey-Through-the-Spectrum-2cfd8dc540474b1c9ef381b9a3bc0f8e + https://m.youtube.com/@meodai/playlists?view=1&sort=lad&flow=grid
 - https://biblioteca-digitala.ro/?pub=6191-analiza-structurala-a-vocabularului-limbii-romane-contemporane-numele-de-culori
 - https://keithjgrant.com/posts/2023/04/its-time-to-learn-oklch-color
+- https://backend.picular.co/api/search?query=cyan
+- https://backend.picular.co/api/search?query=%23C7C3C1
 
 ### Community
 

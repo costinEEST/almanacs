@@ -355,6 +355,7 @@
 - https://ro.wikipedia.org/wiki/List%C4%83_de_lingvi%C8%99ti
 - Johanna Nichols: https://cabalinkabul.com/2020/03/23/glotta-ii-cateva-mituri-urbane-despre-limba
 - Anna Wierzbicka: https://www.amazon.com/Semantics-Primes-Universals-Classification-Analysis/dp/0198700032
+- Nikolai Trubetzkoy: https://www.google.com/search?q=Nikolai+Trubetzkoy+dan+alexe + http://history.uaic.ro/wp-content/uploads/2022/09/Rezumat-teza-ROMANA-iordache.pdf
 
 ### Lithuanian
 
