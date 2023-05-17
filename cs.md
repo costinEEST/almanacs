@@ -121,6 +121,7 @@
 
 ### Interview
 
+- https://github.com/InterviewReady/system-design-resources
 - https://m.youtube.com/c/NickWhite/playlists
 - https://www.seancassidy.me/whats-the-length-of-shortest-bit-sequence-thats-never-been-sent-over-the-internet.html
 - https://thesquareplanet.com/blog/how-the-internet-works

@@ -36,6 +36,7 @@
 - https://github.com/AntonioErdeljac/next13-airbnb-clone
 - [A full stack twitter clone dockerized ](https://github.com/mandeepsingh10/chwitter) + https://github.com/AntonioErdeljac/twitter-clone
 - [Generate your Twitter bio with ChatGPT and Vercel Edge Functions](https://github.com/Nutlope/twitterbio)
+- [The Missing Fullstack Toolkit for Next.js](https://github.com/blitz-js/blitz)
 
 ### Deploy
 

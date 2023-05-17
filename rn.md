@@ -29,6 +29,7 @@
 - https://github.com/Trancever/twitterClone
 - [control your smart greenhouse via your smartphone](https://github.com/lucadibello/in-house-greenhouse)
 - [translates between russian and english](https://github.com/narendrasss/vokab)
+- [The Bluesky Social application for Web, iOS, and Android](https://github.com/bluesky-social/social-app)
 
 ### Cinema
 

@@ -186,6 +186,7 @@ javascript: (() =>
 - [Firefox addon for passively detecting GPS Exif information in JPEGs](https://addons.mozilla.org/en-US/firefox/addon/gpsdetect)
 - [Whisper & GPT-based app for passing remote SWE interviews](https://github.com/leetcode-mafia/cheetah)
 - [adds back "View Image" button to Google Image Search results](https://github.com/Procyon-b/make-gis-great-again)
+- https://github.com/Pondorasti/nextjs-chrome-extension
 - [JShelter controls the APIs provided by the browser, restricting the data that they gather and send out to websites](https://pagure.io/JShelter/webextension/tree/main)
 - https://github.com/Correia-jpv/ChatGPT-Enhanced-Conversation-History
 - [Identify technology on websites.](https://github.com/AliasIO/wappalyzer)

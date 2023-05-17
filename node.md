@@ -143,6 +143,7 @@
 - https://github.com/lokalise/node-service-template
 - https://github.com/gmarokov/node-fastify-mongo-api
 - https://github.com/santiq/bulletproof-nodejs
+- https://github.com/dnafication/jsnsd-exercises-fastify
 - [Build your Typescript Node.js projects using blazing fast esbuild](https://github.com/a7ul/esbuild-node-tsc)
 - https://github.com/bcoe/awesome-cross-platform-nodejs
 - https://github.com/microsoft/TypeScript-Node-Starter
@@ -743,7 +744,6 @@
 - [How I write backends.](https://github.com/fpereiro/backendlore)
 - https://github.com/IonicaBizau/learning-nodejs
 - [System Design - Gaurav Sen](https://m.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) + https://m.youtube.com/c/TechDummiesNarendraL/playlists
-- https://github.com/InterviewReady/system-design-resources
 - [Scripting Languages I: Node.js, Python, PHP, Ruby](https://hyperpolyglot.org/scripting)
 - https://quanticdev.com/articles/automating-my-youtube-uploads-using-nodejs
 - https://github.com/snipcart/node-js-ecommerce-koajs
