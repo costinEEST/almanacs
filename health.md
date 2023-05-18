@@ -373,6 +373,7 @@
 ### Gut
 
 - [Microbiome - YourekaScience](https://m.youtube.com/playlist?list=PLCjag94GB6w17vSjb5pgjM-HSpVK0IkPH)
+- https://inquisitivebiologist.com/2023/05/18/book-review-invisible-friends-how-microbes-shape-our-lives-and-the-world-around-us
 - [The gut biome and heart health - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9weTI4NF9TBxCenYKgUU8DS)
 - https://chriskresser.com/sibo-what-causes-it-and-why-its-so-hard-to-treat + https://pubmed.ncbi.nlm.nih.gov/33361039
 

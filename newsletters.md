@@ -413,6 +413,7 @@
 - [Andrew Ayer](https://buttondown.email/agwa)
 - [Altered Security](https://us20.campaign-archive.com/home/?u=9b200bd37f5e1b2186d11fef5&id=0dc1700863)
 - [Catalin Cimpanu; Adam Boileau; Patrick Gray](https://riskybiznews.substack.com/archive)
+- [Chris Sanders - Applied Network Defense](https://us1.campaign-archive.com/home/?u=90ed94a6ae7d713c89e6416ad&id=9b4e0b20b3)
 
 ### Tool
 
