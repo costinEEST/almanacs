@@ -6,6 +6,7 @@
 - https://markm208.github.io/cljbook
 - https://github.com/islomar/seven-concurrency-models-in-seven-weeks
 - [Poetry of Programming - Puzzle Based Introduction to Functional Programming](https://egri-nagy.github.io/popbook)
+- https://github.com/mark-watson/Clojure-AI-Book-Code + https://github.com/mark-watson/Clojure-AI-Book-Code/tree/main/nlp_libpython#python_interop_deeplearning---this-chapter-is-no-longer-in-my-book-chapter-included-here + https://leanpub.com/clojureai
 
 ### Cinema 
 

@@ -8,6 +8,7 @@
 - [Svelte NodeGUI, a lightweight Electron alternative with native UI](https://news.ycombinator.com/item?id=26361423)
 - https://github.com/gluon-framework/gluon
 - https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt
+- https://github.com/stars/Marcisbee/lists/desktop-app
 
 ### Application
 
