@@ -25,6 +25,8 @@
 - https://www.arcana.computer/catalogs/books/designing-for-people
 - https://anthonyhobday.com/books/simpledesign/further-reading.html
 - [Short design books I recommend](https://www.anthonyhobday.com/blog/20230101.html)
+- [The Color Printer: A Treatise on the Use of Colors in Typographic Printing](https://www.c82.net/color-printer)
+- https://letterformarchive.org/news/books-about-signs
 
 ### Cinema
 

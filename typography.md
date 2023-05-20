@@ -88,6 +88,7 @@
 - [Adjust visually, the scaling of headings depending on the ratios that you choose](https://github.com/jeremychurch/type-scale)
 - https://github.com/DanielRuf/Google-Fonts-CSP-Logging
 - https://github.com/system-fonts/modern-font-stacks + https://twitter.com/danklammer/status/1635622786889572352
+- https://github.com/codeAdrian/modern-fluid-typography-editor + https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp + https://moderncss.dev/container-query-units-and-fluid-typography
 
 ### Miscellaneous
 

@@ -100,6 +100,7 @@ javascript: (() =>
 - [Using the Intersection Observer web API to improve performance.](https://www.growingwiththeweb.com/2018/01/intersection-observer.html)
 - [Intersection Observer by Kevin Powell](https://m.youtube.com/playlist?list=PL4-IK0AVhVjOmWeHkUz34FxIFP8I8X1ae)
 - https://github.com/snewcomer/intersection-observer-admin
+- https://ryanmulligan.dev/blog/sticky-header-scroll-shadow
 
 ### new MutationObserver()
 
@@ -575,7 +576,11 @@ javascript: (() =>
 - [procedurally generated fish drawings](https://github.com/LingDong-/fishdraw)
 - https://github.com/bubkoo/html-to-image
 
-### Web Authentication
+### File System API
+
+- https://developer.chrome.com/articles/origin-private-file-system
+
+### Web Authentication API
 
 - https://goteleport.com/blog/how-passwordless-works
 - https://betterappsec.com/a-medium-dive-into-web-application-authentication-342d1d002a61

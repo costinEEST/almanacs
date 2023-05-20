@@ -76,6 +76,7 @@
 - [YouTube archiving made simple](https://github.com/Owez/yark)
 - [The web-based motion graphics editor for everyone](https://github.com/alyssaxuu/motionity)
 - https://umaar.com/dev-tips/271-ai-video-summaries + https://github.com/jxnl/video-summary-streamer + https://twitter.com/jxnlco/status/1637928070131888129 + https://magic.jxnl.co/youtube + https://www.youtubechapters.app
+- [Generate terminal GIFs from code](https://github.com/charmbracelet/vhs)
 
 ### Opinion
 

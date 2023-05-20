@@ -21,6 +21,7 @@
 - [A simple URL shortener](https://github.com/herbievine/swooosh)
 - https://github.com/salomonelli/best-resume-ever
 - https://github.com/filiphric/trelloapp-vue-vite-ts
+- [Collection of handy online tools for developers, with great UX](https://github.com/CorentinTh/it-tools)
 
 ### Development
 

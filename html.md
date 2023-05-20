@@ -269,12 +269,13 @@
 - https://meiert.com/en/blog/minimal-web-development
 - https://mark.berthelemy.net/2021/07/26/future-of-scorm + https://m.youtube.com/playlist?list=PL9Ar8Q1P0Odt8MslZpZ1KlAz0ss059Hs-
 
-### Semantic
+### Semantics
 
 - https://css-tricks.com/how-to-section-your-html
 - https://uselessdivs.com/blog/a-short-guide-to-help-you-pick-the-correct-html-tag
 - https://matthiasott.com/notes/level-up-your-headings-game
 - https://www.w3.org/International/questions/qa-personal-names
+- https://tetralogical.com/blog/2022/10/05/foundations-html-semantics
 
 ### Security
 

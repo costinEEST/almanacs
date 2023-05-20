@@ -34,6 +34,7 @@
 - https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning
 - https://benmyers.dev/blog/native-visually-hidden
 - https://www.robinrendle.com/notes/the-details-element-is-amazing
+- https://www.scottohara.me/blog/2023/03/21/visually-hidden-hack.html
 
 ### Book
 

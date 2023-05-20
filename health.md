@@ -129,6 +129,7 @@
 - https://www.google.com/search?q=Kitab+al-Tabikh+Cartea+felurilor+de+m%C3%A2ncare
 - https://www.smithsonianmag.com/arts-culture/the-ten-best-books-about-food-of-2022-180981175
 - [Everything Marijuana, CBD, and Weed](https://www.humblebundle.com/downloads?key=pt2cAX8rd2XNkkUb)
+- [Open source book dedicated to helping you to make the best possible sourdough bread at home](https://github.com/hendricius/the-sourdough-framework) + https://m.youtube.com/@the_bread_code/playlists?view=1&sort=lad&flow=grid
 
 ### Cholesterol
 
