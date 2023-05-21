@@ -38,6 +38,7 @@
 - www.spingroup.com/blog/2019/8/30/37-mac-keyboard-shortcuts-for-digital-professionals
 - [Set up a macOS device for development in one script](https://gist.github.com/rozenmd/31632990947a5bfbd53448106599b10d)
 - https://github.com/hsavit1/Awesome-tvOS
+- https://www.eddyvinck.com/blog/how-to-test-apple-pay-for-web
 
 ### Community
 

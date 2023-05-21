@@ -2,6 +2,10 @@
 
 - https://github.com/stars/sergiodxa/lists/remix-auth
 
+### Biolerplate 
+
+- [Remix and Prismic as a headless CMS](https://github.com/EddyVinck/Remix-Store-Headless-CMS)
+
 ### Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUeS7AzNQ022cnLblzpV7P2K

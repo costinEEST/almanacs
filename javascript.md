@@ -600,6 +600,7 @@
 - https://github.com/americanexpress/jest-image-snapshot
 - Playwright: https://m.youtube.com/playlist?list=PLV3vu-QEKkB1A7My1ODw2yW3yB-RUfVHn, https://m.youtube.com/playlist?list=PLw5h0DiJ-9PDxogxQ5PwtQypttFGBqiCq,https://m.youtube.com/playlist?list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0Z8, https://m.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc, https://m.youtube.com/playlist?list=PL6flErFppaj0iQG2_Dd72Jz0bfrzZwMZH, https://github.com/mathieumure/workshop-playwright
 - [Run Cypress tests using Playwright and Playwright tests using Cypress](https://github.com/bahmutov/cypress-playwright)
+- https://www.oddbird.net/2023/05/01/web-platform-tests-polyfills
 
 ### Virtual machine
 
@@ -695,6 +696,7 @@
 - https://maximilianocontieri.com/how-to-create-a-wordle-with-tdd-in-javascript
 - [scans your entire site using Google Lighthouse](https://github.com/harlan-zw/unlighthouse)
 - https://github.com/thisdavej/copy-excel-paste-markdown
+- https://www.oddbird.net/2022/11/30/headed-playwright-in-docker
 
 ### Documentation
 

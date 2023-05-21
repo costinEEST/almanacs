@@ -15,7 +15,10 @@
 - [World's 1st Portable Shooting Machine | GRIND](https://m.youtube.com/watch?v=kSRKamAZYTc)
 - [Sports Mix 28M](https://m.youtube.com/channel/UCMYgbgGWLJdwDpblww1U4qw/playlists)
 - https://m.youtube.com/@Professorlive/playlists?view=1&sort=lad&flow=grid
+- [What's Wright? With Nick Wright](https://m.youtube.com/@WhatsWrightShow/playlists?view=1&sort=lad&flow=grid)
 
 ### Tool
 
 - https://github.com/zanderchase/nba-player-compatibility
+- https://github.com/homerchen19/nba-go
+- [How do you rank the best players in the NBA?](https://nbaplayertiers.com)

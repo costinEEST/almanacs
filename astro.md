@@ -1,3 +1,8 @@
+### Boilerplate 
+
+- [A template for creating engineering blogs with multiple authors, co-authoring, topics, search](https://github.com/EddyVinck/astro-engineering-blog)
+- https://github.com/thomasKn/astro-shopify
+
 ### Cinema
 
 - https://m.youtube.com/@one-aalam/playlists

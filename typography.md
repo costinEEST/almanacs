@@ -10,6 +10,7 @@
 
 ### Community
 
+- http://rosaliewagner.com/type-links
 - https://github.com/davelab6/type-notes
 - [Khaled Hosny](https://twitter.com/KhaledGhetas)
 

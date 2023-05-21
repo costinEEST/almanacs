@@ -294,6 +294,7 @@
 - https://github.com/countries/country_select
 - [Triage Issues With Me - Heroics | Richard Schneeman](https://m.youtube.com/playlist?list=PLg03g-T-woiDCY1m4PdMh2Vv2eftDdVZP)
 - https://www.alchemists.io/projects/gemsmith
+- https://github.com/ruby2js/ruby2js
 - https://metaredux.com/posts/2022/04/21/rubocop-turns-10.html
 - https://postmodern.github.io/blog/2021/11/25/introducing-command-mapper.html
 - https://github.com/stars/postmodern/lists/ruby-infosec

@@ -135,6 +135,7 @@
 - [Dunhuang Foundation](https://us10.campaign-archive.com/home/?u=069b842b10e7ad40bfba99e7f&id=c2f585d33a)
 - [ACI Dharma Romania](https://us4.campaign-archive.com/home/?u=0b7eb01da1eb5b22b356b2bc9&id=ec7e68b8fc)
 - [Peach Tree World News](https://us21.campaign-archive.com/home/?u=64396dd159205cde8617da026&id=7b37edf2d3)
+- [Diamond Cutter Classics](https://us5.campaign-archive.com/home/?u=cc86f7385681e51d8709ebf93&id=a92d306f26)
 
 ### Chemistry
 
@@ -226,6 +227,7 @@
 - [The Good Time Show](https://us2.campaign-archive.com/home/?u=2d6f741a3763b55897a787bd1&id=4c2dfd6761)
 - https://newsletter.blockthreat.io/archive
 - https://weekinethereum.substack.com/archive
+- [Balaji S. Srinivasan](https://balajis.com/archive)
 
 ### Investing
 
@@ -333,6 +335,7 @@
 - [Matt Frisbie](https://mattfrisbie.substack.com/archive)
 - [Rachel Andrew](https://csslayout.news/archive)
 - [Denis Nuțiu](https://nuculabs.dev/archive)
+- [Code for Romania](https://us13.campaign-archive.com/home/?u=1bcbbbff5fbab7429738442f5&id=cb38ce1e2a)
 
 ### Web performance
 

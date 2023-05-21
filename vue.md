@@ -22,6 +22,7 @@
 - https://github.com/salomonelli/best-resume-ever
 - https://github.com/filiphric/trelloapp-vue-vite-ts
 - [Collection of handy online tools for developers, with great UX](https://github.com/CorentinTh/it-tools)
+- [The sleekest looking WEBUI for qBittorrent](https://github.com/WDaan/VueTorrent)
 
 ### Development
 

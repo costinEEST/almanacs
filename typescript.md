@@ -39,6 +39,7 @@
 - https://github.com/ChuckJonas/spotify-fp-ts-example
 - https://github.com/basarat/typescript-for-professionals
 - https://www.udemy.com/course/typescript-with-react-jest-testing + https://m.youtube.com/playlist?list=PLrh-y_cvrt07jehJeFr4o-0dVSDhiy-9f + https://github.com/barosanuemailtest/ts-course-react
+- https://www.eddyvinck.com/blog/what-i-learned-from-total-typescript-part-1-type-transformations
 
 ### Community
 

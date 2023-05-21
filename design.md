@@ -27,6 +27,7 @@
 - [Short design books I recommend](https://www.anthonyhobday.com/blog/20230101.html)
 - [The Color Printer: A Treatise on the Use of Colors in Typographic Printing](https://www.c82.net/color-printer)
 - https://letterformarchive.org/news/books-about-signs
+- https://neeta.works/on-graphic-design + https://twitter.com/ainat_/status/1443938054612439044 + [Computational Information Design](https://benfry.com/phd)
 
 ### Cinema
 

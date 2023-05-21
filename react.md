@@ -29,6 +29,7 @@
 - [Modernizing an Enterprise React App | Paige Niedringhaus](https://www.newline.co/courses/newline-guide-to-modernizing-an-enterprise-react-app)
 - https://tchayen.com/understanding-react-by-implementing-it
 - https://aidenybai.com/thoughts/virtual-dom + https://github.com/aidenybai/million
+- https://github.com/learning-zone/react-basics
 
 ### Boilerplate
 
@@ -80,6 +81,7 @@
 ### Demo
 
 - https://github.com/ustaxes/UsTaxes
+- [Minimalist web interface for qBitTorrent. Implemented using Vite, React, Typescript and Mantine](https://github.com/Gabi1M/QBitUI)
 - https://github.com/SergiuAlexandruPop/crwn-clothing
 - https://github.com/usfslk/ReactDarkMode
 - https://github.com/Zackazt/React-Chat-Tutorial

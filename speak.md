@@ -242,6 +242,7 @@
 - [Ion Andrei Țârlescu - Curs de paleografie greacă](https://www.youtube.com/playlist?list=PLCU7J3J3XZz8A-LZHOz0MN3blswca-UIA)
 - http://filologieclasica.ro/ro/admitere/?g=Master#Bibliografie
 - [Spoken Latin, Ancient Greek, and Ancient Egyptian videos by Luke Amadeus Ranieri](https://www.youtube.com/@ScorpioMartianus/playlists?view=1&sort=lad&flow=grid)
+- https://www.greeksummerschool.org/resources + https://basilbatrakhos.com + https://maximumclassics.com/maximumgreek + https://www.open.edu/openlearn/history-the-arts/getting-started-on-ancient-greek/content-section-overview + https://drive.google.com/file/d/1k1QuCRPZwDqrjOTIz1yVVFokoTFPTDk5
 
 ### Hungarian
 
@@ -353,6 +354,8 @@
 - https://biblioteca-digitala.ro/?pub=6334-morfologia-istorica-a-limbii-latine
 - https://biblioteca-digitala.ro/?descriptor=31833-limba-latina
 - https://biblioteca-digitala.ro/?descriptor=100471-etimologie-latina
+- https://latinnowepubs.github.io/WritingEquipmentVol2/mobile/index.html + https://archive.org/details/willi-2021-writing-equipment-latinnow
+- https://www.clc.cambridgescp.com/Array/online-textbooks + https://www.open.edu/openlearn/history-the-arts/getting-started-on-classical-latin + https://www.primarylatinproject.org/resources + https://www.thelatinprogramme.co.uk + https://maximumclassics.com/maximumclassics + https://drive.google.com/file/d/1k1QuCRPZwDqrjOTIz1yVVFokoTFPTDk5
 
 ### Linguist
 
@@ -423,6 +426,7 @@
 - https://www.nytimes.com/2021/10/06/us/marie-wilcox-dead.html + https://emergencemagazine.org/feature/language-keepers/#/chapter/wukchumni
 - https://www.amazon.com/Secret-Hittites-Discovery-Ancient-Empire/dp/1842122959
 - https://lrc.la.utexas.edu/eieol/hitol
+- [Old Nubian philology and epigraphy mainly](https://m.youtube.com/@anarchistnubiologysquada.n1659/playlists?view=1&sort=lad&flow=grid) + http://www.vangervenoei.com/about
 
 ### Sanskrit
 

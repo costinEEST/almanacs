@@ -62,6 +62,8 @@
 - https://www.linkedin.com/posts/noureldin-ehab-a57940190_awssecurity-awswellarchitected-securitylabs-activity-7048374255549333504-itVq
 - https://github.com/aws-samples/amazon-cognito-passwordless-auth
 - https://theburningmonk.com/2023/03/implementing-magic-links-with-amazon-cognito-a-step-by-step-guide
+- https://www.eddyvinck.com/blog/how-to-study-for-the-aws-developer-associate-exam + https://m.youtube.com/@BeABetterDev/playlists?view=1&sort=lad&flow=grid
+- https://github.com/nsriram/lambda-the-terraform-way
 
 ### Azure
 
