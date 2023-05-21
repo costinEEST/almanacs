@@ -84,6 +84,7 @@
 - https://etymologeek.com
 - [Alternative to Google Translate with a more user friendly ToS](https://www.deepl.com/translator)
 - https://lindiebotes.com/2022/10/12/9-quick-tips-to-find-resources-for-lesser-learned-languages
+- [Translation Studies | Dragos Ciobanu](https://m.youtube.com/playlist?list=PLu6mmTyxNzBBOCenc77wLrkuXtRsoEqWZ)
 
 ### Communities
 
@@ -227,6 +228,7 @@
 - [Multi-language Analyze text in 26 Cantonal Swiss German, Italian, German, Chinese (simplified), French, Italian. pply natural language understanding (NLU) to their applications with features including sentiment analysis, entity analysis, entity sentiment analysis, content classification, and syntax analysis](https://github.com/esthicodes/Awesome-Swiss-German)
 - https://sites.miamioh.edu/meyersde/german-two-way-prepositions
 - https://sites.miamioh.edu/meyersde/determinants-of-gender-in-german
+- https://www.youtube.com/playlist?list=PLu6mmTyxNzBAxGJg8OlpmTRNzTRmYBUCU
 
 ### Greek
 

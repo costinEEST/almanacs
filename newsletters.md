@@ -231,7 +231,7 @@
 
 ### Investing
 
-- [Dylan Patel](https://semianalysis.substack.com)
+- [Dylan Patel](https://www.semianalysis.com/archive)
 - [Handsoff Investor](https://handsoff.substack.com/archive)
 - [Sven Carlin](https://us18.campaign-archive.com/home/?u=83ab4ea650b8ab076b2ca4981&id=0163a06b72)
 

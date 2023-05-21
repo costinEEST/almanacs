@@ -65,3 +65,4 @@
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUe0b-FOvDYr0vKJHYLX3SP1
 - https://www.freecodecamp.org/news/create-a-personal-website-with-next-js-13-sanity-io-tailwindcss-and-typescript
 - https://addyosmani.com/blog/react-server-components-app-router
+- https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt + https://github.com/judygab/course-app

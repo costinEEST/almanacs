@@ -50,6 +50,7 @@
 - https://www.manning.com/books/full-stack-python-security
 - [Introduction to Python for Science and Engineering](https://github.com/djpine/python-scieng-public)
 - https://subhodeeps.github.io/teaching/onlineres/#programming-resources-for-scientific-computing
+- [ Learn AI-Assisted Python Programming With GitHub Copilot and ChatGPT](https://www.manning.com/books/learn-ai-assisted-python-programming)
 
 ### Bots
 

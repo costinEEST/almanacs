@@ -20,6 +20,7 @@
 ### JavaScript
 
 - https://jorgectf.github.io/blog/post/finding-prototype-pollution-gadgets-with-codeql
+- https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course
 
 ### Miscellaneous
 

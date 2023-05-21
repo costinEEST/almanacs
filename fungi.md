@@ -40,6 +40,7 @@
 - https://m.youtube.com/c/TheHumbleFungus/playlists
 - https://wis-wander.weizmann.ac.il/life-sciences/human-tumors-are-prized-real-estate-fungi-study-finds + https://www.nytimes.com/2022/09/29/science/cancer-tumors-fungi-bacteria-microbiome.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqYhkQVUZCibOVtkqqBaLwvPGxrcxnDriMS2SUy0HwfkTDInF8U7Gead5ZtJ22jWQXthLMbgqSbpy0upbdQRLejWfn6Glyt4DMjln7sW6RH831JbAGuFnoWSxMmLobbkjyLb64huMOX25CKbVzXYhIFpk9MFgdVqs22cahfuQSp4D0dF_2_smApt4RS5RJ3XZ-qm1VGgtfYmOfRre6QIpWuFGWjG1ndKU77oIcg06GkuRBTokoj56sIUATYtRaKXvLBcge979gKESCAFrKISuB54wROvEhgUa1x_XbQYlYVZKM5sjJ8c
 - https://www.freethink.com/space/radiation-on-mars-fungus
+- https://fungimap.org.au/wp-content/uploads/2023/05/Fungi-Quest-Field-Guide-how-do-I-describe-my-fungus.pdf
 
 ### Watch 
 
