@@ -7,6 +7,9 @@
 - https://www.cambridge.org/core/books/religion-and-the-meaning-of-life/2C118CBF40B68F288B9010457F78571E
 - [From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life | Arthur C. Brooks](https://kirbyferguson.ck.page/posts/whelp-i-struck-a-nerve-folks)
 - https://notes.reganmian.net/the-body-keeps-the-score%F0%9F%93%92
+- https://www.amazon.com/Projective-Identification-Psychotherapeutic-Technique-Thomas/dp/0876685424 + http://www.generatia.ro/2018/identificarea-proiectiva-si-tehnica-psihoterapeutica
+- https://www.amazon.com/Anthropology-Robots-AI-Annihilation-Routledge/dp/1138831743
+- https://www.amazon.com/Algorithmic-Unconscious-Psychoanalysis-Understanding-Antinomies/dp/0367694050
 
 ### Bias
 
