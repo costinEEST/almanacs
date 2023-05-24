@@ -15,6 +15,7 @@
 - https://asawicki.info/news?x=tag&tag=books
 - https://github.com/PacktPublishing/Deciphering-Object-Oriented-Programming-with-CPP
 - https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
+- https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf + https://www.oreilly.com/library/view/c-primer-fifth/9780133053043 + https://twitter.com/AdamRackis/status/1599959588937555968 + https://www.youtube.com/playlist?list=PLanS_SVm5swgrFrqo-NTITZxud4KRmZgB + https://cppcon.org/b2b + https://diveintosystems.org
 
 ### Cheat sheet
 
