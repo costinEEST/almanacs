@@ -146,7 +146,8 @@
 - https://www.cyberklats.ch/tls-your-lan
 - https://github.com/prbinu/tls-scan
 - https://medium.com/pinterest-engineering/employee-facing-mutual-tls-8643fe0cc0f9
-- [A proof-of-concept TypeScript TLS 1.3 client](https://github.com/jawj/subtls)
+- [A proof-of-concept TypeScript TLS 1.3 client](https://github.com/jawj/subtls) + https://hackaday.com/2023/05/21/watch-a-web-page-fetch-itself-over-tls-complete-with-commentary + https://tls13.xargs.org
+- [The Illustrated QUIC Connection](https://github.com/syncsynchalt/illustrated-quic)
 
 ### Cheat sheet
 

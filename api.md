@@ -102,6 +102,7 @@
 curl v2.wttr.in/Bucharest
 ```
 
+- https://weather.afomera.dev/forecast?location=bucharest&units=si
 - https://en.sat24.com/en/forecast/h/4113466/bucharest
 - https://www.isac.cnr.it/dinamica/projects/forecasts/bolam
 
