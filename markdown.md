@@ -29,3 +29,4 @@
 - https://github.com/marcomontalbano/video-to-markdown
 - [Convert a Google Docs file (API response) to Markdown](https://github.com/AnandChowdhary/docs-markdown)
 - https://github.com/tompollard/phd_thesis_markdown
+- https://andyatkinson.com/blog/2023/05/26/better-writing-vale

@@ -30,6 +30,7 @@
 - https://github.com/mvillaloboz/open-source-cs-degree
 - https://saligrama.io/notes
 - https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
+- https://includejs.dev/tags/missing-semester
 
 ### Cinema
 

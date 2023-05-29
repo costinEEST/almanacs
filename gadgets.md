@@ -24,6 +24,7 @@
 - https://akshaykhandalkar.wordpress.com/2018/02/09/5-best-headphones-for-study-and-work
 - https://www.amazon.co.uk/Sennheiser-Special-Open-Headphone-Black/dp/B07Q7S7247
 - https://www.madmode.com/2022/09-amazing-headset.html
+- https://www.emag.ro/casti-sennheiser-hd-450-bt-wireless-negru-508386/pd/D8XJZWBBM or https://www.emag.ro/casti-audio-over-the-ear-bose-qc35-ii-wireless-bluetooth-noise-cancelling-microfon-autonomie-20-ore-negru-789564-0010/pd/DPRTPVBBM
 
 ### Laptop
 

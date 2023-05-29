@@ -64,6 +64,7 @@
 - https://theburningmonk.com/2023/03/implementing-magic-links-with-amazon-cognito-a-step-by-step-guide
 - https://www.eddyvinck.com/blog/how-to-study-for-the-aws-developer-associate-exam + https://m.youtube.com/@BeABetterDev/playlists?view=1&sort=lad&flow=grid
 - https://github.com/nsriram/lambda-the-terraform-way
+- https://includejs.dev/notes/how-to-prepare-for-aws-solutions-architect-associate-certificate
 
 ### Azure
 
