@@ -5,6 +5,7 @@
 ### .doc
 
 - https://github.com/hanhanhanz/cyber-security-sources/blob/main/officeFileExploitation.md
+- https://github.com/mhagander/word2mediawiki
 
 ### .epub
 
@@ -91,3 +92,7 @@
 - https://safete.ch/file-extensions-you-can-block-in-your-email-system
 - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions
 - https://textslashplain.com/2023/04/05/file-types
+
+### .zip 
+
+- https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5 + [Monitoring the internet for new .zip domains]https://github.com/trickest/zip)

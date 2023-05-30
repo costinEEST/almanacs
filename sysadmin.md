@@ -118,6 +118,7 @@
 - [find out which veth interface on the host corresponds to the eth0 interface of a container](https://github.com/cslev/find_veth_docker)
 - [options for doing development on Windows](https://blog.ionelmc.ro/2023/01/09/old-fashioned-setup)
 - https://jaked.org/blog/2021-02-18-How-to-run-Electron-on-Linux-on-Docker-on-Mac
+- [A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container](https://github.com/techno-tim/littlelink-server)
 
 ### Kubernetes (k8s)
 
@@ -213,6 +214,7 @@
 - https://blog.yossarian.net/2018/03/15/blog.yossarian.net-is-now-self-hosted
 - https://specbranch.com/posts/one-big-server
 - https://github.com/mikeroyal/Self-Hosting-Guide
+- https://github.com/ripienaar/free-for-dev#web-hosting
 
 ### References
 

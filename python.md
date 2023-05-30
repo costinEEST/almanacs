@@ -301,6 +301,7 @@
 - https://www.sonarsource.com/blog/10-unknown-security-pitfalls-for-python
 - https://blog.abdulrah33m.com/prototype-pollution-in-python
 - [Module to store messages or files protected with AES-256 encryption inside an image](https://github.com/computationalcore/cryptosteganography)
+- [Proof-of-concept for the feasibility of testing generic real-world REST implementations](https://github.com/RUB-NDS/REST-Attacker)
 
 ### Server
 

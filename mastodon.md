@@ -5,6 +5,7 @@
 #### Community 
 
 - https://github.com/nathanlesage/academics-on-mastodon
+- https://github.com/emilebosch/awesome-fediverse
 
 
 ### Opinion 

@@ -109,6 +109,7 @@
 - [Mac U.S. keyboard layout with German Umlauts](https://github.com/patrick-zippenfenig/us-with-german-umlauts)
 - https://marianposaceanu.com/articles/tips-macos-save-screenshots-as-jpeg-in-a-different-location
 - https://mudge.name/2019/11/13/scripting-photos-for-macos-with-javascript
+- [Bash tool used for proactive detection of malicious activity](https://github.com/ab2pentest/MacOSThreatTrack)
 
 ### Security
 

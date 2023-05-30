@@ -1,6 +1,6 @@
 ### Book
 
-- https://github.com/bagder/uncurled
+- [Running and maintaining open source projects](https://github.com/bagder/uncurled)
 - https://github.com/gvwilson/buildtogether.tech
 - https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862 + https://soundcloud.com/rich-trott/slugging-it-out-in-open-source
 - [Maintaining Open Source Projects | Tute Costa](https://app.gumroad.com/d/7fe307cd93ad578c9f8ed523e580405e)
@@ -56,6 +56,8 @@
 - https://www.btw.so/open-source-alternatives
 - [AI powered documentation writer](https://github.com/mintlify/writer)
 - https://github.com/creativecommons/cc-legal-tools-app
+- https://github.com/e8johan/virtual-conf-resources
+- [A collection of interesting new networks and tech aiming at decentralisation](https://github.com/redecentralize/alternative-internet)
 
 ### Miscellaneous
 
@@ -77,3 +79,7 @@
 - https://blog.debiania.in.ua/posts/2016-03-19-how-i-read-toses-eulas-and-stuff-like-that.html
 - [RFCs in HTML](https://lowentropy.net/posts/line-length)
 - https://choosealicense.com/no-permission
+
+### Radio 
+
+- https://github.com/fossified/podcast

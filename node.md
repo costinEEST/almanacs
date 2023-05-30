@@ -674,6 +674,7 @@
 - https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html
 - https://blog.xss.am/2022/08/offzone-express-notes
 - https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce
+- https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f + https://twitter.com/ChevonPhillip/status/1656339720425570309
 
 ### CMS
 

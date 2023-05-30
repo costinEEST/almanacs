@@ -45,6 +45,7 @@
 - https://www.manning.com/books/secret-key-cryptography
 - https://www.manning.com/books/real-world-cryptography
 - https://blog.cryptographyengineering.com/2023/04/24/book-review-red-team-blues
+- [Best Current Practices regarding secure online communication and configuration of services using cryptography](https://github.com/BetterCrypto/Applied-Crypto-Hardening)
 
 ### Course
 

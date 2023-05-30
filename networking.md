@@ -260,6 +260,7 @@
 - [DNS Rebinding, and You](https://emily.id.au/tailscale) + https://twitter.com/ByQwert/status/1347241726323400706
 - [find the origin servers of websites protected by Cloudflare, Sucuri, or Incapsula with a misconfiguration DNS](https://github.com/mrh0wl/Cloudmare)
 - https://blog.tomayac.com/2023/04/18/getting-my-domain-tomayac-de-back
+- [Tools for managing DNS across multiple providers](https://github.com/octodns/octodns)
 
 ### TCP/UDP
 
