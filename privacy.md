@@ -15,6 +15,7 @@
 - https://archive.ph
 - https://kyrofa.com/posts/my-phone-isn-t-as-smart-as-yours
 - [Updated list of public BitTorrent trackers](https://github.com/ngosang/trackerslist)
+- https://iq.thc.org/free-internet-for-iran-using-android
 
 ### Breach
 

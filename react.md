@@ -318,6 +318,7 @@
 - https://www.smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react
 - [Building a Type-Safe Tailwind with vanilla-extract](https://www.highlight.io/blog/typesafe-tailwind)
 - https://www.julienthibeaut.xyz/blog/create-spotlight-border-with-react-css
+- https://puruvj.dev/blog/move-to-css-modules-from-styled-components
 
 ### Server side rendering
 
@@ -391,6 +392,7 @@
 - https://github.com/jchen1/website
 - [Fastify server-side renders Preact to html and serves with a Preact client.js bundle for DOM hydration.](https://github.com/sebringrose/fastify-preact-ssr) + https://youtu.be/p8_wOBU478w
 - http://marianoguerra.org/posts/a-simple-understandable-production-ready-preact-project-setup
+- https://github.com/PuruVJ/macos-preact
 
 ### NextJS
 

@@ -109,6 +109,7 @@ javascript: (() =>
 ### new URL()
 
 - [? vs #](https://github.com/robinmoisson/staticrypt/issues/156)
+- https://www.mandiant.com/resources/blog/url-obfuscation-schema-abuse + https://twitter.com/ankit_anubhav/status/1592109955641126912
 
 ### new Worker()
 

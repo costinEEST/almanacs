@@ -141,6 +141,7 @@
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 - [Set up a personal VPN in the cloud](https://github.com/trailofbits/algo)
 - https://github.com/Atarity/deploy-your-own-saas
+- [Run a VPN with global exit nodes with fly.io, tailscale and github)(https://github.com/patte/fly-tailscale-exit) + https://news.ycombinator.com/item?id=36064305
 - [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.](https://github.com/cloudquery/cloudquery)
 - https://github.com/Hacking-the-Cloud/hackingthe.cloud
 - https://github.com/100DaysOfCloud/100DaysOfCloudIdeas

@@ -29,14 +29,17 @@
 - https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust
 - https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit
 
-### Inspire
+### Demo
 
 - https://github.com/geoffrich/svelte-stories
 - https://github.com/simeydotme/pokemon-cards-css + https://deck-24abcd.netlify.app + https://twitter.com/simeydotme/status/1549811970207285248
+- https://github.com/yashash-pugalia/win11-svelte + https://twitter.com/Rich_Harris/status/1657097805733715987
+- https://github.com/PuruVJ/macos-web + https://twitter.com/leeerob/status/1382422353787817985
 
 ### Portfolio
 
 - https://github.com/doppelganger9/blog
+- https://github.com/yashash-pugalia/portfolio
 
 ### Miscellaneous
 
@@ -63,6 +66,6 @@
 
 - https://edoverflow.com/2023/sveltekit-security-headers
 
-### Tool 
+### Tool
 
 - [Piece together any framework with Svelte](https://github.com/Mokshit06/sveltris)

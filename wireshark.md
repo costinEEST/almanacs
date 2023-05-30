@@ -8,3 +8,7 @@
 - [Lua plugin for decoding Google protobuf packets](https://github.com/128technology/protobuf_dissector)
 - https://github.com/awakecoding/wireshark-rdp
 - https://github.com/awakecoding/FreeRDP-Manuals
+
+### Security
+
+- https://read.martiandefense.llc/drone-reverse-engineering-using-packet-dissection-with-wireshark-a8fca5ae5476
