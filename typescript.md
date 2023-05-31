@@ -151,3 +151,4 @@
 - https://github.com/total-typescript/ts-reset
 - https://github.com/mattpocock/zod-fetch
 - https://github.com/DavidWells/types-with-jsdocs
+- https://github.com/jahands/uuid-queue + https://youtu.be/djruLILR7BE

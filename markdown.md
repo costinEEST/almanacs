@@ -11,6 +11,7 @@
 
 - https://capiche.com/e/markdown-history
 - https://passo.uno/markdoc-review + https://twitter.com/remoquete/status/1524725986641813505
+- https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon
 
 ### Tool
 

@@ -49,6 +49,7 @@
 
 - https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store
 - https://github.com/mouredev/Apple-Developer-Roadmap
+- https://www.chrisatmachine.com/posts/01-macos-developer-setup
 
 ### Hardware
 
