@@ -23,11 +23,13 @@
 - https://github.com/filiphric/trelloapp-vue-vite-ts
 - [Collection of handy online tools for developers, with great UX](https://github.com/CorentinTh/it-tools)
 - [The sleekest looking WEBUI for qBittorrent](https://github.com/WDaan/VueTorrent)
+- [web app with a novel method of designing qr codes that does not take advantage of error correction](https://github.com/kochrt/qr-designer)
 
 ### Development
 
 - [Vue Storefront is the most popular and most advanced Frontend Platform for eCommerce](https://github.com/vuestorefront/vue-storefront)
 - [Opinionated template for starting new web applications with Ruby on Rails and Vue.js 3](https://github.com/ledermann/templatus)
+- https://github.com/NathanAP/vue-google-maps-community-fork
 
 ### Opinion
 

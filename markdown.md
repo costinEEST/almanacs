@@ -31,3 +31,4 @@
 - [Convert a Google Docs file (API response) to Markdown](https://github.com/AnandChowdhary/docs-markdown)
 - https://github.com/tompollard/phd_thesis_markdown
 - https://andyatkinson.com/blog/2023/05/26/better-writing-vale
+- [Markdown syntax for timelines](https://github.com/mark-when/markwhen)
