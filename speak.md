@@ -358,6 +358,9 @@
 - https://biblioteca-digitala.ro/?descriptor=100471-etimologie-latina
 - https://latinnowepubs.github.io/WritingEquipmentVol2/mobile/index.html + https://archive.org/details/willi-2021-writing-equipment-latinnow
 - https://www.clc.cambridgescp.com/Array/online-textbooks + https://www.open.edu/openlearn/history-the-arts/getting-started-on-classical-latin + https://www.primarylatinproject.org/resources + https://www.thelatinprogramme.co.uk + https://maximumclassics.com/maximumclassics + https://drive.google.com/file/d/1k1QuCRPZwDqrjOTIz1yVVFokoTFPTDk5
+- [On the Origin and Situation of the Germans | Publius Cornelius Tacitus](<https://en.wikipedia.org/wiki/Germania_(book)>)
+- [Commentarii de Bello Gallico | Gaius Julius Caesar](https://en.wikipedia.org/wiki/Commentarii_de_Bello_Gallico)
+- [Novum Organum, sive Indicia Vera de Interpretatione Naturae | Francis Bacon](https://en.wikipedia.org/wiki/Novum_Organum)
 
 ### Linguist
 

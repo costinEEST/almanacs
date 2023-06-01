@@ -113,3 +113,4 @@
 
 - Cristian Presură: http://www.math.pitt.edu/~sph/1230/Boyer-AHistoryOfMathematics.pdf, https://www.amazon.com/History-Mathematics-3e-Carl-Boyer/dp/0470525487
 - [Phil Nelson](https://www.sas.upenn.edu/~pcn/html-physics/Course)
+- https://www.weizmann.ac.il/physics

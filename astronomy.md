@@ -198,6 +198,7 @@
 - https://olegkutkov.me/2021/02/11/small-satellite-dish-with-rotator
 - https://github.com/swshadle/physics
 - https://github.com/taka-tanaka-zz/astronomy-to-data-science
+- [Astronomy & Astrophysics Software Pacakge](https://github.com/EranOfek/AstroPack)
 
 ### Telescope
 
