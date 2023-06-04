@@ -391,6 +391,7 @@
 - https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi
 - https://nuculabs.dev/p/getting-started-with-pdoc3-for-python
 - [Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
+- [Recommend movies to your friends and ask them for recommendations all through a convenient SMS interface](https://github.com/karllhughes/recs-by-text)
 
 ### Testing
 

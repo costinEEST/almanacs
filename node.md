@@ -468,7 +468,6 @@
 - [Packages and resources that work really well with https://github.com/zkat/npx](https://github.com/junosuarez/awesome-npx)
 - [Access the system clipboard (copy/paste) - cross-platform](https://github.com/sindresorhus/clipboard-cli)
 - [Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default.](https://github.com/dweinstein/node-google-play)
-- [Download a web page to a local directory.](https://github.com/papandreou/bringhome)
 - A command that will copy files from one directory to another and if there are two files with the same name it will rename it: [tweet](https://twitter.com/kentcdodds/status/1215785900413599744) + [gist](https://gist.github.com/kentcdodds/59daa81d46ba51b926a6a2f044aa5ad6)
 - [Make the default export of a file executable in in Node.js! ](https://github.com/jonnyburger/xns)
 - https://github.com/przemyslawpluta/node-youtube-dl
@@ -546,6 +545,7 @@
 - https://github.com/websperts/tinypng-cli
 - https://github.com/ancasicolica/node-wifi-scanner
 - [Module for setting up network interface(s) ip address, dns, and default routes of physical network interfaces, VLAN, and bridged interfaces](https://github.com/adonespitogo/node-set-ip-address)
+- [Generate HTML emails from your RSS feeds](https://github.com/rsslove/rss-to-email)
 
 ### `node:test`
 

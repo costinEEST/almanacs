@@ -2,6 +2,9 @@
 
 - [A template for creating engineering blogs with multiple authors, co-authoring, topics, search](https://github.com/EddyVinck/astro-engineering-blog)
 - https://github.com/thomasKn/astro-shopify
+- [starter powered by MPA view transitions](https://github.com/argyleink/morphull)
+- [Template for startups, marketing websites & landing pages built with Astro, TailwindCSS & Alpine.js](https://github.com/surjithctly/astroship)
+
 
 ### Cinema
 

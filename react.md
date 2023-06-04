@@ -61,7 +61,6 @@
 - https://auth0.com/blog/streamlining-a-react-monorepo
 - https://blog.spencerwoo.com/2021/02/nextjs-blog-notion
 - https://github.com/jamesqquick/React-and-Serverless-Fullstack-Web-Development
-- [Template for startups, marketing websites & landing pages built with Astro, TailwindCSS & Alpine.js](https://github.com/surjithctly/astroship)
 
 ### Book
 
@@ -122,7 +121,6 @@
 - https://jonmeyers.io/courses/build-an-e-commerce-platform-in-25-days-using-next-js-netlify-and-stripe
 - [windows 11 in react](https://github.com/blueedgetechno/windows11)
 - https://product.voxmedia.com/2020/10/23/21520222/building-an-in-browser-image-editor-with-react
-- [Personal website build with Chakra UI, NextJS and Airtable](https://github.com/wirtzdan/website)
 - https://github.com/nlaz/flashcards-for-developers
 - [Print a QR code for connecting to your WiFi](https://github.com/bndw/wifi-card)
 - [A tool to enable PR authors to tell a story with their changes](https://github.com/tbroadley/narrated-diffs)

@@ -16,6 +16,7 @@
 - https://leanpub.com/phptherightway
 - https://adayinthelifeof.nl/books
 - https://www.bartlettpublishing.com/site/2019/12/18/new-video-series-on-building-scalable-web-applications
+- https://leanpub.com/first-php-docker-application
 
 ### Cheat sheet
 

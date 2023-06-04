@@ -32,3 +32,4 @@
 - https://github.com/tompollard/phd_thesis_markdown
 - https://andyatkinson.com/blog/2023/05/26/better-writing-vale
 - [Markdown syntax for timelines](https://github.com/mark-when/markwhen)
+- https://github.com/prashanth1k/pandoc-ebook-template-windows

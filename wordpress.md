@@ -4,6 +4,7 @@
 - https://github.com/stars/esplito/lists/content-management
 - [Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners](https://github.com/GetPublii/Publii)
 - [Using Notion as a CMS](https://m.youtube.com/playlist?list=PL9vQCzMwu2-A02HKFQJDGrgIK_SGvAppb)
+- https://leanpub.com/contentfulmissingmanual
 
 ### Boilerplate
 

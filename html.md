@@ -256,13 +256,7 @@
 - [Convert Word documents (.docx files) to HTML](https://github.com/mwilliamson/mammoth.js)
 - [Live HTML Editor](https://htmledit.squarefree.com)
 - [A fast checker for broken links/references](https://github.com/modernweb-dev/rocket/tree/main/packages/check-html-links)
-
-### Cinema
-
-- https://tgvashworth.com/2016/06/03/frontend-reading-list.html
-- [Environmental User Interfaces - Bob Burrough](https://m.youtube.com/playlist?list=PLrKeTeeSgtc7JsHHB2R-wihnNbFX2BwPE) + https://bobburrough.com/public/post/surely_you_cant_be_serious_bob
-- https://www.better.dev/intro-to-faster-with-emmet
-- https://www.freecodecamp.org/news/learn-bootstrap-5-in-spanish-by-building-a-portfolio-website-bootstrap-course-for-beginners
+- [You can get a site's html and all of the page's dependencies with a single wget command](https://twitter.com/philhawksworth/status/1214942635300982785) + [Download a web page to a local directory](https://github.com/papandreou/bringhome)
 
 ### Opinion
 
@@ -331,3 +325,10 @@
 - https://github.com/erikthedeveloper/code-review-emoji-guide
 - [Get color palettes from emojis](https://github.com/anubra266/emoji-palette)
 - [Unicode Text Analyzer](https://www.fontspace.com/unicode/analyzer)
+
+### Watch
+
+- https://tgvashworth.com/2016/06/03/frontend-reading-list.html
+- [Environmental User Interfaces - Bob Burrough](https://m.youtube.com/playlist?list=PLrKeTeeSgtc7JsHHB2R-wihnNbFX2BwPE) + https://bobburrough.com/public/post/surely_you_cant_be_serious_bob
+- https://www.better.dev/intro-to-faster-with-emmet
+- https://www.freecodecamp.org/news/learn-bootstrap-5-in-spanish-by-building-a-portfolio-website-bootstrap-course-for-beginners

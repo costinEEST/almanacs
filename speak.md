@@ -361,6 +361,7 @@
 - [On the Origin and Situation of the Germans | Publius Cornelius Tacitus](<https://en.wikipedia.org/wiki/Germania_(book)>)
 - [Commentarii de Bello Gallico | Gaius Julius Caesar](https://en.wikipedia.org/wiki/Commentarii_de_Bello_Gallico)
 - [Novum Organum, sive Indicia Vera de Interpretatione Naturae | Francis Bacon](https://en.wikipedia.org/wiki/Novum_Organum)
+- https://www.observatorcultural.ro/articol/portret-al-traducatoarei-la-vreme-de-cumpana
 
 ### Linguist
 

@@ -516,6 +516,7 @@ javascript: (() =>
 - https://github.com/sw-yx/company-youtubes#business-oriented
 - [High signal information security sources Goggle](https://github.com/forcesunseen/netsec-goggle)
 - https://github.com/marcobiedermann/search-engine-optimization
+- https://github.com/thospfuller/awesome-search-engine-optimization
 
 ### Server-sent events (SSE)
 

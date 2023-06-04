@@ -154,6 +154,7 @@
 ### Radio-frequency identification (RFID)
 
 - https://twitter.com/herrmann1001/status/1604548091922767872
+- https://kuenzi.dev/toothbrush
 
 ### Software-defined radio (SDR)
 
