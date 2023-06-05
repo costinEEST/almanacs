@@ -577,6 +577,7 @@ javascript: (() =>
 - https://github.com/psenough/teach_yourself_demoscene_in_14_days
 - [procedurally generated fish drawings](https://github.com/LingDong-/fishdraw)
 - https://github.com/bubkoo/html-to-image
+- https://developer.mozilla.org/en-US/blog/javascript-shape-drawing-function
 
 ### File System API
 

@@ -43,7 +43,7 @@
 - https://www.steveworkman.com/bookshelf
 - https://pragprog.com/titles/tailwind2/modern-css-with-tailwind-second-edition
 
-### Course 
+### Course
 
 - https://github.com/esplito/coding-notes/tree/master/css-for-js.dev
 
@@ -203,6 +203,7 @@
 - https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css
 - [clip-path](https://www.sarasoueidan.com/blog/css-svg-clipping)
 - https://una.im/color-mix-opacity
+- https://fullystacked.net/posts/scope-in-css + https://twitter.com/pepelsbey_dev/status/1664767779369541632
 
 ### Selector
 

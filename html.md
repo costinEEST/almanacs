@@ -103,6 +103,7 @@
 - https://allthetags.com
 - http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
 - https://www.goodemailcode.com
+- https://fullystacked.net/posts/modern-html-email
 - https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 - [top of a page](https://twitter.com/simonhearne/status/1259927098040467457)
 - https://web.dev/building-a-tabs-component
@@ -137,6 +138,7 @@
 
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
 - [Forms, but better](https://m.youtube.com/@adambsilver/videos)
+- https://fullystacked.net/posts/submitter-parameter-for-formdata
 
 ### <head></head>
 
