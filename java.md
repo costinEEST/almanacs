@@ -10,6 +10,7 @@
 ### API
 
 - https://www.toptal.com/back-end/reverse-engineering-the-private-api-hacking-your-couch
+- [A criminal records database and functioning website to view, add, remove, and filter criminal records. The service is built using AWS Lambda and API Gateway to perform CRUD operations on DynamoDB tables](https://github.com/brianjknight/Criminal-Database-Project)
 
 ### Book
 

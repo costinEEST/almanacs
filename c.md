@@ -141,6 +141,8 @@
 ### Operatin system
 
 - [CS140E: embedded operating systems (Engler, Winter, 2022)](https://github.com/dddrrreee/cs140e-22win)
+- [6.1810: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2022/index.html)
+
 
 ### Opinion
 

@@ -23,6 +23,31 @@
 - https://gitlab.com/r00k/as_linux_file_permissions
 - [Writing a Linux kernel driver for the Apple M1 GPU | Asahi Lina](https://m.youtube.com/playlist?list=PL8S0yfRexZUJmwZTnrqWW8ytgiCos300j)
 
+### Cheat sheet
+
+- https://www.jarv.org/191-hello-worlds.html
+- http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html
+- https://aster.cloud/2019/12/17/what-you-probably-didnt-know-about-sudo
+- https://github.com/jcsrb/til/tree/master/linux
+- https://nelsonslog.wordpress.com/2020/02/21/upgrading-from-an-unsupported-ubuntu
+- https://www.thegeekdiary.com/understanding-proc-meminfo-file-analyzing-memory-utilization-in-linux
+- https://diablohorn.com/2014/02/27/qp-stop-video-recording-your-command-line-i-want-to-grep-it
+- Linux Command Line Dojo with Hal Pomeranz: [slides](http://www.deer-run.com/~hal/CLDojo.pdf) + [video](https://m.youtube.com/watch?v=-jNkjuWMFrk)
+- https://ma.ttias.be/different-ways-of-writing-crontab-syntax
+- [Linux Distributions Timeline.](https://github.com/FabioLolix/LinuxTimeline)
+- https://github.com/kmille/linux-debugging
+- https://linuxcommandlibrary.com/basic/oneliners.html
+- https://github.com/YuCheLiu/Comptia_Linux_mindMap/blob/master/Linux_mindmap_pdf.pdf
+- https://drfits.com/lan-connection-is-not-working-on-linux
+- https://github.com/binarymist/command-line/blob/master/linux.md
+- https://www.wezm.net/v2/posts/2020/github-emoji-linux
+- https://github.com/nobodino/slackware-from-scratch
+- https://github.com/gg7/gentoo-kernel-guide
+- https://lipanski.com/posts/custom-keyboard-layout
+- https://github.com/alegrey91/systemd-service-hardening
+- [Linux vs GNU/Linux vs Alpine Linux](https://twitter.com/iximiuz/status/1560977903227383810)
+- [github action as a free ubuntu vps](https://github.com/smallflowercat1995/FreeVPS-ubuntu-latest)
+
 ### Course
 
 - https://linuxjourney.com + https://github.com/cindyq/linuxjourney
@@ -121,31 +146,6 @@
 - https://devforum.ro/t/programe-si-utilitare-linux-care-fac-viata-mai-buna/16276/27
 - [Linux privilege escalation auditing tool](https://github.com/The-Z-Labs/linux-exploit-suggester)
 
-### Cheat sheet
-
-- https://www.jarv.org/191-hello-worlds.html
-- http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html
-- https://aster.cloud/2019/12/17/what-you-probably-didnt-know-about-sudo
-- https://github.com/jcsrb/til/tree/master/linux
-- https://nelsonslog.wordpress.com/2020/02/21/upgrading-from-an-unsupported-ubuntu
-- https://www.thegeekdiary.com/understanding-proc-meminfo-file-analyzing-memory-utilization-in-linux
-- https://diablohorn.com/2014/02/27/qp-stop-video-recording-your-command-line-i-want-to-grep-it
-- Linux Command Line Dojo with Hal Pomeranz: [slides](http://www.deer-run.com/~hal/CLDojo.pdf) + [video](https://m.youtube.com/watch?v=-jNkjuWMFrk)
-- https://ma.ttias.be/different-ways-of-writing-crontab-syntax
-- [Linux Distributions Timeline.](https://github.com/FabioLolix/LinuxTimeline)
-- https://github.com/kmille/linux-debugging
-- https://linuxcommandlibrary.com/basic/oneliners.html
-- https://github.com/YuCheLiu/Comptia_Linux_mindMap/blob/master/Linux_mindmap_pdf.pdf
-- https://drfits.com/lan-connection-is-not-working-on-linux
-- https://github.com/binarymist/command-line/blob/master/linux.md
-- https://www.wezm.net/v2/posts/2020/github-emoji-linux
-- https://github.com/nobodino/slackware-from-scratch
-- https://github.com/gg7/gentoo-kernel-guide
-- https://lipanski.com/posts/custom-keyboard-layout
-- https://github.com/alegrey91/systemd-service-hardening
-- [Linux vs GNU/Linux vs Alpine Linux](https://twitter.com/iximiuz/status/1560977903227383810)
-- [github action as a free ubuntu vps](https://github.com/smallflowercat1995/FreeVPS-ubuntu-latest)
-
 
 ### Embedded
 
@@ -169,6 +169,8 @@
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 - https://github.com/xairy/linux-kernel-exploitation
 - https://snyk.io/blog/everything-you-wanted-to-know-about-addressing-security-vulnerabilities-in-linux-based-containers + [Nix: A Safe and Policy-Free System for Software Deployment](https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf)
+- https://raphcarvalho.com/blog/programmers-guide-to-meltdown + https://github.com/raphaelsc/Am-I-affected-by-Meltdown
+- https://github.com/gkaindl/meltdown-poc
 
 ### Opinion
 

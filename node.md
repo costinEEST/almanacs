@@ -98,6 +98,7 @@
 - https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend
 - https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling
 - [It speaks to Mastodon and other federated network services supporting ActivityPub](https://github.com/ringtailsoftware/cubiti) + https://netapinotes.substack.com/p/the-thing-about-using-chatgpt-for
+- [A full-fledged API written following MVC pattern and API best practices](https://github.com/meerhamzadev/Ecommorce-API)
 
 ### Book
 

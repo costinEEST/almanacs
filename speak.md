@@ -122,6 +122,7 @@
 - https://github.com/jhuangtw/awesome-taigi
 - [Mandarin preschool](https://www.youtube.com/playlist?list=PLBCLkePmpI61hTUgFtDlcmX2fM8V_8jQq)
 - https://underscorehao.net/2020/05/learning-1500-chinese-characters-in-a-month-heisig-method-review + https://notes.reganmian.net/a--chinese
+- [Chinese translations for classic IT resources](https://github.com/oldratlee/translations)
 
 ### Arabic
 

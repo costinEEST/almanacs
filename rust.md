@@ -44,18 +44,6 @@
 
 - [discord-to-trello bot](https://bitbucket.org/delan/dis2ello)
 
-### Cinema
-
-- [Rust on Android](https://m.youtube.com/playlist?list=PL--8rjVarKNWNt1vfQu2Vr4RgPtyd6wcw)
-- [Jon Gjengset](https://m.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
-- [An aggregation of links that summarize RustConf 2020.](https://github.com/poteto/rustconf-2020)
-- [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
-- https://learnrust.today + https://m.youtube.com/watch?v=B5xYBrxVSiE&list=PL7FkKqUcfw1AoNvuQAvld2Q47gaDKHBRW
-- https://youtu.be/bPcTIJejnFs + https://github.com/dani-garcia/vaultwarden
-- [Advent of Code 2022](https://m.youtube.com/playlist?list=PLWtPciJ1UMuBNTifxm5ADY65SkAdwoQiL)
-- https://github.com/Me163/youtube
-- [Privacy-Enhancing Techniques with Cryptographic Games](https://www.manning.com/liveprojectseries/cryptographic-games-ser)
-
 ### Community
 
 - [Yoshua Wuyts](https://m.youtube.com/c/YoshuaWuyts/playlists)
@@ -232,3 +220,16 @@
 ### Scrapping
 
 - [Crawls the Fediverse and produces a list of instances that are alive](https://github.com/Minoru/minoru-fediverse-crawler)
+
+### Watch
+
+- [Rust on Android](https://m.youtube.com/playlist?list=PL--8rjVarKNWNt1vfQu2Vr4RgPtyd6wcw)
+- [Jon Gjengset](https://m.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)
+- [An aggregation of links that summarize RustConf 2020.](https://github.com/poteto/rustconf-2020)
+- [Building #Flutter UI using #Rust for application logic | Thorsten Lorenz](https://www.twitch.tv/videos/1024277235) + https://twitter.com/thlorenz/status/1393208881224978432 + https://thlorenz.com/rid-site
+- https://learnrust.today + https://m.youtube.com/watch?v=B5xYBrxVSiE&list=PL7FkKqUcfw1AoNvuQAvld2Q47gaDKHBRW
+- https://youtu.be/bPcTIJejnFs + https://github.com/dani-garcia/vaultwarden
+- [Advent of Code 2022](https://m.youtube.com/playlist?list=PLWtPciJ1UMuBNTifxm5ADY65SkAdwoQiL)
+- https://github.com/Me163/youtube
+- [Privacy-Enhancing Techniques with Cryptographic Games](https://www.manning.com/liveprojectseries/cryptographic-games-ser)
+- https://github.com/smallstepman/rs-type-driven-api-design

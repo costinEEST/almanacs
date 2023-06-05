@@ -214,6 +214,7 @@ curl v2.wttr.in/Bucharest
 - https://github.com/pawitp/ebook-convert-api
 - https://blog.idrisolubisi.com/35-free-public-apis-to-improve-productivity
 - https://www.freecodecamp.org/news/public-apis-for-developers
+- https://github.com/stn1slv/awesome-integration
 
 ### Philosophy
 

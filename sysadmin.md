@@ -263,6 +263,7 @@
 - https://jacknaglieri.substack.com/p/detection-engineer-pt-2
 - https://github.com/infosecB/awesome-detection-engineering
 - https://medium.com/brexeng/elevating-security-alert-management-using-automation-828004ad596c
+- https://github.com/stars/unicast/lists/high-availability-sre-and-devops
 
 ### Vagrant
 

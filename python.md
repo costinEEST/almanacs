@@ -51,6 +51,7 @@
 - [Introduction to Python for Science and Engineering](https://github.com/djpine/python-scieng-public)
 - https://subhodeeps.github.io/teaching/onlineres/#programming-resources-for-scientific-computing
 - [ Learn AI-Assisted Python Programming With GitHub Copilot and ChatGPT](https://www.manning.com/books/learn-ai-assisted-python-programming)
+- https://github.com/tiagoantao/python-performance
 
 ### Bots
 
@@ -74,6 +75,7 @@
 - https://github.com/licht1stein/telegram-exception-alerts
 - [File Converter Telegram Bot that can Convert Images, Videos, Audios, Fonts, Documents and Ebooks](https://github.com/bipinkrish/File-Converter-Bot)
 - [Local instance of ChatGPT for my kiddo](https://github.com/anvaka/local-chat)
+- [Telegram bot containing the answers to the FAQs for Ukrainian refugees in Berlin](https://github.com/afedulov/help-ukraine-bot)
 
 ### Cheat sheet
 
@@ -399,3 +401,4 @@
 - https://www.abhaybhargav.com/security-automation-with-a-markdown-file
 - https://github.com/mytechnotalent/Selenium-For-Everyone
 - [TCR test && commit || revert -- Rope in Python | Kent Beck](https://m.youtube.com/playlist?list=PLlmVY7qtgT_nhLyIbeAaUlFOWbWT5y53t)
+- https://github.com/AABur/testing_in_python

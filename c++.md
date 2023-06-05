@@ -3,6 +3,10 @@
 - [Algorithms for Competitive Programming](https://github.com/e-maxx-eng/e-maxx-eng)
 - https://github.com/stevenhalim/cpbook-code
 
+### API 
+
+- [Optimizing Performance and Energy Efficiency in Massively Parallel Systems](https://github.com/thesis-nozal/PhD)
+
 ### Book
 
 - [The design and evolution of C++ by Bjarne Stroustrup](https://twitter.com/oznova_/status/1214971707863101440)
