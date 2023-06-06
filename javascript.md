@@ -453,6 +453,10 @@
 - https://dev.to/clementvidal/use-es6-proxy-for-isolated-context-intercommunication-mc1
 - [Sentinel](https://pvdz.ee/notes/181)
 
+### Reflect()
+
+- https://twitter.com/RenwaX23/status/1663624248924020736 + https://youtu.be/1iQ-oeLFZBs
+
 ### bitwise operators
 
 - [xor](https://twitter.com/rauschma/status/1218579324976140288)

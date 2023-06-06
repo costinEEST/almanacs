@@ -197,6 +197,7 @@
 ### 3G
 
 - https://twitter.com/matthew_d_green/status/1405169181880893447 + https://eprint.iacr.org/2021/819
+- https://docs.huihoo.com/nullcon/goa2015/mobile-self-defence.pdf
 
 ### 5G
 

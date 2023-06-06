@@ -123,6 +123,7 @@
 - [Michelle Lim](https://us2.campaign-archive.com/home/?u=cf007b8800f2adebe180e8078&id=6540dfdf5c)
 - [Alexey Guzey](https://buttondown.email/guzey/archive)
 - [The Twenty Minute VC](https://us9.campaign-archive.com/home/?u=26978998bec6ed24bec1e7831&id=efc94e0ecb)
+- [Romanian Science Digest](https://us20.campaign-archive.com/home/?u=d3ad9d295be41a9bc1cbeeb73&id=f0d9b7c9cf)
 
 ### Marketing
 

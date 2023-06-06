@@ -174,6 +174,7 @@
 - https://sunlightenthusiast.wordpress.com/2022/07/25/how-to-understand-cough-medicines
 - https://www.haaretz.com/archaeology/2022-09-19/ty-article/.premium/bong-age-israeli-archaeologists-find-opium-in-bronze-age-ceramics/00000183-5036-d890-a593-dabefb7f0000
 - [Vlad Zaha](https://www.facebook.com/NicuStefanutaMEP/posts/pfbid0Nnz3LsZrQs1JNv8FL6nKXKNeoTh6bN8oPyb4g4avKxmhokAJqpmH2Z9KPSH7Bw1jl)
+- https://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater
 
 ### Grocery
 
@@ -330,6 +331,8 @@
 
 - [#81 – Debra Kimless, M.D. & Steve Goldner, J.D.: Cannabis – the latest science on CBD & THC](https://peterattiamd.com/debrakimless-stevegoldner)
 - https://www.joe.co.uk/news/cannabis-compounds-could-prevent-infection-from-covid-according-to-study-310918
+- https://en.wikipedia.org/wiki/Les_Paradis_artificiels
+- https://en.wikipedia.org/wiki/List_of_books_about_cannabis
 
 ### Tea
 
