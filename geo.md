@@ -4,6 +4,7 @@
 - [Atlasul lumii, pe continente](https://ercpress.com.ro/default.php?p=browse&clid=85)
 - [A New Ecological Order: Development and the Transformation of Nature in Eastern Europe | Ştefan Dorondel, Stelu Şerban](https://www.barnesandnoble.com/w/a-new-ecological-order-stefan-dorondel/1139791160?ean=9780822988847)
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=geology
+- https://auracalatoreste.ro/manualul-calatorului-istet-ebook
 
 ### Cinema
 

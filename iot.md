@@ -37,6 +37,7 @@
 - https://ruudvanasseldonk.com/2017/12/01/an-api-for-my-christmas-tree
 - [Curso Arduino desde cero](https://www.youtube.com/playlist?list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2)
 - https://www.viorelspinu.com/2022/04/i-wrote-book-about-using-arduino.html
+- https://www.udemy.com/course/c-programming-101-for-aspiring-embedded-developers
 
 ### CLP5010
 

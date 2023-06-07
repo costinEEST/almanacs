@@ -18,6 +18,7 @@
 - https://www.learnwithjason.dev/create-and-deploy-a-documentation-website
 - https://m.youtube.com/@effaustin/videos
 - [How to write really good docs](https://youtu.be/xi4ClIif6rY)
+- https://github.com/ossf/package-manager-best-practices
 
 ### Community
 
@@ -79,6 +80,10 @@
 - https://blog.debiania.in.ua/posts/2016-03-19-how-i-read-toses-eulas-and-stuff-like-that.html
 - [RFCs in HTML](https://lowentropy.net/posts/line-length)
 - https://choosealicense.com/no-permission
+
+### Mono repository
+
+- https://github.com/stars/kelset/lists/monorepo-related
 
 ### Radio 
 

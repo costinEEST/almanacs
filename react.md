@@ -145,6 +145,7 @@
 ### Hook
 
 - https://twitter.com/tylermcginnis/status/1169667360795459584
+- https://github.com/PacktPublishing/Micro-State-Management-with-React-Hooks
 - https://reacttraining.com/blog/hooks-you-probably-dont-need
 - https://github.com/rehooks/awesome-react-hooks
 - https://github.com/donavon/hook-flow
