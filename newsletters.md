@@ -201,6 +201,7 @@
 - [Deep into the Forest. Deep Tech for a Better Future](https://deepforest.substack.com)
 - [Kevin Lynagh](https://tinyletter.com/kevinlynagh/archive)
 - [Ian Cutress](https://morethanmoore.substack.com/archive)
+- [Chris Combs](https://us16.campaign-archive.com/home/?u=db333b11de2809a2e919041d1&id=5850b17aff)
 
 ### Internet of money
 

@@ -13,6 +13,7 @@
 ### Demo
 
 - https://github.com/ardeora/astro-tanstack-multiframework
+- [A collection of modern, server-safe React hooks](https://github.com/uidotdev/usehooks) + https://twitter.com/tylermcginnis/status/1663630559921451008
 
 ### Opinion
 

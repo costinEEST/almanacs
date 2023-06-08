@@ -203,6 +203,10 @@
 - https://gitlab.com/0xdf/aoc2022
 - [Utils for streaming large files (S3, HDFS, gzip, bz2...)](https://github.com/RaRe-Technologies/smart_open)
 
+### Mono repository
+
+- https://github.com/reactive-python/reactpy + https://twitter.com/rmorshea/status/1665126075767169025
+
 ### Networking
 
 - https://github.com/dievus/PythonCreateYourOwnSeries
