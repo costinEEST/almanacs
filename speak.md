@@ -246,6 +246,7 @@
 - http://filologieclasica.ro/ro/admitere/?g=Master#Bibliografie
 - [Spoken Latin, Ancient Greek, and Ancient Egyptian videos by Luke Amadeus Ranieri](https://www.youtube.com/@ScorpioMartianus/playlists?view=1&sort=lad&flow=grid)
 - https://www.greeksummerschool.org/resources + https://basilbatrakhos.com + https://maximumclassics.com/maximumgreek + https://www.open.edu/openlearn/history-the-arts/getting-started-on-ancient-greek/content-section-overview + https://drive.google.com/file/d/1k1QuCRPZwDqrjOTIz1yVVFokoTFPTDk5
+- https://unibuc.ro/al-iv-lea-volum-din-dictionarul-grec-roman-elaborat-de-un-colectiv-de-profesori-ai-ub-a-fost-publicat-la-editura-nemira + http://116.203.245.78/unelte%20traducere%20greaca%20veche%20si%20latina/Greaca%20veche/in%20romana/dictionare/dictionar%20Georgescu/%CE%91.pdf
 
 ### Hungarian
 
@@ -323,6 +324,7 @@
 ### Latin
 
 - http://alexalejandre.com/language/latin
+- http://116.203.245.78/unelte%20traducere%20greaca%20veche%20si%20latina/Limba%20latina/
 - https://www.titularizare.eu/legislatie-examen-titularizare/programa-titularizare-limba-latina.html
 - https://biblioteca-digitala.ro/?descriptor=31833-limba-latina-limba-antica
 - https://en.wikipedia.org/wiki/Otium
@@ -363,6 +365,7 @@
 - [Commentarii de Bello Gallico | Gaius Julius Caesar](https://en.wikipedia.org/wiki/Commentarii_de_Bello_Gallico)
 - [Novum Organum, sive Indicia Vera de Interpretatione Naturae | Francis Bacon](https://en.wikipedia.org/wiki/Novum_Organum)
 - https://www.observatorcultural.ro/articol/portret-al-traducatoarei-la-vreme-de-cumpana
+- https://www.emag.ro/dictionar-de-maxime-de-reflectii-expresii-latine-comentate-virgil-matei-9789733033257/pd/D5MV22BBM
 
 ### Linguist
 
