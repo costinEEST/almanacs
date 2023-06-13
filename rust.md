@@ -39,6 +39,7 @@
 - https://github.com/google/comprehensive-rust
 - https://github.com/wasmflow/node-to-rust
 - [Rust Web Development: With warp, tokio, and reqwest](https://www.amazon.com/Rust-Web-Development-Bastian-Gruber/dp/1617299006)
+- https://github.com/mytechnotalent/Hacking-Rust
 
 ### Bot
 

@@ -17,6 +17,8 @@
 - [App for learning about and managing digital and physical security](https://github.com/securityfirst/Umbrella_ios)
 - [MacOS, iOS and Windows background screen recorder/reader for easy history search](https://github.com/shaunnarayan/cytev2)
 - [An open-source colour picker app for macOS](https://github.com/superhighfives/pika)
+- Finite automata editor on touch devices: https://github.com/fortmarek/bachelor-thesis + https://github.com/fortmarek/automata-editor + https://marekfort.me/posts/automata-editor
+- https://github.com/criticalmaps/criticalmaps-ios
 
 ### Algorithm
 

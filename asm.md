@@ -65,6 +65,7 @@
 
 - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86)
 - https://github.com/corkami/docs/blob/master/x86/x86.md
+- [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 
 ### Cinema
 

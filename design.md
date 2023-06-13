@@ -107,6 +107,7 @@
 - https://github.com/securingdev/awesome-stickers
 - https://github.com/syxanash/awesome-web-desktops
 - https://blog.hubspot.com/website/vintage-website-design
+- https://github.com/gaultier/resume
 
 ### User experience (UX)
 

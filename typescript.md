@@ -152,3 +152,4 @@
 - https://github.com/mattpocock/zod-fetch
 - https://github.com/DavidWells/types-with-jsdocs
 - https://github.com/jahands/uuid-queue + https://youtu.be/djruLILR7BE
+- [ActivityPub and Mastodon-compatible server](https://github.com/cloudflare/wildebeest)

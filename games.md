@@ -48,6 +48,7 @@
 - [geography game with Google Map StreetView](https://github.com/GeoGuess/GeoGuess)
 - https://github.com/deck-of-cards/deck-of-cards
 - https://github.com/SaraVieira/lets-play-retro-games
+- https://github.com/kheeyaa/Snack-Games
 
 ### Mobile based
 

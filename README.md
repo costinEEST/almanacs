@@ -186,3 +186,4 @@
 - [Parsia Hakimian](https://github.com/parsiya/Parsia-Clone)
 - [Louis Pilfold](https://github.com/lpil/learning)
 - https://github.com/lyz-code/best-of-digital-gardens
+- [Jacky Zhao](https://github.com/jackyzha0/quartz)

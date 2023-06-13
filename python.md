@@ -202,6 +202,7 @@
 - https://github.com/anitab-org/mentorship-backend
 - https://gitlab.com/0xdf/aoc2022
 - [Utils for streaming large files (S3, HDFS, gzip, bz2...)](https://github.com/RaRe-Technologies/smart_open)
+- [ocial reading and reviewing, decentralized with ActivityPub](https://github.com/bookwyrm-social/bookwyrm)
 
 ### Mono repository
 

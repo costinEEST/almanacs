@@ -478,6 +478,7 @@
   - https://github.com/dair-ai/ML-Notebooks#nlp
   - https://github.com/ThinamXx/66Days__NaturalLanguageProcessing
   - https://github.com/ThinamXx/Transformers_NLP
+  - [A study guide to learn about Transformers](https://github.com/dair-ai/Transformers-Recipe)
 - Course
   - https://github.com/yandexdataschool/nlp_course + https://lena-voita.github.io/nlp_course.html
 
