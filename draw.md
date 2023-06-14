@@ -36,10 +36,10 @@
 
 - [Hayao Miyazaki](https://www.google.com/search?q=Hayao+Miyazaki+site%3Aartvsentropy.wordpress.com)
 
-
 ### Tool
 
-- https://m.youtube.com/c/ArtwithFlo/playlists 
+- https://ralphammer.com/the-perfect-drawing-tool
+- https://m.youtube.com/c/ArtwithFlo/playlists
 - https://procreate.art
 - https://www.skillshare.com/classes/Watercolor-and-Glitter-Magic-in-Procreate-Combine-Paint-and-Photo-Texture/2019344916
 - https://witeboard.com

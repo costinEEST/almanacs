@@ -35,6 +35,7 @@
 - https://m.youtube.com/playlist?list=PLrAPUF78nSaiMzABSkygVBT30Y5aEezIt
 - https://aeon.co/essays/how-to-write-a-hollywood-blockbuster-with-aristotles-poetics
 - [Aristotle On The Moral Virtues](https://www.patreon.com/posts/new-online-67824322)
+- https://biblioteca-digitala.ro/?descriptor=31840-aristotel
 
 ### Aaron Swartz
 

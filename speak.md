@@ -90,6 +90,10 @@
 
 - https://www.meetup.com/Deuscht-Lasst-uns-Deutsch-sprechen
 
+### Albanian
+
+- https://biblioteca-digitala.ro/?descriptor=76079-albaneza
+
 ### Chinese
 
 - https://neustadt.fr/essays/china-one-nation-how-many-languages
@@ -123,6 +127,7 @@
 - [Mandarin preschool](https://www.youtube.com/playlist?list=PLBCLkePmpI61hTUgFtDlcmX2fM8V_8jQq)
 - https://underscorehao.net/2020/05/learning-1500-chinese-characters-in-a-month-heisig-method-review + https://notes.reganmian.net/a--chinese
 - [Chinese translations for classic IT resources](https://github.com/oldratlee/translations)
+- https://biblioteca-digitala.ro/?pub=6303-sistemul-partilor-de-vorbire-in-gramatica-chineza
 
 ### Arabic
 
@@ -230,6 +235,7 @@
 - https://sites.miamioh.edu/meyersde/german-two-way-prepositions
 - https://sites.miamioh.edu/meyersde/determinants-of-gender-in-german
 - https://www.youtube.com/playlist?list=PLu6mmTyxNzBAxGJg8OlpmTRNzTRmYBUCU
+- https://biblioteca-digitala.ro/?descriptor=99640-literatura-germana
 
 ### Greek
 
@@ -247,6 +253,8 @@
 - [Spoken Latin, Ancient Greek, and Ancient Egyptian videos by Luke Amadeus Ranieri](https://www.youtube.com/@ScorpioMartianus/playlists?view=1&sort=lad&flow=grid)
 - https://www.greeksummerschool.org/resources + https://basilbatrakhos.com + https://maximumclassics.com/maximumgreek + https://www.open.edu/openlearn/history-the-arts/getting-started-on-ancient-greek/content-section-overview + https://drive.google.com/file/d/1k1QuCRPZwDqrjOTIz1yVVFokoTFPTDk5
 - https://unibuc.ro/al-iv-lea-volum-din-dictionarul-grec-roman-elaborat-de-un-colectiv-de-profesori-ai-ub-a-fost-publicat-la-editura-nemira + http://116.203.245.78/unelte%20traducere%20greaca%20veche%20si%20latina/Greaca%20veche/in%20romana/dictionare/dictionar%20Georgescu/%CE%91.pdf
+- https://biblioteca-digitala.ro/?pub=6326-fonologia-greaca
+-
 
 ### Hungarian
 
@@ -413,10 +421,13 @@
 - [Romanian Automatic Speech Recognition from the ROBIN project](https://github.com/racai-ai/RobinASR)
 - https://biblioteca-digitala.ro/?volum=8437-influenta-greceasca-asupra-limbii-romane-pana-in-secolul-al-xv-lea--1966
 - https://biblioteca-digitala.ro/?pub=6267-breviarium-latinum + https://www.facebook.com/bibliotecaproeuropeana/posts/pfbid024TseVDwYFZ2sB9rWoeJac9CC1cJu7PBLobn75Am3bjwrFAeizWWC4UPUdfG9Zzjjl
+- https://biblioteca-digitala.ro/?pub=6229-recitind-literatura-romana-veche
+- https://biblioteca-digitala.ro/?descriptor=40238-literatura-romana
 
 ### Russian
 
 - https://www.patreon.com/posts/russian-index-75074567
+- https://biblioteca-digitala.ro/?descriptor=32410-limba-rusa
 - https://twitter.com/in_ukraine_we + https://www.instagram.com/in_ukraine_we_dont_say
 - https://aiydreen.com/russian
 - https://www.udemy.com/course/russian-alphabet-mastery
@@ -445,6 +456,11 @@
 ### Serbian
 
 - [Learn Serbian in a few minutes | Teacher_Suzana](https://m.youtube.com/playlist?list=PLVnag7rRuuY2yoo1lSoHxRC5kRjI0ZX-P)
+- https://biblioteca-digitala.ro/?descriptor=67208-limba-sarba
+
+### Slovak
+
+- https://biblioteca-digitala.ro/?descriptor=35633-limba-slovaca
 
 ### Spanish
 
@@ -519,6 +535,7 @@
 - https://twitter.com/istoric_Popescu/status/1505853182924238848
 - https://ukrainian-zone.com + https://www.duolingo.com/classroom/yjgdgx
 - https://biblioteca-digitala.ro/?pub=6270-curs-de-folclor-literar-ucrainean
+- https://biblioteca-digitala.ro/?descriptor=46989-limba-ucraineana
 
 ### Storytelling
 

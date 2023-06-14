@@ -5,6 +5,7 @@
 - [A New Ecological Order: Development and the Transformation of Nature in Eastern Europe | Ştefan Dorondel, Stelu Şerban](https://www.barnesandnoble.com/w/a-new-ecological-order-stefan-dorondel/1139791160?ean=9780822988847)
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=geology
 - https://auracalatoreste.ro/manualul-calatorului-istet-ebook
+- https://biblioteca-digitala.ro/?domeniu=34-geografie
 
 ### Cinema
 
@@ -50,6 +51,6 @@
 - [NWACC Geology Lectures](https://m.youtube.com/playlist?list=PLmRQwysTuced_dqkjnSM4Z_9OWiK8Ebvc)
 - https://www.nationalgeographic.com/travel/article/star-wars-film-movie-locations
 
-### Listen 
+### Listen
 
 - [Where does the sand in a desert come from?](https://www.bbc.co.uk/sounds/play/w3ct3j84) + https://mailchi.mp/dc74bb1179c1/prof-michael-caplanelegance-in-physiologycafe-114-a-hybrid-event-6228237?e=12229ba061
