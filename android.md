@@ -101,6 +101,7 @@
 - [Automating Android RE repetitive tasks: pull, decode, rebuild and patch](https://github.com/ax/apk.sh)
 - [Extract firmware images from an Android OTA payload.bin file](https://github.com/cyxx/extract_android_ota_payload)
 - [reverse engineering & automation framework](https://github.com/rev1si0n/lamda)
+- https://github.com/stars/adityatelange/lists/android-aosp + https://www.youtube.com/playlist?list=PLeiDFxcsdhUq6Ch-9AAtiVU7Lw0tTSnKb + https://github.com/Akipe/awesome-android-aosp
 
 ### APIs
 

@@ -217,6 +217,8 @@
 - [Sleep duration is associated with white matter microstructure and cognitive performance in healthy adults](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25132) + https://news.ycombinator.com/item?id=25246419
 - https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function + https://news.ycombinator.com/item?id=25972342
 - https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side
+- https://shehackspurple.ca/2023/06/04/wehackhealth-getting-better-sleep
+- https://hubermanlab.com/toolkit-for-sleep
 
 ### Fitness
 

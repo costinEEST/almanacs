@@ -81,3 +81,4 @@
 - [Let's Play Hacken für Arme DVIA - Damn Vulnerable iOS App | tihmstar](https://m.youtube.com/playlist?list=PLR45q6EBSruKHv6yQ9kiX2grkTYuPx45I)
 - [A collection of POCs/writeups for iOS vulnerabilities](https://github.com/b1n4r1b01/n-days)
 - https://github.com/wangtielei/Slides
+- https://securitycafe.ro/2023/06/12/mobile-pentesting-101-how-to-set-up-your-ios-environment

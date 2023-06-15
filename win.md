@@ -13,6 +13,7 @@
 - https://github.com/Orange-Cyberdefense/GOAD
 - https://github.com/WazeHell/vulnerable-AD
 - https://twitter.com/drunkrhin0/status/1564757368168099840
+- https://github.com/stars/adityatelange/lists/activedirectory
 
 ### Book
 

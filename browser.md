@@ -488,6 +488,7 @@ javascript: (() =>
 - https://jeffy.info/2019/07/22/exposing-cors-headers.html
 - https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46
 - https://github.com/mscoutermarsh/cors-test
+- https://w3c.github.io/webappsec-cors-for-developers
 
 ### Cross-Origin-Opener-Policy (COOP)
 

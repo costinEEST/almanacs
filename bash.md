@@ -95,6 +95,10 @@
 - [How to reduce the node_modules folder size?](https://twitter.com/Raynos/status/1436655636125736962)
   ־ https://darekkay.com/blog/rss-subscriber-count
 
+### Security
+
+- https://adityatelange.in/blog/revshells
+
 ### Tool
 
 - [Resource monitor that shows usage and stats for processor, memory, disks, network and processes.](https://github.com/aristocratos/bashtop)

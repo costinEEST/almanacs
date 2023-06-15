@@ -18,3 +18,4 @@
 
 - [Why ML/OCaml are good for writing compilers](http://flint.cs.yale.edu/cs421/case-for-ml.html)
 - [OCaml for the Masses](https://queue.acm.org/detail.cfm?id=2038036)
+- [Cross-compiling OCaml to JS and Wasm](https://semgrep.dev/blog/2023/turbo-mode)
