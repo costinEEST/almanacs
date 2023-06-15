@@ -130,6 +130,7 @@
 - [Edward Frenkel](https://m.youtube.com/c/edfrenkel/playlists)
 - Aareyan Manzoor: https://m.youtube.com/@user-og9ub9ds3b/videos, https://aareyanmanzoor.github.io/sources.html
 - https://www.bacondarwin.co.uk/maths + https://nrich.maths.org/frontpage + https://www.amazon.co.uk/The-Elephant-Classroom-Helping-Children/dp/0285638475
+- https://fermatslibrary.com/s/mental-calculation-a-reminiscence-of-the-late-mr-g-p-bidder
 
 ### Mathematician
 

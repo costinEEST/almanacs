@@ -64,6 +64,7 @@
 
 - [Information from the early Apple era](https://vintageapple.org)
 - https://www.patreon.com/posts/episode-105-80893084
+- https://www.lainenooney.com/the-apple-ii-age.html
 
 ### Tool
 
