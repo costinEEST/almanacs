@@ -41,6 +41,7 @@
 ### Book
 
 - [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html) + https://github.com/source-academy/sicp + https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1
+- https://github.com/muratkeremozcan/books
 - https://github.com/dexteryy/spellbook-of-modern-webdev
 - [If Hemingway wrote JavaScript](https://twitter.com/threepointone/status/1207662648034246656)
 - [Coding Trigonometry](https://github.com/bit101/bitbooks/blob/master/coding_trig/book/src/index.md)
@@ -82,6 +83,7 @@
 - [Cursuri Front End | Dan Ichim](https://codesandbox.io/s/rw4wlzo39q)
 - https://github.com/thinkb4/a-walk-in-javascript
 - https://github.com/P1xt/p1xt-guides
+- https://www.udemy.com/course/professional-modern-javascript
 
 ### Community
 
@@ -603,6 +605,7 @@
 - https://github.com/mawrkus/js-unit-testing-guide
 - https://github.com/americanexpress/jest-image-snapshot
 - Playwright: https://m.youtube.com/playlist?list=PLV3vu-QEKkB1A7My1ODw2yW3yB-RUfVHn, https://m.youtube.com/playlist?list=PLw5h0DiJ-9PDxogxQ5PwtQypttFGBqiCq,https://m.youtube.com/playlist?list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0Z8, https://m.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc, https://m.youtube.com/playlist?list=PL6flErFppaj0iQG2_Dd72Jz0bfrzZwMZH, https://github.com/mathieumure/workshop-playwright
+- https://www.udemy.com/course/professional-playwright-testing
 - [Run Cypress tests using Playwright and Playwright tests using Cypress](https://github.com/bahmutov/cypress-playwright)
 - https://www.oddbird.net/2023/05/01/web-platform-tests-polyfills
 - https://github.com/esplito/coding-notes/tree/master/testingjavascript

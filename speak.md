@@ -276,6 +276,10 @@
 - https://neustadt.fr/essays/teaching-myself-german
 - https://github.com/sharad461/nepali-translator
 
+### Indonesian
+
+- https://m.youtube.com/playlist?list=PLmp7RhkyEu0vycmpoyO6ppLQ1Bue0FGEp
+
 ### Italian
 
 - https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian

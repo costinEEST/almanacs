@@ -613,6 +613,7 @@
 - [Find fediverse addresses in the profiles of your Twitter followings](https://github.com/lucahammer/fedifinder)
 - https://m.youtube.com/playlist?list=PLw5h0DiJ-9PDRE2J8T5vWups_jIcAfqg7
 - [module to retrieve organic search results and much more from Google](https://github.com/LuanRT/google-this)
+- https://gitlab.com/ibrahim/brainyquote-scraper
 
 ### Micro service
 

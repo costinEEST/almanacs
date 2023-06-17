@@ -31,6 +31,10 @@
 - [Opinionated template for starting new web applications with Ruby on Rails and Vue.js 3](https://github.com/ledermann/templatus)
 - https://github.com/NathanAP/vue-google-maps-community-fork
 
+### Inspire 
+
+- https://github.com/bencodezen/bencodezen
+
 ### Opinion
 
 - https://bypaulshen.com/posts/comparing-vue-and-react

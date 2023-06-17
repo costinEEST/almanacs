@@ -21,6 +21,8 @@
 - https://infinum.com/blog/panda-css-css-in-js-without-runtime-overhead
 - https://www.inngest.com/blog/5-lessons-learned-from-taking-next-js-app-router-to-production
 - https://github.com/RapidAPI/DevRel-Examples-External
+- https://github.com/dabit3/gho-semantic-search
+- https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt
 
 ### Cheat sheet
 

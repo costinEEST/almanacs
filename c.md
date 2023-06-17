@@ -25,6 +25,8 @@
 - [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/index.html)
 - https://github.com/Exoskill/C-headfirst + http://karadev.net/uroci/filespdf/files/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf + https://www.oreilly.com/library/view/head-first-c/9781449335649 + https://www.amazon.com/Mastering-Algorithms-Techniques-Sorting-Encryption/dp/1565924533 + https://www.goodreads.com/en/book/show/425210 + https://github.com/josephmcasey/Mastering-Algorithms-with-C + https://youtu.be/rBr0ZYd6QaY
 - https://github.com/oz123/awesome-c#beginner-books
+- https://github.com/fsaadatmand/The-C-Programming-Language
+- https://github.com/Elyasin/K-and-R-solutions
 
 ### Cheat sheet
 
@@ -102,6 +104,8 @@
 - [C and the Unix environment for undergraduate non-CSE majors](https://courses.cs.washington.edu/courses/cse374/21wi)
 - [Unix and C Programming](https://docs.google.com/presentation/d/1V0daPBXxOrxb4Ckrfhodf2QO-6Ag067y8am479oIjB0)
 - https://m.youtube.com/playlist?list=PLHJns8WZXCdvErvhlZXvpVIEKPfmDJt4z
+- https://twitter.com/SuspectedOceano/status/1600788919511138305 + https://www.freecodecamp.org/news/finally-understand-pointers-in-c 
+- https://github.com/evgenkarlson/COMPLETED_PISCINE_C + https://github.com/evgenkarlson/ALL_SCHOOL_42 + https://github.com/Caceresenzo/My-School-42-Piscine-Experience + https://github.com/jotavare/42-resources
 
 ### Articles
 

@@ -34,6 +34,7 @@
 ### Boilerplate
 
 - https://github.com/UnlyEd/next-right-now
+- [Vite, React, Redux, Vanilla Extract](https://github.com/cojoclaudiu/vite-ts-starter)
 - https://dev.to/alexeagleson/how-to-build-a-fullstack-nextjs-application-with-storybook-tailwindcss-2gfa
 - https://github.com/hgraca/explicit-architecture-reactjs
 - https://github.com/nice-boys/product-boilerplate
