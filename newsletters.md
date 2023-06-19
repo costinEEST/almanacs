@@ -352,7 +352,6 @@
 
 - https://www.writethedocs.org/blog/archive/tag/newsletter
 - [Leanpub Weekly Sale](https://us3.campaign-archive.com/home/?u=d9dae16c3f9f533e6c9e48efb&id=d8bb96e10f)
-- https://curtismchale.ca/category/pkm-weekly
 
 ### Ecology
 
@@ -441,6 +440,12 @@
 - [Ted Gioia](https://tedgioia.substack.com/archive)
 - [Tango Inside Out](https://us7.campaign-archive.com/home/?u=c390736e46a85da405f68dc8e&id=8dbe36e52f)
 - [Pablo Estigarribia](https://us10.campaign-archive.com/home/?u=15496b952c60b9016788adea6&id=874e3cbe49)
+
+### Obsidian
+
+- https://curtismchale.ca/category/pkm-weekly
+- [Eleanor Konik](https://www.eleanorkonik.com/tag/roundup)
+
 
 ### Python
 

@@ -7,6 +7,7 @@
 
 - https://m.youtube.com/c/ThomasFlight/playlists
 - https://www.inputmag.com/culture/vhs-tapes-twitch-youtube-streaming
+- https://github.com/JosephPai/Awesome-Talking-Face
 
 ### Cheat sheet
 
