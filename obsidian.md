@@ -19,3 +19,4 @@
 - [Add commands to every part of Obsidian's user interface ](https://github.com/phibr0/obsidian-commander)
 - https://github.com/davish/obsidian-full-calendar
 - https://nelsonslog.wordpress.com/2023/05/31/obsidian-sync
+- [integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)

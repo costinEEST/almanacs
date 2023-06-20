@@ -41,6 +41,8 @@
 - [Generate your Twitter bio with ChatGPT and Vercel Edge Functions](https://github.com/Nutlope/twitterbio)
 - [The Missing Fullstack Toolkit for Next.js](https://github.com/blitz-js/blitz)
 - [Personal website build with Chakra UI, NextJS and Airtable](https://github.com/wirtzdan/website)
+- [Build and Deploy a Fullstack Reddit Clone: Next.js 13, React, Tailwind, Auth, Prisma, MySQL](https://github.com/joschan21/breadit) + https://youtu.be/mSUKMfmLAt0
+- [full-stack booking software for a restaurant, built in NextJS, tRPC, Prisma, and TailwindCSS](https://github.com/joschan21/modern-booking-system)
 
 ### Deploy
 

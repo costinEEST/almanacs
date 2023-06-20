@@ -1,6 +1,7 @@
 ### Actions
 
 - [report CSS diffs to PR's](https://github.com/projectwallace/css-diff-action)
+- [Deploy your Vue app to github pages using vite](https://github.com/skywarth/vite-github-pages-deployer)
 
 ### Book
 

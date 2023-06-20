@@ -145,7 +145,7 @@
 - [create multiple hidden volumes on a storage device in such a way that it is very difficult, even under forensic inspection](https://shufflecake.net)
 - https://devforum.ro/t/programe-si-utilitare-linux-care-fac-viata-mai-buna/16276/27
 - [Linux privilege escalation auditing tool](https://github.com/The-Z-Labs/linux-exploit-suggester)
-
+- https://github.com/lakinduakash/linux-wifi-hotspot
 
 ### Embedded
 

@@ -164,6 +164,7 @@
 - [Rails Instagram Clone Tutorials | Malacow](https://m.youtube.com/playlist?list=PLR8BLHNyVZDW-5crDl3unpGIqee5xSV48)
 - [A Rubyist's Walk Along the C-side (writing Ruby C extensions)](https://github.com/peterzhu2118/ruby-c-ext-code)
 - https://github.com/pinzonjulian/all_you_need_is_rails_engines
+- [Indexing all Ruby related videos](https://github.com/adrienpoly/rubyvideo)
 
 ### Course
 

@@ -19,6 +19,7 @@
 
 - https://sergiodxa.com/articles/use-remix-as-a-spa-only
 - https://sergiodxa.com/articles/improve-seo-by-not-sending-js-in-remix
+- https://www.jacobparis.com/content/where-to-host-remix
 
 ### Opinion
 

@@ -373,6 +373,7 @@
 - [Unencrypted PCIe traffic, to leak DNN models](https://arxiv.org/pdf/2006.12784v1.pdf)
 - [Automating Host Exploitation](https://github.com/mazen160/shennina)
 - https://github.com/DeepSpaceHarbor/Awesome-AI-Security
+- https://github.com/terjanq/hack-a-prompt
 
 ### Deep learning
 

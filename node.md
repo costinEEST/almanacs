@@ -547,6 +547,7 @@
 - https://github.com/ancasicolica/node-wifi-scanner
 - [Module for setting up network interface(s) ip address, dns, and default routes of physical network interfaces, VLAN, and bridged interfaces](https://github.com/adonespitogo/node-set-ip-address)
 - [Generate HTML emails from your RSS feeds](https://github.com/rsslove/rss-to-email)
+- [Character encoding detection tool](https://github.com/runk/node-chardet)
 
 ### `node:test`
 
@@ -767,3 +768,4 @@
 
 - [What npm Can Learn from Go](https://twitter.com/bossylobster/status/1529857188390371328)
 - https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler
+- https://docs.emailengine.app/packaging-and-selling-a-node-js-app
