@@ -21,6 +21,7 @@
   https://ocw.mit.edu/courses/2-627-fundamentals-of-photovoltaics-fall-2013 + https://m.youtube.com/playlist?list=PLUl4u3cNGP63zDO4gelZKdchvCO1B_Hg9
   https://inquisitivebiologist.com/2023/01/11/book-review-lithium-the-global-race-for-battery-dominance-and-the-new-energy-revolution
 - [Project Sunroof](https://news.ycombinator.com/item?id=34699395)
+- [18650 Battery Packs For Beginners](https://www.facebook.com/groups/202140770347162/files/files)
 
 ### Book
 
