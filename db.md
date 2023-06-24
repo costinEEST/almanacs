@@ -251,6 +251,7 @@
 - https://www.crunchydata.com/blog/learn-postgres-at-the-playground
 - [The past, present, and future of Postgres, and the Postgres Playground](https://huffduffer.com/cemerick/647557)
 - [Advent of Code 2021](https://m.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd)
+- https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative + https://github.com/guillaumeduhan/supabase-vue3
 
 ### Production
 

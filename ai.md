@@ -429,6 +429,7 @@
   - [code-davinci-002 is actually better for many things than ChatGPT-3.5](https://twitter.com/deepfates/status/1638223654441086977) + https://www.lesswrong.com/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse#Observations
   - https://github.com/Barnacle-ai/awesome-llm-list
   - https://github.com/PicoCreator/smol-dev-js
+  - https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial 
 - Opinion
   - [How AI misrepresents culture through a facial expression](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)
 - Stable Diffusion
