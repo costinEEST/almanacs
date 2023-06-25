@@ -85,6 +85,7 @@
 - https://cactus.substack.com/p/doomberg-energy-is-life-and-we-are
 - https://www.creativebloq.com/news/olympics-branding
 - http://libber.org/some_parts_of_being_a_great_engineer.html
+- [Incredible rebrands](https://twitter.com/cpaik/status/1672781488683724800)
 
 ### Ethics
 

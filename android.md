@@ -21,6 +21,7 @@
 - [View your remaining balance, recent trips, and other information from contactless public transit cards using your NFC Android phone](https://github.com/codebutler/farebot)
 - [Ad free app for watching tube videos on Android TV boxes](https://github.com/yuliskov/SmartTubeNext)
 - [Data usage monitor app for android](https://github.com/itsdrnoob/DataMonitor)
+- https://github.com/Docile-Alligator/Infinity-For-Reddit
 
 ### Book
 

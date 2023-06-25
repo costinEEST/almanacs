@@ -379,6 +379,10 @@
 - https://www.observatorcultural.ro/articol/portret-al-traducatoarei-la-vreme-de-cumpana
 - https://www.emag.ro/dictionar-de-maxime-de-reflectii-expresii-latine-comentate-virgil-matei-9789733033257/pd/D5MV22BBM
 
+### Igbo 
+
+- https://github.com/nkowaokwu/igbo_api
+
 ### Linguist
 
 - https://ro.wikipedia.org/wiki/List%C4%83_de_lingvi%C8%99ti

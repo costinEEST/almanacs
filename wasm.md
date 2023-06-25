@@ -78,3 +78,7 @@
 - [We've looked very seriously at a WASM rewrite of React](https://twitter.com/acdlite/status/1576302675766804480)
 - https://matt-rickard.ghost.io/what-is-webassembly
 - https://tryingtobeawesome.com/wasm
+
+### Security
+
+- https://keerok.github.io/2022/06/27/Progress-report-Jun-2022

@@ -39,6 +39,7 @@
 ### Course
 
 - https://www.hackingwithswift.com/100/swiftui
+- [favorite resources for learning SwiftUI related to design and prototyping?](https://twitter.com/Gavmn/status/1668032752992800768)
 
 ### Cinema
 
@@ -47,6 +48,7 @@
 - https://github.com/Lascorbe/CocoaConferences
 - https://scriptingosx.com/swift
 - https://github.com/SwiftfulThinking/SwiftUI-Bootcamp
+- https://m.youtube.com/@SwiftfulThinking/playlists?view=1&sort=lad&flow=grid
 
 ### Community
 
@@ -87,6 +89,7 @@
 
 - https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming
 - https://github.com/jakerockland/go-vs-swift
+- https://www.mux.com/blog/swiftui-against-react
 
 ### Cheat sheet
 

@@ -137,6 +137,7 @@
 - https://evilmartians.com/chronicles/how-to-build-a-better-react-map-with-pigeon-maps-and-mapbox
 - https://blog.danoph.com/create-an-image-tagger-app-with-reactjs-and-ai-in-just-a-few-simple-steps
 - [Collaborative editor project](https://github.com/toeverything/blocksuite)
+- https://github.com/samselikoff/ios-apple-music-clone
 
 ### Radio
 

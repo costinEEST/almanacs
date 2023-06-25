@@ -62,6 +62,7 @@
 - https://wis-wander.weizmann.ac.il/chemistry/kavli-prize-awarded-prof-jacob-sagiv
 - [Mark Anticole](https://guillotinedchemistry.com)
 - https://github.com/lmmentel/awesome-python-chemistry
+- https://cen.acs.org/people/profiles/Six-black-chemists-should-know/97/web/2019/02
 
 ### Miscellaneous
 

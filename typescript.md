@@ -138,10 +138,12 @@
 - https://github.com/adamshaylor/cooking-with-typescript
 - https://type-level-typescript.com/articles/making-generic-functions-pass-type-checking
 - https://github.com/jaked/reconstructing-typescript
+- https://www.steveruiz.me/posts/smooshed-object-union
 
 ### Tool
 
 - https://github.com/juanluispaz/ts-sql-query
+- [analyzing TypeScript types of npm packages](https://github.com/arethetypeswrong/arethetypeswrong.github.io)
 - https://mmazzarolo.com/blog/2021-11-06-speed-up-your-typescript-monorepo-with-esbuild
 - https://github.com/stripe-archive/flow-to-typescript-codemod
 - https://echobind.com/post/why-we-ditched-graphql-for-trpc

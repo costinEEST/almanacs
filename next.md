@@ -23,6 +23,7 @@
 - https://github.com/RapidAPI/DevRel-Examples-External
 - https://github.com/dabit3/gho-semantic-search
 - https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt
+- [Building a full-stack, fully type-safe pnpm monorepo with NestJS, NextJS & tRPC](https://www.tomray.dev/nestjs-nextjs-trpc)
 
 ### Cheat sheet
 
@@ -43,14 +44,20 @@
 - [Personal website build with Chakra UI, NextJS and Airtable](https://github.com/wirtzdan/website)
 - [Build and Deploy a Fullstack Reddit Clone: Next.js 13, React, Tailwind, Auth, Prisma, MySQL](https://github.com/joschan21/breadit) + https://youtu.be/mSUKMfmLAt0
 - [full-stack booking software for a restaurant, built in NextJS, tRPC, Prisma, and TailwindCSS](https://github.com/joschan21/modern-booking-system)
+- [Open Source API Key Management](https://github.com/chronark/unkey)
+- https://github.com/segunadebayo/adebayosegun.com
+- https://github.com/gavinmn/nelson.co + https://github.com/stars/gavinmn/lists/personal-sites
+- [e-commerce skateshop build with everything new in Next.js 13](https://github.com/sadmann7/skateshop)
 
 ### Deploy
 
 - [Next.js SPA example with dynamic client-only routing and static hosting](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
+- https://whiskeywebandwhatnot.fm/nextjs-vercel-and-subscription-models
 
 ### Opinion
 
 - https://bradgarropy.com/blog/next-over-remix
+- https://twitter.com/ImSh4yy/status/1671251883913285632
 
 ### Package
 
@@ -65,6 +72,7 @@
 
 - [Testing Next.js Apps with Jest, Testing Library and Cypress](https://www.udemy.com/course/nextjs-testing)
 - https://massimilianomirra.com/notes/test-driven-development-of-nextjs-api-routes
+- https://github.com/stuyy/nextjs-react-unit-testing-tutorial-typescript + https://youtu.be/Q-Sg4p_iQvw
 
 ### Watch
 

@@ -199,6 +199,7 @@
 - https://github.com/swshadle/physics
 - https://github.com/taka-tanaka-zz/astronomy-to-data-science
 - [Astronomy & Astrophysics Software Pacakge](https://github.com/EranOfek/AstroPack)
+- [Solstice Animations](https://svs.gsfc.nasa.gov/14366)
 
 ### Telescope
 

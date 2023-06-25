@@ -287,6 +287,10 @@
 - https://newrelic.com/blog/best-practices/nodejs-application-monitoring
 - https://github.com/skirianov/console-m + https://twitter.com/KajetanSw/status/1595717645642473473
 
+### Deploy 
+
+- https://dev.to/zenstok/part-22-deploy-scalable-nestjs-chat-app-to-kubernetes-59o0
+
 ### Error
 
 - https://github.com/tjmehta/error-to-json

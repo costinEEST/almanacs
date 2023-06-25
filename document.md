@@ -16,6 +16,11 @@
 ### .jpg
 
 - https://github.com/corkami/pics/blob/master/binary/JPG.pdf
+- https://keerok.github.io/2022/07/29/Complement-Scripts-for-polyglot-jpg-s
+
+### .json 
+
+- https://corecursive.com/json-vs-xml-douglas-crockford
 
 ### .md
 
@@ -95,4 +100,4 @@
 
 ### .zip 
 
-- https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5 + [Monitoring the internet for new .zip domains]https://github.com/trickest/zip)
+- https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5 + [Monitoring the internet for new .zip domains]https://github.com/trickest/zip) + https://mrd0x.com/file-archiver-in-the-browser/?no-cache=1

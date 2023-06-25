@@ -396,6 +396,8 @@
 - http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html
 - https://digitalinvestigator.blogspot.com/2022/11/techniques-in-email-forensic-analysis.html
 - https://github.com/PhishyAlice/awesome-phishing
+- [Send free transactional emails from Vercel Edge Functions](https://github.com/Sh4yy/vercel-email) + https://twitter.com/ImSh4yy/status/1669369698557755392
+- [Send free transactional emails from your Cloudflare Workers using MailChannels](https://github.com/Sh4yy/cloudflare-email)
 
 ### WebSockets
 

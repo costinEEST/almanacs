@@ -62,6 +62,7 @@
 
 ### Historic
 
+- [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 - [Information from the early Apple era](https://vintageapple.org)
 - https://www.patreon.com/posts/episode-105-80893084
 - https://www.lainenooney.com/the-apple-ii-age.html

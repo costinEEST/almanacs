@@ -20,3 +20,4 @@
 - https://github.com/davish/obsidian-full-calendar
 - https://nelsonslog.wordpress.com/2023/05/31/obsidian-sync
 - [integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
+- https://github.com/stars/gavinmn/lists/obsidian

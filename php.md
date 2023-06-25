@@ -131,6 +131,7 @@
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure
 - https://adepts.of0x.cc/decrypt-nu-coder
 - https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
+- https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt
 
 ### Miscellaneous
 
