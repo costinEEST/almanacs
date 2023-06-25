@@ -47,6 +47,7 @@
 - https://dev.to/5t3ph/build-tools-and-extensions-i-use-in-front-end-projects-2ko5
 - https://github.com/TomaszWaszczyk/shortcuts-productive-hacks
 - https://alexisvigoureux.medium.com/double-shift-key-in-visual-studio-code-eaef156b493f
+- https://bitfieldconsulting.com/golang/vs-code-go
 
 ### Tool
 
