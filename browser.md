@@ -175,6 +175,7 @@ javascript: (() =>
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
 - https://github.com/jxnl/youtube-summary-chrome
+- [A new tab page extension with material design and useful features](https://github.com/Alexays/Epiboard)
 - https://github.com/msfrisbie/spy-extension + https://mattfrisbie.substack.com/p/spy-chrome-extension
 - [Encrypt Gmail with PGP](https://github.com/FlowCrypt/flowcrypt-browser)
 - [Check how trackable you are based on your browser extensions](https://github.com/z0ccc/extension-fingerprints)
@@ -494,6 +495,7 @@ javascript: (() =>
 
 - [COOP and COEP explained](https://docs.google.com/document/d/1zDlfvfTJ_9e8Jdc8ehuV4zMEu9ySMCiTGMS9y0GU92k)
 - https://blog.daviddworken.com/posts/stopping-xs-leaks-at-scale + https://github.com/mjz3/LeakuidatorPlus + https://twitter.com/ndevtk/status/1549894289865560065
+- [Cross-origin isolation (COOP and COEP) through a service worker for situations in which you can't control the headers (e.g. GH pages)](https://github.com/gzuidhof/coi-serviceworker)
 
 ### Same Origin Policy (SOP)
 

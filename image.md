@@ -75,6 +75,7 @@
 - [A cross platform HTML5 QR code reader](https://github.com/mebjas/html5-qrcode)
 - https://github.com/nayuki/QR-Code-generator
 - [CLI tool to search for images with Google Reverse Image Search](https://github.com/tanaikech/goris)
+- [Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns](https://github.com/imgly/background-removal-js)
 
 ### Photo
 

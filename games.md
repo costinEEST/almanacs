@@ -111,6 +111,7 @@
 - https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm + https://github.com/foersterrobert/AlphaZeroFromScratch
 - https://github.com/sunjay/rust-game-dev-workshop
 - [Game Architecture | Molly Rocket](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6v0eFYcyiH7twEh1UF2Lxw) + https://github.com/Yakvi/handmade-hero-notes
+- [A fully compliant RISC-V computer made inside the game Terraria ](https://www.linkedin.com/feed/update/urn:li:activity:7078577034729304064) + https://github.com/misprit7/computerraria
 
 ### The creators
 
@@ -146,7 +147,7 @@
 - https://github.com/hexomethyl/minesweeper_internal
 - [Super Solvers: Gizmos & Gadgets](https://github.com/delan/reverssg)
 
-### Table 
+### Table
 
 - https://brainbaking.com/links/#board-games
 

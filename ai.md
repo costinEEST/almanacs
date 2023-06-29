@@ -429,7 +429,7 @@
   - [code-davinci-002 is actually better for many things than ChatGPT-3.5](https://twitter.com/deepfates/status/1638223654441086977) + https://www.lesswrong.com/posts/t9svvNPNmFf5Qa3TA/mysteries-of-mode-collapse#Observations
   - https://github.com/Barnacle-ai/awesome-llm-list
   - https://github.com/PicoCreator/smol-dev-js
-  - https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial 
+  - https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial
   - https://blog.nuculabs.dev//posts/2023/2023-06-21-fastai-model-deployment-fastapi
 - Opinion
   - [How AI misrepresents culture through a facial expression](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)
@@ -463,6 +463,10 @@
   - https://github.com/ThinamXx/ML..Interview..Preparation
   - [ML reasoning reading list](https://docs.google.com/spreadsheets/d/1OvLPMRVUAqHVb-bnBftBQpRxne8E4P7cPjRvZl43GPE) + https://twitter.com/EmilWallner/status/1301565902765293574
   - [Books and links Jürgen Schmidhuber recommends to new students at his lab](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/comment/cp5c0py) + https://twitter.com/EmilWallner/status/1314581326209613826
+
+- Deploy
+
+  - [Predicts the win probability for each NBA game every day. Demonstrates end-to-end Machine Learning deployment](https://github.com/cmunch1/nba-prediction)
 
 - Historic
   - [Growing open-source from Torch to PyTorch](https://soumith.ch/posts/2021/02/growing-opensource) + https://thegradientpub.substack.com/p/soumith-chintala-pytorch

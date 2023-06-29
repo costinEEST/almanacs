@@ -109,6 +109,7 @@
 - https://www.facebook.com/groups/astroclubuliasi
 - https://viatainpunctulzero.wordpress.com/2023/02/16/astronomia-stiinta-si-pasiune
 - [Luca Bombelli: Theoretical Physics, the Universe, and Everything](https://www.phy.olemiss.edu/~luca/Topics/list.html)
+- [Ovidiu Văduvescu](https://www.ovidiuv.ca)
 
 ### Constellation
 

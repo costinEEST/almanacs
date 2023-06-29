@@ -48,6 +48,7 @@
 - https://github.com/segunadebayo/adebayosegun.com
 - https://github.com/gavinmn/nelson.co + https://github.com/stars/gavinmn/lists/personal-sites
 - [e-commerce skateshop build with everything new in Next.js 13](https://github.com/sadmann7/skateshop)
+- [NBA CBA Chat built with Next.js, OpenAI, Supabase, and LangChain](https://github.com/mckaywrigley/nba-cba-ai-chat)
 
 ### Deploy
 
