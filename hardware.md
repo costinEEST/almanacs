@@ -36,6 +36,8 @@
 - [Patterns in the Machine: A Software Engineering Guide to Embedded Development](https://github.com/johnttaylor/pim) + https://embedded.fm/episodes/438
 - [Qorivva Simple Cookbook. Programs to Exercise Common Features on MPC5500 & MPC5600 Microcontrollers](https://www.nxp.com/docs/en/application-note/AN2865.pdf)
 - https://electronica-azi.ro/mouser-electronics-ofera-inginerilor-proiectanti-electronisti-o-gama-larga-de-carti-tehnice-electronice
+- [CMOS Cookbook | Don Lancaster (1977)](https://www.charlespetzold.com/blog/2023/07/In-Praise-of-Don-Lancaster.html)
+- [TTL Cookbook | Don Lancaster (1974)](https://www.facebook.com/jeff.duntemann/posts/pfbid0gWQWN5fxpk6zmK8S6yjeny13HBfpaGT2K5EDRGFFbfcEv9bMc3ScyLMUohpokuh3l)
 
 ### Watch
 
