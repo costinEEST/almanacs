@@ -99,6 +99,7 @@
 - https://github.com/in28minutes/in28Minutes-Course-Roadmap
 - https://www.freecodecamp.org/news/full-stack-development-with-mongodb-java-and-react
 - https://www.udemy.com/course/advanced-programming-with-javafx-build-an-email-client
+- [Programare Orientată pe Obiecte](https://ocw.cs.pub.ro/courses/poo) + https://gabrielmocanu.com/teaching#object-oriented-programming
 
 ### Best practices
 

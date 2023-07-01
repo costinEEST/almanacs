@@ -51,6 +51,7 @@
 - https://www.udemy.com/course/tcp-http-spdy-deep-dive
 - [Distributed Systems (CS 7610)](http://cnitarot.github.io/courses/ds_Fall_2020/index.html)
 - [computer networks on docker | Sergiu Nisioi](https://github.com/senisioi/computer-networks)
+- [Rețele Locale](https://ocw.cs.pub.ro/courses/rl)
 
 ### Tool
 

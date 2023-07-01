@@ -35,6 +35,8 @@
 - https://benmyers.dev/blog/native-visually-hidden
 - https://www.robinrendle.com/notes/the-details-element-is-amazing
 - https://www.scottohara.me/blog/2023/03/21/visually-hidden-hack.html
+- https://kizu.dev/fit-to-width-text
+- https://tetralogical.com/blog/2023/06/08/focus-in-view
 
 ### Book
 

@@ -609,6 +609,7 @@
 - [Run Cypress tests using Playwright and Playwright tests using Cypress](https://github.com/bahmutov/cypress-playwright)
 - https://www.oddbird.net/2023/05/01/web-platform-tests-polyfills
 - https://github.com/esplito/coding-notes/tree/master/testingjavascript
+- https://github.com/AriPerkkio/vitest-sonar-reporter
 
 ### Virtual machine
 

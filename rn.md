@@ -2,7 +2,7 @@
 
 - https://github.com/sonnylazuardi/react-native-nike-running
 - [start building apps ..](https://twitter.com/danituits/status/1217950948976463872)
-- [Building together.fit 🚧🔨💪](https://youtu.be/-_KIwWvFbHc) + https://ethan.link/blog/the-start-of-together-fit
+- [Building together.fit](https://youtu.be/-_KIwWvFbHc) + https://ethan.link/blog/the-start-of-together-fit
 - [A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android](https://github.com/Flaque/quirk)
 - https://medium.com/sanctuary-computer-inc/building-lightos-with-react-native-4b6e4ad1cd7f
 - https://github.com/victorkvarghese/react-native-messenger

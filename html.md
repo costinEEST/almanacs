@@ -181,7 +181,7 @@
 - https://github.com/open-source-flash/open-source-flash
 - https://github.com/tylerault/flashdetect
 
-<script></script>
+### <script></script>
 
 - https://blog.huli.tw/2022/04/24/en/how-much-do-you-know-about-script-type
 
@@ -272,6 +272,7 @@
 - https://matthiasott.com/notes/level-up-your-headings-game
 - https://www.w3.org/International/questions/qa-personal-names
 - https://tetralogical.com/blog/2022/10/05/foundations-html-semantics
+- https://www.tpgi.com/subheadings-subtitles-alternative-titles-and-taglines-in-html
 
 ### Security
 

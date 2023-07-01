@@ -39,8 +39,13 @@
 - https://github.com/AlisdairO/pgexercises
 - https://www.freecodecamp.org/news/build-a-crm
 
+### Community
+
+- https://github.com/stars/timqian/lists/decentralized-database
+
 ### Tool
 
+- https://github.com/stars/timqian/lists/db-client
 - https://sqlime.org + https://github.com/nalgeon/sqlime + https://twitter.com/ohmypy/status/1441389585129377798
 - [Visualizing missing data in databases](https://www.codediesel.com/data/visualizing-missing-data-in-databases/)
 - [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)

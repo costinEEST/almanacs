@@ -24,6 +24,7 @@
 - https://github.com/dabit3/gho-semantic-search
 - https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt
 - [Building a full-stack, fully type-safe pnpm monorepo with NestJS, NextJS & tRPC](https://www.tomray.dev/nestjs-nextjs-trpc)
+- https://a16z.com/2023/06/21/the-getting-started-with-ai-stack-for-javascript + https://github.com/a16z-infra/ai-getting-started
 
 ### Cheat sheet
 
@@ -31,6 +32,7 @@
 - https://maxleiter.com/blog/build-a-blog-with-nextjs-13
 - https://mateonunez.dev/blog/nextjs-appdir-migration
 - https://github.com/muxinc/reactathon-workshop
+- https://pixelpoint.io/blog/next-image
 
 ### Demo
 
@@ -49,11 +51,13 @@
 - https://github.com/gavinmn/nelson.co + https://github.com/stars/gavinmn/lists/personal-sites
 - [e-commerce skateshop build with everything new in Next.js 13](https://github.com/sadmann7/skateshop)
 - [NBA CBA Chat built with Next.js, OpenAI, Supabase, and LangChain](https://github.com/mckaywrigley/nba-cba-ai-chat)
+- [built using the new router, server components and everything new in Next.js 13](https://github.com/shadcn/taxonomy)
 
 ### Deploy
 
 - [Next.js SPA example with dynamic client-only routing and static hosting](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
 - https://whiskeywebandwhatnot.fm/nextjs-vercel-and-subscription-models
+- [Deploy a Next.js app to Github Pages via Github Actions](https://github.com/gregrickaby/nextjs-github-pages)
 
 ### Opinion
 

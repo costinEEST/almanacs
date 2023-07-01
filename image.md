@@ -76,6 +76,7 @@
 - https://github.com/nayuki/QR-Code-generator
 - [CLI tool to search for images with Google Reverse Image Search](https://github.com/tanaikech/goris)
 - [Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns](https://github.com/imgly/background-removal-js)
+- https://stable-diffusion-art.com/qr-code
 
 ### Photo
 

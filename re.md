@@ -45,6 +45,7 @@
 - [An Oral History of Binary Exploitation Defenses](https://taggarttech.teachable.com/courses/enrolled/1840120)
 - [Offensive Software Exploitation (OSE)](https://github.com/ashemery/exploitation-course) + https://m.youtube.com/playlist?list=PLCS2zI95IiNybAAQ0HL88YzwRpLXje5y6
 - [begin.re](https://twitter.com/OphirHarpaz/status/1012436495704129536)
+- [Binary Exploit Track](https://github.com/security-summer-school/binary)
 
 ### Book
 

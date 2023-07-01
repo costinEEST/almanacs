@@ -70,6 +70,7 @@
 - https://www.rsarai.xyz/architecture-open-source-asterisk
 - [How does the 12 Days of Christmas program work?](https://mdnahas.github.io/xmassong/index.html)
 - https://github.com/snowcra5h/c-systems-programming
+- https://github.com/pniewiejski/learn-io-polling
 
 ### Watch
 
@@ -104,7 +105,7 @@
 - [C and the Unix environment for undergraduate non-CSE majors](https://courses.cs.washington.edu/courses/cse374/21wi)
 - [Unix and C Programming](https://docs.google.com/presentation/d/1V0daPBXxOrxb4Ckrfhodf2QO-6Ag067y8am479oIjB0)
 - https://m.youtube.com/playlist?list=PLHJns8WZXCdvErvhlZXvpVIEKPfmDJt4z
-- https://twitter.com/SuspectedOceano/status/1600788919511138305 + https://www.freecodecamp.org/news/finally-understand-pointers-in-c 
+- https://twitter.com/SuspectedOceano/status/1600788919511138305 + https://www.freecodecamp.org/news/finally-understand-pointers-in-c
 - https://github.com/evgenkarlson/COMPLETED_PISCINE_C + https://github.com/evgenkarlson/ALL_SCHOOL_42 + https://github.com/Caceresenzo/My-School-42-Piscine-Experience + https://github.com/jotavare/42-resources
 
 ### Articles
@@ -147,7 +148,6 @@
 
 - [CS140E: embedded operating systems (Engler, Winter, 2022)](https://github.com/dddrrreee/cs140e-22win)
 - [6.1810: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2022/index.html)
-
 
 ### Opinion
 

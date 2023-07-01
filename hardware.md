@@ -35,6 +35,7 @@
 - [Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
 - [Patterns in the Machine: A Software Engineering Guide to Embedded Development](https://github.com/johnttaylor/pim) + https://embedded.fm/episodes/438
 - [Qorivva Simple Cookbook. Programs to Exercise Common Features on MPC5500 & MPC5600 Microcontrollers](https://www.nxp.com/docs/en/application-note/AN2865.pdf)
+- https://electronica-azi.ro/mouser-electronics-ofera-inginerilor-proiectanti-electronisti-o-gama-larga-de-carti-tehnice-electronice
 
 ### Watch
 
@@ -153,6 +154,7 @@
 - [Original Lishi Tools](https://m.youtube.com/channel/UCWBkIQv09counMsKwOMcpvw/playlists)
 - https://m.youtube.com/c/lockpickinglawyer/playlists
 - [KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds](https://github.com/MaximeBeasse/KeyDecoder)
+- [Locksport. A Hacker’s Guide to Lockpicking, Impressioning, and Safe Cracking](https://nostarch.com/locksport)
 
 ### PCB
 
