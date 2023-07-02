@@ -10,17 +10,6 @@
 - https://leanpub.com/csharp-for-babies
 - [How to Think Like a Computer Scientist: Python-3 and C# versions](https://github.com/cspwcspw/books)
 
-### Cinema
-
-- Writing parsers in C#: [video](https://m.youtube.com/watch?v=_yz1DRNpmPo) + [slides](https://www.slideshare.net/AlexeyGolub/alexey-golub-writing-parsers-in-c-3shape-meetup)
-- https://nuculabs.dev/2021/11/24/github-copilot-with-blazor
-- https://github.com/dotnet-presentations/dotnet-maui-workshop
-- https://patricia.no/learning_csharp.html
-- [Tool Dev For Game Devs | Freya Holmér](https://m.youtube.com/playlist?list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d)
-- [Planning, designing, and coding a Blazor site from scratch](https://m.youtube.com/playlist?list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI)
-- [Brendan Enrick](https://m.youtube.com/c/DevChatter/playlists) + https://www.pluralsight.com/courses/pair-programming
-- https://m.youtube.com/@GregorBiswanger/playlists
-
 ### Cheat sheet
 
 - https://devtut.github.io/csharp
@@ -81,3 +70,15 @@
 
 - https://www.chestiiautomate.ro/2021/09/12/functionalitati-din-c-pe-care-as-vrea-sa-le-am-in-java
 - https://devforum.ro/t/7-reasons-for-startups-to-choose-asp-net-over-node-js/18419/5
+
+### Watch
+
+- Writing parsers in C#: [video](https://m.youtube.com/watch?v=_yz1DRNpmPo) + [slides](https://www.slideshare.net/AlexeyGolub/alexey-golub-writing-parsers-in-c-3shape-meetup)
+- https://nuculabs.dev/2021/11/24/github-copilot-with-blazor
+- https://github.com/dotnet-presentations/dotnet-maui-workshop
+- https://patricia.no/learning_csharp.html
+- [Tool Dev For Game Devs | Freya Holmér](https://m.youtube.com/playlist?list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d)
+- [Planning, designing, and coding a Blazor site from scratch](https://m.youtube.com/playlist?list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI)
+- [Brendan Enrick](https://m.youtube.com/c/DevChatter/playlists) + https://www.pluralsight.com/courses/pair-programming
+- https://m.youtube.com/@GregorBiswanger/playlists
+- https://www.freecodecamp.org/news/learn-advanced-c-concepts

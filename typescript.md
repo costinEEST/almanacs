@@ -139,6 +139,7 @@
 - https://type-level-typescript.com/articles/making-generic-functions-pass-type-checking
 - https://github.com/jaked/reconstructing-typescript
 - https://www.steveruiz.me/posts/smooshed-object-union
+- https://github.com/labs42io/clean-code-typescript
 
 ### Tool
 
@@ -155,3 +156,4 @@
 - https://github.com/DavidWells/types-with-jsdocs
 - https://github.com/jahands/uuid-queue + https://youtu.be/djruLILR7BE
 - [ActivityPub and Mastodon-compatible server](https://github.com/cloudflare/wildebeest)
+- [A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely)

@@ -49,6 +49,7 @@
 - https://github.com/doocs/advanced-java
 - https://github.com/Blankj/awesome-java-leetcode
 - https://sookocheff.com/post/java/java-for-the-experienced-beginner
+- https://www.todaysoftmag.ro/article/3890/ghidul-tau-rapid-pentru-arhitectura-aplicatiilor-java
 
 ### Cinema
 

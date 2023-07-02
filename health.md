@@ -349,6 +349,10 @@
 - https://www.arcana.computer/blog/non-fungible-lattes
 - [A Treatise Concerning the Properties and Effects of Coffee (1792)](https://publicdomainreview.org/collection/moseley-coffee)
 
+### Fish 
+
+- https://zilesinopti.ro/2022/06/12/6-restaurante-din-tara-cu-peste-sau-fructe-de-mare
+
 ### Sugar
 
 - [Is there a way to be prescribed a continuous glucose monitor without an insulin deficiency/diabetes?](https://twitter.com/Austen/status/1211144183018246144)

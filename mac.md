@@ -114,6 +114,7 @@
 - https://mudge.name/2019/11/13/scripting-photos-for-macos-with-javascript
 - [Bash tool used for proactive detection of malicious activity](https://github.com/ab2pentest/MacOSThreatTrack)
 - [Framework for tracking personal Bluetooth devices via Apple's massive Find My network](https://github.com/seemoo-lab/openhaystack)
+- https://saurabhs.org/advanced-macos-commands
 
 ### Security
 

@@ -290,6 +290,7 @@
 ### Deploy 
 
 - https://dev.to/zenstok/part-22-deploy-scalable-nestjs-chat-app-to-kubernetes-59o0
+- https://www.feelback.dev/blog/feelback-saas-launch-architecture
 
 ### Error
 
