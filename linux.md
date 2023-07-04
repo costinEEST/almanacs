@@ -1,4 +1,4 @@
-### Arch 
+### Arch
 
 - https://ritlug.com/talks/slides/2018-w06-spring-arch-linux.pdf
 
@@ -47,6 +47,7 @@
 - https://github.com/alegrey91/systemd-service-hardening
 - [Linux vs GNU/Linux vs Alpine Linux](https://twitter.com/iximiuz/status/1560977903227383810)
 - [github action as a free ubuntu vps](https://github.com/smallflowercat1995/FreeVPS-ubuntu-latest)
+- https://thevaluable.dev/find-cli-guide-examples
 
 ### Course
 
@@ -68,7 +69,6 @@
 - https://www.udemy.com/course/rhcsa-certified-system-administrator-red-hat-tests-2022
 - https://github.com/snori74/linuxupskillchallenge
 - https://www.freecodecamp.org/news/introduction-to-linux
-
 
 ### Cronjob
 
@@ -120,8 +120,9 @@
 - [Attempt to run Linux in a GPU shader](https://github.com/mildsunrise/cursed_gpu_linux)
 - [hook to the NetFilters and manipulates the packets going via the network interfaces](https://github.com/eliranmaman/Basic-FireWall)
 - [The System Call Advent Calendar](https://osg.tuhh.de/Advent)
+- https://www.cyberdemon.org/2023/06/27/file-writes.html
 
-### NixOS 
+### NixOS
 
 - https://github.com/ghuntley/workshops
 

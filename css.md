@@ -37,6 +37,7 @@
 - https://www.scottohara.me/blog/2023/03/21/visually-hidden-hack.html
 - https://kizu.dev/fit-to-width-text
 - https://tetralogical.com/blog/2023/06/08/focus-in-view
+- https://matthiasott.com/notes/custom-properties-beyond-the-root
 
 ### Book
 
@@ -257,6 +258,7 @@
 - [Extending elements beyond the content area with CSS Grid & named grid lines](https://ryanmulligan.dev/blog/layout-breakouts)
 - https://utopia.fyi/blog/designing-a-utopian-layout-grid + https://utopia.fyi/grid/calculator
 - https://developer.chrome.com/en/blog/reading-order
+- [discoveries on how the CSS gap property operates when hiding items in grid-template & grid-auto layouts](https://ryanmulligan.dev/blog/grid-gap)
 
 ### FlexBox
 

@@ -28,7 +28,7 @@
 - [The Color Printer: A Treatise on the Use of Colors in Typographic Printing](https://www.c82.net/color-printer)
 - https://letterformarchive.org/news/books-about-signs
 - https://neeta.works/on-graphic-design + https://twitter.com/ainat_/status/1443938054612439044 + [Computational Information Design](https://benfry.com/phd)
-- [book to teach someone about *what* design is and it's role in business](https://twitter.com/parkerhendo/status/1672396680355000320)
+- [book to teach someone about _what_ design is and it's role in business](https://twitter.com/parkerhendo/status/1672396680355000320)
 
 ### Cinema
 
@@ -129,6 +129,7 @@
 - https://uxdesign.cc/in-praise-of-the-spreadsheet-eb31e2f6691d
 - https://github.com/ttt30ga/awesome-product-design
 - https://github.com/pinzonjulian/ux-for-lean-startups-notes
+- https://blog.prototypr.io/the-most-underrated-section-of-design-portfolios-1afe14c9b047
 
 ### Portfolio
 

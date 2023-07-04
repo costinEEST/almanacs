@@ -328,6 +328,7 @@
 - https://www.holovaty.com/writing/framebust-native-apps
 - https://makensi.es/web/appsec/2018/07/30/securely-handling-user-submitted-files.html
 - https://notes.normally.com/cookieless-unique-visitor-counts
+- https://sivapraveenr.medium.com/behind-the-scenes-of-y2z-travels-a-security-ranking-and-compliance-with-pcidss-hipaa-and-nist-f8319a25c99a
 
 ### HTTPS
 

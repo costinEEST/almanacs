@@ -105,6 +105,7 @@
 - [OpenAI’s Whisper tool for transcribing audio or video to text](https://www.digitalforensicstips.com/2023/02/transcribing-like-boss-for-no-cost.html)
 - [Text-to-speech](https://catid.io/posts/tts) + https://twitter.com/MrCatid/status/1647678353199996929
 - [GUI for a Vocal Remover that uses Deep Neural Networks](https://github.com/Anjok07/ultimatevocalremovergui)
+- [Content-aware fill and trim for music](https://mofi.loud.red)
 
 ### Security
 

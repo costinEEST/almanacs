@@ -26,6 +26,7 @@
 - [Reading Silicon: How to Reverse Engineer Integrated Circuits | Ken Shirriff](https://youtu.be/aHx-XUA6f9g)
 - https://github.com/jaames/playdate-reverse-engineering
 - https://github.com/ea/lytro_unlock
+- https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location
 
 ### Course
 

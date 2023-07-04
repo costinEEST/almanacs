@@ -33,11 +33,12 @@
 - https://www.learnwithjason.dev/introduction-to-figma-for-developers
 - https://m.youtube.com/c/MadeWithMatt/playlists
 
-### Cheat sheet 
+### Cheat sheet
 
 - https://josh-cusick-portfolio.webflow.io/projects/design-systems-for-figma + https://www.designsystemsforfigma.com + https://m.youtube.com/channel/UC2DXl-a7JFfzOwWtJasTh-w/videos
+- [A visual cheat-sheet for the 119 keyboard shortcuts](https://quickref.me/figma.html)
 
-### Community 
+### Community
 
 - https://georgiatdavis.com/about
 
@@ -65,4 +66,3 @@
 - https://ibuildmyideas.substack.com/p/automating-figma
 - https://github.com/calebnance/figma-plugin-react-starter
 - [Custom React components from any Figma design](https://clapy.co)
-

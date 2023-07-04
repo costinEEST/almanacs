@@ -18,6 +18,7 @@
 ### Community
 
 - [Vanzari plante de interior si gradina](https://www.facebook.com/groups/2236689903014772)
+- [Plante din România](https://www.facebook.com/groups/plantedinromania/files/files)
 
 ### Miscellaneous
 

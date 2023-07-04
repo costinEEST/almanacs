@@ -55,6 +55,7 @@ javascript: (() =>
 - [Linter for Responsive Images](https://github.com/ausi/RespImageLint)
 - https://jojo.io/posts/bookmarklets-speed
 - [Get your Kindle highlights out of the cloud and onto your computer](https://github.com/TristanH/bookcision) + https://alan.norbauer.com/articles/bookcision
+- https://github.com/jakecreps/osint-bookmarklets
 
 ### Document Object Model (DOM)
 
@@ -331,7 +332,7 @@ javascript: (() =>
 - https://github.com/elight/slack_emoticon_inhaler
 - [Browser extension that adds a table of contents to GitHub repos, wikis and gists](https://github.com/arthurhammer/github-toc)
 - [Translate Japanese by hovering over words](https://github.com/birchill/10ten-ja-reader)
-- [Remove the algorithmic content from Twitter, hide news & trends, lets you control which shared tweets appear on your timeline](https://github.com/insin/tweak-new-twitter)
+- [Remove the algorithmic content from Twitter, hide news & trends, lets you control which shared tweets appear on your timeline](https://github.com/insin/control-panel-for-twitter)
 - [Automatically fill out cookie popups based on your preferences](https://github.com/cavi-au/Consent-O-Matic)
 - [Search the textual content of any YouTube video](https://github.com/masasron/Video-Search-For-YouTube)
 - [Chrome extension to detect possible xsleaks](https://github.com/1lastBr3ath/XSleaks)

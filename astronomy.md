@@ -176,6 +176,7 @@
 - https://gizmodo.com/sls-rocket-launch-photos-nasa-artemis-1-1849791662
 - https://singularityhub.com/2022/11/23/this-amazing-interactive-map-of-the-universe-takes-you-all-the-way-back-to-the-big-bang + https://mapoftheuniverse.net
 - [Astrophotography by Thomas Fuchs](https://lightfrom.space)
+- https://artuniverse.eu/gallery/190705-rotation24h
 
 ### Planet
 

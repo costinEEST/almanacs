@@ -190,6 +190,7 @@
 - https://subpixel.space/entries/life-after-lifestyle
 - [Resources about improving inclusiveness and diversity for teams, open-source projects and events ](https://github.com/jamiehannaford/diversity)
 - [A curated list of engineering ladder, path and compensation frameworks](https://github.com/92bondstreet/awesome-engineering-path)
+- https://www.checklyhq.com/blog/achieving-company-retreat-goals-with-the-right-schedule
 
 ### Startups
 
