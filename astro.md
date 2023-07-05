@@ -1,10 +1,9 @@
-### Boilerplate 
+### Boilerplate
 
 - [A template for creating engineering blogs with multiple authors, co-authoring, topics, search](https://github.com/EddyVinck/astro-engineering-blog)
 - https://github.com/thomasKn/astro-shopify
 - [starter powered by MPA view transitions](https://github.com/argyleink/morphull)
 - [Template for startups, marketing websites & landing pages built with Astro, TailwindCSS & Alpine.js](https://github.com/surjithctly/astroship)
-
 
 ### Cinema
 
@@ -14,6 +13,7 @@
 
 - https://github.com/ardeora/astro-tanstack-multiframework
 - [A collection of modern, server-safe React hooks](https://github.com/uidotdev/usehooks) + https://twitter.com/tylermcginnis/status/1663630559921451008
+- https://github.com/humanwhocodes/humanwhocodes.com
 
 ### Opinion
 

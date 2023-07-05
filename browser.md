@@ -343,6 +343,9 @@ javascript: (() =>
 - [Firefox extension to highlight and save text from the web](https://github.com/frnsys/hili)
 - [A browser extension to detect website censorship methods as you surf](https://github.com/KarimPwnz/censorship-detector)
 - [removes ads and unwanted content from your LinkedIn feed](https://github.com/5Diraptor/CleanUp-LinkedIn-Chrome-Extension)
+- https://github.com/lapcat/SafariExtensions
+- Ensure paste isn’t blocked on any textbox: https://github.com/jswanner/DontF-WithPaste, https://underpassapp.com/StopTheMadness
+- [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
 
 ### Chrome
 

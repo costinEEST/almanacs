@@ -481,6 +481,7 @@
 - [China's tech scene, economy and politics](https://www.chinatalk.media/archive)
 - https://cellphonetaskforce.org/newsletters
 - [Lillian Li](https://lillianli.substack.com/archive)
+- [Codruța Simina & Ovidiu Mihalcea: știri despre știrile false](https://misreport.substack.com/archive)
 
 ### Social sciences
 
