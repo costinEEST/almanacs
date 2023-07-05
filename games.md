@@ -113,6 +113,7 @@
 - [Game Architecture | Molly Rocket](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6v0eFYcyiH7twEh1UF2Lxw) + https://github.com/Yakvi/handmade-hero-notes
 - [A fully compliant RISC-V computer made inside the game Terraria ](https://www.linkedin.com/feed/update/urn:li:activity:7078577034729304064) + https://github.com/misprit7/computerraria
 - [Wolfenstein 3D with a CGA renderer](https://github.com/jhhoward/WolfensteinCGA)
+- [Learning C# by Programming Games, second edition](https://github.com/egges/csharpgames)
 
 ### The creators
 

@@ -56,7 +56,7 @@
 - https://medium.com/@woj_ciech/leaklooker-gui-discover-browse-and-monitor-database-source-code-leaks-f4b82bbb48fe + https://github.com/woj-ciech/LeakLooker
 - https://blog.codepen.io/2018/06/07/need-to-store-some-data
 - [SQLmap guide](https://twitter.com/HusseiN98D/status/1238545584644149250) + http://www.it-docs.net/ddata/4956.pdf
-- [The Open Source Airtable Alternative. Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.](https://github.com/nocodb/nocodb) + https://news.ycombinator.com/item?id=27303783
+- [The Open Source Airtable Alternative. Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet](https://github.com/nocodb/nocodb) + https://news.ycombinator.com/item?id=27303783
 - [A Node.js powered tool that wraps pgdump and pgrestore then lets you share database dumps using git.](https://github.com/sdelements/flan)
 - [GUI to interact with databases](https://twitter.com/taylor_atx/status/1435384700529520645)
 - [View SQLite file online](https://github.com/inloop/sqlite-viewer)

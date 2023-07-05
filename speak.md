@@ -328,6 +328,7 @@
 - http://www.pagef30.com/2013/02/how-i-learned-korean.html
 - https://nelsonslog.wordpress.com/2022/06/19/korean-writing-hangul-and-unicode
 - https://lindiebotes.com/2023/04/08/how-to-learn-korean-grammar-efficiently
+- https://lindiebotes.com/2023/07/04/learn-korean-a-comprehensive-guide-to-effective-practice-for-beginners
 
 ### Khmer
 
@@ -379,7 +380,7 @@
 - https://www.observatorcultural.ro/articol/portret-al-traducatoarei-la-vreme-de-cumpana
 - https://www.emag.ro/dictionar-de-maxime-de-reflectii-expresii-latine-comentate-virgil-matei-9789733033257/pd/D5MV22BBM
 
-### Igbo 
+### Igbo
 
 - https://github.com/nkowaokwu/igbo_api
 

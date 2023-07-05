@@ -287,7 +287,7 @@
 - https://newrelic.com/blog/best-practices/nodejs-application-monitoring
 - https://github.com/skirianov/console-m + https://twitter.com/KajetanSw/status/1595717645642473473
 
-### Deploy 
+### Deploy
 
 - https://dev.to/zenstok/part-22-deploy-scalable-nestjs-chat-app-to-kubernetes-59o0
 - https://www.feelback.dev/blog/feelback-saas-launch-architecture
@@ -361,6 +361,7 @@
 ### `node:net`
 
 - [Upgrade a regular `net.Stream` connection to a secure `tls` connection](https://gist.github.com/TooTallNate/848444)
+- https://remysharp.com/2023/07/03/ip-to-timezone-the-30-second-way
 
 ### `node:process`
 
@@ -421,7 +422,7 @@
 
 - https://hermanradtke.com/sending-udp-messages-in-nodejs-without-dns-lookups
 
-### Stream
+### `node:stream`
 
 - [Stream into the Future - Matteo Collina](https://youtu.be/dEFdt_6fW-0) + https://twitter.com/djgrant_/status/1296395202056327172
 - https://github.com/lrlna/sketchin/blob/master/guides/node-streams.md
@@ -437,6 +438,7 @@
 - [O-Stream - provides an intuitive interface for node streams, in typescript.](https://gitlab.com/itayronen/o-stream)
 - https://github.com/jeresig/node-stream-playground
 - [Detect input encoding and convert to utf-8 if needed](https://github.com/finnp/to-utf-8)
+- https://www.lirantal.com/blog/avoid-fastify-reply-raw-and-reply-hijack-despite-being-a-powerful-http-streams-tool
 
 ### Promise
 

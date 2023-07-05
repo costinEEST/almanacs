@@ -610,6 +610,7 @@
 - https://www.oddbird.net/2023/05/01/web-platform-tests-polyfills
 - https://github.com/esplito/coding-notes/tree/master/testingjavascript
 - https://github.com/AriPerkkio/vitest-sonar-reporter
+- https://snyk.io/blog/how-to-add-playwright-tests-pr-ci-github-actions
 
 ### Virtual machine
 

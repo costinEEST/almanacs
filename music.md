@@ -142,6 +142,8 @@
 - [Music Programming for Java and JVM Languages](https://news.ycombinator.com/item?id=34660500)
 - https://www.charlespetzold.com/blog/2023/03/2023-Project-Building-a-Virginal.html
 - [Community-managed collection of tips and tricks for all stages of the music production process. All chips are labeled by Stage, Genre, Instrument, and Difficulty](https://github.com/pace-of-mind/music-chips.com)
+- [Cubase](https://m.youtube.com/@musictechtuition/playlists?view=1&sort=lad&flow=grid)
+- https://github.com/geokala/music_tutorial
 
 ### Song
 

@@ -14,6 +14,7 @@
 - [Automatically infer tensor shapes in your program using ChatGPT](https://github.com/msaroufim/vscode-pytorch-extension) + https://twitter.com/marksaroufim/status/1640119123337449473
 - https://github.com/RefactorSecurity/vscode-security-notes
 - https://github.com/tecosaur/LaTeX-Utilities
+- [Turn TypeScript errors into plain English](https://github.com/mattpocock/ts-error-translator)
 
 ### Miscellaneous
 

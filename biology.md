@@ -46,6 +46,7 @@
 - https://medium.com/@kshortridge/wtfunding-bioinformatics-genetic-data-753d6184af97
 - https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet/tree/master/Biohacking
 - [Michael Levin](https://www.drmichaellevin.org/presentations)
+- [Bioinformatics](https://www.facebook.com/groups/1058716941006035)
 
 ### Cinema
 
