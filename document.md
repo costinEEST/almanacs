@@ -12,13 +12,14 @@
 - https://alexwlchan.net/2019/08/removing-the-drm-from-my-kindle-books
 - https://www.microsoftpressstore.com/promotions/product-announcement-retirement-of-amazon-mobi-ebook-142421
 - https://github.com/Metalnem/hkpropel-downloader
+- [export epub book](https://github.com/jsoverson/node-to-rust/pull/15/files)
 
 ### .jpg
 
 - https://github.com/corkami/pics/blob/master/binary/JPG.pdf
 - https://keerok.github.io/2022/07/29/Complement-Scripts-for-polyglot-jpg-s
 
-### .json 
+### .json
 
 - https://corecursive.com/json-vs-xml-douglas-crockford
 
@@ -98,6 +99,6 @@
 - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions
 - https://textslashplain.com/2023/04/05/file-types
 
-### .zip 
+### .zip
 
 - https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5 + [Monitoring the internet for new .zip domains]https://github.com/trickest/zip) + https://mrd0x.com/file-archiver-in-the-browser/?no-cache=1

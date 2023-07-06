@@ -43,6 +43,7 @@
 - [A free and open source code snippets manager for developers](https://github.com/antonreshetov/massCode)
 - https://github.com/signalapp/Signal-Desktop
 - [Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE](https://github.com/sunner/ChatALL)
+- [GitHub Desktop is written in TypeScript and uses React](https://github.com/desktop/desktop)
 
 ### Boilerplate
 
@@ -54,6 +55,7 @@
 - https://github.com/reZach/secure-electron-template
 - https://github.com/maxogden/menubar + https://github.com/wesbos/pommade
 - https://github.com/electron-react-boilerplate/electron-react-boilerplate
+- https://github.com/cawa-93/vite-electron-builder
 
 ### Opinion
 

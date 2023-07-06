@@ -119,6 +119,7 @@
 
 ### Practice
 
+- https://github.com/jsoverson/node-to-rust
 - https://github.com/wasdk/WebAssemblyStudio
 - https://github.com/danvk/aoc2020 + https://danvdk.medium.com/advent-of-code-2020-this-time-in-rust-7904559e24bc
 - https://github.com/integer32llc/rust-playground

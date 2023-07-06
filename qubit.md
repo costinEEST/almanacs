@@ -10,7 +10,7 @@
 - https://eli.thegreenplace.net/2009/01/05/book-review-qed-the-strange-theory-of-light-and-matter-by-richard-feynman
 - https://www.manning.com/books/quantum-computing-in-action
 - [Quantum Mechanics | Leonard I. Schiff](https://twitter.com/curiouswavefn/status/1621578536128741377)
-- Introduction to Quantum Computing for Physicists: https://obm.physics.metu.edu.tr/intro-QC/courses/PHYS437/index.html + https://obm.physics.metu.edu.tr/intro-QC/courses/PHYS710/index.html 
+- Introduction to Quantum Computing for Physicists: https://obm.physics.metu.edu.tr/intro-QC/courses/PHYS437/index.html + https://obm.physics.metu.edu.tr/intro-QC/courses/PHYS710/index.html
 
 ### Cheat sheet
 
@@ -18,6 +18,7 @@
 - https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks
 - https://singularityhub.com/2021/10/04/how-quantum-computers-can-be-used-to-build-better-quantum-computers
 - https://github.com/hsavit1/Awesome-Quantum-Computation
+- [Solutions of the QHack 2023 Quantum Coding Challenges](https://github.com/BillyLjm/QHack2023)
 
 ### Community
 

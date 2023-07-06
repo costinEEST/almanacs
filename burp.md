@@ -42,6 +42,7 @@
 - [bypassing client-side encryption using custom logic for manual and automation testing with Python and NodeJS](https://github.com/Anof-cyber/PyCript)
 - [Request minimizer will hide cookies from HTTP requests](https://twitter.com/osiryszzz/status/1648296175894925312)
 - https://github.com/honoki/burp-digitalocean-droplet-proxy
+- https://www.crackcodes.in/2023/06/top-10-burpsuite-extensions-you-must.html
 
 ### Cinema
 

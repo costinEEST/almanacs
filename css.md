@@ -57,8 +57,7 @@
 - https://www.twitch.tv/kevinpowellcss
 - [Apple Music on macOS](https://twitter.com/freetonik/status/1322144670886100992)
 - https://www.liviuvasilescu.ro/blog/ziua-vignelli
-- [Tailwind CSS: From Zero to Production | Tailwind Labs](https://m.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
-- https://github.com/tailwindlabs/tailwindcss-from-zero-to-production
+- [Tailwind CSS: From Zero to Production | Tailwind Labs](https://m.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) + https://github.com/tailwindlabs/tailwindcss-from-zero-to-production
 - [Design for Safari 15](https://developer.apple.com/videos/play/wwdc2021/10029)
 - https://courses.joshwcomeau.com/video-archive/css-for-js
 - [Designing in the Browser](https://m.youtube.com/playlist?list=PLNYkxOF6rcIDI0QtJvW6vKonTxn6azCsD)
@@ -145,7 +144,7 @@
 - [Basic todo app functionality without using JavaScript.](https://github.com/mattzeunert/CSS-Todo-App)
 - https://github.com/trueskawka/css-drawings
 - [Styled input range (slider/progress) by Mihai-Cristian Voinea](https://codepen.io/mihai-cristian-voinea/pen/RwPgxeG)
-- [WICKEDBLOCKS are a growing collection of more than 120 layout blocks and components built with Tailwind CSS V2 ready to copy paste on your Tailwind project.](https://blocks.wickedtemplates.com)
+- [WICKEDBLOCKS are a growing collection of more than 120 layout blocks and components built with Tailwind CSS V2 ready to copy paste on your Tailwind project](https://blocks.wickedtemplates.com)
 - https://twitter.com/search?q=(from%3Akevinjpowell)%20%23csstipoftheday + https://codepen.io/collection/nJzQBY
 - https://codepen.io/2020/popular/pens/10
 - [13 Tips to improve Landing Page Design.](https://twitter.com/IndieHackers/status/1358746146508845058)
@@ -318,6 +317,7 @@
 - https://github.com/scastiel/3d-book-image-css-generator
 - [Generate clothoid rounded corners by CSS clip-path](https://onotakehiko.dev/clothoid)
 - [Dynamic Viewport Height in Tailwind](https://domchristie.co.uk/posts/tailwind-dvh)
+- [Merge Tailwind CSS classes without style conflicts](https://github.com/dcastil/tailwind-merge)
 
 ### Security
 
