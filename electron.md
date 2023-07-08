@@ -77,6 +77,7 @@
 - https://taggart-tech.com/quasar-electron
 - [Leveraging Electron Applications For Post-Exploitation | Ruben Boonen (b33f)](https://github.com/FuzzySecurity/WWHF-WayWest-2022) + https://youtu.be/VXb6lwXhCAc
 - https://goose.icu/discord-0click-xss-to-rce
+- https://mizu.re/post/linux-local-electron-application-script-src-self-bypass
 
 ### Tool
 

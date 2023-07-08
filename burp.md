@@ -44,13 +44,14 @@
 - https://github.com/honoki/burp-digitalocean-droplet-proxy
 - https://www.crackcodes.in/2023/06/top-10-burpsuite-extensions-you-must.html
 
-### Cinema
+### Watch
 
 - [Getting Started with Burp Suite & Webapp Pentesting | BB King](https://m.youtube.com/watch?v=xKudsnN3gkE&t=1868s)
 - [BOUNTY THURSDAYS - BURP 1.7 or 2.0 + more sweet stuff!](https://youtu.be/qnddz5iew1A)
 - https://twitter.com/pentagridsec/status/1372112849661726720 + https://www.pentagrid.ch/en/blog/burp-suite-hackvertor-custom-tags-email-sms-tan-multi-factor-authentication
 - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/setup.md#burp-suite
 - [Deploy a Private Burpsuite Collaborator using boto3](https://github.com/Leoid/AWSBurpCollaborator)
+- https://www.agarri.fr/docs/nahamcon23-burp_automation.pdf
 
 ### Practice
 

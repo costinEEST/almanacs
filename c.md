@@ -172,6 +172,7 @@
 - [Baron Samedit: Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow
 - [Vulnerabilities 1001: C-Family Software Implementation | OpenSecurityTraining](https://m.youtube.com/playlist?list=PLUFkSN0XLZ-m3i_FkgTxDZASkwFJJ7MyZ) + https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1001_C-family+2023_v1/about
+- [Basic reverse shell in C using socket() with complete explanation](https://github.com/pwnwithlove/C_revshell)
 
 ### Tool
 

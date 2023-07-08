@@ -134,6 +134,7 @@
 - https://www.synacktiv.com/publications/php-filter-chains-file-read-from-error-based-oracle
 - https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f
+- https://github.com/W0rty/libcurl-crlf
 
 ### Miscellaneous
 

@@ -75,6 +75,7 @@
 - https://github.com/very-good-science/data-ethics-club
 - [Software Engineering at Google](https://abseil.io/resources/swe-book)
 - [Practical Foundations for Programming Languages (Second Edition) by Robert Harper](http://www.cs.cmu.edu/~rwh/pfpl)
+- [Introduction to higher order categorical logic (1986) | Joachim Lambek, Philip Scott](https://github.com/Mzk-Levi/texts/blob/master/Lambek%20J.%2C%20Scott%20P.J.%20Introduction%20to%20Higher%20Order%20Categorical%20Logic.pdf)
 
 ### Date and Time on the Internet: Timestamps
 

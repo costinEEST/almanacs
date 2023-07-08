@@ -113,6 +113,7 @@
 
 - https://github.com/quii/learn-go-with-tests
 - https://github.com/cdarwin/go-koans
+- https://bitfieldconsulting.com/golang/bugs-fuzzing
 
 ### Tool
 
@@ -229,6 +230,7 @@
 - https://github.com/lojikil/kyoto-go-nihilism
 - https://posts.specterops.io/malware-development-pt-1-dynamic-module-loading-in-go-1121f07f3a5a
 - [Golang security checker](https://github.com/securego/gosec)
+- https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win
 
 ### Static website
 

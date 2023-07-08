@@ -16,89 +16,6 @@
 - [Quickly create and configure a new library or Node.js project](https://github.com/bitjson/typescript-starter)
 - [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 
-### Watch
-
-- https://m.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
-- [Ethan Arrowood](https://github.com/Ethan-Arrowood/talks)
-- [Data Structures in Typescript | Jeff Zhang](https://m.youtube.com/playlist?list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd) + https://github.com/jeffzh4ng/iruka
-- [Object Oriented Typescript | Jeff Zhang](https://m.youtube.com/playlist?list=PLn4fTSbSpY5eY_M1mKWxGa9pViEodofKy)
-- https://www.udemy.com/course/typescript-design-patterns
-- https://effectivetypescript.com/2021/12/10/typescript-types-the-first-500-years
-- [No BS TS | Jack Herrington](https://m.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
-- https://codereviewvideos.com/course/from-jquery-to-typescript + https://m.youtube.com/playlist?list=PL1sZ2OJpPmWZzM8ckdBgVaqTWZwAU_VNP
-- https://github.com/microsoft/TypeScript-Compiler-Notes
-- [Leaky Abstractions | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3AM082CRmdJlvJqpVPU4xE5)
-- [FP 101 | Victor Boutté](https://m.youtube.com/playlist?list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV), https://github.com/monsieurBoutte/fp-101-series
-
-### Course
-
-- https://www.udemy.com/course/understanding-typescript + http://hop.ie/blog/learning-typescript/
-- [Typed Functional Programming in Typescript](https://typescript.fun)
-- [Typescript concepts - TypeWithMe](https://m.youtube.com/playlist?list=PLlYJBXwGoczG73vrUpl4G8WonVS5uNHjn)
-- https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-typescript + https://github.com/glaucia86/curso-typescript-zero-to-hero + https://m.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H
-- https://github.com/ChuckJonas/spotify-fp-ts-example
-- https://github.com/basarat/typescript-for-professionals
-- https://www.udemy.com/course/typescript-with-react-jest-testing + https://m.youtube.com/playlist?list=PLrh-y_cvrt07jehJeFr4o-0dVSDhiy-9f + https://github.com/barosanuemailtest/ts-course-react
-- https://www.eddyvinck.com/blog/what-i-learned-from-total-typescript-part-1-type-transformations
-
-### Community
-
-- [Remo Jansen](https://www.remojansen.com/#talks)
-- [Stefan Baumgartner](https://fettblog.eu/archive/typescript)
-- [Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
-- [Broadly scoped ecosystem & mono-repository of 167+ TypeScript projects for functional, data driven development](https://github.com/thi-ng/umbrella)
-
-### Presentations
-
-- [Typed functional programming in TypeScript in five minutes](https://github.com/typescript-fun/five-minutes-demo)
-- How domain modeling can help us to make our apps consistent & safe: [repo](https://github.com/gillchristian/modeling) + [slides](https://modeling.now.sh/)
-- [Understanding TypeScript's Structural Type System](https://spin.atomicobject.com/2018/09/28/typescript-strange-loop-2018)
-- https://github.com/michalczukm/typescript-who-even-need-template-literal-types-presentation
-
-### Opinion
-
-- [I really wish TypeScript had better inference.](https://twitter.com/devongovett/status/1219663924989050881)
-- [TypeScript vs. PureScript vs. ReasonML vs. Elm](https://hasura.io/blog/why-we-chose-typescript-for-hasura-console)
-- https://typing-is-hard.ch
-- https://valand.dev/blog/post/from-rust-to-typescript
-- [Generics or Type Assertion?](https://twitter.com/wesbos/status/1369673186720309249)
-- [If you're having a type inference issue with a 3rd party library, don't try to force it by shoving types into generics](https://twitter.com/BenLesh/status/1025156281936408576)
-- [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
-- https://p.migdal.pl/2020/03/02/types-tests-typescript.html
-- https://nehalist.io/trpc-review
-
-### Patterns
-
-- [Lets learn Dependency Injection.](https://swatinem.de/blog/learn-di)
-- [asyncComponent](https://gist.github.com/cramforce/b5e3f0b103f841d2e5e429b1d5ac4ded)
-
-### Practice
-
-- https://github.com/typescript-course/typescript-project-from-scratch
-- https://github.com/total-typescript/beginners-typescript-tutorial
-- https://github.com/total-typescript/typescript-generics-workshop
-- https://github.com/mdevils/typescript-exercises
-- https://github.com/type-challenges/type-challenges
-- https://github.com/stevenmusumeche/advent-of-code-2019
-- [📚 Functions and algorithms implemented purely with TypeScript's type system ](https://github.com/ronami/meta-typing)
-- https://ts-engine.dev
-- https://startup-cto.net/10-bad-typescript-habits-to-break-this-year
-- https://github.com/dsherret/ts-ast-viewer
-- https://dev.doctorevidence.com/efficient-node-development-with-typescript-10a6d390129d
-- [TypeScript build examples and workflows.](https://github.com/serbanghita/TypeScript-Builds)
-- [Just migrated a project from Flow to TypeScript.](https://twitter.com/satya164/status/1071953492544233472)
-- https://blog.ghaiklor.com/2021/07/19/let-us-improve-your-skill-set-when-working-with-typescript + https://github.com/ghaiklor/type-challenges-solutions + https://blog.beraliv.dev/2021-04-04-type-challenges
-- [TypeScript paths with Node.js without any additional bundling/transformation step](https://github.com/fox1t/ts-paths-node-native)
-- https://www.placemark.io/post/good-magic-with-typescript + https://twitter.com/placemarkio/status/1454102660731265033
-- https://github.com/jdan/adventofcode/tree/main/2021/ts
-- https://github.com/ciocan/adventofcode
-- https://github.com/otobot1/Advent-of-Code-2022
-- https://trpc.io/blog/tinyrpc-client
-- https://github.com/g-plane/type-gymnastics
-
-### Radio
-
-- https://topenddevs.com/podcasts/javascript-jabber/episodes/to-typescript-or-not-to-typescript-jsj-538
 
 ### Cheat sheet
 
@@ -140,6 +57,79 @@
 - https://github.com/jaked/reconstructing-typescript
 - https://www.steveruiz.me/posts/smooshed-object-union
 - https://github.com/labs42io/clean-code-typescript
+- [Module documentation (in progress)](https://gist.github.com/andrewbranch/79f872a8b9f0507c9c5f2641cfb3efa6)
+
+### Course
+
+- https://www.udemy.com/course/understanding-typescript + http://hop.ie/blog/learning-typescript/
+- [Typed Functional Programming in Typescript](https://typescript.fun)
+- [Typescript concepts - TypeWithMe](https://m.youtube.com/playlist?list=PLlYJBXwGoczG73vrUpl4G8WonVS5uNHjn)
+- https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-typescript + https://github.com/glaucia86/curso-typescript-zero-to-hero + https://m.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H
+- https://github.com/ChuckJonas/spotify-fp-ts-example
+- https://github.com/basarat/typescript-for-professionals
+- https://www.udemy.com/course/typescript-with-react-jest-testing + https://m.youtube.com/playlist?list=PLrh-y_cvrt07jehJeFr4o-0dVSDhiy-9f + https://github.com/barosanuemailtest/ts-course-react
+- https://www.eddyvinck.com/blog/what-i-learned-from-total-typescript-part-1-type-transformations
+
+### Community
+
+- [Remo Jansen](https://www.remojansen.com/#talks)
+- [Stefan Baumgartner](https://fettblog.eu/archive/typescript)
+- [Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
+- [Broadly scoped ecosystem & mono-repository of 167+ TypeScript projects for functional, data driven development](https://github.com/thi-ng/umbrella)
+
+### Presentations
+
+- [Typed functional programming in TypeScript in five minutes](https://github.com/typescript-fun/five-minutes-demo)
+- How domain modeling can help us to make our apps consistent & safe: [repo](https://github.com/gillchristian/modeling) + [slides](https://modeling.now.sh/)
+- [Understanding TypeScript's Structural Type System](https://spin.atomicobject.com/2018/09/28/typescript-strange-loop-2018)
+- https://github.com/michalczukm/typescript-who-even-need-template-literal-types-presentation
+
+### Opinion
+
+- [I really wish TypeScript had better inference.](https://twitter.com/devongovett/status/1219663924989050881)
+- [TypeScript vs. PureScript vs. ReasonML vs. Elm](https://hasura.io/blog/why-we-chose-typescript-for-hasura-console)
+- https://typing-is-hard.ch
+- https://valand.dev/blog/post/from-rust-to-typescript
+- [Generics or Type Assertion?](https://twitter.com/wesbos/status/1369673186720309249)
+- [If you're having a type inference issue with a 3rd party library, don't try to force it by shoving types into generics](https://twitter.com/BenLesh/status/1025156281936408576)
+- [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
+- https://p.migdal.pl/2020/03/02/types-tests-typescript.html
+- https://nehalist.io/trpc-review
+
+### Patterns
+
+- https://github.com/jbreckmckye/node-typescript-architecture
+- [Lets learn Dependency Injection](https://swatinem.de/blog/learn-di)
+- [asyncComponent](https://gist.github.com/cramforce/b5e3f0b103f841d2e5e429b1d5ac4ded)
+
+### Practice
+
+- https://github.com/typescript-course/typescript-project-from-scratch
+- https://github.com/total-typescript/beginners-typescript-tutorial
+- https://github.com/total-typescript/typescript-generics-workshop
+- https://github.com/mdevils/typescript-exercises
+- https://github.com/type-challenges/type-challenges
+- https://github.com/stevenmusumeche/advent-of-code-2019
+- [📚 Functions and algorithms implemented purely with TypeScript's type system ](https://github.com/ronami/meta-typing)
+- https://ts-engine.dev
+- https://startup-cto.net/10-bad-typescript-habits-to-break-this-year
+- https://github.com/dsherret/ts-ast-viewer
+- https://dev.doctorevidence.com/efficient-node-development-with-typescript-10a6d390129d
+- [TypeScript build examples and workflows.](https://github.com/serbanghita/TypeScript-Builds)
+- [Just migrated a project from Flow to TypeScript.](https://twitter.com/satya164/status/1071953492544233472)
+- https://blog.ghaiklor.com/2021/07/19/let-us-improve-your-skill-set-when-working-with-typescript + https://github.com/ghaiklor/type-challenges-solutions + https://blog.beraliv.dev/2021-04-04-type-challenges
+- [TypeScript paths with Node.js without any additional bundling/transformation step](https://github.com/fox1t/ts-paths-node-native)
+- https://www.placemark.io/post/good-magic-with-typescript + https://twitter.com/placemarkio/status/1454102660731265033
+- https://github.com/jdan/adventofcode/tree/main/2021/ts
+- https://github.com/ciocan/adventofcode
+- https://github.com/otobot1/Advent-of-Code-2022
+- https://trpc.io/blog/tinyrpc-client
+- https://github.com/g-plane/type-gymnastics
+
+### Radio
+
+- https://topenddevs.com/podcasts/javascript-jabber/episodes/to-typescript-or-not-to-typescript-jsj-538
+
 
 ### Tool
 
@@ -157,3 +147,18 @@
 - https://github.com/jahands/uuid-queue + https://youtu.be/djruLILR7BE
 - [ActivityPub and Mastodon-compatible server](https://github.com/cloudflare/wildebeest)
 - [A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely)
+
+
+### Watch
+
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
+- [Ethan Arrowood](https://github.com/Ethan-Arrowood/talks)
+- [Data Structures in Typescript | Jeff Zhang](https://m.youtube.com/playlist?list=PLn4fTSbSpY5cL4_0MP83wq5khbmG3IKKd) + https://github.com/jeffzh4ng/iruka
+- [Object Oriented Typescript | Jeff Zhang](https://m.youtube.com/playlist?list=PLn4fTSbSpY5eY_M1mKWxGa9pViEodofKy)
+- https://www.udemy.com/course/typescript-design-patterns
+- https://effectivetypescript.com/2021/12/10/typescript-types-the-first-500-years
+- [No BS TS | Jack Herrington](https://m.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
+- https://codereviewvideos.com/course/from-jquery-to-typescript + https://m.youtube.com/playlist?list=PL1sZ2OJpPmWZzM8ckdBgVaqTWZwAU_VNP
+- https://github.com/microsoft/TypeScript-Compiler-Notes
+- [Leaky Abstractions | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3AM082CRmdJlvJqpVPU4xE5)
+- [FP 101 | Victor Boutté](https://m.youtube.com/playlist?list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV), https://github.com/monsieurBoutte/fp-101-series

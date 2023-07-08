@@ -480,6 +480,7 @@ javascript: (() =>
 - https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution
 - [Discover new target domains using Content Security Policy](https://github.com/edoardottt/csprecon)
 - https://github.com/naugtur/CSP-exercise
+- [Monorepo for CSP-related packages](https://github.com/frux/csp)
 
 ### Cross-origin resource sharing (CORS)
 
@@ -672,6 +673,7 @@ javascript: (() =>
 - [SingleFile was really slow on pages with large stylesheets, especially in Firefox](https://twitter.com/check_ca/status/1583927164956995585)
 - [effective ways to improve Core Web Vitals performance in 2023](https://web.dev/top-cwv-2023)
 - [Cumulative Layout Shift Differences](https://www.debugbear.com/blog/cls-lab-field-differences)
+- https://dev.to/noamr/when-a-millisecond-is-not-a-millisecond-3h6
 
 ### Miscellaneous
 

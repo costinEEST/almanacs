@@ -15,6 +15,7 @@
 - [The Linux Programming Interface](https://twitter.com/littledan/status/1550352392356372480)
 - [The Linux Memory Manager](https://ljs.io/book.html)
 - https://thevalleyofcode.com/linux
+- [The Linux Kernel Module Programming Guide (updated for 5.x kernels)](https://github.com/sysprog21/lkmpg) + https://twitter.com/mishmashru/status/1667472263975694336
 
 ### Cinema
 
@@ -147,6 +148,7 @@
 - https://devforum.ro/t/programe-si-utilitare-linux-care-fac-viata-mai-buna/16276/27
 - [Linux privilege escalation auditing tool](https://github.com/The-Z-Labs/linux-exploit-suggester)
 - https://github.com/lakinduakash/linux-wifi-hotspot
+- [GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems](https://github.com/GTFOBins/GTFOBins.github.io)
 
 ### Embedded
 

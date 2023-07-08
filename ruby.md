@@ -148,6 +148,7 @@
 - https://noti.st/palkan/j3i2Dr/ruby-next-make-old-rubies-quack-like-a-new-one
 - [Rails 6 API | Tom Kadwill](https://m.youtube.com/playlist?list=PLbTv9eGiI03u1-JFkFpPGsR_hMre6WX3e)
 - [Build a Pet Adoption App With Ruby On Rails 6 & PostgreSQL](https://m.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
+- [Gradually Modularizing your Monolith with Ruby Packs and Packwerk](https://github.com/gradual-systems/railsconf-workshop)
 - [Full-Stack Development with Ember and Rails](https://m.youtube.com/playlist?list=PLXXnezSEtvNPcZHqzXhrL1-7JkrbIR6qF)
 - [Let's recreate Notion in Ruby on Rails | Dr Nic Williams](https://m.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
 - [Rails Foundation | Codemy school](https://m.youtube.com/playlist?list=PLjQo0sojbbxVz2zbpq3DY2pePUfq7coSe)

@@ -122,3 +122,4 @@
 
 - https://github.com/Grant-Knoetze/c--red-team-code
 - [Reverse Engineering 3011: Reversing C++ Binaries | OpenSecurityTraining](https://m.youtube.com/playlist?list=PLUFkSN0XLZ-nHQqoXhGE2IJ0ldDSxOpz3)
+- https://www.apriorit.com/dev-blog/367-anti-reverse-engineering-protection-techniques-to-use-before-releasing-software

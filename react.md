@@ -138,6 +138,7 @@
 - https://blog.danoph.com/create-an-image-tagger-app-with-reactjs-and-ai-in-just-a-few-simple-steps
 - [Collaborative editor project](https://github.com/toeverything/blocksuite)
 - https://github.com/samselikoff/ios-apple-music-clone
+- [A collection of clever yet understated user interactions found on the web](https://github.com/ryanwiemer/subtle-ui)
 
 ### Radio
 

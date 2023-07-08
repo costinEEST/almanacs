@@ -54,6 +54,7 @@
 - [Latex en 147 minutos](https://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf)
 - https://tex.stackexchange.com/questions/7770/file-extensions-related-to-latex-etc
 - https://www.freecodecamp.org/news/learn-latex-full-course
+- https://github.com/Wookai/paper-tips-and-tricks
 
 ### .txt
 

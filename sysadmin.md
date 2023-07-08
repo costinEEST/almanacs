@@ -120,6 +120,10 @@
 - https://jaked.org/blog/2021-02-18-How-to-run-Electron-on-Linux-on-Docker-on-Mac
 - [A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container](https://github.com/techno-tim/littlelink-server)
 
+### Infrastructure as code (IaC)
+
+- [Terraform + Ansible + Docker Swarm boilerplate](https://github.com/thomvaill/tads-boilerplate)
+
 ### Kubernetes (k8s)
 
 - https://github.com/jamiehannaford/what-happens-when-k8s

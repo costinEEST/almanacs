@@ -69,6 +69,7 @@
 - [Most usable tools for iOS penetration testing](https://github.com/ansjdnakjdnajkd/iOS)
 - [Grab API keys out of a compiled iPhone app](https://twitter.com/jamonholmgren/status/1647305506053320704)
 - [Build iOS project (.xcodeproj, .xcworkspace), and export ipa](https://github.com/yukiarrr/ios-build-action)
+- https://github.com/ammarahm-ed/v8-jsi-benchmarks-ios
 
 ### Security
 

@@ -115,6 +115,7 @@
 - [Bash tool used for proactive detection of malicious activity](https://github.com/ab2pentest/MacOSThreatTrack)
 - [Framework for tracking personal Bluetooth devices via Apple's massive Find My network](https://github.com/seemoo-lab/openhaystack)
 - https://saurabhs.org/advanced-macos-commands
+- [BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency](https://github.com/ExistentialAudio/BlackHole)
 
 ### Security
 

@@ -203,6 +203,7 @@
 - https://gitlab.com/0xdf/aoc2022
 - [Utils for streaming large files (S3, HDFS, gzip, bz2...)](https://github.com/RaRe-Technologies/smart_open)
 - [ocial reading and reviewing, decentralized with ActivityPub](https://github.com/bookwyrm-social/bookwyrm)
+- https://github.com/ehmatthes/django-simple-deploy
 
 ### Mono repository
 
@@ -339,6 +340,7 @@
 - https://www.errbufferoverfl.me/snake-charming-for-beginners/build-your-command-centre
 - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier: [repo](https://github.com/byt3bl33d3r/WitnessMe) + [video](https://m.youtube.com/watch?v=xMeJoaEJshQ)
 - https://github.com/bamos/reading-list
+- [API server to lookup IP addresses for their geographic location](https://github.com/adulau/mmdb-server) + https://hdoc.csirt-tooling.org/OgdCNqHYQpukzRKN0T2hmg#
 - https://github.com/pncnmnp/Markdown-to-HTML
 - [Animation engine for explanatory math videos.](https://github.com/3b1b/manim)
 - [Replacing netstat's 90s C Code With Modern Python](https://matt.sh/netmatt)
@@ -400,6 +402,7 @@
 - https://nuculabs.dev/p/getting-started-with-pdoc3-for-python
 - [Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 - [Recommend movies to your friends and ask them for recommendations all through a convenient SMS interface](https://github.com/karllhughes/recs-by-text)
+- [Cinder is Meta's internal performance-oriented production version of CPython](https://github.com/facebookincubator/cinder)
 
 ### Testing
 
@@ -408,3 +411,4 @@
 - https://github.com/mytechnotalent/Selenium-For-Everyone
 - [TCR test && commit || revert -- Rope in Python | Kent Beck](https://m.youtube.com/playlist?list=PLlmVY7qtgT_nhLyIbeAaUlFOWbWT5y53t)
 - https://github.com/AABur/testing_in_python
+- [Docker-based integration tests](https://github.com/avast/pytest-docker)

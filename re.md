@@ -27,6 +27,7 @@
 - https://github.com/jaames/playdate-reverse-engineering
 - https://github.com/ea/lytro_unlock
 - https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location
+- https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15
 
 ### Course
 
