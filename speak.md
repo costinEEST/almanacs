@@ -128,6 +128,7 @@
 - https://underscorehao.net/2020/05/learning-1500-chinese-characters-in-a-month-heisig-method-review + https://notes.reganmian.net/a--chinese
 - [Chinese translations for classic IT resources](https://github.com/oldratlee/translations)
 - https://biblioteca-digitala.ro/?pub=6303-sistemul-partilor-de-vorbire-in-gramatica-chineza
+- https://www.youtube.com/playlist?list=PL869716C3E54083CC
 
 ### Arabic
 
@@ -138,6 +139,7 @@
 - https://ucdc.academia.edu/IrinaVainovskiMihai
 - https://biblioteca-digitala.ro/?pub=6168-curs-de-sintaxa-limbii-arabe-moderne
 - https://biblioteca-digitala.ro/?pub=6169-semantica-modalitatilor-in-limba-araba
+- https://www.youtube.com/playlist?list=PLP_gz3lCvyIZgRs0U6rCtMaR1DndV4WoV
 
 ### Danish
 
@@ -190,6 +192,7 @@
 - https://history.howstuffworks.com/history-vs-myth/10-expressions-from-ancient-world.htm
 - https://sites.miamioh.edu/meyersde/the-collective-noun-catalog
 - https://sites.miamioh.edu/meyersde/using-english-apostrophes-correctly
+- https://www.youtube.com/playlist?list=PLFAE35C109B6465BE
 
 ### Esperanto
 
@@ -217,6 +220,7 @@
 - [James H Worman](https://archive.org/search.php?query=creator%3A%22Worman%2C+James+H.+%28James+Henry%29%2C+1835-1930%22)
 - https://www.amazon.com/French-Inside-Out-Worldwide-Development/dp/0415076706
 - https://www.colingorrie.com/articles/guttural-r
+- https://www.youtube.com/playlist?list=PL69E4C8E727304E55
 
 ### German
 
@@ -236,6 +240,7 @@
 - https://sites.miamioh.edu/meyersde/determinants-of-gender-in-german
 - https://www.youtube.com/playlist?list=PLu6mmTyxNzBAxGJg8OlpmTRNzTRmYBUCU
 - https://biblioteca-digitala.ro/?descriptor=99640-literatura-germana
+- https://www.youtube.com/playlist?list=PL5567A92F7F09247D
 
 ### Greek
 
@@ -254,7 +259,7 @@
 - https://www.greeksummerschool.org/resources + https://basilbatrakhos.com + https://maximumclassics.com/maximumgreek + https://www.open.edu/openlearn/history-the-arts/getting-started-on-ancient-greek/content-section-overview + https://drive.google.com/file/d/1k1QuCRPZwDqrjOTIz1yVVFokoTFPTDk5
 - https://unibuc.ro/al-iv-lea-volum-din-dictionarul-grec-roman-elaborat-de-un-colectiv-de-profesori-ai-ub-a-fost-publicat-la-editura-nemira + http://116.203.245.78/unelte%20traducere%20greaca%20veche%20si%20latina/Greaca%20veche/in%20romana/dictionare/dictionar%20Georgescu/%CE%91.pdf
 - https://biblioteca-digitala.ro/?pub=6326-fonologia-greaca
--
+- https://www.youtube.com/playlist?list=PLP_gz3lCvyIbMlwTV7clPrYMAnyCemAPn
 
 ### Hungarian
 
@@ -287,6 +292,8 @@
 - https://www.amazon.com/Litaliano-secondo-metodo-natura-Italian/dp/168474864X + https://m.youtube.com/playlist?list=PLf8XN5kNFkhfQonvCySTrKEUV742WzshJ + https://archive.org/details/LitalianoSecondoIlMetodoNatura + https://m.youtube.com/playlist?list=PLAadwKeAHRjgMxSpTjzk-mqJtZPKOvGX6
 - [Saper vedere l'architettura | Bruno Zevi](https://vimeo.com/381641305)
 - [Curso de italiano básico (A1) | Italianeando](https://m.youtube.com/playlist?list=PLNdL9GF6UdULd-ePyXG-JRgiOzVnMQe0o)
+- https://www.youtube.com/playlist?list=PL4F9137E4A174F2B6
+- https://www.youtube.com/playlist?list=PLP_gz3lCvyIbq8tGO8wzlYvlNPZN6Ehe-
 
 ### Japanese
 
@@ -319,6 +326,7 @@
 - https://github.com/LuanRT/Japanese-Word-Of-The-Day
 - [dictionary resource that attaches furigana to individual words](https://github.com/Doublevil/JmdictFurigana)
 - https://github.com/SethClydesdale/genki-study-resources
+- https://www.youtube.com/playlist?list=PL3B552021C23C5811
 
 ### Korean
 
@@ -379,6 +387,7 @@
 - [Novum Organum, sive Indicia Vera de Interpretatione Naturae | Francis Bacon](https://en.wikipedia.org/wiki/Novum_Organum)
 - https://www.observatorcultural.ro/articol/portret-al-traducatoarei-la-vreme-de-cumpana
 - https://www.emag.ro/dictionar-de-maxime-de-reflectii-expresii-latine-comentate-virgil-matei-9789733033257/pd/D5MV22BBM
+- https://www.youtube.com/playlist?list=PLP_gz3lCvyIaB3tcSOoc0hv3bZplMoIl5
 
 ### Igbo
 
@@ -432,6 +441,7 @@
 - https://biblioteca-digitala.ro/?pub=6267-breviarium-latinum + https://www.facebook.com/bibliotecaproeuropeana/posts/pfbid024TseVDwYFZ2sB9rWoeJac9CC1cJu7PBLobn75Am3bjwrFAeizWWC4UPUdfG9Zzjjl
 - https://biblioteca-digitala.ro/?pub=6229-recitind-literatura-romana-veche
 - https://biblioteca-digitala.ro/?descriptor=40238-literatura-romana
+- https://www.youtube.com/playlist?list=PL80532D22B7C66617
 
 ### Russian
 

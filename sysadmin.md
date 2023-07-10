@@ -220,6 +220,7 @@
 - https://github.com/mikeroyal/Self-Hosting-Guide
 - https://github.com/ripienaar/free-for-dev#web-hosting
 - https://github.com/0xffsec/handbook/tree/master/content/shells
+- https://github.com/andrewjkerr/security-cheatsheets/blob/master/reverse_shell
 
 ### References
 

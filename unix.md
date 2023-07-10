@@ -57,7 +57,7 @@
 - https://push.cx/2018/nixos
 - https://ma.ttias.be/syscast/9-linux-vs-bsd
 - [Comparison of Operating Systems](https://eylenburg.github.io/os_comparison.htm)
-- [Operating Systems: Timeline and Family Tree](https://eylenburg.github.io/os_familytree.htm)
+- [Operating Systems: Timeline and Family Tree](https://github.com/eylenburg/os-family-tree)
 - [Default Desktop Environments for Linux and Unix](https://eylenburg.github.io/de_default.htm)
 - https://github.com/o-oconnell/minixfromscratch + https://github.com/o-oconnell/writeyourownos + https://archive.org/details/tanenbaum_woodhull_operating-systems-design-implementation-3rd-edition
 

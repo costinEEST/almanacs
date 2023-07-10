@@ -22,6 +22,7 @@
   https://inquisitivebiologist.com/2023/01/11/book-review-lithium-the-global-race-for-battery-dominance-and-the-new-energy-revolution
 - [Project Sunroof](https://news.ycombinator.com/item?id=34699395)
 - [18650 Battery Packs For Beginners](https://www.facebook.com/groups/202140770347162/files/files)
+- https://nelsonslog.wordpress.com/2023/07/10/aaa-and-aa-batteries
 
 ### Book
 

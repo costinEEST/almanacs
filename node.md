@@ -184,6 +184,7 @@
 - https://github.com/octave-online/octave-online-server
 - https://blog.appsignal.com/2022/11/23/nodejs-architecture-pitfalls-to-avoid.html
 - https://github.com/Eomm/fastify-discord-bot-demo
+- [A Node-Typescript/Express Boilerplate with Authentication, Authorization, and CRUD functionality + PWA Support](https://github.com/nerdeveloper/hackathon-starter-kit)
 
 ### Cinema
 
@@ -746,6 +747,7 @@
 - https://github.com/mikestaub/serverless-express
 - https://github.com/vendia/serverless-express
 - [Stream File Uploads to S3 Object Storage and Reduce Costs](https://austingil.com/upload-to-s3)
+- https://www.iamobinna.com/posts/how-to-deploy-serverless-nodejs-express-app-to-azure-container-apps-from-github
 
 ### Miscellaneous
 
