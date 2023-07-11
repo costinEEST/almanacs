@@ -1,18 +1,18 @@
-### Book
+# Book
 
 - http://tutorials.jenkov.com/svg/index.html
 - [Using SVG with CSS3 and HTML5: Supplementary Material](https://oreillymedia.github.io/Using_SVG/index.html) + https://github.com/oreillymedia/Using_SVG
 
-### Cheat sheet 
+# Cheat sheet
 
 - https://www.stefanjudis.com/today-i-learned/svgs-filters-can-be-inlined-in-css
 - [Polygon shapes](https://twitter.com/yuanchuan23/status/1576850659256590336)
 
-### Community
+# Community
 
 - [David A. Smith](https://dacvs.neocities.org/ds2022jan.svg)
 
-### Icon
+# Icon
 
 - [Remix Icon - Open source icon library](https://remixicon.com)
 - https://github.com/mono-company/mono-icons
@@ -33,7 +33,11 @@
 - [Communication symbol set designed for adults with language difficulties](https://github.com/mulberrysymbols/mulberry-symbols)
 - [A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)](https://github.com/n3r4zzurr0/svg-spinners)
 
-### Tutorials
+# Opinion
+
+- [Breaking Up with SVG-in-JS in 2023](https://kurtextrem.de/posts/svg-in-js)
+
+# Tutorials
 
 - https://github.com/donbright/font_to_svg
 - https://slides.com/vincentntang/svg-everything-you-should-know-about-it#/svg-everything-you-should-know
@@ -54,7 +58,7 @@
 - [Which SVG technique performs best for way too many icons?](https://cloudfour.com/thinks/svg-icon-stress-test)
 - [A cheatsheet for various SVG based SSRF methods](https://github.com/allanlw/svg-cheatsheet)
 
-### Tool
+# Tool
 
 - [Make nice animated diagrams.](https://twitter.com/jlongster/status/1247530020928499714)
 - [Blob shapes generator.](https://github.com/lokesh-coder/blobs.app)
