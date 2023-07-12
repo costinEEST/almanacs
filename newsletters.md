@@ -1,39 +1,39 @@
-### Apparel
+# Apparel
 
 - [The Kicks You Wear](https://kyw.substack.com/archive)
 - [Pineberry](https://us3.campaign-archive.com/home/?u=f7bce54079560efd52e3b7b83&id=972a43548c)
 
-### Bookstore
+# Bookstore
 
 - [Nemira Publishing House](https://us16.campaign-archive.com/home/?u=90fc2082261012b48d34d8ff6&id=851b969363)
 - [Fundatia Culturala Memoria](https://us7.campaign-archive.com/home/?u=21562341fc294594ee2ed413f&id=93bd3e91ec)
 - https://stripepress.substack.com/archive
 
-### C++
+# C++
 
 - [Denis Bakhvalov](https://easyperf.net/newsletter)
 
-### College
+# College
 
 - [TU Delft](https://us9.campaign-archive.com/home/?u=4dc4c9cf4f6095e7b568dfc9a&id=57d91ace2a)
 
-### Clothing
+# Clothing
 
 - [Adriana Ancuta](https://adrianaancuta.substack.com/archive)
 
-### Games
+# Games
 
 - [Alex Doppelgänger](https://alexdoppelganger.substack.com/archive)
 - [Știri din lumea PlayStation](https://psplayro.substack.com/archive)
 
-### Tips
+# Tips
 
 - [feeds/videos.xml?channel_id={{CHANNEL_ID}}](https://twitter.com/pawelgrzybek/status/1240249320336695296)
 - https://briefcake.com/2022/09/03/axe-instagram.html
 - https://leahneukirchen.org/MySubscriptions.cgi
 - https://github.com/watson/cheatsheets/blob/master/google-calendar.md
 
-### Accessibility
+# Accessibility
 
 - [T12t](https://us14.campaign-archive.com/home/?u=23907132d7bd3ae259858b057&id=b8c09bd7b1)
 - [Nielsen Norman Group](https://us4.campaign-archive.com/home/?u=538d934a891681a5d850bb4e5&id=7f29a2b335)
@@ -41,11 +41,11 @@
 - [Alexa Heinrich](https://alexaheinrich.substack.com/archive)
 - [Asociația Metodelor Alternative de Integrare Socială](https://us7.campaign-archive.com/home/?u=0d9eea60dfb7ada276fea7473&id=cb73e5357c)
 
-### Archeology
+# Archeology
 
 - [Archaeology Podcast Network](https://us16.campaign-archive.com/home/?u=f036e9c7166c0027796dc55ae&id=3201b12312)
 
-### Architecture
+# Architecture
 
 - [Pro Patrimonio](https://us5.campaign-archive.com/home/?u=57f50bdf2c77a5bb1add2a851&id=42c6c16a1d)
 - [Uniunea Arhitectilor din Romania](https://us10.campaign-archive.com/home/?u=e40fa82a9a796c8ea6cdfddca&id=94dec13101)
@@ -53,15 +53,15 @@
 - [Devon Marisa Zuegel](https://buttondown.email/devon/archive)
 - [De la sat](https://us7.campaign-archive.com/home/?u=3f14e3915e6bef8a3a4fd6c01&id=02b2b8a2b2&mc_cid=8a4861592d&mc_eid=75bebe984a)
 
-### Astrology
+# Astrology
 
 - [Adam Sommer](https://kosmognosis.substack.com/archive)
 
-### Astronomy
+# Astronomy
 
 - [Philip C. Plait](https://badastronomy.substack.com/archive)
 
-### Art
+# Art
 
 - [The National Arts Club](https://us19.campaign-archive.com/home/?u=36de95fdf00c57337d2408ebc&id=f9c2c1789e)
 - [Institutul Național al Patrimoniului](https://us16.campaign-archive.com/home/?u=35f8c83675a30cbd5bec41a1b&id=367c70318f)
@@ -71,7 +71,7 @@
 - [Art Encounters](https://us16.campaign-archive.com/home/?u=cd70916bf40ec27923e03d12b&id=da1f465d55)
 - [Muzeul National al Satului "Dimitrie Gusti"](https://us14.campaign-archive.com/home/?u=dd2c1b16b5fa0d63306852eb6&id=b4772db6b7)
 
-### Artificial intelligence
+# Artificial intelligence
 
 - [Machine learning monthly](https://zerotomastery.io/blog/?tag=MLM)
 - [Nathan Benaich](https://nathanbenaich.substack.com/archive)
@@ -91,14 +91,14 @@
 - [DataTalks](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa)
 - [Shubham Saboo](https://unwindai.substack.com/archive)
 
-### Book
+# Book
 
 - [Leanpub Reader Mailing List](https://us3.campaign-archive.com/home/?u=d9dae16c3f9f533e6c9e48efb&id=92096ddde9)
 - [Editura Paideia SRL](https://us1.campaign-archive.com/home/?u=ed0b8e6c894620101da2e308d&id=af61902f1d)
 - [Chelsea Green Publishing](https://us17.campaign-archive.com/home/?u=601c4304348f71e6047556d16&id=1f480ae12f)
 - [Island Press](https://us6.campaign-archive.com/home/?u=3bd33456aa62e826309baafd1&id=ec2fe5ec1a)
 
-### Business
+# Business
 
 - https://github.com/mezod/awesome-indie#newsletters
 - [Ethan Mollick](https://www.oneusefulthing.org/archive)
@@ -124,13 +124,14 @@
 - [Alexey Guzey](https://buttondown.email/guzey/archive)
 - [The Twenty Minute VC](https://us9.campaign-archive.com/home/?u=26978998bec6ed24bec1e7831&id=efc94e0ecb)
 - [Romanian Science Digest](https://us20.campaign-archive.com/home/?u=d3ad9d295be41a9bc1cbeeb73&id=f0d9b7c9cf)
+- [Joshua Tiernan](https://tinyempires.substack.com/archive)
 
-### Marketing
+# Marketing
 
 - [Prashant Bagga](https://us4.campaign-archive.com/home/?u=f80b1bc87f246a92fee9bfceb&id=8573422726)
 - [Nick Kolenda](https://us9.campaign-archive.com/home/?u=3a435025ee2bca712b3a18a89&id=90575750a4)
 
-### Buddhism
+# Buddhism
 
 - [Prietenii Editurii Rabten](https://us9.campaign-archive.com/home/?u=631f68b23c06eceac05035aff&id=194eb176a7)
 - [Dunhuang Foundation](https://us10.campaign-archive.com/home/?u=069b842b10e7ad40bfba99e7f&id=c2f585d33a)
@@ -138,43 +139,43 @@
 - [Peach Tree World News](https://us21.campaign-archive.com/home/?u=64396dd159205cde8617da026&id=7b37edf2d3)
 - [Diamond Cutter Classics](https://us5.campaign-archive.com/home/?u=cc86f7385681e51d8709ebf93&id=a92d306f26)
 
-### Chemistry
+# Chemistry
 
 - [Battery Modeling Webinar](https://us18.campaign-archive.com/home/?u=e3dd1920324b4db3a51b620ca&id=4e19a481ac)
 - https://intercalationstation.substack.com/archive
 - [Daniel Kent](https://techtricity.substack.com/archive)
 
-### Communication
+# Communication
 
 - [Crafters agency](https://us7.campaign-archive.com/home/?u=3753a4a72700eeedc071e9ab8&id=c334c3386e)
 
-### Constructions
+# Constructions
 
 - [Brian Potter](https://constructionphysics.substack.com/archive)
 
-### Computer networks
+# Computer networks
 
 - https://systemsapproach.substack.com/archive
 
-### Cloud
+# Cloud
 
 - https://offbynone.io/issues
 
-### Cryptography
+# Cryptography
 
 - https://www.feistyduck.com/bulletproof-tls-newsletter/archive
 - [Filippo Valsorda](filippo.io/newsletter)
 
-### Drawing
+# Drawing
 
 - [Clarissa Grandi](https://us1.campaign-archive.com/home/?u=b02fe4323315fe24b98ed99ae&id=111a72a557)
 - [Jake Parker](https://www.mrjakeparker.com/newsletter)
 
-### Judaism
+# Judaism
 
 - [Jewish Studies at Fordham University](https://us13.campaign-archive.com/home/?u=f000ad8783f4985c05ec1a11c&id=df05eee35a)
 
-### Biology
+# Biology
 
 - https://csvoss.substack.com/archive
 - [Biotech Without Borders](https://us16.campaign-archive.com/home/?u=2aafc95ab831ff84383e5b4a2&id=fa2a5447f8)
@@ -184,26 +185,27 @@
 - [Razib Khan](https://razib.substack.com/archive)
 - [Cornell Lab of Ornithology](https://us2.campaign-archive.com/home/?u=b35ddb671faf4a16c0ce32406&id=47588b5758)
 
-### Go
+# Go
 
 - [15 Days to Build a CLI with Go | Pericles Theodorou](https://15daysofgo.substack.com/archive)
 
-### History
+# History
 
 - [Istros Books](https://us4.campaign-archive.com/home/?u=33d3c9258f5909052eb60647b&id=4b1e62c805)
 - [Gonçalo Morais](https://www.heroesofcomputer.science)
 - [Timothy Snyder](https://snyder.substack.com/archive)
 - [Socialist History Society](https://us13.campaign-archive.com/home/?u=11ee562272eabf15d59e3d9ad&id=d0961f0fd9)
 - [Coffee With A Codex | Schoenberg Institute for Manuscript Studies](https://us20.campaign-archive.com/home/?u=41f7f3e3835c1e02e1ba9bef8&id=e8635aaa19)
+- [David Miano, ancient historian](https://us4.campaign-archive.com/home/?u=e99ae3bea84a5e4d7a50deb5f&id=1355526a6d)
 
-### Hardware
+# Hardware
 
 - [Deep into the Forest. Deep Tech for a Better Future](https://deepforest.substack.com)
 - [Kevin Lynagh](https://tinyletter.com/kevinlynagh/archive)
 - [Ian Cutress](https://morethanmoore.substack.com/archive)
 - [Chris Combs](https://us16.campaign-archive.com/home/?u=db333b11de2809a2e919041d1&id=5850b17aff)
 
-### Internet of money
+# Internet of money
 
 - https://blockchannel.substack.com/archive?sort=new
 - [Jimmy Song](https://jimmysong.substack.com/archive)
@@ -231,26 +233,26 @@
 - https://weekinethereum.substack.com/archive
 - [Balaji S. Srinivasan](https://balajis.com/archive)
 
-### Investing
+# Investing
 
 - [Dylan Patel](https://www.semianalysis.com/archive)
 - [Handsoff Investor](https://handsoff.substack.com/archive)
 - [Sven Carlin](https://us18.campaign-archive.com/home/?u=83ab4ea650b8ab076b2ca4981&id=0163a06b72)
 
-### iOS
+# iOS
 
 - [Marius Constantinescu](https://github.com/iOS-Goodies/iOS-Goodies)
 - [Vivian Qu](https://tinyletter.com/vivqu/archive)
 
-### Locksmithing
+# Locksmithing
 
 - [Original Lishi Tools by inventor Mr. Li](https://us14.campaign-archive.com/home/?u=f4f3f6dbbb403473532ca95f9&id=b35cc1084c)
 
-### Open source (FOSS)
+# Open source (FOSS)
 
 - [Allison Pike](https://onceamaintainer.substack.com/archive)
 
-### Design
+# Design
 
 - [Jake Knapp](https://www.getrevue.co/profile/designsprint)
 - [Matthew Ström](https://buttondown.email/mattstrom/archive)
@@ -266,7 +268,7 @@
 - https://garyhustwit.substack.com/archive
 - [Sunni Brown](https://nothingintheway.substack.com/archive)
 
-### Data visualization
+# Data visualization
 
 - https://alignedleft.com/resources/data-newsletters
 - [Studio Interrobang](https://us18.campaign-archive.com/home/?u=da42de3a9b43f1584f5b0c7d2&id=cb6b0eca26)
@@ -276,21 +278,21 @@
 - [Giuseppe Sollazzo](https://buttondown.email/puntofisso/archive)
 - [Nadieh Bremer](https://us11.campaign-archive.com/home/?u=93770d48b5e782a113e79d58a&id=f97d3c6eec)
 
-### Databases
+# Databases
 
 - https://postgresweekly.com/issues
 - [Alex Garcia](https://buttondown.email/alexgarcia/archive)
 
-### Geopolitics
+# Geopolitics
 
 - [Peter Zeihan](https://us11.campaign-archive.com/home/?u=de2bc41f8324e6955ef65e0c9&id=5654564be1) + http://zeihan.com/newsletter
 - https://www.spytalk.co/archive
 
-### Typescript
+# Typescript
 
 - [TypeScript Weekly from Marius Schulz](https://us14.campaign-archive.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42)
 
-### Web development
+# Web development
 
 - [Abdu Tawfik](https://abduvik.substack.com/archive)
 - https://github.com/simevidas/web-dev-feedss
@@ -340,30 +342,30 @@
 - [Denis Nuțiu](https://nuculabs.dev/archive)
 - [Code for Romania](https://us13.campaign-archive.com/home/?u=1bcbbbff5fbab7429738442f5&id=cb38ce1e2a)
 
-### Web performance
+# Web performance
 
 - [Perf.mail from Calibre](https://us2.campaign-archive.com/home/?u=9067434ef642e9c92aa7453d2&id=7cba5dc7bd)
 
-### Typography
+# Typography
 
 - [I Love Typography](https://news.ilovetypography.com/archive)
 - [Andrei Robu](https://typeverything.substack.com/archive)
 
-### Writing
+# Writing
 
 - https://www.writethedocs.org/blog/archive/tag/newsletter
 - [Leanpub Weekly Sale](https://us3.campaign-archive.com/home/?u=d9dae16c3f9f533e6c9e48efb&id=d8bb96e10f)
 
-### Ecology
+# Ecology
 
 - [Carbon Removal Updates](https://tito.co/archive) + https://coda.io/@tito/carbon-removal-101
 - [Anca Maria Iosif](https://remediu.substack.com/archive)
 
-### Energy
+# Energy
 
 - [Alex Gilbert](https://us19.campaign-archive.com/home/?u=b2b803b85cf21c01ea7a73017&id=60dd91678f)
 
-### Food
+# Food
 
 - [Alliance to Feed the Earth in Disasters](https://us13.campaign-archive.com/home/?u=5c0ca1b06a66c60ef3a65e546&id=1a56e9e1a5)
 - [Alexis deBoschnek](https://alexisdeboschnek.substack.com)
@@ -377,7 +379,7 @@
 - [Jewish Food Society](https://us14.campaign-archive.com/home/?u=d992c82613c2b142e1c5106f7&id=fe5a0fb602)
 - [Berti Panaiot](https://coffeelicious.substack.com/archive)
 
-### Health
+# Health
 
 - [Quantified Bob Updates](https://us12.campaign-archive.com/home/?u=96812e559fe41fd1b9fd55794&id=edb4b26575)
 - [BioViva](https://us7.campaign-archive.com/home/?u=454e481f21379f6d4f2d45bb6&id=80fcf8e2fc)
@@ -395,17 +397,17 @@
 - [Jones Wellness (Cancer/evolution)](https://us7.campaign-archive.com/home/?u=75ac079dc580d32a5726e1c26&id=cbf7c437ec)
 - [Yoga Studies Institute](https://us8.campaign-archive.com/home/?u=e1ee0b874d5f3352ff94f6312&id=47d0dece18)
 
-### Privacy
+# Privacy
 
 - [Simo Ahava](https://www.teamsimmer.com/newsletter)
 - [Lukasz Olejnik](https://techletters.substack.com/archive)
 - [Sumana Harihareswara](https://buttondown.email/Changeset/archive)
 
-### Psychology
+# Psychology
 
 - [Radu Umbreș](https://iscoada.substack.com/archive)
 
-### Security
+# Security
 
 - [AppSec Ezine](https://github.com/Simpsonpt/AppSecEzine)
 - [EdOverflow](https://us20.campaign-archive.com/home/?u=9644b6e6c0558cb3849b83293&id=daeaf4f8cc)
@@ -421,38 +423,38 @@
 - [Catalin Cimpanu; Adam Boileau; Patrick Gray](https://riskybiznews.substack.com/archive)
 - [Chris Sanders - Applied Network Defense](https://us1.campaign-archive.com/home/?u=90ed94a6ae7d713c89e6416ad&id=9b4e0b20b3)
 
-### Tool
+# Tool
 
 - https://vimtricks.substack.com/archive
 - [Sami Laiho](https://us7.campaign-archive.com/home/?u=e13c84c9564fa4b2cb6afcb15&id=318e3d92bc)
 - [Sacha Chua](https://sachachua.com/blog/category/emacs)
 
-### Math
+# Math
 
 - [Jeremy Kun](https://buttondown.email/j2kun/archive)
 
-### Miscellaneous
+# Miscellaneous
 
 - [Marius Cosmeanu](https://savantgarde.substack.com/recommendations)
 - https://github.com/kilimchoi/engineering-blogs
 
-### Music
+# Music
 
 - [Ted Gioia](https://tedgioia.substack.com/archive)
 - [Tango Inside Out](https://us7.campaign-archive.com/home/?u=c390736e46a85da405f68dc8e&id=8dbe36e52f)
 - [Pablo Estigarribia](https://us10.campaign-archive.com/home/?u=15496b952c60b9016788adea6&id=874e3cbe49)
 
-### Obsidian
+# Obsidian
 
 - https://curtismchale.ca/category/pkm-weekly
 - [Eleanor Konik](https://www.eleanorkonik.com/tag/roundup)
 
-### Python
+# Python
 
 - [Patrick Loeber](https://patrickloeber.substack.com/archive)
 - [David Beazley](https://buttondown.email/dabeaz/archive)
 
-### Ruby
+# Ruby
 
 - [Doctolib](https://us14.campaign-archive.com/home/?u=6f3cf1e1e4554097575191f5d&id=a22645bb6c)
 - https://womenonrails.substack.com/archive
@@ -473,7 +475,7 @@
 - [Awesome Ruby](https://ruby.libhunt.com/newsletter/archive)
 - [Julián Pinzón Eslava](https://dev.julianpinzon.com/newsletter)
 
-### Politics
+# Politics
 
 - [A newsletter by Bill Bishop, an expert on Chinese politics](https://sinocism.com/archive) + https://twitter.com/niubi
 - [Romanian Dispatch](https://us17.campaign-archive.com/home/?u=afe17686523fcfd2ed8ff4853&id=4a2e90f17a)
@@ -483,16 +485,17 @@
 - [Lillian Li](https://lillianli.substack.com/archive)
 - [Codruța Simina & Ovidiu Mihalcea: știri despre știrile false](https://misreport.substack.com/archive)
 
-### Social sciences
+# Social sciences
 
 - [Luke Burgis](https://archive.feedblitz.com/1110672) + https://read.lukeburgis.com/archive
 - [Jordan B. Peterson](https://us6.campaign-archive.com/home/?u=3c53a4d9fc927f570cf437952&id=a434e81da0)
 
-### Spoken languages
+# Spoken languages
 
 - [LearnHebrew.TV](https://us12.campaign-archive.com/home/?u=bbfadccb964a11c5a7a496a64&id=d4ec934372)
+- [Spanish and Go](https://us14.campaign-archive.com/home/?u=272e33053f331a3b490eee682&id=98bc997016)
 
-### Travel
+# Travel
 
 - [Alternative Tours](https://us20.campaign-archive.com/home/?u=f1b8e8fc565e4aa7532df290e&id=c269925f5f)
 - [De la sat](https://us7.campaign-archive.com/home/?u=3f14e3915e6bef8a3a4fd6c01&id=02b2b8a2b2), https://delasat.substack.com/recommendations
