@@ -16,6 +16,7 @@
 - [A Decade of Vim - Semicolon&Sons](https://m.youtube.com/playlist?list=PLpkoC9yJXDKkm4MStIQoieUPwNjO4Rb_M)
 - https://reasonablypolymorphic.com/expert-level-vim + https://m.youtube.com/watch?v=Q-D5mtp2yIc
 - https://www.labnol.org/internet/learning-vim-for-beginners/28820
+- https://www.youtube.com/playlist?list=PLep05UYkc6wTWlugE_9Lj6JlLpvSBbkZ_
 
 ### Community
 

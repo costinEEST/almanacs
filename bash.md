@@ -118,3 +118,4 @@
 - https://github.com/eljuanchosf/source-code-to-pdf
 - [A simple web server in 5 lines of bash](https://github.com/benrady/shinatra)
 - [Quickly fetches files from Wayback Machine](https://github.com/riza/wb)
+- https://ybiquitous.me/blog/2022/highlighting-command-help-via-bat

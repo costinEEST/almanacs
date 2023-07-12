@@ -166,6 +166,7 @@
 - [Python for Java Developers](https://m.youtube.com/channel/UCD6woIYRXP_kX5IaLb-6tqw/playlists)
 - [Python For People | Black Hills Information Security](https://m.youtube.com/playlist?list=PLqz80p7f6dFvibZxA7LZa1T3e478Ljgui)
 - https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql
+- [Building a SaaS Application with Django and Pegasus | Cory Zue](https://www.youtube.com/playlist?list=PLrhGhGgmjaafujnwqHfN9QDoExAq5r0OP)
 
 ### Community
 

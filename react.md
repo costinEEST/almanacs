@@ -305,7 +305,6 @@
 - [To design and develop an interactive globe using Three.js](https://stripe.com/blog/globe) + https://twitter.com/narrowd/status/1300838489869742080
 - https://twitter.com/sseraphini/status/1326864292868665352
 - https://js.plainenglish.io/chakra-the-react-component-library-you-need-7e383a105a90
-- https://github.com/abhimanyuPathania/seven-guis
 - [Evolution simulator using simple 2D physics.](https://github.com/jefflinse/critters)
 - https://github.com/Flow11/death-stranding-ui
 - https://steveruiz.me/posts/rotating-icon-button
@@ -379,7 +378,7 @@
 - https://daveceddia.com/freebies/guide-to-react-state-management.pdf
 - https://changelog.com/posts/when-and-when-not-to-reach-for-redux
 - https://blog.logrocket.com/refactoring-redux-app-to-use-recoil + https://github.com/ohansemmanuel/benutzer/tree/recoil-multiple-user + https://github.com/ohansemmanuel/benutzer/tree/redux-multi-users
-- [7Guis in React](https://github.com/andrewgreenh/7guis) + https://github.com/eugenkiss/7guis
+- [7Guis in React](https://github.com/andrewgreenh/7guis) + https://github.com/eugenkiss/7guis + https://github.com/abhimanyuPathania/seven-guis + [Yaron Minsky](https://youtu.be/G6a5G5i4gQU)
 - https://m.youtube.com/playlist?list=PLNqp92_EXZBIqX8DWmwmJmxeHiq-Ut4W1
 - https://tkdodo.eu/blog/offline-react-query
 - https://www.zhenghao.io/posts/react-rerender

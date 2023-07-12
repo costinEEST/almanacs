@@ -93,6 +93,7 @@
 - [C Programming in Linux Tutorial | ShellWave](https://m.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg)
 - [Embedded C Programming Style | Mutex Embedded](https://m.youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh) + https://www.mutex-embedded.com/courses/s2-c1
 - [Intro to C on Windows | Molly Rocket](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp)
+- [Reading code | ants_are_everywhere](https://www.youtube.com/playlist?list=PLekd-G4V99UmwUIEXn6-GYpDq4thTwVv7)
 
 ### Code auditing
 
