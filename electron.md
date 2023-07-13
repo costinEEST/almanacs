@@ -1,16 +1,17 @@
-### Alternative
+# Alternative
 
 - https://github.com/Elanis/web-to-desktop-framework-comparison
 - https://github.com/sudhakar3697/electron-alternatives
 - [A list of awesome packages and frameworks for implementing javascript applications on the desktop](https://github.com/styfle/awesome-desktop-js)
 - [Tauri: An Electron alternative written in Rust](https://news.ycombinator.com/item?id=26194990)
-- [Tauri & ReactJS](https://github.com/elibroftw/modern-desktop-app-template) + https://m.youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L
+  - [Tauri & ReactJS](https://github.com/elibroftw/modern-desktop-app-template) + https://m.youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L
+  - [Desktop app for GPT/LLM](https://github.com/Bin-Huang/chatbox)
 - [Svelte NodeGUI, a lightweight Electron alternative with native UI](https://news.ycombinator.com/item?id=26361423)
 - https://github.com/gluon-framework/gluon
 - https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt
 - https://github.com/stars/Marcisbee/lists/desktop-app
 
-### Application
+# Application
 
 - https://github.com/hokein/electron-sample-apps
 - https://github.com/chrisknepper/android-messages-desktop
@@ -45,7 +46,7 @@
 - [Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE](https://github.com/sunner/ChatALL)
 - [GitHub Desktop is written in TypeScript and uses React](https://github.com/desktop/desktop)
 
-### Boilerplate
+# Boilerplate
 
 - https://github.com/nonoesp/electron-quick-start
 - https://medium.com/@jonathanberi/a-no-nonsense-guide-to-webpack-electron-webassembly-part-2-e5d262d0dc41
@@ -56,14 +57,15 @@
 - https://github.com/maxogden/menubar + https://github.com/wesbos/pommade
 - https://github.com/electron-react-boilerplate/electron-react-boilerplate
 - https://github.com/cawa-93/vite-electron-builder
+- [Next.js + Electron ](https://github.com/saltyshiomix/nextron)
 
-### Opinion
+# Opinion
 
 - https://getloaf.io/blog/why-i-chose-electronjs
 - https://www.nearform.com/blog/architecting-electron-applications-for-60fps
 - https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html
 
-### Security
+# Security
 
 - [Hacking Modern Desktop apps with XSS and RCE](https://training.7asecurity.com/ma/webinar/desktop-xss-rce/lab1)
 - https://github.com/doyensec/awesome-electronjs-hacking
@@ -79,7 +81,7 @@
 - https://goose.icu/discord-0click-xss-to-rce
 - https://mizu.re/post/linux-local-electron-application-script-src-self-bypass
 
-### Tool
+# Tool
 
 - [A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl.](https://github.com/mayeaux/videodownloader)
 - [An example Electron app with a backend server all wired up via IPC.](https://github.com/jlongster/electron-with-server-example)
