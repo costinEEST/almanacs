@@ -583,6 +583,7 @@
 - https://hire.jonasgalvez.com.br/2023/jan/31/fastify-testing
 - https://github.com/grissius/jest-is-a-rude-needy-clown-and-eats-lot-of-memory
 - https://richiemccoll.com/writing-tests-with-fastify-and-node-test-runner
+- https://github.com/aperezl/clean_architecture_tdd
 
 ### Scrapping
 

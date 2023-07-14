@@ -29,6 +29,7 @@
 - https://letterformarchive.org/news/books-about-signs
 - https://neeta.works/on-graphic-design + https://twitter.com/ainat_/status/1443938054612439044 + [Computational Information Design](https://benfry.com/phd)
 - [book to teach someone about _what_ design is and it's role in business](https://twitter.com/parkerhendo/status/1672396680355000320)
+- https://recursoscosmicos.com/libros/cheatsheets/product-design
 
 ### Cinema
 
@@ -155,3 +156,4 @@
 - https://andybudd.com/archives/2021/08/a-future-of-design-without-designers
 - https://dev.to/nyxtom/how-to-build-a-product-without-much-design-background-i66
 - https://cexplr.github.io/blog/origami-scorpion-design-from-start-to-finish
+- [Every shortcuts for designers, centralized and searchable](https://github.com/michelvanheest/shortcuts-design-data)
