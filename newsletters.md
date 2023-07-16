@@ -271,6 +271,7 @@
 - [Denislav Zhelyazkov](https://us4.campaign-archive.com/home/?u=91c6911ed666ab5babcc9deaf&id=e4ea6ea9a3)
 - https://garyhustwit.substack.com/archive
 - [Sunni Brown](https://nothingintheway.substack.com/archive)
+- [Gary Hustwit](https://garyhustwit.substack.com/archive)
 
 # Data visualization
 

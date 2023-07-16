@@ -47,6 +47,7 @@
 - [Programming Boot Sector Games | Óscar Toledo Gutiérrez](https://nanochess.org/store.html)
 - [Beginning x64 Assembly Programming | Jo Van Hoey](https://github.com/Apress/beginning-x64-assembly-programming)
 - https://journal.paoloamoroso.com/brushing-up-8080-and-z80-assembly
+- https://github.com/pacman128/pcasm + http://pacman128.github.io/pcasm
 
 ### Course
 
@@ -147,6 +148,7 @@
 - [Performance monitoring and benchmarking suite](https://github.com/RRZE-HPC/likwid)
 - [The GNU Assembler](https://www.cs.princeton.edu/courses/archive/spr11/cos217/reading/as.html) + https://sourceware.org/binutils/docs-2.20/as
 - https://tryingtobeawesome.com/nasm
+- [writing, running and debugging x86 assembly in the browser](https://github.com/kobzol/davis)
 
 ### Radio
 

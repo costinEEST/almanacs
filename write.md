@@ -113,6 +113,7 @@
 - https://artvsentropy.wordpress.com/2023/04/11/retro-writing-14-traveler-at-last
 - [A framework for detecting, highlighting and correcting grammatical errors on natural language text](https://github.com/PrithivirajDamodaran/Gramformer)
 - [A starter built with gatsby to help you create books with ease](https://github.com/SaraVieira/starter-book)
+- https://nelsonslog.wordpress.com/2023/07/15/linkblog-architecture
 
 ### Miscellaneous
 

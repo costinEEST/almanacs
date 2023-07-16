@@ -71,6 +71,7 @@
 - [How does the 12 Days of Christmas program work?](https://mdnahas.github.io/xmassong/index.html)
 - https://github.com/snowcra5h/c-systems-programming
 - https://github.com/pniewiejski/learn-io-polling
+- http://pacman128.github.io/internal/common_c_errors
 
 ### Watch
 
