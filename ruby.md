@@ -573,6 +573,7 @@
 - [Who Controls the Controllers — Hacking Crestron IoT Automation Systems](https://github.com/headlesszeke/defcon26-materials)
 - https://positive.security/blog/ransack-data-exfiltration
 - [How to create small, unique tokens in Ruby](https://gist.github.com/mbajur/2aba832a6df3fc31fe7a82d3109cb626)
+- https://andycroll.com/ruby/beware-of-raw-erb
 
 ### Server
 
