@@ -102,6 +102,7 @@
 - [bytecode compiler+VM for the SerenityOS JavaScript engine | Andreas Kling](https://m.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
 - [JavaScript Ahead-Of-Time Compilation Performance](https://youtu.be/iY1EXHQ6IeQ) + https://github.com/manuel-serrano/hop
 - https://pointersgonewild.com/about
+- [Basic wip js aot optimizing wasm compiler](https://github.com/CanadaHonk/porffor) + https://twitter.com/C4nadaHonk/status/1680385335354589185
 
 ### Quirks
 
@@ -418,6 +419,7 @@
 - https://speakerdeck.com/wa7son/nodejsday-2020-javascript-prototypes-behind-the-scenes?slide=41
 - [JSON API as you know will change soon](https://twitter.com/erickwendel_/status/1556633967448756226)
 - https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers
+- https://radex.io/react-native/json-parse
 
 ### class
 

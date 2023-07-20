@@ -371,6 +371,7 @@
 - [Self-host your own Feedbin RSS reader in Docker](https://github.com/angristan/feedbin-docker)
 - [The Social Network for eDemocracy](https://github.com/airesis/airesis)
 - https://github.com/hpi-swt2/bookkeeper-portal-red
+- [federated social network built on Ruby on Rails and lots of JS](https://github.com/diaspora/diaspora)
 
 ### Internals
 

@@ -432,6 +432,8 @@
   - https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial
   - https://blog.nuculabs.dev//posts/2023/2023-06-21-fastai-model-deployment-fastapi
   - https://github.com/nichtdax/awesome-totally-open-chatgpt
+  - [A reverse engineered API for Google Bard chatbot for NodeJS](https://github.com/PawanOsman/GoogleBard)
+  - [Reverse engineered API of Microsoft's Bing Chat AI](https://github.com/acheong08/EdgeGPT)
 - Opinion
   - [How AI misrepresents culture through a facial expression](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)
 - Stable Diffusion

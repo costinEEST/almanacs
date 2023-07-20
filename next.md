@@ -53,6 +53,8 @@
 - [NBA CBA Chat built with Next.js, OpenAI, Supabase, and LangChain](https://github.com/mckaywrigley/nba-cba-ai-chat)
 - [built using the new router, server components and everything new in Next.js 13](https://github.com/shadcn/taxonomy)
 - [A weather app using Next.js, Mantine, Edge API Routes, and the OpenWeatherMap and Google Maps API's](https://github.com/gregrickaby/local-weather)
+- https://github.com/jakeherp/portfolio
+- https://jack.mcpickle.com.au + https://github.com/heuriscode/website
 
 ### Deploy
 

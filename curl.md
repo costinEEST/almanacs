@@ -15,6 +15,7 @@
 - [Supercharge curl with history, collections and more](https://github.com/shivkanthb/curlx)
 - [Tool generating bash/powershell scripts from curl commands](https://github.com/PKopel/curl-gen)
 - [A script to download an iso image and flash it to device simultaneously](https://github.com/ariselseng/iso-download-and-flash)
+- [reverse shell using curl](https://github.com/irsl/curlshell)
 
 ### Practice
 

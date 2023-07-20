@@ -46,6 +46,7 @@
 - https://github.com/Tyrrrz/DiscordChatExporter
 - [A spectral visualizer that analyzes the frequencies of music and sound, written in Godot 3.1](https://github.com/Bauxitedev/spectral-visualizer)
 - [An ethical bridge from Twitter](https://github.com/NicolasConstant/BirdsiteLive)
+- [OAuth 2.0 and OpenID Connect debugging tool](https://github.com/nbarbettini/oidc-debugger)
 
 ### Scrapping
 

@@ -16,7 +16,6 @@
 - [Quickly create and configure a new library or Node.js project](https://github.com/bitjson/typescript-starter)
 - [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 
-
 ### Cheat sheet
 
 - [TypeScript style guide](https://ts.dev/style)
@@ -42,14 +41,12 @@
 - [infer](https://twitter.com/renatorib_/status/1372209255412023298)
 - [DDD & Event Sourcing Basics In TypeScript](https://github.com/jamesmh/event-sourcing-typescript-lessons)
 - [pkg TS rewrite](https://github.com/vercel/pkg/pull/1099)
-- [How would one build their own Typescript compiler?](https://twitter.com/tannerlinsley/status/1202745654939922434)
 - https://github.com/graphql/graphql-js/issues/2104 + https://twitter.com/GraphQL/status/1377277442860183553
 - https://github.com/Quramy/lerna-yarn-workspaces-example
 - https://wapl.es/typescript/2019/03/14/xml-jsx-sitemaps-in-typescript.html
 - https://dev.to/43081j/strongly-typed-event-emitters-using-eventtarget-in-typescript-3658
 - [A SQL database implemented purely in TypeScript type annotations.](https://github.com/codemix/ts-sql)
 - https://github.com/ghoullier/awesome-template-literal-types
-- [A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler](https://github.com/sandersn/mini-typescript)
 - [TypeScript AST Resources](https://twitter.com/grow_love/status/1585711764565811201)
 - https://judehunter.dev/blog/assembly-interpreter-in-typescripts-type-system + https://github.com/judehunter/ts-asm
 - https://github.com/adamshaylor/cooking-with-typescript
@@ -77,6 +74,14 @@
 - [Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
 - [Broadly scoped ecosystem & mono-repository of 167+ TypeScript projects for functional, data driven development](https://github.com/thi-ng/umbrella)
 
+# Compiler
+
+- [A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler](https://github.com/sandersn/mini-typescript)
+- [Ahead of time JavaScript compiler](https://github.com/tmikov/jscomp)
+- https://github.com/microsoft/TypeScript-Compiler-Notes
+- [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
+- [How would one build their own Typescript compiler?](https://twitter.com/tannerlinsley/status/1202745654939922434)
+
 ### Presentations
 
 - [Typed functional programming in TypeScript in five minutes](https://github.com/typescript-fun/five-minutes-demo)
@@ -92,7 +97,6 @@
 - https://valand.dev/blog/post/from-rust-to-typescript
 - [Generics or Type Assertion?](https://twitter.com/wesbos/status/1369673186720309249)
 - [If you're having a type inference issue with a 3rd party library, don't try to force it by shoving types into generics](https://twitter.com/BenLesh/status/1025156281936408576)
-- [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
 - https://p.migdal.pl/2020/03/02/types-tests-typescript.html
 - https://nehalist.io/trpc-review
 
@@ -130,7 +134,6 @@
 
 - https://topenddevs.com/podcasts/javascript-jabber/episodes/to-typescript-or-not-to-typescript-jsj-538
 
-
 ### Tool
 
 - https://github.com/juanluispaz/ts-sql-query
@@ -148,7 +151,6 @@
 - [ActivityPub and Mastodon-compatible server](https://github.com/cloudflare/wildebeest)
 - [A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely)
 
-
 ### Watch
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
@@ -159,6 +161,5 @@
 - https://effectivetypescript.com/2021/12/10/typescript-types-the-first-500-years
 - [No BS TS | Jack Herrington](https://m.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
 - https://codereviewvideos.com/course/from-jquery-to-typescript + https://m.youtube.com/playlist?list=PL1sZ2OJpPmWZzM8ckdBgVaqTWZwAU_VNP
-- https://github.com/microsoft/TypeScript-Compiler-Notes
 - [Leaky Abstractions | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3AM082CRmdJlvJqpVPU4xE5)
 - [FP 101 | Victor Boutté](https://m.youtube.com/playlist?list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV), https://github.com/monsieurBoutte/fp-101-series

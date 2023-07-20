@@ -4,6 +4,7 @@
 - https://github.com/thomasKn/astro-shopify
 - [starter powered by MPA view transitions](https://github.com/argyleink/morphull)
 - [Template for startups, marketing websites & landing pages built with Astro, TailwindCSS & Alpine.js](https://github.com/surjithctly/astroship)
+- https://github.com/delucis/astro-netlify-cms
 
 ### Cinema
 

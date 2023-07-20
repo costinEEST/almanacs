@@ -56,6 +56,8 @@ javascript: (() =>
 - https://jojo.io/posts/bookmarklets-speed
 - [Get your Kindle highlights out of the cloud and onto your computer](https://github.com/TristanH/bookcision) + https://alan.norbauer.com/articles/bookcision
 - https://github.com/jakecreps/osint-bookmarklets
+- https://eriksolsen.com/blog/dynamic-bookmarks-in-google-chrome
+- https://gabrielsroka.github.io/webpages/bookmarklets.htm
 
 ### Document Object Model (DOM)
 
@@ -154,6 +156,7 @@ javascript: (() =>
 - [Building Chrome V8 on Windows](https://gist.github.com/jhalon/5cbaab99dccadbf8e783921358020159)
 - [Bun? Deno? Node.js? Creating your own JavaScript Runtime using V8, Libuv and more](https://github.com/ErickWendel/myownnode)
 - https://github.com/eatonphil/one-pass-code-generation-in-v8
+- https://github.com/wdv4758h/awesome-jit
 
 ### Exploit
 

@@ -1,19 +1,19 @@
-### Cinema
+# Cinema
 
 - [Markdown Showdown | Scott Spence](https://m.youtube.com/playlist?list=PLGi_uHe_v04B4xmHjNV7KTesFbqL7x1Xq)
 
-### Cheat sheet
+# Cheat sheet
 
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 - https://github.com/sindresorhus/css-in-readme-like-wat
 
-### Opinion
+# Opinion
 
 - https://capiche.com/e/markdown-history
 - https://passo.uno/markdoc-review + https://twitter.com/remoquete/status/1524725986641813505
 - https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon
 
-### Tool
+# Tool
 
 - [embedmd: embed code into markdown and keep everything in sync](https://github.com/campoy/embedmd)
 - https://begriffs.com/posts/2020-07-16-generating-mime-email.html + https://github.com/begriffs/mimedown
@@ -33,3 +33,4 @@
 - https://andyatkinson.com/blog/2023/05/26/better-writing-vale
 - [Markdown syntax for timelines](https://github.com/mark-when/markwhen)
 - https://github.com/prashanth1k/pandoc-ebook-template-windows
+- https://github.com/stars/o-az/lists/markdown

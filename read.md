@@ -12,6 +12,7 @@
 - https://academyofideas.com/books/#propaganda-and-brainwashing
 - https://mostrecommendedbooks.com/experts
 - https://bibliotecaexploratorilor.substack.com/p/stiinta-este-pentru-toata-lumea
+- https://fermatslibrary.com/journal_club
 
 ### Course
 
@@ -125,3 +126,4 @@
 - [Hidde de Vries](https://hidde.blog/books)
 - [Blas Moros](https://blas.com/books/worth-re-reading)
 - [Christian Houmann](https://bagerbach.com/books)
+- [Radek Pietruszewski](https://radex.io/books)

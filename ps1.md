@@ -14,6 +14,7 @@
 - https://www.verboon.info/2018/03/its-never-too-late-to-start-learning-powershell
 - https://github.com/PointTaken/knowledge-sharing/tree/main/PowerShell
 - https://github.com/yzwijsen/chatgpt-powershell
+- https://gabrielsroka.github.io/JavaScript-vs-PowerShell.htm
 
 ### Opinion
 

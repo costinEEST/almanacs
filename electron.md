@@ -7,7 +7,7 @@
   - [Tauri & ReactJS](https://github.com/elibroftw/modern-desktop-app-template) + https://m.youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L
   - [Desktop app for GPT/LLM](https://github.com/Bin-Huang/chatbox)
 - [Svelte NodeGUI, a lightweight Electron alternative with native UI](https://news.ycombinator.com/item?id=26361423)
-- https://github.com/gluon-framework/gluon
+- https://github.com/gluon-framework/gluon + https://goose.icu/gluon-announcement
 - https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt
 - https://github.com/stars/Marcisbee/lists/desktop-app
 

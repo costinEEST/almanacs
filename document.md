@@ -1,33 +1,38 @@
-### .dat
+# .csv
+
+- [Export Okta Users, Groups, etc. to CSV](https://github.com/gabrielsroka/gabrielsroka.github.io)
+
+# .dat
 
 - https://darekkay.com/blog/foobar2000-playlist-index-format
 
-### .doc
+# .doc
 
 - https://github.com/hanhanhanz/cyber-security-sources/blob/main/officeFileExploitation.md
 - https://github.com/mhagander/word2mediawiki
 
-### .epub
+# .epub
 
 - https://alexwlchan.net/2019/08/removing-the-drm-from-my-kindle-books
 - https://www.microsoftpressstore.com/promotions/product-announcement-retirement-of-amazon-mobi-ebook-142421
 - https://github.com/Metalnem/hkpropel-downloader
 - [export epub book](https://github.com/jsoverson/node-to-rust/pull/15/files)
 
-### .jpg
+# .jpg
 
 - https://github.com/corkami/pics/blob/master/binary/JPG.pdf
 - https://keerok.github.io/2022/07/29/Complement-Scripts-for-polyglot-jpg-s
 
-### .json
+# .json
 
 - https://corecursive.com/json-vs-xml-douglas-crockford
+- [Transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs](https://github.com/AykutSarac/jsoncrack.com)
 
-### .md
+# .md
 
 - [`text/markdown`](/markdown.md)
 
-### .pdf
+# .pdf
 
 - https://speakerdeck.com/ange/lets-write-a-pdf-file
 - [Exploitation and Sanitization of Hidden Data in PDF Files](https://arxiv.org/pdf/2103.02707.pdf) + https://arxiv.org/abs/2103.02707
@@ -44,41 +49,41 @@
 - https://github.com/zbetcheckin/PDF_analysis
 - [Make your PDFs look scanned](https://github.com/rwv/lookscanned.io)
 
-### .png
+# .png
 
 - https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vidbuchanan.co.uk/widgets/pngdiff
 - https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 
-### .tex
+# .tex
 
 - [Latex en 147 minutos](https://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf)
 - https://tex.stackexchange.com/questions/7770/file-extensions-related-to-latex-etc
 - https://www.freecodecamp.org/news/learn-latex-full-course
 - https://github.com/Wookai/paper-tips-and-tricks
 
-### .txt
+# .txt
 
 - https://github.com/timoteostewart/convert_text_file_to_mp3
 
-### .yaml
+# .yaml
 
 - https://kodekloud.com/p/json-path-quiz
 - https://stackoverflow.com/questions/19109912/yaml-do-i-need-quotes-for-strings-in-yaml/22235064#22235064
 - https://twitter.com/lemire/status/1614725458402369536 + https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell
 
-### .sam
+# .sam
 
 - https://cmdcolin.github.io/posts/2022-02-06-sv-sam
 
-### .o
+# .o
 
 - https://github.com/aidansteele/osx-abi-macho-file-format-reference
 
-### .xml
+# .xml
 
 - [👉](xml.md)
 
-### Tool
+# Tool
 
 - https://www.archives.gov/preservation/digital-preservation/linked-data
 - [Convert a Windows/DOS file extension to a mimetype.](https://dorper.me/ext2mime)
@@ -90,7 +95,7 @@
 - [tools for removing DRM from ebooks](https://github.com/noDRM/DeDRM_tools)
 - [compare Internet-Drafts and RFCs](https://author-tools.ietf.org/iddiff)
 
-### Security
+# Security
 
 - [Ange Albertini](https://github.com/corkami/docs/blob/master/talks.md)
 - https://ceres-c.it/2021/11/21/DRM-reversing
@@ -100,6 +105,6 @@
 - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions
 - https://textslashplain.com/2023/04/05/file-types
 
-### .zip
+# .zip
 
 - https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5 + [Monitoring the internet for new .zip domains]https://github.com/trickest/zip) + https://mrd0x.com/file-archiver-in-the-browser/?no-cache=1

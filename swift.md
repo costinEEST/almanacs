@@ -19,6 +19,7 @@
 - [An open-source colour picker app for macOS](https://github.com/superhighfives/pika)
 - Finite automata editor on touch devices: https://github.com/fortmarek/bachelor-thesis + https://github.com/fortmarek/automata-editor + https://marekfort.me/posts/automata-editor
 - https://github.com/criticalmaps/criticalmaps-ios
+- [watchOS app for checking air pollution levels](https://github.com/mackuba/SmogWatch)
 
 ### Algorithm
 

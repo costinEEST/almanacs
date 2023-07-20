@@ -139,6 +139,7 @@
 - [Collaborative editor project](https://github.com/toeverything/blocksuite)
 - https://github.com/samselikoff/ios-apple-music-clone
 - [A collection of clever yet understated user interactions found on the web](https://github.com/ryanwiemer/subtle-ui)
+- https://github.com/karlhadwen/todoist
 
 ### Radio
 

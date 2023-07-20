@@ -3,7 +3,7 @@
 - [Algorithms for Competitive Programming](https://github.com/e-maxx-eng/e-maxx-eng)
 - https://github.com/stevenhalim/cpbook-code
 
-### API 
+### API
 
 - [Optimizing Performance and Energy Efficiency in Massively Parallel Systems](https://github.com/thesis-nozal/PhD)
 
@@ -88,6 +88,7 @@
 - [RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines](https://github.com/google/re2)
 - [Audible feedback on just how much your browsing feeds into Google](https://github.com/berthubert/googerteller)
 - [Fast and beautiful note-taking app](https://github.com/nuttyartist/notes)
+- [A modern Hex Editor written in C++23](https://github.com/WerWolv/ImHex)
 
 ### Implementation
 
