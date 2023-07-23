@@ -163,6 +163,7 @@
 - https://github.com/rarmatei/egghead-thinking-reactively
 - [What Are Partial Applications? | Jesse Warden](https://m.youtube.com/playlist?list=PLZEZPz6HkCZnsdr7kPQIiN3lCdBBClClI)
 - https://jessewarden.com/books/real-world-functional-programming
+- https://github.com/ReactiveX/rxjs-advent-2018 + https://www.youtube.com/@matthewpodwysocki/videos
 
 ### TIL
 

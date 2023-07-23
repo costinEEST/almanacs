@@ -630,6 +630,7 @@ javascript: (() =>
 - https://hackaday.com/2022/03/09/webgpu-better-than-webgl
 - [How Does a GPU Shader Core Work? | Aras Pranckevičius](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
 - https://cohost.org/mcc/post/1406157-i-want-to-talk-about
+- https://github.com/gfxfundamentals/webgpufundamentals
 
 ### Human Interface Device (WebHID)
 

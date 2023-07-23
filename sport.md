@@ -62,7 +62,8 @@
 - [Sports History](https://m.youtube.com/playlist?list=PLHCqKO_htsf4Bl5hzcA5MypWxxoF1coKN)
 - https://www.europeana.eu/en/blog/the-classical-roots-of-modern-day-football
 - https://www.coursera.org/learn/football-more-than-a-game
-- https://www.youtube.com/playlist?list=PL50FHbwRCl93lbnjN42EXYOUVxOn1ZTWc
+- [A Complete History Of Manchester United](https://m.youtube.com/playlist?list=PL50FHbwRCl93lbnjN42EXYOUVxOn1ZTWc)
+- [Centenar Rapid 1923-2023: Porțile ni se deschid](https://m.youtube.com/playlist?list=PL8DQLH8SlsLuPEySQWi5TJ7D1stZX7nP_)
 
 ### Swimming
 

@@ -1,4 +1,4 @@
-### Black people
+# Black people
 
 - https://www.facebook.com/saved/?list_id=7724644657610476
 - https://www.caseyliss.com/2021/3/1/black-history-month
@@ -13,15 +13,15 @@
 - https://www.data-is-plural.com/archive/2023-02-08-edition
 - https://www.youtube.com/playlist?list=PLGGpadyh0wS5FAmj4AKjgVKm2N6XTEaqj
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUf5L0Iv0UtsWkaXQGjEUGYa
 
-### Albert Einstein
+# Albert Einstein
 
 - https://piggsboson.medium.com/3-brilliant-books-loved-by-albert-einstein-24dc6e58cb4
 
-### Aristotle
+# Aristotle
 
 - https://fivebooks.com/best-books/aristotle-edith-hall
 - https://quakkels.com/posts/developing-strength-of-character
@@ -37,12 +37,12 @@
 - [Aristotle On The Moral Virtues](https://www.patreon.com/posts/new-online-67824322)
 - https://biblioteca-digitala.ro/?descriptor=31840-aristotel
 
-### Aaron Swartz
+# Aaron Swartz
 
 - https://archive.org/details/AaronSwartzAProgrammableWeb + http://www.cs.rpi.edu/~hendler/ProgrammableWebSwartz2009.html + https://shud.in/posts/aaron-swartz-a-programmable-web
 - https://www.versobooks.com/blogs/2577-a-hacktivist-reading-list-aaron-swartz-s-recommended-reading
 
-### Anthony Bourdain
+# Anthony Bourdain
 
 - https://www.newyorker.com/culture/annals-of-gastronomy/the-haunting-afterlife-of-anthony-bourdain + https://news.ycombinator.com/item?id=27852432
 - https://www.newyorker.com/books/double-take/sunday-reading-remembering-anthony-bourdain
@@ -52,16 +52,16 @@
 - [writing about a bread maker](https://news.ycombinator.com/item?id=29077398)
 - https://getpocket.com/explore/item/drink-a-cold-beer-and-let-somebody-else-figure-it-out-22-of-anthony-bourdain-s-wisest-quotes-about
 
-#### Alan Turing
+## Alan Turing
 
 - [ACM A.M. Turing Award](https://m.youtube.com/user/TheOfficialACM/playlists?view=50&sort=dd&shelf_id=2)
 - https://twitter.com/phalpern/status/1373003682124607492
 
-### Aldous Huxley
+# Aldous Huxley
 
 - https://www.openculture.com/2022/03/hear-aldous-huxley-narrate-his-dystopian-masterpiece-brave-new-world.html
 
-### Alexander Unzicker
+# Alexander Unzicker
 
 - https://twitter.com/EliVieiraJr/status/1302633742201126917
 - https://youtu.be/4N5jSG5v0CU
@@ -69,41 +69,41 @@
 - https://youtu.be/urPwuK1sOXQ
 - https://mobile.twitter.com/daridor/status/1415636570732957698
 
-### Amjad Masad
+# Amjad Masad
 
 - https://intuitiveexplanations.com/tech/replit
 
-### Ayn Rand
+# Ayn Rand
 
 - https://m.youtube.com/playlist?list=PLtl4bsccyqPUa29NgQAqsq6mE9Spiiyxy
 
-### Bill Gurley
+# Bill Gurley
 
 -https://blakeir.com/notes/bill-gurley-benchmark
 
-### Bill Campbell
+# Bill Campbell
 
 - https://www.slideshare.net/ericschmidt/trillion-dollar-coach-book-bill-campbell
 - https://www.trilliondollarcoach.com
 
-### Brian Greene (theoretical physicist, mathematician, and string theorist)
+# Brian Greene (theoretical physicist, mathematician, and string theorist)
 
 - https://reasonandmeaning.com/2021/01/04/brian-greenes-until-the-end-of-time
 
-### Bhagwan Shree Rajneesh
+# Bhagwan Shree Rajneesh
 
 - https://www.speakbindas.com/books-i-have-loved-a-list
 - https://medium.com/anecdotes/oshos-top-5-book-recommendations-6f81c3f4ef9
 
-### Claude Shannon
+# Claude Shannon
 
 - https://www.amazon.com/Bit-Player-John-Hutton/dp/B08D291YQS
 
-### Chris Sacca
+# Chris Sacca
 
 - https://twitter.com/sacca/status/1447600320205529089
 
-### Christopher Alexander
+# Christopher Alexander
 
 - https://t.me/nature_of_order_chat
 - https://merveilles.town/@akkartik/107981485898871776
@@ -112,21 +112,21 @@
 - https://m.youtube.com/watch?v=tEiV49ePpRU
 - https://twitter.com/geoffreylitt/status/1554657224596733952
 
-### David Bohm
+# David Bohm
 
 - https://en.wikipedia.org/wiki/Bohm_Dialogue
 - https://www.brainpickings.org/2016/12/05/david-bohm-on-dialogue
 
-### David Heinemeier Hansson
+# David Heinemeier Hansson
 
 - https://mostrecommendedbooks.com/david-heinemeier-hansson-books
 - https://theceolibrary.com/books-recommended-by/david-heinemeier-hansson
 
-### David Rockefeller
+# David Rockefeller
 
 - https://blakeir.com/reading-list/october-2021/david-rockefellers-rolodex-was-the-stuff-of-legend
 
-### Daniel Kaminsky
+# Daniel Kaminsky
 
 - https://twitter.com/dakami/status/1213734316712161280
 - https://twitter.com/Riana_Crypto/status/1385995103517372417
@@ -139,21 +139,25 @@
 - https://www.facebook.com/dragosr/posts/10157757325730588
 - [DEFCONConference](https://m.youtube.com/playlist?list=PL9fPq3eQfaaC-2LgmH8MlMi41ryw8ty2l)
 
-### Daniel Zărnescu
+# Daniel Zărnescu
 
 - https://www.cristinachipurici.ro/2020/10/15/daniel-zarnescu-cristina-chipurici-podcast
 
-### Derek Sivers
+# Derek Sivers
 
 - https://store.sivers.org/1
 - https://sivers.com/d
 - https://100mba.net/mba1843
 
-### Edward Snowden
+# Donald Ervin Knuth
+
+- https://mattpodwysocki.github.io/cs/computer-science/knuth/youtube/2019/01/14/donald-knuth.html
+
+# Edward Snowden
 
 - https://www.forbes.com/sites/michaeldelcastillo/2022/04/27/edward-snowden-revealed-as-key-participant-in-mysterious-ceremony-creating-2-billion-anonymous-cryptocurrency
 
-### Elon Musk
+# Elon Musk
 
 - [Elon Musk takes control of Twitter in $44bn deal](https://www.bbc.com/news/technology-63402338)
 - https://ckarchive.com/b/e5uph7hp2ke9k
@@ -161,159 +165,159 @@
 - https://chrismessina.substack.com/p/just-setting-up-my-substack-notes
 - https://www.platformer.news/p/how-two-insurgents-are-taking-on
 
-### Herodotus
+# Herodotus
 
 - https://m.youtube.com/playlist?list=PLrAPUF78nSajp1ihfa2iDQ3-PmyW5T27f
 
-### Jeffrey Preston Bezos
+# Jeffrey Preston Bezos
 
 - https://sahilbloom.substack.com/p/the-bezos-regret-minimization-framework
 - https://www.businessinsider.com/jeff-bezos-amazon-history-facts-2017-4
 - https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world + https://gist.github.com/chitchcock/1281611 + https://youtu.be/xDdkc_RwKYI + https://www.nfx.com/post/founders-list-amazon-google-rant
 - https://salon.thefamily.co/11-notes-on-amazon-part-1-cf49d610f195
 
-### John Collison
+# John Collison
 
 - https://blakeir.com/notes/john-collison-stripe
 
-### Jordan Peterson
+# Jordan Peterson
 
 - https://github.com/azer/notebook/blob/master/maps-of-meaning.md
 - https://tim.blog/2021/03/01/jordan-peterson
 
-### Laura Kövesi
+# Laura Kövesi
 
 - https://www.spiegel.de/international/europe/europe-s-top-prosecutor-brings-in-more-money-than-she-spends-a-ce2edb60-53a7-42ce-9b13-5dc78ec6aa76
 
-### Patrick Collison
+# Patrick Collison
 
 - [Which five books have influenced you the most? (In terms of shaping your worldview.)](https://twitter.com/patrickc/status/929862403763798016)
 
-### Peter D. Mitchell
+# Peter D. Mitchell
 
 - https://www.nobelprize.org/prizes/chemistry/1978/mitchell/biographical
 
-### Peter Thiel
+# Peter Thiel
 
 - https://youtu.be/f0DaNghFjdA + https://perell.com/essay/peter-thiel + https://en.wikipedia.org/wiki/Things_Hidden_Since_the_Foundation_of_the_World + https://en.wikipedia.org/wiki/Persecution_and_the_Art_of_Writing + https://thephilosogist.com/s/Strauss-The-City-and-Man.pdf + https://www.simonandschuster.com/books/The-Decadent-Society/Ross-Douthat/9781476785240 + https://en.wikipedia.org/wiki/Wild_Wild_Country + https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 - https://scholars-stage.org/has-technological-progress-stalled
 - https://youtu.be/rW3DGnHO2iY
 
-### Peter Zeihan
+# Peter Zeihan
 
 - [The End of the World Is Just the Beginning: Mapping the Collapse of Globalization](https://mailchi.mp/theideafarm/june12?e=3a09f84e51)
 
-### Pyotr Demianovich Ouspenskii
+# Pyotr Demianovich Ouspenskii
 
 - https://twitter.com/GaryLachman/status/1500048861997551616
 
-### Keith Rabois
+# Keith Rabois
 
 - https://medium.com/@rabois/reading-list-604c88ecefa4
 - https://davidsnotes.substack.com/p/keith-rabois-key-lessons-from-peter
 
-### Kevin Kelly
+# Kevin Kelly
 
 - https://www.perell.com/podcast/kevin-kelly-seeing-the-future +https://youtu.be/ynt37tTdvGU
 
-### Marc Aureliu
+# Marc Aureliu
 
 - [Marc Aureliu versus Caesar și L. Aurelius Commodus | Vasile Pârvan](https://www.academia.edu/44818835/Vasile_P%C3%A2rvan_Marc_Aureliu_versus_Caesar_%C8%99i_L_Aurelius_Commodus_1909_2007_)
 - http://classics.mit.edu/Antoninus/meditations.html
 - https://plato.stanford.edu/entries/marcus-aurelius
 
-### Michelangelo di Lodovico Buonarroti Simoni
+# Michelangelo di Lodovico Buonarroti Simoni
 
 - https://en.wikipedia.org/wiki/The_Agony_and_the_Ecstasy_(novel)
 
-### Ray Dalio
+# Ray Dalio
 
 - https://www.businessinsider.com/ray-dalio-book-recommendations-for-college-students-and-investors-2019-8
 
-### René Girard
+# René Girard
 
 - https://www.goodreads.com/book/show/36459725-evolution-of-desire
 - https://conversationswithtyler.com/episodes/karl-ove-knausgard
 
-### Rick Hickey
+# Rick Hickey
 
 - https://github.com/tallesl/Rich-Hickey-fanclub
 
-### Richard Hamming
+# Richard Hamming
 
 - https://twitter.com/iantay_/status/1375945517486669824 + https://www.notion.so/blog/a-roundtable-on-richard-hamming
 
-### Richard Feynman
+# Richard Feynman
 
 - https://twitter.com/memcculloch/status/1413137867275046918
 
-### Robert Augustus Masters
+# Robert Augustus Masters
 
 - https://www.robertmasters.com/interviews
 - https://www.consciouslife.com/robert-augustus-masters-phd
 
-### Rory Sutherland
+# Rory Sutherland
 
 - https://www.edge.org/conversation/rory_sutherland-things-to-hang-on-your-mental-mug-tree + https://m.youtube.com/watch?v=uHbdFn9UyDY + https://youtu.be/zUeJoS3cTu8
 
-### Edsger W. Dijkstra
+# Edsger W. Dijkstra
 
 - https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders
 
-### Edward Osborne Wilson
+# Edward Osborne Wilson
 
 - https://inquisitivebiologist.com/2022/01/07/book-review-scientist-e-o-wilson-a-life-in-nature
 
-### Ryan Holiday
+# Ryan Holiday
 
 - https://www.perell.com/podcast/ryan-holiday
 
-### Jacques-Yves Cousteau
+# Jacques-Yves Cousteau
 
 - https://films.nationalgeographic.com/becoming-cousteau
 
-### Joe McCray
+# Joe McCray
 
 - https://www.slideshare.net/joemccray/presentations
 
-### John D. Rockefeller
+# John D. Rockefeller
 
 - https://founders.simplecast.com/episodes/254-john-d-rockefeller-the-founding-father-of-the-rockefellers
 
-### Satya Nadella
+# Satya Nadella
 
 - https://mastersofscale.com/nadella
 
-### Socrates
+# Socrates
 
 - [Sarah Fielding's Xenophon](https://edithorial.blogspot.com/2015/08/an-18th-century-detective-trail-sarah.html)
 
-### Steve Jobs
+# Steve Jobs
 
 - https://www.theverge.com/22639629/tim-cook-apple-ten-years-decade-steve-jobs-legacy
 
-### Tai Lopez
+# Tai Lopez
 
 - https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970
 
-### Theodor Paleologu
+# Theodor Paleologu
 
 - https://www.hotnews.ro/stiri-politic-5860775-experimentul-paleologu.htm
 
-### Thomas Aquinas
+# Thomas Aquinas
 
 - https://twitter.com/curiouswavefn/status/1453030427980025863
 - https://humanitas.ro/humanitas/carte/patimile-sfantului-tommaso-daquino
 
-### Oliver Sacks
+# Oliver Sacks
 
 - https://twitter.com/curiouswavefn/status/1589123678595616768
 
-### Otto Rank (1884-1939; psychoanalyst, writer, and philosopher)
+# Otto Rank (1884-1939; psychoanalyst, writer, and philosopher)
 
 - https://archives.upenn.edu/collections/finding-aid/upt50r198
 
-### Werner Heisenberg
+# Werner Heisenberg
 
 - https://koaha.org/wiki/Werner_Heisenberg
 - https://twitter.com/search?q=from%20%40curiouswavefn%20werner%20heisenberg&src=typed_query
@@ -344,11 +348,11 @@
 - https://youtu.be/L5WOnYB2-o8
 - https://blog.patternsinthevoid.net/famous-physicists-on-mysticism-2-the-debate-between-plato-and-democritus-by-werner-heisenberg.html
 
-### Niels Henrik David Bohr
+# Niels Henrik David Bohr
 
 - https://youtu.be/qwEheAf3k60
 
-### Miscellaneous
+# Miscellaneous
 
 - [Steve Jobs meeting Donald Knuth](https://www.folklore.org/StoryView.py?story=Close_Encounters_of_the_Steve_Kind.txt)
 - https://signalvnoise.com/posts/2666-the-story-of-polaroid-inventor-edwin-land-one-of-steve-jobs-biggest-heroes
@@ -372,18 +376,18 @@
 - https://github.com/rekihattori/awesome-programmers
 - https://memoryandconscience.eu/centuryofmartyrs
 
-### Paul Graham
+# Paul Graham
 
 - https://stopa.io/post/294
 
-### Umberto Eco
+# Umberto Eco
 
 - https://dilemaveche.ro/sectiune/societate/articol/ulise-in-tesatura-topografiilor-simbolice
 
-### Vladimir Oane
+# Vladimir Oane
 
 - https://twitter.com/vladimiroane/status/1554010829950959618
 
-### Yuval Noah Harari
+# Yuval Noah Harari
 
 - http://szabadsag.ro/-/harari-es-a-transzhumanizmus

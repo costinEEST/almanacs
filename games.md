@@ -115,6 +115,7 @@
 - [Wolfenstein 3D with a CGA renderer](https://github.com/jhhoward/WolfensteinCGA)
 - [Learning C# by Programming Games, second edition](https://github.com/egges/csharpgames)
 - [Convert classic Apple II games to runnable C code](https://github.com/tmikov/apple2tc)
+- [Build and Publish Roguelike Genre Games with JavaScript and Phaser](https://github.com/Apress/roguelike-development-javascript) + https://books2read.com/u/mZeXXe
 
 ### The creators
 
