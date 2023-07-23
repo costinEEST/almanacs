@@ -152,6 +152,7 @@
 
 - https://3perf.com/blog/link-rels
 - [`rel="?"`](https://www.htmhell.dev/adventcalendar/2022/21)
+- https://nelsonslog.wordpress.com/2023/07/22/link-to-text-fragment
 
 ### <meta />
 
