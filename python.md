@@ -279,6 +279,7 @@
 - https://github.com/Dragonatorul/reddit_imgur_archive
 - [Download ESM modules from npm and jsdelivr](https://github.com/simonw/download-esm)
 - https://github.com/theycallmeloki/askfm-python
+- [Search Google and download specific file types](https://github.com/opsdisk/metagoofil)
 
 ### Static website
 

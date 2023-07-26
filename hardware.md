@@ -38,6 +38,7 @@
 - https://electronica-azi.ro/mouser-electronics-ofera-inginerilor-proiectanti-electronisti-o-gama-larga-de-carti-tehnice-electronice
 - [CMOS Cookbook | Don Lancaster (1977)](https://www.charlespetzold.com/blog/2023/07/In-Praise-of-Don-Lancaster.html)
 - [TTL Cookbook | Don Lancaster (1974)](https://www.facebook.com/jeff.duntemann/posts/pfbid0gWQWN5fxpk6zmK8S6yjeny13HBfpaGT2K5EDRGFFbfcEv9bMc3ScyLMUohpokuh3l)
+- [A comprehensive archive of 90s era Electronic Design magazines, the ones with Bob Pease columns](http://bitsavers.org/magazines/Electronic_Design)
 
 # Watch
 

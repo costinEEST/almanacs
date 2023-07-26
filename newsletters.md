@@ -94,6 +94,7 @@
 - [Sayash Kapoor, Arvind Narayanan](https://aisnakeoil.substack.com/archive)
 - [DataTalks](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa)
 - [Shubham Saboo](https://unwindai.substack.com/archive)
+- [Alex Volkov](https://thursdai.substack.com/archive)
 
 # Book
 
