@@ -71,3 +71,4 @@
 
 - [Piece together any framework with Svelte](https://github.com/Mokshit06/sveltris)
 - https://github.com/stars/o-az/lists/svelte
+- [Visual CMS with a built-in code editor, Svelte blocks, and static site generator](https://github.com/primocms/primo)

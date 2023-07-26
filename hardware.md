@@ -1,11 +1,11 @@
-### 3D print
+# 3D print
 
 - [David Shorey](https://m.youtube.com/playlist?list=PLzeAgAPAU5pOuMMNNiVplrI9GwkEuy1Ns)
 - https://github.com/stars/JcMinarro/lists/3d-print
 - https://m.youtube.com/playlist?list=PLC_CdHO9Xx-PSbxGmfoLL5uYCQjzSoWZ_
 - https://www.freethink.com/space/3d-printing-in-microgravity
 
-### Book
+# Book
 
 - https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle0
 - https://github.com/mihaiolteanu/circuiteelectrice
@@ -39,7 +39,7 @@
 - [CMOS Cookbook | Don Lancaster (1977)](https://www.charlespetzold.com/blog/2023/07/In-Praise-of-Don-Lancaster.html)
 - [TTL Cookbook | Don Lancaster (1974)](https://www.facebook.com/jeff.duntemann/posts/pfbid0gWQWN5fxpk6zmK8S6yjeny13HBfpaGT2K5EDRGFFbfcEv9bMc3ScyLMUohpokuh3l)
 
-### Watch
+# Watch
 
 - [Open West 2019 - Electronics 102: A better Electronics 101 | AJ ONeal](https://m.youtube.com/playlist?list=PLZaEVINf2Bq-OILaE76UkP0uGbBznQ1M-)
 - https://github.com/hellerve/programming-talks#hardware
@@ -60,7 +60,7 @@
 - https://hackaday.com/2023/04/04/supercon-2022-chris-combs-reveals-his-art-world-compatibility-layer
 - [Guide to basic electronics; unprofessional edition | Louis Rossmann](https://www.youtube.com/playlist?list=PLkVbIsAWN2ltOWmriIdOc5CtiZqUTH7GT)
 
-### Cheat sheet
+# Cheat sheet
 
 - https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance
 - https://github.com/SoCFPGA-learning/General/blob/main/resources.md
@@ -74,7 +74,7 @@
 - https://www.quaxio.com/circuit_boards
 - [How can you communicate to your ikea tradfri gateway/hub through coap-client](https://github.com/glenndehaan/ikea-tradfri-coap-docs)
 
-### Community
+# Community
 
 - http://mightyohm.com/wiki
 - https://github.com/mhxion/awesome-discord-communities#electrical
@@ -89,7 +89,7 @@
 - [Clubul electroniștilor nostalgici](https://www.facebook.com/groups/1416834245239405/files/files)
 - https://github.com/cajt/list_of_robot_electronics
 
-### Course
+# Course
 
 - [Albert Spinosa](https://alselectronicclassroom.teachable.com/courses/enrolled)
 - https://www.instructables.com/id/Basic-Electronics
@@ -120,7 +120,7 @@
 - https://www.udemy.com/course/complete-course-in-autocad-electrical-2021
 - https://github.com/jasonwebb/How-to-Build-Almost-Anything-Fall-2015 + https://jasonwebb.io/2017/06/designing-and-teaching-how-to-build-almost-anything-at-metropolitan-community-colleges-fablab
 
-### Chip
+# Chip
 
 - https://siliconpr0n.org
 - https://github.com/bobeff/programming-math-science#hardware
@@ -137,20 +137,20 @@
 - https://m.youtube.com/c/ZeroToASIC
 - [Starlink UT modchip](https://twitter.com/LennertWo/status/1558378348732026881)
 
-### Diode
+# Diode
 
 - https://m.youtube.com/playlist?list=PLKEd7Km7DjLcd4-fw4Y2h94VRo6NQwb2P
 
-### Field Programmable Gate Arrays (FPGA)
+# Field Programmable Gate Arrays (FPGA)
 
 - https://github.com/icebreaker-fpga/icebreaker-workshop
 
-### Flipper Zero
+# Flipper Zero
 
 - https://github.com/stars/swisskyrepo/lists/hardware
 - https://github.com/djsime1/awesome-flipperzero
 
-### Padlock
+# Padlock
 
 - [Electronic Locks: Bumping and Other Mischief | Michael Huebler](https://program.mch2022.org/mch2022/talk/KBVXRU) + https://m.youtube.com/playlist?list=PLa9wckl5om1O7xq_yTQ8mooDxtLzqGy4Q
 - [Original Lishi Tools](https://m.youtube.com/channel/UCWBkIQv09counMsKwOMcpvw/playlists)
@@ -158,7 +158,7 @@
 - [KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds](https://github.com/MaximeBeasse/KeyDecoder)
 - [Locksport. A Hacker’s Guide to Lockpicking, Impressioning, and Safe Cracking](https://nostarch.com/locksport)
 
-### PCB
+# Printed circuit board (PCB)
 
 - [Keng Tiong Ng](https://visio-for-engineers.blogspot.com)
 - https://github.com/Hanqaqa/PCB_Business_Card
@@ -169,18 +169,19 @@
 - [Better understanding the current status of hardware supply chain](https://github.com/hardenedlinux/cheap-pcb)
 - [Better parametric search for components available for JLC PCB assembly](https://github.com/yaqwsx/jlcparts)
 - https://m.youtube.com/@CarlBugeja/playlists?view=1&sort=lad&flow=grid
+- [The Game of Life on a PCB](https://ryhl.io/blog/gol-pcb)
 
-### Resistor
+# Resistor
 
 - [Realizing a Non-Standard Resistance Value](https://twitter.com/TheJoeBamberg/status/1362129411928039425)
 - https://electronics.stackexchange.com/questions/264738/why-are-vacuum-tubes-more-resistant-to-electromagnetic-pulses-than-solid-state-d + https://www.c-span.org/video/?459083-1/fallout-mile-island + https://www.ji-hlava.com/filmy/after-the-fallout + https://youtu.be/n2fhbF-92_o
 - https://rbaron.net/blog/2021/04/05/How-capacitive-soil-moisture-sensors-work.html
 
-### Security
+# Security
 
 - [Hacking Brightway scooters](https://robocoffee.de/?p=436)
 
-### Transistor
+# Transistor
 
 - https://m.youtube.com/playlist?list=PLoKM3Qfxoe0lrsY5lMl0iiJwNeJ2g-fgy
 - [How to Build a Transistor](https://twitter.com/rbhar90/status/1367901014771126277)
@@ -189,7 +190,7 @@
 - https://lcamtuf.substack.com/p/building-a-decent-microphone-amplifier
 - https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors
 
-### Playground
+# Playground
 
 - https://www.tinkercad.com/circuits
 - https://medium.com/@jonathanberi/a-makers-equipment-list-4f8509d0d769
@@ -201,7 +202,7 @@
 - [web-based CPUID decoder and visualiser](https://github.com/gsuberland/web-cpuid)
 - [visual programming language for teaching about logic gates](https://github.com/pranavnt/logiclights)
 
-### Microprocessor
+# Microprocessor
 
 - [Very-large-scale integration systems](http://sandsoftwaresound.net/courseware/vlsi-systems)
 - http://sandsoftwaresound.net/courseware/computer-design
@@ -215,7 +216,7 @@
 - https://github.com/stars/pamoroso/lists/intel-8080
 - [CPU vs (GP)GPU](https://yurichev.org/GPU)
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/jaredthecoder/awesome-vehicle-security
 - https://swatinem.de/blog/oil-immersion-cooling
@@ -252,19 +253,19 @@
 - https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole
 - https://hackaday.com/2023/03/09/measuring-a-millisecond-mechanically
 
-### News
+# News
 
 - https://scitechdaily.com/european-milestone-quantum-computer-with-more-than-5000-qubits-launched
 - https://www.scmp.com/news/china/science/article/3164684/chinese-scientists-say-they-may-be-step-closer-quantum-code
 
-### Radio
+# Radio
 
 - https://podcasts.apple.com/us/podcast/the-story-of-how-tsmc-came-to-dominate-the-world/id1056200096?i=1000506468665
 - https://tlbh.it/002_https_tlbh_dot_it_CR.html
 - https://www.hanselminutes.com/860/c64-os-a-new-operating-system-for-the-commodore-64-with-gregory-nau
 - https://podcasts.apple.com/us/podcast/the-battle-over-semiconductors-us-china-competition/id1205359334?i=1000581366979
 
-### Tool
+# Tool
 
 - https://makezine.com/article/technology/collins-lab-electronics-tools + https://m.youtube.com/playlist?list=PLECC9C55893C696A7
 - https://nelsonslog.wordpress.com/2020/05/27/power-monitoring-generator-well
@@ -291,7 +292,7 @@
 - http://lushprojects.com/circuitjs/circuitjs.html
 - [A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers](https://github.com/samyk/magspoof)
 
-### History
+# History
 
 - http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1964_09-10.pdf + https://twitter.com/paulg/status/1376082495041589250
 - https://panic.com/blog/a-prototype-original-ipod

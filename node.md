@@ -1,7 +1,7 @@
 ### Authentication
 
 - https://www.nango.dev/blog/why-is-oauth-still-hard
-- [A passkey is a new way to sign in that works completely without passwords](https://www.passkeys.io) + https://twitter.com/tobi/status/1604846815060250626
+- [A passkey is a new way to sign in that works completely without passwords](https://www.passkeys.io) + https://twitter.com/tobi/status/1604846815060250626 + https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk
 - https://evertpot.com/jwt-is-a-bad-default
 - https://evertpot.com/oauth2-javascript-client
 - [Authentication and Authorization on the Web | Nigel Chapman](https://github.com/macavon/Web-Security-Topics-Example-Code)
@@ -185,6 +185,7 @@
 - https://blog.appsignal.com/2022/11/23/nodejs-architecture-pitfalls-to-avoid.html
 - https://github.com/Eomm/fastify-discord-bot-demo
 - [A Node-Typescript/Express Boilerplate with Authentication, Authorization, and CRUD functionality + PWA Support](https://github.com/nerdeveloper/hackathon-starter-kit)
+- [Shorten URLs using invisible spaces](https://github.com/zws-im/zws)
 
 ### Cinema
 
@@ -238,6 +239,7 @@
 - [scripts I've started using daily](https://twitter.com/mattpocockuk/status/1567859790168170497)
 - https://jagascript.com/how-to-build-a-textual-progress-bar-for-cli-and-terminal-apps
 - https://itnext.io/shell-free-scripts-with-execa-7-885fb3b42f83
+- [Learn how to use CLI apps](https://github.com/jonahsnider/how)
 
 ### Cheat sheet
 
@@ -287,6 +289,7 @@
 - [Misusing the Node.js Inspector Mechanism to Run Arbitrary Code](https://github.com/evilsocket/jscythe)
 - https://newrelic.com/blog/best-practices/nodejs-application-monitoring
 - https://github.com/skirianov/console-m + https://twitter.com/KajetanSw/status/1595717645642473473
+- [Benchmarking library with support for multithreading and TurboFan optimization isolation](https://github.com/jonahsnider/benchmark)
 
 ### Deploy
 
@@ -624,6 +627,7 @@
 - https://m.youtube.com/playlist?list=PLw5h0DiJ-9PDRE2J8T5vWups_jIcAfqg7
 - [module to retrieve organic search results and much more from Google](https://github.com/LuanRT/google-this)
 - https://gitlab.com/ibrahim/brainyquote-scraper
+- [GoodReads API](https://github.com/phanan/phanan.net/blob/master/.functions/now-reading.js)
 
 ### Micro service
 

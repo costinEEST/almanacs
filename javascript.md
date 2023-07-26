@@ -298,6 +298,7 @@
 - [Re-exports are bad for loading and runtime performance.](https://twitter.com/iamakulov/status/1331551351214645251)
 - [ESM-CJS interop test](https://github.com/sokra/interop-test) + https://sokra.github.io/interop-test
 - https://spidermonkey.dev/blog/2023/03/02/javascript-import-maps-part-2-in-depth-exploration.html
+- [Prototype implementation of ES6 modules](https://github.com/rossberg/js-modules) + https://twitter.com/tomprimozic/status/1433013949998456836 + https://people.mpi-sws.org/~rossberg/f-ing + https://people.mpi-sws.org/~rossberg/1ml + https://twitter.com/tomprimozic/status/1443141996512694274 + https://people.mpi-sws.org/~rossberg/mixml
 
 ### lexical scoping
 
@@ -638,6 +639,7 @@
 
 - https://frontendmastery.com/posts/building-and-serving-frontends-at-scale
 - https://github.com/frehner/modern-guide-to-packaging-js-library
+- https://github.com/jonahsnider/js-unit-conversion-benchmarks
 - [Check the licenses for the NPM packages that you use](https://github.com/franciscop/legally)
 - [ESLint, Prettier, Stylelint, TypeScript and Semantic Release configs.](https://twitter.com/ManuelBieh/status/1211759353973354497)
 - [Using sourcemaps on production without exposing the source code 🕵️‍](https://itnext.io/using-sourcemaps-on-production-without-revealing-the-source-code-%EF%B8%8F-d41e78e20c89)

@@ -78,6 +78,10 @@
 - https://github.com/Andarius/rn-animations-playground
 - https://github.com/ovistoica/react-native-modern-template
 
+# Engine
+
+- https://github.com/bojie-liu/react-native-quickjs
+
 ### Internal
 
 - http://blog.nparashuram.com/2019/01/react-natives-new-architecture-glossary.html
@@ -99,6 +103,7 @@
 - [Exit,close,kill,shutdown app completely for React Native on iOS and Android.](https://github.com/wumke/react-native-exit-app)
 - https://github.com/ReactNativeSchool/codepush-github-actions-demo/tree/main/.github/workflows
 - [I can’t prove this but I suspect if someone built a Next.js/Remix/etc for React Native (i.e. single codebase for client and server) they would make a trillion dollars](https://twitter.com/acdlite/status/1489755769876754434)
+- https://github.com/ammarahm-ed/nativescript-render-perf-test
 
 ### Testing
 

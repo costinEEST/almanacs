@@ -37,6 +37,7 @@
 - https://github.com/shftco/rails-api-boilerplate
 - https://github.com/alexrudall/ruby-openai
 - https://github.com/googleapis/google-api-ruby-client
+- [Seamlessly adds a Swagger to Rails-based API's](https://github.com/rswag/rswag)
 
 ### Algorithm
 
@@ -262,6 +263,7 @@
 - [Ruby Heap Dump Inspector](https://github.com/zombocom/heapy)
 - https://github.com/stars/davidteren/lists/rails-performance
 - https://blog.testdouble.com/talks/2022-08-22-debugging-ruby-on-rails-with-vscode
+- [dev-tool for rails, to improve your rails log](https://github.com/y-takey/rails-dashboard)
 
 ### Deploy
 

@@ -7,6 +7,7 @@
 ### Cheatsheet
 
 - https://github.com/ianthehenry/ocamlsyntax.com
+- https://github.com/tomprimozic/type-systems
 
 ### Practice
 

@@ -25,6 +25,9 @@
 - https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt
 - [Building a full-stack, fully type-safe pnpm monorepo with NestJS, NextJS & tRPC](https://www.tomray.dev/nestjs-nextjs-trpc)
 - https://a16z.com/2023/06/21/the-getting-started-with-ai-stack-for-javascript + https://github.com/a16z-infra/ai-getting-started
+- [AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Supabase Auth and Postgres DB](https://github.com/supabase-community/vercel-ai-chatbot) + https://github.com/supabase-community/nextjs-openai-doc-search
+- https://github.com/vercel/nextjs-subscription-payments
+- [Dark mode in 2 lines of code. Support System preference and any other theme with no flashing ](https://github.com/pacocoursey/next-themes)
 
 ### Cheat sheet
 
@@ -55,6 +58,8 @@
 - [A weather app using Next.js, Mantine, Edge API Routes, and the OpenWeatherMap and Google Maps API's](https://github.com/gregrickaby/local-weather)
 - https://github.com/jakeherp/portfolio
 - https://jack.mcpickle.com.au + https://github.com/heuriscode/website
+- https://github.com/jonahsnider/jonahsnider.com
+- [download youtube videos, really easily](https://github.com/jonahsnider/maroon)
 
 ### Deploy
 

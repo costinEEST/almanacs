@@ -46,6 +46,7 @@
 - [Using grep and gsplit to filter and break up large file](https://harry.dev/posts/filtering-and-splitting-files)
 - https://marekfort.me/posts/importance-of-dotfiles
 - http://redsymbol.net/articles/bash-exit-traps
+- https://github.com/jonahsnider/setup-linux
 
 ### Cinema
 

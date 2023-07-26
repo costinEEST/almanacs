@@ -191,6 +191,7 @@
 - [Clang is better than GCC](https://yurichev.org/clang)
 - https://hackaday.com/2023/05/11/linux-fu-c-on-jupyter
 - [A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs](https://github.com/GaloisInc/MATE)
+- [A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
 
 ### Testing
 

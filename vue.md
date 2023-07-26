@@ -24,6 +24,7 @@
 - [Collection of handy online tools for developers, with great UX](https://github.com/CorentinTh/it-tools)
 - [The sleekest looking WEBUI for qBittorrent](https://github.com/WDaan/VueTorrent)
 - [web app with a novel method of designing qr codes that does not take advantage of error correction](https://github.com/kochrt/qr-designer) + https://blog.qartis.com/decoding-small-qr-codes-by-hand
+- [Personal audio streaming service written in Vue and Laravel](https://github.com/koel/koel)
 
 ### Development
 
@@ -31,7 +32,7 @@
 - [Opinionated template for starting new web applications with Ruby on Rails and Vue.js 3](https://github.com/ledermann/templatus)
 - https://github.com/NathanAP/vue-google-maps-community-fork
 
-### Inspire 
+### Inspire
 
 - https://github.com/bencodezen/bencodezen
 

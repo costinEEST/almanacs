@@ -99,6 +99,7 @@
 - [If you're having a type inference issue with a 3rd party library, don't try to force it by shoving types into generics](https://twitter.com/BenLesh/status/1025156281936408576)
 - https://p.migdal.pl/2020/03/02/types-tests-typescript.html
 - https://nehalist.io/trpc-review
+- [`Using Flow or TypeScript could have prevented 15% of the public bugs for public projects on GitHub`](https://earlbarr.com/publications/typestudy.pdf)
 
 ### Patterns
 
@@ -129,6 +130,7 @@
 - https://github.com/otobot1/Advent-of-Code-2022
 - https://trpc.io/blog/tinyrpc-client
 - https://github.com/g-plane/type-gymnastics
+- https://github.com/jonahsnider/aoc-2022 + https://github.com/jonahsnider/aoc-2021 + https://github.com/jonahsnider/aoc-2020 + https://github.com/jonahsnider/aoc-2019 + https://github.com/jonahsnider/aoc-2018
 
 ### Radio
 
@@ -150,6 +152,7 @@
 - https://github.com/jahands/uuid-queue + https://youtu.be/djruLILR7BE
 - [ActivityPub and Mastodon-compatible server](https://github.com/cloudflare/wildebeest)
 - [A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely)
+- [A tool to generate a single bundle of dts with types tree-shaking](https://github.com/timocov/dts-bundle-generator)
 
 ### Watch
 

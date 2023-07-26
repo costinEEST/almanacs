@@ -268,6 +268,7 @@
 - [find the origin servers of websites protected by Cloudflare, Sucuri, or Incapsula with a misconfiguration DNS](https://github.com/mrh0wl/Cloudmare)
 - https://blog.tomayac.com/2023/04/18/getting-my-domain-tomayac-de-back
 - [Tools for managing DNS across multiple providers](https://github.com/octodns/octodns)
+- [detects dangling DNS record in a multi cloud environment](https://github.com/anirudhbiyani/findmytakeover)
 
 ### TCP/UDP
 

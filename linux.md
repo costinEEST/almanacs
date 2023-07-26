@@ -174,6 +174,7 @@
 - https://snyk.io/blog/everything-you-wanted-to-know-about-addressing-security-vulnerabilities-in-linux-based-containers + [Nix: A Safe and Policy-Free System for Software Deployment](https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf)
 - https://raphcarvalho.com/blog/programmers-guide-to-meltdown + https://github.com/raphaelsc/Am-I-affected-by-Meltdown
 - https://github.com/gkaindl/meltdown-poc
+- https://fy.blackhats.net.au/blog/2022-08-24-where-to-start-with-linux-authentication
 
 ### Opinion
 

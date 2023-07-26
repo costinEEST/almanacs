@@ -1,4 +1,4 @@
-### Book 
+### Book
 
 - [WebAssembly: The Definitive Guide: Safe, Fast, and Portable Code | Brian Sletten](https://www.oreilly.com/library/view/webassembly-the-definitive/9781492089834)
 
@@ -20,13 +20,15 @@
 - [Hacking From The Browser by Tamas Jos](https://youtu.be/jStdrDHTmD4)
 - https://xeiaso.net/talks/webassembly-on-the-server-system-calls-2019-05-31
 - https://jordaneldredge.com/blog/faster-safer-compiling-untrusted-code-to-web-assembly-in-the-browser
+- https://github.com/avive/wasm_on_the_blockchain + https://m.youtube.com/playlist?list=PL5BszCNLCnMOt7wCU9CmTaaFPP3-cIKmR
+- https://people.mpi-sws.org/~rossberg/publications.html#talks
 
 ### Courses
 
 - https://github.com/pventuzelo/wasm_workshop
 - https://github.com/danbev/learning-wasi
 
-### Community 
+### Community
 
 - [Peter Salomonsen](https://twitter.com/salomonsen_p)
 - [Alon Zakai](https://twitter.com/kripken)

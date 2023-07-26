@@ -128,6 +128,7 @@
 - [A workshop covering all the tools gophers use in their day to day life](https://github.com/campoy/go-tooling-workshop)
 - [Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. ](https://github.com/claudiodangelis/qrcp)
 - [patchbay.pub – Poor man's ngrok/IFTTT/serverless](https://news.ycombinator.com/item?id=21639066)
+- [A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy](https://github.com/Narasimha1997/fake-sms)
 - [Peer authenticated WebRTC.](https://github.com/saljam/webwormhole) + https://twitter.com/FiloSottile/status/1255583253240709120
 - https://twitter.com/mikispag/status/1255164681121136642
 - [A really small static web server for Docker](https://github.com/PierreZ/goStatic)
@@ -168,6 +169,8 @@
 - [Part of Speech Tagging on a block of text](https://github.com/s7ephen/goalpost)
 - [Content management with Github hosted Markdown as an authoritative data source](https://github.com/securityfirst/tent)
 - [Generate invoices from the command line](https://github.com/maaslalani/invoice)
+- [A reverse proxy that exposes services on your tailnet (as their own tailscale participants)](https://github.com/antifuchs/tsnsrv)
+- [Connect your HTTP servers to Tailscale](https://github.com/j-f1/tailproxy)
 
 ### Radio
 
