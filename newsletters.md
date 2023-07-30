@@ -305,6 +305,7 @@
 # Typescript
 
 - [TypeScript Weekly from Marius Schulz](https://us14.campaign-archive.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42)
+- [Effective TypeScript | Dan Vanderkam](https://us4.campaign-archive.com/home/?u=628269c1b1a84231088e614d2&id=04969338ee)
 
 # Web development
 
@@ -411,6 +412,10 @@
 - [Jones Wellness (Cancer/evolution)](https://us7.campaign-archive.com/home/?u=75ac079dc580d32a5726e1c26&id=cbf7c437ec)
 - [Yoga Studies Institute](https://us8.campaign-archive.com/home/?u=e1ee0b874d5f3352ff94f6312&id=47d0dece18)
 
+# NodeJS
+
+- [Yoni Goldberg](https://us3.campaign-archive.com/home/?u=e478992556fad865a0bc699fd&id=50c6974846)
+
 # Privacy
 
 - [Simo Ahava](https://www.teamsimmer.com/newsletter)
@@ -420,6 +425,8 @@
 # Psychology
 
 - [Radu Umbreș](https://iscoada.substack.com/archive)
+
+
 
 # Security
 
@@ -508,6 +515,7 @@
 
 - [LearnHebrew.TV](https://us12.campaign-archive.com/home/?u=bbfadccb964a11c5a7a496a64&id=d4ec934372)
 - [Spanish and Go](https://us14.campaign-archive.com/home/?u=272e33053f331a3b490eee682&id=98bc997016)
+- [Romanian with Gia Manolea](https://us17.campaign-archive.com/home/?u=1a3c2807fdd6a5507efaff5d8&id=2cf4cda75e)
 
 # Travel
 
