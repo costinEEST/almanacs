@@ -25,6 +25,10 @@
 
 - [Adriana Ancuta](https://adrianaancuta.substack.com/archive)
 
+# CSS
+
+- [Shruti Balasa](https://shrutibalasa.substack.com/archive)
+
 # Games
 
 - [Alex Doppelgänger](https://alexdoppelganger.substack.com/archive)

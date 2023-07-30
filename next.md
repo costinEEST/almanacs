@@ -28,6 +28,7 @@
 - [AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Supabase Auth and Postgres DB](https://github.com/supabase-community/vercel-ai-chatbot) + https://github.com/supabase-community/nextjs-openai-doc-search
 - https://github.com/vercel/nextjs-subscription-payments
 - [Dark mode in 2 lines of code. Support System preference and any other theme with no flashing ](https://github.com/pacocoursey/next-themes)
+- [Generates group pot luck dinner recipes for you using AI](https://github.com/johnpolacek/botluck) + https://johnpolacek.com/playing-with-open-ai-api
 
 ### Cheat sheet
 
@@ -60,6 +61,7 @@
 - https://jack.mcpickle.com.au + https://github.com/heuriscode/website
 - https://github.com/jonahsnider/jonahsnider.com
 - [download youtube videos, really easily](https://github.com/jonahsnider/maroon)
+- https://github.com/mattcarrollcode/mattcarrollcode.com
 
 ### Deploy
 

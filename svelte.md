@@ -4,6 +4,14 @@
 
 # Boilerplate
 
+- https://github.com/ved-websites/fullstacked
+- https://github.com/SkepticMystic/SKnext-Auth-Tailwind + https://github.com/SkepticMystic/wine-trail
+- https://github.com/marinastudios/vichat-server
+- https://github.com/marinastudios/skrift
+- https://github.com/TheTwistedDev/esyncal
+- https://github.com/marinastudios/griddle-game
+- https://github.com/mavdotjs/dfcuts
+- https://github.com/Orange-Gang/forkup
 - [An opinionated blog starter for SvelteKit + Tailwind + Netlify](https://github.com/sw-yx/swyxkit)
 - https://github.com/josh-collinsworth/sveltekit-blog-starter
 

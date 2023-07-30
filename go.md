@@ -241,6 +241,7 @@
 - [A static site generator for capturing quick notes](https://github.com/senorprogrammer/til)
 - https://adri.ddns.net/about
 - https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go
+- [A Go-based static site generator that compiles brandur.org](https://github.com/brandur/sorg)
 
 ### Watch
 

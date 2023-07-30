@@ -31,7 +31,7 @@
 - https://github.com/sger/RustBooks
 - https://github.com/lborb/book
 - https://github.com/Dhghomon/easy_rust + https://m.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
-- https://github.com/LukeMathWalker/zero-to-production
+- https://github.com/LukeMathWalker/zero-to-production + https://github.com/mdacach/newsletter
 - [Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers](https://github.com/google/autocxx)
 - [Performance Analysis and Tuning on Modern CPUs](https://github.com/grahamking/perf-ninja-rs)
 - https://www.amazon.com/Rust-Atomics-Locks-Low-Level-Concurrency/dp/1098119444
@@ -81,6 +81,7 @@
 - https://devforum.ro/t/cursuri-de-rust/18363
 - https://www.udemy.com/course/ultimate-rust-crash-course + https://www.udemy.com/course/ultimate-rust-2
 - https://github.com/tweedegolf/101-rs
+- [Full Stack Rust - Actix - Postgres - Shuttle - Dioxus](https://github.com/BcnRust/devbcn-workshop)
 
 ### Compiler
 
@@ -113,6 +114,7 @@
 - [updns is a simple DNS proxy server](https://github.com/wyhaya/updns)
 - https://github.com/dtolnay/case-studies
 - http://cliffle.com/p/dangerust
+- https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust
 
 ### Parser
 
@@ -150,6 +152,7 @@
 
 - https://hermanradtke.com/how-to-mock-functions-that-have-external-http-requests
 - https://github.com/mriehl/rust-tdd-katas
+- [A test-driven workshop to learn Rust building your own JIRA clone](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)
 
 ### Radio
 

@@ -157,6 +157,7 @@ javascript: (() =>
 - [Bun? Deno? Node.js? Creating your own JavaScript Runtime using V8, Libuv and more](https://github.com/ErickWendel/myownnode)
 - https://github.com/eatonphil/one-pass-code-generation-in-v8
 - https://github.com/wdv4758h/awesome-jit
+- https://github.com/mgaudet/SpiderMonkeyBibliography
 
 ### Exploit
 

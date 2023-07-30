@@ -628,6 +628,7 @@
 - [module to retrieve organic search results and much more from Google](https://github.com/LuanRT/google-this)
 - https://gitlab.com/ibrahim/brainyquote-scraper
 - [GoodReads API](https://github.com/phanan/phanan.net/blob/master/.functions/now-reading.js)
+- [Scrapes your GMail and Google Calendar data and returns it as a CSV for further analysis](https://github.com/benbalter/gmail-and-google-calendar-stats)
 
 ### Micro service
 

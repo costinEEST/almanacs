@@ -508,6 +508,7 @@
 - https://zerodayhacker.com/getting-started-with-regex
 - [Empty character class in JavaScript RegExp](https://www.abareplace.com/blog/emptybrackets)
 - https://regexgpt.app
+- https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers
 
 ### Practice
 

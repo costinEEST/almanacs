@@ -83,3 +83,4 @@
 - [Brendan Enrick](https://m.youtube.com/c/DevChatter/playlists) + https://www.pluralsight.com/courses/pair-programming
 - https://m.youtube.com/@GregorBiswanger/playlists
 - https://www.freecodecamp.org/news/learn-advanced-c-concepts
+- https://youtu.be/u_Y2eEEdMww + https://github.com/Priyanshu-CODERX/learn-augmented-reality-by-developing-practical-applications + https://app.gumroad.com/d/2dc4c223cc686987509a81cde1a279fb

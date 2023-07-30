@@ -6,7 +6,11 @@
 - [Template for startups, marketing websites & landing pages built with Astro, TailwindCSS & Alpine.js](https://github.com/surjithctly/astroship)
 - https://github.com/delucis/astro-netlify-cms
 
-### Cinema
+# Cheat sheet
+
+- https://zellwk.com/blog/overcoming-astro-styling-frustrations
+
+### Watch
 
 - https://m.youtube.com/@one-aalam/playlists
 
@@ -16,6 +20,8 @@
 - [A collection of modern, server-safe React hooks](https://github.com/uidotdev/usehooks) + https://twitter.com/tylermcginnis/status/1663630559921451008
 - https://github.com/humanwhocodes/humanwhocodes.com
 - https://github.com/lindsaykwardell/lindsaykwardell
+- https://github.com/pilcrowonpaper/pilcrow
+- https://github.com/graphme-app/website
 
 ### Opinion
 

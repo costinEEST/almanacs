@@ -111,6 +111,10 @@
 - [JavaScript code of many commercial bot detectors/fingerprinting services and string deobfuscators for them if applicable](https://github.com/chris124567/commercial-bot-detectors)
 - [Resources around owning your data 100%](https://github.com/0dataapp/awesome-0data)
 
+# Regulation
+
+- https://pilcrow.vercel.app/blog/gdpr-compliant-analytics
+
 ### Techniques
 
 - https://github.com/nicksp/til/blob/master/random/01-password-manager.md
