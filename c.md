@@ -72,6 +72,7 @@
 - https://github.com/snowcra5h/c-systems-programming
 - https://github.com/pniewiejski/learn-io-polling
 - http://pacman128.github.io/internal/common_c_errors
+- https://mcuoneclipse.com/2023/07/22/gnu-linker-wizardry-wrapping-printf-with-timestamps
 
 ### Watch
 

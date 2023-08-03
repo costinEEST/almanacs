@@ -9,6 +9,7 @@
 - [Game Programming Patterns](https://github.com/Habrador/Unity-Programming-Patterns)
 - https://leanpub.com/csharp-for-babies
 - [How to Think Like a Computer Scientist: Python-3 and C# versions](https://github.com/cspwcspw/books)
+- [The C# Type System | Steve Love](https://nostarch.com/c-type-system)
 
 ### Cheat sheet
 
