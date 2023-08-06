@@ -411,6 +411,7 @@
 - Forever Living: https://us11.campaign-archive.com/home/?u=148222cedc650a178c5d28741&id=aeb3a74051, https://us11.campaign-archive.com/home/?u=148222cedc650a178c5d28741&id=2b75370977
 - [Jones Wellness (Cancer/evolution)](https://us7.campaign-archive.com/home/?u=75ac079dc580d32a5726e1c26&id=cbf7c437ec)
 - [Yoga Studies Institute](https://us8.campaign-archive.com/home/?u=e1ee0b874d5f3352ff94f6312&id=47d0dece18)
+- [Nina Teicholz](https://unsettledscience.substack.com/archive)
 
 # NodeJS
 
@@ -425,8 +426,6 @@
 # Psychology
 
 - [Radu Umbreș](https://iscoada.substack.com/archive)
-
-
 
 # Security
 

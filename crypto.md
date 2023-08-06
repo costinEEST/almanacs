@@ -18,6 +18,7 @@
 - [Cryptography Fundamentals: Elliptic Curve Cryptography](https://twitter.com/SalomonCrypto/status/1580677281474699264)
 - https://github.com/cfrg/draft-irtf-cfrg-hash-to-curve
 - https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html
+- https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md + [Cryptographically Signed Firmware](https://youtu.be/Veu_fDPecM8)
 
 ### Best practices
 

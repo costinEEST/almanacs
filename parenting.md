@@ -27,3 +27,7 @@
 - [Emile, or On Education | Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Emile,_or_On_Education)
 - https://www.bl.uk/collection-items/some-thoughts-concerning-education-by-john-locke
 - https://www.amazon.com/Mediocrity-Government-Schools-Failing-Students/dp/B0BSZBSP8Q + https://saifedean.com/podcast/77-fiat-education-with-daniel-prince + https://saifedean.com/podcast/76-homeschooling-with-daniel-prince + https://saifedean.com/podcast/175-school-choice-with-corey-deangelis
+
+# Opinion
+
+- https://www.joshwaitzkin.com/for-parents

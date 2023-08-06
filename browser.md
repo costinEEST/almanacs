@@ -485,6 +485,7 @@ javascript: (() =>
 - [Discover new target domains using Content Security Policy](https://github.com/edoardottt/csprecon)
 - https://github.com/naugtur/CSP-exercise
 - [Monorepo for CSP-related packages](https://github.com/frux/csp)
+- [XSS with CSP bypass leads to diagrams backdoor in jgraph/drawio](https://archive.li/XSvGv) + https://huntr.dev/bounties/4c1c5db5-210f-4d7e-8380-b95f88fdb78d
 
 ### Cross-origin resource sharing (CORS)
 

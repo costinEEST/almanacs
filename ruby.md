@@ -577,6 +577,7 @@
 - https://positive.security/blog/ransack-data-exfiltration
 - [How to create small, unique tokens in Ruby](https://gist.github.com/mbajur/2aba832a6df3fc31fe7a82d3109cb626)
 - https://andycroll.com/ruby/beware-of-raw-erb
+- https://medium.com/@plenumlab/identifying-and-exploiting-unsafe-deserialization-in-ruby-97c7cbd6c05d
 
 ### Server
 
