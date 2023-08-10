@@ -13,6 +13,7 @@
 
 # .epub
 
+- [A lightweight, responsive web e-book template](https://github.com/robinsloan/perfect-edition)
 - https://alexwlchan.net/2019/08/removing-the-drm-from-my-kindle-books
 - https://www.microsoftpressstore.com/promotions/product-announcement-retirement-of-amazon-mobi-ebook-142421
 - https://github.com/Metalnem/hkpropel-downloader
@@ -48,6 +49,8 @@
 - [utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, and dictionary attacks against targets](https://github.com/RoseSecurity/ScrapPY)
 - https://github.com/zbetcheckin/PDF_analysis
 - [Make your PDFs look scanned](https://github.com/rwv/lookscanned.io)
+- https://blog.dend.ro/recovering-information-pdf-map
+- https://nora.codes/post/pdf-embedding-attacks
 
 # .png
 

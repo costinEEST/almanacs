@@ -151,6 +151,7 @@
 - https://medium.com/pinterest-engineering/employee-facing-mutual-tls-8643fe0cc0f9
 - [A proof-of-concept TypeScript TLS 1.3 client](https://github.com/jawj/subtls) + https://hackaday.com/2023/05/21/watch-a-web-page-fetch-itself-over-tls-complete-with-commentary + https://tls13.xargs.org
 - [The Illustrated QUIC Connection](https://github.com/syncsynchalt/illustrated-quic)
+- [TLS Workshop Playground](https://gist.github.com/mcastorina/8b2e48945192a53ae28fca3825d14d42)
 
 ### Cheat sheet
 

@@ -44,7 +44,7 @@
 - https://www.mux.com/blog/the-building-blocks-of-great-docs
 - https://github.com/brycejohnston/awesome-agriculture
 - https://github.com/korfuri/awesome-monorepo
-- https://github.com/open-source-ideas/ideas
+- [Looking for inspiration for your next open source project?](https://github.com/open-source-ideas/ideas)
 - [by ex-googlers, for ex-googlers - a lookup table of similar tech & services](https://github.com/jhuangtw/xg2xg)
 - [Daniel Roesler](https://daylightpirates.org)
 - https://github.com/stars/antonreshetov/lists/oss-alternatives
@@ -85,6 +85,6 @@
 
 - https://github.com/stars/kelset/lists/monorepo-related
 
-### Radio 
+### Radio
 
 - https://github.com/fossified/podcast

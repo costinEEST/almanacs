@@ -175,6 +175,7 @@ javascript: (() =>
 - https://github.com/StarCrossPortal/bug-hunting-101
 - https://github.com/nccgroup/exploit_mitigations
 - https://github.com/cezary-sec/awesome-browser-security + https://m.youtube.com/playlist?list=PLuHcjpINS_OJntoGxRu0FEju5ak0yE_46
+- [Practical Exploitation of Math.random on V8](https://github.com/d0nutptr/v8_rand_buster)
 
 ### Extension
 
@@ -350,6 +351,8 @@ javascript: (() =>
 - https://github.com/lapcat/SafariExtensions
 - Ensure paste isn’t blocked on any textbox: https://github.com/jswanner/DontF-WithPaste, https://underpassapp.com/StopTheMadness
 - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
+- [Changes your User-Agent header to throw off tracking](https://github.com/NoraCodes/randomua)
+- [A browser extension that redirects popular sites to alternative privacy friendly frontends](https://github.com/libredirect/browser_extension)
 
 ### Chrome
 
