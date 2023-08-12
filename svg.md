@@ -7,6 +7,7 @@
 
 - https://www.stefanjudis.com/today-i-learned/svgs-filters-can-be-inlined-in-css
 - [Polygon shapes](https://twitter.com/yuanchuan23/status/1576850659256590336)
+- [Using HTML elements as CSS masks](https://expensive.toys/blog/black-pixel-masking)
 
 # Community
 

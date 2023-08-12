@@ -415,6 +415,7 @@
 # NodeJS
 
 - [Yoni Goldberg](https://us3.campaign-archive.com/home/?u=e478992556fad865a0bc699fd&id=50c6974846)
+- [FullStack Bulletin | Luciano Mammino, Andrea Mangano](https://us15.campaign-archive.com/home/?u=b015626aa6028495fe77c75ea&id=55ace33899)
 
 # Privacy
 
