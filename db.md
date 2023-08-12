@@ -10,7 +10,7 @@
 - https://www.neilwithdata.com/advanced-sql
 - https://github.com/bevacqua/reads#databasessearch
 - [CRDTs will bring us the reallyinteresting next web](https://twitter.com/ae_play/status/1467563638542192653)
-- https://driftingin.space/posts/you-might-not-need-a-crdt
+- https://driftingin.space/posts/you-might-not-need-a-crdt + https://github.com/jorendorff/talks/blob/master/textarea-distributed/textarea-distributed.md
 - https://github.com/localfirstweb/localfirstweb.dev
 - https://madebyevan.com/algos
 - [Streaming Systems. The What, Where, When, and How of Large-Scale Data Processing by Tyler Akidau, Slava Chernyak, and Reuven Lax](http://streamingsystems.net)

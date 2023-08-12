@@ -72,6 +72,7 @@
 - https://github.com/snowcra5h/c-systems-programming
 - https://github.com/pniewiejski/learn-io-polling
 - http://pacman128.github.io/internal/common_c_errors
+- https://mcuoneclipse.com/2023/07/22/gnu-linker-wizardry-wrapping-printf-with-timestamps
 
 ### Watch
 
@@ -139,6 +140,7 @@
 
 - https://hackaday.com/2023/02/10/modernizing-c-arrays-for-greater-memory-safety
 - https://blog.joren.ga/less-known-c
+- https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops
 
 ### Virtual machines
 
@@ -162,6 +164,7 @@
 - https://gankra.github.io/blah/c-isnt-a-language
 - [Teaching C](https://blog.regehr.org/archives/1393)
 - https://blog.joren.ga/best-of-c
+- https://steveklabnik.com/writing/c-is-how-the-computer-works-is-a-dangerous-mindset-for-c-programmers
 
 ### Practice
 
@@ -193,6 +196,7 @@
 - https://hackaday.com/2023/05/11/linux-fu-c-on-jupyter
 - [A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs](https://github.com/GaloisInc/MATE)
 - [A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
+- https://www.andreinc.net/2022/04/10/a-blog-that-is-a-single-executable-binary
 
 ### Testing
 

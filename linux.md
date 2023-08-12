@@ -122,6 +122,7 @@
 - [hook to the NetFilters and manipulates the packets going via the network interfaces](https://github.com/eliranmaman/Basic-FireWall)
 - [The System Call Advent Calendar](https://osg.tuhh.de/Advent)
 - https://www.cyberdemon.org/2023/06/27/file-writes.html
+- https://www.usenix.org/publications/loginonline/transcending-posix-end-era
 
 ### NixOS
 
@@ -149,6 +150,7 @@
 - [Linux privilege escalation auditing tool](https://github.com/The-Z-Labs/linux-exploit-suggester)
 - https://github.com/lakinduakash/linux-wifi-hotspot
 - [GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems](https://github.com/GTFOBins/GTFOBins.github.io)
+- [Test drive Linux distros online](https://distrosea.com)
 
 ### Embedded
 

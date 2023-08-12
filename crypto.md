@@ -18,6 +18,7 @@
 - [Cryptography Fundamentals: Elliptic Curve Cryptography](https://twitter.com/SalomonCrypto/status/1580677281474699264)
 - https://github.com/cfrg/draft-irtf-cfrg-hash-to-curve
 - https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html
+- https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md + [Cryptographically Signed Firmware](https://youtu.be/Veu_fDPecM8)
 
 ### Best practices
 
@@ -57,14 +58,18 @@
 - https://github.com/cpeikert/TheoryOfCryptography
 - https://www.udemy.com/course/securite-cryptographie-concepts-avances-pki
 - https://github.com/adimanea/criptografie-upb
+- https://saweis.net/crypto.html
+- https://soc1024.ece.illinois.edu/#teaching
 
-### Cinema
+### Watch
 
 - [Theory and Practice of Cryptography](https://m.youtube.com/playlist?list=PL10875C2002F7E6F6)
 - [ Introduction to Cryptography by Christof Paar](https://m.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 - [Workshop on Elliptic Curve Cryptography ECC 2020](https://eccworkshop.org/2020)
 - [Mentoring Workshop and Videos@Crypto 2021](https://m.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2)
 - [Anastasiia Vixentael](https://m.youtube.com/channel/UCJrzE_cMD8whn6qDO9R8WoA/playlists)
+- [Real World Cryptography conference in 2023](https://rwc.iacr.org/2023/program.php) + https://www.youtube.com/playlist?list=PLeeS-3Ml-rpo-pbh8LIhb8VscM_q5OaSE
+- https://github.com/sweis/moderncrypto
 
 ### Certificates
 
@@ -107,6 +112,7 @@
 - https://github.com/EdOverflow/cryptojourney-content
 - https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords
 - https://www.nytimes.com/2012/11/24/world/europe/code-found-on-pigeon-baffles-british-cryptographers.html
+- https://github.com/sweis/deprecated-crypto-might-not-suck
 
 ### Standard
 
@@ -150,6 +156,7 @@
 - https://medium.com/pinterest-engineering/employee-facing-mutual-tls-8643fe0cc0f9
 - [A proof-of-concept TypeScript TLS 1.3 client](https://github.com/jawj/subtls) + https://hackaday.com/2023/05/21/watch-a-web-page-fetch-itself-over-tls-complete-with-commentary + https://tls13.xargs.org
 - [The Illustrated QUIC Connection](https://github.com/syncsynchalt/illustrated-quic)
+- [TLS Workshop Playground](https://gist.github.com/mcastorina/8b2e48945192a53ae28fca3825d14d42)
 
 ### Cheat sheet
 

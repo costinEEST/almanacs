@@ -80,6 +80,7 @@
 - [Leveraging Electron Applications For Post-Exploitation | Ruben Boonen (b33f)](https://github.com/FuzzySecurity/WWHF-WayWest-2022) + https://youtu.be/VXb6lwXhCAc
 - https://goose.icu/discord-0click-xss-to-rce
 - https://mizu.re/post/linux-local-electron-application-script-src-self-bypass
+- https://text.tchncs.de/ioi/backdooring-electron-applications
 
 # Tool
 
@@ -102,3 +103,4 @@
 - [Decompiler](https://github.com/electron/asar) + https://youtu.be/jyiFjqNncMc
 - [frameless browser for screenshots](https://github.com/antfu/broz)
 - https://betterprogramming.pub/tauri-vs-electron-for-tray-apps-ed15974f35ce
+- [A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)](https://github.com/mikaelbr/node-notifier)

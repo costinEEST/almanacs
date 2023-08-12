@@ -158,6 +158,7 @@
 - https://www.subbu.org/articles/2021/2021-in-reading
 - https://guzey.com/autistic-leaders
 - [The best leaders are great individual contributors, not professional managers](https://news.ycombinator.com/item?id=33843160)
+- https://www.joshwaitzkin.com/recommended-reading-leadership-culture
 
 ### Strategy
 
@@ -329,6 +330,7 @@
 - https://github.com/joelparkerhenderson/architecture-decision-record
 - https://github.com/yongfook/saas-growth-articles
 - https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines
+- https://www.theverge.com/2023/7/31/23813929/dell-generative-ai-laptops-amazon
 
 ### Opinion
 

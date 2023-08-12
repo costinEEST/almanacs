@@ -64,6 +64,7 @@
 - https://github.com/stars/x-N0/lists/rust
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/pka/awesome-georust
+- https://github.com/brson/my-rust-lists
 
 ### Course
 
@@ -227,6 +228,7 @@
 ### Scrapping
 
 - [Crawls the Fediverse and produces a list of instances that are alive](https://github.com/Minoru/minoru-fediverse-crawler)
+- {Generate RSS feeds from websites}(https://github.com/wezm/rsspls)
 
 ### Watch
 

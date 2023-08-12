@@ -150,7 +150,6 @@
 - https://adambard.com/blog/javascript-design-pattern-binding-functions
 - https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges
 - https://twitter.com/mgechev/status/1340082705086726144
-- https://github.com/mikaelbr/awesome-es2015-proxy
 - https://tobireif.com/posts/observing_changes_using_ES6_proxies
 - [Functional Core, Imperative Shell ~ Lachlan Miller](https://m.youtube.com/playlist?list=PLC2LZCNWKL9a7b7Ufx0ngo9xH_b8j9ZlA)
 - https://github.com/lucamezzalira/awesome-reactive-programming
@@ -158,7 +157,6 @@
 - https://lucasfcosta.com/talks/2019-09-20-A-Fun-Introduction-To-Lambda-Calculus.html + https://twitter.com/prathyvsh/status/1188787773441888257
 - https://github.com/hemanth/functional-programming-jargon
 - https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-- [Proxies are the closest thing JavaScript has to a Macro.](https://twitter.com/rauchg/status/1388231666771001346) + https://github.com/justjavac/proxy-www + https://vimeo.com/364362111 + https://gist.github.com/davidsharp/9184a2e501f5e6704717031bb4951312
 - https://www.better.dev/understanding-memoization-in-javascript
 - https://github.com/rarmatei/egghead-thinking-reactively
 - [What Are Partial Applications? | Jesse Warden](https://m.youtube.com/playlist?list=PLZEZPz6HkCZnsdr7kPQIiN3lCdBBClClI)
@@ -299,6 +297,7 @@
 - [ESM-CJS interop test](https://github.com/sokra/interop-test) + https://sokra.github.io/interop-test
 - https://spidermonkey.dev/blog/2023/03/02/javascript-import-maps-part-2-in-depth-exploration.html
 - [Prototype implementation of ES6 modules](https://github.com/rossberg/js-modules) + https://twitter.com/tomprimozic/status/1433013949998456836 + https://people.mpi-sws.org/~rossberg/f-ing + https://people.mpi-sws.org/~rossberg/1ml + https://twitter.com/tomprimozic/status/1443141996512694274 + https://people.mpi-sws.org/~rossberg/mixml
+- [Pseudo implementation of the proposed ES6 module loaders](https://github.com/jorendorff/js-loaders)
 
 ### lexical scoping
 
@@ -458,6 +457,8 @@
 
 - https://dev.to/clementvidal/use-es6-proxy-for-isolated-context-intercommunication-mc1
 - [Sentinel](https://pvdz.ee/notes/181)
+- https://github.com/mikaelbr/awesome-es2015-proxy
+- [Proxies are the closest thing JavaScript has to a Macro](https://twitter.com/rauchg/status/1388231666771001346) + https://github.com/justjavac/proxy-www + https://vimeo.com/364362111 + https://gist.github.com/davidsharp/9184a2e501f5e6704717031bb4951312
 
 ### Reflect()
 

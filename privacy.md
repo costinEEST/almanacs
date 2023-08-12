@@ -85,7 +85,6 @@
 - [automated censorship evasion for the client-side and server-side](https://github.com/Kkevsterrr/geneva) + https://geneva.cs.umd.edu/posts/server-side
 - [Wheregoes - A tool for tracing the redirect path of URLs](https://wheregoes.com)
 - https://themarkup.org/google-the-giant/2020/11/19/as-antitrust-pressure-mounts-google-to-pull-back-benefit-to-news-sites-that-adopted-its-preferred-mobile-technology + https://twitter.com/themarkup/status/1329409297281781760
-- https://www.haaretz.com/israel-news/tech-news/.premium-israeli-spy-tech-firm-says-it-can-break-into-signal-app-previously-considered-safe-1.9368581
 - https://github.com/Igglybuff/awesome-piracy
 - https://github.com/kiprotect/klaro
 - https://www.haaretz.com/israel-news/tech-news/.premium-israeli-spy-tech-firm-says-it-can-break-into-signal-app-previously-considered-safe-1.9368581 + http://web.archive.org/web/20201210150311/https://www.cellebrite.com/en/blog/cellebrites-new-solution-for-decrypting-the-signal-app + https://cf-media.cellebrite.com/wp-content/uploads/2020/09/ProductOverview_Cellebrite_Physical_Analyzer_A4_web.pdf
@@ -106,10 +105,11 @@
 - https://medium.com/@jeffgould/the-natural-history-of-gmail-data-mining-be115d196b10
 - https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it
 - [Telegram is by default a cloud database w/ a plaintext copy of every msg everyone has ever sent/recvd](https://twitter.com/moxie/status/1497001286444617746)
-- https://github.com/dessalines/essays/blob/master/why_not_signal.md#simplex
+- https://github.com/dessalines/essays/blob/master/why_not_signal.md#simplex + https://github.com/dessalines/essays/issues/143
 - https://tryingtobeawesome.com/signalwire
 - [JavaScript code of many commercial bot detectors/fingerprinting services and string deobfuscators for them if applicable](https://github.com/chris124567/commercial-bot-detectors)
 - [Resources around owning your data 100%](https://github.com/0dataapp/awesome-0data)
+- [The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more](https://github.com/skerkour/bloom-legacy)
 
 # Regulation
 

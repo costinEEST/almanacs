@@ -494,7 +494,6 @@
 - https://maximorlov.com/pm2-to-docker-automatic-restarts
 - https://blog.bitsrc.io/npm-clients-that-are-better-than-the-original-cd54ed0f5fe7
 - https://adambard.com/blog/self-hosted-readability-on-heroku-with-nodejs
-- [A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)](https://github.com/mikaelbr/node-notifier)
 - [Free Modern URL Shortener.](https://github.com/thedevs-network/kutt)
 - [Vantage = CLI + SSH + REPL for your live node app](https://github.com/dthree/vantage)
 - [A simple, distributed task scheduler and runner with a web based UI.](https://github.com/jhuckaby/Cronicle)
@@ -693,6 +692,7 @@
 - https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f + https://twitter.com/ChevonPhillip/status/1656339720425570309
 - https://github.com/RafaelGSS/is-my-node-vulnerable
+- [A collection of modules to secure your express.js application](https://github.com/sebasyii/zeno)
 
 ### CMS
 

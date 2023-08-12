@@ -313,6 +313,7 @@
 - [Module to store messages or files protected with AES-256 encryption inside an image](https://github.com/computationalcore/cryptosteganography)
 - [Proof-of-concept for the feasibility of testing generic real-world REST implementations](https://github.com/RUB-NDS/REST-Attacker)
 - https://github.com/skills/secure-code-game
+- https://slides.com/kevin-mizu/sstic-2023-abusing-client-side-desync-on-werkzeug-cve-2022-29361 + https://mizu.re/post/abusing-client-side-desync-on-werkzeug
 
 ### Server
 

@@ -164,6 +164,7 @@
 - [Code inspector for web vulnerability scan](https://github.com/4ra1n/code-inspector)
 - https://semgrep.dev/blog/2022/xml-security-in-java
 - https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef
+- https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en
 
 ### Microservice
 
