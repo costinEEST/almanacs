@@ -58,14 +58,18 @@
 - https://github.com/cpeikert/TheoryOfCryptography
 - https://www.udemy.com/course/securite-cryptographie-concepts-avances-pki
 - https://github.com/adimanea/criptografie-upb
+- https://saweis.net/crypto.html
+- https://soc1024.ece.illinois.edu/#teaching
 
-### Cinema
+### Watch
 
 - [Theory and Practice of Cryptography](https://m.youtube.com/playlist?list=PL10875C2002F7E6F6)
 - [ Introduction to Cryptography by Christof Paar](https://m.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 - [Workshop on Elliptic Curve Cryptography ECC 2020](https://eccworkshop.org/2020)
 - [Mentoring Workshop and Videos@Crypto 2021](https://m.youtube.com/playlist?list=PLqCT4KpIiKPb70QW8tI4aSuDpuNgyz_A2)
 - [Anastasiia Vixentael](https://m.youtube.com/channel/UCJrzE_cMD8whn6qDO9R8WoA/playlists)
+- [Real World Cryptography conference in 2023](https://rwc.iacr.org/2023/program.php) + https://www.youtube.com/playlist?list=PLeeS-3Ml-rpo-pbh8LIhb8VscM_q5OaSE
+- https://github.com/sweis/moderncrypto
 
 ### Certificates
 
@@ -108,6 +112,7 @@
 - https://github.com/EdOverflow/cryptojourney-content
 - https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords
 - https://www.nytimes.com/2012/11/24/world/europe/code-found-on-pigeon-baffles-british-cryptographers.html
+- https://github.com/sweis/deprecated-crypto-might-not-suck
 
 ### Standard
 

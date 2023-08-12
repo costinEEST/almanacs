@@ -23,6 +23,7 @@
 - https://github.com/pilcrowonpaper/pilcrow
 - https://github.com/graphme-app/website
 - https://github.com/steveklabnik/steveklabnik.com
+- https://github.com/hackclub/putting-the-you-in-cpu
 
 ### Opinion
 

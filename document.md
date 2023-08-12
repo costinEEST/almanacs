@@ -1,3 +1,7 @@
+# .bmp
+
+- [Wasm website to edit `.bmp` files online, using `bmp-rust` library](https://github.com/jetstream0/BMP-Editor)
+
 # .csv
 
 - [Export Okta Users, Groups, etc. to CSV](https://github.com/gabrielsroka/gabrielsroka.github.io)
