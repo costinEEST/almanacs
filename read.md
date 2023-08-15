@@ -34,6 +34,7 @@
 - https://blog.jessfraz.com/post/the-art-of-automation
 - https://kapravelos.com/advice
 - https://psyche.co/guides/how-to-nurture-and-grow-a-personal-library-of-books
+- https://www.freethink.com/culture/neuroscience-speed-reading
 
 ### Tool
 

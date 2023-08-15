@@ -63,6 +63,7 @@
 - https://github.com/jonahsnider/jonahsnider.com
 - [download youtube videos, really easily](https://github.com/jonahsnider/maroon)
 - https://github.com/mattcarrollcode/mattcarrollcode.com
+- [Educating the public about neurodiversity](https://github.com/alvarlagerlof/neurodiversity)
 
 ### Deploy
 

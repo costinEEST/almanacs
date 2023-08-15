@@ -1,4 +1,4 @@
-# Album 
+# Album
 
 - https://brucelawson.co.uk/2023/indisputably-correct-10-best-albums-ever
 
@@ -171,6 +171,7 @@
 - https://tedium.co/2022/11/09/the-death-of-the-key-change
 - https://pitchfork.com/features/lists-and-guides/best-albums-2022
 - https://tedium.co/2023/02/04/why-do-modern-pop-songs-have-so-many-credited-writers
+- https://www.givetastic.com/content/blog/the-most-popular-and-emotional-wedding-songs-of-all-time#section_slice$0580ad5a-c62a-47d1-9b85-46faaec0e28a
 
 # Violin
 

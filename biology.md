@@ -97,6 +97,7 @@
 - https://www.hhmi.org/news/complete-human-genome-deciphered-first-time
 - https://davidson.weizmann.ac.il/en/online/sciencenews/2022-nobel-prize-physiology-or-medicine-genetics-human-evolution
 - https://www.smithsonianmag.com/science-nature/how-should-scientists-navigate-the-ethics-of-ancient-human-dna-research-180981489
+- https://www.freethink.com/health/crispr-alzheimers
 
 ### Miscellaneous
 

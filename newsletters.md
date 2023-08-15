@@ -281,6 +281,7 @@
 - https://garyhustwit.substack.com/archive
 - [Sunni Brown](https://nothingintheway.substack.com/archive)
 - [Gary Hustwit](https://garyhustwit.substack.com/archive)
+- [aleksliving](https://twid.fyi/archive)
 
 # Data visualization
 
