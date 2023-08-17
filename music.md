@@ -14,6 +14,7 @@
 - https://www.rollingstone.com/music/music-news/coolio-dead-obit-1234602038
 - https://www.theguardian.com/music/2022/sep/24/jazz-legend-pharoah-sanders-dead-at-81
 - [Maxwell Fraser](https://www.bbc.com/news/entertainment-arts-64087315)
+- https://faroutmagazine.co.uk/10-women-who-made-music-history
 
 # Book
 
@@ -71,6 +72,7 @@
 - [Listening to Music with Craig Wright | YaleCourses](https://m.youtube.com/playlist?list=PLh9mgdi4rNezhx8YiGIV8I22ICSuzslja)
 - https://www.musanim.com/watch_mam.html
 - https://github.com/smenjas/educational-content#music
+- https://projects.apnews.com/features/2023/hip-hop-50th-history/index.html
 
 # Course
 

@@ -181,6 +181,7 @@
 ### Planet
 
 - https://www.nbcnews.com/science/space/jupiter-12-new-moons-rcna69131
+- https://www.quantamagazine.org/exoplanets-could-help-us-learn-how-planets-make-magnetism-20230807
 
 ### Star
 

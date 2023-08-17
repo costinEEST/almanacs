@@ -25,6 +25,7 @@
 - https://alchemist.camp/start
 - https://cri.dev/posts/2021-03-03-learn-elixir-study-path
 - https://github.com/lucasvegi/Elixir-Code-Smells
+- https://joyyo.app/elixir-for-humans-who-know-python
 
 # Testing
 
