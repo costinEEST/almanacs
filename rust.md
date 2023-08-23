@@ -45,6 +45,7 @@
 ### Bot
 
 - [discord-to-trello bot](https://bitbucket.org/delan/dis2ello)
+- [Rust bot that runs periodically on AWS Lambda and retweets any Tweets matching a query](https://github.com/multimeric/RustLangRetweet)
 
 ### Community
 
@@ -65,6 +66,10 @@
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/pka/awesome-georust
 - https://github.com/brson/my-rust-lists
+- [A publication dedicated to the Rust programming language](https://github.com/RustMagazine/rustmagazine)
+- [Understanding and Evolving the Rust Programming Language](https://www.ralfj.de/blog/2020/09/03/phd.html)
+- [Stay up to date with events, learning resources, and recent developments in the Rust community](https://github.com/rust-lang/this-week-in-rust)
+- https://twitter.com/i/communities/1690081308238561437
 
 ### Course
 
@@ -148,6 +153,7 @@
 - https://wes.today/building-an-os
 - https://github.com/KodrAus/rust-web-app
 - https://github.com/sunface/rust-by-practice
+- https://github.com/kiyov09/advent_of_code_2022
 
 ### Testing
 
@@ -183,6 +189,8 @@
 - [A command-line DNS client](https://github.com/ogham/dog)
 - https://github.com/sstadick/cargo-bundle-licenses
 - [bridge between GPT-4 and a headless Chromium browser, allowing you to automate actions simply by describing them to the program](https://github.com/m1guelpf/browser-agent)
+- [Find out path at which a deserialization error occurred](https://github.com/dtolnay/path-to-error)
+- [Youtube upload and management tool written in Rust](https://github.com/bedroombuilds/rsytup)
 
 ### Opinion
 
@@ -220,6 +228,7 @@
 - https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust
 - https://tryingtobeawesome.com/rust
 - [Why I use Rust even if I could use a GC'd language](https://dev.l1x.be/posts/2023/02/22/beyond-the-borrow-checker/#why-on-earth-would-anybody-use-rust-for-etl)
+- https://www.ralfj.de/blog/2021/03/23/safe-systems-programming-in-rust.html
 
 ### Security
 

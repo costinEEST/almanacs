@@ -164,6 +164,7 @@
 - https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai
 - https://chrismessina.substack.com/p/just-setting-up-my-substack-notes
 - https://www.platformer.news/p/how-two-insurgents-are-taking-on
+- https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule
 
 # Herodotus
 

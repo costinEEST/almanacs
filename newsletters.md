@@ -497,6 +497,13 @@
 - [Awesome Ruby](https://ruby.libhunt.com/newsletter/archive)
 - [Julián Pinzón Eslava](https://dev.julianpinzon.com/newsletter)
 
+# Rust
+
+- [A publication dedicated to the Rust programming language](https://rustmagazine.org/feed.xml)
+- [Stay up to date with events, learning resources, and recent developments in the Rust community](https://this-week-in-rust.org/atom.xml)
+- https://rust.libhunt.com/newsletter/archive
+- [This Month in Rust GameDev](https://gamedev.rs/rss.xml)
+
 # Politics
 
 - [A newsletter by Bill Bishop, an expert on Chinese politics](https://sinocism.com/archive) + https://twitter.com/niubi

@@ -3,8 +3,7 @@
 - https://www.udemy.com/course/hybrid-and-electric-vehicle-for-beginners-full-course-2021
 - [Educație | Masina Potrivita](https://m.youtube.com/playlist?list=PL8S56XToMXhlWHL2tw_Kup2oHncbEs2tn)
 
-
-### Community 
+### Community
 
 - [Vânzari Auto / Schimburi - Car Dealer](https://www.facebook.com/groups/bucuresti.giurgiu)
 - [VÂNZARI MAŞINI PARIS](https://www.facebook.com/groups/731313373607149)
@@ -27,7 +26,6 @@
 - https://www.autocritica.ro/feature/primul-porsche
 - https://www.roadandtrack.com/car-culture/a38424876/time-traveler-who-hunted-speed-records-in-an-ev
 
-
 ### Miscellaneous
 
 - [A big library of civilian cars you can fork or download for your server](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack)
@@ -38,4 +36,4 @@
 - https://honda.asko.ro/blog/profesiile-conduc-it-honda
 - https://www.forbes.com/sites/jamesmorris/2022/02/26/kia-ev6-2022-uk-review-the-best-electric-vehicle-ever + https://thedriven.io/2022/02/25/kia-ev6-first-drive-electric-suv-with-superb-handling-and-it-can-power-your-home
 - https://programmingwithstyle.com/posts/howihackedmycar
-
+- https://github.com/vorner/vorner.github.io/blob/master/index.md#evs

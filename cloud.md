@@ -66,6 +66,7 @@
 - https://github.com/nsriram/lambda-the-terraform-way
 - https://includejs.dev/notes/how-to-prepare-for-aws-solutions-architect-associate-certificate
 - https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html
+- https://github.com/peorth80/aws-solutions-architect-associate-notes-SAAC03
 
 ### Azure
 

@@ -136,6 +136,8 @@
 - [LLVM Tutorial Walkthrough | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg)
 - https://github.com/ahr9n/awesome-reading/tree/main/dragon-book
 - https://www.amazon.com/Techniques-Practices-Clang-Middle-End-Libraries/dp/1838824952
+- [Low-Level Software Security for Compiler Developers](https://github.com/llsoftsec/llsoftsecbook)
+- https://github.com/geoffviola/undefined_behavior_study
 
 ### Internals
 

@@ -1,8 +1,9 @@
-### Algorithm
+# Algorithm
 
 - [Go Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/goDataStructures)
+- https://github.com/ayman-elmalah/datastructure-algorithms-golang
 
-### API
+# API
 
 - https://github.com/bxcodec/go-clean-arch
 - https://github.com/evrone/go-clean-template
@@ -10,7 +11,7 @@
 - https://github.com/speakeasy-api/rest-template-go
 - [book management application](https://github.com/andrewzulaybar/books)
 
-### Book
+# Book
 
 - https://github.com/mmcgrana/gobyexample
 - https://github.com/dreddsa5dies/automateGo
@@ -34,12 +35,40 @@
 - https://github.com/Apress/Kubernetes-Programming-with-Go-by-Philippe-Martin
 - https://www.manning.com/books/implementing-and-exploiting-cryptography
 
-### Boots
+# Boot
 
 - https://smarx.com/posts/2020/09/shove-it-up-your-bot-an-intro-to-slack-bots + https://github.com/smarx/shoveitupyourbot
-- [A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.](https://github.com/thrasher-corp/gocryptotrader)
+- [A cryptocurrency trading bot and framework supporting multiple exchanges](https://github.com/thrasher-corp/gocryptotrader)
+- [Bot generator that post content from different providers to one or multiple publishers](https://github.com/ezeoleaf/larry)
 
-### Course
+# Cheat sheet
+
+- [Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place.](https://github.com/hoanhan101/ultimate-go)
+- [The ecosystem of the Go programming language](https://henvic.dev/posts/go)
+- https://github.com/jbranchaud/til/blob/master/go/access-go-docs-offline.md
+- https://github.com/pebbe/HowToGo
+- https://github.com/l-lin/architecture-cheat-sheet
+- https://github.com/enocom/gopher-reading-list
+- https://github.com/parsiya/Go-Security
+- https://github.com/parsiya/Hacking-with-Go
+- https://github.com/dreddsa5dies/algorithm
+- https://github.com/SerifAndSemaphore/go-serverless-list
+- https://github.com/system-pclub/go-concurrency-bugs
+- https://github.com/juanpablopizarro/golang-bootcamp
+- https://github.com/monochromegane/go_design_pattern
+- [Handy commands to run in Go projects](https://github.com/nikolaydubina/go-recipes)
+- [How to use Go to build shared libraries](https://github.com/jbuberel/buildmodeshared)
+- https://github.com/DmitryTsepelev/advent_of_code_2021
+- https://github.com/luk4z7/go-concurrency-guide
+- https://github.com/rwxrob/awesome-go
+- https://github.com/nurcahyaari/golang-starter
+- https://github.com/Alikhll/golang-developer-roadmap
+- https://evertpot.com/go-for-php-programmers
+- https://github.com/ezeoleaf/awesome-golang-repositories
+- https://github.com/TannerGabriel/learning-go
+- https://github.com/Go-Learning-Land/Go-Learning-Archive
+
+# Course
 
 - Write web applications in Go without using a framework: [book](https://leanpub.com/antitextbookGo) + (recordings)[https://m.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4]
 - [1000+ Hand-Crafted Go Examples, Exercises, and Quizzes](https://github.com/inancgumus/learngo)
@@ -54,23 +83,23 @@
 - https://github.com/jub0bs/go-course-advanced
 - https://github.com/bootdotdev/curriculum
 
-### Community
+# Community
 
 - https://twitter.com/notshenetworks/status/1605218422430007296
 - https://t.me/HowToGoWrong
 - https://twitter.com/i/communities/1493637136502960134
 - https://www.twilio.com/blog/2016/02/how-alan-shreve-built-ngrok-with-go.html
 
-### Compiler
+# Compiler
 
 - https://github.com/KpLi0rn/LearnCompiler/tree/main/GoCompiler
 
-### Data structures
+# Data structures
 
 - https://github.com/TheAlgorithms/Go
 - https://github.com/Alevsk/itc-coding-questions
 
-### Development
+# Development
 
 - https://jagascript.com/how-i-start-new-go-projects-in-10-seconds
 - https://github.com/miguelmota/golang-for-nodejs-developers
@@ -97,25 +126,25 @@
 - [For book summaries](https://github.com/ejamesc/grepbook)
 - [Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
 
-### Distributed systems
+# Distributed systems
 
 - https://newsletter.goodtechthings.com/p/calm-down-about-service-weaver
 
-### Interpreter
+# Interpreter
 
 - https://github.com/amirgamil/lispy
 
-### Practice
+# Practice
 
 - https://github.com/danvk/aoc2021 + https://effectivetypescript.com/2022/02/06/advent-of-code-2021-golang
 
-### Testing
+# Testing
 
 - https://github.com/quii/learn-go-with-tests
 - https://github.com/cdarwin/go-koans
 - https://bitfieldconsulting.com/golang/bugs-fuzzing
 
-### Tool
+# Tool
 
 - [Repo of useful scripts](https://github.com/lc/hacks)
 - https://github.com/Pisush/chatGPT-plugin-template
@@ -171,37 +200,15 @@
 - [Generate invoices from the command line](https://github.com/maaslalani/invoice)
 - [A reverse proxy that exposes services on your tailnet (as their own tailscale participants)](https://github.com/antifuchs/tsnsrv)
 - [Connect your HTTP servers to Tailscale](https://github.com/j-f1/tailproxy)
+- [Azure DevOps command line tool](https://github.com/tmeckel/azdo-cli)
+- [App for your terminal that allows you to read, follow and save posts from development blogs from lots of companies](https://github.com/ezeoleaf/tblogs)
 
-### Radio
+# Radio
 
 - [Go on hardware: TinyGo in the wild](https://twitter.com/GoTimeFM/status/1443592475990388738)
 - https://anchor.fm/hacker-talk/episodes/Golang-Malware-with-Ben-Kurtz-Part-1-e1fqg5b
 
-### Cheat sheet
-
-- [Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place.](https://github.com/hoanhan101/ultimate-go)
-- [The ecosystem of the Go programming language](https://henvic.dev/posts/go)
-- https://github.com/jbranchaud/til/blob/master/go/access-go-docs-offline.md
-- https://github.com/pebbe/HowToGo
-- https://github.com/l-lin/architecture-cheat-sheet
-- https://github.com/enocom/gopher-reading-list
-- https://github.com/parsiya/Go-Security
-- https://github.com/parsiya/Hacking-with-Go
-- https://github.com/dreddsa5dies/algorithm
-- https://github.com/SerifAndSemaphore/go-serverless-list
-- https://github.com/system-pclub/go-concurrency-bugs
-- https://github.com/juanpablopizarro/golang-bootcamp
-- https://github.com/monochromegane/go_design_pattern
-- [Handy commands to run in Go projects](https://github.com/nikolaydubina/go-recipes)
-- [How to use Go to build shared libraries](https://github.com/jbuberel/buildmodeshared)
-- https://github.com/DmitryTsepelev/advent_of_code_2021
-- https://github.com/luk4z7/go-concurrency-guide
-- https://github.com/rwxrob/awesome-go
-- https://github.com/nurcahyaari/golang-starter
-- https://github.com/Alikhll/golang-developer-roadmap
-- https://evertpot.com/go-for-php-programmers
-
-### Opinion
+# Opinion
 
 - https://github.com/ksimka/go-is-not-good
 - [Go's Tooling is an Undervalued Technology](https://nullprogram.com/blog/2020/01/21)
@@ -219,15 +226,15 @@
 - https://kdy1.dev/posts/2022/1/tsc-go + https://twitter.com/kdy1dev/status/1486017661267955713
 - [Sustainability with Rust](https://twitter.com/_rsc/status/1496352325157457922)
 
-### Server
+# Server
 
 - [Go local docs server, a Go docs generator, and a Go code reader](https://github.com/go101/golds)
 
-### Scrapping
+# Scrapping
 
 - [View hidden information in airline reservations](https://github.com/iangcarroll/pnrsh)
 
-### Security
+# Security
 
 - https://github.com/trailofbits/not-going-anywhere
 - https://github.com/lojikil/kyoto-go-nihilism
@@ -235,7 +242,7 @@
 - [Golang security checker](https://github.com/securego/gosec)
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win
 
-### Static website
+# Static website
 
 - https://github.com/dstotijn/golang-nextjs-portable
 - [A static site generator for capturing quick notes](https://github.com/senorprogrammer/til)
@@ -243,7 +250,7 @@
 - https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go
 - [A Go-based static site generator that compiles brandur.org](https://github.com/brandur/sorg)
 
-### Watch
+# Watch
 
 - [justforfunc: Programming in Go](https://m.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw/playlists)
 - [Code Club | Bitfield Consulting](https://m.youtube.com/playlist?list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3)

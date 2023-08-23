@@ -317,6 +317,7 @@
 - https://github.com/filedescriptor/Unicode-Mapping-on-Domain-names
 - https://github.com/javierbyte/emoji-to-scale
 - https://sethmlarson.dev/blog/utf-8
+- [The WTF-8 encoding specification](https://github.com/SimonSapin/wtf-8)
 - http://www.irongeek.com/homoglyph-attack-generator.php
 - https://util.unicode.org/UnicodeJsps/confusables.jsp
 - https://unicode.org/emoji/charts/emoji-zwj-sequences.html

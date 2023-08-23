@@ -39,6 +39,10 @@
 - https://github.com/AlisdairO/pgexercises
 - https://www.freecodecamp.org/news/build-a-crm
 
+# Cheat sheet
+
+- https://note.xuanwo.io/#/page/database
+
 ### Community
 
 - https://github.com/stars/timqian/lists/decentralized-database
