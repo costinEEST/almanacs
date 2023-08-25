@@ -64,12 +64,17 @@
 - [download youtube videos, really easily](https://github.com/jonahsnider/maroon)
 - https://github.com/mattcarrollcode/mattcarrollcode.com
 - [Educating the public about neurodiversity](https://github.com/alvarlagerlof/neurodiversity)
+- [Next.js, Prisma, Tailwind, Framer Motion, and Playwright](https://github.com/ElanMedoff/personal-site) + https://elanmed.dev/blog/how-i-built-my-blog
 
 ### Deploy
 
 - [Next.js SPA example with dynamic client-only routing and static hosting](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
 - https://whiskeywebandwhatnot.fm/nextjs-vercel-and-subscription-models
 - [Deploy a Next.js app to Github Pages via Github Actions](https://github.com/gregrickaby/nextjs-github-pages)
+
+# Internals
+
+- [Deep Dive: Caching and Revalidating](https://github.com/vercel/next.js/discussions/54075)
 
 ### Opinion
 

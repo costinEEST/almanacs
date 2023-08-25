@@ -78,6 +78,7 @@
 - https://reasonio.teachable.com/p/worlds-of-speculative-fiction
 - https://blog.printrecarti.ro/carti-pentru-barbati
 - https://github.com/fogus/thunks/blob/main/studies/cyberpunk.txt
+- https://github.com/sindresorhus/awesome-scifi
 
 ### Review
 

@@ -37,6 +37,7 @@
 - https://github.com/ossf/security-reviews
 - https://nolanlawson.com/2023/01/09/retiring-pinafore
 - https://github.com/acekyd/made-in-nigeria
+- https://github.com/bdougie/awesome-black-developers
 - https://github.com/collections/made-in-brazil
 - https://github.com/chernivtsijs/made-in-ukraine
 - https://github.com/yavorsky/awesome-ukraine

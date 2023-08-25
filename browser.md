@@ -683,6 +683,7 @@ javascript: (() =>
 - [effective ways to improve Core Web Vitals performance in 2023](https://web.dev/top-cwv-2023)
 - [Cumulative Layout Shift Differences](https://www.debugbear.com/blog/cls-lab-field-differences)
 - https://dev.to/noamr/when-a-millisecond-is-not-a-millisecond-3h6
+- https://web.dev/shopping-for-speed-on-ebay
 
 ### Miscellaneous
 

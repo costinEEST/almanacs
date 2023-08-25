@@ -41,6 +41,7 @@
 - [Rust Web Development: With warp, tokio, and reqwest](https://www.amazon.com/Rust-Web-Development-Bastian-Gruber/dp/1617299006)
 - https://github.com/mytechnotalent/Hacking-Rust
 - https://github.com/PedramNavid/rust-for-data
+- [OS kernels](https://github.com/rcore-os/rCore-Tutorial-Book-v3)
 
 ### Bot
 
@@ -191,6 +192,7 @@
 - [bridge between GPT-4 and a headless Chromium browser, allowing you to automate actions simply by describing them to the program](https://github.com/m1guelpf/browser-agent)
 - [Find out path at which a deserialization error occurred](https://github.com/dtolnay/path-to-error)
 - [Youtube upload and management tool written in Rust](https://github.com/bedroombuilds/rsytup)
+- [Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
 
 ### Opinion
 

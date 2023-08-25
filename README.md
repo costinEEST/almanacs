@@ -158,6 +158,7 @@
 - [Visual Studio Code](vsc.md)
 - [VueJS](vue.md)
 - [Web assembly](wasm.md)
+- [Web components](wc.md)
 - [Web browser](browser.md)
 - [Webflow](webflow.md)
 - [Windows OS](win.md)

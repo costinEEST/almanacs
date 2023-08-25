@@ -38,6 +38,7 @@
 - https://kizu.dev/fit-to-width-text
 - https://tetralogical.com/blog/2023/06/08/focus-in-view
 - https://matthiasott.com/notes/custom-properties-beyond-the-root
+- https://www.abeautifulsite.net/posts/better-buttons-with-color-mix-and-custom-properties
 
 ### Book
 
@@ -119,6 +120,7 @@
 - https://keithjgrant.com/posts/2023/04/its-time-to-learn-oklch-color
 - https://backend.picular.co/api/search?query=cyan
 - https://backend.picular.co/api/search?query=%23C7C3C1
+- https://bottosson.github.io/posts/colorwrong
 
 ### Community
 
@@ -206,6 +208,7 @@
 - [clip-path](https://www.sarasoueidan.com/blog/css-svg-clipping)
 - https://una.im/color-mix-opacity
 - https://fullystacked.net/posts/scope-in-css + https://twitter.com/pepelsbey_dev/status/1664767779369541632
+- https://blog.richardekwonye.com/bezier-curves
 
 ### Selector
 
@@ -258,6 +261,7 @@
 - https://utopia.fyi/blog/designing-a-utopian-layout-grid + https://utopia.fyi/grid/calculator
 - https://developer.chrome.com/en/blog/reading-order
 - [discoveries on how the CSS gap property operates when hiding items in grid-template & grid-auto layouts](https://ryanmulligan.dev/blog/grid-gap)
+- [The new CSS `subgrid` value allows a child element to inherit the columns and rows from its parent](https://twitter.com/jh3yy/status/1692262942547345913) + https://codepen.io/jh3y/pen/zYyYGLx
 
 ### FlexBox
 
@@ -320,6 +324,7 @@
 - [Merge Tailwind CSS classes without style conflicts](https://github.com/dcastil/tailwind-merge)
 - https://tailwindcomponents.com/cheatsheet
 - https://flowbite.com/tools/tailwind-cheat-sheet
+- https://github.com/evilmartians/oklch-picker + https://bottosson.github.io/posts/oklab + [Two new color spaces for color picking - Okhsv and Okhsl](https://bottosson.github.io/posts/colorpicker)
 
 ### Security
 

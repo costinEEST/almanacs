@@ -1,0 +1,50 @@
+# Dump
+
+- https://www.abeautifulsite.net/posts/a-web-components-primer
+- https://github.com/web-padawan/webcomponents.today
+- https://github.com/davatron5000/htmlwithsuperpowers
+- [A curated list of awesome framework-agnostic standalone web components](https://github.com/davatron5000/awesome-standalones)
+- https://jeremenichelli.io/2017/10/the-web-components-experience
+- https://css-tricks.com/building-progress-ring-quickly
+- [A recipe for style preprocessors and Shadow DOM](https://github.com/jeremenichelli/movies-web-components)
+- https://briangrinstead.com/blog/firefox-webcomponents
+- https://github.com/shawnbot/custom-elements
+- https://github.com/thepassle/generic-components
+- [React's Hooks API implemented for web components.](https://github.com/matthewp/haunted)
+- https://github.com/paulirish/lite-youtube-embed
+- https://github.com/luwes/lite-vimeo-embed
+- [Design System Stencil Example.](https://github.com/AJONPLLC/ajonp-stencil-example)
+- [A custom element for a menu that scrolls horizontally or vertically.](https://github.com/stevenvachon/scrolling-menu)
+- [Custom elements](https://twitter.com/aerotwist/status/1183432513739513862)
+- https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft + https://twitter.com/erikkroes/status/1237370013566279680
+- https://slideslive.com/38918861/lightning-ui-platform-web-components-and-beyond
+- [WCFactory - Bryan Ollendyke](https://m.youtube.com/playlist?list=PLJQupiji7J5cAv7Jfr1V8FvUTx_jJrmCl)
+- https://github.com/mateusortiz/webcomponents-the-right-way
+- https://blog.bitsrc.io/web-component-why-you-should-stick-to-react-c56d879a30e1
+- https://twitter.com/btopro/status/1224356404380733440
+- https://nolanlawson.com/2021/01/03/options-for-styling-web-components
+- https://academind.com/tutorials/adding-web-components-to-any-app
+- [Vanilla Web Components. A place for framework-free, transpiler-free, scaffolding-free web components.](https://github.com/vanillawc/vanillawc)
+- https://github.com/Apress/frameworkless-front-end-development
+- [A tiny color picker custom element for modern web apps (2.7 KB)](https://github.com/web-padawan/vanilla-colorful)
+- https://github.com/WICG/virtual-scroller
+- https://blog.medblocks.org/2021-03-28-frontend-frameworks-why-you-should-reconsider + https://twitter.com/sidharth_ramesh/status/1376053744886902784
+- https://github.com/runem/web-component-analyzer
+- [Live Coding lit-element, SVG and Web Components with Uri Shaked](https://m.youtube.com/playlist?list=PLLomdjsHtJTzJpHEYhw3Du9kO9mgypE79)
+- [a configuration for webcomponents build for IE11 to Chrome](https://github.com/tiberiucorbu/es5-esnext-webcomponent-project-starter)
+- https://www.ctnicholas.dev/articles/reactive-framework-in-40-lines
+- https://github.com/philhawksworth/html-time
+- [Web component server-side rendering](https://github.com/matthewp/ocean)
+- https://whistlr.info/2021/disposable-web-components
+- https://m.youtube.com/playlist?list=PLNqp92_EXZBJQ3015p9C7hqTDXH_WY57v
+- https://github.com/GoogleChromeLabs/dark-mode-toggle
+- https://github.com/markcellus/youtube-video-js
+- [converts a date time into your user's time zone and formats it locally](https://github.com/philnash/time-formatter)
+- [anyone is using Web Components](https://twitter.com/dannymoerkerke/status/1555682991413907456)
+- [customizable emoji picker](https://github.com/missive/emoji-mart)
+- https://lit.how
+- https://github.com/ja0nz/bachelorarbeit
+- https://www.slideshare.net/bdelacretaz/vanillajs-the-web-platform-a-match-made-in-heaven
+- https://webkit.org/blog/13711/elementinternals-and-form-associated-custom-elements
+- [Triple linked list based DOM-like namespace, for DOM-less environments](https://github.com/WebReflection/linkedom)
+- https://daverupert.com/2023/07/why-not-webcomponents + https://twitter.com/davatron5000/status/1685024659761221633 + https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at

@@ -150,6 +150,7 @@
 - [Community-managed collection of tips and tricks for all stages of the music production process. All chips are labeled by Stage, Genre, Instrument, and Difficulty](https://github.com/pace-of-mind/music-chips.com)
 - [Cubase](https://m.youtube.com/@musictechtuition/playlists?view=1&sort=lad&flow=grid)
 - https://github.com/geokala/music_tutorial
+- [An interactive cycle-of-fourths harmonic visualiser](https://github.com/stephband/harmony-circle)
 
 # Song
 
