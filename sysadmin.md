@@ -119,6 +119,7 @@
 - [options for doing development on Windows](https://blog.ionelmc.ro/2023/01/09/old-fashioned-setup)
 - https://jaked.org/blog/2021-02-18-How-to-run-Electron-on-Linux-on-Docker-on-Mac
 - [A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container](https://github.com/techno-tim/littlelink-server)
+- https://github.com/Haxxnet/Compose-Examples
 
 ### Infrastructure as code (IaC)
 

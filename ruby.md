@@ -374,6 +374,7 @@
 - [The Social Network for eDemocracy](https://github.com/airesis/airesis)
 - https://github.com/hpi-swt2/bookkeeper-portal-red
 - [federated social network built on Ruby on Rails and lots of JS](https://github.com/diaspora/diaspora)
+- [Evernote clone that uses a Rails backend with a React frontend](https://github.com/imahungrypanda/PandaNote)
 
 ### Internals
 

@@ -65,6 +65,7 @@
 - https://github.com/mattcarrollcode/mattcarrollcode.com
 - [Educating the public about neurodiversity](https://github.com/alvarlagerlof/neurodiversity)
 - [Next.js, Prisma, Tailwind, Framer Motion, and Playwright](https://github.com/ElanMedoff/personal-site) + https://elanmed.dev/blog/how-i-built-my-blog
+- https://github.com/nbean452/portfolio
 
 ### Deploy
 

@@ -1,8 +1,8 @@
-### Book
+# Book
 
 - [Idiosyncracies of the HTML parser](https://github.com/zcorpan/html-parser-book)
 
-### Accessibility
+# Accessibility
 
 - https://www.paciellogroup.com/the-history-of-digital-accessibility-and-why-it-matters
 - https://www.nngroup.com/articles/design-pattern-guidelines
@@ -73,29 +73,29 @@
 - https://alvaromontoro.com/blog/67979/creating-accessible-css-art
 - https://www.a11yproject.com/posts/how-to-accessible-heading-structure
 
-### <a></a>
+# <a></a>
 
 - https://www.maxkohler.com/posts/calendar-links
 - https://danburzo.ro/canonical-sharing
 
-### <address></address>
+# <address></address>
 
 - http://html5doctor.com/the-address-element
 
-### <audio></audio>
+# <audio></audio>
 
 - [HTMLAudioElement polyfill using the WebAudio API with seamless loop support in Safari](https://gist.github.com/mrdoob/0027c276f1b628001bdb6e138a9d7218) + https://twitter.com/mrdoob/status/1578933479282454528
 
-### <button></button>
+# <button></button>
 
 - https://ishadeed.com/article/styling-the-good-old-button
 - https://github.com/mds/good-button
 
-### <img />
+# <img />
 
 - https://dev.to/builderio/optimal-images-in-html-5bg9
 
-### Cheat sheet
+# Cheat sheet
 
 - https://meiert.com/en/indices/html-elements
 - https://github.com/raunofreiberg/ui-playbook
@@ -116,31 +116,35 @@
 - [HTML elements visualized](https://julesblom.com/writing/html-elements)
 - https://better-mobile-inputs.netlify.app
 
-### <details></details>
+# <details></details>
 
 - https://css-tricks.com/exploring-what-the-details-and-summary-elements-can-do
 - https://www.scottohara.me//blog/2022/09/12/details-summary.html
 
-### <div></div>
+# <div></div>
 
 - https://www.matuzo.at/blog/element-diversity
 - https://www.scottohara.me/blog/2022/01/20/divisive.html
 
-### <dl></dl>
+# <dl></dl>
 
 - https://dorper.me/articles/dldt.aspx
 
-### Drag and Drop
+# Drag and Drop
 
 - https://horstmann.com/unblog/2018-12-16/index.html
 
-### <form></form>
+# `<!DOCTYPE html>`
+
+- https://youtu.be/Vb0HOgpphPM
+
+# <form></form>
 
 - [Three attributes for better web forms](https://adactio.com/journal/19842)
 - [Forms, but better](https://m.youtube.com/@adambsilver/videos)
 - https://fullystacked.net/posts/submitter-parameter-for-formdata
 
-### <head></head>
+# <head></head>
 
 - https://twitter.com/iamakulov/status/1573250912667066370 + https://youtu.be/MHyAOZ45vnU
 - [A list of everything that _could_ go in the head of your document](https://github.com/joshbuchea/HEAD)
@@ -148,34 +152,34 @@
 - https://www.matuzo.at/blog/html-boilerplate
 - https://koddsson.com/posts/emoji-favicon
 
-### <link />
+# <link />
 
 - https://3perf.com/blog/link-rels
 - [`rel="?"`](https://www.htmhell.dev/adventcalendar/2022/21)
 - https://nelsonslog.wordpress.com/2023/07/22/link-to-text-fragment
 
-### <meta />
+# <meta />
 
 - https://textslashplain.com/2020/05/15/meta-charset
 - https://www.stefanjudis.com/today-i-learned/how-to-tell-browsers-that-your-site-supports-color-schemes
 
-### <input type="checkbox" />
+# <input type="checkbox" />
 
 - https://html5accessibility.com/stuff/2021/01/24/a-simple-custom
 
-### <input type="email" />
+# <input type="email" />
 
 - https://www.stefanjudis.com/today-i-learned/email-inputs-can-accept-multiple-email-addresses
 
-### <input type="number" />
+# <input type="number" />
 
 - https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input
 
-### <input type="file" />
+# <input type="file" />
 
 - https://github.com/atapas/html-file-upload
 
-### <object></object>
+# <object></object>
 
 - https://www.smashingmagazine.com/2018/03/from-flash-html-css-javascript
 - [Legacy Flash websites work | Ruy Adorno](https://m.youtube.com/playlist?list=PLhfPj4BRxbDdpo2tPSJpe62c4psxyNuuc)
@@ -183,34 +187,34 @@
 - https://github.com/tylerault/flashdetect
 - https://infosec.zeyu2001.com/2023/from-xs-leaks-to-ss-leaks + https://twitter.com/terjanq/status/1686701251080097792 + https://gist.github.com/terjanq/33bbb8828839994c848c3b76c1ac67b1
 
-### <script></script>
+# <script></script>
 
 - https://blog.huli.tw/2022/04/24/en/how-much-do-you-know-about-script-type
 
-### <select></select>
+# <select></select>
 
 - https://sarahmhigley.com/writing/select-your-poison
 
-### <template></template>
+# <template></template>
 
 - https://kittygiraudel.com/2022/09/30/templating-in-html
 
-### <title></title>
+# <title></title>
 
 - https://twitter.com/tunetheweb/status/1343848054571593729 + https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute
 
-### <video></video>
+# <video></video>
 
 - [Video Killed My Data Plan](https://docs.google.com/presentation/d/1JPBSDqCpKK1nq9Wpo-NKmXNb1ZyCUKZhcfcdkXTRAA0)
 - https://css-tricks.com/gifs-without-the-gif-the-most-performant-image-and-video-options-right-now
 
-### Landing page
+# Landing page
 
 - [Free Next.js landing page template for SaaS products, online services and more.](https://github.com/jkytoela/next-startd)
 - [What I learnt roasting 200 landing pages in 12 months](https://news.ycombinator.com/item?id=27140440)
 - [Listing of community-curated resources to find topical remote freelance](https://github.com/engineerapart/TheRemoteFreelancer)
 
-### Performance
+# Performance
 
 - https://github.com/fabkrum/web-performance-resources
 - [future-web-perf by Vitaly Friedman](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf)
@@ -223,7 +227,7 @@
 - https://calibreapp.com/blog/performance-for-designers-images
 - https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews + https://calendar.perfplanet.com/2020/learnings-from-setting-up-a-performance-device-lab
 
-### Progressive Enhancement
+# Progressive Enhancement
 
 - https://www.gov.uk/service-manual/technology/using-progressive-enhancement
 - https://gomakethings.com/progressive-enhancement-graceful-degradation-and-asynchronously-loading-css
@@ -239,11 +243,11 @@
 - https://austingil.com/how-to-build-html-forms-right-semantics
 - [Progressive Enhanced HTML Forms With JavaScript | heyAustinGil](https://m.youtube.com/playlist?list=PLmLtrLOp-3MEi82GpiAF9WWFbItxpWSj3)
 
-### Radio
+# Radio
 
 - https://devchat.tv/js-jabber/jsj-421-semantic-html-with-bruce-lawson
 
-### Tool
+# Tool
 
 - https://lab.html5test.com
 - https://learn.better.dev/courses/faster-coding-with-emmet
@@ -262,12 +266,12 @@
 - [A fast checker for broken links/references](https://github.com/modernweb-dev/rocket/tree/main/packages/check-html-links)
 - [You can get a site's html and all of the page's dependencies with a single wget command](https://twitter.com/philhawksworth/status/1214942635300982785) + [Download a web page to a local directory](https://github.com/papandreou/bringhome)
 
-### Opinion
+# Opinion
 
 - https://meiert.com/en/blog/minimal-web-development
 - https://mark.berthelemy.net/2021/07/26/future-of-scorm + https://m.youtube.com/playlist?list=PL9Ar8Q1P0Odt8MslZpZ1KlAz0ss059Hs-
 
-### Semantics
+# Semantics
 
 - https://css-tricks.com/how-to-section-your-html
 - https://uselessdivs.com/blog/a-short-guide-to-help-you-pick-the-correct-html-tag
@@ -276,7 +280,7 @@
 - https://tetralogical.com/blog/2022/10/05/foundations-html-semantics
 - https://www.tpgi.com/subheadings-subtitles-alternative-titles-and-taglines-in-html
 
-### Security
+# Security
 
 - [HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors](https://html5sec.org)
 - https://research.securitum.com/marginwidth-marginheight-the-unexpected-cross-origin-communication-channel
@@ -286,7 +290,7 @@
 - https://blog.xss.am/2021/02/intigriti-february-xss-challenge
 - [A compilation of sites with dumb password rules](https://github.com/duffn/dumb-password-rules)
 
-### Unicode
+# Unicode
 
 - [Quick and easy browsing of the over 20,000 supported emoji mashups as part of Google's Emoji Kitchen](https://github.com/xsalazar/emoji-kitchen)
 - https://github.com/sindresorhus/is-unicode-supported
@@ -332,7 +336,7 @@
 - [Get color palettes from emojis](https://github.com/anubra266/emoji-palette)
 - [Unicode Text Analyzer](https://www.fontspace.com/unicode/analyzer)
 
-### Watch
+# Watch
 
 - https://tgvashworth.com/2016/06/03/frontend-reading-list.html
 - [Environmental User Interfaces - Bob Burrough](https://m.youtube.com/playlist?list=PLrKeTeeSgtc7JsHHB2R-wihnNbFX2BwPE) + https://bobburrough.com/public/post/surely_you_cant_be_serious_bob

@@ -35,3 +35,4 @@
 ### Opinion
 
 - https://ramonh.dev/2023/04/20/objective-c-versatility
+- https://twitter.com/everton_dev/status/1492844968314089473

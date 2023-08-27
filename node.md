@@ -295,6 +295,7 @@
 
 - https://dev.to/zenstok/part-22-deploy-scalable-nestjs-chat-app-to-kubernetes-59o0
 - https://www.feelback.dev/blog/feelback-saas-launch-architecture
+- [Converting a Python script into Node automatically with ChatGPT](https://gist.github.com/federico-terzi/e1ceed50d27b21f3e48ebf1d1486fa06) + https://twitter.com/terzi_federico/status/1661115023937409027
 
 ### Error
 

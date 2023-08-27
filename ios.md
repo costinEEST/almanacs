@@ -41,6 +41,7 @@
 - https://github.com/futurice/ios-good-practices
 - https://naehrdine.blogspot.com/2022/05/iphone-setup-for-reversing-and-debugging.html
 - [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
+- https://github.com/FifiTheBulldog/ios-settings-urls
 
 ### Hardware
 

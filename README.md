@@ -190,3 +190,4 @@
 - https://github.com/lyz-code/best-of-digital-gardens
 - [Jacky Zhao](https://github.com/jackyzha0/quartz)
 - [Marcus Crane](https://utf9k.net/questions)
+- [Saverio Miroddi](https://github.com/64kramsystem/personal_notes/tree/master/topics)

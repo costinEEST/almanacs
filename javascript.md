@@ -1,4 +1,4 @@
-### Algorithm
+# Algorithm
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) + https://m.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
 - [Classic algorithms and data structures implemented in JavaScript](https://github.com/felipernb/algorithms.js)
@@ -16,7 +16,7 @@
 - https://github.com/InterviewMap/CS-Interview-Knowledge-Map
 - https://github.com/nnupoor-zz/js_designpatterns
 
-### AST
+# AST
 
 - https://twitter.com/laurieontech/status/1400882404747776002
 - https://twitter.com/mjackson/status/1336740413827268610
@@ -38,7 +38,7 @@
 - https://youtu.be/tkPHtSUJwMI
 - https://github.com/fkling/astexplorer
 
-### Book
+# Book
 
 - [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://sicp.comp.nus.edu.sg/announcement.html) + https://github.com/source-academy/sicp + https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1
 - https://github.com/muratkeremozcan/books
@@ -62,7 +62,7 @@
 - https://www.freecodecamp.org/news/learn-to-code-book
 - [Mastering the Arcane Art of Writing Awesome JavaScript for C# Developers](https://github.com/Vintharas/javascriptmancy-code-samples)
 
-### Cheat sheet
+# Cheat sheet
 
 - https://ponyfoo.com/articles/es6
 - [Dark themes made easy](https://notes.jordanscales.com/40ecf234)
@@ -70,7 +70,7 @@
 - https://github.com/mbeaudru/modern-js-cheatsheet
 - https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42
 
-### Course
+# Course
 
 - https://github.com/andreasbm/web-skills
 - https://learnjavascript.online
@@ -85,12 +85,12 @@
 - https://github.com/P1xt/p1xt-guides
 - https://www.udemy.com/course/professional-modern-javascript
 
-### Community
+# Community
 
 - [Javascript R. Moldova](https://github.com/JSMD/meetups)
 - https://www.facebook.com/groups/cypresstestautomation
 
-### Compiler
+# Compiler
 
 - https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
 - https://github.com/jamiebuilds/the-super-tiny-compiler
@@ -104,7 +104,7 @@
 - https://pointersgonewild.com/about
 - [Basic wip js aot optimizing wasm compiler](https://github.com/CanadaHonk/porffor) + https://twitter.com/C4nadaHonk/status/1680385335354589185
 
-### Quirks
+# Quirks
 
 - https://github.com/aemkei/jsfuck
 - [6 JavaScript WTFs and what to learn from them](https://dev.to/andreib123/6-javascript-wtfs-and-what-to-learn-from-them-406d)
@@ -114,7 +114,7 @@
 - [String#split can NEVER return an empty array, which is wrong](https://twitter.com/SeaRyanC/status/1331656278104440833)
 - https://felix-kling.de/js-loose-comparison
 
-### Performance
+# Performance
 
 - https://rreverser.com/tabs-vs-space
 - [tagname-vs-instanceof](https://twitter.com/diegohaz/status/1200565864287866887)
@@ -127,7 +127,7 @@
 - https://felixgerschau.com/javascript-memory-management
 - https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2
 
-### Data structures
+# Data structures
 
 - https://areknawo.com/rocking-js-data-structures
 - [Curated collection of data structures for JavaScript/TypeScript](https://github.com/Yomguithereal/mnemonist)
@@ -136,12 +136,12 @@
 - [Rob Edwards DS Essentials](https://m.youtube.com/playlist?list=PLFmuMD2V4CkyK_mLDVfez5XwJnQdlP9dB)
 - https://profy.dev/article/javascript-data-structures
 
-### Obfuscation
+# Obfuscation
 
 - https://www.perimeterx.com/blog/analyzing_magecart_malware_from_zero_to_hero
 - [How an anti ad-blocker works: Reverse-engineering BlockAdBlock](https://xy2.dev/article/re-bab)
 
-### Pattern
+# Pattern
 
 - https://twitter.com/oznova_/status/1606075373774520321
 - https://viorel.me/2019/simple-undo-redo-functionality-in-js-using-memento
@@ -163,7 +163,7 @@
 - https://jessewarden.com/books/real-world-functional-programming
 - https://github.com/ReactiveX/rxjs-advent-2018 + https://www.youtube.com/@matthewpodwysocki/videos
 
-### TIL
+# TIL
 
 - [Get a full map of every event in the browser](https://medium.com/@weizmangal/list-every-event-that-exists-in-the-browser-b771579d9b04)
 - https://medium.com/@weizmangal/unload-and-beforeunload-events-and-how-to-easily-debug-them-both-cb40782b0018
@@ -192,63 +192,64 @@
 - [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
 - [a valid IPv6 address and a syntactically valid JavaScript program that runs to completion](https://twitter.com/mathias/status/1138770431681449984)
 
-### Paper
+# Paper
 
 - [Who invents the word "scope chain" in ECMA-262 1st edition?](https://twitter.com/Huxpro/status/1363224910898688000)
 
-### Cinema
+# Cinema
 
 - [Session Notes from JSCraftCamp2019](https://github.com/jscraftcamp/jscc19-sessions) + [JavaScript Craftcamp 2018](https://github.com/jscraftcamp/notes2018)
 - [16-Bit Virtual Machine (series on YouTube)](https://m.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
 - [Writing a library to convert between Time Zones in JavaScript | AJ ONeal](https://m.youtube.com/playlist?list=PLxki0D-ilnqa6horOJ2G18WMZlJeQFlAt)
 - https://m.youtube.com/c/UtahJS/playlists
 
-### AI
+# AI
 
 - [Functions that will give you a feeling of how machines can actually "learn"](https://github.com/trekhleb/nano-neuron)
 
-### coercion
+# coercion
 
 - https://github.com/dorey/JavaScript-Equality-Table + [why you should prefer the `===` operator](https://github.com/slikts/js-equality-game)
 
-### BigInt
+# BigInt
 
 - https://github.com/juanelas/bigint-crypto-utils
 - [BigInt supports bitwise operations](https://m.webtoo.ls/@lukastaegert/109882130362687971)
 
-### eval()
+# `eval`
 
 - https://dfkaye.com/posts/2021/06/02/javascripts-eval-and-function-constructor
 
-### in
+# in
 
 - https://twitter.com/kdy1dev/status/1524667421113548801
 
-### void
+# `void`
 
 - [A case for using void in modern JavaScript](https://gist.github.com/slikts/dee3702357765dda3d484d8888d3029e)
 
-### null
+# `null`
 
+- https://2ality.com/2013/10/typeof-null.html
 - https://tommarien.github.io/blog/2020/03/02/from-undefined-to-zero
 - https://github.com/sindresorhus/meta/discussions/7
 - https://twitter.com/swapnakpanda/status/1514812127999004672
 - https://twitter.com/buildsghost/status/1354279136433299459
 
-### Polyfill
+# Polyfill
 
 - https://github.com/fynyky/weak-ref-collections
 
-### undefined
+# undefined
 
 - https://2ality.com/2013/05/history-undefined.html
 - https://p42.ai/blog/2022-05-10/you-dont-need-void-0
 
-### Object()
+# Object()
 
 - https://dfkaye.com/posts/2020/08/20/javascripts-object-vs.-object.create
 
-### function () {}
+# function () {}
 
 - https://github.com/you-dont-need/You-Dont-Need-Loops
 - [Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
@@ -257,7 +258,7 @@
 - [get a javascript function name](https://gist.github.com/dfkaye/6384439)
 - https://pedrocattori.dev/blog/why-i-prefer-arrow-functions
 
-### function\* () {}
+# function\* () {}
 
 - https://swizec.com/blog/finally-a-practical-use-case-for-javascript-generators/swizec/9036
 - https://swizec.com/blog/advent-code-day-15-dueling-javascript-generators/swizec/7973
@@ -267,17 +268,17 @@
 - https://jeffy.info/2019/03/22/that-time-i-used-a-generator.html
 - https://github.com/creationix/js-git
 
-### string
+# string
 
 - https://github.com/kay-is/awesome-tagged-templates
 - https://www.acuriousanimal.com/blog/20211205/javascript-handle-unicode
 - https://stackoverflow.com/questions/21647928/javascript-unicode-string-to-hex
 
-### spread/destructuring operator
+# spread/destructuring operator
 
 - https://twitter.com/BenLesh/status/1240674545725513728
 
-### modules
+# modules
 
 - [History of ES modules.](https://gist.github.com/jkrems/769a8cd8806f7f57903b641c74b5f08a)
 - https://guybedford.com/es-module-preloading-integrity
@@ -299,11 +300,11 @@
 - [Prototype implementation of ES6 modules](https://github.com/rossberg/js-modules) + https://twitter.com/tomprimozic/status/1433013949998456836 + https://people.mpi-sws.org/~rossberg/f-ing + https://people.mpi-sws.org/~rossberg/1ml + https://twitter.com/tomprimozic/status/1443141996512694274 + https://people.mpi-sws.org/~rossberg/mixml
 - [Pseudo implementation of the proposed ES6 module loaders](https://github.com/jorendorff/js-loaders)
 
-### lexical scoping
+# lexical scoping
 
 - https://ericlippert.com/2013/05/20/what-is-lexical-scoping
 
-### Math
+# Math
 
 - https://github.com/Rich-Harris/yootils/blob/master/src/number/random.ts
 - https://github.com/Rich-Harris/yootils/blob/master/src/array/pickRandom.ts
@@ -316,11 +317,11 @@
 - https://maximilianocontieri.com/code-smell-180-bitwise-optimizations
 - https://github.com/erikwiffin/0.30000000000000004 + https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004 + https://news.ycombinator.com/item?id=34708756
 
-### default arguments
+# default arguments
 
 - [.. I just realized that default args in JS can take an expression that makes use of previous args in the argument list!](https://twitter.com/mjackson/status/1207108228921741313)
 
-### Object.prototype
+# Object.prototype
 
 - [Why assignment will look for setters in the prototype chain, but not for regular value properties?](https://twitter.com/dan_abramov/status/1259518085347885057)
 - [Exploiting Client-Side Prototype Pollution in the wild](https://blog.s1r1us.ninja/research/PP)
@@ -329,7 +330,7 @@
 - https://labs.withsecure.com/publications/prototype-pollution-primer-for-pentesters-and-programmers
 - https://github.com/HoLyVieR/prototype-pollution-nsec18
 
-### Array.prototype
+# Array.prototype
 
 - [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
 - [Cheat sheet: JavaScript Array methods](https://gist.github.com/rauschma/6cdeb4af7586aa03baed2f925e0a084b)
@@ -342,25 +343,25 @@
 - https://cbrevik.com/react-native-and-the-array-reverse-bug
 - https://www.macarthur.me/posts/looping-over-empty-array-items
 
-### new Uint8Array()
+# new Uint8Array()
 
 - [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
 
-### new ArrayBuffer()
+# new ArrayBuffer()
 
 - [Is there a way to compress an array buffer in js in the browser those days without having a pure js implementation (by using browser)?](https://twitter.com/Vjeux/status/1239176661133742083)
 - https://github.com/lrlna/sketchin/blob/master/guides/typed-arrays.md
 - https://nuculabs.dev/2023/03/30/how-to-pack-javascript-array-elements-into-a-byte-buffer-and-create-a-new-numeric-array-from-the-buffer
 
-### new BigInt64Array()
+# new BigInt64Array()
 
 - https://github.com/VSADX/true-binary-for-float64
 
-### new SharedArrayBuffer()
+# new SharedArrayBuffer()
 
 - https://blogtitle.github.io/using-javascript-sharedarraybuffers-and-atomics
 
-### new Date()
+# new Date()
 
 - [One page calendar 2020](https://davebakker.io/onepagecalendar)
 - [Wondering how to best display the current time (hh:mm) on a web page.](https://twitter.com/rauschma/status/1228056819567910914)
@@ -368,15 +369,15 @@
 - https://github.com/andreigasparovici/npm-time-ago-ro
 - https://www.builder.io/blog/relative-time
 
-### new Error()
+# new Error()
 
 - https://wbinnssmith.com/blog/subclassing-error-in-modern-javascript
 
-### setInterval()
+# setInterval()
 
 - [setInterval implementation with setTimeout](https://github.com/n0ruSh/blogs/blob/master/articles/Implement%20setInterval%20with%20setTimeout.md)
 
-### new Promise()
+# new Promise()
 
 - [What does this code print?](https://twitter.com/Swizec/status/1206624095816699906)
 - [wrapper for an array of promises that can fine control how to run them?](https://twitter.com/sseraphini/status/1245427739169079296)
@@ -402,7 +403,7 @@
 - https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript
 - https://github.com/JoshuaKGoldberg/floating-and-sinking-promises
 
-### async await
+# async await
 
 - https://www.zhenghao.io/posts/await-vs-promise
 - Fast and maintainable patterns for fetching from a database: [tweet](https://twitter.com/sophiebits/status/1212555591056424960) + [blog post](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
@@ -413,7 +414,7 @@
 - https://davidwells.io/blog/cleaner-async-await-code-without-try-catch
 - https://www.builder.io/blog/safe-data-fetching
 
-### JSON.parse()
+# JSON.parse()
 
 - https://www.google.com/search?q=json+parse+prototype+pollution
 - [JSON.parse w/o blocking main thread.](https://gist.github.com/jkrems/71df0bce1b95101b1417f909ce473075)
@@ -422,62 +423,62 @@
 - https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers
 - https://radex.io/react-native/json-parse
 
-### class
+# class
 
 - [When are public instance fields executed?]https://twitter.com/rauschma/status/1205417503108878336
 - https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078 + https://evertpot.com/syntactic-sugar
 - https://www.mgaudet.ca/technical/2021/5/4/implementing-private-fields-for-javascript
 - https://piranna.github.io/2021/07/08/Abstract-classes-in-Javascript
 
-### OOP
+# OOP
 
 - [When to use OOP; when to use FP](https://twitter.com/rauschma/status/1212996411324801026)
 
-### Object.defineProperty()
+# Object.defineProperty()
 
 -https://lihautan.com/who-accessed-my-property
 
-### new Map()
+# new Map()
 
 - [Map.prototype.has() instead of Object.prototype.hasOwnProperty()](https://dev.to/mfulton26/comment/j060)
 - https://cameronnokes.com/blog/create-lodash.memoize-from-scratch
 - https://www.zhenghao.io/posts/object-vs-map
 - https://www.macarthur.me/posts/maps-for-dom-nodes
 
-### new WeakMap()
+# new WeakMap()
 
 - https://chrisrng.svbtle.com/using-weakmap-for-private-properties
 - [How to detect if an object has been garbage collected in Javascript](http://stevehanov.ca/blog/?id=148)
 
-### new Set()
+# new Set()
 
 - https://github.com/terkelg/zet
 
-### new Proxy()
+# new Proxy()
 
 - https://dev.to/clementvidal/use-es6-proxy-for-isolated-context-intercommunication-mc1
 - [Sentinel](https://pvdz.ee/notes/181)
 - https://github.com/mikaelbr/awesome-es2015-proxy
 - [Proxies are the closest thing JavaScript has to a Macro](https://twitter.com/rauchg/status/1388231666771001346) + https://github.com/justjavac/proxy-www + https://vimeo.com/364362111 + https://gist.github.com/davidsharp/9184a2e501f5e6704717031bb4951312
 
-### Reflect()
+# Reflect()
 
 - https://twitter.com/RenwaX23/status/1663624248924020736 + https://youtu.be/1iQ-oeLFZBs
 
-### bitwise operators
+# bitwise operators
 
 - [xor](https://twitter.com/rauschma/status/1218579324976140288)
 - https://dmitripavlutin.com/swap-variables-javascript/#4-bitwise-xor-operator
 - https://chrisrng.svbtle.com/bitwise-operators-in-javascript
 - https://dev.to/oliverjumpertz/xor-bitwise-xor-and-using-it-to-solve-an-algorithm-challenge-14oa
 
-### optional chaining operator
+# optional chaining operator
 
 - https://www.ksharifbd.com/blog/optional-chaining-and-nullish-coalescing-operators-what-why-and-how
 - https://twitter.com/AdamRackis/status/1232693680873467904
 - https://h3manth.com/new/blog/2020/nullish-coalescing-vs-logical-or
 
-### new RegExp()
+# new RegExp()
 
 - https://www.johndcook.com/blog/2008/01/14/tips-for-learning-regular-expressions
 - https://ihateregex.io/playground + https://ihateregex.io/cheatsheet
@@ -511,22 +512,22 @@
 - https://regexgpt.app
 - https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers
 
-### Practice
+# Practice
 
 - [Virtual Piano](https://hyperskill.org/projects/101)
 - https://github.com/felipefialho/frontend-challenges
 
-### Single-page application
+# Single-page application
 
 - [io-ts is an integral part of building any well-behaved, robust SPA client](https://twitter.com/garybernhardt/status/1220115502162272256)
 - [A case study on viable techniques for vanilla web development.](https://github.com/morris/vanilla-todo)
 - https://dev.to/tigt/routing-im-not-smart-enough-for-a-spa-5hki
 
-### Snippet
+# Snippet
 
 - [`const isMobile = 'capture' in HTMLInputElement.prototype`](https://twitter.com/WebReflection/status/1567359995917778945)
 
-### Testing
+# Testing
 
 - https://joyofcode.xyz/test-your-site-in-every-browser
 - https://github.com/fireship-io/tdd-basics-project
@@ -568,7 +569,7 @@
 - https://github.com/AriPerkkio/vitest-sonar-reporter
 - https://snyk.io/blog/how-to-add-playwright-tests-pr-ci-github-actions
 
-### Virtual machine
+# Virtual machine
 
 - [I want to embed an entire JS VM inside a browser.](https://twitter.com/garybernhardt/status/1212468714018242560)
 - [16-Bit Virtual Machine](https://m.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
@@ -576,18 +577,18 @@
 - https://github.com/fraxken/VM-Resources
 - [Emulation in JavaScript | Matt Godbolt](https://m.youtube.com/playlist?list=PL2HVqYf7If8c3E0_m4KH6nwpcclY7eSqf)
 
-### Parser
+# Parser
 
 - [Parser Combinators From Scratch](https://m.youtube.com/playlist?list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU)
 - https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference
 
-### Interpreter
+# Interpreter
 
 - https://github.com/mezum/quickjs-cmake
 - [Web-based interpreter for the LOOP, WHILE, and GOTO programming languages](https://github.com/tniessen/loop-while-goto)
 - [Minimal Lisp interpreter](https://github.com/inexorabletash/jisp)
 
-### Tool
+# Tool
 
 - https://frontendmastery.com/posts/building-and-serving-frontends-at-scale
 - https://github.com/frehner/modern-guide-to-packaging-js-library
@@ -665,7 +666,7 @@
 - https://github.com/thisdavej/copy-excel-paste-markdown
 - https://www.oddbird.net/2022/11/30/headed-playwright-in-docker
 
-### Documentation
+# Documentation
 
 - https://v8.dev/blog/understanding-ecmascript-part-1
 - https://readspecwith.us
@@ -677,11 +678,11 @@
 - https://jonmeyers.io/blog-series/cookies-in-remix
 - https://pawelgrzybek.com/whats-new-in-ecmascript-2023
 
-### Debugging
+# Debugging
 
 - https://mmazzarolo.com/blog/2022-02-16-track-down-the-javascript-code-responsible-for-polluting-the-global-scope
 
-### Opinion
+# Opinion
 
 - [Building better developers by specifying criteria of success](https://github.com/prettydiff/wisdom)
 - https://github.com/justinamiller/SoftwareArchitect

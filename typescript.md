@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - http://orta.io/notes/recommendations/books#TypeScript
 - [Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://github.com/danvk/effective-typescript)
@@ -8,7 +8,7 @@
 - https://github.com/PacktPublishing/Full-Stack-React-TypeScript-and-Node
 - https://github.com/LearningTypeScript/site
 
-### Boilerplate
+# Boilerplate
 
 - https://github.com/Divlo/create-fullstack-app
 - https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node
@@ -16,7 +16,7 @@
 - [Quickly create and configure a new library or Node.js project](https://github.com/bitjson/typescript-starter)
 - [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 
-### Cheat sheet
+# Cheat sheet
 
 - [TypeScript style guide](https://ts.dev/style)
 - https://github.com/rmolinamir/typescript-cheatsheet
@@ -56,7 +56,7 @@
 - https://github.com/labs42io/clean-code-typescript
 - [Module documentation (in progress)](https://gist.github.com/andrewbranch/79f872a8b9f0507c9c5f2641cfb3efa6)
 
-### Course
+# Course
 
 - https://www.udemy.com/course/understanding-typescript + http://hop.ie/blog/learning-typescript/
 - [Typed Functional Programming in Typescript](https://typescript.fun)
@@ -67,7 +67,7 @@
 - https://www.udemy.com/course/typescript-with-react-jest-testing + https://m.youtube.com/playlist?list=PLrh-y_cvrt07jehJeFr4o-0dVSDhiy-9f + https://github.com/barosanuemailtest/ts-course-react
 - https://www.eddyvinck.com/blog/what-i-learned-from-total-typescript-part-1-type-transformations
 
-### Community
+# Community
 
 - [Remo Jansen](https://www.remojansen.com/#talks)
 - [Stefan Baumgartner](https://fettblog.eu/archive/typescript)
@@ -82,14 +82,14 @@
 - [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
 - [How would one build their own Typescript compiler?](https://twitter.com/tannerlinsley/status/1202745654939922434)
 
-### Presentations
+# Presentations
 
 - [Typed functional programming in TypeScript in five minutes](https://github.com/typescript-fun/five-minutes-demo)
 - How domain modeling can help us to make our apps consistent & safe: [repo](https://github.com/gillchristian/modeling) + [slides](https://modeling.now.sh/)
 - [Understanding TypeScript's Structural Type System](https://spin.atomicobject.com/2018/09/28/typescript-strange-loop-2018)
 - https://github.com/michalczukm/typescript-who-even-need-template-literal-types-presentation
 
-### Opinion
+# Opinion
 
 - [I really wish TypeScript had better inference.](https://twitter.com/devongovett/status/1219663924989050881)
 - [TypeScript vs. PureScript vs. ReasonML vs. Elm](https://hasura.io/blog/why-we-chose-typescript-for-hasura-console)
@@ -101,13 +101,13 @@
 - https://nehalist.io/trpc-review
 - [`Using Flow or TypeScript could have prevented 15% of the public bugs for public projects on GitHub`](https://earlbarr.com/publications/typestudy.pdf)
 
-### Patterns
+# Patterns
 
 - https://github.com/jbreckmckye/node-typescript-architecture
 - [Lets learn Dependency Injection](https://swatinem.de/blog/learn-di)
 - [asyncComponent](https://gist.github.com/cramforce/b5e3f0b103f841d2e5e429b1d5ac4ded)
 
-### Practice
+# Practice
 
 - https://github.com/typescript-course/typescript-project-from-scratch
 - https://github.com/total-typescript/beginners-typescript-tutorial
@@ -132,11 +132,15 @@
 - https://github.com/g-plane/type-gymnastics
 - https://github.com/jonahsnider/aoc-2022 + https://github.com/jonahsnider/aoc-2021 + https://github.com/jonahsnider/aoc-2020 + https://github.com/jonahsnider/aoc-2019 + https://github.com/jonahsnider/aoc-2018
 
-### Radio
+# Radio
 
 - https://topenddevs.com/podcasts/javascript-jabber/episodes/to-typescript-or-not-to-typescript-jsj-538
 
-### Tool
+# Static site
+
+- [Transforms Markdown content into fully functional websites](https://github.com/jackyzha0/quartz)
+
+# Tool
 
 - https://github.com/juanluispaz/ts-sql-query
 - [analyzing TypeScript types of npm packages](https://github.com/arethetypeswrong/arethetypeswrong.github.io)
@@ -154,7 +158,7 @@
 - [A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely)
 - [A tool to generate a single bundle of dts with types tree-shaking](https://github.com/timocov/dts-bundle-generator)
 
-### Watch
+# Watch
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUd75s3yMHVnoRMYcAP1jsi2
 - [Ethan Arrowood](https://github.com/Ethan-Arrowood/talks)
