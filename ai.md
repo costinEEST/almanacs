@@ -114,6 +114,7 @@
 - [Cornell CS5785: Applied Machine Learning | Fall 2020](https://github.com/Machine-Learning-Tokyo/AI_Curriculum#applied-machine-learning)
 - [Igo Math - Natural and Artificial Intelligence and the Game of Go](https://egri-nagy.github.io/igomath)
 - https://github.com/frnsys/ai_notes
+- https://github.com/dibgerge/ml-coursera-python-assignments
 
 ### Cinema
 

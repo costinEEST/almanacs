@@ -67,6 +67,7 @@
 - https://tex.stackexchange.com/questions/7770/file-extensions-related-to-latex-etc
 - https://www.freecodecamp.org/news/learn-latex-full-course
 - https://github.com/Wookai/paper-tips-and-tricks
+- [Online latex compiler. You give it a link, it gives you PDF](https://github.com/aslushnikov/latex-online)
 
 # .txt
 

@@ -241,6 +241,7 @@
 - https://www.youtube.com/playlist?list=PLu6mmTyxNzBAxGJg8OlpmTRNzTRmYBUCU
 - https://biblioteca-digitala.ro/?descriptor=99640-literatura-germana
 - https://www.youtube.com/playlist?list=PL5567A92F7F09247D
+- [A Foundation Course in Reading German | Howard Martin and Alan Ng](https://wisc.pb.unizin.org/readinggerman)
 
 ### Greek
 
@@ -460,6 +461,7 @@
 - https://www.youtube.com/playlist?list=PL67dm6qliEMD2CkCxYWzw3vVXrO5L_dFz
 - https://www.youtube.com/playlist?list=PL67dm6qliEMBgT4vS4He9OQW3EkW4JrLj
 - https://www.youtube.com/playlist?list=PL67dm6qliEMCkk8vhFBOJ2fbkS5BoL2cb
+- [Russian for the mathematician | S. H. Gould](https://link.springer.com/book/10.1007/978-3-642-65384-1)
 
 ### Rare
 

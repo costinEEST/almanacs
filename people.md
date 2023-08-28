@@ -190,6 +190,10 @@
 
 - https://www.spiegel.de/international/europe/europe-s-top-prosecutor-brings-in-more-money-than-she-spends-a-ce2edb60-53a7-42ce-9b13-5dc78ec6aa76
 
+# Leonardo Da Vinci
+
+- https://www.dclibrary.org/leonardo-da-vinci
+
 # Patrick Collison
 
 - [Which five books have influenced you the most? (In terms of shaping your worldview.)](https://twitter.com/patrickc/status/929862403763798016)

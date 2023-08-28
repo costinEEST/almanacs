@@ -12,6 +12,10 @@
 - https://www.theverge.com/2023/4/20/23689570/activitypub-protocol-standard-social-network
 - https://johnaustin.io/articles/2023/how-we-can-actually-move-gamedev-off-twitter
 
+# Tool
+
+- [Authoring Books and Technical Documents with R Markdown](https://github.com/rstudio/bookdown) + https://bookdown.org/yihui/bookdown
+
 # Watch
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUfE7uhuid6gwgKvTm-hEYRH
