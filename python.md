@@ -281,6 +281,7 @@
 - [Download ESM modules from npm and jsdelivr](https://github.com/simonw/download-esm)
 - https://github.com/theycallmeloki/askfm-python
 - [Search Google and download specific file types](https://github.com/opsdisk/metagoofil)
+- [Sibiu bus schedule for Android (with data from www.tursib.ro)](https://github.com/mihaiolteanu/OrarTursib)
 
 ### Static website
 

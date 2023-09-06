@@ -425,6 +425,7 @@
 
 ### Romanian
 
+- https://github.com/vxern/romanian
 - http://alexalejandre.com/language/romanian
 - http://alexalejandre.com/language/16.Limba%20Rom%c3%a2n%c4%83.%20Curs%20superior.pdf
 - http://alexalejandre.com/language/03.Introduction%20to%20Romanian.pdf + https://www.studmed.ru/seiver-george-o-introduction-to-romanian_508aa438e3a.html + https://www.amazon.com/Introduction-Romanian-George-Seiver/dp/B0000CIK7N

@@ -45,10 +45,11 @@
 - https://github.com/PuruVJ/macos-web + https://twitter.com/leeerob/status/1382422353787817985
 - [Open-source developer platform to turn scripts into workflows and UIs; alternative to Airplane and Retool](https://github.com/windmill-labs/windmill)
 
-# Portfolio
+# Inspire
 
 - https://github.com/doppelganger9/blog
 - https://github.com/yashash-pugalia/portfolio
+- https://github.com/ViorelMocanu/DDD
 
 # Miscellaneous
 
