@@ -34,7 +34,7 @@
 - https://biblioteca-digitala.ro/?domeniu=1124-chimie
 - https://biblioteca-digitala.ro/?domeniu=1123-biochimie
 
-### Cinema
+# Watch
 
 - https://www.udemy.com/course/the-complete-high-school-and-college-chemistry
 - https://cop.tfm.ro/about-sabatier-reaction-and-reactors
@@ -48,6 +48,7 @@
 - https://www.westernpyro.org/recordings
 - [Admitere UPB 2021 - Chimie Organică](https://m.youtube.com/playlist?list=PLn9oGSe656KTlceQz9MlTHkCqqTJw52X8)
 - [Admitere UPB 2021 - Chimie Anorganică](https://m.youtube.com/playlist?list=PLn9oGSe656KReRekkbRHGDA1SX160QLBb)
+- http://astro.phys-acs.org/AstroCheminar.html + https://m.youtube.com/@astrocheminars303/videos
 
 ### Course
 
@@ -94,6 +95,10 @@
 - https://www.science.org/content/article/new-artificial-enamel-harder-and-more-durable-real-thing
 - https://www.newscientist.com/article/2357007-entirely-new-type-of-ice-made-using-extremely-cold-steel-balls
 - https://www.nytimes.com/2021/10/14/style/ephemeral-tattoos-disappearing-ink.html
+
+# Teacher
+
+- [Brent Westbrook](https://bwestbro.com/#sheets)
 
 ### Tool
 

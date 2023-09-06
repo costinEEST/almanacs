@@ -68,6 +68,7 @@
 - https://www.freecodecamp.org/news/learn-latex-full-course
 - https://github.com/Wookai/paper-tips-and-tricks
 - [Online latex compiler. You give it a link, it gives you PDF](https://github.com/aslushnikov/latex-online)
+- https://github.com/ntBre/yt-configs + https://www.youtube.com/live/jc_EsThqIyg + https://www.youtube.com/playlist?list=PL3nY3J1rj8KknDVFXAYRupAe6GtQnA_tC
 
 # .txt
 

@@ -71,6 +71,7 @@
 - [Understanding and Evolving the Rust Programming Language](https://www.ralfj.de/blog/2020/09/03/phd.html)
 - [Stay up to date with events, learning resources, and recent developments in the Rust community](https://github.com/rust-lang/this-week-in-rust)
 - https://twitter.com/i/communities/1690081308238561437
+- https://github.com/dasifefe/rust-game-development-frameworks
 
 ### Course
 
@@ -93,6 +94,10 @@
 ### Compiler
 
 - https://github.com/arzg/eldiro
+
+# Historic
+
+- https://doc.rust-lang.org/edition-guide/editions/index.html
 
 ### Tutorial
 
@@ -193,6 +198,7 @@
 - [Find out path at which a deserialization error occurred](https://github.com/dtolnay/path-to-error)
 - [Youtube upload and management tool written in Rust](https://github.com/bedroombuilds/rsytup)
 - [Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
+- [Building and deploying Rust utilities](https://robert.kra.hn/posts/2021-02-01_cross-compile-rust)
 
 ### Opinion
 
@@ -231,6 +237,8 @@
 - https://tryingtobeawesome.com/rust
 - [Why I use Rust even if I could use a GC'd language](https://dev.l1x.be/posts/2023/02/22/beyond-the-borrow-checker/#why-on-earth-would-anybody-use-rust-for-etl)
 - https://www.ralfj.de/blog/2021/03/23/safe-systems-programming-in-rust.html
+- [What was your 'aha!' moment when learning Rust?](https://twitter.com/nick_r_cameron/status/1014719625135714305)
+- https://robert.kra.hn/posts/2021-02-03_is-rust-fp
 
 ### Security
 

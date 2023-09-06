@@ -108,6 +108,7 @@
 - [Adrian Holovaty](https://www.soundslice.com/users/adrian)
 - [Diatonic scale learning aid for guitarist](https://github.com/caged/scales)
 - https://m.youtube.com/@MarkKnopfler/playlists?view=1&sort=lad&flow=grid
+- [Justin Sandercoe](https://www.justinguitar.com)
 
 # Instrument
 

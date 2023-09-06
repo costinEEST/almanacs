@@ -53,7 +53,7 @@
 - [ Learn AI-Assisted Python Programming With GitHub Copilot and ChatGPT](https://www.manning.com/books/learn-ai-assisted-python-programming)
 - https://github.com/tiagoantao/python-performance
 
-### Bots
+### Bot
 
 - https://github.com/musically-ut/first-timers-only-bot
 - https://github.com/yasoob/fb-messenger-bot
@@ -76,6 +76,7 @@
 - [File Converter Telegram Bot that can Convert Images, Videos, Audios, Fonts, Documents and Ebooks](https://github.com/bipinkrish/File-Converter-Bot)
 - [Local instance of ChatGPT for my kiddo](https://github.com/anvaka/local-chat)
 - [Telegram bot containing the answers to the FAQs for Ukrainian refugees in Berlin](https://github.com/afedulov/help-ukraine-bot)
+- [IBKR trading bot for collecting premium by selling options using `The Wheel` strategy](https://github.com/brndnmtthws/thetagang)
 
 ### Cheat sheet
 
@@ -406,6 +407,7 @@
 - [Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 - [Recommend movies to your friends and ask them for recommendations all through a convenient SMS interface](https://github.com/karllhughes/recs-by-text)
 - [Cinder is Meta's internal performance-oriented production version of CPython](https://github.com/facebookincubator/cinder)
+- [Social media scheduler](https://github.com/maikroservice/threaduler)
 
 ### Testing
 

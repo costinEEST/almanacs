@@ -137,6 +137,7 @@
 # Practice
 
 - https://github.com/danvk/aoc2021 + https://effectivetypescript.com/2022/02/06/advent-of-code-2021-golang
+- https://www.youtube.com/playlist?list=PLrwpzH1_9ufMLOB6BAdzO08Qx-9jHGfGg
 
 # Testing
 
@@ -225,6 +226,7 @@
 - https://dabase.com/blog/2022/strongly-typed-javascript
 - https://kdy1.dev/posts/2022/1/tsc-go + https://twitter.com/kdy1dev/status/1486017661267955713
 - [Sustainability with Rust](https://twitter.com/_rsc/status/1496352325157457922)
+- [Design drafts | rscgolang](https://www.youtube.com/playlist?list=PLrwpzH1_9ufO2cKP20VI1gT7I7HdlMdas)
 
 # Server
 
@@ -249,6 +251,7 @@
 - https://adri.ddns.net/about
 - https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go
 - [A Go-based static site generator that compiles brandur.org](https://github.com/brandur/sorg)
+- https://github.com/ntBre/bwestbro.com
 
 # Watch
 

@@ -305,7 +305,7 @@
 
 # Typescript
 
-- [TypeScript Weekly from Marius Schulz](https://us14.campaign-archive.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42)
+- [TypeScript Weekly | Marius Schulz](https://us14.campaign-archive.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42)
 - [Effective TypeScript | Dan Vanderkam](https://us4.campaign-archive.com/home/?u=628269c1b1a84231088e614d2&id=04969338ee)
 
 # Web development
@@ -496,6 +496,7 @@
 - https://rubyweekly.com/issues
 - [Awesome Ruby](https://ruby.libhunt.com/newsletter/archive)
 - [Julián Pinzón Eslava](https://dev.julianpinzon.com/newsletter)
+- [Andy Atkinson: PostgreSQL, Rails, RoR](https://us3.campaign-archive.com/home/?u=e41bf915471ba36d210444e0d&id=d5e090a16c)
 
 # Rust
 

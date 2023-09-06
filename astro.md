@@ -1,4 +1,4 @@
-### Boilerplate
+# Boilerplate
 
 - [A template for creating engineering blogs with multiple authors, co-authoring, topics, search](https://github.com/EddyVinck/astro-engineering-blog)
 - https://github.com/thomasKn/astro-shopify
@@ -10,11 +10,11 @@
 
 - https://zellwk.com/blog/overcoming-astro-styling-frustrations
 
-### Watch
+# Watch
 
 - https://m.youtube.com/@one-aalam/playlists
 
-### Demo
+# Inspire
 
 - https://github.com/ardeora/astro-tanstack-multiframework
 - [A collection of modern, server-safe React hooks](https://github.com/uidotdev/usehooks) + https://twitter.com/tylermcginnis/status/1663630559921451008
@@ -25,8 +25,9 @@
 - https://github.com/steveklabnik/steveklabnik.com
 - https://github.com/hackclub/putting-the-you-in-cpu
 - https://github.com/dreyfus92/astro-portfolio
+- https://github.com/beerose/aleksandra.codes
 
-### Opinion
+# Opinion
 
 - https://www.macarthur.me/posts/what-i-like-about-astro
 - https://blog.andri.co/023-migrating-open-ui-site-from-gatsby-to-astro + https://twitter.com/AndricoKaroulla/status/1638275020207149073

@@ -54,6 +54,7 @@
 - [Put your WordPress site in headless mode -- wp-admin, wp-rest-api and wp-graphql only.](https://github.com/Shelob9/headless-mode)
 - https://github.com/woocommerce/woocommerce-gutenberg-products-block
 - https://github.com/stars/benbalter/lists/wordpress
+- https://stefanbohacek.com/project/detect-missing-adblocker-wordpress-plugin
 
 ### Security
 
