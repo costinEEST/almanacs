@@ -15,6 +15,7 @@
 # Tool
 
 - [Authoring Books and Technical Documents with R Markdown](https://github.com/rstudio/bookdown) + https://bookdown.org/yihui/bookdown
+- [Using Mastodon as a RSS reader](https://thejunkland.com/blog/mastofeeder) + https://github.com/jehna/mastofeeder
 
 # Watch
 

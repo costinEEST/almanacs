@@ -2,7 +2,7 @@
 
 - [About the space bar.](https://mmazzarolo.com/blog/2019-08-30-about-the-space-bar)
 - https://github.com/dwyl/start-here#touch-typing
-- [Typey Type for Stenographers.](https://didoesdigital.com/typey-type)
+- [Typey Type for Stenographers](https://didoesdigital.com/typey-type) + https://github.com/paulfioravanti/presentations + https://www.youtube.com/playlist?list=PLNN5NpKrqwAMVklXxWcbONahjUAw6NCyC
 - https://github.com/manfredschulenburg/rasyti
 - https://www.artofchording.com + https://news.ycombinator.com/item?id=24182336
 - https://vasilishynkarenka.com/how-to-type-3x-faster

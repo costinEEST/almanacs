@@ -5,7 +5,6 @@
 - [HTML has native support for autocomplete-style dropdowns attached to inputs via the <datalist> element.](https://twitter.com/TejasKumar_/status/1194689434656088065)
 - [Make a custom select menu](https://twitter.com/scottjehl/status/1225507115172847618)
 
-
 ### CSS
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUcPyDx67bTPJBLauKMyfjlt
@@ -25,8 +24,6 @@
 - https://reading.supply/@jim/performance-when-animating-styles-C8MySv
 - http://fremycompany.com/BG/2016/Animate-width-from-zero-to-auto-kinda-895
 - https://fossheim.io/writing/posts/css-polaroid-camera
-
-
 
 ### Color
 
@@ -58,7 +55,6 @@
 - https://medium.com/google-design/the-best-design-books-that-arent-explicitly-about-design-74fc96ce115e
 - [Geometric computation foundation for design](https://twitter.com/hyper_yolo/status/1188018751330897920)
 - [Building Beautiful UIs](https://bbuis.org)
-- https://didoesdigital.com/project/design-for-engineers
 - https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html
 - https://briefbox.me recommended by [Thomas Lowry](https://twitter.com/negativespaceca)
 - https://trongnguyen.co/books-for-product-designers
@@ -138,7 +134,6 @@
 - https://growth.design/case-studies/tiktok-feed-psychology
 - https://userinyerface.com
 
-
 ### Portfolios
 
 - https://github.com/melanierichards/highlights
@@ -182,7 +177,6 @@
 - https://github.com/JCGrant/awesome-hamartian-design
 - [..articles in the frontend and web dev space that are timeless and changed your perspective in some way.](https://twitter.com/PKodmad/status/1194381059950927872)
 - https://github.com/neutraltone/awesome-stock-resources
-- https://didoesdigital.com/project/code-for-designers
 - https://github.com/baku89/ui-study
 - [A polyglot web converter.](https://github.com/ritz078/transform)
 - [Software Engineering for Startups (course)](https://github.com/CMU-17-356/cmu-17-356.github.io)

@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://jennywen.ca/books
 - [The Handbook of Healthcare Delivery Systems (reviewed by Gregory Schmidt)](https://m.youtube.com/playlist?list=PL7e8VJ_ZN6eqd8ceHTM3OYoThy21yIoJO)
@@ -31,7 +31,7 @@
 - [book to teach someone about _what_ design is and it's role in business](https://twitter.com/parkerhendo/status/1672396680355000320)
 - https://recursoscosmicos.com/libros/cheatsheets/product-design
 
-### Cinema
+# Cinema
 
 - [Design – Vox](https://m.youtube.com/playlist?list=PLJ8cMiYb3G5ciSdIo4uRt26NRxmVs0TTQ)
 - [Rams - Gary Hustwit](https://vimeo.com/404760526)
@@ -55,14 +55,14 @@
 - [Jimmy Huynh, industrial design](https://m.youtube.com/user/YourFavoriteAsianGuy)
 - [Icon speedruns | Marc Edwards](https://m.youtube.com/playlist?list=PLZRDXTOgbMthWhVM54mCiHYrCl_e6oZVb)
 
-### Course
+# Course
 
 - https://matthewstrom.com/ethics
 - https://blog.awaxman.com/product-design-resources
 - https://hackdesign.org/lessons
 - https://www.designacademy.io/free-course
 
-### Community
+# Community
 
 - https://www.facebook.com/lectiadedesign
 - [I hear a lot about how Stripe is the perfect example of good design.](https://twitter.com/kentcdodds/status/1219641103579779072)
@@ -73,7 +73,7 @@
 - [Katie Langerman](https://www.notion.so/Design-Engineer-Resources-419830805ba44911b2a96e36c09ecccc)
 - https://github.com/bradtraversy/design-resources-for-developers
 
-### Graphic design
+# Graphic design
 
 - https://www.amazon.com/Grid-Systems-Graphic-Design-Communication/dp/3721201450 - mentioned in https://learning.oreilly.com/library/view/graphic-icons-visionaries/9780133156195 and https://learning.oreilly.com/library/view/the-language-of/9781592536764
 - [Gráphagos: Evolutionary Algorithm as a Model for the Creative Process and as a Tool to Create Graphic Design Products | by Deniz Cem Önduygu](http://denizcemonduygu.com/thesis)
@@ -87,11 +87,11 @@
 - https://www.iconeye.com/design/best-graphic-designers-need-follow
 - https://www.goodreads.com/book/show/93976.The_Graphic_Language_of_Neville_Brody
 
-### Historic
+# Historic
 
 - [A curated collection of HCI demo videos produced during the golden age from 1983-2002](https://jackrusher.com/classic-ux) + https://m.youtube.com/@sigchi/playlists
 
-### Inspire
+# Inspire
 
 - https://component.gallery
 - https://www.designboom.com/art/artsupplies-worlds-most-googled-artists-03-10-2021
@@ -111,7 +111,7 @@
 - https://blog.hubspot.com/website/vintage-website-design
 - https://github.com/gaultier/resume
 
-### User experience (UX)
+# User experience (UX)
 
 - https://user-interface.io/how-to-design-almost-any-ui-element
 - https://www.freecodecamp.org/news/ui-ux-design-guide
@@ -132,7 +132,7 @@
 - https://github.com/pinzonjulian/ux-for-lean-startups-notes
 - https://blog.prototypr.io/the-most-underrated-section-of-design-portfolios-1afe14c9b047
 
-### Portfolio
+# Portfolio
 
 - https://arcana.computer/miscellany/this-site
 - https://brianlovin.com/writing/product-design-portfolios
@@ -145,12 +145,12 @@
 - [Dimitar Nestorov](https://dimitarnestorov.com)
 - [Sagir Khan](https://sagirk.com/#philosophy)
 
-### Theory
+# Theory
 
 - https://www.toptal.com/designers/ui/gestalt-principles-of-design
 - https://davidhoang.substack.com/p/applying-growth-design-and-prototyping
 
-### Tool
+# Tool
 
 - https://github.com/goabstract/Awesome-Design-Tools
 - https://andybudd.com/archives/2021/08/a-future-of-design-without-designers

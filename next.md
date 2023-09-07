@@ -39,7 +39,7 @@
 - https://github.com/muxinc/reactathon-workshop
 - https://pixelpoint.io/blog/next-image
 
-### Demo
+### Inspire
 
 - [An open-source link shortener with built-in analytics + free custom domains](https://github.com/steven-tey/dub)
 - https://github.com/healeycodes/healeycodes.com
@@ -66,6 +66,7 @@
 - [Educating the public about neurodiversity](https://github.com/alvarlagerlof/neurodiversity)
 - [Next.js, Prisma, Tailwind, Framer Motion, and Playwright](https://github.com/ElanMedoff/personal-site) + https://elanmed.dev/blog/how-i-built-my-blog
 - https://github.com/nbean452/portfolio
+- https://github.com/axeldelafosse/axeldelafosse
 
 ### Deploy
 

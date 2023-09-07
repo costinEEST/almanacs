@@ -285,6 +285,7 @@
 
 # Data visualization
 
+- [Diana MacDonald](https://buttondown.email/didoesdigital/archive)
 - https://alignedleft.com/resources/data-newsletters
 - [Studio Interrobang](https://us18.campaign-archive.com/home/?u=da42de3a9b43f1584f5b0c7d2&id=cb6b0eca26)
 - https://www.data-is-plural.com/archive
