@@ -1,14 +1,15 @@
-### Algorithm
+# Algorithm
 
 - [Minimal and clean examples of machine learning algorithms implementations](https://github.com/rushter/MLAlgorithms)
 
-### Artificial general intelligence (AGI)
+# Artificial general intelligence (AGI)
 
+- https://www.daveshap.io/books + https://github.com/daveshap/NaturalLanguageCognitiveArchitecture + https://github.com/daveshap/BenevolentByDesign
 - [Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI](https://youtu.be/cdiD-9MMpb0) + https://karpathy.medium.com/software-2-0-a64152b37c35 + https://tldrsec.com/blog/tldr-sec-167/#machine-learning
 - https://m.youtube.com/playlist?list=PL1v8zpldgH3qe4xqXgHPyfwJKckvZIjfp
 - https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence
 
-### Book
+# Book
 
 - https://plugaru.org/2021/03/10/a-thousand-brains
 - [Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook)
@@ -42,7 +43,7 @@
 - [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 
-### Cheat sheet
+# Cheat sheet
 
 - https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer
 - https://github.com/louisfb01/start-machine-learning + https://www.louisbouchard.ai/learnai
@@ -83,7 +84,7 @@
 - https://github.com/therealsreehari/Learn-Data-Science-For-Free
 - https://github.com/merveenoyan/my_notes
 
-### Course
+# Course
 
 - [Unconventional Ways to Learn More Online](https://jaredtumiel.github.io/blog/2020/05/12/three-rules.html)
 - https://github.com/microsoft/ML-For-Beginners
@@ -116,7 +117,7 @@
 - https://github.com/frnsys/ai_notes
 - https://github.com/dibgerge/ml-coursera-python-assignments
 
-### Cinema
+# Cinema
 
 - [RL Course by David Silver](https://m.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 - [CS294-112 Fall 2017 (deep RL course)](https://m.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
@@ -130,7 +131,7 @@
 - [Israel Algorithmic Game Theory Seminar](https://sites.google.com/view/iagtseminar)
 - https://github.com/benthecoder/yt-channels-DS-AI-ML-CS
 
-### Community
+# Community
 
 - [Amit Chaudhary](https://github.com/amitness/learning#specialized-skills)
 - Suzana Ilić: [Twitter](https://twitter.com/suzatweet), [Linkedin](https://www.linkedin.com/in/suzanailic/)
@@ -152,7 +153,7 @@
 - https://github.com/BAILOOL/DoYouEvenLearn
 - [https://www.facebook.com/groups/propBitDev](Artificial General Intelligence (AGI/ASI))
 
-### ChatGPT
+# ChatGPT
 
 - [Building Startups with an AI Co-Founder](https://github.com/jtmuller5/The-HustleGPT-Challenge)
 - https://github.com/logankilpatrick/ChatGPT-Plugins-Collection
@@ -166,7 +167,6 @@
 - https://github.com/stars/acheong08/lists/awesome-chatgpt
 - [A git prepare-commit-msg hook for authoring commit messages with GPT-3](https://github.com/zurawiki/gptcommit)
 - https://github.com/humanloop/awesome-chatgpt
-- https://m.youtube.com/@bakztfuture/playlists
 - https://github.com/morpheuslord/GPT_Vuln-analyzer
 - [Building a Virtual Machine Inside ChatGPT](https://news.ycombinator.com/item?id=33847479) + https://twitter.com/317070/status/1599152176344928256
 - [Building applications with LLMs through composability](https://github.com/hwchase17/langchain)
@@ -190,7 +190,6 @@
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/openai/openai-cookbook
 - https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash
-- https://m.youtube.com/@bakztfuture/videos
 - https://m.youtube.com/watch?v=mh7wzbWAHFE
 - https://github.com/sw33tLie/impressive-chatgpt
 - https://github.com/liady/ChatGPT-pdf
@@ -246,11 +245,11 @@
 - [use OpenAI chat capabilities in your terminal](https://github.com/Ccastillo06/askgpt)
 - [The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)
 
-### Ernie
+# Ernie
 
 - https://morethanmoore.substack.com/p/baidus-ernie-bot-true-competition
 
-### Tool
+# Tool
 
 - [Curated list of libraries for a faster machine learning workflow](https://amitness.com/toolbox)
 - [Recommender systems (or recommendation engines)](https://github.com/grahamjenson/list_of_recommender_systems)
@@ -272,7 +271,7 @@
 - https://github.com/bharathgs/Awesome-pytorch-list
 - [If ChatGPT and Google Scholar got married, their child would be Consensus — an AI-powered search engine](https://twitter.com/MushtaqBilalPhD/status/1631262373393707014)
 
-### Neural network
+# Neural network
 
 - https://twitter.com/karpathy/status/1613578749509013504 + https://karpathy.ai/zero-to-hero.html + [The simplest, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT) + https://twitter.com/mlpowered/status/1615852047311704064
 - https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
@@ -282,11 +281,11 @@
 - https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 - https://github.com/humphd/have-fun-with-machine-learning
 
-### CNN
+# CNN
 
 - https://github.com/murari023/awesome-background-subtraction
 
-### Deep learning
+# Deep learning
 
 - [Background Matting is a project that uses deep learning to turn any background into a green screen with just a handheld camera.](https://github.com/senguptaumd/Background-Matting)
 - [An educational resource to help anyone learn deep reinforcement learning.](https://github.com/openai/spinningup)
@@ -305,12 +304,12 @@
 - [Elena Burceanu](https://ilarele.github.io/#teaching)
 - https://github.com/jacobhilton/deep_learning_curriculum
 
-### Natural language processing (NLP)
+# Natural language processing (NLP)
 
 - https://www.manning.com/liveprojectseries/math-for-machine-learning-ser
 - https://github.com/booknlp/booknlp
 
-### Paper
+# Paper
 
 - [Software engineering for artificial intelligence and machine learning software: A systematic literature review](https://arxiv.org/ftp/arxiv/papers/2011/2011.03751.pdf)
 - [Towards the First Machine Translation System for SumerianTransliterations](https://www.aclweb.org/anthology/2020.coling-main.308.pdf)
@@ -322,7 +321,7 @@
 - [On Hiding Neural Networks Inside Neural Networks | Chuan Guo, Ruihan Wu, Kilian Q. Weinberger](https://arxiv.org/abs/2002.10078)
 - [Open source science model trained on 48M scihub papers](https://galactica.org)
 
-### Demo
+# Demo
 
 - [Using AI and machine learning to help with Quran memorization and recitation.](https://twitter.com/caveheraa/status/1215787383494332416)
 - [An adblocker for live radio streams and podcasts. Machine learning meets Shazam.](https://github.com/adblockradio/adblockradio)
@@ -351,11 +350,11 @@
 - https://github.com/amrzv/awesome-colab-notebooks
 - https://reasonabledeviations.com/Projects/#mlstocks
 
-### Optical character recognition (OCR)
+# Optical character recognition (OCR)
 
 - https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html
 
-### Opinion
+# Opinion
 
 - https://plugaru.org/2016/04/24/future-of-humanity-and-strong-AI
 - https://thinkml.ai/top-5-ai-achievements-of-2020
@@ -369,14 +368,14 @@
 - https://github.com/davidbau/how-to-read-pytorch
 - http://incompleteideas.net/IncIdeas/BitterLesson.html
 
-### Security
+# Security
 
 - [Unencrypted PCIe traffic, to leak DNN models](https://arxiv.org/pdf/2006.12784v1.pdf)
 - [Automating Host Exploitation](https://github.com/mazen160/shennina)
 - https://github.com/DeepSpaceHarbor/Awesome-AI-Security
 - https://github.com/terjanq/hack-a-prompt
 
-### Deep learning
+# Deep learning
 
 - Book
   - https://github.com/the-deep-learners/deep-learning-illustrated
@@ -445,12 +444,12 @@
   - [Pytorch based speech enhancement toolkit](https://github.com/shahules786/mayavoz)
   - [Tool to help artists to prevent their artistic styles from being learned and mimicked by new AI-art models such as MidJourney, Stable Diffusion and their variants](https://glaze.cs.uchicago.edu/index.html)
 
-### Genetic algorithms
+# Genetic algorithms
 
 - Book
   - https://www.learningmachines101.com/book-review-markov-logic-interface-layer-artificial-intelligence
 
-### Machine learning
+# Machine learning
 
 - Algorithm
 
@@ -475,13 +474,13 @@
 - Historic
   - [Growing open-source from Torch to PyTorch](https://soumith.ch/posts/2021/02/growing-opensource) + https://thegradientpub.substack.com/p/soumith-chintala-pytorch
 
-### Neural network
+# Neural network
 
 - https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 - [Neural Networks from Scratch | sentdex](https://nnfs.io) + https://m.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
 - https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai
 
-### Natural language processing (NLP)
+# Natural language processing (NLP)
 
 - Cheat sheet
   - https://huggingface.co/course + https://youtu.be/sUt-YV5bPXA
@@ -493,4 +492,4 @@
 - Course
   - https://github.com/yandexdataschool/nlp_course + https://lena-voita.github.io/nlp_course.html
 
-### Robotics
+# Robotics

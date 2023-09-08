@@ -99,6 +99,7 @@
 - [DataTalks](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa)
 - [Shubham Saboo](https://unwindai.substack.com/archive)
 - [Alex Volkov](https://thursdai.substack.com/archive)
+- [Bakz T. Future](https://bakztfuture.substack.com/archive)
 
 # Book
 
