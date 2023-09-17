@@ -360,6 +360,7 @@
 # new SharedArrayBuffer()
 
 - https://blogtitle.github.io/using-javascript-sharedarraybuffers-and-atomics
+- [Transferring data across the JS/Wasm boundary typically involves copying memory](https://twitter.com/paulgb/status/1700148548887581073)
 
 # new Date()
 

@@ -1,8 +1,8 @@
-### Bot
+# Bot
 
 - [GPT4 & LangChain Chatbot for large PDF docs](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
-### Boilerplate
+# Boilerplate
 
 - https://github.com/gmpetrov/ultimate-saas-ts
 - https://github.com/timlrx/tailwind-nextjs-starter-blog
@@ -31,7 +31,7 @@
 - [Generates group pot luck dinner recipes for you using AI](https://github.com/johnpolacek/botluck) + https://johnpolacek.com/playing-with-open-ai-api
 - [The Atlassian's Statuspage Open Source Alternative](https://github.com/openstatushq/openstatus)
 
-### Cheat sheet
+# Cheat sheet
 
 - https://joshmo.hashnode.dev/nextjs-and-rust-an-innovative-approach-to-full-stack-development
 - https://maxleiter.com/blog/build-a-blog-with-nextjs-13
@@ -39,7 +39,7 @@
 - https://github.com/muxinc/reactathon-workshop
 - https://pixelpoint.io/blog/next-image
 
-### Inspire
+# Inspire
 
 - [An open-source link shortener with built-in analytics + free custom domains](https://github.com/steven-tey/dub)
 - https://github.com/healeycodes/healeycodes.com
@@ -67,8 +67,9 @@
 - [Next.js, Prisma, Tailwind, Framer Motion, and Playwright](https://github.com/ElanMedoff/personal-site) + https://elanmed.dev/blog/how-i-built-my-blog
 - https://github.com/nbean452/portfolio
 - https://github.com/axeldelafosse/axeldelafosse
+- https://github.com/Scrump31/scottiecrump.com
 
-### Deploy
+# Deploy
 
 - [Next.js SPA example with dynamic client-only routing and static hosting](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
 - https://whiskeywebandwhatnot.fm/nextjs-vercel-and-subscription-models
@@ -78,29 +79,30 @@
 
 - [Deep Dive: Caching and Revalidating](https://github.com/vercel/next.js/discussions/54075)
 
-### Opinion
+# Opinion
 
 - https://bradgarropy.com/blog/next-over-remix
 - https://twitter.com/ImSh4yy/status/1671251883913285632
 
-### Package
+# Package
 
 - https://github.com/garmeeh/next-seo
 - [WordPress-like CMS](https://github.com/CromwellCMS/Cromwell)
 
-### Serverless
+# Serverless
 
 - [Serverless Web Applications with React and Next.js](https://github.com/scastiel/job-board-book-example)
 
-### Testing
+# Testing
 
 - [Testing Next.js Apps with Jest, Testing Library and Cypress](https://www.udemy.com/course/nextjs-testing)
 - https://massimilianomirra.com/notes/test-driven-development-of-nextjs-api-routes
 - https://github.com/stuyy/nextjs-react-unit-testing-tutorial-typescript + https://youtu.be/Q-Sg4p_iQvw
 
-### Watch
+# Watch
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUe0b-FOvDYr0vKJHYLX3SP1
 - https://www.freecodecamp.org/news/create-a-personal-website-with-next-js-13-sanity-io-tailwindcss-and-typescript
 - https://addyosmani.com/blog/react-server-components-app-router
 - https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt + https://github.com/judygab/course-app
+- https://github.com/nishant-666/Drive-2.0 + https://www.youtube.com/playlist?list=PLWgH1O_994O90Wg8GiPpfzaZUfgSYHd6L + https://www.freecodecamp.org/news/full-stack-web-development-by-building-a-google-drive-clone-nextjs-firebase

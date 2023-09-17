@@ -1,10 +1,14 @@
-### Book
+# Book
 
 - https://www.amazon.com/Dan-Gookins-Guide-Curl-Programming-ebook/dp/B07ZS294W6
 - https://github.com/bobeff/programming-math-science#command-line-and-tools
 - https://github.com/bagder/everything-curl
 
-### Tool
+# Cheat sheet
+
+- [The curl-wget Venn diagram](https://news.ycombinator.com/item?id=37378669)
+
+# Tool
 
 - [HTTP client devtool, similar to Postman or Insomnia, but completely text-based](https://github.com/sharat87/prestige)
 - https://github.com/curlconverter/curlconverter
@@ -17,7 +21,7 @@
 - [A script to download an iso image and flash it to device simultaneously](https://github.com/ariselseng/iso-download-and-flash)
 - [reverse shell using curl](https://github.com/irsl/curlshell)
 
-### Practice
+# Practice
 
 - https://dev.to/peterc/how-to-make-curl-request-a-site-from-a-different-ip-than-in-dns-4n45
 - https://r2c.dev/blog/2020/exploiting-dynamic-rendering-engines-to-take-control-of-web-apps

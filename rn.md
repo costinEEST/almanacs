@@ -1,4 +1,4 @@
-### Application
+# Application
 
 - https://github.com/sonnylazuardi/react-native-nike-running
 - [start building apps ..](https://twitter.com/danituits/status/1217950948976463872)
@@ -31,8 +31,9 @@
 - [translates between russian and english](https://github.com/narendrasss/vokab)
 - [The Bluesky Social application for Web, iOS, and Android](https://github.com/bluesky-social/social-app)
 - https://github.com/jeromedalbert/real-world-react-native
+- [The simplest, safest, and most powerful self-custodial crypto wallet](https://github.com/Uniswap/wallet)
 
-### Cinema
+# Cinema
 
 - https://github.com/tiaanduplessis/awesome-react-native-talks
 - [The App - William Candillon](https://m.youtube.com/playlist?list=PLkOyNuxGl9jz8XYVtbZzwc8tiBas9Zde-)
@@ -43,7 +44,7 @@
 - [React Native Live | Infinite Red](https://m.youtube.com/playlist?list=PLFHvL21g9bk1VLtNYIDk8VrPyN3hyWl44)
 - https://github.com/software-mansion-labs/drawings-and-animations-workshop
 
-### Course
+# Course
 
 - https://github.com/dabbott/react-native-express
 - https://github.com/wix/react-native-crash-course
@@ -55,19 +56,19 @@
 - https://www.udemy.com/course/full-stack-mobile-application-development-master-class
 - https://github.com/flexbox/react-native-bootcamp + https://twitter.com/flexbox_/status/1497654821528256520
 
-### Community
+# Community
 
 - Caleb Nance: https://github.com/calebnance?tab=repositories + https://learnreactnative.dev + https://twitter.com/calebnance/status/1349351148889714689
 - https://semaphoreci.com/blog/react-native
 
-### Book
+# Book
 
 - https://www.manning.com/books/react-native-in-action
 - https://github.com/unbug/react-native-train
 - https://flexbox.medium.com/how-i-wrote-and-published-the-road-to-react-native-book-7ca80fa2fd88
 - https://github.com/PacktPublishing/Simplifying-State-Management-in-React-Native
 
-### Boilerplate
+# Boilerplate
 
 - [A boilerplate for TypeScript + Expo + Apollo Client v3 + React Navigation v5](https://twitter.com/dai_shi/status/1213241999484059648)
 - https://github.com/entria/entria-fullstack
@@ -82,7 +83,7 @@
 
 - https://github.com/bojie-liu/react-native-quickjs
 
-### Internal
+# Internal
 
 - http://blog.nparashuram.com/2019/01/react-natives-new-architecture-glossary.html
 - https://github.com/barthap/discovering-turbomodules
@@ -93,7 +94,7 @@
 - https://medium.com/ocp-digital-factory/how-react-native-became-performant-as-native-with-the-new-architecture-6e678c3178aa
 - https://nshipster.com/javascriptcore
 
-### Tool
+# Tool
 
 - [Analyse your React Native bundle in 1 command ](https://github.com/JonnyBurger/npx-visualize-bundle)
 - [How can I read an android config from build gradle from the js?](https://github.com/ismaeldcom/react-native-build-config)
@@ -105,7 +106,7 @@
 - [I can’t prove this but I suspect if someone built a Next.js/Remix/etc for React Native (i.e. single codebase for client and server) they would make a trillion dollars](https://twitter.com/acdlite/status/1489755769876754434)
 - https://github.com/ammarahm-ed/nativescript-render-perf-test
 
-### Testing
+# Testing
 
 - [Test-Driven Development in React Native](https://m.youtube.com/playlist?list=PLXXnezSEtvNPZroRdvjhEVzOhURl572Lf)
 - https://github.com/matijagrcic/react-native/blob/main/Testing.md + https://twitter.com/wcandillon/status/1438763533303533568
@@ -113,7 +114,7 @@
 - https://docs.expo.dev/build-reference/e2e-tests + https://www.bogdan.digital/react-native/how-to-run-detox-with-expo-eas-builds-and-write-mocks-for-it
 - https://github.com/microsoft/react-native-test-app
 
-### Development
+# Development
 
 - https://www.giacomocerquone.com/blog/start-with-react-native
 - https://thoughtbot.com/blog/simplifying-react-native-development-with-expo
@@ -174,7 +175,7 @@
 - https://javascript.plainenglish.io/react-native-new-architecture-old-vs-new-d0130f42bc79
 - https://github.com/EvanBacon/expo-mdx
 
-### Package
+# Package
 
 - https://twitter.com/calintamas2/status/1255568420470431744
 - https://github.com/mmazzarolo/react-native-dialog
@@ -206,7 +207,7 @@
 - https://github.com/MinaSamir11/react-native-in-app-review
 - https://github.com/RonRadtke/react-native-blob-util
 
-### Debugging
+# Debugging
 
 - [How to Debug React Native Apps in Development and Production by Handlebar Labs](https://m.youtube.com/playlist?list=PLG02JlJZbKbv7OKf9SC6EjpA4vGYa5Zkg)
 - https://blog.assetnote.io/bug-bounty/2020/02/01/expanding-attack-surface-react-native + https://twitter.com/infosec_au/status/1223900898889355264
@@ -220,7 +221,7 @@
 - https://github.com/vrozaev/react-native-screens-text-input-bug-reproduce
 - https://shopify.engineering/measuring-react-native-rendering-times
 
-### Performance
+# Performance
 
 - https://medium.com/better-programming/4-lesser-known-performance-tips-to-improve-user-experience-in-react-native-apps-6f2dc8c45623
 - https://bullet-train.io/blog/react-native-performance-monitor
@@ -239,6 +240,6 @@
 - https://github.com/bamlab/react-native-flipper-performance-monitor
 - https://github.com/bamlab/android-performance-profiler
 
-### Radio
+# Radio
 
 - https://reactnativeradio.com/episodes/rnr-198-machine-learning-and-react-native + https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3

@@ -121,6 +121,7 @@
 - https://blog.albingroen.com/posts/2021-work-from-home-setup
 - https://catid.io/posts/tools
 - https://uses.craftz.dog
+- https://sunnysingh.io/blog/wfh-setup
 
 ### Webcam
 

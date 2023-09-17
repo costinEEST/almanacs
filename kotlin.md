@@ -9,6 +9,7 @@
 - https://www.raywenderlich.com/books/kotlin-apprentice
 - https://github.com/andygrove/how-query-engines-work
 - https://pragprog.com/titles/uboop/from-objects-to-functions
+- https://leanpub.com/how-query-engines-work + https://andygrove.io/2020/02/how-query-engines-work + https://howqueryengineswork.com + https://news.ycombinator.com/item?id=37415494 + https://leanpub.com/podcasts/frontmatter/andy-grove-17-02-21
 
 ### Cinema
 

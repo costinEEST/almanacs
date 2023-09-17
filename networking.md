@@ -1,4 +1,4 @@
-### Advices
+# Advices
 
 - [You don't need to be a .pcap reading God, just learn the fundamentals](https://twitter.com/Teck923/status/1205155221271433217)
 
@@ -6,7 +6,7 @@
 
 - https://kognise.dev/writing/arp + https://github.com/kognise/arpchat
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUdM5w5thzXQdyVi_MPcktVC
 - [Nicholas Andre](https://m.youtube.com/user/mrnickandre/videos)
@@ -27,7 +27,7 @@
 * https://passthesalt.ubicast.tv/videos/use-of-machine-and-deep-learning-on-rf-signals
 * https://m.youtube.com/@TheArtofNetworkEngineering/videos
 
-### Book
+# Book
 
 - [TCP/IP Guide - Charles M. Kozierok](https://learning.oreilly.com/library/view/tcpip-guide/9781593270476)
 - [Practical Packet Analysis, 3rd Edition. Using Wireshark to Solve Real-World Network Problems](https://nostarch.com/packetanalysis3)
@@ -42,12 +42,12 @@
 - [An Introduction to Computer Networks | Peter L Dordal](http://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf)
 - [Private 5G: A Systems Approach | Larry Peterson, Oguz Sunay, and Bruce Davie](https://5g.systemsapproach.org)
 
-### Communities
+# Communities
 
 - https://www.professormesser.com/category/free-a-plus-training/a-plus-study-group
 - https://twitter.com/malware_traffic
 
-### Course
+# Course
 
 - [CSC3600 Network Programming](https://github.com/pkivolowitz/CSC3600-S-2023)
 - [CS 450: Introduction to Networking](https://www.cs.uic.edu/~ckanich/cs450/s17/syllabus.html)
@@ -57,7 +57,7 @@
 - [computer networks on docker | Sergiu Nisioi](https://github.com/senisioi/computer-networks)
 - [Rețele Locale](https://ocw.cs.pub.ro/courses/rl)
 
-### Tool
+# Tool
 
 - https://www.chappell-university.com/lauras-lab
 - https://www.malware-traffic-analysis.net/
@@ -85,13 +85,13 @@
 - https://blog.kanbach.org/post/how-to-permanently-change-a-mac-address-using-ethtool
 - [VPN from Windows to Linux: WireGuard working example](https://yurichev.org/wireguard)
 
-### The Open Systems Interconnection model (OSI)
+# The Open Systems Interconnection model (OSI)
 
 - https://ahmadnassri.com/blog/modern-application-model
 - https://github.com/bkimminich/it-security-lecture/blob/master/slides/01-04-network_security.md#osi-network-layer-model
 - https://github.com/jivoi/offsec_pdfs/blob/master/OSI-model.jpg
 
-### Routing
+# Routing
 
 - [Routing by internet-class](https://m.youtube.com/playlist?list=PLk97mPCd8nvZJs7DyfPgiUDovil2K7axM)
 - https://github.com/bsclifton/home-router-config
@@ -105,7 +105,7 @@
 - [Computer Networking in Layman's Terms](https://twitter.com/iximiuz/status/1450864740645941248)
 - https://tailscale.com/blog/how-nat-traversal-works
 
-### Telecommunications
+# Telecommunications
 
 - [Repository of Radio tools](https://initrd.net)
 - [Ultrasonic Communication](http://alumni.media.mit.edu/~wiz/ultracom.html)
@@ -156,12 +156,12 @@
 - [all the tones and cadences used in call progress tones worldwide](https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.180-2010-PDF-E.pdf)
 - [Firewalls and Internet Security, Second Edition](https://www.wilyhacker.com) + https://mastodon.social/@SteveBellovin@mastodon.lawprofs.org/110177420981303376
 
-### Radio-frequency identification (RFID)
+# Radio-frequency identification (RFID)
 
 - https://twitter.com/herrmann1001/status/1604548091922767872
 - https://kuenzi.dev/toothbrush
 
-### Software-defined radio (SDR)
+# Software-defined radio (SDR)
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUcS1Rd3toiopH4QsPaLASfJ
 - https://github.com/Alevsk/radio + https://github.com/Alevsk/speaker/tree/main/radio-hacking-intro-sdr
@@ -199,12 +199,12 @@
 - [Smart Meter Hacking | RECESSIM](https://m.youtube.com/playlist?list=PLYlhncU2MojDY9gxU36pxNVkiylGGcbwq) + https://wiki.recessim.com/view/Advanced_Metering_Infrastructure
 - https://wiki.recessim.com/view/Amateur_Radio
 
-### 3G
+# 3G
 
 - https://twitter.com/matthew_d_green/status/1405169181880893447 + https://eprint.iacr.org/2021/819
 - https://docs.huihoo.com/nullcon/goa2015/mobile-self-defence.pdf
 
-### 5G
+# 5G
 
 - https://ieeetv.ieee.org/conference-highlights/integrated-access-and-backhaul-in-5g-navid-abedini-ieee-sarnoff-symposium-2019
 - https://www.cccblog.org/2020/04/01/5g-security-and-privacy-a-research-roadmap
@@ -213,12 +213,12 @@
 - https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols
 - [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org) + https://m.youtube.com/playlist?list=PLsLX2lpKnQUv6nako9_whmzQ3Me-_59PC
 
-### Border Gateway Protocol (BGP)
+# Border Gateway Protocol (BGP)
 
 - https://ixpm.interlan.ro/peering-matrix + https://github.com/inex/IXP-Manager
 - [how we deployed a datacenter in one click](https://vincent.bernat.ch/en/blog/2021-frnog34-jerikan)
 
-### IP
+# IP
 
 - https://github.com/jbranchaud/til/blob/master/devops/resolve-the-public-ip-of-a-url.md + https://stackoverflow.com/a/44372558
 - https://github.com/jbranchaud/til/blob/master/devops/path-of-the-packets.md
@@ -232,7 +232,7 @@
 - https://github.com/jivoi/pentest/blob/master/notes/ipv6_tcpip_pocketguide.pdf
 - [What do you use for DHCP in your homelab?](https://twitter.com/TechnoTimLive/status/1606304371095977985)
 
-### Domain Name System (DNS)
+# Domain Name System (DNS)
 
 - [DNSSEC Deconstructed](https://dkp.ldd.org/2019/10/21/dnssec.html)
 - https://carlos.bueno.org/2009/11/dismal-guide-to-dns.html
@@ -270,7 +270,7 @@
 - [Tools for managing DNS across multiple providers](https://github.com/octodns/octodns)
 - [detects dangling DNS record in a multi cloud environment](https://github.com/anirudhbiyani/findmytakeover)
 
-### TCP/UDP
+# TCP/UDP
 
 - https://argp.github.io/2006/03/05/vint-cerfs-talk
 - [How to build a TCP proxy #1: Intro](https://twitter.com/binitamshah/status/1210941026833092608)
@@ -291,7 +291,7 @@
 - https://media.ccc.de/v/denog13-12067-enhancing-ping-and-traceroute
 - [Tunneling Internet traffic over Whatsapp](https://github.com/aleixrodriala/wa-tunnel)
 
-### HTTP
+# HTTP
 
 - https://github.com/trimstray/nginx-admins-handbook/blob/master/doc/HTTP_BASICS.md
 - [Notes from the "HTTP Desync Attacks: Request Smuggling Reborn" talk](https://twitter.com/dcuthbert/status/1202227152525123586) + https://medium.com/bugbountywriteup/crossing-the-borders-the-illegal-trade-of-http-requests-57da188520ca
@@ -304,7 +304,7 @@
 - [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) + https://twitter.com/albinowax/status/1455825085261127686
 - https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en + https://github.com/ZeddYu/HTTP-Smuggling-Lab
 
-### HTTP headers
+# HTTP headers
 
 - https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-http-headers--web-linters
 - https://learning.oreilly.com/library/view/http-the-definitive/1565925092
@@ -335,7 +335,7 @@
 - https://notes.normally.com/cookieless-unique-visitor-counts
 - https://sivapraveenr.medium.com/behind-the-scenes-of-y2z-travels-a-security-ranking-and-compliance-with-pcidss-hipaa-and-nist-f8319a25c99a
 
-### HTTPS
+# HTTPS
 
 - https://github.com/EFForg/https-everywhere
 - https://github.com/juliensobrier/https-erverywhere-ie
@@ -345,12 +345,12 @@
 - https://vincent.bernat.ch/en/blog/2011-ssl-session-reuse-rfc5077
 - https://blog.heckel.io/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone
 
-### HTTP2
+# HTTP2
 
 - https://github.com/bagder/http2-explained + https://daniel.haxx.se/http2
 - https://github.com/hex13/javascript-visual-explanations#web-protocols
 
-### HTTP/3
+# HTTP/3
 
 - https://http3-explained.haxx.se/en
 - https://twitter.com/jgbarah/status/1177480451193131009
@@ -364,7 +364,11 @@
 - https://twitter.com/xargsnotbombs/status/1517505549272682496
 - https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement
 
-### Secure Shell
+# Kermit protocol
+
+- [Kermit Project books and articles online](https://news.ycombinator.com/item?id=37367288)
+
+# Secure Shell
 
 - https://gravitational.com/blog/how-to-ssh-properly
 - https://twitter.com/infosec_scarlet/status/1354528499105636353
@@ -375,11 +379,11 @@
 - https://blog.daviddworken.com/posts/keybase-ssh
 - [Determine Who Can Log In to an SSH Server](https://www.agwa.name/blog/post/whoarethey)
 
-### Jaber
+# Jaber
 
 - https://dino.im/blog/2020/01/dino-0.1-release
 
-### Network Time Protocol (NTP)
+# Network Time Protocol (NTP)
 
 - https://sookocheff.com/post/time/how-does-ntp-work
 - https://servertest.online/ntp
@@ -390,11 +394,11 @@
 - https://blog.apnic.net/2022/12/09/securing-ntp-against-mitm-attacks
 - https://www.cloudflare.com/learning/ddos/ntp-amplification-ddos-attack
 
-### Server Sent Events
+# Server Sent Events
 
 - https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug + https://twitter.com/b0rk/status/1348998823180382208
 
-### Simple Mail Transfer Protocol (SMTP)
+# Simple Mail Transfer Protocol (SMTP)
 
 - [An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures](https://github.com/chenjj/espoofer)
 - https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse
@@ -406,7 +410,7 @@
 - [Send free transactional emails from Vercel Edge Functions](https://github.com/Sh4yy/vercel-email) + https://twitter.com/ImSh4yy/status/1669369698557755392
 - [Send free transactional emails from your Cloudflare Workers using MailChannels](https://github.com/Sh4yy/cloudflare-email)
 
-### WebSockets
+# WebSockets
 
 - ![alt text](https://miro.medium.com/max/2503/1*xG6z--Cc_556TAfhVD17tQ.png "Comparison of WebSockets, Server-Sent Events and Long polling")
 - https://github.com/facundofarias/awesome-websockets#protocols-and-apis
@@ -438,11 +442,11 @@
 - https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io
 - https://mmmds.pl/Damn-Vulnerable-Web-Sockets-walkthrough
 
-### Server-Sent Events (SSE)
+# Server-Sent Events (SSE)
 
 - https://simonprickett.dev/a-look-at-server-sent-events
 
-### P2P
+# P2P
 
 - https://github.com/kgryte/awesome-peer-to-peer
 - https://fiatjaf.com/759be3e8.html
@@ -455,7 +459,7 @@
 - [Easily and securely send files and folders from one computer to another. End-to-end encryption using PAKE, cross-platform (Windows, Linux, Mac), allows resuming interrupted transfers, and more](https://github.com/schollz/croc)
 - https://ingrids.space/posts/why-distributed-systems-dont-work
 
-### InterPlanetary File System (IFPS)
+# InterPlanetary File System (IFPS)
 
 - https://github.com/ipfs-shipyard/ipfs-primer + https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content + https://legacy.gitbook.com/book/flyingzumwalt/ipfs-primer/details
 - https://www.scriptjunkie.us/2020/01/dispelling-decentralization-doubts + https://twitter.com/scriptjunkie1/status/1218213716648497152
@@ -467,21 +471,21 @@
 - https://savjee.be/videos/simply-explained/ipfs-interplanetary-filesystem
 - https://github.com/juanguren/BookPortal
 
-### Internet Service Provider (ISP)
+# Internet Service Provider (ISP)
 
 - [Build your own Internet | Billie Hilton](https://m.youtube.com/playlist?list=PLbjZkI1beTSOZgCDL6LJHBhBrnhEmaWdt)
 - [Set of tools to help you build your own privacy network over internet](https://www.v2ray.com/en) + https://github.com/v2fly/v2fly-github-io
 - https://nelsonslog.wordpress.com/2023/02/06/isp-connection-monitoring-with-irtt
 
-### SRP
+# SRP
 
 - https://www.onaralili.com/posts/srp
 
-### MAC
+# MAC
 
 - https://github.com/RichardLitt/knowledge/blob/master/general/things-to-do-without-internet.md + https://github.com/feross/spoof
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/jbenet/random-ideas/issues
 - https://github.com/alphaSeclab/awesome-network-stuff/blob/master/Readme_en.md

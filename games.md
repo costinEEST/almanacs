@@ -1,4 +1,4 @@
-### Browser based
+# Browser based
 
 - https://github.com/Martin-Pitt/awesome-frontend-games
 - https://github.com/js13kGames/resources
@@ -50,7 +50,7 @@
 - https://github.com/SaraVieira/lets-play-retro-games
 - https://github.com/kheeyaa/Snack-Games
 
-### Mobile based
+# Mobile based
 
 - https://github.com/gabrielecirulli/2048
 - [What are some good iOS multi player games to play casually with friends while we’re sheltered-in?](https://twitter.com/_ryannystrom/status/1241172934414213121)
@@ -59,12 +59,12 @@
 - https://questagame.com
 - https://www.inaturalist.org
 
-### Desktop based
+# Desktop based
 
 - [Shenzhen I/O is a puzzle game that teaches how to build circuits and write assembly code based on provided elements](http://www.zachtronics.com/shenzhen-io) + [Shenzhen I/O | Scott Manley](https://m.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
 - [Flappy bird in JS using Raylib](https://github.com/arthurmassanes/flappy)
 
-### Development
+# Development
 
 - https://github.com/kareniel/awesome-ctf-challenge-design + https://m.youtube.com/playlist?list=PLox242_JhiuGnnFWFgt9tRVMkqkdz5cM-
 - https://github.com/EnclaveGames/HTML5-Gamedev-Starter
@@ -116,8 +116,9 @@
 - [Learning C# by Programming Games, second edition](https://github.com/egges/csharpgames)
 - [Convert classic Apple II games to runnable C code](https://github.com/tmikov/apple2tc)
 - [Build and Publish Roguelike Genre Games with JavaScript and Phaser](https://github.com/Apress/roguelike-development-javascript) + https://books2read.com/u/mZeXXe
+- [Build Your Own Flight Sim In C++ (DOS GameDev) by Michael Radtke & Chris Lampton](https://news.ycombinator.com/item?id=37358063)
 
-### The creators
+# The creators
 
 - https://www.dicebreaker.com/topics/richard-garfield/feature/richard-garfield-interview-making-games
 - http://www.zachtronics.com/podcast
@@ -137,12 +138,12 @@
 - [Floor796 “is an ever-expanding animation scene showing the life of the 796th floor of the huge space station! The goal of the project is to create as huge animation as possible, with many references to movies, games, anime and memes”. Drag around and click to find out more](https://m.youtube.com/channel/UCribkEGzOuMQ9ozb0ektMCQ)
 - [How Flash Games Shaped the Video Game Industry - A visual essay about the Flash games era with contributions from more than 20 former Flash game developers](https://www.flashgamehistory.com) + https://twitter.com/JGamesCh/status/1285960536862216192
 
-### Opinion
+# Opinion
 
 - https://blog.vivekhaldar.com/post/50585082117/games-as-a-hook-into-cs
 - [On the Perceived Inevitability of Unreal](http://alextardif.com/Unreal.html) + https://twitter.com/longbool/status/1385028668116848640
 
-### Security
+# Security
 
 - https://guidedhacking.com/threads/the-history-of-game-hacking-aimbots.18758
 - https://github.com/dsasmblr/game-hacking
@@ -151,10 +152,10 @@
 - https://github.com/hexomethyl/minesweeper_internal
 - [Super Solvers: Gizmos & Gadgets](https://github.com/delan/reverssg)
 
-### Table
+# Table
 
 - https://brainbaking.com/links/#board-games
 
-### Watch
+# Watch
 
 - https://www.udemy.com/course/complete-every-project-you-start-be-your-own-producer

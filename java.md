@@ -50,6 +50,7 @@
 - https://github.com/Blankj/awesome-java-leetcode
 - https://sookocheff.com/post/java/java-for-the-experienced-beginner
 - https://www.todaysoftmag.ro/article/3890/ghidul-tau-rapid-pentru-arhitectura-aplicatiilor-java
+- [Java Virtual Machine specification](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)
 
 ### Cinema
 

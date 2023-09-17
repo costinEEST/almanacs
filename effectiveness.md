@@ -7,6 +7,7 @@
 - https://www.artofchording.com + https://news.ycombinator.com/item?id=24182336
 - https://vasilishynkarenka.com/how-to-type-3x-faster
 - http://www.baweaver.com/blog/2015/10/10/you-type-too-much
+- [Colemak typing lessons](https://github.com/gnusenpai/colemakclub)
 
 ### tmux
 

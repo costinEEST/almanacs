@@ -1,4 +1,4 @@
-### Alcohol
+# Alcohol
 
 - https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened + https://news.ycombinator.com/item?id=25887200
 - [Uncorking the Past The Quest for Wine, Beer, and Other Alcoholic Beverages | Patrick E. McGovern](https://www.ucpress.edu/book.php?isbn=9780520267985)
@@ -13,20 +13,20 @@
 - [Short and fun history of beer and brewing told in a very practical manner](https://github.com/twirl/Beer-Lecture)
 - https://punchdrink.com/articles/nonalcoholic-beer-golden-age
 
-### Autism
+# Autism
 
 - https://www.academia.edu/43558273/Lost_in_Translation_Temple_Grandin_Sexual_Violence_and_The_Myth_of_Consent
 - https://youtu.be/eO-Tc46r-aQ
 
-### Blood
+# Blood
 
 - https://www.redpenreviews.org/reviews/eat-right-4-your-type-the-individualized-blood-type-diet-solution
 
-### Bacteria
+# Bacteria
 
 - https://www.udemy.com/course/practical-bacteriology-from-scratch
 
-### Brain
+# Brain
 
 - https://psyche.co/guides/how-to-stop-overthinking-with-help-from-metacognitive-strategies
 - [Psilocybin induces rapid and persistent growth of dendritic spines in frontal cortex in vivo](<https://www.cell.com/neuron/fulltext/S0896-6273(21)00423-2?_>)
@@ -48,7 +48,7 @@
 - https://knowablemagazine.org/article/mind/2022/how-brain-calculates-quick-escape
 - https://theconversation.com/when-critical-thinking-isnt-enough-to-beat-information-overload-we-need-to-learn-critical-ignoring-198549
 
-### Book
+# Book
 
 - [The Disease Delusion: Conquering the Causes of Chronic Illness for a Healthier, Longer, and Happier Life - Jeffrey Bland](https://www.amazon.com/gp/customer-reviews/R2SC5L9GQGZVXH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0062290738)
 - [Book reviews heart attack stroke prevention weight loss - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9xQaTKb5QTizgOHbRFuKVUu)
@@ -71,11 +71,11 @@
 - https://aaroniba.net/how-i-cured-my-rsi-pain + https://twitter.com/patrickc/status/1559737765566173185
 - https://www.amazon.com/Reps-Responders-Frank-Voce-ebook/dp/B0B55GVF98
 
-### Carbohydrates
+# Carbohydrates
 
 - https://www.amazon.com/Epi-paleo-Rx-Prescription-Disease-Reversal/dp/0989057739
 
-### Cinema
+# Cinema
 
 - [Benefits of Turmeric | NutritionFacts.org](https://m.youtube.com/playlist?list=PL5TLzNi5fYd9JWJdWb4rgzaMrPLoF8S7c)
 - https://www.udemy.com/course/tai-chi-chen-style-for-beginner-strengthens-mind-and-body
@@ -84,27 +84,27 @@
 - [Extra History: Medicine](https://m.youtube.com/playlist?list=PLhyKYa0YJ_5Dl5NX3frM2m-bnWam8TnC2)
 - Histoire du trafic de drogue: https://m.youtube.com/watch?v=nwvwQOe5Etw + https://m.youtube.com/watch?v=YE3xMlZaCmc + https://m.youtube.com/watch?v=6M5fKngFjZk
 
-### Cold
+# Cold
 
 - [What does an unheated room do to your body?](https://www.bbc.com/news/health-63602501)
 - https://www.vox.com/even-better/23570921/love-winter-layers-daylight-seasonal-depression
 - https://brr.fyi/posts/showering-at-the-south-pole + https://news.ycombinator.com/item?id=34658286
 
-### Course
+# Course
 
 - https://www.udemy.com/course/nutrition-masterclass-course
 - https://www.udemy.com/course/essential-oils-for-your-health
 - https://www.udemy.com/course/sports-nutrition-for-athletes-and-fitness-enthusiasts
 - [Maria Konovalenko](https://m.youtube.com/@MariaKonovalenko/videos)
 
-### Community
+# Community
 
 - https://5minutehealth.com/health-experts
 - https://github.com/aarvanet/longevity-events + https://github.com/aarvanet/longevity-news
 - [Plant-Forward Keto](https://www.facebook.com/groups/999537217510868)
 - https://ankushdatar.substack.com/p/the-citadel-of-health
 
-### Consciousness
+# Consciousness
 
 - https://www.amazon.com/Metazoa-Animal-Life-Birth-Mind/dp/0374207941
 - https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311 + https://twitter.com/curiouswavefn/status/1432888533933453318
@@ -113,7 +113,7 @@
 - https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation
 - [Mystic Chemist: The Life of Albert Hofmann and His Discovery of LSD](https://synergeticpress.com/catalog/mystic-chemist)
 
-### Cooking
+# Cooking
 
 - https://www.amazon.com/Taste-My-Life-Through-Food/dp/1982168013
 - [Low Carb and Keto Favorites | Mind Over Munch](https://m.youtube.com/playlist?list=PLt2c0hX1aB8r5FuCmgNpYrVtQxxiyIJik)
@@ -131,21 +131,21 @@
 - [Everything Marijuana, CBD, and Weed](https://www.humblebundle.com/downloads?key=pt2cAX8rd2XNkkUb)
 - [Open source book dedicated to helping you to make the best possible sourdough bread at home](https://github.com/hendricius/the-sourdough-framework) + https://m.youtube.com/@the_bread_code/playlists?view=1&sort=lad&flow=grid
 
-### Cholesterol
+# Cholesterol
 
 - [#CholesterolScience - Dave Feldman](https://m.youtube.com/playlist?list=PLWNQLvi9Q_zuigCB6JPmDQuR3TwfJO3QX)
 
-### Chocolate
+# Chocolate
 
 - [Cocoa and Chocolate](https://www.europeana.eu/en/set/5806)
 - https://pursuit.unimelb.edu.au/articles/why-we-judge-chocolate-by-its-cover
 - [Beginner's guide to dark chocolate tasting](https://www.anthonyhobday.com/blog/20200513.html)
 
-### Dairy
+# Dairy
 
 - https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study
 
-### Disease
+# Disease
 
 - https://prevmedhealth.com/the-end-of-alzheimers-by-dale-bredesen + https://youtu.be/wekW6wVpQFw
 - [Alzheimer’s Dementia - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9zqQxkYNBB1fcr34jmXg9_0)
@@ -168,15 +168,16 @@
 - https://inquisitivebiologist.com/2022/12/05/book-review-the-world-the-plague-made-the-black-death-and-the-rise-of-europe
 - https://henryaj.substack.com/p/how-to-treat-restless-legs-syndrome
 
-### Drug
+# Drug
 
 - https://adriancopcea.com/2022/08/14/iodul-in-sanatatea-umana-notiuni-elementare
 - https://sunlightenthusiast.wordpress.com/2022/07/25/how-to-understand-cough-medicines
 - https://www.haaretz.com/archaeology/2022-09-19/ty-article/.premium/bong-age-israeli-archaeologists-find-opium-in-bronze-age-ceramics/00000183-5036-d890-a593-dabefb7f0000
 - [Vlad Zaha](https://www.facebook.com/NicuStefanutaMEP/posts/pfbid0Nnz3LsZrQs1JNv8FL6nKXKNeoTh6bN8oPyb4g4avKxmhokAJqpmH2Z9KPSH7Bw1jl)
 - https://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater
+- [Psychonauts by Mike Jay review](https://news.ycombinator.com/item?id=37367882)
 
-### Grocery
+# Grocery
 
 - [What is Organics? - Paul Chek](https://m.youtube.com/playlist?list=PLZupSfb-NVbpltzWP1zcpVH7Nzd16_cQG)
 - https://andranistor.ro/2020/03/26/de-unde-cumparam-alimente-cand-nu-mai-merg-aplicatiile-cunoscute
@@ -185,7 +186,7 @@
 - https://shop.greensense.ro/fructe-crude/17-nuci-macadamia.html#/3-gramaj-1kg
 - https://shop.greensense.ro/fructe-crude/3-nuci-pecan.html#/3-gramaj-1kg
 
-### Gluten
+# Gluten
 
 - https://cresthospital.co.nz/hospital/specialist-directory/dr-kamran-rostami + https://twitter.com/KamranRostami15
 - [Jennifer Fugo talks about gluten free](https://m.youtube.com/user/jenfugo/playlists)
@@ -193,15 +194,15 @@
 - https://www.amazon.com/No-Grain-Pain-Eliminating-Chronic-ebook/dp/B00UDCHX4Q + [Is It Gluten Free? | Peter Osborne](https://m.youtube.com/playlist?list=PLboYkQmnpnCVrvzUo510KTWnUbmUEh81t) + https://www.glutenfreesociety.org/gluten-mimicking-foods
 - [Wheat Belly | William Davis](https://www.proteinpower.com/wheat-belly)
 
-### Heart
+# Heart
 
 - [Human Heart, Cosmic Heart: A Doctor’s Quest to Understand, Treat, and Prevent Cardiovascular Disease | Thomas Cowan](https://www.amazon.com/gp/customer-reviews/R31P5U3OKDHYDX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=1603586199)
 
-### Sex
+# Sex
 
 - https://www.theguardian.com/books/2021/may/14/oh-yes-the-best-books-about-sex
 
-### Sleep
+# Sleep
 
 - https://www.quora.com/What-are-some-good-chronobiology-books
 - http://circadiana.blogspot.com/2005/12/reading-recommendations-books-about.html
@@ -220,7 +221,7 @@
 - https://shehackspurple.ca/2023/06/04/wehackhealth-getting-better-sleep
 - https://hubermanlab.com/toolkit-for-sleep
 
-### Fitness
+# Fitness
 
 - https://chekinstitute.com/podcast-episode-notes/ep-18-evolve-yourself-physically
 - https://www.changemakeracademy.com/articles/health-fitness-continuing-education
@@ -242,11 +243,11 @@
 - https://youtu.be/a4viuDH4VeM?t=176 + https://www.powells.com/book/the-secret-to-superhuman-strength-9780544387652
 - https://www.udemy.com/course/program-to-lose-7kg-in-only-1-week
 
-### Injuries
+# Injuries
 
 - https://www.costinglavan.ro/vindeca-hernia
 
-### Fasting
+# Fasting
 
 - https://www.amazon.com/Science-Fine-Art-Fasting-ebook/dp/B07PPB99HR
 - [β-Hydroxybutyrate Prevents Vascular Senescence through hnRNP A1-Mediated Upregulation of Oct4](https://www.sciencedirect.com/science/article/pii/S1097276518306051)
@@ -261,19 +262,19 @@
 - [Intermittent Fasting Improves Long Term Memory](https://neurosciencenews.com/intermittent-fasting-neurogenesis-memory-18522)
 - https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention
 
-### Hair
+# Hair
 
 - https://starckmarcandthefarc.wordpress.com/2012/01/18/i-see-the-beard-and-cloak-but-i-dont-yet-see-a-philosopher-aulus-gellius
 
-### Hormones
+# Hormones
 
 - [Psychology Hacks to Activate Your Happiness Chemicals](https://twitter.com/UpSkillYourLife/status/1452278343743725578)
 
-### Hormesis
+# Hormesis
 
 - https://chrismasterjohnphd.substack.com/p/thyroid-toxins-today-only
 
-### Supplement
+# Supplement
 
 - https://www.health.harvard.edu/staying-healthy/listing_of_vitamins
 - https://masterpass.chrismasterjohnphd.com/dashboard
@@ -294,7 +295,7 @@
 - [Nutrition Crash Courses - The Ultimate Nutritional Information Library | Peter Osborne](https://m.youtube.com/playlist?list=PLboYkQmnpnCW_HnOrI_LLZi_uaYCUCsQP)
 - [Vitamins and Minerals | Peter Osborne](https://m.youtube.com/playlist?list=PLboYkQmnpnCUJ1FLWcYRKrVz4hbyRSLFj)
 
-### Vegetables
+# Vegetables
 
 - https://incredibleromania.com/curs-de-culegator-din-flora-spontana-foraging
 - https://chekinstitute.com/blog/eating-animals-a-moral-question
@@ -305,7 +306,7 @@
 - https://inquisitivebiologist.com/2019/11/25/book-review-slime-how-algae-created-us-plague-us-and-just-might-save-us
 - https://nolanlawson.com/2021/12/31/2021-book-review
 
-### Ketosis
+# Ketosis
 
 - https://perfectketo.com/guide/ultimate-start-guide-ketogenic-diet
 - https://www.udemy.com/course/ketosis-and-if-for-fat-loss
@@ -325,23 +326,23 @@
 - https://www.amazon.com/shop/neishalovesit/list/7EJ9Z7PG6E0H + https://m.youtube.com/playlist?list=PL48jnTudSMf-GD-xZ2REPzNKCdOFBqMsk
 - [Keto | Poker and Philosophy](https://m.youtube.com/playlist?list=PLIh3gtIvTRHE2X0Nz6QNQj5JtAD9nq-UX)
 
-### Meat
+# Meat
 
 - https://www.timesofisrael.com/for-2-million-years-humans-ate-meat-and-little-else-study
 
-### Cannabis
+# Cannabis
 
 - [#81 – Debra Kimless, M.D. & Steve Goldner, J.D.: Cannabis – the latest science on CBD & THC](https://peterattiamd.com/debrakimless-stevegoldner)
 - https://www.joe.co.uk/news/cannabis-compounds-could-prevent-infection-from-covid-according-to-study-310918
 - https://en.wikipedia.org/wiki/Les_Paradis_artificiels
 - https://en.wikipedia.org/wiki/List_of_books_about_cannabis
 
-### Tea
+# Tea
 
 - [Empire of Tea: The Asian Leaf that Conquered the World](https://www.amazon.com/Empire-Tea-Asian-Conquered-World/dp/1780234406)
 - https://www.ceai.info
 
-### Coffee
+# Coffee
 
 - https://blackwells.co.uk/bookshop/product/Lonely-Planets-Global-Coffee-Tour-by-Mike-Higgins-editor-Nick-Mee-editor-Yolanda-Zappaterra-editor/9781787013599
 - https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up
@@ -349,11 +350,11 @@
 - https://www.arcana.computer/blog/non-fungible-lattes
 - [A Treatise Concerning the Properties and Effects of Coffee (1792)](https://publicdomainreview.org/collection/moseley-coffee)
 
-### Fish
+# Fish
 
 - https://zilesinopti.ro/2022/06/12/6-restaurante-din-tara-cu-peste-sau-fructe-de-mare
 
-### Sugar
+# Sugar
 
 - [Is there a way to be prescribed a continuous glucose monitor without an insulin deficiency/diabetes?](https://twitter.com/Austen/status/1211144183018246144)
 - [Why Did Mexico Surpass America in Obesity?](https://twitter.com/notyetagm/status/1220352727546580997)
@@ -367,7 +368,7 @@
 - https://www.nationalgeographic.com/magazine/article/low-calories-sweeteners-might-not-be-as-good-for-us-as-we-thought
 - [Summary statistics on sugar, sugarbeets, sugarcane, corn sweeteners (dextrose, glucose, and high-fructose corn syrup), and honey](https://www.ers.usda.gov/data-products/sugar-and-sweeteners-yearbook-tables/documentation)
 
-### Skin
+# Skin
 
 - https://www.google.com/search?q=mucocutaneous+triad
 - https://www.emag.ro/totul-despre-alergii-earl-mindell-dr-pamela-wartian-smith-9786067890921/pd/DPDZGNBBM
@@ -381,20 +382,20 @@
 - https://iuva.org/resources/covid-19/Far%20UV-C%20Radiation-%20Current%20State-of%20Knowledge.pdf
 - https://www.discovermagazine.com/the-sciences/why-do-we-have-fingerprints
 
-### Gut
+# Gut
 
 - [Microbiome - YourekaScience](https://m.youtube.com/playlist?list=PLCjag94GB6w17vSjb5pgjM-HSpVK0IkPH)
 - https://inquisitivebiologist.com/2023/05/18/book-review-invisible-friends-how-microbes-shape-our-lives-and-the-world-around-us
 - [The gut biome and heart health - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9weTI4NF9TBxCenYKgUU8DS)
 - https://chriskresser.com/sibo-what-causes-it-and-why-its-so-hard-to-treat + https://pubmed.ncbi.nlm.nih.gov/33361039
 
-### Addictions
+# Addictions
 
 - https://www.amazon.com/Hedonic-Eating-Pleasure-Affects-Behavior/dp/019933045X
 - [Mindful eating and food addiction - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9zc29LI75JIkt-aUvG-ETIh)
 - https://bigthink.com/sex-relationships/love-addiciton
 
-### Ageing
+# Ageing
 
 - https://www.ldeming.com/longevityfaq
 - https://player.fm/series/the-ironman-executive/cracking-the-aging-code-with-josh-mitteldorf
@@ -424,7 +425,7 @@
 - https://neurosciencenews.com/exceptional-longevity-21888
 - https://www.theguardian.com/lifeandstyle/2022/nov/25/how-long-can-humans-live-we-ask-an-expert
 
-### Virus
+# Virus
 
 - https://formular.sts.ro + https://github.com/CSSEGISandData/COVID-19 + https://berthub.eu/articles/posts/corona-science + https://www.flattenthecurve.com + https://staythefuckhome.com + https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus + https://www.cnet.com/news/hospital-uses-vr-to-show-how-coronavirus-impacts-the-lungs + https://londonreal.tv/the-truth-behind-the-coronavirus-pandemic-covid-19-lockdown-the-economic-crash-david-icke + [CORONAVIRUS: Sfatul psihologului Daniel David](https://www.crowdcast.io/e/daniel-david-live/1) + [A recent Nature paper reveal a remarkable trick SARS-Cov-2 learned that makes it nastier than the first SARS.](https://twitter.com/PeterKolchinsky/status/1246975275021348865)
 - [Bio hacker's flu guide (e-book)](https://shop.biohackercenter.com/a/downloads/-/7a6e98bd51548749/410e6d9f1c7e39e0)
@@ -454,12 +455,12 @@
 - https://www.science.org/content/article/crispr-so-popular-even-viruses-may-use-it
 - [Physics of COVID-19 Transmission](https://mitxonline.mit.edu/courses/course-v1:MITxT+10.S95x)
 
-### Radiation
+# Radiation
 
 - https://phibetaiota.net/2020/02/arthur-firstenberg-the-invisible-rainbow-a-history-of-electricity-and-life-radiation-sickness-explains-all-past-and-present-flu-outbreaks-including-wuhan-virus-and-radiation-sickness-on-cruise-shi + https://podcasts.apple.com/gb/podcast/progressive-commentary-hour-invisible-rainbow-being/id453549934?i=1000467436348
 - https://thetruthaboutcancer.com/are-microwaves-safe
 
-### Tool
+# Tool
 
 - [A BitBar plugin that reminds you with sleep hygiene recommendations](https://github.com/edwardqiu/digital-zeitgebers)
 - [Conceptualizing Self-Tracking Tools and Data-Driven Technologies](https://datadrivenyou.com/quantified-self-mind-map)
@@ -487,11 +488,11 @@
 - [Calories counter](https://cronometer.com)
 - https://neo.life/2023/02/how-a-spit-test-could-determine-suicide-risk
 
-### Uric acid
+# Uric acid
 
 - https://en.wikipedia.org/wiki/Alexander_Haig_(physician)
 
-### Miscellaneous
+# Miscellaneous
 
 - [Lifestyle & Disease -History of preventive medicine - Ford Brewer MD MPH](https://m.youtube.com/playlist?list=PL0TLaocCMc9z_1YOf0VfvSOAJ2wsTr9tg)
 - https://singularityhub.com/2020/10/13/scientists-found-a-new-way-to-control-the-brain-with-light-no-surgery-required
@@ -500,12 +501,12 @@
 - https://nelsonslog.wordpress.com/2021/10/10/co2-sensing-and-air-circulation
 - https://chrismasterjohnphd.com/blog/2009/01/16/the-rockfeller-foundations-molecular-vision-of-life-how-the-aims-of-eugenics-social-control-and-human-engineering-shaped-molecular-biology-and-20th-century-science
 
-### DYI
+# DYI
 
 - [VentilatorPAL is a high-quality but low-cost, open source ventilator that can be bought or built by anyone for a fraction of the cost of commercial ventilators.](https://freebreathing.org)
 - [Make a face mask](https://makefacemasks.com)
 
-### Radio
+# Radio
 
 - [Freezing to (not) death: cryonics and the quest for immortality (with Max Marty)](https://www.popsci.com/technology/best-of-whats-new-2021)
 - https://dadamohousecall.com/blog/health-and-happiness-podcasts + https://www.facebook.com/groups/dadamopodcasts/posts/2630762083826894

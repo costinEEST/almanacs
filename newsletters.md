@@ -59,7 +59,6 @@
 - [Uniunea Arhitectilor din Romania](https://us10.campaign-archive.com/home/?u=e40fa82a9a796c8ea6cdfddca&id=94dec13101)
 - [Association of Significant Cemeteries of Europe](https://us2.campaign-archive.com/home/?u=288dde36eba285d02fe070285&id=d73be81bf9)
 - [Devon Marisa Zuegel](https://buttondown.email/devon/archive)
-- [De la sat](https://us7.campaign-archive.com/home/?u=3f14e3915e6bef8a3a4fd6c01&id=02b2b8a2b2&mc_cid=8a4861592d&mc_eid=75bebe984a)
 
 # Astrology
 
@@ -135,6 +134,7 @@
 - [The Twenty Minute VC](https://us9.campaign-archive.com/home/?u=26978998bec6ed24bec1e7831&id=efc94e0ecb)
 - [Romanian Science Digest](https://us20.campaign-archive.com/home/?u=d3ad9d295be41a9bc1cbeeb73&id=f0d9b7c9cf)
 - [Joshua Tiernan](https://tinyempires.substack.com/archive)
+- [Teodora Chinde: pentru antreprenori și experți în marketing, social media și branding](https://substack.com/@techtonikanewsletter)
 
 # Marketing
 
@@ -359,6 +359,8 @@
 - [Rachel Andrew](https://csslayout.news/archive)
 - [Denis Nuțiu](https://nuculabs.dev/archive)
 - [Code for Romania](https://us13.campaign-archive.com/home/?u=1bcbbbff5fbab7429738442f5&id=cb38ce1e2a)
+- [Ben Ilegbodu](https://buttondown.email/benmvp/archive)
+- [Sunny Singh](https://buttondown.email/sunnysingh/archive)
 
 # Web performance
 
@@ -477,6 +479,7 @@
 
 - [Patrick Loeber](https://patrickloeber.substack.com/archive)
 - [David Beazley](https://buttondown.email/dabeaz/archive)
+- [Allen Downey](https://substack.com/profile/149965273-allendowney)
 
 # Ruby
 

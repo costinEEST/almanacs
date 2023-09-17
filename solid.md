@@ -10,6 +10,7 @@
 # Opinion
 
 - https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob
+- [Server first framework](https://hackmd.io/@0u1u3zEAQAO0iYWVAStEvw/rJFCoM4Di)
 
 # Practice
 

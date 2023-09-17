@@ -9,6 +9,7 @@
 - https://github.com/rpeszek/IdrisTddNotes
 - [Effective Haskell](https://twitter.com/cercerilla/status/1584919134424408068)
 - https://github.com/unclechu/purescript-for-haskellers
+- https://nostarch.com/learn-physics-functional-programming + https://news.ycombinator.com/item?id=37391161
 
 # Community
 

@@ -1,4 +1,4 @@
-### Vocabulary
+# Vocabulary
 
 - [Vietnamese vocabulary list](https://github.com/hugo53/words-vi)
 - https://www.quora.com/How-come-Vietnamese-is-the-easiest-language-in-the-world-yet-not-many-people-learn-it
@@ -20,7 +20,7 @@
 - https://www.colingorrie.com/articles/learn-syntax
 - https://www.mayhplumb.com/learn-linguistics
 
-### Cinema
+# Cinema
 
 - [Easy German](https://m.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ/playlists) + https://seedlang.com
 - https://m.youtube.com/user/smartergerman/playlists
@@ -44,7 +44,7 @@
 - https://github.com/speaking-for-hackers/speaking-for-hackers-book
 - [Glimmer DSL for SWT Video Tutorials for Ruby Desktop GUI Development](https://m.youtube.com/playlist?list=PLSN9HhZ_0-n741vRa_dL-M81cLbqD_kem)
 
-### Book
+# Book
 
 - [Our Magnificent Bastard Tongue: The Untold History of English.](https://www.amazon.com/Our-Magnificent-Bastard-Tongue-History/dp/1592404944)
 - [Books on Linguistics and TESOL](https://m.youtube.com/playlist?list=PLOY-0V_l_9x5zyZvaYnc-TuZjDuX-txNS)
@@ -56,7 +56,7 @@
 - [Responsive Communication. Patterns for Making Sense](http://www.ankn.uaf.edu/curriculum/AxeHandleAcademy/rc/50patterns.htm)
 - https://www.amazon.com/Art-Rhetoric-Thomas-Wilson/dp/1849021198 + https://podcasts.google.com/feed/aHR0cHM6Ly9oaXN0b3J5b2ZlbmdsaXNocG9kY2FzdC5jb20vZmVlZC9wb2RjYXN0Lw/episode/aHR0cHM6Ly9oaXN0b3J5b2ZlbmdsaXNocG9kY2FzdC5jb20vP3A9MTI1OQ
 
-### Application
+# Application
 
 - https://medium.com/@GroundControl/introducing-benkyou-a-swipe-flashcard-app-for-learning-japanese-f6f278e05c8a + [Android](https://play.google.com/store/apps/details?id=fm.raf.benkyou)
 - https://tarjim.ly
@@ -66,7 +66,7 @@
 - https://en.wikipedia.org/wiki/List_of_language_self-study_programs
 - [Learn new vocabulary without any effort · checknlearn](https://checknlearn.com)
 
-### Tool
+# Tool
 
 - http://www.alljapaneseallthetime.com/blog
 - https://thewordcat.wordpress.com/2020/04/08/japanese-language-resources
@@ -86,15 +86,15 @@
 - https://lindiebotes.com/2022/10/12/9-quick-tips-to-find-resources-for-lesser-learned-languages
 - [Translation Studies | Dragos Ciobanu](https://m.youtube.com/playlist?list=PLu6mmTyxNzBBOCenc77wLrkuXtRsoEqWZ)
 
-### Communities
+# Communities
 
 - https://www.meetup.com/Deuscht-Lasst-uns-Deutsch-sprechen
 
-### Albanian
+# Albanian
 
 - https://biblioteca-digitala.ro/?descriptor=76079-albaneza
 
-### Chinese
+# Chinese
 
 - https://neustadt.fr/essays/china-one-nation-how-many-languages
 - https://lindiebotes.com/2020/06/26/how-to-learn-chinese-characters
@@ -130,7 +130,7 @@
 - https://biblioteca-digitala.ro/?pub=6303-sistemul-partilor-de-vorbire-in-gramatica-chineza
 - https://www.youtube.com/playlist?list=PL869716C3E54083CC
 
-### Arabic
+# Arabic
 
 - [LearnArabicwithMaha](https://m.youtube.com/playlist?list=PLDE670F8915C5902A)
 - https://www.amazon.com/Handbook-Language-Teaching-Professionals-Century-ebook-dp-B00KQOAC8A/dp/B00KQOAC8A
@@ -141,19 +141,19 @@
 - https://biblioteca-digitala.ro/?pub=6169-semantica-modalitatilor-in-limba-araba
 - https://www.youtube.com/playlist?list=PLP_gz3lCvyIZgRs0U6rCtMaR1DndV4WoV
 
-### Danish
+# Danish
 
 - https://sokolova.dk + https://twitter.com/sokolovadk
 - https://m.youtube.com/playlist?list=PLu3g1bSKNveY08T7o_hoFJSxyy6Svr8ex
 - https://github.com/simgunz/anki-decks_danish-ipa
 
-### Dutch
+# Dutch
 
 - https://github.com/Saffron97/Dutch-Vocab-Practice
 - https://artem-tyurin.medium.com/self-studying-dutch-to-pass-inburgering-exam-53d63cb3238
 - https://www.udemy.com/course/leer-nederlands-in-het-nederlands-1-voor-absolute-beginners-nt2-a1
 
-### English
+# English
 
 - [The English and their History - Robert Tombs](https://www.goodreads.com/book/show/23569457-the-english-and-their-history)
 - https://en.wikipedia.org/wiki/Anna_Wierzbicka#Books
@@ -194,23 +194,23 @@
 - https://sites.miamioh.edu/meyersde/using-english-apostrophes-correctly
 - https://www.youtube.com/playlist?list=PLFAE35C109B6465BE
 
-### Esperanto
+# Esperanto
 
 - [Chuck Smith on Why You Should Learn Esperanto](https://www.fluentin3months.com/podcast/38)
 
-### Farsi
+# Farsi
 
 - https://sites.fas.harvard.edu/~iranian
 - http://sites.fas.harvard.edu/~iranian/OldPersian/index.html
 - https://github.com/omid/Persian-Calendar-for-Gnome-Shell
 
-### Finnish
+# Finnish
 
 - [Grammar from the Human Perspective. Case, space and person in Finnish | Marja-Liisa Helasvuo, Lyle Campbell](https://benjamins.com/catalog/cilt.277)
 - https://www.hagen-schmidt.de/suomi/worldlanguage.html
 - https://youtu.be/TtKmQI_prxs
 
-### French
+# French
 
 - https://lindiebotes.com/2020/09/12/weekly-french-studyroutine
 - https://tvtropes.org/pmwiki/pmwiki.php/Main/EverythingSoundsSexierInFrench
@@ -222,7 +222,7 @@
 - https://www.colingorrie.com/articles/guttural-r
 - https://www.youtube.com/playlist?list=PL69E4C8E727304E55
 
-### German
+# German
 
 - https://www.lingq.com/en/forum/offenes-deutsches-forum-open-forum-in-german/crossing-boundaries-in-german
 - https://divu.in/german/learn
@@ -243,7 +243,7 @@
 - https://www.youtube.com/playlist?list=PL5567A92F7F09247D
 - [A Foundation Course in Reading German | Howard Martin and Alan Ng](https://wisc.pb.unizin.org/readinggerman)
 
-### Greek
+# Greek
 
 - https://www.byzantineambassador.com/greek-and-latin
 - https://biblioteca-digitala.ro/?descriptor=31834-limba-greaca-veche-limba-antica
@@ -262,7 +262,7 @@
 - https://biblioteca-digitala.ro/?pub=6326-fonologia-greaca
 - https://www.youtube.com/playlist?list=PLP_gz3lCvyIbMlwTV7clPrYMAnyCemAPn
 
-### Hungarian
+# Hungarian
 
 - http://www.bukarest.balassiintezet.hu/ro/cursuri-de-limb-maghiara
 - https://cabalinkabul.com/2017/06/14/hungaro-alania-de-unde-vine-limba-maghiara
@@ -274,19 +274,20 @@
 - https://twitter.com/BeilinsonOrel/status/1588873985932267522
 - László Viktória: https://m.youtube.com/@malnaspite/playlists, https://linktr.ee/laszloviktoria
 - [Magyarósi Csaba](https://m.youtube.com/@magyarosi/playlists)
+- https://culture.hu/ro/bucuresti/cursuri-maghiara/curs-de-limba-maghiara
 
-### Hindi
+# Hindi
 
 - [How to Speak Hindi | Anil Mahato](https://m.youtube.com/playlist?list=PLDC40D4D8C4E28BC3)
 - https://biblioteca-digitala.ro/?pub=6175-manual-de-limba-bengali
 - https://neustadt.fr/essays/teaching-myself-german
 - https://github.com/sharad461/nepali-translator
 
-### Indonesian
+# Indonesian
 
 - https://m.youtube.com/playlist?list=PLmp7RhkyEu0vycmpoyO6ppLQ1Bue0FGEp
 
-### Italian
+# Italian
 
 - https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
 - https://m.youtube.com/c/VirtualBrainIT/playlists
@@ -296,7 +297,7 @@
 - https://www.youtube.com/playlist?list=PL4F9137E4A174F2B6
 - https://www.youtube.com/playlist?list=PLP_gz3lCvyIbq8tGO8wzlYvlNPZN6Ehe-
 
-### Japanese
+# Japanese
 
 - http://schuessler.org/i-memorize-things
 - [Japanese English: Language and Culture Contact - James Stanlaw](https://www.goodreads.com/book/show/405436.Japanese_English)
@@ -329,7 +330,7 @@
 - https://github.com/SethClydesdale/genki-study-resources
 - https://www.youtube.com/playlist?list=PL3B552021C23C5811
 
-### Korean
+# Korean
 
 - https://m.youtube.com/c/ArirangCoKrTV/playlists
 - https://m.youtube.com/playlist?list=PLuIhQdwUVqqrn1VUPmi3wIMKfoAR_ebUy
@@ -339,11 +340,11 @@
 - https://lindiebotes.com/2023/04/08/how-to-learn-korean-grammar-efficiently
 - https://lindiebotes.com/2023/07/04/learn-korean-a-comprehensive-guide-to-effective-practice-for-beginners
 
-### Khmer
+# Khmer
 
 - https://naturalkhmer.com + https://m.youtube.com/channel/UCgSzxTVgPe3I5aQWAGQ27cQ
 
-### Latin
+# Latin
 
 - http://alexalejandre.com/language/latin
 - http://116.203.245.78/unelte%20traducere%20greaca%20veche%20si%20latina/Limba%20latina/
@@ -390,32 +391,32 @@
 - https://www.emag.ro/dictionar-de-maxime-de-reflectii-expresii-latine-comentate-virgil-matei-9789733033257/pd/D5MV22BBM
 - https://www.youtube.com/playlist?list=PLP_gz3lCvyIaB3tcSOoc0hv3bZplMoIl5
 
-### Igbo
+# Igbo
 
 - https://github.com/nkowaokwu/igbo_api
 
-### Linguist
+# Linguist
 
 - https://ro.wikipedia.org/wiki/List%C4%83_de_lingvi%C8%99ti
 - Johanna Nichols: https://cabalinkabul.com/2020/03/23/glotta-ii-cateva-mituri-urbane-despre-limba
 - Anna Wierzbicka: https://www.amazon.com/Semantics-Primes-Universals-Classification-Analysis/dp/0198700032
 - Nikolai Trubetzkoy: https://www.google.com/search?q=Nikolai+Trubetzkoy+dan+alexe + http://history.uaic.ro/wp-content/uploads/2022/09/Rezumat-teza-ROMANA-iordache.pdf
 
-### Lithuanian
+# Lithuanian
 
 - https://blog.nina.coffee/2016/02/13/learning-lithuanian.html
 
-### Norvegian
+# Norvegian
 
 - https://m.youtube.com/playlist?list=PL6plkCKba-yYROq9d98xCy9aTcq_b3LEc
 
-### Occidental
+# Occidental
 
 - https://occidental-lang.com
 - https://en.wikibooks.org/wiki/Salute,_Jonathan!
 - https://m.youtube.com/playlist?list=PLfllocyHVgsQJDLBEshG0Oe6YOBA7Y0Ob
 
-### Portuguese
+# Portuguese
 
 - [Faxina, a Portuguese language narrative podcast exploring the lives of Brazilian migrant house cleaners living and working in the United States](https://www.faxinapodcast.com)
 - https://aiydreen.com/portuguese
@@ -423,7 +424,7 @@
 - https://sites.google.com/view/nd-portuguesesources/home
 - https://www.youtube.com/playlist?list=PL67dm6qliEMDvf0uRB0m1QusUJHaye2QV
 
-### Romanian
+# Romanian
 
 - https://github.com/vxern/romanian
 - http://alexalejandre.com/language/romanian
@@ -445,7 +446,7 @@
 - https://biblioteca-digitala.ro/?descriptor=40238-literatura-romana
 - https://www.youtube.com/playlist?list=PL80532D22B7C66617
 
-### Russian
+# Russian
 
 - https://www.patreon.com/posts/russian-index-75074567
 - https://biblioteca-digitala.ro/?descriptor=32410-limba-rusa
@@ -464,27 +465,27 @@
 - https://www.youtube.com/playlist?list=PL67dm6qliEMCkk8vhFBOJ2fbkS5BoL2cb
 - [Russian for the mathematician | S. H. Gould](https://link.springer.com/book/10.1007/978-3-642-65384-1)
 
-### Rare
+# Rare
 
 - https://www.nytimes.com/2021/10/06/us/marie-wilcox-dead.html + https://emergencemagazine.org/feature/language-keepers/#/chapter/wukchumni
 - https://www.amazon.com/Secret-Hittites-Discovery-Ancient-Empire/dp/1842122959
 - https://lrc.la.utexas.edu/eieol/hitol
 - [Old Nubian philology and epigraphy mainly](https://m.youtube.com/@anarchistnubiologysquada.n1659/playlists?view=1&sort=lad&flow=grid) + http://www.vangervenoei.com/about
 
-### Sanskrit
+# Sanskrit
 
 - [Olga Olina](https://warpgrid.xyz/idiomarium)
 
-### Serbian
+# Serbian
 
 - [Learn Serbian in a few minutes | Teacher_Suzana](https://m.youtube.com/playlist?list=PLVnag7rRuuY2yoo1lSoHxRC5kRjI0ZX-P)
 - https://biblioteca-digitala.ro/?descriptor=67208-limba-sarba
 
-### Slovak
+# Slovak
 
 - https://biblioteca-digitala.ro/?descriptor=35633-limba-slovaca
 
-### Spanish
+# Spanish
 
 - https://m.youtube.com/c/SpanishWithPaul/playlists
 - [context-aware translations using gpt-4, spoken in a cloned voice](https://github.com/aleemrehmtulla/espanol-love)
@@ -532,26 +533,26 @@
 - [Spanish Language and Travel by Lonely Planet and Utalk](https://www.humblebundle.com/downloads?key=k3Xtnwv3EzmdhsCm)
 - https://devonzuegel.com/post/unconventional-strategies-for-practicing-spanish
 
-### Swedish
+# Swedish
 
 - https://courses.minnalearn.com/fi/courses/regenfarming
 
-### Tibetan
+# Tibetan
 
 - [Tibetan Language Channel](https://m.youtube.com/channel/UCBOk5M9QQKfjg3-5HFl8sxA/playlists)
 
-### Polyglots
+# Polyglots
 
 - [Joseph Justus Scaliger](https://sententiaeantiquae.com/2020/03/06/skip-sleep-blast-through-homer) + https://twitter.com/nntaleb/status/1236017035534008320
 - https://www.bbc.com/future/article/20220719-how-speaking-other-languages-changes-your-brain
 
-### Polish
+# Polish
 
 - https://github.com/slowernews/notebook/blob/master/on-polish-language.md
 - https://m.youtube.com/c/Ecolinguist/playlists
 - https://www.youtube.com/@PolishwithMonika/playlists?view=1&sort=lad&flow=grid
 
-### Ukrainian
+# Ukrainian
 
 - https://dopomoha.ro/ro/expresii-utile
 - https://twitter.com/istoric_Popescu/status/1505853182924238848
@@ -559,7 +560,7 @@
 - https://biblioteca-digitala.ro/?pub=6270-curs-de-folclor-literar-ucrainean
 - https://biblioteca-digitala.ro/?descriptor=46989-limba-ucraineana
 
-### Storytelling
+# Storytelling
 
 - [Out on the Wire: The Storytelling Secrets of the New Masters of Radio](https://www.amazon.com/dp/0385348436)
 - https://nicholasreese.com/persuasive-storytelling
@@ -576,11 +577,11 @@
 - https://www.amazon.com/Storytelling-Animal-Stories-Make-Human/dp/0544002342
 - https://github.com/kitze/awesome-conference-practices
 
-### Thai
+# Thai
 
 - https://m.youtube.com/playlist?list=PLOKPImLWvaffrJv9V5cumhj76EN7jjWok
 
-### Turkish
+# Turkish
 
 - https://m.youtube.com/playlist?list=PLf8XN5kNFkheEx8CstJsVHVYzHqH47CM1
 - https://twitter.com/DanRomanya

@@ -1,4 +1,4 @@
-### Authentication
+# Authentication
 
 - https://www.nango.dev/blog/why-is-oauth-still-hard
 - [A passkey is a new way to sign in that works completely without passwords](https://www.passkeys.io) + https://twitter.com/tobi/status/1604846815060250626 + https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk
@@ -41,7 +41,7 @@
 - [A 'Google Authenticator' like Single Page Application](https://github.com/qoomon/otp-authenticator-webapp)
 - [Authenticated Transfer Protocol](https://github.com/zhuowei/atproto) + https://worthdoingbadly.com/bsky
 
-### API
+# API
 
 - https://github.com/trekhleb/nodejs-master-class
 - https://www.manning.com/books/understanding-api-security
@@ -100,7 +100,7 @@
 - [It speaks to Mastodon and other federated network services supporting ActivityPub](https://github.com/ringtailsoftware/cubiti) + https://netapinotes.substack.com/p/the-thing-about-using-chatgpt-for
 - [A full-fledged API written following MVC pattern and API best practices](https://github.com/meerhamzadev/Ecommorce-API)
 
-### Book
+# Book
 
 - https://github.com/PacktPublishing/Node.js-14-Cookbook
 - https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition
@@ -113,7 +113,7 @@
 - https://exploringjs.com/nodejs-shell-scripting
 - https://github.com/fraxken/ebook_nodejs
 
-### Bot
+# Bot
 
 - [Supercharge Your Slack Productivity: Discover hacks and tips for managing and automating your workflow with Slack and Slack bots](https://www.amazon.com/Supercharge-Your-Slack-Productivity-automating/dp/1800569629)
 - [This is my new favorite (free) programming tool – GitHub Actions Tutorial](https://www.bytesized.xyz/github-actions-tutorial)
@@ -139,7 +139,7 @@
 - https://github.com/yagop/node-telegram-bot-api
 - [ChatGPT + DALL-E + WhatsApp = AI Assistant](https://github.com/askrella/whatsapp-chatgpt)
 
-### Boilerplate
+# Boilerplate
 
 - https://github.com/lokalise/node-service-template
 - https://github.com/gmarokov/node-fastify-mongo-api
@@ -187,7 +187,7 @@
 - [A Node-Typescript/Express Boilerplate with Authentication, Authorization, and CRUD functionality + PWA Support](https://github.com/nerdeveloper/hackathon-starter-kit)
 - [Shorten URLs using invisible spaces](https://github.com/zws-im/zws)
 
-### Cinema
+# Cinema
 
 - [MNUG - Munich NodeJS User Group](http://mnug.de/videos.html)
 - https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine
@@ -208,7 +208,7 @@
 - [Production Ready Server Setup | Truly Mittal](https://m.youtube.com/playlist?list=PLdHg5T0SNpN38gy5xZ0PVEaDdZXlPkgP9)
 - [From C++ to Node](https://twitter.com/yonatanbd/status/1490665055586770946)
 
-### Course
+# Course
 
 - https://www.coursera.org/specializations/javascript-security
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide
@@ -231,7 +231,7 @@
 - https://github.com/CodeYourFuture/syllabus
 - https://m.youtube.com/playlist?list=PLrZyA4KBTQrikjiihH8BJtofE2qFe_xHk + https://github.com/felipepastorelima/react-pet-hotel + https://github.com/felipepastorelima/vue-library
 
-### Command line
+# Command line
 
 - [can't find where you put that console.log?](https://twitter.com/davidmarkclem/status/1455850282294915074)
 - [package-lock.json](https://twitter.com/izs/status/1480992076737118209)
@@ -241,7 +241,7 @@
 - https://itnext.io/shell-free-scripts-with-execa-7-885fb3b42f83
 - [Learn how to use CLI apps](https://github.com/jonahsnider/how)
 
-### Cheat sheet
+# Cheat sheet
 
 - https://github.com/learning-zone/nodejs-basics
 - https://github.com/aliyr/Nodejs-Developer-Roadmap
@@ -253,13 +253,13 @@
 - https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno
 - https://github.com/Correia-jpv/fucking-awesome-nodejs
 
-### Community
+# Community
 
 - https://github.com/nodejs/web-server-frameworks#web-server-frameworks-team-members
 - [Any companies besides red hat and maybe nearform still pay people to work on node?](https://twitter.com/cjihrig/status/1552014489180045313)
 - [A website dedicated to alternatives to npmjs.com](https://github.com/wmhilton/node-modules.io)
 
-### Debugging
+# Debugging
 
 - https://kinsta.com/blog/node-debug
 - https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs
@@ -291,18 +291,18 @@
 - https://github.com/skirianov/console-m + https://twitter.com/KajetanSw/status/1595717645642473473
 - [Benchmarking library with support for multithreading and TurboFan optimization isolation](https://github.com/jonahsnider/benchmark)
 
-### Deploy
+# Deploy
 
 - https://dev.to/zenstok/part-22-deploy-scalable-nestjs-chat-app-to-kubernetes-59o0
 - https://www.feelback.dev/blog/feelback-saas-launch-architecture
 - [Converting a Python script into Node automatically with ChatGPT](https://gist.github.com/federico-terzi/e1ceed50d27b21f3e48ebf1d1486fa06) + https://twitter.com/terzi_federico/status/1661115023937409027
 
-### Error
+# Error
 
 - https://github.com/tjmehta/error-to-json
 - [The fastest JSON schema Validator](https://github.com/ajv-validator/ajv)
 
-### TIL
+# TIL
 
 - [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
 - [How do you sync .env files (project specific) that are git-ignored between different computers?](https://twitter.com/thekitze/status/1207718292149952512)
@@ -311,7 +311,7 @@
 - https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood
 - https://joshtronic.com/2021/01/17/recursively-create-directories-with-nodejs
 
-### Internals
+# Internals
 
 - [Project for learning Node.js internals](https://github.com/danbev/learning-nodejs)
 - https://blog.s1h.org/inside-node-executing-a-script
@@ -323,11 +323,11 @@
 - https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js
 - [Advanced vm/sandbox for Node.js](https://github.com/patriksimek/vm2)
 
-### `node:events`
+# `node:events`
 
 - [A fork of eventEmitter's fast prototype based Javascript Class implementation, that is now available in the browser and node](https://github.com/storjarn/ee-class)
 
-### `node:fs`
+# `node:fs`
 
 - [How to create full path with node's fs.mkdirSync?](https://stackoverflow.com/a/40686853/1904223)
 - [fs.promises.readFile is 40% slower than fs.readFile](https://github.com/nodejs/node/issues/37583)
@@ -335,7 +335,7 @@
 - https://2ality.com/2022/06/nodejs-file-system.html
 - [Writing a Program to Auto-Clean-Up node_modules Folders | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3DuNPXDDof1eqXWiD1uEGID)
 
-### `node:http`
+# `node:http`
 
 - https://github.com/delvedor/fastify-example + https://twitter.com/delvedor/status/1358103527889993731
 - https://gist.github.com/willurd/5720255#gistcomment-3142965
@@ -363,24 +363,24 @@
 - [The original `http.request()` could not be inspected/mocked without heavy monkey patching of the internals](https://twitter.com/matteocollina/status/1554860645396488193)
 - [Dependency free POST](https://pvdz.ee/notes/183)
 
-### `node:net`
+# `node:net`
 
 - [Upgrade a regular `net.Stream` connection to a secure `tls` connection](https://gist.github.com/TooTallNate/848444)
 - https://remysharp.com/2023/07/03/ip-to-timezone-the-30-second-way
 
-### `node:process`
+# `node:process`
 
 - [Human-friendly process signals](https://github.com/ehmicky/human-signals)
 
-### `node:tls`
+# `node:tls`
 
 - https://obensource.com/blogs/https-for-local-development
 
-### `node:url`
+# `node:url`
 
 - https://www.linkedin.com/posts/erickwendel_nodejs-javascript-webassembly-activity-7018936765344329728-4w1c
 
-### .mjs
+# .mjs
 
 - https://obensource.com/blogs/when-its-time-to-migrate-away-from-commonjs
 - [Pure ESM package](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c)
@@ -399,7 +399,7 @@
 - https://github.com/lukeed/resolve.exports
 - [Create graphs from your CommonJS, AMD or ES6 module dependencies](https://github.com/pahen/madge)
 
-### Event loop
+# Event loop
 
 - https://www.builder.io/blog/visual-guide-to-nodejs-event-loop
 - https://davidhettler.net/blog/event-loop-lag
@@ -409,25 +409,25 @@
 - https://stackoverflow.com/questions/15349733/setimmediate-vs-nexttick
 - https://www.dynatrace.com/news/blog/all-you-need-to-know-to-really-understand-the-node-js-event-loop-and-its-metrics
 
-### Buffer
+# Buffer
 
 - [Output a buffer in emojis](https://github.com/pfrazee/base-emoji)
 - https://kevin.burke.dev/kevin/node-js-string-encoding
 - [Proposal for future Node.js streaming data APIs: "Bytes over Buffers"](https://fishrock123.github.io/nodejs-collab-summit-montreal-2019) + https://github.com/Fishrock123/bob
 - https://tchayen.com/ttf-file-parsing
 
-### `node:crypto`
+# `node:crypto`
 
 - https://github.com/paulmillr/noble-secp256k1
 - [Learning fast elliptic-curve cryptography](https://paulmillr.com/posts/noble-secp256k1-fast-ecc)
 - [implementation of elliptic curve cryptography](https://github.com/paulmillr/noble-curves)
 - https://github.com/sigalor/whatsapp-web-reveng
 
-### `node:dns`
+# `node:dns`
 
 - https://hermanradtke.com/sending-udp-messages-in-nodejs-without-dns-lookups
 
-### `node:stream`
+# `node:stream`
 
 - [Stream into the Future - Matteo Collina](https://youtu.be/dEFdt_6fW-0) + https://twitter.com/djgrant_/status/1296395202056327172
 - https://github.com/lrlna/sketchin/blob/master/guides/node-streams.md
@@ -445,12 +445,12 @@
 - [Detect input encoding and convert to utf-8 if needed](https://github.com/finnp/to-utf-8)
 - https://www.lirantal.com/blog/avoid-fastify-reply-raw-and-reply-hijack-despite-being-a-powerful-http-streams-tool
 
-### Promise
+# Promise
 
 - https://www.nearform.com/blog/broked-promises-james-snell-tech-talk-video
 - https://www.nearform.com/blog/optimise-node-js-performance-avoiding-broken-promises
 
-### async
+# async
 
 - https://simonplend.com/are-you-using-promises-and-async-await-safely-in-node-js
 - https://slides.com/lucianomammino/finding-a-lost-song-with-nodejs-and-async-iterators
@@ -462,15 +462,15 @@
 - [List of useful modules for working with async iterables](https://github.com/alanshaw/it-awesome)
 - https://www.stefanjudis.com/today-i-learned/top-level-promise-handling-in-node-js
 
-### Threads
+# Threads
 
 - https://dev.to/johnjardincodes/managing-multiple-threads-in-node-js-3mpc
 
-### `node:worker_threads`
+# `node:worker_threads`
 
 - https://www.wix.engineering/post/how-wix-applied-multi-threading-to-node-js-and-cut-thousands-of-ssr-pods-and-money
 
-### Tool
+# Tool
 
 - [List any node_modules directories in your system, as well as the space they take up](https://github.com/voidcosmos/npkill)
 - https://bret.io/projects/package-automation
@@ -560,7 +560,7 @@
 - [Generate HTML emails from your RSS feeds](https://github.com/rsslove/rss-to-email)
 - [Character encoding detection tool](https://github.com/runk/node-chardet)
 
-### `node:test`
+# `node:test`
 
 - https://github.com/doppelganger9/fruit-basket
 - https://engineering.klarna.com/6-lessons-learned-from-optimizing-the-performance-of-a-node-js-service-f163cac20473
@@ -588,7 +588,7 @@
 - https://richiemccoll.com/writing-tests-with-fastify-and-node-test-runner
 - https://github.com/aperezl/clean_architecture_tdd
 
-### Scrapping
+# Scrapping
 
 - https://www.scrapingbee.com/blog/web-scraping-javascript
 - https://levelup.gitconnected.com/anonymous-web-scrapping-with-node-js-tor-apify-and-cheerio-3b36ec6a45dc
@@ -631,7 +631,7 @@
 - [Scrapes your GMail and Google Calendar data and returns it as a CSV for further analysis](https://github.com/benbalter/gmail-and-google-calendar-stats)
 - https://github.com/adriancooney/puppeteer-heap-snapshot + https://news.ycombinator.com/item?id=37047746
 
-### Micro service
+# Micro service
 
 - https://github.com/stemmlerjs/solid-email-microservice
 - [Build Event-Driven Architectures with Event Sourcing and CQRS | Ethan Garofolo](https://pragprog.com/titles/egmicro/practical-microservices)
@@ -651,12 +651,12 @@
 - [An example app to build microservice using Node.js, docker and kubernetes](https://github.com/sujeet-agrahari/nodejs-microservices-example)
 - https://github.com/lloydbenson/microservices-workshop
 
-### Design patterns
+# Design patterns
 
 - https://github.com/nodeshift/nodejs-reference-architecture
 - [Hacker news-inspired forum app built with TypeScript & DDD from solidbook.io.](https://github.com/stemmlerjs/ddd-forum)
 
-### Security
+# Security
 
 - [A Road Map for Node.js Security](https://nodesecroadmap.fyi)
 - https://github.com/lirantal/awesome-nodejs-security
@@ -696,7 +696,7 @@
 - https://github.com/RafaelGSS/is-my-node-vulnerable
 - [A collection of modules to secure your express.js application](https://github.com/sebasyii/zeno)
 
-### CMS
+# CMS
 
 - [Strapi + NextJS + FastAPI + Grafana: Containers that rock together](https://github.com/sampittko/tuke-beautofuel)
 - https://blog.dehlin.dev/strapi-v4-with-docker-and-heroku
@@ -709,7 +709,7 @@
 - [Build A Coding Blog From Scratch](https://coding-blog.crfcourses.com)
 - https://github.com/61FINTECH/deploy-strapi-on-aws
 
-### Static site generator
+# Static site generator
 
 - https://sgolem.com/building-an-easy-on-the-eyes-ikea-style-blog-in-no-time-for-free-again
 - [Dynamic from Static with Smart Deployment.](https://slides.com/mayashavin/deck-44de00/fullscreen#/) + https://twitter.com/cloudinary/status/1208172092312543232
@@ -738,7 +738,7 @@
 - [Designing Web APIs with Strapi](https://github.com/PacktPublishing/Building-APIs-with-Strapi) + https://twitter.com/abolkog/status/1506467369048502280
 - https://pepelsbey.dev/articles/eleventy-css-js
 
-### Serverless
+# Serverless
 
 - [Building and deploying modern websites and apps - GitHub Universe 2019](https://youtu.be/KlO5Ksk7baQ)
 - [Would someone be willing to teach me how @netlify or @zeithq's deploy preview feature works?](https://twitter.com/TejasKumar_/status/1208378475771506688)
@@ -756,8 +756,10 @@
 - https://github.com/vendia/serverless-express
 - [Stream File Uploads to S3 Object Storage and Reduce Costs](https://austingil.com/upload-to-s3)
 - https://www.iamobinna.com/posts/how-to-deploy-serverless-nodejs-express-app-to-azure-container-apps-from-github
+- https://www.infoworld.com/article/3705610/the-shortcomings-of-serverless-computing.html
+- https://github.com/aws-samples/appsync-chat-app-cdk
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/shuhei/knowledge/blob/master/nodejs.md
 - https://github.com/ElemeFE/node-interview
@@ -777,11 +779,11 @@
 - https://jinoantony.com/blog/async-vs-sync-nodejs-a-simple-benchmark
 - https://www.infoq.com/articles/nodejs-monorepo
 
-### Radio
+# Radio
 
 - [Running Node natively in the browser](https://changelog.com/jsparty/178)
 
-### Opinion
+# Opinion
 
 - [What npm Can Learn from Go](https://twitter.com/bossylobster/status/1529857188390371328)
 - https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler

@@ -1,4 +1,4 @@
-### Authentication
+# Authentication
 
 - [How does Two-Factor Authentication - 2FA work?](https://youtu.be/yhoK8JelGgM)
 - [Become an Auth Boss. Learn about different authentication methodologies on the web. ](https://github.com/teesloane/Auth-Boss)
@@ -7,13 +7,13 @@
 - https://blog.thea.codes/building-a-stateless-api-proxy
 - https://twitter.com/realpython/status/1575825380992319488 + https://blog.symops.com/2022/09/07/evolution-access-control-python
 
-### Algorithm
+# Algorithm
 
 - https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634 + https://www.dailycodingproblem.com/blog/archives
 - https://github.com/donnemartin/interactive-coding-challenges
 - https://github.com/joswha/interviewpreparation
 
-### API
+# API
 
 - [KNOXSS API](https://github.com/xnl-h4ck3r/knoxnl)
 - https://alexwlchan.net/2019/04/reversing-a-tco-url-to-the-original-tweet
@@ -22,7 +22,7 @@
 - [Build Django 4 Web APIs with React](https://leanpub.com/djangoapi) + https://app.gumroad.com/d/1accf9ee5b5ffe1fe534b54ff57b8c65
 - https://github.com/minimaxir/hacker-news-undocumented
 
-### Book
+# Book
 
 - https://github.com/changwookjun/StudyBook
 - https://github.com/jackdoe/programming-for-kids
@@ -53,7 +53,7 @@
 - [ Learn AI-Assisted Python Programming With GitHub Copilot and ChatGPT](https://www.manning.com/books/learn-ai-assisted-python-programming)
 - https://github.com/tiagoantao/python-performance
 
-### Bot
+# Bot
 
 - https://github.com/musically-ut/first-timers-only-bot
 - https://github.com/yasoob/fb-messenger-bot
@@ -78,7 +78,7 @@
 - [Telegram bot containing the answers to the FAQs for Ukrainian refugees in Berlin](https://github.com/afedulov/help-ukraine-bot)
 - [IBKR trading bot for collecting premium by selling options using `The Wheel` strategy](https://github.com/brndnmtthws/thetagang)
 
-### Cheat sheet
+# Cheat sheet
 
 - https://cjolowicz.github.io/posts/hypermodern-python-01-setup
 - https://github.com/gto76/python-cheatsheet
@@ -113,7 +113,7 @@
 - https://www.freecodecamp.org/news/data-analytics-roadmap
 - https://amitness.com/2019/08/math-for-programmers
 
-### Clean code
+# Clean code
 
 - https://docs.quantifiedcode.com/python-anti-patterns/index.html
 - https://python-patterns.guide
@@ -121,7 +121,7 @@
 - https://leanpub.com/clean-architectures-in-python
 - https://github.com/faif/python-patterns
 
-### Course
+# Course
 
 - https://github.com/trekhleb/learn-python
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
@@ -152,11 +152,12 @@
 - https://www.udemy.com/course/build-a-movie-tracking-api-with-fastapi-and-python/?referralCode=47430716975684E04F85
 - [Programming Abstractions](https://decomposition.al/CSE30-2020-01)
 
-### Compiler
+# Compiler
 
 - https://rbaron.net/blog/2018/10/05/Hand-rolling-a-minimal-interpreted-programming-language-from-scratch.html + https://github.com/rbaron/compiler_studies
+- [Writing a C compiler in 500 lines](https://vgel.me/posts/c500) + https://news.ycombinator.com/item?id=37383913
 
-### Cinema
+# Cinema
 
 - https://github.com/s16h/py-must-watch
 - [Python programming for finance | sentdex](https://m.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
@@ -168,7 +169,7 @@
 - https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql
 - [Building a SaaS Application with Django and Pegasus | Cory Zue](https://www.youtube.com/playlist?list=PLrhGhGgmjaafujnwqHfN9QDoExAq5r0OP)
 
-### Community
+# Community
 
 - https://www.facebook.com/groups/ropython
 - https://github.com/adrianmoisey/learn-python
@@ -176,18 +177,18 @@
 - [Lambert Meertens](https://twitter.com/gvanrossum/status/1596268474518876160)
 - https://learnbyexample.github.io/py_resources
 
-### Data structure
+# Data structure
 
 - https://akshayr.me/blog/articles/python-dictionaries
 - [K-d Tree in Python - Tsoding](https://m.youtube.com/playlist?list=PLguYJK7ydFE7R7KqRRVXw23kOrn6jiwqi)
 - [Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures](https://github.com/MTrajK/coding-problems)
 - https://github.com/thundergolfer/interview-with-python
 
-### Debugging
+# Debugging
 
 - https://dev-discuss.pytorch.org/t/debugging-story-the-case-of-the-flaky-dynamo-export-tests/1124
 
-### Development
+# Development
 
 - https://github.com/llSourcell/Watch-Me-Build-an-Education-Startup
 - [Full-stack web app gratitude journal with sentiment analysis, SMS reminders using Twilio API, various data visualizations of streaks, moods, and common phrases. [WIP]](https://github.com/mashikro/my-smart-journal)
@@ -206,11 +207,11 @@
 - [ocial reading and reviewing, decentralized with ActivityPub](https://github.com/bookwyrm-social/bookwyrm)
 - https://github.com/ehmatthes/django-simple-deploy
 
-### Mono repository
+# Mono repository
 
 - https://github.com/reactive-python/reactpy + https://twitter.com/rmorshea/status/1665126075767169025
 
-### Networking
+# Networking
 
 - https://github.com/dievus/PythonCreateYourOwnSeries
 - https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks
@@ -218,7 +219,7 @@
 - [Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡](https://github.com/schollz/howmanypeoplearearound)
 - [Impacket is a collection of Python classes for working with network protocols](https://github.com/SecureAuthCorp/impacket)
 
-### Quirks
+# Quirks
 
 - Exploring Python through counter-intuitive snippets.](https://github.com/satwikkansal/wtfpython)
 - https://www.b-list.org/weblog/2018/nov/26/case
@@ -229,7 +230,7 @@
 - [Cursed operators](https://twitter.com/gynvael/status/1538125070987567104)
 - https://m.youtube.com/playlist?list=PLWBKAf81pmOamJfoHz4oRdieWQysmUkaW
 
-### Scraping
+# Scraping
 
 - https://levelup.gitconnected.com/developing-a-website-scraper-b7a78bb5544a
 - https://scrapism.lav.io + https://m.youtube.com/playlist?list=PLKDFNm2PsaCed7FP0uN5d2qWBAiJ0R7c9
@@ -283,12 +284,12 @@
 - [Search Google and download specific file types](https://github.com/opsdisk/metagoofil)
 - [Sibiu bus schedule for Android (with data from www.tursib.ro)](https://github.com/mihaiolteanu/OrarTursib)
 
-### Static website
+# Static website
 
 - https://nelsonslog.wordpress.com/2022/07/18/tech-notes-on-my-linkblog
 - https://github.com/dreikanter/public-static
 
-### Security
+# Security
 
 - https://blog.shiftleft.io/hacking-and-securing-python-applications-8f200456dcc6
 - [Got a shit shell?](https://twitter.com/Random_Robbie/status/1204041222542807043)
@@ -317,7 +318,7 @@
 - https://github.com/skills/secure-code-game
 - https://slides.com/kevin-mizu/sstic-2023-abusing-client-side-desync-on-werkzeug-cve-2022-29361 + https://mizu.re/post/abusing-client-side-desync-on-werkzeug
 
-### Server
+# Server
 
 - [Python comes with a built-in HTTP server and SMTP server](https://twitter.com/ohmypy/status/1451560687436767240)
 - [Fun with sockets: let's write a webserver!](https://twitter.com/b0rk/status/1211762580655607808)
@@ -327,19 +328,19 @@
 - https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port
 - https://jessewarden.com/books/serverless-aws-functional-programming
 
-### Standard library
+# Standard library
 
 - https://treyhunner.com/2019/05/python-builtins-worth-learning
 - https://medium.com/@vmsp/less-known-bits-of-the-python-standard-library-46dc88490115
 - [Understanding all of Python, through its builtins](https://sadh.life/post/builtins)
 
-### Practice
+# Practice
 
 - https://github.com/rbaron/advent-of-code-2020
 - https://github.com/rbaron/advent-of-code-2021
 - https://github.com/danvk/advent2019 + https://danvdk.medium.com/python-tips-tricks-for-the-advent-of-code-2019-89ec23a595dd
 
-### Tool
+# Tool
 
 - https://cybersecuritynews.com/python-tools
 - https://www.errbufferoverfl.me/snake-charming-for-beginners/build-your-command-centre
@@ -410,7 +411,7 @@
 - [Cinder is Meta's internal performance-oriented production version of CPython](https://github.com/facebookincubator/cinder)
 - [Social media scheduler](https://github.com/maikroservice/threaduler)
 
-### Testing
+# Testing
 
 - https://www.abhaybhargav.com/tdd-for-serverless-my-setup
 - https://www.abhaybhargav.com/security-automation-with-a-markdown-file

@@ -36,6 +36,7 @@
 
 - https://github.com/bencodezen/bencodezen
 - https://github.com/debs-obrien/debbie.codes
+- https://github.com/leichteckig/nuxt-leichteckig
 
 # Opinion
 

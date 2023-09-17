@@ -1,19 +1,19 @@
-### Algorithm
+# Algorithm
 
 - https://github.com/Mec-iS/rust-algos-illuminated
 - https://github.com/TheAlgorithms/Rust
 - https://twitter.com/Vernon_GR/status/1567728180437618688 + https://m.youtube.com/watch?v=QHOFRdgx-w0&list=PLezlz_6l_jm0gMynmHFmsXfjQFxmt3INC&index=20
 
-### API
+# API
 
 - [A microservice framework for building scalable applications](https://github.com/juicycleff/ultimate)
 - https://github.com/jtroo/rust-spa-auth
 
-### Application
+# Application
 
 - [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
 
-### Best practices
+# Best practices
 
 - https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust + (https://news.ycombinator.com/item?id=22818150)
 - [A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.](https://github.com/mre/idiomatic-rust)
@@ -22,7 +22,7 @@
 - [How to minimize Rust binary size](https://github.com/johnthagen/min-sized-rust)
 - https://github.com/lpxxn/rust-design-pattern
 
-### Book
+# Book
 
 - https://github.com/nnethercote/perf-book + https://news.ycombinator.com/item?id=25122178
 - https://github.com/cfsamson/book-green-threads-explained
@@ -43,12 +43,12 @@
 - https://github.com/PedramNavid/rust-for-data
 - [OS kernels](https://github.com/rcore-os/rCore-Tutorial-Book-v3)
 
-### Bot
+# Bot
 
 - [discord-to-trello bot](https://bitbucket.org/delan/dis2ello)
 - [Rust bot that runs periodically on AWS Lambda and retweets any Tweets matching a query](https://github.com/multimeric/RustLangRetweet)
 
-### Community
+# Community
 
 - [Yoshua Wuyts](https://m.youtube.com/c/YoshuaWuyts/playlists)
 - https://twitter.com/siscia_/status/1360113669884039170
@@ -73,7 +73,7 @@
 - https://twitter.com/i/communities/1690081308238561437
 - https://github.com/dasifefe/rust-game-development-frameworks
 
-### Course
+# Course
 
 - https://github.com/pingcap/talent-plan#series-2-rust-programming
 - [Kosmonaut: web browser from scratch in Rust](https://news.ycombinator.com/item?id=24170201)
@@ -91,7 +91,7 @@
 - https://github.com/tweedegolf/101-rs
 - [Full Stack Rust - Actix - Postgres - Shuttle - Dioxus](https://github.com/BcnRust/devbcn-workshop)
 
-### Compiler
+# Compiler
 
 - https://github.com/arzg/eldiro
 
@@ -99,7 +99,11 @@
 
 - https://doc.rust-lang.org/edition-guide/editions/index.html
 
-### Tutorial
+# Inspire
+
+- https://github.com/thejpster/website
+
+# Tutorial
 
 - https://twitter.com/samaaron/status/1214649047002292224
 - https://github.com/Mercateo/rust-for-node-developers
@@ -128,11 +132,11 @@
 - http://cliffle.com/p/dangerust
 - https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust
 
-### Parser
+# Parser
 
 - https://github.com/Boshen/javascript-parser-in-rust
 
-### Practice
+# Practice
 
 - https://github.com/jsoverson/node-to-rust
 - https://github.com/wasdk/WebAssemblyStudio
@@ -161,18 +165,18 @@
 - https://github.com/sunface/rust-by-practice
 - https://github.com/kiyov09/advent_of_code_2022
 
-### Testing
+# Testing
 
 - https://hermanradtke.com/how-to-mock-functions-that-have-external-http-requests
 - https://github.com/mriehl/rust-tdd-katas
 - [A test-driven workshop to learn Rust building your own JIRA clone](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)
 
-### Radio
+# Radio
 
 - [Servo and Rust with Jack Moffitt](https://metajack.im/2016/11/21/servo-interview-on-the-changelog)
 - https://www.hanselminutes.com/850/rust-for-beginners-with-nell-shamrell-harrington
 
-### Tool
+# Tool
 
 - Port scanner using the thread pool: [tweet](https://twitter.com/_tomsteele/status/1212651061611122688) + [gist](https://gist.github.com/tomsteele/338fa60b6ca2dd410f428d74e1717c1c)
 - [What Is Rust Doing Behind the Curtains?](https://endler.dev/2018/cargo-inspect)
@@ -199,8 +203,9 @@
 - [Youtube upload and management tool written in Rust](https://github.com/bedroombuilds/rsytup)
 - [Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
 - [Building and deploying Rust utilities](https://robert.kra.hn/posts/2021-02-01_cross-compile-rust)
+- [How CloudFlare replaced NGINX with Pingora](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet)
 
-### Opinion
+# Opinion
 
 - https://twitter.com/Vernon_GR/status/1567008384452554752 + https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular
@@ -240,16 +245,17 @@
 - [What was your 'aha!' moment when learning Rust?](https://twitter.com/nick_r_cameron/status/1014719625135714305)
 - https://robert.kra.hn/posts/2021-02-03_is-rust-fp
 
-### Security
+# Security
 
 - https://github.com/secwest/RobustRust + https://www.facebook.com/dragosr/posts/pfbid02FFY5Q8csgjmfSbLcJ5XHENArvcBLM2ZtV15AXhp4AoKRjHa7sDUa5RCThHJtGxk1l
+- [URL parsing inconsistency leads to path traversal](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633)
 
-### Scrapping
+# Scrapping
 
 - [Crawls the Fediverse and produces a list of instances that are alive](https://github.com/Minoru/minoru-fediverse-crawler)
 - {Generate RSS feeds from websites}(https://github.com/wezm/rsspls)
 
-### Watch
+# Watch
 
 - [Rust on Android](https://m.youtube.com/playlist?list=PL--8rjVarKNWNt1vfQu2Vr4RgPtyd6wcw)
 - [Jon Gjengset](https://m.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/playlists)

@@ -1,8 +1,8 @@
-### Book 
+# Book
 
 - [The Mycocultural Revolution: Transforming Our World with Mushrooms, Lichens, and Other Fungi | Peter McCoy](https://microcosmpublishing.com/catalog/books/8525)
 
-### Community
+# Community
 
 - [Andrew Potts](https://mushroomobserver.org/users/85223)
 - [Patricia Kaishian](https://sites.google.com/view/patriciakaishian)
@@ -10,11 +10,10 @@
 - [Erica Davis](https://www.facebook.com/wildfoodgirl)
 - https://www.facebook.com/PaulStamets
 - https://en.szegedigombasz.hu/knowhere/mycology-department
-- [Szegedi gombászok](https://www.facebook.com/groups/szegedigombaszok)
+- [Szegedi gombászok](https://www.facebook.com/groups/szegedigombaszok) + https://www.szegedigombasz.hu/tud%C3%A1st%C3%A9r/MT
 - [Gljivarsko društvo Novi Sad](https://www.facebook.com/groups/115205338531605)
 
-
-### Miscellaneous
+# Miscellaneous
 
 - https://ciupercar.ro
 - [Mushrooms and Truffles: Historical Biofactories for Complementary Medicine in Africa and in the Middle East](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3854548)
@@ -42,6 +41,6 @@
 - https://www.freethink.com/space/radiation-on-mars-fungus
 - https://fungimap.org.au/wp-content/uploads/2023/05/Fungi-Quest-Field-Guide-how-do-I-describe-my-fungus.pdf
 
-### Watch 
+# Watch
 
 - https://www.szegedigombasz.hu/tud%C3%A1st%C3%A9r/MT

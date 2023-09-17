@@ -6,7 +6,11 @@
 
 - [A modern SaaS template built on Fresh](https://github.com/denoland/saaskit)
 
-# Demo
+# Deploy
+
+- [Announcing native npm support on Deno Deploy](https://deno.com/blog/npm-on-deno-deploy)
+
+# Inspire
 
 - https://github.com/thorwebdev/thor.bio
 - https://github.com/ry/tinyclouds
