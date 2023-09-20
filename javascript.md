@@ -342,6 +342,7 @@
 - https://courses.kyleshevlin.com/courses/array-reduce
 - https://cbrevik.com/react-native-and-the-array-reverse-bug
 - https://www.macarthur.me/posts/looping-over-empty-array-items
+- https://benlesh.com/posts/forEach-is-a-code-smell
 
 # new Uint8Array()
 

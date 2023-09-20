@@ -326,6 +326,7 @@
 # `node:events`
 
 - [A fork of eventEmitter's fast prototype based Javascript Class implementation, that is now available in the browser and node](https://github.com/storjarn/ee-class)
+- EventEmitter with an async function is an anti-pattern: https://youtu.be/Ra7Ji9LmG9o, https://twitter.com/BenLesh/status/1699490548535484605, https://twitter.com/BenLesh/status/1699477675054707149
 
 # `node:fs`
 

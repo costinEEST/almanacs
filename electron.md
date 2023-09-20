@@ -45,6 +45,7 @@
 - https://github.com/signalapp/Signal-Desktop
 - [Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE](https://github.com/sunner/ChatALL)
 - [GitHub Desktop is written in TypeScript and uses React](https://github.com/desktop/desktop)
+- [A must-have devtool for web developers for quicker responsive web development](https://github.com/responsively-org/responsively-app)
 
 # Boilerplate
 

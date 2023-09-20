@@ -196,6 +196,7 @@
 - https://corecursive.com/066-sqlite-with-richard-hipp + https://news.ycombinator.com/item?id=27718701
 - https://github.com/dogsheep/apple-notes-to-sqlite
 - https://github.com/almandin/ntdsdotsqlite
+- [proposal: should node expose a persistent KV API](https://github.com/nodejs/node/issues/49663)
 
 ### Graph databases
 
