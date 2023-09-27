@@ -1,15 +1,16 @@
-### Course
+# Course
 
 - https://www.udemy.com/course/udemy-bootcamphow-to-quickly-creat-a-good-course-unofficial
 - https://www.udemy.com/course/complete-graphics-design-and-video-editing-masterclass
+- [Fundamentals of Digital Image and Video Processing | Aggelos K. Katsaggelos](https://www.coursera.org/learn/digital)
 
-### Community
+# Community
 
 - https://m.youtube.com/c/ThomasFlight/playlists
 - https://www.inputmag.com/culture/vhs-tapes-twitch-youtube-streaming
 - https://github.com/JosephPai/Awesome-Talking-Face
 
-### Cheat sheet
+# Cheat sheet
 
 - [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
 - https://www.singhkays.com/blog/av1-wiki-resources-tools
@@ -19,7 +20,7 @@
 - [Illegal streams, decrypting m3u8's, and building a better stream experience](https://blog.jonlu.ca/posts/illegal-streams)
 - https://stuartk.com/posts/whats-the-best-html-video-format-to-serve
 
-### Tool
+# Tool
 
 - https://www.twilio.com/blog/open-source-video-apps-reactjs-ios-android
 - [A multi-platform open-source video conferencing system.](https://jitsi.org) + https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian
@@ -80,7 +81,7 @@
 - [Generate terminal GIFs from code](https://github.com/charmbracelet/vhs)
 - [Sidecar to Frigate to identify the species of the birds that Frigate detects](https://github.com/mmcc-xx/WhosAtMyFeeder)
 
-### Opinion
+# Opinion
 
 - https://rudism.com/a-proposal-for-a-decentralized-youtube-alternative
 - [Before you upload your first course on udemy | Alireza Aliabadi](https://m.youtube.com/watch?v=nBpDXFz67pA)

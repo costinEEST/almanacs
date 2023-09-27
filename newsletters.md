@@ -283,6 +283,7 @@
 - [Sunni Brown](https://nothingintheway.substack.com/archive)
 - [Gary Hustwit](https://garyhustwit.substack.com/archive)
 - [aleksliving](https://twid.fyi/archive)
+- [David Airey](https://davidairey.substack.com/archive)
 
 # Data visualization
 

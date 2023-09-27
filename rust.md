@@ -95,6 +95,10 @@
 
 - https://github.com/arzg/eldiro
 
+# Debugging
+
+- [Heap Profiling with Jemalloc](https://www.magiroux.com/rust-jemalloc-profiling)
+
 # Historic
 
 - https://doc.rust-lang.org/edition-guide/editions/index.html
@@ -165,6 +169,10 @@
 - https://github.com/sunface/rust-by-practice
 - https://github.com/kiyov09/advent_of_code_2022
 
+# Static site
+
+- https://github.com/getzola/zola + https://twitter.com/__xuorig__/status/1696192359992541642 + https://github.com/AntoniosBarotsis/antoniosbarotsis.github.io
+
 # Testing
 
 - https://hermanradtke.com/how-to-mock-functions-that-have-external-http-requests
@@ -204,6 +212,8 @@
 - [Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
 - [Building and deploying Rust utilities](https://robert.kra.hn/posts/2021-02-01_cross-compile-rust)
 - [How CloudFlare replaced NGINX with Pingora](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet)
+- https://simlay.net/posts/rust-target-runner-for-ios
+- RSS feed aggregator that notifies you of new posts via email: https://antoniosbarotsis.github.io/posts/rss2email, https://github.com/AntoniosBarotsis/Rss2Email
 
 # Opinion
 

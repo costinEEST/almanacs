@@ -1,4 +1,4 @@
-### Algorithm
+# Algorithm
 
 - https://m.youtube.com/user/purpongie/playlists
 - https://github.com/williamfiset/Algorithms#geometry
@@ -7,12 +7,12 @@
 - [Java Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/javaDataStructures)
 - https://github.com/nayuki/Nayuki-web-published-code
 
-### API
+# API
 
 - https://www.toptal.com/back-end/reverse-engineering-the-private-api-hacking-your-couch
 - [A criminal records database and functioning website to view, add, remove, and filter criminal records. The service is built using AWS Lambda and API Gateway to perform CRUD operations on DynamoDB tables](https://github.com/brianjknight/Criminal-Database-Project)
 
-### Book
+# Book
 
 - https://youtu.be/Uf6eP3Qe68s
 - https://www.amazon.com/Java-Absolute-Beginners-Fundamentals-Programming/dp/1484270797
@@ -34,11 +34,11 @@
 - https://github.com/duke-certification/java6-to-java8-en + https://twitter.com/RafaDelNero/status/1387736448674242562 + https://leanpub.com/javachallengers + https://m.youtube.com/playlist?list=PL3py5YSIGvPMgKXOVqnYn9nBoT_zvsvsi + https://javachallengers.com/the-top-long-lasting-java-books-that-every-java-developer-should-read
 - https://github.com/well-grounded-java/resources
 
-### Boot
+# Boot
 
 - [Discord Bot using Java Discord API (JDA) | Anson the Developer](https://m.youtube.com/playlist?list=PL_cUvD4qzbkx5unMamPcd5AzRGFgGTgGb)
 
-### Cheat sheet
+# Cheat sheet
 
 - https://devtut.github.io/java
 - https://jenkov.com/tutorials/java/index.html
@@ -52,7 +52,7 @@
 - https://www.todaysoftmag.ro/article/3890/ghidul-tau-rapid-pentru-arhitectura-aplicatiilor-java
 - [Java Virtual Machine specification](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)
 
-### Cinema
+# Cinema
 
 - https://github.com/bbenz/JavaforBeginners + https://m.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUd2sjF5ObluLRPtZP2OaGI4
@@ -70,7 +70,7 @@
 - [Learn Java Programming (version 17)](https://www.freecodecamp.org/news/learn-java-programming)
 - [Build Talking Apps for Alexa | Craig Walls](https://m.youtube.com/playlist?list=PL5zhdK_QOhVEvt_Zvi3zFCGdu4Xe7e0xO) + https://pragprog.com/titles/cwalexa/build-talking-apps-for-alexa
 
-### Community
+# Community
 
 - https://twitter.com/CodesOtto/status/1559482556092907521
 - https://twitter.com/RafaDelNero/status/1571270159976828930
@@ -79,11 +79,11 @@
 - https://twitter.com/RafaDelNero/status/1415385778184761347
 - https://github.com/StreamOfJava/streamofjava.github.io
 
-### Compiler
+# Compiler
 
 - https://github.com/KpLi0rn/LearnCompiler/tree/main/JavaCompiler
 
-### Course
+# Course
 
 - https://hyperskill.org/onboarding/?track=java
 - https://github.com/ForrestKnight/open-source-cs
@@ -103,7 +103,7 @@
 - https://www.udemy.com/course/advanced-programming-with-javafx-build-an-email-client
 - [Programare Orientată pe Obiecte](https://ocw.cs.pub.ro/courses/poo) + https://gabrielmocanu.com/teaching#object-oriented-programming
 
-### Best practices
+# Best practices
 
 - [Resources for writing modern Java](https://github.com/cxxr/better-java)
 - https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production
@@ -113,11 +113,11 @@
 - https://github.com/mgp/effective-rxjava
 - https://github.com/mgp/good-enough-java
 
-### Debugging
+# Debugging
 
 - https://www.skullsecurity.org/2023/bsidessf-2023-writeups--flat-white--simpler-java-reversing-
 
-### Development
+# Development
 
 - https://github.com/ThomasVitale/devtalks-2022-serverless-java + https://speakerdeck.com/thomasvitale/serverless-java-with-spring-boot
 - https://perlun.eu.org/en/2021/12/30/the-dangers-of-referential-equality-in-java
@@ -125,7 +125,7 @@
 - [Embedding Node.js and V8 in Java](https://docs.google.com/presentation/d/1lQ8xIHuywuE0ydqm2w6xq8OeQZO_WeTLYXW9bNflQb8) + https://github.com/caoccao/Javet
 - https://github.com/nayuki/x86-Assembler
 
-### Tool
+# Tool
 
 - https://knifecoat.com/Tools/Java
 - [Google Reader inspired self-hosted RSS reader.](https://github.com/Athou/commafeed)
@@ -141,7 +141,7 @@
 - [A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)](https://github.com/Konloch/bytecode-viewer)
 - https://www.chrisatmachine.com/posts/01-versioning-java-with-sdkman
 
-### Security
+# Security
 
 - https://github.com/dschadow/JavaSecurity
 - [A quick methodology on testing / hacking SAP Applications for n00bz and bug bounty hunters.](https://github.com/shipcod3/mySapAdventures)
@@ -167,18 +167,18 @@
 - https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef
 - https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en
 
-### Microservice
+# Microservice
 
 - https://www.goodreads.com/en/book/show/34372564-microservice-patterns
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/Developer-Y/all-things-java
 - [Shows shipwreck locations on a map; each wreck can be clicked for further information](https://github.com/lauriharpf/shipwrecks)
 - [wind farm SCADA system](https://thesis.accel.dk) + https://tech-notes.accel.dk/technical/iec61400-25
 - https://github.com/BenGirone/thesis
 
-### Opinion
+# Opinion
 
 - https://noncombatant.org/2014/07/31/why-i-love-java
 - https://www.infoq.com/news/2021/01/java-turns-25 + https://news.ycombinator.com/item?id=25881704
@@ -187,14 +187,15 @@
 - https://www.javaguides.net/2020/09/tips-to-become-good-java-developer.html
 - https://twitter.com/peibolsang/status/1586597925534040066
 
-### Optimizations
+# Optimizations
 
 - https://twitter.com/psobot/status/1204887283666685954
 - https://delitescere.medium.com/hotwire-html-over-the-wire-2c733487268c
 
-### Testing
+# Testing
 
 - [Test Automation Made Simple](https://github.com/karatelabs/karate)
 - https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
 - [Introduction to observability | Test Automation U](https://m.youtube.com/playlist?list=PLsiHUuozEFFoqBhY8iK8v1tpatS_b3B5M)
 - https://github.com/luontola/tdd-tetris-tutorial + https://www.youtube.com/playlist?list=PLSADDT9dzgRCjVvS13ekPr1KwX_JkDQJM
+- [A console-based chat client & server, built using strong TDD throughout. Use it to teach OO and TDD concepts](https://github.com/dirv/java-chat)

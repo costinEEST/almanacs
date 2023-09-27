@@ -53,6 +53,7 @@
 - https://github.com/BenRoe/awesome-mechanical-keyboard
 - [Keyboard Ninja - No Mouse, Keyboard Only | gotbletu](https://m.youtube.com/playlist?list=PLqv94xWU9zZ1cXfg3ED24G6RSt4NbFBfO)
 - https://github.com/diimdeep/awesome-split-keyboards
+- https://github.com/leebyron/keyboard
 
 ### Microphone
 
