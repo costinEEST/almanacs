@@ -560,6 +560,7 @@
 - [Module for setting up network interface(s) ip address, dns, and default routes of physical network interfaces, VLAN, and bridged interfaces](https://github.com/adonespitogo/node-set-ip-address)
 - [Generate HTML emails from your RSS feeds](https://github.com/rsslove/rss-to-email)
 - [Character encoding detection tool](https://github.com/runk/node-chardet)
+- https://github.com/leebyron/til
 
 # `node:test`
 
@@ -696,6 +697,7 @@
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f + https://twitter.com/ChevonPhillip/status/1656339720425570309
 - https://github.com/RafaelGSS/is-my-node-vulnerable
 - [A collection of modules to secure your express.js application](https://github.com/sebasyii/zeno)
+- [possible security issues with Node.js and MongoDB](https://github.com/thomasheyenbrock/rent-a-hacker)
 
 # CMS
 
@@ -710,7 +712,7 @@
 - [Build A Coding Blog From Scratch](https://coding-blog.crfcourses.com)
 - https://github.com/61FINTECH/deploy-strapi-on-aws
 
-# Static site generator
+# Static site
 
 - https://sgolem.com/building-an-easy-on-the-eyes-ikea-style-blog-in-no-time-for-free-again
 - [Dynamic from Static with Smart Deployment.](https://slides.com/mayashavin/deck-44de00/fullscreen#/) + https://twitter.com/cloudinary/status/1208172092312543232
@@ -738,6 +740,7 @@
 - [Converts an express EJS app into a static HTML website](https://github.com/THHamiltonSmith/ejs-static-converter)
 - [Designing Web APIs with Strapi](https://github.com/PacktPublishing/Building-APIs-with-Strapi) + https://twitter.com/abolkog/status/1506467369048502280
 - https://pepelsbey.dev/articles/eleventy-css-js
+- https://github.com/tylerreckart/reckart.blog
 
 # Serverless
 

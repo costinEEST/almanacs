@@ -48,6 +48,7 @@
 - [Chris Ashton](https://ashton.codes/category/frequent11y)
 - [Alexa Heinrich](https://alexaheinrich.substack.com/archive)
 - [Asociația Metodelor Alternative de Integrare Socială](https://us7.campaign-archive.com/home/?u=0d9eea60dfb7ada276fea7473&id=cb73e5357c)
+- [Heydon Pickering](https://buttondown.email/heydon/archive)
 
 # Archeology
 
@@ -81,6 +82,7 @@
 # Artificial intelligence
 
 - [Machine learning monthly](https://zerotomastery.io/blog/?tag=MLM)
+- [Shawn Wang, Alessio Fanelli](https://www.latent.space/archive)
 - [Nathan Benaich](https://nathanbenaich.substack.com/archive)
 - [True Positive Weekly](https://aiweekly.substack.com/archive)
 - [Davis Blalock](https://dblalock.substack.com/archive)
@@ -265,6 +267,10 @@
 # Open source (FOSS)
 
 - [Allison Pike](https://onceamaintainer.substack.com/archive)
+
+# Philosophy
+
+- [Andrei Vasilachi](https://podcastmeditatii.com/aboneaza)
 
 # Design
 

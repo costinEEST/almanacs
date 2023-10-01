@@ -410,6 +410,7 @@
 - [Recommend movies to your friends and ask them for recommendations all through a convenient SMS interface](https://github.com/karllhughes/recs-by-text)
 - [Cinder is Meta's internal performance-oriented production version of CPython](https://github.com/facebookincubator/cinder)
 - [Social media scheduler](https://github.com/maikroservice/threaduler)
+- https://github.com/ricardorodrigues-ca/zoom-recording-downloader
 
 # Testing
 

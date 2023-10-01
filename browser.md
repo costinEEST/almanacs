@@ -1,4 +1,4 @@
-### APIs
+# APIs
 
 - [A site to test the interaction of web APIs and browser permissions.](https://github.com/chromium/permission.site)
 - https://web.dev/new-patterns-for-amazing-apps
@@ -26,7 +26,7 @@
 - https://www.macarthur.me/posts/navigating-the-event-loop
 - https://richiemccoll.com/javascript-scheduling
 
-### Bookmarklet
+# Bookmarklet
 
 - Open in Gmail
 
@@ -59,7 +59,7 @@ javascript: (() =>
 - https://eriksolsen.com/blog/dynamic-bookmarks-in-google-chrome
 - https://gabrielsroka.github.io/webpages/bookmarklets.htm
 
-### Document Object Model (DOM)
+# Document Object Model (DOM)
 
 - [Common tasks of managing HTML DOM with vanilla JavaScript](https://htmldom.dev)
 - https://github.com/mikewest/deprecating-document-domain
@@ -98,23 +98,23 @@ javascript: (() =>
 - [random overflowing element](https://carbon.now.sh/nZLVj2OK0WPlLILIXn4E)
 - https://blog.andri.co/022-should-i-use-ecode-or-ekey-when-handling-keyboard-events
 
-### new IntersectionObserver()
+# new IntersectionObserver()
 
 - [Using the Intersection Observer web API to improve performance.](https://www.growingwiththeweb.com/2018/01/intersection-observer.html)
 - [Intersection Observer by Kevin Powell](https://m.youtube.com/playlist?list=PL4-IK0AVhVjOmWeHkUz34FxIFP8I8X1ae)
 - https://github.com/snewcomer/intersection-observer-admin
 - https://ryanmulligan.dev/blog/sticky-header-scroll-shadow
 
-### new MutationObserver()
+# new MutationObserver()
 
 - [syntax-fm-sticky-show-notes.user.js](https://gist.github.com/salembeats/8d1b73d2cf14ba012039ac844d0c79c6)
 
-### new URL()
+# new URL()
 
 - [? vs #](https://github.com/robinmoisson/staticrypt/issues/156)
 - https://www.mandiant.com/resources/blog/url-obfuscation-schema-abuse + https://twitter.com/ankit_anubhav/status/1592109955641126912
 
-### new Worker()
+# new Worker()
 
 - [Why don't we just move all JS to a web worker?](https://twitter.com/dan_abramov/status/1234297789938589696) + https://docs.google.com/document/d/1nu0EcVNC3jtmUVWL8Gs5eCj2p_984kamNhG2nS9gOC0/edit#heading=h.e6n21l1n04rc
 - [Is ServiceWorker intended to be a SharedWorker that works offline?](https://twitter.com/jlongster/status/1241010515071111168)
@@ -135,7 +135,7 @@ javascript: (() =>
 - [load modules into web workers, access them asynchronously](https://github.com/bitair-org/concurrent.js)
 - [monitoring tool to implement client-side caching](https://github.com/oslabs-beta/tulo-js)
 
-### Engine
+# Engine
 
 - https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf
 - https://github.com/a0viedo/demystifying-js-engines
@@ -159,7 +159,7 @@ javascript: (() =>
 - https://github.com/wdv4758h/awesome-jit
 - https://github.com/mgaudet/SpiderMonkeyBibliography
 
-### Exploit
+# Exploit
 
 - [Awesome list of browser exploitation tutorials ](https://github.com/Escapingbug/awesome-browser-exploit)
 - [Browser Exploitation - LiveOverflow](https://m.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t)
@@ -177,7 +177,7 @@ javascript: (() =>
 - https://github.com/cezary-sec/awesome-browser-security + https://m.youtube.com/playlist?list=PLuHcjpINS_OJntoGxRu0FEju5ak0yE_46
 - [Practical Exploitation of Math.random on V8](https://github.com/d0nutptr/v8_rand_buster)
 
-### Extension
+# Extension
 
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
 - https://github.com/jxnl/youtube-summary-chrome
@@ -354,7 +354,7 @@ javascript: (() =>
 - [Changes your User-Agent header to throw off tracking](https://github.com/NoraCodes/randomua)
 - [A browser extension that redirects popular sites to alternative privacy friendly frontends](https://github.com/libredirect/browser_extension)
 
-### Chrome
+# Chrome
 
 - https://github.com/Eloston/ungoogled-chromium
 - https://kayce.basqu.es/portfolio
@@ -376,12 +376,12 @@ javascript: (() =>
 - [Getting Started With Chrome DevTools Protocol](https://github.com/aslushnikov/getting-started-with-cdp)
 - https://github.com/ip2k/I-Dont-Care-About-HSTS-For-Localhost
 
-### Brave
+# Brave
 
 - https://rudism.com/the-brave-browser-is-brilliant
 - https://github.com/iharh/notes/tree/master/security/tracking
 
-### Firefox
+# Firefox
 
 - https://madaidans-insecurities.github.io/firefox-chromium.html
 - [making Firefox stop polluting your Burp session with superfluous requests](https://www.blackhillsinfosec.com/towards-quieter-firefox) + https://twitter.com/egyp7/status/1196497265743056898
@@ -395,19 +395,19 @@ javascript: (() =>
 - [Separate Firefox Dark UI theme from website dark mode](https://twitter.com/darek_kay/status/1468171089796911109)
 - https://github.com/MrOtherGuy/firefox-csshacks
 
-### Federated Credential Management API (FedCM)
+# Federated Credential Management API (FedCM)
 
 - https://textslashplain.com/2023/04/12/auth-flows-in-a-partitioned-world
 
-### Contact Picker API
+# Contact Picker API
 
 - https://evilmartians.com/chronicles/dont-wait-lets-use-browser-contact-picker-api-now
 
-### Geolocation API
+# Geolocation API
 
 - https://daniel.fone.net.nz/blog/2020/09/14/geolocation-api-demo
 
-### Historic
+# Historic
 
 - https://webinista.com/updates/flash-end-of-life + https://twitter.com/mattmay/status/1344728355912880129 + http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive
 - [Last publicly available revision of the world's first web browser](https://github.com/cynthia/WorldWideWeb)
@@ -415,22 +415,22 @@ javascript: (() =>
 - [Comparison of Web Browsers](https://eylenburg.github.io/browser_comparison.htm)
 - [History of Web Browser Engines from 1990 until today](https://eylenburg.github.io/browser_engines.htm)
 
-### Safari
+# Safari
 
 - [In my app when a user clicks play, I remove all audio elements, swap them with fresh ones, and attempt to autoplay for the user.](https://twitter.com/RogersKonnor/status/1453596502098644994) + https://github.com/cableready/audio_operations
 - https://predr.ag/blog/debugging-safari-if-at-first-you-succeed
 - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
 
-### Staybl
+# Staybl
 
 - [A browser for Parkinson’s patients, with “customizable tremor compensation tremor compensation, high-contrast design, a particularly legible font, and general ease of use.”](staybl.app)
 
-### Opera
+# Opera
 
 - [Standalone client for proxies of Opera VPN](https://github.com/Snawoot/opera-proxy)
 - https://medium.com/@renwa/opera-browser-vpn-bypass-20877aaf08c0
 
-### Cookie
+# Cookie
 
 - [SameSite=Lax](https://twitter.com/RenwaX23/status/1206475064125853696)
 - https://www.troyhunt.com/promiscuous-cookies-and-their-impending-death-via-the-samesite-policy
@@ -447,7 +447,7 @@ javascript: (() =>
 - https://blog.daviddworken.com/posts/same-site-cross-origin
 - [cookie tossing leading to session fixation](https://twitter.com/jub0bs/status/1563080334727839746)
 
-### IndexDB
+# IndexDB
 
 - https://patrickbrosset.com/articles/2023-01-17-web-storage
 - https://twitter.com/tgroshon/status/1332499610192015362
@@ -459,7 +459,7 @@ javascript: (() =>
 - https://tantaman.com/2022-05-13-large-local-storage.html
 - https://github.com/stars/jnv/lists/storage
 
-### Federated Learning of Cohorts
+# Federated Learning of Cohorts
 
 - https://seirdy.one/2021/04/16/permissions-policy-floc-misinfo.html
 - https://brave.com/why-brave-disables-floc + https://github.com/brave/brave-core/pull/8468
@@ -471,7 +471,7 @@ javascript: (() =>
 - https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network + https://twitter.com/tomayac/status/1383337100041359365
 - https://spreadprivacy.com/block-floc-with-duckduckgo
 
-### Content Security Policy (CSP)
+# Content Security Policy (CSP)
 
 - https://twitter.com/manicode/status/1371849647468208130
 - https://twitter.com/mikewest/status/1370394397267869699
@@ -490,7 +490,7 @@ javascript: (() =>
 - [Monorepo for CSP-related packages](https://github.com/frux/csp)
 - [XSS with CSP bypass leads to diagrams backdoor in jgraph/drawio](https://archive.li/XSvGv) + https://huntr.dev/bounties/4c1c5db5-210f-4d7e-8380-b95f88fdb78d
 
-### Cross-origin resource sharing (CORS)
+# Cross-origin resource sharing (CORS)
 
 - https://github.com/monsur/enable-cors.org
 - https://www.kitploit.com/2019/12/corstest-simple-cors-misconfiguration.html
@@ -504,18 +504,18 @@ javascript: (() =>
 - https://github.com/mscoutermarsh/cors-test
 - https://w3c.github.io/webappsec-cors-for-developers
 
-### Cross-Origin-Opener-Policy (COOP)
+# Cross-Origin-Opener-Policy (COOP)
 
 - [COOP and COEP explained](https://docs.google.com/document/d/1zDlfvfTJ_9e8Jdc8ehuV4zMEu9ySMCiTGMS9y0GU92k)
 - https://blog.daviddworken.com/posts/stopping-xs-leaks-at-scale + https://github.com/mjz3/LeakuidatorPlus + https://twitter.com/ndevtk/status/1549894289865560065
 - [Cross-origin isolation (COOP and COEP) through a service worker for situations in which you can't control the headers (e.g. GH pages)](https://github.com/gzuidhof/coi-serviceworker)
 
-### Same Origin Policy (SOP)
+# Same Origin Policy (SOP)
 
 - https://parsiya.net/blog/2020-11-01-the-same-origin-policy-gone-wild
 - https://github.com/rafaybaloch/SOP-Bypass-Mini-Test-Suite
 
-### Search Engine Optimization (SEO)
+# Search Engine Optimization (SEO)
 
 - https://www.smashingmagazine.com/smashing-guide-search-engine-optimization
 - https://developers.google.com/search/docs/guides/intro-structured-data
@@ -534,17 +534,17 @@ javascript: (() =>
 - https://github.com/marcobiedermann/search-engine-optimization
 - https://github.com/thospfuller/awesome-search-engine-optimization
 
-### Server-sent events (SSE)
+# Server-sent events (SSE)
 
 - https://m.youtube.com/playlist?list=PLw5h0DiJ-9PAQ1pKeDanXUjGbjPAluT7S
 
-### Web Audio API
+# Web Audio API
 
 - https://github.com/idevelop/google-cloud-speech-webaudio
 - [iOS Safari is like IE6 when it comes to WebAudio](https://twitter.com/stoyanstefanov/status/1343833249382973442)
 - [Detecting pitch with the Web Audio API and autocorrelation](https://alexanderell.is/posts/tuner)
 
-### Web Real-Time Communication (WebRTC)
+# Web Real-Time Communication (WebRTC)
 
 - https://github.com/adalkiran/webrtc-nuts-and-bolts
 - https://github.com/webrtc-for-the-curious/webrtc-for-the-curious
@@ -573,7 +573,7 @@ javascript: (() =>
 - [Karl Stolley, author of Programming WebRTC](https://forum.devtalk.com/t/spotlight-karl-stolley-author-interview-and-ama/82817)
 - [Polyfill for WebRTC in Workers](https://github.com/johanholmerin/worker-webrtc)
 
-### Canvas
+# Canvas
 
 - https://pqina.nl/blog/cropping-images-to-an-aspect-ratio-with-javascript
 - [A simple Christmas tree.](https://github.com/anvaka/atree)
@@ -595,16 +595,16 @@ javascript: (() =>
 - https://github.com/bubkoo/html-to-image
 - https://developer.mozilla.org/en-US/blog/javascript-shape-drawing-function
 
-### File System API
+# File System API
 
 - https://developer.chrome.com/articles/origin-private-file-system
 
-### Web Authentication API
+# Web Authentication API
 
 - https://goteleport.com/blog/how-passwordless-works
 - https://betterappsec.com/a-medium-dive-into-web-application-authentication-342d1d002a61
 
-### WebGL
+# WebGL
 
 - https://github.com/davidwparker/programmingtil-webgl + https://m.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl
 - https://tchayen.com/brief-explanation-of-webgl
@@ -630,28 +630,28 @@ javascript: (() =>
 - https://github.com/caged/regl-learn
 - https://github.com/erich666/RealTimeRendering
 
-### WebGPU
+# WebGPU
 
 - https://hackaday.com/2022/03/09/webgpu-better-than-webgl
 - [How Does a GPU Shader Core Work? | Aras Pranckevičius](https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
 - https://cohost.org/mcc/post/1406157-i-want-to-talk-about
 - https://github.com/gfxfundamentals/webgpufundamentals
 
-### Human Interface Device (WebHID)
+# Human Interface Device (WebHID)
 
 - https://github.com/robatwilliams/awesome-webhid
 
-### Web MIDI
+# Web MIDI
 
 - https://github.com/obensource/web-midi-api-docs
 - https://obensource.com/blogs/high-fidelity-event-sampling-and-playback-with-vanilla-javascript
 
-### WebUSB
+# WebUSB
 
 - https://github.com/webusb/awesome
 - https://charliegerard.dev/blog/aircraft-radar-system-rtl-sdr-web-usb
 
-### Headless
+# Headless
 
 - [Node library to automate Chromium, Firefox and WebKit browsers](https://github.com/microsoft/playwright) + [opinion](https://twitter.com/xopek59/status/1221460300387573760) + https://medium.com/@woff/arbitrary-file-read-tricks-with-headless-browsers-eeebc2d9e5c8
 - [Comparing Cypress and Puppeteer](https://swatinem.de/blog/cypress-puppeteer)
@@ -662,7 +662,7 @@ javascript: (() =>
 - https://github.com/humanwhocodes/puppeteer-data-extractor
 - http://blog.ezyang.com/2021/11/interactive-scraping-with-jupyter-and-puppeteer
 
-### Performance
+# Performance
 
 - https://github.com/leandrotk/web-performance-studies
 - [interactive flamegraph visualizer](https://github.com/jlfwong/speedscope)
@@ -684,8 +684,9 @@ javascript: (() =>
 - [Cumulative Layout Shift Differences](https://www.debugbear.com/blog/cls-lab-field-differences)
 - https://dev.to/noamr/when-a-millisecond-is-not-a-millisecond-3h6
 - https://web.dev/shopping-for-speed-on-ebay
+- https://www.jovidecroock.com/blog/browser-timings
 
-### Miscellaneous
+# Miscellaneous
 
 - [Web Browser Engineering](https://github.com/browserengineering/book) + https://courses.cs.washington.edu/courses/cse490x/22sp/lecture +
 - https://wiki.systemcrafters.net/guix/browsers
@@ -701,7 +702,7 @@ javascript: (() =>
 - https://github.com/dongri/emv-qrcode-doc
 - https://github.com/azu/browser-resources
 
-### Tool
+# Tool
 
 - [rrweb is an open source web session replay library, which provides easy-to-use APIs to record user's interactions and replay it remotely.](https://github.com/rrweb-io/rrweb)
 - https://github.com/captainbrosset/devtools-tips
@@ -710,7 +711,7 @@ javascript: (() =>
 - https://github.com/iipc/awesome-web-archiving
 - [using ForensiX to extract information about a Chrome dump](https://iosifache.me/posts/forensix-walktrough)
 
-### WebCryptoAPI
+# WebCryptoAPI
 
 - https://docs.google.com/presentation/d/1LbJcPulQ_a4utqNCUoGCk8GTQbchN2BL_kAF3DNJQbo
 - https://blog.intothesymmetry.com/2020/01/the-curious-case-of-webcrypto-diffie.html
