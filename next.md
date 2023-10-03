@@ -99,6 +99,10 @@
 - https://massimilianomirra.com/notes/test-driven-development-of-nextjs-api-routes
 - https://github.com/stuyy/nextjs-react-unit-testing-tutorial-typescript + https://youtu.be/Q-Sg4p_iQvw
 
+# Tool
+
+- [A simple tax calculator for freelancers working as sole traders (PFA) in Romania](https://github.com/taxepfa/taxepfa.github.io)
+
 # Watch
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUe0b-FOvDYr0vKJHYLX3SP1

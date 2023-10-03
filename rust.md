@@ -214,6 +214,7 @@
 - [How CloudFlare replaced NGINX with Pingora](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet)
 - https://simlay.net/posts/rust-target-runner-for-ios
 - RSS feed aggregator that notifies you of new posts via email: https://antoniosbarotsis.github.io/posts/rss2email, https://github.com/AntoniosBarotsis/Rss2Email
+- [command-line JSON viewer designed for reading, exploring, and searching through JSON data.](https://github.com/PaulJuliusMartinez/jless)
 
 # Opinion
 
