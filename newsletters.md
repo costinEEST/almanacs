@@ -360,7 +360,7 @@
 - https://tailwindweekly.com/rss
 - [CSS Simplified By Shruti Balasa](https://www.getrevue.co/profile/shrutibalasa)
 - [Hacker Newsletter](https://us1.campaign-archive.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)
-- https://apisecurity.io/full-archive
+- https://apisecurity.io/full-archive + https://apisecurity.io/#newsletter1
 - [Future of Coding Weekly](https://tinyletter.com/marianoguerra/archive)
 - [Matt Frisbie](https://mattfrisbie.substack.com/archive)
 - [Rachel Andrew](https://csslayout.news/archive)
@@ -546,3 +546,4 @@
 - [Alex Ciucă](https://miculparis.substack.com/archive)
 - [Victor](https://irlanda.substack.com/archive)
 - [Dorin Bofan](https://www.aertare.ro/archive)
+- [Anna Levina](https://us17.campaign-archive.com/home/?u=64bb705f04cb50a8e46684856&id=839056e049)

@@ -201,6 +201,7 @@
 # <title></title>
 
 - https://twitter.com/tunetheweb/status/1343848054571593729 + https://www.24a11y.com/2017/the-trials-and-tribulations-of-the-title-attribute
+- https://meiert.com/en/blog/minimal-valid-html
 
 # <video></video>
 
