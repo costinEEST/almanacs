@@ -1,10 +1,10 @@
-### Book
+# Book
 
 - https://www.amazon.com/Star-Wars-Rings-Hidden-Structure-ebook/dp/B074NZCFWT
 - https://www.goodreads.com/book/show/8065938-101-things-i-learned-in-film-school
 - http://thingsifinished.blogspot.com/2022/12/four-arguments-for-elimination-of.html
 
-### Community
+# Community
 
 - [I want to watch some excellent explainer videos](https://twitter.com/davidmcraney/status/1452993213850136585)
 - https://m.youtube.com/playlist?list=PLibX1c_-9kBYLT8ggLYMInj-S0jLx5kVH
@@ -13,7 +13,7 @@
 - https://informationisbeautiful.net/visualizations/what-is-the-most-successful-hollywood-movie-of-all-time
 - https://www.bbc.com/culture/article/20211015-the-100-greatest-tv-series-of-the-21st-century
 
-### Documentary
+# Documentary
 
 - https://www.theatlantic.com/culture/archive/2021/04/problem-nature-documentaries/618553
 - https://www.dailymail.co.uk/sciencetech/article-9475639/Nature-documentaries-present-animals-lives-soap-operas-study-says.html
@@ -33,20 +33,20 @@
 - [detecting fake fireworks, and other fake things online](https://www.patreon.com/posts/new-video-how-to-60215516)
 - https://www.timeout.com/film/best-documentaries-of-all-time
 
-### Interview
+# Interview
 
 - [Paul Chek on How To Live Fully and Save The World](https://gist.github.com/ccampean/476b4d56b2fd87eb183c3fee0317cb07#paul-chek-on-how-to-live-fully-and-save-the-world)
 
-### Inspire
+# Inspire
 
 - https://m.youtube.com/playlist?list=FL6XlvVH63g0H54HSJubURQA
 - [Meaning of Life Symposium | Manolis Kellis](https://m.youtube.com/playlist?list=PLypiXJdtIca7i8IrNye4IenjnUCP9LF35)
 
-### Historic
+# Historic
 
 - [The story of the Max Headroom pirating incident, one of the few successful television intrusions in history, and still unsolved](https://www.damninteresting.com/remember-remember-the-22nd-of-november)
 
-### Movie
+# Movie
 
 - https://shotdeck.com/browse/movies
 - [The Farewell (2019)](https://twitter.com/ourobororoboruo/status/1211559669094699009)
@@ -68,13 +68,14 @@
 - [R.M.N](https://www.libertatea.ro/entertainment/intalnire-multietnica-intensa-la-proiectia-filmului-lui-mungiu-in-harghita-4158454)
 - https://faroutmagazine.co.uk/10-most-disappointing-movies-all-time
 - [7 filme făcute în sate românești](https://mailchi.mp/delasat/filme-de-la-sat?e=75bebe984a)
+- https://faroutmagazine.co.uk/the-10-best-examinations-mental-health-in-cinema
 
-### Tool
+# Tool
 
 - [Collection of 8000+ publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)
 - [Search by word or phrase for TV, movies, and music clips](https://yarn.co)
 - https://github.com/iptv-org/awesome-iptv
 
-### TV series
+# TV series
 
 - https://www.theguardian.com/tv-and-radio/2019/sep/13/turkish-tv-magnificent-century-dizi-taking-over-world

@@ -108,6 +108,7 @@
 - [Distributed systems for fun and profit | Mikito Takada](https://mijailovic.net/2017/07/03/books-2017-q2)
 - [Programming Models for Distributed Computation](https://github.com/heathermiller/dist-prog-book)
 - [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077) + https://news.ycombinator.com/item?id=25987664 + https://dev.to/nyxtom/resources-for-learning-about-crdt-for-realtime-collaboration-5bkj
+- https://jakelazaroff.com/words/an-interactive-intro-to-crdts
 - https://github.com/benjamintanweihao/distributed-systems-references
 - https://caitiem.com/2017/09/07/getting-started-with-distributed-systems
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work | Alex Petrov](https://www.databass.dev)

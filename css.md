@@ -1,4 +1,4 @@
-### Animation
+# Animation
 
 - [Web Animation Essentials: CSS Animations and Transitions](https://courses.rachelnabors.com/courses/16861)
 - [Website Deconstructions - Ihatetomatoes](https://m.youtube.com/playlist?list=PLkEZWD8wbltl7OXS1CipiXZ0QjYEl5bL2)
@@ -17,7 +17,7 @@
 - https://github.com/petargyurov/virtual-bookshelf
 - https://kevinhufnagl.com/verceltext-gradient
 
-### Approach
+# Approach
 
 - https://calibreapp.com/blog/css-performance
 - https://css-tricks.com/building-a-scalable-css-architecture-with-bem-and-utility-classes
@@ -41,18 +41,18 @@
 - https://matthiasott.com/notes/custom-properties-beyond-the-root
 - https://www.abeautifulsite.net/posts/better-buttons-with-color-mix-and-custom-properties
 
-### Book
+# Book
 
 - https://debuggingcss.com
 - https://leanpub.com/css-optimization-basics + https://github.com/j9t/css-optimization-basics
 - https://www.steveworkman.com/bookshelf
 - https://pragprog.com/titles/tailwind2/modern-css-with-tailwind-second-edition
 
-### Course
+# Course
 
 - https://github.com/esplito/coding-notes/tree/master/css-for-js.dev
 
-### Watch
+# Watch
 
 - ["Making Things Better: Redefining the Technical Possibilities of CSS" by Rachel Andrew](https://aneventapart.com/news/post/making-things-better-aea-video)
 - [Know a good "CSS from Scratch" course you can recommend?](https://twitter.com/adamwathan/status/1244795112691060736)
@@ -69,7 +69,7 @@
 - https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css
 - https://www.freecodecamp.org/news/learn-tailwind-css
 
-### Color
+# Color
 
 - https://en.wikipedia.org/wiki/Louis_Cheskin#Bibliography
 - https://colornamer.netlify.com
@@ -123,7 +123,7 @@
 - https://backend.picular.co/api/search?query=%23C7C3C1
 - https://bottosson.github.io/posts/colorwrong
 
-### Community
+# Community
 
 - https://noti.st/rachelandrew
 - Amit Sheen: https://m.youtube.com/playlist?list=PLobGLCa6IPmhHCZn3q0GFs5hNimxgzjMK, https://codepen.io/amit_sheen
@@ -137,11 +137,11 @@
 - https://github.com/AllThingsSmitty/css-protips
 - [Prebuilt Tailwind components](https://github.com/sailboatui/sailboatui)
 
-### Design system
+# Design system
 
 - [Do you love design systems and magic?](https://twitter.com/danmall/status/1450825066502148102)
 
-### Inspire
+# Inspire
 
 - https://csslayout.io/patterns
 - https://web.dev/patterns/components
@@ -162,7 +162,7 @@
 - [CSS drawings with only one HTML element](https://github.com/lynnandtonic/a-single-div)
 - [A curated list of websites with an extra bit of fun](https://github.com/maxboeck/whimsical)
 
-### Measurement unit
+# Measurement unit
 
 - http://www.gregoryschmidt.ca/writing/when-is-a-pixel-not-a-pixel-pixels-points-dps
 - https://joshcollinsworth.com/blog/never-use-px-for-font-size
@@ -172,7 +172,7 @@
 - https://n12v.com/css-retina-and-physical-pixels
 - [vh, svh, lvh, and dvh](https://www.matuzo.at/blog/2022/100daysof-day38)
 
-### Property explained
+# Property explained
 
 - [min-content, max-content, fit-content](https://twitter.com/tunetheweb/status/1238753219574202369)
 - https://blog.logrocket.com/understanding-min-content-max-content-fit-content-css
@@ -212,7 +212,7 @@
 - https://fullystacked.net/posts/scope-in-css + https://twitter.com/pepelsbey_dev/status/1664767779369541632
 - https://blog.richardekwonye.com/bezier-curves
 
-### Selector
+# Selector
 
 - https://www.w3.org/2021/10/TPAC/demos/css-nesting.html
 - https://css-tip.com/first-last-element-with-class
@@ -222,8 +222,9 @@
 - https://matthiasott.com/notes/focus-visible-is-here + https://twitter.com/m_ott/status/1314917091523342338
 - https://www.bram.us/2021/04/15/identify-and-extract-pseudo-element-selectors-from-built-in-html-elements-using-devtools
 - https://www.azabani.com/2022/09/01/meet-the-css-highlight-pseudos.html + https://www.azabani.com/talks
+- https://developer.chrome.com/articles/at-scope
 
-### CSS variables
+# CSS variables
 
 - https://piccalil.li/tutorial/getting-started-with-css-custom-properties
 - https://increment.com/frontend/a-users-guide-to-css-variables
@@ -232,7 +233,7 @@
 - [CSS Vars + HSL colors = a powerful color system.](https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables)
 - [Dark mode in 5 minutes, with inverted lightness variables](https://lea.verou.me/2021/03/inverted-lightness-variables)
 
-### Container queries
+# Container queries
 
 - https://css.oddbird.net/rwd/query/explainer
 - [Designing With Container Queries](https://www.twitch.tv/videos/998378164)
@@ -241,7 +242,7 @@
 - https://github.com/sturobson/Awesome-Container-Queries
 - [Improving CSS Architecture with Cascade Layers, Container Queries, Scope](https://www.w3.org/2021/10/TPAC/demos/css-architecture.html)
 
-### CSS grid
+# CSS grid
 
 - https://layout.bradwoods.io
 - https://grid.layoutit.com
@@ -265,7 +266,7 @@
 - [discoveries on how the CSS gap property operates when hiding items in grid-template & grid-auto layouts](https://ryanmulligan.dev/blog/grid-gap)
 - [The new CSS `subgrid` value allows a child element to inherit the columns and rows from its parent](https://twitter.com/jh3yy/status/1692262942547345913) + https://codepen.io/jh3y/pen/zYyYGLx
 
-### FlexBox
+# FlexBox
 
 - https://github.com/philipwalton/flexbugs
 - https://github.com/philipwalton/solved-by-flexbox
@@ -274,14 +275,14 @@
 - https://tiffanybbrown.com/2022/01/how-does-flexbox-work/index.html
 - https://www.joshwcomeau.com/css/interactive-guide-to-flexbox
 
-### Media query
+# Media query
 
 - https://ethanmarcotte.com/wrote/points-break
 - https://polypane.app/blog/overlooked-breakpoints-in-responsive-design
 - https://www.sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os
 - https://helloyes.dev/blog/2022/re:-css-breakpoints-every-developer-needs-to-know
 
-### Layout
+# Layout
 
 - https://web.dev/patterns/layout
 - https://github.com/incompl/csslayoutsite
@@ -299,7 +300,7 @@
 - [A collection of CSS snippets to help you do progressive enhancement in eBooks](https://github.com/FriendsOfEpub/eBookTricks)
 - https://foobartel.com/notes/css-contextual-spacing
 
-### Tool
+# Tool
 
 - [Creating tiny zines using HTML/CSS layout.](https://github.com/trueskawka/css-zines)
 - [An extensive list of CSS/JS browserhacks from all over the interwebs.](https://github.com/4ae9b8/browserhacks)
@@ -328,7 +329,7 @@
 - https://flowbite.com/tools/tailwind-cheat-sheet
 - https://github.com/evilmartians/oklch-picker + https://bottosson.github.io/posts/oklab + [Two new color spaces for color picking - Okhsv and Okhsl](https://bottosson.github.io/posts/colorpicker)
 
-### Security
+# Security
 
 - http://www.irongeek.com/i.php?page=videos/bsidestampa2020/track-e-09-http-covert-channel-using-only-htmlcss-thomas-slota-william-york
 - https://github.com/PortSwigger/css-exfiltration + https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css
@@ -337,12 +338,12 @@
 - https://www.secforce.com/blog/new-technique-of-stealing-data-using-css-and-scroll-to-text-fragment-feature
 - https://sanderwind.medium.com/unleashing-the-power-of-css-injection-the-access-key-to-an-internal-api-789b166d0527
 
-### Opinion
+# Opinion
 
 - https://wiki.csswg.org/ideas/mistakes
 - https://dfkaye.com/posts/2021/05/07/custom-attributes-are-fast-good-and-cheap + https://www.keithcirkel.co.uk/css-classes-considered-harmful
 
-### Radio
+# Radio
 
 - https://modernweb.podbean.com/e/s08e012-modern-web-podcast-modern-css-accessibility-with-stephanie-eckles
 - https://scrimba.com/podcast/how-not-to-struggle-with-css-with-kevin-powell

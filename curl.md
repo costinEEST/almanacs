@@ -34,3 +34,7 @@
 - [Print out 256 colours, with each number printed in its corresponding colour](https://gist.github.com/HaleTom/89ffe32783f89f403bba96bd7bcd1263?permalink_comment_id=3704135#gistcomment-3704135)
 - https://www.hanshq.net/html-validation-with-curl.html
 - https://danaepp.com/mastering-api-exploitation-crafting-reverse-shells-via-curl
+
+# Security
+
+- https://semgrep.dev/blog/2023/curl-vulnerability

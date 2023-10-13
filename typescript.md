@@ -131,6 +131,7 @@
 - https://trpc.io/blog/tinyrpc-client
 - https://github.com/g-plane/type-gymnastics
 - https://github.com/jonahsnider/aoc-2022 + https://github.com/jonahsnider/aoc-2021 + https://github.com/jonahsnider/aoc-2020 + https://github.com/jonahsnider/aoc-2019 + https://github.com/jonahsnider/aoc-2018
+- https://zackoverflow.dev/writing/write-your-own-zod
 
 # Radio
 

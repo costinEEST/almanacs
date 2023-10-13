@@ -486,6 +486,7 @@
 - [Solving common performance pitfalls with React tooling and hooks](https://www.causal.app/blog/react-perf)
 - https://julesblom.com/writing/react-optional-parameters
 - https://richiemccoll.com/visualising-front-end-performance-bottlenecks
+- https://www.builder.io/blog/hydration-sabotages-lazy-loading
 
 ### Testing
 

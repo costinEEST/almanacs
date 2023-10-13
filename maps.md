@@ -47,12 +47,13 @@
 - https://somethingaboutmaps.wordpress.com/2020/03/19/how-to-do-map-stuff
 - https://www.openculture.com/2022/05/how-did-cartographers-create-world-maps-before-airplanes-and-satellites-an-introduction.html
 
-### Development
+# Development
 
 - [Library for creating custom geo data and syncronizing via a peer to peer network](https://github.com/digidem/mapeo-core)
 - https://suntprogramator.dev/2019/08/qgis-plugin-implementarea-serviciului-map-md-api
 - https://tchayen.com/fetching-data-from-the-open-street-maps
 - https://github.com/kachkaev/tooling-for-how-old-is-this-house
+- https://blog.meain.io/2022/self-hosted-location-history + https://github.com/OwnTracks
 
 ### Miscellaneous
 

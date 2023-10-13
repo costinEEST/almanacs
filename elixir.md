@@ -27,6 +27,10 @@
 - https://github.com/lucasvegi/Elixir-Code-Smells
 - https://joyyo.app/elixir-for-humans-who-know-python
 
+# Security
+
+- [Sobelow, a static code analysis tool for Elixir and Phoenix: project planning, understanding your app’s security model, triaging findings](https://paraxial.io/blog/real-sobelow)
+
 # Testing
 
 - [Partitioning Elixir Tests with Github Actions](https://nathanwillson.com/blog/posts/2022-11-11-partitioned_tests)

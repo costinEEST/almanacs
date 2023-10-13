@@ -83,11 +83,15 @@
 
 - https://bradgarropy.com/blog/next-over-remix
 - https://twitter.com/ImSh4yy/status/1671251883913285632
+- https://www.felixvemmer.com/blog/why-next-js
+- https://practicalprogrammatic.com/blog/programmatic-seo-in-nextjs
 
 # Package
 
 - https://github.com/garmeeh/next-seo
 - [WordPress-like CMS](https://github.com/CromwellCMS/Cromwell)
+- https://github.com/ekmas/neobrutalism-components
+- [A turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio](https://github.com/TimMikeladze/next-upload)
 
 # Serverless
 
