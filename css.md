@@ -226,6 +226,7 @@
 
 # CSS variables
 
+- https://jwdallas.com/posts/namingcssvariables
 - https://piccalil.li/tutorial/getting-started-with-css-custom-properties
 - https://increment.com/frontend/a-users-guide-to-css-variables
 - https://www.sarasoueidan.com/blog/style-settings-with-css-variables
