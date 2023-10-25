@@ -198,6 +198,7 @@
 - https://github.com/dogsheep/apple-notes-to-sqlite
 - https://github.com/almandin/ntdsdotsqlite
 - [proposal: should node expose a persistent KV API](https://github.com/nodejs/node/issues/49663)
+- [SQLite database manager written in C++, with use of Qt framework](https://github.com/pawelsalawa/sqlitestudio)
 
 ### Graph databases
 

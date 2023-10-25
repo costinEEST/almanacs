@@ -140,6 +140,7 @@
 - https://github.com/stars/SummerSec/lists/java-tools
 - [A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)](https://github.com/Konloch/bytecode-viewer)
 - https://www.chrisatmachine.com/posts/01-versioning-java-with-sdkman
+- [Quickly find differences and similarities in disassembled code](https://github.com/google/bindiff)
 
 # Security
 
