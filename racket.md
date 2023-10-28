@@ -1,6 +1,7 @@
 # Book
 
 - [How to Design Programs, Second Edition](https://htdp.org/2023-5-12/Book/index.html) + https://m.youtube.com/@DrRacketAcademy/playlists?view=1&sort=lad&flow=grid + https://legacy.cs.indiana.edu/classes/c211/syllabus.html
+- https://leanpub.com/racket-ai/read + https://github.com/mark-watson/Racket-AI-book-code
 
 ### Compiler
 

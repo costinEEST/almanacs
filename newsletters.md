@@ -526,7 +526,7 @@
 - https://cellphonetaskforce.org/newsletters
 - [Lillian Li](https://lillianli.substack.com/archive)
 - [Codruța Simina & Ovidiu Mihalcea: știri despre știrile false](https://misreport.substack.com/archive)
-- [Dragoș Pătraru](https://us19.campaign-archive.com/home/?u=63a8eb99e7303ae445b623639&id=deb876637c)
+- [Starea nației | Dragoș Pătraru](https://us19.campaign-archive.com/home/?u=63a8eb99e7303ae445b623639&id=deb876637c)
 
 # Social sciences
 

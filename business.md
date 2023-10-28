@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [Tell-all company origin story](https://twitter.com/SachinMonga/status/1178522941954220033)
 - [I'm recommending my team read these five books.](https://twitter.com/dcancel/status/1206918216309706752)
@@ -30,7 +30,7 @@
 - https://www.goodreads.com/review/list/19131383-nick-chandler-klein?order=d&shelf=good-books-for-economists&sort=rating
 - [Empire of the Sum - The Rise and Reign of the Pocket Calculator](https://wwnorton.com/books/9780393882148/about-the-book/product-details)
 
-### Cinema
+# Cinema
 
 - [Technology History | ColdFusion](https://m.youtube.com/playlist?list=PL0iVR8sl9TiWhylpe3dyKKPRvTJHX3Ns7)
 - [Want to do an MBA for free ?](https://twitter.com/sahilypatel/status/1414565655471280132)
@@ -41,13 +41,13 @@
 - [Whiteboard Videos (NFX Essays)](https://m.youtube.com/playlist?list=PLsJrGp31IOefcwlyFN9F6YPUFCNlM51hs)
 - [Refresh: the show about building an indie developer business](https://refresh-show.notion.site/Refresh-355e7181c3a6425380f460c9fdcc0630)
 
-### Course
+# Course
 
 - https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective
 - https://www.udemy.com/course/startup-fundraising-master-course
 - https://www.victorcho.com/course-index + https://twitter.com/VictorCho/status/1521945947797815297
 
-### Community
+# Community
 
 - [The modern security stack](https://twitter.com/jack_naglieri/status/1507405816701198337)
 - https://www.fastcompany.com/most-creative-people/list
@@ -56,7 +56,7 @@
 - https://github.com/lukasz-madon/awesome-remote-job
 - https://gettogether.world
 
-### Marketing
+# Marketing
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUdTpa8U_pAfqZY9mYoh_WnB
 - [Curated list to achieve visibility for your product](https://github.com/dehenne/awesome-visibility)
@@ -75,7 +75,7 @@
 - [Bynder interviewed hundreds of marketing experts to find out how they're using technology to entice consumers with digital content](https://www.bynder.com/en/chartr-newsletter)
 - https://github.com/ronakganatra/awesome-developer-marketing
 
-### Branding
+# Branding
 
 - https://twitter.com/david_perell/status/1226001494530514944
 - https://github.com/cheeaun/branding
@@ -87,19 +87,19 @@
 - http://libber.org/some_parts_of_being_a_great_engineer.html
 - [Incredible rebrands](https://twitter.com/cpaik/status/1672781488683724800)
 
-### Ethics
+# Ethics
 
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=medical-ethics
 - [Businesses committed to packaging sustainability](https://github.com/kepano/slashpackaging)
 
-### Publishing
+# Publishing
 
 - [How do people self publish books?](https://twitter.com/EmmaWedekind/status/1177325024887418880)
 - [Just Enough Co-Authoring in Leanpub.](https://leanpub.com/jeco-authoring)
 - https://medium.com/@jeremyjkun/on-self-publishing-a-programmers-introduction-to-mathematics-1472b7511c99
 - [TeachableU - Learn how to create, launch, and sell profitable online courses.](https://discover.teachable.com/course/teachableu)
 
-### Management
+# Management
 
 - https://www.coursera.org/learn/uva-darden-digital-product-management#syllabus
 - https://textslashplain.com/2022/05/18/thoughts-on-impact
@@ -143,7 +143,7 @@
 - [Lean from the Trenches. Managing Large-Scale Projects with Kanban](https://pragprog.com/titles/hklean/lean-from-the-trenches)
 - [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 
-### Leadership
+# Leadership
 
 - https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y
 - [Simply Leadership](https://leanpub.com/simplyleadership)
@@ -160,7 +160,7 @@
 - [The best leaders are great individual contributors, not professional managers](https://news.ycombinator.com/item?id=33843160)
 - https://www.joshwaitzkin.com/recommended-reading-leadership-culture
 
-### Strategy
+# Strategy
 
 - [Technology Strategy Patterns: Architecture as Strategy](https://learning.oreilly.com/library/view/technology-strategy-patterns/9781492040866)
 - https://www.singhkays.com/blog/how-spotify-is-killing-the-open-podcast-ecosystem
@@ -168,7 +168,7 @@
 - https://www.protocol.com/chess-streaming-twitch-hikaru-botez
 - https://rebelmarkets.substack.com/p/the-history-and-future-of-airpods
 
-### Culture
+# Culture
 
 - https://ecsbeats.github.io/about/#company-culture--practice
 - https://danieltenner.com/open-cultures
@@ -193,7 +193,7 @@
 - [A curated list of engineering ladder, path and compensation frameworks](https://github.com/92bondstreet/awesome-engineering-path)
 - https://www.checklyhq.com/blog/achieving-company-retreat-goals-with-the-right-schedule
 
-### Startups
+# Startups
 
 - https://m.ycombinator.com/library
 - https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/winning-formula-how-europes-top-tech-start-ups-get-it-right
@@ -230,7 +230,7 @@
 - https://github.com/dakshshah96/awesome-startup-credits
 - https://github.com/forter/security-101-for-saas-startups
 
-### Investing
+# Investing
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUfvSw0xxQU1yzmsV2DrQWow
 - https://twitter.com/TimJonesBI/status/1333060108981592065
@@ -250,7 +250,7 @@
 - https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model
 - https://boyle.substack.com/p/five-books-for-venture-capital
 
-### Economics
+# Economics
 
 - [Basic Economics: A Common Sense Guide to the Economy](https://www.amazon.com/Basic-Economics-Common-Sense-Economy/dp/0465002609)
 - [Looking for a Payment Provider?](https://twitter.com/findingmarbles/status/1225524171993690114)
@@ -263,14 +263,14 @@
 - [A list of micro grant programs for your good ideas](https://github.com/nayafia/microgrants)
 - [CS 007: Personal Finance for Engineers](https://news.ycombinator.com/item?id=33890925)
 
-### Geopolitics
+# Geopolitics
 
 - https://en.wikipedia.org/wiki/Prisoners_of_Geography
 - [The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower ](https://www.goodreads.com/book/show/20696000-the-hundred-year-marathon)
 - [Technics and Civilization - Lewis Mumford](https://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273)
 - https://oll.libertyfund.org/pages/idea-of-progress-a-bibliographical-essay-by-robert-nisbet
 
-### Innovation
+# Innovation
 
 - https://www.notion.so/Progress-Studies-101-7089d11646d144928ded1274e1b03755
 - https://learning.oreilly.com/library/view/the-innovators-toolkit/9781118331873/
@@ -303,7 +303,7 @@
 - [The 50 Worst Inventions](http://content.time.com/time/specials/packages/completelist/0,29569,1991915,00.html)
 - https://www.forbes.com/sites/jeremybogaisky/2022/06/03/palmer-luckey-anduril
 
-### Essays
+# Essays
 
 - http://paulgraham.com/lesson.html + https://listle.io/embed/3996601668
 - https://florentcrivello.com/index.php/2020/01/06/how-apple-sells-software-at-hardware-prices
@@ -314,7 +314,7 @@
 - https://www.researchgate.net/publication/265637998_How_Nokia_Failed_to_Nail_the_Smartphone_Market
 -
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/kdeldycke/awesome-falsehood#business
 - https://github.com/kdeldycke/awesome-billing
@@ -332,15 +332,16 @@
 - https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines
 - https://www.theverge.com/2023/7/31/23813929/dell-generative-ai-laptops-amazon
 
-### Opinion
+# Opinion
 
 - https://www.pwc.com/world2050
 - https://www.matthewball.vc/the-metaverse-primer
 - [Apple, Its Control Over the iPhone, and The Internet](https://www.matthewball.vc/all/applemetaverse)
 - [Amir Yaron, the Governor of the Bank of Israel](https://twitter.com/ittaia/status/1544730206342189056)
 - https://danielmiessler.com/blog/why-apple-keeps-winning
+- https://brucelawson.co.uk/2023/apple-browser-ban-expect-eu-legal-fighting
 
-### Radio
+# Radio
 
 - https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020
 - https://markmcgranaghan.com/podcasts
