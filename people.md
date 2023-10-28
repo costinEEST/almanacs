@@ -112,6 +112,10 @@
 - https://m.youtube.com/watch?v=tEiV49ePpRU
 - https://twitter.com/geoffreylitt/status/1554657224596733952
 
+# Dan Ariely 
+
+- https://www.facebook.com/DanielPFuneriu/posts/pfbid02eNQd3Am6G3HEH4NMBrPz8L5BrnqWfqeKYRRoEDotZYv1s57XVyPamBbwwBvUfY6Tl
+
 # David Bohm
 
 - https://en.wikipedia.org/wiki/Bohm_Dialogue
