@@ -1,4 +1,4 @@
-### Active Directory (AD)
+# Active Directory (AD)
 
 - https://blog.spookysec.net/ad-lab-2
 - https://identityaccess.management/2019/12/30/active-directory-security-fundamentals
@@ -15,7 +15,7 @@
 - https://twitter.com/drunkrhin0/status/1564757368168099840
 - https://github.com/stars/adityatelange/lists/activedirectory
 
-### Book
+# Book
 
 - [Windows 11 From Beginner to Advanced](https://www.amazon.com/dp/B09HG2RV9X)
 - [Windows Kernel Programming](https://github.com/Truneski/WindowsKernelProgramming-Exercises)
@@ -23,7 +23,7 @@
 - https://ofershmueli.medium.com/best-cybersecurity-books-to-read-72b9a156945e
 - https://github.com/DanielAvinoam/WindowsKernelProgrammingBook
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUeJrvjEuCygYk4QiTXQpOyW
 - [Using Windows 10 - Technical Previews and How Tos! - Scott Hanselman](https://m.youtube.com/playlist?list=PL0M0zPgJ3HSdI26ZdgX-F8aAKnh9sq6on)
@@ -31,17 +31,17 @@
 - https://m.youtube.com/playlist?list=PLn__CHOEZR1bjS_GvcjzSmZg524jTKQg_
 - https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp
 
-### Courses
+# Courses
 
 - https://www.pluralsight.com/authors/sami-laiho
 
-### Community
+# Community
 
 - [FreeDOS](https://www.facebook.com/groups/freedos)
 - [Raymond Chen](https://devblogs.microsoft.com/oldnewthing/author/oldnewthing)
 - Dmitry Vostokov: https://www.dumpanalysis.org/Links, https://www.patterndiagnostics.com/training-courses, https://leanpub.com/podcasts/frontmatter/dmitry-vostokov-09-11-21
 
-### How to
+# How to
 
 - https://www.bleepingcomputer.com/news/microsoft/you-can-still-upgrade-to-windows-10-for-free-heres-how
 - https://twitter.com/JenMsft/status/1218526323271823360
@@ -57,8 +57,9 @@
 - http://intertwingly.net/blog/2021/10/11/Genie-WSLg
 - https://xret2pwn.github.io/The-Art-of-Clipboard-Forensics-Recovering-Deleted-Data
 - https://github.com/wdwinslow/win10-wsl-ubuntu-vscode-pythondev
+- https://github.com/victor23k/blog/blob/main/pages/2023/wsl_server_connect_via_windows.mdx
 
-### Internals
+# Internals
 
 - [How the compilation and linkage model works in windows at the assembly level.](https://twitter.com/0xrepnz/status/1204015835909689344)
 - ["technically Windows is open source"](https://twitter.com/Yannayli/status/1228269110640959489)
@@ -67,16 +68,16 @@
 - [Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)](https://github.com/j00ru/windows-syscalls)
 - [The simplest way to expose apps running on WSL to local network devices](https://github.com/icflorescu/expose-wsl)
 
-### Licence
+# Licence
 
 - https://storygram.ro/acasa/73-windows-11-pro-retail-3264-bit-all-languages-licenta-electronica.html
 - https://github.com/massgravel/Microsoft-Activation-Scripts
 
-### Users
+# Users
 
 - https://samsaffron.com/archive/2019/03/31/why-i-stuck-with-windows-for-6-years-while-developing-discourse
 
-### Tool
+# Tool
 
 - https://knifecoat.com/Tools/Windows
 - [Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files.](https://github.com/tibold/svg-explorer-extension)
@@ -98,11 +99,11 @@
 - [process injection enumeration tool written in C#](https://github.com/gh0x0st/wanderer)
 - https://lud1161.wordpress.com/2017/01/15/all-about-keyloggers
 
-### notepad.exe
+# notepad.exe
 
 - https://twitter.com/JaekelEDV/status/942496501393223680 + https://www.groovypost.com/howto/5-groovy-things-about-notepad-exe
 
-### Security
+# Security
 
 - [Windows Post-Exploitation / Malware Forward Engineering](https://github.com/zerosum0x0/defcon-25-workshop/blob/master/DEFCON25.pdf)
 - https://www.volexity.com/wp-content/uploads/2020/04/Volexity-Cyber-Session-September-2019-Windows10DFIR.pdf + https://www.volexity.com/company/resources/windows-10-dfir-challenges-andrew-case
@@ -116,7 +117,7 @@
 - https://github.com/sailay1996/awesome_windows_logical_bugs
 - [Tool for Active Directory Certificate Services enumeration and abuse](https://github.com/ly4k/Certipy) + https://m.youtube.com/@hacktricks_LIVE/videos
 
-### Clean up
+# Clean up
 
 - [Windows 10 Digital License (HWID) & KMS38™ Generation](https://www.aiowares.com/showthread.php?tid=246)
 - https://github.com/W4RH4WK/Debloat-Windows-10
@@ -127,12 +128,12 @@
 - https://github.com/beerisgood/Windows11_Hardening
 - https://gist.github.com/alirobe/7f3b34ad89a159e6daa1
 
-### Opinion
+# Opinion
 
 - [Windows Subsystem for Linux](https://twitter.com/n_o_t_h_a_n_k_s/status/1245345174944964608)
 - https://blog.usejournal.com/windows-95-how-does-it-look-today-feda837922d9 + https://news.ycombinator.com/item?id=26676957 + https://twitter.com/flaviocopes/status/1378269064091553793
 
-### Radio
+# Radio
 
 - https://www.theverge.com/22807858/tiktok-influencer-microsoft-excel-instagram-decoder-podcast
 - https://codingafterwork.se/episodes/6e49ba22-1acd-487f-833e-dc7d0c565e13

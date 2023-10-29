@@ -470,6 +470,7 @@
 
 - [Marius Cosmeanu](https://savantgarde.substack.com/recommendations)
 - https://github.com/kilimchoi/engineering-blogs
+- [Niciodată Singur](https://us14.campaign-archive.com/home/?u=cad0073ae6ad1145fd74da462&id=fa795fc996)
 
 # Music
 
