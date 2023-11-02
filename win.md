@@ -98,6 +98,8 @@
 - https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-in-the-microsoft-store-is-now-generally-available-on-windows-10-and-11
 - [process injection enumeration tool written in C#](https://github.com/gh0x0st/wanderer)
 - https://lud1161.wordpress.com/2017/01/15/all-about-keyloggers
+- https://nelsonslog.wordpress.com/2023/11/02/windows-fan-speed-controls-in-2023
+
 
 # notepad.exe
 

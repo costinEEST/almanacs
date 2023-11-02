@@ -1,4 +1,4 @@
-### Application
+# Application
 
 - [Auto Price](https://devforum.ro/t/aplicatie-android-verificarea-pretului-de-piata-al-unui-autoturism/12053)
 - [NoConnect is a real-time messaging application like WhatsApp which does not rely on any traditional GSM/CDMA network or any kind of internet service to communicate with each other unlike WhatsApp](https://twitter.com/Debloper/status/1206358762275004417)
@@ -23,14 +23,14 @@
 - [Data usage monitor app for android](https://github.com/itsdrnoob/DataMonitor)
 - https://github.com/Docile-Alligator/Infinity-For-Reddit
 
-### Book
+# Book
 
 - [Jetpack Compose internals](https://leanpub.com/composeinternals) + https://twitter.com/JorgeCastilloPr/status/1420427677044035592
 - https://github.com/PacktPublishing/The-Complete-Intermediate-Android-Masterclass
 - https://www.packt.com/product/mobile/b18036-android-studio-4-2-development-essentials-java-edition
 - https://github.com/mgp/book-notes/blob/master/learning-android.markdown
 
-### Community
+# Community
 
 - [Chiu-Ki Chan](http://chiuki.github.io)
 - https://github.com/Nickersoft/awesome-careers#android-engineer
@@ -39,7 +39,7 @@
 - https://blog.esper.io/build-android-phone-with-gms
 - https://github.com/wasabeef/awesome-android-ui
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUedUfuFvl0osPPKWCcajPiN
 - [Deep dive into MotionLayout by Bogdan Zurac](https://docs.google.com/presentation/d/1957szdWm2Uj1YSF8ffWS0_5UOjRN6cysLMWuVdeRT4s)
@@ -48,7 +48,7 @@
 - [Foundations of Hacking and Penetration Testing Android Apps](https://m.youtube.com/playlist?list=PL2EF13wm-hWAr15jPUoS3pMmryfZiehxq) + https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps
 - [AOSP Build References](https://m.youtube.com/playlist?list=PLeiDFxcsdhUq6Ch-9AAtiVU7Lw0tTSnKb) + https://github.com/stars/adityatelange/lists/android-aosp
 
-### Course
+# Course
 
 - https://www.udemy.com/course/android-app-hacking-black-belt-edition
 - [Mobile Application Development (5th bullet)](https://github.com/Developer-Y/cs-video-courses#software-engineering)
@@ -62,7 +62,7 @@
 - Android Development with Compose: https://codelabs.developers.google.com/?text=compose + https://developer.android.com/courses/pathways/compose + https://www.udemy.com/course/jetpack-compose-masterclass + [Jetpack Compose |
   Philipp Lackner](https://m.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
 
-### Internals
+# Internals
 
 - https://blog.esper.io/android-dessert-bites-22-linux-memory-management-38419756
 - https://blog.esper.io/android-13-exact-alarm-api-restrictions
@@ -70,7 +70,7 @@
 - https://github.com/LineageOS/android_device_xiaomi_sdm845-common
 - https://blog.minhazav.dev/android-camera-hardware-explained
 
-### Tool
+# Tool
 
 - Using a DigiSpark(Cheaper alternative to using an Arduino Uno) to interact with a mobile device
   : [tweet](https://twitter.com/G1nGe98/status/1183016558773391360) + [slides](https://docs.google.com/presentation/d/1F2h3bIF_D1AEGeG0boCobnBshI9gEzmN9TlSWq_ONpw/edit#slide=id.g62eed3bf43_0_106)
@@ -103,13 +103,14 @@
 - [Extract firmware images from an Android OTA payload.bin file](https://github.com/cyxx/extract_android_ota_payload)
 - [reverse engineering & automation framework](https://github.com/rev1si0n/lamda)
 - https://github.com/stars/adityatelange/lists/android-aosp + https://www.youtube.com/playlist?list=PLeiDFxcsdhUq6Ch-9AAtiVU7Lw0tTSnKb + https://github.com/Akipe/awesome-android-aosp
+- https://mattj.io/sms-backup-reader
 
-### APIs
+# APIs
 
 - [The reference implementation for designing the international payments experience with the TransferWise API.](https://github.com/transferwise/banks-reference-android)
 - https://www.freecodecamp.org/news/java-android-app-using-rest-api-network-data-in-android-course
 
-### Development
+# Development
 
 - https://devtut.github.io/android
   ־ [Find Android sources](https://github.com/pyricau/androidsrc)
@@ -139,7 +140,7 @@
 - https://sal.dev/android/android-live-wallpaper
 - https://dominikberner.ch/cmake-android-apk-and-qt
 
-### Opinion
+# Opinion
 
 - https://github.com/android10/Android-CleanArchitecture
 - https://www.tbray.org/ongoing/When/202x/2020/02/09/Why-Android
@@ -148,7 +149,7 @@
 - https://techcrunch.com/2021/06/02/huawei-officially-launches-android-alternative-harmonyos-for-smartphones
 - https://github.com/zyrikby/android_permission_evolution
 
-### Security
+# Security
 
 - https://www.hackthebox.com/blog/intro-to-mobile-pentesting
 - https://madaidans-insecurities.github.io/android.html
@@ -187,6 +188,6 @@
 - [Reversing UK mobile rail tickets](https://news.ycombinator.com/item?id=34640433)
 - https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard
 
-### Radio
+# Radio
 
 - https://blog.esper.io/what-is-google-play-services

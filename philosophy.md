@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [Doing Good Better | William MacAskill](https://blog.foolip.org/2015/09/28/the-life-you-can-save)
 - https://www.amazon.com/Beauty-Very-Short-Introduction-Introductions-ebook-dp-B005CU4THS/dp/B005CU4THS
@@ -7,12 +7,12 @@
 - [Handbook of Analytic Philosophy of Medicine | Kazem Sadegh-Zadeh](https://link.springer.com/book/10.1007/978-94-017-9579-1#toc)
 - https://www.amazon.com/Greatest-Empire-Life-Seneca/dp/0199926646
 
-### Community
+# Community
 
 - [Philosophy Organizations on Twitter](https://truesciphi.org/phiorg_fol.html)
 - https://github.com/dmvaldman/library/tree/master/essays
 
-### Cinema
+# Cinema
 
 - [An Introduction to the History of Greek Philosophy. Angie Hobbs, Professor of the Public Understanding of Philosophy explores the history of Greek philosophy.](https://digitalmedia.sheffield.ac.uk/channel/An%20Introduction%20to%20the%20History%20of%20Greek%20Philosophy/67833861)
 - [Philosophy in Practice](https://www.imdb.com/title/tt12479684)
@@ -22,11 +22,11 @@
 - [Problems of Philosophy](https://mitxonline.mit.edu/courses/course-v1:MITxT+24.10x)
 - https://www.jeffreykaplan.org/youtube
 
-### Islamic
+# Islamic
 
 - https://decafquest.gumroad.com/l/islamic-philosophy/earlybird
 
-### Miscellaneous
+# Miscellaneous
 
 - https://m.youtube.com/user/gbisadler/playlists
 - https://www.philosophybro.com
@@ -47,7 +47,7 @@
 - http://edithhall.co.uk/aristotle
 - [Respice post te. Hominem te esse memento. Memento mori!](https://twitter.com/SahilBloom/status/1366072879213813762)
 
-### Stoicism
+# Stoicism
 
 - https://reasonio.teachable.com/p/epictetus-enchiridion
 - https://figsinwinter.blog/2021/07/30/how-to-live-a-good-life-two-examples
@@ -65,23 +65,24 @@
 - https://www.goodreads.com/review/list/12178282?shelf=stoicism
 - https://piggsboson.medium.com/what-is-scientific-stoicism-922392bbbfab
 
-### Marxism
+# Marxism
 
 - https://www.voxa.ro/ebooks/pe-umerii-lui-marx-o-introducere-in-istoria-comunismului-romanesc
 - https://github.com/dessalines/essays/blob/master/dessalines_marxism_study_plan.md
 - [Hermes the Thief: The Evolution of a Myth | Norman O. Brown](https://en.wikipedia.org/wiki/Norman_O._Brown#Work)
 - [Anton Bacalbașa](https://ro.wikipedia.org/wiki/Anton_Bacalba%C8%99a#Date_biografice)
 
-### Radio
+# Radio
 
 - https://blog.foolip.org/2015/10/09/more-podcast-recommendations
 
-### Socialism
+# Socialism
 
 - https://github.com/dessalines/essays/blob/master/crash_course_socialism.md
 
-### Reference
+# Reference
 
 - https://github.com/ashleygwilliams/philosophy_club
 - [Understanding Society](https://gist.github.com/balupton/f0a7f7bf49c849a8a5f5e7021f2dc273)
 - https://plato.stanford.edu/entries/chinese-room, https://ro.frwiki.wiki/wiki/Chambre_chinoise
+- https://ralphammer.substack.com/immanuel-kantwhat-can-we-know
