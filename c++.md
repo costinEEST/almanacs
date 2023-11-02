@@ -1,13 +1,13 @@
-### Algorithm
+# Algorithm
 
 - [Algorithms for Competitive Programming](https://github.com/e-maxx-eng/e-maxx-eng)
 - https://github.com/stevenhalim/cpbook-code
 
-### API
+# API
 
 - [Optimizing Performance and Energy Efficiency in Massively Parallel Systems](https://github.com/thesis-nozal/PhD)
 
-### Book
+# Book
 
 - [The design and evolution of C++ by Bjarne Stroustrup](https://twitter.com/oznova_/status/1214971707863101440)
 - [Modern OpenGL guide](https://github.com/Overv/Open.GL)
@@ -20,8 +20,10 @@
 - https://github.com/PacktPublishing/Deciphering-Object-Oriented-Programming-with-CPP
 - https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
 - https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf + https://www.oreilly.com/library/view/c-primer-fifth/9780133053043 + https://twitter.com/AdamRackis/status/1599959588937555968 + https://www.youtube.com/playlist?list=PLanS_SVm5swgrFrqo-NTITZxud4KRmZgB + https://cppcon.org/b2b + https://diveintosystems.org
+- https://lesleylai.info/en/professional-cmake
+- https://lesleylai.info/en/functional-cpp
 
-### Cheat sheet
+# Cheat sheet
 
 - https://devtut.github.io/cpp
 - https://github.com/cpp-best-practices/cppbestpractices
@@ -39,8 +41,9 @@
 - https://github.com/kiat/OOP-Design-Patterns
 - [Pointers, References and Dynamic Memory Allocation](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp4_PointerReference.html)
 
-### Community
+# Community
 
+- https://lesleylai.info/en/delve_into_cpp
 - https://twitter.com/merni_/status/1359781105931583488
 - https://increment.com/software-architecture/primer-on-functional-architecture
 - [Yacob (Kobi) Cohen-Arazi](https://twitter.com/kobi_ca)
@@ -48,7 +51,7 @@
 - [David William Plummer](https://m.youtube.com/c/DavesGarage/playlists)
 - https://github.com/bajamircea/bajamircea.github.io
 
-### Cinema
+# Cinema
 
 - https://github.com/hellerve/programming-talks#c-1
 - [C++ for Hackers](https://twitter.com/jalospinoso/status/1216416792635232256)
@@ -63,7 +66,7 @@
 - https://m.youtube.com/playlist?list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy
 - [C++ for Java Programmers | Mary Elaine Califf](https://m.youtube.com/playlist?list=PLrB7VCHji9zhoXMnbNUBqvD-NIi7XK2xD)
 
-### Course
+# Course
 
 - https://www.udemy.com/course/free-learn-c-tutorial-beginners
 - https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c
@@ -76,12 +79,12 @@
 - [Intermediate software design | Douglas C. Schmidt](http://www.dre.vanderbilt.edu/~schmidt/cs251)
 - [CSC3510 Computer Organization](https://github.com/pkivolowitz/CSC3510-S-2023)
 
-### Compiler
+# Compiler
 
 - https://m.youtube.com/playlist?list=PLWUx_XkUoGTruCwBHdpTtx_f3WkbgUmUv
 - https://underscorehao.net/2021/11/compiling-cpp-sfml-windows-cli
 
-### Tool
+# Tool
 
 - [HNTerm is a small console application written in C++ for browsing Hacker News. ](https://github.com/ggerganov/imtui/tree/master/examples/hnterm)
 - https://gourav.io/blog/setup-vscode-to-run-debug-c-cpp-code
@@ -91,18 +94,18 @@
 - [Fast and beautiful note-taking app](https://github.com/nuttyartist/notes)
 - [A modern Hex Editor written in C++23](https://github.com/WerWolv/ImHex)
 
-### Implementation
+# Implementation
 
 - https://github.com/ssloy/tinyrenderer/wiki
 - https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html
 - [Handwriting notetaking software with PDF annotation support](https://github.com/xournalpp/xournalpp)
 - https://www.researchgate.net/publication/352373714_A_brief_overview_of_pseudo-random_number_generators_and_testing_of_our_own_simple_generator
 
-### Interpreter
+# Interpreter
 
 - https://m.youtube.com/playlist?list=PLWUx_XkUoGTrXOU0pFa_OVGA-6voiIEAt
 
-### Opinion
+# Opinion
 
 - https://levelup.gitconnected.com/want-to-be-a-software-developer-learn-c-first-and-thank-me-later-30a447f32037
 - [ An opinionated history of programming languages](https://artagnon.com/articles/pl)
@@ -110,17 +113,17 @@
 - [A library to allow writing Unity scripts in native code: C, C++, assembly](https://github.com/jacksondunstan/UnityNativeScripting)
 - [Can open-source LLMs detect bugs in C++ code?](https://catid.io/posts/llm_bugs) + https://twitter.com/MrCatid/status/1647155706548695040
 
-### Practice
+# Practice
 
 - https://github.com/rbaron/advent-of-code-2019
 
-### Radio
+# Radio
 
 - https://tlbh.it/001_deref_char_star_0_eq_0.html
 - https://tlbh.it/003_builtin_expect_bang_bang_x_0.html
 - https://www.twoscomplement.org/#podcast
 
-### Security
+# Security
 
 - https://github.com/Grant-Knoetze/c--red-team-code
 - [Reverse Engineering 3011: Reversing C++ Binaries | OpenSecurityTraining](https://m.youtube.com/playlist?list=PLUFkSN0XLZ-nHQqoXhGE2IJ0ldDSxOpz3)

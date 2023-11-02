@@ -27,6 +27,7 @@
 - https://github.com/oz123/awesome-c#beginner-books
 - https://github.com/fsaadatmand/The-C-Programming-Language
 - https://github.com/Elyasin/K-and-R-solutions
+- ["Effective C: An Introduction to Professional C Programming" by Robert C. Seacord](https://lesleylai.info/en/summary-of-reading-october-december-2020)
 
 # Cheat sheet
 
