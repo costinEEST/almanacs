@@ -364,6 +364,10 @@
 - https://twitter.com/xargsnotbombs/status/1517505549272682496
 - https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement
 
+# Internet Message Access Protocol (IMAP)
+
+- 
+
 # Kermit protocol
 
 - [Kermit Project books and articles online](https://news.ycombinator.com/item?id=37367288)

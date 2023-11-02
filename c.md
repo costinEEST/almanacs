@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [Angrave's Crowd-Sourced System Programming Book used at UIUC](https://github.com/angrave/SystemProgramming/wiki)
 - http://astocko.com/post/c-resources
@@ -28,7 +28,7 @@
 - https://github.com/fsaadatmand/The-C-Programming-Language
 - https://github.com/Elyasin/K-and-R-solutions
 
-### Cheat sheet
+# Cheat sheet
 
 - [Infrequently Asked Questions List | Peter Seebach](https://www.seebs.net/faqs/c-iaq.html)
 - https://www.learn-c.org
@@ -75,7 +75,115 @@
 - https://mcuoneclipse.com/2023/07/22/gnu-linker-wizardry-wrapping-printf-with-timestamps
 - [Language Equivalences: Java, C and C++](https://www2.seas.gwu.edu/~simhaweb/java/langcomp/index.html)
 
-### Watch
+# Code auditing
+
+- https://mastodon.social/@mitsuhiko@hachyderm.io/109588062804962627 + https://github.com/getsentry/sentry-native
+- https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
+- https://yurichev.com/mirrors/C/JPL_Coding_Standard_C.pdf
+
+# Course
+
+- [C and the Unix environment for undergraduate non-CSE majors](https://courses.cs.washington.edu/courses/cse374/21wi)
+- [Unix and C Programming](https://docs.google.com/presentation/d/1V0daPBXxOrxb4Ckrfhodf2QO-6Ag067y8am479oIjB0)
+- https://m.youtube.com/playlist?list=PLHJns8WZXCdvErvhlZXvpVIEKPfmDJt4z
+- https://twitter.com/SuspectedOceano/status/1600788919511138305 + https://www.freecodecamp.org/news/finally-understand-pointers-in-c
+- https://github.com/evgenkarlson/COMPLETED_PISCINE_C + https://github.com/evgenkarlson/ALL_SCHOOL_42 + https://github.com/Caceresenzo/My-School-42-Piscine-Experience + https://github.com/jotavare/42-resources
+
+# Articles
+
+- [Reading files the hard way - Part 1 (node.js, C, rust, strace)](https://fasterthanli.me/blog/2019/reading-files-the-hard-way/)
+- [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
+- [Pros and cons of dynamic linking versus static linking](https://distrowatch.com/weekly.php?issue=20200810#qa)
+
+# Radio
+
+- [Program in C (Parody song)](https://fasterthanli.me/blog/2019/program-in-c)
+
+# Compiler
+
+- https://daniao.ws/notes/pba/c-compilation-process
+- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
+- https://github.com/seven1m/malcc
+- https://godbolt.org
+- [Getting the maximum of your C compiler, for security](https://airbus-seclab.github.io/c-compiler-security) + https://twitter.com/AirbusSecLab/status/1432681320833036294
+- [Advanced compilers](https://github.com/sampsyo/cs6120)
+- [Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes](http://lambda-the-ultimate.org/node/5648)
+- https://twitter.com/AndrewCMyers/status/1523395642030456832 + https://courses.cs.cornell.edu/cs4120/2022sp
+- https://bernsteinbear.com/pl-resources
+- [LLVM Tutorial Walkthrough | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg)
+- https://github.com/ahr9n/awesome-reading/tree/main/dragon-book
+- https://www.amazon.com/Techniques-Practices-Clang-Middle-End-Libraries/dp/1838824952
+- [Low-Level Software Security for Compiler Developers](https://github.com/llsoftsec/llsoftsecbook)
+- https://github.com/geoffviola/undefined_behavior_study
+
+# Internals
+
+- https://hackaday.com/2023/02/10/modernizing-c-arrays-for-greater-memory-safety
+- https://blog.joren.ga/less-known-c
+- https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops
+
+# Virtual machines
+
+- https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-systemvirtual-machine
+- [Codecast C learning platform (formerly fioi-recorder).](https://github.com/France-ioi/codecast)
+- [stack-based bytecode interpreter](https://m.youtube.com/playlist?list=PLhMOOgDOKD4JV2AgL1XzoYanY6RpGKbNa) + https://gitlab.com/gilmi/vm
+- [Write your own virtual machine](https://github.com/justinmeiners/lc3-vm)
+
+# Operatin system
+
+- [CS140E: embedded operating systems (Engler, Winter, 2022)](https://github.com/dddrrreee/cs140e-22win)
+- [6.1810: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2022/index.html)
+
+# Opinion
+
+- https://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom
+- [How to C in 2016](https://matt.sh/howto-c)
+- https://github.com/mkirchner/linked-list-good-taste + [Linus Torvalds' linked list argument for good taste, explained](https://news.ycombinator.com/item?id=25326552)
+- https://skeeto.s3.amazonaws.com/share/onward17-essays2.pdf
+- [It's not OK to ship software in memory-unsafe languages.](https://twitter.com/tqbf/status/1354170650806657024)
+- https://gankra.github.io/blah/c-isnt-a-language
+- [Teaching C](https://blog.regehr.org/archives/1393)
+- https://blog.joren.ga/best-of-c
+- https://steveklabnik.com/writing/c-is-how-the-computer-works-is-a-dangerous-mindset-for-c-programmers
+
+# Practice
+
+- https://alexanderell.is/posts/rpc-from-scratch + https://alexanderell.is/posts/terrier-dist-sys
+- https://github.com/bytegarage/c-programming-bootcamp
+- https://github.com/bloominstituteoftechnology/C-Web-Server
+- [32 bit x86 OS](https://github.com/FRosner/FrOS)
+
+# Security
+
+- [Baron Samedit: Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
+- https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow
+- [Vulnerabilities 1001: C-Family Software Implementation | OpenSecurityTraining](https://m.youtube.com/playlist?list=PLUFkSN0XLZ-m3i_FkgTxDZASkwFJJ7MyZ) + https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1001_C-family+2023_v1/about
+- [Basic reverse shell in C using socket() with complete explanation](https://github.com/pwnwithlove/C_revshell)
+
+# Tool
+
+- [Command-line utility to scan the system and report on potential vulnerabilities, based on public CVE data](https://github.com/sjvermeu/cvechecker)
+- https://earthly.dev/blog/jq-select + https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century
+- [weggli is a fast and robust semantic search tool for C and C++ codebases.](https://github.com/googleprojectzero/weggli)
+- [Software Engineering for Systems Hackers | David G. Andersen](http://www.cs.cmu.edu/~dga/systems-se.pdf)
+- [A new bootable USB solution](https://github.com/ventoy/Ventoy)
+- [JWT brute force cracker written in C](https://github.com/brendan-rius/c-jwt-cracker)
+- https://github.com/eduardsui/ISUToCNP
+- [Lambda Calculus in 383 Bytes](https://justine.lol/lambda)
+- [Logging C Functions](https://justine.lol/ftrace)
+- [A very compact representation of a placeholder for an image](https://github.com/woltapp/blurhash)
+- [Clang is better than GCC](https://yurichev.org/clang)
+- https://hackaday.com/2023/05/11/linux-fu-c-on-jupyter
+- [A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs](https://github.com/GaloisInc/MATE)
+- [A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
+- https://www.andreinc.net/2022/04/10/a-blog-that-is-a-single-executable-binary
+- [A 1Password-compatible password management tool for Linux. ](https://github.com/icculus/1pass)
+
+# Testing
+
+- [Test-Driven Development for Embedded C](https://github.com/jwgrenning/tddec-code) + https://open.spotify.com/episode/40DFaYVaY8ptpmKARkttPn
+
+# Watch
 
 - [Learning C | rwxrob](https://m.youtube.com/playlist?list=PLrK9UeDMcQLpKY24-psIN6pBJstejMC2Y)
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUeCP-KM-pekj30JVzmSKhpK
@@ -97,110 +205,4 @@
 - [Embedded C Programming Style | Mutex Embedded](https://m.youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh) + https://www.mutex-embedded.com/courses/s2-c1
 - [Intro to C on Windows | Molly Rocket](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp)
 - [Reading code | ants_are_everywhere](https://www.youtube.com/playlist?list=PLekd-G4V99UmwUIEXn6-GYpDq4thTwVv7)
-
-### Code auditing
-
-- https://mastodon.social/@mitsuhiko@hachyderm.io/109588062804962627 + https://github.com/getsentry/sentry-native
-- https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
-- https://yurichev.com/mirrors/C/JPL_Coding_Standard_C.pdf
-
-### Course
-
-- [C and the Unix environment for undergraduate non-CSE majors](https://courses.cs.washington.edu/courses/cse374/21wi)
-- [Unix and C Programming](https://docs.google.com/presentation/d/1V0daPBXxOrxb4Ckrfhodf2QO-6Ag067y8am479oIjB0)
-- https://m.youtube.com/playlist?list=PLHJns8WZXCdvErvhlZXvpVIEKPfmDJt4z
-- https://twitter.com/SuspectedOceano/status/1600788919511138305 + https://www.freecodecamp.org/news/finally-understand-pointers-in-c
-- https://github.com/evgenkarlson/COMPLETED_PISCINE_C + https://github.com/evgenkarlson/ALL_SCHOOL_42 + https://github.com/Caceresenzo/My-School-42-Piscine-Experience + https://github.com/jotavare/42-resources
-
-### Articles
-
-- [Reading files the hard way - Part 1 (node.js, C, rust, strace)](https://fasterthanli.me/blog/2019/reading-files-the-hard-way/)
-- [Zip Files: History, Explanation and Implementation](https://www.hanshq.net/zip.html)
-- [Pros and cons of dynamic linking versus static linking](https://distrowatch.com/weekly.php?issue=20200810#qa)
-
-### Radio
-
-- [Program in C (Parody song)](https://fasterthanli.me/blog/2019/program-in-c)
-
-### Compiler
-
-- https://daniao.ws/notes/pba/c-compilation-process
-- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
-- https://github.com/seven1m/malcc
-- https://godbolt.org
-- [Getting the maximum of your C compiler, for security](https://airbus-seclab.github.io/c-compiler-security) + https://twitter.com/AirbusSecLab/status/1432681320833036294
-- [Advanced compilers](https://github.com/sampsyo/cs6120)
-- [Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes](http://lambda-the-ultimate.org/node/5648)
-- https://twitter.com/AndrewCMyers/status/1523395642030456832 + https://courses.cs.cornell.edu/cs4120/2022sp
-- https://bernsteinbear.com/pl-resources
-- [LLVM Tutorial Walkthrough | Toby Ho](https://m.youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg)
-- https://github.com/ahr9n/awesome-reading/tree/main/dragon-book
-- https://www.amazon.com/Techniques-Practices-Clang-Middle-End-Libraries/dp/1838824952
-- [Low-Level Software Security for Compiler Developers](https://github.com/llsoftsec/llsoftsecbook)
-- https://github.com/geoffviola/undefined_behavior_study
-
-### Internals
-
-- https://hackaday.com/2023/02/10/modernizing-c-arrays-for-greater-memory-safety
-- https://blog.joren.ga/less-known-c
-- https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops
-
-### Virtual machines
-
-- https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-systemvirtual-machine
-- [Codecast C learning platform (formerly fioi-recorder).](https://github.com/France-ioi/codecast)
-- [stack-based bytecode interpreter](https://m.youtube.com/playlist?list=PLhMOOgDOKD4JV2AgL1XzoYanY6RpGKbNa) + https://gitlab.com/gilmi/vm
-- [Write your own virtual machine](https://github.com/justinmeiners/lc3-vm)
-
-### Operatin system
-
-- [CS140E: embedded operating systems (Engler, Winter, 2022)](https://github.com/dddrrreee/cs140e-22win)
-- [6.1810: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2022/index.html)
-
-### Opinion
-
-- https://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom
-- [How to C in 2016](https://matt.sh/howto-c)
-- https://github.com/mkirchner/linked-list-good-taste + [Linus Torvalds' linked list argument for good taste, explained](https://news.ycombinator.com/item?id=25326552)
-- https://skeeto.s3.amazonaws.com/share/onward17-essays2.pdf
-- [It's not OK to ship software in memory-unsafe languages.](https://twitter.com/tqbf/status/1354170650806657024)
-- https://gankra.github.io/blah/c-isnt-a-language
-- [Teaching C](https://blog.regehr.org/archives/1393)
-- https://blog.joren.ga/best-of-c
-- https://steveklabnik.com/writing/c-is-how-the-computer-works-is-a-dangerous-mindset-for-c-programmers
-
-### Practice
-
-- https://alexanderell.is/posts/rpc-from-scratch + https://alexanderell.is/posts/terrier-dist-sys
-- https://github.com/bytegarage/c-programming-bootcamp
-- https://github.com/bloominstituteoftechnology/C-Web-Server
-- [32 bit x86 OS](https://github.com/FRosner/FrOS)
-
-### Security
-
-- [Baron Samedit: Heap-based buffer overflow in Sudo (CVE-2021-3156)](https://www.openwall.com/lists/oss-security/2021/01/26/3)
-- https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow
-- [Vulnerabilities 1001: C-Family Software Implementation | OpenSecurityTraining](https://m.youtube.com/playlist?list=PLUFkSN0XLZ-m3i_FkgTxDZASkwFJJ7MyZ) + https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1001_C-family+2023_v1/about
-- [Basic reverse shell in C using socket() with complete explanation](https://github.com/pwnwithlove/C_revshell)
-
-### Tool
-
-- [Command-line utility to scan the system and report on potential vulnerabilities, based on public CVE data](https://github.com/sjvermeu/cvechecker)
-- https://earthly.dev/blog/jq-select + https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century
-- [weggli is a fast and robust semantic search tool for C and C++ codebases.](https://github.com/googleprojectzero/weggli)
-- [Software Engineering for Systems Hackers | David G. Andersen](http://www.cs.cmu.edu/~dga/systems-se.pdf)
-- [A new bootable USB solution](https://github.com/ventoy/Ventoy)
-- [JWT brute force cracker written in C](https://github.com/brendan-rius/c-jwt-cracker)
-- https://github.com/eduardsui/ISUToCNP
-- [Lambda Calculus in 383 Bytes](https://justine.lol/lambda)
-- [Logging C Functions](https://justine.lol/ftrace)
-- [A very compact representation of a placeholder for an image](https://github.com/woltapp/blurhash)
-- [Clang is better than GCC](https://yurichev.org/clang)
-- https://hackaday.com/2023/05/11/linux-fu-c-on-jupyter
-- [A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs](https://github.com/GaloisInc/MATE)
-- [A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
-- https://www.andreinc.net/2022/04/10/a-blog-that-is-a-single-executable-binary
-
-### Testing
-
-- [Test-Driven Development for Embedded C](https://github.com/jwgrenning/tddec-code) + https://open.spotify.com/episode/40DFaYVaY8ptpmKARkttPn
+- https://www.youtube.com/playlist?list=PL6m6sxLnXksbqdsAcpTh4znV9j70WkmqG + [A tutorial on writing a simple media player with SDL](https://github.com/icculus/sdlamp)
