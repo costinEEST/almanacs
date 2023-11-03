@@ -21,6 +21,7 @@
 - [Abusing Reddit API to host the C2 traffic](https://github.com/kleiton0x00/RedditC2)
 - [Build Django 4 Web APIs with React](https://leanpub.com/djangoapi) + https://app.gumroad.com/d/1accf9ee5b5ffe1fe534b54ff57b8c65
 - https://github.com/minimaxir/hacker-news-undocumented
+- https://github.com/HermanMartinus/bearblog/blob/master/blogs/views/analytics.py + https://herman.bearblog.dev/how-bear-does-analytics-with-css
 
 # Book
 
