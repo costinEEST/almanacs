@@ -5,6 +5,7 @@
 # .csv
 
 - [Export Okta Users, Groups, etc. to CSV](https://github.com/gabrielsroka/gabrielsroka.github.io)
+- https://jpedroribeiro.com/2019/11/csv-to-array-string
 
 # .dat
 

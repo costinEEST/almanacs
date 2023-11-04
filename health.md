@@ -12,6 +12,7 @@
 - [Beer and Brewing in Medieval Culture and Contemporary Medievalism | John A. Geck, Rosemary O'Neill, Noelle Phillips](https://twitter.com/FontesMedicorum/status/1553129900063670273)
 - [Short and fun history of beer and brewing told in a very practical manner](https://github.com/twirl/Beer-Lecture)
 - https://punchdrink.com/articles/nonalcoholic-beer-golden-age
+- https://jpedroribeiro.com/2019/12/book-notes-3-beer-school + https://www.youtube.com/@TheCraftBeerChannel/playlists?view=1&sort=lad&flow=grid
 
 # Autism
 
@@ -204,6 +205,7 @@
 
 # Sleep
 
+- https://jpedroribeiro.com/2021/03/book-notes-8-why-we-sleep
 - https://www.quora.com/What-are-some-good-chronobiology-books
 - http://circadiana.blogspot.com/2005/12/reading-recommendations-books-about.html
 - [The Rhythms Of Life: The Biological Clocks That Control the Daily Lives of Every Living Thing](https://books.google.ro/books?id=XlUyNPDMY8sC)
@@ -344,6 +346,7 @@
 
 # Coffee
 
+- https://jpedroribeiro.com/2021/02/book-notes-7-how-to-make-coffee
 - https://blackwells.co.uk/bookshop/product/Lonely-Planets-Global-Coffee-Tour-by-Mike-Higgins-editor-Nick-Mee-editor-Yolanda-Zappaterra-editor/9781787013599
 - https://www.theguardian.com/food/2021/jul/06/caffeine-coffee-tea-invisible-addiction-is-it-time-to-give-up
 - https://www.amazon.com/World-Atlas-Coffee-explored-explained-ebook/dp/B07CRY44ZH + https://tastecooking.com/meet-the-ceo-of-coffee-youtube + https://m.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ/playlists
@@ -370,6 +373,7 @@
 
 # Skin
 
+- https://jpedroribeiro.com/2020/05/book-notes-5-the-remarkable-life-of-the-skin
 - https://www.google.com/search?q=mucocutaneous+triad
 - https://www.emag.ro/totul-despre-alergii-earl-mindell-dr-pamela-wartian-smith-9786067890921/pd/DPDZGNBBM
 - [Skin Problems - Dr. Vivek Joshi](https://m.youtube.com/playlist?list=PLtOL-RbYxicYoYdlSJFMTzwuqjq12mrkW)
