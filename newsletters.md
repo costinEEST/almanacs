@@ -425,6 +425,7 @@
 - [Jones Wellness (Cancer/evolution)](https://us7.campaign-archive.com/home/?u=75ac079dc580d32a5726e1c26&id=cbf7c437ec)
 - [Yoga Studies Institute](https://us8.campaign-archive.com/home/?u=e1ee0b874d5f3352ff94f6312&id=47d0dece18)
 - [Nina Teicholz](https://unsettledscience.substack.com/archive)
+- [Be Keto Be happy](https://lacra.blog)
 
 # NodeJS
 
@@ -518,6 +519,7 @@
 - [Stay up to date with events, learning resources, and recent developments in the Rust community](https://this-week-in-rust.org/atom.xml)
 - https://rust.libhunt.com/newsletter/archive
 - [This Month in Rust GameDev](https://gamedev.rs/rss.xml)
+- [Bob Peters](https://rust-trends.com/newsletter)
 
 # Politics
 
