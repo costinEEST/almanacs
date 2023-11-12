@@ -27,6 +27,7 @@
 - https://github.com/hackclub/putting-the-you-in-cpu
 - https://github.com/dreyfus92/astro-portfolio
 - https://github.com/beerose/aleksandra.codes
+- https://github.com/nikolovlazar/nikolovlazar.com
 
 # Opinion
 

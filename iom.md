@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://paulmillr.com/posts/libertarian-reading-list
 - https://unchainedpodcast.com/resources
@@ -20,7 +20,7 @@
 - [SmartCustody: The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets](https://github.com/BlockchainCommons/SmartCustodyBook)
 - https://github.com/Jeiwan/uniswapv3-book
 
-### Course
+# Course
 
 - https://www.devpill.me + https://twitter.com/DCbuild3r/status/1500566649530990595 + https://github.com/dcbuild3r/blockchain-development-guide
 - https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide
@@ -39,7 +39,7 @@
 - https://eattheblocks-pro.teachable.com/p/polygon-development
 - https://defi-learning.org/f22
 
-### Cinema
+# Cinema
 
 - https://andersbrownworth.com/blockchain
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUfiNFwggn-4POpQdwkBTetA
@@ -54,7 +54,7 @@
 - [Zcon1: Zero to Privacy Hero | Zcash Foundation](https://m.youtube.com/playlist?list=PL40dyJ0UYTLLjPZaKjdhMoCNanb77_Ztj)
 - https://m.youtube.com/@BuildingIdeasIO/playlists
 
-### Community
+# Community
 
 - https://github.com/denisnazarov/awesome-crypto-trackers
 - [Nick Szabo](http://unenumerated.blogspot.com)
@@ -76,7 +76,7 @@
 - https://twitter.com/officer_cia
 - https://github.com/FrancescoXX/free-Web3-resources
 
-### DApps
+# DApps
 
 - [Less-techy: What is Web 3.0?](http://gavwood.com/web3lt.html)
 - [ĐApps: What Web 3.0 Looks Like](http://gavwood.com/dappsweb3.html)
@@ -89,11 +89,11 @@
 - https://github.com/thecryptoshed/eth-dapp-developer-roadmap
 - https://github.com/austintgriffith/web2-to-web3-curriculum
 
-### Decentralized Autonomous Organizations
+# Decentralized Autonomous Organizations
 
 - https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf
 
-### De-fi
+# De-fi
 
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
 - https://github.com/gweicz/defi-toolkit
@@ -101,7 +101,7 @@
 - https://github.com/OffcierCia/ultimate-defi-research-base
 - [DeFi MOOC - Stablecoins Guest Lecture (Ariah Klages-Mundt)](https://m.youtube.com/playlist?list=PLX9yxQIwhmpYSYMNOpp25I1RXu7AKuKC9)
 
-### References
+# References
 
 - https://github.com/llSourcell/Learn_Blockchain_in_2_months
 - https://github.com/llSourcell/Simple_Blockchain_in_5_Minutes
@@ -160,8 +160,9 @@
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/jpantunes/awesome-cryptoeconomics
 - https://github.com/anders94/blockchain-demo
+- https://dev.to/ninofiliu/writing-a-blockchain-in-60-readable-lines-of-typescript-1009
 
-### Boilerplate
+# Boilerplate
 
 - https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit
 - [A template to build a decentralised application using ethereum, buidler, svelte and thegraph](https://github.com/wighawag/jolly-roger)
@@ -170,7 +171,7 @@
 - [Combines Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover and Prettier](https://github.com/paulrberg/solidity-template)
 - [An alternative to ethers & web3 that's 20x smaller](https://github.com/Earnifi/essential-eth)
 
-### Bitcoin
+# Bitcoin
 
 - https://www.coindesk.com/podcasts/coindesk-podcast-network/exploring-bitcoins-lightning-network + https://www.coindesk.com/reports/an-in-depth-look-into-the-lightning-network-as-a-bitcoin-scaling-solution + https://m.youtube.com/c/RenePickhardt/playlists
 - https://github.com/bcongdon/awesome-lightning-network
@@ -193,7 +194,7 @@
 - [Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes](https://github.com/karpathy/cryptos)
 - [Bitcoin Protocol High Level Overview](https://docs.google.com/document/d/17B8z3mntcM8cwRCfTKHHNDuT6iHVd1L6tplCufnWVc0)
 
-### Solana
+# Solana
 
 - [How to start in Web3 hacking on Rust-based chains?](https://twitter.com/timurguvenkaya/status/1475843660994523139)
 - https://www.theblockcrypto.com/post/117205/anatoly-yakovenko-unpacks-solanas-rise-memes-and-nft-snafus
@@ -210,7 +211,7 @@
 - https://github.com/onmyway133/blog/issues/862
 - https://github.com/iulianbarbu/solana-social-dapp
 
-### Solidity
+# Solidity
 
 - https://www.smartcontract.engineer
 - https://twitter.com/PatrickAlphaC/status/1529932735665651716 + https://github.com/smartcontractkit/full-blockchain-solidity-course-js + https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development
@@ -233,7 +234,7 @@
 - https://github.com/stars/schniggie/lists/security-crypto
 - https://github.com/0xronin/30-days-SmartContractProgrammer
 
-### Non fungible token (NFT)
+# Non fungible token (NFT)
 
 - https://blog.dshr.org/2023/04/how-bubbles-are-blown.html
 - https://cdixon.org/2021/02/27/NFTs-and-a-thousand-true-fans
@@ -271,7 +272,7 @@
 - https://www.watershed.co.uk/studio/news/2021/12/03/case-against-crypto
 - https://futurism.com/the-byte/nobody-buying-nfts-anymore
 
-### Smart contracts
+# Smart contracts
 
 - [Blockchain & Smart Contracts by Loredana Cirstea](https://m.youtube.com/playlist?list=PL323JufuD9JDCW5Nl2gM8fCDm8Om3lsLA)
 - https://m.youtube.com/c/JacksonKelley/playlists
@@ -289,11 +290,11 @@
 - https://github.com/OpenCoreCH/smart-contract-auditing-heuristics
 - [Fuzzing Workshop with Echidna | trailofbits](https://m.youtube.com/playlist?list=PLciHOL_J7Iwqdja9UH4ZzE8dP1IxtsBXI)
 
-### Eos
+# Eos
 
 - https://github.com/MrToph/KingOfEos + https://cmichel.io/categories/EOS
 
-### Ethereum
+# Ethereum
 
 - [Code samples for the Ethereum for Web Developers book](https://github.com/spalladino/ethereum-samples)
 - [Joseph’s How to become an Ethereum Developer Guide](https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew)
@@ -312,13 +313,13 @@
 - https://github.com/takenobu-hs/ethereum-evm-illustrated
 - https://github.com/4337Mafia/awesome-account-abstraction
 
-### Demos
+# Demos
 
 - https://github.com/saleemrashid/do-i-need-a-blockchain
 - https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain
 - https://github.com/shark0der/next-block-base-fee
 
-### Opinion
+# Opinion
 
 - https://www.ribbonfarm.com/2017/10/10/the-blockchain-man
 - [@stephsmithio's great writeup on the merits of BitClout](https://twitter.com/nateliason/status/1378022491923304453)
@@ -328,14 +329,14 @@
 - https://noorsiddiqui.com/centralized-vs-decentralized-web
 - https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire
 
-### Radio
+# Radio
 
 - https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant
 - https://www.podtangent.com/e/006-libra-crypto-and-the-future-of-humanity
 - https://podcast.chaincode.com
 - [Sean O’Connor: How Blockchains Make Transactions Costless, and How that Transforms Society](https://twitter.com/EricJorgenson/status/1437786584896655372)
 
-### Security
+# Security
 
 - [A blockchain-based DNS + HTTP server that fixes HTTPS security, and more!](https://github.com/okTurtles/dnschain)
 - https://mtlynch.io/stole-siacoins + https://decks.mtlynch.io/nerds-2020

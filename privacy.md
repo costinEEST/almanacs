@@ -1,8 +1,8 @@
-### Accelerated Mobile Pages (AMP)
+# Accelerated Mobile Pages (AMP)
 
 - https://wptavern.com/amp-has-irreparably-damaged-publishers-trust-in-google-led-initiatives + https://twitter.com/robinberjon/status/1457103873764732946
 
-### Book
+# Book
 
 - https://diablohorn.com/books
 - https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 + https://craphound.com/category/destroy + https://www.goodreads.com/review/show/3525601035
@@ -12,7 +12,7 @@
 - [The Software IP Detective’s Handbook](https://www.linkedin.com/feed/update/urn:li:activity:7082241260207427585)
 - [Data Privacy. A runbook for engineers | Nishant Bhajaria (2022)](https://www.manning.com/books/data-privacy)
 
-### Bypass
+# Bypass
 
 - https://archive.ph
 - https://primozic.org/programming
@@ -29,7 +29,7 @@
 - https://danielmiessler.com/blog/my-philosophy-and-recommendations-around-the-lastpass-breaches
 - [A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden](https://github.com/iamcryptoki/snowden-archive)
 
-### Cinema
+# Cinema
 
 - https://chriswiegman.com/2021/09/privacy-vs-security
 - https://www.udemy.com/course/learn-digital-forensics-beginner-to-advanced-2021
@@ -37,7 +37,7 @@
 - https://m.youtube.com/c/TheHatedOne/playlists
 - https://hypha.ro/movies
 
-### Community
+# Community
 
 - https://github.com/aviaryan/awesome-no-login-web-apps
 - [GDPR Enforcement Tracker](https://www.enforcementtracker.com)
@@ -48,7 +48,7 @@
 - https://www.bellingcat.com/news/americas/2021/01/07/the-making-of-qanon-a-crowdsourced-conspiracy
 - https://sneak.berlin/20200307/the-case-against-microsoft-and-github
 
-### Hardware
+# Hardware
 
 - https://sneak.berlin/20201112/your-computer-isnt-yours
 - https://madaidans-insecurities.github.io/security-privacy-advice.html
@@ -69,7 +69,7 @@
 - https://github.com/baltpeter/ios-privacy-violations
 - https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker
 
-### Software
+# Software
 
 - https://github.com/veeral-patel/how-to-secure-anything
 - https://github.com/melanierichards/resources/blob/master/resources/privacy-security.md
@@ -117,7 +117,7 @@
 
 - https://pilcrow.vercel.app/blog/gdpr-compliant-analytics
 
-### Techniques
+# Technique
 
 - https://github.com/nicksp/til/blob/master/random/01-password-manager.md
 - https://anonymousplanet.org/guide.html
@@ -182,8 +182,9 @@
 - https://espysys.com/blog/comprehensive-guide-to-whatsapp-call-forwarding-facts-and-misconceptions-uncovered
 - https://blog.forcesunseen.com/email-blame
 - https://email-is-good.com/2023/04/18/site-specific-emails
+- https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin
 
-### Social media
+# Social media
 
 - https://madaidans-insecurities.github.io/messengers.html
 - https://github.com/tycrek/degoogle + https://www.wired.com/story/google-tracks-you-privacy

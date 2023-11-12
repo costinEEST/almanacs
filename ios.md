@@ -1,4 +1,4 @@
-### Advice
+# Advice
 
 - https://blog.hoangnm.com/ios%20development/2013/05/12/get-started-with-ios-programming
 - [iOS Tips and Tricks](https://blog.hoangnm.com/pageDir/iosTips)
@@ -7,7 +7,7 @@
 - https://www.loopinsight.com/2021/11/11/how-to-teach-siri-to-pronounce-names-correctly-in-ios-15/
 - https://proteas.github.io/xcode/2021/11/18/xcode-tips-for-ios-security-researcher.html
 
-### Application
+# Application
 
 - https://github.com/nikitavoloboev/my-ios
 - [How to create a simple OS X app in plain C without any Objective-C.](https://github.com/jimon/osx_app_in_plain_c)
@@ -19,13 +19,13 @@
 - https://transponderings.blog/2022/05/21/eight-mastodon-apps-for-iphone
 - https://github.com/anitab-org/mentorship-ios
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLpZBns8dFbgyNxJyVftYp_lRaEsHlGrSl
 - https://m.youtube.com/c/LetsBuildThatApp/playlists
 - https://m.youtube.com/c/fce365official/playlists
 
-### Community
+# Community
 
 - http://tombaranowicz.com/index.php/2021/02/11/ios-development-how-to-get-started
 - [find someone in the iOS community who has inspired you through a blog post, a conference presentation, a video, or somehow else, and send them an encouraging tweet.](https://twitter.com/twostraws/status/1208764380969611264)
@@ -33,7 +33,7 @@
 - https://github.com/Nickersoft/awesome-careers#ios-engineer
 - [Mohammad Azam](https://m.youtube.com/user/azamsharp/playlists)
 
-### Development
+# Development
 
 - https://github.com/onmyway133/awesome-ios-architecture
 - https://medium.com/fantageek/best-places-to-learn-ios-development-85ebebe890cf
@@ -43,12 +43,12 @@
 - [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
 - https://github.com/FifiTheBulldog/ios-settings-urls
 
-### Hardware
+# Hardware
 
 - [How I built two iPhone 6S's from parts for $80 each](https://twitter.com/hackerfantastic/status/1211088686802096128)
 - https://9to5mac.com/2022/06/15/ios-16-roomplan-api-3d-floor-plans
 
-### Tool
+# Tool
 
 - [Virtual machines for iOS and macOS](https://github.com/utmapp/UTM)
 - https://blog.prototypr.io/a-designers-guide-to-switching-from-ios-to-android-c4c54fb03786
@@ -71,8 +71,9 @@
 - [Grab API keys out of a compiled iPhone app](https://twitter.com/jamonholmgren/status/1647305506053320704)
 - [Build iOS project (.xcodeproj, .xcworkspace), and export ipa](https://github.com/yukiarrr/ios-build-action)
 - https://github.com/ammarahm-ed/v8-jsi-benchmarks-ios
+- https://andadinosaur.com/new-in-web-inspector-updated-layout-search-html-and-network-responses
 
-### Security
+# Security
 
 - Tales of old: untethering iOS 11: https://twitter.com/hackerfantastic/status/1210985589685678080 + https://twitter.com/xerub/status/1210917374083375104
 - https://twitter.com/GestureState/status/1315572167199817729 + https://abjurato.github.io/stories/kindleEbooks.html

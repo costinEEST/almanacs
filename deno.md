@@ -23,6 +23,11 @@
 
 - https://github.com/danvk/aoc2022 + https://effectivetypescript.com/2023/04/27/aoc2022
 
+# Server
+
+- https://github.com/i-y-land/HTTP + https://www.youtube.com/playlist?list=PLgu2e1-3VZ6UpHCScuUx9GOA_3TYBdGTH
+- https://github.com/functionalland/functional-http-server 
+
 # Tool
 
 - [web framework for Cloudflare Workers, Deno, Bun](https://github.com/honojs/hono)

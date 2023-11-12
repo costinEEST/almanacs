@@ -354,6 +354,7 @@ javascript: (() =>
 - [Changes your User-Agent header to throw off tracking](https://github.com/NoraCodes/randomua)
 - [A browser extension that redirects popular sites to alternative privacy friendly frontends](https://github.com/libredirect/browser_extension)
 - https://cascaspace.substack.com/p/optimizing-performance-how-our-extension
+- https://github.com/da2x/amp2html
 
 # Chrome
 

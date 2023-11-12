@@ -114,3 +114,4 @@
 - https://addyosmani.com/blog/react-server-components-app-router
 - https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt + https://github.com/judygab/course-app
 - https://github.com/nishant-666/Drive-2.0 + https://www.youtube.com/playlist?list=PLWgH1O_994O90Wg8GiPpfzaZUfgSYHd6L + https://www.freecodecamp.org/news/full-stack-web-development-by-building-a-google-drive-clone-nextjs-firebase
+- https://www.youtube.com/playlist?list=PLHQY5AFuyYYX0JQd9sF5xsKPC1JS648gz + https://github.com/nikolovlazar/v1.nikolovlazar.com

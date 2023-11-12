@@ -25,6 +25,10 @@
 - https://sergiodxa.com/articles/improve-seo-by-not-sending-js-in-remix
 - https://www.jacobparis.com/content/where-to-host-remix
 
+# Inspire 
+
+- https://github.com/schalkneethling/schalkneethling.com
+
 # Opinion
 
 - https://bradgarropy.com/blog/remix-simplifies-things

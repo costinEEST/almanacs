@@ -1,27 +1,27 @@
-### Actions
+# Actions
 
 - [report CSS diffs to PR's](https://github.com/projectwallace/css-diff-action)
 - [Deploy your Vue app to github pages using vite](https://github.com/skywarth/vite-github-pages-deployer)
 
-### Book
+# Book
 
 - https://books.thoughtbot.com/books/goal-oriented-git.html
 
-### Course
+# Course
 
 - https://github.com/k88hudson/git-flight-rules
 - https://github.com/pingcap/talent-plan/blob/master/courses/tp103-open-source-community.md
 - https://www.freecodecamp.org/news/advanced-git-interactive-rebase-cherry-picking-reflog-and-more
 - [Introduction to Software Development Tooling](https://bernsteinbear.com/isdt)
 
-### Cinema
+# Cinema
 
 - https://trevordmiller.com/videos
 - [GitHub API/automation questions](https://github.com/gr2m/helpdesk)
 - https://andrewhoglund.com/code/talks/github/js/2020/05/08/building-automations-with-graphql-and-github-apps.html
 - https://codereviewvideos.com/course/your-own-private-github
 
-### Cheat sheet
+# Cheat sheet
 
 - https://gitexplorer.com
 - https://github.com/webpro/awesome-dotfiles
@@ -61,7 +61,7 @@
 - https://www.emilysamp.dev/2022/11/26/git-bisect
 - [Recover a deleted file](https://twitter.com/joshwcomeau/status/1609320979213287424)
 
-### TIL
+# TIL
 
 - https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx
 - [git diff --color-moved](https://twitter.com/rsms/status/1317189664936128512)
@@ -72,8 +72,9 @@
 - https://www.joepurnell.dev/blog/git-stash-a-personal-reminder
 - https://remimercier.com/how-to-use-git-bisect
 - https://ashellunts.github.io/blog/03_git_commands_that_i_cant_remember.html
+- https://dev.to/ninofiliu/cool-json-git-diff-command-5d32
 
-### Github
+# Github
 
 - https://github.com/tmcw/github-best-practices
 - https://richiemccoll.com/on-demand-code-review-with-chatgpt + https://github.com/nearform/reviewbot
@@ -158,7 +159,7 @@
 - https://www.lloydatkinson.net/posts/2022/scheduling-webhook-and-api-calls-with-github-actions
 - [action to mirror a repository to S3 compatible object storage](https://github.com/peter-evans/s3-backup)
 
-### Tool
+# Tool
 
 - https://github.com/cli/cli
 - [Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog)
@@ -180,7 +181,7 @@
 - [A git prepare-commit-msg hook for authoring commit messages with GPT-3](https://github.com/zurawiki/gptcommit)
 - https://github.com/googleapis/repo-automation-bots
 
-### Security
+# Security
 
 - https://github.com/TheCoreMan/make-git-better-2
 - https://justi.cz/security/2021/04/20/cocoapods-rce.html

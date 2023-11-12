@@ -48,3 +48,4 @@
 - https://webkit.org/blog/13711/elementinternals-and-form-associated-custom-elements
 - [Triple linked list based DOM-like namespace, for DOM-less environments](https://github.com/WebReflection/linkedom)
 - https://daverupert.com/2023/07/why-not-webcomponents + https://twitter.com/davatron5000/status/1685024659761221633 + https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at
+- [a way to fake a Safari-esque web browser window](https://github.com/zachleat/browser-window)
