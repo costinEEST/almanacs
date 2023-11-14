@@ -742,6 +742,7 @@
 - [Designing Web APIs with Strapi](https://github.com/PacktPublishing/Building-APIs-with-Strapi) + https://twitter.com/abolkog/status/1506467369048502280
 - https://pepelsbey.dev/articles/eleventy-css-js
 - https://github.com/tylerreckart/reckart.blog
+- https://robconery.com/frontend/hacking-ghost
 
 # Serverless
 

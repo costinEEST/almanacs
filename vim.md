@@ -1,10 +1,10 @@
-### Book
+# Book
 
 - [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim)
 - https://leanpub.com/boostyourcodingfuwithvscodeandvim
 - https://github.com/learnbyexample/vim_reference
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUeDHRwyHSn2Ndflm2TezXGU
 - [Vim Un-Alphabet by Josh Branchaud ](https://m.youtube.com/playlist?list=PL46-cKSxMYYCMpzXo6p0Cof8hJInYgohU)
@@ -18,14 +18,14 @@
 - https://www.labnol.org/internet/learning-vim-for-beginners/28820
 - https://www.youtube.com/playlist?list=PLep05UYkc6wTWlugE_9Lj6JlLpvSBbkZ_
 
-### Community
+# Community
 
 - https://learnbyexample.github.io/curated_resources/vim.html
 - https://mschade.me/notes-vim-from-essentials-to-mastery-by-wnodom
 - https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup
 - https://github.com/stars/ChristianChiarulli/lists/neovim
 
-### Miscellaneous
+# Miscellaneous
 
 - http://howivim.com/2016/damian-conway + https://learning.oreilly.com/videos/mastering-vim/9781491908334 + https://learning.oreilly.com/videos/scripting-vim/9781491996287
 - [Silly game to show off the new features of Vim 8.2](https://github.com/vim/killersheep)
@@ -50,3 +50,4 @@
 - https://sookocheff.com/post/vim/neovim-java-ide
 - https://blog.joren.ga/vim-learning-steps
 - https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list
+- https://www.devas.life/effective-neovim-setup-for-web-development-towards-2024

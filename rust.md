@@ -216,6 +216,8 @@
 - RSS feed aggregator that notifies you of new posts via email: https://antoniosbarotsis.github.io/posts/rss2email, https://github.com/AntoniosBarotsis/Rss2Email
 - [command-line JSON viewer designed for reading, exploring, and searching through JSON data.](https://github.com/PaulJuliusMartinez/jless)
 - [Turn your keyboard into a typewriter](https://github.com/orhun/daktilo)
+- [Subcommand to show result of macro expansion](https://github.com/dtolnay/cargo-expand)
+- [Generate a fully working C or C++ header file. Only a small TOML file is needed](https://github.com/mozilla/cbindgen)
 
 # Opinion
 

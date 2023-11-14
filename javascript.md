@@ -92,6 +92,7 @@
 
 # Compiler
 
+- https://talks.paoloinsogna.dev/compiling-bundling
 - https://podcast.mgechev.com/episode/1-4-2020-how-compilers-work
 - https://github.com/jamiebuilds/the-super-tiny-compiler
 - https://github.com/zenparsing/skert

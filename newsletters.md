@@ -198,7 +198,7 @@
 - [Biotech Without Borders](https://us16.campaign-archive.com/home/?u=2aafc95ab831ff84383e5b4a2&id=fa2a5447f8)
 - [Romanian Society of Bioinformatics](https://us17.campaign-archive.com/home/?u=1e432a2bd29548641f4428e61&id=9bb817dd4e)
 - [BioDojo](https://thebiodojo.substack.com/archive)
-- [The ODIN](https://us14.campaign-archive.com/home/?u=cc0fafea28551627b92bbc168&id=fac116480b)
+- [Josiah Zayner - The ODIN](https://us14.campaign-archive.com/home/?u=cc0fafea28551627b92bbc168&id=fac116480b) + https://amateurgods.substack.com/archive
 - [Razib Khan](https://razib.substack.com/archive)
 - [Cornell Lab of Ornithology](https://us2.campaign-archive.com/home/?u=b35ddb671faf4a16c0ce32406&id=47588b5758)
 

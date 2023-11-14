@@ -73,6 +73,7 @@
 - https://www.secondstate.io/articles/run-javascript-in-webassembly-with-wasmedge
 - [Decompiler for WebAssembly binaries](https://github.com/benediktwerner/rewasm)
 - [Translates WebAssembly modules to C](https://github.com/turbolent/w2c2)
+- [generate a fully working JS module which internally loads a WASM file](https://github.com/rustwasm/wasm-bindgen)
 
 # Opinion
 

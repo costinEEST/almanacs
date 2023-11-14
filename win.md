@@ -99,6 +99,7 @@
 - [process injection enumeration tool written in C#](https://github.com/gh0x0st/wanderer)
 - https://lud1161.wordpress.com/2017/01/15/all-about-keyloggers
 - https://nelsonslog.wordpress.com/2023/11/02/windows-fan-speed-controls-in-2023
+- [Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files](https://www.ventoy.net/en/doc_start.html)
 
 
 # notepad.exe
