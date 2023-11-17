@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [Atlasul lumii | Constantin Furtună](https://www.all.ro/atlasul-lumii-editia-a-iii-a.html)
 - [Atlasul lumii, pe continente](https://ercpress.com.ro/default.php?p=browse&clid=85)
@@ -7,11 +7,11 @@
 - https://auracalatoreste.ro/manualul-calatorului-istet-ebook
 - https://biblioteca-digitala.ro/?domeniu=34-geografie
 
-### Cinema
+# Cinema
 
 - [Mad Maps: The World's Strangest Borders Explained](https://m.youtube.com/playlist?list=PLASuLwvdeBybd7hPxnBrSvQKRh0pvMVJb)
 
-### Community
+# Community
 
 - [My 11yo son is showing strong interest in weather/meteorology](https://twitter.com/accidentalciso/status/1574601524252221451)
 - https://www.unesco.org/en/articles/new-inscriptions-unesco-intangible-cultural-heritage
@@ -19,7 +19,7 @@
 - [Geodezia](https://www.facebook.com/groups/2537386143057362)
 - [Topografi din România](https://www.facebook.com/groups/330138550434085)
 
-### Miscellaneous
+# Miscellaneous
 
 - [Uzina Mecanică Tohan Zărnești](https://goo.gl/maps/RKeFjZRjWTUtTnYs7)
 - https://devonzuegel.com/post/building-a-personal-map
@@ -50,7 +50,8 @@
 - https://towardsdatascience.com/ive-built-a-public-world-atlas-with-2-500-datasets-to-explore-8b9ae799e345
 - [NWACC Geology Lectures](https://m.youtube.com/playlist?list=PLmRQwysTuced_dqkjnSM4Z_9OWiK8Ebvc)
 - https://www.nationalgeographic.com/travel/article/star-wars-film-movie-locations
+- [The Google research unit claims the new method better accounts for extreme events](https://www.emergingtechbrew.com/stories/2023/11/14/google-deepmind-ai-weather-model)
 
-### Listen
+# Listen
 
 - [Where does the sand in a desert come from?](https://www.bbc.co.uk/sounds/play/w3ct3j84) + https://mailchi.mp/dc74bb1179c1/prof-michael-caplanelegance-in-physiologycafe-114-a-hybrid-event-6228237?e=12229ba061

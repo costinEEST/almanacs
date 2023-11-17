@@ -131,6 +131,7 @@
 - https://www.smithsonianmag.com/arts-culture/the-ten-best-books-about-food-of-2022-180981175
 - [Everything Marijuana, CBD, and Weed](https://www.humblebundle.com/downloads?key=pt2cAX8rd2XNkkUb)
 - [Open source book dedicated to helping you to make the best possible sourdough bread at home](https://github.com/hendricius/the-sourdough-framework) + https://m.youtube.com/@the_bread_code/playlists?view=1&sort=lad&flow=grid
+- https://mindcraftstories.ro/cultura/salata-greceasca-bulgareasca-sarbeasca-nu-si-romaneasca
 
 # Cholesterol
 
@@ -141,6 +142,7 @@
 - [Cocoa and Chocolate](https://www.europeana.eu/en/set/5806)
 - https://pursuit.unimelb.edu.au/articles/why-we-judge-chocolate-by-its-cover
 - [Beginner's guide to dark chocolate tasting](https://www.anthonyhobday.com/blog/20200513.html)
+- https://www.openculture.com/2018/10/ancient-mayans-used-chocolate-money.html
 
 # Dairy
 
@@ -428,6 +430,8 @@
 - https://github.com/zijie0/HumanSystemOptimization
 - https://neurosciencenews.com/exceptional-longevity-21888
 - https://www.theguardian.com/lifeandstyle/2022/nov/25/how-long-can-humans-live-we-ask-an-expert
+- [In countries where manhood must be proven, men have shorter lives](https://bigthink.com/health/prove-manhood-shorter-life-men)
+- https://www.insider.com/longevity-happiness-tips-centenarian-uncle-jack-2023-10
 
 # Virus
 

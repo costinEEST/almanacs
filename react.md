@@ -200,6 +200,7 @@
 - https://claritydev.net/blog/display-warning-for-unsaved-form-data-on-page-exit
 - https://www.strictmode.io/articles/react-pull-to-refresh
 - https://usehooks-ts.com/react-hook/use-copy-to-clipboard
+- https://emilkowal.ski/ui/building-a-drawer-component + https://github.com/emilkowalski/vaul#examples
 
 #  Lifecycle methods
 

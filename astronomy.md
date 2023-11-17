@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://openstax.org/details/books/astronomy
 - https://www.astrobetter.com/wiki/Textbook+Reviews
@@ -25,18 +25,18 @@
 - [The Nature of Earth: An Introduction to Geology](http://students.aiu.edu/submissions/profiles/resources/onlineBook/W9T9u2_geology.pdf)
 - https://pawelgrzybek.com/book-review-a-short-history-of-nearly-everything-by-bill-bryson
 
-### Binocular
+# Binocular
 
 - https://www.academia.edu/44150388/Istoria_binoclului_Fragmentarium
 - https://earthsky.org/astronomy-essentials/top-tips-for-using-ordinary-binoculars-for-stargazing
 - https://www.skyatnightmagazine.com/advice/best-binoculars-for-astronomy
 - https://futurism.com/best-binoculars-for-astronomy
 
-### Cheat sheet
+# Cheat sheet
 
 - https://www.syfy.com/syfy-wire/happy-new-year-2019-but-what-exactly-is-a-year
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUdMbCuYNLrL8_wCnVnEYof1
 - https://m.youtube.com/c/NatalieStarkeyStardust/playlists
@@ -63,7 +63,7 @@
 - [Cursuri de Astronomie 1-50 | Astronom UNIMIS](https://m.youtube.com/playlist?list=PLs1G-dN-hJ9GQk5PXWXRKw8pYDQXHEGIm) + https://www.unimis.ro/en/courses
 - [Discover Mercury | OpenLearn from The Open University](https://m.youtube.com/playlist?list=PLhQpDGfX5e7C6u4p-2TUwfHx6FeLvFyaB)
 
-### Community
+# Community
 
 - James Newland: https://www.jimmynewland.com/wp/astro/curriculum-guide, https://m.youtube.com/c/jimmynewland/playlists
 - https://ro.wikipedia.org/wiki/Astronom
@@ -111,14 +111,14 @@
 - [Luca Bombelli: Theoretical Physics, the Universe, and Everything](https://www.phy.olemiss.edu/~luca/Topics/list.html)
 - [Ovidiu Văduvescu](https://www.ovidiuv.ca)
 
-### Constellation
+# Constellation
 
 - http://crt-ro.com/39constelatii + https://m.youtube.com/playlist?list=PLwaYDxThuSyGt1Pw55UxfI9802pq5fFro
 - https://planetariubm.ro/2011/03/26/povestile-cerului-constelatiile-de-la-a-la-v-adica-z-prezentate-de-planetariul-baia-mare
 - https://www.academia.edu/44777060/MYTHOLOGICAL_ORIGIN_OF_CONSTELLATIONS_AND_THEIR_DESCRIPTION_ARATUS_PSEUDO_ERATOSTHENES_HYGINUS
 - https://m.youtube.com/playlist?list=PLNk7FC-XaRCko6eLOLeegYSS9hh0_kMSL
 
-### Course
+# Course
 
 - http://www.cursastronomie.ro/PlanificareAstro.pdf
 - [Kevin M. Lee](https://astro.unl.edu)
@@ -131,24 +131,25 @@
 - [Michael Zingale](https://zingale.github.io/classes.html) + https://github.com/zingale/astro_animations
 - https://www.edx.org/course/introduction-to-aerospace-engineering-astronautics
 
-### Historic
+# Historic
 
 - https://www.esa.int/Science_Exploration/Space_Science/3_December
 - https://stiinta-pentru-toti.blogspot.com/2022/06/astronomia.html
 - https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes
 - https://astronomy.com/news/2021/05/the-nebra-sky-disk-is-the-worlds-oldest-star-map-really-a-map-at-all + https://www.bbc.com/news/uk-58946633
+- [An astronomer finds common ground with an astrology buff, as both search for meaning in the complex motions of the heavens](https://www.openmindmag.org/articles/the-same-sky-differently)
 
-### Mars
+# Mars
 
 - https://www.planetary.org/articles/mars-calendar
 
-### Moon
+# Moon
 
 - https://interestingengineering.com/science/formation-of-moon-5-theories
 - https://interestingengineering.com/science/humans-to-live-on-moon-nasa
 - https://nautil.us/the-moon-smells-like-gunpowder-261483
 
-### News
+# News
 
 - https://www.smithsonianmag.com/science-nature/ten-dazzling-celestial-events-to-see-in-2023-180981529
 - [Black holes: Cosmic signal rattles Earth after 7 billion years](https://www.bbc.com/news/science-environment-53993937)
@@ -163,8 +164,9 @@
 - https://wis-wander.weizmann.ac.il/space-physics/look-bright-side-earth
 - https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130
 - https://singularityhub.com/2023/02/03/ai-is-helping-astronomers-search-for-intelligent-alien-life-and-theyve-found-8-strange-new-signals
+- [Recording the first daily measurements of Earth's rotation shifts](https://phys.org/news/2023-11-daily-earth-rotation-shifts.html)
 
-### Picture
+# Picture
 
 - https://maximusphotography.files.wordpress.com/2022/10/sun-oct20.gif
 - [Our galaxy](https://www.eso.org/public/images/eso1242a/zoomable)
@@ -178,16 +180,16 @@
 - [Astrophotography by Thomas Fuchs](https://lightfrom.space)
 - https://artuniverse.eu/gallery/190705-rotation24h
 
-### Planet
+# Planet
 
 - https://www.nbcnews.com/science/space/jupiter-12-new-moons-rcna69131
 - https://www.quantamagazine.org/exoplanets-could-help-us-learn-how-planets-make-magnetism-20230807
 
-### Star
+# Star
 
 - https://upwikiro.top/wiki/Astronomical_catalog
 
-### Tool
+# Tool
 
 - [What entry-level telescope should I choose?](https://news.ycombinator.com/item?id=26231418)
 - https://starmap2d.appspot.com
@@ -204,23 +206,23 @@
 - [Astronomy & Astrophysics Software Pacakge](https://github.com/EranOfek/AstroPack)
 - [Solstice Animations](https://svs.gsfc.nasa.gov/14366)
 
-### Telescope
+# Telescope
 
 - https://www.academia.edu/39138210/Dobson_si_telescoapele_sale_pentru_amatori
 - [Gran Telescopio CANARIAS (GTC)](http://www.gtc.iac.es/gtc/gtc.php)
 - https://www.space.com/22505-worlds-largest-telescopes-explained-infographic.html
 - [Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/story/index.html)
 
-### Radio
+# Radio
 
 - https://planetariubm.ro/ghid-practic-de-orientare-pe-bolta-cereasca
 - https://www.thegreatcourses.com/courses/the-search-for-exoplanets-what-astronomers-know + https://eli.thegreenplace.net/2022/summary-of-reading-july-september-2022
 
-### Venus
+# Venus
 
 - https://curatorial.ro/natura/vulcanii-de-pe-venus-sunt-activi
 
-### Opinion
+# Opinion
 
 - https://launiusr.wordpress.com/2012/02/08/why-explore-space-a-1970-letter-to-a-nun-in-africa
 - https://catid.io/posts/time

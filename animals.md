@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://inquisitivebiologist.com/2021/12/10/book-review-sentient-what-animals-reveal-about-our-senses
 - https://inquisitivebiologist.com/2022/02/21/book-review-paleontology-an-illustrated-history
@@ -6,16 +6,16 @@
 - [How to Walk on Water and Climb on Walls David L. Hu](https://eli.thegreenplace.net/2021/summary-of-reading-october-december-2021)
 - https://inquisitivebiologist.com/tag/bees
 
-### Course
+# Course
 
 - https://www.udemy.com/course/dog-obedience-training
 - https://www.coursera.org/learn/cats-and-dogs
 
-### Community
+# Community
 
 - [Dean R. Lomax, paleontologist](https://www.deanrlomax.co.uk/Autobiography.html)
 
-### Bird
+# Bird
 
 - https://www.amazon.co.uk/Birds-Britannica-Mark-Cocker/dp/0701169079
 - https://bibliotecaexploratorilor.substack.com/p/cele-mai-bune-carti-despre-pasari
@@ -27,24 +27,24 @@
 - https://www.tildecafe.org/2017/01/30/68-physics-bird-nests
 - https://www.mentalfloss.com/article/52624/11-things-we-know-about-dodo
 
-### Crawler
+# Crawler
 
 - https://scitechdaily.com/how-boas-save-themselves-from-suffocating-when-squeezing-their-prey-to-death
 - https://www.bbc.com/future/article/20220211-the-animals-that-predict-disasters
 
-### Dog
+# Dog
 
 - https://www.science.org/content/article/new-sense-discovered-dog-noses-ability-detect-heat
 - https://www.discovermagazine.com/planet-earth/how-dogs-perceive-time
 
-### Fish
+# Fish
 
 - https://www.facebook.com/Tot.C.Sorin
 - [APETROAEI, Maria - Creșterea peștilor in sistem intensiv, 2007](https://biblioteca-digitala.ro/?pub=3758-cresterea-pestilor-in-sistem-intensiv-muzeul-de-stiinte-naturale-piatra-neamt)
 - https://biblioteca-digitala.ro/?domeniu=109-ihtiologie
 - https://biblioteca-digitala.ro/?descriptor=1893-crap
 
-### Insect
+# Insect
 
 - https://stiinta-pentru-toti.blogspot.com/2022/07/entomologie-insecte-daunatoare-si.html
 - https://bigthink.com/life/ants-smell-cancer
@@ -52,18 +52,20 @@
 - https://bookshop.org/books/the-lives-of-moths-a-natural-history-of-our-planet-s-moth-life/9780691228563
 - https://twitter.com/tjalamont/status/1557427199401025536 + https://www.amazon.com/Social-Wasps-North-America-ebook/dp/B09P5RTMT9 + https://www.amazon.com/Wasps-Astonishing-Diversity-Misunderstood-Insect/dp/0691211426
 - https://www.amazon.com/Beekeepers-Bible-Honey-Recipes-Other/dp/1584799188
+- https://www.spiegel.de/international/the-food-of-the-future-grasshoppers-are-more-valuable-than-caviar-a-d34a9baf-4c91-45ac-8998-2aba6fa11cae
+- https://mindcraftstories.ro/stiinta/zumzete-din-stiinta-urmarirea-albinelor-cu-ajutorul-florilor-robotice-si-al-senzorilor-din-stupi
 
-### Mammalian
+# Mammalian
 
 - https://www.scientificamerican.com/article/lost-genes-explain-vampire-bats-diet-of-blood
 - https://showme.missouri.edu/2022/feline-genetics-help-pinpoint-first-ever-domestication-of-cats-mu-study-finds
 
-### Picture
+# Picture
 
 - [Eduard Florin Niga](https://pressone.ro/macrofotografia-m-a-absorbit-incet-dar-sigur-in-totalitate-cum-a-ajuns-un-fotograf-criminalist-din-romania-un-celebru-si-premiat-fotograf-de-insecte-in-marea-britanie)
 - https://www.flickr.com/photos/biodivlibrary/albums
 
-### Miscellaneous
+# Miscellaneous
 
 - [Great White Sharks Are Completely Terrified of Orcas](https://www.smithsonianmag.com/smart-news/great-white-sharks-are-completely-terrified-orcas-180972009)
 - https://www.amazon.com/Extreme-Life-Sea-Stephen-Palumbi/dp/0691169810 + https://neal.fun/deep-sea
@@ -112,6 +114,6 @@
 - https://www.allaboutbirds.org/news/the-cornell-lab-review-affordable-full-size-8x42-binoculars
 - https://interestingengineering.com/science/neanderthals-hunted-10-ton-giant-elephants
 
-### Rodent
+# Rodent
 
 - [Sex and no sleep may be killing endangered quolls](https://www.bbc.com/news/world-australia-64480070)
