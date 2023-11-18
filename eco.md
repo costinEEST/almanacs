@@ -6,7 +6,7 @@
 - https://www.goodreads.com/review/list/18982209?shelf=ecology
 - [PENTRU AGRICULTURA. ECOLOGICĂ. (culturi de câmp). BORIS BOINCEAN](https://eco-tiras.org/books/Ro-2.pdf)
 - [What is your favorite book on energy or climate?](https://twitter.com/gilbeaq/status/1210963374776958981)
-- https://net-zero.blog/bookshelf/sustainable-energy-without-the-hot-air
+- https://net-zero.blog/bookshelf/sustainable-energy-without-the-hot-air + https://blog.regehr.org/archives/142
 - https://inquisitivebiologist.com/2021/12/02/book-review-the-contamination-of-the-earth-a-history-of-pollutions-in-the-industrial-age
 - https://thereader.mitpress.mit.edu/an-environmentalists-lessons-for-an-improvisational-life
 - https://ketanjoshi.co/windfall

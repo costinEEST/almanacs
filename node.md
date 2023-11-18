@@ -241,6 +241,7 @@
 - https://itnext.io/shell-free-scripts-with-execa-7-885fb3b42f83
 - [Learn how to use CLI apps](https://github.com/jonahsnider/how)
 - https://www.stefanjudis.com/today-i-learned/package-json-values-are-accessible-in-npm-yarn-scripts 
+- https://alan.norbauer.com/articles/cross-platform-nodejs
 
 # Cheat sheet
 

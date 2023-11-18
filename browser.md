@@ -41,7 +41,6 @@ javascript: (() =>
 - [Find out which element is scrolling.](https://gist.github.com/brumm/74fd7eaafd50c8477519)
 - [Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.](https://github.com/micmro/performance-bookmarklet)
 - https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii
-- https://alan.norbauer.com/articles/bookcision
 - https://emanuelduss.ch/2020/06/humble-book-bundle-download-bookmarklet
 - [world smallest office suite](https://zserge.com/posts/awfice)
 - [Bookmarklets for sending emails and adding todo items](https://sashko.dev/bookmarklets)
@@ -244,6 +243,8 @@ javascript: (() =>
 - [Zoom Redirector is a browser extension that transparently redirects any meeting links to use Zoom's browser based web client.](https://news.ycombinator.com/item?id=22659216)
 - A Chrome extension static analysis tool to help aide in security reviews: [repo](https://github.com/mandatoryprogrammer/tarnish) + [blog post](https://www.kitploit.com/2019/10/tarnish-chrome-extension-static.html)
 - https://thehackerblog.com/kicking-the-rims-a-guide-for-securely-writing-and-auditing-chrome-extensions/index.html
+- https://github.com/theajack/disable-devtool
+- [Be able to use developer tools again](https://github.com/Andrews54757/Anti-Anti-Debug)
 - [IE Tab exactly emulates IE by using the IE rendering engine directly within Chrome.](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
 - [Browser extension that replaces the new tab page with Anki flashcards](https://github.com/corollari/ankiTab)
 - [A tool that transforms Firefox browsers into a penetration testing suite](https://github.com/mazen160/Firefox-Security-Toolkit)

@@ -1,8 +1,8 @@
-### Arch
+# Arch
 
 - https://ritlug.com/talks/slides/2018-w06-spring-arch-linux.pdf
 
-### Book
+# Book
 
 - https://learning.oreilly.com/library/view/linux-basics-for/9781492069485
 - https://learning.oreilly.com/library/view/working-with-linux/9781787129184
@@ -17,14 +17,8 @@
 - https://thevalleyofcode.com/linux
 - [The Linux Kernel Module Programming Guide (updated for 5.x kernels)](https://github.com/sysprog21/lkmpg) + https://twitter.com/mishmashru/status/1667472263975694336
 
-### Cinema
 
-- [Writing a Hypervisor to be able to run MacOS inside it | Hector Martin](https://m.youtube.com/playlist?list=PL68XxS4_ek4ab49xb5qcODWQETyC5vbHi)
-- https://m.youtube.com/c/LinuxPlumbersConference/playlists
-- https://gitlab.com/r00k/as_linux_file_permissions
-- [Writing a Linux kernel driver for the Apple M1 GPU | Asahi Lina](https://m.youtube.com/playlist?list=PL8S0yfRexZUJmwZTnrqWW8ytgiCos300j)
-
-### Cheat sheet
+# Cheat sheet
 
 - https://www.jarv.org/191-hello-worlds.html
 - http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html
@@ -50,7 +44,7 @@
 - [github action as a free ubuntu vps](https://github.com/smallflowercat1995/FreeVPS-ubuntu-latest)
 - https://thevaluable.dev/find-cli-guide-examples
 
-### Course
+# Course
 
 - https://linuxjourney.com + https://github.com/cindyq/linuxjourney
 - https://github.com/rwxrob/boost + https://skilstak.io/boost
@@ -71,11 +65,11 @@
 - https://github.com/snori74/linuxupskillchallenge
 - https://www.freecodecamp.org/news/introduction-to-linux
 
-### Cronjob
+# Cronjob
 
 - https://beepb00p.xyz/scheduler.html
 
-### Container
+# Container
 
 - https://twitter.com/iximiuz/status/1569051885407014912
 - https://iximiuz.com/en/posts/learn-by-doing-platforms + https://twitter.com/b0rk/status/1444814295188099077
@@ -101,7 +95,7 @@
 - https://blog.mobyproject.org/where-are-containerds-graph-drivers-145fc9b7255
 - [Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 
-### Internals
+# Internals
 
 - [Linux: a Portable Operating System. Linus Torvalds's Master's Thesis (1997)](https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf)
 - [Advanced Operating Systems and Virtualization](https://gist.githubusercontent.com/andreafioraldi/c6ab4765a3821bc6f07537ad4cdafa9e/raw/4351fe1e6235daf85647ad34d2b50df20a21da63/asov_checkshit_singlefile.txt) + https://twitter.com/andreafioraldi/status/1205857977518952448
@@ -124,15 +118,15 @@
 - https://www.cyberdemon.org/2023/06/27/file-writes.html
 - https://www.usenix.org/publications/loginonline/transcending-posix-end-era
 
-### NixOS
+# NixOS
 
 - https://github.com/ghuntley/workshops
 
-### Radio
+# Radio
 
 - https://ma.ttias.be/syscast/9-linux-vs-bsd
 
-### Tool
+# Tool
 
 - https://geekflare.com/run-linux-from-a-web-browser
 - [Linux Productivity Tools (2019)](https://news.ycombinator.com/item?id=23229241)
@@ -152,12 +146,12 @@
 - [GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems](https://github.com/GTFOBins/GTFOBins.github.io)
 - [Test drive Linux distros online](https://distrosea.com)
 
-### Embedded
+# Embedded
 
 - [Designing My Linux-Powered Business Card](https://www.thirtythreeforty.net/posts/2019/12/designing-my-linux-business-card)
 - https://github.com/embeddedartistry/embedded-resources
 
-### Security
+# Security
 
 - https://madaidans-insecurities.github.io/guides/linux-hardening.html
 - [You may be vulnerable to hijacked VPN(OpenVPN/IPSec/Wireguard/etc) tunnels.](https://twitter.com/Ridgeback111/status/1202623324901302279)
@@ -178,7 +172,7 @@
 - https://github.com/gkaindl/meltdown-poc
 - https://fy.blackhats.net.au/blog/2022-08-24-where-to-start-with-linux-authentication
 
-### Opinion
+# Opinion
 
 - [How can a intermediate-beginner learn Unix/Linux and programming?](https://news.ycombinator.com/item?id=22649291)
 - [Why I Prefer systemd Timers Over Cron](https://trstringer.com/systemd-timer-vs-cronjob)
@@ -188,3 +182,11 @@
 - https://xeiaso.net/talks/nixos-pain-2021-11-10
 - https://nickolinger.com/blog/moving-to-arch + https://github.com/olingern/arch-dotfiles
 - ["Challenges Using Linux As A Real-Time Operating System", Michael M. Madden, NASA Langley Research Center, 2019](https://ntrs.nasa.gov/citations/20200002390)
+
+# Watch
+
+- [Writing a Hypervisor to be able to run MacOS inside it | Hector Martin](https://m.youtube.com/playlist?list=PL68XxS4_ek4ab49xb5qcODWQETyC5vbHi)
+- https://m.youtube.com/c/LinuxPlumbersConference/playlists
+- https://gitlab.com/r00k/as_linux_file_permissions
+- [Writing a Linux kernel driver for the Apple M1 GPU | Asahi Lina](https://m.youtube.com/playlist?list=PL8S0yfRexZUJmwZTnrqWW8ytgiCos300j)
+- [Libre Arts (formerly Libre Graphics World) is an online magazine on free/libre software for creative professionals](https://www.youtube.com/@LibreArts/playlists?view=1&sort=lad&flow=grid)

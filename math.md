@@ -1,4 +1,4 @@
-### Machine Learning
+# Machine Learning
 
 - [Mathematics for Machine Learning by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
 - [(Whistled) melody detection workshop. First presented at LauzHack Days (Nov 13, 2018).](https://github.com/ebezzam/melody-detection)
@@ -6,13 +6,13 @@
 - https://seyonechithrananda.com/Biodojo-Sessions-Math-for-Machine-Learning-0549626788c648309695b4ee3dad8f13
 - [Mathematics for Machine Learning - Linear Algebra | Imperial College London](https://m.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 
-### Calculus
+# Calculus
 
 - https://www.amazon.com/Infinite-Powers-Calculus-Reveals-Universe/dp/1328879984
 - [Open-source textbooks on calculus, linear algebra, differential equations, real analysis, abstract algebra, combinatorics, and introduction to proof -- a partial list](https://twitter.com/stevenstrogatz/status/1208199688362610688)
 - https://github.com/nadvornix/calculus-made-easy + https://twitter.com/helenczerski/status/1375915057905856513
 
-### Book
+# Book
 
 - [ The Art and Craft of Problem Solving - Paul Zeitz](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
 - [Concrete Mathematics: A Foundation for Computer Science (2nd Edition)](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)
@@ -63,8 +63,11 @@
 - [Hideyuki Matsumura, Commutative Algebra](https://github.com/AareyanManzoor/Matsumura-Commutative-Algebra)
 - [J. F Adams, Stable Homotopy and Generalised Homology](https://github.com/AareyanManzoor/Adams-Blue-Book)
 - [Noel J. Hicks, Notes on Differential Geometry](https://github.com/AareyanManzoor/Hicks-Notes-Diff-Geo)
+- [Street-Fighting Mathematics | Sanjoy Mahajan](https://blog.regehr.org/archives/157)
+- [Physically Based Rendering: From Theory To Implementation | Matt Pharr, Wenzel Jakob, and Greg Humphreys](https://github.com/mmp/pbr-book-website)
+- https://en.wikipedia.org/wiki/The_Penguin_Dictionary_of_Curious_and_Interesting_Numbers + https://bookstore.ams.org/mbk-64 + https://news.ycombinator.com/item?id=38242946
 
-### Course
+# Course
 
 - https://github.com/llSourcell/learn_math_fast
 - https://github.com/Developer-Y/math-science-video-lectures#mathematics
@@ -80,7 +83,7 @@
 - [Advanced Algorithms | David R. Karger](https://6.5210.csail.mit.edu/materials.html)
 - https://github.com/spatialaudio/digital-signal-processing-lecture
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/user/standupmaths/videos
 - [Tutorials by Inigo Quilez](https://m.youtube.com/playlist?list=PL0EpikNmjs2CYUMePMGh3IjjP4tQlYqji)
@@ -123,7 +126,7 @@
 - [Matematici pentru politehnisti | ALEXANDRU ȘTEFAN NEGRESCU](https://m.youtube.com/channel/UCRcpjorgGE-3-Z-Sg5wu70Q/playlists) + [Admitere UPB 2021 - Matematică](https://m.youtube.com/playlist?list=PLn9oGSe656KTrTYpH8Yjg9rh7j20YmSPj)
 - [Numerical linear algebra | Toby Driscoll](https://m.youtube.com/playlist?list=PLvUvOH0OYx3AZ_WXhkLXo3JLSeGT2wLj3)
 
-### Community
+# Community
 
 - [American Mathematical Society](https://twitter.com/amermathsoc)
 - http://gustavbertram.com/learning/math
@@ -133,7 +136,7 @@
 - https://www.bacondarwin.co.uk/maths + https://nrich.maths.org/frontpage + https://www.amazon.co.uk/The-Elephant-Classroom-Helping-Children/dp/0285638475
 - https://fermatslibrary.com/s/mental-calculation-a-reminiscence-of-the-late-mr-g-p-bidder
 
-### Mathematician
+# Mathematician
 
 - [Évariste Galois](https://twitter.com/3blue1brown/status/1245468127061610496) + https://www.damninteresting.com/radical-solutions
 - [John Horton Conway (1937-2020)](https://www.scottaaronson.com/blog/?p=4732) + http://raganwald.com/2020/05/03/fractran.html
@@ -147,7 +150,7 @@
 - [Matematicieni din prima jumatate a secolului al XX-lea](http://refkol.ro/matek/mathbooks/ro.math.wikia.com%20wiki%20Fisiere_pdf_incarcate/Matematicieni_din_prima_jumatate_a_secolului_al_XX-lea.pdf)
 - [Matematica în România. Profesorii noştri - modele de viaţă | Eufrosina Otlăcan](https://www.arsdocendi.ro/t_carte.php?id_carte=42)
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/llSourcell/Mathematics_for_Beginners
 - [Rocket Men by Robert Kurson](https://twitter.com/Yaz17657882/status/1206566643142258691)
@@ -166,7 +169,7 @@
 - [SDF are fun tools for geometry creation](https://winterbloed.be/the-wrong-way-to-use-a-signed-distance-function)
 - https://github.com/E869120/math-algorithm-book
 
-### Tool
+# Tool
 
 - https://www.mathway.com/Algebra
 - [Convert mathematical equations to SVGs, PNGs, or MathML. A general wrapper to Lasem and mtex2MML](https://github.com/gjtorikian/mathematical)
@@ -174,7 +177,7 @@
 - https://github.com/winston-h-zhang/math-at-usc
 - [Multilingual dictionary of mathematical terminology](https://github.com/thosgood/maths-dictionary)
 
-### Teacher
+# Teacher
 
 - https://simonaileapop.wordpress.com/2013/01/01/profesorului-gheba-omul-care-a-scos-la-tabla-tara-intreaga
 - [Liping Ma](https://twitter.com/stevenstrogatz/status/1445373622898630665)

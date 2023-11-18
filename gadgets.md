@@ -1,21 +1,21 @@
-### Bike
+# Bike
 
 - https://futurism.com/best-ebikes
 
-### Video camera
+# Video camera
 
 - [The Ultimate Pocket Camera: Insta360 X3](https://youtu.be/H8PLt4lG-tY)
 - https://lcamtuf.substack.com/p/random-objects-the-petal-camera
 
-### Charger
+# Charger
 
 - https://www.emag.ro/product-feedback/acumulator-extern-huawei-supercharge-12000-mah-40w-blue-55030797/pd/DB5YQLBBM/review/3764817
 
-### Desk
+# Desk
 
 - https://chaseinmotion.com/posts/successful-remote-working-from-home
 
-### Headphones
+# Headphones
 
 - https://www.avstore.ro/casti-hi-fi/casti-meze-99-classics-over-ear
 - [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/better_with_bose/mark-rober.html?mc=25_SM_HP_SC_00_YT_markrober3) + [recommended by Mark Rober](https://youtu.be/a_TSR_v07m0)
@@ -27,7 +27,7 @@
 - https://www.emag.ro/casti-sennheiser-hd-450-bt-wireless-negru-508386/pd/D8XJZWBBM or https://www.emag.ro/casti-audio-over-the-ear-bose-qc35-ii-wireless-bluetooth-noise-cancelling-microfon-autonomie-20-ore-negru-789564-0010/pd/DPRTPVBBM
 - [Sennheiser IE 800 S](https://twitter.com/DefuseSec/status/1682202557291065344)
 
-### Laptop
+# Laptop
 
 - [Secure Laptop | Milosch Meriac](https://m.youtube.com/playlist?list=PLC_CdHO9Xx-N2UuNSnyxSGTmKWHZAXUsX)
 - [Why Chrome OS?](https://twitter.com/WebReflection/status/1244374562139242497)
@@ -36,7 +36,7 @@
 - https://m.youtube.com/c/LaptopRetrospective/playlists
 - [ThinkPad X13s (13” Snapdragon)](https://twitter.com/WebReflection/status/1576922986992410624)
 
-### Keyboard
+# Keyboard
 
 - https://www.amazon.com/Keychron-Wireless-Bluetooth-Mechanical-Keyboard/dp/B07Y9Y69N7
 - https://twitter.com/lucalanziani/status/1382410416823934987
@@ -54,18 +54,19 @@
 - [Keyboard Ninja - No Mouse, Keyboard Only | gotbletu](https://m.youtube.com/playlist?list=PLqv94xWU9zZ1cXfg3ED24G6RSt4NbFBfO)
 - https://github.com/diimdeep/awesome-split-keyboards
 - https://github.com/leebyron/keyboard
+- https://m.youtube.com/@RyanNorbauer/videos
 
-### Microphone
+# Microphone
 
 - https://chan.dev/posts/a-bargain-mic-for-yellers
 - https://github.com/filmgirl/podcasting-resources
 
-### Mouse
+# Mouse
 
 - [.. attach your mouse to your computer with a wire so it could get power and you didn't need to change the batteries all the time.](https://twitter.com/seldo/status/1215719226188582913)
 - https://daninovac.com/cel-mai-bun-mouse-programare-logitech-mx-3
 
-### Monitor
+# Monitor
 
 - http://www.gregoryschmidt.ca/writing/why-4k-is-misleading
 - [4k monitors](https://twitter.com/rogie/status/1221294864144318468)
@@ -77,16 +78,16 @@
 - https://www.theverge.com/23542274/samsung-dell-5k-6k-monitors-apple-macbook-macos-ces-2023
 - [As a hacker, how many monitors do you use?](https://twitter.com/hakluke/status/1648402807358144514)
 
-### Phone
+# Phone
 
 - https://www.wired.com/story/best-google-pixel-phone/#pixel6
 - https://lazyadmin.ro/samsung-s23-ultra-recenzie-cinstita-necesara
 
-### Kitchen
+# Kitchen
 
 - https://juneoven.com
 
-### Watches
+# Watches
 
 - https://adamfuhrer.com/accuracy-of-mechanical-watches
 - https://shop.espruino.com/banglejs + https://www.hackster.io/news/the-bangle-js-an-open-sourced-javascript-powered-smart-watch-6359962646c2 + https://cxlabs.sap.com/2019/11/11/labs-talk-feature-espruino-bluetooth-nfc-and-bangle-js-kickstarter
@@ -94,20 +95,20 @@
 - [Data Runner Watch Prototype – Modded Casio F91W](https://news.ycombinator.com/item?id=23975012)
 - [Casio A168WA-1](https://twitter.com/dhh/status/1369233695660519428)
 
-### Health
+# Health
 
 - [9 Fitness and Health Gift Ideas 2020](https://youtu.be/G9n51Xtcm_A)
 - [nRF52/nRF51 Fitness Trackers & Smartwatches Reverse Engineered for use as a Wearable Device Development Platform.](https://github.com/curtpw/nRF5x-device-reverse-engineering)
 - https://www.nearform.com/blog/banglejs-oss-open-health-wearables-js-tensorflow
 - https://www.carryology.com/liking/industry/human-interface-a-guide-to-backpack-harness-innovation
 
-### Recording
+# Recording
 
 - https://markshust.com/2019/12/28/ergonomic-workstation-programming-screencasting
 - https://twitter.com/cassiozen/status/1349071222638862338
 - https://aaronparecki.com/life-stack/#audio
 
-### Miscellaneous
+# Miscellaneous
 
 - https://arstechnica.com/science/2021/12/the-remarkable-history-of-the-hand-cranked-curta-mechanical-calculator
 - https://gedd.ski/post/favorite-gear + https://mastery.games/post/favorite-gear
@@ -124,7 +125,7 @@
 - https://uses.craftz.dog
 - https://sunnysingh.io/blog/wfh-setup
 
-### Webcam
+# Webcam
 
 - https://opalcamera.com + https://twitter.com/nikitonsky/status/1437334446231916544 + https://news.ycombinator.com/item?id=28463493
 - https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html

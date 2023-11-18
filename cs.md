@@ -1,4 +1,4 @@
-### Algorithms
+# Algorithms
 
 - [Algorithms and data structures as visual animations.](https://www.chrislaux.com)
 - [Everything you need to prepare for your technical interview](https://github.com/andreis/interview)
@@ -7,12 +7,13 @@
 - https://github.com/Just-A-Visitor/Algorithmic-Pseudocode
 - [Solutions to Introduction to Algorithms Third Edition](https://github.com/walkccc/CLRS)
 - https://www.coursera.org/learn/algorithmic-toolbox
+- [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms)
 
-### Data structures
+# Data structures
 
 - https://blog.cloudflare.com/when-bloom-filters-dont-bloom
 
-### Compiler
+# Compiler
 
 - [Want to Write a Compiler? Just Read These Two Papers.](https://prog21.dadgum.com/30.html)
 - https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html
@@ -21,7 +22,7 @@
 - https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf + https://twitter.com/reknih/status/1583777760228495360
 - https://lists.eatonphil.com/compilers-and-interpreters.html
 
-### Course
+# Course
 
 - [Software Security is a Programming Languages Issue](http://www.pl-enthusiast.net/2018/08/13/security-programming-languages-issue/)
 - http://www.auxy.xyz/note/2019/05/01/PA-Note.html + https://github.com/Auxy233/program-analysis-note
@@ -32,7 +33,7 @@
 - https://github.com/nushackers/notes-to-cs-freshmen-from-the-future
 - https://includejs.dev/tags/missing-semester
 
-### Cinema
+# Cinema
 
 - https://github.com/emschwartz/awesome-recurse
 - [GOTO 2016 • Pure Functional Programming in Excel • Felienne Hermans](https://youtu.be/0yKf8TrLUOw)
@@ -46,7 +47,7 @@
 - [Ohio State: EE 481 - Engineering Ethics with Kevin Passino | CosmoLearning.org Engineering](https://m.youtube.com/playlist?list=PLaLOVNqqD-2E5EYdtKlA5VWdsLNl0FEYH)
 - https://liveprog.org/live-2021/User-Modifiable-Software-Smalltalk-and-HyperCard.mp4
 
-### Book
+# Book
 
 - https://www.programmingbooks.dev
 - http://www.adamtornhill.com/bookreviews.htm
@@ -77,7 +78,7 @@
 - [Practical Foundations for Programming Languages (Second Edition) by Robert Harper](http://www.cs.cmu.edu/~rwh/pfpl)
 - [Introduction to higher order categorical logic (1986) | Joachim Lambek, Philip Scott](https://github.com/Mzk-Levi/texts/blob/master/Lambek%20J.%2C%20Scott%20P.J.%20Introduction%20to%20Higher%20Order%20Categorical%20Logic.pdf)
 
-### Date and Time on the Internet: Timestamps
+# Date and Time on the Internet: Timestamps
 
 - https://ucarion.com/rfc3339-in-any-language
 - https://github.com/kdeldycke/awesome-falsehood#dates-and-time
@@ -93,7 +94,7 @@
 - https://en.wikipedia.org/wiki/Bifilar_sundial
 - https://hackaday.com/2015/10/28/we-didnt-know-the-sun-could-do-digital
 
-### TIL
+# TIL
 
 - [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 - [Back to basic](https://blog.hoangnm.com/2019/10/01/back-to-basic)
@@ -106,7 +107,7 @@
 - https://ciechanow.ski/exposing-floating-point + https://twitter.com/BCiechanowski/status/1080175361583865856
 - https://blog.ngzhian.com/ieee754.html
 
-### Should know
+# Should know
 
 - [Follow best practices, then standard follow you](https://github.com/hugo53/awesome-best-practices)
 - https://www.peerlyst.com/posts/guide-for-programmers-how-to-generate-secure-random-numbers-pyotr-a-pavlensky
@@ -121,7 +122,7 @@
 - https://github.com/slikts/concurrency-glossary
 - [The Origin of the Terms Big-Endian and Little-Endian](https://www.ling.upenn.edu/courses/Spring_2003/ling538/Lecnotes/ADfn1.htm)
 
-### Interview
+# Interview
 
 - https://github.com/InterviewReady/system-design-resources
 - https://m.youtube.com/c/NickWhite/playlists
@@ -143,11 +144,11 @@
 - https://github.com/karanpratapsingh/system-design
 - [The documentation for being an Artsy Engineer](https://github.com/artsy/README)
 
-### Parser
+# Parser
 
 - [Concepts of Programming Languages | Mary Elaine Califf](https://m.youtube.com/playlist?list=PLrB7VCHji9zj7wGQOfWNvvj691QwZ1Lam)
 
-### Practice
+# Practice
 
 - https://github.com/Bogdanp/awesome-advent-of-code
 - https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds
@@ -160,7 +161,7 @@
 - https://github.com/gamontal/awesome-katas
 - https://www.hanshq.net/roman-numerals.html
 
-### Domain-Driven Design
+# Domain-Driven Design
 
 - [A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources ](https://github.com/heynickc/awesome-ddd)
 - [A learning path about Clean Code, TDD, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture.](https://github.com/joebew42/study-path)
@@ -170,12 +171,12 @@
 - https://github.com/ddd-crew/ddd-starter-modelling-process
 - https://github.com/ddd-crew/free-ddd-learning-resources
 
-### Encoding
+# Encoding
 
 - [Top UTF-8 Decoders](https://gist.github.com/chadbrewbaker/5ec5fbe06d294da95b15d17b70b4d4a3)
 - https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities + https://twitter.com/rossjanderson/status/1454962928923418626
 
-### Historic
+# Historic
 
 - https://webdevelopmenthistory.com/index
 - https://shape-of-code.com/tag/history
@@ -194,7 +195,7 @@
 - https://github.com/v3ga/computer_history
 - [Illustrating BASIC, a simple programming language](https://archive.org/details/illustratingbasi0000alco)
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/charlax/professional-programming
 - https://github.com/joelparkerhenderson/architecture-decision-record
@@ -236,11 +237,11 @@
 - https://github.com/Sairyss/domain-driven-hexagon
 - https://github.com/0x90n/InfoSec-Black-Friday
 
-### Radio
+# Radio
 
 - https://futureofcoding.org/episodes
 - [The Software Arts | Warren Sack](https://geekspeak.org/geeks/warren)
 
-### Paper research
+# Paper research
 
 - [What Are You Waiting For? Use Coroutines for Asynchronous I/O to Hide I/O Latencies and Maximize the Read Bandwidth!](https://db.in.tum.de/~fent/papers/coroutines.pdf)

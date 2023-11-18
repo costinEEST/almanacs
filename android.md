@@ -29,6 +29,7 @@
 - https://github.com/PacktPublishing/The-Complete-Intermediate-Android-Masterclass
 - https://www.packt.com/product/mobile/b18036-android-studio-4-2-development-essentials-java-edition
 - https://github.com/mgp/book-notes/blob/master/learning-android.markdown
+- https://burhanrashid52.com/androids-book + https://www.chethaase.com/androids
 
 # Community
 

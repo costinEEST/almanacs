@@ -13,6 +13,10 @@
 - [Fundatia Culturala Memoria](https://us7.campaign-archive.com/home/?u=21562341fc294594ee2ed413f&id=93bd3e91ec)
 - https://stripepress.substack.com/archive
 
+# C language 
+
+- [Jacob Sorber](https://us8.campaign-archive.com/home/?u=5ba7801240bea9947c7849f4f&id=05db6fc9a8)
+
 # C++
 
 - [Denis Bakhvalov](https://easyperf.net/newsletter)
