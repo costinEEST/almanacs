@@ -129,6 +129,7 @@
 - [Codecast C learning platform (formerly fioi-recorder).](https://github.com/France-ioi/codecast)
 - [stack-based bytecode interpreter](https://m.youtube.com/playlist?list=PLhMOOgDOKD4JV2AgL1XzoYanY6RpGKbNa) + https://gitlab.com/gilmi/vm
 - [Write your own virtual machine](https://github.com/justinmeiners/lc3-vm)
+- https://tratt.net/laurie/research/talks
 
 # Operatin system
 

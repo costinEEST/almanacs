@@ -1,10 +1,10 @@
-### Book
+# Book
 
 - https://github.com/mrzool/unix-as-ide
 - [The Art of Unix Programming, reformatted.](https://www.arp242.net/taoup.html)
 - https://www.allthingsdistributed.com/2020/07/the-os-classics.html
 
-### Course
+# Course
 
 - [CS 2043 - Unix Tools & Scripting (Cornell University)](http://www.cs.cornell.edu/courses/cs2043/2014sp/)
 - [A beginner's guide to the development, usage and history of the UNIX operating system.](https://github.com/avindra/unix-info) + https://dra.vin/unix-info + https://twitter.com/avindra/status/1361782941437820934
@@ -12,15 +12,15 @@
 - https://www.netmeister.org/book + [CS615 -- System Administration](https://stevens.netmeister.org/615)
 - [CS631 - Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631)
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLoKM3Qfxoe0mTWQnjNghk2Ofzfp2x68zN
 
-### Historic
+# Historic
 
 - https://www.usenix.org/publications/loginonline/transcending-posix-end-era
 
-### Internals
+# Internals
 
 - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 - [Understanding the bin, sbin, usr/bin , usr/sbin split.](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
@@ -32,8 +32,9 @@
 - https://digitalbunker.dev/2020/09/03/understanding-daemons-unix + https://news.ycombinator.com/item?id=24361013
 - https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios
 - https://github.com/gaul/awesome-ld-preload
+- [Richard Kettlewell's collection of platform quirks around the question "when does a polled file descriptor reach EOF?"](https://www.greenend.org.uk/rjk/tech/poll.html)
 
-### CLI
+# CLI
 
 - http://doc.cat-v.org/unix/for-poets + https://matt.might.net/articles/sculpting-text
 - https://thenewstack.io/get-to-know-vi-a-text-editor-for-the-ages
@@ -47,7 +48,7 @@
 - [A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day](https://github.com/cli-guidelines/cli-guidelines) + https://clig.dev
 - [Determining file versions using 'join' command](https://yurichev.com/news/20211016_join)
 
-### Flavours
+# Flavours
 
 - https://genneko.github.io/playing-with-bsd/hardware/freebsd-on-thinkpad-t480
 - https://www.jeremymorgan.com/blog/freebsd/freebsd-developer-2020
@@ -61,7 +62,7 @@
 - [Default Desktop Environments for Linux and Unix](https://eylenburg.github.io/de_default.htm)
 - https://github.com/o-oconnell/minixfromscratch + https://github.com/o-oconnell/writeyourownos + https://archive.org/details/tanenbaum_woodhull_operating-systems-design-implementation-3rd-edition
 
-### Tool
+# Tool
 
 - [Paint program for Unix](https://github.com/justinmeiners/classic-colors)
 - https://hynek.me/til/which-not-posix

@@ -72,6 +72,7 @@
 - [Stay up to date with events, learning resources, and recent developments in the Rust community](https://github.com/rust-lang/this-week-in-rust)
 - https://twitter.com/i/communities/1690081308238561437
 - https://github.com/dasifefe/rust-game-development-frameworks
+- [Laurence Tratt](https://tratt.net/laurie/src)
 
 # Course
 
