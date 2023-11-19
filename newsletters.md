@@ -364,7 +364,7 @@
 - [Ben Frain](https://us19.campaign-archive.com/home/?u=906ec14e977f8fce87751d6f1&id=becad47daa)
 - https://tailwindweekly.com/rss
 - [CSS Simplified By Shruti Balasa](https://www.getrevue.co/profile/shrutibalasa)
-- [Hacker Newsletter](https://us1.campaign-archive.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)
+- [Kale Davis: Hacker Newsletter](https://us1.campaign-archive.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e)
 - https://apisecurity.io/full-archive + https://apisecurity.io/#newsletter1
 - [Future of Coding Weekly](https://tinyletter.com/marianoguerra/archive)
 - [Matt Frisbie](https://mattfrisbie.substack.com/archive)
@@ -541,7 +541,7 @@
 - [Luke Burgis](https://archive.feedblitz.com/1110672) + https://read.lukeburgis.com/archive
 - [Jordan B. Peterson](https://us6.campaign-archive.com/home/?u=3c53a4d9fc927f570cf437952&id=a434e81da0)
 
-# Spoken languages
+# Speak
 
 - [LearnHebrew.TV](https://us12.campaign-archive.com/home/?u=bbfadccb964a11c5a7a496a64&id=d4ec934372)
 - [Spanish and Go](https://us14.campaign-archive.com/home/?u=272e33053f331a3b490eee682&id=98bc997016)

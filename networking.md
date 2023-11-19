@@ -84,6 +84,7 @@
 - [the 5-in-1 network admin's cable: ethernet / crossover / modem / null modem / Cisco console](http://www.ossmann.com/5-in-1.html)
 - https://blog.kanbach.org/post/how-to-permanently-change-a-mac-address-using-ethtool
 - [VPN from Windows to Linux: WireGuard working example](https://yurichev.org/wireguard)
+- https://jvns.ca/tcpdump-zine.pdf
 
 # The Open Systems Interconnection model (OSI)
 
