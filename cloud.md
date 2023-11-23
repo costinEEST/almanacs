@@ -1,4 +1,4 @@
-### AWS
+# AWS
 
 - [Cloudcraft – Draw AWS diagrams](https://cloudcraft.co)
 - https://github.com/undergroundwires/AWS-in-bullet-points
@@ -68,7 +68,7 @@
 - https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html
 - https://github.com/peorth80/aws-solutions-architect-associate-notes-SAAC03
 
-### Azure
+# Azure
 
 - https://github.com/carlospolop/hacktricks-cloud/tree/master/pentesting-cloud/azure-security
 - https://www.nexmo.com/blog/2020/01/29/how-send-receive-sms-messages-with-node-js-azure-functions-dr
@@ -96,13 +96,13 @@
 - https://github.com/ine-labs/AzureGoat
 - https://github.com/rootsecdev/Azure-Red-Team
 
-### Cloudflare
+# Cloudflare
 
 - https://n14n.dev/articles/2022/an-overly-complicated-blog
 - https://cri.dev/posts/2021-04-05-currently-self-hosting-apps
 - https://areknawo.com/cloudflare-workers-the-best-serverless-faas-platform
 
-### Google Cloud Platform (GCP)
+# Google Cloud Platform (GCP)
 
 - [The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words) + https://twitter.com/gregsramblings/status/1366841332312907780
 - [Set up a free server](https://twitter.com/s0md3v/status/1212115426697547777) + https://dev.to/phocks/how-to-get-a-free-google-server-forever-1fpf
@@ -127,16 +127,16 @@
 - https://github.com/batmanbury/gcp_notes
 - https://github.com/Sytten/AnveoSMS
 
-### IBM
+# IBM
 
 - https://github.com/victorshinya/awesome-ibmcloud
 - Introduction to @IBMcloudant - [tweet](https://twitter.com/glynn_bird/status/1248217903276732419) + [video series](https://m.youtube.com/playlist?list=PLJa_sXrJUZb-Y4Q_5y3yPC8m5RxS5q-_J)
 
-### Oracle
+# Oracle
 
 - https://nopecode.com/2021/12/04/free-openvpn-for-a-lifetime.html
 
-### Platform independent
+# Platform independent
 
 - https://leanpub.com/cloudstrategy
 - https://blog.lightspin.io/cloud-security-terms
@@ -156,11 +156,12 @@
 - https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course
 - https://github.com/ruanbekker/cheatsheets
 - https://github.com/alexellis/awesome-baremetal
+- ["rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files](https://github.com/rclone/rclone)
 
-### Radio
+# Radio
 
 - https://www.rework.fm/leaving-the-cloud
 
-### Vercel
+# Vercel
 
 - [How Vercel is Changing the Cloud Game](https://github.com/peibolsang/peibolsang/issues/2)
