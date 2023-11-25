@@ -1,4 +1,4 @@
-### Battery
+# Battery
 
 - https://giuliomagnifico.blog/tutorial/2022/01/30/automationtip-to-preserve-battery.html
 - https://www.anthropocenemagazine.org/2021/09/a-spoonful-of-sugar-makes-a-better-battery
@@ -23,8 +23,9 @@
 - [Project Sunroof](https://news.ycombinator.com/item?id=34699395)
 - [18650 Battery Packs For Beginners](https://www.facebook.com/groups/202140770347162/files/files)
 - https://nelsonslog.wordpress.com/2023/07/10/aaa-and-aa-batteries
+- https://nelsonslog.wordpress.com/2023/11/24/charging-a-non-tesla-at-a-tesla-charger
 
-### Book
+# Book
 
 - [When Topology Meets Chemistry: A Topological Look at Molecular Chirality | Erica Flapan](https://www.amazon.com/When-Topology-Meets-Chemistry-Topological/dp/0521664829)
 - https://twitter.com/IBchemmilam/status/1458952437360910340
@@ -50,14 +51,14 @@
 - [Admitere UPB 2021 - Chimie Anorganică](https://m.youtube.com/playlist?list=PLn9oGSe656KReRekkbRHGDA1SX160QLBb)
 - http://astro.phys-acs.org/AstroCheminar.html + https://m.youtube.com/@astrocheminars303/videos
 
-### Course
+# Course
 
 - https://biochem.oregonstate.edu/content/biochemistry-free-and-easy + https://m.youtube.com/playlist?list=PLVnjTkEwv-uMN7iB8phOMLDV7TS9IuqtK + https://m.youtube.com/playlist?list=PL347B70A1CC0D91C6 + [A collection of Kevin Ahern's lectures for his BB 350 (Elementary Biochemistry) course at Oregon State University](https://m.youtube.com/playlist?list=PL74ED4174166F94A8)
 - [24-643 Electrochemical Energy Storage Systems](https://www.andrew.cmu.edu/user/venkatv/24643/index.html)
 - [MIT 3.091SC Introduction to Solid State Chemistry, Fall 2010](https://m.youtube.com/playlist?list=PL36EC6A6180271B0F) + https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010
 - https://www.udemy.com/course/overview-of-aromatherapy
 
-### Community
+# Community
 
 - https://github.com/nikitavoloboev/knowledge/blob/main/chemistry/chemistry.md
 - https://hardware.slashdot.org/story/17/04/19/016213/the-slashdot-interview-with-lithium-ion-battery-inventor-john-b-goodenough
@@ -66,7 +67,7 @@
 - https://github.com/lmmentel/awesome-python-chemistry
 - https://cen.acs.org/people/profiles/Six-black-chemists-should-know/97/web/2019/02
 
-### Miscellaneous
+# Miscellaneous
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUe_xIGI_L9D5D7qL6UCymlS
 - https://m.youtube.com/user/periodicvideos/playlists
@@ -100,7 +101,7 @@
 
 - [Brent Westbrook](https://bwestbro.com/#sheets)
 
-### Tool
+# Tool
 
 - https://periodictable.com + https://theodoregray.com/PeriodicTable
 - https://usefulcharts.com/products/alternative-periodic-table
@@ -110,7 +111,7 @@
 - https://twitter.com/batterymodel/status/1437435682293784577
 - http://sciwiki.io/index.php?title=Tools
 
-### Radio
+# Radio
 
 - [Cell Siders](https://open.spotify.com/show/2I2gNULTcq4MxEfJ8zu0uR)
 - https://anchor.fm/battery-associates

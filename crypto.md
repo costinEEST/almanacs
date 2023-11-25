@@ -1,4 +1,4 @@
-### Algorithm
+# Algorithm
 
 - https://backdrifting.net/post/003_diffie_hellman
 - https://github.com/B-Con/crypto-algorithms
@@ -20,12 +20,12 @@
 - https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html
 - https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md + [Cryptographically Signed Firmware](https://youtu.be/Veu_fDPecM8)
 
-### Best practices
+# Best practices
 
 - https://www.seancassidy.me/how-to-implement-crypto-poorly.html
 - [Guidelines for low-level cryptography software](https://github.com/veorq/cryptocoding)
 
-### Book
+# Book
 
 - https://github.com/nakov/Practical-Cryptography-for-Developers-Book
 - [A Graduate Course in Applied Cryptography (Rev 2020)](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf) + https://toc.cryptobook.us
@@ -47,8 +47,9 @@
 - https://www.manning.com/books/real-world-cryptography
 - https://blog.cryptographyengineering.com/2023/04/24/book-review-red-team-blues
 - [Best Current Practices regarding secure online communication and configuration of services using cryptography](https://github.com/BetterCrypto/Applied-Crypto-Hardening)
+- [A Panorama on Classical Cryptography; Designing, Implementing, Breaking, Verifying, and Standardizing Cryptography | Benoît Viguier](https://benoit.viguier.nl/files/phd-thesis.pdf)
 
-### Course
+# Course
 
 - [Introduction to Cryptography (89-656), in Hebrew](https://m.youtube.com/playlist?list=PLM96W_EHEqh4ImClhKxuH4Fqm_Ieiok_B) + https://u.cs.biu.ac.il/~lindell/89-656/main-89-656.html
 - [Introduction to Cryptography - 1s2017](https://docs.google.com/spreadsheets/d/11_dfB1B1iTqjfMBjoWBtLkD14kCxDHsw-wsUbvIfaNg/pubhtml)
@@ -61,7 +62,7 @@
 - https://saweis.net/crypto.html
 - https://soc1024.ece.illinois.edu/#teaching
 
-### Watch
+# Watch
 
 - [Theory and Practice of Cryptography](https://m.youtube.com/playlist?list=PL10875C2002F7E6F6)
 - [ Introduction to Cryptography by Christof Paar](https://m.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
@@ -71,7 +72,7 @@
 - [Real World Cryptography conference in 2023](https://rwc.iacr.org/2023/program.php) + https://www.youtube.com/playlist?list=PLeeS-3Ml-rpo-pbh8LIhb8VscM_q5OaSE
 - https://github.com/sweis/moderncrypto
 
-### Certificates
+# Certificates
 
 - [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki)
 - mkcert: valid HTTPS certificates for localhost - [repo](https://github.com/FiloSottile/mkcert) + [blog post](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost)
@@ -84,7 +85,7 @@
 - https://emilymstark.com/2020/07/20/certificate-transparency-a-birds-eye-view.html
 - https://github.com/cocaman/russian_root_ca
 
-### Community
+# Community
 
 - https://dev.to/cossacklabs/schneier-on-cryptography-live-interview-4mi7
 - https://github.com/vixentael/my-talks + https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8
@@ -100,12 +101,12 @@
 - http://gustavbertram.com/fun/cryptarithmetic
 - [Angela Robinson, NIST](https://www.ams.org/publicoutreach/mathmoments/mm158-post-quantum-cryptography)
 
-### Demo
+# Demo
 
 - [Store a secret securely in a standalone HTML file](https://github.com/derhuerst/html-vault)
 - [Tell your crush you like them with zero-knowledge](https://github.com/amirgamil/zk-crush)
 
-### Historic
+# Historic
 
 - https://onezero.medium.com/the-untold-story-of-the-man-that-made-mainstream-encryption-possible-231c749d5005
 - https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html
@@ -114,7 +115,7 @@
 - https://www.nytimes.com/2012/11/24/world/europe/code-found-on-pigeon-baffles-british-cryptographers.html
 - https://github.com/sweis/deprecated-crypto-might-not-suck
 
-### Standard
+# Standard
 
 - [Introduction to GPG/PGP](ftp://ftp.gnupg.org/people/neal/an-advanced-introduction-to-gnupg/openpgp/openpgp.pdf) + https://twitter.com/binarymist/status/1148732727371296768
 - https://juliapoo.github.io/misc/2022/09/27/social-engineering-to-solve-a-crypto-challenge.html
@@ -136,7 +137,7 @@
 - https://github.com/soatok/mastodon-e2ee-specification
 - https://blog.sigstore.dev/openpubkey-and-sigstore
 
-### Transport Layer Security (TLS)
+# Transport Layer Security (TLS)
 
 - https://github.com/trimstray/nginx-admins-handbook/blob/master/doc/SSL_TLS_BASICS.md
 - https://github.com/trimstray/the-book-of-secret-knowledge#build-your-own-certificate-authority
@@ -159,7 +160,7 @@
 - [The Illustrated QUIC Connection](https://github.com/syncsynchalt/illustrated-quic)
 - [TLS Workshop Playground](https://gist.github.com/mcastorina/8b2e48945192a53ae28fca3825d14d42)
 
-### Cheat sheet
+# Cheat sheet
 
 - https://github.com/OpenTechFund/CryptoTerminology
 - [Cryptographic Right Answers (gist)](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
@@ -175,7 +176,7 @@
 - [multi party computation resources](https://github.com/rdragos/awesome-mpc)
 - [Homomorphic Encryption libraries, software and resources](https://github.com/jonaschn/awesome-he)
 
-### Practice
+# Practice
 
 - [CryptoHack – A fun platform for learning cryptography](https://cryptohack.org)
 - [Cryptopals on Twitch - Filippo Valsorda](https://m.youtube.com/playlist?list=PLwiyx1dc3P2KoKsYdbZQutKvozOPjDilr)
@@ -184,7 +185,7 @@
 - https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html
 - [Recovering a full PEM Private Key when half of it is redacted](https://blog.cryptohack.org/twitter-secrets)
 
-### Secure Socket Shell (SSH)
+# Secure Socket Shell (SSH)
 
 - [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained)
 - https://community.turgensec.com/ssh-hacking-guide
@@ -200,7 +201,7 @@
 - https://blog.stazot.com/ssh-key-injection-google-cloud
 - [SSH reverse tunnel with ngrok](https://twitter.com/hakluke/status/1642766377541939200)
 
-### Tool
+# Tool
 
 - [ Verifpal - cryptographic protocol analysis tool.](https://twitter.com/bblipp/status/1223289973836861440)
 - [padding-oracle-attacker: modern, parallel implementation in TypeScript](https://github.com/KishanBagaria/padding-oracle-attacker)
@@ -210,12 +211,12 @@
 - https://github.com/Deadlyelder/Tools-for-Cryptanalysis
 - [Real-time, Encrypted Secret Sharing](https://github.com/danielfone/private-passage)
 
-### Opinion
+# Opinion
 
 - https://dkp.ldd.org/2019/09/08/xkcdcrypt.html
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 - [Sha256 is broken](https://twitter.com/alokmenghrajani/status/1544057972120326144)
 
-### Radio
+# Radio
 
 - https://securitycryptographywhatever.buzzsprout.com
