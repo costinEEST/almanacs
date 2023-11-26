@@ -192,6 +192,10 @@
 
 - [Artur Skowronski](https://vived.substack.com/archive)
 
+# Javascript
+
+- [Alex Kotliarskyi](https://us3.campaign-archive.com/home/?u=96d6ac29ef7232f76b9edc7b9&id=79380afc5b)
+
 # Judaism
 
 - [Jewish Studies at Fordham University](https://us13.campaign-archive.com/home/?u=f000ad8783f4985c05ec1a11c&id=df05eee35a)
