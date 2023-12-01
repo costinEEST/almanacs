@@ -1,4 +1,4 @@
-### Cheat sheet
+# Cheat sheet
 
 - https://devtut.github.io/powershell
 - https://diablohorn.com/2016/02/06/powershell-overview-and-introduction
@@ -15,20 +15,21 @@
 - https://github.com/PointTaken/knowledge-sharing/tree/main/PowerShell
 - https://github.com/yzwijsen/chatgpt-powershell
 - https://gabrielsroka.github.io/JavaScript-vs-PowerShell.htm
+- [Run a script every time a file changed](https://hillelwayne.com/tipjar/ps-01)
 
-### Opinion
+# Opinion
 
 - https://helgeklein.com/blog/2014/11/hate-powershell
 - https://code.joejag.com/2020/a-month-with-powershell.html
 
-### Cinema
+# Cinema
 
 - [Porting DeploymentLabs build scripts to PowerShell - Jared Haight](https://m.youtube.com/playlist?list=PLXu5LzFyin-lyIX6KEqmk1fWhc8CQ6wDA) + https://github.com/clong/DetectionLab
 - https://m.youtube.com/playlist?list=PL3NRVyAumvmppdfMFMUzMug9Cn_MtF6ub + https://github.com/I-Am-Jakoby/PowerShell-for-Hackers
 - https://m.youtube.com/playlist?list=PLzKIBgD3ky20006eJjHXvx9MIYM7nzQlp + https://www.pentesteracademy.com/course?id=21
 - [PowerShell for Pentesters | Joe Helle](https://m.youtube.com/playlist?list=PLJQHPJLj_SQatUsJy3O4k-VQlllquDmDr)
 
-### Security
+# Security
 
 - https://github.com/batuhankutluca/Malicious-Powershell-Samples
 - [Checks and hardens your Windows configuration](https://github.com/scipag/HardeningKitty)
