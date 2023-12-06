@@ -300,6 +300,7 @@
 - [Gary Hustwit](https://garyhustwit.substack.com/archive)
 - [aleksliving](https://twid.fyi/archive)
 - [David Airey](https://davidairey.substack.com/archive)
+- [Pixellab: school based in Bucharest where you can learn graphic design, illustration, web development, UX/UI design and 3D](https://us9.campaign-archive.com/home/?u=ed130a842c2d148f6665e487c&id=1e60c1c70f)
 
 # Data visualization
 
@@ -312,10 +313,11 @@
 - [Giuseppe Sollazzo](https://buttondown.email/puntofisso/archive)
 - [Nadieh Bremer](https://us11.campaign-archive.com/home/?u=93770d48b5e782a113e79d58a&id=f97d3c6eec)
 
-# Databases
+# Database
 
 - https://postgresweekly.com/issues
 - [Alex Garcia](https://buttondown.email/alexgarcia/archive)
+- [Brent Ozar](https://github.com/BrentOzar/sqlblogs)
 
 # Geopolitics
 
@@ -521,6 +523,7 @@
 - [Awesome Ruby](https://ruby.libhunt.com/newsletter/archive)
 - [Julián Pinzón Eslava](https://dev.julianpinzon.com/newsletter)
 - [Andy Atkinson: PostgreSQL, Rails, RoR](https://us3.campaign-archive.com/home/?u=e41bf915471ba36d210444e0d&id=d5e090a16c)
+- [Lucian Ghinda](https://newsletter.shortruby.com/archive)
 
 # Rust
 

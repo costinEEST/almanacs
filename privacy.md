@@ -112,6 +112,7 @@
 - [JavaScript code of many commercial bot detectors/fingerprinting services and string deobfuscators for them if applicable](https://github.com/chris124567/commercial-bot-detectors)
 - [Resources around owning your data 100%](https://github.com/0dataapp/awesome-0data)
 - [The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more](https://github.com/skerkour/bloom-legacy)
+- https://basden.xyz/secure-messaging-for-paranoid-realists (Matrix/XMPP)
 
 # Regulation
 

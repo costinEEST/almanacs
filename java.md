@@ -51,7 +51,7 @@
 - https://github.com/Blankj/awesome-java-leetcode
 - https://sookocheff.com/post/java/java-for-the-experienced-beginner
 - https://www.todaysoftmag.ro/article/3890/ghidul-tau-rapid-pentru-arhitectura-aplicatiilor-java
-- [Java Virtual Machine specification](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)
+
 
 # Cinema
 
@@ -201,3 +201,8 @@
 - [Introduction to observability | Test Automation U](https://m.youtube.com/playlist?list=PLsiHUuozEFFoqBhY8iK8v1tpatS_b3B5M)
 - https://github.com/luontola/tdd-tetris-tutorial + https://www.youtube.com/playlist?list=PLSADDT9dzgRCjVvS13ekPr1KwX_JkDQJM
 - [A console-based chat client & server, built using strong TDD throughout. Use it to teach OO and TDD concepts](https://github.com/dirv/java-chat)
+
+# Virtual machine 
+
+- http://binstock.blogspot.com/search/label/JVM
+- [Java Virtual Machine specification](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)

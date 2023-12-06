@@ -252,6 +252,11 @@
 - https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go
 - [A Go-based static site generator that compiles brandur.org](https://github.com/brandur/sorg)
 - https://github.com/ntBre/bwestbro.com
+- https://github.com/marcus-crane/utf9k
+
+# Virtual machine 
+
+- http://binstock.blogspot.com/2021/08/a-whole-new-project-jvm.html + http://binstock.blogspot.com/search/label/jacobin
 
 # Watch
 

@@ -152,6 +152,7 @@
 - [Cubase](https://m.youtube.com/@musictechtuition/playlists?view=1&sort=lad&flow=grid)
 - https://github.com/geokala/music_tutorial
 - [An interactive cycle-of-fourths harmonic visualiser](https://github.com/stephband/harmony-circle)
+- https://utf9k.net/blog/plex-tidal-together
 
 # Song
 

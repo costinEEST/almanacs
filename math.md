@@ -136,6 +136,15 @@
 - https://www.bacondarwin.co.uk/maths + https://nrich.maths.org/frontpage + https://www.amazon.co.uk/The-Elephant-Classroom-Helping-Children/dp/0285638475
 - https://fermatslibrary.com/s/mental-calculation-a-reminiscence-of-the-late-mr-g-p-bidder
 
+# Discrete mathematics
+
+- Boolean algebra
+- Combinatory 
+- Graph theory
+- Formal language theory
+- Mathematical logic 
+- Number theory 
+
 # Mathematician
 
 - [Évariste Galois](https://twitter.com/3blue1brown/status/1245468127061610496) + https://www.damninteresting.com/radical-solutions
@@ -152,6 +161,7 @@
 
 # Miscellaneous
 
+- https://gabrieleromanato.name/discrete-mathematics-and-programming
 - https://github.com/llSourcell/Mathematics_for_Beginners
 - [Rocket Men by Robert Kurson](https://twitter.com/Yaz17657882/status/1206566643142258691)
 - [What We Cannot Know: Explorations at the Edge of Knowledge ](https://www.amazon.com/What-Cannot-Know-Explorations-Knowledge-ebook/dp/B012LWZHWU)
