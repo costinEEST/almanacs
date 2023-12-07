@@ -1,4 +1,4 @@
-### Application
+# Application
 
 - https://github.com/nikitavoloboev/my-mac-os
 - https://github.com/serhii-londar/open-source-mac-os-apps
@@ -16,11 +16,11 @@
 - https://github.com/Correia-jpv/fucking-open-source-mac-os-apps
 - [Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming](https://github.com/waydabber/BetterDisplay)
 
-### Book
+# Book
 
 - https://www.takecontrolbooks.com/shortcuts
 
-### Cheat sheet
+# Cheat sheet
 
 - [I sell my macOS apps in my own store](https://christiantietze.de/fastspring)
 - https://isapplesiliconready.com/for/developer
@@ -40,18 +40,19 @@
 - https://github.com/hsavit1/Awesome-tvOS
 - https://www.eddyvinck.com/blog/how-to-test-apple-pay-for-web
 
-### Community
+# Community
 
 - https://github.com/macshome/The-Wisdom-of-Quinn
 - [macOS/iOS automation](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw)
 
-### Development
+# Development
 
 - https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store
 - https://github.com/mouredev/Apple-Developer-Roadmap
 - https://www.chrisatmachine.com/posts/01-macos-developer-setup
+- https://jjtech.dev/reverse-engineering/imessage-explained
 
-### Hardware
+# Hardware
 
 - https://www.macrumors.com/2020/12/29/apple-researching-keyboards-with-displays-on-keys
 - https://rosenzweig.io/blog/asahi-gpu-part-1.html
@@ -60,14 +61,14 @@
 - https://github.com/hack-different/apple-formats
 - https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon
 
-### Historic
+# Historic
 
 - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 - [Information from the early Apple era](https://vintageapple.org)
 - https://www.patreon.com/posts/episode-105-80893084
 - https://www.lainenooney.com/the-apple-ii-age.html
 
-### Tool
+# Tool
 
 - https://github.com/vendasta/setup-new-computer-script
 - [An extremely opinionated and highly personalized script to set up a new Mac machine, just the way I like it!](https://github.com/nnja/new-computer)
@@ -117,8 +118,9 @@
 - https://saurabhs.org/advanced-macos-commands
 - [BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency](https://github.com/ExistentialAudio/BlackHole)
 - https://radex.io/xcode7-xcode8
+- https://github.com/stars/JJTech0130/lists/apple-api
 
-### Security
+# Security
 
 - https://github.com/hack-different/apple-knowledge
 - [Objective by the Sea](https://m.youtube.com/channel/UCQycc8VDhHuNkZlKSSTDHzw/playlists)

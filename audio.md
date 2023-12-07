@@ -1,11 +1,11 @@
-### Book
+# Book
 
 - https://blog.dpc.dev/digital-signal-processing-steven-w-smith
 - https://electrokits.ro/carti-electronica-c-4/carti-electronica-ro-c-4_5/tanarul-audioamator-p-639.html
 - http://bazavan.ro/2022/02/carti-pentru-autorii-de-podcast
 - https://github.com/amilajack/reading/tree/master/Audio
 
-### Cinema
+# Cinema
 
 - [Sound Design | Aidin Robbins](https://m.youtube.com/playlist?list=PLWPee627x2SbTbBub80dqKxM4pvQxUrx2)
 - https://m.youtube.com/c/TomasGeorge/playlists
@@ -13,23 +13,23 @@
 - [Building Collaborative Music Apps](https://m.youtube.com/watch?v=TCVuLh5Io9A)
 - [Understanding Sound & Speakers](https://m.youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub)
 
-### Community
+# Community
 
 - [sounds of Mexico City’s streets](https://pudding.cool/2022/09/cdmx)
 - [Jack Schaedler](https://github.com/jackschaedler)
 - https://github.com/benthecoder/yt-channels-DS-AI-ML-CS#audio-programming
 
-### Course
+# Course
 
 - https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3
 - [Digital Signal Processing](https://github.com/leafac/cpp-dsp-juce--study-group)
 
-### Development
+# Development
 
 - https://medium.com/programming-for-music/introduction-to-audio-programming-8b9e7ecdeaea
 - [Calculating BPM using Javascript and the Spotify Web API](https://github.com/JMPerez/beats-audio-api)
 
-### Cheat sheet
+# Cheat sheet
 
 - https://divu.in/music-theory-and-generation-13965ba83eb9
 - [Which artist or musician most reliably evokes the numinous for you?](https://twitter.com/michael_nielsen/status/1210777243967901701)
@@ -53,12 +53,12 @@
 - [a program that'd clip out gaps in your audio recording making your conversation free of network latency](https://twitter.com/paul_irish/status/1352483715251757059)
 - https://notepad.onghu.com/2022/bookmarks-resources-for-images-sounds
 
-### Historic
+# Historic
 
 - [An ode to the short but influential life of the audio cassette](https://adjacentpossible.substack.com/p/prescient-obsolescence)
 - [History of Artificial Sound | Technology Connections](https://m.youtube.com/playlist?list=PLv0jwu7G_DFUYPuDoKWCUy33lL9LnMBGX)
 
-### Tool
+# Tool
 
 - [FATpick is the tab player that listens.](https://www.fatpick.com/learn-to-play-guitar)
 - [Turn your browser into an audio recorder](https://blog.sambego.be/turn-your-browser-into-an-audio-recorder/)
@@ -106,8 +106,9 @@
 - [Text-to-speech](https://catid.io/posts/tts) + https://twitter.com/MrCatid/status/1647678353199996929
 - [GUI for a Vocal Remover that uses Deep Neural Networks](https://github.com/Anjok07/ultimatevocalremovergui)
 - [Content-aware fill and trim for music](https://mofi.loud.red)
+- https://www.cameronmacleod.com/blog/how-does-shazam-work
 
-### Security
+# Security
 
 - [SurfingAttack: Interactive Hidden Attack on VoiceAssistants Using Ultrasonic Guided Waves](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24068.pdf)
 - [Keytap2 - acoustic keyboard eavesdropping based on language n-gram frequencies](https://github.com/ggerganov/kbd-audio/discussions/31) + https://youtu.be/q2gxPcPg8IM + https://twitter.com/roman_soft/status/1339580193497870336 + http://int3pids.blogspot.com/2012/05/plaidctf-2012-traitor-200-pts.html

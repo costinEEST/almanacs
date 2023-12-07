@@ -1,4 +1,4 @@
-### Architect
+# Architect
 
 - https://www.facebook.com/liliana.chiaburu
 - [Christopher Alexander](http://www.patternlanguage.com/ca/ca.html) + https://www.goodreads.com/book/show/13690365-the-battle-for-the-life-and-beauty-of-the-earth
@@ -6,11 +6,11 @@
 - https://issuu.com/dictionaruar/docs/dictionar_arhitecti_si_cladiri_ac_u
 - [Bruno Zevi](https://monoskop.org/Bruno_Zevi)
 
-### Applications
+# Applications
 
 - https://blog.archisnapper.com/best-apps-for-architects-2020
 
-### Book
+# Book
 
 - https://www.amazon.com/Battle-Life-Beauty-Earth-World-Systems/dp/0199898073
 - https://www.amazon.com/101-Things-Learned-Architecture-School-ebook/dp/B08S74443T + https://twitter.com/1mehmetaliak/status/1455635310415601671
@@ -33,12 +33,12 @@
 - https://monoskop.org/images/b/b0/Perec_Georges_Species_of_Spaces_and_Other_Pieces.pdf
 - [The History of the Theory of Structures: From Arch Analysis to Computational Mechanics | Karl-Eugen Kurrer](https://www.facebook.com/vostokov/posts/pfbid0QicX7G57KBjDH7ao6XXj6Jy2k7P4oN3RXu9FAiFGqVHqNf1AMfTpPsZZUsRVeKT9l)
 
-### Brochures
+# Brochures
 
 - https://sothebysrealty.ro/catalogs/1
 - [Passipedia - The Passive House Resource](https://passipedia.org/start)
 
-### Cinema
+# Cinema
 
 - https://www.buildingbeauty.org/nature-of-order-lecture-series
 - https://m.youtube.com/user/30by40/playlists
@@ -48,12 +48,12 @@
 - [Ohio State: History of Architecture I with Prof. Jacqueline Gargus | CosmoLearning](https://m.youtube.com/playlist?list=PLaLOVNqqD-2HUsGTv_GQ3opJoPPjdM9S6)
 - [Classical architecture school of Notre Dame](https://m.youtube.com/channel/UCj09bn2SMCjtmOv_xgkbchQ/playlists)
 
-### Course
+# Course
 
 - https://www.edx.org/course/environmental-technologies-in-buildings
 - https://www.scribd.com/document/361185414/Programe-Urbane-Peter-Derer
 
-### Community
+# Community
 
 - https://github.com/nikitavoloboev/knowledge/blob/main/art/architecture.md
 - https://twitter.com/SpaceLiminalBot
@@ -61,14 +61,14 @@
 - https://www.facebook.com/groups/arhitecturatraditionalaromaneasca
 - [Rustic & Traditional Design](https://www.facebook.com/groups/614029902769533)
 
-### Opinion
+# Opinion
 
 - https://www.theguardian.com/environment/2021/aug/27/what-will-our-eco-friendly-homes-of-the-future-look-like
 - https://www.treehugger.com/age-of-the-skyscraper-should-be-over-6832005
 - https://psyche.co/guides/how-to-appreciate-buildings-by-tuning-into-them-more-deeply
 - https://www.bbc.com/future/article/20230207-can-we-design-cities-for-disassembly
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/nikitavoloboev/knowledge/blob/main/art/architecture.md
 - https://architizer.com/blog/inspiration/collections/designs-of-the-decade-best-museums

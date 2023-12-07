@@ -38,6 +38,7 @@
 - https://mateonunez.dev/blog/nextjs-appdir-migration
 - https://github.com/muxinc/reactathon-workshop
 - https://pixelpoint.io/blog/next-image
+- https://www.propelauth.com/post/cookies-in-next-js
 
 # Inspire
 

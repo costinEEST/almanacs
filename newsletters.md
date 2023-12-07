@@ -210,6 +210,7 @@
 - [Josiah Zayner - The ODIN](https://us14.campaign-archive.com/home/?u=cc0fafea28551627b92bbc168&id=fac116480b) + https://amateurgods.substack.com/archive
 - [Razib Khan](https://razib.substack.com/archive)
 - [Cornell Lab of Ornithology](https://us2.campaign-archive.com/home/?u=b35ddb671faf4a16c0ce32406&id=47588b5758)
+- [Genspace NYC](https://us4.campaign-archive.com/home/?u=3734c324839c706a50b52473a&id=29c1eef386)
 
 # Go
 
@@ -307,7 +308,7 @@
 - [Diana MacDonald](https://buttondown.email/didoesdigital/archive)
 - https://alignedleft.com/resources/data-newsletters
 - [Studio Interrobang](https://us18.campaign-archive.com/home/?u=da42de3a9b43f1584f5b0c7d2&id=cb6b0eca26)
-- https://www.data-is-plural.com/archive
+- [Jeremy Singer-Vine](https://www.data-is-plural.com/archive)
 - [Jer Thorp](https://tinyletter.com/blprnt/archive)
 - https://dataelixir.com
 - [Giuseppe Sollazzo](https://buttondown.email/puntofisso/archive)
@@ -437,6 +438,7 @@
 - [Yoga Studies Institute](https://us8.campaign-archive.com/home/?u=e1ee0b874d5f3352ff94f6312&id=47d0dece18)
 - [Nina Teicholz](https://unsettledscience.substack.com/archive)
 - [Be Keto Be happy](https://lacra.blog)
+- [Arthur Firstenberg](https://substack.com/@arthurfirstenberg/posts) + https://cellphonetaskforce.org/newsletters
 
 # NodeJS
 

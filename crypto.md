@@ -1,3 +1,7 @@
+# ADEPT 
+
+- https://jjtech.dev/reverse-engineering/adobe-adept
+
 # Algorithm
 
 - https://backdrifting.net/post/003_diffie_hellman

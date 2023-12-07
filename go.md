@@ -34,6 +34,7 @@
 - https://github.com/chai2010/go-ast-book
 - https://github.com/Apress/Kubernetes-Programming-with-Go-by-Philippe-Martin
 - https://www.manning.com/books/implementing-and-exploiting-cryptography
+- [Microservice Development with Clean Architecture & DDD in Golang](https://functionalbits.gumroad.com/l/bybtu)
 
 # Boot
 
