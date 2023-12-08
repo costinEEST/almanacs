@@ -47,7 +47,7 @@
 - [Dart](dart.md)
 - [Data visualization](dataviz.md)
 - [Databases](db.md)
-- [Deno](deno.md)
+- [DenoJS](deno.md)
 - [Design](design.md)
 - [Draw!](draw.md)
 - [Ecology](eco.md)

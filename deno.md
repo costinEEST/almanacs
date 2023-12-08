@@ -14,6 +14,7 @@
 
 - https://github.com/thorwebdev/thor.bio
 - https://github.com/ry/tinyclouds
+- https://github.com/matklad/matklad.github.io + https://matklad.github.io/2023/11/07/dta-oriented-blogging.html
 
 # Opinion
 
