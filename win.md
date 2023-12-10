@@ -101,6 +101,7 @@
 - https://nelsonslog.wordpress.com/2023/11/02/windows-fan-speed-controls-in-2023
 - [Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files](https://www.ventoy.net/en/doc_start.html)
 - [OCR capture anything on the screen](https://hillelwayne.com/tipjar/windows-01)
+- OneNote's OCR for getting text from images, or using the [Text Extractor PowerToy here: GitHub - microsoft/PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys). The new Snipping Tool has this built in.
 
 
 # notepad.exe

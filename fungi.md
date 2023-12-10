@@ -12,6 +12,7 @@
 - https://en.szegedigombasz.hu/knowhere/mycology-department
 - [Szegedi gombászok](https://www.facebook.com/groups/szegedigombaszok) + https://www.szegedigombasz.hu/tud%C3%A1st%C3%A9r/MT
 - [Gljivarsko društvo Novi Sad](https://www.facebook.com/groups/115205338531605)
+- [The ultimate mushroom resource list](https://docs.google.com/document/d/1aQzhgZ_2bTlug-lDV9xrN9ygS7ywxLnPFUvqn-gICD0)
 
 # Miscellaneous
 

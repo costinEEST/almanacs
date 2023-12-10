@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [Running and maintaining open source projects](https://github.com/bagder/uncurled)
 - https://github.com/gvwilson/buildtogether.tech
@@ -9,7 +9,7 @@
 - http://gustavbertram.com/learning/free_culture
 - [Live Coding: A User's Manual](https://livecodingbook.toplap.org)
 
-### Watch
+# Watch
 
 - [How to Contribute to Open Source (Next.js)](https://twitter.com/leeerob/status/1482519857195274242)
 - [Corporate Open Source Anti-patterns](https://youtu.be/Pm8P4oCIY3g)
@@ -19,8 +19,9 @@
 - https://m.youtube.com/@effaustin/videos
 - [How to write really good docs](https://youtu.be/xi4ClIif6rY)
 - https://github.com/ossf/package-manager-best-practices
+- https://github.com/RSE-Sheffield/software_licensing
 
-### Community
+# Community
 
 - [Follow people getting paid to write effective docs](https://twitter.com/jutanium/status/1645052043655016448)
 - https://github.com/nickdesaulniers/What-Open-Source-Means-To-Me
@@ -50,7 +51,7 @@
 - [Daniel Roesler](https://daylightpirates.org)
 - https://github.com/stars/antonreshetov/lists/oss-alternatives
 
-### Tool
+# Tool
 
 - https://thoughtspile.github.io/2021/11/20/open-source-starter
 - [Curated list of awesome tools for managing open source programs](https://github.com/todogroup/awesome-ospo)
@@ -61,7 +62,7 @@
 - https://github.com/e8johan/virtual-conf-resources
 - [A collection of interesting new networks and tech aiming at decentralisation](https://github.com/redecentralize/alternative-internet)
 
-### Miscellaneous
+# Miscellaneous
 
 - [Things I've learned about writing good READMEs](https://github.com/hackergrrl/art-of-readme)
 - https://www.freecodecamp.org/news/oss-security-best-practices
@@ -82,10 +83,10 @@
 - [RFCs in HTML](https://lowentropy.net/posts/line-length)
 - https://choosealicense.com/no-permission
 
-### Mono repository
+# Mono repository
 
 - https://github.com/stars/kelset/lists/monorepo-related
 
-### Radio
+# Radio
 
 - https://github.com/fossified/podcast

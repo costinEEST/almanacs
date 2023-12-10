@@ -418,6 +418,7 @@
 - [Corina Dima](https://us15.campaign-archive.com/home/?u=53026c57b9dbb2042a1695bc1&id=32d8f9cce8)
 - [Jewish Food Society](https://us14.campaign-archive.com/home/?u=d992c82613c2b142e1c5106f7&id=fe5a0fb602)
 - [Berti Panaiot](https://coffeelicious.substack.com/archive)
+- https://fundis.substack.com/archive + https://fundis.org/resources/email-list
 
 # Health
 
@@ -439,6 +440,10 @@
 - [Nina Teicholz](https://unsettledscience.substack.com/archive)
 - [Be Keto Be happy](https://lacra.blog)
 - [Arthur Firstenberg](https://substack.com/@arthurfirstenberg/posts) + https://cellphonetaskforce.org/newsletters
+
+# Linux OS
+
+- [Nelson Minar](https://nelsonslog.wordpress.com/feed)
 
 # NodeJS
 
@@ -474,7 +479,6 @@
 # Tool
 
 - https://vimtricks.substack.com/archive
-- [Sami Laiho](https://us7.campaign-archive.com/home/?u=e13c84c9564fa4b2cb6afcb15&id=318e3d92bc)
 - [Sacha Chua](https://sachachua.com/blog/category/emacs)
 
 # Math
@@ -567,3 +571,7 @@
 - [Dorin Bofan](https://www.aertare.ro/archive)
 - [Anna Levina](https://us17.campaign-archive.com/home/?u=64bb705f04cb50a8e46684856&id=839056e049)
 - [All Points North: Together Virtually (Ex Heygo guides)](https://us10.campaign-archive.com/home/?u=5d437d36d60f77d9fb59bcdf4&id=3f83bdb637)
+
+# Windows OS
+
+- [Sami Laiho](https://us7.campaign-archive.com/home/?u=e13c84c9564fa4b2cb6afcb15&id=318e3d92bc)

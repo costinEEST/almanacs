@@ -219,6 +219,7 @@
 - [Turn your keyboard into a typewriter](https://github.com/orhun/daktilo)
 - [Subcommand to show result of macro expansion](https://github.com/dtolnay/cargo-expand)
 - [Generate a fully working C or C++ header file. Only a small TOML file is needed](https://github.com/mozilla/cbindgen)
+- https://github.com/karimould/awesome-js-tooling-in-rust
 
 # Opinion
 
