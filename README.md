@@ -24,6 +24,7 @@
 - [Biology](biology.md)
 - [Blender](blender.md)
 - [Botany](botany.md)
+- [BrainFuck](brainfuck.md)
 - [BunJS](bun.md)
 - [Burp Suite](burp.md)
 - [Business](business.md)

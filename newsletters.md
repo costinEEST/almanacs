@@ -538,6 +538,11 @@
 - https://rust.libhunt.com/newsletter/archive
 - [This Month in Rust GameDev](https://gamedev.rs/rss.xml)
 - [Bob Peters](https://rust-trends.com/newsletter)
+- [](https://www.possiblerust.com/feed.xml)
+- [Andre Bogus](https://llogiq.github.io/feed.xml)
+- [Ralf Jung](https://www.ralfj.de/blog/feed.xml)
+- [Michael Bryan](https://adventures.michaelfbryan.com/posts)
+- [Orhun Parmaksız](https://blog.orhun.dev/rss.xml)
 
 # Politics
 

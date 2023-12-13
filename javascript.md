@@ -514,6 +514,7 @@
 - [Empty character class in JavaScript RegExp](https://www.abareplace.com/blog/emptybrackets)
 - https://regexgpt.app
 - https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers
+- [Linear Matching of JavaScript Regular Expressions](https://arxiv.org/abs/2311.17620)
 
 # Practice
 

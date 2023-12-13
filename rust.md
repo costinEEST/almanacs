@@ -73,6 +73,7 @@
 - https://twitter.com/i/communities/1690081308238561437
 - https://github.com/dasifefe/rust-game-development-frameworks
 - [Laurence Tratt](https://tratt.net/laurie/src)
+- [Rust Taiwan](https://github.com/rust-tw/meetup)
 
 # Course
 
@@ -95,6 +96,10 @@
 # Compiler
 
 - https://github.com/arzg/eldiro
+
+# Deploy
+
+- https://blog.orhun.dev/automated-rust-releases
 
 # Debugging
 

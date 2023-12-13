@@ -30,6 +30,7 @@
 - https://github.com/tbsschroeder/clojure-webshop-app
 - https://github.com/leahneukirchen/adventofcode2021
 - https://github.com/yyna/advent-of-code
+- https://github.com/tschady/advent-of-code
 
 # Radio
 
