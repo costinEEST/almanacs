@@ -1,21 +1,21 @@
-### Book
+# Book
 
 - https://www.i-programmer.info/bookreviews/143-security/15036-practical-iot-hacking-no-starch-press.html
 - http://book.roomofthings.com/book
 - https://pragprog.com/titles/mrpython/portable-python-projects
 
-### Course
+# Course
 
 - [Internet of Things: Foundations and Applications (2015)](http://dret.net/lectures/iot-spring15)
 - https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems
 - https://github.com/Developer-Y/cs-video-courses#embedded-systems
 - https://github.com/microsoft/IoT-For-Beginners
 
-### Community
+# Community
 
 - https://authors.packtpub.com/interview-with-jean-georges-valle
 
-### Arduino
+# Arduino
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUe2-bhkgFCCKwCyx_ZBzCcp
 - http://sandsoftwaresound.net/arduino
@@ -39,18 +39,18 @@
 - https://www.viorelspinu.com/2022/04/i-wrote-book-about-using-arduino.html
 - https://www.udemy.com/course/c-programming-101-for-aspiring-embedded-developers
 
-### CLP5010
+# CLP5010
 
 - https://whistlr.info/2021/smart-switches + https://gist.github.com/samthor/42f41372dfeb942b0e419e238d72f752
 
-### ESP32
+# ESP32
 
 - [Cloud Home Automation Series](https://twitter.com/binitamshah/status/1229349993829498882)
 - https://hackaday.com/2021/02/08/hands-on-the-risc-v-esp32-c3-will-be-your-new-esp8266
 - https://savjee.be/2021/10/i-built-a-co2-sensor-and-it-terrifies-me
 - [Driver for the SSD1306 and SH1106 based 128x64, 128x32, 64x48 pixel OLED display running on ESP8266/ESP32](https://github.com/ThingPulse/esp8266-oled-ssd1306)
 
-### ESP8266
+# ESP8266
 
 - [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
 - [ESP8266 Home Automation Projects](https://learning.oreilly.com/library/view/esp8266-home-automation/9781787282629) + https://myesp8266.blogspot.com/2018/09/esp8266-home-automation-projects-errata.html
@@ -60,11 +60,11 @@
 - [Making a Wi-Fi RC Car from Scratch with ESP8266 NodeMCU and iOS 12 | Jeffrey App](https://m.youtube.com/playlist?list=PLMlO1PGnzRobxbGv-iWVTJ4w_BBgU7MR8)
 - https://cri.dev/posts/2020-09-03-DIY-IoT-door-monitor-with-ESP8266
 
-### Espruino
+# Espruino
 
 - https://m.youtube.com/user/Espruino/playlists
 
-### RaspberryPI
+# RaspberryPI
 
 - https://hackclub.com/workshops/choose_your_pi
 - http://sandsoftwaresound.net/raspberry-pi
@@ -96,15 +96,15 @@
 - [A Pi Pico script for collecting CPU temperature reading in Supabase using a Deno function](https://github.com/TomasHubelbauer/pi-pico-rest-cpu-temp) + https://twitter.com/TomasHubelbauer/status/1573064575305539585
 - [Raspberry Pi + High Quality Camera = High-quality USB Webcam](https://github.com/showmewebcam/showmewebcam)
 
-### Smartwatch
+# Smartwatch
 
 - https://medium.com/@sayliambure/hacking-a-5-smartband-824763ab6e8f
 
-### Firmware
+# Firmware
 
 - https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks
 
-### Security
+# Security
 
 - https://github.com/V33RU/IoTSecurity101
 - https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle2
@@ -118,7 +118,11 @@
 - https://rbaron.net/blog/2018/05/27/Hacking-a-cheap-fitness-tracker-bracelet.html
 - [How to pentest an IOT device in your home network](https://grahamhelton.com/blog/lovebox)
 
-### Miscellaneous
+# Sensor
+
+- https://igor.moomers.org/posts/minimal-viable-air-quality
+
+# Miscellaneous
 
 - https://japaniot.github.io/2020/01/01/how-i-automate-my-home-en
 - [Rhasspy (pronounced RAH-SPEE) is an open source, fully offline voice assistant toolkit for many languages that works well with Home Assistant, Hass.io, and Node-RED.](https://rhasspy.readthedocs.io/en/latest/)

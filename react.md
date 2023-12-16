@@ -261,6 +261,7 @@
 - https://julesblom.com/writing/component-displayname
 - https://jordaneldredge.com/blog/defaulting-to-empty-string-is-a-code-smell
 - https://refine.dev/blog/react-memo-guide
+- [Polymorphism in React: the "as"- and "asChild"-patterns](https://www.bekk.christmas/post/2023/01/polymorphism-in-react)
 
 #  Concurrent Mode/Suspense
 

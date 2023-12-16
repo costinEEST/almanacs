@@ -39,6 +39,8 @@
 - https://github.com/muxinc/reactathon-workshop
 - https://pixelpoint.io/blog/next-image
 - https://www.propelauth.com/post/cookies-in-next-js
+- https://mikebifulco.com/posts/self-healing-urls-nextjs-seo
+- https://www.builder.io/blog/nextjs-14-layouts-templates
 
 # Inspire
 
@@ -69,6 +71,7 @@
 - https://github.com/nbean452/portfolio
 - https://github.com/axeldelafosse/axeldelafosse
 - https://github.com/Scrump31/scottiecrump.com
+- https://github.com/igor47/blog
 
 # Deploy
 

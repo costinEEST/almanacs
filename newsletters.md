@@ -106,6 +106,7 @@
 - [Shubham Saboo](https://unwindai.substack.com/archive)
 - [Alex Volkov](https://thursdai.substack.com/archive)
 - [Bakz T. Future](https://bakztfuture.substack.com/archive)
+- [WatSPEED at the University of Waterloo](https://us1.campaign-archive.com/home/?u=a4e41978223f65e337a68e25f&id=8e68d761f4)
 
 # Book
 
@@ -444,6 +445,7 @@
 # Linux OS
 
 - [Nelson Minar](https://nelsonslog.wordpress.com/feed)
+- https://ubuntusecuritypodcast.org/episode/index.xml
 
 # NodeJS
 

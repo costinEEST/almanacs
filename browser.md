@@ -691,6 +691,10 @@ javascript: (() =>
 - https://dev.to/noamr/when-a-millisecond-is-not-a-millisecond-3h6
 - https://web.dev/shopping-for-speed-on-ebay
 - https://www.jovidecroock.com/blog/browser-timings
+- Interaction to Next Paint (INP)
+  - https://www.speedcurve.com/blog/INP-user-experience-correlation
+- First Input Delay (FID)
+  - 
 
 # Miscellaneous
 

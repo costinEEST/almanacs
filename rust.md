@@ -100,6 +100,7 @@
 # Deploy
 
 - https://blog.orhun.dev/automated-rust-releases
+- https://igor.moomers.org/posts/self-hosted-link-shortener
 
 # Debugging
 

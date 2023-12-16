@@ -93,6 +93,7 @@
 - [Audible feedback on just how much your browsing feeds into Google](https://github.com/berthubert/googerteller)
 - [Fast and beautiful note-taking app](https://github.com/nuttyartist/notes)
 - [A modern Hex Editor written in C++23](https://github.com/WerWolv/ImHex)
+- [Light-weight system monitor for X, Wayland, and other things, too](https://github.com/brndnmtthws/conky)
 
 # Implementation
 
