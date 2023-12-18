@@ -283,7 +283,7 @@
 
 # Security
 
-- [HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors](https://html5sec.org)
+- [HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors](https://github.com/cure53/H5SC)
 - https://research.securitum.com/marginwidth-marginheight-the-unexpected-cross-origin-communication-channel
 - https://blog.bhanuteja.dev/noopener-noreferrer-and-nofollow-when-to-use-them-how-can-these-prevent-phishing-attacks-ckdzyjvqa0057des1hyyo3sfy
 - [mailto:?attach](https://mobile.twitter.com/jensvoid/status/1295357952480751616)

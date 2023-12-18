@@ -49,6 +49,7 @@
 - https://github.com/deck-of-cards/deck-of-cards
 - https://github.com/SaraVieira/lets-play-retro-games
 - https://github.com/kheeyaa/Snack-Games
+- https://github.com/stars/bennycode/lists/html5-games
 
 # Mobile based
 

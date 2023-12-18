@@ -47,6 +47,7 @@
 - [GitHub Desktop is written in TypeScript and uses React](https://github.com/desktop/desktop)
 - [A must-have devtool for web developers for quicker responsive web development](https://github.com/responsively-org/responsively-app)
 - https://github.com/Figma-Linux/figma-linux
+- [Cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.](https://github.com/Kong/insomnia)
 
 # Boilerplate
 
