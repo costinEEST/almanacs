@@ -143,6 +143,7 @@
 - [Romanian Science Digest](https://us20.campaign-archive.com/home/?u=d3ad9d295be41a9bc1cbeeb73&id=f0d9b7c9cf)
 - [Joshua Tiernan](https://tinyempires.substack.com/archive)
 - [Teodora Chinde: pentru antreprenori și experți în marketing, social media și branding](https://substack.com/@techtonikanewsletter)
+- [CreativeMornings Bucharest](https://us13.campaign-archive.com/home/?u=3d6e931050353807b7396f503&id=1d5df12e44)
 
 # Marketing
 
@@ -532,6 +533,8 @@
 - [Julián Pinzón Eslava](https://dev.julianpinzon.com/newsletter)
 - [Andy Atkinson: PostgreSQL, Rails, RoR](https://us3.campaign-archive.com/home/?u=e41bf915471ba36d210444e0d&id=d5e090a16c)
 - [Lucian Ghinda](https://newsletter.shortruby.com/archive)
+- [David Bryant Copeland](https://buttondown.email/davetron5000/archive)
+
 
 # Rust
 
