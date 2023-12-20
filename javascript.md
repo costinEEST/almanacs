@@ -669,6 +669,7 @@
 - [scans your entire site using Google Lighthouse](https://github.com/harlan-zw/unlighthouse)
 - https://github.com/thisdavej/copy-excel-paste-markdown
 - https://www.oddbird.net/2022/11/30/headed-playwright-in-docker
+- [Decodes complex FormData into a JavaScript object](https://github.com/fabian-hiller/decode-formdata)
 
 # Documentation
 

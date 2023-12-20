@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/) + [What are must-know concepts for back end development?](https://news.ycombinator.com/item?id=18961793)
@@ -26,7 +26,7 @@
 - [Databases and Data Management by Pragmatic](https://www.humblebundle.com/downloads?key=vsdwaHwT8uWxPHmd)
 - https://www.amazon.com/SQL-Data-Scientists-Beginners-Building/dp/1119669367
 
-### Course
+# Course
 
 - https://news.ycombinator.com/item?id=23070491
 - https://www.udemy.com/course/database-engines-crash-course
@@ -43,11 +43,11 @@
 
 - https://note.xuanwo.io/#/page/database
 
-### Community
+# Community
 
 - https://github.com/stars/timqian/lists/decentralized-database
 
-### Tool
+# Tool
 
 - https://github.com/stars/timqian/lists/db-client
 - https://sqlime.org + https://github.com/nalgeon/sqlime + https://twitter.com/ohmypy/status/1441389585129377798
@@ -79,8 +79,9 @@
 - [If you work with SQL Server, dbatools is a lifesaver](https://www.manning.com/books/learn-dbatools-in-a-month-of-lunches)
 - [query engine, which can be used to query any data source or combination of data sources: databases, APIs, raw files (JSON, CSV, etc.), git version control, etc](https://news.ycombinator.com/item?id=34705246) + https://github.com/obi1kenobi/trustfall + https://www.hytradboi.com/2022/how-to-query-almost-everything
 - Generate an ER Diagram based on your Prisma schema: https://github.com/keonik/prisma-erd-generator + https://github.com/Skn0tt/prisma-erd
+- [A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Trino, Presto, SAP HANA, Cassandra, Google BigQuery, SQLite, TiDB and many more via ODBC](https://github.com/sqlpad/sqlpad) + https://getsqlpad.com/en/introduction/#alternatives
 
-### Security
+# Security
 
 - Tunneling traffic through MySQL service (or your mysqld is my new SOCKS5): [tweet](https://twitter.com/TheXC3LL/status/1203432035353845760) + [blog post](https://x-c3ll.github.io/posts/Pivoting-MySQL-Proxy/)
 - [Exploiting misconfigured firebase databases](https://github.com/Turr0n/firebase) + http://ghostlulz.com/google-exposed-firebase-database
@@ -93,7 +94,7 @@
 - https://github.com/securebinary/firebaseExploiter
 - https://sqlfordevs.com/uuid-prevent-enumeration-attack
 
-### Cinema
+# Cinema
 
 - [Algorithms behind Modern Storage Systems.](https://www.infoq.com/presentations/storage-algorithms)
 - [ CMU Database Group](https://m.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)
@@ -103,7 +104,7 @@
 - https://github.com/mitchellh/advent-2021-sql + https://m.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd
 - [SQL Injection Master Class | Derek Rook](https://m.youtube.com/playlist?list=PLvcAtRF10zYXYkZrIXUdSVOKgByEK_5Ve) + https://gitlab.com/r00k/sql_for_hackers
 
-### Distributed system
+# Distributed system
 
 - [Distributed systems for fun and profit | Mikito Takada](https://mijailovic.net/2017/07/03/books-2017-q2)
 - [Programming Models for Distributed Computation](https://github.com/heathermiller/dist-prog-book)
@@ -118,15 +119,15 @@
 - [DriftDB – an open source WebSocket backend for real-time apps](https://news.ycombinator.com/item?id=34639728) + https://m.youtube.com/@driftinginspace9054/videos
 - [Programming Models for Distributed Computing](https://heather.miller.am/teaching/cs7680) + https://github.com/heathermiller/dist-prog-book
 
-### MySQL
+# MySQL
 
 - https://github.com/nelhage/blog.nelhage.com/blob/master/content/post/some-opinionated-sql-takes.md
 
-### Radio
+# Radio
 
 - [Why SQLite succeeded as a database.](https://changelog.com/podcast/201)
 
-### NoSQL
+# NoSQL
 
 - https://github.com/riyazwalikar/injection-attacks-nosql-talk
 - [A Primer on the DynamoDB NoSQL database.](https://www.dynamodbguide.com)
@@ -137,7 +138,7 @@
 - https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial
 - https://github.com/riyazwalikar/injection-attacks-nosql-talk
 
-### Relational databases
+# Relational databases
 
 - [Postgres is the perfect database.](https://twitter.com/Swizec/status/1232376212195966976)
 - http://postgresguide.com
@@ -162,17 +163,17 @@
 - [Query the StackOverflow data to get an insight into what people are asking about](https://data.stackexchange.com/stackoverflow/query/1627436)
 - https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL%20%E7%BB%83%E4%B9%A0.md
 
-### Real-time databases
+# Real-time databases
 
 - [SapphireDb. An alternative to Firebase](https://sapphire-db.com/start/main)
 - [A lightweight cloud firestore library for the browser.](https://github.com/samuelgozi/firebase-firestore-lite)
 - [You've got 100k requests/minute coming in, that need to return immediately, and you need to put a record in a database for every one.](https://twitter.com/erikras/status/1246710418191646720)
 
-### Salesforce Object Query Language (SOQL)
+# Salesforce Object Query Language (SOQL)
 
 - https://blog.jeffdouglas.com/2010/02/22/soql-how-i-query-with-thee-let-me-count-the-ways
 
-### SQLite
+# SQLite
 
 - https://fly.io/blog/sqlite-internals-rollback-journal
 - [Turning SQLite into a distributed database](https://univalence.me/posts/mvsqlite)
@@ -200,32 +201,32 @@
 - [proposal: should node expose a persistent KV API](https://github.com/nodejs/node/issues/49663)
 - [SQLite database manager written in C++, with use of Qt framework](https://github.com/pawelsalawa/sqlitestudio)
 
-### Graph databases
+# Graph databases
 
 - https://www.arangodb.com/learn/first-day/udemy
 - https://github.com/neo4j-contrib/rabbithole
 - [A Graph-Based Firebase](https://stopa.io/post/296)
 - [Oxigraph is a graph database implementing the SPARQL standard](https://github.com/oxigraph/oxigraph)
 
-### In memory databases
+# In memory databases
 
 - [What is easy to do with Redis?](https://twitter.com/mattkrick/status/1245037667034624000)
 - https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis
 - [Carrier Cache and Carrier DB](https://matt.sh/best-database-ever)
 
-### Key-value databases
+# Key-value databases
 
 - [Need a lightweight DB for a toy node project I'm working on. I always reach for DiskDB](https://twitter.com/wesbos/status/1232680811964649472)
 - [Simple key-value storage with support for multiple backends](https://github.com/jaredwray/keyv)
 - https://antimatter15.com/2015/12/recovering-deleted-data-from-leveldb
 
-### Demos
+# Demos
 
 - [Anyone tried Gun.js? Thoughts?](https://twitter.com/dabit3/status/1221949512878624768)
 - [EdgeDB is looking clean.](https://twitter.com/rauchg/status/1221985754059964416)
 - [An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB](https://github.com/pubkey/client-side-databases)
 
-### Miscellaneous
+# Miscellaneous
 
 - [Database of Databases](https://dbdb.io/) + https://news.ycombinator.com/item?id=24494403
 - [What are some examples of good database schema designs?](https://news.ycombinator.com/item?id=22324691)
@@ -260,24 +261,24 @@
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/huachaohuang/awesome-dbdev
 
-### PostgreSQL
+# PostgreSQL
 
 - https://www.crunchydata.com/blog/learn-postgres-at-the-playground
 - [The past, present, and future of Postgres, and the Postgres Playground](https://huffduffer.com/cemerick/647557)
 - [Advent of Code 2021](https://m.youtube.com/playlist?list=PL4z1WbdlT5GJqdGnuvoqw4dOdB2etJ6sd)
 - https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative + https://github.com/guillaumeduhan/supabase-vue3
 
-### Production
+# Production
 
 - https://edge-data-latency.vercel.app
 - [11 _million_ QPS through our MySQL stack at Shopify](https://twitter.com/jeremycole/status/1466560904976236545)
 - [SQL 1.5 TB RAM was more effective than caching page fragments with Redis](https://twitter.com/alexcwatt/status/1544876135711916035)
 
-### Time series databases
+# Time series databases
 
 - [The Complete Guide to InfluxDB 2 | Rawkode Academy](https://m.youtube.com/playlist?list=PLz0t90fOInA5esYz9ytWzX89HT5NvLkxc)
 
-### Opinion
+# Opinion
 
 - https://tomcritchlow.com/2023/01/27/small-databases
 - https://gimenete.net/articles/choosing-serverless-database-for-serverless-app
