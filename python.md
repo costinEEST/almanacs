@@ -292,6 +292,7 @@
 - https://github.com/dreikanter/public-static
 - https://github.com/nichochar/blog
 - https://github.com/notexactlyawe/cameronmacleod.com
+- https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites + https://github.com/alin23/alinpanaitiu.com + https://twitter.com/alinp32/status/1690013475995586561
 
 # Security
 

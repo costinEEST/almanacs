@@ -38,6 +38,10 @@
 
 - [`text/markdown`](/markdown.md)
 
+# .mobi 
+
+- https://alinpanaitiu.com/stuff/#romanian-dictionary-for-kindle
+
 # .pdf
 
 - https://speakerdeck.com/ange/lets-write-a-pdf-file

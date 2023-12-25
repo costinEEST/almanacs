@@ -73,6 +73,7 @@
 - https://www.meteoromania.ro/radarm/radar.index.php
 - https://usefulcharts.com/products/maps-of-the-roman-empire
 - https://bigthink.com/strange-maps/omnesviae-roman-roads-map
+- https://notes.alinpanaitiu.com/Fetching-land-coordinates-from-Romania's-Geoportal
 
 ### Radio
 

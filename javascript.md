@@ -212,7 +212,7 @@
 
 - https://github.com/dorey/JavaScript-Equality-Table + [why you should prefer the `===` operator](https://github.com/slikts/js-equality-game)
 
-# BigInt
+# `BigInt`
 
 - https://github.com/juanelas/bigint-crypto-utils
 - [BigInt supports bitwise operations](https://m.webtoo.ls/@lukastaegert/109882130362687971)
@@ -221,13 +221,14 @@
 
 - https://dfkaye.com/posts/2021/06/02/javascripts-eval-and-function-constructor
 
-# in
+# `in`
 
 - https://twitter.com/kdy1dev/status/1524667421113548801
 
 # `void`
 
 - [A case for using void in modern JavaScript](https://gist.github.com/slikts/dee3702357765dda3d484d8888d3029e)
+- https://www.matheusrich.com/til-javascripts-void-operator
 
 # `null`
 

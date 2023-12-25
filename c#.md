@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://vladris.com/blog/2020/12/29/recommendations.html
 - [The Little ASP.NET Core Book, a friendly introduction to web programming and ASP.NET Core 2.0](https://github.com/nbarbettini/little-aspnetcore-book)
@@ -11,33 +11,33 @@
 - [How to Think Like a Computer Scientist: Python-3 and C# versions](https://github.com/cspwcspw/books)
 - [The C# Type System | Steve Love](https://nostarch.com/c-type-system)
 
-### Cheat sheet
+# Cheat sheet
 
 - https://devtut.github.io/csharp
 - https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 - https://github.com/nemanjarogic/DesignPatternsLibrary
 
-### Community
+# Community
 
 - [Daniel Duggan](https://www.patreon.com/_RastaMouse)
 - [James Montemagno](https://m.youtube.com/c/JamesMontemagno/playlists)
 - https://www.linkedin.com/posts/milan-jovanovic_here-are-three-books-that-made-me-a-better-activity-7020297617767071744-Z9TN
 
-### Demo
+# Demo
 
 - [ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more](https://github.com/microsoft/dotnet-podcasts)
 
-### Historic
+# Historic
 
 - https://nodogmapodcast.bryanhogan.net/169-mads-torgersen-c-11-part-2-listener-questions + https://twitter.com/ploeh/status/1605894663914782723
 
-### Practice
+# Practice
 
 - https://github.com/Necula-Horatiu/How-you-type
 - https://github.com/martijnboland/LeanAspNetCore-React
 - https://github.com/wesdoyle/design-patterns-explained-with-food + https://m.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x
 
-### Tool
+# Tool
 
 - https://knifecoat.com/Tools/CSharp
 - [YoutubeExplode is a library that provides an interface to query metadata of YouTube videos, playlists and channels, as well as to resolve and download video streams and closed caption tracks](https://github.com/Tyrrrz/YoutubeExplode) + https://tyrrrz.me/blog/reverse-engineering-youtube-revisited + https://news.ycombinator.com/item?id=34653813
@@ -49,11 +49,11 @@
 - [An ethical bridge from Twitter](https://github.com/NicolasConstant/BirdsiteLive)
 - [OAuth 2.0 and OpenID Connect debugging tool](https://github.com/nbarbettini/oidc-debugger)
 
-### Scrapping
+# Scrapping
 
 - https://github.com/spazbg/HackerOne-Twitter-accounts-scraper
 
-### Security
+# Security
 
 - https://github.com/defuse/password-hashing
 - https://www.cyberark.com/threat-research-blog/thick-client-penetration-testing-methodology
@@ -61,19 +61,19 @@
 - https://parsiya.io/random/links/#net
 - https://danaepp.com/hacking-a-net-api-in-the-real-world
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/futurice/windows-app-development-best-practices
 - [Coding Guidelines for C#](https://github.com/justinamiller/Coding-Standards)
 - https://github.com/justinamiller/DotNet-Coding-Guidelines
 - https://codeinsecurity.wordpress.com/2018/02/03/adventures-in-net-references
 
-### Opinion
+# Opinion
 
 - https://www.chestiiautomate.ro/2021/09/12/functionalitati-din-c-pe-care-as-vrea-sa-le-am-in-java
 - https://devforum.ro/t/7-reasons-for-startups-to-choose-asp-net-over-node-js/18419/5
 
-### Watch
+# Watch
 
 - Writing parsers in C#: [video](https://m.youtube.com/watch?v=_yz1DRNpmPo) + [slides](https://www.slideshare.net/AlexeyGolub/alexey-golub-writing-parsers-in-c-3shape-meetup)
 - https://nuculabs.dev/2021/11/24/github-copilot-with-blazor
@@ -85,3 +85,4 @@
 - https://m.youtube.com/@GregorBiswanger/playlists
 - https://www.freecodecamp.org/news/learn-advanced-c-concepts
 - https://youtu.be/u_Y2eEEdMww + https://github.com/Priyanshu-CODERX/learn-augmented-reality-by-developing-practical-applications + https://app.gumroad.com/d/2dc4c223cc686987509a81cde1a279fb
+- [Recreated the project from Wes Doyle's Udemy course using ASP.Net Core MVC with Razor Pages](https://github.com/vishavish/Product-Management-System)
