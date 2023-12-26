@@ -34,3 +34,4 @@
 - [Markdown syntax for timelines](https://github.com/mark-when/markwhen)
 - https://github.com/prashanth1k/pandoc-ebook-template-windows
 - https://github.com/stars/o-az/lists/markdown
+- https://github.com/yandeu/md-to-book

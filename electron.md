@@ -48,6 +48,8 @@
 - [A must-have devtool for web developers for quicker responsive web development](https://github.com/responsively-org/responsively-app)
 - https://github.com/Figma-Linux/figma-linux
 - [Cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.](https://github.com/Kong/insomnia)
+- [A media player designed speficially for all your audio book needs](https://github.com/teken/audiobookplayer)
+
 
 # Boilerplate
 

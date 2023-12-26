@@ -38,6 +38,10 @@
 - [Alex Doppelgänger](https://alexdoppelganger.substack.com/archive)
 - [Știri din lumea PlayStation](https://psplayro.substack.com/archive)
 
+# Journalist
+
+- [Scott Carney](https://sgcarney.substack.com/archive)
+
 # Tips
 
 - [feeds/videos.xml?channel_id={{CHANNEL_ID}}](https://twitter.com/pawelgrzybek/status/1240249320336695296)

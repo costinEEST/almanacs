@@ -108,6 +108,7 @@
 - https://nelsonslog.wordpress.com/2022/12/19/zstandard-as-gzip-replacement-for-files
 - [tools for removing DRM from ebooks](https://github.com/noDRM/DeDRM_tools)
 - [compare Internet-Drafts and RFCs](https://author-tools.ietf.org/iddiff)
+- [Gatsby-based project that provides a comprehensive database and resources related to various MIME types](https://github.com/patrickmccallum/mimetype-io)
 
 # Security
 

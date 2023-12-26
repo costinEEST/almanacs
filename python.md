@@ -418,6 +418,7 @@
 - https://github.com/ricardorodrigues-ca/zoom-recording-downloader
 - [Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys](https://github.com/christophetd/CloudFlair)
 - [Automatically deleting your tweets (and favourites) after some specified amount of time](https://github.com/brndnmtthws/tweet-delete)
+- https://patsnacks.com/articles/automatically-clean-your-downloads
 
 # Testing
 

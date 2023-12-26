@@ -563,6 +563,7 @@
 - [Generate HTML emails from your RSS feeds](https://github.com/rsslove/rss-to-email)
 - [Character encoding detection tool](https://github.com/runk/node-chardet)
 - https://github.com/leebyron/til
+- [Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats](https://github.com/Borewit/music-metadata)
 
 # `node:test`
 
