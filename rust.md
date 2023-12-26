@@ -74,6 +74,7 @@
 - https://github.com/dasifefe/rust-game-development-frameworks
 - [Laurence Tratt](https://tratt.net/laurie/src)
 - [Rust Taiwan](https://github.com/rust-tw/meetup)
+- [Herman Radtke](https://hermanradtke.com/links)
 
 # Course
 

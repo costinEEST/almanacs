@@ -513,3 +513,4 @@
 - https://blog.yossarian.net/2015/05/08/The-Death-of-IRC
 - https://www.n00py.io/2019/06/understanding-unc-paths-smb-and-webdav
 - https://blog.kanbach.org/post/firewalls-under-the-hood-ufw
+- https://www.jdno.dev/designing-a-new-home-server

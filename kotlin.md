@@ -1,29 +1,29 @@
-### Application
+# Application
 
 - [App for learning about and managing digital and physical security](https://github.com/securityfirst/Umbrella_android)
 - [Popular Android messaging app for VoIP.ms, a Canadian VoIP provider](https://github.com/michaelkourlas/voipms-sms-client)
 - https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions
 
-### Book
+# Book
 
 - https://www.raywenderlich.com/books/kotlin-apprentice
 - https://github.com/andygrove/how-query-engines-work
 - https://pragprog.com/titles/uboop/from-objects-to-functions
 - https://leanpub.com/how-query-engines-work + https://andygrove.io/2020/02/how-query-engines-work + https://howqueryengineswork.com + https://news.ycombinator.com/item?id=37415494 + https://leanpub.com/podcasts/frontmatter/andy-grove-17-02-21
 
-### Cinema
+# Cinema
 
 - [Kotlin, a language to rule DSLs by Tiberiu Tofan](https://github.com/tibtof/kotlin-to-rule-dsls)
 - https://m.youtube.com/playlist?list=PLFW6ct83_wC8_wAM8KH-dRyXigw7mqeHw
 - https://www.freecodecamp.org/news/create-an-android-app
 - https://github.com/Kotlin-FOSDEM/speaker-recording-guide
 
-### Cheat sheet
+# Cheat sheet
 
 - https://github.com/MindorksOpenSource/from-java-to-kotlin
 - [build command-line tools in Kotlin Multiplatform](https://github.com/jmfayard/kotlin-cli-starter)
 
-### Demo
+# Demo
 
 - https://github.com/tipsy/profile-summary-for-github
 - https://benwiser.com/blog/My-blog-is-now-generated-by-Google-Docs.html
@@ -31,16 +31,17 @@
 - https://github.com/anitab-org/mentorship-android
 - [Workaround to avoid Medium paywall on your Android device](https://github.com/a-chris/medium-no-thanks)
 
-### Development
+# Development
 
 - https://shyr.io/talks/deploying-with-kubernetes + https://github.com/sheharyarn/io19-k8s-kotlin-app
+- https://github.com/dnutiu/aoc-2023
 
-### Practice
+# Practice
 
 - https://hyperskill.org/onboarding/?track=kotlin
 - https://github.com/cortinico/adventofcode-2021
 - [Migrate a Java Spring boot app to Kotlin](https://github.com/mathieumure/handson-springboot-to-kotlin)
 
-### Security
+# Security
 
 - https://github.com/optiv/InsecureShop

@@ -174,7 +174,7 @@
 
 # Computer networks
 
-- https://systemsapproach.substack.com/archive
+- [Larry Peterson and Bruce Davie](https://systemsapproach.substack.com/archive)
 
 # Cloud
 
@@ -379,7 +379,7 @@
 - [Future of Coding Weekly](https://tinyletter.com/marianoguerra/archive)
 - [Matt Frisbie](https://mattfrisbie.substack.com/archive)
 - [Rachel Andrew](https://csslayout.news/archive)
-- [Denis Nuțiu](https://nuculabs.dev/archive)
+- [Denis Nuțiu](https://nuculabs.dev/archive) + https://substack.com/@nuculabs
 - [Code for Romania](https://us13.campaign-archive.com/home/?u=1bcbbbff5fbab7429738442f5&id=cb38ce1e2a)
 - [Ben Ilegbodu](https://buttondown.email/benmvp/archive)
 - [Sunny Singh](https://buttondown.email/sunnysingh/archive)
@@ -510,6 +510,7 @@
 - [Patrick Loeber](https://patrickloeber.substack.com/archive)
 - [David Beazley](https://buttondown.email/dabeaz/archive)
 - [Allen Downey](https://substack.com/profile/149965273-allendowney)
+- [Seth Michael Larson](https://buttondown.email/sethmlarson/archive)
 
 # Ruby
 

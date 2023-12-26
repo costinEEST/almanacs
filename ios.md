@@ -47,6 +47,7 @@
 
 - [How I built two iPhone 6S's from parts for $80 each](https://twitter.com/hackerfantastic/status/1211088686802096128)
 - https://9to5mac.com/2022/06/15/ios-16-roomplan-api-3d-floor-plans
+- https://nuculabs.dev/2022/01/22/iphone-6s-battery-replacement
 
 # Tool
 
@@ -60,7 +61,6 @@
 - https://github.com/kenp-io/not-for-iphone-usb-c
 - https://github.com/jphong1111/awesome-ios-developer
 - https://github.com/738/awesome-apple-watch
-- https://nuculabs.dev/2022/01/22/iphone-6s-battery-replacement
 - [Xcode extension that evaluates selected mathematical expressions and replaces them with the result](https://github.com/revolter/EvaluateForXcode)
 - [Hardware-accelerated virtual machines on jailbroken iPhone 12 / iOS 14.1](https://worthdoingbadly.com/hv)
 - [Log iOS network traffic without a proxy](https://github.com/evilpenguin/NetworkSniffer)

@@ -30,6 +30,7 @@
 - https://m.yankodesign.com/2021/03/25/designing-the-worlds-most-comfortable-bath-towel-is-trickier-than-you-think
 - https://www.thestrategist.co.uk/article/best-tents-according-to-experts.html
 - https://www.insider.com/halloween-costume-trends-history-2018-10
+- https://solar.lowtechmagazine.com/2011/02/insulation-first-the-body-then-the-home
 
 # Tent
 

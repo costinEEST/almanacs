@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [Energy: A Human History](https://www.goodreads.com/review/show/3008690448)
 - [Eco-friendly Guides](https://www.earthlover.co/resources)
@@ -21,24 +21,20 @@
 - https://inquisitivebiologist.com/2022/12/31/book-review-volt-rush-the-winners-and-losers-in-the-race-to-go-green
 - https://inquisitivebiologist.com/2023/03/06/book-review-the-invention-of-green-colonialism
 
-### Course
+# Course
 
 - https://www.udemy.com/course/environment-and-ethics-a-basic-course
 - https://www.udemy.com/course/carbon-neutrality-fundamentals
 - [Sustainable Software Engineering | Luís Cruz](https://luiscruz.github.io/course_sustainableSE/2022)
 
-### Cinema
-
-- [The Story of Plastic](https://www.facebook.com/magazin.zerowaste/videos/753307372765818)
-
-### Community
+# Community
 
 - [Cassandra Xia](https://cassandraxia.com)
 - [database of sorts containing energy consumption of consumer devices](https://twitter.com/municode/status/1551288879810056192)
 - https://github.com/luiscruz/awesome-mobile-app-energy-papers
 - https://github.com/stars/stevegeek/lists/carbon-emissions
 
-### Opinion
+# Opinion
 
 - http://www.environmentandsociety.org/arcadia/atlantropa-endless-energy-mediterranean-sea
 - https://asknature.org
@@ -53,11 +49,11 @@
 - [Digging 10 miles underground could yield enough geothermal energy to power Earth](https://interestingengineering.com/innovation/digging-10-miles-geothermal-energy)
 - [How heat pumps of the 1800s are becoming the technology of the future](https://bigthink.com/the-present/heat-pumps)
 
-### Radio
+# Radio
 
 - [Relishing the shear amount of great climate-tech podcasts](https://twitter.com/ndrewwang/status/1458891592903925761)
 
-### Reference
+# Reference
 
 - https://github.com/thomkrupa/awesome-climate-tech
 - [A curated list of ground-truth forest datasets for the machine learning and forestry community](https://github.com/blutjens/awesome-forests)
@@ -66,3 +62,9 @@
 - https://elements.visualcapitalist.com/visualizing-the-eus-energy-dependency
 - [Rolls-Royce tests its first hydrogen-powered plane engine](https://www.freethink.com/transportation/hydrogen-fuel-56682)
 - https://www.theguardian.com/environment/2022/nov/23/tidal-stream-energy-costs-ebb-reliability-flows
+
+# Watch
+
+- [The Story of Plastic](https://www.facebook.com/magazin.zerowaste/videos/753307372765818)
+- https://www.gresham.ac.uk/watch-now/series/when-zero
+- https://www.gresham.ac.uk/watch-now/series/environmental-health
