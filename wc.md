@@ -10,7 +10,7 @@
 - https://briangrinstead.com/blog/firefox-webcomponents
 - https://github.com/shawnbot/custom-elements
 - https://github.com/thepassle/generic-components
-- [React's Hooks API implemented for web components.](https://github.com/matthewp/haunted)
+- [React's Hooks API implemented for web components](https://github.com/matthewp/haunted)
 - https://github.com/paulirish/lite-youtube-embed
 - https://github.com/luwes/lite-vimeo-embed
 - [Design System Stencil Example.](https://github.com/AJONPLLC/ajonp-stencil-example)
@@ -49,3 +49,7 @@
 - [Triple linked list based DOM-like namespace, for DOM-less environments](https://github.com/WebReflection/linkedom)
 - https://daverupert.com/2023/07/why-not-webcomponents + https://twitter.com/davatron5000/status/1685024659761221633 + https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at
 - [a way to fake a Safari-esque web browser window](https://github.com/zachleat/browser-window)
+
+# Markup
+
+* https://fullystacked.net/declarative-shadow-dom

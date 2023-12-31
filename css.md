@@ -40,6 +40,7 @@
 - https://tetralogical.com/blog/2023/06/08/focus-in-view
 - https://matthiasott.com/notes/custom-properties-beyond-the-root
 - https://www.abeautifulsite.net/posts/better-buttons-with-color-mix-and-custom-properties
+- https://fullystacked.net/using-emoji-on-the-web
 
 # Book
 
@@ -213,6 +214,8 @@
 - https://una.im/color-mix-opacity
 - https://fullystacked.net/posts/scope-in-css + https://twitter.com/pepelsbey_dev/status/1664767779369541632
 - https://blog.richardekwonye.com/bezier-curves
+- [`align-content`](https://fullystacked.net/vertical-alignment)
+- https://fullystacked.net/accentcolor
 
 # Selector
 

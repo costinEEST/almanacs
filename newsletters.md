@@ -7,49 +7,6 @@
 
 - https://authory.com/MishaalRahman
 
-# Bookstore
-
-- [Nemira Publishing House](https://us16.campaign-archive.com/home/?u=90fc2082261012b48d34d8ff6&id=851b969363)
-- [Fundatia Culturala Memoria](https://us7.campaign-archive.com/home/?u=21562341fc294594ee2ed413f&id=93bd3e91ec)
-- https://stripepress.substack.com/archive
-
-# C language 
-
-- [Jacob Sorber](https://us8.campaign-archive.com/home/?u=5ba7801240bea9947c7849f4f&id=05db6fc9a8)
-
-# C++
-
-- [Denis Bakhvalov](https://easyperf.net/newsletter)
-
-# College
-
-- [TU Delft](https://us9.campaign-archive.com/home/?u=4dc4c9cf4f6095e7b568dfc9a&id=57d91ace2a)
-
-# Clothing
-
-- [Adriana Ancuta](https://adrianaancuta.substack.com/archive)
-
-# CSS
-
-- [Shruti Balasa](https://shrutibalasa.substack.com/archive)
-
-# Games
-
-- [Alex Doppelgänger](https://alexdoppelganger.substack.com/archive)
-- [Știri din lumea PlayStation](https://psplayro.substack.com/archive)
-
-# Journalism
-
-- [Scott Carney](https://sgcarney.substack.com/archive)
-- [PressHub](https://us4.campaign-archive.com/home/?u=50b20f622d93fed5402d4468d&id=789e1e94ba)
-
-# Tips
-
-- [feeds/videos.xml?channel_id={{CHANNEL_ID}}](https://twitter.com/pawelgrzybek/status/1240249320336695296)
-- https://briefcake.com/2022/09/03/axe-instagram.html
-- https://leahneukirchen.org/MySubscriptions.cgi
-- https://github.com/watson/cheatsheets/blob/master/google-calendar.md
-
 # Accessibility
 
 - [T12t](https://us14.campaign-archive.com/home/?u=23907132d7bd3ae259858b057&id=b8c09bd7b1)
@@ -112,6 +69,7 @@
 - [Alex Volkov](https://thursdai.substack.com/archive)
 - [Bakz T. Future](https://bakztfuture.substack.com/archive)
 - [WatSPEED at the University of Waterloo](https://us1.campaign-archive.com/home/?u=a4e41978223f65e337a68e25f&id=8e68d761f4)
+- https://substack.com/@tinahuang
 
 # Book
 
@@ -150,10 +108,6 @@
 - [Teodora Chinde: pentru antreprenori și experți în marketing, social media și branding](https://substack.com/@techtonikanewsletter)
 - [CreativeMornings Bucharest](https://us13.campaign-archive.com/home/?u=3d6e931050353807b7396f503&id=1d5df12e44)
 
-# Marketing
-
-- [Prashant Bagga](https://us4.campaign-archive.com/home/?u=f80b1bc87f246a92fee9bfceb&id=8573422726)
-- [Nick Kolenda](https://us9.campaign-archive.com/home/?u=3a435025ee2bca712b3a18a89&id=90575750a4)
 
 # Buddhism
 
@@ -282,9 +236,57 @@
 
 - [Original Lishi Tools by inventor Mr. Li](https://us14.campaign-archive.com/home/?u=f4f3f6dbbb403473532ca95f9&id=b35cc1084c)
 
+# Marketing
+
+- [Prashant Bagga](https://us4.campaign-archive.com/home/?u=f80b1bc87f246a92fee9bfceb&id=8573422726)
+- [Nick Kolenda](https://us9.campaign-archive.com/home/?u=3a435025ee2bca712b3a18a89&id=90575750a4)
+
 # Open source (FOSS)
 
 - [Allison Pike](https://onceamaintainer.substack.com/archive)
+
+# Bookstore
+
+- [Nemira Publishing House](https://us16.campaign-archive.com/home/?u=90fc2082261012b48d34d8ff6&id=851b969363)
+- [Fundatia Culturala Memoria](https://us7.campaign-archive.com/home/?u=21562341fc294594ee2ed413f&id=93bd3e91ec)
+- https://stripepress.substack.com/archive
+
+# C language 
+
+- [Jacob Sorber](https://us8.campaign-archive.com/home/?u=5ba7801240bea9947c7849f4f&id=05db6fc9a8)
+
+# C++
+
+- [Denis Bakhvalov](https://easyperf.net/newsletter)
+
+# College
+
+- [TU Delft](https://us9.campaign-archive.com/home/?u=4dc4c9cf4f6095e7b568dfc9a&id=57d91ace2a)
+
+# Clothing
+
+- [Adriana Ancuta](https://adrianaancuta.substack.com/archive)
+
+# CSS
+
+- [Shruti Balasa](https://shrutibalasa.substack.com/archive)
+
+# Games
+
+- [Alex Doppelgänger](https://alexdoppelganger.substack.com/archive)
+- [Știri din lumea PlayStation](https://psplayro.substack.com/archive)
+
+# Journalism
+
+- [Scott Carney](https://sgcarney.substack.com/archive)
+- [PressHub](https://us4.campaign-archive.com/home/?u=50b20f622d93fed5402d4468d&id=789e1e94ba)
+
+# Tips
+
+- [feeds/videos.xml?channel_id={{CHANNEL_ID}}](https://twitter.com/pawelgrzybek/status/1240249320336695296)
+- https://briefcake.com/2022/09/03/axe-instagram.html
+- https://leahneukirchen.org/MySubscriptions.cgi
+- https://github.com/watson/cheatsheets/blob/master/google-calendar.md
 
 # Philosophy
 
@@ -554,6 +556,7 @@
 - [Ralf Jung](https://www.ralfj.de/blog/feed.xml)
 - [Michael Bryan](https://adventures.michaelfbryan.com/posts)
 - [Orhun Parmaksız](https://blog.orhun.dev/rss.xml)
+- [Paris Liakos](https://us9.campaign-archive.com/home/?u=e4585d987021695e5426f50c5&id=2bebc9a948)
 
 # Politics
 

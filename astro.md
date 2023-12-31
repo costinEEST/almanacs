@@ -12,10 +12,6 @@
 - https://zellwk.com/blog/overcoming-astro-styling-frustrations
 - https://gist.github.com/stormwild/9ee6250c9e03b4cf86e685cc9896f3d5
 
-# Watch
-
-- https://m.youtube.com/@one-aalam/playlists
-
 # Inspire
 
 - https://github.com/ardeora/astro-tanstack-multiframework
@@ -29,6 +25,7 @@
 - https://github.com/dreyfus92/astro-portfolio
 - https://github.com/beerose/aleksandra.codes
 - https://github.com/nikolovlazar/nikolovlazar.com
+- https://github.com/o-t-w/blog
 
 # Opinion
 
@@ -37,3 +34,7 @@
 - https://cult.honeypot.io/reads/astro-the-new-javascript-framework
 - https://chan.dev/posts/rewrite-11ty-blog-in-astro
 - https://remotesynthesis.com/blog/full-stack-without-react
+
+# Watch
+
+- https://m.youtube.com/@one-aalam/playlists

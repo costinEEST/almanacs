@@ -180,6 +180,7 @@
 # Static site
 
 - https://github.com/getzola/zola + https://twitter.com/__xuorig__/status/1696192359992541642 + https://github.com/AntoniosBarotsis/antoniosbarotsis.github.io
+- https://sabrinajewson.org/blog/building-this-site
 
 # Testing
 

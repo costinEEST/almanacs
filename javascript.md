@@ -671,6 +671,7 @@
 - https://github.com/thisdavej/copy-excel-paste-markdown
 - https://www.oddbird.net/2022/11/30/headed-playwright-in-docker
 - [Decodes complex FormData into a JavaScript object](https://github.com/fabian-hiller/decode-formdata)
+- [Sending compressed data outside the browser](https://pieroxy.net/blog/pages/lz-string/guide.html#inline_menu_3)
 
 # Documentation
 
