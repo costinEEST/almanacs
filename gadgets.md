@@ -35,6 +35,7 @@
 - https://127001.me/post/ten-years-of-thinkpadding
 - https://m.youtube.com/c/LaptopRetrospective/playlists
 - [ThinkPad X13s (13” Snapdragon)](https://twitter.com/WebReflection/status/1576922986992410624)
+- [The X220 ThinkPad is the Best Laptop in the World](https://bt.ht/posts/x220)
 
 # Keyboard
 

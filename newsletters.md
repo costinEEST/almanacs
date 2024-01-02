@@ -107,6 +107,7 @@
 - [Joshua Tiernan](https://tinyempires.substack.com/archive)
 - [Teodora Chinde: pentru antreprenori și experți în marketing, social media și branding](https://substack.com/@techtonikanewsletter)
 - [CreativeMornings Bucharest](https://us13.campaign-archive.com/home/?u=3d6e931050353807b7396f503&id=1d5df12e44)
+- [Sibelius Seraphini](https://sibelius.substack.com/archive)
 
 
 # Buddhism
@@ -172,6 +173,7 @@
 - [Razib Khan](https://razib.substack.com/archive)
 - [Cornell Lab of Ornithology](https://us2.campaign-archive.com/home/?u=b35ddb671faf4a16c0ce32406&id=47588b5758)
 - [Genspace NYC](https://us4.campaign-archive.com/home/?u=3734c324839c706a50b52473a&id=29c1eef386)
+- https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature
 
 # Go
 
