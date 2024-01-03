@@ -81,6 +81,7 @@
 - [Generate terminal GIFs from code](https://github.com/charmbracelet/vhs)
 - [Sidecar to Frigate to identify the species of the birds that Frigate detects](https://github.com/mmcc-xx/WhosAtMyFeeder)
 - https://dev.to/ninofiliu/simple-screen-recorder-in-20-lines-of-javascript-4ina
+- https://kamilogorek.com/blog/downloading-youtube-watch-later-playlist
 
 # Opinion
 
