@@ -313,6 +313,7 @@
 - [aleksliving](https://twid.fyi/archive)
 - [David Airey](https://davidairey.substack.com/archive)
 - [Pixellab: school based in Bucharest where you can learn graphic design, illustration, web development, UX/UI design and 3D](https://us9.campaign-archive.com/home/?u=ed130a842c2d148f6665e487c&id=1e60c1c70f)
+- [Ash Huang](https://buttondown.email/ashsmash/archive)
 
 # Data visualization
 

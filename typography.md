@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://fonts.google.com/knowledge
 - https://medium.com/@mwichary/shift-happens-5b049f5a93a8
@@ -8,14 +8,14 @@
 - https://www.thomkrupa.com/books
 - https://www.goodreads.com/review/list/46952552?shelf=typography
 
-### Community
+# Community
 
 - http://rosaliewagner.com/type-links
 - https://github.com/davelab6/type-notes
 - [Khaled Hosny](https://twitter.com/KhaledGhetas)
 - https://www.worldswritingsystems.org
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/user/TypographyGuru/playlists
 - [Type ref & Inspiration | Pedro Amado](https://m.youtube.com/playlist?list=PLEz9y19-UrRajPM9PTV4xZK8h5x6fzeLG)
@@ -27,7 +27,7 @@
 - https://pimpmytype.com/changing-fonts
 - https://m.youtube.com/playlist?list=PL2jykFOD1AWa5sRIhcaOq48M3M-_kTuCH
 
-### CSS
+# CSS
 
 - https://web.dev/font-best-practices
 - https://simonhearne.com/2021/layout-shifts-webfonts
@@ -43,7 +43,7 @@
 - [If you use `clamp` with `calc` for things like fluid typography, you can drop the `calc`](https://twitter.com/stefanjudis/status/1545837995047243779)
 - [Should I change the default HTML font-size to 62.5%?](https://fedmentor.dev/posts/rem-html-font-size-hack) + https://twitter.com/KevinJPowell/status/1646118183428915200
 
-### Font
+# Font
 
 - [Pretty cool alternative collection of fonts](https://typespecimens.io)
 - https://github.com/ubuwaits/beautiful-web-type
@@ -64,14 +64,15 @@
 - https://www.colorfonts.wtf
 - [Free and open-source monospaced font from Evil Martians](https://github.com/evilmartians/mono)
 - https://github.com/adobe-fonts/source-han-code-jp
+- https://www.linkedin.com/pulse/top-10-programming-fonts-beginners-akash-awaskar + https://levien.com/type/myfonts 
 
-### Historic
+# Historic
 
 - https://www.women-in-type.com
 - [Does anyone know why 16px became the default font-size adopted by browsers?](https://twitter.com/hj_chen/status/1476100972799676417)
 - https://computerhistory.org/blog/postscript-a-digital-printing-press
 
-### Tool
+# Tool
 
 - https://learnui.design/blog/identifying-fonts.html
 - https://www.fontshare.com
@@ -91,8 +92,9 @@
 - https://github.com/DanielRuf/Google-Fonts-CSP-Logging
 - https://github.com/system-fonts/modern-font-stacks + https://twitter.com/danklammer/status/1635622786889572352
 - https://github.com/codeAdrian/modern-fluid-typography-editor + https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp + https://moderncss.dev/container-query-units-and-fluid-typography
+- [Toolkit for curve design, especially font design](https://www.levien.com/spiro)
 
-### Miscellaneous
+# Miscellaneous
 
 - https://www.amazon.com/Short-History-Printed-Word/dp/0881791547
 - https://github.com/sw-yx/spark-joy#typography
@@ -117,6 +119,6 @@
 - https://bigthink.com/strange-maps/united-fonts-of-america
 - https://www.lydiahallie.io/blog/optimizing-webfonts-in-nextjs-13
 
-### Opinion
+# Opinion
 
 - [Longer line lengths on screens no longer considered harmful](https://designregression.com/article/line-length-revisited-following-the-research)
