@@ -84,6 +84,7 @@
 # Internals
 
 - [Deep Dive: Caching and Revalidating](https://github.com/vercel/next.js/discussions/54075)
+- https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js
 
 # Opinion
 

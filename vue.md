@@ -33,12 +33,6 @@
 - https://github.com/NathanAP/vue-google-maps-community-fork
 - https://github.com/vue-email/vue-email
 
-# Inspire
-
-- https://github.com/bencodezen/bencodezen
-- https://github.com/debs-obrien/debbie.codes
-- https://github.com/leichteckig/nuxt-leichteckig
-
 # Opinion
 
 - https://bypaulshen.com/posts/comparing-vue-and-react
@@ -47,6 +41,13 @@
 - [React Hooks vs Vue 3 Composition API](https://academy.esveo.com/en/blog/Yr)
 - https://www.getrevue.co/profile/masteringjs/issues/building-and-testing-email-templating-using-vue-257729
 - https://github.com/gactjs/research/tree/main/vue-instance-identity-model
+
+# Static site
+
+- https://github.com/bencodezen/bencodezen
+- https://github.com/debs-obrien/debbie.codes
+- https://github.com/leichteckig/nuxt-leichteckig
+- https://hire.jonasgalvez.com.br/2022/jan/08/blogging-with-fastify-vite-and-vue-3
 
 # Testing
 

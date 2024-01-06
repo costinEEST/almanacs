@@ -292,6 +292,7 @@
 - https://newrelic.com/blog/best-practices/nodejs-application-monitoring
 - https://github.com/skirianov/console-m + https://twitter.com/KajetanSw/status/1595717645642473473
 - [Benchmarking library with support for multithreading and TurboFan optimization isolation](https://github.com/jonahsnider/benchmark)
+- https://hire.jonasgalvez.com.br/2023/jan/31/monitoring-nodejs-performance
 
 # Deploy
 
@@ -564,6 +565,7 @@
 - [Character encoding detection tool](https://github.com/runk/node-chardet)
 - https://github.com/leebyron/til
 - [Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats](https://github.com/Borewit/music-metadata)
+- https://hire.jonasgalvez.com.br/2022/mar/20/building-your-own-nodemon
 
 # `node:test`
 
@@ -592,6 +594,7 @@
 - https://github.com/grissius/jest-is-a-rude-needy-clown-and-eats-lot-of-memory
 - https://richiemccoll.com/writing-tests-with-fastify-and-node-test-runner
 - https://github.com/aperezl/clean_architecture_tdd
+- https://hire.jonasgalvez.com.br/2023/jan/31/fastify-testing
 
 # Scrapping
 
@@ -796,3 +799,4 @@
 - [What npm Can Learn from Go](https://twitter.com/bossylobster/status/1529857188390371328)
 - https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler
 - https://docs.emailengine.app/packaging-and-selling-a-node-js-app
+- https://hire.jonasgalvez.com.br/2017/aug/25/leaving-python-for-java-script

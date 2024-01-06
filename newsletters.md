@@ -493,6 +493,7 @@
 
 - https://vimtricks.substack.com/archive
 - [Sacha Chua](https://sachachua.com/blog/category/emacs)
+- [Andrew Lisowski, Justin Bennett: A podcast about developer tools and the people who make them](https://devtoolsfm.beehiiv.com)
 
 # Math
 

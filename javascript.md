@@ -89,6 +89,7 @@
 
 - [Javascript R. Moldova](https://github.com/JSMD/meetups)
 - https://www.facebook.com/groups/cypresstestautomation
+- https://hire.jonasgalvez.com.br/2022/jan/22/the-key-javascript-developers-i-follow
 
 # Compiler
 
