@@ -46,3 +46,4 @@
 - [ChatGPT and DALL-E Emacs shells + Org babel + a shell maker for other providers](https://github.com/xenodium/chatgpt-shell)
 - https://robert.kra.hn/posts/rust-emacs-setup
 - https://robert.kra.hn/posts/2023-02-22-copilot-emacs-setup
+- [A Literate Toolchain To Build This Website](https://soap.coffee/~lthms/posts/CleopatraV1.html)

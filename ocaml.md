@@ -8,6 +8,7 @@
 
 - https://github.com/ianthehenry/ocamlsyntax.com
 - https://github.com/tomprimozic/type-systems
+- https://soap.coffee/~lthms/posts/OCamlStaticBinaries.html
 
 # Practice
 

@@ -282,3 +282,4 @@
 
 - https://tomcritchlow.com/2023/01/27/small-databases
 - https://gimenete.net/articles/choosing-serverless-database-for-serverless-app
+- https://www.scattered-thoughts.net/writing/against-sql

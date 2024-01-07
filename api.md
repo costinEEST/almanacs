@@ -1,4 +1,4 @@
-### Social platforms
+# Social platforms
 
 - https://github.com/JMPerez/linkedin-to-json-resume + [So I have 1,825 LinkedIn connection requests... and no way to batch approve or deny them...](https://twitter.com/kentcdodds/status/1251865245133365250)
 - https://github.com/jamiebuilds/havetheybeenpwned
@@ -35,7 +35,7 @@
 - [A wrapper around YouTube's internal API](https://github.com/LuanRT/YouTube.js)
 - [Google Sheet as JSON](https://github.com/benborgers/opensheet)
 
-### GraphQL
+# GraphQL
 
 - https://twitter.com/HolyBugx/status/1441460070387261440
 - https://twitter.com/AlbinGroen/status/1507099790902976514
@@ -75,13 +75,13 @@
 - [GraphQL exploitation – All you need to know](https://cybervelia.com/?p=736)
 - [scripting engine to interact with a graphql endpoint for pentesting purposes](https://github.com/swisskyrepo/GraphQLmap)
 
-### gRPC
+# gRPC
 
 - [GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley](https://youtu.be/l_P6m3JTyp0)
 - [A collection of public Ethereum APIs](https://github.com/prysmaticlabs/ethereumapis)
 - https://stackoverflow.blog/2022/11/28/when-to-use-grpc-vs-graphql
 
-### Health
+# Health
 
 - https://github.com/Cazaimi/circadian-api
 - [FoodData Central (FDC)](https://fdc.nal.usda.gov/about-us.html) + https://github.com/USDA/USDA-APIs/issues/92
@@ -90,14 +90,14 @@
 - [A modern DICOM visualizer powered by Sethealth](https://github.com/sethealth/openviewhealth)
 - [API for Current cases and more stuff about COVID-19 and Influenza](https://github.com/disease-sh/api)
 
-### JSON
+# JSON
 
 - https://github.com/jdorfman/awesome-json-datasets
 - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 - https://github.com/burningtree/awesome-json
 - https://github.com/nayyyhaa/movies-and-shows-api
 
-### Weather
+# Weather
 
 ```
 curl v2.wttr.in/Bucharest
@@ -107,17 +107,17 @@ curl v2.wttr.in/Bucharest
 - https://en.sat24.com/en/forecast/h/4113466/bucharest
 - https://www.isac.cnr.it/dinamica/projects/forecasts/bolam
 
-### Astronomy
+# Astronomy
 
 - [Open Astronomy Catalog API](https://github.com/astrocatalogs/OACAPI)
 - [James Webb Space Telescope (JWST) tracking REST API](https://github.com/avatsaev/webb-tracker-api)
 - https://github.com/cr0sis/Real-time-International-space-station-tracker
 
-### Chemistry
+# Chemistry
 
 - https://github.com/darekkay/tip-of-the-day/tree/master/src/data-sources/chemical-elements-en
 
-### Geography
+# Geography
 
 - [City data repository for mapnificent.net](https://github.com/mapnificent/mapnificent_cities) + https://stefanwehrmeyer.com/projects/mapnificent
 - [Dear map people,](https://twitter.com/tmcw/status/1133165834677866496)
@@ -140,7 +140,7 @@ curl v2.wttr.in/Bucharest
 - https://github.com/donma/TaiwanAddressCityAreaRoadChineseEnglishJSON
 - [Free Weather Forecast API for non-commercial use](https://github.com/open-meteo/open-meteo)
 
-### Shopping
+# Shopping
 
 - https://twitter.com/ryanflorence/status/1332403896208146433
 - [curl cryptocurrencies exchange rates](https://github.com/chubin/rate.sx)
@@ -148,7 +148,7 @@ curl v2.wttr.in/Bucharest
 - https://datahelpdesk.worldbank.org/knowledgebase/articles/898590-country-api-queries
 - https://github.com/gadicc/node-yahoo-finance2
 
-### Speak
+# Speak
 
 - [Microsoft Translator Text API](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-NodeJS)
 - https://github.com/cortexlabs/cortex/tree/translator-example/examples/model-caching/python/translator
@@ -163,7 +163,7 @@ curl v2.wttr.in/Bucharest
 - https://github.com/matheuss/google-translate-api + https://github.com/vitalets/google-translate-api
 - https://github.com/cjvnjde/google-translate-api-browser
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/yosriady/api-development-tools
 - https://github.com/apisyouwonthate/openapi.tools
@@ -217,11 +217,12 @@ curl v2.wttr.in/Bucharest
 - https://blog.idrisolubisi.com/35-free-public-apis-to-improve-productivity
 - https://www.freecodecamp.org/news/public-apis-for-developers
 - https://github.com/stn1slv/awesome-integration
+- https://github.com/heaversm/electronics-repairability-scores
 
-### Philosophy
+# Philosophy
 
 - https://github.com/the-akira/PhilosophyAPI
 
-### Travel
+# Travel
 
 - [periodically retrieves award availability from mileage programs](https://seats.aero/about)

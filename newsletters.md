@@ -561,6 +561,7 @@
 - [Michael Bryan](https://adventures.michaelfbryan.com/posts)
 - [Orhun Parmaksız](https://blog.orhun.dev/rss.xml)
 - [Paris Liakos](https://us9.campaign-archive.com/home/?u=e4585d987021695e5426f50c5&id=2bebc9a948)
+- [Nicole Tietz-Sokolskaya](https://buttondown.email/ntietz/archive)
 
 # Politics
 

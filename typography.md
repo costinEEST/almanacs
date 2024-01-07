@@ -122,3 +122,4 @@
 # Opinion
 
 - [Longer line lengths on screens no longer considered harmful](https://designregression.com/article/line-length-revisited-following-the-research)
+- https://faultlore.com/blah/text-hates-you

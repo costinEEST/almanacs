@@ -123,6 +123,7 @@
 - https://backend.picular.co/api/search?query=cyan
 - https://backend.picular.co/api/search?query=%23C7C3C1
 - https://bottosson.github.io/posts/colorwrong
+- [Who can use this color combination?](https://www.whocanuse.com)
 
 # Community
 
@@ -162,6 +163,7 @@
 - https://www.quaxio.com/pure_css_digital_clock.html
 - [CSS drawings with only one HTML element](https://github.com/lynnandtonic/a-single-div)
 - [A curated list of websites with an extra bit of fun](https://github.com/maxboeck/whimsical)
+- https://erikarow.land/other/colophon
 
 # Measurement unit
 
