@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://blas.com/tag/edward-tufte
 - https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910
@@ -25,7 +25,7 @@
 - [Science Illustration. A History of Visual Knowledge from the 15th Century to Today](https://www.thisiscolossal.com/2022/10/science-illustration-book)
 - https://github.com/andrewharmellaw/wardley-maps-book
 
-### Watch
+# Watch
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUeao8hSw3tegcabrp8vV55t
 - https://m.youtube.com/user/currankelleher/playlists
@@ -34,7 +34,7 @@
 - https://laughingsquid.com/ten-tallest-skyscrapers
 - [#30DaysOfDataViz | DataIndependent](https://m.youtube.com/playlist?list=PLqZXAkvF1bPOHoKYk7WPjyJoehPhqigOg)
 
-### Course
+# Course
 
 - https://github.com/microsoft/Data-Science-For-Beginners
 - https://github.com/ProjectBasedLearning/resources
@@ -49,18 +49,18 @@
 - https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course
 - https://github.com/john-guerra/MIDS_W209_Information_Visualization_Slides, [Covers basic Web Development, ObservableHQ, D3, the Vega-Lite Javascript API and Tableau](https://m.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz)
 
-### Community
+# Community
 
 - https://github.com/jhuangtw/awesome-data
 - https://blog.gardeviance.org/2015/03/wardley-map-set-of-useful-posts.html
 - [A curated collection of diagramming tools used by leading software engineering teams](https://github.com/shubhamgrg04/awesome-diagramming)
 
-### Best practices
+# Best practices
 
 - https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf
 - [list of people and resources in Accessibility and Data Visualization](https://github.com/dataviza11y/resources)
 
-### Tool
+# Tool
 
 - [Declarative and modular timeseries charting components for React.](https://github.com/esnet/react-timeseries-charts)
 - [Contains ESnet network mapping and circuit rendering code, as used in the ESnet portal.](https://github.com/esnet/react-network-diagrams)
@@ -84,12 +84,12 @@
 - https://github.com/stars/vladiliescu/lists/dataviz
 - [A framework for computational node graphs](https://github.com/emilwidlund/nodl)
 
-### Radio
+# Radio
 
 - https://www.visualisingdata.com/2020/01/explore-explain-a-new-video-and-podcast-series
 - http://www.storytellingwithdata.com/podcast
 
-### Demo
+# Demo
 
 - [Japanese Architectural Heritage](https://twitter.com/AlexanderVar7/status/1215763711496990722)
 - [#dataviz](https://twitter.com/hashtag/dataviz)
@@ -132,8 +132,9 @@
 - https://github.com/andreiolariu/strava-roads
 - [Visualize climate change since 1960 for your home town](https://github.com/lutzvdb/climatevisualizer)
 - [Tiny speedrun timer](https://github.com/ylorant/splitty)
+- [Make your own running home page](https://github.com/yihong0618/running_page)
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/ivanreese/visual-programming-codex
 - [Data Visualization and Art Process Blogs](https://alignedleft.com/resources/process-blogs)

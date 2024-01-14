@@ -23,6 +23,7 @@
 
 - https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3
 - [Digital Signal Processing](https://github.com/leafac/cpp-dsp-juce--study-group)
+- [Physically Based Sound for Computer Animation and Virtual Environments](http://graphics.stanford.edu/courses/sound) + [C++ code used at SIGGRAPH 2016 Course](https://github.com/dingzeyuli/ModalSound) + https://youtu.be/4OGeAfyDa4Y
 
 # Development
 

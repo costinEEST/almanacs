@@ -24,6 +24,7 @@
 - https://mschade.me/notes-vim-from-essentials-to-mastery-by-wnodom
 - https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup
 - https://github.com/stars/ChristianChiarulli/lists/neovim
+- https://shaky.sh/bram
 
 # Miscellaneous
 

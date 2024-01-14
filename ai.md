@@ -8,6 +8,7 @@
 - [Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI](https://youtu.be/cdiD-9MMpb0) + https://karpathy.medium.com/software-2-0-a64152b37c35 + https://tldrsec.com/blog/tldr-sec-167/#machine-learning
 - https://m.youtube.com/playlist?list=PL1v8zpldgH3qe4xqXgHPyfwJKckvZIjfp
 - https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence
+- https://18alan.space/posts/agi-in-t-minus-ten-years.html
 
 # Book
 

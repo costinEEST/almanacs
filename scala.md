@@ -15,6 +15,10 @@
 - https://github.com/databricks/scala-style-guide
 - https://github.com/Ahnfelt/type-inference-by-example
 
+# Tool 
+
+- https://alexn.org/blog/2024/01/10/update-nextdns-with-a-scala-cli-script
+
 # Watch
 
 - [Category Theory for Programmers](https://github.com/codereport/CTfP-2021)

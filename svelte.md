@@ -45,12 +45,6 @@
 - https://github.com/PuruVJ/macos-web + https://twitter.com/leeerob/status/1382422353787817985
 - [Open-source developer platform to turn scripts into workflows and UIs; alternative to Airplane and Retool](https://github.com/windmill-labs/windmill)
 
-# Inspire
-
-- https://github.com/doppelganger9/blog
-- https://github.com/yashash-pugalia/portfolio
-- https://github.com/ViorelMocanu/DDD
-
 # Miscellaneous
 
 - https://github.com/ryanatkn/awesome-svelte-resources
@@ -75,6 +69,13 @@
 # Security
 
 - https://edoverflow.com/2023/sveltekit-security-headers
+
+# Static site
+
+- https://github.com/doppelganger9/blog
+- https://github.com/yashash-pugalia/portfolio
+- https://github.com/ViorelMocanu/DDD
+- https://github.com/stevekinney/stevekinney.net
 
 # Tool
 

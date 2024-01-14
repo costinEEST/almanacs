@@ -7,6 +7,10 @@
 - https://github.com/delucis/astro-netlify-cms
 - https://github.com/markteekman/accessible-astro-starter
 
+# Book 
+
+- https://www.ohansemmanuel.com/books/understanding-astro
+
 # Cheat sheet
 
 - https://zellwk.com/blog/overcoming-astro-styling-frustrations

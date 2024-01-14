@@ -522,6 +522,7 @@
 
 - [Virtual Piano](https://hyperskill.org/projects/101)
 - https://github.com/felipefialho/frontend-challenges
+- https://github.com/BretHudson/advent-of-code
 
 # Single-page application
 

@@ -64,6 +64,7 @@
 
 - [Shenzhen I/O is a puzzle game that teaches how to build circuits and write assembly code based on provided elements](http://www.zachtronics.com/shenzhen-io) + [Shenzhen I/O | Scott Manley](https://m.youtube.com/playlist?list=PLYu7z3I8tdEkFEb_qBMsPpU8R5qCCYPXZ)
 - [Flappy bird in JS using Raylib](https://github.com/arthurmassanes/flappy)
+- [Snake Game written in x86-64 Assembly for Windows](https://github.com/RealNeGate/AsmSnake)
 
 # Development
 
@@ -118,6 +119,7 @@
 - [Convert classic Apple II games to runnable C code](https://github.com/tmikov/apple2tc)
 - [Build and Publish Roguelike Genre Games with JavaScript and Phaser](https://github.com/Apress/roguelike-development-javascript) + https://books2read.com/u/mZeXXe
 - [Build Your Own Flight Sim In C++ (DOS GameDev) by Michael Radtke & Chris Lampton](https://news.ycombinator.com/item?id=37358063)
+- https://andrewjakubowicz.me/posts/making-riko
 
 # The creators
 

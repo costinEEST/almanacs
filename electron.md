@@ -10,6 +10,7 @@
 - https://github.com/gluon-framework/gluon + https://goose.icu/gluon-announcement
 - https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt
 - https://github.com/stars/Marcisbee/lists/desktop-app
+- [Fullstack GUI library for desktop, web, mobile](https://github.com/DioxusLabs/dioxus)
 
 # Application
 
