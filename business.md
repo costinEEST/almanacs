@@ -101,6 +101,7 @@
 
 # Management
 
+- https://github.com/charlax/engineering-management
 - https://www.coursera.org/learn/uva-darden-digital-product-management#syllabus
 - https://textslashplain.com/2022/05/18/thoughts-on-impact
 - https://twitter.com/dabit3/status/1214711699145543680 + https://twitter.com/dan_abramov/status/1203486500731719681 + https://twitter.com/kurtiskemple/status/986746802073423873

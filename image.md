@@ -1,4 +1,4 @@
-### Approach
+# Approach
 
 - [best practices for web images](https://github.com/nucliweb/image-element)
 - https://joshwcomeau.com/performance/embracing-modern-image-formats
@@ -16,12 +16,12 @@
 - https://pqina.nl/blog/compress-image-before-upload
 - https://www.macarthur.me/posts/serving-notion-presigned-images-with-cloudflare
 
-### Book
+# Book
 
 - [Physically Based Rendering: From Theory To Implementation | Matt Pharr, Wenzel Jakob, and Greg Humphreys](https://github.com/mmp/pbr-book-website)
 - https://www.goodreads.com/book/show/37499024-understanding-photography
 
-### Community
+# Community
 
 - https://www.facebook.com/groups/urbanstreetphotographygroup
 - https://petapixel.com/2022/07/29/these-are-the-most-famous-photos-of-all-time-according-to-a-new-study
@@ -29,25 +29,23 @@
 - https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books
 - https://www.blind-magazine.com/stories/revisiting-susan-sontag
 
-### Cinema
+# Course 
 
-- [Lectures on Digital Photography | Marc Levoy](https://m.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i)
-- [Understanding Cameras & Optics](https://m.youtube.com/playlist?list=PL6rx9p3tbsMtyBSl6ihtZ5kv8Kuib3Hbu)
-- https://eddimage.com/online-macro-photography-lessons
-- [Ancient Woodland Photography Project | Simon Baxter](https://m.youtube.com/playlist?list=PLU_-AE0y2nG-X99vOvXofaAD2np9pHYwf)
+- https://github.com/quilime/photogrammetry
+- https://gabrieldunne.com/projection-mapping
 
-### Formats
+# Formats
 
 - https://www.media.mit.edu/pia/Research/deepview/exif.html
 - https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python
 - https://www.industrialempathy.com/posts/avif-webp-quality-settings + https://twitter.com/cramforce/status/1363182846731382790
 - https://www.zachleat.com/web/vector-raster-split + https://twitter.com/zachleat/status/1430944481965182976
 
-### Historic
+# Historic
 
 - [Photography | Technology Connections](https://m.youtube.com/playlist?list=PLv0jwu7G_DFV6yW240e6CbiwCLaZ0Z6PV)
 
-### Tool
+# Tool
 
 - https://danburzo.ro/digitizing-books
 - https://github.com/stars/zeke/lists/ml
@@ -79,7 +77,7 @@
 - https://stable-diffusion-art.com/qr-code
 - [A runtime service to use live website screenshots on your site](https://github.com/davatron5000/api-screenshot)
 
-### Photo
+# Photo
 
 - [Free stock photos](https://www.pexels.com)
 - [Akiyoshi KITAOKA's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
@@ -88,10 +86,17 @@
 - https://time.com/6234958/top-100-photos-2022
 - https://flashbak.com/first-naked-kiss-eadweard-muybridge-61902
 
-### Security
+# Security
 
 - https://github.com/barrracud4/image-upload-exploits + https://book.hacktricks.xyz/pentesting-web/file-upload + https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/File_upload_bugs.xmind
 
-### Radio
+# Radio
 
 - https://podcast.oddly-influenced.dev/episodes/analogies
+
+# Watch
+
+- [Lectures on Digital Photography | Marc Levoy](https://m.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i)
+- [Understanding Cameras & Optics](https://m.youtube.com/playlist?list=PL6rx9p3tbsMtyBSl6ihtZ5kv8Kuib3Hbu)
+- https://eddimage.com/online-macro-photography-lessons
+- [Ancient Woodland Photography Project | Simon Baxter](https://m.youtube.com/playlist?list=PLU_-AE0y2nG-X99vOvXofaAD2np9pHYwf)

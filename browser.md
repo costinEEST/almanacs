@@ -609,6 +609,7 @@ javascript: (() =>
 
 - https://goteleport.com/blog/how-passwordless-works
 - https://betterappsec.com/a-medium-dive-into-web-application-authentication-342d1d002a61
+- https://denhoff.ca/posts/webauthn-by-id-android
 
 # WebGL
 

@@ -517,6 +517,10 @@
 - https://curtismchale.ca/category/pkm-weekly
 - [Eleanor Konik](https://www.eleanorkonik.com/tag/roundup)
 
+# PHP 
+
+- [Simon Holywell](https://us5.campaign-archive.com/home/?u=05c835f460cad2f954e351732&id=e06199684b)
+
 # Python
 
 - [Patrick Loeber](https://patrickloeber.substack.com/archive)
@@ -563,6 +567,8 @@
 - [Orhun Parmaksız](https://blog.orhun.dev/rss.xml)
 - [Paris Liakos](https://us9.campaign-archive.com/home/?u=e4585d987021695e5426f50c5&id=2bebc9a948)
 - [Nicole Tietz-Sokolskaya](https://buttondown.email/ntietz/archive)
+
+
 
 # Politics
 
