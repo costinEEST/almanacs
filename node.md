@@ -375,6 +375,7 @@
 # `node:process`
 
 - [Human-friendly process signals](https://github.com/ehmicky/human-signals)
+- [add `process.loadEnvFile` programmatic API](https://github.com/nodejs/node/pull/51476)
 
 # `node:tls`
 

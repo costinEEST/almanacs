@@ -164,6 +164,7 @@
 - [CSS drawings with only one HTML element](https://github.com/lynnandtonic/a-single-div)
 - [A curated list of websites with an extra bit of fun](https://github.com/maxboeck/whimsical)
 - https://erikarow.land/other/colophon
+- https://github.com/stars/brianlovin/lists/personal-websites
 
 # Measurement unit
 
