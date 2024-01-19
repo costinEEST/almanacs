@@ -55,6 +55,7 @@
 - https://github.com/mezod/awesome-indie
 - https://github.com/lukasz-madon/awesome-remote-job
 - https://gettogether.world
+- https://github.com/cbovis/awesome-digital-nomads
 
 # Marketing
 

@@ -332,6 +332,7 @@
 - https://lessonsec.com/posts/dev-chronicles-creating-an-http-attack-client
 - https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port
 - https://jessewarden.com/books/serverless-aws-functional-programming
+- [nginx backend to collect usage statistics in a privacy-friendly way](https://github.com/Rob--W/pdfjs-telemetry)
 
 # Standard library
 

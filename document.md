@@ -60,6 +60,7 @@
 - [Make your PDFs look scanned](https://github.com/rwv/lookscanned.io)
 - https://blog.dend.ro/recovering-information-pdf-map
 - https://nora.codes/post/pdf-embedding-attacks
+- https://github.com/mozilla/pdf.js/wiki/Additional-Learning-Resources
 
 # .png
 

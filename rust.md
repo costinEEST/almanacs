@@ -75,6 +75,7 @@
 - [Laurence Tratt](https://tratt.net/laurie/src)
 - [Rust Taiwan](https://github.com/rust-tw/meetup)
 - [Herman Radtke](https://hermanradtke.com/links)
+- https://github.com/stars/hugsy/lists/rust
 
 # Course
 
