@@ -222,6 +222,7 @@
 - https://newsletter.blockthreat.io/archive
 - https://weekinethereum.substack.com/archive
 - [Balaji S. Srinivasan](https://balajis.com/archive)
+- [Chris Dixon](https://cdixon.substack.com/archive)
 
 # Investing
 

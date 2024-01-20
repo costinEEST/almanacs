@@ -357,3 +357,7 @@
 
 - https://modernweb.podbean.com/e/s08e012-modern-web-podcast-modern-css-accessibility-with-stephanie-eckles
 - https://scrimba.com/podcast/how-not-to-struggle-with-css-with-kevin-powell
+
+# Static site 
+
+- https://github.com/wagslane/blog
