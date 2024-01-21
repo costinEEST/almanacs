@@ -108,6 +108,8 @@
 - [Teodora Chinde: pentru antreprenori și experți în marketing, social media și branding](https://substack.com/@techtonikanewsletter)
 - [CreativeMornings Bucharest](https://us13.campaign-archive.com/home/?u=3d6e931050353807b7396f503&id=1d5df12e44)
 - [Sibelius Seraphini](https://sibelius.substack.com/archive)
+- [Addy Osmani](https://addyo.substack.com/archive)
+- [Aron Korenblit (AirTable; Automation)](https://aatt.io/newsletter)
 
 
 # Buddhism
@@ -490,6 +492,7 @@
 - [Catalin Cimpanu; Adam Boileau; Patrick Gray](https://riskybiznews.substack.com/archive)
 - [Chris Sanders - Applied Network Defense](https://us1.campaign-archive.com/home/?u=90ed94a6ae7d713c89e6416ad&id=9b4e0b20b3)
 - [Xavier Santolaria](https://infosec-mashup.santolaria.net/archive?sort=new)
+- [IoT Security Foundation](https://us11.campaign-archive.com/home/?u=1c8e267bc33ff2e1060cb572c&id=35004ce63e)
 
 # Tool
 

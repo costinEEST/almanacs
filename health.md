@@ -48,6 +48,7 @@
 - https://www.inc.com/jessica-stillman/the-further-you-wander-happier-you-will-be-new-study-says.html
 - https://knowablemagazine.org/article/mind/2022/how-brain-calculates-quick-escape
 - https://theconversation.com/when-critical-thinking-isnt-enough-to-beat-information-overload-we-need-to-learn-critical-ignoring-198549
+- https://www.amenclinics.com/blog/these-5-physical-activities-improve-brain-health
 
 # Book
 
@@ -170,6 +171,7 @@
 - [A Solution to Alzheimer's and Aging? Rapamycin and it's potential](https://mykigai.substack.com/p/a-solution-to-alzheimers-and-aging)
 - https://inquisitivebiologist.com/2022/12/05/book-review-the-world-the-plague-made-the-black-death-and-the-rise-of-europe
 - https://henryaj.substack.com/p/how-to-treat-restless-legs-syndrome
+- [Feeling Anxious? Journaling Might Help](https://archive.ph/6zvZ7)
 
 # Drug
 
