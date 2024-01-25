@@ -690,6 +690,7 @@
 # Debugging
 
 - https://mmazzarolo.com/blog/2022-02-16-track-down-the-javascript-code-responsible-for-polluting-the-global-scope
+- https://buer.haus/2024/01/16/reversing-and-tooling-a-signed-request-hash-in-obfuscated-javascript 
 
 # Opinion
 

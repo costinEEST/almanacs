@@ -1,4 +1,4 @@
-### Authentication
+# Authentication
 
 - https://twitter.com/siaw23/status/1541028458838507520
 - https://github.com/ChrisBr/oauth2-sample-app
@@ -7,7 +7,7 @@
 - [Authentication for your Rails app without the icky-ness of passwords](https://github.com/mikker/passwordless)
 - [An authentication system generator for Rails applications](https://github.com/lazaronixon/authentication-zero)
 
-### API
+# API
 
 - https://dmitrytsepelev.dev/talks/2021-05-28-high-performance-graphql.html
 - https://dev.to/knowndecimal/being-restful-about-your-routes-1gmf
@@ -39,7 +39,7 @@
 - https://github.com/googleapis/google-api-ruby-client
 - [Seamlessly adds a Swagger to Rails-based API's](https://github.com/rswag/rswag)
 
-### Algorithm
+# Algorithm
 
 - [Ruby algorithms and data structures. C extensions](https://github.com/kanwei/algorithms)
 - https://github.com/TheAlgorithms/Algorithms-Explanation + https://github.com/TheAlgorithms/Ruby
@@ -47,7 +47,7 @@
 - https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby
 - [Ruby Data Structures and Algorithms by Christopher Fox](https://github.com/foxcjmu/rubyDataStructures)
 
-### Book
+# Book
 
 - https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby
 - [The reference for writing fantastic Rails applications](https://books.thoughtbot.com/books/ruby-science.html)
@@ -79,11 +79,11 @@
 - https://github.com/pinzonjulian/poodr-notes
 - https://github.com/tomstuart/computationbook + https://computationbook.com/contents
 
-### Boilerplate
+# Boilerplate
 
 - https://github.com/the-teacher/rails7-startkit
 
-### Cheat sheet
+# Cheat sheet
 
 - https://devtut.github.io/ruby
 - https://github.com/rubocop/rails-style-guide
@@ -119,12 +119,12 @@
 - https://github.com/davidgf/design-patterns-in-ruby
 - https://github.com/stars/davidteren/lists/templates
 
-### Bot
+# Bot
 
 - [A bot that tweets every time there's a new executive order published](https://github.com/jessicard/exec_orders)
 - [Create agents that monitor and act on your behalf](https://github.com/huginn/huginn)
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PL55SPnO0U2H3Am21MYgNcviYLzJ0bFv3J
 - [Matt Stopa](https://m.youtube.com/@MattStopaDev/playlists) + https://github.com/MattStopa/Coding-Casts-Code
@@ -168,7 +168,7 @@
 - https://github.com/pinzonjulian/all_you_need_is_rails_engines
 - [Indexing all Ruby related videos](https://github.com/adrienpoly/rubyvideo)
 
-### Course
+# Course
 
 - https://www.udemy.com/course/ruby-on-rails-api-the-complete-guide
 - https://www.theodinproject.com/paths/full-stack-ruby-on-rails
@@ -176,7 +176,7 @@
 - [Full Stack Ruby on Rails Development Bootcamp | APPSIMPACT Academy](https://m.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPPu)
 - [Rails course for University of Texas Students](https://schneems.com/ut-rails)
 
-### Community
+# Community
 
 - [Newsletters](newsletters.md#ruby)
 - https://www.reddit.com/r/ruby/comments/zdcqpo/rubyists_on_mastodon
@@ -234,11 +234,11 @@
 - https://github.com/CalvinWalzel/ruby-companies
 - https://github.com/alexrudall/awesome-ruby-ai
 
-### Compiler
+# Compiler
 
 - https://www.thomascountz.com/2019/09/08/entry-level-compiler
 
-### Debug
+# Debug
 
 - https://st0012.dev/from-byebug-to-ruby-debug + https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa
 - https://blog.heroku.com/tidying-ruby-object-allocations
@@ -265,7 +265,7 @@
 - https://blog.testdouble.com/talks/2022-08-22-debugging-ruby-on-rails-with-vscode
 - [dev-tool for rails, to improve your rails log](https://github.com/y-takey/rails-dashboard)
 
-### Deploy
+# Deploy
 
 -https://github.com/markodenic/web-development-resources#hosting
 
@@ -285,7 +285,7 @@
 - [Has anybody deployed their Rails apps to https://fly.io?](https://twitter.com/bradgessler/status/1554464283085492226) + https://twitter.com/bradgessler/status/1563226936184164352 + https://greg.nokes.name/2022/08/25/heroku-removing-free-teir + https://blog.replit.com/heroku-alternatives
 - https://www.johnhawthorn.com/2018/01/this-website-is-a-makefile
 
-### Gem
+# Gem
 
 - [Ruby's default & bundled gems: The new standard library](https://github.com/janlelis/stdgems) + https://nts.strzibny.name/ruby-stdlib-default-bundled-gems + https://gist.github.com/boue/9540965
 - https://github.com/oldmoe/litestack
@@ -342,7 +342,7 @@
 - [Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource](https://github.com/brycejohnston/agroclimatology)
 - [Implementing if in Ruby without using keywords](https://github.com/mudge/if)
 
-### Inspire
+# Inspire
 
 - https://github.com/eliotsykes/real-world-rails + https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference
 - https://github.com/gramantin/awesome-rails#open-source-rails-apps
@@ -376,7 +376,7 @@
 - [federated social network built on Ruby on Rails and lots of JS](https://github.com/diaspora/diaspora)
 - [Evernote clone that uses a Rails backend with a React frontend](https://github.com/imahungrypanda/PandaNote)
 
-### Internals
+# Internals
 
 - https://rubyreferences.github.io/rubychanges/evolution.html
 - https://stackoverflow.com/questions/22827566/ruby-parameters-by-reference-or-by-value/22827949#22827949
@@ -416,7 +416,7 @@
 - https://blog.yossarian.net/2019/06/09/Pipelines-in-Ruby-with-Open3
 - [there are so many great things in 3.2](https://twitter.com/paracycle/status/1605706226007941122)
 
-### Opinion
+# Opinion
 
 - [Rails for the API and Next.js for the front-end](https://twitter.com/kwuchu/status/1525871984936161281)
 - https://www.schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made
@@ -435,7 +435,7 @@
 - https://blog.yossarian.net/2015/09/28/Five-Things-I-Hate-About-Ruby
 - https://shopify.engineering/building-resilient-payment-systems
 
-### Pattern
+# Pattern
 
 - [Design Patterns in Ruby](https://m.youtube.com/playlist?list=PLBhH0uX92r6oP8r-oSY_b8_2EnK0Z1Fkz)
 - https://postmodern.github.io/blog/2010/10/01/list-comprehensions-in-ruby.html
@@ -446,7 +446,7 @@
 - https://github.com/hexdevs/ruby-best-practices-list
 - https://github.com/JuanitoFatas/Ruby-Functional-Programming/blob/master/README-EN.md
 
-### Practice
+# Practice
 
 - https://github.com/planetruby/quiz
 - https://github.com/alexpeattie/letsencrypt-fromscratch
@@ -473,7 +473,11 @@
 - https://github.com/sampritipanda/adventofcode
 - https://github.com/erikw/advent-of-code-solutions
 
-### Tool
+# Static site 
+
+- https://github.com/brikis98/yevgeniy-brikman-homepage
+
+# Tool
 
 - [Listen to your favorite Youtube channels as audio podcasts offline.](https://github.com/sergio-fry/youtube-fetcher)
 - https://ankane.org/ruby-ml-for-python-coders
@@ -505,7 +509,7 @@
 - [install historic Ruby versions since ruby-0.49](https://github.com/akr/all-ruby)
 - https://github.com/syrnick/Various-tools-for-birdwatching
 
-### Testing
+# Testing
 
 - [My favorite books on Ruby/Rails testing](https://twitter.com/fpsvogel/status/1552294842318966789)
 - https://books.thoughtbot.com/books/testing-rails.html
@@ -551,14 +555,14 @@
 - https://github.com/betterspecs/betterspecs
 - https://lucaguidi.com/2015/11/17/effective-tdd-with-ruby-tmux-setup
 
-### Radio
+# Radio
 
 - https://www.nadiaodunayo.com/writing/2016/03/31/how-did-the-ruby-book-club-podcast-start
 - https://www.frameworkfriends.com/episodes/origin-stories
 - https://andymaleh.blogspot.com/2022/05/ruby-rogues-podcast-interview-desktop.html
 - https://www.rubyforall.com/episodes/reading-source-code-with-daniel-colson
 
-### Security
+# Security
 
 - https://github.com/ankane/production_rails
 - https://twitter.com/snyff/status/1477809743431303168
@@ -580,11 +584,11 @@
 - https://andycroll.com/ruby/beware-of-raw-erb
 - https://medium.com/@plenumlab/identifying-and-exploiting-unsafe-deserialization-in-ruby-97c7cbd6c05d
 
-### Server
+# Server
 
 - [Ruby, Ractor, QUIC](https://rubykaigi.org/2021-takeout/presentations/yu_suke1994.html)
 
-### Scrapping
+# Scrapping
 
 - [Ruby gem to inspect completely a web page. It scrapes a given URL, and returns you its meta, links, images](https://github.com/davidesantangelo/webinspector)
 - https://kevinjmurphy.com/posts/scraping-buy
@@ -596,7 +600,7 @@
 - https://github.com/robbi5/german-gov-domains
 - https://github.com/weshatheleopard/rutube-downloader-ruby
 
-### Static generator
+# Static generator
 
 - https://github.com/ciconia/noteflakes.com
 - https://github.com/pawelpacana/nanoc-github
