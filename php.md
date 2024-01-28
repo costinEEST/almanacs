@@ -1,16 +1,16 @@
-### Authentication
+# Authentication
 
 - https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com
 
-### API
+# API
 
 - [Library for accessing NOAA's National Weather Service](https://github.com/cristianradu/simple-nws)
 
-### Algorithm
+# Algorithm
 
 - https://github.com/doganoo/PHPAlgorithms
 
-### Book
+# Book
 
 - [Building modern applications with PHP 8.1](https://front-line-php.com) + https://spatie.be/videos/front-line-php
 - https://leanpub.com/phptherightway
@@ -18,13 +18,13 @@
 - https://www.bartlettpublishing.com/site/2019/12/18/new-video-series-on-building-scalable-web-applications
 - https://leanpub.com/first-php-docker-application
 
-### Cheat sheet
+# Cheat sheet
 
 - https://github.com/smknstd/modern-php-cheatsheet
 - https://github.com/hgraca/explicit-architecture-php
 - https://www.markhesketh.com/switching-multiple-php-versions-on-macos
 
-### Cinema
+# Cinema
 
 - [Building a blog with Laravel 7 and Voyager ~ Bobby Iliev](https://m.youtube.com/playlist?list=PLY7SzAmnEqp6bOl-AehM9dX3UKlxTjMVD)
 - https://m.youtube.com/c/CarlosBuenosvinosZamora/playlists
@@ -38,42 +38,43 @@
 - [Anatomy of a PHP Request | Herman J. Radtke, Joel Salas](https://docs.google.com/presentation/d/1F8SZlAzM0ZZLgIDk8B7WInMxSqLsXXRH9VyPfEGL_ZU)
 - https://github.com/phptodayorg/php-must-watch
 
-### Community
+# Community
 
 - [Caleb Porzio](https://twitter.com/calebporzio/status/1620066458687651842)
 
-### Historic
+# Historic
 
 - https://marianposaceanu.com/articles/programming-archaeology-phps-dollar-sigil
 
-### Inspire
+# Inspire
 
 - https://github.com/aaronpk/oauth.net
 - [Secure Backend Server for Web, Mobile & Flutter Developers AKA the 100% open-source Firebase alternative](https://github.com/appwrite/appwrite)
+- [GPS Tracker platform for Sinotrack, Coban, Concox, Jimilab, OsmAnd and Queclink devices built with Laravel 10 + PHP 8.1 and MySQL 8](https://github.com/eusonlito/GPS-Tracker)
 
-### Patterns
+# Patterns
 
 - https://github.com/kamranahmedse/design-patterns-for-humans
 - https://github.com/domnikl/DesignPatternsPHP
 - http://ilyes.me/orm/doctrine/symfony/design/database/2018/02/22/ORM-is-not-ROM.html
 
-### Object injection
+# Object injection
 
 - [Intro to PHP Deserialization / Object Injection](https://youtu.be/HaW15aMzBUM)
 - https://karmainsecurity.com/exploiting-an-nday-vbulletin-php-object-injection
 
-### Package
+# Package
 
 - [CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very usefull when you're sending emails.](https://github.com/tijsverkoyen/CssToInlineStyles)
 - [A simple class that allows for querying a web server for information about a resource, w/o actually downloading that file or document](https://github.com/pes10k/PES-HTTP-Info)
 
-### Practice
+# Practice
 
 - https://codeopinion.com/php-upload-large-file-bug
 - https://github.com/jmolivas/symfony-certification-guide
 - [Setup an Apache, MySQL & PHP local server using Docker](https://gist.github.com/Eyal-Shalev/1b747a0ce47ae3123fe30e0635567803)
 
-### Tool
+# Tool
 
 - http://xml.mherman.org
 - https://github.com/ddev/awesome-ddev
@@ -95,11 +96,11 @@
 - https://fly.io/laravel-bytes/invoice-pdf-generation-with-browsershot
 - [blog template powered by Markdown and PHP](https://github.com/Ooggle/dead-simple-blog)
 
-### Scrapping
+# Scrapping
 
 - https://github.com/win3zz/Facebook-Album-Downloader
 
-### Security
+# Security
 
 - https://github.com/mm0r1/exploits
 - [From memory corruption to disable_functions bypass](https://twitter.com/binitamshah/status/1226793423014772737)
@@ -137,7 +138,7 @@
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f
 - https://github.com/W0rty/libcurl-crlf
 
-### Miscellaneous
+# Miscellaneous
 
 - [Wikipedia replaced its markup parser in JavaScript with PHP and made faster.](https://phabricator.wikimedia.org/phame/post/view/189/parsoid_in_php_or_there_and_back_again)
 - https://www.synacktiv.com/ressources/modern_php_security_sec4dev.pdf
@@ -167,6 +168,6 @@
 - [A platform to create documentation/wiki content built with Laravel](https://github.com/BookStackApp/BookStack)
 - [Librarie PHP pentru verificarea in API ANAF a contribuabililor care sunt inregistrati conform art. 316 din Codul Fiscal](https://github.com/itrack/anaf)
 
-### Opinion
+# Opinion
 
 - [Why are so many PHP projects moving to Node?](https://news.ycombinator.com/item?id=34536041)
