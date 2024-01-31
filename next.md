@@ -42,7 +42,38 @@
 - https://mikebifulco.com/posts/self-healing-urls-nextjs-seo
 - https://www.builder.io/blog/nextjs-14-layouts-templates
 
-# Inspire
+
+# Deploy
+
+- [Next.js SPA example with dynamic client-only routing and static hosting](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
+- https://whiskeywebandwhatnot.fm/nextjs-vercel-and-subscription-models
+- [Deploy a Next.js app to Github Pages via Github Actions](https://github.com/gregrickaby/nextjs-github-pages)
+
+# Internals
+
+- [Deep Dive: Caching and Revalidating](https://github.com/vercel/next.js/discussions/54075)
+- https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js
+
+# Opinion
+
+- https://bradgarropy.com/blog/next-over-remix
+- https://twitter.com/ImSh4yy/status/1671251883913285632
+- https://www.felixvemmer.com/blog/why-next-js
+- https://practicalprogrammatic.com/blog/programmatic-seo-in-nextjs
+
+# Package
+
+- https://github.com/garmeeh/next-seo
+- [WordPress-like CMS](https://github.com/CromwellCMS/Cromwell)
+- https://github.com/ekmas/neobrutalism-components
+- [A turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio](https://github.com/TimMikeladze/next-upload)
+
+# Serverless
+
+- [Serverless Web Applications with React and Next.js](https://github.com/scastiel/job-board-book-example)
+
+
+# Static site
 
 - [An open-source link shortener with built-in analytics + free custom domains](https://github.com/steven-tey/dub)
 - https://github.com/healeycodes/healeycodes.com
@@ -74,35 +105,7 @@
 - https://github.com/igor47/blog
 - https://github.com/mbrodt/portfolio-v3
 - https://github.com/seanoliver/seanoliver-dot-dev
-
-# Deploy
-
-- [Next.js SPA example with dynamic client-only routing and static hosting](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
-- https://whiskeywebandwhatnot.fm/nextjs-vercel-and-subscription-models
-- [Deploy a Next.js app to Github Pages via Github Actions](https://github.com/gregrickaby/nextjs-github-pages)
-
-# Internals
-
-- [Deep Dive: Caching and Revalidating](https://github.com/vercel/next.js/discussions/54075)
-- https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js
-
-# Opinion
-
-- https://bradgarropy.com/blog/next-over-remix
-- https://twitter.com/ImSh4yy/status/1671251883913285632
-- https://www.felixvemmer.com/blog/why-next-js
-- https://practicalprogrammatic.com/blog/programmatic-seo-in-nextjs
-
-# Package
-
-- https://github.com/garmeeh/next-seo
-- [WordPress-like CMS](https://github.com/CromwellCMS/Cromwell)
-- https://github.com/ekmas/neobrutalism-components
-- [A turn-key solution for integrating Next.js with signed & secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio](https://github.com/TimMikeladze/next-upload)
-
-# Serverless
-
-- [Serverless Web Applications with React and Next.js](https://github.com/scastiel/job-board-book-example)
+- https://github.com/Yago/yago.github.io
 
 # Testing
 

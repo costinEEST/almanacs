@@ -531,7 +531,7 @@
 
 - [Patrick Loeber](https://patrickloeber.substack.com/archive)
 - [David Beazley](https://buttondown.email/dabeaz/archive)
-- [Allen Downey](https://substack.com/profile/149965273-allendowney)
+- [Allen Downey](https://allendowney.substack.com/archive)
 - [Seth Michael Larson](https://buttondown.email/sethmlarson/archive)
 
 # Ruby

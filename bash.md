@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [Cybersecurity Ops with Bash: Attack, Defend, and Analyze from the Command Line](https://github.com/cybersecurityops/cyber-ops-with-bash)
 - https://legacy.gitbook.com/book/learnbyexample/command-line-text-processing/details
@@ -14,7 +14,7 @@
 - https://github.com/onceupon/Bash-Oneliner
 - https://licenciaparahackear.github.io/en/posts/filtrando-mis-contactos-del-celular-con-awk
 
-### Cheat sheet
+# Cheat sheet
 
 - https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html
 - https://github.com/k4m4/terminals-are-sexy
@@ -47,21 +47,22 @@
 - https://marekfort.me/posts/importance-of-dotfiles
 - http://redsymbol.net/articles/bash-exit-traps
 - https://github.com/jonahsnider/setup-linux
+- https://github.com/tokland/tokland/blob/master/google-books/download_google_book.sh
 
-### Cinema
+# Cinema
 
 - [Bash for Beginners | MicrosoftDeveloper](https://m.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l)
 - https://scriptingosx.com/bash
 - https://scriptingosx.com/practical
 - https://scriptingosx.com/zsh
 
-### Course
+# Course
 
 - https://app.pluralsight.com/paths/skill/shell-scripting-with-bash-and-z-shell
 - https://github.com/lhunath/guide.bash.academy
 - https://m.youtube.com/playlist?list=PLYQSCk-qyTW0d88jNocdi_YIFMA5Fnpug
 
-### TIL
+# TIL
 
 - [Running a user script through cron](http://www.federicopereiro.com/script-cron)
 - [How big is your node_modules? (du -sh node_modules)](https://twitter.com/cpojer/status/1231602883759616000)
@@ -97,11 +98,11 @@
 - [How to reduce the node_modules folder size?](https://twitter.com/Raynos/status/1436655636125736962)
   ־ https://darekkay.com/blog/rss-subscriber-count
 
-### Security
+# Security
 
 - https://adityatelange.in/blog/revshells
 
-### Tool
+# Tool
 
 - [Resource monitor that shows usage and stats for processor, memory, disks, network and processes.](https://github.com/aristocratos/bashtop)
 - [Feed the hundreds of millions of domains in the Common Crawl to zgrab.](https://github.com/lsb/zgrab-the-web)

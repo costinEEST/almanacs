@@ -445,6 +445,7 @@
 - https://github.com/jordansissel/software-patterns
 - https://github.com/hexdevs/ruby-best-practices-list
 - https://github.com/JuanitoFatas/Ruby-Functional-Programming/blob/master/README-EN.md
+- https://github.com/tokland/tokland/wiki/RubyFunctionalProgramming
 
 # Practice
 
@@ -508,6 +509,7 @@
 - [A book review tool for Leanpub's Markdown Book Format](https://github.com/radar/twist-v2)
 - [install historic Ruby versions since ruby-0.49](https://github.com/akr/all-ruby)
 - https://github.com/syrnick/Various-tools-for-birdwatching
+- [Convert YAML to CSV (and backward)](https://github.com/tokland/yaml2csv)
 
 # Testing
 
