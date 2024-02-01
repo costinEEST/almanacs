@@ -44,6 +44,7 @@
 
 - https://github.com/macshome/The-Wisdom-of-Quinn
 - [macOS/iOS automation](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw)
+- https://macops.ca/links
 
 # Development
 

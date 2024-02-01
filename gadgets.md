@@ -125,6 +125,8 @@
 - https://catid.io/posts/tools
 - https://uses.craftz.dog
 - https://sunnysingh.io/blog/wfh-setup
+- https://thomasthornton.cloud/2023/08/01/my-ultimate-home-office-setup-a-journey-of-productivity
+- https://vzilla.co.uk/vzilla-blog/the-shedquarters-my-office-setup-2024
 
 # Webcam
 
