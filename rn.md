@@ -93,6 +93,7 @@
 - https://github.com/talknagish/react-native-turbo-starter
 - https://medium.com/ocp-digital-factory/how-react-native-became-performant-as-native-with-the-new-architecture-6e678c3178aa
 - https://nshipster.com/javascriptcore
+- [Have you ever wondered how React Native's FPS monitor works?](https://twitter.com/o_kwasniewski/status/1749741571182854519)
 
 # Tool
 

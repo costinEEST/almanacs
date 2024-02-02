@@ -45,6 +45,7 @@
 - [Art Encounters](https://us16.campaign-archive.com/home/?u=cd70916bf40ec27923e03d12b&id=da1f465d55)
 - [Muzeul National al Satului "Dimitrie Gusti"](https://us14.campaign-archive.com/home/?u=dd2c1b16b5fa0d63306852eb6&id=b4772db6b7)
 - [Smarthistory](https://us5.campaign-archive.com/home/?u=38a3e3ed47b6308af0c1fa25f&id=9595a77e8e)
+- https://substack.com/@jamesgurney/posts + https://www.facebook.com/groups/403006076777641
 
 # Artificial intelligence
 

@@ -190,6 +190,7 @@
 - https://github.com/tylerault/flashdetect
 - https://infosec.zeyu2001.com/2023/from-xs-leaks-to-ss-leaks + https://twitter.com/terjanq/status/1686701251080097792 + https://gist.github.com/terjanq/33bbb8828839994c848c3b76c1ac67b1
 - https://egghead.io/tips/embed-pdfs-in-html-with-embed-iframe-and-object-tags
+- https://en.wikipedia.org/wiki/Thoughts_on_Flash
 
 # <script></script>
 

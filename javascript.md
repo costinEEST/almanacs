@@ -37,6 +37,7 @@
 - https://github.com/vaidehijoshi/basecs-series
 - https://youtu.be/tkPHtSUJwMI
 - https://github.com/fkling/astexplorer
+- [A handbook on the unified ecosystem, including supported syntaxes, ASTs, and guides on how to use the libraries](https://github.com/unifiedjs/handbook)
 
 # Book
 

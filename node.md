@@ -371,6 +371,7 @@
 
 - [Upgrade a regular `net.Stream` connection to a secure `tls` connection](https://gist.github.com/TooTallNate/848444)
 - https://remysharp.com/2023/07/03/ip-to-timezone-the-30-second-way
+- [add new connection attempts events](https://github.com/nodejs/node/pull/51045)
 
 # `node:process`
 
