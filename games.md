@@ -120,6 +120,7 @@
 - [Build and Publish Roguelike Genre Games with JavaScript and Phaser](https://github.com/Apress/roguelike-development-javascript) + https://books2read.com/u/mZeXXe
 - [Build Your Own Flight Sim In C++ (DOS GameDev) by Michael Radtke & Chris Lampton](https://news.ycombinator.com/item?id=37358063)
 - https://andrewjakubowicz.me/posts/making-riko
+- https://www.freecodecamp.org/news/gorillas-game-in-javascript
 
 # The creators
 

@@ -112,6 +112,7 @@
 - [Addy Osmani](https://addyo.substack.com/archive)
 - [Aron Korenblit (AirTable; Automation)](https://aatt.io/newsletter)
 - https://benspring.com/archive (TryHackMe)
+- https://www.henrystanley.com/archive + https://henryaj.substack.com/archive
 
 
 # Buddhism
