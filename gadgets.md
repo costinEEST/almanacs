@@ -127,6 +127,7 @@
 - https://sunnysingh.io/blog/wfh-setup
 - https://thomasthornton.cloud/2023/08/01/my-ultimate-home-office-setup-a-journey-of-productivity
 - https://vzilla.co.uk/vzilla-blog/the-shedquarters-my-office-setup-2024
+- https://evaparish.com/blog/2018/8/4/why-i-love-my-smart-light-setup-and-how-you-can-have-one-too
 
 # Webcam
 
