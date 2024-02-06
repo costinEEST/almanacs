@@ -4,6 +4,7 @@
 - https://electrokits.ro/carti-electronica-c-4/carti-electronica-ro-c-4_5/tanarul-audioamator-p-639.html
 - http://bazavan.ro/2022/02/carti-pentru-autorii-de-podcast
 - https://github.com/amilajack/reading/tree/master/Audio
+- [Book of Audacity. Record, Edit, Mix, and Master with the Free Audio Editor | Carla Schroder](https://nostarch.com/audacity.htm)
 
 # Cinema
 

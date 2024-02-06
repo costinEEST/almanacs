@@ -497,6 +497,7 @@
 - [Chris Sanders - Applied Network Defense](https://us1.campaign-archive.com/home/?u=90ed94a6ae7d713c89e6416ad&id=9b4e0b20b3)
 - [Xavier Santolaria](https://infosec-mashup.santolaria.net/archive?sort=new)
 - [IoT Security Foundation](https://us11.campaign-archive.com/home/?u=1c8e267bc33ff2e1060cb572c&id=35004ce63e)
+- [Joseph Thacker (rez0)](https://thacker.beehiiv.com)
 
 # Tool
 
