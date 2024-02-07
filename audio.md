@@ -6,14 +6,6 @@
 - https://github.com/amilajack/reading/tree/master/Audio
 - [Book of Audacity. Record, Edit, Mix, and Master with the Free Audio Editor | Carla Schroder](https://nostarch.com/audacity.htm)
 
-# Cinema
-
-- [Sound Design | Aidin Robbins](https://m.youtube.com/playlist?list=PLWPee627x2SbTbBub80dqKxM4pvQxUrx2)
-- https://m.youtube.com/c/TomasGeorge/playlists
-- [Web Audio Conf](https://m.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw/playlists)
-- [Building Collaborative Music Apps](https://m.youtube.com/watch?v=TCVuLh5Io9A)
-- [Understanding Sound & Speakers](https://m.youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub)
-
 # Community
 
 - [sounds of Mexico City’s streets](https://pudding.cool/2022/09/cdmx)
@@ -59,6 +51,15 @@
 
 - [An ode to the short but influential life of the audio cassette](https://adjacentpossible.substack.com/p/prescient-obsolescence)
 - [History of Artificial Sound | Technology Connections](https://m.youtube.com/playlist?list=PLv0jwu7G_DFUYPuDoKWCUy33lL9LnMBGX)
+
+# Netflix
+
+- [Sound Design | Aidin Robbins](https://m.youtube.com/playlist?list=PLWPee627x2SbTbBub80dqKxM4pvQxUrx2)
+- https://m.youtube.com/c/TomasGeorge/playlists
+- [Web Audio Conf](https://m.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw/playlists)
+- [Building Collaborative Music Apps](https://m.youtube.com/watch?v=TCVuLh5Io9A)
+- [Understanding Sound & Speakers](https://m.youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub)
+- [Audacity saga](https://m.youtube.com/playlist?list=PLRjzjpJ02WDMDm0ko6VtSPfoUJBUWwNHy)
 
 # Tool
 
