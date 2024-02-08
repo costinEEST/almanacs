@@ -596,6 +596,7 @@ javascript: (() =>
 - [A library for capturing web page self screenshots](https://github.com/TomasHubelbauer/selfie)
 - https://bkardell.com/blog/OffscreenCanvas.html
 - https://github.com/mattdesl/workshop-generative-art
+- [An Underrated Way To Learn Programming: Generative Art](https://carltheperson.com/posts/artgen)
 - https://github.com/psenough/teach_yourself_demoscene_in_14_days
 - [procedurally generated fish drawings](https://github.com/LingDong-/fishdraw)
 - https://github.com/bubkoo/html-to-image

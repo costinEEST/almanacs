@@ -11,11 +11,10 @@
 - https://github.com/linuxboot/book
 - https://www.freecodecamp.org/news/how-to-install-arch-linux
 - https://digital.com/best-website-builders/linux
-- https://twitter.com/AlSweigart/status/1524772876490006533
 - [The Linux Programming Interface](https://twitter.com/littledan/status/1550352392356372480)
 - [The Linux Memory Manager](https://ljs.io/book.html)
 - https://thevalleyofcode.com/linux
-- [The Linux Kernel Module Programming Guide (updated for 5.x kernels)](https://github.com/sysprog21/lkmpg) + https://twitter.com/mishmashru/status/1667472263975694336
+- [The Linux Kernel Module Programming Guide (updated for 5.x kernels)](https://github.com/sysprog21/lkmpg) + https://twitter.com/mishmashru/status/1667472263975694336 or [Linux Device Drivers 3](https://github.com/martinezjavier/ldd3)
 
 
 # Cheat sheet
@@ -27,7 +26,7 @@
 - https://nelsonslog.wordpress.com/2020/02/21/upgrading-from-an-unsupported-ubuntu
 - https://www.thegeekdiary.com/understanding-proc-meminfo-file-analyzing-memory-utilization-in-linux
 - https://diablohorn.com/2014/02/27/qp-stop-video-recording-your-command-line-i-want-to-grep-it
-- Linux Command Line Dojo with Hal Pomeranz: [slides](http://www.deer-run.com/~hal/CLDojo.pdf) + [video](https://m.youtube.com/watch?v=-jNkjuWMFrk)
+- Linux Command Line Dojo with Hal Pomeranz: [slides](http://www.deer-run.com/~hal/CLDojo.pdf) + [video](https://m.youtube.com/watch?v=-jNkjuWMFrk) + https://deer-run.com/users/hal/cldojo/ + http://blog.commandlinekungfu.com
 - https://ma.ttias.be/different-ways-of-writing-crontab-syntax
 - [Linux Distributions Timeline.](https://github.com/FabioLolix/LinuxTimeline)
 - https://github.com/kmille/linux-debugging
@@ -53,15 +52,12 @@
 - https://github.com/razvand/posix-system-programming
 - https://github.com/razvand/linux-fundamentals + https://github.com/razvand/linux-advanced
 - Hal Pomeranz - Linux Forensics Intro: [archive.org](https://archive.org/details/HalLinuxForensics) + [torrent](https://ia801406.us.archive.org/6/items/HalLinuxForensics/HalLinuxForensics_archive.torrent) + [oneDrive](https://onedrive.live.com/?authkey=%21AG%5FKRwGLhvEVVgM&id=83C438C3CA7085EF%211480&cid=83C438C3CA7085EF)
-- https://github.com/cirosantilli/x86-bare-metal-examples
-- [NDG Linux Essentials 0220 wr](https://373583482.netacad.com/courses/974184)
 - https://blcsystems.com/red-hat-free-courses
 - https://www.reddit.com/r/linuxupskillchallenge + https://news.ycombinator.com/item?id=24380969
 - [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux) + https://news.ycombinator.com/item?id=26002335
 - https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation
 - https://www.freecodecamp.org/news/linux-essentials-for-hackers
 - https://www.udemy.com/course/concepts-of-operating-systems
-- https://www.udemy.com/course/rhcsa-certified-system-administrator-red-hat-tests-2022
 - https://github.com/snori74/linuxupskillchallenge
 - https://www.freecodecamp.org/news/introduction-to-linux
 

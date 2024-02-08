@@ -218,6 +218,7 @@
 
 - https://github.com/juanelas/bigint-crypto-utils
 - [BigInt supports bitwise operations](https://m.webtoo.ls/@lukastaegert/109882130362687971)
+- https://dra.vin/#/endian
 
 # `eval`
 
