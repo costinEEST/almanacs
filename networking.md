@@ -367,7 +367,7 @@
 
 # Internet Message Access Protocol (IMAP)
 
-- 
+- [Your Phone app has an email client](https://iter.ca/post/phone-email)
 
 # Kermit protocol
 

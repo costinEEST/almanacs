@@ -341,6 +341,7 @@
 - https://github.com/erikthedeveloper/code-review-emoji-guide
 - [Get color palettes from emojis](https://github.com/anubra266/emoji-palette)
 - [Unicode Text Analyzer](https://www.fontspace.com/unicode/analyzer)
+- [Writing semantic ASCII](https://iter.ca/post/ascii)
 
 # Watch
 

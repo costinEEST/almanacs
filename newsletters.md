@@ -193,6 +193,7 @@
 - [Socialist History Society](https://us13.campaign-archive.com/home/?u=11ee562272eabf15d59e3d9ad&id=d0961f0fd9)
 - [Coffee With A Codex | Schoenberg Institute for Manuscript Studies](https://us20.campaign-archive.com/home/?u=41f7f3e3835c1e02e1ba9bef8&id=e8635aaa19)
 - [David Miano, ancient historian](https://us4.campaign-archive.com/home/?u=e99ae3bea84a5e4d7a50deb5f&id=1355526a6d)
+- [Orel Beilinson](https://orel.substack.com/archive)
 
 # Hardware
 
