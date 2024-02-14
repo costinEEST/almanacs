@@ -61,6 +61,7 @@
 - https://blog.dend.ro/recovering-information-pdf-map
 - https://nora.codes/post/pdf-embedding-attacks
 - https://github.com/mozilla/pdf.js/wiki/Additional-Learning-Resources
+- [Tracking PDF forms as plain text](https://iter.ca/post/fdf)
 
 # .png
 

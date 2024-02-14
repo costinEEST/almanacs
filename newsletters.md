@@ -333,6 +333,7 @@
 - https://dataelixir.com
 - [Giuseppe Sollazzo](https://buttondown.email/puntofisso/archive)
 - [Nadieh Bremer](https://us11.campaign-archive.com/home/?u=93770d48b5e782a113e79d58a&id=f97d3c6eec)
+- [William Lyon](https://buttondown.email/lyonwj/archive)
 
 # Database
 
