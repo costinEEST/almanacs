@@ -194,6 +194,7 @@
 - [Coffee With A Codex | Schoenberg Institute for Manuscript Studies](https://us20.campaign-archive.com/home/?u=41f7f3e3835c1e02e1ba9bef8&id=e8635aaa19)
 - [David Miano, ancient historian](https://us4.campaign-archive.com/home/?u=e99ae3bea84a5e4d7a50deb5f&id=1355526a6d)
 - [Orel Beilinson](https://orel.substack.com/archive)
+- [Genealogy, history and culture of the Sephardim, focused on the Spanish and Portuguese Jewish diaspora](https://us12.campaign-archive.com/home/?u=15233972a829161e2c117fb4a&id=d3e884d2c5)
 
 # Hardware
 
