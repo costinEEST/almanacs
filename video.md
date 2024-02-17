@@ -20,6 +20,13 @@
 - [Illegal streams, decrypting m3u8's, and building a better stream experience](https://blog.jonlu.ca/posts/illegal-streams)
 - https://stuartk.com/posts/whats-the-best-html-video-format-to-serve
 
+# Opinion
+
+- https://rudism.com/a-proposal-for-a-decentralized-youtube-alternative
+- [Before you upload your first course on udemy | Alireza Aliabadi](https://m.youtube.com/watch?v=nBpDXFz67pA)
+- [Screenflow](https://twitter.com/nathanstocks/status/1586017083879436288)
+- [The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders](https://wrv.github.io/h26forge.pdf)
+
 # Tool
 
 - https://www.twilio.com/blog/open-source-video-apps-reactjs-ios-android
@@ -82,10 +89,6 @@
 - [Sidecar to Frigate to identify the species of the birds that Frigate detects](https://github.com/mmcc-xx/WhosAtMyFeeder)
 - https://dev.to/ninofiliu/simple-screen-recorder-in-20-lines-of-javascript-4ina
 - https://kamilogorek.com/blog/downloading-youtube-watch-later-playlist
+- https://tools.pwnfunction.com 
 
-# Opinion
 
-- https://rudism.com/a-proposal-for-a-decentralized-youtube-alternative
-- [Before you upload your first course on udemy | Alireza Aliabadi](https://m.youtube.com/watch?v=nBpDXFz67pA)
-- [Screenflow](https://twitter.com/nathanstocks/status/1586017083879436288)
-- [The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders](https://wrv.github.io/h26forge.pdf)
