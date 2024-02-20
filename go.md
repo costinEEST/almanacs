@@ -84,6 +84,7 @@
 - https://github.com/ardanlabs/gotraining
 - https://github.com/jub0bs/go-course-advanced
 - https://github.com/bootdotdev/curriculum
+- [A series of interactive lessons teaching Go](https://github.com/solarwinds/golessons)
 
 # Community
 

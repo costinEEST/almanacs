@@ -79,6 +79,7 @@
 - https://github.com/pinzonjulian/poodr-notes
 - https://github.com/tomstuart/computationbook + https://computationbook.com/contents
 
+
 # Boilerplate
 
 - https://github.com/the-teacher/rails7-startkit
@@ -557,6 +558,7 @@
 - [A list of predefined devices for your tests with Capybara](https://github.com/renuo/so_many_devices)
 - https://github.com/betterspecs/betterspecs
 - https://lucaguidi.com/2015/11/17/effective-tdd-with-ruby-tmux-setup
+- https://github.com/pirj/real-world-rspec
 
 # Radio
 

@@ -159,6 +159,7 @@
 # Java
 
 - [Artur Skowronski](https://vived.substack.com/archive)
+- [Kent Beck](https://tidyfirst.substack.com/archive)
 
 # Javascript
 
@@ -563,6 +564,7 @@
 - [Andy Atkinson: PostgreSQL, Rails, RoR](https://us3.campaign-archive.com/home/?u=e41bf915471ba36d210444e0d&id=d5e090a16c)
 - [Lucian Ghinda](https://newsletter.shortruby.com/archive)
 - [David Bryant Copeland](https://buttondown.email/davetron5000/archive)
+- [Kelly Sutton](https://buttondown.email/kellysutton/archive)
 
 
 # Rust
@@ -598,7 +600,7 @@
 - [Luke Burgis](https://archive.feedblitz.com/1110672) + https://read.lukeburgis.com/archive
 - [Jordan B. Peterson](https://us6.campaign-archive.com/home/?u=3c53a4d9fc927f570cf437952&id=a434e81da0)
 
-# Speak
+# Polyglot
 
 - [LearnHebrew.TV](https://us12.campaign-archive.com/home/?u=bbfadccb964a11c5a7a496a64&id=d4ec934372)
 - [Spanish and Go](https://us14.campaign-archive.com/home/?u=272e33053f331a3b490eee682&id=98bc997016)
@@ -606,6 +608,7 @@
 - https://colingorrie.substack.com/archive
 - [Colin Gorrie & Natasha Lipman](https://howdoyousay.substack.com/about)
 - [Judith Meyer](https://learnlangs.substack.com/archive)
+- [Joe Previte](https://speakargentinianspanish.beehiiv.com)
 
 # Travel
 

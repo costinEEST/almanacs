@@ -182,6 +182,7 @@ javascript: (() =>
 - [Extension source viewer](https://github.com/Rob--W/crxviewer)
 - https://github.com/jxnl/youtube-summary-chrome
 - [A new tab page extension with material design and useful features](https://github.com/Alexays/Epiboard)
+- https://github.com/OsaSoft/youtube-better-subscriptions
 - [Uncovering a crazy privilege escalation from Chrome extensions](https://0x44.xyz/blog/cve-2023-4369/index.html) + https://twitter.com/deryilz/status/1724506569973416282
 - https://github.com/msfrisbie/spy-extension + https://mattfrisbie.substack.com/p/spy-chrome-extension
 - [Encrypt Gmail with PGP](https://github.com/FlowCrypt/flowcrypt-browser)
