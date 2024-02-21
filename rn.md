@@ -32,6 +32,7 @@
 - [The Bluesky Social application for Web, iOS, and Android](https://github.com/bluesky-social/social-app)
 - https://github.com/jeromedalbert/real-world-react-native
 - [The simplest, safest, and most powerful self-custodial crypto wallet](https://github.com/Uniswap/wallet)
+- [Track expenses effortlessly. No servers, no cloud - your data stays on your device using MongoDB Realm. Choose themes, manage categories, and sync seamlessly. Features: account creation, expense tracking, category modification, insightful analytics, debt tracking](https://github.com/indranilbhuin/zero)
 
 # Cinema
 

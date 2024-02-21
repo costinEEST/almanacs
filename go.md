@@ -206,6 +206,7 @@
 - [Connect your HTTP servers to Tailscale](https://github.com/j-f1/tailproxy)
 - [Azure DevOps command line tool](https://github.com/tmeckel/azdo-cli)
 - [App for your terminal that allows you to read, follow and save posts from development blogs from lots of companies](https://github.com/ezeoleaf/tblogs)
+- [CLI for printing HTTP Response as JSON](https://github.com/yusukebe/rj)
 
 # Radio
 

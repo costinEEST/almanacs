@@ -165,6 +165,7 @@
 
 - [Alex Kotliarskyi](https://us3.campaign-archive.com/home/?u=96d6ac29ef7232f76b9edc7b9&id=79380afc5b)
 - [Rebecca Murphey](https://rmurphey.substack.com/archive)
+- Sébastien Lorber: https://thisweekinreact.com/newsletter
 
 # Judaism
 
@@ -385,7 +386,6 @@
 - [Jon Kuperman](https://buttondown.email/jkup/archive)
 - [Xavier Decuyper](https://newsletter.savjee.be/#archive)
 - [Alex Kondov](https://us2.campaign-archive.com/home/?u=fca75767fa83fa3473478b4ca&id=495bb9068f)
-- [Sébastien Lorber](https://www.getrevue.co/profile/thisweekinreact)
 - [Jess Martin](https://buttondown.email/jessmartin/archive) + https://twitter.com/jessmartin/status/1409591067960217606
 - [Tiffany B. Brown](https://us3.campaign-archive.com/home/?u=037a097fa1d20e54a1766eb27&id=8d41e6a106)
 - [Joe Previte](https://www.getrevue.co/profile/jsjoeio)
@@ -502,6 +502,7 @@
 - [Xavier Santolaria](https://infosec-mashup.santolaria.net/archive?sort=new)
 - [IoT Security Foundation](https://us11.campaign-archive.com/home/?u=1c8e267bc33ff2e1060cb572c&id=35004ce63e)
 - [Joseph Thacker (rez0)](https://thacker.beehiiv.com)
+- https://github.com/TalEliyahu/awesome-security-newsletters
 
 # Tool
 
