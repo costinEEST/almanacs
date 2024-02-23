@@ -63,6 +63,7 @@
 - https://github.com/tweag/awesome-learning-haskell
 - https://wiki.haskell.org/Roll_your_own_IRC_bot
 - https://github.com/rbaron/advent-of-code-2017
+- https://github.com/petertseng/adventofcode-hs-2023
 
 # Radio
 

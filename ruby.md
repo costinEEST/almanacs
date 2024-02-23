@@ -472,6 +472,7 @@
 - https://daniel-azuma.com/blog/2021/05/04/discord-command-in-ruby-on-google-cloud-functions-part-4
 - https://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app
 - https://github.com/petertseng/adventofcode-rb-2019
+- https://github.com/petertseng/adventofcode-rb-2023
 - https://github.com/sampritipanda/adventofcode
 - https://github.com/erikw/advent-of-code-solutions
 
