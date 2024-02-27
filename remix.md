@@ -25,12 +25,13 @@
 - https://sergiodxa.com/articles/improve-seo-by-not-sending-js-in-remix
 - https://www.jacobparis.com/content/where-to-host-remix
 
-# Inspire 
-
-- https://github.com/schalkneethling/schalkneethling.com
-- https://github.com/emilpriver/portfolio-remix
-
 # Opinion
 
 - https://bradgarropy.com/blog/remix-simplifies-things
 - https://redd.one/blog/my-struggle-with-remix
+
+# Static site 
+
+- https://github.com/schalkneethling/schalkneethling.com
+- https://github.com/emilpriver/portfolio-remix
+- https://github.com/brophdawg11/brophy.org
