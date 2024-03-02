@@ -57,7 +57,7 @@
 - [Emil Wallner](https://www.emilwallner.com/archive)
 - [Josh Dance](https://mythicalai.substack.com/archive)
 - [Anita Kirkovska](https://anita.beehiiv.com)
-- [Louis-François Bouchard](https://us1.campaign-archive.com/home/?u=718cbf5d31c54f8ad6cd39551&id=9481bc612c)
+- Louis-François Bouchard: https://us1.campaign-archive.com/home/?u=718cbf5d31c54f8ad6cd39551&id=9481bc612c, https://louisbouchard.substack.com/archive
 - [Sebastian Raschka](https://magazine.sebastianraschka.com/archive)
 - [What are your favorite machine learning blogs or newsletters?](https://twitter.com/chrisalbon/status/1533463005320515584)
 - [Hassan El Mghari](https://nutlope.substack.com/archive)
@@ -239,6 +239,7 @@
 - [Dylan Patel](https://www.semianalysis.com/archive)
 - [Handsoff Investor](https://handsoff.substack.com/archive)
 - [Sven Carlin](https://us18.campaign-archive.com/home/?u=83ab4ea650b8ab076b2ca4981&id=0163a06b72)
+- [Matt Gamber](https://mattbiotech.substack.com/archive)
 
 # iOS
 
