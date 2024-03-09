@@ -171,6 +171,10 @@
 
 - [Jewish Studies at Fordham University](https://us13.campaign-archive.com/home/?u=f000ad8783f4985c05ec1a11c&id=df05eee35a)
 
+# Linguist
+
+- [Dan Ungureanu](https://baricadaromania.substack.com/archive)
+
 # Biology
 
 - https://csvoss.substack.com/archive
@@ -305,6 +309,10 @@
 # Philosophy
 
 - [Andrei Vasilachi](https://podcastmeditatii.com/aboneaza)
+
+# Physics
+
+- [Albert Spinosa's electronic class room](https://us20.campaign-archive.com/home/?u=435cabd49941ed5a86341ca5b&id=4ff60e904c)
 
 # Design
 
@@ -483,6 +491,7 @@
 # Psychology
 
 - [Radu Umbreș](https://iscoada.substack.com/archive)
+- https://danielpink.substack.com/archive
 
 # Security
 
