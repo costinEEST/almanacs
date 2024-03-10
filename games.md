@@ -50,6 +50,7 @@
 - https://github.com/SaraVieira/lets-play-retro-games
 - https://github.com/kheeyaa/Snack-Games
 - https://github.com/stars/bennycode/lists/html5-games
+- [JavaScript/WebGL Mario Kart](https://github.com/Lunakepio/Mario-Kart-3.js)
 
 # Mobile based
 

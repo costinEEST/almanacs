@@ -186,6 +186,7 @@
 - [Cornell Lab of Ornithology](https://us2.campaign-archive.com/home/?u=b35ddb671faf4a16c0ce32406&id=47588b5758)
 - [Genspace NYC](https://us4.campaign-archive.com/home/?u=3734c324839c706a50b52473a&id=29c1eef386)
 - https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature
+- [Lex Pelger](https://www.cannabinoidsandthepeople.whitewhalecreations.com/archive)
 
 # Go
 

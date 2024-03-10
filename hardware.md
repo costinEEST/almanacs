@@ -123,6 +123,7 @@
 
 # Chip
 
+- https://blog.robertelder.org/how-to-make-a-cpu
 - https://siliconpr0n.org
 - https://github.com/bobeff/programming-math-science#hardware
 - https://www.theinformation.com/articles/amazon-steps-up-silicon-ambitions-with-new-networking-chip
@@ -131,12 +132,22 @@
 - https://www.cnbc.com/2021/08/24/bosch-says-semiconductor-supply-chains-in-car-industry-no-longer-work.html
 - http://blog.notdot.net/2012/10/Build-your-own-FPGA
 - [Code for Bruno Levy's learn-fpga tutorial written in Amaranth HDL](https://github.com/bl0x/learn-fpga-amaranth)
-- https://blog.robertelder.org/how-to-make-a-cpu
 - [Intel | Advent Of Computing](https://m.youtube.com/playlist?list=PLoKM3Qfxoe0mQOLtmoufTAv5-pqVU0sVm)
 - https://www.udemy.com/course/introduction-to-arm-cortex-m3-and-m4-processors
 - https://www.wired.com/story/intel-lab-istare-hack-chips
 - https://m.youtube.com/c/ZeroToASIC
 - [Starlink UT modchip](https://twitter.com/LennertWo/status/1558378348732026881)
+- [Very-large-scale integration systems](http://sandsoftwaresound.net/courseware/vlsi-systems)
+- http://sandsoftwaresound.net/courseware/computer-design
+- [The first exascale supercomputer in the Top500](https://www.top500.org/lists/top500/2022/06)
+- [My business card runs Linux, yours can too](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
+- [Building a CPU on an FPGA | Robert Baruch](https://m.youtube.com/playlist?list=PLEeZWGE3PwbZ44SUf1-vA-UuX9_J_pifB)
+- https://github.com/danbev/learning-fpga
+- https://hackaday.com/2022/09/28/the-first-microcomputer-the-q1
+- https://hackaday.com/2022/09/23/exploring-texas-instruments-forgotten-cpu
+- [A CPU implemented in a modular synthesizer](https://github.com/katef/eurorack-cpu)
+- https://github.com/stars/pamoroso/lists/intel-8080
+- [CPU vs (GP)GPU](https://yurichev.org/GPU)
 
 # Diode
 
@@ -203,19 +214,7 @@
 - [web-based CPUID decoder and visualiser](https://github.com/gsuberland/web-cpuid)
 - [visual programming language for teaching about logic gates](https://github.com/pranavnt/logiclights)
 
-# Microprocessor
 
-- [Very-large-scale integration systems](http://sandsoftwaresound.net/courseware/vlsi-systems)
-- http://sandsoftwaresound.net/courseware/computer-design
-- [The first exascale supercomputer in the Top500](https://www.top500.org/lists/top500/2022/06)
-- [My business card runs Linux, yours can too](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
-- [Building a CPU on an FPGA | Robert Baruch](https://m.youtube.com/playlist?list=PLEeZWGE3PwbZ44SUf1-vA-UuX9_J_pifB)
-- https://github.com/danbev/learning-fpga
-- https://hackaday.com/2022/09/28/the-first-microcomputer-the-q1
-- https://hackaday.com/2022/09/23/exploring-texas-instruments-forgotten-cpu
-- [A CPU implemented in a modular synthesizer](https://github.com/katef/eurorack-cpu)
-- https://github.com/stars/pamoroso/lists/intel-8080
-- [CPU vs (GP)GPU](https://yurichev.org/GPU)
 
 # Miscellaneous
 
@@ -228,6 +227,7 @@
 - [Lasersaur -- open source laser cutter](https://github.com/nortd/lasersaur)
 - https://github.com/hardenedlinux/firmware-anatomy/blob/master/hack_ME/hw_security.md
 - [USB in a NutShell](https://www.beyondlogic.org/usbnutshell/usb1.shtml)
+- [The confusing world of USB](https://fabiensanglard.net/nousb/index.html) + https://fabiensanglard.net/usbcheat/index.html
 - https://youtu.be/mPF9f-PLDPc + https://mg.lol/blog/data-blocker-teardown + https://shop.hak5.org/collections/mischief-gadgets/products/omg-cable or https://www.crowdsupply.com/sutajio-kosagi/tomu
 - [Building A Jank UART to USB Cable From Scavenged Parts](https://github.com/francisrstokes/githublog/releases/tag/3)
 - https://shkspr.mobi/blog/2020/05/building-a-physical-blink-tag
