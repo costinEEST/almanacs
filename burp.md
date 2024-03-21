@@ -43,6 +43,7 @@
 - [Request minimizer will hide cookies from HTTP requests](https://twitter.com/osiryszzz/status/1648296175894925312)
 - https://github.com/honoki/burp-digitalocean-droplet-proxy
 - https://www.crackcodes.in/2023/06/top-10-burpsuite-extensions-you-must.html
+- https://danaepp.com/detecting-api-endpoints-and-source-code-with-js-miner
 
 ### Watch
 

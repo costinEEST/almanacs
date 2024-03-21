@@ -59,6 +59,10 @@
 - [Which SVG technique performs best for way too many icons?](https://cloudfour.com/thinks/svg-icon-stress-test)
 - [A cheatsheet for various SVG based SSRF methods](https://github.com/allanlw/svg-cheatsheet)
 
+# Security
+
+- https://cofense.com/blog/svg-files-abused-in-emerging-campaigns
+
 # Tool
 
 - [Make nice animated diagrams.](https://twitter.com/jlongster/status/1247530020928499714)

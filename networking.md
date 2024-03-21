@@ -57,6 +57,10 @@
 - [computer networks on docker | Sergiu Nisioi](https://github.com/senisioi/computer-networks)
 - [Rețele Locale](https://ocw.cs.pub.ro/courses/rl)
 
+# Local area network (LAN)
+
+- [Detect signs of compromise by monitoring network flows transmitted by a device, with a Suricata detection engine](https://github.com/SpyGuard/SpyGuard)
+
 # Tool
 
 - https://www.chappell-university.com/lauras-lab

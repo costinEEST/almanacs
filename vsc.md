@@ -1,11 +1,11 @@
-### Cinema
+# Cinema
 
 - [Visual Studio Code Setup series | Zell Liew](https://m.youtube.com/playlist?list=PLht38HefjmzGWN0CUHGqjliTSuhXFTDG5)
 - https://www.udemy.com/course/mastering-visual-studio-code
 - https://chrissev.gumroad.com/l/productive-vs-code
 - VS Code Livestreams: https://code.visualstudio.com/livestream, https://m.youtube.com/c/Code/videos
 
-### Extension
+# Extension
 
 - [Poimandres is a minimal, frameless dark-theme inspired mostly by blueberry](https://github.com/drcmda/poimandres-theme)
 - https://www.stefanjudis.com/snippets/a-vs-code-extensions-manifest
@@ -15,8 +15,10 @@
 - https://github.com/RefactorSecurity/vscode-security-notes
 - https://github.com/tecosaur/LaTeX-Utilities
 - [Turn TypeScript errors into plain English](https://github.com/mattpocock/ts-error-translator)
+- Collaborative code-reviewing tool. Features: bookmark code regions for findings and notes, mark files as reviewed, share findings across multiple users, create preformatted GitHub issues: https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension + https://marketplace.visualstudio.com/items?itemName=trailofbits.weaudit
+- Real-time collaboration during manual code analysis, with a focus on Infrastructure as Code. It uses Semgrep and custom rulesets to find code sections that are IaC-relevant, and generate an infrastructure diagram. It also offers features like real-time collaboration, note-taking, and integration with Semgrep: https://blog.doyensec.com/2024/01/30/poiex-release.html
 
-### Miscellaneous
+# Miscellaneous
 
 - https://m.youtube.com/watch?v=oeFLeAs3plM&list=PLWIcRrPLCdUethIDPGPwe-Lqnw1J8hzsX
 - https://github.com/viatsko/awesome-vscode
@@ -50,7 +52,7 @@
 - https://alexisvigoureux.medium.com/double-shift-key-in-visual-studio-code-eaef156b493f
 - https://bitfieldconsulting.com/golang/vs-code-go
 
-### Tool
+# Tool
 
 - https://vscode.dev
 - https://makevscodeawesome.com
