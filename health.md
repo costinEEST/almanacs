@@ -226,6 +226,7 @@
 - https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side
 - https://shehackspurple.ca/2023/06/04/wehackhealth-getting-better-sleep
 - https://hubermanlab.com/toolkit-for-sleep
+- https://news.ycombinator.com/item?id=39723704 + https://jamanetwork.com/journals/jama/fullarticle/2816616
 
 # Fitness
 

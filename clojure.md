@@ -48,3 +48,4 @@
 - [Building a SaaS with Clojure & ClojureScript (Reitit, PSQL, shadow-cljs, tailwindcss)](https://m.youtube.com/live/QEqMoySD9uc?feature=share) +
 - https://twitter.com/borkdude/status/1614299598134153217 + [How startups can move fast with Clojure](https://youtu.be/MZy-SNswH2E)
 - [Development environment for Clojure that facilitates interactivity and exploration](http://cloxp.github.io/cloxp-intro.html) + https://www.youtube.com/playlist?list=PLLz9NM_eflp764auTgaVWtV0USTaC2AE6
+- https://yogthos.net/posts/2020-04-08-advantages-of-data-oriented-programming.html

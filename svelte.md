@@ -44,6 +44,7 @@
 - https://github.com/yashash-pugalia/win11-svelte + https://twitter.com/Rich_Harris/status/1657097805733715987
 - https://github.com/PuruVJ/macos-web + https://twitter.com/leeerob/status/1382422353787817985
 - [Open-source developer platform to turn scripts into workflows and UIs; alternative to Airplane and Retool](https://github.com/windmill-labs/windmill)
+- [A SvelteKit template for building CMS-free editable websites](https://github.com/michael/editable-website)
 
 # Miscellaneous
 

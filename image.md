@@ -86,6 +86,7 @@
 - [Photo Sharing For Everyone - A free and ethical photo sharing platform](https://pixelfed.org)
 - https://time.com/6234958/top-100-photos-2022
 - https://flashbak.com/first-naked-kiss-eadweard-muybridge-61902
+- https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html + https://news.ycombinator.com/item?id=39710454
 
 # Security
 

@@ -77,6 +77,7 @@
 
 - https://www.maxkohler.com/posts/calendar-links
 - https://danburzo.ro/canonical-sharing
+- https://kizu.dev/nested-links + https://twitter.com/iamakulov/status/1767119545033216090
 
 # <address></address>
 
