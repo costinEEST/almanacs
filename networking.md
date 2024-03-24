@@ -140,14 +140,11 @@
 - https://kyk13.com/antennas-for-helium
 - https://github.com/stevesong/awesome-connectivity-info
 - https://singularityhub.com/2021/05/23/nikola-tesla-5g-network-could-realize-his-dream-of-wireless-electricity
-- [What I learned of the VOIP hacker scene by setting up a SIP Honeypot](https://shufflingbytes.com/posts/sip-honeypot)
 - https://github.com/W00t3k/Awesome-Cellular-Hacking
 - [tools to facilitate the analysis of the DJI drone WiFi communication protocol](https://github.com/Toemsel/dji-wifi-tools)
 - https://www.logsign.com/blog/warxing-in-cyber-security
 - [Cellular | cemaxecuter](https://m.youtube.com/playlist?list=PLXjRrYsXOd9fJZbM-k2M_SaBmRGMsJS2u)
 - https://sensepost.com/blog/2022/sim-hijacking
-- https://onmyway133.com/posts/learning-voip-rtp-and-sip-aka-awesome-pjsip
-- https://github.com/onmyway133/awesome-voip
 - [Learning VoWifi, VoLTE, and IMS](https://worthdoingbadly.com/vowifi)
 - https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade + https://twitter.com/zekjur/status/1517872128602914816
 - [How amazing is it that GPS actually works?](https://twitter.com/martinkl/status/1524684941216395264)
@@ -518,3 +515,10 @@
 - https://www.n00py.io/2019/06/understanding-unc-paths-smb-and-webdav
 - https://blog.kanbach.org/post/firewalls-under-the-hood-ufw
 - https://www.jdno.dev/designing-a-new-home-server
+
+# Voice over Internet Protocol (VoIP)
+
+- [NumberBarn](https://nelsonslog.wordpress.com/2024/03/23/no-landline-for-a-month-is-great)
+- https://onmyway133.com/posts/learning-voip-rtp-and-sip-aka-awesome-pjsip
+- https://github.com/onmyway133/awesome-voip
+- [What I learned of the VOIP hacker scene by setting up a SIP Honeypot](https://shufflingbytes.com/posts/sip-honeypot)

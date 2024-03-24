@@ -310,6 +310,7 @@
 # Philosophy
 
 - [Andrei Vasilachi](https://podcastmeditatii.com/aboneaza)
+- [Mahmoud Rasmi](https://decafquest.substack.com/archive)
 
 # Physics
 

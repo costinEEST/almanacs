@@ -612,6 +612,11 @@ javascript: (() =>
 - https://goteleport.com/blog/how-passwordless-works
 - https://betterappsec.com/a-medium-dive-into-web-application-authentication-342d1d002a61
 - https://denhoff.ca/posts/webauthn-by-id-android
+- https://duo.com/blog/webauthn-passwordless-fido2-explained-componens-passwordless-architecture
+- https://fidoalliance.org/fido2-2/fido2-web-authentication-webauthn
+- https://secfense.com/blog/fido2-authentication-explained
+- https://www.youtube.com/watch?v=SWocv4BhCNg + https://fidoalliance.org/passkeys
+- https://nelsonslog.wordpress.com/2024/03/22/passkeys-still-awkward-in-mar-2024-android-chrome-windows-1password + https://nelsonslog.wordpress.com/2024/03/23/passkeys-try-two
 
 # WebGL
 
