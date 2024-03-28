@@ -98,6 +98,10 @@
 - https://github.com/burningtree/awesome-json
 - https://github.com/nayyyhaa/movies-and-shows-api
 
+# Music 
+
+- https://gist.github.com/0xdevalias/eba698730024674ecae7f43f4c650096
+
 # Weather
 
 ```

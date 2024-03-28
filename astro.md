@@ -30,6 +30,7 @@
 - https://github.com/beerose/aleksandra.codes
 - https://github.com/nikolovlazar/nikolovlazar.com
 - https://github.com/o-t-w/blog
+- https://github.com/salolivares/salolivares.com
 
 # Opinion
 
