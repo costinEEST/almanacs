@@ -97,6 +97,7 @@ javascript: (() =>
 - https://www.macarthur.me/posts/when-dom-updates-appear-to-be-asynchronous
 - [random overflowing element](https://carbon.now.sh/nZLVj2OK0WPlLILIXn4E)
 - https://blog.andri.co/022-should-i-use-ecode-or-ekey-when-handling-keyboard-events
+- https://noncombatant.org/2017/11/07/problems-of-urls
 
 # new IntersectionObserver()
 

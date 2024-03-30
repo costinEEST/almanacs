@@ -1,19 +1,19 @@
-### Application
+# Application
 
 - [Offline map app iOS/Android](https://github.com/Akylas/alpimaps)
 
-### Book
+# Book
 
 - [A Guide to Spatial History: Areas, Aspects, and Avenues of Research | Konrad Lawson, Riccardo Bavaj, Bernhard Struck](https://twitter.com/kmlawson/status/1479117587363491850)
 - [Cartography ~ Kenneth Field](https://vivqu.com/blog/2020/06/16/engineering-and-maps)
 
-### Course
+# Course
 
 - [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)
 - https://twitter.com/undertheraedar/status/1240191782790496256
 - https://m.youtube.com/c/PlanetizenCourses/playlists
 
-### Demo
+# Demo
 
 - https://wardle.puntofisso.net
 - [A Web-based map of timezones as they are at a point in time. ](https://github.com/dbaron/timezone-map)
@@ -42,7 +42,7 @@
 - [retro places you can visit around the world](http://retro.directory)
 - [TimeMap instance for Civilian Harm in Ukraine](https://github.com/bellingcat/ukraine-timemap)
 
-### Cinema
+# Cinema
 
 - https://somethingaboutmaps.wordpress.com/2020/03/19/how-to-do-map-stuff
 - https://www.openculture.com/2022/05/how-did-cartographers-create-world-maps-before-airplanes-and-satellites-an-introduction.html
@@ -54,8 +54,9 @@
 - https://tchayen.com/fetching-data-from-the-open-street-maps
 - https://github.com/kachkaev/tooling-for-how-old-is-this-house
 - https://blog.meain.io/2022/self-hosted-location-history + https://github.com/OwnTracks
+- https://nelsonslog.wordpress.com/2024/03/30/openstreetmap-temporary-road-closures
 
-### Miscellaneous
+# Miscellaneous
 
 - https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01
 - https://edition.cnn.com/2020/11/19/world/first-global-map-bee-species-scn-trnd/index.html
@@ -75,7 +76,7 @@
 - https://bigthink.com/strange-maps/omnesviae-roman-roads-map
 - https://notes.alinpanaitiu.com/Fetching-land-coordinates-from-Romania's-Geoportal
 
-### Radio
+# Radio
 
 - http://stevenseegel.com
 - https://newbooksnetwork.com/mark-monmonier-connections-and-content-reflections-on-networks-and-the-history-of-cartography-esri-press-2019
