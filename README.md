@@ -80,6 +80,7 @@
 - [Haskell](haskell.md)
 - [Health](health.md)
 - [History](history.md)
+- [HTMX](htmx.md)
 - [HTML](html.md)
 - [Internet of money](iom.md)
 - [iOS](ios.md)

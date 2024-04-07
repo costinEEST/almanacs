@@ -1,15 +1,3 @@
-# Book
-
-- https://github.com/lambda-magic/plt-books/tree/master/Elixir
-- https://github.com/sger/ElixirBooks
-- https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot
-
-# Cinema
-
-- https://shyr.io/talks/blockchain-based-file-storage
-- https://m.youtube.com/c/AlchemistCamp/playlists
-- [Peter Ullrich](https://m.youtube.com/@peterandcode7476/playlists)
-
 # Course
 
 - https://github.com/leandrotk/functional-programming-learning-path/tree/master/elixir
@@ -17,6 +5,19 @@
 # Deploy
 
 - https://josephlozano.dev/blog/phoenix-side-project-deploy
+
+# Lecture
+
+- https://github.com/lambda-magic/plt-books/tree/master/Elixir
+- https://github.com/sger/ElixirBooks
+- https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot
+- https://blog.resonatehq.io/async-await-mechanics
+
+# Netflix
+
+- https://shyr.io/talks/blockchain-based-file-storage
+- https://m.youtube.com/c/AlchemistCamp/playlists
+- [Peter Ullrich](https://m.youtube.com/@peterandcode7476/playlists)
 
 # Practice
 
