@@ -172,6 +172,7 @@
 - https://inquisitivebiologist.com/2022/12/05/book-review-the-world-the-plague-made-the-black-death-and-the-rise-of-europe
 - https://henryaj.substack.com/p/how-to-treat-restless-legs-syndrome
 - [Feeling Anxious? Journaling Might Help](https://archive.ph/6zvZ7)
+- https://cursdeguvernare.ro/radonul-cauza-cresterii-numar-cancere-pulmonare-la-nefumatori.html 
 
 # Drug
 

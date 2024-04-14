@@ -26,6 +26,8 @@
 - https://www.audubon.org/news/the-2022-audubon-photography-awards-top-12-videos
 - https://www.tildecafe.org/2017/01/30/68-physics-bird-nests
 - https://www.mentalfloss.com/article/52624/11-things-we-know-about-dodo
+- https://www.allaboutbirds.org/cams + https://academy.allaboutbirds.org/course-list + https://dl.allaboutbirds.org/bayareafocusgroup + https://m.youtube.com/@cornell_lab/playlists?view=1&sort=lad&flow=grid + https://feederwatch.org/learn/common-feeder-birds + https://www.allaboutbirds.org/news/how-to-choose-the-right-kind-of-bird-feeder + https://www.allaboutbirds.org/news/wp-content/uploads/2009/04/BirdNote09-ProvideWater-2013-2021.pdf 
+- https://www.sor.ro/membri-expati-gerard-gorman-cunoscutul-specialist-in-ciocanitori
 
 # Crawler
 
@@ -59,6 +61,7 @@
 
 - https://www.scientificamerican.com/article/lost-genes-explain-vampire-bats-diet-of-blood
 - https://showme.missouri.edu/2022/feline-genetics-help-pinpoint-first-ever-domestication-of-cats-mu-study-finds
+- https://feederwatch.org/wp-content/uploads/2013/09/BirdNote11-Squirrels.pdf
 
 # Picture
 
