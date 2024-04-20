@@ -35,6 +35,7 @@
 - https://github.com/Apress/Kubernetes-Programming-with-Go-by-Philippe-Martin
 - https://www.manning.com/books/implementing-and-exploiting-cryptography
 - [Microservice Development with Clean Architecture & DDD in Golang](https://functionalbits.gumroad.com/l/bybtu)
+- https://www.manning.com/books/hacking-cryptography
 
 # Boot
 
@@ -85,6 +86,7 @@
 - https://github.com/jub0bs/go-course-advanced
 - https://github.com/bootdotdev/curriculum
 - [A series of interactive lessons teaching Go](https://github.com/solarwinds/golessons)
+- https://www.manning.com/liveprojectseries/go-and-external-apis
 
 # Community
 

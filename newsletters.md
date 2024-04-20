@@ -46,6 +46,7 @@
 - [Muzeul National al Satului "Dimitrie Gusti"](https://us14.campaign-archive.com/home/?u=dd2c1b16b5fa0d63306852eb6&id=b4772db6b7)
 - [Smarthistory](https://us5.campaign-archive.com/home/?u=38a3e3ed47b6308af0c1fa25f&id=9595a77e8e)
 - https://substack.com/@jamesgurney/posts + https://www.facebook.com/groups/403006076777641
+- [MutualArt](https://us1.campaign-archive.com/home/?u=e04307946bfd97f987ddef78d&id=0a9ce6ca24)
 
 # Artificial intelligence
 
@@ -474,6 +475,7 @@
 - [Nina Teicholz & Gary Taubes](https://unsettledscience.substack.com/archive)
 - [Be Keto Be happy](https://lacra.blog)
 - [Arthur Firstenberg](https://substack.com/@arthurfirstenberg/posts) + https://cellphonetaskforce.org/newsletters
+- https://renamalikmd.beehiiv.com
 
 # Linux OS
 
