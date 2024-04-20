@@ -14,6 +14,7 @@
 - [Animals](animals.md)
 - [Anki](anki.md)
 - [API](api.md)
+- [APL](apl.md)
 - [Apparel](apparel.md)
 - [Architecture](architecture.md)
 - [Assembly](asm.md)
