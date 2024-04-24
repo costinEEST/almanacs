@@ -14,6 +14,7 @@
 # Community
 
 - [Dean R. Lomax, paleontologist](https://www.deanrlomax.co.uk/Autobiography.html)
+- [Insects of Romania and Europe](https://www.facebook.com/groups/255115031327840/files/files)
 
 # Bird
 

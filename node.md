@@ -1,5 +1,6 @@
 # Authentication
 
+- https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F
 - https://www.nango.dev/blog/why-is-oauth-still-hard
 - [A passkey is a new way to sign in that works completely without passwords](https://www.passkeys.io) + https://twitter.com/tobi/status/1604846815060250626 + https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk
 - https://evertpot.com/jwt-is-a-bad-default
@@ -405,6 +406,7 @@
 - [Require in ESM mode](https://pvdz.ee/notes/184)
 - https://github.com/lukeed/resolve.exports
 - [Create graphs from your CommonJS, AMD or ES6 module dependencies](https://github.com/pahen/madge)
+- https://snyk.io/blog/building-npm-package-compatible-with-esm-and-cjs-2024
 
 # Event loop
 
@@ -598,6 +600,7 @@
 - https://richiemccoll.com/writing-tests-with-fastify-and-node-test-runner
 - https://github.com/aperezl/clean_architecture_tdd
 - https://hire.jonasgalvez.com.br/2023/jan/31/fastify-testing
+- https://polar.sh/anonrig/posts/node-js-task-runner
 
 # Scrapping
 

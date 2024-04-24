@@ -90,5 +90,6 @@
 - https://dev.to/ninofiliu/simple-screen-recorder-in-20-lines-of-javascript-4ina
 - https://kamilogorek.com/blog/downloading-youtube-watch-later-playlist
 - https://tools.pwnfunction.com 
+- [Youtube from the Linux CLI](https://gist.github.com/mlliarm/b1782000be744014a388dba5ac78cc05)
 
 

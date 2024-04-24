@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [Quantum Theory | David Bohm](https://m.youtube.com/watch?v=-bf9rxkBUHc&lc=UgxtGTVegzpRLat0LGZ4AaABAg)
 - [Introduction to Classical and Quantum Computing | Thomas G. Wong](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
@@ -12,7 +12,7 @@
 - [Quantum Mechanics | Leonard I. Schiff](https://twitter.com/curiouswavefn/status/1621578536128741377)
 - Introduction to Quantum Computing for Physicists: https://obm.physics.metu.edu.tr/intro-QC/courses/PHYS437/index.html + https://obm.physics.metu.edu.tr/intro-QC/courses/PHYS710/index.html
 
-### Cheat sheet
+# Cheat sheet
 
 - [Schrodinger Equation](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schr.html)
 - https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks
@@ -20,26 +20,27 @@
 - https://github.com/hsavit1/Awesome-Quantum-Computation
 - [Solutions of the QHack 2023 Quantum Coding Challenges](https://github.com/BillyLjm/QHack2023)
 
-### Community
+# Community
 
 - [Carlo Rovelli](https://www.cpt.univ-mrs.fr/~rovelli) + https://howtoacademy.com/podcasts/cornelia-parker-meets-carlo-rovelli-the-hidden-nature-of-things
 - https://davidson.weizmann.ac.il/en/online/sciencehistory/scientist-who-found-difference-between-quantum-particle-and-soccer-ball
 
-### News
+# News
 
 - https://www.newscientist.com/article/2320561-quantum-communication-system-could-detect-earthquakes
 - https://news.cgtn.com/news/2022-05-18/China-launches-its-first-quantum-encrypted-smartphone-1a7SMMT4wtG/index.html
 - https://www.techradar.com/news/major-quantum-computing-breakthrough-could-mean-the-revolution-is-here
 
-### Tool
+# Tool
 
 - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
 
-### Opinion
+# Opinion
 
 - [Light and Quantum Theory: how most physics texts get the explanation of photon emission deliberately wrong](https://www.bretthall.org/light)
+- [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024)
 
-### Watch
+# Watch
 
 - [Mithuna Yoganathan](https://m.youtube.com/user/LookingGlassUniverse/about)
 - [Centre for Quantum Technologies](https://m.youtube.com/c/quantumlah/playlists)

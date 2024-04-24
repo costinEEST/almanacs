@@ -448,6 +448,9 @@
 - [low latency, high throughput load balancer for real time stock market trade feed (using polygon.io websocket API)](https://matt.sh/load-balance-trades)
 - https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io
 - https://mmmds.pl/Damn-Vulnerable-Web-Sockets-walkthrough
+- https://www.leggetter.co.uk/real-time-web-technologies-guide + https://github.com/leggetter/realtime-web-technologies-guide + https://github.com/leggetter/realtime-app-dev-tips
+- https://lucumr.pocoo.org/2012/9/24/websockets-101
+- [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport (rxdb.info)](https://news.ycombinator.com/item?id=39745993)
 
 # Server-Sent Events (SSE)
 
