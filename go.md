@@ -87,6 +87,7 @@
 - https://github.com/bootdotdev/curriculum
 - [A series of interactive lessons teaching Go](https://github.com/solarwinds/golessons)
 - https://www.manning.com/liveprojectseries/go-and-external-apis
+- https://github.com/CodeYourFuture/immersive-go-course
 
 # Community
 

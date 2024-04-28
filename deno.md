@@ -10,12 +10,6 @@
 
 - [Announcing native npm support on Deno Deploy](https://deno.com/blog/npm-on-deno-deploy)
 
-# Inspire
-
-- https://github.com/thorwebdev/thor.bio
-- https://github.com/ry/tinyclouds
-- https://github.com/matklad/matklad.github.io + https://matklad.github.io/2023/11/07/dta-oriented-blogging.html
-
 # Opinion
 
 - https://deno.com/blog/you-dont-need-a-build-step
@@ -28,6 +22,13 @@
 
 - https://github.com/i-y-land/HTTP + https://www.youtube.com/playlist?list=PLgu2e1-3VZ6UpHCScuUx9GOA_3TYBdGTH
 - https://github.com/functionalland/functional-http-server 
+
+# Static site
+
+- https://github.com/thorwebdev/thor.bio
+- https://github.com/ry/tinyclouds
+- https://github.com/matklad/matklad.github.io + https://matklad.github.io/2023/11/07/dta-oriented-blogging.html
+- https://github.com/knowler/knowler.dev
 
 # Tool
 

@@ -78,6 +78,7 @@
 - https://www.amazon.com/Rapid-Rubyist-Matthew-Stopa-ebook/dp/B00DPQ5P24
 - https://github.com/pinzonjulian/poodr-notes
 - https://github.com/tomstuart/computationbook + https://computationbook.com/contents
+- https://pragprog.com/titles/d-frgen/frictionless-generators
 
 
 # Boilerplate
@@ -482,6 +483,8 @@
 - https://github.com/azlen/azlen.me
 - https://github.com/alexandru/alexn.org
 - https://github.com/KrauseFx/krausefx.com
+- https://github.com/davetron5000/naildrivin5.com
+- https://github.com/konnorrogers/personal-site
 
 # Tool
 

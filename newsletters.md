@@ -72,6 +72,7 @@
 - [Bakz T. Future](https://bakztfuture.substack.com/archive)
 - [WatSPEED at the University of Waterloo](https://us1.campaign-archive.com/home/?u=a4e41978223f65e337a68e25f&id=8e68d761f4)
 - https://substack.com/@tinahuang
+- [Dimitri Glazkov](https://whatdimitrilearned.substack.com/archive)
 
 # Book
 
@@ -338,6 +339,7 @@
 - [Pixellab: school based in Bucharest where you can learn graphic design, illustration, web development, UX/UI design and 3D](https://us9.campaign-archive.com/home/?u=ed130a842c2d148f6665e487c&id=1e60c1c70f)
 - [Ash Huang](https://buttondown.email/ashsmash/archive)
 - [Antonija Pek](https://buttondown.email/designparty/archive)
+- https://figmapluginweekly.substack.com/archive
 
 # Data visualization
 

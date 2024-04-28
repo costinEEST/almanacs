@@ -334,6 +334,7 @@
 - https://github.com/BlackFan/client-side-prototype-pollution
 - https://labs.withsecure.com/publications/prototype-pollution-primer-for-pentesters-and-programmers
 - https://github.com/HoLyVieR/prototype-pollution-nsec18
+- https://www.konnorrogers.com/posts/2023/listening-for-changes-to-an-element-property
 
 # Array.prototype
 

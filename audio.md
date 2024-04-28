@@ -60,6 +60,7 @@
 - [Building Collaborative Music Apps](https://m.youtube.com/watch?v=TCVuLh5Io9A)
 - [Understanding Sound & Speakers](https://m.youtube.com/playlist?list=PL6rx9p3tbsMvYWeYUTNuRNMLXn0eyJvub)
 - [Audacity saga](https://m.youtube.com/playlist?list=PLRjzjpJ02WDMDm0ko6VtSPfoUJBUWwNHy)
+- https://m.youtube.com/@randyrektor/playlists?view=1&sort=lad&flow=grid
 
 # Tool
 
