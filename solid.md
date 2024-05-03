@@ -20,3 +20,4 @@
 
 - https://github.com/stars/o-az/lists/solidjs
 - [A UI toolkit for building accessible web apps and design systems](https://github.com/kobaltedev/kobalte)
+- https://www.elian.codes/blog/24-04-30-astro-solidjs-devtools

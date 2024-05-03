@@ -1,6 +1,7 @@
 # Book
 
 - https://jennywen.ca/books
+- https://danielchasehooper.com/#books
 - [The Handbook of Healthcare Delivery Systems (reviewed by Gregory Schmidt)](https://m.youtube.com/playlist?list=PL7e8VJ_ZN6eqd8ceHTM3OYoThy21yIoJO)
 - https://www.amazon.com/Biomimicry-Innovation-Inspired-Janine-Benyus/dp/0060533226
 - https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879

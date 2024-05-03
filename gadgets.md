@@ -14,6 +14,7 @@
 # Desk
 
 - https://chaseinmotion.com/posts/successful-remote-working-from-home
+- [Discover the best desk setup ideas and inspiration](https://www.zetups.com)
 
 # Headphones
 

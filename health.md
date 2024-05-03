@@ -174,6 +174,7 @@
 - [Feeling Anxious? Journaling Might Help](https://archive.ph/6zvZ7)
 - https://cursdeguvernare.ro/radonul-cauza-cresterii-numar-cancere-pulmonare-la-nefumatori.html 
 - [Unul din cinci oameni va dezvolta o anumită formă de cancer în timpul vieții](https://www.who.int/news/item/01-02-2024-global-cancer-burden-growing--amidst-mounting-need-for-services#:~:text=In%202022%2C%20there%20were%20an,women%20die%20from%20the%20disease.)
+- [Schizophrenia: the trail of a parasite transmitted by cats](https://www.julienvenesson.fr/schizophrenie-toxoplasmose)
 
 # Drug
 

@@ -80,6 +80,7 @@
 - [query engine, which can be used to query any data source or combination of data sources: databases, APIs, raw files (JSON, CSV, etc.), git version control, etc](https://news.ycombinator.com/item?id=34705246) + https://github.com/obi1kenobi/trustfall + https://www.hytradboi.com/2022/how-to-query-almost-everything
 - Generate an ER Diagram based on your Prisma schema: https://github.com/keonik/prisma-erd-generator + https://github.com/Skn0tt/prisma-erd
 - [A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Trino, Presto, SAP HANA, Cassandra, Google BigQuery, SQLite, TiDB and many more via ODBC](https://github.com/sqlpad/sqlpad) + https://getsqlpad.com/en/introduction/#alternatives
+- https://turso.tech/blog/5-best-free-sqlite-gui
 
 # Security
 

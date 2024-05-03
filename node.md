@@ -644,6 +644,7 @@
 - [GoodReads API](https://github.com/phanan/phanan.net/blob/master/.functions/now-reading.js)
 - [Scrapes your GMail and Google Calendar data and returns it as a CSV for further analysis](https://github.com/benbalter/gmail-and-google-calendar-stats)
 - https://github.com/adriancooney/puppeteer-heap-snapshot + https://news.ycombinator.com/item?id=37047746
+- https://lev.engineer/blog/web-scraping-like-a-pro-unlocking-the-power-of-impersonation + https://www.codepasta.com/2024/04/19/optimizing-puppeteer-pdf-generation
 
 # Micro service
 

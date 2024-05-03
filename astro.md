@@ -16,6 +16,10 @@
 - https://zellwk.com/blog/overcoming-astro-styling-frustrations
 - https://gist.github.com/stormwild/9ee6250c9e03b4cf86e685cc9896f3d5
 
+# Community
+
+- https://github.com/florian-lefebvre
+
 # Inspire
 
 - https://github.com/ardeora/astro-tanstack-multiframework
@@ -31,6 +35,7 @@
 - https://github.com/nikolovlazar/nikolovlazar.com
 - https://github.com/o-t-w/blog
 - https://github.com/salolivares/salolivares.com
+- https://github.com/bholmesdev/whiteboard-the-web
 
 # Opinion
 

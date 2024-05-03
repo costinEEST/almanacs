@@ -73,6 +73,7 @@
 - https://github.com/ammarahm-ed/v8-jsi-benchmarks-ios
 - https://andadinosaur.com/new-in-web-inspector-updated-layout-search-html-and-network-responses
 - [A Python 3 class that reads and extracts files from a password-encrypted iOS backup created by iTunes on Mac and Windows. Compatible with iOS 14. Class works on Linux too](https://github.com/avibrazil/iOSbackup)
+- https://github.com/ios-dev-tools/awesome-ios-dev-tools
 
 # Security
 

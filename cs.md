@@ -179,6 +179,7 @@
 # Historic
 
 - https://webdevelopmenthistory.com/index
+- https://danielchasehooper.com/posts/good-ideas-in-cs
 - https://shape-of-code.com/tag/history
 - https://twobithistory.org/timeline.html
 - https://computerhistory.org/timelines

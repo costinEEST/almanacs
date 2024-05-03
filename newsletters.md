@@ -165,10 +165,12 @@
 
 # Javascript
 
+- [Nathan Lawson](https://astroweekly.beehiiv.com)
 - [Alex Kotliarskyi](https://us3.campaign-archive.com/home/?u=96d6ac29ef7232f76b9edc7b9&id=79380afc5b)
 - [Rebecca Murphey](https://rmurphey.substack.com/archive)
 - Sébastien Lorber: https://thisweekinreact.com/newsletter
 - [Bonnie Schulkin](https://handsonwebdev.substack.com/archive)
+- https://substack.com/@madsbrodt/posts
 
 # Judaism
 
@@ -392,7 +394,6 @@
 - [Josh Comeau](https://www.joshwcomeau.com/newsletter-issues/001)
 - [Vincent Voyer](https://nextjsnews.com)
 - [Softbinator Foundation](https://us2.campaign-archive.com/home/?u=a8f550154253f6574139ed3ae&id=7d076fb650)
-- [Mads Brodt](https://top3-in-tech.netlify.app) + https://substack.com/@madsbrodt/posts
 - [Jhey Tompkins](https://www.getrevue.co/profile/jh3y#archive)
 - https://github.com/zudochkin/awesome-newsletters
 - [Josh Sherman](https://us4.campaign-archive.com/home/?u=374a1419f1381c14c8bc92119&id=91dbdd5c9b)
@@ -536,12 +537,14 @@
 - [Marius Cosmeanu](https://savantgarde.substack.com/recommendations)
 - https://github.com/kilimchoi/engineering-blogs
 - [Niciodată Singur](https://us14.campaign-archive.com/home/?u=cad0073ae6ad1145fd74da462&id=fa795fc996)
+- https://github.com/jackbridger/developer-newsletters
 
 # Music
 
 - [Ted Gioia](https://tedgioia.substack.com/archive)
 - [Tango Inside Out](https://us7.campaign-archive.com/home/?u=c390736e46a85da405f68dc8e&id=8dbe36e52f)
 - [Pablo Estigarribia](https://us10.campaign-archive.com/home/?u=15496b952c60b9016788adea6&id=874e3cbe49)
+- [Alexandra Dariescu](https://us10.campaign-archive.com/home/?u=675e13126422d3c2cfe45539a&id=9e6e65035c)
 
 # Obsidian
 
@@ -551,6 +554,7 @@
 # PHP 
 
 - [Simon Holywell](https://us5.campaign-archive.com/home/?u=05c835f460cad2f954e351732&id=e06199684b)
+- [Maciek Palmowski](https://newsletter.maciekpalmowski.dev)
 
 # Python
 

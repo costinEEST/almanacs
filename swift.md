@@ -62,6 +62,8 @@
 - [Collin Cunningham](https://github.com/stars/CollinCunningham/lists/ios)
 - [Peter Friese](https://github.com/peterfriese?tab=stars)
 - [Karoy Lorentey](https://mastodon.social/@lorentey)
+- [Jordan Singer](https://twitter.com/jsngr)
+- [Natalia Panferova](https://twitter.com/natpanferova)
 
 # Development
 

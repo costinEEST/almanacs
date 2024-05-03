@@ -213,6 +213,8 @@
 # coercion
 
 - https://github.com/dorey/JavaScript-Equality-Table + [why you should prefer the `===` operator](https://github.com/slikts/js-equality-game)
+- https://github.com/denysdovhan/wtfjs
+- https://twitter.com/t3dotgg/status/1784360142672412812
 
 # `BigInt`
 

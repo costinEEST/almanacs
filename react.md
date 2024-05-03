@@ -564,3 +564,4 @@
 - https://github.com/gactjs/research/tree/main/react-instance-identity-model
 - https://electricui.com/blog/wishlist-for-a-react-compiler
 - [Glossary + Explain Like I'm Five](https://github.com/reactwg/react-18/discussions/46)
+- https://tigerabrodi.blog/reacts-evolution-from-hooks-to-concurrent-react

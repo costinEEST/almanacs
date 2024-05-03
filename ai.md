@@ -357,6 +357,7 @@
 
 # Opinion
 
+- https://www.privatdozent.co/p/the-birth-of-ai-1956
 - https://plugaru.org/2016/04/24/future-of-humanity-and-strong-AI
 - https://thinkml.ai/top-5-ai-achievements-of-2020
 - https://www.hyro.ai/post/gpt-3-vs-existing-conversational-ai-solutions

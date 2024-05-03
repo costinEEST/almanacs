@@ -17,3 +17,5 @@
 - https://greatestgreeks.wordpress.com/2016/05/02/michael-psellos
 - https://www.britannica.com/biography/Michael-Constantine-Psellus
 - https://neoskosmos.com/en/2011/08/17/dialogue/opinion/psellus-trakakis
+
+# https://en.wikipedia.org/wiki/Omar_Khayyam

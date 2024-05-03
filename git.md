@@ -23,6 +23,7 @@
 
 # Cheat sheet
 
+- [`git diff --no-index some-file some-other-file`](https://twitter.com/kamrify/status/1738799732439576864)
 - https://gitexplorer.com
 - https://github.com/webpro/awesome-dotfiles
 - https://twitter.com/ChrisStaud/status/1574277175527735296
