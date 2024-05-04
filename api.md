@@ -153,6 +153,7 @@ curl v2.wttr.in/Bucharest
 - [REST API Design Guide of the National Bank of Belgium](https://github.com/NationalBankBelgium/REST-API-Design-Guide)
 - https://datahelpdesk.worldbank.org/knowledgebase/articles/898590-country-api-queries
 - https://github.com/gadicc/node-yahoo-finance2
+- https://github.com/raniellyferreira/economy-api
 
 # Speak
 
@@ -232,3 +233,4 @@ curl v2.wttr.in/Bucharest
 # Travel
 
 - [periodically retrieves award availability from mileage programs](https://seats.aero/about)
+- https://github.com/MobilityData/awesome-transit

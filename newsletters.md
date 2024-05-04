@@ -171,6 +171,7 @@
 - Sébastien Lorber: https://thisweekinreact.com/newsletter
 - [Bonnie Schulkin](https://handsonwebdev.substack.com/archive)
 - https://substack.com/@madsbrodt/posts
+- [Danny Moerkerke](https://modern-web-weekly.ghost.io)
 
 # Judaism
 

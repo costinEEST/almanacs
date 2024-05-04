@@ -604,6 +604,7 @@
 
 # Scrapping
 
+- [A web scraping and browser automation library that helps you build reliable crawlers](https://github.com/apify/crawlee)
 - https://www.scrapingbee.com/blog/web-scraping-javascript
 - https://levelup.gitconnected.com/anonymous-web-scrapping-with-node-js-tor-apify-and-cheerio-3b36ec6a45dc
 - https://www.twilio.com/blog/4-tools-for-web-scraping-in-node-js
@@ -631,7 +632,6 @@
 - https://blog.vjeux.com/2021/javascript/trackmania-medal-distribution.html
 - [Extract main article from given URL](https://github.com/ndaidong/article-parser)
 - https://dev.to/serpapi/web-scraping-google-maps-reviews-with-nodejs-328g
-- [A web scraping and browser automation library that helps you build reliable crawlers](https://github.com/apify/crawlee)
 - [Aid automatic detection of in-browser cryptojacking](https://github.com/1lastBr3ath/drmine)
 - [Takes a screenshot of a given website and saves it to the given file](https://yossarian.net/snippets#nodeJS)
 - [Mac OS X Plist parser/builder](https://github.com/TooTallNate/plist.js)

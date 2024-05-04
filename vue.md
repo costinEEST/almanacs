@@ -56,3 +56,7 @@
 # Testing
 
 - [TDD](https://m.youtube.com/playlist?list=PLQvLNYfkXFG7GEP-IpJBCo1_KPbFEblWy)
+
+# Tool 
+
+- [An alternative privacy-friendly YouTube frontend which is efficient by design](https://github.com/TeamPiped/Piped)
