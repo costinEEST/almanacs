@@ -215,6 +215,7 @@
 - https://github.com/dorey/JavaScript-Equality-Table + [why you should prefer the `===` operator](https://github.com/slikts/js-equality-game)
 - https://github.com/denysdovhan/wtfjs
 - https://twitter.com/t3dotgg/status/1784360142672412812
+- [`[].sort()` doesn't work with negative numbers](https://twitter.com/ccorcos/status/1759665586983084255)
 
 # `BigInt`
 

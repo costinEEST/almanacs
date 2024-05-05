@@ -51,6 +51,7 @@
 - https://github.com/kheeyaa/Snack-Games
 - https://github.com/stars/bennycode/lists/html5-games
 - [JavaScript/WebGL Mario Kart](https://github.com/Lunakepio/Mario-Kart-3.js)
+- [Minecraft Classic clone using HTML 5 technologies, most notably WebGL (glmatrix) and WebSockets (socket.io)](https://github.com/Overv/WebCraft)
 
 # Mobile based
 

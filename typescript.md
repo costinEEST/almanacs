@@ -133,6 +133,7 @@
 - https://github.com/jonahsnider/aoc-2022 + https://github.com/jonahsnider/aoc-2021 + https://github.com/jonahsnider/aoc-2020 + https://github.com/jonahsnider/aoc-2019 + https://github.com/jonahsnider/aoc-2018
 - https://zackoverflow.dev/writing/write-your-own-zod
 - https://github.com/hediet/rxjs-playground
+- https://blog.andrewbran.ch/debugging-the-typescript-codebase
 
 # Radio
 

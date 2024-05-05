@@ -295,6 +295,7 @@
 - [Benchmarking library with support for multithreading and TurboFan optimization isolation](https://github.com/jonahsnider/benchmark)
 - https://hire.jonasgalvez.com.br/2023/jan/31/monitoring-nodejs-performance
 - https://joyeecheung.github.io/blog/archives
+- https://jakebailey.dev/posts/pnpm-dt-2/
 
 # Deploy
 
@@ -407,6 +408,7 @@
 - https://github.com/lukeed/resolve.exports
 - [Create graphs from your CommonJS, AMD or ES6 module dependencies](https://github.com/pahen/madge)
 - https://snyk.io/blog/building-npm-package-compatible-with-esm-and-cjs-2024
+- https://blog.andrewbran.ch/default-exports-in-commonjs-libraries + https://twitter.com/atcb/status/1784636336441561401
 
 # Event loop
 

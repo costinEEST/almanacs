@@ -113,6 +113,7 @@
 - https://errorprone.info/bugpattern/BigDecimalEquals
 - https://github.com/mgp/effective-rxjava
 - https://github.com/mgp/good-enough-java
+- https://github.com/spember/spring-shoestore
 
 # Debugging
 

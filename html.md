@@ -162,6 +162,10 @@
 - [`rel="?"`](https://www.htmhell.dev/adventcalendar/2022/21)
 - https://nelsonslog.wordpress.com/2023/07/22/link-to-text-fragment
 
+# `<listbox></listbox>`
+
+- https://github.com/josepharhar/explainers/blob/main/listbox.md
+
 # <meta />
 
 - https://textslashplain.com/2020/05/15/meta-charset

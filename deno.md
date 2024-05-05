@@ -17,6 +17,7 @@
 # Practice
 
 - https://github.com/danvk/aoc2022 + https://effectivetypescript.com/2023/04/27/aoc2022
+- https://github.com/rgbkrk/denotebooks
 
 # Server
 
@@ -29,6 +30,7 @@
 - https://github.com/ry/tinyclouds
 - https://github.com/matklad/matklad.github.io + https://matklad.github.io/2023/11/07/dta-oriented-blogging.html
 - https://github.com/knowler/knowler.dev
+- https://github.com/jsr-io/jsr + https://deno.com/blog/how-we-built-jsr
 
 # Tool
 

@@ -200,6 +200,7 @@
 
 # History
 
+- [Anton Howes](https://www.ageofinvention.xyz/archive)
 - [Istros Books](https://us4.campaign-archive.com/home/?u=33d3c9258f5909052eb60647b&id=4b1e62c805)
 - [Gonçalo Morais](https://www.heroesofcomputer.science)
 - [Timothy Snyder](https://snyder.substack.com/archive)
@@ -215,6 +216,7 @@
 - [Kevin Lynagh](https://tinyletter.com/kevinlynagh/archive)
 - [Ian Cutress. The latest in semiconductors: silicon, AI, processors, market trends](https://morethanmoore.substack.com/archive)
 - [Chris Combs](https://us16.campaign-archive.com/home/?u=db333b11de2809a2e919041d1&id=5850b17aff)
+- [Matt Liberty](https://us19.campaign-archive.com/home/?u=873375f7fba5250aba20e71e6&id=2ee675b0bd)
 
 # Internet of money
 
