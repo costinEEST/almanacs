@@ -305,6 +305,7 @@
 - https://github.com/mattiasgrenfeldt/bachelors-thesis-http-request-smuggling
 - [HTTP Request Smuggling due to ignoring chunk extensions](https://hackerone.com/reports/1238099) + https://twitter.com/albinowax/status/1455825085261127686
 - https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en + https://github.com/ZeddYu/HTTP-Smuggling-Lab
+- https://dev.to/bengl/butts-and-the-internet-3cgf
 
 # HTTP headers
 
@@ -346,6 +347,7 @@
 - [fetch the TLS cert from a given site](https://www.netmeister.org/whatsthatcert)
 - https://vincent.bernat.ch/en/blog/2011-ssl-session-reuse-rfc5077
 - https://blog.heckel.io/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone
+- https://obensource.com/blogs/https-for-local-development
 
 # HTTP2
 

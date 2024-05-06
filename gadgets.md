@@ -6,6 +6,7 @@
 
 - [The Ultimate Pocket Camera: Insta360 X3](https://youtu.be/H8PLt4lG-tY)
 - https://lcamtuf.substack.com/p/random-objects-the-petal-camera
+- https://thomashunter.name/posts/2024-04-03-a-cheap-pocketable-camera-in-2024
 
 # Charger
 

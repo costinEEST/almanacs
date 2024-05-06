@@ -91,5 +91,6 @@
 - https://kamilogorek.com/blog/downloading-youtube-watch-later-playlist
 - https://tools.pwnfunction.com 
 - [Youtube from the Linux CLI](https://gist.github.com/mlliarm/b1782000be744014a388dba5ac78cc05)
+- [A TypeScript library for creating animated videos using the Canvas API](https://github.com/motion-canvas/examples)
 
 

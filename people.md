@@ -13,10 +13,6 @@
 - https://www.data-is-plural.com/archive/2023-02-08-edition
 - https://www.youtube.com/playlist?list=PLGGpadyh0wS5FAmj4AKjgVKm2N6XTEaqj
 
-# Cinema
-
-- https://m.youtube.com/playlist?list=PLWIcRrPLCdUf5L0Iv0UtsWkaXQGjEUGYa
-
 # Albert Einstein
 
 - https://piggsboson.medium.com/3-brilliant-books-loved-by-albert-einstein-24dc6e58cb4
@@ -52,7 +48,12 @@
 - [writing about a bread maker](https://news.ycombinator.com/item?id=29077398)
 - https://getpocket.com/explore/item/drink-a-cold-beer-and-let-somebody-else-figure-it-out-22-of-anthony-bourdain-s-wisest-quotes-about
 
-## Alan Turing
+# Alan Kay 
+
+- https://tinlizzie.org/IA/index.php/Intelligent_Archive
+- https://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442
+
+# Alan Turing
 
 - [ACM A.M. Turing Award](https://m.youtube.com/user/TheOfficialACM/playlists?view=50&sort=dd&shelf_id=2)
 - https://twitter.com/phalpern/status/1373003682124607492
@@ -367,7 +368,6 @@
 - https://signalvnoise.com/posts/2666-the-story-of-polaroid-inventor-edwin-land-one-of-steve-jobs-biggest-heroes
 - https://www.nytimes.com/2011/10/07/opinion/the-man-who-inspired-jobs.html
 - https://magazine.polaroidoriginals.com/dr-land-10-magical-moments
-- https://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442
 - http://geemus.com/mentoring
 - https://wilsonminer.com
 - https://www.perell.com/recommendations + https://twitter.com/david_perell/status/1225454678508548096

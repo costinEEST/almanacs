@@ -645,6 +645,7 @@
 - [Dorin Bofan](https://www.aertare.ro/archive)
 - [Anna Levina](https://us17.campaign-archive.com/home/?u=64bb705f04cb50a8e46684856&id=839056e049)
 - [All Points North: Together Virtually (Ex Heygo guides)](https://us10.campaign-archive.com/home/?u=5d437d36d60f77d9fb59bcdf4&id=3f83bdb637)
+- [Tim Parfitt - Letter from Spain](https://substack.com/@timparfitt)
 
 # Windows OS
 

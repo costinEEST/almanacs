@@ -105,6 +105,7 @@
 - [OCR capture anything on the screen](https://hillelwayne.com/tipjar/windows-01)
 - OneNote's OCR for getting text from images, or using the [Text Extractor PowerToy here: GitHub - microsoft/PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys). The new Snipping Tool has this built in.
 - https://github.com/thomasclaudiushuber/HideShowIconTray
+- https://thomashunter.name/posts/2023-04-09-emulating-windows-xp-on-linux-in-2023
 
 # notepad.exe
 

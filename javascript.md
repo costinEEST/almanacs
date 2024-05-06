@@ -257,7 +257,7 @@
 
 - https://dfkaye.com/posts/2020/08/20/javascripts-object-vs.-object.create
 
-# function () {}
+# `function () {}`
 
 - https://github.com/you-dont-need/You-Dont-Need-Loops
 - [Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
@@ -265,8 +265,9 @@
 - [Arrow functions are not anonymous](https://twitter.com/kdy1dev/status/1561901091486597120)
 - [get a javascript function name](https://gist.github.com/dfkaye/6384439)
 - https://pedrocattori.dev/blog/why-i-prefer-arrow-functions
+- [get the function's name](https://gist.github.com/dfkaye/6384439)
 
-# function\* () {}
+# `function* () {}`
 
 - https://swizec.com/blog/finally-a-practical-use-case-for-javascript-generators/swizec/9036
 - https://swizec.com/blog/advent-code-day-15-dueling-javascript-generators/swizec/7973
@@ -275,6 +276,7 @@
 - [for-of, early termination, iterators, and generators](https://gist.github.com/rauschma/fd2518d14a7b1b7b39751d9ac85e6c20)
 - https://jeffy.info/2019/03/22/that-time-i-used-a-generator.html
 - https://github.com/creationix/js-git
+- https://axisofeval.blogspot.com/2024/05/delimited-generators.html
 
 # string
 
@@ -338,6 +340,7 @@
 - https://labs.withsecure.com/publications/prototype-pollution-primer-for-pentesters-and-programmers
 - https://github.com/HoLyVieR/prototype-pollution-nsec18
 - https://www.konnorrogers.com/posts/2023/listening-for-changes-to-an-element-property
+- https://github.com/dfkaye/safe-object-assign
 
 # Array.prototype
 

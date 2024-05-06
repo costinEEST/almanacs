@@ -124,6 +124,7 @@
 
 # Interview
 
+- https://github.com/obensource/dev-resources/blob/master/interviews.md
 - https://github.com/InterviewReady/system-design-resources
 - https://m.youtube.com/c/NickWhite/playlists
 - https://www.seancassidy.me/whats-the-length-of-shortest-bit-sequence-thats-never-been-sent-over-the-internet.html
@@ -138,7 +139,6 @@
 - https://github.com/mgechev/google-interview-preparation-problems
 - https://github.com/anushka23g/Complete-Placement-Preparation
 - https://github.com/VGraupera/1on1-questions
-- https://github.com/obensource/dev-resources/blob/master/interviews.md
 - https://www.udemy.com/course/pragmatic-system-design + https://www.amazon.com/dp/1736049119
 - https://www.freecodecamp.org/news/systems-design-for-interviews
 - https://github.com/karanpratapsingh/system-design

@@ -16,7 +16,7 @@
 - http://backreaction.blogspot.com/2012/08/why-does-baby-cry-fact-sheet.html
 - http://alecresnick.com/notes/how-children-what
 - https://xsrus.com/good-books-on-education
-- https://github.com/obensource/little-kiddo-learning
+- [Resources for teaching little kiddos about the awesome stuff of life, subject by subject](https://github.com/obensource/little-kiddo-learning)
 - https://github.com/iharh/notes/tree/master/child
 - https://m.youtube.com/playlist?list=PLYVl5EnzwqsSR1KFlOnsG0uSKLN5ai_1w
 - https://www.fhautism.com/shop/the-outdoor-scientist-the-wonder-of-observing-the-natural-world
