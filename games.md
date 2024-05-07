@@ -123,6 +123,7 @@
 - [Build Your Own Flight Sim In C++ (DOS GameDev) by Michael Radtke & Chris Lampton](https://news.ycombinator.com/item?id=37358063)
 - https://andrewjakubowicz.me/posts/making-riko
 - https://www.freecodecamp.org/news/gorillas-game-in-javascript
+- https://github.com/iolivia/rust-sokoban + https://twitter.com/oliviff/status/1281641563257360384
 
 # The creators
 

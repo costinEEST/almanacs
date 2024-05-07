@@ -98,6 +98,9 @@
 - https://davidson.weizmann.ac.il/en/online/sciencenews/2022-nobel-prize-physiology-or-medicine-genetics-human-evolution
 - https://www.smithsonianmag.com/science-nature/how-should-scientists-navigate-the-ethics-of-ancient-human-dna-research-180981489
 - https://www.freethink.com/health/crispr-alzheimers
+- [New mRNA cancer vaccine triggers fierce immune response to fight malignant brain tumor](https://www.sciencedaily.com/releases/2024/05/240501125736.htm)
+- [An important trial of the world's first "personalised" mRNA vaccine against the deadliest form of skin cancer - melanoma - is now under way in the UK](https://www.bbc.com/news/health-68897731)
+- [An mRNA vaccine to treat pancreatic cancer](https://www.nih.gov/news-events/nih-research-matters/mrna-vaccine-treat-pancreatic-cancer)
 
 ### Miscellaneous
 

@@ -599,7 +599,7 @@
 - [A publication dedicated to the Rust programming language](https://rustmagazine.org/feed.xml)
 - [Stay up to date with events, learning resources, and recent developments in the Rust community](https://this-week-in-rust.org/atom.xml)
 - https://rust.libhunt.com/newsletter/archive
-- [This Month in Rust GameDev](https://gamedev.rs/rss.xml)
+- [This Month in Rust GameDev](https://gamedev.rs/news)
 - [Bob Peters](https://rust-trends.com/newsletter)
 - [](https://www.possiblerust.com/feed.xml)
 - [Andre Bogus](https://llogiq.github.io/feed.xml)
