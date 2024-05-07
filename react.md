@@ -239,6 +239,7 @@
 - [picture fallback system for all devices all file types all resolutions and shows them accordingly depending on how many breakpoints you supply ](https://gist.github.com/jeffscottward/eebcdf31493d9e14b18e374c999172f9)
 - [higher order component that will randomly throw Error](https://github.com/jchiatt/react-chaos)
 - https://github.com/Sawtaytoes/children-first-components
+- https://react-spectrum.adobe.com/blog/creating-a-pointer-friendly-submenu-experience.html
 
 #  Pattern
 

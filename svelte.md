@@ -86,3 +86,4 @@
 - [Visual CMS with a built-in code editor, Svelte blocks, and static site generator](https://github.com/primocms/primo)
 - https://github.com/icflorescu/quick-romanian-freelance-tax-calculator
 - https://www.yieldcode.blog/post/rendering-emails-with-svelte
+- [framework for mostly-reusable graphics](https://github.com/mhkeller/layercake)

@@ -30,6 +30,7 @@
 - [Dark mode in 2 lines of code. Support System preference and any other theme with no flashing ](https://github.com/pacocoursey/next-themes)
 - [Generates group pot luck dinner recipes for you using AI](https://github.com/johnpolacek/botluck) + https://johnpolacek.com/playing-with-open-ai-api
 - [The Atlassian's Statuspage Open Source Alternative](https://github.com/openstatushq/openstatus)
+- [TypeScript example with React Spectrum](https://github.com/reidbarber/rsp-next-ts)
 
 # Cheat sheet
 

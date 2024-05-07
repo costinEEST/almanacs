@@ -84,6 +84,7 @@
 # Business
 
 - https://github.com/mezod/awesome-indie#newsletters
+- https://www.producthunt.com/newsletters/archive
 - [Ethan Mollick](https://www.oneusefulthing.org/archive)
 - [Sergiu Biriș](https://us20.campaign-archive.com/home/?u=7fc44f22e7fb41560c5ec4a08&id=e046ca20a2) + https://sergiubiris.substack.com/archive
 - [Dragoș Nicolaescu](https://us18.campaign-archive.com/home/?u=e42f65c9815d0e1620850077c&id=b4f100fa05) + https://dragosnicolaescu.substack.com/archive
@@ -172,6 +173,7 @@
 - [Bonnie Schulkin](https://handsonwebdev.substack.com/archive)
 - https://substack.com/@madsbrodt/posts
 - [Danny Moerkerke](https://modern-web-weekly.ghost.io)
+- [EventHandler Tel Aviv](https://us14.campaign-archive.com/home/?u=129f365a5675cdee0989d5f95&id=f44d0b638f)
 
 # Judaism
 
@@ -606,8 +608,6 @@
 - [Orhun Parmaksız](https://blog.orhun.dev/rss.xml)
 - [Paris Liakos](https://us9.campaign-archive.com/home/?u=e4585d987021695e5426f50c5&id=2bebc9a948)
 - [Nicole Tietz-Sokolskaya](https://buttondown.email/ntietz/archive)
-
-
 
 # Politics
 

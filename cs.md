@@ -195,6 +195,7 @@
 - http://www.charlespetzold.com/videos
 - https://github.com/v3ga/computer_history
 - [Illustrating BASIC, a simple programming language](https://archive.org/details/illustratingbasi0000alco)
+- https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators
 
 # Miscellaneous
 

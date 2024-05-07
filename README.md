@@ -88,6 +88,7 @@
 - [Internet of things](iot.md)
 - [Java](java.md)
 - [Javascript](javascript.md)
+- [Jobs](job.md)
 - [Julia](julia.md)
 - [Kotlin](kotlin.md)
 - [Learn!](learn.md)
