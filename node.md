@@ -693,7 +693,7 @@
 - https://www.loginradius.com/engineering/blog/using-pgp-encryption-with-nodejs
 - https://github.com/ukncsc/zero-trust-architecture
 - https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps + https://twitter.com/albinowax/status/1353631953703100416
-- [Dependency Confusion](https://twitter.com/bradleymeck/status/1359882487674077189) + https://twitter.com/alxbrsn/status/1359852094950436866 + https://twitter.com/alxbrsn/status/1359200840876257287 + https://www.kernelcrypt.com/posts/depedency-confusion-explained + https://github.blog/2021-02-12-avoiding-npm-substitution-attacks
+- [Dependency Confusion](https://twitter.com/bradleymeck/status/1359882487674077189) + https://twitter.com/alxbrsn/status/1359852094950436866 + https://twitter.com/alxbrsn/status/1359200840876257287 + https://www.kernelcrypt.com/posts/depedency-confusion-explained + https://github.blog/2021-02-12-avoiding-npm-substitution-attacks + https://observationsinsecurity.com/2024/04/25/how-i-hacked-into-googles-internal-corporate-assets
 - https://www.slideshare.net/madhuakula/node-js-reverse-shell
 - [More than 100 security checks for your Node.js API. Focused on Express and Hapi environments.](https://github.com/jesusprubio/strong-node)
 - https://www.acunetix.com/blog/web-security-zone/remote-debuggers-as-an-attack-vector
