@@ -112,6 +112,7 @@
 - [NodeJS](node.md)
 - [Objective-C](objective-c.md)
 - [OCaml](ocaml.md)
+- [Odin](odin.md)
 - [Parenting](parenting.md)
 - [Penetration testing](pentest.md)
 - [People](people.md)

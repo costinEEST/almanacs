@@ -36,3 +36,4 @@
 # Opinion
 
 - https://www.joshwaitzkin.com/for-parents
+- [Why Children Should Rebel | Eugene Khutoryansky](https://veg1.org/children.html)

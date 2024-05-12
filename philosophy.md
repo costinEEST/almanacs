@@ -86,3 +86,4 @@
 - [Understanding Society](https://gist.github.com/balupton/f0a7f7bf49c849a8a5f5e7021f2dc273)
 - https://plato.stanford.edu/entries/chinese-room, https://ro.frwiki.wiki/wiki/Chambre_chinoise
 - https://ralphammer.substack.com/immanuel-kantwhat-can-we-know
+- [Objective Morality based on scientific and rational reasoning | Eugene Khutoryansky](https://veg1.org/morals.html)
