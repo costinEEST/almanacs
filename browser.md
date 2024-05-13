@@ -644,6 +644,7 @@ javascript: (() =>
 - https://github.com/spite/virtual-webcam
 - https://github.com/caged/regl-learn
 - https://github.com/erich666/RealTimeRendering
+- https://github.com/jsulpis/realtime-planet-shader
 
 # WebGPU
 

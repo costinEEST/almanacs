@@ -86,6 +86,7 @@
 
 - https://github.com/mezod/awesome-indie#newsletters
 - https://www.producthunt.com/newsletters/archive
+- https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 - [Ethan Mollick](https://www.oneusefulthing.org/archive)
 - [Sergiu Biriș](https://us20.campaign-archive.com/home/?u=7fc44f22e7fb41560c5ec4a08&id=e046ca20a2) + https://sergiubiris.substack.com/archive
 - [Dragoș Nicolaescu](https://us18.campaign-archive.com/home/?u=e42f65c9815d0e1620850077c&id=b4f100fa05) + https://dragosnicolaescu.substack.com/archive
@@ -622,6 +623,7 @@
 - [Lillian Li](https://lillianli.substack.com/archive)
 - [Codruța Simina & Ovidiu Mihalcea: știri despre știrile false](https://misreport.substack.com/archive)
 - [Starea nației | Dragoș Pătraru](https://us19.campaign-archive.com/home/?u=63a8eb99e7303ae445b623639&id=deb876637c)
+- [Comunitatea liberală](https://us21.campaign-archive.com/home/?u=2ea24471aa080dc5e46fc6a85&id=d784008e7e)
 
 # Social sciences
 
