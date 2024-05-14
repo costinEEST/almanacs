@@ -757,6 +757,7 @@
 - https://pepelsbey.dev/articles/eleventy-css-js
 - https://github.com/tylerreckart/reckart.blog
 - https://robconery.com/frontend/hacking-ghost
+- [Using JSX on the server as a template engine](https://evertpot.com/jsx-template)
 
 # Serverless
 
