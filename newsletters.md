@@ -47,6 +47,7 @@
 - [Smarthistory](https://us5.campaign-archive.com/home/?u=38a3e3ed47b6308af0c1fa25f&id=9595a77e8e)
 - https://substack.com/@jamesgurney/posts + https://www.facebook.com/groups/403006076777641
 - [MutualArt](https://us1.campaign-archive.com/home/?u=e04307946bfd97f987ddef78d&id=0a9ce6ca24)
+- [Nadeem Ahmad](https://www.patreon.com/eranudturan/posts)
 
 # Artificial intelligence
 
@@ -73,6 +74,7 @@
 - [WatSPEED at the University of Waterloo](https://us1.campaign-archive.com/home/?u=a4e41978223f65e337a68e25f&id=8e68d761f4)
 - https://substack.com/@tinahuang
 - [Dimitri Glazkov](https://whatdimitrilearned.substack.com/archive)
+- https://marklwatson.substack.com/archive
 
 # Book
 
@@ -118,7 +120,7 @@
 - [Aron Korenblit (AirTable; Automation)](https://aatt.io/newsletter)
 - https://benspring.com/archive (TryHackMe)
 - https://www.henrystanley.com/archive + https://henryaj.substack.com/archive
-
+- [Niciodată Singur](https://us14.campaign-archive.com/home/?u=cad0073ae6ad1145fd74da462&id=fa795fc996)
 
 # Buddhism
 
@@ -546,7 +548,6 @@
 
 - [Marius Cosmeanu](https://savantgarde.substack.com/recommendations)
 - https://github.com/kilimchoi/engineering-blogs
-- [Niciodată Singur](https://us14.campaign-archive.com/home/?u=cad0073ae6ad1145fd74da462&id=fa795fc996)
 - https://github.com/jackbridger/developer-newsletters
 
 # Music
@@ -652,6 +653,7 @@
 - [Anna Levina](https://us17.campaign-archive.com/home/?u=64bb705f04cb50a8e46684856&id=839056e049)
 - [All Points North: Together Virtually (Ex Heygo guides)](https://us10.campaign-archive.com/home/?u=5d437d36d60f77d9fb59bcdf4&id=3f83bdb637)
 - [Tim Parfitt - Letter from Spain](https://substack.com/@timparfitt)
+- [Noutăți comunitatea Incotroceni](https://us14.campaign-archive.com/home/?u=2b2d6bcc63246568b143bffc1&id=19be20d9a4)
 
 # Windows OS
 

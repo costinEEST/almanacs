@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [The Melodramatic Imagination: Balzac, Henry James, Melodrama, and the Mode of Excess | Peter Brooks](https://www.amazon.com/Melodramatic-Imagination-Balzac-Melodrama-Excess/dp/0300065531)
 - https://tonymorley.libib.com/i/required-reading-humanprogress
@@ -7,22 +7,22 @@
 - https://www.nylon.com/articles/books-every-woman-should-read-by-30
 - https://teacherhead.com/2020/04/20/the-next-edu-revolution-textbooks
 
-#### Community
+## Community
 
 - https://academyofideas.com/books/#propaganda-and-brainwashing
 - https://mostrecommendedbooks.com/experts
 - https://bibliotecaexploratorilor.substack.com/p/stiinta-este-pentru-toata-lumea
 - https://fermatslibrary.com/journal_club
 
-### Course
+# Course
 
 - [History of the Book and of Reading | Carol Chiodo](https://sites.google.com/view/historyofthebookreading)
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUfqLfnXjHjvQgSTZbzAAcAd
 
-### Tips
+# Tips
 
 - [How to Mark a Book By Mortimer J. Adler, Ph.D.](https://web.archive.org/web/20200213203215/http://chuma.cas.usf.edu/~pinsky/mark_a_book.htm)
 - https://sirupsen.com/read
@@ -36,7 +36,7 @@
 - https://psyche.co/guides/how-to-nurture-and-grow-a-personal-library-of-books
 - https://www.freethink.com/culture/neuroscience-speed-reading
 
-### Tool
+# Tool
 
 - https://nelsonslog.wordpress.com/2022/08/02/desktop-feed-readers
 - https://www.bookfinder.com
@@ -51,13 +51,13 @@
 - https://github.com/robertmartin8/kindleclippings
 - https://recolabs.dev/post/how-to-use-simple-rss-feeds-to-monitor-saas-application-in-slack
 
-### Poetry
+# Poetry
 
 - [A sonnet to science: Scientists and their poetry ~ Sam Illingworth](https://www.amazon.com/sonnet-science-Scientists-their-poetry/dp/1526127989)
 - https://www.lesswrong.com/posts/TxcRbCYHaeL59aY7E/meditations-on-moloch
 - https://www.radioromaniacultural.ro/timpul-prezent-in-literatura-simona-popescu-pentru-mine-aceasta-carte-a-fost-vindecatoare + https://www.facebook.com/ladouabufnite/videos/301240958554696 + https://www.facebook.com/ed.nemira/posts/5526913330658846 + https://gheorghecezar.podbean.com/e/ep-27-simona-popescu-partea-i + https://gheorghecezar.podbean.com/e/ep-28-simona-popescu-partea-a-ii-a
 
-### Science fiction (SF)
+# Science fiction (SF)
 
 - https://www.scribd.com/doc/294591899/Victor-Anestin-p%C4%83rintele-proto-SF-ului-romanesc
 - https://www.amazon.com/Origin-Stories-Evolution-Cognition-Fiction/dp/0674057112
@@ -80,7 +80,7 @@
 - https://github.com/fogus/thunks/blob/main/studies/cyberpunk.txt
 - https://github.com/sindresorhus/awesome-scifi
 
-### Review
+# Review
 
 - [Grady Booch](https://computingthehumanexperience.com/books)
 - [Stepan Parunashvili](https://www.zeneca.io/stopa)
@@ -129,3 +129,7 @@
 - [Blas Moros](https://blas.com/books/worth-re-reading)
 - [Christian Houmann](https://bagerbach.com/books)
 - [Radek Pietruszewski](https://radex.io/books)
+
+# Shelf 
+
+- [Andrico Karoulla](https://andri.co/bookshelf)
