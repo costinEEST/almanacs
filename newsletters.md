@@ -121,6 +121,7 @@
 - https://benspring.com/archive (TryHackMe)
 - https://www.henrystanley.com/archive + https://henryaj.substack.com/archive
 - [Niciodată Singur](https://us14.campaign-archive.com/home/?u=cad0073ae6ad1145fd74da462&id=fa795fc996)
+- https://substack.com/@hackingwork/posts
 
 # Buddhism
 

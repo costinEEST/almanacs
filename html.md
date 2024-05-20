@@ -73,13 +73,14 @@
 - https://alvaromontoro.com/blog/67979/creating-accessible-css-art
 - https://www.a11yproject.com/posts/how-to-accessible-heading-structure
 
-# <a></a>
+# `<a></a>`
 
 - https://www.maxkohler.com/posts/calendar-links
 - https://danburzo.ro/canonical-sharing
 - https://kizu.dev/nested-links + https://twitter.com/iamakulov/status/1767119545033216090
+- https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener
 
-# <address></address>
+# `<address></address>`
 
 - http://html5doctor.com/the-address-element
 
