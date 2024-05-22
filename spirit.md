@@ -46,6 +46,7 @@
 - https://univie.academia.edu/AdrianPirtea
 - [The Bible’s Prehistory, Purpose, and Political Future](https://www.coursera.org/learn/bible-history)
 - https://www.amazon.com/Discipling-Nations-Power-Transform-Cultures/dp/1576582485
+- https://www.amazon.com/Inescapable-Love-God-Second/dp/1625646909, Regardless of your beliefs, you may find it interesting if nothing else for the insightful history on how (and why) Christianity has been shaped and morphed into what it is today.
 
 # Islam
 

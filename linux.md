@@ -178,6 +178,7 @@
 - https://xeiaso.net/talks/nixos-pain-2021-11-10
 - https://nickolinger.com/blog/moving-to-arch + https://github.com/olingern/arch-dotfiles
 - ["Challenges Using Linux As A Real-Time Operating System", Michael M. Madden, NASA Langley Research Center, 2019](https://ntrs.nasa.gov/citations/20200002390)
+- https://jonbeebe.net/2024/04/from-linux-back-to-mac
 
 # Watch
 

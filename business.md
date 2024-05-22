@@ -29,6 +29,7 @@
 - https://www.amazon.com/Company-History-Revolutionary-Library-Chronicles/dp/0812972872
 - https://www.goodreads.com/review/list/19131383-nick-chandler-klein?order=d&shelf=good-books-for-economists&sort=rating
 - [Empire of the Sum - The Rise and Reign of the Pocket Calculator](https://wwnorton.com/books/9780393882148/about-the-book/product-details)
+- https://schiener.io/2022-02-21/empowered
 
 # Cinema
 
@@ -134,6 +135,7 @@
 - [“Earn influence, don’t mandate it” – a conversation with Figma’s Devdatta Akhawe](https://material.security/blog/earn-influence-dont-mandate-it--a-conversation)
 - [reading-for-product-managers.md](https://gist.github.com/simpsoka/5794e07d4dd34c9bbc70de26c0402552)
 - https://github.com/ProductHired/open-product-management
+- https://schiener.io/2021-04-21/inspired
 - https://github.com/domenicosolazzo/awesome-okr
 - https://github.com/kuchin/awesome-cto
 - https://meiert.com/en/blog/professional-agile-leadership-resources
@@ -264,13 +266,6 @@
 - https://markmcgranaghan.com/interests
 - [A list of micro grant programs for your good ideas](https://github.com/nayafia/microgrants)
 - [CS 007: Personal Finance for Engineers](https://news.ycombinator.com/item?id=33890925)
-
-# Geopolitics
-
-- https://en.wikipedia.org/wiki/Prisoners_of_Geography
-- [The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower ](https://www.goodreads.com/book/show/20696000-the-hundred-year-marathon)
-- [Technics and Civilization - Lewis Mumford](https://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273)
-- https://oll.libertyfund.org/pages/idea-of-progress-a-bibliographical-essay-by-robert-nisbet
 
 # Innovation
 

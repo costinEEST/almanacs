@@ -192,6 +192,7 @@
 # Security
 
 - [Hacking Brightway scooters](https://robocoffee.de/?p=436)
+- https://diablohorn.com/2024/05/21/random-thoughts-on-physical-security-measures
 
 # Transistor
 
