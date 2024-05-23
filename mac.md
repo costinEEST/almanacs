@@ -123,7 +123,6 @@
 
 # Security
 
-- https://github.com/hack-different/apple-knowledge
 - [Objective by the Sea](https://m.youtube.com/channel/UCQycc8VDhHuNkZlKSSTDHzw/playlists)
 - https://twitter.com/lordx64/status/1314614366361264130
 - [Does Apple really log every app you run?](https://blog.jacopo.io/en/post/apple-ocsp)
@@ -132,3 +131,4 @@
 - [Configure Mutt to work with Gmail + GPG on Mac OS X](https://gist.github.com/syncom/6b77792adb59ccdaa5d36b30273abc33)
 - https://github.com/houjingyi233/macOS-iOS-system-security
 - [Apple M1 GPU hacking | Asahi Lina](https://m.youtube.com/playlist?list=PL8S0yfRexZUKFPqUMAI3AXgKg7AwCre63)
+- [A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware](https://github.com/hack-different/apple-knowledge)

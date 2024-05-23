@@ -220,6 +220,7 @@
 - https://dkp.ldd.org/2019/09/08/xkcdcrypt.html
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 - [Sha256 is broken](https://twitter.com/alokmenghrajani/status/1544057972120326144)
+- https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey
 
 # Radio
 
