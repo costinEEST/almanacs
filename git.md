@@ -74,6 +74,7 @@
 - https://remimercier.com/how-to-use-git-bisect
 - https://ashellunts.github.io/blog/03_git_commands_that_i_cant_remember.html
 - https://dev.to/ninofiliu/cool-json-git-diff-command-5d32
+- https://nelsonslog.wordpress.com/2024/05/22/promoting-a-git-project-to-a-bare-repo
 
 # Github
 

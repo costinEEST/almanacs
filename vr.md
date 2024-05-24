@@ -49,6 +49,7 @@
 - https://github.com/chenjd/Unity-ARFoundation-HandDetection
 - https://github.com/dilmerv/ARDraw
 - https://github.com/dilmerv/UnityARFoundationEssentials
+- [CADmium: A local-first CAD program built for the browser](https://news.ycombinator.com/item?id=40428827)
 
 
 # Radio

@@ -1,23 +1,24 @@
-### Cinema
+# Cinema
 
 - https://www.udemy.com/course/hybrid-and-electric-vehicle-for-beginners-full-course-2021
 - [Educație | Masina Potrivita](https://m.youtube.com/playlist?list=PL8S56XToMXhlWHL2tw_Kup2oHncbEs2tn)
 
-### Community
+# Community
 
 - [Vânzari Auto / Schimburi - Car Dealer](https://www.facebook.com/groups/bucuresti.giurgiu)
 - [VÂNZARI MAŞINI PARIS](https://www.facebook.com/groups/731313373607149)
 - [Anunturi auto Franta: vanzari ,cumparari ,accesorii auto](https://www.facebook.com/groups/274089936110583)
 - [1928-1931 Ford model A group](https://www.facebook.com/groups/1518659498456616)
+- [CarCheck – Car Buying Checklist App](https://news.ycombinator.com/item?id=40339405)
 
-### Repair
+# Repair
 
 - https://m.youtube.com/user/PaintballOO7/playlists
 - [Around The Corner - How Differential Steering Works (1937)](https://youtu.be/yYAw79386WI)
 - [Project Twin VNT by Dogged Fabrication](https://m.youtube.com/playlist?list=PLqcW63HNy8xFVTVAfl8RDI1oUhhudmRgI)
 - [The Skid Factory Series 4 - Barra Powered Bedford Van by MCM TV2]https://m.youtube.com/playlist?list=PLvKTvFJhZUJjsAfS0kVlsTNHx1BD1_3H4
 
-### History
+# History
 
 - https://thereader.mitpress.mit.edu/when-cities-treated-cars-as-dangerous-intruders
 - https://news.ycombinator.com/item?id=27374893 + [A data visualization celebrating the work of the great Italian design studios](https://www.cardesignhistory.com)
@@ -26,11 +27,11 @@
 - https://www.autocritica.ro/feature/primul-porsche
 - https://www.roadandtrack.com/car-culture/a38424876/time-traveler-who-hunted-speed-records-in-an-ev
 
-### Miscellaneous
+# Miscellaneous
 
 - [A big library of civilian cars you can fork or download for your server](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack)
 
-### Opinions
+# Opinions
 
 - https://www.spectator.co.uk/article/why-i-wont-buy-a-tesla
 - https://honda.asko.ro/blog/profesiile-conduc-it-honda

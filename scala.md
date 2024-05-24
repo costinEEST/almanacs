@@ -14,6 +14,7 @@
 - https://github.com/alexvasiu/adventofcode2020
 - https://github.com/databricks/scala-style-guide
 - https://github.com/Ahnfelt/type-inference-by-example
+- https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production
 
 # Tool 
 

@@ -48,6 +48,7 @@
 - https://substack.com/@jamesgurney/posts + https://www.facebook.com/groups/403006076777641
 - [MutualArt](https://us1.campaign-archive.com/home/?u=e04307946bfd97f987ddef78d&id=0a9ce6ca24)
 - [Nadeem Ahmad](https://www.patreon.com/eranudturan/posts)
+- https://amygoodchild.substack.com/archive
 
 # Artificial intelligence
 
