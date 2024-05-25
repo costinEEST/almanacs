@@ -147,6 +147,10 @@
 - [Peach Tree World News](https://us21.campaign-archive.com/home/?u=64396dd159205cde8617da026&id=7b37edf2d3)
 - [Diamond Cutter Classics](https://us5.campaign-archive.com/home/?u=cc86f7385681e51d8709ebf93&id=a92d306f26)
 
+# C 
+
+- [Oz Nova](https://newsletter.ozwrites.com/archive)
+
 # Chemistry
 
 - [Battery Modeling Webinar](https://us18.campaign-archive.com/home/?u=e3dd1920324b4db3a51b620ca&id=4e19a481ac)
