@@ -10,6 +10,10 @@
 - https://github.com/tomprimozic/type-systems
 - https://soap.coffee/~lthms/posts/OCamlStaticBinaries.html
 
+# Course 
+
+- Abstraction and Design In Computation: https://www.youtube.com/playlist?list=PLxA7uoRZbzXlW0XjbtuWow6PmPHe4vU7p + https://cs51.io/college/syllabus + https://book.cs51.io
+
 # Practice
 
 - https://github.com/ocaml-sf/learn-ocaml + https://dl.acm.org/doi/10.1145/3408877.3439579
