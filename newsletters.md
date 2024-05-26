@@ -333,6 +333,10 @@
 - https://leahneukirchen.org/MySubscriptions.cgi
 - https://github.com/watson/cheatsheets/blob/master/google-calendar.md
 
+# Perl 
+
+- https://perlweekly.com/archive
+
 # Philosophy
 
 - [Andrei Vasilachi](https://podcastmeditatii.com/aboneaza)

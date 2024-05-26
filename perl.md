@@ -11,6 +11,10 @@
 - https://learning.oreilly.com/videos/modern-perl-best/9781491910719
 - https://learning.oreilly.com/videos/understanding-regular-expressions/9781491996300
 
+# Community
+
+- https://perl.org.il
+
 # Cheat sheet
 
 - https://devtut.github.io/perl
@@ -18,6 +22,10 @@
 - https://www.bugcrowd.com/blog/how-to-regex-a-practical-guide-to-regular-expressions-regex-for-hackers
 - [How Regexes Work](https://perl.plover.com/Regex/article.html)
 - https://learnbyexample.github.io/curated_resources/perl.html
+
+# Testing 
+
+- https://szabgab.com/courses/testing-perl
 
 # Tool
 

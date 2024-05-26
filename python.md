@@ -432,3 +432,4 @@
 - [TCR test && commit || revert -- Rope in Python | Kent Beck](https://m.youtube.com/playlist?list=PLlmVY7qtgT_nhLyIbeAaUlFOWbWT5y53t)
 - https://github.com/AABur/testing_in_python
 - [Docker-based integration tests](https://github.com/avast/pytest-docker)
+- https://szabgab.com/courses/testing-python
