@@ -167,7 +167,7 @@
 
 # Computer networks
 
-- [Larry Peterson and Bruce Davie](https://systemsapproach.substack.com/archive)
+- Larry Peterson, Bruce Davie: https://systemsapproach.substack.com/archive, https://systemsapproach.org/newsletter
 
 # Cloud
 
