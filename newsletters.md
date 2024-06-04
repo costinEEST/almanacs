@@ -317,6 +317,7 @@
 # CSS
 
 - [Shruti Balasa](https://shrutibalasa.substack.com/archive)
+- [Web Conferences Amsterdam: CSS Day](https://us2.campaign-archive.com/home/?u=07b60d9574a9b4572e4b7361d&id=449eb9997f)
 
 # Games
 

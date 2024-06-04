@@ -132,6 +132,7 @@
 - [For book summaries](https://github.com/ejamesc/grepbook)
 - [Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
 - https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon + https://twitter.com/garethr/status/1285882907517685761
+- https://www.felipecruz.es/how-i-built-my-own-wasm-cloud-with-fermyon-platform
 
 # Distributed systems
 
