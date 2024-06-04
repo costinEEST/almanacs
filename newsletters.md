@@ -49,6 +49,8 @@
 - [MutualArt](https://us1.campaign-archive.com/home/?u=e04307946bfd97f987ddef78d&id=0a9ce6ca24)
 - [Nadeem Ahmad](https://www.patreon.com/eranudturan/posts)
 - https://amygoodchild.substack.com/archive
+- [Uniunea Artiștilor Plastici (UAP)](https://us9.campaign-archive.com/home/?u=2a08fdb9ce5e94a16b1f69f08&id=3880383ed3)
+- Alexandra Kiely: https://wordpress.com/read/feeds/74573223, https://ascholarlyskater.com
 
 # Artificial intelligence
 

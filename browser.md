@@ -541,6 +541,7 @@ javascript: (() =>
 - [High signal information security sources Goggle](https://github.com/forcesunseen/netsec-goggle)
 - https://github.com/marcobiedermann/search-engine-optimization
 - https://github.com/thospfuller/awesome-search-engine-optimization
+- [The potential of client-side rendered apps compared to server-side rendering](https://github.com/theninthsky/client-side-rendering)
 
 # Server-sent events (SSE)
 

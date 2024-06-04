@@ -202,6 +202,7 @@
 # <script></script>
 
 - https://blog.huli.tw/2022/04/24/en/how-much-do-you-know-about-script-type
+- https://webdeveloper.beehiiv.com/p/html-script-element-attributes-async-vs-defer-vs-typemodule
 
 # <select></select>
 
