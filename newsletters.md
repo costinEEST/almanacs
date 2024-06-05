@@ -393,6 +393,7 @@
 
 - [Peter Zeihan](https://us11.campaign-archive.com/home/?u=de2bc41f8324e6955ef65e0c9&id=5654564be1) + http://zeihan.com/newsletter
 - https://www.spytalk.co/archive
+- [Tomas Pueyo Brochard](https://unchartedterritories.tomaspueyo.com/archive)
 
 # Typescript
 
