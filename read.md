@@ -122,7 +122,7 @@
 - [J. Pedro Ribeiro](https://jpedroribeiro.com/tag/book-notes)
 - Guy Spier: https://www.libib.com/u/gspier, https://www.aquamarinefund.com/books
 - [Michael Lynch](https://mtlynch.io/book-reports)
-- [Johnathan Bi](https://johnathanbi.com/book-notes-summaries)
+- Johnathan Bi: https://www.johnathanbi.com/s/book-notes/archive?sort=new, https://www.johnathanbi.com/p/my-reading-list
 - [Attila Egri-Nagy](http://www.egri-nagy.hu/reading)
 - [Lev Lazinskiy](https://bookshop.org/shop/levlaz)
 - [Hidde de Vries](https://hidde.blog/books)

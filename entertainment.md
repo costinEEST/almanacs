@@ -1,4 +1,4 @@
-### Radio
+# Radio
 
 - https://rezo.blog/personal/2019/01/03/my-favorite-podcasts.html
 - https://devonzuegel.com/post/ode-to-audio-why-you-should-give-podcasts-and-audiobooks-a-chance + https://devonzuegel.com/post/podcast-audiobook-starter-kit
@@ -15,31 +15,31 @@
 - https://podcast.babeljs.io
 - https://www.perell.com/blog/how-i-produce-a-podcast
 
-### Blacksmithing
+# Blacksmithing
 
 - https://m.youtube.com/playlist?list=PLFufX0CL2q5HGawBmOYq8-9psvHZydXUL
 - https://m.youtube.com/@MarkAspery/playlists + https://www.amazon.com/Skills-Blacksmith-Mastering-Fundamentals-Blacksmithing/dp/0981548008 + https://youtu.be/-2yWXpOj-DQ
 
-### Board games
+# Board games
 
 - https://www.amazon.com/Holstee-Reflection-Cards-Connections-Conversations/dp/B07JM14W5L
 - [Can anyone help me out with some boardgame/card game recommendations?](https://twitter.com/jaffathecake/status/1205808801762496513)
 
-### Future
+# Future
 
 - [Current technologies](https://m.youtube.com/playlist?list=PLk97mPCd8nvZBmNg8Xcjbheq03IvYuFSC)
 - [Identity](https://m.youtube.com/playlist?list=PLk97mPCd8nvaBrobQf5IsjobG27Wzdfkc)
 
-### Secret services
+# Secret services
 
 - https://www.amazon.com/Life-Undercover-Coming-Age-CIA-ebook/dp/B07MYK8XBN
 
-### Sociology
+# Sociology
 
 - https://jumunteanu.wordpress.com/2014/01/17/7-carti-pentru-relationisti-sau-pentru-cei-interesati-in-psihologia-maselor-si-manipularea-acestora-prin-mijloacele-de-comunicare-4 + https://www.academia.edu/20833296/02._Edward_Bernays_-_Cristalizarea_opiniei_publice
 - https://en.wikipedia.org/wiki/The_Presentation_of_Self_in_Everyday_Life
 
-### Mythology
+# Mythology
 
 - [The Masks of God, 4 Vols by Joseph Campbell](https://www.goodreads.com/book/show/10159114-the-masks-of-god-4-vols)
 - https://www.amazon.com/Norse-Mythology-Heroes-Rituals-Beliefs/dp/0195153820
@@ -53,20 +53,20 @@
 - https://ro.wikipedia.org/wiki/Solomonar
 - [Inventing the Christmas Tree | Bernd Brunner](http://www.berndbrunner.com/html/christmas.html)
 
-### Mysticism
+# Mysticism
 
 - [René Guénon](https://radu-iliescu.blogspot.com/search/label/Ren%C3%A9%20Gu%C3%A9non)
 
-### Qabalah
+# Qabalah
 
 - https://www.amazon.com/Mystical-Qabalah-Dion-Fortune/dp/1578631505
 
-### Archeology
+# Archeology
 
 - ["Against the Grain" by James C. Scott](https://twitter.com/devonzuegel/status/1212414927777992705)
 - [1177 B.C. The Year Civilization Collapsed](https://paulskallas.substack.com/p/14-lindy-talk-w-prof-eric-cline)
 
-### Build
+# Build
 
 - https://m.youtube.com/user/MattRisinger/playlists
 - [Essential Craftsman](https://m.youtube.com/channel/UCzr30osBdTmuFUS8IfXtXmg/playlists)
@@ -77,18 +77,18 @@
 - [A little bit of everything from woodcarving, woodworking projects, crafts](https://m.youtube.com/c/DougOutside/playlists)
 - https://quakkels.com/posts/hand-tool-woodworking
 
-### Advertising
+# Advertising
 
 - [I. The Mechanical Bride: Folklore of Industrial Man](https://www.amazon.com/Mechanical-Bride-Folklore-Industrial-Man/dp/1584232439) + [II. The Gutenberg Galaxy](https://www.amazon.com/Gutenberg-Galaxy-Marshall-McLuhan/dp/144261269X) + [III.
   Understanding Media: The Extensions of Man](https://www.amazon.com/Understanding-Media-Extensions-Marshall-McLuhan/dp/0262631598) + [ How Marshall McLuhan Became a Famous Media Scholar](https://news.ycombinator.com/item?id=13240799) + https://nextnature.net/story/2009/the-playboy-interview-marshall-mcluhan
 
-### Consumerism
+# Consumerism
 
 - https://en.wikipedia.org/wiki/Brave_New_World
 - https://en.wikipedia.org/wiki/The_True_Cost
 - https://www.moise.ro/2017/03/18/un-eseu-despre-obsolescenta-programata + https://arenait.ro/2019/10/13/despre-obsolescenta-programata.html
 
-### Communism
+# Communism
 
 - https://peregristorii.wordpress.com/2019/12/13/un-film-uimitor-croaziera-1980-regia-mircea-danieluc
 - http://www.carteadelaora5.ro/ti-a-placut-serialul-cernobil-scenaristul-fenomenului-iti-recomanda-ce-sa-citesti-acum
@@ -98,7 +98,7 @@
 - https://cscott.net/Books/#communism
 - [Authoritarian Ruling Elites Database](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QZ9BSA) + https://sites.google.com/view/austinsmatthews/teaching
 
-### Chess
+# Chess
 
 - [A few snippets from ♟️ history](https://twitter.com/DorsaAmir/status/1199690290065530881)
 - https://m.youtube.com/channel/UCqLLqbclDQ6IQg39Wsgy-4w/playlists
@@ -115,25 +115,25 @@
 - [Paul Morphy](https://twitter.com/CupOJoseph/status/1440818308320677894)
 - https://github.com/niklasf/chess-openings
 
-### Golf
+# Golf
 
 - [Bryson DeChambeau might be the most innovative athlete in the world right now.](https://twitter.com/david_perell/status/1307811967428702208)
 
-### Semiotics
+# Semiotics
 
 - https://twitter.com/leostera/status/1219964112022753285 + https://twitter.com/prathyvsh/status/1207378814201991175
 
-### Mindfulness
+# Mindfulness
 
 - https://www.amazon.com/Presence-Process-Healing-Journey-Awareness/dp/0825305373
 - [How to Do Nothing by Jenny Odell (2019)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#how-to-do-nothing)
 
-### Creativity
+# Creativity
 
 - https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0805082115
 - https://www.amazon.com/Keep-Going-Ways-Creative-Times/dp/1523506644
 
-### Inner game
+# Inner game
 
 - [The Untethered Soul](https://twitter.com/russshanahan/status/1206578615758053376)
 - [Levels of Energy by Frederick Dodson. ](https://twitter.com/remouherek/status/1206564103994662912)
@@ -145,17 +145,18 @@
 - https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172
 - https://www.udemy.com/course/guide-to-understanding-and-assessing-personality
 
-### Body language
+# Body language
 
 - [What everybody is saying.](https://twitter.com/AnkushChander/status/1206574511669166080)
 - http://index-of.co.uk/Social-Interactions
 
-### Improvisation
+# Improvisation
 
 - https://trupaarthesium.ro/cursuri-de-teatru
 - https://github.com/hackerkid/Mind-Expanding-Books#theater-and-film
+- https://www.mihaileric.com/posts/softare-engineer-does-standup-comedy
 
-### Cooking
+# Cooking
 
 - https://divu.in/cooking
 - [Make Pizza: Instructional Videos - The Pizza Book](https://m.youtube.com/playlist?list=PLhpdihPT7EFVGJzIMaEjIdsd5dDxbUs-p)

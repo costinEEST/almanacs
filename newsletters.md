@@ -654,12 +654,12 @@
 
 # Polyglot
 
+- [Judith Meyer](https://learnlangs.substack.com/archive)
 - [LearnHebrew.TV](https://us12.campaign-archive.com/home/?u=bbfadccb964a11c5a7a496a64&id=d4ec934372)
 - [Spanish and Go](https://us14.campaign-archive.com/home/?u=272e33053f331a3b490eee682&id=98bc997016)
 - [Romanian with Gia Manolea](https://us17.campaign-archive.com/home/?u=1a3c2807fdd6a5507efaff5d8&id=2cf4cda75e)
 - https://colingorrie.substack.com/archive
 - [Colin Gorrie & Natasha Lipman](https://howdoyousay.substack.com/about)
-- [Judith Meyer](https://learnlangs.substack.com/archive)
 - [Joe Previte](https://speakargentinianspanish.beehiiv.com)
 
 # Travel
