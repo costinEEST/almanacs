@@ -65,6 +65,7 @@
 - https://www.goodreads.com/review/list/12178282?shelf=stoicism
 - https://piggsboson.medium.com/what-is-scientific-stoicism-922392bbbfab
 - Joost Lips: https://plato.stanford.edu/entries/justus-lipsius, https://en.wikipedia.org/wiki/Neostoicism, https://iep.utm.edu/neostoic, https://iep.utm.edu/lipsius, https://historyofphilosophy.net/transcript/lipsius-stoics-sellars, https://www.espressofilosofic.ro/filosofie-a-religiei/justus-lipsius-si-readucerea-stoicismului-in-prim-plan
+- https://paleologu.com/curs/inviorare-stoica-curs-de-dimineata-epictet-theodor-paleologu-razvan-ioan
 
 # Marxism
 

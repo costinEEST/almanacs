@@ -55,6 +55,7 @@
 - https://amygoodchild.substack.com/archive
 - [Uniunea Artiștilor Plastici (UAP)](https://us9.campaign-archive.com/home/?u=2a08fdb9ce5e94a16b1f69f08&id=3880383ed3)
 - Alexandra Kiely: https://wordpress.com/read/feeds/74573223, https://ascholarlyskater.com
+- [Revista Cultura](https://us20.campaign-archive.com/home/?u=283e2184fb3ed725e7652d7c9&id=061999ac6f)
 
 # Artificial intelligence
 
@@ -136,6 +137,7 @@
 - [Joshua Tiernan](https://tinyempires.substack.com/archive)
 - [Teodora Chinde: pentru antreprenori și experți în marketing, social media și branding](https://substack.com/@techtonikanewsletter)
 - [CreativeMornings Bucharest](https://us13.campaign-archive.com/home/?u=3d6e931050353807b7396f503&id=1d5df12e44)
+- [CreativeMornings/TM](https://us15.campaign-archive.com/home/?u=49cdef763366a026dce6133ce&id=4aaf68769c)
 - [Sibelius Seraphini](https://sibelius.substack.com/archive)
 - [Addy Osmani](https://addyo.substack.com/archive)
 - [Aron Korenblit (AirTable; Automation)](https://aatt.io/newsletter)
@@ -357,7 +359,7 @@
 - [Jake Knapp](https://www.getrevue.co/profile/designsprint)
 - [Matthew Ström](https://buttondown.email/mattstrom/archive)
 - [Eugene Fedorenko](https://us5.campaign-archive.com/home/?u=83da65c877f13a622c18a7fbf&id=ded3ad2e0d)
-- [Brandient](https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5) + https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5
+- [Brandient](https://us9.campaign-archive.com/home/?u=51c4353a0a90725c02fd45bdc&id=d39d72eef5)
 - [Elizabeth Lin](https://tinyletter.com/lalizlabeth/archive)
 - [Brian Lovin](http://overthought.brianlovin.com/#archive)
 - [Joey Banks](https://substack.com/profile/1093844-joey-banks)
@@ -651,7 +653,7 @@
 - [Codruța Simina & Ovidiu Mihalcea: știri despre știrile false](https://misreport.substack.com/archive)
 - [Starea nației | Dragoș Pătraru](https://us19.campaign-archive.com/home/?u=63a8eb99e7303ae445b623639&id=deb876637c)
 - [Comunitatea liberală](https://us21.campaign-archive.com/home/?u=2ea24471aa080dc5e46fc6a85&id=d784008e7e)
-
+- [David Smith: A look at the top news in Moldovan political and economic sectors each week](https://moldovamatters.substack.com)
 # Social sciences
 
 - [Luke Burgis](https://archive.feedblitz.com/1110672) + https://read.lukeburgis.com/archive
@@ -679,6 +681,7 @@
 - [All Points North: Together Virtually (Ex Heygo guides)](https://us10.campaign-archive.com/home/?u=5d437d36d60f77d9fb59bcdf4&id=3f83bdb637)
 - [Tim Parfitt - Letter from Spain](https://substack.com/@timparfitt)
 - [Noutăți comunitatea Incotroceni](https://us14.campaign-archive.com/home/?u=2b2d6bcc63246568b143bffc1&id=19be20d9a4)
+- [Anna Levina](https://us17.campaign-archive.com/home/?u=64bb705f04cb50a8e46684856&id=839056e049)
 
 # Windows OS
 
