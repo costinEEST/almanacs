@@ -209,6 +209,7 @@
 - [Danny Moerkerke](https://modern-web-weekly.ghost.io)
 - [EventHandler Tel Aviv](https://us14.campaign-archive.com/home/?u=129f365a5675cdee0989d5f95&id=f44d0b638f)
 - [Scott Jehl](https://us18.campaign-archive.com/home/?u=c133136142bd16e4b4d7538a8&id=320a0da0d1)
+- [Jamie Birch](https://buttondown.email/whatever_jamie/archive)
 
 # Judaism
 
