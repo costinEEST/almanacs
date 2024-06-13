@@ -46,6 +46,7 @@
 - [Open-source developer platform to turn scripts into workflows and UIs; alternative to Airplane and Retool](https://github.com/windmill-labs/windmill)
 - [A SvelteKit template for building CMS-free editable websites](https://github.com/michael/editable-website)
 - https://github.com/decepulis/kcdc.fun
+- https://github.com/ankitects/anki + [Switch to SvelteKit](https://github.com/ankitects/anki/pull/3077) 
 
 # Miscellaneous
 
