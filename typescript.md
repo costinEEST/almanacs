@@ -162,6 +162,7 @@
 - [A tool to generate a single bundle of dts with types tree-shaking](https://github.com/timocov/dts-bundle-generator)
 - TypeScript modules that work with both CommonJS and ESM: https://isaacs.github.io/tshy, https://twitter.com/izs/status/1702034259584893329, https://twitter.com/atcb/status/1702069237710479608
 - [An incomplete ActivityPub implementation](https://github.com/indutny/mean.engineer)
+- Asset management software: https://github.com/Shelf-nu/shelf.nu, https://news.ycombinator.com/item?id=36666702
 
 # Watch
 

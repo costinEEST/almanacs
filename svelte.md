@@ -89,3 +89,4 @@
 - https://github.com/icflorescu/quick-romanian-freelance-tax-calculator
 - https://www.yieldcode.blog/post/rendering-emails-with-svelte
 - [framework for mostly-reusable graphics](https://github.com/mhkeller/layercake)
+- https://yieldnews.substack.com/p/rendering-and-previewing-emails-with, https://www.yieldcode.blog/post/rendering-emails-with-svelte, https://github.com/GauBen/svelte-emails

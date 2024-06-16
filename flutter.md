@@ -9,6 +9,7 @@
 - https://github.com/anitab-org/mentorship-flutter
 - [Cross-platform Spaced Repetition App](https://github.com/friebetill/TubeCards)
 - [An open source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
+- Self-hosted photo and video backups directly from your mobile phone: https://news.ycombinator.com/item?id=36673224, https://github.com/immich-app/immich
 
 # Book
 

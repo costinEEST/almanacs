@@ -22,6 +22,7 @@
 - https://blog.ngzhian.com/a-history-of-clojure.html
 - https://blog.asciinema.org/post/smaller-faster
 - https://news.ycombinator.com/item?id=23165096
+- [Closure, from why the lucky stiff (2013)](https://news.ycombinator.com/item?id=36632010)
 
 # Practice
 

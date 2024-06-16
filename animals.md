@@ -29,6 +29,7 @@
 - https://www.mentalfloss.com/article/52624/11-things-we-know-about-dodo
 - https://www.allaboutbirds.org/cams + https://academy.allaboutbirds.org/course-list + https://dl.allaboutbirds.org/bayareafocusgroup + https://m.youtube.com/@cornell_lab/playlists?view=1&sort=lad&flow=grid + https://feederwatch.org/learn/common-feeder-birds + https://www.allaboutbirds.org/news/how-to-choose-the-right-kind-of-bird-feeder + https://www.allaboutbirds.org/news/wp-content/uploads/2009/04/BirdNote09-ProvideWater-2013-2021.pdf 
 - https://www.sor.ro/membri-expati-gerard-gorman-cunoscutul-specialist-in-ciocanitori
+- [Birds make nests out of anti-bird pins](https://news.ycombinator.com/item?id=36689463)
 
 # Crawler
 
@@ -57,6 +58,7 @@
 - https://www.amazon.com/Beekeepers-Bible-Honey-Recipes-Other/dp/1584799188
 - https://www.spiegel.de/international/the-food-of-the-future-grasshoppers-are-more-valuable-than-caviar-a-d34a9baf-4c91-45ac-8998-2aba6fa11cae
 - https://mindcraftstories.ro/stiinta/zumzete-din-stiinta-urmarirea-albinelor-cu-ajutorul-florilor-robotice-si-al-senzorilor-din-stupi
+- [Telling the Bees](https://news.ycombinator.com/item?id=36699327)
 
 # Mammalian
 

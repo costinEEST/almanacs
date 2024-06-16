@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://www.ldeming.com/how-to-help + https://ldeming.posthaven.com/tips-for-newcomers-to-longevity-biotech + https://twitter.com/LauraDeming/status/1317248506738868225
 - [Biology Is Technology: The Promise, Peril, and New Business of Engineering Life](https://www.amazon.com/Biology-Technology-Promise-Business-Engineering/dp/0674060156)
@@ -19,7 +19,7 @@
 - https://www.amazon.com/Random-Walks-Biology-Howard-Berg/dp/0691000646
 - https://www.worldcat.org/title/dictionar-de-termeni-biotehnologici/oclc/895285913
 
-### Course
+# Course
 
 - https://github.com/llSourcell/Learn_Synthetic_Biology
 - [Biology by CrashCourse](https://m.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
@@ -34,7 +34,7 @@
 - https://www.udemy.com/course/the-complete-high-school-and-college-biology
 - [Finding Hidden Messages in DNA (Bioinformatics I)](https://www.coursera.org/learn/dna-analysis) + https://leanpub.com/findinghiddenmessagesindna
 
-### Community
+# Community
 
 - [Ellen Jorgensen](http://www.biotechwithoutborders.org)
 - [Michael Retchin](https://twitter.com/MichaelRetchin/status/1365712597463490560)
@@ -48,7 +48,7 @@
 - [Michael Levin](https://www.drmichaellevin.org/presentations)
 - [Bioinformatics](https://www.facebook.com/groups/1058716941006035)
 
-### Cinema
+# Cinema
 
 - [BIOL 1020 - Biology for non-majors. Dr. Leonard Robertson | ETSU Online](https://m.youtube.com/playlist?list=PLAjrswY6TkLAGyEefr6CmsuTaWBKlzKIw)
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUe2RDl_soTaxj1KVuuQFOUX
@@ -69,13 +69,13 @@
 - Getting up to Speed in Biology> https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about + https://m.youtube.com/playlist?list=PLUl4u3cNGP629Egng0HfgRJfXBNTPw1le
 - [2020: Physical Biology of the Cell | mblwoodshole](https://m.youtube.com/playlist?list=PLZYs-G4nf1MbvWTKboKgyEwkPKCs-QR6i) + https://www.routledge.com/Physical-Biology-of-the-Cell/Phillips-Kondev-Theriot-Garcia/p/book/9780429168833
 
-### Epigenetics
+# Epigenetics
 
 - [Diet, Genes and Your Health: Unlock Your Genetic Potential with the Science of Epigenetics](https://youtu.be/LRa39HQtE4c)
 - https://www.amazon.com/Epigenetics-Second-C-David-Allis/dp/1936113597 + https://www.ibiology.org/genetics-and-gene-regulation/epigenetics
 - https://online.stanford.edu/courses/xgen207-epigenetics-and-microbiomics-precision-health
 
-### Genomics
+# Genomics
 
 - https://www.ancestry.com/dna
 - https://www.myheritage.ro/dna
@@ -101,8 +101,9 @@
 - [New mRNA cancer vaccine triggers fierce immune response to fight malignant brain tumor](https://www.sciencedaily.com/releases/2024/05/240501125736.htm)
 - [An important trial of the world's first "personalised" mRNA vaccine against the deadliest form of skin cancer - melanoma - is now under way in the UK](https://www.bbc.com/news/health-68897731)
 - [An mRNA vaccine to treat pancreatic cancer](https://www.nih.gov/news-events/nih-research-matters/mrna-vaccine-treat-pancreatic-cancer)
+- [OpenWorm – A computational model of C. elegans worm](https://news.ycombinator.com/item?id=36628258)
 
-### Miscellaneous
+# Miscellaneous
 
 - [The Fundamentals of Neuroscience | Harvard University](https://www.mcb80x.org/)
 - https://jasoncollins.blog/economics-and-evolutionary-biology-reading-list/
@@ -132,13 +133,13 @@
 - https://nautil.us/why-nature-prefers-hexagons-235863
 - [50% of the global economy is under threat from biodiversity loss](https://www.weforum.org/agenda/2023/02/biodiversity-nature-loss-cop15)
 
-### Teachers
+# Teachers
 
 - https://www.perell.com/podcast/joe-henrich-what-makes-society-smart + http://hci.ucsd.edu/102b/readings/WeirdestPeople.pdf + https://medium.com/conversations-with-tyler/joe-henrich-culture-evolution-weird-psychology-social-norms-9756a97850ce + https://youtu.be/dRUyfW0ECNg
 - [Dr Bhavsar's A level Biology Flashcards](https://www.brainscape.com/p/2WID3-LH-8XB8T)
 - https://www.shomusbiology.com/bio-materials.html + https://m.youtube.com/c/SumanBhattacharjeeShomusBiologyOnline/playlists
 
-### Radio
+# Radio
 
 - https://celadonbooks.com/interviews/genome-odyssey-euan-ashley-interview
 - https://ark-invest.com/podcast/understanding-mrna-conversations-with-moderna-and-arcturus-therapeutics + https://twitter.com/aurmanARK/status/1356383891909705730

@@ -11,6 +11,7 @@
 - https://www.manning.com/books/data-privacy
 - [The Software IP Detective’s Handbook](https://www.linkedin.com/feed/update/urn:li:activity:7082241260207427585)
 - [Data Privacy. A runbook for engineers | Nishant Bhajaria (2022)](https://www.manning.com/books/data-privacy)
+- https://www.nyuengelberg.org/outputs/the-anti-ownership-ebook-economy, https://news.ycombinator.com/item?id=36705070
 
 # Bypass
 

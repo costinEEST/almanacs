@@ -1,3 +1,7 @@
+# 00
+
+- [What tech newsletters are you currently subscribing to?](https://news.ycombinator.com/item?id=36671105)
+
 # API 
 
 - [Mahdi Yusuf](https://architecturenotes.co/archive)
@@ -243,6 +247,7 @@
 - [Ian Cutress. The latest in semiconductors: silicon, AI, processors, market trends](https://morethanmoore.substack.com/archive)
 - [Chris Combs](https://us16.campaign-archive.com/home/?u=db333b11de2809a2e919041d1&id=5850b17aff)
 - [Matt Liberty](https://us19.campaign-archive.com/home/?u=873375f7fba5250aba20e71e6&id=2ee675b0bd)
+- [Embedded.fm](https://us12.campaign-archive.com/home/?id=d82c81a27b&u=bb8caeb750ad079df2b961c41)
 
 # Internet of money
 
@@ -643,6 +648,7 @@
 - [Orhun Parmaksız](https://blog.orhun.dev/rss.xml)
 - [Paris Liakos](https://us9.campaign-archive.com/home/?u=e4585d987021695e5426f50c5&id=2bebc9a948)
 - [Nicole Tietz-Sokolskaya](https://buttondown.email/ntietz/archive)
+- [Dmitry Kudryavtsev](https://substack.com/profile/56264434-dmitry-kudryavtsev)
 
 # Politics
 
@@ -656,6 +662,8 @@
 - [Starea nației | Dragoș Pătraru](https://us19.campaign-archive.com/home/?u=63a8eb99e7303ae445b623639&id=deb876637c)
 - [Comunitatea liberală](https://us21.campaign-archive.com/home/?u=2ea24471aa080dc5e46fc6a85&id=d784008e7e)
 - [David Smith: A look at the top news in Moldovan political and economic sectors each week](https://moldovamatters.substack.com)
+- https://catalintenita.substack.com/archive
+
 # Social sciences
 
 - [Luke Burgis](https://archive.feedblitz.com/1110672) + https://read.lukeburgis.com/archive

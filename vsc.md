@@ -39,13 +39,12 @@
 - https://addyosmani.com/blog/visualize-data-structures-vscode
 - https://blog.robenkleene.com/2020/09/21/the-era-of-visual-studio-code
 - https://www.toptal.com/visual-studio/vscode-tips-power-users
-- https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour
 - https://twitter.com/SaraSoueidan/status/1320644057228595200
 - https://devdojo.com/bobbyiliev/top-10-vscode-shortcuts-for-mac-and-windows-to-help-you-be-more-productive
 - ["HTML" as the identifier for your PHP heredoc/nowdoc strings](https://twitter.com/LiamHammett/status/1342857802574950400)
 - https://github.com/shd101wyy/markdown-preview-enhanced
 - [get all the list of extensions in your visual studio code editor.](https://gokul.site/uses)
-- [VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor.](https://github.com/microsoft/codetour)
+- Record and playback guided tours of codebases, directly within the editor: https://github.com/microsoft/codetour, https://www.youtube.com/shorts/KQB8FRoJaH4
 - https://nelsonslog.wordpress.com/2021/09/10/switching-to-vs-code
 - https://dev.to/5t3ph/build-tools-and-extensions-i-use-in-front-end-projects-2ko5
 - https://github.com/TomaszWaszczyk/shortcuts-productive-hacks

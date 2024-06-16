@@ -23,6 +23,10 @@
 - [How Regexes Work](https://perl.plover.com/Regex/article.html)
 - https://learnbyexample.github.io/curated_resources/perl.html
 
+# Historic 
+
+- [Perl first commit: a “replacement” for Awk and sed](https://news.ycombinator.com/item?id=36650120)
+
 # Testing 
 
 - https://szabgab.com/courses/testing-perl
