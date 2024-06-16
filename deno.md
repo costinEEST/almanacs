@@ -35,3 +35,4 @@
 # Tool
 
 - [web framework for Cloudflare Workers, Deno, Bun](https://github.com/honojs/hono)
+- [Interact with the Chrome DevTools Protocol](https://jsr.io/@simple-cdp/simple-cdp)

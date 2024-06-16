@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://www.google.com/search?q=Andrew+Loomis+free+archive+ebooks
 - [Alla Prima II Everything I Know about Painting--And More - Richard Schmid with Katie Swatland](https://www.amazon.com/gp/product/096621174X)
@@ -8,7 +8,7 @@
 - https://noahbradley.com/10-books-every-artist-must-read
 - https://www.goodreads.com/book/show/39812877-make-your-own-pixel-art
 
-### Course
+# Course
 
 - [Practical Cartooning for Technical Folk](https://courses.rachelnabors.com/p/practical-cartooning)
 - https://elespejohumeante.wordpress.com/bibliografia-para-historia-del-dibujo
@@ -19,12 +19,12 @@
 - https://www.udemy.com/course/engineering-drawing-graphics
 - https://www.udemy.com/course/revit-structural-drawing-of-15-stories-residential-building
 
-### Cinema
+# Cinema
 
 - [Quick Coloring Tricks | Color with Kurt](https://m.youtube.com/playlist?list=PLJyhITEA-P5gKgurHnxU9LAtZKBWhnTd4)
 - [Marshall Vandruff](https://m.youtube.com/c/MarshallVandruffVideos/playlists)
 
-### Comics
+# Comics
 
 - https://www.cat-animation.com/resources
 - https://adevarul.ro/cultura/arte/portret-bedefil-adrian-cioroianu-fan-bd-state-vechi-1_5266158ec7b855ff5665c2d1/index.html
@@ -32,11 +32,11 @@
 - [I get to draw birds!](https://twitter.com/hootalex/status/1364594215875969028)
 - https://thecreativeindependent.com/people/cartoonist-jeff-smith-on-letting-your-imagination-roam-free
 
-### Community
+# Community
 
 - [Hayao Miyazaki](https://www.google.com/search?q=Hayao+Miyazaki+site%3Aartvsentropy.wordpress.com)
 
-### Tool
+# Tool
 
 - https://ralphammer.com/the-perfect-drawing-tool
 - https://m.youtube.com/c/ArtwithFlo/playlists
@@ -52,7 +52,7 @@
 - https://github.com/jasonwebb/morphogenesis-resources
 - https://github.com/tombetthauser/watercolor-basics
 
-### Miscellaneous
+# Miscellaneous
 
 - [Is it possible to write a lecture in real time on an iPad?](https://twitter.com/math3ma/status/1237510003856003072)
 - https://m.youtube.com/user/marcobucci/playlists
@@ -67,3 +67,4 @@
 - [a thread why everything you know about learning to draw is wrong](https://twitter.com/visual_linguist/status/1373665959790190611)
 - https://www.domestika.org/en/blog/4097-more-than-270-000-free-nature-illustrations-from-the-biodiversity-heritage-library
 - https://github.com/nikitavoloboev/knowledge/blob/main/art/sketching.md
+- [Anyone here have good material for learning how to sketch from scratch?](https://news.ycombinator.com/item?id=30469036)

@@ -128,3 +128,4 @@
 # .zip
 
 - https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5 + [Monitoring the internet for new .zip domains]https://github.com/trickest/zip) + https://mrd0x.com/file-archiver-in-the-browser/?no-cache=1
+- https://github.com/gildas-lormeau/Polyglot-HTML-ZIP-PNG
