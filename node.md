@@ -243,6 +243,7 @@
 - [Learn how to use CLI apps](https://github.com/jonahsnider/how)
 - https://www.stefanjudis.com/today-i-learned/package-json-values-are-accessible-in-npm-yarn-scripts 
 - https://alan.norbauer.com/articles/cross-platform-nodejs
+- https://www.yagiz.co/developing-fast-builtin-task-runner
 
 # Cheat sheet
 

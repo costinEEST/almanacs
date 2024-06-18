@@ -151,6 +151,7 @@
 - https://substack.com/@hackingwork/posts
 - [7card](https://us6.campaign-archive.com/home/?u=9e94e95e9b847d93577c8c4de&id=a8dae129d2)
 - [Andreea Roșca: Vast&Curious](https://us14.campaign-archive.com/home/?u=f39856b6f5ec76d98534ec04f&id=b12a0b3a21)
+- [Joshua Waitzkin: The Art of Training](https://us22.campaign-archive.com/home/?u=9ab3b28c281bc6a2f220109ec&id=b6a158cee6)
 
 # Buddhism
 
@@ -692,6 +693,7 @@
 - [Tim Parfitt - Letter from Spain](https://substack.com/@timparfitt)
 - [Noutăți comunitatea Incotroceni](https://us14.campaign-archive.com/home/?u=2b2d6bcc63246568b143bffc1&id=19be20d9a4)
 - [Anna Levina](https://us17.campaign-archive.com/home/?u=64bb705f04cb50a8e46684856&id=839056e049)
+- https://nickipoststravelstuff.substack.com/archive
 
 # Windows OS
 
