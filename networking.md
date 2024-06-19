@@ -6,6 +6,10 @@
 
 - https://kognise.dev/writing/arp + https://github.com/kognise/arpchat
 
+# Bluetooth Low Energy
+
+- https://octet-stream.net/2024/05/building-cross-platform-offline-first-apps-with-bluetooth-low-energy
+
 # Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUdM5w5thzXQdyVi_MPcktVC
