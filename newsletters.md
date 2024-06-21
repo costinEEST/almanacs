@@ -525,6 +525,7 @@
 - https://renamalikmd.beehiiv.com
 - [Karan Rajan](https://drkaran.beehiiv.com)
 - [Bertalan Meskó](https://www.patreon.com/themedicalfuturist/posts)
+- [Mihail Pautov](https://doctormihail.substack.com/archive)
 
 # Linux OS
 
