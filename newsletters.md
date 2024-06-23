@@ -1,6 +1,7 @@
 # 00
 
 - [What tech newsletters are you currently subscribing to?](https://news.ycombinator.com/item?id=36671105)
+- https://vladbogos.com/newsletter-limba-romana
 
 # API 
 
@@ -383,6 +384,7 @@
 - [Ash Huang](https://buttondown.email/ashsmash/archive)
 - [Antonija Pek](https://buttondown.email/designparty/archive)
 - https://figmapluginweekly.substack.com/archive
+- [Juan Buis: UX Writing, Content Design](https://supershort.substack.com/archive)
 
 # Data visualization
 
@@ -471,6 +473,7 @@
 
 - [I Love Typography](https://news.ilovetypography.com/archive)
 - [Andrei Robu](https://typeverything.substack.com/archive)
+- https://mbxs.matthewbutterick.com
 
 # Writing
 
@@ -501,6 +504,7 @@
 - [Berti Panaiot](https://coffeelicious.substack.com/archive)
 - https://fundis.substack.com/archive + https://fundis.org/resources/email-list
 - [Dave Infante (drinking in America)](https://www.fingers.email/archive)
+- [Georgiana Ilie: Meal planning de care te poți ține](https://www.mealplanning.ro/archive)
 
 # Health
 
@@ -681,6 +685,11 @@
 - [Colin Gorrie & Natasha Lipman](https://howdoyousay.substack.com/about)
 - [Joe Previte](https://speakargentinianspanish.beehiiv.com)
 
+# Sport 
+
+- [Andreea Giuclea](https://povestidinsport.substack.com/archive)
+- [Vlad Bogos: Fotbal pentru weekend](https://tackle.ro/newsletter)
+
 # Travel
 
 - [Alternative Tours](https://us20.campaign-archive.com/home/?u=f1b8e8fc565e4aa7532df290e&id=c269925f5f)
@@ -695,6 +704,7 @@
 - [Noutăți comunitatea Incotroceni](https://us14.campaign-archive.com/home/?u=2b2d6bcc63246568b143bffc1&id=19be20d9a4)
 - [Anna Levina](https://us17.campaign-archive.com/home/?u=64bb705f04cb50a8e46684856&id=839056e049)
 - https://nickipoststravelstuff.substack.com/archive
+- [Alex Enășescu: Iașul Nostru](https://www.iasulnostru.ro/archive)
 
 # Windows OS
 

@@ -24,6 +24,7 @@
 - [Daniel Duggan](https://www.patreon.com/_RastaMouse)
 - [James Montemagno](https://m.youtube.com/c/JamesMontemagno/playlists)
 - https://www.linkedin.com/posts/milan-jovanovic_here-are-three-books-that-made-me-a-better-activity-7020297617767071744-Z9TN
+- https://x.com/i/communities/1488624124817666051
 
 # Demo
 
@@ -50,6 +51,7 @@
 - [A spectral visualizer that analyzes the frequencies of music and sound, written in Godot 3.1](https://github.com/Bauxitedev/spectral-visualizer)
 - [An ethical bridge from Twitter](https://github.com/NicolasConstant/BirdsiteLive)
 - [OAuth 2.0 and OpenID Connect debugging tool](https://github.com/nbarbettini/oidc-debugger)
+- https://github.com/praeclarum/AskGPT
 
 # Scrapping
 

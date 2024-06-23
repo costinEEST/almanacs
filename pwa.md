@@ -1,20 +1,20 @@
-### Boilerplate
+# Boilerplate
 
 - https://github.com/localnerve/react-pwa-reference
 - [Progressive Web Apps API of APIs](https://github.com/pwafire/pwafire)
 - [Zero config PWA plugin for Next.js, with workbox](https://github.com/shadowwalker/next-pwa)
 
-### Book
+# Book
 
 - [pwas-the-future-of-the-mobile-web](https://twitter.com/tomayac/status/1067505747456638976)
 - https://github.com/gauntface/web-push-book
 
-### Course
+# Course
 
 - [Progressive Web App Training - Google Chrome Developers](https://m.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh) + https://web.dev/learn/pwa
 
 
-### Case study
+# Case study
 
 - https://devblogs.microsoft.com/sustainable-software/green-energy-efficient-progressive-web-apps
 - [Learn why and how other developers have used the web to create amazing web experiences for their users.](https://developers.google.com/web/showcase)
@@ -22,13 +22,13 @@
 - https://medium.com/samsung-internet-dev/improve-device-integration-for-your-web-app-in-just-a-few-minutes-cca413c4f0f
 - https://web.dev/clipchamp
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/c/PWABuilder/videos
 - https://m.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY
 
 
-### Development
+# Development
 
 - https://firt.dev/pwa-2021
 - https://microsoft.github.io/win-student-devs/#/30DaysOfPWA/kickoff
@@ -50,7 +50,7 @@
 - https://github.com/karlhorky/pwa-tricks
 - https://kevinbasset.medium.com/why-havent-pwas-killed-native-apps-yet-29beca4425fa
 
-### Demo
+# Demo
 
 - [Appscope - Progressive Web Apps Examples](https://appsco.pe)
 - [Generate a fake app to replace any addictive app](https://github.com/sandoche/Detoxify-app)
@@ -79,12 +79,13 @@
 - https://gitlab.com/keraf/progressive-capitalist
 - https://github.com/ThaUnknown/pwa-haven
 
-### Security
+# Security
 
 - https://blog.nviso.eu/2020/01/16/deep-dive-into-the-security-of-progressive-web-apps
 
-### Opinion
+# Opinion
 
 - https://twitter.com/firt/status/1367205341302243333
 - https://twitter.com/HenrikJoreteg/status/1354625168497201161
 - https://blog.mozilla.org/ux/2023/02/people-do-use-add-to-home-screen
+- https://patrickbrosset.com/articles/2024-06-10-my-analysis-of-the-state-of-html-2023-results,  the problems are predominantly iOS
