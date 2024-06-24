@@ -6,6 +6,7 @@
 - [The Me, Me, Me Epidemic | Amy McCready](https://sive.rs/book/MeMeMe)
 - [How I Found Freedom in an Unfree World | Harry Browne](https://sive.rs/book/FoundFreedomUnfree)
 - https://simplycharlottemason.com/store/formation-character-charlotte-masons-original-home-schooling-series-volume-5
+- [Meseria de părinte, sistemul de educație și jocul liber | Vocea Nației #188](https://www.youtube.com/watch?v=XovoBiI1kdA)
 
 # Dump
 

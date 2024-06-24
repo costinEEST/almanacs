@@ -110,6 +110,7 @@
 - [Chelsea Green Publishing](https://us17.campaign-archive.com/home/?u=601c4304348f71e6047556d16&id=1f480ae12f)
 - [Island Press](https://us6.campaign-archive.com/home/?u=3bd33456aa62e826309baafd1&id=ec2fe5ec1a)
 - [Harvard Science Book Talks](https://hsbt.substack.com/archive)
+- [Elif Şafak: Turkish-British novelist and essayist](https://elifshafak.substack.com/archive)
 
 # Business
 
