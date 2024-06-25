@@ -1,3 +1,7 @@
+# Book
+
+- https://x.com/robertoblake/status/1803774140408623489, https://www.amazon.com/dp/B09ZBKBY9D
+
 # Course
 
 - https://www.udemy.com/course/udemy-bootcamphow-to-quickly-creat-a-good-course-unofficial

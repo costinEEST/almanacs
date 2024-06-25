@@ -1,7 +1,7 @@
 # Book
 
 - https://www.goodreads.com/book/show/1032724.The_Art_of_SQL
-- [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/) + [What are must-know concepts for back end development?](https://news.ycombinator.com/item?id=18961793) + https://schiener.io/2022-02-25/designing-data-intensive-applications + https://schiener.io/2022-02-26/understanding-distributed-systems
+- [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/): [review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications) + [HN](https://news.ycombinator.com/item?id=20550516) + [Reddit](https://www.reddit.com/r/programming/comments/cj6x91/book_review_designing_dataintensive_applications/) + [What are must-know concepts for back end development?](https://news.ycombinator.com/item?id=18961793) + https://schiener.io/2022-02-25/designing-data-intensive-applications + https://schiener.io/2022-02-26/understanding-distributed-systems, https://gist.github.com/bcherny/b870a60d1650973df7e400c8603ac76d
 - https://lethain.com/handbook-relational-db-design-on-data-modeling
 - https://www.amazon.com/DBA-Survivor-Become-Rock-Star/dp/1430227877
 - [beginners](https://twitter.com/samerbuna/status/1183771023054987264)

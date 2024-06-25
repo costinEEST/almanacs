@@ -35,3 +35,4 @@
 - https://github.com/prashanth1k/pandoc-ebook-template-windows
 - https://github.com/stars/o-az/lists/markdown
 - https://github.com/yandeu/md-to-book
+- https://github.com/gergelykalman/confluence-markdown-exporter

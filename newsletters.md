@@ -116,6 +116,7 @@
 
 - https://github.com/mezod/awesome-indie#newsletters
 - https://www.producthunt.com/newsletters/archive
+- [Jon Y: economics and history](https://www.asianometry.com/archive)
 - https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 - [Ethan Mollick](https://www.oneusefulthing.org/archive)
 - [Sergiu Biriș](https://us20.campaign-archive.com/home/?u=7fc44f22e7fb41560c5ec4a08&id=e046ca20a2) + https://sergiubiris.substack.com/archive
@@ -218,6 +219,7 @@
 - [Scott Jehl](https://us18.campaign-archive.com/home/?u=c133136142bd16e4b4d7538a8&id=320a0da0d1)
 - [Jamie Birch](https://buttondown.email/whatever_jamie/archive)
 - https://substack.com/@mattfrisbie
+- [Juntao Qiu: React clean code and refactoring](https://juntao.substack.com/archive)
 
 # Judaism
 

@@ -120,6 +120,7 @@
 - [BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency](https://github.com/ExistentialAudio/BlackHole)
 - https://radex.io/xcode7-xcode8
 - https://github.com/stars/JJTech0130/lists/apple-api
+- Full control over your window management: https://github.com/kasper/phoenix, https://github.com/azamuddin/phoenix/blob/master/.phoenix.js
 
 # Security
 
@@ -132,3 +133,4 @@
 - https://github.com/houjingyi233/macOS-iOS-system-security
 - [Apple M1 GPU hacking | Asahi Lina](https://m.youtube.com/playlist?list=PL8S0yfRexZUKFPqUMAI3AXgKg7AwCre63)
 - [A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware](https://github.com/hack-different/apple-knowledge)
+- CVE-2023-32422: https://wojciechregula.blog/post/multiple-tcc-bypasses-via-sqlite-env-vars, https://github.com/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite, https://gergelykalman.com/sqlol-CVE-2023-32422-a-macos-tcc-bypass.html, https://gergelykalman.com/my-obts-v6-talk-on-youtube.html, https://www.youtube.com/watch?v=rfGcd0YrbTM

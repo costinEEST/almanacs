@@ -110,6 +110,7 @@
 - [A collection of engineering ladders for reference and inspiration](https://github.com/bmoeskau/engineering-ladders)
 - [I think the movie Metallica: Some Kind of Monster should be _required viewing_ for cross-functional product teams.](https://twitter.com/mattlemay/status/1215735335348404224)
 - https://medium.com/@WebReflection/what-does-agile-mean-743d6742dae7
+- [Advances in Streamlining Software Delivery on the Web and its Relations to Embedded Systems](https://github.com/kasper/masters-thesis)
 - https://github.com/LappleApple/awesome-leading-and-managing
 - https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a
 - https://www.sachinrekhi.com/top-resources-for-product-managers

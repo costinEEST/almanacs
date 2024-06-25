@@ -13,18 +13,8 @@
 - https://mostrecommendedbooks.com/experts
 - https://bibliotecaexploratorilor.substack.com/p/stiinta-este-pentru-toata-lumea
 - https://fermatslibrary.com/journal_club
-
-# Course
-
-- [History of the Book and of Reading | Carol Chiodo](https://sites.google.com/view/historyofthebookreading)
-
-# Cinema
-
-- https://m.youtube.com/playlist?list=PLWIcRrPLCdUfqLfnXjHjvQgSTZbzAAcAd
-
-# Tips
-
-- [How to Mark a Book By Mortimer J. Adler, Ph.D.](https://web.archive.org/web/20200213203215/http://chuma.cas.usf.edu/~pinsky/mark_a_book.htm)
+- [What app do you use for book recommendations?](https://news.ycombinator.com/item?id=37531580)
+- [How to Mark a Book By Mortimer J. Adler](https://web.archive.org/web/20200213203215/http://chuma.cas.usf.edu/~pinsky/mark_a_book.htm)
 - https://sirupsen.com/read
 - https://github.com/jlevy/on-books
 - https://michaelcurzi.substack.com/p/19-how-to-run-a-book-group
@@ -35,6 +25,14 @@
 - https://kapravelos.com/advice
 - https://psyche.co/guides/how-to-nurture-and-grow-a-personal-library-of-books
 - https://www.freethink.com/culture/neuroscience-speed-reading
+
+# Course
+
+- [History of the Book and of Reading | Carol Chiodo](https://sites.google.com/view/historyofthebookreading)
+
+# Cinema
+
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUfqLfnXjHjvQgSTZbzAAcAd
 
 # Tool
 

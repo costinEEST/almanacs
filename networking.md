@@ -531,3 +531,7 @@
 - https://onmyway133.com/posts/learning-voip-rtp-and-sip-aka-awesome-pjsip
 - https://github.com/onmyway133/awesome-voip
 - [What I learned of the VOIP hacker scene by setting up a SIP Honeypot](https://shufflingbytes.com/posts/sip-honeypot)
+
+# VPN (Virtual Private Network)
+
+- https://gergelykalman.com/why-you-shouldnt-use-a-commercial-vpn-amateur-hour-with-windscribe.html

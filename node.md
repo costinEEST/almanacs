@@ -41,6 +41,7 @@
 - https://github.com/spotify/web-api-auth-examples
 - [A 'Google Authenticator' like Single Page Application](https://github.com/qoomon/otp-authenticator-webapp)
 - [Authenticated Transfer Protocol](https://github.com/zhuowei/atproto) + https://worthdoingbadly.com/bsky
+- https://slack.engineering/catching-compromised-cookies
 
 # API
 
@@ -410,6 +411,7 @@
 - [Create graphs from your CommonJS, AMD or ES6 module dependencies](https://github.com/pahen/madge)
 - https://snyk.io/blog/building-npm-package-compatible-with-esm-and-cjs-2024
 - https://blog.andrewbran.ch/default-exports-in-commonjs-libraries + https://twitter.com/atcb/status/1784636336441561401
+- [NPM and NodeJS should do more to make ES Modules easy to use (borischerny.com)](https://news.ycombinator.com/item?id=40737508)
 
 # Event loop
 
@@ -421,12 +423,13 @@
 - https://stackoverflow.com/questions/15349733/setimmediate-vs-nexttick
 - https://www.dynatrace.com/news/blog/all-you-need-to-know-to-really-understand-the-node-js-event-loop-and-its-metrics
 
-# Buffer
+# `node:buffer`
 
 - [Output a buffer in emojis](https://github.com/pfrazee/base-emoji)
 - https://kevin.burke.dev/kevin/node-js-string-encoding
 - [Proposal for future Node.js streaming data APIs: "Bytes over Buffers"](https://fishrock123.github.io/nodejs-collab-summit-montreal-2019) + https://github.com/Fishrock123/bob
 - https://tchayen.com/ttf-file-parsing
+- https://x.com/lemire/status/1803598132334436415, https://x.com/jarredsumner/status/1803570321309704258, https://github.com/nodejs/node/pull/53550, 
 
 # `node:crypto`
 
@@ -574,6 +577,8 @@
 - https://github.com/leebyron/til
 - [Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats](https://github.com/Borewit/music-metadata)
 - https://hire.jonasgalvez.com.br/2022/mar/20/building-your-own-nodemon
+- https://github.com/alexcambose/custom-cache-decorator
+- [Make collaborative code editors that run on your own infrastructure: just Redis and a database](https://github.com/ekzhang/rushlight)
 
 # `node:test`
 
@@ -811,3 +816,4 @@
 - https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler
 - https://docs.emailengine.app/packaging-and-selling-a-node-js-app
 - https://hire.jonasgalvez.com.br/2017/aug/25/leaving-python-for-java-script
+- https://blog.platformatic.dev/nodejs-is-here-to-stay
