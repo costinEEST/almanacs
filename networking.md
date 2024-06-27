@@ -410,6 +410,7 @@
 # Server Sent Events
 
 - https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug + https://twitter.com/b0rk/status/1348998823180382208
+- https://germano.dev/sse-websockets, https://news.ycombinator.com/item?id=30312897
 
 # Simple Mail Transfer Protocol (SMTP)
 

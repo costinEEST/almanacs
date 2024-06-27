@@ -98,9 +98,10 @@
 - [It uses the “top layer”, a native browser feature that guarantees it'll sit above the main document, no `z-index` required](https://www.linkedin.com/feed/update/urn:li:activity:7153416928533835776)
 - https://dfkaye.com/demos/alert-dialog-generator/alert-dialog.js
 
-# <img />
+# `<img />`
 
 - https://dev.to/builderio/optimal-images-in-html-5bg9
+- [`decoding="async"`](https://github.com/vercel/react-tweet/pull/112)
 
 # Cheat sheet
 

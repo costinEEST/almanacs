@@ -243,6 +243,7 @@
 - https://github.com/sindresorhus/meta/discussions/7
 - https://twitter.com/swapnakpanda/status/1514812127999004672
 - https://twitter.com/buildsghost/status/1354279136433299459
+- https://tc39.es/ecma262/#sec-IsHTMLDDA-internal-slot
 
 # Polyfill
 
