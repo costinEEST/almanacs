@@ -586,6 +586,7 @@
 
 - [Jeremy Kun](https://buttondown.email/j2kun/archive)
 - Adrian Manea: https://sidesofscience.substack.com/archive, https://poligonedu.substack.com/archive
+- [Michael Hartl](https://substack.com/@mhartl)
 
 # Miscellaneous
 
