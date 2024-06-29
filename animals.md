@@ -30,6 +30,7 @@
 - https://www.allaboutbirds.org/cams + https://academy.allaboutbirds.org/course-list + https://dl.allaboutbirds.org/bayareafocusgroup + https://m.youtube.com/@cornell_lab/playlists?view=1&sort=lad&flow=grid + https://feederwatch.org/learn/common-feeder-birds + https://www.allaboutbirds.org/news/how-to-choose-the-right-kind-of-bird-feeder + https://www.allaboutbirds.org/news/wp-content/uploads/2009/04/BirdNote09-ProvideWater-2013-2021.pdf 
 - https://www.sor.ro/membri-expati-gerard-gorman-cunoscutul-specialist-in-ciocanitori
 - [Birds make nests out of anti-bird pins](https://news.ycombinator.com/item?id=36689463)
+- https://sppn.md/drepneaua-neagra-pasarea-care-traieste-in-aer
 
 # Crawler
 

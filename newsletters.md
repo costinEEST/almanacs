@@ -189,6 +189,7 @@
 # Cloud
 
 - https://offbynone.io/issues
+- [Day Johnson: Amazon; DFIR; CTF](https://substack.com/@cyberwox)
 
 # Cryptography
 

@@ -135,6 +135,7 @@
 - https://github.com/adilmajid/privacy-for-the-paranoid
 - https://github.com/bslassey/ip-blindness
 - [I don't think SMS is legit 2FA](https://twitter.com/sherrod_im/status/1372259376690511873)
+- https://www.coguard.io/post/your-2fa-is-likely-sha1sse
 - https://www.cnet.com/how-to/stolen-or-lost-android-phone-heres-how-to-recover-it-fast
 - [How the Web Audio API is used for browser fingerprinting](https://fingerprintjs.com/blog/audio-fingerprinting)
 - [Browser Fingerprinting via getClientRects and AudioContext](https://github.com/RobinLinus/ubercookie)
