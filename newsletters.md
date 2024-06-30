@@ -610,7 +610,7 @@
 # PHP 
 
 - [Simon Holywell](https://us5.campaign-archive.com/home/?u=05c835f460cad2f954e351732&id=e06199684b)
-- [Maciek Palmowski](https://newsletter.maciekpalmowski.dev)
+- [Maciek Palmowski: CI / CD; Wordpress](https://newsletter.maciekpalmowski.dev/archive)
 
 # Python
 
