@@ -674,6 +674,7 @@
 - [Comunitatea liberală](https://us21.campaign-archive.com/home/?u=2ea24471aa080dc5e46fc6a85&id=d784008e7e)
 - [David Smith: A look at the top news in Moldovan political and economic sectors each week](https://moldovamatters.substack.com)
 - https://catalintenita.substack.com/archive
+- [Pippa Malmgren](https://drpippa.substack.com/archive)
 
 # Social sciences
 

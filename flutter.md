@@ -46,6 +46,7 @@
 # Testing 
 
 - https://m.youtube.com/playlist?list=PLMURwRbZ0cVJVlMP_GLoNAheU_s7hK8WN
+- https://www.tpgi.com/mobile-tabs-part-3-flutter, Full Keyboard Access (FKA) on Flutter does not exist
 
 # Security
 
