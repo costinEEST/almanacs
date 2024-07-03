@@ -676,6 +676,7 @@
 - [David Smith: A look at the top news in Moldovan political and economic sectors each week](https://moldovamatters.substack.com)
 - https://catalintenita.substack.com/archive
 - [Pippa Malmgren](https://drpippa.substack.com/archive)
+- https://colemanhughes.substack.com/archive
 
 # Social sciences
 

@@ -249,10 +249,11 @@
 
 - https://github.com/fynyky/weak-ref-collections
 
-# undefined
+# `undefined`
 
 - https://2ality.com/2013/05/history-undefined.html
 - https://p42.ai/blog/2022-05-10/you-dont-need-void-0
+- https://mortoray.com/the-many-faces-of-undefined-in-javascript
 
 # Object()
 
@@ -327,6 +328,7 @@
 - https://dfkaye.com/posts/2021/07/17/fixing-number.tofixed
 - https://maximilianocontieri.com/code-smell-180-bitwise-optimizations
 - https://github.com/erikwiffin/0.30000000000000004 + https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004 + https://news.ycombinator.com/item?id=34708756
+- https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm
 
 # default arguments
 
