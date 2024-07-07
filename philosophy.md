@@ -66,6 +66,7 @@
 - https://piggsboson.medium.com/what-is-scientific-stoicism-922392bbbfab
 - Joost Lips: https://plato.stanford.edu/entries/justus-lipsius, https://en.wikipedia.org/wiki/Neostoicism, https://iep.utm.edu/neostoic, https://iep.utm.edu/lipsius, https://historyofphilosophy.net/transcript/lipsius-stoics-sellars, https://www.espressofilosofic.ro/filosofie-a-religiei/justus-lipsius-si-readucerea-stoicismului-in-prim-plan
 - https://paleologu.com/curs/inviorare-stoica-curs-de-dimineata-epictet-theodor-paleologu-razvan-ioan
+- https://www.academia.edu/50092609/Epictet_Manualul_%C8%99i_Fragmente_tr_C_Fedele%C8%99_D_Burtea_2002_, https://medium.com/stoicism-philosophy-as-a-way-of-life/what-does-epictetus-mean-by-prohairesis-cd23fed321d, https://en.wikipedia.org/wiki/Prohairesis, https://www.academia.edu/29315937/Prohairesis_in_Epictetus_Stoic_Moral_Theory
 
 # Marxism
 

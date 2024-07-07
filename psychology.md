@@ -76,3 +76,4 @@
 # Values
 
 - https://www.cnbc.com/2023/04/20/majority-of-gen-z-would-quit-their-jobs-over-company-values-linkedin.html
+- https://humanitas.ro/humanitas/carte/genealogia-moralei
