@@ -124,7 +124,7 @@
 - [Dragoș Nicolaescu](https://us18.campaign-archive.com/home/?u=e42f65c9815d0e1620850077c&id=b4f100fa05) + https://dragosnicolaescu.substack.com/archive
 - [Human Finance SRL](https://us19.campaign-archive.com/home/?u=224b34ca20549631ee1243970&id=b44f21a826)
 - [David Senra](https://davidsnotes.substack.com/archive)
-- https://buttondown.email/computer-napkins/archive
+- [Simon Hørup Eskildsen](https://buttondown.email/computer-napkins/archive)
 - [Roditor Food Market](https://us2.campaign-archive.com/home/?u=1ae9247870a083038851025e0&id=17c09f57ca)
 - [Sahil Bloom](https://sahilbloom.substack.com/archive)
 - [Dan from TLDR](https://www.tldrnewsletter.com/archives)

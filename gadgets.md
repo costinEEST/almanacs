@@ -41,6 +41,7 @@
 
 # Keyboard
 
+- https://x.com/i/communities/1461798228777648133
 - https://www.amazon.com/Keychron-Wireless-Bluetooth-Mechanical-Keyboard/dp/B07Y9Y69N7
 - https://twitter.com/lucalanziani/status/1382410416823934987
 - https://www.aaron-powell.com/posts/2021-07-29-keyboard-first-impressions-zsa-moonlander
