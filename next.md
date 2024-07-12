@@ -31,6 +31,7 @@
 - [Generates group pot luck dinner recipes for you using AI](https://github.com/johnpolacek/botluck) + https://johnpolacek.com/playing-with-open-ai-api
 - [The Atlassian's Statuspage Open Source Alternative](https://github.com/openstatushq/openstatus)
 - [TypeScript example with React Spectrum](https://github.com/reidbarber/rsp-next-ts)
+- https://github.com/nmn/next-15-with-stylex-cli
 
 # Cheat sheet
 

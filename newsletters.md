@@ -284,6 +284,7 @@
 - https://weekinethereum.substack.com/archive
 - [Balaji S. Srinivasan](https://balajis.com/archive)
 - [Chris Dixon](https://cdixon.substack.com/archive)
+- https://blog.nateliason.com/archive
 
 # Investing
 
