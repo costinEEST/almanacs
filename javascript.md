@@ -311,6 +311,7 @@
 - https://spidermonkey.dev/blog/2023/03/02/javascript-import-maps-part-2-in-depth-exploration.html
 - [Prototype implementation of ES6 modules](https://github.com/rossberg/js-modules) + https://twitter.com/tomprimozic/status/1433013949998456836 + https://people.mpi-sws.org/~rossberg/f-ing + https://people.mpi-sws.org/~rossberg/1ml + https://twitter.com/tomprimozic/status/1443141996512694274 + https://people.mpi-sws.org/~rossberg/mixml
 - [Pseudo implementation of the proposed ES6 module loaders](https://github.com/jorendorff/js-loaders)
+- https://satya164.page/posts/publishing-dual-module-esm-libraries
 
 # lexical scoping
 

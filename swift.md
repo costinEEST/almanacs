@@ -52,6 +52,7 @@
 - https://scriptingosx.com/swift
 - https://github.com/SwiftfulThinking/SwiftUI-Bootcamp
 - https://m.youtube.com/@SwiftfulThinking/playlists?view=1&sort=lad&flow=grid
+- https://github.com/pointfreeco/episode-code-samples
 
 # Community
 
@@ -64,6 +65,7 @@
 - [Karoy Lorentey](https://mastodon.social/@lorentey)
 - [Jordan Singer](https://twitter.com/jsngr)
 - [Natalia Panferova](https://twitter.com/natpanferova)
+- Janum Trivedi: https://github.com/jtrivedi, https://x.com/jmtrivedi
 
 # Development
 

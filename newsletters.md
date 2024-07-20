@@ -393,6 +393,7 @@
 - [Antonija Pek](https://buttondown.email/designparty/archive)
 - https://figmapluginweekly.substack.com/archive
 - [Juan Buis: UX Writing, Content Design](https://supershort.substack.com/archive)
+- [Julius Tarng](https://buttondown.email/computingfordesigners/archive)
 
 # Data visualization
 
