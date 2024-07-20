@@ -364,7 +364,7 @@
 
 # Philosophy
 
-- [Andrei Vasilachi](https://podcastmeditatii.com/aboneaza)
+- [Andrei Vasilachi](https://meditatii.substack.com/archive)
 - [Mahmoud Rasmi](https://decafquest.substack.com/archive)
 
 # Physics
