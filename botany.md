@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://richardmabey.co.uk/the-frampton-flora
 - https://inquisitivebiologist.com/2021/11/17/book-review-the-wood-age-how-one-material-shaped-the-whole-of-human-history
@@ -8,19 +8,20 @@
 - https://biblioteca-digitala.ro/?volum=12533-catalogul-expozitiei-canepa-de-la-samanta-la-produs-finit-tehnica-de-lucru-instrumentar-si-obiecte-textile-din-lumea-satului-bihorean--2016
 - [Les racines, face cachée des arbres | Christophe Drénou](https://fb.watch/f0AjOgGw-H)
 - https://synergeticpress.com/catalog/social-forestry-tending-the-land-as-people-of-place
+- https://biblioteca-digitala.ro/?pub=7260-biologie-vegetala-note-de-curs
 
-### Cinema
+# Cinema
 
 - [Hybrid | Mike Kennedy](https://m.youtube.com/playlist?list=PLrMl9w30UFyspaGqroMQX4jiYmd6bATBy)
 - Trees In All Seasons: https://youtu.be/bjhIUycCWsg + https://youtu.be/9YRi7FUlVfo
 - [Cannabis Research Center Summary Presentations | UC Berkeley Events](https://m.youtube.com/playlist?list=PLOyuQaVrp4qpCGq4oaSmIfkXatH3QQJVX)
 
-### Community
+# Community
 
 - [Vanzari plante de interior si gradina](https://www.facebook.com/groups/2236689903014772)
 - [Plante din România](https://www.facebook.com/groups/plantedinromania/files/files)
 
-### Miscellaneous
+# Miscellaneous
 
 - https://plantepedia.wordpress.com
 - http://www.editura-electra.ro/produs/ierburile-sacre-etnobotanica-magica-romaneasca
@@ -52,6 +53,6 @@
 - https://english.elpais.com/science-tech/2023-02-08/what-is-a-holobiont-and-why-can-it-change-our-understanding-of-the-world.html
 - https://emergencemagazine.org/essay/creatures-that-dont-conform
 
-### Radio
+# Radio
 
 - https://harvestingnature.com/2022/01/12/podcast-episode-421-wild-edibles-with-the-wild-food-girl

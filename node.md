@@ -297,7 +297,8 @@
 - [Benchmarking library with support for multithreading and TurboFan optimization isolation](https://github.com/jonahsnider/benchmark)
 - https://hire.jonasgalvez.com.br/2023/jan/31/monitoring-nodejs-performance
 - https://joyeecheung.github.io/blog/archives
-- https://jakebailey.dev/posts/pnpm-dt-2/
+- https://jakebailey.dev/posts/pnpm-dt-2
+- [Practical Guide To Not Blocking The Event Loop](https://www.bbss.dev/posts/eventloop): A look at the core principles of synchronous and asynchronous work in a single-threaded environment, stressing the importance of non-blocking code for efficient event loop utilization.
 
 # Deploy
 
@@ -330,6 +331,10 @@
   https://mitar.tnode.com/post/json-decoding-in-node-is-fast
 - https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js
 - [Advanced vm/sandbox for Node.js](https://github.com/patriksimek/vm2)
+
+# `node:child_process`
+
+- [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance), https://maxmcd.com/posts/process-per-request-performance: The developers of the Val Town platform noticed that Node couldn’t spawn more than 40 external processes per second, whereas Deno and Bun could do a lot more. Are there ways to significantly improve this? Actually, yes!
 
 # `node:events`
 

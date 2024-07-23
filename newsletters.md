@@ -86,7 +86,7 @@
 - [Alex Volkov](https://thursdai.substack.com/archive)
 - [Bakz T. Future](https://bakztfuture.substack.com/archive)
 - [WatSPEED at the University of Waterloo](https://us1.campaign-archive.com/home/?u=a4e41978223f65e337a68e25f&id=8e68d761f4)
-- https://substack.com/@tinahuang
+- https://tinahuang.substack.com/archive
 - [Dimitri Glazkov](https://whatdimitrilearned.substack.com/archive)
 - https://marklwatson.substack.com/archive
 - [Lucian Gruia: Java, Python, JS, AI, Blockchain](https://luciangruiaro.substack.com/archive)
