@@ -25,6 +25,7 @@
 - https://github.com/azu/url-cheatsheet
 - https://www.macarthur.me/posts/navigating-the-event-loop
 - https://richiemccoll.com/javascript-scheduling
+- https://austingil.com/user-location-is-a-lie
 
 # Bookmarklet
 

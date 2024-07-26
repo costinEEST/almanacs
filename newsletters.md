@@ -90,6 +90,7 @@
 - [Dimitri Glazkov](https://whatdimitrilearned.substack.com/archive)
 - https://marklwatson.substack.com/archive
 - [Lucian Gruia: Java, Python, JS, AI, Blockchain](https://luciangruiaro.substack.com/archive)
+- https://terrysejnowski.substack.com/archive
 
 # Biology
 
