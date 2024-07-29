@@ -106,6 +106,7 @@
 - OneNote's OCR for getting text from images, or using the [Text Extractor PowerToy here: GitHub - microsoft/PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys). The new Snipping Tool has this built in.
 - https://github.com/thomasclaudiushuber/HideShowIconTray
 - https://thomashunter.name/posts/2023-04-09-emulating-windows-xp-on-linux-in-2023
+- https://nelsonslog.wordpress.com/2024/07/29/windows-screenshot-tools-in-2024 
 
 # notepad.exe
 
