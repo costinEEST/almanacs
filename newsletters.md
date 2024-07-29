@@ -158,6 +158,7 @@
 - [7card](https://us6.campaign-archive.com/home/?u=9e94e95e9b847d93577c8c4de&id=a8dae129d2)
 - [Andreea Roșca: Vast&Curious](https://us14.campaign-archive.com/home/?u=f39856b6f5ec76d98534ec04f&id=b12a0b3a21)
 - [Joshua Waitzkin: The Art of Training](https://us22.campaign-archive.com/home/?u=9ab3b28c281bc6a2f220109ec&id=b6a158cee6)
+- https://substack.com/@guyraz
 
 # Buddhism
 
@@ -698,6 +699,7 @@
 - https://colingorrie.substack.com/archive
 - [Colin Gorrie & Natasha Lipman](https://howdoyousay.substack.com/about)
 - [Joe Previte](https://speakargentinianspanish.beehiiv.com)
+- [Charles Malphettes](https://frenchteachercarlito.substack.com/archive)
 
 # Sport 
 
