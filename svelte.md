@@ -36,6 +36,7 @@
 - https://www.thisdot.co/blog/web-components-with-svelte
 - https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust
 - https://nikoheikkila.fi/blog/clean-frontend-architecture-with-sveltekit
+- https://captaincodeman.com/build-a-docker-container-from-a-pnpm-monorepo
 
 # Demo
 

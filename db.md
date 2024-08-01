@@ -81,6 +81,7 @@
 - Generate an ER Diagram based on your Prisma schema: https://github.com/keonik/prisma-erd-generator + https://github.com/Skn0tt/prisma-erd
 - [A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Trino, Presto, SAP HANA, Cassandra, Google BigQuery, SQLite, TiDB and many more via ODBC](https://github.com/sqlpad/sqlpad) + https://getsqlpad.com/en/introduction/#alternatives
 - https://turso.tech/blog/5-best-free-sqlite-gui
+- https://github.com/cosminadrianpopescu/dexonline-stardict
 
 # Security
 

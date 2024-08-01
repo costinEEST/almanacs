@@ -6,11 +6,13 @@
 
 - [beautify your code screenshots](https://github.com/riccardoperra/codeimage)
 - https://github.com/MutinyWallet/mutiny-web
+- https://github.com/matschik/component-party
 
 # Opinion
 
 - https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob
 - [Server first framework](https://hackmd.io/@0u1u3zEAQAO0iYWVAStEvw/rJFCoM4Di)
+- [Solid, Qwik, React](https://github.com/gdorsi/slides-next-wave-of-javascript-fw)
 
 # Practice
 

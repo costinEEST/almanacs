@@ -62,6 +62,7 @@
 - https://auth0.com/blog/streamlining-a-react-monorepo
 - https://blog.spencerwoo.com/2021/02/nextjs-blog-notion
 - https://github.com/jamesqquick/React-and-Serverless-Fullstack-Web-Development
+- https://component-party.dev/compare/react-vs-vue
 
 #  Book
 
@@ -325,6 +326,7 @@
 - [Building a Type-Safe Tailwind with vanilla-extract](https://www.highlight.io/blog/typesafe-tailwind)
 - https://www.julienthibeaut.xyz/blog/create-spotlight-border-with-react-css
 - https://puruvj.dev/blog/move-to-css-modules-from-styled-components
+- https://github.com/jamiebuilds/react-field-sizing-content
 
 #  Server side rendering
 
@@ -345,6 +347,7 @@
 - https://github.com/nikitavoloboev/knowledge/blob/main/programming-languages/javascript/js-libraries/react/nextjs.md
 - https://www.builder.io/blog/hydration-is-pure-overhead
 - http://intertwingly.net/blog/2020/07/22/React-Hooks-as-Middleware
+- https://www.matschik.com/writing/understanding-virtual-dom-that-powers-reactjs-and-vuejs
 
 #  Server component
 
@@ -430,11 +433,6 @@
 - [Musical Heritage Application](https://github.com/greyshore/MusicTree.Me)
 - [remix.polymath.chat](https://twitter.com/mjackson/status/1619419579754889218)
 
-#  Solid.js
-
-- https://youtu.be/dOgnQ9SuKYk
-- [Solid, Qwik, React](https://github.com/gdorsi/slides-next-wave-of-javascript-fw)
-- https://github.com/matschik/component-party
 
 #  Qwik.js
 

@@ -62,6 +62,10 @@
 - https://www.emilysamp.dev/2022/11/26/git-bisect
 - [Recover a deleted file](https://twitter.com/joshwcomeau/status/1609320979213287424)
 
+# Community 
+
+- https://ttaylorr.com/resume.pdf
+
 # TIL
 
 - https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx

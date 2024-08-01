@@ -584,6 +584,7 @@
 - https://hire.jonasgalvez.com.br/2022/mar/20/building-your-own-nodemon
 - https://github.com/alexcambose/custom-cache-decorator
 - [Make collaborative code editors that run on your own infrastructure: just Redis and a database](https://github.com/ekzhang/rushlight)
+- https://github.com/parshap/node-sanitize-filename
 
 # `node:test`
 
