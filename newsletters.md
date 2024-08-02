@@ -701,6 +701,7 @@
 - [Colin Gorrie & Natasha Lipman](https://howdoyousay.substack.com/about)
 - [Joe Previte](https://speakargentinianspanish.beehiiv.com)
 - [Charles Malphettes](https://frenchteachercarlito.substack.com/archive)
+- https://www.alexanderarguelles.com/newsletter/archive
 
 # Sport 
 
