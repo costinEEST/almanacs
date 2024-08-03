@@ -48,6 +48,9 @@
 - [A SvelteKit template for building CMS-free editable websites](https://github.com/michael/editable-website)
 - https://github.com/decepulis/kcdc.fun
 - https://github.com/ankitects/anki + [Switch to SvelteKit](https://github.com/ankitects/anki/pull/3077) 
+- https://github.com/wzid/cameron.rs
+- [A web app to track your book collection](https://github.com/arackaf/booklist)
+- [ear trainer and tools for playing and programming music and audio](https://github.com/ryanatkn/earbetter)
 
 # Miscellaneous
 

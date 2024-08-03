@@ -134,6 +134,7 @@
 - https://blog.prototypr.io/the-most-underrated-section-of-design-portfolios-1afe14c9b047
 - https://www.amazon.com/Tragic-Design-Impact-Bad-Product/dp/149192361X
 - https://lawsofux.com + https://www.amazon.com/Laws-Ux-Psychology-Products-Services/dp/1098146964
+- https://www.packtpub.com/en-us/product/designing-information-architecture-9781838827199
 
 # Portfolio
 
