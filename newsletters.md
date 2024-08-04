@@ -91,6 +91,7 @@
 - https://marklwatson.substack.com/archive
 - [Lucian Gruia: Java, Python, JS, AI, Blockchain](https://luciangruiaro.substack.com/archive)
 - https://terrysejnowski.substack.com/archive
+- https://substack.com/@dumitruradoiu/reads
 
 # Biology
 
@@ -519,6 +520,7 @@
 - [Dave Infante (drinking in America)](https://www.fingers.email/archive)
 - [Georgiana Ilie: Meal planning de care te poți ține](https://www.mealplanning.ro/archive)
 - https://drumanaidoomd.substack.com/archive
+- https://joseandres.substack.com/archive
 
 # Health
 

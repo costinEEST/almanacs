@@ -87,6 +87,8 @@
 - https://www.shutterstock.com/blog/graphic-design-movements-throughout-history
 - https://www.iconeye.com/design/best-graphic-designers-need-follow
 - https://www.goodreads.com/book/show/93976.The_Graphic_Language_of_Neville_Brody
+- https://voxa.ro/authors/george-french
+  - https://voxa.ro/ebooks/printing-in-relation-to-graphic-art-2
 
 # Historic
 
@@ -135,6 +137,7 @@
 - https://www.amazon.com/Tragic-Design-Impact-Bad-Product/dp/149192361X
 - https://lawsofux.com + https://www.amazon.com/Laws-Ux-Psychology-Products-Services/dp/1098146964
 - https://www.packtpub.com/en-us/product/designing-information-architecture-9781838827199
+- https://voxa.ro/ebooks/winning-the-game-with-ux-design-cro
 
 # Portfolio
 

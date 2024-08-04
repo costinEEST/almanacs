@@ -1,6 +1,7 @@
 # Book
 
 - https://legacy.gitbook.com/book/learnbyexample/perl-introduction/details
+- https://www.oreilly.com/library/view/learning-perl-8th/9781492094944
 
 # Cinema
 
