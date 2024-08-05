@@ -1,6 +1,7 @@
 # Application
 
 - [Offline map app iOS/Android](https://github.com/Akylas/alpimaps)
+- [A free app that assists families in locating playgrounds](https://www.playgroundbuddy.com)
 
 # Book
 

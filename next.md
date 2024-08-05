@@ -62,6 +62,7 @@
 - https://twitter.com/ImSh4yy/status/1671251883913285632
 - https://www.felixvemmer.com/blog/why-next-js
 - https://practicalprogrammatic.com/blog/programmatic-seo-in-nextjs
+- https://blog.wildcat.io/2024/08/i-m-back-rails, https://x.com/WildCat_io/status/1819837949745213515
 
 # Package
 
