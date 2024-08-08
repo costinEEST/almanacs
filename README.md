@@ -181,6 +181,7 @@
 
 ### Similar projects
 
+- https://michaeluloth.com/notes
 - [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge)
 - [Rebeca Sarai](https://www.rsarai.xyz/building-a-liability)
 - [Shawn Wang](https://github.com/sw-yx/brain)
