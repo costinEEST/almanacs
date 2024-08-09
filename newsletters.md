@@ -7,6 +7,8 @@
 # API 
 
 - [Mahdi Yusuf](https://architecturenotes.co/archive)
+- [Mike Bifulco, Phil Sturgeon](https://apisyouwonthate.com/tag/newsletter)
+- [Matthew Reinbold](https://netapinotes.com)
 
 # Apparel
 

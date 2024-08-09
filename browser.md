@@ -543,6 +543,9 @@ javascript: (() =>
 - https://github.com/marcobiedermann/search-engine-optimization
 - https://github.com/thospfuller/awesome-search-engine-optimization
 - [The potential of client-side rendered apps compared to server-side rendering](https://github.com/theninthsky/client-side-rendering)
+- https://mikebifulco.com/posts/own-your-work-with-canonical-tags
+- https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process
+- [The SEO Roadmap with Free Resources & Tools](https://learningseo.io)
 
 # Server-sent events (SSE)
 

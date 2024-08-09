@@ -76,7 +76,7 @@
 - [Serverless Web Applications with React and Next.js](https://github.com/scastiel/job-board-book-example)
 
 
-# Static site
+# Using the framework
 
 - [An open-source link shortener with built-in analytics + free custom domains](https://github.com/steven-tey/dub)
 - https://github.com/healeycodes/healeycodes.com
@@ -113,6 +113,7 @@
 - [Url shortener with T3 Stack + Turso](https://github.com/mnlade/short-me)
 - https://github.com/bbc/simorgh
 - https://github.com/danstepanov/danstepanov.com
+- https://github.com/mbifulco/blog
 
 # Testing
 
