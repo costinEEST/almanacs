@@ -23,6 +23,7 @@
 - https://www.microsoftpressstore.com/promotions/product-announcement-retirement-of-amazon-mobi-ebook-142421
 - https://github.com/Metalnem/hkpropel-downloader
 - [export epub book](https://github.com/jsoverson/node-to-rust/pull/15/files)
+- [Dancing Queen, the aBookApart parser](https://github.com/eaton/dq)
 
 # .jpg
 
@@ -41,6 +42,10 @@
 # .mobi 
 
 - https://alinpanaitiu.com/stuff/#romanian-dictionary-for-kindle
+
+# `.o`
+
+- https://github.com/aidansteele/osx-abi-macho-file-format-reference
 
 # .pdf
 
@@ -93,9 +98,9 @@
 
 - https://cmdcolin.github.io/posts/2022-02-06-sv-sam
 
-# .o
+# `.svg`
 
-- https://github.com/aidansteele/osx-abi-macho-file-format-reference
+- [`Scalable Vector Graphics`](svg.md)
 
 # .xml
 
