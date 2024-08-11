@@ -140,6 +140,7 @@
 - [unarcrypto is an educational tool to depict cryptography usage in zip, rar and 7zip archives](https://github.com/lclevy/unarcrypto) + https://twitter.com/lorenzo2472/status/880696736041365507
 - https://github.com/soatok/mastodon-e2ee-specification
 - https://blog.sigstore.dev/openpubkey-and-sigstore
+- https://kerkour.com/signatures-modern-end-to-end-encryption - how PGP works and the principal reason it's criticized by cryptographers
 
 # Transport Layer Security (TLS)
 
