@@ -1,3 +1,7 @@
+# Cheat sheet
+
+- https://github.com/joaocarvalhoopen/Tutorial_on_how_to_install_Odin_on_Void_Linux
+
 # Historic
 
 - https://www.gingerbill.org/article/2024/04/04/video-that-inspired-odin
