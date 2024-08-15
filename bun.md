@@ -6,3 +6,4 @@
 # Opinion
 
 - https://medium.com/@mitchellkossoris/serverless-bun-vs-node-benchmarking-on-aws-lambda-ecd4fe7c2fc2
+- https://stordahl.dev/writing/losing-faith-in-bun

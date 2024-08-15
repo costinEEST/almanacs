@@ -4,6 +4,10 @@
 - https://leanpub.com/boostyourcodingfuwithvscodeandvim
 - https://github.com/learnbyexample/vim_reference
 
+# Cheat sheet
+
+- https://ondrejsevcik.com/notes/vim
+
 # Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUeDHRwyHSn2Ndflm2TezXGU
@@ -52,3 +56,4 @@
 - https://blog.joren.ga/vim-learning-steps
 - https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list
 - https://www.devas.life/effective-neovim-setup-for-web-development-towards-2024
+- https://stordahl.dev/writing/frontend-neovim

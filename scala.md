@@ -20,7 +20,8 @@
 
 - https://alexn.org/blog/2024/01/10/update-nextdns-with-a-scala-cli-script
 
-# Watch
+# Netflix
 
 - [Category Theory for Programmers](https://github.com/codereport/CTfP-2021)
 - https://alexn.org/links/tag/scala
+- [Igal Tabachnik](https://hmemcpy.com/talks-i-liked)

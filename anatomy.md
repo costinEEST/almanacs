@@ -1,19 +1,19 @@
-### Book
+# Book
 
 - https://dougbrignole.com/product/autographed-copy-the-physics-of-resistance-exercise-print-book
 - [ANATOMIA ŞI FIZIOLOGIA OMULUI](https://stiinta-pentru-toti.blogspot.com/2022/09/proiectul-cultural-expozitional.html)
 - https://pawelgrzybek.com/book-review-the-body-by-bill-bryson
 
-### Cinema
+# Cinema
 
 - [SmartTraining365 Biomechanics](https://m.youtube.com/channel/UCh_8DNqrT_rJ2NbNHUNrTxA/videos)
 - [RENAL PHYSIOLOGY Dr. Brian Rowe | ETSU Online](https://m.youtube.com/playlist?list=PLAjrswY6TkLCFyY583H3YG8xPt9yYlXWn)
 
-### Fitness
+# Fitness
 
 - https://dougbrignole.com/16-biomechanical-factors
 
-### Miscellaneous
+# Miscellaneous
 
 - [Don't Die Young: An Anatomist's Guide to Your Organs and Your Health.](https://www.amazon.com/Dont-Die-Young-Anatomists-Organs/dp/0747592802)
 - [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson/dp/0385539304)

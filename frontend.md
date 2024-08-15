@@ -1,11 +1,11 @@
-### HTML
+# HTML
 
 - [Remembrance of Tags Past](https://hero35.com/css-minsk-js/2019/remembrance-of-tags-past)
 - https://vanillajspodcast.com/html-is-a-living-language
 - [HTML has native support for autocomplete-style dropdowns attached to inputs via the <datalist> element.](https://twitter.com/TejasKumar_/status/1194689434656088065)
 - [Make a custom select menu](https://twitter.com/scottjehl/status/1225507115172847618)
 
-### CSS
+# CSS
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUcPyDx67bTPJBLauKMyfjlt
 - https://youmightnotneed.com/css
@@ -25,7 +25,7 @@
 - http://fremycompany.com/BG/2016/Animate-width-from-zero-to-auto-kinda-895
 - https://fossheim.io/writing/posts/css-polaroid-camera
 
-### Color
+# Color
 
 - [Happy Hues - Curated colors in context.](https://www.happyhues.co)
 - https://darekkay.com/dev/color-tools.html
@@ -41,11 +41,11 @@
 - https://www.rapidtables.com/web/color/html-color-codes.html
 - https://nipponcolors.com
 
-### Branding
+# Branding
 
 - https://www.fastcompany.com/90125752/the-ingenious-way-tv-logos-were-made-before-computers
 
-### Design
+# Design
 
 - [Codify: Parametric and Computational Design in Landscape Architecture](https://books.google.ro/books?id=QT9ZDwAAQBAJ)
 - [Everybody calling the Cybertruck "brutalist" is wrong.](https://www.inverse.com/article/61479-cybertruck-brutalism-not-really)
@@ -60,7 +60,7 @@
 - https://trongnguyen.co/books-for-product-designers
 - [100 Landing Page hot tips](https://mobile.twitter.com/robhope/status/1265278107088347136)
 
-### Design Systems
+# Design Systems
 
 - https://designsystemchecklist.com + https://twitter.com/JoshWComeau/status/1212416797254832130
 - https://www.learnstorybook.com
@@ -76,7 +76,7 @@
 - https://github.com/alexpate/awesome-design-systems
 - https://abookapart.com/products/expressive-design-systems
 
-### Animations
+# Animations
 
 - [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
 - https://github.com/desandro/practical-ui-physics
@@ -86,7 +86,7 @@
 - https://rosenfeldmedia.com/books/designing-interface-animation/details/table-of-contents (coupon "UIANIMATE")
 - [Create 2D animations](https://medium.com/rive/announcing-rive-1326ad92e403)
 
-### Illustrations
+# Illustrations
 
 - [Open source illustrations kit](https://illlustrations.co/)
 - https://github.com/melanierichards/resources/blob/master/resources/illo.md
@@ -95,7 +95,7 @@
 - [iconmonstr - Free simple icons for your next project](https://iconmonstr.com)
 - https://undraw.co/illustrations
 
-### Art
+# Art
 
 - https://www.amazon.com/Magic-Loss-Internet-as-Art-ebook/dp/B00P434HC0
 - [Introduction to interactivity](https://everestpipkin.github.io/emsII/) + https://twitter.com/everestpipkin/status/1207502480042536960
@@ -114,7 +114,7 @@
 - [New Way of Seeing: The History of Art in 57 Works by Kelly Grovier](https://www.goodreads.com/book/show/40554488-new-way-of-seeing)
 - [30 Films Every Art Lover Should See](https://arte8lusso.net/art/filmaboutart)
 
-### UX
+# UX
 
 - [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont)
 - https://blog.hoangnm.com/pageDir/Books
@@ -134,7 +134,7 @@
 - https://growth.design/case-studies/tiktok-feed-psychology
 - https://userinyerface.com
 
-### Portfolios
+# Portfolios
 
 - https://github.com/melanierichards/highlights
 - [My personal website feat. Gatsby https://psb.design](https://github.com/pburtchaell/psb.design)
@@ -152,7 +152,7 @@
 - [Adil Majid](https://blog.adilmajid.com) for the minimalist approach
 - [William Entriken](https://phor.net/bookmarks), almost no CSS
 
-### Inspire
+# Inspire
 
 - https://dribbble.com/shots/9296597-Rotating-Cuboid-Form-CSS-Animation-Instant-Browser-Validation + https://codepen.io/leenalavanya/full/rNaYZJN
 - https://dribbble.com/shots/9323743-Furniture-Shopping-3D
@@ -163,7 +163,7 @@
 - [An interactive demo walk-through we built to give visitors a feel for what the Trevor.io platform does.](https://github.com/tagspace/trevor-demo)
 - https://trello.com/b/A4OmiAWb/100-no-code-resources
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/melanierichards/resources/blob/master/resources/misc.md
 - https://github.com/DovAmir/awesome-design-patterns/blob/master/README.md#front-end-development

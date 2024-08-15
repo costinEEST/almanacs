@@ -1,9 +1,9 @@
-### Book
+# Book
 
 - [Tools for thinking, and especially the future of books!](https://twitter.com/Meaningness/status/1210309788141117440)
 - https://youtu.be/a4viuDH4VeM?t=238 + https://www.powells.com/book/on-freedom-9781644450628
 
-### Critical Thinking
+# Critical Thinking
 
 - https://kevindelaplante.com/029-how-to-raise-a-critical-thinker
 - [Applied Critical Thinking Handbook (Formerly the Red Team Handbook)](https://www.hsdl.org/?abstract&did=802233)
@@ -11,7 +11,7 @@
 - https://www.amazon.com/What-Name-This-Book-Recreational/dp/0486481980
 - https://github.com/joelparkerhenderson/architecture-decision-record
 
-### Miscellaneous
+# Miscellaneous
 
 - [How to Understand Systems](https://news.ycombinator.com/item?id=19832048)
 - [Psychology of Intelligence Analysis(see the reviews first)](https://www.amazon.com/Psychology-Intelligence-Analysis-Richards-Heuer/dp/B0016OST3O)

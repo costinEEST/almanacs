@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [Creating a Culture of Innovation](https://www.designswarm.com/books/creatingaculture)
 - https://www.amazon.com/Writing-Came-About-Denise-Schmandt-Besserat/dp/0292777043
@@ -19,7 +19,7 @@
 - https://www.goodreads.com/en/book/show/28448362-writing-without-bullshit
 - https://www.manning.com/books/how-computers-make-books
 
-### Cheat sheet
+# Cheat sheet
 
 - https://passo.uno/tech-writing-syllabus
 - https://github.com/MyHoneyBadger/awesome-github-wiki
@@ -27,7 +27,7 @@
 - https://github.com/springernature/frontend-playbook/blob/master/writing/README.md
 - https://github.com/TalAter/awesome-book-authoring
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUe5jlxhxEfjXm57bXxhixea
 - https://www.google.com/search?q=Cuneiform+written+by+Irving+Finkel
@@ -37,7 +37,7 @@
 - https://www.udemy.com/course/masteringlatex
 - [The fine print | Scott Carney](https://m.youtube.com/playlist?list=PL2TVEkr1lWIJ2IVxvOuxFHonfBLd6TDfd)
 
-### Community
+# Community
 
 - https://github.com/sixhobbits/technical-writing
 - https://github.com/BolajiAyodeji/awesome-technical-writing
@@ -49,7 +49,7 @@
 - https://rachelandrew.co.uk/archives/2023/01/28/technical-writing-resources
 - https://andregarzia.com/creative-writing
 
-### Tool
+# Tool
 
 - [presentations for busy messy hackers](https://github.com/tmcw/big)
 - https://github.com/stars/jnv/lists/film-projector-presentations
@@ -116,7 +116,7 @@
 - [A starter built with gatsby to help you create books with ease](https://github.com/SaraVieira/starter-book)
 - https://nelsonslog.wordpress.com/2023/07/15/linkblog-architecture
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/noffle/art-of-readme
 - https://www.fastcompany.com/90618464/ditch-the-digital-notes-handwriting-is-way-better-for-memorization-and-speed
@@ -128,12 +128,13 @@
 - https://www.smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills
 - https://github.com/AkashRajpurohit/howtoprofessionallysay
 
-### Radio
+# Radio
 
 - https://blacusens.ro/2021/04/marian-coman-trebuie-sa-pleci-la-drum-fara-asteptari-zest-54
 
-### Opinion
+# Opinion
 
+- https://ia.net/topics/writing-by-numbers
 - https://buffer.com/resources/writing-great-tweets-scientific-guide
 - [What makes writing more readable?](https://pudding.cool/2022/02/plain)
 - https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is

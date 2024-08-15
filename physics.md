@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - [A Mind Over Matter: Philip Anderson and the Physics of the Very Many Book by Andrew Zangwill](https://twitter.com/curiouswavefn/status/1490059134925897731)
 - https://www.amazon.com/Lost-Math-Beauty-Physics-Astray/dp/0465094252
@@ -23,7 +23,7 @@
 - https://journal.paoloamoroso.com/the-physicists-daughter-a-wartime-mystery
 - https://piggsboson.medium.com/10-popular-physics-books-that-you-must-add-to-your-bookshelf-c9c37dcd54a1
 
-### Cinema
+# Cinema
 
 - [UC Berkeley: PHYS 10 - Physics for Future Presidents | CosmoLearning.org](https://m.youtube.com/playlist?list=PLaLOVNqqD-2Ep5N9os9jWMSkxK_TLki9h)
 - [Quantum Optics - Single Photons](https://m.youtube.com/playlist?list=PL2jykFOD1AWaYcXzYm08-pM0S0QNzmFIU)
@@ -35,24 +35,24 @@
 - https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021 + https://m.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8
 - https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016 + https://m.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu
 
-### Course
+# Course
 
 - [ME101: Introduction to Mechanical Engineering](https://github.com/saylordotorg/course_me101)
 - [ME302: Mechatronics](https://github.com/saylordotorg/course_me302)
 - https://github.com/johnwstanford/feynman_lecture_notes
 - [Introduction to Loop Quantum Gravity - Carlo Rovelli](https://m.youtube.com/playlist?list=PLwLvxaPjGHxR6zr421tXXlaDGbq8S36Un)
 
-### Community
+# Community
 
 - https://www.kylieying.com/blog/cern
 
-### Physician
+# Physician
 
 - J.J. Thomson: https://twitter.com/mcnees/status/1339963246174990336
 - https://piggsboson.medium.com/james-maxwell-and-how-his-equations-shaped-the-modern-world-8e3e9f6b46c1
 - https://ro.wikipedia.org/wiki/List%C4%83_de_fizicieni_originari_din_Basarabia_%C8%99i_Republica_Moldova
 
-### Miscellaneous
+# Miscellaneous
 
 - https://physicstravelguide.com
 - https://blas.com/on-physics
@@ -94,23 +94,23 @@
 - https://hackaday.com/2022/12/19/laser-fusion-ignition-putting-nuclear-fusion-breakthroughs-into-perspective
 - https://www.vice.com/en/article/3ad9eb/a-500-year-old-paradox-by-leonardo-da-vinci-has-finally-been-solved-study-says
 
-### Engine
+# Engine
 
 - https://www.wired.co.uk/article/internal-combution-engine-obituary
 - https://ciechanow.ski/internal-combustion-engine + https://twitter.com/BCiechanowski/status/1387790984356917249
 - https://alternativepureenergy.ro/pret-generator-magneti-permanenti-pmg + https://youtu.be/jIBMp4OvbSM + https://youtu.be/XjC5_xtifro
 - https://www.forbes.com/sites/alanohnsman/2022/02/23/how-diesel-giant-cummins-might-beat-tesla-in-the-green-engine-battle
 
-### Radio
+# Radio
 
 - [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html) + https://news.ycombinator.com/item?id=27322636
 - https://www.preposterousuniverse.com/podcast/2020/10/26/120-jeremy-england-on-biology-thermodynamics-and-the-bible
 
-### Reference
+# Reference
 
 - https://www.freeingenergy.com/understanding-the-basics-of-electricity-by-thinking-of-it-as-water
 
-### Teacher
+# Teacher
 
 - Cristian Presură: http://www.math.pitt.edu/~sph/1230/Boyer-AHistoryOfMathematics.pdf, https://www.amazon.com/History-Mathematics-3e-Carl-Boyer/dp/0470525487
 - [Phil Nelson](https://www.sas.upenn.edu/~pcn/html-physics/Course)

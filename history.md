@@ -1,13 +1,13 @@
-### Book 
+# Book 
 
 - [The Languages of Gift in the Early Middle Ages | Wendy Davies, Paul Fouracre](https://www.cambridge.org/do/academic/subjects/history/european-history-450-1000/languages-gift-early-middle-ages)
 - https://www.theatlantic.com/magazine/archive/2021/11/graeber-wengrow-dawn-of-everything-history-humanity/620177 + https://www.amazon.com/Dawn-Everything-New-History-Humanity/dp/0374157359
 
-### Cinema 
+# Cinema 
 
 - [Modern Travel, Modern Landscape Conference. Abstract and Speaker Booklet](https://mtml2022.files.wordpress.com/2022/07/mtml-abstracts-and-bios.pdf)
 
-### Miscellaneous
+# Miscellaneous
 
 - [Upheaval: Turning Points for Nations in Crisis by Jared Diamond (2019)](https://nolanlawson.com/2019/12/31/2019-end-year-book-review/#upheaval)
 - https://www.amazon.com/Ends-World-Apocalypses-Understand-Extinctions/dp/0062364812

@@ -1,4 +1,4 @@
-### Ansible
+# Ansible
 
 - https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-new-series-on-youtube
 - [Security Automation with Ansible 2](https://learning.oreilly.com/library/view/security-automation-with/9781788394512)
@@ -8,12 +8,12 @@
 - https://redteamer.tips/automating-red-team-infrastructure-with-ansible-part-1-raw-infrastructure
 - https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd
 
-### Book
+# Book
 
 - https://www.puppetcookbook.com
 - https://github.com/cyborgdeveloper/cyborg-developer-cookbook + https://m.youtube.com/c/RodrigoMoutinho/videos
 
-### Cinema
+# Cinema
 
 - [ Server Infrastructure for Global Rebellion.](https://media.ccc.de/v/36c3-11008-server_infrastructure_for_global_rebellion)
 - https://github.com/techno-tim/youtube-videos
@@ -21,13 +21,13 @@
 - [A Packer Primer](https://m.youtube.com/playlist?list=PLI8rNSktL2DSOM8dfvYnkhPLeTRLu8zrf)
 - https://github.com/cloudcommunity/Free-Certifications
 
-### Community
+# Community
 
 - https://github.com/Tikam02/DevOps-Guide
 - [Marius Voila](https://www.mariusv.com/sys-magic.html)
 - https://github.com/AcalephStorage/awesome-devops
 
-### CI/CD
+# CI/CD
 
 - https://learning.oreilly.com/library/view/advanced-microservices-a/9781484228869
 - https://github.com/hysnsec/awesome-policy-as-code
@@ -49,7 +49,7 @@
 - https://www.udemy.com/course/learn-complete-devops-with-python-docker-kubernetes-git
 - https://github.com/wavestone-cdt/DEFCON-CICD-pipelines-workshop
 
-### Docker
+# Docker
 
 - https://devopswithdocker.com
 - https://github.com/docker/awesome-compose
@@ -122,11 +122,11 @@
 - https://github.com/Haxxnet/Compose-Examples
 - [monitor URLs and notify you of changes](https://github.com/dalanmiller/docker-urlwatch)
 
-### Infrastructure as code (IaC)
+# Infrastructure as code (IaC)
 
 - [Terraform + Ansible + Docker Swarm boilerplate](https://github.com/thomvaill/tads-boilerplate)
 
-### Kubernetes (k8s)
+# Kubernetes (k8s)
 
 - https://github.com/jamiehannaford/what-happens-when-k8s
 - https://twitter.com/oliverjumpertz/status/1318082918896500746
@@ -191,14 +191,14 @@
 - https://github.com/techiescamp/kubernetes-learning-path
 - https://hamel.dev/blog/posts/k8s
 
-### Podman
+# Podman
 
 - https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool
 - https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman
 - https://developers.redhat.com/articles/2023/03/01/podman-desktop-introduction
 - https://developers.redhat.com/e-books/podman-action
 
-### Server
+# Server
 
 - [Animated guide to HTTP load balancing algorithms](https://samwho.dev/load-balancing)
 - https://github.com/255kb/stack-on-a-budget
@@ -225,7 +225,7 @@
 - https://github.com/0xffsec/handbook/tree/master/content/shells
 - https://github.com/andrewjkerr/security-cheatsheets/blob/master/reverse_shell
 
-### References
+# References
 
 - https://github.com/learntocloud/learn-to-cloud
 - https://github.com/MichaelCade/90DaysOfDevOps
@@ -250,7 +250,7 @@
 - https://github.com/6mile/DevSecOps-Playbook
 - https://github.com/jakejarvis/datacenter-speed-tests
 
-### Monitoring
+# Monitoring
 
 - https://itnext.io/prometheus-for-beginners-5f20c2e89b6c
 - https://github.com/yolossn/Prometheus-Basics
@@ -274,16 +274,16 @@
 - https://medium.com/brexeng/elevating-security-alert-management-using-automation-828004ad596c
 - https://github.com/stars/unicast/lists/high-availability-sre-and-devops
 
-### Vagrant
+# Vagrant
 
 - https://github.com/CsEnox/Art-of-Creating-Machines
 - [Visual Studio Code and Vagrant](https://twitter.com/iximiuz/status/1441090080760762374) + https://iximiuz.com/en/posts/how-to-setup-development-environment/#vscode-remote-vagrant
 
-### VPS
+# VPS
 
 - https://www.paperspace.com, https://contabo.com + https://twitter.com/CristiVlad25/status/1629798293004853251
 
-### Site Reliability Engineering
+# Site Reliability Engineering
 
 - https://iximiuz.com/en/posts/devops-sre-and-platform-engineering
 - [Techniques and numbers for estimating system's performance from first-principles.](https://github.com/sirupsen/napkin-math)

@@ -1,4 +1,4 @@
-### Approach
+# Approach
 
 - Obsidian Second Brain setup: https://github.com/robertmartin8/MolecularNotes, https://reasonabledeviations.com/2023/02/05/gpt-for-second-brain, https://news.ycombinator.com/item?id=34681820
 - https://github.com/marcusolsson/obsidian-projects
@@ -8,11 +8,11 @@
 - https://bagerbach.com/blog/obsidian-ai
 - https://bagerbach.com/blog/projects-and-goals-obsidian
 
-### Community
+# Community
 
 - https://github.com/brettkromkamp/awesome-knowledge-management
 
-### Plugin
+# Plugin
 
 - https://github.com/lynchjames/obsidian-mind-map
 - [Clojure inside your Obsidian documents](https://github.com/victorb/obsidian-wielder)

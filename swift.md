@@ -34,6 +34,7 @@
 - https://github.com/PacktPublishing/Test-Driven-iOS-Development-with-Swift-Fourth-Edition
 - https://github.com/mgp/effective-swift
 - https://github.com/mattneub/Programming-iOS-Book-Examples
+- https://github.com/bow-swift/Category-Theory-for-Programmers
 
 # Bot
 

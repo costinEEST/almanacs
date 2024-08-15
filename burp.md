@@ -1,18 +1,18 @@
-### Book
+# Book
 
 - https://learning.oreilly.com/library/view/burp-suite-cookbook/9781789531732
 
-### Course
+# Course
 
 - [Installing, configuring and using Burp-Suite 2 Free Community Edition and Pro editions - webpwnized](https://m.youtube.com/playlist?list=PLZOToVAK85MoBg65au9EeFkK7qwzppcnU)
 - [Burp Suite Deep Dive for Application Security Professionals | Cristi Zot](https://www.udemy.com/course/burpsuitepro)
 - https://github.com/Ignitetechnologies/BurpSuite-For-Pentester
 
-### Community
+# Community
 
 - [Nicolas Grégoire](https://hackademy.agarri.fr/freebies)
 
-### Extension
+# Extension
 
 - https://github.com/everythingishacked/burpsuite-custom-extension
 - https://blog.silentsignal.eu/2020/05/04/decrypting-and-analyzing-https-traffic-without-mitm + https://m1el.github.io/oculus-tls-extract
@@ -46,7 +46,7 @@
 - https://danaepp.com/detecting-api-endpoints-and-source-code-with-js-miner
 - [takes a JSON object from a request and tries using a predefined set of gadgets to poison all possible fields](https://blog.doyensec.com/2024/02/17/server-side-prototype-pollution-Gadgets-scanner.html)
 
-### Watch
+# Watch
 
 - [Getting Started with Burp Suite & Webapp Pentesting | BB King](https://m.youtube.com/watch?v=xKudsnN3gkE&t=1868s)
 - [BOUNTY THURSDAYS - BURP 1.7 or 2.0 + more sweet stuff!](https://youtu.be/qnddz5iew1A)
@@ -55,7 +55,7 @@
 - [Deploy a Private Burpsuite Collaborator using boto3](https://github.com/Leoid/AWSBurpCollaborator)
 - https://www.agarri.fr/docs/nahamcon23-burp_automation.pdf
 
-### Practice
+# Practice
 
 - https://defparam.medium.com/ios-app-testing-through-burp-on-corellium-fe59ed849516
 - https://web.archive.org/web/20210704020737/https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail

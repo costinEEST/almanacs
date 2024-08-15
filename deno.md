@@ -35,4 +35,7 @@
 # Tool
 
 - [web framework for Cloudflare Workers, Deno, Bun](https://github.com/honojs/hono)
+  - https://github.com/gregalexsmith/workers-hono-api
+  - https://github.com/yusukebe/hono-jsx-dom-with-vite
+  - https://github.com/stordahl/stordahldotdev, https://stordahl.dev/writing/exploring-hono
 - [Interact with the Chrome DevTools Protocol](https://jsr.io/@simple-cdp/simple-cdp)

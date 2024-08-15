@@ -50,6 +50,7 @@
 - [Next.js SPA example with dynamic client-only routing and static hosting](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
 - https://whiskeywebandwhatnot.fm/nextjs-vercel-and-subscription-models
 - [Deploy a Next.js app to Github Pages via Github Actions](https://github.com/gregrickaby/nextjs-github-pages)
+- https://github.com/benawad/how-to-roll-your-own-auth
 
 # Internals
 

@@ -1,4 +1,4 @@
-### Typing
+# Typing
 
 - [About the space bar.](https://mmazzarolo.com/blog/2019-08-30-about-the-space-bar)
 - https://github.com/dwyl/start-here#touch-typing
@@ -9,11 +9,11 @@
 - http://www.baweaver.com/blog/2015/10/10/you-type-too-much
 - [Colemak typing lessons](https://github.com/gnusenpai/colemakclub)
 
-### tmux
+# tmux
 
 - https://nicknisi.com/posts/2015-11-02-tmux-for-presentation
 
-### Tools
+# Tools
 
 - https://github.com/cjbarber/ToolsOfTheTrade
 - https://speakerdeck.com/ladybenko/improving-as-developers?slide=31
@@ -44,18 +44,18 @@
 - https://www.metabeta.com/articles/starter-kit-for-startups-looking-to-automate-operations
 - https://www.freecodecamp.org/news/learn-microsoft-excel
 
-### Books
+# Books
 
 - https://dottedsquirrel.com/everything-else/2020-reading-list-for-developers/
 - [A curated list of awesome book, tool and other resource for Product Managers.](https://github.com/hugo53/awesome-ProductManager)
 
-### Minimalism
+# Minimalism
 
 - https://www.notion.so/Inventory-872bc0d28938412daa772b1544a5dfdc
 - [Cédric Waldburger](https://m.youtube.com/playlist?list=PLFtln-0KmkcMOAqDP4SF3Acd1t081neiu)
 - https://jcbl.ws/loving-the-things-i-have
 
-### Writing
+# Writing
 
 - [Readings and notes on the past, present, and future of books](https://github.com/jlevy/on-books)
 - https://yosai.world/process
@@ -97,7 +97,7 @@
 - [simplenoteapp First Impressions](https://twitter.com/jsjoeio/status/1354518287980371970)
 - https://blacusens.ro/2020/12/de-ce-sa-faci-un-curs-de-scris-si-cateva-recomandari
 
-### Learning
+# Learning
 
 - https://ncase.me/remember
 - https://www.gwern.net/Spaced-repetition
@@ -108,6 +108,6 @@
 - https://quanticdev.com/articles/most-valuable-thing-to-learn-in-one-hour
 - https://superorganizers.substack.com/p/how-to-build-a-learning-machine
 
-### Remote working
+# Remote working
 
 - [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide)

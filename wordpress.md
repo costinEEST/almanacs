@@ -1,4 +1,4 @@
-### Alternative
+# Alternative
 
 - [Favorite (Headless) CMS and why?](https://twitter.com/jamesqquick/status/1374751439084519429)
 - https://github.com/stars/esplito/lists/content-management
@@ -6,7 +6,7 @@
 - [Using Notion as a CMS](https://m.youtube.com/playlist?list=PL9vQCzMwu2-A02HKFQJDGrgIK_SGvAppb)
 - https://leanpub.com/contentfulmissingmanual
 
-### Boilerplate
+# Boilerplate
 
 - https://github.com/razvanFrandes/wp_default
 - https://github.com/colbyfayock/next-wordpress-starter
@@ -15,7 +15,7 @@
 - https://github.com/Shelob9/react-wordpress-testing
 - https://github.com/LearnWebCode/brads-boilerplate-wordpress
 
-### Cinema
+# Cinema
 
 - [Personal Homepage Project - Episode 0](https://mailchi.mp/4285a1dc5c5f/episode-0-of-my-livestream-will-happen-tomorrow)
 - https://www.udemy.com/course/hands-on-linux-self-hosted-wordpress-for-linux-beginners
@@ -30,7 +30,7 @@
 - https://egghead.io/courses/headless-wordpress-4a14
 - [Wordpress SASS | Abdu Tawfik](https://m.youtube.com/playlist?list=PLHdp1h1eRH0HhntVcpxnbMUWXSKgZEJ-v)
 
-### Development
+# Development
 
 - https://www.ezoic.com/how-fast-wordpress-site-ads-leap
 - https://mikejolley.com/2021/03/02/headless-wordpress-cookie-based-login-using-graphql
@@ -41,13 +41,13 @@
 - https://wpengine.com/blog/faust-js-the-framework-for-headless-wordpress
 - https://danabyerly.com/tag/wordpress
 
-### Opinion
+# Opinion
 
 - https://kevq.uk/the-case-for-wordpress
 - https://w3c.studio24.net/updates/on-not-choosing-wordpress
 - https://www.buzzsprout.com/1724287/8500051-mullenweg-and-biilmann-the-future-of-wordpress
 
-### Plugin
+# Plugin
 
 - [WordPress audit log that track user changes in WordPress admin using a nice activity feed.](https://github.com/bonny/WordPress-Simple-History)
 - https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
@@ -56,7 +56,7 @@
 - https://github.com/stars/benbalter/lists/wordpress
 - https://stefanbohacek.com/project/detect-missing-adblocker-wordpress-plugin
 
-### Security
+# Security
 
 - https://github.com/kacperszurek/presentations/blob/master/WordCamp-Polska-2015-WordPress-security-in-examples.pdf
 - [Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp.](https://github.com/kacperszurek/burp_wp)
@@ -65,7 +65,7 @@
 - https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf
 - https://github.com/teamhanded/issues/blob/master/wordpress-malware.md
 
-### Tool
+# Tool
 
 - https://github.com/gdarko/wp-batch-processing
 - https://github.com/ryanshoover/docker-wp-browser

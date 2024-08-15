@@ -6,6 +6,7 @@
 
 - https://josephlozano.dev/blog/phoenix-side-project-deploy
 
+
 # Lecture
 
 - https://github.com/lambda-magic/plt-books/tree/master/Elixir
@@ -27,6 +28,7 @@
 - https://cri.dev/posts/2021-03-03-learn-elixir-study-path
 - https://github.com/lucasvegi/Elixir-Code-Smells
 - https://joyyo.app/elixir-for-humans-who-know-python
+- https://github.com/joshnuss/design-patterns-in-elixir
 
 # Security
 

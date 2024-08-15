@@ -16,6 +16,7 @@
 # Bypass
 
 - https://archive.ph
+- [Read without paywall](https://12ft.io)
 - https://primozic.org/programming
 - https://kyrofa.com/posts/my-phone-isn-t-as-smart-as-yours
 - [Updated list of public BitTorrent trackers](https://github.com/ngosang/trackerslist)
@@ -187,6 +188,7 @@
 - https://blog.forcesunseen.com/email-blame
 - https://email-is-good.com/2023/04/18/site-specific-emails
 - https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin
+- https://ondrejsevcik.com/blog/how-to-detect-ad-block
 
 # Social media
 

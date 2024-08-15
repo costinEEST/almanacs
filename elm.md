@@ -3,6 +3,7 @@
 - https://github.com/learnyouanelm/learnyouanelm.github.io
 - https://github.com/alpacaaa/elm-to-purescript-cheatsheet
 - https://www.goodreads.com/book/show/35508708-an-outsider-s-guide-to-statically-typed-functional-programming 
+- https://github.com/Orasund/elm-cookbook
 
 # Tool
 

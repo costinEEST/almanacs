@@ -390,6 +390,7 @@
 # new Error()
 
 - https://wbinnssmith.com/blog/subclassing-error-in-modern-javascript
+- https://stordahl.dev/writing/third-party-errors
 
 # setInterval()
 
@@ -588,6 +589,7 @@
 - https://github.com/esplito/coding-notes/tree/master/testingjavascript
 - https://github.com/AriPerkkio/vitest-sonar-reporter
 - https://snyk.io/blog/how-to-add-playwright-tests-pr-ci-github-actions
+- https://stordahl.dev/writing/google-cloud-function-vitest
 
 # Virtual machine
 

@@ -57,6 +57,7 @@
 - https://www.amazon.com/Art-Rhetoric-Thomas-Wilson/dp/1849021198 + https://podcasts.google.com/feed/aHR0cHM6Ly9oaXN0b3J5b2ZlbmdsaXNocG9kY2FzdC5jb20vZmVlZC9wb2RjYXN0Lw/episode/aHR0cHM6Ly9oaXN0b3J5b2ZlbmdsaXNocG9kY2FzdC5jb20vP3A9MTI1OQ
 - [The Life and Mind of Oriental Jones Sir William Jones, the Father of Modern Linguistics](https://www.cambridge.org/hu/universitypress/subjects/literature/english-literature-general-interest/life-and-mind-oriental-jones-sir-william-jones-father-modern-linguistics)
 - [The Life of Cardinal Mezzofanti: With an Introductory Memoir of Eminent Linguists, Ancient and Modern](https://www.gutenberg.org/ebooks/69473)
+- https://github.com/ondrejsevcik/knowledge-base/blob/master/books/fluent-forever.md
 
 # Application
 

@@ -1,18 +1,18 @@
-### Book
+# Book
 
 - https://www.scribd.com/document/496829075/XML-JSON-Programming-For-Beginners-Learn-Coding-Fast-by-Yao-Ray-Z-lib-org
 - https://leanpub.com/therailsway-xml
 
-### Course
+# Course
 
 - [XML Foundations (2013)](http://dret.net/lectures/xml-fall13)
 - https://www.udemy.com/course/uncle-rats-xxe-handbook
 
-### Cheat sheet
+# Cheat sheet
 
 - https://nickcolley.co.uk/2020/02/07/pulling-data-from-websites-into-google-sheets
 
-### Security
+# Security
 
 - https://twitter.com/PwnFunction/status/1350717643515330565
 - https://github.com/0xInfection/Stuff/blob/master/mindmaps/mind-map-saml.png
@@ -24,7 +24,7 @@
 - http://raviramesh.info/xml-attacks.html
 - https://github.com/abhaybhargav/chatgpt-node-app
 
-### Opinion
+# Opinion
 
 - https://alexwlchan.net/2015/12/pretty-print
 - https://twitter.com/bcomnes/status/1482036550758064130

@@ -1,9 +1,9 @@
-### Book
+# Book
 
 - https://booksaveur.com/collections/editura-publisol/products/air-majesty-michael-jordan-de-emil-hossu-longin-precomanda-20-mai-2021
 - https://www.goodreads.com/book/show/13152668-dream-team
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/user/bballbreakdown/playlists
 - [A basketball hoop to maximize shots that go in.](https://news.ycombinator.com/item?id=22898653)
@@ -17,7 +17,7 @@
 - https://m.youtube.com/@Professorlive/playlists?view=1&sort=lad&flow=grid
 - [What's Wright? With Nick Wright](https://m.youtube.com/@WhatsWrightShow/playlists?view=1&sort=lad&flow=grid)
 
-### Tool
+# Tool
 
 - https://github.com/zanderchase/nba-player-compatibility
 - https://github.com/homerchen19/nba-go

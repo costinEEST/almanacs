@@ -23,6 +23,7 @@
 
 - http://cl-informatik.uibk.ac.at/users/meberl//teaching.html
 - [Typed Neuro-Symbolic Program Synthesis for the Typed Lambda Calculus](https://github.com/KiaraGrouwstra/thesis)
+- https://github.com/qfpl/applied-fp-course
 
 # Cinema
 

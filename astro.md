@@ -37,6 +37,7 @@
 - https://github.com/salolivares/salolivares.com
 - https://github.com/bholmesdev/whiteboard-the-web
 - https://github.com/carloskelly13/carlos.dev
+- https://github.com/JoshuaKGoldberg/dot-com
 
 # Opinion
 

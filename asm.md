@@ -1,4 +1,4 @@
-### ARM
+# ARM
 
 - [Learn reverse engineering: but where to start?](https://yurichev.org/RE_start)
 - https://github.com/endrazine/wcc/wiki/wsh-with-ARM + https://twitter.com/endrazine/status/764288816123301889
@@ -31,7 +31,7 @@
 - [A bare metal programming guide (ARM microcontrollers)](https://github.com/cpq/bare-metal-programming-guide)
 - https://m0agx.eu/practical-comparison-of-ARM-compilers.html
 
-### Book
+# Book
 
 - [A book teaching assembly language programming on the ARM 64 bit ISA](https://github.com/pkivolowitz/asm_book)
 - https://www.bartlettpublishing.com/site/product/programming-from-the-ground-up
@@ -50,7 +50,7 @@
 - https://journal.paoloamoroso.com/brushing-up-8080-and-z80-assembly
 - https://github.com/pacman128/pcasm + http://pacman128.github.io/pcasm
 
-### Course
+# Course
 
 - [Introduction to Computer Systems](http://www.cs.cmu.edu/~213) + https://twitter.com/CardosoDiegoS/status/1182860992683872256
 - [CS 3330: Undergraduate Computer Architecture](http://www.cs.virginia.edu/~av6ds/classes/cs3330/sp21)
@@ -64,13 +64,13 @@
 - [Assembly for the Intel, 32-bit architecture. NASM is used as the assembler | Josh Stroschein](https://m.youtube.com/playlist?list=PLHJns8WZXCdvESvdr1BRjo4RHiR1Ylhw9)
 - [Introduction to computer organization and Assembly Language](https://github.com/systems-cs-pub-ro/iocla) + https://gabrielmocanu.com/teaching#introduction-to-computer-organization-and-assembly-language
 
-### Cheat sheet
+# Cheat sheet
 
 - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86)
 - https://github.com/corkami/docs/blob/master/x86/x86.md
 - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 
-### Cinema
+# Cinema
 
 - [Ray Seyfarth | Michael Harris](https://m.youtube.com/playlist?list=PLOOO61Feqafvf-nnjJaLVdj9OZGnz_CG1)
 - https://m.youtube.com/playlist?list=PLn__CHOEZR1ZQMrP_j_f4l8naO58SIpKm
@@ -84,23 +84,23 @@
 - [HackadayU: AVR: Architecture, Assembly and Reverse Engineering](https://m.youtube.com/playlist?list=PL_tws4AXg7avNexvQxkfxfEBtvTtBi6Tu)
 - https://github.com/jeFF0Falltrades/Tutorials/tree/master/master0Fnone_classes/1_x86_Demystified + https://twitter.com/binitamshah/status/1641086905113772033
 
-### Community
+# Community
 
 - [Eli Bendersky](https://eli.thegreenplace.net/tag/assembly)
 - https://www.i-programmer.info/news/82-heritage/15831-computer-pioneer-kathleen-booth-dies-at-age-100.html
 
-### Debugging
+# Debugging
 
 - https://github.com/wwong99/pentest-notes/tree/master/buffer_overflow/assembly
 - [Case studies of difficult bugs and how they were tracked down](https://twitter.com/aluhrs13/status/1557044379797188608)
 - https://fasterthanli.me/videos/cpp-vs-rust-which-is-faster
 
-### Opinion
+# Opinion
 
 - https://ncot.uk/compsci/becoming-a-better-computer-science-teacher
 - https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary
 
-### Miscellaneous
+# Miscellaneous
 
 - https://notes.shichao.io/asm
 - [x86, x64, ARM? I Just Want to Download my Program!](https://marinhero.com/posts/architectures)
@@ -114,7 +114,7 @@
 - [monolithic operating system in 512 bytes of x86 machine code](https://github.com/nanochess/bootOS)
 - [The world's smallest chess program in x86 machine code](https://nanochess.org/chess6.html)
 
-### RISC-V
+# RISC-V
 
 - https://blog.randallhyde.com/index.php/2021/01/17/cisc-vs-risc-the-definition
 - [A mind map for beginners overview regarding RISC-V Architecture](https://github.com/xelemental/Mind-Maps/tree/main/RISC-V) + https://twitter.com/ElementalX2/status/1383099988230606857
@@ -125,7 +125,7 @@
 - https://piolabs.com/blog/press-releases/platformio-labs-helps-imagination-technologies.html
 - https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation
 
-### Practice
+# Practice
 
 - http://www.davespace.co.uk/arm/introduction-to-arm
 - https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation
@@ -138,7 +138,7 @@
 - [Examples for x86-64 System V](https://github.com/jlhonora/asm-examples)
 - https://github.com/Vierkantor/Lisp-Assembly
 
-### Tool
+# Tool
 
 - [HTML-embeddable x86_64 emulator](https://github.com/bordplate/js86)
 - [x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86)
@@ -151,7 +151,7 @@
 - https://tryingtobeawesome.com/nasm
 - [writing, running and debugging x86 assembly in the browser](https://github.com/kobzol/davis)
 
-### Radio
+# Radio
 
 - https://tlbh.it/000_mov_fp_sp.html
 - https://ma.ttias.be/syscast/8-intel-amd-arm-cpu-hardware-episode

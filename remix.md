@@ -35,3 +35,4 @@
 - https://github.com/schalkneethling/schalkneethling.com
 - https://github.com/emilpriver/portfolio-remix
 - https://github.com/brophdawg11/brophy.org
+- https://github.com/ondrejsevcik/ondrejsevcik.com, https://ondrejsevcik.com/blog/building-perfect-markdown-processor-for-my-blog

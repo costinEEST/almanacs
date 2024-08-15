@@ -1,4 +1,4 @@
-### Book
+# Book
 
 - https://twitter.com/JonesySports/status/1189293795445297152
 - https://tachy.org/posts/book-of-why + https://news.ycombinator.com/item?id=26379695
@@ -11,22 +11,22 @@
 - Probabilistic Machine learning by Kevin Murphy: https://github.com/probml/pyprobml, https://github.com/probml/pml-book
 - [Learning Statistics | Danielle Navarro](https://github.com/ethanweed/pythonbook)
 
-### Course
+# Course
 
 - [A visual introduction to probability and statistics.](https://seeing-theory.brown.edu)
 - [Statistical Thermodynamics: Molecules to Machines | Venkat Viswanathan](https://www.coursera.org/learn/statistical-thermodynamics-cm)
 - https://decision.substack.com/p/statistics-the-complete-mini-course
 - https://github.com/rmcelreath/stat_rethinking_2022
 
-### Radio
+# Radio
 
 - https://learnbayesstats.com
 
-### Reference
+# Reference
 
 - [Developer industry stats and where to find them](https://github.com/sw-yx/tracking)
 - https://github.com/prathyvsh/probability-statistics-reading-list
 
-### Opinion
+# Opinion
 
 - https://decision.substack.com/p/10-differences-between-amateurs-and

@@ -1,4 +1,4 @@
-### Assets
+# Assets
 
 - [Coronavirus Awareness Application _Free .Sketch_](https://gumroad.com/l/uyczv)
 - [eLearning application - Online resources](https://gumroad.com/l/fAIbb)
@@ -6,7 +6,7 @@
 - [Watchly - Ecommerce UI Kit - DEMO Screens](https://gumroad.com/l/fRODT)
 - [The Design Encyclopedia – Figma UI Kit & Design System](https://www.designencyclopedia.io)
 
-### Course
+# Course
 
 - [The Complete Figma UX/UI App Design Course - Selfstudy Space](https://m.youtube.com/playlist?list=PLFW6ct83_wC-2m1zPcJr6NBaH-7WVC87G) + https://www.claydesk.com/courses/figma-app-design
 - [Learn Figma for UX/UI Design master course - Selfstudy Space](https://m.youtube.com/playlist?list=PLFW6ct83_wC_N-IrrU60lH4G0dV6u1B4n)
@@ -26,23 +26,23 @@
 - https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants
 - [Christine Vallaure](https://www.moonlearning.io/store)
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUemCRhYYvlFle4vhfVcJu9Q
 - [Build UX How Tos - Build UX](https://m.youtube.com/playlist?list=PLKFUh46KjXERWsJTTGT5rdqtD6XWmd726)
 - https://www.learnwithjason.dev/introduction-to-figma-for-developers
 - https://m.youtube.com/c/MadeWithMatt/playlists
 
-### Cheat sheet
+# Cheat sheet
 
 - https://josh-cusick-portfolio.webflow.io/projects/design-systems-for-figma + https://www.designsystemsforfigma.com + https://m.youtube.com/channel/UC2DXl-a7JFfzOwWtJasTh-w/videos
 - [A visual cheat-sheet for the 119 keyboard shortcuts](https://quickref.me/figma.html)
 
-### Community
+# Community
 
 - https://georgiatdavis.com/about
 
-### Development
+# Development
 
 - https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7
 - https://souporserious.com/getting-started-with-figma-webhooks
@@ -52,7 +52,7 @@
 - https://davidl.fr/blog/react-native-svg-icons-component
 - https://itspatmorgan.substack.com/p/the-10-keyboard-shortcuts-that-will
 
-### Plugin
+# Plugin
 
 - https://github.com/rsms/figma-plugins
 - https://github.com/thomas-lowry/figma-plugins-on-github

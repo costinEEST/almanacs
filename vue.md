@@ -29,6 +29,7 @@
 - [The sleekest looking WEBUI for qBittorrent](https://github.com/WDaan/VueTorrent)
 - [web app with a novel method of designing qr codes that does not take advantage of error correction](https://github.com/kochrt/qr-designer) + https://blog.qartis.com/decoding-small-qr-codes-by-hand
 - [Personal audio streaming service written in Vue and Laravel](https://github.com/koel/koel)
+- [A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage](https://github.com/dullage/flatnotes)
 
 # Development
 

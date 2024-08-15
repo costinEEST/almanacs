@@ -1,4 +1,4 @@
-### Hardware
+# Hardware
 
 - [Commands and Tools for Embedded Reverse Engineering](https://www.pentestpartners.com/security-blog/commands-and-tools-for-embedded-reverse-engineering)
 - https://www.slideshare.net/JayTurla2/building-your-car-hacking-labs-car-hacking-community-from-scratch
@@ -29,7 +29,7 @@
 - https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location
 - https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15
 
-### Course
+# Course
 
 - https://github.com/wtsxDev/reverse-engineering
 - [RE for beginners](https://www.begin.re/the-workshop) + https://twitter.com/OphirHarpaz/status/1272605739589283842
@@ -49,7 +49,7 @@
 - [begin.re](https://twitter.com/OphirHarpaz/status/1012436495704129536)
 - [Binary Exploit Track](https://github.com/security-summer-school/binary)
 
-### Book
+# Book
 
 - https://learning.oreilly.com/library/view/the-ida-pro/9781593273750
 - https://legacy.gitbook.com/book/dhavalkapil/heap-exploitation/details
@@ -60,21 +60,21 @@
 - [A Beginner’s Guide to Understanding Game Hacking Techniques](https://gamehacking.academy/GameHackingAcademy.pdf) + https://gamehacking.academy
 - https://github.com/iosre/iOSAppReverseEngineering
 
-### Community
+# Community
 
 - [Jonathan Brossard](https://www.slideshare.net/endrazine/presentations)
 - https://github.com/stong/infosec-resources
 - https://twitter.com/cezarcerekwicki/status/1574026431415328769 + https://learnappsec.com/blog/binary-exploitation-learning-path + https://omu.rce.so/gcc-2022 + https://twitter.com/gerbsec/status/1572284246630318080 + https://twitter.com/esj4y/status/1575187963163856896
 - [Reverse engineering firmware resources](https://twitter.com/tinkersec/status/1580316248960692224)
 
-### Cinema
+# Cinema
 
 - https://m.youtube.com/c/OALabs/playlists
 - https://github.com/tmpout/awesome-elf
 - https://github.com/JannisKirschner/SymbolicExecutionDemystified
 - https://speakerdeck.com/rung/exploitation-fundamentals-english
 
-### Tool
+# Tool
 
 - https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md
 - https://www.coresecurity.com/article/reversing-and-exploiting-free-tools
@@ -88,7 +88,7 @@
 - [Gepetto is a Python script which uses OpenAI's davinci-003 model to provide meaning to functions decompiled by IDA Pro](https://github.com/JusticeRage/Gepetto)
 - [Extract files from any kind of container formats](https://github.com/onekey-sec/unblob)
 
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/Auxy233/misc
 - https://pwn.college
@@ -104,11 +104,11 @@
 - https://noorsiddiqui.com/greatest-hits-in-sidechannel-attacks
 - [ELF binaries](https://www.cs.stevens.edu/~jschauma/631/elf.html)
 
-### Radio
+# Radio
 
 - https://blog.firosolutions.com/2020/11/security-headlines-dynaguard
 
-### Writeup
+# Writeup
 
 - https://itzsomebody.xyz/2021/07/11/javaisez3-writeup.html
 - https://inaradu.com/hwio-cts20

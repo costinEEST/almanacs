@@ -1,4 +1,4 @@
-### Plugin
+# Plugin
 
 - [A modern Anki custom scheduling based on free spaced repetition scheduler algorithm ](https://github.com/open-spaced-repetition/fsrs4anki)
 - [Set of tools and libraries that streamline the learning experience with Anki](https://github.com/chenlijun99/autoanki)

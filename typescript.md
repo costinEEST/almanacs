@@ -10,6 +10,7 @@
 
 # Boilerplate
 
+- https://github.com/JoshuaKGoldberg/create-typescript-app
 - https://github.com/Divlo/create-fullstack-app
 - https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node
 - https://github.com/CodelyTV/typescript-ddd-example
@@ -55,6 +56,10 @@
 - https://www.steveruiz.me/posts/smooshed-object-union
 - https://github.com/labs42io/clean-code-typescript
 - [Module documentation (in progress)](https://gist.github.com/andrewbranch/79f872a8b9f0507c9c5f2641cfb3efa6)
+- `type StringWithAutocompleteOptions<TOptions extends string> =
+  | TOptions
+  | Exclude<string, TOptions>;` 
+  inspired from https://x.com/mattpocockuk/status/1822917988569301215, https://www.linkedin.com/posts/thomas-gentilhomme_typescript-opensource-activity-7229614389648109569-DAX1
 
 # Course
 
@@ -135,6 +140,7 @@
 - https://zackoverflow.dev/writing/write-your-own-zod
 - https://github.com/hediet/rxjs-playground
 - https://blog.andrewbran.ch/debugging-the-typescript-codebase
+- https://github.com/tigerabrodi/Zod-from-scratch
 
 # Radio
 

@@ -37,3 +37,4 @@
 - https://github.com/stars/o-az/lists/markdown
 - https://github.com/yandeu/md-to-book
 - https://github.com/gergelykalman/confluence-markdown-exporter
+- [A file based wiki](https://github.com/Linbreux/wikmd)
