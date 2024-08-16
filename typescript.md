@@ -60,6 +60,7 @@
   | TOptions
   | Exclude<string, TOptions>;` 
   inspired from https://x.com/mattpocockuk/status/1822917988569301215, https://www.linkedin.com/posts/thomas-gentilhomme_typescript-opensource-activity-7229614389648109569-DAX1
+- https://blog.encodeart.dev/series/dci-typescript-tutorial
 
 # Course
 
@@ -170,6 +171,7 @@
 - TypeScript modules that work with both CommonJS and ESM: https://isaacs.github.io/tshy, https://twitter.com/izs/status/1702034259584893329, https://twitter.com/atcb/status/1702069237710479608
 - [An incomplete ActivityPub implementation](https://github.com/indutny/mean.engineer)
 - Asset management software: https://github.com/Shelf-nu/shelf.nu, https://news.ycombinator.com/item?id=36666702
+- [Traverse and transform objects by visiting every node on a recursive walk](https://www.npmjs.com/package/neotraverse), https://x.com/puruvjdev/status/1811382227252424915
 
 # Watch
 

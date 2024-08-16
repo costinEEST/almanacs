@@ -20,6 +20,7 @@
 - https://github.com/sveltejs/community
 - [Tan Li Hau](https://m.youtube.com/channel/UCbmC3HP3FaAFdcZkui8YoMQ/playlists)
 - [Jacob Størdahl](https://github.com/stars/stordahl/lists/svelte), https://stordahl.dev/talks
+- [Ilja | Илья](https://github.com/stars/fubits1/lists/svelte)
 
 # Cinema
 

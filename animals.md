@@ -15,6 +15,7 @@
 
 - [Dean R. Lomax, paleontologist](https://www.deanrlomax.co.uk/Autobiography.html)
 - [Insects of Romania and Europe](https://www.facebook.com/groups/255115031327840/files/files)
+- [Păsări sălbatice din Romania](https://www.facebook.com/groups/512816552424691/files/files)
 
 # Bird
 

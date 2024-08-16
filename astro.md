@@ -38,6 +38,7 @@
 - https://github.com/bholmesdev/whiteboard-the-web
 - https://github.com/carloskelly13/carlos.dev
 - https://github.com/JoshuaKGoldberg/dot-com
+- [Personal site and blog built with Astro and Svelte](https://github.com/PuruVJ/puruvj.dev), https://x.com/puruvjdev/status/1822990843130618122
 
 # Opinion
 

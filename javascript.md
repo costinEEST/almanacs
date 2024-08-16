@@ -422,7 +422,7 @@
 - https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript
 - https://github.com/JoshuaKGoldberg/floating-and-sinking-promises
 
-# async await
+# `async`, `await`
 
 - https://www.zhenghao.io/posts/await-vs-promise
 - Fast and maintainable patterns for fetching from a database: [tweet](https://twitter.com/sophiebits/status/1212555591056424960) + [blog post](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
@@ -432,6 +432,7 @@
 - [Does anyone have a fetch wrapper that packs in sane error handling?](https://twitter.com/tannerlinsley/status/1275823695051673601) + https://hassansin.github.io/Why-return-await-Is-a-Bad-Idea
 - https://davidwells.io/blog/cleaner-async-await-code-without-try-catch
 - https://www.builder.io/blog/safe-data-fetching
+- https://arthur.place/the-cost-of-return-await
 
 # JSON.parse()
 
@@ -442,12 +443,13 @@
 - https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers
 - https://radex.io/react-native/json-parse
 
-# class
+# `class`
 
 - [When are public instance fields executed?]https://twitter.com/rauschma/status/1205417503108878336
 - https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078 + https://evertpot.com/syntactic-sugar
 - https://www.mgaudet.ca/technical/2021/5/4/implementing-private-fields-for-javascript
 - https://piranna.github.io/2021/07/08/Abstract-classes-in-Javascript
+- https://www.puruvj.dev/blog/js-class-private-vs-ts-private
 
 # OOP
 
