@@ -1,3 +1,6 @@
+- https://github.com/AndrewStetsenko/tech-jobs-with-relocation
+- https://github.com/remoteintech/remote-jobs
+
 # Java 
 
 - https://jdevsummitil.com/jobs
@@ -14,5 +17,7 @@
 # Scala 
 
 - Julien Truffaut: https://scalajobs.com
+
+
 
 

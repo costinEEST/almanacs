@@ -47,6 +47,7 @@
 - https://cult.honeypot.io/reads/astro-the-new-javascript-framework
 - https://chan.dev/posts/rewrite-11ty-blog-in-astro
 - https://remotesynthesis.com/blog/full-stack-without-react
+- https://thenewstack.io/how-astro-and-its-server-islands-compare-to-react-frameworks
 
 # Watch
 

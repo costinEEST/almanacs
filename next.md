@@ -32,6 +32,8 @@
 - [The Atlassian's Statuspage Open Source Alternative](https://github.com/openstatushq/openstatus)
 - [TypeScript example with React Spectrum](https://github.com/reidbarber/rsp-next-ts)
 - https://github.com/nmn/next-15-with-stylex-cli
+- https://blog.stackademic.com/next-js-full-stack-web-app-2024-04c92bebd70d, https://github.com/wdevon99/Next-js-starter
+- https://dev.to/vyan/mastering-nextjs-the-ultimate-guide-to-structuring-large-scale-projects-in-2024-h4e 
 
 # Cheat sheet
 
@@ -115,6 +117,7 @@
 - https://github.com/bbc/simorgh
 - https://github.com/danstepanov/danstepanov.com
 - https://github.com/mbifulco/blog
+- https://github.com/urish/beat-machine
 
 # Testing
 
@@ -126,6 +129,7 @@
 
 - [A simple tax calculator for freelancers working as sole traders (PFA) in Romania](https://github.com/taxepfa/taxepfa.github.io)
 - [Openpanel – An open-source alternative to Mixpanel](https://news.ycombinator.com/item?id=40432213)
+- https://jordaneldredge.com/notes/notion-cms
 
 # Watch
 

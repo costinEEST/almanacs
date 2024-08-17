@@ -5,6 +5,7 @@
 - https://inquisitivebiologist.com/2022/05/19/book-review-the-process-of-animal-domestication
 - [How to Walk on Water and Climb on Walls David L. Hu](https://eli.thegreenplace.net/2021/summary-of-reading-october-december-2021)
 - https://inquisitivebiologist.com/tag/bees
+- https://www.goodreads.com/book/show/30231743-are-we-smart-enough-to-know-how-smart-animals-are
 
 # Course
 
