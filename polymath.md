@@ -1,3 +1,5 @@
+- https://github.com/alirezasamar/awesome-phd
+
 # Book
 
 - [The Polymath by Waqas Ahmed](https://blas.com/the-polymath)
@@ -11,6 +13,11 @@
 # Abu Rayhan Muhammad ibn Ahmad al-Biruni
 
 - https://en.wikipedia.org/wiki/Al-Biruni
+
+# Josh Waitzkin
+
+- https://www.joshwaitzkin.com/josh
+- https://teekay.substack.com/p/the-art-of-learning
 
 # Michael Psellos (Philosopher, Writer, Scholar, Historian, Theologist, Statesman (1018 – 1096?))
 

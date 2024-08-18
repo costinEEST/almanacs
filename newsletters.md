@@ -602,12 +602,14 @@
 - [Jeremy Kun](https://buttondown.email/j2kun/archive)
 - Adrian Manea: https://sidesofscience.substack.com/archive, https://poligonedu.substack.com/archive
 - [Michael Hartl](https://substack.com/@mhartl)
+- [Jørgen Veisdal](https://www.privatdozent.co/s/stories/archive?sort=new), https://on.substack.com/p/what-to-read-jorgen-veisdal
 
 # Miscellaneous
 
 - [Marius Cosmeanu](https://savantgarde.substack.com/recommendations)
 - https://github.com/kilimchoi/engineering-blogs
 - https://github.com/jackbridger/developer-newsletters
+- https://teekay.substack.com/archive
 
 # Music
 
@@ -690,6 +692,7 @@
 - https://catalintenita.substack.com/archive
 - [Pippa Malmgren](https://drpippa.substack.com/archive)
 - https://colemanhughes.substack.com/archive
+- [Robert Wright: politics, foreign policy, and evolutionary psychology](https://substack.com/@nonzero/posts)
 
 # Social sciences
 

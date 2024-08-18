@@ -707,6 +707,7 @@ javascript: (() =>
 - https://dev.to/noamr/when-a-millisecond-is-not-a-millisecond-3h6
 - https://web.dev/shopping-for-speed-on-ebay
 - https://www.jovidecroock.com/blog/browser-timings
+- https://www.iamtk.co/leveraging-the-idle-until-urgent-technique-to-improve-performance, https://github.com/imteekay/web-performance-research
 - Interaction to Next Paint (INP)
   - https://www.speedcurve.com/blog/INP-user-experience-correlation
 - First Input Delay (FID)
