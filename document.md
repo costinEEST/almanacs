@@ -24,6 +24,7 @@
 - https://github.com/Metalnem/hkpropel-downloader
 - [export epub book](https://github.com/jsoverson/node-to-rust/pull/15/files)
 - [Dancing Queen, the aBookApart parser](https://github.com/eaton/dq)
+- https://github.com/robinsloan/perfect-edition
 
 # .jpg
 

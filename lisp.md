@@ -7,6 +7,7 @@
 - https://notes.eatonphil.com/book-review-ansi-common-lisp.html
 - https://mihaiolteanu.me/books.html
 - [Loving Common Lisp, or the Savvy Programmer's Secret Weapon | Mark Watson](https://leanpub.com/lovinglisp/read)
+- [A Lisp Programmer Living in Python-Land: The Hy Programming Language | Mark Watson](https://leanpub.com/hy-lisp-python)
 - Learn Lisp The Hard Way: https://github.com/thephoeron/LLTHW, https://llthw.common-lisp.dev
 - https://leanpub.com/lispweb
 

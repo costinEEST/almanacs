@@ -94,6 +94,8 @@
 - [Lucian Gruia: Java, Python, JS, AI, Blockchain](https://luciangruiaro.substack.com/archive)
 - https://terrysejnowski.substack.com/archive
 - https://substack.com/@dumitruradoiu/reads
+- https://www.matthewberman.com
+- [Alexandru-Cosmin Voica](https://substack.com/@alexvoica/posts)
 
 # Biology
 
@@ -715,6 +717,7 @@
 
 - [Andreea Giuclea](https://povestidinsport.substack.com/archive)
 - [Vlad Bogos: Fotbal pentru weekend](https://tackle.ro/newsletter)
+- https://fcargesinsider.substack.com/archive
 
 # Travel
 
