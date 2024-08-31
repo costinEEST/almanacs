@@ -396,7 +396,7 @@
 
 - [setInterval implementation with setTimeout](https://github.com/n0ruSh/blogs/blob/master/articles/Implement%20setInterval%20with%20setTimeout.md)
 
-# new Promise()
+# `new Promise()`
 
 - [What does this code print?](https://twitter.com/Swizec/status/1206624095816699906)
 - [wrapper for an array of promises that can fine control how to run them?](https://twitter.com/sseraphini/status/1245427739169079296)
@@ -421,6 +421,7 @@
 - https://github.com/acut3/acut3.github.io/blob/master/_posts/2023-01-03-fetch-diversion.md, https://twitter.com/acut3hack/status/1610387861794324480
 - https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript
 - https://github.com/JoshuaKGoldberg/floating-and-sinking-promises
+- https://github.com/FaberVitale/pinky-promise
 
 # `async`, `await`
 
