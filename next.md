@@ -118,6 +118,7 @@
 - https://github.com/danstepanov/danstepanov.com
 - https://github.com/mbifulco/blog
 - https://github.com/urish/beat-machine
+- https://github.com/mckaywrigley/takeoff-cursor-course
 
 # Testing
 

@@ -54,6 +54,7 @@
 - [A web app to track your book collection](https://github.com/arackaf/booklist)
 - [ear trainer and tools for playing and programming music and audio](https://github.com/ryanatkn/earbetter)
 - [User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui)
+- [Private first self-hosted no code database & BaaS](https://github.com/undb-io/undb)
 
 # Miscellaneous
 

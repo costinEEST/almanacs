@@ -111,6 +111,7 @@
 - [GUI for a Vocal Remover that uses Deep Neural Networks](https://github.com/Anjok07/ultimatevocalremovergui)
 - [Content-aware fill and trim for music](https://mofi.loud.red)
 - https://www.cameronmacleod.com/blog/how-does-shazam-work
+- [BetterDictation is your personal scribe. You speak, and it will quickly and flawlessly transcribe into any app](https://betterdictation.com/)
 
 # Security
 

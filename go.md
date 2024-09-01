@@ -89,6 +89,7 @@
 - [A series of interactive lessons teaching Go](https://github.com/solarwinds/golessons)
 - https://www.manning.com/liveprojectseries/go-and-external-apis
 - https://github.com/CodeYourFuture/immersive-go-course
+- https://github.com/rsergiuistoc/golang-workshop-2021
 
 # Community
 

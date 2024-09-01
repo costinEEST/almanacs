@@ -79,6 +79,7 @@
 - https://github.com/pinzonjulian/poodr-notes
 - https://github.com/tomstuart/computationbook + https://computationbook.com/contents
 - https://pragprog.com/titles/d-frgen/frictionless-generators
+- [Engineering Software as a Service: An Agile Approach Using Cloud Computing | Armando Fox & David A. Patterson](https://saasbook.info)
 
 
 # Boilerplate

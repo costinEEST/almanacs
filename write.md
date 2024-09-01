@@ -142,3 +142,4 @@
 - https://passo.uno/tech-writing-skills-talent-tree
 - [always bet on text](https://graydon.livejournal.com/196162.html)
 - https://plugaru.org/2014/11/26/energy-needed-to-write-an-e-mail
+- https://github.com/Omerr/write-like-a-pro, https://github.com/Omerr/research-like-a-pro

@@ -64,6 +64,7 @@
 - [Uniunea Artiștilor Plastici (UAP)](https://us9.campaign-archive.com/home/?u=2a08fdb9ce5e94a16b1f69f08&id=3880383ed3)
 - Alexandra Kiely: https://wordpress.com/read/feeds/74573223, https://ascholarlyskater.com
 - [Revista Cultura](https://us20.campaign-archive.com/home/?u=283e2184fb3ed725e7652d7c9&id=061999ac6f)
+- [Evan Puschak](https://www.patreon.com/nerdwriter/posts)
 
 # Artificial intelligence
 
@@ -96,6 +97,10 @@
 - https://substack.com/@dumitruradoiu/reads
 - https://www.matthewberman.com
 - [Alexandru-Cosmin Voica](https://substack.com/@alexvoica/posts)
+- [Alexandru Vesa; Alexandru Răzvanț; Paul Iusztin; Rareș Istoc](https://decodingml.substack.com/archive)
+- [Alexandru Răzvanț](https://neuralbits.substack.com/archive), https://github.com/Joywalker?tab=stars, https://medium.com/@arazvant/machine-learning-start-with-baby-yoda-steps-80fabcadfe12
+- [Daniel Năstase](https://www.js-craft.io)
+- https://mckaywrigley.substack.com/archive
 
 # Biology
 
