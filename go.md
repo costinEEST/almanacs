@@ -154,6 +154,7 @@
 - https://github.com/quii/learn-go-with-tests
 - https://github.com/cdarwin/go-koans
 - https://bitfieldconsulting.com/golang/bugs-fuzzing
+- [Introducing Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
 
 # Tool
 

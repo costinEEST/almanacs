@@ -65,6 +65,7 @@
 - Alexandra Kiely: https://wordpress.com/read/feeds/74573223, https://ascholarlyskater.com
 - [Revista Cultura](https://us20.campaign-archive.com/home/?u=283e2184fb3ed725e7652d7c9&id=061999ac6f)
 - [Evan Puschak](https://www.patreon.com/nerdwriter/posts)
+- [Nathan Toups](https://functionallyimperative.com/archive)
 
 # Artificial intelligence
 
@@ -307,6 +308,7 @@
 - [Handsoff Investor](https://handsoff.substack.com/archive)
 - [Sven Carlin](https://us18.campaign-archive.com/home/?u=83ab4ea650b8ab076b2ca4981&id=0163a06b72)
 - [Matt Gamber](https://mattbiotech.substack.com/archive)
+- [Laurențiu Vană](https://theweeklyblend.substack.com/archive)
 
 # iOS
 
