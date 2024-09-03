@@ -382,6 +382,7 @@
 
 - [Andrei Vasilachi](https://meditatii.substack.com/archive)
 - [Mahmoud Rasmi](https://decafquest.substack.com/archive)
+- [Jared Henderson: Exploring modern life through great works of philosophy and literature](https://jaredhenderson.substack.com/archive)
 
 # Physics
 

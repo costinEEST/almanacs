@@ -500,7 +500,7 @@
 - https://twitter.com/AdamRackis/status/1232693680873467904
 - https://h3manth.com/new/blog/2020/nullish-coalescing-vs-logical-or
 
-# new RegExp()
+# `new RegExp()`
 
 - https://www.johndcook.com/blog/2008/01/14/tips-for-learning-regular-expressions
 - https://ihateregex.io/playground + https://ihateregex.io/cheatsheet
@@ -534,6 +534,7 @@
 - https://regexgpt.app
 - https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers
 - [Linear Matching of JavaScript Regular Expressions](https://arxiv.org/abs/2311.17620)
+- https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript, https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming-ebook/dp/B008Y4OP1O
 
 # Practice
 
