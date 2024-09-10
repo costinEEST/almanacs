@@ -30,6 +30,7 @@
 - https://www.goodreads.com/review/list/19131383-nick-chandler-klein?order=d&shelf=good-books-for-economists&sort=rating
 - [Empire of the Sum - The Rise and Reign of the Pocket Calculator](https://wwnorton.com/books/9780393882148/about-the-book/product-details)
 - https://schiener.io/2022-02-21/empowered
+- https://abdulapopoola.com/2024/08/14/book-review-the-mom-test
 
 # Cinema
 

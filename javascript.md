@@ -346,7 +346,7 @@
 - https://www.konnorrogers.com/posts/2023/listening-for-changes-to-an-element-property
 - https://github.com/dfkaye/safe-object-assign
 
-# Array.prototype
+# `new Array()` 
 
 - [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff)
 - [Cheat sheet: JavaScript Array methods](https://gist.github.com/rauschma/6cdeb4af7586aa03baed2f925e0a084b)
@@ -359,12 +359,17 @@
 - https://cbrevik.com/react-native-and-the-array-reverse-bug
 - https://www.macarthur.me/posts/looping-over-empty-array-items
 - https://benlesh.com/posts/forEach-is-a-code-smell
+- https://abdulapopoola.com/2020/11/11/avoid-bugs-by-understanding-hole-processing-in-js-arrays
 
-# new Uint8Array()
+# `new Uint8Array()`
 
 - [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
 
-# new ArrayBuffer()
+# `new Uint32Array()`
+
+- https://abdulapopoola.com/2019/01/20/check-endianness-with-javascript
+
+# `new ArrayBuffer()`
 
 - [Is there a way to compress an array buffer in js in the browser those days without having a pure js implementation (by using browser)?](https://twitter.com/Vjeux/status/1239176661133742083)
 - https://github.com/lrlna/sketchin/blob/master/guides/typed-arrays.md
@@ -487,12 +492,13 @@
 
 - https://twitter.com/RenwaX23/status/1663624248924020736 + https://youtu.be/1iQ-oeLFZBs
 
-# bitwise operators
+# Bitwise operators
 
 - [xor](https://twitter.com/rauschma/status/1218579324976140288)
 - https://dmitripavlutin.com/swap-variables-javascript/#4-bitwise-xor-operator
 - https://chrisrng.svbtle.com/bitwise-operators-in-javascript
 - https://dev.to/oliverjumpertz/xor-bitwise-xor-and-using-it-to-solve-an-algorithm-challenge-14oa
+- https://abdulapopoola.com/2018/01/22/exclusive-or-xor-explained
 
 # optional chaining operator
 

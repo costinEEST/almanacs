@@ -141,6 +141,7 @@
 - https://github.com/samselikoff/ios-apple-music-clone
 - [A collection of clever yet understated user interactions found on the web](https://github.com/ryanwiemer/subtle-ui)
 - https://github.com/karlhadwen/todoist
+- https://github.com/quran/quran.com-frontend
 
 #  Radio
 

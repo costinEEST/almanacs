@@ -66,6 +66,7 @@
 - [Revista Cultura](https://us20.campaign-archive.com/home/?u=283e2184fb3ed725e7652d7c9&id=061999ac6f)
 - [Evan Puschak](https://www.patreon.com/nerdwriter/posts)
 - [Nathan Toups](https://functionallyimperative.com/archive)
+- [Padu Preda: teatru](https://substack.com/@radupreda/posts)
 
 # Artificial intelligence
 
