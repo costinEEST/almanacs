@@ -107,6 +107,10 @@
 - https://pointersgonewild.com/about
 - [Basic wip js aot optimizing wasm compiler](https://github.com/CanadaHonk/porffor) + https://twitter.com/C4nadaHonk/status/1680385335354589185
 
+# Event loop 
+
+- https://macarthur.me/posts/navigating-the-event-loop
+
 # Quirks
 
 - https://github.com/aemkei/jsfuck
@@ -391,6 +395,7 @@
 - [Why is January represented by 0 in JavaScript and not by 1?](https://twitter.com/rauschma/status/1330881310039175169)
 - https://github.com/andreigasparovici/npm-time-ago-ro
 - https://www.builder.io/blog/relative-time
+- https://docs.timetime.in/blog/js-dates-finally-fixed
 
 # new Error()
 

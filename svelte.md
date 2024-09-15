@@ -14,6 +14,7 @@
 - https://github.com/Orange-Gang/forkup
 - [An opinionated blog starter for SvelteKit + Tailwind + Netlify](https://github.com/sw-yx/swyxkit)
 - https://github.com/josh-collinsworth/sveltekit-blog-starter
+- https://sveltebrasil.dev/#/cheatsheet
 
 # Community
 
@@ -21,6 +22,9 @@
 - [Tan Li Hau](https://m.youtube.com/channel/UCbmC3HP3FaAFdcZkui8YoMQ/playlists)
 - [Jacob Størdahl](https://github.com/stars/stordahl/lists/svelte), https://stordahl.dev/talks
 - [Ilja | Илья](https://github.com/stars/fubits1/lists/svelte)
+- https://guild.host/svelte-society-london/presentations
+- https://github.com/nika-d/svelte-berlin
+- https://github.com/svelte-brasil
 
 # Cinema
 

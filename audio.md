@@ -11,6 +11,10 @@
 - [sounds of Mexico City’s streets](https://pudding.cool/2022/09/cdmx)
 - [Jack Schaedler](https://github.com/jackschaedler)
 - https://github.com/benthecoder/yt-channels-DS-AI-ML-CS#audio-programming
+- https://melatonin.dev/ — Sudara (Audio Programming)
+- https://josediazrohena.github.io/ — José Diaz Rohena (Audio Programming)
+- https://www.jackcampbellsounds.com/ — Jack Campbell (Audio programming, electronics)
+- https://www.meoworkshop.org/ — Allen Lee (Audio, electronics, firmware)
 
 # Course
 

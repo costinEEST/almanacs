@@ -103,6 +103,7 @@
 - [Alexandru Răzvanț](https://neuralbits.substack.com/archive), https://github.com/Joywalker?tab=stars, https://medium.com/@arazvant/machine-learning-start-with-baby-yoda-steps-80fabcadfe12
 - [Daniel Năstase](https://www.js-craft.io)
 - https://mckaywrigley.substack.com/archive
+- [Ian Nuttall](https://substack.com/@cursorcasts/posts)
 
 # Biology
 
