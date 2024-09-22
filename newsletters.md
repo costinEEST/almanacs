@@ -227,7 +227,8 @@
 
 # Javascript
 
-- [Nathan Lawson](https://astroweekly.beehiiv.com)
+- [Philip Roberts](http://latentflip.com/#)
+- [Nathan Lawson](https://astroweekly.beehiiv.com) 
 - [Alex Kotliarskyi](https://us3.campaign-archive.com/home/?u=96d6ac29ef7232f76b9edc7b9&id=79380afc5b)
 - [Rebecca Murphey](https://rmurphey.substack.com/archive)
 - Sébastien Lorber: https://thisweekinreact.com/newsletter

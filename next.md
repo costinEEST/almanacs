@@ -119,6 +119,7 @@
 - https://github.com/mbifulco/blog
 - https://github.com/urish/beat-machine
 - https://github.com/mckaywrigley/takeoff-cursor-course
+- https://github.com/chibicode/com
 
 # Testing
 

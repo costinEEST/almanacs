@@ -117,6 +117,7 @@
 - [The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more](https://github.com/skerkour/bloom-legacy)
 - https://basden.xyz/secure-messaging-for-paranoid-realists (Matrix/XMPP)
 - https://textslashplain.com/2024/05/22/authenticode-in-2024
+- https://ipx.ac - IP info & leak test suite
 
 # Regulation
 

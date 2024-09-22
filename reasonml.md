@@ -1,3 +1,7 @@
+# Book 
+
+- [Exploring ReasonML and functional programming | Axel Rauschmayer](http://reasonmlhub.com/exploring-reasonml)
+
 # Cheat sheet
 
 - https://github.com/hyf0/the-super-tiny-compiler-in-rescript
