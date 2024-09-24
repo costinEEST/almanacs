@@ -37,6 +37,7 @@
 - [Microservice Development with Clean Architecture & DDD in Golang](https://functionalbits.gumroad.com/l/bybtu)
 - https://www.manning.com/books/hacking-cryptography
 - https://www.manning.com/books/learn-concurrent-programming-with-go
+- https://github.com/astaxie/build-web-application-with-golang
 
 # Boot
 

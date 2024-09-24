@@ -15,6 +15,7 @@
 
 # Cheat sheet
 
+- https://github.com/HowProgrammingWorks/SelfAssessment/blob/main/Skills/DotNET.md
 - https://devtut.github.io/csharp
 - https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 - https://github.com/nemanjarogic/DesignPatternsLibrary
