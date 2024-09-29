@@ -26,6 +26,8 @@
 - [Dancing Queen, the aBookApart parser](https://github.com/eaton/dq)
 - https://github.com/robinsloan/perfect-edition
 - https://github.com/ttu-ttu/ebook-reader
+- [Citadel – a Calibre-compatible eBook management app (github.com/every-day-things)](https://news.ycombinator.com/item?id=38988019)
+- [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
 
 # .jpg
 
@@ -69,6 +71,7 @@
 - https://nora.codes/post/pdf-embedding-attacks
 - https://github.com/mozilla/pdf.js/wiki/Additional-Learning-Resources
 - [Tracking PDF forms as plain text](https://iter.ca/post/fdf)
+- [Typeset and generate pdfs with HTML/CSS (htmldocs.com)](https://news.ycombinator.com/item?id=39027543)
 
 # .png
 

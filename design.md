@@ -89,6 +89,7 @@
 - https://www.goodreads.com/book/show/93976.The_Graphic_Language_of_Neville_Brody
 - https://voxa.ro/authors/george-french
   - https://voxa.ro/ebooks/printing-in-relation-to-graphic-art-2
+- [Apple's classic Pascal poster, remade as a vector image [pdf] (danamania.com)](https://news.ycombinator.com/item?id=38875551)
 
 # Historic
 

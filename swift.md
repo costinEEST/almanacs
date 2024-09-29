@@ -21,6 +21,7 @@
 - https://github.com/criticalmaps/criticalmaps-ios
 - [watchOS app for checking air pollution levels](https://github.com/mackuba/SmogWatch)
 - https://andadinosaur.com/launch-crappy-vpn
+- [OutRun – Open-source, privacy oriented, outdoor fitness tracker (github.com/timfraedrich)](https://news.ycombinator.com/item?id=39014652)
 
 # Algorithm
 
@@ -85,6 +86,7 @@
 - [Find timezones or countries for given coordinates](https://github.com/patrick-zippenfenig/SwiftTimeZoneLookup)
 - https://github.com/stars/Cykelero/lists/swift-frameworks
 - https://worthdoingbadly.com/swiftui-html
+- https://krausefx.com/blog/how-to-automatically-manage-monitor-rollout-new-machine-learning-models-across-your-ios-app-user-base
 
 # Practice
 

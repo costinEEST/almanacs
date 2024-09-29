@@ -124,6 +124,7 @@
 - [Understanding Computer Architecture & RVFpga: Introduction to SoC Design](https://university.imgtec.com/teaching-download/#rvfpga)
 - https://piolabs.com/blog/press-releases/platformio-labs-helps-imagination-technologies.html
 - https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation
+- [Fast RISC-V-based scripting back end for game engines (github.com/fwsgonzo)](https://news.ycombinator.com/item?id=38993552)
 
 # Practice
 

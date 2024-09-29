@@ -192,6 +192,7 @@
 - https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin
 - https://ondrejsevcik.com/blog/how-to-detect-ad-block
 - https://alexn.org/blog/2024/08/12/on-advertising-and-tracking
+- https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, https://gist.github.com/costinEEST/2b227f664e63495423dba301d3a68ef9
 
 # Social media
 

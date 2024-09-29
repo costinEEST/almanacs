@@ -58,6 +58,7 @@
 - https://github.com/kachkaev/tooling-for-how-old-is-this-house
 - https://blog.meain.io/2022/self-hosted-location-history + https://github.com/OwnTracks
 - https://nelsonslog.wordpress.com/2024/03/30/openstreetmap-temporary-road-closures
+- https://github.com/railwayhistory/map
 
 # Miscellaneous
 

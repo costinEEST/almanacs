@@ -16,9 +16,11 @@
 - https://jonsuh.com/blog/detect-the-end-of-css-animations-and-transitions-with-javascript
 - https://github.com/petargyurov/virtual-bookshelf
 - https://kevinhufnagl.com/verceltext-gradient
+- https://github.com/prideout/pageturn
 
 # Approach
 
+- https://www.designsystemhunt.com
 - https://calibreapp.com/blog/css-performance
 - https://css-tricks.com/building-a-scalable-css-architecture-with-bem-and-utility-classes
 - https://experiencinginformation.com/2012/07/22/the-first-responsive-design-website-audi-circa-2002
