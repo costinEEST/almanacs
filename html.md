@@ -95,6 +95,7 @@
 
 # `<dialog></dialog>`
 
+- https://frontendmasters.com/blog/whats-the-difference-between-htmls-dialog-element-and-popovers
 - [It uses the “top layer”, a native browser feature that guarantees it'll sit above the main document, no `z-index` required](https://www.linkedin.com/feed/update/urn:li:activity:7153416928533835776)
 - https://dfkaye.com/demos/alert-dialog-generator/alert-dialog.js
 

@@ -562,7 +562,7 @@ javascript: (() =>
 # Web Real-Time Communication (WebRTC)
 
 - https://github.com/adalkiran/webrtc-nuts-and-bolts
-- https://github.com/webrtc-for-the-curious/webrtc-for-the-curious
+- https://siobud.com, https://github.com/webrtc-for-the-curious/webrtc-for-the-curious
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUeu5vBImsX2mMBacbomDrig
 - [WebRTC Boston](https://m.youtube.com/channel/UCOYrKr3E50aY5VhHey-MrzA/playlists)
 - [Anyone do much with WebRTC?](https://twitter.com/tannerlinsley/status/1220121545621700609)
@@ -573,7 +573,6 @@ javascript: (() =>
 - [browser-based internal network scanner that detects victim's LAN IP (loops back via WebRTC)](http://samy.pl/webscan) + https://twitter.com/samykamkar/status/1329124348779667456
 - [A self contained OBS -> FTL -> WebRTC live streaming server.](https://github.com/GRVYDEV/Project-lightspeed)
 - [Share a terminal session over WebRTC](https://github.com/maxmcd/webtty)
-- https://github.com/webrtc-for-the-curious/webrtc-for-the-curious
 - https://github.com/delapuente/presentations#webrtc--web-components
 - https://github.com/kgryte/awesome-peer-to-peer#resources
 - https://github.com/EnableSecurity/awesome-rtc-hacking
@@ -652,6 +651,7 @@ javascript: (() =>
 - https://github.com/caged/regl-learn
 - https://github.com/erich666/RealTimeRendering
 - https://github.com/jsulpis/realtime-planet-shader
+- https://www.charlespetzold.com/blog/2024/09/Rudimentary-3D-on-the-2D-HTML-Canvas.html
 
 # WebGPU
 

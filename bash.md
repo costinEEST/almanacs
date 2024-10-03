@@ -122,3 +122,4 @@
 - [Quickly fetches files from Wayback Machine](https://github.com/riza/wb)
 - https://ybiquitous.me/blog/2022/highlighting-command-help-via-bat
 - [weblog implementation by awk](https://github.com/yammerjp/awkblog)
+- https://github.com/dylanaraps/writing-a-tui-in-bash

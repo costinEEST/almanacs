@@ -203,6 +203,8 @@
 - https://www.strictmode.io/articles/react-pull-to-refresh
 - https://usehooks-ts.com/react-hook/use-copy-to-clipboard
 - https://emilkowal.ski/ui/building-a-drawer-component + https://github.com/emilkowalski/vaul#examples
+- [State setters, reducer dispatchers, action state dispatchers, refs, and the return value of useEffectEvent have `stable values`](https://macwright.com/2024/09/19/the-extra-rules-of-hooks)
+- [The `storage` events are only fired when local storage is changed by a different document, not the document where the change originated](https://www.nico.fyi/blog/ssr-friendly-local-storage-react-custom-hook)
 
 #  Lifecycle methods
 
@@ -350,8 +352,9 @@
 - http://intertwingly.net/blog/2020/07/22/React-Hooks-as-Middleware
 - https://www.matschik.com/writing/understanding-virtual-dom-that-powers-reactjs-and-vuejs
 
-#  Server component
+#  Server component (RSC)
 
+- https://www.robinwieruch.de/react-component-types/#react-server-components
 - https://dev.to/swyx/an-annotated-guide-to-the-react-server-components-demo-2a83
 - https://www.bitnative.com/2021/01/24/react-server-components-in-5-minutes
 - https://chan.dev/posts/react-server-components-announcement-notes
@@ -491,7 +494,7 @@
 - https://richiemccoll.com/visualising-front-end-performance-bottlenecks
 - https://www.builder.io/blog/hydration-sabotages-lazy-loading
 
-#  Testing
+# Testing
 
 - https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest
 - https://www.manning.com/books/testing-javascript-applications
@@ -524,6 +527,7 @@
 - https://www.udemy.com/course/typescript-with-react-jest-testing
 - https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme + https://m.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
 - https://github.com/richiemccoll/book-search-tdd-react
+- [Assert a side effect did not happen](https://www.epicweb.dev/inverse-assertions)
 
 #  Tool
 

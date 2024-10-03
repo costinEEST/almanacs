@@ -127,6 +127,7 @@
 - [Blas Moros](https://blas.com/books/worth-re-reading)
 - [Christian Houmann](https://bagerbach.com/books)
 - [Radek Pietruszewski](https://radex.io/books)
+- [Mohnish Pabrai](https://www.chaiwithpabrai.com/bookshelf.html)
 
 # Shelf 
 
