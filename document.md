@@ -38,6 +38,7 @@
 
 - https://corecursive.com/json-vs-xml-douglas-crockford
 - [Transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs](https://github.com/AykutSarac/jsoncrack.com)
+- https://www.da.vidbuchanan.co.uk/blog/signing-json.html
 
 # .md
 
@@ -77,6 +78,7 @@
 
 - https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vidbuchanan.co.uk/widgets/pngdiff
 - https://www.da.vidbuchanan.co.uk/blog/hello-png.html
+- https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html
 
 # .tex
 

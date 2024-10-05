@@ -33,6 +33,7 @@
 
 #  Boilerplate
 
+- https://www.epicreact.dev/react-19-cheatsheet
 - https://github.com/UnlyEd/next-right-now
 - [Vite, React, Redux, Vanilla Extract](https://github.com/cojoclaudiu/vite-ts-starter)
 - https://dev.to/alexeagleson/how-to-build-a-fullstack-nextjs-application-with-storybook-tailwindcss-2gfa
@@ -368,6 +369,7 @@
 
 #  State management
 
+- https://www.frontendundefined.com/posts/monthly/react-state-management-libraries-history
 - [nanostores](https://youtube.com/shorts/EmSINUHtXkY) + https://docs.astro.build/en/core-concepts/sharing-state
 - https://arkwright.github.io/event-sourcing.html
 - https://www.infoq.com/presentations/react-redux-state-management
@@ -399,6 +401,7 @@
 - [RTK listener instead of redux-saga](https://twitter.com/sebastienlorber/status/1620353385840119810)
 - https://tldraw.substack.com/p/introducing-signia
 - [Demystifying the internal of jotai](https://twitter.com/dai_shi/status/1484835169475653634)
+- https://www.frontendundefined.com/posts/monthly/proxy-state-management-mobx-valtio
 
 #  Preact
 
@@ -476,6 +479,7 @@
 #  Debugging
 
 - [Application Performance](https://m.youtube.com/playlist?list=PLWIcRrPLCdUd0VC6ah9mPKHxzpPjcm86P)
+- https://old.reddit.com/r/reactjs/comments/1f6abzy/performance_optimization_strategies_for
 - https://www.matthewgerstman.com/tech/performance-testing-anonymous-functions
 - https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug
 - https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f

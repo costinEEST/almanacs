@@ -20,6 +20,7 @@
 # Cheat sheet
 
 - [TypeScript style guide](https://ts.dev/style)
+- - https://mkosir.github.io/typescript-style-guide/#appendix---react
 - https://github.com/rmolinamir/typescript-cheatsheet
 - https://github.com/typescript-cheatsheets/react
 - https://github.com/shuhei/knowledge/blob/master/typescript.md#detect-optional-fields

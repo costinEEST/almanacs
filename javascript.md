@@ -88,6 +88,7 @@
 
 # Community
 
+- https://thenewstack.io/inside-ecmascript-javascript-standard-gets-an-extra-stage
 - [Javascript R. Moldova](https://github.com/JSMD/meetups)
 - https://www.facebook.com/groups/cypresstestautomation
 - https://hire.jonasgalvez.com.br/2022/jan/22/the-key-javascript-developers-i-follow
@@ -724,6 +725,7 @@
 
 # Opinion
 
+- [Oracle, it’s time to free JavaScript](https://javascript.tm)
 - [Building better developers by specifying criteria of success](https://github.com/prettydiff/wisdom)
 - https://github.com/justinamiller/SoftwareArchitect
 - https://kevin.burke.dev/kevin/faker-js-problems

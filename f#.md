@@ -6,6 +6,7 @@
 # Cheat sheet 
 
 - [Reference for C# developers learning F#](https://github.com/rspeele/CSharpFSharpPhrasebook)
+- https://github.com/psfinaki/CheckYourCzech
 
 
 # Cinema
