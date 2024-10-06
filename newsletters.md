@@ -437,9 +437,11 @@
 # Geopolitics
 
 - [Peter Zeihan](https://us11.campaign-archive.com/home/?u=de2bc41f8324e6955ef65e0c9&id=5654564be1) + http://zeihan.com/newsletter
+- [Alex Gilbert's Power and Resources](https://us19.campaign-archive.com/home/?id=60dd91678f&u=b2b803b85cf21c01ea7a73017)
 - https://www.spytalk.co/archive
 - [Tomas Pueyo Brochard](https://unchartedterritories.tomaspueyo.com/archive)
 - [Kamil Galeev | historical sociology](https://kamilkazani.substack.com/archive)
+- https://substack.com/@benjaminnorton/posts
 
 # Typescript
 
@@ -708,6 +710,7 @@
 - [Pippa Malmgren](https://drpippa.substack.com/archive)
 - https://colemanhughes.substack.com/archive
 - [Robert Wright: politics, foreign policy, and evolutionary psychology](https://substack.com/@nonzero/posts)
+- https://substack.com/@costinciobanu/posts
 
 # Social sciences
 
