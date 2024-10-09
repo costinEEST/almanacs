@@ -442,6 +442,7 @@
 - [Tomas Pueyo Brochard](https://unchartedterritories.tomaspueyo.com/archive)
 - [Kamil Galeev | historical sociology](https://kamilkazani.substack.com/archive)
 - https://substack.com/@benjaminnorton/posts
+- [The Jamestown Foundation: China, Eurasia, and global terrorism](https://jamestown.substack.com/archive)
 
 # Typescript
 
@@ -606,6 +607,7 @@
 - [IoT Security Foundation](https://us11.campaign-archive.com/home/?u=1c8e267bc33ff2e1060cb572c&id=35004ce63e)
 - [Joseph Thacker (rez0)](https://thacker.beehiiv.com)
 - https://github.com/TalEliyahu/awesome-security-newsletters
+- [Xavier Santolaria](https://infosec-mashup.santolaria.net/archive)
 
 # Tool
 
