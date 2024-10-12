@@ -541,6 +541,7 @@
 - [Georgiana Ilie: Meal planning de care te poți ține](https://www.mealplanning.ro/archive)
 - https://drumanaidoomd.substack.com/archive
 - https://joseandres.substack.com/archive
+- https://substack.com/@adelinadabu/posts
 
 # Health
 
@@ -608,6 +609,7 @@
 - [Joseph Thacker (rez0)](https://thacker.beehiiv.com)
 - https://github.com/TalEliyahu/awesome-security-newsletters
 - [Xavier Santolaria](https://infosec-mashup.santolaria.net/archive)
+- https://substack.com/@cristivlad/posts
 
 # Tool
 
