@@ -168,7 +168,7 @@
 - https://benspring.com/archive (TryHackMe)
 - https://www.henrystanley.com/archive + https://henryaj.substack.com/archive
 - [Niciodată Singur](https://us14.campaign-archive.com/home/?u=cad0073ae6ad1145fd74da462&id=fa795fc996)
-- https://substack.com/@hackingwork/posts
+- https://substack.com/@hackingwork/posts, https://pozitivesti.substack.com/archive
 - [7card](https://us6.campaign-archive.com/home/?u=9e94e95e9b847d93577c8c4de&id=a8dae129d2)
 - [Andreea Roșca: Vast&Curious](https://us14.campaign-archive.com/home/?u=f39856b6f5ec76d98534ec04f&id=b12a0b3a21)
 - [Joshua Waitzkin: The Art of Training](https://us22.campaign-archive.com/home/?u=9ab3b28c281bc6a2f220109ec&id=b6a158cee6)

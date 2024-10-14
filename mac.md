@@ -121,6 +121,7 @@
 - https://radex.io/xcode7-xcode8
 - https://github.com/stars/JJTech0130/lists/apple-api
 - Full control over your window management: https://github.com/kasper/phoenix, https://github.com/azamuddin/phoenix/blob/master/.phoenix.js
+- https://9to5mac.com/2024/10/09/passbook-lets-you-create-an-apple-wallet-pass-from-any-qr-code
 
 # Security
 
