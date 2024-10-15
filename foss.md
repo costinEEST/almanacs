@@ -83,6 +83,7 @@
 - [RFCs in HTML](https://lowentropy.net/posts/line-length)
 - https://choosealicense.com/no-permission
 - https://dev.to/ender_minyard/why-i-no-longer-use-the-mit-license-for-new-projects-348m
+- https://paulmillr.com/posts/simple-description-of-popular-software-licenses
 
 # Mono repository
 
