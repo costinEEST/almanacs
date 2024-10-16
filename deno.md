@@ -39,3 +39,5 @@
   - https://github.com/yusukebe/hono-jsx-dom-with-vite
   - https://github.com/stordahl/stordahldotdev, https://stordahl.dev/writing/exploring-hono
 - [Interact with the Chrome DevTools Protocol](https://jsr.io/@simple-cdp/simple-cdp)
+- [Cross-platform shell tools for Deno and Node.js inspired by zx](https://github.com/dsherret/dax)
+- [Write CI/CD pipelines using TypeScript](https://github.com/cicadahq/cicada)

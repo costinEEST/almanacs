@@ -133,6 +133,7 @@
 - [A simple tax calculator for freelancers working as sole traders (PFA) in Romania](https://github.com/taxepfa/taxepfa.github.io)
 - [Openpanel – An open-source alternative to Mixpanel](https://news.ycombinator.com/item?id=40432213)
 - https://jordaneldredge.com/notes/notion-cms
+- [A github action that provides detailed bundle analysis on PRs](https://github.com/hashicorp/nextjs-bundle-analysis)
 
 # Watch
 

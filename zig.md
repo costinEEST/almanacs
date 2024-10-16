@@ -1,3 +1,7 @@
+# Book 
+
+- https://github.com/pedropark99/zig-book, https://x.com/PedroPark9/status/1814300998954828026
+
 # Development
 
 - https://notes.eatonphil.com/tags/zig.html

@@ -415,6 +415,7 @@
 - https://figmapluginweekly.substack.com/archive
 - [Juan Buis: UX Writing, Content Design](https://supershort.substack.com/archive)
 - [Julius Tarng](https://buttondown.email/computingfordesigners/archive)
+- [Dale de Silva](https://designdebtclub.substack.com/archive)
 
 # Data visualization
 

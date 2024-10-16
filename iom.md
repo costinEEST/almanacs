@@ -228,7 +228,6 @@
 - [Solidity 0.8.X AST parsing and analysis in Rust](https://github.com/camden-smallwood/solidity-rs)
 - https://github.com/thedarkjester/SolidityGasSamples
 - https://github.com/fravoll/solidity-patterns
-- https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 - https://backoffice.eattheblocks.com/the-ultimate-solidity-0-8-cheatsheet
 - [The Ruby Programming Language for Contract / Transaction Scripts on the Blockchain](https://github.com/s6ruby)
 - https://github.com/stars/schniggie/lists/security-crypto

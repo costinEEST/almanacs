@@ -77,3 +77,4 @@
 - [Small, efficient encoding of SVG data URIs for CSS, HTML](https://github.com/tigt/mini-svg-data-uri)
 - [Enlightened library to convert HTML and CSS to SVG](https://github.com/vercel/satori)
 - [Generating SVG for the prime knots (prideout.net)](https://news.ycombinator.com/item?id=38956861)
+- https://github.com/stars/james-camilleri/lists/generative-art

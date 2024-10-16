@@ -26,6 +26,10 @@
 - https://github.com/nika-d/svelte-berlin
 - https://github.com/svelte-brasil
 
+# Course 
+
+- https://github.com/fireship-io/fkit-course
+
 # Cinema
 
 - https://www.slideshare.net/ChristofferNoring/learning-svelte
@@ -59,6 +63,8 @@
 - [ear trainer and tools for playing and programming music and audio](https://github.com/ryanatkn/earbetter)
 - [User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui)
 - [Private first self-hosted no code database & BaaS](https://github.com/undb-io/undb)
+- https://github.com/maiertech/website
+- https://github.com/higsch/uk_house_prices_vs_earnings
 
 # Miscellaneous
 
