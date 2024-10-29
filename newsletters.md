@@ -46,6 +46,7 @@
 # Astronomy
 
 - [Philip C. Plait](https://badastronomy.substack.com/archive)
+- [Darya Kawa Mirza, astrophotographer](https://daryas-newsletter-2dcd8c.beehiiv.com)
 
 # Art
 
@@ -305,6 +306,7 @@
 - [Balaji S. Srinivasan](https://balajis.com/archive)
 - [Chris Dixon](https://cdixon.substack.com/archive)
 - https://blog.nateliason.com/archive
+- [Octavian Stanescu](https://itsnftime.metaventis.io)
 
 # Investing
 
