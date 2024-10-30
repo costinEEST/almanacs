@@ -223,6 +223,10 @@
 - [Jake Parker](https://www.mrjakeparker.com/newsletter)
 - https://ralphammer.substack.com/archive
 
+# Event 
+
+- [UrbanEye Film Festival](https://us8.campaign-archive.com/home/?u=bd394d3cbcf2afc709f23dbcd&id=bd3f1aceb1)
+
 # Java
 
 - [Artur Skowronski](https://vived.substack.com/archive)
