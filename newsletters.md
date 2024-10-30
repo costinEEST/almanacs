@@ -175,6 +175,7 @@
 - [Joshua Waitzkin: The Art of Training](https://us22.campaign-archive.com/home/?u=9ab3b28c281bc6a2f220109ec&id=b6a158cee6)
 - https://substack.com/@guyraz
 - https://abiraja.substack.com/archive
+- Marketing, https://kevanlee.substack.com/archive
 
 # Buddhism
 
