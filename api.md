@@ -98,6 +98,7 @@
 - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 - https://github.com/burningtree/awesome-json
 - https://github.com/nayyyhaa/movies-and-shows-api
+- [Get a Google Sheet as JSON, no authentication required](https://github.com/benborgers/opensheet)
 
 # Music 
 

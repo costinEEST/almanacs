@@ -20,7 +20,7 @@
 # Cheat sheet
 
 - [TypeScript style guide](https://ts.dev/style)
-- - https://mkosir.github.io/typescript-style-guide/#appendix---react
+- https://mkosir.github.io/typescript-style-guide/#appendix---react
 - https://github.com/rmolinamir/typescript-cheatsheet
 - https://github.com/typescript-cheatsheets/react
 - https://github.com/shuhei/knowledge/blob/master/typescript.md#detect-optional-fields
@@ -143,6 +143,7 @@
 - https://github.com/hediet/rxjs-playground
 - https://blog.andrewbran.ch/debugging-the-typescript-codebase
 - https://github.com/tigerabrodi/Zod-from-scratch
+- https://github.com/arackaf/typescript-workshop
 
 # Radio
 
@@ -173,6 +174,7 @@
 - [An incomplete ActivityPub implementation](https://github.com/indutny/mean.engineer)
 - Asset management software: https://github.com/Shelf-nu/shelf.nu, https://news.ycombinator.com/item?id=36666702
 - [Traverse and transform objects by visiting every node on a recursive walk](https://www.npmjs.com/package/neotraverse), https://x.com/puruvjdev/status/1811382227252424915
+- [RFC 6902 - JavaScript Object Notation (JSON) Patch](https://github.com/chbrown/rfc6902)
 
 # Watch
 

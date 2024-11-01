@@ -140,6 +140,7 @@
 - https://github.com/nucliweb/People-You-Should-Follow-on-CodePen
 - https://github.com/AllThingsSmitty/css-protips
 - [Prebuilt Tailwind components](https://github.com/sailboatui/sailboatui)
+- [Lynn Fisher](https://codepen.io/lynnandtonic)
 
 # Design system
 

@@ -52,7 +52,7 @@
 - [Cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.](https://github.com/Kong/insomnia)
 - [A media player designed speficially for all your audio book needs](https://github.com/teken/audiobookplayer)
 - [Modern and feature-rich web browser base](https://github.com/wexond/browser-base)
-
+- [Custom Discord App aiming to give you better performance and improve Linux support](https://github.com/Vencord/Vesktop)
 
 # Boilerplate
 

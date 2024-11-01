@@ -173,6 +173,7 @@
 # Microservice
 
 - https://www.goodreads.com/en/book/show/34372564-microservice-patterns
+- [The title should really be "A grownup's introduction to distributed systems" and it's just that: the author covers the fundamentals of distributed systems, and more importantly, a serious discussion of microservices, where they fit well, and where they don't](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)
 
 # Miscellaneous
 
