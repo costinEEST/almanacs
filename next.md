@@ -34,6 +34,7 @@
 - https://github.com/nmn/next-15-with-stylex-cli
 - https://blog.stackademic.com/next-js-full-stack-web-app-2024-04c92bebd70d, https://github.com/wdevon99/Next-js-starter
 - https://dev.to/vyan/mastering-nextjs-the-ultimate-guide-to-structuring-large-scale-projects-in-2024-h4e 
+- https://github.com/MoonHighway/ai-with-react-and-next-js
 
 # Cheat sheet
 
@@ -45,6 +46,7 @@
 - https://www.propelauth.com/post/cookies-in-next-js
 - https://mikebifulco.com/posts/self-healing-urls-nextjs-seo
 - https://www.builder.io/blog/nextjs-14-layouts-templates
+- https://www.franciscomoretti.com/blog/nextjs-authentication-best-practices
 
 
 # Deploy
@@ -121,6 +123,7 @@
 - https://github.com/mckaywrigley/takeoff-cursor-course
 - https://github.com/chibicode/com
 - https://github.com/nicnocquee/nico.fyi
+- https://github.com/FranciscoMoretti/site
 
 # Testing
 
