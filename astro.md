@@ -9,7 +9,7 @@
 
 # Book 
 
-- https://www.ohansemmanuel.com/books/understanding-astro
+- https://github.com/understanding-astro/understanding-astro-book
 
 # Cheat sheet
 
@@ -40,6 +40,7 @@
 - https://github.com/JoshuaKGoldberg/dot-com
 - [Personal site and blog built with Astro and Svelte](https://github.com/PuruVJ/puruvj.dev), https://x.com/puruvjdev/status/1822990843130618122
 - https://github.com/benborgers/ben.page
+- https://github.com/jsheroes/website
 
 # Opinion
 
@@ -49,6 +50,7 @@
 - https://chan.dev/posts/rewrite-11ty-blog-in-astro
 - https://remotesynthesis.com/blog/full-stack-without-react
 - https://thenewstack.io/how-astro-and-its-server-islands-compare-to-react-frameworks
+- https://jakelazaroff.com/words/whats-a-single-page-app
 
 # Watch
 

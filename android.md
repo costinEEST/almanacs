@@ -22,6 +22,7 @@
 - [Ad free app for watching tube videos on Android TV boxes](https://github.com/yuliskov/SmartTubeNext)
 - [Data usage monitor app for android](https://github.com/itsdrnoob/DataMonitor)
 - https://github.com/Docile-Alligator/Infinity-For-Reddit
+- https://github.com/Mallfurion/hiker-android-app
 
 # Book
 

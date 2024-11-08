@@ -272,6 +272,7 @@
 - https://www.ralfj.de/blog/2021/03/23/safe-systems-programming-in-rust.html
 - [What was your 'aha!' moment when learning Rust?](https://twitter.com/nick_r_cameron/status/1014719625135714305)
 - https://robert.kra.hn/posts/2021-02-03_is-rust-fp
+- [A custom zero-copy ring buffer using shared memory, allowing direct data access between processes with no unnecessary copying](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill), https://news.ycombinator.com/item?id=42067275
 
 # Security
 

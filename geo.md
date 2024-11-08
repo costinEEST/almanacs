@@ -10,6 +10,7 @@
 - [The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower ](https://www.goodreads.com/book/show/20696000-the-hundred-year-marathon)
 - [Technics and Civilization - Lewis Mumford](https://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273)
 - https://oll.libertyfund.org/pages/idea-of-progress-a-bibliographical-essay-by-robert-nisbet
+- https://www.amazon.com/Where-Earth-Atlas-World-Before/dp/1465458646
 
 # Cinema
 

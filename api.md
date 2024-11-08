@@ -35,6 +35,7 @@
 - [A wrapper around YouTube's internal API](https://github.com/LuanRT/YouTube.js)
 - [Google Sheet as JSON](https://github.com/benborgers/opensheet)
 - [How to use RSS to get updates from Twitter hashtags](https://gist.github.com/mlliarm/6ee5e47c8c8e496fa4684669c3520e3f)
+- [Raspberry, Dataplicity, Slack API](https://florin.me/wolfden-gatekeeper)
 
 # GraphQL
 

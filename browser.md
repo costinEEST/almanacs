@@ -116,6 +116,7 @@ javascript: (() =>
 
 - [? vs #](https://github.com/robinmoisson/staticrypt/issues/156)
 - https://www.mandiant.com/resources/blog/url-obfuscation-schema-abuse + https://twitter.com/ankit_anubhav/status/1592109955641126912
+- https://github.com/jakelazaroff/til/blob/main/javascript/load-a-user-created-javascript-file-in-the-browser.md
 
 # new Worker()
 
@@ -137,6 +138,7 @@ javascript: (() =>
 - https://blog.persistent.info/2021/08/worker-loop.html
 - [load modules into web workers, access them asynchronously](https://github.com/bitair-org/concurrent.js)
 - [monitoring tool to implement client-side caching](https://github.com/oslabs-beta/tulo-js)
+- https://thepassle.netlify.app/blog/i-overengineered-my-blog
 
 # Engine
 
@@ -161,6 +163,7 @@ javascript: (() =>
 - https://github.com/eatonphil/one-pass-code-generation-in-v8
 - https://github.com/wdv4758h/awesome-jit
 - https://github.com/mgaudet/SpiderMonkeyBibliography
+- https://bun.sh/blog/how-bun-supports-v8-apis-without-using-v8-part-2
 
 # Exploit
 
