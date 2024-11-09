@@ -64,7 +64,7 @@
 - [Erlang](erlang.md)
 - [F#](f#.md)
 - [Figma](figma.md)
-- [File formats](document.md)
+- [File format](file.md)
 - [Flutter](flutter.md)
 - [Forth programming language](forth.md)
 - [Fortran](fortran.md)

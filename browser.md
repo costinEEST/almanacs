@@ -21,7 +21,6 @@
 - https://engineering.q42.nl/passwordless-authentication
 - [Proposal for an API which would allow grabbing a screenshot.](https://github.com/eladalon1983/mediacapture-screenshot)
 - https://www.vector-logic.com/blog/posts/on-request-animation-frame-and-embedded-iframes
-- https://wolfgangrittner.dev/how-to-use-clipboard-api-in-firefox
 - https://github.com/azu/url-cheatsheet
 - https://www.macarthur.me/posts/navigating-the-event-loop
 - https://richiemccoll.com/javascript-scheduling
@@ -59,6 +58,11 @@ javascript: (() =>
 - https://eriksolsen.com/blog/dynamic-bookmarks-in-google-chrome
 - https://gabrielsroka.github.io/webpages/bookmarklets.htm
 - https://github.com/satisfice/web-testing-bookmarklets
+
+# `Clipboard API`
+
+- https://alexharri.com/blog/clipboard
+- https://wolfgangrittner.dev/how-to-use-clipboard-api-in-firefox
 
 # Document Object Model (DOM)
 

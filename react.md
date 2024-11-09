@@ -143,6 +143,7 @@
 - [A collection of clever yet understated user interactions found on the web](https://github.com/ryanwiemer/subtle-ui)
 - https://github.com/karlhadwen/todoist
 - https://github.com/quran/quran.com-frontend
+- [WebFlow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere](https://github.com/webstudio-is/webstudio)
 
 #  Radio
 

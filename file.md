@@ -79,6 +79,7 @@
 - https://twitter.com/David3141593/status/1471280465692835846 + https://www.da.vidbuchanan.co.uk/widgets/pngdiff
 - https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html
+- https://alexharri.com/snippets/general/png-dimensions
 
 # .tex
 

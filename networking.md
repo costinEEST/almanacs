@@ -275,6 +275,7 @@
 - https://blog.tomayac.com/2023/04/18/getting-my-domain-tomayac-de-back
 - [Tools for managing DNS across multiple providers](https://github.com/octodns/octodns)
 - [detects dangling DNS record in a multi cloud environment](https://github.com/anirudhbiyani/findmytakeover)
+- https://textslashplain.com/2019/11/06/thoughts-on-dns-over-https/
 
 # TCP/UDP
 
@@ -313,6 +314,7 @@
 
 # HTTP headers
 
+- https://evertpot.com/http
 - https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-http-headers--web-linters
 - https://learning.oreilly.com/library/view/http-the-definitive/1565925092
 - https://github.com/bigcompany/know-your-http#know-your-http-headers
