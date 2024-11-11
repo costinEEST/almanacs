@@ -30,6 +30,7 @@
 - [Before you upload your first course on udemy | Alireza Aliabadi](https://m.youtube.com/watch?v=nBpDXFz67pA)
 - [Screenflow](https://twitter.com/nathanstocks/status/1586017083879436288)
 - [The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders](https://wrv.github.io/h26forge.pdf)
+- https://pietrasiak.com/fast-video-rendering-and-encoding-using-web-apis
 
 # Tool
 

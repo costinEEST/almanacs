@@ -72,6 +72,7 @@
 - https://getloaf.io/blog/why-i-chose-electronjs
 - https://www.nearform.com/blog/architecting-electron-applications-for-60fps
 - https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html
+- https://pietrasiak.com/creating-multi-window-electron-apps-using-react-portals
 
 # Security
 
@@ -93,7 +94,7 @@
 # Tool
 
 - [A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl.](https://github.com/mayeaux/videodownloader)
-- [An example Electron app with a backend server all wired up via IPC.](https://github.com/jlongster/electron-with-server-example)
+- [A backend server all wired up via IPC](https://github.com/jlongster/electron-with-server-example)
 - https://github.com/jitsi/jitsi-meet-electron
 - [Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.](https://github.com/agalwood/Motrix)
 - [OpenMTP - Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp) + https://www.inputmag.com/guides/theres-finally-an-alternative-to-googles-horrible-android-file-transfer-app

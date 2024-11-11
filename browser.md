@@ -25,6 +25,7 @@
 - https://www.macarthur.me/posts/navigating-the-event-loop
 - https://richiemccoll.com/javascript-scheduling
 - https://austingil.com/user-location-is-a-lie
+- [Flexible web API for encoding and decoding audio and video](https://github.com/w3c/webcodecs)
 
 # Bookmarklet
 

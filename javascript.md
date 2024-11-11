@@ -384,8 +384,9 @@
 
 - https://github.com/VSADX/true-binary-for-float64
 
-# new SharedArrayBuffer()
+# `new SharedArrayBuffer()`
 
+- https://webkit.org/blog/7846/concurrent-javascript-it-can-work
 - https://blogtitle.github.io/using-javascript-sharedarraybuffers-and-atomics
 - [Transferring data across the JS/Wasm boundary typically involves copying memory](https://twitter.com/paulgb/status/1700148548887581073)
 
