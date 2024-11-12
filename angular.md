@@ -7,6 +7,7 @@
 # Development
 
 - https://blog.isquaredsoftware.com/2021/12/codebase-conversion-mean-react-next-ts + https://twitter.com/acemarke/status/1475522887465549836
+- https://angular.love/the-latest-in-angular-change-detection-zoneless-signals
 
 # Inspire 
 

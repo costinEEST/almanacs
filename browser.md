@@ -633,7 +633,7 @@ javascript: (() =>
 - https://www.youtube.com/watch?v=SWocv4BhCNg + https://fidoalliance.org/passkeys
 - https://nelsonslog.wordpress.com/2024/03/22/passkeys-still-awkward-in-mar-2024-android-chrome-windows-1password + https://nelsonslog.wordpress.com/2024/03/23/passkeys-try-two
 
-# WebGL
+# `WebGL`
 
 - https://github.com/davidwparker/programmingtil-webgl + https://m.youtube.com/playlist?list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl
 - https://tchayen.com/brief-explanation-of-webgl
@@ -660,6 +660,7 @@ javascript: (() =>
 - https://github.com/erich666/RealTimeRendering
 - https://github.com/jsulpis/realtime-planet-shader
 - https://www.charlespetzold.com/blog/2024/09/Rudimentary-3D-on-the-2D-HTML-Canvas.html
+- - https://github.com/terkelg/awesome-creative-coding
 
 # WebGPU
 
@@ -677,10 +678,11 @@ javascript: (() =>
 - https://github.com/obensource/web-midi-api-docs
 - https://obensource.com/blogs/high-fidelity-event-sampling-and-playback-with-vanilla-javascript
 
-# WebUSB
+# `WebUSB`
 
 - https://github.com/webusb/awesome
 - https://charliegerard.dev/blog/aircraft-radar-system-rtl-sdr-web-usb
+- https://charliegerard.dev/blog/replay-attacks-javascript-hackrf
 
 # Headless
 

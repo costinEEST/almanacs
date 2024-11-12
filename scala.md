@@ -4,6 +4,9 @@
 - https://github.com/geraldb/talks/blob/master/java_end_of_history.md
 - https://alexn.org/blog/2013/05/13/getting-started-with-scala
 
+# Cheat sheet
+
+- https://github.com/superruzafa/visual-scala-reference
 
 # Demo
 

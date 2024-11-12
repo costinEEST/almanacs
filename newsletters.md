@@ -336,7 +336,7 @@
 - [Prashant Bagga](https://us4.campaign-archive.com/home/?u=f80b1bc87f246a92fee9bfceb&id=8573422726)
 - [Nick Kolenda](https://us9.campaign-archive.com/home/?u=3a435025ee2bca712b3a18a89&id=90575750a4)
 
-# Open source (FOSS)
+# Free and open-source software
 
 - [Allison Pike](https://onceamaintainer.substack.com/archive)
 

@@ -193,6 +193,7 @@
 - https://ondrejsevcik.com/blog/how-to-detect-ad-block
 - https://alexn.org/blog/2024/08/12/on-advertising-and-tracking
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, https://gist.github.com/costinEEST/2b227f664e63495423dba301d3a68ef9
+- https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted
 
 # Social media
 

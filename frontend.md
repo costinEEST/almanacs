@@ -103,7 +103,6 @@
 - [Fun with Ascii: Putting some console art on my site](https://benmccormick.org/ascii-kusty)
 - [What are the best books or articles you've read on generative/computational design?](https://twitter.com/mrmrs_/status/1185923810069024768)
 - https://github.com/GeorgeGally/creative_coding
-- https://github.com/terkelg/awesome-creative-coding
 - https://github.com/nitin42/generative-art-tools
 - https://github.com/yuanchuan/talk/tree/gh-pages/generative-art-with-css
 - [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
