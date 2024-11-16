@@ -725,6 +725,7 @@
 - https://colemanhughes.substack.com/archive
 - [Robert Wright: politics, foreign policy, and evolutionary psychology](https://substack.com/@nonzero/posts)
 - https://substack.com/@costinciobanu/posts
+- [Konstantin Vadimovich Kisin | Politically Non-Binary Opinions on Culture, Politics and Comedy](https://www.konstantinkisin.com/archive)
 
 # Social sciences
 
