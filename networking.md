@@ -93,6 +93,7 @@
 - https://blog.kanbach.org/post/how-to-permanently-change-a-mac-address-using-ethtool
 - [VPN from Windows to Linux: WireGuard working example](https://yurichev.org/wireguard)
 - https://jvns.ca/tcpdump-zine.pdf
+- https://chancej715.github.io/2023/03/22/decode-network-packet-hex-dump.html 
 
 # The Open Systems Interconnection model (OSI)
 

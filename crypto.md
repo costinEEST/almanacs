@@ -222,6 +222,8 @@
 - [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 - [Sha256 is broken](https://twitter.com/alokmenghrajani/status/1544057972120326144)
 - https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey
+- [The Moral Character of Cryptographic Work | Phillip Rogaway](https://cs.pomona.edu/~jcoa2018/f20/cs190/papers/moral.pdf)
+- [Tutorials on the Foundations of Cryptography edited by Yehuda Lindell](https://www.wisdom.weizmann.ac.il/~oded/MC/219.html)
 
 # Radio
 

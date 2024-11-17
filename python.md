@@ -190,6 +190,7 @@
 
 # Debugging
 
+- https://blog.josejg.com/debugging-pretty
 - https://dev-discuss.pytorch.org/t/debugging-story-the-case-of-the-flaky-dynamo-export-tests/1124
 
 # Development
@@ -350,6 +351,7 @@
 - https://github.com/rbaron/advent-of-code-2020
 - https://github.com/rbaron/advent-of-code-2021
 - https://github.com/danvk/advent2019 + https://danvdk.medium.com/python-tips-tricks-for-the-advent-of-code-2019-89ec23a595dd
+- https://github.com/JJGO/advent-of-code
 
 # Tool
 
