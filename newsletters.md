@@ -106,6 +106,7 @@
 - [Daniel Năstase](https://www.js-craft.io)
 - https://mckaywrigley.substack.com/archive
 - [Ian Nuttall](https://substack.com/@cursorcasts/posts)
+- https://newsletter.victordibia.com/archive
 
 # Biology
 
@@ -282,6 +283,7 @@
 - [Chris Combs](https://us16.campaign-archive.com/home/?u=db333b11de2809a2e919041d1&id=5850b17aff)
 - [Matt Liberty](https://us19.campaign-archive.com/home/?u=873375f7fba5250aba20e71e6&id=2ee675b0bd)
 - [Embedded.fm](https://us12.campaign-archive.com/home/?id=d82c81a27b&u=bb8caeb750ad079df2b961c41)
+- [Charlie Gerard](https://buttondown.com/devdevcharlie/archive)
 
 # Internet of money
 
