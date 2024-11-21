@@ -69,6 +69,7 @@
 - https://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index
 - [Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)](https://github.com/j00ru/windows-syscalls)
 - [The simplest way to expose apps running on WSL to local network devices](https://github.com/icflorescu/expose-wsl)
+- [ProjFS](https://gtworek.com/blog/projected-file-system)
 
 # Licence
 

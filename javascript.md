@@ -506,6 +506,7 @@
 - https://chrisrng.svbtle.com/bitwise-operators-in-javascript
 - https://dev.to/oliverjumpertz/xor-bitwise-xor-and-using-it-to-solve-an-algorithm-challenge-14oa
 - https://abdulapopoola.com/2018/01/22/exclusive-or-xor-explained
+- https://www.trevorlasn.com/blog/bitwise-shifts-in-javascript
 
 # optional chaining operator
 
