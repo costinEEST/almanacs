@@ -220,8 +220,9 @@
 - https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state
 - https://thoughtspile.github.io/2021/10/27/better-react-context
 
-#  Component
+# Component
 
+- https://macarthur.me/posts/safer-dangerouslysetinnerhtml
 - https://elisehe.in/2023/03/27/minimal-html-in-design-systems.html
 - [Headless UI components](https://twitter.com/rauchg/status/1199157227677868032)
 - [Completely unstyled, fully accessible UI components](https://headlessui.dev)

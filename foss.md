@@ -50,6 +50,7 @@
 - [by ex-googlers, for ex-googlers - a lookup table of similar tech & services](https://github.com/jhuangtw/xg2xg)
 - [Daniel Roesler](https://daylightpirates.org)
 - https://github.com/stars/antonreshetov/lists/oss-alternatives
+- https://github.com/elie222/learn-from-open-source
 
 # Tool
 
