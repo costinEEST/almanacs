@@ -115,6 +115,7 @@
 - [A framework for detecting, highlighting and correcting grammatical errors on natural language text](https://github.com/PrithivirajDamodaran/Gramformer)
 - [A starter built with gatsby to help you create books with ease](https://github.com/SaraVieira/starter-book)
 - https://nelsonslog.wordpress.com/2023/07/15/linkblog-architecture
+- https://github.com/stars/lirantal/lists/writing-book-publishing
 
 # Miscellaneous
 
