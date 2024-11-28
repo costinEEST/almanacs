@@ -35,6 +35,7 @@
 - https://blog.stackademic.com/next-js-full-stack-web-app-2024-04c92bebd70d, https://github.com/wdevon99/Next-js-starter
 - https://dev.to/vyan/mastering-nextjs-the-ultimate-guide-to-structuring-large-scale-projects-in-2024-h4e 
 - https://github.com/MoonHighway/ai-with-react-and-next-js
+- https://dev.to/robertobutti/how-to-build-a-dynamic-website-with-nextjs-15-app-router-react-19-storyblok-and-bun--2972 
 
 # Cheat sheet
 

@@ -5,3 +5,7 @@
 # Opinion
 
 - https://htmx.org/essays/htmx-sucks
+
+# Netflix 
+
+- https://htmx.org/essays/a-real-world-nextjs-to-htmx-port
