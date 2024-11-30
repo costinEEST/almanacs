@@ -100,6 +100,7 @@
 - https://ahmadnassri.com/blog/modern-application-model
 - https://github.com/bkimminich/it-security-lecture/blob/master/slides/01-04-network_security.md#osi-network-layer-model
 - https://github.com/jivoi/offsec_pdfs/blob/master/OSI-model.jpg
+- https://securityzines.substack.com/p/there-is-osi-and-tcpip
 
 # Routing
 

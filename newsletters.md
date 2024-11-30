@@ -624,6 +624,7 @@
 - [Xavier Santolaria](https://infosec-mashup.santolaria.net/archive)
 - https://substack.com/@cristivlad/posts
 - [Dan Barahona](https://apisecurity.io/full-archive)
+- [Rohit Sehgal](https://substack.com/@seczines/posts)
 
 # Tool
 
