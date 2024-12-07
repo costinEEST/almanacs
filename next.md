@@ -125,6 +125,7 @@
 - https://github.com/chibicode/com
 - https://github.com/nicnocquee/nico.fyi
 - https://github.com/FranciscoMoretti/site
+- [Book and manage 1-1 appointments with Full google calendar API Integration](https://github.com/HazWahb8080/1-1-appointment-booking)
 
 # Testing
 
