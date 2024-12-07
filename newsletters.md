@@ -448,16 +448,6 @@
 - [Brent Ozar](https://github.com/BrentOzar/sqlblogs)
 - [Martin Kleppmann, distributed systems](https://martinkl.substack.com/archive)
 
-# Geopolitics
-
-- [Peter Zeihan](https://us11.campaign-archive.com/home/?u=de2bc41f8324e6955ef65e0c9&id=5654564be1) + http://zeihan.com/newsletter
-- [Alex Gilbert's Power and Resources](https://us19.campaign-archive.com/home/?id=60dd91678f&u=b2b803b85cf21c01ea7a73017)
-- https://www.spytalk.co/archive
-- [Tomas Pueyo Brochard](https://unchartedterritories.tomaspueyo.com/archive)
-- [Kamil Galeev | historical sociology](https://kamilkazani.substack.com/archive)
-- https://substack.com/@benjaminnorton/posts
-- [The Jamestown Foundation: China, Eurasia, and global terrorism](https://jamestown.substack.com/archive)
-
 # Typescript
 
 - [TypeScript Weekly | Marius Schulz](https://us14.campaign-archive.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42)
@@ -715,6 +705,13 @@
 
 # Politics
 
+- [Peter Zeihan](https://us11.campaign-archive.com/home/?u=de2bc41f8324e6955ef65e0c9&id=5654564be1) + http://zeihan.com/newsletter
+- [Alex Gilbert's Power and Resources](https://us19.campaign-archive.com/home/?id=60dd91678f&u=b2b803b85cf21c01ea7a73017)
+- https://www.spytalk.co/archive
+- [Tomas Pueyo Brochard](https://unchartedterritories.tomaspueyo.com/archive)
+- [Kamil Galeev | historical sociology](https://kamilkazani.substack.com/archive)
+- https://substack.com/@benjaminnorton/posts
+- [The Jamestown Foundation: China, Eurasia, and global terrorism](https://jamestown.substack.com/archive)
 - [A newsletter by Bill Bishop, an expert on Chinese politics](https://sinocism.com/archive) + https://twitter.com/niubi
 - [Romanian Dispatch](https://us17.campaign-archive.com/home/?u=afe17686523fcfd2ed8ff4853&id=4a2e90f17a)
 - [Ediție săptămânală despre dezinformare](https://newsletter.misreport.ro)
@@ -731,6 +728,7 @@
 - [Robert Wright: politics, foreign policy, and evolutionary psychology](https://substack.com/@nonzero/posts)
 - https://substack.com/@costinciobanu/posts
 - [Konstantin Vadimovich Kisin | Politically Non-Binary Opinions on Culture, Politics and Comedy](https://www.konstantinkisin.com/archive)
+- [Luiza Vasiliu & Victor Ilie](https://substack.com/@drepturisistrambe/posts)
 
 # Social sciences
 
