@@ -107,6 +107,7 @@
 - https://mckaywrigley.substack.com/archive
 - [Ian Nuttall](https://substack.com/@cursorcasts/posts)
 - https://newsletter.victordibia.com/archive
+- [Joshua Tiernan: AI market reports](https://substack.com/@futurewebvc/posts)
 
 # Biology
 
@@ -194,6 +195,10 @@
 - [Battery Modeling Webinar](https://us18.campaign-archive.com/home/?u=e3dd1920324b4db3a51b620ca&id=4e19a481ac)
 - https://intercalationstation.substack.com/archive
 - [Daniel Kent](https://techtricity.substack.com/archive)
+
+# Cinema 
+
+- [Platformă de filme și discuții feministe](https://us10.campaign-archive.com/home/?u=9d30172c90fa51ff006999c11&id=b77074aae1)
 
 # Communication
 
@@ -729,6 +734,7 @@
 - https://substack.com/@costinciobanu/posts
 - [Konstantin Vadimovich Kisin | Politically Non-Binary Opinions on Culture, Politics and Comedy](https://www.konstantinkisin.com/archive)
 - [Luiza Vasiliu & Victor Ilie](https://substack.com/@drepturisistrambe/posts)
+- [Jason Steinhauer: history, tech, media & politics](https://jasonsteinhauer.substack.com/archive)
 
 # Social sciences
 

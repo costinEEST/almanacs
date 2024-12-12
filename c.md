@@ -179,7 +179,6 @@
 - [A suite of tools for interactive program analysis with a focus on hunting for bugs in C and C++ code using Code Property Graphs](https://github.com/GaloisInc/MATE)
 - [A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
 - https://www.andreinc.net/2022/04/10/a-blog-that-is-a-single-executable-binary
-- [A 1Password-compatible password management tool for Linux. ](https://github.com/icculus/1pass)
 
 # Testing
 
@@ -207,4 +206,3 @@
 - [Embedded C Programming Style | Mutex Embedded](https://m.youtube.com/playlist?list=PLfExI9i0v1smd_mUgoib94t8KKap0X-zh) + https://www.mutex-embedded.com/courses/s2-c1
 - [Intro to C on Windows | Molly Rocket](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp)
 - [Reading code | ants_are_everywhere](https://www.youtube.com/playlist?list=PLekd-G4V99UmwUIEXn6-GYpDq4thTwVv7)
-- https://www.youtube.com/playlist?list=PL6m6sxLnXksbqdsAcpTh4znV9j70WkmqG + [A tutorial on writing a simple media player with SDL](https://github.com/icculus/sdlamp)

@@ -196,6 +196,7 @@
 - https://github.com/v3ga/computer_history
 - [Illustrating BASIC, a simple programming language](https://archive.org/details/illustratingbasi0000alco)
 - https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators
+- [Mary Shaw, David Garlan - Software Architecture (1996)](https://www.amazon.com/Software-Architecture-Perspectives-Emerging-Discipline/dp/0131829572) rec by Grady Booch
 
 # Miscellaneous
 
