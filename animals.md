@@ -62,6 +62,7 @@
 - https://www.spiegel.de/international/the-food-of-the-future-grasshoppers-are-more-valuable-than-caviar-a-d34a9baf-4c91-45ac-8998-2aba6fa11cae
 - https://mindcraftstories.ro/stiinta/zumzete-din-stiinta-urmarirea-albinelor-cu-ajutorul-florilor-robotice-si-al-senzorilor-din-stupi
 - [Telling the Bees](https://news.ycombinator.com/item?id=36699327)
+- https://www.amazon.com/Good-Bug-Celebration-Insects-Protect/dp/1789296692
 
 # Mammalian
 
