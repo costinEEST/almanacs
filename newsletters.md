@@ -108,6 +108,7 @@
 - [Ian Nuttall](https://substack.com/@cursorcasts/posts)
 - https://newsletter.victordibia.com/archive
 - [Joshua Tiernan: AI market reports](https://substack.com/@futurewebvc/posts)
+- [Carlos E. Perez: Artificial Intuition, Fluency & Empathy, DL Playbook, Patterns for Generative AI, Patterns for Agentic AI](https://intuitionmachine.gumroad.com/?section=mFELOWclpti3Na6mSyDQyA%3D%3D)
 
 # Biology
 
