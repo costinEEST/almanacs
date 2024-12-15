@@ -127,6 +127,8 @@
 - https://github.com/FranciscoMoretti/site
 - [Book and manage 1-1 appointments with Full google calendar API Integration](https://github.com/HazWahb8080/1-1-appointment-booking)
 - https://github.com/gkamradt/gregkamradtdotcom
+- [Database diagrams editor that allows you to visualize and design your DB with a single query](https://github.com/chartdb/chartdb)
+- [A modern, responsive alternative to the default RabbitMQ Management UI, built with Next.js and shadcn/ui. Features real-time monitoring, queue insights, and an intuitive interface for better RabbitMQ management experience](https://github.com/Ralve-org/RabbitScout)
 
 # Testing
 

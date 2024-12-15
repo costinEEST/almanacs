@@ -29,6 +29,10 @@
 - [Citadel – a Calibre-compatible eBook management app (github.com/every-day-things)](https://news.ycombinator.com/item?id=38988019)
 - [Using your Kindle as an e-ink monitor](https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c)
 
+# `.gif`
+
+- [Create a gif of chronological screenshots from any website on Wayback Machine](https://charlieharrington.com/your-favorite-homepage-as-a-gif) 
+
 # .jpg
 
 - https://github.com/corkami/pics/blob/master/binary/JPG.pdf

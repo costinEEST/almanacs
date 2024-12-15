@@ -47,6 +47,8 @@
 
 - [Philip C. Plait](https://badastronomy.substack.com/archive)
 - [Darya Kawa Mirza, astrophotographer](https://daryas-newsletter-2dcd8c.beehiiv.com)
+- [Adrian Șonka](https://sonkab.com)
+- [Claudiu Tănăselia](https://buletin.parsec.ro/archive)
 
 # Art
 
@@ -190,6 +192,7 @@
 # C 
 
 - [Oz Nova](https://newsletter.ozwrites.com/archive)
+- [Charlie Harrington](https://whatrocks.substack.com/archive)
 
 # Chemistry
 
@@ -291,6 +294,7 @@
 - [Matt Liberty](https://us19.campaign-archive.com/home/?u=873375f7fba5250aba20e71e6&id=2ee675b0bd)
 - [Embedded.fm](https://us12.campaign-archive.com/home/?id=d82c81a27b&u=bb8caeb750ad079df2b961c41)
 - [Charlie Gerard](https://buttondown.com/devdevcharlie/archive)
+- [Mridul Sengupta: VLSI](https://kunal-ghosh-company.optin.com/newsletter/awlist3810424)
 
 # Internet of money
 
@@ -378,6 +382,7 @@
 - [Shruti Balasa](https://shrutibalasa.substack.com/archive)
 - [Web Conferences Amsterdam: CSS Day](https://us2.campaign-archive.com/home/?u=07b60d9574a9b4572e4b7361d&id=449eb9997f)
 - [Zoran Jambor](https://css-weekly.com/archives)
+- [Salma Alam-Naylor](https://buttondown.com/weirdwidewebhole/archive)
 
 # Games
 
