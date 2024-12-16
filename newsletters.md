@@ -27,6 +27,8 @@
 - [Alexa Heinrich](https://alexaheinrich.substack.com/archive)
 - [Asociația Metodelor Alternative de Integrare Socială](https://us7.campaign-archive.com/home/?u=0d9eea60dfb7ada276fea7473&id=cb73e5357c)
 - [Heydon Pickering](https://buttondown.email/heydon/archive)
+- [David A. Kennedy](https://a11yweekly.com/issues)
+- [Robin Kanatzar](https://accessible-mobile-apps-weekly.ghost.io)
 
 # Archeology
 

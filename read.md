@@ -133,3 +133,4 @@
 # Shelf 
 
 - [Andrico Karoulla](https://andri.co/bookshelf)
+- https://davidakennedy.com/reading
