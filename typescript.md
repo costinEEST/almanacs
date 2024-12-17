@@ -123,7 +123,8 @@
 - https://github.com/mdevils/typescript-exercises
 - https://github.com/type-challenges/type-challenges
 - https://github.com/stevenmusumeche/advent-of-code-2019
-- [📚 Functions and algorithms implemented purely with TypeScript's type system ](https://github.com/ronami/meta-typing)
+- https://github.com/varbrad/aoc24
+- [Functions and algorithms](https://github.com/ronami/meta-typing)
 - https://ts-engine.dev
 - https://startup-cto.net/10-bad-typescript-habits-to-break-this-year
 - https://github.com/dsherret/ts-ast-viewer

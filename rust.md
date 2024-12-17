@@ -177,6 +177,7 @@
 - https://github.com/KodrAus/rust-web-app
 - https://github.com/sunface/rust-by-practice
 - https://github.com/kiyov09/advent_of_code_2022
+- https://github.com/EmilOhlsson/advent-of-code
 
 # Static site
 
