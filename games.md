@@ -53,6 +53,7 @@
 - [JavaScript/WebGL Mario Kart](https://github.com/Lunakepio/Mario-Kart-3.js)
 - [Minecraft Classic clone using HTML 5 technologies, most notably WebGL (glmatrix) and WebSockets (socket.io)](https://github.com/Overv/WebCraft)
 - https://www.val.town/v/maxm/staticChess
+- https://github.com/lmammino/awesome-learn-by-playing
 
 # Mobile based
 
