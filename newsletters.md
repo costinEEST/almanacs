@@ -393,8 +393,14 @@
 
 # Journalism
 
+- [Codruța Simina & Ovidiu Mihalcea: știri despre știrile false](https://misreport.substack.com/archive)
 - [Scott Carney](https://sgcarney.substack.com/archive)
 - [PressHub](https://us4.campaign-archive.com/home/?u=50b20f622d93fed5402d4468d&id=789e1e94ba)
+- [Vlad Dumitrescu](https://onlinebrew.substack.com/archive)
+- [Radu Ioan Stochița: politică industrială, noutăți din lumea sindicatelor și analize ale protestelor din jurul lumii](https://substack.com/@portavocea/posts)
+- [Cristian Lupșa](https://draftfour.substack.com/archive)
+- [Anca Maria Iosif: natură și natura umană](https://remediu.substack.com/archive)
+
 
 # Tips
 
@@ -533,7 +539,7 @@
 # Ecology
 
 - [Carbon Removal Updates](https://tito.co/archive) + https://coda.io/@tito/carbon-removal-101
-- [Anca Maria Iosif](https://remediu.substack.com/archive)
+- https://liniaverde.substack.com/archive
 
 # Energy
 
@@ -588,6 +594,10 @@
 
 - [Nelson Minar](https://nelsonslog.wordpress.com/feed)
 - https://ubuntusecuritypodcast.org/episode/index.xml
+
+# Literature
+
+- [Bogdan Popa: reflections on film and politics; film studies, psychoanalysis and Marxism](https://iamanintellectual.substack.com/archive)
 
 # NodeJS
 
@@ -727,11 +737,9 @@
 - [The Jamestown Foundation: China, Eurasia, and global terrorism](https://jamestown.substack.com/archive)
 - [A newsletter by Bill Bishop, an expert on Chinese politics](https://sinocism.com/archive) + https://twitter.com/niubi
 - [Romanian Dispatch](https://us17.campaign-archive.com/home/?u=afe17686523fcfd2ed8ff4853&id=4a2e90f17a)
-- [Ediție săptămânală despre dezinformare](https://newsletter.misreport.ro)
 - [China's tech scene, economy and politics](https://www.chinatalk.media/archive)
 - https://cellphonetaskforce.org/newsletters
 - [Lillian Li](https://lillianli.substack.com/archive)
-- [Codruța Simina & Ovidiu Mihalcea: știri despre știrile false](https://misreport.substack.com/archive)
 - [Starea nației | Dragoș Pătraru](https://us19.campaign-archive.com/home/?u=63a8eb99e7303ae445b623639&id=deb876637c)
 - [Comunitatea liberală](https://us21.campaign-archive.com/home/?u=2ea24471aa080dc5e46fc6a85&id=d784008e7e)
 - [David Smith: A look at the top news in Moldovan political and economic sectors each week](https://moldovamatters.substack.com)
