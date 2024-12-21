@@ -24,6 +24,7 @@
 - https://m.youtube.com/playlist?list=PLpZBns8dFbgyNxJyVftYp_lRaEsHlGrSl
 - https://m.youtube.com/c/LetsBuildThatApp/playlists
 - https://m.youtube.com/c/fce365official/playlists
+- https://lukasarnold.de/posts/37c3-talk
 
 # Community
 
@@ -88,3 +89,4 @@
 - [A collection of POCs/writeups for iOS vulnerabilities](https://github.com/b1n4r1b01/n-days)
 - https://github.com/wangtielei/Slides
 - https://securitycafe.ro/2023/06/12/mobile-pentesting-101-how-to-set-up-your-ios-environment
+- https://github.com/antoniozekic/papers_and_slides
