@@ -261,6 +261,7 @@
 - [Juntao Qiu: React clean code and refactoring](https://juntao.substack.com/archive)
 - [Darius Cosden](https://importreact.beehiiv.com)
 - [Dani Sandoval](https://svelte.substack.com/archive)
+- [Peter Cooper](https://nodeweekly.com/issues)
 
 # Judaism
 

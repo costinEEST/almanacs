@@ -132,6 +132,7 @@
 - [compare Internet-Drafts and RFCs](https://author-tools.ietf.org/iddiff)
 - [Gatsby-based project that provides a comprehensive database and resources related to various MIME types](https://github.com/patrickmccallum/mimetype-io)
 - https://en.m.wikipedia.org/wiki/Category:Orthodox_file_managers
+- [Technical book template to publish PDF and ePUB books](https://github.com/strzibny/asciidoc-book-template)
 
 # Security
 

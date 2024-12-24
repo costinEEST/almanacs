@@ -95,7 +95,7 @@
 
 # JSON
 
-- https://github.com/jdorfman/awesome-json-datasets
+- [A curated list of awesome JSON datasets that don't require authentication](https://github.com/jdorfman/awesome-json-datasets)
 - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 - https://github.com/burningtree/awesome-json
 - https://github.com/nayyyhaa/movies-and-shows-api
@@ -174,6 +174,7 @@ curl v2.wttr.in/Bucharest
 
 # Miscellaneous
 
+- https://github.com/public-api-lists/public-api-lists
 - https://github.com/yosriady/api-development-tools
 - https://github.com/apisyouwonthate/openapi.tools
 - [What is the single best book any of y'all have ever read about API design?](https://twitter.com/ShortJared/status/1377331662275534848)

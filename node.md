@@ -143,6 +143,8 @@
 
 # Boilerplate
 
+- [Simple HTTP Rest example using Express](https://github.com/nodeshift-starters/nodejs-rest-http)
+- https://github.com/nodeshift/nodejs-reference-architecture
 - https://github.com/lokalise/node-service-template
 - https://github.com/gmarokov/node-fastify-mongo-api
 - https://github.com/santiq/bulletproof-nodejs
@@ -173,7 +175,6 @@
 - [How you build full-stack, typed, NPM packages, the right way](https://github.com/VulcanJS/npm-the-right-way)
 - [a project to create your own personal podcast feed](https://github.com/inian/personal-casts)
 - https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction
-- [Simple HTTP Rest example using express](https://github.com/nodeshift-starters/nodejs-rest-http)
 - [Single Page App boilerplate for the NERDS stack - Node, Express, React/Redux, Databases with SQL (PostgreSQL)](https://github.com/dye784/NERDS-starterpack)
 - https://github.com/benedmunds/Node-Express-MVR-Example
 - https://github.com/sujeet-agrahari/node-express-clean-architecture
@@ -299,6 +300,7 @@
 - https://joyeecheung.github.io/blog/archives
 - https://jakebailey.dev/posts/pnpm-dt-2
 - [Practical Guide To Not Blocking The Event Loop](https://www.bbss.dev/posts/eventloop): A look at the core principles of synchronous and asynchronous work in a single-threaded environment, stressing the importance of non-blocking code for efficient event loop utilization.
+- https://nodesource.com/blog/State-of-Nodejs-Performance-2024
 
 # Deploy
 
@@ -683,7 +685,7 @@
 
 # Design patterns
 
-- https://github.com/nodeshift/nodejs-reference-architecture
+
 - [Hacker news-inspired forum app built with TypeScript & DDD from solidbook.io.](https://github.com/stemmlerjs/ddd-forum)
 
 # Security
