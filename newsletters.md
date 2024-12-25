@@ -639,6 +639,7 @@
 - https://substack.com/@cristivlad/posts
 - [Dan Barahona](https://apisecurity.io/full-archive)
 - [Rohit Sehgal](https://substack.com/@seczines/posts)
+- [Daniel Kelley](https://cybersecurityandgrowth.substack.com/archive)
 
 # Tool
 
