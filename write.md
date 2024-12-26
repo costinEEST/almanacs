@@ -18,6 +18,7 @@
 - https://lists.eatonphil.com/book-recommendations.html
 - https://www.goodreads.com/en/book/show/28448362-writing-without-bullshit
 - https://www.manning.com/books/how-computers-make-books
+- https://www.usefulbooks.com/resources/best-books-about-writing-nonfiction
 
 # Cheat sheet
 

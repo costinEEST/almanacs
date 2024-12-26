@@ -96,6 +96,7 @@
 - https://github.com/ntBre/yt-configs + https://www.youtube.com/live/jc_EsThqIyg + https://www.youtube.com/playlist?list=PL3nY3J1rj8KknDVFXAYRupAe6GtQnA_tC
 - [Converter from LaTeX to ebook formats (epub, mobi) using tex4ht and texlua scripts](https://github.com/michal-h21/tex4ebook)
 - https://github.com/CU-ITSS/Intro-to-LaTeX
+- http://www.ub-filosofie.ro/~solcan/wt/gwltx.pdf
 
 # .txt
 
