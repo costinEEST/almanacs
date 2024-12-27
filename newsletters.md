@@ -641,6 +641,10 @@
 - [Rohit Sehgal](https://substack.com/@seczines/posts)
 - [Daniel Kelley](https://cybersecurityandgrowth.substack.com/archive)
 
+# SEO 
+
+- [Mark Williams-Cook](https://coreupdates.com/profile)
+
 # Tool
 
 - https://vimtricks.substack.com/archive
