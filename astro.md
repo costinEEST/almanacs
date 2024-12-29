@@ -6,6 +6,7 @@
 - [Template for startups, marketing websites & landing pages built with Astro, TailwindCSS & Alpine.js](https://github.com/surjithctly/astroship)
 - https://github.com/delucis/astro-netlify-cms
 - https://github.com/markteekman/accessible-astro-starter
+- https://github.com/TimWitzdam/astro-minimal-portfolio-template
 
 # Book 
 

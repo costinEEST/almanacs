@@ -11,6 +11,7 @@
 - [Technics and Civilization - Lewis Mumford](https://www.amazon.com/Technics-Civilization-Lewis-Mumford/dp/0226550273)
 - https://oll.libertyfund.org/pages/idea-of-progress-a-bibliographical-essay-by-robert-nisbet
 - https://www.amazon.com/Where-Earth-Atlas-World-Before/dp/1465458646
+- [Thesis: Tracking station coordinates and their temporal evolution as determined from laser ranging to the Lageos satellite | Michael M. Watkins](https://www.proquest.com/docview/303865022)
 
 # Cinema
 

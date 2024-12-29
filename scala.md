@@ -23,6 +23,7 @@
 # Tool 
 
 - https://alexn.org/blog/2024/01/10/update-nextdns-with-a-scala-cli-script
+- [Polyglot notebook environment. Currently, it supports Scala and Python (with or without Spark), SQL, and Vega](https://github.com/polynote/polynote)
 
 # Netflix
 

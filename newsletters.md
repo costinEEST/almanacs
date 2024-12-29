@@ -401,6 +401,7 @@
 - [Radu Ioan Stochița: politică industrială, noutăți din lumea sindicatelor și analize ale protestelor din jurul lumii](https://substack.com/@portavocea/posts)
 - [Cristian Lupșa](https://draftfour.substack.com/archive)
 - [Anca Maria Iosif: natură și natura umană](https://remediu.substack.com/archive)
+- [David McRaney: How Minds Change; You Are Not So Smart; You Are Now Less Dumb](https://davidmcraney.substack.com/archive)
 
 
 # Tips

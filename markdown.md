@@ -39,3 +39,4 @@
 - https://github.com/gergelykalman/confluence-markdown-exporter
 - [A file based wiki](https://github.com/Linbreux/wikmd)
 - https://github.com/gautamdhameja/medium-2-md
+- [Python tool for converting files and office documents](https://github.com/microsoft/markitdown), https://msftmd.replit.app, https://x.com/mattppal/status/1871918829699305709
