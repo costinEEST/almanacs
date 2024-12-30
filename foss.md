@@ -86,6 +86,7 @@
 - https://dev.to/ender_minyard/why-i-no-longer-use-the-mit-license-for-new-projects-348m
 - https://paulmillr.com/posts/simple-description-of-popular-software-licenses
 - [Petition to open source Flash and Shockwave spec](https://github.com/open-source-flash/open-source-flash)
+- https://github.com/ssddanbrown/Open-Source-Confusion-Cases
 
 # Mono repository
 

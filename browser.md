@@ -169,6 +169,7 @@ javascript: (() =>
 - https://github.com/wdv4758h/awesome-jit
 - https://github.com/mgaudet/SpiderMonkeyBibliography
 - https://bun.sh/blog/how-bun-supports-v8-apis-without-using-v8-part-2
+- https://medium.com/@stankoja/v8-bug-hunting-part-1-setting-up-the-debug-environment-7ef34dc6f2de
 
 # Exploit
 
@@ -187,6 +188,7 @@ javascript: (() =>
 - https://github.com/nccgroup/exploit_mitigations
 - https://github.com/cezary-sec/awesome-browser-security + https://m.youtube.com/playlist?list=PLuHcjpINS_OJntoGxRu0FEju5ak0yE_46
 - [Practical Exploitation of Math.random on V8](https://github.com/d0nutptr/v8_rand_buster)
+- https://github.com/m1ghtym0/browser-pwn
 
 # Extension
 
@@ -660,7 +662,7 @@ javascript: (() =>
 - https://github.com/erich666/RealTimeRendering
 - https://github.com/jsulpis/realtime-planet-shader
 - https://www.charlespetzold.com/blog/2024/09/Rudimentary-3D-on-the-2D-HTML-Canvas.html
-- - https://github.com/terkelg/awesome-creative-coding
+- https://github.com/terkelg/awesome-creative-coding
 
 # WebGPU
 

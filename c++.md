@@ -40,6 +40,7 @@
 - [Introduction to GPU programming using CUDA | Apetrei Ciprian](https://docs.google.com/presentation/d/1WNzH-C6kiyjGGQ8P1gdT36_WfH7W4JTV)
 - https://github.com/kiat/OOP-Design-Patterns
 - [Pointers, References and Dynamic Memory Allocation](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp4_PointerReference.html)
+- https://github.com/graninas/cpp_functional_programming
 
 # Community
 

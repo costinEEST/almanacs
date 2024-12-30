@@ -20,6 +20,7 @@
 - https://github.com/janestreet/learn-ocaml-workshop
 - [Hardcaml is an OCaml library for designing hardware](https://github.com/janestreet/hardcaml)
 - https://sancho.dev/blog/learning-ocaml
+- https://github.com/chshersh/pragmatic-category-theory
 
 # Opinion
 

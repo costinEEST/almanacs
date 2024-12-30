@@ -67,6 +67,7 @@
 - [Physically Based Rendering: From Theory To Implementation | Matt Pharr, Wenzel Jakob, and Greg Humphreys](https://github.com/mmp/pbr-book-website)
 - https://en.wikipedia.org/wiki/The_Penguin_Dictionary_of_Curious_and_Interesting_Numbers + https://bookstore.ams.org/mbk-64 + https://news.ycombinator.com/item?id=38242946
 - https://www.thepsmiths.com/p/review-math-from-three-to-seven-by, https://www.amazon.com/Math-Three-Seven-Mathematical-Preschoolers/dp/082186873X
+- [K-spectral sets, operator tuples and related function theory | Daniel Estévez Sánchez](https://repositorio.uam.es/bitstream/handle/10486/679021/estevez_sanchez_daniel.pdf)
 
 # Course
 
@@ -83,6 +84,7 @@
 - [CSE 101: Design and Analysis of Algorithms](https://cseweb.ucsd.edu//%7Edakane/CSE101)
 - [Advanced Algorithms | David R. Karger](https://6.5210.csail.mit.edu/materials.html)
 - https://github.com/spatialaudio/digital-signal-processing-lecture
+- https://github.com/jvierine/signal_processing_course
 
 # Cinema
 

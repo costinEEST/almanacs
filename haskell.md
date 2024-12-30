@@ -1,5 +1,6 @@
 # Book
 
+- https://github.com/graninas/Functional-Design-and-Architecture, https://github.com/graninas/software-design-in-haskell
 - https://github.com/lambda-magic/plt-books/tree/master/Haskell
 - https://github.com/leandrotk/functional-programming-learning-path/tree/master/haskell
 - [Learning Haskell by building a simple static blog generator](https://github.com/soupi/learn-haskell-blog-generator)
@@ -58,7 +59,6 @@
 - https://github.com/google/haskell-trainings
 - https://github.com/kowainik/learn4haskell
 - https://github.com/tssm/up-to-date-real-world-haskell
-- https://github.com/graninas/software-design-in-haskell
 - https://github.com/cohomolo-gy/haskell-resources
 - https://github.com/ocharles/zero-to-quake-3
 - https://github.com/tweag/awesome-learning-haskell
