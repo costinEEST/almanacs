@@ -122,6 +122,8 @@
 - https://github.com/stars/JJTech0130/lists/apple-api
 - Full control over your window management: https://github.com/kasper/phoenix, https://github.com/azamuddin/phoenix/blob/master/.phoenix.js
 - https://9to5mac.com/2024/10/09/passbook-lets-you-create-an-apple-wallet-pass-from-any-qr-code
+- [Desktop streaming to an Apple II with Super Serial Card](https://a2stuff.github.io/vnIIc)
+- [Disassembly of the Apple II Desktop - ProDOS GUI](https://github.com/a2stuff/a2d)
 
 # Security
 

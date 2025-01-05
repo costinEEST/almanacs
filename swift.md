@@ -131,3 +131,4 @@
 - [Elevate your code editing experience on MacOS](https://github.com/CodeEditApp/CodeEdit)
 - [Building a full-fledged code editor for iPad](https://github.com/thebaselab/codeapp)
 - https://github.com/kabiroberai/node-swift
+- https://github.com/coolaj86/run-on-macos-screen-unlock

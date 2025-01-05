@@ -432,6 +432,7 @@
 
 # `node:buffer`
 
+- [The buffer module, for the browser](https://github.com/feross/buffer)
 - [Output a buffer in emojis](https://github.com/pfrazee/base-emoji)
 - https://kevin.burke.dev/kevin/node-js-string-encoding
 - [Proposal for future Node.js streaming data APIs: "Bytes over Buffers"](https://fishrock123.github.io/nodejs-collab-summit-montreal-2019) + https://github.com/Fishrock123/bob

@@ -170,6 +170,7 @@ javascript: (() =>
 - https://github.com/mgaudet/SpiderMonkeyBibliography
 - https://bun.sh/blog/how-bun-supports-v8-apis-without-using-v8-part-2
 - https://medium.com/@stankoja/v8-bug-hunting-part-1-setting-up-the-debug-environment-7ef34dc6f2de
+- [V8 has a lot of different string types](https://github.com/v8/v8/blob/941b945b/src/objects/objects.h#L134-L151)
 
 # Exploit
 
