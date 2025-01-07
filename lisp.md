@@ -10,6 +10,7 @@
 - [A Lisp Programmer Living in Python-Land: The Hy Programming Language | Mark Watson](https://leanpub.com/hy-lisp-python)
 - Learn Lisp The Hard Way: https://github.com/thephoeron/LLTHW, https://llthw.common-lisp.dev
 - https://leanpub.com/lispweb
+- https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp
 
 # Cinema
 

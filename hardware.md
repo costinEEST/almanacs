@@ -29,7 +29,6 @@
 - https://www.amazon.com/Understanding-Software-Addison-Wesley-Professional-Computing-ebook-dp-B09H5JB5HC/dp/B09H5JB5HC
 - [Make: The Annotated Build-It-Yourself Science Laboratory | Windell Oskay](https://www.adafruit.com/product/2560)
 - https://www.amazon.com/Open-Circuits-Beauty-Electronic-Components-ebook-dp-B09WJWGB34/dp/B09WJWGB34 + https://nostarch.com/open-circuits
-- https://github.com/ahr9n/awesome-reading/tree/main/learn-verilog
 - https://passo.uno/why-collect-read-old-computer-manuals
 - https://www.goodreads.com/review/list/83926681?shelf=hardware
 - [Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
@@ -162,6 +161,12 @@
 - https://github.com/stars/swisskyrepo/lists/hardware
 - https://github.com/djsime1/awesome-flipperzero
 
+# Microprocessor
+
+- https://github.com/stars/pamoroso/lists/z80, https://github.com/stars/pamoroso/lists/cp-m, https://github.com/z88dk/z88dk
+- https://github.com/stars/pamoroso/lists/intel-8080
+- 
+
 # Padlock
 
 - [Electronic Locks: Bumping and Other Mischief | Michael Huebler](https://program.mch2022.org/mch2022/talk/KBVXRU) + https://m.youtube.com/playlist?list=PLa9wckl5om1O7xq_yTQ8mooDxtLzqGy4Q
@@ -182,6 +187,7 @@
 - [Better parametric search for components available for JLC PCB assembly](https://github.com/yaqwsx/jlcparts)
 - https://m.youtube.com/@CarlBugeja/playlists?view=1&sort=lad&flow=grid
 - [The Game of Life on a PCB](https://ryhl.io/blog/gol-pcb)
+- https://www.hackster.io/news/marcel-erz-brings-back-the-trs-80-model-i-with-a-high-accuracy-open-hardware-pcb-replica-49c3aaec0c71
 
 # Resistor
 
@@ -299,3 +305,8 @@
 - http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1964_09-10.pdf + https://twitter.com/paulg/status/1376082495041589250
 - https://panic.com/blog/a-prototype-original-ipod
 - https://biblioteca-digitala.ro/?pub=3944-catalogul-expozitiei-pc-o-istorie-fascinanta
+
+# Verilog 
+
+- https://github.com/ahr9n/awesome-reading/tree/main/learn-verilog
+- [Open source hardware for vintage computers](https://github.com/evietron/BackBit-OpenSource)

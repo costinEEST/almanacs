@@ -62,6 +62,7 @@
 - https://github.com/creativecommons/cc-legal-tools-app
 - https://github.com/e8johan/virtual-conf-resources
 - [A collection of interesting new networks and tech aiming at decentralisation](https://github.com/redecentralize/alternative-internet)
+- https://gitlab.com/pleia2/open-source-infra-site
 
 # Miscellaneous
 

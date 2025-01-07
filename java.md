@@ -127,6 +127,10 @@
 - [Embedding Node.js and V8 in Java](https://docs.google.com/presentation/d/1lQ8xIHuywuE0ydqm2w6xq8OeQZO_WeTLYXW9bNflQb8) + https://github.com/caoccao/Javet
 - https://github.com/nayuki/x86-Assembler
 
+# Emulator 
+
+- https://github.com/stars/pamoroso/lists/xerox
+
 # Tool
 
 - https://knifecoat.com/Tools/Java

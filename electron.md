@@ -12,6 +12,7 @@
 - https://github.com/stars/Marcisbee/lists/desktop-app
 - [Fullstack GUI library for desktop, web, mobile](https://github.com/DioxusLabs/dioxus)
 - [Create offline desktop app using Next without Electron](https://github.com/nicnocquee/nesktop)
+- https://developers.facebook.com/blog/post/2023/05/17/messenger-desktop-faster-and-smaller-by-moving-to-react-native-from-electron
 
 # Application
 

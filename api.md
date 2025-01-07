@@ -100,6 +100,7 @@
 - https://github.com/burningtree/awesome-json
 - https://github.com/nayyyhaa/movies-and-shows-api
 - [Get a Google Sheet as JSON, no authentication required](https://github.com/benborgers/opensheet)
+- https://github.com/lukePeavey/quotable
 
 # Music 
 
@@ -174,6 +175,7 @@ curl v2.wttr.in/Bucharest
 
 # Miscellaneous
 
+- https://dylanbeattie.net/talks/real-world-rest-and-hands-on-hypermedia.html
 - https://github.com/public-api-lists/public-api-lists
 - https://github.com/yosriady/api-development-tools
 - https://github.com/apisyouwonthate/openapi.tools

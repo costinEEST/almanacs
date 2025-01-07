@@ -150,6 +150,8 @@
 - [Floor796 “is an ever-expanding animation scene showing the life of the 796th floor of the huge space station! The goal of the project is to create as huge animation as possible, with many references to movies, games, anime and memes”. Drag around and click to find out more](https://m.youtube.com/channel/UCribkEGzOuMQ9ozb0ektMCQ)
 - [How Flash Games Shaped the Video Game Industry - A visual essay about the Flash games era with contributions from more than 20 former Flash game developers](https://www.flashgamehistory.com) + https://twitter.com/JGamesCh/status/1285960536862216192
 - [Building SimCity. How to Put the World in a Machine ~ Chaim Gingold](https://mitpress.mit.edu/9780262547482/building-simcity)
+- https://www.amazon.com/Once-upon-Atari-History-Industry/dp/B0BZ9544KW
+- https://journal.paoloamoroso.com/reading-shareware-heroes
 
 # Opinion
 

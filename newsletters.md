@@ -76,6 +76,7 @@
 
 # Artificial intelligence
 
+- https://marklwatson.substack.com/archive
 - [Machine learning monthly](https://zerotomastery.io/blog/?tag=MLM)
 - [Shawn Wang, Alessio Fanelli](https://www.latent.space/archive)
 - [Nathan Benaich](https://nathanbenaich.substack.com/archive)
@@ -99,7 +100,6 @@
 - [WatSPEED at the University of Waterloo](https://us1.campaign-archive.com/home/?u=a4e41978223f65e337a68e25f&id=8e68d761f4)
 - https://tinahuang.substack.com/archive
 - [Dimitri Glazkov](https://whatdimitrilearned.substack.com/archive)
-- https://marklwatson.substack.com/archive
 - [Lucian Gruia: Java, Python, JS, AI, Blockchain](https://luciangruiaro.substack.com/archive)
 - https://terrysejnowski.substack.com/archive
 - https://substack.com/@dumitruradoiu/reads
@@ -298,6 +298,7 @@
 - [Embedded.fm](https://us12.campaign-archive.com/home/?id=d82c81a27b&u=bb8caeb750ad079df2b961c41)
 - [Charlie Gerard](https://buttondown.com/devdevcharlie/archive)
 - [Mridul Sengupta: VLSI](https://kunal-ghosh-company.optin.com/newsletter/awlist3810424)
+- https://substack.com/@leefelsenstein/posts
 
 # Internet of money
 
@@ -417,6 +418,7 @@
 
 # Philosophy
 
+- https://romanian-philosophy.ro/newsletter
 - [Andrei Vasilachi](https://meditatii.substack.com/archive)
 - [Mahmoud Rasmi](https://decafquest.substack.com/archive)
 - [Jared Henderson: Exploring modern life through great works of philosophy and literature](https://jaredhenderson.substack.com/archive)

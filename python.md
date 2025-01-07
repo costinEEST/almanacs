@@ -159,6 +159,7 @@
 
 - https://rbaron.net/blog/2018/10/05/Hand-rolling-a-minimal-interpreted-programming-language-from-scratch.html + https://github.com/rbaron/compiler_studies
 - [Writing a C compiler in 500 lines](https://vgel.me/posts/c500) + https://news.ycombinator.com/item?id=37383913
+- [Zero-dependency implementation of the traditional parsing tools lex and yacc](https://github.com/dabeaz/ply)
 
 # Cinema
 
