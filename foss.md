@@ -51,6 +51,7 @@
 - [Daniel Roesler](https://daylightpirates.org)
 - https://github.com/stars/antonreshetov/lists/oss-alternatives
 - https://github.com/elie222/learn-from-open-source
+- [Resources for Digital Public Goods](https://github.com/DPGAlliance/dpg-resources)
 
 # Tool
 

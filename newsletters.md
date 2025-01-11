@@ -726,7 +726,7 @@
 - https://rust.libhunt.com/newsletter/archive
 - [This Month in Rust GameDev](https://gamedev.rs/news)
 - [Bob Peters](https://rust-trends.com/newsletter)
-- [](https://www.possiblerust.com/feed.xml)
+- [Andrew Lilley Brinker](https://www.possiblerust.com/archive)
 - [Andre Bogus](https://llogiq.github.io/feed.xml)
 - [Ralf Jung](https://www.ralfj.de/blog/feed.xml)
 - [Michael Bryan](https://adventures.michaelfbryan.com/posts)
@@ -734,6 +734,7 @@
 - [Paris Liakos](https://us9.campaign-archive.com/home/?u=e4585d987021695e5426f50c5&id=2bebc9a948)
 - [Nicole Tietz-Sokolskaya](https://buttondown.email/ntietz/archive)
 - [Dmitry Kudryavtsev](https://substack.com/profile/56264434-dmitry-kudryavtsev)
+- https://buttondown.com/tim_abell/archive, https://buttondown.com/rust_workshop/archive
 
 # Politics
 
