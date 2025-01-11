@@ -16,6 +16,10 @@
 
 - https://m.youtube.com/playlist?list=PLoKM3Qfxoe0mTWQnjNghk2Ofzfp2x68zN
 
+# FreeBSD
+
+- https://gyptazy.com/#tech-talks
+
 # Historic
 
 - https://www.usenix.org/publications/loginonline/transcending-posix-end-era

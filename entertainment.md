@@ -114,6 +114,7 @@
 - [One Problem, 500 Arrows | GMHikaru](https://youtu.be/2pZSozuQAS0)
 - [Paul Morphy](https://twitter.com/CupOJoseph/status/1440818308320677894)
 - https://github.com/niklasf/chess-openings
+- https://www.goodreads.com/book/show/85080.Winning_Chess_Tactics
 
 # Golf
 
