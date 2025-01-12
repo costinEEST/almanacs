@@ -61,6 +61,10 @@
 - [computer networks on docker | Sergiu Nisioi](https://github.com/senisioi/computer-networks)
 - [Rețele Locale](https://ocw.cs.pub.ro/courses/rl)
 
+# IPsec
+
+- https://securityintelligence.com/x-force/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp
+
 # Local area network (LAN)
 
 - [Detect signs of compromise by monitoring network flows transmitted by a device, with a Suricata detection engine](https://github.com/SpyGuard/SpyGuard)

@@ -4,6 +4,17 @@
 - https://vladbogos.com/newsletter-limba-romana
 - https://github.com/matthiasott/personal-websites-RSS
 
+# Accessibility
+
+- [T12t](https://us14.campaign-archive.com/home/?u=23907132d7bd3ae259858b057&id=b8c09bd7b1)
+- [Nielsen Norman Group](https://us4.campaign-archive.com/home/?u=538d934a891681a5d850bb4e5&id=7f29a2b335)
+- [Chris Ashton](https://ashton.codes/category/frequent11y)
+- [Alexa Heinrich](https://alexaheinrich.substack.com/archive)
+- [Asociația Metodelor Alternative de Integrare Socială](https://us7.campaign-archive.com/home/?u=0d9eea60dfb7ada276fea7473&id=cb73e5357c)
+- [Heydon Pickering](https://buttondown.email/heydon/archive)
+- [David A. Kennedy](https://a11yweekly.com/issues)
+- [Robin Kanatzar](https://accessible-mobile-apps-weekly.ghost.io)
+
 # API 
 
 - [Mahdi Yusuf](https://architecturenotes.co/archive)
@@ -19,16 +30,9 @@
 
 - https://authory.com/MishaalRahman
 
-# Accessibility
+# Anthropology
 
-- [T12t](https://us14.campaign-archive.com/home/?u=23907132d7bd3ae259858b057&id=b8c09bd7b1)
-- [Nielsen Norman Group](https://us4.campaign-archive.com/home/?u=538d934a891681a5d850bb4e5&id=7f29a2b335)
-- [Chris Ashton](https://ashton.codes/category/frequent11y)
-- [Alexa Heinrich](https://alexaheinrich.substack.com/archive)
-- [Asociația Metodelor Alternative de Integrare Socială](https://us7.campaign-archive.com/home/?u=0d9eea60dfb7ada276fea7473&id=cb73e5357c)
-- [Heydon Pickering](https://buttondown.email/heydon/archive)
-- [David A. Kennedy](https://a11yweekly.com/issues)
-- [Robin Kanatzar](https://accessible-mobile-apps-weekly.ghost.io)
+- [Radu Umbreș](https://iscoada.substack.com/archive)
 
 # Archeology
 
@@ -616,8 +620,8 @@
 
 # Psychology
 
-- [Radu Umbreș](https://iscoada.substack.com/archive)
 - https://danielpink.substack.com/archive
+- [Matt Abrahams](https://nofreakingspeaking.com/think-fast-talk-smart-the-newsletter)
 
 # Security
 
@@ -643,6 +647,7 @@
 - [Dan Barahona](https://apisecurity.io/full-archive)
 - [Rohit Sehgal](https://substack.com/@seczines/posts)
 - [Daniel Kelley](https://cybersecurityandgrowth.substack.com/archive)
+- https://substack.com/@zellic/posts
 
 # SEO 
 
@@ -778,6 +783,7 @@
 - [Joe Previte](https://speakargentinianspanish.beehiiv.com)
 - [Charles Malphettes](https://frenchteachercarlito.substack.com/archive)
 - https://www.alexanderarguelles.com/newsletter/archive
+- [Stian Håklev](https://substack.com/@networkedthought/posts)
 
 # Sport 
 
