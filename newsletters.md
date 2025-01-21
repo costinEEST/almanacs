@@ -430,6 +430,7 @@
 # Physics
 
 - [Albert Spinosa's electronic class room](https://us20.campaign-archive.com/home/?u=435cabd49941ed5a86341ca5b&id=4ff60e904c)
+- https://curtjaimungal.substack.com/archive
 
 # Design
 
