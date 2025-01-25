@@ -623,6 +623,8 @@
 
 - https://danielpink.substack.com/archive
 - [Matt Abrahams](https://nofreakingspeaking.com/think-fast-talk-smart-the-newsletter)
+- Anca Tiurean: https://ancatiurean.substack.com/archive, https://coincidentiaoppositorum.substack.com/archive
+- https://words.mattiasdesmet.org/archive
 
 # Security
 
