@@ -117,6 +117,13 @@
 - https://newsletter.victordibia.com/archive
 - [Joshua Tiernan: AI market reports](https://substack.com/@futurewebvc/posts)
 - [Carlos E. Perez: Artificial Intuition, Fluency & Empathy, DL Playbook, Patterns for Generative AI, Patterns for Agentic AI](https://intuitionmachine.gumroad.com/?section=mFELOWclpti3Na6mSyDQyA%3D%3D)
+- [Letiția Pârcălăbescu](https://aicoffeebreakwl.substack.com/archive)
+- [Rowan Cheung](https://www.therundown.ai)
+- [Matt Village, Adam Biddlecombe](https://www.mindstream.news)
+- https://aibreakfast.beehiiv.com
+- [Ben Tossell, Keshav Jindal](https://bensbites.beehiiv.com)
+- https://tldr.tech/ai/archives
+- [Zain Kahn](https://www.superhuman.ai)
 
 # Biology
 
@@ -226,6 +233,7 @@
 
 - https://offbynone.io/issues
 - [Day Johnson: Amazon; DFIR; CTF](https://substack.com/@cyberwox)
+- [Denis Nuțiu](https://newsletter.nuculabs.dev/archive), https://nuculabs.dev/archive
 
 # Cryptography
 
@@ -525,7 +533,6 @@
 - [Future of Coding Weekly](https://tinyletter.com/marianoguerra/archive)
 - [Matt Frisbie](https://mattfrisbie.substack.com/archive)
 - [Rachel Andrew](https://csslayout.news/archive)
-- [Denis Nuțiu](https://nuculabs.dev/archive) + https://substack.com/@nuculabs
 - [Code for Romania](https://us13.campaign-archive.com/home/?u=1bcbbbff5fbab7429738442f5&id=cb38ce1e2a)
 - [Ben Ilegbodu](https://buttondown.email/benmvp/archive)
 - [Sunny Singh](https://buttondown.email/sunnysingh/archive)

@@ -1,5 +1,6 @@
 # Book
 
+- [Adaptive Code: Agile coding with design patterns and SOLID principles](https://www.amazon.com/Adaptive-Code-principles-Developer-Practices/dp/1509302581)
 - https://vladris.com/blog/2020/12/29/recommendations.html
 - [The Little ASP.NET Core Book, a friendly introduction to web programming and ASP.NET Core 2.0](https://github.com/nbarbettini/little-aspnetcore-book)
 - https://github.com/MarkPThomas/HeadFirst-OOAD

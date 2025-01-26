@@ -301,6 +301,7 @@
 - https://jakebailey.dev/posts/pnpm-dt-2
 - [Practical Guide To Not Blocking The Event Loop](https://www.bbss.dev/posts/eventloop): A look at the core principles of synchronous and asynchronous work in a single-threaded environment, stressing the importance of non-blocking code for efficient event loop utilization.
 - https://nodesource.com/blog/State-of-Nodejs-Performance-2024
+- https://blog.nuculabs.dev/posts/2023/2023-08-07-opentelemetry-nodejs
 
 # Deploy
 
