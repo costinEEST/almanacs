@@ -64,6 +64,7 @@
 
 # Opinion
 
+- https://beeps.dev/blog/nextjs-an-honest-review
 - https://bradgarropy.com/blog/next-over-remix
 - https://twitter.com/ImSh4yy/status/1671251883913285632
 - https://www.felixvemmer.com/blog/why-next-js

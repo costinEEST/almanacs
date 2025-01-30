@@ -148,6 +148,7 @@
 - https://ben.balter.com/other-recommended-reading
 - [Lean from the Trenches. Managing Large-Scale Projects with Kanban](https://pragprog.com/titles/hklean/lean-from-the-trenches)
 - [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+- [Comprehensive guide to preparing for product management interviews, covering common questions, frameworks, and available courses](https://www.youtube.com/watch?v=IduMcOC1NPM)
 
 # Leadership
 

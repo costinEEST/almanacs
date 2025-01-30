@@ -369,6 +369,7 @@
 # `new Uint8Array()`
 
 - [A JavaScript Typed Array Gotcha](https://nullprogram.com/blog/2019/01/23)
+- [Hunting bugs in Nginx JavaScript engine](https://pwner.gg/blog/2024-05-24-njs-vr-bugs)
 
 # `new Uint32Array()`
 
@@ -398,6 +399,7 @@
 - https://github.com/andreigasparovici/npm-time-ago-ro
 - https://www.builder.io/blog/relative-time
 - https://docs.timetime.in/blog/js-dates-finally-fixed
+- https://docs.timetime.in/blog/how-long-is-a-second-in-js
 
 # new Error()
 
