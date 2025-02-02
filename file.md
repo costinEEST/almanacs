@@ -97,6 +97,7 @@
 - [Converter from LaTeX to ebook formats (epub, mobi) using tex4ht and texlua scripts](https://github.com/michal-h21/tex4ebook)
 - https://github.com/CU-ITSS/Intro-to-LaTeX
 - http://www.ub-filosofie.ro/~solcan/wt/gwltx.pdf
+- https://www.logicmatters.net/latex-for-logicians
 
 # .txt
 

@@ -147,6 +147,7 @@
 - [Island Press](https://us6.campaign-archive.com/home/?u=3bd33456aa62e826309baafd1&id=ec2fe5ec1a)
 - [Harvard Science Book Talks](https://hsbt.substack.com/archive)
 - [Elif Şafak: Turkish-British novelist and essayist](https://elifshafak.substack.com/archive)
+- [Ritobrata Ghosh](https://substack.com/@ritogh/posts)
 
 # Business
 
@@ -215,7 +216,7 @@
 
 # Cinema 
 
-- [Platformă de filme și discuții feministe](https://us10.campaign-archive.com/home/?u=9d30172c90fa51ff006999c11&id=b77074aae1)
+- [F-SIDES Cineclub: platformă de filme și discuții feministe](https://us10.campaign-archive.com/home/?u=9d30172c90fa51ff006999c11&id=b77074aae1)
 
 # Communication
 
@@ -351,6 +352,7 @@
 - [Sven Carlin](https://us18.campaign-archive.com/home/?u=83ab4ea650b8ab076b2ca4981&id=0163a06b72)
 - [Matt Gamber](https://mattbiotech.substack.com/archive)
 - [Laurențiu Vană](https://theweeklyblend.substack.com/archive)
+- [Ian Cutress](https://morethanmoore.substack.com/archive)
 
 # iOS
 
@@ -582,6 +584,7 @@
 - https://drumanaidoomd.substack.com/archive
 - https://joseandres.substack.com/archive
 - https://substack.com/@adelinadabu/posts
+- [Mosa meat](https://us19.campaign-archive.com/home/?u=a4b30e3d66f0f29f4818b9dca&id=6a9caf2eaa)
 
 # Health
 
