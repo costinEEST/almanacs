@@ -305,7 +305,6 @@
 
 - [Deep into the Forest. Deep Tech for a Better Future](https://deepforest.substack.com)
 - [Kevin Lynagh](https://tinyletter.com/kevinlynagh/archive)
-- [Ian Cutress. The latest in semiconductors: silicon, AI, processors, market trends](https://morethanmoore.substack.com/archive)
 - [Chris Combs](https://us16.campaign-archive.com/home/?u=db333b11de2809a2e919041d1&id=5850b17aff)
 - [Matt Liberty](https://us19.campaign-archive.com/home/?u=873375f7fba5250aba20e71e6&id=2ee675b0bd)
 - [Embedded.fm](https://us12.campaign-archive.com/home/?id=d82c81a27b&u=bb8caeb750ad079df2b961c41)
@@ -352,7 +351,7 @@
 - [Sven Carlin](https://us18.campaign-archive.com/home/?u=83ab4ea650b8ab076b2ca4981&id=0163a06b72)
 - [Matt Gamber](https://mattbiotech.substack.com/archive)
 - [Laurențiu Vană](https://theweeklyblend.substack.com/archive)
-- [Ian Cutress](https://morethanmoore.substack.com/archive)
+- [Ian Cutress & Ryan Smith - The latest in semiconductors: silicon, AI, processors, market trends](https://morethanmoore.substack.com/archive)
 
 # iOS
 
@@ -539,6 +538,7 @@
 - [Code for Romania](https://us13.campaign-archive.com/home/?u=1bcbbbff5fbab7429738442f5&id=cb38ce1e2a)
 - [Ben Ilegbodu](https://buttondown.email/benmvp/archive)
 - [Sunny Singh](https://buttondown.email/sunnysingh/archive)
+- [Dawid Dylowicz](https://softwaretestingweekly.com/issues)
 
 # Web performance
 
