@@ -9,7 +9,7 @@
 - http://gustavbertram.com/learning/free_culture
 - [Live Coding: A User's Manual](https://livecodingbook.toplap.org)
 
-# Watch
+# Cinema
 
 - [How to Contribute to Open Source (Next.js)](https://twitter.com/leeerob/status/1482519857195274242)
 - [Corporate Open Source Anti-patterns](https://youtu.be/Pm8P4oCIY3g)
@@ -67,6 +67,7 @@
 
 # Miscellaneous
 
+- https://github.com/github/choosealicense.com
 - [Things I've learned about writing good READMEs](https://github.com/hackergrrl/art-of-readme)
 - https://www.freecodecamp.org/news/oss-security-best-practices
 - https://github.com/ankumar/Open-software-design
@@ -84,11 +85,11 @@
 - https://github.com/mawrkus/pull-request-review-guide
 - https://blog.debiania.in.ua/posts/2016-03-19-how-i-read-toses-eulas-and-stuff-like-that.html
 - [RFCs in HTML](https://lowentropy.net/posts/line-length)
-- https://choosealicense.com/no-permission
 - https://dev.to/ender_minyard/why-i-no-longer-use-the-mit-license-for-new-projects-348m
 - https://paulmillr.com/posts/simple-description-of-popular-software-licenses
 - [Petition to open source Flash and Shockwave spec](https://github.com/open-source-flash/open-source-flash)
 - https://github.com/ssddanbrown/Open-Source-Confusion-Cases
+- https://ben.balter.com/2017/11/10/twelve-tips-for-growing-communities-around-your-open-source-project/
 
 # Mono repository
 
