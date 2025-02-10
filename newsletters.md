@@ -3,6 +3,7 @@
 - [What tech newsletters are you currently subscribing to?](https://news.ycombinator.com/item?id=36671105)
 - https://vladbogos.com/newsletter-limba-romana
 - https://github.com/matthiasott/personal-websites-RSS
+- https://github.com/zudochkin/awesome-newsletters
 
 # Accessibility
 
@@ -515,7 +516,6 @@
 - [Vincent Voyer](https://nextjsnews.com)
 - [Softbinator Foundation](https://us2.campaign-archive.com/home/?u=a8f550154253f6574139ed3ae&id=7d076fb650)
 - [Jhey Tompkins](https://www.getrevue.co/profile/jh3y#archive)
-- https://github.com/zudochkin/awesome-newsletters
 - [Josh Sherman](https://us4.campaign-archive.com/home/?u=374a1419f1381c14c8bc92119&id=91dbdd5c9b)
 - https://golangweekly.com/issues
 - [Amit Agarwal](https://www.getrevue.co/profile/labnol)
@@ -781,6 +781,7 @@
 - [Konstantin Vadimovich Kisin | Politically Non-Binary Opinions on Culture, Politics and Comedy](https://www.konstantinkisin.com/archive)
 - [Luiza Vasiliu & Victor Ilie](https://substack.com/@drepturisistrambe/posts)
 - [Jason Steinhauer: history, tech, media & politics](https://jasonsteinhauer.substack.com/archive)
+- [Iulia Huiu: American politics, foreign policy, and inquire into the effectiveness of strategies](https://iuliahuiu.substack.com/archive)
 
 # Social sciences
 
