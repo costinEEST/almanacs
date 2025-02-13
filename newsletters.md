@@ -782,6 +782,7 @@
 - [Luiza Vasiliu & Victor Ilie](https://substack.com/@drepturisistrambe/posts)
 - [Jason Steinhauer: history, tech, media & politics](https://jasonsteinhauer.substack.com/archive)
 - [Iulia Huiu: American politics, foreign policy, and inquire into the effectiveness of strategies](https://iuliahuiu.substack.com/archive)
+- [Mihaela Dinulescu, Dan V Diaconu: Intelligence news](https://www.frumentarius.ro/archive)
 
 # Social sciences
 

@@ -93,13 +93,14 @@
 
 - https://juneoven.com
 
-# Watches
+# Watch
 
 - https://adamfuhrer.com/accuracy-of-mechanical-watches
 - https://shop.espruino.com/banglejs + https://www.hackster.io/news/the-bangle-js-an-open-sourced-javascript-powered-smart-watch-6359962646c2 + https://cxlabs.sap.com/2019/11/11/labs-talk-feature-espruino-bluetooth-nfc-and-bangle-js-kickstarter
 - [Wristwatches, Pocket Watches and Clocks - Raoul Pop](https://m.youtube.com/playlist?list=PLrRIVfn0U02MtXG5_qZ0nI2MAw3e2k-a_)
 - [Data Runner Watch Prototype – Modded Casio F91W](https://news.ycombinator.com/item?id=23975012)
 - [Casio A168WA-1](https://twitter.com/dhh/status/1369233695660519428)
+- https://favorite.emnudge.dev/garmin-instinct
 
 # Health
 
