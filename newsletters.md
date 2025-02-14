@@ -195,6 +195,7 @@
 - https://substack.com/@guyraz
 - https://abiraja.substack.com/archive
 - Marketing, https://kevanlee.substack.com/archive
+- https://paulkrugman.substack.com/archive
 
 # Buddhism
 
@@ -418,6 +419,7 @@
 - [Cristian Lupșa](https://draftfour.substack.com/archive)
 - [Anca Maria Iosif: natură și natura umană](https://remediu.substack.com/archive)
 - [David McRaney: How Minds Change; You Are Not So Smart; You Are Now Less Dumb](https://davidmcraney.substack.com/archive)
+- https://sethabramson.substack.com/about
 
 
 # Tips
@@ -437,6 +439,7 @@
 - [Andrei Vasilachi](https://meditatii.substack.com/archive)
 - [Mahmoud Rasmi](https://decafquest.substack.com/archive)
 - [Jared Henderson: Exploring modern life through great works of philosophy and literature](https://jaredhenderson.substack.com/archive)
+- [Slavoj Žižek: philosophy, politics, and culture](https://slavoj.substack.com/archive)
 
 # Physics
 
@@ -760,6 +763,7 @@
 
 - [Peter Zeihan](https://us11.campaign-archive.com/home/?u=de2bc41f8324e6955ef65e0c9&id=5654564be1) + http://zeihan.com/newsletter
 - [Alex Gilbert's Power and Resources](https://us19.campaign-archive.com/home/?id=60dd91678f&u=b2b803b85cf21c01ea7a73017)
+- [Justin James McShane](https://geopoliticsunplugged.substack.com/archive)
 - https://www.spytalk.co/archive
 - [Tomas Pueyo Brochard](https://unchartedterritories.tomaspueyo.com/archive)
 - [Kamil Galeev | historical sociology](https://kamilkazani.substack.com/archive)
@@ -783,6 +787,10 @@
 - [Jason Steinhauer: history, tech, media & politics](https://jasonsteinhauer.substack.com/archive)
 - [Iulia Huiu: American politics, foreign policy, and inquire into the effectiveness of strategies](https://iuliahuiu.substack.com/archive)
 - [Mihaela Dinulescu, Dan V Diaconu: Intelligence news](https://www.frumentarius.ro/archive)
+- https://josricardomartins.substack.com/archive
+- https://substack.com/@dragospatraru/posts
+- [Sam Hogg: tracking Britain's foreign policy & diplomatic efforts in the world, with trade and other data too](https://britishdiplomacy.com/archive)
+- [Dói Ennoson: new trends in China](https://chinabusinessspotlight.substack.com/archive)
 
 # Social sciences
 
