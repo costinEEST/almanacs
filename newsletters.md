@@ -125,6 +125,7 @@
 - [Ben Tossell, Keshav Jindal](https://bensbites.beehiiv.com)
 - https://tldr.tech/ai/archives
 - [Zain Kahn](https://www.superhuman.ai)
+- [David Shapiro: AI, Humanity, Future, Philosophy, and Systems Thinking](https://daveshap.substack.com/archive)
 
 # Biology
 
