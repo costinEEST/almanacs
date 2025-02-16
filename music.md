@@ -99,6 +99,7 @@
 - https://dustri.org/b/an-abridged-history-of-painting-with-metal-album-covers.html
 - [Luminiţa Vartolomei](https://ro.wikipedia.org/wiki/Lumini%C8%9Ba_Vartolomei#C%C4%83r%C8%9Bi)
 - https://blackexcellencemusicproject.com/resources.html
+- [Overseas working musicians](https://www.facebook.com/groups/133783955096)
 
 # Drum
 
