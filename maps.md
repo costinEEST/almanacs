@@ -79,6 +79,7 @@
 - https://usefulcharts.com/products/maps-of-the-roman-empire
 - https://bigthink.com/strange-maps/omnesviae-roman-roads-map
 - https://notes.alinpanaitiu.com/Fetching-land-coordinates-from-Romania's-Geoportal
+- https://psyche.co/ideas/what-makes-a-map-good-on-the-ethics-of-cartography
 
 # Radio
 

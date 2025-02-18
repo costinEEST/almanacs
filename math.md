@@ -68,6 +68,7 @@
 - https://en.wikipedia.org/wiki/The_Penguin_Dictionary_of_Curious_and_Interesting_Numbers + https://bookstore.ams.org/mbk-64 + https://news.ycombinator.com/item?id=38242946
 - https://www.thepsmiths.com/p/review-math-from-three-to-seven-by, https://www.amazon.com/Math-Three-Seven-Mathematical-Preschoolers/dp/082186873X
 - [K-spectral sets, operator tuples and related function theory | Daniel Estévez Sánchez](https://repositorio.uam.es/bitstream/handle/10486/679021/estevez_sanchez_daniel.pdf)
+- https://bigthink.com/mini-philosophy/the-hidden-mathematics-behind-why-you-find-things-beautiful, https://www.amazon.com/Blueprints-How-Mathematics-Shapes-Creativity/dp/1541605691
 
 # Course
 

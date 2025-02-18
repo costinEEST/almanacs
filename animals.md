@@ -70,6 +70,7 @@
 - https://showme.missouri.edu/2022/feline-genetics-help-pinpoint-first-ever-domestication-of-cats-mu-study-finds
 - https://feederwatch.org/wp-content/uploads/2013/09/BirdNote11-Squirrels.pdf
 - https://atmos.earth/overview-sloths-slow-going
+- https://stephendubner.substack.com/p/why-does-everyone-hate-rats
 
 # Picture
 

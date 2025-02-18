@@ -228,3 +228,4 @@
 
 - https://launiusr.wordpress.com/2012/02/08/why-explore-space-a-1970-letter-to-a-nun-in-africa
 - https://catid.io/posts/time
+- https://atmos.earth/overview-effect-can-a-sense-of-awe-inspire-a-new-worldview
