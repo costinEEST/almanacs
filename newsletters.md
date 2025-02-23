@@ -82,6 +82,7 @@
 
 # Artificial intelligence
 
+- https://substack.com/@yvettpan0508/posts
 - https://marklwatson.substack.com/archive
 - [Machine learning monthly](https://zerotomastery.io/blog/?tag=MLM)
 - [Shawn Wang, Alessio Fanelli](https://www.latent.space/archive)
@@ -759,6 +760,7 @@
 - [Nicole Tietz-Sokolskaya](https://buttondown.email/ntietz/archive)
 - [Dmitry Kudryavtsev](https://substack.com/profile/56264434-dmitry-kudryavtsev)
 - https://buttondown.com/tim_abell/archive, https://buttondown.com/rust_workshop/archive
+- [Mohammad Abir Abbas](https://substack.com/@uknowhoab1r/posts)
 
 # Politics
 

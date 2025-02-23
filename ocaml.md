@@ -3,6 +3,7 @@
 - https://github.com/realworldocaml/book
 - https://github.com/bobzhang/ocaml-book
 - [OCaml Programming: Correct + Efficient + Beautiful](https://github.com/cs3110/textbook)
+- [Learn Programming with OCaml by Sylvain Conchon and Jean-Christophe Filliâtre](https://usr.lmf.cnrs.fr/lpo)
 
 # Cheatsheet
 
