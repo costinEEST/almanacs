@@ -152,6 +152,7 @@
 - [Harvard Science Book Talks](https://hsbt.substack.com/archive)
 - [Elif Şafak: Turkish-British novelist and essayist](https://elifshafak.substack.com/archive)
 - [Ritobrata Ghosh](https://substack.com/@ritogh/posts)
+- https://substack.com/@mihaiguberneac/posts
 
 # Business
 
@@ -590,6 +591,8 @@
 - https://joseandres.substack.com/archive
 - https://substack.com/@adelinadabu/posts
 - [Mosa meat](https://us19.campaign-archive.com/home/?u=a4b30e3d66f0f29f4818b9dca&id=6a9caf2eaa)
+- [Mihai Marcu](https://mihaigateste.substack.com/archive)
+- [Berti Panaiot](https://theweeklybrew.coffeelicious.ro/archive)
 
 # Health
 
