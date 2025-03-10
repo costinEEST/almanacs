@@ -247,6 +247,10 @@
 - https://www.feistyduck.com/bulletproof-tls-newsletter/archive
 - [Filippo Valsorda](filippo.io/newsletter)
 
+# Design 
+
+- https://vinceshao.substack.com/archive
+
 # Drawing
 
 - [Clarissa Grandi](https://us1.campaign-archive.com/home/?u=b02fe4323315fe24b98ed99ae&id=111a72a557)

@@ -6,6 +6,10 @@
 
 - https://kognise.dev/writing/arp + https://github.com/kognise/arpchat
 
+# Bluetooth
+
+- https://x.com/Tarlogic/status/1768219209190822140, https://github.com/TarlogicSecurity/BlueSpy
+
 # Bluetooth Low Energy
 
 - https://octet-stream.net/2024/05/building-cross-platform-offline-first-apps-with-bluetooth-low-energy
@@ -224,6 +228,7 @@
 - https://www.udemy.com/course/5g-overview
 - https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols
 - [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org) + https://m.youtube.com/playlist?list=PLsLX2lpKnQUv6nako9_whmzQ3Me-_59PC
+- https://www.vinceshao.com/blog/5g-the-complicated-relationship-between-itu-and-3gpp
 
 # Border Gateway Protocol (BGP)
 
