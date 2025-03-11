@@ -25,6 +25,7 @@
 - http://cl-informatik.uibk.ac.at/users/meberl//teaching.html
 - [Typed Neuro-Symbolic Program Synthesis for the Typed Lambda Calculus](https://github.com/KiaraGrouwstra/thesis)
 - https://github.com/qfpl/applied-fp-course
+- [Functional programming (German)](https://www.complang.tuwien.ac.at/knoop/fp185A03.html)
 
 # Cinema
 
@@ -43,6 +44,10 @@
 # Inspire
 
 - https://github.com/ruuda/blog
+
+# Paper 
+
+- [Durability and Contention in Software Transactional Memory (STM)](https://github.com/mcschroeder/thesis)
 
 # Practice
 

@@ -72,6 +72,7 @@
 - https://www.nytimes.com/1985/03/24/books/an-urge-more-vital-than-sex.html
 - [Foucault's History of Sex | Dan Krier](https://m.youtube.com/playlist?list=PLuHqxqWmJNcAuQ7QMMi5ItYnKJtYtNzaC)
 - https://www.amazon.com/The-Science-Kissing-What-Telling/dp/0446559903
+- https://ronifouks.substack.com/i/152142615/understanding-woke-gender-ideology
 
 # Values
 

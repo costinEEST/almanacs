@@ -85,6 +85,7 @@
 - https://github.com/thinkb4/a-walk-in-javascript
 - https://github.com/P1xt/p1xt-guides
 - https://www.udemy.com/course/professional-modern-javascript
+- https://github.com/web-engineering-tuwien/web-engineering-tuwien.github.io, https://web-engineering-tuwien.github.io/2025, https://m.youtube.com/playlist?list=PLvWBJbB3dsLvEYB2dwne17McLhYOEj8yX
 
 # Community
 
