@@ -130,6 +130,7 @@
 - https://github.com/gkamradt/gregkamradtdotcom
 - [Database diagrams editor that allows you to visualize and design your DB with a single query](https://github.com/chartdb/chartdb)
 - [A modern, responsive alternative to the default RabbitMQ Management UI, built with Next.js and shadcn/ui. Features real-time monitoring, queue insights, and an intuitive interface for better RabbitMQ management experience](https://github.com/Ralve-org/RabbitScout)
+- https://github.com/gabipurcaru/followgraph
 
 # Testing
 

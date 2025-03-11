@@ -67,6 +67,7 @@
 
 # Tool
 
+- [Book publishing tool. Outputs books in multiple formats, including PDF, EPUB, web, and a variety of XML flavours, using a theming/templating system, driven by CSS](https://github.com/pressbooks/pressbooks)
 - https://github.com/gdarko/wp-batch-processing
 - https://github.com/ryanshoover/docker-wp-browser
 - https://waclawjacek.com/check-wordpress-plugin-dependencies
