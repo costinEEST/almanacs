@@ -486,6 +486,7 @@
 
 - https://chrisrng.svbtle.com/using-weakmap-for-private-properties
 - [How to detect if an object has been garbage collected in Javascript](http://stevehanov.ca/blog/?id=148)
+- https://newsletter.daishikato.com/p/how-the-jotai-store-api-is-inspired-by-the-weakmap-api
 
 # new Set()
 
@@ -558,6 +559,10 @@
 - [Virtual Piano](https://hyperskill.org/projects/101)
 - https://github.com/felipefialho/frontend-challenges
 - https://github.com/BretHudson/advent-of-code
+
+# Scope 
+
+- [How ECMAScript Engines Optimize Your Variables](https://boajs.dev/blog/2025/03/05/local-variables)
 
 # Single-page application
 

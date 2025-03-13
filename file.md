@@ -145,6 +145,7 @@
 - https://safete.ch/file-extensions-you-can-block-in-your-email-system
 - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions
 - https://textslashplain.com/2023/04/05/file-types
+- [Mobile Forensics - The File Format Handbook | Christian Hummert & Dirk Pawlaszczyk](https://link.springer.com/book/10.1007/978-3-030-98467-0)
 
 # .zip
 
