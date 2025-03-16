@@ -428,6 +428,7 @@
 - [Anca Maria Iosif: natură și natura umană](https://remediu.substack.com/archive)
 - [David McRaney: How Minds Change; You Are Not So Smart; You Are Now Less Dumb](https://davidmcraney.substack.com/archive)
 - https://sethabramson.substack.com/about
+- https://luciandavidescu.substack.com/archive
 
 
 # Tips
