@@ -34,6 +34,7 @@
 - https://github.com/duke-certification/java6-to-java8-en + https://twitter.com/RafaDelNero/status/1387736448674242562 + https://leanpub.com/javachallengers + https://m.youtube.com/playlist?list=PL3py5YSIGvPMgKXOVqnYn9nBoT_zvsvsi + https://javachallengers.com/the-top-long-lasting-java-books-that-every-java-developer-should-read
 - https://github.com/well-grounded-java/resources
 - https://www.oreilly.com/library/view/functional-thinking/9781449365509 + https://github.com/nealford/NealFord_FunctionalThinkingVideo_Samples
+- https://ambrosiogabe.github.io/code/2022/02/02/a-review-of-clean-code
 
 # Boot
 

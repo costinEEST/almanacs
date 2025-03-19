@@ -624,6 +624,7 @@
 - [Karan Rajan](https://drkaran.beehiiv.com)
 - [Bertalan Meskó](https://www.patreon.com/themedicalfuturist/posts)
 - [Mihail Pautov](https://doctormihail.substack.com/archive)
+- [Sorana Stănescu]](https://sorana.substack.com/archive)
 
 # Linux OS
 

@@ -65,6 +65,7 @@
 - [Free and open-source monospaced font from Evil Martians](https://github.com/evilmartians/mono)
 - https://github.com/adobe-fonts/source-han-code-jp
 - https://www.linkedin.com/pulse/top-10-programming-fonts-beginners-akash-awaskar + https://levien.com/type/myfonts 
+- https://ambrosiogabe.github.io/games/2021/10/07/the-math-behind-font-rasterization
 
 # Historic
 

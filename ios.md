@@ -1,4 +1,4 @@
-# Advice
+# Opinion
 
 - https://blog.hoangnm.com/ios%20development/2013/05/12/get-started-with-ios-programming
 - [iOS Tips and Tricks](https://blog.hoangnm.com/pageDir/iosTips)
@@ -6,6 +6,7 @@
 - https://lux.camera/iphone-12-camera-review + https://twitter.com/sdw/status/1377291408755716099
 - https://www.loopinsight.com/2021/11/11/how-to-teach-siri-to-pronounce-names-correctly-in-ios-15/
 - https://proteas.github.io/xcode/2021/11/18/xcode-tips-for-ios-security-researcher.html
+- https://ambrosiogabe.github.io/iphone/android/2023/08/10/switching-android-to-iphone
 
 # Application
 

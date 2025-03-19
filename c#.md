@@ -13,6 +13,7 @@
 - [The C# Type System | Steve Love](https://nostarch.com/c-type-system)
 - https://mariusbancila.ro/blog/2020/05/05/my-book-learn-cs-programming-has-been-published
 - https://www.freecodecamp.org/news/learn-csharp-book
+- [Machine Learning for C# Developers](https://enews.manning.com/q/dKTx3aqp-F1dXXObneYpKKtqhwr5Pc3Bbc0OtNuzy7OGNLWQ7snF6EgVX)
 
 # Cheat sheet
 
