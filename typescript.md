@@ -90,6 +90,10 @@
 - [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
 - [How would one build their own Typescript compiler?](https://twitter.com/tannerlinsley/status/1202745654939922434)
 
+# `enum`
+
+- https://shaky.sh/ts-bit-flags
+
 # Presentations
 
 - [Typed functional programming in TypeScript in five minutes](https://github.com/typescript-fun/five-minutes-demo)

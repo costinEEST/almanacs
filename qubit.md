@@ -11,6 +11,9 @@
 - https://www.manning.com/books/quantum-computing-in-action
 - [Quantum Mechanics | Leonard I. Schiff](https://twitter.com/curiouswavefn/status/1621578536128741377)
 - Introduction to Quantum Computing for Physicists: https://obm.physics.metu.edu.tr/intro-QC/courses/PHYS437/index.html + https://obm.physics.metu.edu.tr/intro-QC/courses/PHYS710/index.html
+- https://www.goodreads.com/book/show/49261156-programming-quantum-computers
+- https://www.goodreads.com/book/show/62713300-quantum-supremacy
+- https://www.goodreads.com/book/show/54391242-quantum-computing-for-everyone
 
 # Cheat sheet
 

@@ -684,6 +684,10 @@
 
 - [Mark Williams-Cook](https://coreupdates.com/profile)
 
+# Theatre
+
+- [Mihai Lukács: director / researcher / pop cultural historian](https://easterner.substack.com/archive)
+
 # Tool
 
 - https://vimtricks.substack.com/archive
@@ -805,6 +809,7 @@
 - https://substack.com/@dragospatraru/posts
 - [Sam Hogg: tracking Britain's foreign policy & diplomatic efforts in the world, with trade and other data too](https://britishdiplomacy.com/archive)
 - [Dói Ennoson: new trends in China](https://chinabusinessspotlight.substack.com/archive)
+- [Adela Greceanu, Matei Martin, Ella Moroiu - Vineri news](https://docs.google.com/forms/d/e/1FAIpQLSfaJlLguYKswwRxVXjlE8E5BS5ixfLCQRO80pSj_5pFmBZDIA/viewform)
 
 # Social sciences
 
