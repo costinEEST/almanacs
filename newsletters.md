@@ -269,14 +269,15 @@
 
 # Javascript
 
+- [Addy Osmani](https://addyo.substack.com/archive)
 - [Philip Roberts](http://latentflip.com/#)
 - [Nathan Lawson](https://astroweekly.beehiiv.com) 
 - [Alex Kotliarskyi](https://us3.campaign-archive.com/home/?u=96d6ac29ef7232f76b9edc7b9&id=79380afc5b)
 - [Rebecca Murphey](https://rmurphey.substack.com/archive)
-- Sébastien Lorber: https://thisweekinreact.com/newsletter
+- Sébastien Lorber: https://thisweekinreact.com/newsletter, https://substack.thisweekinreact.com/archive
 - [Bonnie Schulkin](https://handsonwebdev.substack.com/archive)
 - https://substack.com/@madsbrodt/posts
-- [Danny Moerkerke](https://modern-web-weekly.ghost.io)
+- [Danny Moerkerke](https://modernwebweekly.substack.com/archive)
 - [EventHandler Tel Aviv](https://us14.campaign-archive.com/home/?u=129f365a5675cdee0989d5f95&id=f44d0b638f)
 - [Scott Jehl](https://us18.campaign-archive.com/home/?u=c133136142bd16e4b4d7538a8&id=320a0da0d1)
 - [Jamie Birch](https://buttondown.email/whatever_jamie/archive)
@@ -425,7 +426,6 @@
 - [Vlad Dumitrescu](https://onlinebrew.substack.com/archive)
 - [Radu Ioan Stochița: politică industrială, noutăți din lumea sindicatelor și analize ale protestelor din jurul lumii](https://substack.com/@portavocea/posts)
 - [Cristian Lupșa](https://draftfour.substack.com/archive)
-- [Anca Maria Iosif: natură și natura umană](https://remediu.substack.com/archive)
 - [David McRaney: How Minds Change; You Are Not So Smart; You Are Now Less Dumb](https://davidmcraney.substack.com/archive)
 - https://sethabramson.substack.com/about
 - https://luciandavidescu.substack.com/archive
@@ -572,6 +572,8 @@
 - [Carbon Removal Updates](https://tito.co/archive) + https://coda.io/@tito/carbon-removal-101
 - https://liniaverde.substack.com/archive
 - [Ana-Maria Răducanu](https://magazinzerowaste.substack.com/archive)
+- [Patricia Cîrtog, Marian Ignat: climă și mediu înconjurător](https://noua.substack.com/archive)
+- [Anca Maria Iosif: natură și natura umană](https://remediu.substack.com/archive)
 
 # Energy
 
@@ -810,6 +812,8 @@
 - [Sam Hogg: tracking Britain's foreign policy & diplomatic efforts in the world, with trade and other data too](https://britishdiplomacy.com/archive)
 - [Dói Ennoson: new trends in China](https://chinabusinessspotlight.substack.com/archive)
 - [Adela Greceanu, Matei Martin, Ella Moroiu - Vineri news](https://docs.google.com/forms/d/e/1FAIpQLSfaJlLguYKswwRxVXjlE8E5BS5ixfLCQRO80pSj_5pFmBZDIA/viewform)
+- [Ruth Ben-Ghiat](https://lucid.substack.com/archive)
+- https://diananasulea.substack.com/archive
 
 # Social sciences
 
@@ -850,6 +854,8 @@
 - [Anna Levina](https://us17.campaign-archive.com/home/?u=64bb705f04cb50a8e46684856&id=839056e049)
 - https://nickipoststravelstuff.substack.com/archive
 - [Alex Enășescu: Iașul Nostru](https://www.iasulnostru.ro/archive)
+- https://iuhuubrasov.substack.com/archive
+- https://dragderasnov.substack.com/archive
 
 # Windows OS
 

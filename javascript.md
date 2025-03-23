@@ -62,6 +62,7 @@
 - [How to Design Programs | Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion)
 - https://www.freecodecamp.org/news/learn-to-code-book
 - [Mastering the Arcane Art of Writing Awesome JavaScript for C# Developers](https://github.com/Vintharas/javascriptmancy-code-samples)
+- https://www.skilldrick.co.uk/writing
 
 # Cheat sheet
 
