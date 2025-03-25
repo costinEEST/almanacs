@@ -153,6 +153,7 @@
 - [Elif Şafak: Turkish-British novelist and essayist](https://elifshafak.substack.com/archive)
 - [Ritobrata Ghosh](https://substack.com/@ritogh/posts)
 - https://substack.com/@mihaiguberneac/posts
+- https://substack.com/@tombutlerbowdon/posts
 
 # Business
 
@@ -778,6 +779,8 @@
 - [Dmitry Kudryavtsev](https://substack.com/profile/56264434-dmitry-kudryavtsev)
 - https://buttondown.com/tim_abell/archive, https://buttondown.com/rust_workshop/archive
 - [Mohammad Abir Abbas](https://substack.com/@uknowhoab1r/posts)
+- https://weeklyrust.substack.com/archive
+- [Bilal Khan](https://ibilalkayy.beehiiv.com)
 
 # Politics
 

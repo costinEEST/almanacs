@@ -54,7 +54,6 @@
 
 - https://github.com/jhuangtw/awesome-data
 - https://blog.gardeviance.org/2015/03/wardley-map-set-of-useful-posts.html
-- [A curated collection of diagramming tools used by leading software engineering teams](https://github.com/shubhamgrg04/awesome-diagramming)
 
 # Best practices
 
@@ -84,6 +83,7 @@
 - https://github.com/stars/vladiliescu/lists/charts
 - https://github.com/stars/vladiliescu/lists/dataviz
 - [A framework for computational node graphs](https://github.com/emilwidlund/nodl)
+- [A curated collection of diagramming tools used by leading software engineering teams](https://github.com/shubhamgrg04/awesome-diagramming)
 
 # Radio
 

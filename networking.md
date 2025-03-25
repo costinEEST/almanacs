@@ -286,7 +286,8 @@
 - https://blog.tomayac.com/2023/04/18/getting-my-domain-tomayac-de-back
 - [Tools for managing DNS across multiple providers](https://github.com/octodns/octodns)
 - [detects dangling DNS record in a multi cloud environment](https://github.com/anirudhbiyani/findmytakeover)
-- https://textslashplain.com/2019/11/06/thoughts-on-dns-over-https/
+- https://textslashplain.com/2019/11/06/thoughts-on-dns-over-https
+- https://www.slideshare.net/slideshow/understanding-dns-security/88167593
 
 # TCP/UDP
 
@@ -408,6 +409,10 @@
 # Jaber
 
 - https://dino.im/blog/2020/01/dino-0.1-release
+
+# NFC (Near-field communication)
+
+- https://www.slideshare.net/slideshow/architecture-and-development-of-nfc-applications/2026072
 
 # Network Time Protocol (NTP)
 

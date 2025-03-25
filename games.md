@@ -129,6 +129,7 @@
 - [City in a Bottle – A 256 Byte Raycasting System](https://news.ycombinator.com/item?id=40416109)
 - https://github.com/ThusSpokeNomad/GameNetworkingResources
 - https://github.com/badges/awesome-badges
+- [2D canvas boilerplate](https://github.com/Bilboramix/empty_js_gameloop)
 
 # The creators
 

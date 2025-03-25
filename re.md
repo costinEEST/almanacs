@@ -118,3 +118,4 @@
 - https://argp.github.io/2017/09/14/re-x86-microcode
 - https://binexplabs.iosifache.me
 - [Reverse engineering the 1997 game "Carmageddon"](https://github.com/dethrace-labs/dethrace)
+- [A noob's attempt at reverse engineering Google pay's Cash or Tez mode](https://github.com/nihalpasham/google_pay_ultrasound_tokens)

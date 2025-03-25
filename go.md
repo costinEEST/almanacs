@@ -72,6 +72,7 @@
 - https://github.com/TannerGabriel/learning-go
 - https://github.com/Go-Learning-Land/Go-Learning-Archive
 - [An interactive study of common retry methods](https://encore.dev/blog/retries)
+- https://github.com/karanpratapsingh/learn-go
 
 # Course
 
