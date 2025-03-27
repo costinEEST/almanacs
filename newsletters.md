@@ -817,6 +817,9 @@
 - [Adela Greceanu, Matei Martin, Ella Moroiu - Vineri news](https://docs.google.com/forms/d/e/1FAIpQLSfaJlLguYKswwRxVXjlE8E5BS5ixfLCQRO80pSj_5pFmBZDIA/viewform)
 - [Ruth Ben-Ghiat](https://lucid.substack.com/archive)
 - https://diananasulea.substack.com/archive
+- [Siyâvash Shahabi: speak freely and honestly about Iran, beyond headlines, beyond clichés, and beyond the usual narratives](https://linktr.ee/sia_shahabi), https://persianbridge.substack.com/archive
+- [Małgorzata Kulbaczewska-Figat, Veronika Sušová-Salminen and Vladimir Mitev: international relations](https://crossbordertalks.substack.com/archive)
+- https://substack.com/@mihaimarc/posts
 
 # Social sciences
 
