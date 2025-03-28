@@ -124,6 +124,7 @@
 - https://9to5mac.com/2024/10/09/passbook-lets-you-create-an-apple-wallet-pass-from-any-qr-code
 - [Desktop streaming to an Apple II with Super Serial Card](https://a2stuff.github.io/vnIIc)
 - [Disassembly of the Apple II Desktop - ProDOS GUI](https://github.com/a2stuff/a2d)
+- [Python-based `nvtop` inspired command line tool for Apple Silicon](https://github.com/tlkh/asitop), https://www.reddit.com/r/MacOS/comments/1axwltd/comment/krr81pd
 
 # Security
 
