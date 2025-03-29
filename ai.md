@@ -117,6 +117,10 @@
 - [Igo Math - Natural and Artificial Intelligence and the Game of Go](https://egri-nagy.github.io/igomath)
 - https://github.com/frnsys/ai_notes
 - https://github.com/dibgerge/ml-coursera-python-assignments
+- Phillip Isola
+  - [Deep Learning (Fall 2024)](https://phillipi.github.io/6.7960)
+  - [Embodied Intelligence (Spring 2024)](https://phillipi.github.io/6.s953/2024/Resources.html)
+  - [Advances in Computer Vision (Spring 2022)](http://6.869.csail.mit.edu/sp22)
 
 # Cinema
 
