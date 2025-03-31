@@ -820,6 +820,7 @@
 - [Siyâvash Shahabi: speak freely and honestly about Iran, beyond headlines, beyond clichés, and beyond the usual narratives](https://linktr.ee/sia_shahabi), https://persianbridge.substack.com/archive
 - [Małgorzata Kulbaczewska-Figat, Veronika Sušová-Salminen and Vladimir Mitev: international relations](https://crossbordertalks.substack.com/archive)
 - https://substack.com/@mihaimarc/posts
+- https://raduhossu.substack.com/archive
 
 # Social sciences
 
