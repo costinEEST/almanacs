@@ -334,8 +334,9 @@
 - https://puruvj.dev/blog/move-to-css-modules-from-styled-components
 - https://github.com/jamiebuilds/react-field-sizing-content
 
-#  Server side rendering
+# SSR (Server side rendering)
 
+- https://www.developerway.com/posts/ssr-deep-dive-for-react-developers
 - https://medium.com/javascript-in-plain-english/intro-to-react-server-side-rendering-3c2af3782d08
 - https://emergent.systems/posts/ssr-in-react
 - https://jeremenichelli.io/2020/05/a-progressive-search-experience-in-next
@@ -499,6 +500,10 @@
 - https://julesblom.com/writing/react-optional-parameters
 - https://richiemccoll.com/visualising-front-end-performance-bottlenecks
 - https://www.builder.io/blog/hydration-sabotages-lazy-loading
+
+# Static site 
+
+- https://blog.carlosn.com.br/post/writing-static-websites-with-vite-and-react
 
 # Testing
 
