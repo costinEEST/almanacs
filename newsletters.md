@@ -330,6 +330,7 @@
 - [Mridul Sengupta: VLSI](https://kunal-ghosh-company.optin.com/newsletter/awlist3810424)
 - https://substack.com/@leefelsenstein/posts
 - [Michał Zalewski](https://lcamtuf.substack.com/archive)
+- [Anastasiia Nosova: Chip design](https://anastasiintech.substack.com/archive)
 
 # Internet of money
 
