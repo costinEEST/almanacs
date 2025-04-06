@@ -259,6 +259,10 @@
 - [Jake Parker](https://www.mrjakeparker.com/newsletter)
 - https://ralphammer.substack.com/archive
 
+# Economy 
+
+- [Jeffrey David Sachs](https://us19.campaign-archive.com/home/?u=50ec04f7fdd8f247aecfa0ddf&id=f1791aaa63)
+
 # Event 
 
 - [7card](https://us6.campaign-archive.com/home/?u=9e94e95e9b847d93577c8c4de&id=a8dae129d2)
