@@ -90,6 +90,7 @@
 - https://voxa.ro/authors/george-french
   - https://voxa.ro/ebooks/printing-in-relation-to-graphic-art-2
 - [Apple's classic Pascal poster, remade as a vector image [pdf] (danamania.com)](https://news.ycombinator.com/item?id=38875551)
+- https://m.youtube.com/@Nerdwriter1/search?query=pulp
 
 # Historic
 

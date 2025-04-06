@@ -433,7 +433,6 @@
 - [Vlad Dumitrescu](https://onlinebrew.substack.com/archive)
 - [Radu Ioan Stochița: politică industrială, noutăți din lumea sindicatelor și analize ale protestelor din jurul lumii](https://substack.com/@portavocea/posts)
 - [Cristian Lupșa](https://draftfour.substack.com/archive)
-- [David McRaney: How Minds Change; You Are Not So Smart; You Are Now Less Dumb](https://davidmcraney.substack.com/archive)
 - https://sethabramson.substack.com/about
 - https://luciandavidescu.substack.com/archive
 
@@ -662,6 +661,7 @@
 - Anca Tiurean: https://ancatiurean.substack.com/archive, https://coincidentiaoppositorum.substack.com/archive
 - https://words.mattiasdesmet.org/archive
 - [Roni Firon Fouks](https://ronifouks.substack.com/archive)
+- [David McRaney: How Minds Change; You Are Not So Smart; You Are Now Less Dumb](https://davidmcraney.substack.com/archive)
 
 # Security
 
