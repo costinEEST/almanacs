@@ -262,6 +262,8 @@
 # Economy 
 
 - [Jeffrey David Sachs](https://us19.campaign-archive.com/home/?u=50ec04f7fdd8f247aecfa0ddf&id=f1791aaa63)
+- [Mariana Francesca Mazzucato](https://marianamazzucato.substack.com/archive)
+- [Matthew Green: liberal, democrat, activist](https://thinkingliberal.substack.com/archive)
 
 # Event 
 
