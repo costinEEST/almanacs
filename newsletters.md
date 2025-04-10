@@ -79,6 +79,7 @@
 - [Nathan Toups](https://functionallyimperative.com/archive)
 - [Padu Preda: teatru](https://substack.com/@radupreda/posts)
 - [Katiuska Pino | Venezuelan children's book illustrator](https://katiuska.substack.com/archive)
+- https://danielsemenciuc.substack.com/profile/posts
 
 # Artificial intelligence
 
