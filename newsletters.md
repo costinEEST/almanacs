@@ -129,6 +129,7 @@
 - https://tldr.tech/ai/archives
 - [Zain Kahn](https://www.superhuman.ai)
 - [David Shapiro: AI, Humanity, Future, Philosophy, and Systems Thinking](https://daveshap.substack.com/archive)
+- [Dekai Wu](https://dekai.substack.com/archive)
 
 # Biology
 
@@ -155,6 +156,7 @@
 - [Ritobrata Ghosh](https://substack.com/@ritogh/posts)
 - https://substack.com/@mihaiguberneac/posts
 - https://substack.com/@tombutlerbowdon/posts
+- https://substack.com/@carmendumitrescu3/posts
 
 # Business
 
@@ -203,6 +205,7 @@
 - Marketing, https://kevanlee.substack.com/archive
 - https://paulkrugman.substack.com/archive
 - https://radugeorgescu.substack.com/profile/posts
+- https://substack.com/@laviniapetrariu/posts
 
 # Buddhism
 
@@ -439,6 +442,8 @@
 - [Cristian Lupșa](https://draftfour.substack.com/archive)
 - https://sethabramson.substack.com/about
 - https://luciandavidescu.substack.com/archive
+- [Aaron Gillies](https://unsettledmind.substack.com/archive)
+- https://terenceclarke.substack.com/archive
 
 
 # Tips
@@ -831,6 +836,7 @@
 - [Małgorzata Kulbaczewska-Figat, Veronika Sušová-Salminen and Vladimir Mitev: international relations](https://crossbordertalks.substack.com/archive)
 - https://substack.com/@mihaimarc/posts
 - https://raduhossu.substack.com/archive
+- [Gabriela Bernal: Korean Peninsula scholar specializing in US-DPRK and inter-Korean relations](https://www.peninsuladispatch.com/archive)
 
 # Social sciences
 

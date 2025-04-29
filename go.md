@@ -38,6 +38,7 @@
 - https://www.manning.com/books/hacking-cryptography
 - https://www.manning.com/books/learn-concurrent-programming-with-go
 - https://github.com/astaxie/build-web-application-with-golang
+- https://www.bytesizego.com/books/anatomy-of-go
 
 # Boot
 
