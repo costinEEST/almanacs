@@ -14,7 +14,6 @@
 - https://whistlr.info/2021/box-model-animation
 - [Amit Sheen - 3D in CSS, and the True Meaning of Perspective](https://m.youtube.com/watch?v=oDXPIFHqyGI&list=PLIfpjYCKV3lVpwHYCExIUAl9tWB3UzcG6&index=20) + [What triggers reflows](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) + https://github.com/GoogleChromeLabs/css-triggers + https://web.archive.org/web/20220727225220/https://csstriggers.com + [How To Use CSS Animations And Stay Performant (And Accessible)](https://youtu.be/93kLe0wJbJY) + [Amit Sheen | Getting Creative with Keyframes](https://youtu.be/kXh3EMpaLFo)
 - https://jonsuh.com/blog/detect-the-end-of-css-animations-and-transitions-with-javascript
-- https://github.com/petargyurov/virtual-bookshelf
 - https://kevinhufnagl.com/verceltext-gradient
 - https://github.com/prideout/pageturn
 

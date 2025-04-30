@@ -134,3 +134,5 @@
 
 - [Andrico Karoulla](https://andri.co/bookshelf)
 - https://davidakennedy.com/reading
+- https://petargyurov.com/bookshelf
+- [Pratik Mallya](https://blog.mallya.dev/2022/05/09/virtual-bookshelf)
