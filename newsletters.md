@@ -130,6 +130,7 @@
 - [Zain Kahn](https://www.superhuman.ai)
 - [David Shapiro: AI, Humanity, Future, Philosophy, and Systems Thinking](https://daveshap.substack.com/archive)
 - [Dekai Wu](https://dekai.substack.com/archive)
+- [Gabriel Weinberg](https://thegreatrace.substack.com/archive)
 
 # Biology
 
@@ -665,6 +666,7 @@
 
 # Psychology
 
+- [Joyce Zhang](https://thejoycezhang.substack.com/archive)
 - https://danielpink.substack.com/archive
 - [Matt Abrahams](https://nofreakingspeaking.com/think-fast-talk-smart-the-newsletter)
 - Anca Tiurean: https://ancatiurean.substack.com/archive, https://coincidentiaoppositorum.substack.com/archive
