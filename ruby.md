@@ -438,6 +438,7 @@
 - https://skatkov.com/2020/03/26/lessons-from-building-another-url-shortener.html + https://github.com/skatkov/acart
 - https://blog.yossarian.net/2015/09/28/Five-Things-I-Hate-About-Ruby
 - https://shopify.engineering/building-resilient-payment-systems
+- https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js
 
 # Pattern
 

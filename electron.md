@@ -114,3 +114,4 @@
 - [frameless browser for screenshots](https://github.com/antfu/broz)
 - https://betterprogramming.pub/tauri-vs-electron-for-tray-apps-ed15974f35ce
 - [A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)](https://github.com/mikaelbr/node-notifier)
+- https://github.com/stars/KXLAA/lists/electron-release-servers

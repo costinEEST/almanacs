@@ -39,6 +39,7 @@
 - [Set up a macOS device for development in one script](https://gist.github.com/rozenmd/31632990947a5bfbd53448106599b10d)
 - https://github.com/hsavit1/Awesome-tvOS
 - https://www.eddyvinck.com/blog/how-to-test-apple-pay-for-web
+- https://www.stefanjudis.com/today-i-learned/the-macos-inline-dictionary-has-a-shortcut, https://saurabhs.org/macos-tips
 
 # Community
 
@@ -125,6 +126,7 @@
 - [Desktop streaming to an Apple II with Super Serial Card](https://a2stuff.github.io/vnIIc)
 - [Disassembly of the Apple II Desktop - ProDOS GUI](https://github.com/a2stuff/a2d)
 - [Python-based `nvtop` inspired command line tool for Apple Silicon](https://github.com/tlkh/asitop), https://www.reddit.com/r/MacOS/comments/1axwltd/comment/krr81pd
+- https://sindresorhus.com/googly-eyes
 
 # Security
 

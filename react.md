@@ -80,6 +80,10 @@
 - https://portal.gitnation.org/contents/remote-rendering-with-web-workers + https://shopify.engineering/remote-rendering-ui-extensibility
 - [Webxr with Three.js](https://m.youtube.com/playlist?list=PLpM_sf_d5YTPXeVp4cmgN_cNBj9pNTEmZ)
 
+# Community 
+
+- https://youssefbenlemlih.notion.site/The-Frontend-Kit-81c0379323c947fa99d39cf3065758d4
+
 #  Demo
 
 - https://github.com/ustaxes/UsTaxes
@@ -333,6 +337,8 @@
 - https://www.julienthibeaut.xyz/blog/create-spotlight-border-with-react-css
 - https://puruvj.dev/blog/move-to-css-modules-from-styled-components
 - https://github.com/jamiebuilds/react-field-sizing-content
+- https://storybook.react95.io
+- [Avoids FOUC with a cookie instead of inlined JS](https://sergiodxa.com/tutorials/add-a-color-scheme-toggle-in-react-router)
 
 # SSR (Server side rendering)
 
@@ -539,6 +545,7 @@
 - https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme + https://m.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
 - https://github.com/richiemccoll/book-search-tdd-react
 - [Assert a side effect did not happen](https://www.epicweb.dev/inverse-assertions)
+- [TDD workshop](https://github.com/abruzzi/code-oven)
 
 #  Tool
 

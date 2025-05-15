@@ -43,6 +43,7 @@
 - [Intro to Artificial Neural Networks for High Schoolers](https://github.com/ohhh25/ai-book)
 - [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+- [Paths. Why is life filled with so many detours? | András Gulyás, Zalán Heszberger, József Biró](https://link.springer.com/book/10.1007/978-3-030-47545-1)
 
 # Cheat sheet
 

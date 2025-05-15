@@ -14,6 +14,7 @@
 - https://www.goodreads.com/book/show/49261156-programming-quantum-computers
 - https://www.goodreads.com/book/show/62713300-quantum-supremacy
 - https://www.goodreads.com/book/show/54391242-quantum-computing-for-everyone
+- [Quantized Detector Networks. The Theory of Observation | George Jaroszkiewicz](https://www.cambridge.org/core/books/quantized-detector-networks/1EECE29227BD74BCCAA84B95505507F6)
 
 # Cheat sheet
 

@@ -266,6 +266,7 @@
 # Tool
 
 - https://lab.html5test.com
+- [Support tables for HTML and CSS in emails](https://github.com/hteumeuleu/caniemail)
 - https://learn.better.dev/courses/faster-coding-with-emmet
 - https://livedom.lab.xss.academy + https://twitter.com/SecurityMB/status/1318988961990193153
 - [Browser support on link and script events](https://pie.gd/test/script-link-events)

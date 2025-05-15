@@ -52,6 +52,7 @@
 - https://remotesynthesis.com/blog/full-stack-without-react
 - https://thenewstack.io/how-astro-and-its-server-islands-compare-to-react-frameworks
 - https://jakelazaroff.com/words/whats-a-single-page-app
+- https://d13z.dev/blog/07-why-kleinanzeigen-picked-astro-over-nextjs
 
 # Watch
 
