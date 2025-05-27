@@ -74,6 +74,7 @@
 - https://www.nearform.com/blog/architecting-electron-applications-for-60fps
 - https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html
 - https://pietrasiak.com/creating-multi-window-electron-apps-using-react-portals
+- https://palette.dev/blog/improving-performance-of-electron-apps
 
 # Security
 

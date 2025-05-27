@@ -302,6 +302,7 @@
 - [Practical Guide To Not Blocking The Event Loop](https://www.bbss.dev/posts/eventloop): A look at the core principles of synchronous and asynchronous work in a single-threaded environment, stressing the importance of non-blocking code for efficient event loop utilization.
 - https://nodesource.com/blog/State-of-Nodejs-Performance-2024
 - https://blog.nuculabs.dev/posts/2023/2023-08-07-opentelemetry-nodejs
+- https://freedium.cfd/https://medium.com/@codeperfect/we-tested-7-languages-under-extreme-load-and-only-one-didnt-crash-it-wasn-t-what-we-expected-67f84c79dc34
 
 # Deploy
 
@@ -730,6 +731,7 @@
 - https://github.com/RafaelGSS/is-my-node-vulnerable
 - [A collection of modules to secure your express.js application](https://github.com/sebasyii/zeno)
 - [possible security issues with Node.js and MongoDB](https://github.com/thomasheyenbrock/rent-a-hacker)
+- https://socket.dev/blog/60-malicious-npm-packages-leak-network-and-host-data
 
 # CMS
 

@@ -337,6 +337,7 @@
 - https://maximilianocontieri.com/code-smell-180-bitwise-optimizations
 - https://github.com/erikwiffin/0.30000000000000004 + https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004 + https://news.ycombinator.com/item?id=34708756
 - https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm
+- https://allthingssmitty.com/2025/05/19/how-javascript-at-method-makes-array-indexing-easier
 
 # default arguments
 
@@ -736,6 +737,7 @@
 
 # Opinion
 
+- https://deno.com/blog/history-of-javascript
 - [Oracle, it’s time to free JavaScript](https://javascript.tm)
 - [Building better developers by specifying criteria of success](https://github.com/prettydiff/wisdom)
 - https://github.com/justinamiller/SoftwareArchitect

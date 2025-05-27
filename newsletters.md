@@ -380,6 +380,7 @@
 - [Matt Gamber](https://mattbiotech.substack.com/archive)
 - [Laurențiu Vană](https://theweeklyblend.substack.com/archive)
 - [Ian Cutress & Ryan Smith - The latest in semiconductors: silicon, AI, processors, market trends](https://morethanmoore.substack.com/archive)
+- [AJ Kourabi](https://chipchatter.substack.com/archive), https://www.ajkourabi.com/everything-else/metascience-reading-list
 
 # iOS
 

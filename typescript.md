@@ -16,6 +16,7 @@
 - https://github.com/CodelyTV/typescript-ddd-example
 - [Quickly create and configure a new library or Node.js project](https://github.com/bitjson/typescript-starter)
 - [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
+- https://github.com/seanpmaxwell/express-generator-typescript
 
 # Cheat sheet
 

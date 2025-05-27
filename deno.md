@@ -13,6 +13,7 @@
 # Opinion
 
 - https://deno.com/blog/you-dont-need-a-build-step
+- https://deno.com/blog/greatly-exaggerated
 
 # Practice
 
