@@ -67,6 +67,7 @@
 - https://github.com/electron-react-boilerplate/electron-react-boilerplate
 - https://github.com/cawa-93/vite-electron-builder
 - [Next.js + Electron ](https://github.com/saltyshiomix/nextron)
+- https://www.dolthub.com/blog/2025-05-29-building-a-linux-electron-app
 
 # Opinion
 

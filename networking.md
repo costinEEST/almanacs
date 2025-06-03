@@ -544,6 +544,7 @@
 - https://blog.kanbach.org/post/firewalls-under-the-hood-ufw
 - https://www.jdno.dev/designing-a-new-home-server
 - https://adventofcomputing.libsyn.com/episode-10-notes-american-networking
+- https://systemsapproach.org/2024/04/29/security-and-the-internet-hourglass
 
 # Voice over Internet Protocol (VoIP)
 

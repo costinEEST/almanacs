@@ -166,6 +166,7 @@
 - https://guzey.com/autistic-leaders
 - [The best leaders are great individual contributors, not professional managers](https://news.ycombinator.com/item?id=33843160)
 - https://www.joshwaitzkin.com/recommended-reading-leadership-culture
+- https://www.amazon.com/Debrief-Win-Accountable-Leadership-Debrief-Focused/dp/1732929807
 
 # Strategy
 

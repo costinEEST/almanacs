@@ -319,6 +319,7 @@
 - [Prototype implementation of ES6 modules](https://github.com/rossberg/js-modules) + https://twitter.com/tomprimozic/status/1433013949998456836 + https://people.mpi-sws.org/~rossberg/f-ing + https://people.mpi-sws.org/~rossberg/1ml + https://twitter.com/tomprimozic/status/1443141996512694274 + https://people.mpi-sws.org/~rossberg/mixml
 - [Pseudo implementation of the proposed ES6 module loaders](https://github.com/jorendorff/js-loaders)
 - https://satya164.page/posts/publishing-dual-module-esm-libraries
+- https://github.com/joyeecheung/talks/blob/master/webhackfest_2025/bridging-commonjs-and-esm-in-nodejs.pdf
 
 # lexical scoping
 
@@ -394,7 +395,7 @@
 - https://blogtitle.github.io/using-javascript-sharedarraybuffers-and-atomics
 - [Transferring data across the JS/Wasm boundary typically involves copying memory](https://twitter.com/paulgb/status/1700148548887581073)
 
-# new Date()
+# `new Date()`
 
 - [One page calendar 2020](https://davebakker.io/onepagecalendar)
 - [Wondering how to best display the current time (hh:mm) on a web page.](https://twitter.com/rauschma/status/1228056819567910914)
@@ -403,6 +404,7 @@
 - https://www.builder.io/blog/relative-time
 - https://docs.timetime.in/blog/js-dates-finally-fixed
 - https://docs.timetime.in/blog/how-long-is-a-second-in-js
+- https://waspdev.com/articles/2025-05-24/temporal-api#what_s_wrong_with_javascript_a_date_object
 
 # new Error()
 

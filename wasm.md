@@ -56,6 +56,7 @@
 # Debug
 
 - https://shopify.engineering/debugging-server-side-webassembly
+- https://thenewstack.io/the-state-of-javascript-debugging-in-webassembly
 
 # Deploy 
 
