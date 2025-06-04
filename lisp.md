@@ -16,6 +16,7 @@
 
 - https://m.youtube.com/c/LondonClojurians/playlists
 - ["Stop Writing Dead Programs" by Jack Rusher](https://twitter.com/awbjs/status/1579900617308655616)
+- https://ericnormand.me/podcast/the-1-most-important-idea-in-computer-science, http://theannotatedturing.com
 
 # Community
 

@@ -37,6 +37,10 @@
 
 - https://www.patreon.com/defn
 
+# Static website
+
+- https://github.com/schmudde/blog
+
 # Tool
 
 - https://corfield.org/blog/2022/12/18/calva-joyride-portal
