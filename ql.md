@@ -31,6 +31,8 @@
 - https://goingbeyondgrep.com/posts/a-deeper-look-at-modern-sast-tools
 - https://github.blog/2023-03-09-multi-repository-variant-analysis-a-powerful-new-way-to-perform-security-research-across-github
 - [How Semgrep and Nuclei Are Shaping the Future of Security Engineering](https://dualuse.io/blog/harnessing-the-hive-mind)
+- https://parsiya.net/blog/2021-06-22-semgrep-the-surgical-static-analysis-tool
+- [Modern Static Analysis: how the best tools empower creativity](https://devd.me/log/posts/static-analysis)
 
 # Radio
 

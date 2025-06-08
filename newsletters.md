@@ -340,6 +340,7 @@
 - https://substack.com/@leefelsenstein/posts
 - [Michał Zalewski](https://lcamtuf.substack.com/archive)
 - [Anastasiia Nosova: Chip design](https://anastasiintech.substack.com/archive)
+- [Emilio García García: Noticias de semiconductores](https://substack.com/@emiliogarciagarcia362935/posts)
 
 # Internet of money
 
