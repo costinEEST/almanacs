@@ -42,6 +42,7 @@
 - https://github.com/zachleat/web-font-loading-recipes
 - [If you use `clamp` with `calc` for things like fluid typography, you can drop the `calc`](https://twitter.com/stefanjudis/status/1545837995047243779)
 - [Should I change the default HTML font-size to 62.5%?](https://fedmentor.dev/posts/rem-html-font-size-hack) + https://twitter.com/KevinJPowell/status/1646118183428915200
+- https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper
 
 # Font
 
