@@ -208,6 +208,7 @@
 - https://paulkrugman.substack.com/archive
 - https://radugeorgescu.substack.com/profile/posts
 - https://substack.com/@laviniapetrariu/posts
+- [David Oliver Sacks: founder](https://sacks.substack.com/archive)
 
 # Buddhism
 
@@ -451,6 +452,7 @@
 - https://terenceclarke.substack.com/archive
 - [Németh Róbert](https://substack.com/@nmethrbert/posts)
 - [Ionuț Stăncelu: Pasionat de științe politice, istorie modernă și teologie, pe care le explorez prin instrumentele de gândire oferite de filosofie](https://substack.com/@ionutstancelu/posts)
+- [Maria Țoghină](https://substack.com/@bucurestifm/posts)
 
 
 # Tips
@@ -839,7 +841,7 @@
 - https://substack.com/@dragospatraru/posts
 - [Sam Hogg: tracking Britain's foreign policy & diplomatic efforts in the world, with trade and other data too](https://britishdiplomacy.com/archive)
 - [Dói Ennoson: new trends in China](https://chinabusinessspotlight.substack.com/archive)
-- [Adela Greceanu, Matei Martin, Ella Moroiu - Vineri news](https://docs.google.com/forms/d/e/1FAIpQLSfaJlLguYKswwRxVXjlE8E5BS5ixfLCQRO80pSj_5pFmBZDIA/viewform)
+- [Adela Greceanu, Matei Martin, Ella Moroiu - Vineri news (ArtLiteram)](https://docs.google.com/forms/d/e/1FAIpQLSfaJlLguYKswwRxVXjlE8E5BS5ixfLCQRO80pSj_5pFmBZDIA/viewform), https://us13.campaign-archive.com/home/?u=c83b63dcd1a1459b22fcc0f48&id=76e7817077
 - [Ruth Ben-Ghiat](https://lucid.substack.com/archive)
 - https://diananasulea.substack.com/archive
 - [Siyâvash Shahabi: speak freely and honestly about Iran, beyond headlines, beyond clichés, and beyond the usual narratives](https://linktr.ee/sia_shahabi), https://persianbridge.substack.com/archive
@@ -871,6 +873,10 @@
 - [Andreea Giuclea](https://povestidinsport.substack.com/archive)
 - [Vlad Bogos: Fotbal pentru weekend](https://tackle.ro/newsletter)
 - https://fcargesinsider.substack.com/archive
+
+# Swift 
+
+- https://adamlyttleapps.substack.com/archive
 
 # Travel
 
