@@ -165,6 +165,7 @@
 - https://github.com/ahmadnassri/action-semantic-release
 - https://www.lloydatkinson.net/posts/2022/scheduling-webhook-and-api-calls-with-github-actions
 - [action to mirror a repository to S3 compatible object storage](https://github.com/peter-evans/s3-backup)
+- https://yossarian.net/til/post/preserving-old-github-pages-urls-while-migrating-a-repo
 
 # Tool
 

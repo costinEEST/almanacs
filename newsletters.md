@@ -328,6 +328,7 @@
 - [Genealogy, history and culture of the Sephardim, focused on the Spanish and Portuguese Jewish diaspora](https://us12.campaign-archive.com/home/?u=15233972a829161e2c117fb4a&id=d3e884d2c5)
 - [Szántai Gábor: Hungarian history](https://substack.com/@gaborszantai/posts)
 - [Jacob Hagstrom: American historian musing on political, military and cultural questions](https://substack.com/@jnh18/posts)
+- https://heathercoxrichardson.substack.com/archive
 
 # Hardware
 

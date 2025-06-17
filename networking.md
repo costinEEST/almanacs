@@ -476,6 +476,7 @@
 - https://www.leggetter.co.uk/real-time-web-technologies-guide + https://github.com/leggetter/realtime-web-technologies-guide + https://github.com/leggetter/realtime-app-dev-tips
 - https://lucumr.pocoo.org/2012/9/24/websockets-101
 - [WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport (rxdb.info)](https://news.ycombinator.com/item?id=39745993)
+- https://jorianwoltjer.com/blog/p/research/obs-websocket-rce
 
 # Server-Sent Events (SSE)
 

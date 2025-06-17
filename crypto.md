@@ -142,6 +142,7 @@
 - https://github.com/soatok/mastodon-e2ee-specification
 - https://blog.sigstore.dev/openpubkey-and-sigstore
 - https://kerkour.com/signatures-modern-end-to-end-encryption - how PGP works and the principal reason it's criticized by cryptographers
+- https://www.latacora.com/blog/2020/02/19/stop-using-encrypted, https://bsky.app/profile/sockpuppet.org/post/3lrbnc7smxs2j
 
 # Transport Layer Security (TLS)
 
