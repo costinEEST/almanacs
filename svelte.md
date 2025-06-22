@@ -66,6 +66,7 @@
 - https://github.com/maiertech/website
 - https://github.com/higsch/uk_house_prices_vs_earnings
 - https://github.com/swyxio/swyxdotio
+- https://github.com/jeffcarp/chinesedict
 
 # Miscellaneous
 

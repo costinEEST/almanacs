@@ -53,6 +53,7 @@
 - https://blog.cryptographyengineering.com/2023/04/24/book-review-red-team-blues
 - [Best Current Practices regarding secure online communication and configuration of services using cryptography](https://github.com/BetterCrypto/Applied-Crypto-Hardening)
 - [A Panorama on Classical Cryptography; Designing, Implementing, Breaking, Verifying, and Standardizing Cryptography | Benoît Viguier](https://benoit.viguier.nl/files/phd-thesis.pdf)
+- [Crypto: How the Code Rebels Beat the Government—Saving Privacy in the Digital Age](https://www.goodreads.com/book/show/984428.Crypto)
 
 # Course
 
@@ -110,6 +111,7 @@
 
 - [Store a secret securely in a standalone HTML file](https://github.com/derhuerst/html-vault)
 - [Tell your crush you like them with zero-knowledge](https://github.com/amirgamil/zk-crush)
+- https://www.jeffcarp.com/posts/2025/post-quantum-cryptography-jax
 
 # Historic
 

@@ -12,6 +12,7 @@
 
 # Book
 
+- [AlphaGo Simplified (CRC Press 2024). Implement ideas behind Deep Blue (rule-based AI) and AlphaGo (rule-based AI + Deep Learning) in three simple games: Last Coin Standing, Tic Tac Toe, and Connect Four](https://github.com/markhliu/AlphaGoSimplified) 
 - https://plugaru.org/2021/03/10/a-thousand-brains
 - [Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook)
 - [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF)

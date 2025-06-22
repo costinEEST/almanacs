@@ -1,5 +1,6 @@
 # Book
 
+- https://derekchia.com/web-scalability-for-startup-engineers-book-review-and-takeaways, https://github.com/mgtz505/web_scalability
 - [Tell-all company origin story](https://twitter.com/SachinMonga/status/1178522941954220033)
 - [I'm recommending my team read these five books.](https://twitter.com/dcancel/status/1206918216309706752)
 - https://stratechery.com/2019/shopify-and-the-power-of-platforms/
@@ -105,6 +106,7 @@
 # Management
 
 - https://github.com/charlax/engineering-management
+- https://www.jeffcarp.com/posts/2025/reflections-on-management/
 - https://www.coursera.org/learn/uva-darden-digital-product-management#syllabus
 - https://textslashplain.com/2022/05/18/thoughts-on-impact
 - https://twitter.com/dabit3/status/1214711699145543680 + https://twitter.com/dan_abramov/status/1203486500731719681 + https://twitter.com/kurtiskemple/status/986746802073423873
@@ -332,6 +334,7 @@
 - https://github.com/yongfook/saas-growth-articles
 - https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines
 - https://www.theverge.com/2023/7/31/23813929/dell-generative-ai-laptops-amazon
+- https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer
 
 # Opinion
 
