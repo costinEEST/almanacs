@@ -48,6 +48,7 @@
 - http://redsymbol.net/articles/bash-exit-traps
 - https://github.com/jonahsnider/setup-linux
 - https://github.com/tokland/tokland/blob/master/google-books/download_google_book.sh
+- https://www.scalzotto.nl/posts/jwt-decode
 
 # Cinema
 

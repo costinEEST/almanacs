@@ -84,6 +84,8 @@
 
 # Artificial intelligence
 
+- [Andrew Yan-Tak Ng](https://www.deeplearning.ai/the-batch)
+- https://doctorpenguin.com/newsletters
 - https://substack.com/@yvettpan0508/posts
 - https://marklwatson.substack.com/archive
 - [Machine learning monthly](https://zerotomastery.io/blog/?tag=MLM)
@@ -132,6 +134,8 @@
 - [David Shapiro: AI, Humanity, Future, Philosophy, and Systems Thinking](https://daveshap.substack.com/archive)
 - [Dekai Wu](https://dekai.substack.com/archive)
 - [Gabriel Weinberg](https://thegreatrace.substack.com/archive)
+- [Frank Kane](https://us10.campaign-archive.com/home/?u=21e94d0bc3f8c496308518d56&id=3608f29fda)
+- [Avi Chawla](https://blog.dailydoseofds.com/archive)
 
 # Biology
 
