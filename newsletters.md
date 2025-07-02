@@ -311,6 +311,10 @@
 
 - [Jewish Studies at Fordham University](https://us13.campaign-archive.com/home/?u=f000ad8783f4985c05ec1a11c&id=df05eee35a)
 
+# Law 
+
+- https://substack.com/@ruxandrasava/posts
+
 # Linguist
 
 - [Dan Ungureanu](https://baricadaromania.substack.com/archive)

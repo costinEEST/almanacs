@@ -599,6 +599,7 @@ javascript: (() =>
 - [Blender session in the browser over WebRTC](https://twitter.com/paulgb/status/1583460709538492416)
 - [Karl Stolley, author of Programming WebRTC](https://forum.devtalk.com/t/spotlight-karl-stolley-author-interview-and-ama/82817)
 - [Polyfill for WebRTC in Workers](https://github.com/johanholmerin/worker-webrtc)
+- https://github.com/mobinsheng/books
 
 # Canvas
 

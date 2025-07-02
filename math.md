@@ -129,6 +129,7 @@
 - [Burkard Polster](https://m.youtube.com/c/Mathologer/playlists) + [Putting Two and Two Together: Selections from the Mathologer Files](https://bookstore.ams.org/mbk-141)
 - [Matematici pentru politehnisti | ALEXANDRU ȘTEFAN NEGRESCU](https://m.youtube.com/channel/UCRcpjorgGE-3-Z-Sg5wu70Q/playlists) + [Admitere UPB 2021 - Matematică](https://m.youtube.com/playlist?list=PLn9oGSe656KTrTYpH8Yjg9rh7j20YmSPj)
 - [Numerical linear algebra | Toby Driscoll](https://m.youtube.com/playlist?list=PLvUvOH0OYx3AZ_WXhkLXo3JLSeGT2wLj3)
+- https://www.gresham.ac.uk/watch-now/series/maths-money
 
 # Community
 
