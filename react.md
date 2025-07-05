@@ -149,6 +149,11 @@
 - https://github.com/quran/quran.com-frontend
 - [WebFlow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere](https://github.com/webstudio-is/webstudio)
 
+
+# Game 
+
+- https://gitlab.com/morcosan/assignment-magnolia
+
 #  Radio
 
 - [React Round Up](https://devchat.tv/react-round-up)

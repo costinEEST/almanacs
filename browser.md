@@ -561,6 +561,7 @@ javascript: (() =>
 - https://mikebifulco.com/posts/own-your-work-with-canonical-tags
 - https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process
 - [The SEO Roadmap with Free Resources & Tools](https://learningseo.io)
+- [How 16 Companies are Dominating the World’s Google Search Results (2024 Edition)](https://detailed.com/google-control)
 
 # Server-sent events (SSE)
 

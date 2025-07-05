@@ -129,6 +129,7 @@
 - [Christian Houmann](https://bagerbach.com/books)
 - [Radek Pietruszewski](https://radex.io/books)
 - [Mohnish Pabrai](https://www.chaiwithpabrai.com/bookshelf.html)
+- [Chris Krycho](https://v5.chriskrycho.com/library/reading-list)
 
 # Shelf 
 

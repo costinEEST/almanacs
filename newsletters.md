@@ -672,6 +672,7 @@
 # Literature
 
 - [Bogdan Popa: reflections on film and politics; film studies, psychoanalysis and Marxism](https://iamanintellectual.substack.com/archive)
+- https://roxanafarca.substack.com/archive
 
 # NodeJS
 
@@ -906,6 +907,7 @@
 - [Alex Enășescu: Iașul Nostru](https://www.iasulnostru.ro/archive)
 - https://iuhuubrasov.substack.com/archive
 - https://dragderasnov.substack.com/archive
+- https://alexandrufarca.substack.com/archive
 
 # Windows OS
 
