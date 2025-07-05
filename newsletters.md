@@ -117,7 +117,8 @@
 - https://www.matthewberman.com
 - [Alexandru-Cosmin Voica](https://substack.com/@alexvoica/posts)
 - [Alexandru Vesa; Alexandru Răzvanț; Paul Iusztin; Rareș Istoc](https://decodingml.substack.com/archive)
-- [Alexandru Răzvanț](https://neuralbits.substack.com/archive), https://github.com/Joywalker?tab=stars, https://medium.com/@arazvant/machine-learning-start-with-baby-yoda-steps-80fabcadfe12
+- [Alexandru Răzvanț](https://multimodalai.substack.com/archive), https://github.com/Joywalker?tab=stars, https://medium.com/@arazvant/machine-learning-start-with-baby-yoda-steps-80fabcadfe12
+- [Miguel Otero Pedrido](https://theneuralmaze.substack.com/archive)
 - [Daniel Năstase](https://www.js-craft.io)
 - https://mckaywrigley.substack.com/archive
 - [Ian Nuttall](https://substack.com/@cursorcasts/posts)
@@ -136,6 +137,7 @@
 - [Gabriel Weinberg](https://thegreatrace.substack.com/archive)
 - [Frank Kane](https://us10.campaign-archive.com/home/?u=21e94d0bc3f8c496308518d56&id=3608f29fda)
 - [Avi Chawla](https://blog.dailydoseofds.com/archive)
+- 
 
 # Biology
 
@@ -449,7 +451,7 @@
 
 # Journalism
 
-- [Codruța Simina & Ovidiu Mihalcea: știri despre știrile false](https://misreport.substack.com/archive)
+- [Codruța Simina & Ovidiu Mihalcea: știri despre știrile false](https://www.misreport.ro/archive)
 - [Scott Carney](https://sgcarney.substack.com/archive)
 - [PressHub](https://us4.campaign-archive.com/home/?u=50b20f622d93fed5402d4468d&id=789e1e94ba)
 - [Vlad Dumitrescu](https://onlinebrew.substack.com/archive)

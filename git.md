@@ -3,6 +3,7 @@
 - [report CSS diffs to PR's](https://github.com/projectwallace/css-diff-action)
 - [Deploy your Vue app to github pages using vite](https://github.com/skywarth/vite-github-pages-deployer)
 - https://stordahl.dev/writing/preview-deploys
+- [Workflow for automated tests](https://github.com/dexonline/dexonline/pull/988)
 
 # Book
 
@@ -197,3 +198,4 @@
 - https://github.com/awslabs/git-secrets
 - https://www.praetorian.com/blog/self-hosted-github-runners-are-backdoors
 - https://blog.ryotak.net/post/github-actions-staff-access-token-en
+- [I scanned all of GitHub's "oops commits" for leaked secrets (trufflesecurity.com)](https://news.ycombinator.com/item?id=44452317)
