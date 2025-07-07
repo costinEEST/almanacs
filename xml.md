@@ -24,6 +24,10 @@
 - http://raviramesh.info/xml-attacks.html
 - https://github.com/abhaybhargav/chatgpt-node-app
 
+# Tool 
+
+- [2021-08-24 IBPSA BuildingSync and Schematron](https://docs.google.com/presentation/d/16wpjtIqwqj0yagdQcObRzdDI6l_gYxCX), https://buildingsync.net/validator, https://github.com/BuildingSync/use-cases/blob/bc633208c5d266e64f03b640e7e4a7694221d557/ASHRAE_211/schematron/L200_Audit-1.0.0.sch
+
 # Opinion
 
 - https://alexwlchan.net/2015/12/pretty-print

@@ -132,6 +132,7 @@
 - https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html,prototype
 - https://nautil.us/why-nature-prefers-hexagons-235863
 - [50% of the global economy is under threat from biodiversity loss](https://www.weforum.org/agenda/2023/02/biodiversity-nature-loss-cop15)
+- https://www.nytimes.com/2025/05/02/health/snakes-universal-antivenom-tim-friede.html
 
 # Teachers
 

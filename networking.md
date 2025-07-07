@@ -481,6 +481,7 @@
 # Server-Sent Events (SSE)
 
 - https://simonprickett.dev/a-look-at-server-sent-events
+- https://docs.google.com/presentation/d/1i2vT6nMrRUsmFusH8HL-0fHZUEifyniL_8q0f0pBCBg
 
 # P2P
 

@@ -31,6 +31,7 @@
 - [Screenflow](https://twitter.com/nathanstocks/status/1586017083879436288)
 - [The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders](https://wrv.github.io/h26forge.pdf)
 - https://pietrasiak.com/fast-video-rendering-and-encoding-using-web-apis
+- https://www.theverge.com/22832137/video-call-how-to-look-good-zoom-webex
 
 # Tool
 

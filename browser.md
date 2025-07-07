@@ -639,6 +639,7 @@ javascript: (() =>
 - https://secfense.com/blog/fido2-authentication-explained
 - https://www.youtube.com/watch?v=SWocv4BhCNg + https://fidoalliance.org/passkeys
 - https://nelsonslog.wordpress.com/2024/03/22/passkeys-still-awkward-in-mar-2024-android-chrome-windows-1password + https://nelsonslog.wordpress.com/2024/03/23/passkeys-try-two
+- https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys
 
 # `WebGL`
 

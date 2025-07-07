@@ -4,6 +4,7 @@
 - [Deploy your Vue app to github pages using vite](https://github.com/skywarth/vite-github-pages-deployer)
 - https://stordahl.dev/writing/preview-deploys
 - [Workflow for automated tests](https://github.com/dexonline/dexonline/pull/988)
+- https://github.com/macintoshpie/ghactionsbyexample, https://www.actionsbyexample.com
 
 # Book
 
@@ -167,6 +168,7 @@
 - https://www.lloydatkinson.net/posts/2022/scheduling-webhook-and-api-calls-with-github-actions
 - [action to mirror a repository to S3 compatible object storage](https://github.com/peter-evans/s3-backup)
 - https://yossarian.net/til/post/preserving-old-github-pages-urls-while-migrating-a-repo
+- https://www.tedsummer.com/#root/sometimes-I-write/github-pages-snippets/how-to-setup-gh-pages-for-static-sites-no-build/add-A-records
 
 # Tool
 

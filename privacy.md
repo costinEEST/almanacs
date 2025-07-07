@@ -23,6 +23,7 @@
 - [Updated list of public BitTorrent trackers](https://github.com/ngosang/trackerslist)
 - https://iq.thc.org/free-internet-for-iran-using-android
 - [list of domain names that serve YouTube ads](https://github.com/ewpratten/youtube_ad_blocklist)
+- [Intelligence group APT29 tricked targets into generating Gmail app-specific passwords by sending fake State Department PDFs instructing victims to create app-specific passwords labeled "ms.state.gov" for "secure onboarding"](https://www.securityweek.com/russian-hackers-bypass-gmail-mfa-with-app-specific-password-ruse)
 
 # Breach
 
@@ -118,6 +119,7 @@
 - https://basden.xyz/secure-messaging-for-paranoid-realists (Matrix/XMPP)
 - https://textslashplain.com/2024/05/22/authenticode-in-2024
 - https://ipx.ac - IP info & leak test suite
+- [The Tech Transparency Project found that both Apple and Google are still offering Chinese-owned VPN apps in their stores, including some tied to companies linked to China's military](https://www.theregister.com/2025/06/13/apple_google_chinabased_vpns)
 
 # Regulation
 

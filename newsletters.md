@@ -713,7 +713,6 @@
 - [Xavier Santolaria](https://infosec-mashup.santolaria.net/archive?sort=new)
 - [IoT Security Foundation](https://us11.campaign-archive.com/home/?u=1c8e267bc33ff2e1060cb572c&id=35004ce63e)
 - [Joseph Thacker (rez0)](https://thacker.beehiiv.com)
-- https://github.com/TalEliyahu/awesome-security-newsletters
 - [Xavier Santolaria](https://infosec-mashup.santolaria.net/archive)
 - https://substack.com/@cristivlad/posts
 - [Dan Barahona](https://apisecurity.io/full-archive)
@@ -721,6 +720,9 @@
 - [Daniel Kelley](https://cybersecurityandgrowth.substack.com/archive)
 - https://substack.com/@zellic/posts
 - [Jason Haddix: a red teamer, bug bounty hunter and security leader](https://executiveoffense.beehiiv.com)
+- https://x.com/ramimacisabird/status/1487832912141553668
+- https://github.com/TalEliyahu/awesome-security-newsletters
+- [Ollie Whitehouse](https://ctoatncsc.substack.com/archive)
 
 # SEO 
 

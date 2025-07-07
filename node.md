@@ -732,6 +732,7 @@
 - [A collection of modules to secure your express.js application](https://github.com/sebasyii/zeno)
 - [possible security issues with Node.js and MongoDB](https://github.com/thomasheyenbrock/rent-a-hacker)
 - https://socket.dev/blog/60-malicious-npm-packages-leak-network-and-host-data
+- https://semgrep.dev/blog/2022/the-best-free-open-source-supply-chain-tool-the-lockfile
 
 # CMS
 
