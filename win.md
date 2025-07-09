@@ -60,6 +60,7 @@
 - https://github.com/wdwinslow/win10-wsl-ubuntu-vscode-pythondev
 - https://github.com/victor23k/blog/blob/main/pages/2023/wsl_server_connect_via_windows.mdx
 - https://www.konnorrogers.com/posts/2024/running-windows-11-on-mac-arm-chip-for-free
+- https://blog.gabrielmajeri.ro/2022/01/21/how-to-share-ssh-credentials-between-windows-and-wsl-2.html
 
 # Internals
 

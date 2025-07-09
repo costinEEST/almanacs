@@ -640,6 +640,8 @@ javascript: (() =>
 - https://www.youtube.com/watch?v=SWocv4BhCNg + https://fidoalliance.org/passkeys
 - https://nelsonslog.wordpress.com/2024/03/22/passkeys-still-awkward-in-mar-2024-android-chrome-windows-1password + https://nelsonslog.wordpress.com/2024/03/23/passkeys-try-two
 - https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys
+- [Webauthn, Passkeys, and You - The Future of Authentication | William Brown](https://2023.everythingopen.au/schedule/presentation/2), https://mjtsai.com/blog/2024/05/23/the-dark-age-of-authentication, https://www.linkedin.com/posts/ayush-gupta-dev_webauthn-passkeys-and-you-the-future-activity-7139982771334139907-UmC1
+- https://jeremyckahn.github.io/posts/a-future-of-the-web, https://github.com/passway-project/passway/wiki/Passway-architecture
 
 # `WebGL`
 

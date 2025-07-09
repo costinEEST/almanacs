@@ -137,7 +137,7 @@
 - [Gabriel Weinberg](https://thegreatrace.substack.com/archive)
 - [Frank Kane](https://us10.campaign-archive.com/home/?u=21e94d0bc3f8c496308518d56&id=3608f29fda)
 - [Avi Chawla](https://blog.dailydoseofds.com/archive)
-- 
+- [Rohit Krishnan](https://www.strangeloopcanon.com/archive)
 
 # Biology
 
@@ -546,7 +546,7 @@
 - [Harry Wolff](https://tinyletter.com/hswolff/archive)
 - [rendezvous with cassidoo](https://buttondown.email/cassidoo/archive)
 - [Stefan Judis](https://www.stefanjudis.com/topics/newsletter)
-- [React Status](https://react.statuscode.com/issues)
+- [Peter Cooper, Terence C. Gannon: React Status](https://react.statuscode.com/issues)
 - [User Interfacing by Adam Conrad](https://userinterfacing.substack.com/archive)
 - [Growing with the Web by Daniel Imms](https://us3.campaign-archive.com/home/?u=81a68a3e0636ace89d3b470e3&id=1d3b725b48)
 - [Python Monthly](https://zerotomastery.io/blog/?tag=PM)

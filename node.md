@@ -494,6 +494,7 @@
 # `node:worker_threads`
 
 - https://www.wix.engineering/post/how-wix-applied-multi-threading-to-node-js-and-cut-thousands-of-ssr-pods-and-money
+- [Spawn multiple threads of execution within a single process. Unlike `child_process`, which spawns a completely new Node.js instance, Worker Threads share memory and resources while running independently from the main thread](https://nodesource.com/blog/worker-threads-nodejs-multithreading-in-javascript)
 
 # Tool
 

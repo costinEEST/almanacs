@@ -275,6 +275,7 @@
 - [get a javascript function name](https://gist.github.com/dfkaye/6384439)
 - https://pedrocattori.dev/blog/why-i-prefer-arrow-functions
 - [get the function's name](https://gist.github.com/dfkaye/6384439)
+- https://jrsinclair.com/articles/2025/whats-the-difference-between-named-functions-and-arrow-functions
 
 # `function* () {}`
 

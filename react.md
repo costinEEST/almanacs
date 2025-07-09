@@ -366,6 +366,7 @@
 - https://www.builder.io/blog/hydration-is-pure-overhead
 - http://intertwingly.net/blog/2020/07/22/React-Hooks-as-Middleware
 - https://www.matschik.com/writing/understanding-virtual-dom-that-powers-reactjs-and-vuejs
+- [Facebook uses the Hermes engine - the React Native runtime - to run React web SSR](https://www.reddit.com/r/reactjs/comments/1ltbw2e/how_does_facebook_serve_react_pages)
 
 #  Server component (RSC)
 

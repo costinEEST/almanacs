@@ -72,6 +72,7 @@
 
 # Development
 
+- https://js1024.fun
 - https://github.com/kareniel/awesome-ctf-challenge-design + https://m.youtube.com/playlist?list=PLox242_JhiuGnnFWFgt9tRVMkqkdz5cM-
 - https://github.com/EnclaveGames/HTML5-Gamedev-Starter
 - [How Crash Bandicoot Hacked The Original Playstation | War Stories | Ars Technica](https://youtu.be/izxXGuVL21o)
