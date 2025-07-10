@@ -90,6 +90,7 @@
 - https://github.com/microsoft/TypeScript-Compiler-Notes
 - [I picked TypeScript for my compiler book](https://twitter.com/keleshev/status/1329160579358056450)
 - [How would one build their own Typescript compiler?](https://twitter.com/tannerlinsley/status/1202745654939922434)
+- https://blog.andrewbran.ch/is-nodenext-right-for-libraries-that-dont-target-node-js
 
 # `enum`
 
@@ -113,6 +114,7 @@
 - https://p.migdal.pl/2020/03/02/types-tests-typescript.html
 - https://nehalist.io/trpc-review
 - [`Using Flow or TypeScript could have prevented 15% of the public bugs for public projects on GitHub`](https://earlbarr.com/publications/typestudy.pdf)
+- https://johnnyreilly.com/typescript-go-pragmatic-choice
 
 # Patterns
 

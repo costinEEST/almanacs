@@ -484,6 +484,7 @@
 - [Mahmoud Rasmi](https://decafquest.substack.com/archive)
 - [Jared Henderson: Exploring modern life through great works of philosophy and literature](https://jaredhenderson.substack.com/archive)
 - [Slavoj Žižek: philosophy, politics, and culture](https://slavoj.substack.com/archive)
+- [Richard Vaughan Reeves](https://ofboysandmen.substack.com/archive)
 
 # Physics
 

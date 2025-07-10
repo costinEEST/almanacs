@@ -643,6 +643,8 @@
 
 # Tool
 
+- https://ballingt.com/js-packaging
+- https://devongovett.me/blog/scope-hoisting.html, https://x.com/devongovett/status/1941981046469537926
 - https://frontendmastery.com/posts/building-and-serving-frontends-at-scale
 - https://github.com/frehner/modern-guide-to-packaging-js-library
 - https://github.com/jonahsnider/js-unit-conversion-benchmarks
