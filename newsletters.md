@@ -464,6 +464,7 @@
 - [Németh Róbert](https://substack.com/@nmethrbert/posts)
 - [Ionuț Stăncelu: Pasionat de științe politice, istorie modernă și teologie, pe care le explorez prin instrumentele de gândire oferite de filosofie](https://substack.com/@ionutstancelu/posts)
 - [Maria Țoghină](https://substack.com/@bucurestifm/posts)
+- Bogdan Ivanov: https://i2media.substack.com/archive, https://bogdanivanov.substack.com/archive
 
 
 # Tips
