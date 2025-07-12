@@ -42,6 +42,10 @@
 - [Raymond Chen](https://devblogs.microsoft.com/oldnewthing/author/oldnewthing)
 - Dmitry Vostokov: https://www.dumpanalysis.org/Links, https://www.patterndiagnostics.com/training-courses, https://leanpub.com/podcasts/frontmatter/dmitry-vostokov-09-11-21
 
+# Historic 
+
+- https://www.linkedin.com/posts/ryanwlucas_something-pretty-right-a-history-of-visual-activity-7042294967016321024-9bvq, [The History and Legacy of Visual Basic (retool.com)]https://news.ycombinator.com/item?id=43949855)
+
 # How to
 
 - https://www.bleepingcomputer.com/news/microsoft/you-can-still-upgrade-to-windows-10-for-free-heres-how

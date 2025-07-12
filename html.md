@@ -301,6 +301,7 @@
 - https://www.w3.org/International/questions/qa-personal-names
 - https://tetralogical.com/blog/2022/10/05/foundations-html-semantics
 - https://www.tpgi.com/subheadings-subtitles-alternative-titles-and-taglines-in-html
+- https://github.com/schalkneethling/html-comprehensive-guide
 
 # Security
 

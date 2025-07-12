@@ -16,6 +16,7 @@
 - [David A. Kennedy](https://a11yweekly.com/issues)
 - [Robin Kanatzar](https://accessible-mobile-apps-weekly.ghost.io)
 - [Salma Alam-Naylor](https://buttondown.com/weirdwidewebhole/archive)
+- [Schalk Neethling](https://schalkneethling.substack.com/archive)
 
 # API 
 
