@@ -16,6 +16,7 @@
 
 - https://zellwk.com/blog/overcoming-astro-styling-frustrations
 - https://gist.github.com/stormwild/9ee6250c9e03b4cf86e685cc9896f3d5
+- [Newsletter subscribe feature similar to Substack using Astro, Netlify Functions & Google Sheets](https://neciudan.dev/building-substack-subscription)
 
 # Community
 
