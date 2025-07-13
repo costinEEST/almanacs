@@ -132,6 +132,7 @@
 - https://github.com/S3cur3Th1sSh1t/OffensiveVBA
 - https://github.com/sailay1996/awesome_windows_logical_bugs
 - [Tool for Active Directory Certificate Services enumeration and abuse](https://github.com/ly4k/Certipy) + https://m.youtube.com/@hacktricks_LIVE/videos
+- [Windows stores everything internally as UTF-16 (`wchar_t`), but arguments to programs taking ANSI characters (`char`). Converting from UTF-16 to ANSI is weird and allows you to smuggle characters past sanitizers](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi)
 
 # Clean up
 

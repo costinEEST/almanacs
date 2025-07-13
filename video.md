@@ -23,6 +23,7 @@
 - https://github.com/eggheadio/how-to-egghead
 - [Illegal streams, decrypting m3u8's, and building a better stream experience](https://blog.jonlu.ca/posts/illegal-streams)
 - https://stuartk.com/posts/whats-the-best-html-video-format-to-serve
+- https://www.404media.co/developing-and-scanning-my-own-color-film-a-rewarding-infuriating-hobby
 
 # Opinion
 
