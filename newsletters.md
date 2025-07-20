@@ -309,6 +309,7 @@
 - [Dani Sandoval](https://svelte.substack.com/archive)
 - [Peter Cooper](https://nodeweekly.com/issues)
 - https://newsletter.daishikato.com
+- [Erfan Ebrahimnia](https://nextjsweekly.com/issues)
 
 # Judaism
 
