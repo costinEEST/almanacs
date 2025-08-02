@@ -827,6 +827,7 @@
 - [Mohammad Abir Abbas](https://substack.com/@uknowhoab1r/posts)
 - https://weeklyrust.substack.com/archive
 - [Bilal Khan](https://ibilalkayy.beehiiv.com)
+- [Elley Duhe, John Philip, Sarthak Makhija](https://weeklyrust.substack.com/archive)
 
 # Politics
 

@@ -245,6 +245,7 @@
 - https://kdy1.dev/posts/2022/1/tsc-go + https://twitter.com/kdy1dev/status/1486017661267955713
 - [Sustainability with Rust](https://twitter.com/_rsc/status/1496352325157457922)
 - [Design drafts | rscgolang](https://www.youtube.com/playlist?list=PLrwpzH1_9ufO2cKP20VI1gT7I7HdlMdas)
+- [Go's data race-induced undefined behavior can still crash your app with a segfault. Unlike Go's wobbly concurrency, Java's got thread safety on lock, and Rust's type system just laughs at data races](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 
 # Server
 
