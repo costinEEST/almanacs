@@ -78,6 +78,7 @@
 - https://github.com/mozilla/pdf.js/wiki/Additional-Learning-Resources
 - [Tracking PDF forms as plain text](https://iter.ca/post/fdf)
 - [Typeset and generate pdfs with HTML/CSS (htmldocs.com)](https://news.ycombinator.com/item?id=39027543)
+- [Printing a book at home with minimal equipment](https://huijzer.xyz/posts/98)
 
 # .png
 

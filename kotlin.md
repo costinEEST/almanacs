@@ -31,6 +31,8 @@
 - [ID scanning Android app and library. Supports MRZ, NFC, Barcodes, and ID PASS Lite cards](https://github.com/newlogic/smartscanner-core)
 - https://github.com/anitab-org/mentorship-android
 - [Workaround to avoid Medium paywall on your Android device](https://github.com/a-chris/medium-no-thanks)
+- [Self hosted read and to-read list book tracker](https://github.com/bayang/jelu)
+- [GoogleSheet based Logging Library for Android, iOS, JVM and JS ](https://github.com/theapache64/slog)
 
 # Development
 
