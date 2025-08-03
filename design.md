@@ -95,6 +95,8 @@
 # Historic
 
 - [A curated collection of HCI demo videos produced during the golden age from 1983-2002](https://jackrusher.com/classic-ux) + https://m.youtube.com/@sigchi/playlists
+- [the peculiar case of japanese web design](https://sabrinas.space)
+- https://medium.com/@mirijam.missbichler/why-japanese-websites-look-so-different-2c7273e8be1e
 
 # Inspire
 
