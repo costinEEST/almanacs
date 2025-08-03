@@ -358,6 +358,7 @@
 
 # Internet of money
 
+- https://a16zcrypto.substack.com/archive
 - https://blockchannel.substack.com/archive?sort=new
 - [Jimmy Song](https://jimmysong.substack.com/archive)
 - [Anthony Sassano](https://thedailygwei.substack.com/archive)
@@ -378,8 +379,7 @@
 - https://www.argent.xyz/blog/tag/newsletter
 - [Bruno Škvorc](https://news.nft.review/archive)
 - https://www.getrevue.co/profile/useWeb3
-- https://a16zcrypto.substack.com/archive
-- [The Good Time Show](https://us2.campaign-archive.com/home/?u=2d6f741a3763b55897a787bd1&id=4c2dfd6761)
+- Aarthi Ramamurthy, Sriram Krishnan: https://us2.campaign-archive.com/home/?u=2d6f741a3763b55897a787bd1&id=4c2dfd6761, https://www.aarthiandsriram.com/archive
 - https://newsletter.blockthreat.io/archive
 - https://weekinethereum.substack.com/archive
 - [Balaji S. Srinivasan](https://balajis.com/archive)
@@ -396,6 +396,7 @@
 - [Laurențiu Vană](https://theweeklyblend.substack.com/archive)
 - [Ian Cutress & Ryan Smith - The latest in semiconductors: silicon, AI, processors, market trends](https://morethanmoore.substack.com/archive)
 - [AJ Kourabi](https://chipchatter.substack.com/archive), https://www.ajkourabi.com/everything-else/metascience-reading-list
+- Patrick O'Shaughnessy: https://us8.campaign-archive.com/home/?u=e35e149b66d5b7b476afc8ff5&id=325454c9ab
 
 # iOS
 
