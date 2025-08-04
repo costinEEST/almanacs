@@ -500,4 +500,8 @@
 - Course
   - https://github.com/yandexdataschool/nlp_course + https://lena-voita.github.io/nlp_course.html
 
-# Robotics
+
+# Tool 
+
+- Using AI without leaving the terminal: https://kashw1n.com/blog/llm-cli, https://llm.datasette.io/en/stable, https://labs.iximiuz.com/playgrounds/coding-agent-base
+- A privacy‑first CLI that converts YouTube links, local video files or M3U8 streams into searchable transcripts using local Whisper models, so your audio never leaves your machine. A lightweight SQLite database plus an optional Datasette web viewer let you batch‑process videos and instantly query captions to build your own personal knowledge base: https://kashw1n.com/blog/vid2text, https://github.com/kashw1n/vid2text

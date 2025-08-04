@@ -221,6 +221,7 @@
 - https://blog.richardekwonye.com/bezier-curves
 - [`align-content`](https://fullystacked.net/vertical-alignment)
 - https://fullystacked.net/accentcolor
+- https://www.smashingmagazine.com/2024/01/css-border-image-property, https://codepen.io/thebabydino/pen/OPymPQP
 
 # Selector
 

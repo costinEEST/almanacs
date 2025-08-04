@@ -66,6 +66,7 @@
 
 - https://chan.dev/posts/a-bargain-mic-for-yellers
 - https://github.com/filmgirl/podcasting-resources
+- https://www.dzombak.com/blog/2025/07/recommendation-microphone-setup-for-birdnet-pi
 
 # Mouse
 
