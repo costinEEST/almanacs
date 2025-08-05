@@ -899,6 +899,10 @@
 
 - https://adamlyttleapps.substack.com/archive
 
+# Tango 
+
+- [Bärbel Rücker: the Feldenkrais method & argentine tango](https://us17.campaign-archive.com/home/?u=2dc29a451256b892bca58d1d6&id=f85201e0f3)
+
 # Travel
 
 - [Alternative Tours](https://us20.campaign-archive.com/home/?u=f1b8e8fc565e4aa7532df290e&id=c269925f5f)
