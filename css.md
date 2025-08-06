@@ -42,6 +42,7 @@
 - https://matthiasott.com/notes/custom-properties-beyond-the-root
 - https://www.abeautifulsite.net/posts/better-buttons-with-color-mix-and-custom-properties
 - https://fullystacked.net/using-emoji-on-the-web
+- https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa
 
 # Book
 

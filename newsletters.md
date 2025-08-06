@@ -267,6 +267,7 @@
 # Design 
 
 - https://vinceshao.substack.com/archive
+- [Bucharest Graphic Days](https://us14.campaign-archive.com/home/?u=4c58dd74a372fed5ca8d1d040&id=8f576d7920)
 
 # Drawing
 
