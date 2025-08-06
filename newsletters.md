@@ -139,6 +139,7 @@
 - [Frank Kane](https://us10.campaign-archive.com/home/?u=21e94d0bc3f8c496308518d56&id=3608f29fda)
 - [Avi Chawla](https://blog.dailydoseofds.com/archive)
 - [Rohit Krishnan](https://www.strangeloopcanon.com/archive)
+- [Youssef Hosni](https://youssefh.substack.com/archive)
 
 # Biology
 
