@@ -141,6 +141,8 @@
 - [Avi Chawla](https://blog.dailydoseofds.com/archive)
 - [Rohit Krishnan](https://www.strangeloopcanon.com/archive)
 - [Youssef Hosni](https://youssefh.substack.com/archive)
+- [Alexander Kruel](https://axisofordinary.substack.com/archive)
+- https://stevebyrnes1.substack.com/archive
 
 # Biology
 
