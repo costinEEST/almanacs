@@ -17,6 +17,7 @@
 - [Robin Kanatzar](https://accessible-mobile-apps-weekly.ghost.io)
 - [Salma Alam-Naylor](https://buttondown.com/weirdwidewebhole/archive)
 - [Schalk Neethling](https://schalkneethling.substack.com/archive)
+- [Bruno Pulis (in Brazilian Portuguese)](https://brunopulis.ck.page)
 
 # API 
 
@@ -643,6 +644,7 @@
 - [Mosa meat](https://us19.campaign-archive.com/home/?u=a4b30e3d66f0f29f4818b9dca&id=6a9caf2eaa)
 - [Mihai Marcu](https://mihaigateste.substack.com/archive)
 - [Berti Panaiot](https://theweeklybrew.coffeelicious.ro/archive)
+- [Morgan Eckroth](https://morgandrinkscoffee.substack.com/archive)
 
 # Health
 
