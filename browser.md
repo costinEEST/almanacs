@@ -28,6 +28,7 @@
 - https://richiemccoll.com/javascript-scheduling
 - https://austingil.com/user-location-is-a-lie
 - [Flexible web API for encoding and decoding audio and video](https://github.com/w3c/webcodecs)
+- https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet
 
 # Bookmarklet
 
