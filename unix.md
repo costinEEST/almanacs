@@ -37,6 +37,7 @@
 - https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios
 - https://github.com/gaul/awesome-ld-preload
 - [Richard Kettlewell's collection of platform quirks around the question "when does a polled file descriptor reach EOF?"](https://www.greenend.org.uk/rjk/tech/poll.html)
+- https://www.wietzebeukema.nl/blog/why-bother-with-argv0
 
 # CLI
 
