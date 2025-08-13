@@ -419,6 +419,7 @@
 - https://hashrocket.com/blog/posts/using-match-vs-equals-tilde-in-ruby
 - https://blog.yossarian.net/2019/06/09/Pipelines-in-Ruby-with-Open3
 - [there are so many great things in 3.2](https://twitter.com/paracycle/status/1605706226007941122)
+- https://www.slideshare.net/slideshow/ruby-internals/12592243
 
 # Opinion
 

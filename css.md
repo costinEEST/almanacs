@@ -55,6 +55,10 @@
 
 - https://github.com/esplito/coding-notes/tree/master/css-for-js.dev
 
+# CSS in JS 
+
+- [Panda CSS first launched back in 2023 with the goal of combining the DX of CSS-in-JS with the performance of atomic CSS](https://github.com/chakra-ui/panda). Pedro Duarte (creator of Stitches and Radix UI): [Panda](https://x.com/peduarte/status/1670718421007228928) is "like Stitches, Tailwind, Vanilla Extract, CVA, Styled System and Linaria had a child"
+
 # Watch
 
 - ["Making Things Better: Redefining the Technical Possibilities of CSS" by Rachel Andrew](https://aneventapart.com/news/post/making-things-better-aea-video)
