@@ -455,6 +455,10 @@ javascript: (() =>
 - [Standalone client for proxies of Opera VPN](https://github.com/Snawoot/opera-proxy)
 - https://medium.com/@renwa/opera-browser-vpn-bypass-20877aaf08c0
 
+# Zen 
+
+- https://werd.io/why-im-all-in-on-zen-browser
+
 # Cookie
 
 - [SameSite=Lax](https://twitter.com/RenwaX23/status/1206475064125853696)

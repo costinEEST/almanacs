@@ -143,6 +143,7 @@
 - [Youssef Hosni](https://youssefh.substack.com/archive)
 - [Alexander Kruel](https://axisofordinary.substack.com/archive)
 - https://stevebyrnes1.substack.com/archive
+- [Alexandr Wang](https://alexw.substack.com/archive)
 
 # Biology
 
@@ -771,6 +772,7 @@
 - [Tango Inside Out](https://us7.campaign-archive.com/home/?u=c390736e46a85da405f68dc8e&id=8dbe36e52f)
 - [Pablo Estigarribia](https://us10.campaign-archive.com/home/?u=15496b952c60b9016788adea6&id=874e3cbe49)
 - [Alexandra Dariescu](https://us10.campaign-archive.com/home/?u=675e13126422d3c2cfe45539a&id=9e6e65035c)
+- [Living jazz](https://us8.campaign-archive.com/home/?u=7f61be5d01097c95f955e02c3&id=944b6e5bd9)
 
 # Obsidian
 
