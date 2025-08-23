@@ -87,13 +87,13 @@
 # Artificial intelligence
 
 - [Andrew Yan-Tak Ng](https://www.deeplearning.ai/the-batch)
+- [Andriy Burkov: True Positive Weekly](https://aiweekly.substack.com/archive)
 - https://doctorpenguin.com/newsletters
 - https://substack.com/@yvettpan0508/posts
 - https://marklwatson.substack.com/archive
 - [Machine learning monthly](https://zerotomastery.io/blog/?tag=MLM)
 - [Shawn Wang, Alessio Fanelli](https://www.latent.space/archive)
 - [Nathan Benaich](https://nathanbenaich.substack.com/archive)
-- [True Positive Weekly](https://aiweekly.substack.com/archive)
 - [Davis Blalock](https://dblalock.substack.com/archive)
 - [Emil Wallner](https://www.emilwallner.com/archive)
 - [Josh Dance](https://mythicalai.substack.com/archive)
@@ -473,6 +473,7 @@
 - [Németh Róbert](https://substack.com/@nmethrbert/posts)
 - [Ionuț Stăncelu: Pasionat de științe politice, istorie modernă și teologie, pe care le explorez prin instrumentele de gândire oferite de filosofie](https://substack.com/@ionutstancelu/posts)
 - [Maria Țoghină](https://substack.com/@bucurestifm/posts)
+- [Octavian Vasilescu](https://bucurestiul.substack.com/archive)
 - Bogdan Ivanov: https://i2media.substack.com/archive, https://bogdanivanov.substack.com/archive
 
 
