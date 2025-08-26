@@ -61,6 +61,7 @@
 - https://m.youtube.com/@RyanNorbauer/videos
 - https://perixx.com/collections/keyboards/products/ultra-portable-and-foldable-bluetooth-5-1-rechargeable-70-ergonomic-keyboard-scissor-keys; issue when used on iPad OS that there is another key between CMD key and Space 
 - [Repetitive Strain Injury](https://michaeluloth.com/rsi)
+- https://duarteocarmo.com/blog/happy-hacking-keyboard-review
 
 # Microphone
 

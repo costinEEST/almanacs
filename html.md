@@ -79,6 +79,7 @@
 - https://danburzo.ro/canonical-sharing
 - https://kizu.dev/nested-links + https://twitter.com/iamakulov/status/1767119545033216090
 - https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener
+- https://github.com/samwho/e-mail.wtf
 
 # `<address></address>`
 

@@ -144,6 +144,7 @@
 - [Alexander Kruel](https://axisofordinary.substack.com/archive)
 - https://stevebyrnes1.substack.com/archive
 - [Alexandr Wang](https://alexw.substack.com/archive)
+- [Duarte O.Carmo](https://duarteocarmo.substack.com/archive)
 
 # Biology
 
