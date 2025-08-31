@@ -916,7 +916,7 @@
 # Travel
 
 - [Alternative Tours](https://us20.campaign-archive.com/home/?u=f1b8e8fc565e4aa7532df290e&id=c269925f5f)
-- [De la sat](https://us7.campaign-archive.com/home/?u=3f14e3915e6bef8a3a4fd6c01&id=02b2b8a2b2), https://delasat.substack.com/recommendations
+- [Nicoleta Felea, Ionuț Teoderașcu: De la sat](https://us7.campaign-archive.com/home/?u=3f14e3915e6bef8a3a4fd6c01&id=02b2b8a2b2), https://delasat.substack.com/recommendations
 - [Zaga zaga](https://us10.campaign-archive.com/home/?u=60d1c6dca3c7ddba681fb30ee&id=0da46b4f28)
 - [Alex Ciucă](https://miculparis.substack.com/archive)
 - [Victor](https://irlanda.substack.com/archive)
