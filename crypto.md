@@ -125,6 +125,7 @@
 # Standard
 
 - [Introduction to GPG/PGP](ftp://ftp.gnupg.org/people/neal/an-advanced-introduction-to-gnupg/openpgp/openpgp.pdf) + https://twitter.com/binarymist/status/1148732727371296768
+- https://amann.dev/blog/2020/offline_gpg
 - https://juliapoo.github.io/misc/2022/09/27/social-engineering-to-solve-a-crypto-challenge.html
 - https://cheapskatesguide.org/articles/encrypted-email.html
 - https://benjamin-altpeter.de/encrypting-email

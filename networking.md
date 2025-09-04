@@ -405,6 +405,7 @@
 - https://blog.daviddworken.com/posts/keybase-ssh
 - [Determine Who Can Log In to an SSH Server](https://www.agwa.name/blog/post/whoarethey)
 - https://hackaday.com/2023/11/17/this-week-in-security-ssh-ftp-and-reptar
+- https://amann.dev/blog/2021/local_global_port
 
 # Jaber
 

@@ -305,6 +305,7 @@
 - http://www.hp.com/hpinfo/abouthp/histnfacts/publications/measure/pdf/1964_09-10.pdf + https://twitter.com/paulg/status/1376082495041589250
 - https://panic.com/blog/a-prototype-original-ipod
 - https://biblioteca-digitala.ro/?pub=3944-catalogul-expozitiei-pc-o-istorie-fascinanta
+- [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28)
 
 # Verilog 
 
