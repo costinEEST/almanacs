@@ -245,6 +245,7 @@
 # Cinema 
 
 - [F-SIDES Cineclub: platformă de filme și discuții feministe](https://us10.campaign-archive.com/home/?u=9d30172c90fa51ff006999c11&id=b77074aae1)
+- [Anna Rettberg, Casey Muratori: talk about movies as movies, rather than as products, propaganda, or fan service](https://www.mollymovieclub.com/archive)
 
 # Communication
 
