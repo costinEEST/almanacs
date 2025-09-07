@@ -121,6 +121,7 @@
 - https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords
 - https://www.nytimes.com/2012/11/24/world/europe/code-found-on-pigeon-baffles-british-cryptographers.html
 - https://github.com/sweis/deprecated-crypto-might-not-suck
+- https://www.101computing.net/enigma-machine-emulator
 
 # Standard
 
