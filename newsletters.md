@@ -318,6 +318,7 @@
 - [Peter Cooper](https://nodeweekly.com/issues)
 - https://newsletter.daishikato.com
 - [Erfan Ebrahimnia](https://nextjsweekly.com/issues)
+- https://shrutikapoor.substack.com/archive
 
 # Judaism
 
@@ -887,7 +888,7 @@
 - [Luke Burgis](https://archive.feedblitz.com/1110672) + https://read.lukeburgis.com/archive
 - [Jordan B. Peterson](https://us6.campaign-archive.com/home/?u=3c53a4d9fc927f570cf437952&id=a434e81da0)
 
-# Polyglot
+# Speak
 
 - [Judith Meyer](https://learnlangs.substack.com/archive)
 - [LearnHebrew.TV](https://us12.campaign-archive.com/home/?u=bbfadccb964a11c5a7a496a64&id=d4ec934372)
@@ -899,6 +900,7 @@
 - [Charles Malphettes](https://frenchteachercarlito.substack.com/archive)
 - https://www.alexanderarguelles.com/newsletter/archive
 - [Stian Håklev](https://substack.com/@networkedthought/posts)
+- [Claudia Costas: Spanish](https://clasesconclau.substack.com/archive)
 
 # Sport 
 
