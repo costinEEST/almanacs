@@ -14,6 +14,7 @@
 - https://mariusbancila.ro/blog/2020/05/05/my-book-learn-cs-programming-has-been-published
 - https://www.freecodecamp.org/news/learn-csharp-book
 - [Machine Learning for C# Developers](https://enews.manning.com/q/dKTx3aqp-F1dXXObneYpKKtqhwr5Pc3Bbc0OtNuzy7OGNLWQ7snF6EgVX)
+- [Domain-Driven Refactoring: A hands-on DDD guide to transforming monoliths into modular systems and microservices](https://www.packtpub.com/en-us/product/domain-driven-refactoring-9781835889114)
 
 # Cheat sheet
 
