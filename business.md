@@ -96,12 +96,25 @@
 - https://www.goodreads.com/review/list/4696922-ushan?shelf=medical-ethics
 - [Businesses committed to packaging sustainability](https://github.com/kepano/slashpackaging)
 
-# Publishing
 
-- [How do people self publish books?](https://twitter.com/EmmaWedekind/status/1177325024887418880)
-- [Just Enough Co-Authoring in Leanpub.](https://leanpub.com/jeco-authoring)
-- https://medium.com/@jeremyjkun/on-self-publishing-a-programmers-introduction-to-mathematics-1472b7511c99
-- [TeachableU - Learn how to create, launch, and sell profitable online courses.](https://discover.teachable.com/course/teachableu)
+# Leadership
+
+- https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y
+- [Simply Leadership](https://leanpub.com/simplyleadership)
+- https://www.amazon.com/Call-Sign-Chaos-Learning-Lead-ebook/dp/B07SBRFVNH
+- https://benmccormick.org/2019-roundup
+- [Cincinnatus and the Citizen-Servant Ideal: The Roman Legend's Life, Times, and Legacy - Michael J. Hillyard](https://books.google.ro/books/about/Cincinnatus_and_the_Citizen_Servant_Idea.html?id=ksOyQMMZtZAC)
+- https://www.patkua.com/blog/book-recommendations-by-engineering-leaders
+- [Meaning making and leadership | Luke McBain](https://m.youtube.com/playlist?list=PLoQL7TYFGA1pgi5Ejf8wcN35pUgoXbw12)
+- https://www.udemy.com/course/the-complete-leadership-mastery-course
+- https://github.com/gabiduarte/awesome-techleads
+- [What are the best podcasts on management & leadership?](https://twitter.com/michelletandler/status/1489348838754172931)
+- https://www.subbu.org/articles/2021/2021-in-reading
+- https://guzey.com/autistic-leaders
+- [The best leaders are great individual contributors, not professional managers](https://news.ycombinator.com/item?id=33843160)
+- https://www.joshwaitzkin.com/recommended-reading-leadership-culture
+- https://www.amazon.com/Debrief-Win-Accountable-Leadership-Debrief-Focused/dp/1732929807
+- https://0x5.uk/2025/07/15/mandatory-reading-for-tech-leaders
 
 # Management
 
@@ -152,23 +165,12 @@
 - [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 - [Comprehensive guide to preparing for product management interviews, covering common questions, frameworks, and available courses](https://www.youtube.com/watch?v=IduMcOC1NPM)
 
-# Leadership
+# Publishing
 
-- https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y
-- [Simply Leadership](https://leanpub.com/simplyleadership)
-- https://www.amazon.com/Call-Sign-Chaos-Learning-Lead-ebook/dp/B07SBRFVNH
-- https://benmccormick.org/2019-roundup
-- [Cincinnatus and the Citizen-Servant Ideal: The Roman Legend's Life, Times, and Legacy - Michael J. Hillyard](https://books.google.ro/books/about/Cincinnatus_and_the_Citizen_Servant_Idea.html?id=ksOyQMMZtZAC)
-- https://www.patkua.com/blog/book-recommendations-by-engineering-leaders
-- [Meaning making and leadership | Luke McBain](https://m.youtube.com/playlist?list=PLoQL7TYFGA1pgi5Ejf8wcN35pUgoXbw12)
-- https://www.udemy.com/course/the-complete-leadership-mastery-course
-- https://github.com/gabiduarte/awesome-techleads
-- [What are the best podcasts on management & leadership?](https://twitter.com/michelletandler/status/1489348838754172931)
-- https://www.subbu.org/articles/2021/2021-in-reading
-- https://guzey.com/autistic-leaders
-- [The best leaders are great individual contributors, not professional managers](https://news.ycombinator.com/item?id=33843160)
-- https://www.joshwaitzkin.com/recommended-reading-leadership-culture
-- https://www.amazon.com/Debrief-Win-Accountable-Leadership-Debrief-Focused/dp/1732929807
+- [How do people self publish books?](https://twitter.com/EmmaWedekind/status/1177325024887418880)
+- [Just Enough Co-Authoring in Leanpub.](https://leanpub.com/jeco-authoring)
+- https://medium.com/@jeremyjkun/on-self-publishing-a-programmers-introduction-to-mathematics-1472b7511c99
+- [TeachableU - Learn how to create, launch, and sell profitable online courses.](https://discover.teachable.com/course/teachableu)
 
 # Strategy
 

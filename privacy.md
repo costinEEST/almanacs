@@ -220,4 +220,5 @@
 - https://therecord.media/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps
 - https://www.politico.eu/article/netherlands-dutch-government-work-tiktok-data-protection
 - https://hackersonlineclub.com/whatsapp-added-silence-unknown-callers-and-privacy-checkup
+- https://0x5.uk/2025/07/02/why-not-whatsapp
 - https://dustycloud.org/blog/how-decentralized-is-bluesky

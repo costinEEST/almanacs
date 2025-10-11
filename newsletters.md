@@ -389,7 +389,7 @@
 - [Bruno Škvorc](https://news.nft.review/archive)
 - https://www.getrevue.co/profile/useWeb3
 - Aarthi Ramamurthy, Sriram Krishnan: https://us2.campaign-archive.com/home/?u=2d6f741a3763b55897a787bd1&id=4c2dfd6761, https://www.aarthiandsriram.com/archive
-- https://newsletter.blockthreat.io/archive
+- [Peter Kacherginsky](https://newsletter.blockthreat.io/archive)
 - https://weekinethereum.substack.com/archive
 - [Balaji S. Srinivasan](https://balajis.com/archive)
 - [Chris Dixon](https://cdixon.substack.com/archive)

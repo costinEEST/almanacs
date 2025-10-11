@@ -79,6 +79,7 @@
 - https://stable-diffusion-art.com/qr-code
 - [A runtime service to use live website screenshots on your site](https://github.com/davatron5000/api-screenshot)
 - [Each step of decoding a PNG](https://iter.ca/post/png)
+- https://0x5.uk/2025/05/20/how-to-upload-kindle-fire-kids-photos-to-amazon-photos
 
 # Photo
 
