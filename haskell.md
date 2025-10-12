@@ -74,6 +74,7 @@
 # Radio
 
 - https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones
+- https://haskell.foundation/podcast/64
 
 # Opinion
 

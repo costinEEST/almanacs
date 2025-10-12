@@ -22,6 +22,7 @@
 - https://www.goodreads.com/book/show/37499024-understanding-photography
 - https://www.littlefair.ca/reviews/how-to-photograph-people 
 - https://voxa.ro/ebooks/take-your-best-shot
+- [Bruce Nikkel: Practical Forensic Imaging. Securing Digital Evidence with Linux Tools (Bruce Nikkel)](https://nostarch.com/forensicimaging)
 
 # Community
 

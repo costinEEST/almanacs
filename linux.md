@@ -16,6 +16,7 @@
 - https://thevalleyofcode.com/linux
 - [The Linux Kernel Module Programming Guide (updated for 5.x kernels)](https://github.com/sysprog21/lkmpg) + https://twitter.com/mishmashru/status/1667472263975694336 or [Linux Device Drivers 3](https://github.com/martinezjavier/ldd3)
 - https://github.com/ryan4yin/nixos-and-flakes-book
+- [Bruce Nikkel: Practical Linux Forensics. A Guide for Digital Investigators (2021)](https://nostarch.com/practical-linux-forensics)
 
 
 # Cheat sheet
