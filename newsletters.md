@@ -477,7 +477,6 @@
 - [Németh Róbert](https://substack.com/@nmethrbert/posts)
 - [Ionuț Stăncelu: Pasionat de științe politice, istorie modernă și teologie, pe care le explorez prin instrumentele de gândire oferite de filosofie](https://substack.com/@ionutstancelu/posts)
 - [Maria Țoghină](https://substack.com/@bucurestifm/posts)
-- [Octavian Vasilescu](https://bucurestiul.substack.com/archive)
 - Bogdan Ivanov: https://i2media.substack.com/archive, https://bogdanivanov.substack.com/archive
 
 
@@ -742,6 +741,7 @@
 - https://github.com/TalEliyahu/awesome-security-newsletters
 - [Ollie Whitehouse](https://ctoatncsc.substack.com/archive)
 - [Umit Aksu: Mobile Hacking Lab](https://us11.campaign-archive.com/home/?u=8ba41892984f9c6a30ba7f4a3&id=0b348bd22d)
+- https://github.com/iosifache/sec-feeds/blob/main/feeds/phrack.xml
 
 # SEO 
 
@@ -884,6 +884,7 @@
 - https://substack.com/@mihaimarc/posts
 - https://raduhossu.substack.com/archive
 - [Gabriela Bernal: Korean Peninsula scholar specializing in US-DPRK and inter-Korean relations](https://www.peninsuladispatch.com/archive)
+- [Octavian Vasilescu: https://bucurestiul.substack.com/archive, https://stiridinparlament.substack.com/archive
 
 # Social sciences
 
