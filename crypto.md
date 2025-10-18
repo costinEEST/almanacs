@@ -67,6 +67,7 @@
 - [Notițele și exercițiile mele pentru laboratorul de criptografie de la UPB](https://github.com/adimanea/criptografie-upb)
 - https://saweis.net/crypto.html
 - https://soc1024.ece.illinois.edu/#teaching
+- [Nadim Kobeissi](https://appliedcryptography.page)
 
 # Watch
 
