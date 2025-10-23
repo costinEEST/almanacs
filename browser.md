@@ -107,7 +107,7 @@ javascript: (() =>
 - [random overflowing element](https://carbon.now.sh/nZLVj2OK0WPlLILIXn4E)
 - https://blog.andri.co/022-should-i-use-ecode-or-ekey-when-handling-keyboard-events
 - https://noncombatant.org/2017/11/07/problems-of-urls
-- https://macarthur.me/posts/options-for-removing-event-listeners
+- https://dubroy.com/blog/three-ways-of-handling-user-input
 
 # new IntersectionObserver()
 
