@@ -86,6 +86,7 @@
 - https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html
 - https://alexharri.com/snippets/general/png-dimensions
+- https://gaultier.github.io/blog/image_size_reduction.html
 
 # .tex
 

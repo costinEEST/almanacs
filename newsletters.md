@@ -744,6 +744,7 @@
 - [Ollie Whitehouse](https://ctoatncsc.substack.com/archive)
 - [Umit Aksu: Mobile Hacking Lab](https://us11.campaign-archive.com/home/?u=8ba41892984f9c6a30ba7f4a3&id=0b348bd22d)
 - https://github.com/iosifache/sec-feeds/blob/main/feeds/phrack.xml
+- [Denis Laskov](https://it4sec.substack.com/archive)
 
 # SEO 
 

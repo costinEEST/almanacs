@@ -57,3 +57,4 @@
 - https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list
 - https://www.devas.life/effective-neovim-setup-for-web-development-towards-2024
 - https://stordahl.dev/writing/frontend-neovim
+- https://gaultier.github.io/blog/a_small_trick_to_improve_technical_discussions_by_sharing_code.html
