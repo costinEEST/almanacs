@@ -283,6 +283,7 @@
 - [Clarissa Grandi](https://us1.campaign-archive.com/home/?u=b02fe4323315fe24b98ed99ae&id=111a72a557)
 - [Jake Parker](https://www.mrjakeparker.com/newsletter)
 - https://ralphammer.substack.com/archive
+- [Edith Zimmerman](https://drawinglinks.substack.com/archive)
 
 # Economy 
 
