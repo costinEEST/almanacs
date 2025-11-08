@@ -354,6 +354,7 @@
 - [Szántai Gábor: Hungarian history](https://substack.com/@gaborszantai/posts)
 - [Jacob Hagstrom: American historian musing on political, military and cultural questions](https://substack.com/@jnh18/posts)
 - https://heathercoxrichardson.substack.com/archive
+- [Călina Cenan](https://calinacen.substack.com/archive)
 
 # Hardware
 
@@ -801,6 +802,10 @@
 - [David Beazley](https://buttondown.email/dabeaz/archive)
 - [Allen Downey](https://allendowney.substack.com/archive)
 - [Seth Michael Larson](https://buttondown.email/sethmlarson/archive)
+
+# Qubit
+
+- [Konrad Jałowiecki, Michał Stęchły](https://www.qse-newsletter.com)
 
 # Ruby
 
