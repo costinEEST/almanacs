@@ -802,6 +802,7 @@
 - [David Beazley](https://buttondown.email/dabeaz/archive)
 - [Allen Downey](https://allendowney.substack.com/archive)
 - [Seth Michael Larson](https://buttondown.email/sethmlarson/archive)
+- [Gary Bernhardt](https://us19.campaign-archive.com/home/?u=d23aeb288a02d99cb0a4c2e83&id=f70bc1ac4d)
 
 # Qubit
 
