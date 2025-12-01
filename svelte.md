@@ -74,6 +74,7 @@
 - https://github.com/CalvinWalzel/awesome-svelte
 - https://lihautan.com/the-svelte-compiler-handbook
 - https://github.com/codechips/svelte-parcel-vs-rollup-vs-webpack
+- https://ricciuti.me/blog/effect-is-fine-but-proxies-are-better
 
 # Opinion
 
@@ -102,6 +103,7 @@
 - https://github.com/tanhauhau/tanhauhau.github.io
 - https://github.com/3mdistal/apps-by-alice
 - https://github.com/bmdavis419/SvelteKit-Ecommerce
+- https://ricciuti.me/blog/how-i-wrote-this-blog, https://github.com/paoloricciuti/ricciuti.me
 
 # Tool
 
