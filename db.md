@@ -108,6 +108,10 @@
 
 # Distributed system
 
+- https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058
+  - https://newsletter.techworld-with-milan.com/p/what-i-learned-from-the-book-designing
+  - https://www.linkedin.com/posts/benjdicken_4-months-later-ddia-complete-all-12-chapters-activity-7405367606628581376-r_0E
+  - https://www.reddit.com/r/ExperiencedDevs/comments/1nn0yl4/designing_data_intensive_applications_2nd_edition  
 - [Distributed systems for fun and profit | Mikito Takada](https://mijailovic.net/2017/07/03/books-2017-q2)
 - [Programming Models for Distributed Computation](https://github.com/heathermiller/dist-prog-book)
 - [A Distributed Systems Reading List](https://news.ycombinator.com/item?id=25327077) + https://news.ycombinator.com/item?id=25987664 + https://dev.to/nyxtom/resources-for-learning-about-crdt-for-realtime-collaboration-5bkj

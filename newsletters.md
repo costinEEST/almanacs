@@ -552,6 +552,7 @@
 - [Alex Garcia](https://buttondown.email/alexgarcia/archive)
 - [Brent Ozar](https://github.com/BrentOzar/sqlblogs)
 - [Martin Kleppmann, distributed systems](https://martinkl.substack.com/archive)
+- [Chris Riccomini](https://materializedview.io/archive)
 
 # Typescript
 
