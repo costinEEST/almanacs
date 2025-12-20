@@ -50,6 +50,10 @@
 - https://rachelandrew.co.uk/archives/2023/01/28/technical-writing-resources
 - https://andregarzia.com/creative-writing
 
+# Keyboard
+
+- [Extended US International Keyboard Layout](https://ericrechlin.com/extended-kbd)
+
 # Tool
 
 - [presentations for busy messy hackers](https://github.com/tmcw/big)

@@ -63,6 +63,7 @@
 - [Repetitive Strain Injury](https://michaeluloth.com/rsi)
 - https://duarteocarmo.com/blog/happy-hacking-keyboard-review
 
+
 # Microphone
 
 - https://chan.dev/posts/a-bargain-mic-for-yellers
@@ -116,6 +117,7 @@
 - https://markshust.com/2019/12/28/ergonomic-workstation-programming-screencasting
 - https://twitter.com/cassiozen/status/1349071222638862338
 - https://aaronparecki.com/life-stack/#audio
+- [Record lectures using Camtasia and IPEVO Ziggi USB Doc Camera](https://cmosedu.com/jbaker/recording/recording.htm)
 
 # Miscellaneous
 
