@@ -79,6 +79,7 @@
 - [Tracking PDF forms as plain text](https://iter.ca/post/fdf)
 - [Typeset and generate pdfs with HTML/CSS (htmldocs.com)](https://news.ycombinator.com/item?id=39027543)
 - [Printing a book at home with minimal equipment](https://huijzer.xyz/posts/98)
+- [Polyglot](https://github.com/sindresorhus/file-type/issues/742#issuecomment-3675248706)
 
 # .png
 

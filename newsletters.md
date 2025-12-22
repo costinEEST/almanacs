@@ -224,6 +224,7 @@
 - https://substack.com/@laviniapetrariu/posts
 - [David Oliver Sacks: founder](https://sacks.substack.com/archive)
 - [Marily Nika: AI & Product Management](https://marily.substack.com)
+- [MITx MicroMasters® Program in Data, Economics, and Design of Policy](https://us6.campaign-archive.com/home/?u=ad81d725159c1f322a0c54837&id=4e6e694935)
 
 # Buddhism
 
