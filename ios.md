@@ -34,6 +34,7 @@
 - https://www.hackingwithswift.com/articles/96/how-to-deliver-a-talk-at-a-programming-conference
 - https://github.com/Nickersoft/awesome-careers#ios-engineer
 - [Mohammad Azam](https://m.youtube.com/user/azamsharp/playlists)
+- [Bas Broek (accessibility)](https://www.basbroek.nl/speaking)
 
 # Development
 

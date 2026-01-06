@@ -751,6 +751,7 @@
 - https://github.com/iosifache/sec-feeds/blob/main/feeds/phrack.xml
 - [Denis Laskov](https://it4sec.substack.com/archive)
 - [Josh Devon: enterprise AI agents](https://securetrajectories.substack.com/archive)
+- [Ciarán Cotter: bug bounty](https://www.monke.ie/archive)
 
 # SEO 
 
