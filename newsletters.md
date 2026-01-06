@@ -413,6 +413,7 @@
 - [Ian Cutress & Ryan Smith - The latest in semiconductors: silicon, AI, processors, market trends](https://morethanmoore.substack.com/archive)
 - [AJ Kourabi](https://chipchatter.substack.com/archive), https://www.ajkourabi.com/everything-else/metascience-reading-list
 - Patrick O'Shaughnessy: https://us8.campaign-archive.com/home/?u=e35e149b66d5b7b476afc8ff5&id=325454c9ab
+- [Tracy Shuchart](https://renegaderesources.pro/archive)
 
 # iOS
 
