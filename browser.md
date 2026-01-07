@@ -62,6 +62,7 @@ javascript: (() =>
 - https://eriksolsen.com/blog/dynamic-bookmarks-in-google-chrome
 - https://gabrielsroka.github.io/webpages/bookmarklets.htm
 - https://github.com/satisfice/web-testing-bookmarklets
+- https://www.alwaystwisted.com/articles/a-few-web-developer-bookmarklets
 
 # `Clipboard API`
 
