@@ -23,6 +23,7 @@
 - https://ofershmueli.medium.com/best-cybersecurity-books-to-read-72b9a156945e
 - https://github.com/DanielAvinoam/WindowsKernelProgrammingBook
 - https://nostarch.com/book-batch-scripting
+- https://www.amazon.com/Old-New-Thing-Development-Throughout/dp/0321440307
 
 # Cinema
 
