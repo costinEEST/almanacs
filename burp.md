@@ -45,6 +45,7 @@
 - https://www.crackcodes.in/2023/06/top-10-burpsuite-extensions-you-must.html
 - https://danaepp.com/detecting-api-endpoints-and-source-code-with-js-miner
 - [takes a JSON object from a request and tries using a predefined set of gadgets to poison all possible fields](https://blog.doyensec.com/2024/02/17/server-side-prototype-pollution-Gadgets-scanner.html)
+- https://www.linkedin.com/posts/tib3rius_notsponsoredijustloveburp-activity-7327711876438544384-Fkm_
 
 # Watch
 
