@@ -120,6 +120,7 @@
 - https://textslashplain.com/2024/05/22/authenticode-in-2024
 - https://ipx.ac - IP info & leak test suite
 - [The Tech Transparency Project found that both Apple and Google are still offering Chinese-owned VPN apps in their stores, including some tied to companies linked to China's military](https://www.theregister.com/2025/06/13/apple_google_chinabased_vpns)
+- https://european-alternatives.eu/alternative-to/youtube
 
 # Regulation
 
