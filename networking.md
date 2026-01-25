@@ -366,6 +366,7 @@
 - https://vincent.bernat.ch/en/blog/2011-ssl-session-reuse-rfc5077
 - https://blog.heckel.io/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone
 - https://obensource.com/blogs/https-for-local-development
+- https://jviide.iki.fi/http-redirects.html
 
 # HTTP2
 
