@@ -381,6 +381,7 @@
 - https://twitter.com/jplhomer/status/1587095536833859584 + https://hydrogen.shopify.dev/roadmap + https://twitter.com/jjenzz/status/1587098503326613506
 - [syntax highlighting](https://github.com/code-hike/bright)
 - https://twitter.com/dan_abramov/status/1647203329854799872
+- https://micahcantor.com/blog/bluesky-comment-section.html
 
 #  State management
 
