@@ -103,12 +103,13 @@
 - https://jvns.ca/tcpdump-zine.pdf
 - https://chancej715.github.io/2023/03/22/decode-network-packet-hex-dump.html 
 
-# The Open Systems Interconnection model (OSI)
+# OSI (open systems interconnection model)
 
 - https://ahmadnassri.com/blog/modern-application-model
 - https://github.com/bkimminich/it-security-lecture/blob/master/slides/01-04-network_security.md#osi-network-layer-model
 - https://github.com/jivoi/offsec_pdfs/blob/master/OSI-model.jpg
 - https://securityzines.substack.com/p/there-is-osi-and-tcpip
+- https://davidad.github.io/blog/2014/04/24/an-osi-layer-model-for-the-21st-century
 
 # Routing
 
