@@ -296,6 +296,7 @@
 
 - [7card](https://us6.campaign-archive.com/home/?u=9e94e95e9b847d93577c8c4de&id=a8dae129d2)
 - [UrbanEye Film Festival](https://us8.campaign-archive.com/home/?u=bd394d3cbcf2afc709f23dbcd&id=bd3f1aceb1)
+- [Cristina Stoenescu: Contemporary Art Events - Bucharest](https://cstoenescu.substack.com/archive)
 
 # Java
 
