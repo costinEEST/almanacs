@@ -17,6 +17,7 @@
 - https://gabrielsroka.github.io/JavaScript-vs-PowerShell.htm
 - [Run a script every time a file changed](https://hillelwayne.com/tipjar/ps-01)
 - https://blog.nuculabs.dev/posts/2023/2023-02-02-separate-audio-from-video-with-ffmpeg-and-powershell
+- [touch](https://cassidoo.co/post/touch-on-ps)
 
 # Opinion
 

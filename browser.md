@@ -456,7 +456,7 @@ javascript: (() =>
 - [Standalone client for proxies of Opera VPN](https://github.com/Snawoot/opera-proxy)
 - https://medium.com/@renwa/opera-browser-vpn-bypass-20877aaf08c0
 
-# Zen 
+# Zen
 
 - https://werd.io/why-im-all-in-on-zen-browser
 
@@ -569,6 +569,7 @@ javascript: (() =>
 - https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process
 - [The SEO Roadmap with Free Resources & Tools](https://learningseo.io)
 - [How 16 Companies are Dominating the World’s Google Search Results (2024 Edition)](https://detailed.com/google-control)
+- https://cassidoo.co/post/ai-llm-discoverability
 
 # Server-sent events (SSE)
 
@@ -738,8 +739,7 @@ javascript: (() =>
 - https://www.iamtk.co/leveraging-the-idle-until-urgent-technique-to-improve-performance, https://github.com/imteekay/web-performance-research
 - Interaction to Next Paint (INP)
   - https://www.speedcurve.com/blog/INP-user-experience-correlation
-- First Input Delay (FID)
-  - 
+- ## First Input Delay (FID)
 
 # Miscellaneous
 
