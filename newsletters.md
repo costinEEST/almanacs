@@ -19,7 +19,7 @@
 - [Schalk Neethling](https://schalkneethling.substack.com/archive)
 - [Bruno Pulis (in Brazilian Portuguese)](https://brunopulis.ck.page)
 
-# API 
+# API
 
 - [Mahdi Yusuf](https://architecturenotes.co/archive)
 - [Mike Bifulco, Phil Sturgeon](https://apisyouwonthate.com/tag/newsletter)
@@ -83,6 +83,7 @@
 - [Padu Preda: teatru](https://substack.com/@radupreda/posts)
 - [Katiuska Pino | Venezuelan children's book illustrator](https://katiuska.substack.com/archive)
 - https://danielsemenciuc.substack.com/profile/posts
+- [Miguel Ángel Cajigal Vera](https://elbarroquista.substack.com/archive)
 
 # Artificial intelligence
 
@@ -234,7 +235,7 @@
 - [Peach Tree World News](https://us21.campaign-archive.com/home/?u=64396dd159205cde8617da026&id=7b37edf2d3)
 - [Diamond Cutter Classics](https://us5.campaign-archive.com/home/?u=cc86f7385681e51d8709ebf93&id=a92d306f26)
 
-# C 
+# C
 
 - [Oz Nova](https://newsletter.ozwrites.com/archive)
 - [Charlie Harrington](https://whatrocks.substack.com/archive)
@@ -245,7 +246,7 @@
 - https://intercalationstation.substack.com/archive
 - [Daniel Kent](https://techtricity.substack.com/archive)
 
-# Cinema 
+# Cinema
 
 - [F-SIDES Cineclub: platformă de filme și discuții feministe](https://us10.campaign-archive.com/home/?u=9d30172c90fa51ff006999c11&id=b77074aae1)
 - [Anna Rettberg, Casey Muratori: talk about movies as movies, rather than as products, propaganda, or fan service](https://www.mollymovieclub.com/archive)
@@ -274,7 +275,7 @@
 - https://www.feistyduck.com/bulletproof-tls-newsletter/archive
 - [Filippo Valsorda](filippo.io/newsletter)
 
-# Design 
+# Design
 
 - https://vinceshao.substack.com/archive
 - [Bucharest Graphic Days](https://us14.campaign-archive.com/home/?u=4c58dd74a372fed5ca8d1d040&id=8f576d7920)
@@ -286,13 +287,13 @@
 - https://ralphammer.substack.com/archive
 - [Edith Zimmerman](https://drawinglinks.substack.com/archive)
 
-# Economy 
+# Economy
 
 - [Jeffrey David Sachs](https://us19.campaign-archive.com/home/?u=50ec04f7fdd8f247aecfa0ddf&id=f1791aaa63)
 - [Mariana Francesca Mazzucato](https://marianamazzucato.substack.com/archive)
 - [Matthew Green: liberal, democrat, activist](https://thinkingliberal.substack.com/archive)
 
-# Event 
+# Event
 
 - [7card](https://us6.campaign-archive.com/home/?u=9e94e95e9b847d93577c8c4de&id=a8dae129d2)
 - [UrbanEye Film Festival](https://us8.campaign-archive.com/home/?u=bd394d3cbcf2afc709f23dbcd&id=bd3f1aceb1)
@@ -307,7 +308,7 @@
 
 - [Addy Osmani](https://addyo.substack.com/archive)
 - [Philip Roberts](http://latentflip.com/#)
-- [Nathan Lawson](https://astroweekly.beehiiv.com) 
+- [Nathan Lawson](https://astroweekly.beehiiv.com)
 - [Alex Kotliarskyi](https://us3.campaign-archive.com/home/?u=96d6ac29ef7232f76b9edc7b9&id=79380afc5b)
 - [Rebecca Murphey](https://rmurphey.substack.com/archive)
 - Sébastien Lorber: https://thisweekinreact.com/newsletter, https://substack.thisweekinreact.com/archive
@@ -330,7 +331,7 @@
 
 - [Jewish Studies at Fordham University](https://us13.campaign-archive.com/home/?u=f000ad8783f4985c05ec1a11c&id=df05eee35a)
 
-# Law 
+# Law
 
 - https://substack.com/@ruxandrasava/posts
 
@@ -442,7 +443,7 @@
 - [Fundatia Culturala Memoria](https://us7.campaign-archive.com/home/?u=21562341fc294594ee2ed413f&id=93bd3e91ec)
 - https://stripepress.substack.com/archive
 
-# C language 
+# C language
 
 - [Jacob Sorber](https://us8.campaign-archive.com/home/?u=5ba7801240bea9947c7849f4f&id=05db6fc9a8)
 
@@ -487,7 +488,6 @@
 - [Maria Țoghină](https://substack.com/@bucurestifm/posts)
 - Bogdan Ivanov: https://i2media.substack.com/archive, https://bogdanivanov.substack.com/archive
 
-
 # Tips
 
 - [feeds/videos.xml?channel_id={{CHANNEL_ID}}](https://twitter.com/pawelgrzybek/status/1240249320336695296)
@@ -495,7 +495,7 @@
 - https://leahneukirchen.org/MySubscriptions.cgi
 - https://github.com/watson/cheatsheets/blob/master/google-calendar.md
 
-# Perl 
+# Perl
 
 - https://perlweekly.com/archive
 
@@ -755,7 +755,7 @@
 - [Josh Devon: enterprise AI agents](https://securetrajectories.substack.com/archive)
 - [Ciarán Cotter: bug bounty](https://www.monke.ie/archive)
 
-# SEO 
+# SEO
 
 - [Mark Williams-Cook](https://coreupdates.com/profile)
 
@@ -797,7 +797,7 @@
 - https://curtismchale.ca/category/pkm-weekly
 - [Eleanor Konik](https://www.eleanorkonik.com/tag/roundup)
 
-# PHP 
+# PHP
 
 - [Simon Holywell](https://us5.campaign-archive.com/home/?u=05c835f460cad2f954e351732&id=e06199684b)
 - [Maciek Palmowski: CI / CD; Wordpress](https://newsletter.maciekpalmowski.dev/archive)
@@ -838,7 +838,6 @@
 - [Lucian Ghinda](https://newsletter.shortruby.com/archive)
 - [David Bryant Copeland](https://buttondown.email/davetron5000/archive)
 - [Kelly Sutton](https://buttondown.email/kellysutton/archive)
-
 
 # Rust
 
@@ -922,17 +921,17 @@
 - [Stian Håklev](https://substack.com/@networkedthought/posts)
 - [Claudia Costas: Spanish](https://clasesconclau.substack.com/archive)
 
-# Sport 
+# Sport
 
 - [Andreea Giuclea](https://povestidinsport.substack.com/archive)
 - [Vlad Bogos: Fotbal pentru weekend](https://tackle.ro/newsletter)
 - https://fcargesinsider.substack.com/archive
 
-# Swift 
+# Swift
 
 - https://adamlyttleapps.substack.com/archive
 
-# Tango 
+# Tango
 
 - [Bärbel Rücker: the Feldenkrais method & argentine tango](https://us17.campaign-archive.com/home/?u=2dc29a451256b892bca58d1d6&id=f85201e0f3)
 
