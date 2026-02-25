@@ -1,4 +1,4 @@
-#  Course
+# Course
 
 - https://react-tutorial.app
 - https://github.com/alan2207/bulletproof-react
@@ -31,7 +31,7 @@
 - https://aidenybai.com/thoughts/virtual-dom + https://github.com/aidenybai/million
 - https://github.com/learning-zone/react-basics
 
-#  Boilerplate
+# Boilerplate
 
 - https://www.epicreact.dev/react-19-cheatsheet
 - https://github.com/UnlyEd/next-right-now
@@ -65,12 +65,12 @@
 - https://github.com/jamesqquick/React-and-Serverless-Fullstack-Web-Development
 - https://component-party.dev/compare/react-vs-vue
 
-#  Book
+# Book
 
 - https://softchris.github.io/books/react + https://github.com/softchris/react-book-repo
 - https://theroadtoenterprise.com/books/react-the-road-to-enterprise
 
-#  Cinema
+# Cinema
 
 - https://github.com/JSerZANP/react-source-code-walkthrough-en
 - https://github.com/tiaanduplessis/awesome-react-talks
@@ -80,11 +80,11 @@
 - https://portal.gitnation.org/contents/remote-rendering-with-web-workers + https://shopify.engineering/remote-rendering-ui-extensibility
 - [Webxr with Three.js](https://m.youtube.com/playlist?list=PLpM_sf_d5YTPXeVp4cmgN_cNBj9pNTEmZ)
 
-# Community 
+# Community
 
 - https://youssefbenlemlih.notion.site/The-Frontend-Kit-81c0379323c947fa99d39cf3065758d4
 
-#  Demo
+# Demo
 
 - https://github.com/ustaxes/UsTaxes
 - [Minimalist web interface for qBitTorrent. Implemented using Vite, React, Typescript and Mantine](https://github.com/Gabi1M/QBitUI)
@@ -149,17 +149,16 @@
 - https://github.com/quran/quran.com-frontend
 - [WebFlow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere](https://github.com/webstudio-is/webstudio)
 
-
-# Game 
+# Game
 
 - https://gitlab.com/morcosan/assignment-magnolia
 
-#  Radio
+# Radio
 
 - [React Round Up](https://devchat.tv/react-round-up)
 - https://www.digitalprimates.net/blog/making-authentication-in-react-apps-easy-with-useauth
 
-#  Hook
+# Hook
 
 - https://twitter.com/tylermcginnis/status/1169667360795459584
 - https://github.com/PacktPublishing/Micro-State-Management-with-React-Hooks
@@ -217,11 +216,11 @@
 - [State setters, reducer dispatchers, action state dispatchers, refs, and the return value of useEffectEvent have `stable values`](https://macwright.com/2024/09/19/the-extra-rules-of-hooks)
 - [The `storage` events are only fired when local storage is changed by a different document, not the document where the change originated](https://www.nico.fyi/blog/ssr-friendly-local-storage-react-custom-hook)
 
-#  Lifecycle methods
+# Lifecycle methods
 
 - [getSnapshotBeforeUpdate](https://twitter.com/sebmarkbage/status/1380539161690640384) + https://github.com/charbelrami/baby-yoda/blob/6591f29208f324e84cae5fe401fecfe75c46f23f/src/index.js#L63
 
-#  Context API
+# Context API
 
 - [That React Component Right Under Your Context Provider Should Probably Use `React.memo`](https://twitter.com/sophiebits/status/1228942768543686656)
 - [What’s your favorite resource for understanding React component composition to avoid prop drilling and managing shared state in complex components?](https://twitter.com/jhooks/status/1251636235375800320)
@@ -256,8 +255,9 @@
 - [higher order component that will randomly throw Error](https://github.com/jchiatt/react-chaos)
 - https://github.com/Sawtaytoes/children-first-components
 - https://react-spectrum.adobe.com/blog/creating-a-pointer-friendly-submenu-experience.html
+- https://emilkowal.ski/ui/building-a-toast-component, https://github.com/emilkowalski/sonner
 
-#  Pattern
+# Pattern
 
 - https://www.patterns.dev
 - https://github.com/nearform/react-patterns-workshop
@@ -280,7 +280,7 @@
 - https://refine.dev/blog/react-memo-guide
 - [Polymorphism in React: the "as"- and "asChild"-patterns](https://www.bekk.christmas/post/2023/01/polymorphism-in-react)
 
-#  Concurrent Mode/Suspense
+# Concurrent Mode/Suspense
 
 - https://github.com/chantastic/react-suspense-course
 - My little React Suspense cache strategy: [tweet](https://twitter.com/ryanflorence/status/1206988974327128064) + [gist](https://gist.github.com/ryanflorence/e10cc9dbc0e259759ec942ba82e5b57c)
@@ -289,20 +289,20 @@
 - https://twitter.com/addyosmani/status/1241303537746726913
 - https://yagmurcetintas.com/journal/whats-new-in-react-18
 
-#  Lazy
+# Lazy
 
 - https://dev.to/thekashey/react-code-splitting-in2019-3cmg
 - [You can preFetch lazy loaded React components](https://twitter.com/housecor/status/1200554167644966912)
 - [I have more than 600 routes with lazy chunks ..](https://twitter.com/HoracioSystem/status/1239912711577899011)
 
-#  Routing
+# Routing
 
 - [How do I pass props to a route component?](https://twitter.com/ryanflorence/status/1206643654753783808)
 - https://github.com/hinok/react-router-last-location
 - https://medium.com/better-programming/react-router-v6-in-two-minutes-a7a2963e2340
 - [React Router v4, v5 and v6](https://www.twitch.tv/videos/580762054)
 
-#  Styling
+# Styling
 
 - https://www.robinwieruch.de/react-css-styling
 - https://www.patterns.dev/posts/view-transitions
@@ -368,7 +368,7 @@
 - https://www.matschik.com/writing/understanding-virtual-dom-that-powers-reactjs-and-vuejs
 - [Facebook uses the Hermes engine - the React Native runtime - to run React web SSR](https://www.reddit.com/r/reactjs/comments/1ltbw2e/how_does_facebook_serve_react_pages)
 
-#  Server component (RSC)
+# Server component (RSC)
 
 - https://www.robinwieruch.de/react-component-types/#react-server-components
 - https://dev.to/swyx/an-annotated-guide-to-the-react-server-components-demo-2a83
@@ -383,7 +383,7 @@
 - https://twitter.com/dan_abramov/status/1647203329854799872
 - https://micahcantor.com/blog/bluesky-comment-section.html
 
-#  State management
+# State management
 
 - https://www.frontendundefined.com/posts/monthly/react-state-management-libraries-history
 - [nanostores](https://youtube.com/shorts/EmSINUHtXkY) + https://docs.astro.build/en/core-concepts/sharing-state
@@ -419,14 +419,14 @@
 - [Demystifying the internal of jotai](https://twitter.com/dai_shi/status/1484835169475653634)
 - https://www.frontendundefined.com/posts/monthly/proxy-state-management-mobx-valtio
 
-#  Preact
+# Preact
 
 - https://github.com/jchen1/website
 - [Fastify server-side renders Preact to html and serves with a Preact client.js bundle for DOM hydration.](https://github.com/sebringrose/fastify-preact-ssr) + https://youtu.be/p8_wOBU478w
 - http://marianoguerra.org/posts/a-simple-understandable-production-ready-preact-project-setup
 - https://github.com/PuruVJ/macos-preact
 
-#  NextJS
+# NextJS
 
 - [Simple, powerful and flexible site generation framework with everything you love from Next.js](https://github.com/shuding/nextra)
 - https://www.ctnicholas.dev/articles/how-to-use-nextjs-middleware
@@ -445,7 +445,7 @@
 - https://github.com/jchiatt/nextjs-basic-auth
 - https://github.com/samuelkraft/notion-blog-nextjs
 
-#  Remix
+# Remix
 
 - https://blog.plasmic.app/posts/remix-for-nextjs-developers + https://twitter.com/yaaang/status/1470814383353696259
 - https://www.adamcollier.co.uk/blog/moving-from-next-to-remix
@@ -456,12 +456,11 @@
 - [Musical Heritage Application](https://github.com/greyshore/MusicTree.Me)
 - [remix.polymath.chat](https://twitter.com/mjackson/status/1619419579754889218)
 
-
-#  Qwik.js
+# Qwik.js
 
 - https://www.builder.io/blog/movies-app-in-7-frameworks-which-is-fastest-and-why + https://github.com/wmalarski/qwik-city-movies
 
-#  Package
+# Package
 
 - [React Spring](https://twitter.com/EmmaWedekind/status/1207231921320865792)
 - [React Three Fiber](https://twitter.com/0xca0a/status/1204867532185853953) + https://github.com/drcmda/learnwithjason
@@ -492,7 +491,7 @@
 - [build dashboards fast](https://github.com/tremorlabs/tremor)
 - [Build and send emails using React](https://github.com/zenorocha/react-email) + https://twitter.com/sebastienlorber/status/1605587761398009859
 
-#  Debugging
+# Debugging
 
 - [Application Performance](https://m.youtube.com/playlist?list=PLWIcRrPLCdUd0VC6ah9mPKHxzpPjcm86P)
 - https://old.reddit.com/r/reactjs/comments/1f6abzy/performance_optimization_strategies_for
@@ -514,7 +513,7 @@
 - https://richiemccoll.com/visualising-front-end-performance-bottlenecks
 - https://www.builder.io/blog/hydration-sabotages-lazy-loading
 
-# Static site 
+# Static site
 
 - https://blog.carlosn.com.br/post/writing-static-websites-with-vite-and-react
 
@@ -554,7 +553,7 @@
 - [Assert a side effect did not happen](https://www.epicweb.dev/inverse-assertions)
 - [TDD workshop](https://github.com/abruzzi/code-oven)
 
-#  Tool
+# Tool
 
 - https://github.com/JefMari/awesome-wysiwyg
 - https://github.com/yyx990803/vite-vs-next-turbo-hmr
@@ -587,7 +586,7 @@
 - https://jaked.org/blog/2022-01-26-Read-the-Code-GitHub-Flat-Viewer
 - [GPT-powered chat for documentation search & assistance](https://github.com/arc53/DocsGPT)
 
-#  Opinion
+# Opinion
 
 - https://www.zachleat.com/web/react-criticism
 - https://github.com/gactjs/research/tree/main/react-instance-identity-model

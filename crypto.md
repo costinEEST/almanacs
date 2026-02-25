@@ -1,4 +1,4 @@
-# ADEPT 
+# ADEPT
 
 - https://jjtech.dev/reverse-engineering/adobe-adept
 
@@ -24,6 +24,7 @@
 - https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html
 - https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md + [Cryptographically Signed Firmware](https://youtu.be/Veu_fDPecM8)
 - https://blog.1password.com/confidential-computing
+- [A collection of cryptographic primitives targeted at embedded use](https://github.com/ctz/cifra)
 
 # Best practices
 

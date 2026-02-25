@@ -38,6 +38,7 @@
 
 - https://shyr.io/talks/deploying-with-kubernetes + https://github.com/sheharyarn/io19-k8s-kotlin-app
 - https://github.com/dnutiu/aoc-2023
+- [Call Kotlin from any language (Python or Rust)](https://github.com/aochagavia/krossover)
 
 # Practice
 
