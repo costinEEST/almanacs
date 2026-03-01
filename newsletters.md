@@ -901,6 +901,7 @@
 - https://raduhossu.substack.com/archive
 - [Gabriela Bernal: Korean Peninsula scholar specializing in US-DPRK and inter-Korean relations](https://www.peninsuladispatch.com/archive)
 - [Octavian Vasilescu: https://bucurestiul.substack.com/archive, https://stiridinparlament.substack.com/archive
+- [Pintilie Raul-Ciprian: Middle East and North Africa](https://mideastpolitics.substack.com/archive)
 
 # Social sciences
 
