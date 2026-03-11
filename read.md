@@ -132,8 +132,9 @@
 - [Mohnish Pabrai](https://www.chaiwithpabrai.com/bookshelf.html)
 - [Chris Krycho](https://v5.chriskrycho.com/library/reading-list)
 - [Duarte O.Carmo](https://github.com/duarteocarmo/my-personal-zen)
+- [Qasar Younis](https://qy.co/books)
 
-# Shelf 
+# Shelf
 
 - [Andrico Karoulla](https://andri.co/bookshelf)
 - https://davidakennedy.com/reading
