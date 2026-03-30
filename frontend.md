@@ -1,45 +1,13 @@
-### HTML
+# HTML
 
 - [Remembrance of Tags Past](https://hero35.com/css-minsk-js/2019/remembrance-of-tags-past)
 - https://vanillajspodcast.com/html-is-a-living-language
 - [HTML has native support for autocomplete-style dropdowns attached to inputs via the <datalist> element.](https://twitter.com/TejasKumar_/status/1194689434656088065)
 - [Make a custom select menu](https://twitter.com/scottjehl/status/1225507115172847618)
 
-### Unicode
+# CSS
 
-- https://www.unicode.org/charts/normalization/
-- https://www.compart.com/en/unicode
-- [Query the Unicode database from the command line, with good support for emojis](https://github.com/arp242/uni)
-- [Translate text to emoji](https://github.com/notwaldorf/emoji-translate)
-- [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
-- https://twitter.com/clagnut/status/1222148873218658304
-- https://github.com/dannyfritz/commit-message-emoji
-- https://github.com/jcsrb/til/blob/master/unicode/remove-byte-order-mark.md
-- [A database of Apple-supported emojis in JSON format.](https://github.com/meyer/emoji-db)
-- [Convert an emoji text string into space separated unicode values.](https://twitter.com/alvaroefe/status/1246579099209957377)
-
-### Accessibility
-
-- https://www.edx.org/course/web-accessibility-introduction
-- https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108
-- https://www.24a11y.com/2019/an-adventurers-guide-to-w3c-specs/
-- https://github.com/brunopulis/awesome-a11y
-- https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
-- https://mismatch.design/resources/accessibility-resources/2018/07/14/introduction-to-disability-and-accessibility
-- [WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments. ](https://github.com/CoreyGinnivan/whocanuse)
-- https://fotis.xyz/tags/a11y
-- https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me
-- https://github.com/melanierichards/resources/blob/master/resources/accessibility.md
-- https://spectrum.adobe.com/page/inclusive-design
-- https://github.com/springernature/frontend-playbook/blob/master/accessibility/README.md
-- https://github.com/stringyland/a11y-learning-plan
-- [.. audit](https://twitter.com/zcorpan/status/1217627504535576579)
-- https://www.vincit.fi/fi/software-development-450-words-per-minute
-- https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html
-
-### CSS
-
-- https://www.youtube.com/playlist?list=PLWIcRrPLCdUcPyDx67bTPJBLauKMyfjlt
+- https://m.youtube.com/playlist?list=PLWIcRrPLCdUcPyDx67bTPJBLauKMyfjlt
 - https://youmightnotneed.com/css
 - [58 Bytes of CSS to look great nearly everywhere.](https://news.ycombinator.com/item?id=19607169)
 - https://github.com/shuhei/knowledge/blob/master/browser.md#css
@@ -57,19 +25,9 @@
 - http://fremycompany.com/BG/2016/Animate-width-from-zero-to-auto-kinda-895
 - https://fossheim.io/writing/posts/css-polaroid-camera
 
-### SEO
-
-- https://developers.google.com/search/docs/guides/intro-structured-data
-- [Find broken links, missing images, etc within your HTML.](https://github.com/stevenvachon/broken-link-checker)
-- [🐿 Scurry around your site and find all those broken links.](https://github.com/JustinBeckwith/linkinator)
-- https://vasco3.gitbooks.io/hacks-n-notes/content/internet_marketing/seo.html
-- https://github.com/darekkay/best-practices#seo
-- [Curs Super SEO pentru eCommerce](https://academia.gomag.ro/biblioteca?access=67)
-
-### Color
+# Color
 
 - [Happy Hues - Curated colors in context.](https://www.happyhues.co)
-- [Get random, accessible color combinations](https://randoma11y.com)
 - https://darekkay.com/dev/color-tools.html
 - https://corey.ginnivan.net/crash-courses
 - https://github.com/sw-yx/spark-joy#color-picking
@@ -83,11 +41,11 @@
 - https://www.rapidtables.com/web/color/html-color-codes.html
 - https://nipponcolors.com
 
-### Branding
+# Branding
 
 - https://www.fastcompany.com/90125752/the-ingenious-way-tv-logos-were-made-before-computers
 
-### Design
+# Design
 
 - [Codify: Parametric and Computational Design in Landscape Architecture](https://books.google.ro/books?id=QT9ZDwAAQBAJ)
 - [Everybody calling the Cybertruck "brutalist" is wrong.](https://www.inverse.com/article/61479-cybertruck-brutalism-not-really)
@@ -97,12 +55,12 @@
 - https://medium.com/google-design/the-best-design-books-that-arent-explicitly-about-design-74fc96ce115e
 - [Geometric computation foundation for design](https://twitter.com/hyper_yolo/status/1188018751330897920)
 - [Building Beautiful UIs](https://bbuis.org)
-- https://didoesdigital.com/project/design-for-engineers
 - https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html
 - https://briefbox.me recommended by [Thomas Lowry](https://twitter.com/negativespaceca)
 - https://trongnguyen.co/books-for-product-designers
+- [100 Landing Page hot tips](https://mobile.twitter.com/robhope/status/1265278107088347136)
 
-### Design Systems
+# Design Systems
 
 - https://designsystemchecklist.com + https://twitter.com/JoshWComeau/status/1212416797254832130
 - https://www.learnstorybook.com
@@ -111,14 +69,14 @@
 - https://www.smashingmagazine.com/design-systems-book
 - https://learning.oreilly.com/library/view/practical-ui-patterns/9781484249383
 - [Design Systems with Storybook & React](https://frontendmasters.com/workshops/design-systems-storybook)
-- [Design Systems London 2019](https://www.youtube.com/playlist?list=PLNC1kqILNVugoHglOCwa4bxhVDJp3lsBX)
+- [Design Systems London 2019](https://m.youtube.com/playlist?list=PLNC1kqILNVugoHglOCwa4bxhVDJp3lsBX)
 - [How a design system should begin?](https://twitter.com/matheus1lva/status/1200420309205233664)
 - [Expressive Design Systems](https://twitter.com/yeseniaa/status/1176543104708616194)
 - [My biggest frustration with the term "design system" is that it leaves way too much wiggle room for the status quo to pretend it's keeping up.](https://twitter.com/markdalgleish/status/1208657843693350914)
 - https://github.com/alexpate/awesome-design-systems
 - https://abookapart.com/products/expressive-design-systems
 
-### Animations
+# Animations
 
 - [Cubic Bezier Curves - Under the Hood](https://vimeo.com/106757336) + https://medium.com/sketch-app/mastering-the-bezier-curve-in-sketch-4da8fdf0dbbb
 - https://github.com/desandro/practical-ui-physics
@@ -128,7 +86,7 @@
 - https://rosenfeldmedia.com/books/designing-interface-animation/details/table-of-contents (coupon "UIANIMATE")
 - [Create 2D animations](https://medium.com/rive/announcing-rive-1326ad92e403)
 
-### Illustrations
+# Illustrations
 
 - [Open source illustrations kit](https://illlustrations.co/)
 - https://github.com/melanierichards/resources/blob/master/resources/illo.md
@@ -137,7 +95,7 @@
 - [iconmonstr - Free simple icons for your next project](https://iconmonstr.com)
 - https://undraw.co/illustrations
 
-### Art
+# Art
 
 - https://www.amazon.com/Magic-Loss-Internet-as-Art-ebook/dp/B00P434HC0
 - [Introduction to interactivity](https://everestpipkin.github.io/emsII/) + https://twitter.com/everestpipkin/status/1207502480042536960
@@ -145,7 +103,6 @@
 - [Fun with Ascii: Putting some console art on my site](https://benmccormick.org/ascii-kusty)
 - [What are the best books or articles you've read on generative/computational design?](https://twitter.com/mrmrs_/status/1185923810069024768)
 - https://github.com/GeorgeGally/creative_coding
-- https://github.com/terkelg/awesome-creative-coding
 - https://github.com/nitin42/generative-art-tools
 - https://github.com/yuanchuan/talk/tree/gh-pages/generative-art-with-css
 - [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
@@ -156,7 +113,7 @@
 - [New Way of Seeing: The History of Art in 57 Works by Kelly Grovier](https://www.goodreads.com/book/show/40554488-new-way-of-seeing)
 - [30 Films Every Art Lover Should See](https://arte8lusso.net/art/filmaboutart)
 
-### UX
+# UX
 
 - [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont)
 - https://blog.hoangnm.com/pageDir/Books
@@ -171,25 +128,12 @@
 - https://github.com/hellerve/programming-talks#uxui
 - [How to Fix Mobile Dating Apps](https://matt.sh/fix-dating-apps)
 - [An open and organized directory of the best pieces about Product Management.](https://theproductindex.com)
-- https://alexanderell.is/posts/taking-over-my-clipboard
 - https://www.indiehackers.com/post/secret-google-ux-playbooks-e603154154
-- [User Experience Fundamentals - The Team W](https://www.youtube.com/playlist?list=PLXyx-Y-4xxNRANuIRlC7GnsvlMOOuCVzZ)
+- [User Experience Fundamentals - The Team W](https://m.youtube.com/playlist?list=PLXyx-Y-4xxNRANuIRlC7GnsvlMOOuCVzZ)
+- https://growth.design/case-studies/tiktok-feed-psychology
+- https://userinyerface.com
 
-### Performance
-
-- [future-web-perf by Vitaly Friedman](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf)
-- https://github.com/melanierichards/resources/blob/master/resources/performance.md
-- https://paper.dropbox.com/doc/Draft-Front-End-Performance-Checklist-2020-Please-add-your-comments-TQq0j3asMeEV6a1TRZGpS
-- https://github.com/shuhei/knowledge/blob/master/web-perf.md
-- https://github.com/luruke/awesome-casestudy
-- https://github.com/fabkrum/web-performance-resources
-- [Mobile Image Processing at London Web Perf Meetup, 2016](https://twitter.com/IacobanIulia/status/1218323157909737473)
-- [Stop manifest.json from opening a new TLS.](https://twitter.com/TimVereecke/status/1225547620791341062)
-- [Quick tips you can give fellow developers to help them improve performance in their web apps?](https://twitter.com/davidwalshblog/status/1242209784172085249)
-- https://www.debugbear.com/blog/performant-front-end-architecture
-- https://calibreapp.com/blog/performance-for-designers-images
-
-### Portfolios
+# Portfolios
 
 - https://github.com/melanierichards/highlights
 - [My personal website feat. Gatsby https://psb.design](https://github.com/pburtchaell/psb.design)
@@ -204,8 +148,10 @@
 - https://github.com/rampatra/wedding-website
 - https://github.com/rdev/fivepointseven
 - https://weblium.com/blog/website-redesign-step-by-step-process-tips-and-examples
+- [Adil Majid](https://blog.adilmajid.com) for the minimalist approach
+- [William Entriken](https://phor.net/bookmarks), almost no CSS
 
-### Inspire
+# Inspire
 
 - https://dribbble.com/shots/9296597-Rotating-Cuboid-Form-CSS-Animation-Instant-Browser-Validation + https://codepen.io/leenalavanya/full/rNaYZJN
 - https://dribbble.com/shots/9323743-Furniture-Shopping-3D
@@ -214,12 +160,9 @@
 - https://github.com/tastejs/awesome-app-ideas
 - https://github.com/samsquire/ideas
 - [An interactive demo walk-through we built to give visitors a feel for what the Trevor.io platform does.](https://github.com/tagspace/trevor-demo)
+- https://trello.com/b/A4OmiAWb/100-no-code-resources
 
-### Tailwind
-
-- https://github.com/creativetimofficial/tailwind-starter-kit
-
-### Miscellaneous
+# Miscellaneous
 
 - https://github.com/melanierichards/resources/blob/master/resources/misc.md
 - https://github.com/DovAmir/awesome-design-patterns/blob/master/README.md#front-end-development
@@ -233,16 +176,12 @@
 - https://github.com/JCGrant/awesome-hamartian-design
 - [..articles in the frontend and web dev space that are timeless and changed your perspective in some way.](https://twitter.com/PKodmad/status/1194381059950927872)
 - https://github.com/neutraltone/awesome-stock-resources
-- https://didoesdigital.com/project/code-for-designers
-- https://github.com/stevekinney/frontend-architecture-topics
 - https://github.com/baku89/ui-study
 - [A polyglot web converter.](https://github.com/ritz078/transform)
 - [Software Engineering for Startups (course)](https://github.com/CMU-17-356/cmu-17-356.github.io)
 - https://darekkay.com/blog/accessible-ui-frameworks
 - [Google just released 1,000 new images of the most gorgeous landscapes in Google Earth View](https://edition.cnn.com/2020/02/12/tech/google-earth-view-trnd/index.html)
-- https://www.hanshq.net/html-validation-with-curl.html
 - https://www.freecodecamp.org/news/what-is-cached-data
 - [The 8 best chatbot builders in 2020: For marketers, customer support, and more](https://zapier.com/blog/best-chatbot-builders)
-- https://andreasbm.github.io/web-skills
 - https://github.com/bcherny/frontend-interview-questions
 - [UI Design Daily | Weekly FREE UI resources straight to your inbox](https://uidesigndaily.com)
