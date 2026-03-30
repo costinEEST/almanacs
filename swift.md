@@ -21,7 +21,7 @@
 - https://github.com/criticalmaps/criticalmaps-ios
 - [watchOS app for checking air pollution levels](https://github.com/mackuba/SmogWatch)
 - https://andadinosaur.com/launch-crappy-vpn
-- [OutRun – Open-source, privacy oriented, outdoor fitness tracker (github.com/timfraedrich)](https://news.ycombinator.com/item?id=39014652)
+- [Pilgrim – Open-source, privacy-first walking and meditation companion for iOS (rebranded from OutRun)](https://github.com/walktalkmeditate/pilgrim-ios)
 - [A modern Wine wrapper for macOS](https://github.com/Whisky-App/Whisky)
 
 # Algorithm
