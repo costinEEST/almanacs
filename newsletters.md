@@ -314,7 +314,7 @@
 - Sébastien Lorber: https://thisweekinreact.com/newsletter, https://substack.thisweekinreact.com/archive
 - [Bonnie Schulkin](https://handsonwebdev.substack.com/archive)
 - https://substack.com/@madsbrodt/posts
-- [Danny Moerkerke](https://modernwebweekly.substack.com/archive)
+- [Danny Moerkerke: PWA, web component](https://modernwebweekly.substack.com/archive)
 - [EventHandler Tel Aviv](https://us14.campaign-archive.com/home/?u=129f365a5675cdee0989d5f95&id=f44d0b638f)
 - [Scott Jehl](https://us18.campaign-archive.com/home/?u=c133136142bd16e4b4d7538a8&id=320a0da0d1)
 - [Jamie Birch](https://buttondown.email/whatever_jamie/archive)
