@@ -6,6 +6,7 @@
 - [Workflow for automated tests](https://github.com/dexonline/dexonline/pull/988)
 - https://github.com/macintoshpie/ghactionsbyexample, https://www.actionsbyexample.com
 - https://m.youtube.com/watch?v=WF0HgaH-qtY, [Static analysis for GitHub Actions](https://github.com/zizmorcore/zizmor), https://jbp.io/2025/05/02/github-actions-is-someone-elses-computer
+- https://github.com/adamdriscoll/GitHubActionsHero PowerShell module for scripts
 
 # Book
 
