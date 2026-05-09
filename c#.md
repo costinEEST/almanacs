@@ -80,6 +80,7 @@
 
 - https://www.chestiiautomate.ro/2021/09/12/functionalitati-din-c-pe-care-as-vrea-sa-le-am-in-java
 - https://devforum.ro/t/7-reasons-for-startups-to-choose-asp-net-over-node-js/18419/5
+- https://domenic.me/windows-native-dev, https://github.com/domenic/display-blackout
 
 # Watch
 
