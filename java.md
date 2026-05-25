@@ -53,7 +53,6 @@
 - https://sookocheff.com/post/java/java-for-the-experienced-beginner
 - https://www.todaysoftmag.ro/article/3890/ghidul-tau-rapid-pentru-arhitectura-aplicatiilor-java
 
-
 # Cinema
 
 - https://github.com/bbenz/JavaforBeginners + https://m.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM
@@ -128,7 +127,7 @@
 - [Embedding Node.js and V8 in Java](https://docs.google.com/presentation/d/1lQ8xIHuywuE0ydqm2w6xq8OeQZO_WeTLYXW9bNflQb8) + https://github.com/caoccao/Javet
 - https://github.com/nayuki/x86-Assembler
 
-# Emulator 
+# Emulator
 
 - https://github.com/stars/pamoroso/lists/xerox
 
@@ -187,6 +186,7 @@
 - [Shows shipwreck locations on a map; each wreck can be clicked for further information](https://github.com/lauriharpf/shipwrecks)
 - [wind farm SCADA system](https://thesis.accel.dk) + https://tech-notes.accel.dk/technical/iec61400-25
 - https://github.com/BenGirone/thesis
+- Differences between reference types https://github.com/uberto/memoryReferences
 
 # Opinion
 
@@ -210,7 +210,7 @@
 - https://github.com/luontola/tdd-tetris-tutorial + https://www.youtube.com/playlist?list=PLSADDT9dzgRCjVvS13ekPr1KwX_JkDQJM
 - [A console-based chat client & server, built using strong TDD throughout. Use it to teach OO and TDD concepts](https://github.com/dirv/java-chat)
 
-# Virtual machine 
+# Virtual machine
 
 - http://binstock.blogspot.com/search/label/JVM
 - [Java Virtual Machine specification](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)

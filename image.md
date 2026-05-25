@@ -15,12 +15,13 @@
 - https://blog.jim-nielsen.com/2022/netlify-public-folder-part-iv
 - https://pqina.nl/blog/compress-image-before-upload
 - https://www.macarthur.me/posts/serving-notion-presigned-images-with-cloudflare
+- https://nelsonslog.wordpress.com/2026/05/24/working-with-ultra-hdr-jpgs
 
 # Book
 
 - [Physically Based Rendering: From Theory To Implementation | Matt Pharr, Wenzel Jakob, and Greg Humphreys](https://github.com/mmp/pbr-book-website)
 - https://www.goodreads.com/book/show/37499024-understanding-photography
-- https://www.littlefair.ca/reviews/how-to-photograph-people 
+- https://www.littlefair.ca/reviews/how-to-photograph-people
 - https://voxa.ro/ebooks/take-your-best-shot
 - [Bruce Nikkel: Practical Forensic Imaging. Securing Digital Evidence with Linux Tools (Bruce Nikkel)](https://nostarch.com/forensicimaging)
 
@@ -32,7 +33,7 @@
 - https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books
 - https://www.blind-magazine.com/stories/revisiting-susan-sontag
 
-# Course 
+# Course
 
 - https://github.com/quilime/photogrammetry
 - https://gabrieldunne.com/projection-mapping
