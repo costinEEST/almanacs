@@ -719,6 +719,7 @@
 - https://words.mattiasdesmet.org/archive
 - [Roni Firon Fouks](https://ronifouks.substack.com/archive)
 - [David McRaney: How Minds Change; You Are Not So Smart; You Are Now Less Dumb](https://davidmcraney.substack.com/archive)
+- [Kelly McGonigal](https://us11.campaign-archive.com/home/?u=9c0986f11c5d80baddb46f53b&id=7be5b89b2e)
 
 # Security
 
