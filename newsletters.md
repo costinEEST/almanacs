@@ -88,6 +88,7 @@
 # Artificial intelligence
 
 - [Andrew Yan-Tak Ng](https://www.deeplearning.ai/the-batch)
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now
 - [Andriy Burkov: True Positive Weekly](https://aiweekly.substack.com/archive)
 - Philipp Burckhardt: https://github.com/Planeshifter/hackernews-ai-digest, https://us8.campaign-archive.com/home/?u=f9519191ff01b1c8f04e8592b&id=a495b09cd9
 - https://doctorpenguin.com/newsletters
